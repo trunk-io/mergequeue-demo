@@ -3873,7 +3873,6 @@ adiathermal
 adiathermancy
 adiathermic
 adiathetic
-antiprism
 adiating
 adiation
 adib
@@ -4498,6 +4497,7 @@ antifebrile
 acridonium
 adulterine
 adulterize
+antiprism
 adulterously
 adulterousness
 autohemolysis
