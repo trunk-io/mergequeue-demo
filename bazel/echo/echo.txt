@@ -6310,7 +6310,6 @@ enroot
 enrooted
 enroots
 encirclement
-enround
 enruin
 enrut
 ens
@@ -8856,6 +8855,7 @@ eradicate
 eradicated
 epipolic
 eradicates
+enround
 eradication
 eradications
 embeddable
