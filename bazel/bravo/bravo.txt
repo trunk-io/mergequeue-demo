@@ -2609,7 +2609,6 @@ bellware
 bluehead
 barylalia
 barile
-barylite
 barilla
 baring
 bariolage
@@ -13860,6 +13859,7 @@ bowwows
 box
 boxberry
 boxberries
+barylite
 buttonless
 boxbush
 boxcar
