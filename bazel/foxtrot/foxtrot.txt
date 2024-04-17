@@ -7203,7 +7203,6 @@ feretrum
 footmanship
 flathe
 footmark
-footmen
 footnote
 footnoted
 footpace
@@ -11477,6 +11476,7 @@ furrieries
 furriers
 fibular
 flaunching
+footmen
 furriest
 flares
 furrily
