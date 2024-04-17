@@ -8577,7 +8577,6 @@ allegata
 allegate
 allegations
 allegator
-allegatum
 alleged
 allegedly
 allegement
@@ -9701,6 +9700,7 @@ amabel
 amabile
 amability
 amable
+allegatum
 amacratic
 amacrinal
 amadan
