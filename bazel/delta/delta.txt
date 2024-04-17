@@ -6768,7 +6768,6 @@ deskbound
 deskill
 desklike
 deskman
-deskmen
 desks
 desktop
 destined
@@ -10310,6 +10309,7 @@ diopters
 dioptograph
 dioptometer
 discophore
+deskmen
 dioptometry
 dismemberer
 dioptomiter
