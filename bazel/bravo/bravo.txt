@@ -4932,7 +4932,6 @@ beechnuts
 beechwood
 beechwoods
 buphthalmic
-bowet
 beedged
 beedi
 beef
@@ -13137,6 +13136,7 @@ boschbok
 boschneger
 boschvark
 boschveld
+bowet
 bose
 bosey
 boselaphus
