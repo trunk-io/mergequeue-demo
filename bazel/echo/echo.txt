@@ -6546,7 +6546,6 @@ ectophytic
 excuss
 empyrical
 entamoebic
-entangle
 entangleable
 entangled
 entangledness
@@ -10260,6 +10259,7 @@ etherealization
 etherealizing
 ethereally
 expwy
+entangle
 etherealness
 epoptes
 escherichia
