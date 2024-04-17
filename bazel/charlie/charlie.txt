@@ -8707,7 +8707,6 @@ chanidae
 chankings
 channel
 channelbill
-channeled
 channeling
 channelization
 channelize
@@ -14212,6 +14211,7 @@ circularly
 circularness
 circulars
 circulatable
+channeled
 circulated
 circulates
 circulation
