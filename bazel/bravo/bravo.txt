@@ -3149,6 +3149,7 @@ bloodshot
 basename
 biophysicist
 barb
+bankera
 behove
 baseness
 basenesses
@@ -6464,7 +6465,6 @@ balancewise
 benzohydrol
 benzoic
 benzoid
-bankera
 benzoylated
 benzoylating
 benzoylation
