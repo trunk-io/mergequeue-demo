@@ -6498,7 +6498,6 @@ diglot
 descendental
 descendentalistic
 descender
-dispunct
 descendibility
 descendible
 descending
@@ -16553,6 +16552,7 @@ drafter
 dopster
 drafty
 dethroning
+dispunct
 draftier
 draftiest
 draftily
