@@ -2114,6 +2114,7 @@ clopping
 campos
 campout
 camps
+capotes
 campshed
 campshedding
 campsheeting
@@ -3241,7 +3242,6 @@ capot
 capotasto
 capotastos
 capote
-capotes
 capouches
 cappadine
 cappadochio
