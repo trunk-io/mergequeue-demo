@@ -8292,7 +8292,6 @@ biffies
 biffin
 biffs
 bifid
-bifidate
 bifidated
 bifidity
 bifidities
@@ -16946,6 +16945,7 @@ buyouts
 buirdly
 buys
 benzoated
+bifidate
 bukeyef
 bukh
 bukidnon
