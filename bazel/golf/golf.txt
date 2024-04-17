@@ -5106,7 +5106,6 @@ glamorousness
 glamors
 goodwily
 glamour
-glamoured
 granita
 glossary
 glamourization
@@ -5136,6 +5135,7 @@ giggles
 guily
 glandularly
 glandule
+glamoured
 glandules
 gossipper
 glanduliferous
