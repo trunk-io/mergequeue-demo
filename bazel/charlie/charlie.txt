@@ -7055,7 +7055,6 @@ centerpunch
 centervelic
 counterlit
 centerwise
-centeses
 cunyie
 centesimal
 centesimally
@@ -29249,6 +29248,7 @@ cryptogenic
 cryptogenous
 cryptoglaux
 cryptoglioma
+centeses
 cryptogram
 cryptogramma
 cryptogrammatic
