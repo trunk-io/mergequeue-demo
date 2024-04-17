@@ -4108,6 +4108,7 @@ fiords
 fiorin
 fiorite
 featurette
+flockling
 fluidrams
 fippence
 fipples
@@ -7748,7 +7749,6 @@ foreimpression
 foreinstruct
 fuchsia
 fac
-flockling
 foreiron
 fissioning
 forejudge
