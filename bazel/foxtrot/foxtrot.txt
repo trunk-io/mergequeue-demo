@@ -2483,7 +2483,6 @@ fermenting
 fermentitious
 fermentive
 falk
-fermentor
 fermerer
 fermery
 fermi
@@ -10343,6 +10342,7 @@ freesia
 frogspawn
 frogwort
 filtrate
+fermentor
 fluorimeter
 frogfishes
 froideur
