@@ -3674,7 +3674,6 @@ bathtubful
 bathukolpian
 bathukolpic
 bathvillite
-bathwater
 bathwort
 batidaceae
 batidaceous
@@ -4022,6 +4021,7 @@ beachfront
 beachhead
 beachheads
 bnf
+bathwater
 beachy
 beachier
 beaching
