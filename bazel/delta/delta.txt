@@ -15877,7 +15877,6 @@ dos
 dosa
 dosadh
 dosage
-dosages
 dosain
 dose
 dosed
@@ -17770,6 +17769,7 @@ ducaton
 dette
 ducats
 ducdame
+dosages
 duce
 duces
 duchan
