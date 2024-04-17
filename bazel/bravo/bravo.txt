@@ -9284,7 +9284,6 @@ bipartizan
 bipaschal
 bypass
 bypassed
-bypasser
 bypassing
 bypath
 bypaths
@@ -14254,6 +14253,7 @@ banners
 bragly
 bragozzo
 buro
+bypasser
 brags
 braguette
 bragwort
