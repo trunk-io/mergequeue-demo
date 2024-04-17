@@ -4282,7 +4282,6 @@ firmarii
 firmarius
 firmation
 firmed
-fruitlet
 firmer
 firmers
 firming
@@ -5705,6 +5704,7 @@ flisky
 fanback
 fliskier
 fliskiest
+fruitlet
 fribbleism
 fetologist
 feastless
