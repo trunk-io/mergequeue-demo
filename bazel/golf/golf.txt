@@ -6631,7 +6631,6 @@ goldeyes
 golden
 goldenback
 goldeney
-goldeneye
 gauger
 goldeneyes
 goldener
@@ -9118,6 +9117,7 @@ gryphon
 gryphons
 gyppers
 gryphosaurus
+goldeneye
 griphus
 gripier
 gripman
