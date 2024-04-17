@@ -2775,7 +2775,6 @@ barograms
 barograph
 barographic
 bathtubs
-bilboquet
 barbiturates
 bioscientific
 baroko
@@ -16104,6 +16103,7 @@ brooks
 brookweed
 brool
 broom
+bilboquet
 beardtongue
 broomballer
 broombush

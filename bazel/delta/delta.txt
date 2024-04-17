@@ -4244,6 +4244,7 @@ diode
 deliveress
 deliveries
 deliveryman
+droh
 deliverymen
 delivering
 deliverly
@@ -17296,7 +17297,6 @@ droghlin
 dronet
 drogoman
 drogue
-droh
 droyl
 droit
 droits
