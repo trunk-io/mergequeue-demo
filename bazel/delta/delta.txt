@@ -15464,6 +15464,7 @@ donatives
 donator
 donators
 donatress
+dragees
 donax
 digitizer
 doncella
@@ -16582,7 +16583,6 @@ dragading
 dragboat
 dragbolt
 dragee
-dragees
 drageoir
 dragged
 dragger
