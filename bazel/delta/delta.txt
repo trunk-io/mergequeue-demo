@@ -6764,7 +6764,6 @@ dedicates
 diaconate
 desitive
 desize
-desk
 deskbound
 deskill
 desklike
@@ -14377,6 +14376,7 @@ dividable
 dowd
 dividableness
 dividant
+desk
 divide
 dodgeries
 divided
