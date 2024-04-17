@@ -3972,7 +3972,6 @@ demes
 delayer
 delayers
 delayful
-delayingly
 delaine
 delaines
 delays
@@ -16811,6 +16810,7 @@ disorganized
 derelictions
 drawable
 drawarm
+delayingly
 drawback
 drawbar
 drawbars
