@@ -9676,7 +9676,6 @@ baptists
 brucella
 bishopling
 bishoprics
-bishopscap
 bishopstool
 bishopweed
 bisiliac
@@ -15106,6 +15105,7 @@ brewages
 bogier
 butchering
 brewer
+bishopscap
 brewery
 breweries
 brewers
