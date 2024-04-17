@@ -4693,7 +4693,6 @@ bedeck
 bedecked
 bedecking
 bedecks
-bedecorate
 bedegar
 bedeguar
 bedehouse
@@ -13694,6 +13693,7 @@ barehanded
 boutonnieres
 boutons
 bouts
+bedecorate
 bouvardia
 bouvier
 bouviers
