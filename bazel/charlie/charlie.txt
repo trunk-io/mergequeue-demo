@@ -550,6 +550,7 @@ cads
 cadua
 cultures
 caduac
+chirographic
 caduca
 caducary
 caducean
@@ -10936,7 +10937,6 @@ chirograph
 chirographers
 crl
 chirography
-chirographic
 chirographical
 chirolas
 chirology
