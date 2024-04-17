@@ -11849,7 +11849,6 @@ decumbence
 discussionis
 discussionist
 discussions
-discussment
 discustom
 discutable
 discutient
@@ -16641,6 +16640,7 @@ dragonish
 dragonize
 dragonkind
 dragonnade
+discussment
 dextraural
 dragonroot
 dragons
