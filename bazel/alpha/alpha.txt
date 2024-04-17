@@ -11882,7 +11882,6 @@ anaphora
 anaphoral
 anaphoria
 ampelite
-abib
 anaphorical
 anaphorically
 anaphrodisiac
@@ -18565,6 +18564,7 @@ appending
 arbitrator
 arbitrators
 arbitratorship
+abib
 arbitratrix
 arbitre
 abstained
