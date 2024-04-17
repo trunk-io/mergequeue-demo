@@ -5511,6 +5511,7 @@ flexures
 flyable
 fascicle
 flyback
+foreflank
 flyball
 flybane
 flibbertigibbety
@@ -7661,7 +7662,6 @@ forefinger
 forjudged
 forefingers
 figlike
-foreflank
 fistulized
 fuddledness
 flusherman
