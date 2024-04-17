@@ -8645,7 +8645,6 @@ alleluias
 alleluiatic
 alleluja
 allemand
-allemands
 allemontite
 allen
 allenarly
@@ -23935,6 +23934,7 @@ autoclasis
 autoclave
 autocomplexes
 autoclaves
+allemands
 autoclaving
 autocoder
 autocoenobium
