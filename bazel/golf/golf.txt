@@ -3434,7 +3434,6 @@ germifuge
 germigene
 germigenous
 giddyhead
-gassendist
 gley
 giglot
 germin
@@ -7277,6 +7276,7 @@ gorsebird
 glazed
 gharri
 gorsedd
+gassendist
 gorsy
 germanic
 gorst
