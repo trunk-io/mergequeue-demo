@@ -5458,7 +5458,6 @@ adze
 affronted
 affrontedly
 affrontedness
-affrontee
 affronter
 affronty
 affrontingly
@@ -6107,6 +6106,7 @@ aggrievedness
 angelica
 aggro
 aggroup
+affrontee
 arcaded
 aggroupment
 aghan
