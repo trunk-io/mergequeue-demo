@@ -9796,6 +9796,7 @@ cydon
 chellean
 chello
 cheloids
+cutinizing
 chelonia
 chelonian
 chelonid
@@ -31811,7 +31812,6 @@ cutinization
 cutinize
 cutinized
 cutinizes
-cutinizing
 cutins
 cutireaction
 cutis
