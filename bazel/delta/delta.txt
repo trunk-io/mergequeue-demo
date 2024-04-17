@@ -9992,6 +9992,7 @@ diapaused
 din
 dynactinometer
 dynagraph
+depair
 dynam
 dynametric
 dooley
@@ -11075,7 +11076,6 @@ deutomala
 deink
 disarm
 decentness
-depair
 digitise
 disarmature
 disarmed
