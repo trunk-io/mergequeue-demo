@@ -10824,7 +10824,6 @@ euhemerising
 euhemerism
 euhemerist
 euhemeristically
-embedder
 euhemerize
 euhemerized
 euhemerizing
@@ -11760,6 +11759,7 @@ exalate
 exalbuminose
 exalbuminous
 exallotriote
+embedder
 exalt
 enfile
 essentialities
