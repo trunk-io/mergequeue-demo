@@ -133,7 +133,6 @@ abasic
 abask
 abassin
 abastard
-abastardize
 abatable
 amoebid
 abatage
@@ -10140,6 +10139,7 @@ ambushlike
 anablepidae
 ambushment
 ambustion
+abastardize
 amchoor
 amdahl
 amdt
