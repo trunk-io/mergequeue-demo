@@ -7696,7 +7696,6 @@ devisal
 deviscerate
 devise
 devised
-devisee
 devisees
 deviser
 devisers
@@ -15038,6 +15037,7 @@ dogmouth
 dognap
 dognaped
 derobe
+devisee
 dognaper
 dearly
 dognapers
