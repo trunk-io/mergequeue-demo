@@ -648,7 +648,6 @@ benzin
 bacteriolysin
 bletherskate
 bemingle
-bacteriolytic
 bacteriolyze
 bacteriology
 bacteriologic
@@ -18015,6 +18014,7 @@ blared
 bushwhack
 bordured
 beplague
+bacteriolytic
 bushwhacked
 bushwhackers
 bushwhacking
