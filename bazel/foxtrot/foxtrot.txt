@@ -11137,7 +11137,6 @@ functionation
 functioned
 functioning
 functionize
-functionlessness
 functionnaire
 functions
 functor
@@ -11601,6 +11600,7 @@ fusilly
 fusils
 federated
 fusing
+functionlessness
 fiendlike
 forestry
 forestress
