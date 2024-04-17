@@ -3727,6 +3727,7 @@ dehydratase
 dimensioned
 doolies
 dehydrate
+dorsoabdominal
 dehydrates
 dehydrating
 disruptiveness
@@ -15822,7 +15823,6 @@ dorsiventral
 diggings
 depreciations
 dorsiventrally
-dorsoabdominal
 dorsoanterior
 dorsoapical
 dorsocaudad
