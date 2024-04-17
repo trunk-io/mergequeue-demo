@@ -668,7 +668,6 @@ forereport
 familial
 familiarisation
 familiarise
-familiarised
 formism
 frequently
 flosculet
@@ -7981,6 +7980,7 @@ funnelwise
 foresight
 foreordainment
 foresightedness
+familiarised
 foresightful
 foresightless
 foresights
