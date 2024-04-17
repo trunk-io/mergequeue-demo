@@ -5583,7 +5583,6 @@ bunko
 bekah
 bekerchief
 bekick
-baryglossia
 briming
 bespangled
 beking
@@ -6651,6 +6650,7 @@ berdache
 berdaches
 berdash
 birotation
+baryglossia
 blockmaking
 betons
 bere
