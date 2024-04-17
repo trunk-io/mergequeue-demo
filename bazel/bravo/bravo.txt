@@ -1827,6 +1827,7 @@ banaba
 boss
 bizardite
 banago
+beglads
 blancmanger
 banagos
 buriable
@@ -15473,7 +15474,6 @@ brinie
 barbes
 brinier
 bloodless
-beglads
 brinies
 briniest
 brininess
