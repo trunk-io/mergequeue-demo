@@ -11269,7 +11269,6 @@ dodger
 discard
 discardable
 discarded
-dalis
 drainageway
 discarding
 discardment
@@ -13677,6 +13676,7 @@ dissolvableness
 dissolvative
 dissolve
 diathermous
+dalis
 dissolveability
 descanting
 dacryocystalgia
