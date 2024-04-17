@@ -1509,7 +1509,6 @@ beggar
 ball
 ballad
 ballade
-balladeer
 balladeers
 baho
 bluebeardism
@@ -14493,6 +14492,7 @@ branchireme
 branchiurous
 branchless
 bollocks
+balladeer
 bromocyanogen
 branchlet
 branchlike
