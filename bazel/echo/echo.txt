@@ -580,7 +580,6 @@ encrimson
 echinomys
 erythrene
 echinopanax
-echinops
 echinopsine
 egotist
 echinorhynchus
@@ -13357,6 +13356,7 @@ expressional
 ebionitic
 expressionistic
 expressionistically
+echinops
 expressionists
 expressionlessly
 expressionlessness
