@@ -2602,7 +2602,6 @@ gemuetlich
 gemuti
 goral
 gemutlich
-gemutlichkeit
 gemwork
 gen
 grinnie
@@ -9399,6 +9398,7 @@ grotesque
 grotesqueness
 grotesqueries
 grothine
+gemutlichkeit
 greenleaf
 grothite
 grotianism
