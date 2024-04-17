@@ -10421,7 +10421,6 @@ ethmonasal
 effacer
 ethmopalatal
 ethmopalatine
-ethmophysal
 ethmopresphenoidal
 ethmose
 ethmosphenoid
@@ -13373,6 +13372,7 @@ expressness
 expresso
 expressure
 exaltative
+ethmophysal
 electrotechnical
 excipular
 etas
