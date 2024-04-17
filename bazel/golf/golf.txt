@@ -1184,7 +1184,6 @@ gangues
 gangwa
 gangway
 grenadilla
-gangwayed
 gangwayman
 ganymede
 gamed
@@ -8063,6 +8062,7 @@ grantee
 grantees
 gravidas
 grantha
+gangwayed
 goric
 ganglioneural
 gauzes
