@@ -4049,6 +4049,7 @@ finitary
 finite
 finiteness
 finites
+fitter
 finitesimal
 finitism
 finitive
@@ -5810,7 +5811,6 @@ fibulas
 floaty
 floatier
 felsophyric
-fitter
 fallacy
 floatiest
 frederic
