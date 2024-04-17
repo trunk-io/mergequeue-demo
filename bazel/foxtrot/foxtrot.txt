@@ -5639,7 +5639,6 @@ fretworks
 flinted
 fease
 firelike
-flinthead
 featlier
 flinthearted
 flinty
@@ -7346,6 +7345,7 @@ fustier
 forastero
 forbad
 fie
+flinthead
 forbade
 forbare
 forbarred
