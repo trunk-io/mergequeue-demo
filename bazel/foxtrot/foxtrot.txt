@@ -4948,6 +4948,7 @@ flaneurs
 ferruminated
 flangeless
 flangeway
+foe
 flankard
 fountainhead
 flanked
@@ -6671,7 +6672,6 @@ foder
 fries
 fodge
 fodient
-foe
 foederati
 foederis
 foeffment
