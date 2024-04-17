@@ -751,7 +751,6 @@ caid
 caids
 cayenne
 cayenned
-cayennes
 cailcedra
 cayleyan
 caille
@@ -7493,6 +7492,7 @@ ceratopteris
 ceratorhine
 ceratosa
 ceratospongiae
+cayennes
 ceratospongian
 ceratostomataceae
 ceratostomella
