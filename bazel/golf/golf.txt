@@ -497,6 +497,7 @@ glossoncus
 galeorchis
 goner
 geelhout
+glutoid
 galeorhinidae
 galeorhinus
 gamont
@@ -6190,7 +6191,6 @@ glutinize
 glutinosity
 glutinous
 groucho
-glutoid
 glutose
 gluttei
 glutter

@@ -8770,7 +8770,6 @@ forbiddable
 fortunetelling
 fortuning
 fortunite
-fortunize
 followership
 fortuuned
 forumize
@@ -8943,6 +8942,7 @@ foulest
 foulings
 francs
 feuterer
+fortunize
 foulish
 febronianism
 foully
