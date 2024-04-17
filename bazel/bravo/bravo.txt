@@ -1697,6 +1697,7 @@ balmonies
 balmoral
 buzzwig
 balmorals
+bedticks
 bathless
 balms
 bawdyhouse
@@ -4882,7 +4883,6 @@ bedstraws
 bedstring
 bedswerver
 bedtick
-bedticks
 bices
 bate
 bedtime
