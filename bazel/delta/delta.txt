@@ -1615,7 +1615,6 @@ deambulate
 dorsigerous
 diamondiferous
 deambulatory
-deambulatories
 dozening
 divergency
 deamidase
@@ -11309,6 +11308,7 @@ discernment
 discerns
 discountenance
 discerped
+deambulatories
 discerpibility
 discerpible
 discerpibleness
