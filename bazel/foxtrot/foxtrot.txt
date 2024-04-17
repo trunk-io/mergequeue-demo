@@ -6930,7 +6930,6 @@ folksiest
 folksily
 folksiness
 folksong
-folksongs
 folktales
 finely
 folkvangr
@@ -7526,6 +7525,7 @@ forebodement
 forebodes
 forebody
 forebodies
+folksongs
 foreboding
 forebodingness
 foreboom
