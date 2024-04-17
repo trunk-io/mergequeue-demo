@@ -5512,6 +5512,7 @@ catalogs
 catalogued
 cataloguer
 catalogues
+constabulary
 cataloguing
 cataloguish
 cataloguist
@@ -23043,7 +23044,6 @@ constableship
 constabless
 constablewick
 constabular
-constabulary
 constabularies
 constance
 countercultures
