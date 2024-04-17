@@ -9348,7 +9348,6 @@ concussation
 chaui
 chauk
 chaukidari
-chauldron
 castrate
 chullo
 chauliodes
@@ -18208,6 +18207,7 @@ cofferer
 cofferfish
 coffering
 cofferlike
+chauldron
 coffers
 cofferwork
 coffin
