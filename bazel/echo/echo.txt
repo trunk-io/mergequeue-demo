@@ -4730,7 +4730,6 @@ encipherment
 evolutional
 encipherments
 epigean
-enciphers
 encircle
 encircled
 effronted
@@ -8383,6 +8382,7 @@ epitheliums
 epithelization
 epidictic
 epithelize
+enciphers
 epitheloid
 exercised
 epithem
