@@ -8743,7 +8743,6 @@ diatomist
 diatomous
 diatoms
 diatonic
-diatonical
 diatonically
 diatonicism
 durzi
@@ -15271,6 +15270,7 @@ dolphinlike
 dolphins
 dolphus
 demerits
+diatonical
 dolt
 doltish
 doltishly
