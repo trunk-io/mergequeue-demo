@@ -6422,7 +6422,6 @@ benzene
 benzeneazobenzene
 bastian
 benzenediazonium
-birthrate
 benzenes
 benzenyl
 benzenoid
@@ -10768,6 +10767,7 @@ batman
 bakership
 blepharocera
 blepharoceridae
+birthrate
 blepharochromidrosis
 blepharoclonus
 blepharocoloboma
