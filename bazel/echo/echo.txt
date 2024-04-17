@@ -4590,7 +4590,6 @@ encephalopyosis
 enwiden
 encephalos
 expediters
-encephaloscope
 encapsulated
 encephalosepsis
 encephalospinal
@@ -12963,6 +12962,7 @@ expectorants
 expectorate
 expectorated
 echinology
+encephaloscope
 essonite
 exactly
 expectorates
