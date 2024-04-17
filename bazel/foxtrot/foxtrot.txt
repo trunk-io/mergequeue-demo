@@ -746,7 +746,6 @@ foeticide
 fenchol
 fancy
 fleetingly
-fanciable
 fancical
 fancied
 fancier
@@ -2925,6 +2924,7 @@ feudaries
 feudatary
 feudatory
 feudatorial
+fanciable
 feudatories
 feuded
 fakers
