@@ -22047,7 +22047,6 @@ conformability
 conformableness
 conformably
 conformal
-conformance
 complexed
 catabolic
 coachman
@@ -23161,6 +23160,7 @@ constructively
 constructiveness
 constructivism
 constructivist
+conformance
 constructor
 constructors
 constructorship
