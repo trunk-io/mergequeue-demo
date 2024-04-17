@@ -9560,7 +9560,6 @@ birthmark
 birthmarks
 birthmate
 birthnight
-birthplace
 birthplaces
 backfilled
 birthrates
@@ -12568,6 +12567,7 @@ brike
 bonspiel
 bontebok
 bonteboks
+birthplace
 bontebuck
 bontebucks
 bontok
