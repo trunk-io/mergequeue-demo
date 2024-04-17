@@ -283,7 +283,6 @@ abdominovesical
 abduce
 abduced
 abducens
-abducent
 abducentes
 abduces
 articulate
@@ -11983,6 +11982,7 @@ anaspid
 anaspida
 anaspidacea
 anaspides
+abducent
 anticonvention
 anastaltic
 antifeminism
