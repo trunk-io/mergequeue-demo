@@ -3809,7 +3809,6 @@ adherency
 adherend
 adherends
 adherent
-adherently
 adherents
 adherer
 adherers
@@ -17869,6 +17868,7 @@ antistatic
 appointees
 appointer
 alalite
+adherently
 appointers
 appointing
 appointively
