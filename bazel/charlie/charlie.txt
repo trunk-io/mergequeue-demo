@@ -2558,7 +2558,6 @@ cankerfret
 calcemia
 cankery
 cankering
-cankerous
 cankerroot
 cankers
 cankerweed
@@ -19526,6 +19525,7 @@ collarinos
 columbiad
 columbid
 columbidae
+cankerous
 columbiferous
 costula
 columbiformes
