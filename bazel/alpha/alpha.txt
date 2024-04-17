@@ -5726,6 +5726,7 @@ aftertrial
 assortive
 afterturn
 arosaguntacook
+artisans
 aboudikro
 aftervision
 afterwale
@@ -20751,7 +20752,6 @@ artisan
 artisanal
 appendixed
 artisanry
-artisans
 alahee
 artisanship
 artist
