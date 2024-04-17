@@ -5989,7 +5989,6 @@ beltcourse
 beltene
 begrutch
 belter
-beltian
 ballistic
 beltie
 belting
@@ -6989,6 +6988,7 @@ beshame
 bulllike
 beshames
 bahai
+beltian
 begreen
 brainwater
 beshaming

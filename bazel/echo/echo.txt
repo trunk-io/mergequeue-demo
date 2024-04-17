@@ -3780,7 +3780,6 @@ eurycerous
 electrolyzation
 embusy
 embusk
-embuskin
 embusqu
 environed
 encrypts
@@ -6628,6 +6627,7 @@ enterochromaffin
 episcopalians
 enterocinesia
 enterocyst
+embuskin
 eschara
 excitory
 enterocystoma
