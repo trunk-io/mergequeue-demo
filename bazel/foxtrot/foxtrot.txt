@@ -1134,6 +1134,7 @@ farset
 frogged
 fregatidae
 farsighted
+forcat
 farsightedness
 flatteringly
 forkedly
@@ -7405,7 +7406,6 @@ forbow
 forbruise
 formalised
 forcarve
-forcat
 force
 fasciculus
 finback
