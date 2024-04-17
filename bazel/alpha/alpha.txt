@@ -9307,7 +9307,6 @@ alphabetizers
 auroras
 acroblast
 adamancies
-alphabetizes
 alphabetizing
 aptera
 alphabetology
@@ -17757,6 +17756,7 @@ aux
 appetitious
 amma
 antidyscratic
+alphabetizes
 appetitiveness
 appetitost
 appetize
