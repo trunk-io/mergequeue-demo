@@ -5116,7 +5116,6 @@ denazify
 denazifies
 denazifying
 dendra
-dendral
 dendraspis
 dendraxon
 dendriform
@@ -5683,6 +5682,7 @@ desaturation
 depertible
 depetalize
 depetticoat
+dendral
 dephase
 dephased
 dephasing
