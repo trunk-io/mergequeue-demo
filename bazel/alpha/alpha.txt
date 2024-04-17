@@ -1757,6 +1757,7 @@ accruement
 accruer
 accrues
 accruing
+aldolases
 accts
 aventail
 accubation
@@ -7770,7 +7771,6 @@ aldohexose
 aldoketene
 aldol
 aldolase
-aldolases
 assured
 aldolization
 anconei
