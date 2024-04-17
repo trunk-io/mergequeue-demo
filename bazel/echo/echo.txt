@@ -3561,7 +3561,6 @@ emboltement
 embolus
 emborder
 embordered
-elegant
 embordering
 epidesmine
 emborders
@@ -8148,6 +8147,7 @@ encomiologic
 exagitation
 epipteric
 epipterygoid
+elegant
 epipterous
 epipubes
 epipubis
