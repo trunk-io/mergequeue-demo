@@ -5398,7 +5398,6 @@ glibly
 glibness
 glibnesses
 glycaemic
-glycans
 galerite
 glycemia
 goozle
@@ -9458,6 +9457,7 @@ gentleship
 groundout
 grounds
 gros
+glycans
 ghegish
 glim
 groundsill
