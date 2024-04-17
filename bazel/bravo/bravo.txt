@@ -514,6 +514,7 @@ backster
 backstick
 backstitch
 backstitched
+biserial
 backstitches
 backstitching
 backstop
@@ -9633,7 +9634,6 @@ brichette
 banalize
 bysen
 biseptate
-biserial
 biseriate
 biseriately
 bedraggling

@@ -6642,6 +6642,7 @@ featness
 focalization
 focalize
 focalizes
+forbye
 focally
 focaloid
 fixtures
@@ -7380,7 +7381,6 @@ forbidding
 fruitery
 forbiddingly
 forbids
-forbye
 forbysen
 forbite
 farfels
