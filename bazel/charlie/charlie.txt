@@ -5696,7 +5696,6 @@ catechistically
 catechists
 catechizable
 catechization
-catechize
 catechized
 catechizer
 catechizes
@@ -11342,6 +11341,7 @@ chlorometric
 chalices
 chloromycetin
 chloronaphthalene
+catechize
 chloronitrate
 chloropal
 chloropalladates
