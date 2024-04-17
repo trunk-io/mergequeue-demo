@@ -5922,7 +5922,6 @@ glossolaryngeal
 glossolysis
 glossology
 glossologist
-glossopalatine
 glossopalatinus
 glossopathy
 glossophaga
@@ -9077,6 +9076,7 @@ grimgribber
 grindable
 glycerinated
 grinded
+glossopalatine
 grinderman
 grinders
 gorgoneioneia
