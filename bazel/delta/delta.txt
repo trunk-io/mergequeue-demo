@@ -4030,7 +4030,6 @@ delegant
 dependants
 delegare
 delegate
-delegated
 delegates
 delegateship
 dermographism
@@ -12432,6 +12431,7 @@ disincentive
 disinclination
 disinclined
 disinclining
+delegated
 depaints
 dormitory
 disinclose
