@@ -10961,6 +10961,7 @@ disaffiliations
 disaffinity
 disaffirm
 disaffirmance
+durableness
 disaffirmation
 disaffirmative
 disaffirming
@@ -18437,7 +18438,6 @@ dur
 dubitative
 durabilities
 demideify
-durableness
 durables
 durably
 dreidl
