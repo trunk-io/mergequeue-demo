@@ -18227,7 +18227,6 @@ coffs
 cofighter
 cofinal
 coforeknown
-coformulator
 cofound
 cofounded
 cofounder
@@ -27277,6 +27276,7 @@ courser
 coursers
 courses
 coursy
+coformulator
 coursing
 coursings
 court
