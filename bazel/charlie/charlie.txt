@@ -3896,6 +3896,7 @@ carcinogenesis
 carcinogenic
 colorimetry
 carcinoid
+compartmental
 carcinolysin
 carcinolytic
 carcinological
@@ -21114,7 +21115,6 @@ conceited
 conceitedness
 conceity
 conceiting
-compartmental
 conceitless
 conceivability
 conceivable
