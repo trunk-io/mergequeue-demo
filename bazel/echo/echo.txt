@@ -5058,6 +5058,7 @@ elan
 endoauscultation
 endobatholithic
 endoblast
+evidenced
 endoblastic
 endobronchial
 empathizing
@@ -7994,7 +7995,6 @@ epimerism
 enorganic
 exhaustibility
 epimeritic
-evidenced
 etrogs
 eigenvector
 epimerized
