@@ -10321,7 +10321,6 @@ dioptrical
 dioptrics
 deaning
 dioptrometry
-dioptroscopy
 diorama
 dioramas
 driftpiece
@@ -10986,6 +10985,7 @@ disagrees
 declivitously
 disagreing
 degeneracy
+dioptroscopy
 diagraming
 disalicylide
 disalign
