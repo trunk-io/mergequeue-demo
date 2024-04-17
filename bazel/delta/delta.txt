@@ -6891,7 +6891,6 @@ draff
 dissuadable
 despatched
 despatcher
-despatchers
 despatches
 despatching
 despeche
@@ -11461,6 +11460,7 @@ discoideae
 discoids
 discolichen
 discolith
+despatchers
 discolorate
 discolorated
 decarburization
