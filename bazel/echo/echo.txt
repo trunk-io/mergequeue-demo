@@ -9382,6 +9382,7 @@ embodiments
 errhines
 erron
 erroneousness
+expositional
 error
 errordump
 errorist
@@ -13298,7 +13299,6 @@ expositing
 esthesiometry
 exsanguinity
 exposition
-expositional
 expositions
 expositive
 expositively
