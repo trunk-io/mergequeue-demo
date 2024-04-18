@@ -16661,7 +16661,6 @@ apaesthetize
 apaestically
 articulatory
 apagoge
-apagoges
 apagogic
 adenofibrosis
 apagogical
@@ -25241,6 +25240,7 @@ azide
 azides
 azido
 aziethane
+apagoges
 azygobranchiate
 azygomatous
 azygos
