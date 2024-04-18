@@ -12564,7 +12564,6 @@ chronocyclegraph
 chronocinematography
 crake
 chronocrator
-chronodeik
 chronogeneous
 chronogenesis
 chronogram
@@ -24456,6 +24455,7 @@ copartiment
 copartnery
 copartners
 copartnership
+chronodeik
 counterquarterly
 copasetic
 copassionate
