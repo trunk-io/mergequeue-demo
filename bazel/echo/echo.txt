@@ -452,6 +452,7 @@ eccyesis
 eccl
 eccles
 entropies
+expandability
 ecclesia
 ecclesiarch
 ecclesiarchy
@@ -6620,7 +6621,6 @@ enterocentesis
 enteroceptor
 enterochirurgia
 enterochlorophyll
-expandability
 ergothioneine
 endorsement
 enterocholecystostomy
