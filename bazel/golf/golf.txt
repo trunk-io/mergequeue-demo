@@ -5669,6 +5669,7 @@ gamori
 globally
 globe
 globed
+greasepaint
 guinea
 globefish
 gol
@@ -8524,7 +8525,6 @@ greaseless
 greaselessness
 glowbird
 groaners
-greasepaint
 grimful
 gilpy
 garlicmonger
