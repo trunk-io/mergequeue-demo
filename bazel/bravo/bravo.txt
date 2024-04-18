@@ -1881,6 +1881,7 @@ banderol
 banderole
 biochemical
 banderoled
+brigading
 banders
 banjara
 bandersnatch
@@ -15317,7 +15318,6 @@ brigaded
 bhangs
 brigadier
 bitripartite
-brigading
 bequote
 brigalow
 brigand
