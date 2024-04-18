@@ -3175,6 +3175,7 @@ elucid
 enteritis
 exchangeably
 elucidate
+expulser
 elucidates
 elucidations
 exculpate
@@ -12598,7 +12599,6 @@ exit
 exite
 exited
 exitial
-expulser
 exiting
 exition
 exitious
