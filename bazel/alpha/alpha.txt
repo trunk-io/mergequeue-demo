@@ -505,7 +505,6 @@ abjunctive
 abjuration
 abjurations
 abjuratory
-abjure
 abjured
 abjurement
 abjurer
@@ -6613,6 +6612,7 @@ ahead
 aheap
 ahey
 aheight
+abjure
 astronomic
 ahem
 ahems
