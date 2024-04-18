@@ -1719,6 +1719,7 @@ accoutrements
 accoutres
 accoutring
 accredit
+argenteum
 accreditable
 accreditate
 accreditation
@@ -6740,7 +6741,6 @@ aikido
 aikidos
 aikinite
 aikona
-argenteum
 ailantery
 ailanthic
 ailanthus
