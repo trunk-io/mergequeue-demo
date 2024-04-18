@@ -535,7 +535,6 @@ behaviourist
 backswordman
 bestness
 backswordmen
-backtalk
 backtender
 backtenter
 backtrack
@@ -7841,6 +7840,7 @@ bianchite
 birchman
 biangular
 biangulate
+backtalk
 baluchitheria
 biangulated
 biangulous
