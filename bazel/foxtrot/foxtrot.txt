@@ -1680,6 +1680,7 @@ fawnlike
 foveal
 fawns
 fawnskin
+frowned
 fax
 faxed
 faxes
@@ -10591,7 +10592,6 @@ firewarden
 firemen
 foresummer
 frowl
-frowned
 fierily
 frowners
 fudgy
