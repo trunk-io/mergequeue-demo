@@ -3876,6 +3876,7 @@ fiberizer
 filtre
 fimbria
 fimbriae
+formicary
 fanfold
 fimbrial
 fimbriate
@@ -8461,7 +8462,6 @@ formic
 fuzzily
 formica
 ferrous
-formicary
 formicariae
 formicarian
 formicaries
