@@ -536,7 +536,6 @@ bettergates
 backswordman
 bestness
 backswordmen
-backtack
 backtalk
 backtender
 backtenter
@@ -2786,6 +2785,7 @@ bobberies
 baroness
 baronesses
 baronet
+backtack
 baronetage
 baronetcy
 baronetcies
