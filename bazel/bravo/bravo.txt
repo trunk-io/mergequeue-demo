@@ -2413,6 +2413,7 @@ barbuts
 barrooms
 basis
 barbwire
+bibliogenesis
 barbwires
 ballyhooer
 bullpout
@@ -7925,7 +7926,6 @@ biblike
 biblioclasm
 bibliofilm
 bibliog
-bibliogenesis
 bibliognost
 benzophenanthroline
 bibliogony
