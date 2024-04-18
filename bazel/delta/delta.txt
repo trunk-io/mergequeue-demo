@@ -17076,7 +17076,6 @@ dribble
 dribbler
 decorated
 daffadowndilly
-dribblers
 dribbles
 dribblet
 dribblets
@@ -17425,6 +17424,7 @@ demifusion
 dropseed
 dropshot
 dropsical
+dribblers
 dropsicalness
 dropsied
 direction
