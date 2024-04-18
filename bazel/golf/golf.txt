@@ -270,7 +270,6 @@ gainful
 gym
 gibs
 gainfulness
-gaingiving
 gainyield
 grafter
 gaining
@@ -8253,6 +8252,7 @@ grasscut
 guha
 grassed
 goodwillit
+gaingiving
 glod
 geegaws
 grasses
