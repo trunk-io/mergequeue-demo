@@ -499,6 +499,7 @@ galerie
 galerum
 gales
 galesaur
+gallants
 galesaurus
 garrya
 galeus
@@ -544,7 +545,6 @@ gallantize
 gutta
 gallantly
 gallantries
-gallants
 gallate
 genetmoil
 gallature
