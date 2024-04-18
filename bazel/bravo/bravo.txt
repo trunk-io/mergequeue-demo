@@ -10587,7 +10587,6 @@ bothriocidaris
 blea
 bleaberry
 bleach
-bleachability
 bleachable
 bleached
 bleacher
@@ -13520,6 +13519,7 @@ boulangism
 boulangist
 boulder
 bouldered
+bleachability
 boulderhead
 bouldery
 bouldering
