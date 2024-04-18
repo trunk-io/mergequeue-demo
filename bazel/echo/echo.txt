@@ -3910,7 +3910,6 @@ emigre
 emily
 equivote
 electrotonus
-epacme
 emilia
 emim
 eminences
@@ -10065,6 +10064,7 @@ exterminations
 estivator
 emgalla
 extensimeter
+epacme
 estocada
 ervil
 extensionist
