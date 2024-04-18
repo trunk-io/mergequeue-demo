@@ -4552,6 +4552,7 @@ becrawling
 brainless
 becry
 becrime
+booklores
 becrimed
 brasqued
 becriming
@@ -12670,7 +12671,6 @@ booklists
 booklore
 bhavan
 bioecologic
-booklores
 booklouse
 booklover
 bookmaker
