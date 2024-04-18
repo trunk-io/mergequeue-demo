@@ -5128,7 +5128,6 @@ aerotonometer
 aerotonometry
 adularescent
 aerotonometric
-aerotropic
 angiocarpy
 aerotropism
 aeroview
@@ -7335,6 +7334,7 @@ alarums
 alas
 anaheim
 alasas
+aerotropic
 alaska
 alaskaite
 alaskans
