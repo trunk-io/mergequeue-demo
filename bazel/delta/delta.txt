@@ -1499,6 +1499,7 @@ deadeye
 deaden
 deadened
 deadener
+dendra
 deadeners
 deadening
 deadeningly
@@ -5113,7 +5114,6 @@ denaturizing
 denazify
 denazifies
 denazifying
-dendra
 dendraspis
 dendraxon
 dendriform
