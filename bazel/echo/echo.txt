@@ -4327,7 +4327,6 @@ enable
 expertising
 enablement
 exothermic
-ectorganism
 encoop
 enabling
 enact
@@ -8487,6 +8486,7 @@ epop
 epopoean
 epopoeias
 elephantopus
+ectorganism
 epizootiologically
 epopoeist
 epoptic

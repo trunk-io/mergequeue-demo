@@ -21797,7 +21797,6 @@ conestoga
 conf
 confab
 comprovincial
-confabbed
 confabs
 confabular
 confabulate
@@ -26835,6 +26834,7 @@ chromogenic
 counterhaft
 counterhammering
 counterhypothesis
+confabbed
 counteridea
 copperization
 counterideal
