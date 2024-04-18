@@ -9392,6 +9392,7 @@ birdcage
 baroscope
 birdcages
 birdcalls
+blirt
 birdcatching
 birdcraft
 beau
@@ -10920,7 +10921,6 @@ blypes
 blippers
 barkeep
 blips
-blirt
 bliss
 branchiostegous
 birdcatcher
