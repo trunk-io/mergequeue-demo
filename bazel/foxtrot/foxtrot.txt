@@ -4628,7 +4628,6 @@ fm
 fivesome
 fivestones
 fivish
-fix
 flourisher
 ficoideae
 fixable
@@ -9132,6 +9131,7 @@ fowlpoxes
 fallaciousness
 fowls
 fringillid
+fix
 fox
 foxbane
 foxberry
