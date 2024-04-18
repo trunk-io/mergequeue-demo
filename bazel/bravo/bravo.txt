@@ -13260,7 +13260,6 @@ botanies
 botanise
 botaniser
 botanises
-botanising
 botanist
 botanize
 botanized
@@ -16365,6 +16364,7 @@ bedazzling
 bruno
 brunonia
 brunoniaceae
+botanising
 brunonian
 bianchi
 brunonism
