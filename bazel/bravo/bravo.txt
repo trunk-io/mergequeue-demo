@@ -514,6 +514,7 @@ backstick
 backstitch
 backstitched
 biserial
+billhead
 backstitches
 backstitching
 backstop
@@ -11561,7 +11562,6 @@ boardinghouse
 boardings
 boardly
 boardlike
-billhead
 boardroom
 boards
 boardsmanship
