@@ -1695,7 +1695,6 @@ gastness
 gastnesses
 gingili
 grignet
-glossophorous
 gastornithidae
 grapta
 gastraead
@@ -2959,6 +2958,7 @@ gentlemanship
 gentlemen
 gladfully
 gentlemens
+glossophorous
 gentlemouthed
 gentleness
 gentlepeople
