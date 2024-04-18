@@ -9801,7 +9801,6 @@ chelonid
 cheloniid
 cheloniidae
 crucialness
-chelophore
 chemehuevi
 chemesthesis
 chemiatric
@@ -12063,6 +12062,7 @@ coursed
 choses
 chott
 chotts
+chelophore
 chou
 chouan
 chouanize
