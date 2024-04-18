@@ -4073,7 +4073,6 @@ cardiophobia
 cardiophrenia
 capette
 cardiopyloric
-cardioplegia
 cardiopneumatic
 cardiopneumograph
 cardioptosis
@@ -24680,6 +24679,7 @@ coprisoner
 coprocessor
 coprodaeum
 coproduce
+cardioplegia
 coproducer
 conformable
 coproduct
