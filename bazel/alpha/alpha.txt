@@ -3719,7 +3719,6 @@ adenolipoma
 adenologaditis
 adenology
 adenological
-adenoma
 adenomalacia
 adenomas
 adenomata
@@ -5183,6 +5182,7 @@ aestheticist
 aestheticize
 aesthetics
 aesthiology
+adenoma
 almoin
 aestii
 aestival
