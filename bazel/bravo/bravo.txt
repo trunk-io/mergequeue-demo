@@ -12644,6 +12644,7 @@ bookdealer
 bushmaster
 bookends
 booker
+bucktail
 bookery
 bookers
 bookfair
@@ -16699,7 +16700,6 @@ borsch
 bourgeoise
 buckskinned
 buckstone
-bucktail
 bedfoot
 bucktooth
 bucktoothed
