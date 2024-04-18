@@ -198,7 +198,6 @@ factory
 factorially
 frizer
 factorials
-factories
 factoring
 foreign
 factoryship
@@ -2384,6 +2383,7 @@ fenzelia
 feod
 feods
 fehmic
+factories
 feodum
 feoff
 feoffee
