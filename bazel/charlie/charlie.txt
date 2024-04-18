@@ -7925,7 +7925,6 @@ coronize
 cestoidean
 cestoids
 ceston
-cestos
 cestraciont
 cestraciontes
 cestraciontidae
@@ -30559,6 +30558,7 @@ consultations
 cucujus
 cucularis
 cachila
+cestos
 cucule
 cuculidae
 cuculiform
