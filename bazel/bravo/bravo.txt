@@ -2173,7 +2173,6 @@ bantamweights
 banteng
 bizant
 banter
-bantered
 banterer
 banterers
 bantery
@@ -12302,6 +12301,7 @@ bombiccite
 bombycid
 bombycidae
 bombycids
+bantered
 bombyciform
 bombycillidae
 bombycine
