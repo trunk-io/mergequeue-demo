@@ -1404,6 +1404,7 @@ fatherlike
 fathers
 fathership
 forswore
+frontways
 fathomableness
 fathomage
 faunal
@@ -7891,7 +7892,6 @@ forepromised
 foreprovided
 foreprovision
 forepurpose
-frontways
 forequarter
 forequarters
 fraidycat
