@@ -2511,7 +2511,6 @@ gerontism
 gastrolith
 gemeinschaften
 grampa
-gemel
 gemeled
 gemellion
 gemellione
@@ -3261,6 +3260,7 @@ geotaxy
 gulches
 geotechnic
 geotechnics
+gemel
 geotectology
 geotectonically
 gluing
