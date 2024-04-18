@@ -2431,6 +2431,7 @@ decimolar
 daysman
 dangering
 daker
+dependancy
 decimole
 decimosexto
 decimus
@@ -5646,7 +5647,6 @@ dependabilities
 dependableness
 dependably
 dependance
-dependancy
 dependant
 dependantly
 depended
