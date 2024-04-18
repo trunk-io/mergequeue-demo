@@ -3030,7 +3030,6 @@ elizabeth
 elizabethans
 elkanah
 elkdom
-elkesaite
 epibolies
 exaggeratedness
 emetines
@@ -7654,6 +7653,7 @@ epiclike
 epiclinal
 epicnemial
 epicoele
+elkesaite
 epicoelia
 epicoeliac
 epicoeloma
