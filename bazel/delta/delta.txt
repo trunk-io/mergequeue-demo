@@ -9509,7 +9509,6 @@ digladiating
 digladiator
 diglyceride
 diglyphic
-diglossia
 diglots
 disenchantment
 deportable
@@ -12335,6 +12334,7 @@ dishome
 dishonest
 dishonesty
 dishonesties
+diglossia
 dishonestly
 dishonor
 dishonorably

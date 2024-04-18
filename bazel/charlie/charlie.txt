@@ -8515,7 +8515,6 @@ chamosite
 chamotte
 champ
 champa
-champac
 champaca
 champacol
 champagne
@@ -29716,6 +29715,7 @@ crookle
 circule
 crooklegged
 crooknecked
+champac
 crooknecks
 crooknosed
 crooks
