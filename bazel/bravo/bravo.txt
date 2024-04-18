@@ -10484,7 +10484,6 @@ blastosphere
 blackthorn
 blastospheric
 buttonhold
-blastostylar
 blastostyle
 blastozooid
 blastplate
@@ -14977,6 +14976,7 @@ breekums
 binapthyl
 breenge
 breenger
+blastostylar
 breeze
 breezed
 breezeful
