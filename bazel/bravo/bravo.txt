@@ -525,7 +525,6 @@ backstopped
 backstopping
 backstops
 backstrap
-beeswinged
 backstrapped
 backstreet
 backstretch
@@ -8690,6 +8689,7 @@ bimillenial
 billiard
 billiardist
 baldicoot
+beeswinged
 blennometritis
 billiards
 billyboy
