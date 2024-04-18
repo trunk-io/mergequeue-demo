@@ -6392,7 +6392,6 @@ agrafe
 appoints
 agrafes
 agraffe
-agraffes
 analemmatic
 abruptedly
 agral
@@ -22640,6 +22639,7 @@ archaeologically
 atingle
 atip
 atypy
+agraffes
 atypic
 atypical
 alkalimetrical
