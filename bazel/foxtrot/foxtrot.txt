@@ -7423,6 +7423,7 @@ forcelessness
 forcelet
 foglietto
 futhark
+fumerel
 fallacious
 forcement
 forcene
@@ -11041,7 +11042,6 @@ fossilizes
 fuses
 fumer
 fuseplug
-fumerel
 freakery
 fumeroot
 fritts
