@@ -132,6 +132,7 @@ gramaphone
 gadinic
 generals
 gaditan
+glut
 gadman
 gujerat
 gadoids
@@ -6154,7 +6155,6 @@ gluneamie
 gnosticize
 glusid
 gluside
-glut
 glutamate
 geodesics
 glutamates
