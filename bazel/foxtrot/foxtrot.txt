@@ -1625,6 +1625,7 @@ favism
 femininity
 fledglings
 findability
+firn
 favissa
 favorable
 favorableness
@@ -4327,7 +4328,6 @@ feelingless
 frailty
 firms
 firmware
-firn
 forethought
 floreate
 feaster
