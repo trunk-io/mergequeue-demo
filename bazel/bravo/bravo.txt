@@ -63,6 +63,7 @@ babeldom
 babelet
 babelike
 babelish
+burnetize
 babelism
 bongar
 babelize
@@ -17768,7 +17769,6 @@ burnbeat
 bombshell
 burned
 burner
-burnetize
 bloodstain
 burnettize
 besticking
