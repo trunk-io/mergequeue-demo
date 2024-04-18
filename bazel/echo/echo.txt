@@ -6906,7 +6906,6 @@ entomophaga
 expectative
 entomophagous
 entomophila
-entomophily
 entomophytous
 entomophobia
 entomophthora
@@ -10689,6 +10688,7 @@ euchres
 excoecaria
 erotomania
 euchroic
+entomophily
 euchroite
 earthiness
 euchromatic
