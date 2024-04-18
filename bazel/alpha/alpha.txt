@@ -12104,7 +12104,6 @@ anthrone
 anattos
 anatum
 anaudic
-anaunter
 anaunters
 anauxite
 anax
@@ -22048,6 +22047,7 @@ asteroids
 asterolepidae
 asterolepis
 asterope
+anaunter
 asterophyllite
 asterophyllites
 asterospondyli
