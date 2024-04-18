@@ -2937,6 +2937,7 @@ barrelhouses
 barreling
 broad
 barrelled
+boardy
 brattle
 barrelmaker
 barrelmaking
@@ -11531,7 +11532,6 @@ boarded
 boarder
 brotula
 boarders
-boardy
 boardinghouse
 boardings
 boardly
