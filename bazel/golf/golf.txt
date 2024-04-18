@@ -4761,7 +4761,6 @@ galliardly
 gyrodactylus
 gyrodyne
 gastrocoele
-gyrofrequency
 gyrofrequencies
 gyrogonite
 gynaeolatry
@@ -7664,6 +7663,7 @@ gradualness
 graduands
 graduate
 glucase
+gyrofrequency
 gilse
 graduates
 girning
