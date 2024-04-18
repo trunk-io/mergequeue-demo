@@ -153,7 +153,6 @@ factable
 factabling
 fretworked
 factfinder
-fireable
 factice
 facticity
 factional
@@ -5055,6 +5054,7 @@ flashcube
 flashcubes
 fidicinal
 flashed
+fireable
 fishermen
 fibrils
 faunology
