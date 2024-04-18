@@ -1711,6 +1711,7 @@ fdtype
 fdub
 fdubs
 fortuitousness
+fussy
 fe
 feaberry
 frugivora
@@ -11624,7 +11625,6 @@ fussers
 faradic
 fusses
 forbreak
-fussy
 fussier
 fussification
 fussily
