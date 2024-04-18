@@ -850,7 +850,6 @@ cajuns
 cajuput
 catharan
 cajuputene
-cajuputol
 cajuputs
 cakavci
 cakchikel
@@ -28421,6 +28420,7 @@ caroler
 creatinine
 creatininemia
 creatinuria
+cajuputol
 creation
 crickets
 creational
