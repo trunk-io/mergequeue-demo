@@ -7222,7 +7222,6 @@ envolume
 envolupen
 enwall
 enwallow
-enweave
 entonement
 enweb
 epitrichium
@@ -8286,6 +8285,7 @@ epistyles
 epistylis
 exulcerate
 epistle
+enweave
 epistler
 everness
 epistlers
