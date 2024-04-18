@@ -4437,7 +4437,6 @@ demarcatordemarcators
 disnaturalize
 demarcature
 demarch
-demarche
 demarches
 demarchy
 demaree
@@ -14430,6 +14429,7 @@ divinize
 decachord
 divinized
 divinizes
+demarche
 divinizing
 divisa
 devonport
