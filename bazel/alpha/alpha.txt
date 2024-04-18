@@ -7399,7 +7399,6 @@ albedograph
 albedometer
 albedos
 albee
-albeit
 alberene
 albergatrice
 alberge
@@ -24654,6 +24653,7 @@ avern
 avernal
 avernus
 aeneid
+albeit
 averrable
 averral
 averred
