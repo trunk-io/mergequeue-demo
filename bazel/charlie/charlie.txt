@@ -7025,7 +7025,6 @@ centauromachy
 centauromachia
 centaurus
 centavo
-centavos
 centena
 centenar
 centenary
@@ -17466,6 +17465,7 @@ cobs
 coburg
 coburgess
 cobweb
+centavos
 cobwebbed
 cobwebbery
 cobwebby
