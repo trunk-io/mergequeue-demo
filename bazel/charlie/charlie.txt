@@ -16503,7 +16503,6 @@ clodpate
 clodpated
 clodpates
 clodpole
-clodpoles
 clodpoll
 clodpolls
 clods
@@ -31312,6 +31311,7 @@ concordats
 curfs
 cury
 curia
+clodpoles
 consolers
 curiae
 curiage
