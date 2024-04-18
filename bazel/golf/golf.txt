@@ -5991,7 +5991,6 @@ gloveman
 glover
 gloves
 glow
-girnel
 glowbard
 garrulous
 grasshopperish
@@ -8414,6 +8413,7 @@ gallflower
 gratuitously
 gravelstone
 gravemaker
+girnel
 gigantomachy
 graveman
 graveness
