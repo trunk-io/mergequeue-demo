@@ -12145,7 +12145,6 @@ anchietine
 analysed
 anchieutectic
 anchylose
-anchylosing
 anchylosis
 anchylotic
 anchimonomineral
@@ -15236,6 +15235,7 @@ antifaction
 antifame
 antifanatic
 antifascism
+anchylosing
 antifascist
 antifascists
 antifat
