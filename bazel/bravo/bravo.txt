@@ -5307,6 +5307,7 @@ broadsheet
 begirded
 begirding
 begirdled
+blankard
 begirdles
 begirdling
 begirds
@@ -10342,7 +10343,6 @@ blandishingly
 blandishments
 blandness
 blank
-blankard
 blankbook
 biopoesis
 burgrave
