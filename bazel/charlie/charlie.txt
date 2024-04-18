@@ -6651,7 +6651,6 @@ celebesian
 celebrant
 celebrants
 celebrate
-celebrated
 celebratedly
 celebratedness
 celebrater
@@ -8551,6 +8550,7 @@ champignons
 champine
 champing
 cryohydric
+celebrated
 chevrette
 champion
 championed
