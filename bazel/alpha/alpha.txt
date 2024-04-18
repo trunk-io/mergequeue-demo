@@ -6996,6 +6996,7 @@ airthing
 airtime
 airtimes
 airting
+assailment
 albronze
 apologiser
 airts
@@ -24682,7 +24683,6 @@ ambulia
 avertiment
 avertive
 averts
-assailment
 aves
 acephalia
 avesta
