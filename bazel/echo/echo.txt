@@ -4923,6 +4923,7 @@ endaze
 escrows
 endboard
 endbrains
+extemporaneous
 enddamaged
 enddamaging
 enantiomorphism
@@ -12089,7 +12090,6 @@ exclaves
 exclosure
 excavational
 excludable
-extemporaneous
 ebullitions
 excludes
 excludingly
