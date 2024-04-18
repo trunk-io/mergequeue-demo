@@ -1841,6 +1841,7 @@ banchi
 banco
 bibliopegist
 bipunctate
+bullose
 band
 bandage
 bandaged
@@ -17194,7 +17195,6 @@ bullock
 bullocker
 blastulae
 bullocks
-bullose
 bullous
 barkantine
 bulbotuber
