@@ -2457,7 +2457,6 @@ geldability
 goodwill
 griffinish
 glamourousness
-geldant
 goodnesses
 gelded
 gelder
@@ -8401,6 +8400,7 @@ gayal
 gravelike
 graveling
 gravelish
+geldant
 genecologist
 gravelled
 gravelly
