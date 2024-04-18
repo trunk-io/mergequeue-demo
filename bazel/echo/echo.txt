@@ -5775,7 +5775,6 @@ employs
 engraced
 engraffed
 engraft
-engrafted
 engrafter
 engraftment
 engrafts
@@ -11190,6 +11189,7 @@ euselachii
 euskaldun
 euskara
 euskarian
+engrafted
 euskaric
 enrapture
 epistemolog
