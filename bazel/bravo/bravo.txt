@@ -13338,7 +13338,6 @@ bothriolepis
 bothrium
 bibliophagist
 bothrodendron
-bothroi
 bothropic
 bothrops
 bothsided
@@ -17937,6 +17936,7 @@ bushcraft
 bushed
 bushelbasket
 bepaints
+bothroi
 busheled
 beauship
 brachyure
