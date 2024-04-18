@@ -4623,7 +4623,6 @@ carper
 carpers
 carpet
 carpetbag
-carpetbagged
 cappy
 carpetbagger
 carpetbaggery
@@ -23939,6 +23938,7 @@ crewelist
 convection
 convective
 convectively
+carpetbagged
 centare
 convects
 convey
