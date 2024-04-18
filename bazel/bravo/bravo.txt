@@ -9380,7 +9380,6 @@ birdbander
 birdbanding
 birdbath
 birdbaths
-birdbrained
 birdbrains
 besogne
 birdcage
@@ -10723,6 +10722,7 @@ blennogenous
 blennoma
 blennophlogisma
 blennophlogosis
+birdbrained
 blennophobia
 blennophthalmia
 blennoptysis
