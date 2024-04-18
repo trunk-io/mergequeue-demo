@@ -9959,6 +9959,7 @@ estampage
 estampede
 emender
 estampie
+eolith
 estancia
 exhumated
 estancias
@@ -11539,7 +11540,6 @@ euglandina
 ennedra
 everwhich
 evese
-eolith
 evetide
 endover
 eveweed
