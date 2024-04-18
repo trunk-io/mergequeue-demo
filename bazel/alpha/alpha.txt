@@ -1494,7 +1494,6 @@ accessor
 accessory
 anakinetic
 accessorily
-accessoriness
 accessorius
 accessoriusorii
 accessorize
@@ -19571,6 +19570,7 @@ argoan
 afforestational
 argol
 argolet
+accessoriness
 argoletier
 argolian
 assaults
