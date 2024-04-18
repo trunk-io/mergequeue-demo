@@ -5524,7 +5524,6 @@ afoul
 afounde
 afray
 aspirator
-afraid
 afraidness
 afrasia
 adversifolious
@@ -11542,6 +11541,7 @@ anacoluthons
 anaphoras
 anacoluttha
 alow
+afraid
 anaconda
 anacondas
 anacreon
