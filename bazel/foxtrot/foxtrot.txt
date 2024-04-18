@@ -3629,6 +3629,7 @@ filechar
 filed
 filefishes
 fogie
+foretack
 filemaker
 fluidize
 filemark
@@ -9715,7 +9716,6 @@ flunkers
 freelance
 freelanced
 fishers
-foretack
 freeload
 freeloaded
 freemanship

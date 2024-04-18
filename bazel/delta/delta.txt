@@ -6282,7 +6282,6 @@ dermatopathic
 dodecanesian
 dermatopathology
 dermatopathophobia
-dermatophagus
 dermatophyte
 dermatophytosis
 devocalised
@@ -9268,6 +9267,7 @@ defilading
 diethylamide
 diethylamine
 dorsula
+dermatophagus
 diethylaminoethanol
 diethylethanolamine
 dolomization
