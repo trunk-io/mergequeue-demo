@@ -20851,7 +20851,6 @@ comprador
 catechumen
 compradore
 comprecation
-compreg
 compregnate
 comprehend
 colonnades
@@ -27341,6 +27340,7 @@ courting
 courtless
 courtly
 courtlier
+compreg
 chow
 courtliest
 croppie
