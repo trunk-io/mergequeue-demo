@@ -2546,6 +2546,7 @@ canyon
 canioned
 canions
 canyonside
+cobbly
 canis
 canistel
 canisters
@@ -17406,7 +17407,6 @@ cobbles
 cobblestone
 cobblestoned
 cobblestones
-cobbly
 cobbling
 cobbra
 cobbs
