@@ -5924,7 +5924,6 @@ floodplain
 floods
 forst
 fortifiable
-floodway
 feute
 fistfight
 floodwood
@@ -6640,6 +6639,7 @@ fossilizes
 foaminess
 foaming
 foamless
+floodway
 foamlike
 foams
 fobbing

@@ -597,7 +597,6 @@ abnegator
 alit
 abnegators
 abner
-abnerval
 apprehensive
 abneural
 amphicyonidae
@@ -7152,6 +7151,7 @@ akhissar
 akhlame
 akhmimic
 akhoond
+abnerval
 akhrot
 akhund
 akhundzada
