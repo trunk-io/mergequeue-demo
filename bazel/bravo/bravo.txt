@@ -8640,7 +8640,6 @@ brusquer
 billable
 billabong
 billage
-billback
 bushwhacker
 blushers
 billbeetle
@@ -9688,6 +9687,7 @@ bulleting
 bisimine
 bushily
 bisymmetric
+billback
 bisymmetrical
 bigg
 bisync
