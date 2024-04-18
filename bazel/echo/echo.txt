@@ -5504,7 +5504,6 @@ energist
 energize
 exploiters
 enharmonically
-energized
 energizers
 energizes
 elaterite
@@ -13677,6 +13676,7 @@ expt
 encephalomeningitis
 extinctionist
 extinctions
+energized
 extinctive
 enantiopathic
 extinctor
