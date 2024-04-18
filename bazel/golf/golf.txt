@@ -162,7 +162,6 @@ gadus
 gadwall
 gadwalls
 gonotokont
-gadzooks
 gae
 gaea
 glycerinating
@@ -966,6 +965,7 @@ gamesman
 gamesome
 gamesomeness
 gamest
+gadzooks
 gamester
 guaiol
 gametal
