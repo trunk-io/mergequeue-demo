@@ -10073,6 +10073,7 @@ guid
 gravigrade
 guesdist
 gamodeme
+gutturalize
 gunnysacks
 graphics
 guesser
@@ -10808,7 +10809,6 @@ gaus
 gutturalised
 glycolytically
 gutturalism
-gutturalize
 glycerolize
 gutturalized
 gutturalizing
