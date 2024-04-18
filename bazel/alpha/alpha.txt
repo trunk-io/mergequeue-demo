@@ -6243,7 +6243,6 @@ aglipayano
 aglypha
 aglyphodont
 aglyphodonta
-aglyphodontia
 aglyphous
 alcyones
 aglisten
@@ -10522,6 +10521,7 @@ amylan
 amylase
 amylases
 amylate
+aglyphodontia
 amildar
 amylemia
 amylene
