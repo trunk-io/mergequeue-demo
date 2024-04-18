@@ -5949,7 +5949,6 @@ flooring
 foreclosable
 flummoxes
 fluidizing
-floorless
 floors
 folkways
 fiddleback
@@ -9495,6 +9494,7 @@ frappes
 frapping
 frary
 flouriness
+floorless
 frase
 foamingly
 ferfet
