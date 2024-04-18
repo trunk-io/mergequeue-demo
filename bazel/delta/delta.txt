@@ -3082,7 +3082,6 @@ diphtheriaphor
 deescalation
 deescalations
 deeses
-deesis
 deevey
 dimane
 deepfrozen
@@ -8459,6 +8458,7 @@ dogsbody
 dichogamous
 diamido
 diamyl
+deesis
 diamylene
 diamylose
 dislimn
