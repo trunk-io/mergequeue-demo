@@ -15494,7 +15494,6 @@ donjons
 donk
 donkeyback
 donkeyish
-donkeyism
 donkeyman
 draegerman
 driftlet
@@ -18269,6 +18268,7 @@ dunno
 dunnock
 dextorsal
 dunpickle
+donkeyism
 driftwind
 duns
 dunst
