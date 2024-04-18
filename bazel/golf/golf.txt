@@ -659,7 +659,6 @@ gallinipper
 gastropneumatic
 gallinule
 gallinulelike
-gunshots
 gadaea
 geodesy
 galliot
@@ -7923,6 +7922,7 @@ grandiflora
 grandiloquent
 grandiloquently
 grandiloquous
+gunshots
 grandiose
 grandioseness
 grandiosity
