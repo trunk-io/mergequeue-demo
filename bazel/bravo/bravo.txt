@@ -8105,6 +8105,7 @@ bicolours
 bicompact
 biconcave
 biconcavity
+breezelike
 bidder
 bicone
 biconic
@@ -14970,7 +14971,6 @@ breeze
 breezed
 breezeful
 breezeless
-breezelike
 breezeway
 breezeways
 besanctify
