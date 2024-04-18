@@ -3588,6 +3588,7 @@ bathyesthesia
 belatticed
 bathyhyperesthesia
 bathyhypesthesia
+binode
 blonds
 bathylithic
 bathylitic
@@ -8891,7 +8892,6 @@ binocular
 binocularly
 binoculars
 bellarmine
-binode
 binodose
 battery
 binomen

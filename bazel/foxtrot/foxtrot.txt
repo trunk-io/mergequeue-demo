@@ -29,6 +29,7 @@ fabricational
 fabrications
 fabricative
 fabricator
+flybane
 fabricators
 fabricature
 faffy
@@ -5522,7 +5523,6 @@ flyback
 foreflank
 flancards
 flyball
-flybane
 flibbertigibbety
 flybelt
 flybelts
