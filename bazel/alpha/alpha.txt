@@ -5627,7 +5627,6 @@ afterdrain
 aftereffect
 aftereffects
 aftereye
-afterfall
 afterfame
 afterfeed
 afterform
@@ -8916,6 +8915,7 @@ allopatric
 amniac
 allophanamid
 allophanate
+afterfall
 allophanates
 azurite
 aspidosperma
