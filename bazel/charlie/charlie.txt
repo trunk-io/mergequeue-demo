@@ -2409,7 +2409,6 @@ candle
 coehorn
 candleball
 caripeta
-candleberry
 candleberries
 candlebomb
 candled
@@ -26518,6 +26517,7 @@ coughwort
 couhage
 could
 coul
+candleberry
 conterminal
 coulage
 couldest
