@@ -1024,7 +1024,6 @@ darkling
 darklings
 darkmans
 disannexation
-darkness
 darknesses
 darkroom
 dineutron
@@ -6851,6 +6850,7 @@ diabasic
 desolatingly
 desolation
 dicentrin
+darkness
 desolative
 desolator
 desole
