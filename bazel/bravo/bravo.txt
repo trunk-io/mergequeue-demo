@@ -2443,7 +2443,6 @@ barwin
 bardess
 bardy
 bardic
-bardie
 bardiest
 bardiglio
 bardily
@@ -7310,6 +7309,7 @@ bestrowed
 binarium
 blanketflower
 bestrowing
+bardie
 bestrown
 bathochromatic
 ballasted
