@@ -13745,6 +13745,7 @@ crankcase
 cinching
 cincholoipon
 cincholoiponic
+countercharging
 cinchona
 cinchonaceae
 cinchonaceous
@@ -26695,7 +26696,6 @@ counterchange
 counterchanged
 counterchanging
 countercharged
-countercharging
 countercharm
 countercheck
 counterclaim
