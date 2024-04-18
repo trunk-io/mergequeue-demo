@@ -11906,7 +11906,6 @@ expended
 enweaving
 excathedral
 excaudate
-excavates
 engracing
 excavations
 excavator
@@ -13651,6 +13650,7 @@ espece
 externomedian
 externs
 endorsers
+excavates
 externship
 externum
 exteroceptist
