@@ -2722,7 +2722,6 @@ eleganter
 elegy
 elegiacally
 elegiacs
-epagoge
 elegiambus
 enteroanastomosis
 exprobate
@@ -14039,6 +14038,7 @@ extravenate
 extraventricular
 extraversion
 extraversive
+epagoge
 extravert
 extraverted
 emetical
