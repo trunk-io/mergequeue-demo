@@ -2076,7 +2076,6 @@ drypoint
 decapitator
 decapoda
 decalcomanias
-defibrillation
 dyaus
 decapodal
 decapodan
@@ -5949,6 +5948,7 @@ damsel
 depress
 diploptera
 depressanth
+defibrillation
 depressants
 depressed
 depresses
