@@ -14458,7 +14458,6 @@ anthospermum
 anthotaxy
 anthotaxis
 anthotropic
-anthotropism
 anthoxanthum
 anthozoan
 anthozoic
@@ -19042,6 +19041,7 @@ antigens
 archipelago
 archipelagoes
 aures
+anthotropism
 amtmen
 archipelagos
 archiphoneme
