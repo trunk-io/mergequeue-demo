@@ -5743,7 +5743,6 @@ depilatories
 depilitant
 depredable
 depilous
-depit
 deplace
 deplaceable
 deplane
@@ -10699,6 +10698,7 @@ dipodomys
 dipolar
 dipolarization
 dipolsphene
+depit
 dipotassic
 divinatory
 dipotassium
