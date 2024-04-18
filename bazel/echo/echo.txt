@@ -878,7 +878,6 @@ ectomeres
 ectomeric
 ectomesoblast
 ectomorph
-eunuchoidism
 eugranitic
 ectomorphic
 ectonephridium
@@ -6286,6 +6285,7 @@ equanimity
 enrobed
 enrober
 enrockment
+eunuchoidism
 eli
 enrol
 enfeebled
