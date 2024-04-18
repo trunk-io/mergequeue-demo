@@ -10005,7 +10005,6 @@ bywalk
 bywalking
 biweeklies
 biwinter
-bywoner
 bronchioles
 blackfisher
 byword
@@ -13735,6 +13734,7 @@ bowdlerization
 bowdlerizations
 bedfellowship
 biocides
+bywoner
 bemoans
 bloodthirstily
 bowdlerize
