@@ -13014,6 +13014,7 @@ bores
 belfry
 boresight
 boresome
+buffeting
 boresomely
 beira
 borg
@@ -16823,7 +16824,6 @@ bibliokelpt
 buffeter
 buffeters
 bubalises
-buffeting
 borborygm
 buffetings
 buffier
