@@ -2978,7 +2978,6 @@ acronyms
 adenomyxoma
 acrook
 acroparalysis
-acroparesthesia
 amidopyrine
 acropathy
 acropathology
@@ -17350,6 +17349,7 @@ aponogetonaceous
 assertiveness
 apoop
 apopemptic
+acroparesthesia
 apopenptic
 apopetalous
 ablaut

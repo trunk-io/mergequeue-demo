@@ -6840,6 +6840,7 @@ celoms
 celoscope
 celosia
 celosias
+croziers
 celotex
 celotomy
 consultee
@@ -30082,7 +30083,6 @@ crowtoe
 crozer
 crozers
 crozes
-croziers
 crozing
 crozle
 crozzle
