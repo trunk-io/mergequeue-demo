@@ -1088,7 +1088,6 @@ abstractitious
 abstractive
 antimethodic
 abstractively
-abstractly
 abstractness
 apoda
 abstractor
@@ -8304,6 +8303,7 @@ alimentally
 alimentary
 alimentariness
 alimentation
+abstractly
 alimentativeness
 avoir
 alimented
