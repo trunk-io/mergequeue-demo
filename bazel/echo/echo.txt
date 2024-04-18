@@ -8751,7 +8751,6 @@ enablers
 equiproportional
 equiproportionality
 equips
-equipt
 equiradial
 echo
 equiradical
@@ -11315,6 +11314,7 @@ evanescing
 endew
 evang
 evangel
+equipt
 eupnea
 evangelary
 elaeosia
