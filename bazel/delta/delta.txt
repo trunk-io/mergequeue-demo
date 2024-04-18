@@ -12605,6 +12605,7 @@ dagon
 disenchants
 disleafing
 disleal
+duplicable
 diffrangibility
 disleave
 disleaved
@@ -18388,7 +18389,6 @@ donis
 duply
 dynasties
 duplicability
-duplicable
 duplicand
 duplicando
 duplicately
