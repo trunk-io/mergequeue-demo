@@ -840,7 +840,6 @@ ectocarpaceae
 effete
 ectocarpales
 ectocarpic
-ectocarpous
 ectocarpus
 ectocelic
 excommunion
@@ -4558,6 +4557,7 @@ encephalomas
 encephalomeningocele
 encephalometric
 encephalomyelitic
+ectocarpous
 encephalomyelitis
 entalent
 entrepreneurial
