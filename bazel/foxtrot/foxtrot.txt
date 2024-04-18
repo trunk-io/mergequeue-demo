@@ -417,7 +417,6 @@ fairishly
 flux
 fairkeeper
 farcy
-fairlead
 foraramina
 firetrap
 fairleads
@@ -8646,6 +8645,7 @@ farforthly
 feignedness
 forslack
 forsloth
+fairlead
 forslow
 forsook
 forsooth
