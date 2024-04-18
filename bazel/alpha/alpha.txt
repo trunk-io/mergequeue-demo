@@ -5113,7 +5113,6 @@ aerosolization
 aerosolize
 aerosolized
 aerosols
-aerosporin
 aerostat
 aerostatic
 aerostatical
@@ -14268,6 +14267,7 @@ anteresurrection
 anterethic
 anterevolutional
 anterevolutionary
+aerosporin
 antergic
 anteri
 anteriad
