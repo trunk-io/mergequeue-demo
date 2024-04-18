@@ -9525,6 +9525,7 @@ escaped
 escapee
 escapees
 empark
+executant
 eurhythmical
 etherical
 escapeful
@@ -12286,7 +12287,6 @@ execrator
 emusive
 execrators
 exect
-executant
 engines
 execute
 executed
