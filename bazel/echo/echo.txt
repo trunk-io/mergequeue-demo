@@ -2761,7 +2761,6 @@ elementally
 elementaloid
 eluded
 escorting
-elementals
 elementary
 evasive
 elementarily
@@ -11787,6 +11786,7 @@ exaltment
 exalts
 exam
 examen
+elementals
 eleometer
 evacuate
 exameter
