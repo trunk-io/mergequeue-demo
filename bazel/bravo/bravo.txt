@@ -628,7 +628,6 @@ bacteriochlorophyll
 bacteriocin
 bishopbird
 bacteriodiagnosis
-bacteriofluorescin
 bromates
 bacteriogenic
 bacteriogenous
@@ -3084,6 +3083,7 @@ backhouse
 basale
 bursarship
 basalt
+bacteriofluorescin
 basaltes
 boroughlet
 basaltine

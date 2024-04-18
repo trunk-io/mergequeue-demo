@@ -400,7 +400,6 @@ fairy
 fairyfloss
 fairyhood
 futharc
-frab
 fairyish
 foulage
 fairyland
@@ -9970,6 +9969,7 @@ friskle
 fribbling
 flustered
 friable
+frab
 folkmote
 friborgh
 fricace
