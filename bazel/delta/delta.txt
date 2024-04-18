@@ -7326,7 +7326,6 @@ detinuit
 detn
 detonability
 detonable
-detonatability
 depersonalised
 detonate
 detonated
@@ -10239,6 +10238,7 @@ diobol
 diobolon
 dioc
 diocese
+detonatability
 dioceses
 diocesian
 decares
