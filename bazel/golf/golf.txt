@@ -4999,7 +4999,6 @@ glaciomarine
 glaciometer
 glacionatant
 gamb
-guidebook
 glacious
 glad
 gladded
@@ -5934,6 +5933,7 @@ glossoplegia
 glossopodium
 glossopteris
 glossoptosis
+guidebook
 glossorrhaphy
 glossoscopy
 galleasses
