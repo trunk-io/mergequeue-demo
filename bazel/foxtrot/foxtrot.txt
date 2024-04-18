@@ -4109,7 +4109,6 @@ fattable
 fellatrixes
 fletching
 finnish
-finnmark
 finnochio
 filiopietistic
 finns
@@ -10027,6 +10026,7 @@ fenestrone
 fleawood
 friendship
 formalizes
+finnmark
 frier
 fryer
 friers
