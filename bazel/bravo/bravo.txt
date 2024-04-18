@@ -1847,6 +1847,7 @@ banausic
 banba
 banbury
 banc
+bicorne
 banca
 bancales
 bancha
@@ -8133,7 +8134,6 @@ bicorn
 buccinae
 bombyx
 bicornate
-bicorne
 bicorned
 bicornes
 bochur
