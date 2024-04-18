@@ -12026,7 +12026,6 @@ chaunters
 chorus
 ceca
 chorused
-choruser
 choruses
 chorusing
 chanceries
@@ -23821,6 +23820,7 @@ contrivement
 cinchonology
 contriver
 cookmaid
+choruser
 contrivers
 contrives
 chironomy
