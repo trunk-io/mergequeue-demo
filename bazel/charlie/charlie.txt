@@ -6010,7 +6010,6 @@ catrigged
 cats
 catskill
 coll
-catskin
 catso
 catsos
 catspaw
@@ -14136,6 +14135,7 @@ circiter
 circle
 circled
 claudia
+catskin
 cardcastle
 casemate
 circler
