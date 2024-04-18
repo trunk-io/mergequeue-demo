@@ -292,7 +292,6 @@ dagswain
 daguerrean
 daguerreotype
 daguerreotyped
-daguerreotyper
 daguerreotypic
 daguerreotyping
 dyspneal
@@ -9235,6 +9234,7 @@ diestrum
 diestrums
 diestruses
 daikering
+daguerreotyper
 danuri
 defatigated
 dyestuffs
