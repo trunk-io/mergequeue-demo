@@ -2113,7 +2113,6 @@ acetomorphin
 acetomorphine
 acetonaemia
 acetonaemic
-acetonaphthone
 acetonate
 acetonation
 acetone
@@ -21122,6 +21121,7 @@ asexualisation
 asexualised
 asexualising
 asexuality
+acetonaphthone
 asexualization
 asexualize
 asexualizing
