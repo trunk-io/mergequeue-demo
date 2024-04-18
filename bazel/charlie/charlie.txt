@@ -5119,6 +5119,7 @@ cashbook
 cashbooks
 cashbox
 cashboxes
+chromophor
 cashcuttee
 casheen
 cashel
@@ -12489,7 +12490,6 @@ chromophilic
 chromophyll
 chromophobia
 chromophobic
-chromophor
 chromophore
 chromophoric
 chromophorous
