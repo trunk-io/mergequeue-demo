@@ -8969,7 +8969,6 @@ chargeman
 charger
 charges
 chargeship
-chargfaires
 charybdian
 charybdis
 charicleia
@@ -21014,6 +21013,7 @@ comrades
 comradeship
 caulked
 comrado
+chargfaires
 coms
 comsat
 comsomol
