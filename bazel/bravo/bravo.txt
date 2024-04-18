@@ -517,6 +517,7 @@ backstitched
 biserial
 billhead
 backstitches
+briming
 backstitching
 backstop
 bejeling
@@ -5588,7 +5589,6 @@ bunko
 bekah
 bekerchief
 bekick
-briming
 bespangled
 beking
 bekinkinite
