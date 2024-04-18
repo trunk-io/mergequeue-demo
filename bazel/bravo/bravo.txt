@@ -4508,6 +4508,7 @@ beclog
 beclogged
 beclogging
 beclogs
+bretonian
 beclothe
 beclothed
 beclothes
@@ -15040,7 +15041,6 @@ bretesse
 breth
 brethel
 breton
-bretonian
 beslimed
 bretschneideraceae
 bibber
