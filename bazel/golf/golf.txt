@@ -1829,6 +1829,7 @@ gastromyces
 gastromycosis
 geisothermal
 gastronephritis
+glibber
 gynocracy
 gastronome
 groovy
@@ -5387,7 +5388,6 @@ gliadines
 gliadins
 glaucophane
 glib
-glibber
 grippy
 gorilla
 glibly
