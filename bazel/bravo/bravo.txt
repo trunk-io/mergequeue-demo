@@ -1921,7 +1921,6 @@ banjoist
 biostatics
 bandit
 branle
-banditry
 barramundas
 bandits
 banditti
@@ -15886,6 +15885,7 @@ bromizes
 bromizing
 bromlite
 bromo
+banditry
 bromoacetone
 bromoaurate
 bromoaurates
