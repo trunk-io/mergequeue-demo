@@ -12630,7 +12630,6 @@ chub
 chubascos
 chubb
 chubbed
-chubbedness
 candlepin
 chubby
 chubbier
@@ -27103,6 +27102,7 @@ countersworn
 corroded
 countertack
 countertally
+chubbedness
 countertaste
 countertechnicality
 countertendency
