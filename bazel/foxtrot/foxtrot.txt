@@ -4378,7 +4378,6 @@ folkmotes
 fishyard
 farand
 fishyback
-fishier
 fishified
 friezy
 fishifying
@@ -8067,6 +8066,7 @@ forestish
 forestland
 frigorimeter
 fimble
+fishier
 forestless
 forestology
 flashback
