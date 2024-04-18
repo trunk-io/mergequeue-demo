@@ -19193,7 +19193,6 @@ coloboma
 colocasia
 colocate
 colocated
-colocating
 colocephali
 colocynth
 colocynthin
@@ -31316,6 +31315,7 @@ curiage
 curialism
 curialist
 curialistic
+colocating
 curiality
 cyanomethemoglobin
 crowberries
