@@ -4172,6 +4172,7 @@ employer
 exedral
 employers
 employment
+euler
 entastic
 epilithic
 electroviscous
@@ -10842,7 +10843,6 @@ eulachons
 eulalia
 eulamellibranchiata
 eulamellibranchiate
-euler
 eulerian
 etrier
 eulimidae
