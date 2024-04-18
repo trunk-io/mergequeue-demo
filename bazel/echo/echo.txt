@@ -168,6 +168,7 @@ ergogram
 earthpeas
 earthquake
 earthquaked
+equipoising
 euglenida
 earthquaken
 earthquakes
@@ -8717,7 +8718,6 @@ equipment
 equipments
 equipoise
 equipoised
-equipoising
 equipollence
 equipollency
 evasively
