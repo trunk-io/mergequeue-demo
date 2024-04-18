@@ -1622,6 +1622,7 @@ entires
 egocentricity
 egocerus
 embryonically
+exoticity
 electrothermally
 egohood
 egoism
@@ -6922,7 +6923,6 @@ epitrchelia
 emblema
 entonic
 entoparasite
-exoticity
 experienced
 entoparasitic
 ephoric

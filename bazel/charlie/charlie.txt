@@ -12465,7 +12465,6 @@ childbeds
 chromolithography
 chromolithographic
 chromomere
-chromometer
 chromone
 chromonema
 chromonemal
@@ -31345,6 +31344,7 @@ curio
 curiolofic
 curiology
 curiologic
+chromometer
 curiological
 curiologically
 curiologics
