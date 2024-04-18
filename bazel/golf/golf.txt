@@ -5023,7 +5023,6 @@ galaxian
 gladiate
 grabbed
 gladiator
-gladiatory
 gladiatorial
 gladiatorism
 genesiacal
@@ -9058,6 +9057,7 @@ gyrostatic
 ganguela
 grimness
 grimnesses
+gladiatory
 griping
 grimoire
 gainstand
