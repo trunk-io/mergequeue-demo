@@ -1131,6 +1131,7 @@ bais
 baisemain
 boardable
 baysmelt
+bout
 baister
 barrenest
 bait
@@ -13675,7 +13676,6 @@ boussingaultite
 boustrophedon
 bloomer
 boustrophedonic
-bout
 boutefeu
 banqueteer
 bouteria
