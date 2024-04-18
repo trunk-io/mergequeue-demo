@@ -7270,6 +7270,7 @@ gos
 goschen
 goshawk
 goshenite
+gunnysack
 goslarite
 goslet
 goslings
@@ -10543,7 +10544,6 @@ gunnership
 gunny
 gunning
 gunnings
-gunnysack
 grandame
 gunnung
 glossmeter
