@@ -4432,7 +4432,6 @@ fishpotter
 fishskin
 fishspear
 fishtail
-fishtailed
 flether
 fawner
 fishtails
@@ -10871,6 +10870,7 @@ ferris
 foolhardihood
 fulfil
 flamines
+fishtailed
 faithfuls
 forthgoing
 fulfiller
