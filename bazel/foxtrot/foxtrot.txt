@@ -5858,7 +5858,6 @@ flatnose
 flocculator
 forts
 fencing
-floccule
 flocculence
 furans
 fust
@@ -8377,6 +8376,7 @@ form
 formal
 formaldehyd
 froufrous
+floccule
 formaldehyde
 fecials
 formalesque

@@ -2156,6 +2156,7 @@ camused
 camuses
 camwood
 can
+cornemuse
 cana
 canaan
 canaanite
@@ -30504,7 +30505,6 @@ cubocuneiform
 cubododecahedral
 cuboid
 cuboidal
-cornemuse
 caldera
 cuboides
 cuboids
