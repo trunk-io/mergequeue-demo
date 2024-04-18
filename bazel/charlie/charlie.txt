@@ -6902,7 +6902,6 @@ cementmaking
 cementoblast
 cementoma
 cements
-cementum
 cementwork
 cemetary
 cemetaries
@@ -18318,6 +18317,7 @@ cognatic
 cognatical
 cognation
 cognatus
+cementum
 cognisable
 cognisableness
 coenosarcal
