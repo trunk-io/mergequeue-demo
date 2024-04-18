@@ -4016,7 +4016,6 @@ adjugate
 airbus
 adjument
 adjunct
-adjunctive
 adjunctively
 adjunctly
 adjuration
@@ -16165,6 +16164,7 @@ antisceptical
 antiscepticism
 antischolasticism
 antischool
+adjunctive
 antiscia
 adherence
 atoner
