@@ -1930,7 +1930,6 @@ fed
 facets
 frs
 fedayee
-fedarie
 feddan
 feddans
 fedellini
@@ -6949,6 +6948,7 @@ finely
 folkvangr
 foll
 foller
+fedarie
 folles
 formalisation
 folletage
