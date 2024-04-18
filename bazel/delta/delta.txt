@@ -9397,7 +9397,6 @@ diffusible
 diffusibleness
 diffusimeter
 diffusing
-diffusiometer
 diffusion
 diffusional
 diffusionist
@@ -18027,6 +18026,7 @@ dulcor
 dulcorate
 dulcose
 duledge
+diffusiometer
 duler
 duly
 debacles
