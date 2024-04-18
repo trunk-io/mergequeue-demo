@@ -4039,6 +4039,7 @@ cardiohepatic
 cardioid
 cardioids
 cardiolysis
+cumflutter
 capriole
 cardiology
 chondroclast
@@ -30939,7 +30940,6 @@ crashworthy
 cumbu
 cumengite
 cumenyl
-cumflutter
 cumhal
 cumic
 cumidine
