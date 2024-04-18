@@ -2257,7 +2257,6 @@ dices
 diselder
 decene
 decener
-decenyl
 decennal
 diplophonia
 decennaries
@@ -3631,6 +3630,7 @@ deglutitious
 deglutitory
 degold
 decathlon
+decenyl
 degomme
 degorge
 degradable
