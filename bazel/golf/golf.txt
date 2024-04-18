@@ -1485,7 +1485,6 @@ garnishable
 garnished
 garnishee
 garnisheed
-garnisheeing
 garnishees
 garnisheing
 garnishes
@@ -5535,6 +5534,7 @@ gliming
 glimmer
 glutinousness
 glucosid
+garnisheeing
 glimmering
 glimmeringly
 glimmerous
