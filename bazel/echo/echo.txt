@@ -5382,7 +5382,6 @@ exobiologist
 electioneering
 endothermy
 endothermic
-endothermous
 endothia
 endothoracic
 evangelium
@@ -10012,6 +10011,7 @@ esthesiography
 ekes
 eviration
 esthesiology
+endothermous
 esthesiometer
 esthesiometric
 esthesiophysiology
