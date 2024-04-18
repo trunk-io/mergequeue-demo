@@ -2308,7 +2308,6 @@ fenceless
 fencelessness
 fayalite
 fencelet
-fenceplay
 fencepost
 fenceress
 fencers
@@ -6851,6 +6850,7 @@ fairyisms
 foleye
 folgerite
 folia
+fenceplay
 foliaceous
 foliaceousness
 foretold
