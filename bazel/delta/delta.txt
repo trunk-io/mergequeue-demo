@@ -11088,7 +11088,6 @@ disarms
 disarray
 disarrays
 dodgasted
-disarrange
 disarranged
 disarrangement
 disarranger
@@ -17791,6 +17790,7 @@ duckblind
 duckboard
 duckboat
 ducked
+disarrange
 ducker
 duckery
 duckers
