@@ -2435,7 +2435,6 @@ fissionability
 flans
 fourble
 feringhee
-fadedness
 ferio
 frumety
 finialed
@@ -11489,6 +11488,7 @@ feudist
 fireworm
 flaccidly
 feyer
+fadedness
 furrowed
 furrower
 furfurylidene
