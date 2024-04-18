@@ -2186,7 +2186,6 @@ gaze
 gazebo
 gazeboes
 gazebos
-gazed
 galla
 gazeful
 gazeless
@@ -9547,6 +9546,7 @@ gascromh
 groundwork
 genitival
 gruels
+gazed
 grovellingly
 grovellings
 grover
