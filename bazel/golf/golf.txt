@@ -2858,7 +2858,6 @@ genoms
 genonema
 gph
 genos
-genospecies
 genotype
 germanically
 genotypic
@@ -4035,6 +4034,7 @@ giggliest
 gentlehearted
 gigglingly
 grasslands
+genospecies
 gmelinite
 grozet
 gynecocratical
