@@ -3587,6 +3587,7 @@ carapa
 couloirs
 carapaces
 carapacho
+cognates
 carapacic
 carapax
 carapaxes
@@ -18300,7 +18301,6 @@ centime
 cognacs
 cognate
 cognately
-cognates
 cognati
 cognatic
 cognatical
