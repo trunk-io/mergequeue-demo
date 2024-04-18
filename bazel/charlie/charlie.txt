@@ -7091,7 +7091,6 @@ cashmerette
 centimetres
 centimo
 centimolar
-cheeker
 centimos
 centinel
 centinormal
@@ -31608,6 +31607,7 @@ curvilinearity
 curvimeter
 curvinervate
 curvinerved
+cheeker
 curviness
 curving
 curvirostral
