@@ -11933,7 +11933,6 @@ anaptyctic
 anaptomorphidae
 anaptomorphus
 anaptotic
-anarcestean
 accentless
 anarcestes
 anarch
@@ -23387,6 +23386,7 @@ augmenters
 augmenting
 augmentive
 augmentor
+anarcestean
 augments
 alarbus
 augrim
