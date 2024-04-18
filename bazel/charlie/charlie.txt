@@ -2641,7 +2641,6 @@ cannoli
 cannon
 cannonade
 cannonaded
-cannonades
 cardiokinetic
 cohorts
 cannonading
@@ -23795,6 +23794,7 @@ contredanses
 contreface
 contrefort
 contrepartie
+cannonades
 contretemps
 contrib
 contributable
