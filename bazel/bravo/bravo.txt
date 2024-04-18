@@ -8967,7 +8967,6 @@ biocycles
 botan
 biocidal
 biocide
-biocides
 bioclimatic
 bioclimatician
 bioclimatology
@@ -13738,6 +13737,7 @@ buriat
 bowdlerization
 bowdlerizations
 bedfellowship
+biocides
 bemoans
 bloodthirstily
 bowdlerize
