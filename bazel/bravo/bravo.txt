@@ -8571,6 +8571,7 @@ bilimbis
 biliment
 bilin
 bylina
+bolded
 byline
 bilinear
 boardmanship
@@ -10009,7 +10010,6 @@ bronchioles
 blackfisher
 byword
 byworks
-bolded
 bixaceae
 bixaceous
 bixbyite
