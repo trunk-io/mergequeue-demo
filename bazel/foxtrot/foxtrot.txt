@@ -4844,7 +4844,6 @@ flailed
 fluidify
 flivvers
 flailing
-fossilologist
 flaillike
 flails
 flain
@@ -7255,6 +7254,7 @@ footsy
 feeblehearted
 footslog
 furious
+fossilologist
 flockman
 footslogged
 footslogger
