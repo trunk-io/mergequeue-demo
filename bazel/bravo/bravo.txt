@@ -5213,6 +5213,7 @@ befuddled
 bram
 befuddlement
 befuddler
+boldface
 befuddlers
 bromite
 befuddling
@@ -12070,7 +12071,6 @@ bolden
 bolder
 bolderian
 boldest
-boldface
 bostrychoid
 boldfaced
 boldfacedly

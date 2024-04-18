@@ -1097,6 +1097,7 @@ edh
 edhs
 equipper
 edibility
+empyreum
 edible
 expurgatory
 edibleness
@@ -4115,7 +4116,6 @@ empirema
 exopoditic
 empires
 eves
-empyreum
 empyreuma
 elodeaceae
 empyreumata
