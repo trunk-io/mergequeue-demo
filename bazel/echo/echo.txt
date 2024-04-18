@@ -8338,7 +8338,6 @@ einstein
 evaginate
 epithamia
 epitheca
-epithecal
 epithecial
 erebus
 enclosable
@@ -8703,6 +8702,7 @@ equiparation
 equipartile
 equipartisan
 equipartition
+epithecal
 equipedal
 equipede
 equipendent
