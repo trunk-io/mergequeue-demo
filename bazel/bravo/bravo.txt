@@ -4026,6 +4026,7 @@ beaches
 beachfront
 beachhead
 beachheads
+brand
 bnf
 bathwater
 beachy
@@ -14493,7 +14494,6 @@ branchlet
 branchlike
 branchling
 branchman
-brand
 brandade
 branded
 brandenburg
