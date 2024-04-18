@@ -7862,6 +7862,7 @@ biauricular
 biauriculate
 biaxal
 biaxiality
+breather
 beshrouds
 biaxillary
 bib
@@ -14888,7 +14889,6 @@ breathe
 breatheableness
 breathed
 blowflies
-breather
 breathes
 boarstaff
 breathful
