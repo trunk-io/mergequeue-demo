@@ -6369,7 +6369,6 @@ dermosclerite
 dermoskeleton
 dermotherm
 dermotropic
-dermovaccine
 dempne
 derms
 dermutation
@@ -7921,6 +7920,7 @@ dextrogyrate
 desulphuration
 dextrogyre
 dextrogyrous
+dermovaccine
 disproportionally
 dextroglucose
 deceptiously
