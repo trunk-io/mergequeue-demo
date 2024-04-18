@@ -1709,7 +1709,6 @@ fanflower
 fimbles
 fusillade
 filterable
-fetcher
 fearedly
 firebreaks
 fearedness
@@ -8601,6 +8600,7 @@ forrard
 forensical
 flammigerous
 forrarder
+fetcher
 forrel
 forride
 forril
