@@ -2127,7 +2127,6 @@ campsite
 compasser
 campsites
 campstool
-campstools
 camptodrome
 camptonite
 camptosorus
@@ -20009,6 +20008,7 @@ commensurably
 commensurate
 commensurated
 commensurately
+campstools
 commensurateness
 commensurating
 commensuration
