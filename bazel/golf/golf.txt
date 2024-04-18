@@ -3236,6 +3236,7 @@ georgics
 gripy
 georgium
 geoscience
+grenade
 geoscientist
 geoscientists
 geoscopy
@@ -8836,7 +8837,6 @@ gremmy
 gremmies
 gossipmongering
 grenada
-grenade
 gravilea
 grenades
 gibby
