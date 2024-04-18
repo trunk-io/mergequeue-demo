@@ -7731,6 +7731,7 @@ ceroid
 ceroline
 cerolite
 ceromancy
+cmdr
 couldron
 ceroon
 centunculus
@@ -16959,7 +16960,6 @@ clutterment
 cm
 cmd
 catalecta
-cmdr
 cml
 cnemial
 cnemic
