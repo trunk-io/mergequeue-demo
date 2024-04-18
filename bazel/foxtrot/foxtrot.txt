@@ -608,6 +608,7 @@ functionals
 falsetto
 fluviatic
 fraud
+forestem
 falsettos
 formwork
 fornent
@@ -11747,7 +11748,6 @@ firestopping
 fertilitate
 fuzziness
 flacianism
-forestem
 foo
 fv
 fw

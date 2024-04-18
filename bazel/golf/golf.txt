@@ -1215,7 +1215,6 @@ griphosaurus
 gavotte
 grandsonship
 ganoidian
-ganoids
 gasterophilus
 ganoine
 ganomalite
@@ -5619,6 +5618,7 @@ glissandi
 glissando
 gleyde
 glissette
+ganoids
 glycaemia
 glist
 glisten
