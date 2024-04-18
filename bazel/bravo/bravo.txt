@@ -9669,6 +9669,7 @@ bernard
 bishopful
 bishophood
 bishopless
+bowwort
 bishoplet
 bishoplike
 barbarianism
@@ -16476,7 +16477,6 @@ barbarianize
 burners
 brutifies
 brutifying
-bowwort
 brutishly
 brutishness
 brewed
