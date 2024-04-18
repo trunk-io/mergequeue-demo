@@ -27111,6 +27111,7 @@ counterstroke
 counterstruggle
 countersubject
 countersuit
+cubehead
 countersun
 countersunken
 cowls
@@ -30449,7 +30450,6 @@ cameoed
 cubdom
 cube
 cubebs
-cubehead
 cubelet
 cubelium
 carsten
