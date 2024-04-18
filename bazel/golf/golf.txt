@@ -604,6 +604,7 @@ gestured
 galliards
 galliass
 galliasses
+gyrograph
 gallybeggar
 guardants
 gallic
@@ -8984,7 +8985,6 @@ grihyasutra
 grike
 grill
 geog
-gyrograph
 grilladed
 grillades
 grillages
