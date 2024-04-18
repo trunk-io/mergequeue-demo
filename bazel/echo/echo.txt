@@ -2648,7 +2648,6 @@ electrotaxis
 electrotechnic
 electrotechnician
 earthlier
-ericetum
 extendibility
 electrotechnics
 electrotechnologist
@@ -7626,6 +7625,7 @@ epichorial
 epichoric
 ensouls
 elytropolypus
+ericetum
 epichorion
 epichoristic
 epapophysial
