@@ -9514,7 +9514,6 @@ checkmating
 checkoffs
 checkout
 calor
-checkouts
 checkpoint
 checkpointed
 checkpointing
@@ -20326,6 +20325,7 @@ commutableness
 commutant
 commutate
 commutated
+checkouts
 commutation
 commutative
 commutatively
