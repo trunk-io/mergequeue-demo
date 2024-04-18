@@ -230,7 +230,6 @@ cacam
 cacan
 cacana
 cacanapa
-cacanthrax
 cacao
 cotarnin
 cacara
@@ -17098,6 +17097,7 @@ coagencies
 coagent
 coagents
 coaggregate
+cacanthrax
 coaggregated
 coaggregation
 coagitate
