@@ -6110,7 +6110,6 @@ filletlike
 flounce
 flounced
 flounces
-flouncy
 flounciest
 flouncing
 flounder
@@ -11542,6 +11541,7 @@ fundamentalness
 foredecks
 furzier
 fusains
+flouncy
 fusarial
 forwaked
 fusariose
