@@ -4154,7 +4154,6 @@ fenestella
 flanky
 famatinite
 firebed
-firebird
 firebirds
 fireboard
 falconidae
@@ -8207,6 +8206,7 @@ forfend
 forfended
 formwork
 forfending
+firebird
 forfends
 forfex
 fairyologist
