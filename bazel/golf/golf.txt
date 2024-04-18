@@ -1851,6 +1851,7 @@ gastroperiodynia
 gu
 gastropyloric
 gloeal
+gs
 gastropexy
 gastrophile
 gorgonacea
@@ -3691,7 +3692,6 @@ ghazi
 ghazis
 ghazism
 guttatim
-gs
 ghaznevid
 gyroceracone
 gogos
