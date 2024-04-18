@@ -14865,6 +14865,7 @@ breastplates
 breastplough
 breastplow
 breastrail
+bulking
 breastrope
 breasts
 breaststroke
@@ -17542,7 +17543,6 @@ burd
 burdalone
 brosse
 burden
-bulking
 burdened
 brawlers
 burdener
