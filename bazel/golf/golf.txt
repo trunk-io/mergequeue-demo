@@ -3249,7 +3249,6 @@ geosynclines
 geosphere
 geostatic
 geostationary
-grizel
 graphologic
 geostrategy
 geostrategist
@@ -9894,6 +9893,7 @@ gargol
 guarantee
 guaiocum
 guaranteed
+grizel
 grabber
 greith
 guaranteeing
