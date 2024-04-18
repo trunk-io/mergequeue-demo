@@ -6450,7 +6450,6 @@ escrol
 euctical
 ensnarl
 enfleurage
-ensnarling
 ensnarls
 ensnow
 ectocyst
@@ -9331,6 +9330,7 @@ erotomaniac
 erotomaniacal
 elijah
 erotopath
+ensnarling
 erotopathic
 entrant
 equoid
