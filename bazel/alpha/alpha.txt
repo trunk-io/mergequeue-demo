@@ -19339,6 +19339,7 @@ areach
 aready
 attractions
 autotypes
+anankes
 areal
 areally
 arear
@@ -21640,7 +21641,6 @@ anagua
 atlas
 assecure
 assecution
-anankes
 assegai
 assegaied
 acaudal
