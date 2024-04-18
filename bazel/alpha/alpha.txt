@@ -4327,6 +4327,7 @@ adornos
 adorns
 attestation
 automorph
+axis
 adorsed
 ados
 adosculation
@@ -25136,7 +25137,6 @@ axiomatizing
 appendice
 axioms
 axiopisty
-axis
 axised
 axises
 axisymmetry
