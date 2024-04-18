@@ -2972,7 +2972,6 @@ cap
 capa
 capability
 charks
-capabilities
 capable
 capableness
 capabler
@@ -19510,6 +19509,7 @@ columba
 columbaceous
 columbae
 columban
+capabilities
 columbanian
 columbary
 columbaria
