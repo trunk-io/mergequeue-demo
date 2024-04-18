@@ -15617,7 +15617,6 @@ classifying
 classiness
 classis
 classism
-classisms
 classists
 classless
 classlessness
@@ -29899,6 +29898,7 @@ crossruff
 cardinals
 crosstail
 creepier
+classisms
 crosstalk
 crosstie
 crossties
