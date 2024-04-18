@@ -333,7 +333,6 @@ aberdeen
 aberdevine
 aberdonian
 aberduvine
-abernethy
 aberr
 aberrance
 abdicate
@@ -12779,6 +12778,7 @@ angiomyoma
 angiomyosarcoma
 angioneoplasm
 angioneurosis
+abernethy
 angionoma
 arcabucero
 angionosis
