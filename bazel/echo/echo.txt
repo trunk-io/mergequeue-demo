@@ -2460,7 +2460,6 @@ exfigure
 electroionic
 eductions
 enzymology
-electrojet
 electrokinetic
 enkolpion
 embarrased
@@ -10756,6 +10755,7 @@ eudemonistic
 eudemonistical
 eudemons
 eudendrium
+electrojet
 eudesmol
 eudemonics
 eudeve
