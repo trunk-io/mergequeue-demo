@@ -865,7 +865,6 @@ bagaudae
 bagdad
 bagdi
 bagel
-bagels
 bagful
 bagfuls
 barbaric
@@ -12555,6 +12554,7 @@ bontok
 bonum
 bonus
 bonuses
+bagels
 basinlike
 bonxie
 bonze
