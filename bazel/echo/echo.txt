@@ -3192,7 +3192,6 @@ eluent
 eluents
 elul
 executioners
-epimerise
 enterological
 elusion
 elusive
@@ -11849,6 +11848,7 @@ euripidean
 exarchic
 exarchies
 exarchist
+epimerise
 exareolate
 exarillate
 eireannach
