@@ -977,6 +977,7 @@ farceurs
 farceuses
 farci
 freshet
+fizzes
 farcial
 farcialize
 farcicality
@@ -2355,7 +2356,6 @@ fopship
 fends
 fenerate
 filches
-fizzes
 fenestellid
 fenestellidae
 fenestrae
