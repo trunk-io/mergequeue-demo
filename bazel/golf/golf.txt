@@ -7929,7 +7929,6 @@ grandiloquently
 grandiloquous
 gunshots
 grandiose
-grandioseness
 grandiosity
 grandioso
 grandisonant
@@ -9308,6 +9307,7 @@ galvanic
 groof
 groom
 groomed
+grandioseness
 groomers
 garrotting
 gorges
