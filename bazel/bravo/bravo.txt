@@ -5891,7 +5891,6 @@ bibiru
 bellota
 bellote
 bellovaci
-bellowed
 bellowers
 bellows
 bellowsful
@@ -17841,6 +17840,7 @@ biotechs
 burrito
 burritos
 bordellos
+bellowed
 burrknot
 burro
 bearnaise
