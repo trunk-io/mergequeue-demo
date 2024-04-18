@@ -5413,6 +5413,7 @@ genomes
 glistens
 glycerins
 glycerite
+granose
 glycerize
 grotesquerie
 glycerizin
@@ -8044,7 +8045,6 @@ guff
 granolithic
 granophyre
 granophyric
-granose
 gnathostegite
 googlies
 gradely
