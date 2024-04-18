@@ -21,6 +21,7 @@ cabaletta
 cabalic
 cabalism
 cabalisms
+crewelwork
 cabalist
 cabalistic
 cabalistical
@@ -28852,7 +28853,6 @@ ctge
 crewed
 crewel
 crewels
-crewelwork
 crewet
 crewing
 crewless
