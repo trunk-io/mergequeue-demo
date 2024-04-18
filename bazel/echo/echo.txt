@@ -765,7 +765,6 @@ ecorche
 ecosystem
 ecosystems
 erastian
-ecospecies
 ellipsometer
 ecospecific
 ecosphere
@@ -2405,6 +2404,7 @@ electrodialitically
 englyn
 eyehooks
 electrodialyze
+ecospecies
 electrodynamic
 electrodynamics
 electrodynamism
