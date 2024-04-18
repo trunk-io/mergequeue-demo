@@ -28140,6 +28140,7 @@ cryptorchid
 crankpins
 crankplate
 cranks
+crossbarring
 crankshaft
 crankshafts
 corpulent
@@ -29791,7 +29792,6 @@ crossband
 crossbanding
 crossbar
 crossbarred
-crossbarring
 crossbars
 crossbbred
 countermeasures
