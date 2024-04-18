@@ -1797,7 +1797,6 @@ featherer
 featherers
 forejudgment
 featherfew
-featherfoil
 featherhead
 featherheaded
 featherier
@@ -6871,6 +6870,7 @@ foliaging
 furomonazole
 foliary
 flittern
+featherfoil
 foliate
 foliated
 foliates
