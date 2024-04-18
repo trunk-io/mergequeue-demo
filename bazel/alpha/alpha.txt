@@ -8604,7 +8604,6 @@ allegiance
 allegiancy
 allegiant
 allegiare
-allegoric
 allegorical
 allegorically
 allegories
@@ -16741,6 +16740,7 @@ apelles
 apeman
 apenteric
 apepsy
+allegoric
 anthropomorphitic
 apepsia
 apepsinia
