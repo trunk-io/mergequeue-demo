@@ -2944,7 +2944,6 @@ canvases
 canvasing
 canvaslike
 canvasser
-canvassers
 canvasses
 canzo
 chromophilous
@@ -14772,6 +14771,7 @@ citations
 cryptoinflationist
 citator
 citatory
+canvassers
 chondromalacia
 cite
 citeable
