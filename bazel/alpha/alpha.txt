@@ -941,7 +941,6 @@ absentmindedly
 absentmindedness
 absentness
 absents
-absfarad
 abshenry
 absi
 absinth
@@ -9592,6 +9591,7 @@ aluminas
 aluminate
 alumines
 aluminic
+absfarad
 aluminide
 aluminiferous
 aluminiform
