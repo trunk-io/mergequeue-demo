@@ -12059,7 +12059,6 @@ excitor
 excitors
 excitosecretory
 excitovascular
-excitron
 exclaimed
 exclaimer
 exclaimers
@@ -12685,6 +12684,7 @@ exoenzyme
 expulsory
 exogamic
 exogamies
+excitron
 exogamous
 exogastrically
 exogastritis
