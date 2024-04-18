@@ -7841,7 +7841,6 @@ gymnocarpous
 grammarless
 grammars
 gieseckite
-grammaticality
 gateau
 glossate
 grammatically
@@ -9499,6 +9498,7 @@ graven
 groupoid
 groupthink
 grivets
+grammaticality
 galbraithian
 gam
 groupwise
