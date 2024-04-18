@@ -2041,7 +2041,6 @@ elabrate
 eats
 elachistaceae
 elachistaceous
-encodes
 elaeagnus
 ejecting
 elaeis
@@ -13769,6 +13768,7 @@ expressionism
 ecteron
 extracardial
 extracarpal
+encodes
 extracellular
 extorsive
 extracellularly
