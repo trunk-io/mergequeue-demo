@@ -3684,7 +3684,6 @@ drupelet
 desaurine
 degraduation
 degrain
-degranulation
 degras
 degravate
 deoxidized
@@ -10979,6 +10978,7 @@ disagreeables
 disagreeably
 disagreed
 disagreeing
+degranulation
 disagreement
 demonial
 disagreements
