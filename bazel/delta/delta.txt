@@ -6506,6 +6506,7 @@ dilemi
 descent
 draconitic
 descents
+drawnet
 deschampsia
 disconcerted
 deschool
@@ -16853,7 +16854,6 @@ drawlink
 drawloom
 drawls
 drawn
-drawnet
 dissyllabise
 diffidence
 drawoff
