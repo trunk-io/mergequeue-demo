@@ -13281,7 +13281,6 @@ exportations
 exported
 enlength
 encyclopediac
-exporter
 exporters
 entireties
 exporting
@@ -13885,6 +13884,7 @@ extramurally
 extramusical
 extranational
 evulge
+exporter
 extranean
 extraneity
 extraneous
