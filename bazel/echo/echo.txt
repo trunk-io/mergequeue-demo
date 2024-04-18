@@ -5292,6 +5292,7 @@ endosiphuncle
 endoskeletons
 endosmic
 endosmometric
+equipments
 eyr
 evaders
 electroplax
@@ -8708,7 +8709,6 @@ equiperiodic
 expander
 equipluve
 equipment
-equipments
 equipoise
 equipoised
 equipollence
