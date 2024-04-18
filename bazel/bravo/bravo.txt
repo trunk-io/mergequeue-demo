@@ -9073,7 +9073,6 @@ biologist
 biologistic
 bedstands
 biologists
-biologize
 bioluminescence
 biomagnetic
 biomagnetism
@@ -18101,6 +18100,7 @@ bustled
 bustler
 bustlers
 bustles
+biologize
 bustling
 bustlingly
 busto
