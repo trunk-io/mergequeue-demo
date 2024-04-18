@@ -5262,7 +5262,6 @@ broth
 beggardom
 beggared
 beggaress
-bulletheaded
 barret
 beggarhood
 burrier
@@ -16664,6 +16663,7 @@ bucklered
 bucklering
 bucklers
 buckles
+bulletheaded
 buckling
 boongary
 bucklum
