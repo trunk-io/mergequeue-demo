@@ -6028,6 +6028,7 @@ embossment
 enlinkment
 enlist
 enlisted
+excursionize
 enlistees
 enlister
 epistrophe
@@ -12215,7 +12216,6 @@ excursionism
 electromyographic
 eyelike
 excursionist
-excursionize
 ethmolachrymal
 excursions
 englished
