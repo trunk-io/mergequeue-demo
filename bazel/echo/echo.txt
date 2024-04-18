@@ -12101,7 +12101,6 @@ exclusivistic
 exclusivity
 excoct
 excoction
-excogitate
 excogitated
 excogitation
 excogitative
@@ -12356,6 +12355,7 @@ ephemerist
 exemptive
 exencephalia
 exencephalic
+excogitate
 escuages
 expiative
 exencephalus
