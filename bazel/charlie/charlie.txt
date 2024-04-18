@@ -5654,7 +5654,6 @@ catchlight
 catchline
 catchment
 catchments
-catchpennies
 catchphrase
 catchpole
 cynoscion
@@ -27517,6 +27516,7 @@ covisitor
 covite
 covolume
 covotary
+catchpennies
 cow
 cowage
 cowages
