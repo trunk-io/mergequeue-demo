@@ -1805,7 +1805,6 @@ enfranchisement
 eyeserver
 eyeservice
 eyeshade
-eyeshades
 eyeshield
 equvalent
 eyeshine
@@ -6103,6 +6102,7 @@ enneaeteric
 enneagon
 enneagonal
 enrolling
+eyeshades
 endorachis
 enneagons
 enneahedra
