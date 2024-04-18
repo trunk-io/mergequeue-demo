@@ -4331,7 +4331,6 @@ beaverize
 beaverkill
 beaverkin
 beaverlike
-beaverroot
 beavers
 beaverskin
 beaverteen
@@ -5780,6 +5779,7 @@ biltongs
 bellatrix
 bellbind
 buckjump
+beaverroot
 bellbinder
 bellbine
 batekes
