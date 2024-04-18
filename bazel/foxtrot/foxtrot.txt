@@ -3483,6 +3483,7 @@ figgum
 fight
 funniment
 fightable
+fatiguable
 forel
 fighteress
 fanwort
@@ -11468,7 +11469,6 @@ furore
 furphy
 furcated
 feower
-fatiguable
 furred
 furry
 furriery
