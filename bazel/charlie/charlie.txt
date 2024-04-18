@@ -7164,7 +7164,6 @@ canephoroe
 centrer
 chol
 coxofemoral
-centres
 centrev
 centrex
 centry
@@ -15713,6 +15712,7 @@ claut
 clava
 clavacin
 clavae
+centres
 claval
 clavariaceae
 clavariaceous
