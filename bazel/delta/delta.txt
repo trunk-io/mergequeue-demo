@@ -7306,7 +7306,6 @@ detester
 driveboat
 detesters
 detests
-dethronable
 dethroned
 dethronement
 dain
@@ -13072,6 +13071,7 @@ dysphemia
 dysphemism
 dysphemistic
 diamantine
+dethronable
 dysphemize
 directiveness
 dysphonia
