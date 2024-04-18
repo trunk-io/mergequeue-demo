@@ -12431,6 +12431,7 @@ chromitite
 chromium
 chromiums
 clerisy
+colder
 chromize
 cyanopsia
 contextual
@@ -18721,7 +18722,6 @@ coldblood
 coldblooded
 coldbloodedness
 coldcock
-colder
 coldest
 coldfinch
 coldhearted
