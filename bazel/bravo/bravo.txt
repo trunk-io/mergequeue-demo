@@ -2045,6 +2045,7 @@ bangtails
 bangup
 biotopes
 bani
+balanced
 biaural
 banya
 banyan
@@ -9443,7 +9444,6 @@ becrawled
 birdnester
 birds
 birdsall
-balanced
 birdseeds
 birdseye
 birdseyes
