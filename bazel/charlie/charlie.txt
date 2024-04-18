@@ -85,6 +85,7 @@ cabbled
 cabbler
 cabda
 cabdriver
+chars
 cabdriving
 cabecudo
 capellet
@@ -9125,7 +9126,6 @@ charro
 charros
 charrs
 charruas
-chars
 charshaf
 charsingha
 cruder

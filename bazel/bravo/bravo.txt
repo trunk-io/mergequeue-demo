@@ -3142,6 +3142,7 @@ basely
 baselike
 baseline
 basella
+bkpt
 botete
 basellaceae
 basemen
@@ -10051,7 +10052,6 @@ bkbndr
 bkg
 bklr
 backsey
-bkpt
 bocasine
 bks
 bkt
