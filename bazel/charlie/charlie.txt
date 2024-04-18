@@ -4981,7 +4981,6 @@ curses
 carvings
 carvoeira
 carvoepra
-carvol
 carvomenthene
 carvone
 carwash
@@ -16260,6 +16259,7 @@ clinometric
 clinometrical
 clinophobia
 calendal
+carvol
 clinopinacoid
 cephalin
 clinopinacoidal
