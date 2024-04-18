@@ -294,6 +294,7 @@ eatable
 eatableness
 eatables
 electrolyzability
+enteroid
 eatberry
 eaten
 emetophobia
@@ -7059,7 +7060,6 @@ expressivity
 entries
 entrike
 entryman
-enteroid
 entrymen
 entryway
 episcopes
