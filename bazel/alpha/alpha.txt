@@ -10209,6 +10209,7 @@ ameliorate
 ameliorated
 ameliorates
 ameliorating
+anacrusis
 apocenter
 amelioration
 ameliorations
@@ -11567,7 +11568,6 @@ anacromyodian
 anacrotic
 anacrotism
 anacruses
-anacrusis
 anacrustic
 aristarch
 anaculture
