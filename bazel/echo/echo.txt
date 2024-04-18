@@ -9271,7 +9271,6 @@ erode
 erodent
 erodes
 erodibility
-eroding
 endocrinous
 erodium
 erogenesis
@@ -13096,6 +13095,7 @@ electrophotometry
 emulated
 expertism
 expertize
+eroding
 edriophthalmic
 expertized
 expertly
