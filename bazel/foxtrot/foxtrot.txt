@@ -5458,6 +5458,7 @@ fleshmonger
 fleshpot
 fleshquake
 flet
+feloniously
 flagfall
 fleta
 fletched
@@ -11218,7 +11219,6 @@ fungian
 fthm
 fungibility
 fungible
-feloniously
 fungic
 fungicidal
 foreshowed
