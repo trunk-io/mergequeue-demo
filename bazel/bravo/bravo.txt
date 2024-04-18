@@ -5266,7 +5266,6 @@ begetters
 broth
 beggardom
 beggared
-beggarer
 beggaress
 bulletheaded
 barret
@@ -16251,6 +16250,7 @@ browsed
 browser
 browsers
 browses
+beggarer
 browsick
 browsing
 browst
