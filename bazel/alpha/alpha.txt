@@ -9330,7 +9330,6 @@ alphanumerics
 alphard
 alphas
 archispore
-alphatoluic
 alphean
 alphenic
 alpheratz
@@ -15557,6 +15556,7 @@ antimiasmatic
 antimycotic
 antimicrobial
 antimicrobic
+alphatoluic
 antimedicative
 antimilitary
 antimilitarism
