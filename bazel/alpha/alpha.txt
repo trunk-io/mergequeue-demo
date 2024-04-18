@@ -7807,7 +7807,6 @@ aldolizing
 aldols
 aldopentose
 aldose
-aldoses
 antischolastically
 aldoside
 aldosterone
@@ -16447,6 +16446,7 @@ antivirotic
 antivitalist
 antivitalistic
 acuminulate
+aldoses
 antivitamin
 antivivisection
 antivivisectionist
