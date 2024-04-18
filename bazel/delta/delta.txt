@@ -8779,7 +8779,6 @@ depeter
 diazoamine
 diazoaminobenzene
 diazoanhydride
-diazobenzene
 diazohydroxide
 dinettes
 diazoic
@@ -15536,6 +15535,7 @@ donzella
 donzels
 doo
 doob
+diazobenzene
 doodab
 dipsacaceae
 doodad
