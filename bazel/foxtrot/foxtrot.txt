@@ -1223,7 +1223,6 @@ fibularia
 froggy
 fascine
 fishmeals
-fascines
 fellmonger
 fascintatingly
 fascio
@@ -6986,6 +6985,7 @@ followable
 followed
 follower
 foisting
+fascines
 followers
 followingly
 floppers
