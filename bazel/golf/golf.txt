@@ -806,6 +806,7 @@ grotzen
 gradations
 gratifications
 galvanomagnetic
+gelidium
 galvanomagnetism
 galvanometer
 galvanometers
@@ -2345,7 +2346,6 @@ gonofs
 geisa
 gassiness
 geisenheimer
-gelidium
 geyseral
 geyserish
 guatemalans
