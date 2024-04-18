@@ -916,7 +916,6 @@ equivalences
 empirically
 ectosphenotic
 ectosphere
-ectosteal
 ectostosis
 etherealized
 ectotheca
@@ -5577,6 +5576,7 @@ enfolder
 enfolders
 entarthrotic
 enfolding
+ectosteal
 excisions
 exquisiteness
 equipollent
