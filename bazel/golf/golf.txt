@@ -3930,7 +3930,6 @@ gutnic
 gieaways
 gied
 gieing
-gaun
 gien
 gienah
 gierfalcon
@@ -10520,6 +10519,7 @@ gunlocks
 guanays
 gamesmanship
 gunmaking
+gaun
 guelphic
 gunmen
 gunmetal
