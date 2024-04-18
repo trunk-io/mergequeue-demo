@@ -2636,7 +2636,6 @@ genderer
 genders
 ghoulie
 geneal
-genealogic
 gemsbok
 genealogical
 gantlope
@@ -6971,6 +6970,7 @@ goodbyes
 goodenia
 guineas
 gonadectomies
+genealogic
 goatishly
 gooders
 gonidium
