@@ -19693,7 +19693,6 @@ combinator
 combinatory
 combinatorial
 combinatorially
-combinatoric
 combinators
 combind
 combined
@@ -26989,6 +26988,7 @@ counterpray
 counterpreach
 counterpressure
 counterprick
+combinatoric
 counterprinciple
 counterprocess
 cayubaban
