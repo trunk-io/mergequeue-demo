@@ -17740,6 +17740,7 @@ codefendant
 codefendants
 codeina
 codeinas
+cohabits
 conium
 codeine
 codeines
@@ -18371,7 +18372,6 @@ cohabited
 cohabiter
 collational
 cohabiting
-cohabits
 cohanim
 cohanims
 coharmonious
