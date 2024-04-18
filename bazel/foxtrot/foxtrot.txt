@@ -197,7 +197,6 @@ factoress
 flateria
 feoffed
 factory
-factorial
 factorially
 frizer
 factorials
@@ -11313,6 +11312,7 @@ funs
 funster
 funtumia
 fur
+factorial
 furacana
 furacious
 furaciousness
