@@ -1016,7 +1016,6 @@ bayamos
 bayano
 bayardly
 bayberry
-bowsery
 bayberries
 baybolt
 baycuru
@@ -12966,6 +12965,7 @@ borderlands
 borderless
 borderlight
 borderline
+bowsery
 bordermark
 blastoporphyritic
 bordman
