@@ -6719,6 +6719,7 @@ celiolymph
 celiomyalgia
 celiomyodynia
 celiomyomectomy
+conjugately
 celiomyomotomy
 clearway
 celiomyositis
@@ -22452,7 +22453,6 @@ conjugata
 conjugatae
 conjugate
 conjugated
-conjugately
 conjugateness
 conjugates
 conduplicated
