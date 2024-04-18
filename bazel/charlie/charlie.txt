@@ -9833,6 +9833,7 @@ chemiphotic
 copout
 chemis
 chemise
+comport
 crinet
 chemises
 chemisette
@@ -20777,7 +20778,6 @@ componential
 componentry
 components
 compony
-comport
 comportable
 comportance
 comported
