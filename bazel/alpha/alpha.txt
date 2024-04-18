@@ -8386,7 +8386,6 @@ alyssums
 alist
 alister
 antiferroelectric
-alytarch
 alite
 aliter
 alytes
@@ -23078,6 +23077,7 @@ attest
 attestable
 abolla
 attestant
+alytarch
 attestations
 alalia
 attestative
