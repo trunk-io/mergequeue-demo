@@ -1089,7 +1089,6 @@ baiocchi
 baiocco
 blennoemesis
 bayok
-bayoneted
 bayoneteer
 bayonets
 bayonetted
@@ -14666,6 +14665,7 @@ bravers
 braves
 bravest
 bravi
+bayoneted
 braving
 bravish
 bravissimo
