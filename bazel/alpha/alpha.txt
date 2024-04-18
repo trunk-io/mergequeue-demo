@@ -7002,7 +7002,6 @@ airway
 airwayman
 armless
 airways
-airward
 airwards
 airwave
 airwaves
@@ -7719,6 +7718,7 @@ alcotate
 alcove
 alcoved
 analyticities
+airward
 alcuinian
 alcumy
 ald
