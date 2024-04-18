@@ -5392,6 +5392,7 @@ afflicted
 afflictedness
 afflicter
 afflicting
+arenas
 afflictingly
 afflictionless
 afflictions
@@ -19365,7 +19366,6 @@ aren
 arena
 arenaria
 arenariae
-arenas
 arenation
 addressed
 arendator

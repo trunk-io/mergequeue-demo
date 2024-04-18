@@ -2228,6 +2228,7 @@ felsobanyite
 fligger
 foretypified
 felspars
+forestate
 felspath
 felstone
 felstones
@@ -8036,7 +8037,6 @@ forestalling
 forestalls
 forestalment
 funerals
-forestate
 foss
 forestation
 flexional
