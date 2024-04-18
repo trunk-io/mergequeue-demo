@@ -10125,7 +10125,6 @@ ambulatories
 ambulatorily
 ambulatorium
 ambulatoriums
-ambuling
 ambulomancy
 amburbial
 ambury
@@ -18626,6 +18625,7 @@ arborize
 arborizing
 atonality
 arboroid
+ambuling
 arborolater
 arborous
 arborvitae
