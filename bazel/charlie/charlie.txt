@@ -2362,7 +2362,6 @@ candelilla
 candent
 cassidony
 candescence
-candescent
 candescently
 candy
 candid
@@ -14659,6 +14658,7 @@ cystidean
 cystidia
 cystidium
 cystidiums
+candescent
 cystiferous
 cystiform
 cystigerous
