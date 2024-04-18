@@ -2057,7 +2057,6 @@ feil
 forerunnership
 feinschmecker
 filacer
-feinted
 feinter
 forestlike
 feinting
@@ -6838,6 +6837,7 @@ fluorins
 folder
 featherpated
 folderols
+feinted
 folders
 foldy
 folding
