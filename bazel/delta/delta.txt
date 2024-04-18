@@ -1281,6 +1281,7 @@ daughter
 dogate
 detonators
 daughterkin
+desorb
 daughterless
 daughterly
 daughterlike
@@ -6859,7 +6860,6 @@ desole
 desonation
 desophisticate
 desophistication
-desorb
 desorbed
 desorbs
 desorption
