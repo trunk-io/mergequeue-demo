@@ -7830,6 +7830,7 @@ cerviciplex
 cervicispinal
 cervicitis
 cervicoauricular
+chippable
 cervicobasilar
 cervicobregmatic
 cervicobuccal
@@ -10847,7 +10848,6 @@ chipmunk
 chipmunks
 chipolata
 coleopteroid
-chippable
 chippage
 cordwain
 chippendale
