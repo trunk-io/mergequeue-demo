@@ -14651,6 +14651,7 @@ docious
 docity
 dock
 dockage
+drawglove
 dilatancy
 docked
 docker
@@ -16836,7 +16837,6 @@ dissuited
 drawfiling
 debatingly
 drawgate
-drawglove
 dishonorary
 drawhead
 drawing
