@@ -6677,6 +6677,7 @@ enteropexia
 extraduction
 enteroplasty
 enteroplegia
+enthalpies
 epilogism
 enteropneusta
 enteropneustan
@@ -6739,7 +6740,6 @@ entertissue
 emetine
 entete
 enthalpy
-enthalpies
 enthean
 entheasm
 enfuddle

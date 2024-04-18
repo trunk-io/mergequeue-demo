@@ -1834,7 +1834,6 @@ bananivorous
 banat
 banatite
 banausic
-banba
 banbury
 banc
 bicorne
@@ -6156,6 +6155,7 @@ benchlet
 benchman
 benchmar
 benchmark
+banba
 burnout
 benchmarked
 benchmarks
