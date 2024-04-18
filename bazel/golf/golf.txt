@@ -3970,7 +3970,6 @@ geophysically
 gigant
 gigantean
 gigantesque
-gigantic
 ghazel
 giganticide
 giganticness
@@ -4753,6 +4752,7 @@ gorkhali
 gyrocompasses
 glassblowers
 gambol
+gigantic
 graphemes
 gyrodactylidae
 gapa
