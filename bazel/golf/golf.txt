@@ -5033,7 +5033,6 @@ gladier
 glossophytia
 gladii
 gladiola
-gladiolar
 gladiolas
 gladioli
 gypsyesque
@@ -10159,6 +10158,7 @@ guidman
 galahs
 grammatolatry
 guido
+gladiolar
 gighe
 goos
 guidon
