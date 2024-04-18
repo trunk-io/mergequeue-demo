@@ -1056,7 +1056,6 @@ gander
 gorget
 gundi
 ganderess
-gandergoose
 gandering
 gandermooner
 ganders
@@ -2209,6 +2208,7 @@ gazers
 gazettal
 gazette
 gazetted
+gandergoose
 gazetteerish
 gazetteers
 gazetteership
