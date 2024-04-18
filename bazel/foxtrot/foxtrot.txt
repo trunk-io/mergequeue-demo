@@ -4820,6 +4820,7 @@ flagworm
 flay
 feridji
 flayed
+follicle
 fault
 front
 flaying
@@ -6953,7 +6954,6 @@ formalisation
 folletage
 folletti
 folly
-follicle
 follicles
 forcemeat
 follicular
