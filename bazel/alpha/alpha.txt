@@ -3551,7 +3551,6 @@ allegation
 addlehead
 addleheaded
 addleheadedness
-addlement
 addleness
 addlepate
 adjudge
@@ -19053,6 +19052,7 @@ archiplata
 archiprelatical
 archipresbyter
 archipterygial
+addlement
 archisymbolical
 archisynagogue
 archispermae
