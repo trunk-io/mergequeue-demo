@@ -7446,7 +7446,6 @@ epepophysial
 epepophysis
 epergne
 etalon
-epergnes
 eperlan
 echevin
 eperotesis
@@ -11486,6 +11485,7 @@ extraordinaries
 eveque
 ensellure
 everbearing
+epergnes
 everblooming
 everest
 everglades
