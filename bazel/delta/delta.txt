@@ -6568,7 +6568,6 @@ daps
 desegmentation
 desegmented
 disordination
-desegregate
 dephlegmated
 desegregated
 decontamination
@@ -12172,6 +12171,7 @@ disfurniture
 disgallant
 drillstock
 disgarnish
+desegregate
 disgavel
 disgaveling
 disgavelled
