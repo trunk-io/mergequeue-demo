@@ -10770,7 +10770,6 @@ ammonitess
 ammonitic
 ammoniticone
 ammonitiferous
-ammonitish
 ammonitoid
 ammonitoidea
 ammocoetiform
@@ -14844,6 +14843,7 @@ anticathode
 anticausotic
 anticaustic
 anticensorial
+ammonitish
 anticensorious
 anticensoriousness
 anticensorship
