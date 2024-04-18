@@ -8273,7 +8273,6 @@ bierbalk
 byerite
 bierkeller
 byerlite
-bierstube
 bierstuben
 byestreet
 biethnic
@@ -10270,6 +10269,7 @@ bladewise
 blady
 bladygrass
 blasters
+bierstube
 bloodmonger
 bridgemaker
 blae
