@@ -766,6 +766,7 @@ figureheads
 fanciness
 fancysick
 fancywork
+flashet
 fand
 fickly
 flioma
@@ -4377,7 +4378,6 @@ fishes
 fishet
 fishfinger
 fluxionary
-flashet
 fishful
 fishgarth
 fishgrass
