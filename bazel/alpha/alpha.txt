@@ -3847,7 +3847,6 @@ adiadokokinesia
 adventurers
 adiagnostic
 adiamorphic
-adiamorphism
 adiantiform
 adeniform
 adiantum
@@ -14941,6 +14940,7 @@ anticipators
 anticity
 anticytolysin
 anticytotoxin
+adiamorphism
 anticivic
 acoelous
 anticivil
