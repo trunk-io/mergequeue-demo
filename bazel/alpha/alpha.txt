@@ -11876,7 +11876,6 @@ anaphylactically
 anaphylactin
 anaphylactogen
 anaphylactogenic
-anaphylactoid
 anaphylatoxin
 anaphylaxis
 anaphyte
@@ -18573,6 +18572,7 @@ arbitraments
 arbitrary
 arbitrarily
 arbitrariness
+anaphylactoid
 arbitrate
 aroint
 arbitrating
