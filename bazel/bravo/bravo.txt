@@ -8558,7 +8558,6 @@ bilestone
 biforous
 bileve
 bilewhit
-bilged
 bootjack
 bouteloua
 bilgeway
@@ -10196,6 +10195,7 @@ blackman
 blackneck
 blackness
 bebump
+bilged
 blackout
 blackpatch
 blackplate
