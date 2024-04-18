@@ -12742,7 +12742,6 @@ angiocavernous
 angiocholecystitis
 angiocholitis
 angiochondroma
-angiocyst
 angiodermatitis
 angiodiascopy
 angioelephantiasis
@@ -16533,6 +16532,7 @@ antrustionship
 ants
 ashpit
 acini
+angiocyst
 antsier
 antsiest
 aground
