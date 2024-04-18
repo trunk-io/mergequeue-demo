@@ -14435,7 +14435,6 @@ anthologize
 anthologized
 anthologizer
 aposporous
-anisopleurous
 anthologizes
 anthologizing
 anthomania
@@ -23868,6 +23867,7 @@ algicides
 autoaspiration
 autoassimilation
 autobahn
+anisopleurous
 autobahnen
 autobasidia
 autobasidiomycetes
