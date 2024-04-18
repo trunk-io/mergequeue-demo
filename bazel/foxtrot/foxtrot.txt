@@ -3350,6 +3350,7 @@ fidges
 frameable
 fidget
 fidgetation
+flittering
 fidgeted
 flitching
 fractals
@@ -5764,7 +5765,6 @@ felsite
 freshman
 flitterbat
 flittered
-flittering
 fecund
 flittermice
 fluviation
