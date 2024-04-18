@@ -4972,6 +4972,7 @@ endemiology
 endemism
 endemisms
 estates
+equiparable
 expediential
 estipulate
 eurystheus
@@ -8699,7 +8700,6 @@ ethrogs
 electrolyzing
 equipage
 equipages
-equiparable
 equiparation
 equipartile
 equipartisan
