@@ -7694,7 +7694,6 @@ alcoholysis
 ambigenous
 alcoholist
 alcoholytic
-alcoholizable
 abelicea
 alcoholization
 aeneous
@@ -8595,6 +8594,7 @@ allectory
 allegata
 allegate
 allegations
+alcoholizable
 allegator
 alleged
 allegedly
