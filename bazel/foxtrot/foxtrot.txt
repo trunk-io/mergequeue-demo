@@ -3396,6 +3396,7 @@ fieldman
 financist
 fieldmice
 fieldmouse
+fribbles
 fieldpieces
 fieldsman
 fieldsmen
@@ -9967,7 +9968,6 @@ fribble
 fribbler
 fribblers
 friskle
-fribbles
 fribbling
 flustered
 friable
