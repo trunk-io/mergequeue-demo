@@ -303,6 +303,7 @@ gonoph
 grayout
 gaintwist
 ganev
+gamuts
 gainward
 gairfish
 gairfowl
@@ -1046,7 +1047,6 @@ galliferous
 graftonite
 gaspergou
 gams
-gamuts
 ganam
 gananciales
 ganancias
