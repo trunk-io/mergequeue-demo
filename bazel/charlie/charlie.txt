@@ -2642,7 +2642,6 @@ cannister
 cannisters
 crystallographically
 cannoli
-cannon
 cannonade
 cannonaded
 cardiokinetic
@@ -5651,6 +5650,7 @@ cakebread
 catching
 carolean
 cretic
+cannon
 catchlight
 catchline
 catchment
