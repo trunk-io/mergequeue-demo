@@ -14801,7 +14801,6 @@ bronchoesophagoscopy
 breakable
 bullwhip
 breakableness
-breakables
 breakably
 breakage
 breakages
@@ -17013,6 +17012,7 @@ bulginess
 bulging
 bulgingly
 bulies
+breakables
 bulimy
 bulimia
 bulimiac
