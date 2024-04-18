@@ -72,7 +72,6 @@ abama
 aromata
 abamp
 abamperes
-abamps
 aband
 acicular
 abandon
@@ -7331,6 +7330,7 @@ alaric
 alarm
 alarmclock
 alexanders
+abamps
 alarmed
 alarmedly
 agglutinant
