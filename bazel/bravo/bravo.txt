@@ -8079,7 +8079,6 @@ begulfs
 bichromic
 bicyanide
 bicycled
-baroni
 bicycler
 bicyclers
 bicyclic
@@ -12695,6 +12694,7 @@ bookmarks
 bookmate
 bookmobile
 bookmobiles
+baroni
 bookplates
 barwise
 bookpress
