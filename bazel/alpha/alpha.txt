@@ -6533,7 +6533,6 @@ agropyron
 agrostemma
 agrosteral
 aburagiri
-agrosterol
 agrostis
 agrostographer
 agrostography
@@ -25056,6 +25055,7 @@ awrist
 angiokinetic
 awrong
 awshar
+agrosterol
 ax
 axbreaker
 axe
