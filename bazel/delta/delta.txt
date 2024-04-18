@@ -1320,7 +1320,6 @@ dauphin
 dauphine
 dauphines
 drapable
-dauphiness
 daur
 dauri
 daurna
@@ -6590,6 +6589,7 @@ deselected
 deselecting
 deselects
 datums
+dauphiness
 desemer
 dichotomised
 deuteroglobulose
