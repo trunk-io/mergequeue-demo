@@ -8723,7 +8723,6 @@ chansonette
 chansonnette
 chansonnier
 chansonniers
-chanst
 chant
 condensational
 celandine
@@ -25208,6 +25207,7 @@ corker
 corkers
 corky
 corkier
+chanst
 corkiest
 corkiness
 corking
