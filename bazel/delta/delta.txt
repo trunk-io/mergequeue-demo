@@ -9684,7 +9684,6 @@ dilations
 dilatometer
 depressant
 derri
-dilatometry
 dilatometrically
 dilator
 dedanim
@@ -16392,6 +16391,7 @@ downwardness
 downwards
 downwarp
 dysthymia
+dilatometry
 downwash
 dysanagnosia
 downweed
