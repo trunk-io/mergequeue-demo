@@ -3327,6 +3327,7 @@ defines
 definienda
 definiendum
 dippy
+deionizes
 definiens
 dolabre
 definientia
@@ -3841,7 +3842,6 @@ decastyle
 deionized
 denegate
 deionizer
-deionizes
 deionizing
 deiphobus
 deipnophobia
