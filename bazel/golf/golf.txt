@@ -5928,7 +5928,6 @@ grinder
 glossoplasty
 glossoplegia
 glossopodium
-gangliomata
 glossopteris
 glossoptosis
 glossorrhaphy
@@ -10667,6 +10666,7 @@ gurts
 guru
 gurus
 glairing
+gangliomata
 guruships
 gusain
 guser
