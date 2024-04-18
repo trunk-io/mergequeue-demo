@@ -8889,7 +8889,6 @@ binits
 beplaster
 bink
 binman
-binmen
 binna
 binnacle
 binnacles
@@ -11672,6 +11671,7 @@ bobbles
 bobbling
 bobcat
 bobcats
+binmen
 blet
 bardolatry
 bobcoat
