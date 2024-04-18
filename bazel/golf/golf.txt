@@ -401,7 +401,6 @@ gangboard
 galago
 galagos
 galahads
-galanas
 grubberies
 gynobasic
 galangin
@@ -9274,6 +9273,7 @@ grogging
 gunfighters
 grogram
 grograms
+galanas
 gouaches
 genially
 gaeldom

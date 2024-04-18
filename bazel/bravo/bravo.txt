@@ -9064,7 +9064,6 @@ biologic
 biologicohumanistic
 biologics
 biologies
-biologism
 biologist
 biologistic
 bedstands
@@ -11275,6 +11274,7 @@ blowpipe
 bolster
 blowproof
 blows
+biologism
 blowse
 blowsed
 blowsier
