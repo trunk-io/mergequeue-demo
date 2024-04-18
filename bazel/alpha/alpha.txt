@@ -6090,7 +6090,6 @@ aggravator
 aggregable
 aggregant
 aggregata
-aggregatae
 ardeidae
 aerialness
 aggregate
@@ -12529,6 +12528,7 @@ anemotactic
 anemotaxis
 anemotropism
 anencephaly
+aggregatae
 anencephalia
 anencephalic
 apochromat
