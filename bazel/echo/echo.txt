@@ -3690,7 +3690,6 @@ embryophore
 embryoplastic
 etiolation
 embryos
-enslavement
 embryotega
 embryotegae
 embryotome
@@ -9269,6 +9268,7 @@ erodium
 erogenesis
 erogenetic
 erogeny
+enslavement
 enginelike
 erogenous
 eros
