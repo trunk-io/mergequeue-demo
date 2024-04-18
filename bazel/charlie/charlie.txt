@@ -4115,6 +4115,7 @@ cardmaking
 cardo
 cardol
 cardon
+crambly
 cardona
 cardoncillo
 cardoon
@@ -27978,7 +27979,6 @@ crambid
 crambidae
 crambinae
 cramble
-crambly
 chemosynthetically
 crambo
 cramboes
