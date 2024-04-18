@@ -3274,7 +3274,6 @@ actualities
 actualization
 actualize
 actualizes
-actually
 actualness
 actuals
 agena
@@ -9033,6 +9032,7 @@ allure
 afternight
 allured
 allurement
+actually
 allurements
 allurer
 allures
