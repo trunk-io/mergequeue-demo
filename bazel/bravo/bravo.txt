@@ -3443,7 +3443,6 @@ basswoods
 begalling
 basta
 bastaard
-bastant
 bastard
 bastarda
 bastardy
@@ -13010,6 +13009,7 @@ boodleism
 boreism
 borel
 borele
+bastant
 betrample
 borers
 bedusk
