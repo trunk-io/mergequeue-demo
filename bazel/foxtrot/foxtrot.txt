@@ -40,7 +40,6 @@ fallacies
 fabrique
 fabronia
 fabroniaceae
-fabula
 fabular
 foreshowing
 fabulate
@@ -9406,6 +9405,7 @@ francic
 fallowness
 francisc
 franciscan
+fabula
 franciscanism
 franciscans
 ferocities
