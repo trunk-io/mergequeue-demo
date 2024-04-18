@@ -4267,6 +4267,7 @@ firewood
 fishergirl
 firewoods
 flamandize
+fendable
 fireworky
 fireworkless
 fireworks
@@ -9780,7 +9781,6 @@ freezingly
 fregata
 fortitude
 fregit
-fendable
 frey
 freya
 freyalite
