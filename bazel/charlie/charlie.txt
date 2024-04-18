@@ -4853,7 +4853,6 @@ cakemaker
 cartelist
 cartelistic
 cartelization
-cartelize
 cartelizing
 cartellist
 carter
@@ -16239,6 +16238,7 @@ clinochlore
 charlatanically
 clinoclase
 clinoclasite
+cartelize
 clinodiagonal
 clinodomatic
 clinodome
