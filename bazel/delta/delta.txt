@@ -8314,7 +8314,6 @@ dialectology
 dialectologic
 dialectological
 dialectologically
-dialectologies
 dialectologist
 dialector
 dargue
@@ -10957,6 +10956,7 @@ disaffiliates
 disaffiliating
 disaffiliation
 disaffiliations
+dialectologies
 disaffinity
 disaffirm
 disaffirmance
