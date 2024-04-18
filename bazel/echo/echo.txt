@@ -758,7 +758,6 @@ ecospecific
 ecosphere
 esteem
 edriophthalmous
-entotic
 ecostate
 ecotype
 ecotypes
@@ -3396,6 +3395,7 @@ embastioned
 embathe
 euphroes
 emmenology
+entotic
 excel
 embatholithic
 embattle
