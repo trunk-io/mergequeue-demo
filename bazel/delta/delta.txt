@@ -3253,7 +3253,6 @@ defensiveness
 defensor
 defensory
 defensorship
-defer
 deference
 deferentially
 deferentitis
@@ -15672,6 +15671,7 @@ disbalancement
 dehydrogeniser
 dopping
 doppio
+defer
 defilements
 doppler
 dora
