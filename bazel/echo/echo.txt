@@ -6630,7 +6630,6 @@ enterocystoma
 enterocleisis
 eristics
 excluding
-enteroclisis
 enteroclysis
 enterococcal
 enterococcus
@@ -13975,6 +13974,7 @@ extraspectral
 extraspinal
 eco
 esuriently
+enteroclisis
 extrastate
 elaidic
 extrasterile
