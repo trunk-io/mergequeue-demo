@@ -9131,7 +9131,6 @@ enfant
 erythraean
 erythraemia
 erythrasma
-erythrean
 erythremia
 erythric
 erythrin
@@ -9491,6 +9490,7 @@ escalier
 escalin
 escallonia
 escalloniaceae
+erythrean
 escalloniaceous
 escallop
 enrobement
