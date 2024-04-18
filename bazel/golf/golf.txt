@@ -503,7 +503,6 @@ galeres
 galericulate
 galerie
 galerum
-galerus
 gales
 galesaur
 galesaurus
@@ -8594,6 +8593,7 @@ gordonia
 grecophil
 guernseyed
 galliardize
+galerus
 grecoue
 gyarung
 garbs
