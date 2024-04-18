@@ -6422,7 +6422,6 @@ benzdioxdiazine
 benzdioxtriazine
 benzein
 benzene
-benzeneazobenzene
 bastian
 benzenediazonium
 benzenes
@@ -17654,6 +17653,7 @@ burglarizes
 burglarizing
 burglarproof
 burglarproofed
+benzeneazobenzene
 berat
 burglarproofing
 baikerite
