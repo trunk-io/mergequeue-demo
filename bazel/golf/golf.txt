@@ -3886,7 +3886,6 @@ gibbsite
 gruffer
 geotactic
 griph
-gibbsites
 gibbus
 gibe
 gnomology
@@ -7175,6 +7174,7 @@ gordiidae
 gordioid
 globical
 gile
+gibbsites
 gordon
 gore
 gorebill
