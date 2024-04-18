@@ -830,7 +830,6 @@ ectoblastic
 ectobronchium
 ectocardia
 erigenia
-extent
 ectocarpaceae
 effete
 ectocarpales
@@ -8870,6 +8869,7 @@ erato
 erava
 erbia
 ethoxy
+extent
 encroachment
 erd
 eme
