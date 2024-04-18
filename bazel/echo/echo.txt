@@ -6423,7 +6423,6 @@ ensky
 enskied
 esthesia
 enskies
-enskying
 enslave
 enslaved
 epiglottic
@@ -12655,6 +12654,7 @@ exocoelic
 exocoelom
 exocoelum
 exocoetidae
+enskying
 exocoetus
 enclosure
 exocone
