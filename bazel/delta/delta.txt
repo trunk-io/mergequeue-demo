@@ -264,7 +264,6 @@ dagga
 daggar
 dagger
 daggerboard
-dextrogyration
 daggerlike
 daggerproof
 daggers
@@ -16345,6 +16344,7 @@ dochmiac
 downsizes
 drunkelew
 downsizing
+dextrogyration
 downslide
 downslip
 dy
