@@ -1520,6 +1520,7 @@ deadliness
 deadlock
 deadlocking
 deadman
+dipus
 diffusibly
 direfulness
 deadmelt
@@ -8215,7 +8216,6 @@ ductus
 diaglyptic
 diagnosable
 diagnose
-dipus
 diagnosed
 diagnoses
 diagnosis
