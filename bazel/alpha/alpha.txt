@@ -12089,7 +12089,6 @@ anatomiser
 anatomising
 anatomist
 anatomists
-anatomizable
 anatomization
 anatomize
 anatomized
@@ -20880,6 +20879,7 @@ asarin
 acroterteria
 asarite
 asaron
+anatomizable
 asarone
 attorneyism
 asarotum
