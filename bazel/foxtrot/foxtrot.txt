@@ -1722,7 +1722,6 @@ fear
 fanflower
 fimbles
 fusillade
-filterable
 fearedly
 firebreaks
 fearedness
@@ -4510,6 +4509,7 @@ fistinut
 fistlike
 followeth
 fama
+filterable
 fistmele
 forecounsel
 fistnotes
