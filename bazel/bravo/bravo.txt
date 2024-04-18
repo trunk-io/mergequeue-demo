@@ -4989,6 +4989,7 @@ bearable
 beeped
 beepers
 bunt
+bricks
 boltless
 beeping
 beeps
@@ -11153,7 +11154,6 @@ blooey
 burmese
 blooie
 bloomed
-bricks
 bloomeries
 bloomerism
 baluchi
