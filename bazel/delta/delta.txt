@@ -12012,7 +12012,6 @@ disenthral
 disenthrall
 disenthralled
 disenthrallment
-disenthralment
 disenthrone
 disenthroned
 disenthronement
@@ -15530,6 +15529,7 @@ donsky
 donum
 donut
 donzel
+disenthralment
 donzella
 donzels
 doo
