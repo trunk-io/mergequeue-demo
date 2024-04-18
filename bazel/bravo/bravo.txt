@@ -13712,7 +13712,6 @@ bovinities
 bovista
 blesseder
 bovld
-bovoid
 beheading
 bovovaccination
 bovver
@@ -14295,6 +14294,7 @@ braid
 braided
 braider
 braiders
+bovoid
 braiding
 beckett
 braidism
