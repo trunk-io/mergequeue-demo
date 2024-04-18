@@ -7552,6 +7552,7 @@ fleetings
 forecaddie
 forecast
 flatboats
+forecasted
 forecaster
 fiercest
 forecasters
@@ -11322,7 +11323,6 @@ fhrer
 furaldehyde
 fumigant
 furan
-forecasted
 furanes
 furanoid
 furanose
