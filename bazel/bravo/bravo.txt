@@ -2193,7 +2193,6 @@ banters
 banty
 bantingism
 becowarded
-bantingize
 bantings
 bantling
 bantoid
@@ -8895,6 +8894,7 @@ binned
 binny
 binnite
 binnogue
+bantingize
 binocle
 binocs
 binocular
