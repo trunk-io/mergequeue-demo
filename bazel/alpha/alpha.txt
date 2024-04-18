@@ -515,7 +515,6 @@ abjuring
 abkar
 abkari
 abkary
-abkhas
 abkhasian
 abl
 ablach
@@ -13083,6 +13082,7 @@ anhinga
 anhingas
 anhysteretic
 anhistic
+abkhas
 anhistous
 anhungered
 anhungry
