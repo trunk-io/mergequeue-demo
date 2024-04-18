@@ -15490,7 +15490,6 @@ brios
 bryozoa
 biaxially
 bryozoan
-bryozoans
 bryozoon
 bywalker
 bryozoum
@@ -16969,6 +16968,7 @@ bulblike
 bulbocapnin
 beefhead
 bulbocapnine
+bryozoans
 bulbocavernosus
 bulbocavernous
 bulbocodium

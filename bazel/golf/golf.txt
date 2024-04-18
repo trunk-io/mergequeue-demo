@@ -5748,7 +5748,6 @@ garnice
 geminating
 gloeosporiose
 gradable
-gloeosporium
 gelfomino
 glogg
 gloggs
@@ -9735,6 +9734,7 @@ gregarine
 gruneritization
 garse
 goosetongue
+gloeosporium
 grungier
 grungiest
 grieflessness
