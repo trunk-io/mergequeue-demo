@@ -3409,7 +3409,6 @@ archtempter
 amid
 adamantoblast
 adamantoblastoma
-adamantoma
 adamants
 adamas
 avifaunally
@@ -20615,6 +20614,7 @@ arthrolithiasis
 arthromere
 arthromeric
 arthrometer
+adamantoma
 arthrometry
 arthroncus
 arthroneuralgia
