@@ -33,6 +33,7 @@ ear
 endosporia
 earable
 earache
+enumerated
 earbash
 earbob
 earclip
@@ -1803,7 +1804,6 @@ eyeshield
 equvalent
 eyeshine
 eyeshot
-enumerated
 etherialise
 eyeshots
 eyesight
