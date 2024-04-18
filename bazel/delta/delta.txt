@@ -2166,7 +2166,6 @@ decastellate
 deacidify
 decastere
 decastylar
-decastyle
 decreative
 decasualise
 decasualised
@@ -3853,6 +3852,7 @@ discant
 deionization
 deionizations
 deionize
+decastyle
 deionized
 denegate
 deionizer

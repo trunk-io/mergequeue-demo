@@ -2348,6 +2348,7 @@ geiger
 gangrel
 gemsboks
 glede
+glowerer
 gantryman
 glunched
 giust
@@ -5996,7 +5997,6 @@ gloves
 glow
 girnel
 glowbard
-glowerer
 garrulous
 grasshopperish
 glowering
