@@ -3077,7 +3077,6 @@ deescalate
 deescalated
 diphtheriaphor
 deescalation
-deescalations
 deeses
 deevey
 dimane
@@ -4240,6 +4239,7 @@ disfranchisements
 delocalised
 delocalising
 dysfunction
+deescalations
 delocalization
 delocalize
 delocalizing
