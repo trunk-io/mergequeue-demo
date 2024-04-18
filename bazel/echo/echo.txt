@@ -36,7 +36,6 @@ earbash
 earbob
 earclip
 earcockle
-eardrop
 eardropper
 eisell
 earflap
@@ -3056,6 +3055,7 @@ ellebore
 elleck
 ellenyard
 escribed
+eardrop
 ellfish
 ellice
 ellick
