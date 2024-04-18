@@ -9535,6 +9535,7 @@ checkroom
 compathy
 checkrooms
 checkrope
+chemicked
 checkrow
 checkrowed
 checkrower
@@ -9799,7 +9800,6 @@ conventionalist
 chemicals
 chemick
 calanid
-chemicked
 chemicker
 chemicoastrological
 chemicobiology
