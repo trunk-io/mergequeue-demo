@@ -3476,6 +3476,7 @@ fifteen
 fifteener
 fifteenfold
 fifteens
+fraction
 fifteenthly
 fifteenths
 fifthly
@@ -9216,7 +9217,6 @@ fungify
 fracticipita
 fibrochondritis
 flashforwards
-fraction
 foraminulous
 fractional
 fractionalize
