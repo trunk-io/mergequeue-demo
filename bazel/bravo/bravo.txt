@@ -4174,7 +4174,6 @@ bankrupts
 bodysurfs
 bearded
 beardedness
-bearder
 beardfishes
 beswarms
 beardy
@@ -17073,6 +17072,7 @@ bulldoggedness
 bulldogger
 bulldoggy
 bankroll
+bearder
 bulldogging
 bullions
 bulldoggishly
