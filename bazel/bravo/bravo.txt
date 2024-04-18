@@ -12967,7 +12967,6 @@ borders
 borderland
 borderlander
 borderlands
-borderless
 borderlight
 borderline
 bowsery
@@ -16815,6 +16814,7 @@ bufferrers
 buffers
 buffet
 buffeted
+borderless
 bibliokelpt
 buffeter
 buffeters
