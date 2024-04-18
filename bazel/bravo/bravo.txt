@@ -1417,6 +1417,7 @@ baldrics
 baldricwise
 balds
 balducta
+bugged
 balductum
 baldwin
 bale
@@ -13664,7 +13665,6 @@ bouse
 boused
 bouser
 bouses
-bugged
 bousy
 behooped
 bousing
