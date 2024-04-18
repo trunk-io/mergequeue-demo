@@ -558,6 +558,7 @@ cadua
 cultures
 colloque
 caduac
+cruiseway
 chirographic
 caduca
 caducean
@@ -30174,7 +30175,6 @@ cruiser
 cruisers
 cruiserweight
 cruises
-cruiseway
 cruising
 cruisingly
 cruisken
