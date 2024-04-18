@@ -1106,7 +1106,6 @@ ganglia
 gargoyled
 gansel
 gybed
-gangliar
 gibaro
 glucinum
 guvacoline
@@ -4891,6 +4890,7 @@ goad
 groat
 gagor
 gitterns
+gangliar
 giulio
 gymnodont
 giunta
