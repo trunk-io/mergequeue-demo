@@ -8922,7 +8922,6 @@ characterologist
 chincha
 characters
 characterstring
-charade
 charadrii
 charadriiform
 charadriiformes
@@ -19784,6 +19783,7 @@ chinchilla
 comestible
 cyclostrophic
 comestibles
+charade
 comestion
 comet
 chang
