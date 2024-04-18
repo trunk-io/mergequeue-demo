@@ -3669,7 +3669,6 @@ adendritic
 adenectomy
 adenectomies
 adenectopia
-adenectopic
 akenbold
 adenemphractic
 adenyl
@@ -13610,6 +13609,7 @@ announce
 announced
 announcement
 announcements
+adenectopic
 announces
 announcing
 annualize
