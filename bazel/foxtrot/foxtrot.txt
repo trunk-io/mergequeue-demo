@@ -5655,6 +5655,7 @@ forsung
 fertilisability
 flint
 fretworks
+fluffer
 flinted
 fease
 firelike
@@ -6263,7 +6264,6 @@ flueric
 fluerics
 flues
 fluework
-fluffer
 fluffier
 fluffiest
 fluffily
