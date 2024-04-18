@@ -3620,6 +3620,7 @@ filenames
 filer
 fanons
 filers
+fungivorous
 files
 frailly
 filesmith
@@ -11239,7 +11240,6 @@ forcipes
 flittiness
 fungitoxic
 fungitoxicity
-fungivorous
 fluorophosphate
 farmerette
 fungoes
