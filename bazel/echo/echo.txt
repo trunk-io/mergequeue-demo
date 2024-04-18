@@ -2168,7 +2168,6 @@ elaters
 elatha
 elatinaceae
 elatinaceous
-elatine
 elating
 elation
 elations
@@ -13658,6 +13657,7 @@ enchair
 eliquation
 ewers
 exteroceptor
+elatine
 emersions
 esteemed
 exterous

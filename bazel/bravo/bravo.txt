@@ -1682,7 +1682,6 @@ balmy
 balmier
 balmiest
 balmily
-balminess
 balmlike
 billhooks
 balmony
@@ -4202,6 +4201,7 @@ beardlessness
 beardlike
 bv
 beardom
+balminess
 beards
 bearer
 bearers
