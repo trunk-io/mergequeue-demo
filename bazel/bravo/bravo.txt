@@ -3718,7 +3718,6 @@ battalias
 battalion
 battarism
 battarismus
-batteau
 batteaux
 bonnering
 batteler
@@ -8676,6 +8675,7 @@ billikin
 barotse
 billings
 billionaire
+batteau
 bartram
 billionaires
 billionism
