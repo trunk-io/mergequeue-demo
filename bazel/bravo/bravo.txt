@@ -3590,7 +3590,6 @@ bathyhypesthesia
 binode
 blonds
 bathylithic
-bathylitic
 bathymeter
 blithesomeness
 bathymetry
@@ -7212,6 +7211,7 @@ bessi
 bessy
 bessie
 best
+bathylitic
 burying
 bestay
 bestayed
