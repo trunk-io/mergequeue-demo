@@ -15394,6 +15394,7 @@ clangored
 clangorous
 clangorously
 clangors
+crosscut
 clangour
 clangoured
 clangouring
@@ -29819,7 +29820,6 @@ crossbreed
 crossbreeding
 crosscurrent
 crosscurrents
-crosscut
 crosscuts
 crosscutter
 confutative
