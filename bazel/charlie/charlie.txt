@@ -11543,6 +11543,7 @@ cholecyst
 cholecystectasia
 cholecystectomy
 cholecystectomized
+countermeasure
 cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
@@ -26897,7 +26898,6 @@ countermarch
 countermarching
 countermark
 countermarriage
-countermeasure
 countermessage
 countermigration
 countermine
