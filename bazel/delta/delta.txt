@@ -12383,7 +12383,6 @@ dendrolite
 disallowable
 dishwatery
 dishwiper
-digram
 disidentify
 dysidrosis
 disilane
@@ -13717,6 +13716,7 @@ dissunder
 dissweeten
 dogvane
 dist
+digram
 distad
 dindle
 dispensatrix
