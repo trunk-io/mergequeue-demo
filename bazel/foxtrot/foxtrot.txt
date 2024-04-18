@@ -4662,7 +4662,6 @@ fixt
 fusiformis
 farming
 fixup
-fixups
 fixure
 fixures
 fiz
@@ -11125,6 +11124,7 @@ footmenfootpad
 farceuse
 functionalities
 fistiana
+fixups
 formatively
 firemaster
 functionalize

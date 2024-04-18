@@ -26698,7 +26698,6 @@ counterchanged
 counterchanging
 countercharged
 countercharm
-countercheck
 counterclaim
 counterclaimant
 counterclaiming
@@ -28101,6 +28100,7 @@ craniopharyngeal
 craniophore
 cranioplasty
 craniorhachischisis
+countercheck
 craniosacral
 cranioschisis
 conforbably
