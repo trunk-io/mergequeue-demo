@@ -2239,6 +2239,7 @@ framers
 farmhouses
 felt
 felted
+furless
 felter
 feltyflier
 felting
@@ -6898,7 +6899,6 @@ flintiest
 flowmanostat
 foliot
 fosteringly
-furless
 folious
 foliums
 forbearances
