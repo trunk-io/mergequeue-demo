@@ -21309,7 +21309,6 @@ communicableness
 conchol
 conchology
 conchologically
-conchologize
 conchometer
 conchometry
 conchospiral
@@ -22190,6 +22189,7 @@ congeliturbation
 corneous
 congener
 congeneracy
+conchologize
 congeneric
 congenerical
 congenerous
