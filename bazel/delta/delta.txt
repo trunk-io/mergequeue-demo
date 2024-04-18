@@ -4267,7 +4267,6 @@ dysfunction
 delocalization
 delocalize
 delocalizing
-delomorphic
 delomorphous
 deloo
 deloul
@@ -9104,6 +9103,7 @@ didal
 didappers
 didascalic
 didascalos
+delomorphic
 didder
 diddered
 diddest
