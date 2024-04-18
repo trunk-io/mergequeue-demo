@@ -2326,7 +2326,6 @@ fencelet
 fencepost
 fenceress
 fencers
-freeborn
 firebricks
 fsiest
 fenchene
@@ -9300,6 +9299,7 @@ fragmentalize
 fragmentally
 fragmentary
 fragmentarily
+freeborn
 floroon
 freeish
 fragmentariness
