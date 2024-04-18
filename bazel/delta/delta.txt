@@ -4532,6 +4532,7 @@ demibastioned
 demibath
 demibeast
 demibelt
+dislink
 demibob
 demibrassart
 demibrigade
@@ -12638,7 +12639,6 @@ disobeys
 dislimning
 dipsas
 dislimns
-dislink
 dyslysin
 diazotizing
 dislive
