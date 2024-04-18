@@ -5841,7 +5841,6 @@ entocoel
 ergates
 ecarinate
 enhance
-enhanced
 exaggerativeness
 enfortune
 enhancement
@@ -10311,6 +10310,7 @@ etherization
 einsteinium
 etherize
 etherized
+enhanced
 etherizes
 etherizing
 eudora
