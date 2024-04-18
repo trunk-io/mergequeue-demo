@@ -5384,7 +5384,6 @@ fretsome
 fleeter
 fleetest
 fleeting
-fleetingness
 fathom
 fleets
 fleetwing
@@ -7644,6 +7643,7 @@ fluosilicate
 fridila
 foredune
 foreface
+fleetingness
 firy
 ferroglass
 forefatherly
