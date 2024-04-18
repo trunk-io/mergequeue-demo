@@ -7629,6 +7629,7 @@ cerebrovascular
 cerebrovisceral
 cerebrum
 chaumontel
+collarets
 cerecloth
 cered
 cerement
@@ -21735,7 +21736,6 @@ conductio
 conduction
 charkas
 conductional
-collarets
 couleur
 conductitious
 conductive
