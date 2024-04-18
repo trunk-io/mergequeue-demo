@@ -12174,7 +12174,6 @@ bolognas
 bolognese
 birdling
 bolograph
-bolography
 bolographic
 bolographically
 boloing
@@ -16073,6 +16072,7 @@ broodier
 broodiest
 burgundian
 broodily
+bolography
 broodiness
 broodingly
 broodless
