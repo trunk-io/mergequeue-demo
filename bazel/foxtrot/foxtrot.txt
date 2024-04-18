@@ -13,7 +13,6 @@ fable
 fibriform
 fabled
 ferry
-fableland
 fablemaker
 fablemongering
 fabler
@@ -5231,6 +5230,7 @@ fingertips
 flavour
 fencelike
 flavoured
+fableland
 flavourful
 flavourfully
 flavoury
