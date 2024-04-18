@@ -5483,7 +5483,6 @@ behindsight
 behint
 behypocrite
 behither
-behn
 bechamel
 bunkery
 beholders
@@ -13096,6 +13095,7 @@ borrowable
 borrower
 borrowers
 borrows
+behn
 bors
 blow
 borsches
