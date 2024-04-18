@@ -1293,7 +1293,6 @@ damageable
 dauncy
 doxantha
 daunder
-dipterocecidium
 departure
 daundered
 daundering
@@ -8839,6 +8838,7 @@ dispreader
 dicastery
 dicasteries
 dicastic
+dipterocecidium
 dodecylene
 dicasts
 dicatalectic
