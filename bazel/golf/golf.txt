@@ -1183,7 +1183,6 @@ gloater
 gangue
 gangues
 gangwa
-gangway
 grenadilla
 gangwayman
 ganymede
@@ -9488,6 +9487,7 @@ groupage
 groupageness
 grouped
 gynophoric
+gangway
 grouper
 groupers
 glycolipin
