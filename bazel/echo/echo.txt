@@ -4366,7 +4366,6 @@ escapists
 enamel
 euchring
 expulsive
-enameled
 enamelers
 enameling
 enolization
@@ -4719,6 +4718,7 @@ encipher
 ersatzes
 ease
 enciphered
+enameled
 enciphering
 encipherment
 evolutional
