@@ -4253,7 +4253,6 @@ caricaturable
 caricatural
 caricature
 caricatured
-caricatures
 caricaturing
 caricaturist
 caricaturists
@@ -26276,6 +26275,7 @@ cosuggestion
 cosurety
 caracole
 cosuretyship
+caricatures
 collisional
 cosustain
 coswearer
