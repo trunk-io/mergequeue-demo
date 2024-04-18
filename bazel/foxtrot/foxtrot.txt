@@ -7249,7 +7249,6 @@ flockman
 footslogged
 footslogger
 forgift
-footsoldiers
 finnmarks
 footsore
 footsores
@@ -10808,6 +10807,7 @@ ftncmd
 featherlet
 frenetic
 fu
+footsoldiers
 foreimagine
 fubbed
 fubbery
