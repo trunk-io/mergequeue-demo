@@ -5548,6 +5548,7 @@ beys
 beisa
 beisance
 beyship
+bribeable
 bulgarians
 beja
 bejade
@@ -15145,7 +15146,6 @@ bribable
 bribe
 bribeability
 bulblet
-bribeable
 bribed
 blossomhead
 bribee
