@@ -2795,6 +2795,7 @@ genion
 glassworks
 genyophrynidae
 gearboxes
+geodesic
 genip
 grouchy
 genipa
@@ -8956,7 +8957,6 @@ golfdom
 gearbox
 grievously
 griff
-geodesic
 griffade
 galactotherapy
 griffaun
