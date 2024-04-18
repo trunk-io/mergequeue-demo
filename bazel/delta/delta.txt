@@ -6743,7 +6743,6 @@ desireable
 desired
 dojo
 desiredly
-desiredness
 desireful
 desirefulness
 desirelessness
@@ -8681,6 +8680,7 @@ despisedness
 diastataxy
 diastataxic
 diastatic
+desiredness
 diastem
 diastema
 diastemata
