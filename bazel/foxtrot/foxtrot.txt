@@ -4645,7 +4645,6 @@ fixities
 flannelleaf
 fixt
 fusiformis
-fixtureless
 farming
 fixup
 fixups
@@ -6361,6 +6360,7 @@ fullback
 flunkeyhood
 flunkeyistic
 flunker
+fixtureless
 foetid
 flunky
 flunkyish
