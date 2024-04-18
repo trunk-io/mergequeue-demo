@@ -7303,7 +7303,6 @@ bestrides
 bestriding
 bestripe
 bestrode
-bestrow
 bisons
 bestrowed
 binarium
@@ -15932,6 +15931,7 @@ bushhammer
 bromometry
 bhumidar
 bromometric
+bestrow
 bromometrical
 bromometrically
 bromonaphthalene
