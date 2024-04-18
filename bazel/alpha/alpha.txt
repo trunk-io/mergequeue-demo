@@ -10548,6 +10548,7 @@ amylogen
 amylogenesis
 amylogenic
 amylogens
+archoptoma
 amylohydrolysis
 amylohydrolytic
 amyloid
@@ -19126,7 +19127,6 @@ archontia
 archontic
 archoplasma
 archoplasmic
-archoptoma
 archorrhagia
 archorrhea
 antipersonnel
