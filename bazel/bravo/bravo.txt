@@ -1722,7 +1722,6 @@ biramous
 balsamaceous
 balsamation
 balsamed
-balsamer
 balsamic
 balsamical
 balsamically
@@ -16240,6 +16239,7 @@ beets
 brrr
 bruang
 bruce
+balsamer
 brucellae
 brucellas
 baggage
