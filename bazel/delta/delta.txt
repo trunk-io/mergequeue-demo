@@ -3945,7 +3945,6 @@ dekkos
 dotage
 dekle
 deyship
-deknight
 del
 dingies
 daviesia
@@ -15176,6 +15175,7 @@ dolium
 dollar
 dollardom
 dollarfishes
+deknight
 derrickmen
 dollarleaf
 dollars
