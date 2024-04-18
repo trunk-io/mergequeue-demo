@@ -6502,7 +6502,6 @@ baltimorean
 benzosulfimide
 benzosulphimide
 benzotetrazine
-benzotetrazole
 beetlers
 benzothiazine
 bannerette
@@ -8759,6 +8758,7 @@ bimaculated
 bimalar
 bimana
 bimanal
+benzotetrazole
 bimane
 bimanous
 bundt
