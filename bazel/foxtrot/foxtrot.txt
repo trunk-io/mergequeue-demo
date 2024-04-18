@@ -161,7 +161,6 @@ fullbodied
 fishings
 factionalist
 factionaries
-forlet
 factionate
 factionism
 faradopalpation
@@ -9700,6 +9699,7 @@ flagstaffs
 fricandoes
 florivorous
 freeheartedly
+forlet
 freehold
 freeholder
 freeholders
