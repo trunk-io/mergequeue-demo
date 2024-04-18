@@ -9146,7 +9146,6 @@ fleshling
 foxberries
 ferrated
 foxer
-foxery
 foxfeet
 foxfire
 foxfires
@@ -9295,6 +9294,7 @@ fragile
 fishpot
 fragileness
 fragility
+foxery
 faceplate
 fragilities
 fragment
