@@ -870,7 +870,6 @@ electros
 ectognatha
 ectolecithal
 ectomeres
-ectomeric
 ectomesoblast
 ectomorph
 eugranitic
@@ -8604,6 +8603,7 @@ equerry
 emulsifying
 equerries
 equerryship
+ectomeric
 eques
 equestrial
 equestrian
