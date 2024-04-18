@@ -25739,7 +25739,6 @@ corroding
 corrosibility
 corrosibleness
 corrosional
-corrosionproof
 corrosive
 corrosived
 corrosively
@@ -29587,6 +29586,7 @@ crockard
 crocked
 crockery
 crockeries
+corrosionproof
 crockeryware
 crocket
 crocketed
