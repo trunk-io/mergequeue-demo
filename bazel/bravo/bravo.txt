@@ -3619,7 +3619,6 @@ bathmat
 bathmats
 bereaven
 bathmism
-bathmotropism
 bathochromatism
 bathochrome
 bibliognostic
@@ -15293,6 +15292,7 @@ bridler
 bridlers
 boredom
 bridles
+bathmotropism
 bridling
 ballerine
 bridoons
