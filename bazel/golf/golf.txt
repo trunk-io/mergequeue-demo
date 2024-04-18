@@ -4792,6 +4792,7 @@ gyromitra
 gnawers
 gobiiformes
 gasconade
+goldie
 gra
 gyron
 gironde
@@ -6651,7 +6652,6 @@ goldi
 goldy
 gritting
 gliosis
-goldie
 golding
 gesning
 goldish
