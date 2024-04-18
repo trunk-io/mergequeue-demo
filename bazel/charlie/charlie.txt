@@ -8204,7 +8204,6 @@ chairmanships
 checkoff
 chairmender
 chairmending
-chayroot
 chairpersons
 colpoplastic
 chairs
@@ -29635,6 +29634,7 @@ croydon
 croiik
 croyl
 croisad
+chayroot
 converses
 croisade
 croisard
