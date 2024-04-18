@@ -1066,7 +1066,6 @@ feast
 frowzier
 farls
 fetal
-farm
 fantad
 farmable
 farmed
@@ -3497,6 +3496,7 @@ figaro
 faster
 figbird
 figboy
+farm
 fightwite
 figeater
 floriate
