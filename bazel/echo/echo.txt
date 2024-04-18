@@ -5418,7 +5418,6 @@ exotisms
 eaglelike
 eparchate
 endurability
-endurably
 endurance
 endurant
 endure
@@ -8807,6 +8806,7 @@ equivocations
 equivocator
 equivocatory
 echolocate
+endurably
 equivoke
 equivokes
 equivoluminal
