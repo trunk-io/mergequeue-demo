@@ -1296,6 +1296,7 @@ damageable
 dauncy
 doxantha
 daunder
+dipterocecidium
 departure
 daundered
 daundering
@@ -17707,7 +17708,6 @@ derivers
 diogenean
 discophile
 duarchies
-dipterocecidium
 dubb
 dubba
 dubbah
