@@ -386,7 +386,6 @@ galactosemia
 geckotidae
 giftedness
 gnathostomatous
-gyrostabilized
 galoped
 garfishes
 galactosyl
@@ -1946,6 +1945,7 @@ goaf
 groose
 gatewards
 gatewise
+gyrostabilized
 gatewoman
 gatherable
 gathered
