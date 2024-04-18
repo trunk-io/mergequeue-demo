@@ -4587,7 +4587,6 @@ gipser
 gipsy
 gypsy
 gipsydom
-gypsydoms
 gigsman
 gipsied
 gypsied
@@ -5889,6 +5888,7 @@ glossina
 glossinas
 glossing
 gertrude
+gypsydoms
 gloveress
 glossiphonia
 glossiphonidae
