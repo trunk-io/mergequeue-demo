@@ -2061,7 +2061,6 @@ eligibleness
 elaeosaccharum
 ended
 ethos
-elaeothesium
 equiangle
 elaic
 entoretina
@@ -3425,6 +3424,7 @@ empathy
 embetter
 elaphe
 epees
+elaeothesium
 embezzled
 embezzlement
 echeloning
