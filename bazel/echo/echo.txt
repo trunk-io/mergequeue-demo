@@ -1254,6 +1254,7 @@ ethnobiology
 electroendosmose
 eaceworm
 eegrass
+equvalent
 extremal
 eeyuch
 equiv
@@ -1807,7 +1808,6 @@ eyeserver
 eyeservice
 eyeshade
 eyeshield
-equvalent
 eyeshine
 exolve
 eyeshot

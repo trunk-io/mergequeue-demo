@@ -1637,6 +1637,7 @@ ballottine
 ballottines
 ballow
 ballpark
+barrulety
 ballplayer
 ballplayers
 ballplatz
@@ -12677,7 +12678,6 @@ bookpress
 bookrack
 bookracks
 baronry
-barrulety
 bookrest
 bookrests
 bookroom
