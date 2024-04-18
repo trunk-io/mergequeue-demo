@@ -274,6 +274,7 @@ abdominocystic
 abdominogenital
 affiant
 abdominohysterotomy
+abnormals
 abdominoposterior
 abdominoscopy
 agas
@@ -607,7 +608,6 @@ abnormalized
 abnormalizing
 abnormally
 abnormalness
-abnormals
 abnormity
 abnormities
 abnormous
