@@ -1188,7 +1188,6 @@ abwatts
 ac
 acacatechin
 acacatechol
-acacetin
 auricyanide
 acacia
 acacian
@@ -10564,6 +10563,7 @@ amyloplastid
 amylopsin
 amylose
 apprenticeship
+acacetin
 amyloses
 amylosynthesis
 amylosis
