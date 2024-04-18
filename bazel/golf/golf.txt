@@ -5454,7 +5454,6 @@ glycogelatin
 glycogen
 galactogogue
 glycogeny
-glycogenic
 glycogenize
 glycogenolytic
 glycogenosis
@@ -8362,6 +8361,7 @@ gratiolin
 gratiosolin
 grattage
 gratten
+glycogenic
 gratters
 grattoir
 globuloid
