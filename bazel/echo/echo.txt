@@ -10701,7 +10701,6 @@ eucosia
 eucosmidae
 eucrasia
 enzymolytic
-endocarpoid
 eucrasite
 eucre
 eucryphia
@@ -14144,6 +14143,7 @@ exuberance
 exuberantly
 exuberantness
 exuberated
+endocarpoid
 echowise
 exuberating
 exuberation
