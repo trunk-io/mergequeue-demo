@@ -3448,7 +3448,6 @@ cojoin
 captor
 captors
 clientless
-captress
 capturable
 capture
 captured
@@ -31305,6 +31304,7 @@ curetting
 curfew
 curfewed
 curfews
+captress
 concordats
 curfs
 cury
