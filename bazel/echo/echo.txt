@@ -5908,7 +5908,6 @@ eudalene
 enhorror
 enhort
 ectozoic
-encolor
 enhuile
 enhunger
 enhungered
@@ -9261,6 +9260,7 @@ erminette
 extrahazardous
 ermining
 erminites
+encolor
 erminois
 ermitophobia
 erne
