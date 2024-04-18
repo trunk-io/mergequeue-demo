@@ -3320,7 +3320,6 @@ basiventral
 bask
 basked
 basker
-baskerville
 bonavist
 basket
 basketballer
@@ -12709,6 +12708,7 @@ bookstand
 bookstore
 bookstores
 biforked
+baskerville
 bonks
 bookways
 bloody
