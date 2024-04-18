@@ -1576,7 +1576,6 @@ acclimatiser
 acclimatising
 algid
 acclimatizable
-apokreos
 atinkle
 acclimatize
 acclimatizer
@@ -18196,6 +18195,7 @@ aptitudinally
 aptly
 aptness
 aptnesses
+apokreos
 aptote
 aptotic
 apts
