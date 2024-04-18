@@ -155,6 +155,7 @@ cableways
 cabling
 cablish
 campmaster
+copellidine
 cabmen
 cabob
 caboceer
@@ -24470,7 +24471,6 @@ copei
 copeia
 copelata
 copelatae
-copellidine
 copeman
 copemate
 copemates
