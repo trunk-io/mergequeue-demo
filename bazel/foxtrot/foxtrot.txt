@@ -1486,6 +1486,7 @@ fattishness
 fattrels
 fother
 fatuate
+freewheel
 fatuism
 fatuity
 futhork
@@ -9756,7 +9757,6 @@ freety
 freeway
 freeward
 flavorings
-freewheel
 forestep
 freewheeler
 foresign
