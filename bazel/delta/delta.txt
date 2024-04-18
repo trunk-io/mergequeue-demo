@@ -7150,7 +7150,6 @@ detailedness
 dogvanes
 detailer
 detailers
-demarcators
 detailing
 detailism
 detailist
@@ -16400,6 +16399,7 @@ deseed
 devilbird
 downweighted
 downwind
+demarcators
 dogma
 downwith
 dowp
