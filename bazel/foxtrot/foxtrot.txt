@@ -367,6 +367,7 @@ fainter
 faintest
 finspot
 faintheart
+fleying
 fainthearted
 faintheartedness
 fainty
@@ -1711,7 +1712,6 @@ feaberry
 frugivora
 feak
 federate
-fleying
 flocks
 frowny
 feal
