@@ -3122,7 +3122,6 @@ guestless
 glassed
 gurgle
 geomagnetist
-gravamen
 geomaly
 geomalic
 geomancer
@@ -6689,6 +6688,7 @@ gollar
 goller
 golly
 gobbets
+gravamen
 golo
 gashy
 geratologic

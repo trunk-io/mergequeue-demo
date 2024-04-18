@@ -3159,7 +3159,6 @@ defecant
 dowless
 defecate
 defecated
-defecates
 dia
 defecation
 dexterity
@@ -11681,6 +11680,7 @@ discounter
 distastes
 discounters
 discounting
+defecates
 discountinuous
 discounts
 discour
