@@ -2460,7 +2460,6 @@ fermal
 fermata
 fusinite
 fermatas
-fermate
 fleshed
 ferme
 familarity
@@ -10369,6 +10368,7 @@ frolickly
 frolicks
 frolicly
 frolicsome
+fermate
 finenesses
 frolicsomely
 frammit
