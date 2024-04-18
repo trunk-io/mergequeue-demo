@@ -2619,6 +2619,7 @@ genae
 genal
 genapp
 gater
+gimels
 genapping
 genarch
 galenian
@@ -4192,7 +4193,6 @@ gimcrackery
 gimcracks
 gimel
 gymel
-gimels
 gimirrai
 gymkhana
 gimlet

@@ -14472,7 +14472,6 @@ belugite
 branchiosaurus
 branchiostegal
 branchiostegan
-branchiostege
 branchiostegidae
 branchiostoma
 branchiostomid
@@ -18139,6 +18138,7 @@ butcherer
 ballyrag
 biternate
 butcheress
+branchiostege
 butchery
 butcheries
 butcherly
