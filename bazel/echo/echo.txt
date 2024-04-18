@@ -111,7 +111,6 @@ earring
 earringed
 earrings
 ears
-earscrew
 earsh
 endoskeletal
 earshot
@@ -13936,6 +13935,7 @@ extrapoetical
 extrapolar
 extrapolate
 epistolist
+earscrew
 extrapolated
 extrapolating
 enforcible
