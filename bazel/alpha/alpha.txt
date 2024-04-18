@@ -2592,7 +2592,6 @@ anisotropal
 acoelomatous
 acoelomi
 abaisance
-acoelomous
 acoemetae
 acoemeti
 acoemetic
@@ -13716,6 +13715,7 @@ anodized
 auscultator
 aristogenesis
 anodizes
+acoelomous
 anticum
 anodizing
 anodon
