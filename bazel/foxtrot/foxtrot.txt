@@ -4909,6 +4909,7 @@ forewomen
 flamenship
 forehood
 flameout
+flatten
 flameouts
 flameproof
 formulize
@@ -5128,7 +5129,6 @@ flatness
 favi
 flats
 flatted
-flatten
 flimp
 flattening
 flattercap
