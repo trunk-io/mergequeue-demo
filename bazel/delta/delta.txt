@@ -3901,6 +3901,7 @@ doggerelize
 delundung
 damper
 dekalitre
+disherits
 dekameter
 dekameters
 debutante
@@ -12330,7 +12331,6 @@ disheriting
 disheritment
 deforms
 disheritor
-disherits
 dishes
 dwellers
 disposable
