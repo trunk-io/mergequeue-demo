@@ -12086,7 +12086,6 @@ dp
 deescalates
 divertor
 disesteemer
-disesteeming
 dorbie
 delusion
 dorsulum
@@ -12945,6 +12944,7 @@ downmost
 dispatch
 dispatched
 dispatcher
+disesteeming
 dispatchers
 dispatches
 days
