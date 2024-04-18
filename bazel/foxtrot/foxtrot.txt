@@ -6448,7 +6448,6 @@ fluorines
 forepoling
 fluorobenzene
 fluoroborate
-fluorocarbon
 fluorochrome
 fluoroform
 flaminian
@@ -7036,6 +7035,7 @@ fonduk
 fondus
 frustrations
 fluorites
+fluorocarbon
 fone
 fonly
 fonnish
