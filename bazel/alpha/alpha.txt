@@ -13841,6 +13841,7 @@ anoplotheriidae
 anoplotherioid
 anoplotherium
 arrowed
+antilevelling
 anoplura
 anopluriform
 anopsia
@@ -15424,7 +15425,6 @@ antileptic
 antilethargic
 antileukemic
 antileveling
-antilevelling
 antilia
 antiliberal
 antiliberalist
