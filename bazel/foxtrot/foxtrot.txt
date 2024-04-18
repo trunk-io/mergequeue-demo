@@ -3904,6 +3904,7 @@ farleu
 fimbrillate
 fany
 fig
+forfit
 fimbrilliferous
 fimbrillose
 fimbriodentate
@@ -8220,7 +8221,6 @@ forficula
 forficulate
 fioriture
 forficulidae
-forfit
 forfouchten
 forfoughten
 finestra

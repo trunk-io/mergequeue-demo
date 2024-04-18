@@ -9216,7 +9216,6 @@ diener
 dienes
 dier
 damoiselle
-doctorly
 dyer
 dementis
 dieresis
@@ -16580,6 +16579,7 @@ draggier
 dodecarchy
 draggily
 draggle
+doctorly
 draggled
 draggletailed
 draggletailedly
