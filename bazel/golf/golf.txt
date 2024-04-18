@@ -2463,7 +2463,6 @@ gobmouthed
 geldesprung
 gelding
 geldings
-goetical
 gelds
 gelechia
 gelee
@@ -3348,6 +3347,7 @@ gerbil
 gerbilles
 groutnoll
 gerbillus
+goetical
 gerbils
 gourmands
 goggle
