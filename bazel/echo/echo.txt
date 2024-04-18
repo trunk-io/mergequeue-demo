@@ -947,7 +947,6 @@ extropical
 eleaticism
 ectrodactylism
 ephoi
-ectrodactylous
 ectromelia
 ectromelian
 emplaces
@@ -10335,6 +10334,7 @@ ethician
 executer
 ethicians
 ethicist
+ectrodactylous
 ethicize
 eastland
 ethicoaesthetic

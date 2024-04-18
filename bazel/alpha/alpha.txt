@@ -781,7 +781,6 @@ abray
 aposporic
 abram
 abramis
-abranchial
 abranchialism
 abranchian
 abranchiata
@@ -14190,6 +14189,7 @@ antennate
 antennifer
 antenniferous
 antefixes
+abranchial
 antenniform
 acanthurus
 antennula
