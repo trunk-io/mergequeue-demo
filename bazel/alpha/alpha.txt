@@ -7788,7 +7788,6 @@ anconei
 aldolized
 aldolizing
 aldols
-aldononose
 aldopentose
 aldose
 aldoses
@@ -24353,6 +24352,7 @@ autoscopy
 autoscopic
 autosender
 autosensitization
+aldononose
 autosensitized
 autosepticemia
 amphigonous
