@@ -17516,7 +17516,6 @@ apothegmatize
 apothegms
 apothem
 apothems
-apotheose
 apotheosis
 albuminimetry
 apotheosised
@@ -21739,6 +21738,7 @@ assessorial
 assessors
 assessorship
 asset
+apotheose
 asseth
 amiss
 assever
