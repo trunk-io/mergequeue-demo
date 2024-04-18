@@ -276,7 +276,6 @@ backare
 burdensomeness
 backarrow
 backarrows
-backout
 backband
 backbar
 backbearing
@@ -545,6 +544,7 @@ backtracked
 backtracker
 backtracking
 backtracks
+backout
 backtrail
 backups
 backus
