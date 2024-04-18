@@ -6626,6 +6626,7 @@ enterocyst
 embuskin
 eschara
 excitory
+envault
 enterocystoma
 enterocleisis
 eristics
@@ -7131,7 +7132,6 @@ envaye
 esogastritis
 evoked
 envassal
-envault
 enveigle
 enveil
 ecthymata
