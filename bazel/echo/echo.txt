@@ -4763,6 +4763,7 @@ enclaving
 esophagoplegia
 enclear
 enclisis
+enrib
 enclitical
 encycl
 enclitics
@@ -6270,7 +6271,6 @@ epicyte
 elve
 enregistry
 excrementitiously
-enrib
 enrich
 ehlite
 enrichener
