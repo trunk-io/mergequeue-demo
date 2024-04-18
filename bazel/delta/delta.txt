@@ -1478,7 +1478,6 @@ dehydromucic
 deactivating
 deactivation
 deactivations
-deactivator
 deactivators
 defrosts
 deadborn
@@ -9398,6 +9397,7 @@ disubstitution
 difluoride
 dipaschal
 diformin
+deactivator
 difunctional
 disenroll
 dig
