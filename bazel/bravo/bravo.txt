@@ -4104,6 +4104,7 @@ beamless
 beamlet
 beamman
 beamroom
+braize
 beams
 beamsman
 beamwork
@@ -14382,7 +14383,6 @@ butea
 braystone
 berserk
 bowralite
-braize
 braizes
 bog
 brakeages
