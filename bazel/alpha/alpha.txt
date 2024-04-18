@@ -1674,6 +1674,7 @@ accorporate
 accorporation
 accost
 accosted
+adeodatus
 accosting
 accosts
 accouche
@@ -3767,7 +3768,6 @@ adenotomic
 adenous
 adenoviral
 adenoviruses
-adeodatus
 adeona
 adephaga
 adephagous
