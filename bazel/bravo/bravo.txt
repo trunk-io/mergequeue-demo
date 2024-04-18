@@ -1180,6 +1180,7 @@ bakalei
 bake
 burrish
 bakeapple
+bellis
 bakeboard
 baked
 bakehead
@@ -5876,7 +5877,6 @@ bellypiece
 bombastically
 bellypinch
 bellipotent
-bellis
 biliverdin
 bellmaking
 bellman
