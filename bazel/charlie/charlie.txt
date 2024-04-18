@@ -9159,7 +9159,6 @@ chartulary
 coalface
 chartularies
 chartulas
-charvet
 charwoman
 cowards
 charwomen
@@ -11054,6 +11053,7 @@ chewstick
 cowpath
 chitlins
 calamus
+charvet
 closured
 chiton
 cageling
