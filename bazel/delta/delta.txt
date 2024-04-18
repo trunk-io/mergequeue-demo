@@ -5599,7 +5599,6 @@ departmentalized
 departmentalizes
 departmentalizing
 departmentally
-departmentization
 designment
 departmentize
 departs
@@ -14442,6 +14441,7 @@ divorced
 divorcee
 divorcees
 divorcement
+departmentization
 divorcements
 dichotomal
 divorcer
