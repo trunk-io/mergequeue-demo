@@ -9574,7 +9574,6 @@ dihalo
 discommendable
 dihalogen
 dihdroxycholecalciferol
-dihedral
 dihedrals
 dihedron
 discipleship
@@ -17363,6 +17362,7 @@ drooped
 dehydrogenize
 dextrines
 drooper
+dihedral
 droopy
 droopier
 droopiest
