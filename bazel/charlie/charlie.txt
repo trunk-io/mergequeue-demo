@@ -680,7 +680,6 @@ cafila
 cafiz
 caftan
 caftans
-cafuso
 cag
 cage
 caged
@@ -9650,6 +9649,7 @@ catholiciser
 cheeros
 cheers
 cheeseboard
+cafuso
 cheesebox
 cheeseburger
 cheeseburgers
