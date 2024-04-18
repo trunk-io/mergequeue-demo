@@ -1517,7 +1517,6 @@ garrisoning
 garrisonism
 garrisons
 garrnishable
-garron
 gemeinde
 garroo
 garroted
@@ -8725,6 +8724,7 @@ greenth
 greenths
 greenware
 greenhorns
+garron
 greenweed
 greenwich
 greenwing
