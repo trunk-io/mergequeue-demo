@@ -3990,7 +3990,6 @@ emoted
 emoters
 excessman
 emoting
-emotiomotor
 emotion
 emotionable
 empyreans
@@ -9111,6 +9110,7 @@ erysimum
 erysipelas
 erysipelatoid
 erotized
+emotiomotor
 ectosome
 ecumenic
 ellinge

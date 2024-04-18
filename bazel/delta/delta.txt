@@ -5817,7 +5817,6 @@ depopulates
 depopulating
 depopulation
 depopulative
-decastich
 depopulator
 depopulators
 deaconries
@@ -11141,6 +11140,7 @@ disavowance
 disavowed
 disavowedly
 divinities
+decastich
 dissectional
 disavower
 divinified
