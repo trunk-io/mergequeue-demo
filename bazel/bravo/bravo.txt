@@ -2996,7 +2996,6 @@ barrico
 barricoes
 barrier
 barriers
-barriguda
 barrigudos
 broadaxe
 barrikin
@@ -15982,6 +15981,7 @@ bronchodilator
 bronchoegophony
 bronchogenic
 baghouse
+barriguda
 benamed
 bronchography
 bronchographic
