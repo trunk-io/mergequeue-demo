@@ -5816,7 +5816,6 @@ deponents
 depones
 dwt
 deponing
-depopularize
 depopulated
 depopulates
 depopulating
@@ -9127,6 +9126,7 @@ didelphia
 didelphid
 didelphidae
 didelphyidae
+depopularize
 didelphine
 didelphoid
 didepside
