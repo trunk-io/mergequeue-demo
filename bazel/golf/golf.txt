@@ -6532,7 +6532,6 @@ gogglebox
 goggler
 gogglers
 ganoidal
-goggles
 ghostlet
 goggly
 gavialis
@@ -7313,6 +7312,7 @@ gossamer
 gossamered
 gossamery
 gossamers
+goggles
 gossampine
 gossaniferous
 gossans
