@@ -2663,6 +2663,7 @@ decompression
 detectaphone
 decompressive
 decelerating
+downwarp
 dotardy
 deconcatenate
 deconcentrate
@@ -16390,7 +16391,6 @@ disarmament
 downwardly
 downwardness
 downwards
-downwarp
 dysthymia
 dilatometry
 downwash
