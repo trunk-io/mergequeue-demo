@@ -5212,7 +5212,6 @@ fiscals
 flatus
 flavescence
 flavescent
-flavia
 flavian
 flavic
 flavicant
@@ -5938,6 +5937,7 @@ flook
 floorages
 forgottenness
 floorboard
+flavia
 floorcloth
 fala
 forevermore
