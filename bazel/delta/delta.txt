@@ -3558,7 +3558,6 @@ defrosting
 defs
 demoniast
 defterdar
-dodecahedra
 draftiness
 dishonouring
 deftly
@@ -10087,6 +10086,7 @@ dindled
 disassimilating
 dindles
 dindling
+dodecahedra
 dindon
 drizzling
 dine
