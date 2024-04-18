@@ -666,6 +666,7 @@ geodesy
 galliot
 galliots
 gurnets
+gadfly
 gallipot
 gnaphalioid
 gallipots
@@ -3450,7 +3451,6 @@ galantine
 goodwily
 garthman
 germinal
-gadfly
 germinance
 germinant
 gonfanons
