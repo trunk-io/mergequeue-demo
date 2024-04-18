@@ -16273,6 +16273,7 @@ clinopyroxene
 convector
 clinopodium
 clinoprism
+constrainment
 clinospore
 clinostat
 clinquant
@@ -23124,7 +23125,6 @@ constrainedness
 carroll
 constraining
 constrainingly
-constrainment
 constraint
 constraints
 cawnie
