@@ -6312,7 +6312,6 @@ fluids
 fluigram
 fluigramme
 frankincensed
-fluing
 fluyts
 fluke
 fluked
@@ -9230,6 +9229,7 @@ foraminulous
 fractional
 fractionalism
 fractionalize
+fluing
 fractionalized
 fractionalizing
 fractionally
