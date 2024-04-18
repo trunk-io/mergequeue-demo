@@ -2387,7 +2387,6 @@ candidnesses
 candids
 countermands
 coasters
-candier
 candies
 candify
 candyh
@@ -19439,6 +19438,7 @@ cometical
 colouration
 colourational
 cutitis
+candier
 colourationally
 colourative
 colourer
