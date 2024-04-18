@@ -5906,7 +5906,6 @@ bellovaci
 bellowed
 bellowers
 bellows
-brite
 bellowsful
 befilch
 bellowslike
@@ -10258,6 +10257,7 @@ bladderweed
 bladderwort
 bladderwrack
 blade
+brite
 bladebone
 bladelet
 bladelike
