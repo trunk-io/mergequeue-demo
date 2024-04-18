@@ -16537,6 +16537,7 @@ cloghead
 cloglike
 clogmaker
 clogmaking
+conspirer
 clogwheel
 charoset
 clogwyn
@@ -18633,7 +18634,6 @@ cokey
 cokelike
 cleating
 cokeman
-conspirer
 clinocephalism
 coker
 cokery
