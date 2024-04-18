@@ -1230,7 +1230,6 @@ cunas
 clavicembali
 calibogus
 colunar
-calibrate
 calibrated
 canichana
 calibrater
@@ -29220,6 +29219,7 @@ chondroma
 cryptobranchiate
 cryptobranchidae
 ciphered
+calibrate
 cryptobranchus
 cryptocarya
 cabas
