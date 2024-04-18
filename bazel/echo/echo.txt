@@ -3896,7 +3896,6 @@ engendering
 emigates
 ethid
 emigr
-emigrant
 eavesdrip
 endometry
 emigrants
@@ -10985,6 +10984,7 @@ expressions
 euphon
 empair
 encamped
+emigrant
 euphonetic
 euphonetics
 euphony
