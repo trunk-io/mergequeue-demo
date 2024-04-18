@@ -8348,6 +8348,7 @@ chalk
 chalkboard
 chalkboards
 chalkcutter
+coffining
 chalked
 chalker
 chalky
@@ -18220,7 +18221,6 @@ coffers
 cofferwork
 coffin
 coffing
-coffining
 coffinless
 consoled
 coffinmaking
