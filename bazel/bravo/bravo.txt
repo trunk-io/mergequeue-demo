@@ -8722,7 +8722,6 @@ bilocation
 bilocular
 biloculate
 biloculina
-biloculine
 braches
 bilophodont
 biloquist
@@ -16973,6 +16972,7 @@ bulbomedullary
 backcloth
 brainchild
 bulbophyllum
+biloculine
 bulbospinal
 bulbourethral
 bulbous
