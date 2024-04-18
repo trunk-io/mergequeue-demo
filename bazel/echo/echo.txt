@@ -107,7 +107,6 @@ eyres
 earpiece
 earplugs
 earreach
-earring
 earringed
 earrings
 ears
@@ -13774,6 +13773,7 @@ extracarpal
 extracellular
 extorsive
 extracellularly
+earring
 endowers
 extendible
 extracerebral
