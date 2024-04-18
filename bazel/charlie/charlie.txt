@@ -6622,7 +6622,6 @@ counterquestion
 ceinte
 colligation
 ceinture
-ceintures
 ceyssatite
 clinked
 ceyx
@@ -15831,6 +15830,7 @@ clearminded
 clearness
 clears
 clearsighted
+ceintures
 coprostasia
 catnapper
 clearsightedness
