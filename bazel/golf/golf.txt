@@ -3249,7 +3249,6 @@ gnawable
 geoscopic
 geoselenic
 geosid
-geosynclinal
 geosynclines
 geosphere
 geostatic
@@ -9817,6 +9816,7 @@ guajillo
 guajira
 guajiras
 guaka
+geosynclinal
 gualaca
 guam
 guama
