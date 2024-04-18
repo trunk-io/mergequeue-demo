@@ -3360,6 +3360,7 @@ defis
 defix
 deflagrable
 desulfuriser
+decolor
 deflagrated
 deflagrates
 deflagrating
@@ -8853,7 +8854,6 @@ dicatalectic
 diccon
 dice
 dyce
-decolor
 diceboard
 dicebox
 dicecup
