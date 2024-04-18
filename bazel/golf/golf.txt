@@ -1631,7 +1631,6 @@ gasoliery
 gastropodous
 gangland
 gasoliers
-gasoline
 gasoliner
 gasolines
 gasometry
@@ -3969,6 +3968,7 @@ gigabits
 glacon
 gigacycle
 gigadoid
+gasoline
 gigahertz
 gigahertzes
 gigaherz
