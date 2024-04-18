@@ -931,7 +931,6 @@ gamecraft
 gameful
 girba
 gamey
-gamekeeper
 gyrosyn
 gaydiang
 gynandrophore
@@ -4202,6 +4201,7 @@ gimels
 gimirrai
 gymkhana
 gimlet
+gamekeeper
 glorification
 gimleted
 grift
