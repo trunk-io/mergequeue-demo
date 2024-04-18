@@ -4208,6 +4208,7 @@ ephoral
 evocators
 etherol
 empoisonment
+excellencies
 empoisons
 empolder
 encallow
@@ -11932,7 +11933,6 @@ exoculating
 exomion
 excellence
 excellency
-excellencies
 excellent
 enomoty
 excelling
