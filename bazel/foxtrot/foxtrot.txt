@@ -1311,7 +1311,6 @@ flagrante
 fishhouse
 faked
 flumed
-fastgoing
 fidgety
 farnovian
 fasthold
@@ -11507,6 +11506,7 @@ furstone
 foresightedly
 furtherance
 freelancing
+fastgoing
 furtherer
 fairleader
 froggery
