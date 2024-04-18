@@ -13252,7 +13252,6 @@ anisado
 artamus
 amygdalus
 anisal
-anisalcohol
 anisaldehyde
 anisaldoxime
 anisamide
@@ -15679,6 +15678,7 @@ antineologian
 antineoplastic
 antinephritic
 anthophyta
+anisalcohol
 antinepotic
 antineuritic
 antineutral
