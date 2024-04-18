@@ -11456,7 +11456,6 @@ choenix
 choes
 choga
 chogak
-coexclusive
 chogset
 choy
 choya
@@ -21936,6 +21935,7 @@ configurable
 configural
 coinsurable
 configurated
+coexclusive
 configurating
 configuration
 configurational
