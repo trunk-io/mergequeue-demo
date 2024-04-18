@@ -4053,7 +4053,6 @@ finishes
 finishing
 finitary
 finite
-finiteness
 finites
 fitter
 finitesimal
@@ -9580,6 +9579,7 @@ fraudulentness
 fulica
 frauen
 fideicommissumissa
+finiteness
 fraughan
 fraught
 fistulizing
