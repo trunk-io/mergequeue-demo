@@ -940,6 +940,7 @@ garpikes
 gemologies
 grooviness
 gossan
+grammaticality
 gamelang
 gamelans
 gameless
@@ -9497,7 +9498,6 @@ graven
 groupoid
 groupthink
 grivets
-grammaticality
 galbraithian
 gam
 groupwise
