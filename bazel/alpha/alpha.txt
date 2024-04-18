@@ -5107,7 +5107,6 @@ aeroscopy
 aeroscopically
 aerose
 aerosiderite
-aerosiderolite
 amphib
 aerosol
 aerosolization
@@ -19330,6 +19329,7 @@ ardours
 ardri
 ardu
 accessit
+aerosiderolite
 agitpropist
 arduinite
 arduous
