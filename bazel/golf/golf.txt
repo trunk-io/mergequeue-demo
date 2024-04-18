@@ -6261,7 +6261,6 @@ gnathostomi
 gnathotheca
 gillot
 gnatlike
-gnatproof
 glyptographic
 gnats
 gnatsnap
@@ -7402,6 +7401,7 @@ gastrotrich
 gravures
 geyser
 goujons
+gnatproof
 goulan
 gesellschaften
 goularo
