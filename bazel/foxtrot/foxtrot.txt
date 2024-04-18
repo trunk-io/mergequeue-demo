@@ -3274,7 +3274,6 @@ flotilla
 formicinae
 fictionizing
 fictionmonger
-fictitiously
 fictitiousness
 fistularioid
 fictive
@@ -8396,6 +8395,7 @@ formalizable
 foreshadowing
 formalization
 formalizations
+fictitiously
 formalize
 formerness
 formalized
