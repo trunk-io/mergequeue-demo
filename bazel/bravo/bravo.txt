@@ -1355,6 +1355,7 @@ balconet
 balconette
 bag
 balcony
+bozal
 balconied
 balconies
 bald
@@ -7823,7 +7824,6 @@ biabo
 biacetyl
 biacetyls
 biacid
-bozal
 biacromial
 breechblock
 biacuru
