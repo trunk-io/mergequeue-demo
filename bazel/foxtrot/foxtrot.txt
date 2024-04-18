@@ -6254,7 +6254,6 @@ ferroprint
 fervour
 fluer
 forfeiting
-flueric
 fluerics
 flues
 fluework
@@ -6526,6 +6525,7 @@ flustrated
 flustrating
 flustration
 flustrine
+flueric
 flustroid
 forbar
 figurally
