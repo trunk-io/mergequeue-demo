@@ -2638,7 +2638,6 @@ acontium
 aconuresis
 acool
 algesic
-acopic
 acopyrin
 acopyrine
 acopon
@@ -23386,6 +23385,7 @@ augmentable
 augmentation
 augmentations
 augmentative
+acopic
 augmentatively
 augmented
 augmentedly
