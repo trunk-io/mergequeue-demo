@@ -5490,6 +5490,7 @@ glycoproteid
 glycosaemia
 glycosidase
 gramercy
+generalisation
 glycosides
 goliard
 goiters
@@ -6919,7 +6920,6 @@ gamelote
 gonococci
 gonococcic
 glacis
-generalisation
 gaposises
 gonococcocci
 gaufrettes
