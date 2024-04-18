@@ -12197,7 +12197,6 @@ anchusin
 anchusine
 azotine
 ancien
-asphaltum
 anciency
 anciennete
 anciens
@@ -14970,6 +14969,7 @@ anticlines
 anticlinoria
 anticlinorium
 anticlockwise
+asphaltum
 anticlogging
 anticoagulan
 anticoagulant

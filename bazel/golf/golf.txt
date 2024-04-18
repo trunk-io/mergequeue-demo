@@ -1763,7 +1763,6 @@ glutaraldehyde
 gastrodermis
 gnotobiote
 gravemaking
-gastrodisk
 gastroduodenal
 gastroduodenitis
 gastroduodenoscopy
@@ -7896,6 +7895,7 @@ gaspingly
 gnomically
 grandada
 grandads
+gastrodisk
 grandames
 grandams
 grandaunt
