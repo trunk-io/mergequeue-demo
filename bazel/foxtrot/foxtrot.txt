@@ -228,7 +228,6 @@ factualism
 factualistic
 factuality
 factually
-factualness
 facture
 factures
 facula
@@ -901,6 +900,7 @@ forcive
 fanti
 frugally
 floor
+factualness
 fantigue
 fantoccini
 fantocine
