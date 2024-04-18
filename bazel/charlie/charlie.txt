@@ -2796,6 +2796,7 @@ colourableness
 cantara
 cantare
 cantaro
+counterseal
 cantata
 cantatas
 corolline
@@ -27058,7 +27059,6 @@ counterscrutiny
 cs
 cuticular
 cabbalize
-counterseal
 countersecurity
 counterselection
 countersense
