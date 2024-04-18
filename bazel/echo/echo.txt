@@ -4087,7 +4087,6 @@ emphatic
 emphatical
 endometritis
 emendately
-emphaticalness
 emphemeralness
 emphysema
 emphyteusis
@@ -11289,6 +11288,7 @@ etherin
 evaluating
 evaluations
 evaluative
+emphaticalness
 evaluator
 electrocardiography
 evalue
