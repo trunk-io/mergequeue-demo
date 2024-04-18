@@ -3844,7 +3844,6 @@ gib
 gibbals
 gibbar
 gibbartas
-gibbed
 glycogenesis
 grotesques
 gibber
@@ -4967,6 +4966,7 @@ glaciates
 grumbles
 glaciating
 glaciation
+gibbed
 glaciered
 glacieret
 glacierist
