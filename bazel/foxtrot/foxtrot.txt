@@ -6855,7 +6855,6 @@ folgerite
 folia
 fenceplay
 foliaceous
-foliaceousness
 foretold
 foliage
 fakofo
@@ -10667,6 +10666,7 @@ fructuous
 fructuously
 fructuousness
 flavaniline
+foliaceousness
 familiarities
 frug
 fibrocrystalline
