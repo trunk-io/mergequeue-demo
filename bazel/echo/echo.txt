@@ -7261,6 +7261,7 @@ enneasyllabic
 enwreathe
 enwreathing
 enwrought
+exopterygota
 environments
 enwwove
 euphonym
@@ -12757,7 +12758,6 @@ exophthalmus
 exoplasm
 exopod
 exopodite
-exopterygota
 exopterygote
 exopterygotic
 exopterygotism
