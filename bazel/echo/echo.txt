@@ -6807,7 +6807,6 @@ enticers
 enticingly
 enticingness
 entier
-enties
 evanid
 entify
 entifical
@@ -13110,6 +13109,7 @@ enregistration
 expiating
 equitant
 entailment
+enties
 expiation
 expiational
 expiations
