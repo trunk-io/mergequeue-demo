@@ -2888,7 +2888,6 @@ decurtate
 delphian
 decurvation
 decurvature
-decurve
 decus
 decuss
 decussate
@@ -17839,6 +17838,7 @@ ductules
 ductwork
 duculinae
 dud
+decurve
 dudaim
 duchesnea
 dudder
