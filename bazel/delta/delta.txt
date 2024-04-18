@@ -10935,7 +10935,6 @@ disadvance
 dejecta
 disadvancing
 disadvantaged
-disadvantagedness
 dogies
 disadvantageously
 disadvantageousness
@@ -18592,6 +18591,7 @@ dissentient
 dorsalmost
 dittologies
 dustsheet
+disadvantagedness
 denudational
 dynamitist
 dusttight
