@@ -13427,7 +13427,6 @@ cyclothurine
 cyclothurus
 crossarm
 cyclotome
-cyclotomy
 cyclotomic
 cyclotomies
 cyclotosaurus
@@ -17340,6 +17339,7 @@ coauthority
 coauthors
 coauthorship
 coawareness
+cyclotomy
 coax
 coaxal
 coaxation
