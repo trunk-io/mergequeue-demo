@@ -11719,7 +11719,6 @@ anthidium
 analeptical
 analgen
 analgesia
-analgesic
 analgesics
 analgesidae
 analgesis
@@ -22772,6 +22771,7 @@ atomistical
 atomists
 atomity
 abrocoma
+analgesic
 atomization
 atomize
 atomized
