@@ -12844,6 +12844,7 @@ churchmanship
 churchmaster
 churchmen
 churchreeve
+contramure
 churchscot
 churchshot
 churchway
@@ -23685,7 +23686,6 @@ contralti
 contralto
 contraltos
 contramarque
-contramure
 contrantiscion
 contraoctave
 contraorbital
