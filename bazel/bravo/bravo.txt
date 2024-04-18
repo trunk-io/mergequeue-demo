@@ -1,3 +1,4 @@
+bookcase
 bordereaux
 baccalaureat
 backsheesh
@@ -12613,7 +12614,6 @@ baianism
 bookbinders
 bookbinding
 bookboard
-bookcase
 bookcases
 bookcraft
 bookdealer
