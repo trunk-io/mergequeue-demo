@@ -1636,6 +1636,7 @@ calpacs
 calpolli
 calpul
 calpulli
+counterfallacy
 calque
 calqued
 chambrel
@@ -18929,7 +18930,6 @@ collectibles
 collecting
 collection
 collectional
-counterfallacy
 collectioner
 collective
 collectively
