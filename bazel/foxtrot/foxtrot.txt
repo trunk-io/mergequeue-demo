@@ -2505,7 +2505,6 @@ fermentescible
 forbiddingness
 ferther
 fielding
-fermenting
 fermentitious
 fermentive
 falk
@@ -9872,6 +9871,7 @@ freq
 furca
 frequence
 frequency
+fermenting
 frequencies
 fuzee
 frequent
