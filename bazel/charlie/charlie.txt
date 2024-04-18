@@ -9516,7 +9516,6 @@ checklaton
 checkle
 checkless
 checklist
-checklists
 checkman
 congruencies
 clipeus
@@ -14205,6 +14204,7 @@ chromophotolithograph
 circularizers
 circularizes
 circularizing
+checklists
 circularly
 circularness
 circulars
