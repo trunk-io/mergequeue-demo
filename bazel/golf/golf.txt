@@ -2865,7 +2865,6 @@ genoms
 genonema
 genos
 genotype
-germanically
 genotypic
 genotypical
 gunfire
@@ -5778,6 +5777,7 @@ glomus
 glonoin
 georgie
 glonoine
+germanically
 galen
 gloomed
 gorce
