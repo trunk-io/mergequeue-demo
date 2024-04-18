@@ -6039,7 +6039,6 @@ enlistees
 enlister
 epistrophe
 enlistment
-engraphia
 enlistments
 enlists
 enlive
@@ -7342,6 +7341,7 @@ eosphorite
 eastwardly
 eozoon
 eozoonal
+engraphia
 epa
 epacmaic
 eliciting
