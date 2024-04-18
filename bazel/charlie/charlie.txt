@@ -2127,7 +2127,6 @@ capotes
 campshed
 campshedding
 campsheeting
-campshot
 campsite
 compasser
 campsites
@@ -3183,6 +3182,7 @@ capitulate
 curs
 capitulated
 capitulates
+campshot
 capitulator
 capituliform
 capitulum
