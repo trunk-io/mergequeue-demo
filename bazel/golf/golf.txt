@@ -622,7 +622,6 @@ graptolitic
 greyhound
 gallicism
 gallicisms
-gallicization
 glottises
 gallicize
 gallicizer
@@ -1202,6 +1201,7 @@ gannets
 guillotining
 ganoblast
 gesith
+gallicization
 gnotobiotics
 glycosemia
 ganodont
