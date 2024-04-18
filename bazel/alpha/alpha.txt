@@ -8151,7 +8151,6 @@ algorithmic
 algorithmically
 algors
 algosis
-algous
 algovite
 algraphy
 alguacil
@@ -9574,6 +9573,7 @@ alumian
 apometabolous
 alumic
 alumiferous
+algous
 alumin
 alumina
 aphroditous
