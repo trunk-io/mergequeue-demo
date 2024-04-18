@@ -2567,6 +2567,7 @@ decoct
 decoctible
 decocting
 decoction
+denizening
 disarrest
 decoctive
 decocts
@@ -5238,7 +5239,6 @@ denizate
 denization
 denizen
 denizenation
-denizening
 denizens
 diquats
 denizenship
