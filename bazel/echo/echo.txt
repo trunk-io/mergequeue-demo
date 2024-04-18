@@ -7267,7 +7267,6 @@ enwrought
 environments
 enwwove
 euphonym
-enwwoven
 enzym
 ensample
 enzymatic
@@ -8562,6 +8561,7 @@ editorials
 electropneumatically
 equaling
 embody
+enwwoven
 equalisation
 equines
 equalise
