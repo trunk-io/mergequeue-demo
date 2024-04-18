@@ -5255,7 +5255,6 @@ denominative
 dicty
 diosmose
 denominatively
-denominator
 denominators
 denormalized
 denotable
@@ -11482,6 +11481,7 @@ discoloured
 discolouring
 discolourization
 discombobulate
+denominator
 dummerer
 discombobulated
 dismark
