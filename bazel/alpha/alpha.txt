@@ -9169,7 +9169,6 @@ almsman
 actinobacilli
 almsmen
 almswoman
-almswomen
 almuce
 almuces
 almud
@@ -12926,6 +12925,7 @@ angolan
 angolar
 angolese
 adjoin
+almswomen
 assertoric
 angora
 angoras

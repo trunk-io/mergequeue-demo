@@ -6392,7 +6392,6 @@ ensiform
 ensign
 ensigncy
 electroplaque
-ensigncies
 ensigned
 entranceway
 ensignhood
@@ -10945,6 +10944,7 @@ euphausia
 euphausid
 externals
 euphausiid
+ensigncies
 endostomata
 erraticness
 electrodiagnoses
