@@ -235,7 +235,6 @@ ascebc
 abbreviations
 abbreviator
 abbreviators
-abbreviature
 abbroachment
 abc
 abcissa
@@ -1873,6 +1872,7 @@ acediamin
 acediamine
 acedias
 acanthological
+abbreviature
 aceite
 aceituna
 autopathy
