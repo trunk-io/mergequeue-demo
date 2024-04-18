@@ -697,7 +697,6 @@ deafen
 dampening
 dampens
 dampers
-dampish
 dampishly
 dampishness
 dampne
@@ -7495,6 +7494,7 @@ deuteroscopy
 deuterosy
 deuterostoma
 deuterostome
+dampish
 deuterotype
 deuterotoky
 deuterotokous
