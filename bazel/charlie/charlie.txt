@@ -9932,7 +9932,6 @@ chemotaxonomically
 cannular
 comma
 carices
-chemotherapeutic
 chemotherapeutical
 chemotherapeutically
 chemotherapeutics
@@ -17041,6 +17040,7 @@ californium
 coadapting
 coadequate
 coadjacence
+chemotherapeutic
 coadjacency
 coadjacent
 coadjacently
