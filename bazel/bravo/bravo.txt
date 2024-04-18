@@ -3770,7 +3770,6 @@ borehole
 battlefront
 battlefronts
 battleful
-butterburr
 battlegrounds
 battlement
 battlements
@@ -14445,6 +14444,7 @@ branchiform
 bicentennials
 branchihyal
 branchiness
+butterburr
 blackcurrant
 branchiogenous
 branchiomere
