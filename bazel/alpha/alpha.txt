@@ -16922,7 +16922,6 @@ aphorizing
 aphoruridae
 aphotaxis
 amphrysian
-aphotic
 aphototactic
 ancienter
 aphototaxis
@@ -18811,6 +18810,7 @@ archdeacons
 archdeaconship
 archdean
 archdeanery
+aphotic
 archdeceiver
 archdefender
 archdepredator
