@@ -2107,7 +2107,6 @@ banksides
 banksman
 barebone
 banksmen
-bankweed
 bibliophage
 banlieu
 botel
@@ -9024,6 +9023,7 @@ biographers
 biography
 biographic
 bepreach
+bankweed
 biographies
 bracingness
 bookkeeping
