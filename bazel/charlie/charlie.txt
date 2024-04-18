@@ -11587,6 +11587,7 @@ cholelithotrity
 cholemia
 cholent
 cholents
+crankbird
 choleokinase
 cholepoietic
 cooks
@@ -28099,7 +28100,6 @@ craniotopography
 craniovertebral
 cranium
 craniums
-crankbird
 crankcases
 crankdisk
 cranked

@@ -1700,7 +1700,6 @@ discantus
 dysenteric
 deathless
 deathlessness
-deathlike
 deathlikeness
 deathliness
 deathrate
@@ -5150,6 +5149,7 @@ depopulate
 dendrology
 dendrologist
 discerp
+deathlike
 dendrologists
 dendrologous
 dendromecon
