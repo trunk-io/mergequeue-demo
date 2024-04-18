@@ -941,6 +941,7 @@ gossan
 grammaticality
 gamelang
 gamelans
+geod
 gameless
 gentian
 gamely
@@ -4112,7 +4113,6 @@ gilds
 gildship
 gildsman
 gildsmen
-geod
 gastrosplenic
 gilenyie
 gilet
