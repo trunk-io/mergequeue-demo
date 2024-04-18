@@ -7358,6 +7358,7 @@ cephalomancy
 commisce
 cephalomant
 cephalomeningitis
+cultivatable
 cephalomere
 cyclostylar
 cephalometer
@@ -30833,7 +30834,6 @@ cultivably
 cultivar
 cultivars
 cultivatability
-cultivatable
 cultivate
 cultivated
 cultivates
