@@ -15581,7 +15581,6 @@ classicalize
 classically
 classicalness
 classicise
-classicised
 classicism
 classicist
 classicistic
@@ -19909,6 +19908,7 @@ commandant
 commandatory
 commanded
 commandedness
+classicised
 commandeer
 centenarians
 corbeling
