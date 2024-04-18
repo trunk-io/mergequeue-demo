@@ -8916,7 +8916,6 @@ bioastronautics
 bioavailability
 biobibliographer
 biobibliography
-biobibliographic
 biobibliographical
 biobibliographies
 behowl
@@ -10453,6 +10452,7 @@ blastogranitic
 berbamine
 blastoid
 bodywood
+biobibliographic
 blastoma
 blastomas
 blastomata
