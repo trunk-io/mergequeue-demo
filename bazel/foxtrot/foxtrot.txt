@@ -1461,7 +1461,6 @@ fatalize
 fatsos
 frederick
 fatstock
-fatstocks
 fatted
 fatten
 fattenable
@@ -3946,6 +3945,7 @@ frounces
 finement
 fineness
 finer
+fatstocks
 finery
 fines
 flouting
