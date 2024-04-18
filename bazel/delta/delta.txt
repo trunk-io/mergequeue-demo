@@ -6522,7 +6522,6 @@ devocalise
 dorn
 decors
 descloizite
-dearworth
 descort
 descry
 dialypetalae
@@ -16514,6 +16513,7 @@ dracontites
 diapason
 dracontium
 drad
+dearworth
 diallagoid
 dradge
 dumpfile
