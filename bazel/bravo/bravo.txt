@@ -4601,6 +4601,7 @@ becurst
 becurtained
 becushioned
 bed
+bool
 bedabble
 bedabbled
 bedabbles
@@ -12737,7 +12738,6 @@ bookwards
 bookworm
 bookworms
 bookwright
-bool
 boolean
 booleans
 booley
