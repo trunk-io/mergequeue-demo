@@ -9173,7 +9173,6 @@ erythrocytoblast
 erythrocytolysin
 erythrocytolysis
 engl
-erythrocytolytic
 eelier
 erythrocytometer
 erythrocytometry
@@ -12553,6 +12552,7 @@ exigently
 exiguity
 epigenetic
 exiguously
+erythrocytolytic
 exiguousness
 exilable
 exilarchate

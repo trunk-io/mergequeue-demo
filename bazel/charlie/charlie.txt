@@ -5703,7 +5703,6 @@ catechizer
 catechizes
 catechizing
 catechol
-catecholamine
 catecholamines
 catechu
 catechumenal
@@ -7940,6 +7939,7 @@ cesural
 cetaceans
 cetaceous
 cetaceum
+catecholamine
 cetane
 cetanes
 cete
