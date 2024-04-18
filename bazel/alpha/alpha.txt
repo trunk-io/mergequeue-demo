@@ -14111,6 +14111,7 @@ antechoirs
 antechurch
 anteclassical
 antecloset
+axostyle
 antecolic
 antecommunion
 antecornu
@@ -25202,7 +25203,6 @@ axopodia
 axopodium
 axospermous
 acoupe
-axostyle
 aalii
 axotomous
 algetic
