@@ -11811,7 +11811,6 @@ ecoid
 extg
 examinership
 examines
-examining
 examiningly
 examplar
 example
@@ -12601,6 +12600,7 @@ existing
 existlessness
 exists
 epistemological
+examining
 exit
 exite
 exited
