@@ -5271,7 +5271,6 @@ flimflam
 fld
 fldxt
 flea
-flimmer
 fleabag
 fusible
 fleabags
@@ -8513,6 +8512,7 @@ formula
 formulae
 formulaically
 foggy
+flimmer
 formularies
 formularisation
 formularise
