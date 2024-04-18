@@ -1835,6 +1835,7 @@ gastronome
 groovy
 gastronomical
 gastronomically
+genotypes
 gastronomics
 guardfish
 gastronosus
@@ -10834,7 +10835,6 @@ guzzledom
 guzzles
 gonocoel
 gillied
-genotypes
 globins
 guzzling
 gv
