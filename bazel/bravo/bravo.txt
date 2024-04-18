@@ -7330,7 +7330,6 @@ besugar
 besully
 beswarm
 beswarmed
-beswarms
 besweatered
 beswelter
 becrimes
@@ -12162,6 +12161,7 @@ brissotin
 blamable
 buffy
 bollock
+beswarms
 bolloxes
 bolloxing
 bolls
