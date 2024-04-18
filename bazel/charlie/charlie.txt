@@ -6767,6 +6767,7 @@ cellarets
 caffeine
 cellarette
 cellaring
+citrinous
 cellarmen
 cartograph
 cellars
@@ -7561,7 +7562,6 @@ cerealism
 cerealist
 cerealose
 cocceian
-citrinous
 cereals
 cerebbella
 cerebella
