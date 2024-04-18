@@ -4524,7 +4524,6 @@ becolor
 becombed
 builders
 bestuur
-become
 becomed
 becomes
 becometh
@@ -11942,6 +11941,7 @@ breathing
 bohor
 bohora
 bohorok
+become
 beltis
 bohunk
 bohunks
