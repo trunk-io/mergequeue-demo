@@ -5059,7 +5059,6 @@ flashingly
 flashings
 flashlamp
 flashlight
-flashlike
 futilitarian
 forellenstein
 frothi
@@ -5651,6 +5650,7 @@ flintier
 flyblown
 formularizer
 flintily
+flashlike
 flintless
 flintlike
 flintlock
