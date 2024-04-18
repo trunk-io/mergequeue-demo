@@ -6474,7 +6474,6 @@ dobbers
 desamidase
 desamidization
 desaminase
-desanding
 desands
 desc
 descale
@@ -11304,6 +11303,7 @@ discernable
 denigrators
 discerned
 discerner
+desanding
 dumpler
 discernibly
 delegalize

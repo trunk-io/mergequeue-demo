@@ -4320,6 +4320,7 @@ enact
 enactable
 enacted
 enacting
+ers
 enactment
 enactments
 euorthoptera
@@ -9388,7 +9389,6 @@ errorless
 errors
 errsyn
 ensuing
-ers
 ersar
 ersatz
 evasible
