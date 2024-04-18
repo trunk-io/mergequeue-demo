@@ -3094,7 +3094,6 @@ geol
 geolatry
 geologer
 gastrotrichan
-geologers
 geologian
 geologic
 geological
@@ -5799,6 +5798,7 @@ gloomily
 glooming
 gimpy
 gloomings
+geologers
 gloomless
 guanins
 glochidium
