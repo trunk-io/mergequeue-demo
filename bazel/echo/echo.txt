@@ -4168,7 +4168,6 @@ emplane
 emplaned
 emplanement
 emplanes
-emplaning
 emplaster
 emplastic
 emplastration
@@ -7393,6 +7392,7 @@ epigrammatism
 epanody
 emanationism
 epanodos
+emplaning
 epanorthidae
 epanorthoses
 epanorthotic
