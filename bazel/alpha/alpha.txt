@@ -13327,7 +13327,6 @@ archangels
 anisoleucocytosis
 agglutinability
 anisomeles
-anisomelia
 accentuator
 anisomelus
 anisomeric
@@ -16052,6 +16051,7 @@ antirabies
 altumal
 antiracemate
 antirachitic
+anisomelia
 antirachitically
 archdemon
 antiracially
