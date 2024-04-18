@@ -3212,7 +3212,6 @@ basic
 browner
 basically
 basicerite
-basichromatic
 basichromatin
 buffi
 basichromatinic
@@ -9455,6 +9454,7 @@ birdseye
 birdseyes
 birdsnest
 birdstone
+basichromatic
 browpiece
 bungs
 birdwise
