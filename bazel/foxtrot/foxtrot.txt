@@ -5192,7 +5192,6 @@ flappier
 flaunty
 flatlet
 flauntier
-fatting
 flauntily
 flaunting
 flauntingly
@@ -6927,6 +6926,7 @@ freedom
 folkmoot
 flatmate
 flotas
+fatting
 foreignization
 folkmoots
 fauchard
