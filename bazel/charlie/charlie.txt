@@ -4504,7 +4504,6 @@ carnivorousness
 carnose
 colorationally
 carnosine
-carnosity
 carnosities
 carnous
 carns
@@ -17862,6 +17861,7 @@ coined
 coelacanth
 cyclophrenia
 coelacanthidae
+carnosity
 chorionepithelioma
 coelacanthine
 coelacanthini
