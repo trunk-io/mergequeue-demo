@@ -3359,7 +3359,6 @@ goniac
 geryonia
 geodist
 geryonid
-geryoniidae
 gerip
 greenhew
 gerkin
@@ -8315,6 +8314,7 @@ generalship
 grasswidow
 gymnast
 gymnarchus
+geryoniidae
 grippes
 grata
 graminicolous
