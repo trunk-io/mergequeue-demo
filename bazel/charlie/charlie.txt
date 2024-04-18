@@ -4710,7 +4710,6 @@ carpopoditic
 carpoptosia
 carpoptosis
 carport
-carports
 carpos
 carposperm
 chibouk
@@ -10544,6 +10543,7 @@ chilla
 chillagite
 chilled
 conter
+carports
 chiller
 chillers
 chillest
