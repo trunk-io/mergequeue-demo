@@ -1366,6 +1366,7 @@ fatalities
 fatally
 fatalness
 flap
+former
 fatbacks
 fatbird
 fatbirds
@@ -8438,7 +8439,6 @@ fieldpiece
 floridans
 flunkeyite
 formentation
-former
 formeret
 formerly
 formularizing
