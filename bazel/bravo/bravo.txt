@@ -11071,7 +11071,6 @@ bloman
 blomstrandine
 blond
 blonde
-blondeness
 benzazine
 blondes
 blondish
@@ -11710,6 +11709,7 @@ bobtail
 bobtailed
 bobtailing
 bobwhite
+blondeness
 bellhanging
 bobwhites
 bobwood
