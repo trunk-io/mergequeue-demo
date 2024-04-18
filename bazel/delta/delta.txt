@@ -5840,7 +5840,6 @@ desmotropism
 decoupled
 deposable
 deposal
-deposals
 defats
 deposer
 deposers
@@ -14719,6 +14718,7 @@ doctrinal
 doctrinalism
 disownable
 doctrinalist
+deposals
 doctrinality
 doctrinally
 doctrinary
