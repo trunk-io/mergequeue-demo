@@ -13938,7 +13938,6 @@ braccio
 brace
 bracelet
 braceleted
-basophile
 bracer
 bracery
 bracero
@@ -18275,6 +18274,7 @@ buttermaking
 butterman
 buttermilk
 bannerol
+basophile
 buttermonger
 buttermouth
 butternose
