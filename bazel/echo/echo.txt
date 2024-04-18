@@ -4027,7 +4027,6 @@ empaneled
 empaneling
 empanelled
 empanelling
-empanelment
 empanels
 expressibly
 electroplated
@@ -6685,6 +6684,7 @@ enteroparesis
 enteropathy
 enculturative
 enteropexia
+empanelment
 extraduction
 enteroplasty
 enteroplegia
