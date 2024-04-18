@@ -3137,7 +3137,6 @@ basements
 bloodshot
 basename
 biophysicist
-barb
 bankera
 behove
 baseness
@@ -9234,6 +9233,7 @@ biotins
 biotypes
 biotypic
 biotypology
+barb
 biotite
 biotites
 biotome
