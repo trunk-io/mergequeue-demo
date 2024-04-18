@@ -12436,7 +12436,6 @@ clavatin
 chromizes
 chromizing
 chromobacterieae
-chromobacterium
 chromoblast
 chromocentral
 chromocyte
@@ -17258,6 +17257,7 @@ coarticulate
 coarticulation
 coascend
 coassert
+chromobacterium
 coasserter
 coassessor
 caravelle
