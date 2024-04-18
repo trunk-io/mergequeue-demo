@@ -9847,7 +9847,6 @@ drabbest
 dace
 dimensionally
 dimensioning
-dimensionless
 dimensum
 decked
 dimer
@@ -12838,6 +12837,7 @@ demisable
 debussyanize
 dorsocaudal
 dysodontiasis
+dimensionless
 dendroica
 disomaty
 disomatic
