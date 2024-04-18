@@ -8994,7 +8994,6 @@ chariotry
 chariots
 chariotway
 charism
-coked
 charisma
 charismas
 charismata
@@ -26574,6 +26573,7 @@ councilman
 councilmanic
 councilmen
 councilor
+coked
 councilors
 chester
 conessine
