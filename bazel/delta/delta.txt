@@ -17135,7 +17135,6 @@ disapprobation
 driftlet
 driftpins
 drifts
-driftwind
 drygoodsman
 drying
 ducture
@@ -18270,6 +18269,7 @@ dunno
 dunnock
 dextorsal
 dunpickle
+driftwind
 duns
 dunst
 dunstable
