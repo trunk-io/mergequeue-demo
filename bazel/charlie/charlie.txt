@@ -14416,7 +14416,6 @@ circumstantialities
 circumstantially
 circumstantialness
 circumstantiate
-circumstantiates
 circumstantiating
 circumstantiation
 circumstantiations
@@ -20984,6 +20983,7 @@ computationally
 computations
 computatively
 computativeness
+circumstantiates
 compute
 computed
 computer
