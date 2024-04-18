@@ -3646,7 +3646,6 @@ filers
 fighter
 fungivorous
 files
-frailly
 filesmith
 filesniff
 filespec
@@ -11289,6 +11288,7 @@ funmaker
 faultfinding
 funmaking
 funnel
+frailly
 funneled
 funneling
 flattie
