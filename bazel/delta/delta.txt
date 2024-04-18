@@ -8144,7 +8144,6 @@ diacipiperazine
 diaclase
 diaclastic
 diaclinal
-diacoca
 diacodion
 diacodium
 diacoele
@@ -13823,6 +13822,7 @@ distilled
 durwan
 distiller
 distillery
+diacoca
 distilleries
 distillers
 dachs
