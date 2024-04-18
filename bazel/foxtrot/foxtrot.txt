@@ -4094,6 +4094,7 @@ finless
 finlet
 finlike
 finmark
+frondescing
 finmarks
 finnac
 finnan
@@ -10400,7 +10401,6 @@ frondescent
 foofaraw
 funiliform
 fingerleaf
-frondescing
 flackery
 fred
 frillies
