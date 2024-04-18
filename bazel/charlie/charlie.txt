@@ -14519,7 +14519,6 @@ cirrostratus
 cappagh
 cirrous
 counterpuncher
-cirrus
 cirsectomy
 cirsectomies
 cirsium
@@ -16679,6 +16678,7 @@ clotheshorse
 clotheshorses
 clothesyard
 clothesless
+cirrus
 clothesline
 clotheslines
 clothesman
