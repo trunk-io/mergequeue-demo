@@ -3255,6 +3255,7 @@ geostrategy
 geostrategist
 geostrophic
 geostrophically
+graylags
 geotactically
 geotaxes
 geotaxy
@@ -10542,7 +10543,6 @@ gunneraceae
 gunneries
 glaciological
 gunners
-graylags
 gunnership
 gunny
 gunning
