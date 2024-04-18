@@ -11563,7 +11563,6 @@ disconformities
 discongruity
 disconjure
 disconnect
-disconnected
 dandified
 disconnectedly
 disconnectedness
@@ -13276,6 +13275,7 @@ disfen
 disputant
 disputants
 disputation
+disconnected
 deflators
 disputations
 disputatious
