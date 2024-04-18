@@ -3465,7 +3465,6 @@ fifteens
 fifteenthly
 fifteenths
 fifthly
-flukeless
 fabricate
 fifty
 fantastic
@@ -4176,6 +4175,7 @@ fans
 fining
 firebrand
 fucaceae
+flukeless
 frogmouth
 firebrick
 firebug
