@@ -2682,6 +2682,7 @@ generalist
 generalistic
 generalists
 generaliter
+gobangs
 generalities
 generalizations
 generalize
@@ -7715,7 +7716,6 @@ graftproof
 gravestones
 grafts
 graham
-gobangs
 grahamism
 grorudite
 gormed
