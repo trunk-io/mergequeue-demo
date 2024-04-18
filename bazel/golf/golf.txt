@@ -4618,7 +4618,6 @@ glycin
 gypsine
 gipsiologist
 gypsiologist
-gypsyry
 gypsite
 gipsyweed
 gypsyweed
@@ -7659,6 +7658,7 @@ gradings
 gradino
 greenier
 gradiometer
+gypsyry
 general
 granters
 gradiometric
