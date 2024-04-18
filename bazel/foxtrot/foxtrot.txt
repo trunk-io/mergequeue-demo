@@ -4415,6 +4415,7 @@ fishlines
 fishling
 fishman
 fishmonger
+fraternizer
 ferociousness
 fishmouth
 fishnet
@@ -9536,7 +9537,6 @@ fraternize
 firstfruits
 fraternized
 fulyie
-fraternizer
 fraternizing
 favourers
 fraticelli
