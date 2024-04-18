@@ -3260,7 +3260,6 @@ capparidaceous
 capparis
 capped
 cappelenite
-cappella
 cappelletti
 capper
 cappers
@@ -15373,6 +15372,7 @@ clangored
 clangorous
 clangorously
 clangors
+cappella
 crosscut
 clangour
 clangoured
