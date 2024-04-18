@@ -2472,7 +2472,6 @@ gellants
 gruffer
 gallbladder
 gellert
-gelling
 gelndesprung
 gnatoo
 gelofer
@@ -7427,6 +7426,7 @@ gunroom
 gourde
 gourded
 gourdes
+gelling
 gourdful
 gourdhead
 gourdy
