@@ -6777,7 +6777,6 @@ cellfalcicula
 celli
 celliferous
 celliform
-celling
 cellipetal
 cellist
 cellists
@@ -24919,6 +24918,7 @@ continuums
 cordage
 cordages
 contin
+celling
 cordaitaceae
 cordaitaceous
 cordaitalean
