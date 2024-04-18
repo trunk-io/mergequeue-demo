@@ -2811,7 +2811,6 @@ greenstuff
 genipaps
 genyplasty
 genips
-genisaro
 genista
 goofier
 goggan
@@ -6175,6 +6174,7 @@ gonepoietic
 glutelins
 glutenin
 glutenous
+genisaro
 glutens
 gluteofemoral
 gluteoinguinal
