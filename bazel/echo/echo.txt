@@ -5402,7 +5402,6 @@ extranidal
 endplates
 endpoints
 endrin
-endromididae
 endrudge
 eltime
 endseal
@@ -7659,6 +7658,7 @@ ecbolics
 elephas
 epicolic
 epicondyle
+endromididae
 epicondylian
 eundem
 engraulidae
