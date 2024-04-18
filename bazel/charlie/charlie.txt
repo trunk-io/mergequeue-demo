@@ -8345,7 +8345,6 @@ complexity
 corallet
 chalinidae
 chalinitis
-chalk
 chalkboard
 chalkboards
 chalkcutter
@@ -10680,6 +10679,7 @@ chimney
 cantharidated
 chimneyed
 chimneyhead
+chalk
 chimneying
 chimneyless
 chimneylike
