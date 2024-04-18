@@ -16693,6 +16693,7 @@ clothmaker
 catharpin
 cloths
 clothworker
+crimpling
 clots
 clottage
 clotted
@@ -29011,7 +29012,6 @@ crimpiness
 crimping
 crimple
 crimpled
-crimpling
 crimpness
 crimps
 crimson
