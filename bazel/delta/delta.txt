@@ -6070,7 +6070,6 @@ disminister
 dungeonlike
 deputizes
 deputizing
-dequantitate
 dequeue
 dequeues
 dequeuing
@@ -13580,6 +13579,7 @@ dissyllable
 dissimilarity
 dissimilarities
 dissimilars
+dequantitate
 dissimilate
 dissimilated
 dissimilating
