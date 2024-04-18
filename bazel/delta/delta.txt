@@ -2897,7 +2897,6 @@ destinist
 decus
 decuss
 decussate
-decussated
 decussation
 decussatively
 decussis
@@ -9674,6 +9673,7 @@ dilatedness
 disappears
 dilatement
 dilater
+decussated
 dilaters
 dilates
 dilatingly

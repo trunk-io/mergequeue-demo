@@ -9621,6 +9621,7 @@ alumna
 alumnae
 alumni
 accustomize
+attackable
 alumniate
 alumnol
 alumohydrocalcite
@@ -9745,7 +9746,6 @@ amalg
 amalgam
 amalgamable
 amalgamate
-attackable
 amalgamates
 amalgamating
 antimonarchical
