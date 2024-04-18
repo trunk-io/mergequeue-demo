@@ -2120,7 +2120,6 @@ felicity
 felicities
 felicitous
 felid
-felidae
 felids
 felinae
 feline
@@ -9622,6 +9621,7 @@ fora
 forsworn
 fiador
 freakout
+felidae
 freeman
 felicify
 fluoroscopically
