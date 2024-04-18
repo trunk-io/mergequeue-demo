@@ -4411,6 +4411,7 @@ fishlet
 frenghi
 fosterage
 furlough
+feuter
 fishline
 fishlines
 fishling
@@ -7093,7 +7094,6 @@ farmers
 foolfish
 foolhardy
 foolhardily
-feuter
 footful
 flapjack
 foolhardiness
