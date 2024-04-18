@@ -3381,7 +3381,6 @@ basophilia
 bushel
 basophilic
 basophilous
-basophils
 basos
 basqued
 basques
@@ -10406,6 +10405,7 @@ blarneyer
 bedeafens
 blarneying
 blarneys
+basophils
 blarny
 bicolligate
 blarnid
