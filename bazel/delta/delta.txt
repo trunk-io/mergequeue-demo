@@ -3133,7 +3133,6 @@ defalcates
 defalcating
 discharge
 defalcation
-defalcations
 defalk
 defamation
 defamations
@@ -10250,6 +10249,7 @@ dioecy
 dioecia
 dioecian
 dioeciodimorphous
+defalcations
 dioeciopolygamous
 duodenal
 dishonorableness
