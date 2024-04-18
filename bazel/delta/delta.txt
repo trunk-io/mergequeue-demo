@@ -3119,7 +3119,6 @@ digressiveness
 defade
 defaillance
 defailment
-defaitisme
 defaitiste
 defalcate
 defalcated
@@ -18005,6 +18004,7 @@ dulcification
 dulcified
 dulcifying
 dulcifluous
+defaitisme
 delegatee
 dulcigenic
 deemed
