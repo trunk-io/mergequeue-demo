@@ -12296,7 +12296,6 @@ anders
 anderson
 anderun
 andesic
-andesine
 andesites
 andesytes
 andesitic
@@ -21850,6 +21849,7 @@ associable
 associableness
 associated
 associatedness
+andesine
 associateship
 association
 apocinchonine
