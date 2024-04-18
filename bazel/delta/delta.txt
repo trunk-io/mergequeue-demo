@@ -5866,7 +5866,6 @@ discouragement
 deposing
 deposit
 diamondwork
-depositary
 distome
 depositaries
 depositation
@@ -17145,6 +17144,7 @@ driftwind
 drygoodsman
 drying
 ducture
+depositary
 dryinid
 diffusibility
 dryish
