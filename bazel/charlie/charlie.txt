@@ -2901,7 +2901,6 @@ cellocut
 cheapo
 cantoning
 cantonize
-cantonment
 cantonments
 cantons
 countergager
@@ -31345,6 +31344,7 @@ curio
 curiolofic
 curiology
 curiologic
+cantonment
 chromometer
 curiological
 curiologically
