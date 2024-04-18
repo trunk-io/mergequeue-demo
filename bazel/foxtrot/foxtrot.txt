@@ -3844,6 +3844,7 @@ filopodia
 filopodium
 filosa
 filose
+furnitureless
 filosofe
 filosus
 fils
@@ -11058,7 +11059,6 @@ fumy
 flickerproof
 fumid
 fibroangioma
-furnitureless
 fumidity
 fumiest
 foreboot
