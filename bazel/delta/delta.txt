@@ -1994,6 +1994,7 @@ diarial
 decaying
 decayless
 dextrans
+dummy
 decays
 defaced
 decal
@@ -4314,7 +4315,6 @@ displacer
 danseuses
 deltiology
 dialyzing
-dummy
 deltohedron
 deltoidei
 deltoideus
