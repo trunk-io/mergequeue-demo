@@ -4280,7 +4280,6 @@ gambas
 gymnolaemata
 gunster
 gymnolaematous
-germinability
 glimed
 gymnonoti
 getatable
@@ -10500,6 +10499,7 @@ gung
 gunge
 gregge
 guniter
+germinability
 gunj
 gunstock
 gunja
