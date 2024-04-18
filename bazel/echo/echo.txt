@@ -1093,7 +1093,6 @@ edgrow
 enormous
 edh
 edhs
-edibile
 equipper
 edibility
 edible
@@ -7383,6 +7382,7 @@ epilemmal
 epappose
 erinaceus
 erythrolysin
+edibile
 eriophyes
 eparch
 eparchean

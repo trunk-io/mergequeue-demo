@@ -2270,7 +2270,6 @@ decenniad
 decennial
 decennials
 decennium
-decenniums
 decennoval
 deflux
 dialdehyde
@@ -3558,6 +3557,7 @@ deftly
 deftness
 deftnesses
 defunct
+decenniums
 defunction
 dollface
 defunctionalization
