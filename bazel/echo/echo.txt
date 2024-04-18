@@ -6744,7 +6744,6 @@ entertainingly
 entertainingness
 epitenon
 entertainment
-entertainments
 epicenters
 entertains
 entertake
@@ -9429,6 +9428,7 @@ eructed
 erring
 eruction
 eructs
+entertainments
 erudit
 equated
 eruditely
