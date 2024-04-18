@@ -658,7 +658,6 @@ fringefoot
 fam
 famacide
 famble
-fisheries
 fame
 frill
 famed
@@ -11031,6 +11030,7 @@ fumbling
 flemings
 forlornest
 froward
+fisheries
 fumblingly
 fumblingness
 fumbulator

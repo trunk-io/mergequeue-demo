@@ -1787,7 +1787,6 @@ gastroepiploic
 guebre
 gangliglia
 gastroesophageal
-gastrogastrotomy
 glucuronide
 gastrogenital
 gastrograph
@@ -4695,6 +4694,7 @@ gyrometer
 gyred
 girella
 girellidae
+gastrogastrotomy
 gapperi
 grapewort
 grout
