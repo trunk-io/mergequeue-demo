@@ -5288,7 +5288,6 @@ acreages
 affectionately
 affectionateness
 affectioned
-affectionless
 affections
 affectious
 affective
@@ -17214,6 +17213,7 @@ apofenchene
 apoferritin
 apogaeic
 atropa
+affectionless
 apogaic
 ailuropus
 apogalacteum
