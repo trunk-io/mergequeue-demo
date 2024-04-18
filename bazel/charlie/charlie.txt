@@ -16200,7 +16200,6 @@ clinch
 clinched
 capitalism
 collodiochloride
-clincher
 clinchers
 clinches
 charmingly
@@ -29804,6 +29803,7 @@ conflates
 crossbeam
 crossbeams
 crossbelt
+clincher
 crossbench
 crossbencher
 crossbill
