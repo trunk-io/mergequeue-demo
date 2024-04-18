@@ -5646,7 +5646,6 @@ enfrenzy
 entrancements
 enfroward
 extranatural
-elites
 enfume
 endangers
 enfurrow
@@ -13402,6 +13401,7 @@ expugn
 expugnable
 expulsatory
 ethopoetic
+elites
 ensalada
 ekphoria
 expulse
