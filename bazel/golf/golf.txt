@@ -1609,7 +1609,6 @@ glengarry
 gasless
 gallivanter
 gaslighted
-galipot
 grandpa
 glyoxim
 gaslightness
@@ -9267,6 +9266,7 @@ groggeries
 groggy
 groggier
 gatling
+galipot
 grogginess
 grogging
 gunfighters
