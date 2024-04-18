@@ -3307,7 +3307,6 @@ fiddles
 foreknowable
 fiddlestick
 fiddlesticks
-fiddlewood
 felonries
 ferrel
 floricultural
@@ -7078,6 +7077,7 @@ foodstuffs
 flacked
 foofaraws
 fooyoung
+fiddlewood
 fooyung
 fraternization
 fool
