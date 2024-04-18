@@ -2148,7 +2148,6 @@ aglossate
 apologizers
 acetoxime
 acetoxyphthalide
-acetphenetidin
 acetract
 acettoluide
 acetum
@@ -7934,6 +7933,7 @@ ales
 alesan
 aleshot
 alestake
+acetphenetidin
 aletap
 aletaster
 anaphasic
