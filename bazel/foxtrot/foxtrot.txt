@@ -3644,6 +3644,7 @@ filename
 filenames
 filer
 fanons
+fourniture
 filers
 fighter
 fungivorous
@@ -5455,7 +5456,6 @@ fleshy
 fleshier
 finch
 fleshiness
-fourniture
 fleshing
 fleshings
 formatters
