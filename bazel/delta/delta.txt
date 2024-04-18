@@ -331,6 +331,7 @@ disincrustant
 dayakker
 dayal
 dayanim
+directories
 diau
 daybeacon
 dipylon
@@ -8354,7 +8355,6 @@ dialister
 dehorts
 dialists
 dialytic
-directories
 drumloid
 dialyzability
 dialyzate
