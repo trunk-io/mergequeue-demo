@@ -3610,7 +3610,6 @@ futurable
 filched
 francophobe
 fineries
-flagmaking
 filcher
 filching
 filchingly
@@ -5575,6 +5574,7 @@ flyflower
 frouncing
 flamant
 feoffment
+flagmaking
 fligged
 flight
 flighted
