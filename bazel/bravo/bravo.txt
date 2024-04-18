@@ -12256,7 +12256,6 @@ bombable
 bombacaceae
 bombace
 bombay
-bombarde
 byrls
 bombarded
 bushfighter
@@ -12912,6 +12911,7 @@ boracite
 boracium
 boracous
 borage
+bombarde
 boraginaceae
 boraginaceous
 borago
