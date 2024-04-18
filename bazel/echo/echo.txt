@@ -2939,7 +2939,6 @@ elided
 enameler
 elides
 elidible
-elydoric
 eligenda
 eligibility
 eligibilities
@@ -8241,6 +8240,7 @@ epispore
 equivalently
 episporium
 epist
+elydoric
 epistases
 epistasy
 epistasies
