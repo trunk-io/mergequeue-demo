@@ -4790,7 +4790,6 @@ gravitates
 geologise
 gowkit
 gumfield
-gyromancy
 gyromele
 germanous
 gyromitra
@@ -10457,6 +10456,7 @@ gumshield
 gastroxynsis
 gosling
 goxes
+gyromancy
 guestwise
 gumshoeing
 gumtrees
