@@ -3560,6 +3560,7 @@ addleheadedness
 addlement
 addleness
 addlepate
+adjudge
 addlepated
 addlepatedness
 addleplot
@@ -4003,7 +4004,6 @@ adjournment
 adjourns
 adjoust
 adjt
-adjudge
 adjudgeable
 adjudger
 adjudges
