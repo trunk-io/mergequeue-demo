@@ -2204,6 +2204,7 @@ flancard
 fels
 felsites
 felsobanyite
+fligger
 foretypified
 felspars
 friendlily
@@ -5572,7 +5573,6 @@ frouncing
 flamant
 feoffment
 fligged
-fligger
 flight
 flighted
 flighter
