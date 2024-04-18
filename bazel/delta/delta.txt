@@ -6485,7 +6485,6 @@ descendability
 descendable
 descendants
 dilemmatically
-descendence
 descendent
 diglot
 descendental
@@ -17676,6 +17675,7 @@ democratizes
 dtd
 dtente
 du
+descendence
 duad
 duadic
 duads
