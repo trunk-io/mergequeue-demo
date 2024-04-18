@@ -12797,7 +12797,6 @@ chunking
 chunks
 chunner
 chuntered
-chuntering
 chunters
 chupak
 chupatti
@@ -26914,6 +26913,7 @@ countermutiny
 counternaiant
 counternarrative
 chromeplated
+chuntering
 counternecromancy
 counternotice
 counterobjection

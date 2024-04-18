@@ -8301,7 +8301,6 @@ epistolographist
 erratums
 epistoma
 epistomal
-epistome
 epistropheal
 endolaryngeal
 epistropheus
@@ -9314,6 +9313,7 @@ erotylid
 erotylidae
 erotisms
 erotization
+epistome
 erotize
 erotizing
 erotogenesis
