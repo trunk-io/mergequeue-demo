@@ -12080,7 +12080,6 @@ excludable
 extemporaneous
 ebullitions
 excludes
-endpoint
 excludingly
 exampleship
 exclusion
@@ -12244,6 +12243,7 @@ excuseless
 excuser
 excusers
 excusing
+endpoint
 earpieces
 ephah
 emboldened
