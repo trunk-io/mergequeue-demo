@@ -18101,7 +18101,6 @@ coercibly
 coercion
 coercionary
 cryptostomate
-coercions
 coercitive
 coercive
 coercively
@@ -21061,6 +21060,7 @@ conationalistic
 conations
 conative
 conatural
+coercions
 conatus
 conaxial
 conbinas
