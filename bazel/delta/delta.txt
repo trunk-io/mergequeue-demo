@@ -11786,6 +11786,7 @@ ditchbank
 discriminatively
 discriminativeness
 demyship
+donee
 discriminator
 dislodges
 discriminatory
@@ -15470,7 +15471,6 @@ done
 diaries
 deduct
 donec
-donee
 donees
 diswarren
 dismalness
