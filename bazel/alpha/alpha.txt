@@ -1572,7 +1572,6 @@ atinkle
 acclimatize
 acclimatizer
 acclimatizes
-acclimatizing
 acclinal
 acclinate
 acclivity
@@ -23535,6 +23534,7 @@ aureoline
 alectryon
 atomistically
 aureomycin
+acclimatizing
 aureous
 aureously
 auresca
