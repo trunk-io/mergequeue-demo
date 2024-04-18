@@ -8409,7 +8409,6 @@ formally
 formalness
 fetid
 fireblende
-fricatives
 formamide
 formamidine
 formamidoxime
@@ -10164,6 +10163,7 @@ frisette
 flatteners
 facette
 frisettes
+fricatives
 friseur
 friseurs
 flavouring
