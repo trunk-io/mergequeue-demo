@@ -3695,7 +3695,6 @@ carbohydride
 carbohydrogen
 carboy
 chontawood
-carboyed
 carboys
 carbolate
 carbolated
@@ -30819,6 +30818,7 @@ cultigens
 cultirostres
 cultish
 cretonnes
+carboyed
 cultism
 canchi
 crassulaceous
