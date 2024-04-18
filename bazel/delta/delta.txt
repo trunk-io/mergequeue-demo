@@ -10783,7 +10783,6 @@ disloign
 diquat
 dir
 diradiation
-dirca
 dircaean
 dirdum
 dirdums
@@ -18441,6 +18440,7 @@ dur
 dubitative
 durabilities
 demideify
+dirca
 durables
 durably
 dreidl
