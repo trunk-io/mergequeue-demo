@@ -2134,7 +2134,6 @@ bannerer
 banneret
 bannerfish
 beduke
-bannerless
 bannerlike
 bannerline
 bannerman
@@ -3488,6 +3487,7 @@ beworms
 baston
 bastonet
 bastonite
+bannerless
 basts
 basural
 basuto
