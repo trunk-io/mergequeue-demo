@@ -5071,6 +5071,7 @@ canvaser
 chaprassi
 caseinogen
 caseins
+cellated
 caseless
 caselessly
 caseload
@@ -19292,7 +19293,6 @@ colonnade
 colonnaded
 colonnette
 colonopexy
-cellated
 concaver
 colonoscopy
 colons
