@@ -6860,7 +6860,6 @@ bersagliere
 bersaglieri
 berseem
 berseems
-berserk
 berserker
 blackbirds
 berserks
@@ -14388,6 +14387,7 @@ bulges
 braising
 butea
 braystone
+berserk
 bowralite
 braize
 braizes
