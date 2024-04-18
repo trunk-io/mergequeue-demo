@@ -4824,7 +4824,6 @@ carrow
 compiles
 carrozza
 carrs
-carrus
 cars
 carse
 carses
@@ -7546,6 +7545,7 @@ cercus
 cerdonian
 cere
 cereal
+carrus
 cerealian
 cerealin
 cerealism
