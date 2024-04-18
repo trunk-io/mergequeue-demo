@@ -3389,7 +3389,6 @@ defleas
 deflect
 driftfishes
 deflectable
-deflected
 deflecting
 deflectionization
 deflectionize
@@ -13992,6 +13991,7 @@ districts
 distringas
 distritbute
 distritbuted
+deflected
 distritbutes
 distritbuting
 dingy
