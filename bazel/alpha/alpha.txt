@@ -11805,7 +11805,6 @@ awink
 administrate
 anam
 anama
-anamesite
 anametadromous
 anamirtin
 amperage
@@ -24132,6 +24131,7 @@ adjudicature
 autokrator
 autolaryngoscope
 autolaryngoscopy
+anamesite
 autolaryngoscopic
 autolater
 autolatry
