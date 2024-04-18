@@ -11307,7 +11307,6 @@ chloroguanide
 chlorohydrocarbon
 chlorohydroquinone
 chloroid
-chloroleucite
 chloroma
 copelidine
 chloromata
@@ -17640,6 +17639,7 @@ cockpit
 cockpits
 couched
 cockroach
+chloroleucite
 comaking
 confraternity
 cockroaches
