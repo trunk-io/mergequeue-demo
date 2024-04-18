@@ -4550,7 +4550,6 @@ encephaloid
 enforcing
 eromania
 encephalolith
-encephalomalacia
 encephalomalacosis
 encephalomalaxis
 encephalomas
@@ -5462,6 +5461,7 @@ energetical
 euonymuses
 energetically
 energeticalness
+encephalomalacia
 energeticist
 ensuance
 emenders
