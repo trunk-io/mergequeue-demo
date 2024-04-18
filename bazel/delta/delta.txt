@@ -4629,6 +4629,7 @@ demiman
 demimark
 demimentoniere
 demimetope
+detax
 demimillionaire
 demimondain
 dupes
@@ -7173,7 +7174,6 @@ detainment
 detar
 detassel
 detat
-detax
 detd
 detect
 detectability
