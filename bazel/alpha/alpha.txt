@@ -2715,7 +2715,6 @@ acquiesence
 acquiet
 acquirability
 acquirable
-antares
 acquire
 acquired
 acquirement
@@ -9932,6 +9931,7 @@ actuaries
 amberjack
 amberjacks
 attachers
+antares
 amberlike
 antisepticise
 amberoid
