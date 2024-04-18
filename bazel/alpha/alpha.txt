@@ -1548,7 +1548,6 @@ acclaimer
 afterwrist
 acclaimers
 acclaiming
-acclamations
 acclamator
 acclamatory
 acclimatable
@@ -12805,6 +12804,7 @@ angiorrhexis
 angiosarcoma
 angiosclerotic
 angioscope
+acclamations
 arlington
 angiosymphysis
 angiosis
