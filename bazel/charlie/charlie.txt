@@ -7338,6 +7338,7 @@ cephalodia
 cephalodymia
 cephalodymus
 cephalodiscid
+cryophoric
 cephalodiscida
 cephalodiscus
 cephalodium
@@ -29133,7 +29134,6 @@ cryophyllite
 cryophyte
 criophore
 chlordiazepoxide
-cryophoric
 criophoros
 cryoplankton
 cryoprobe
