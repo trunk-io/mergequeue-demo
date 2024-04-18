@@ -6267,7 +6267,6 @@ dermatome
 daubing
 dermatomere
 desugar
-dermatomic
 dermatomyces
 divorceuse
 dermatomycosis
@@ -14040,6 +14039,7 @@ disencrease
 disunify
 disunifying
 diastatically
+dermatomic
 disuniformity
 disunion
 drumbledore
