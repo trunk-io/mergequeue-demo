@@ -2138,6 +2138,7 @@ bannerols
 bannerwise
 bannet
 bannisters
+birthmarks
 bannition
 bannock
 bowlines
@@ -9544,7 +9545,6 @@ birthless
 besaint
 birthmark
 bunkum
-birthmarks
 birthmate
 birthnight
 birthplaces
