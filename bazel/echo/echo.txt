@@ -5495,7 +5495,6 @@ energiser
 energises
 energising
 energism
-energist
 energize
 exploiters
 enharmonically
@@ -6472,6 +6471,7 @@ evaporator
 educement
 ensoul
 ensouled
+energist
 eanlings
 equivocality
 ecru
