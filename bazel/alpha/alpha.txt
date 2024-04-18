@@ -5426,7 +5426,6 @@ afford
 affordable
 affording
 akaroa
-affords
 afforest
 afforestable
 afforestation
@@ -23307,6 +23306,7 @@ audiology
 audiological
 audiologies
 aliquid
+affords
 audiometer
 amathophobia
 audiometers

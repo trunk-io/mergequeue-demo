@@ -2419,7 +2419,6 @@ electroencephalogram
 electroencephalograms
 electroencephalograph
 exciting
-electroencephalography
 electroencephalographical
 electroencephalographs
 episcope
@@ -12969,6 +12968,7 @@ expectorates
 expectoration
 expectorations
 expectorative
+electroencephalography
 expectorators
 extill
 expeded
