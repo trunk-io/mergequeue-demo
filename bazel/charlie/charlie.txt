@@ -6872,7 +6872,6 @@ clocklike
 celtuce
 captaining
 cembali
-cembalist
 cembalo
 cembalon
 cembalos
@@ -20420,6 +20419,7 @@ companiable
 companias
 connie
 companied
+cembalist
 companying
 coapprover
 counterstatute
