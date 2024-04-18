@@ -5425,7 +5425,6 @@ dentonasal
 dielytra
 dentosurgical
 disrate
-dents
 dissipatedness
 diasene
 dentulous
@@ -7124,6 +7123,7 @@ desulphurised
 desulphurising
 drawboring
 deerkill
+dents
 desulphurize
 disgusts
 desulphurizer
