@@ -4511,6 +4511,7 @@ fluocerite
 fistical
 fisticuff
 fruitist
+fort
 fisticuffer
 fouldre
 fisticuffery
@@ -8659,7 +8660,6 @@ foreanswer
 forswearing
 fields
 forswears
-fort
 fortake
 fertilizations
 fenceful
