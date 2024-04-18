@@ -8717,7 +8717,6 @@ equipluve
 equipment
 equipoise
 equipoised
-equipollence
 equipollency
 evasively
 euphemizing
@@ -13453,6 +13452,7 @@ exsanguine
 exsanguineous
 enorthotrope
 exsanguinous
+equipollence
 expose
 exsanguious
 electrocauterization
