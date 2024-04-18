@@ -3135,7 +3135,6 @@ elopements
 ejaculum
 enamelwork
 elopes
-elopidae
 elops
 explait
 eloquent
@@ -5484,6 +5483,7 @@ energise
 epitendineum
 epirot
 energiser
+elopidae
 energises
 energising
 energism
