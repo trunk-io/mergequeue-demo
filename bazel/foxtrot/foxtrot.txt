@@ -4374,7 +4374,6 @@ fishbone
 falchions
 fishbowls
 fisheater
-fisheye
 fisheyes
 fisher
 forecomingness
@@ -4528,6 +4527,7 @@ fumishness
 fossilify
 fists
 falcidian
+fisheye
 fistuca
 foxchop
 frayed
