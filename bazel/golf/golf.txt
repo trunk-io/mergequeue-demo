@@ -2653,7 +2653,6 @@ generalisable
 gwen
 gringolee
 generalise
-generalised
 generaliser
 groomsman
 generalising
@@ -7321,6 +7320,7 @@ gossamers
 gossampine
 gossaniferous
 gossans
+generalised
 gossard
 gossep
 geomechanics
