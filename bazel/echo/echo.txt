@@ -4600,6 +4600,7 @@ euthycomic
 enchanter
 excitement
 exhalent
+enlightened
 enchantery
 enchanters
 enchanting
@@ -6014,7 +6015,6 @@ enlief
 encounters
 enlight
 enlighten
-enlightened
 enlightenedly
 enlightenedness
 enlightener
