@@ -14797,7 +14797,6 @@ dodecade
 dresden
 dodecadrachm
 dodecafid
-dodecagon
 dodecahedral
 delivery
 dodecahedric
@@ -18372,6 +18371,7 @@ dupable
 despairingly
 dupatta
 disarrayed
+dodecagon
 dupe
 dupedom
 dunces
