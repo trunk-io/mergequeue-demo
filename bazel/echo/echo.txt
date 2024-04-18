@@ -6526,7 +6526,6 @@ entad
 endpleasure
 entada
 entail
-entailable
 entailed
 entailer
 entailments
@@ -12166,6 +12165,7 @@ excrescency
 excrescencies
 entophytically
 excrescent
+entailable
 excrescential
 existless
 excresence
