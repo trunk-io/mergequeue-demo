@@ -7409,7 +7409,6 @@ cephalorhachidian
 cephaloridine
 cephalosome
 cephalospinal
-cephalosporin
 cephalosporium
 cephalostyle
 cephalotaceae
@@ -18044,6 +18043,7 @@ consensus
 coenenchym
 casualness
 coenenchyma
+cephalosporin
 coenenchymal
 coenenchymatous
 capouch
