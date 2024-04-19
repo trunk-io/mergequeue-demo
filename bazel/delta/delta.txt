@@ -6342,6 +6342,7 @@ dryopteris
 downs
 dermoblast
 diaplasis
+distributable
 dermobranchiata
 dermobranchiate
 dermochelys
@@ -13938,7 +13939,6 @@ distressing
 deglamorization
 distressingly
 distrest
-distributable
 distributary
 distributaries
 distribute
