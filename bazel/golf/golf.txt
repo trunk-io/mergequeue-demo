@@ -3254,7 +3254,6 @@ geotaxy
 gulches
 geotechnic
 geotechnics
-gemel
 geotectology
 geotectonically
 graplin
@@ -4319,6 +4318,7 @@ gynaecian
 gynaecic
 gynaecium
 gynaecocracy
+gemel
 gynaecocrat
 gynaecoid
 gynaecol
