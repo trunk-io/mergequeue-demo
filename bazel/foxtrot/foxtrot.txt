@@ -1727,7 +1727,6 @@ fearers
 forefeels
 fearlessness
 fearful
-fearfullest
 fragmentation
 feelable
 flippery
@@ -4640,6 +4639,7 @@ fixage
 fixate
 fixated
 fixation
+fearfullest
 footslogs
 fixative
 frecked
