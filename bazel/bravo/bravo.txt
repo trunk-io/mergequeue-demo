@@ -13867,6 +13867,7 @@ brokenhearted
 bowstave
 bowstring
 bowstringed
+bismuths
 bowstrings
 bowstrung
 bowtel
@@ -15675,7 +15676,6 @@ broccoli
 bangkoks
 broccolis
 broch
-bismuths
 brochant
 brochantite
 bananaquit
