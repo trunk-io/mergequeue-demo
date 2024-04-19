@@ -10042,6 +10042,7 @@ dampnesses
 dynamometer
 dynamometers
 dagoes
+disseverance
 derm
 dynamometrical
 dirls
@@ -13561,7 +13562,6 @@ disserving
 dissettle
 dissettlement
 dissever
-disseverance
 disseveration
 dissevered
 dissevering
