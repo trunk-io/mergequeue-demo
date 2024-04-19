@@ -11746,7 +11746,6 @@ discreetest
 dermography
 discreetly
 discreetness
-discrepancy
 discrepancies
 discrepancries
 discrepant
@@ -17552,6 +17551,7 @@ druggets
 diplacanthidae
 druggy
 depurates
+discrepancy
 druggist
 druggister
 drugless
