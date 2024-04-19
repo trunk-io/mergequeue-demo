@@ -4534,7 +4534,6 @@ fistinut
 fistlike
 followeth
 fama
-filterable
 fistmele
 fistnotes
 fibre
@@ -5388,6 +5387,7 @@ fastness
 fleeciest
 floorwalkers
 fitchery
+filterable
 fling
 fleecing
 fleeing
