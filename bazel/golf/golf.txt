@@ -5803,6 +5803,7 @@ guilders
 genipapada
 gloss
 glossa
+gorged
 glossolabiolaryngeal
 glossal
 gudebrother
@@ -7145,7 +7146,6 @@ gresil
 gorer
 gores
 gorfly
-gorged
 groundplot
 gorgeous
 grommet
