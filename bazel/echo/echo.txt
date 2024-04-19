@@ -11137,7 +11137,6 @@ eurite
 euryte
 elasticum
 echafaudage
-emulsification
 eurytherm
 eurythermal
 eurithermophile
@@ -12918,6 +12917,7 @@ egoistic
 expansions
 effluvias
 expansive
+emulsification
 electropuncturing
 expansively
 expansiveness
