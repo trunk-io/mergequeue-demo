@@ -1284,6 +1284,7 @@ generalizable
 gruis
 gothic
 gapeseed
+geniculated
 gapeworm
 gapeworms
 gorgonized
@@ -2775,7 +2776,6 @@ genic
 genically
 goldurn
 geniculate
-geniculated
 geniculately
 grunzie
 geniculation
