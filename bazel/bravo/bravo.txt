@@ -2996,7 +2996,6 @@ boulevard
 barrister
 botts
 barristerial
-barristers
 barristress
 barroom
 barrowman
@@ -4183,6 +4182,7 @@ bankrupts
 bodysurfs
 beggars
 bro
+barristers
 bearded
 beardedness
 beardfishes
