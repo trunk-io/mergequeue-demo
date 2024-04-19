@@ -2141,7 +2141,6 @@ elatcha
 elate
 elated
 engrafting
-elatedness
 elater
 elatery
 elaterids
@@ -3595,6 +3594,7 @@ embowelment
 embowels
 embowered
 embowering
+elatedness
 endoscopy
 embowerment
 embowers
