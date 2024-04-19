@@ -448,6 +448,7 @@ cryptocrystalline
 cadaster
 cadasters
 cadastral
+consultory
 churnstaff
 cadastration
 cadastre
@@ -23254,7 +23255,6 @@ consultive
 consultively
 consulto
 consultor
-consultory
 consults
 consumable
 comagistracy
