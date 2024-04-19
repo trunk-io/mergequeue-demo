@@ -2387,7 +2387,6 @@ gelates
 grandchildren
 gelatia
 glossography
-gelatification
 gynaecologist
 gelatin
 gelatinate
@@ -7836,6 +7835,7 @@ glossotherium
 gonopodia
 gastroenterostomy
 guardstone
+gelatification
 gramme
 groggiest
 grammel
