@@ -568,7 +568,6 @@ echinodorus
 echinoid
 excommunicatory
 echinoidea
-echinoids
 encrimson
 echinomys
 erythrene
@@ -9928,6 +9927,7 @@ essonites
 essorant
 elfin
 est
+echinoids
 estab
 euphrates
 epithi
