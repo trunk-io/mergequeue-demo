@@ -1026,7 +1026,6 @@ calchaquian
 calchas
 calche
 calcic
-calciclase
 calcicole
 crabapple
 calcicolous
@@ -10695,6 +10694,7 @@ chymistry
 chymists
 chimla
 chimleys
+calciclase
 chimmesyan
 chimney
 cantharidated
