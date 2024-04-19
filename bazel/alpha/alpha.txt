@@ -5595,7 +5595,6 @@ aftercast
 aftercataract
 afterchance
 afterchurch
-afterclap
 alaster
 afterclause
 aftercome
@@ -20449,6 +20448,7 @@ arsphenamine
 art
 artabe
 artar
+afterclap
 arrojadite
 artarin
 artarine
