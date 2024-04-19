@@ -5043,6 +5043,7 @@ flashbulbs
 flinches
 flashcube
 flashcubes
+flavines
 fidicinal
 flashed
 fireable
@@ -9439,7 +9440,6 @@ frangulic
 franion
 frankability
 frankalmoign
-flavines
 frankeniaceous
 filibustrous
 fingerboards
