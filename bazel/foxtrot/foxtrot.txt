@@ -5542,6 +5542,7 @@ flyblows
 flyboat
 flyboats
 freshmanic
+flaxlike
 flybrush
 felsophyre
 flatulences
@@ -10142,7 +10143,6 @@ fringilla
 fringillaceous
 favors
 fringilline
-flaxlike
 factitive
 fringilloid
 firman
