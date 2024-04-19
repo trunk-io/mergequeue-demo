@@ -6385,7 +6385,6 @@ benting
 bentlet
 benton
 bentonite
-bentonitic
 bents
 bentstar
 bentwoods
@@ -16231,6 +16230,7 @@ browsability
 brassate
 brachiofaciolingual
 browsed
+bentonitic
 browser
 browses
 beggarer
