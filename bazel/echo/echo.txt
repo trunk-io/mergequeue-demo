@@ -3107,6 +3107,7 @@ elongations
 engem
 epiplastral
 elohist
+endamageable
 elope
 eichbergite
 eloped
@@ -4858,7 +4859,6 @@ encushion
 end
 endable
 endamage
-endamageable
 endamagement
 endamages
 esquire
