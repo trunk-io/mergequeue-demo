@@ -3769,6 +3769,7 @@ adenostoma
 adenotyphoid
 adenotyphus
 antislickens
+alimenting
 adenotome
 adenotomic
 adenous
@@ -8347,7 +8348,6 @@ avoir
 alimented
 alimenter
 alimentic
-alimenting
 alimentive
 alimentiveness
 alimentotherapy

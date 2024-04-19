@@ -114,7 +114,6 @@ dactylopterus
 dactylorhiza
 dactyloscopy
 dactyloscopic
-dactylose
 dreadfulness
 dactylosymphysis
 detentive
@@ -13480,6 +13479,7 @@ dissemble
 dissembler
 diagraphic
 driftman
+dactylose
 dissemblers
 dissembles
 dissemblies
