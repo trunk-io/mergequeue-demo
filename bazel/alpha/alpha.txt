@@ -3496,6 +3496,7 @@ adcon
 assafetida
 afforded
 adcons
+autopticity
 admires
 adcraft
 add
@@ -24300,7 +24301,6 @@ autopsies
 ambrose
 autoptic
 autoptically
-autopticity
 autoput
 alpinists
 autor
