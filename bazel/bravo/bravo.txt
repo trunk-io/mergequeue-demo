@@ -1863,7 +1863,6 @@ bandboxy
 barricos
 bandboxical
 bandcutter
-bande
 bandeau
 bandeaux
 betula
@@ -10882,6 +10881,7 @@ bevue
 blindedly
 beeyard
 blindeyes
+bande
 blinder
 blinders
 blindest
