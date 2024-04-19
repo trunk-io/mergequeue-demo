@@ -6084,7 +6084,6 @@ enmove
 enmuffle
 enneacontahedron
 ennead
-enhaloing
 enneadic
 enneads
 enneaeteric
@@ -11534,6 +11533,7 @@ eluctation
 everlasting
 everlastingly
 everlastingness
+enhaloing
 everly
 everliving
 evernia
