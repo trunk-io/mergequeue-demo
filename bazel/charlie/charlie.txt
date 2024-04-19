@@ -11600,6 +11600,7 @@ choledochotomies
 choledography
 cholee
 cholehematin
+cryptonym
 choleine
 choleinic
 colorization
@@ -13690,7 +13691,6 @@ cimicidae
 cimicide
 cimiciform
 cimicifuga
-cryptonym
 cimicifugin
 cimicoid
 cimier
