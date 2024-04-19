@@ -10208,7 +10208,6 @@ dinomys
 dinophyceae
 dinophilea
 dinophilus
-diptote
 dinornis
 discontinuance
 dinornithic
@@ -15752,6 +15751,7 @@ dors
 doomage
 dorsa
 diallela
+diptote
 dorsabdominal
 dorsabdominally
 dipsacus
