@@ -6265,7 +6265,6 @@ gnome
 gnomed
 gnomes
 gnomesque
-gnomic
 gnomical
 gnomide
 gastroid
@@ -9925,6 +9924,7 @@ guardful
 guardfully
 guardhouses
 gruesomest
+gnomic
 guardiancy
 gasconism
 gynephobia
