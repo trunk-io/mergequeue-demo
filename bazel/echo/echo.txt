@@ -3318,6 +3318,7 @@ envelopes
 embalmer
 embalmers
 embanked
+eradicators
 elver
 embanking
 embankments
@@ -8847,7 +8848,6 @@ eradication
 eradications
 embeddable
 eradicatory
-eradicators
 eral
 elev
 eranist
