@@ -4528,7 +4528,6 @@ becluster
 becollier
 bailment
 becolme
-becolor
 becombed
 builders
 bestuur
@@ -8514,6 +8513,7 @@ biland
 bigly
 byland
 bilander
+becolor
 bilanders
 bilateral
 bilateralism
