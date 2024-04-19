@@ -168,6 +168,7 @@ equipoising
 euglenida
 earthquaken
 earthquakes
+existence
 evitation
 encephalomata
 earthquave
@@ -12592,7 +12593,6 @@ euphemy
 endsweep
 exist
 existed
-existence
 existent
 existentialism
 existentialist
