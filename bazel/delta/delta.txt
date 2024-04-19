@@ -3500,7 +3500,6 @@ defrayer
 defrayers
 defraying
 defraudation
-defrauded
 defrauder
 defrauding
 defrauds
@@ -5657,6 +5656,7 @@ depersonalized
 depersonalizes
 denudated
 dacelo
+defrauded
 depersonalizing
 downgrading
 desaturation
