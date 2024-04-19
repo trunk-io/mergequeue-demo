@@ -10427,6 +10427,7 @@ chiffonnier
 chiffonnieres
 chiffonniers
 chiffons
+continuable
 chifforobe
 chifforobes
 chiffre
@@ -28715,7 +28716,6 @@ crepitating
 crumblings
 crepitous
 crepitus
-continuable
 creply
 cupeler
 crepon
