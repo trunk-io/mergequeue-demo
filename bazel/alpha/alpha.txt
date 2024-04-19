@@ -4913,7 +4913,6 @@ aeroballistic
 aeroballistics
 agapemonite
 aerobate
-aerobated
 aerobatic
 aerobatics
 aerobating
@@ -9388,6 +9387,7 @@ alpujarra
 alqueire
 alquier
 aversions
+aerobated
 alraun
 already
 alreadiness
