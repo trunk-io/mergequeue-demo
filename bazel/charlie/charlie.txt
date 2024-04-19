@@ -17298,7 +17298,6 @@ coarticulate
 coarticulation
 coascend
 coassert
-chromobacterium
 coasserter
 coassessor
 caravelle
@@ -22857,6 +22856,7 @@ conservatoires
 conservator
 conservatory
 conservatorial
+chromobacterium
 conservatorium
 conservators
 conservatorship
