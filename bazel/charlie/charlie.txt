@@ -3980,7 +3980,6 @@ cardholder
 cardia
 cardiac
 cardiacal
-cardiacea
 cardiacean
 cardiacle
 cardiacs
@@ -8105,6 +8104,7 @@ chaetophobia
 chaetophora
 chaetophoraceae
 chaetophoraceous
+cardiacea
 chaetophorous
 chaetopod
 caffein
