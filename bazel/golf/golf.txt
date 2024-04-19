@@ -2241,6 +2241,7 @@ gearset
 glucose
 geraldine
 gearshift
+gashest
 gestation
 gearshifts
 gearwheels
@@ -3385,7 +3386,6 @@ germanistic
 germanium
 glosseme
 gonadectomy
-gashest
 germanization
 germanize
 germanized
