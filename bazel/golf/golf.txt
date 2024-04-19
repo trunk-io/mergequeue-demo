@@ -6445,7 +6445,6 @@ gyromagnetic
 geographic
 goblins
 gobo
-gobonated
 gobonee
 gobony
 gobs
@@ -8734,6 +8733,7 @@ gregarian
 gregarina
 gregarinae
 grovels
+gobonated
 get
 gregarinida
 grammatophyllum
