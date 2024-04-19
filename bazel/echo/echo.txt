@@ -8622,7 +8622,6 @@ equidimensional
 escapades
 equidist
 equidistance
-ectal
 embranglement
 equidistantly
 equidistribution
@@ -11284,6 +11283,7 @@ evade
 evaded
 electroergometer
 extratubal
+ectal
 evades
 electra
 embezzle

@@ -8886,7 +8886,6 @@ averager
 allometry
 autolavage
 allomorph
-allomorphic
 aerobiologic
 allomorphism
 allomorphite
@@ -13238,6 +13237,7 @@ animo
 anymore
 animose
 animoseness
+allomorphic
 animosity
 assignations
 animosities
