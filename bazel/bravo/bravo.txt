@@ -6557,7 +6557,6 @@ bepale
 bepaper
 beparch
 beparse
-benefactrix
 bepart
 bepaste
 bletted
@@ -11569,6 +11568,7 @@ boardwalks
 boarfish
 boarfishes
 boarhound
+benefactrix
 boarish
 bursar
 boarishness
