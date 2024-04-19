@@ -6514,7 +6514,6 @@ agriotypidae
 agriotypus
 agrypnia
 agrypniai
-agrypnias
 agrypnotic
 agrising
 agroan
@@ -23588,6 +23587,7 @@ auriferous
 appreciational
 aurifex
 aurify
+agrypnias
 aurific
 aceology
 aurifying
