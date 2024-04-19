@@ -10217,6 +10217,7 @@ biofeedback
 blackshirt
 blackshirted
 blacksmith
+borates
 blacksmithing
 beastdom
 blacksmiths
@@ -12927,7 +12928,6 @@ bemeet
 borasque
 borassus
 borated
-borates
 borax
 boraxes
 borazon

@@ -6633,6 +6633,7 @@ goldonian
 goldsinny
 goldsmithry
 glider
+gospellike
 goldsmiths
 goldspink
 gnathopod
@@ -7266,7 +7267,6 @@ gospelist
 gospelize
 gospeller
 gospelly
-gospellike
 garancine
 gyrostatically
 guze
