@@ -10209,7 +10209,6 @@ eternization
 eternize
 eternized
 eternizes
-etesian
 etesians
 ethal
 ethambutol
@@ -10511,6 +10510,7 @@ evacuating
 ethnozoology
 ethography
 etholide
+etesian
 ethology
 ethologic
 ethological
