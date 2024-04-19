@@ -1108,7 +1108,6 @@ farnesol
 farnesols
 fogas
 flinger
-farnesses
 faro
 floter
 foredestining
@@ -10378,6 +10377,7 @@ fermate
 finenesses
 frolicsomely
 frammit
+farnesses
 foxiness
 fimbrilla
 from
