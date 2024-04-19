@@ -10944,7 +10944,6 @@ disadvise
 disadvised
 disadvising
 dysaesthesia
-dysaesthetic
 disaffect
 dropvie
 dryopithecine
@@ -15289,6 +15288,7 @@ domba
 dombeya
 domboc
 dome
+dysaesthetic
 domed
 domeykite
 domelike
