@@ -9770,7 +9770,6 @@ chelators
 chelerythrine
 chelicer
 chelicera
-chelicerae
 cheliceral
 chelicerate
 cysts
@@ -27438,6 +27437,7 @@ covalently
 carnaubic
 covarecas
 covary
+chelicerae
 covariable
 covariables
 coal
