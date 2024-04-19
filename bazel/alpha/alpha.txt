@@ -8805,7 +8805,6 @@ alliterates
 alliteration
 alliterational
 alliterationist
-alliterations
 alliterative
 autocatalepsy
 alliteratively
@@ -21863,6 +21862,7 @@ assith
 assyth
 assythment
 assize
+alliterations
 assized
 assizer
 assizes
