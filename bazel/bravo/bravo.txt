@@ -5194,6 +5194,7 @@ befoul
 biolytic
 baffled
 befouled
+bouilli
 befouler
 befoulers
 brunizem
@@ -13522,7 +13523,6 @@ boughten
 bougie
 bougies
 bouillabaisse
-bouilli
 bouillone
 boodlers
 bouillons
