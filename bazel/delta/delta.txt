@@ -7416,7 +7416,6 @@ detrusor
 detubation
 detumescence
 dissocialize
-detumescent
 detune
 detuned
 detuning
@@ -15604,6 +15603,7 @@ dawdle
 doorsill
 doorstead
 didactics
+detumescent
 doorstep
 doorstone
 doorstop
