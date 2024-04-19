@@ -12304,7 +12304,6 @@ accelerations
 anders
 anderson
 anderun
-andesic
 andesites
 andesytes
 andesitic
@@ -21814,6 +21813,7 @@ assimulate
 assinego
 assiniboin
 assyntite
+andesic
 assinuate
 assyrian
 assyrianize
