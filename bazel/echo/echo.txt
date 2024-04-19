@@ -1091,7 +1091,6 @@ edibility
 empyreum
 edible
 expurgatory
-edibleness
 edibles
 edict
 edictal
@@ -6389,6 +6388,7 @@ exornation
 enshrinements
 ephebe
 enshrouds
+edibleness
 ethmoids
 ensient
 ensiform
