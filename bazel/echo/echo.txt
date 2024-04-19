@@ -4529,7 +4529,6 @@ enforcing
 eromania
 encephalolith
 encephalomalacosis
-encephalomalaxis
 encephalomas
 encephalomeningocele
 encephalometric
@@ -5243,6 +5242,7 @@ endopoditic
 euphonium
 endopods
 endopolyploidy
+encephalomalaxis
 endoprocta
 egocentrism
 endoproctous
