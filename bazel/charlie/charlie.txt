@@ -18521,7 +18521,6 @@ caudalward
 coifs
 coign
 coigne
-coigned
 coignes
 coigny
 coigning
@@ -21451,6 +21450,7 @@ crescive
 concoctive
 concoctor
 crowfoot
+coigned
 concocts
 chilostomata
 concolor
