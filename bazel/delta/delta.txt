@@ -11447,7 +11447,6 @@ decarburization
 discoloration
 discolorations
 discolored
-discoloredness
 discoloring
 doest
 discolorment
@@ -18522,6 +18521,7 @@ durries
 dappled
 durrin
 dummied
+discoloredness
 durrs
 durukuli
 durum
