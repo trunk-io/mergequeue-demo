@@ -2643,7 +2643,6 @@ decompoundly
 decompress
 decompresses
 decompressing
-decompression
 detectaphone
 decompressive
 decelerating
@@ -5515,6 +5514,7 @@ dedolomitize
 deoppilate
 deoppilation
 deordination
+decompression
 deorganization
 divaricate
 decolouriser
