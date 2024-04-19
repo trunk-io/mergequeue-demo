@@ -4703,6 +4703,7 @@ demirobe
 demonastery
 dol
 demisability
+dinic
 demisang
 demisangue
 demisavage
@@ -10155,7 +10156,6 @@ dings
 dingus
 dinguses
 disciplined
-dinic
 dinical
 dinichthyid
 dinichthys
