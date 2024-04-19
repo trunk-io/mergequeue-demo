@@ -12548,7 +12548,6 @@ bonorum
 bonos
 bons
 bagatelle
-bonsai
 bills
 bonsela
 brigantine
@@ -17701,6 +17700,7 @@ buriers
 buries
 burinist
 burys
+bonsai
 banshees
 burk
 burka
