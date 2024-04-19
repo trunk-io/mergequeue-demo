@@ -12615,7 +12615,6 @@ aguamas
 anethene
 anethol
 albites
-anethole
 anetholes
 anethols
 anethum
@@ -16805,6 +16804,7 @@ asserters
 aphacia
 aphacial
 alcaides
+anethole
 aphacic
 amorist
 aphaeresis
