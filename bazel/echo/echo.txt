@@ -1553,7 +1553,6 @@ eggbeater
 ethmoid
 endosternum
 eggbeaters
-eggcrate
 evoke
 euphuized
 eggcups
@@ -8695,6 +8694,7 @@ equipages
 equiparation
 equipartile
 equipartisan
+eggcrate
 equipartition
 epithecal
 equipedal
