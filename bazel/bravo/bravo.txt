@@ -12249,7 +12249,6 @@ b
 beakful
 bawds
 boltspreet
-boltuprightness
 boltwork
 bolus
 boluses
@@ -14552,6 +14551,7 @@ branny
 branniness
 babas
 branning
+boltuprightness
 bransle
 bransolder
 branta
