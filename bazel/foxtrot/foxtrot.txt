@@ -159,7 +159,6 @@ factionalism
 fullbodied
 fishings
 factionalist
-factionaries
 factionate
 factionism
 faradopalpation
@@ -1187,6 +1186,7 @@ fascia
 fogeater
 fasciae
 fasciate
+factionaries
 featherbone
 fasciation
 fascicled
