@@ -8202,7 +8202,6 @@ chainwork
 chayota
 coldslaw
 countertrades
-chayote
 chair
 calliophone
 chairborne
@@ -18773,6 +18772,7 @@ coleoptile
 chromosomal
 coleoptilum
 coleopttera
+chayote
 coleorhizae
 coleosporiaceae
 coleosporium
