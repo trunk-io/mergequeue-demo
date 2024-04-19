@@ -2558,7 +2558,6 @@ canyon
 canioned
 canions
 canyonside
-cobbly
 canis
 canistel
 canisters
@@ -21579,6 +21578,7 @@ cosounding
 concussion
 concussional
 cribbled
+cobbly
 crowners
 concussions
 concussive
