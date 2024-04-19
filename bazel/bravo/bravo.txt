@@ -3114,7 +3114,6 @@ bascinet
 bascology
 basculation
 blindfold
-bascule
 baculite
 bascules
 bascunan
@@ -3745,6 +3744,7 @@ batteaux
 bonnering
 batteler
 batteling
+bascule
 battels
 battement
 basisolute
