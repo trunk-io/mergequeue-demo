@@ -4052,7 +4052,6 @@ graftdom
 gulinulae
 gigots
 gigs
-globelike
 gigster
 guarinite
 gigtree
@@ -6762,6 +6761,7 @@ gondoletta
 gangliform
 gondolier
 gringo
+globelike
 gondoliere
 gordius
 gondoliers
