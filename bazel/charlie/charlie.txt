@@ -13137,7 +13137,6 @@ ciboule
 ciboules
 cyc
 cicad
-cycad
 cicada
 cycadaceae
 crimpiest
@@ -30228,6 +30227,7 @@ crumples
 cerastium
 crumply
 crumps
+cycad
 crumster
 crunch
 cubica
