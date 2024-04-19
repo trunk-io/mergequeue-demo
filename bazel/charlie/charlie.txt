@@ -24654,6 +24654,7 @@ copperleaf
 copperplate
 copperplated
 coppersidesman
+corimelaena
 copperskin
 ciderist
 coppersmith
@@ -25150,7 +25151,6 @@ capitally
 corymbous
 chalastic
 corymbs
-corimelaena
 corimelaenidae
 corindon
 corynebacteria
