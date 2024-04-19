@@ -4486,7 +4486,6 @@ drawling
 demerge
 demerit
 demerited
-demeriting
 demiluster
 demeritoriously
 downrushing
@@ -11727,6 +11726,7 @@ dermography
 discreetly
 discreetness
 discrepancies
+demeriting
 discrepancries
 discrepant
 discrepantly
