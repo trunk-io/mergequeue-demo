@@ -5283,7 +5283,6 @@ beggarhood
 burrier
 beggary
 beggaring
-beggarism
 bicrescentic
 beggarly
 beggarlice
@@ -16692,6 +16691,7 @@ buckwheater
 buckwheatlike
 balaic
 buckwheats
+beggarism
 bucolic
 bucolical
 bucolically
