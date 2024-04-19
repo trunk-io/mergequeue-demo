@@ -11569,7 +11569,6 @@ boarship
 boarskin
 boarspear
 belzebuth
-boart
 boarts
 boarwood
 boas
@@ -18022,6 +18021,7 @@ bushwhacking
 bushwhacks
 bushwoman
 boheas
+boart
 busy
 busybody
 batoidei
