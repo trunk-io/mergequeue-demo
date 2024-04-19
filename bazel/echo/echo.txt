@@ -4591,7 +4591,6 @@ enchanter
 excitement
 exhalent
 enlightened
-enchantery
 enchanters
 enchanting
 enchantment
@@ -10309,6 +10308,7 @@ emboweled
 emphasizes
 etherish
 etherism
+enchantery
 etherization
 einsteinium
 etherize
