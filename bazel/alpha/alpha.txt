@@ -5228,6 +5228,7 @@ aetiology
 amole
 aetiological
 aetiologies
+aloelike
 aetiologist
 artsy
 aetiologue
@@ -9245,7 +9246,6 @@ alodium
 ascesis
 aloe
 aloed
-aloelike
 aloes
 aloesol
 aloetic
