@@ -7284,7 +7284,6 @@ bestore
 bestorm
 bloom
 bestow
-bestowal
 bestowals
 bestower
 bicepses
@@ -10297,6 +10296,7 @@ bethlehemite
 blahs
 balatas
 bulbophyllum
+bestowal
 blayne
 blains
 blair
