@@ -10503,7 +10503,6 @@ blastospheric
 buttonhold
 blastostyle
 blastozooid
-blastplate
 blasts
 blastula
 butterier
@@ -16454,6 +16453,7 @@ bimorphemic
 brutification
 badness
 brutified
+blastplate
 barbarianize
 burners
 brutifies
