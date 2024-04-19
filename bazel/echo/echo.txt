@@ -4361,7 +4361,6 @@ enamoredness
 enamoring
 enamorment
 endotrophi
-encyclic
 earstone
 enamors
 enamour
@@ -5847,6 +5846,7 @@ enhancements
 enhancers
 enhancing
 enhappy
+encyclic
 enharbour
 enharden
 eurytopicity
