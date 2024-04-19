@@ -3619,6 +3619,7 @@ carapa
 couloirs
 carapaces
 carapacho
+contumacity
 cognates
 carapacic
 carapax
@@ -23901,7 +23902,6 @@ contubernium
 contumacy
 contumacious
 contumaciousness
-contumacity
 chipyard
 contumacities
 contumax
