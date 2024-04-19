@@ -3129,6 +3129,7 @@ default
 duringly
 defaultant
 defaulted
+diamyl
 defaultless
 defaults
 defaulture
@@ -8469,7 +8470,6 @@ douceurs
 dogsbody
 dichogamous
 diamido
-diamyl
 deesis
 diamylene
 diamylose
