@@ -2797,6 +2797,7 @@ glassworks
 genyophrynidae
 gearboxes
 geodesic
+gyrates
 genip
 grouchy
 genipa
@@ -4626,7 +4627,6 @@ gyrate
 gyrated
 gosain
 gainpain
-gyrates
 gyrating
 gyrator
 gonads

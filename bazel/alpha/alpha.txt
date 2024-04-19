@@ -4174,7 +4174,6 @@ admissability
 admissable
 admissibility
 admissible
-admissibly
 admission
 admissions
 admissive
@@ -11324,6 +11323,7 @@ amplest
 amplex
 amplexicaul
 awestruck
+admissibly
 amplexicauline
 amplexifoliate
 amplexus
