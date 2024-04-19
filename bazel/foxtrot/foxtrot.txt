@@ -8317,7 +8317,6 @@ forhow
 furfur
 facelift
 foryield
-forinsecal
 furnished
 furnaceman
 ferriage
@@ -10284,6 +10283,7 @@ floating
 falcer
 fomented
 frond
+forinsecal
 frizzy
 frizzily
 frogleaf
