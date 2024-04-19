@@ -3345,7 +3345,6 @@ epitomize
 embarkment
 embarks
 electrograph
-embarment
 embarrass
 embarrassed
 embarrassedly
@@ -7649,6 +7648,7 @@ epicoeloma
 epicoelous
 euphemious
 ep
+embarment
 ecbolics
 elephas
 epicolic
