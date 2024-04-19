@@ -3653,7 +3653,6 @@ brachiated
 bathrobe
 bathrobes
 balneophysiology
-bathroom
 bathroomed
 bathrooms
 bathroot
@@ -9377,6 +9376,7 @@ birches
 borderies
 birching
 birchism
+bathroom
 birchwood
 brindle
 birdbander
