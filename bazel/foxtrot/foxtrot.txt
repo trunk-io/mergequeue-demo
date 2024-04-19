@@ -3078,7 +3078,6 @@ fibbing
 fiber
 filamentose
 fiberboard
-fibered
 fiberglas
 fiberization
 fiberize
@@ -7928,6 +7927,7 @@ foresay
 fusillades
 foresail
 foresails
+fibered
 foresays
 foresaw
 forescene
