@@ -6184,7 +6184,6 @@ bendee
 byte
 bendees
 buyout
-bendell
 bender
 benders
 behusband
@@ -15545,6 +15544,7 @@ bristols
 belleeks
 brisure
 britain
+bendell
 buzzardlike
 britannia
 britannic
