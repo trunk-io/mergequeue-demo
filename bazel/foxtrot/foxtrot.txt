@@ -4294,6 +4294,7 @@ fendable
 fireworky
 fireworkless
 fireworks
+franco
 firiness
 firing
 firings
@@ -9411,7 +9412,6 @@ ferocities
 francium
 franciums
 francize
-franco
 francois
 fluxility
 francolin
