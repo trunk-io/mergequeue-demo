@@ -20037,6 +20037,7 @@ armpiece
 armpit
 almagra
 armpits
+astrologe
 acclimatization
 armplate
 armrack
@@ -22291,7 +22292,6 @@ astrolithology
 anaesthesiant
 astrolog
 astrologaster
-astrologe
 astrologers
 astrology
 astrologically
