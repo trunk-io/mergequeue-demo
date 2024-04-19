@@ -500,7 +500,6 @@ biotech
 boshboks
 backstairs
 backstays
-backster
 backstick
 backstitch
 backstitched
@@ -17652,6 +17651,7 @@ burglarizes
 burglarizing
 burglarproof
 benediction
+backster
 burglarproofed
 benzeneazobenzene
 berat

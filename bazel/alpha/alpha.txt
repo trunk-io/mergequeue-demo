@@ -5580,7 +5580,6 @@ afterage
 afterattack
 afterbay
 appetitive
-afterband
 absorbs
 afterbeat
 afterbirth
@@ -6873,6 +6872,7 @@ aircrewmen
 aircrews
 aerophone
 airdate
+afterband
 airdates
 airdock
 airdrome
