@@ -15318,7 +15318,6 @@ ageusic
 antigambling
 antiganting
 antigen
-antigene
 alloquialism
 antigenes
 antigenic
@@ -16181,6 +16180,7 @@ aesthophysiology
 antisensitivity
 albatross
 antisensitizer
+antigene
 allometric
 antisensitizing
 antisensuality
