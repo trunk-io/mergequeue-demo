@@ -2518,7 +2518,6 @@ electromotor
 escadrilles
 electromuscular
 electron
-electronarcosis
 eleutherarch
 ectethmoid
 ethnarchy
@@ -5346,6 +5345,7 @@ endothecia
 endothecial
 empoisoner
 elateridae
+electronarcosis
 embreathement
 endothecium
 effet
