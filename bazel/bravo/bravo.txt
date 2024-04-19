@@ -3035,6 +3035,7 @@ bartends
 baggywrinkle
 barter
 barterer
+blighting
 barterers
 bartering
 barters
@@ -10861,7 +10862,6 @@ blightbird
 blighted
 blighters
 blighty
-blighting
 blightingly
 blijver
 blimbing
