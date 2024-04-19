@@ -3027,7 +3027,6 @@ capacitator
 capacity
 capacities
 capacitive
-capacitively
 capacitor
 capanna
 capanne
@@ -9585,6 +9584,7 @@ checksumming
 checkup
 checkups
 checkweigher
+capacitively
 checkweighman
 checkweighmen
 checkwork
