@@ -1199,7 +1199,6 @@ educatable
 educate
 evitate
 educated
-educatedly
 educatedness
 educates
 enuresis
@@ -8356,6 +8355,7 @@ epitheliums
 epithelization
 epidictic
 epithelize
+educatedly
 enciphers
 epitheloid
 exercised
