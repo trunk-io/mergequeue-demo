@@ -2522,6 +2522,7 @@ blear
 barfish
 barfs
 bargain
+bromins
 bargainable
 billbugs
 bargainee
@@ -15851,7 +15852,6 @@ bromine
 buzzbomb
 bromines
 brominize
-bromins
 bromios
 bromyrite
 bromisation
