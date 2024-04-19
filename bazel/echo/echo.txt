@@ -922,7 +922,6 @@ ectotoxin
 ectotrophi
 ectotrophic
 esthetic
-ectotropic
 ectozoa
 epilogistic
 ectozoan
@@ -9458,6 +9457,7 @@ eruptional
 ellen
 estruate
 eruptive
+ectotropic
 estrous
 episematic
 eruptively
