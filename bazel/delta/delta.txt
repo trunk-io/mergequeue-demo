@@ -1186,6 +1186,7 @@ datatype
 datatypes
 datcha
 dynamometry
+dragooner
 dialyzers
 dateableness
 datebook
@@ -16631,7 +16632,6 @@ dragoonable
 dragoonade
 dragoonage
 dragooned
-dragooner
 dragooning
 dragrope
 decades
