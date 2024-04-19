@@ -1159,6 +1159,7 @@ abusively
 abut
 abuta
 abutilon
+amperes
 afterdrops
 abutment
 abutments
@@ -11017,7 +11018,6 @@ amper
 amperages
 ampere
 amperemeter
-amperes
 ampery
 amperian
 amperometer
