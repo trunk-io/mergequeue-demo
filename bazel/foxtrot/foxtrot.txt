@@ -2628,7 +2628,6 @@ ferrohydrocyanic
 fooler
 ferromagnesian
 frogtongue
-ferromagnet
 ferromagnetic
 ferromagneticism
 ferromagnetism
@@ -7852,6 +7851,7 @@ forepaled
 furiousity
 forepart
 furor
+ferromagnet
 foredesk
 foreparts
 forepass
