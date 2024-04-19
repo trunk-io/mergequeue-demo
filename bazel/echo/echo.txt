@@ -8801,7 +8801,6 @@ equivelocity
 equivocacy
 equivocal
 equivocally
-equivocate
 endangering
 encoffin
 excoriable
@@ -13429,6 +13428,7 @@ expungers
 englobement
 expunging
 expurgate
+equivocate
 expurgated
 expurgating
 expurgation

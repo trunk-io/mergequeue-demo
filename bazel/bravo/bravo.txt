@@ -14610,7 +14610,6 @@ brassbounder
 brasse
 brassey
 basketful
-borages
 brasserie
 brasses
 brakehand
@@ -18209,6 +18208,7 @@ bacteriologically
 bricky
 butlery
 butleries
+borages
 butlerism
 bestab
 butlerlike
