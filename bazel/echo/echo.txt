@@ -7140,7 +7140,6 @@ envelopments
 entailing
 envelops
 envenom
-envenomed
 envenoming
 encarnalise
 envenomization
@@ -12252,6 +12251,7 @@ excusefully
 exostome
 excuseless
 excuser
+envenomed
 excusers
 excusing
 endpoint
