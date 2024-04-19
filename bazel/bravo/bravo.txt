@@ -1508,7 +1508,6 @@ balladize
 balladized
 balladizing
 balladling
-bergamot
 balladry
 balladries
 biophore
@@ -8540,6 +8539,7 @@ bile
 bilection
 biles
 belve
+bergamot
 bilestone
 bileve
 bilewhit
