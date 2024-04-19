@@ -6002,6 +6002,7 @@ ballistic
 beltie
 belting
 beltings
+bangalay
 beltir
 benumbing
 biparous
@@ -12872,7 +12873,6 @@ bootmaking
 bootman
 boots
 bootstrapped
-bangalay
 bootstrapping
 boottop
 booze
