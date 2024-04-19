@@ -3091,6 +3091,7 @@ fibrefill
 fibreless
 fibres
 fibril
+figworm
 fleshquake
 frises
 fairily
@@ -11070,7 +11071,6 @@ fumigatories
 furzery
 fumigatorium
 fuminess
-figworm
 filum
 fuming
 fulmination
