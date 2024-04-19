@@ -1622,7 +1622,6 @@ calorizes
 calorizing
 calosoma
 calotermes
-calotermitid
 calotermitidae
 calothrix
 calotin
@@ -15265,6 +15264,7 @@ conspecifics
 contchar
 clayier
 clayiest
+calotermitid
 clayiness
 claylike
 clayman
