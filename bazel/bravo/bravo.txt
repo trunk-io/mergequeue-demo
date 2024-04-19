@@ -931,7 +931,6 @@ biophysiological
 bagpiper
 butcherliness
 bagpipers
-bagpipes
 bagpiping
 bagplant
 boscage
@@ -7825,6 +7824,7 @@ bunkerman
 bhutatathata
 bhuts
 bimilllennia
+bagpipes
 bi
 biabo
 biacetyl
