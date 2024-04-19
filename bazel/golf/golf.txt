@@ -2809,7 +2809,6 @@ genip
 grouchy
 genipa
 greenstuff
-genipaps
 genyplasty
 goldenwing
 genips
@@ -3886,6 +3885,7 @@ gnomology
 gnattier
 guarders
 giber
+genipaps
 gibes
 guttle
 gybes
