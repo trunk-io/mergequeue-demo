@@ -7601,7 +7601,6 @@ cerebellopontine
 cerebellorubral
 cerebellospinal
 cerebellum
-cerebellums
 cerebra
 cerebral
 cerebralism
@@ -27408,6 +27407,7 @@ couteaux
 couter
 combativity
 couters
+cerebellums
 coutet
 committing
 couth
