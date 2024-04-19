@@ -6330,7 +6330,6 @@ concessionaries
 caustification
 caustified
 caustifying
-causus
 cautela
 cautelous
 camphoronic
@@ -25174,6 +25173,7 @@ corynebacterial
 coreless
 corynebacterium
 coryneform
+causus
 corineus
 coring
 corynid
