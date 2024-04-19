@@ -4287,7 +4287,6 @@ firetop
 foredooms
 frith
 flatterers
-firetraps
 finestiller
 firewall
 fleckier
@@ -9911,6 +9910,7 @@ fresheners
 freshening
 freshens
 flay
+firetraps
 fresher
 freshest
 fluidifying
