@@ -16906,7 +16906,6 @@ aphonias
 aphonic
 aphonous
 aphorise
-aphorised
 aphorises
 aphorising
 aphorismatic
@@ -23621,6 +23620,7 @@ auriscopic
 aurist
 aurists
 aurited
+aphorised
 ankee
 aurivorous
 auroauric
