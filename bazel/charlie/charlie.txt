@@ -25034,7 +25034,6 @@ coreciprocal
 corectome
 corectomy
 cored
-coredeem
 coredeemed
 coredeemer
 chlorargyrite
@@ -30065,6 +30064,7 @@ crownless
 crownlet
 crownlike
 crownmaker
+coredeem
 crownment
 crownpiece
 crowns
