@@ -7014,7 +7014,6 @@ census
 caecitis
 censuses
 censusing
-cent
 centage
 centai
 cental
@@ -22942,6 +22941,7 @@ consistent
 consistently
 consistible
 consisting
+cent
 consistorial
 camellus
 consistorian
