@@ -1198,6 +1198,7 @@ calendaric
 clinopyramid
 calendaring
 calendarist
+confluently
 calendars
 calendas
 calender
@@ -22077,7 +22078,6 @@ conflicts
 conflictual
 conflow
 confluent
-confluently
 conflux
 confluxes
 confluxibility
