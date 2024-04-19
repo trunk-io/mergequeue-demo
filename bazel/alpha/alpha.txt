@@ -4073,6 +4073,7 @@ ambassage
 adlegation
 adlerian
 adless
+ast
 adlet
 adlumia
 adlumidin
@@ -21975,7 +21976,6 @@ asswage
 asswaged
 asswages
 asswaging
-ast
 asta
 astable
 astacian
