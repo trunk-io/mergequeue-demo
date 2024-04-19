@@ -9657,7 +9657,6 @@ ghanaians
 gaudies
 grueller
 gruellers
-gelid
 gruellings
 gruesome
 germens
@@ -10141,6 +10140,7 @@ gangflower
 guidable
 guidance
 git
+gelid
 guide
 gruf
 guideboard
