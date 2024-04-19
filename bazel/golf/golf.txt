@@ -5165,7 +5165,6 @@ glasshouse
 grubbed
 gastronomics
 glasshouses
-glassy
 glassie
 gateaux
 glassies
@@ -8077,6 +8076,7 @@ granuloadipose
 gloomless
 granuloblast
 geognosis
+glassy
 granuloblastic
 granulocyte
 granulocytic
