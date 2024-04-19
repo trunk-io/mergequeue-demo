@@ -13594,7 +13594,6 @@ dissymmettric
 dissympathy
 dissympathize
 dissimulate
-dissimulates
 dissimulation
 dissimulations
 deipara
@@ -16120,6 +16119,7 @@ douser
 dousers
 downhill
 dispurpose
+dissimulates
 dialers
 douses
 dousing
