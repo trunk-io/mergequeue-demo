@@ -17869,7 +17869,6 @@ codirector
 commonish
 codirects
 codiscoverer
-codisjunct
 codist
 codivine
 codlin
@@ -18822,6 +18821,7 @@ colies
 cocinero
 coliform
 coliforms
+codisjunct
 coliidae
 cavil
 colilysin
