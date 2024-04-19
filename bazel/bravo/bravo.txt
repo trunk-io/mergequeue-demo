@@ -7046,7 +7046,6 @@ beslave
 beslaved
 besleeve
 beslime
-balaenid
 beslimer
 beslimes
 besliming
@@ -8353,6 +8352,7 @@ bigamize
 boyars
 befuddlements
 betafite
+balaenid
 bigamized
 bigamizing
 bigamous
