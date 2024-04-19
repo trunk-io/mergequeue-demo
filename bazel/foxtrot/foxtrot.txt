@@ -827,6 +827,7 @@ furtiveness
 fautor
 footlike
 fortes
+flog
 fanions
 firebolt
 fides
@@ -5902,7 +5903,6 @@ flockwise
 flocs
 floeberg
 floerkea
-flog
 flogged
 futtock
 ferrotypes
