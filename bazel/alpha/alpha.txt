@@ -354,7 +354,6 @@ abetments
 adenopathy
 abets
 abettal
-abettals
 abetted
 abetters
 abetting
@@ -9446,6 +9445,7 @@ alterate
 autoimmunized
 alteration
 alterations
+abettals
 amphophil
 alterative
 alteratively
