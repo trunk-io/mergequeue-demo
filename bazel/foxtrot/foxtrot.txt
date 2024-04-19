@@ -8297,6 +8297,7 @@ faraon
 forgrow
 forhaile
 fevercup
+funmaker
 forhale
 forestian
 forhoo
@@ -11282,7 +11283,6 @@ fete
 falcade
 frontispieces
 funks
-funmaker
 faultfinding
 funmaking
 funnel
