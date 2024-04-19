@@ -3607,7 +3607,6 @@ filaments
 filamentule
 filander
 filao
-filaree
 filarees
 filariae
 filarian
@@ -9134,6 +9133,7 @@ fowled
 fowler
 fowlery
 froeman
+filaree
 fowlerite
 fowlers
 fowlfoot
