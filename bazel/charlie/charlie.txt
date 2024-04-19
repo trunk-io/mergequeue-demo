@@ -17586,7 +17586,6 @@ coccobacillus
 coccochromatic
 coccogone
 coccogoneae
-coccogonium
 coccoid
 coccoidal
 coccoids
@@ -28597,6 +28596,7 @@ cremasterial
 cremasteric
 cremate
 chemicomechanical
+coccogonium
 cremates
 chally
 crosspoints
