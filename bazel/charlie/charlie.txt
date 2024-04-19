@@ -5865,7 +5865,6 @@ catharization
 crumbcloth
 catharize
 chenilles
-catpiece
 catharized
 coppernosed
 catharizing
@@ -27065,6 +27064,7 @@ counterriposte
 counterroll
 counterrotating
 counterround
+catpiece
 counterruin
 counters
 countersalient
