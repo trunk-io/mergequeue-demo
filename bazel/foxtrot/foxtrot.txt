@@ -8324,7 +8324,6 @@ furnitures
 forjesket
 forjudge
 foujdar
-folliculosis
 fibrin
 forjudges
 forjudging
@@ -9169,6 +9168,7 @@ farrowed
 feints
 foxinesses
 foxing
+folliculosis
 fishybacking
 fictil
 foxly
