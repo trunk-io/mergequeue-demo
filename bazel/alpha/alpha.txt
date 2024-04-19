@@ -6376,7 +6376,6 @@ agonies
 agonise
 axillas
 agonised
-agonises
 agonist
 agonistarch
 antiaris
@@ -20415,6 +20414,7 @@ arsenopyrite
 arsenostyracol
 autopsist
 arsenotherapy
+agonises
 alabaman
 apinage
 arsenotungstates
