@@ -1485,7 +1485,6 @@ extrications
 effused
 effusely
 effuses
-effusiometer
 espiegle
 effusions
 endosmometer
@@ -6720,6 +6719,7 @@ enterpillar
 enterprise
 euonymin
 ency
+effusiometer
 enterprised
 exploitations
 enterprising
