@@ -8387,7 +8387,6 @@ dialkylamine
 dialkylic
 detentes
 diallage
-diallages
 diallagic
 diallagite
 deadwort
@@ -13105,6 +13104,7 @@ displayable
 displayed
 displayer
 downtimes
+diallages
 decolorate
 displaying
 displays
