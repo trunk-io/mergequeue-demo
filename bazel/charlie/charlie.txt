@@ -10845,7 +10845,6 @@ countersea
 chiococcine
 chiogenes
 chiolite
-chyometer
 chionablepsia
 chionaspis
 chionididae
@@ -28333,6 +28332,7 @@ craze
 crazed
 crazedly
 crazes
+chyometer
 crazy
 crazycat
 crazier
