@@ -6998,7 +6998,6 @@ airport
 airports
 airpost
 airposts
-airproof
 airproofs
 aggrieving
 airscape
@@ -17211,6 +17210,7 @@ apodematal
 apodeme
 absolvitory
 apodiabolosis
+airproof
 adjunct
 apodictic
 arithmetize
