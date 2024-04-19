@@ -5771,6 +5771,7 @@ ferrochrome
 flytraps
 floodplain
 flitted
+foreground
 felsite
 freshman
 flitterbat
@@ -7701,7 +7702,6 @@ fearable
 fables
 fasciolidae
 flannelet
-foreground
 foregrounds
 falcones
 foreguess
