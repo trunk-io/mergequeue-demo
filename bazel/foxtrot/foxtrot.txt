@@ -6254,7 +6254,6 @@ ferroprint
 fervour
 fluer
 forfeiting
-fluerics
 flues
 fluework
 fluffier
@@ -6739,6 +6738,7 @@ fogfruits
 fogger
 foggers
 fairgrass
+fluerics
 foggier
 furrier
 finableness

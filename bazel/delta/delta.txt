@@ -2629,6 +2629,7 @@ decompensate
 decompensated
 decompensates
 decompensating
+dislocable
 diverge
 decompensation
 delinquents
@@ -12644,7 +12645,6 @@ dislluminate
 dubbings
 difference
 dislocability
-dislocable
 dislocate
 ducula
 drammer
