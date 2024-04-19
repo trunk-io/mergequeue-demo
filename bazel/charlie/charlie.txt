@@ -30717,7 +30717,6 @@ cypripedium
 culeus
 culgee
 culices
-culicidae
 culicidal
 culicids
 culiciform
@@ -31510,6 +31509,7 @@ curt
 curtail
 curtailed
 curtailedly
+culicidae
 curtailer
 curtailing
 curtailment
