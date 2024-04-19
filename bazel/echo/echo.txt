@@ -10762,7 +10762,6 @@ electrojet
 eudesmol
 eudemonics
 eudeve
-eudiagnostic
 eudiaphoresis
 eudiometer
 eudiometry
@@ -12308,6 +12307,7 @@ executor
 excur
 ensigns
 erodable
+eudiagnostic
 executorial
 executors
 executorship
