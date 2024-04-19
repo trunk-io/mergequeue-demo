@@ -401,7 +401,6 @@ eburin
 eburna
 eburnated
 eburnean
-eburneoid
 eburneous
 ec
 ecalcarate
@@ -12895,6 +12894,7 @@ emigrate
 exotropia
 effluent
 exotropic
+eburneoid
 exp
 embusque
 expalpate
