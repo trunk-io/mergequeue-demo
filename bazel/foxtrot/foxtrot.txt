@@ -7717,7 +7717,6 @@ ferrocyanide
 foreglow
 forego
 frenchwoman
-fearable
 fables
 fasciolidae
 flannelet
@@ -8875,6 +8874,7 @@ fillet
 fosse
 fosses
 fibromyomatous
+fearable
 fossette
 fossettes
 flneur
