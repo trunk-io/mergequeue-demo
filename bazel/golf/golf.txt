@@ -2585,7 +2585,6 @@ gems
 genouillere
 glassing
 gemsbuck
-gemsbucks
 gemmology
 gemstone
 gemuetlich
@@ -2983,6 +2982,7 @@ grasser
 genuflex
 grouters
 glyptal
+gemsbucks
 granddad
 genuflexion
 genuflexuous
