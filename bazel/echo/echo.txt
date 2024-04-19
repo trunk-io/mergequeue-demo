@@ -196,7 +196,6 @@ enddamaged
 earthworms
 earwax
 earwaxes
-earwig
 executions
 earwigged
 eidolic
@@ -7372,6 +7371,7 @@ epapophysis
 epilemmal
 epappose
 erinaceus
+earwig
 erythrolysin
 edibile
 eriophyes
