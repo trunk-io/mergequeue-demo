@@ -11626,6 +11626,7 @@ cholera
 choleras
 choleric
 cholerically
+cricothyroid
 cholericly
 cholericness
 choleriform
@@ -28922,7 +28923,6 @@ cricoids
 cricopharyngeal
 cricothyreoid
 cricothyreotomy
-cricothyroid
 cojuror
 cricothyroidean
 cuneated
