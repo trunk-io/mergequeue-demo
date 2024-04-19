@@ -2155,7 +2155,6 @@ gawkihood
 guggles
 geison
 garnetz
-gawkiness
 gawking
 gheg
 garrisoned
@@ -6291,6 +6290,7 @@ gnomish
 gelastic
 gnomist
 gabert
+gawkiness
 gnomologic
 geitonogamous
 gnomologist
