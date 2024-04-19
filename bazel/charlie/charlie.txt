@@ -6753,7 +6753,6 @@ chequeen
 celioenterotomy
 counterearth
 chary
-celiohysterotomy
 celiolymph
 celiomyalgia
 celiomyodynia
@@ -25734,6 +25733,7 @@ chincloth
 corrive
 choffer
 corrober
+celiohysterotomy
 corroborant
 corroborate
 corroborated
