@@ -1450,7 +1450,6 @@ fatnesses
 fylgjur
 fats
 fatshedera
-ferahan
 fatsia
 fatso
 fatsoes
@@ -6176,6 +6175,7 @@ flirtling
 flappering
 floweriness
 flowerist
+ferahan
 flowerless
 flowerlessness
 fecalith
