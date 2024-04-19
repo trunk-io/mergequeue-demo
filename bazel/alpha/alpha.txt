@@ -560,6 +560,7 @@ ablings
 ablins
 abloom
 ablow
+actualize
 agrements
 ablude
 abluent
@@ -3288,7 +3289,6 @@ actualistic
 actuality
 actualities
 actualization
-actualize
 actualizes
 actualness
 actuals
