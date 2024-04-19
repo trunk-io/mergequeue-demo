@@ -4367,6 +4367,7 @@ forwardation
 fisetin
 fish
 focuser
+fibroplastic
 fishability
 fishable
 fishback
@@ -11013,7 +11014,6 @@ fumaria
 fumariaceae
 fumaric
 fumarium
-fibroplastic
 fumaroidal
 fumaroles
 fumarolic
