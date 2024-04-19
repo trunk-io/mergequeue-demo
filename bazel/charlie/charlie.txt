@@ -10889,6 +10889,7 @@ chippings
 chipproof
 clocher
 chypre
+cottonpicking
 chips
 chipwood
 chiquero
@@ -26478,7 +26479,6 @@ cottonless
 cottonmouth
 cottonmouths
 cottonocracy
-cottonpicking
 cottonseed
 cottonseeds
 camomile
