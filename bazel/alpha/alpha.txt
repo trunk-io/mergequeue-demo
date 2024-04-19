@@ -269,6 +269,7 @@ abdominocardiac
 abdominocentesis
 abdominocystic
 abdominogenital
+aurata
 affiant
 abdominohysterotomy
 abnormals
@@ -23513,7 +23514,6 @@ aurantiaceae
 aurantium
 aurar
 auras
-aurata
 aurate
 aurated
 aureal
