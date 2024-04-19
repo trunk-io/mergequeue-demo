@@ -4103,7 +4103,6 @@ deligated
 derk
 deligation
 delight
-delightable
 demyelinate
 delighted
 delightedly
@@ -13451,6 +13450,7 @@ decart
 dissaved
 dissaves
 dissaving
+delightable
 dissavs
 disscepter
 drumbeater
