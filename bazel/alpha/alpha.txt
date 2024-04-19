@@ -13417,7 +13417,6 @@ ankerhold
 ankerite
 ankerites
 ankh
-ankhs
 ankylenteron
 ankyloblepharon
 ankylocheilia
@@ -25017,6 +25016,7 @@ awk
 awkly
 awkward
 awkwarder
+ankhs
 awkwardish
 apologetical
 awkwardness
