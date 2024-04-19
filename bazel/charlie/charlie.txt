@@ -8082,6 +8082,7 @@ chadarim
 chadars
 chadelle
 colloquy
+cragged
 chadless
 chadlock
 chador
@@ -27943,7 +27944,6 @@ craftwork
 craftworker
 crag
 craggan
-cragged
 craggedness
 craggy
 catenary
