@@ -864,7 +864,6 @@ ectolecithal
 ectomeres
 ectomesoblast
 ectomorph
-eugranitic
 ectomorphic
 ectonephridium
 ectoparasite
@@ -3201,6 +3200,7 @@ elutriation
 elutriator
 eluvia
 eluvial
+eugranitic
 exhortatively
 elongative
 eluviates
