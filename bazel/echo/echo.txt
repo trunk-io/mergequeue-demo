@@ -5081,6 +5081,7 @@ endoconidia
 endocrania
 endocranial
 ephymnium
+erases
 esquimau
 ensurers
 endocranium
@@ -8864,7 +8865,6 @@ erasable
 erased
 eraser
 erasers
-erases
 erasion
 elod
 erasmian
