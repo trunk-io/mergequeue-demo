@@ -567,7 +567,6 @@ geneat
 galleon
 galleons
 galler
-gaucher
 gallera
 geisotherm
 galleria
@@ -10385,6 +10384,7 @@ gulping
 gulpingly
 gaulter
 gulps
+gaucher
 gangrene
 gult
 gum
