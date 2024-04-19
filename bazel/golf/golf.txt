@@ -5776,7 +5776,6 @@ glooming
 gimpy
 gloomings
 geologers
-gloomless
 guanins
 gars
 glochidium
@@ -8078,6 +8077,7 @@ granulitis
 granulitization
 granulization
 granuloadipose
+gloomless
 granuloblast
 granuloblastic
 granulocyte
