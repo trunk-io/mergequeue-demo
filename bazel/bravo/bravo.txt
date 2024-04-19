@@ -13680,6 +13680,7 @@ bourrides
 briefs
 bourse
 bourtree
+bewrap
 bezonian
 bouse
 boused
@@ -13976,7 +13977,6 @@ brach
 brisket
 besnowed
 brachelytra
-bewrap
 brachelytrous
 bracherer
 brachet
