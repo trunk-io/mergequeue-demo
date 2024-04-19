@@ -3542,6 +3542,7 @@ additions
 addititious
 additive
 additively
+alloisomeric
 additives
 additivity
 additory
@@ -8876,7 +8877,6 @@ alloiometric
 adjustments
 acrogenic
 alloys
-alloisomeric
 alloisomerism
 allokinetic
 allokurtic
