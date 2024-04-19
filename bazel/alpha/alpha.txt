@@ -5596,6 +5596,7 @@ afteract
 afterage
 afterattack
 afterbay
+afterstorm
 appetitive
 absorbs
 afterbeat
@@ -5732,7 +5733,6 @@ aftersong
 aftersound
 afterspeech
 afterspring
-afterstorm
 afterstretch
 afterstudy
 aftersupper
