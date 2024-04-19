@@ -15177,7 +15177,6 @@ bricklayer
 bricklayers
 bricklaying
 brickle
-brickleness
 budgerigars
 brickly
 bricklike
@@ -17470,6 +17469,7 @@ bunnies
 bunning
 bunns
 bunodont
+brickleness
 bacteroid
 bunodonta
 bunolophodont
