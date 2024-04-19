@@ -395,7 +395,6 @@ backliding
 backlins
 backlists
 backlit
-burrer
 biradiated
 backlog
 backlogged
@@ -4343,6 +4342,7 @@ beaver
 beaverboard
 burgonet
 beavering
+burrer
 beaverism
 bistoury
 brith
