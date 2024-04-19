@@ -8981,6 +8981,7 @@ grill
 geog
 grilladed
 grillades
+gyroscopic
 grillages
 grille
 grilled
@@ -10197,7 +10198,6 @@ guildsmen
 guessworker
 guile
 guileful
-gyroscopic
 guilefulness
 glochis
 guilery
