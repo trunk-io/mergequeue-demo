@@ -5531,7 +5531,6 @@ greatest
 gliosa
 glyoxal
 glyoxalic
-glyoxaline
 galliwasp
 gastrelcosis
 greywether
@@ -10773,6 +10772,7 @@ gutteral
 ganoidean
 gurneys
 guttered
+glyoxaline
 guttery
 guttering
 gutterman
