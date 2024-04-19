@@ -7934,7 +7934,6 @@ bibliofilm
 bibliog
 bibliognost
 benzophenanthroline
-bibliogony
 bibliographer
 bacteriophagia
 bibliographers
@@ -12954,6 +12953,7 @@ bacteriolysis
 bord
 bordage
 bren
+bibliogony
 bordar
 bordarius
 bordeaux
