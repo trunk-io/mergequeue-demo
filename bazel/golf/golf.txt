@@ -5017,7 +5017,6 @@ galletas
 glaga
 glagolic
 glaieul
-gularis
 glaik
 galvaniser
 glaiket
@@ -10709,6 +10708,7 @@ gustative
 guergal
 gustativeness
 gustatorial
+gularis
 gustavus
 germanomania
 gusted
