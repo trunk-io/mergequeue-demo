@@ -2630,7 +2630,6 @@ electrosurgeries
 electrosurgical
 electrosurgically
 electrotactic
-electrotautomerism
 enrail
 electrotaxis
 electrotechnic
@@ -4892,6 +4891,7 @@ endamoebas
 endamoebiasis
 endamoebidae
 estuate
+electrotautomerism
 endangeitis
 endanger
 endangerment
