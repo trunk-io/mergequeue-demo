@@ -4013,7 +4013,6 @@ aversely
 adjugate
 airbus
 adjument
-adjunct
 adjunctively
 adjunctly
 adjuration
@@ -17204,6 +17203,7 @@ apodematal
 apodeme
 absolvitory
 apodiabolosis
+adjunct
 apodictic
 arithmetize
 apodictive
