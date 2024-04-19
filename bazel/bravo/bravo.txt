@@ -2980,6 +2980,7 @@ bedplates
 barricado
 barricadoes
 brainsick
+bemazed
 barricados
 barrico
 barricoes
@@ -5529,7 +5530,6 @@ beige
 bb
 beigel
 bradyteleocinesia
-bemazed
 beignet
 beylic
 biblicistic
