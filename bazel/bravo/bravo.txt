@@ -4406,7 +4406,6 @@ beboppers
 bevel
 bebops
 belongings
-biochemist
 beboss
 blessing
 boggish
@@ -10062,6 +10061,7 @@ bjorne
 bk
 bkbndr
 bkg
+biochemist
 bklr
 backsey
 bocasine
