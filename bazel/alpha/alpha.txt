@@ -17429,6 +17429,7 @@ apostacize
 apostasy
 apostasies
 apostasis
+autocollimator
 antiforeign
 apostate
 apostates
@@ -23945,7 +23946,6 @@ autocoder
 autocoenobium
 autocollimate
 autocollimation
-autocollimator
 autocollimators
 autocolony
 autocombustible
