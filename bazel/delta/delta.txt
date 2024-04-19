@@ -2572,7 +2572,6 @@ decoyers
 diluents
 decoys
 decoke
-deviability
 decoll
 decollate
 disseizin
@@ -13334,6 +13333,7 @@ disquietude
 disquietudes
 doolees
 disquiparancy
+deviability
 disquisit
 disquisite
 disquisited
