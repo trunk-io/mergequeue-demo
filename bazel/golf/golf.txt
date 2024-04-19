@@ -4746,7 +4746,6 @@ guildsman
 golliwogg
 gorkhali
 gyrocompasses
-glassblowers
 gambol
 gigantic
 graphemes
@@ -4918,6 +4917,7 @@ givingness
 granulated
 gunwhale
 gizmos
+glassblowers
 gizz
 glamourizer
 gaullism
