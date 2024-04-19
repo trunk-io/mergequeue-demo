@@ -2135,6 +2135,7 @@ elatcha
 elate
 elated
 engrafting
+etherealise
 elater
 elatery
 elaterids
@@ -10267,7 +10268,6 @@ enarration
 ether
 etherate
 etherealisation
-etherealise
 etherealised
 etherealising
 ethereality
