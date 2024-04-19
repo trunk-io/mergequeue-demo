@@ -608,7 +608,6 @@ guardants
 gambet
 graptolitic
 greyhound
-gallicism
 gallicisms
 glottises
 gallicize
@@ -9815,6 +9814,7 @@ guayule
 guayules
 gastraea
 guajillo
+gallicism
 guajira
 guajiras
 gualaca
