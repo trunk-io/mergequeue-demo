@@ -6454,7 +6454,6 @@ fluoroborate
 fluorochrome
 fluoroform
 flaminian
-fluoroformol
 fluorogen
 fluorometer
 fluorometry
@@ -11440,6 +11439,7 @@ furnariides
 furnarius
 furnish
 furnishable
+fluoroformol
 flannelmouthed
 foregather
 frustrable
