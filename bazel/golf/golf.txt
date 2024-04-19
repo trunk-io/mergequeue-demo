@@ -7625,6 +7625,7 @@ grade
 graded
 geobotanically
 grademark
+gnathometer
 grader
 grades
 gradgrind
@@ -8089,7 +8090,6 @@ granulocyte
 granulocytic
 geom
 granulocytopoiesis
-gnathometer
 gambroon
 granulometric
 gaspereaus
