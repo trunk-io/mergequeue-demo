@@ -6729,6 +6729,7 @@ fairways
 fogdom
 figworts
 foge
+forestay
 fogfruit
 foretype
 feeders
@@ -8045,7 +8046,6 @@ fellmongered
 forestaff
 forestaffs
 forestage
-forestay
 forestair
 fireplough
 forestays
