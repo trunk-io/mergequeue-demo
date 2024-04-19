@@ -2163,6 +2163,7 @@ banshie
 banshies
 banstickle
 bantay
+blaw
 binary
 bantayan
 bidstand
@@ -10583,7 +10584,6 @@ blauboks
 blaugas
 blaunner
 blauwbok
-blaw
 blawed
 blawing
 blawn
