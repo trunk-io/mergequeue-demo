@@ -883,7 +883,6 @@ enunciator
 ectopic
 embracers
 ectopistes
-ectoplasy
 ectoplasmatic
 errata
 endship
@@ -11383,6 +11382,7 @@ exterrestrial
 evaporability
 evaporable
 evaporate
+ectoplasy
 eutaxy
 evaporated
 evaporates
