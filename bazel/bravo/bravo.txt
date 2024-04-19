@@ -4742,7 +4742,6 @@ brinny
 bacterioid
 bella
 bedims
-bedip
 bedirter
 browbeaten
 bedirtied
@@ -17541,6 +17540,7 @@ battlefields
 burbly
 bemistress
 bacitracin
+bedip
 binucleate
 burbliest
 backspeir
