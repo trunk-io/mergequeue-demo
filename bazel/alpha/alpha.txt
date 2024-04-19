@@ -1756,6 +1756,7 @@ aldolases
 accts
 aventail
 accubation
+amphicentric
 accubita
 accubitum
 accubitus
@@ -20980,7 +20981,6 @@ ascetical
 ascetically
 asceticism
 ataraxias
-amphicentric
 ascetta
 adverb
 aschaffite
