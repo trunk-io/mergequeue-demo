@@ -317,6 +317,7 @@ enunciate
 eaver
 eaves
 eavesdrop
+enterocentesis
 eavesdropped
 eavesdropper
 enmass
@@ -6609,7 +6610,6 @@ enterobiliary
 elates
 equivalue
 enterocele
-enterocentesis
 enteroceptor
 enterochirurgia
 enterochlorophyll
