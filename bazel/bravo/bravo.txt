@@ -664,7 +664,6 @@ briefed
 bacterioscopist
 bacteriosis
 bacteriosolvent
-bacteriostasis
 bacteriostat
 bacteriostatically
 bacteriotherapeutic
@@ -6102,6 +6101,7 @@ bemoat
 bemock
 bemocked
 bemocking
+bacteriostasis
 bibliological
 bemocks
 bothersomeness
