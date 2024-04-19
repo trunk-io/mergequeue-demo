@@ -4654,7 +4654,6 @@ gyratory
 gyrators
 gird
 girder
-girdering
 girders
 girding
 girdlecake
@@ -5337,6 +5336,7 @@ gourding
 gleeting
 gleg
 glegnesses
+girdering
 gleys
 gleization
 glen
