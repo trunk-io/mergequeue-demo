@@ -2619,6 +2619,7 @@ electrosteel
 electrostenolysis
 electrostenolytic
 equable
+encrypt
 epapophysial
 exciples
 electrostriction
@@ -4392,7 +4393,6 @@ encephalosclerosis
 enantiopathy
 embarque
 embraceor
-encrypt
 enantioses
 endoplastule
 euornithes
