@@ -2419,6 +2419,7 @@ candle
 coehorn
 candleball
 caripeta
+calor
 candleberries
 candlebomb
 candled
@@ -9534,7 +9535,6 @@ chirosophist
 checkmating
 checkoffs
 checkout
-calor
 checkpoint
 checkpointed
 checkpointing
