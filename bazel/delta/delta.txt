@@ -11345,7 +11345,6 @@ drossed
 diastereoisomer
 defrays
 discipled
-disciplelike
 disciples
 disciplinability
 disciplinable
@@ -14795,6 +14794,7 @@ dodecahydrate
 dodecanal
 dolph
 dodecane
+disciplelike
 dodecapartite
 dodecaphony
 dialling
