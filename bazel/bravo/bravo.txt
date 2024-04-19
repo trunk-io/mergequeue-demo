@@ -8500,6 +8500,7 @@ biogenous
 ballottable
 bilabial
 bilabials
+blackwood
 bilabiate
 bilaciniate
 bilayer
@@ -10238,7 +10239,6 @@ blackwasher
 blackwater
 baphomet
 blackweed
-blackwood
 babuma
 blackwork
 blackwort
