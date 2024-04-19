@@ -4926,7 +4926,6 @@ beebreads
 besting
 beech
 beechen
-beecher
 beechy
 beechnut
 brothy
@@ -6771,6 +6770,7 @@ berylliosis
 berylloid
 beryllonate
 beryllosis
+beecher
 berime
 berimed
 berimes
