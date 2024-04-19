@@ -1062,7 +1062,6 @@ choppin
 calcinate
 calcination
 calcinator
-cindery
 calcinatory
 calcine
 calcined
@@ -28391,6 +28390,7 @@ creammaking
 creamometer
 creams
 creamware
+cindery
 cahow
 creance
 creancer
