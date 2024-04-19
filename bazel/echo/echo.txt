@@ -7356,7 +7356,6 @@ enolize
 epanaphora
 emission
 epanisognathism
-epigrammatism
 epanody
 emanationism
 epanodos
@@ -10088,6 +10087,7 @@ estovers
 elon
 estradiol
 externation
+epigrammatism
 estrado
 estragole
 entity
