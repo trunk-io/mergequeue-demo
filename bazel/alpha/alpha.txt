@@ -1708,6 +1708,7 @@ accouterment
 acemetic
 accouters
 accoutre
+attire
 accoutrement
 accoutrements
 accoutres
@@ -23116,7 +23117,6 @@ attinge
 attingency
 attingent
 attirail
-attire
 attired
 attirer
 attires
