@@ -4129,7 +4129,6 @@ beamwork
 bantlings
 bean
 beanbag
-beanbags
 brickred
 beanball
 brooked
@@ -11804,6 +11803,7 @@ beribers
 bodykins
 bodiless
 bodyless
+beanbags
 bodiliness
 bodilize
 bodymaking
