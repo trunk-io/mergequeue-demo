@@ -3643,7 +3643,6 @@ gavial
 gharries
 gigas
 ghassanid
-ghast
 ghastfully
 gingersnap
 glazement
@@ -7265,6 +7264,7 @@ gentrification
 genys
 gospelmonger
 gutwise
+ghast
 gilgul
 gospels
 gospelwards
