@@ -9320,7 +9320,6 @@ gripers
 glamorize
 groove
 gothonic
-grooved
 groovelike
 groover
 gumtree
@@ -10693,6 +10692,7 @@ geometroidea
 gussets
 gasped
 gussie
+grooved
 goburra
 garamond
 gadgeteers
