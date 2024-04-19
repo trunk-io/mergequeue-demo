@@ -3350,7 +3350,6 @@ basketwoman
 beid
 basketwood
 basketwork
-basommatophorous
 bucconasal
 basketworm
 basking
@@ -4603,6 +4602,7 @@ becursed
 becurses
 becursing
 becurst
+basommatophorous
 becurtained
 blubbering
 becushioned
