@@ -6889,7 +6889,6 @@ berserks
 bersiamite
 bersil
 berskin
-berstel
 berhyme
 bert
 bugshas
@@ -17237,6 +17236,7 @@ bullwhipping
 bullwhips
 bullwork
 bullwort
+berstel
 bulnbuln
 bulrush
 bulrushes
