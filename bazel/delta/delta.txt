@@ -1118,7 +1118,6 @@ distractingly
 digests
 dasypaedic
 dasiphora
-dasypygal
 dasypod
 dasypodoid
 diagenetically
@@ -10884,6 +10883,7 @@ disable
 disabled
 doorplates
 disablement
+dasypygal
 doldrums
 disableness
 demonstrativeness

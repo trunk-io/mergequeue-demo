@@ -4847,6 +4847,7 @@ flagstick
 falconers
 flagworm
 feridji
+feued
 flayed
 fault
 front
@@ -11572,7 +11573,6 @@ ferdwit
 fusibility
 fries
 fiddleneck
-feued
 footlight
 fusibleness
 fusibly
