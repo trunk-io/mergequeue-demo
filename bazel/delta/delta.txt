@@ -6243,7 +6243,6 @@ dermatherm
 dermatic
 derationalize
 dermatine
-dermatitis
 dermatitises
 dermatocele
 dermatoconiosis
@@ -17487,6 +17486,7 @@ drovy
 damlike
 drow
 drown
+dermatitis
 drownd
 drownds
 dispread
