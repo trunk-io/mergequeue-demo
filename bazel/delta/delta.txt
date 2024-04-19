@@ -11240,7 +11240,6 @@ disbursal
 disbursals
 disburse
 disbursements
-disburser
 duckpins
 disburses
 divinistre
@@ -11290,6 +11289,7 @@ diesel
 discases
 discasing
 discatter
+disburser
 deadly
 disced
 discede
