@@ -11283,7 +11283,6 @@ exteriors
 enucleation
 evacue
 evacuees
-evadable
 evade
 evaded
 electroergometer
@@ -13497,6 +13496,7 @@ exserting
 exserts
 exsheath
 exsibilation
+evadable
 exsiccant
 exsiccatae
 exsiccating
