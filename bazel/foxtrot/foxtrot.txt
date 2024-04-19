@@ -6886,7 +6886,6 @@ fakofo
 frouzier
 fleer
 foliaged
-foliages
 foliaging
 furomonazole
 foliary
@@ -7583,6 +7582,7 @@ forebreast
 foreburton
 fuzzing
 forebush
+foliages
 forecabin
 forecaddie
 forecast
