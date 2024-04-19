@@ -7976,7 +7976,6 @@ grittle
 granes
 gunrooms
 granet
-grange
 grangerised
 grangerization
 grangerize
@@ -9465,6 +9464,7 @@ groundswells
 germaneness
 groundwall
 gandum
+grange
 groundward
 groundwards
 group

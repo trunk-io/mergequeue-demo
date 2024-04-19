@@ -5116,7 +5116,6 @@ denaturization
 denaturize
 denaturizer
 denaturizing
-denazify
 denazifies
 denazifying
 dendraspis
@@ -18325,6 +18324,7 @@ duodenoenterostomy
 duodenogram
 duodenojejunal
 duodenojejunostomy
+denazify
 duodenojejunostomies
 duodenopancreatectomy
 duodenoscopy
