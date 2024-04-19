@@ -3281,7 +3281,6 @@ emandibulate
 emane
 emanium
 emarcid
-emarginate
 emarginated
 eucalyptian
 evildoing
@@ -12369,6 +12368,7 @@ exemplifying
 exempted
 egipto
 exempting
+emarginate
 exemption
 exemptionist
 epacridaceous
