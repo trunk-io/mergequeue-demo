@@ -4167,7 +4167,6 @@ gasterosteoid
 glottogony
 gim
 gimbal
-gimbaled
 gimballed
 groundsheet
 groining
@@ -7036,6 +7035,7 @@ gooky
 gesundheit
 gool
 goolah
+gimbaled
 gutterlike
 goolde
 gools
