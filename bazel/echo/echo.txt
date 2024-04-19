@@ -4525,7 +4525,6 @@ equivocators
 elotherium
 encephalograph
 encephalographic
-electrotonic
 encephalographically
 encephaloid
 enforcing
@@ -13113,6 +13112,7 @@ expetible
 expiable
 expiated
 enregistration
+electrotonic
 expiating
 equitant
 entailment
