@@ -6470,7 +6470,6 @@ caviller
 cavillers
 cavilling
 cavillingly
-cavillingness
 cavillous
 cavils
 cavin
@@ -28480,6 +28479,7 @@ chalukyan
 crebrous
 creche
 creda
+cavillingness
 credal
 creddock
 carapaced
