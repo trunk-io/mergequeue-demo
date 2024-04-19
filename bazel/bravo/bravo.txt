@@ -9726,7 +9726,6 @@ bismarine
 bismark
 bismer
 bismerpund
-battledored
 bismillah
 bismite
 bismosol
@@ -13886,6 +13885,7 @@ boxcar
 bonify
 boxcars
 bowpin
+battledored
 boxed
 boxen
 boxerism
