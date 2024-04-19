@@ -3553,7 +3553,6 @@ forcepses
 fianced
 forthbringer
 figureless
-forsloth
 figurer
 facebread
 figures
@@ -10366,6 +10365,7 @@ fulminous
 frokin
 fletch
 frolic
+forsloth
 frolicful
 frolicked
 features
