@@ -18276,7 +18276,6 @@ cog
 cogboat
 cogence
 cretification
-cogences
 cogencies
 cogener
 cogeneric
@@ -30119,6 +30118,7 @@ crucifyfied
 crucifyfying
 crucifying
 crucifixions
+cogences
 cruciform
 cruciformity
 cruciformly
