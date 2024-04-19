@@ -12140,7 +12140,6 @@ baklawas
 bolide
 bolides
 bolimba
-brilliantness
 bolivar
 bolivares
 bolivian
@@ -15285,6 +15284,7 @@ bridgewater
 bridgework
 bridging
 bridie
+brilliantness
 bridle
 bridled
 bumbarge
