@@ -1662,7 +1662,6 @@ egremoigne
 egress
 egressed
 egresses
-egressing
 estadal
 egressor
 exiler
@@ -9347,6 +9346,7 @@ essentialized
 errancy
 errancies
 entrapments
+egressing
 esperantist
 errand
 eunectes
