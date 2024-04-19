@@ -5312,6 +5312,7 @@ aviso
 affied
 affies
 affying
+artel
 affile
 affiliable
 addio
@@ -20458,7 +20459,6 @@ arte
 artefac
 artefacts
 assentation
-artel
 artels
 artemas
 artemia
