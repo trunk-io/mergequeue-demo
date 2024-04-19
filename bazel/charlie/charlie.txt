@@ -7877,6 +7877,7 @@ cervicolumbar
 crystal
 cervicomuscular
 cerviconasal
+cribrous
 cervicoscapular
 cervicothoracic
 cervicovesical
@@ -28899,7 +28900,6 @@ cribration
 cribriform
 cribriformity
 cribrosity
-cribrous
 cribs
 comprehends
 cribworks
