@@ -3252,7 +3252,6 @@ geotectonics
 geoteuthis
 gomeril
 geotherm
-geothermally
 geothermic
 geothermometer
 geoty
@@ -7280,6 +7279,7 @@ getfd
 gospodin
 gosport
 gosports
+geothermally
 gossamer
 gossamered
 gossamery
