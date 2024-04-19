@@ -3863,7 +3863,6 @@ emf
 emulator
 emforth
 emic
-emicant
 emicate
 emication
 emyde
@@ -8400,6 +8399,7 @@ epitomic
 epitomical
 epitomically
 epitomise
+emicant
 endowed
 epitomiser
 epitomising
