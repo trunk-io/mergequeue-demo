@@ -1556,7 +1556,6 @@ conveyor
 calmato
 calmecac
 calmed
-calmer
 centrobaric
 calmest
 calmier
@@ -18450,6 +18449,7 @@ cohert
 cohesibility
 candidest
 cowthwort
+calmer
 cohesible
 cohesion
 cohesionless
