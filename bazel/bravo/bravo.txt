@@ -2722,7 +2722,6 @@ barmskin
 barn
 barnabas
 barnaby
-barnacle
 barnacled
 barnacles
 burnettizing
@@ -15268,6 +15267,7 @@ bridget
 burhinidae
 bridgetin
 bridgetree
+barnacle
 begin
 beefily
 bridgeway
