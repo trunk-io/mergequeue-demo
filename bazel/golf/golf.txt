@@ -1970,7 +1970,6 @@ gynopara
 gumshoe
 gowd
 gaudeamus
-groundwave
 gaudeamuses
 garrot
 gaudery
@@ -1996,6 +1995,7 @@ garrison
 gauffered
 gaufferer
 glacier
+groundwave
 gauffers
 gauffre
 garvie
