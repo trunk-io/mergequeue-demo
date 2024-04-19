@@ -3511,7 +3511,6 @@ embole
 exposal
 embolectomy
 enicuridae
-embolectomies
 embolemia
 emboli
 emboly
@@ -7815,6 +7814,7 @@ epigenic
 epigenist
 executancy
 exradio
+embolectomies
 epigeum
 epigyne
 epigyny
