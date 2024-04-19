@@ -4834,7 +4834,6 @@ falconers
 flagworm
 feridji
 flayed
-follicle
 fault
 front
 flaying
@@ -6315,6 +6314,7 @@ fishhold
 flukes
 flukeworm
 flukewort
+follicle
 fluky
 flukier
 flapjacks
