@@ -4671,7 +4671,6 @@ ephahs
 encyclopedial
 encyclopedian
 encyclopedias
-encyclopediast
 encamp
 encyclopedic
 encyclopedical
@@ -13882,6 +13881,7 @@ emprise
 enflagellate
 extramundane
 extramurally
+encyclopediast
 extramusical
 extranational
 evulge
