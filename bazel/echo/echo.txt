@@ -2324,7 +2324,6 @@ electrocautery
 evasion
 electroceramic
 electrochemical
-electrochemically
 electrochemistry
 electrochronometer
 equison
@@ -13061,6 +13060,7 @@ epistolographic
 experientialism
 experientialistic
 ethanols
+electrochemically
 extrapleural
 experiment
 eschaufe
