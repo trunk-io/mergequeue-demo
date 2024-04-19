@@ -10017,7 +10017,6 @@ bivouacs
 babiroussa
 barques
 bivvy
-biwa
 byway
 byways
 bushranger
@@ -15738,6 +15737,7 @@ brogueries
 boraces
 brogues
 broider
+biwa
 beriberic
 broiderer
 broidery
