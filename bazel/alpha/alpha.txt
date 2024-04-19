@@ -666,7 +666,6 @@ abomasal
 abomasum
 abomasus
 abomasusi
-abominability
 abominableness
 abominably
 abominate
@@ -2941,6 +2940,7 @@ acromiodeltoid
 acromyodi
 acromyodic
 acromyodous
+abominability
 acromiohyoid
 adjournment
 areometer
