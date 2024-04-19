@@ -8915,7 +8915,6 @@ characteriser
 characterising
 characterism
 characteristic
-characteristical
 characteristically
 characteristicalness
 characteristicness
@@ -11911,6 +11910,7 @@ choreatic
 chored
 choregi
 choregy
+characteristical
 choregrapher
 choregraphy
 choregraphic
