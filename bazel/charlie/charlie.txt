@@ -6639,6 +6639,7 @@ ceils
 ceint
 counterquestion
 ceinte
+coathangers
 colligation
 ceinture
 ceyssatite
@@ -17334,7 +17335,6 @@ coatee
 coatees
 clericity
 coaters
-coathangers
 coatie
 coatimondie
 cretinized
