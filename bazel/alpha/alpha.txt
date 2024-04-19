@@ -2312,6 +2312,7 @@ achroma
 achromacyte
 achromasia
 achromat
+actinal
 aperistalsis
 achromate
 achromatic
@@ -3065,7 +3066,6 @@ aquatint
 actification
 agrarian
 actin
-actinal
 actinautography
 actinautographic
 actine
