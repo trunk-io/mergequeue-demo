@@ -1362,6 +1362,7 @@ garde
 gnatsnapper
 gable
 gardeners
+glauconite
 gardenership
 gardenful
 gallberries
@@ -5042,7 +5043,6 @@ glaiket
 gavotted
 gharris
 glaiks
-glauconite
 glaymore
 galibi
 grubbiness
