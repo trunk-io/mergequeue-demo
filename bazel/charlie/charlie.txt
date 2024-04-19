@@ -17388,7 +17388,6 @@ cheson
 cupbearer
 cobaea
 cobalamin
-cobalamine
 cobalt
 cobaltamine
 cobaltammine
@@ -21667,6 +21666,7 @@ condylos
 corditis
 condylotomy
 condylure
+cobalamine
 cervicoaxillary
 condiment
 condimental
