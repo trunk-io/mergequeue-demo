@@ -2434,7 +2434,6 @@ geldability
 goodwill
 griffinish
 goodnesses
-gelded
 gelder
 gelders
 gobmouthed
@@ -8626,6 +8625,7 @@ greencoat
 gormandising
 greeney
 greenery
+gelded
 glycosuria
 glossingly
 greeneries
