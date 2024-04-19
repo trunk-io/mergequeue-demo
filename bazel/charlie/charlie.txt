@@ -3229,7 +3229,6 @@ caplin
 capling
 caplins
 caplock
-capmaker
 cordmaker
 capmaking
 capman
@@ -24797,6 +24796,7 @@ cleome
 coquetting
 coquettish
 coquettishly
+capmaker
 coquettishness
 coltskin
 coquicken
