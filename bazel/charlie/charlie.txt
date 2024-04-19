@@ -1394,7 +1394,6 @@ calyptoblastic
 calyptorhynchus
 calyptraea
 calyptranthes
-calyptras
 calyptrata
 calyptratae
 calyptriform
@@ -3380,6 +3379,7 @@ cotterite
 capsella
 capsheaf
 circumjacent
+calyptras
 capshore
 capsian
 capsicins
