@@ -9914,7 +9914,6 @@ chemoreflex
 chemoresistance
 chemosensitive
 chemosensitivities
-cladoselache
 chemoserotherapy
 chemoses
 caducary
@@ -29812,6 +29811,7 @@ crossbow
 crossbowmen
 crossbows
 crossbred
+cladoselache
 crossbreds
 crossbreed
 crossbreeding
