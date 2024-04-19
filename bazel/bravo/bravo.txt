@@ -4346,7 +4346,6 @@ bigeyes
 beaverize
 beaverkill
 beaverkin
-beaverlike
 beavers
 beaverskin
 beaverteen
@@ -13326,6 +13325,7 @@ bothies
 bothlike
 bardesanist
 boredness
+beaverlike
 bothnian
 blisses
 bothnic
