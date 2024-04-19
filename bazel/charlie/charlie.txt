@@ -8851,7 +8851,6 @@ chapiter
 chapiters
 chapitral
 chaplain
-chaplaincy
 chaplaincies
 chaplains
 chaplanry
@@ -10825,6 +10824,7 @@ chinooks
 chinos
 chinotoxine
 chinotto
+chaplaincy
 chinovnik
 chinpiece
 chins

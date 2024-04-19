@@ -1932,7 +1932,6 @@ grainering
 gateward
 growable
 goaf
-groose
 gatewards
 gyrostabilized
 gatewoman
@@ -9058,6 +9057,7 @@ grimsire
 grin
 germination
 grinch
+groose
 grincome
 grimgribber
 grindable
