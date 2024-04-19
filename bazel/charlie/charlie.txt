@@ -4479,7 +4479,6 @@ carnationist
 carnations
 carnauba
 carnaubas
-carnaubyl
 carne
 carneau
 carnegie
@@ -30167,6 +30166,7 @@ cruise
 cruised
 cruiser
 cruisers
+carnaubyl
 cruiserweight
 cruises
 cruising
