@@ -9873,7 +9873,6 @@ chemitypies
 chemizo
 chemmy
 cornucopia
-chemoautotrophy
 chastizer
 chemoautotrophic
 chemoautotrophically
@@ -31533,6 +31532,7 @@ curtalaxes
 curtals
 curtana
 curtate
+chemoautotrophy
 controversialists
 curtation
 curted
