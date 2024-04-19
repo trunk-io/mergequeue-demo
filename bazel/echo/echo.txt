@@ -6594,6 +6594,7 @@ exuviates
 enterer
 ellipses
 enterers
+enorthotrope
 enterfeat
 entergogenic
 enteria
@@ -13460,7 +13461,6 @@ excantation
 exsanguination
 exsanguine
 exsanguineous
-enorthotrope
 exsanguinous
 equipollence
 expose
