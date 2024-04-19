@@ -28498,7 +28498,6 @@ credenza
 credenzas
 credere
 credibility
-credibilities
 credible
 credibleness
 credibly
@@ -30721,6 +30720,7 @@ culiciform
 culicifugal
 culicifuge
 choragium
+credibilities
 culicinae
 culicine
 chiffon
