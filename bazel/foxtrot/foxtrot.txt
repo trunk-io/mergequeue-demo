@@ -3870,6 +3870,7 @@ filtrates
 filtrating
 fiberizer
 filtre
+fract
 fimbria
 fimbriae
 formicary
@@ -9226,7 +9227,6 @@ fracedinous
 function
 frakfurt
 fracid
-fract
 fouls
 fractal
 fracted
