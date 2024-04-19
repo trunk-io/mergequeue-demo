@@ -2623,7 +2623,6 @@ baritone
 barytone
 baritones
 barytones
-byres
 bedaff
 barytons
 barytophyllite
@@ -11585,6 +11584,7 @@ boatage
 bacterioscopical
 barspoon
 boatbuilder
+byres
 boatbuilding
 boated
 boatel
