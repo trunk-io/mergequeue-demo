@@ -778,7 +778,6 @@ fanegadas
 fanes
 fanfarade
 feudalizable
-fanfares
 fellowlike
 favor
 footslogging
@@ -5470,6 +5469,7 @@ fletcherism
 fletcherite
 following
 fletcherize
+fanfares
 fletchers
 fletches
 fletchings
