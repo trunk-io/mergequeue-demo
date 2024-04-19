@@ -2904,7 +2904,6 @@ cantily
 choroidea
 chinquapin
 casuarinaceous
-cantillation
 cantina
 cantinas
 canting
@@ -14321,6 +14320,7 @@ circumflant
 circumflect
 circumflex
 circumfluence
+cantillation
 cavendish
 circumfluent
 circumfluous
