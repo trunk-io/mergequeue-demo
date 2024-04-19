@@ -7914,6 +7914,7 @@ biberon
 bibi
 bibio
 bibionid
+bacteriolytic
 bibionidae
 bibiri
 bibitory
@@ -18017,7 +18018,6 @@ bushwhack
 bronzelike
 bordured
 beplague
-bacteriolytic
 bushwhacked
 bushwhackers
 bushwhacking

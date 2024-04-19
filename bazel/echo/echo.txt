@@ -2382,7 +2382,6 @@ excreation
 eskar
 electrodialyses
 electrodialysis
-explodent
 electrodialitic
 ethnarchies
 electrodialytic
@@ -4351,6 +4350,7 @@ enamel
 euchring
 expulsive
 enamelers
+explodent
 enameling
 enolization
 enamelist
