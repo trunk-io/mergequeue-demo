@@ -6134,7 +6134,6 @@ aghan
 aghanee
 aghas
 aghast
-aghastness
 aghlabite
 aghorapanthi
 aghori
@@ -19038,6 +19037,7 @@ antiphonaries
 archipelagic
 antigens
 archipelago
+aghastness
 archipelagoes
 alibi
 aures
