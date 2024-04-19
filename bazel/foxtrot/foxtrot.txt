@@ -7338,7 +7338,6 @@ fourer
 footstep
 forage
 facers
-foraged
 fluttery
 forager
 foraging
@@ -9626,6 +9625,7 @@ freakiness
 fliffus
 freaking
 freakish
+foraged
 freakishness
 figurers
 fora
