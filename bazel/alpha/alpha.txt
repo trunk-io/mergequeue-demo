@@ -1594,7 +1594,6 @@ accommodate
 accommodated
 adscriptive
 accommodateness
-accommodates
 accommodating
 accommodatingly
 accommodatingness
@@ -4713,6 +4712,7 @@ abashedly
 advocatrice
 advoyer
 advoke
+accommodates
 advolution
 affricative
 advoteresse
