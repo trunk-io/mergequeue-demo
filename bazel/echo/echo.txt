@@ -5792,7 +5792,6 @@ evans
 engrammatic
 engramme
 engrammes
-engrammic
 ergographic
 engrandize
 engrandizement
@@ -10305,6 +10304,7 @@ einsteinium
 etherize
 etherized
 enhanced
+engrammic
 etherizes
 etherizing
 eudora
