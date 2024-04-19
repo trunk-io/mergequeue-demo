@@ -2059,7 +2059,6 @@ gullage
 gauntness
 garnerage
 garland
-gauntry
 gaup
 grahamite
 gunfought
@@ -2840,6 +2839,7 @@ glug
 grasps
 grouses
 genitor
+gauntry
 gemmoid
 genitory
 gegenion
