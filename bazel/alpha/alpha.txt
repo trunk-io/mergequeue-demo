@@ -1730,7 +1730,6 @@ apollonia
 accrescence
 accrescendi
 accrescendo
-accrescent
 accretal
 accrete
 accretes
@@ -2713,6 +2712,7 @@ acquiescer
 acquiesces
 amygdalotomy
 acquiescing
+accrescent
 acquiescingly
 apophonies
 allocated

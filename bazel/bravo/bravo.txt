@@ -1880,7 +1880,6 @@ bandhu
 begulfing
 bandyball
 bandicoy
-bandicoot
 bloodier
 bandido
 bandidos
@@ -7616,6 +7615,7 @@ believe
 bewailable
 bewailed
 bewailer
+bandicoot
 bewailers
 behung
 beglerbey
