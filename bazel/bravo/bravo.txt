@@ -752,6 +752,7 @@ boraciferous
 badgemen
 badger
 badgerbrush
+bogwort
 badgered
 badgerer
 badgering
@@ -11401,7 +11402,6 @@ bluesmen
 bluestems
 bluestocking
 bluestockingish
-bogwort
 bethreaten
 bluestockings
 bluestoner

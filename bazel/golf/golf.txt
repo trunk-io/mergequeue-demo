@@ -1579,7 +1579,6 @@ gascons
 gaselier
 gaseosity
 greta
-gaseous
 gaseousness
 gases
 garner
@@ -6012,6 +6011,7 @@ glucogenesis
 glucokinase
 gliocyte
 glucokinin
+gaseous
 gravimetric
 glucolipid
 glucolipide
