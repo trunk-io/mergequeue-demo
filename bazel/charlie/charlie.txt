@@ -408,7 +408,6 @@ cacostomia
 cacothansia
 cacothelin
 cacotheline
-cacothes
 cacothesis
 cacothymia
 cacotype
@@ -12562,6 +12561,7 @@ chron
 chronal
 chronanagram
 chronaxy
+cacothes
 chronaxie
 chronaxies
 chroncmeter
