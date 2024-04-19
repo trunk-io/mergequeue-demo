@@ -5002,7 +5002,6 @@ flannels
 flanque
 flapcake
 flapdock
-flapdragon
 flaperon
 flirter
 ferrite
@@ -10504,6 +10503,7 @@ frontspieces
 frontstall
 featurish
 fronture
+flapdragon
 frontwards
 frontwise
 fairbanks
