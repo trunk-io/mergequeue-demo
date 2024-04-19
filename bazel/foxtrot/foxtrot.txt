@@ -3634,7 +3634,6 @@ filched
 francophobe
 fatimid
 fineries
-filcher
 filching
 filchingly
 file
@@ -5394,6 +5393,7 @@ fleecing
 fleeing
 fleerer
 fleering
+filcher
 frisii
 fleeringly
 faradocontractility
