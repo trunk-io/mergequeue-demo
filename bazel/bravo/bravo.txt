@@ -5429,6 +5429,7 @@ beguilingly
 bandy
 beguin
 bridesman
+buzzsaw
 beguines
 begulf
 begulfed
@@ -18392,7 +18393,6 @@ buzzing
 buzzingly
 buzzle
 beardfish
-buzzsaw
 buzzword
 buzzwords
 bubber
