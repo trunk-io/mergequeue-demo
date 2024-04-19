@@ -17514,7 +17514,6 @@ apothegmatical
 apothegmatically
 apothegmatist
 apothegmatize
-apothegms
 apothem
 apothems
 apotheosis
@@ -25087,6 +25086,7 @@ addiction
 axiferous
 axifugal
 axil
+apothegms
 axile
 axilemma
 annealed
