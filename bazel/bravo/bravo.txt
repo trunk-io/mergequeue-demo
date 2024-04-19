@@ -6367,7 +6367,6 @@ benson
 bent
 bolthead
 brandsolder
-bentang
 bentgrass
 belaboured
 benthal
@@ -16422,6 +16421,7 @@ brusure
 brut
 brutalisation
 brutalise
+bentang
 brutalised
 brontometer
 brutalism
