@@ -10628,7 +10628,6 @@ aminodiphenyl
 amynodon
 amynodont
 aminoformic
-aminogen
 aminoglutaric
 aminoguanidine
 aminoid
@@ -10725,6 +10724,7 @@ antisepalous
 ammer
 ammeter
 ammeters
+aminogen
 ammi
 ammiaceous
 ammines
