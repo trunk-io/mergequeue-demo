@@ -2760,6 +2760,7 @@ fescues
 fesels
 fesse
 fessed
+foldouts
 fesses
 flaunche
 fessewise
@@ -6865,7 +6866,6 @@ folding
 foraminiferan
 fikery
 foldout
-foldouts
 folds
 foldure
 fairyisms
