@@ -6754,7 +6754,6 @@ aiguiere
 aiguille
 apocryphally
 aiguilles
-adonises
 aiguillette
 aiguilletted
 ayield
@@ -20011,6 +20010,7 @@ armonicas
 armor
 armoracia
 armorbearer
+adonises
 armorer
 armory
 armchairs
