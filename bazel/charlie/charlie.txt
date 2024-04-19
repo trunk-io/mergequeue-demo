@@ -6785,7 +6785,6 @@ cellarets
 caffeine
 cellarette
 cellaring
-citrinous
 cellarmen
 cartograph
 cellars
@@ -24534,6 +24533,7 @@ copepods
 coper
 copernican
 creatophagous
+citrinous
 copernicanism
 copernicans
 copernicia
