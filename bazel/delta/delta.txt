@@ -13973,7 +13973,6 @@ dispensable
 distributionist
 distributions
 distributival
-distributive
 distributiveness
 deservingness
 distributivity
@@ -14718,6 +14717,7 @@ deposed
 doctoring
 doctorization
 doctorize
+distributive
 doctorless
 doctors
 doctorship
