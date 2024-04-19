@@ -36,7 +36,6 @@ faffy
 fabrics
 filters
 futurities
-fallacies
 fastiia
 fabrique
 fuddledness
@@ -3281,6 +3280,7 @@ fictionist
 fictionistic
 fictionization
 foredoing
+fallacies
 fermion
 fictionize
 fighters

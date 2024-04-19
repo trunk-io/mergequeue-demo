@@ -4831,7 +4831,6 @@ bibliophilism
 bedrizzle
 bedroll
 bedrolls
-bedroom
 bedrooms
 bedrop
 bedrown
@@ -6006,6 +6005,7 @@ ballistic
 beltie
 belting
 beltings
+bedroom
 bangalay
 beltir
 benumbing
