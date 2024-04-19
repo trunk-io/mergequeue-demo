@@ -5180,7 +5180,6 @@ beforeness
 beforesaid
 beforested
 beforetimes
-befortune
 befoul
 biolytic
 baffled
@@ -15607,6 +15606,7 @@ broadaxes
 broadbrim
 burred
 broadcast
+befortune
 broadcaster
 broadcasters
 broadcastings
