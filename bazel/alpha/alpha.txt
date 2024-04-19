@@ -10809,7 +10809,6 @@ ammonolyzed
 ammonolyzing
 ammophila
 ammophilous
-ammoresinol
 ammoreslinol
 ammos
 ammotherapy
@@ -21521,6 +21520,7 @@ aspired
 aspiree
 aspirer
 aspirers
+ammoresinol
 aspires
 aspirin
 aspiringly
