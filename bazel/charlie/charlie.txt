@@ -5430,7 +5430,6 @@ catpipe
 camisades
 conductances
 casuistries
-casula
 casule
 casus
 caswellite
@@ -12068,6 +12067,7 @@ chorussed
 chorusses
 chorussing
 chorwat
+casula
 chose
 chosen
 confrication
