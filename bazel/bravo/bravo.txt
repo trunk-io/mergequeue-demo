@@ -10812,7 +10812,6 @@ bedward
 blessed
 boyards
 blessedest
-blessedly
 blessedness
 blesser
 blesses
@@ -15726,6 +15725,7 @@ brogue
 brogueful
 basiparachromatin
 broguer
+blessedly
 broguery
 brogueries
 boraces
