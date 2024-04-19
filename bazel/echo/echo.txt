@@ -4680,7 +4680,6 @@ extroverted
 encipher
 ersatzes
 ease
-enciphered
 enciphering
 encipherment
 executonis
@@ -9446,6 +9445,7 @@ erudition
 erugate
 erugation
 emerant
+enciphered
 eruginous
 empathetically
 erugo
