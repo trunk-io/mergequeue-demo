@@ -3537,7 +3537,6 @@ denegation
 defunctionalize
 defunctive
 defuse
-defused
 defuses
 defusion
 dingles
@@ -4556,6 +4555,7 @@ demicivilized
 demicoronal
 demicuirass
 doxologies
+defused
 dingle
 drinkableness
 demiculverin
