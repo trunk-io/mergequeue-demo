@@ -4424,7 +4424,6 @@ footgear
 fishgarth
 fishhood
 fishhooks
-faqir
 ficelle
 folkmotes
 fishyard
@@ -7164,6 +7163,7 @@ footboard
 footboards
 friszka
 footboy
+faqir
 foramina
 footboys
 footbridge
