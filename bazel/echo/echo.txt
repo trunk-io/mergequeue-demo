@@ -2642,7 +2642,6 @@ electrotelegraphy
 electrotelethermometer
 endplay
 electrotellurograph
-electrothanatosis
 exogens
 equipollently
 electrotherapeutical
@@ -9141,6 +9140,7 @@ erythrine
 endogalvanism
 erythrinidae
 exclusory
+electrothanatosis
 eteocretes
 edifier
 edriophthalma
