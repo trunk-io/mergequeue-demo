@@ -16695,6 +16695,7 @@ closures
 closuring
 clot
 clotbur
+covings
 clapbread
 clote
 chaquetas
@@ -29207,7 +29208,6 @@ creoles
 cryptical
 cryptically
 crypticness
-covings
 crypto
 cryptoagnostic
 cryptoanalysis
