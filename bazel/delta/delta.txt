@@ -8422,7 +8422,6 @@ dialogist
 dialogistical
 departements
 dialogize
-decouple
 divia
 dialogized
 dogshore
@@ -9095,6 +9094,7 @@ did
 dailiness
 didache
 drubbed
+decouple
 didachist
 didactic
 didactical
