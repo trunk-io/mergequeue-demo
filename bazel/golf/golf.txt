@@ -941,7 +941,6 @@ gossan
 grammaticality
 gamelang
 gamelans
-geod
 gameless
 gentian
 gamely
@@ -6342,6 +6341,7 @@ gorgonaceous
 germiparity
 grammaticize
 glycosidic
+geod
 garibaldi
 goadlike
 goadsman
