@@ -5535,7 +5535,6 @@ glyphs
 greenness
 glyptic
 glyptician
-glyptics
 gibli
 gunl
 glyptodon
@@ -10097,6 +10096,7 @@ gazetteer
 guested
 guesthouse
 guesting
+glyptics
 giottesque
 guestmaster
 gabeller
