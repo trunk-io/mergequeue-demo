@@ -5478,7 +5478,6 @@ fleshpot
 flet
 flagfall
 fleta
-fletched
 fletcherism
 fletcherite
 following
@@ -10959,6 +10958,7 @@ fictile
 fullgrownness
 fullhearted
 fertilely
+fletched
 frison
 fully
 fullmouth

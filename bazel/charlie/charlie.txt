@@ -8855,7 +8855,6 @@ chaperoned
 chaperonless
 chaperons
 chapes
-chapfallen
 chapfallenly
 chapin
 chapiter
@@ -25616,6 +25615,7 @@ corpulently
 corpulentness
 corpus
 corpuscularian
+chapfallen
 completed
 corpuscularity
 corpusculated
