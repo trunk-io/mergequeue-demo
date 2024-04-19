@@ -5229,7 +5229,6 @@ befringes
 befringing
 befrocked
 beauteously
-befrounce
 befuddle
 befuddled
 bram
@@ -12018,6 +12017,7 @@ bromocresol
 boildown
 boiled
 boiler
+befrounce
 boilerful
 boilerless
 boilermaker
