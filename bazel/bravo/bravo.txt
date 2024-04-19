@@ -12538,7 +12538,6 @@ bonorum
 bonos
 bons
 bagatelle
-bullom
 bonsai
 bills
 bonsela
@@ -17110,6 +17109,7 @@ bulletlike
 bulletmaker
 battalia
 burghmote
+bullom
 breadseller
 bulletmaking
 bulletproof
