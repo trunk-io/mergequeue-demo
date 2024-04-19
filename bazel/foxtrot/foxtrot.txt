@@ -5741,7 +5741,6 @@ fundraising
 flyswatter
 flit
 flamens
-fenagler
 ferrocalcite
 flitch
 frankist
@@ -11512,6 +11511,7 @@ furtherer
 fairleader
 froggery
 furtherly
+fenagler
 fresnels
 flaughtbred
 furthermore
