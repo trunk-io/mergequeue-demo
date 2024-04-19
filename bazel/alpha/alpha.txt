@@ -14172,7 +14172,6 @@ anaesthyl
 anteflected
 anteflexed
 anteflexion
-antefurca
 antefurcae
 antefurcal
 antegarden
@@ -17234,6 +17233,7 @@ ailuropus
 apogalacteum
 apogamy
 apogamic
+antefurca
 antibody
 apogamies
 apogamous
