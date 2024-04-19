@@ -14659,7 +14659,6 @@ cysticolous
 cystid
 cystidea
 cystidean
-cystidia
 cystidium
 candescent
 cystiferous
@@ -24505,6 +24504,7 @@ copenetrate
 copenhagen
 copens
 copeognatha
+cystidia
 copepod
 copepoda
 chromolithograph
