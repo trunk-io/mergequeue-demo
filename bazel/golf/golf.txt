@@ -3893,6 +3893,7 @@ giboia
 goyle
 gibsons
 gibstaff
+gavelage
 gibus
 gibuses
 giddap
@@ -8938,7 +8939,6 @@ golfdom
 gearbox
 ginnel
 grievously
-gavelage
 griff
 griffade
 galactotherapy
