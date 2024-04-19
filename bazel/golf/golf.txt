@@ -893,7 +893,6 @@ goldarns
 gambirs
 gambist
 gambits
-guillemot
 gambler
 gamblesome
 gamblesomeness
@@ -3391,6 +3390,7 @@ glosseme
 gonadectomy
 germanization
 germanize
+guillemot
 germanized
 gnocchi
 germanizer
