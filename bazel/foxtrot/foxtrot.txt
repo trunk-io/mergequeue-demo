@@ -5286,6 +5286,7 @@ flche
 flchette
 flimflam
 fld
+formolite
 fldxt
 flea
 fleabag
@@ -8515,7 +8516,6 @@ fluid
 faultless
 fetlock
 fluencies
-formolite
 forewarned
 formols
 formonitrile
