@@ -5817,7 +5817,6 @@ depone
 dreck
 deponents
 depones
-dwt
 deponing
 depopulated
 depopulates
@@ -9199,6 +9198,7 @@ damascenes
 died
 decanters
 dyed
+dwt
 dynasties
 diedric
 dieffenbachia
