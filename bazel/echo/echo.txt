@@ -9955,7 +9955,6 @@ emender
 estampie
 eolith
 estancia
-exhumated
 estancias
 estanciero
 erosion
@@ -9988,6 +9987,7 @@ esterifying
 esterization
 esterize
 enterocrinin
+exhumated
 esterling
 exuberancy
 elegiambic
