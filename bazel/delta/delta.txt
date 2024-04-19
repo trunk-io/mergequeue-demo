@@ -16362,6 +16362,7 @@ downtake
 downthrow
 downthrown
 downthrust
+dustheaps
 downtime
 downton
 downtown
@@ -18569,7 +18570,6 @@ dusterman
 dusters
 dustfall
 dustheap
-dustheaps
 dusty
 dustier
 dustiest
