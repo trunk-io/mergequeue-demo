@@ -5416,6 +5416,7 @@ afflicter
 afflicting
 arenas
 afflictingly
+analgen
 afflictionless
 afflictions
 archoplasm
@@ -11738,7 +11739,6 @@ analepsis
 analeptic
 anthidium
 analeptical
-analgen
 analgesia
 analgesics
 analgesidae

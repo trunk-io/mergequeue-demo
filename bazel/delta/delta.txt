@@ -3443,6 +3443,7 @@ defog
 defogged
 disyllable
 defoggers
+deluder
 defogging
 defogs
 defoil
@@ -4311,7 +4312,6 @@ delude
 deluded
 duftry
 dipperful
-deluder
 decentralisation
 deludes
 ditrigonal
