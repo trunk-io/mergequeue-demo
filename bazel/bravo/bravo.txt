@@ -1753,7 +1753,6 @@ balsams
 balsamweed
 boozing
 balsas
-balt
 baltei
 baltetei
 balthasar
@@ -5675,6 +5674,7 @@ belatedness
 belating
 belaud
 belauded
+balt
 belauder
 belauds
 belch
