@@ -5926,7 +5926,6 @@ enjamb
 enjambed
 enjambement
 enjambment
-exemplary
 enjambments
 enjelly
 ectomere
@@ -13649,6 +13648,7 @@ externe
 externes
 ermanaric
 externization
+exemplary
 espece
 externomedian
 externs
