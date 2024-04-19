@@ -1960,7 +1960,6 @@ bandrol
 bandsaw
 bandsawed
 bandsawn
-battailous
 bandsman
 bandsmen
 bandspreading
@@ -8751,6 +8750,7 @@ bilos
 biloxi
 bilsh
 bilsteds
+battailous
 biltong
 bima
 bimaculate
