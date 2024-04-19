@@ -1490,7 +1490,6 @@ garnished
 garnishee
 garnisheed
 garnishees
-garnisheing
 garnishes
 garnishment
 garnison
@@ -9480,6 +9479,7 @@ gangway
 grouper
 groupers
 glycolipin
+garnisheing
 grouping
 grisbet
 gecking
