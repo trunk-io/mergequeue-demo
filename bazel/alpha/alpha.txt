@@ -10908,7 +10908,6 @@ amyridaceae
 amoebobacterieae
 amoebocyte
 amoebogeniae
-amoeboid
 amoebous
 amoebula
 amoy
@@ -15019,6 +15018,7 @@ anticomment
 anticommercial
 anticommercialism
 anticommercialistic
+amoeboid
 anticommerciality
 anachronic
 anticommunism
