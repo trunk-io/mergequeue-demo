@@ -9024,6 +9024,7 @@ chariots
 chariotway
 charism
 charisma
+counterpointe
 charismas
 charismata
 consuete
@@ -26968,7 +26969,6 @@ conjure
 counterplotting
 chimneypot
 counterpoint
-counterpointe
 counterpointing
 counterpoints
 counterpoise
