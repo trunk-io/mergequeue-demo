@@ -2827,6 +2827,7 @@ baronies
 baronize
 baronized
 baronnes
+benzoxyphenanthrene
 baronries
 barons
 briggs
@@ -6547,7 +6548,6 @@ benzoxate
 bolection
 benzoxyacetic
 benzoxycamphor
-benzoxyphenanthrene
 benzpinacone
 benzpyrene
 benztrioxazine
