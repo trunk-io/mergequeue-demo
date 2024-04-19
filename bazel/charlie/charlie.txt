@@ -9806,7 +9806,6 @@ crucialness
 chemehuevi
 chemesthesis
 chemiatric
-chemiatrist
 chemic
 chemical
 contraire
@@ -10874,6 +10873,7 @@ chippage
 cordwain
 chippendale
 chipper
+chemiatrist
 chippered
 chippering
 chippers
