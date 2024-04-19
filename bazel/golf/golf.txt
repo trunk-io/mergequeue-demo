@@ -1928,7 +1928,6 @@ glutenous
 grugrus
 gatemaker
 glaur
-gatemen
 genetical
 gateposts
 gulash
@@ -9054,6 +9053,7 @@ grinch
 groose
 grincome
 grindable
+gatemen
 glycerinated
 glossopalatine
 guaranteeship
