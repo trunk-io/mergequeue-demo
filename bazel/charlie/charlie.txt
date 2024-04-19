@@ -20305,7 +20305,6 @@ cashiers
 communes
 communicability
 communicable
-communicably
 communicant
 communicate
 communicates
@@ -24255,6 +24254,7 @@ coobah
 cacuminate
 cooboos
 cooch
+communicably
 cooches
 coodle
 cooed

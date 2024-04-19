@@ -4621,6 +4621,7 @@ adversariness
 adversarious
 adversative
 adversatively
+analogice
 adverse
 adversed
 adversely
@@ -11785,7 +11786,6 @@ analogic
 autocratically
 analogical
 analogicalness
-analogice
 analogies
 analogions
 angiogram
