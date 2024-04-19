@@ -19717,6 +19717,7 @@ combinant
 combinate
 combination
 combinational
+corrigent
 combinations
 combinative
 combinator
@@ -25710,7 +25711,6 @@ corrige
 corrigenda
 compossibility
 corrigendum
-corrigent
 corrigibility
 corrigible
 chainbearer
