@@ -731,7 +731,6 @@ fluorination
 fanam
 fanatic
 fussock
-fortune
 fanatically
 filled
 fanaticalness
@@ -10450,6 +10449,7 @@ frontbencher
 favorably
 frontcourt
 fronted
+fortune
 fronter
 frontier
 frontierless
