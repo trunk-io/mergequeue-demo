@@ -6112,7 +6112,6 @@ bemartyr
 bemouth
 bemuck
 bemuddy
-bemuddled
 bemuddlement
 bemuddles
 bemuddling
@@ -8565,6 +8564,7 @@ biliation
 bilic
 bilifaction
 biliferous
+bemuddled
 backfall
 benzazole
 bacchian
