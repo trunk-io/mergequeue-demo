@@ -6865,6 +6865,7 @@ airbags
 airbills
 airboat
 airboats
+astern
 airborn
 airbound
 airbrained
@@ -22065,7 +22066,6 @@ asterismal
 asterisms
 asyndesis
 asterixis
-astern
 asternal
 adenocancroid
 asternata
