@@ -6011,7 +6011,6 @@ catling
 catlings
 catlinite
 catlins
-catmalison
 catmint
 cumene
 catmints
@@ -25505,6 +25504,7 @@ coronamen
 coronary
 coronas
 coronate
+catmalison
 corrosible
 coronations
 coronatorial
