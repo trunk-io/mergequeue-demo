@@ -9373,7 +9373,6 @@ diffracting
 diffraction
 diffractions
 defense
-directionless
 diffractively
 dumped
 diffractiveness
@@ -14367,6 +14366,7 @@ deadline
 divident
 divider
 decertification
+directionless
 dromograph
 dividers
 dividingly
