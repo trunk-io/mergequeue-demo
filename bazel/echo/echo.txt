@@ -1772,7 +1772,6 @@ eliding
 eyelessness
 eyelet
 eyeleted
-eyelets
 eyeletted
 eyeletting
 eyelid
@@ -5952,6 +5951,7 @@ eosinophilic
 effeminate
 enjoinment
 enjoins
+eyelets
 enkennel
 entwisted
 enkernel
