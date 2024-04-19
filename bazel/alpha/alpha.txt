@@ -1860,7 +1860,6 @@ aceanthrenequinone
 acecaffin
 acecaffine
 acedy
-acedia
 acediamin
 acediamine
 acedias
@@ -10019,6 +10018,7 @@ ambitiousness
 ambits
 ambitty
 ambivalence
+acedia
 ambivalency
 aiger
 ambivalent
