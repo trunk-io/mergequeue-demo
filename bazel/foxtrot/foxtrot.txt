@@ -5102,7 +5102,6 @@ fellahin
 flasklet
 flasks
 flasque
-flat
 fids
 flatbed
 flatcaps
@@ -10799,6 +10798,7 @@ frustration
 frustrative
 frustratory
 frustula
+flat
 frustule
 frustulent
 frustules
