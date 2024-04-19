@@ -1532,7 +1532,6 @@ ballasting
 ballat
 ballata
 ballate
-ballaton
 batikulin
 ballatoon
 ballbuster
@@ -9607,6 +9606,7 @@ bromides
 biscutate
 bisdiapason
 babbitter
+ballaton
 bisdimethylamino
 bisect
 berate
