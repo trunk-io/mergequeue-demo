@@ -9757,7 +9757,6 @@ amalg
 amalgam
 amalgamable
 amalgamate
-amalgamates
 amalgamating
 antimonarchical
 amalgamation
@@ -13573,6 +13572,7 @@ annihilationist
 annihilationistic
 annihilationistical
 annihilative
+amalgamates
 annihilator
 annihilatory
 annihilators
