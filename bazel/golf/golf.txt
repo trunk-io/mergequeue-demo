@@ -806,7 +806,6 @@ glycid
 gerbillinae
 galvanoglyphy
 galvanography
-galvanographic
 galvanolysis
 galvanology
 galvanologist
@@ -5929,6 +5928,7 @@ gattine
 galera
 glottalization
 girl
+galvanographic
 glottalize
 germinates
 gymnurinae
