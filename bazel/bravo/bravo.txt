@@ -5671,7 +5671,6 @@ balt
 belauder
 belauds
 belch
-bronzier
 belched
 belcher
 belches
@@ -18281,6 +18280,7 @@ buttermonger
 buttermouth
 butternose
 barathrum
+bronzier
 butternuts
 butterpaste
 butterroot
