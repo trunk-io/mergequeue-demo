@@ -3965,7 +3965,6 @@ fatiguing
 fineish
 fineleaf
 fineless
-finement
 fineness
 finer
 finery
@@ -7515,6 +7514,7 @@ flittingly
 fordrive
 fords
 furling
+finement
 fumattoria
 foreact
 false
