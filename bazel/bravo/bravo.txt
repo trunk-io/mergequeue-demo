@@ -3616,7 +3616,6 @@ bathysmal
 bathysophic
 bathysophical
 bathysphere
-bathyspheres
 bathythermogram
 bathythermograph
 bathkol
@@ -14404,6 +14403,7 @@ bowralite
 braizes
 bog
 brakeages
+bathyspheres
 braked
 brakehead
 brakeless
