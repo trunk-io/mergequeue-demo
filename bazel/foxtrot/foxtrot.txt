@@ -4241,6 +4241,7 @@ fireless
 firelight
 floozie
 flosh
+flab
 firelit
 firelocks
 firemanship
@@ -9245,7 +9246,6 @@ ferried
 foveolate
 fractionating
 fractionation
-flab
 fossorial
 fractioned
 fractionisation
