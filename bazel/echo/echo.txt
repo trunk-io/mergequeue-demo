@@ -335,7 +335,6 @@ ebcasc
 enterosyphilis
 ebcd
 ebcdic
-ebdomade
 eben
 experts
 electrepeter
@@ -2677,6 +2676,7 @@ electrotyping
 electrotypist
 electrotitration
 electrotonize
+ebdomade
 electrotrephine
 electrotropic
 electrophilically
