@@ -5032,6 +5032,7 @@ fuligo
 fitched
 flaps
 flare
+footbeat
 flareback
 foramens
 ferments
@@ -7156,7 +7157,6 @@ footballist
 footballs
 footbath
 footbaths
-footbeat
 footblower
 footboard
 footboards
