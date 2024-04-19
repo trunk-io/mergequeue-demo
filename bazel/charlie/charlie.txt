@@ -86,7 +86,6 @@ cabbies
 cabble
 cabbled
 cabbler
-cabdriver
 chars
 cabdriving
 cabecudo
@@ -27768,6 +27767,7 @@ cozening
 cozeningly
 cozens
 casuistical
+cabdriver
 cozes
 cerebroside
 cozy
