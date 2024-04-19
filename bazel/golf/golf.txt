@@ -809,7 +809,6 @@ grotzen
 gradations
 gratifications
 galvanomagnetic
-gelidium
 galvanomagnetism
 galvanometer
 galvanometers
@@ -10620,6 +10619,7 @@ gurgeon
 gombeenism
 gurgeons
 glossopyrosis
+gelidium
 giambeux
 gurgitation
 gurgled
