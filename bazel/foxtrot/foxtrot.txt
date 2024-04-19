@@ -2514,7 +2514,6 @@ flexity
 fermions
 fermis
 fermium
-fermorite
 fern
 fastigium
 floripondio
@@ -11296,6 +11295,7 @@ funnels
 funny
 feneration
 funnier
+fermorite
 funnies
 funniest
 funnily
