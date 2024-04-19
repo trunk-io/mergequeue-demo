@@ -13032,6 +13032,7 @@ crumbable
 crates
 cyanogenamide
 cyanogenesis
+collocationable
 cyanogenetic
 cyanogenic
 cyanogens
@@ -19120,7 +19121,6 @@ collocated
 collocates
 collocating
 collocation
-collocationable
 collocational
 collocations
 collocative
