@@ -6106,7 +6106,6 @@ enneasemic
 enneasepalous
 enneatic
 enneatical
-entohyal
 ennerve
 empeine
 ennew
@@ -12718,6 +12717,7 @@ exomorphic
 exomorphism
 exomphalos
 exomphalous
+entohyal
 embryogeny
 exomphalus
 expandibility
