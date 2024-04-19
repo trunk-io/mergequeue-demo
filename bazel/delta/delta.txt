@@ -4176,7 +4176,6 @@ delint
 dacryohelcosis
 delinter
 deliquate
-deliquesce
 deliquesces
 deliquescing
 deliquiate
@@ -12150,6 +12149,7 @@ deride
 disfrequent
 disfriar
 discoursiveness
+deliquesce
 disfrock
 disfrocked
 disfrocking
