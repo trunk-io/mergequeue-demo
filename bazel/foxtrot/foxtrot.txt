@@ -5442,6 +5442,7 @@ fleshen
 fogydom
 forgeful
 flesher
+fossilizable
 fleshful
 fleshhood
 farcied
@@ -8882,7 +8883,6 @@ flowages
 frameableness
 fossilism
 fossilist
-fossilizable
 fossilizing
 furcular
 fossillike
