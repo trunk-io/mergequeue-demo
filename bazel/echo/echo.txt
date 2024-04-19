@@ -8493,7 +8493,6 @@ epos
 epitomes
 eutony
 epotation
-epoxy
 epoxides
 epoxidize
 epoxied
@@ -13432,6 +13431,7 @@ expurgation
 expurgational
 ethan
 expurgations
+epoxy
 expurge
 exquire
 exquisite
