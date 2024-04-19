@@ -6007,6 +6007,7 @@ agenting
 agentive
 agentives
 agentry
+archprototype
 agents
 ageometrical
 ager
@@ -19176,7 +19177,6 @@ archprince
 ars
 archprophet
 archprotopope
-archprototype
 archpublican
 archpuritan
 archradical
