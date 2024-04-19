@@ -7556,7 +7556,6 @@ epicanthi
 epicanthic
 epicanthus
 epicardia
-electrolytes
 epicardium
 epicarid
 eyebrow
@@ -12390,6 +12389,7 @@ exercitant
 exercitation
 equilin
 exercite
+electrolytes
 exercitor
 exercitorial
 exercitorian

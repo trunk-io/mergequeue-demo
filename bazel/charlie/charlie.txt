@@ -7570,7 +7570,6 @@ cocceian
 cereals
 cerebbella
 cerebella
-cerebellar
 cerebellifugal
 cerebellipetal
 cerebellitis
@@ -31413,6 +31412,7 @@ curnie
 curnies
 chromatophorous
 curns
+cerebellar
 curpel
 curpin
 curple
