@@ -164,7 +164,6 @@ ensand
 ergogram
 earthpeas
 earthquake
-earthquaked
 equipoising
 euglenida
 earthquaken
@@ -2422,6 +2421,7 @@ electroengrave
 epoist
 electroengraving
 electroextraction
+earthquaked
 electroform
 electroforming
 electrofusion
