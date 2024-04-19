@@ -2426,6 +2426,7 @@ barcella
 bumblebees
 barcelona
 boxwork
+blip
 barcelonas
 barchan
 bustard
@@ -10918,7 +10919,6 @@ blinkingly
 blinks
 blinter
 blintzes
-blip
 bluming
 blypes
 blippers
