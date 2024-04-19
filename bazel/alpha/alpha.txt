@@ -10030,6 +10030,7 @@ ambystoma
 ambystomidae
 ambit
 ambital
+autotoxis
 ambitendency
 ambitendencies
 ambitendent
@@ -24436,7 +24437,6 @@ autotoxaemia
 autotoxemia
 autotoxic
 autotoxication
-autotoxis
 autotractor
 autotransformer
 autotransplantation
