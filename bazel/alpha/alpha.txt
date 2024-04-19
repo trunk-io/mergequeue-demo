@@ -1846,7 +1846,6 @@ accused
 accuser
 accusers
 asport
-antonymous
 aporrhoea
 achatour
 accusing
@@ -7983,6 +7982,7 @@ alethiologic
 alethiological
 alethiologist
 alethopteis
+antonymous
 alethopteroid
 alethoscope
 aletocyte
