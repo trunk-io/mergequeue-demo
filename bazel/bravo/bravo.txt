@@ -3529,7 +3529,6 @@ bissext
 birdcall
 batched
 batcher
-batches
 batching
 bargemen
 batea
@@ -17105,6 +17104,7 @@ bulletheadedness
 brennage
 bogman
 bulletining
+batches
 bulletins
 bulletless
 bulletlike
