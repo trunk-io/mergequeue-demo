@@ -11819,6 +11819,7 @@ choosableness
 cycloidal
 choose
 chooseable
+coaster
 copaljocote
 caprock
 chooser
@@ -17315,7 +17316,6 @@ coassuming
 coast
 coastal
 coastally
-coaster
 cg
 coastguardman
 coastguardsman
