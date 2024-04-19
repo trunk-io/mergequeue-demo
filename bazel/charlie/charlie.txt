@@ -9772,7 +9772,6 @@ chelatable
 chelate
 chelated
 chelating
-chelation
 chelator
 chelators
 chelerythrine
@@ -27752,6 +27751,7 @@ coxopodite
 coxswain
 coxswained
 coxswains
+chelation
 coxwain
 coxwaining
 camouflaged
