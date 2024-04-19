@@ -10509,7 +10509,6 @@ amie
 amyelencephalia
 acetal
 amyelencephalous
-aldeia
 apomictically
 amyelia
 amyelic
@@ -24156,6 +24155,7 @@ autoloaders
 autoloading
 autology
 autological
+aldeia
 autologist
 autologous
 autoluminescence
