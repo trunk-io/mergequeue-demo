@@ -19510,7 +19510,6 @@ argentous
 alexins
 augurial
 argentry
-adversarial
 argents
 argentum
 argentums
@@ -21788,6 +21787,7 @@ assignee
 assignees
 amphorophony
 assigner
+adversarial
 assigners
 assignment
 assignments
