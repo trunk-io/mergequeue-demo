@@ -5291,7 +5291,6 @@ apheliotropism
 affecter
 affecters
 affectibility
-affectible
 affecting
 acrorhagus
 affectingly
@@ -15356,6 +15355,7 @@ antigravity
 antigropelos
 antigrowth
 antiguan
+affectible
 antigun
 antihalation
 antiharmonist
