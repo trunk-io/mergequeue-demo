@@ -20345,7 +20345,6 @@ arrosive
 allowances
 arround
 arrouse
-arrow
 arrowbush
 arrowhead
 arrowheaded
@@ -22811,6 +22810,7 @@ atopy
 academism
 atopic
 atopite
+arrow
 atorai
 atossa
 atour
