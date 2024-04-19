@@ -7782,7 +7782,6 @@ geophone
 grallatores
 goldminer
 glagol
-grallatorial
 grallic
 groaners
 gralline
@@ -8263,6 +8262,7 @@ grassy
 graminaceae
 gallycrow
 galactically
+grallatorial
 grassie
 grassiest
 gedecktwork
