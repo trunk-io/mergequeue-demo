@@ -14940,7 +14940,6 @@ citoler
 citolers
 citoles
 cytolymph
-cataphysic
 cytolysin
 cytolysis
 cytolist
@@ -30271,6 +30270,7 @@ crurotarsal
 crus
 crusade
 crusaded
+cataphysic
 clingstones
 crusaders
 crusades
