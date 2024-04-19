@@ -1650,7 +1650,6 @@ calpacs
 calpolli
 conformation
 calpul
-calpulli
 counterfallacy
 calque
 calqued
@@ -18338,6 +18337,7 @@ cognatus
 cementum
 cognisable
 cognisableness
+calpulli
 coenosarcal
 cognisance
 cognisant
