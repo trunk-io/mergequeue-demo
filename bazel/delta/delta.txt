@@ -1882,7 +1882,6 @@ debtless
 debtor
 debtors
 debts
-debugger
 dendropogon
 debuggers
 desilverized
@@ -18603,6 +18602,7 @@ dustups
 dustwoman
 dialogistically
 digitus
+debugger
 dusun
 dutch
 dutched
