@@ -3327,7 +3327,6 @@ embalmers
 embanked
 elver
 embanking
-embankment
 embankments
 embannered
 enviableness
@@ -8455,6 +8454,7 @@ epode
 epodes
 epodic
 epollicate
+embankment
 eponge
 eponychium
 enwood
