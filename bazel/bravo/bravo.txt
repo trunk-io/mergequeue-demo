@@ -1836,7 +1836,6 @@ bandager
 bandages
 bandaging
 brakes
-bandagist
 bandaid
 bandala
 bandana
@@ -5274,6 +5273,7 @@ begetter
 begetters
 broth
 beggardom
+bandagist
 beggared
 beggaress
 barret
