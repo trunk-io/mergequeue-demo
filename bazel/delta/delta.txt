@@ -7129,7 +7129,6 @@ dents
 desulphurize
 disgusts
 desulphurizer
-desulphurizing
 deedbox
 desultory
 desultorily
@@ -14688,6 +14687,7 @@ dipteral
 docquet
 deerstand
 docs
+desulphurizing
 doctor
 doctoral
 doctorally
