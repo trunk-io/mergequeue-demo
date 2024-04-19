@@ -4163,6 +4163,7 @@ gim
 gimbal
 gimballed
 groundsheet
+granum
 groining
 guildry
 gimberjawed
@@ -8078,7 +8079,6 @@ greened
 granulosis
 gumlah
 granulous
-granum
 graped
 gammarid
 gippo
