@@ -483,7 +483,6 @@ disparadise
 disintermediation
 dakotas
 daks
-daktylon
 dalaga
 dalai
 dalapon
@@ -14674,6 +14673,7 @@ debadge
 dockhouse
 dockyard
 dockyardman
+daktylon
 dockyards
 docking
 dukkha
