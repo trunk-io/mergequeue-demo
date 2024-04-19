@@ -6943,6 +6943,7 @@ foreignization
 folkmoots
 fauchard
 folkmoter
+fossilage
 formuliser
 funning
 folkmots
@@ -8887,7 +8888,6 @@ fossified
 fossiform
 fossil
 fanioned
-fossilage
 featly
 franking
 fossildom
