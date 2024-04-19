@@ -2607,7 +2607,6 @@ ferrites
 frailties
 ferritic
 ferritins
-fixations
 fiduciaries
 ferritungstite
 ferrivorous
@@ -8119,6 +8118,7 @@ foretaste
 foretaster
 foretastes
 foretasting
+fixations
 foreteach
 franchising
 flyboy
