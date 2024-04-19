@@ -1591,7 +1591,6 @@ ballistae
 bijous
 ballistician
 ballisticians
-beaune
 ballistocardiogram
 ballistocardiograph
 ballistocardiography
@@ -13803,6 +13802,7 @@ bowyang
 baraka
 bowyangs
 bowie
+beaune
 buchite
 blamableness
 bowyer
