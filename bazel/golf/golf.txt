@@ -1383,6 +1383,7 @@ gallberries
 gardeny
 gardenia
 gundeck
+giftlike
 gaonate
 gardenin
 gunboat
@@ -3922,7 +3923,6 @@ greasy
 giftedly
 gifting
 guttate
-giftlike
 giftling
 genson
 gregarianism
