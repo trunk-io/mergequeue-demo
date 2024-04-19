@@ -4419,7 +4419,6 @@ adrenocorticotrophic
 ammonolysis
 adrenocorticotropic
 adrenolysis
-adrenomedullary
 anthracolithic
 adrenosterone
 albacores
@@ -4588,6 +4587,7 @@ advantaging
 antipruritic
 advect
 advecting
+adrenomedullary
 agamobia
 amniorrhea
 advectitious
