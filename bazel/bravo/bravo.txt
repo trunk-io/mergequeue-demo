@@ -7838,7 +7838,6 @@ biacuru
 biajaiba
 bialate
 biali
-bialis
 bialys
 biallyl
 bialveolar
@@ -16030,6 +16029,7 @@ brooch
 brooching
 brood
 brooded
+bialis
 brooder
 broody
 broodier
