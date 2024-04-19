@@ -415,7 +415,6 @@ backpedaling
 backpiece
 backplane
 backplanes
-backplate
 backpointer
 backpointers
 backrope
@@ -10001,6 +10000,7 @@ biventral
 biverb
 bivial
 beinness
+backplate
 bivinyl
 bivious
 bedfast
