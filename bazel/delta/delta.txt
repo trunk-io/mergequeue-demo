@@ -5806,7 +5806,6 @@ depolarization
 depolarize
 depolarizers
 droves
-depolarizes
 debater
 depolymerization
 depolymerize
@@ -8514,6 +8513,7 @@ diandrian
 donny
 discriminated
 discographer
+depolarizes
 diane
 dianetics
 dianil
