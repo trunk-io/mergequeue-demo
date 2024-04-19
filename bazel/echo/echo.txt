@@ -3747,7 +3747,6 @@ embrue
 excerpt
 embrues
 embruing
-embruted
 edulcorate
 embrutes
 embruting
@@ -10836,6 +10835,7 @@ eulachon
 eulachons
 eulalia
 eulamellibranchiata
+embruted
 eulamellibranchiate
 eulerian
 etrier
