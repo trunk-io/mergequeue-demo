@@ -11585,6 +11585,7 @@ boatable
 bosket
 boatage
 bacterioscopical
+barspoon
 boatbuilder
 boatbuilding
 boated
@@ -17095,7 +17096,6 @@ bradykinetic
 buller
 bullescene
 bullet
-barspoon
 bulleted
 bullethead
 bulletheadedness
