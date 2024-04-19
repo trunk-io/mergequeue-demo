@@ -1030,7 +1030,6 @@ darlings
 darlingtonia
 darn
 darndest
-darned
 darneder
 darnels
 darner
@@ -15920,6 +15919,7 @@ dekagram
 dotard
 dotardism
 durene
+darned
 dotards
 duddle
 dotarie

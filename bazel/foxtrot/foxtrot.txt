@@ -2488,7 +2488,6 @@ fermentable
 ferrocyanic
 forlie
 fermentate
-fermentation
 fermentativeness
 fisticuffing
 floatplane
@@ -7635,6 +7634,7 @@ foredestine
 foredevote
 foredispose
 foredivine
+fermentation
 figments
 flacherie
 foredoes
