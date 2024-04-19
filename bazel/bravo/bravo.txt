@@ -1242,7 +1242,6 @@ balaenicipites
 bocaccios
 balaenidae
 balaenoid
-balaenoidea
 balaenoidean
 balaenoptera
 balaenopteridae
@@ -16565,6 +16564,7 @@ bobsledder
 bucephala
 bandaka
 blacking
+balaenoidea
 buceros
 borocitrate
 bucerotinae
