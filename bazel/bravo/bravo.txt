@@ -2062,7 +2062,6 @@ bankcards
 banked
 banker
 bankerdom
-bankeress
 bacteriophobia
 banket
 bankfull
@@ -3640,6 +3639,7 @@ batholith
 bibliomaniacal
 batholithic
 batholiths
+bankeress
 batholitic
 blinded
 bathomania
