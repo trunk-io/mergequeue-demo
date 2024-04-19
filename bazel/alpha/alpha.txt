@@ -14355,7 +14355,6 @@ adds
 ablactate
 archflatterer
 anthemion
-altincar
 anthemis
 anthems
 anther
@@ -18723,6 +18722,7 @@ archaeopterygiformes
 archaeopteris
 archaeopteryx
 archaeornis
+altincar
 apiin
 archaeornithes
 archaeostoma
