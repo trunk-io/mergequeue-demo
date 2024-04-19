@@ -1508,7 +1508,6 @@ egads
 emendate
 egal
 egalitarian
-egalitarianism
 egalitarians
 egalite
 elsewards
@@ -5587,6 +5586,7 @@ enforceable
 enforced
 enforcement
 enlisters
+egalitarianism
 echidnae
 epicontinental
 excommunicate
