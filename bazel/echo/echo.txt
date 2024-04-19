@@ -7248,7 +7248,6 @@ enzym
 ensample
 enzymatic
 evillest
-enzyme
 enzymes
 enzymic
 exiguous
@@ -13239,6 +13238,7 @@ exploratory
 exosphere
 explored
 explorement
+enzyme
 explorer
 explorers
 ethicalities
