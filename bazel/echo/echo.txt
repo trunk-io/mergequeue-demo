@@ -5467,6 +5467,7 @@ energids
 energise
 epitendineum
 epirot
+etatist
 enhydrous
 energiser
 elopidae
@@ -10171,7 +10172,6 @@ eadish
 etapes
 ensearch
 etatisme
-etatist
 etc
 etcetera
 etch
