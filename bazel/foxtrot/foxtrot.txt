@@ -2254,7 +2254,6 @@ ferbams
 feltmaking
 feltman
 foredeep
-feltmonger
 furfuran
 felts
 feltwort
@@ -4793,6 +4792,7 @@ flaggelating
 flaggella
 flagger
 fragilariaceae
+feltmonger
 fumiferana
 frogeyes
 flaggy
