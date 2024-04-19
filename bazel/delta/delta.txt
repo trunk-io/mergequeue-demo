@@ -5486,7 +5486,6 @@ docilely
 decanate
 droguet
 denunciated
-diaphoretic
 denunciating
 denunciation
 dornecks
@@ -10413,6 +10412,7 @@ diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
+diaphoretic
 diphenylene
 diphenylenimine
 decern
