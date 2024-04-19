@@ -414,7 +414,6 @@ exoccipital
 ecaudata
 ecaudate
 ernest
-ecb
 ecballium
 ecbasis
 ecblastesis
@@ -10534,6 +10533,7 @@ ethoxyethane
 entresalle
 embiidae
 excreted
+ecb
 ethoxyl
 ethoxyls
 ethrog
