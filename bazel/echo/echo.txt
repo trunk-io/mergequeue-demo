@@ -6140,7 +6140,6 @@ enodation
 enode
 enoil
 enoint
-enol
 enolase
 enolases
 enolic
@@ -13249,6 +13248,7 @@ exosphere
 explored
 explorement
 enzyme
+enol
 explorer
 explorers
 ethicalities
