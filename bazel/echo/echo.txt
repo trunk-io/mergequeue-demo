@@ -678,7 +678,6 @@ eidetically
 ecliptics
 eclogic
 eclogite
-eclogites
 eclogue
 eclogues
 eclosion
@@ -11023,6 +11022,7 @@ euphrasy
 euphrasia
 euphrasies
 exogenism
+eclogites
 euphroe
 euphues
 euphuism
