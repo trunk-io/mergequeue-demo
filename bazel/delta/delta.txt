@@ -6869,7 +6869,6 @@ darkness
 desolator
 desole
 desonation
-desophisticate
 desophistication
 desorbed
 desorbs
@@ -11177,6 +11176,7 @@ disbase
 disbelief
 disbeliefs
 disbelieved
+desophisticate
 disbeliever
 disbelievers
 dazingly
