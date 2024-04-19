@@ -7617,6 +7617,7 @@ believe
 bewailable
 bewailed
 bewailer
+burglarproof
 bandicoot
 bewailers
 behung
@@ -17646,7 +17647,6 @@ bearlet
 burglarized
 burglarizes
 burglarizing
-burglarproof
 benediction
 backster
 burglarproofed
