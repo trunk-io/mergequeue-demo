@@ -6097,6 +6097,7 @@ flotages
 frondeur
 favorability
 foregoes
+fungify
 flotative
 fustin
 fragor
@@ -9217,7 +9218,6 @@ fract
 fouls
 fractal
 fracted
-fungify
 fracticipita
 flashforwards
 foraminulous
