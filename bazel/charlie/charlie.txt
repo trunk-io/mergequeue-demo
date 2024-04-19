@@ -21657,7 +21657,6 @@ condignly
 condignness
 condylar
 condylarthra
-condylarthrosis
 compressions
 condyle
 condylectomy
@@ -23129,6 +23128,7 @@ constitutional
 constitutionalism
 constitutionalist
 constitutionalization
+condylarthrosis
 constitutionalize
 constitutionally
 cutover
