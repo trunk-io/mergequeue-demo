@@ -463,7 +463,6 @@ disthrall
 daystars
 daystreak
 daytide
-daytime
 daytimes
 dayton
 daiva
@@ -6011,6 +6010,7 @@ discussible
 dayfly
 deprogrammed
 deprogrammer
+daytime
 deprogramming
 decorticate
 depeculate
