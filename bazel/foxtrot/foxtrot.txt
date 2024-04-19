@@ -9531,7 +9531,6 @@ fratery
 frateries
 fraternal
 fraternalism
-fraternalist
 fraternality
 faultlessness
 floccilation
@@ -10979,6 +10978,7 @@ fullonian
 franticness
 fullterm
 fulltime
+fraternalist
 foothook
 fullwords
 frescoes
