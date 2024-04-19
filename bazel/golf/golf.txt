@@ -7252,7 +7252,6 @@ gorsedd
 gassendist
 gorsy
 germanic
-gorst
 grayware
 gortonian
 gortonite
@@ -7871,6 +7870,7 @@ granado
 granage
 granam
 granary
+gorst
 gawsy
 glutinously
 grandmontine
