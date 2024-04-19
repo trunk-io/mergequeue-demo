@@ -804,6 +804,7 @@ galvanomagnetic
 galvanomagnetism
 galvanometer
 galvanometers
+gecko
 girt
 galvanometric
 geometries
@@ -2263,7 +2264,6 @@ gaedown
 geck
 gecked
 gigunu
-gecko
 geckoes
 geckoid
 geckos
