@@ -1091,6 +1091,7 @@ fuzzle
 farmy
 farmyard
 fructuary
+ferlies
 farmyardy
 foremastman
 frequentest
@@ -2468,7 +2469,6 @@ forgone
 ferlied
 futtah
 frangulinic
-ferlies
 ferlying
 ferling
 fermacy

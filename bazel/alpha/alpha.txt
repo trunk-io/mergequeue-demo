@@ -2501,7 +2501,6 @@ acinic
 aciniform
 acinose
 acinotubular
-acinous
 anatomicophysiological
 aggrate
 apollonistic
@@ -5560,6 +5559,7 @@ afreets
 afresca
 afresh
 afret
+acinous
 another
 afrete
 africa
