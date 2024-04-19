@@ -11774,7 +11774,6 @@ chondromyces
 chondromyxoma
 chondromyxosarcoma
 chondromucoid
-chondropharyngeal
 chondropharyngeus
 chondrophyte
 chondrophore
@@ -30511,6 +30510,7 @@ caldera
 cuboides
 cuboids
 cubomedusae
+chondropharyngeal
 cubomedusan
 campbellism
 cubometatarsal
