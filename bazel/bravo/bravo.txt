@@ -2916,7 +2916,6 @@ barratries
 bacteriostatic
 barratrous
 barratrously
-blasties
 barred
 barrelage
 barreled
@@ -4285,6 +4284,7 @@ beatrix
 bookwise
 bonged
 beats
+blasties
 beatster
 beauts
 beatuti

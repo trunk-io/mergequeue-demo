@@ -2203,6 +2203,7 @@ fellowshipped
 fellowships
 fruited
 fells
+foxfishes
 floruits
 fellside
 fellsman
@@ -9160,7 +9161,6 @@ foxfire
 foxfires
 frolicsomeness
 foxfish
-foxfishes
 foxglove
 fledge
 falun
