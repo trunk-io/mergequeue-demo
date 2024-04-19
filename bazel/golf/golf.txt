@@ -3190,7 +3190,6 @@ geophysics
 geophytes
 geophytic
 guardlike
-glycoside
 geophones
 geoplagiotropism
 gazogene
@@ -5234,6 +5233,7 @@ glaucochroite
 glaucodot
 glaucodote
 glaucoma
+glycoside
 gunsmith
 goldcup
 glaucomys
