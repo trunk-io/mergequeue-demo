@@ -7289,6 +7289,7 @@ floodmark
 fumiferous
 fabricable
 frigs
+furazan
 fuliginous
 firefly
 footwears
@@ -11325,7 +11326,6 @@ furanoid
 flix
 furanose
 furanoses
-furazan
 furbelow
 furbelowed
 foretokening
