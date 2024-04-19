@@ -2799,7 +2799,6 @@ geodesic
 genip
 grouchy
 genipa
-greenstuff
 genyplasty
 goldenwing
 genips
@@ -7303,6 +7302,7 @@ gossypine
 gumbotils
 geoponical
 gossypols
+greenstuff
 gamming
 gossypose
 garbure
