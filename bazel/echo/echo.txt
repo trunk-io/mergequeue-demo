@@ -2926,6 +2926,7 @@ eligibility
 eligibilities
 eligible
 eligibles
+exerciser
 eligibly
 encephalopsychesis
 evokes
@@ -12390,7 +12391,6 @@ exercent
 exercisable
 exercise
 enculturated
-exerciser
 exercising
 endotracheitis
 erichtoid
