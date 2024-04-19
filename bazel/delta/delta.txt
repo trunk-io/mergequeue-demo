@@ -13706,7 +13706,6 @@ distad
 dindle
 dispensatrix
 distain
-distained
 distrusting
 distaining
 daikering
@@ -17597,6 +17596,7 @@ drumloidal
 drummed
 drummer
 drummers
+distained
 drumming
 drummock
 drumread
