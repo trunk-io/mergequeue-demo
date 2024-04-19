@@ -4222,7 +4222,6 @@ anthropotoxin
 adnephrine
 americanizer
 adnerval
-adnescent
 armsize
 adneural
 adnex
@@ -14382,6 +14381,7 @@ antheridium
 antherless
 antherogenous
 antheroid
+adnescent
 angiotensin
 aspalathus
 antherozoid
