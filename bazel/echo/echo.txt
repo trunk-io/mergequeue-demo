@@ -606,7 +606,6 @@ echograph
 echoic
 echoing
 everard
-echoingly
 echoism
 echoisms
 epigeal
@@ -3081,6 +3080,7 @@ empennage
 elodea
 elodeas
 elodes
+echoingly
 eloge
 elogy
 elogium
