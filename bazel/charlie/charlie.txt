@@ -2088,6 +2088,7 @@ camphors
 camphorweed
 camphorwood
 campi
+concurrency
 campy
 campier
 campiest
@@ -21546,7 +21547,6 @@ concupiscibleness
 concur
 concurred
 concurrences
-concurrency
 concurrencies
 cedent
 concurrently
