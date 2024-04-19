@@ -3454,7 +3454,6 @@ coset
 captivates
 captivating
 captivatingly
-captivation
 captivative
 captivator
 captivators
@@ -30837,6 +30836,7 @@ cultivars
 cultivatability
 cultivate
 cultivated
+captivation
 cultivates
 cultivating
 cultivation
