@@ -690,7 +690,6 @@ brisk
 bacterizing
 bacteroideae
 becoiffed
-bacteroides
 bactrian
 bodeful
 bactrites
@@ -14358,6 +14357,7 @@ braining
 brainish
 brainlessly
 brainlessness
+bacteroides
 brainlike
 brainpan
 benzylpenicillin
