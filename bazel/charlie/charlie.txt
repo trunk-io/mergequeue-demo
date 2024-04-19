@@ -6629,6 +6629,7 @@ centibar
 cedrus
 cedula
 cee
+chalutz
 ceennacuelum
 ceibas
 cursorial
@@ -24641,7 +24642,6 @@ copolymerization
 copolymerizations
 copolymerize
 copolymerized
-chalutz
 copolymerizing
 copolymers
 copopoda
