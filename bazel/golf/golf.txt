@@ -4837,7 +4837,6 @@ gluconate
 gallinula
 gynodioecism
 gist
-git
 gitana
 glucolysis
 galeae
@@ -10140,6 +10139,7 @@ guianese
 gangflower
 guidable
 guidance
+git
 guide
 gruf
 guideboard
