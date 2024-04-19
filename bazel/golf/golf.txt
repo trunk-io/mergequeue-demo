@@ -3073,7 +3073,6 @@ gillnet
 geogen
 geogenesis
 gyropilot
-geogenetic
 geogeny
 geogenic
 gainlessness
@@ -10778,6 +10777,7 @@ guttery
 guttering
 gutterman
 gerrhosauridae
+geogenetic
 guttersnipe
 guttersnipes
 grooper
