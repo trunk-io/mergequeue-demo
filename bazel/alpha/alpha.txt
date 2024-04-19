@@ -19920,6 +19920,7 @@ armarium
 armariumaria
 armata
 armatoles
+auxilium
 armatoli
 armatured
 aeroacoustic
@@ -24503,7 +24504,6 @@ auxiliarly
 auxiliate
 auxiliator
 auxilytic
-auxilium
 auxillary
 auxin
 auxinic
