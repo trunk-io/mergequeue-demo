@@ -2416,6 +2416,7 @@ feracities
 ferae
 fairyship
 feralin
+finlike
 ferash
 favel
 fere
@@ -4095,7 +4096,6 @@ finlander
 finlandization
 finless
 finlet
-finlike
 finmark
 frondescing
 finmarks
