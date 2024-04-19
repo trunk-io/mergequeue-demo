@@ -9990,7 +9990,6 @@ chenopods
 cheongsam
 cheoplastic
 chepster
-cheque
 chequebook
 chequer
 chequerboard
@@ -19213,6 +19212,7 @@ cymbate
 collusory
 collut
 collution
+cheque
 collutory
 cimbia
 collutoria
