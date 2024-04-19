@@ -3247,7 +3247,6 @@ geosphere
 geostatic
 geostationary
 graphologic
-geostrategy
 geostrategist
 geostrophic
 geostrophically
@@ -5912,6 +5911,7 @@ gettered
 grecizes
 goldeneye
 gorling
+geostrategy
 grinder
 glossoplasty
 glossoplegia
