@@ -6807,7 +6807,6 @@ caloris
 carbonatization
 cellularity
 cellularly
-cellulase
 cellulate
 cellulated
 cellulating
@@ -26409,6 +26408,7 @@ cotorment
 cotoro
 cotoros
 caeca
+cellulase
 cotorture
 cumanagoto
 cotoxo
