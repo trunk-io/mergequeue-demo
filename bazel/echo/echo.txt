@@ -992,6 +992,7 @@ edaphosauria
 edaphosaurid
 edaphosaurus
 explosibility
+emblazing
 eddaic
 edder
 eddie
@@ -2718,7 +2719,6 @@ elegies
 excrescently
 elegious
 enlisting
-emblazing
 elbowed
 elegised
 elegises
