@@ -7826,7 +7826,6 @@ graminological
 grammalogue
 gymnocarpous
 grammarless
-grammars
 gieseckite
 gateau
 glossate
@@ -8605,6 +8604,7 @@ glyph
 greekize
 greekless
 greekling
+grammars
 geranials
 greeks
 green
