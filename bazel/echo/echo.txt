@@ -5917,7 +5917,6 @@ eurylaimus
 enisling
 eubacterium
 enjail
-enjamb
 enjambed
 enjambement
 enjambment
@@ -5997,6 +5996,7 @@ eupepsias
 enlargements
 enlarges
 exposer
+enjamb
 enlarging
 enlargingly
 extruders
