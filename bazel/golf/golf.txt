@@ -3582,7 +3582,6 @@ geste
 gested
 gingham
 graphonomy
-gester
 gestes
 gestic
 gestical
@@ -7132,6 +7131,7 @@ gorb
 ganancial
 gorbal
 gorbelly
+gester
 grasserie
 gorbellied
 gyttja
