@@ -7414,7 +7414,6 @@ goupin
 gour
 goldfish
 grugru
-gourami
 gadhelic
 guib
 gouramis
@@ -9019,6 +9018,7 @@ grimed
 grotian
 grimes
 goralog
+gourami
 gatsby
 gingerwork
 glossatorial
