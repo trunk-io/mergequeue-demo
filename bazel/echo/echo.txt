@@ -11396,7 +11396,6 @@ evaporimeter
 evaporite
 erythrolitmin
 evaporitic
-evaporize
 evapotranspiration
 erythremomelalgia
 evasional
@@ -13807,6 +13806,7 @@ erlkings
 extracostal
 ethnozoological
 equivocation
+evaporize
 ethionic
 experienceable
 extractability
