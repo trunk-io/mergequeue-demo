@@ -6872,7 +6872,6 @@ foliating
 foliation
 foliator
 foliature
-foliicolous
 foliiferous
 folily
 facemaking
@@ -9077,6 +9076,7 @@ fourteenth
 fourteenthly
 fourteenths
 fourth
+foliicolous
 fourther
 fourthly
 foute
