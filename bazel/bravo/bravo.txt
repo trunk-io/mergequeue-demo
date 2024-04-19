@@ -5266,6 +5266,7 @@ begattal
 bastes
 begaud
 begaudy
+bignesses
 bobbled
 begaze
 begazes
@@ -6265,7 +6266,6 @@ bothros
 benefiting
 blotchy
 benefits
-bignesses
 benefitted
 blockwood
 beneighbored
