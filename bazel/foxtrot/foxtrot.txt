@@ -8868,7 +8868,6 @@ female
 freighting
 fossane
 fidel
-fauna
 fillet
 fosse
 fosses
@@ -10276,6 +10275,7 @@ forker
 flaxen
 forbit
 frizette
+fauna
 frizettes
 frizing
 frizz
