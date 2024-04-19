@@ -3332,7 +3332,6 @@ capriciousness
 capricorn
 capricornid
 capricorns
-capricornus
 caprid
 caprificate
 caprification
@@ -6915,6 +6914,7 @@ cemental
 cementation
 chymosins
 coaugment
+capricornus
 chapeaux
 cementatory
 cemented
