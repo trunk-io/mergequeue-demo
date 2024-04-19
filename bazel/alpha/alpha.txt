@@ -1001,7 +1001,6 @@ absorbance
 absorbancy
 absorbant
 absorbed
-absorbedly
 absorbedness
 afterhold
 absorbefacient
@@ -15503,6 +15502,7 @@ antimask
 alar
 antimasks
 antimason
+absorbedly
 antimasonry
 antimasque
 antimasquer
