@@ -6582,7 +6582,6 @@ athelia
 agudist
 aguey
 aguelike
-alkalescency
 agueproof
 agues
 agueweeds
@@ -23331,6 +23330,7 @@ alispheno
 auditable
 audited
 auditing
+alkalescency
 admonitorial
 auditive
 agnail

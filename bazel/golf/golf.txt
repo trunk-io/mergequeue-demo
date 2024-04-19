@@ -3150,7 +3150,6 @@ gripiest
 geomorphogenic
 geomorphogenist
 geomorphology
-geomorphologic
 geomorphological
 geomorphologically
 golliwog
@@ -5569,6 +5568,7 @@ glyptological
 grammatic
 glyptologist
 gandhiism
+geomorphologic
 glyptotheca
 glyptotherium
 globeholder
