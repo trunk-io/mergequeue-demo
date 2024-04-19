@@ -1201,7 +1201,6 @@ clinopyramid
 calendaring
 calendarist
 confluently
-calendars
 calendas
 calender
 calendered
@@ -21414,6 +21413,7 @@ concluder
 concluders
 carefree
 concludes
+calendars
 concludible
 concluding
 concludingly
