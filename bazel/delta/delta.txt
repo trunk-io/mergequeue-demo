@@ -2775,7 +2775,6 @@ decreation
 decreeable
 deeplier
 decreeing
-decreement
 decreer
 decrees
 decreet
@@ -16717,6 +16716,7 @@ droich
 dramaturgic
 dramaturgically
 dramaturgist
+decreement
 drammach
 devisceration
 dcbname
