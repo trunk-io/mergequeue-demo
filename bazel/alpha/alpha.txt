@@ -429,6 +429,7 @@ abime
 abintestate
 abiogeneses
 abiogenesis
+amplitudes
 abiogenesist
 abiogenetic
 abiogenetical
@@ -11340,7 +11341,6 @@ amplifier
 amplifies
 amplifying
 amplitude
-amplitudes
 amplitudinous
 ampollosity
 accurate
