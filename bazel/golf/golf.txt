@@ -4781,7 +4781,6 @@ gyroscopes
 gyroscopics
 gyrose
 gyrostat
-gyrostats
 gastroplenic
 gyrotheca
 girouette
@@ -6818,6 +6817,7 @@ gristhorbia
 googols
 gonidiophore
 gonimium
+gyrostats
 gonimolobe
 gouged
 goninidia
