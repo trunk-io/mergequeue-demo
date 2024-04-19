@@ -4456,7 +4456,6 @@ encarnalize
 encumbrous
 encarnalized
 embreach
-eclipsable
 encarnalizing
 encarpa
 encarpi
@@ -10727,6 +10726,7 @@ eudaemon
 enlistee
 eudaemony
 eudaemonical
+eclipsable
 etiologic
 eudaemonics
 eudaemonism
