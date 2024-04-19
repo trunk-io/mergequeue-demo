@@ -10785,7 +10785,6 @@ angleworms
 ammonea
 appellancy
 ammonia
-ammoniac
 ammoniacs
 ammoniacum
 ammoniaemia
@@ -12075,6 +12074,7 @@ anathematizer
 anathematizes
 anathematizing
 anatheme
+ammoniac
 anatidae
 anatifa
 anatifae

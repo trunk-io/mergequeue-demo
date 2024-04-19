@@ -1410,7 +1410,6 @@ balds
 balducta
 bugged
 balductum
-baldwin
 bale
 baleare
 balearian
@@ -14870,6 +14869,7 @@ breaster
 breastfast
 breastful
 breastheight
+baldwin
 breasthook
 breastie
 blowzed
