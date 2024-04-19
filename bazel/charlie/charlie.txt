@@ -17963,7 +17963,6 @@ coeloglossum
 coelom
 coeloma
 coelomata
-coelomate
 coelomatic
 coelomatous
 cure
@@ -26435,6 +26434,7 @@ careenage
 cotrine
 catocalid
 cotripper
+coelomate
 cotrustee
 cots
 cephalomelus
