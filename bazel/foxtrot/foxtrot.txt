@@ -4635,7 +4635,6 @@ fivestones
 fivish
 flourisher
 ficoideae
-fixable
 fixage
 fixate
 fixated
@@ -11652,6 +11651,7 @@ fustianize
 fustians
 fustics
 fustigated
+fixable
 foggily
 fustigating
 fustigator
