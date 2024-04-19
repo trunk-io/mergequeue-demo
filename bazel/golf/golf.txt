@@ -1375,7 +1375,6 @@ gardenlike
 gardenmaking
 gardens
 gardevin
-gabionage
 gardevisure
 gardy
 ginkgo
@@ -6631,6 +6630,7 @@ goldsinny
 goldsmithry
 glider
 gospellike
+gabionage
 goldsmiths
 goldspink
 gnathopod
