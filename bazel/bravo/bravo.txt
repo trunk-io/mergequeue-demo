@@ -15980,7 +15980,6 @@ bronchostomy
 bronchostomies
 bronchotyphus
 bronchotome
-bronchotomy
 bronchotracheal
 bronchovesicular
 bronchus
@@ -16296,6 +16295,7 @@ brulee
 barbering
 brules
 brulyie
+bronchotomy
 backsets
 brulyiement
 brulot
