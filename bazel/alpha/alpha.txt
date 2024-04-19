@@ -2786,7 +2786,6 @@ acrid
 acridane
 acrider
 anticyclonic
-acridest
 acridid
 acrididae
 acridiidae
@@ -22936,6 +22935,7 @@ attacco
 akuammine
 attach
 attachableness
+acridest
 attache
 attached
 attachedly
