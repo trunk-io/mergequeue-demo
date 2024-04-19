@@ -15173,7 +15173,6 @@ cumbent
 clabularia
 clabularium
 clach
-clachan
 clachans
 clachs
 clack
@@ -21201,6 +21200,7 @@ conceptual
 conceptualisation
 conceptualise
 cynthius
+clachan
 conceptualism
 conceptualist
 conceptualistically
