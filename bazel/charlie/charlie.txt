@@ -20967,7 +20967,6 @@ compsoa
 compsognathus
 compsothlypidae
 crypteronia
-compt
 compte
 compted
 compter
@@ -30263,6 +30262,7 @@ crura
 crural
 crurogenital
 cruroinguinal
+compt
 crurotarsal
 crus
 crusade
