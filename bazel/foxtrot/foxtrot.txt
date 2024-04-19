@@ -8330,7 +8330,6 @@ fork
 forkbeard
 forked
 forkedness
-forker
 forkers
 forkfuls
 forkhead
@@ -10255,6 +10254,7 @@ flavous
 frizel
 frizers
 frizes
+forker
 flaxen
 forbit
 frizette
