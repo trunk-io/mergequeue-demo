@@ -5380,7 +5380,6 @@ afflate
 afflated
 afflatus
 afflatuses
-afflict
 algesireceptor
 afflicted
 afflictedness
@@ -24831,6 +24830,7 @@ avoids
 avoyer
 avoyership
 avoirdupois
+afflict
 avoke
 avolate
 avolation
