@@ -2075,6 +2075,7 @@ elaphomycetaceae
 elaphrium
 ensnarements
 elaphurus
+extrastate
 elapidae
 elapids
 erotophobia
@@ -13978,7 +13979,6 @@ extraspinal
 eco
 esuriently
 enteroclisis
-extrastate
 elaidic
 extrasterile
 extrastomachal
