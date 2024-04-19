@@ -12094,7 +12094,6 @@ anatolian
 anatomy
 acapulco
 anatomic
-anatomical
 anatomicals
 anatomicobiological
 abought
@@ -19601,6 +19600,7 @@ acculturational
 argots
 argovian
 arguable
+anatomical
 arguably
 anacromyodian
 argue
