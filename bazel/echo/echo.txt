@@ -5616,7 +5616,6 @@ enfoulder
 enfrai
 enframe
 enframed
-enframing
 enfranch
 enfranchised
 estimating
@@ -11673,6 +11672,7 @@ evolvable
 evolve
 explicating
 evolved
+enframing
 electroretinogram
 evolvent
 evolver
