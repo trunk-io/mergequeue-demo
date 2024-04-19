@@ -1083,7 +1083,6 @@ edh
 edhs
 equipper
 edibility
-empyreum
 edible
 expurgatory
 edibles
@@ -5366,6 +5365,7 @@ economically
 endotheliomyoma
 esquiline
 endotheliotoxin
+empyreum
 elizabethanize
 endotheliulia
 eophyte
