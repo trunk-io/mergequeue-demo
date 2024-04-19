@@ -25801,7 +25801,6 @@ corrugator
 cadelle
 corrugent
 corrump
-corrumpable
 corrup
 corrupable
 carolinian
@@ -30459,6 +30458,7 @@ cubi
 cubic
 chattering
 cuculine
+corrumpable
 chayotes
 cubical
 cubically
