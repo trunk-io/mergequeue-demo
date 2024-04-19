@@ -1478,7 +1478,6 @@ garnett
 garnetter
 garnetwork
 garniec
-garnishable
 garnished
 garnishee
 garnisheed
@@ -4295,6 +4294,7 @@ grotesquery
 gymnotus
 gymnura
 ginward
+garnishable
 gest
 gymnurine
 gimped
