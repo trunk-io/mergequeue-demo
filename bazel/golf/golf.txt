@@ -1750,7 +1750,6 @@ gastrocnemius
 gastrocoel
 gastrocolic
 goriest
-gastrocolostomy
 gastrocolotomy
 gastrodermal
 glutaraldehyde
@@ -10518,6 +10517,7 @@ guelphic
 gunmetal
 genesis
 gunmetals
+gastrocolostomy
 gunnage
 gonocytes
 gunnar
