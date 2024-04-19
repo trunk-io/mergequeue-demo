@@ -8640,7 +8640,6 @@ equidiurnal
 equidivision
 equielliptical
 equiexcellency
-equiglacial
 equigranular
 equilater
 equilateral
@@ -10416,6 +10415,7 @@ ethmoidal
 ethmoiditis
 entomb
 ethmolith
+equiglacial
 ethmomaxillary
 ethmonasal
 effacer
