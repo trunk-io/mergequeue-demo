@@ -26328,7 +26328,6 @@ cotenant
 cotenants
 cotenure
 coterell
-cotery
 coterie
 coteries
 conquests
@@ -31738,6 +31737,7 @@ copresent
 chimlas
 customing
 customizable
+cotery
 customization
 customizations
 customize
