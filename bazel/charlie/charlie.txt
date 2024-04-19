@@ -20324,7 +20324,6 @@ coupling
 communis
 communisation
 communise
-communised
 communising
 celebres
 carrotier
@@ -23106,6 +23105,7 @@ constellate
 coystrel
 constellated
 constellating
+communised
 constellation
 constellations
 constellatory
