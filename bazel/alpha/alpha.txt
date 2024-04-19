@@ -6512,7 +6512,6 @@ agrionidae
 agriot
 agriotype
 agriotypidae
-agriotypus
 agrypnia
 agrypniai
 agrypnotic
@@ -12084,6 +12083,7 @@ accidents
 anatifer
 anatiferous
 anatinacea
+agriotypus
 anatinae
 anatine
 anatocism
