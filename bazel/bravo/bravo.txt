@@ -637,6 +637,7 @@ bacteriology
 breadnut
 bacteriologic
 bacteriologist
+boreas
 bacteriologists
 bacteriopathology
 burnoose
@@ -13003,7 +13004,6 @@ boreal
 borealis
 branchedness
 borean
-boreas
 borecole
 borecoles
 bored
