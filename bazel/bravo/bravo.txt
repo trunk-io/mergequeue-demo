@@ -7317,7 +7317,6 @@ beneficences
 broomsquire
 bestride
 bestrides
-bestriding
 bestripe
 bestrode
 bisons
@@ -7964,6 +7963,7 @@ beauclerc
 bibliologies
 bismuthite
 bibliologist
+bestriding
 biometrics
 bibliomancy
 bibliomane
