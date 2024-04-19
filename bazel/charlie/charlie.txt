@@ -25865,7 +25865,6 @@ cortaro
 cookies
 corteges
 cortes
-cortex
 cortexes
 cortez
 cortian
@@ -30801,6 +30800,7 @@ culpatory
 carcan
 courbash
 culpeo
+cortex
 culpose
 crickety
 culprit

@@ -5239,7 +5239,6 @@ autochanger
 afer
 afernan
 afetal
-affa
 affability
 affable
 affabrous
@@ -10680,6 +10679,7 @@ amirship
 amis
 amish
 amissibility
+affa
 amissible
 amissing
 amita
