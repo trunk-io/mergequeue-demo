@@ -3705,7 +3705,6 @@ breadbaskets
 batrachidae
 batrachite
 batrachium
-batrachophagous
 batrachophidia
 bats
 barnful
@@ -7711,6 +7710,7 @@ bewrayed
 bewrayer
 bracelets
 barful
+batrachophagous
 bewrayers
 bewraying
 biacetylene
