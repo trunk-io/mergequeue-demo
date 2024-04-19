@@ -7638,6 +7638,7 @@ cerebrometer
 cassumuniar
 cerebron
 cerebronic
+clotheshorse
 cerebroparietal
 cerebropedal
 cerebropontile
@@ -16708,7 +16709,6 @@ clothes
 clothesbag
 clothesbasket
 clothesbrush
-clotheshorse
 clotheshorses
 clothesyard
 clothesless
