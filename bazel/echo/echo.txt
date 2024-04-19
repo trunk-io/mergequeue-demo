@@ -442,7 +442,6 @@ eccyclema
 erf
 eccyesis
 eccl
-eccles
 entropies
 expandability
 ecclesia
@@ -676,6 +675,7 @@ eidetically
 ecliptics
 eclogic
 eclogite
+eccles
 eclogue
 eclogues
 eclosion
