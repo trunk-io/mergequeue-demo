@@ -1851,6 +1851,7 @@ featural
 fainness
 fibrinogen
 feature
+forgets
 featured
 featureful
 featurelessness
@@ -8245,7 +8246,6 @@ forgetfully
 fogdog
 forgetfulness
 forgetive
-forgets
 forgett
 forgettably
 forgette
