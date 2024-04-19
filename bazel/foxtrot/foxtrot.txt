@@ -5996,7 +5996,6 @@ flora
 florae
 floral
 florally
-floramor
 floramour
 forkwise
 floras
@@ -11732,6 +11731,7 @@ fibdom
 fuze
 fuzed
 fratcheous
+floramor
 fuzees
 fuzes
 fuzil
