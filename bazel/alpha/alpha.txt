@@ -12843,6 +12843,7 @@ angiospermal
 angiospermic
 angiospermous
 angiosperms
+assistive
 angiosporous
 angiostegnosis
 angiostenosis
@@ -24052,7 +24053,6 @@ abfarad
 autogeneses
 autogenesis
 autogenetically
-assistive
 autogeny
 autogenic
 autogenies
