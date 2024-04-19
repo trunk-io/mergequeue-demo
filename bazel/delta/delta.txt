@@ -11951,6 +11951,7 @@ disenamor
 disenchant
 disenchanted
 disenchanting
+dowd
 disenchantments
 daglock
 deities
@@ -14355,7 +14356,6 @@ divestment
 divesture
 divi
 dividable
-dowd
 dividant
 desk
 dodgeries
