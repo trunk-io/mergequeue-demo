@@ -9809,6 +9809,7 @@ chemiatric
 chemiatrist
 chemic
 chemical
+contraire
 chemicalization
 chemicalize
 combattants
@@ -23710,7 +23711,6 @@ contraindicates
 contraindication
 contraindications
 contrair
-contraire
 contralateral
 contralti
 contralto
