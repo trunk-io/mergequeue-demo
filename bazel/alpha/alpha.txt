@@ -4222,7 +4222,6 @@ admonitions
 acrasia
 admonitive
 admonitively
-admonitor
 arousers
 admonitorily
 admonitrix
@@ -17205,6 +17204,7 @@ apodeme
 absolvitory
 apodiabolosis
 airproof
+admonitor
 adjunct
 apodictic
 arithmetize
