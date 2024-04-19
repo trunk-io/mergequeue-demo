@@ -19773,7 +19773,6 @@ aristida
 aristides
 aristippus
 aristocracy
-aristocrat
 aristocratic
 aristocraticalness
 alphyn
@@ -21287,6 +21286,7 @@ asyntactic
 asyntrophy
 asiphonate
 asiphonogama
+aristocrat
 appraisingly
 anomalure
 asystole

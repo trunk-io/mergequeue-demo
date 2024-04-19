@@ -4860,7 +4860,6 @@ bedsheets
 boilermakers
 bedside
 bedsit
-bangkoks
 bedsite
 bedsitter
 bedsock
@@ -15679,6 +15678,7 @@ brocatelle
 brocatello
 brocatels
 broccoli
+bangkoks
 broccolis
 broch
 bismuths
