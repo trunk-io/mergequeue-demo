@@ -5146,7 +5146,6 @@ aerostatic
 aerostatical
 aerostatics
 amalett
-aerostation
 aerostats
 aerosteam
 aerotactic
@@ -6955,6 +6954,7 @@ airlessness
 anchistopoda
 airlift
 airlifted
+aerostation
 althaeas
 airlifting
 airlifts
