@@ -9043,7 +9043,6 @@ charitative
 charity
 charities
 charityless
-charivan
 charivari
 charivaried
 carpophaga
@@ -25210,6 +25209,7 @@ coryphaenidae
 coryphaenoididae
 coryphaeus
 coryphee
+charivan
 coryphees
 coryphene
 coryphylly
