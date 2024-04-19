@@ -13259,6 +13259,7 @@ cycled
 cycledom
 cycler
 cyclers
+comonomer
 cycles
 cyclesmith
 cycliae
@@ -20377,7 +20378,6 @@ comoedia
 comoedus
 comolecule
 carbonite
-comonomer
 comonte
 comoquer
 comortgagee
