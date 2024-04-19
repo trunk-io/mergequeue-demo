@@ -2122,7 +2122,6 @@ elastin
 elastins
 elastivity
 elastomer
-elastomeric
 enfamish
 elastomers
 elastometer
@@ -6665,6 +6664,7 @@ enteroischiocele
 enterokinesia
 enterolysis
 eddies
+elastomeric
 ectomorphy
 enterolith
 enuring
