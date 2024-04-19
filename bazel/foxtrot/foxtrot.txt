@@ -3164,7 +3164,6 @@ flip
 fibroins
 fibrolipomatous
 fibrolite
-fibroma
 forgetable
 fibromatoid
 fibromatous
@@ -8218,6 +8217,7 @@ flanerie
 fluormeter
 forfeitures
 forfend
+fibroma
 forfended
 formwork
 forfending
