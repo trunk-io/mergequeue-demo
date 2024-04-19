@@ -4144,7 +4144,6 @@ displumed
 delimitize
 delimitized
 delimitizing
-delimits
 diplomyelia
 deline
 disharmonize
@@ -6577,6 +6576,7 @@ denazification
 dhooti
 disshroud
 desecrator
+delimits
 desectionalize
 daps
 desegmentation
