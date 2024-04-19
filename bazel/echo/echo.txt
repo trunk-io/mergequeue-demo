@@ -5245,7 +5245,6 @@ endorsee
 endorsees
 echinologist
 endorser
-endorsing
 emydosaurian
 endosalpingitis
 elegiast
@@ -6762,6 +6761,7 @@ enthroned
 enthronement
 enthronements
 essede
+endorsing
 enthronised
 enthronization
 enthronize
