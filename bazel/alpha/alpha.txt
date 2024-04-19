@@ -8901,7 +8901,6 @@ adjustments
 acrogenic
 alloys
 alloisomerism
-allokinetic
 allokurtic
 allolalia
 allolalic
@@ -23445,6 +23444,7 @@ auletes
 atalaya
 auletic
 auletrides
+allokinetic
 aetiophyllin
 auletris
 aulic
