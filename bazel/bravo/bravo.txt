@@ -1629,6 +1629,7 @@ ballot
 bacauan
 ballota
 ballotade
+bilobated
 balloted
 balloter
 balloters
@@ -8733,7 +8734,6 @@ buchmanism
 billsticker
 billtong
 bilobate
-bilobated
 bilobe
 bilobed
 bilocation
