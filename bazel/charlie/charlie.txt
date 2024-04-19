@@ -3910,7 +3910,6 @@ carcer
 cameleers
 carceral
 carcerate
-carcerated
 carcerating
 carceration
 carcerist
@@ -31721,6 +31720,7 @@ custom
 customable
 customableness
 customably
+carcerated
 customance
 customaries
 customarily
