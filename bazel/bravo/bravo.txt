@@ -3079,7 +3079,6 @@ benzophenoxazine
 badminton
 barware
 barwares
-bratticer
 barwood
 bravoite
 basad
@@ -3739,6 +3738,7 @@ batteaux
 bonnering
 batteler
 batteling
+bratticer
 bascule
 battels
 battement
