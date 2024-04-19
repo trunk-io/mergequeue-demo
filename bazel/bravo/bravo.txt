@@ -7878,7 +7878,6 @@ biassedly
 biatomic
 biauricular
 biauriculate
-biaxal
 biaxiality
 breather
 beshrouds
@@ -9141,6 +9140,7 @@ biopoiesis
 biod
 biological
 biopotential
+biaxal
 biramose
 bioprecipitation
 biopsy
