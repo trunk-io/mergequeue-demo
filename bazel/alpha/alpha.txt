@@ -2716,7 +2716,6 @@ acquirable
 acquire
 acquired
 acquirement
-acquirements
 acquirer
 acquirers
 acquiring
@@ -18586,6 +18585,7 @@ arbitratorship
 abib
 arbitratrix
 arbitre
+acquirements
 abstained
 arbitress
 arbitry
