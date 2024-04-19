@@ -3969,7 +3969,6 @@ cardecu
 carded
 cardel
 carder
-carders
 cardholder
 cardia
 cardiac
@@ -24819,6 +24818,7 @@ coraciiform
 coraciiformes
 coracine
 coracle
+carders
 cajole
 coracler
 coracles
