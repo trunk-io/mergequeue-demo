@@ -2707,6 +2707,7 @@ bollixes
 barmaids
 barman
 barmaster
+benzoic
 barmbrack
 barmcloth
 brither
@@ -6485,7 +6486,6 @@ benzoglycolic
 benzoglyoxaline
 balancewise
 benzohydrol
-benzoic
 benzoid
 benzoylated
 benzoylating
