@@ -1490,7 +1490,6 @@ deadfall
 dyssodia
 deadfalls
 dim
-deadheadism
 deadhearted
 deadheartedly
 deadheartedness
@@ -10995,6 +10994,7 @@ disallows
 disaltern
 disambiguate
 disambiguating
+deadheadism
 deoxyribonucleic
 disambiguations
 disamis
