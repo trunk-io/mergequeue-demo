@@ -8984,7 +8984,6 @@ foundered
 foundery
 foundering
 foundership
-furnacite
 foundling
 fabella
 foundlings
@@ -9942,6 +9941,7 @@ fretten
 fretters
 flowoff
 flagellums
+furnacite
 frettier
 fauld
 frettiest
