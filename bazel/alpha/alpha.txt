@@ -13162,7 +13162,6 @@ anthochlor
 ahrendahronon
 animala
 alterant
-animalculae
 animalcular
 animalcules
 animalculine
@@ -24279,6 +24278,7 @@ autopolyploid
 autopolyploidy
 autopolo
 autopoloist
+animalculae
 autopore
 autoportrait
 apostolos
