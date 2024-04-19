@@ -24760,7 +24760,6 @@ copulae
 copular
 copularium
 copulas
-copulate
 crang
 copulated
 copulates
@@ -27878,6 +27877,7 @@ cracknels
 crackpot
 crackpotism
 crackpots
+copulate
 crackpottedness
 crackrope
 cracks
