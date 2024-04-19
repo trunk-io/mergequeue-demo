@@ -1850,7 +1850,6 @@ brakes
 bandagist
 bandaid
 bandala
-bandalore
 bandana
 buggery
 bandanaed
@@ -6304,6 +6303,7 @@ benaming
 benight
 bituminization
 benighted
+bandalore
 besiren
 benighter
 benightment
