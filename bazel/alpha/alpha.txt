@@ -11915,6 +11915,7 @@ autopsychology
 anaphora
 anaphoral
 anaphoria
+acron
 ampelite
 anaphorical
 anaphorically
@@ -19669,7 +19670,6 @@ arianistic
 arianistical
 arianists
 affirmer
-acron
 arianizer
 arianrhod
 aryans
