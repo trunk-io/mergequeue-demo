@@ -9435,7 +9435,6 @@ amasty
 altamira
 altar
 altarage
-aphrosiderite
 altared
 allodies
 altarist
@@ -21127,6 +21126,7 @@ asgard
 asgmt
 asha
 ashake
+aphrosiderite
 ashame
 ashamed
 amaine
