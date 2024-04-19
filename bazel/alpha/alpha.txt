@@ -13749,7 +13749,6 @@ anointments
 anoints
 anole
 anoli
-anolian
 anolympiad
 anolis
 anolyte
@@ -24703,6 +24702,7 @@ avians
 absterged
 aviararies
 aviary
+anolian
 aviaries
 aviarist
 alkylene
