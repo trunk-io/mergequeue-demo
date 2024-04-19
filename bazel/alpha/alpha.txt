@@ -3692,7 +3692,6 @@ adenemphractic
 adenyl
 adenylic
 adenylpyrophosphate
-adenin
 adenine
 adenitis
 adenitises
@@ -19157,6 +19156,7 @@ archphilosopher
 ambulantes
 archpilferer
 archswindler
+adenin
 archpillar
 archpirate
 aira
