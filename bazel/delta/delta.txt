@@ -6682,7 +6682,6 @@ design
 designable
 diffidently
 designado
-designate
 designated
 designates
 designation
@@ -14731,6 +14730,7 @@ doctrinarianism
 doctrinarity
 dissuasive
 deaminization
+designate
 doctrinate
 doctrine
 doctrines
