@@ -2664,7 +2664,6 @@ entrainer
 endomycetaceae
 electrothermometer
 evanish
-electrothermostatic
 electrothermotic
 exogastritis
 electrotype
@@ -9189,6 +9188,7 @@ erythrol
 erythrolein
 erythrolysis
 epigrammatised
+electrothermostatic
 ennobled
 eulachon
 erythrolytic
