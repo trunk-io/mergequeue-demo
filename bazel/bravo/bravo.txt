@@ -9464,7 +9464,6 @@ birefracting
 bonedog
 birefraction
 birefringent
-bigram
 byreman
 bireme
 birettas
@@ -14686,6 +14685,7 @@ bayoneted
 braving
 bravish
 bravissimo
+bigram
 bravoed
 bravoes
 boho
