@@ -2420,6 +2420,7 @@ fere
 fourchet
 feres
 feretory
+forclose
 firearmed
 feretories
 frontes
@@ -7466,7 +7467,6 @@ feminine
 forcleave
 fours
 foreknown
-forclose
 fitnesses
 forconceit
 ferrimagnet
