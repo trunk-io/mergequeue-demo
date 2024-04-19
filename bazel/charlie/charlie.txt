@@ -9562,6 +9562,7 @@ checkpointed
 checkpointing
 checkpoints
 commonize
+crossbowmen
 checkrack
 checkrail
 checkrein
@@ -29813,7 +29814,6 @@ crossbolt
 crossbolted
 crossbones
 crossbow
-crossbowmen
 crossbows
 crossbred
 cladoselache
