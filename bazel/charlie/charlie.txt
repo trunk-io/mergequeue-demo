@@ -11660,6 +11660,7 @@ cholinergic
 cholines
 cholinesterase
 cholinic
+cotangents
 cholinolytic
 cholla
 cryogen
@@ -26303,7 +26304,6 @@ cot
 cotabulate
 carya
 cotangent
-cotangents
 cotarius
 cotbetty
 cotch
