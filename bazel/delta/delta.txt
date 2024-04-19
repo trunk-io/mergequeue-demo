@@ -5745,6 +5745,7 @@ deployed
 deploying
 defilade
 deployment
+decastich
 deployments
 deftest
 deplorabilia
@@ -11136,7 +11137,6 @@ disavowance
 disavowed
 disavowedly
 divinities
-decastich
 dissectional
 disavower
 divinified
