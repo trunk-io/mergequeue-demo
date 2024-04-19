@@ -15002,7 +15002,6 @@ cytost
 cradlelike
 cytostatically
 cytostomal
-cytostome
 cytostroma
 cytostromatic
 cytotactic
@@ -28834,6 +28833,7 @@ crevasse
 coney
 crevassed
 crevasses
+cytostome
 chubasco
 crevassing
 crevet
