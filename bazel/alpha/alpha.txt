@@ -13192,7 +13192,6 @@ animalism
 animalist
 algebar
 animalistic
-animality
 animalivora
 animalivore
 animalivorous
@@ -22196,6 +22195,7 @@ astragalocalcaneal
 astragalocentral
 astragalomancy
 astragaloscaphoid
+animality
 astragalotibial
 astragals
 astragalus
