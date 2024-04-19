@@ -5342,7 +5342,6 @@ casteth
 castice
 castigable
 castigate
-coincidency
 castigates
 castigating
 citraconic
@@ -17943,6 +17942,7 @@ coeliac
 coelialgia
 coelicolae
 conversus
+coincidency
 coeligenous
 coelin
 cantharellus
