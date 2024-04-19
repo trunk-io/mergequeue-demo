@@ -2542,7 +2542,6 @@ decoagulated
 dorms
 decoagulation
 decoat
-downsinking
 decocainize
 decoct
 decoctible
@@ -6896,6 +6895,7 @@ despairs
 desparple
 draff
 dissuadable
+downsinking
 decadation
 despatched
 despatcher
