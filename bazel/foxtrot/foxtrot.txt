@@ -3391,7 +3391,6 @@ fiel
 fieldball
 fieldbird
 fielden
-fielder
 fielders
 friability
 fieldfare
@@ -5208,6 +5207,7 @@ flavescence
 flavescent
 flavian
 flavic
+fielder
 flavicant
 flavid
 fatil
