@@ -16362,7 +16362,6 @@ downtime
 downton
 downtown
 downtowner
-downtowns
 diacritics
 downtrampling
 downtreading
@@ -18554,6 +18553,7 @@ dustband
 dustbin
 dustbins
 discombobulates
+downtowns
 dustcart
 detectably
 dianoetical
