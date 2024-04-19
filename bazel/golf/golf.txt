@@ -6859,7 +6859,6 @@ gallops
 grossart
 gonionia
 glumella
-goldin
 goniopholidae
 globulins
 goniopholis
@@ -8335,6 +8334,7 @@ gratters
 grattoir
 globuloid
 gratton
+goldin
 goutiness
 glibbery
 gratuitant
