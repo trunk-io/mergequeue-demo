@@ -2678,7 +2678,6 @@ acousticophobia
 acoustoelectric
 acpt
 acquaint
-athermous
 acquaintances
 acquaintanceship
 acquaintanceships
@@ -19916,6 +19915,7 @@ armband
 abasedness
 armbands
 armbone
+athermous
 armchair
 armchaired
 armenia
