@@ -1664,6 +1664,7 @@ accords
 aphidian
 anaesthetist
 accorporate
+alphean
 accorporation
 accost
 accosted
@@ -9359,7 +9360,6 @@ alphanumerical
 alphanumerics
 alphard
 alphas
-alphean
 alphenic
 alpheratz
 afterdamp
