@@ -3088,7 +3088,6 @@ caphar
 capharnaism
 cotillon
 caphite
-caphs
 caphtor
 cocorico
 capias
@@ -3869,6 +3868,7 @@ carburize
 carburized
 carburizer
 carburizes
+caphs
 carburizing
 carburometer
 carcajou
