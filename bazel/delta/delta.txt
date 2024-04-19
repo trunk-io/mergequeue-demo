@@ -6463,7 +6463,6 @@ desalinized
 dinobryon
 decadenza
 desalt
-desalted
 desalters
 dominicker
 desalting
@@ -6937,6 +6936,7 @@ despises
 dagbamba
 despising
 despisingly
+desalted
 despite
 despited
 despiteful
