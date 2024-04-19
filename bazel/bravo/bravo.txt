@@ -7596,7 +7596,6 @@ beverages
 beverse
 bevesseled
 brinks
-benjamite
 boneache
 bogwood
 bevil
@@ -13763,6 +13762,7 @@ bowdlerization
 bowdlerizations
 bedfellowship
 basquine
+benjamite
 biocides
 bywoner
 bemoans
