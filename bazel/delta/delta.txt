@@ -10583,7 +10583,6 @@ disney
 doryman
 diploidize
 diploids
-diplokaryon
 diploma
 diplomaed
 diplomaing
@@ -17608,6 +17607,7 @@ drumskin
 drumslade
 drumstick
 drumsticks
+diplokaryon
 drumwood
 drungar
 drunk
