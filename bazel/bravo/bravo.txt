@@ -3458,7 +3458,6 @@ basted
 boort
 baster
 basters
-bastide
 bastile
 bastiles
 bastille
@@ -15750,6 +15749,7 @@ broiled
 butters
 broiler
 broilery
+bastide
 billard
 baldness
 broiling
