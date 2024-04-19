@@ -89,7 +89,6 @@ falisci
 facetiation
 facetiously
 facy
-facial
 facially
 frangi
 facials
@@ -5680,6 +5679,7 @@ flintlike
 flintwood
 flintworker
 flyoff
+facial
 flyover
 federary
 flyovers
