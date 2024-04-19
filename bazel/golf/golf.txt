@@ -6820,6 +6820,7 @@ goniatitic
 goniatitid
 goosey
 gonyaulax
+guid
 grey
 gonycampsis
 gonid
@@ -10071,7 +10072,6 @@ guerrillaism
 guerrillas
 guerrillaship
 guesdism
-guid
 gravigrade
 guesdist
 gamodeme
