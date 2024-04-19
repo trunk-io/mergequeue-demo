@@ -5221,7 +5221,6 @@ befringed
 befringes
 befringing
 befrocked
-befrogged
 befrounce
 befuddle
 befuddled
@@ -10272,6 +10271,7 @@ bladelet
 bladelike
 beleaguerer
 bosporian
+befrogged
 blades
 bladesmith
 bladewise
