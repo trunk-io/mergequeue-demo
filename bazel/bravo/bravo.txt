@@ -6597,7 +6597,6 @@ blastide
 bepinch
 bepity
 bepray
-bepraise
 bepraisement
 bepraiser
 beprank
@@ -18296,6 +18295,7 @@ butterwort
 butterwright
 buttgenbachite
 butty
+bepraise
 butties
 bamah
 buttyman
