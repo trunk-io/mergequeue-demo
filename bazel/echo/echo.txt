@@ -655,7 +655,6 @@ eclectical
 eclecticism
 eclecticist
 eclecticize
-eclectism
 epizoite
 eclegm
 eclegma
@@ -13573,6 +13572,7 @@ extensibleness
 extensile
 extensionalism
 extensionality
+eclectism
 engagedness
 extensionless
 extensions
