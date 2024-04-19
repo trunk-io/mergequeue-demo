@@ -3215,7 +3215,6 @@ actionary
 actioner
 actiones
 actionist
-actionize
 actionizing
 actionless
 arrectary
@@ -16116,6 +16115,7 @@ antirepublican
 antirepublicanism
 antireservationist
 antiresonance
+actionize
 antiresonator
 antirestoration
 antirevisionist
