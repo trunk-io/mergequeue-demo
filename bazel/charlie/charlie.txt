@@ -7046,7 +7046,6 @@ centavo
 centena
 centenar
 centenary
-centenaries
 centenier
 centenionales
 centenionalis
@@ -23404,6 +23403,7 @@ contemplation
 contemplations
 contemplatist
 contemplative
+centenaries
 contemplatively
 contemplativeness
 contemplator
