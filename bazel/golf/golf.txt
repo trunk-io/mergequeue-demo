@@ -9860,7 +9860,6 @@ gnatty
 guanize
 guano
 glideness
-guanosine
 guans
 gazook
 groundwood
@@ -10795,6 +10794,7 @@ guttiferae
 ganglioneuron
 guttiferales
 guttiform
+guanosine
 guttiness
 gladless
 gauging
