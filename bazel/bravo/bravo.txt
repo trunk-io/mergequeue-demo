@@ -518,7 +518,6 @@ backstring
 backstroke
 backstrokes
 backstromite
-backswept
 backswimmer
 backswing
 backsword
@@ -17013,6 +17012,7 @@ bulimus
 belief
 baler
 bulk
+backswept
 bishoping
 bulkage
 bulkages
