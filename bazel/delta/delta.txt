@@ -8755,7 +8755,6 @@ diatomous
 diatoms
 diatonic
 diatonically
-diatonicism
 durzi
 diatoric
 diatreme
@@ -18561,6 +18560,7 @@ dianoetical
 dustcover
 decurved
 dusted
+diatonicism
 dysoxidize
 dustee
 dwarfish
