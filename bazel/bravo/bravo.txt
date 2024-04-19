@@ -2908,7 +2908,6 @@ broadcasts
 barranca
 barranco
 biverbal
-barrancos
 barrandite
 braconniere
 barras
@@ -15395,6 +15394,7 @@ brimfully
 buckeyes
 brimfullness
 brimfulness
+barrancos
 brimless
 bilboes
 bindheimite
