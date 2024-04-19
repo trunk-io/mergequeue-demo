@@ -2956,7 +2956,6 @@ deductive
 deductively
 deductory
 deducts
-deduit
 deduplication
 diploetic
 deecodder
@@ -13459,6 +13458,7 @@ doat
 dermatoid
 dissceptring
 disscussive
+deduit
 disseason
 disseat
 disseating
