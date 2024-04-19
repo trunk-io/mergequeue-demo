@@ -6211,7 +6211,6 @@ aromaticness
 amyous
 agitators
 agitatrix
-accelerations
 agitprop
 agitprops
 agkistrodon
@@ -12306,6 +12305,7 @@ andaquian
 andaste
 ande
 andean
+accelerations
 anders
 anderson
 anderun
