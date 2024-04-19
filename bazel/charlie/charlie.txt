@@ -6415,7 +6415,6 @@ cavern
 cavernal
 caverned
 cavernicolous
-caverning
 cavernitis
 cavernlike
 cavernoma
@@ -24300,6 +24299,7 @@ cookless
 cookout
 cookouts
 cookroom
+caverning
 cookshop
 cyanomethaemoglobin
 cookshops

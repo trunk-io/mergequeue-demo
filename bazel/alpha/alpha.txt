@@ -5126,6 +5126,7 @@ amreetas
 aerothermodynamic
 aerothermodynamics
 aerotonometer
+agronomic
 aerotonometry
 adularescent
 aerotonometric
@@ -6516,7 +6517,6 @@ agron
 agronome
 agronomy
 agronomial
-agronomic
 agronomical
 agronomically
 agronomist
