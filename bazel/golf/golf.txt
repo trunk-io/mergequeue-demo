@@ -1403,7 +1403,6 @@ gazania
 gare
 garefowl
 goods
-garefowls
 germanhood
 garetta
 garewaite
@@ -1533,6 +1532,7 @@ goodnight
 garrisonian
 garrisoning
 garrisonism
+garefowls
 garrnishable
 gemeinde
 garroo
