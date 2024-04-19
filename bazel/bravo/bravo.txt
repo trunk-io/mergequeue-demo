@@ -4636,7 +4636,6 @@ bedaubing
 bedaubs
 bedlike
 bedawee
-bedaze
 bedazed
 bedazement
 bigotedly
@@ -14444,6 +14443,7 @@ bramia
 bran
 bolivarite
 brancard
+bedaze
 brancardier
 branchiomeric
 branchage
