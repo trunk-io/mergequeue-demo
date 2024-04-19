@@ -11287,7 +11287,6 @@ amphoriloquy
 actinolite
 amphoriskoi
 amphoriskos
-amphorophony
 amphorous
 alarming
 amphoteric
@@ -21783,6 +21782,7 @@ assignats
 ambiparous
 assignee
 assignees
+amphorophony
 assigner
 assigners
 assignment
