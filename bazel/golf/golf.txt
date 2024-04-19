@@ -7775,7 +7775,6 @@ garrupa
 gramy
 grangerite
 gratiano
-gramicidin
 gemauve
 gramineae
 gyres
@@ -9082,6 +9081,7 @@ gripeful
 grandest
 gnu
 gripey
+gramicidin
 gripes
 gripgrass
 griphite

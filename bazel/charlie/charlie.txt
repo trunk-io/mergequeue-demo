@@ -8758,7 +8758,6 @@ chant
 condensational
 celandine
 chera
-chantant
 chantecler
 chanted
 chantey
@@ -20622,6 +20621,7 @@ complacent
 cantor
 complacentially
 complacently
+chantant
 complain
 complainable
 complainant
