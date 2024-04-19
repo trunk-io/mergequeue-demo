@@ -6005,7 +6005,6 @@ giggle
 glucocorticoid
 glucofrangulin
 guatemaltecan
-glucogene
 gunsling
 glucogenesis
 glucokinase
@@ -10668,6 +10667,7 @@ guser
 guserid
 galanas
 gush
+glucogene
 gusher
 goethe
 geohydrologist

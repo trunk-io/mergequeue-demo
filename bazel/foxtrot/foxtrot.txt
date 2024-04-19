@@ -7002,7 +7002,6 @@ feuille
 fatheads
 follow
 followable
-followed
 follower
 foisting
 fascines
@@ -8366,6 +8365,7 @@ familiars
 forkiness
 forking
 forkless
+followed
 filiation
 fledging
 fertilizable
