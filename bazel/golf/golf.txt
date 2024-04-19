@@ -127,7 +127,6 @@ gadgetries
 gadi
 guttide
 gadid
-gadidae
 gramaphone
 gadinic
 generals
@@ -6575,6 +6574,7 @@ goldarned
 goldbeater
 goldbeating
 gigglers
+gadidae
 gregorian
 gouger
 goldbird
