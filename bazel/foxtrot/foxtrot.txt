@@ -2009,6 +2009,7 @@ feedbox
 feedboxes
 feeder
 foundationed
+foresense
 flaxseeds
 feeding
 feedlot
@@ -6876,7 +6877,6 @@ foliator
 foliature
 foliicolous
 foliiferous
-foresense
 folily
 facemaking
 foreadapt
