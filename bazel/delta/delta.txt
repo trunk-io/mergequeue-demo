@@ -1682,7 +1682,6 @@ degree
 diabolonian
 donatary
 deathday
-deathful
 deathfulness
 deathy
 dreamer
@@ -12944,6 +12943,7 @@ disparts
 dispassion
 dioecism
 dispassionate
+deathful
 dispassionateness
 daughterhood
 dispassioned
