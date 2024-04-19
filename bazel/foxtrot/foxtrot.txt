@@ -3523,7 +3523,6 @@ forel
 fighteress
 fanwort
 fighting
-fights
 foundation
 figitidae
 facultate
@@ -3897,6 +3896,7 @@ feeblemindedly
 fimbriating
 foveation
 farcer
+fights
 fimbriatum
 feral
 frigidness
