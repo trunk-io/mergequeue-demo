@@ -5667,7 +5667,6 @@ deperditely
 domain
 davenports
 deperition
-drugstore
 deperm
 depermed
 deperms
@@ -17356,6 +17355,7 @@ decident
 droob
 drooled
 drooly
+drugstore
 droolier
 drooling
 dorts
