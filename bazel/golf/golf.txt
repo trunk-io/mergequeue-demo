@@ -1767,7 +1767,6 @@ galenism
 gastroenteritis
 gluts
 gastroenteroanastomosis
-gastroenterocolitis
 gastroenterocolostomy
 gastroenterology
 gelatination
@@ -2629,6 +2628,7 @@ genealogists
 gradatim
 great
 guardianships
+gastroenterocolitis
 guttifer
 gnomological
 geochronometry
