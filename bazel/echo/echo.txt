@@ -2421,7 +2421,6 @@ electroengrave
 epoist
 electroengraving
 electroextraction
-expedient
 electroform
 electroforming
 electrofusion
@@ -6822,6 +6821,7 @@ eelgrass
 entocele
 entocyemate
 epidemics
+expedient
 everett
 entocyst
 enows
