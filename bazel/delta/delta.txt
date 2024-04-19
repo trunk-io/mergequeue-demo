@@ -3679,7 +3679,6 @@ dehache
 dehypnotize
 dehair
 deheathenize
-dehematize
 decard
 departement
 disoxygenate
@@ -9426,6 +9425,7 @@ dig
 disheathing
 digallic
 digametic
+dehematize
 digamy
 digamies
 digamma

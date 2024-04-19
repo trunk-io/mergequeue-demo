@@ -2236,7 +2236,6 @@ electary
 epithet
 enthraldom
 elysee
-electees
 electic
 elementary
 electicism
@@ -7674,6 +7673,7 @@ epicranium
 emplead
 epicranius
 epicrasis
+electees
 epicrates
 epicrises
 epicrisis
