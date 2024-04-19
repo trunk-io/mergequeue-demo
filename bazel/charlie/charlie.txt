@@ -27084,6 +27084,7 @@ counterselection
 countersense
 counterservice
 countershade
+crushproof
 clione
 countershading
 countershaft
@@ -30289,7 +30290,6 @@ crushable
 crushed
 catamenial
 crushers
-crushproof
 cowpokes
 crusile
 crusilee
