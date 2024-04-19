@@ -3225,6 +3225,7 @@ geoscience
 grenade
 geoscientist
 geoscientists
+gellant
 geoscopy
 gelasian
 geoscopic
@@ -6373,7 +6374,6 @@ goatsfoot
 goatskin
 goatskins
 gawkily
-gellant
 goatstone
 guiler
 gaum
