@@ -3805,6 +3805,7 @@ boatfalls
 banderilla
 battlestead
 battlewagon
+belemnid
 battleward
 battlewise
 bronchiectasis
@@ -5703,7 +5704,6 @@ belecture
 beledgered
 belee
 beleed
-belemnid
 belemnite
 belemnites
 belemnitic
