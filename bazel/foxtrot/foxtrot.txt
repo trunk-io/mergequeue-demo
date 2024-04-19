@@ -6497,6 +6497,7 @@ flushboard
 flushed
 flatboat
 flushers
+flourlike
 flushest
 flushgate
 flushy
@@ -8946,7 +8947,6 @@ foul
 foulards
 foulbrood
 foulder
-flourlike
 fouled
 fouler
 falsificator
