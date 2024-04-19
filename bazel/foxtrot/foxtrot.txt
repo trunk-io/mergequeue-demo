@@ -6003,7 +6003,6 @@ flora
 floral
 florally
 floramour
-forkwise
 floras
 florate
 floreal
@@ -8362,6 +8361,7 @@ followed
 filiation
 fledging
 fertilizable
+forkwise
 fingerprinted
 fayed
 fibrillous
