@@ -10521,7 +10521,6 @@ chiliadron
 clattertrap
 chiliads
 chiliaedron
-chiliagon
 connexity
 chiliahedron
 chiliarch
@@ -27893,6 +27892,7 @@ craddy
 cradge
 cradle
 cradleboard
+chiliagon
 cradlechild
 cradled
 cradlefellow
