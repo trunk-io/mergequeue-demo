@@ -2730,7 +2730,6 @@ elegising
 elegist
 esterizing
 eyewitness
-elegists
 elegize
 elegized
 elegizes
@@ -12323,6 +12322,7 @@ exegeses
 exegesis
 exegesist
 exegete
+elegists
 exegetic
 exegetics
 exegetist
