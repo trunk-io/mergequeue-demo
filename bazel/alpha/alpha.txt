@@ -3120,7 +3120,6 @@ anthropopathite
 actinogram
 assyriologist
 appearances
-almagest
 actinograph
 acrosporous
 actinography
@@ -23885,6 +23884,7 @@ autobiographer
 autobiographers
 autobiography
 autobiographical
+almagest
 autobiographically
 autobiographist
 autobiology
