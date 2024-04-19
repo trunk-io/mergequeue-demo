@@ -15328,7 +15328,6 @@ domiciled
 domicilement
 domiciles
 domiciliar
-domiciliary
 domiciliate
 domiciliated
 domiciliating
@@ -17498,6 +17497,7 @@ drowning
 denotational
 drowns
 drowse
+domiciliary
 drowsed
 drowses
 drowsy
