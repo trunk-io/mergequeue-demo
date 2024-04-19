@@ -1072,7 +1072,6 @@ babyhouse
 bailors
 bailout
 bails
-bayou
 bailsman
 bailsmen
 bailwood
@@ -10111,6 +10110,7 @@ blackboy
 boughpot
 blackbuck
 blackbush
+bayou
 blackbutt
 blackcap
 blackcaps
