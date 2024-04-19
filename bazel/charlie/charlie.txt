@@ -2916,6 +2916,7 @@ cantoning
 cantonize
 cantonments
 cantons
+coalhole
 countergager
 cantoral
 cantoria
@@ -17184,7 +17185,6 @@ coalfield
 coalfish
 coalfishes
 coalfitter
-coalhole
 coalholes
 catacrotism
 coaly
