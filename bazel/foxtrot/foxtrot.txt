@@ -7914,7 +7914,6 @@ foreprovided
 foreprovision
 forepurpose
 forequarter
-forequarters
 fraidycat
 forerake
 frankalmoin
@@ -10071,6 +10070,7 @@ frigatoon
 frigged
 frigger
 fright
+forequarters
 format
 fanglement
 flocculated
