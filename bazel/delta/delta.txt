@@ -4902,6 +4902,7 @@ definitude
 debited
 demonist
 demonists
+derealization
 demonize
 demonized
 demonizes
@@ -6138,7 +6139,6 @@ derbylite
 derbukka
 deploringly
 dere
-derealization
 doddery
 derecho
 dereference
