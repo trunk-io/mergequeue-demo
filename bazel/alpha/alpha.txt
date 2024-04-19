@@ -11283,7 +11283,6 @@ amphivasal
 amphodarch
 anthyllis
 amphodelite
-amphodiplopia
 amphogeny
 ampholyte
 ampholytic
@@ -25327,6 +25326,7 @@ azophosphore
 azoprotein
 azores
 azorian
+amphodiplopia
 azorite
 azorubine
 agonising
