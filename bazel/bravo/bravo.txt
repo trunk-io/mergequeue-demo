@@ -9641,7 +9641,6 @@ bisectors
 bisectrices
 busybodyness
 bisects
-bisegment
 bisellium
 brichette
 banalize
@@ -9861,6 +9860,7 @@ brail
 bathyl
 blastiest
 bitheism
+bisegment
 bunton
 biti
 bromals
