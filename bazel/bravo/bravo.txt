@@ -2629,7 +2629,6 @@ byres
 bedaff
 barytons
 barytophyllite
-barytosulphate
 bariums
 bridgelike
 barkan
@@ -6866,6 +6865,7 @@ berried
 berrier
 berries
 berrigan
+barytosulphate
 berryless
 berrylike
 berryman
