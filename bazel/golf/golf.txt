@@ -6423,7 +6423,6 @@ gobio
 gomeral
 glove
 garnet
-gobleted
 gastriloquous
 greenhouse
 gastronomist
@@ -8589,6 +8588,7 @@ greekess
 greekish
 greekism
 gawkier
+gobleted
 garapata
 glyph
 greekize
