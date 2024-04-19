@@ -6583,6 +6583,7 @@ cecopexy
 cecostomy
 cecropia
 cecrops
+codifier
 chaptalized
 cecum
 cecums
@@ -17843,7 +17844,6 @@ codify
 codification
 codifications
 codified
-codifier
 codifiers
 codifies
 codifying
