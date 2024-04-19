@@ -2555,7 +2555,6 @@ exportability
 electrophysiologically
 electrophobia
 electrophore
-electrotherapeutic
 ecphova
 electrophorese
 electrophoreses
@@ -8620,6 +8619,7 @@ equibiradiate
 equicaloric
 equicohesive
 equicontinuous
+electrotherapeutic
 encompassing
 equiconvex
 egrets
