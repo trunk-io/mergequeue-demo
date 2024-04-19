@@ -1832,7 +1832,6 @@ genotypes
 guardfish
 gastronosus
 gastroparalysis
-geopony
 gastroparesis
 gastroparietal
 gastropathy
@@ -4420,6 +4419,7 @@ gingerade
 gravidity
 gnashing
 gingerberry
+geopony
 gingerbready
 gingered
 gingery
