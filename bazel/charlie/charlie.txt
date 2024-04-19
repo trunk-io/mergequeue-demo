@@ -28483,7 +28483,6 @@ credenciveness
 credenda
 credendum
 credens
-credensive
 carpent
 credent
 credentialed
@@ -30555,6 +30554,7 @@ cucularis
 cachila
 cestos
 cucule
+credensive
 cuculidae
 cuculiform
 cuculiformes
