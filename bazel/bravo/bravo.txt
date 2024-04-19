@@ -7372,7 +7372,6 @@ beneventana
 betallow
 bewilders
 betanaphthol
-betangle
 blowby
 betanglement
 borrowed
@@ -8515,6 +8514,7 @@ bilateralism
 bilaterality
 bilateralities
 behaviors
+betangle
 bilaterally
 bilati
 bylawman
