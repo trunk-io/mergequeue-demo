@@ -14955,6 +14955,7 @@ cytomorphology
 cytomorphological
 cyton
 cytone
+coeditor
 cytopahgous
 cytoparaplastin
 cytopathic
@@ -17888,7 +17889,6 @@ chantage
 coedit
 coedited
 coediting
-coeditor
 coeditors
 coedits
 coeducation
