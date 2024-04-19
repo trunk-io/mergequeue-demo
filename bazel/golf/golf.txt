@@ -661,6 +661,7 @@ gadaea
 geodesy
 galliot
 galliots
+gleanings
 gurnets
 gadfly
 gallipot
@@ -5295,7 +5296,6 @@ grayback
 gleaned
 gleaner
 gleaners
-gleanings
 glebae
 glebal
 gels
