@@ -450,7 +450,6 @@ expandability
 ecclesia
 ecclesiarch
 ecclesiarchy
-esthetician
 ecclesiast
 expostulated
 ecclesiastes
@@ -8943,6 +8942,7 @@ erewhile
 erewhiles
 erg
 expuition
+esthetician
 ergane
 ergastic
 ergastoplasm
