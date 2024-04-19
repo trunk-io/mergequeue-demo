@@ -11481,7 +11481,6 @@ barbs
 blur
 blurb
 blurbist
-bonded
 basimesostasis
 blurbs
 bargained
@@ -11833,6 +11832,7 @@ bodrag
 bodrage
 battalions
 benedick
+bonded
 bodstick
 blase
 baalite
