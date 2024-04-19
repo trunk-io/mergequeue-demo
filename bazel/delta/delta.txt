@@ -7785,7 +7785,6 @@ devotee
 devoteeism
 devotees
 devotement
-devoter
 devotes
 disintegrous
 devoting
@@ -11331,6 +11330,7 @@ deglamorize
 discharges
 discharging
 degreeless
+devoter
 discharity
 discharm
 dischevel
