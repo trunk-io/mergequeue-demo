@@ -1939,6 +1939,7 @@ decadic
 decadrachm
 dimble
 desensitizer
+dots
 decadrachma
 decadrachmae
 dimorphic
@@ -7272,7 +7273,6 @@ determining
 determinism
 determinist
 deterministic
-dots
 demodicidae
 descend
 deterministically
