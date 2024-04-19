@@ -2650,7 +2650,6 @@ ferronickel
 ferrophosphorus
 filicologist
 frustulose
-ferrotype
 ferrotyped
 ferrotyping
 fibrocaseose
@@ -3666,6 +3665,7 @@ figboy
 files
 filesmith
 filesniff
+ferrotype
 filespec
 fossores
 fileting
