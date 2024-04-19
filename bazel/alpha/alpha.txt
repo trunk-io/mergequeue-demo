@@ -10738,7 +10738,6 @@ amlet
 amli
 amlikar
 amlong
-amman
 ammelide
 ammelin
 ammeos
@@ -20549,6 +20548,7 @@ arteriotome
 arteriotomy
 arteriotomies
 arteriotrepsis
+amman
 arterious
 arcticology
 arteriovenous
