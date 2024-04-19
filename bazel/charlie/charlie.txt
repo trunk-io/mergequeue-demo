@@ -15802,7 +15802,6 @@ clavolae
 clavolet
 clavus
 clavuvi
-claw
 clawed
 clawer
 copyright
@@ -18879,6 +18878,7 @@ collaborations
 collaborative
 collaboratively
 collaborativeness
+claw
 collaborator
 collaborators
 collada
