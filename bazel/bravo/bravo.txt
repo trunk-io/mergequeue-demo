@@ -12698,7 +12698,6 @@ bookmate
 bookmobile
 bookmobiles
 baroni
-bookplates
 barwise
 bookpress
 bookrack
@@ -14585,6 +14584,7 @@ brashier
 bylaws
 brashiest
 brashiness
+bookplates
 brashly
 bacchanalianism
 brachylogy
