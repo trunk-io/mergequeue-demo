@@ -9850,7 +9850,6 @@ chemicophysiological
 curtaining
 chemicovital
 chemiculture
-chemigraph
 chemigraphy
 chemigraphic
 chemigraphically
@@ -17306,6 +17305,7 @@ coassert
 coasserter
 coassessor
 caravelle
+chemigraph
 cimline
 coassignee
 coassist
