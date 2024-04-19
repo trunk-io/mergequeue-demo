@@ -7083,7 +7083,6 @@ bloman
 besmoothed
 besmoothing
 besmooths
-besmother
 barricades
 besmottered
 besmouch
@@ -7871,6 +7870,7 @@ bezil
 biases
 baccarats
 bushi
+besmother
 biasing
 biasnesses
 biatomic
