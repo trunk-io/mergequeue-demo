@@ -2991,7 +2991,6 @@ fidgetiness
 fulmarus
 fevered
 feveret
-feverfew
 feverfews
 fevergum
 forbidal
@@ -11348,6 +11347,7 @@ furcation
 fellen
 furcellate
 furciferine
+feverfew
 frabous
 furciform
 furcilia
