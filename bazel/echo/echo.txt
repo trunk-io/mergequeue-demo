@@ -7912,7 +7912,6 @@ epilamellar
 epilate
 epilating
 epilation
-epilator
 epilemma
 epileny
 epilepsies
@@ -8691,6 +8690,7 @@ emergently
 equinate
 emerging
 equine
+epilator
 everbearer
 exostracize
 equinity
