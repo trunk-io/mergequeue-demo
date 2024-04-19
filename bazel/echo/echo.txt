@@ -2969,7 +2969,6 @@ echelonment
 elishah
 elysian
 elysiidae
-elision
 elisions
 elysium
 elisor
@@ -13434,6 +13433,7 @@ equivocate
 expurgated
 expurgating
 expurgation
+elision
 expurgational
 ethan
 expurgations
