@@ -4252,7 +4252,6 @@ cotinga
 cargason
 cargo
 cargoes
-cargoose
 cargos
 cargued
 carhop
@@ -30228,6 +30227,7 @@ crumpler
 crumples
 cerastium
 crumply
+cargoose
 crumps
 cycad
 crumster
