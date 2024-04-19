@@ -2587,6 +2587,7 @@ gems
 genouillere
 glassing
 gemsbuck
+gibus
 gemmology
 gemstone
 gemuetlich
@@ -3885,7 +3886,6 @@ goyle
 gibsons
 gibstaff
 gavelage
-gibus
 gibuses
 giddap
 guideless
