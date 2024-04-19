@@ -4325,7 +4325,6 @@ adorns
 attestation
 automorph
 axis
-adorsed
 ados
 adosculation
 adossed
@@ -20648,6 +20647,7 @@ arthrosia
 arthrosynovitis
 arthrosyrinx
 arthrosis
+adorsed
 aeromagnetic
 aethered
 arthrospore
