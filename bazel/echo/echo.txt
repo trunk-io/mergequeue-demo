@@ -106,6 +106,7 @@ earpick
 eyres
 earpiece
 earplugs
+enchisel
 earreach
 earringed
 earrings
@@ -6343,7 +6344,6 @@ emporia
 ensearcher
 enseated
 exgorgitation
-enchisel
 electroosmotic
 enfaced
 exhume
