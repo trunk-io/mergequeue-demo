@@ -1492,6 +1492,7 @@ garnison
 garniture
 grecize
 garon
+grimace
 garookuh
 garote
 garotes
@@ -5375,7 +5376,6 @@ glyceride
 gau
 glyceridic
 granitical
-grimace
 glyceryl
 guiro
 glycerin
