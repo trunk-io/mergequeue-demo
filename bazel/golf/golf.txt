@@ -5628,7 +5628,6 @@ globalized
 globalizing
 gamori
 globally
-globe
 globed
 greasepaint
 guinea
@@ -7290,6 +7289,7 @@ generalised
 gossard
 gossep
 geomechanics
+globe
 goujay
 gossy
 grills
