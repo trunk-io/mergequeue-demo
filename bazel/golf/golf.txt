@@ -5594,7 +5594,6 @@ glitches
 gadaria
 glitterance
 grandparenthood
-glittery
 glitteringly
 glitters
 grossify
@@ -8230,6 +8229,7 @@ gry
 gnarling
 grins
 genovino
+glittery
 garnisher
 grasshouse
 gentlemanlike
