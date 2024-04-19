@@ -5429,7 +5429,6 @@ affluentness
 affluents
 abscise
 any
-afflux
 affluxes
 actinocutitis
 affluxion
@@ -13305,6 +13304,7 @@ accessories
 antirational
 adigranth
 aerographer
+afflux
 adsorbing
 anisobranchiate
 anisocarpic
