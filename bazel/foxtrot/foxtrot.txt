@@ -7069,7 +7069,6 @@ fain
 fono
 fons
 fontal
-fontanel
 frothing
 fontanelle
 fraenums
@@ -10422,6 +10421,7 @@ frondigerous
 fraenula
 floodlighted
 fortiori
+fontanel
 frondless
 forepaling
 frondlet
