@@ -2398,6 +2398,7 @@ decimalization
 decimalize
 decimalized
 decimalizes
+desugared
 decimally
 decimals
 dressages
@@ -7100,7 +7101,6 @@ desucration
 desudation
 desuete
 desuetudes
-desugared
 desugaring
 desulfovibrio
 disseises
