@@ -2651,6 +2651,7 @@ decapod
 decomposure
 dogwatches
 decompoundable
+diffractional
 decompoundly
 decompress
 decompresses
@@ -9386,7 +9387,6 @@ difformed
 diffract
 diffracting
 diffraction
-diffractional
 diffractions
 defense
 directionless
