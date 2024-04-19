@@ -5694,7 +5694,6 @@ catchpollery
 catchpolling
 copperheads
 catchup
-catchups
 catchwater
 contribute
 catchweight
@@ -8114,6 +8113,7 @@ colonalgia
 chaetopterin
 chaetopterus
 chaetosoma
+catchups
 chaetosomatidae
 chaetosomidae
 codrus
