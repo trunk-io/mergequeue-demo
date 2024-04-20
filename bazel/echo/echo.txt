@@ -4135,6 +4135,7 @@ estancia
 enteromere
 employe
 estado
+eriglossa
 employed
 employee
 endives
@@ -9058,7 +9059,6 @@ erie
 erigeron
 erigerons
 erigible
-eriglossa
 eryhtrism
 enables
 expungement
