@@ -7891,7 +7891,6 @@ alefs
 aleft
 alefzero
 alegar
-aleger
 alehouse
 alehouses
 amor
@@ -17154,6 +17153,7 @@ apocarp
 apocarpy
 apocarpous
 apocarps
+aleger
 apocatastasis
 apocatastatic
 apocentre
