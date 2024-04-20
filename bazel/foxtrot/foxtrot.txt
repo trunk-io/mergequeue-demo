@@ -2709,6 +2709,7 @@ fertilize
 fertilized
 formers
 fertilizer
+figurate
 fairings
 fillagreing
 fallers
@@ -2982,7 +2983,6 @@ feuilleton
 feuilletonist
 feuilletonistic
 feuilletons
-figurate
 fleches
 feulamort
 formulary
