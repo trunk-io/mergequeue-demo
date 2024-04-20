@@ -1961,6 +1961,7 @@ decaedron
 decaesarize
 decaffeinate
 decaffeinated
+depicted
 decaffeinates
 deadpanner
 decaffeinating
@@ -5698,7 +5699,6 @@ duennadom
 dephosphorize
 depickle
 depict
-depicted
 depicter
 denuclearize
 depicting
