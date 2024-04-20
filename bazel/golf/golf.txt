@@ -5463,7 +5463,6 @@ glycosin
 glycuronic
 graph
 gripy
-glidder
 gliddery
 glided
 grafts
@@ -9515,6 +9514,7 @@ grouted
 groundkeeper
 grouter
 geothlypis
+glidder
 gulliver
 gurgeon
 grouty
