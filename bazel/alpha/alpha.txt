@@ -1820,7 +1820,6 @@ acipenserid
 accusants
 accusation
 accusations
-accusative
 accusatively
 accusativeness
 accusatives
@@ -17437,6 +17436,7 @@ aposoro
 apospory
 austria
 archpatriarch
+accusative
 aposporogony
 apostacies
 apostacize
