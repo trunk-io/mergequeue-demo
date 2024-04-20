@@ -6834,7 +6834,6 @@ entoglossal
 epithelilia
 embonpoint
 entoil
-entoiling
 entoils
 entoloma
 entom
@@ -12334,6 +12333,7 @@ exegetic
 exegetics
 exegetist
 exemplar
+entoiling
 evertile
 echinostomiasis
 ensued
