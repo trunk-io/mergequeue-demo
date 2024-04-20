@@ -6948,7 +6948,6 @@ airliner
 airlines
 airling
 airlock
-airlocks
 airmailing
 annoyingness
 abietite
@@ -9909,6 +9908,7 @@ amaurotic
 amaut
 amaxomania
 amaze
+airlocks
 atamans
 akroterial
 amazedly
