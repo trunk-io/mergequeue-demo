@@ -2453,7 +2453,6 @@ griffinish
 goodnesses
 gelder
 geldesprung
-gelding
 generalizeable
 geldings
 gelds
@@ -9527,6 +9526,7 @@ gamine
 grouts
 globulitic
 grouze
+gelding
 grove
 groved
 groveled
