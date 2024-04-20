@@ -3038,7 +3038,6 @@ geochronology
 geochronological
 geocyclic
 geocline
-geococcyx
 geocoronium
 gordunite
 geocratic
@@ -7750,6 +7749,7 @@ guestimate
 grossirete
 guebre
 grammarianism
+geococcyx
 graywether
 grallae
 geophone
