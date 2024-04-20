@@ -13696,7 +13696,6 @@ diathermous
 dalis
 dissolveability
 disenshroud
-descanting
 dissolved
 dissolvent
 dissolves
@@ -14065,6 +14064,7 @@ dinky
 disencrease
 disunify
 disunifying
+descanting
 diastatically
 dyad
 dermatomic
