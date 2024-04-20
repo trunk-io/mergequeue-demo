@@ -5811,7 +5811,6 @@ glossa
 gorged
 glossolabiolaryngeal
 glossal
-gudebrother
 glossalgy
 glossalgia
 glossarial
@@ -7161,6 +7160,7 @@ gorgia
 gorging
 gorglin
 gorgon
+gudebrother
 graynesses
 gorgoneia
 glycan
