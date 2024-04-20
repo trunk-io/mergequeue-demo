@@ -2514,7 +2514,6 @@ billbugs
 bargainee
 bargainer
 bargaining
-bargainor
 bargander
 barge
 bargeboard
@@ -10009,6 +10008,7 @@ blights
 bizarrerie
 bield
 biventral
+bargainor
 biverb
 bivial
 beinness
