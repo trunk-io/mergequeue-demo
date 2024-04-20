@@ -7706,7 +7706,6 @@ enterorrhexis
 equilibration
 epidemiologic
 epistolean
-epidemiological
 effronteries
 enfeeblement
 efficacity
@@ -12300,6 +12299,7 @@ execution
 enhort
 executioneering
 executioner
+epidemiological
 emulates
 executively
 entangledly
