@@ -7946,7 +7946,6 @@ alerse
 alert
 alerta
 anorak
-alerted
 anabasis
 antinaturalist
 alertedly
@@ -14371,6 +14370,7 @@ anisogamy
 anthemideae
 adds
 ablactate
+alerted
 archflatterer
 anthemion
 anthemis
