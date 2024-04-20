@@ -1745,7 +1745,6 @@ debatable
 debate
 dung
 dismayingness
-debateful
 debatefully
 discovered
 debates
@@ -7766,6 +7765,7 @@ devolve
 devolved
 devolvements
 duopod
+debateful
 devolves
 decile
 diplospondylic
