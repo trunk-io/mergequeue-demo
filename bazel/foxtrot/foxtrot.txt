@@ -5182,7 +5182,6 @@ flaunch
 fullfaces
 flaunched
 ferie
-flaunt
 flaunter
 funest
 fraternizes
@@ -10384,6 +10383,7 @@ frolicsomely
 frammit
 farnesses
 foxiness
+flaunt
 fimbrilla
 from
 funiculate
