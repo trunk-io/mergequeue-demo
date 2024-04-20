@@ -3318,6 +3318,7 @@ basiradial
 basirostral
 biserrate
 basiscopic
+blepharitic
 basisidia
 balladwise
 blankeel
@@ -10762,7 +10763,6 @@ blepharydatis
 blephariglottis
 blepharism
 billhook
-blepharitic
 blepharoadenitis
 blepharoadenoma
 belles
