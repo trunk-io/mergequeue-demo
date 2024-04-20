@@ -9478,7 +9478,6 @@ escalader
 escalades
 escalading
 escalan
-escalate
 enlute
 escalating
 escalations
@@ -11235,6 +11234,7 @@ estancieros
 endotherm
 econometrist
 embanked
+escalate
 emendatory
 exion
 eutopian
