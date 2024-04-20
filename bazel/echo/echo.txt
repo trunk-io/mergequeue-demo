@@ -5181,7 +5181,6 @@ exhilaration
 endoparasitism
 endopathic
 endopelvic
-endopeptidase
 endopericarditis
 enteromyiasis
 endoperidium
@@ -7901,6 +7900,7 @@ epilating
 epilation
 epilemma
 epileny
+endopeptidase
 epilepsies
 epileptic
 epileptical
