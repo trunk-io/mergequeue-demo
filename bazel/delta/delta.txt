@@ -1822,7 +1822,6 @@ deblaterate
 deblateration
 deblock
 dijudicate
-deblocking
 deboise
 dispunge
 deboistly
@@ -2467,6 +2466,7 @@ decke
 deckedout
 deckel
 deckels
+deblocking
 dirigent
 decken
 decker
