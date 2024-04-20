@@ -15285,6 +15285,7 @@ antiface
 antifaction
 antifame
 antifanatic
+autoinhibited
 antifascism
 anchylosing
 antifascist
@@ -24122,7 +24123,6 @@ autoincrements
 autoindexing
 autoinductive
 autoinfusion
-autoinhibited
 admonishment
 autoinoculable
 autoinoculation
