@@ -5768,7 +5768,6 @@ engrandize
 engrandizement
 engraphic
 engraphically
-engrapple
 engrasp
 engraulis
 engrave
@@ -13017,6 +13016,7 @@ expellers
 explications
 efficacious
 eoliths
+engrapple
 expend
 euphuisms
 estacade
