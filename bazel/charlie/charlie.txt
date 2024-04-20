@@ -14224,7 +14224,6 @@ circuities
 countrie
 circuiting
 circuition
-chromaticism
 circuitman
 circuitmen
 constitutionality
@@ -29967,6 +29966,7 @@ croton
 crotonaldehyde
 crotonate
 crotonbug
+chromaticism
 crotonic
 crotonyl
 crotonylene
