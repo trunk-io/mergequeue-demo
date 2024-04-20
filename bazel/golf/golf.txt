@@ -914,6 +914,7 @@ gamdia
 gamebag
 girtline
 gamecock
+gyrofrequency
 gamecraft
 guffaws
 girba
@@ -7646,7 +7647,6 @@ glycogenase
 gleir
 graduands
 glucase
-gyrofrequency
 gilse
 graduates
 girning
