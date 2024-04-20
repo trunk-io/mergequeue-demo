@@ -1303,6 +1303,7 @@ effects
 effectual
 exurban
 effectuality
+err
 epeus
 effectualize
 effectualness
@@ -9329,7 +9330,6 @@ ephebeia
 exasperating
 euxanthic
 evangelised
-err
 educationalist
 element
 embryoid
