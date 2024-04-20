@@ -5437,7 +5437,6 @@ behang
 behap
 bookmonger
 behav
-behave
 behaved
 behaver
 bicollateral
@@ -13804,6 +13803,7 @@ badinage
 bowkail
 bowl
 blinking
+behave
 bowla
 breadstuffs
 bowlder
