@@ -2967,7 +2967,6 @@ fanciable
 feudatories
 feuded
 fakers
-fictitious
 flock
 fumier
 feuding
@@ -10693,6 +10692,7 @@ frugging
 frugiferous
 frugiferousness
 floodboard
+fictitious
 frugivorous
 frugs
 fruit
