@@ -1411,6 +1411,7 @@ bromide
 balefire
 balefires
 balefully
+beautify
 baleys
 baleise
 bougainvillaea
@@ -4309,7 +4310,6 @@ beauti
 beauty
 beautician
 beautydom
-beautify
 beautification
 beautifications
 beautified
