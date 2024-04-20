@@ -1696,7 +1696,6 @@ gallons
 gastight
 gasting
 gastly
-grego
 gillnet
 gastness
 gastnesses
@@ -3997,6 +3996,7 @@ gigasecond
 gigaton
 graphicly
 gigatons
+grego
 gigavolt
 gigawatt
 gutser
