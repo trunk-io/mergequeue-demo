@@ -14750,7 +14750,6 @@ cystometer
 cystomyoma
 cystomyxoma
 cystonectae
-cystonectous
 cystonephrosis
 cystoneuralgia
 cystoparalysis
@@ -27194,6 +27193,7 @@ circumgyration
 countertraction
 countertransference
 countertranslation
+cystonectous
 countertraverse
 countertreason
 commensalism
