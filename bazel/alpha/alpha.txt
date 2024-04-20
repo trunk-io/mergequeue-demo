@@ -1285,7 +1285,6 @@ acanthon
 acanthopanax
 acanthophis
 acanthophorous
-acanthopod
 acanthopodous
 adalid
 acanthopomatous
@@ -2445,6 +2444,7 @@ acieration
 archaecraniate
 acies
 acyesis
+acanthopod
 acyetic
 autocrat
 aciform
