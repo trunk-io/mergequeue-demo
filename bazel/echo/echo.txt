@@ -2622,6 +2622,7 @@ electrosurgeries
 electrosurgical
 electrosurgically
 electrotactic
+emmanuel
 electrotaxis
 electrotechnic
 electrotechnician
@@ -5008,7 +5009,6 @@ endoaortitis
 endoappendicitis
 enamelled
 elan
-emmanuel
 endoauscultation
 endobatholithic
 endoblast
