@@ -2767,6 +2767,7 @@ canonizant
 canonizations
 canonize
 canonized
+cytology
 catapult
 cetorhinoid
 canonizer
@@ -14965,7 +14966,6 @@ cytolysin
 cytolysis
 cytolist
 cytolytic
-cytology
 cytologic
 cytologically
 cytologist
