@@ -12552,7 +12552,6 @@ anemosis
 anemotactic
 anemotaxis
 anemotropism
-anencephaly
 aggregatae
 anencephalia
 anencephalic
@@ -20650,6 +20649,7 @@ ambitioned
 arthropathic
 arthrophyma
 arthrophlogosis
+anencephaly
 arthropyosis
 arthroplasty
 arthroplastic
