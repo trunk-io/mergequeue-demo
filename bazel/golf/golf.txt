@@ -799,7 +799,6 @@ gramophonical
 gouldian
 galvanometrical
 galvanoplasty
-glaucine
 galvanoplastic
 gavel
 gadling
@@ -4215,6 +4214,7 @@ galleria
 gimmor
 gymnadenia
 gymnadeniopsis
+glaucine
 gymnarchidae
 globin
 grangerism
