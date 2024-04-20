@@ -1798,7 +1798,6 @@ foundery
 featherleaf
 fluorescein
 featherless
-featherlike
 feathermonger
 fackings
 featherpate
@@ -9193,6 +9192,7 @@ femorocele
 fidiculae
 fielded
 fp
+featherlike
 fplot
 fpm
 fleeceflower
