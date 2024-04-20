@@ -7457,7 +7457,6 @@ cephalotaceous
 cephalotaxus
 cephalothecal
 cephalothoracic
-cephalothoracopagus
 cephalothoraxes
 cephalotomy
 contrate
@@ -17596,6 +17595,7 @@ choreograph
 coccineous
 coccyodynia
 coccionella
+cephalothoracopagus
 coccyx
 coccyxes
 catamited
