@@ -9080,7 +9080,6 @@ biomagnetic
 biomagnetism
 biggins
 biomasses
-biomaterial
 biomathematics
 biome
 bradycinesia
@@ -17295,6 +17294,7 @@ bumboatmen
 bumclock
 bumelia
 boltings
+biomaterial
 bumfeg
 bumfuzzle
 bumicky
