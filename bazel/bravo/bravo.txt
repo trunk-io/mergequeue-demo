@@ -8609,6 +8609,7 @@ bafaro
 baronne
 bilirubinic
 bilirubinuria
+borderers
 biliteral
 biliteralism
 bilith
@@ -12961,7 +12962,6 @@ border
 blackberry
 bordered
 borderer
-borderers
 bordering
 borderings
 borders
