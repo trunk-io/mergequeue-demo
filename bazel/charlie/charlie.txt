@@ -6938,7 +6938,6 @@ cementoblast
 cementoma
 cements
 cementwork
-cemetary
 cemetaries
 cemetery
 cemeterial
@@ -28255,6 +28254,7 @@ crassly
 crassness
 crassula
 crassulaceae
+cemetary
 crataeva
 cratch
 cratchens
