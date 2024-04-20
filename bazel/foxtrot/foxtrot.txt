@@ -4917,7 +4917,6 @@ felicide
 flamencos
 firmance
 forewomen
-flamenship
 forehood
 flameout
 flatten
@@ -11437,6 +11436,7 @@ floralize
 furnarius
 furnish
 furnishable
+flamenship
 folkvangr
 fluoroformol
 flannelmouthed
