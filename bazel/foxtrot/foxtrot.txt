@@ -2234,7 +2234,6 @@ ferbams
 feltmaking
 feltman
 foredeep
-furfuran
 felts
 feltwort
 felucca
@@ -5449,6 +5448,7 @@ fleshings
 formatters
 fanjets
 fleshless
+furfuran
 fleshlier
 fleshliest
 failingly
