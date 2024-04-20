@@ -15355,7 +15355,6 @@ antigropelos
 antigrowth
 antiguan
 affectible
-antigun
 antihalation
 antiharmonist
 antihelices
@@ -15778,6 +15777,7 @@ antipacifists
 antipapism
 antipapist
 antipapistic
+antigun
 anaglyptic
 antipapistical
 antiparabema

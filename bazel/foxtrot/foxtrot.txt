@@ -3008,6 +3008,7 @@ feverlike
 feverous
 fillmass
 feverously
+footscald
 fevertwig
 fevertwitch
 feelinglessly
@@ -7257,7 +7258,6 @@ footrope
 footropes
 fremescent
 foots
-footscald
 footmarks
 fiorded
 farraginous
