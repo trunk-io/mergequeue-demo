@@ -59,7 +59,6 @@ abayah
 abaised
 abaiser
 abaisse
-abaissed
 adaw
 abaka
 abakas
@@ -7735,6 +7734,7 @@ alcoholmeter
 airmass
 alcoholmetric
 acroter
+abaissed
 adelpholite
 allows
 alcoholomania

@@ -13849,7 +13849,6 @@ cheddite
 cineaste
 cynebot
 cinecamera
-cinefaction
 cinefilm
 cacosplanchnia
 cynegetic
@@ -29113,6 +29112,7 @@ criocephalus
 crioceras
 circulate
 crioceratite
+cinefaction
 crioceratitic
 crioceris
 cotillons
