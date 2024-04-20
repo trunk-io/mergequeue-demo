@@ -15480,7 +15480,6 @@ bryophytes
 bryophytic
 brios
 babirusa
-bryozoa
 biaxially
 bryozoan
 blaubok
@@ -15818,6 +15817,7 @@ bromeliad
 bromelin
 bromelins
 batler
+bryozoa
 bromeosin
 bromes
 bromethylene
