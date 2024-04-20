@@ -4470,7 +4470,6 @@ fishtails
 fishway
 fishways
 fishweed
-foothils
 fishwoman
 fluidly
 fico
@@ -8188,6 +8187,7 @@ forewing
 forewings
 fillercap
 forewinning
+foothils
 flabbiest
 figbird
 forewit
