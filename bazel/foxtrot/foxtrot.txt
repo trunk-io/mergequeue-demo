@@ -662,7 +662,6 @@ fringefoot
 fam
 familiarize
 famacide
-famble
 fame
 fortitudinous
 frill
@@ -6702,6 +6701,7 @@ foelike
 forenotice
 foemanship
 foemen
+famble
 formicative
 foenngreek
 flysch
