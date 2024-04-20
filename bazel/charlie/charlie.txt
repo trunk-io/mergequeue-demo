@@ -12635,7 +12635,6 @@ chronomantic
 chronomastix
 chronometer
 chronometers
-chronometry
 corin
 chronometric
 chronometrical
@@ -14454,6 +14453,7 @@ circumstancing
 circumstant
 circumstantiability
 circumstantiable
+chronometry
 circumstantiality
 chocolatier
 circumstantialities
