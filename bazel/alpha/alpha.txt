@@ -5070,6 +5070,7 @@ aerometeorograph
 aerometer
 aerometry
 abluted
+agenizes
 aerometric
 aeromotor
 aeronat
@@ -5986,7 +5987,6 @@ agenesis
 agenetic
 agenize
 agenized
-agenizes
 agenizing
 agennesis
 agent
