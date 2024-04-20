@@ -365,7 +365,6 @@ dail
 doorboy
 dailamite
 dayless
-daily
 daylight
 daylighted
 daylights
@@ -1962,6 +1961,7 @@ desensitizer
 dots
 decadrachma
 decadrachmae
+daily
 dimorphic
 desugars
 decaedron

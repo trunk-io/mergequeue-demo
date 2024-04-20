@@ -13087,7 +13087,6 @@ anhimae
 auxetics
 anhimidae
 ancillas
-anhinga
 anhingas
 anhysteretic
 anhistic
@@ -22220,6 +22219,7 @@ astragaloscaphoid
 animality
 acoemetic
 astragalotibial
+anhinga
 astragals
 astragalus
 alluviviums
