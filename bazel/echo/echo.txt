@@ -10403,7 +10403,6 @@ ethmofrontal
 escorial
 enrank
 eemis
-ethmoidal
 ethmoiditis
 entomb
 ethmolith
@@ -13446,6 +13445,7 @@ evenforth
 exsanguinate
 enbusshe
 exsanguinating
+ethmoidal
 evergreenite
 eudaemonic
 erk
