@@ -7826,7 +7826,6 @@ dimensions
 devoto
 devour
 devourable
-doctorfish
 devourer
 devourers
 deepmouthed
@@ -13248,6 +13247,7 @@ detenus
 disprobabilize
 damsite
 dreissensia
+doctorfish
 disprofess
 desperacy
 disprofitable

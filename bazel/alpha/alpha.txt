@@ -5900,6 +5900,7 @@ agast
 archdeaconry
 anomaloscope
 amphoras
+antismog
 agrised
 ashmen
 agastric
@@ -20244,7 +20245,6 @@ arrastre
 arratel
 arrau
 arrear
-antismog
 assiduously
 arrearage
 arrearages
