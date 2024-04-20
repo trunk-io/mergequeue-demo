@@ -11787,6 +11787,7 @@ becrowding
 boucan
 bodyguards
 beribers
+bossiest
 bodykins
 bodiless
 bodyless
@@ -13192,7 +13193,6 @@ bossy
 bossier
 besieger
 bossies
-bossiest
 bedstaff
 bossily
 bossiness
