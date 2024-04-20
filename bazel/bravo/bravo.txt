@@ -3211,7 +3211,6 @@ byelaw
 bedight
 basidigitale
 basidigitalia
-basidiocarp
 basidiolichen
 basidiomycete
 baclava
@@ -18314,6 +18313,7 @@ button
 buttonball
 buttonbush
 buttoned
+basidiocarp
 buttoner
 buttoners
 buttonholder
