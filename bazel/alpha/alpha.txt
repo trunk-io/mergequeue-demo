@@ -1652,6 +1652,7 @@ accordion
 accordionist
 accordionists
 antidrag
+afforestation
 accordions
 accords
 aphidian
@@ -5437,7 +5438,6 @@ affording
 akaroa
 afforest
 afforestable
-afforestation
 afforested
 afforesting
 anticogitative
