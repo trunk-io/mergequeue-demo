@@ -9022,7 +9022,6 @@ biog
 biogases
 biogen
 ballogan
-biogenase
 briny
 biogenesis
 baudekins
@@ -18191,6 +18190,7 @@ bajocian
 bionomist
 butyrochloral
 butyrolactone
+biogenase
 butyrometer
 butyrometric
 butyrone
