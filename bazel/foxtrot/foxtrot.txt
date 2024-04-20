@@ -1357,7 +1357,6 @@ fatalists
 fleeced
 finds
 flauntier
-fatality
 fatalities
 fatally
 fatalness
@@ -7111,6 +7110,7 @@ foolhardiness
 foolhardiship
 foolhead
 fitfulness
+fatality
 firehalls
 fedayeen
 foolish
