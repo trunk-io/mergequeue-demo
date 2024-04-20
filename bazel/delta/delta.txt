@@ -8576,7 +8576,6 @@ diaphanometric
 diaphanoscope
 dirties
 diaphanotype
-diaphanous
 diaclasite
 dewfall
 diaphanously
@@ -12983,6 +12982,7 @@ dispel
 dory
 dispellable
 dispelled
+diaphanous
 dispelling
 dorsimedian
 dispels
