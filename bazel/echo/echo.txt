@@ -985,7 +985,6 @@ edacities
 edam
 edana
 edaphology
-exallotriote
 enerve
 edaphon
 edaphosauria
@@ -8839,6 +8838,7 @@ erasable
 erased
 eraser
 erasers
+exallotriote
 erasion
 elod
 erasmian
