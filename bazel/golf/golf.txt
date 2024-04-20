@@ -3192,7 +3192,6 @@ geophilidae
 gastrins
 geophysical
 geoparallelotropic
-geophysicist
 geophysics
 geophytes
 geophytic
@@ -8650,6 +8649,7 @@ gerundival
 gloomingly
 gentlewoman
 grayed
+geophysicist
 gasbags
 greenhouses
 greeny
