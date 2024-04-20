@@ -6037,7 +6037,6 @@ anthropodus
 anartismos
 agglutinate
 agglutinated
-agglutinates
 alehoof
 abhorrible
 agglutination
@@ -17464,6 +17463,7 @@ apostacies
 apostacize
 apostasy
 apostasies
+agglutinates
 apostasis
 autocollimator
 antiforeign

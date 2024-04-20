@@ -2392,6 +2392,7 @@ drippings
 deciliter
 deciliters
 decilitre
+doorbells
 dripstick
 disaffects
 douzaine
@@ -15605,7 +15606,6 @@ doomwatcher
 doon
 dissentaneous
 dooputty
-doorbells
 doorbrand
 doorcheek
 doored
