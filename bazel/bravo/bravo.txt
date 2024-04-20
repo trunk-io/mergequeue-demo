@@ -5273,6 +5273,7 @@ begaud
 begaudy
 bignesses
 bobbled
+bothsided
 begaze
 begazes
 begazing
@@ -13334,7 +13335,6 @@ bibliophagist
 bothrodendron
 bothropic
 bothrops
-bothsided
 bothsidedness
 boththridia
 bothway

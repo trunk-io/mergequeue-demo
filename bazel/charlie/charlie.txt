@@ -18222,7 +18222,6 @@ cofactors
 cofane
 cofaster
 cofather
-cofathership
 cofeature
 cofeatures
 coferment
@@ -29675,6 +29674,7 @@ crokinole
 crom
 cromaltite
 crombec
+cofathership
 cromer
 cromerian
 cromfordite
