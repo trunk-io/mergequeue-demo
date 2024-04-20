@@ -7006,6 +7006,7 @@ airspeed
 airspeeds
 airstream
 allegory
+aischrolatreia
 airstrip
 airstrips
 airt
@@ -16127,7 +16128,6 @@ antirheumatic
 anaptyxes
 antiricin
 antiritual
-aischrolatreia
 antiritualism
 antiritualist
 autoradiographic
