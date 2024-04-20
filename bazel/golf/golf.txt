@@ -797,7 +797,6 @@ galvanomagnetism
 galvanometer
 galvanometers
 gecko
-girt
 galvanometric
 geometries
 generously
@@ -2598,6 +2597,7 @@ gemmology
 gemstone
 gemuetlich
 gemuti
+girt
 gynecologist
 groan
 goral
