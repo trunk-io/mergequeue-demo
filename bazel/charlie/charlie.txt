@@ -13854,7 +13854,6 @@ cineangiographic
 cuffless
 cheddite
 cineaste
-cynebot
 cinecamera
 cinefilm
 cacosplanchnia
@@ -15428,6 +15427,7 @@ clangors
 cappella
 crosscut
 clangour
+cynebot
 clangoured
 clangouring
 cakewalks
