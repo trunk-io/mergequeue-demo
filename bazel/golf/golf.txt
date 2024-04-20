@@ -6627,7 +6627,6 @@ goldweed
 goldworker
 golem
 gibbered
-golems
 goles
 golet
 gossypium
@@ -8378,6 +8377,7 @@ gravel
 gibaro
 glossotype
 gobi
+golems
 gobiesox
 gravely
 gayal
