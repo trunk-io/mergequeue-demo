@@ -3255,7 +3255,6 @@ geostrategist
 geostrophic
 geostrophically
 graylags
-gonococcal
 geotactically
 geotaxes
 geotaxy
@@ -3917,6 +3916,7 @@ gneissitic
 gryphons
 greeted
 gunkhole
+gonococcal
 gids
 gieaway
 glazework
