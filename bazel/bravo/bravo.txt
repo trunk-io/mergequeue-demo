@@ -4132,6 +4132,7 @@ bantlings
 bean
 beanbag
 brickred
+bluecup
 beanball
 brooked
 beancod
@@ -11355,7 +11356,6 @@ bibbed
 bluecoat
 bluecoated
 bluecoats
-bluecup
 berycoidei
 bluecurls
 blued
