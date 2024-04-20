@@ -571,7 +571,6 @@ galleons
 galler
 gallera
 geisotherm
-galleria
 gallerian
 galleried
 galleries
@@ -4205,6 +4204,7 @@ gatewayman
 glandes
 gimmicky
 gimmicking
+galleria
 gimmor
 gymnadenia
 gymnadeniopsis
