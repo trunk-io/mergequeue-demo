@@ -5313,6 +5313,7 @@ affeerment
 affeeror
 agrias
 ameloblastic
+ascensor
 affeir
 affenpinscher
 affere
@@ -20992,7 +20993,6 @@ ascensions
 ascensiontide
 apophasis
 ascensive
-ascensor
 ascent
 ascertain
 ascertainability
