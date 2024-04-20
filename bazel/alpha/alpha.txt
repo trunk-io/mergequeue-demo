@@ -6195,7 +6195,6 @@ agisms
 aposaturn
 affiances
 agist
-agistator
 allamanda
 archaeocyte
 agisted
@@ -23038,6 +23037,7 @@ attemptable
 attempted
 attempter
 attempters
+agistator
 attemptive
 attemptless
 attempts
