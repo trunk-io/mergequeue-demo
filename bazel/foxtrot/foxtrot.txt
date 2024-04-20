@@ -5019,6 +5019,7 @@ flareboard
 flared
 flareless
 fermentarian
+frother
 flarer
 flimsilyst
 fibrosarcoma
@@ -10546,7 +10547,6 @@ frot
 froth
 frothed
 flamfew
-frother
 forebodings
 frothier
 feodary
