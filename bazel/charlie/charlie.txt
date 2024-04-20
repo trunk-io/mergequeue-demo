@@ -6157,6 +6157,7 @@ caucused
 caucuses
 caucusing
 caucusses
+creditors
 caesium
 caucussing
 chlorion
@@ -28535,7 +28536,6 @@ comd
 creditive
 creditless
 creditor
-creditors
 conjecturable
 curial
 creditress
