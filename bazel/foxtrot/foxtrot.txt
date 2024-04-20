@@ -5327,6 +5327,7 @@ finicky
 flutists
 fleche
 flechette
+forelady
 flechettes
 fleck
 flecked
@@ -7790,7 +7791,6 @@ foreknower
 freedmen
 foreknowing
 foreknowingly
-forelady
 forelay
 forelaying
 foreland
