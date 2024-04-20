@@ -2806,7 +2806,6 @@ euphonism
 emhpasizing
 earthed
 elephanticide
-elephantidae
 elephantoid
 exsertion
 eath
@@ -13621,6 +13620,7 @@ exteriorness
 exterminable
 exoduses
 emigated
+elephantidae
 exterminate
 exterminated
 extremistic
