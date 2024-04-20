@@ -1654,7 +1654,6 @@ guises
 glutei
 gibe
 gaspers
-gaspy
 gasping
 golf
 gasps
@@ -1983,6 +1982,7 @@ gaucie
 gynopara
 gumshoe
 gowd
+gaspy
 gaudeamus
 gaudeamuses
 garrot
