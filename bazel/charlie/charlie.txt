@@ -6496,7 +6496,6 @@ cavitary
 cystophthisis
 cauliculi
 cavitated
-cavitating
 cavitations
 cavity
 cavitied
@@ -31443,6 +31442,7 @@ currentness
 currents
 currentwise
 curry
+cavitating
 curricle
 curricles
 curricling
