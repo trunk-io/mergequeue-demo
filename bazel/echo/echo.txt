@@ -5562,6 +5562,7 @@ enfollow
 enfoncee
 ephemerae
 excusers
+esophoria
 enforceability
 enforceable
 enforced
@@ -9742,7 +9743,6 @@ esophagostenosis
 endorsor
 esophagotome
 esophagus
-esophoria
 earthshine
 esophoric
 eremacausis
