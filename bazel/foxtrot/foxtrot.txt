@@ -483,6 +483,7 @@ flaneries
 formicariidae
 fakery
 faki
+flockowner
 faky
 faking
 fakir
@@ -5875,7 +5876,6 @@ flocklike
 footway
 fumigators
 florigraphy
-flockowner
 frangent
 flockwise
 flocs
