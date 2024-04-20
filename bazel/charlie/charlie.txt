@@ -4161,6 +4161,7 @@ chinner
 cardlike
 chesterfields
 cardmaker
+chopin
 cardmaking
 cardo
 cardol
@@ -11866,7 +11867,6 @@ chopfallen
 chophouse
 chophouses
 cyprinoidea
-chopin
 cereus
 chopine
 chopines
