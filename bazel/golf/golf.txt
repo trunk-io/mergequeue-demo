@@ -2853,7 +2853,6 @@ genoise
 genome
 genomic
 genoms
-genonema
 genos
 genotype
 genotypic
@@ -8178,6 +8177,7 @@ grappler
 grapples
 gawks
 goas
+genonema
 grappling
 grapsidae
 grapsus
