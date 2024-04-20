@@ -2897,7 +2897,6 @@ gentianella
 gentianic
 gentianose
 gentians
-gentianwort
 gristly
 gangwayed
 gentiin
@@ -9021,6 +9020,7 @@ grimalkin
 grime
 grimed
 gnetums
+gentianwort
 grotian
 grimes
 guarana
