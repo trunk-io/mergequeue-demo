@@ -1187,7 +1187,6 @@ bakemeats
 backslash
 bakeout
 bakeoven
-bakepan
 bimillenniums
 baker
 bakeress
@@ -6620,6 +6619,7 @@ bequests
 ber
 beray
 berain
+bakepan
 berairou
 blackheartedness
 berakah
