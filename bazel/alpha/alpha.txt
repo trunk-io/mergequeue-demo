@@ -10205,7 +10205,6 @@ amdt
 ame
 anchorhold
 ameba
-ameban
 amebas
 amebean
 amebian
@@ -13459,6 +13458,7 @@ anklets
 anklong
 anklung
 ankoli
+ameban
 ankou
 ankus
 ankuses
