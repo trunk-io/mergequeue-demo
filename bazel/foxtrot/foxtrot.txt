@@ -656,7 +656,6 @@ falutin
 falx
 fringefoot
 fam
-familiarize
 famacide
 fame
 fortitudinous
@@ -4521,6 +4520,7 @@ followeth
 fama
 fistmele
 fistnotes
+familiarize
 fibre
 frenchily
 fumishness
