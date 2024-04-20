@@ -2431,7 +2431,6 @@ barcoo
 bard
 bardane
 bulgur
-bardash
 bardcraft
 balate
 barde
@@ -2546,6 +2545,7 @@ bargemaster
 booklice
 barger
 bloomage
+bardash
 barges
 bargh
 bargham
