@@ -12445,7 +12445,6 @@ castro
 chromatospheric
 chromatrope
 chromaturia
-composition
 chromazurine
 chromdiagnosis
 chrome
@@ -29289,6 +29288,7 @@ combinatorics
 cryptogrammic
 craggedly
 cryptograms
+composition
 cryptograph
 cryptographal
 cryptography
