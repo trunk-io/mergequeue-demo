@@ -2331,7 +2331,6 @@ concion
 coleorhiza
 canceller
 curettement
-cancelli
 chasseur
 cancelling
 cancellous
@@ -31606,6 +31605,7 @@ curvilinearity
 curvimeter
 curvinervate
 curvinerved
+cancelli
 curviness
 curving
 curvirostral
