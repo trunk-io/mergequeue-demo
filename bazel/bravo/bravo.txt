@@ -7913,7 +7913,6 @@ bacteriolytic
 bibionidae
 bibiri
 bibitory
-bibl
 bardee
 bible
 bibles
@@ -11572,6 +11571,7 @@ boardwalks
 boarfish
 boarfishes
 boarhound
+bibl
 benefactrix
 bursar
 boarishness
