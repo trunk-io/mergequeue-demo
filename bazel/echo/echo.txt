@@ -954,6 +954,7 @@ ecttypal
 ecu
 excurvation
 ediface
+equates
 exeresis
 ecuadorian
 electoral
@@ -8565,7 +8566,6 @@ endomictic
 equatability
 equatable
 equate
-equates
 equating
 essentializing
 equation
