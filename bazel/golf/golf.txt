@@ -3461,7 +3461,6 @@ germinations
 grittily
 girkin
 germinative
-germinator
 gustus
 germless
 geniohyoglossus
@@ -3786,6 +3785,7 @@ gutturotetany
 ghoulery
 goaled
 ghoulish
+germinator
 ghoulishly
 gyse
 gelada
