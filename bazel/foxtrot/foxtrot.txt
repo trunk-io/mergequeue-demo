@@ -7519,7 +7519,6 @@ forearmed
 foreallege
 fatstocks
 foreallot
-foreannounce
 flatuses
 faraon
 foreappoint
@@ -7865,6 +7864,7 @@ furiousity
 forepart
 furor
 ferromagnet
+foreannounce
 foredesk
 foreparts
 forepass
