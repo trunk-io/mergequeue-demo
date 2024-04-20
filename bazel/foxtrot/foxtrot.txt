@@ -3772,7 +3772,6 @@ fosse
 forehatchway
 flow
 fillock
-fillowite
 fake
 frogeater
 fills
@@ -4960,6 +4959,7 @@ flaneur
 flaneurs
 ferruminated
 flangeless
+fillowite
 foe
 flankard
 fountainhead
