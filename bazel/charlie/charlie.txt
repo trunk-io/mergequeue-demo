@@ -1635,7 +1635,6 @@ calorizes
 calorizing
 calosoma
 calotermes
-calotermitidae
 calothrix
 calotin
 calotype
@@ -14078,6 +14077,7 @@ curneys
 cyphella
 cyphellae
 cyphellate
+calotermitidae
 cypher
 cipherable
 cipherdom
