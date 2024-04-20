@@ -1296,6 +1296,7 @@ fastbacks
 fastball
 fastened
 fastener
+foreclaw
 fasteners
 fastening
 frocked
@@ -7587,7 +7588,6 @@ forechoir
 foregame
 fructokinase
 forechoose
-foreclaw
 foreclose
 foreclosed
 foreclosure
