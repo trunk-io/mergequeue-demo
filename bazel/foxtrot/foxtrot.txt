@@ -5382,7 +5382,6 @@ frangipane
 filterable
 fling
 fleecing
-fleeing
 fleerer
 fleering
 filcher
@@ -8554,6 +8553,7 @@ formulized
 famulus
 fred
 frenchwise
+fleeing
 feted
 falsum
 foretasted
