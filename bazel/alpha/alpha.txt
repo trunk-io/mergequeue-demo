@@ -3721,7 +3721,6 @@ adenohypophyseal
 adenohypophysial
 attrib
 adenohypophysis
-adenoid
 adenoidal
 adenoidectomy
 adenoidectomies
@@ -15958,6 +15957,7 @@ antiportable
 antiposition
 anthoxanthin
 anglicizing
+adenoid
 antipoverty
 antipragmatic
 antipragmatical
