@@ -5370,6 +5370,7 @@ begorah
 begorra
 begorry
 begotten
+blastier
 begottenness
 begowk
 begowned
@@ -10447,7 +10448,6 @@ blaster
 blastful
 blastid
 blastie
-blastier
 blasting
 blastings
 blastman
