@@ -2541,7 +2541,6 @@ barger
 bloomage
 bardash
 barges
-bargh
 bargham
 barghest
 baptism
@@ -7359,6 +7358,7 @@ brab
 balti
 bet
 beta
+bargh
 betacaine
 betacismus
 betag
