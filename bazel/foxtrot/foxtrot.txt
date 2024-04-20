@@ -6307,7 +6307,6 @@ friskers
 flower
 fluidram
 fluigram
-fluigramme
 frankincensed
 fluyts
 fluke
@@ -8865,6 +8864,7 @@ fossicker
 fossicking
 fossified
 fleecer
+fluigramme
 fossiform
 fastwalk
 fossil
