@@ -1,4 +1,5 @@
 emotes
+escuage
 e
 epigramme
 eschoppe
@@ -9638,7 +9639,6 @@ escrod
 escrow
 escrowing
 exceptio
-escuage
 escudero
 escudo
 escudos
