@@ -1176,7 +1176,6 @@ abwatts
 ac
 acacatechin
 acacatechol
-auricyanide
 acacia
 acacian
 acacias
@@ -18994,6 +18993,7 @@ archichlamydeous
 archicyte
 archicytula
 archicoele
+auricyanide
 archicontinent
 archidamus
 adherer
