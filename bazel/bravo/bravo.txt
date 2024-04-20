@@ -396,6 +396,7 @@ backlists
 backlit
 biradiated
 backlog
+bib
 backlogged
 backlogging
 backmost
@@ -7876,7 +7877,6 @@ biaxiality
 breather
 beshrouds
 biaxillary
-bib
 bemud
 bigotish
 bemoisten
