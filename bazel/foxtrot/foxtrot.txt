@@ -2313,6 +2313,7 @@ fenceress
 fencers
 firebricks
 fsiest
+fluidness
 fenchene
 fenchone
 fencible
@@ -6292,7 +6293,6 @@ fluidmeter
 faulted
 forceful
 fawnery
-fluidness
 fluidounce
 findal
 friskers
