@@ -3996,6 +3996,7 @@ empannel
 empanoply
 empaper
 emparchment
+enclitics
 emparl
 empasma
 everbloomer
@@ -4708,7 +4709,6 @@ enclisis
 enrib
 enclitical
 encycl
-enclitics
 encloak
 eclipsis
 encloister
