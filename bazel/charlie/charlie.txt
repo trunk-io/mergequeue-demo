@@ -4907,6 +4907,7 @@ cimelia
 cakemaker
 cartelist
 cartelistic
+cassava
 cartelization
 cartelizing
 cartellist
@@ -5245,7 +5246,6 @@ cassareep
 cassata
 cassatas
 cassation
-cassava
 casse
 caveats
 cassegrain
