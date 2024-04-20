@@ -15301,7 +15301,6 @@ claimers
 claiming
 claymore
 claims
-claimsman
 clayoquot
 claypans
 clair
@@ -25881,6 +25880,7 @@ corselets
 corsepresent
 corseque
 constrains
+claimsman
 corser
 corses
 combretaceous
