@@ -6180,6 +6180,7 @@ flowerlessness
 fecalith
 flowerpecker
 fanfaronading
+furca
 flowerpot
 flowerwork
 flowing
@@ -9877,7 +9878,6 @@ frenzied
 figurability
 frenzies
 freq
-furca
 frequence
 frequency
 frequencies
