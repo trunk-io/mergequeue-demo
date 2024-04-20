@@ -9929,6 +9929,7 @@ chemopallidectomy
 chemopallidectomies
 chemopause
 congregativeness
+countable
 chemophysiology
 chemoprophyalctic
 chemoprophylactic
@@ -26658,7 +26659,6 @@ counselor
 counsels
 count
 countability
-countable
 countableness
 countably
 countdom
