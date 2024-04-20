@@ -2052,6 +2052,7 @@ berley
 banknote
 badaud
 banknotes
+bologna
 bankrider
 brachycome
 bedlamising
@@ -12171,7 +12172,6 @@ brionine
 blizzardly
 bolo
 boloball
-bologna
 bolognan
 bolognas
 bolognese
