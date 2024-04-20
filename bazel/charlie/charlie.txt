@@ -3407,6 +3407,7 @@ capsids
 capsizable
 capsizal
 capsize
+caballeria
 capsized
 capsizes
 capsizing
@@ -31618,7 +31619,6 @@ curvle
 coconucan
 curvograph
 curvometer
-caballeria
 curvous
 cheeker
 curvulate
