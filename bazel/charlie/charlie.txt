@@ -11410,7 +11410,6 @@ cloudlessly
 counterpillar
 chlorosilicate
 chlorosis
-chlorospinel
 chlorosulphonic
 chlorotic
 chlorotically
@@ -25115,6 +25114,7 @@ corer
 combinantive
 corers
 cores
+chlorospinel
 coresidual
 coresign
 coresonant
