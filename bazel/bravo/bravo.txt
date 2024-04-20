@@ -2204,6 +2204,7 @@ baptizement
 baptizer
 baptizers
 baptizing
+becompass
 bar
 barabara
 barabbas
@@ -4543,7 +4544,6 @@ becomes
 becometh
 becomingly
 becomingness
-becompass
 becoom
 becoresh
 becousined
