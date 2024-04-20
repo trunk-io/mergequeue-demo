@@ -5846,7 +5846,6 @@ bellyaches
 bellyaching
 bellibone
 bellybutton
-bellybuttons
 bellic
 bldg
 bellical
@@ -16647,6 +16646,7 @@ buckler
 bowknot
 bisulphide
 bucklered
+bellybuttons
 bucklering
 bucklers
 buckles
