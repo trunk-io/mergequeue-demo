@@ -1087,7 +1087,6 @@ edibles
 edict
 edictal
 edictally
-edicts
 edictum
 edicule
 edify
@@ -7118,6 +7117,7 @@ envenomization
 envenomous
 enventual
 enverdure
+edicts
 enviable
 enemy
 envied
