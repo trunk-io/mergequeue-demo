@@ -19449,7 +19449,6 @@ areostyle
 areotectonics
 arere
 arerola
-areroscope
 arest
 aret
 aretaics
@@ -20305,6 +20304,7 @@ arride
 applicator
 arrided
 arridge
+areroscope
 arriding
 arrie
 arriere
