@@ -2923,7 +2923,6 @@ elidible
 eligenda
 executioneress
 eligibility
-eligibilities
 eligible
 eligibles
 exerciser
@@ -10941,6 +10940,7 @@ euphausid
 externals
 euphausiid
 ensigncies
+eligibilities
 endostomata
 erraticness
 electrodiagnoses
