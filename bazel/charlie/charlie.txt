@@ -7318,7 +7318,6 @@ centure
 carbonados
 century
 centuria
-column
 centurial
 concerto
 covenably
@@ -17910,6 +17909,7 @@ coedit
 coedited
 coediting
 coeditors
+column
 coedits
 coeducation
 coeducationalism
