@@ -3231,7 +3231,6 @@ celebratory
 capkin
 caplan
 caplet
-caplets
 caplin
 capling
 caplins
@@ -12582,6 +12581,7 @@ chromule
 chron
 chronal
 chronanagram
+caplets
 cacothes
 chronaxie
 chronaxies
