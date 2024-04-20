@@ -16816,6 +16816,7 @@ cloveroot
 cloverroot
 cloves
 chandelles
+crepitus
 clovewort
 castling
 comarca
@@ -28735,7 +28736,6 @@ crepitated
 crepitating
 crumblings
 crepitous
-crepitus
 creply
 cupeler
 crepon
