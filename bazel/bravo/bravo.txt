@@ -3478,7 +3478,6 @@ basto
 beworms
 baston
 bastonet
-bastonite
 bannerless
 basts
 basural
@@ -16186,6 +16185,7 @@ brownian
 beforehand
 brownier
 bednighted
+bastonite
 brownies
 bivouac
 behead
