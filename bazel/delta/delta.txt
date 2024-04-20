@@ -6370,7 +6370,6 @@ dermol
 determines
 dermonecrotic
 dermoneural
-digitalis
 drassid
 dermoneurosis
 dermoosseous
@@ -13368,6 +13367,7 @@ disrealize
 dicaryophase
 diesinking
 disrecommendation
+digitalis
 disregard
 disregardable
 destructed
