@@ -1139,7 +1139,6 @@ familiarizer
 foughten
 farset
 frogged
-fregatidae
 farsighted
 faradays
 forcat
@@ -5681,6 +5680,7 @@ freezers
 flipflop
 fliping
 federalizing
+fregatidae
 flipjack
 flippance
 flippancies
