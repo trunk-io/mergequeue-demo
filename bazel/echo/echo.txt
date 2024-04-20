@@ -446,7 +446,6 @@ ecchymosed
 ecchymosis
 ecchondroma
 esthacyte
-ecchondrotome
 eccyclema
 erf
 eccyesis
@@ -7436,6 +7435,7 @@ ephebi
 ephebic
 epheboi
 ephebos
+ecchondrotome
 ephebus
 ephectic
 ephedras
