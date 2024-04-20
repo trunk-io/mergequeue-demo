@@ -22651,7 +22651,6 @@ cabinets
 connoisseurs
 connotate
 connotation
-connotational
 connotations
 connotative
 connotatively
@@ -31362,6 +31361,7 @@ curious
 curiousest
 curiously
 curite
+connotational
 curites
 curitis
 conglobated

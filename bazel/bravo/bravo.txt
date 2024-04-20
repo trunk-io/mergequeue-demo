@@ -4310,7 +4310,6 @@ biriba
 beautifiers
 beautifying
 beautiful
-beautifully
 beautifulness
 beautihood
 beautiless
@@ -17299,6 +17298,7 @@ bumclock
 bumelia
 boltings
 biomaterial
+beautifully
 bumfeg
 bumfuzzle
 bumicky
