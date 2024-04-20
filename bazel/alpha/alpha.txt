@@ -3856,7 +3856,6 @@ adhort
 ady
 adiabat
 adiabatic
-avalanched
 adiabolist
 assistency
 adiadochokinesia
@@ -15873,6 +15872,7 @@ antiphonal
 aread
 antiphonally
 antiphonary
+avalanched
 antiphonetic
 antiphony
 asepsis
