@@ -1723,7 +1723,6 @@ fealty
 fumigates
 fluorinate
 fear
-fanflower
 fimbles
 fusillade
 fearedly
@@ -6749,6 +6748,7 @@ flectional
 foghorn
 fogy
 flaggily
+fanflower
 fogyish
 fogless
 foolship

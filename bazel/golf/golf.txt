@@ -5197,6 +5197,7 @@ guestship
 glasswork
 gutturality
 guider
+guideway
 glassworker
 glassworkers
 glassworm
@@ -10154,7 +10155,6 @@ guiders
 genial
 guides
 glossophobia
-guideway
 gigger
 geroderma
 guidman
