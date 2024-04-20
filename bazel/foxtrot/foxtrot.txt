@@ -7965,6 +7965,7 @@ fiberglass
 foresend
 faience
 foremanship
+forestaff
 foresentence
 foreset
 foreshadow
@@ -8040,7 +8041,6 @@ fiz
 forespoken
 forest
 fellmongered
-forestaff
 forestaffs
 forestage
 forestair
