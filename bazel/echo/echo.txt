@@ -8450,7 +8450,6 @@ equip
 eglogue
 epizootology
 eplot
-epoch
 epocha
 eumitosis
 epoche
@@ -13283,6 +13282,7 @@ elites
 eosin
 exponents
 exponible
+epoch
 euomphalus
 entreated
 exportable
