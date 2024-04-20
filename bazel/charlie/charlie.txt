@@ -3366,6 +3366,7 @@ caprimulgidae
 caprimulgiformes
 concertised
 caprin
+cimelia
 caprinic
 capriola
 caprioled
@@ -4900,7 +4901,6 @@ carte
 carted
 cartel
 cartelism
-cimelia
 cakemaker
 cartelist
 cartelistic
