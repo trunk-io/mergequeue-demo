@@ -7736,7 +7736,6 @@ cerianthus
 cerias
 ceride
 ceryl
-cerilla
 cerillo
 ceriman
 cerimans
@@ -19945,6 +19944,7 @@ comitje
 comitragedy
 coml
 conjugating
+cerilla
 comm
 command
 commandable

@@ -5486,7 +5486,6 @@ fletchings
 feynesses
 fleur
 fleuret
-flypaper
 filionymic
 fleurette
 furmint
@@ -7055,6 +7054,7 @@ fonnish
 fermentum
 fain
 fono
+flypaper
 fons
 fontal
 frothing
