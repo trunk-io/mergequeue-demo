@@ -1335,7 +1335,6 @@ frogskins
 fasts
 fastuous
 fastuousness
-fastwalk
 fat
 fatagaga
 fecklessness
@@ -8872,6 +8871,7 @@ fossicking
 fossified
 fleecer
 fossiform
+fastwalk
 fossil
 fanioned
 filtratable
