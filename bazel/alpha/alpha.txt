@@ -5923,7 +5923,6 @@ agathodaemonic
 agathokakological
 agaty
 agatiferous
-agatiform
 aly
 aligner
 agatize
@@ -20146,6 +20145,7 @@ aromatite
 aromatites
 aromatize
 aromatizer
+agatiform
 accipitral
 antienthusiasm
 aromatophor
