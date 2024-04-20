@@ -11321,6 +11321,7 @@ billed
 blub
 blubbed
 blubber
+bluntest
 blubberer
 blubberers
 balanism
@@ -11488,7 +11489,6 @@ blunnen
 blunt
 blunted
 bn
-bluntest
 blunthead
 befuddlements
 bab
