@@ -7713,7 +7713,6 @@ goatishness
 grayhound
 graying
 graylag
-greensand
 grailer
 grayling
 gittite
@@ -10132,6 +10131,7 @@ guyandot
 guianese
 guidable
 guidance
+greensand
 git
 gelid
 guide
