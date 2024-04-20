@@ -3675,7 +3675,6 @@ adenasthenia
 alod
 adendritic
 adenectomy
-adenectomies
 adenectopia
 akenbold
 adenemphractic
@@ -21047,6 +21046,7 @@ ascocarp
 ascocarpous
 amigas
 ascocarps
+adenectomies
 anteposthumous
 asparaguses
 ascogenous
