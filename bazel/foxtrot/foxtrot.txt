@@ -3809,6 +3809,7 @@ ferret
 foreflipper
 filmet
 filmgoers
+flatus
 filmgoing
 filmy
 filmic
@@ -5209,7 +5210,6 @@ flavanone
 flavanthrone
 flavedo
 fiscals
-flatus
 flavescence
 flavescent
 flavian
