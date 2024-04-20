@@ -2166,7 +2166,6 @@ bandon
 banxring
 banzai
 beezer
-baobabs
 baphia
 baphometic
 bapistery
@@ -11071,6 +11070,7 @@ blockish
 blockishly
 blocklike
 broil
+baobabs
 blockmaker
 balances
 blockpate
