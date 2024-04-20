@@ -2615,7 +2615,6 @@ fribblery
 ferrites
 frailties
 ferritic
-ferritins
 fiduciaries
 ferritungstite
 flurry
@@ -9297,6 +9296,7 @@ fragility
 foxery
 faceplate
 fragilities
+ferritins
 fragment
 floorhead
 fragmental
