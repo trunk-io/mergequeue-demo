@@ -10185,7 +10185,6 @@ centeredness
 chevaliers
 chevaline
 chevance
-chevaux
 circumambulating
 cantonese
 compagnie
@@ -26942,6 +26941,7 @@ countermanding
 countermaneuver
 countermanifestoes
 colorable
+chevaux
 cunningaire
 canephroi
 countermarch
