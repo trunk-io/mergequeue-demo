@@ -2691,7 +2691,6 @@ dollish
 deconsecration
 deconsider
 deconsideration
-decontaminate
 decontaminated
 decontaminates
 decontaminating
@@ -14375,6 +14374,7 @@ dividable
 dividant
 desk
 dodgeries
+decontaminate
 divided
 dividend
 dividends
