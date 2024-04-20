@@ -14976,7 +14976,6 @@ cytomere
 cytometer
 cytomicrosome
 citrated
-cytomitome
 cytomorphology
 cytomorphological
 cyton
@@ -25250,6 +25249,7 @@ corita
 convergently
 corium
 corixa
+cytomitome
 corixidae
 coryza
 coryzal
