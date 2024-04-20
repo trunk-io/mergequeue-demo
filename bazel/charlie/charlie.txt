@@ -12437,6 +12437,7 @@ castro
 chromatospheric
 chromatrope
 chromaturia
+composition
 chromazurine
 chromdiagnosis
 chrome
@@ -20846,7 +20847,6 @@ compositely
 compositeness
 composites
 compositing
-composition
 compositional
 compositionally
 compositions
