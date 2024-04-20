@@ -3085,7 +3085,6 @@ fiber
 filamentose
 fiberboard
 fiberglas
-fiberization
 fiberize
 flanconade
 fiberized
@@ -8927,6 +8926,7 @@ fistulize
 fostership
 filestatus
 fot
+fiberization
 fothering
 foreshorten
 flukiest
