@@ -523,6 +523,7 @@ dalliers
 dedolomitized
 dallies
 dallyman
+disrange
 daudit
 dallis
 dalmania
@@ -17926,7 +17927,6 @@ duffel
 duffels
 duffer
 dufferdom
-disrange
 duffers
 duffy
 duffing

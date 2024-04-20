@@ -1081,7 +1081,6 @@ fructuary
 ferlies
 farmyardy
 foremastman
-farmost
 faured
 farmout
 fisc
@@ -3950,6 +3949,7 @@ fined
 fatiguing
 fineish
 fineleaf
+farmost
 fineless
 fineness
 finer
