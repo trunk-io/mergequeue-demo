@@ -6498,7 +6498,6 @@ fernbird
 forsteal
 flurries
 flurrying
-flunkeys
 flurriment
 futteret
 futile
@@ -8094,6 +8093,7 @@ findfault
 forestology
 flashback
 forestral
+flunkeys
 flatuosity
 forestries
 fluorescent
