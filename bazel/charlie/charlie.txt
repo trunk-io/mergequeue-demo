@@ -10473,6 +10473,7 @@ chiffons
 continuable
 chifforobe
 chifforobes
+crosswalk
 chiffre
 chigetai
 chigetais
@@ -29915,7 +29916,6 @@ crosstrack
 crosstree
 crossway
 crossways
-crosswalk
 crosswalks
 crossweb
 crossweed
