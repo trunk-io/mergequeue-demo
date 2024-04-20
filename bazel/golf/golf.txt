@@ -1528,7 +1528,6 @@ germanism
 grangerization
 goodnight
 garrisonian
-garrisoning
 garrisonism
 graciosity
 garefowls
@@ -9850,6 +9849,7 @@ growth
 guardianless
 gerygone
 guanin
+garrisoning
 gonothecae
 guanines
 guanize
