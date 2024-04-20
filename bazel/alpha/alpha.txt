@@ -2721,7 +2721,6 @@ acquirable
 acquire
 acquired
 acquirement
-acquirer
 acquirers
 acquiring
 acquisible
@@ -2930,6 +2929,7 @@ acrologic
 acrologism
 arboriculturist
 acrologue
+acquirer
 acromastitis
 acromegaly
 analogs
