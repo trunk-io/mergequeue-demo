@@ -3003,7 +3003,6 @@ greyling
 gallerylike
 geoagronomic
 geobiont
-geoblast
 geobotany
 geobotanic
 goitre
@@ -8245,6 +8244,7 @@ gonopores
 gedecktwork
 geast
 gobos
+geoblast
 grassland
 gedds
 glaswegian

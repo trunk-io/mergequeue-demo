@@ -4830,7 +4830,6 @@ carryings
 carryke
 carriole
 carrioles
-carrion
 carryon
 carrions
 carryons
@@ -8708,6 +8707,7 @@ chandlerly
 chandlers
 chandoo
 cephalanthous
+carrion
 calenturing
 cymaphen
 chandui
