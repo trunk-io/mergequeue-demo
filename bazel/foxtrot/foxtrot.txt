@@ -783,7 +783,6 @@ fanegadas
 feudalizable
 fellowlike
 favor
-footslogging
 fanfaronade
 fanfarons
 funnellike
@@ -10602,6 +10601,7 @@ funniment
 frowsier
 frowsiest
 frowsily
+footslogging
 flyflap
 frowsiness
 fondling
