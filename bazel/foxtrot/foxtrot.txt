@@ -5842,6 +5842,7 @@ feculency
 floatsmen
 floatstone
 flob
+furanes
 flobby
 forswat
 forcedness
@@ -11316,7 +11317,6 @@ floured
 furacity
 furaldehyde
 furan
-furanes
 furanoid
 flix
 furanose
