@@ -8918,6 +8918,7 @@ forblow
 fosterhood
 fostering
 fosterite
+fides
 flatbrod
 fosterland
 fosterling
@@ -11623,7 +11624,6 @@ fusses
 forbreak
 fussier
 fussification
-fides
 fussily
 fussiness
 friend
