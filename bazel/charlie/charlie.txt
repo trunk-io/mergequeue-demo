@@ -19452,7 +19452,6 @@ colorless
 colorlessly
 colorlessness
 colormaker
-colormaking
 colorman
 coloroto
 colors
@@ -26488,6 +26487,7 @@ cottas
 cotte
 cotted
 cotter
+colormaking
 cottered
 cotterel
 cottering
