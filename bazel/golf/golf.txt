@@ -2865,6 +2865,7 @@ genoise
 genomic
 genoms
 genos
+gasts
 genotype
 genotypic
 gunfire
@@ -5626,7 +5627,6 @@ gently
 globeflower
 guttiferous
 globes
-gasts
 globetrotters
 gangplanks
 globetrotting
