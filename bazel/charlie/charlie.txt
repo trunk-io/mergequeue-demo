@@ -4183,7 +4183,6 @@ cardshark
 carbamido
 chauffeur
 cardsharp
-cardsharper
 charted
 cardsharping
 chlorites
@@ -25591,6 +25590,7 @@ commemorized
 coroutine
 coroutines
 corozos
+cardsharper
 corp
 corpl
 corpn
