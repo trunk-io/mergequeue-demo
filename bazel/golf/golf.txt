@@ -2343,7 +2343,6 @@ geic
 geyerite
 geiger
 gangrel
-gemsboks
 glede
 glowerer
 gantryman
@@ -7022,6 +7021,7 @@ goon
 goonch
 goondie
 gardant
+gemsboks
 gooneys
 grangerising
 grandpappy
