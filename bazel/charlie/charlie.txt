@@ -7655,6 +7655,7 @@ cerebrocardiac
 cerebroganglion
 cerebroganglionic
 cerebroid
+correspondencies
 cerebroma
 cerebromalacia
 cerebromeningeal
@@ -25717,7 +25718,6 @@ corresponded
 correspondence
 correspondences
 correspondency
-correspondencies
 correspondent
 correspondential
 correspondently
