@@ -4374,7 +4374,6 @@ adpress
 alchornea
 adpromissor
 adrad
-adradius
 adramelech
 adread
 adreamed
@@ -24438,6 +24437,7 @@ autotoxaemia
 autotoxemia
 autotoxic
 autotoxication
+adradius
 autotractor
 autotransformer
 autotransplantation
