@@ -302,7 +302,6 @@ abecedaire
 abecedaria
 abecedarian
 abecedarians
-abecedarius
 abed
 abedge
 abegge
@@ -9777,6 +9776,7 @@ amalgamating
 antimonarchical
 amalgamation
 amalgamationist
+abecedarius
 amalgamative
 amalgamatize
 amalgamator
