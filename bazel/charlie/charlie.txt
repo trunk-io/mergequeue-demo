@@ -3677,7 +3677,6 @@ carbamoyl
 circum
 carbanil
 carbanilic
-clotho
 carbanilid
 carbaryl
 camden
@@ -31395,6 +31394,7 @@ covariance
 curls
 curmudgeon
 curmudgeonery
+clotho
 curmudgeonish
 curmudgeonly
 curmudgeons
