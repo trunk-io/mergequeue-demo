@@ -1233,7 +1233,6 @@ balaenicipites
 bocaccios
 balaenidae
 balaenoid
-balaenoidean
 balaenoptera
 balaenopteridae
 bambocciade
@@ -9356,6 +9355,7 @@ buzuki
 biradiate
 birational
 birch
+balaenoidean
 birchbark
 birched
 birchen
