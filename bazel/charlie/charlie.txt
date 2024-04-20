@@ -2715,7 +2715,6 @@ cannulated
 cannulating
 cannulation
 canoe
-canoed
 canoeist
 canoeists
 canoeload
@@ -31376,6 +31375,7 @@ centranthus
 curledness
 curler
 curlewberry
+canoed
 curlews
 cricetid
 curly
