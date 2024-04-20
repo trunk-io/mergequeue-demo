@@ -102,6 +102,7 @@ forequoted
 facie
 freeport
 faciend
+funtumia
 faciends
 fossulet
 facient
@@ -11310,7 +11311,6 @@ finbacks
 funs
 funster
 formulising
-funtumia
 fur
 factorial
 furacious
