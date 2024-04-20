@@ -3164,7 +3164,6 @@ diplomacy
 defection
 defectious
 devotionalness
-defective
 dribbled
 defectively
 defectiveness
@@ -17622,6 +17621,7 @@ drunkensome
 drunkenwise
 dirtiest
 drunker
+defective
 decurrencies
 dabbler
 drunkeries
