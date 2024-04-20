@@ -1031,6 +1031,7 @@ bretons
 baile
 boucherize
 bailee
+bugbears
 bodyguard
 bailey
 bathmic
@@ -2236,7 +2237,6 @@ blameworthiness
 barato
 baghla
 bontebok
-bugbears
 baratte
 barauna
 bioscience
