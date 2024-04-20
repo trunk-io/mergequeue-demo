@@ -927,7 +927,6 @@ gamelang
 gamelans
 gameless
 gentian
-gamely
 gamelike
 goracco
 gladiole
@@ -9233,6 +9232,7 @@ gedanken
 globulose
 gastric
 grockle
+gamely
 groenendael
 goofily
 geotaxis

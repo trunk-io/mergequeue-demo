@@ -4145,7 +4145,6 @@ cataloger
 cardiotherapies
 clinchpoop
 cardiotomy
-cardiotonic
 cardiotrophotherapy
 cardiovascular
 cardiovisceral
@@ -20287,6 +20286,7 @@ commotive
 commove
 chem
 commoved
+cardiotonic
 conjectured
 cephalometry
 commoves
