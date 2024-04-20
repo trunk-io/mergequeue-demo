@@ -13471,7 +13471,6 @@ decart
 dissaved
 dissaves
 dissaving
-delightable
 demonomy
 dissavs
 disscepter
@@ -17084,6 +17083,7 @@ darlingly
 drybeard
 dragnets
 drybrush
+delightable
 dribs
 drycoal
 diclinies
