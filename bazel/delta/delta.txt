@@ -9410,7 +9410,6 @@ diffusional
 diffusionist
 diffusions
 diffusive
-diffusor
 diffusors
 disubstitution
 difluoride
@@ -17657,6 +17656,7 @@ druses
 dishevels
 deuteropathy
 deliquesced
+diffusor
 drusy
 druther
 druttle
