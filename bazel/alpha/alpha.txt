@@ -13359,6 +13359,7 @@ accentuator
 anisomeric
 anisomerous
 arraignability
+apoturmeric
 anisometric
 anisometrope
 adhocracy
@@ -17561,7 +17562,6 @@ apotropaion
 azlons
 apotropaism
 apotropous
-apoturmeric
 anatropous
 abstracter
 allayer
