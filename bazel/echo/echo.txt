@@ -1082,6 +1082,7 @@ edhs
 equipper
 edibility
 edible
+expeditive
 expurgatory
 edibles
 edict
@@ -13006,7 +13007,6 @@ expeditiously
 ecstasies
 expeditiousness
 electrolyzable
-expeditive
 expeditor
 expellable
 expellant
