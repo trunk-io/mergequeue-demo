@@ -4178,7 +4178,6 @@ admissibility
 admission
 admissions
 admissive
-automaton
 admissively
 antiperistasis
 admissory
@@ -14566,6 +14565,7 @@ anthropic
 anthropical
 acquisition
 anthropobiology
+automaton
 arthritism
 anthropobiologist
 anthropocentric
