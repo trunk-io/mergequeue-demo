@@ -6414,6 +6414,7 @@ gobio
 gomeral
 glove
 garnet
+gliffy
 gastriloquous
 greenhouse
 gastronomist
@@ -7324,7 +7325,6 @@ gossoons
 gestor
 galactometry
 gosther
-gliffy
 gotch
 geggee
 gotched
