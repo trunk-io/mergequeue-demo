@@ -496,7 +496,6 @@ fumados
 falcata
 falcate
 falces
-falchion
 forgeman
 falcial
 falciform
@@ -9616,6 +9615,7 @@ figurers
 fora
 forsworn
 firths
+falchion
 fiador
 freakout
 felidae

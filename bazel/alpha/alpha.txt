@@ -5123,7 +5123,6 @@ aeroplane
 aeroplaner
 aeroplanes
 aeroplanist
-aeropleustic
 aeroscepsy
 aurum
 aeroscepsis
@@ -6951,6 +6950,7 @@ airline
 airliner
 airlines
 airling
+aeropleustic
 airlock
 airmailing
 annoyingness
