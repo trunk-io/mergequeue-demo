@@ -3332,7 +3332,6 @@ aculeata
 aculeated
 ambassiate
 aculei
-aculeiform
 appropriate
 aculeolate
 abscam
@@ -5064,6 +5063,7 @@ aeromechanic
 aeromechanics
 aeromedical
 aeromedicine
+aculeiform
 aerometeorograph
 aerometer
 aerometry
