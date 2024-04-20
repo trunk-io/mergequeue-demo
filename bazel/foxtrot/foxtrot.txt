@@ -2725,7 +2725,6 @@ feruled
 ferules
 ferulic
 fissipedate
-ferv
 fervanite
 fervence
 farmplace
@@ -10215,6 +10214,7 @@ frisure
 frithbot
 frithy
 fonds
+ferv
 feasance
 formiate
 fideles
