@@ -5198,7 +5198,6 @@ biolytic
 baffled
 befouled
 bouilli
-befouler
 befoulers
 brunizem
 befouling
@@ -16671,6 +16670,7 @@ buckpot
 buckram
 buckraming
 buckrams
+befouler
 buckras
 bucks
 bucksaw
