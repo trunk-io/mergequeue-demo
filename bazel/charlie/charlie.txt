@@ -8968,7 +8968,6 @@ characterised
 characteriser
 characterising
 characterism
-characteristic
 characteristically
 characteristicalness
 characteristicness
@@ -22289,6 +22288,7 @@ conglobes
 conglobing
 conglomerate
 conglomerated
+characteristic
 carolling
 conglomerates
 cylices
