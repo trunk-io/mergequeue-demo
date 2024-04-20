@@ -2451,6 +2451,7 @@ decision
 decisional
 decisions
 decisis
+decl
 decisive
 decisively
 darkened
@@ -2475,7 +2476,6 @@ deckpipe
 decks
 dulls
 deckswabber
-decl
 declaim
 dichorisandra
 declaimer
