@@ -1811,7 +1811,6 @@ debite
 debiteuse
 debiting
 dregless
-debitor
 dineric
 debitum
 debitumenize
@@ -10217,6 +10216,7 @@ distresses
 dinomic
 dinomys
 dinophyceae
+debitor
 dinophilea
 dinophilus
 dinornis
