@@ -2776,7 +2776,6 @@ decrements
 decremeter
 decrepid
 decrepit
-decrepitate
 duodecahedral
 decrepitated
 decrepitation
@@ -2983,6 +2982,7 @@ discontent
 deemer
 dustermen
 deemie
+decrepitate
 dopamines
 deeming
 deemphasis
