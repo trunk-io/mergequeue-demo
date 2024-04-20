@@ -10250,7 +10250,6 @@ frivolity
 frivolities
 frivolize
 frivolized
-frivolizing
 frivoller
 frivolling
 fusobteria
@@ -10931,6 +10930,7 @@ footwarmers
 facade
 fulguration
 fulgurite
+frivolizing
 fluxroot
 fulgurous
 fistify
