@@ -5867,7 +5867,6 @@ glossoepiglottic
 goldwork
 glossoepiglottidean
 goldsmithery
-glossographer
 getid
 glossohyal
 gaultherase
@@ -6381,6 +6380,7 @@ gobbe
 glycemic
 gobbed
 gobber
+glossographer
 girja
 geophilus
 gobbet
