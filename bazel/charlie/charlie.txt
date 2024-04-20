@@ -9052,6 +9052,7 @@ charger
 charges
 chargeship
 charybdian
+crankman
 charybdis
 charicleia
 charier
@@ -28189,7 +28190,6 @@ crankless
 contiguities
 catamounts
 crankling
-crankman
 crankness
 companionably
 crankous
