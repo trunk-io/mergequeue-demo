@@ -10032,7 +10032,6 @@ folliculous
 friending
 friendlessness
 friendlier
-filter
 friendliest
 friendlike
 friendliwise
@@ -11015,6 +11014,7 @@ fumago
 flavones
 fumarase
 fortunation
+filter
 flagellar
 finally
 fumarases
