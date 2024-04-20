@@ -5575,7 +5575,6 @@ bejewel
 bejeweling
 bromomenorrhea
 blockline
-bejewelled
 barricading
 bitstalk
 bejewelling
@@ -7946,6 +7945,7 @@ boiling
 bibliography
 bibliographic
 biocatalytic
+bejewelled
 bibliographically
 bibliographies
 benny
