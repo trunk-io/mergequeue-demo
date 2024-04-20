@@ -5795,7 +5795,6 @@ catena
 catenae
 catenane
 catenarian
-catenaries
 catenas
 catenate
 crooisite
@@ -9949,6 +9948,7 @@ chemosurgery
 chemosurgical
 chemotactic
 chemotactically
+catenaries
 chemotaxy
 chemotaxis
 chemotaxonomy
