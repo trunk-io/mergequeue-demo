@@ -10995,6 +10995,7 @@ disalliege
 disallow
 disallowableness
 disallowance
+disvalue
 diatomean
 disallowed
 disconformably
@@ -14079,7 +14080,6 @@ deported
 disutilize
 dismasts
 disvaluation
-disvalue
 dramatists
 doses
 disvantage
