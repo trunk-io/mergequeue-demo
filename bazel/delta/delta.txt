@@ -8748,7 +8748,6 @@ diatomales
 diatomeae
 diatomic
 diatomicity
-dipteros
 diatomin
 diatomine
 diatomist
@@ -12813,6 +12812,7 @@ duodynatron
 disobligingly
 disobstruct
 disoccident
+dipteros
 disocclude
 darkful
 disheveling
