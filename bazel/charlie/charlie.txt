@@ -2482,7 +2482,6 @@ chlorotrifluoromethane
 candors
 correlation
 catalan
-candours
 candroy
 candroys
 canduc
@@ -11087,6 +11086,7 @@ chitling
 chitlings
 chewstick
 cowpath
+candours
 chitlins
 calamus
 charvet
