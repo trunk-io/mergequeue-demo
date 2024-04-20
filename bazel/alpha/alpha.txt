@@ -19213,6 +19213,7 @@ archrepresentative
 archrobber
 archrogue
 archruler
+archantagonist
 archsacrificator
 archsacrificer
 archsaint
@@ -25308,7 +25309,6 @@ azolla
 azomethine
 azon
 azonaphthalene
-archantagonist
 azonium
 azons
 architraves
