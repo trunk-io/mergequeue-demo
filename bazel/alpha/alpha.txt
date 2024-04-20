@@ -793,7 +793,6 @@ abrasions
 attuning
 abrasive
 abrasively
-abrasives
 abrazite
 abrazo
 aviarists
@@ -3327,6 +3326,7 @@ acuities
 aculea
 antizymic
 anagramming
+abrasives
 aculeae
 aculeata
 aculeated
