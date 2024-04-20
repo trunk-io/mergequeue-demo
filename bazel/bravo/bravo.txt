@@ -6164,7 +6164,6 @@ benched
 bencher
 benchers
 benchership
-benches
 benchfellow
 bethwine
 burglary
@@ -9678,6 +9677,7 @@ bisexualism
 blepharitis
 bisexuality
 bisexually
+benches
 bisexuals
 bongs
 bisglyoxaline
