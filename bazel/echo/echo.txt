@@ -1064,6 +1064,7 @@ edges
 edgeshot
 errands
 edgeway
+embalmment
 enshrouded
 embryonically
 edgewise
@@ -11918,7 +11919,6 @@ excels
 entocoele
 excelsior
 endophytic
-embalmment
 excentric
 excentricity
 equaeval
