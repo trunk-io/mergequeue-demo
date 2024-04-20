@@ -6249,6 +6249,7 @@ enrichener
 enrichers
 enriches
 enrichments
+enows
 epsilon
 enridged
 exarchal
@@ -6811,7 +6812,6 @@ entocyemate
 epidemics
 expedient
 everett
-enows
 entocnemial
 entocoelic
 encinillo
