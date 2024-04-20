@@ -448,7 +448,6 @@ anklebone
 aerified
 abiotically
 abiotrophy
-abiotrophic
 abipon
 abalation
 abir
@@ -15048,6 +15047,7 @@ anticompetitive
 anticomplement
 anticomplementary
 anticomplex
+abiotrophic
 anticonductor
 assassinates
 antozone
