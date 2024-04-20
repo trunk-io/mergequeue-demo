@@ -9009,7 +9009,6 @@ allotment
 allotments
 allotransplant
 allotransplantation
-allotriodontia
 allotriognathi
 allotriomorphic
 allotriophagy
@@ -13453,6 +13452,7 @@ ankylostomiasis
 ankylotia
 ankylotic
 ankylotome
+allotriodontia
 ankylotomy
 ankle
 anklejack
