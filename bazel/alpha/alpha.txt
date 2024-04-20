@@ -8661,7 +8661,6 @@ allegorist
 allegoristic
 amygdaloidal
 allegorists
-allegorization
 allegorized
 allegorizer
 allegorizing
@@ -22349,6 +22348,7 @@ astrometeorology
 algogenic
 astrometeorological
 astrometeorologist
+allegorization
 astrometry
 astrometric
 astron
