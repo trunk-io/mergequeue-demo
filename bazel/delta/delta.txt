@@ -7066,7 +7066,6 @@ destinism
 destituent
 destitute
 destituted
-destituting
 destitution
 desto
 disvalues
@@ -15506,6 +15505,7 @@ dendritically
 donjon
 donjons
 donk
+destituting
 danios
 donkeyish
 donkeyman
