@@ -781,7 +781,6 @@ fandom
 fandoms
 fane
 fanegadas
-fanfarade
 feudalizable
 fellowlike
 favor
@@ -10084,6 +10083,7 @@ fadlike
 fashion
 frigor
 feloniousness
+fanfarade
 formagen
 forensically
 frigoric
