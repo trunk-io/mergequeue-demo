@@ -2781,6 +2781,7 @@ decrees
 decreet
 dop
 decrement
+deflocculator
 disharmonize
 decremental
 dactylioglyphy
@@ -3414,7 +3415,6 @@ droschken
 debasement
 deflocculate
 deflocculating
-deflocculator
 dolcian
 drawtubes
 deflocculent

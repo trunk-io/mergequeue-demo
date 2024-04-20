@@ -3306,7 +3306,6 @@ embalmed
 envelopes
 embalmer
 embalmers
-embanked
 eradicators
 elver
 embankments
@@ -11249,6 +11248,7 @@ encrusts
 estancieros
 endotherm
 econometrist
+embanked
 emendatory
 exion
 eutopian
