@@ -2142,7 +2142,6 @@ elatinaceae
 elatinaceous
 elating
 elation
-elations
 escobita
 elative
 elatives
@@ -13874,6 +13873,7 @@ extramarginal
 extramatrical
 extramental
 epupillate
+elations
 extrameridian
 extrameridional
 extrametrical
