@@ -6639,7 +6639,6 @@ berates
 berattle
 beraunite
 berber
-binoculate
 borickite
 berberi
 berbery
@@ -13848,6 +13847,7 @@ bowstaff
 brokenhearted
 bowstave
 bowstring
+binoculate
 bowstringed
 bismuths
 bowstrings
