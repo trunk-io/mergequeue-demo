@@ -1295,7 +1295,6 @@ fasinite
 flavine
 fass
 fassaite
-felonwood
 felsic
 fassalite
 fastbacks
@@ -6406,6 +6405,7 @@ fluoranthene
 fluorapatite
 fishtailing
 favorite
+felonwood
 fluorated
 fluorbenzene
 fluorboric
