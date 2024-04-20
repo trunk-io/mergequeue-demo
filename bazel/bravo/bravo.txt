@@ -7622,7 +7622,6 @@ beglerbey
 bummers
 blowpit
 bewailing
-bewailingly
 bewails
 bewake
 bandolier
@@ -16357,6 +16356,7 @@ brushbird
 brushcut
 bestick
 braker
+bewailingly
 betrace
 brushed
 booted
