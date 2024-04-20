@@ -3732,6 +3732,7 @@ dehydroffroze
 dehydroffrozen
 dehydrofreeze
 dehydrofreezing
+drepanoid
 dehydrofrozen
 disproved
 didact
@@ -17016,7 +17017,6 @@ drepanididae
 drepaniform
 dehortatory
 drepanium
-drepanoid
 dress
 dray
 dressage
