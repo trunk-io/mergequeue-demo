@@ -670,7 +670,6 @@ bynames
 bacteriotropic
 blepharedema
 bacterious
-bacteririum
 barbotte
 bacteriuria
 boigid
@@ -6926,6 +6925,7 @@ bescatter
 bescent
 bescorched
 bruchid
+bacteririum
 bassnesses
 bescorching
 billheads
