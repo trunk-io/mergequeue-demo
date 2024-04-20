@@ -4804,6 +4804,7 @@ carretela
 carretera
 carreton
 carretta
+cofferlike
 carri
 carry
 carriable
@@ -18266,7 +18267,6 @@ coombe
 cofferer
 cofferfish
 coffering
-cofferlike
 chauldron
 coffers
 cofferwork
