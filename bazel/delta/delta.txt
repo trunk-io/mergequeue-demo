@@ -1252,7 +1252,6 @@ daubreite
 dipleidoscope
 dryermen
 daubries
-daubs
 daubster
 daud
 dauded
@@ -8329,6 +8328,7 @@ dialector
 dargue
 dialects
 dimethylsulfoxide
+daubs
 dialed
 dialer
 dialycarpous
