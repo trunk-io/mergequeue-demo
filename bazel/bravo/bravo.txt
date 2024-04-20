@@ -391,7 +391,6 @@ backlet
 billion
 baaing
 backliding
-backlins
 backlists
 backlit
 biradiated
@@ -6897,6 +6896,7 @@ berthing
 bilirubinemia
 berthold
 bertie
+backlins
 bertillonage
 bertin
 bertolonia
