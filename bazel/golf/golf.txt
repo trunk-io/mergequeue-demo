@@ -780,7 +780,6 @@ galvanocauteries
 galvanoglyph
 glycid
 gerbillinae
-galvanography
 galvanolysis
 grenadiership
 galvanology
@@ -2429,6 +2428,7 @@ gelatinity
 gyrectomies
 gelatinizability
 gelatinizable
+galvanography
 graphometer
 gelatinization
 gruppetto
