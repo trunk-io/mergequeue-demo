@@ -6037,6 +6037,7 @@ aramis
 agglutinable
 apical
 anthropodus
+anartismos
 agglutinate
 agglutinated
 agglutinates
@@ -12002,7 +12003,6 @@ anarthrosis
 anarthrous
 anarthrously
 anarthrousness
-anartismos
 anas
 anasa
 aphthoid
