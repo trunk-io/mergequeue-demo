@@ -4422,6 +4422,7 @@ balanite
 becard
 becarpeted
 becarpeting
+balancer
 becarve
 becasse
 becassine
@@ -7297,7 +7298,6 @@ bloom
 bestow
 bestowals
 bestower
-balancer
 bestowment
 bestows
 bestraddle
