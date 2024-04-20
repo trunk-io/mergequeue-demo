@@ -1177,7 +1177,6 @@ bellis
 bakeboard
 baked
 bakehead
-bakehouse
 bibliothetic
 bakehouses
 bakelite
@@ -1870,6 +1869,7 @@ bandgap
 bandh
 brownism
 brython
+bakehouse
 bandhava
 bandhook
 borer
