@@ -2656,7 +2656,6 @@ electrotheraputically
 electrothermal
 expurgates
 epiperipheral
-electrothermancy
 electrothermic
 electrothermics
 enschedule
@@ -7771,6 +7770,7 @@ euphorbiaceae
 epidote
 epiproct
 epidotic
+electrothermancy
 epidotiferous
 ectocinerea
 epidotization
