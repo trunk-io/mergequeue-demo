@@ -1168,7 +1168,6 @@ afterdrops
 aucan
 abutment
 abutments
-abuts
 abuttal
 abuttals
 abutted
@@ -20898,6 +20897,7 @@ anatomizable
 asarone
 attorneyism
 asarotum
+abuts
 asarta
 asarum
 asarums
