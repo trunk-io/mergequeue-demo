@@ -6997,7 +6997,6 @@ entreats
 entrec
 entrecote
 entrecotes
-entredeux
 entree
 epiglottides
 entrees
@@ -11385,6 +11384,7 @@ evaporated
 evaporates
 enemylike
 evaporating
+entredeux
 endoarteritis
 evaporation
 exams
