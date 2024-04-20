@@ -2999,7 +2999,6 @@ canzona
 canzonas
 canzones
 canzonet
-canzonets
 canzonetta
 canzoni
 canzos
@@ -25470,6 +25469,7 @@ cornuted
 cammocky
 cornutine
 cornuting
+canzonets
 clong
 cornuto
 cornutos
