@@ -3585,7 +3585,6 @@ degeneration
 degenerations
 dockages
 degenerative
-degeneratively
 degenerescence
 degenerescent
 degeneroos
@@ -16155,6 +16154,7 @@ decadarch
 dovehouse
 dovekeys
 dovekies
+degeneratively
 dovelet
 dovelike
 dovelikeness
