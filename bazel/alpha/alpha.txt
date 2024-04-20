@@ -9447,7 +9447,6 @@ altar
 altarage
 altared
 allodies
-altarist
 altarlet
 altarpieces
 altars
@@ -16537,6 +16536,7 @@ antsiest
 aground
 antsigne
 antthrush
+altarist
 antum
 antwerp
 antwise
