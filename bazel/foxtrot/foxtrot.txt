@@ -2949,7 +2949,6 @@ fantastical
 feudatary
 fastings
 feudatory
-feudatorial
 fanciable
 feudatories
 feuded
@@ -5518,6 +5517,7 @@ flyable
 formalising
 fascicle
 flyback
+feudatorial
 foreflank
 flancards
 flyball
