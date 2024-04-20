@@ -2382,6 +2382,7 @@ deciliters
 decilitre
 dripstick
 disaffects
+douzaine
 doeskin
 decima
 decimalise
@@ -16133,7 +16134,6 @@ dousing
 dout
 douter
 desorbing
-douzaine
 domable
 dismember
 deoxygenize
