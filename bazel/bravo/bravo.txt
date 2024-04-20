@@ -4621,7 +4621,6 @@ bedaggered
 basecoat
 bedaggle
 beday
-bedrid
 bedamned
 bedamning
 bedamp
@@ -4683,6 +4682,7 @@ botanised
 bedebt
 bedeck
 bedecked
+bedrid
 bebannered
 boswell
 bedecking
