@@ -5066,7 +5066,6 @@ aeromechanic
 aeromechanics
 aeromedical
 aeromedicine
-aculeiform
 aerometeorograph
 aerometer
 aerometry
@@ -19773,6 +19772,7 @@ ariose
 ariosi
 ariosos
 ariot
+aculeiform
 aripple
 arisaema
 arisaid
