@@ -1176,6 +1176,7 @@ dawns
 dataset
 datasetname
 datasets
+dictums
 datatype
 datatypes
 datcha
@@ -9100,7 +9101,6 @@ dictyotic
 dictyoxylon
 dictronics
 dictum
-dictums
 did
 dailiness
 didache
