@@ -8146,6 +8146,7 @@ chaetosomatidae
 chaetosomidae
 codrus
 chaetotactic
+chemmy
 chaetotaxy
 chaetura
 chafe
@@ -9897,7 +9898,6 @@ chemitype
 chemitypy
 chemitypies
 chemizo
-chemmy
 cornucopia
 chastizer
 chemoautotrophic
