@@ -6801,6 +6801,7 @@ bedull
 berlin
 beneficing
 broomstaff
+berate
 balaamitical
 berlina
 berline
@@ -9639,7 +9640,6 @@ ballaton
 bisdimethylamino
 bicapsular
 bisect
-berate
 bisected
 bisecting
 bisection
