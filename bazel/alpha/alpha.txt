@@ -14452,7 +14452,6 @@ anthologising
 anthologists
 anthologize
 anthologized
-anthologizer
 aposporous
 anthologizes
 anthologizing
@@ -19443,6 +19442,7 @@ areologist
 areometry
 areometric
 areometrical
+anthologizer
 areopagist
 areopagite
 areopagitica
