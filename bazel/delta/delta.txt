@@ -10445,6 +10445,7 @@ ditcher
 deltafication
 diphenylguanidine
 diphenylhydantoin
+disvulnerability
 diphenylmethane
 diphenylquinomethane
 diphenyls
@@ -14110,7 +14111,6 @@ damage
 disvisage
 disvisor
 disvoice
-disvulnerability
 demurs
 diswarn
 dehaites
