@@ -5835,6 +5835,7 @@ enterostomies
 enhearten
 enheaven
 enhedge
+ergatandromorph
 enhelm
 elysia
 enhemospore
@@ -8951,7 +8952,6 @@ enticement
 ergastulum
 enucleating
 ergatandry
-ergatandromorph
 ergatandrous
 ergate
 ergative
