@@ -5610,7 +5610,6 @@ afterchurch
 alaster
 afterclause
 aftercome
-aftercomer
 aftercoming
 aftercooler
 aftercost
@@ -18019,6 +18018,7 @@ apprizing
 appro
 affects
 approach
+aftercomer
 approachabl
 approachable
 approachableness
