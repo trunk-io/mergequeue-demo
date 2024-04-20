@@ -4906,6 +4906,7 @@ fergusite
 fill
 flamefishes
 flameless
+flitch
 flamen
 factionary
 flocking
@@ -5747,7 +5748,6 @@ flyswatter
 flit
 flamens
 ferrocalcite
-flitch
 frankist
 figmental
 flitched
