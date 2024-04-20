@@ -246,7 +246,6 @@ facultize
 frightening
 firmest
 facundity
-fadable
 faddy
 faddier
 faddiness
@@ -9272,6 +9271,7 @@ fragile
 fishpot
 fragileness
 fragility
+fadable
 foxery
 faceplate
 fragilities
