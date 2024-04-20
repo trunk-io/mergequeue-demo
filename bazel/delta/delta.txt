@@ -2562,7 +2562,6 @@ decoagulation
 decoat
 decocainize
 decoct
-decoctible
 decocting
 denizening
 disarrest
@@ -12774,6 +12773,7 @@ dhanvantari
 dysmenorrheic
 dysmenorrhoea
 dermomuscular
+decoctible
 dysmeristic
 dismerit
 dysmerogenesis
