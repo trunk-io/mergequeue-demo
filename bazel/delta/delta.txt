@@ -12727,7 +12727,6 @@ disman
 dismantlement
 dismantler
 dismantles
-dismarble
 dwarflike
 dismarch
 dismarket
@@ -13347,6 +13346,7 @@ deductile
 desulfurate
 disquisitively
 disquisitor
+dismarble
 deepfreezed
 disquisitory
 disquisitorial
