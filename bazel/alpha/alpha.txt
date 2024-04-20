@@ -6050,7 +6050,6 @@ agglutinatively
 agglutinator
 agamobium
 agglutinin
-agglutinins
 agglutinize
 agglutinogen
 agglutinogenic
@@ -19744,6 +19743,7 @@ arimasp
 arimaspian
 arimathaean
 arioi
+agglutinins
 arioian
 ariolate
 arion
