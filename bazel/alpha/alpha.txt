@@ -12057,7 +12057,6 @@ anatase
 anatases
 anatexis
 anathem
-anathema
 anathemas
 anathemata
 apogamically
@@ -20579,6 +20578,7 @@ arterioversion
 apperceptionistic
 archetype
 arterioverter
+anathema
 atmidometer
 arteritis
 artesian
