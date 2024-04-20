@@ -7206,7 +7206,6 @@ detective
 detectives
 darklings
 detectivism
-detector
 detectors
 dizzied
 detenant
@@ -12184,6 +12183,7 @@ dendrochronological
 dysfunctional
 dysfunctioning
 disability
+detector
 dysfunctions
 disfurnish
 demonologies
