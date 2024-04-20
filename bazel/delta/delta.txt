@@ -3697,7 +3697,6 @@ damaging
 degust
 degusted
 degusting
-deneb
 din
 degusts
 dehache
@@ -9359,6 +9358,7 @@ differentiation
 dioscoreaceous
 differentiative
 differentiator
+deneb
 differently
 differer
 differingly
