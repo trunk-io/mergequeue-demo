@@ -4656,6 +4656,7 @@ deminudity
 demioctangular
 demiofficial
 demiorbit
+depths
 disusing
 demiourgoi
 demiowl
@@ -6027,7 +6028,6 @@ depth
 depthen
 depthless
 depthlessness
-depths
 demonetization
 depthways
 disoccupy
