@@ -4669,6 +4669,7 @@ carpentered
 carpenteria
 carpentering
 carpenters
+charlock
 carpenterworm
 carpentry
 carper
@@ -9103,7 +9104,6 @@ charlestons
 curlier
 charlesworth
 charlet
-charlock
 charlocks
 charlottesville
 charm

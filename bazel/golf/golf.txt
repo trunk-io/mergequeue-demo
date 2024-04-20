@@ -3593,6 +3593,7 @@ gesturist
 grosbeak
 geswarp
 gallivorous
+gluier
 girding
 getae
 getah
@@ -4996,7 +4997,6 @@ goldurns
 gladite
 groovy
 gladius
-gluier
 gibbets
 gladnesses
 gynecomastia
