@@ -13471,6 +13471,7 @@ dissectible
 dissection
 dissections
 dissectors
+duplicia
 dissects
 desperadoes
 disseise
@@ -18395,7 +18396,6 @@ diamondbacks
 duplicature
 disulphuret
 dragonism
-duplicia
 duplicident
 duplicidentata
 degreased
