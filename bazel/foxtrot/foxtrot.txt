@@ -4981,6 +4981,7 @@ foe
 flankard
 fountainhead
 flanked
+flickery
 flanker
 flankers
 falconries
@@ -8368,7 +8369,6 @@ forksmith
 forktail
 fruiterer
 faceup
-flickery
 fantail
 forlay
 forlain
