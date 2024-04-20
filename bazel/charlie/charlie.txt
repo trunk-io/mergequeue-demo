@@ -516,6 +516,7 @@ cadetship
 cadette
 cadettes
 coulis
+competence
 cadew
 carbuilder
 cadged
@@ -20603,7 +20604,6 @@ compester
 compete
 cumbly
 competed
-competence
 competencies
 competent
 competentness
