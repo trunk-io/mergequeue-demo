@@ -15040,7 +15040,6 @@ breva
 brevet
 brevetcies
 brevete
-breveted
 beneficiaries
 breveting
 brevetted
@@ -16408,6 +16407,7 @@ brusqueness
 brusquest
 brussel
 brussels
+breveted
 brustle
 brustling
 brusure
