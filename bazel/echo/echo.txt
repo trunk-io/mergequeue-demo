@@ -12338,7 +12338,6 @@ exemplars
 exempli
 embodier
 efferent
-exemplify
 evocatrix
 exemplification
 eteocles
@@ -13332,6 +13331,7 @@ expostulations
 expostulative
 expostulatively
 expostulatory
+exemplify
 exposture
 epanaphoral
 etude
