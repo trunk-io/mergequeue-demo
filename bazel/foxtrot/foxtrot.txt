@@ -5444,7 +5444,6 @@ foremention
 flirtiest
 fumigator
 fictions
-fatals
 fleshen
 fogydom
 forgeful
@@ -9939,6 +9938,7 @@ fontally
 fretfully
 foreright
 fallibleness
+fatals
 fretish
 farrows
 feldspathic

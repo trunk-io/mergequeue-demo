@@ -4550,7 +4550,6 @@ demibelt
 dislink
 demibob
 demibrassart
-demibrigade
 dendrological
 demibuckram
 demicanon
@@ -9522,6 +9521,7 @@ digitizing
 digitonin
 draggly
 digitoplantar
+demibrigade
 digitorium
 digitoxigenin
 digitron
