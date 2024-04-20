@@ -3167,7 +3167,6 @@ geomorphology
 geomorphological
 geomorphologically
 golliwog
-geon
 georgian
 glutination
 geonavigation
@@ -7064,6 +7063,7 @@ gooseflesh
 goosefoot
 goosegirl
 goosegog
+geon
 grum
 goosegrass
 goosehouse
