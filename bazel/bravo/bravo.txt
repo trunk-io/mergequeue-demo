@@ -597,7 +597,6 @@ bact
 bacteraemia
 betongue
 bacteremic
-bacteria
 bacteriaceae
 britannian
 bacteriaemia
@@ -14435,6 +14434,7 @@ branchery
 branches
 beadle
 branchful
+bacteria
 branchy
 branchia
 branchiae
