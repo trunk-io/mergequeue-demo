@@ -4736,7 +4736,6 @@ defaisance
 demitasse
 demitasses
 demythify
-demythologisation
 demythologising
 demythologization
 demythologizations
@@ -8756,6 +8755,7 @@ diatomin
 diatomine
 diatomist
 diatomous
+demythologisation
 diatoms
 diatonic
 diatonically
