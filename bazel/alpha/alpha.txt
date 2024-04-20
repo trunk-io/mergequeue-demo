@@ -8938,7 +8938,6 @@ allopalladium
 allopath
 allopathetic
 allopathetically
-allopathy
 allopathic
 acidic
 allopathically
@@ -19864,6 +19863,7 @@ aestheticize
 arithmic
 arythmic
 arythmical
+allopathy
 acenesthesia
 arithmocracy
 arithmocratic
