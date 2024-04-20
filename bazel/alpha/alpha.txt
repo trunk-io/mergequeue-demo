@@ -3761,7 +3761,6 @@ adenophorous
 accumulative
 adenopodous
 adenosarcoma
-adenosarcomas
 adenosarcomata
 adenosclerosis
 adenose
@@ -17064,6 +17063,7 @@ apiose
 apiosoma
 apiphobia
 apyrases
+adenosarcomas
 apyrene
 apyretic
 apyrexy
