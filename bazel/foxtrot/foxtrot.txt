@@ -4327,7 +4327,6 @@ firmarius
 firmation
 firmed
 firmer
-firmers
 firmisternal
 fronded
 fretworked
@@ -7951,6 +7950,7 @@ foreintend
 fait
 fayence
 foresee
+firmers
 fantasmagoria
 foreseeable
 finewed
