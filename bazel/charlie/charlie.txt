@@ -24182,6 +24182,7 @@ convictively
 convictment
 convictor
 convicts
+crosshatch
 convince
 convinced
 convincedly
@@ -29859,7 +29860,6 @@ crosshackle
 crosshair
 crosshairs
 crosshand
-crosshatch
 crosshatcher
 crosshatches
 cogwheel
