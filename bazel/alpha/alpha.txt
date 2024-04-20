@@ -1230,7 +1230,6 @@ antrums
 antigod
 acalephs
 ampelitic
-acalycine
 acalyculate
 acalypha
 azlactone
@@ -6776,6 +6775,7 @@ ailment
 ailments
 ails
 allemandes
+acalycine
 acarol
 autosign
 ailsyte
