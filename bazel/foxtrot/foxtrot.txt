@@ -821,7 +821,6 @@ fortes
 flog
 fanions
 firebolt
-fides
 fanit
 fanjet
 formulism
@@ -11626,6 +11625,7 @@ fusses
 forbreak
 fussier
 fussification
+fides
 fussily
 fussiness
 friend
