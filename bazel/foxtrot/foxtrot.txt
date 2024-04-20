@@ -2225,7 +2225,6 @@ fluorescence
 flogging
 felonwort
 feriae
-fractionizing
 flancard
 fels
 felsites
@@ -3068,6 +3067,7 @@ flocoon
 fiant
 fiants
 fiar
+fractionizing
 fumigatory
 fiaroblast
 floran
