@@ -3396,7 +3396,6 @@ capron
 caprone
 capronyl
 caponiser
-caps
 capsaicin
 cotterite
 capsella
@@ -16623,6 +16622,7 @@ cloned
 cloner
 clanning
 congratulation
+caps
 cloners
 clones
 complicities
