@@ -1058,6 +1058,7 @@ calcimining
 calcification
 calcinable
 choppin
+crossbarred
 calcinate
 calcination
 calcinator
@@ -29797,7 +29798,6 @@ calculate
 crossband
 crossbanding
 crossbar
-crossbarred
 crossbars
 crossbbred
 countermeasures
