@@ -597,7 +597,6 @@ geohydrology
 gynaecocoenic
 gestured
 galliasses
-gyrograph
 gallybeggar
 gambet
 graptolitic
@@ -10831,6 +10830,7 @@ guz
 galium
 goldlike
 guzmania
+gyrograph
 guzul
 guzzle
 gersdorffite
