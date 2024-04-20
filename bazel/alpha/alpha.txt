@@ -805,7 +805,6 @@ archenteric
 abreed
 abreid
 abrenounce
-abrenunciate
 asyle
 abreption
 abret
@@ -8354,6 +8353,7 @@ alimentic
 alimentive
 alimentotherapy
 aliments
+abrenunciate
 automatical
 alimentum
 alimony
