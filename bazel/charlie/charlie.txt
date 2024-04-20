@@ -8046,7 +8046,6 @@ contes
 cezannesque
 cf
 cfd
-cfm
 cfs
 cgm
 cgs
@@ -23059,6 +23058,7 @@ consortium
 consortiums
 consorts
 consortship
+cfm
 consoude
 consound
 conspecies
