@@ -5507,6 +5507,7 @@ enfeoff
 englifier
 experimentarian
 etherlike
+enheritance
 enfeoffing
 enfeoffment
 enfester
@@ -5844,7 +5845,6 @@ ergatandromorph
 enhelm
 elysia
 enhemospore
-enheritance
 enhydra
 eyewear
 euphemism
