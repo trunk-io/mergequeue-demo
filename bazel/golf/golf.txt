@@ -4751,6 +4751,7 @@ galliards
 gironde
 grillading
 girondin
+glyoxime
 gentrice
 gironny
 gyronny
@@ -7517,7 +7518,6 @@ gallflies
 gravamens
 gownsmen
 ge
-glyoxime
 gowpen
 guna
 gox
