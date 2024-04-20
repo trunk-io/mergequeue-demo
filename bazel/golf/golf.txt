@@ -1637,7 +1637,6 @@ gasohol
 gasolene
 gasolier
 gasoliery
-gastropodous
 gangland
 gasoliers
 gasoliner
@@ -7502,6 +7501,7 @@ gowks
 gurmukhi
 gradeless
 gowl
+gastropodous
 gowlan
 galavanted
 gowning
