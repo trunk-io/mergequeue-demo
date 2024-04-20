@@ -13520,7 +13520,6 @@ cig
 cigar
 cigaresque
 cigaret
-cigarets
 cigarette
 cigarettes
 cigarfish
@@ -28010,6 +28009,7 @@ cyphers
 craking
 crakow
 cram
+cigarets
 cramasie
 crambambulee
 crosswind
