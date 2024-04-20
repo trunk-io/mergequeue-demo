@@ -3239,7 +3239,6 @@ deferents
 deferment
 deferrable
 deferral
-deferrals
 deferred
 deferrer
 deferrers
@@ -11786,6 +11785,7 @@ discriminativeness
 demyship
 donee
 discriminator
+deferrals
 dislodges
 discriminatory
 discriminatorily
