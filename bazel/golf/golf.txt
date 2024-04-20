@@ -4546,6 +4546,7 @@ gip
 gypaetus
 gype
 gipon
+ghoul
 gaetulan
 gipped
 gypped
@@ -10185,7 +10186,6 @@ gharry
 guilder
 graver
 germicidal
-ghoul
 guildhall
 guilds
 guildship
