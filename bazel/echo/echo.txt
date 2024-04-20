@@ -12067,6 +12067,7 @@ exclaims
 exclam
 earthmaking
 enervators
+event
 exclamational
 exclamations
 exclamative
@@ -13336,7 +13337,6 @@ etude
 exposure
 ethered
 excalfaction
-event
 emporetic
 enframes
 exposures
