@@ -8145,7 +8145,6 @@ fleet
 fingery
 forethrift
 fulminic
-foretoken
 felonries
 fibrocrystalline
 fretless
@@ -9807,6 +9806,7 @@ freycinetia
 fulgorous
 freieslebenite
 freight
+foretoken
 freightage
 fluorite
 fringe
