@@ -15223,6 +15223,7 @@ cladine
 cladistic
 cladocarpous
 cladocera
+collenchyma
 cladoceran
 cladocerans
 cladocerous
@@ -19030,7 +19031,6 @@ collembolan
 collembole
 collembolic
 collembolous
-collenchyma
 collenchymatic
 collenchymatous
 collenchyme
