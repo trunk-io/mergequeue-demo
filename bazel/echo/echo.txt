@@ -5007,7 +5007,6 @@ endosteally
 endlong
 endmost
 endnote
-endnotes
 endoangiitis
 exemplum
 endoaortitis
@@ -8690,6 +8689,7 @@ equiparation
 equipartisan
 eggcrate
 extrusive
+endnotes
 epithecal
 equipedal
 equipede
