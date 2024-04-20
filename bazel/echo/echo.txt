@@ -9149,7 +9149,6 @@ emlen
 erythrochroic
 erythrochroism
 extermined
-erythrocyte
 erythrocytes
 erythrocytoblast
 exestuate
@@ -12669,6 +12668,7 @@ elaphodus
 exodic
 epimacus
 empiristic
+erythrocyte
 exodium
 exodontia
 eczematization
