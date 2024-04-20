@@ -7353,7 +7353,6 @@ fullnesses
 fleshlessness
 facultative
 feathered
-foraminal
 foraminate
 farer
 foramination
@@ -11678,6 +11677,7 @@ freshwater
 frisket
 futhorc
 fural
+foraminal
 futhorcs
 fustily
 futiley
