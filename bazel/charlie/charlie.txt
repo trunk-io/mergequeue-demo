@@ -7722,7 +7722,6 @@ cerer
 chark
 cererite
 ceres
-ceresin
 ceresine
 cereuses
 commemorations
@@ -11767,6 +11766,7 @@ chondriosome
 chondriosomes
 colubriformia
 chondriosphere
+ceresin
 chondrites
 chondritic
 chondritis
