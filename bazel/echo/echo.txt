@@ -3982,7 +3982,6 @@ empanel
 eyebridled
 empaneled
 empaneling
-empanelled
 empanelling
 empanels
 expressibly
@@ -5820,6 +5819,7 @@ enhancements
 enhancers
 enhancing
 enharbour
+empanelled
 enharden
 eurytopicity
 enhardy
