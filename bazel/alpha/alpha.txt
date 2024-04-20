@@ -5037,6 +5037,7 @@ archdapifership
 autophotometry
 aquavalent
 anba
+asexuals
 aerohydrous
 anodine
 aerolite
@@ -21144,7 +21145,6 @@ asexualization
 asexualize
 asexualizing
 asexually
-asexuals
 asfetida
 asgard
 asgmt
