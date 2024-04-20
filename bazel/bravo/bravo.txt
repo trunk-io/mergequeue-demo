@@ -6185,7 +6185,6 @@ bend
 bendable
 benday
 bendayed
-bended
 bronzy
 bendee
 byte
@@ -15696,6 +15695,7 @@ brod
 biretta
 bhaga
 brodder
+bended
 balandra
 broddle
 brodee
