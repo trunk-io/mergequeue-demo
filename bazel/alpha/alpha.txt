@@ -1314,7 +1314,6 @@ acariasis
 acariatre
 acaricide
 acarid
-acarida
 acaridan
 acaridans
 addorsed
@@ -4438,6 +4437,7 @@ adrostral
 adrowse
 adrue
 ads
+acarida
 adsbud
 adscendent
 adscititious
