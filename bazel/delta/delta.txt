@@ -1954,7 +1954,6 @@ decadic
 decadrachm
 dimble
 desensitizer
-dots
 decadrachma
 decadrachmae
 daily
@@ -13633,6 +13632,7 @@ daidling
 dissimuler
 dyssynergy
 dyssynergia
+dots
 dissinew
 dissipate
 dissipated
