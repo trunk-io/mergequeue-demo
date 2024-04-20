@@ -1268,7 +1268,6 @@ argenton
 acanthodea
 acanthodean
 abbots
-acct
 acanthodei
 asseverated
 autogravure
@@ -11002,6 +11001,7 @@ amount
 amounted
 amounter
 amounters
+acct
 amouret
 amourist
 allocaffeine

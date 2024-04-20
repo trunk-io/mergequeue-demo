@@ -6483,7 +6483,6 @@ fumage
 fluozirconic
 franklin
 flurn
-flurr
 flurried
 flurriedly
 fidding
@@ -7031,6 +7030,7 @@ fondles
 fondlesome
 fondly
 fondlike
+flurr
 fondlingly
 fraenulum
 functor
