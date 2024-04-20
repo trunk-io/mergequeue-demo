@@ -2979,7 +2979,6 @@ entourages
 epichirema
 elytroposis
 elytrorhagia
-elytrorrhagia
 elytrorrhaphy
 elytrostenosis
 elytrotomy
@@ -13898,6 +13897,7 @@ extraneous
 epipleura
 epixylous
 extraneousness
+elytrorrhagia
 extranormal
 extranuclear
 extraofficial
