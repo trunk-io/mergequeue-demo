@@ -3228,7 +3228,6 @@ capituliform
 capitulum
 capiturlary
 celebratory
-capkin
 caplan
 caplet
 caplin
@@ -8931,6 +8930,7 @@ char
 conveyability
 chara
 charabanc
+capkin
 charabancs
 charac
 characeae
