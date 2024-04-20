@@ -3476,7 +3476,6 @@ captioned
 captioning
 captionless
 captions
-captious
 captiously
 captiousness
 captivance
@@ -7334,6 +7333,7 @@ centuries
 centurion
 chimera
 centurions
+captious
 centurist
 ceonocyte
 coroners
