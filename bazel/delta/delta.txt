@@ -3593,7 +3593,6 @@ degauss
 degaussing
 degelatinize
 diatonous
-degender
 degener
 dillydallying
 degeneralize
@@ -18348,6 +18347,7 @@ duoliteral
 duolog
 duologs
 duologues
+degender
 doubtedly
 dishabilitation
 duomachy
