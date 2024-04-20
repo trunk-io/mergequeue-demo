@@ -1560,7 +1560,6 @@ garterless
 garters
 girandola
 garth
-ghostlike
 gaillardia
 garths
 garum
@@ -10209,6 +10208,7 @@ guillotine
 guillotined
 guillotines
 gowpin
+ghostlike
 guillotinist
 guiltful
 gaspergous
