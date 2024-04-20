@@ -1334,7 +1334,6 @@ fibbed
 fastigiums
 fasting
 fastingly
-fastings
 framed
 flatfoots
 fastish
@@ -2953,6 +2952,7 @@ feudalizing
 feudary
 fantastical
 feudatary
+fastings
 feudatory
 feudatorial
 fanciable
