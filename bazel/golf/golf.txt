@@ -3288,6 +3288,7 @@ gepidae
 ger
 geraera
 gobernadora
+glanced
 galban
 geogony
 gerah
@@ -8952,7 +8953,6 @@ griffes
 griffinage
 griffinesque
 gralloch
-glanced
 glagah
 gymnasial
 glovemaking
