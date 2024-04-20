@@ -3036,7 +3036,6 @@ goldtail
 geodes
 geodesical
 gingilis
-geodesist
 gentilhomme
 gooseflower
 gleeishly
@@ -5366,6 +5365,7 @@ guarri
 genomes
 glistens
 glycerins
+geodesist
 glycerite
 granose
 glycerize
