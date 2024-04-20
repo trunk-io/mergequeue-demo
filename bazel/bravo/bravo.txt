@@ -2592,7 +2592,6 @@ baryonic
 baryphonia
 baryphonic
 baris
-barish
 bromating
 barysilite
 barit
@@ -15275,6 +15274,7 @@ bridgewater
 bridgework
 bridging
 bridie
+barish
 brilliantness
 bridle
 bridled
