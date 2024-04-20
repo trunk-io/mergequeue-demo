@@ -8613,7 +8613,6 @@ greenbrier
 greenbug
 greenbugs
 greencloth
-gorefish
 greencoat
 glugglug
 gormandising
@@ -9905,6 +9904,7 @@ geode
 gymnite
 guarapucu
 gracefully
+gorefish
 guard
 guardable
 guardant
