@@ -117,7 +117,6 @@ earringed
 earrings
 ears
 earsh
-endoskeletal
 earshot
 edifies
 earsplitting
@@ -1344,6 +1343,7 @@ efferous
 enantiomorphous
 extraocular
 effervescency
+endoskeletal
 exomis
 effervescent
 effervescently
