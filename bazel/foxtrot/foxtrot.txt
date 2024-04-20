@@ -8709,7 +8709,6 @@ furring
 fidele
 fortieths
 fortify
-fortifications
 fortifier
 florets
 fortifiers
@@ -9697,6 +9696,7 @@ freehold
 freeholder
 freeholders
 freeholdership
+fortifications
 foreigners
 flueman
 fanwe

@@ -2191,7 +2191,6 @@ baptismal
 babine
 basivertebral
 baptisms
-baptist
 baptistic
 baptistry
 baptistries
@@ -17614,6 +17613,7 @@ burgee
 burgees
 brightwork
 brushball
+baptist
 burgeon
 burgeoned
 burgeoning
