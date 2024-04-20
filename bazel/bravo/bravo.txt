@@ -4094,7 +4094,6 @@ byously
 bealtared
 bealtine
 bom
-beam
 beambird
 beamed
 beamer
@@ -10399,6 +10398,7 @@ beesting
 boviform
 beminstrel
 beachboy
+beam
 blanquillos
 barytostrontianite
 blaoner
