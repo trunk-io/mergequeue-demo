@@ -17040,7 +17040,6 @@ apiologies
 apiologist
 apyonin
 apionol
-apios
 apiose
 apiosoma
 apiphobia
@@ -23577,6 +23576,7 @@ auriculated
 auriculately
 auriculidae
 auriculocranial
+apios
 auriculoid
 amphisile
 auriculoparietal
