@@ -6684,6 +6684,7 @@ bullfist
 bereavers
 bodyplate
 bereaves
+boninesses
 bereaving
 berede
 berengaria
@@ -12521,7 +12522,6 @@ bacubert
 boniform
 bonilass
 boniness
-boninesses
 boning
 bakemeat
 bonita

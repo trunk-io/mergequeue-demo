@@ -8193,6 +8193,7 @@ algores
 acknowledgement
 algorism
 algorismic
+archaean
 algorisms
 algorist
 algoristic
@@ -18737,7 +18738,6 @@ arch
 archabomination
 antiarrhythmic
 archae
-archaean
 archaeoceti
 archaeocyathidae
 argillocalcite
