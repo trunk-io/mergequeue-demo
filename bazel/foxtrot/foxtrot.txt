@@ -3041,6 +3041,7 @@ fezziwig
 ffa
 fossors
 fgrid
+floorshift
 farrandly
 fy
 fiacres
@@ -5961,7 +5962,6 @@ fluidizing
 floors
 folkways
 fiddleback
-floorshift
 fawny
 floorshifts
 facioscapulohumeral
