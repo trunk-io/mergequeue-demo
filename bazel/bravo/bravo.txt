@@ -1071,7 +1071,6 @@ bailor
 babyhouse
 bailors
 bailout
-bails
 bailsman
 bailsmen
 bailwood
@@ -2976,6 +2975,7 @@ bracteolate
 barrios
 boulevard
 barrister
+bails
 botts
 barristerial
 barristress
