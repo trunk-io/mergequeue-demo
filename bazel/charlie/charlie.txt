@@ -10637,7 +10637,6 @@ chylopoetic
 chylopoiesis
 chilopsis
 chylosis
-chilostoma
 chilostomatous
 chylothorax
 chilotomy
@@ -25781,6 +25780,7 @@ corroders
 cneoraceae
 creepingly
 corrodes
+chilostoma
 corrody
 celloist
 corrodiary
