@@ -4695,7 +4695,6 @@ cellarway
 carpeting
 carpetlayer
 carpetless
-carpetmaker
 carpetmaking
 carpetmonger
 carpets
@@ -28762,6 +28761,7 @@ crescentic
 crescentiform
 chinking
 crescenting
+carpetmaker
 crescentlike
 crescentoid
 crescents
