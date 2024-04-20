@@ -2348,7 +2348,6 @@ geiger
 gangrel
 gastradenitis
 glede
-glowerer
 gantryman
 glunched
 giust
@@ -5323,6 +5322,7 @@ glent
 glenwood
 glew
 gangly
+glowerer
 guitarfish
 grahamite
 gliadine
