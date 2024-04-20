@@ -2059,7 +2059,6 @@ elans
 elanus
 elaphebolion
 elaphine
-elaphodus
 elaphomyces
 elaphomycetaceae
 elaphrium
@@ -12668,6 +12667,7 @@ exoderms
 exody
 equestrienne
 exopt
+elaphodus
 exodic
 epimacus
 empiristic
