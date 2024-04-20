@@ -1107,7 +1107,6 @@ edificial
 edificing
 edified
 eliminability
-eventualities
 edifiers
 edifying
 edifyingly
@@ -2850,6 +2849,7 @@ elevens
 expiates
 elevenses
 eoanthropus
+eventualities
 eleventeenth
 eleventh
 entobranchiate
