@@ -10643,6 +10643,7 @@ aminoazobenzene
 amphithalmi
 aminobarbituric
 aminobenzaldehyde
+anthrachrysone
 aminobenzene
 aminobenzine
 aminobenzoic
@@ -14491,7 +14492,6 @@ anthozoic
 anthozoon
 anthracaemia
 anthracene
-anthrachrysone
 anthracia
 anthraciferous
 anthracyl
