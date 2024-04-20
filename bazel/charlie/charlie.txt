@@ -5222,6 +5222,7 @@ cyans
 consecute
 cassandra
 cassandras
+cylloses
 cassapanca
 cassare
 cassareep
@@ -13630,7 +13631,6 @@ cilium
 cylix
 cyllenian
 cyllenius
-cylloses
 cillosis
 cyllosis
 cima
