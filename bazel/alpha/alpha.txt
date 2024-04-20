@@ -3316,7 +3316,6 @@ actus
 actutate
 acuaesthesia
 acuate
-acuating
 acuation
 acubens
 acuchi
@@ -15202,6 +15201,7 @@ applied
 antiecclesiastic
 antiecclesiastical
 assagaied
+acuating
 antiecclesiastically
 apastra
 antherine
