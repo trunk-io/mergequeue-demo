@@ -4749,6 +4749,7 @@ encolour
 encolpia
 encolpion
 encolure
+equilibrator
 encomy
 extrospection
 enduro
@@ -8634,7 +8635,6 @@ equilibrating
 endocannibalism
 equilibrations
 equilibrative
-equilibrator
 exorbitance
 equilibria
 equilibrial
