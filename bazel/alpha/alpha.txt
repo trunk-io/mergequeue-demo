@@ -6329,7 +6329,6 @@ agnosy
 agnosia
 anthraces
 agnosias
-agnostically
 agnostics
 agnostus
 agnotozoic
@@ -22151,6 +22150,7 @@ astir
 astogeny
 aglutition
 astomatous
+agnostically
 astomia
 astond
 astone
