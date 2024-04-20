@@ -1707,6 +1707,7 @@ acemetic
 accouters
 accoutre
 attire
+appurtenances
 accoutrement
 accoutrements
 accoutres
@@ -18095,7 +18096,6 @@ attack
 appulsively
 appunctuation
 appurtenance
-appurtenances
 agnomination
 alinotum
 ammeline
