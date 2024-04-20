@@ -4864,7 +4864,6 @@ endamage
 endamagement
 endamages
 esquire
-endamaging
 endameba
 elelments
 endamebae
@@ -4921,6 +4920,7 @@ endearments
 endocorpuscular
 examinate
 endeavorer
+endamaging
 edificable
 endeavoring
 endeavors
