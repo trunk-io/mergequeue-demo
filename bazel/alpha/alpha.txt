@@ -19923,7 +19923,6 @@ armatures
 armband
 abasedness
 armbands
-armbone
 athermous
 armchair
 armchaired
@@ -20756,6 +20755,7 @@ artiller
 artillery
 artilleries
 avodire
+armbone
 artilleryman
 artillerymen
 aurochloride
