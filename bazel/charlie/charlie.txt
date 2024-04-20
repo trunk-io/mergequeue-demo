@@ -12306,7 +12306,6 @@ christener
 christeners
 christening
 coxcombicality
-christenmas
 christens
 christhood
 christy
@@ -25603,6 +25602,7 @@ corporals
 corporalship
 corporas
 corporate
+christenmas
 corporately
 corporateness
 corporation
