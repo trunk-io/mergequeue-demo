@@ -10537,7 +10537,6 @@ blatancy
 blatancies
 blatant
 blatch
-blatchang
 brahma
 braced
 blate
@@ -11285,6 +11284,7 @@ blowfly
 blowgun
 blowguns
 blowhard
+blatchang
 blowhole
 blowholes
 blowie
