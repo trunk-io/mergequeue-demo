@@ -2460,6 +2460,7 @@ dirigent
 decken
 decker
 deckhand
+duckwing
 deckhead
 decking
 deckle
@@ -17817,7 +17818,6 @@ ducktail
 duckweed
 duckweeds
 duckwife
-duckwing
 discrete
 ducs
 duct
