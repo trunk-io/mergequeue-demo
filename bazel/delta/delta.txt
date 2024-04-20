@@ -4745,7 +4745,6 @@ dodonian
 demisuit
 dapple
 defaisance
-demitasse
 disintoxicate
 demitasses
 demythify
@@ -17233,6 +17232,7 @@ drivable
 drive
 driveable
 driveaway
+demitasse
 dog
 drivebolt
 drivel
