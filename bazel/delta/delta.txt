@@ -12023,7 +12023,6 @@ disenthrone
 disenthroned
 disenthronement
 deled
-disentitle
 diffuser
 disentitled
 disentitlement
@@ -15194,6 +15193,7 @@ dolliness
 disuniform
 dollishly
 dollishness
+disentitle
 dix
 decaisnea
 dollyway
