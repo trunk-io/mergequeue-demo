@@ -204,7 +204,6 @@ daemones
 daemony
 dietics
 daemonistic
-daemonology
 daemons
 daemonurgy
 daemonurgist
@@ -7472,6 +7471,7 @@ deuteration
 deuteric
 dogcarts
 disenchain
+daemonology
 deuteride
 deuterium
 deinocephalia
