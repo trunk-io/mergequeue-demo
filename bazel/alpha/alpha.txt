@@ -5713,7 +5713,6 @@ aftershaft
 aftershafted
 aftershave
 aftershaves
-aftership
 aftershocks
 aftersong
 aftersound
@@ -18752,6 +18751,7 @@ archaeornis
 altincar
 apiin
 archaeornithes
+aftership
 archaeostoma
 archaeostomata
 archaeostomatous
