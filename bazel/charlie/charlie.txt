@@ -23356,7 +23356,6 @@ contagious
 contagiousness
 contagium
 contain
-containable
 contained
 colligance
 container
@@ -27507,6 +27506,7 @@ coventrate
 coventry
 coventrize
 cover
+containable
 coverable
 coverages
 coverall
