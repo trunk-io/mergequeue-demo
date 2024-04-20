@@ -2695,7 +2695,6 @@ benzoic
 barmbrack
 barmcloth
 brither
-barmecide
 barmen
 barmfel
 becoward
@@ -10056,6 +10055,7 @@ byzantine
 byzantinesque
 boggy
 byzantinize
+barmecide
 byzantium
 brasser
 byzants
