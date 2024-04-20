@@ -8508,6 +8508,7 @@ bilateralities
 behaviors
 betangle
 bilaterally
+blackheads
 bilati
 bylawman
 bilberry
@@ -10157,7 +10158,6 @@ blackgum
 bullfighter
 blackgums
 blackhead
-blackheads
 blackheart
 brachia
 blackheartedly
