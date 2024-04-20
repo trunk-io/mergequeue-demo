@@ -4445,6 +4445,7 @@ adsessor
 adsheart
 awa
 adsignify
+aktiebolag
 adsmith
 adsmithing
 adsorb
@@ -20090,7 +20091,6 @@ arnee
 arnement
 arni
 arnica
-aktiebolag
 arnicas
 arnold
 aquarellist
