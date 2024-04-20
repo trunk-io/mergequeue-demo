@@ -664,7 +664,6 @@ cafeterias
 cafetiere
 cafetorium
 caff
-caffa
 caffeate
 caffeic
 cathodofluorescence
@@ -11422,6 +11421,7 @@ chlorous
 chlorozincate
 chlorpheniramine
 chlorphenol
+caffa
 chlorpicrin
 chlorpromazine
 chlorpropamide
