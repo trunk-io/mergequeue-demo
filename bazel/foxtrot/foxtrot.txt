@@ -5925,6 +5925,7 @@ floodlike
 floodlilit
 floodlit
 floods
+facingly
 fideists
 forst
 fortifiable
@@ -7705,7 +7706,6 @@ falcones
 foreguess
 faq
 fleshlily
-facingly
 foretopsail
 fiefdom
 foregut
