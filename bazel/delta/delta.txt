@@ -8931,7 +8931,6 @@ downdraft
 dichord
 deathblows
 demonstrative
-dichoree
 discoveries
 dichotically
 dichotomy
@@ -12755,6 +12754,7 @@ dysmeristic
 dismerit
 dysmerogenesis
 dysmeromorph
+dichoree
 dysmeromorphic
 disturbers
 dreyfusist
