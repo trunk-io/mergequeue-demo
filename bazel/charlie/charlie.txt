@@ -10673,7 +10673,6 @@ chylous
 chilte
 chiltern
 chilver
-chimachima
 chimaera
 chimaerid
 chimaeroid
@@ -11582,6 +11581,7 @@ cholecyst
 cholecystectasia
 cholecystectomy
 cholecystectomized
+chimachima
 countermeasure
 cholecystenterorrhaphy
 cholecystenterostomy
