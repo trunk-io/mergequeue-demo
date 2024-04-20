@@ -6190,6 +6190,7 @@ arbitraries
 agism
 amerism
 agisms
+aposaturn
 affiances
 agist
 agistator
@@ -10256,7 +10257,6 @@ amelioration
 ameliorations
 ameliorativ
 ameliorative
-aposaturn
 ameliorator
 amelioratory
 amellus
