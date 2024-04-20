@@ -2958,7 +2958,6 @@ feuded
 fakers
 feudee
 fictitious
-feuder
 flock
 fumier
 feuding
@@ -11482,6 +11481,7 @@ flaunching
 footmen
 flintified
 furriest
+feuder
 flares
 furrily
 furriner
