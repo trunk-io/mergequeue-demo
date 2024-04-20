@@ -4205,7 +4205,6 @@ filla
 fetus
 firedamps
 fracture
-firedog
 firedragon
 firedrake
 frayn
@@ -7118,6 +7117,7 @@ fawningly
 fleapit
 foolmonger
 foolocracy
+firedog
 foretokens
 foolproof
 foolproofness
