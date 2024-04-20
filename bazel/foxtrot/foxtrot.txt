@@ -8028,7 +8028,6 @@ flipper
 foreslow
 foresound
 forespake
-forespeak
 faming
 forespeaker
 flatteur
@@ -10968,6 +10967,7 @@ fullmouthed
 forworden
 fullom
 fripperies
+forespeak
 fulgoroidea
 folk
 flamingly
