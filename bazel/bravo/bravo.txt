@@ -10494,7 +10494,6 @@ blastoporal
 blastopore
 blastosphere
 blackthorn
-blastospheric
 buttonhold
 blastostyle
 blastozooid
@@ -15786,6 +15785,7 @@ brollies
 bromacetate
 bowgrace
 blasphemer
+blastospheric
 bromacetic
 bromacetone
 bromal
