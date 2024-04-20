@@ -19140,6 +19140,7 @@ collocalia
 copintank
 collocate
 collocated
+crystallographer
 cauked
 collocates
 collocating
@@ -29467,7 +29468,6 @@ crystallogy
 confliction
 crystallogram
 crystallograph
-crystallographer
 crystallographers
 crystallography
 crystallographic
