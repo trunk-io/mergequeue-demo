@@ -6797,7 +6797,6 @@ featherbed
 foyaitic
 fifes
 foible
-foiblesse
 foyboat
 foyer
 furioso
@@ -11265,6 +11264,7 @@ foreday
 funicles
 funiculars
 friborg
+foiblesse
 funiculus
 funiform
 funipendulous
