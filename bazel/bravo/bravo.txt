@@ -2043,6 +2043,7 @@ bulanda
 basti
 bankcard
 bradenhead
+becrawl
 bankcards
 banked
 banker
@@ -4549,7 +4550,6 @@ becquerelite
 becram
 becramp
 becrampon
-becrawl
 becrawling
 barbone
 brainless

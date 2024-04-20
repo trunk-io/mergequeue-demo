@@ -1685,7 +1685,6 @@ gasteromycetes
 gasteromycetous
 gasteropoda
 gasterosteus
-gastful
 gallons
 gastight
 gasting
@@ -10239,6 +10238,7 @@ geomagnetism
 guinevere
 guinfo
 gemmy
+gastful
 genian
 guinness
 ganggang
