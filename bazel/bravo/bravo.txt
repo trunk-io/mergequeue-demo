@@ -2104,6 +2104,7 @@ basaltoid
 bannerer
 banneret
 bannerfish
+biflorous
 beduke
 bannerlike
 bannerline
@@ -8307,7 +8308,6 @@ biflecnode
 biflected
 biflex
 biflorate
-biflorous
 bifluoride
 bifocal
 bifocals
