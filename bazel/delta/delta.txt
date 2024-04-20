@@ -16845,6 +16845,7 @@ drawgate
 dishonorary
 drawhead
 drawing
+dustily
 drawings
 drawknives
 drawknot
@@ -18572,7 +18573,6 @@ dustheap
 dusty
 dustiest
 dustyfoot
-dustily
 dustin
 dustiness
 dusting
