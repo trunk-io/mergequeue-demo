@@ -999,7 +999,6 @@ calcaneonavicular
 calcaneoplantar
 countersale
 calcaneoscaphoid
-calcaneotibial
 calcaneum
 calcannea
 calcannei
@@ -9926,6 +9925,7 @@ chemokinetic
 chemolysis
 chemolytic
 coasted
+calcaneotibial
 colpostat
 chemolyze
 chemonite
