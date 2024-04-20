@@ -1716,7 +1716,6 @@ gastraeum
 gastral
 gastralgy
 gastralgia
-gyrofrequencies
 gastraneuria
 glumpy
 glycuronid
@@ -6898,6 +6897,7 @@ gonophore
 geodesia
 gonophoric
 gonophorous
+gyrofrequencies
 gonophs
 gryph
 grindings
