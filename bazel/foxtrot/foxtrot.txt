@@ -5674,7 +5674,6 @@ flyover
 federary
 flyovers
 fustanella
-flypapers
 flypast
 flypasts
 flipe
@@ -8246,6 +8245,7 @@ forgather
 faeries
 foretime
 finickiness
+flypapers
 forgathered
 flamelet
 forgathering
