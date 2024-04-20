@@ -2611,6 +2611,7 @@ acolytes
 acolyth
 acolythate
 acolytus
+autoserum
 acology
 absciss
 acologic
@@ -24359,7 +24360,6 @@ autosensitized
 autosepticemia
 amphigonous
 autoserotherapy
-autoserum
 autosexing
 autosight
 albuminuric
