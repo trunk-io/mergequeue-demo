@@ -4605,6 +4605,7 @@ gypsyisms
 getable
 gypsine
 gipsiologist
+gundygut
 gypsite
 gipsyweed
 gypsyweed
@@ -10473,7 +10474,6 @@ gundy
 gettysburg
 gundie
 gnathostomous
-gundygut
 gundog
 genially
 gilly
