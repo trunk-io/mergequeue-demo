@@ -12903,7 +12903,6 @@ churchwardenize
 churchwardens
 churchwardenship
 clistocarpous
-churchwards
 churchwoman
 churchwomen
 churel
@@ -28814,6 +28813,7 @@ crestal
 crested
 crestfallen
 crestfallenly
+churchwards
 crestfallenness
 cresting
 crestings
