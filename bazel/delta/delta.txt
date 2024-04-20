@@ -4782,7 +4782,6 @@ demivolts
 demivotary
 demiwivern
 demiwolf
-demiworld
 demnition
 demo
 demob
@@ -10558,6 +10557,7 @@ diplocarpon
 discoidea
 diplocaulescent
 developability
+demiworld
 diplocephaly
 diplocephalous
 diplocephalus
