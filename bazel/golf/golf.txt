@@ -887,6 +887,7 @@ gaiting
 galoots
 goldarns
 gambirs
+graduator
 gambist
 gambits
 gambler
@@ -7645,7 +7646,6 @@ girning
 graduateship
 graduatical
 graduation
-graduator
 graduators
 graduses
 graeae
