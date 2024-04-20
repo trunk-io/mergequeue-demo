@@ -18724,6 +18724,7 @@ archae
 archaean
 archaeoceti
 archaeocyathidae
+argillocalcite
 archaeocyathus
 archaeographic
 archaeographical
@@ -19555,7 +19556,6 @@ argillic
 argilliferous
 argillite
 argillocalcareous
-argillocalcite
 argilloferruginous
 argilloid
 argillous
