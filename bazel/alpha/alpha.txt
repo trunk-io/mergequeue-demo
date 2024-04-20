@@ -7776,7 +7776,6 @@ accompanists
 almadia
 alden
 alderamin
-alderfly
 alderflies
 alderling
 alderman
@@ -19984,6 +19983,7 @@ army
 armida
 armied
 armies
+alderfly
 acetocinnamene
 agentival
 armiferous
