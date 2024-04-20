@@ -7608,7 +7608,6 @@ cerebellopontine
 cerebellorubral
 cerebellospinal
 cerebellum
-cerebra
 cerebral
 cerebralism
 coneighboring
@@ -9192,6 +9191,7 @@ chartographically
 chartographist
 chartometer
 chartophylacia
+cerebra
 chartophylacium
 chartophylax
 chartreux
