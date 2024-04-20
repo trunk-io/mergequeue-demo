@@ -1704,7 +1704,6 @@ deathward
 deathwatches
 deathweed
 deathworm
-diverted
 dowelled
 deave
 disomic
@@ -4368,6 +4367,7 @@ demagnetised
 demagnetiser
 demagnetising
 daut
+diverted
 demagnetization
 deplores
 demagnetize
