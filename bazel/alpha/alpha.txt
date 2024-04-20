@@ -5641,7 +5641,6 @@ aftergas
 afterglide
 afterglow
 alloclasite
-afterglows
 aftergo
 aftergood
 aftergrave
@@ -13651,6 +13650,7 @@ annuary
 annuation
 annueller
 annuent
+afterglows
 annuitant
 annuitants
 aquarists
