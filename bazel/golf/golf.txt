@@ -5873,7 +5873,6 @@ glossolaryngeal
 glossolysis
 glossology
 glossologist
-glossopalatinus
 glossopathy
 glossophaga
 glossopharyngeus
@@ -6698,6 +6697,7 @@ gomeisa
 gomer
 glutting
 gladstone
+glossopalatinus
 gardener
 gomerel
 glandarious
