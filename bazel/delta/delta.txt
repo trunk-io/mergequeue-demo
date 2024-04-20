@@ -4416,7 +4416,6 @@ demarcator
 demarcatordemarcators
 disnaturalize
 demarcature
-demarch
 demarches
 demarchy
 demaree
@@ -9930,6 +9929,7 @@ denticulation
 diminuent
 dawnlight
 derate
+demarch
 devonian
 diminutal
 diminute
