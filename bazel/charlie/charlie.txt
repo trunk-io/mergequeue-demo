@@ -4182,6 +4182,7 @@ cardroom
 clearwing
 cardshark
 carbamido
+chauffeur
 cardsharp
 cardsharper
 charted
@@ -9381,7 +9382,6 @@ chaufers
 chauffage
 chauffer
 chauffers
-chauffeur
 chauffeured
 chauffeuring
 chauffeurs
