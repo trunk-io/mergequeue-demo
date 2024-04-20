@@ -5114,7 +5114,6 @@ endoenzyme
 endoergic
 endoesophagitis
 endofaradism
-endogamy
 endogamic
 endogamous
 encipherer
@@ -14174,6 +14173,7 @@ exulted
 eria
 exultet
 exultingly
+endogamy
 exults
 exumbral
 easternism
