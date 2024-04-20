@@ -1780,7 +1780,6 @@ fothergilla
 fll
 featherer
 flagrance
-featherers
 forejudgment
 featherfew
 featherhead
@@ -5516,6 +5515,7 @@ flibbertigibbety
 flybelt
 flybelts
 foolhardier
+featherers
 flyby
 fossils
 flybys
