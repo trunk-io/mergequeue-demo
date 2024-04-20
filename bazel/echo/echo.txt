@@ -2185,7 +2185,6 @@ eldest
 eldin
 eldmother
 eldorado
-ergatocracy
 eventuate
 eldress
 eldrich
@@ -6652,6 +6651,7 @@ euplotid
 enteroparesis
 enteropathy
 enculturative
+ergatocracy
 enteropexia
 empanelment
 extraduction

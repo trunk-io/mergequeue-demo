@@ -4419,7 +4419,6 @@ fishily
 fishiness
 fleeten
 fishing
-fraist
 frenum
 flanched
 feluccas
@@ -6565,6 +6564,7 @@ frogger
 fusains
 flutiest
 fluctuate
+fraist
 filius
 flytail
 flutina
