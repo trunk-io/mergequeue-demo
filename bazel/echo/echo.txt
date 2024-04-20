@@ -2503,7 +2503,6 @@ enchodontidae
 electromotive
 electromotograph
 epimerised
-electromotor
 escadrilles
 electromuscular
 electron
@@ -5461,6 +5460,7 @@ enharmonically
 energizers
 energizes
 elaterite
+electromotor
 energizing
 energumenon
 enervate

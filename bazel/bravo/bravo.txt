@@ -1337,7 +1337,6 @@ balconet
 balconette
 bag
 balcony
-bozal
 balconied
 balconies
 bald
@@ -16672,6 +16671,7 @@ buckoes
 buckone
 buckpot
 buckram
+bozal
 buckraming
 buckrams
 befouler
