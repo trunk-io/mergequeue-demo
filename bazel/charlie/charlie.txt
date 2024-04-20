@@ -22841,6 +22841,7 @@ consequentialities
 consequentialness
 consequently
 consequents
+cognateness
 consertal
 consertion
 conservacy
@@ -26359,7 +26360,6 @@ chaoses
 coterminously
 coterminousness
 cotes
-cognateness
 cotesian
 coth
 countersmile
