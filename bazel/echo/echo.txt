@@ -6474,6 +6474,7 @@ embolisms
 ensuant
 ensues
 ensuingly
+electrolyzing
 ensurance
 ensure
 ensurer
@@ -8686,7 +8687,6 @@ equinoctially
 equinumerally
 equinus
 ethrogs
-electrolyzing
 equipage
 equipages
 equiparation
