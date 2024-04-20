@@ -5120,7 +5120,6 @@ dextrogyrate
 denaturization
 denaturizer
 denaturizing
-denazifies
 denazifying
 dendraspis
 dendraxon
@@ -11950,6 +11949,7 @@ disembogue
 disembogued
 denaturation
 disemboguing
+denazifies
 disembowel
 disemboweled
 dal
