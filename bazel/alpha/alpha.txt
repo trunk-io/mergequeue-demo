@@ -20671,7 +20671,6 @@ amputative
 arthrotome
 arthrotomy
 arthrotomies
-arthrotrauma
 arthrotropic
 arthrous
 adela
@@ -21849,6 +21848,7 @@ assist
 assistance
 assistant
 assistanted
+arthrotrauma
 armadillo
 assistantship
 assisted
