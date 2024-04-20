@@ -12102,7 +12102,6 @@ anatomicopathological
 anatomicophysiologic
 arteriofibrosis
 anatomies
-anatomiless
 anatomise
 anatomiser
 anatomising
@@ -12403,6 +12402,7 @@ androgyn
 acephalism
 androgynal
 androgyne
+anatomiless
 androgyneity
 androgyny
 androgynia
