@@ -2326,6 +2326,7 @@ achromatophilic
 achromatopia
 achromatopsy
 apologizes
+autolavage
 achromatopsia
 adverts
 achromatosis
@@ -8912,7 +8913,6 @@ allomerizing
 allomerous
 averager
 allometry
-autolavage
 aerobiologic
 allomorphism
 allomorphite
