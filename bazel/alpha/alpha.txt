@@ -9200,7 +9200,6 @@ almsdeed
 auricular
 almsfolk
 almsful
-almsgiver
 almsgiving
 almshouse
 almsman
@@ -18187,6 +18186,7 @@ arsenoferratin
 apterygidae
 apterygiformes
 apterygogenea
+almsgiver
 arace
 apterygota
 apterygote
