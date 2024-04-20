@@ -2813,7 +2813,6 @@ flowerer
 frasco
 feston
 facets
-festoon
 festooned
 festoonery
 festooneries
@@ -11663,6 +11662,7 @@ fusulas
 fusuma
 feathery
 fusure
+festoon
 frustraneous
 fusus
 flushable
