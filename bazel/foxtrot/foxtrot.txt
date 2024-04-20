@@ -5493,7 +5493,6 @@ flewed
 flewit
 flews
 flibbertigibbets
-flex
 forebye
 flexed
 fractionate
@@ -9320,6 +9319,7 @@ fragmentist
 frivolers
 fidalgo
 fragmentizing
+flex
 forsakers
 fragments
 fishbed
