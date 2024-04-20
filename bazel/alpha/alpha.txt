@@ -12656,7 +12656,6 @@ angaria
 angarias
 angariation
 angaries
-angeyok
 aeronomist
 angel
 angela
@@ -21286,6 +21285,7 @@ asymtotic
 asymtotically
 asynapsis
 asynaptic
+angeyok
 asynartete
 async
 asynchrony
