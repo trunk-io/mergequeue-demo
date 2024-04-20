@@ -12103,7 +12103,6 @@ expeditions
 epicycloidal
 endermically
 excommunicant
-excommunicated
 excommunicating
 excommunication
 exploitage
@@ -12754,6 +12753,7 @@ epha
 espressivo
 exor
 elrage
+excommunicated
 exorable
 elytroptosis
 exactingness
