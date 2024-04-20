@@ -6149,6 +6149,7 @@ benasty
 beholdable
 bench
 balalaikas
+binauricular
 benched
 bencher
 benchers
@@ -8839,7 +8840,6 @@ betuckered
 bination
 binational
 binaural
-binauricular
 bind
 binderies
 banjos
