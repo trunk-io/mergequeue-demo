@@ -508,7 +508,6 @@ abjurers
 abjures
 abkar
 abkari
-abkary
 abkhasian
 abl
 ablach
@@ -15839,6 +15838,7 @@ antipatriarchy
 antipatriot
 antipatriotic
 afterfermentation
+abkary
 astonishing
 antipatriotically
 antipatriotism
