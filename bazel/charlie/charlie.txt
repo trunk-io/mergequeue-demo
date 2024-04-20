@@ -6675,6 +6675,7 @@ ceilingwards
 ceilometer
 ceylon
 ceylonese
+couac
 concurrence
 ceylonite
 coosify
@@ -26541,7 +26542,6 @@ cotutor
 cotwinned
 cymbaled
 cotwist
-couac
 clingers
 crosscurrented
 coucal
