@@ -2499,7 +2499,6 @@ baret
 baretta
 barf
 blens
-barfy
 britzka
 blear
 barfish
@@ -6486,6 +6485,7 @@ benzolize
 bidet
 benzols
 becrown
+barfy
 benzonaphthol
 benzonitrile
 benzonitrol
