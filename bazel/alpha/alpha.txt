@@ -11875,6 +11875,7 @@ ananke
 alouatte
 anansi
 ananta
+antimasquerade
 ananter
 alleger
 amalaita
@@ -15523,7 +15524,6 @@ antimasonry
 antimasque
 antimasquer
 afterstrain
-antimasquerade
 antimaterialist
 antimaterialistic
 antimatrimonial
