@@ -6486,6 +6486,7 @@ benzol
 benzolize
 bidet
 benzols
+becrown
 benzonaphthol
 benzonitrile
 benzonitrol
@@ -7651,7 +7652,6 @@ bewest
 bewhig
 bewhisker
 bewhiskered
-becrown
 bewhisper
 bewhistle
 bewhiten

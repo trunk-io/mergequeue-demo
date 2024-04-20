@@ -3384,6 +3384,7 @@ deflate
 deflated
 dogmen
 dewar
+diagonality
 drynaria
 deflater
 deflates
@@ -17195,7 +17196,6 @@ decolorizing
 dreary
 decorums
 dryophyllum
-diagonality
 dryopithecid
 dryopithecus
 dryops
