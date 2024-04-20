@@ -876,6 +876,7 @@ girthline
 gambiers
 gambir
 gaiting
+gletty
 galoots
 goldarns
 gambirs
@@ -5534,7 +5535,6 @@ glyptodon
 glyptodont
 goosecap
 grandness
-gletty
 grounding
 glyptodontoid
 gracelike
