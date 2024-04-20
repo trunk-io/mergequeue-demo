@@ -4795,7 +4795,6 @@ bedpost
 butyrousness
 bedquilts
 bedrabbling
-bedraggle
 bedraggled
 bisulcate
 bedragglement
@@ -11564,6 +11563,7 @@ blusterously
 blusters
 bromobenzyl
 bm
+bedraggle
 bo
 boa
 boaedon
