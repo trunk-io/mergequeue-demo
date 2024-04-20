@@ -10505,7 +10505,6 @@ blastophitic
 blastophoral
 blastophoric
 blastophthoria
-blastophthoric
 blastoporal
 blastopore
 blastosphere
@@ -12639,6 +12638,7 @@ bookbinding
 bookboard
 bookcases
 bushmaster
+blastophthoric
 bookends
 booker
 bucktail
