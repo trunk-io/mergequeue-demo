@@ -27125,6 +27125,7 @@ countershout
 counterside
 crance
 countersign
+cupful
 countersignature
 cantref
 countersignatures
@@ -31084,7 +31085,6 @@ cupellers
 cupelling
 cupels
 cupflower
-cupful
 cupfulfuls
 cuphea
 considerateness
