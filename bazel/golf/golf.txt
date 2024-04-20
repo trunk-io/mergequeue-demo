@@ -7046,7 +7046,6 @@ goops
 goorals
 grillade
 grindle
-gooroo
 goosander
 goosebeak
 greenhide
@@ -8459,6 +8458,7 @@ gravisphere
 gravispheric
 gravitated
 grangerised
+gooroo
 gravitater
 gravitating
 guiltlessly
