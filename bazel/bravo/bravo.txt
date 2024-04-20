@@ -6916,7 +6916,6 @@ bescarf
 belout
 blandishment
 bescatter
-bescent
 bescorched
 bruchid
 bacteririum
@@ -9438,6 +9437,7 @@ birdseyes
 birdsnest
 birdstone
 basichromatic
+bescent
 browpiece
 bereavement
 braider
