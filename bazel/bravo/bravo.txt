@@ -3341,7 +3341,6 @@ basketmaker
 basketmaking
 biotope
 basketries
-bombline
 banyai
 baskets
 basketware
@@ -5693,6 +5692,7 @@ belderroot
 beleaf
 bombazeen
 brightens
+bombline
 bodgie
 beleaguered
 beleaguering
