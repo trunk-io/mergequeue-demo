@@ -3172,7 +3172,6 @@ eluent
 eluents
 elul
 executioners
-enterological
 elusion
 elusive
 entrench
@@ -6127,6 +6126,7 @@ enodation
 enode
 enoil
 enoint
+enterological
 enolase
 enolases
 enwrapped
