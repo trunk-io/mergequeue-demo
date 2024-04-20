@@ -7764,7 +7764,6 @@ epifaunas
 entassment
 epifocal
 epigaea
-epigaeous
 epigamic
 epigaster
 epigastraeum
@@ -12093,6 +12092,7 @@ excoct
 excoction
 excogitated
 excogitative
+epigaeous
 excogitator
 engrossingly
 excommune
