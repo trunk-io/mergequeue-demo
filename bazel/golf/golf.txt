@@ -708,7 +708,6 @@ gallowsmaker
 gallowsward
 geologizing
 galls
-gallstone
 gallup
 grimmer
 gargle
@@ -4808,6 +4807,7 @@ girthed
 girthing
 galactoside
 girths
+gallstone
 gourmander
 gladded
 glutin
