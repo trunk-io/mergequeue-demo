@@ -6535,7 +6535,6 @@ erns
 enaction
 essentialities
 entelam
-entelechy
 entelechial
 entelechies
 entelodon
@@ -9413,6 +9412,7 @@ erthly
 erthling
 erubescent
 eventerate
+entelechy
 euchlorophyceae
 erubescite
 eruc
