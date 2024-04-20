@@ -1,5 +1,4 @@
 emotes
-escuage
 e
 epigramme
 eschoppe
@@ -2999,6 +2998,7 @@ epibolies
 exaggeratedness
 embryotroph
 elkhounds
+escuage
 economizing
 electrophoretic
 elkslip
