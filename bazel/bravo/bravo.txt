@@ -7631,7 +7631,6 @@ bewake
 bandolier
 bewall
 beware
-bewared
 bewary
 bewaring
 bewash
@@ -7758,6 +7757,7 @@ brittles
 bezoardic
 bezoars
 birdweed
+bewared
 bezpopovets
 bezzant
 bezzants
