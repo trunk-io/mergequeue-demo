@@ -980,7 +980,6 @@ ecurie
 ecus
 eczema
 erythroblastotic
-eczematoid
 eidolology
 enervative
 eczematosis
@@ -9626,6 +9625,7 @@ escoted
 endoneurial
 escoting
 enright
+eczematoid
 escots
 escout
 escry
