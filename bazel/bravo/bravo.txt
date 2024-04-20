@@ -2100,7 +2100,6 @@ bannack
 bannat
 banned
 basaltoid
-bannerer
 banneret
 bannerfish
 biflorous
@@ -11477,6 +11476,7 @@ blunthearted
 bluntish
 bluntishness
 bluntly
+bannerer
 badinaged
 bluntness
 blup

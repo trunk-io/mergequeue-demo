@@ -1094,7 +1094,6 @@ dashiki
 dashikis
 diporpa
 dashing
-dashingly
 dashmaker
 dashnak
 dashnakist
@@ -11803,6 +11802,7 @@ discriminativeness
 demyship
 donee
 discriminator
+dashingly
 deferrals
 dislodges
 discriminatory
