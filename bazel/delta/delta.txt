@@ -2484,7 +2484,6 @@ declaration
 declarations
 dealates
 declarative
-declaratively
 deutzias
 declarator
 declaratory
@@ -12170,6 +12169,7 @@ disfrocked
 disfrocking
 disclose
 disfunction
+declaratively
 dennstaedtia
 didact
 dendrochronological
