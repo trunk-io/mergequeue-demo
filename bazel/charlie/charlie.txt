@@ -1852,7 +1852,6 @@ camelina
 cameline
 camelish
 clubability
-camelishness
 camelkeeper
 camellia
 camellias
@@ -31383,6 +31382,7 @@ curly
 curlicue
 curlycue
 curlicues
+camelishness
 curlycues
 curlicuing
 curliest
