@@ -2327,7 +2327,6 @@ fencers
 firebricks
 fsiest
 fenchene
-fenchyl
 fenchone
 fencible
 fencings
@@ -3509,6 +3508,7 @@ fairm
 floriate
 figent
 faultily
+fenchyl
 frag
 figeter
 figgery

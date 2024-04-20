@@ -2141,7 +2141,6 @@ banstickle
 bornan
 bantay
 blaw
-binary
 bantayan
 bidstand
 broguery
@@ -17091,6 +17090,7 @@ burghmoot
 bahawder
 blushet
 bulldozers
+binary
 bulldozes
 bulldozing
 blubberingly
