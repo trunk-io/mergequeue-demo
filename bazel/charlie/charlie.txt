@@ -6533,6 +6533,7 @@ counterpoises
 commissaries
 caxon
 caxton
+chokidar
 caxtonian
 caza
 cazibi
@@ -11546,7 +11547,6 @@ chokers
 chokes
 chokestrap
 chokeweed
-chokidar
 compels
 catesbeiana
 carbonizer
