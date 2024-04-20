@@ -574,6 +574,7 @@ echinopsine
 egotist
 echinorhynchus
 echinorhinidae
+embolus
 echinorhinus
 elbuck
 etnas
@@ -3514,7 +3515,6 @@ ectoskeleton
 embolomycotic
 embolon
 emboltement
-embolus
 embordered
 embordering
 epidesmine
