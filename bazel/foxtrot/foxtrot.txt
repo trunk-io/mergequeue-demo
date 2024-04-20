@@ -5084,6 +5084,7 @@ fructure
 foodservices
 flashtubes
 flask
+forslack
 ferricyanhydric
 flasker
 funiliform
@@ -8653,7 +8654,6 @@ forsythias
 fontinalis
 farforthly
 feignedness
-forslack
 fairlead
 forslow
 forsook
