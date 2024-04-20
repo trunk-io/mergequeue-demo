@@ -3722,6 +3722,7 @@ dehydrofreeze
 dehydrofreezing
 dehydrofrozen
 disproved
+didact
 dehydrogenate
 dehydrogenated
 dehydrogenating
@@ -12170,7 +12171,6 @@ disclose
 disfunction
 declaratively
 dennstaedtia
-didact
 dendrochronological
 dysfunctional
 dysfunctioning
