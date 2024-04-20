@@ -2373,6 +2373,7 @@ electrodesiccation
 electrodiagnosis
 entoblast
 electrodiagnostic
+esterling
 edda
 electrodiagnostically
 excreation
@@ -9995,7 +9996,6 @@ esterization
 esterize
 enterocrinin
 exhumated
-esterling
 exuberancy
 elegiambic
 electorate
