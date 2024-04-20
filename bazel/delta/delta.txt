@@ -3741,6 +3741,7 @@ diabolicalness
 dehiscence
 dehkan
 dehonestation
+disoccupied
 dehorn
 downfeed
 dehorned
@@ -13372,7 +13373,6 @@ disregarded
 disregardfully
 disregardfulness
 disregarding
-disoccupied
 disregular
 dysoxidizable
 dogbolt
