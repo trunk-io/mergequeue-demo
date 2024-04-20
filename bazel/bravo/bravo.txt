@@ -6468,7 +6468,6 @@ bethinking
 benzine
 berserk
 benzines
-benzoate
 bisectrix
 benzoazurine
 benzobis
@@ -9703,6 +9702,7 @@ bisley
 bislings
 bysmalith
 biggety
+benzoate
 bismar
 bismarckian
 backfire
