@@ -7405,6 +7405,7 @@ fissidens
 forbiddenness
 fenestellae
 flames
+frust
 forbidding
 fruitery
 forbiddingly
@@ -10779,7 +10780,6 @@ frumps
 frundel
 flakers
 frusla
-frust
 fecche
 frustrate
 frustrated
