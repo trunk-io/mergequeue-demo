@@ -8639,6 +8639,7 @@ champleve
 champs
 chams
 chamsin
+compositionally
 chan
 corslet
 chanabal
@@ -20852,7 +20853,6 @@ compositeness
 composites
 compositing
 compositional
-compositionally
 compositions
 conspirational
 compositive
