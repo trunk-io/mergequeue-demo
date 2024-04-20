@@ -6664,7 +6664,6 @@ bien
 bereareft
 bereason
 bereave
-bereavement
 bereavements
 bereaver
 bullfist
@@ -9447,6 +9446,7 @@ birdsnest
 birdstone
 basichromatic
 browpiece
+bereavement
 braider
 bungs
 birdwise
