@@ -7328,7 +7328,6 @@ forage
 facers
 fluttery
 forager
-foraging
 formable
 ferromolybdenum
 forayed
@@ -10107,6 +10106,7 @@ frying
 frija
 formity
 frijole
+foraging
 fiercly
 frijolillo
 frike
