@@ -2905,7 +2905,6 @@ braconniere
 barras
 boeotia
 barrater
-barraters
 barrator
 barrators
 barratry
@@ -14941,6 +14940,7 @@ breeching
 begift
 breed
 brawns
+barraters
 breedable
 breedbate
 breeder
