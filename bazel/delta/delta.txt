@@ -10050,6 +10050,7 @@ dynamometer
 dynamometers
 dagoes
 disseverance
+dubious
 derm
 dynamometrical
 dirls
@@ -17725,7 +17726,6 @@ dubio
 datch
 dubiosity
 dubiosities
-dubious
 dubiously
 densitometers
 dubiousness
