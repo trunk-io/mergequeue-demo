@@ -14783,7 +14783,6 @@ antiasthmatic
 accentuate
 antiastronomical
 antiatheism
-antiatheist
 antiatheistic
 avos
 antiatheistical
@@ -24160,6 +24159,7 @@ autology
 autological
 aldeia
 autologist
+antiatheist
 autologous
 autoluminescence
 alienicolae
