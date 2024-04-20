@@ -8774,7 +8774,6 @@ gregorianize
 greyback
 globate
 gaffle
-gunmanship
 gm
 glis
 greybeard
@@ -10580,6 +10579,7 @@ goujon
 gunsmithery
 gunsmithing
 gloomiest
+gunmanship
 glycocholic
 gunstick
 gunstocker
