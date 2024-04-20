@@ -15623,7 +15623,6 @@ doorsill
 doorstead
 didactics
 detumescent
-doorstep
 doorstone
 doorstop
 diodes
@@ -17358,6 +17357,7 @@ droob
 drooled
 drooly
 drugstore
+doorstep
 decennaries
 droolier
 drooling
