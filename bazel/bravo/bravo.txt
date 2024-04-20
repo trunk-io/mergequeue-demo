@@ -638,7 +638,6 @@ bacteriologists
 bacteriopathology
 burnoose
 buckishly
-bacteriophage
 bacteriophages
 bacteriophagy
 bacteriophagic
@@ -16272,6 +16271,7 @@ bint
 bruises
 bleareyed
 bruising
+bacteriophage
 bruisingly
 bruit
 bullroarer
