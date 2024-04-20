@@ -9261,7 +9261,6 @@ grogshop
 groin
 geogonic
 groyne
-gangplow
 gastaldo
 gypsydom
 groined
@@ -9891,6 +9890,7 @@ guaranteer
 gaisling
 guaranteers
 genevese
+gangplow
 guaranteing
 guaranty
 gaolering
