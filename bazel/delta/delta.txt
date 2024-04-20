@@ -6337,6 +6337,7 @@ dermoblast
 diaplasis
 distributable
 dermobranchiata
+derout
 dermobranchiate
 dermochelys
 dermococcus
@@ -13912,7 +13913,6 @@ dedicator
 deaurate
 distraction
 distractions
-derout
 distractive
 distractively
 distracts
