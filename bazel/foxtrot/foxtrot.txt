@@ -3324,7 +3324,6 @@ fideicommissaries
 fideicommission
 fideicommissum
 facioscapulohumeral
-fideism
 fideisms
 fideist
 folklorist
@@ -9507,6 +9506,7 @@ frate
 flaxbush
 frater
 frateries
+fideism
 fells
 fraternal
 fraternalism
