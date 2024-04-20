@@ -3378,7 +3378,6 @@ gerland
 gentisic
 ganglands
 gnatcatcher
-gopherroot
 guilelessly
 germ
 germain
@@ -4740,6 +4739,7 @@ gigantic
 graphemes
 gyrodactylidae
 gapa
+gopherroot
 gansy
 gomutis
 galliardly
