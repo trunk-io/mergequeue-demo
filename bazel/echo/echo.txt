@@ -4115,6 +4115,7 @@ empyromancy
 emplace
 egotistical
 encrinus
+entries
 emplaced
 emplane
 emplaned
@@ -7028,7 +7029,6 @@ entrez
 epicranial
 entria
 expressivity
-entries
 entrike
 entryman
 entrymen
