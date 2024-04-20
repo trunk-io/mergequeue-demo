@@ -7737,7 +7737,6 @@ grainsmen
 grayouts
 glimpse
 graip
-greenhorn
 gainable
 goggled
 greenhorns
@@ -8120,6 +8119,7 @@ gasconading
 graphemics
 graphic
 graphical
+greenhorn
 graphically
 graphicalness
 graphicness
