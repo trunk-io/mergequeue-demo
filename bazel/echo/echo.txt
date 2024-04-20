@@ -2087,7 +2087,6 @@ elargement
 exterminator
 elasmobranch
 elasmobranchiate
-elasmobranchii
 epilimnia
 edgemaker
 elasmothere
@@ -3540,6 +3539,7 @@ embossers
 embossing
 emotiomuscular
 embossman
+elasmobranchii
 embost
 exembryonate
 embosture
