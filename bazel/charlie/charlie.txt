@@ -17009,7 +17009,6 @@ cnemidium
 cnemidophorus
 cnemis
 cneorum
-cnibophore
 cnicin
 cnicus
 capmakers
@@ -25011,6 +25010,7 @@ cordial
 cordiality
 cordialities
 cordialize
+cnibophore
 cordially
 cordialness
 cordials
