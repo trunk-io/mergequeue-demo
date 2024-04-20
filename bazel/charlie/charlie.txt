@@ -9592,7 +9592,6 @@ checksum
 construct
 checksummed
 checksumming
-checkup
 checkups
 checkweigher
 capacitively
@@ -18344,6 +18343,7 @@ cognac
 centime
 cognacs
 cognate
+checkup
 cognately
 cognati
 cognatic
