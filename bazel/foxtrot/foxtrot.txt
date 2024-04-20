@@ -2382,7 +2382,6 @@ feoff
 feoffee
 fconvert
 feoffer
-feoffing
 fetlow
 feoffor
 flaxseed
@@ -8838,6 +8837,7 @@ forwore
 flashtube
 forwork
 frailer
+feoffing
 forwrap
 fallacia
 forz
