@@ -11041,7 +11041,6 @@ catchup
 chirurgeon
 chirurgeonly
 chirurgery
-chirurgical
 chis
 chiseled
 curuba
@@ -23255,6 +23254,7 @@ consuetudinal
 consuetudinary
 consul
 consulage
+chirurgical
 consulary
 consularity
 concertizes
