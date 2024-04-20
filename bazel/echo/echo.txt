@@ -5459,7 +5459,6 @@ energizers
 energizes
 elaterite
 electromotor
-energizing
 energumenon
 enervate
 enervates
@@ -12734,6 +12733,7 @@ elmer
 exonym
 exonuclease
 exopathic
+energizing
 exophasia
 exophasic
 exophoria
