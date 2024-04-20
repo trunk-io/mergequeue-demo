@@ -13840,7 +13840,6 @@ bowsman
 bowmen
 bown
 bowne
-bowpot
 bowpots
 bows
 bowsaw
@@ -13995,6 +13994,7 @@ brachychronic
 bunks
 brachycnemic
 brachycrany
+bowpot
 brachycranial
 brachycranic
 brachydactyl
