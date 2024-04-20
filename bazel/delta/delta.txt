@@ -2427,6 +2427,7 @@ decinormal
 dispenser
 decipherability
 decipherable
+delay
 disintegrative
 decipherably
 deciphered
@@ -3934,7 +3935,6 @@ delabializing
 delace
 delacerate
 delactation
-delay
 delayable
 demes
 delayer
