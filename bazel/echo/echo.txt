@@ -10619,7 +10619,6 @@ etwite
 eu
 euahlayi
 euascomycetes
-euaster
 eubacteria
 elegits
 eubacteriales
@@ -12570,6 +12569,7 @@ eximious
 exine
 enplanes
 escaloped
+euaster
 exines
 exing
 exinguinal
