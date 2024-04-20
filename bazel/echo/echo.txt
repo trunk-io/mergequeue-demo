@@ -12097,7 +12097,6 @@ exclusivity
 excoct
 excoction
 excogitated
-excogitation
 excogitative
 excogitator
 engrossingly
@@ -12261,6 +12260,7 @@ exec
 enteradenology
 execeptional
 euro
+excogitation
 execrate
 expressed
 execrated
