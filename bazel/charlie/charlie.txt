@@ -93,6 +93,7 @@ cabeliau
 caber
 cabernet
 cabernets
+carcinosarcomas
 clusters
 cabestro
 cabestros
@@ -3973,7 +3974,6 @@ carcinophagous
 carcinopolypus
 carcinosarcoma
 chloralide
-carcinosarcomas
 carcinus
 carcoon
 condylomas
