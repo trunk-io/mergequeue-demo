@@ -509,7 +509,6 @@ echelle
 extraphenomenal
 echelon
 echeloned
-echelons
 echeloot
 emberizidae
 echeneidae
@@ -6556,6 +6555,7 @@ enterate
 enterclose
 enterectomy
 enterectomies
+echelons
 exuviates
 enterer
 epimedium
