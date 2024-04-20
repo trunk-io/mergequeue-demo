@@ -3749,7 +3749,6 @@ dehonestation
 disoccupied
 dehorn
 downfeed
-dehorned
 desmose
 dehorner
 diplography
@@ -9925,6 +9924,7 @@ dairy
 diminishments
 diminue
 dulcet
+dehorned
 diminuendoed
 diminuendoes
 diminuendos
