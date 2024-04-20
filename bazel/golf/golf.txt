@@ -6402,7 +6402,6 @@ geodic
 granatite
 ganglander
 gamogenetic
-gentlemanhood
 goby
 geed
 gobia
@@ -6627,6 +6626,7 @@ goldworker
 golem
 gibbered
 goles
+gentlemanhood
 golet
 gossypium
 grecomaniac
