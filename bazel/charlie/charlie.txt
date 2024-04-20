@@ -17879,6 +17879,7 @@ codist
 codivine
 codlin
 codline
+controlled
 codling
 codlings
 coguardian
@@ -23874,7 +23875,6 @@ controllability
 controllable
 controllableness
 controllably
-controlled
 controller
 costophrenic
 controlless
