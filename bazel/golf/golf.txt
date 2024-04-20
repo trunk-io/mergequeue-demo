@@ -6774,7 +6774,6 @@ glowed
 gonfalons
 gonfanon
 gong
-gulf
 gunreach
 gonged
 gonging
@@ -8038,6 +8037,7 @@ granula
 granular
 girandole
 gomontia
+gulf
 gramp
 granulary
 granularly
