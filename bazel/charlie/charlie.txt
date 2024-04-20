@@ -9828,7 +9828,6 @@ cheloids
 cutinizing
 chelonia
 chelonian
-chelonid
 cheloniid
 cheloniidae
 crucialness
@@ -18980,6 +18979,7 @@ cranberry
 collectibility
 climatotherapies
 collectible
+chelonid
 collectibles
 collecting
 collection
