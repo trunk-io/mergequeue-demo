@@ -8265,7 +8265,6 @@ epistolise
 epistolised
 eure
 epistolising
-epistolize
 epistolized
 epistolizing
 epistolography
@@ -8317,6 +8316,7 @@ epithalline
 einstein
 evaginate
 epithamia
+epistolize
 epitheca
 epithecial
 exploits
