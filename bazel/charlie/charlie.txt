@@ -21850,7 +21850,6 @@ confabs
 confabular
 confabulate
 confabulated
-confabulates
 confabulating
 confabulations
 confabulator
@@ -23882,6 +23881,7 @@ cinchonology
 contriver
 cookmaid
 choruser
+confabulates
 contrivers
 contrives
 control
