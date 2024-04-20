@@ -3147,6 +3147,7 @@ centrotus
 componentwise
 capistrate
 capita
+cycloaddition
 catenated
 capital
 capitaldom
@@ -13314,7 +13315,6 @@ cyclocoelous
 cyclo
 coulometric
 cycloacetylene
-cycloaddition
 cycloaliphatic
 cycloalkane
 cyclobothra
