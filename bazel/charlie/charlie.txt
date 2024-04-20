@@ -4179,7 +4179,6 @@ cardophagus
 cardosanto
 cardplaying
 cardroom
-cards
 clearwing
 cardshark
 carbamido
@@ -24337,6 +24336,7 @@ caverning
 cookshop
 cyanomethaemoglobin
 cookshops
+cards
 cookstove
 contumacies
 cookware
