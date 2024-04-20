@@ -9036,7 +9036,6 @@ chariotee
 charioteer
 continuo
 charioting
-chariotlike
 chariotman
 chariotry
 chariots
@@ -20262,6 +20261,7 @@ commonsense
 carpels
 commonsensible
 commonsensibly
+chariotlike
 commonsensically
 commonty
 commonweal
