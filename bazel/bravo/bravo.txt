@@ -2050,7 +2050,6 @@ bethought
 bankerdom
 bacteriophobia
 banket
-bankfull
 banky
 banking
 bankings
@@ -4694,6 +4693,7 @@ boswell
 bedecking
 bedecks
 bedegar
+bankfull
 bedeguar
 bedehouse
 bedehouses
