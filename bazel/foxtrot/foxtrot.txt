@@ -2203,7 +2203,6 @@ fellowshiping
 fellowshipped
 fellowships
 fruited
-fells
 foxfishes
 floruits
 fellside
@@ -9522,6 +9521,7 @@ flaxbush
 frater
 fratery
 frateries
+fells
 fraternal
 fraternalism
 fraternality
