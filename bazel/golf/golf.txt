@@ -1318,7 +1318,6 @@ gowk
 glandless
 garaging
 garance
-gloomy
 garancin
 genetta
 geranin
@@ -5333,6 +5332,7 @@ glib
 grippy
 gyrant
 gorilla
+gloomy
 glibly
 glibness
 glibnesses
