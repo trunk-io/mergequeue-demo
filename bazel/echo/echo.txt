@@ -4110,7 +4110,6 @@ emplace
 egotistical
 entries
 emplaced
-emplane
 emplaned
 emplanement
 endoute
@@ -9282,6 +9281,7 @@ erosions
 erosive
 erosiveness
 erosivity
+emplane
 erostrate
 erotema
 electrofuse
