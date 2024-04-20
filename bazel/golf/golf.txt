@@ -126,6 +126,7 @@ gadid
 gramaphone
 gadinic
 generals
+girosol
 gaditan
 glut
 gadman
@@ -7716,7 +7717,6 @@ gittite
 graysbies
 graylings
 graymill
-girosol
 guaracha
 germiculture
 grained
