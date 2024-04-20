@@ -8451,6 +8451,7 @@ aljoba
 alk
 alkahest
 alkahestic
+aortoptosis
 alkahestica
 alkahestical
 alkaid
@@ -16634,7 +16635,6 @@ aortomalacia
 aortomalaxis
 aortopathy
 aortoptosia
-aortoptosis
 aortorrhaphy
 aortostenosis
 aosmic
