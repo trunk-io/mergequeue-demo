@@ -3276,7 +3276,6 @@ elbowboard
 emandibulate
 emane
 emanium
-emarcid
 emarginated
 eucalyptian
 evildoing
@@ -8149,6 +8148,7 @@ episcopation
 exedra
 ern
 episcopature
+emarcid
 episcopicide
 engyscope
 episcopised
