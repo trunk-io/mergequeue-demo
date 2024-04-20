@@ -6618,7 +6618,6 @@ goldsmithry
 glider
 gospellike
 gabionage
-goldsmiths
 goldspink
 gnathopod
 goldstone
@@ -8646,6 +8645,7 @@ gargantuan
 greasily
 greenhornism
 grabbled
+goldsmiths
 gerundival
 gloomingly
 gentlewoman
