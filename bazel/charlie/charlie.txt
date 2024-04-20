@@ -3255,6 +3255,7 @@ cogware
 chelates
 capon
 caponata
+chloroacetic
 capone
 caponette
 caponier
@@ -11311,7 +11312,6 @@ chesterbed
 chlormethane
 chlornal
 chloro
-chloroacetic
 chloroacetone
 chloroacetophenone
 childe
