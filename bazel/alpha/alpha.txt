@@ -5319,7 +5319,6 @@ affianced
 affiancing
 affiants
 affich
-affiche
 affiches
 affidare
 affidation
@@ -16800,6 +16799,7 @@ aperulosid
 apes
 antiptosis
 apesthetic
+affiche
 apesthetize
 attachment
 apetalae
