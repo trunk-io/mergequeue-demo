@@ -6359,7 +6359,6 @@ enshelter
 enshield
 eprouvette
 enumerating
-enshielded
 enshielding
 enshrined
 enshrinement
@@ -13198,6 +13197,7 @@ expensive
 explicanda
 explicate
 eaglewood
+enshielded
 exuvium
 explicates
 embryoferous
