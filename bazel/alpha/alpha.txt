@@ -8322,7 +8322,6 @@ allochezia
 alignments
 aligns
 aligreek
-aliya
 aliyah
 aliyahaliyahs
 aliyos
@@ -8722,6 +8721,7 @@ alleviate
 alleviated
 alleviater
 alleviates
+aliya
 alleviating
 alleviatingly
 alleviation
