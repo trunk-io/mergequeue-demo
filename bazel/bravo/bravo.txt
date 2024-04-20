@@ -10716,7 +10716,6 @@ broomstaff
 blende
 blazed
 blended
-blendes
 buffaloed
 blendwater
 bowhead
@@ -14746,6 +14745,7 @@ breach
 breached
 breacher
 breachers
+blendes
 benefactors
 bibliotaphic
 breaches
