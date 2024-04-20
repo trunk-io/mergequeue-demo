@@ -3437,6 +3437,7 @@ capsulorrhaphy
 capsulotomy
 capsumin
 captacula
+coequation
 captaculum
 captain
 captaincy
@@ -18132,7 +18133,6 @@ cruses
 colpocystocele
 coequated
 coequates
-coequation
 coerce
 coerced
 condylarth

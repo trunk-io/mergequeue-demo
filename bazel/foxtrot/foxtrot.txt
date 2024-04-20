@@ -1711,6 +1711,7 @@ fortuitousness
 fussy
 fe
 feaberry
+faults
 frugivora
 feak
 federate
@@ -5501,7 +5502,6 @@ flex
 forebye
 flexed
 fractionate
-faults
 frough
 flexes
 flexibilities
