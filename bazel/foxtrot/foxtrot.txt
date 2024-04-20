@@ -197,7 +197,6 @@ factorist
 factorization
 fuzzed
 floatiness
-fab
 factorizations
 factorize
 factorizing
@@ -11559,6 +11558,7 @@ fuscous
 fuseau
 fistic
 fuseboard
+fab
 fused
 fusel
 fusilade
