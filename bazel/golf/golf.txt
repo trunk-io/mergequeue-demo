@@ -2407,7 +2407,6 @@ glossography
 gynaecologist
 gelatin
 gelatinate
-gelatinated
 gelatinating
 gelatine
 glucoprotein
@@ -3562,6 +3561,7 @@ gonfaloniership
 gestaltist
 gynecology
 gestant
+gelatinated
 generally
 gestapos
 gestate
