@@ -5713,7 +5713,6 @@ depicting
 depiction
 depictions
 dermomycosis
-depictive
 demosthenic
 depictment
 depictor
@@ -9470,6 +9469,7 @@ digestion
 digestively
 digestiveness
 dermad
+depictive
 digestment
 digestor
 digestory
