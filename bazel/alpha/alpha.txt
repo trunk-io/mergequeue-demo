@@ -5251,6 +5251,7 @@ aetosaurus
 aettekees
 aeviternal
 aevum
+anatomicomedical
 af
 afterpart
 automate
@@ -12094,7 +12095,6 @@ anatomicals
 anatomicobiological
 abought
 anatomicochirurgical
-anatomicomedical
 anatomicopathologic
 anatomicopathological
 anatomicophysiologic
