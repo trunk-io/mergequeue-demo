@@ -1344,7 +1344,6 @@ efferents
 efferous
 enantiomorphous
 extraocular
-effervescence
 effervescency
 exomis
 effervescent
@@ -8603,6 +8602,7 @@ encompassing
 equiconvex
 egrets
 equicurve
+effervescence
 equid
 equidiagonal
 equidifferent
