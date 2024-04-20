@@ -1498,7 +1498,6 @@ accessorius
 accessoriusorii
 accessorize
 accessorized
-accessorizing
 arsenobenzene
 accessors
 acciaccatura
@@ -17116,6 +17115,7 @@ aplodontiidae
 aplomb
 aplome
 aperture
+accessorizing
 aploperistomatous
 aplostemonous
 aplotaxene
