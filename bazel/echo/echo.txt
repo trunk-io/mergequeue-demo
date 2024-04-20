@@ -4113,6 +4113,7 @@ emplanes
 emplaster
 emplastic
 emplastration
+ethological
 emplastrum
 emplectic
 emplection
@@ -10500,7 +10501,6 @@ etholide
 etesian
 ethology
 ethologic
-ethological
 ethologies
 ethologist
 explains
