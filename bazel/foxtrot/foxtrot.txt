@@ -1459,7 +1459,6 @@ fatteners
 fattening
 fattens
 fattest
-fatty
 footnotes
 fumigator
 fattier
@@ -5799,6 +5798,7 @@ flyweights
 fribblish
 flywinch
 frankable
+fatty
 flixweed
 flamingoes
 finder
