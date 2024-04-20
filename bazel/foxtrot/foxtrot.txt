@@ -4438,6 +4438,7 @@ ferociousness
 fishmouth
 fishnet
 frank
+fitnesses
 fibroglioma
 fishnets
 fishplate
@@ -7474,7 +7475,6 @@ feminine
 forcleave
 fours
 foreknown
-fitnesses
 forconceit
 ferrimagnet
 floatative
