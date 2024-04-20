@@ -33,7 +33,6 @@ gabblers
 gabbling
 grittiness
 gabbro
-gabbroic
 gabbroid
 gabbroitic
 gabelleman
@@ -1393,6 +1392,7 @@ gardenless
 gardenlike
 gardenmaking
 gardens
+gabbroic
 gardevin
 gardevisure
 gardy
