@@ -18159,7 +18159,6 @@ coerciveness
 coercivity
 coerebidae
 coerect
-coffinmaker
 coerected
 coerecting
 coerects
@@ -23213,6 +23212,7 @@ constructions
 constructive
 constructively
 constructivism
+coffinmaker
 constructivist
 conformance
 constructor
