@@ -5607,6 +5607,7 @@ flightiness
 flightless
 forepassed
 flights
+frightenable
 flightworthy
 flying
 flyings
@@ -8764,7 +8765,6 @@ fortnights
 fortran
 fortranh
 fortravail
-frightenable
 fortread
 foreordains
 fortresses
