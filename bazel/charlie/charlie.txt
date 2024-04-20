@@ -21494,7 +21494,6 @@ concorder
 concordist
 concordity
 circline
-concordly
 colicky
 centumvir
 cluster
@@ -31259,6 +31258,7 @@ curculionid
 curculionidae
 curculios
 cerebratulus
+concordly
 curcumas
 curcumin
 causative

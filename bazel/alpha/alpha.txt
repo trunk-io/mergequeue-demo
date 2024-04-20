@@ -887,7 +887,6 @@ abscisse
 arctogaea
 amphicyrtous
 abscission
-abscissions
 absconce
 abscond
 adjiger
@@ -3170,6 +3169,7 @@ animadvert
 actinomorphic
 amphitrichous
 actinomorphous
+abscissions
 aphakia
 actinon
 actinonema
