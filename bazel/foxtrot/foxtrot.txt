@@ -4335,6 +4335,7 @@ firns
 faventine
 firoloida
 flammability
+folderol
 facia
 first
 fylker
@@ -11097,7 +11098,6 @@ flowerlet
 fummel
 fummle
 fumose
-folderol
 fumosity
 fumous
 fumuli
