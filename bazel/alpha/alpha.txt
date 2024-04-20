@@ -1007,7 +1007,6 @@ absorbers
 absorbing
 absorbtion
 absorpt
-absorptance
 absorptiometer
 absorptiometric
 angiospasm
@@ -3987,6 +3986,7 @@ archicleistogamy
 adjectional
 adjectitious
 anastatica
+absorptance
 adjectival
 autoactivation
 adjective
