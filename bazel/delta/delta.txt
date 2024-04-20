@@ -5043,6 +5043,7 @@ demultiplexers
 disroot
 dimedone
 demultiplexes
+dinamode
 decussion
 delustered
 demure
@@ -8105,7 +8106,6 @@ diabolised
 diabolising
 diabolist
 diabolization
-dinamode
 diabolize
 diabolized
 diabological
