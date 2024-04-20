@@ -5532,7 +5532,6 @@ afocal
 afoot
 afore
 aforegoing
-arriccio
 aforehand
 aforementioned
 aforetime
@@ -21633,6 +21632,7 @@ araneose
 azans
 assassinist
 assate
+arriccio
 assault
 assaultable
 antiquer
