@@ -2090,7 +2090,6 @@ dorbug
 decapper
 decapsulate
 decarbonated
-denitrating
 decarbonating
 dacryocele
 decarbonation
@@ -8244,6 +8243,7 @@ diagnosis
 diagnostical
 diagnostically
 diagnosticate
+denitrating
 diagnosticated
 diagnosticating
 diagnostication
