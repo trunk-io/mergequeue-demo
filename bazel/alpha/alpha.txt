@@ -15927,7 +15927,6 @@ almeries
 antiplatelet
 antipleion
 antiplethoric
-antipleuritic
 antiplurality
 antipodagric
 antipodal
@@ -16958,6 +16957,7 @@ aphototactic
 ancienter
 aphototaxis
 anisokonia
+antipleuritic
 aphototropic
 acholic
 aphototropism
