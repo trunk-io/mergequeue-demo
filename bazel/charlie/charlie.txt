@@ -7697,7 +7697,6 @@ contestants
 cerebrovascular
 cerebrovisceral
 cerebrum
-chaumontel
 collarets
 cerecloth
 cered
@@ -24872,6 +24871,7 @@ coracoidal
 coracoids
 crocket
 coracomandibular
+chaumontel
 coracomorph
 curbash
 coracomorphae
