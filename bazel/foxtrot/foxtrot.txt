@@ -7864,7 +7864,6 @@ foreannounce
 foredesk
 foreparts
 forepass
-forepast
 feedstuffs
 foliously
 forepaw
@@ -8958,6 +8957,7 @@ foulder
 fouled
 fouler
 footmaker
+forepast
 falsificator
 fermenting
 falsifies
