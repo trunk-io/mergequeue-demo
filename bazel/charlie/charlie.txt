@@ -18583,6 +18583,7 @@ coindication
 coindwelling
 coiner
 coiners
+comparograph
 crossrow
 coyness
 coynesses
@@ -20494,7 +20495,6 @@ comparers
 comparing
 comparisons
 comparition
-comparograph
 comparsa
 compart
 comparted
