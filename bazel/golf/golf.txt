@@ -3189,7 +3189,6 @@ geophilid
 geophilidae
 gastrins
 geophysical
-geoparallelotropic
 geophysics
 geophytes
 geophytic
@@ -10292,6 +10291,7 @@ greenwax
 guland
 guhayna
 gulanganes
+geoparallelotropic
 growlingly
 gular
 girdle
