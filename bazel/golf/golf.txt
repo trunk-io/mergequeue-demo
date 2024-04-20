@@ -6904,6 +6904,7 @@ grindings
 geohydrologic
 gonopodial
 gonopodium
+gobleted
 gonopodpodia
 gonopoietic
 galimatias
@@ -8597,7 +8598,6 @@ greekess
 greekish
 greekism
 gawkier
-gobleted
 garapata
 glyph
 greekize
