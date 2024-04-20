@@ -7523,6 +7523,7 @@ betted
 befreeze
 better
 besmirched
+bilocation
 bettering
 betterly
 betterment
@@ -8734,7 +8735,6 @@ billtong
 bilobate
 bilobe
 bilobed
-bilocation
 bilocular
 biloculate
 biloculina
