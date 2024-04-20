@@ -10596,7 +10596,6 @@ amylometer
 amylopectin
 amylophagia
 amylophosphate
-amylophosphoric
 amyloplast
 amyloplastic
 amyloplastid
@@ -25274,6 +25273,7 @@ azobenzil
 arsonvalization
 azobenzoic
 azoch
+amylophosphoric
 arvicola
 adenofibroma
 abeyant
