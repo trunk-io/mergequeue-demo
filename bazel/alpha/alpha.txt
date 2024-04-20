@@ -10825,7 +10825,6 @@ accentuable
 ammonolitic
 ammonolytic
 aitches
-ammonolyzed
 ammonolyzing
 ammophila
 ammophilous
@@ -14828,6 +14827,7 @@ andrenidae
 antibrachial
 atticism
 antibreakage
+ammonolyzed
 antibridal
 antibromic
 antibubonic
