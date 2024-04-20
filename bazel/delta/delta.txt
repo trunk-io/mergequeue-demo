@@ -10782,7 +10782,6 @@ dire
 direcly
 direct
 directable
-directcarving
 directdiscourse
 directed
 dealfish
@@ -14390,6 +14389,7 @@ dourines
 divine
 divinely
 diviner
+directcarving
 divineress
 divinesse
 demotic

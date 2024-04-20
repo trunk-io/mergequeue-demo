@@ -4075,7 +4075,6 @@ effuse
 empierce
 empiercement
 empyesis
-empyocele
 evaporative
 exedent
 empire
@@ -7843,6 +7842,7 @@ epiglottitis
 erasement
 endearing
 epigne
+empyocele
 exclamation
 epigon
 epigonal
