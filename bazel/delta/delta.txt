@@ -3166,7 +3166,6 @@ defectibility
 dentiparous
 defectible
 defecting
-diplomacy
 defection
 defectious
 devotionalness
@@ -11144,6 +11143,7 @@ disattaint
 disattune
 disauthenticate
 disauthorize
+diplomacy
 dysautonomia
 disavail
 daimonion
