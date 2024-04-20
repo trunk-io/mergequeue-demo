@@ -5736,7 +5736,6 @@ flyswat
 footlessness
 fundraising
 flyswatter
-flit
 flamens
 ferrocalcite
 frankist
@@ -11291,6 +11290,7 @@ funks
 faultfinding
 funmaking
 funnel
+flit
 frailly
 funneled
 funneling
