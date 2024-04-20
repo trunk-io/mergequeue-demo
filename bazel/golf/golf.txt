@@ -1690,6 +1690,7 @@ gastight
 gasting
 gastly
 grego
+gillnet
 gastness
 gastnesses
 gingili
@@ -3061,7 +3062,6 @@ gollop
 geoffroyin
 geomance
 geoform
-gillnet
 geogen
 geogenesis
 gyropilot
