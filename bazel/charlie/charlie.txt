@@ -111,7 +111,6 @@ cliqueiest
 calinago
 cabinet
 cabineting
-cabinetmake
 cabinetmakers
 cabinetmaking
 cabinetry
@@ -8794,6 +8793,7 @@ chantey
 chanteyman
 chantepleure
 chanterelle
+cabinetmake
 chanters
 coinhering
 chantership

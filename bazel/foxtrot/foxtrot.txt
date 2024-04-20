@@ -3870,7 +3870,6 @@ fract
 fimbria
 fimbriae
 formicary
-fanfold
 fimbrial
 fimbriate
 fimbriated
@@ -5664,6 +5663,7 @@ flashlike
 flintless
 flintlike
 flintwood
+fanfold
 flintworker
 flyoff
 facial
