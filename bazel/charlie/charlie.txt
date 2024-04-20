@@ -11297,7 +11297,6 @@ chlorinates
 chlorinating
 chlorination
 chlorinator
-chlorinators
 chlorines
 chlorinity
 chlorinize
@@ -20333,6 +20332,7 @@ communicatory
 communicators
 communion
 communionable
+chlorinators
 communionist
 communions
 communiqu
