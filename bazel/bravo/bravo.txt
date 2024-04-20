@@ -470,7 +470,6 @@ butteries
 bicentral
 broomier
 backspang
-backspear
 backspier
 backspierer
 backspin
@@ -14869,6 +14868,7 @@ breasting
 breastless
 breastmark
 breastpiece
+backspear
 birthy
 breastpin
 breastplates
