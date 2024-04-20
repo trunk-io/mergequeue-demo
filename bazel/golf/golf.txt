@@ -5859,7 +5859,6 @@ garbleable
 glossless
 glossocele
 glossaries
-glossocoma
 glossocomium
 glossocomon
 gonotheca
@@ -10669,6 +10668,7 @@ guserid
 galanas
 gush
 glucogene
+glossocoma
 gusher
 goethe
 geohydrologist

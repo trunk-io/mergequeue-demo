@@ -415,7 +415,6 @@ ec
 ecanda
 ecardines
 ecart
-equiprobabilism
 ecarte
 evenoo
 exoccipital
@@ -2935,6 +2934,7 @@ eliminable
 eliminand
 eliminate
 entoplastic
+equiprobabilism
 eliminated
 eliminates
 ellipsometry
