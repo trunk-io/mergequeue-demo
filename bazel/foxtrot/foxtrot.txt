@@ -2074,7 +2074,6 @@ feijoa
 fourpounder
 feil
 frontspiece
-forerunnership
 feinschmecker
 filacer
 feinter
@@ -2733,6 +2732,7 @@ fervanite
 frontad
 fervence
 farmplace
+forerunnership
 fervency
 fervencies
 fervent
