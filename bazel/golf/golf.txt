@@ -3766,7 +3766,6 @@ ghostism
 gadgeteer
 ghostland
 glucide
-ghostless
 ghostly
 ghostlify
 grasswidowhood
@@ -10089,6 +10088,7 @@ gazetteer
 guesthouse
 guesting
 glyptics
+ghostless
 giottesque
 guestmaster
 gabeller
