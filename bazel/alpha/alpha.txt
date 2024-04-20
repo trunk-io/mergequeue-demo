@@ -22482,7 +22482,6 @@ ataxia
 ataxiagram
 ataxiagraph
 ataxiaphasia
-ataxic
 ataxies
 ataxinomic
 ataxophemia
@@ -24132,6 +24131,7 @@ autointellectual
 autointoxicant
 autointoxication
 autoist
+ataxic
 autojigger
 autojuggernaut
 autokinesy
