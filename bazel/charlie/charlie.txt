@@ -7290,7 +7290,6 @@ cryptococcal
 centuple
 centuples
 chaldese
-centuply
 centuplicate
 centuplicated
 centuplicating
@@ -26122,6 +26121,7 @@ cosmographic
 cosmographical
 cosmographically
 cosmographies
+centuply
 cosmoid
 cosmoline
 cosmolining
