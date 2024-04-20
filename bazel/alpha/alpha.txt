@@ -2858,7 +2858,6 @@ antroversion
 acroamatics
 acroanesthesia
 acroarthritis
-acroasis
 acroasphyxia
 apophthegm
 acroatic
@@ -3806,6 +3805,7 @@ adespoton
 adessenarian
 adams
 adeste
+acroasis
 adet
 allegeable
 adevism
