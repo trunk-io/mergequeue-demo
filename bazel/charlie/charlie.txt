@@ -8128,7 +8128,6 @@ cipher
 chaetetidae
 chaetifera
 chaetiferous
-chaetites
 chaetitidae
 chaetochloa
 chaetodon
@@ -9538,6 +9537,7 @@ checkbits
 checkbook
 chachalaca
 climatically
+chaetites
 checkbooks
 checker
 cartoned
