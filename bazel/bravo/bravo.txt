@@ -2434,7 +2434,6 @@ brobdingnagian
 barding
 bardings
 becalms
-bardism
 bardlet
 bardlike
 burut
@@ -14273,6 +14272,7 @@ brahmana
 bizcacha
 brahmanaspati
 bodhisat
+bardism
 brahmani
 brahmany
 bikini
