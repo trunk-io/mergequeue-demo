@@ -7434,6 +7434,7 @@ cephalophyma
 cephalophine
 cephalophus
 cephaloplegia
+cervisia
 cryoprobe
 cephaloplegic
 cephalopod
@@ -20691,7 +20692,6 @@ complementizer
 complementoid
 complete
 claimsmen
-cervisia
 completement
 cassabanana
 completeness
