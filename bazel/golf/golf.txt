@@ -1095,7 +1095,6 @@ geodete
 ganging
 genthite
 gerate
-gefilte
 geodist
 gullibility
 ganglia
@@ -5681,6 +5680,7 @@ generality
 gumi
 globuliform
 gossipmonger
+gefilte
 globulimeter
 gurges
 gyrochrome
