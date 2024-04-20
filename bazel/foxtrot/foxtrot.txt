@@ -3917,7 +3917,6 @@ finale
 finales
 finalis
 finalization
-finalize
 finalized
 fourstrand
 foulsome
@@ -9013,6 +9012,7 @@ fearfulness
 funambulist
 fountainheads
 forkful
+finalize
 flections
 folktales
 fitment
