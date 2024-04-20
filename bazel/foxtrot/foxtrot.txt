@@ -2652,7 +2652,6 @@ ferrotitanium
 ferrovanadium
 ferrozirconium
 ferruginate
-flintiness
 flintify
 filmed
 fastus
@@ -2666,6 +2665,7 @@ forecounsel
 ferruginous
 fairling
 fincas
+flintiness
 freeloving
 ferrugo
 ferrule
