@@ -12030,6 +12030,7 @@ disenthrone
 disenthroned
 disenthronement
 deled
+demerits
 diffuser
 disentitled
 disentitlement
@@ -15257,7 +15258,6 @@ dolphinlike
 dolphins
 dolphus
 dryfat
-demerits
 diatonical
 dolt
 doltish
