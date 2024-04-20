@@ -3779,6 +3779,7 @@ battleplane
 barnstorms
 battler
 battles
+bookable
 battleship
 battleships
 buhr
@@ -12639,7 +12640,6 @@ boohoos
 boojum
 book
 balsamo
-bookable
 bookbind
 boughed
 bookbindery
