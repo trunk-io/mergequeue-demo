@@ -2438,7 +2438,6 @@ candle
 coehorn
 candleball
 caripeta
-calor
 candleberries
 candlebomb
 candled
@@ -4900,6 +4899,7 @@ cartboot
 carte
 carted
 cartel
+calor
 cartelism
 cakemaker
 cartelist
