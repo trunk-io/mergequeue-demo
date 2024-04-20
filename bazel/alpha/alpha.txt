@@ -18104,7 +18104,6 @@ appui
 appulse
 aeonian
 appulses
-appulsive
 alemonger
 arachnoid
 attack
@@ -23418,6 +23417,7 @@ augurers
 autoelectronic
 auguries
 auguring
+appulsive
 augurous
 augurs
 augurship

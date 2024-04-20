@@ -5039,7 +5039,6 @@ curses
 carvings
 carvoeira
 carvoepra
-carvone
 carwash
 clamatorial
 carwashes
@@ -9881,6 +9880,7 @@ chemiluminescent
 cheminee
 chemiotactic
 chemiotaxic
+carvone
 chemiotaxis
 chemiotropic
 chemiotropism
