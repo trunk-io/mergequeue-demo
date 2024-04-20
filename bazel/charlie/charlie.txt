@@ -1069,7 +1069,6 @@ calciner
 coinheres
 compared
 calcines
-calcining
 calcinize
 chomer
 calcino
@@ -28678,6 +28677,7 @@ crenels
 crengle
 crenic
 crenitic
+calcining
 crenotherapy
 crenothrix
 crenula
