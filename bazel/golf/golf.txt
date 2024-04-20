@@ -4566,6 +4566,7 @@ gyp
 gyps
 gipseian
 gypseian
+gastrocoele
 gipser
 gametophyll
 gipsy
@@ -4743,7 +4744,6 @@ gomutis
 galliardly
 gyrodactylus
 gyrodyne
-gastrocoele
 gyrogonite
 gynaeolatry
 gyrohorizon
