@@ -6052,7 +6052,6 @@ ethicizes
 enmities
 enmove
 enmuffle
-enneacontahedron
 ennead
 enneadic
 enneads
@@ -9195,6 +9194,7 @@ electrifier
 entwining
 erythropsia
 ericetum
+enneacontahedron
 erythropsin
 entreatment
 electroretinograph
