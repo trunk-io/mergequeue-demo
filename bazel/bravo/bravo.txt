@@ -15214,7 +15214,6 @@ brideless
 bridelike
 bridelope
 bridemaid
-bridemaiden
 basketry
 bridemaidship
 brides
@@ -15320,6 +15319,7 @@ brigalow
 brigand
 brigandage
 brigander
+bridemaiden
 brigandine
 brigandish
 brigandishly
