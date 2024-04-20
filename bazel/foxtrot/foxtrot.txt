@@ -6300,6 +6300,7 @@ fingerflower
 fluidizes
 fluidmeter
 faulted
+forceful
 fawnery
 fluidness
 fluidounce
@@ -7437,7 +7438,6 @@ foreroom
 frankenia
 firebird
 fogle
-forceful
 forceless
 forcelessness
 forcelet
