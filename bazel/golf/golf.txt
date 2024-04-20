@@ -4462,7 +4462,6 @@ gunky
 greengrocer
 ginglymostomoid
 gashest
-ginglyni
 glaive
 ginhound
 ginhouse
@@ -6795,6 +6794,7 @@ goniatitic
 goniatitid
 goosey
 guid
+ginglyni
 grey
 gonycampsis
 gonid
