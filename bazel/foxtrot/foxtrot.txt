@@ -8323,6 +8323,7 @@ fork
 forkbeard
 forked
 forkedness
+frostbites
 forkers
 forkfuls
 forkhead
@@ -10516,7 +10517,6 @@ flyblew
 forbodes
 flavorful
 frostbite
-frostbites
 frostbiting
 favella
 forcite
