@@ -201,7 +201,6 @@ enddamaged
 earthworms
 earwax
 earwaxes
-executions
 earwigged
 eidolic
 earwigginess
@@ -5035,6 +5034,7 @@ endocellular
 extramarital
 endoceras
 endoceratidae
+executions
 endoceratite
 endocervical
 elachista
