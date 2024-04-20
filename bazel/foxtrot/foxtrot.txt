@@ -5858,7 +5858,6 @@ fust
 flocculency
 flocculent
 floccules
-flocculi
 frigidoreceptor
 flocculose
 flocculus
@@ -11751,6 +11750,7 @@ fuzziness
 flacianism
 foo
 fv
+flocculi
 fw
 fwelling
 fz
