@@ -2955,7 +2955,6 @@ acromiohyoid
 adjournment
 areometer
 acromiohumeral
-acromion
 acromioscapular
 amphibalus
 acromiosternal
@@ -10320,6 +10319,7 @@ amerceable
 archivers
 amerced
 amercement
+acromion
 amercements
 amercer
 amercers
