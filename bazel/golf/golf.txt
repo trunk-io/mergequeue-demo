@@ -4805,7 +4805,6 @@ glutin
 gamosepalous
 girtonian
 girts
-gyrus
 gis
 gemmed
 goldylocks
@@ -6522,6 +6521,7 @@ gaugership
 goitrogen
 goldilocks
 gunmaker
+gyrus
 grotto
 goitrogenic
 goitrous

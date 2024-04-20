@@ -5700,7 +5700,6 @@ catchpoll
 catchpollery
 catchpolling
 copperheads
-catchup
 catchwater
 contribute
 catchweight
@@ -11034,6 +11033,7 @@ chirrupper
 chirrups
 chirt
 chiru
+catchup
 chirurgeon
 chirurgeonly
 chirurgery
