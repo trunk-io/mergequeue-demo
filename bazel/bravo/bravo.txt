@@ -12961,7 +12961,6 @@ borderlight
 borderline
 bowsery
 bordermark
-blastoporphyritic
 bordman
 bordrag
 bordrage
@@ -15296,6 +15295,7 @@ bot
 briefest
 briefing
 briefings
+blastoporphyritic
 blisterwort
 brieflessly
 brieflessness
