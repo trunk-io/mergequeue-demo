@@ -6175,7 +6175,6 @@ fecalith
 flowerpecker
 fanfaronading
 furca
-flowerpot
 flowerwork
 flowing
 fresnel
@@ -9640,6 +9639,7 @@ freaks
 fream
 forfear
 fellage
+flowerpot
 festive
 floristic
 frecket
