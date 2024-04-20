@@ -482,7 +482,6 @@ fakery
 faki
 faky
 fakiness
-footmaker
 faking
 fakir
 fakirs
@@ -8954,6 +8953,7 @@ foulbrood
 foulder
 fouled
 fouler
+footmaker
 falsificator
 fermenting
 falsifies
