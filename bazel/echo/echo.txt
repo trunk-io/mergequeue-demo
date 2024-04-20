@@ -11359,6 +11359,7 @@ evaporable
 evaporate
 ectoplasy
 eutaxy
+epiblastema
 evaporated
 evaporates
 enemylike
@@ -12262,7 +12263,6 @@ execration
 echiurida
 execrations
 execrative
-epiblastema
 execratively
 execrator
 emusive
