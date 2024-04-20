@@ -2694,6 +2694,7 @@ decontaminators
 decontrol
 dustoor
 dvornik
+duci
 decontrolled
 dermahemia
 deconvolution
@@ -6500,7 +6501,6 @@ descendentalistic
 descender
 descendibility
 descendible
-duci
 descending
 descendingly
 descends
