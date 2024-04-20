@@ -1966,6 +1966,7 @@ decagrams
 decahedra
 decahedral
 decahedron
+degamis
 damageableness
 decahedrons
 decahydrate
@@ -3550,7 +3551,6 @@ degage
 dilatations
 degame
 degames
-degamis
 deganglionate
 degas
 degases
