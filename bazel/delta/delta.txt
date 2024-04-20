@@ -12940,6 +12940,7 @@ dispassion
 dioecism
 dispassionate
 deathful
+druid
 dispassionateness
 daughterhood
 dispassioned
@@ -17560,7 +17561,6 @@ drugman
 drugs
 demoniacal
 drugstores
-druid
 druidess
 druidic
 druidical
