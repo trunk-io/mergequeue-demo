@@ -2446,6 +2446,7 @@ goodnesses
 gelder
 geldesprung
 gelding
+generalizeable
 geldings
 gelds
 gelechia
@@ -2680,7 +2681,6 @@ generalizations
 generalize
 genl
 gyrations
-generalizeable
 genappe
 generalized
 gloeocapsoid
