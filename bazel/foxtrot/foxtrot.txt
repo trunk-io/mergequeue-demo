@@ -35,7 +35,6 @@ fabricator
 flybane
 fabricators
 fabricature
-faffy
 fabrics
 filters
 futurities
@@ -2331,6 +2330,7 @@ fenderless
 fenders
 fendillation
 fending
+faffy
 fends
 filches
 fenestellid
