@@ -11709,7 +11709,6 @@ choluria
 choluteca
 chomage
 chomped
-chomper
 chompers
 chomping
 chomps
@@ -24124,6 +24123,7 @@ conversions
 catoptrics
 conversive
 converso
+chomper
 conversusi
 convert
 convertaplane
