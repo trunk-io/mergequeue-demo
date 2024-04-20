@@ -1064,7 +1064,6 @@ farmable
 farmed
 farmer
 farmeress
-farmery
 farmerish
 farmerly
 fireworm
@@ -11059,6 +11058,7 @@ fuses
 fumer
 fuseplug
 freakery
+farmery
 fumeroot
 fritts
 fumes
