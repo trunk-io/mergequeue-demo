@@ -10916,7 +10916,6 @@ echinid
 euripos
 ermelin
 euosmite
-euouae
 eupad
 eupanorthidae
 eupanorthus
@@ -11543,6 +11542,7 @@ evertebrata
 evertebrate
 everting
 everted
+euouae
 evertor
 evertors
 everts
