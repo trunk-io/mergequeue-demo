@@ -6432,7 +6432,6 @@ bipolarize
 benzdifuran
 benzdioxazine
 benzdioxdiazine
-benzdioxtriazine
 benzein
 benzene
 bastian
@@ -16348,6 +16347,7 @@ brunonism
 brunswick
 bromellite
 brunts
+benzdioxtriazine
 butling
 bruscha
 brushability
