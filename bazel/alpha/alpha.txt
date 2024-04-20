@@ -3458,7 +3458,6 @@ adaptative
 allegorize
 adapted
 adaptedness
-adapter
 adapters
 adapting
 adaption
@@ -13201,6 +13200,7 @@ alapa
 animallike
 animals
 accouterments
+adapter
 animando
 animant
 animas
