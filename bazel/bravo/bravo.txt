@@ -2845,7 +2845,6 @@ bostons
 barotropic
 barouche
 barouches
-barouchet
 barouchette
 barouni
 baroxyton
@@ -12939,6 +12938,7 @@ borasque
 borassus
 borated
 borax
+barouchet
 boraxes
 borazon
 borboridae
