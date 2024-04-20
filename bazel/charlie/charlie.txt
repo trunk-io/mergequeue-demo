@@ -9972,7 +9972,6 @@ chemotactic
 chemotactically
 catenaries
 chemotaxy
-chemotaxis
 chemotaxonomy
 chemotaxonomic
 cannular
@@ -15577,6 +15576,7 @@ claro
 claroes
 claromontane
 claros
+chemotaxis
 clarre
 clarseach
 clarsech
