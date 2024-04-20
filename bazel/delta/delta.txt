@@ -2469,7 +2469,6 @@ decker
 deckhand
 duckwing
 deckhead
-decking
 deckle
 deckman
 deckpipe
@@ -10116,6 +10115,7 @@ dyne
 dynel
 diner
 dinergate
+decking
 dinero
 diners
 digestive
