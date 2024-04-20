@@ -1614,7 +1614,6 @@ deaminase
 deaminate
 deaminated
 deaminating
-durango
 dowel
 deamination
 deaminize
@@ -14448,6 +14447,7 @@ divisibilities
 divisible
 divisibleness
 division
+durango
 dollop
 divisional
 diachronicness
