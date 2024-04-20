@@ -5409,6 +5409,7 @@ castrametation
 castrated
 castrater
 castrates
+comdt
 classic
 castrati
 castration
@@ -19798,7 +19799,6 @@ catapulting
 comdg
 comdia
 comdr
-comdt
 come
 comeatable
 comebacker

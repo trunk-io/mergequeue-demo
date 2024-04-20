@@ -10715,7 +10715,6 @@ amissible
 amissing
 amita
 amitabha
-amytal
 amitate
 amitie
 arcubalister
@@ -20942,6 +20941,7 @@ ascariasis
 ascaricidal
 ascaricide
 ascarid
+amytal
 ascaridae
 ascarides
 altaic
