@@ -26593,7 +26593,6 @@ coulters
 coulthard
 coulure
 coumalic
-coumalin
 coumaphos
 coumara
 coumaran
@@ -30941,6 +30940,7 @@ cumbu
 cumengite
 cumenyl
 cumhal
+coumalin
 cumic
 cumidine
 campanian
