@@ -5643,7 +5643,6 @@ belay
 belayed
 belayer
 belaying
-belait
 biface
 belam
 belamcanda
@@ -16613,6 +16612,7 @@ beclad
 buckeyed
 bucker
 belloot
+belait
 buckers
 bradyauxetic
 befringed
