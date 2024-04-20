@@ -1911,7 +1911,6 @@ bandlimited
 breadwinners
 bandlimiting
 bandlimits
-bandman
 bandmaster
 bandmasters
 bando
@@ -15880,6 +15879,7 @@ battle
 beforehandedness
 bromoiodized
 bromoketone
+bandman
 bromol
 bromomania
 bromomethane
