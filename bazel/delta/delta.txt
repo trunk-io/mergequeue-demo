@@ -3819,7 +3819,6 @@ deyhouse
 defail
 deil
 deils
-defeasibleness
 disjecting
 duplexed
 deimos
@@ -6091,6 +6090,7 @@ dequeues
 dequeuing
 dropshots
 der
+defeasibleness
 derabbinize
 deboites
 deracinate
