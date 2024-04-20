@@ -8772,6 +8772,7 @@ electricity
 equivalvular
 encinas
 equivelocity
+extents
 equivocacy
 equivocal
 equivocally
@@ -13583,7 +13584,6 @@ extensory
 extensors
 extensure
 extentions
-extents
 extenuate
 extenuates
 extenuatingly
