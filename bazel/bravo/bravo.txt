@@ -10135,6 +10135,7 @@ blackfins
 blackfire
 blackfish
 batster
+burntness
 bas
 batholite
 blackfishes
@@ -17806,7 +17807,6 @@ burnsides
 burnt
 backfill
 burntly
-burntness
 burntweed
 burnup
 burnweed
