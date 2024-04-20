@@ -3919,7 +3919,6 @@ diaphany
 dekadarchy
 dekadrachm
 dekagramme
-dekagrams
 doggerelize
 delundung
 damper
@@ -12551,6 +12550,7 @@ disyntheme
 disintoxication
 deliberator
 dosimeters
+dekagrams
 disintrench
 dysyntribite
 disintricate
