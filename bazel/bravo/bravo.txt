@@ -2856,7 +2856,6 @@ barque
 barquest
 barquette
 bigoted
-barr
 barrabkie
 barrable
 bumbledom
@@ -15961,6 +15960,7 @@ bronchos
 bronchoscope
 bronchoscopy
 bronchoscopic
+barr
 bronchoscopist
 bronchospasm
 blenches

@@ -473,7 +473,6 @@ cashier
 caddie
 caddies
 cottons
-caddiing
 clinics
 chincough
 cadding
@@ -29690,6 +29689,7 @@ countermissile
 cromwellian
 cronartium
 crone
+caddiing
 cronel
 crones
 cronet
