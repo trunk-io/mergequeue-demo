@@ -1257,7 +1257,6 @@ eellike
 eelpouts
 eelshop
 eelskin
-eelware
 eelworm
 estragon
 eelworms
@@ -4495,6 +4494,7 @@ encephalograph
 encephalographic
 encephalographically
 enamelling
+eelware
 encephaloid
 enforcing
 eromania
