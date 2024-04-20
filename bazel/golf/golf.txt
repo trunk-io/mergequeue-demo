@@ -5192,6 +5192,7 @@ glassteel
 gnathic
 guestship
 glasswork
+gutturality
 guider
 glassworker
 glassworkers
@@ -10469,7 +10470,6 @@ greenbacks
 guiled
 gunda
 gundelow
-gutturality
 gimmicks
 gypsous
 ghawazee
