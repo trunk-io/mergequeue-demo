@@ -3723,7 +3723,6 @@ battalion
 battarismus
 batteaux
 bonnering
-batteler
 batteling
 bratticer
 bascule
@@ -9461,6 +9460,7 @@ bonedog
 birefraction
 birefringent
 byreman
+batteler
 bireme
 bookholder
 birettas
