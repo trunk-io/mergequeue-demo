@@ -6747,7 +6747,6 @@ fuseless
 flightshot
 fogo
 fogon
-frenzic
 fogproof
 fogram
 fogramity
@@ -8786,6 +8785,7 @@ fullfil
 forward
 forwardal
 frescoer
+frenzic
 forwarded
 forwarder
 filth
