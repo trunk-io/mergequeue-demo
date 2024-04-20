@@ -987,7 +987,6 @@ absolve
 absolved
 absolvent
 absolver
-absolvers
 absolves
 absolving
 absolvitor
@@ -19574,6 +19573,7 @@ argled
 argles
 argling
 argoan
+absolvers
 afforestational
 argol
 argolet
