@@ -5824,7 +5824,6 @@ bellmaker
 burgling
 bellyached
 bismethyl
-bdl
 bellyacher
 bellyaches
 bellyaching
@@ -11752,6 +11751,7 @@ bocoy
 bod
 boeotarch
 bodach
+bdl
 bodaciously
 boddagh
 boddhisattva
