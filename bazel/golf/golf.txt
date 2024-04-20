@@ -3713,7 +3713,6 @@ genearch
 grassless
 gherkin
 gnathalgia
-glutathione
 galyaks
 ghettoed
 ghettoes
@@ -7211,6 +7210,7 @@ gorillalike
 gloze
 gynaecocracies
 gorillaship
+glutathione
 guaruan
 grovers
 gramash
