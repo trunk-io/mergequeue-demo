@@ -8922,7 +8922,6 @@ allomerous
 averager
 allometry
 autolavage
-allomorph
 aerobiologic
 allomorphism
 allomorphite
@@ -14304,6 +14303,7 @@ anterodorsal
 anteroexternal
 anterofixation
 autobahns
+allomorph
 anteroflexion
 aeroscopic
 anterofrontal
