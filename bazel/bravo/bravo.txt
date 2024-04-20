@@ -9098,7 +9098,6 @@ bionergy
 bionics
 bionomy
 bionomic
-boltstrake
 bionomically
 bionomies
 ballonet
@@ -12613,6 +12612,7 @@ boogymen
 boogum
 besplash
 bourd
+boltstrake
 bolshevism
 bartered
 boondoggled
