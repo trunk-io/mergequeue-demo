@@ -8423,7 +8423,6 @@ dialogistical
 departements
 dolia
 detention
-dialogize
 divia
 dialogized
 demipremiss
@@ -17547,6 +17546,7 @@ despeed
 duplon
 deliverability
 druggery
+dialogize
 druggeries
 drugget
 druggeting
