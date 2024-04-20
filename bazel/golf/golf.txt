@@ -4722,7 +4722,6 @@ glossae
 gyro
 gyroceran
 gallery
-guildsman
 golliwogg
 gorkhali
 gyrocompasses
@@ -7813,6 +7812,7 @@ guardstone
 gelatification
 gramme
 groggiest
+guildsman
 grammel
 grammy
 gramoches
