@@ -4490,7 +4490,6 @@ exocolitis
 emprosthotonus
 emulators
 encephalitogenic
-encephalocele
 elotherium
 encephalograph
 encephalographic
@@ -9627,6 +9626,7 @@ escribientes
 escrime
 escript
 escritoire
+encephalocele
 escritorial
 exotoxin
 escrod
