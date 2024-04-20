@@ -9853,7 +9853,6 @@ chemicoluminescent
 chemicomineralogical
 chemicopharmaceutical
 chemicophysical
-chemicophysics
 cresses
 chemicophysiological
 curtaining
@@ -27442,6 +27441,7 @@ couthly
 coutil
 coupleteer
 confeder
+chemicophysics
 coutumier
 couture
 coutures
