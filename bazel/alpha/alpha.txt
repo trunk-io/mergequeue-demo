@@ -5138,7 +5138,6 @@ aerosols
 aerostat
 aerostatic
 aerostatical
-aerostatics
 amalett
 aerostats
 aerosteam
@@ -17586,6 +17585,7 @@ appanaging
 audiogenic
 appanagist
 anagogically
+aerostatics
 appar
 apparail
 apparat
