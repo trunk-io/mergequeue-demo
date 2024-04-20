@@ -3591,6 +3591,7 @@ degass
 degassed
 degassing
 degauss
+dunnesses
 degaussing
 degelatinize
 diatonous
@@ -18258,7 +18259,6 @@ demiourgoi
 dunned
 dunner
 dunness
-dunnesses
 dunny
 defence
 dunniewassel
