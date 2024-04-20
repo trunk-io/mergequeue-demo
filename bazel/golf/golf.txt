@@ -1685,7 +1685,6 @@ gasteropoda
 gasterosteus
 gastful
 gallons
-gasthauser
 gastight
 gasting
 gastly
@@ -2577,6 +2576,7 @@ graniferous
 glycohemia
 gemological
 gemologist
+gasthauser
 gemot
 gemote
 gemotes
