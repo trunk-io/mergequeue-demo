@@ -5444,7 +5444,6 @@ alkines
 affordable
 affording
 akaroa
-afforest
 afforestable
 afforested
 afforesting
@@ -22029,6 +22028,7 @@ aramu
 astigmatoscopies
 astartian
 astartidae
+afforest
 astasia
 astasias
 astatic
