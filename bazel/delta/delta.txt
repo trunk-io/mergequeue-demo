@@ -9224,7 +9224,6 @@ decahedrodra
 dieldrins
 dyeleaves
 dielectric
-dielectrical
 dielectrically
 discontinuor
 debarkation
@@ -9399,6 +9398,7 @@ diffracts
 diffranchise
 diffrangible
 diffugient
+dielectrical
 discontentive
 diffusate
 diffused
