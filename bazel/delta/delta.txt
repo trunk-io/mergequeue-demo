@@ -1116,7 +1116,6 @@ digests
 dasypaedic
 dasiphora
 dasypod
-dasypodoid
 diagenetically
 dasypus
 dasystephana
@@ -4789,6 +4788,7 @@ demivolte
 disparpling
 demivolts
 demivotary
+dasypodoid
 demiwivern
 demiwolf
 demnition
