@@ -6228,7 +6228,6 @@ grizelin
 gnathopodous
 gnathostomata
 gnathostome
-gnathostomi
 gnathotheca
 gillot
 gnatlike
@@ -8456,6 +8455,7 @@ gauffering
 gravitative
 glabriety
 gravity
+gnathostomi
 gossipiness
 gravitic
 governante
