@@ -2489,7 +2489,6 @@ declarators
 declare
 declaredly
 declaredness
-declarer
 doorjamb
 declarers
 declares
@@ -15436,6 +15435,7 @@ donatee
 donatiaceae
 donatio
 donation
+declarer
 donationes
 donor
 donatist
