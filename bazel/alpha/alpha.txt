@@ -6885,6 +6885,7 @@ airdock
 airdrome
 airdromes
 airdrop
+alanyls
 airdropped
 airdropping
 airdrops
@@ -11151,7 +11152,6 @@ antinoise
 amphigamous
 amphigastria
 amphigastrium
-alanyls
 arborise
 amphigastrula
 amphigean
