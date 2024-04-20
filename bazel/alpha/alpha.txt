@@ -12594,7 +12594,6 @@ anesthesiologies
 alumstone
 anesthesiologists
 anesthesis
-allergens
 anesthetically
 anesthetics
 anesthetists
@@ -13264,6 +13263,7 @@ anyone
 adendric
 anionic
 anions
+allergens
 aniridia
 anisado
 anabolic
