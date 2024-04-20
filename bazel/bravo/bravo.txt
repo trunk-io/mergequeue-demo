@@ -15380,7 +15380,6 @@ bayonet
 brilliants
 brilliantwise
 brilliolette
-brillolette
 brills
 brimborion
 brimborium
@@ -17255,6 +17254,7 @@ bultey
 bultell
 bulten
 bulter
+brillolette
 bandores
 blatti
 bultong
