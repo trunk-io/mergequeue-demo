@@ -1308,7 +1308,6 @@ gasteropod
 gar
 glossectomies
 garad
-gluemaker
 gutturopalatal
 garage
 garaged
@@ -6144,6 +6143,7 @@ glutethimide
 gluteus
 grogs
 glutimate
+gluemaker
 glutinative
 gustatorily
 glutinize
