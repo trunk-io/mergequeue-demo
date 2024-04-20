@@ -5627,7 +5627,6 @@ afterdeath
 afterdeck
 afterdrain
 aftereffect
-aftereffects
 afterfame
 afterfeed
 afterform
@@ -14787,6 +14786,7 @@ antiatheistical
 amphithyrons
 antiatheistically
 antiatom
+aftereffects
 antiatoms
 antiattrition
 antiauthoritarian
