@@ -2092,7 +2092,6 @@ gauss
 gimbri
 gaussage
 gaussbergite
-gausses
 gaussian
 gaskings
 gageite
@@ -7910,6 +7909,7 @@ guidonian
 gata
 grandly
 grandma
+gausses
 grandmamma
 grandmammy
 grandmas
