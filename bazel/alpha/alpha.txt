@@ -3259,6 +3259,7 @@ activital
 activity
 activities
 activize
+assertative
 activized
 assailability
 admonishing
@@ -21711,7 +21712,6 @@ asseour
 assert
 asserta
 assertable
-assertative
 asserted
 autocorrelate
 assertedly
