@@ -2442,7 +2442,6 @@ goodwill
 griffinish
 goodnesses
 gelder
-gobmouthed
 geldesprung
 gelding
 geldings
@@ -6790,6 +6789,7 @@ goniaster
 gumbotil
 goniatites
 grint
+gobmouthed
 goniatitic
 goniatitid
 goosey
