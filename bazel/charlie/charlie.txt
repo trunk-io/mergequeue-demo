@@ -4661,6 +4661,7 @@ carpal
 carpale
 carpalia
 carpals
+chela
 carpathian
 carpe
 carped
@@ -24077,7 +24078,6 @@ converges
 convergescence
 converginerved
 converging
-chela
 conversable
 conversableness
 conversancy
