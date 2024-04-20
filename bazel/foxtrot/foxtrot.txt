@@ -4342,6 +4342,7 @@ fylker
 forbearer
 firster
 feerie
+focally
 firsthand
 firstly
 firstlings
@@ -6651,7 +6652,6 @@ focalization
 focalize
 focalizes
 forbye
-focally
 focaloid
 fixtures
 focimeter
