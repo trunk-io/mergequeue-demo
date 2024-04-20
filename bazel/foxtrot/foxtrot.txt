@@ -547,7 +547,6 @@ flummox
 fall
 fissirostral
 falla
-fallace
 feltlike
 foretalk
 flyability
@@ -2275,6 +2274,7 @@ feminities
 feminization
 fibrobronchitis
 feminizing
+fallace
 feminology
 feminologist
 filesave

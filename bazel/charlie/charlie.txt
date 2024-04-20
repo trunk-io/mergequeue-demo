@@ -2960,7 +2960,6 @@ cantos
 confronts
 cantraip
 cantraips
-cantrap
 cantraps
 cantred
 cantrip
@@ -13061,6 +13060,7 @@ cyanocobalamine
 cyanocrystallin
 cyanoderma
 cyanoethylate
+cantrap
 cyanoethylation
 cataphasia
 cyanogen
