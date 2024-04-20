@@ -549,7 +549,6 @@ expy
 electronographic
 echinital
 echinite
-echinocactus
 echinocaris
 echinocereus
 echinochrome
@@ -9795,6 +9794,7 @@ espec
 ependymitis
 especially
 especialness
+echinocactus
 esperance
 esperantido
 escribano
