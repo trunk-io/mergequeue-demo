@@ -7552,7 +7552,6 @@ demonization
 dehydrogenation
 devadasi
 deval
-devall
 devaloka
 deafnesses
 devalorize
@@ -12427,6 +12426,7 @@ demodulations
 disimitate
 disingenuity
 disimitation
+devall
 disimpark
 disimpassioned
 disimprison
