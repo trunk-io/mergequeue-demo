@@ -4288,7 +4288,6 @@ ges
 gymnostomata
 gymnostomous
 glycerizine
-gymnothorax
 grotesquery
 gymnotus
 gymnura
@@ -9718,6 +9717,7 @@ grun
 gtt
 grundy
 grundified
+gymnothorax
 gerents
 grundyism
 grundlov
