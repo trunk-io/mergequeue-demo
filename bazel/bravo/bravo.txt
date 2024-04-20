@@ -4963,7 +4963,6 @@ beefishness
 beefless
 bristle
 beefsteak
-beefsteaks
 beeftongue
 beefwood
 beefwoods
@@ -12709,6 +12708,7 @@ bookmobile
 bookmobiles
 baroni
 barwise
+beefsteaks
 bookpress
 bookrack
 bookracks
