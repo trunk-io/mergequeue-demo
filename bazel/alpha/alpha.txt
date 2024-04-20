@@ -5966,7 +5966,6 @@ agelast
 antidominican
 agelaus
 aristocracies
-ageless
 agranulocyte
 agelessness
 agelong
@@ -19134,6 +19133,7 @@ archivists
 archivolt
 archjockey
 archknave
+ageless
 archlet
 absinthin
 archleveler
