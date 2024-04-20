@@ -7400,6 +7400,7 @@ cephalodia
 cephalodymia
 cephalodymus
 cephalodiscid
+checkweigher
 cryophoric
 cephalodiscida
 cephalodiscus
@@ -9608,7 +9609,6 @@ construct
 checksummed
 checksumming
 checkups
-checkweigher
 capacitively
 checkweighman
 checkweighmen
