@@ -994,7 +994,6 @@ calcanean
 calcanei
 calcaneoastragalar
 calcaneoastragaloid
-calcaneocuboid
 calcaneonavicular
 calcaneoplantar
 countersale
@@ -6214,6 +6213,7 @@ collieries
 cauld
 cauldrife
 ctenoidei
+calcaneocuboid
 cauldrifeness
 cauldrons
 cottar
