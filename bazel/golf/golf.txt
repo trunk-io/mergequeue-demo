@@ -396,7 +396,6 @@ galagos
 galahads
 gynobasic
 galangin
-galany
 goto
 gauntries
 grieved
@@ -8446,6 +8445,7 @@ gravigrada
 gravimetry
 graving
 gravipause
+galany
 gravisphere
 gravispheric
 gravitated
