@@ -6054,7 +6054,6 @@ enmew
 enmity
 ethicizes
 enmities
-enmoss
 enmove
 enmuffle
 enneacontahedron
@@ -13793,6 +13792,7 @@ extracivic
 extracivically
 extraclassroom
 extraclaustral
+enmoss
 extracloacal
 extracollegiate
 extracolumella
