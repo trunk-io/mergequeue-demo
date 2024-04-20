@@ -4447,6 +4447,7 @@ gradation
 gingersnaps
 gingerspice
 gingerwort
+globularity
 goodwilled
 glockenspiel
 gingiva
@@ -5666,7 +5667,6 @@ globularia
 globulariaceae
 globulariaceous
 globelike
-globularity
 gelilah
 ganglioneuroma
 gainsome
