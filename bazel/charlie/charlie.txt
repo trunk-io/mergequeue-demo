@@ -11943,7 +11943,6 @@ choregi
 choregy
 characteristical
 choregrapher
-choregraphy
 choregraphic
 choregraphically
 choregus
@@ -31477,6 +31476,7 @@ curse
 cursed
 curseder
 cursedest
+choregraphy
 cursedly
 cursedness
 cursement
