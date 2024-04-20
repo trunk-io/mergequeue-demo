@@ -4145,7 +4145,6 @@ grimy
 gilliflower
 gillyflower
 gentamicin
-gillygaupus
 gillying
 gillion
 gilliver
@@ -10363,6 +10362,7 @@ gulosity
 gulosities
 grein
 gillbird
+gillygaupus
 gulp
 gulpers
 growing
