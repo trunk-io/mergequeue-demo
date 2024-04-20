@@ -6524,7 +6524,6 @@ describability
 degradedness
 dactyliomancy
 describable
-describably
 described
 describers
 describes
@@ -13893,6 +13892,7 @@ dystopias
 dolichosaur
 distort
 disquixote
+describably
 distortable
 depriving
 distorted
