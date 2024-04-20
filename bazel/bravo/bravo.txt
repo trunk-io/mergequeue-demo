@@ -10754,7 +10754,6 @@ blennoptysis
 blennorhea
 breakfasters
 blennorrhagia
-blennorrhagic
 blennorrhea
 blennorrhinia
 blennorrhoea
@@ -15937,6 +15936,7 @@ brutish
 bronchocephalitis
 bronchoconstriction
 benzaldiphenyl
+blennorrhagic
 bronchoconstrictor
 biffy
 bronchodilator
