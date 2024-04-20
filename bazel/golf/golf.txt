@@ -1141,6 +1141,7 @@ ganglionic
 genialize
 grimgribber
 ganglionless
+glutamic
 gyrolite
 ganglions
 ganglioplexus
@@ -6115,7 +6116,6 @@ gluside
 glutamate
 geic
 geodesics
-glutamic
 glutaminase
 gazing
 gallegan
