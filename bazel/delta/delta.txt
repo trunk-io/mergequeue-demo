@@ -3125,6 +3125,7 @@ defamation
 defamations
 defamatory
 defame
+dentated
 defamed
 defamer
 defames
@@ -5355,7 +5356,6 @@ dentaphone
 dentary
 dentata
 dentate
-dentated
 demonolatry
 dentation
 dentatoangulate
