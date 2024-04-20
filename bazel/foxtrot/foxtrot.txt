@@ -1495,7 +1495,6 @@ filmable
 faucet
 fortepiano
 fauchards
-fumettes
 faucitis
 faucre
 feudalities
@@ -5020,6 +5019,7 @@ flappy
 flapping
 flywire
 fuligo
+fumettes
 fitched
 formularise
 flaps
