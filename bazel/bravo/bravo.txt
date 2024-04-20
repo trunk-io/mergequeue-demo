@@ -4538,7 +4538,6 @@ bestuur
 becomed
 becomes
 becometh
-becoming
 becomingly
 becomingness
 becompass
@@ -5109,6 +5108,7 @@ befavour
 biglenoid
 befeather
 befell
+becoming
 beferned
 befetished
 befetter

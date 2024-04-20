@@ -12842,7 +12842,6 @@ assistive
 angiosporous
 angiostegnosis
 angiostenosis
-angiostomy
 angiostomize
 angiostrophy
 angiotasis
@@ -23697,6 +23696,7 @@ alights
 austausch
 austemper
 austenite
+angiostomy
 aspermia
 austenitic
 austenitize
