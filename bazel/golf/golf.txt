@@ -4119,7 +4119,6 @@ gymnoconia
 gradometer
 giliak
 gill
-gillar
 gunating
 germander
 gilled
@@ -9973,6 +9972,7 @@ geitjie
 guavaberry
 grunswel
 guaza
+gillar
 guazuma
 gubat
 guillevat
