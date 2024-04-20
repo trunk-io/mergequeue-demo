@@ -12776,7 +12776,6 @@ boomkin
 boomkins
 bootes
 barnabite
-boomlets
 booms
 boomslang
 boomslange
@@ -17732,6 +17731,7 @@ burlace
 birgus
 blackfin
 burlaps
+boomlets
 buicks
 burleycue
 burler
