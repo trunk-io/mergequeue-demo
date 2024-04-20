@@ -5023,7 +5023,6 @@ basement
 beermaker
 beermaking
 beermonger
-beerocracy
 braggartry
 beefers
 beerpull
@@ -12726,6 +12725,7 @@ buds
 bookstand
 bookstore
 bookstores
+beerocracy
 biforked
 baskerville
 bonks
