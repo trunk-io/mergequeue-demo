@@ -10128,7 +10128,6 @@ estrogenic
 estrogenicity
 estrogens
 escort
-estrone
 estrones
 estruation
 elk
@@ -11722,6 +11721,7 @@ extratensive
 exactor
 exactors
 exactress
+estrone
 electrophone
 exacuate
 exhance
