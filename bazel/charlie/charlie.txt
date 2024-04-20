@@ -14284,7 +14284,6 @@ circumambient
 circumambiently
 circumambulate
 circumambulated
-circumambulates
 circumambulation
 circumambulations
 compose
@@ -16403,6 +16402,7 @@ clistothecia
 clistothecium
 clit
 clitch
+circumambulates
 clite
 clitella
 clitellar
