@@ -5952,7 +5952,6 @@ frigidity
 featherbedding
 floorcloths
 floored
-flooring
 foreclosable
 fluidizing
 floors
@@ -8743,6 +8742,7 @@ fortifier
 florets
 fortifiers
 fortifies
+flooring
 fafnir
 fortifying
 fortifyingly
