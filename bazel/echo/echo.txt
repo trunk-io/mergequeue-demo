@@ -6610,6 +6610,7 @@ eristics
 excluding
 enteroclysis
 enterococcal
+esperantidist
 enterococcus
 enterocoel
 enterocoela
@@ -10136,7 +10137,6 @@ estrone
 estrones
 estruation
 elk
-esperantidist
 estrums
 estruses
 erythrodextrin
