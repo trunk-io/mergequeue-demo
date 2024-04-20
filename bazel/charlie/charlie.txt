@@ -6322,7 +6322,6 @@ causeuses
 cajaput
 causeway
 causewayed
-cynomorpha
 causewaying
 causewayman
 causidical
@@ -24491,6 +24490,7 @@ copaline
 copalite
 copalm
 copals
+cynomorpha
 coparallel
 convincers
 coparcenar
