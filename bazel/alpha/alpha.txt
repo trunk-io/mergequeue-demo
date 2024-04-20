@@ -4237,7 +4237,6 @@ adnephrine
 americanizer
 adnerval
 armsize
-adneural
 adnex
 adnexal
 adnexed
@@ -20154,6 +20153,7 @@ accipitral
 antienthusiasm
 aromatophor
 aromatophore
+adneural
 aromatous
 aronia
 austrogaean
