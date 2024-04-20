@@ -4256,7 +4256,6 @@ fireplug
 frieze
 fireplugs
 firepot
-fireproofed
 fireroom
 ferroconcretor
 firerooms
@@ -6619,6 +6618,7 @@ footcloth
 fnese
 fo
 foal
+fireproofed
 foaled
 foalfoot
 foalfoots

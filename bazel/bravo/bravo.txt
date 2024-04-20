@@ -4221,6 +4221,7 @@ beartongue
 birdwatch
 bearward
 bearwort
+boanthropy
 beastbane
 beasthood
 beasties
@@ -11543,7 +11544,6 @@ boanbura
 boanerges
 boanergism
 bisontine
-boanthropy
 board
 boardbill
 boarded
