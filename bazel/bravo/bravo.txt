@@ -2843,7 +2843,6 @@ barouchette
 barouni
 baroxyton
 barque
-barquest
 barquette
 bigoted
 barrabkie
@@ -3132,6 +3131,7 @@ bibliotheca
 biphase
 balneotherapeutics
 baseplate
+barquest
 branchway
 baseplug
 basepoint
