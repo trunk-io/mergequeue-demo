@@ -2993,7 +2993,6 @@ fleches
 feulamort
 formulary
 freezed
-feus
 fever
 feverberry
 feverberries
@@ -8235,6 +8234,7 @@ forficulate
 fioriture
 forficulidae
 furtherance
+feus
 forfouchten
 forfoughten
 finestra
