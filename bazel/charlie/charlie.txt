@@ -16767,7 +16767,6 @@ clou
 cinnyl
 cloudage
 cloudberry
-cloudberries
 cloudbursts
 cloudcap
 cloudful
@@ -26305,6 +26304,7 @@ catechisms
 costotransverse
 costovertebral
 costraight
+cloudberries
 choleromania
 costrels
 costs
