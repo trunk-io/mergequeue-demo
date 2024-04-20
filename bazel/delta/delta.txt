@@ -15042,7 +15042,6 @@ defectology
 dognapper
 dognaps
 dogplate
-dogproof
 dogra
 dogrib
 dreamwise
@@ -15877,6 +15876,7 @@ dosers
 dosimeter
 dosimetry
 dosimetric
+dogproof
 daffadillies
 dosimetrician
 dosimetries
