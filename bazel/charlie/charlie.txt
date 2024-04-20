@@ -20413,7 +20413,6 @@ compact
 compactability
 compactable
 compacted
-compactedly
 compactedness
 compacter
 compactible
@@ -21588,6 +21587,7 @@ cosounding
 concussion
 concussional
 cribbled
+compactedly
 cobbly
 crowners
 cathedrallike
