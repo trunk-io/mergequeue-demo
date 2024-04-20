@@ -5224,7 +5224,6 @@ gravest
 glauconiidae
 glauconitic
 glaucophanite
-glaucophanization
 gallish
 gammick
 glaucophanize
@@ -7795,6 +7794,7 @@ grammarless
 gieseckite
 gateau
 grammatically
+glaucophanization
 grammaticalness
 grammaticaster
 glazy
