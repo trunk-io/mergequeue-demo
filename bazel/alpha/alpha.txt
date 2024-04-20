@@ -7948,7 +7948,6 @@ alertest
 agrees
 alerting
 alertly
-alertness
 alerts
 ales
 alesan
@@ -19799,6 +19798,7 @@ aristarchian
 aristarchies
 aristate
 aristeas
+alertness
 aristeia
 aristida
 aristides
