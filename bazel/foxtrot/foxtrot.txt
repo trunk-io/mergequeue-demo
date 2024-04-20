@@ -7541,7 +7541,6 @@ forebode
 forebodement
 forebodes
 forebody
-forebodies
 folksongs
 foreboding
 forebodingness
@@ -8290,6 +8289,7 @@ flasher
 forgoes
 forgoing
 forgotten
+forebodies
 forgrow
 fricandeau
 forhaile
