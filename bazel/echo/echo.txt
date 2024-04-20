@@ -1456,7 +1456,6 @@ effund
 extrications
 empathic
 effused
-effusely
 effuses
 espiegle
 endosmometer
@@ -3767,6 +3766,7 @@ emend
 exscribe
 erythrons
 expendables
+effusely
 emendable
 emendandum
 emendated

@@ -1313,7 +1313,6 @@ acardite
 acarian
 acariasis
 acariatre
-acaricide
 acarid
 acaridan
 acaridans
@@ -21427,6 +21426,7 @@ aspergil
 aspergill
 aspergilla
 aspergillaceae
+acaricide
 aspergillales
 aspergilli
 antimark
