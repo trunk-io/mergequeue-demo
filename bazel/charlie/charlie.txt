@@ -1644,7 +1644,6 @@ calotte
 calottes
 calp
 calpac
-calpack
 calpacked
 calpacks
 calpacs
@@ -13593,6 +13592,7 @@ cylindrite
 cylindrocellular
 cylindrocephalic
 carnifying
+calpack
 cylindrocylindric
 cylindroconical
 cylindroconoidal
