@@ -8873,6 +8873,7 @@ flneur
 flon
 fossick
 fossicked
+froghopper
 fossicker
 fossicking
 fossified
@@ -10339,7 +10340,6 @@ foundries
 freeish
 froghood
 finn
-froghopper
 flintstone
 frogleg
 froglets

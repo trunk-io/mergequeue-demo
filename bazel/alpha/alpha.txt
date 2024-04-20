@@ -3592,7 +3592,6 @@ addresser
 addressers
 agrestis
 addresses
-auxetics
 addressful
 addressing
 acanthocephalan
@@ -13088,6 +13087,7 @@ anhydrously
 anhydroxime
 anhima
 anhimae
+auxetics
 anhimidae
 ancillas
 anhinga
