@@ -7745,7 +7745,6 @@ epidiascopic
 escallops
 epididymal
 epididymides
-epididymite
 epididymodeferentectomy
 embosom
 epididymodeferential
@@ -9956,6 +9955,7 @@ encatarrhaphy
 escapade
 estaminet
 estaminets
+epididymite
 emittance
 estampage
 estampede
