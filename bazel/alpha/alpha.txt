@@ -1378,7 +1378,6 @@ acatholic
 acaudate
 acaudelescent
 acaulescence
-anthracemia
 acaulescent
 acauline
 acaulose
@@ -8796,6 +8795,7 @@ alliterate
 alliterated
 alliterates
 alliteration
+anthracemia
 alliterational
 alliterationist
 alliterative
