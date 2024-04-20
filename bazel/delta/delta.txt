@@ -690,7 +690,6 @@ dampness
 dampproof
 dampproofer
 dampproofing
-dams
 damselfish
 damselfishes
 damselfly
@@ -3268,6 +3267,7 @@ disentangled
 defial
 durante
 defiant
+dams
 defiantly
 disjects
 defiantness
