@@ -2957,7 +2957,6 @@ barricade
 barricaded
 baryes
 brei
-barrette
 barricader
 barricaders
 bedplates
@@ -8079,6 +8078,7 @@ bichir
 bichloride
 bichlorides
 bichord
+barrette
 borazons
 bichos
 bichromate
