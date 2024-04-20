@@ -10973,7 +10973,6 @@ amort
 amuguis
 amortise
 audiologists
-amortises
 amortising
 amortissement
 amortisseur
@@ -17610,6 +17609,7 @@ apparatchiki
 alcyonaria
 apparatchiks
 apparation
+amortises
 apparats
 apparatus
 arist
