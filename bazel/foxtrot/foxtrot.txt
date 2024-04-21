@@ -6712,6 +6712,7 @@ flanger
 fog
 fogbank
 flyblow
+furriness
 fogdogs
 fairways
 fogdom
@@ -11485,7 +11486,6 @@ furrily
 furriner
 furriners
 fatback
-furriness
 feudist
 flaccidly
 feyer
