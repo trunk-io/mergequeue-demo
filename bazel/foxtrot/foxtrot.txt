@@ -2708,7 +2708,6 @@ feetage
 fopling
 forhoo
 ferter
-fertil
 fertile
 falsely
 flocculence
@@ -9360,6 +9359,7 @@ frances
 franchise
 franchisee
 franchisees
+fertil
 finings
 franchisers
 franchises
