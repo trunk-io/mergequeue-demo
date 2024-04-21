@@ -3525,6 +3525,7 @@ genes
 gershonite
 glovemen
 gestura
+goup
 gersum
 glottic
 gertie
@@ -7410,7 +7411,6 @@ goularo
 goulash
 goulashes
 goumi
-goup
 gruelling
 goupen
 grand
