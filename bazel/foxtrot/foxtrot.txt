@@ -5220,7 +5220,6 @@ fstore
 flavoured
 fableland
 flavourful
-flavoury
 florentinism
 forthbrought
 fieldy
@@ -10122,6 +10121,7 @@ frillings
 frills
 floscule
 frim
+flavoury
 frimaire
 fungus
 frontopontine
