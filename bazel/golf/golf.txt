@@ -1362,7 +1362,6 @@ geocentrical
 grallina
 garcinia
 garcon
-gardbrace
 garde
 gnatsnapper
 gable
@@ -10580,6 +10579,7 @@ gunsman
 gunsmithery
 gunsmithing
 gloomiest
+gardbrace
 gunmanship
 gunstick
 gunstocker
