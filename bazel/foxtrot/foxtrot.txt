@@ -396,7 +396,6 @@ ferrymen
 faintness
 faints
 faipule
-fair
 flows
 flunkeyize
 faired
@@ -7345,6 +7344,7 @@ fearnaught
 filtrable
 forswearer
 fumishly
+fair
 furiosa
 flagellant
 fullnesses
