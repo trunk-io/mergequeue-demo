@@ -1558,7 +1558,6 @@ balletomania
 bigged
 ballets
 ballfield
-balatong
 ballgame
 ballgames
 ballgowns
@@ -15772,6 +15771,7 @@ brokes
 beryllium
 becudgel
 broking
+balatong
 becomma
 battiks
 broletti
