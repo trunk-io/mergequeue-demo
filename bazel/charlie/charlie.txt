@@ -3863,7 +3863,6 @@ carburant
 carburated
 carburating
 carburation
-carburator
 carbure
 ceratopsidae
 caraguata
@@ -12322,6 +12321,7 @@ christening
 coxcombicality
 christens
 christhood
+carburator
 christy
 cardholders
 christian
