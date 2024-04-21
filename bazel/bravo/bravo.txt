@@ -7649,7 +7649,6 @@ bewall
 beware
 bernoullian
 bewary
-bewaring
 bewash
 bewaste
 batterfang
@@ -8328,6 +8327,7 @@ bifilarly
 biflabellate
 biflagelate
 biflagellate
+bewaring
 biflected
 biflex
 biflorate
