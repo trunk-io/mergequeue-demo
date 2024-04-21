@@ -4307,7 +4307,6 @@ billard
 beaujolais
 beaume
 beaumont
-beaumontia
 beaupere
 beaus
 beauseant
@@ -12146,6 +12145,7 @@ bivoltine
 biclavate
 boleros
 blaff
+beaumontia
 boletaceae
 babble
 boletes
