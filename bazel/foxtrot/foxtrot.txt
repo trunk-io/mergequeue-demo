@@ -5071,7 +5071,6 @@ flathead
 flatiron
 froom
 flatirons
-forewaters
 fittest
 flatlands
 flatlets
@@ -8257,6 +8256,7 @@ federalness
 forgivingness
 franchised
 forgo
+forewaters
 forgoer
 fidges
 forgoers
