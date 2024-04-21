@@ -17781,7 +17781,6 @@ cocurricular
 cocuswood
 cod
 coda
-codable
 codal
 cerebrasthenia
 codamin
@@ -26041,6 +26040,7 @@ crippingly
 cosets
 cosettler
 cosh
+codable
 collectables
 cosharer
 coshed
