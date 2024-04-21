@@ -5600,6 +5600,7 @@ dinger
 depark
 deparliament
 delighting
+devocalised
 depart
 departed
 dwining
@@ -6321,7 +6322,6 @@ dermatopathology
 dermatopathophobia
 dermatophyte
 dermatophytosis
-devocalised
 dermatophone
 dermatophony
 dunking
