@@ -11003,7 +11003,6 @@ amortizable
 amortization
 arbitrarily
 amortized
-amortizement
 amortizes
 angiothlipsis
 amortizing
@@ -19331,6 +19330,7 @@ arcual
 arcuale
 arcualia
 arcuate
+amortizement
 azalea
 arcuation
 arcubos
