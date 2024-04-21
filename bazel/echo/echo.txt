@@ -1854,7 +1854,6 @@ eightling
 eightpenny
 euler
 eights
-eightscore
 eightsome
 exophthalmos
 ecchymose
@@ -8938,6 +8937,7 @@ ectoplasm
 ergatogyne
 euphuistical
 enslumber
+eightscore
 ecstasize
 ergatomorphic
 ergatomorphism
