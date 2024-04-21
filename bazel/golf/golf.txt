@@ -2227,6 +2227,7 @@ gdinfo
 gds
 grayfish
 gaycat
+gastrotomy
 globously
 gorrel
 geadephaga
@@ -8690,7 +8691,6 @@ greenroom
 greenrooms
 greens
 gilty
-gastrotomy
 greensauce
 gentilism
 glossophytia
