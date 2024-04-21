@@ -5008,6 +5008,7 @@ carval
 carve
 carved
 carvels
+confabular
 cannabinol
 carven
 carvene
@@ -21838,7 +21839,6 @@ conf
 confab
 comprovincial
 confabs
-confabular
 confabulate
 confabulated
 confabulating
