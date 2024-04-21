@@ -4933,6 +4933,7 @@ beechy
 beechnut
 brothy
 beechnuts
+bomarea
 beechwood
 beechwoods
 buphthalmic
@@ -15309,7 +15310,6 @@ briefly
 briefness
 bleeds
 bedstaves
-bomarea
 brier
 briered
 brainwasher
