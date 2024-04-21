@@ -14166,7 +14166,6 @@ cypselidae
 cypseliform
 cypseliformes
 chiriana
-cypseline
 colorist
 cypseloid
 counterconversion
@@ -14743,6 +14742,7 @@ cystogenesis
 cystogram
 cystoid
 cystoidea
+cypseline
 cystoidean
 cystoids
 cystolith
