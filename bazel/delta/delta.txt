@@ -1062,7 +1062,6 @@ dartars
 darted
 darters
 dartingly
-dartingness
 dartle
 dartled
 dartlike
@@ -2156,6 +2155,7 @@ decarburisation
 decarburise
 decarburised
 decarburising
+dartingness
 diakonika
 differing
 directorship
