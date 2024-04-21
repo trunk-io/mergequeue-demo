@@ -833,7 +833,6 @@ cajeputs
 cajolement
 celure
 cajolements
-cajoler
 cleidotomy
 cajolery
 cajoleries
@@ -2571,6 +2570,7 @@ caninity
 cabaretier
 caninities
 caninus
+cajoler
 canion
 canyon
 canioned

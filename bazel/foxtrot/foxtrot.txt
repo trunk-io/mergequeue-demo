@@ -2980,7 +2980,6 @@ formulary
 freezed
 feverberry
 feverberries
-feverbush
 farcilite
 fidgetiness
 fulmarus
@@ -11752,6 +11751,7 @@ flacianism
 foo
 fv
 flocculi
+feverbush
 fw
 fwelling
 fz
