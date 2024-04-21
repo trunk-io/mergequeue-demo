@@ -2430,7 +2430,6 @@ gelatinizer
 gallanting
 gude
 goose
-gelatinobromide
 gelatinoid
 geminations
 gadbee
@@ -3269,6 +3268,7 @@ geoteuthis
 gomeril
 geotherm
 geothermic
+gelatinobromide
 geothermometer
 geoty
 gregarinian
