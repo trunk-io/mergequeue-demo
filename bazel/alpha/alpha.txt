@@ -8281,6 +8281,7 @@ alidades
 agammaglobulinemic
 alidads
 alids
+anchored
 alien
 alienability
 alienabilities
@@ -12211,7 +12212,6 @@ anchor
 anchorable
 anchorages
 anchorate
-anchored
 actinodermatitis
 anchoress
 anchoresses
