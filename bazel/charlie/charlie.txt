@@ -18323,7 +18323,6 @@ chainstitch
 cogitabundous
 cogitant
 cogitantly
-cogitated
 cogitates
 cogitating
 cogitation
@@ -21292,6 +21291,7 @@ concessory
 concettism
 conch
 concha
+cogitated
 cardiomalacia
 conchae
 conchal
