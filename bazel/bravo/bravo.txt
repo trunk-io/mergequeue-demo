@@ -9137,7 +9137,6 @@ biophagous
 biophilous
 biophysic
 branchstand
-biophysical
 biophysics
 biophysiography
 bindweb
@@ -17047,6 +17046,7 @@ bulky
 bulkier
 bulkiest
 bulkily
+biophysical
 bulkin
 bitterweed
 bulkiness
