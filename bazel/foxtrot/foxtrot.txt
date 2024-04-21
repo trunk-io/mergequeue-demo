@@ -7448,7 +7448,6 @@ forjudger
 forcipated
 forcipation
 forcipial
-flattest
 forcipiform
 forcipressure
 fishhook
@@ -9987,6 +9986,7 @@ frictionless
 frictionproof
 frictions
 festering
+flattest
 forgiven
 fridays
 fastuously
