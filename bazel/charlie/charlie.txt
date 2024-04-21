@@ -3844,7 +3844,6 @@ cair
 cochairman
 carboxide
 carboxydomonas
-carboxyl
 carboxylase
 carboxylate
 carboxylated
@@ -21902,6 +21901,7 @@ cornerbind
 camalig
 conferrers
 conferring
+carboxyl
 counterstain
 conferruminate
 catslide
