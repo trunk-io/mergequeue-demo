@@ -6057,6 +6057,7 @@ agamobium
 agglutinin
 agglutinize
 agglutinogen
+andoke
 agglutinogenic
 agglutinoid
 agglutinoscope
@@ -12357,7 +12358,6 @@ albuminometry
 andiron
 anopisthograph
 andirons
-andoke
 andor
 astigmatically
 andorite

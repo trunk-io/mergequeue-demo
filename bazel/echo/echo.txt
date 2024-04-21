@@ -4573,7 +4573,6 @@ enchantment
 enchantments
 enchantress
 enchants
-encharge
 encharged
 encharging
 enchased
@@ -12697,6 +12696,7 @@ exognathite
 expunges
 exogonium
 exograph
+encharge
 exolete
 electrized
 exolution
