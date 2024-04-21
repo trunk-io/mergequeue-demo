@@ -24682,7 +24682,6 @@ copperish
 christie
 copperize
 chickaree
-copperleaf
 copperplate
 copperplated
 coppersidesman
@@ -26899,6 +26898,7 @@ cartonniers
 counterjudging
 counterjumper
 crosne
+copperleaf
 counterlath
 counterlathed
 comingle
