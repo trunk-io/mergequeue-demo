@@ -7882,7 +7882,6 @@ farmplace
 forepretended
 foreprize
 forepromise
-foreprovided
 foreprovision
 forepurpose
 forequarter
@@ -9022,6 +9021,7 @@ felicitator
 fives
 founts
 foolfishes
+foreprovided
 frizziness
 frenchy
 fouquieria
