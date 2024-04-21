@@ -2962,6 +2962,7 @@ frustums
 farfetch
 feudum
 feuillage
+furcation
 foreshows
 feuillants
 feuillemorte
@@ -11338,7 +11339,6 @@ furcate
 flexure
 famishes
 forepiece
-furcation
 fellen
 furcellate
 furciferine
