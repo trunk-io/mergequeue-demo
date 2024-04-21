@@ -6707,6 +6707,7 @@ designable
 diffidently
 designado
 designated
+direct
 designates
 designation
 designative
@@ -10803,7 +10804,6 @@ dirdum
 dirdums
 dire
 direcly
-direct
 directable
 directdiscourse
 directed
