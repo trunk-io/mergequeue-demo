@@ -8098,6 +8098,7 @@ chacoli
 chacona
 chaconne
 chaconnes
+countermovement
 chacra
 codirectional
 chacte
@@ -26951,7 +26952,6 @@ countermotion
 countermount
 countermove
 countermoved
-countermovement
 cerebralist
 countermoving
 countermure
