@@ -5005,7 +5005,6 @@ aerofoil
 aerofoils
 algine
 aerogel
-aerogels
 antilogous
 assigned
 aerogen
@@ -13110,6 +13109,7 @@ agrologist
 anhistic
 abkhas
 anhistous
+aerogels
 ambonite
 anhungry
 ani
