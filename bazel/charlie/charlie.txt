@@ -7719,7 +7719,6 @@ ceres
 ceresine
 cereuses
 commemorations
-cerevis
 cerevisial
 coumarou
 cereza
@@ -30739,6 +30738,7 @@ culler
 cullers
 cullet
 cullets
+cerevis
 carload
 cully
 cullibility
