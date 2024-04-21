@@ -4872,7 +4872,6 @@ aeoline
 aeolipile
 aeolipyle
 aeolis
-aeolism
 aeolist
 aeolistic
 aeolomelodicon
@@ -22919,6 +22918,7 @@ assimilation
 atrium
 atriums
 analepsy
+aeolism
 atroceruleous
 atroceruleus
 archdiocesan
