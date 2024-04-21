@@ -15627,6 +15627,7 @@ doormat
 doormats
 doormen
 doornboom
+draconis
 doorpiece
 doorpost
 doorposts
@@ -16515,7 +16516,6 @@ disagreeance
 docilities
 draconid
 draconin
-draconis
 draconites
 dracontian
 dracontiasis
