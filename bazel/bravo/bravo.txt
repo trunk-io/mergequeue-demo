@@ -7074,7 +7074,6 @@ beslimer
 beslimes
 besliming
 billyer
-beslings
 banque
 besiclometer
 boolies
@@ -9793,6 +9792,7 @@ bissextile
 bissextus
 byssi
 byssiferous
+beslings
 borolanite
 bullbats
 balding
