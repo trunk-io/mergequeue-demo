@@ -13654,6 +13654,7 @@ archeol
 acrocentric
 annualized
 annually
+apair
 annuals
 annuary
 annueller
@@ -21961,7 +21962,6 @@ apprise
 assuaged
 assuages
 assuasive
-apair
 aquameter
 assuefaction
 assuetude
