@@ -313,7 +313,6 @@ bowknots
 backbone
 backboned
 backbonelessness
-beatus
 backbones
 backbrand
 backcap
@@ -11625,6 +11624,7 @@ backbends
 boating
 boatings
 bavarian
+beatus
 boation
 boatkeeper
 bittacle
