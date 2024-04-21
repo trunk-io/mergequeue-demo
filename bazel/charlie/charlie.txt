@@ -16260,7 +16260,6 @@ clinkstone
 clinkum
 chilblains
 clinocephaly
-clinocephalic
 carideer
 clinocephalous
 clinocephalus
@@ -25419,6 +25418,7 @@ corning
 curviest
 cornish
 cornishman
+clinocephalic
 cornix
 cornland
 cornless
