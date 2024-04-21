@@ -2345,7 +2345,6 @@ achtehalber
 amounts
 athetized
 achtelthaler
-abacisci
 achuete
 acy
 acyanoblepsia
@@ -17647,6 +17646,7 @@ almucantar
 apparens
 apparent
 apparentements
+abacisci
 apparently
 apparentness
 apparitional
