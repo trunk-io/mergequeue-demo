@@ -4708,6 +4708,7 @@ demiplate
 demipomada
 demipremise
 demipronation
+dibber
 diazid
 demipuppet
 demiquaver
@@ -8818,7 +8819,6 @@ dib
 dibasicity
 dishonorable
 dibbed
-dibber
 dibbing
 deterring
 dibbled
