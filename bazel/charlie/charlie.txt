@@ -47,7 +47,6 @@ cabaret
 cabarets
 cabasa
 callusing
-cabasset
 cabbage
 cabbaged
 coexisted
@@ -5709,6 +5708,7 @@ contribute
 catchweight
 catchword
 catchwork
+cabasset
 catclaw
 catdom
 cate
