@@ -2562,6 +2562,7 @@ gemmipara
 gemmipares
 gemmiparous
 gemmiparously
+gyrochrome
 gambled
 gallocyanine
 gutturopalatine
@@ -5658,7 +5659,6 @@ globuliform
 gefilte
 globulimeter
 gurges
-gyrochrome
 garuda
 gravestone
 globulysis
