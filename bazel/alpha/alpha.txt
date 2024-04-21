@@ -14292,7 +14292,6 @@ anteporticoes
 anteporticos
 anteposition
 anteprandial
-antepretonic
 anteprohibition
 anteprostate
 antequalm
@@ -19299,6 +19298,7 @@ arctalian
 arctan
 arctation
 arctian
+antepretonic
 arctic
 analogion
 arctician
