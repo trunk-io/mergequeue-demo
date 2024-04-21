@@ -2427,7 +2427,6 @@ becut
 barcarolle
 barcas
 barcella
-bumblebees
 barcelona
 boxwork
 blip
@@ -8185,6 +8184,7 @@ bicrural
 bicultural
 biculturalism
 bicursal
+bumblebees
 bicuspid
 bicuspidal
 bicuspidate
