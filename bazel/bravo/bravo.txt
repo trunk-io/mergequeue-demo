@@ -6447,6 +6447,7 @@ benzenes
 benzenyl
 benzenoid
 billsticking
+briny
 belittlers
 benzidine
 bladed
@@ -9040,7 +9041,6 @@ biog
 biogases
 biogen
 ballogan
-briny
 biogenesis
 baudekins
 biogenesist
