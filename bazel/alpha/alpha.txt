@@ -220,7 +220,6 @@ abbott
 abbozzo
 abbrev
 abbreviatable
-abbreviate
 abraded
 abbreviated
 argotic
@@ -476,6 +475,7 @@ abyssopelagic
 abyssus
 abit
 abitibi
+abbreviate
 abiuret
 abjectedness
 abjection
