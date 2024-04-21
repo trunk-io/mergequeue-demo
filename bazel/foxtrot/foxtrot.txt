@@ -2084,6 +2084,7 @@ filacer
 feinter
 feudary
 forestlike
+facedown
 feinting
 feis
 flatlander
@@ -9066,7 +9067,6 @@ fancily
 fingallian
 freer
 foveiform
-facedown
 fumigants
 foveolarious
 frigorifico
