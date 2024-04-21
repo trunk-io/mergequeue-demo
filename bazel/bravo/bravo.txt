@@ -4660,7 +4660,6 @@ beddable
 blader
 bedders
 blent
-blennophlogosis
 bedding
 beddingroll
 beddings
@@ -15551,6 +15550,7 @@ biting
 britannically
 britchel
 bullyable
+blennophlogosis
 britches
 brythonic
 blimy
