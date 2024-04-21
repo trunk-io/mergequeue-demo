@@ -2718,7 +2718,6 @@ formers
 fertilizer
 figurate
 fillagreing
-fallers
 fertilizers
 foremelt
 ferula
@@ -5207,6 +5206,7 @@ flavorsome
 formulators
 flavour
 fencelike
+fallers
 fstore
 flavoured
 fableland
