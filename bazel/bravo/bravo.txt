@@ -185,6 +185,7 @@ bacchanals
 bhadon
 bacchant
 bacchante
+bargainee
 bacchantes
 bacchants
 birders
@@ -2517,7 +2518,6 @@ bargain
 bromins
 bargainable
 billbugs
-bargainee
 bargainer
 bargaining
 bargander
