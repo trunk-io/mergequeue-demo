@@ -1653,6 +1653,7 @@ elohimic
 egromancy
 exercisers
 egurgitate
+equation
 egurgitated
 egurgitating
 eguttulate
@@ -8553,7 +8554,6 @@ equatable
 equate
 equating
 essentializing
-equation
 eastlin
 equational
 equationally
