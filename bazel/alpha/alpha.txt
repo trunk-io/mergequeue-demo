@@ -8979,7 +8979,6 @@ allophonic
 allophonically
 allophore
 alloplasm
-alloplasmatic
 alloplasmic
 alloplast
 alloplastic
@@ -9813,6 +9812,7 @@ amant
 amantadine
 amante
 airbrush
+alloplasmatic
 amanuenses
 amanuensis
 amapa
