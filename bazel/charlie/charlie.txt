@@ -725,7 +725,6 @@ clock
 caginess
 caginesses
 cagit
-cagn
 cagot
 cagoule
 contentness
@@ -11906,6 +11905,7 @@ chopstick
 chopsticks
 chopunnish
 chora
+cagn
 choragi
 choragic
 choragion
