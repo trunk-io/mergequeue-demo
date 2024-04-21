@@ -8521,7 +8521,6 @@ disinthrall
 diaminogen
 diaminogene
 diamins
-diammine
 donate
 diammonium
 downgrades
@@ -12034,6 +12033,7 @@ disenchantress
 disencharm
 drip
 disenclose
+diammine
 disencumbered
 disencumberment
 discriminate
