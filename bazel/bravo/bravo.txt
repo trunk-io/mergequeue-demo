@@ -3898,7 +3898,6 @@ bauxite
 bauxites
 bauxitic
 bauxitite
-bavary
 bavaroy
 bavenite
 biddie
@@ -9002,6 +9001,7 @@ biodegradation
 becassocked
 biodegrade
 beleap
+bavary
 biodegraded
 biodegrading
 biodynamical
