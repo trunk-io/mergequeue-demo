@@ -13625,7 +13625,6 @@ azeotropism
 annotater
 amputated
 annotates
-annotating
 annotation
 avoiding
 annotations
@@ -24686,6 +24685,7 @@ averts
 aves
 acephalia
 avesta
+annotating
 administrationist
 aveugle
 avg
