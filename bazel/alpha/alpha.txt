@@ -1974,7 +1974,6 @@ acetable
 acetabula
 acetabular
 acetabularia
-acetabuliferous
 acanthopore
 acetabuliform
 acetabulous
@@ -18820,6 +18819,7 @@ archartist
 archbanc
 archbancs
 archband
+acetabuliferous
 archbeacon
 archbeadle
 aridge
