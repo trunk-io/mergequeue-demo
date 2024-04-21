@@ -6303,6 +6303,7 @@ enscroll
 ecotypic
 envenomation
 enscrolls
+ensphered
 ensculpture
 ense
 enseal
@@ -6435,7 +6436,6 @@ entryways
 elaterid
 expansion
 ensphere
-ensphered
 ensphering
 enspirit
 enstar
