@@ -17523,6 +17523,7 @@ apostrophation
 apostrophes
 apostrophi
 apostrophic
+avoirdupois
 apostrophied
 apostrophise
 apostrophised
@@ -24828,7 +24829,6 @@ avoider
 avoidment
 avoids
 avoyership
-avoirdupois
 afflict
 avoke
 avolate
