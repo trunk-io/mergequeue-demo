@@ -7941,7 +7941,6 @@ bible
 bibles
 bohmite
 bibless
-biblic
 bipunctal
 biblical
 biblicality
@@ -16067,6 +16066,7 @@ brool
 broom
 buprestid
 beardtongue
+biblic
 broomballer
 broombush
 broomcorn
