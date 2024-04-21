@@ -12,7 +12,6 @@ feff
 fabianist
 flagellators
 footsoldier
-fable
 fabled
 ferry
 fablemaker
@@ -1490,6 +1489,7 @@ fairtime
 fatwood
 faubourg
 fantasie
+fable
 faubourgs
 faucals
 filmable
