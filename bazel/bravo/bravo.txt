@@ -7313,7 +7313,6 @@ bestraddled
 bestraddling
 bestraught
 bestreak
-bestream
 blackhander
 bestrew
 bestrewed
@@ -9600,6 +9599,7 @@ bristletail
 birthstones
 birthstool
 birthwort
+bestream
 bis
 bys
 bisabol
