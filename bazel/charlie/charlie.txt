@@ -7810,7 +7810,6 @@ certes
 certhia
 certhiidae
 certie
-certif
 certifiability
 certifiable
 coliiformes
@@ -11539,6 +11538,7 @@ costless
 chokage
 choke
 chokeberry
+certif
 chokeberries
 chokecherry
 chokecherries
