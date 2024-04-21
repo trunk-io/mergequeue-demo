@@ -2695,7 +2695,6 @@ gobangs
 generalities
 generalizations
 gain
-generalize
 gyrations
 germigenous
 genappe
@@ -6578,6 +6577,7 @@ gambrelled
 goldfields
 goldfinches
 goldfinny
+generalize
 graphometrical
 gimcracky
 gyracanthus
