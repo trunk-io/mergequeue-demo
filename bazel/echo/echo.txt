@@ -7005,7 +7005,6 @@ enlevement
 entrep
 entrepas
 entrepeneurs
-etrogs
 entrepots
 effatum
 entrepreneur
@@ -12375,6 +12374,7 @@ equilin
 exercite
 electrolytes
 exercitor
+etrogs
 exercitorial
 exercitorian
 exergue
