@@ -4652,7 +4652,6 @@ adversa
 adversant
 adversary
 adversaria
-adversaries
 adversariness
 adversarious
 adversative
@@ -9023,6 +9022,7 @@ allotment
 allotments
 allotransplant
 allotransplantation
+adversaries
 allotriognathi
 allotriomorphic
 allotriophagy
