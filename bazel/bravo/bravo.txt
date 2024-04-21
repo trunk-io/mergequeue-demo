@@ -4568,7 +4568,6 @@ bearhide
 becrush
 buffering
 becrust
-becrusted
 becrusting
 becrusts
 becudgeled
@@ -5816,6 +5815,7 @@ belletrist
 belletristic
 belletrists
 bellevue
+becrusted
 boxers
 boosies
 bellflower
