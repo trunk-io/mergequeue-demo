@@ -4510,6 +4510,7 @@ fama
 fistmele
 fistnotes
 familiarize
+froghopper
 fibre
 frenchily
 federation
@@ -8855,7 +8856,6 @@ flneur
 flon
 fossick
 fossicked
-froghopper
 fossicker
 fossicking
 fossified
