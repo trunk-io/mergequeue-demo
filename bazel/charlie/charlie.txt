@@ -14881,7 +14881,6 @@ cityish
 cigale
 coordinate
 cityless
-citylike
 cytinaceae
 cityness
 citynesses
@@ -28664,6 +28663,7 @@ culets
 cryochore
 chapacura
 crenelles
+citylike
 crenels
 crengle
 crenic
