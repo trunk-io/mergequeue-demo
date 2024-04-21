@@ -1461,7 +1461,6 @@ frederick
 fatstock
 fatted
 flirtations
-fatten
 fattenable
 fattened
 fattener
@@ -9777,6 +9776,7 @@ freightage
 fluorite
 fringe
 fourchette
+fatten
 freightyard
 flagstaves
 fallalishly
