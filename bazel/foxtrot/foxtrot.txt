@@ -4223,7 +4223,6 @@ ferroconcretor
 firerooms
 firers
 forche
-fun
 forfeits
 firesafeness
 firesafety
@@ -4997,6 +4996,7 @@ flappet
 flappy
 flapping
 flywire
+fun
 fuligo
 fumettes
 fitched
