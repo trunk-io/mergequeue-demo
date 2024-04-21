@@ -11179,6 +11179,7 @@ bandura
 bloodweed
 bloodwite
 bloodwood
+burgeoned
 bloodworm
 blab
 bloodwort
@@ -17613,7 +17614,6 @@ brightwork
 brushball
 baptist
 burgeon
-burgeoned
 burgeoning
 bonnive
 burgeons
