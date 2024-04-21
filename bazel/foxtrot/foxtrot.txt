@@ -5764,6 +5764,7 @@ flytraps
 floodplain
 flitted
 foreground
+forebear
 felsite
 freshman
 flitterbat
@@ -7513,7 +7514,6 @@ fraile
 forebar
 fackins
 femes
-forebear
 falconine
 forebemoan
 finises
