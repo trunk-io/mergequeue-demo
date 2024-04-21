@@ -3413,7 +3413,6 @@ capsidal
 capsids
 capsizable
 capsizal
-capsize
 caballeria
 capsized
 capsizes
@@ -15070,6 +15069,7 @@ citramontane
 citrangeade
 conycatcher
 citrate
+capsize
 citrates
 chromoplasm
 citrean
