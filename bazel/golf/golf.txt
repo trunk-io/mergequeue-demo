@@ -5844,6 +5844,7 @@ glossophaga
 glossopharyngeus
 gettered
 glancer
+goldweed
 grecizes
 goldeneye
 gorling
@@ -6591,7 +6592,6 @@ gnathopod
 goldstone
 goldurned
 gap
-goldweed
 goldworker
 golem
 garrupa
