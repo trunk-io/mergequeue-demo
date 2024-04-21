@@ -1851,7 +1851,6 @@ eightieth
 electropotential
 eightling
 eightpenny
-enhalos
 eights
 eightscore
 eightsome
@@ -10650,6 +10649,7 @@ eild
 evermo
 euchorda
 euchre
+enhalos
 euchred
 enchest
 euchres
