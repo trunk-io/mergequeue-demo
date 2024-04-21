@@ -1455,7 +1455,6 @@ effund
 extrications
 empathic
 effused
-effuses
 espiegle
 endosmometer
 effusive
@@ -2443,6 +2442,7 @@ electroindustrial
 electroing
 exfigure
 electroionic
+effuses
 eductions
 enzymology
 electrokinetic
