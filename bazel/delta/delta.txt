@@ -3963,7 +3963,6 @@ delayer
 delayers
 delayful
 delaine
-delaines
 drosky
 delays
 dooli
@@ -16847,6 +16846,7 @@ drawee
 datto
 drawer
 drawerful
+delaines
 declamation
 drawers
 drawfile
