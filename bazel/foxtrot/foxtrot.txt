@@ -2735,6 +2735,7 @@ foghorns
 ferulaceous
 ferular
 ferule
+forfended
 feruled
 ferules
 ferulic
@@ -8193,7 +8194,6 @@ fluormeter
 forfeitures
 forfend
 fibroma
-forfended
 formwork
 forfending
 forfends
