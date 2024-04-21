@@ -5172,6 +5172,7 @@ befluster
 befog
 befogged
 baetylus
+birthdays
 betty
 befogging
 beguile
@@ -9578,7 +9579,6 @@ bipinnatifid
 barracks
 bartizaned
 birthday
-birthdays
 birthed
 biflecnode
 birthing
