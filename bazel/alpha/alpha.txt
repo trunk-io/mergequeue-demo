@@ -3710,7 +3710,6 @@ apotheces
 adenogenesis
 aggelation
 adenographer
-adenography
 attic
 adenographic
 adenographical
@@ -8293,6 +8292,7 @@ alienation
 alienator
 aliene
 aliened
+adenography
 atmophile
 alienee
 aliener
