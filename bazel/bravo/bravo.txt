@@ -4200,7 +4200,6 @@ blanchimeter
 beardie
 bearding
 bruting
-beardlike
 bv
 beardom
 balminess
@@ -15456,6 +15455,7 @@ botryomyces
 brins
 brinsell
 backshish
+beardlike
 brynza
 brioches
 bellona

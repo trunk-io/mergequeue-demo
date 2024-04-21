@@ -6334,6 +6334,7 @@ ensheathe
 ensheathed
 embiotocid
 ensheathing
+explores
 ensheaths
 enshell
 enshelter
@@ -13254,7 +13255,6 @@ enol
 explorer
 explorers
 ethicalities
-explores
 eclipsareon
 exploringly
 encephalodialysis
