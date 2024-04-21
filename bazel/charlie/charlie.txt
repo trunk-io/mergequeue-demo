@@ -1654,6 +1654,7 @@ calque
 calqued
 chambrel
 calques
+caseconv
 calquing
 cals
 calsouns
@@ -19159,7 +19160,6 @@ collogued
 colloguing
 chiropter
 colloid
-caseconv
 cinerins
 colloidal
 coauthoring
