@@ -6199,6 +6199,7 @@ bendees
 buyout
 biochemistries
 benders
+biobibliographies
 behusband
 bendy
 bendies
@@ -8947,7 +8948,6 @@ bioavailability
 biobibliographer
 biobibliography
 biobibliographical
-biobibliographies
 behowl
 bioblast
 bioblastic
