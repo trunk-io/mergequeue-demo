@@ -6919,7 +6919,6 @@ celts
 clocklike
 celtuce
 captaining
-cembali
 cembalo
 cembalon
 cembalos
@@ -9445,6 +9444,7 @@ comitative
 chawers
 chawia
 combinement
+cembali
 chawing
 chawk
 chawl
