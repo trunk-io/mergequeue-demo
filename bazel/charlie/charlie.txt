@@ -2981,7 +2981,6 @@ comatic
 canun
 canvas
 canvasado
-canvasback
 canvasbacks
 canvasers
 canvases
@@ -3638,6 +3637,7 @@ coachable
 carapidae
 carapine
 carapus
+canvasback
 carara
 carassow
 carat
