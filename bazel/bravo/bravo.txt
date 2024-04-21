@@ -3147,6 +3147,7 @@ basepoint
 baser
 bortsch
 baserunning
+besetter
 bases
 bardish
 basest
@@ -6984,7 +6985,6 @@ beseige
 beset
 besetment
 besets
-besetter
 besetters
 besetting
 besew
