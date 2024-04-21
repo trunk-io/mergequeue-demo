@@ -8587,7 +8587,6 @@ ectomeric
 eques
 equestrial
 equestrian
-equiparate
 equestrianize
 equiangularity
 epigeous
@@ -11413,6 +11412,7 @@ extrametaphysical
 evener
 errite
 equivalencing
+equiparate
 evenfall
 evenfalls
 exclusively
