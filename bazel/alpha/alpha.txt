@@ -5821,7 +5821,6 @@ agalwood
 antidysuric
 agalwoods
 agama
-agamas
 agamemnon
 agamete
 agametes
@@ -19007,6 +19006,7 @@ archicyte
 archicytula
 archicoele
 auricyanide
+agamas
 archicontinent
 archidamus
 adherer
