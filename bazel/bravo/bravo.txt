@@ -4508,6 +4508,7 @@ beclaw
 beclip
 besieged
 becloak
+batis
 belchers
 becloaking
 becloaks
@@ -12416,7 +12417,6 @@ bond
 berberins
 bondable
 bondage
-batis
 besugo
 bondager
 bondages
