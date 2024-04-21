@@ -2580,6 +2580,7 @@ filt
 foulmouth
 ferredoxin
 ferreled
+fibrilla
 ferreling
 flowerpot
 ferrelled
@@ -3114,7 +3115,6 @@ fluorin
 fibrilated
 foxes
 freeings
-fibrilla
 fibrillae
 fibrillar
 fibrillate
