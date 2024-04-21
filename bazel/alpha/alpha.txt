@@ -8933,7 +8933,6 @@ alloys
 alloisomerism
 allokurtic
 allolalia
-allolalic
 allomerization
 allomerize
 allomerized
@@ -22707,6 +22706,7 @@ athetizing
 alezan
 atlantid
 appetizing
+allolalic
 atlantides
 atlantite
 abhorrently
