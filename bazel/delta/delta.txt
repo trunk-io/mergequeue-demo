@@ -7286,7 +7286,6 @@ dowage
 disseized
 diffusivity
 desiccative
-disennoble
 determinably
 determinacy
 distruss
@@ -8638,6 +8637,7 @@ diapsida
 diapsidan
 dyarchy
 deadbeat
+disennoble
 diarchic
 dyarchic
 dyarchical
