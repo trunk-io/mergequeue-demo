@@ -3631,6 +3631,7 @@ ferrotype
 filespec
 fossores
 fileting
+flaccidities
 floatboard
 floroun
 filets
@@ -11063,7 +11064,6 @@ frightfulness
 fumets
 fumette
 follows
-flaccidities
 flongs
 felsosphaerite
 fumeuse
