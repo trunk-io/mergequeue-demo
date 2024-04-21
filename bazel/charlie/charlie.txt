@@ -8959,6 +8959,7 @@ characteriser
 characterising
 cuniform
 characterism
+credibilities
 characteristically
 characteristicalness
 characteristicness
@@ -30709,7 +30710,6 @@ culiciform
 culicifugal
 culicifuge
 choragium
-credibilities
 culicinae
 culicine
 columbite
