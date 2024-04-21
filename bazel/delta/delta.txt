@@ -12906,7 +12906,6 @@ disorientate
 disorientates
 daywork
 dilutors
-disorientation
 disoriented
 disorients
 disown
@@ -14443,6 +14442,7 @@ diphaser
 divisibility
 diabases
 divisibilities
+disorientation
 divisible
 divisibleness
 division
