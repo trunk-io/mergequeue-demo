@@ -2380,7 +2380,6 @@ acidheads
 acidy
 acidiferous
 argil
-acidify
 acidifiant
 adderfish
 acidific
@@ -15177,6 +15176,7 @@ antidinic
 antidiphtheria
 antidiphtheric
 antidiphtheritic
+acidify
 antidisciplinarian
 administratorship
 antidysenteric
