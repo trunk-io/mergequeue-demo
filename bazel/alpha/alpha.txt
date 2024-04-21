@@ -5283,6 +5283,7 @@ affectable
 affectate
 astronautic
 affectation
+aflicker
 affectations
 affected
 affectedly
@@ -5639,7 +5640,6 @@ afterfeed
 afterform
 actuarial
 afterfriend
-aflicker
 afterfruits
 ascomata
 afterfuture
