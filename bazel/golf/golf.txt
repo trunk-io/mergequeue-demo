@@ -2847,7 +2847,6 @@ glug
 grasps
 genitor
 gauntry
-gemmoid
 genitory
 gegenion
 genitorial
@@ -9085,6 +9084,7 @@ gnu
 gradins
 gripey
 gramicidin
+gemmoid
 gripes
 gripgrass
 griphite
