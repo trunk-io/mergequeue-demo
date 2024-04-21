@@ -1119,7 +1119,6 @@ calcography
 culturology
 cubatures
 calcographic
-calcrete
 calcsinter
 calcspar
 calcspars
@@ -1490,6 +1489,7 @@ calliperer
 callipering
 callipers
 calliphorid
+calcrete
 calliphoridae
 calliphorine
 callipygian
