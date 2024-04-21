@@ -3773,7 +3773,6 @@ batties
 battik
 batting
 battings
-battish
 battledores
 baldly
 boyar
@@ -8821,6 +8820,7 @@ bimillionaire
 beneficient
 bolderian
 bimini
+battish
 bimmeler
 bimodal
 bimodality
