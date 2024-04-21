@@ -4307,7 +4307,6 @@ gynaecology
 gynaecological
 goalkeepers
 gynaecomastia
-gynaecomorphous
 gynaeconitis
 germling
 gynaeolater
@@ -10750,6 +10749,7 @@ girlhoods
 graywall
 gutlike
 gutnish
+gynaecomorphous
 glossospasm
 gutsiness
 glycyl
