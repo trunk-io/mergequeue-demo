@@ -5606,6 +5606,7 @@ flimsiness
 flinch
 forboded
 flagleaf
+forecabin
 freighters
 foulnesses
 faff
@@ -7538,7 +7539,6 @@ foreburton
 fuzzing
 forebush
 foliages
-forecabin
 forecast
 flatboats
 forecaster
