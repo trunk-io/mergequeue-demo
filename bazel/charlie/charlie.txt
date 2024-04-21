@@ -10201,7 +10201,6 @@ cheviot
 cheviots
 chevisance
 crined
-chevise
 chevon
 chevre
 chevres
@@ -22735,6 +22734,7 @@ conringia
 cons
 consacre
 consanguine
+chevise
 consanguineal
 consanguinean
 consanguineous
