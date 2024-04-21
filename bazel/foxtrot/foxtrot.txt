@@ -3725,7 +3725,6 @@ forcene
 fatigability
 foujdary
 fortified
-filipuncture
 franchisal
 flywort
 foreleech
@@ -5824,6 +5823,7 @@ floaters
 fodders
 fibulas
 floaty
+filipuncture
 floatier
 felsophyric
 fallacy
