@@ -8315,7 +8315,6 @@ ethnolinguistic
 epistolizable
 epithecium
 epithelia
-epithelialize
 ecardine
 ejectives
 enukki
@@ -10462,6 +10461,7 @@ execrable
 enthuses
 echinostome
 ethnotechnography
+epithelialize
 evacuating
 ethnozoology
 ethography
