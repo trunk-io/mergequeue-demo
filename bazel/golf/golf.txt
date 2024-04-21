@@ -1105,7 +1105,6 @@ gybed
 glucinum
 guvacoline
 gangliasthenia
-gangliate
 gangliectomy
 gangliest
 gleemen
@@ -3168,6 +3167,7 @@ governability
 geomorphist
 geomorphogenic
 geomorphogenist
+gangliate
 geomorphology
 geomorphological
 geomorphologically
