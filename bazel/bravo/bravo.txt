@@ -1822,7 +1822,6 @@ bananalander
 banande
 bananist
 bushwood
-boidae
 bananivorous
 banat
 banatite
@@ -2112,6 +2111,7 @@ banksmen
 bibliophage
 banlieu
 botel
+boidae
 beuniformed
 byzant
 banlieue
