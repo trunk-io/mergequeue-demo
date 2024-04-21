@@ -9132,7 +9132,6 @@ fix
 fox
 foxbane
 foxberry
-fleshling
 foxberries
 ferrated
 foxer
@@ -10161,6 +10160,7 @@ fris
 fringy
 frenetic
 frisado
+fleshling
 frisbee
 frisca
 fever
