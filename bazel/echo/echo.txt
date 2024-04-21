@@ -5257,7 +5257,6 @@ endosymbiosis
 emeus
 endosiphonal
 epipodia
-endosiphuncle
 endoskeletons
 endosmic
 endosmometric
@@ -7464,6 +7463,7 @@ ephestia
 ephestian
 ephetae
 ephetic
+endosiphuncle
 eclectist
 effete
 ephialtes
