@@ -801,7 +801,6 @@ ectasis
 ectatic
 exequies
 ectental
-ectepicondylar
 ecthesis
 ecthymatous
 eumycetic
@@ -13251,6 +13250,7 @@ explorement
 enzyme
 eyres
 enol
+ectepicondylar
 explorer
 explorers
 ethicalities
