@@ -705,7 +705,6 @@ ethnocentrically
 exhortatory
 economese
 econometer
-econometric
 econometrical
 eutelegenic
 econometrically
@@ -5365,6 +5364,7 @@ endotoxin
 endotracheal
 endotrophic
 endotropic
+econometric
 endoubt
 endovaccination
 ecclesial
