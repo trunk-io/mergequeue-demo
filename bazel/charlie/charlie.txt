@@ -8959,7 +8959,6 @@ characteristically
 characteristicalness
 characteristicness
 characteristics
-characterizable
 characterization
 characterizations
 characterize
@@ -31039,6 +31038,7 @@ cuniculi
 cuniculus
 cuniforms
 cunila
+characterizable
 cunili
 cunit
 cunjah
