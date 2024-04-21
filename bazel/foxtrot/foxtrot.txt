@@ -23,7 +23,6 @@ fablers
 fabling
 fabraea
 furs
-familiarizations
 fieldmen
 fabricated
 fabricates
@@ -4430,6 +4429,7 @@ fishtail
 fomentation
 flether
 fishtails
+familiarizations
 fishway
 fishways
 fishweed
