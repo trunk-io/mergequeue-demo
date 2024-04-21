@@ -3815,7 +3815,6 @@ fractionalism
 filmstrip
 filmstrips
 filo
-filoplumaceous
 fulmicotton
 filoplume
 filopodia
@@ -11056,6 +11055,7 @@ fumbulator
 farewelling
 fume
 fumed
+filoplumaceous
 frigging
 fossilizes
 fuses

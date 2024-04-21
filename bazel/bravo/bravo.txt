@@ -2002,7 +2002,6 @@ bangtails
 bangup
 biotopes
 bani
-balanced
 biaural
 banya
 banyan
@@ -2576,6 +2575,7 @@ bs
 barih
 birk
 bardel
+balanced
 bellware
 bluehead
 barylalia
