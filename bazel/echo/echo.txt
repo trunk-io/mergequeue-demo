@@ -5695,7 +5695,6 @@ engleim
 engler
 euchologion
 english
-englishable
 enshrines
 endoplasmic
 englishhood
@@ -7433,6 +7432,7 @@ ephemerally
 epitheliolysin
 euscaro
 ephemeralness
+englishable
 encouraging
 ephemeran
 ephemeric
