@@ -15007,7 +15007,6 @@ cytophagy
 centrosymmetry
 cytophagic
 cytophagous
-cytopharynges
 cytopharynx
 cytophil
 cytophilic
@@ -21845,6 +21844,7 @@ confabulating
 confabulations
 confabulator
 cassian
+cytopharynges
 confabulatory
 caracul
 confact
