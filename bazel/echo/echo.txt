@@ -291,7 +291,6 @@ embleming
 eagerer
 eatability
 eatable
-eatableness
 eatables
 electrolyzability
 enteroid
@@ -7200,6 +7199,7 @@ enzymic
 exiguous
 enzymolysis
 eupnoeas
+eatableness
 evergreenite
 ericeticolous
 eyalet
