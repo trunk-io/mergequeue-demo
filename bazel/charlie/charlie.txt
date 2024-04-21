@@ -12852,6 +12852,7 @@ chunk
 chunked
 chunkhead
 chace
+cliffhang
 circumumbilical
 chunky
 coho
@@ -16127,7 +16128,6 @@ cliff
 cliffed
 comenic
 croakiest
-cliffhang
 cliffhanger
 cliffhangers
 clammer

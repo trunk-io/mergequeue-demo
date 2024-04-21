@@ -3606,7 +3606,6 @@ disenchanter
 denegation
 deified
 defunctionalize
-defunctive
 defuse
 defuses
 defusion
@@ -7975,6 +7974,7 @@ disallowable
 disguised
 dextrane
 dextrer
+defunctive
 dextrinate
 dextrinize
 dextrinous
