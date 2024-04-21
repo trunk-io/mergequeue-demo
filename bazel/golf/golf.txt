@@ -936,7 +936,6 @@ gamelotte
 gazi
 gameness
 gunbearer
-gamenesses
 gamesman
 gamesome
 gastrohysterectomy
@@ -1960,6 +1959,7 @@ gilgai
 gatherers
 graplins
 greenfishes
+gamenesses
 gatherings
 gatherum
 geniohyoid
