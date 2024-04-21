@@ -191,6 +191,7 @@ earthslide
 epicarpal
 earthsmoke
 earthwall
+exhumed
 earthwards
 earthwork
 earthworks
@@ -12505,7 +12506,6 @@ elenctic
 exhumations
 exhumator
 exhumatory
-exhumed
 exhumer
 exhumers
 exhumes
