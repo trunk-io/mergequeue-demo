@@ -5101,6 +5101,7 @@ fidepromission
 formicidae
 flatness
 favi
+faceting
 flats
 flatted
 flimp
@@ -9785,7 +9786,6 @@ freijo
 forehandsel
 factorship
 freir
-faceting
 freith
 freity
 folletti
