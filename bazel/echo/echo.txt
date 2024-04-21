@@ -1459,6 +1459,7 @@ effund
 extrications
 empathic
 effused
+enthalpy
 espiegle
 endosmometer
 effusive
@@ -6705,7 +6706,6 @@ entertissue
 exstimulate
 emetine
 entete
-enthalpy
 enthean
 entheasm
 enfuddle
