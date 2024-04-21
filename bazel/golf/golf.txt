@@ -1947,7 +1947,6 @@ gandhist
 gateways
 grainering
 gateward
-growable
 goaf
 gatewards
 gyrostabilized
@@ -2554,6 +2553,7 @@ gemmiform
 gynostegigia
 gemminess
 gallied
+growable
 gemmingia
 gemmipara
 gemmipares
