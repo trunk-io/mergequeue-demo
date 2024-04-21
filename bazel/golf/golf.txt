@@ -8491,7 +8491,6 @@ graziery
 greenuk
 graziers
 grazing
-geometer
 growthful
 garlandwise
 grazings
@@ -8983,6 +8982,7 @@ geog
 grilladed
 grillades
 gyroscopic
+geometer
 grillages
 grille
 grilled
