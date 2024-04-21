@@ -5095,6 +5095,7 @@ casebearer
 casebook
 collectivity
 casebound
+circumrenal
 casebox
 cased
 casefy
@@ -14432,7 +14433,6 @@ circumradii
 circumradius
 circumradiuses
 circumferent
-circumrenal
 claver
 circumrotate
 circumrotated
