@@ -7246,6 +7246,7 @@ centrifuges
 centrifuging
 centring
 centrings
+clivia
 curblike
 centriole
 centripetal
@@ -16437,7 +16438,6 @@ cochleare
 cliv
 cliver
 clivers
-clivia
 clivis
 clivises
 clivus
