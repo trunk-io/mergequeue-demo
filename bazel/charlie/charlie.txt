@@ -8627,7 +8627,6 @@ championize
 championless
 champions
 championships
-champlev
 champleve
 champs
 chams
@@ -12097,6 +12096,7 @@ chortles
 chortling
 chortosterol
 chaunters
+champlev
 ceca
 chorused
 choruses
