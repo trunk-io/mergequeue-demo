@@ -8504,6 +8504,7 @@ bikeway
 bikeways
 bikie
 biking
+boatwoman
 bikinied
 bikinis
 blackcoat
@@ -11657,7 +11658,6 @@ boatswain
 boatswains
 boattail
 boatward
-boatwoman
 boatwright
 bob
 beared
