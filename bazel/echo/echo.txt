@@ -7163,7 +7163,6 @@ envisioning
 envisionment
 envisions
 enshadow
-envoi
 envoy
 envois
 envoys
@@ -13036,6 +13035,7 @@ expenditure
 enfonced
 expenditures
 expense
+envoi
 ephedrin
 expensed
 expensefully
