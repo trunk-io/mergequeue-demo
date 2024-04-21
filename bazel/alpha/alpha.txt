@@ -4382,7 +4382,6 @@ aloedary
 adreamt
 adenalgia
 appoint
-aregenerative
 adrenalcortical
 adrenalectomy
 adrenalectomies
@@ -11269,6 +11268,7 @@ ane
 amphitheatrical
 affiancer
 amphithecia
+aregenerative
 amphithecial
 antialien
 amphithecium
