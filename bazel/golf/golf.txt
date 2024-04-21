@@ -4526,7 +4526,6 @@ greatish
 gynoeciumcia
 gynogenesis
 gynogenetic
-gynomonoecious
 gynomonoeciously
 gynomonoecism
 galziekte
@@ -10786,6 +10785,7 @@ guttersnipish
 gutterspout
 gadoidea
 gutterwise
+gynomonoecious
 glyptography
 gutty
 galilean
