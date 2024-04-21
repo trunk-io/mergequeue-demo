@@ -3108,7 +3108,6 @@ actinocrinid
 alalunga
 actinocrinidae
 actinocrinite
-actinocrinus
 actinodielectric
 actinodrome
 actinodromous
@@ -17719,6 +17718,7 @@ appellor
 appellors
 appels
 accompany
+actinocrinus
 alcedo
 appenage
 append
