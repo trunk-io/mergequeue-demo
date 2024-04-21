@@ -1424,7 +1424,6 @@ fazendas
 frits
 fatigating
 fatigation
-fatiguability
 filicoids
 fatiguabilities
 fatigue
@@ -11448,6 +11447,7 @@ frustrable
 furnishes
 furnishing
 fireboxes
+fatiguability
 furnishings
 fudges
 furnishment
