@@ -4392,7 +4392,6 @@ diverted
 dhoney
 demagnetization
 deplores
-demagnetize
 demagnetized
 demagnetizes
 demagnetizing
@@ -18095,6 +18094,7 @@ dumbly
 dumbness
 dumbstricken
 dumbstruck
+demagnetize
 dumbwaiter
 dumbwaiters
 dumdum
