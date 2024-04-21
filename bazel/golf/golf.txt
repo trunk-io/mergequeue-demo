@@ -6280,7 +6280,6 @@ gnomonic
 gnomonology
 gnomonological
 globicephala
-gnosiology
 glossic
 gnosiological
 gnosis
@@ -8895,6 +8894,7 @@ griddle
 griddlecake
 giddiness
 griddlecakes
+gnosiology
 gournard
 griddled
 genderless
