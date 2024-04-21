@@ -1867,7 +1867,6 @@ fore
 fructuose
 fermentology
 febriferous
-frondescence
 febrific
 fougue
 febrile
@@ -4602,6 +4601,7 @@ fivebar
 fiveling
 freeheartedness
 fivepence
+frondescence
 forages
 fm
 fivesome
