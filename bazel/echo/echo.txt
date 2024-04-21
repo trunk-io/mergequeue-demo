@@ -8432,7 +8432,6 @@ epizootiological
 equip
 eglogue
 epizootology
-eplot
 epocha
 eumitosis
 epoche
@@ -10012,6 +10011,7 @@ esthetics
 esthetology
 enabled
 esthiomene
+eplot
 esthiomenus
 estimable
 expenthesis
