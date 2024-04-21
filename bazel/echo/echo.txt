@@ -2720,7 +2720,6 @@ elegising
 elegist
 esterizing
 eyewitness
-elegize
 elegized
 elegizes
 eleidin
@@ -10651,6 +10650,7 @@ endogenic
 enew
 euchloric
 euchlorine
+elegize
 euchlorite
 euchlorhydria
 eleutherodactylus
