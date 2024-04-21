@@ -2499,7 +2499,6 @@ fermillet
 frenchless
 flexity
 fermions
-fermis
 fermium
 fern
 fastigium
@@ -7196,6 +7195,7 @@ fedayee
 flection
 footled
 fiducinales
+fermis
 footler
 footlers
 freinage
