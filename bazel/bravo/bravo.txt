@@ -12675,7 +12675,6 @@ bookful
 bookhood
 bloodhounds
 bookie
-bookiness
 bookings
 bookishly
 batiste
@@ -13412,6 +13411,7 @@ benes
 biophotometer
 barrens
 blueprints
+bookiness
 botte
 bibliopoly
 biacromial
