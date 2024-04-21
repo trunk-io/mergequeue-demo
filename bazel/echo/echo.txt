@@ -319,6 +319,7 @@ exsecants
 eccentring
 evenings
 endogeny
+extraocular
 enunciate
 endevil
 eavesdrop
@@ -1351,7 +1352,6 @@ efferents
 efferous
 enculturate
 enantiomorphous
-extraocular
 effervescency
 endoskeletal
 exomis
