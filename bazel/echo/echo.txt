@@ -5195,7 +5195,6 @@ enamines
 endophyllous
 endophyllum
 esophagostomy
-escallonia
 endophytal
 eupepticism
 endophyte
@@ -13820,6 +13819,7 @@ extractability
 extractable
 extractant
 extractibility
+escallonia
 extractible
 evections
 extractiform
