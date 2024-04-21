@@ -8938,7 +8938,6 @@ capkin
 charabancs
 charac
 characeae
-characetum
 characids
 characin
 characine
@@ -12043,6 +12042,7 @@ chorisepalous
 chorisis
 chorism
 chorist
+characetum
 chassis
 choristate
 chorister
