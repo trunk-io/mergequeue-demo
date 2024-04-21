@@ -1100,7 +1100,6 @@ foredestining
 faroelite
 foremast
 farolito
-faros
 farrage
 frizzed
 foldstool
@@ -6015,6 +6014,7 @@ flutteration
 frontooccipital
 fayed
 floressence
+faros
 floret
 floreted
 forethoughted
