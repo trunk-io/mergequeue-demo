@@ -4762,7 +4762,6 @@ fumiferana
 farcical
 frogeyes
 flaggy
-flaggier
 flaggiest
 flagginess
 fiendism
@@ -11257,6 +11256,7 @@ faller
 fungused
 funguses
 fireball
+flaggier
 funguslike
 funic
 fistulae

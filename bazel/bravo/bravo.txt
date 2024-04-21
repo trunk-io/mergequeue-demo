@@ -543,6 +543,7 @@ backus
 backveld
 bayok
 backvelder
+beagle
 backway
 backwall
 bewhite
@@ -4067,7 +4068,6 @@ beadwork
 beadworks
 bibliothecaire
 benj
-beagle
 beagles
 boilermaking
 beagling
