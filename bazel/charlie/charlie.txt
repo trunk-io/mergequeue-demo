@@ -7282,7 +7282,6 @@ centronote
 centronucleus
 centroplasm
 centropomidae
-centrosymmetry
 centrosymmetric
 countians
 centrosymmetrical
@@ -15005,6 +15004,7 @@ chasmy
 cytopenia
 cytophaga
 cytophagy
+centrosymmetry
 cytophagic
 cytophagous
 cytopharynges
