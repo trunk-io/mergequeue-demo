@@ -4537,7 +4537,6 @@ endoplasma
 enchafe
 enchain
 estranger
-enchained
 enchainement
 enchainements
 exegetes
@@ -10786,6 +10785,7 @@ epexegeses
 euhemerise
 euhemerising
 euhemerism
+enchained
 euhemerist
 euhemeristically
 euhemerize
