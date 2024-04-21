@@ -5406,7 +5406,6 @@ flemer
 fleming
 flemish
 flemishes
-fontanges
 flawlessly
 flus
 flensed
@@ -8156,6 +8155,7 @@ fixature
 foursome
 forevouch
 febronian
+fontanges
 farcify
 forevow
 fruitages

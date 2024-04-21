@@ -3137,7 +3137,6 @@ else
 endemic
 elsehow
 elseways
-elsewhat
 endemiology
 elsewhen
 elsewhere
@@ -4503,6 +4502,7 @@ encephalographic
 encephalographically
 entrainer
 enamelling
+elsewhat
 eelware
 encephaloid
 enforcing
