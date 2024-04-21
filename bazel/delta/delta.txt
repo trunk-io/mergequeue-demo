@@ -8016,6 +8016,7 @@ dezincs
 dezinkify
 dfault
 dft
+dialects
 disavowment
 dghaisa
 doylt
@@ -8345,7 +8346,6 @@ dialectologically
 dialectologist
 dialector
 dargue
-dialects
 dimethylsulfoxide
 dialed
 dialer
