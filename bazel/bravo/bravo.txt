@@ -9240,7 +9240,6 @@ biotins
 biotypes
 biotypic
 biotypology
-barb
 biotite
 biotites
 biotome
@@ -11676,6 +11675,7 @@ bobber
 bayogoula
 bobbery
 bobbers
+barb
 bobby
 bobbin
 bobbiner
