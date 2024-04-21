@@ -8047,7 +8047,6 @@ dumpies
 dharmasutra
 dharmic
 dharmsala
-dharna
 dharnas
 dhaura
 dhava
@@ -12624,6 +12623,7 @@ doctrinable
 disleaf
 disfavour
 disleafed
+dharna
 dagon
 disenchants
 disleal
