@@ -3270,6 +3270,7 @@ epics
 emancipist
 elbowboard
 emandibulate
+eelback
 emane
 emanium
 emarginated
@@ -4574,7 +4575,6 @@ enchasten
 encheason
 encheer
 enchelycephali
-eelback
 elliott
 enchequer
 enchesoun
