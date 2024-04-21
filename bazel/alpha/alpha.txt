@@ -18347,7 +18347,6 @@ aberuncator
 aquiclude
 aquicolous
 aquifer
-aquiferous
 actifier
 aquifers
 aquifoliaceae
@@ -21348,6 +21347,7 @@ asker
 askers
 askeses
 atmograph
+aquiferous
 askesis
 askewgee
 askile
