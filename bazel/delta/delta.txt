@@ -5981,6 +5981,7 @@ deltahedron
 depressives
 dodging
 daystar
+donatio
 diadems
 disincrust
 depressomotor
@@ -15468,7 +15469,6 @@ donate
 donated
 donatee
 donatiaceae
-donatio
 donation
 declarer
 donationes
