@@ -4787,7 +4787,6 @@ giros
 gyroscope
 galeopithecus
 gyroscopes
-gyroscopics
 gyrose
 gyrostat
 gastroplenic
@@ -5799,6 +5798,7 @@ gloryless
 galanga
 gloriole
 germania
+gyroscopics
 gloriosity
 goniometrical
 gloriously
