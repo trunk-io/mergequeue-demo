@@ -11102,7 +11102,6 @@ chitinoid
 chitinous
 chitins
 chitlin
-curtsey
 chitling
 chitlings
 chewstick
@@ -23197,6 +23196,7 @@ constructible
 construction
 constructional
 constructionism
+curtsey
 constructionist
 constructionists
 constructions
