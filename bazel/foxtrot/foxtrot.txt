@@ -8144,6 +8144,7 @@ foreweigh
 fevertwig
 flockbed
 forewent
+freezable
 frostbird
 forewings
 fillercap
@@ -9739,7 +9740,6 @@ fei
 freewoman
 freewomen
 figurines
-freezable
 fourths
 freeze
 futharks

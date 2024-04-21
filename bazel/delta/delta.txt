@@ -4694,7 +4694,6 @@ demineralizer
 demineralizes
 demineralizing
 deminude
-deminudity
 demioctangular
 demiofficial
 demiorbit
@@ -12409,6 +12408,7 @@ diglossia
 dishonor
 distendedness
 dishonorably
+deminudity
 discession
 dishonorer
 dishonoring
