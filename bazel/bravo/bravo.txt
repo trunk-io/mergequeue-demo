@@ -10281,7 +10281,6 @@ blackly
 blackware
 bilges
 befleaed
-blackwasher
 blackwater
 baphomet
 blackweed
@@ -11427,6 +11426,7 @@ bluenosed
 bluenoser
 bluenoses
 bluepoint
+blackwasher
 bluepoints
 blueprint
 blues
