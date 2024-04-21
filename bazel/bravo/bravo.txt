@@ -2779,7 +2779,6 @@ boroughship
 barometers
 barometry
 barometric
-barometrical
 barometrically
 beelzebub
 bartholinitis
@@ -7903,6 +7902,7 @@ bushi
 besmother
 biasing
 biasnesses
+barometrical
 biatomic
 biauricular
 biauriculate
