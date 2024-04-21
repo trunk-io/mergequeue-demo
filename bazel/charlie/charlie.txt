@@ -3713,7 +3713,6 @@ carbinyl
 carbinol
 carbinols
 carboazotine
-carbocer
 carbocyclic
 carbocinchomeronic
 conrail
@@ -26529,6 +26528,7 @@ cottonmouths
 cottonocracy
 cottonseed
 cottonseeds
+carbocer
 camomile
 cottontail
 cephalopodic
