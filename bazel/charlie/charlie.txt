@@ -5997,6 +5997,7 @@ catholyte
 cathouse
 chandeliers
 cathouses
+crownling
 cathrin
 cathryn
 cathud
@@ -20744,7 +20745,6 @@ complicant
 complicate
 complicated
 complicatedly
-crownling
 complicatedness
 complicates
 complication
