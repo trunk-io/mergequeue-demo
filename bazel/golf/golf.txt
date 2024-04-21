@@ -635,7 +635,6 @@ galliney
 galling
 gallingness
 gallinipper
-gastropneumatic
 gallinule
 gallinulelike
 gormandiser
@@ -5934,6 +5933,7 @@ glist
 glowering
 glowfly
 glowflies
+gastropneumatic
 glowingly
 glucuronic
 glows
