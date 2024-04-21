@@ -4509,7 +4509,6 @@ disallowableness
 disembark
 demeanored
 demeanors
-demegoric
 demele
 demembration
 demembre
@@ -8268,6 +8267,7 @@ denitrating
 diagnosticated
 diagnosticating
 diagnostication
+demegoric
 diagnostician
 dantist
 diagnosticians
