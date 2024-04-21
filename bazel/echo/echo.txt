@@ -4244,7 +4244,6 @@ emulatory
 emulatress
 emule
 emulgence
-electrolyzer
 emulously
 escambio
 emulousness
@@ -4774,6 +4773,7 @@ encompassment
 entangling
 encopreses
 encorbellment
+electrolyzer
 encorbelment
 encore
 emeute
