@@ -7135,6 +7135,7 @@ diluvian
 dressages
 destructible
 destructibleness
+dicoccous
 dimedon
 destruction
 destructional
@@ -9032,7 +9033,6 @@ ductal
 diclinic
 diclinous
 diclytra
-dicoccous
 deify
 deraigns
 dicodeine
