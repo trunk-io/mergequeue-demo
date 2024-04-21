@@ -97,7 +97,6 @@ bludgeoned
 babylike
 babillard
 babylon
-babylonians
 babylonish
 babylonism
 backtrace
@@ -2210,6 +2209,7 @@ baptisms
 baptistic
 baptistry
 baptistries
+babylonians
 baptizable
 baptized
 baptizement
