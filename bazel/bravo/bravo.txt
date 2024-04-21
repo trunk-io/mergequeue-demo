@@ -10992,7 +10992,6 @@ blitter
 blitum
 blitz
 blitzbuggy
-balbriggan
 bobbie
 blitzes
 bawbee
@@ -16363,6 +16362,7 @@ becharms
 brushed
 booted
 brushes
+balbriggan
 batitinan
 brushet
 boorishly

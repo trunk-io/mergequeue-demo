@@ -2966,7 +2966,6 @@ cantrip
 cantrips
 coveting
 cantus
-cantut
 cantuta
 chicadee
 cantwise
@@ -30781,6 +30780,7 @@ culot
 consentful
 culotte
 culottes
+cantut
 ctf
 culottic
 culottism
