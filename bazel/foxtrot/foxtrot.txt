@@ -1212,7 +1212,6 @@ fascine
 fishmeals
 fellmonger
 fascintatingly
-fascio
 fasciola
 flavopurpurin
 fasciolae
@@ -3469,6 +3468,7 @@ fiftypenny
 figary
 figaro
 farm
+fascio
 figeater
 floriate
 figent
