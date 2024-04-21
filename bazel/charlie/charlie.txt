@@ -1227,7 +1227,6 @@ calenturish
 calepin
 calescent
 calesero
-calesin
 calf
 calfbound
 calfdozer
@@ -29846,6 +29845,7 @@ crosshair
 crosshairs
 crosshand
 crosshatcher
+calesin
 crosshatches
 cogwheel
 crosshatching
