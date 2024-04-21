@@ -8514,6 +8514,7 @@ gilpy
 gantlines
 garlicmonger
 gozzard
+guttered
 greaseproof
 greaseproofness
 greaser
@@ -10770,7 +10771,6 @@ ganoidean
 gale
 gurneys
 galiongee
-guttered
 glyoxaline
 guttery
 guttering
