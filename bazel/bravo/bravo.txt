@@ -10894,6 +10894,7 @@ biggity
 blindball
 bindable
 bangers
+boxball
 blindcat
 bevue
 blindedly
@@ -11645,7 +11646,6 @@ bittacle
 boatless
 beclamoring
 browband
-boxball
 boatlike
 boatlip
 boatload
