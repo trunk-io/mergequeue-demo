@@ -6480,7 +6480,6 @@ bollen
 benzofuran
 benzofuryl
 biozone
-benzofuroquinoxaline
 belgium
 benzoglycolic
 benzoglyoxaline
@@ -15099,6 +15098,7 @@ brewhouses
 brewing
 brewings
 brewis
+benzofuroquinoxaline
 brewises
 bocks
 brewmaster
