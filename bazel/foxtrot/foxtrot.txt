@@ -2422,7 +2422,6 @@ fer
 farriers
 featherstitching
 feracious
-feracities
 ferae
 fairyship
 feralin
@@ -10431,6 +10430,7 @@ favorably
 frontcourt
 fronted
 fortune
+feracities
 fronter
 frontier
 fascisticize
