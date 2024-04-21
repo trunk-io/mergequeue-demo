@@ -4126,6 +4126,7 @@ cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
+chimakuan
 cardiosclerosis
 cardiosymphysis
 cardiospasm
@@ -10671,7 +10672,6 @@ chilver
 chimaera
 chimaerid
 chimaeroid
-chimakuan
 chimakum
 chimalakwe
 cogon
