@@ -6858,7 +6858,6 @@ entomic
 entomical
 entomofauna
 entomogenous
-empodium
 emmantle
 entomol
 entomolegist
@@ -13331,6 +13330,7 @@ expostulate
 expostulating
 expostulatingly
 expostulations
+empodium
 expostulative
 expostulatively
 expostulatory
