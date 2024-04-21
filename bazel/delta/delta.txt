@@ -11974,6 +11974,7 @@ disembarked
 duskish
 disembarking
 dugout
+disthrone
 disembarks
 disembarrass
 disembarrassed
@@ -13826,7 +13827,6 @@ disterminate
 disterr
 disthene
 dysthymic
-disthrone
 disciplinarian
 disthroned
 disthroning
