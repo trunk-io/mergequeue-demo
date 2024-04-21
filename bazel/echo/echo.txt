@@ -2246,7 +2246,6 @@ electragist
 electress
 electret
 electrets
-electrical
 eyrer
 esophagogastrostomy
 exploitive
@@ -10807,6 +10806,7 @@ eulachons
 eulamellibranchiata
 embruted
 eulamellibranchiate
+electrical
 eulerian
 etrier
 eulimidae
