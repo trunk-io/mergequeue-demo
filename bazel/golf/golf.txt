@@ -3386,7 +3386,6 @@ germanify
 gloominess
 germanification
 guess
-germanyl
 germanish
 gadso
 gumihan
@@ -3752,6 +3751,7 @@ ghostish
 grannom
 glossologies
 ghostism
+germanyl
 gadgeteer
 ghostland
 glucide
