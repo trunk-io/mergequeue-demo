@@ -540,7 +540,6 @@ daltonian
 daltonic
 daltonism
 daltonist
-dam
 dama
 damageability
 damageably
@@ -16731,6 +16730,7 @@ deinosaur
 dramatics
 dramatisable
 dramatise
+dam
 dramatiser
 dramatising
 dramatizable
