@@ -1872,7 +1872,6 @@ brython
 bakehouse
 bandhava
 bandhook
-borer
 bandhu
 begulfing
 bandyball
@@ -16514,6 +16513,7 @@ bubblier
 bubbliest
 bubbliness
 brisky
+borer
 bubbling
 bubblish
 bube
