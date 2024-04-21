@@ -364,6 +364,7 @@ backhanding
 backhands
 backhaul
 backhauls
+bossy
 backhoe
 backhoes
 boobies
@@ -13217,7 +13218,6 @@ bosses
 barysphere
 bosset
 barebacked
-bossy
 bossier
 besieger
 bossies

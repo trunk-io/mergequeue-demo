@@ -2965,7 +2965,6 @@ feuillage
 foreshows
 feuillants
 feuillemorte
-feuillet
 feuilleton
 feuilletonist
 feuilletonistic
@@ -9110,6 +9109,7 @@ fowk
 feudaries
 fowl
 fowled
+feuillet
 fowler
 fowlery
 froeman
