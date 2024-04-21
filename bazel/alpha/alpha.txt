@@ -291,7 +291,6 @@ articulate
 abduct
 abducted
 abducting
-abduction
 abductions
 ampullar
 abductor
@@ -11655,6 +11654,7 @@ anaetiological
 anagalactic
 agamae
 anagallis
+abduction
 anagap
 anagenesis
 anagenetic
