@@ -1470,6 +1470,7 @@ fatteners
 fattening
 fattens
 fattest
+frequentness
 footnotes
 fumigator
 fattier
@@ -9859,7 +9860,6 @@ frondesce
 foolhardiest
 factionalist
 fibbing
-frequentness
 furlane
 fewnesses
 fastiia
