@@ -13162,7 +13162,6 @@ anim
 anima
 animability
 animable
-animableness
 animacule
 animadversal
 animadversional
@@ -15444,6 +15443,7 @@ antiketogen
 antiketogenesis
 antiketogenic
 antiking
+animableness
 aposematic
 anthropomorphize
 antikings
