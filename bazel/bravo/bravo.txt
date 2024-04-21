@@ -509,7 +509,6 @@ backstitching
 broadway
 backstop
 backstopped
-backstopping
 backstops
 backstrap
 backstrapped
@@ -4579,6 +4578,7 @@ becrusts
 becudgeled
 becudgeling
 becudgelled
+backstopping
 burnsides
 becudgelling
 becudgels
