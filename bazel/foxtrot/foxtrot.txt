@@ -3091,7 +3091,6 @@ filamentose
 fiberboard
 fiberglas
 flanconade
-fiberized
 fiberizes
 fiberizing
 fiberless
@@ -9314,6 +9313,7 @@ fausant
 frillback
 fraying
 ficin
+fiberized
 frayings
 fusk
 frailejon
