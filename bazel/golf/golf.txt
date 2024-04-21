@@ -5463,7 +5463,6 @@ gospodipoda
 guttural
 grando
 glides
-glidewort
 governably
 gliding
 glidingly
@@ -6570,6 +6569,7 @@ galliard
 guaharibo
 girrock
 goldenness
+glidewort
 goldenrod
 goldenrods
 gucked
