@@ -3547,7 +3547,6 @@ embosture
 embottle
 embouchement
 embouchment
-embouchures
 embound
 embourgeoisement
 endoabdominal
@@ -8622,6 +8621,7 @@ exect
 equidiurnal
 eleutheromania
 equidivision
+embouchures
 equielliptical
 equiexcellency
 equigranular
