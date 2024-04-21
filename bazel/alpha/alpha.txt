@@ -47,6 +47,7 @@ actiniaria
 abaction
 abaculus
 abacus
+annotation
 abacuses
 abaddon
 abadejo
@@ -13638,7 +13639,6 @@ azeotropism
 annotater
 amputated
 annotates
-annotation
 avoiding
 annotations
 annotative
