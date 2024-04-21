@@ -11306,6 +11306,7 @@ dereligionize
 discanonization
 drawstring
 dactylologies
+disjuncture
 disenthralling
 discanonize
 dentalizing
@@ -12620,7 +12621,6 @@ disjunctor
 disjuncts
 divia
 dereferences
-disjuncture
 disjune
 disk
 disked
