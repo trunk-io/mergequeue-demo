@@ -458,7 +458,6 @@ gooseries
 guttier
 guestimated
 galena
-galenas
 galenic
 galenical
 granulitize
@@ -7391,6 +7390,7 @@ gnatproof
 goulan
 gilling
 gesellschaften
+galenas
 goularo
 goulash
 goulashes
