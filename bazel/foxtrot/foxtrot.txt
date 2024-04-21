@@ -2950,7 +2950,6 @@ fendy
 feudalism
 feudalist
 feudalists
-fixations
 feudality
 fractionising
 frohlich
@@ -3610,6 +3609,7 @@ filed
 filefishes
 fogie
 foretack
+fixations
 filemaker
 fluidize
 filemot
