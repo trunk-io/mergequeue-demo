@@ -6506,7 +6506,6 @@ exceptions
 entanglements
 euharmonic
 entangler
-entanglers
 extraplanetary
 entangles
 environs
@@ -8887,6 +8886,7 @@ erects
 equiprobabilist
 erelong
 emblement
+entanglers
 eremic
 eases
 eremitism
