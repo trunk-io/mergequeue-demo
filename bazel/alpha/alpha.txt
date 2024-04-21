@@ -3122,7 +3122,6 @@ actinogram
 appearances
 actinograph
 acrosporous
-actinography
 arsenicating
 asbolin
 actinographic
@@ -3592,6 +3591,7 @@ address
 addressability
 allotheistic
 ammine
+actinography
 addressable
 addressees
 addresser
