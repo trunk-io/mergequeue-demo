@@ -5697,7 +5697,6 @@ bodgie
 beleaguered
 beleaguering
 beleaguers
-beleap
 bedsteads
 beleaps
 beleapt
@@ -8998,6 +8997,7 @@ biodegradable
 biodegradation
 becassocked
 biodegrade
+beleap
 biodegraded
 biodegrading
 biodynamical
