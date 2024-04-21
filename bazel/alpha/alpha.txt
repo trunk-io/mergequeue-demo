@@ -14196,7 +14196,6 @@ antehall
 antehypophysis
 aquaculture
 antehistoric
-antehuman
 aeolopantalon
 ammonoid
 antejudiciary
@@ -22018,6 +22017,7 @@ astacian
 astacidae
 astacus
 astay
+antehuman
 astakiwi
 astalk
 anisometropic
