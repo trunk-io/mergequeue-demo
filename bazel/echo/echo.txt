@@ -1796,7 +1796,6 @@ epistolary
 edwardsia
 excrement
 enclaret
-eyesore
 eyesores
 eyespot
 eyespots
@@ -13676,6 +13675,7 @@ exterritorialize
 extersive
 eluder
 extima
+eyesore
 exhauster
 epitrochoidal
 extimulate
