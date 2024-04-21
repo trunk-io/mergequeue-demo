@@ -2957,7 +2957,6 @@ gentler
 gentles
 genuflection
 gentlest
-gentlewomanhood
 gentlewomanly
 glossoid
 gentlewomanlike
@@ -6180,6 +6179,7 @@ genericalness
 gnarrs
 guerickian
 gnashed
+gentlewomanhood
 gobang
 gravispheric
 gnashingly
