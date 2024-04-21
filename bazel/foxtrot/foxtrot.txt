@@ -2075,6 +2075,7 @@ frontspiece
 feinschmecker
 filacer
 feinter
+feudary
 forestlike
 feinting
 feis
@@ -2955,7 +2956,6 @@ feudalize
 fratching
 feudalized
 feudalizing
-feudary
 fantastical
 feudatary
 fastings
