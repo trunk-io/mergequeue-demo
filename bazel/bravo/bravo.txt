@@ -3069,7 +3069,6 @@ barvell
 beduin
 brainwashing
 bimetal
-barway
 breastplate
 boffola
 basipoditic
@@ -3791,6 +3790,7 @@ battlefront
 battlefronts
 battleful
 battlegrounds
+barway
 battlement
 battlements
 battlepiece
