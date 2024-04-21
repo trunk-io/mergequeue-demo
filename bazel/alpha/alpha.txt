@@ -4798,7 +4798,6 @@ aedilities
 aedine
 aedoeagi
 aedoeagus
-aedoeology
 aefald
 aefaldy
 aefauld
@@ -24341,6 +24340,7 @@ autorhythmus
 autoriser
 autorotate
 amastia
+aedoeology
 autorotation
 abelmosks
 atopen
