@@ -6368,7 +6368,6 @@ cautioners
 cautiones
 cautioning
 canard
-cautionings
 cautionry
 cautions
 cautious
@@ -13990,6 +13989,7 @@ cinnamic
 cinnamyl
 cinnamylidene
 cyclodiolefin
+cautionings
 cinnamodendron
 cinnamol
 cinnamon
