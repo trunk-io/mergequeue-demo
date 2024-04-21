@@ -3643,7 +3643,6 @@ embryophyta
 embryophyte
 embryophore
 embryoplastic
-etiolation
 embryos
 embryotega
 embryotegae
@@ -5176,6 +5175,7 @@ endophasia
 endophasic
 enamines
 endophyllous
+etiolation
 endophyllum
 esophagostomy
 endophytal
