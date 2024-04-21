@@ -3101,7 +3101,6 @@ base
 baseball
 bojite
 baseballer
-baseballs
 baseband
 baseboard
 boodledom
@@ -6954,6 +6953,7 @@ bescoundrel
 bescour
 barhal
 betokener
+baseballs
 bescourge
 bescours
 bescramble
