@@ -6824,7 +6824,6 @@ beneficing
 broomstaff
 berate
 balaamitical
-berlina
 berline
 berliners
 berlinite
@@ -17039,6 +17038,7 @@ bulkage
 bulkages
 bulked
 boldfaces
+berlina
 buhlwork
 bulkhead
 bulkheading
