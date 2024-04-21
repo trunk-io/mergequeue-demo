@@ -714,7 +714,6 @@ aborter
 aborters
 aborticide
 abortient
-abortifacient
 accessions
 assuring
 abortin
@@ -20403,6 +20402,7 @@ arrowlet
 arrowlike
 arrowplate
 automolite
+abortifacient
 arrowroots
 arrows
 arrowsmith

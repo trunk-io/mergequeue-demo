@@ -5906,7 +5906,6 @@ depositum
 dedifferentiation
 doumaist
 deposure
-depot
 desistance
 depotentiate
 depots
@@ -14005,6 +14004,7 @@ distributions
 distributival
 distributiveness
 deservingness
+depot
 distributivity
 dicyclopentadienyliron
 distributor
