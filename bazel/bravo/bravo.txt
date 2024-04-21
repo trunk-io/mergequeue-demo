@@ -505,6 +505,7 @@ billhead
 backstitches
 briming
 backstitching
+broadway
 backstop
 backstopped
 backstopping
@@ -15646,7 +15647,6 @@ broadspread
 broadsword
 broadtail
 broadthroat
-broadway
 broadwayite
 broadways
 bamangwato
