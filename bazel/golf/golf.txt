@@ -1147,7 +1147,6 @@ gentile
 gallach
 gangman
 gangmaster
-gangplank
 gangplows
 galleasses
 glycerine
@@ -7751,6 +7750,7 @@ graip
 gainable
 goggled
 greenhorns
+gangplank
 graisse
 geodiatropism
 gephyrophobia
