@@ -11798,6 +11798,7 @@ examines
 examiningly
 examplar
 example
+exosphere
 exampled
 enigmatization
 exampleless
@@ -13235,7 +13236,6 @@ explorable
 exploratively
 exfiltration
 exploratory
-exosphere
 explored
 explorement
 enzyme
