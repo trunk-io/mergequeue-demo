@@ -650,7 +650,6 @@ faltere
 filarial
 faltered
 falterer
-faltering
 falteringly
 falters
 falutin
@@ -6999,6 +6998,7 @@ faintling
 frogface
 fomentations
 fomenter
+faltering
 foresty
 fictionary
 flerry
