@@ -5913,7 +5913,6 @@ cathedralesque
 cavorter
 clasp
 cathedralic
-cathedrals
 cathedralwise
 cathedras
 cathedrated
@@ -18269,6 +18268,7 @@ cofounded
 championlike
 cofounder
 cofounding
+cathedrals
 cofoundress
 cofounds
 cofreighter
