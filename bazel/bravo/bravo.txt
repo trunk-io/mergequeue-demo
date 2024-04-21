@@ -2266,7 +2266,6 @@ baraza
 barba
 barbacan
 belgae
-beehouse
 barbacoan
 bloc
 birdfarms
@@ -5491,6 +5490,7 @@ behenic
 behest
 bemixed
 behests
+beehouse
 behew
 busybodied
 behymn
