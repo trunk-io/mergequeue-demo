@@ -1907,7 +1907,6 @@ gastrostomus
 gastrotaxis
 gastrothecal
 gastrotome
-gastrotomy
 gastrotomic
 gastrotubotomy
 gastrovascular
@@ -8692,6 +8691,7 @@ greenroom
 greenrooms
 greens
 gilty
+gastrotomy
 greensauce
 gentilism
 glossophytia
