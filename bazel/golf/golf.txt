@@ -6227,7 +6227,6 @@ geochronometric
 gymnogenous
 gnawer
 gnawings
-gnawn
 gloriette
 gnaws
 gills
@@ -7572,6 +7571,7 @@ gracelessly
 gallerying
 gracelessness
 gracer
+gnawn
 gracy
 gracilariidae
 grumblers
