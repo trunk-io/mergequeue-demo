@@ -2443,7 +2443,6 @@ electroimpulse
 electroindustrial
 electroing
 eductions
-enzymology
 electrokinetic
 enkolpion
 embarrased
@@ -2992,6 +2991,7 @@ extricate
 elixiviate
 everich
 elderly
+enzymology
 epigenesis
 ecumenicality
 embryonary
