@@ -4558,7 +4558,6 @@ flank
 fitness
 fidia
 feudalised
-foreimpression
 fitout
 fitroot
 finedrawing
@@ -6130,6 +6129,7 @@ flourless
 flours
 foregoing
 falcated
+foreimpression
 forechoir
 fangled
 floush
