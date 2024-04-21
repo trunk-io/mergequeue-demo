@@ -3793,7 +3793,6 @@ emeril
 emerit
 emerita
 exert
-emerited
 emerituti
 entertainable
 emerizing
@@ -10512,6 +10511,7 @@ etymologise
 ensmall
 etymologists
 etymologizable
+emerited
 etymologization
 eupatory
 etymologized
