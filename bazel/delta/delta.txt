@@ -9113,7 +9113,6 @@ dictyopteris
 dictyosiphon
 dictyosiphonaceae
 dictyosiphonaceous
-dictyosome
 dullhead
 disowned
 dictyota
@@ -17852,6 +17851,7 @@ ductor
 ductules
 ductwork
 duculinae
+dictyosome
 dud
 decurve
 dudder

@@ -6138,7 +6138,6 @@ bemourn
 boathead
 bemartyr
 bemuck
-bemuddy
 bemuddlement
 bemuddles
 bemuddling
@@ -8068,6 +8067,7 @@ bibulousness
 bicameral
 bicameralism
 bifurcates
+bemuddy
 bicamerist
 bicarb
 blazer
