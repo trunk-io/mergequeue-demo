@@ -4048,6 +4048,7 @@ grisaille
 goldurn
 gigolo
 ginnle
+grades
 grocery
 graftdom
 gigots
@@ -7621,7 +7622,6 @@ grademark
 grinningly
 gnathometer
 grader
-grades
 gradgrind
 gud
 gradgrindism
