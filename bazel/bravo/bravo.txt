@@ -2585,6 +2585,7 @@ bouchons
 burmite
 barid
 burgus
+batrachite
 barye
 bois
 baryecoia
@@ -3711,7 +3712,6 @@ bruet
 batrachians
 breadbaskets
 batrachidae
-batrachite
 batrachium
 batrachophidia
 bats
