@@ -2975,7 +2975,6 @@ entourages
 epichirema
 elytroposis
 elytrorhagia
-elytrorrhaphy
 elytrostenosis
 elytrotomy
 elix
@@ -14063,6 +14062,7 @@ euhemeristic
 extreme
 entwinement
 extremeless
+elytrorrhaphy
 extremely
 exhilarative
 extremeness
