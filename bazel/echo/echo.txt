@@ -2935,7 +2935,6 @@ eliminate
 entoplastic
 equiprobabilism
 eliminated
-eliminates
 ellipsometry
 equaled
 ergotized
@@ -13592,6 +13591,7 @@ extenuate
 extenuates
 extenuatingly
 extenuation
+eliminates
 extenuations
 enskying
 ecphonesis
