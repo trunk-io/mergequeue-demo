@@ -5409,6 +5409,7 @@ affixers
 affixes
 adenylpyrophosphate
 affixial
+android
 affixion
 affixment
 ague
@@ -12444,7 +12445,6 @@ androgonidium
 androgonium
 andrographis
 andrographolide
-android
 androids
 androlepsy
 acrotomous
