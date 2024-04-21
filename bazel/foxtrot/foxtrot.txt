@@ -7455,7 +7455,6 @@ freemen
 forjudger
 forcipated
 forcipation
-forcipial
 forcipiform
 forcipressure
 fishhook
@@ -11097,6 +11096,7 @@ fumishing
 fermented
 flowerlet
 fummel
+forcipial
 fummle
 fumose
 fumosity
