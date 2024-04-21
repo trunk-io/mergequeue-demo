@@ -1239,6 +1239,7 @@ eelboat
 epigrammatise
 eelbobber
 eelcake
+electromyography
 ewer
 endostome
 erythropoietic
@@ -11606,7 +11607,6 @@ elisha
 embrute
 evolutes
 evolution
-electromyography
 extensiveness
 evolutionary
 evolutionism
