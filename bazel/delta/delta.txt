@@ -7625,7 +7625,6 @@ devaunt
 devchar
 degaussed
 deveined
-deveining
 deveins
 dryest
 devel
@@ -16219,6 +16218,7 @@ dowdiness
 disavouch
 dowed
 doweled
+deveining
 doweling
 dowels
 dower
