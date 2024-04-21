@@ -11606,7 +11606,6 @@ discomposedness
 durrie
 discomposingly
 disconanthae
-disconcerting
 disconcertion
 diversities
 disconcertment
@@ -16821,6 +16820,7 @@ derelictions
 drawarm
 drawback
 drawbar
+disconcerting
 drawbars
 drawbeam
 drawbench
