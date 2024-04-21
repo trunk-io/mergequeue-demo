@@ -12103,7 +12103,6 @@ bokmakierie
 bokom
 bola
 bolag
-bolar
 bolas
 bearcoot
 bolases
@@ -17963,6 +17962,7 @@ bushfighting
 bushfires
 bushgrass
 bushy
+bolar
 beneceptive
 babuism
 bushidos
