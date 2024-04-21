@@ -7936,7 +7936,6 @@ cess
 cessant
 cessantly
 cessation
-cessations
 cessative
 cessavit
 cessed
@@ -18428,6 +18427,7 @@ cohead
 coheading
 coheads
 cassate
+cessations
 coheartedness
 coheir
 coheiress
