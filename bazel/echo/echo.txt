@@ -5976,7 +5976,6 @@ explanations
 extrapolates
 enlief
 encounters
-enlight
 enlighten
 enlightenedly
 enlightenedness
@@ -8851,6 +8850,7 @@ estivate
 eyehook
 eagers
 eternalization
+enlight
 erechtheum
 erechtheus
 erechtites
