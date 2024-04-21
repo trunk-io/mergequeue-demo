@@ -13171,7 +13171,6 @@ cyborg
 cibory
 chinotti
 ciboria
-ciborium
 ciboule
 ciboules
 cyc
@@ -20822,6 +20821,7 @@ capacitors
 compos
 crotalus
 chrismary
+ciborium
 corpulence
 composable
 composal
