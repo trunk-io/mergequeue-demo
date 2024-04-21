@@ -8185,7 +8185,6 @@ guacamole
 grappas
 grassfinch
 grapple
-grappled
 grappler
 grapples
 gawks
@@ -10466,6 +10465,7 @@ guncotton
 greenbacks
 guiled
 gunda
+grappled
 gundelow
 gimmicks
 gypsous
