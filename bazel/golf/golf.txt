@@ -6559,7 +6559,6 @@ goldenrods
 gucked
 garotting
 goldentop
-gastronome
 galbula
 gastrea
 golder
@@ -9308,6 +9307,7 @@ glamorize
 groove
 gothonic
 groovelike
+gastronome
 groover
 gumtree
 gematrical
