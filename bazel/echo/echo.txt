@@ -10459,7 +10459,6 @@ existant
 ensorcell
 elytra
 ethnopsychology
-ethnopsychological
 enalite
 ethnoses
 extrema
@@ -11438,6 +11437,7 @@ ethnomusicologist
 eventfulness
 exuvia
 endways
+ethnopsychological
 eventides
 eventilate
 eventime
