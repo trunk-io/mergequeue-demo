@@ -10502,7 +10502,6 @@ ameliorativ
 amidoplast
 amaryllid
 amidoplastid
-amidosuccinamic
 amidoxy
 amidoxyl
 amidoxime
@@ -16899,6 +16898,7 @@ arian
 apheretic
 apheses
 adumbrate
+amidosuccinamic
 asclepius
 antiphoner
 aphesis
