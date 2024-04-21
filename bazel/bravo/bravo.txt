@@ -2291,7 +2291,6 @@ barbarities
 barbarization
 breedling
 birdclapper
-barbarize
 barbarized
 barbarizing
 barbarous
@@ -4814,6 +4813,7 @@ bedright
 bedrip
 brainish
 balsawood
+barbarize
 bedrugging
 bedrivel
 broadening
