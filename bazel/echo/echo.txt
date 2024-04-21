@@ -7240,7 +7240,6 @@ eolation
 eole
 eolian
 eolipile
-epitela
 eolipiles
 eolithic
 eolopiles
@@ -11609,6 +11608,7 @@ evocator
 evoe
 eleut
 evoker
+epitela
 enterococci
 excusator
 ectocrine
