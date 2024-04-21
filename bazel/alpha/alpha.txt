@@ -2713,7 +2713,6 @@ apophonies
 allocated
 auxoflore
 acquiet
-acquirability
 acquirable
 acquire
 acquired
@@ -17857,6 +17856,7 @@ applauses
 applausive
 applausively
 apple
+acquirability
 appleberry
 appleblossom
 appled
