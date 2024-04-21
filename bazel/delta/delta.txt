@@ -7294,6 +7294,7 @@ determ
 dazzled
 determent
 discompt
+disorientation
 determents
 determinable
 dowage
@@ -14461,7 +14462,6 @@ diphaser
 divisibility
 diabases
 divisibilities
-disorientation
 divisible
 divisibleness
 division
