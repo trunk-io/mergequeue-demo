@@ -6153,7 +6153,6 @@ flowcharted
 fulicinae
 flowcharts
 furnit
-fossicks
 finality
 flowcontrol
 flowed
@@ -11736,6 +11735,7 @@ fuzes
 fuzil
 ferfathmur
 fuzils
+fossicks
 fuzz
 fuzzball
 fuzzes
