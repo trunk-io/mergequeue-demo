@@ -2579,7 +2579,6 @@ ferretto
 ferriages
 flanes
 ferryboat
-fluorography
 ferryboats
 familistery
 ferricyanate
@@ -5108,6 +5107,7 @@ flatted
 flimp
 flattening
 flattercap
+fluorography
 fragmentized
 foolheadedness
 floggings
