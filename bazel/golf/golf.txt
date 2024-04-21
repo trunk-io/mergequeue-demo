@@ -3829,7 +3829,6 @@ gauk
 gibbing
 gibbled
 gibblegabble
-grivet
 gumpheon
 gibblegabbler
 gibbles
@@ -8141,6 +8140,7 @@ graphomaniacal
 gymkhana
 gnawers
 grammarians
+grivet
 grippingness
 glareous
 garamond
