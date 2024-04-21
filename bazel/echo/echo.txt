@@ -1063,6 +1063,7 @@ edgers
 edgeshot
 errands
 edgeway
+exposedness
 embalmment
 enshrouded
 embryonically
@@ -13302,7 +13303,6 @@ exposable
 emotionalising
 exposals
 exposed
-exposedness
 exposes
 exposing
 envassalage
