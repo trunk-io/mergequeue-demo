@@ -4516,6 +4516,7 @@ fossilify
 fists
 falcidian
 fisheye
+flaggella
 fistuca
 foxchop
 frayed
@@ -4751,7 +4752,6 @@ flagfishes
 flagged
 flaggelate
 flaggelating
-flaggella
 flagger
 fragilariaceae
 feltmonger
