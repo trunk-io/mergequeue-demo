@@ -1185,7 +1185,6 @@ ganner
 grammatication
 guahibo
 gannet
-geol
 gannetry
 gallingly
 glassrope
@@ -2983,6 +2982,7 @@ genuflecting
 genuflections
 genuflects
 grid
+geol
 grasser
 genuflex
 grouters
