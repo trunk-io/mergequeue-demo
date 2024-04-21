@@ -2667,7 +2667,6 @@ barkinji
 barkless
 barklyite
 barkometer
-barkpeel
 barkpeeler
 bijugate
 bescorch
@@ -18311,6 +18310,7 @@ basos
 buttocks
 button
 buttonball
+barkpeel
 buttonbush
 buttoned
 basidiocarp
