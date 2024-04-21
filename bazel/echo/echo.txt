@@ -4855,7 +4855,6 @@ electrometeor
 ectoderm
 engagedly
 equipartition
-encurl
 encurtain
 endosteal
 encushion
@@ -8887,6 +8886,7 @@ eremic
 eremite
 eases
 eremitism
+encurl
 espied
 eremochaetous
 eremology
