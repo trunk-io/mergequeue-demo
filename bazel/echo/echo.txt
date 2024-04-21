@@ -7907,7 +7907,6 @@ epilogate
 elaphure
 epilogation
 emetical
-epilogic
 enstatitic
 epilogical
 epilogize
@@ -12576,6 +12575,7 @@ existently
 exister
 existibility
 extant
+epilogic
 existing
 existlessness
 exists
