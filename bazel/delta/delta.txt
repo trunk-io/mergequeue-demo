@@ -10718,6 +10718,7 @@ demorage
 disendower
 drownproofing
 deoxidise
+disbutton
 dipneumonous
 dipneust
 dipnoan
@@ -11291,7 +11292,6 @@ digor
 disbursing
 drylot
 disburthen
-disbutton
 defervesce
 dibromid
 disc
