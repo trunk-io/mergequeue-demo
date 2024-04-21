@@ -16061,7 +16061,6 @@ antiquates
 antiquating
 antiquation
 antique
-antiquely
 antiqueness
 antiquers
 antiques
@@ -19539,6 +19538,7 @@ argentiferous
 argentin
 azotometer
 argentine
+antiquely
 argentinean
 argentineans
 argentines
