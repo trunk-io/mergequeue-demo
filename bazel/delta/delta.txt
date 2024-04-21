@@ -11795,6 +11795,7 @@ dg
 discreetest
 dermography
 discreetly
+distinguisher
 discreetness
 discrepancies
 discrepancries
@@ -13880,7 +13881,6 @@ distinguishableness
 disprizing
 distinguishably
 distinguishedly
-distinguisher
 distinguishes
 detesting
 disparison
