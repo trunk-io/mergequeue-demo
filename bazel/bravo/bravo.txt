@@ -7309,6 +7309,7 @@ bestows
 bestraddle
 bestraddled
 bluebirds
+blippers
 bestraddling
 bestraught
 blackhander
@@ -10951,7 +10952,6 @@ blintzes
 bluming
 bafta
 blypes
-blippers
 barkeep
 blips
 bliss
