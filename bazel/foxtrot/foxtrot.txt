@@ -1589,6 +1589,7 @@ fauterer
 fauteuil
 foredoom
 feverroot
+foreteach
 fauve
 flirtishness
 fauvette
@@ -8099,7 +8100,6 @@ foretaste
 foretaster
 foretastes
 foretasting
-foreteach
 franchising
 fraus
 fretsaw
