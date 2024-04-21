@@ -2641,7 +2641,6 @@ edaphodont
 electrotherapy
 electrotherapist
 electrotheraputic
-electrotheraputically
 electrothermal
 expurgates
 epiperipheral
@@ -9709,6 +9708,7 @@ esophagocele
 esophagodynia
 esophagogastroscopy
 endfile
+electrotheraputically
 esopgi
 entrike
 esophagometer

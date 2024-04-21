@@ -6733,7 +6733,6 @@ celerities
 celestas
 celeste
 corned
-celestial
 celestialized
 celestially
 crustacea
@@ -7394,6 +7393,7 @@ cephalocyst
 cucujidae
 cephaloclast
 cephalocone
+celestial
 cephaloconic
 cephalodia
 cephalodymia
