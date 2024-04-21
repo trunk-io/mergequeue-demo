@@ -3137,6 +3137,7 @@ endemic
 elsehow
 elseways
 elsewhat
+endemiology
 elsewhen
 elsewhere
 elsewheres
@@ -4944,7 +4945,6 @@ endemically
 enschedule
 endemicity
 electrofused
-endemiology
 endemism
 endemisms
 estates
