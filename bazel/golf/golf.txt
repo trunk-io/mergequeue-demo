@@ -395,7 +395,6 @@ grating
 goto
 guzzles
 gauntries
-grieved
 galant
 genderless
 galante
@@ -9706,6 +9705,7 @@ grumpy
 grumpishness
 gibetting
 grun
+grieved
 gtt
 grundy
 grundified
