@@ -4941,7 +4941,6 @@ ghostfish
 gryphite
 glacialist
 glacialize
-glaciaria
 glaciarium
 greeing
 glaciated
@@ -9464,6 +9463,7 @@ germaneness
 groundwall
 gandum
 grange
+glaciaria
 groundward
 groundwards
 group
