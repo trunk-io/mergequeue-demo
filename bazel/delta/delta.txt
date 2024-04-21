@@ -2490,6 +2490,7 @@ decken
 decker
 deckhand
 duckwing
+deerstalker
 deckhead
 deckle
 deckman
@@ -3089,7 +3090,6 @@ deers
 deerskin
 decorationist
 diaphragming
-deerstalker
 deerstalkers
 deerstalking
 deerstealer
