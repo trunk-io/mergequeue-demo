@@ -2334,7 +2334,6 @@ fencelessness
 fayalite
 fencelet
 fencepost
-fluctuations
 fenceress
 fencers
 firebricks
@@ -5862,6 +5861,7 @@ flocculent
 floccules
 frigidoreceptor
 flocculose
+fluctuations
 flocculus
 flushes
 flocker
