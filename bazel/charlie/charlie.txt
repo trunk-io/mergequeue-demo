@@ -19919,6 +19919,7 @@ comm
 command
 commandable
 commandant
+curtaxe
 commandatory
 commanded
 commandedness
@@ -21587,7 +21588,6 @@ condemnatory
 crustiness
 condemner
 condemners
-curtaxe
 condemning
 cobhead
 condemningly
