@@ -4263,7 +4263,6 @@ firewood
 fishergirl
 firewoods
 flamandize
-flatterdock
 fendable
 fireworky
 fireworkless
@@ -6819,6 +6818,7 @@ falderols
 flubdubs
 folacins
 folate
+flatterdock
 folates
 folcgemot
 founding

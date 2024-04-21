@@ -14938,7 +14938,6 @@ cytococcus
 cytode
 cytoderm
 cytodiagnosis
-cytodieretic
 cytodifferentiation
 cytoecology
 cytogamy
@@ -17028,6 +17027,7 @@ co
 coabode
 coabound
 coabsume
+cytodieretic
 coacceptor
 coacervate
 coacervated
