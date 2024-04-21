@@ -11054,7 +11054,6 @@ disanalogous
 disanchor
 disangularize
 disanimal
-disanimated
 disanimation
 despots
 disannul
@@ -18527,6 +18526,7 @@ durrs
 durukuli
 durzada
 decomplex
+disanimated
 dyslexic
 decentration
 dusenwind
