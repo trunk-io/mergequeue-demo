@@ -1188,7 +1188,6 @@ educatability
 epicrystalline
 eident
 educatable
-educate
 evitate
 educated
 educatedness
@@ -6153,6 +6152,7 @@ enolizing
 enological
 endeavored
 enteroscopy
+educate
 enologist
 enols
 enomania
