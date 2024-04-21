@@ -2623,7 +2623,6 @@ beclothed
 barytocelestine
 bedevils
 barytocelestite
-baritone
 barytone
 baritones
 barytones
@@ -3990,6 +3989,7 @@ bacteritic
 bdelloura
 bdellouridae
 barbiturate
+baritone
 bhutia
 botonny
 bdellovibrio
