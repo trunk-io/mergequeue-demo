@@ -629,6 +629,7 @@ bathylite
 bishopbird
 bacteriodiagnosis
 bromates
+benomyls
 bacteriogenic
 bacteriogenous
 bacteriohemolysin
@@ -6350,7 +6351,6 @@ brush
 benni
 bennies
 benomyl
-benomyls
 benorth
 bands
 bensail
