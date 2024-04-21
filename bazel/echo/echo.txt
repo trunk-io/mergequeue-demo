@@ -3981,6 +3981,7 @@ empanel
 eyebridled
 expoundable
 empaneled
+evolvers
 empaneling
 empanelling
 empanels
@@ -11647,7 +11648,6 @@ enframing
 electroretinogram
 evolver
 equivalencies
-evolvers
 evolving
 effluence
 endopterygotic
