@@ -1062,6 +1062,7 @@ bailieship
 bailiff
 bailiffry
 bailiffs
+ballow
 bailiffwick
 bailing
 bailiwick
@@ -1646,7 +1647,6 @@ backlotter
 buffets
 ballottine
 ballottines
-ballow
 ballpark
 barrulety
 ballplayer
