@@ -3444,7 +3444,6 @@ gelts
 germigene
 giddyhead
 gley
-giglot
 gurts
 germin
 germina
@@ -4585,6 +4584,7 @@ gipsyhead
 gypsyhead
 gipsyhood
 gradate
+giglot
 grapeless
 gablelike
 gypsying
