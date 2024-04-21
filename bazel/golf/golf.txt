@@ -2571,7 +2571,6 @@ gemmologists
 gemmulation
 grassless
 gemmule
-gemmules
 gemmuliferous
 garbel
 graniferous
@@ -6209,6 +6208,7 @@ gnathopodite
 gneissic
 grizelin
 gnathopodous
+gemmules
 gnathostomata
 gnathostome
 gnathotheca
