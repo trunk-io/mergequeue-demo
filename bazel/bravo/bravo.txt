@@ -10583,7 +10583,6 @@ blattariae
 bounding
 biostrome
 blatted
-blatter
 buoying
 blattered
 bingle
@@ -13816,6 +13815,7 @@ baraka
 bowyangs
 bowie
 beaune
+blatter
 buchite
 blacks
 blamableness
