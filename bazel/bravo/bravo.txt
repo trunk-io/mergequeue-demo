@@ -6028,7 +6028,6 @@ belts
 beltway
 bloodspilling
 boondocker
-beltwise
 beluchi
 belucki
 belue
@@ -6489,6 +6488,7 @@ benzoid
 benzoylated
 benzoylating
 benzoylation
+beltwise
 benzoylformic
 benzoylglycine
 bilge
