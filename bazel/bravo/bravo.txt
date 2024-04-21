@@ -3423,7 +3423,6 @@ beglic
 bassness
 basso
 basson
-baronages
 bedash
 backwater
 brags
@@ -7629,6 +7628,7 @@ bevor
 bevvy
 brevier
 believe
+baronages
 bewailable
 bewailed
 bewailer
