@@ -9286,6 +9286,7 @@ clapperboard
 composture
 chastises
 corf
+cranial
 chastity
 chastities
 chasuble
@@ -28099,7 +28100,6 @@ crania
 craniacromial
 cancerate
 craniad
-cranial
 cranially
 cranian
 craniata
