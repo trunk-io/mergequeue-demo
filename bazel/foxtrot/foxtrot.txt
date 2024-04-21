@@ -708,7 +708,6 @@ famished
 faming
 fired
 famishing
-famishment
 famose
 famous
 famousness
@@ -2018,6 +2017,7 @@ feely
 feelies
 feeling
 feelingful
+famishment
 floative
 firming
 feelings
