@@ -11662,7 +11662,6 @@ choleras
 choleric
 cholerically
 cricothyroid
-cholericly
 cholericness
 choleriform
 cholerigenous
@@ -19566,6 +19565,7 @@ colubridae
 colubriform
 colubrinae
 colubrine
+cholericly
 colubroid
 colugo
 colugos
