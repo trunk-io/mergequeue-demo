@@ -2649,7 +2649,6 @@ gnomological
 geochronometry
 genear
 genecology
-genecologic
 gradienter
 genecor
 griever
@@ -4463,6 +4462,7 @@ graces
 gunky
 ginglymostomoid
 gashest
+genecologic
 glaive
 ginhouse
 geneticism
