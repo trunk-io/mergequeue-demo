@@ -6790,7 +6790,6 @@ dogbodies
 desiodothyroxine
 desipient
 desipramine
-desirability
 desirableness
 desirably
 disseminated
@@ -12204,6 +12203,7 @@ dysfunctioning
 disability
 detector
 dysfunctions
+desirability
 disfurnish
 demonologies
 disfurnished
