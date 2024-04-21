@@ -3031,6 +3031,7 @@ capacity
 capacities
 can
 capacitive
+cataphoric
 capacitor
 capanna
 capanne
@@ -30193,7 +30194,6 @@ cst
 crumena
 crumenal
 crumhorn
-cataphoric
 crummable
 caimitillo
 chanson
