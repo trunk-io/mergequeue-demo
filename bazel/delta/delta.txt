@@ -8508,7 +8508,6 @@ diaminogen
 diaminogene
 diamins
 diammine
-diamminonitrate
 diammonium
 downgrades
 diamond
@@ -17925,6 +17924,7 @@ duffed
 doublers
 dilatory
 degasser
+diamminonitrate
 duffel
 duffels
 duffer
