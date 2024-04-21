@@ -2846,7 +2846,6 @@ bulgurs
 babi
 barotraumas
 barotraumata
-brachiation
 bostons
 barotropic
 barouche
@@ -18336,6 +18335,7 @@ boulle
 buttons
 buttonweed
 buttonwood
+brachiation
 buttress
 buttressed
 breviped
