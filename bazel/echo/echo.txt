@@ -197,7 +197,6 @@ earthworks
 enddamaged
 earthworms
 earwax
-earwaxes
 earwigged
 eidolic
 earwigginess
@@ -1096,6 +1095,7 @@ elderhood
 earock
 edificatory
 edifice
+earwaxes
 embolomeri
 edificed
 edifices
