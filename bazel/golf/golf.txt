@@ -4549,7 +4549,6 @@ gypping
 gyp
 gyps
 gipseian
-gypseian
 gastrocoele
 gipser
 gipsy
@@ -4678,6 +4677,7 @@ grifter
 gigantopithecus
 gyring
 gymnastics
+gypseian
 gastroenteric
 gyrinid
 gyrinidae
