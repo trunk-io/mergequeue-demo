@@ -1170,7 +1170,6 @@ abutters
 abutting
 abuzz
 anodendron
-abvolts
 abwab
 abwatt
 abwatts
@@ -18360,6 +18359,7 @@ aquilawood
 aquilege
 aquilegia
 aquilia
+abvolts
 aquilian
 aquilid
 aquilinity
