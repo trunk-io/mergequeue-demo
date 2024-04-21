@@ -831,6 +831,7 @@ enquire
 ectocoelic
 ectocommensal
 ectocondylar
+endophytic
 ectocondyle
 ectocondyloid
 epizoites
@@ -11925,7 +11926,6 @@ excelling
 excels
 entocoele
 excelsior
-endophytic
 excentric
 excentricity
 equaeval
