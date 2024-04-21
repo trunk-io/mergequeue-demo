@@ -4862,7 +4862,6 @@ canonization
 carrotwood
 carrousel
 carrousels
-carrow
 compiles
 carrs
 cars
@@ -19753,6 +19752,7 @@ cappie
 combining
 combite
 comble
+carrow
 combless
 combmaker
 combmaking
