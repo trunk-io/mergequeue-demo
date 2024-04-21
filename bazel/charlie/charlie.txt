@@ -16733,6 +16733,7 @@ clottage
 clotted
 clottedness
 carts
+consonantalized
 clotter
 clotty
 clotting
@@ -23012,7 +23013,6 @@ consonancy
 consonant
 consonantal
 consonantalize
-consonantalized
 consonantally
 consonantic
 consonantise
