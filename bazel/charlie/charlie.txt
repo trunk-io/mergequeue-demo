@@ -9483,6 +9483,7 @@ cheapening
 cheapens
 cheaper
 cheapery
+cycloidally
 cheapest
 cheapies
 cheaping
@@ -13377,7 +13378,6 @@ cyclohexylamine
 cycloheximide
 chemiatry
 cycloid
-cycloidally
 coalternation
 cycloidean
 cogswellia
