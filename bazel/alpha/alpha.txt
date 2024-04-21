@@ -4851,7 +4851,6 @@ antedawn
 aeluroid
 aeluroidea
 aelurophobe
-aelurophobia
 aeluropodous
 albarello
 aenach
@@ -21551,6 +21550,7 @@ atropic
 aspirants
 aspiratae
 aspirate
+aelurophobia
 aspirated
 aspirating
 aspiration
