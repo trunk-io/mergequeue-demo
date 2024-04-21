@@ -100,7 +100,6 @@ facials
 facias
 faciata
 faciation
-forequoted
 facie
 freeport
 faciend
@@ -10460,6 +10459,7 @@ fared
 frontis
 filigree
 forcaria
+forequoted
 filchery
 frictionlessly
 firsts
