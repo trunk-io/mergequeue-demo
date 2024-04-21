@@ -19298,7 +19298,6 @@ arthropoda
 arcosoliulia
 arcosolium
 arcsin
-arcsine
 arcsines
 arctalia
 arctalian
@@ -21469,6 +21468,7 @@ abecedaries
 asperser
 aspersers
 asperses
+arcsine
 aegerian
 aspersing
 aspersion
