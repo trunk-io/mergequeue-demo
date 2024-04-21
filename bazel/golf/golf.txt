@@ -426,7 +426,6 @@ galbanums
 galbe
 galbulae
 galbulinae
-galbulus
 galcha
 growl
 galea
@@ -4502,6 +4501,7 @@ ginner
 gagsters
 ginneries
 gloriam
+galbulus
 gutters
 glumpily
 gleefulness
