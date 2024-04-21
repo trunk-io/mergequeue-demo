@@ -876,7 +876,6 @@ absaroka
 allergy
 abscessed
 abscesses
-abscessing
 abscession
 assertors
 abscind
@@ -5196,6 +5195,7 @@ aesculaceous
 aesculapius
 alliancer
 aesculin
+abscessing
 aesculus
 aesir
 acrosarc
