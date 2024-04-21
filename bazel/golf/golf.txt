@@ -3916,6 +3916,7 @@ gienah
 gierfalcon
 gif
 grievant
+glimed
 giffgaff
 gifola
 gift
@@ -4250,7 +4251,6 @@ gambas
 gymnolaemata
 gunster
 gymnolaematous
-glimed
 gymnonoti
 getatable
 ghent
