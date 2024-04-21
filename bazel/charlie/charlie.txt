@@ -10939,6 +10939,7 @@ chiragrical
 chirayta
 chiral
 chiralgia
+contiguousness
 chirality
 chirapsia
 civilizational
@@ -23519,7 +23520,6 @@ contiguate
 contiguity
 contiguous
 contiguously
-contiguousness
 continence
 continency
 continental
