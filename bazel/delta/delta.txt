@@ -4060,7 +4060,6 @@ deleterious
 deleteriously
 deleteriousness
 deletes
-deleting
 deletion
 decimetres
 deletions
@@ -6343,6 +6342,7 @@ degausses
 dermatoskeleton
 dermatotherapy
 depurated
+deleting
 dermatotome
 dermatotomy
 dinornithes
