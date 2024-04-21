@@ -9989,7 +9989,6 @@ chemotropic
 chemotropically
 chemotropism
 chempaduk
-chemurgic
 chemurgical
 chemurgically
 chemurgies
@@ -29192,6 +29191,7 @@ cryptanalytically
 cryptanalytics
 cryptanalyze
 capybara
+chemurgic
 cryptanalyzed
 cryptanalyzing
 cryptarch
