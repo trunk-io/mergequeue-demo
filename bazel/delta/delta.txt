@@ -5208,7 +5208,6 @@ dismayingly
 dendrons
 dendrophagous
 dasyurid
-dendrophil
 dendrophile
 dendrophilous
 decemjugate
@@ -8754,6 +8753,7 @@ demoting
 diathermies
 dislimned
 diathermize
+dendrophil
 diathermometer
 diathermotherapy
 diathesic
