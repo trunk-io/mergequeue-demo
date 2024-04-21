@@ -472,7 +472,6 @@ daks
 dalaga
 diatropic
 dalai
-dalapon
 dalapons
 dalarnian
 dilleniaceous
@@ -2683,6 +2682,7 @@ decomposition
 decapod
 decomposure
 dogwatches
+dalapon
 decompoundable
 diffractional
 decompoundly
