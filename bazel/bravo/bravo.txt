@@ -959,6 +959,7 @@ bagwigs
 bagwyn
 bagwomen
 bagwork
+behear
 bah
 bahadur
 bunting
@@ -5477,7 +5478,6 @@ beheaded
 beheader
 beheadlined
 beheads
-behear
 behearse
 beheira
 bandlimit
