@@ -7419,7 +7419,6 @@ cyclostylar
 cephalometer
 cephalometric
 cephalomotor
-cephalon
 clysis
 cephalonasal
 cephalopathy
@@ -21698,6 +21697,7 @@ conditionate
 conditione
 casson
 crosa
+cephalon
 crax
 cinchonism
 conditioner
