@@ -3202,6 +3202,7 @@ basicity
 bumph
 benzins
 baltis
+booklores
 bukat
 bolis
 baluchistan
@@ -4554,7 +4555,6 @@ barbone
 brainless
 becry
 becrime
-booklores
 becrimed
 brasqued
 becriming
