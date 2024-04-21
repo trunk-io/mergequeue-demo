@@ -11146,7 +11146,6 @@ functions
 functors
 functus
 fund
-fundal
 fundamental
 fundamentalism
 frostwork
@@ -11667,6 +11666,7 @@ fusure
 festoon
 frustraneous
 fusus
+fundal
 flushable
 fut
 futchel
