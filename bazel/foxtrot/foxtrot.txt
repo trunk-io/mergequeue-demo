@@ -1104,7 +1104,6 @@ faroelite
 foremast
 farolito
 farrage
-foothill
 foldstool
 farrago
 fordone
@@ -11505,6 +11504,7 @@ furtherer
 fairleader
 froggery
 furtherly
+foothill
 fenagler
 flaughtbred
 fingerparted
