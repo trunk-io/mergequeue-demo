@@ -2963,7 +2963,6 @@ echelonment
 elishah
 elysian
 elysiidae
-elysium
 elisor
 elissa
 edestan
@@ -9550,6 +9549,7 @@ escharine
 escharotic
 elegiacal
 eschatology
+elysium
 eschatological
 eschatologist
 epistemology

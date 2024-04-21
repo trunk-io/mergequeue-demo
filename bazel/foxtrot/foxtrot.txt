@@ -7596,7 +7596,6 @@ forecover
 fishify
 forelegs
 flees
-fers
 fulmen
 farmhands
 furuncles
@@ -11424,6 +11423,7 @@ furmenty
 furmenties
 felling
 furmeties
+fers
 furmity
 fluencies
 furmities
