@@ -1202,7 +1202,6 @@ embolum
 educator
 educatory
 educatress
-endbrain
 entozoic
 ennuyee
 educible
@@ -6349,6 +6348,7 @@ expressible
 enseem
 exuberant
 ensembles
+endbrain
 ensepulcher
 ensepulchre
 enseraph
