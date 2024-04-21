@@ -10396,7 +10396,6 @@ ethmofrontal
 escorial
 enrank
 eemis
-ethmoiditis
 entomb
 ethmolith
 equiglacial
@@ -13526,6 +13525,7 @@ exsufflate
 exsufflation
 exsufflicate
 exsuperance
+ethmoiditis
 exsurge
 exsurgent
 exsuscitate
