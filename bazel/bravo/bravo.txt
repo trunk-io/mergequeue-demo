@@ -9874,6 +9874,7 @@ bromocamphor
 biter
 biternately
 biters
+bow
 bites
 belying
 bytes
@@ -13732,7 +13733,6 @@ blesseder
 bovld
 beheading
 bovver
-bow
 bowable
 bowback
 bowbells
