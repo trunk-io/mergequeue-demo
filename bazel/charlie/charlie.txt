@@ -670,7 +670,6 @@ cafetorium
 caff
 caffeate
 caffeic
-cathodofluorescence
 caffeina
 caffeines
 caffeinic
@@ -6835,6 +6834,7 @@ cellobiose
 cubit
 celloid
 colubrids
+cathodofluorescence
 celloidin
 cellophane
 constative
