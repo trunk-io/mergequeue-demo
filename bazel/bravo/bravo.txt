@@ -7095,7 +7095,6 @@ besmooth
 barbarian
 bloman
 besmoothed
-besmoothing
 besmooths
 barricades
 besmottered
@@ -12125,6 +12124,7 @@ boldu
 bolectioned
 boled
 boleite
+besmoothing
 bolelia
 bolelike
 bacchanalias
