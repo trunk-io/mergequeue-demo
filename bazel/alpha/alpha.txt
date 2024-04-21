@@ -18707,7 +18707,6 @@ abrogates
 antejuramentum
 amboyna
 arcacea
-arcade
 aspergation
 asideness
 acarids
@@ -25120,6 +25119,7 @@ axiom
 ambisyllabic
 axiomatic
 axiomatical
+arcade
 axiomatically
 adept
 axiomatization
