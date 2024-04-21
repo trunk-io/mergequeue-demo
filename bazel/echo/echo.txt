@@ -332,6 +332,7 @@ eavesdropped
 eavesdropper
 enmass
 eavesdroppers
+enodation
 eavesdropping
 ebauchoir
 ebb
@@ -6139,7 +6140,6 @@ enodal
 enodally
 enodate
 epithalamion
-enodation
 enode
 enoil
 enoint

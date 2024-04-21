@@ -9400,7 +9400,6 @@ guttling
 grots
 grotty
 grottoes
-grottolike
 grottos
 grottowork
 gnawable
@@ -9446,6 +9445,7 @@ groundlings
 groundmass
 groundneedle
 groundout
+grottolike
 gros
 glycans
 glim
