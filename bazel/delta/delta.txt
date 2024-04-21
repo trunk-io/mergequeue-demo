@@ -5709,7 +5709,6 @@ dess
 dated
 dephlogisticated
 dephlogistication
-dephosphorization
 duennadom
 dephosphorize
 depickle
@@ -16170,6 +16169,7 @@ dovekies
 degeneratively
 dovelet
 dovelike
+dephosphorization
 dovelikeness
 doveling
 discepting
