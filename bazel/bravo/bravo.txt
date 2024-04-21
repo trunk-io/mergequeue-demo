@@ -3544,7 +3544,6 @@ bouchal
 bubos
 blawort
 babelic
-bannered
 besigh
 bater
 bates
@@ -16196,6 +16195,7 @@ bastonite
 brownies
 bivouac
 behead
+bannered
 browniest
 browniness
 browningesque
