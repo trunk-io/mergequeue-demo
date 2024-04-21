@@ -1581,6 +1581,7 @@ ballistocardiograph
 ballistocardiography
 ballistophobia
 ballywack
+boldface
 ballywrack
 ballmine
 ballo
@@ -17547,7 +17548,6 @@ burd
 burdalone
 brosse
 burden
-boldface
 burdened
 brawlers
 bathukolpic
