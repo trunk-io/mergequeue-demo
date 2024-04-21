@@ -5517,6 +5517,7 @@ flyball
 flibbertigibbety
 flybelt
 flybelts
+fortunetellers
 foolhardier
 featherers
 flyby
@@ -8764,7 +8765,6 @@ frenchism
 frankfort
 fortunetell
 forchase
-fortunetellers
 forbiddable
 fortunetelling
 fortunite
