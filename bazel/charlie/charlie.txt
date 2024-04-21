@@ -9805,6 +9805,7 @@ cheliceral
 chelicerate
 cysts
 chelide
+csi
 chelydidae
 chelidonate
 centas
@@ -30351,7 +30352,6 @@ csect
 chanter
 cholecystectomies
 csects
-csi
 csmp
 csp
 csw
