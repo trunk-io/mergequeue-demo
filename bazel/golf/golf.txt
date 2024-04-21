@@ -2989,6 +2989,7 @@ gallivants
 genuflecting
 genuflections
 genuflects
+grid
 grasser
 genuflex
 grouters
@@ -8882,7 +8883,6 @@ glimmery
 gilgamesh
 grieko
 gelatins
-grid
 gridded
 gypsyish
 gyration
