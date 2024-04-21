@@ -4033,6 +4033,7 @@ adjudging
 adjudgment
 adjudicata
 adjudicate
+asterisked
 adjudicated
 adjudication
 atavisms
@@ -22078,7 +22079,6 @@ arabicize
 asteriscus
 asteriscuses
 asterisk
-asterisked
 asterisking
 apostoless
 asconia
