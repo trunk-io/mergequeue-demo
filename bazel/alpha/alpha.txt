@@ -2845,7 +2845,6 @@ acroa
 arriba
 acroaesthesia
 acroama
-acroamata
 acroamatic
 acroamatical
 abled
@@ -18831,6 +18830,7 @@ autocephality
 archbishopess
 archbishopry
 archbishopric
+acroamata
 archbishoprics
 archbotcher
 archboutefeu
