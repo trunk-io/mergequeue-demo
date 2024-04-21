@@ -633,7 +633,6 @@ doff
 dishpanful
 damnability
 damnabilities
-damnable
 daiquiris
 damnableness
 damnably
@@ -7356,6 +7355,7 @@ dethronements
 dethrones
 dwight
 daidled
+damnable
 deti
 detick
 doorwise
