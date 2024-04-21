@@ -154,7 +154,6 @@ gregorianist
 gadso
 gadswoons
 gastroscope
-gaduin
 gadus
 gadwall
 gadwalls
@@ -10484,6 +10483,7 @@ gunflint
 gearless
 geotactic
 gung
+gaduin
 gunge
 gregge
 guniter
