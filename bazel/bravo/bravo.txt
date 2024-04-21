@@ -6199,7 +6199,6 @@ byte
 bendees
 buyout
 biochemistries
-bender
 benders
 behusband
 bendy
@@ -13150,6 +13149,7 @@ bosc
 boscages
 boschbok
 boschneger
+bender
 boschvark
 barytes
 boschveld
