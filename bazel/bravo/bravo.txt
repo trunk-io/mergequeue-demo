@@ -12176,7 +12176,6 @@ breaststroker
 brionine
 blizzardly
 bolo
-boloball
 bolognan
 bolognas
 bolognese
@@ -13830,6 +13829,7 @@ breadstuffs
 bowlder
 bearbaiting
 bauno
+boloball
 bowldery
 bowldering
 bowleg
