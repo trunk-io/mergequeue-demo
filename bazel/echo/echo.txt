@@ -1910,7 +1910,6 @@ eisteddfod
 evertebral
 eisteddfodic
 eisteddfodism
-eisteddfods
 enecate
 ecphorization
 equalizing
@@ -12854,6 +12853,7 @@ exothermous
 elytriform
 exotica
 enriched
+eisteddfods
 efecks
 exotically
 exoticism
