@@ -4635,7 +4635,6 @@ carouse
 caroused
 carousel
 carousels
-carouser
 cuddly
 cinchotoxine
 carousers
@@ -21007,6 +21006,7 @@ consolidate
 compunctionary
 compunctionless
 compunctious
+carouser
 compunctiously
 compupil
 cauponate

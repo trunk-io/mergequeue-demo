@@ -3669,6 +3669,7 @@ gainturn
 granza
 ghastly
 ghastlier
+glove
 ghastliest
 groups
 geonyctitropic
@@ -6428,7 +6429,6 @@ gobinist
 gobio
 grabens
 gomeral
-glove
 garnet
 gliffy
 gastriloquous
