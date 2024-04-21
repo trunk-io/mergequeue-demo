@@ -228,7 +228,6 @@ abbreviating
 abbreviation
 ascebc
 abbreviations
-abbreviator
 abbreviators
 abbroachment
 abc
@@ -13161,6 +13160,7 @@ animadverter
 animadverting
 animadverts
 anthochlor
+abbreviator
 ahrendahronon
 animala
 antinegro
