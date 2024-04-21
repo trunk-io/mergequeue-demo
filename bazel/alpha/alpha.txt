@@ -4869,7 +4869,6 @@ aeolidae
 aeolididae
 aeoline
 aeolipile
-aeolipyle
 aeolis
 aeolist
 aeolistic
@@ -11425,6 +11424,7 @@ amugis
 amuyon
 appendical
 amuyong
+aeolipyle
 amula
 amulas
 amulet
