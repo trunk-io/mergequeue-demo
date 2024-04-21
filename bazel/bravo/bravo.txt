@@ -4802,7 +4802,6 @@ brubru
 bedrapes
 bedraping
 bedread
-bedrel
 bedrench
 bedrenched
 bedrenches
@@ -16672,6 +16671,7 @@ buckram
 bozal
 buckraming
 buckrams
+bedrel
 befouler
 buckras
 bucks
