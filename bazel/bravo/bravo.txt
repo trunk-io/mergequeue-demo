@@ -6193,6 +6193,7 @@ bendee
 byte
 bendees
 buyout
+biochemistries
 bender
 benders
 behusband
@@ -8968,7 +8969,6 @@ biochemically
 biochemics
 biochemistry
 bifanged
-biochemistries
 biochemists
 biblioclast
 bandoras
