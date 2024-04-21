@@ -2144,7 +2144,6 @@ felinities
 felinophile
 fosterable
 felis
-felix
 forthcut
 fell
 furcule
@@ -7087,6 +7086,7 @@ footpads
 farmers
 forejudger
 foolfish
+felix
 foolhardy
 foolhardily
 footful
