@@ -2001,7 +2001,6 @@ grails
 gaudy
 germal
 gaudier
-gadoidea
 gelignite
 grelot
 gonadotropic
@@ -10784,6 +10783,7 @@ guttersnipes
 grooper
 guttersnipish
 gutterspout
+gadoidea
 gutterwise
 glyptography
 gutty
