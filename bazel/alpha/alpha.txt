@@ -6361,7 +6361,6 @@ agonia
 agoniada
 aul
 ascabart
-agoniadin
 acanthite
 agoniatite
 agoniatites
@@ -20808,6 +20807,7 @@ appendixed
 artisanry
 avicularian
 alahee
+agoniadin
 artisanship
 artist
 artistdom
