@@ -1059,7 +1059,6 @@ edgeling
 edgeman
 edger
 edgers
-edges
 edgeshot
 errands
 edgeway
@@ -9586,6 +9585,7 @@ expand
 eschewer
 endsheet
 eam
+edges
 eschewers
 eschewing
 everwho
