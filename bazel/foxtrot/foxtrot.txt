@@ -1010,7 +1010,6 @@ friarbird
 felinophobe
 fares
 faretta
-fatuousness
 farewell
 farewelled
 fearfuller
@@ -9911,6 +9910,7 @@ flagellums
 furnacite
 frettier
 fpm
+fatuousness
 fauld
 frettiest
 fretting
