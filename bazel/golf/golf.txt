@@ -772,7 +772,6 @@ grigri
 gugglet
 galvanizer
 galvanizers
-glendale
 gujar
 galvanizes
 galvanizing
@@ -9139,6 +9138,7 @@ grippleness
 gubbings
 grazier
 grocerymen
+glendale
 grummets
 grips
 gryllotalpa
