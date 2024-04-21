@@ -3496,7 +3496,6 @@ basto
 beworms
 baston
 bastonet
-bannerless
 basts
 basural
 basuto
@@ -9018,6 +9017,7 @@ bioengineering
 bioenvironmental
 bioenvironmentaly
 bioethic
+bannerless
 bioethics
 belltopperdom
 bouquetin
