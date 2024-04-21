@@ -10096,7 +10096,6 @@ amblyopsidae
 arecaceae
 amblyopsis
 amblyoscope
-amblypoda
 amblypodous
 amblyrhynchus
 amblystegite
@@ -12251,6 +12250,7 @@ anchtherium
 anchusa
 anchusas
 anchusin
+amblypoda
 anchusine
 azotine
 ancien
