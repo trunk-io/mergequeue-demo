@@ -4724,7 +4724,6 @@ bedgowns
 bediademed
 bediamonded
 bediaper
-begemmed
 bediapered
 bozze
 bediapering
@@ -18193,6 +18192,7 @@ biogenase
 butyrometer
 butyrometric
 butyrone
+begemmed
 butled
 butler
 botchwork
