@@ -3594,7 +3594,6 @@ gesturers
 gesturist
 grosbeak
 geswarp
-gallivorous
 gluier
 girding
 getae
@@ -8262,6 +8261,7 @@ ganoid
 grassland
 gedds
 glaswegian
+gallivorous
 gasterosteiform
 gadolinite
 grassman
