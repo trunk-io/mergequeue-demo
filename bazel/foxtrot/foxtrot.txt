@@ -1507,7 +1507,6 @@ fingerings
 faujasite
 financier
 frondosely
-fulup
 faulds
 faulter
 frighten
@@ -11315,6 +11314,7 @@ fur
 factorial
 furacious
 furaciousness
+fulup
 floured
 furacity
 furaldehyde

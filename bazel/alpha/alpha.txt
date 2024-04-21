@@ -3270,7 +3270,6 @@ aliners
 actless
 acton
 actory
-actorish
 actorship
 actress
 actresses
@@ -14833,6 +14832,7 @@ antibiotically
 acushla
 antibishop
 antiblack
+actorish
 antiblackism
 antiblastic
 anisotropy
