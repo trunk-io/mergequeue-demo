@@ -2946,7 +2946,6 @@ fuchsias
 fendy
 feudalism
 feudalist
-feathering
 feudalists
 fixations
 feudality
@@ -7521,6 +7520,7 @@ forebay
 forebays
 fragmentization
 fructus
+feathering
 fraile
 fackins
 falconine
