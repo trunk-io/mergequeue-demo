@@ -236,7 +236,6 @@ firelock
 facultatively
 faculty
 font
-frags
 faculties
 facultize
 frightening
@@ -7629,6 +7628,7 @@ fermentation
 figments
 ficoidal
 flacherie
+frags
 foredoomer
 fgn
 fails
