@@ -11833,7 +11833,6 @@ bodysuits
 bewelter
 bodysurfed
 bodysurfer
-bodysurfing
 bodywear
 bodywise
 bodywork
@@ -17142,6 +17141,7 @@ bullfoot
 brahmic
 bullgine
 bullhead
+bodysurfing
 bullheaded
 bullheads
 bullhoof
