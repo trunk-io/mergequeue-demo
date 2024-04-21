@@ -6168,7 +6168,6 @@ executable
 enoplan
 enoplion
 enorm
-enormious
 enormity
 etaballi
 enorn
@@ -11011,6 +11010,7 @@ euphuist
 euphuistic
 euphuize
 eleutheri
+enormious
 enregistering
 examiner
 euphuizing
