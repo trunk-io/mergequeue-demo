@@ -1510,7 +1510,6 @@ accidencies
 accident
 accidentalism
 accidentality
-accidentary
 accidented
 alphabets
 accidential
@@ -17964,6 +17963,7 @@ apportionments
 algic
 apposability
 appose
+accidentary
 apposer
 apposers
 apposing
