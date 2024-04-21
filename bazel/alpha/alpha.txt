@@ -7623,6 +7623,7 @@ alembicate
 alcaide
 alcayde
 alcaydes
+abote
 alcalde
 alcaldes
 alcaldeship
@@ -21992,7 +21993,6 @@ assumptiveness
 assurable
 assurance
 assurances
-abote
 assurate
 assurd
 astigmias
