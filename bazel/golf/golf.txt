@@ -4621,6 +4621,7 @@ gyrator
 goo
 gyratory
 gyrators
+grademark
 gird
 girder
 girders
@@ -7614,7 +7615,6 @@ gradatively
 grade
 graded
 geobotanically
-grademark
 grinningly
 gnathometer
 grader
