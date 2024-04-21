@@ -16847,7 +16847,6 @@ anethole
 aphacic
 amorist
 aphaeresis
-aphagia
 aphagias
 afterswell
 astipulate
@@ -19681,6 +19680,7 @@ argumentator
 alternationist
 argumentatory
 actinobacillus
+aphagia
 arguments
 attroupement
 argumentum
