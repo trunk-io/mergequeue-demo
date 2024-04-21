@@ -11,7 +11,6 @@ epidermoid
 estocs
 evaporometer
 evansite
-eachwhere
 ead
 eadi
 excoriator
@@ -11128,6 +11127,7 @@ excursing
 eurodollars
 europe
 europeanism
+eachwhere
 expiscate
 europeanization
 estoc
