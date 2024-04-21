@@ -2059,7 +2059,6 @@ bradenhead
 becrawl
 bankcards
 banked
-banker
 bethought
 bankerdom
 bacteriophobia
@@ -12255,6 +12254,7 @@ bolts
 boltsmith
 b
 beakful
+banker
 bawds
 boltspreet
 boltwork
