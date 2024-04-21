@@ -5601,7 +5601,6 @@ deoxyribonucleotide
 deozonization
 demiking
 deozonizer
-dep
 depaganize
 depainted
 depainting
@@ -10586,6 +10585,7 @@ dipleuric
 dipleurogenesis
 defected
 desugar
+dep
 devot
 dipleurulas
 dipleurule
