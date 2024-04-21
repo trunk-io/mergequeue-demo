@@ -3003,6 +3003,7 @@ boulevard
 barrister
 bails
 botts
+burrel
 barristerial
 barristress
 barroom
@@ -17818,7 +17819,6 @@ burr
 burratine
 burrbark
 burree
-burrel
 burrers
 burrfish
 bretelle
