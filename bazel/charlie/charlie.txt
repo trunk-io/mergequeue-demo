@@ -2146,6 +2146,7 @@ campout
 circumfusile
 camps
 capotes
+chaenactis
 campshed
 campshedding
 campsheeting
@@ -8116,7 +8117,6 @@ chanidae
 chador
 chadors
 chadri
-chaenactis
 chaenolobus
 chaeta
 chaetae
