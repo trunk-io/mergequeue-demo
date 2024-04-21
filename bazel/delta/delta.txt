@@ -3445,6 +3445,7 @@ decarboxylase
 deflector
 deflectors
 deflects
+dichlorvos
 deflesh
 deflex
 deflexed
@@ -8946,7 +8947,6 @@ domiciling
 dichlorodiphenyltrichloroethane
 dichlorohydrin
 dichloromethane
-dichlorvos
 dichocarpism
 dichocarpous
 dichogamic
