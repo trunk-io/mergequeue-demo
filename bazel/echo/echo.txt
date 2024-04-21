@@ -3995,6 +3995,7 @@ empannel
 empanoply
 empaper
 emparchment
+epithamia
 enclitics
 emparl
 empasma
@@ -8328,7 +8329,6 @@ enquirer
 epithalline
 einstein
 evaginate
-epithamia
 epistolize
 epitheca
 epithecial
