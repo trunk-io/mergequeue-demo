@@ -8131,7 +8131,6 @@ episcopality
 episcopally
 elmy
 embarked
-episcopise
 eclectically
 episcopate
 ethionamide
@@ -11770,6 +11769,7 @@ examinatory
 encumbering
 examinatorial
 examine
+episcopise
 examined
 examinee
 ethnolinguistics
