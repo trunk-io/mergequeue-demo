@@ -2264,7 +2264,6 @@ bioscience
 baraza
 barba
 barbacan
-barbacoa
 belgae
 beehouse
 barbacoan
@@ -4456,6 +4455,7 @@ bechalk
 bechalking
 browse
 bechalks
+barbacoa
 bechance
 bechanced
 becharmed
