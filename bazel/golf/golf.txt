@@ -887,7 +887,6 @@ graduator
 gambist
 gambits
 gambler
-gamblesome
 gamblesomeness
 genseng
 gambogian
@@ -6323,6 +6322,7 @@ gatepost
 goatbush
 gervase
 gollywobbler
+gamblesome
 goatfishes
 goatherdess
 goalies
