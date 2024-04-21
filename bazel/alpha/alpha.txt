@@ -5565,6 +5565,7 @@ africanization
 aspout
 africanize
 africanoid
+arcform
 affrettando
 afridi
 afright
@@ -18740,7 +18741,6 @@ avoidless
 arced
 arces
 arceuthobium
-arcform
 arch
 archabomination
 antiarrhythmic
