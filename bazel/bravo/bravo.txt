@@ -2093,7 +2093,6 @@ bankside
 bumbaste
 buxeous
 banksides
-banksman
 barebone
 banksmen
 bibliophage
@@ -16739,6 +16738,7 @@ buddies
 budding
 buddle
 buddled
+banksman
 buddleia
 bunkhouses
 buddleias
