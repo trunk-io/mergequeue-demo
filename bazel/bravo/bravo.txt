@@ -2771,7 +2771,6 @@ beachside
 baromotor
 baldricks
 baronage
-baronages
 baronduki
 bibliolater
 bethorned
@@ -3410,6 +3409,7 @@ beglic
 bassness
 basso
 basson
+baronages
 bedash
 backwater
 bassoonist
