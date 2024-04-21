@@ -2655,7 +2655,6 @@ epiperipheral
 electrothermic
 electrothermics
 enrapturer
-entrainer
 endomycetaceae
 electrothermometer
 evanish
@@ -4503,6 +4502,7 @@ encephalitogenic
 elotherium
 encephalographic
 encephalographically
+entrainer
 enamelling
 eelware
 encephaloid
