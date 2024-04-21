@@ -1557,6 +1557,7 @@ balletomania
 bigged
 ballets
 ballfield
+balatong
 ballgame
 ballgames
 ballgowns
@@ -17452,7 +17453,6 @@ bushbaby
 bunked
 bunker
 bunkerage
-balatong
 bunkered
 brulyies
 borzicactus
