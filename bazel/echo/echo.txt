@@ -2447,7 +2447,6 @@ electromyographically
 electroimpulse
 electroindustrial
 electroing
-electroionic
 eductions
 enzymology
 electrokinetic
@@ -2507,6 +2506,7 @@ electrometrically
 electromobile
 enchodontidae
 electromotive
+electroionic
 electromotograph
 epimerised
 escadrilles
