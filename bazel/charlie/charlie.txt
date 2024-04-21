@@ -13687,7 +13687,6 @@ cimbal
 cymbaleer
 costaea
 cedarn
-cymbaler
 cymbalers
 cymbalist
 cymbalists
@@ -23980,6 +23979,7 @@ conveyers
 conveying
 conveyorization
 conjugation
+cymbaler
 conveyorize
 conveyorized
 crenology
