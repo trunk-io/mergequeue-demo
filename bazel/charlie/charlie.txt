@@ -22368,7 +22368,6 @@ congridae
 cyclopedist
 congroid
 compoing
-congrue
 congruence
 crystallitis
 congruency
@@ -28803,6 +28802,7 @@ cressweed
 cresswort
 crest
 counterbalance
+congrue
 comparator
 crestal
 crested
