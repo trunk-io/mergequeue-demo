@@ -604,6 +604,7 @@ decolonized
 dame
 damewort
 dameworts
+divulgator
 damfool
 declaimant
 decelerometer
@@ -11471,7 +11472,6 @@ disclosing
 disclosive
 disclosure
 disclosures
-divulgator
 discloud
 disclout
 disclusion
