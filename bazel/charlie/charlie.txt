@@ -16180,7 +16180,6 @@ climatological
 climatologically
 climatologist
 climatometer
-climatotherapy
 climature
 climax
 climaxed
@@ -24843,6 +24842,7 @@ corach
 coracial
 coracias
 coracii
+climatotherapy
 coraciidae
 coraciiform
 coraciiformes
