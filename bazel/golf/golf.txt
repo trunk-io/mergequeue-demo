@@ -1371,7 +1371,6 @@ gnatsnapper
 gable
 gardeners
 glauconite
-gardenership
 gardenful
 gallberries
 gardeny
@@ -6790,6 +6789,7 @@ goniatitid
 goosey
 guid
 ginglyni
+gardenership
 gonycampsis
 gonid
 gymnarchus

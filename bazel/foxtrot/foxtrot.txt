@@ -1093,7 +1093,6 @@ foremastman
 farmout
 fisc
 flakily
-farmsteads
 farmtown
 farnesol
 farnesols
@@ -2863,6 +2862,7 @@ fitcher
 faunae
 filanders
 fetchers
+farmsteads
 fetching
 floreat
 feterita
