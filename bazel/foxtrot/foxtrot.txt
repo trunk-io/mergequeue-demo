@@ -2209,7 +2209,6 @@ feriae
 flancard
 fels
 felsites
-felsobanyite
 fligger
 foretypified
 forebless
@@ -9029,6 +9028,7 @@ fatigueless
 fourier
 fourierism
 fourling
+felsobanyite
 fourneau
 fourpence
 fulmars
