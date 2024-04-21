@@ -18484,7 +18484,6 @@ coholders
 cohomology
 cill
 cohorn
-cohort
 craterid
 cohortative
 cohosh
@@ -24726,6 +24725,7 @@ coprahs
 coprecipitate
 coprecipitated
 coprecipitating
+cohort
 copremias
 copresbyter
 copresence
