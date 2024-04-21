@@ -6505,7 +6505,6 @@ flourlike
 flushest
 flushgate
 flushy
-flushing
 flushingly
 flusk
 flusker
@@ -7369,6 +7368,7 @@ forastero
 forbad
 fie
 forbade
+flushing
 forbare
 forbarred
 forbathe
