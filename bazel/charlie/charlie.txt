@@ -19635,7 +19635,6 @@ columning
 columnist
 columnistic
 columnists
-columnization
 columnize
 columnized
 creeperless
@@ -26792,6 +26791,7 @@ counterdeputation
 chinois
 counterdesire
 counterdevelopment
+columnization
 counterdifficulty
 counterdigged
 cerebroscopy
