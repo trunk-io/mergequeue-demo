@@ -5903,7 +5903,6 @@ demythologise
 deprecating
 deprecatingly
 danes
-deprecation
 darter
 diachoresis
 demeaning
@@ -12119,6 +12118,7 @@ diseur
 diseuses
 disexcommunicate
 drugman
+deprecation
 dramaturgy
 disturbant
 disexercise

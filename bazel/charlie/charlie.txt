@@ -8207,7 +8207,6 @@ chagga
 chagigah
 chagoma
 chagrin
-chagrined
 chagrining
 chagrinning
 chagrins
@@ -17168,6 +17167,7 @@ coagulative
 coagulator
 coagulatory
 coagulators
+chagrined
 coagule
 coagulin
 coaguline
