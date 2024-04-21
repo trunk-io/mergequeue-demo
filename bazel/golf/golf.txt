@@ -9386,7 +9386,6 @@ gatchwork
 gratefuller
 guttling
 grots
-grotty
 grottoes
 grottos
 grottowork
@@ -10609,6 +10608,7 @@ gurdle
 gurdwara
 gurglingly
 gurged
+grotty
 gombeenism
 gurgeons
 glossopyrosis
