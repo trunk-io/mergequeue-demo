@@ -8964,7 +8964,6 @@ biocentric
 biochemy
 beslow
 biochemic
-biochemically
 biochemics
 biochemistry
 bifanged
@@ -9008,6 +9007,7 @@ bioecology
 bioecological
 bioecologically
 bioecologies
+biochemically
 bioecologist
 bioelectric
 bioelectrical
