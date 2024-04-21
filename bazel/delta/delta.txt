@@ -5070,7 +5070,6 @@ denarcotization
 disgregation
 denari
 denaries
-denarii
 denarinarii
 denarius
 denaro
@@ -11133,6 +11132,7 @@ dodecastyle
 disassimilation
 deltoidal
 disassimilative
+denarii
 disassociable
 disassociate
 disassociated
