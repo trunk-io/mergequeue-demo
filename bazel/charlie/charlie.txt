@@ -13703,7 +13703,6 @@ cimbaloms
 cymbalon
 cubicles
 cymbel
-cymbella
 cymbid
 clochard
 cymbidium
@@ -21951,6 +21950,7 @@ confessorship
 confetti
 confetto
 confidant
+cymbella
 confidante
 coresort
 confidantes
