@@ -677,7 +677,6 @@ ecliptic
 ecliptical
 excrementally
 ecliptically
-eidetically
 eclogic
 eclogite
 epopoean
@@ -13142,6 +13141,7 @@ explain
 extras
 explainable
 explainableness
+eidetically
 explained
 explainer
 explainers
