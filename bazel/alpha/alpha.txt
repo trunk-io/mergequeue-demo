@@ -12846,7 +12846,6 @@ angiosclerotic
 angioscope
 arlington
 angiosymphysis
-angiosis
 angiosperm
 angiospermae
 attacks
@@ -25343,6 +25342,7 @@ azotemic
 azotenesis
 assertible
 alimonies
+angiosis
 abnegations
 azotes
 azotetrazole
