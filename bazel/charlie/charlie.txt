@@ -3429,7 +3429,6 @@ collegatary
 chawbone
 capsulectomy
 centinody
-caliculus
 capsuled
 capsuler
 capsules
@@ -7137,6 +7136,7 @@ centiliters
 centilitre
 centillionth
 centiloquy
+caliculus
 centimes
 centimeters
 centimetre
