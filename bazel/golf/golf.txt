@@ -4313,6 +4313,7 @@ gyms
 gymslip
 gynaecea
 gond
+gippers
 gynaeceum
 guildite
 golet
@@ -4560,7 +4561,6 @@ gipped
 gypped
 gypper
 gyppery
-gippers
 gippy
 gipping
 gramophonically
