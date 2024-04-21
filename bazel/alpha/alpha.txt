@@ -7640,6 +7640,7 @@ amidist
 alcazaba
 alcazar
 alcazars
+allochromatic
 adamance
 alcazava
 austrasian
@@ -8855,7 +8856,6 @@ allochiral
 allochiria
 allochlorophyll
 allochroic
-allochromatic
 allochthon
 allochthonous
 adscititiously
