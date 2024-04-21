@@ -7660,7 +7660,6 @@ alcelaphine
 algonquins
 arthurian
 alces
-almug
 alcestis
 alchem
 alchemy
@@ -22317,6 +22316,7 @@ astrogony
 astrogonic
 astrograph
 astrographer
+almug
 assidean
 astrography
 aspidiotus
