@@ -7540,6 +7540,7 @@ farceur
 flaveria
 forebrace
 forebreast
+forestaff
 foreburton
 fuzzing
 forebush
@@ -7941,7 +7942,6 @@ fiberglass
 foresend
 faience
 foremanship
-forestaff
 foresentence
 foreset
 foreshadow
