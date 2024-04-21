@@ -5060,6 +5060,7 @@ demultiplexers
 disroot
 dimedone
 demultiplexes
+deposed
 dinamode
 decussion
 delustered
@@ -14737,7 +14738,6 @@ doctorfishes
 doctorhood
 doctorial
 doctorially
-deposed
 doctoring
 doctorize
 distributive
