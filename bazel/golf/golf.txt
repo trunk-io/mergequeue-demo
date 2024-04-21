@@ -1043,7 +1043,6 @@ gesneraceae
 gandertmeeth
 gandhara
 gandharva
-gandhian
 geothermal
 gurian
 gybe
@@ -6438,6 +6437,7 @@ gaudy
 goers
 gastronomer
 goes
+gandhian
 glacon
 goetae
 gatter
