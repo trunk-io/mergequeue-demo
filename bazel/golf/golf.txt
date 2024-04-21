@@ -4098,7 +4098,6 @@ gilgames
 grizzled
 gilgie
 gilguy
-gilia
 geophilus
 gymnoconia
 gradometer
@@ -7528,6 +7527,7 @@ gallflies
 gravamens
 gownsmen
 ge
+gilia
 gowpen
 guna
 gox
