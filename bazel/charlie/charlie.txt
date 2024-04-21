@@ -14765,7 +14765,6 @@ cathood
 cystophore
 coemployed
 cistophori
-cistophoric
 cistophorus
 cystophotography
 concomitancy
@@ -25724,6 +25723,7 @@ correllation
 correllations
 corrente
 correo
+cistophoric
 correption
 corresol
 circumrotating
