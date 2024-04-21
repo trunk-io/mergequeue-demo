@@ -1179,7 +1179,6 @@ brew
 burrish
 bibliographer
 bellis
-bakeboard
 baked
 bakehead
 bibliothetic
@@ -12984,6 +12983,7 @@ border
 blackberry
 bordered
 borderer
+bakeboard
 bordering
 borderings
 borders
