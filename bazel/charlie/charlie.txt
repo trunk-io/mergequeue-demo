@@ -7653,7 +7653,6 @@ cerebritis
 caponatas
 cerebrize
 cerebrocardiac
-cerebroganglion
 cerebroganglionic
 cerebroid
 correspondencies
@@ -15035,6 +15034,7 @@ cytostroma
 cytostromatic
 cytotactic
 cardioaccelerator
+cerebroganglion
 carpologically
 cytotaxis
 cytotaxonomy
