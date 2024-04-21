@@ -903,7 +903,6 @@ gamebag
 girtline
 gashliness
 gamecock
-gyrofrequency
 gamecraft
 guffaws
 girba
@@ -10436,6 +10435,7 @@ gumpus
 gums
 gastroenteralgia
 gumshield
+gyrofrequency
 gastroxynsis
 gosling
 goxes
