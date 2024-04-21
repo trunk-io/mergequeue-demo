@@ -8865,7 +8865,6 @@ eyewort
 extent
 encroachment
 erd
-embryogony
 eme
 estivate
 eyehook
@@ -9162,6 +9161,7 @@ ephebeum
 erythrodermia
 erythrogen
 exterminators
+embryogony
 erythrogenesis
 erythrogenic
 educe
