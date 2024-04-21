@@ -3516,6 +3516,7 @@ dogstail
 dinner
 deforcer
 deforces
+distrail
 deforciant
 deforest
 deforested
@@ -13707,7 +13708,6 @@ dissolvability
 dissolvable
 dissolvableness
 dissolvative
-distrail
 dissolve
 diathermous
 dalis
