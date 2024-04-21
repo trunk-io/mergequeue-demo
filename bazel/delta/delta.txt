@@ -10148,6 +10148,7 @@ druid
 didymia
 dingar
 deceptible
+duckbills
 dingbat
 dingbats
 dingdonged
@@ -17795,7 +17796,6 @@ duck
 depa
 duckbill
 duckstone
-duckbills
 dossing
 duckblind
 duckboard
