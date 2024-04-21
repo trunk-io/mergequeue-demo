@@ -5093,7 +5093,6 @@ caseation
 casebearer
 casebook
 collectivity
-casebooks
 casebound
 casebox
 cased
@@ -16885,6 +16884,7 @@ clubman
 clubmate
 clubmonger
 clubroom
+casebooks
 clubrooms
 clubroot
 clubroots

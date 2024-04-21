@@ -536,7 +536,6 @@ egilops
 eelpot
 echinidan
 echinidea
-echiniform
 emerized
 emmets
 expy
@@ -4292,6 +4291,7 @@ exothermic
 encoop
 enact
 enactable
+echiniform
 enacted
 enacting
 ers
