@@ -134,7 +134,6 @@ flajolotite
 fem
 faconde
 faconne
-ferritin
 facsim
 facsimile
 facsimiled
@@ -6446,6 +6445,7 @@ fluorobenzene
 fluoroborate
 fluorochrome
 fluoroform
+ferritin
 flaminian
 fluoaluminate
 fluorogen
