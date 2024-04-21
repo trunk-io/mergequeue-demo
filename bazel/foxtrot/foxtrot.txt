@@ -1065,7 +1065,6 @@ fetal
 fantad
 farmable
 farmed
-farmer
 foraminous
 farmeress
 farmerish
@@ -5463,6 +5462,7 @@ fleuret
 filionymic
 fleurette
 furmint
+farmer
 flapdragon
 fleurettee
 fleuretty
