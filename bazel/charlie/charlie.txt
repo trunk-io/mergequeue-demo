@@ -12683,7 +12683,6 @@ chroococcaceae
 cynanthropy
 chroococcales
 chroococcoid
-chroococcus
 cacafuego
 chrosperma
 chrotta
@@ -28645,6 +28644,7 @@ crenation
 crenature
 crenel
 crenelated
+chroococcus
 coloniser
 crenelates
 cheverons
