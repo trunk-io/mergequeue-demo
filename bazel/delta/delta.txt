@@ -2511,7 +2511,6 @@ declaratorily
 declarators
 declare
 declaredly
-declaredness
 doorjamb
 declares
 daneworts
@@ -3602,6 +3601,7 @@ degelatinize
 diatonous
 degener
 dillydallying
+declaredness
 degeneralize
 degenerate
 degustation
