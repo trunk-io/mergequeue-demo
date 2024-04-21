@@ -731,7 +731,6 @@ greeters
 geta
 galoshe
 galoshes
-galoubet
 galp
 galravage
 greenheaded
@@ -1855,6 +1854,7 @@ gravelroot
 gastropneumonic
 guitarfishes
 gozill
+galoubet
 grandevous
 gastropod
 gastropodan
