@@ -7639,7 +7639,6 @@ bewailed
 bewailer
 burglarproof
 bewailers
-behung
 bummers
 blowpit
 bewailing
@@ -10210,6 +10209,7 @@ blackings
 bulbuls
 blackit
 blackjack
+behung
 blackjacked
 blackjacking
 blackjacks
