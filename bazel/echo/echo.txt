@@ -4713,6 +4713,7 @@ enclitical
 endosmosic
 encycl
 encloak
+exploratory
 eclipsis
 encloister
 etymologize
@@ -13245,7 +13246,6 @@ encloser
 explorable
 exploratively
 exfiltration
-exploratory
 explored
 explorement
 enzyme
