@@ -1065,6 +1065,7 @@ fantad
 farmable
 farmed
 farmer
+foraminous
 farmeress
 farmerish
 farmerly
@@ -11334,7 +11335,6 @@ furbish
 furbishes
 furbishment
 florikan
-foraminous
 fortress
 furcate
 flexure
