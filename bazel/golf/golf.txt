@@ -3100,7 +3100,6 @@ geoisotherm
 geolatry
 geologer
 geologian
-geologic
 geological
 geologically
 geologies
@@ -9299,6 +9298,7 @@ grangeriser
 garran
 groomling
 gilders
+geologic
 ganglial
 gelong
 groomsmen
