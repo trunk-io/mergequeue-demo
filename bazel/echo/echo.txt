@@ -7945,7 +7945,6 @@ epimeride
 epimerism
 enorganic
 exhaustibility
-epimeritic
 empidonax
 eigenvector
 epimerized
@@ -9393,6 +9392,7 @@ erubescite
 eruciform
 exodromic
 erucivorous
+epimeritic
 eruct
 eructance
 extralegal
