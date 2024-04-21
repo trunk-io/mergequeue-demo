@@ -423,7 +423,6 @@ ecaudata
 ecaudate
 ernest
 ecballium
-ecbasis
 ecblastesis
 eurylaimi
 ecbole
@@ -5730,6 +5729,7 @@ excrements
 entrepot
 engouement
 engouled
+ecbasis
 engoument
 equant
 exfoliation
