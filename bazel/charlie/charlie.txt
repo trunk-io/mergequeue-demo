@@ -8983,7 +8983,6 @@ charadriiform
 charadriiformes
 charadrine
 clothlike
-charadrioid
 charadriomorphae
 charadrius
 charango
@@ -21216,6 +21215,7 @@ conceptualizer
 conceptualizes
 conceptualizing
 conceptus
+charadrioid
 concern
 concernancy
 concerned

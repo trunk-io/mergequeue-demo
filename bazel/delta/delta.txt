@@ -1318,7 +1318,6 @@ dauphin
 dauphine
 dauphines
 drapable
-doughmaker
 daur
 dauri
 daurna
@@ -1622,6 +1621,7 @@ deamidization
 deaminase
 deaminate
 deaminated
+doughmaker
 deaminating
 dowel
 deamination
