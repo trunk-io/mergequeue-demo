@@ -1630,7 +1630,6 @@ deamidization
 deaminase
 deaminate
 deaminated
-doughmaker
 deaminating
 dowel
 deamination
@@ -3518,6 +3517,7 @@ dentiform
 deforests
 deform
 diasters
+doughmaker
 deformability
 disknow
 deformable
