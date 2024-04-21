@@ -2665,7 +2665,6 @@ decompressing
 detectaphone
 decompressive
 decelerating
-downwarp
 deconcatenate
 deconcentrate
 deconcentrated
@@ -17968,6 +17967,7 @@ duikerbok
 duikerboks
 duikerbuck
 dantonesque
+downwarp
 duim
 duinhewassel
 duit
