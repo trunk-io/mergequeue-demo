@@ -5726,7 +5726,6 @@ englishize
 englishly
 englishman
 epicures
-englishness
 eucharistical
 englishwomen
 englobe
@@ -12806,6 +12805,7 @@ exorhason
 ejectamenta
 exortion
 exoskeletal
+englishness
 eviler
 exosmose
 exosmoses
