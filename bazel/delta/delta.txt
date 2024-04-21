@@ -10779,7 +10779,6 @@ dipsos
 dipsosaurus
 dipsosis
 dipstick
-dipsticks
 dipt
 dipter
 dipteraceae
@@ -18377,6 +18376,7 @@ dupe
 dupedom
 dupery
 duping
+dipsticks
 dupion
 dishlike
 dupioni
