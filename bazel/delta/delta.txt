@@ -2418,7 +2418,6 @@ decimalizes
 desugared
 decimally
 decimals
-dressages
 dixenite
 decimated
 decimates
@@ -7114,6 +7113,7 @@ diagnostic
 destruct
 destructibility
 diluvian
+dressages
 destructible
 destructibleness
 dimedon
