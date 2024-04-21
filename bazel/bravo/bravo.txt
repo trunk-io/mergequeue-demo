@@ -2872,6 +2872,7 @@ barracan
 barrace
 barrack
 barracked
+borh
 bottlehead
 barracking
 barraclade
@@ -13052,7 +13053,6 @@ borg
 borghalpenny
 beryls
 borghi
-borh
 bori
 boric
 borid
