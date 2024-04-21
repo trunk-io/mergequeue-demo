@@ -9699,7 +9699,6 @@ backbeats
 bishopdom
 bishoped
 biborate
-bernard
 bishopful
 bishophood
 bishopless
@@ -17920,6 +17919,7 @@ bushbodies
 bushbuck
 boatbills
 bacteriocyte
+bernard
 bushbucks
 bearbush
 bacilluria
