@@ -15373,7 +15373,6 @@ antigravitate
 antigravitation
 antigravitational
 antigravity
-antigropelos
 antigrowth
 antiguan
 affectible
@@ -24178,6 +24177,7 @@ autoluminescent
 automa
 automacy
 automaker
+antigropelos
 automan
 abrogators
 automanipulation
