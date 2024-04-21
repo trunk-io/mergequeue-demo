@@ -5316,7 +5316,6 @@ elaps
 elamitic
 elechi
 epigoneion
-ecalcavate
 endothelial
 ebdomade
 endothelioid
@@ -7508,6 +7507,7 @@ epibenthic
 epibiotic
 epiblast
 epiblastic
+ecalcavate
 enviously
 enervator
 epiblasts
