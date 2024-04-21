@@ -9445,7 +9445,6 @@ groundliness
 groundlings
 groundmass
 groundneedle
-gentleship
 groundout
 gros
 glycans
@@ -9881,6 +9880,7 @@ galette
 guaranine
 glowered
 gargol
+gentleship
 guaiocum
 grizel
 gaveling

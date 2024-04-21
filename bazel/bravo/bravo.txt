@@ -15325,7 +15325,6 @@ bequote
 brigalow
 brigand
 brigandage
-brigander
 brigandine
 brigandish
 brigandishly
@@ -15532,6 +15531,7 @@ bristleless
 bristlelike
 bristlemouth
 bristlemouths
+brigander
 bristles
 bristlewort
 backpacks
