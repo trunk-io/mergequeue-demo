@@ -10231,7 +10231,6 @@ bebump
 bilged
 blackout
 blackpatch
-blackplate
 blackpoll
 beauclerk
 blackpot
@@ -16454,6 +16453,7 @@ badness
 brutified
 blastplate
 barbarianize
+blackplate
 burners
 brutifies
 brutifying
