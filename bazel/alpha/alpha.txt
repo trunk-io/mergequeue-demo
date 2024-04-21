@@ -1422,6 +1422,7 @@ accentor
 accentors
 accents
 anoxyscope
+auxillary
 accentual
 accentually
 actinotherapeutic
@@ -24507,7 +24508,6 @@ auxiliarly
 auxiliate
 auxiliator
 auxilytic
-auxillary
 auxin
 auxinic
 auxinically
