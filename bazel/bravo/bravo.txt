@@ -1711,6 +1711,7 @@ biwa
 balneotherapy
 balneotherapia
 balneum
+bombe
 bravehearted
 balnibarbi
 buccate
@@ -12306,7 +12307,6 @@ bombasts
 bombax
 bombazet
 bombazette
-bombe
 bombed
 bomber
 bedirty
