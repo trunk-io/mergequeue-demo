@@ -5724,7 +5724,6 @@ aftershafted
 aftershave
 aftershaves
 aftershocks
-aftersong
 aftersound
 afterspeech
 afterspring
@@ -23353,6 +23352,7 @@ alispheno
 auditable
 audited
 auditing
+aftersong
 alkalescency
 admonitorial
 auditive
