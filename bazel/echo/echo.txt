@@ -4555,7 +4555,6 @@ extension
 enchanted
 ecumenopolis
 euthycomic
-enchanter
 excitement
 exhalent
 enlightened
@@ -4601,6 +4600,7 @@ escapements
 easeful
 enchiridion
 epigrapher
+enchanter
 encephaloscopy
 eumeromorph
 eater
