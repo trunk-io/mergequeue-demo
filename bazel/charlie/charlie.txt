@@ -2020,7 +2020,6 @@ campanological
 campanologically
 campanologist
 campanologists
-campanulaceae
 campanulaceous
 campanulales
 campanular
@@ -5502,6 +5501,7 @@ catagmatic
 catakinesis
 catakinetic
 catakinetomer
+campanulaceae
 catakinomeric
 catalanganes
 corporeality
