@@ -12012,7 +12012,6 @@ chorioepitheliomas
 covens
 chorioepitheliomata
 chiefdom
-chorioid
 chorioiditis
 chorioidocyclitis
 chorioidoiritis
@@ -17937,6 +17936,7 @@ colpocele
 coelectron
 coelelminthic
 coelentera
+chorioid
 coelenterata
 cubicle
 collogues
