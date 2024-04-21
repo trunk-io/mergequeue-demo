@@ -4825,7 +4825,6 @@ aegir
 aegirinolite
 aegirite
 aegyrite
-aegis
 aegises
 azocoralline
 aegisthus
@@ -25107,6 +25106,7 @@ axine
 axing
 antistater
 apraxias
+aegis
 axinite
 adventurish
 axinomancy
