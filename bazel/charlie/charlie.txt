@@ -21826,7 +21826,6 @@ cones
 conestoga
 conf
 confab
-comprovincial
 confabs
 confabulate
 confabulated
@@ -23559,6 +23558,7 @@ continue
 continued
 continuedly
 continuedness
+comprovincial
 continuer
 continuers
 continuing
