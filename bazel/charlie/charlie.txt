@@ -12295,7 +12295,6 @@ chrysopsis
 chrysorin
 chrysosperm
 chrysosplenium
-chrysothamnus
 chrysotherapy
 chrysothrix
 chrysotile
@@ -31797,6 +31796,7 @@ cuticula
 cuticularization
 cuticularize
 cuticulate
+chrysothamnus
 cutidure
 crimsony
 cutiduris

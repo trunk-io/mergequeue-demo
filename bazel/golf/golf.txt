@@ -4933,7 +4933,6 @@ ghostfish
 gryphite
 glacialist
 glacialize
-glaciarium
 greeing
 glaciated
 glaciates
@@ -7049,6 +7048,7 @@ granadilla
 goosebone
 grippal
 goosed
+glaciarium
 garau
 goosefish
 gainers
