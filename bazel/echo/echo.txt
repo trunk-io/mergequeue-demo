@@ -2447,7 +2447,6 @@ electroindustrial
 electroing
 exfigure
 electroionic
-effuses
 eductions
 enzymology
 electrokinetic
@@ -6187,6 +6186,7 @@ enounced
 extenuating
 enouncement
 epimerite
+effuses
 eurythermic
 eidently
 eardrops
