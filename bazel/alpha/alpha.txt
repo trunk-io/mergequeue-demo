@@ -4904,7 +4904,6 @@ aequi
 arariba
 aequipalpia
 aequor
-aequoreal
 aequorin
 aequorins
 aer
@@ -20515,6 +20514,7 @@ artemis
 aramaic
 aeroenterectasia
 apiolin
+aequoreal
 artemision
 artemisium
 artemon
