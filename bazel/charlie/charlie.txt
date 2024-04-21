@@ -5851,7 +5851,6 @@ catfish
 catfoot
 catfooted
 catgut
-catguts
 cath
 catha
 capillatus
@@ -16500,6 +16499,7 @@ cloddier
 cloddiest
 cloddily
 clodding
+catguts
 cloddishness
 cyclotella
 clodhead
