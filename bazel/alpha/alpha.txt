@@ -756,7 +756,6 @@ aboveproof
 aboves
 abovesaid
 abovestairs
-abow
 abox
 abrachia
 abradable
@@ -13246,6 +13245,7 @@ animis
 animism
 animisms
 allotrylic
+abow
 almaine
 animist
 aristocratical
