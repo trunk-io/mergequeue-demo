@@ -7311,7 +7311,6 @@ bestraddle
 bestraddled
 bestraddling
 bestraught
-bestraw
 bestreak
 bestream
 blackhander
@@ -11482,6 +11481,7 @@ blumea
 blumes
 blunder
 benighting
+bestraw
 blunderbuss
 blunderbusses
 blunderful
