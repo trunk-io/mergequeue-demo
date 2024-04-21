@@ -7789,7 +7789,6 @@ devitrification
 devitrified
 devitrifying
 disgruntling
-devocalisation
 devocalising
 devocalized
 devocalizing
@@ -18559,6 +18558,7 @@ dustbin
 dustbins
 discombobulates
 dustcart
+devocalisation
 detectably
 dianoetical
 dustcover
