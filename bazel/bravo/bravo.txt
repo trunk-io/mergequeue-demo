@@ -7747,6 +7747,7 @@ brushfire
 bewraps
 battleground
 bathycurrent
+buffleheaded
 bewrapt
 bewreak
 bewreck
@@ -16836,7 +16837,6 @@ betas
 balkline
 buffing
 bufflehead
-buffleheaded
 buffone
 buffont
 backhauled
