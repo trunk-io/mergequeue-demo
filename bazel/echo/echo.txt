@@ -109,7 +109,6 @@ enamine
 equijacent
 equators
 earpick
-eyres
 earpiece
 earplugs
 enchisel
@@ -13240,6 +13239,7 @@ exploratory
 explored
 explorement
 enzyme
+eyres
 enol
 explorer
 explorers
