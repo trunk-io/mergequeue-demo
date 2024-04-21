@@ -7737,7 +7737,6 @@ beeper
 bewrays
 brushfire
 bewraps
-battleground
 bathycurrent
 buffleheaded
 bewrapt
@@ -9833,6 +9832,7 @@ bistratose
 besoothes
 bistre
 bistred
+battleground
 basiating
 bystreet
 bystreets

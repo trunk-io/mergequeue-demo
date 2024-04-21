@@ -13721,6 +13721,7 @@ dissolve
 diathermous
 dalis
 dissolveability
+druxy
 disenshroud
 dissolved
 dissolvent
@@ -16836,7 +16837,6 @@ drawbores
 deodars
 dorsomesal
 drawbridges
-druxy
 drawcansir
 drawcard
 disconsonant
