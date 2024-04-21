@@ -14179,7 +14179,6 @@ antefact
 antefix
 antefixa
 anaesthyl
-anteflected
 anteflexed
 anteflexion
 antefurcae
@@ -21600,6 +21599,7 @@ assagaiing
 attenuate
 aplustra
 assay
+anteflected
 assayable
 assayed
 assayer
