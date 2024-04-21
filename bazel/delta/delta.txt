@@ -7666,7 +7666,6 @@ deunam
 debell
 deviable
 deviance
-deviances
 deviancy
 deviancies
 dogcatcher
@@ -14180,6 +14179,7 @@ donating
 disturbs
 dithioic
 deb
+deviances
 desexualization
 dithion
 dithionate
