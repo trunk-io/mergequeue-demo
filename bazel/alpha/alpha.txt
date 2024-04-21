@@ -664,7 +664,6 @@ abollae
 aboma
 abomas
 andronitis
-abomasal
 abomasum
 abomasus
 abomasusi
@@ -16896,6 +16895,7 @@ aphengoscope
 aphenoscope
 apheresis
 arian
+abomasal
 apheretic
 apheses
 adumbrate
