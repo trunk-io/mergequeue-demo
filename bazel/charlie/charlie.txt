@@ -10043,7 +10043,6 @@ cheries
 cherimoyer
 cump
 cherish
-cherishable
 chymic
 cherished
 cherisher
@@ -20570,6 +20569,7 @@ compensation
 compensational
 compensatively
 compensativeness
+cherishable
 compensator
 compensatory
 compensators
