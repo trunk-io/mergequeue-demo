@@ -7587,7 +7587,6 @@ devanagari
 devance
 devaporation
 devas
-dislock
 devast
 dudelsack
 dird
@@ -18384,6 +18383,7 @@ disendowing
 duplation
 duple
 duplex
+dislock
 duplexer
 duplexers
 duplexing
