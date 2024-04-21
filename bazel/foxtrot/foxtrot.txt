@@ -5612,6 +5612,7 @@ flagleaf
 freighters
 foulnesses
 faff
+frondous
 flinched
 flincher
 flinching
@@ -10414,7 +10415,6 @@ frondlet
 frondose
 friesish
 felicitated
-frondous
 factful
 friendless
 frontage
