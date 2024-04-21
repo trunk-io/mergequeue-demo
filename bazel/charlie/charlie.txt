@@ -2319,6 +2319,7 @@ cancelation
 canceled
 canceleer
 canceler
+continuist
 cancelers
 cancelier
 collaborated
@@ -15556,7 +15557,6 @@ cufflinks
 counterraising
 certification
 cognomen
-continuist
 costrel
 censorate
 clarissimo

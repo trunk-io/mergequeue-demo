@@ -3386,7 +3386,6 @@ furner
 fieldie
 fieldish
 fieldleft
-fieldman
 financist
 fieldmice
 fieldmouse
@@ -11395,6 +11394,7 @@ fatalisms
 furlan
 fulminating
 filiality
+fieldman
 furlana
 firbolg
 furler
