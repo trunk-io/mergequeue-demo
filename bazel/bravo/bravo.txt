@@ -1881,6 +1881,7 @@ bandfile
 bandfiled
 bandgap
 bandh
+burdon
 brownism
 brython
 bakehouse
@@ -17564,7 +17565,6 @@ burlesque
 burdie
 burdigalian
 burdock
-burdon
 blowpoint
 burds
 bureau
