@@ -2404,7 +2404,6 @@ feoffer
 fetlow
 feoffor
 flaxseed
-forefronts
 feoffors
 fidelis
 feoffs
@@ -7237,6 +7236,7 @@ fatidic
 fetial
 footpound
 fogs
+forefronts
 footpounds
 flanderkin
 footprint
