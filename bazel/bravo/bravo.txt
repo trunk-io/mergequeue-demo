@@ -7648,7 +7648,6 @@ bummers
 blowpit
 bewailing
 bewails
-bewake
 bandolier
 bewall
 beware
@@ -8363,6 +8362,7 @@ bifurcation
 biga
 bigae
 bywork
+bewake
 bigam
 benzophosphinic
 bigamies
