@@ -5793,7 +5793,6 @@ deplored
 deploredness
 deplorer
 dhai
-deploring
 deplumate
 deplumated
 disposes
@@ -9803,6 +9802,7 @@ diluent
 dilutant
 dilute
 devours
+deploring
 dilutedly
 defeatists
 deathcups
