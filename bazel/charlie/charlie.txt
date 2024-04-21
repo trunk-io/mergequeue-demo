@@ -8037,7 +8037,6 @@ chickadee
 criteriions
 cetorhinus
 cetotolite
-cetraria
 catheter
 cetraric
 cetrarin
@@ -28474,6 +28473,7 @@ creatress
 creatrix
 creatural
 creature
+cetraria
 creaturehood
 creatureless
 circularity

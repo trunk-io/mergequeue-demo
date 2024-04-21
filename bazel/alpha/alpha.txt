@@ -9438,7 +9438,6 @@ alswith
 alt
 altaian
 altaid
-altair
 adjustors
 altaite
 aitesis
@@ -10676,6 +10675,7 @@ aminoid
 anointing
 aminoketone
 antitheistical
+altair
 aminolysis
 aminolytic
 aminomalonic
