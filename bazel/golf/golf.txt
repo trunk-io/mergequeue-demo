@@ -4247,7 +4247,6 @@ gundogs
 gallicola
 gymnophiona
 gymnophobia
-gymnoplast
 ghosthood
 genealogy
 gymnorhinal
@@ -7712,6 +7711,7 @@ grayfishes
 grayfly
 gasbag
 grated
+gymnoplast
 graying
 grailer
 grayling
