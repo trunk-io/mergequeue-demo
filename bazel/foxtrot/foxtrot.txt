@@ -9366,6 +9366,7 @@ finings
 franchisers
 franchises
 flagons
+fordull
 front
 frivoling
 flintier
@@ -11343,7 +11344,6 @@ feverfew
 fresnels
 frabous
 fianced
-fordull
 furciform
 furcilia
 furculae
