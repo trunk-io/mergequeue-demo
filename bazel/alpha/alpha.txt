@@ -2353,7 +2353,6 @@ astrakhan
 achroodextrinase
 achroous
 achtehalber
-achtel
 amounts
 athetized
 achtelthaler
@@ -14114,6 +14113,7 @@ antdom
 ante
 anteact
 arsenillo
+achtel
 anteambulate
 anteambulation
 anteater
