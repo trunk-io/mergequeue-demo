@@ -1852,7 +1852,6 @@ ace
 aceacenaphthene
 asphyxies
 adularia
-aceanthrene
 aceanthrenequinone
 acecaffin
 acecaffine
@@ -20859,6 +20858,7 @@ aruke
 arulo
 aroynt
 av
+aceanthrene
 arum
 arums
 aruncus
