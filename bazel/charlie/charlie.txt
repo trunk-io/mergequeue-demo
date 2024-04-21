@@ -12657,7 +12657,6 @@ chronometric
 chronometrical
 chronometrically
 chronon
-chrononomy
 chronons
 chronopher
 chronophotograph
@@ -17145,6 +17144,7 @@ coagmentation
 cresotic
 coagonize
 coagriculturist
+chrononomy
 coagula
 coagulability
 coagulate
