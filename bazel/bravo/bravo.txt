@@ -4612,7 +4612,6 @@ blastodisk
 bed
 bool
 bedabble
-bedabbles
 bequirtle
 bedabbling
 bassalian
@@ -18165,6 +18164,7 @@ biffins
 boundly
 butylene
 butylenes
+bedabbles
 butylic
 benching
 butin
