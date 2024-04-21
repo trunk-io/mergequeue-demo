@@ -2797,6 +2797,7 @@ baronga
 barongs
 barony
 bassets
+bowlers
 baronial
 baronies
 baronize
@@ -13827,7 +13828,6 @@ bowldery
 bowldering
 bowleg
 bowleggedness
-bowlers
 bowles
 bowless
 bowlful
