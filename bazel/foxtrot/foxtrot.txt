@@ -259,7 +259,6 @@ fathomable
 fustee
 fade
 forgivers
-fadeaways
 faded
 fadednyess
 fadeless
@@ -1725,6 +1724,7 @@ fimbles
 fusillade
 fearedly
 forearming
+fadeaways
 freelancer
 firebreaks
 fearedness
