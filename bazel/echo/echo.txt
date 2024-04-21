@@ -5922,7 +5922,6 @@ edgemaking
 ecardinal
 email
 estampedero
-electrogenesis
 entry
 erosion
 enkidu
@@ -12803,6 +12802,7 @@ exordial
 exordium
 exordiums
 exordize
+electrogenesis
 excitableness
 exorhason
 ejectamenta
