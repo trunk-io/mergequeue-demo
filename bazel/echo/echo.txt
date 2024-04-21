@@ -4591,7 +4591,6 @@ enchiridion
 epigrapher
 enchanter
 encephaloscopy
-eumeromorph
 eater
 enchytrae
 enchytraeid
@@ -12638,6 +12637,7 @@ exocoelum
 exocoetus
 enclosure
 exocone
+eumeromorph
 endokaryogamy
 exocrines
 ellagitannin
