@@ -4963,7 +4963,6 @@ cartouches
 cartridge
 curlicued
 canalman
-cartridges
 chevrony
 commonwealth
 cartulary
@@ -31345,6 +31344,7 @@ curiomaniac
 comparability
 capered
 curios
+cartridges
 curiosa
 curiosi
 cephalogenesis
