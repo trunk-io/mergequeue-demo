@@ -2228,7 +2228,6 @@ deceives
 deceiving
 decelerate
 dustbox
-decelerated
 decelerates
 decelerations
 decelerator
@@ -17601,6 +17600,7 @@ drumlike
 drumlin
 drumline
 drumlinoid
+decelerated
 drumlins
 drumloidal
 drummed
