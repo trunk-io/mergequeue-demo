@@ -4807,7 +4807,6 @@ disremember
 demobilising
 demobilize
 demobilizes
-diaheliotropism
 disvaluing
 demobilizing
 democracy
@@ -16302,6 +16301,7 @@ decrown
 downgone
 denude
 downgrade
+diaheliotropism
 downgraded
 dazzles
 downhaul
