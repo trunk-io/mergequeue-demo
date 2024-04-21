@@ -12787,7 +12787,6 @@ angiography
 angiographic
 angiohemophilia
 angiohyalinosis
-angiohypertonia
 angiohypotonia
 angioid
 angiokeratoma
@@ -21322,6 +21321,7 @@ asyngamy
 asyngamic
 asininely
 asininity
+angiohypertonia
 asininities
 asyntactic
 asyntrophy
