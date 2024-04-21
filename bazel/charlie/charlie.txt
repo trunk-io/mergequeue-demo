@@ -16881,7 +16881,6 @@ clubionidae
 clubland
 clubman
 clubmate
-clubmen
 clubmonger
 clubroom
 clubrooms
@@ -17380,6 +17379,7 @@ coattested
 coattesting
 coaudience
 cancelled
+clubmen
 cobitidae
 careerist
 coauthered
