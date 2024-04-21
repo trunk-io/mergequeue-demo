@@ -2988,7 +2988,6 @@ barrier
 barriers
 barrigudos
 barrikin
-burled
 barriness
 barring
 barringer
@@ -5566,6 +5565,7 @@ beisa
 beisance
 beyship
 bribeable
+burled
 bulgarians
 beja
 bejade
