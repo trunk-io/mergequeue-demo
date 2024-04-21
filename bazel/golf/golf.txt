@@ -3526,7 +3526,6 @@ goup
 gersum
 glottic
 gertie
-gerund
 gerundial
 gabbarts
 gervais
@@ -9649,6 +9648,7 @@ ghanaians
 gaudies
 grueller
 gruellers
+gerund
 given
 gruellings
 gruesome
