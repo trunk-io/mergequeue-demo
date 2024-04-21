@@ -1775,7 +1775,6 @@ gastroelytrotomy
 garlanded
 gibson
 gastroenteritic
-galenism
 gastroenteritis
 gluts
 gastroenteroanastomosis
@@ -8908,6 +8907,7 @@ genderless
 griddles
 griddling
 genarchaship
+galenism
 groundling
 gryde
 gridelin
