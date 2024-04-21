@@ -9168,7 +9168,6 @@ almirah
 almistry
 almner
 almners
-almogavar
 almohad
 almohade
 almohades
@@ -19198,6 +19197,7 @@ ambulantes
 archpilferer
 archswindler
 adenin
+almogavar
 archpillar
 archpirate
 aira
