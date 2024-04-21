@@ -3261,7 +3261,6 @@ geotaxes
 geotaxy
 gulches
 geotechnic
-geotechnics
 geotectology
 geotectonically
 graplin
@@ -4167,6 +4166,7 @@ gestening
 gilttail
 gilver
 gasterosteoid
+geotechnics
 glottogony
 gim
 gimbal
