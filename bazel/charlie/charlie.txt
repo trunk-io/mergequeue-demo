@@ -12113,6 +12113,7 @@ chorusmaster
 chorussed
 chorusses
 chorussing
+cymbalo
 chorwat
 casula
 chose
@@ -13697,7 +13698,6 @@ cymballed
 cymballike
 cob
 cymballing
-cymbalo
 cimbalom
 cymbalom
 cimbaloms
