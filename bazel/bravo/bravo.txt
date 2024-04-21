@@ -4176,7 +4176,6 @@ bowmaking
 bro
 barristers
 bearded
-beardedness
 beardfishes
 beswarms
 beardy
@@ -9640,6 +9639,7 @@ biscuitlike
 biscuitmaking
 biscuitry
 byronism
+beardedness
 biscuitroot
 burnets
 biscuits
