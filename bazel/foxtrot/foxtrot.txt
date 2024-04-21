@@ -5612,6 +5612,7 @@ foulnesses
 faff
 frondous
 flinched
+folkland
 flincher
 flinching
 founce
@@ -6909,7 +6910,6 @@ folkish
 forepredicament
 folkishness
 fasnacht
-folkland
 folklike
 folklores
 financiery
