@@ -8727,7 +8727,6 @@ billman
 blechnum
 basigenic
 bual
-bugology
 billmen
 billon
 baronizing
@@ -11669,6 +11668,7 @@ boats
 boatsetter
 boatshop
 boatsman
+bugology
 bobbed
 boatsmen
 boatsteerer
