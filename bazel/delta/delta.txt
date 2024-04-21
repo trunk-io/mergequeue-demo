@@ -3424,6 +3424,7 @@ drawtubes
 deflocculent
 deflorate
 doubting
+duendes
 defloration
 deflorations
 deflore
@@ -9932,7 +9933,6 @@ diminutal
 diminute
 diminutely
 diminuting
-duendes
 diminution
 diminutional
 dohter
