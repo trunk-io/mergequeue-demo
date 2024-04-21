@@ -4428,6 +4428,7 @@ fishwood
 fishworker
 fishworks
 fringilliformes
+furze
 fishworm
 fisnoga
 faulkland
@@ -11530,7 +11531,6 @@ furuncle
 furuncular
 furunculous
 foreordained
-furze
 furzed
 flapperhood
 flitchen
