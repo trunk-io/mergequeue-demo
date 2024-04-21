@@ -6543,7 +6543,6 @@ benzotrifluoride
 benzoxate
 bolection
 benzoxyacetic
-bathyal
 benzoxycamphor
 benzpinacone
 benzpyrene
@@ -12835,6 +12834,7 @@ biuret
 boost
 bromizes
 booster
+bathyal
 boosterism
 boosting
 bouffante
