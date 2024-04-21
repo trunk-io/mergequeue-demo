@@ -2230,6 +2230,7 @@ fazendeiro
 felonsetter
 fluorescence
 flogging
+flatfooting
 felonwort
 feriae
 flancard
@@ -10648,7 +10649,6 @@ fructiform
 fructivorous
 fructosan
 fructose
-flatfooting
 freespac
 fulgent
 foilsman
