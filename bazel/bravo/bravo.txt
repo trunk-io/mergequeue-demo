@@ -539,6 +539,7 @@ backtracking
 backtracks
 backout
 backtrail
+bishopless
 backups
 backus
 backveld
@@ -9696,7 +9697,6 @@ bishoped
 biborate
 bishopful
 bishophood
-bishopless
 bowwort
 bishoplet
 bishoplike
