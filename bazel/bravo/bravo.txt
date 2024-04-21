@@ -5465,7 +5465,6 @@ beheader
 beheadlined
 beheads
 behear
-behears
 behearse
 beheira
 bandlimit
@@ -16266,6 +16265,7 @@ bruised
 bint
 bleareyed
 bruising
+behears
 bacteriophage
 bruisingly
 bruit
