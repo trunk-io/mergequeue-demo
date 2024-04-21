@@ -3739,7 +3739,6 @@ bally
 battakhin
 bagwoman
 battalias
-battalion
 battarismus
 batteaux
 bonnering
@@ -18150,6 +18149,7 @@ butchers
 butches
 biogas
 bute
+battalion
 butein
 butene
 butenyl
