@@ -4560,7 +4560,6 @@ gipseian
 gypseian
 gastrocoele
 gipser
-gametophyll
 gipsy
 gypsy
 gipsydom
@@ -8748,6 +8747,7 @@ gobiidae
 glucosin
 guileless
 graduals
+gametophyll
 gregarian
 gregarina
 gregarinae
