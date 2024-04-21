@@ -2315,6 +2315,7 @@ electrochemistry
 electrochronometer
 equison
 electrochronometric
+electroplating
 epiphenomenal
 ephemerality
 epitheliogenetic
@@ -4984,7 +4985,6 @@ endleaves
 endless
 excuses
 endlessly
-electroplating
 eucosmid
 endlichite
 endosteally
