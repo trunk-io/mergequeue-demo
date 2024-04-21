@@ -6454,7 +6454,6 @@ ensues
 ensuingly
 electrolyzing
 ensurance
-ensure
 ensures
 ensuring
 enswathe
@@ -7723,6 +7722,7 @@ ean
 existentialistic
 epidermophyton
 englify
+ensure
 epidermophytosis
 epidermose
 epidermous
