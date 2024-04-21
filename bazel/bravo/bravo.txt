@@ -2538,6 +2538,7 @@ bargainable
 billbugs
 bargainer
 bargaining
+beechwoods
 bargander
 barge
 bargeboard
@@ -4945,7 +4946,6 @@ brothy
 beechnuts
 bomarea
 beechwood
-beechwoods
 buphthalmic
 bleak
 bobac
