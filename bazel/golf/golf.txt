@@ -1096,6 +1096,7 @@ ganglia
 gargoyled
 gansel
 gybed
+gup
 glucinum
 guvacoline
 gangliasthenia
@@ -6789,7 +6790,6 @@ gong
 gunreach
 gonged
 gonging
-gup
 gekkota
 gongorist
 gongoristic
