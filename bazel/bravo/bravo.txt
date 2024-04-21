@@ -8301,6 +8301,7 @@ bierstuben
 byestreet
 biethnic
 baccar
+beswarming
 bietle
 byeworker
 byeworkman
@@ -14477,7 +14478,6 @@ branchier
 bitterish
 branchiest
 branchiferous
-beswarming
 branchiform
 bosk
 becompliment
