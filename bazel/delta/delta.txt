@@ -6932,7 +6932,6 @@ discomposes
 desoxalic
 dichromasy
 desoxyanisoin
-desoxycorticosterone
 desoxyephedrine
 desoxymorphine
 desoxyribonucleic
@@ -17790,6 +17789,7 @@ donga
 dasypaedes
 duchy
 duchies
+desoxycorticosterone
 duck
 depa
 duckbill
