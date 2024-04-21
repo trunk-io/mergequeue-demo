@@ -2124,6 +2124,7 @@ campit
 calcaneus
 cample
 chaetopoda
+cornamute
 campo
 campodean
 creedbound
@@ -25300,7 +25301,6 @@ cornaceae
 cornaceous
 cornada
 cornage
-cornamute
 cornballs
 cornbell
 cornberry
