@@ -6176,7 +6176,6 @@ balalaikas
 binauricular
 benched
 bencher
-benchers
 benchership
 benchfellow
 bethwine
@@ -15201,6 +15200,7 @@ brickwork
 backstrip
 bucketing
 bkpr
+benchers
 bridale
 bridally
 bridals

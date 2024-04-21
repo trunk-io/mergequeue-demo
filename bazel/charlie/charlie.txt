@@ -6098,7 +6098,6 @@ cattishness
 cowherd
 cattlebush
 cattlefold
-cattlegate
 cattlehide
 clashed
 cattleya
@@ -23655,6 +23654,7 @@ contractibility
 carbolise
 contractibleness
 contractibly
+cattlegate
 contractility
 contraction
 contractional
