@@ -635,7 +635,6 @@ alimentative
 abohms
 aboideau
 aboideaus
-aquo
 aboil
 aahed
 aboiteau
@@ -22783,6 +22782,7 @@ atom
 atomatic
 atomechanics
 atomerg
+aquo
 atomy
 atomic
 atomical
