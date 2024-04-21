@@ -6487,7 +6487,6 @@ ensuingly
 electrolyzing
 ensurance
 ensure
-ensurer
 ensures
 ensuring
 enswathe
@@ -8918,6 +8917,7 @@ erenach
 eulytin
 erepsin
 ereptic
+ensurer
 ereption
 erer
 erethic
