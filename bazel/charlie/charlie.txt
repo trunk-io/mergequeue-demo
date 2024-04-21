@@ -7997,7 +7997,6 @@ catecholamine
 cetane
 cetanes
 cete
-ceteosaur
 cetera
 ceterach
 cetes
@@ -26307,6 +26306,7 @@ costotome
 costotomy
 costotomies
 costotrachelian
+ceteosaur
 costotransverse
 costovertebral
 costraight

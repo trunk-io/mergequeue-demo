@@ -1790,7 +1790,6 @@ bizardite
 banago
 beglads
 blancmanger
-buriable
 bound
 banak
 banakite
@@ -3228,6 +3227,7 @@ basifying
 blatters
 basifixed
 basifugal
+buriable
 basigamy
 basigenous
 basigynium
