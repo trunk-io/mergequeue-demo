@@ -11183,7 +11183,6 @@ chivw
 chiwere
 chizz
 chizzel
-coign
 chkalik
 chkfile
 cotys
@@ -11612,6 +11611,7 @@ cholecystogram
 cholecystography
 cholecystojejunostomy
 cholecystokinin
+coign
 cholecystolithiasis
 cholecystolithotripsy
 cholecystopexy
