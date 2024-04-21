@@ -17541,7 +17541,6 @@ corr
 cocci
 coccic
 coccid
-constables
 coccidae
 coccidial
 coccidian
@@ -18962,6 +18961,7 @@ collectarium
 collected
 collectedly
 cranberry
+constables
 collectibility
 climatotherapies
 collectible
