@@ -8643,7 +8643,6 @@ chancey
 chancel
 chanceled
 chanceless
-chancelled
 cestoda
 chancellery
 chancelleries
@@ -23538,6 +23537,7 @@ contingently
 contingentness
 continual
 criollos
+chancelled
 conviviality
 continuality
 continually
