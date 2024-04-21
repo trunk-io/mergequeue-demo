@@ -7627,7 +7627,6 @@ flays
 fluosilicate
 foredune
 foreface
-fleetingness
 firy
 ferroglass
 forefatherly
@@ -10488,6 +10487,7 @@ frontonasal
 frontons
 foragers
 fruitwood
+fleetingness
 frowst
 fluoridations
 flodge
