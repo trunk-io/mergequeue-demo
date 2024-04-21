@@ -5882,7 +5882,6 @@ depot
 desistance
 depotentiate
 depots
-depr
 defiance
 deprave
 divelled
@@ -6767,6 +6766,7 @@ desireable
 disseminated
 desired
 dojo
+depr
 desiredly
 desireful
 desirefulness
