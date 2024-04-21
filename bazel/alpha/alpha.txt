@@ -6902,7 +6902,6 @@ airflow
 airflows
 airfoil
 airfoils
-airframe
 airframes
 airglow
 airglows
@@ -8945,6 +8944,7 @@ allonyms
 allonomous
 alloo
 allopalladium
+airframe
 allopath
 allopathetic
 allopathetically
