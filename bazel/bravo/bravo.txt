@@ -2053,6 +2053,7 @@ bankmen
 berley
 banknote
 badaud
+bristly
 banknotes
 bologna
 bankrider
@@ -17321,7 +17322,6 @@ blobber
 beechier
 bumpers
 beefs
-bristly
 bumpier
 buccobranchial
 bumpily
