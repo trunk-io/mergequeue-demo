@@ -5696,7 +5696,6 @@ afterpiece
 afterplanting
 afterpotential
 afterpressure
-amicable
 afterproof
 afterrake
 afterreckoning
@@ -7126,6 +7125,7 @@ albumoses
 akanekunik
 akania
 akaniaceae
+amicable
 antistaphylococcic
 akasa
 akawai
