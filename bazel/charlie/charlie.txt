@@ -7528,7 +7528,6 @@ ceratodontidae
 ceratodus
 ceratoduses
 ceratoglossal
-ceratoglossus
 ceratohyal
 ceratohyoid
 ceratoid
@@ -31853,6 +31852,7 @@ cutset
 cuttable
 cyclothyme
 cuttage
+ceratoglossus
 cuttages
 crowfooted
 cuttail
