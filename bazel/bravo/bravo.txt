@@ -9229,7 +9229,6 @@ beefburger
 biota
 biotaxy
 barotropy
-biotechnology
 biotechnological
 bianchi
 basilemma
@@ -17935,6 +17934,7 @@ bushelfuls
 beseeched
 busheling
 bushelled
+biotechnology
 bookplate
 bushelling
 bushelman
