@@ -3174,6 +3174,7 @@ geomorphology
 geomorphological
 geomorphologically
 golliwog
+graveolence
 geomorphologist
 georgian
 gadinic
@@ -8424,7 +8425,6 @@ gardnap
 gravestead
 gan
 grallatory
-graveolence
 gonochoristic
 gravette
 graveward

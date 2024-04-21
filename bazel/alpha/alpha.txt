@@ -17468,6 +17468,7 @@ apostacize
 apostasy
 apostasies
 agglutinates
+audiometer
 apostasis
 autocollimator
 antiforeign
@@ -23330,7 +23331,6 @@ audiological
 audiologies
 aliquid
 affords
-audiometer
 amathophobia
 audiometers
 audiometric
