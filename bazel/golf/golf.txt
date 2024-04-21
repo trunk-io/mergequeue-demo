@@ -3456,7 +3456,6 @@ gymkhanas
 goss
 germlike
 germon
-gelatigenous
 germproof
 germs
 gymnocladus
@@ -6128,6 +6127,7 @@ garoted
 glided
 gannister
 gaelicist
+gelatigenous
 gluttonously
 griffado
 gmelina
