@@ -3503,6 +3503,7 @@ capuan
 capuche
 capuched
 capuchins
+counterbase
 capucine
 capulet
 capuli
@@ -26716,7 +26717,6 @@ counterbalanced
 counterbalances
 counterbalancing
 counterbarrage
-counterbase
 counterbattery
 counterbeating
 counterbend
