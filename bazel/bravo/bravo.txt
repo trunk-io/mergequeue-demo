@@ -5300,7 +5300,6 @@ beginning
 beginnings
 begird
 broadsheet
-begirded
 begirding
 begirdled
 blankard
@@ -16930,6 +16929,7 @@ backseats
 builds
 binominous
 bezette
+begirded
 buildup
 buildups
 builtin
