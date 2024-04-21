@@ -2965,6 +2965,7 @@ feudatory
 fanciable
 feudatories
 feuded
+footmark
 fakers
 flock
 fumier
@@ -7225,7 +7226,6 @@ feretrum
 footmanship
 flathe
 frighteningly
-footmark
 footnote
 footnoted
 footpace
