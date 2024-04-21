@@ -5497,7 +5497,6 @@ flyable
 formalising
 fascicle
 flyback
-feudatorial
 foreflank
 flancards
 flyball
@@ -6709,6 +6708,7 @@ fofarraw
 flanger
 fog
 fogbank
+feudatorial
 flyblow
 furriness
 fogdogs
