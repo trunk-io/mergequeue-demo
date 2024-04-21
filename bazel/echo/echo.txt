@@ -1302,6 +1302,7 @@ effectiveness
 effectivity
 effectors
 effectress
+encapsulate
 effects
 effectual
 exurban
@@ -5544,7 +5545,6 @@ enflame
 enflames
 enduringness
 enflaming
-encapsulate
 elasmosaurus
 epiklesis
 embryotomy

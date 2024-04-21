@@ -1285,6 +1285,7 @@ felsic
 fassalite
 fastbacks
 fastball
+feower
 fastened
 fastener
 foreclaw
@@ -11471,7 +11472,6 @@ fibry
 furore
 furphy
 furcated
-feower
 furred
 furry
 furrieries
