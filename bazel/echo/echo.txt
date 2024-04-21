@@ -6683,7 +6683,6 @@ enterorrhaphy
 eternity
 enterosepsis
 enterospasm
-enterostasis
 earthstar
 ebracteolate
 enterostomy
@@ -11510,6 +11509,7 @@ epinastically
 eluctation
 everlasting
 everlastingly
+enterostasis
 everlastingness
 enhaloing
 everly
