@@ -3189,7 +3189,6 @@ capitation
 capitations
 capitatum
 capite
-capiteaux
 capitellar
 capitellate
 capitelliform
@@ -28229,6 +28228,7 @@ crappie
 compoundness
 crapple
 crapshooter
+capiteaux
 cyclometries
 crapshooters
 crumlet
