@@ -2126,7 +2126,6 @@ banneret
 bannerfish
 biflorous
 beduke
-bannerlike
 bannerline
 bannerman
 bannermen
@@ -15331,6 +15330,7 @@ brighid
 bedgery
 bilharziasis
 bright
+bannerlike
 brighteyes
 brighten
 brightening
