@@ -4534,7 +4534,6 @@ gio
 giobertite
 glands
 giocoso
-gyokuro
 giornata
 giovanni
 giardia
@@ -8826,6 +8825,7 @@ grenades
 gibby
 grenadier
 grenadierial
+gyokuro
 grenadierly
 grenadiers
 grenatite
