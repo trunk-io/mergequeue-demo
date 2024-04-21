@@ -2355,7 +2355,6 @@ entremets
 ergatomorph
 enjeopard
 electrodentistry
-electrodepositable
 extemporaneousness
 electrification
 electrodeposition
@@ -8808,6 +8807,7 @@ epipolic
 eradicates
 enround
 eradication
+electrodepositable
 eradications
 embeddable
 eradicatory
