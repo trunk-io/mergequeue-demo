@@ -9914,7 +9914,6 @@ chemokinetic
 chemolysis
 chemolytic
 coasted
-calcaneotibial
 colpostat
 chemolyze
 chemonite
@@ -30354,6 +30353,7 @@ ct
 cte
 ctelette
 ctene
+calcaneotibial
 ctenidial
 ctenidium
 cteniform
