@@ -7202,7 +7202,6 @@ epharmonic
 enworthed
 enwound
 enwove
-enwrap
 enwrapment
 enwrapping
 enwraps
@@ -13269,6 +13268,7 @@ exponent
 exponential
 exponentially
 exponentiates
+enwrap
 entomion
 exponentiating
 exponention
