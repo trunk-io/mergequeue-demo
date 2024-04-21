@@ -1168,6 +1168,7 @@ biasteric
 blowcase
 bakalei
 bake
+brew
 burrish
 bakeapple
 bibliographer
@@ -15083,7 +15084,6 @@ brevity
 brevities
 backboneless
 bretwalda
-brew
 brewage
 brewages
 bogier
