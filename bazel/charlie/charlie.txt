@@ -11446,7 +11446,6 @@ caffa
 chlorpicrin
 chlorpromazine
 chlorpropamide
-chlorprophenpyridamine
 cheerfulsome
 chlorsalol
 chlortetracycline
@@ -26407,6 +26406,7 @@ cothurns
 cothurnus
 cotice
 coticed
+chlorprophenpyridamine
 coticing
 cotidal
 cotyla
