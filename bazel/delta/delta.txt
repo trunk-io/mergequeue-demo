@@ -2908,7 +2908,6 @@ decurrently
 degratia
 decursively
 decurt
-decurtate
 delphian
 decurvation
 decurvature
@@ -16847,6 +16846,7 @@ delaines
 declamation
 drawers
 drawfile
+decurtate
 disallowances
 debaters
 dissuited
