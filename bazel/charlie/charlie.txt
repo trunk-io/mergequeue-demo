@@ -15800,7 +15800,6 @@ claviole
 clavipectoral
 clavis
 clavises
-clavodeltoideus
 clavolae
 clavolet
 clavus
@@ -16344,6 +16343,7 @@ clipt
 clique
 capacitation
 cliqued
+clavodeltoideus
 cliquedom
 cliqueier
 cretinize
