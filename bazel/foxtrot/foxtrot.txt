@@ -3472,7 +3472,6 @@ fumiduct
 fiftieth
 forseen
 fiftieths
-forebow
 forefeet
 fiftypenny
 figary
@@ -10358,6 +10357,7 @@ filtrate
 fermentor
 fluorimeter
 frilly
+forebow
 froideur
 froise
 fulminous

@@ -7169,7 +7169,6 @@ biremes
 blackstrap
 bushing
 backs
-bespeakable
 bespeaking
 bespeaks
 bouzouki
@@ -16939,6 +16938,7 @@ begirded
 buildup
 buildups
 builtin
+bespeakable
 briolettes
 bluntly
 bromated
