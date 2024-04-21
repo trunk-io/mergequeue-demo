@@ -2413,6 +2413,7 @@ epoist
 electroengraving
 electroextraction
 earthquaked
+elutriate
 electroform
 electroforming
 electrofusion
@@ -3195,7 +3196,6 @@ elutions
 eigenstate
 etacism
 epirotulian
-elutriate
 elutriated
 elutriation
 elutriator
