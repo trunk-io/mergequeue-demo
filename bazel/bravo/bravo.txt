@@ -4684,6 +4684,7 @@ bedecks
 bedegar
 bankfull
 bedeguar
+bindings
 bedehouse
 bedehouses
 bedell
@@ -8858,7 +8859,6 @@ banjos
 bulliest
 binding
 bindingness
-bindings
 bindis
 biotics
 bindle
