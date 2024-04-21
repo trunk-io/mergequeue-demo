@@ -8050,7 +8050,6 @@ granulations
 granulative
 giggling
 granulators
-granules
 gripper
 guanidins
 granulet
@@ -10834,6 +10833,7 @@ guzul
 guzzle
 gersdorffite
 guzzled
+granules
 grumium
 guzzledom
 gonocoel
