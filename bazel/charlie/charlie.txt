@@ -12647,6 +12647,7 @@ chronomancy
 chronomantic
 chronomastix
 chronometer
+citolers
 chronometers
 corin
 chronometric
@@ -14959,7 +14960,6 @@ cytol
 corries
 citolas
 citole
-citolers
 citoles
 cytolymph
 cytolysin

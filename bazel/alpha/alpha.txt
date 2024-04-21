@@ -5460,7 +5460,6 @@ afforestment
 afforests
 afformative
 affray
-affrayer
 affrayers
 affraying
 affrays
@@ -17096,6 +17095,7 @@ anteverts
 apis
 apish
 apishamore
+affrayer
 apishly
 anoure
 apishness
