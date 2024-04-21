@@ -5796,7 +5796,6 @@ engrosser
 engrossers
 engrossingness
 engs
-ensynopticity
 endocarditic
 engulf
 epicardial
@@ -6169,6 +6168,7 @@ extenuating
 enouncement
 epimerite
 effuses
+ensynopticity
 eurythermic
 eidently
 eardrops
