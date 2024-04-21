@@ -2821,7 +2821,6 @@ decrepit
 duodecahedral
 decrepitated
 decrepitation
-decrepity
 decrepitness
 decreptitude
 decresc
@@ -12340,6 +12339,7 @@ dishaunt
 dicyclica
 douar
 dishcloth
+decrepity
 despairer
 dishcloths
 dishclout
