@@ -2617,6 +2617,7 @@ dispose
 decolorization
 decolorized
 decolors
+duopsonies
 decolouration
 decolouring
 decolourisation
@@ -18357,7 +18358,6 @@ duopolies
 duopolist
 duopolistic
 duopsony
-duopsonies
 duopsonistic
 duos
 duosecant
