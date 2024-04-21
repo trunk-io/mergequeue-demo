@@ -1176,7 +1176,6 @@ filtrability
 fenite
 fascia
 fogeater
-fasciae
 fasciate
 factionaries
 featherbone
@@ -9151,6 +9150,7 @@ foxing
 furbishable
 folliculosis
 fishybacking
+fasciae
 fictil
 foxly
 flaith
