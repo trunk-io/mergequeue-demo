@@ -1810,7 +1810,6 @@ containers
 cologne
 calicoed
 cambistry
-cambists
 cordwains
 cambium
 cambiums
@@ -3334,6 +3333,7 @@ capriccios
 capriccioso
 caprice
 caprices
+cambists
 capricious
 cycloidian
 clipei
