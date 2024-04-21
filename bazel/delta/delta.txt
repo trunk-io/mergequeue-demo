@@ -199,6 +199,7 @@ defilable
 daemonelix
 daemones
 daemony
+deforesting
 dietics
 daemonistic
 daemons
@@ -3493,7 +3494,6 @@ deforest
 deforested
 deforester
 dentiform
-deforesting
 deforests
 deform
 diasters
