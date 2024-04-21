@@ -3760,6 +3760,7 @@ fosse
 forehatchway
 farmable
 flow
+fellowshipping
 fillock
 fake
 frogeater
@@ -8660,7 +8661,6 @@ forthbringing
 fopdoodle
 forthcame
 fudge
-fellowshipping
 freely
 flapless
 flensing
