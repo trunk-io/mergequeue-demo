@@ -1229,7 +1229,6 @@ gantlet
 gantleted
 gantline
 genteeler
-gantlines
 gantlopes
 garial
 ganton
@@ -8518,6 +8517,7 @@ greaselessness
 glowbird
 grimful
 gilpy
+gantlines
 garlicmonger
 gozzard
 greaseproof
