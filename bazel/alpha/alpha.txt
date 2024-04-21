@@ -12449,7 +12449,6 @@ argilloarenaceous
 andromorphous
 andron
 andronicus
-andropetalar
 andropetalous
 androphagous
 androphore
@@ -12594,6 +12593,7 @@ anesthesia
 amishgo
 armisonant
 anesthesimeter
+andropetalar
 anesthesiology
 anesthesiologies
 alumstone
