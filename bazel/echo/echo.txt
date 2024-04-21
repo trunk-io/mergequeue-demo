@@ -4930,7 +4930,6 @@ examinate
 endeavorer
 endamaging
 edificable
-endeavoring
 endeavors
 emulsifiable
 enthronise
@@ -12530,6 +12529,7 @@ exigences
 exigencies
 epi
 exigent
+endeavoring
 escortment
 exigenter
 exigently
