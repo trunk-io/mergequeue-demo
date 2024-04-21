@@ -203,7 +203,6 @@ crases
 cabrie
 cabrilla
 cabrillas
-cabriole
 cabrioles
 cabriolet
 cabriolets
@@ -2279,6 +2278,7 @@ canangium
 chaetognathous
 carby
 canap
+cabriole
 canape
 canapes
 canapina
