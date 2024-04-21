@@ -3682,7 +3682,6 @@ copunctal
 carbamyls
 carbamine
 carbamino
-carbamoyl
 circum
 carbanilic
 carbanilid
@@ -16724,6 +16723,7 @@ cirrus
 clothesline
 clotheslines
 clothesman
+carbamoyl
 cosuitor
 clothespin
 clothespins
