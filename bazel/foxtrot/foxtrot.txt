@@ -140,6 +140,7 @@ facks
 foetiferous
 faconde
 faconne
+ferritin
 facsim
 facsimile
 facsimiled
@@ -8488,7 +8489,6 @@ formylate
 formylated
 fiuman
 formylating
-ferritin
 formylation
 formyls
 fozinesses
