@@ -1165,7 +1165,6 @@ dasturi
 dat
 dermatocoptes
 datable
-deleted
 dogtrot
 datableness
 datably
@@ -6826,6 +6825,7 @@ deskill
 desklike
 deskman
 desks
+deleted
 desktop
 destined
 deslime
