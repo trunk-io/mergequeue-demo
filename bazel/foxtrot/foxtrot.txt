@@ -8179,6 +8179,7 @@ forfeitures
 forfend
 formwork
 fauvists
+foo
 forfending
 forfends
 fringes
@@ -11752,7 +11753,6 @@ fruitive
 fuzziness
 flauntiest
 flacianism
-foo
 fv
 flocculi
 feverbush
