@@ -7089,7 +7089,6 @@ demonstratable
 destrier
 destriers
 destroy
-destroyable
 divisionally
 dismays
 dietical
@@ -7460,6 +7459,7 @@ deuniting
 deurbanize
 deurwaarder
 diarrheic
+destroyable
 diomedea
 disentwine
 discriminably
