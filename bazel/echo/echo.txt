@@ -4486,7 +4486,6 @@ encephalic
 encephalin
 encephalitic
 exocolitis
-emprosthotonus
 emulators
 encephalitogenic
 elotherium
@@ -11388,6 +11387,7 @@ epidotes
 evection
 evectional
 ethion
+emprosthotonus
 evector
 evehood
 evejar
