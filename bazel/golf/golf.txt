@@ -4871,6 +4871,7 @@ garderobe
 giver
 givers
 gladeye
+glossematics
 gyves
 givingness
 grudgingness
@@ -5796,7 +5797,6 @@ goniostat
 glossectomy
 glossed
 glossematic
-glossematics
 grenado
 glossemes
 glossemic
