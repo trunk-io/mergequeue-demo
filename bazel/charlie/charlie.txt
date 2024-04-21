@@ -2721,6 +2721,7 @@ cannulas
 cannulate
 circumscribe
 cannulated
+cursitor
 cannulating
 cannulation
 canoe
@@ -31488,7 +31489,6 @@ cornutin
 cursillo
 cursing
 cursitate
-cursitor
 cursive
 cursively
 cursiveness
