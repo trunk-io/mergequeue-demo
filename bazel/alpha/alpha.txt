@@ -18821,6 +18821,7 @@ acetabuliferous
 archbeacon
 archbeadle
 aridge
+autocephality
 archbishopess
 archbishopry
 archbishopric
@@ -23935,7 +23936,6 @@ autocatharsis
 autocatheterism
 autocephalia
 autocephalic
-autocephality
 autocephalous
 autoceptive
 autochemical
