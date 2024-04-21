@@ -27512,6 +27512,7 @@ coveralls
 coverchief
 cerberean
 covercle
+conform
 covered
 calculagraph
 coverer
@@ -29303,7 +29304,6 @@ cryptoneurous
 cryptonymic
 casina
 cryptonymous
-conform
 cryptoperthite
 cryptophagidae
 cryptophyceae
