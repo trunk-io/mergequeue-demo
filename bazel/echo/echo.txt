@@ -1846,6 +1846,7 @@ eightieth
 electropotential
 eightling
 eightpenny
+euler
 eights
 eightscore
 eightsome
@@ -4124,7 +4125,6 @@ employer
 exedral
 employers
 employment
-euler
 entastic
 epilithic
 electroviscous
