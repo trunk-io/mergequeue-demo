@@ -11929,7 +11929,6 @@ chordamesodermal
 chordamesodermic
 chordata
 chordate
-chordates
 chorded
 chordee
 choriso
@@ -30755,6 +30754,7 @@ cullisance
 cullises
 culls
 culm
+chordates
 culmed
 culmen
 culmy
