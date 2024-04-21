@@ -15020,7 +15020,6 @@ cytoplasm
 chimalapa
 cytoplasmic
 cytoplasmically
-cytoplastic
 cytoproct
 cytoreticulum
 conducted
@@ -31143,6 +31142,7 @@ cuproiodargyrite
 chalque
 cuproplumbite
 cuproscheelite
+cytoplastic
 chromaticity
 cuprose
 catamaran

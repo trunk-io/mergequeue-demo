@@ -11888,7 +11888,6 @@ excathedral
 excaudate
 engracing
 excavations
-epitaxy
 excavator
 enlace
 emptins
@@ -12981,6 +12980,7 @@ ethos
 expediment
 eremophyte
 expeding
+epitaxy
 eluders
 emrode
 expeditating
