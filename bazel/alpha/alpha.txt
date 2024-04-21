@@ -5527,7 +5527,6 @@ aflat
 agons
 aflatoxin
 aflaunt
-afley
 aflight
 aflow
 acumen
@@ -22421,6 +22420,7 @@ aswell
 asweve
 anthood
 aswim
+afley
 aswing
 aswirl
 aswoon
