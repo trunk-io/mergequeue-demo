@@ -6027,7 +6027,6 @@ chantefable
 catnap
 cheilotomies
 catnaper
-catnapers
 coagulable
 catnapping
 caddle
@@ -13425,6 +13424,7 @@ cycloparaffin
 chinning
 cyclope
 churchwarden
+catnapers
 cyclopedia
 cyclopedias
 cyclopedical
