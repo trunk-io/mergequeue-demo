@@ -7096,7 +7096,6 @@ eicosane
 eventuations
 envaye
 esogastritis
-evoked
 envassal
 enveigle
 envelop
@@ -9716,6 +9715,7 @@ endfile
 esopgi
 entrike
 esophagometer
+evoked
 esophagomycosis
 esophagopathy
 esophagoplasty
