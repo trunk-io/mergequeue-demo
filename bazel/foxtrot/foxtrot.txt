@@ -3822,7 +3822,6 @@ furnitureless
 fils
 filterability
 finify
-fluency
 freakily
 filterableness
 faut
@@ -10237,6 +10236,7 @@ frivoled
 frivoler
 frivolity
 frivolities
+fluency
 frivolized
 frivoller
 frivolling
