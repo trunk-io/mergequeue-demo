@@ -8294,7 +8294,6 @@ facelift
 foryield
 furnished
 furnaceman
-ferriage
 felonous
 farcical
 forints
@@ -10903,6 +10902,7 @@ fulgide
 fulgidity
 fulgor
 floretum
+ferriage
 fantasizing
 fulgorid
 fulgoridae
