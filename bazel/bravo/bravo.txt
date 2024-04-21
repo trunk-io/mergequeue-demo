@@ -740,7 +740,6 @@ barlock
 betimber
 baddies
 baddish
-baddishly
 baddishness
 bade
 badenite
@@ -18313,6 +18312,7 @@ buttonball
 barkpeel
 buttonbush
 buttoned
+baddishly
 basidiocarp
 buttoner
 beele
