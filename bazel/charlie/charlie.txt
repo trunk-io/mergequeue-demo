@@ -8426,6 +8426,7 @@ chalkos
 chalkosideric
 chalkotheke
 chalkpit
+crackling
 chalkrail
 chalkstone
 chalkworker
@@ -27906,7 +27907,6 @@ crackleware
 crackly
 cracklier
 crackliest
-crackling
 cracklings
 crackmans
 chromophilia
