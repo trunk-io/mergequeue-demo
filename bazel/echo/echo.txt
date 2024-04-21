@@ -10304,6 +10304,7 @@ emmarbled
 electrotelegraphic
 ethicality
 ethicals
+evicts
 ethician
 executer
 ethicians
@@ -11537,7 +11538,6 @@ eleocharis
 embodying
 evictor
 evictors
-evicts
 evidence
 evidences
 evidencing
