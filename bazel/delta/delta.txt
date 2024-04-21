@@ -5168,7 +5168,6 @@ depopulate
 dendrology
 dendrologist
 discerp
-deathlike
 dendrologists
 dendrologous
 dendromecon
@@ -17606,6 +17605,7 @@ drumlins
 drumloidal
 drummed
 drummer
+deathlike
 drummers
 distained
 drumming
