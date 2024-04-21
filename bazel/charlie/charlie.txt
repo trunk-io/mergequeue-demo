@@ -11892,6 +11892,7 @@ chopins
 choplogic
 choplogical
 chopped
+cryptomonad
 chopper
 choppers
 choppier
@@ -16025,7 +16026,6 @@ clerkdom
 clerkdoms
 clerkery
 clerkess
-cryptomonad
 clerkhood
 clerking
 carcinosis
