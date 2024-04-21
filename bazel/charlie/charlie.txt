@@ -3497,7 +3497,6 @@ captivities
 cojoin
 captor
 captors
-clientless
 capturable
 capture
 captured
@@ -28596,6 +28595,7 @@ creese
 creeses
 cinchonine
 chiefship
+clientless
 creesh
 cedule
 colemanite
