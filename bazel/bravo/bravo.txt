@@ -12703,6 +12703,7 @@ bemat
 bookroom
 bookseller
 berendo
+burliness
 becloaked
 backhatch
 boce
@@ -17752,7 +17753,6 @@ burly
 blarney
 burliest
 burlily
-burliness
 brachioganoid
 brontops
 bratchet
