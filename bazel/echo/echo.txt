@@ -6914,7 +6914,6 @@ evangelicality
 enjoyableness
 entosphenal
 entosphere
-entosterna
 entosternal
 entosternum
 entosthoblast
@@ -13157,6 +13156,7 @@ explainable
 explainableness
 eidetically
 explained
+entosterna
 explainer
 explainers
 explaining
