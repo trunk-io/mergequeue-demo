@@ -2721,6 +2721,7 @@ elementish
 elements
 ergatandromorphic
 elemis
+eltime
 ecthyma
 elench
 ephebeibeia
@@ -5359,7 +5360,6 @@ endpoints
 endrin
 endrudge
 exampless
-eltime
 endseal
 endshake
 execrates

@@ -12603,6 +12603,7 @@ chromosomally
 condensate
 chromosomes
 chromosomic
+cornercap
 chromosphere
 collophore
 chromospheres
@@ -25366,7 +25367,6 @@ cirsectomy
 corneosiliceous
 corner
 cornerback
-cornercap
 cornered
 cornerer
 cornering
