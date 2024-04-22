@@ -4760,7 +4760,6 @@ gyrophoraceous
 gyroplane
 giros
 gyroscope
-galeopithecus
 gyroscopes
 gyrose
 gyrostat
@@ -9661,6 +9660,7 @@ gruellers
 greedygut
 gulo
 gerund
+galeopithecus
 given
 gruellings
 gruesome
