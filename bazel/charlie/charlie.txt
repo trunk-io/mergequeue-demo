@@ -15788,7 +15788,6 @@ clave
 cytoryctes
 clavecin
 clavecinist
-clavel
 clavelization
 clavelize
 clavellate
@@ -23851,6 +23850,7 @@ contrepartie
 cannonades
 contretemps
 contrib
+clavel
 contributable
 civilisedness
 contribution

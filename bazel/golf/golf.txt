@@ -3217,6 +3217,7 @@ geopolitik
 geopolitist
 gravimeter
 geopositive
+grace
 geopotential
 geoprumnon
 georama
@@ -7581,7 +7582,6 @@ grabhook
 grabman
 grabouche
 grabs
-grace
 glasgow
 graced
 graceful
