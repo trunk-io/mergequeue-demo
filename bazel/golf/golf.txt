@@ -2750,7 +2750,6 @@ gneissoid
 guinea
 guildic
 grands
-guanophore
 gorblimey
 genethlialogic
 genethlialogical
@@ -7219,6 +7218,7 @@ gormand
 gormandised
 gormandism
 gormandize
+guanophore
 geodetics
 gormandizes
 gurglets
