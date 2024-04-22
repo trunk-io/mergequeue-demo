@@ -23996,6 +23996,7 @@ comps
 conveyance
 conveyances
 conveyed
+coonskins
 conveyer
 conveyers
 conveying
@@ -24403,7 +24404,6 @@ coonily
 cooniness
 coonjine
 coonskin
-coonskins
 coontah
 coontie
 coop
