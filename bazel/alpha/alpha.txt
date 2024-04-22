@@ -16661,7 +16661,6 @@ aortal
 aortarctia
 aortas
 amadis
-aortectasia
 aortectasis
 aortic
 aortitis
@@ -17033,6 +17032,7 @@ apiator
 achenium
 apically
 apices
+aortectasia
 apician
 apicifixed
 apicillary
