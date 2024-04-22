@@ -782,6 +782,7 @@ fanegadas
 feudalizable
 fellowlike
 favor
+fermacy
 fanfaronade
 fanfarons
 funnellike
@@ -2482,7 +2483,6 @@ ferlied
 frangulinic
 ferlying
 ferling
-fermacy
 fermail
 fermal
 fermata
