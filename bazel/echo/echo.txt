@@ -453,7 +453,6 @@ erf
 elasticate
 eccyesis
 eccl
-entropies
 expandability
 ecclesia
 ecclesiarch
@@ -7525,6 +7524,7 @@ epicedia
 epicedial
 epicedian
 epicedium
+entropies
 eduardo
 epicele
 enshrining
