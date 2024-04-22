@@ -8383,6 +8383,7 @@ chalcophanite
 chalcopyrite
 chalcosiderite
 chalcosine
+crocodilite
 canadianisms
 chalcotrichite
 chalcus
@@ -29624,7 +29625,6 @@ crocodilidae
 cadmopone
 crocodylidae
 crocodiline
-crocodilite
 crocodility
 crocodiloid
 coriin
