@@ -4620,7 +4620,6 @@ gird
 girder
 girders
 girdlecake
-gumwood
 glycine
 gentianin
 girdlelike
@@ -7825,6 +7824,7 @@ guardstone
 gelatification
 gramme
 groggiest
+gumwood
 guildsman
 grammel
 grammy
