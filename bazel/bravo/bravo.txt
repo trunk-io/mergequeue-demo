@@ -275,6 +275,7 @@ bacillosis
 bacis
 boxerism
 back
+boxlike
 backache
 backaching
 bocardo
@@ -13905,7 +13906,6 @@ boxholder
 boxy
 boxing
 boxkeeper
-boxlike
 boxmaker
 bicycloheptane
 boxman
