@@ -2153,7 +2153,6 @@ gawk
 grubs
 ginglmi
 gelndesprung
-gargoyles
 gawked
 gazometer
 gawkhammer
@@ -10030,6 +10029,7 @@ glume
 gemelled
 gulped
 gammation
+gargoyles
 ghosting
 guelf
 greasing

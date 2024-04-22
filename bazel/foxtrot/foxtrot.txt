@@ -3056,6 +3056,7 @@ fevertrap
 flocoon
 fiant
 fiants
+feat
 fiar
 fractionizing
 fumigatory
@@ -10448,7 +10449,6 @@ filigerous
 fontes
 flusterment
 fibrocartilage
-feat
 frontignac
 formularize
 frontignan
