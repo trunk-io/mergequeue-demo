@@ -3936,7 +3936,6 @@ carcanetted
 carcases
 crueler
 carcass
-cellmate
 carcassed
 carcasses
 carcassing
@@ -18287,6 +18286,7 @@ coffret
 coffrets
 coffs
 cofighter
+cellmate
 cofinal
 coforeknown
 cofound
