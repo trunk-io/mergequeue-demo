@@ -8709,6 +8709,7 @@ fortissimi
 fortissimo
 forepad
 fortissimos
+forefin
 fraenular
 fortnight
 fortnightly
@@ -11233,7 +11234,6 @@ fluorophosphate
 farmerette
 fungoes
 fungoids
-forefin
 fusees
 fungology
 fibers
