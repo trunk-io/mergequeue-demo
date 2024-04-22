@@ -7158,6 +7158,7 @@ fibromatoid
 footfeed
 fesels
 footfolk
+fu
 fortalice
 footganger
 fruticulture
@@ -10806,7 +10807,6 @@ fth
 ftncmd
 feuars
 featherlet
-fu
 footsoldiers
 foreimagine
 fubbed
