@@ -3509,6 +3509,7 @@ boobook
 broadhead
 batable
 batad
+bagworms
 brocket
 batak
 bataleur
@@ -7754,7 +7755,6 @@ buffleheaded
 bewrapt
 bewreak
 bewreck
-bagworms
 befreckle
 bewry
 blockhole
