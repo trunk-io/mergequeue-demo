@@ -8512,7 +8512,6 @@ chambellan
 chamber
 chamberdeacon
 chambered
-chamberer
 catocala
 colonopathy
 chambering
@@ -11605,6 +11604,7 @@ cholanthrene
 conveniens
 cussing
 cholate
+chamberer
 cholates
 contestation
 cinctures
