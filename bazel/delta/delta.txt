@@ -3752,7 +3752,6 @@ dozinesses
 dimensioned
 doolies
 dehydrate
-dorsoabdominal
 dehydrates
 dehydrator
 danaid
@@ -9108,6 +9107,7 @@ dictionarian
 dratted
 dictyonema
 defectionist
+dorsoabdominal
 dictyonine
 dictions
 didactylous
