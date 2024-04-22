@@ -12987,7 +12987,6 @@ dispatch
 dispatched
 dispatcher
 disesteeming
-dispatchers
 dispatches
 dispatchful
 dispathy
@@ -17889,6 +17888,7 @@ dueler
 duelers
 duelist
 duelistic
+dispatchers
 duelists
 docible
 duelli
