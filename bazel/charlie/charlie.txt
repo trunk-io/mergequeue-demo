@@ -2386,7 +2386,6 @@ centgener
 cancha
 canchalagua
 crocard
-canchas
 cherubically
 cancion
 cancionero
@@ -27869,6 +27868,7 @@ crabbing
 crabcatcher
 crabeater
 crabeating
+canchas
 craber
 crabfish
 crabgrass
