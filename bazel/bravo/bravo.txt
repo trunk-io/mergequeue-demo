@@ -10874,6 +10874,7 @@ blew
 blewits
 blick
 blickeys
+brushcut
 blicky
 betone
 bianco
@@ -16368,7 +16369,6 @@ brushable
 brushback
 brushbird
 basilar
-brushcut
 bestick
 braker
 bewailingly
