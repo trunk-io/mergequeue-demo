@@ -2432,7 +2432,6 @@ alaunian
 azuline
 acidulation
 anticommercialist
-attenuation
 acidulously
 aciduria
 acidurias
@@ -11081,6 +11080,7 @@ ampere
 amperemeter
 ampery
 amperian
+attenuation
 amperometer
 amperometric
 arteriology
