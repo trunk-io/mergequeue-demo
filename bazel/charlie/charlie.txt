@@ -1794,7 +1794,6 @@ camass
 camasses
 cheerers
 cyrillaceae
-coenaculum
 camassia
 camata
 coracler
@@ -8362,6 +8361,7 @@ chalcites
 chalcocite
 chalcogen
 chalcogenide
+coenaculum
 cheapishly
 collectional
 chalcograph

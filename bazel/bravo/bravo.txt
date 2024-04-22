@@ -2122,7 +2122,6 @@ basaltoid
 banneret
 bannerfish
 biflorous
-beduke
 bannerline
 bannerman
 bannermen
@@ -15815,6 +15814,7 @@ bromelin
 bromelins
 batler
 bryozoa
+beduke
 bromeosin
 bromes
 brahminee
