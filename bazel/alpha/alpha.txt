@@ -1418,6 +1418,7 @@ accent
 accented
 accenting
 anticnemion
+alcae
 airtightly
 accentor
 accentors
@@ -7626,7 +7627,6 @@ archontate
 alcaaba
 alcade
 arianize
-alcae
 alcahest
 alcahests
 alcaics
