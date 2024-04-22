@@ -7166,7 +7166,6 @@ dynamometric
 desulfurs
 desulphur
 desulphurate
-desulphurated
 desulphurating
 desulphuret
 delatorian
@@ -17289,6 +17288,7 @@ drogerman
 dispiece
 drogh
 disaster
+desulphurated
 drogher
 droghlin
 dronet
