@@ -2223,7 +2223,6 @@ canadite
 canadol
 conceivers
 canafistola
-complanar
 computerized
 canafistolo
 canafistula
@@ -28893,6 +28892,7 @@ crewed
 crewel
 crewels
 crewet
+complanar
 crushers
 crewing
 crewless
