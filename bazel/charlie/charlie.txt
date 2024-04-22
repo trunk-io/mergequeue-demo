@@ -12325,7 +12325,6 @@ chrysoprase
 chrysoprasus
 chrysops
 chrysopsis
-chrysorin
 chrysosperm
 chrysosplenium
 chrysotherapy
@@ -27491,6 +27490,7 @@ covalency
 carpoptosis
 coriander
 corallike
+chrysorin
 covalent
 covalently
 carnaubic
