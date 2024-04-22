@@ -2458,6 +2458,7 @@ decimus
 denizenize
 designs
 decyne
+diaeresis
 decinormal
 dispenser
 decipherability
@@ -8249,7 +8250,6 @@ dioti
 diadumenus
 diaene
 diaereses
-diaeresis
 diaeretic
 decanoyl
 deceivableness
