@@ -6626,7 +6626,6 @@ enterologic
 enteromegaly
 eaved
 enteromegalia
-enteromesenteric
 enteroneuritis
 ewelease
 enterons
@@ -12912,6 +12911,7 @@ engr
 epithymetic
 extraditing
 efford
+enteromesenteric
 expansions
 effluvias
 expansive
