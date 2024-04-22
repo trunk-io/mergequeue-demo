@@ -2530,7 +2530,6 @@ embassies
 electroosmotically
 electropathy
 electropathology
-electrophilic
 electrophysicist
 electrophysiological
 exportability
@@ -13804,6 +13803,7 @@ endowers
 extendible
 elytrin
 extracerebral
+electrophilic
 extracystic
 extracivic
 extracivically
