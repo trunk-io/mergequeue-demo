@@ -3485,7 +3485,6 @@ forel
 fighteress
 fanwort
 fighting
-foundation
 figitidae
 fliped
 floriparous
@@ -5973,6 +5972,7 @@ flopover
 flopovers
 flopper
 fibrinoplastin
+foundation
 floppy
 floppier
 floppies
