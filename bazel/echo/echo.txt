@@ -5766,6 +5766,7 @@ engrasp
 engrave
 engravement
 engraver
+entree
 engravers
 engraves
 easts
@@ -6977,7 +6978,6 @@ entrec
 entrecote
 entrecotes
 eslabon
-entree
 epiglottides
 entrees
 eighteenmo

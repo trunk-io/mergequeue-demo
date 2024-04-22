@@ -4478,7 +4478,6 @@ dematerialisation
 duchery
 decubation
 dematerialised
-dematerialising
 dematerialize
 deletory
 dematerialized
@@ -17040,6 +17039,7 @@ decil
 dumbledore
 disambiguated
 dressily
+dematerialising
 disalicylide
 dressings
 disgarland
