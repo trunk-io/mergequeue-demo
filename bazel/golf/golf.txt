@@ -5958,6 +5958,7 @@ gaffers
 glt
 glucaemia
 greywacke
+gnawable
 geaster
 glucagon
 guarea
@@ -7487,7 +7488,6 @@ governesses
 governing
 governingly
 got
-gnawable
 gombay
 garron
 gymnast
