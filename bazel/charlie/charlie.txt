@@ -11800,6 +11800,7 @@ chondroblastoma
 concealingly
 chondrocyte
 chondroclasis
+cobs
 chondrocoracoid
 chondrocostal
 chondrocranial
@@ -17513,7 +17514,6 @@ cobridgehead
 chrysostomic
 culvert
 cobrother
-cobs
 coburg
 cobweb
 centavos
