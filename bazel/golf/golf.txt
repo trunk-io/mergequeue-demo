@@ -1093,7 +1093,6 @@ geodist
 gullibility
 ganglia
 gargoyled
-glazings
 gansel
 gybed
 gup
@@ -9728,6 +9727,7 @@ grundy
 grundified
 gerents
 gluttonizing
+glazings
 grundsil
 gregarine
 gruneritization
