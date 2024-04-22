@@ -2425,7 +2425,6 @@ decimalism
 dueling
 decimalist
 decimalization
-decimalize
 decimalized
 dialdehyde
 decimalizes
@@ -17554,6 +17553,7 @@ dislodge
 despeed
 duplon
 deliverability
+decimalize
 druggery
 dialogize
 druggeries
