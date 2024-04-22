@@ -1136,7 +1136,6 @@ eikons
 elephantine
 embowelled
 essayish
-ertebolle
 edition
 editions
 editor
@@ -1702,6 +1701,7 @@ eyebeam
 eyebeams
 effie
 eyeberry
+ertebolle
 eyeblack
 eyeblink
 eyebright
