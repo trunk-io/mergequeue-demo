@@ -12676,7 +12676,6 @@ buoyancies
 bookkeep
 bookland
 booklear
-bistouries
 booklet
 booklets
 broomy
@@ -18136,6 +18135,7 @@ butchered
 butcherer
 ballyrag
 biternate
+bistouries
 butcheress
 butchery
 butcheries
