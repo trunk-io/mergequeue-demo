@@ -8008,7 +8008,6 @@ alethiologic
 alethiological
 alethiologist
 alethopteis
-antonymous
 alethopteroid
 alethoscope
 aletocyte
@@ -21343,6 +21342,7 @@ ask
 askable
 askant
 askapart
+antonymous
 askari
 askaris
 asked
