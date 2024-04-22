@@ -6990,7 +6990,6 @@ beseemed
 beseemingly
 bendel
 beastie
-beseemingness
 beseemliness
 beseems
 beseen
@@ -16582,6 +16581,7 @@ bucculae
 belvidere
 bucculatrix
 bucentur
+beseemingness
 bobsledder
 bucephala
 bandaka
