@@ -1543,7 +1543,6 @@ deadliness
 deadlock
 deadlocking
 distiller
-deadman
 dipus
 diffusibly
 direfulness
@@ -13283,6 +13282,7 @@ diobols
 disprobabilization
 detenus
 disprobabilize
+deadman
 damsite
 dreissensia
 doctorfish
