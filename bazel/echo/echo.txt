@@ -983,6 +983,7 @@ edam
 edana
 edaphology
 edaphon
+epicures
 edaphosauria
 edaphosaurid
 edaphosaurus
@@ -11891,7 +11892,6 @@ empassion
 excedent
 exceedable
 elutes
-epicures
 exceeded
 engineered
 echinus
