@@ -3061,7 +3061,6 @@ caparisoning
 caparisons
 capataces
 capataz
-capax
 capcase
 cape
 capeadores
@@ -17455,6 +17454,7 @@ cobbiest
 cobbin
 cobbing
 cobble
+capax
 cobbled
 cobbler
 cobblerfish
