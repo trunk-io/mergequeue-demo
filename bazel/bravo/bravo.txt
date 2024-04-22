@@ -9019,7 +9019,6 @@ bioelectricity
 bioelectricities
 bioelectrogenesis
 bioengineering
-bioenvironmental
 bioenvironmentaly
 bioethic
 bannerless
@@ -17186,6 +17185,7 @@ barble
 buckramed
 baubles
 bullyrock
+bioenvironmental
 bullishness
 bullism
 bondieuserie
