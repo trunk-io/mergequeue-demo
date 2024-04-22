@@ -7048,7 +7048,6 @@ enumerative
 enterozoa
 explicable
 enlinked
-enumerator
 enunciability
 endoss
 enunciated
@@ -11717,6 +11716,7 @@ exadversum
 exaestuate
 etymologizing
 exaggerate
+enumerator
 exaggerated
 exaggerates
 emetines
