@@ -4235,7 +4235,6 @@ delis
 dishonourable
 disherit
 delisk
-delist
 delisted
 delisting
 delists
@@ -11423,6 +11422,7 @@ derelictions
 divisionistic
 discipular
 dislikes
+delist
 discission
 desktop
 disclaimed
