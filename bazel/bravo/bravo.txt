@@ -601,6 +601,7 @@ bonjour
 bricoles
 babungera
 bacquet
+billmen
 bact
 bokadam
 bacteraemia
@@ -8730,7 +8731,6 @@ billman
 blechnum
 basigenic
 bual
-billmen
 billon
 baronizing
 billons
