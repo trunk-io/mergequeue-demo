@@ -11881,7 +11881,6 @@ antimachine
 anam
 anama
 anametadromous
-anamirtin
 amperage
 appense
 anamite
@@ -12842,6 +12841,7 @@ angiomyosarcoma
 angioneoplasm
 angioneurosis
 abernethy
+anamirtin
 angionoma
 arcabucero
 azygospore
