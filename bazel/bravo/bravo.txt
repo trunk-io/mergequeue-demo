@@ -1919,7 +1919,6 @@ bandlimits
 bandmaster
 bandmasters
 bando
-basifacial
 bandobust
 bandog
 bandanas
@@ -5369,6 +5368,7 @@ begoniaceae
 begoniaceous
 begoniales
 backslapping
+basifacial
 begonias
 begorah
 begorra
