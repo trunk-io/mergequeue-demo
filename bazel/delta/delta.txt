@@ -5260,7 +5260,6 @@ denitrification
 denitrificator
 denitrifier
 denitrifying
-denitrize
 denization
 denizen
 denizenation
@@ -5840,6 +5839,7 @@ depopulated
 depopulates
 depopulating
 depopulation
+denitrize
 depopulative
 depopulator
 deaconries
