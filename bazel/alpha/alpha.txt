@@ -5711,7 +5711,6 @@ afterpast
 afterpeak
 afterpiece
 afterplanting
-afterpotential
 afterpressure
 afterproof
 afterrake
@@ -21607,6 +21606,7 @@ aplustra
 assay
 anteflected
 assayable
+afterpotential
 assayed
 assayer
 assayers
