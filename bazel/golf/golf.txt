@@ -2192,6 +2192,7 @@ gazebos
 gossipmongering
 giller
 galla
+globosity
 gazeful
 gazeless
 gazella
@@ -5626,7 +5627,6 @@ globosite
 granuloblast
 ghostmonger
 gallanilide
-globosity
 gazolyte
 globous
 globousness
