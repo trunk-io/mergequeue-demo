@@ -3694,6 +3694,7 @@ forcene
 fatigability
 fortified
 franchisal
+fairstead
 flywort
 foreleech
 fledges
@@ -11639,7 +11640,6 @@ fustet
 fusty
 farmage
 fustianish
-fairstead
 forbearingness
 fustianize
 fustians
