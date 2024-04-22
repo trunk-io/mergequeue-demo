@@ -2459,6 +2459,7 @@ exoskeleton
 electrolytic
 entoiled
 electrolytically
+ephemeromorph
 ensete
 electrolyzed
 electrology
@@ -6164,7 +6165,6 @@ enpia
 enplane
 ecorticate
 enplaned
-ephemeromorph
 extraphysiological
 enquarter
 enqueue
