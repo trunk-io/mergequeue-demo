@@ -4560,7 +4560,6 @@ cacomixls
 carnivals
 carnivora
 carnivoracity
-coryphaenoid
 carnivoral
 carnivore
 carnivorism
@@ -25708,6 +25707,7 @@ corrective
 correctively
 cimmaron
 correctiveness
+coryphaenoid
 correctives
 correctness
 correctory
