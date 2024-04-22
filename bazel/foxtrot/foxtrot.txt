@@ -992,7 +992,6 @@ fizzes
 farcial
 farcialize
 farcicality
-farcically
 farcicalness
 farcies
 farcing
@@ -1136,6 +1135,7 @@ fortunize
 faradays
 forcat
 farsightedness
+farcically
 flatteringly
 forkedly
 farth
