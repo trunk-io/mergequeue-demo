@@ -6204,7 +6204,6 @@ affiances
 agist
 allamanda
 archaeocyte
-agisted
 agisting
 agistment
 agists
@@ -12826,6 +12825,7 @@ anthocerotales
 angioleucitis
 angiolymphoma
 angiolipoma
+agisted
 angiolith
 angiology
 angioma
