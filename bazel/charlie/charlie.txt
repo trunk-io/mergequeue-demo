@@ -10527,7 +10527,6 @@ child
 childage
 childbearing
 childbed
-childbirths
 childcrowing
 cunni
 childed
@@ -24847,6 +24846,7 @@ corach
 coracial
 coracias
 comous
+childbirths
 coracii
 climatotherapy
 coraciidae
