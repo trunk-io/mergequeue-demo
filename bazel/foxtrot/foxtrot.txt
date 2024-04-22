@@ -1797,7 +1797,6 @@ falconiformes
 fibropsammoma
 featheredge
 featheredged
-featheredges
 fothergilla
 fll
 featherer
@@ -7534,6 +7533,7 @@ forebowline
 fanaticising
 farceur
 flaveria
+featheredges
 forebrace
 forestaff
 foreburton
