@@ -5883,7 +5883,6 @@ agaricaceae
 agaricaceous
 agaricales
 agaricine
-agaricinic
 agaricoid
 agarics
 agaricus
@@ -23008,6 +23007,7 @@ avantlay
 attagirl
 attain
 attainability
+agaricinic
 ataxics
 affy
 attainder
