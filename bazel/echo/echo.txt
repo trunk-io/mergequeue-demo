@@ -343,7 +343,6 @@ ebbets
 ebbing
 ebbs
 ebcasc
-enterosyphilis
 ebcd
 ebcdic
 eben
@@ -8679,6 +8678,7 @@ evasively
 euphemizing
 equipollentness
 epilepsy
+enterosyphilis
 entasias
 effrenate
 equiponderance
