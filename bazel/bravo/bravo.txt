@@ -13855,7 +13855,6 @@ bowlfuls
 bowly
 burghs
 bowlike
-bowlin
 bowline
 bowlings
 bowllike
@@ -15170,6 +15169,7 @@ bricklaying
 brickle
 brickly
 bricklike
+bowlin
 bricklining
 brickmaker
 brickmaking

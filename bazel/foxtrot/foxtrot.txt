@@ -8876,6 +8876,7 @@ fosterite
 fides
 flatbrod
 fosterland
+foreigners
 fosterling
 fingerlet
 frenzily
@@ -9685,7 +9686,6 @@ freeholder
 freeholders
 freeholdership
 fortifications
-foreigners
 flueman
 fanwe
 freeing
