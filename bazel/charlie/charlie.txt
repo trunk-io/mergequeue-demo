@@ -2451,6 +2451,7 @@ candiru
 candys
 candite
 candytuft
+curryfavel
 candyweed
 candle
 coehorn
@@ -31455,7 +31456,6 @@ currie
 curried
 currier
 counterstamp
-curryfavel
 cleridae
 curryfavour
 campstools
