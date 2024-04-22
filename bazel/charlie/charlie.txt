@@ -2760,6 +2760,7 @@ canonical
 cortically
 canonicalization
 canonicalize
+cultivable
 canonicalized
 canonicalizes
 canonicalizing
@@ -30838,7 +30839,6 @@ crikey
 cultivability
 cosuggestion
 csc
-cultivable
 cultivably
 cultivar
 cultivars
