@@ -2611,6 +2611,7 @@ genarch
 galenian
 georgium
 genarcha
+gossaniferous
 gonangiums
 gendarme
 gendarmery
@@ -7291,7 +7292,6 @@ gossamered
 gossamery
 gossamers
 goggles
-gossaniferous
 greetings
 gossans
 gossard
