@@ -8538,7 +8538,6 @@ chambrays
 chambranle
 confected
 chambre
-chambul
 chamecephaly
 chamecephalic
 chamecephalous
@@ -25539,6 +25538,7 @@ coronadite
 coronado
 coronados
 coronae
+chambul
 coronagraph
 coronagraphic
 coronal
