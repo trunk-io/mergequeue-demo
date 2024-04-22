@@ -16690,7 +16690,6 @@ closer
 closers
 cleruch
 closes
-closest
 closeting
 chthonic
 closets
@@ -30238,6 +30237,7 @@ cargoose
 crumps
 cycad
 crumster
+closest
 crunch
 codfishery
 crunchable
