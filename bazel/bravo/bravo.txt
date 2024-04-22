@@ -7470,6 +7470,7 @@ bethorns
 bethrall
 bethroot
 bethumb
+bietle
 bethump
 bethumped
 bethwack
@@ -8310,7 +8311,6 @@ byestreet
 biethnic
 baccar
 beswarming
-bietle
 byeworker
 byeworkman
 bifaces
