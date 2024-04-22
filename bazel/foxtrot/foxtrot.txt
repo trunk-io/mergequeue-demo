@@ -4823,7 +4823,6 @@ flaked
 fluoresce
 farriery
 funiculi
-flakeless
 flakelet
 footed
 flaky
@@ -7306,6 +7305,7 @@ fopped
 forelock
 fopperies
 fopperly
+flakeless
 foppy
 foppish
 fourer
