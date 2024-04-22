@@ -9927,7 +9927,6 @@ estampede
 emender
 eolith
 estancias
-estanciero
 estang
 episkotister
 estately
@@ -10230,6 +10229,7 @@ expwy
 entangle
 etherealness
 epoptes
+estanciero
 escherichia
 etherean
 etherene
