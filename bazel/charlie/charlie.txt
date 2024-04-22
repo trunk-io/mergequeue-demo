@@ -12502,7 +12502,6 @@ chromidae
 chromide
 chromides
 chromididae
-chromidiogamy
 chromidiosome
 circuses
 chromidium
@@ -28689,6 +28688,7 @@ crenelles
 citylike
 crenels
 crengle
+chromidiogamy
 crenic
 crenitic
 calcining
