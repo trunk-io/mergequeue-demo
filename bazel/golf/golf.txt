@@ -10050,7 +10050,6 @@ greenback
 gentianaceae
 guerdoner
 guelph
-guerdonless
 groined
 gummer
 guerdons
@@ -10586,6 +10585,7 @@ gloomiest
 gardbrace
 gunmanship
 grillework
+guerdonless
 gastrocnemius
 gunstick
 gunstocker
