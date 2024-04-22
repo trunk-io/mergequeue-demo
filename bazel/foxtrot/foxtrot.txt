@@ -6442,6 +6442,7 @@ frippet
 forepoling
 fluorobenzene
 fluoroborate
+foreship
 fluorochrome
 fluoroform
 ferritin
@@ -11004,7 +11005,6 @@ fulvescent
 fibrillations
 fulzie
 fumado
-foreship
 fumago
 frontrunner
 flavones
