@@ -5837,6 +5837,7 @@ goldsmithery
 getid
 glossohyal
 gaultherase
+gobos
 glossolalia
 glossolaryngeal
 glossolysis
@@ -8266,7 +8267,6 @@ gastrosoph
 gonopores
 gedecktwork
 geast
-gobos
 geoblast
 ganoid
 grassland
