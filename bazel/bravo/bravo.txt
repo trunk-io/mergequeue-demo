@@ -10489,7 +10489,6 @@ blastochyle
 blastocyte
 blastocoel
 blastocoele
-blastoderm
 blastodermic
 balcone
 blastodisc
@@ -12730,6 +12729,7 @@ booksy
 bookstall
 blotted
 buds
+blastoderm
 bookstand
 bookstore
 bookstores
