@@ -2951,7 +2951,6 @@ birdwomen
 barrelwise
 barren
 barrenly
-bunco
 barrenness
 bullring
 barrenwort
@@ -11417,6 +11416,7 @@ burros
 bluenosed
 bluenoser
 bluenoses
+bunco
 bluepoint
 blackwasher
 bluepoints
