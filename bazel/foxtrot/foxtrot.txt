@@ -389,6 +389,7 @@ fearer
 faintness
 faints
 faipule
+fruits
 flows
 flunkeyize
 faired
@@ -10728,7 +10729,6 @@ fruitlike
 fruitling
 fivepenny
 fangless
-fruits
 fruitstalk
 foughten
 fruitwoman
