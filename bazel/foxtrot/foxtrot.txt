@@ -1714,7 +1714,6 @@ faults
 frugivora
 feak
 federate
-frowny
 feal
 fealty
 fumigates
@@ -9853,6 +9852,7 @@ frondesce
 foolhardiest
 factionalist
 fibbing
+frowny
 furlane
 fastiia
 frescade
