@@ -13239,7 +13239,6 @@ cycadofilicales
 cycadofilices
 cannikins
 cycadophyta
-cycadophyte
 cycads
 cyanochroic
 cicale
@@ -13311,6 +13310,7 @@ cicisbeism
 cicisbeo
 cycl
 cyclades
+cycadophyte
 cycladic
 clavichordist
 coenzyme
