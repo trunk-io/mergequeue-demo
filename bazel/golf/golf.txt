@@ -3255,7 +3255,6 @@ graylags
 glastonbury
 geotactically
 geotaxes
-geotaxy
 geotechnic
 geotectonically
 graplin
@@ -8103,6 +8102,7 @@ greened
 granulosis
 gumlah
 granulous
+geotaxy
 graped
 gammarid
 grossness
