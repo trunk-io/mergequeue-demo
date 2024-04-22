@@ -434,7 +434,6 @@ genesiurgic
 galbanums
 galbe
 galbulae
-galbulinae
 galcha
 growl
 galea
@@ -3939,6 +3938,7 @@ gigolos
 geophysically
 gigantean
 ghazel
+galbulinae
 giganticide
 giganticness
 gladstonian
