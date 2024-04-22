@@ -625,6 +625,7 @@ caeomas
 caeremoniarius
 coynye
 caesalpiniaceae
+callate
 coatimundi
 caesar
 caesardom
@@ -1445,7 +1446,6 @@ callant
 callants
 cryptographer
 callat
-callate
 callback
 callbacks
 callboy
