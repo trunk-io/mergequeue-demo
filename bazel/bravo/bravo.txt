@@ -12313,7 +12313,6 @@ bombesins
 beeregar
 bombiccite
 bombycid
-bombycidae
 bombycids
 bristler
 bantered
@@ -15797,6 +15796,7 @@ brittlest
 bloomsburian
 brome
 bromegrass
+bombycidae
 bromeigon
 bromeikon
 bromelia
