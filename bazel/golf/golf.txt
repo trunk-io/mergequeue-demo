@@ -453,7 +453,6 @@ galeass
 goliard
 gastrojejunal
 galeated
-galeche
 galee
 gardenable
 gunnery
@@ -10135,6 +10134,7 @@ guarachas
 guiac
 gluconate
 groundsel
+galeche
 guberla
 guiana
 gigantosaurus
