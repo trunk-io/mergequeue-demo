@@ -15834,7 +15834,6 @@ clawlike
 claws
 claxon
 claxons
-cleach
 clead
 cleaded
 cleading
@@ -27414,6 +27413,7 @@ courtroll
 courtroom
 courtship
 courtships
+cleach
 courtside
 courtzilite
 couscous
