@@ -1125,7 +1125,6 @@ elhi
 eikons
 elephantine
 embowelled
-essayish
 edition
 editions
 editor
@@ -6515,6 +6514,7 @@ entendre
 enchant
 entendres
 epitomatory
+essayish
 entente
 ententes
 entepicondylar
