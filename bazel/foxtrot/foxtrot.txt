@@ -1295,7 +1295,6 @@ fastbacks
 feower
 fastener
 foreclaw
-fasteners
 fastening
 frocked
 floscular
@@ -2419,6 +2418,7 @@ featherstitching
 feracious
 ferae
 fairyship
+fasteners
 feralin
 finlike
 ferash
