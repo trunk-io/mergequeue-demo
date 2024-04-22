@@ -620,7 +620,6 @@ bactericidally
 bactericide
 bidget
 bactericides
-bacterid
 bacteriemia
 bacteriform
 bacterin
@@ -635,6 +634,7 @@ bishopbird
 bacteriodiagnosis
 bromates
 benomyls
+bacterid
 bacteriogenic
 bacteriogenous
 bacteriohemolysin
