@@ -5669,6 +5669,7 @@ bindweeds
 blarina
 briton
 belate
+bandura
 belated
 belatedness
 belating
@@ -11166,7 +11167,6 @@ bloodsuckers
 bloodtest
 bloodthirster
 bloodthirstiness
-bandura
 bloodweed
 bloodwite
 bloodwood
