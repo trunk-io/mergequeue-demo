@@ -4088,7 +4088,6 @@ ferth
 fiords
 fiorin
 fiorite
-featurette
 fontanel
 featherwood
 fluidrams
@@ -8107,6 +8106,7 @@ forethrift
 fulminic
 felonries
 faithful
+featurette
 fibrocrystalline
 fungite
 formalised
