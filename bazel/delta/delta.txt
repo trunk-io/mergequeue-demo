@@ -64,7 +64,6 @@ diarchial
 dacryocystoptosis
 dacryocystosyringotomy
 dacryocystotome
-dacryocystotomy
 dacryolin
 dacryolithiasis
 dacryopyosis
@@ -8211,6 +8210,7 @@ dadding
 diactin
 diactinal
 diactinic
+dacryocystotomy
 diactinism
 dossiers
 diaculum
