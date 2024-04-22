@@ -8503,7 +8503,6 @@ bloodlettings
 biker
 bikers
 bikeway
-bikeways
 bikie
 biking
 boatwoman
@@ -17316,6 +17315,7 @@ bothridiums
 burseed
 berretta
 bummack
+bikeways
 bummalo
 brit
 bummalos
