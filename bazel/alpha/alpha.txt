@@ -14581,7 +14581,6 @@ agalinis
 anthratetrol
 anthrathiophene
 anthratriol
-anthrax
 anthraxylon
 anthrenus
 agriculturalists
@@ -24389,6 +24388,7 @@ afterdinner
 autoslip
 autosomal
 autosomally
+anthrax
 autosomatognostic
 autosome
 autosomes
