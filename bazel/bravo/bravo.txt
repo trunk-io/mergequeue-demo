@@ -3973,6 +3973,7 @@ bch
 bchs
 ballotage
 bd
+bebar
 bde
 bdellatomy
 brotan
@@ -4359,7 +4360,6 @@ bebay
 bebait
 beballed
 bebang
-bebar
 bonnily
 bebaron
 bebat
