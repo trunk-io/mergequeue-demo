@@ -3501,7 +3501,6 @@ defoams
 defocus
 disagreeables
 disprobative
-defocusses
 defoedation
 deticking
 defog
@@ -8782,6 +8781,7 @@ diatomeae
 diatomic
 diatomicity
 diatomin
+defocusses
 diatomine
 diatomist
 diatomous
