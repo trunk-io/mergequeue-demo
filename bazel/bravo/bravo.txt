@@ -916,6 +916,7 @@ bagnet
 bagnio
 blowze
 bago
+balausta
 bourbons
 besprinkled
 bagonet
@@ -1338,7 +1339,6 @@ balatte
 bigha
 bingy
 balau
-balausta
 balaustine
 balaustre
 balawa

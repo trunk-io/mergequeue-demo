@@ -19825,7 +19825,6 @@ comedical
 comedically
 comedienne
 comediennes
-comediettas
 comediette
 comedo
 comedown
@@ -29715,6 +29714,7 @@ crook
 crookbacked
 crookbill
 castral
+comediettas
 crookedbacked
 crookeder
 constants
