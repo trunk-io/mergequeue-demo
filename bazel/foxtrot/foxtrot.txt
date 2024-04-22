@@ -1916,7 +1916,6 @@ frig
 fuligula
 fried
 fecundatory
-fecundify
 fecundity
 falcinellus
 fecundize
@@ -7807,6 +7806,7 @@ forename
 furl
 fattiest
 forenames
+fecundify
 fruticeta
 farrieries
 firs
