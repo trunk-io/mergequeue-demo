@@ -7498,7 +7498,6 @@ engnessang
 epiblemata
 epibole
 epiboly
-epibolic
 epibolism
 epiboulangerite
 epical
@@ -8879,6 +8878,7 @@ eases
 eremitism
 encurl
 espied
+epibolic
 eremochaetous
 eremology
 excrescencies
