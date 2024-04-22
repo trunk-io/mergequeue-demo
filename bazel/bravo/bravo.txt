@@ -13752,6 +13752,7 @@ bovver
 bowable
 bowback
 bowbells
+bushment
 bowbent
 bowboy
 bowden
@@ -17986,7 +17987,6 @@ bisinuate
 bushmasters
 bushmen
 bodefulness
-bushment
 baetuli
 busyness
 bushongo
