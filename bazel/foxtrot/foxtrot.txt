@@ -7524,7 +7524,6 @@ forebodement
 forebodes
 forebody
 folksongs
-foreboding
 forebodingness
 foreboom
 forebowline
@@ -9481,6 +9480,7 @@ fratcher
 fenester
 fratchety
 frate
+foreboding
 flaxbush
 frater
 frateries
