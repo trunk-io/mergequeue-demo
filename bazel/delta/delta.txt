@@ -3330,7 +3330,6 @@ duxes
 defier
 defiers
 defies
-defigure
 defying
 defilades
 decoymen
@@ -9108,6 +9107,7 @@ diction
 disparage
 dermatophobia
 dictionary
+defigure
 dictionarian
 dictyonema
 defectionist
