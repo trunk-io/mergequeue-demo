@@ -530,7 +530,6 @@ dalt
 dalton
 daltonian
 daltonic
-daltonism
 daltonist
 dama
 damageability
@@ -12732,6 +12731,7 @@ dieback
 disconduce
 diablene
 disloyalty
+daltonism
 disloyalties
 dislove
 deforcement
