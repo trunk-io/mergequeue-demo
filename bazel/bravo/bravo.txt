@@ -1867,7 +1867,6 @@ branchling
 bandeau
 bandeaux
 betula
-banded
 bandelet
 bandelette
 bandeng
@@ -4901,6 +4900,7 @@ blowth
 blockishly
 bedunce
 becrusts
+banded
 bedunced
 bedunch
 bourgeon
