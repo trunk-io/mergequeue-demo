@@ -424,6 +424,7 @@ dairyman
 dairymen
 dairywoman
 dairywomen
+defensory
 dayroom
 dayrooms
 dairous
@@ -3278,7 +3279,6 @@ defensive
 defensively
 defensiveness
 defensor
-defensory
 defensorship
 deference
 deferentially
