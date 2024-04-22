@@ -4962,7 +4962,6 @@ coarcting
 cartoon
 cartoonist
 cartoonists
-condors
 cartoons
 cartop
 cartopper
@@ -21428,6 +21427,7 @@ conclusible
 conclusion
 conclusional
 conclusionally
+condors
 conclusions
 conclusive
 coexistency
