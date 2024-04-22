@@ -11312,7 +11312,6 @@ anticreeper
 amphitrichate
 amphitrite
 amphitron
-amphitropal
 amphitropous
 amphitruo
 amphiuma
@@ -14120,6 +14119,7 @@ antarctical
 antarctically
 antarctogaea
 antarthritic
+amphitropal
 antas
 antasphyctic
 antasthenic
