@@ -11404,7 +11404,6 @@ chloropal
 chloropalladates
 chloropalladic
 chlorophaeite
-chlorophane
 chlorophenol
 chlorophenothane
 cestuy
@@ -28968,6 +28967,7 @@ criddle
 cried
 coronation
 criey
+chlorophane
 chlorophylliferous
 curiescopy
 corpulency
