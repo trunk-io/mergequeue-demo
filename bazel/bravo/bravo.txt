@@ -12745,7 +12745,6 @@ blandness
 bookwards
 bookworm
 bookwright
-boolean
 booleans
 booley
 booleys
@@ -16311,6 +16310,7 @@ bioelectronics
 brume
 bisonant
 brumes
+boolean
 boryl
 brummagem
 biosynthetic
