@@ -3505,7 +3505,6 @@ adcraft
 add
 atap
 alane
-addability
 addaxes
 addda
 archeress
@@ -17003,6 +17002,7 @@ aphthartodocetic
 aphthartodocetism
 anthophila
 aphthic
+addability
 aphthitalite
 aphthong
 aphthongal
