@@ -526,7 +526,6 @@ butomaceous
 backstroke
 backstrokes
 backstromite
-backswimmer
 backswing
 backsword
 backswording
@@ -5368,6 +5367,7 @@ begnawn
 budgero
 begobs
 begod
+backswimmer
 backening
 begone
 begonia
