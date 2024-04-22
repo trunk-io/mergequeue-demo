@@ -4193,7 +4193,6 @@ cardosanto
 cardplaying
 cardroom
 clearwing
-cardshark
 carbamido
 chauffeur
 cardsharp
@@ -13955,6 +13954,7 @@ cineol
 chloroanaemia
 cineole
 cineoles
+cardshark
 cineolic
 croighle
 cinephone
