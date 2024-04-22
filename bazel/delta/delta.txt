@@ -6628,6 +6628,7 @@ duststorm
 deselected
 deselecting
 deselects
+desiccants
 datums
 dauphiness
 desemer
@@ -6693,7 +6694,6 @@ dinitrophenol
 desiatin
 desyatin
 desicate
-desiccants
 deponed
 disprove
 downrange
