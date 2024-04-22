@@ -8161,7 +8161,6 @@ algefacient
 algeria
 algerian
 aladinist
-algerians
 algerienne
 algerine
 algerines
@@ -24237,6 +24236,7 @@ atole
 automobilists
 automonstration
 automorphically
+algerians
 automorphism
 automotive
 anointer
