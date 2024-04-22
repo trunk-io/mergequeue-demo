@@ -8393,7 +8393,6 @@ canadianisms
 chalcotrichite
 chalcus
 chaldaei
-chaldaic
 chaldaical
 chaldaism
 chaldean
@@ -15482,6 +15481,7 @@ clanking
 cetene
 clankingly
 clankless
+chaldaic
 cuyas
 clankum
 clanless
