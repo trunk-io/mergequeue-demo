@@ -1166,7 +1166,6 @@ elixed
 edriophthalmatous
 echiuroid
 educability
-educable
 educables
 educand
 educatability
@@ -9437,6 +9436,7 @@ escalade
 emotionally
 effecter
 escalader
+educable
 escalades
 escalading
 escalan
