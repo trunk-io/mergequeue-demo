@@ -1525,7 +1525,6 @@ fervescent
 feuds
 faultful
 follyproof
-faultfully
 faulty
 fungillus
 frantic
@@ -4979,6 +4978,7 @@ fuligo
 fumettes
 fitched
 flaps
+faultfully
 flare
 footbeat
 flareback
