@@ -3323,7 +3323,6 @@ electrograph
 embarrass
 embarrassed
 embarrassedly
-embarrasses
 encyclopediac
 embarrassing
 embarrassment
@@ -13569,6 +13568,7 @@ extendability
 extended
 extendedly
 esociform
+embarrasses
 extending
 endoblastic
 extends
