@@ -2587,6 +2587,7 @@ gems
 genouillere
 glassing
 gemsbuck
+geodes
 gibus
 gemmology
 gemstone
@@ -3040,7 +3041,6 @@ geraniols
 geodaesia
 geodal
 goldtail
-geodes
 geodesical
 gingilis
 gentilhomme
