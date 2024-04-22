@@ -4668,7 +4668,6 @@ epigean
 encircle
 elocutive
 encircled
-effronted
 encircles
 encyrtid
 esau
@@ -13211,6 +13210,7 @@ explicator
 explicatory
 ecclesiasticus
 eelgrasses
+effronted
 echelon
 explicit
 explicitly
