@@ -4521,7 +4521,6 @@ externize
 encephalothlipsis
 encephalotome
 encephalotomy
-encephalotomies
 ethics
 earths
 encephalous
@@ -10023,6 +10022,7 @@ endowed
 earthnuts
 endoperitonitis
 euchrone
+encephalotomies
 estivating
 exterminations
 estivator
