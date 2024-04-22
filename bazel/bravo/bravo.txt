@@ -1490,7 +1490,6 @@ balks
 beggar
 ball
 ballad
-billycans
 ballade
 balladeers
 bespottedness
@@ -15027,6 +15026,7 @@ brescian
 bressomer
 bressummer
 brocard
+billycans
 brest
 bret
 bankrolls
