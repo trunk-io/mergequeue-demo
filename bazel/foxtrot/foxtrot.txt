@@ -1739,7 +1739,6 @@ ferrament
 flowers
 fractionlet
 firker
-filator
 fearnought
 foreordaining
 ficche
@@ -3562,6 +3561,7 @@ filagreing
 filament
 filamented
 filamentiferous
+filator
 filamentoid
 fuzztail
 filaments
