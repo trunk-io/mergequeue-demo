@@ -18239,7 +18239,6 @@ coffea
 centrolineal
 coffeeberry
 coffeeberries
-coffeebush
 coffeecake
 coffeecakes
 coffeecup
@@ -28465,6 +28464,7 @@ consistory
 creasol
 creasot
 creatable
+coffeebush
 crosier
 create
 created
