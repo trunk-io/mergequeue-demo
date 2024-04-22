@@ -9852,7 +9852,6 @@ chemic
 chemical
 contraire
 chemicalization
-chemicalize
 combattants
 chemically
 conventionalist
@@ -21452,6 +21451,7 @@ conclusions
 conclusive
 coexistency
 conclusively
+chemicalize
 crepiness
 conclusiveness
 conclusory
