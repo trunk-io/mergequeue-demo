@@ -3078,7 +3078,6 @@ fenestrule
 fiberous
 fishmen
 festine
-focused
 flagstaves
 fertilising
 fungoid
@@ -4918,6 +4917,7 @@ flanch
 flanche
 fulvidness
 fact
+focused
 flanconnade
 frappeed
 flandan
