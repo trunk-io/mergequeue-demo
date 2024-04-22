@@ -3835,7 +3835,6 @@ adhara
 adharma
 adhere
 adhered
-adherences
 apophantic
 adherency
 adherend
@@ -19284,6 +19283,7 @@ archoptosis
 arcing
 asexualise
 arcite
+adherences
 arcked
 arcking
 arclength
