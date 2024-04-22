@@ -3022,6 +3022,7 @@ embeds
 elliot
 educationable
 epeiridae
+elem
 elocutionize
 ellipsis
 emblematic
@@ -6423,7 +6424,6 @@ ensouled
 energist
 erythrinus
 ecru
-elem
 entryways
 elaterid
 expansion
