@@ -2203,7 +2203,6 @@ eleazar
 elec
 elecampane
 endocytic
-expilation
 enameller
 erring
 enterprises
@@ -11280,6 +11279,7 @@ evanesces
 evanescible
 evanescing
 endew
+expilation
 evang
 evangel
 equipt
