@@ -9397,7 +9397,6 @@ erugos
 erump
 erumpent
 escapage
-erupted
 eruptible
 erupting
 eruption
@@ -9760,6 +9759,7 @@ especialness
 echinocactus
 esperance
 esperantido
+erupted
 escribano
 embryoctony
 emplacements
