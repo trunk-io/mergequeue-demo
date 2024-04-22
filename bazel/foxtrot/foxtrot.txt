@@ -2020,7 +2020,6 @@ feeds
 feedsman
 feedstock
 feedstuff
-failsoft
 formicative
 feel
 feeler
@@ -5841,6 +5840,7 @@ freeloader
 floccose
 fluvanna
 floccosely
+failsoft
 fangas
 flocculation
 filibustering
