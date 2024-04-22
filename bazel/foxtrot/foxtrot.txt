@@ -754,7 +754,6 @@ fenchol
 fibreglass
 fluxions
 fancy
-fleetingly
 fancical
 fancied
 fetidness
@@ -9883,6 +9882,7 @@ fluidifying
 freshets
 fioritura
 freshhearted
+fleetingly
 freshish
 freshly
 feases
