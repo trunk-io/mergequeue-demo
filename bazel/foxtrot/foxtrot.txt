@@ -7884,7 +7884,6 @@ foreribs
 forerigging
 foredates
 flannelbush
-foreroyal
 forerun
 franklinia
 forerunner
@@ -8273,6 +8272,7 @@ forebodies
 forgrow
 fricandeau
 forhaile
+foreroyal
 forestian
 faroese
 forhooy
