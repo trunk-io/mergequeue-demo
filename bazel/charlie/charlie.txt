@@ -9757,7 +9757,6 @@ cribwork
 cheilodipteridae
 cheilodipterus
 cheiloplasty
-cheiloplasties
 cheilostomata
 cheilostomatous
 cheilotomy
@@ -22067,6 +22066,7 @@ confit
 chlorine
 confitent
 caesalpiniaceous
+cheiloplasties
 confiteor
 confiture
 coolidge
