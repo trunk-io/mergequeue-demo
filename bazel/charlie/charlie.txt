@@ -3377,6 +3377,7 @@ capryl
 caprylate
 caprylene
 caprylic
+cymene
 caprylyl
 caprylin
 caprylone
@@ -13742,7 +13743,6 @@ cyme
 cymelet
 cimeliarch
 cimelium
-cymene
 cymenes
 cymes
 cimeter
