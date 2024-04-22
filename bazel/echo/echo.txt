@@ -1528,7 +1528,6 @@ eggcups
 eggeater
 egged
 embog
-egger
 envapour
 evenglome
 eggfish
@@ -12237,6 +12236,7 @@ exostome
 excuser
 excusing
 endpoint
+egger
 earpieces
 eanlings
 ephah
