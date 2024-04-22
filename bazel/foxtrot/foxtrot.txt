@@ -1797,7 +1797,6 @@ featherer
 flagrance
 forejudgment
 featherfew
-featherhead
 fistmele
 featherheaded
 featherier
@@ -8101,6 +8100,7 @@ forethinking
 forethough
 forethoughtfulness
 fleet
+featherhead
 forethrift
 fulminic
 felonries
