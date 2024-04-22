@@ -5413,7 +5413,6 @@ affixial
 aspatia
 android
 affixion
-archvestryman
 affixment
 ague
 affixture
@@ -5944,6 +5943,7 @@ agatized
 agatizes
 agatizing
 agatoid
+archvestryman
 agau
 agave
 agaves
