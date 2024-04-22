@@ -1771,7 +1771,6 @@ debarks
 debarment
 debarrance
 debarration
-debarred
 debarring
 duply
 debars
@@ -9909,6 +9908,7 @@ dimethyldiketone
 doorsteps
 ducatus
 dimethylketone
+debarred
 dimethylnitrosamine
 divvers
 dimethyls
