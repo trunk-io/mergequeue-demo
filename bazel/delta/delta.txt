@@ -3334,7 +3334,6 @@ demideity
 duxes
 defier
 defiers
-diprismatic
 defies
 defigure
 defying
@@ -9943,6 +9942,7 @@ dehorned
 diminuendoed
 diminuendoes
 diminuendos
+diprismatic
 degu
 duction
 denticulation
