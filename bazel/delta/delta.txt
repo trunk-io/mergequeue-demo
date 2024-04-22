@@ -10643,6 +10643,7 @@ diploidize
 diploids
 diploma
 diplomaed
+dolven
 diplomaing
 diplomas
 diplomat
@@ -15296,7 +15297,6 @@ dolt
 doltish
 doltishly
 dolts
-dolven
 dom
 devilward
 domage
