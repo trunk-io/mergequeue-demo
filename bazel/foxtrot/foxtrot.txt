@@ -5054,7 +5054,6 @@ forevouched
 forslack
 ferricyanhydric
 flasker
-funiliform
 foretooth
 flaskets
 fellahin
@@ -5756,6 +5755,7 @@ forestside
 foreground
 finises
 forebear
+funiliform
 felsite
 freshman
 flitterbat
