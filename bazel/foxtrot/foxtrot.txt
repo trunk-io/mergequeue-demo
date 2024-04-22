@@ -4386,6 +4386,7 @@ fishlines
 fub
 fishman
 fishmonger
+foreshore
 fraternizer
 ferociousness
 fluorapatite
@@ -7946,7 +7947,6 @@ foreshock
 favonian
 foreshoe
 foreshop
-foreshore
 feculae
 frostfishes
 foreshortened
