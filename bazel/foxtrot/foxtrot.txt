@@ -5113,7 +5113,6 @@ fordeal
 flatulency
 flatulencies
 facies
-flatulent
 flimmer
 flugelman
 flatulently
@@ -8175,6 +8174,7 @@ fluormeter
 forfeitures
 forfend
 formwork
+flatulent
 fauvists
 foo
 forfending
