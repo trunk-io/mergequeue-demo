@@ -7375,7 +7375,6 @@ detonate
 detonated
 detonating
 detonation
-deprives
 detonations
 detonative
 detonator
@@ -11226,6 +11225,7 @@ disbench
 disavowals
 daubier
 doughfeet
+deprives
 disbenched
 disbenching
 disbenchment
