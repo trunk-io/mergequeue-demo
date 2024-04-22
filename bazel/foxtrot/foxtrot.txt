@@ -6403,7 +6403,6 @@ fluorescing
 fluorhydric
 fluoric
 fluoridate
-fluoridated
 fluoridates
 filtered
 formularization
@@ -9715,6 +9714,7 @@ futurisms
 fogramite
 favoured
 formicated
+fluoridated
 freethinking
 footwalls
 freety
