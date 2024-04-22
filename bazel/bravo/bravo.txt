@@ -3891,6 +3891,7 @@ bausond
 bauta
 bautta
 bauxite
+blistery
 bauxites
 bauxitic
 bauxitite
@@ -10971,7 +10972,6 @@ blist
 blister
 balden
 blistered
-blistery
 blistering
 blisteringly
 blisters
