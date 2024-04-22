@@ -3483,6 +3483,7 @@ basting
 bastings
 bastion
 blendure
+builtin
 bastionary
 bodingly
 bacchanalize
@@ -16942,7 +16943,6 @@ bezette
 begirded
 buildup
 buildups
-builtin
 bespeakable
 briolettes
 bluntly
