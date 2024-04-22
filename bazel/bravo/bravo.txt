@@ -3495,6 +3495,7 @@ basto
 beworms
 baston
 bastonet
+bovine
 basts
 basural
 basuto
@@ -13736,7 +13737,6 @@ bovey
 bovenland
 bovidae
 bovids
-bovine
 bovinely
 bovinity
 bronchophonic
