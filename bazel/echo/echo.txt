@@ -8180,7 +8180,6 @@ episkeletal
 episode
 episodes
 episodial
-episodic
 episodical
 episodically
 episomal
@@ -9593,6 +9592,7 @@ encephalocele
 escritorial
 exotoxin
 escrod
+episodic
 escrow
 escrowing
 exceptio
