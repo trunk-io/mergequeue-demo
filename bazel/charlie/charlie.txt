@@ -8662,7 +8662,6 @@ chancelleries
 chancellor
 chancellorate
 chancelloress
-chancellory
 chancellors
 chancellorship
 chancellorships
@@ -23788,6 +23787,7 @@ contrariety
 contrarieties
 contrarily
 cosavior
+chancellory
 contrariness
 contrarious
 contrariously
