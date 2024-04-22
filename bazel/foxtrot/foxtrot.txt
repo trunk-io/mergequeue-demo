@@ -1890,6 +1890,7 @@ furniment
 fec
 fecaloid
 frankeniaceae
+fertilized
 fruittime
 feces
 fizzer
@@ -2712,7 +2713,6 @@ fertilization
 fertilizational
 forecooler
 fertilize
-fertilized
 fertilizer
 funeral
 figurate

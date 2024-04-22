@@ -6675,7 +6675,6 @@ enterpillar
 enterprise
 euonymin
 ency
-effusiometer
 enterprised
 exploitations
 enterprising
@@ -11483,6 +11482,7 @@ enlaced
 ethanal
 everyone
 everyplace
+effusiometer
 exucontian
 everyway
 emborder
