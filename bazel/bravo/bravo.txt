@@ -3228,7 +3228,6 @@ basidiomycete
 baclava
 bravish
 bushed
-basidiomycetous
 basidiophore
 belesprit
 basidiospore
@@ -7724,6 +7723,7 @@ beworn
 boliche
 butanones
 beworried
+basidiomycetous
 beworries
 beworrying
 beworship
