@@ -5309,6 +5309,7 @@ glent
 glenwood
 gammelost
 glew
+glauconitic
 gangly
 glowerer
 guitarfish
@@ -5738,7 +5739,6 @@ ghostcraft
 glasses
 glorifications
 glisters
-glauconitic
 glorified
 gesturing
 gegg
