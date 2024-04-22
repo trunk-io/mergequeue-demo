@@ -18139,6 +18139,7 @@ approximating
 approximation
 approximations
 approximative
+atomy
 approximatively
 approximativeness
 antiresonance
@@ -22786,7 +22787,6 @@ atomatic
 atomechanics
 atomerg
 aquo
-atomy
 atomic
 atomical
 atomically
