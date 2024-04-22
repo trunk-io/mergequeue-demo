@@ -4825,6 +4825,7 @@ carriageway
 carryall
 carrick
 carrycot
+chromatoplasm
 carrie
 carried
 carryed
@@ -12472,7 +12473,6 @@ chevroned
 confucianist
 chalukya
 cnidophobia
-chromatoplasm
 chromatopsia
 chromatoptometer
 chromatoptometry
