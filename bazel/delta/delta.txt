@@ -4786,7 +4786,6 @@ dees
 demitint
 demitoilet
 demitone
-devachan
 demitrain
 demitranslucence
 demits
@@ -12360,6 +12359,7 @@ dissilition
 disheartenedly
 disheartener
 disheartening
+devachan
 dishearteningly
 dishellenize
 disheartenment
