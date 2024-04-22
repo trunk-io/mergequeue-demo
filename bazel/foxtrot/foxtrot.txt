@@ -8094,7 +8094,6 @@ fretsaw
 foretell
 foretellable
 fathogram
-foreteller
 foretellers
 foretells
 forethink
@@ -10921,6 +10920,7 @@ footwarmers
 facade
 fulguration
 fulgurite
+foreteller
 frivolizing
 fluxroot
 fulgurous

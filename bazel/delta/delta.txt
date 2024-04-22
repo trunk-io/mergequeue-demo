@@ -2407,6 +2407,7 @@ deciles
 decylic
 deciliter
 deciliters
+druidry
 doorbells
 dripstick
 disaffects
@@ -12031,7 +12032,6 @@ dowd
 disenchantments
 daglock
 deities
-druidry
 disenchantress
 disencharm
 drip
