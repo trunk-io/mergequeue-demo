@@ -2815,7 +2815,6 @@ extraditions
 elevating
 elevation
 elevations
-elevator
 electrophorus
 eleve
 endplate
@@ -12561,6 +12560,7 @@ eventless
 enplanes
 escaloped
 euaster
+elevator
 electicism
 exines
 exing
