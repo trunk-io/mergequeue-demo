@@ -10323,7 +10323,6 @@ gigantize
 gown
 gulfside
 grot
-gulfwards
 gulfweed
 gaums
 gulfweeds
@@ -10437,6 +10436,7 @@ gump
 gumption
 gumptionless
 gibbon
+gulfwards
 granulator
 gumptious
 gumpus
