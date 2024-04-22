@@ -9244,6 +9244,7 @@ chasid
 chasidim
 chasings
 chasm
+circumrotation
 chasma
 chasmed
 chasmic
@@ -14474,7 +14475,6 @@ claver
 circumrotate
 circumrotated
 crown
-circumrotation
 circumrotatory
 circumsail
 circumsaturnian
