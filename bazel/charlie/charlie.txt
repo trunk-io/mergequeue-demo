@@ -4529,7 +4529,6 @@ corespondency
 corslets
 carneole
 coroner
-carneous
 carnet
 citoler
 carnets
@@ -14067,6 +14066,7 @@ czarowitz
 cynosures
 consignation
 cynosurus
+carneous
 cynotherapy
 cynoxylon
 cinquains
