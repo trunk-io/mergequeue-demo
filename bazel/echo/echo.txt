@@ -7094,6 +7094,7 @@ enverdure
 edicts
 enviable
 expanse
+expansometer
 enemy
 envied
 enviers
@@ -10691,7 +10692,6 @@ eudaemonics
 eudaemonism
 enmeshes
 excluders
-expansometer
 exchangee
 ensorceling
 experience
