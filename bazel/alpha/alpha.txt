@@ -5119,7 +5119,6 @@ arales
 aerophane
 aerophilately
 aerophilatelic
-aerophilatelist
 aerophile
 addax
 aerophilous
@@ -25305,6 +25304,7 @@ abask
 azohumic
 azoic
 azole
+aerophilatelist
 ambulant
 azoles
 azolitmin
