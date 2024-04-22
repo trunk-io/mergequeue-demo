@@ -5264,7 +5264,6 @@ afterpart
 automate
 afacing
 afara
-afars
 afd
 afear
 afebrile
@@ -19661,6 +19660,7 @@ athyridae
 angularize
 argufiers
 argufying
+afars
 arguing
 argulus
 argument
