@@ -5348,7 +5348,6 @@ envergure
 endotys
 endotracheal
 endotrophic
-endotropic
 econometric
 endovaccination
 ecclesial
@@ -7035,6 +7034,7 @@ excorticated
 entwined
 encounter
 evangely
+endotropic
 entwines
 exhortator
 entwist
