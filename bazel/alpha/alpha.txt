@@ -8752,7 +8752,6 @@ allergenic
 abouchement
 autarkical
 allergenicity
-allergia
 allergies
 anacahuita
 allergin
@@ -13478,6 +13477,7 @@ acoin
 antiinflammatory
 ankylodontia
 ankyloglossia
+allergia
 ankylomerism
 ankylophobia
 abbr
