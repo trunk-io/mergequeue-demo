@@ -1596,6 +1596,7 @@ bifurcate
 ballistophobia
 ballywack
 boldface
+briefer
 ballywrack
 ballmine
 ballo
@@ -15276,7 +15277,6 @@ bridoons
 brie
 budukha
 briefcase
-briefer
 briefers
 birdsong
 bot
