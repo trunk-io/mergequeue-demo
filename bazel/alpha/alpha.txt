@@ -7760,6 +7760,7 @@ aeneous
 alcoholize
 alcoholmeter
 airmass
+anemogram
 alcoholmetric
 acroter
 abaissed
@@ -12556,7 +12557,6 @@ acetonuria
 anemochoric
 anemochorous
 anemoclastic
-anemogram
 appropriated
 anemography
 anemographically
