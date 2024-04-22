@@ -7124,6 +7124,7 @@ centesimi
 centesimo
 centesimos
 centesis
+connotational
 centesm
 centetes
 centetid
@@ -31361,7 +31362,6 @@ curious
 curiousest
 curiously
 curite
-connotational
 curites
 curitis
 conglobated
