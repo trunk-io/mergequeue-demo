@@ -6696,7 +6696,6 @@ bereason
 bereave
 bereavements
 bereaver
-bullfist
 bereavers
 bodyplate
 bereaves
@@ -8409,6 +8408,7 @@ beachiest
 bigeminies
 bourtrees
 bigeminum
+bullfist
 bigeneric
 bigfoot
 burundi
