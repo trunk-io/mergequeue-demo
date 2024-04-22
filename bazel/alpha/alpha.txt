@@ -1001,7 +1001,6 @@ afterhold
 absorbefacient
 azoflavine
 antagonisable
-absorbencies
 absorbents
 absorber
 absorbers
@@ -23779,6 +23778,7 @@ assumable
 achango
 autarchy
 autarchic
+absorbencies
 autarchically
 autarchies
 autarchist
