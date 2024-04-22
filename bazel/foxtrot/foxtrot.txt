@@ -2402,7 +2402,6 @@ feoffee
 fconvert
 feoffer
 fetlow
-feoffor
 fenester
 flaxseed
 feoffors
@@ -9798,6 +9797,7 @@ fremd
 faultfinding
 fremdness
 fremescence
+feoffor
 fremituses
 fordwine
 fremontia
