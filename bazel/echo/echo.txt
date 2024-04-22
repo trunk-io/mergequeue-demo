@@ -11352,7 +11352,6 @@ evanishment
 enantiopathia
 exterrestrial
 evaporability
-evaporable
 evaporate
 ectoplasy
 eutaxy
@@ -13927,6 +13926,7 @@ extraordinariness
 embryogenic
 eremite
 electrolytical
+evaporable
 extraovate
 ergamine
 epistomata
