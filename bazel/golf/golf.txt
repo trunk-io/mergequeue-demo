@@ -1526,7 +1526,6 @@ gemeinde
 garroo
 garroted
 garroter
-garroters
 garrotes
 gawp
 garroting
@@ -5249,6 +5248,7 @@ gleamingly
 gleamless
 gleams
 gleanable
+garroters
 genial
 grinny
 grayback
