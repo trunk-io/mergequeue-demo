@@ -875,6 +875,7 @@ bagdi
 bagel
 bagful
 bagfuls
+bookwise
 barbaric
 baggagemaster
 baggager
@@ -4287,7 +4288,6 @@ beatnik
 beatniks
 bestrided
 beatrix
-bookwise
 bonged
 beats
 blasties
