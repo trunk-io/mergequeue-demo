@@ -3818,7 +3818,6 @@ carbonify
 carbonification
 carbonyl
 carbonylated
-carbonylating
 carbonylene
 carbonylic
 carbonyls
@@ -8851,6 +8850,7 @@ chapatty
 chapatties
 chapattis
 chapbook
+carbonylating
 chape
 chapeau
 chaped
