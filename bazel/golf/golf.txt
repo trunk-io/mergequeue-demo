@@ -310,7 +310,6 @@ gyrocompass
 grieben
 gastrocatarrhal
 gaize
-gaj
 gal
 gala
 gangrels
@@ -9901,6 +9900,7 @@ gorefish
 guard
 glumpy
 guardable
+gaj
 guardant
 guardedness
 goatroot
