@@ -4823,7 +4823,6 @@ cofferlike
 carri
 carry
 carriable
-carryable
 carriage
 carriageable
 carriageful
@@ -6010,6 +6009,7 @@ catholicus
 cleg
 catholyte
 cathouse
+carryable
 chandeliers
 cathouses
 crownling
