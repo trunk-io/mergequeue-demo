@@ -16633,6 +16633,7 @@ dragonflies
 dragonhead
 deprecated
 dragonhood
+dissimulator
 downily
 decompositional
 dosadh
@@ -17582,7 +17583,6 @@ druidisms
 druids
 druith
 dissimulations
-dissimulator
 drum
 drumbeat
 drumbled
