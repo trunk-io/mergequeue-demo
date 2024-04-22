@@ -5727,6 +5727,7 @@ belemnoid
 belayed
 bowssen
 boer
+bkpr
 belemnoidea
 beleper
 bicycle
@@ -15179,7 +15180,6 @@ brickwall
 brickwork
 backstrip
 bucketing
-bkpr
 benchers
 bridale
 bridally
