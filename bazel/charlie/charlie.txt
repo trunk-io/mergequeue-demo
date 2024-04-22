@@ -11922,6 +11922,7 @@ chopping
 chopstick
 chopsticks
 chopunnish
+cultch
 chora
 cagn
 choragi
@@ -30814,7 +30815,6 @@ crickety
 culprit
 culrage
 culsdesac
-cultch
 cultches
 cultellation
 cultellus
