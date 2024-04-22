@@ -2890,7 +2890,6 @@ acrochordidae
 acrochordinae
 acrochordon
 acrocyanosis
-acrocyst
 acrock
 amyelencephalia
 acrospore
@@ -16871,6 +16870,7 @@ alforjas
 amalgamations
 akebi
 aposelene
+acrocyst
 arrowhead
 aphanophyre
 aphanozygous
