@@ -1287,7 +1287,6 @@ fassaite
 felsic
 fassalite
 fastbacks
-fastball
 feower
 fastener
 foreclaw
@@ -6950,6 +6949,7 @@ fairs
 fedarie
 folles
 formalisation
+fastball
 flagrantly
 folletage
 folly
