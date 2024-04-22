@@ -2316,7 +2316,6 @@ fen
 fenagled
 foraged
 fenagles
-fenbank
 fence
 fenced
 fl
@@ -4296,6 +4295,7 @@ forbearer
 feerie
 focally
 firsthand
+fenbank
 firstly
 firstlings
 flavius
