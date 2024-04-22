@@ -8880,6 +8880,7 @@ chapelward
 compile
 chaperno
 chaperon
+custodia
 chaperonage
 chaperone
 chaperoned
@@ -31705,7 +31706,6 @@ custodee
 custodes
 cumidin
 custody
-custodia
 custodial
 custodian
 custodians
