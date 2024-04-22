@@ -8292,7 +8292,6 @@ episcopolatry
 evaginate
 epistolize
 epitheca
-epithecial
 exploits
 erebus
 enclosable
@@ -10645,6 +10644,7 @@ erotomania
 euchroic
 entomophily
 euchroite
+epithecial
 earthiness
 euchrome
 euchromosome
