@@ -3751,6 +3751,7 @@ batterable
 battercake
 batterdock
 battered
+binational
 bootstrap
 batterer
 bkcy
@@ -8849,7 +8850,6 @@ binate
 binately
 betuckered
 bination
-binational
 bestowage
 binaural
 bind
