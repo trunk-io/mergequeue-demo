@@ -1019,7 +1019,6 @@ draffsack
 darkling
 darkmans
 disannexation
-darknesses
 darkroom
 dineutron
 darkskin
@@ -1467,6 +1466,7 @@ damnatory
 dea
 depressure
 deaccession
+darknesses
 deaccessioning
 deaccessions
 deacetylate
