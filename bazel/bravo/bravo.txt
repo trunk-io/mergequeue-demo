@@ -2874,7 +2874,6 @@ barracked
 borh
 bottlehead
 barracking
-barraclade
 barracoon
 barracouta
 barracoutas
@@ -15471,6 +15470,7 @@ biaxially
 bryozoan
 blaubok
 boxes
+barraclade
 braggadocio
 bryozoon
 bywalker
