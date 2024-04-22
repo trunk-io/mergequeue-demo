@@ -2715,7 +2715,6 @@ benzoic
 barmbrack
 barmcloth
 brither
-barmen
 barmfel
 becoward
 barmiest
@@ -7728,6 +7727,7 @@ beworries
 beworrying
 beworship
 bewpers
+barmen
 biciliate
 bewrayed
 bewrayer
