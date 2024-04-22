@@ -7191,7 +7191,6 @@ fiducinales
 fermis
 footler
 footlers
-footles
 fibs
 frangulin
 footless
@@ -10333,6 +10332,7 @@ frogleg
 froglets
 froglike
 frogling
+footles
 fanzines
 fibroadenia
 fiancee
