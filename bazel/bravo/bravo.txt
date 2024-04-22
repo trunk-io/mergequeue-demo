@@ -629,7 +629,6 @@ bacterioblast
 bacteriochlorophyll
 bacteriocin
 bathylite
-bishopbird
 bacteriodiagnosis
 bromates
 benomyls
@@ -4319,6 +4318,7 @@ beautified
 bathomania
 beautifier
 biriba
+bishopbird
 beautifiers
 beautifying
 beautiful
