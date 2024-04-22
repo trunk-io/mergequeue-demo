@@ -4334,7 +4334,6 @@ fishbolts
 fishbone
 falchions
 fishbowls
-fisheater
 forky
 fisheyes
 fisher
@@ -9433,6 +9432,7 @@ franklinian
 foredetermine
 frails
 franklinic
+fisheater
 fraser
 franklinization
 franklins
