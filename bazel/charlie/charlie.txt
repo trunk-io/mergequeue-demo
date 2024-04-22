@@ -3018,7 +3018,6 @@ canzones
 canzonet
 canzonetta
 canzoni
-canzos
 caoba
 caodaism
 caodaist
@@ -20704,6 +20703,7 @@ complementizer
 complementoid
 complete
 completement
+canzos
 cassabanana
 completeness
 continentalist
