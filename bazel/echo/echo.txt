@@ -8066,7 +8066,6 @@ extraconstitutional
 epithalamy
 epiplasm
 epiplasmic
-epiplastron
 epiplectic
 epiplexis
 epiploce
@@ -9850,6 +9849,7 @@ elementarism
 edgier
 exospheres
 epicoelar
+epiplastron
 essedones
 eisoptrophobia
 epimorphic
