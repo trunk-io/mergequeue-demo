@@ -4547,7 +4547,6 @@ gigsman
 gipsied
 gypsied
 gipsies
-gypsies
 gugu
 gypsiferous
 gullable
@@ -9354,6 +9353,7 @@ groser
 gosh
 groset
 grosgrain
+gypsies
 gastroenterologist
 grosgrains
 gripped
