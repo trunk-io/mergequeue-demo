@@ -2565,6 +2565,7 @@ counterstatement
 canfields
 canfuls
 cangan
+clumsiness
 cangy
 cangia
 cangle
@@ -24612,7 +24613,6 @@ copyfitting
 copygraph
 cosmati
 copygraphed
-clumsiness
 copyhold
 copyholders
 copyholds
