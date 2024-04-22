@@ -5654,7 +5654,6 @@ catatony
 catatonic
 catawampous
 catawampously
-catawamptious
 catawamptiously
 catawampus
 catawba
@@ -24993,6 +24992,7 @@ cordal
 cordate
 cordately
 compensative
+catawamptious
 cordax
 cordeau
 corded
