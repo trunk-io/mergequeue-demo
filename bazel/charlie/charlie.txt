@@ -4837,7 +4837,6 @@ carriers
 carries
 carrying
 carryings
-carryke
 carriole
 carrioles
 carryon
@@ -17167,6 +17166,7 @@ coagmentation
 cresotic
 coagonize
 coagriculturist
+carryke
 chrononomy
 coagula
 coagulability
