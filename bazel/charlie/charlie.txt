@@ -2155,6 +2155,7 @@ campsite
 compasser
 campsites
 conusor
+circaea
 campstool
 camptodrome
 camptonite
@@ -21518,7 +21519,6 @@ concorporating
 compartimento
 concorporation
 cataclasm
-circaea
 concours
 concourse
 cliqueless
