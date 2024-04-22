@@ -1646,7 +1646,6 @@ favosites
 forecovert
 favositidae
 funambulo
-favositoid
 fossilisation
 flatterer
 favourableness
@@ -9008,6 +9007,7 @@ filea
 foveola
 frithborh
 fourchite
+favositoid
 fatigueless
 fourier
 fourierism
