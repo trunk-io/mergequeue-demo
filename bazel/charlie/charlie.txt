@@ -15848,7 +15848,6 @@ clawers
 clawhammer
 clawing
 clawk
-carlines
 clawker
 clawless
 clawlike
@@ -31167,6 +31166,7 @@ cupstone
 cupula
 cupulae
 cupular
+carlines
 cupulate
 cupule
 ceratophyte
