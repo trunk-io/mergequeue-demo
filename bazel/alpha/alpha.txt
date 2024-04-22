@@ -1554,7 +1554,6 @@ acclimates
 arsonite
 acclimating
 acclimation
-acclimatisable
 acclimatisation
 acclimatise
 acclimatised
@@ -23318,6 +23317,7 @@ audient
 audients
 audile
 angelique
+acclimatisable
 audiles
 auding
 audings
