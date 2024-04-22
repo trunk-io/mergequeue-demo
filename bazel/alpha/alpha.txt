@@ -4264,7 +4264,6 @@ anthropotoxin
 adnephrine
 americanizer
 adnerval
-armsize
 adnex
 adnexal
 anythings
@@ -12768,6 +12767,7 @@ angels
 angelship
 angeluses
 anger
+armsize
 angered
 angering
 angerless
