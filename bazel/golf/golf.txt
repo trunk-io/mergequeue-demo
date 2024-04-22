@@ -1942,7 +1942,6 @@ gyrostabilized
 gatewoman
 galidictis
 gatherable
-gathered
 gilgai
 gatherers
 graplins
@@ -9648,6 +9647,7 @@ gorgonaceous
 grueler
 gushes
 gruelers
+gathered
 geezers
 gruelingly
 gruelings
