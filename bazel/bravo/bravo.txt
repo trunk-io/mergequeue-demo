@@ -13849,7 +13849,6 @@ bowleg
 bowleggedness
 bren
 bowles
-bowless
 bowlful
 bowlfuls
 bowly
@@ -18291,6 +18290,7 @@ bamah
 buttyman
 butting
 backlighting
+bowless
 buttinski
 buttinskies
 buttle
