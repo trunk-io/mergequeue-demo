@@ -7572,6 +7572,7 @@ announcer
 autopathography
 albumenizer
 albumenoid
+archtreasurer
 albumens
 albumimeter
 albumin
@@ -19254,7 +19255,6 @@ archthief
 archtyrant
 archtraitor
 allophane
-archtreasurer
 archtreasurership
 archturncoat
 archurger
