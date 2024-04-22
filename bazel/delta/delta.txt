@@ -545,7 +545,6 @@ damaged
 damagement
 damageous
 dao
-damager
 damagers
 damagingly
 disco
@@ -2677,6 +2676,7 @@ decomposing
 decomposition
 decapod
 decomposure
+damager
 dogwatches
 dalapon
 decompoundable
