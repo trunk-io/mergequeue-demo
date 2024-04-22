@@ -4698,6 +4698,7 @@ demiorbit
 dendrolagus
 depths
 disusing
+digitigrade
 demiowl
 demiox
 dharmasmriti
@@ -9519,7 +9520,6 @@ digitation
 deradelphus
 discrimination
 digitiform
-digitigrade
 digitigradism
 determa
 digitinerved
