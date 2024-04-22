@@ -3785,7 +3785,6 @@ barway
 battlement
 battlements
 battlepiece
-battleplane
 barnstorms
 battler
 battles
@@ -7912,6 +7911,7 @@ beshrouds
 biaxillary
 bemud
 bibacious
+battleplane
 bibaciousness
 balche
 bicephalous
