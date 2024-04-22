@@ -922,7 +922,6 @@ bago
 balausta
 bourbons
 besprinkled
-bagonet
 brassic
 bagong
 bagoong
@@ -13265,6 +13264,7 @@ botanicas
 botanics
 botanies
 botanise
+bagonet
 botanises
 botanist
 bdle
