@@ -7418,6 +7418,7 @@ checkweigher
 cryophoric
 cephalodiscida
 cephalodiscus
+curtains
 cephalodium
 cephalofacial
 cephalogram
@@ -31528,7 +31529,6 @@ curtain
 cowlicks
 curtained
 curtainless
-curtains
 curtainwise
 curtays
 curtal
