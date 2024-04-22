@@ -3727,7 +3727,6 @@ brotulidae
 battable
 battailant
 browntop
-battak
 blackest
 bally
 battakhin
@@ -4457,6 +4456,7 @@ bromhydric
 buckeye
 bechase
 bechatter
+battak
 bechauffeur
 blockishness
 beche
