@@ -3610,6 +3610,7 @@ blockhouse
 bathypelagic
 bastinadoes
 babesiasis
+beckoning
 bathyplankton
 baygall
 bathyscaph
@@ -4489,7 +4490,6 @@ beckiron
 bearings
 beckoner
 beckoners
-beckoning
 beckoningly
 barfed
 byward
