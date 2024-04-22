@@ -6496,7 +6496,6 @@ becuna
 benzoylating
 benzoylation
 beltwise
-benzoylformic
 benzoylglycine
 bilge
 benzoin
@@ -8162,6 +8161,7 @@ biconsonantal
 biconvex
 biconvexity
 bicorn
+benzoylformic
 bombyx
 bicornate
 bicorned
