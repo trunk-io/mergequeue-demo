@@ -4300,7 +4300,6 @@ flammability
 folderol
 facia
 first
-fylker
 forbearer
 feerie
 focally
@@ -5275,6 +5274,7 @@ fleahopper
 fierier
 finiking
 flouncier
+fylker
 fleay
 fleak
 fg
