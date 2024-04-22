@@ -11846,7 +11846,6 @@ cult
 chondropterygian
 chondropterygii
 chondropterygious
-chondrosarcoma
 chondrosarcomas
 chondrosarcomatous
 chondroseptum
@@ -12561,6 +12560,7 @@ chromolithographer
 chromolithography
 chromolithographic
 chromomere
+chondrosarcoma
 chromone
 chromonema
 chervonetz

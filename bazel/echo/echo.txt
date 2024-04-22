@@ -1068,6 +1068,7 @@ edgings
 edgrow
 enormous
 exclaimer
+equerries
 endearment
 edh
 edhs
@@ -8558,7 +8559,6 @@ equatorwards
 excessmen
 equerry
 emulsifying
-equerries
 equerryship
 ectomeric
 eques
