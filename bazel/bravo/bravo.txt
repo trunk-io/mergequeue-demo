@@ -2800,7 +2800,6 @@ baronetcy
 baronetcies
 buboed
 bookies
-baroneted
 brightsome
 burmannia
 baroneting
@@ -3556,6 +3555,7 @@ batete
 batfish
 batfishes
 biri
+baroneted
 bondholder
 baham
 batfowl
