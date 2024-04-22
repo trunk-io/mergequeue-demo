@@ -8337,6 +8337,7 @@ bewaring
 biflected
 biflex
 biflorate
+bolometer
 bifluoride
 bifocal
 bifocals
@@ -12184,7 +12185,6 @@ blushiness
 boloism
 boloman
 bolomen
-bolometer
 bolometric
 bolometrically
 bolos
