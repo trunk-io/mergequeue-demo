@@ -4260,7 +4260,6 @@ carfare
 carfares
 carfax
 carfloat
-codebreak
 coater
 carfour
 carfuffle
@@ -7254,6 +7253,7 @@ clivia
 curblike
 centriole
 centripetal
+codebreak
 centripetence
 centripetency
 centriscid
