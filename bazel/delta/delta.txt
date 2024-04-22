@@ -5250,7 +5250,6 @@ directives
 doctrinalist
 denitrated
 daemon
-denitration
 denitrator
 deathly
 denitrify
@@ -12291,6 +12290,7 @@ disgruntlement
 discuss
 dreamed
 duplicities
+denitration
 dextrotropic
 discuren
 dewdrops
