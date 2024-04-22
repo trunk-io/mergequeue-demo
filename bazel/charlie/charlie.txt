@@ -5250,7 +5250,6 @@ cassegrain
 chromomeric
 coordinations
 cassegrainian
-cassena
 casserole
 casseroled
 casseroling
@@ -19301,6 +19300,7 @@ colonelship
 colonelships
 coloner
 colones
+cassena
 colonette
 colongitude
 colony
