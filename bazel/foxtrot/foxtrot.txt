@@ -6432,7 +6432,6 @@ forepoling
 fluorobenzene
 fluoroborate
 foreship
-fluorochrome
 fluoroform
 ferritin
 flaminian
@@ -7089,6 +7088,7 @@ foolish
 fortuneless
 foolishest
 foolishly
+fluorochrome
 foollike
 fibrinate
 furole
