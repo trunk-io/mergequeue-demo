@@ -7613,7 +7613,6 @@ cereal
 carrus
 changeability
 cerealian
-cerealin
 cerealism
 cerealist
 cerealose
@@ -20071,6 +20070,7 @@ commensurately
 commensurateness
 commensurating
 commensuration
+cerealin
 commensurations
 comment
 commentable
