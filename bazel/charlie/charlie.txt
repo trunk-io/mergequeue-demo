@@ -28888,6 +28888,7 @@ crewet
 complanar
 crushers
 crewing
+cutwal
 crewless
 crewman
 crewmanship
@@ -31886,7 +31887,6 @@ cuttoos
 cutup
 chilkat
 cutups
-cutwal
 carcased
 carromata
 cutwater
