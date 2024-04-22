@@ -3890,7 +3890,6 @@ adiaphorite
 appaume
 adiaphoron
 adiapneustia
-adiate
 adiated
 adiathermal
 adiathermancy
@@ -6918,6 +6917,7 @@ airflows
 airfoil
 airfoils
 airframes
+adiate
 airglow
 airglows
 acondylous
