@@ -3116,6 +3116,7 @@ basebred
 bacterins
 baseburner
 basecourt
+betokener
 based
 baselard
 baseless
@@ -6964,7 +6965,6 @@ bescorn
 bescoundrel
 bescour
 barhal
-betokener
 buicks
 baseballs
 bescourge
