@@ -2212,7 +2212,6 @@ electives
 electivism
 engram
 electivity
-electo
 elector
 expostulator
 electorally
@@ -5113,6 +5112,7 @@ exundation
 endogenous
 essive
 endogenously
+electo
 endogens
 embroider
 endoglobular
