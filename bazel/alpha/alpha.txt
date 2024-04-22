@@ -8915,7 +8915,6 @@ allodially
 asherim
 allodiary
 amphistomoid
-allodification
 allodium
 allods
 archplunderer
@@ -13411,6 +13410,7 @@ anisomerous
 arraignability
 apoturmeric
 anisometric
+allodification
 anisometrope
 adhocracy
 anisomyarian
