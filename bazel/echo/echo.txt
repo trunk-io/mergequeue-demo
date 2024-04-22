@@ -4312,7 +4312,6 @@ enamelers
 explodent
 enameling
 enamelist
-enamellar
 equiped
 enamelless
 enamels
@@ -4994,6 +4993,7 @@ endmost
 enrage
 endnote
 embraces
+enamellar
 endoangiitis
 exemplum
 endoaortitis
