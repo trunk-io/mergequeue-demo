@@ -738,7 +738,6 @@ badderlocks
 baddest
 baddy
 baddie
-barlock
 betimber
 baddies
 baddish
@@ -5273,6 +5272,7 @@ begaudy
 bignesses
 bobbled
 bothsided
+barlock
 begaze
 begazes
 begazing
