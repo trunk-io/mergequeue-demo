@@ -6411,6 +6411,7 @@ dermoskeleton
 dermotherm
 dermotropic
 derms
+ducula
 demurrable
 dern
 dietary
@@ -12708,7 +12709,6 @@ dubbings
 difference
 dislocability
 dislocate
-ducula
 drammer
 dustcloth
 dehydratase
