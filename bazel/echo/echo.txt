@@ -506,7 +506,6 @@ ethnographies
 ecdysone
 ecesic
 ecesis
-embryoniform
 ecgonin
 ecgonine
 exarchs
@@ -6571,6 +6570,7 @@ embuskin
 eschara
 excitory
 enterocystoma
+embryoniform
 elfhood
 enterocleisis
 eristics
