@@ -17944,7 +17944,6 @@ coelacanthidae
 carnosity
 chorionepithelioma
 coelacanthine
-coelacanthini
 coelacanthoid
 coelacanthous
 coelanaglyphic
@@ -29141,6 +29140,7 @@ criobolium
 cryocautery
 caldarium
 criocephalus
+coelacanthini
 crioceras
 circulate
 crioceratite
