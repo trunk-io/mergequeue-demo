@@ -7434,7 +7434,6 @@ detrition
 dancer
 drumfire
 deselect
-detritivorous
 detrivorous
 doggereled
 demonstrance
@@ -16819,6 +16818,7 @@ dardani
 divinise
 drawboy
 drawbolt
+detritivorous
 drawbore
 deare
 decilitre
