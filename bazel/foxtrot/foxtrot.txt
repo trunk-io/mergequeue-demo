@@ -198,7 +198,6 @@ factorizations
 factorize
 factorizing
 finicking
-factors
 fazenda
 forebar
 factotum
@@ -5870,6 +5869,7 @@ flocklike
 fumigators
 florigraphy
 frangent
+factors
 flockwise
 flocs
 floeberg
