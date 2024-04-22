@@ -5262,7 +5262,6 @@ begarnish
 begartered
 begass
 begats
-bestrows
 begattal
 bastes
 begaud
@@ -13370,6 +13369,7 @@ botry
 botrydium
 botryllus
 botryogen
+bestrows
 bereaved
 botryoid
 bantin
