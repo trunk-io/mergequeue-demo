@@ -19224,7 +19224,6 @@ archpriestship
 archprimate
 archprince
 ars
-archprophet
 archprotopope
 archpublican
 archpuritan
@@ -25228,6 +25227,7 @@ azelaic
 azelate
 azeotrope
 azeotropy
+archprophet
 azeotropic
 azerbaijanese
 azerbaijani
