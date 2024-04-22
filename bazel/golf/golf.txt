@@ -3112,6 +3112,7 @@ gempylid
 geologist
 guidwilly
 geologized
+glosses
 geomagnetic
 geomagnetically
 gallinacei
@@ -5809,7 +5810,6 @@ glossemes
 glossemic
 glossers
 gondi
-glosses
 glossy
 goniatitoid
 glossier
