@@ -7945,6 +7945,7 @@ enchains
 epimyocardial
 epanagoge
 epimysia
+excitonic
 eudiometer
 eteocreton
 epimyth
@@ -12045,7 +12046,6 @@ excitomotor
 excitomotory
 erythrin
 exciton
-excitonic
 ellipse
 excitons
 excitor
