@@ -6297,6 +6297,7 @@ ensphered
 ensculpture
 enseal
 ensealed
+estancias
 ensealing
 ensear
 employes
@@ -9928,7 +9929,6 @@ evolving
 estampede
 emender
 eolith
-estancias
 estang
 episkotister
 estately
