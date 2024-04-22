@@ -3987,7 +3987,6 @@ adjacency
 adjacencies
 amated
 adjag
-adject
 adjection
 archicleistogamy
 anaemia
@@ -4795,6 +4794,7 @@ aedicula
 aediculae
 aedicule
 aedile
+adject
 aediles
 aedileship
 albuminizing
