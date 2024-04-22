@@ -8282,6 +8282,7 @@ demove
 derogations
 dele
 diagonal
+disenchants
 diagonalizable
 diagonalization
 diagonalize
@@ -12659,7 +12660,6 @@ disleaf
 disfavour
 disleafed
 dharna
-disenchants
 dagon
 disleal
 duplicable
