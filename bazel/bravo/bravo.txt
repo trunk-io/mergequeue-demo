@@ -2129,7 +2129,6 @@ bannerman
 bannermen
 bannerole
 bannerols
-bannerwise
 bannet
 bannisters
 birthmarks
@@ -11092,6 +11091,7 @@ bbl
 bathe
 ballistically
 blokes
+bannerwise
 blipping
 breards
 blomstrandine
