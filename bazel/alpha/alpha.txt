@@ -17767,7 +17767,6 @@ azygosperm
 appendiculata
 appendiculate
 alectoris
-appendixes
 appendorontgenography
 appendotome
 appends
@@ -20629,6 +20628,7 @@ arthritis
 arthrobacterium
 aborsive
 arthrobranch
+appendixes
 arthrocarcinoma
 arthrochondritis
 arthrocleisis
