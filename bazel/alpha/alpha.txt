@@ -8709,6 +8709,7 @@ alleyway
 alleyways
 anarchs
 alleles
+anemology
 alleleu
 allelic
 allelism
@@ -12552,7 +12553,6 @@ anemoclastic
 appropriated
 anemography
 anemographically
-anemology
 anemologic
 anemological
 anemometer
