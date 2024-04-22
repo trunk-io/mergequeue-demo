@@ -8931,6 +8931,7 @@ conveyability
 chara
 charabanc
 capkin
+compensativeness
 charabancs
 charac
 characeae
@@ -20583,7 +20584,6 @@ compensating
 compensatingly
 compensation
 compensatively
-compensativeness
 cherishable
 compensator
 compensatory
