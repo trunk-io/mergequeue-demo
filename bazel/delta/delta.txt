@@ -6811,7 +6811,6 @@ desisted
 dhotis
 doronicum
 desistence
-desisting
 desists
 dedicates
 diaconate
@@ -13843,6 +13842,7 @@ distichs
 distil
 derisive
 distylar
+desisting
 distyle
 distill
 deles
