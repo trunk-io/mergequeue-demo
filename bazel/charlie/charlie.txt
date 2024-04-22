@@ -22894,7 +22894,6 @@ conservatoires
 conservator
 conservatory
 conservatorial
-chromobacterium
 conservatorium
 conservators
 conservatorship
@@ -30948,6 +30947,7 @@ cumbrousness
 crashworthy
 cumbu
 cumengite
+chromobacterium
 cumenyl
 cumhal
 coumalin
