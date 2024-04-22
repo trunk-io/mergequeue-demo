@@ -6288,7 +6288,6 @@ agnails
 agname
 agnamed
 agnat
-agnate
 agnates
 agnatha
 agnathia
@@ -11845,6 +11844,7 @@ anallantoidean
 antipedobaptist
 anallergic
 anally
+agnate
 alfridary
 abas
 appulsion
