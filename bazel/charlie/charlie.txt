@@ -3049,7 +3049,6 @@ capacitations
 capacitative
 capacitativly
 capacitator
-capacity
 capacities
 can
 capacitive
@@ -14153,6 +14152,7 @@ cypraeiform
 cynocephalus
 cypraeoid
 cypre
+capacity
 cypreses
 cypress
 cypressed
