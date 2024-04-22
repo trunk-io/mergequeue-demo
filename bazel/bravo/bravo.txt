@@ -2548,7 +2548,6 @@ bloomage
 bardash
 barges
 bargham
-barghest
 baptism
 barghests
 beslash
@@ -2696,6 +2695,7 @@ barleys
 barless
 barly
 barling
+barghest
 barlow
 barlows
 barm
