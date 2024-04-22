@@ -5462,7 +5462,6 @@ affrays
 affranchise
 affranchisement
 affrap
-anopsy
 affreight
 affreighter
 affreightment
@@ -13196,6 +13195,7 @@ animalculum
 animalhood
 animalian
 animalic
+anopsy
 animalier
 animalillio
 agathokakological
