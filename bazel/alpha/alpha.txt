@@ -19180,7 +19180,6 @@ archology
 archon
 archonship
 archonships
-archont
 archontia
 archontic
 archoplasma
@@ -20187,6 +20186,7 @@ aromatitae
 alcoholizing
 aromatite
 apophyses
+archont
 aromatites
 aromatize
 agatiform
