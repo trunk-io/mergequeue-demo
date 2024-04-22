@@ -4197,7 +4197,6 @@ grenadin
 generability
 glamours
 gentilities
-gymnasium
 gymnasiums
 gymnastic
 gazon
@@ -5578,6 +5577,7 @@ guidances
 globality
 grillwork
 globalization
+gymnasium
 gypsum
 globalize
 globalized
