@@ -5915,7 +5915,6 @@ cathedralesque
 cavorter
 clasp
 cathedralic
-cathedralwise
 cathedras
 cathedrated
 cathedratic
@@ -10964,6 +10963,7 @@ chirata
 chiricahua
 chiriguano
 chirimia
+cathedralwise
 chirino
 chirinola
 chirivita
