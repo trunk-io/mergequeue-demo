@@ -5798,6 +5798,7 @@ fload
 ferulas
 floatage
 floatages
+farmeries
 fireling
 floatation
 firesides
@@ -7409,7 +7410,6 @@ forboding
 forbore
 fertilisation
 forborne
-farmeries
 forbow
 forestland
 forbruise
