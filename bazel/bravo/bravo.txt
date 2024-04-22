@@ -1778,7 +1778,6 @@ brubu
 baluchithere
 buses
 balun
-balushai
 balusters
 balustrade
 balustrades
@@ -17867,6 +17866,7 @@ bursautee
 butyral
 bursch
 bianisidine
+balushai
 brachistocephalous
 burseeds
 burseraceae
