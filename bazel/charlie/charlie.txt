@@ -3050,7 +3050,6 @@ capacitations
 capacitative
 capacitativly
 capacitator
-capacities
 can
 capacitive
 cataphoric
@@ -16166,6 +16165,7 @@ cliffy
 cliffier
 counterdemonstration
 clifflike
+capacities
 clifford
 cliffs
 cliffside
