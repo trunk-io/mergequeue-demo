@@ -1552,7 +1552,6 @@ ballerina
 ballerinas
 ballers
 ballet
-balletic
 balletically
 balletomane
 balletomanes
@@ -6950,6 +6949,7 @@ bescarf
 belout
 blandishment
 bescatter
+balletic
 bescorched
 bruchid
 bacteririum
