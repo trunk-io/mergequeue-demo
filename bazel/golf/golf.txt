@@ -392,6 +392,7 @@ galago
 gedrite
 galahads
 gynobasic
+graphiology
 galangin
 grating
 goto
@@ -10594,7 +10595,6 @@ gasterotheca
 gyrostachys
 glens
 guntub
-graphiology
 grithman
 gunwale
 grimliness
