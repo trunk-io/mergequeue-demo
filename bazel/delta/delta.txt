@@ -4059,6 +4059,7 @@ delegant
 dependants
 delegare
 delegate
+dropline
 delegates
 delegateship
 dermographism
@@ -17413,7 +17414,6 @@ dihysteria
 droplike
 drib
 doigt
-dropline
 depletes
 dusts
 diduced
