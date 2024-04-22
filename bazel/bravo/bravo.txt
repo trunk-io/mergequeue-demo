@@ -2903,6 +2903,7 @@ barraging
 bailer
 barragon
 bowle
+bombproof
 bosun
 barramunda
 balk
@@ -12340,7 +12341,6 @@ bombola
 bombonne
 bombora
 bombous
-bombproof
 bombycilla
 bombs
 bombsights
