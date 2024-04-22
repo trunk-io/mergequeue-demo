@@ -3462,7 +3462,6 @@ adaptations
 adaptative
 allegorize
 adapted
-adaptedness
 amarantite
 adapters
 adapting
@@ -16138,6 +16137,7 @@ antireality
 antirebating
 aparaphysate
 antired
+adaptedness
 antireducer
 autotrophically
 antireflexive
