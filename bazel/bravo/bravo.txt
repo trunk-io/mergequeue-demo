@@ -1342,6 +1342,7 @@ balausta
 balaustine
 balaustre
 balawa
+bacteriophagous
 balboa
 bethlehem
 balboas
@@ -4858,7 +4859,6 @@ bedsite
 bedsitter
 bedsock
 bedsonia
-bacteriophagous
 bedsonias
 bumblefoot
 bedsore
