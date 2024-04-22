@@ -665,6 +665,7 @@ foetalism
 fete
 fameflower
 famelic
+faint
 fames
 fameworthy
 forereport
@@ -4338,7 +4339,6 @@ fragmentate
 fudged
 fisherfolk
 fishery
-faint
 florentium
 fisherman
 flammably
