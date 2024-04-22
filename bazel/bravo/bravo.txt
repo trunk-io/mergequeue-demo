@@ -2725,7 +2725,6 @@ bewaitered
 barnard
 barnbrack
 barndoor
-barney
 barneys
 barnhardtite
 barnyard
@@ -9552,6 +9551,7 @@ birretta
 birrettas
 birdcatching
 birri
+barney
 blunderers
 bluelegs
 birring
