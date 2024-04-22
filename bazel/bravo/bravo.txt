@@ -4305,6 +4305,7 @@ blas
 beaujolais
 beaume
 beaumont
+bipartite
 beaupere
 beauseant
 beausire
@@ -9278,7 +9279,6 @@ bysacki
 bipartisanship
 boreades
 basiotribe
-bipartite
 bipartitely
 bipartizan
 bipaschal
