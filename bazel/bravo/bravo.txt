@@ -15942,7 +15942,6 @@ bronchography
 bronchographic
 bronchohemorrhagia
 broncholemmitis
-broncholith
 bronchomycosis
 besought
 bronchomotor
@@ -17702,6 +17701,7 @@ bino
 buriers
 boff
 boris
+broncholith
 burinist
 bonsai
 broomwort
