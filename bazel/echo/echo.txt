@@ -2485,7 +2485,6 @@ electromer
 efficaciousness
 electrometallurgy
 electrometallurgist
-eye
 electrometer
 enage
 earthgrubber
@@ -10175,6 +10174,7 @@ englander
 eterne
 executional
 eternisation
+eye
 ethylation
 eternises
 eternish
