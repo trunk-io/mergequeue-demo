@@ -2854,7 +2854,6 @@ elevon
 elevons
 elf
 elfenfolk
-elfhood
 epinard
 elfic
 educative
@@ -6574,6 +6573,7 @@ eschara
 excitory
 envault
 enterocystoma
+elfhood
 enterocleisis
 eristics
 excluding
