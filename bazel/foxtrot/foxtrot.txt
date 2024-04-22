@@ -1751,7 +1751,6 @@ fearnought
 foreordaining
 ficche
 fath
-fearsome
 fearsomely
 fiddlers
 fearsomeness
@@ -7567,6 +7566,7 @@ foreclosed
 foreclosure
 foreclosures
 forecome
+fearsome
 forecommend
 foreconclude
 flops
