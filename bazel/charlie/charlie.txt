@@ -6114,6 +6114,7 @@ cattishness
 cowherd
 cattlebush
 cattlefold
+cancan
 cattlehide
 clashed
 cattleya
@@ -20473,7 +20474,6 @@ consumers
 companionate
 companioned
 companionize
-cancan
 corrugators
 companionizing
 companionless
