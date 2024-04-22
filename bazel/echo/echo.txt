@@ -3526,7 +3526,6 @@ embossman
 elasmobranchii
 embost
 exembryonate
-embosture
 embottle
 embouchement
 embouchment
@@ -12556,6 +12555,7 @@ exilition
 esophagotomy
 eximidus
 eximious
+embosture
 exine
 ebriously
 enplanes
