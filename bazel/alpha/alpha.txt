@@ -12893,6 +12893,7 @@ angiostegnosis
 angiostomize
 angiostrophy
 angiotasis
+aramaic
 angiotelectasia
 angiotenosis
 angiotensinase
@@ -20517,7 +20518,6 @@ artels
 artemas
 artemia
 artemis
-aramaic
 aeroenterectasia
 apiolin
 aequoreal
