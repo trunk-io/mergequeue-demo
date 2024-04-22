@@ -5751,7 +5751,6 @@ catecholamines
 catechu
 catechumenal
 catechumenate
-catechumenical
 catechumenically
 catechumenism
 catechumens
@@ -25118,6 +25117,7 @@ corella
 corema
 counternatural
 conglutinated
+catechumenical
 coremaker
 coremaking
 coremiumia
