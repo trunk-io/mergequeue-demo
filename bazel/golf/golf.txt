@@ -1490,6 +1490,7 @@ garnishes
 glossanthrax
 garnishment
 garnison
+gangliomata
 garniture
 grecize
 ganyie
@@ -10661,7 +10662,6 @@ guardhouse
 guru
 gurus
 glairing
-gangliomata
 gurging
 guruships
 guser
