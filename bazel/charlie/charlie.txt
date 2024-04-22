@@ -11562,7 +11562,6 @@ certif
 chokeberries
 chokecherry
 chokecherries
-choked
 chokedamp
 chokey
 chokeys
@@ -30317,6 +30316,7 @@ crustade
 crustal
 crustalogy
 crustalogical
+choked
 crustalogist
 chukkers
 crustated
