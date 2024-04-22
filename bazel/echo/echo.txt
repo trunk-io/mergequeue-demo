@@ -4310,7 +4310,6 @@ estreat
 enamelers
 explodent
 enameling
-enolization
 enamelist
 enamellar
 equiped
@@ -6970,6 +6969,7 @@ entreatful
 enchase
 encyclopaedic
 entreaties
+enolization
 excavatorial
 earmark
 entreating
