@@ -6569,7 +6569,6 @@ cearin
 cognoscible
 cease
 ceased
-ceaselessly
 cirripede
 ceaselessness
 ceases
@@ -26422,6 +26421,7 @@ coruscate
 chlorprophenpyridamine
 coticing
 cotidal
+ceaselessly
 cotyla
 cotylar
 cotyle
