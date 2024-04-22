@@ -3574,7 +3574,6 @@ gesticulant
 gesticulate
 gesticulations
 gesticulative
-gesticulatively
 gestion
 galloman
 gestning
@@ -8160,6 +8159,7 @@ gleeked
 graphitization
 graphitize
 gyros
+gesticulatively
 geobiology
 glacioaqueous
 grandfathership
