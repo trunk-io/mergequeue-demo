@@ -1598,7 +1598,6 @@ greedily
 gashouse
 generale
 gabe
-gasifiable
 gasification
 gecks
 guacamole
@@ -10814,6 +10813,7 @@ gutturalised
 glycolytically
 gutturalism
 glycerolize
+gasifiable
 gutturalized
 gutturalizing
 gutturalness
