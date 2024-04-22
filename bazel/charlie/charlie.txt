@@ -19425,7 +19425,6 @@ colorblindness
 colorbreed
 colorcast
 colorcasted
-colorcaster
 colorcasting
 colorcasts
 colorectitis
@@ -19627,6 +19626,7 @@ columboid
 columbotantalate
 columbotitanate
 collat
+colorcaster
 confession
 columbous
 columel
