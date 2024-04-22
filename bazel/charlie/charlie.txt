@@ -11888,7 +11888,6 @@ caprock
 chooser
 choosers
 cadilesker
-chooses
 choosier
 choosiness
 chadar
@@ -21414,6 +21413,7 @@ concionator
 commemorational
 concionatory
 credulously
+chooses
 conciousness
 concipiency
 concipient
