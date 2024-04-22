@@ -8100,7 +8100,6 @@ chackler
 chacma
 chacmas
 chaco
-chacoli
 chacona
 chaconne
 chaconnes
@@ -26315,6 +26314,7 @@ costocolic
 costogenic
 costoinferior
 consultative
+chacoli
 costopleural
 costopneumopexy
 costopulmonary
