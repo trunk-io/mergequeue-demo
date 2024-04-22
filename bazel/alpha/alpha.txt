@@ -10877,7 +10877,6 @@ amnesia
 amnesiac
 amnesiacs
 aulas
-amnesic
 amnesics
 amnesty
 archical
@@ -14448,6 +14447,7 @@ anthill
 anthills
 anthinae
 anthine
+amnesic
 anthypnotic
 anthypophoretic
 anthocarp
