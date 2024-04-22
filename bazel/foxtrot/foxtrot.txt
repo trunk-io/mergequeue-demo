@@ -1697,6 +1697,7 @@ fconv
 farcin
 fcp
 familiar
+faradocontractility
 four
 fdnames
 fdtype
@@ -5344,7 +5345,6 @@ fleering
 filcher
 frisii
 fleeringly
-faradocontractility
 fleerish
 figurativeness
 firmware
