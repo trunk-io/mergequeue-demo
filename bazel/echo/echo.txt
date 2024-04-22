@@ -5663,6 +5663,7 @@ engineers
 engineless
 engineman
 enginemen
+extruct
 enginery
 engineries
 ellwand
@@ -12414,7 +12415,6 @@ evase
 entermise
 escrowee
 egoists
-extruct
 exeunt
 evader
 exfetation
