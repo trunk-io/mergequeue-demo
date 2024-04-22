@@ -5100,7 +5100,6 @@ case
 casearia
 casease
 caseases
-caseate
 caseated
 caseates
 caseation
@@ -8472,6 +8471,7 @@ challot
 challote
 corkscrewed
 chalmer
+caseate
 chalon
 chalone
 chalones
