@@ -192,6 +192,7 @@ foofaraws
 factorially
 friskest
 frizer
+finitary
 factoring
 foreign
 factoryship
@@ -4028,7 +4029,6 @@ finisher
 finishers
 finishes
 finishing
-finitary
 finite
 finites
 frolickers
