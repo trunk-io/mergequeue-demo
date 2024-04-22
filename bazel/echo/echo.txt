@@ -6296,7 +6296,6 @@ ensculpture
 enseal
 ensealed
 ensealing
-enseam
 ensear
 employes
 emporia
@@ -6577,6 +6576,7 @@ excluding
 enteroclysis
 enterococcal
 esperantidist
+enseam
 enterococcus
 enterocoela
 enterocoelous
