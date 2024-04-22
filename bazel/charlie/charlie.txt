@@ -11473,6 +11473,7 @@ choanocytal
 choanocyte
 choanoflagellate
 choanoflagellida
+cryptanalytical
 choanoflagellidae
 choanoid
 choanophorous
@@ -29201,7 +29202,6 @@ cryptamnesia
 cryptamnesic
 cryptanalysis
 cryptanalyst
-cryptanalytical
 cryptanalytically
 cryptanalytics
 cryptanalyze
