@@ -19346,7 +19346,6 @@ colonisable
 colonisationist
 colonise
 colonised
-colonises
 colonising
 colonist
 chiromancer
@@ -20282,6 +20281,7 @@ commonsensibly
 chariotlike
 commonsensically
 commonty
+colonises
 commonweal
 commonweals
 commonwealths
