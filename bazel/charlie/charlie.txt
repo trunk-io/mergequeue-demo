@@ -8860,6 +8860,7 @@ chapellany
 chapelled
 ceration
 chapelling
+commonplaces
 chapelman
 chapelmaster
 chapelry
@@ -20249,7 +20250,6 @@ crucifixion
 commonplacely
 commonplaceness
 commonplacer
-commonplaces
 corrodingly
 commons
 commonsense
