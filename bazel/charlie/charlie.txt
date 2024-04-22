@@ -7756,7 +7756,6 @@ ceriomyces
 cerion
 cerionidae
 ceriops
-ceriornis
 ceriph
 ceriphs
 cerise
@@ -31597,6 +31596,7 @@ curvets
 curvetted
 curvetting
 curvy
+ceriornis
 curvicaudate
 curvidentate
 curvifoliate
