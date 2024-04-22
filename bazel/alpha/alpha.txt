@@ -3861,7 +3861,6 @@ adhort
 ady
 adiabat
 adiabatic
-adiabolist
 assistency
 adiadochokinesia
 adiadochokinesis
@@ -22618,6 +22617,7 @@ atherogenesis
 antiatoms
 atherogenic
 atheroma
+adiabolist
 atheromas
 atheromasia
 atheromata
