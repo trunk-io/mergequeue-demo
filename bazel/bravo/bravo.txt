@@ -2143,6 +2143,7 @@ banquets
 banquette
 bans
 bansalague
+boguing
 bansela
 billbeetle
 banshies
@@ -11952,7 +11953,6 @@ bogue
 bangle
 brushers
 bogued
-boguing
 bogus
 bohairic
 bohemia
