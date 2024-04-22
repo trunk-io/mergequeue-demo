@@ -22552,7 +22552,6 @@ conjunctions
 conjunctiva
 clitoriditis
 cinnamyls
-conjunctival
 conjunctivas
 conjunctive
 conjunctively
@@ -23802,6 +23801,7 @@ cacesthesia
 cartway
 contrariwise
 contrarotation
+conjunctival
 contrascriptural
 contrast
 contrastably
