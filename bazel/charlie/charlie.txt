@@ -17361,7 +17361,6 @@ coastmen
 coasts
 churchmaster
 coastside
-coastwaiter
 coastward
 coastwards
 coastwise
@@ -22202,6 +22201,7 @@ confusably
 confused
 confusedly
 confusedness
+coastwaiter
 confuser
 confuses
 confusing
