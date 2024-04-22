@@ -5808,6 +5808,7 @@ depolarising
 docetic
 depolarization
 depolarize
+disleave
 depolarizers
 droves
 diacrisis
@@ -12660,7 +12661,6 @@ dagon
 disleal
 duplicable
 diffrangibility
-disleave
 disleaved
 dislegitimate
 demiheavenly
