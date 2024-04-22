@@ -8217,7 +8217,6 @@ forge
 forgeability
 forgeable
 forgery
-forgeries
 forges
 fluctigerous
 flunkeyistic
@@ -9329,6 +9328,7 @@ framboise
 fasciolet
 farewells
 filtrated
+forgeries
 fram
 framable
 fidejussion
