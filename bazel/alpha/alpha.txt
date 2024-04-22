@@ -13754,7 +13754,6 @@ anodyne
 anodynes
 anodynia
 anaphroditous
-anodynic
 anodized
 aristogenesis
 anodizes
@@ -24145,6 +24144,7 @@ ambushed
 ataxic
 autojigger
 autojuggernaut
+anodynic
 autokinesy
 autokinesis
 autokinetic
