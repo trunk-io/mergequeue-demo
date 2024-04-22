@@ -1354,6 +1354,7 @@ balconette
 bag
 balcony
 balconied
+birdy
 balconies
 bald
 betrayal
@@ -9426,7 +9427,6 @@ birdhouse
 begall
 bromous
 birdhouses
-birdy
 birdyback
 backseat
 birdied
