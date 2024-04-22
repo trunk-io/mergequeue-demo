@@ -4484,7 +4484,6 @@ demasculinization
 deflagrate
 demasculinized
 demasculinizing
-demast
 demasted
 demasting
 dematerialisation
@@ -5135,6 +5134,7 @@ denature
 denatured
 denaturing
 denaturisation
+demast
 denaturise
 denaturised
 duodiode
