@@ -1586,7 +1586,6 @@ deafly
 deafmuteness
 digression
 deafness
-deaired
 deairing
 dependents
 deairs
@@ -14124,6 +14123,7 @@ dismasts
 dramatists
 doses
 disvantage
+deaired
 disvelop
 dicer
 damage
