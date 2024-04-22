@@ -11626,7 +11626,6 @@ anacoluttha
 alow
 ammanite
 afraid
-anaconda
 anacondas
 anacreon
 anacreontic
@@ -19570,6 +19569,7 @@ augurial
 argentry
 argents
 argentum
+anaconda
 argentums
 argh
 arghel
