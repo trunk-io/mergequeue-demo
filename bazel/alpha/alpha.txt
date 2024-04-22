@@ -8939,7 +8939,6 @@ allographic
 alloy
 alloyage
 alloyed
-alloimmune
 alloiogenesis
 alloiometry
 attitude
@@ -14909,6 +14908,7 @@ antiegoist
 anticathode
 anticausotic
 anticaustic
+alloimmune
 anticensorial
 ammonitish
 anticensorious
