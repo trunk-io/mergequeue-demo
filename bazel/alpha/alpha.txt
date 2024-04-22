@@ -8345,6 +8345,7 @@ aliesterase
 antifermentative
 aliethmoid
 aliethmoidal
+amenity
 ablegation
 alif
 alife
@@ -10330,7 +10331,6 @@ agaricic
 amenia
 amenism
 amenite
-amenity
 antiseption
 amenities
 amenorrheal
