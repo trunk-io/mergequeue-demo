@@ -374,7 +374,6 @@ faintest
 finspot
 fungales
 flumerin
-faintheart
 fleying
 fainthearted
 faintheartedness
@@ -3831,6 +3830,7 @@ formin
 filtrating
 fatbirds
 fiberizer
+faintheart
 fract
 fimbria
 fimbriae
