@@ -5326,6 +5326,7 @@ giftless
 glaucophane
 grippy
 gyrant
+gloppy
 gorilla
 gloomy
 glibly
@@ -10277,7 +10278,6 @@ gleaner
 gasfiring
 gujarati
 glood
-gloppy
 gametic
 gelly
 gigameter
