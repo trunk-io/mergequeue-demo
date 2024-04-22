@@ -2503,6 +2503,7 @@ decks
 dulls
 declaim
 dichorisandra
+dresser
 declaimer
 declaimers
 declaims
@@ -14933,7 +14934,6 @@ dogstone
 disjection
 dogaressa
 disarmature
-dresser
 dogmatics
 dogbanes
 dogberry
