@@ -4038,6 +4038,7 @@ emphemeralness
 emphysema
 emphyteusis
 emphyteuta
+encipherment
 emphyteutic
 emphlysis
 emphraxis
@@ -4661,7 +4662,6 @@ encipher
 ersatzes
 ease
 enciphering
-encipherment
 executonis
 evolutional
 epigean
