@@ -12346,7 +12346,6 @@ anaclete
 andalusian
 andalusite
 andamenta
-andamento
 andamentos
 andante
 ancre
@@ -17321,6 +17320,7 @@ argestes
 apolysin
 apolysis
 apolista
+andamento
 apolistan
 aproctia
 aurignacian
