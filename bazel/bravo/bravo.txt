@@ -5442,7 +5442,6 @@ begut
 behale
 behalf
 behallow
-behalves
 behammer
 behang
 beshine
@@ -12078,6 +12077,7 @@ boke
 bokhara
 bokharan
 bokmakierie
+behalves
 bokom
 bola
 bolag
