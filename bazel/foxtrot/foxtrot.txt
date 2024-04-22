@@ -3085,7 +3085,6 @@ fenestrule
 fiberous
 fishmen
 festine
-fibers
 focused
 flagstaves
 fertilising
@@ -11240,6 +11239,7 @@ fungoes
 fungoids
 fusees
 fungology
+fibers
 fungological
 failles
 fungologist
