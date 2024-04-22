@@ -12696,7 +12696,6 @@ balitao
 begarie
 bookmarker
 bookmarks
-bookmate
 bookmobile
 bookmobiles
 baroni
@@ -13532,6 +13531,7 @@ bougie
 bougies
 bouillabaisse
 bouillone
+bookmate
 boodlers
 bouillons
 bouk
