@@ -1,4 +1,3 @@
-emotes
 e
 endodontist
 epigramme
@@ -761,6 +760,7 @@ ecphore
 ecphoria
 ecphoriae
 ecphorias
+emotes
 ecphractic
 ecphrasis
 emergences
