@@ -12675,6 +12675,7 @@ chronologer
 curvedness
 chronology
 cleanish
+collembolan
 chronological
 chronologically
 chronologies
@@ -19045,7 +19046,6 @@ combattant
 colley
 carpetbeater
 collembola
-collembolan
 collembole
 collembolic
 collembolous
