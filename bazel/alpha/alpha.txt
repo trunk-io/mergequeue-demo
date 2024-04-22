@@ -3629,7 +3629,6 @@ adducting
 adduction
 adductor
 ataxiagram
-allochroite
 agcy
 aranea
 afaced
@@ -12672,6 +12671,7 @@ arrayan
 aneurin
 aneurine
 aneurism
+allochroite
 aneurysm
 aneurysmal
 aeriferous
