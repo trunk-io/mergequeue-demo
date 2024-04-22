@@ -566,7 +566,6 @@ galleons
 galler
 gallera
 geisotherm
-gallerian
 gasolines
 galleries
 gallerygoer
@@ -4964,6 +4963,7 @@ genesiacal
 glutaric
 gaff
 gladiatorship
+gallerian
 gladiatrix
 gestae
 gladier

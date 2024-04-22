@@ -13558,6 +13558,7 @@ annattos
 agelessly
 anthroposcopy
 anne
+auxometer
 anneal
 annealer
 annealing
@@ -24534,7 +24535,6 @@ auxochromous
 auxocyte
 auxograph
 auxology
-auxometer
 auxospore
 auxotonic
 auxotox
