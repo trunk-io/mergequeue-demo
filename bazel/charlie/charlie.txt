@@ -6637,6 +6637,7 @@ cedillas
 ceding
 cedis
 cosheath
+chromule
 cedrat
 cedrate
 cedrela
@@ -12616,7 +12617,6 @@ concepts
 chromotropism
 chromous
 chromoxylograph
-chromule
 chron
 chronal
 chronanagram
