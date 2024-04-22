@@ -6728,6 +6728,7 @@ celemines
 celery
 celeriac
 celeriacs
+cypres
 celeries
 celerity
 celerities
@@ -14150,7 +14151,6 @@ cypraeiform
 cynocephalus
 cypraeoid
 cypre
-cypres
 cypreses
 cypress
 cypressed
