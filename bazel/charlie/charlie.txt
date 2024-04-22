@@ -5183,7 +5183,6 @@ cashgirl
 cocentric
 cashibo
 cashiered
-cashierer
 cashiering
 cashierment
 cashkeeper
@@ -22110,6 +22109,7 @@ confluxibleness
 cheateries
 caroach
 conformability
+cashierer
 conformableness
 conformably
 conformal
