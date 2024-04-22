@@ -439,6 +439,7 @@ fairship
 fairway
 fishline
 fairwater
+fluentness
 fays
 fondlings
 faisan
@@ -6226,7 +6227,6 @@ fellowed
 fluemen
 fluence
 felones
-fluentness
 formalisms
 fraticellian
 ferroprint
