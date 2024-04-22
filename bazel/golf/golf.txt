@@ -1891,7 +1891,6 @@ gastrostomy
 gastrostomies
 grummer
 gastrostomus
-gastrotaxis
 gastrothecal
 gastrotome
 gastrotomic
@@ -7152,6 +7151,7 @@ gorer
 gores
 gorfly
 groundplot
+gastrotaxis
 gorgeous
 grommet
 gaffs
