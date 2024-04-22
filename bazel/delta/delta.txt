@@ -6822,7 +6822,6 @@ desklike
 deskman
 desks
 deleted
-desktop
 destined
 deslime
 desma
@@ -11439,6 +11438,7 @@ derelictions
 discipular
 discission
 disclaim
+desktop
 disclaimed
 disclaimer
 disclaimers
