@@ -5375,7 +5375,6 @@ ganof
 gymnadeniopsis
 guesthouses
 geoponics
-glycerolyses
 glycerolysis
 glycerophosphoric
 glyceroxide
@@ -8135,6 +8134,7 @@ graphanalysis
 gigabit
 grapheme
 graphemic
+glycerolyses
 glack
 governorships
 glues
