@@ -10623,7 +10623,6 @@ blazonries
 blazons
 bld
 bothriocidaris
-bleaberry
 bleach
 bleachable
 bleached
@@ -18057,6 +18056,7 @@ buskined
 busks
 busload
 busman
+bleaberry
 bondmanship
 busmen
 buss
