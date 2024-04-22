@@ -5809,6 +5809,7 @@ bifurcous
 bavardage
 belknap
 bell
+bonos
 bellacoola
 belladonna
 biltongs
@@ -12562,7 +12563,6 @@ bono
 balcon
 bonorum
 befame
-bonos
 bons
 bagatelle
 bills
