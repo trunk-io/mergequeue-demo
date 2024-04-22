@@ -9702,6 +9702,7 @@ bishop
 backbeats
 bishopdom
 bishoped
+boroughwide
 biborate
 bishopful
 bishophood
@@ -13097,7 +13098,6 @@ borough
 boroughmonger
 boroughmongery
 boroughmongering
-boroughwide
 borowolframic
 borracha
 borrachio

@@ -6395,6 +6395,7 @@ dermoneurosis
 dermoosseous
 dermopathy
 dysarthrosis
+discontiguous
 dermophytic
 dejeune
 dermophobe
@@ -11651,7 +11652,6 @@ diphygenic
 disboweled
 discontents
 discontiguity
-discontiguous
 discontiguousness
 discontinuable
 dacryocystorhinostomy
