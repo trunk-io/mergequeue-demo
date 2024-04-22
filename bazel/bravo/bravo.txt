@@ -2216,6 +2216,7 @@ babylonians
 baptizable
 baptized
 baptizement
+benzpyrene
 baptizer
 baptizers
 backbitten
@@ -6553,7 +6554,6 @@ bolection
 benzoxyacetic
 benzoxycamphor
 benzpinacone
-benzpyrene
 benztrioxazine
 biostratigraphy
 beothuk
