@@ -4250,6 +4250,7 @@ gymnolaematous
 gallous
 gymnonoti
 getatable
+getter
 ghent
 gamostely
 grylli
@@ -5218,7 +5219,6 @@ glaucophanize
 grumbly
 glaucous
 guptavidya
-getter
 glaucousness
 glaum
 glave
