@@ -3703,7 +3703,6 @@ adenitis
 adenitises
 adenization
 adenoacanthoma
-adenoblast
 adenocarcinoma
 adenocarcinomas
 adenocarcinomata
@@ -20750,6 +20749,7 @@ alike
 arite
 articulationist
 articulations
+adenoblast
 articulative
 anteroventrally
 acceptably
