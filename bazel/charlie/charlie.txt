@@ -8583,7 +8583,6 @@ chamos
 chamosite
 chamotte
 champ
-champa
 champaca
 champacol
 champagne
@@ -25739,6 +25738,7 @@ correlated
 correlates
 correlations
 correlative
+champa
 correlatives
 correlativism
 correlativity
