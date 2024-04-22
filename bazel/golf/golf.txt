@@ -3798,6 +3798,7 @@ glace
 graphometry
 glinse
 giantesses
+getatable
 goldfield
 gluttonising
 geek
@@ -4250,7 +4251,6 @@ gunster
 gymnolaematous
 gallous
 gymnonoti
-getatable
 getter
 ghent
 gamostely
