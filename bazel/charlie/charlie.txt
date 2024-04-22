@@ -1251,7 +1251,6 @@ calfkill
 calfless
 calflike
 calfling
-calfret
 corrido
 calfs
 calfskin
@@ -14173,6 +14172,7 @@ cyprid
 cyprididae
 cypridina
 cypridinidae
+calfret
 cypridinoid
 cyprina
 candied
