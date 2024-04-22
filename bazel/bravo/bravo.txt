@@ -10291,7 +10291,6 @@ bladderlike
 bladdernut
 bladderpod
 bladderseed
-bostangi
 bairnliest
 bladderweed
 bladderwort
@@ -11131,6 +11130,7 @@ bleery
 bloodguiltless
 bloodies
 bloodying
+bostangi
 bloodily
 bloodiness
 blooding
