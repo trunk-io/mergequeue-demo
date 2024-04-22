@@ -4231,6 +4231,7 @@ gambas
 gymnolaemata
 gunster
 gymnolaematous
+gallous
 gymnonoti
 getatable
 ghent
@@ -9608,7 +9609,6 @@ gripless
 garnetiferous
 grimmiaceous
 greening
-gallous
 grubbily
 grubhood
 grubless
