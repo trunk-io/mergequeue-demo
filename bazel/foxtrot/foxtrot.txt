@@ -1335,7 +1335,6 @@ fastnesses
 feed
 frogskins
 fasts
-fastuous
 fastuousness
 fatagaga
 fecklessness
@@ -4241,6 +4240,7 @@ fishergirl
 firewoods
 fendable
 fireworky
+fastuous
 fireworkless
 fireworks
 firing
