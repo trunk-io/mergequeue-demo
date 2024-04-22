@@ -3409,7 +3409,6 @@ esthematology
 embira
 earshots
 embitter
-embitterment
 embitterments
 energizer
 endogamous
@@ -6890,6 +6889,7 @@ entophytal
 endotheliomyxoma
 estoppel
 erythrocytic
+embitterment
 epideictical
 entophytous
 epimere
