@@ -150,7 +150,6 @@ cablet
 cablets
 cableway
 cocain
-cableways
 cabling
 cablish
 campmaster
@@ -11425,6 +11424,7 @@ chlorophyllite
 chlorophylloid
 coverture
 chlorophyllous
+cableways
 chlorophoenicite
 compulsive
 changelessly
