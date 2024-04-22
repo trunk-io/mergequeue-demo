@@ -584,7 +584,6 @@ abnaki
 abnegate
 abnegated
 abnegates
-abnegation
 abnegative
 abnegator
 alit
@@ -3194,6 +3193,7 @@ actinostereoscopy
 avowableness
 actinostomal
 amoskeag
+abnegation
 anton
 arrhythmical
 amplidyne
