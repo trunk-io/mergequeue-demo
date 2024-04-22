@@ -4975,6 +4975,7 @@ chrysomonadina
 cassettes
 cartouch
 cartouche
+costrel
 chiclero
 cartouches
 cartridge
@@ -15594,7 +15595,6 @@ cufflinks
 counterraising
 certification
 cognomen
-costrel
 censorate
 clarissimo
 clarist
