@@ -4030,7 +4030,6 @@ brand
 bnf
 basely
 beaching
-beachlamar
 beachless
 beachman
 beachmaster
@@ -10562,6 +10561,7 @@ blathers
 betassel
 bivinyls
 blatherskite
+beachlamar
 bermudians
 blatherskites
 blatiform
