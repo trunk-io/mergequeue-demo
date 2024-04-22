@@ -6976,6 +6976,7 @@ entreats
 entrec
 entrecote
 entrecotes
+eslabon
 entree
 epiglottides
 entrees
@@ -14089,7 +14090,6 @@ extrinsic
 extrinsical
 elegantly
 extrinsicality
-eslabon
 enzymically
 extendedness
 erythematic

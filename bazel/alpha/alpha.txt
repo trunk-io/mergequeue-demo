@@ -11343,7 +11343,6 @@ amphophilic
 amphora
 amphorae
 amphore
-amphorette
 amphoric
 amphoriloquy
 actinolite
@@ -25110,6 +25109,7 @@ aconitic
 axils
 axin
 axine
+amphorette
 axing
 antistater
 apraxias
