@@ -6431,7 +6431,6 @@ energist
 erythrinus
 ecru
 entryways
-elaterid
 expansion
 ensphere
 ensphering
@@ -6555,6 +6554,7 @@ estrepement
 enteria
 enwind
 enteric
+elaterid
 exolemma
 emove
 endothecate
