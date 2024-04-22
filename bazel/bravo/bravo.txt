@@ -6392,7 +6392,6 @@ bentlet
 benton
 bentonite
 bents
-bentstar
 bentwoods
 benu
 benumbed
@@ -13801,6 +13800,7 @@ bowerlike
 budlike
 baptizes
 bowermay
+bentstar
 bowers
 bowerwoman
 bowess
