@@ -4457,7 +4457,6 @@ fissirostres
 fissle
 frostier
 fissura
-fungite
 finesse
 frawn
 fissured
@@ -8107,6 +8106,7 @@ fulminic
 felonries
 faithful
 fibrocrystalline
+fungite
 formalised
 fretless
 foretop
