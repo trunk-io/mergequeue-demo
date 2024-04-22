@@ -3213,7 +3213,6 @@ capitatum
 capite
 capitellar
 capitellate
-capitelliform
 capitellum
 capitle
 compenetrate
@@ -8730,6 +8729,7 @@ chanfrons
 changa
 changable
 changar
+capitelliform
 cataleptiform
 change
 changeable
