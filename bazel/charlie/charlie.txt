@@ -4259,6 +4259,7 @@ cottages
 carfare
 carfares
 carfax
+colins
 carfloat
 coater
 carfour
@@ -18848,7 +18849,6 @@ cabins
 colinearity
 colinephritis
 coling
-colins
 colinus
 colyonic
 coliphage
