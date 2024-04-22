@@ -7143,7 +7143,6 @@ desubstantiate
 desudation
 desuete
 desuetudes
-desugaring
 desulfovibrio
 disseises
 duchesslike
@@ -13725,6 +13724,7 @@ dissolved
 dissolvent
 dissolves
 dreamboat
+desugaring
 damndests
 dissolver
 diabetogenous
