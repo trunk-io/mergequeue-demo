@@ -11900,7 +11900,6 @@ catechisms
 chopdar
 chopfallen
 chophouse
-chophouses
 cyprinoidea
 cereus
 chopine
@@ -15643,6 +15642,7 @@ classbook
 classed
 classer
 classers
+chophouses
 classfellow
 classy
 classical
