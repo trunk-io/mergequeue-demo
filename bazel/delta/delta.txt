@@ -4679,7 +4679,6 @@ demineralizer
 demineralizes
 demineralizing
 deminude
-demioctangular
 demiofficial
 demiorbit
 dendrolagus
@@ -18215,6 +18214,7 @@ dungarees
 dimensional
 dungas
 dungbeck
+demioctangular
 dungbred
 discussant
 dungeons
