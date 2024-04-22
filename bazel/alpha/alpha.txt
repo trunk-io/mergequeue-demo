@@ -12329,7 +12329,6 @@ ancodont
 anubing
 ancoly
 ancome
-ancon
 ancona
 angoumian
 alemannian
@@ -20608,6 +20607,7 @@ artha
 arthemis
 arthogram
 arthra
+ancon
 arthragra
 arterialising
 abbotcy
