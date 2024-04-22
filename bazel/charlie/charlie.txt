@@ -4239,6 +4239,7 @@ carer
 carers
 cares
 caress
+cestoidea
 caressable
 caressant
 caressed
@@ -9542,7 +9543,6 @@ checkbit
 checkbite
 checkbits
 checkbook
-cestoidea
 chachalaca
 climatically
 chaetites
