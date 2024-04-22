@@ -4031,7 +4031,6 @@ gigi
 gerunds
 giglio
 giglots
-gigmaness
 guardage
 grunth
 gigmanic
@@ -7331,6 +7330,7 @@ gossipping
 gossipred
 gossipries
 gossips
+gigmaness
 groupist
 gestor
 glabreity
