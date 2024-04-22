@@ -8998,7 +8998,6 @@ allophonic
 allophonically
 allophore
 alloplasm
-alloplasmic
 alloplast
 alloplastic
 allopolyploidy
@@ -12152,6 +12151,7 @@ anatomicopathological
 anatomicophysiologic
 arteriofibrosis
 anatomies
+alloplasmic
 anatomise
 anatomiser
 anatomising
