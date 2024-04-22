@@ -4240,6 +4240,7 @@ carer
 carers
 cares
 caress
+cir
 cestoidea
 caressable
 caressant
@@ -14224,7 +14225,6 @@ cypselomorphic
 cypselous
 cypselus
 cyptozoic
-cir
 cyrano
 compend
 circadian
