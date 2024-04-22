@@ -1463,7 +1463,6 @@ glutael
 garmenture
 garmentworker
 growlers
-garnel
 ginners
 georgie
 greynesses
@@ -9128,6 +9127,7 @@ gubbings
 grazier
 grocerymen
 glendale
+garnel
 grummets
 grips
 gryllotalpa
