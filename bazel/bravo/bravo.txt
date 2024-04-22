@@ -12080,7 +12080,6 @@ bolboxalis
 bold
 boldacious
 bolden
-bowsing
 bolder
 boldest
 bostrychoid
@@ -18223,6 +18222,7 @@ butsu
 butter
 butteraceous
 butterback
+bowsing
 butterball
 butterbird
 barium
