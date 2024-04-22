@@ -4342,7 +4342,6 @@ counterslope
 caricologist
 caricous
 craker
-carid
 caridea
 caridean
 caridomorpha
@@ -6548,6 +6547,7 @@ charcuterie
 ccw
 cd
 cdf
+carid
 cdg
 cdr
 ce
