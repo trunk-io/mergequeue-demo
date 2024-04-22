@@ -18389,7 +18389,6 @@ catodon
 cognitive
 cognitively
 cognitivity
-cognitum
 cognizable
 cognizableness
 cognizance
@@ -26814,6 +26813,7 @@ counterdecree
 cucumis
 counterdefender
 counterdemonstrate
+cognitum
 counterdeputation
 counterdesire
 counterdevelopment
