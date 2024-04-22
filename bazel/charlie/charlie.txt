@@ -1668,7 +1668,6 @@ chambrel
 calques
 caseconv
 calquing
-cals
 calsouns
 caltha
 calthrop
@@ -29015,6 +29014,7 @@ cisted
 criminogenesis
 cigarless
 criminol
+cals
 criminologic
 criminological
 criminologically
