@@ -3875,7 +3875,6 @@ carboxylating
 carboxylation
 carboxylic
 carboxyls
-carboxypeptidase
 carbro
 carbromal
 carbuncle
@@ -24225,6 +24224,7 @@ convocator
 convoyed
 convoying
 convoke
+carboxypeptidase
 convoked
 convoker
 convokes
