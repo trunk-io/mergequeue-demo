@@ -4885,7 +4885,6 @@ extemporaneous
 enddamaging
 enantiomorphism
 ende
-endear
 energistic
 endocardium
 eurytomid
@@ -8224,6 +8223,7 @@ epipharyngeal
 exonerates
 epistatic
 epistaxis
+endear
 epistemically
 epistemonic
 epistemophilia
