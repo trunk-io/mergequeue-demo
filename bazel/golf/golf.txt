@@ -3728,7 +3728,6 @@ ghosted
 guardstone
 ghostfishes
 ghostflower
-ghosty
 growths
 goalmouth
 gracilariid
@@ -7378,6 +7377,7 @@ gottfried
 geest
 groutnoll
 gottlieb
+ghosty
 galbulidae
 germiniparous
 gou
