@@ -18921,7 +18921,6 @@ archenemy
 archenia
 archeocyte
 archeolithic
-archeology
 archeologically
 archeologist
 archeopteryx
@@ -22114,6 +22113,7 @@ asthenical
 arpeggiando
 amphibali
 asthenics
+archeology
 asthenies
 asthenolith
 aphidophagous
