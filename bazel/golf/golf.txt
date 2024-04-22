@@ -1498,6 +1498,7 @@ gabbai
 gipsying
 graywacke
 garous
+genos
 gaminish
 grandmaternal
 greggle
@@ -2861,7 +2862,6 @@ genoese
 genoise
 genomic
 genoms
-genos
 gasts
 genotype
 genotypic
