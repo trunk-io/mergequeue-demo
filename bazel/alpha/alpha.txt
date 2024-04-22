@@ -1988,7 +1988,6 @@ amphioxididae
 acetamid
 acetamidin
 acetamidine
-acetamido
 acetaminol
 acetaminophen
 acetanilid
@@ -2114,6 +2113,7 @@ acetonic
 advances
 acetonyl
 acetonylacetone
+acetamido
 acetonitrile
 amortised
 acinacifolious
