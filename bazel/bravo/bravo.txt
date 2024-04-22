@@ -754,7 +754,6 @@ berrendo
 badgeman
 barrels
 badger
-badgerbrush
 bogwort
 badgered
 badgerer
@@ -11328,6 +11327,7 @@ bedrug
 blowziness
 blowzing
 bls
+badgerbrush
 billed
 blub
 blubbed

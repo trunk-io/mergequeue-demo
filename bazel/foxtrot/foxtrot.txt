@@ -1082,6 +1082,7 @@ farmerlike
 fletcherize
 farmership
 farmhold
+formicarian
 farmhouse
 feronia
 farmhousey
@@ -8447,7 +8448,6 @@ fuzzily
 formica
 ferrous
 formicariae
-formicarian
 formicarioid
 formicate
 franchiser
