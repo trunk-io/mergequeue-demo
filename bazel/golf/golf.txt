@@ -9608,7 +9608,6 @@ grubless
 gwerziou
 ghanian
 gin
-grubstake
 grubstakes
 grubworm
 grubworms
@@ -10248,6 +10247,7 @@ gratifies
 guisarme
 guise
 guitar
+grubstake
 guitarist
 guitarists
 ghazies
