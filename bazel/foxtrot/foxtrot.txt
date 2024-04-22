@@ -505,7 +505,6 @@ falcata
 falcate
 fylgja
 falces
-forgeman
 falciform
 falco
 falcon
@@ -6058,6 +6057,7 @@ frowning
 ferrivorous
 funker
 frecken
+forgeman
 florisugent
 fussify
 florizine
