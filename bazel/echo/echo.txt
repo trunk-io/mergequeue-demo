@@ -3552,7 +3552,6 @@ embowers
 expendability
 embowing
 embows
-estramazone
 embox
 eloquence
 eluvium
@@ -9346,6 +9345,7 @@ errors
 errsyn
 ensuing
 ersatz
+estramazone
 escocheon
 evasible
 eulamellibranch
