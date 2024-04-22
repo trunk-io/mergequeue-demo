@@ -6639,6 +6639,7 @@ cedrine
 cedriret
 cedrium
 cedrol
+corticiform
 cedron
 centibar
 cedrus
@@ -25951,7 +25952,6 @@ cortication
 cortices
 corticiferous
 catchland
-corticiform
 corticifugal
 cimicid
 corticifugally
