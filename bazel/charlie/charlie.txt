@@ -9189,7 +9189,6 @@ chartable
 chartaceous
 chartae
 charter
-charterable
 chartered
 compensations
 charterer
@@ -13213,6 +13212,7 @@ cicada
 cycadaceae
 crimpiest
 cicadae
+charterable
 cycadales
 cicadas
 cessions
