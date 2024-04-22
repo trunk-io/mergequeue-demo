@@ -1792,6 +1792,7 @@ falconiformes
 fibropsammoma
 featheredge
 featheredged
+forswearing
 fothergilla
 fll
 featherer
@@ -8624,7 +8625,6 @@ fillebeg
 fumistery
 forswear
 foreanswer
-forswearing
 fields
 forswears
 foredoes
