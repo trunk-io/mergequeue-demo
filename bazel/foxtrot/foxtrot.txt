@@ -1846,7 +1846,6 @@ fraenum
 featliest
 featliness
 fuscescent
-frontpiece
 fractureproof
 fissiparous
 fraught
@@ -10643,6 +10642,7 @@ fructificative
 fructifier
 fructifies
 fructifying
+frontpiece
 furfurals
 fructiform
 fructivorous
