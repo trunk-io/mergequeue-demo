@@ -776,7 +776,6 @@ gujar
 galvanizes
 galvanizing
 galvanocauteries
-garmentless
 galvanoglyph
 glycid
 gerbillinae
@@ -10188,6 +10187,7 @@ guile
 guileful
 guilefulness
 glochis
+garmentless
 ghalva
 guilery
 guiles
