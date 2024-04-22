@@ -9678,6 +9678,7 @@ echinospermum
 esoethmoiditis
 esonarthex
 esoneural
+emulator
 esophagal
 esophagalgia
 esophageal
@@ -12003,7 +12004,6 @@ exciseman
 emetatrophia
 excisemanship
 excises
-emulator
 excision
 excyst
 excystation
