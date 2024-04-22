@@ -1913,7 +1913,6 @@ fecundated
 foreknows
 flies
 fecundations
-flightshot
 fecundator
 frig
 fuligula
@@ -10205,6 +10204,7 @@ frisolee
 frondiform
 friss
 formalise
+flightshot
 frisson
 fittyfied
 foozling
