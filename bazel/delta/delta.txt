@@ -3806,7 +3806,6 @@ disconcertingly
 disour
 dehorns
 dehors
-dehort
 dumbnesses
 dehortative
 dehorted
@@ -9065,6 +9064,7 @@ descaling
 dyable
 dict
 dicta
+dehort
 dictaen
 dictamina
 dictaphone
