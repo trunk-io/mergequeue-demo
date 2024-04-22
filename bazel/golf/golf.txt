@@ -8378,7 +8378,6 @@ gravat
 grave
 graveclod
 griquaite
-galenite
 gravecloth
 graveclothes
 gravedigger
@@ -10327,6 +10326,7 @@ gulist
 gull
 garretmaster
 gullably
+galenite
 gordiid
 gullah
 gulleys
