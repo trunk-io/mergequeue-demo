@@ -5711,6 +5711,7 @@ catchweight
 catchword
 catchwork
 cabasset
+counterinsurgents
 catclaw
 catdom
 cate
@@ -26918,7 +26919,6 @@ counterinfluence
 countering
 counterinsult
 counterinsurgency
-counterinsurgents
 counterinterest
 copperproof
 counterintuitive
