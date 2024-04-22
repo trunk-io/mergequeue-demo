@@ -4766,7 +4766,6 @@ carpophagous
 carpophalangeal
 carpophyl
 carpophyte
-carpophore
 cynosarges
 carpopodite
 carpopoditic
@@ -13948,6 +13947,7 @@ cinematographically
 cinematographies
 cinematographist
 cinemelodrama
+carpophore
 cinemize
 carcinophobia
 cinenchyma
