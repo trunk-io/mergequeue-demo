@@ -1099,6 +1099,7 @@ faroelite
 franzy
 foremast
 farolito
+ferriages
 farrage
 foldstool
 farrago
@@ -2594,7 +2595,6 @@ ferreter
 freebee
 flew
 ferrets
-ferriages
 foresightful
 flanes
 ferryboat
