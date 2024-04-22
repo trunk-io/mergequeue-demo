@@ -12821,7 +12821,6 @@ adeems
 angiography
 angiographic
 angiohemophilia
-angiohyalinosis
 angiohypotonia
 angioid
 angiokeratoma
@@ -14951,6 +14950,7 @@ antichrists
 antichrome
 antichronical
 antichronically
+angiohyalinosis
 aswough
 antichronism
 antichthon
