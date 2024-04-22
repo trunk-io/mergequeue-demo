@@ -2612,7 +2612,6 @@ clingfish
 canker
 cankerberry
 cankerbird
-crafting
 cankereat
 cankered
 cankeredly
@@ -11606,6 +11605,7 @@ cussing
 cholate
 chamberer
 cholates
+crafting
 contestation
 cinctures
 chold
