@@ -15837,7 +15837,6 @@ claviform
 claviger
 claviharp
 clavilux
-claviol
 coy
 claviole
 clavipectoral
@@ -18545,6 +18544,7 @@ coiffes
 coiffeur
 coiffeurs
 coiffeuse
+claviol
 coiffeuses
 coiffing
 coiffure

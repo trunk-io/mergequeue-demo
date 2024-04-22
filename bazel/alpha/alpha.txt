@@ -1289,7 +1289,6 @@ acanthopanax
 acanthophis
 acanthophorous
 acanthopodous
-adalid
 acanthopomatous
 amylodextrin
 acanthopteran
@@ -19558,6 +19557,7 @@ augurial
 argentry
 argents
 argentum
+adalid
 anaconda
 argentums
 argh
