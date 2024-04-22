@@ -7185,7 +7185,6 @@ desultorily
 desume
 desuvre
 det
-detach
 detachable
 detachableness
 detached
@@ -16702,6 +16701,7 @@ dedifferentiate
 draintile
 debouchure
 draisine
+detach
 darnel
 diablo
 drake
