@@ -20267,6 +20267,7 @@ commoning
 commonition
 commonly
 commonness
+cultivatability
 commonplace
 crucifixion
 commonplacely
@@ -30840,7 +30841,6 @@ cultivable
 cultivably
 cultivar
 cultivars
-cultivatability
 cultivate
 cultivated
 captivation
