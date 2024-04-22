@@ -7594,7 +7594,6 @@ cercarias
 cercariform
 cerci
 cercidiphyllaceae
-cavel
 cercis
 cercises
 cercocebus
@@ -23192,6 +23191,7 @@ constriction
 constrictions
 constrictive
 constrictor
+cavel
 constrictors
 coster
 constricts
