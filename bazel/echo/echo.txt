@@ -3955,7 +3955,6 @@ eveners
 emp
 empaistic
 empale
-empalement
 earthworm
 empaler
 empalers
@@ -14172,6 +14171,7 @@ exultantly
 exulted
 exultet
 exultingly
+empalement
 endogamy
 exults
 exumbral
