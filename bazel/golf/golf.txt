@@ -1897,6 +1897,7 @@ gastrostomy
 gastrostomies
 grummer
 gastrostomus
+gonimolobe
 gastrothecal
 gastrotome
 gastrotomic
@@ -3195,7 +3196,6 @@ geophysical
 geophysics
 geophytes
 geophytic
-gonimolobe
 genl
 guardlike
 gaertnerian
