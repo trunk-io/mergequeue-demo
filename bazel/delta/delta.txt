@@ -6765,7 +6765,6 @@ desilt
 declared
 desilvered
 desilvering
-desilverizer
 desilverizing
 desilvers
 desynaptic
@@ -10358,6 +10357,7 @@ diopter
 diopters
 dioptograph
 dioptometer
+desilverizer
 discophore
 deskmen
 dioptometry
