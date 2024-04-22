@@ -2352,6 +2352,7 @@ achroodextrinase
 achroous
 achtehalber
 amounts
+allineate
 athetized
 achtelthaler
 achuete
@@ -8824,7 +8825,6 @@ allylate
 allylation
 auriculars
 allylthiourea
-allineate
 allineation
 allionia
 allioniaceae
