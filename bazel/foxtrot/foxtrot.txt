@@ -6092,7 +6092,6 @@ flotages
 frondeur
 favorability
 foregoes
-fungify
 flotative
 fustin
 fragor
@@ -6612,6 +6611,7 @@ foamed
 fluotitanate
 frounce
 foamer
+fungify
 fremdly
 foamflower
 foamy
