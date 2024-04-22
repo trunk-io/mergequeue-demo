@@ -494,6 +494,7 @@ eccritic
 encyclopaedism
 endmatcher
 ecdemic
+embrangling
 ecderon
 emersion
 ecderonic
@@ -3017,7 +3018,6 @@ elling
 entellus
 endothelia
 embeds
-embrangling
 elliot
 educationable
 epeiridae
