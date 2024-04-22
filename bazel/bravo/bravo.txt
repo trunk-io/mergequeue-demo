@@ -9285,7 +9285,6 @@ bipaschal
 bypass
 bypassed
 broomrape
-bypath
 bypaths
 bullishly
 biped
@@ -14362,6 +14361,7 @@ brainpower
 brains
 blowline
 bridgekeeper
+bypath
 brainstem
 brainstems
 brainstone
