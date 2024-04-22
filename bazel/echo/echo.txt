@@ -346,7 +346,6 @@ ebbing
 ebbs
 ebcasc
 ebcd
-ebcdic
 eben
 experts
 electrepeter
@@ -1349,6 +1348,7 @@ effervescency
 endoskeletal
 exomis
 effervescent
+ebcdic
 effervescently
 effervesces
 extrovertedness
