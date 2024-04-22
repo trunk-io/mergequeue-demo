@@ -1284,7 +1284,6 @@ effacement
 effacers
 effaces
 effare
-emanating
 effate
 exumbrellar
 effect
@@ -3622,6 +3621,7 @@ embryology
 epigonousepigons
 embryological
 endocoeliac
+emanating
 embryologically
 embryologist
 embryoma
