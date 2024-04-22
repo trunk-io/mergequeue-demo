@@ -234,6 +234,7 @@ carrom
 caccabis
 ciconiid
 caccagogue
+currency
 cacciatora
 capeador
 chiquitan
@@ -31438,7 +31439,6 @@ curratow
 countermen
 currawang
 curred
-currency
 currencies
 current
 currently
