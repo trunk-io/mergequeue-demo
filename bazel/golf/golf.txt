@@ -5171,7 +5171,6 @@ guider
 guideway
 gunpaper
 glassworker
-glassworkers
 glassworm
 glasswort
 gnomish
@@ -8816,6 +8815,7 @@ glimpsing
 gabby
 greing
 guanabana
+glassworkers
 greypate
 greisen
 grihastha
