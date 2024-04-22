@@ -1118,7 +1118,6 @@ calcographer
 countermark
 calcography
 culturology
-cubatures
 calcographic
 calcsinter
 calcspar
@@ -3184,6 +3183,7 @@ capitalistic
 capitalistically
 capitalists
 capitalizable
+cubatures
 capitalization
 capitalizations
 capitalize
