@@ -5362,7 +5362,6 @@ fleeter
 fleetest
 fleeting
 fleets
-fleetwing
 flegm
 fley
 frissons
@@ -9104,6 +9103,7 @@ fallaciousness
 fowls
 fringillid
 fix
+fleetwing
 fox
 foxbane
 foxberry
