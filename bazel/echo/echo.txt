@@ -5988,7 +5988,6 @@ enlinkment
 enlist
 enlisted
 ellan
-excursionize
 enlister
 enlistment
 enlistments
@@ -13662,6 +13661,7 @@ externate
 extrajudicially
 externe
 externes
+excursionize
 ermanaric
 exemplary
 engin
