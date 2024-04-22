@@ -3490,7 +3490,6 @@ caption
 captioned
 captioning
 captionless
-captions
 captiously
 captiousness
 captivance
@@ -11070,6 +11069,7 @@ chirring
 chirrs
 coscoroba
 chirrup
+captions
 chirrupy
 chirruping
 chirrupper
