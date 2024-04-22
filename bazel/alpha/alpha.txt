@@ -2665,7 +2665,6 @@ acouchi
 acoumeter
 allylene
 acoumetry
-autodetector
 acounter
 acouometer
 acouophonia
@@ -7086,6 +7085,7 @@ ayuntamiento
 ayuntamientos
 apothegm
 ayurveda
+autodetector
 ayurvedas
 aiver
 attababy
