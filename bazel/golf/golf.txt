@@ -3934,7 +3934,6 @@ gutte
 goldwater
 giftwrap
 giftwrapping
-garrisons
 gig
 gardenwards
 giga
@@ -10746,6 +10745,7 @@ gignate
 gutium
 gimbals
 gallium
+garrisons
 gynostemiumia
 grubbier
 graduality
