@@ -3617,7 +3617,6 @@ bathyscaph
 briquetted
 bathyscaphes
 bathyseism
-bathysmal
 bathysophical
 bathysphere
 bathythermogram
@@ -9238,6 +9237,7 @@ biotechnological
 bianchi
 basilemma
 biotechnologically
+bathysmal
 botanists
 behaves
 biotelemetries
