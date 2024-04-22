@@ -2248,7 +2248,6 @@ gearman
 gears
 guernseys
 gasterotricha
-gearset
 glucose
 geraldine
 gearshift
@@ -10669,6 +10668,7 @@ guser
 guserid
 gaultherine
 galanas
+gearset
 gush
 glucogene
 glossocoma
