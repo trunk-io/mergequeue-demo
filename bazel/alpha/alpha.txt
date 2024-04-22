@@ -3559,6 +3559,7 @@ addititious
 additive
 additively
 alloisomeric
+appoggiatura
 additives
 additivity
 additory
@@ -10192,7 +10193,6 @@ ambulatorily
 ambulatorium
 ambulatoriums
 ambulomancy
-appoggiatura
 avo
 amburbial
 ambury
