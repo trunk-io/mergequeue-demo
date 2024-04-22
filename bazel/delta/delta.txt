@@ -2487,7 +2487,6 @@ decitizenize
 decivilize
 deck
 dateline
-decke
 deckedout
 deckel
 deckels
@@ -8806,6 +8805,7 @@ diazines
 diazins
 diazo
 drinkable
+decke
 diazoalkane
 depeter
 diazoamine
