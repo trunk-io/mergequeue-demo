@@ -7137,6 +7137,7 @@ clunker
 centiliter
 centiliters
 centilitre
+chimed
 centillionth
 centiloquy
 caliculus
@@ -10708,7 +10709,6 @@ cervicorn
 chimbly
 calcaemia
 chime
-chimed
 chimer
 chimeral
 chimeras
