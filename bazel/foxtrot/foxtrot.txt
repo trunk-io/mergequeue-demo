@@ -498,6 +498,7 @@ falbelo
 fumados
 falcata
 falcate
+fylgja
 falces
 forgeman
 falciform
@@ -1315,7 +1316,6 @@ fastidium
 filialness
 fibroblast
 fibber
-fylgja
 fumigate
 forecasters
 fastigiated
