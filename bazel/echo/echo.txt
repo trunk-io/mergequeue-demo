@@ -3966,7 +3966,6 @@ enclitics
 emparl
 empasma
 enruin
-everbloomer
 embarrassingly
 empathetic
 empathies
@@ -10384,6 +10383,7 @@ enacts
 epiphyllous
 ethmoturbinal
 ethmovomer
+everbloomer
 enskyed
 ethnarchs
 ensignment
