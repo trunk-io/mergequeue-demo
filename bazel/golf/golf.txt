@@ -6130,7 +6130,6 @@ gnaphalium
 gravitate
 gnar
 gnarl
-gnarled
 gnarly
 greatcoats
 goutte
@@ -8441,6 +8440,7 @@ graveward
 gaskins
 gonakie
 gourmand
+gnarled
 gravicembali
 gravicembalo
 gravicembalos
