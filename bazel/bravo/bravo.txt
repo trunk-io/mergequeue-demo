@@ -4278,6 +4278,7 @@ beatitude
 beatitudes
 beatles
 beatless
+benched
 beatnik
 beatniks
 bestrided
@@ -6176,7 +6177,6 @@ beholdable
 bench
 balalaikas
 binauricular
-benched
 bencher
 benchership
 benchfellow
