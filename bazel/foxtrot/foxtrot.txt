@@ -1129,7 +1129,6 @@ flocculable
 filiated
 farseer
 farset
-frogged
 farsighted
 fortunize
 faradays
@@ -11578,6 +11577,7 @@ fusiladed
 fusilades
 flavedos
 farrant
+frogged
 fusilading
 fusile
 furanoses
