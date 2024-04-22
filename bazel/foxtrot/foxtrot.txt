@@ -1038,7 +1038,6 @@ forritsome
 fimbrillae
 funicule
 farfetched
-farfugium
 fargite
 fulmina
 fatherlandish
@@ -8774,6 +8773,7 @@ forwarders
 forwarding
 forwardly
 forwards
+farfugium
 forwardsearch
 forwarn
 fashionative

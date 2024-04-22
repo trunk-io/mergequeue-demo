@@ -2480,7 +2480,6 @@ electrolyser
 electromagnets
 electromassage
 electromechanical
-electromedical
 esquireship
 electromer
 efficaciousness
@@ -13484,6 +13483,7 @@ exscript
 exscriptural
 exsculptate
 exscutellate
+electromedical
 exsec
 exsect
 eutaxie
