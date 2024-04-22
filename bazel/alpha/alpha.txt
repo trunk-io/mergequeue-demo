@@ -4173,7 +4173,6 @@ admiralship
 admiralty
 admiralties
 axseeds
-admirance
 admiration
 atlee
 agathosma
@@ -22070,6 +22069,7 @@ asterias
 asteriated
 asteriidae
 asterikos
+admirance
 anticoagulating
 asterina
 archchaplain
