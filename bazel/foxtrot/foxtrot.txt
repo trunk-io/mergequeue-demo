@@ -756,7 +756,6 @@ fancy
 fleetingly
 fancical
 fancied
-fancier
 fetidness
 fanciers
 fancies
@@ -6418,6 +6417,7 @@ farmstead
 frondesced
 fluoridization
 fulcral
+fancier
 fluoridize
 fluoridized
 fluorids

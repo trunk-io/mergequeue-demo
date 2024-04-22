@@ -692,7 +692,6 @@ goodheartedly
 gallow
 galloway
 guts
-gallowglass
 garish
 glint
 gallows
@@ -1999,6 +1998,7 @@ gauffer
 garrison
 geoplagiotropism
 gauffered
+gallowglass
 gaufferer
 glacier
 groundwave
