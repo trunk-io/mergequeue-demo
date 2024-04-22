@@ -259,6 +259,7 @@ fade
 forgivers
 faded
 fadednyess
+foetors
 fadeless
 faden
 fadeout
@@ -9628,7 +9629,6 @@ frankalmoigne
 fluorid
 freebees
 fetoplacental
-foetors
 freeby
 fantasmagoric
 fobs
