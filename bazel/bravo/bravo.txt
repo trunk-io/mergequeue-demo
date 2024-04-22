@@ -1064,7 +1064,6 @@ bailiaries
 bailiery
 bargainwise
 bailieries
-bailies
 bailieship
 bailiff
 bailiffry
@@ -17943,6 +17942,7 @@ bookplate
 bushelling
 bushelman
 bushelmen
+bailies
 bargestone
 bracteal
 bimester
