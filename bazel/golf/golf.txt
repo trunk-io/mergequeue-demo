@@ -4164,7 +4164,6 @@ groundsheet
 granum
 groining
 guildry
-gimberjawed
 gimblet
 gimcrack
 galictis
@@ -10571,6 +10570,7 @@ gunsel
 golp
 gimmickry
 gunships
+gimberjawed
 gunshop
 graybeards
 gunshot
