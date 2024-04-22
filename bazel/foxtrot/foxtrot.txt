@@ -4326,7 +4326,6 @@ fisetin
 focuser
 fibroplastic
 fishability
-fishable
 fishback
 fishberry
 forebackwardly
@@ -5784,6 +5783,7 @@ flivver
 fumariaceous
 flyway
 flyways
+fishable
 faunas
 further
 flyweight
