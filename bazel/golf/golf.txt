@@ -2189,6 +2189,7 @@ gazebo
 gazeboes
 gazebos
 gossipmongering
+grampus
 giller
 galla
 globosity
@@ -7841,7 +7842,6 @@ gametangium
 guydom
 gramper
 gramps
-grampus
 glorifier
 gounau
 galvanograph
