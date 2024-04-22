@@ -3629,7 +3629,6 @@ bathmats
 bereaven
 bathmism
 bathochromatism
-bathochrome
 bathochromy
 bathochromic
 bathoflore
@@ -13682,6 +13681,7 @@ bourrelet
 briefs
 bourse
 bourtree
+bathochrome
 bewrap
 bezonian
 bouse
