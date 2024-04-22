@@ -961,6 +961,7 @@ debuts
 dardic
 dardistan
 dudman
+digraphs
 dare
 dared
 daggletail
@@ -9591,7 +9592,6 @@ digoxins
 dulias
 digraph
 digraphically
-digraphs
 digredience
 digrediency
 digredient
