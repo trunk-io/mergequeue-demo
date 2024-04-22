@@ -6579,7 +6579,6 @@ athelia
 agudist
 aguelike
 agueproof
-agues
 agueweeds
 axal
 aguglia
@@ -14439,6 +14438,7 @@ anthypnotic
 anthypophoretic
 anthocarp
 anthocarpous
+agues
 anthoceros
 anthocerotaceae
 anthocerote
