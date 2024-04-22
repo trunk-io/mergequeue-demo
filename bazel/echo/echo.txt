@@ -6473,7 +6473,6 @@ entackle
 entad
 endpleasure
 entail
-entailed
 entailer
 entails
 enzyms
@@ -10164,6 +10163,7 @@ eternalize
 eternalized
 evolutionarily
 eternally
+entailed
 eternals
 embarking
 englander
