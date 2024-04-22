@@ -2427,7 +2427,6 @@ afternoon
 acidosis
 acidosteophyte
 acidotic
-acidproof
 acids
 acidulant
 acidulate
@@ -15021,6 +15020,7 @@ ami
 anticly
 algiers
 anticlimactic
+acidproof
 abassi
 anticlimactical
 anticlimactically
