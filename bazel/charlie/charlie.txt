@@ -9866,7 +9866,6 @@ chemicalize
 combattants
 chemically
 conventionalist
-chemicals
 chemick
 calanid
 chemicker
@@ -17555,6 +17554,7 @@ cocause
 cocautioner
 coccaceae
 crucifix
+chemicals
 coccaceous
 coccal
 conducible

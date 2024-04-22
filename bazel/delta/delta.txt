@@ -1481,7 +1481,6 @@ deaconal
 deaconate
 demigorge
 dubious
-determiners
 deaconess
 delphinoidea
 deaconesses
@@ -5672,6 +5671,7 @@ dukeship
 depeopled
 depeopling
 deperdit
+determiners
 dedecoration
 diageotropism
 diamine
