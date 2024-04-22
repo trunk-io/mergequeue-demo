@@ -8199,6 +8199,7 @@ diacoustics
 diacranterian
 diacritic
 diacritical
+duplicidentata
 ducatoon
 diacromyodi
 demises
@@ -18412,7 +18413,6 @@ dysphemize
 diamondbacks
 duplicature
 disulphuret
-duplicidentata
 degreased
 derivation
 duplicidentate
