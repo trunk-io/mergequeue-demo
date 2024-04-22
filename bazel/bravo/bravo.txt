@@ -3396,6 +3396,7 @@ basques
 bass
 bassa
 bassalia
+bootable
 baculum
 bassan
 bicarbonate
@@ -12833,7 +12834,6 @@ bursectomy
 brachigerous
 barleysick
 boot
-bootable
 bootblacks
 bloomingness
 bootees
