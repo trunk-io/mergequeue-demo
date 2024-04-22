@@ -12724,7 +12724,6 @@ banderilleros
 booksellers
 bookselling
 bescreened
-bookshelf
 bookshelves
 boloney
 bookshop
@@ -16061,6 +16060,7 @@ brookweed
 brool
 broom
 buprestid
+bookshelf
 beardtongue
 biblic
 broomballer
