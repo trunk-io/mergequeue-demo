@@ -17716,7 +17716,6 @@ appellability
 appellable
 appellant
 appellants
-appellate
 appellation
 aeropulse
 appendiculated
@@ -23567,6 +23566,7 @@ alcaiceria
 aureus
 auribromide
 auric
+appellate
 aurichalcite
 absenting
 anhaematopoiesis
