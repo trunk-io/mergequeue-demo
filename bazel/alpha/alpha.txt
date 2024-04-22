@@ -5361,7 +5361,6 @@ affinely
 affines
 affinitative
 affinitatively
-autogeneal
 affinite
 aggerate
 affinity
@@ -6299,6 +6298,7 @@ agnition
 agnize
 affranchised
 antiinstitutionalists
+autogeneal
 agnized
 agnizes
 agnoetae
