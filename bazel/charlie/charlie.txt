@@ -10270,7 +10270,6 @@ chlorochrous
 chiarooscuro
 chiarooscuros
 chiaroscurist
-chiaroscuro
 chiaroscuros
 chias
 chiasm
@@ -15076,6 +15075,7 @@ clumpy
 cytotoxin
 cytotrophy
 cytotrophoblast
+chiaroscuro
 chitties
 cloud
 cytotrophoblastic
