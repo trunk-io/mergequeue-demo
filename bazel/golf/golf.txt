@@ -3239,7 +3239,6 @@ geoscopic
 geoselenic
 geosid
 geosphere
-geostatic
 geostationary
 geostrategist
 geostrophic
@@ -8816,6 +8815,7 @@ gyte
 girouettism
 groomlet
 greillade
+geostatic
 glimpsing
 gabby
 greing
