@@ -8313,7 +8313,6 @@ forkiness
 forking
 fernsick
 forkless
-followed
 filiation
 fledging
 forkwise
@@ -11426,6 +11425,7 @@ feverish
 fluent
 fossed
 furnace
+followed
 furnacelike
 furnacemen
 fosters

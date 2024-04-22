@@ -3151,7 +3151,6 @@ capillary
 cyrtograph
 complotted
 capillaries
-capillarimeter
 capillariomotor
 capillarities
 carmetta
@@ -15111,6 +15110,7 @@ citrangeade
 conycatcher
 citrate
 capsize
+capillarimeter
 citrates
 chromoplasm
 citrean
