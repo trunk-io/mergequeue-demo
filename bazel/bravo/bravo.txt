@@ -2720,7 +2720,6 @@ becoward
 barmiest
 barmote
 barms
-barmskin
 barn
 barnabas
 barnaby
@@ -8056,6 +8055,7 @@ banate
 balistraria
 blurry
 buzzes
+barmskin
 bodymaker
 bibracteate
 billing
