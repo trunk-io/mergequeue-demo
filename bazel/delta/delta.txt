@@ -5166,6 +5166,7 @@ dendrocalamus
 dendroceratina
 dendroceratine
 dendrochirota
+doubleprecision
 describing
 dendrochronology
 dendrochronologically
@@ -16025,7 +16026,6 @@ dupability
 doublelunged
 doubleness
 disturn
-doubleprecision
 doubler
 defrauders
 doubles
