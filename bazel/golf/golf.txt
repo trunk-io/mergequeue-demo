@@ -1618,7 +1618,6 @@ gasmen
 gasmetophytic
 gasogen
 gasogene
-gasogenic
 gandermooner
 gasohol
 gasolene
@@ -9991,6 +9990,7 @@ gasworks
 gudame
 guddled
 guaranian
+gasogenic
 gamba
 grumousness
 gumdigger
