@@ -2623,7 +2623,6 @@ fiduciaries
 forbidden
 ferritungstite
 flurry
-feinschmeckers
 ferryway
 ferroaluminum
 ferrocene
@@ -4351,6 +4350,7 @@ florentium
 fisherman
 flammably
 fisherwoman
+feinschmeckers
 fishes
 felspathose
 fishet
