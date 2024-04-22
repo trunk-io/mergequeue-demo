@@ -5735,7 +5735,6 @@ catechising
 calipered
 catechism
 catechismal
-catechist
 catechistic
 catechistical
 catechistically
@@ -7278,6 +7277,7 @@ centro
 centroacinar
 centrobarical
 centroclinal
+catechist
 centrode
 centrodesmus
 centrodorsal
