@@ -1799,6 +1799,7 @@ camball
 cambalo
 cambarus
 cambered
+conveyers
 cambering
 cambers
 cambeva
@@ -24001,7 +24002,6 @@ conveyances
 conveyed
 coonskins
 conveyer
-conveyers
 conveying
 conveyorization
 conjugation
