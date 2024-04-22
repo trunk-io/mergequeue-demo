@@ -17175,7 +17175,6 @@ carryke
 chrononomy
 coagula
 coagulability
-coagulate
 coagulated
 coagulates
 clients
@@ -19830,6 +19829,7 @@ comedically
 comedienne
 comediennes
 comediette
+coagulate
 comedo
 comedown
 catacumbal
