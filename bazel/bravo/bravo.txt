@@ -13868,7 +13868,6 @@ bowsprit
 bowsprits
 bowstaff
 brokenhearted
-bowstave
 bowstring
 binoculate
 bowstringed
@@ -14795,6 +14794,7 @@ breadman
 breadness
 breadnuts
 breadroot
+bowstave
 bullety
 breadstitch
 breadstuff
