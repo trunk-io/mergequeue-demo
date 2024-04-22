@@ -2407,7 +2407,6 @@ electroengraving
 electroextraction
 earthquaked
 elutriate
-electroform
 electroforming
 electrofusion
 ethanol
@@ -10120,6 +10119,7 @@ enneastylos
 effortful
 expansibly
 esurient
+electroform
 esurine
 etacist
 etageres
