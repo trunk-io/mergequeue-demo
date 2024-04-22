@@ -5697,6 +5697,7 @@ carolean
 cretic
 cannon
 catchlight
+clockcase
 catchline
 catchment
 catchments
@@ -16468,7 +16469,6 @@ cloche
 clochette
 cecidologist
 clockbird
-clockcase
 clocker
 clockface
 clockhouse
