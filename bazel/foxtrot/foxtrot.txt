@@ -2146,7 +2146,6 @@ fell
 flavorousness
 flushermen
 fissipalmate
-fella
 forcement
 facture
 fireshine
@@ -2602,6 +2601,7 @@ ferryboat
 ferryboats
 familistery
 ferricyanate
+fella
 ferrandin
 furiosity
 ferricyanide
