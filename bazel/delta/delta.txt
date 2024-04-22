@@ -1508,6 +1508,7 @@ deactivation
 deactivations
 deactivators
 defrosts
+doublure
 deadcenter
 deeryards
 deadeye
@@ -16050,7 +16051,6 @@ doubly
 dermatosis
 diminishable
 doubloon
-doublure
 doublures
 doubt
 doubtably
