@@ -13626,6 +13626,7 @@ dissyllabizing
 dissyllable
 dissimilarity
 dissimilarities
+dashers
 dissimilars
 dequantitate
 dissimilate
@@ -17675,7 +17676,6 @@ dsect
 dsects
 desmodium
 dsname
-dashers
 dsnames
 dsri
 discriminative

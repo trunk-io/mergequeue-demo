@@ -331,7 +331,6 @@ endevil
 eavesdrop
 enterocentesis
 eavesdropped
-eavesdropper
 enmass
 eavesdroppers
 enodation
@@ -12115,6 +12114,7 @@ excoriations
 epiclike
 enforcible
 excorticate
+eavesdropper
 effluviums
 extinguishable
 excortication
