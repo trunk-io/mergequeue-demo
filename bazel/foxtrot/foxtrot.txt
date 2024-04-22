@@ -3316,7 +3316,6 @@ fossilologist
 folklorist
 fideistic
 faction
-fastened
 ferrying
 fidejussionary
 furlanas
@@ -9597,6 +9596,7 @@ fora
 forsworn
 firths
 falchion
+fastened
 fiador
 freakout
 freeman
