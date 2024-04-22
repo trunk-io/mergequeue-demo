@@ -789,7 +789,6 @@ betterer
 badland
 badlands
 buba
-badly
 bat
 badman
 badmash
@@ -17960,6 +17959,7 @@ bushfires
 bushgrass
 bushy
 bolar
+badly
 beneceptive
 babuism
 bushidos
