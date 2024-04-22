@@ -7233,6 +7233,7 @@ bespreading
 bespreads
 bespreng
 besprent
+bocking
 blowy
 besprinkle
 besprinkles
@@ -7931,7 +7932,6 @@ bibble
 beclose
 bibbler
 blooms
-bocking
 bibcocks
 bibelot
 balneography
