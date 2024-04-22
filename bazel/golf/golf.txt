@@ -883,7 +883,6 @@ gambirs
 graduator
 gambist
 gambits
-gambler
 gamblesomeness
 genseng
 gambogian
@@ -6876,6 +6875,7 @@ gonocyte
 gamelote
 gonococci
 gonococcic
+gambler
 glossophytia
 glacis
 gaposises
