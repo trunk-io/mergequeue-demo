@@ -20552,7 +20552,6 @@ compatible
 circumambages
 compatibleness
 compatibles
-compatience
 compatriot
 compatriotic
 compatriotism
@@ -29809,6 +29808,7 @@ crossbar
 crossbars
 countermeasures
 crossbeak
+compatience
 conflates
 crossbeam
 crossbeams
