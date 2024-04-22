@@ -2744,7 +2744,6 @@ acrab
 acracy
 acraein
 acraeinae
-antiviral
 acrania
 acranial
 acraniate
@@ -7670,6 +7669,7 @@ alcestis
 alchem
 alchemy
 alchemic
+antiviral
 alchemies
 augments
 alchemised
