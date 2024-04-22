@@ -3478,6 +3478,7 @@ defluent
 dragoon
 dolesman
 danielic
+deregister
 denazified
 documentor
 doffed
@@ -6170,7 +6171,6 @@ derecho
 dereference
 dereferenced
 dereferencing
-deregister
 deregulate
 deregulated
 deregulation
