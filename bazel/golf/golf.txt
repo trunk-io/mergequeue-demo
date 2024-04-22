@@ -2217,7 +2217,6 @@ gazetteerish
 gazetteers
 gazetteership
 gazettes
-gazingstock
 gazogenes
 goyetian
 gadder
@@ -6734,6 +6733,7 @@ gonarthritis
 goncalo
 grilling
 grossularious
+gazingstock
 gritter
 gruss
 gratis
