@@ -1654,6 +1654,7 @@ calottes
 calp
 calpac
 calpacked
+catchall
 calpacks
 calpacs
 calpolli
@@ -5674,7 +5675,6 @@ carburising
 catcalls
 catch
 catchable
-catchall
 catchcry
 colocates
 catched
