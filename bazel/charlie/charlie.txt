@@ -7420,6 +7420,7 @@ cephalogram
 cephalograph
 cephalohumeral
 cephaloid
+culminates
 cephalology
 cephalom
 calina
@@ -30775,7 +30776,6 @@ culmigenous
 culminal
 culminant
 culminate
-culminates
 culminating
 culmination
 culminative
