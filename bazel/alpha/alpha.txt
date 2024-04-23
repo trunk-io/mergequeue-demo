@@ -9024,7 +9024,6 @@ allothigenic
 allothimorph
 allothimorphic
 allothogenic
-allotype
 astrakanite
 allotypes
 allotypy
@@ -18637,6 +18636,7 @@ arbor
 anthropoidal
 arboraceous
 arboral
+allotype
 arborary
 amias
 arborea
