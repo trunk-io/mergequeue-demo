@@ -8914,7 +8914,6 @@ diceplay
 dyads
 diceras
 debugging
-diceratidae
 dicerous
 dicers
 dicetyl
@@ -17085,6 +17084,7 @@ dragnets
 drybrush
 dribs
 drycoal
+diceratidae
 diclinies
 diaplexus
 disaffected
