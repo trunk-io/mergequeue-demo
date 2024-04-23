@@ -4403,7 +4403,6 @@ familiarizations
 fishway
 fishways
 fishweed
-fishwoman
 fico
 fishwood
 fishworker
@@ -9560,6 +9559,7 @@ frauen
 fideicommissumissa
 finiteness
 fraughted
+fishwoman
 fraughting
 foreshroud
 fraughts
