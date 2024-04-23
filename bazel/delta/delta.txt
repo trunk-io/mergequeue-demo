@@ -6365,6 +6365,7 @@ diaplasis
 dag
 distributable
 dermobranchiata
+dovetailed
 derout
 dermobranchiate
 dermochelys
@@ -16178,7 +16179,6 @@ dovens
 dover
 doves
 desireless
-dovetailed
 dovetailer
 dovetails
 doolie
