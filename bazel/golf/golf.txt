@@ -1980,6 +1980,7 @@ germinated
 gauchos
 gibelite
 germaniums
+groundable
 gaucy
 gaucie
 gynopara
@@ -9425,7 +9426,6 @@ gimper
 grouf
 ground
 grakle
-groundable
 groundably
 groundberry
 groundbird
