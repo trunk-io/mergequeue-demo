@@ -389,6 +389,7 @@ ferrymen
 fearer
 faintness
 faints
+feltings
 faipule
 fruits
 flows
@@ -2243,7 +2244,6 @@ furless
 felter
 feltyflier
 felting
-feltings
 feltmaker
 ferbams
 feltmaking

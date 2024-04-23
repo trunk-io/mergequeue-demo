@@ -2517,7 +2517,6 @@ geminates
 gargantua
 gemination
 geminative
-gamotropism
 garmented
 gentile
 gemini
@@ -5177,6 +5176,7 @@ glassmaking
 grav
 glassman
 gunman
+gamotropism
 gormless
 gluten
 glib
