@@ -5192,6 +5192,7 @@ fencelike
 fallers
 fstore
 flavoured
+fomenter
 fableland
 flavourful
 florentinism
@@ -6976,7 +6977,6 @@ floppers
 faintling
 frogface
 fomentations
-fomenter
 faltering
 foresty
 flerry
