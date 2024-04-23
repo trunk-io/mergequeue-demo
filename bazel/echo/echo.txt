@@ -2839,7 +2839,6 @@ elf
 elfenfolk
 epinard
 elfic
-educative
 eponymous
 elfins
 elfinwood
@@ -6135,6 +6134,7 @@ enorn
 enos
 enosis
 enosises
+educative
 expatriations
 enosist
 enostosis
