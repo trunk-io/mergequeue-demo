@@ -6817,6 +6817,7 @@ cellaring
 cellarmen
 cartograph
 cellars
+chaplet
 charivariing
 cellarwoman
 cellblock
@@ -25333,7 +25334,6 @@ chaplainship
 cornbole
 cornbottle
 commemorating
-chaplet
 corncake
 causeways
 corncakes
