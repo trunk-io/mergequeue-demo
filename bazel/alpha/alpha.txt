@@ -3376,7 +3376,6 @@ acutiplantar
 accessor
 acutish
 attaleh
-armorial
 amnioallantoic
 antinationally
 acutograve
@@ -12862,6 +12861,7 @@ angiospermae
 attacks
 angiospermal
 angiospermic
+armorial
 angiospermous
 angiosperms
 assistive
