@@ -8163,6 +8163,7 @@ forewords
 foreworld
 flung
 flabbier
+fuzzily
 footways
 firecracker
 foreworn
@@ -8448,7 +8449,6 @@ formful
 formy
 feoffers
 formic
-fuzzily
 formica
 ferrous
 formicariae

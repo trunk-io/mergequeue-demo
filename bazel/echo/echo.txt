@@ -1627,7 +1627,6 @@ emissarium
 egressed
 egresses
 estadal
-egressor
 exiler
 egret
 egritude
@@ -10543,6 +10542,7 @@ eton
 etrenne
 etrog
 extralinguistic
+egressor
 etrogim
 etruscology
 etta
