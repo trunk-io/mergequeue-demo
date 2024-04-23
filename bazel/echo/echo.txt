@@ -4121,6 +4121,7 @@ eunice
 emplunge
 empodia
 eatche
+energids
 empoison
 empoisoned
 encaustes
@@ -5427,7 +5428,6 @@ electroendosmotic
 energical
 energico
 energid
-energids
 energise
 epitendineum
 epirot
