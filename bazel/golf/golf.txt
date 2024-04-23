@@ -4885,7 +4885,6 @@ goaltending
 gyve
 giveable
 gederite
-giveaway
 gandhism
 gant
 gelidly
@@ -8938,6 +8937,7 @@ gnathion
 glued
 griefful
 ganglier
+giveaway
 grieffully
 griefs
 greedy
