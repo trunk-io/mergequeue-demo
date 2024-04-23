@@ -2818,6 +2818,7 @@ canreply
 canroy
 cans
 crouchmas
+cubi
 cansful
 canso
 cansos
@@ -30461,7 +30462,6 @@ carsten
 cubera
 cubers
 cubes
-cubi
 chattering
 carotidal
 cuculine
