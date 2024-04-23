@@ -17231,7 +17231,6 @@ caixinha
 commoderate
 curseder
 coalyard
-coalyards
 coalier
 corozo
 coaliest
@@ -26688,6 +26687,7 @@ countdown
 countdowns
 counted
 countenance
+coalyards
 countenanced
 cyrenian
 countenancer
