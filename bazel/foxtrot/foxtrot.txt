@@ -807,7 +807,6 @@ fangs
 faniente
 fanion
 flusher
-furtiveness
 footlike
 fortes
 flog
@@ -11556,6 +11555,7 @@ fuseboard
 fab
 fractionate
 fused
+furtiveness
 fusel
 furthering
 fuselage
