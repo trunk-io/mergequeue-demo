@@ -4492,7 +4492,6 @@ geometdecrne
 grides
 ginks
 ginmill
-gaonic
 ganggang
 grammatist
 ginner
@@ -5856,6 +5855,7 @@ getid
 glossohyal
 gaultherase
 gobos
+gaonic
 glossolalia
 glossolysis
 glossology
