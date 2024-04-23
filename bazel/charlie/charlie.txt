@@ -12637,7 +12637,6 @@ chronical
 chronically
 chronicle
 chronicled
-chroniclers
 chronicles
 chronicling
 censer
@@ -13934,6 +13933,7 @@ cinematical
 cogency
 coulibiaca
 celiagra
+chroniclers
 cinematically
 cinematics
 cinematized
