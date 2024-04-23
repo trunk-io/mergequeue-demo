@@ -16615,7 +16615,6 @@ cloisterwise
 cloistral
 chid
 cloit
-comites
 cloke
 consigne
 cloky
@@ -31545,6 +31544,7 @@ curtein
 curteous
 curter
 curtesy
+comites
 cremule
 curtesies
 curtest
