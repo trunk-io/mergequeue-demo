@@ -673,7 +673,6 @@ bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
 balanophorin
-bacteriotoxic
 bechances
 beletter
 bacteriotoxin
@@ -5868,6 +5867,7 @@ bldg
 bellical
 bellicism
 bellicist
+bacteriotoxic
 bestowing
 bullsnake
 bidential
