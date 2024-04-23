@@ -6511,6 +6511,7 @@ benzophthalazine
 benzopyran
 breakup
 benzopyranyl
+butanes
 benzopyrazolone
 benzopyrene
 benzopyrylium
@@ -18109,7 +18110,6 @@ boastless
 bishopess
 butadiyne
 butane
-butanes
 butanoic
 butanol
 babish
