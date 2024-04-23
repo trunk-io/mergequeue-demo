@@ -901,6 +901,7 @@ bagmaker
 bagmaking
 bagne
 bagnes
+bastnaesite
 bagnet
 bagnio
 blowze
@@ -3475,7 +3476,6 @@ badgerly
 bastions
 battutas
 bastite
-bastnaesite
 bastnasite
 balanoglossus
 basto
