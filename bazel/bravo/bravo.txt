@@ -631,7 +631,6 @@ bacterid
 bacteriogenic
 bacteriogenous
 bacteriohemolysin
-bacterioidal
 benzin
 bacteriolysin
 bletherskate
@@ -14750,6 +14749,7 @@ blockheadedly
 brazilin
 brazilite
 brazils
+bacterioidal
 breach
 breached
 breacher
