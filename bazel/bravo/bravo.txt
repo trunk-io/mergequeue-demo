@@ -608,7 +608,6 @@ beshouted
 biblist
 bacterial
 bacterially
-bacterian
 bacteric
 bactericidal
 bactericidally
@@ -3822,6 +3821,7 @@ battute
 boysenberries
 bunkos
 beached
+bacterian
 battutos
 batuque
 blastomeric

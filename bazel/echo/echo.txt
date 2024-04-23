@@ -1179,6 +1179,7 @@ evitate
 educated
 educatedness
 educates
+entitule
 enuresis
 estivates
 educating
@@ -6773,7 +6774,6 @@ entities
 entitle
 epochally
 entitling
-entitule
 entoblastic
 entobronchium
 entocalcaneal
