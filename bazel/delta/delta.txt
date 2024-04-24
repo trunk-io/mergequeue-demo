@@ -6051,6 +6051,7 @@ depurge
 depurged
 depurging
 dermitis
+darkrooms
 depurition
 depursement
 deputable
@@ -12776,7 +12777,6 @@ ditchdown
 dismastment
 disme
 dismeasured
-darkrooms
 dismembering
 dismemberments
 dismembers
