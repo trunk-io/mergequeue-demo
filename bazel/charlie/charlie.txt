@@ -6674,7 +6674,6 @@ ceilingward
 ceilingwards
 couche
 ceilometer
-ceylon
 couac
 concurrence
 ceylonite
@@ -23179,6 +23178,7 @@ cassiri
 constr
 campholytic
 constrained
+ceylon
 constrainedly
 constrainedness
 carroll
