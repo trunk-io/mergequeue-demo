@@ -2251,6 +2251,7 @@ feltmaking
 feltman
 foredeep
 felts
+forcipial
 feltwort
 flaggier
 felucca
@@ -11093,7 +11094,6 @@ fumishing
 fermented
 flowerlet
 fummel
-forcipial
 fummle
 fumose
 fumosity
