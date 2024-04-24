@@ -7636,7 +7636,6 @@ cerebellitis
 cerebellocortex
 constrain
 cerebellopontile
-cerebellopontine
 cerebellorubral
 cerebellospinal
 cerebellum
@@ -27280,6 +27279,7 @@ clothespress
 countinghouse
 countys
 countywide
+cerebellopontine
 countlessness
 countor
 countour
