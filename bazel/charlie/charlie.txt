@@ -15897,6 +15897,7 @@ cleanskins
 cleanup
 clear
 chelaship
+colonized
 clearable
 clearage
 clearance
@@ -19354,7 +19355,6 @@ colonizationist
 colonizations
 colonize
 comminating
-colonized
 colonizer
 colonizers
 colonizing
