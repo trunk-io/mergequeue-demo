@@ -2329,7 +2329,6 @@ achromatopsia
 adverts
 achromatosis
 achromats
-achromaturia
 achromia
 achromic
 achromobacter
@@ -22911,6 +22910,7 @@ atrypoid
 assimilation
 atrium
 atriums
+achromaturia
 analepsy
 aeolism
 atroceruleous
