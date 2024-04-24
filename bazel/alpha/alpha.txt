@@ -740,7 +740,6 @@ aboulia
 aboulias
 aboulic
 archbishop
-abound
 abounded
 abounder
 abounding
@@ -13467,6 +13466,7 @@ abbr
 ankylopodia
 ankyloproctia
 ankylos
+abound
 ankylosaur
 ankyloses
 anantherate
