@@ -4859,7 +4859,6 @@ endanger
 endangerment
 endangitis
 endangium
-expurge
 endaortic
 endaortitis
 endarch
@@ -13386,6 +13385,7 @@ expressure
 exaltative
 ethmophysal
 electrotechnical
+expurge
 excipular
 etas
 expressway
