@@ -2658,7 +2658,6 @@ genepi
 genera
 generable
 guideress
-generalate
 generalcy
 generalia
 grinding
@@ -4434,6 +4433,7 @@ gingernut
 gingerol
 gingerous
 gradation
+generalate
 gingersnaps
 groundsill
 gingerspice
