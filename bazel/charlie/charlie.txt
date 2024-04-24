@@ -933,6 +933,7 @@ calamaries
 calamarioid
 calamarmar
 curtseys
+chartometer
 cilioflagellate
 calamars
 calambac
@@ -9218,7 +9219,6 @@ chartographic
 chartographical
 chartographically
 chartographist
-chartometer
 chartophylacia
 cerebra
 chartophylacium
