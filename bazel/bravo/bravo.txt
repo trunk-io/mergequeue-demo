@@ -5422,7 +5422,6 @@ bels
 beguilement
 beguilements
 beguiler
-beguilers
 beguiles
 breakdown
 beguilingly
@@ -12230,6 +12229,7 @@ boltrope
 bittern
 boltropes
 bolts
+beguilers
 boltsmith
 b
 beakful
