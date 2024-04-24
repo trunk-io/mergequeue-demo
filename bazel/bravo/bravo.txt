@@ -2429,6 +2429,7 @@ bardcraft
 balate
 barde
 bardes
+brabant
 bardesanite
 barwin
 bardess
@@ -13922,7 +13923,6 @@ bonesetter
 brontops
 brabagious
 bemeal
-brabant
 brabanter
 bruins
 bromated
