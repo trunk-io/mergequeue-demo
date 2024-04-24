@@ -4400,6 +4400,7 @@ fishspear
 fishtail
 fomentation
 flether
+furfurans
 fishtails
 familiarizations
 fishway
@@ -11357,7 +11358,6 @@ flathat
 forcible
 fusobacterium
 furfuramid
-furfurans
 ferroelectricity
 fictional
 furane
