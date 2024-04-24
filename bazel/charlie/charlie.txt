@@ -3148,7 +3148,6 @@ cyrtograph
 complotted
 capillaries
 capillariomotor
-capillarities
 carmetta
 capillation
 capilli
@@ -23810,6 +23809,7 @@ contrasty
 contrastimulus
 contrasting
 contrastingly
+capillarities
 contrastive
 contrastively
 contrastiveness
