@@ -724,6 +724,7 @@ badaxe
 brasseries
 badchan
 balustered
+bealach
 besauce
 badder
 badderlocks
@@ -4080,7 +4081,6 @@ beaklike
 beaks
 beal
 beala
-bealach
 beallach
 byously
 bealtared
