@@ -14493,7 +14493,6 @@ crown
 circumrotatory
 circumsail
 circumsaturnian
-circumsciss
 circumscissile
 circumscribable
 cribbers
@@ -26978,6 +26977,7 @@ coinfeftment
 countermotion
 countermount
 countermove
+circumsciss
 countermoved
 cerebralist
 countermoving
