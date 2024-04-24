@@ -1340,7 +1340,6 @@ endoskeletal
 exomis
 effervescent
 ebcdic
-effervescently
 effervesces
 extrovertedness
 evenglow
@@ -4985,6 +4984,7 @@ enamelled
 elan
 endoauscultation
 endobatholithic
+effervescently
 endoblast
 exauthorize
 extensionally
