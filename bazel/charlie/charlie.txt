@@ -5584,6 +5584,7 @@ catalufa
 catalufas
 catamarcan
 catamarenan
+colonizability
 chilopoda
 catamites
 catamiting
@@ -19348,7 +19349,6 @@ colonised
 colonising
 colonist
 chiromancer
-colonizability
 colonizable
 colonizationist
 colonizations
