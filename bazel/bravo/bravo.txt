@@ -10998,7 +10998,6 @@ blksize
 bunts
 blo
 bloat
-bloated
 benefactorship
 bloatedness
 bloater
@@ -15471,6 +15470,7 @@ bryozoan
 blaubok
 boxes
 barraclade
+bloated
 braggadocio
 bryozoon
 bywalker
