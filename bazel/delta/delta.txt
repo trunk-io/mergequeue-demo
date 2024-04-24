@@ -6367,7 +6367,6 @@ dermobranchiata
 dovetailed
 derout
 dermobranchiate
-dermochelys
 dermococcus
 decolonise
 dialyzator
@@ -12220,6 +12219,7 @@ disability
 detector
 dysfunctions
 desirability
+dermochelys
 disfurnish
 demonologies
 disfurnished
