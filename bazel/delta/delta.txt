@@ -12641,7 +12641,6 @@ defoliage
 die
 daubs
 disks
-dislady
 diatrymiformes
 doctrinable
 disleaf
@@ -15003,6 +15002,7 @@ dehors
 doggones
 doggonest
 doggoning
+dislady
 doggrel
 damaskeening
 doggrelize
