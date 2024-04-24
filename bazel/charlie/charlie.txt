@@ -429,6 +429,7 @@ cactoid
 cactus
 controled
 civilisable
+chancered
 cactuses
 cactuslike
 cacumen
@@ -24257,7 +24258,6 @@ choloepus
 convolvulinolic
 convolvulus
 convolvuluses
-chancered
 convulsant
 convulse
 convulsedly
