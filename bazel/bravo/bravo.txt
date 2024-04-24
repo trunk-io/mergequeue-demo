@@ -1768,6 +1768,7 @@ balun
 balusters
 balustrade
 balustrades
+bizonal
 balustrading
 balwarra
 balza
@@ -9450,7 +9451,6 @@ birdwoman
 boga
 bloodripe
 byre
-bizonal
 bengaline
 birectangular
 bonedog
