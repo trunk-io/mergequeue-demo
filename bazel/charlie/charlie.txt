@@ -22015,7 +22015,6 @@ confined
 chalcophile
 cadging
 confinedly
-confinedness
 confineless
 confinement
 chirurgic
@@ -25680,6 +25679,7 @@ corpulentness
 corpus
 corpuscularian
 chapfallen
+confinedness
 completed
 corpuscularity
 corpusculated
