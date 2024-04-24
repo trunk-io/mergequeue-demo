@@ -14331,7 +14331,6 @@ circumaction
 circumadjacent
 circumagitate
 circumambagious
-circumambience
 circumambiency
 circumambient
 circumambiently
@@ -26909,6 +26908,7 @@ confabbed
 counteridea
 copperization
 counterideal
+circumambience
 counterimagination
 cyclomyarian
 counterimpulse
