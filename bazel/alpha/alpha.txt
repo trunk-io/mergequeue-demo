@@ -14196,7 +14196,6 @@ antefix
 antefixa
 anaesthyl
 anteflexed
-anteflexion
 antefurcae
 antefurcal
 antegarden
@@ -17074,6 +17073,7 @@ apiole
 apiologist
 apyonin
 apionol
+anteflexion
 apiose
 apiosoma
 apiphobia
