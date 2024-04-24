@@ -6126,7 +6126,6 @@ executable
 enoplan
 enoplion
 enorm
-enormity
 etaballi
 enorn
 enos
@@ -8650,6 +8649,7 @@ eggcrate
 endnotes
 epithecal
 equipedal
+enormity
 equipendent
 entoire
 easting
