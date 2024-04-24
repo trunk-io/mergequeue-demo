@@ -5025,7 +5025,6 @@ demote
 demoted
 demotes
 demothball
-demotion
 demotions
 demotist
 demarking
@@ -17055,6 +17054,7 @@ dretch
 drevel
 daintrel
 drew
+demotion
 decohere
 drewite
 dryable
