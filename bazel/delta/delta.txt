@@ -4807,7 +4807,6 @@ dasypodoid
 demiwivern
 demiwolf
 demnition
-demo
 demob
 dismaying
 demobilisation
@@ -13090,6 +13089,7 @@ dispersing
 dispersity
 dispersive
 drawboard
+demo
 dispersiveness
 discommendableness
 dendrolene
