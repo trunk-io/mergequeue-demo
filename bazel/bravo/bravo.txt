@@ -3526,7 +3526,6 @@ batea
 bogging
 bateau
 bateaux
-batiking
 blastomycetous
 bated
 bateful
@@ -6500,6 +6499,7 @@ bidet
 benzols
 becrown
 barfy
+batiking
 benzonaphthol
 benzonitrile
 benzonitrol
