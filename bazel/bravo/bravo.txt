@@ -4454,7 +4454,6 @@ blockishness
 beche
 becheck
 burlies
-becher
 bechic
 bechignoned
 bechirp
@@ -8844,6 +8843,7 @@ binderies
 banjos
 bulliest
 binding
+becher
 bindingness
 bindis
 bindle
