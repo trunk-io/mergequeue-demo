@@ -137,7 +137,6 @@ fackeltanz
 flajolotite
 fem
 faconde
-faconne
 fidgets
 facsim
 facsimile
@@ -11589,6 +11588,7 @@ fcs
 fusilier
 fusiliers
 feu
+faconne
 fayumic
 fusilladed
 fetterless
