@@ -8921,7 +8921,6 @@ behen
 bints
 binturong
 biostatistics
-binucleated
 binucleolate
 binukau
 bathypelagic
@@ -9016,6 +9015,7 @@ bonaught
 biog
 biogases
 biogen
+binucleated
 ballogan
 biogenesis
 baudekins
