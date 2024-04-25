@@ -641,6 +641,7 @@ eclampsia
 eclamptic
 eclated
 extuberate
+ephemerides
 eclating
 eclectical
 eclecticism
@@ -7432,7 +7433,6 @@ ephemeric
 ephemerid
 ephemerida
 ephemeridae
-ephemerides
 ephemeris
 ephemeromorphic
 empight
