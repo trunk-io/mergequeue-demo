@@ -1688,6 +1688,7 @@ festshrifts
 fructuosity
 faxing
 fazes
+forbite
 fc
 fipenny
 fcomp
@@ -7391,7 +7392,6 @@ forbidding
 fruitery
 forbiddingly
 forbids
-forbite
 farfels
 foregather
 florilegia
