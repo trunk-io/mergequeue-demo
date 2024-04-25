@@ -8054,6 +8054,7 @@ forestries
 fluorescent
 firebrats
 flayflint
+furnitures
 fondness
 foalhood
 flecnode
@@ -8288,7 +8289,6 @@ forints
 forisfamiliate
 forisfamiliation
 forjaskit
-furnitures
 forjesket
 foujdar
 forjudges
