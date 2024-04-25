@@ -899,7 +899,6 @@ forcive
 fanti
 factualness
 fantigue
-furnishings
 fantoccini
 fantocine
 foresides
@@ -8100,6 +8099,7 @@ fatiguability
 forethinking
 forethough
 forethoughtfulness
+furnishings
 fleet
 featherhead
 forethrift
