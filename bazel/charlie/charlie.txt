@@ -19130,7 +19130,6 @@ collinsonia
 colliquable
 colliquament
 colliquate
-colliquation
 colliquativeness
 cytocentrum
 collyria
@@ -31680,6 +31679,7 @@ cuspid
 cuspidal
 cuspidate
 cuspidation
+colliquation
 cuspides
 cesuras
 cotyloid
