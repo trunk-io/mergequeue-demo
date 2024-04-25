@@ -3250,6 +3250,7 @@ caplet
 caplin
 capling
 caplins
+cythera
 caplock
 cordmaker
 capmaking
@@ -14889,7 +14890,6 @@ citharoedi
 citharoedic
 cairds
 cither
-cythera
 cytherea
 comber
 churners
