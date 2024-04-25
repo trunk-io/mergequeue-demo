@@ -7287,7 +7287,6 @@ catechist
 centrode
 centrodesmus
 centrodorsal
-centroid
 centroidal
 centroids
 centrolecithal
@@ -8525,6 +8524,7 @@ curding
 chamberlainry
 caccia
 chamberlet
+centroid
 chamberleted
 convell
 chambermaid
