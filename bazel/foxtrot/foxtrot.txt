@@ -1691,7 +1691,6 @@ fructuosity
 faxing
 fazes
 fc
-fchar
 fipenny
 fcomp
 fconv
@@ -4851,6 +4850,7 @@ fill
 flamefishes
 flameless
 flitch
+fchar
 flamen
 factionary
 fortescure
