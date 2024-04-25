@@ -10565,7 +10565,6 @@ appaloosas
 amygdonitrile
 amygdule
 amygdules
-amigo
 amigos
 amiidae
 amil
@@ -11684,6 +11683,7 @@ atlantes
 agamae
 anagallis
 abduction
+amigo
 anagap
 anagenesis
 abranchialism
