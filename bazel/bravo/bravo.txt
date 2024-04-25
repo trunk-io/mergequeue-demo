@@ -1805,7 +1805,6 @@ banago
 brimming
 beglads
 blancmanger
-bound
 banak
 banakite
 banal
@@ -14682,6 +14681,7 @@ bigram
 bravoed
 bravoes
 boho
+bound
 bravoing
 bifolium
 bravuras
