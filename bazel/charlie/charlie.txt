@@ -16151,6 +16151,7 @@ clientage
 cliental
 choriocarcinomata
 cliented
+coassists
 clientelage
 clienteles
 clientry
@@ -17341,7 +17342,6 @@ coassist
 coassistant
 culpas
 coassisting
-coassists
 coassume
 conscription
 coassumes
