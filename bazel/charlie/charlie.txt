@@ -5145,7 +5145,6 @@ casemaker
 casemaking
 casemated
 casemates
-casement
 casemented
 casements
 caseolysis
@@ -12330,6 +12329,7 @@ chrysopoeia
 chrysoprase
 chrysoprasus
 chrysops
+casement
 chrysopsis
 chrysosperm
 chrysosplenium
