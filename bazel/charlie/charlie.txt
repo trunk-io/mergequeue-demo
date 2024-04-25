@@ -24483,7 +24483,6 @@ copalche
 copalcocote
 copaliferous
 copaline
-coreid
 copalite
 cotraitor
 copalm
@@ -27883,6 +27882,7 @@ crabs
 crabstick
 crabut
 crabweed
+coreid
 crabwise
 crabwood
 cracca
