@@ -3031,7 +3031,6 @@ forsake
 fossors
 fgrid
 floorshift
-farrandly
 fy
 fiacres
 februaries
@@ -6384,6 +6383,7 @@ fluorescigenic
 fluorescigenous
 fulcrum
 fichu
+farrandly
 fronture
 foredooms
 fluorescin
