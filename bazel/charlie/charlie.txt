@@ -7891,7 +7891,6 @@ choosing
 cervantite
 cervelas
 cervelases
-cervelat
 cervelats
 cerveliere
 chirpling
@@ -27035,6 +27034,7 @@ counterpoints
 counterpoise
 contestable
 counterpoised
+cervelat
 ceriferous
 causability
 counterpoison
