@@ -3781,7 +3781,6 @@ emesa
 emeses
 emesis
 emetia
-emetic
 emetins
 easiness
 extrabulbar
@@ -3999,6 +3998,7 @@ emphatical
 endometritis
 emphemeralness
 emphysema
+emetic
 emphyteusis
 endobronchitis
 emphyteuta
