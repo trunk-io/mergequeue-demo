@@ -6205,7 +6205,6 @@ agitable
 agitant
 agitate
 agitated
-agitatedly
 agitation
 achillein
 agitational
@@ -19397,6 +19396,7 @@ arecas
 arecolidin
 atmolyzer
 arecolidine
+agitatedly
 arecolin
 arecoline
 arecuna
