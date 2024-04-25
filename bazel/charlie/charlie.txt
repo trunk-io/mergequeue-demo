@@ -926,7 +926,6 @@ calamander
 calamansi
 calamar
 calamary
-calamariaceae
 calamariaceous
 calamarian
 calamaries
@@ -17275,6 +17274,7 @@ coalternative
 coaltitude
 coambulant
 constrainers
+calamariaceae
 cinnamoned
 coamiable
 coaming
