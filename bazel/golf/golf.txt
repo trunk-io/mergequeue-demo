@@ -206,7 +206,6 @@ gager
 gagership
 gages
 gather
-gagged
 granadine
 gagger
 galyaks
@@ -10296,6 +10295,7 @@ gestalts
 granolith
 gynecologies
 gladiest
+gagged
 geosynchronous
 gobioidei
 gulancha

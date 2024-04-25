@@ -17572,7 +17572,6 @@ arbitrement
 applot
 apantesis
 airship
-apothegmatic
 apothegmatical
 apothegmatically
 apothegmatist
@@ -24193,6 +24192,7 @@ automat
 automata
 automatable
 apidae
+apothegmatic
 automated
 automates
 aphetism
