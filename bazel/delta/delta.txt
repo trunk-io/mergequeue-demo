@@ -2821,6 +2821,7 @@ desmogen
 dop
 decrement
 deflocculator
+dorsalward
 disharmonize
 decremental
 dactylioglyphy
@@ -15775,7 +15776,6 @@ dorsalgia
 dorsally
 decasualization
 dorsals
-dorsalward
 dorsalwards
 dorse
 dorsel
