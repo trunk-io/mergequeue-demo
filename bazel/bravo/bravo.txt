@@ -2962,6 +2962,7 @@ barricader
 barricaders
 bedplates
 barricado
+bigothero
 barricadoes
 brainsick
 bemazed
@@ -11058,7 +11059,6 @@ blackbreast
 blockier
 blockiest
 blockiness
-bigothero
 blocking
 benzimidazole
 blockish
