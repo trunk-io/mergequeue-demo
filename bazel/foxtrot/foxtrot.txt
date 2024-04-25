@@ -2679,7 +2679,6 @@ ferrule
 flowerbed
 finales
 farde
-ferruled
 ferruler
 ferrules
 federalese
@@ -10100,6 +10099,7 @@ frying
 frija
 formity
 frijole
+ferruled
 foraging
 fiercly
 frijolillo
