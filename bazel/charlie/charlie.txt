@@ -4389,7 +4389,6 @@ caryocaraceae
 caryocaraceous
 cariocas
 cariole
-cousin
 carioles
 carioling
 caryophyllaceae
@@ -21625,6 +21624,7 @@ condensates
 condensation
 condensator
 crateris
+cousin
 condense
 condensed
 condensedly
