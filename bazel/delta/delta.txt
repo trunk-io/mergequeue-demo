@@ -6142,7 +6142,6 @@ derating
 deration
 divvying
 duperies
-deratize
 deratized
 derats
 damozels
@@ -10015,6 +10014,7 @@ demethylchlortetracycline
 detailer
 dynactinometer
 dynagraph
+deratize
 depair
 dynam
 dynametric
