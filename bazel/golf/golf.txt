@@ -2081,7 +2081,6 @@ galician
 gnarrs
 gryphaea
 gaura
-gaure
 gouvernantes
 gaudily
 gaurian
@@ -9264,6 +9263,7 @@ gunfighters
 grogram
 grograms
 gouaches
+gaure
 gaeldom
 growed
 grail
