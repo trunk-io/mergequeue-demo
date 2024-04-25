@@ -3272,7 +3272,6 @@ defenselessness
 defenseman
 defensemen
 defenser
-defenses
 dolichostylous
 demonian
 defensibility
@@ -5360,6 +5359,7 @@ dentalize
 dentalized
 dentallia
 divisors
+defenses
 dentaphone
 dentary
 dentata
