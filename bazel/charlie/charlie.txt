@@ -8258,6 +8258,7 @@ chainon
 cultists
 chains
 chainsman
+couchantly
 chainsmen
 cleanups
 chainsmith
@@ -26570,7 +26571,6 @@ crosscurrented
 coucal
 couchancy
 couchant
-couchantly
 couths
 couchee
 coucher
