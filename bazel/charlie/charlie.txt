@@ -11546,6 +11546,7 @@ choirlike
 conoidally
 choristoma
 choirman
+colonizations
 ceratitoid
 choirmaster
 choirmasters
@@ -19336,7 +19337,6 @@ colonist
 chiromancer
 colonizable
 colonizationist
-colonizations
 colonize
 comminating
 colonizer
