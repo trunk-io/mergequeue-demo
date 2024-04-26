@@ -506,6 +506,7 @@ geomorphologic
 garveys
 gales
 galesaur
+geonoma
 gallants
 galesaurus
 garrya
@@ -3324,7 +3325,6 @@ gimels
 gerbillus
 grainedness
 gastornis
-geonoma
 goetical
 gerbils
 gere
