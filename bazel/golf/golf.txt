@@ -6210,7 +6210,6 @@ glossodynia
 gnathopodite
 gneissic
 grizelin
-gnathopodous
 gemmules
 gnathostomata
 gnathostome
@@ -9676,6 +9675,7 @@ grumble
 georgiana
 germinable
 grumbled
+gnathopodous
 grumbler
 grumbling
 grumblingly
