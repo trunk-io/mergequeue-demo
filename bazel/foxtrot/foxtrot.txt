@@ -773,7 +773,6 @@ flagships
 fandangos
 falconer
 fandoms
-fane
 fanegadas
 feudalizable
 fellowlike
@@ -2320,6 +2319,7 @@ fayalite
 fencelet
 fencepost
 fenceress
+fane
 fencers
 firebricks
 fsiest
