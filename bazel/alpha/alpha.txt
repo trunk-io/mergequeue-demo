@@ -2258,7 +2258,6 @@ achlorhydric
 achloropsia
 ammobium
 ararao
-actors
 achluophobia
 achmetha
 acholia
@@ -17483,6 +17482,7 @@ audiometer
 apostasis
 archineuron
 auguste
+actors
 autocollimator
 antiforeign
 apostate
