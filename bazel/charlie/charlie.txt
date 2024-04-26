@@ -4730,7 +4730,6 @@ cachinate
 carphology
 carphophis
 carphosiderite
-carpi
 carpid
 cogredient
 carpidium
@@ -31630,6 +31629,7 @@ cusconine
 crossbreeds
 cuscus
 cuscuses
+carpi
 cuscuta
 caeca
 cuscutaceae
