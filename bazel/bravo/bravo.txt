@@ -5248,7 +5248,6 @@ basification
 begani
 begar
 basaltic
-bighorn
 bicentenary
 bunkmate
 bilingualism
@@ -15218,6 +15217,7 @@ bridewort
 bedimplies
 bridge
 bridgeable
+bighorn
 bridgebote
 borofluoride
 bridgebuilder
