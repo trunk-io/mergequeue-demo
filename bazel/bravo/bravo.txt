@@ -2041,7 +2041,6 @@ bank
 barat
 bankalachi
 bankbooks
-bulanda
 basti
 bankcard
 bradenhead
@@ -16588,6 +16587,7 @@ buccopharyngeal
 bucculae
 belvidere
 bucculatrix
+bulanda
 bucentur
 beseemingness
 bobsledder
