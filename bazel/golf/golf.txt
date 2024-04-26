@@ -1449,7 +1449,6 @@ guitermanite
 galloner
 gervao
 gibier
-garlicwort
 garlion
 garlopa
 glycolic
@@ -5731,6 +5730,7 @@ glanis
 geologers
 gastralgic
 gars
+garlicwort
 glochidium
 glooms
 gloomth
