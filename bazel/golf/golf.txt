@@ -1807,7 +1807,6 @@ gastrojejunostomies
 gastrolater
 gravamina
 geckotid
-gearings
 grunted
 gramashes
 gastrolienal
@@ -7535,6 +7534,7 @@ gowlan
 gowning
 gownsman
 gravitation
+gearings
 gallflies
 gravamens
 gownsmen
