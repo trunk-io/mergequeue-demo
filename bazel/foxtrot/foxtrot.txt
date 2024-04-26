@@ -2970,7 +2970,6 @@ foreshows
 feuillants
 feuillemorte
 feuilleton
-feuilletonist
 feuilletons
 fleches
 flapcake
@@ -3507,6 +3506,7 @@ futtah
 forcepses
 forthbringer
 figureless
+feuilletonist
 figurer
 flocculous
 facebread
