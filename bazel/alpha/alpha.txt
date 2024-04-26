@@ -13704,6 +13704,7 @@ annuli
 annullable
 annullate
 annulled
+ascensional
 annuller
 annulling
 annulment
@@ -20994,7 +20995,6 @@ ascendingly
 ascends
 avgases
 ascension
-ascensional
 axiation
 ascensionist
 ascensions
