@@ -12690,7 +12690,6 @@ bemat
 bookroom
 bookseller
 berendo
-burliness
 becloaked
 backhatch
 boce
@@ -15654,6 +15653,7 @@ broccoli
 bangkoks
 broccolis
 broch
+burliness
 brochant
 brochantite
 bananaquit
