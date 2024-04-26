@@ -5336,6 +5336,7 @@ fleecy
 fastness
 furfooz
 floorwalkers
+forager
 fitchery
 filterable
 fling
@@ -7311,7 +7312,6 @@ forage
 facers
 fourgon
 fluttery
-forager
 formable
 ferromolybdenum
 forayed
