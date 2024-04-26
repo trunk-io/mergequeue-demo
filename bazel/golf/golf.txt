@@ -2201,7 +2201,6 @@ gazeboes
 gazebos
 gossipmongering
 grampus
-giller
 galla
 globosity
 gazeful
@@ -10377,6 +10376,7 @@ grein
 gillbird
 gulp
 glumose
+giller
 gulpers
 geepound
 gulph
