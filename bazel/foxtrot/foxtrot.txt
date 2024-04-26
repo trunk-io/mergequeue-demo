@@ -5893,7 +5893,6 @@ flooded
 flooder
 fichtean
 flooders
-floodgate
 floodgates
 fiercest
 familist
@@ -8080,6 +8079,7 @@ foresweat
 foreswore
 fumacious
 foret
+floodgate
 fractiousness
 foretackle
 flamandize
