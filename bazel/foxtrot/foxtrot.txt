@@ -961,7 +961,6 @@ fordays
 farandole
 fathomless
 farandoles
-faraway
 farawayness
 farced
 farcelike
@@ -4961,6 +4960,7 @@ framableness
 flappers
 flappet
 flappy
+faraway
 flapping
 flywire
 flumps
