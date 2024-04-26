@@ -4292,6 +4292,7 @@ enamelist
 equiped
 enamelless
 enamels
+encomia
 enami
 enamorado
 enamorate
@@ -4725,7 +4726,6 @@ equilibrator
 encomy
 extrospection
 enduro
-encomia
 epidosite
 encomiastic
 encomiastically
