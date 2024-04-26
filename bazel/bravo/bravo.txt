@@ -4149,6 +4149,7 @@ bestiaries
 bearance
 bearbaiter
 bedmaking
+blearedness
 barkevikite
 bearbane
 bearberry
@@ -10631,7 +10632,6 @@ bleakness
 bleaks
 browd
 bleared
-blearedness
 belt
 bleary
 blearyeyedness
