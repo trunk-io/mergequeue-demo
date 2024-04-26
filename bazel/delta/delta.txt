@@ -11327,7 +11327,6 @@ devaraja
 dalan
 discepted
 discepts
-discern
 discernable
 dammaret
 discerned
@@ -17706,6 +17705,7 @@ dually
 dualmutef
 dispense
 dualogue
+discern
 duals
 duan
 dunkard
