@@ -5010,7 +5010,6 @@ friulian
 folial
 flashes
 fishiest
-flashforward
 fubbing
 flashgun
 foulard
@@ -7723,6 +7722,7 @@ flipping
 foreignism
 footprints
 franchisement
+flashforward
 foreignly
 foreignness
 foreigns
