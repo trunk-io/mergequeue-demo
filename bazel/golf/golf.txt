@@ -8133,7 +8133,6 @@ graphemically
 gasconading
 graphemics
 gastroscopies
-graphical
 greenhorn
 graphically
 graphicalness
@@ -9529,6 +9528,7 @@ groved
 groveled
 goster
 groveler
+graphical
 groveless
 groveling
 grovelingly

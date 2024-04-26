@@ -4181,6 +4181,7 @@ delimiters
 delimiting
 displumed
 delimitize
+diphyletic
 delimitized
 delimitizing
 diplomyelia
@@ -17047,7 +17048,6 @@ dressmaking
 dressoir
 dressoirs
 drest
-diphyletic
 diglottism
 dretch
 drevel
