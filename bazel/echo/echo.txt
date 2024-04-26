@@ -4702,7 +4702,6 @@ encode
 existible
 encoded
 eremopteris
-exship
 encoding
 encodings
 encoffinment
@@ -11753,6 +11752,7 @@ evacuate
 exameter
 elasticizing
 exobiology
+exship
 examinable
 examinant
 exocannibalism

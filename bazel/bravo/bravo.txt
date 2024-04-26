@@ -2410,7 +2410,6 @@ betatter
 barcaroles
 becut
 barcarolle
-barcas
 barcella
 barcelona
 boxwork
@@ -16998,6 +16997,7 @@ biloculine
 bulbospinal
 bulbus
 bulbourethral
+barcas
 bulbous
 bulbously
 bulbs
