@@ -12220,6 +12220,7 @@ disfurnished
 dermatorrhoea
 deathshot
 disfurniture
+donax
 disgallant
 drillstock
 disgarnish
@@ -15480,7 +15481,6 @@ donator
 donatress
 dragees
 dollfish
-donax
 doncella
 debut
 doncy
