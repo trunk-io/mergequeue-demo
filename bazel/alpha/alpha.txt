@@ -2711,7 +2711,6 @@ auxoflore
 acquiet
 acquirable
 acquire
-acquired
 acquirement
 acquirers
 acquiring
@@ -18017,6 +18016,7 @@ apprehendable
 acetnaphthalide
 apprehended
 anaclisis
+acquired
 apprehending
 antelation
 awan
