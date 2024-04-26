@@ -9970,7 +9970,6 @@ chemosorb
 chemosorption
 chemosorptive
 chemosphere
-chemospheric
 christenhead
 collateral
 cancers
@@ -26910,6 +26909,7 @@ cyclomyarian
 counterimpulse
 counterindentation
 counterindented
+chemospheric
 counterindicate
 counterindication
 countermining
