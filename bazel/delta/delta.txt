@@ -2776,7 +2776,6 @@ decorators
 decore
 decorement
 decorist
-decorous
 doorplate
 decorously
 durum
@@ -7675,6 +7674,7 @@ deviancies
 dogcatcher
 deviant
 deviated
+decorous
 deviately
 dimissorial
 deploitation
