@@ -2763,7 +2763,6 @@ botryoidally
 baromacrometer
 boroughship
 barometers
-barometry
 barometric
 barometrically
 beelzebub
@@ -14163,6 +14162,7 @@ bradypepsia
 bradypeptic
 buckhorn
 bradyphagia
+barometry
 blemmyes
 bradyphasia
 bradyphemia
