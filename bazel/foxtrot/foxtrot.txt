@@ -2246,6 +2246,7 @@ feltmaking
 feltman
 foredeep
 felts
+forthtell
 forcipial
 feltwort
 flaggier
@@ -10129,7 +10130,6 @@ fungus
 frontopontine
 fortuneteller
 foliator
-forthtell
 florigen
 frimitts
 fringed
