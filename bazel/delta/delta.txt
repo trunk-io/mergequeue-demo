@@ -415,6 +415,7 @@ dairyings
 disobedient
 danite
 dairymaids
+dorsoanterior
 dairyman
 dairymen
 dairywoman
@@ -15812,7 +15813,6 @@ dorsiventral
 diggings
 depreciations
 dorsiventrally
-dorsoanterior
 dorsoapical
 dorsocaudad
 dorsocentral
