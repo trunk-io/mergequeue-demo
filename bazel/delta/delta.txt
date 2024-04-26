@@ -4972,7 +4972,6 @@ demonopolize
 demonry
 divines
 demonship
-demonstrability
 demonstrable
 destructing
 demonstrableness
@@ -13117,6 +13116,7 @@ diploidion
 directiveness
 dysphonia
 dysphonic
+demonstrability
 dispends
 dysphotic
 dysphrasia
