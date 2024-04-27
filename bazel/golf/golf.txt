@@ -6284,6 +6284,7 @@ grammar
 germiparity
 grammaticize
 glycosidic
+garters
 garibaldi
 goadlike
 goadsman
@@ -6838,7 +6839,6 @@ gamgee
 galatotrophic
 graptoloidea
 gonystylaceous
-garters
 gonystylus
 golliwogs
 gaffsail
