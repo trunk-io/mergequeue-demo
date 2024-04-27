@@ -9773,7 +9773,6 @@ bissextile
 bissextus
 byssiferous
 beslings
-borolanite
 bullbats
 balding
 botticellian
@@ -10459,6 +10458,7 @@ blaster
 blastful
 blastid
 blasting
+borolanite
 blastings
 blastman
 blastocarpous
