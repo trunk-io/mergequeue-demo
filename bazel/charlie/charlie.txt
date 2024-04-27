@@ -19558,7 +19558,6 @@ coltsfoot
 coltsfoots
 colubaria
 coluber
-colubrid
 colubridae
 colubriform
 colubrinae
@@ -21791,6 +21790,7 @@ conductive
 conductively
 conductivity
 conductivities
+colubrid
 counterwill
 conductometer
 cutization
