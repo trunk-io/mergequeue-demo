@@ -4196,7 +4196,6 @@ cardoons
 cardophagus
 cardosanto
 cardplaying
-cardroom
 clearwing
 carbamido
 chauffeur
@@ -5426,6 +5425,7 @@ castrensial
 castrensian
 castrum
 casualism
+cardroom
 casualist
 cryptoanalytics
 casually
