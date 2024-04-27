@@ -4750,7 +4750,6 @@ gentility
 gadzooks
 gowkit
 gumfield
-gyromele
 gameful
 groszy
 gasconade
@@ -8334,6 +8333,7 @@ gratin
 gratingly
 gymnoglossa
 gratings
+gyromele
 gratins
 gustily
 gonimoblast
