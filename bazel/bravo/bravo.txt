@@ -3003,7 +3003,6 @@ bartending
 bartends
 baggywrinkle
 barter
-blighting
 barterers
 bartering
 barters
@@ -4522,6 +4521,7 @@ becombed
 builders
 bestuur
 becomed
+blighting
 becomes
 becometh
 becomingness
