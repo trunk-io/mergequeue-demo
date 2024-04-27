@@ -11379,7 +11379,6 @@ blurred
 blueline
 bluelines
 bluenose
-bionic
 burros
 bluenosed
 bluenoser
@@ -15224,6 +15223,7 @@ bridgeless
 bridgemaking
 bridgemaster
 bacterization
+bionic
 bridgeport
 bridgepot
 benediction
