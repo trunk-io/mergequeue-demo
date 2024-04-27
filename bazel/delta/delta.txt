@@ -3173,7 +3173,6 @@ dual
 duringly
 defaultant
 defaulted
-diamyl
 defaultless
 defaults
 defaulture
@@ -15212,6 +15211,7 @@ dollarleaf
 dollars
 dollarwise
 dollbeer
+diamyl
 dolldom
 dolled
 dehull
