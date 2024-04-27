@@ -9395,6 +9395,7 @@ escapage
 eruptible
 erupting
 eruption
+elevator
 erasing
 eruptional
 ellen
@@ -12556,7 +12557,6 @@ eventless
 enplanes
 escaloped
 euaster
-elevator
 electicism
 exines
 exing
