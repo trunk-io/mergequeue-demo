@@ -5957,6 +5957,7 @@ greywacke
 gnawable
 geaster
 glucagon
+gladify
 guarea
 glucagons
 gate
@@ -8005,7 +8006,6 @@ geneserine
 granivore
 grank
 grannam
-gladify
 gasiform
 grannybush
 galempong
