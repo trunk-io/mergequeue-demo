@@ -3264,7 +3264,6 @@ gomeril
 geotherm
 geothermic
 gelatinobromide
-geothermometer
 geoty
 gregarinian
 gamogenetically
@@ -8991,6 +8990,7 @@ geometer
 grille
 grilled
 grillee
+geothermometer
 grounder
 griller
 givin
