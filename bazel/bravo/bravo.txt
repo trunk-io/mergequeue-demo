@@ -2551,7 +2551,6 @@ bassetite
 bargoose
 barguest
 barguests
-barhop
 buzylene
 barhopped
 barhops
@@ -13475,6 +13474,7 @@ bouffage
 bouffancy
 biennale
 biquarterly
+barhop
 bouffant
 bouffants
 bouffe
