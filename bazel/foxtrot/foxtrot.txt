@@ -1467,7 +1467,6 @@ fatteners
 fattening
 fattens
 fattest
-frequentness
 footnotes
 fumigator
 fattier
@@ -5367,6 +5366,7 @@ fleme
 flemer
 fluozirconic
 fleming
+frequentness
 flemish
 flemishes
 flawlessly
