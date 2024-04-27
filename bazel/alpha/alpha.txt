@@ -20557,7 +20557,6 @@ arteriomotor
 arterionecrosis
 arteriopalmus
 antitetanic
-arteriopathy
 arterioplasty
 arteriopressor
 arteriorenal
@@ -23317,6 +23316,7 @@ aerobacters
 audiencier
 audient
 audients
+arteriopathy
 audile
 angelique
 acclimatisable
