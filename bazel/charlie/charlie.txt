@@ -24939,7 +24939,6 @@ corbeau
 ciruses
 corbed
 corbeil
-corbeille
 corbeils
 corbeled
 corbelled
@@ -26770,6 +26769,7 @@ counterbrand
 counterbreastwork
 counterbuff
 counterbuilding
+corbeille
 countercathexis
 countercause
 counterchange

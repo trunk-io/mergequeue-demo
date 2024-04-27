@@ -2403,7 +2403,6 @@ electrogilt
 ejecting
 electrogram
 electrography
-electrographic
 eudyptes
 electrographite
 elytrtra
@@ -10296,6 +10295,7 @@ ethicals
 evicts
 ethician
 executer
+electrographic
 ethicians
 ectrodactylous
 ethicize
