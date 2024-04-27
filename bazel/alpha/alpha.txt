@@ -1207,7 +1207,6 @@ antiformant
 acadialite
 acadian
 acadie
-acaena
 achimenes
 alkalifies
 acajou
@@ -8999,6 +8998,7 @@ allose
 allosematic
 allosyndesis
 allosyndetic
+acaena
 allosome
 allosteric
 angekkok

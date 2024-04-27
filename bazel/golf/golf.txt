@@ -3119,7 +3119,6 @@ gempylid
 guidwilly
 geologized
 glosses
-geomagnetic
 gallinacei
 glassed
 gurgle
@@ -10729,6 +10728,7 @@ gerendum
 gustoes
 goodyism
 gustoish
+geomagnetic
 gerald
 gustoso
 gut
