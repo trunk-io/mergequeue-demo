@@ -3456,7 +3456,6 @@ bastiment
 bastinaded
 bastinades
 baroi
-berend
 burbots
 bastinado
 bastinadoed
@@ -9324,6 +9323,7 @@ bottonhook
 brisque
 bullfrogs
 biplanar
+berend
 biplane
 bobolink
 biplanes
