@@ -3418,7 +3418,6 @@ grubbers
 galianes
 germfree
 germicides
-gropes
 gullion
 germier
 glomeruli
@@ -8210,6 +8209,7 @@ graspingness
 graspless
 grassant
 grassbird
+gropes
 glossographical
 grasschat
 greyness
