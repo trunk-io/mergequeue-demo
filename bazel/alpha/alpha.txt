@@ -15943,7 +15943,6 @@ antipyrotic
 antiplague
 antiplanet
 antiplastic
-almeries
 antiplatelet
 antipleion
 apolaustic
@@ -24052,6 +24051,7 @@ autoecism
 autoecous
 affinage
 autoed
+almeries
 autoelectrolysis
 autoelectrolytic
 autoelevation
