@@ -2074,7 +2074,6 @@ frontspiece
 filacer
 feinter
 feudary
-forestlike
 facedown
 feinting
 feis
@@ -9177,6 +9176,7 @@ fameuse
 forepoint
 floristry
 forelive
+forestlike
 festivities
 filbert
 frabjous
