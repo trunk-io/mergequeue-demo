@@ -5452,7 +5452,6 @@ conductances
 casuistries
 casule
 casus
-caswellite
 cat
 catabaptist
 catabases
@@ -12528,6 +12527,7 @@ chromized
 clavatin
 chromizes
 chromizing
+caswellite
 chromobacterieae
 cagmag
 chromoblast
