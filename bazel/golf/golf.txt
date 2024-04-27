@@ -8189,6 +8189,7 @@ grapple
 grappler
 grapples
 gawks
+griefs
 goas
 gallah
 genonema
@@ -8930,7 +8931,6 @@ griefful
 ganglier
 giveaway
 grieffully
-griefs
 greedy
 grivoise
 grievable
