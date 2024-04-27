@@ -5502,6 +5502,7 @@ deodar
 demodulate
 deodorants
 dermosynovitis
+dependencies
 deodorisation
 disprovement
 deodorise
@@ -5642,7 +5643,6 @@ dependantly
 depended
 dependence
 dependency
-dependencies
 depending
 dependingly
 depends
