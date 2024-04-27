@@ -71,7 +71,6 @@ facellite
 fourhanded
 forementioned
 facemaker
-funmaker
 fullfaces
 facemark
 feuter
@@ -8849,6 +8848,7 @@ fossillike
 foozles
 formly
 fossilogy
+funmaker
 flash
 fettstein
 femalely
