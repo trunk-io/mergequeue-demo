@@ -6575,6 +6575,7 @@ cebidae
 chlorophyllan
 cebil
 ceboids
+chondritis
 cebollite
 cebur
 cebus
@@ -11793,7 +11794,6 @@ chondriosphere
 ceresin
 chondrites
 chondritic
-chondritis
 chondroadenoma
 chondroalbuminoid
 chondroangioma
