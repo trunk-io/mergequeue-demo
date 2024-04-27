@@ -2971,7 +2971,6 @@ facier
 formulary
 freezed
 feverberry
-feverberries
 farcilite
 fidgetiness
 freeing
@@ -8138,6 +8137,7 @@ farcify
 forevow
 fruitages
 forewarmer
+feverberries
 flourishable
 forewarns
 foreween
