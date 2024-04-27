@@ -1621,7 +1621,6 @@ gasman
 gasmen
 gasmetophytic
 gasogen
-gasogene
 gandermooner
 gasohol
 gasolene
@@ -8339,6 +8338,7 @@ gonimoblast
 grubble
 gratiolin
 grattage
+gasogene
 garial
 gratten
 gratters
