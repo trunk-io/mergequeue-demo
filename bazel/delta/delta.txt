@@ -5280,7 +5280,6 @@ denominatively
 denominators
 denormalized
 denotable
-denotate
 denotation
 denotative
 deliriums
@@ -10484,6 +10483,7 @@ damask
 devinct
 disobliging
 data
+denotate
 diphonia
 daredevil
 dismiss
