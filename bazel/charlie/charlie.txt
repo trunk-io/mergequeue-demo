@@ -28819,7 +28819,6 @@ counterbalance
 congrue
 comparator
 crestal
-crested
 crestfallen
 crestfallenly
 churchwards
@@ -30166,6 +30165,7 @@ colmar
 cruentation
 cruentous
 caneton
+crested
 cruet
 cruety
 creepie
