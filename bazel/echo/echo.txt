@@ -2294,6 +2294,7 @@ electrochronometer
 equison
 electrochronometric
 electroplating
+electroplates
 ejam
 epiphenomenal
 ephemerality
@@ -2551,7 +2552,6 @@ electrophrenic
 electropyrometer
 enthrall
 electroplater
-electroplates
 europocentric
 electropolish
 electropower
