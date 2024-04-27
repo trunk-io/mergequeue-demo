@@ -2591,6 +2591,7 @@ electrosmosis
 electrostatic
 electrostatical
 electrosteel
+enfollow
 electrostenolysis
 eluants
 electrostenolytic
@@ -5539,7 +5540,6 @@ enfoldings
 enfoldment
 elevators
 enfolds
-enfollow
 enfoncee
 ephemerae
 excusers
