@@ -7803,7 +7803,6 @@ gyres
 gramineal
 graminiform
 gynaeocracy
-graminivore
 gravitational
 grovy
 graminological
@@ -10349,6 +10348,7 @@ gabbros
 gullets
 gully
 graveless
+graminivore
 granulomas
 gossypol
 gullied
