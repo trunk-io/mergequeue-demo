@@ -6607,7 +6607,6 @@ fullness
 foaminess
 foaming
 foamless
-flacks
 floodway
 foamlike
 foams
@@ -11525,6 +11524,7 @@ fjarding
 furzy
 faunus
 farandine
+flacks
 firehouses
 fundamentalness
 furzier
