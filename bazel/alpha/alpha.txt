@@ -3696,6 +3696,7 @@ adenochondroma
 adenochondrosarcoma
 adenochrome
 adenocyst
+apts
 adenocystoma
 antepectoral
 adenocystomatous
@@ -18240,7 +18241,6 @@ aptnesses
 apokreos
 aptote
 aptotic
-apts
 apulian
 artocarpus
 attesters
