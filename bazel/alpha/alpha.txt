@@ -2311,7 +2311,6 @@ achromatizing
 achromatocyte
 achromatolysis
 achromatope
-achromatophil
 achromatophile
 achromatophilia
 achromatophilic
@@ -21676,6 +21675,7 @@ assecution
 assegai
 assegaied
 acaudal
+achromatophil
 assegaiing
 americanized
 assegaing
