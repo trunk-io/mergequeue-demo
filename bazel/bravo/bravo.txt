@@ -2800,6 +2800,7 @@ bassets
 baudrons
 bowlers
 baronial
+burying
 baronies
 baronize
 baronized
@@ -7242,7 +7243,6 @@ bathylitic
 bullated
 beanfest
 breastband
-burying
 bestay
 bestayed
 bestamp
