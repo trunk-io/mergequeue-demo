@@ -540,7 +540,6 @@ fall
 fissirostral
 falla
 feltlike
-foretalk
 flyability
 fallage
 fallals
@@ -5129,6 +5128,7 @@ flaunters
 fitting
 fractural
 flappier
+foretalk
 flaunty
 flatlet
 fakeries
