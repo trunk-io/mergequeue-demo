@@ -15859,7 +15859,6 @@ claxon
 claxons
 clead
 cleaded
-cleading
 cleam
 cleamer
 clean
@@ -18671,6 +18670,7 @@ conversance
 coypus
 coirs
 coislander
+cleading
 coistrel
 coistril
 coistrils
