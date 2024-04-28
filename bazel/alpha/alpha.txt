@@ -12684,7 +12684,6 @@ angara
 autophonoscope
 appetizement
 angarep
-angary
 armstrong
 angaria
 angarias
@@ -21567,6 +21566,7 @@ affenspalte
 asplenioid
 adsorbs
 asplenium
+angary
 arthrempyesis
 allegorist
 asporogenic
