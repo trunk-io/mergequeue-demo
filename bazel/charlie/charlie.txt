@@ -16048,7 +16048,6 @@ clericate
 clericature
 cointension
 clericism
-clerics
 clericum
 clerid
 comfrey
@@ -20211,6 +20210,7 @@ caramelization
 cerigerous
 commodata
 commodate
+clerics
 commodation
 capmint
 caoutchouc
