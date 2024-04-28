@@ -1539,6 +1539,7 @@ deadfalls
 dim
 deadhearted
 deadheartedly
+diagenetic
 deadheartedness
 diatropism
 deady
@@ -8252,7 +8253,6 @@ deceivableness
 diaetetae
 dimerlie
 diagenesis
-diagenetic
 diageotropy
 diageotropic
 diaglyphic
