@@ -3330,6 +3330,7 @@ basketfuls
 bathers
 basketing
 basketlike
+bathymetric
 basketmaker
 basketmaking
 biotope
@@ -3585,7 +3586,6 @@ bathymeter
 blithesomeness
 bathymetry
 behn
-bathymetric
 bathymetrical
 bathinette
 bathing
