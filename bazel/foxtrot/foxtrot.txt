@@ -7246,7 +7246,6 @@ fakeers
 frozenness
 floorboards
 footstall
-footstick
 footstock
 fortlet
 fellowred
@@ -9246,6 +9245,7 @@ foreorder
 falseheartedness
 fragging
 filenames
+footstick
 fixive
 fanaloka
 fraggings
