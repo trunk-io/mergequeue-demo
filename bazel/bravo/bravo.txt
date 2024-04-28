@@ -3561,7 +3561,6 @@ bathhouse
 bathhouses
 braggest
 bathybius
-bathic
 becudgel
 bathycentesis
 bunyas
@@ -18211,6 +18210,7 @@ butleries
 borages
 butlerism
 butlerlike
+bathic
 butlers
 butlership
 briefest
