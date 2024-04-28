@@ -3913,7 +3913,6 @@ cameist
 carburetting
 carburettor
 carburisation
-carburise
 carburised
 contributed
 creatine
@@ -31019,6 +31018,7 @@ connectionless
 cundum
 cundums
 cundurango
+carburise
 cunea
 cuneal
 cuneately
