@@ -7163,7 +7163,6 @@ centimetre
 cashmerette
 centimetres
 centimo
-centimolar
 centimos
 centinel
 centinormal
@@ -23729,6 +23728,7 @@ contragredient
 contrayerva
 contrail
 contrails
+centimolar
 contraindicant
 contraindicate
 ciliospinal
