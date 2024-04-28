@@ -3188,7 +3188,6 @@ fibrositis
 fibrospongiae
 fibrotuberculosis
 farreate
-fibrous
 fibrously
 fibrousness
 fibrovascular
@@ -11644,6 +11643,7 @@ fustians
 fustics
 fustigated
 fixable
+fibrous
 ficoes
 foggily
 fustigating
