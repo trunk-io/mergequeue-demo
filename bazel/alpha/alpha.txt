@@ -20850,6 +20850,7 @@ artware
 artwork
 artworks
 aru
+attires
 aruac
 arugula
 arugulas
@@ -23141,7 +23142,6 @@ attirail
 anisognathous
 attired
 attirer
-attires
 autosuggestions
 attitudinal
 attitudinarian
