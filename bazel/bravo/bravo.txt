@@ -11591,6 +11591,7 @@ boatings
 bavarian
 beatus
 boation
+bombyciform
 boatkeeper
 bittacle
 boatless
@@ -12284,7 +12285,6 @@ bombycids
 birdfarms
 bristler
 bantered
-bombyciform
 bombycine
 bombidae
 bombilate
