@@ -1335,7 +1335,6 @@ botrylle
 bulgarian
 balbusard
 butterbump
-balconet
 balconette
 bag
 balcony
@@ -3619,6 +3618,7 @@ batholith
 bibliomaniacal
 batholithic
 batholiths
+balconet
 bankeress
 batholitic
 blinded
