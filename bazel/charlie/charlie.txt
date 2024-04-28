@@ -5541,6 +5541,7 @@ catalina
 contentful
 catalinite
 catalyse
+cofactor
 catalyses
 catalysis
 catalyst
@@ -18227,7 +18228,6 @@ coextends
 coextension
 creep
 coextent
-cofactor
 cofactors
 cofane
 cofaster
