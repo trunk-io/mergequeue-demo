@@ -4035,7 +4035,6 @@ atavisms
 adjudications
 agglutinin
 adjudicative
-adjudicator
 asiaticization
 adjudicatory
 antistrophically
@@ -11811,6 +11810,7 @@ arcuately
 analyze
 analyzed
 analyzers
+adjudicator
 analyzes
 analyzing
 analkalinity
