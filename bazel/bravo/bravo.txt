@@ -10805,7 +10805,6 @@ blesbuck
 blesbucks
 blesmol
 branniest
-bless
 blesse
 bedward
 blessed
@@ -12379,6 +12378,7 @@ bondage
 besugo
 bondager
 bondages
+bless
 bondar
 bonder
 bockerel
