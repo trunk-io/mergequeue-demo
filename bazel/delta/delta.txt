@@ -5470,7 +5470,6 @@ denuder
 dialysation
 denudes
 downtrend
-denumberment
 denaturiser
 denumerability
 denumerable
@@ -16003,6 +16002,7 @@ douane
 doub
 decrepitude
 double
+denumberment
 demos
 doubleganger
 doublehanded
