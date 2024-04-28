@@ -1033,7 +1033,6 @@ bail
 blindages
 bailable
 bayldonite
-bretons
 baile
 boucherize
 bailee
@@ -5946,6 +5945,7 @@ becobweb
 bluer
 bellweather
 bellweed
+bretons
 bellwether
 bellwind
 bellwine

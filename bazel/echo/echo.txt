@@ -3554,7 +3554,6 @@ embowing
 embows
 embox
 egeria
-eloquence
 eluvium
 estantion
 embrace
@@ -13518,6 +13517,7 @@ exsolving
 elegancies
 epochs
 entosclerite
+eloquence
 exspuition
 eupractic
 exstemporaneous
