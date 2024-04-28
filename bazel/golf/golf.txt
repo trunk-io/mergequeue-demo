@@ -4122,7 +4122,6 @@ gazetteerage
 gillian
 gillie
 glumiflorae
-grinderies
 gelatines
 grimy
 gilliflower
@@ -8168,6 +8167,7 @@ graphophone
 graphophonic
 graphoscope
 gulpin
+grinderies
 graphostatic
 graphostatics
 graphotype
