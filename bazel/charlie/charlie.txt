@@ -16744,7 +16744,6 @@ clothing
 clothings
 catharpin
 cloths
-clothworker
 cellulipetally
 crimpling
 clots
@@ -18897,6 +18896,7 @@ collaborationists
 collaborations
 collaborative
 collaboratively
+clothworker
 collaborativeness
 claw
 collaborator
