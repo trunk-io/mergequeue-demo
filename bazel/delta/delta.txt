@@ -5617,6 +5617,7 @@ departs
 demicolumn
 depascent
 depass
+derere
 delphinoid
 digested
 disrepute
@@ -16127,7 +16128,6 @@ depicts
 destructively
 dirges
 dourer
-derere
 dourest
 deraign
 drear
