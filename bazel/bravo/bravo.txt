@@ -8370,6 +8370,7 @@ balaenid
 bigamized
 bigamizing
 bygane
+burstiness
 byganging
 bigarade
 bigarades
@@ -17884,7 +17885,6 @@ bursitos
 burst
 burster
 bursty
-burstiness
 burstone
 bursts
 botein
