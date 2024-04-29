@@ -6994,7 +6994,6 @@ beshadowing
 beauxite
 biplosive
 beshag
-burga
 boatbill
 baselessness
 beshake
@@ -7926,6 +7925,7 @@ bibles
 bohmite
 bibless
 bipunctal
+burga
 biblical
 biblicality
 biblicism
