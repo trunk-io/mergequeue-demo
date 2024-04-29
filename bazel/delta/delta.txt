@@ -7159,7 +7159,6 @@ desulfurs
 desulphur
 desulphurate
 desulphurating
-desulphuret
 delatorian
 desulphurised
 dysgnosia
@@ -13681,6 +13680,7 @@ dissite
 dealation
 disslander
 defects
+desulphuret
 dopamelanin
 dyssnite
 dissociable
