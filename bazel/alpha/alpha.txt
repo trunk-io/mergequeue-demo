@@ -12790,7 +12790,6 @@ angiocarpic
 angiocarpous
 angiocavernous
 angiocholecystitis
-angiocholitis
 angiochondroma
 angiodermatitis
 angiodiascopy
@@ -15501,6 +15500,7 @@ antilocapra
 aspersorium
 antilochus
 anaglypton
+angiocholitis
 antilogic
 atropinize
 antilogies
