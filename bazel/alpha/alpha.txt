@@ -10288,7 +10288,6 @@ anticheater
 amenableness
 amenably
 amenance
-amend
 amendableness
 amici
 amydon
@@ -21672,6 +21671,7 @@ anagua
 assecure
 assecution
 assegai
+amend
 assegaied
 acaudal
 achromatophil

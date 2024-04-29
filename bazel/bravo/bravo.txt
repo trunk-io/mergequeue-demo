@@ -3753,7 +3753,6 @@ batting
 battings
 battledores
 baldly
-boyar
 barotraumata
 battledoring
 borehole
@@ -14511,6 +14510,7 @@ brandishes
 brandisite
 backwrap
 brandywine
+boyar
 brandle
 brandless
 banda
