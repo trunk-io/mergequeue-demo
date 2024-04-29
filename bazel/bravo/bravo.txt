@@ -1299,7 +1299,6 @@ balanta
 bottine
 balante
 balantidic
-balantidiosis
 beamage
 balantidium
 ballium
@@ -15280,6 +15279,7 @@ briered
 brainwasher
 brierroot
 bries
+balantidiosis
 bonnetless
 brieve
 birthstone
