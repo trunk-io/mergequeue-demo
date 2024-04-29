@@ -15479,6 +15479,7 @@ donatives
 donator
 donatress
 dragees
+decolorise
 dollfish
 doncella
 debut
@@ -17571,7 +17572,6 @@ drugstores
 druidess
 druidic
 druidical
-decolorise
 denumeral
 dissemilative
 druidisms
