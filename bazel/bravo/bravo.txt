@@ -1976,7 +1976,6 @@ bangalow
 bombard
 blastogranitic
 bangash
-bangboard
 bentiness
 bange
 banger
@@ -4664,6 +4663,7 @@ bebannered
 bedecking
 bewormed
 bedecks
+bangboard
 bedegar
 bankfull
 bedeguar
