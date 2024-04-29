@@ -5705,6 +5705,7 @@ englobe
 englobed
 exophagous
 englobing
+exosmic
 entrail
 engloom
 englut
@@ -8220,7 +8221,6 @@ epistylis
 exulcerate
 emetocathartic
 epistle
-exosmic
 enweave
 eleostearate
 epistler
