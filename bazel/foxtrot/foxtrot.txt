@@ -5360,7 +5360,6 @@ frequentness
 flemish
 flemishes
 flawlessly
-flus
 flensed
 flenser
 flensers
@@ -5935,6 +5934,7 @@ fluidrachm
 floorward
 floorwise
 fabes
+flus
 floosy
 floozy
 filicide
