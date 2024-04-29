@@ -5957,7 +5957,6 @@ beloam
 belock
 blousy
 beloeilite
-beloid
 bredstitch
 basimesostasis
 belomancy
@@ -12074,6 +12073,7 @@ banshees
 boldfacing
 batodendron
 boldhearted
+beloid
 boldheartedly
 becovet
 boldin
