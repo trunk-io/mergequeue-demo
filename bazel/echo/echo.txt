@@ -2284,6 +2284,7 @@ electrocapillary
 electrocapillarity
 electrocardiogram
 electrocardiograms
+epacme
 electrocardiograph
 electrocardiographic
 electrocardiographically
@@ -10016,7 +10017,6 @@ estivating
 exterminations
 estivator
 emgalla
-epacme
 estocada
 ervil
 extensionist
