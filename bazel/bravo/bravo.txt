@@ -12685,7 +12685,6 @@ bookracks
 baronry
 bookrest
 bookrests
-bemat
 bookroom
 bookseller
 berendo
@@ -13260,6 +13259,7 @@ brachioradialis
 botanizes
 botanizing
 botanomancy
+bemat
 bradburya
 botanophilist
 bobotee
