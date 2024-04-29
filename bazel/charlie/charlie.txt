@@ -143,6 +143,7 @@ cableless
 cablelike
 cableman
 cablemen
+chryseis
 cables
 cablese
 cablet
@@ -12244,7 +12245,6 @@ chrysaor
 chrysarobin
 cont
 chrysazol
-chryseis
 crateral
 chryselectrum
 chryselephantine
