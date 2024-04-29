@@ -6248,6 +6248,7 @@ faldage
 fluidisation
 fld
 fooder
+fluxer
 fluorocarbons
 forewisdom
 fallal
@@ -8213,7 +8214,6 @@ forgeable
 forgery
 forges
 flunkeyistic
-fluxer
 frohlich
 forgetful
 forgetfully

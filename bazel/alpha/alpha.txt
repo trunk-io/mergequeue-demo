@@ -1005,6 +1005,7 @@ analcites
 absorptional
 actinopoda
 anaesthatic
+addossed
 absorptive
 absorptiveness
 absorptivity
@@ -3584,7 +3585,6 @@ addnl
 acknowledgements
 addoom
 abracadabra
-addossed
 addr
 address
 addressability
