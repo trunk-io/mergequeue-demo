@@ -260,7 +260,6 @@ fade
 forgivers
 fadednyess
 foetors
-fadeless
 faden
 fadeout
 fader
@@ -4967,6 +4966,7 @@ flare
 footbeat
 flareback
 foramens
+fadeless
 ferments
 firnification
 fragmentitious
