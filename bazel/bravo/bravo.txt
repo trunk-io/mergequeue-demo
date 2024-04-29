@@ -2060,6 +2060,7 @@ banknote
 badaud
 bristly
 banknotes
+blobbing
 bologna
 bankrider
 brachycome
@@ -11351,7 +11352,6 @@ boathouses
 bluecurls
 blued
 bluefin
-blobbing
 bertin
 bluefins
 bluegill
