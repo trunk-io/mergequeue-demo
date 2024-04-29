@@ -6454,7 +6454,6 @@ cavelike
 caveman
 cavemen
 caver
-complimenters
 cavern
 cavernal
 caverned
@@ -8964,6 +8963,7 @@ cobwebbier
 characterisable
 cellularity
 claviol
+complimenters
 criticised
 characterise
 characterised
