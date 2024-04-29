@@ -8590,7 +8590,6 @@ alkin
 alkine
 atimy
 alkyne
-alkynes
 alkitran
 argufy
 alkool
@@ -11673,6 +11672,7 @@ attempts
 anaesthetize
 anaesthetized
 anaesthetizer
+alkynes
 arbalester
 anaetiological
 anagalactic
