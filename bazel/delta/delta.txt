@@ -13879,7 +13879,6 @@ distinctor
 distingue
 distinguee
 distinguishability
-distinguishable
 distinguishableness
 distinguishably
 distinguishedly
@@ -16057,6 +16056,7 @@ doubtless
 doubtlessly
 doubtous
 doubts
+distinguishable
 doubtsome
 darbyism
 douc
