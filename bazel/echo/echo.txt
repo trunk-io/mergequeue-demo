@@ -6592,7 +6592,6 @@ easterliness
 enterocolitis
 enterocolostomy
 enterodynia
-epitheliomata
 eructate
 enteroepiplocele
 enterogastrone
@@ -13215,6 +13214,7 @@ explicitly
 evangelicism
 executive
 explicitness
+epitheliomata
 explicits
 eurylaimidae
 explida
