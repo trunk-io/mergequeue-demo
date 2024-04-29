@@ -4864,7 +4864,6 @@ estuate
 electrotautomerism
 endangeitis
 endanger
-endangerment
 endangitis
 endangium
 endaortic
@@ -9263,6 +9262,7 @@ erotylidae
 erotisms
 electropneumatic
 erotization
+endangerment
 epistome
 erotize
 erotogenesis
