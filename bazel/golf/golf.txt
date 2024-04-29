@@ -2721,7 +2721,6 @@ generators
 generatrices
 generic
 gabeler
-genericness
 glaumrie
 glabbella
 gorbellied
@@ -4806,6 +4805,7 @@ gisant
 gynomonecious
 gisants
 gandhi
+genericness
 gise
 galempung
 gibberish
