@@ -791,6 +791,7 @@ elisions
 electrophotography
 ectasia
 ectasis
+ectomesoblast
 ectatic
 exequies
 ectental
@@ -859,7 +860,6 @@ electros
 ectognatha
 entailed
 ectolecithal
-ectomesoblast
 ectomorph
 ectomorphic
 ectonephridium
