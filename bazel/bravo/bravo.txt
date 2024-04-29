@@ -3812,6 +3812,7 @@ battutos
 batuque
 blastomeric
 batwing
+beswitch
 batwoman
 batwomen
 bishopship
@@ -16049,7 +16050,6 @@ birled
 bedriddenness
 brookier
 brookite
-beswitch
 brooklets
 brooklike
 batyphone
