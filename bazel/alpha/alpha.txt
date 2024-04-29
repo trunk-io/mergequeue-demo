@@ -3715,7 +3715,6 @@ adenographical
 adenohypersthenia
 adenohypophyseal
 adenohypophysial
-attrib
 adenoidal
 adenoidectomy
 adenoidectomies
@@ -21446,6 +21445,7 @@ asperifoliate
 asperite
 asperity
 asperities
+attrib
 asperly
 atactiform
 aerologic
