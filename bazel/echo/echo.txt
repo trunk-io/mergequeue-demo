@@ -1771,7 +1771,6 @@ eyesalve
 eyeseed
 eyeservant
 enfranchisement
-eyeserver
 eyeservice
 eyeshade
 eyeshield
@@ -12632,6 +12631,7 @@ exocoelum
 exocoetus
 exocone
 eumeromorph
+eyeserver
 endokaryogamy
 exocrines
 ellagitannin

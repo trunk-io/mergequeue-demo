@@ -9885,7 +9885,6 @@ banderols
 bitmap
 bimbos
 bitmapped
-bitnet
 bito
 baubee
 bicalvous
@@ -12430,6 +12429,7 @@ bonefishes
 boneflower
 bunkhouse
 broodier
+bitnet
 buttes
 boney
 boneyards
