@@ -24825,6 +24825,7 @@ compare
 contumax
 coquillage
 coquille
+crosiers
 coquilles
 coquimbite
 coquinas
@@ -29801,7 +29802,6 @@ croset
 crosette
 cocainizing
 crosiered
-crosiers
 crosnes
 cross
 crossability
