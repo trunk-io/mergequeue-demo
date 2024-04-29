@@ -1254,7 +1254,6 @@ bardie
 balanceable
 bafflements
 bluejays
-balancedness
 balancelle
 balancement
 brandishing
@@ -5069,6 +5068,7 @@ beewise
 bef
 bodying
 bisphenoid
+balancedness
 bibliothec
 brawest
 buttonmould

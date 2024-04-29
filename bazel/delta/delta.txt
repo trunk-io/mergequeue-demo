@@ -5809,7 +5809,6 @@ debater
 depolymerization
 depolymerize
 dipneedle
-depolymerized
 depolish
 davened
 depolished
@@ -11277,6 +11276,7 @@ dystrophy
 disbursing
 drylot
 defervesce
+depolymerized
 dibromid
 disc
 discabinet
