@@ -3923,6 +3923,7 @@ contributed
 creatine
 carburiser
 carburization
+casemated
 carburize
 carburized
 carburizer
@@ -5146,7 +5147,6 @@ caseloads
 caselty
 casemaker
 casemaking
-casemated
 casemates
 casemented
 casements
