@@ -7861,7 +7861,6 @@ forereckon
 forerehearsed
 forerequest
 foreribs
-forerigging
 foredates
 flannelbush
 forerun
@@ -7996,6 +7995,7 @@ forestalling
 forestalls
 forestalment
 funerals
+forerigging
 foss
 forestation
 flexional
