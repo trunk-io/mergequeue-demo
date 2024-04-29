@@ -5889,7 +5889,6 @@ glottalized
 glottalizing
 guesstimates
 glottid
-glottidean
 glottides
 galeenies
 galvanocontractility
@@ -8413,6 +8412,7 @@ guaranteed
 gashed
 graveling
 gravelish
+glottidean
 geldant
 genecologist
 gravelled

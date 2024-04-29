@@ -22823,7 +22823,6 @@ consensuses
 consentable
 consentaneity
 consentaneous
-consentaneously
 consentaneousness
 cuvette
 cabinetwork
@@ -31211,6 +31210,7 @@ curates
 curatess
 curatial
 curatic
+consentaneously
 cliency
 curation
 cutworks
