@@ -3261,7 +3261,6 @@ elbowboard
 emandibulate
 eelback
 emane
-emanium
 emarginated
 elzevirian
 eucalyptian
@@ -11650,6 +11649,7 @@ electrotechnology
 evulsion
 evulsions
 ewe
+emanium
 ewerer
 ewery
 ewes
