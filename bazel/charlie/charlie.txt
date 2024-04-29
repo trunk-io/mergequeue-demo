@@ -2771,7 +2771,6 @@ congealer
 canonicalness
 canonicals
 canonicate
-calashes
 canonics
 canonisation
 canonise
@@ -11933,6 +11932,7 @@ choragic
 choragion
 choragus
 choraguses
+calashes
 chorai
 choral
 choralcelo
