@@ -2674,7 +2674,6 @@ decompensations
 dairy
 decompiler
 decomponent
-decomponible
 decomposability
 decomposable
 decompose
@@ -13981,6 +13980,7 @@ distressful
 deformer
 distressfulness
 distressing
+decomponible
 deglamorization
 distressingly
 distrest
