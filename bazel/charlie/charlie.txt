@@ -10461,6 +10461,7 @@ chieftainry
 chieftainries
 chieftains
 chieftainship
+countermove
 chiefty
 chiel
 coapts
@@ -26977,7 +26978,6 @@ countermission
 coinfeftment
 countermotion
 countermount
-countermove
 circumsciss
 countermoved
 cerebralist
