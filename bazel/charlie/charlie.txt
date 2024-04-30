@@ -2680,7 +2680,6 @@ cannery
 cannet
 cannetille
 cannibal
-copalchi
 cannibalean
 cannibalish
 cereless
@@ -15433,6 +15432,7 @@ corgis
 coruscant
 clamour
 cordant
+copalchi
 coembodying
 clamouring
 clamourist

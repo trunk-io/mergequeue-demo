@@ -2964,7 +2964,6 @@ apium
 acronymized
 acronymizing
 adessive
-acronymous
 acronyms
 adenomyxoma
 acrook
@@ -22634,6 +22633,7 @@ athing
 athink
 athyreosis
 athyria
+acronymous
 athyrid
 athyroid
 averruncate
