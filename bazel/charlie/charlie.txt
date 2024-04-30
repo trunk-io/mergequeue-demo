@@ -14361,7 +14361,6 @@ circumcinct
 circumcincture
 cambyuskan
 catagenesis
-circumcise
 circumcises
 circumcission
 circumclude
@@ -22868,6 +22867,7 @@ conservancies
 conservant
 conservate
 catfaces
+circumcise
 conservation
 conservational
 conservationism
