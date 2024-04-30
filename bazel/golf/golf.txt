@@ -4533,6 +4533,7 @@ gype
 gipon
 ghoul
 gaetulan
+gunlayer
 gipped
 gypped
 gypper
@@ -10512,7 +10513,6 @@ grandiosely
 grateman
 gunks
 gesning
-gunlayer
 gunlaying
 gunline
 gunlock
