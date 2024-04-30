@@ -7508,7 +7508,6 @@ ceramicite
 ceramics
 cledge
 ceramidium
-ceramist
 ceramists
 ceramium
 ceramographic
@@ -30124,6 +30123,7 @@ crucifies
 crucifyfied
 crucifyfying
 crucifying
+ceramist
 crucifixions
 cogences
 cruciform
