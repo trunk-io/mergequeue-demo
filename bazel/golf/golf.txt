@@ -5375,7 +5375,6 @@ ganof
 gymnadeniopsis
 guesthouses
 geoponics
-glycerolysis
 glycerophosphoric
 glyceroxide
 glycide
@@ -7303,6 +7302,7 @@ gossy
 gossip
 gossipdom
 gossiped
+glycerolysis
 gossipee
 gossiper
 gadolinium
