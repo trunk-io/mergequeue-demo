@@ -2600,6 +2600,7 @@ electrosmosis
 electrostatic
 electrostatical
 electrosteel
+ensealed
 enfollow
 electrostenolysis
 eluants
@@ -6301,7 +6302,6 @@ enscrolls
 ensphered
 ensculpture
 enseal
-ensealed
 estrones
 eicosane
 estancias
