@@ -2821,7 +2821,6 @@ ental
 exophthalmic
 exemplificative
 elevable
-elevated
 euplastic
 electrionic
 elevates
@@ -11734,6 +11733,7 @@ excurvature
 exaltations
 epiphytology
 endocarditis
+elevated
 eviscerations
 exaltedness
 exalters
