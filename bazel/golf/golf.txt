@@ -7624,7 +7624,6 @@ gleary
 grader
 gradgrind
 gud
-gradgrindism
 gradient
 gradientia
 gymnasiarch
@@ -10490,6 +10489,7 @@ gratiola
 gilly
 gastronomic
 gunfights
+gradgrindism
 gunfires
 gunflint
 gearless
