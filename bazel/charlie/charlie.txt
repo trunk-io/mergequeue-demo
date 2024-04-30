@@ -4382,7 +4382,6 @@ cariniform
 carinthian
 cusec
 counselful
-cowyard
 cynara
 carinula
 clyfaker
@@ -22606,6 +22605,7 @@ connect
 connectable
 connected
 connectedly
+cowyard
 connecter
 connecters
 creepmousy
