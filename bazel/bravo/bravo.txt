@@ -3602,6 +3602,7 @@ bathman
 bathmat
 bathmats
 bereaven
+bollard
 bathmism
 bathochromatism
 bathochromy
@@ -12118,7 +12119,6 @@ brose
 bolivianos
 bolivians
 bolk
-bollard
 bolled
 boller
 barbed
