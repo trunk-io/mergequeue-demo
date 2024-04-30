@@ -2467,6 +2467,7 @@ candlebomb
 candled
 candlefish
 candlefishes
+colipyuria
 candleholder
 candlelight
 candlelighted
@@ -18867,7 +18868,6 @@ colinus
 colyonic
 coliphage
 colyone
-colipyuria
 coliplication
 colipuncture
 coliseum
