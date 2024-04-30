@@ -599,7 +599,6 @@ graptolitic
 greyhound
 glycoprotein
 gallicisms
-glottises
 gallicize
 gallicizer
 gobletful
@@ -5435,6 +5434,7 @@ gravaminous
 glycopexis
 gynecomastism
 glycoproteid
+glottises
 glycosaemia
 gonorrhea
 glycosidase
