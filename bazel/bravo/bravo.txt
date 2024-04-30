@@ -5365,6 +5365,7 @@ begotten
 broadaxe
 blastier
 begottenness
+bryogenin
 begowk
 begowned
 buyable
@@ -15436,7 +15437,6 @@ backshish
 beardlike
 brynza
 brioches
-bryogenin
 bryology
 bryologies
 bryologist
