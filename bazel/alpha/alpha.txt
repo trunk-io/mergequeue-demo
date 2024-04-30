@@ -1110,6 +1110,7 @@ abulia
 abulias
 accolent
 armaturing
+apt
 abumbrellar
 albertustaler
 abuna
@@ -18192,7 +18193,6 @@ apsinthion
 abatises
 apsis
 adsorptive
-apt
 aptal
 aptenodytes
 apter
