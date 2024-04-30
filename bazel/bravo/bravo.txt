@@ -6079,7 +6079,6 @@ bemeaned
 bemeaning
 bemeans
 bemedaled
-bemedalled
 bementite
 blanda
 bemercy
@@ -8227,6 +8226,7 @@ bidimensional
 biding
 bidirectional
 bidirectionally
+bemedalled
 bidonville
 bidpai
 bountith
