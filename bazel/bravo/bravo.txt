@@ -8953,7 +8953,6 @@ biochemists
 biblioclast
 bandoras
 baisakh
-biochore
 biocycle
 biocycles
 botan
@@ -14439,6 +14438,7 @@ branchiae
 borstals
 bathetic
 branchial
+biochore
 branchiata
 boulevards
 branchicolous
