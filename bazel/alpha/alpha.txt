@@ -4646,7 +4646,6 @@ adverbless
 adverbs
 adversa
 adversant
-adversary
 adversaria
 adversariness
 adversarious
@@ -6087,6 +6086,7 @@ athlete
 aggravate
 aggravated
 azoxyphenetole
+adversary
 amoroso
 aggravates
 aggravating

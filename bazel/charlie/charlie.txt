@@ -2720,6 +2720,7 @@ cannoneering
 cannoneers
 clownish
 cannonier
+chocker
 cannoning
 cannonism
 cannonproof
@@ -11501,7 +11502,6 @@ chocho
 chockablock
 casuary
 chocked
-chocker
 chockful
 chronicler
 chocking
