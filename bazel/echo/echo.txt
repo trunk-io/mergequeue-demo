@@ -4595,7 +4595,6 @@ eradicative
 enchodontid
 enchodontoid
 enchodus
-enchondroma
 enchondromas
 ensilaging
 epimerase
@@ -7373,6 +7372,7 @@ esrog
 epenetic
 everglade
 epenla
+enchondroma
 epentheses
 epenthesis
 epenthesize
