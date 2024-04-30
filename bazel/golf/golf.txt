@@ -2451,7 +2451,6 @@ goodnesses
 gelder
 geldesprung
 gouty
-generalizeable
 geldings
 gelds
 gelechia
@@ -3390,6 +3389,7 @@ gnocchi
 germanizer
 germanness
 germinant
+generalizeable
 galleine
 gingeley
 glossograph
