@@ -438,6 +438,7 @@ genesiurgic
 galbanums
 galbe
 galbulae
+genitorial
 galcha
 growl
 greyskin
@@ -2847,7 +2848,6 @@ gauntry
 gripeful
 genitory
 gegenion
-genitorial
 geniture
 grassiness
 genius
