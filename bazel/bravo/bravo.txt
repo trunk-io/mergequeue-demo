@@ -1144,7 +1144,6 @@ baiza
 baizas
 baize
 baized
-baizes
 beseech
 baizing
 bajan
@@ -10481,6 +10480,7 @@ blastogenetic
 bloodthirstier
 blastogenic
 betray
+baizes
 beleaguer
 bylining
 berbamine
