@@ -3510,7 +3510,6 @@ bargemen
 batea
 bogging
 bateau
-bateaux
 blastomycetous
 bated
 bateful
@@ -8245,6 +8244,7 @@ biedermeier
 bloodthirsting
 bielbrief
 bloodbird
+bateaux
 bieldy
 bossa
 barons
