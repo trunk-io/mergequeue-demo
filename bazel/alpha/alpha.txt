@@ -5352,6 +5352,7 @@ affination
 affine
 affined
 affinely
+analects
 affines
 affinitative
 affinitatively
@@ -11759,7 +11760,6 @@ analcimite
 analcite
 analcitite
 analecta
-analects
 analemma
 analemmas
 analemmata
