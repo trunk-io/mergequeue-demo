@@ -2051,7 +2051,6 @@ elaphurus
 extrastate
 elapidae
 elapids
-erotophobia
 euthyneural
 elapine
 elapse
@@ -13733,6 +13732,7 @@ extogenous
 eris
 effected
 extoled
+erotophobia
 extoling
 extoll
 emraud
