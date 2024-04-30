@@ -2140,6 +2140,7 @@ bornan
 bantay
 branchihyal
 blaw
+borofluoride
 bantayan
 bidstand
 bantam
@@ -15219,7 +15220,6 @@ bridge
 bridgeable
 bighorn
 bridgebote
-borofluoride
 bridgebuilder
 bridged
 bridgehead
