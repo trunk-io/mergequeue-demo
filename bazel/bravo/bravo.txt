@@ -11377,7 +11377,6 @@ bluelines
 bluenose
 burros
 bluenosed
-bluenoser
 bluenoses
 bunco
 bluepoint
@@ -16386,6 +16385,7 @@ brushy
 brushier
 barbouillage
 brushiest
+bluenoser
 bendys
 beggable
 brushland
