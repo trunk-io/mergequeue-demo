@@ -12505,7 +12505,6 @@ bagpiping
 barwing
 bonnaz
 bonne
-bedplate
 bonnes
 bonnet
 bonneted
@@ -12545,6 +12544,7 @@ bonspell
 bonspells
 brike
 bonspiel
+bedplate
 bonteboks
 birthplace
 bontebuck
