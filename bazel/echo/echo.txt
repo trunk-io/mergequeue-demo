@@ -1310,7 +1310,6 @@ effectors
 effectress
 encapsulate
 effects
-effectual
 exurban
 effectuality
 err
@@ -8495,6 +8494,7 @@ epuration
 eq
 eremian
 eqpt
+effectual
 equability
 equableness
 equably
