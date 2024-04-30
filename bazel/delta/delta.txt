@@ -11301,7 +11301,6 @@ discants
 discapacitate
 downgrowth
 dimmable
-discard
 discardable
 discarded
 drainageway
@@ -13710,6 +13709,7 @@ dissolvable
 dissolvableness
 dissolvative
 dissolve
+discard
 diathermous
 dalis
 dissolveability
