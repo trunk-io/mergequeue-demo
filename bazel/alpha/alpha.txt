@@ -22119,7 +22119,6 @@ asthenope
 aspidocephali
 asthenophobia
 asthenopia
-asthenopic
 asthma
 asthmas
 angolans
@@ -22901,6 +22900,7 @@ atriopore
 advertize
 atrip
 atrypa
+asthenopic
 atriplex
 atrypoid
 assimilation
