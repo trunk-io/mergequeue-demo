@@ -6180,7 +6180,6 @@ enquicken
 exor
 eten
 epitomist
-enquired
 endognathion
 enquiry
 enquiries
@@ -10430,6 +10429,7 @@ ethnohistory
 echium
 ethnohistorian
 ethnohistoric
+enquired
 ethnol
 ethnolinguist
 ethnologer
