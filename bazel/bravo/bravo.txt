@@ -13979,7 +13979,6 @@ brachiator
 brachyaxis
 brachycephali
 brachycephaly
-brachycephalies
 brachycephalism
 brachycephalization
 brachycephalize
@@ -16995,6 +16994,7 @@ bryozoans
 bulbocavernosus
 bulbocodium
 bulbomedullary
+brachycephalies
 backcloth
 brainchild
 beliing

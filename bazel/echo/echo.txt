@@ -7879,7 +7879,6 @@ endopeptidase
 epilepsies
 epileptical
 epileptically
-epileptics
 epileptiform
 epileptogenous
 epileptoid
@@ -11837,6 +11836,7 @@ ectothermic
 endemiological
 exauthorate
 exauthorizeexc
+epileptics
 earlyish
 exacta
 excalate
