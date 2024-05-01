@@ -9428,6 +9428,7 @@ diffuseness
 diffusers
 diffuses
 dechlore
+discriminantal
 diffusible
 diffusibleness
 diffusimeter
@@ -11822,7 +11823,6 @@ discretive
 discretiveness
 discriminability
 discriminant
-discriminantal
 discriminately
 discriminateness
 discriminates
