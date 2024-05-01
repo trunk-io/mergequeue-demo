@@ -1058,7 +1058,6 @@ edgebone
 emyd
 edgeboned
 edged
-edgeless
 executing
 edgeling
 edgeman
@@ -11975,6 +11974,7 @@ excide
 eristical
 encuirassed
 exocataphoria
+edgeless
 excides
 equinoxes
 encephalitis
