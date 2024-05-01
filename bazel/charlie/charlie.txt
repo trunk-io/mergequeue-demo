@@ -20158,7 +20158,6 @@ commissars
 commission
 clematis
 commissional
-commissionate
 commissionated
 commissioned
 commissioners
@@ -28636,6 +28635,7 @@ cremations
 cremator
 crematory
 crematoria
+commissionate
 crematorial
 crematoriria
 crematorium
