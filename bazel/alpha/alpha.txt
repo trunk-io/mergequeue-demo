@@ -5224,7 +5224,6 @@ aetat
 aethalia
 aethalioid
 aethalium
-airth
 aether
 aethereal
 aromacity
@@ -21122,6 +21121,7 @@ ase
 asea
 asearch
 asecretory
+airth
 anagrammatist
 aseethe
 aseismatic
