@@ -3479,7 +3479,6 @@ capsulopupillary
 cuirie
 capsulorrhaphy
 capsulotomy
-capsumin
 captacula
 coequation
 captaculum
@@ -29799,6 +29798,7 @@ croset
 crosette
 cocainizing
 crosiered
+capsumin
 crosnes
 cross
 crossability
