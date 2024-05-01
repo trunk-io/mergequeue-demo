@@ -6074,7 +6074,6 @@ fustin
 fragor
 felspar
 flotillas
-furnisher
 formulaic
 fishmeal
 freighter
@@ -9023,6 +9022,7 @@ fourrageres
 fourre
 flixweed
 fourrier
+furnisher
 flagellates
 fourscore
 fourscorth
