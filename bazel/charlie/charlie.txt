@@ -20673,6 +20673,7 @@ complecting
 complection
 complects
 complement
+converser
 complemental
 complementalness
 complementary
@@ -24106,7 +24107,6 @@ conversazioni
 converse
 chorda
 conversed
-converser
 cordovan
 conversi
 conversibility
