@@ -5143,7 +5143,6 @@ aerosolization
 asclepieion
 aerosolize
 aerosolized
-aerostat
 aerostatic
 aerostatical
 amalett
@@ -11175,6 +11174,7 @@ amphierotic
 amphierotism
 aerophilia
 amphigaea
+aerostat
 amphigaean
 amphigam
 amphigamae
