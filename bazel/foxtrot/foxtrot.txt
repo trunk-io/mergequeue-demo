@@ -4178,6 +4178,7 @@ firepot
 fireroom
 ferroconcretor
 firerooms
+fleck
 firers
 fanfoot
 forfeits
@@ -8680,7 +8681,6 @@ fortify
 fortifier
 florets
 fortifiers
-fleck
 fortifies
 flooring
 fafnir
