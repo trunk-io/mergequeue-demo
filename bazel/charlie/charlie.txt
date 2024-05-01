@@ -9867,6 +9867,7 @@ calanid
 chemicker
 chemicoastrological
 chemicobiologic
+collocates
 chemicobiological
 chemicodynamic
 chemicoluminescence
@@ -19150,7 +19151,6 @@ collocate
 collocated
 crystallographer
 cauked
-collocates
 collocating
 collocation
 collocational
