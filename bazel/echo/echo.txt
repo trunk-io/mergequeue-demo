@@ -7365,7 +7365,6 @@ epeisodion
 epembryonic
 epencephala
 embittering
-epencephalic
 epencephalon
 epencephalons
 ependymal
@@ -7422,6 +7421,7 @@ ecchondrotome
 ephebus
 ephectic
 ephedras
+epencephalic
 ephedrins
 ephelcystic
 erysipelatous
