@@ -6741,7 +6741,6 @@ celeriac
 celeriacs
 cypres
 celeries
-celerity
 celerities
 celestas
 celeste
@@ -7196,6 +7195,7 @@ centrales
 centralise
 centralised
 centraliser
+celerity
 centralising
 centralism
 cepheus
