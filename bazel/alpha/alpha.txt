@@ -14588,7 +14588,6 @@ automaton
 arthritism
 anthropobiologist
 anthropocentric
-anthropocentrism
 amission
 anthropoclimatology
 anthropoclimatologist
@@ -20013,6 +20012,7 @@ armistices
 avenaceous
 armit
 armitas
+anthropocentrism
 armyworms
 armlessness
 armlets
