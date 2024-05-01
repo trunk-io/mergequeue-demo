@@ -361,7 +361,6 @@ birdlimed
 backgame
 beamlet
 backgammon
-backgeared
 barbarical
 background
 backgrounds
@@ -2095,6 +2094,7 @@ bibliophage
 banlieu
 botel
 boidae
+backgeared
 beuniformed
 byzant
 banlieue
