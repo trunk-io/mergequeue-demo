@@ -16652,7 +16652,6 @@ diobolons
 diopside
 dragsaw
 deathbeds
-dragsman
 dragsmen
 dopehead
 dragstaff
@@ -18414,6 +18413,7 @@ degausser
 daidle
 dysphemize
 diamondbacks
+dragsman
 duplicature
 disulphuret
 degreased
