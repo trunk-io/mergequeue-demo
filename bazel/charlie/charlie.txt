@@ -12012,7 +12012,6 @@ choriambize
 confarreate
 choriambs
 choriambus
-choriambuses
 choribi
 choric
 chorine
@@ -16946,6 +16945,7 @@ clumps
 clumpst
 clumse
 clumsy
+choriambuses
 clumsier
 clumsiest
 clumsily
