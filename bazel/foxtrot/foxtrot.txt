@@ -2387,6 +2387,7 @@ factories
 feodum
 feoff
 feoffee
+firlot
 fconvert
 feoffer
 fetlow
@@ -6873,7 +6874,6 @@ folkish
 folkishness
 fasnacht
 folklike
-firlot
 firmers
 folklores
 folkloric
