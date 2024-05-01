@@ -574,6 +574,7 @@ elbuck
 etnas
 echinosphaeritidae
 elusions
+exhaustivity
 echinostoma
 echinozoa
 echinulate
@@ -12448,7 +12449,6 @@ exhaustive
 eryon
 exhaustiveness
 elegances
-exhaustivity
 exhaustless
 exhaustlessly
 eulysite
