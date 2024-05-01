@@ -5875,7 +5875,6 @@ dowel
 directness
 deafforestation
 deposits
-depositum
 dedifferentiation
 doumaist
 deposure
@@ -10639,6 +10638,7 @@ diplomata
 deben
 diplomates
 diplomatically
+depositum
 diplomatique
 dolour
 diplomatism
