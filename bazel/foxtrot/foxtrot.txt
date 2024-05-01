@@ -2040,6 +2040,7 @@ foothold
 fingerfish
 feigher
 fillercap
+fretted
 formlessness
 fumitories
 feign
@@ -9913,7 +9914,6 @@ frettage
 frettation
 fiducial
 frette
-fretted
 fretten
 fretters
 flowoff

@@ -6687,7 +6687,6 @@ coosify
 ceils
 ceint
 counterquestion
-ceinte
 coathangers
 colligation
 ceinture
@@ -29253,6 +29252,7 @@ conceptualising
 cottoning
 cardioscope
 cryptocleidus
+ceinte
 cryptoclimate
 cryptococci
 cryptococcosis
