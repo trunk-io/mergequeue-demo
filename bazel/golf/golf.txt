@@ -1491,6 +1491,7 @@ garnished
 garnishee
 garnisheed
 garnishees
+guilloche
 garnishes
 glossanthrax
 garnishment
@@ -3692,7 +3693,6 @@ greenbark
 gusset
 gipsyism
 gheraoed
-guilloche
 governessy
 gheraoes
 gaieties
