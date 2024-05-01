@@ -7408,7 +7408,6 @@ cowmen
 cephalochordal
 cephalochordata
 cephalochordate
-cephalocyst
 cucujidae
 cephaloclast
 cephalocone
@@ -12378,6 +12377,7 @@ christianopaganism
 cryptographically
 christians
 christicide
+cephalocyst
 crosswind
 christies
 christine
