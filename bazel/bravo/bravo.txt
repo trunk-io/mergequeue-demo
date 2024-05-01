@@ -2569,6 +2569,7 @@ barcolongo
 bemixt
 bs
 barih
+bobbiner
 birk
 bardel
 balanced
@@ -11647,7 +11648,6 @@ bobbers
 barb
 bobby
 bobbin
-bobbiner
 bobbinet
 backlighting
 bobbinets
