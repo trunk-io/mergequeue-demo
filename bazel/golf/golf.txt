@@ -804,6 +804,7 @@ grenat
 galvanomagnetic
 galvanomagnetism
 galvanometer
+gombeen
 galvanometers
 gecko
 galvanometric
@@ -6675,7 +6676,6 @@ grasp
 guestchamber
 gomart
 gomashta
-gombeen
 gombo
 gome
 gapy
