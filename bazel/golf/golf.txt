@@ -3932,7 +3932,6 @@ giga
 globoseness
 gaudete
 gigabytes
-gigabits
 gloweringly
 glacon
 gigadoid
@@ -5176,6 +5175,7 @@ glib
 gubernance
 gymnospermae
 glaucochroite
+gigabits
 gnatflower
 gestalten
 glassteel
