@@ -3145,7 +3145,6 @@ eltrot
 eluant
 episcleritis
 enterophthisis
-eluated
 eluating
 enteritis
 exchangeably
@@ -13822,6 +13821,7 @@ experienceable
 educators
 extractability
 extractable
+eluated
 extractant
 eteocles
 extractibility
