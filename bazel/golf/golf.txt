@@ -577,6 +577,7 @@ galleon
 galleons
 galler
 gallera
+getters
 geisotherm
 gasolines
 glycerine
@@ -8234,7 +8235,6 @@ galleypot
 grailing
 grandparental
 grassfire
-getters
 grassflower
 gnatter
 golds
