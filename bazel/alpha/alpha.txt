@@ -3717,6 +3717,7 @@ adenographical
 adenohypersthenia
 adenohypophyseal
 adenohypophysial
+atry
 adenoidal
 adenoidectomy
 adenoidectomies
@@ -24447,7 +24448,6 @@ autotransformer
 autotransplantation
 arythmically
 autostethoscope
-atry
 autotrepanation
 autotriploid
 autotriploidy
