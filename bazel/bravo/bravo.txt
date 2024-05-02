@@ -5625,7 +5625,6 @@ bel
 bela
 burgonets
 belabor
-basementward
 bruscus
 beachcomber
 blooded
@@ -16619,6 +16618,7 @@ bocci
 buchnerite
 buchonite
 buchu
+basementward
 buck
 bayamo
 bicornuous
