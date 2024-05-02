@@ -6754,7 +6754,6 @@ gonfalcon
 gammaridae
 gambolled
 glowed
-gonfalons
 gusseted
 gonfanon
 gong
@@ -9414,6 +9413,7 @@ gamphrel
 gizmo
 grouchiness
 gunwhale
+gonfalons
 gruffiness
 gimper
 grouf
