@@ -7758,6 +7758,7 @@ fiascoes
 foreman
 forsaker
 favillae
+fiddley
 foremark
 foremastmen
 foremasts
@@ -10278,7 +10279,6 @@ favoritism
 frizzle
 frizzly
 favela
-fiddley
 fluxion
 fro
 ferryage
