@@ -3034,7 +3034,6 @@ febris
 fevertrap
 flocoon
 fiant
-fiants
 feat
 fiar
 fractionizing
@@ -8812,6 +8811,7 @@ flon
 fossicked
 fossicker
 fossicking
+fiants
 fossified
 fleecer
 fluigramme
