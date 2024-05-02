@@ -8643,7 +8643,6 @@ equinoctially
 equinumerally
 equinus
 ethrogs
-equipage
 equipages
 equiparation
 equipartisan
@@ -10632,6 +10631,7 @@ enhalos
 euchred
 enchest
 euchres
+equipage
 ethmose
 erotomania
 euchroic

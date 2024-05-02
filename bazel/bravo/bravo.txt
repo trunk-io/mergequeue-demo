@@ -1762,7 +1762,6 @@ brubu
 baluchithere
 buses
 balun
-balusters
 balustrade
 balustrades
 bizonal
@@ -7440,6 +7439,7 @@ bethinks
 branglement
 baklawa
 beleft
+balusters
 bethorn
 burthenman
 bethorning
