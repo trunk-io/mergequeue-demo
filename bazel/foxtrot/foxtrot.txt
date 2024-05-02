@@ -4123,7 +4123,6 @@ fanhouse
 flagstones
 fireburn
 fibrocaseous
-fireclay
 federals
 fireclays
 faujdar
@@ -5336,6 +5335,7 @@ filterable
 fling
 fleecing
 fleerer
+fireclay
 fleering
 filcher
 farseeingness
