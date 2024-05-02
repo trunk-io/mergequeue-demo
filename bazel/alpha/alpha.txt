@@ -1489,7 +1489,6 @@ awl
 accessioner
 accessioning
 accessive
-accessively
 aurichalcum
 awlessness
 accessless
@@ -12579,6 +12578,7 @@ anemoscope
 afront
 anemoses
 anemosis
+accessively
 anemotactic
 anemotaxis
 anemotropism
