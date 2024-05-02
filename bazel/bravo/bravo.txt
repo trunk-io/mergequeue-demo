@@ -517,6 +517,7 @@ backstitching
 broadway
 backstop
 backstopped
+besiclometer
 backstops
 backstrap
 backstrapped
@@ -7060,7 +7061,6 @@ beslimes
 besliming
 billyer
 banque
-besiclometer
 boolies
 bepaid
 beslipper
