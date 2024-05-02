@@ -12924,7 +12924,6 @@ disorganiser
 disorganization
 disorganize
 disorganizer
-detorsion
 disorganizes
 disorganizing
 disorient
@@ -14746,6 +14745,7 @@ doctorhood
 diethylenediamine
 doctorial
 doctorially
+detorsion
 doctoring
 doctorize
 distributive
