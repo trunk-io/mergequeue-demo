@@ -8981,7 +8981,6 @@ characterizations
 characterize
 characterizer
 characterizers
-characterizes
 characterizing
 characterless
 characterlessness
@@ -16583,6 +16582,7 @@ coronale
 conscious
 cloys
 cloysome
+characterizes
 cloison
 crinivorous
 chondrolipoma
