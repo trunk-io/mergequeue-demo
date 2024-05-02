@@ -6969,7 +6969,6 @@ enchase
 encyclopaedic
 entreaties
 excavatorial
-earmark
 entreating
 entreatingly
 entreats
@@ -13124,6 +13123,7 @@ expiratory
 eche
 expire
 expired
+earmark
 embale
 expiree
 expirer
