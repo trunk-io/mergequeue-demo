@@ -555,7 +555,6 @@ gallantly
 gallantries
 gallature
 goffer
-genders
 gobblers
 gallbladders
 gaudish
@@ -5383,6 +5382,7 @@ glyceroxide
 glycide
 galoshed
 glycidol
+genders
 glycinin
 glycins
 goozle

@@ -7751,7 +7751,6 @@ calculable
 cerianthus
 cerias
 ceride
-ceryl
 cerillo
 ceriman
 cerimans
@@ -11494,6 +11493,7 @@ choca
 christina
 cryobiologically
 chocard
+ceryl
 chocho
 chockablock
 casuary
