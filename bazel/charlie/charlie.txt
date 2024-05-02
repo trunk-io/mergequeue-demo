@@ -5992,7 +5992,6 @@ catholicist
 catholicity
 ctenodontidae
 catholicize
-catholicized
 catholicizing
 catholicly
 catholicness
@@ -18364,6 +18363,7 @@ cognation
 cognatus
 cementum
 cognisable
+catholicized
 cognisableness
 calpulli
 coenosarcal
