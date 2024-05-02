@@ -11412,7 +11412,6 @@ bulbul
 bluetongue
 bedmates
 bluetop
-bluetops
 bluets
 blueweed
 bravos
@@ -15958,6 +15957,7 @@ besquib
 bronchopathy
 bronchophony
 bronchoplasty
+bluetops
 bronchopleurisy
 bronchorrhagia
 bronchorrhaphy
