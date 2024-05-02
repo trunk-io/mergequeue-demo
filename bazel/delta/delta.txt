@@ -8345,7 +8345,6 @@ diamb
 dialectologer
 diplois
 dialectology
-dialectologic
 dialectological
 dialectologically
 dialectologist
@@ -16666,6 +16665,7 @@ drayed
 drayhorse
 drailed
 drailing
+dialectologic
 drails
 doomsters
 drayman
