@@ -8821,7 +8821,6 @@ fossiform
 fastwalk
 fossil
 fanioned
-filtratable
 frigorimeter
 franking
 fossildom
@@ -9168,6 +9167,7 @@ faulkner
 fameuse
 forepoint
 floristry
+filtratable
 forelive
 forestlike
 festivities
