@@ -10971,7 +10971,6 @@ blithesome
 blithesomely
 bkgd
 blithest
-blitter
 blitum
 blitz
 birota
@@ -15879,6 +15878,7 @@ bromoil
 bromoiodid
 bromoiodism
 beforehandedness
+blitter
 bromoiodized
 bromoketone
 bandman
