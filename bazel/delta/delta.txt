@@ -12081,6 +12081,7 @@ deled
 demerits
 diffuser
 disentitled
+disjune
 disentitlement
 disentitling
 drepanaspis
@@ -12622,7 +12623,6 @@ disjunctor
 disjuncts
 divia
 dereferences
-disjune
 disk
 disked
 diskelion
