@@ -2720,7 +2720,6 @@ acquirers
 acquiring
 acquisible
 amaranthoid
-acquisita
 acquisite
 acquisited
 acquisitional
@@ -4338,6 +4337,7 @@ adoratory
 adored
 assizement
 adorer
+acquisita
 adorers
 apophlegmatism
 adoretus
