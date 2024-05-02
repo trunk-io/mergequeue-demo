@@ -14496,7 +14496,6 @@ circumspangle
 circumspective
 corniness
 circumspectively
-circumspectly
 circumspectness
 circumspheral
 circumsphere
@@ -21668,6 +21667,7 @@ condignly
 comethers
 condignness
 condylar
+circumspectly
 condylarthra
 condyle
 condylectomy
