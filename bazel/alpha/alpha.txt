@@ -4093,7 +4093,6 @@ adjutorious
 adjutrice
 adjutrix
 adjuvant
-adjuvants
 adlai
 ambassage
 adlegation
@@ -22173,6 +22172,7 @@ astonish
 astonished
 astonishedly
 astonishes
+adjuvants
 astonishingly
 anaphia
 apologetic
