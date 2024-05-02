@@ -2408,7 +2408,6 @@ equivalence
 enharbor
 electrogenic
 electrogild
-electrogilding
 electrogilt
 ejecting
 electrogram
@@ -2672,6 +2671,7 @@ electrovalently
 electrovection
 electrowinning
 entermete
+electrogilding
 electuaries
 eudidymite
 enceint
