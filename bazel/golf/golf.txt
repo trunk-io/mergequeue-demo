@@ -1497,7 +1497,6 @@ garnishes
 glossanthrax
 garnishment
 garnison
-gangliomata
 garniture
 grecize
 ganyie
@@ -4081,6 +4080,7 @@ gliadines
 gilden
 gouter
 gildhall
+gangliomata
 gorgeously
 gilding
 giddyberry
