@@ -611,7 +611,6 @@ caedmonian
 caedmonic
 caelian
 caelometer
-caelum
 caelus
 cardigans
 caenogaea
@@ -24926,6 +24925,7 @@ coralloidal
 castelet
 corallum
 corallus
+caelum
 coralroot
 corals
 coram
