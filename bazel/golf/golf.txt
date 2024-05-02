@@ -6818,6 +6818,7 @@ greasewood
 gonion
 graminivorous
 gropple
+giving
 galactophagous
 grabbling
 goura
@@ -7680,7 +7681,6 @@ grenadier
 geography
 gunbarrel
 graffias
-giving
 graffiti
 grossulariaceae
 gyrfalcon
