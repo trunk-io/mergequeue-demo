@@ -11156,6 +11156,7 @@ bloodtest
 bloodthirster
 bloodthirstiness
 bloodweed
+burgomaster
 bloodwite
 bloodwood
 burgeoned
@@ -17682,7 +17683,6 @@ basote
 blay
 bakula
 burgoyne
-burgomaster
 burgomasters
 burgomastership
 burgoo
