@@ -167,6 +167,7 @@ factionistism
 factions
 factious
 flirtatious
+friborg
 fabulous
 facultied
 factiously
@@ -11239,7 +11240,6 @@ funicle
 foreday
 funicles
 funiculars
-friborg
 foiblesse
 forstraught
 funiculus
