@@ -200,7 +200,6 @@ earthworks
 enddamaged
 earthworms
 earwax
-earwigged
 eidolic
 earwigginess
 exsiccation
@@ -2658,6 +2657,7 @@ electrotyper
 electrotypy
 endiablee
 escarmouche
+earwigged
 electrotypist
 electrotitration
 esquamulose
