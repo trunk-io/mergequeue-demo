@@ -2041,6 +2041,7 @@ bradenhead
 becrawl
 bankcards
 banked
+bedewoman
 bethought
 bankerdom
 bacteriophobia
@@ -4692,7 +4693,6 @@ bedew
 bedewed
 bedewer
 bedewing
-bedewoman
 bedews
 bedfellows
 buildable
