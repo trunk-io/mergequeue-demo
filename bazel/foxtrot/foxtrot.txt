@@ -5922,6 +5922,7 @@ floorages
 forgottenness
 floorboard
 flavia
+folate
 floorcloth
 fala
 floweret
@@ -6784,7 +6785,6 @@ folacin
 falderols
 flubdubs
 folacins
-folate
 flatterdock
 folates
 founding
