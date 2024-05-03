@@ -764,7 +764,6 @@ fandango
 fallows
 flagships
 fandangos
-falconer
 fandoms
 fanegadas
 feudalizable
@@ -5347,6 +5346,7 @@ fleeringly
 fleerish
 figurativeness
 firmware
+falconer
 fretsome
 fleeter
 fleetest
