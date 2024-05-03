@@ -4013,7 +4013,6 @@ estrapade
 extirpated
 empexa
 emphase
-emphases
 equiprobably
 epicoelian
 emphasised
@@ -6555,6 +6554,7 @@ enteric
 elaterid
 exolemma
 emove
+emphases
 endothecate
 enterobacterial
 eosinophilia
