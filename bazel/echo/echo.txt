@@ -2866,7 +2866,6 @@ eponymous
 elfins
 elfinwood
 elfish
-elfishness
 emotionalist
 engrailment
 extemporise
@@ -8644,6 +8643,7 @@ equinoctially
 equinumerally
 equinus
 ethrogs
+elfishness
 equipages
 equiparation
 equipartisan
