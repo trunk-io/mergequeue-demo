@@ -8308,7 +8308,6 @@ diagrams
 dentin
 dishmaking
 diagraph
-diagraphics
 diagraphs
 diagredium
 diagrydium
@@ -11152,6 +11151,7 @@ disasterly
 disasters
 daunii
 dims
+diagraphics
 disastrous
 donating
 disastrously
