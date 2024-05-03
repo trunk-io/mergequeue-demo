@@ -1179,7 +1179,6 @@ edomitish
 exorbitate
 eurypharynx
 edoni
-edp
 edplot
 edriasteroidea
 edrioasteroid
@@ -11336,6 +11335,7 @@ eutaxy
 epiblastema
 evaporated
 evaporates
+edp
 enemylike
 eimer
 evaporating
