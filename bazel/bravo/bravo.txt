@@ -3930,6 +3930,7 @@ bennet
 bawtie
 bawties
 baxter
+bifidated
 baxterian
 baxterianism
 baxtone
@@ -8316,7 +8317,6 @@ biff
 biffies
 biffin
 biffs
-bifidated
 bifidity
 bifidities
 bifilar
