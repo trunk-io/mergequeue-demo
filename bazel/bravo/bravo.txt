@@ -4840,7 +4840,6 @@ bits
 bedsick
 bedsheets
 bedside
-bedsit
 bedsite
 bedsitter
 bedsock
@@ -16493,6 +16492,7 @@ bechern
 burrah
 bruzz
 bsf
+bedsit
 baboo
 bsh
 bskt
