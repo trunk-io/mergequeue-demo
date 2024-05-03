@@ -1006,7 +1006,6 @@ bayamos
 bayano
 bewitch
 bayardly
-bayberry
 bayberries
 baybolt
 baycuru
@@ -9098,6 +9097,7 @@ biomedicine
 biomes
 biometric
 bicentennially
+bayberry
 biometrician
 biometricist
 beavery
