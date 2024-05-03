@@ -10399,6 +10399,7 @@ dioxanes
 dioxy
 dioxid
 densified
+divergence
 dioxide
 disfavors
 dioxides
@@ -14307,7 +14308,6 @@ diverged
 dregginess
 dispireme
 divergement
-divergence
 divergencies
 distensible
 desecate
