@@ -6923,7 +6923,6 @@ galactopyra
 glomi
 graticulate
 goodby
-goodbye
 goodbyes
 goodenia
 guineas
@@ -8540,6 +8539,7 @@ garlicmonger
 gozzard
 guttered
 gladdy
+goodbye
 greaseproof
 greaseproofness
 germinating
