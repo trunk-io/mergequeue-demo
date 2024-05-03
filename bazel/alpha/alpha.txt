@@ -9467,7 +9467,6 @@ alterability
 alterable
 alterableness
 alterably
-alterate
 autoimmunized
 alteration
 alterations
@@ -17107,6 +17106,7 @@ aplanatism
 anchors
 attractable
 ately
+alterate
 aplanobacter
 aplanogamete
 apses
