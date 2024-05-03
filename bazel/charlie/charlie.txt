@@ -7929,7 +7929,6 @@ cervid
 cervinae
 cosignatory
 cervine
-cervisial
 cervix
 cervixes
 cervoid
@@ -31726,6 +31725,7 @@ customarily
 cystenchymatous
 customariness
 customer
+cervisial
 customers
 customhouse
 customhouses
