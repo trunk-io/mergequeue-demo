@@ -481,6 +481,7 @@ backspaces
 backspacing
 butteries
 bicentral
+bandeaux
 broomier
 backspang
 backspier
@@ -1849,7 +1850,6 @@ bandcutter
 besotter
 branchling
 bandeau
-bandeaux
 betula
 bandelet
 bandelette
