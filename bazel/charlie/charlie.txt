@@ -5256,7 +5256,6 @@ casse
 caveats
 cassegrain
 chromomeric
-coordinations
 cassegrainian
 casserole
 casseroled
@@ -22675,6 +22674,7 @@ connu
 connubial
 connubiality
 conteur
+coordinations
 connubium
 connumerate
 childing

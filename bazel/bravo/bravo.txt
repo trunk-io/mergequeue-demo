@@ -12085,6 +12085,7 @@ boldfacedness
 banshees
 boldfacing
 batodendron
+bootprint
 boldhearted
 beloid
 boldheartedly
@@ -14017,7 +14018,6 @@ baluchitherium
 brachygnathia
 brachygnathism
 brachygrapher
-bootprint
 bulges
 brachygraphical
 brachyhieric
