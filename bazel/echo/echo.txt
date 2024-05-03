@@ -7092,7 +7092,6 @@ expanse
 expansometer
 enemy
 ergotamine
-envied
 enviers
 explants
 envying
@@ -12582,6 +12581,7 @@ exit
 exite
 exitial
 exiting
+envied
 enherit
 exitious
 exits
