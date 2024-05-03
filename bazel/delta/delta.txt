@@ -13141,7 +13141,6 @@ dilly
 displaced
 displacement
 displacements
-diminuted
 displacing
 display
 displayable
@@ -14519,6 +14518,7 @@ divulgation
 decernment
 divulge
 divulged
+diminuted
 divulgence
 divulger
 dianodal
