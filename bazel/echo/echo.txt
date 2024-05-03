@@ -2266,6 +2266,7 @@ electrine
 electrizable
 electrization
 earthenware
+epigonus
 electro
 electroacoustic
 etruscan
@@ -7817,7 +7818,6 @@ extractions
 epigonous
 eliquated
 endopsychic
-epigonus
 electrion
 epigrammatarian
 epigrammatic
