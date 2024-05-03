@@ -2981,6 +2981,7 @@ cantoral
 cantoria
 cantorial
 cantorian
+cardsharps
 cantoris
 cantorous
 cantors
@@ -19019,7 +19020,6 @@ collegiality
 collegially
 collegiate
 collegiately
-cardsharps
 collegiateness
 collegiation
 collegiugia
