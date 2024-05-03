@@ -3890,7 +3890,6 @@ carboxyls
 carbro
 carbromal
 carbuncle
-carbuncled
 chuckrum
 carbuncles
 carbuncular
@@ -10151,6 +10150,7 @@ cabinda
 chesses
 chesset
 chessylite
+carbuncled
 chessist
 chessman
 chirimen
