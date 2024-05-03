@@ -2518,7 +2518,6 @@ ackee
 ackees
 ackey
 ackeys
-acker
 argemone
 ackmen
 aluminized
@@ -22656,6 +22655,7 @@ athold
 athonite
 athort
 athrill
+acker
 athrive
 athrocytosis
 averaged
