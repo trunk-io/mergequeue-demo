@@ -8407,7 +8407,6 @@ dialyze
 dialyzed
 dialyzer
 dialyzes
-dialkyl
 dispell
 dialkylamine
 detentes
@@ -16653,6 +16652,7 @@ dragrope
 decades
 drags
 diobolons
+dialkyl
 diopside
 dragsaw
 deathbeds
