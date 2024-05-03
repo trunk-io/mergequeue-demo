@@ -3180,7 +3180,6 @@ delphacid
 defeated
 directs
 drusean
-defeatee
 drowsihood
 dissimulated
 defeatism
@@ -9495,6 +9494,7 @@ diggable
 digged
 digger
 digging
+defeatee
 dight
 dighted
 dighter
