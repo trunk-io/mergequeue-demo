@@ -6557,7 +6557,6 @@ agrope
 agropyron
 agrostemma
 agrosteral
-agrostis
 agrostographer
 agrostography
 agrostographical
@@ -17824,6 +17823,7 @@ appetized
 appetizer
 aurothiosulphuric
 appetizers
+agrostis
 agathology
 appl
 applanate
