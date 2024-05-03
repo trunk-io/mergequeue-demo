@@ -2309,7 +2309,6 @@ electroplating
 electroplates
 ejam
 epiphenomenal
-ephemerality
 extractors
 eutectic
 egba
@@ -14111,6 +14110,7 @@ eucyclic
 extrovertish
 extrovertive
 ebonizing
+ephemerality
 enaluron
 eloign
 extinction
