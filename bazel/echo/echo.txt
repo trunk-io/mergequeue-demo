@@ -2479,7 +2479,6 @@ electromagnetism
 electromagnetist
 escalloping
 electrolyser
-electromagnets
 electromassage
 electromechanical
 esquireship
@@ -4631,6 +4630,7 @@ encyclopediacal
 eurystomatous
 execrableness
 ephahs
+electromagnets
 encyclopedial
 encyclopedian
 encyclopedias

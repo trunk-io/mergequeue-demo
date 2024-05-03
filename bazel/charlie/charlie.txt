@@ -10628,6 +10628,7 @@ conter
 carports
 chiller
 chillers
+comino
 chillest
 chiromance
 centumviral
@@ -14778,7 +14779,6 @@ cystoidean
 cystoids
 cystolith
 cystolithiasis
-comino
 cystolithic
 cystoma
 cystomas
