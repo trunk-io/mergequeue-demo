@@ -905,7 +905,6 @@ absence
 aceta
 agglutinating
 absences
-absent
 ascochyta
 actionized
 absentation
@@ -5413,6 +5412,7 @@ affixture
 afflate
 afflated
 afflatus
+absent
 afflatuses
 algesireceptor
 afflicted
