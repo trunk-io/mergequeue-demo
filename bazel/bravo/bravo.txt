@@ -1066,7 +1066,6 @@ bailing
 bailiwick
 beaconed
 bailiwicks
-bailli
 baillie
 baillone
 baillonella
@@ -12908,6 +12907,7 @@ bopyrid
 bopyridae
 bopyridian
 bopped
+bailli
 brigadiers
 bopper
 boppers
