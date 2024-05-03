@@ -659,7 +659,6 @@ gallisin
 ghettoization
 guaranis
 gallivant
-gallivanted
 gallivanters
 gallivanting
 glycosine
@@ -7744,6 +7743,7 @@ grainman
 grains
 geomys
 grainsickness
+gallivanted
 grainsman
 grainsmen
 glimpse
