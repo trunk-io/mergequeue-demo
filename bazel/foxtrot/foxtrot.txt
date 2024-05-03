@@ -3353,7 +3353,6 @@ fieldish
 funereality
 fieldleft
 financist
-fieldmouse
 fribbles
 fieldpieces
 fieldsman
@@ -9607,6 +9606,7 @@ frecket
 familia
 freckle
 fenagle
+fieldmouse
 fingers
 freckled
 featly
