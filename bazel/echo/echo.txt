@@ -8779,6 +8779,7 @@ eradicant
 erythrogonium
 eradicate
 eradicated
+embossable
 epipolic
 enround
 electrodepositable
@@ -10294,7 +10295,6 @@ electrooptical
 evicted
 epanorthosis
 elritch
-embossable
 expoliate
 ethidene
 ethyl

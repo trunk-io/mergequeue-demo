@@ -577,7 +577,6 @@ ariste
 ashlers
 abn
 abnaki
-abnegate
 abnegated
 abnegates
 abnegative
@@ -14505,6 +14504,7 @@ anthotaxy
 anthotaxis
 anthotropic
 anthoxanthum
+abnegate
 anthozoan
 anthozoic
 anthozoon
