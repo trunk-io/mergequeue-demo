@@ -3301,7 +3301,6 @@ empathize
 enatant
 embalmed
 envelopes
-embalmer
 eriophyidae
 encyclopaedial
 embalmers
@@ -12874,6 +12873,7 @@ expandedness
 expanders
 educabilia
 expandible
+embalmer
 etherialization
 erogate
 escargatoire
