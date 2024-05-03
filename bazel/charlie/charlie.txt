@@ -114,6 +114,7 @@ cabineting
 cabinetmakers
 cabinetmaking
 cabinetry
+capacitated
 cabinetted
 clitelline
 cabinetworker
@@ -3051,7 +3052,6 @@ capacitance
 capacitances
 capacitate
 cofounder
-capacitated
 cooperators
 capacitating
 capacitations
