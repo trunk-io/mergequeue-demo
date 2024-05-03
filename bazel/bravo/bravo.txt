@@ -5800,6 +5800,7 @@ bell
 bonos
 bellacoola
 belladonna
+bifidities
 biltongs
 bellatrix
 bellbind
@@ -8317,7 +8318,6 @@ biffies
 biffin
 biffs
 bifidity
-bifidities
 bifilar
 bifilarly
 biflabellate
