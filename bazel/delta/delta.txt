@@ -5112,6 +5112,7 @@ diablerie
 denature
 denatured
 denaturing
+diminishingturns
 denaturisation
 demast
 denaturise
@@ -17950,7 +17951,6 @@ duftite
 dialoguer
 dug
 dugal
-diminishingturns
 durras
 dugento
 dugong
