@@ -8885,7 +8885,6 @@ allocyanine
 alloclase
 asphodeline
 allocthonous
-adaptability
 allocute
 allocution
 allocutive
@@ -13656,6 +13655,7 @@ annotations
 annotative
 annotatively
 annotativeness
+adaptability
 annotator
 annotatory
 annotators
