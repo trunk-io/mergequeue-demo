@@ -4168,7 +4168,6 @@ displumed
 delimitize
 diphyletic
 delimitized
-delimitizing
 diplomyelia
 deline
 delineament
@@ -14245,6 +14244,7 @@ ditto
 disperato
 dittoes
 dittography
+delimitizing
 dittographic
 dittology
 diatomite
