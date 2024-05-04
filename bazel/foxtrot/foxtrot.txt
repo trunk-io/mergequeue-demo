@@ -2924,7 +2924,6 @@ feudalist
 feudalists
 feudality
 fractionising
-flockless
 fustigation
 feudalize
 fratching
@@ -11122,6 +11121,7 @@ forbidder
 functionation
 functioned
 functionize
+flockless
 functionnaire
 functions
 functors
