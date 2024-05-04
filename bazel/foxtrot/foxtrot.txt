@@ -6700,7 +6700,6 @@ fluerics
 furrier
 finableness
 fogginess
-fogging
 foggish
 flectional
 foghorn
@@ -10278,6 +10277,7 @@ frizzle
 frizzly
 favela
 fluxion
+fogging
 fro
 ferryage
 foggages
