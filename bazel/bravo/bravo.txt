@@ -4635,7 +4635,6 @@ bedcase
 brunneous
 bedchair
 bedchairs
-bedchamber
 bryophyte
 bratstva
 bedclothing
@@ -8907,6 +8906,7 @@ binomialism
 binomially
 binomials
 binominal
+bedchamber
 bunchbacked
 binormal
 binotonous
