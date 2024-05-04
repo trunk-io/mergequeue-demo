@@ -1276,7 +1276,6 @@ eelshop
 eelskin
 eelworm
 estragon
-eelworms
 een
 endosternite
 eer
@@ -11121,6 +11120,7 @@ europeans
 europeward
 europium
 epipharynx
+eelworms
 eurus
 expropriations
 exoner
