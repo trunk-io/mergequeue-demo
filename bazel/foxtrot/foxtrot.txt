@@ -1000,7 +1000,6 @@ felinophobe
 fares
 faretta
 farewell
-farewelled
 fearfuller
 fuchsin
 farfal
@@ -2376,6 +2375,7 @@ firestopping
 fehmic
 factories
 feodum
+farewelled
 feoff
 feoffee
 firlot
