@@ -4880,7 +4880,6 @@ aeolistic
 aeolomelodicon
 aeolotropy
 aeolotropic
-aeolsklavier
 aeolus
 aeon
 anacrustically
@@ -19262,6 +19261,7 @@ asexualise
 arcite
 adherences
 arcked
+aeolsklavier
 arcking
 arclength
 apennine
