@@ -8886,7 +8886,6 @@ gladelike
 geriatric
 gaddingly
 gnaw
-grf
 gribane
 gribble
 grice
@@ -9701,6 +9700,7 @@ grapestone
 grubstaking
 goboes
 grumped
+grf
 grumph
 grumphy
 grumphie
