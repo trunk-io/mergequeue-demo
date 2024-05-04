@@ -4421,7 +4421,6 @@ courthouses
 caryota
 caryotin
 carious
-cariousness
 cacography
 caripuna
 cariri
@@ -5567,6 +5566,7 @@ cataloged
 chimerism
 character
 catalogers
+cariousness
 catalogia
 contractible
 catalogical
