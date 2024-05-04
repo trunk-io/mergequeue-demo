@@ -3296,7 +3296,6 @@ allochromatic
 actuals
 agena
 alstonine
-appearanced
 actuary
 actuarially
 actuarian
@@ -11667,6 +11666,7 @@ anaesthesiology
 anaesthesiologist
 anaesthesis
 anaesthetic
+appearanced
 anaesthetically
 anthropomantic
 ade
