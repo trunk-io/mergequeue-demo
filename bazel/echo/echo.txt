@@ -1912,7 +1912,6 @@ estmark
 eisteddfod
 evertebral
 eisteddfodic
-eisteddfodism
 enecate
 ecphorization
 equalizing
@@ -10315,6 +10314,7 @@ ethyldichloroarsine
 epistolographer
 ethylenediamine
 ethylenic
+eisteddfodism
 ethylenimine
 examines
 ethylenoid
