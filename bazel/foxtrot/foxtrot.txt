@@ -2950,7 +2950,6 @@ feuillage
 furcation
 foreshows
 feuillants
-feuillemorte
 feuilleton
 feuilletons
 fleches
@@ -11042,6 +11041,7 @@ fuses
 fascicled
 fumer
 fuseplug
+feuillemorte
 furrowed
 floody
 freakery
