@@ -11674,7 +11674,6 @@ cholee
 cholehematin
 cryptonym
 choleine
-choleinic
 colorization
 cholelith
 cholelithiasis
@@ -12554,6 +12553,7 @@ chosing
 chromoisomerism
 chromoleucite
 chromolipoid
+choleinic
 clarioned
 chromolith
 chromolithic
