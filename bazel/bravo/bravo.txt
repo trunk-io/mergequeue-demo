@@ -1373,6 +1373,7 @@ baldest
 baldfaced
 bloodstained
 baldhead
+blanketmaking
 baldheaded
 baldheads
 braise
@@ -15068,7 +15069,6 @@ brewery
 breweries
 brewers
 benting
-blanketmaking
 brewership
 brewhouse
 brewhouses
