@@ -4577,7 +4577,6 @@ gypsine
 gipsiologist
 gundygut
 gypsite
-gipsyweed
 gypsyweed
 gypsywise
 gipsywort
@@ -6015,6 +6014,7 @@ gliss
 grasshook
 goldfinch
 growler
+gipsyweed
 glucoses
 glances
 glucoside

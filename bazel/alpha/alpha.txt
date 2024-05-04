@@ -11393,7 +11393,6 @@ ampullary
 anselmian
 ampullaria
 ampullate
-asepticize
 ampullated
 arrondissements
 ampulliform
@@ -14344,6 +14343,7 @@ anteroparietal
 anteropygal
 ancipitous
 anterospinal
+asepticize
 anterosuperior
 antes
 antescript
