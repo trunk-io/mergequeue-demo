@@ -989,6 +989,7 @@ fardage
 farded
 forklifts
 fardel
+foxhound
 fardelet
 farding
 fards
@@ -9122,7 +9123,6 @@ fibrinate
 flexionless
 feasing
 foxholes
-foxhound
 film
 foxhounds
 filterer
