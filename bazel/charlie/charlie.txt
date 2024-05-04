@@ -7121,7 +7121,6 @@ codex
 centerpunch
 centervelic
 counterlit
-centerwise
 cunyie
 crackdown
 centesimal
@@ -13469,6 +13468,7 @@ cycloplegic
 cyclopoid
 cyclopropane
 cyclopteridae
+centerwise
 cyclopteroid
 compactification
 cyclopterous
