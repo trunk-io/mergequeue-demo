@@ -9640,7 +9640,6 @@ bisecting
 bisection
 bisectional
 bisections
-bisector
 bisectors
 bisectrices
 busybodyness
@@ -12540,6 +12539,7 @@ bonnwis
 bono
 balcon
 bonorum
+bisector
 befame
 bons
 bagatelle
