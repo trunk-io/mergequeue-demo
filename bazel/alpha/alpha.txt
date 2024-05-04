@@ -5741,7 +5741,6 @@ aftertask
 aftertaste
 aftertastes
 ancestress
-afterthinker
 achromatium
 afterthought
 afterthoughted
@@ -18274,6 +18273,7 @@ alcovinometer
 aquarial
 agt
 armoring
+afterthinker
 aquarian
 aquarians
 aquarid
