@@ -3184,7 +3184,6 @@ geophilidae
 gastrins
 geophysical
 geophysics
-geophytes
 geophytic
 genl
 gestae
@@ -10793,6 +10792,7 @@ gelatinously
 guttiferae
 ganglioneuron
 guttiform
+geophytes
 guffy
 guttiness
 gutting
