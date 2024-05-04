@@ -10454,7 +10454,6 @@ diphenylguanidine
 diphenylhydantoin
 disvulnerability
 diphenylmethane
-diphenylquinomethane
 diphenyls
 diphenylthiourea
 dispowder
@@ -14290,6 +14289,7 @@ divans
 divariant
 divaricating
 divaricatingly
+diphenylquinomethane
 divarication
 diagrammatize
 divaricator
