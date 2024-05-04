@@ -6913,6 +6913,7 @@ gripman
 gynandroid
 galactopyra
 glomi
+grabman
 graticulate
 goodby
 goodbyes
@@ -7556,7 +7557,6 @@ gazetting
 gypseous
 gemmula
 grabhook
-grabman
 grabouche
 grabs
 glasgow
