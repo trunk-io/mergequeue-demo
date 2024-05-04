@@ -752,7 +752,6 @@ fanciness
 fancysick
 fancywork
 flashet
-fand
 fickly
 fixures
 flioma
@@ -2395,6 +2394,7 @@ feoffors
 fidelis
 feoffs
 fumant
+fand
 fer
 farriers
 featherstitching
