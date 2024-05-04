@@ -7239,7 +7239,6 @@ gortonite
 gos
 graphiter
 goshawk
-gunnysack
 geniculated
 goslarite
 goslet
@@ -8606,6 +8605,7 @@ glims
 gorsechat
 gypsography
 greegrees
+gunnysack
 greek
 greekdom
 greekish
