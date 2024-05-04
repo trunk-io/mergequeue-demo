@@ -2225,7 +2225,6 @@ gandergoose
 gazetteerish
 gazetteers
 gazetteership
-gazettes
 gazogenes
 goyetian
 gadder
@@ -8251,6 +8250,7 @@ grassy
 graminaceae
 gallycrow
 galvanoglyphy
+gazettes
 galactically
 grallatorial
 grassie
