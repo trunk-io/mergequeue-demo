@@ -6701,7 +6701,6 @@ deadhead
 desiderata
 disregarder
 dahabiyas
-doubtlessness
 desiderate
 desiderated
 desiderating
@@ -11220,6 +11219,7 @@ dispair
 digitigrada
 disblame
 disbloom
+doubtlessness
 disboard
 disbody
 disbodied
