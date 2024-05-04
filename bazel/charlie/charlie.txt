@@ -10279,7 +10279,6 @@ concremation
 chlorochrous
 chiarooscuro
 chiarooscuros
-chiaroscurist
 chiaroscuros
 chias
 chiasm
@@ -22597,6 +22596,7 @@ cowyard
 connecter
 connecters
 creepmousy
+chiaroscurist
 connectible
 connectibly
 connecticut
