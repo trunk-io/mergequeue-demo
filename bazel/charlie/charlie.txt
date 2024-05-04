@@ -2084,7 +2084,6 @@ camphenes
 camphine
 coalbin
 camphines
-camphires
 campho
 camphocarboxylic
 camphoid
@@ -2520,6 +2519,7 @@ catalan
 candroy
 candroys
 canduc
+camphires
 cane
 corneum
 cities
