@@ -8853,6 +8853,7 @@ allocatable
 allocate
 allocatee
 allocates
+amoyese
 allocating
 allocation
 allocations
@@ -10926,7 +10927,6 @@ amoebous
 amoebula
 amoy
 aldimine
-amoyese
 amoinder
 absenteeism
 amok
