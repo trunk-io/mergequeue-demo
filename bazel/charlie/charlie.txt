@@ -11330,7 +11330,6 @@ chlorines
 chlorinity
 chlorinize
 chicote
-chlorinous
 chlorins
 chloriodide
 counterion
@@ -23821,6 +23820,7 @@ contravene
 contravened
 contravener
 cardueline
+chlorinous
 contravening
 contravention
 contraversion
