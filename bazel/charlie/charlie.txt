@@ -4688,7 +4688,6 @@ carpe
 carped
 carpel
 carpellary
-carpellate
 carpellum
 cytinaceous
 carpentered
@@ -18728,6 +18727,7 @@ colatorium
 colazione
 colberter
 colbertine
+carpellate
 colbertism
 colcannon
 colchian
