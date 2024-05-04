@@ -5252,7 +5252,6 @@ exostema
 endomysium
 endoscopes
 endoscopic
-endoscopically
 endoscopies
 endoscopist
 empyreumatical
@@ -7533,6 +7532,7 @@ enddamage
 epicenes
 epicentral
 epicentrum
+endoscopically
 eozoic
 epicentrums
 existences
