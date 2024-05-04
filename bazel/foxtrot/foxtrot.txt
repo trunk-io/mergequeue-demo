@@ -2208,6 +2208,7 @@ flogging
 flatfooting
 felonwort
 feriae
+fraela
 fels
 felsites
 freewoman
@@ -9231,7 +9232,6 @@ fradicin
 foolify
 freakout
 frae
-fraela
 fraena
 fiefs
 foundationless
