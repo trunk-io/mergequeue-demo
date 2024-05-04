@@ -489,7 +489,6 @@ eccrine
 eccrinology
 eccrisis
 eccritic
-endmatcher
 extradecretal
 ecdemic
 embrangling
@@ -2276,6 +2275,7 @@ electroacoustically
 electroacoustics
 ensnaringly
 electroaffinity
+endmatcher
 electroamalgamation
 electroanalytic
 embassade
