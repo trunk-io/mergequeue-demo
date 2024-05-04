@@ -5628,7 +5628,6 @@ depauperize
 depauperized
 depeach
 depeinct
-depel
 depencil
 depend
 dependability
@@ -12195,6 +12194,7 @@ disfortune
 disframe
 disfranchisement
 disfranchises
+depel
 disfrancnise
 deride
 disfrequent
