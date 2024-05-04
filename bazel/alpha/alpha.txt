@@ -1934,7 +1934,6 @@ acerval
 acervate
 acervation
 acervative
-acervose
 arteriococcygeal
 acervuline
 acervulus
@@ -18957,6 +18956,7 @@ archfoe
 archfool
 archform
 archfounder
+acervose
 ambush
 archgenethliac
 archgod
