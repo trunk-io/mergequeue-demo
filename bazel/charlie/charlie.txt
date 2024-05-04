@@ -6670,7 +6670,6 @@ counterthrust
 ceil
 credenzas
 clamoring
-ceylanite
 celestine
 ceiled
 ceilers
@@ -11376,6 +11375,7 @@ chloroethene
 chloroethylene
 chlorofluorocarbon
 chlorofluoromethane
+ceylanite
 chloroformate
 churched
 chloroformed
