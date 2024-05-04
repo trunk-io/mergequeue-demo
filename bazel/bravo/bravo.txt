@@ -5624,6 +5624,7 @@ belaboring
 blankit
 belabours
 belace
+bulletheaded
 bewigs
 beladies
 bedeen
@@ -16692,7 +16693,6 @@ blagueur
 bucklering
 bucklers
 buckles
-bulletheaded
 buckling
 boongary
 bucklum
