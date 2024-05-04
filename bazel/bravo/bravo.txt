@@ -9041,7 +9041,6 @@ biogeographer
 biogeographical
 biogeographically
 biographee
-biographer
 biographers
 biography
 bossisms
@@ -17710,6 +17709,7 @@ buried
 bickerers
 barbacou
 barbitone
+biographer
 bino
 buriers
 boff
