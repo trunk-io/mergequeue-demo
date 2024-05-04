@@ -534,7 +534,6 @@ backsword
 backswording
 bettergates
 backswordman
-bestness
 backtender
 backtenter
 backtracked
@@ -3603,6 +3602,7 @@ bathman
 bathmat
 bathmats
 bereaven
+bestness
 bollard
 bathmism
 bathochromatism
