@@ -6801,7 +6801,6 @@ celiorrhea
 celiosalpingotomy
 capless
 contangos
-celioschisis
 celioscope
 celioscopy
 celiotomy
@@ -7731,6 +7730,7 @@ ceremonies
 ceremonious
 ceremoniousness
 cereous
+celioschisis
 cerer
 chark
 cererite
