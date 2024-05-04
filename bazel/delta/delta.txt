@@ -4768,6 +4768,7 @@ dees
 demitint
 demitoilet
 demitone
+deteriorated
 demitrain
 demitranslucence
 demits
@@ -13502,7 +13503,6 @@ dissceptered
 deplethoric
 deferentially
 dissceptre
-deteriorated
 doat
 depauperization
 dissceptring
