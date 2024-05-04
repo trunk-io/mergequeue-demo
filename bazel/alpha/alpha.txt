@@ -496,6 +496,7 @@ abjugate
 abjunct
 abjunction
 abjunctive
+anisocoria
 abjuration
 abjurations
 abjuratory
@@ -7919,7 +7920,6 @@ alectrion
 alectrionidae
 alecup
 alee
-anisocoria
 alef
 assisters
 alefnull

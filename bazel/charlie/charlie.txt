@@ -2751,6 +2751,7 @@ canoeists
 canoeload
 canoeman
 canoes
+calmy
 cardiogenesis
 canoewood
 crescendi
@@ -17696,7 +17697,6 @@ cauterant
 comoid
 cockaigne
 cockal
-calmy
 cockalan
 counternoise
 cockpaddle
