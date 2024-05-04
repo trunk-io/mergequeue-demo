@@ -9070,7 +9070,6 @@ continuo
 charioting
 chariotman
 chariotry
-chariots
 chariotway
 conceivability
 charism
@@ -29056,6 +29055,7 @@ crimpiness
 crimping
 crimple
 chattable
+chariots
 crimpness
 crimps
 corbans
