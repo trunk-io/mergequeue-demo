@@ -4394,7 +4394,6 @@ cynara
 carinula
 clyfaker
 carinulate
-carinule
 carioca
 caryocar
 caryocaraceae
@@ -5265,6 +5264,7 @@ casserole
 casseroled
 casseroling
 concurrent
+carinule
 constipating
 cataleptic
 cantar
