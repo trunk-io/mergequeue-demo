@@ -4823,7 +4823,6 @@ encrinic
 encrinidae
 encrinital
 encrinitic
-encrinoid
 encrypting
 encryption
 encrisp
@@ -4893,6 +4892,7 @@ ensconces
 endbrains
 extemporaneous
 enddamaging
+encrinoid
 enantiomorphism
 ende
 energistic
