@@ -9149,7 +9149,6 @@ charnockites
 charnu
 circumagitation
 charon
-charonian
 charonic
 cyanogens
 converted
@@ -30729,6 +30728,7 @@ culicifuge
 choragium
 culicinae
 culicine
+charonian
 columbite
 chiffon
 culicines
