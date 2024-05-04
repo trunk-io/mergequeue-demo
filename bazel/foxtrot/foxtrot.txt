@@ -5173,7 +5173,6 @@ fusetron
 flavoriness
 flavoring
 flavors
-formant
 filippi
 flavorsome
 formulators
@@ -8711,6 +8710,7 @@ faying
 firebases
 fidicula
 frizzled
+formant
 flockmaster
 fortunate
 fortunately
