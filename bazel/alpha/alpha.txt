@@ -14942,6 +14942,7 @@ anticyclically
 anticyclogenesis
 antireactive
 anticyclolysis
+aphotic
 anticyclone
 anticyclones
 anticyclonically
@@ -18830,7 +18831,6 @@ archdapifer
 archdeaconries
 archdeaconship
 archdean
-aphotic
 archdeceiver
 archdefender
 archdepredator
