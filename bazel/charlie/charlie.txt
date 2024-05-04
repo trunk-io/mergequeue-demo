@@ -9595,6 +9595,7 @@ checkout
 circumferences
 checkpoint
 checkpointed
+concursus
 checkpointing
 checkpoints
 commonize
@@ -21569,7 +21570,6 @@ concurring
 concurs
 concursion
 concurso
-concursus
 concuss
 concussant
 concussed
