@@ -5103,6 +5103,7 @@ coagulant
 cascara
 cascaras
 cascaron
+crosslighted
 cascavel
 casco
 crawlways
@@ -29888,7 +29889,6 @@ crossleted
 crossly
 carcase
 crosslight
-crosslighted
 crosslike
 carbosilicate
 crossline
