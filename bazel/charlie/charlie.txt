@@ -11130,7 +11130,6 @@ chitlin
 chitling
 chitlings
 chewstick
-cowpath
 candours
 calamus
 charvet
@@ -27041,6 +27040,7 @@ counterpointing
 counterpoints
 counterpoise
 contestable
+cowpath
 counterpoised
 cervelat
 ceriferous
