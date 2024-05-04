@@ -4039,7 +4039,6 @@ fattable
 finecomb
 fellatrixes
 fletching
-finnish
 finnochio
 filiopietistic
 finns
@@ -6665,6 +6664,7 @@ foeship
 flaringly
 fiddly
 foetation
+finnish
 franked
 fortyish
 foeti
