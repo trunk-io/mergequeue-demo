@@ -1936,7 +1936,6 @@ ejected
 eupatorine
 exorciser
 epinette
-ejection
 exigible
 electragist
 empathically
@@ -8256,6 +8255,7 @@ epitactic
 epitaphian
 electrostatics
 epitaphist
+ejection
 epitaphs
 epitases
 expurgative
