@@ -9238,7 +9238,6 @@ gi
 goethites
 grog
 groggery
-groggeries
 goobers
 gatling
 gardens
@@ -10128,6 +10127,7 @@ gluconate
 galeche
 garle
 guberla
+groggeries
 guiana
 gigantosaurus
 gridding
