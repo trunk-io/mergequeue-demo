@@ -1395,6 +1395,7 @@ gardevin
 granulose
 galium
 gardevisure
+gyrostatics
 gardy
 ginkgo
 gardinol
@@ -3348,7 +3349,6 @@ gerkin
 gonagia
 genros
 gerland
-gyrostatics
 gilver
 gentisic
 ganglands
