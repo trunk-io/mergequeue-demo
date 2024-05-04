@@ -2520,7 +2520,6 @@ frustulum
 fernier
 fernlike
 fernseed
-ferrimagnetic
 flustrum
 faucalize
 fernshaw
@@ -11414,6 +11413,7 @@ fluent
 fossed
 furnace
 followed
+ferrimagnetic
 furnacelike
 furnacemen
 fosters
