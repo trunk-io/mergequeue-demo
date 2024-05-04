@@ -6571,7 +6571,6 @@ cognoscible
 cease
 ceased
 cirripede
-counterargument
 ceaselessness
 ceases
 ceasing
@@ -22487,6 +22486,7 @@ conjectures
 chromolysis
 conjecturing
 cabouca
+counterargument
 conjee
 cellulose
 cevadilla
