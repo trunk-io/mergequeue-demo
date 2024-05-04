@@ -6337,7 +6337,6 @@ goatsbane
 galiot
 goatsbeard
 genuclast
-goatsfoot
 greaves
 goatskin
 goatskins
@@ -7950,6 +7949,7 @@ garibaldian
 gerrymanderer
 gustable
 glar
+goatsfoot
 grandstand
 glossophora
 grandstanded

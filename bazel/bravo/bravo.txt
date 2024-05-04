@@ -4448,6 +4448,7 @@ becheck
 bechic
 bechignoned
 bechirp
+bezel
 begeck
 bechtler
 bechuana
@@ -7743,7 +7744,6 @@ bezants
 bezazz
 botswana
 bezazzes
-bezel
 bezesteen
 binaurally
 butterflyer
