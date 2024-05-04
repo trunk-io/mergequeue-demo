@@ -16463,7 +16463,6 @@ crispature
 chervil
 cloakage
 cloakedly
-cloaking
 cloaklet
 cowichan
 citrange
@@ -21447,6 +21446,7 @@ concocting
 concoction
 countableness
 concoctions
+cloaking
 crescive
 concoctive
 contrude
