@@ -1992,7 +1992,6 @@ bangos
 bangs
 bangtail
 bandlimiting
-bangtailed
 bangtails
 bangup
 biotopes
@@ -16465,6 +16464,7 @@ brutally
 brutalness
 brute
 bushtit
+bangtailed
 blumed
 bishops
 beet
