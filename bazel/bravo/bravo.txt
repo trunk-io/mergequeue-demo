@@ -1190,7 +1190,6 @@ baker
 bakeress
 bakery
 bakeries
-bakerite
 bakerless
 bakerly
 bakerlike
@@ -3036,6 +3035,7 @@ beduin
 brainwashing
 bimetal
 breastplate
+bakerite
 boffola
 basipoditic
 beefing

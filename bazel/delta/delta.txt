@@ -4789,7 +4789,6 @@ dilli
 depressor
 demivambrace
 demivierge
-diaphototropism
 demivirgin
 deadeyes
 demivol
@@ -9414,6 +9413,7 @@ diffrangible
 discontentive
 diffusate
 diffused
+diaphototropism
 duplicator
 diffusely
 diffuseness
