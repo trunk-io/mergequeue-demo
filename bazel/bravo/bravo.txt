@@ -5081,7 +5081,6 @@ botfly
 bloodthirst
 befamilied
 biogeography
-befancy
 befanned
 broider
 befathered
@@ -13090,6 +13089,7 @@ borrasca
 borrel
 borreria
 borrichia
+befancy
 borromean
 bulkheaded
 baldling
