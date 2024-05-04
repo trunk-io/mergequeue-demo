@@ -11958,7 +11958,6 @@ demidog
 disembargo
 disembarkation
 disembarkations
-defeminization
 disembarked
 duskish
 disembarking
@@ -17676,6 +17675,7 @@ dsnames
 dsri
 discriminative
 druery
+defeminization
 daisybush
 democratizes
 dtd
