@@ -9106,7 +9106,6 @@ biomorphic
 bion
 byon
 bionditional
-bionergy
 bionics
 bionomy
 bionomic
@@ -15466,6 +15465,7 @@ babirusa
 biaxially
 bryozoan
 blaubok
+bionergy
 boxes
 barraclade
 bloated
