@@ -96,7 +96,6 @@ goop
 growsome
 gantlets
 gadaba
-gadabout
 gadabouts
 gadarene
 gaddang
@@ -8320,6 +8319,7 @@ gratifier
 glenlivet
 grallatores
 gruffish
+gadabout
 granddads
 gratifying
 governmentalist
