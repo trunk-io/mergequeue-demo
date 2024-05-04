@@ -5555,6 +5555,7 @@ flying
 flyings
 flyleaves
 flyless
+firebrands
 fusee
 flyman
 flymen
@@ -9715,7 +9716,6 @@ freespace
 freest
 fluming
 fibrofatty
-firebrands
 freestanding
 fortunetell
 futurisms

@@ -7176,7 +7176,6 @@ centimo
 centimos
 centinel
 centinormal
-centipedal
 centipedes
 crossties
 centiplume
@@ -26370,6 +26369,7 @@ carya
 cotangent
 cotarius
 cotbetty
+centipedal
 countergambit
 cotch
 cote
