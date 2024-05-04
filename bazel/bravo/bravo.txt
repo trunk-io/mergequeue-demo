@@ -4638,7 +4638,6 @@ bedchairs
 bryophyte
 bratstva
 bedclothing
-bedcord
 byplays
 bedcovers
 beddable
@@ -8560,6 +8559,7 @@ bilgier
 bilgiest
 bilharzial
 bilharzic
+bedcord
 bilharziosis
 bilianic
 boreism
