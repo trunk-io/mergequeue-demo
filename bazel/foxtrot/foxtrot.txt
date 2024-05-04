@@ -7782,6 +7782,7 @@ functionless
 foremother
 forename
 furl
+formosan
 fattiest
 forenames
 fecundify
@@ -8476,7 +8477,6 @@ fluid
 faultless
 fetlock
 formols
-formosan
 formosity
 formous
 forthcall
