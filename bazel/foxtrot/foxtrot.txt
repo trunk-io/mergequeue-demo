@@ -795,6 +795,7 @@ fango
 fangs
 faniente
 fanion
+frowsy
 flusher
 footlike
 fortes
@@ -10584,7 +10585,6 @@ frenchiness
 frownful
 frowns
 frows
-frowsy
 funniment
 frowsier
 forstand
