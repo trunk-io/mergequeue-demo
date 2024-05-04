@@ -3147,7 +3147,6 @@ buoyances
 benny
 berylloid
 bashless
-bashlik
 bashlyks
 bashmuric
 biperforate
@@ -11344,6 +11343,7 @@ bluebook
 bluebottle
 bluebreast
 bluebuck
+bashlik
 bluebush
 bluebutton
 build
