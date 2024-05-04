@@ -872,7 +872,6 @@ gambeson
 gambesons
 gambetta
 gambette
-gimping
 gambian
 girthline
 gambiers
@@ -8093,6 +8092,7 @@ gandhi
 grapeflower
 grapefruit
 grapeful
+gimping
 glaver
 grapey
 gasteromycete
