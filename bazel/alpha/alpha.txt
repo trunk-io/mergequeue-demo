@@ -1837,7 +1837,6 @@ achatour
 accusing
 accusive
 accusor
-accustom
 accustomation
 accustomed
 accustomedly
@@ -22982,6 +22981,7 @@ attacking
 antedated
 attackingly
 attackman
+accustom
 archispore
 attacus
 attagal
