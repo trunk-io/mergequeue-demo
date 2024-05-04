@@ -7269,6 +7269,7 @@ discompt
 dogless
 disorientation
 determents
+dismissible
 dowage
 disseized
 diffusivity
@@ -12823,7 +12824,6 @@ dismissed
 doormaking
 dismissers
 dismisses
-dismissible
 dismissing
 dodrantal
 dismissory
