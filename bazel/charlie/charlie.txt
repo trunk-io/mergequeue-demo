@@ -4840,7 +4840,6 @@ carriageable
 carriageful
 carriages
 carriagesmith
-cloddy
 cinchonicin
 carriageway
 carryall
@@ -25731,6 +25730,7 @@ correlated
 countertripping
 correlates
 correlations
+cloddy
 correlative
 champa
 correlatives
