@@ -11381,7 +11381,6 @@ ampoule
 amps
 absinthe
 ampul
-ampulate
 ampulated
 ampulla
 anhydremia
@@ -20858,6 +20857,7 @@ allurements
 allophylic
 allurers
 arupa
+ampulate
 arusa
 arusha
 aruspex
