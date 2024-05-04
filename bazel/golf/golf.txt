@@ -3274,6 +3274,7 @@ gardenwise
 gepidae
 guidelines
 geraera
+grapheme
 gobernadora
 guarantee
 galban
@@ -8111,7 +8112,6 @@ grapewise
 graphalloy
 graphanalysis
 gigabit
-grapheme
 graphemic
 glycerolyses
 glack
