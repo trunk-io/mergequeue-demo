@@ -6462,7 +6462,6 @@ caver
 cavern
 cavernal
 caverned
-cavernicolous
 cavernitis
 cavernlike
 cavernoma
@@ -10850,6 +10849,7 @@ chinned
 chinners
 chinny
 chinnier
+cavernicolous
 chinniest
 cyclose
 chino
