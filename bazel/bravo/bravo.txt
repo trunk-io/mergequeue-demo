@@ -3802,7 +3802,6 @@ batts
 blowpipe
 bottom
 battu
-battue
 battues
 batture
 battuta
@@ -8423,6 +8422,7 @@ beecher
 bigheaded
 bigheads
 bumpkinet
+battue
 bindwood
 beccaccia
 bigheartedness
