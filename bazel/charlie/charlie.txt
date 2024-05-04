@@ -14202,7 +14202,6 @@ cyprus
 cypsela
 cypseli
 criterion
-cypselid
 cypselidae
 cypseliform
 cypseliformes
@@ -30816,6 +30815,7 @@ culpose
 crickety
 culprit
 culrage
+cypselid
 culsdesac
 cultches
 cultellation
