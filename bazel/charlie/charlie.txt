@@ -13353,7 +13353,6 @@ characterized
 cycliae
 cyclings
 cyclism
-cyclist
 cyclistic
 carnose
 cyclists
@@ -21115,6 +21114,7 @@ concaulescence
 concause
 concavation
 concaveness
+cyclist
 concaves
 concaving
 concavity

@@ -8695,7 +8695,6 @@ equiproportionality
 equips
 equiradial
 echo
-equirotal
 equiseta
 escopet
 equisetaceous
@@ -14134,6 +14133,7 @@ elasticness
 extrusions
 expromission
 enigmatology
+equirotal
 extrusory
 examinations
 ethmopalatine
