@@ -800,7 +800,6 @@ goaf
 grenat
 galvanomagnetic
 galvanomagnetism
-galvanometer
 gombeen
 galvanometers
 gecko
@@ -7072,6 +7071,7 @@ galactodendron
 goosery
 gladiators
 goglets
+galvanometer
 gastrogenital
 gooses
 gooseskin
