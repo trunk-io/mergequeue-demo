@@ -2780,6 +2780,7 @@ baronets
 baronetship
 barong
 blotchiest
+barrowman
 baronga
 barongs
 barony
@@ -2965,7 +2966,6 @@ burrel
 barristerial
 barristress
 barroom
-barrowman
 barrulee
 barruly
 bars
