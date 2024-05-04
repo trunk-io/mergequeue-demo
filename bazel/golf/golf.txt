@@ -2187,7 +2187,6 @@ gymnogenous
 gawking
 garrisoned
 gawkish
-gawkishly
 gawm
 gatewise
 gawn
@@ -7456,6 +7455,7 @@ goutify
 gonidiogenous
 goutish
 gouts
+gawkishly
 goutweed
 griffs
 griming
