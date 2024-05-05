@@ -2683,7 +2683,6 @@ esquamulose
 electrotrephine
 electrotropic
 electrophilically
-egoize
 electrovalence
 electrovalent
 electrovalently
@@ -5658,6 +5657,7 @@ engendure
 enghle
 engild
 engilded
+egoize
 engilding
 empacket
 eulogical
