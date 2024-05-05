@@ -6666,7 +6666,6 @@ berdache
 berdaches
 berdash
 birotation
-brickfielder
 baryglossia
 betons
 bere
@@ -10456,6 +10455,7 @@ blastman
 blastocarpous
 blastocele
 boomers
+brickfielder
 beeflower
 blastochyle
 blastocyte
