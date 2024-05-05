@@ -9780,6 +9780,7 @@ amalgamatize
 amalgamator
 amalgamators
 amalgamist
+amperage
 amalgamization
 amalgamize
 akonge
@@ -11858,7 +11859,6 @@ antimachine
 anam
 anama
 anametadromous
-amperage
 appense
 anamite
 asperous
