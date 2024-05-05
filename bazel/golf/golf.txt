@@ -6721,7 +6721,6 @@ gondolas
 global
 gondoletta
 gangliform
-gondolier
 gordius
 gucks
 gondoliers
@@ -8134,6 +8133,7 @@ ganglions
 gynecicgynecidal
 gleeked
 graphitization
+gondolier
 graphitize
 gyros
 gesticulatively
