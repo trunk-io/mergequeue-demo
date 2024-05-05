@@ -8284,7 +8284,6 @@ diagonal
 disenchants
 diagonalizable
 diagonalization
-diagonalize
 disinteresting
 diagnosing
 diseurs
@@ -10608,6 +10607,7 @@ dioestrum
 director
 diplogangliate
 diplogenesis
+diagonalize
 doxographical
 dislaurel
 diplogenetic
