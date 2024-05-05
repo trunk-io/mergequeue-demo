@@ -4925,7 +4925,6 @@ cartelizing
 cartellist
 carter
 carters
-cartes
 cartesian
 cartesianism
 cartful
@@ -5203,6 +5202,7 @@ cashou
 casimere
 casimeres
 casimir
+cartes
 casimire
 casimires
 casimiroa
