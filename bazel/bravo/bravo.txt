@@ -7052,7 +7052,6 @@ bedsite
 beslimes
 besliming
 billyer
-banque
 boolies
 bepaid
 beslipper
@@ -12151,6 +12150,7 @@ breaststroker
 brionine
 blizzardly
 bolo
+banque
 beld
 bolognan
 bolognas
