@@ -8661,7 +8661,6 @@ equipedal
 enormity
 euchroite
 equipendent
-entoire
 easting
 equiperiodic
 expander
@@ -13922,6 +13921,7 @@ evaporable
 extraovate
 ergamine
 epistomata
+entoire
 enseat
 extraovular
 eugeosyncline
