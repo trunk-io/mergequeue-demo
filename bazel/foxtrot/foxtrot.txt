@@ -1942,7 +1942,6 @@ factional
 flee
 flanned
 feds
-feeable
 feeb
 frostproofing
 fadelessly
@@ -10371,6 +10370,7 @@ fossarian
 formalins
 folkmot
 fromages
+feeable
 fromenty
 faveoli
 fromenties
