@@ -538,6 +538,7 @@ fissirostral
 falla
 feltlike
 flyability
+frostnipped
 fallage
 fallals
 foxwood
@@ -10382,7 +10383,6 @@ fromenties
 fromward
 fitten
 fromwards
-frostnipped
 fronde
 firth
 frondent
