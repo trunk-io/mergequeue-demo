@@ -9421,7 +9421,6 @@ anthill
 alroot
 alruna
 alrune
-alsatia
 alsatian
 alshain
 alsifilm
@@ -15101,6 +15100,7 @@ anticorona
 anticorrosion
 anticorrosive
 anticorrosiveness
+alsatia
 agamospermy
 anticorset
 anticosine
