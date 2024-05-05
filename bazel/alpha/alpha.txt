@@ -10778,7 +10778,6 @@ ammochaetae
 ammocoete
 ammocoetes
 ammocoetid
-ammocoetidae
 alloantibody
 antirent
 abides
@@ -22074,6 +22073,7 @@ asteriskos
 asterisks
 asterismal
 asterisms
+ammocoetidae
 asyndesis
 asterixis
 asternal
