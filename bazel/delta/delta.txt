@@ -6595,6 +6595,7 @@ desecrate
 decollated
 desecrated
 dipole
+diphenyl
 desecrates
 demythologizes
 desecration
@@ -10442,7 +10443,6 @@ diphead
 dibase
 diphenan
 diphenhydramine
-diphenyl
 diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
