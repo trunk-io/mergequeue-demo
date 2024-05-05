@@ -449,7 +449,6 @@ growl
 greyskin
 galea
 galeage
-galeas
 glucuronide
 galeass
 goliard
@@ -6900,6 +6899,7 @@ gonotyl
 gauntlets
 gonotype
 gonotome
+galeas
 gonozooid
 gonzalo
 gonzo
