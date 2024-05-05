@@ -2788,7 +2788,6 @@ faqir
 fid
 festively
 fraze
-festiveness
 festivity
 frosted
 flowerer
@@ -7377,6 +7376,7 @@ flames
 frust
 flinging
 forbidding
+festiveness
 fruitery
 forbiddingly
 forbids
