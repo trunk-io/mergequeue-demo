@@ -2352,7 +2352,6 @@ electrodentistry
 extemporaneousness
 electrification
 electrodeposition
-electrodepositor
 escalation
 electrodes
 electrodesiccation
@@ -8417,6 +8416,7 @@ eighteen
 entrada
 epizooties
 egyptianize
+electrodepositor
 epizootiology
 epizootiological
 equip
