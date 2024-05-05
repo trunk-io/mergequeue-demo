@@ -4647,7 +4647,6 @@ adversa
 adversant
 adversaria
 adversariness
-adversarious
 adversative
 adversatively
 atavus
@@ -21506,6 +21505,7 @@ aspy
 aspic
 aspics
 aspiculate
+adversarious
 aspide
 aspidiaria
 aspidinol
