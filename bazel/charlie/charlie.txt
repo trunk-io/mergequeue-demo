@@ -7824,7 +7824,6 @@ certifiableness
 certificate
 certificated
 certificates
-certificating
 collisions
 certifications
 certificative
@@ -17815,6 +17814,7 @@ counterponderate
 coderived
 coders
 codes
+certificating
 codescendant
 codesign
 codesigns
