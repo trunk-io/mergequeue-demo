@@ -7220,7 +7220,6 @@ detat
 detd
 detect
 defoliating
-detectability
 daishiki
 detected
 detecter
@@ -7381,6 +7380,7 @@ detonize
 detour
 detoured
 duncifying
+detectability
 dorsum
 detouring
 detournement
