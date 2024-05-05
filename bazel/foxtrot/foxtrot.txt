@@ -1996,7 +1996,6 @@ feedsman
 feedstock
 feedstuff
 formicative
-frankable
 feel
 feeler
 forefeel
@@ -4273,6 +4272,7 @@ firstly
 firstlings
 flavius
 fiscal
+frankable
 festivous
 fairyism
 fiscalify
