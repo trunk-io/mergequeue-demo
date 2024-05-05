@@ -2528,7 +2528,6 @@ beslash
 barging
 bargir
 bassetite
-bargoose
 barguest
 barguests
 buzylene
@@ -6029,6 +6028,7 @@ beltway
 bloodspilling
 boondocker
 beluchi
+bargoose
 belucki
 belue
 belugas
