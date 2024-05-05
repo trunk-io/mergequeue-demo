@@ -10314,7 +10314,6 @@ finn
 flintstone
 frogleg
 froglets
-froglike
 footles
 fanzines
 fibroadenia
@@ -11667,6 +11666,7 @@ frustraneous
 fusus
 fundal
 filoselle
+froglike
 flushable
 fut
 futchel
