@@ -3281,6 +3281,7 @@ emandibulate
 eelback
 emane
 emarginated
+expanse
 eclectics
 elzevirian
 eucalyptian
@@ -7094,7 +7095,6 @@ enventual
 enverdure
 edicts
 enviable
-expanse
 expansometer
 enemy
 ergotamine
