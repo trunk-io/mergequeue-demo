@@ -8416,7 +8416,6 @@ apophylaxis
 acappella
 aliptae
 alipteria
-adsessor
 alipterion
 aliptes
 aliptic
@@ -24313,6 +24312,7 @@ argillomagnesian
 autopsy
 autopsic
 autopsical
+adsessor
 autopsychoanalysis
 autopsychosis
 autopsied
