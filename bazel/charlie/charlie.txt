@@ -6244,7 +6244,6 @@ customed
 cauliflory
 cauliflower
 cauliform
-cauligenous
 caulinar
 caulinary
 cauline
@@ -8588,6 +8587,7 @@ champ
 champaca
 champacol
 champagne
+cauligenous
 champagned
 champagneless
 champagnes
