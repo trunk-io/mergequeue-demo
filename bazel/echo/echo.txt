@@ -1900,6 +1900,7 @@ ensampler
 emim
 eirack
 eyrant
+eikon
 eyras
 eyre
 extradictionary
@@ -9711,7 +9712,6 @@ epiphenomenalism
 esopus
 enchiridions
 euphuistically
-eikon
 erectilities
 esoteric
 espantoon
