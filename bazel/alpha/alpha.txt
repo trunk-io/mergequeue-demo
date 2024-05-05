@@ -1265,7 +1265,6 @@ acanthocephalous
 acanthocereus
 acanthocladous
 argenton
-acanthodea
 acanthodean
 abbots
 alabastoi
@@ -24472,6 +24471,7 @@ autoxidation
 autoxidator
 autoxidizability
 autoxidizable
+acanthodea
 autoxidize
 autoxidizer
 autozooid
