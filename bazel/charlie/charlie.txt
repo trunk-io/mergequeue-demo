@@ -2169,7 +2169,6 @@ camptodrome
 camptonite
 camptosorus
 campulitropal
-campulitropous
 cabaan
 campus
 chromatic
@@ -27175,6 +27174,7 @@ counterstep
 chapman
 counterstimulate
 counterstimulation
+campulitropous
 counterstimulus
 counterstock
 counterstratagem
