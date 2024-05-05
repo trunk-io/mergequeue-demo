@@ -6660,7 +6660,6 @@ centibar
 cedrus
 cedula
 cee
-chalutz
 ceennacuelum
 ceibas
 coracomorphic
@@ -31086,6 +31085,7 @@ clinometria
 cupeller
 conscripts
 cupellers
+chalutz
 cupelling
 cupflower
 cupfulfuls
