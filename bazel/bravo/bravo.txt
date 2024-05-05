@@ -1742,7 +1742,6 @@ baltetei
 balthasar
 barterer
 baltheus
-borophenol
 blends
 baltimore
 barandos
@@ -2820,6 +2819,7 @@ babuls
 barothermograph
 barothermohygrograph
 baroto
+borophenol
 barotrauma
 bulgurs
 babi
