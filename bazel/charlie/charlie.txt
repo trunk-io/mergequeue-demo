@@ -2494,7 +2494,6 @@ candlers
 candles
 candleshine
 candleshrift
-candlesnuffer
 candlestand
 cecidiology
 committeewoman
@@ -17200,6 +17199,7 @@ coalescence
 cellarless
 coitions
 coalescency
+candlesnuffer
 coalescent
 coalesces
 coalescing
