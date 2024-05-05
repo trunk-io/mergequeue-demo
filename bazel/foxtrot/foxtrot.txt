@@ -1567,7 +1567,6 @@ fanfaron
 foreshift
 fauterer
 fauteuil
-foredoom
 feverroot
 foreteach
 fauve
@@ -5752,6 +5751,7 @@ flittermouse
 farmlands
 fathmur
 flamb
+foredoom
 flitters
 flitty
 flitting
