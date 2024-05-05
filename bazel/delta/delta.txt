@@ -2816,7 +2816,6 @@ decreer
 decreet
 desmogen
 dop
-decrement
 deflocculator
 dorsalward
 disharmonize
@@ -7862,6 +7861,7 @@ devouringness
 devourment
 deranger
 devoutful
+decrement
 devoutlessly
 devoutlessness
 dukery
