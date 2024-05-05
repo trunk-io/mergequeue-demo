@@ -7235,6 +7235,7 @@ flagarie
 flockman
 footslogged
 footslogger
+fuseau
 finnmarks
 footsores
 fantastic
@@ -11541,7 +11542,6 @@ firesafeness
 finalis
 fuscous
 finicism
-fuseau
 fistic
 fuseboard
 fab
