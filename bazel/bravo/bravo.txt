@@ -2620,6 +2620,7 @@ barkeeps
 byelaws
 bunglesome
 barkey
+briers
 barken
 beknights
 barkentine
@@ -12099,7 +12100,6 @@ bolelike
 bacchanalias
 bolero
 bivoltine
-briers
 biclavate
 boleros
 blaff
