@@ -746,6 +746,7 @@ berrendo
 badgeman
 barrels
 badger
+breeches
 bogwort
 badgered
 badgerer
@@ -14940,7 +14941,6 @@ brimfull
 breechcloths
 breechclout
 breeched
-breeches
 bagatine
 breechesflower
 begift

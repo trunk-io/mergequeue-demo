@@ -6311,7 +6311,6 @@ ecotypic
 envenomation
 enscrolls
 ensphered
-ensculpture
 enseal
 estrones
 eicosane
@@ -13356,6 +13355,7 @@ exophagy
 expressage
 expresser
 edgily
+ensculpture
 expresses
 expressio
 expression
