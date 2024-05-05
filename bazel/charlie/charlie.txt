@@ -17665,7 +17665,6 @@ cochliodont
 cochliodontidae
 cochliodus
 cochlite
-cochlitis
 cochlospermaceae
 cochlospermum
 cochon
@@ -25526,6 +25525,7 @@ corolliform
 capsidae
 corollitic
 corpsmen
+cochlitis
 coromandel
 coromell
 corometer
