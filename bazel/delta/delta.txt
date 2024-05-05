@@ -7445,6 +7445,7 @@ detruck
 detrude
 darbha
 detruded
+dich
 detrudes
 driblet
 distalia
@@ -10684,7 +10685,6 @@ diplosphene
 doradilla
 dawties
 diplospondylism
-dich
 diplostemonous
 diplostichous
 diplotaxis
