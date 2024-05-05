@@ -2988,6 +2988,7 @@ cantoria
 cantorial
 cantorian
 cardsharps
+crystallographic
 cantoris
 cantorous
 cantors
@@ -29475,7 +29476,6 @@ crystallogram
 crystallograph
 crystallographers
 crystallography
-crystallographic
 crystalloid
 crystalloidal
 crystallology
