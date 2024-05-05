@@ -11168,6 +11168,7 @@ chaum
 chivalric
 chivalries
 cosovereign
+controllableness
 caprificator
 chivalrous
 chivalrously
@@ -23869,7 +23870,6 @@ control
 controling
 controllability
 controllable
-controllableness
 controllably
 controller
 costophrenic
