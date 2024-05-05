@@ -10008,6 +10008,7 @@ blights
 bizarrerie
 bield
 biventral
+baroscopical
 bargainor
 beggardom
 biverb
@@ -18271,7 +18272,6 @@ basophile
 buttermonger
 bagworm
 buttermouth
-baroscopical
 butternose
 barathrum
 bronzier
