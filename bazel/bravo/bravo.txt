@@ -2032,7 +2032,6 @@ bankcard
 becrawl
 bankcards
 banked
-bedewoman
 bethought
 bankerdom
 bacteriophobia
@@ -5137,6 +5136,7 @@ beflecked
 beflecking
 bigmouth
 busier
+bedewoman
 ballpoints
 beflecks
 bombycinous
