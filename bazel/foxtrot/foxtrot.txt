@@ -6789,6 +6789,7 @@ fuzing
 foldaway
 foldboater
 farmings
+forethink
 foldboating
 foldboats
 foldcourse
@@ -8085,7 +8086,6 @@ fillister
 fathogram
 foretellers
 foretells
-forethink
 fatiguability
 forethinking
 forethough
