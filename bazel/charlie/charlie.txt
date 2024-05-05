@@ -1104,7 +1104,6 @@ calciphylactic
 calciphylaxis
 calciphile
 calciphilia
-calciphilic
 calciphilous
 calciphyre
 calciphobous
@@ -12475,6 +12474,7 @@ castro
 chromatospheric
 chromatrope
 chromaturia
+calciphilic
 chromazurine
 chromdiagnosis
 chrome
