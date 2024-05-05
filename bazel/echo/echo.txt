@@ -5549,7 +5549,6 @@ enflame
 enflames
 enduringness
 enflaming
-elasmosaurus
 epiklesis
 embryotomy
 enflesh
@@ -6850,6 +6849,7 @@ entomofauna
 entomogenous
 emmantle
 entomol
+elasmosaurus
 entomolegist
 exogamous
 entomology
