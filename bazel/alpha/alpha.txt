@@ -20185,6 +20185,7 @@ arpent
 arpenteur
 arpents
 arquebus
+atoneness
 arquebuses
 arquerite
 arquifoux
@@ -22826,7 +22827,6 @@ atone
 atoneable
 atoned
 atonement
-atoneness
 atoners
 atones
 anocarpous
