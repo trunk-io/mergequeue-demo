@@ -1699,6 +1699,7 @@ eyebalm
 eyebar
 eyebeam
 eyebeams
+expire
 effie
 eyeberry
 ertebolle
@@ -13125,7 +13126,6 @@ expirations
 expirator
 expiratory
 eche
-expire
 expired
 earmark
 embale
