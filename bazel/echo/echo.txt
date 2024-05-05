@@ -1884,7 +1884,6 @@ eyn
 eusuchia
 evechurr
 eyne
-explainability
 einkorn
 epiphysitis
 electrotypic
@@ -10120,6 +10119,7 @@ etceteras
 etape
 etapes
 ensearch
+explainability
 etc
 etcetera
 editchar
