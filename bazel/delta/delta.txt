@@ -7949,7 +7949,6 @@ dexterous
 dedendum
 dauded
 dexterously
-dexterousness
 dextrad
 dextral
 dextrally
@@ -16658,6 +16657,7 @@ drags
 diobolons
 dialkyl
 diopside
+dexterousness
 dragsaw
 deathbeds
 dragsmen

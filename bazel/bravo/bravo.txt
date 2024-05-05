@@ -2329,7 +2329,6 @@ bubaline
 barbers
 breastfeeding
 bagger
-barbershops
 barbet
 barbette
 baobab
@@ -16656,6 +16655,7 @@ befringed
 bucket
 baudery
 bucketeer
+barbershops
 bucketer
 bucketful
 bucketfull
