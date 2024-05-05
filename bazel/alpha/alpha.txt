@@ -6918,7 +6918,6 @@ adiate
 abortus
 airglow
 airglows
-acondylous
 airgraphics
 areopagus
 anisometropia
@@ -10038,6 +10037,7 @@ ambit
 ambital
 autotoxis
 ambitendency
+acondylous
 ambitendencies
 ambitendent
 ambition
