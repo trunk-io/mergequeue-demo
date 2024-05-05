@@ -6004,7 +6004,6 @@ archsnob
 agents
 ageometrical
 ager
-ageratum
 ageratums
 agers
 adeptest
@@ -13004,6 +13003,7 @@ anguishes
 antipriming
 anguishful
 anguishing
+ageratum
 anguishous
 angula
 angular
