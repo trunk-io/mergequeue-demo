@@ -1278,7 +1278,6 @@ acanthodes
 acanthodian
 acanthodidae
 acanthodini
-acanthoid
 acantholimon
 acanthology
 avowal
@@ -22560,6 +22559,7 @@ atheist
 atheistical
 attid
 annexer
+acanthoid
 anteinitial
 ablepharus
 atheistically
