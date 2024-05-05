@@ -3333,7 +3333,6 @@ basketwork
 bucconasal
 basketworm
 beaverpelt
-basking
 baskish
 basnat
 baltic
@@ -9133,6 +9132,7 @@ biopoiesis
 biod
 bertholletia
 biological
+basking
 blanching
 biopotential
 biaxal
