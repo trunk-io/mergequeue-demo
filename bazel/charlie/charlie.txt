@@ -6539,7 +6539,6 @@ caza
 cazibi
 cazimi
 cazique
-caziques
 cb
 coeditorship
 cc
@@ -8279,6 +8278,7 @@ checkoff
 chairmender
 chairmending
 chairpersons
+caziques
 colpoplastic
 chairs
 chairway
