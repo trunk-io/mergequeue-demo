@@ -19336,7 +19336,6 @@ cadmean
 colopexy
 colopexia
 colopexotomy
-colophan
 colophane
 colophany
 colophene
@@ -25757,6 +25756,7 @@ callow
 citators
 correspondentship
 corresponder
+colophan
 conule
 corresponding
 crated
