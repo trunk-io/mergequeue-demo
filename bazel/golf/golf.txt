@@ -5961,7 +5961,6 @@ grazie
 gonoblastidial
 ginorite
 glucid
-glucidic
 gyromitra
 glucinium
 gypsologist
@@ -6530,6 +6529,7 @@ goldarned
 goldbeater
 goburra
 goldbeating
+glucidic
 gigglers
 gregorian
 gouger
