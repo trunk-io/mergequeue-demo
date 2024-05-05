@@ -8699,7 +8699,6 @@ equiproportional
 equiproportionality
 equips
 equiradial
-echo
 equiseta
 escopet
 equisetaceous
@@ -12692,6 +12691,7 @@ encharge
 exolete
 electrized
 exometritis
+echo
 emerse
 encephaloma
 exomologesis
