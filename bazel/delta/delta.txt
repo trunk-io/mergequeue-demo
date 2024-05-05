@@ -4973,7 +4973,6 @@ divines
 demonship
 demonstrable
 destructing
-demonstrableness
 drays
 demonstrably
 demonstrandum
@@ -13349,6 +13348,7 @@ discord
 disputes
 diacritically
 disputing
+demonstrableness
 decorrugative
 demonological
 disputisoun
