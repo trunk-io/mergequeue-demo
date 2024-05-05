@@ -10937,7 +10937,6 @@ chipproof
 clocher
 chypre
 cottonpicking
-chips
 chipwood
 chiquero
 chiquest
@@ -28100,6 +28099,7 @@ crandallite
 crane
 craned
 craney
+chips
 cranelike
 cranemen
 craner
