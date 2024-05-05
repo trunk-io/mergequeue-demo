@@ -7969,6 +7969,7 @@ cataphoretic
 cest
 cesta
 cestidae
+clockkeeper
 cestode
 cestodes
 cestoi
@@ -16477,7 +16478,6 @@ clockface
 clockhouse
 clocking
 clockings
-clockkeeper
 clockless
 cuon
 clockmaker
