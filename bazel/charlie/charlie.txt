@@ -3687,7 +3687,6 @@ caravaneer
 cosmogonize
 chemics
 caravaner
-caravaning
 caravanist
 caravanned
 chetty
@@ -9721,6 +9720,7 @@ cheesemongering
 cheesemongerly
 cheeseparer
 closeup
+caravaning
 cheeseparing
 cheeser
 cheeses
