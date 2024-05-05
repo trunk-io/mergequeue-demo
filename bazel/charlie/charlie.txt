@@ -606,7 +606,6 @@ caecilia
 caecilian
 caeciliidae
 caecity
-caecostomy
 caecotomy
 caecum
 caedmonian
@@ -6934,6 +6933,7 @@ captaining
 cembalo
 cembalon
 cembalos
+caecostomy
 cement
 cementa
 cemental
