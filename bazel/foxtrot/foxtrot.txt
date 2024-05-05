@@ -165,7 +165,6 @@ fulminates
 factionist
 factionistism
 factions
-factious
 flirtatious
 friborg
 fabulous
@@ -7081,6 +7080,7 @@ fleapit
 foolmonger
 foolocracy
 flubdubs
+factious
 fusional
 foretokens
 foolproof
