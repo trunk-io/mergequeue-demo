@@ -2248,7 +2248,6 @@ deceive
 deceiver
 deceivers
 deceiving
-decelerate
 dustbox
 decelerates
 decelerator
@@ -7405,6 +7404,7 @@ detoxified
 discovering
 detoxifier
 diagrammatically
+decelerate
 dissipable
 digitately
 detract
