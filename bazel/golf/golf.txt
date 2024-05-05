@@ -8617,7 +8617,6 @@ greekdom
 greekish
 greekism
 gawkier
-garapata
 glyph
 greekize
 greekling
@@ -9090,6 +9089,7 @@ gripey
 gramicidin
 gemmoid
 gripes
+garapata
 geoponic
 gouldian
 gripgrass
