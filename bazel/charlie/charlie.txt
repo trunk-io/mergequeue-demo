@@ -7678,7 +7678,6 @@ cerebrize
 cerebrocardiac
 cerebroganglionic
 cerebroid
-cerebroma
 cerebromalacia
 cerebromeningeal
 cerebromeningitis
@@ -20436,6 +20435,7 @@ companable
 companage
 compander
 counterword
+cerebroma
 companeros
 cannels
 company

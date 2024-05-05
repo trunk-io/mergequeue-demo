@@ -4869,7 +4869,6 @@ endamage
 endamagement
 endamages
 endameba
-elelments
 endamebae
 endamebiasis
 extradictable
@@ -6564,6 +6563,7 @@ elaterid
 exolemma
 emove
 emphases
+elelments
 endothecate
 enterobacterial
 eosinophilia
