@@ -338,7 +338,6 @@ aberrants
 aberrating
 aberration
 aberrational
-aberrations
 aberrative
 aloha
 acinose
@@ -9787,6 +9786,7 @@ amalgamators
 amalgamist
 amperage
 amalgamization
+aberrations
 amalgamize
 akonge
 amalic
