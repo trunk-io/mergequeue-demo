@@ -5827,6 +5827,7 @@ goldsmithery
 getid
 glossohyal
 gaultherase
+gyres
 gobos
 gaonic
 glossolalia
@@ -7778,7 +7779,6 @@ grangerite
 gratiano
 gemauve
 gramineae
-gyres
 graminiform
 gynaeocracy
 gravitational
