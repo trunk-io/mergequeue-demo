@@ -451,7 +451,6 @@ daystreak
 daytide
 daytimes
 dayton
-daiva
 dentately
 disburthen
 denda
@@ -16687,6 +16686,7 @@ drainfield
 draining
 disvelop
 drainman
+daiva
 drainpipe
 despoiling
 dattock
