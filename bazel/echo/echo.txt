@@ -199,7 +199,6 @@ earthsmoke
 earthwall
 exhumed
 earthwards
-earthwork
 earthworks
 enddamaged
 earthworms
@@ -2870,6 +2869,7 @@ eleventeenth
 eleventh
 eleventhly
 elevon
+earthwork
 elevons
 elf
 elfenfolk
