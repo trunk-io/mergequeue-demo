@@ -5177,6 +5177,7 @@ flavour
 fencelike
 fallers
 fstore
+flot
 flavoured
 fomenter
 fableland
@@ -6062,7 +6063,6 @@ foliar
 foresaid
 florescent
 flossing
-flot
 flota
 fanfarade
 flawy
