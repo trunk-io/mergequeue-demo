@@ -10173,7 +10173,6 @@ alloted
 ambulante
 antihierarchical
 aspiculous
-ambulate
 ambulated
 atropinism
 ambulates
@@ -23878,6 +23877,7 @@ autoactive
 autoagglutinating
 autoagglutinin
 autoalarm
+ambulate
 autoalkylation
 autoallogamous
 autoanalysis
