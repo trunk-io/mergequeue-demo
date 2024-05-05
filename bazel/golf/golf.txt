@@ -793,7 +793,6 @@ gradations
 grahamism
 gratifications
 gien
-goaf
 grenat
 galvanomagnetic
 galvanomagnetism
@@ -7963,6 +7962,7 @@ grane
 granes
 gunrooms
 granet
+goaf
 grangerize
 gongorism
 gastrulas
