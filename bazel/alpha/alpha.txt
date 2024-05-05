@@ -1912,7 +1912,6 @@ aceratherium
 acerbate
 acerbated
 acerbates
-anthropomorphism
 acerbating
 acerber
 avarice
@@ -14762,6 +14761,7 @@ antiarcha
 antiarchi
 antiarin
 antilogarithm
+anthropomorphism
 antiarins
 antiaristocracy
 aminoacetal

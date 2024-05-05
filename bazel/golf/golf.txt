@@ -4421,7 +4421,6 @@ groundsill
 glozing
 gingerspice
 gingerwort
-globularity
 gingiva
 gingivae
 gingival
@@ -4995,6 +4994,7 @@ gladsomest
 gladwin
 grivois
 galletas
+globularity
 gusain
 glaga
 glagolic
