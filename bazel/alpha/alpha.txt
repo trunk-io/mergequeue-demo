@@ -21954,6 +21954,7 @@ assume
 araneidal
 apophis
 assumedly
+automats
 assument
 assumer
 assumers
@@ -24211,7 +24212,6 @@ automatonlike
 automatons
 automatonta
 automatous
-automats
 automechanical
 automechanism
 arghan
