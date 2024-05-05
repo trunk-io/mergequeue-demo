@@ -1712,7 +1712,6 @@ gastnesses
 gregarinida
 gingili
 grignet
-gastornithidae
 gaunted
 goldenmouthed
 gallocyanin
@@ -6684,6 +6683,7 @@ gideonite
 gomorrean
 geology
 gomphocarpus
+gastornithidae
 garbless
 goodwily
 giroflore
