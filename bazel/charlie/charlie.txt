@@ -6253,7 +6253,6 @@ catalases
 caulocarpic
 caulome
 caulomic
-caulophylline
 caulophyllum
 caulopteris
 caulosarc
@@ -29260,6 +29259,7 @@ cryptocleidus
 ceinte
 cryptoclimate
 cryptococci
+caulophylline
 cryptococcosis
 cryptococcus
 cryptocommercial
