@@ -8979,7 +8979,6 @@ antirobin
 arrythmia
 allophylus
 allophite
-allophone
 allophones
 allophonic
 allophonically
@@ -21315,6 +21314,7 @@ asystolic
 asyzygetic
 atterrate
 ask
+allophone
 askable
 askant
 askapart

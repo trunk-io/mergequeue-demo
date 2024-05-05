@@ -2908,7 +2908,6 @@ boardy
 brattle
 barrelmaker
 barrelmaking
-birdwomen
 barrelwise
 barren
 barrenly
@@ -4490,6 +4489,7 @@ batis
 belchers
 becloaking
 becloaks
+birdwomen
 blackfriars
 beclog
 beclogged
