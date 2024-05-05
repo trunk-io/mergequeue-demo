@@ -343,7 +343,6 @@ fusses
 fungal
 fortypenny
 faineance
-faineancy
 frostproof
 foredeck
 faineant
@@ -11457,6 +11456,7 @@ furore
 furphy
 furcated
 furred
+faineancy
 frowsiness
 furry
 furrieries
