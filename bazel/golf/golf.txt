@@ -5370,7 +5370,6 @@ galoshed
 glycidol
 genders
 glycinin
-glycins
 goozle
 guilders
 gekkonidae
@@ -8490,6 +8489,7 @@ gnomical
 governante
 gravities
 guatemala
+glycins
 gravitometer
 graviton
 gravitons
