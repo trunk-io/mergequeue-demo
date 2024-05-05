@@ -2942,7 +2942,6 @@ bemazed
 boarders
 barricados
 bulbilla
-barrico
 barricoes
 barrier
 barriers
@@ -16916,6 +16915,7 @@ buggies
 buggiest
 baloch
 buggymen
+barrico
 bugginess
 bught
 baku
