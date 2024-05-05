@@ -2466,7 +2466,6 @@ designs
 decyne
 diaeresis
 decinormal
-dispenser
 decipherability
 decipherable
 dand
@@ -7235,6 +7234,7 @@ dyspnoeic
 detenant
 desolately
 detenebrate
+dispenser
 detente
 dicotyl
 dreparnaudia
