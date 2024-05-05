@@ -2290,6 +2290,7 @@ canallers
 canalling
 canals
 channelwards
+cylindrocellular
 calinda
 canalside
 canamary
@@ -13641,7 +13642,6 @@ cylindricity
 cylindricule
 cylindriform
 cylindrite
-cylindrocellular
 carnifying
 calpack
 cylindrocylindric
