@@ -1794,6 +1794,7 @@ accuracies
 ada
 accurately
 approvement
+ammoniaemia
 affliction
 accurre
 accurse
@@ -10800,7 +10801,6 @@ appellancy
 ammonia
 ammoniacs
 ammoniacum
-ammoniaemia
 artly
 ankaramite
 ammoniated
