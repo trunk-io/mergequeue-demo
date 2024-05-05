@@ -7140,7 +7140,6 @@ envolume
 envolupen
 enwall
 enwallow
-entonement
 enweb
 epitrichium
 enwheel
@@ -10101,6 +10100,7 @@ esu
 entone
 esugarization
 enneastylos
+entonement
 effortful
 expansibly
 esurient
