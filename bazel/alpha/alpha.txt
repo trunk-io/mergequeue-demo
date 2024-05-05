@@ -9570,7 +9570,6 @@ altos
 algorithm
 altostratus
 altrices
-altricial
 altropathy
 altruism
 alignment
@@ -11605,6 +11604,7 @@ anacrogynae
 amba
 anacrogynous
 anacrotic
+altricial
 anacrotism
 anacruses
 anacrustic
