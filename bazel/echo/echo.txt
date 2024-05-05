@@ -8566,7 +8566,6 @@ epigeous
 equiaxe
 elaborately
 equiaxed
-equiaxial
 everglades
 exedrae
 essoiner
@@ -12658,6 +12657,7 @@ exodermis
 exoderms
 exody
 elaphodus
+equiaxial
 exodic
 erythrocyte
 exodium
