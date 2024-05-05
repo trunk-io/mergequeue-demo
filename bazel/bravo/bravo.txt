@@ -1154,7 +1154,6 @@ boxer
 bajocco
 bajochi
 bajoire
-beliquor
 bread
 bajonado
 bajra
@@ -17724,6 +17723,7 @@ brisket
 burka
 burke
 burked
+beliquor
 burker
 burkes
 bascules
