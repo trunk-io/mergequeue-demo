@@ -4858,7 +4858,6 @@ cutthroats
 carryouts
 crosshatched
 carryover
-carryovers
 carritch
 carritches
 carbohydrazide
@@ -16036,6 +16035,7 @@ clerk
 clerkage
 chalcotript
 chunderous
+carryovers
 clerkdom
 clerkdoms
 clerkery
