@@ -3496,7 +3496,6 @@ captaincy
 captaincies
 captained
 captainry
-cesure
 captainship
 captainships
 captan
@@ -26187,6 +26186,7 @@ cosmopolite
 cosmopolitics
 cosmopolitism
 cosmorama
+cesure
 cosmoramic
 checking
 cosmoses
