@@ -3462,6 +3462,7 @@ badgerly
 bastions
 battutas
 bastite
+brushfire
 bastnasite
 balanoglossus
 basto
@@ -7721,7 +7722,6 @@ biogenies
 bewrayment
 beeper
 bewrays
-brushfire
 bewraps
 bathycurrent
 buffleheaded
