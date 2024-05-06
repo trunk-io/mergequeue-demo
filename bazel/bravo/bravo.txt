@@ -4641,6 +4641,7 @@ bedcase
 brunneous
 bedchair
 bedchairs
+buntal
 bryophyte
 bratstva
 bedclothing
@@ -6223,7 +6224,6 @@ benedictions
 bolides
 biker
 benedictive
-buntal
 benedictively
 benedictory
 biggonet
