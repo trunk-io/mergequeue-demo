@@ -1942,6 +1942,7 @@ bandstands
 bandster
 ballroom
 bandstop
+brewings
 bandstring
 bandurria
 bandusia
@@ -15082,7 +15083,6 @@ brewership
 brewhouse
 brewhouses
 brewing
-brewings
 brewis
 benzofuroquinoxaline
 brewises
