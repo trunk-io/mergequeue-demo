@@ -4132,6 +4132,7 @@ cardiologist
 cardiologists
 camacey
 cardiomegaly
+cyclus
 cardiomelanosis
 cardiometer
 cardiometric
@@ -13510,7 +13511,6 @@ cyclotosaurus
 cyclotrimethylenetrinitramine
 cyclotron
 cyclotrons
-cyclus
 cicone
 ciconia
 ciconiae
