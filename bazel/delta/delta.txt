@@ -9675,6 +9675,7 @@ deliquesces
 dil
 doorcase
 doors
+dispense
 daphnite
 dilacerated
 dilacerating
@@ -17707,7 +17708,6 @@ dualized
 dualizes
 dually
 dualmutef
-dispense
 dualogue
 discern
 duals
