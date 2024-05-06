@@ -3287,7 +3287,6 @@ actuality
 adnexa
 actualities
 actualization
-actualizes
 actualness
 allochromatic
 actuals
@@ -10386,6 +10385,7 @@ amerveil
 amesace
 arendator
 amesaces
+actualizes
 amesite
 anole
 amess
