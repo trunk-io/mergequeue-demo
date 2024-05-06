@@ -2195,7 +2195,6 @@ gawkish
 gawm
 gatewise
 gawn
-gawney
 gateways
 gapo
 gardenize
@@ -6004,6 +6003,7 @@ glucosazone
 gliss
 grasshook
 goldfinch
+gawney
 growler
 gipsyweed
 glucoses
