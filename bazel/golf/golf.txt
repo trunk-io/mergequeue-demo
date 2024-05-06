@@ -514,7 +514,6 @@ gales
 galesaur
 geonoma
 gallants
-galesaurus
 garrya
 galeus
 galewort
@@ -624,6 +623,7 @@ gallying
 gallimaufry
 gallinaceae
 gallinacean
+galesaurus
 gasless
 gammas
 gallinaceous
