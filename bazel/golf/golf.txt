@@ -427,6 +427,7 @@ galateas
 galatian
 galatic
 galbula
+gd
 galatine
 gelled
 galilei
@@ -2236,7 +2237,6 @@ grainer
 graders
 gcd
 gconv
-gd
 gdinfo
 gds
 grayfish
