@@ -1637,7 +1637,6 @@ gandermooner
 gasohol
 gasolene
 gasolier
-gasoliery
 gangland
 gasoliers
 gasoliner
@@ -5157,6 +5156,7 @@ gravery
 glassmaker
 glassmaking
 grav
+gasoliery
 gunman
 gamotropism
 gormless
