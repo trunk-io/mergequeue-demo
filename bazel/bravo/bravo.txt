@@ -5686,7 +5686,6 @@ beldams
 bacchar
 britten
 belderroot
-beleaf
 bombazeen
 brightens
 bombline
@@ -13218,6 +13217,7 @@ bosslet
 bossship
 bonnyvis
 bevellers
+beleaf
 bosniac
 bucketfuls
 breast
