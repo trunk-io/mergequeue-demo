@@ -4544,7 +4544,6 @@ autohemolysis
 adulthood
 adulticidal
 adulticide
-adultly
 adultlike
 adultness
 adultoid
@@ -12378,6 +12377,7 @@ affranchising
 astigmatically
 andorite
 andoroba
+adultly
 andorobo
 andorran
 andouillet
