@@ -227,7 +227,6 @@ euripus
 endoperidial
 easeled
 easeless
-easement
 easements
 encystation
 eurypylous
@@ -4524,6 +4523,7 @@ encephalomeningocele
 encephalometric
 encephalomyelitic
 ectocarpous
+easement
 encephalomyelitis
 entalent
 entrepreneurial
