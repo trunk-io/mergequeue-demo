@@ -741,6 +741,7 @@ baddy
 baddie
 betimber
 baddies
+babyish
 baddish
 baddishness
 bade
@@ -12870,7 +12871,6 @@ bootlegger
 bootlegging
 bootlegs
 bootless
-babyish
 bootlessly
 bootlessness
 bootlick
