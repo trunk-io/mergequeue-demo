@@ -2668,7 +2668,6 @@ edaphodont
 electrotherapy
 electrotherapist
 electrotheraputic
-executional
 electrothermal
 expurgates
 epiperipheral
@@ -4967,6 +4966,7 @@ endenization
 ethnocentric
 endenize
 endenizen
+executional
 ender
 enclosing
 entosarc
