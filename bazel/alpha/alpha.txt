@@ -4632,7 +4632,6 @@ adventuress
 adventuresses
 adventuring
 adventurism
-adventurist
 adventuristic
 adventurous
 adventurousness
@@ -23313,6 +23312,7 @@ audience
 audiencer
 asteriae
 alpenhorn
+adventurist
 audiences
 audiencia
 aerobacters
