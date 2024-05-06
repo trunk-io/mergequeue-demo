@@ -11261,7 +11261,6 @@ disburse
 disbursements
 duckpins
 decolorimeter
-disburses
 divinistre
 definability
 distortedly
@@ -14165,6 +14164,7 @@ dene
 ditch
 ditchdigger
 ditchdigging
+disburses
 defensible
 ditched
 ditchers
