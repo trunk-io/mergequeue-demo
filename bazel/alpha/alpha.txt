@@ -6362,6 +6362,7 @@ agonia
 agoniada
 aul
 ascabart
+alchemise
 acanthite
 agoniatite
 agoniatites
@@ -19415,7 +19416,6 @@ arenites
 aristas
 arenoid
 arenosity
-alchemise
 areographer
 areography
 areographic
