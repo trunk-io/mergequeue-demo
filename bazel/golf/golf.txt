@@ -1239,7 +1239,6 @@ ganton
 grouses
 genin
 gantsl
-globing
 ganza
 grazers
 guffin
@@ -8339,6 +8338,7 @@ gaffe
 gawsie
 gratin
 gratingly
+globing
 gratings
 gyromele
 gratins
