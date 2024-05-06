@@ -10260,7 +10260,6 @@ guise
 guitar
 grubstake
 grubhood
-gt
 guitarist
 guitarists
 ghazies
@@ -10371,6 +10370,7 @@ glucosidal
 gigawatts
 gulonic
 gulose
+gt
 gulosity
 globuliferous
 grein
