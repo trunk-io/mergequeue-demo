@@ -4360,6 +4360,7 @@ fitnesses
 fibroglioma
 febricity
 fishplate
+fossa
 feste
 fishpole
 foodlessness
@@ -8789,7 +8790,6 @@ facily
 fly
 frustula
 fosite
-fossa
 flunks
 frolicly
 fossage
