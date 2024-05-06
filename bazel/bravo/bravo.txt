@@ -4644,7 +4644,6 @@ byplays
 bedcovers
 beddable
 blader
-bedders
 blent
 bedding
 beddingroll
@@ -5225,6 +5224,7 @@ bohemias
 beg
 begabled
 begad
+bedders
 boskopoid
 begay
 begalled
