@@ -7446,6 +7446,7 @@ beleft
 balusters
 bethorn
 burthenman
+bookmaker
 bethorning
 bethorns
 bethrall
@@ -12689,7 +12690,6 @@ bhavan
 bioecologic
 booklouse
 booklover
-bookmaker
 bookmakers
 bedot
 blackishly
