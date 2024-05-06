@@ -943,7 +943,6 @@ finespun
 flattener
 familiarisingly
 furile
-fabric
 faradmeter
 ferny
 fhrer
@@ -2660,6 +2659,7 @@ ferruler
 ferrules
 federalese
 ferrum
+fabric
 freshes
 ferruminating
 ferrumination
