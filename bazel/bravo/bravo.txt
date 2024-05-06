@@ -3768,7 +3768,6 @@ battlepiece
 barnstorms
 battler
 battles
-bookable
 battleship
 battleships
 buhr
@@ -8702,6 +8701,7 @@ billionism
 billions
 billionth
 billionths
+bookable
 brawliest
 brightsomeness
 bowling
