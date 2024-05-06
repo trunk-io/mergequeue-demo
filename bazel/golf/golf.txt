@@ -7981,6 +7981,7 @@ gadding
 granite
 granites
 gestatorial
+greedy
 gladioli
 groundsel
 granitification
@@ -8939,7 +8940,6 @@ glued
 ganglier
 giveaway
 grieffully
-greedy
 grivoise
 grievable
 gote
