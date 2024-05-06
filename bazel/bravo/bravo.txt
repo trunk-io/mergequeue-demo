@@ -3177,7 +3177,6 @@ baltis
 booklores
 bukat
 bolis
-baluchistan
 basics
 blastozooid
 basilicalike
@@ -14663,6 +14662,7 @@ bobbling
 braunite
 braunites
 bonbonniere
+baluchistan
 braunschweiger
 brauronia
 brauronian
