@@ -2504,7 +2504,6 @@ candlewaster
 candlewasting
 candlewick
 candlewicking
-catchers
 candlewicks
 candlewright
 candling
@@ -8525,6 +8524,7 @@ chambrays
 chambranle
 confected
 chambre
+catchers
 chamecephaly
 chamecephalic
 chamecephalous
