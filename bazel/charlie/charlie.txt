@@ -3458,6 +3458,7 @@ capstan
 capstans
 capstone
 creekside
+commons
 capsula
 cons
 coached
@@ -20237,7 +20238,6 @@ commonplacely
 commonplaceness
 commonplacer
 corrodingly
-commons
 commonsense
 carpels
 commonsensible
