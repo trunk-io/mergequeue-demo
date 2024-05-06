@@ -2823,7 +2823,6 @@ frontosquamosal
 fitcher
 faunae
 filanders
-fetchers
 farmsteads
 fetching
 floreat
@@ -5241,6 +5240,7 @@ ferdwit
 flimflam
 formolite
 fldxt
+fetchers
 flea
 fleabag
 fusible
