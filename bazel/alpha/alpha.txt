@@ -9453,6 +9453,7 @@ altared
 allodies
 altarpieces
 altars
+armbone
 altarwise
 altazimuth
 alter
@@ -20765,7 +20766,6 @@ artiller
 artillery
 artilleries
 avodire
-armbone
 artilleryman
 artillerymen
 aurochloride
