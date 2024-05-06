@@ -2915,7 +2915,6 @@ barrelwise
 barren
 barrenly
 barrenness
-barrenwort
 blockaderunning
 barretor
 bloodybones
@@ -3229,6 +3228,7 @@ basileus
 basilian
 bicorporeal
 basilic
+barrenwort
 basilica
 belverdian
 basilicae
