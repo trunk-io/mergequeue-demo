@@ -852,7 +852,6 @@ cajolements
 cleidotomy
 cajolery
 cajoleries
-cajolers
 cajoles
 cajoling
 cajolingly
@@ -12095,6 +12094,7 @@ coheres
 chorological
 choromania
 choromanic
+cajolers
 chorometry
 chorook
 cyclops
