@@ -7385,6 +7385,7 @@ forbids
 farfels
 foregather
 florilegia
+friandise
 forbled
 fading
 forbode
@@ -9934,7 +9935,6 @@ friand
 factorist
 foretrysail
 fuci
-friandise
 friar
 fremitus
 friary
