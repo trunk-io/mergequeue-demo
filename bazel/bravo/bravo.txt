@@ -3361,7 +3361,6 @@ basophilia
 bushel
 bottlesful
 basophilic
-basophilous
 basqued
 basques
 bass
@@ -17176,6 +17175,7 @@ bullhead
 bodysurfing
 bullheaded
 bullheads
+basophilous
 bullhoof
 bullhorn
 bullhorns
