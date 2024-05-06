@@ -5072,7 +5072,6 @@ deadhand
 driftpin
 diduce
 dename
-denar
 denarcotization
 disgregation
 denari
@@ -16569,6 +16568,7 @@ draftswomanship
 draftwoman
 drag
 dragading
+denar
 dragboat
 dragbolt
 dragee
