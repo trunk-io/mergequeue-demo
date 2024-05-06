@@ -1553,7 +1553,6 @@ graven
 garrulity
 goatherds
 garrulousness
-grievously
 garrulus
 garsil
 gambles
@@ -8216,6 +8215,7 @@ glossographical
 grasschat
 greyness
 grasscut
+grievously
 guha
 goodwillit
 gaingiving
