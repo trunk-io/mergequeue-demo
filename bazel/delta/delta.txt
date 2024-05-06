@@ -5278,7 +5278,6 @@ denominatively
 denominators
 denormalized
 denotable
-denotation
 denotative
 deliriums
 deess
@@ -12563,6 +12562,7 @@ disintegrated
 disintegrates
 disintegrating
 dipterological
+denotation
 disintegrationist
 disintegrator
 disintegrators
