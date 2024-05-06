@@ -10048,7 +10048,6 @@ ambitions
 ambitious
 ambitiously
 ambitiousness
-ambits
 ambitty
 ambivalence
 ambivalency
@@ -22962,6 +22961,7 @@ attacco
 akuammine
 antiperistaltic
 attach
+ambits
 attachableness
 acridest
 attache
