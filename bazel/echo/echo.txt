@@ -5104,7 +5104,6 @@ exposures
 expel
 entogenous
 endocrinologist
-ecphasis
 embosser
 eisell
 epispore
@@ -11719,6 +11718,7 @@ enmask
 electrotyping
 eventide
 expends
+ecphasis
 exaggerative
 exaggeratively
 exaggeratory
