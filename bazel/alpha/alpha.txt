@@ -6935,7 +6935,6 @@ airlessly
 airlessness
 anchistopoda
 airlift
-aerostation
 althaeas
 airlifting
 airlifts
@@ -12930,6 +12929,7 @@ apperceiving
 anight
 anglings
 anglist
+aerostation
 anglistics
 ailette
 anglo
