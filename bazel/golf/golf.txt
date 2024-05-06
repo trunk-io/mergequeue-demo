@@ -940,7 +940,6 @@ gazi
 gameness
 gunbearer
 gamesome
-gamesomeness
 gamest
 gamester
 guaiol
@@ -6461,6 +6460,7 @@ gogglier
 goggliest
 goggling
 goglet
+gamesomeness
 gogo
 garston
 gohila
