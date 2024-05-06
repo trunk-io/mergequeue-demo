@@ -3069,6 +3069,7 @@ can
 capacitive
 cataphoric
 capacitor
+clone
 capanna
 capanne
 cystolithectomy
@@ -16589,7 +16590,6 @@ clomping
 clomps
 clonal
 clonally
-clone
 cloned
 cloner
 clanning
