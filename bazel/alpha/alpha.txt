@@ -9041,7 +9041,6 @@ allotropically
 allotropicity
 allotropies
 archizoic
-allotropism
 allotropize
 anguis
 allots
@@ -17259,6 +17258,7 @@ apogee
 apogees
 apogeic
 antimarian
+allotropism
 apogeny
 achiever
 assiduous
