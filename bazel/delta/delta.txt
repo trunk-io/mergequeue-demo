@@ -2592,6 +2592,7 @@ deco
 dorms
 decoagulation
 decoat
+disproving
 decocainize
 decoct
 decocting
@@ -13307,7 +13308,6 @@ disprover
 demurrage
 disproves
 disprovide
-disproving
 dispunitive
 dispurse
 dispurvey
