@@ -5397,7 +5397,6 @@ biasness
 beqwete
 begrutten
 begs
-byrlaw
 begster
 bragging
 beguess
@@ -17110,6 +17109,7 @@ bulldogger
 bulldoggy
 bummery
 bearder
+byrlaw
 bulldogging
 bullions
 bulldoggishly

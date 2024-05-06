@@ -5790,7 +5790,6 @@ depoh
 depolarisation
 depolarise
 drapeable
-depolarised
 depolariser
 darksome
 depolarising
@@ -9345,6 +9344,7 @@ diffareation
 desition
 dipso
 diffarreation
+depolarised
 diffeomorphic
 doited
 diffeomorphism
