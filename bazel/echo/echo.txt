@@ -3353,6 +3353,7 @@ embarks
 electrograph
 embarrass
 embarrassed
+exteroceptor
 embarrassedly
 encyclopediac
 embarrassing
@@ -13667,7 +13668,6 @@ externship
 externum
 extensible
 ewers
-exteroceptor
 elocular
 elatine
 emersions

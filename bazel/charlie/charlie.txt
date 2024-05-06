@@ -2724,7 +2724,6 @@ cannoneering
 cannoneers
 clownish
 cannonier
-chocker
 cannoning
 cannonism
 cannonproof
@@ -24686,6 +24685,7 @@ copperplate
 copperplated
 coppersidesman
 corimelaena
+chocker
 copperskin
 ciderist
 coppersmith
