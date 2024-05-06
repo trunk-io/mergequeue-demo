@@ -7359,6 +7359,7 @@ detonability
 detonable
 demilunes
 depersonalised
+dissociate
 detonate
 detonating
 detonation
@@ -8591,7 +8592,6 @@ disinfective
 diaphysis
 druggists
 diaphone
-dissociate
 diaphones
 diaphony
 diaphysial
