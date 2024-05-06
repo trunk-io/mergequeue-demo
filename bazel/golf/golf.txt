@@ -840,7 +840,6 @@ gangliac
 gleds
 goldin
 galways
-gamaliel
 gamari
 gamash
 gonidium
@@ -5487,6 +5486,7 @@ glioma
 gambeering
 gender
 gliomas
+gamaliel
 gliosa
 glyoxal
 glyoxalic
