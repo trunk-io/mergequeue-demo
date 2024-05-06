@@ -4200,7 +4200,6 @@ cardoncillo
 cardoon
 cardoons
 cardophagus
-chelidonate
 cardosanto
 cardplaying
 clearwing
@@ -20698,6 +20697,7 @@ complexedness
 complexer
 complexes
 complexest
+chelidonate
 complexify
 complexification
 complexing
