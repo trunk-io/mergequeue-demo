@@ -5941,6 +5941,7 @@ floorward
 floorwise
 fabes
 flus
+foresays
 floosy
 floozy
 filicide
@@ -7890,7 +7891,6 @@ farl
 foresails
 farmscape
 fibered
-foresays
 foresaw
 forescene
 forescent
