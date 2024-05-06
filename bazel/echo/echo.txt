@@ -5911,7 +5911,6 @@ expeditated
 eubacterium
 enjail
 enjambed
-enjambement
 enjambment
 emetomorphine
 enjambments
@@ -13891,6 +13890,7 @@ emprise
 enflagellate
 extramundane
 extramurally
+enjambement
 encyclopediast
 extramusical
 extranational
