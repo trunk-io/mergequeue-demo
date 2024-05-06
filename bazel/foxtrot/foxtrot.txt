@@ -3050,7 +3050,6 @@ fiber
 filamentose
 fiberboard
 fiberglas
-flanconade
 fiberizes
 fiberizing
 fenestrule
@@ -8844,6 +8843,7 @@ fungo
 flamefish
 formulation
 fossorious
+flanconade
 fossulae
 faltche
 featureless
