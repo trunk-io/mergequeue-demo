@@ -11830,7 +11830,6 @@ chondrology
 chondromata
 chondromatous
 chondromyces
-chondromyxoma
 chondromyxosarcoma
 chondromucoid
 chondropharyngeus
@@ -31681,6 +31680,7 @@ cuspidate
 cuspidation
 colliquation
 cuspides
+chondromyxoma
 cesuras
 cotyloid
 cuspidine
