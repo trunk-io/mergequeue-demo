@@ -4654,7 +4654,6 @@ cardioplasty
 carotidean
 carotids
 corbinas
-carotin
 carotinaemia
 carotinemia
 cronying
@@ -20655,6 +20654,7 @@ complementarity
 complementation
 complementative
 complemented
+carotin
 complementer
 complementers
 complementing
