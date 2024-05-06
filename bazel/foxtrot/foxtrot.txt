@@ -2096,6 +2096,7 @@ felids
 felinae
 feline
 feru
+fogle
 flamineous
 frixion
 fiscalism
@@ -7405,7 +7406,6 @@ finback
 foreroom
 frankenia
 firebird
-fogle
 forceless
 forcelessness
 forcelet
