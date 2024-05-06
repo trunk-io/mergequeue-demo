@@ -167,6 +167,7 @@ factions
 flirtatious
 friborg
 fabulous
+fourquine
 facultied
 factiously
 factiousness
@@ -9013,7 +9014,6 @@ fourpence
 fourpenny
 fourposter
 flabellarium
-fourquine
 finickingness
 fourragere
 flotsam
