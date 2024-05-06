@@ -4715,6 +4715,7 @@ demirhumb
 demirilievo
 demirobe
 demonastery
+dungyard
 dol
 demisability
 dinic
@@ -12539,7 +12540,6 @@ disinheritable
 disinheritance
 deirdre
 diminuendo
-dungyard
 ditrematous
 disinheritances
 dhole
