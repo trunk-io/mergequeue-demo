@@ -4264,7 +4264,6 @@ adnominal
 adnominally
 adnomination
 adnouns
-ado
 adobos
 azathioprine
 adod
@@ -5471,6 +5470,7 @@ affrap
 affreight
 affreighter
 affreightment
+ado
 affret
 affreux
 autopilots
