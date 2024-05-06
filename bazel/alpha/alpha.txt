@@ -2552,6 +2552,7 @@ antiegotism
 appall
 aclidian
 aclinic
+ambulate
 aclys
 acloud
 acmaea
@@ -23882,7 +23883,6 @@ autoactive
 autoagglutinating
 autoagglutinin
 autoalarm
-ambulate
 autoalkylation
 autoallogamous
 autoanalysis

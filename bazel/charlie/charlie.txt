@@ -12623,7 +12623,6 @@ chronaxies
 chroncmeter
 chronic
 chronica
-chronical
 chronically
 chronicle
 chronicled
@@ -27029,6 +27028,7 @@ counterpointing
 counterpoints
 counterpoise
 contestable
+chronical
 cowpath
 counterpoised
 cervelat
