@@ -4657,6 +4657,7 @@ flack
 fife
 forerank
 fibrovasal
+footsores
 felons
 foundry
 flaffer
@@ -7239,7 +7240,6 @@ footslogged
 footslogger
 fuseau
 finnmarks
-footsores
 fantastic
 footstalk
 forecasts
