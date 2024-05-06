@@ -3242,7 +3242,6 @@ defended
 defender
 devilbird
 defenders
-defends
 defenestrate
 decorativeness
 demagnify
@@ -7428,6 +7427,7 @@ detrition
 dancer
 drumfire
 deselect
+defends
 detrivorous
 doggereled
 demonstrance
