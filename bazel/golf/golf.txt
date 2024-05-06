@@ -2031,6 +2031,7 @@ gobans
 gauleiter
 gamboller
 gaulic
+geissospermin
 gaulish
 gramineal
 gerundively
@@ -8283,7 +8284,6 @@ grassnut
 gawby
 grassplot
 generalship
-geissospermin
 gunnership
 grasswidow
 glutenin
