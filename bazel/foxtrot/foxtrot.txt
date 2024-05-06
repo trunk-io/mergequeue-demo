@@ -5346,6 +5346,7 @@ foredispose
 fleeter
 fleetest
 fleeting
+fusionless
 fleets
 firefighter
 flegm
@@ -11606,7 +11607,6 @@ freestone
 fusionism
 forsaking
 fusionist
-fusionless
 fusions
 fusobacteria
 foliolose
