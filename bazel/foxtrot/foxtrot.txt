@@ -6381,7 +6381,6 @@ fulcrum
 farrandly
 fronture
 foredooms
-fluorescin
 frogspawn
 fluorhydric
 fluoric
@@ -6753,6 +6752,7 @@ foiling
 foin
 foining
 foiningly
+fluorescin
 food
 foins
 fiacre
