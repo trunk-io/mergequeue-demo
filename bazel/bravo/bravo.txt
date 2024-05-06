@@ -539,6 +539,7 @@ backtracker
 backtracking
 backtracks
 backout
+babies
 bishopless
 backups
 backus
@@ -1591,7 +1592,6 @@ ballock
 brairding
 ballocks
 bestar
-babies
 balloen
 ballone
 bullbird
