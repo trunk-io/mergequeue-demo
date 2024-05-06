@@ -4933,6 +4933,7 @@ fedelini
 flannels
 flanque
 flapdock
+fluvialist
 flaperon
 flirter
 ferison
@@ -6543,7 +6544,6 @@ flutterless
 flutterment
 fossula
 fluttersome
-fluvialist
 fluviatile
 fluvicoline
 fluviolacustrine
