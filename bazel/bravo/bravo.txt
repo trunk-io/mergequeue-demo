@@ -1724,7 +1724,6 @@ bals
 balsa
 becrimes
 balsam
-biramous
 balsamaceous
 balsamation
 balsamical
@@ -5101,6 +5100,7 @@ befezzed
 beffroy
 befiddle
 beggaries
+biramous
 befile
 belton
 befilmed
