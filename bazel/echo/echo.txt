@@ -991,7 +991,6 @@ enervative
 eczematosis
 embryulci
 eponymic
-eczematous
 endosporium
 edaciously
 edaciousness
@@ -9611,6 +9610,7 @@ esemplastic
 elding
 esere
 epithelia
+eczematous
 eserin
 extracorporeal
 eserine
