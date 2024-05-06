@@ -365,7 +365,6 @@ daylight
 daylighted
 daylights
 daylily
-daylilies
 dayman
 daymare
 detruss
@@ -5105,6 +5104,7 @@ discommendably
 denaturalize
 denaturalized
 denaturalizing
+daylilies
 denaturant
 denaturants
 denaturate
