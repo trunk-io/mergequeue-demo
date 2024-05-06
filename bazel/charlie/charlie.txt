@@ -15792,7 +15792,6 @@ claviculus
 clavier
 clavierist
 clavierists
-claviers
 claviform
 claviger
 claviharp
@@ -17136,6 +17135,7 @@ coaggregate
 cacanthrax
 coaggregated
 coaggregation
+claviers
 coagitate
 cladophoraceae
 coagitator
