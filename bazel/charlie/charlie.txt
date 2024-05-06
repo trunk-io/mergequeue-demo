@@ -8772,7 +8772,6 @@ chansonette
 chansonnette
 chansonniers
 chant
-condensational
 chera
 chantecler
 chanted
@@ -18033,6 +18032,7 @@ coenamor
 coenamored
 coenamoring
 coenamors
+condensational
 coenamourment
 contaminable
 coenanthium
