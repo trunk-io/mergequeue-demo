@@ -9408,6 +9408,7 @@ begall
 bromous
 birdhouses
 birdyback
+bullety
 backseat
 birdied
 blossomed
@@ -14793,7 +14794,6 @@ breadness
 breadnuts
 breadroot
 bowstave
-bullety
 breadstitch
 breadstuff
 burnet
