@@ -1880,7 +1880,6 @@ acentric
 annexable
 acentrous
 anastalsis
-acephal
 acephala
 antacrid
 acephali
@@ -14345,6 +14344,7 @@ anteropygal
 ancipitous
 anterospinal
 asepticize
+acephal
 anterosuperior
 antes
 antescript
