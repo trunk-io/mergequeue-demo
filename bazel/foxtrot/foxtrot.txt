@@ -2295,7 +2295,6 @@ fencelessness
 fayalite
 fencelet
 fencepost
-fenceress
 fane
 fencers
 firebricks
@@ -8578,6 +8577,7 @@ flammigerous
 forrarder
 fetcher
 forrel
+fenceress
 frivolizing
 forride
 forril
