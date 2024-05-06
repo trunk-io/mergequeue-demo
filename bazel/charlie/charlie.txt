@@ -699,7 +699,6 @@ caffre
 cafh
 cafila
 cafiz
-caftan
 caftans
 cag
 cheilion
@@ -17137,6 +17136,7 @@ coagel
 coagency
 coagencies
 coagent
+caftan
 customary
 coagents
 coaggregate
