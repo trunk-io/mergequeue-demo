@@ -6471,7 +6471,6 @@ ensurance
 ensures
 ensuring
 enswathe
-enswathed
 expelling
 enswathement
 encephalola
@@ -10621,6 +10620,7 @@ eucharistically
 eucharistized
 earthfall
 enplaning
+enswathed
 eucharists
 eucharitidae
 epilachna

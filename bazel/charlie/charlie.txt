@@ -6450,6 +6450,7 @@ cavey
 chromoscope
 cavekeeper
 cavelet
+confiner
 cavelike
 caveman
 cavemen
@@ -21982,7 +21983,6 @@ confineless
 confinement
 chirurgic
 confinements
-confiner
 confiners
 confines
 confining
