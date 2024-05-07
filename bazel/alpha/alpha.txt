@@ -12740,7 +12740,6 @@ angels
 angelship
 angeluses
 anger
-armsize
 angered
 angering
 angerless
@@ -24505,6 +24504,7 @@ applegrower
 antacids
 auxiliar
 auxiliary
+armsize
 agriology
 auxiliaries
 auxiliarly
