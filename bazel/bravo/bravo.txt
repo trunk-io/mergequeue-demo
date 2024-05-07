@@ -875,6 +875,7 @@ bagdi
 bagel
 bagful
 bagfuls
+bemantle
 bookwise
 barbaric
 baggagemaster
@@ -6074,7 +6075,6 @@ belabour
 bemaim
 bemajesty
 bemangle
-bemantle
 bemar
 bemas
 bemask
