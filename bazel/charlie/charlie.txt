@@ -1466,7 +1466,6 @@ cowal
 cedulas
 callidness
 curraghs
-calligram
 calligraph
 calligrapha
 chemurgy
@@ -13724,6 +13723,7 @@ cymbium
 cymblin
 cymblings
 cymbocephaly
+calligram
 copartner
 cymbocephalous
 cymbopogon
