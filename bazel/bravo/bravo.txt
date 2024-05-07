@@ -3648,6 +3648,7 @@ bathroomed
 bathrooms
 bathroot
 ballyragging
+beddings
 boutade
 baron
 by
@@ -4662,7 +4663,6 @@ blader
 blent
 bedding
 beddingroll
-beddings
 bops
 bede
 bogans
