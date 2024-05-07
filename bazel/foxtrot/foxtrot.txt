@@ -1911,7 +1911,6 @@ frenchize
 fishlet
 forebrain
 feminities
-fishful
 fitly
 federalistic
 furling
@@ -5545,6 +5544,7 @@ fligged
 flight
 flighted
 flighter
+fishful
 flightful
 flighty
 flightier

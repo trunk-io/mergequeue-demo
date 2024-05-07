@@ -1000,7 +1000,6 @@ cher
 calaththi
 calathus
 calatrava
-coelelminthes
 calavance
 calaverite
 calbroben
@@ -3181,6 +3180,7 @@ capillose
 capillus
 capilotade
 caping
+coelelminthes
 centrotus
 crax
 componentwise
