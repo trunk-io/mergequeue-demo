@@ -1328,7 +1328,6 @@ apologia
 antemask
 acarodermatitis
 amay
-acarology
 acarologist
 acarophobia
 acarotoxic
@@ -12615,6 +12614,7 @@ anesthesiologies
 alumstone
 anesthesiologists
 anesthesis
+acarology
 anesthetically
 anesthetics
 anesthetists
