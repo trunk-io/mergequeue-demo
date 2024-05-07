@@ -2316,7 +2316,6 @@ bicone
 barbecuer
 barbecues
 burp
-barbellate
 bonders
 belfather
 barbells
@@ -18347,6 +18346,7 @@ buttressing
 buttressless
 buttresslike
 butts
+barbellate
 buttstrap
 buttstrapped
 bolita
