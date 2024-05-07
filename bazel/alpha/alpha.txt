@@ -5154,7 +5154,6 @@ aerotaxis
 argo
 aerotechnical
 aerotechnics
-allthorn
 aerotherapeutics
 aerotherapy
 amreetas
@@ -6007,6 +6006,7 @@ agers
 adeptest
 ages
 agete
+allthorn
 ageustia
 aggadic
 achroiocythemia
