@@ -7244,7 +7244,6 @@ goslet
 goslings
 guniter
 gosmore
-gospeler
 gunung
 gospelers
 gephyrophobia
@@ -9169,6 +9168,7 @@ grisliness
 grison
 gyrational
 gametogeny
+gospeler
 grisons
 grisoutine
 grisset
