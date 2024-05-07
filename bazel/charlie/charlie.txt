@@ -11076,7 +11076,6 @@ chirrupper
 chirrups
 chirt
 chiru
-catchup
 chirurgeon
 chirurgeonly
 chirurgery
@@ -17805,6 +17804,7 @@ codes
 certificating
 codescendant
 codesign
+catchup
 codesigns
 codespairer
 codetermination
