@@ -3690,7 +3690,6 @@ caravaneer
 cosmogonize
 chemics
 caravaner
-caravanist
 caravanned
 chetty
 caravanner
@@ -5103,6 +5102,7 @@ cascaron
 crosslighted
 cascavel
 casco
+caravanist
 crawlways
 cascrom
 cascrome
