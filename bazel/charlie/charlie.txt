@@ -4245,6 +4245,7 @@ careless
 carelessly
 carelessness
 conflagrate
+chromatometer
 careme
 carene
 carer
@@ -12443,7 +12444,6 @@ conquerable
 chromatolytic
 chromatology
 chromatologies
-chromatometer
 chromatone
 chromatopathy
 chromatopathia
