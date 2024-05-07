@@ -3661,7 +3661,6 @@ deglycerin
 deglory
 dermatoxerasia
 deglut
-deglute
 disarrangement
 deglutinate
 deglutinated
@@ -7421,6 +7420,7 @@ diapensia
 destitutely
 detrimentally
 detrited
+deglute
 detrition
 dancer
 drumfire
