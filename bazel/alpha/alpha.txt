@@ -2736,7 +2736,6 @@ acquittance
 acquitted
 ashkenazim
 acquitter
-acquitting
 acquophonia
 acrab
 acracy
@@ -6597,6 +6596,7 @@ arthromeningitis
 agush
 agust
 ah
+acquitting
 aha
 authorish
 ahaaina
