@@ -755,7 +755,6 @@ gals
 galtrap
 galuchat
 galumph
-galumphing
 gastroenterologically
 galumphs
 gerenuk
@@ -2583,6 +2582,7 @@ gemots
 gems
 genouillere
 glassing
+galumphing
 gemsbuck
 geodes
 gibus
