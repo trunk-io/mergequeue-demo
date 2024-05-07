@@ -12621,7 +12621,6 @@ cajeputol
 chromous
 chromoxylograph
 chron
-chronal
 chronanagram
 caplets
 cacothes
@@ -27519,6 +27518,7 @@ covenantee
 covenanter
 covenanting
 covenantor
+chronal
 covenants
 covent
 coventrate
