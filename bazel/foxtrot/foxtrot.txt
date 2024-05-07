@@ -6439,6 +6439,7 @@ fluorometry
 forechamber
 foreseeing
 fluoroscopy
+friendly
 framing
 feasant
 fibrinolysis
@@ -10289,7 +10290,6 @@ froebelian
 froebelism
 feared
 freon
-friendly
 feyness
 freetrader
 fraudproof

@@ -2336,6 +2336,7 @@ geggery
 galax
 gehlenite
 goblet
+guideway
 gey
 gaits
 griseofulvin
@@ -5172,7 +5173,6 @@ guestship
 glasswork
 gutturality
 guider
-guideway
 gunpaper
 glassworker
 glassworm
