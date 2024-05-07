@@ -6249,7 +6249,6 @@ asphodels
 aufklarung
 aglycones
 aglycons
-aglycosuric
 aglimmer
 aglint
 aglipayan
@@ -24966,6 +24965,7 @@ awat
 awatch
 awater
 awave
+aglycosuric
 awd
 awe
 awearied
