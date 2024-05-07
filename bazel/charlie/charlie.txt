@@ -28174,7 +28174,6 @@ craniotome
 craniotomy
 craniotomies
 craniotopography
-chops
 craniovertebral
 cranium
 craniums
@@ -30271,6 +30270,7 @@ crurotarsal
 crus
 crusade
 crusaded
+chops
 cynipid
 cataphysic
 clingstones
