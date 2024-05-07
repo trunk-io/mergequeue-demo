@@ -5993,7 +5993,6 @@ belostomatidae
 bedog
 barkpeeler
 belostomidae
-boccale
 belotte
 belouke
 belove
@@ -11607,6 +11606,7 @@ bittacle
 boatless
 bewonder
 browband
+boccale
 boatlike
 boatlip
 boatload
