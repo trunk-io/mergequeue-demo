@@ -9425,7 +9425,6 @@ dejunkerize
 diffusions
 diffusive
 diffusors
-disubstitution
 difluoride
 diner
 dipaschal
@@ -13846,6 +13845,7 @@ distichal
 distichlis
 dimerous
 distichous
+disubstitution
 distichs
 distil
 derisive
