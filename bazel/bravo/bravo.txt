@@ -1584,6 +1584,7 @@ boilermaker
 ballistae
 bijous
 ballistician
+borderers
 ballisticians
 ballistocardiogram
 ballistocardiograph
@@ -8622,7 +8623,6 @@ bafaro
 baronne
 bilirubinic
 bilirubinuria
-borderers
 biliteral
 biliteralism
 bilith
