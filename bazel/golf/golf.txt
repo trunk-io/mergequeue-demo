@@ -5312,7 +5312,6 @@ glenoidal
 glent
 glenwood
 gammelost
-glew
 glauconitic
 gangly
 glowerer
@@ -5798,6 +5797,7 @@ goniatitoid
 glossier
 goitered
 glossies
+glew
 grey
 glossiest
 glycosuria
