@@ -1060,6 +1060,7 @@ edessan
 evenhanded
 electioneered
 endoskeleton
+eqpt
 edestosaurus
 edgar
 edge
@@ -8219,7 +8220,6 @@ epistases
 epistasy
 epistasies
 enrapturedly
-eqpt
 epistasis
 epiphysary
 electrophotometer

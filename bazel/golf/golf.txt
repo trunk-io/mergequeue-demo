@@ -158,7 +158,6 @@ gadus
 gadwall
 gadwalls
 gae
-gaea
 glottalization
 gaedelian
 gael
@@ -5520,6 +5519,7 @@ gethsemane
 gablatores
 gaia
 geranium
+gaea
 glyptolith
 games
 guessing
