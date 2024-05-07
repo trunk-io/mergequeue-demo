@@ -6644,7 +6644,6 @@ berakah
 berake
 bewelcome
 bookstack
-begat
 basilyst
 beraking
 banisters
@@ -17249,6 +17248,7 @@ binbashi
 bullshitting
 barbeiro
 birthdom
+begat
 bullskin
 beachward
 bullsticker
