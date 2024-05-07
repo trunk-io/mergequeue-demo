@@ -430,7 +430,6 @@ ecanda
 ecardines
 ecarte
 evenoo
-exoccipital
 ecaudata
 ecaudate
 ernest
@@ -5473,6 +5472,7 @@ epitendineum
 epirot
 etatist
 energiser
+exoccipital
 enantiosis
 elopidae
 energises
