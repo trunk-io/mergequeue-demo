@@ -6451,7 +6451,6 @@ goggler
 genus
 gogglers
 ghostlet
-goggly
 greenwort
 gastrular
 gunnera
@@ -10149,6 +10148,7 @@ guide
 guideboard
 guidebooky
 gambogic
+goggly
 guato
 guidebookish
 genres
