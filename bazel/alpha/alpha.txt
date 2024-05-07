@@ -7973,7 +7973,6 @@ alertest
 autotropically
 alerting
 alertly
-alerts
 ales
 alesan
 aleshot
@@ -24028,6 +24027,7 @@ antilacrosse
 autodialling
 autoagglutination
 autodials
+alerts
 autodidact
 autodidactic
 autodidactically
