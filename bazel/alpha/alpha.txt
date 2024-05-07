@@ -6420,7 +6420,6 @@ apoquinine
 aloed
 agrammatologia
 agrania
-agranulocytosis
 agranuloplastic
 agrapha
 agraphia
@@ -20046,6 +20045,7 @@ armoured
 armourer
 armourers
 antipatriarchal
+agranulocytosis
 aplustre
 andrographolide
 armouries
