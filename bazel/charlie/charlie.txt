@@ -1011,6 +1011,7 @@ calcaneoastragalar
 calcaneoastragaloid
 calcaneonavicular
 calcaneoplantar
+countershout
 countersale
 calcaneoscaphoid
 calcaneum
@@ -27140,7 +27141,6 @@ chasms
 countershear
 countershine
 countershock
-countershout
 counterside
 crance
 countersign
