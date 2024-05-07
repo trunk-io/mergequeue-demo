@@ -5291,6 +5291,7 @@ endoskeletons
 endosmic
 endosmometric
 equipments
+endocrinologic
 eyr
 evaders
 endosmose
@@ -8842,7 +8843,6 @@ erechtheum
 erechtheus
 erechtites
 euphemist
-endocrinologic
 episcopes
 erectable
 earmuffs
