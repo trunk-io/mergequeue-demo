@@ -15352,7 +15352,6 @@ clamatory
 cartooned
 clamb
 clambake
-clambakes
 clamber
 clamberer
 colfox
@@ -29227,6 +29226,7 @@ cryptoanalytically
 cryptobranch
 cryptobranchia
 cryptobranchiata
+clambakes
 chondroma
 cutlas
 choices
