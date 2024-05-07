@@ -5455,7 +5455,6 @@ affraying
 affrays
 affranchise
 affranchisement
-affrap
 affreight
 affreighter
 affreightment
@@ -22461,6 +22460,7 @@ atatschite
 ataunt
 ataunto
 antelopian
+affrap
 accessioned
 atavi
 atavic
