@@ -1640,7 +1640,6 @@ calorimetric
 calorimetrical
 calorimetrically
 calorimotor
-calorisator
 calorist
 calorite
 calorize
@@ -8481,6 +8480,7 @@ chamaebatia
 chamaecranial
 compinge
 chamaecrista
+calorisator
 chamaeleo
 chamaeleon
 chamaelirium
