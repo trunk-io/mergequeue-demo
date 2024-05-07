@@ -775,6 +775,7 @@ fanfarons
 ferricyanogen
 funnellike
 fanfishes
+fabricable
 freemasonry
 fanfolds
 floggable
@@ -2972,7 +2973,6 @@ fudgy
 forefault
 fixity
 forworden
-fabricable
 formicina
 feverlike
 flandowser

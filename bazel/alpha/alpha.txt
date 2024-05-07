@@ -4155,7 +4155,6 @@ administrational
 administrations
 administrative
 administratively
-administrator
 administrators
 administratrices
 administratrix
@@ -15215,6 +15214,7 @@ applied
 antiecclesiastic
 antiecclesiastical
 assagaied
+administrator
 atrocious
 acuating
 antiecclesiastically
