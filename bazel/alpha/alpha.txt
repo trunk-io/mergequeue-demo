@@ -8740,6 +8740,7 @@ autarkical
 allergenicity
 allergies
 arrhythmous
+ankylotome
 allergin
 allergist
 allergists
@@ -13472,7 +13473,6 @@ ankylosis
 ankylostomiasis
 ankylotia
 ankylotic
-ankylotome
 allotriodontia
 ankylotomy
 ankle
