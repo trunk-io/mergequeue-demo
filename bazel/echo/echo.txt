@@ -620,7 +620,6 @@ echoless
 echolocation
 echometer
 echopractic
-echopraxia
 echos
 echovirus
 examinate
@@ -11770,6 +11769,7 @@ examinatory
 encumbering
 examinatorial
 examine
+echopraxia
 episcopise
 examined
 examinee
