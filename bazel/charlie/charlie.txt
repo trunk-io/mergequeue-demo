@@ -29215,6 +29215,7 @@ cryptic
 cryptical
 cryptically
 crypticness
+coupled
 crypto
 cryptoagnostic
 cryptoanalysis
@@ -30576,7 +30577,6 @@ cucumber
 cyathoid
 calcular
 cucumiform
-coupled
 cucupha
 cucurb
 compole
