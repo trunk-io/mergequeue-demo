@@ -4778,7 +4778,6 @@ aedicula
 aediculae
 aedicule
 aedile
-asherahs
 adject
 aediles
 aedileship
@@ -8444,6 +8443,7 @@ alitrunk
 azan
 aliturgic
 attribution
+asherahs
 aliturgical
 aliunde
 asternia

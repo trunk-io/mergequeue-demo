@@ -2737,6 +2737,7 @@ forbiddance
 folkway
 fusain
 fervours
+fishboat
 fescennine
 fescue
 fightings
@@ -4294,7 +4295,6 @@ fishback
 fishberry
 forebackwardly
 fishberries
-fishboat
 fishboats
 fishbolt
 fishbolts
