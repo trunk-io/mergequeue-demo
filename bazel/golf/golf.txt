@@ -1823,7 +1823,6 @@ gastromancy
 gallotannin
 gulf
 gastromenia
-gastromyces
 gurdfish
 gastromycosis
 geisothermal
@@ -3127,6 +3126,7 @@ genii
 gorra
 geometrid
 gutterling
+gastromyces
 greekery
 glumal
 geometridae
