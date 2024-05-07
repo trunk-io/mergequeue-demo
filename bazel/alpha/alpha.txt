@@ -2253,7 +2253,6 @@ achlamydate
 achlamydeae
 achlorhydria
 achlorhydric
-achloropsia
 ammobium
 anthophyllite
 ararao
@@ -15106,6 +15105,7 @@ alsatia
 agamospermy
 anticorset
 anticosine
+achloropsia
 automatized
 anticosmetic
 anticosmetics
