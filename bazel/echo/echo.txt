@@ -3980,7 +3980,6 @@ eristalis
 emotions
 emotively
 esthete
-emotiveness
 equivocally
 emotivism
 emotivity
@@ -6755,6 +6754,7 @@ enthrill
 eliminatory
 enthroned
 enthronement
+emotiveness
 enthronements
 endorsing
 enthronised
