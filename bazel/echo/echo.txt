@@ -3423,7 +3423,6 @@ enate
 epees
 elaeothesium
 embezzlement
-echeloning
 embezzlers
 embezzling
 embiid
@@ -5144,6 +5143,7 @@ endogen
 electroballistician
 epibranchial
 endogenae
+echeloning
 endogenesis
 exorate
 endogenicity
