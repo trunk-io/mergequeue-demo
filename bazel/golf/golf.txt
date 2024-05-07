@@ -922,6 +922,7 @@ gemologies
 gossan
 grammaticality
 gamelang
+gonagia
 gamelans
 gameless
 gentian
@@ -3340,7 +3341,6 @@ geryonia
 geryonid
 gerip
 gerkin
-gonagia
 genros
 gerland
 gilver
