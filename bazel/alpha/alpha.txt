@@ -11728,7 +11728,6 @@ anagrammatising
 alcavala
 anagrammatism
 anorthographically
-anagrammatization
 anagrammatize
 anagrammatizing
 anagrams
@@ -25326,6 +25325,7 @@ azophenyl
 azophenine
 azophosphore
 azoprotein
+anagrammatization
 azores
 amphodiplopia
 azorite
