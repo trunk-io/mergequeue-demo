@@ -4911,7 +4911,6 @@ endangeitis
 endanger
 endangitis
 endangium
-endaortic
 endarch
 endarchy
 endarchies
@@ -12807,6 +12806,7 @@ exosmotic
 electre
 esquamate
 ecchymoses
+endaortic
 expatiater
 excrementitial
 explicative
