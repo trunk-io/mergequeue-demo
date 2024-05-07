@@ -1260,6 +1260,7 @@ extypal
 ewer
 endostome
 eelery
+enarch
 evaluation
 endopleuritic
 eelfare
@@ -10596,7 +10597,6 @@ eucaines
 eucairite
 eucalypteol
 eucalypti
-enarch
 effrenate
 eucalyptic
 eucalyptography
