@@ -5473,7 +5473,6 @@ benignness
 beheads
 behearse
 beheira
-behelp
 bolter
 behemoth
 behemothic
@@ -10151,6 +10150,7 @@ blackcod
 blackcods
 blues
 blackdamp
+behelp
 blacked
 blackey
 becco
