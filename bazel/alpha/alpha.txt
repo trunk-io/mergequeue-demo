@@ -7704,6 +7704,7 @@ actual
 alcmene
 alco
 alcoate
+atterrate
 alcogel
 alchemical
 andiroba
@@ -21316,7 +21317,6 @@ anomalure
 asystole
 asystolic
 asyzygetic
-atterrate
 ask
 allophone
 askable
