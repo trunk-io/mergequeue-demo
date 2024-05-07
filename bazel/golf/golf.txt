@@ -163,7 +163,6 @@ glottalization
 gaedelian
 gael
 girth
-generalizes
 gaelic
 gasogenes
 gynostegia
@@ -3449,6 +3448,7 @@ gerodermia
 gerodontic
 gerodontology
 gledge
+generalizes
 gaura
 gerontal
 gawcey

@@ -8261,7 +8261,6 @@ epistolise
 epistolised
 eure
 epistolising
-epistolized
 epistolography
 epistolographist
 erratums
@@ -10626,6 +10625,7 @@ eucharitidae
 epilachna
 euchysiderite
 electrocutioner
+epistolized
 endogenic
 enew
 euchloric
