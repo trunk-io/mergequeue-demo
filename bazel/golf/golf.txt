@@ -3586,7 +3586,6 @@ getmjlkost
 getpenny
 greaselessness
 getspace
-getsul
 gracile
 gettableness
 glacialism
@@ -10285,6 +10284,7 @@ groinery
 guytrash
 guittonian
 guywire
+getsul
 groma
 goralog
 gummers
