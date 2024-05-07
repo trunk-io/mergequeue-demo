@@ -1216,7 +1216,6 @@ clinopyramid
 calendaring
 coilability
 calendarist
-confluently
 calendas
 calender
 calendered
@@ -8572,6 +8571,7 @@ chamoline
 chamomile
 chamomilla
 chamorro
+confluently
 chamos
 chamosite
 chamotte
