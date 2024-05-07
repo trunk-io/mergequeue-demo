@@ -3767,7 +3767,6 @@ battledores
 baldly
 barotraumata
 battledoring
-borehole
 battlefronts
 backsheesh
 battleful
@@ -14280,6 +14279,7 @@ brahmanist
 brahmanistic
 brahmanize
 brahmapootra
+borehole
 birefracting
 brahmas
 brahmi
