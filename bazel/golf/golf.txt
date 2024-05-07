@@ -7107,7 +7107,6 @@ gora
 gorals
 goran
 gorb
-genotypical
 gorbal
 gorbelly
 groped
@@ -10830,6 +10829,7 @@ goldlike
 guzmania
 gyrograph
 guzul
+genotypical
 guzzle
 gersdorffite
 guzzled
