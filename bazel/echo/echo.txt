@@ -2325,7 +2325,6 @@ electrocardiograph
 electrocardiographic
 electrocardiographically
 electrocatalysis
-electrocatalytic
 explorational
 electrocautery
 evasion
@@ -7255,6 +7254,7 @@ extraenteric
 eom
 eon
 exchange
+electrocatalytic
 eonian
 erotically
 eonism
