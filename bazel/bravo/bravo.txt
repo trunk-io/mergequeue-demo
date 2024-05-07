@@ -6494,7 +6494,6 @@ benzoylated
 becuna
 benzoylating
 benzoylation
-beltwise
 benzoylglycine
 bilge
 benzoin
@@ -14802,6 +14801,7 @@ barbel
 breadths
 breadthways
 breadwinner
+beltwise
 bedded
 breadwinning
 breaghe
