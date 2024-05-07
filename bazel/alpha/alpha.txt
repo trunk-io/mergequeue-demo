@@ -5274,7 +5274,6 @@ affect
 affectable
 affectate
 astronautic
-affectation
 aflicker
 affectations
 affected
@@ -9337,6 +9336,7 @@ alphabetical
 adnumber
 alphabetically
 arthrostraca
+affectation
 alphabetiform
 alphabeting
 alphabetisation
