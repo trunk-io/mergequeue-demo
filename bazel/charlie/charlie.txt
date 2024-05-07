@@ -2369,6 +2369,7 @@ chimneys
 cancer
 cancerated
 corruptibility
+coyed
 cancerating
 chastize
 cancerdrops
@@ -27267,7 +27268,6 @@ counterwork
 counterworker
 counterworking
 counterwrite
-coyed
 committee
 countess
 countfish
