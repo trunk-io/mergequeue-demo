@@ -2307,6 +2307,7 @@ fenchone
 fencible
 fencings
 forewarm
+full
 folktale
 fended
 ferric
@@ -10922,7 +10923,6 @@ fluavil
 fulk
 floatability
 fecundating
-full
 fullam
 fullams
 firelit
