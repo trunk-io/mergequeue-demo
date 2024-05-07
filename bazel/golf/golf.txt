@@ -8386,7 +8386,6 @@ gazeful
 graupels
 grandpa
 graustark
-gablelike
 grauwacke
 gymnotoka
 gammadia
@@ -8791,6 +8790,7 @@ gm
 greybeard
 grouseless
 greenfinch
+gablelike
 graecized
 greyed
 grosser

@@ -2426,7 +2426,6 @@ electroendosmosis
 electroengrave
 epoist
 electroengraving
-ethionine
 electroextraction
 earthquaked
 elutriate
@@ -12701,6 +12700,7 @@ exomphalous
 entohyal
 embryogeny
 exomphalus
+ethionine
 expandibility
 entame
 exonarthex
