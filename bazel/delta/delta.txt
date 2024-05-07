@@ -4235,6 +4235,7 @@ deliverance
 delivered
 dressmaker
 deliverer
+diallist
 deadened
 disincorporate
 deliverers
@@ -5008,7 +5009,6 @@ duplicipennate
 demoraliser
 demoralising
 demoralize
-diallist
 defecter
 demoralized
 demoralizers
