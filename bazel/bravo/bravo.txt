@@ -7448,7 +7448,6 @@ bethorning
 bethorns
 bethrall
 bethroot
-bethumb
 bietle
 bethump
 bethumped
@@ -15860,6 +15859,7 @@ brionies
 broomball
 bromisms
 bromize
+bethumb
 breaching
 buying
 bromized
