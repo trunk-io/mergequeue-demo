@@ -1692,7 +1692,6 @@ glottic
 gasteromycetous
 glottis
 gasteropoda
-gasterosteus
 gordolobo
 gallons
 gastight
@@ -3764,6 +3763,7 @@ goaled
 guaconize
 ghoulish
 germinator
+gasterosteus
 gonadotropin
 ghoulishly
 gyse
