@@ -9972,7 +9972,6 @@ collateral
 cancers
 chemosterilants
 chemosurgery
-chemosurgical
 chemotactic
 chemotactically
 choochoo
@@ -25090,6 +25089,7 @@ corelated
 corelates
 corelating
 corelation
+chemosurgical
 corelational
 corelative
 corelatively
