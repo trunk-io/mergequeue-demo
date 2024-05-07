@@ -2923,7 +2923,6 @@ foeniculum
 feudal
 feudalising
 febricide
-fendy
 feudalism
 feudalist
 feudalists
@@ -6956,6 +6955,7 @@ follis
 feuille
 foutra
 fatheads
+fendy
 follow
 followable
 foisting
