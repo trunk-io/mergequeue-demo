@@ -4903,7 +4903,6 @@ glaciable
 gatelike
 glabella
 gunless
-glabellar
 globalized
 gelatinousness
 glabellous
@@ -7727,6 +7726,7 @@ grayling
 gittite
 graysbies
 graylings
+glabellar
 guaracha
 grained
 graptolithida
