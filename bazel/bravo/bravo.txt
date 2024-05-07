@@ -630,7 +630,6 @@ bacteriemia
 bacteriform
 bacterin
 borofluoric
-battledore
 bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
@@ -12613,6 +12612,7 @@ bood
 boodh
 boody
 boodled
+battledore
 braccia
 boodler
 boodles
