@@ -9131,6 +9131,7 @@ flexionless
 feasing
 foxholes
 film
+furnace
 foxhounds
 filterer
 fleabanes
@@ -11413,7 +11414,6 @@ feverish
 fleckless
 fluent
 fossed
-furnace
 followed
 ferrimagnetic
 furnacelike
