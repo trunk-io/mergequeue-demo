@@ -5590,7 +5590,6 @@ dehistoricize
 disattire
 departition
 department
-dicot
 departmental
 depreciant
 diphyllous
@@ -6225,6 +6224,7 @@ derivations
 degrading
 derivatively
 demising
+dicot
 derivativeness
 derivatives
 dacoit
