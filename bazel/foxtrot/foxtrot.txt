@@ -1481,7 +1481,6 @@ fairtime
 furculum
 faubourg
 fantasie
-fable
 faubourgs
 faucals
 fractionary
@@ -3601,6 +3600,7 @@ franco
 felicitate
 filibranchia
 filibusterer
+fable
 falconlike
 filibusterers
 floran
