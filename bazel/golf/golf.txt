@@ -2783,7 +2783,6 @@ genio
 genioglossal
 globoids
 genioglossi
-gesnera
 genioglossus
 geniohyoglossal
 gnathions
@@ -7822,6 +7821,7 @@ gramophone
 gramophonic
 guttulae
 gruelling
+gesnera
 gametangium
 guydom
 gramps
