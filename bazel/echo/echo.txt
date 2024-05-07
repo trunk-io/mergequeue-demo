@@ -10505,7 +10505,6 @@ etymologer
 evirtuate
 etatisme
 etymologic
-etymological
 ensaint
 etymologically
 etymologies
@@ -13796,6 +13795,7 @@ electrophilic
 extracystic
 extracivic
 extracivically
+etymological
 extraclaustral
 enmoss
 extracloacal

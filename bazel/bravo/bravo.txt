@@ -2916,6 +2916,7 @@ barrelhead
 barrelhouse
 barrelhouses
 barreling
+blanco
 broad
 barrelled
 baetylic
@@ -5947,7 +5948,6 @@ bellrags
 bells
 belltail
 baresarks
-blanco
 biomicroscopy
 belluine
 bellum
