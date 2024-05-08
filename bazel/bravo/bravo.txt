@@ -3462,6 +3462,7 @@ bastings
 bastion
 blendure
 builtin
+bituminise
 bastionary
 bodingly
 bacchanalize
@@ -9969,7 +9970,6 @@ brangling
 bituminate
 berliner
 bluewood
-bituminise
 bituminising
 bituminized
 bedivere
