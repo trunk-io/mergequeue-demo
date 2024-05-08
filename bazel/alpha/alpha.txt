@@ -4635,6 +4635,7 @@ adversaria
 adversariness
 adversative
 adversatively
+armorial
 atavus
 analogice
 ambushed
@@ -12829,7 +12830,6 @@ angiospermae
 attacks
 angiospermal
 angiospermic
-armorial
 angiospermous
 angiosperms
 assistive
