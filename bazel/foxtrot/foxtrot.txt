@@ -1721,7 +1721,6 @@ fieldmice
 fragmentation
 feelable
 flippery
-fearing
 fearingly
 fearless
 ferrament
@@ -2017,6 +2016,7 @@ feest
 fooless
 feet
 feeze
+fearing
 fissuration
 feezes
 flagfish
