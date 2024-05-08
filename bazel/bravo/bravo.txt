@@ -13671,6 +13671,7 @@ buccaned
 boutefeu
 banqueteer
 bouteria
+brigands
 bouteselle
 bet
 boutylka
@@ -17637,7 +17638,6 @@ bifidate
 burger
 burgers
 burgess
-brigands
 burgessdom
 burgesses
 burggrave
