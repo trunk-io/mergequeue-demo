@@ -1147,7 +1147,6 @@ gloater
 gangues
 gangwa
 grenadilla
-gangwayman
 gamed
 ganister
 glamourie
@@ -9904,6 +9903,7 @@ guardedness
 goatroot
 guardeen
 ghatwal
+gangwayman
 guardful
 guardhouses
 glozer
