@@ -7319,7 +7319,6 @@ foramen
 fearnaught
 frampold
 flamfew
-filtrable
 forswearer
 fair
 flagellant
@@ -8702,6 +8701,7 @@ fortran
 feck
 fortranh
 fortravail
+filtrable
 fortread
 foreordains
 fortresses
