@@ -12227,7 +12227,6 @@ banker
 bawds
 boltwork
 bolus
-boluses
 bereavement
 benn
 bomb
@@ -16504,6 +16503,7 @@ brans
 btry
 briefed
 btu
+boluses
 bots
 buat
 brocho
