@@ -4844,7 +4844,6 @@ encrinic
 encrinidae
 encrinital
 encrinitic
-encrypting
 encryption
 encrisp
 encroach
@@ -10438,6 +10437,7 @@ ethnohistoric
 enquired
 etwite
 ethnol
+encrypting
 ethnolinguist
 ethnologer
 erysibe
