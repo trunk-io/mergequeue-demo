@@ -6115,7 +6115,6 @@ fermion
 flourishing
 flown
 federal
-flect
 foully
 frogmouths
 flourless
@@ -11424,6 +11423,7 @@ fieldward
 furnariidae
 fleeciest
 furnariides
+flect
 floralize
 furnarius
 furnish
