@@ -2192,6 +2192,7 @@ gazeboes
 gazebos
 gossipmongering
 grampus
+gonocyte
 galla
 globosity
 gazeless
@@ -6855,7 +6856,6 @@ greekless
 gentleman
 gonochorismal
 gymnothorax
-gonocyte
 gamelote
 gonococci
 gonococcic
