@@ -10619,7 +10619,6 @@ bleachground
 bedarken
 bleachyard
 bleaching
-bleachman
 bleachworks
 bleaker
 bleakest
@@ -16256,6 +16255,7 @@ brucina
 brucine
 brucines
 bulbaceous
+bleachman
 bruckle
 bruckled
 bruckleness
