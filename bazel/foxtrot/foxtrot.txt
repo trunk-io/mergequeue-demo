@@ -4381,7 +4381,6 @@ flyblew
 fishtails
 familiarizations
 fishway
-fishways
 fishweed
 fico
 fishwood
@@ -9378,6 +9377,7 @@ friends
 flushest
 franciscans
 ferocities
+fishways
 franciums
 francize
 francois
