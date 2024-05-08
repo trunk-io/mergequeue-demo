@@ -9612,6 +9612,7 @@ checkroom
 compathy
 checkrooms
 checkrope
+colleagued
 chemicked
 checkrow
 checkrowed
@@ -18954,7 +18955,6 @@ collators
 collaudation
 colleague
 coenobitic
-colleagued
 ciseleur
 colleagues
 charissa
