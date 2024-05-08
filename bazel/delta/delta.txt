@@ -8419,6 +8419,7 @@ disciplines
 deliveror
 diallists
 dialog
+downsize
 dialoger
 dialogers
 dialogged
@@ -10568,7 +10569,6 @@ dister
 decolourize
 diplococcemia
 diplococcoid
-downsize
 defiled
 diplococcus
 diplocoria
