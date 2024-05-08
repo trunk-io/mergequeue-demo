@@ -2907,7 +2907,6 @@ cantharidae
 cake
 chytrid
 cantharidate
-cantharidating
 cantharidean
 cantharides
 coation
@@ -15323,6 +15322,7 @@ claye
 clayed
 clayey
 clayer
+cantharidating
 conspecifics
 contchar
 clayier
