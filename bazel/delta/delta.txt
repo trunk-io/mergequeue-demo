@@ -2459,7 +2459,6 @@ decimeter
 downstair
 dialogs
 degorder
-decimeters
 decimetre
 decimolar
 diplacusis
@@ -12623,6 +12622,7 @@ diskless
 diskography
 dvandva
 divesting
+decimeters
 dextrorse
 diskophile
 defoliage
