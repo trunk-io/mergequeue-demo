@@ -4696,7 +4696,6 @@ carpe
 carped
 carpel
 carpellary
-carpellum
 cytinaceous
 carpentered
 coattended
@@ -14342,6 +14341,7 @@ circumbasal
 circumbendibus
 conception
 circumboreal
+carpellum
 cyclotella
 circumbuccal
 circumbulbar
