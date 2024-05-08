@@ -975,7 +975,6 @@ adiathermanous
 absorbability
 absorbable
 absorbancy
-absorbant
 absorbed
 absorbedness
 afterhold
@@ -19166,6 +19165,7 @@ armenize
 aholt
 acanthocephala
 allegoric
+absorbant
 alphanumeric
 alveoloclasia
 agritos

@@ -9912,7 +9912,6 @@ chemiotaxis
 chemiotropic
 chemiotropism
 chemiphotic
-copout
 chemis
 chemise
 comport
@@ -10625,6 +10624,7 @@ chylification
 charlatanish
 chylifying
 chamoises
+copout
 chyliform
 chilina
 chilindre
