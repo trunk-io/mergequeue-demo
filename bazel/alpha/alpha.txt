@@ -12798,6 +12798,7 @@ angiomata
 angiomatosis
 angiomyocardiac
 angiomyoma
+anoestrous
 angiomyosarcoma
 angioneoplasm
 angioneurosis
@@ -13742,7 +13743,6 @@ anodos
 anoegenetic
 anoesis
 agomensin
-anoestrous
 anoestrum
 anoestrus
 allopathies
