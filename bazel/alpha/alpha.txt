@@ -906,7 +906,6 @@ absenter
 absenters
 absently
 aflatus
-absentment
 absentminded
 absentmindedly
 absentmindedness
@@ -17343,6 +17342,7 @@ apolunes
 apolusis
 amoebiasis
 apomecometer
+absentment
 apomecometry
 aphidicolous
 apometabolic
