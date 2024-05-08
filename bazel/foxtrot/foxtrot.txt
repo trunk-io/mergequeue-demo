@@ -6100,7 +6100,6 @@ flotten
 flounce
 faikes
 flounced
-flounces
 flounciest
 flouncing
 flounder
@@ -9956,6 +9955,7 @@ fricace
 fricandeaux
 foozlers
 fricandel
+flounces
 fletton
 fortress
 funnelform
