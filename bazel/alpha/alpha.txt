@@ -6940,6 +6940,7 @@ airmen
 apanages
 arietta
 airmobile
+awry
 airmonger
 airn
 aloadae
@@ -25044,7 +25045,6 @@ awork
 aworry
 anaesthetist
 avascular
-awry
 awrist
 angiokinetic
 alkylating
