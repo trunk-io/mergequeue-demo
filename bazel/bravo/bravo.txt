@@ -17857,7 +17857,6 @@ bayoneting
 burroughs
 burroweed
 burrower
-burrowing
 burrows
 benevolent
 burrstone
@@ -18289,6 +18288,7 @@ butterwright
 buttgenbachite
 breed
 bruchus
+burrowing
 butty
 biovulate
 buffoonism
