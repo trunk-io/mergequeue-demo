@@ -4308,6 +4308,7 @@ fudged
 fisherfolk
 fishery
 florentium
+fraus
 fisherman
 flammably
 fisherwoman
@@ -8078,7 +8079,6 @@ foretaster
 foretastes
 fragrancy
 foretasting
-fraus
 fretsaw
 foretell
 foretellable
