@@ -5050,7 +5050,6 @@ aerologist
 aerologists
 aeromaechanic
 aeromancer
-aeromancy
 aeromechanic
 aeromechanics
 aeromedical
@@ -24322,6 +24321,7 @@ ambrose
 abaters
 autoptic
 autoptically
+aeromancy
 autoput
 alpinists
 autor
