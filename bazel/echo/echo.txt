@@ -4503,6 +4503,7 @@ encyclical
 encephalic
 encephalin
 encephalitic
+endostyle
 exocolitis
 emulators
 encephalitogenic
@@ -5314,7 +5315,6 @@ endosteomas
 endosteomata
 endosteum
 exploitative
-endostyle
 endostylic
 excarnate
 endostoma
