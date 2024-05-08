@@ -8890,7 +8890,6 @@ chapelmaster
 chapelry
 chapelries
 chapels
-cardiologies
 chapelward
 compile
 chaperno
@@ -11167,6 +11166,7 @@ chitrali
 chytridiaceae
 captains
 chytridiaceous
+cardiologies
 collembolic
 chytridiales
 citator
