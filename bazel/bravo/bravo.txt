@@ -3480,7 +3480,6 @@ balanoglossus
 basto
 beworms
 bucklandite
-baston
 bastonet
 bovine
 basts
@@ -15604,6 +15603,7 @@ balancement
 broadens
 broadest
 blastomycetes
+baston
 broadhorn
 beholder
 broadish
