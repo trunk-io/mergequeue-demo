@@ -8960,7 +8960,6 @@ araceae
 albespine
 allopatry
 auxiliatory
-allopatric
 amniac
 allophanamid
 allophanate
@@ -12329,6 +12328,7 @@ andante
 ancre
 arightly
 andantini
+allopatric
 andantino
 andantinos
 andaquian
