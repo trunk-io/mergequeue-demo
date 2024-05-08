@@ -2745,6 +2745,7 @@ genetics
 ganymedes
 geomorphological
 genetika
+gurgeon
 genetoid
 genetor
 genetous
@@ -9515,7 +9516,6 @@ groundkeeper
 geothlypis
 glidder
 ghis
-gurgeon
 grouty
 groutiest
 giustina
