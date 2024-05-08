@@ -11930,6 +11930,7 @@ chopins
 choplogic
 choplogical
 chopped
+choregi
 cryptomonad
 chopper
 choppers
@@ -11991,7 +11992,6 @@ choreal
 choreas
 choreatic
 chored
-choregi
 choregy
 characteristical
 choregraphic
