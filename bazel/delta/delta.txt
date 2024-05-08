@@ -2675,7 +2675,6 @@ diverge
 decompensation
 delinquents
 decompensations
-dairy
 decompiler
 decomponent
 decomposability
@@ -12857,6 +12856,7 @@ darkful
 disheveling
 disoccluded
 disoccluding
+dairy
 dysodile
 disimprovement
 dilatableness
