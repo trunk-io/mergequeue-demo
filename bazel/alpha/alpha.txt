@@ -3715,7 +3715,6 @@ adenographic
 adenographical
 adenohypersthenia
 adenohypophyseal
-adenohypophysial
 atry
 adenoidal
 adenoidectomy
@@ -23453,6 +23452,7 @@ auksinas
 aula
 aulacocarpous
 aulacomniaceae
+adenohypophysial
 aulacomnium
 aulae
 aularian
