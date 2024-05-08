@@ -7983,7 +7983,6 @@ cessor
 cesspipe
 cesspit
 cesspits
-centipede
 clamors
 contrastment
 cesspools
@@ -26139,6 +26138,7 @@ creatively
 cosmocracy
 cervical
 cosmocrat
+centipede
 cosmocratic
 cosmogenesis
 cosmogenetic
