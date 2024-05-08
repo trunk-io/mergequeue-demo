@@ -3373,7 +3373,6 @@ fractionize
 fiends
 fiendship
 frillier
-frightment
 fierabras
 fashionist
 fierasferid
@@ -6669,6 +6668,7 @@ flaringly
 fiddly
 foetation
 finnish
+frightment
 franked
 fortyish
 foeti
