@@ -14576,6 +14576,7 @@ concord
 cirque
 cirques
 cirrate
+coercibleness
 cirrated
 compounds
 cirratulidae
@@ -18152,7 +18153,6 @@ coercer
 coercers
 coercibility
 coercible
-coercibleness
 coercibly
 coercion
 coercionary
