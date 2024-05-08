@@ -10054,7 +10054,6 @@ chequered
 chequering
 chequers
 chequerwork
-cheques
 chequy
 chequin
 chequinn
@@ -20453,6 +20452,7 @@ counterstatute
 companion
 companionability
 companionableness
+cheques
 consumers
 companionate
 cathead
