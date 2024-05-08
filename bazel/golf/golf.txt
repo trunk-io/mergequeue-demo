@@ -8920,7 +8920,6 @@ gabion
 glucina
 gridiron
 gridirons
-graphologies
 gibbier
 griece
 grieced
@@ -9626,6 +9625,7 @@ grueler
 gushes
 glycerinated
 gruelers
+graphologies
 gathered
 geezers
 ganosis
