@@ -536,7 +536,6 @@ flummox
 fall
 fissirostral
 falla
-feltlike
 flyability
 frostnipped
 fallage
@@ -6444,6 +6443,7 @@ forestudy
 fluoroscoping
 fluoroscopists
 fluorotic
+feltlike
 firring
 fluorotype
 fisherboat
