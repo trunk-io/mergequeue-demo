@@ -3175,7 +3175,6 @@ actinopteran
 actinopteri
 actinopterygian
 amylopsase
-antrotome
 actinopterygious
 actinoscopy
 actinosome
@@ -19818,6 +19817,7 @@ aristotype
 aristotle
 aristulate
 arytenoepiglottic
+antrotome
 alfuro
 arytenoid
 arith
