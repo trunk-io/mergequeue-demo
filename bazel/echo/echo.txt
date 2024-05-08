@@ -762,7 +762,6 @@ ecotonal
 ecotones
 emotive
 ecoute
-ecphonema
 ecphorable
 ecphore
 ecphoria
@@ -11054,6 +11053,7 @@ excercise
 eurybathic
 eurybenthic
 endeared
+ecphonema
 embroglio
 eurycephalic
 epiglot
