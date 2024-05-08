@@ -6804,7 +6804,6 @@ celiolymph
 celiomyalgia
 celiomyodynia
 celiomyomectomy
-conjugately
 celiomyomotomy
 cubhood
 clearway
@@ -29762,6 +29761,7 @@ crophead
 cropland
 croplands
 cropless
+conjugately
 cropman
 croppa
 cropped

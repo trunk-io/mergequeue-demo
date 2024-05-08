@@ -2196,7 +2196,6 @@ accustoms
 acheweed
 achy
 aphagia
-achier
 apout
 ammonionitrate
 achiest
@@ -9482,6 +9481,7 @@ alternate
 alternated
 alternately
 alternateness
+achier
 alternater
 alternatingly
 animals
