@@ -2134,7 +2134,6 @@ elaters
 elatha
 elatinaceae
 elatinaceous
-elating
 elation
 elative
 enrib
@@ -13781,6 +13780,7 @@ ecteron
 extracardial
 epithelialize
 exceptionalness
+elating
 extracarpal
 encodes
 earring
