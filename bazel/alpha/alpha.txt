@@ -16849,7 +16849,6 @@ aphelenchus
 agog
 anterointerior
 aphelian
-absorbance
 anthophagy
 aphelilia
 abstricts
@@ -18347,6 +18346,7 @@ aquilinity
 aquilino
 aquilon
 aquincubital
+absorbance
 aquinist
 aquintocubital
 aquintocubitalism
