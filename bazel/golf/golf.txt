@@ -1942,7 +1942,6 @@ goodwills
 grene
 gryphosaurus
 grainering
-gateward
 gatewards
 gyrostabilized
 gatewoman
@@ -6404,6 +6403,7 @@ gastronomist
 goblin
 glycocholate
 gettable
+gateward
 gunite
 glucosulfone
 griddler

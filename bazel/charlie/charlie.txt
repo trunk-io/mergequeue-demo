@@ -8432,6 +8432,7 @@ chalkboards
 chalkcutter
 coffining
 chalked
+corrodant
 chalker
 chalky
 colicin
@@ -25822,7 +25823,6 @@ corroboratorily
 corroboree
 corroboreed
 corrobori
-corrodant
 corrode
 copremic
 corroder
