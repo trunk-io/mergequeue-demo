@@ -15763,7 +15763,6 @@ archeologic
 allomucic
 airmails
 antiophthalmic
-antiopium
 antiopiumist
 antioptimism
 afaint
@@ -22753,6 +22752,7 @@ allheal
 atmosphere
 atmosphereful
 atmosphereless
+antiopium
 atmospheres
 atmospheric
 atmospherically

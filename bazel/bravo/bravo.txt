@@ -12995,7 +12995,6 @@ bore
 boreable
 boread
 boreal
-borealis
 branchedness
 beclouding
 borean
@@ -18315,6 +18314,7 @@ button
 buttonball
 buttonbush
 buttoned
+borealis
 baddishly
 basidiocarp
 buttoner
