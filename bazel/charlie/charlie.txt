@@ -2169,7 +2169,6 @@ camps
 capotes
 chaenactis
 campshed
-campshedding
 campsheeting
 campsite
 compasser
@@ -4442,6 +4441,7 @@ cleistogamically
 chamoising
 carisoprodol
 carissa
+campshedding
 caritas
 conelrads
 capybaras
