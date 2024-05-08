@@ -1764,6 +1764,7 @@ bitripinnatifid
 brubu
 baluchithere
 buses
+biretta
 balun
 balustrade
 balustrades
@@ -15674,7 +15675,6 @@ bufotenine
 bavaroise
 brocolis
 brod
-biretta
 bhaga
 brodder
 bended
