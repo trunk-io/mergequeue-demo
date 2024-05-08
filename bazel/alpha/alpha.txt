@@ -267,7 +267,6 @@ abdominalian
 autotropism
 abdominally
 abdominals
-abdominoanterior
 abdominocentesis
 abdominocystic
 abdominogenital
@@ -3153,6 +3152,7 @@ actinomorphy
 animadvert
 actinomorphic
 amphitrichous
+abdominoanterior
 actinomorphous
 autolytic
 anilinophilous
