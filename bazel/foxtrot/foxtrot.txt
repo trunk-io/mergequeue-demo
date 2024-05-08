@@ -7198,7 +7198,6 @@ footlog
 footloose
 figurants
 footmanhood
-footmanry
 finished
 floodproof
 flathe
@@ -8583,6 +8582,7 @@ forrit
 foxish
 forsay
 fir
+footmanry
 forsaken
 fluoridise
 forsakenly
