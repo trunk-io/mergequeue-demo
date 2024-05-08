@@ -14282,6 +14282,7 @@ anteporticos
 anteposition
 anteprandial
 anteprohibition
+ateleiosis
 anteprostate
 antihypertensive
 antequalm
@@ -22494,7 +22495,6 @@ atef
 apprest
 ateknia
 atelectasis
-ateleiosis
 atelene
 ateleological
 aspartyl
