@@ -6163,6 +6163,7 @@ gnat
 gnathal
 gnathidium
 gnathite
+gruesomest
 gunyah
 gravidas
 gigantical
@@ -8920,7 +8921,6 @@ gridirons
 gibbier
 griece
 grieced
-gruesomest
 griecep
 gnathion
 glued
