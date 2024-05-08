@@ -10108,6 +10108,7 @@ etalage
 etamin
 equippers
 ever
+euchre
 etyma
 etamins
 etang
@@ -10640,7 +10641,6 @@ earnie
 eild
 evermo
 euchorda
-euchre
 enhalos
 euchred
 enchest
