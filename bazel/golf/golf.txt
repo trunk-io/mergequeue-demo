@@ -127,6 +127,7 @@ generals
 girosol
 gaditan
 glut
+goniometrical
 grue
 gadman
 gujerat
@@ -5761,7 +5762,6 @@ gloriole
 gyroscopics
 gatemen
 gloriosity
-goniometrical
 gloriously
 glos
 grizzler
