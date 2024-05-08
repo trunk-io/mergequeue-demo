@@ -7775,7 +7775,6 @@ decolourising
 devoices
 desidious
 disentangles
-devoicing
 devoir
 deturb
 devoirs
@@ -18561,6 +18560,7 @@ duskishness
 disparaged
 duskness
 dusks
+devoicing
 dust
 danseurs
 dustband

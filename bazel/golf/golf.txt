@@ -3832,7 +3832,6 @@ gibbled
 gibblegabble
 gumpheon
 gibblegabbler
-gibbles
 grungier
 gibbons
 gibbose
@@ -7985,6 +7984,7 @@ granitite
 granitization
 granitized
 granitizing
+gibbles
 grumbly
 granitoid
 granitoidal
