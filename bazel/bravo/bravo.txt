@@ -5591,7 +5591,6 @@ backstamp
 bejezebel
 beadhouses
 bricksetter
-bestowed
 bejig
 bejuco
 bajri
@@ -17216,6 +17215,7 @@ bullit
 bummest
 bullition
 bullneck
+bestowed
 bullnecked
 buckshots
 benzthiophen
