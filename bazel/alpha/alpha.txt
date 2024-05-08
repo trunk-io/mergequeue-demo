@@ -863,6 +863,7 @@ allergy
 abscessed
 abscesses
 abscession
+animalhood
 assertors
 abscind
 aerosols
@@ -13181,7 +13182,6 @@ animalculine
 animalculism
 animalculous
 animalculum
-animalhood
 animalian
 animalic
 anopsy

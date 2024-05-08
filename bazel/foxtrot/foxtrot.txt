@@ -342,7 +342,6 @@ fusses
 fungal
 fortypenny
 faineance
-frostproof
 foredeck
 faineant
 faineantism
@@ -9577,6 +9576,7 @@ footroom
 freakdom
 fentanyl
 freaked
+frostproof
 freaky
 frayne
 ficoid
