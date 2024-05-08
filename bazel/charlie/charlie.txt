@@ -7909,7 +7909,6 @@ cervelats
 cerveliere
 chirpling
 cervelliere
-cervical
 cervicapra
 cervicaprine
 cervicectomy
@@ -26140,6 +26139,7 @@ cheese
 cosmochemistry
 creatively
 cosmocracy
+cervical
 cosmocrat
 cosmocratic
 cosmogenesis
