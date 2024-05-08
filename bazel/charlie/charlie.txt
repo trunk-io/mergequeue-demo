@@ -8744,7 +8744,6 @@ changa
 changable
 changar
 capitelliform
-cataleptiform
 change
 changeable
 chuckram
@@ -27037,6 +27036,7 @@ chimneypot
 counterpoint
 counterpointing
 counterpoints
+cataleptiform
 counterpoise
 contestable
 chronical
