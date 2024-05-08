@@ -4324,7 +4324,6 @@ caryatid
 caryatidal
 cigaresque
 caryatidean
-caryatidic
 caryatids
 carib
 caribal
@@ -7842,6 +7841,7 @@ certes
 certhia
 certhiidae
 certie
+caryatidic
 certifiability
 certifiable
 coliiformes
