@@ -1629,6 +1629,7 @@ designating
 deresinize
 deallocation
 deallocations
+deprival
 dipteron
 deals
 dealt
@@ -5981,7 +5982,6 @@ deprint
 depriorize
 dysmerism
 deprivable
-deprival
 disprofit
 deprivals
 deprivation
