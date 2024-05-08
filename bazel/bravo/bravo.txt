@@ -4860,6 +4860,7 @@ bedstand
 brazenface
 baikerinite
 beshrouded
+bolometer
 bedstraw
 bedstraws
 bedstring
@@ -8311,7 +8312,6 @@ biflected
 boring
 biflex
 biflorate
-bolometer
 bifluoride
 bifocal
 bifocals
