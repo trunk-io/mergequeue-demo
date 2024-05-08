@@ -14809,7 +14809,6 @@ concomitancy
 cystopyelitis
 centralest
 cystopyelography
-cystopyelonephritis
 cystoplegia
 cystoproctostomy
 coccolobis
@@ -28135,6 +28134,7 @@ craniocele
 craniocerebral
 cranioclasis
 cranioclasm
+cystopyelonephritis
 cranioclast
 celebrities
 condenseries
