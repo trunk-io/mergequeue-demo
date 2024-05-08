@@ -1735,6 +1735,7 @@ accrue
 accrued
 accruement
 accruer
+adiabatic
 accrues
 accruing
 aerocar
@@ -3851,7 +3852,6 @@ adhibits
 adhort
 ady
 adiabat
-adiabatic
 assistency
 adiadochokinesia
 adiadochokinesis
