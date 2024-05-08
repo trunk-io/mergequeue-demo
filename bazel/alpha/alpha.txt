@@ -10642,7 +10642,6 @@ aminoanthraquinone
 apodictically
 acritol
 aminoazo
-aminoazobenzene
 amphithalmi
 aminobarbituric
 aminobenzaldehyde
@@ -22155,6 +22154,7 @@ astigmatoscope
 astigmatoscopy
 astigmia
 astigmic
+aminoazobenzene
 astigmism
 astigmometer
 astigmometry
