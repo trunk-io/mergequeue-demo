@@ -848,7 +848,6 @@ efficient
 erroneous
 ectocuneiform
 ectocuniform
-ectodactylism
 ectodermosis
 electroanalytical
 ebullient
@@ -6445,6 +6444,7 @@ ensorcellment
 ensorrow
 eucalyn
 emit
+ectodactylism
 ensoul
 ensouled
 energist

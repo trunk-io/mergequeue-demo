@@ -14999,7 +14999,6 @@ cytologic
 cytologically
 coranoch
 caperdewsie
-cytomegalic
 cytomegalovirus
 cytomere
 cytometer
@@ -22737,6 +22736,7 @@ conrad
 chironomy
 conrectorship
 conred
+cytomegalic
 conringia
 consacre
 consanguine
