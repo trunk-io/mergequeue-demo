@@ -5268,6 +5268,7 @@ barlock
 begaze
 begazes
 begazing
+borderer
 blinds
 begem
 bloods
@@ -12970,7 +12971,6 @@ backpacker
 border
 blackberry
 bordered
-borderer
 bakeboard
 bordering
 borderings
