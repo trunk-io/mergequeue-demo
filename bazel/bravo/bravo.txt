@@ -8084,7 +8084,6 @@ bichromated
 bichromatize
 bichromic
 bicyanide
-bicycler
 bicyclers
 bicyclic
 bicycling
@@ -14901,6 +14900,7 @@ blowflies
 breathes
 boarstaff
 breathful
+bicycler
 burleys
 breathier
 bigot
