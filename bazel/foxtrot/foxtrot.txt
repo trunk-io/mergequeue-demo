@@ -1124,6 +1124,7 @@ fortunize
 forcat
 farsightedness
 farcically
+flooring
 forkedly
 farth
 farthermore
@@ -8673,7 +8674,6 @@ fortifier
 florets
 fortifiers
 fortifies
-flooring
 fafnir
 ferretto
 fortifys
