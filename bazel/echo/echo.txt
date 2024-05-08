@@ -8761,7 +8761,6 @@ extents
 equivocal
 extermination
 endangering
-encoffin
 excoriable
 equivocated
 equivocates
@@ -10347,6 +10346,7 @@ ethylin
 ethylmorphine
 enflowering
 ethylsulphuric
+encoffin
 ethylthioethane
 ethylthioether
 ethinamate
