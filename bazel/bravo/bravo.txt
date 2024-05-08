@@ -2504,7 +2504,6 @@ bargander
 barge
 bargeboard
 bargeer
-bargees
 biogasses
 bergere
 bargehouse
@@ -4109,6 +4108,7 @@ beams
 beamsman
 beamwork
 birken
+bargees
 bantlings
 bean
 beanbag
