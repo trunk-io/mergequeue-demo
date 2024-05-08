@@ -292,7 +292,6 @@ gainstrive
 governorship
 golgotha
 gringos
-gonoph
 grayout
 gaintwist
 ganev
@@ -4976,6 +4975,7 @@ gladiatorship
 gallerian
 guttersnipe
 gladiatrix
+gonoph
 gladier
 gladii
 gladiola
