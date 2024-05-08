@@ -328,7 +328,6 @@ daybill
 dayblush
 daybooks
 daybreak
-daybreaks
 daibutsu
 desand
 dermatologists
@@ -15925,6 +15924,7 @@ dekagram
 dotard
 dotardism
 durene
+daybreaks
 darned
 dotards
 duddle
