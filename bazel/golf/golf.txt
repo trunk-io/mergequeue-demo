@@ -6420,7 +6420,6 @@ gentry
 goundou
 glyoxylic
 grubstaker
-gyromagnetic
 gibblegable
 guarantorship
 geographic
@@ -7024,6 +7023,7 @@ grangerising
 grandpappy
 gadi
 goons
+gyromagnetic
 gambolling
 glaciered
 goops
