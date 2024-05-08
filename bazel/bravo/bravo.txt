@@ -1070,6 +1070,7 @@ bailiffwick
 bailing
 bailiwick
 beaconed
+bridler
 bailiwicks
 baillie
 baillone
@@ -15256,7 +15257,6 @@ bridle
 bridled
 bumbarge
 bridleless
-bridler
 bridlers
 buffware
 boredom
