@@ -9265,7 +9265,6 @@ biped
 bipedal
 bourbonesque
 bipedality
-bipedism
 bipeds
 bipeltate
 blepharophthalmia
@@ -14894,6 +14893,7 @@ breathes
 boarstaff
 breathful
 bicycler
+bipedism
 burleys
 breathier
 bigot
