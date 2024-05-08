@@ -7320,7 +7320,6 @@ detest
 detestation
 dominate
 detestations
-detested
 detester
 driveboat
 detesters
@@ -7465,6 +7464,7 @@ deuces
 deul
 dumpler
 deuniting
+detested
 deurbanize
 dayglow
 deurwaarder
