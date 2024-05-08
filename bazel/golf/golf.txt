@@ -830,7 +830,6 @@ galinaceous
 galvanothermy
 galvanotonic
 guaco
-galvo
 gangliac
 ghrush
 gleds
@@ -2441,6 +2440,7 @@ gentleship
 giggled
 gadolinic
 geologist
+galvo
 gabi
 greengrocer
 gutturalisation
