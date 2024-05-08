@@ -1812,6 +1812,7 @@ bouleversement
 bananalander
 banande
 bananist
+bridgewall
 bushwood
 bananivorous
 banat
@@ -2274,7 +2275,6 @@ barbarising
 barbarism
 barbarisms
 bronstrops
-bridgewall
 barbarity
 barbarities
 barbarization
