@@ -1584,7 +1584,6 @@ boilermaker
 ballistae
 bijous
 ballistician
-borderers
 brachioganoidei
 ballisticians
 ballistocardiogram
@@ -17723,6 +17722,7 @@ brisket
 burka
 burke
 burked
+borderers
 beliquor
 burker
 burkes
