@@ -515,7 +515,6 @@ folium
 falcons
 falcopern
 folkboat
-flatfeet
 falculate
 falcunculus
 falda
@@ -5865,6 +5864,7 @@ frangent
 factors
 flockwise
 flocs
+flatfeet
 floeberg
 ferthumlungur
 futtock
