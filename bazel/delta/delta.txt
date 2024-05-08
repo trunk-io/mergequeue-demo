@@ -1223,7 +1223,6 @@ datemark
 dentalise
 durational
 dater
-dinosaur
 daterman
 dates
 datil
@@ -13530,6 +13529,7 @@ dissemble
 disquisitive
 disrelishable
 dissembler
+dinosaur
 diagraphic
 driftman
 dactylose
