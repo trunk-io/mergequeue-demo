@@ -5903,7 +5903,6 @@ danes
 darter
 diachoresis
 demeaning
-deprecations
 disconcert
 deprecative
 deprecatively
@@ -6610,6 +6609,7 @@ decontamination
 desegregates
 desegregating
 dilettant
+deprecations
 desegregation
 duststorm
 deselected
