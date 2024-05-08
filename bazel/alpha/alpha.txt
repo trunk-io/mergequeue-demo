@@ -5240,7 +5240,6 @@ aetobatus
 aetolian
 aetomorphae
 aetosaur
-aetosaurian
 aetosaurus
 aettekees
 aeviternal
@@ -24147,6 +24146,7 @@ anodynic
 autokinesy
 autokinesis
 arythmia
+aetosaurian
 autokinetic
 adjudicature
 autokrator
