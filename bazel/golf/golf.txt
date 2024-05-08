@@ -3096,7 +3096,6 @@ gallinacei
 glassed
 gurgle
 geomaly
-geomalic
 geomancer
 geomancy
 garnered
@@ -7474,6 +7473,7 @@ governed
 governesses
 governing
 governingly
+geomalic
 got
 gombay
 garron
