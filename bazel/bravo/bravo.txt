@@ -2541,7 +2541,6 @@ bassetite
 barguest
 barguests
 buzylene
-barhopped
 barhops
 baria
 brandies
@@ -15215,6 +15214,7 @@ bridemaidship
 brides
 brideship
 butomaceae
+barhopped
 biotaxy
 backhauling
 bridesmaid
