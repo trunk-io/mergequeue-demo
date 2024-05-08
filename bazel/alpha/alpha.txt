@@ -5988,7 +5988,6 @@ ageometrical
 ager
 ageratums
 agers
-adeptest
 ages
 agete
 allthorn
@@ -19943,6 +19942,7 @@ amomum
 armhole
 armhoop
 adpao
+adeptest
 army
 armida
 armied
