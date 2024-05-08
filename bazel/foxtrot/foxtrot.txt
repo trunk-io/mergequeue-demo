@@ -1331,6 +1331,7 @@ featherworker
 fatalism
 fatalists
 fleeced
+fittable
 finds
 flauntier
 fatalities
@@ -8117,7 +8118,6 @@ foretrace
 foreuse
 foreutter
 forevalue
-fittable
 fibulas
 flamier
 foreverness
