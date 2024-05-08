@@ -3715,7 +3715,6 @@ exocardial
 embrocate
 embrocated
 embrocates
-embrocating
 escrowed
 erythroid
 elshin
@@ -5473,6 +5472,7 @@ energid
 energise
 epitendineum
 epirot
+embrocating
 etatist
 energiser
 exoccipital

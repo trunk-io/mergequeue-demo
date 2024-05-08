@@ -7809,7 +7809,6 @@ devonshire
 devoration
 devota
 devotary
-devote
 devoted
 dogfishes
 dipsomaniacal
@@ -17167,6 +17166,7 @@ drillman
 discourser
 drillmaster
 drillmasters
+devote
 drylots
 drilvis
 dryness
