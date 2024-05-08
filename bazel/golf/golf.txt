@@ -4996,6 +4996,7 @@ gladwin
 grivois
 galletas
 globularity
+greeter
 gusain
 glaga
 glagolic
@@ -8741,7 +8742,6 @@ greese
 genual
 greet
 grabble
-greeter
 googly
 greeting
 greets
