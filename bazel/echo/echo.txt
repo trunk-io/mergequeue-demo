@@ -1832,7 +1832,6 @@ expirant
 euphemous
 eighteens
 eighteenth
-eighteenths
 euryprognathous
 equisonant
 eightfold
@@ -6919,6 +6918,7 @@ experienced
 ephoric
 entoperipheral
 entophytal
+eighteenths
 endotheliomyxoma
 ebullitive
 estoppel

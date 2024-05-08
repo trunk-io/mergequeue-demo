@@ -12238,7 +12238,6 @@ anciennete
 anciens
 ancientest
 ancienty
-ancientism
 anciently
 ancientness
 ancile
@@ -18933,6 +18932,7 @@ archfool
 archform
 archfounder
 acervose
+ancientism
 ambush
 archgenethliac
 archgod
