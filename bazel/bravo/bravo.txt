@@ -3078,6 +3078,7 @@ blenny
 basaree
 begulfs
 basat
+bestness
 bascinet
 bascology
 basculation
@@ -3611,7 +3612,6 @@ bathman
 bathmat
 bathmats
 bereaven
-bestness
 bollard
 bathmism
 bathochromatism
