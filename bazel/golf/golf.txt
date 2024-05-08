@@ -2955,6 +2955,7 @@ gruel
 gustfulness
 gallivants
 genuflecting
+graphicalness
 gullish
 genuflections
 genuflects
@@ -8125,7 +8126,6 @@ graphemics
 gastroscopies
 greenhorn
 graphically
-graphicalness
 graphicness
 graphing
 glutamates
