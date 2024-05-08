@@ -15087,7 +15087,6 @@ anticontagion
 anticontagionist
 anticontagious
 anticontagiously
-anticontagiousness
 anticonvellent
 anticonventional
 anticonventionalist
@@ -22974,6 +22973,7 @@ attacker
 aguardiente
 appetencies
 attackers
+anticontagiousness
 attacking
 antedated
 attackingly
