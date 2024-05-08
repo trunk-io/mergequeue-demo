@@ -9449,6 +9449,7 @@ denizate
 digestibility
 digestible
 downshifting
+doorframe
 dite
 digestibleness
 digestibly
@@ -15597,7 +15598,6 @@ dooputty
 doorbrand
 doorcheek
 doored
-doorframe
 doorhawk
 doorhead
 dooryards
