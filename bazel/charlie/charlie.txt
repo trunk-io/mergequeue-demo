@@ -10151,6 +10151,7 @@ cheskey
 campine
 cheskeys
 cheslep
+coleochaete
 chesoun
 chess
 chessart
@@ -18776,7 +18777,6 @@ colent
 calidity
 coleochaetaceae
 coleochaetaceous
-coleochaete
 cheltenham
 caravaned
 cabochon
