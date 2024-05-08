@@ -3947,7 +3947,6 @@ emory
 empoisoning
 eupomatiaceae
 eversions
-emoted
 excessman
 emoting
 emotion
@@ -13263,6 +13262,7 @@ explosion
 explosionist
 epithecate
 explosions
+emoted
 explosively
 explosiveness
 explosives
