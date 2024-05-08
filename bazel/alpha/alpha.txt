@@ -3234,7 +3234,6 @@ activates
 activation
 activations
 activator
-activators
 active
 actively
 academising
@@ -8780,6 +8779,7 @@ allies
 alligated
 abscessroot
 autocorrelation
+activators
 alligations
 alligator
 alligatored
