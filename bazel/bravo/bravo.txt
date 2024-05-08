@@ -4660,7 +4660,6 @@ blader
 blent
 bedding
 beddingroll
-bops
 bede
 bogans
 bedeaf
@@ -11991,6 +11990,7 @@ boycotted
 brachiated
 boycotting
 boycottism
+bops
 barbarians
 boycotts
 boid
