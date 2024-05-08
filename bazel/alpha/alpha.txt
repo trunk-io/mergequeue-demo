@@ -19219,6 +19219,7 @@ archthief
 archtyrant
 arachnites
 archtraitor
+availers
 allophane
 archtreasurership
 archturncoat
@@ -24551,7 +24552,6 @@ availably
 availed
 asynaptic
 availer
-availers
 availing
 availingly
 availment
