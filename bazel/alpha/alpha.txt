@@ -15705,7 +15705,6 @@ arcus
 antinihilistic
 antinodal
 antinode
-antinodes
 antinome
 antinomy
 antinomianism
@@ -24211,6 +24210,7 @@ automatonta
 automatous
 automechanical
 automechanism
+antinodes
 arghan
 automelon
 autarchical
