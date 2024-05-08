@@ -3504,7 +3504,6 @@ gesling
 gesneraceous
 gesnerad
 gesneria
-gesneriaceae
 gesneriaceous
 gretel
 gilravager
@@ -6147,6 +6146,7 @@ goutte
 gnarliest
 gnarliness
 gnarls
+gesneriaceae
 gradates
 gallicolous
 grossulaceous
