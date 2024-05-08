@@ -2157,6 +2157,7 @@ gigging
 gawk
 grubs
 ginglmi
+gnomist
 gelndesprung
 gawked
 gazometer
@@ -6241,7 +6242,6 @@ guanins
 gastroid
 goutwort
 gelastic
-gnomist
 gallbladder
 gabert
 geitonogamous
