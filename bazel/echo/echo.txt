@@ -8091,7 +8091,6 @@ eyebridled
 epiplanktonic
 extraconstitutional
 epithalamy
-epiplasm
 epiplasmic
 epiplectic
 epiplexis
@@ -13664,6 +13663,7 @@ excursionize
 ermanaric
 exemplary
 externomedian
+epiplasm
 externs
 excavates
 externship
