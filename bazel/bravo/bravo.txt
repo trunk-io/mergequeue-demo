@@ -10342,7 +10342,6 @@ blanched
 blancher
 blanches
 blancmange
-bifold
 besnows
 blancmanges
 beanfeaster
@@ -17150,6 +17149,7 @@ bulletwood
 britchka
 bullfeast
 bullfice
+bifold
 beseeming
 blondine
 bullfighters
