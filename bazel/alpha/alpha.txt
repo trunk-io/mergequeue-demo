@@ -9117,7 +9117,6 @@ accipitres
 allwhither
 allwork
 allworthy
-alma
 antu
 antilens
 almacen
@@ -22106,6 +22105,7 @@ argute
 asthenia
 articulateness
 audiograms
+alma
 aphelilions
 asthenias
 adhibited
