@@ -9212,6 +9212,7 @@ alnath
 alnein
 awest
 alnico
+authenticating
 alnicoes
 alnilam
 alnitak
@@ -14945,7 +14946,6 @@ arpens
 anticipating
 aphoriser
 anticipatingly
-authenticating
 anticipation
 accouchements
 anticipations
