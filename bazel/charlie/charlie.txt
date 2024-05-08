@@ -17762,7 +17762,6 @@ cocos
 cocotte
 cocottes
 cocobolo
-cocovenantor
 cocowood
 cocowort
 cocona
@@ -29682,6 +29681,7 @@ crombec
 cofathership
 cromer
 cromfordite
+cocovenantor
 cromlech
 cromme
 crasis
