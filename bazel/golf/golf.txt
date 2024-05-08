@@ -6785,6 +6785,7 @@ googols
 gonidiophore
 gonimium
 gyrostats
+gaudsman
 goninidia
 geyseral
 gruine
@@ -8642,7 +8643,6 @@ greenboard
 girn
 greenbone
 galimatias
-gaudsman
 greenbrier
 greenbug
 greenbugs
