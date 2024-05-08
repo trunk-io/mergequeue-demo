@@ -1304,7 +1304,6 @@ bedbug
 bacterioprecipitin
 balanopsidales
 balanorrhagia
-balant
 balanta
 bottine
 balante
@@ -10341,6 +10340,7 @@ blancard
 bergomask
 blanch
 blanche
+balant
 blanched
 blancher
 blanches
