@@ -94,7 +94,6 @@ bludgeoned
 babylike
 babillard
 babylon
-babylonish
 babylonism
 backtrace
 babylonite
@@ -5933,6 +5932,7 @@ belltail
 baresarks
 biomicroscopy
 belluine
+babylonish
 bellum
 bigroot
 becobweb
