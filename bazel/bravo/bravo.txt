@@ -3896,7 +3896,6 @@ bacula
 bookend
 bawcock
 bawcocks
-bawd
 bummaree
 beglerbeglik
 bawdy
@@ -5470,6 +5469,7 @@ beheader
 benignness
 beheads
 behearse
+bawd
 beheira
 bolter
 behemoth
