@@ -1616,7 +1616,6 @@ footballer
 favorer
 furtherest
 fi
-floorages
 fleaworts
 favorites
 favorless
@@ -3952,6 +3951,7 @@ furrow
 femur
 filmlike
 firstness
+floorages
 fingerstone
 felicific
 fingertip

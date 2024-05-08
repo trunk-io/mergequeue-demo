@@ -882,7 +882,6 @@ baggara
 brevis
 beseechingly
 baggers
-baggy
 baggie
 baggier
 baggies
@@ -17954,6 +17953,7 @@ bimester
 busher
 bushers
 bedder
+baggy
 bushes
 bushet
 bushfighting
