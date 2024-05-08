@@ -2096,7 +2096,6 @@ feudalisation
 foreintend
 foremasthand
 felicity
-felicities
 felicitous
 foreproffer
 felid
@@ -7577,6 +7576,7 @@ fivefoldness
 fleabiting
 foredated
 folliful
+felicities
 flowerfence
 foredating
 foundationary
