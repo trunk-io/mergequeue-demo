@@ -3976,7 +3976,6 @@ analcite
 adj
 alphorns
 adjacence
-adjacency
 adjacencies
 amated
 adjag
@@ -19634,6 +19633,7 @@ aramayoite
 argumentativeness
 accede
 argumentator
+adjacency
 argumentatory
 actinobacillus
 arguments
