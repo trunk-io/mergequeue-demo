@@ -5614,7 +5614,6 @@ aftercast
 aftercataract
 afterchance
 afterchurch
-alaster
 afterclause
 aftercome
 aftercoming
@@ -20971,6 +20970,7 @@ ascendent
 ascendible
 arbitrament
 ascending
+alaster
 ascendingly
 ascends
 avgases
