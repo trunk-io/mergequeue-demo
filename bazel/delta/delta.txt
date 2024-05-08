@@ -1701,7 +1701,6 @@ dearworthily
 dearworthiness
 drawgear
 deashed
-deashes
 devastate
 deashing
 deasil
@@ -3132,6 +3131,7 @@ defacing
 defacto
 dodgers
 defade
+deashes
 defaillance
 defaitiste
 defalcate
