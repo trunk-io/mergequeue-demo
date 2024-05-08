@@ -127,6 +127,7 @@ generals
 girosol
 gaditan
 glut
+garrot
 goniometrical
 grue
 gadman
@@ -1984,7 +1985,6 @@ gummier
 gaspy
 gaudeamus
 gaudeamuses
-garrot
 gaudery
 gauderies
 grails
