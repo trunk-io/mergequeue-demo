@@ -5937,7 +5937,6 @@ cathecting
 cathection
 cathects
 cathedra
-cathedrae
 circumdate
 cathedral
 cathedraled
@@ -25726,6 +25725,7 @@ corregimientos
 correl
 correlatable
 correlated
+cathedrae
 countertripping
 correlates
 correlations
