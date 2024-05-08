@@ -750,7 +750,6 @@ ecospecific
 ecosphere
 esteem
 edriophthalmous
-ecostate
 exuvium
 ecotype
 ecotypes
@@ -5262,6 +5261,7 @@ echinologist
 epipleural
 endorser
 emydosaurian
+ecostate
 endosalpingitis
 elegiast
 endosarcous
