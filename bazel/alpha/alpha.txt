@@ -3936,7 +3936,6 @@ adipocerite
 adipocyte
 adipofibroma
 adipogenic
-adipogenous
 adipoid
 antitropous
 adipolysis
@@ -23189,6 +23188,7 @@ attractive
 attractively
 attractiveness
 attractivity
+adipogenous
 attractor
 attracts
 attrahent
