@@ -16315,7 +16315,6 @@ calendal
 carvol
 clinopinacoid
 cephalin
-clinopinacoidal
 chayaroot
 clinopyroxene
 convector
@@ -17237,6 +17236,7 @@ coalify
 cymbaline
 coalification
 coalified
+clinopinacoidal
 coalifies
 coalifying
 coaling
