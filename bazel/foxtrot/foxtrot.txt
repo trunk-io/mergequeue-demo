@@ -5971,7 +5971,6 @@ ferbam
 floppiness
 fumigation
 flopwing
-flor
 flora
 floral
 floramour
@@ -10106,6 +10105,7 @@ floscule
 frim
 flavoury
 frimaire
+flor
 fungus
 fitter
 frontopontine
