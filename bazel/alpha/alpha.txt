@@ -2877,7 +2877,6 @@ acrospore
 acroclinium
 acrocomia
 acroconidium
-acrocontracture
 acrocoracoid
 acrodactyla
 acrodermatitis
@@ -15740,6 +15739,7 @@ antinucleons
 aeolight
 antinuke
 anthropogeny
+acrocontracture
 antiochian
 antiochianism
 autoeducation
