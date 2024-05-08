@@ -15499,6 +15499,7 @@ clap
 clapboard
 clapboarding
 concatenary
+cleidomastoid
 clapboards
 clapcake
 clapdish
@@ -15969,7 +15970,6 @@ cleidocranial
 cleidohyoid
 cleidoic
 cleidomancy
-cleidomastoid
 cleidorrhexis
 chiripa
 cleidoscapular
