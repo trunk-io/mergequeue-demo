@@ -5300,7 +5300,6 @@ frigefact
 fermentology
 formfitting
 flectionless
-flector
 fry
 fido
 fledged
@@ -11207,6 +11206,7 @@ feneration
 fungin
 fungistat
 foraminous
+flector
 fallfishes
 frenzelite
 fungistatically
