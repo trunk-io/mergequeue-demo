@@ -6486,7 +6486,6 @@ desalters
 dominicker
 dobbers
 desamidase
-desamidization
 desands
 desc
 disarranged
@@ -16910,6 +16909,7 @@ dreamhole
 dreamy
 dreamier
 discriminations
+desamidization
 destiny
 dreamiest
 dreamily
