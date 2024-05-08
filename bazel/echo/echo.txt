@@ -8357,7 +8357,6 @@ epithetician
 epithets
 enwreathed
 epithyme
-ectodermic
 extacie
 epithymetical
 epithumetic
@@ -13366,6 +13365,7 @@ expressional
 ebionitic
 expressionistic
 expressionistically
+ectodermic
 echinops
 expressionists
 expressionlessness
