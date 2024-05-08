@@ -372,7 +372,6 @@ asg
 abhominable
 abhor
 abhorrence
-abhorrency
 abhorrent
 abhors
 agminate
@@ -3402,6 +3401,7 @@ adagios
 aluminosity
 adagissimo
 aggressor
+abhorrency
 adai
 aerology
 aday
