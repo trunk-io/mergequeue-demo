@@ -10580,7 +10580,6 @@ amylom
 amylometer
 amylopectin
 amylophagia
-amylophosphate
 amyloplast
 appertaining
 archilochian
@@ -20782,6 +20781,7 @@ artistic
 artistically
 aftercourse
 aeroplankton
+amylophosphate
 artistry
 artistries
 acetoarsenite
