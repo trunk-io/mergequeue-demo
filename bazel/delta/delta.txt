@@ -7288,7 +7288,6 @@ determinative
 deckings
 drageoir
 determinatively
-determinativeness
 determinator
 dalesmen
 determined
@@ -16866,6 +16865,7 @@ drawlink
 drawloom
 drawls
 drawn
+determinativeness
 dissyllabise
 diffidence
 drawoff
