@@ -3754,7 +3754,6 @@ batteries
 batteryman
 batterman
 batters
-batteuse
 batty
 barny
 battycake
@@ -14310,6 +14309,7 @@ brayerin
 brayers
 burry
 braies
+batteuse
 brayette
 braying
 brailles
