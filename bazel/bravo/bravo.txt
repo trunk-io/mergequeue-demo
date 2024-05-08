@@ -7579,7 +7579,6 @@ biathlon
 bevenom
 bever
 beverage
-beverages
 beverse
 bevesseled
 brinks
@@ -12526,6 +12525,7 @@ bonnier
 bonniest
 backlist
 bonnyish
+beverages
 boogeyman
 bonniness
 bisinuation
