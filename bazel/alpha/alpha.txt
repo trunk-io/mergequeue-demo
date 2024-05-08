@@ -5221,7 +5221,6 @@ aethogen
 aethusa
 aggrandisement
 aetiogenic
-aetiology
 arsenides
 almagest
 aetiological
@@ -20621,6 +20620,7 @@ aswithe
 arthroncus
 arthroneuralgia
 ambitioned
+aetiology
 arthropathic
 arthrophyma
 arthrophlogosis
