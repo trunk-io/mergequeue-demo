@@ -6256,7 +6256,6 @@ aglyphodonta
 aglyphous
 alcyones
 aglitter
-aglobulism
 aspartokinase
 aglossa
 aglossal
@@ -15930,6 +15929,7 @@ antipyrin
 antipyrine
 antipyrotic
 antiplague
+aglobulism
 antiplanet
 antiplastic
 antiplatelet
