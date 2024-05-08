@@ -13313,7 +13313,6 @@ everydeal
 exposition
 expositions
 expositively
-exclude
 encup
 encratic
 eurypterid
@@ -14047,6 +14046,7 @@ extravehicular
 extravenate
 extraventricular
 extraversive
+exclude
 epidendral
 eradiation
 epagoge
