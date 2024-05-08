@@ -5016,6 +5016,7 @@ foeture
 flashiness
 flashings
 flashlamp
+flapmouthed
 flashlight
 fawner
 forestery
@@ -6530,7 +6531,6 @@ fraist
 filius
 flytail
 flutina
-flapmouthed
 fluting
 flutist
 fibrilations
