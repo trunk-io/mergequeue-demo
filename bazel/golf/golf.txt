@@ -1207,7 +1207,6 @@ graecizes
 gunnels
 grandeurs
 girgashite
-gimp
 gentlemens
 gynosporangium
 gantelope
@@ -6687,6 +6686,7 @@ gimmerpet
 gonadal
 galvanizer
 gastroxynsis
+gimp
 ghostwrite
 gluconeogenetic
 gonadotrope
