@@ -8136,7 +8136,6 @@ algerines
 algerita
 algerite
 algernon
-algesia
 algesiometer
 algesis
 algy
@@ -25339,6 +25338,7 @@ azosulphonic
 azotaemia
 azotate
 azotea
+algesia
 azotemia
 azotemias
 amnestying
