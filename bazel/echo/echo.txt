@@ -2361,7 +2361,6 @@ ergatomorph
 estimates
 enjeopard
 electrodentistry
-extemporaneousness
 electrification
 electrodeposition
 escalation
@@ -6565,6 +6564,7 @@ echelons
 epimacus
 exuviates
 enterer
+extemporaneousness
 epimedium
 ellipses
 enterers
