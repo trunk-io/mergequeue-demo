@@ -2032,7 +2032,6 @@ acetylglycine
 acetylhydrazine
 acetylic
 acetylid
-acetylide
 acetyliodide
 acetylizable
 acetylization
@@ -19871,6 +19870,7 @@ abundances
 armadas
 armadilla
 armadillididae
+acetylide
 armadillidium
 armadillos
 astrocyte
