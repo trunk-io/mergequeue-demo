@@ -2722,7 +2722,6 @@ acquiet
 acquirable
 acquire
 acquirement
-acquirers
 acquiring
 amaranthoid
 acquisite
@@ -10587,6 +10586,7 @@ amylopsin
 amylose
 apprenticeship
 acacetin
+acquirers
 amyloses
 amylosynthesis
 amylosis
