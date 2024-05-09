@@ -793,7 +793,6 @@ daneball
 danebrog
 delusters
 daneflower
-dhoni
 danegeld
 danegelds
 danelaw
@@ -17603,6 +17602,7 @@ drummed
 drummer
 deathlike
 distained
+dhoni
 drumming
 drumread
 drumreads
