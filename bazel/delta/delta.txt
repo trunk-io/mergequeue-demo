@@ -3513,7 +3513,6 @@ deuteroprism
 deforced
 dinner
 discontinuous
-deforcer
 deforces
 distrail
 deforciant
@@ -8248,6 +8247,7 @@ diagnostical
 diagnostically
 diagnosticate
 denitrating
+deforcer
 diagnosticating
 demegoric
 diagnostician
