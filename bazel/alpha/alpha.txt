@@ -11341,6 +11341,7 @@ amoibite
 accurate
 ampongue
 amps
+assigner
 absinthe
 ampul
 ampulated
@@ -21809,7 +21810,6 @@ ambiparous
 assignee
 assignees
 amphorophony
-assigner
 adversarial
 assigners
 assignment
