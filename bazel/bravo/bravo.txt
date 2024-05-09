@@ -6623,7 +6623,6 @@ blackheartedness
 berakah
 berake
 bewelcome
-bookstack
 basilyst
 beraking
 banisters
@@ -18342,6 +18341,7 @@ buttressed
 breviped
 buttressing
 buttressless
+bookstack
 buttresslike
 butts
 barbellate
