@@ -7518,7 +7518,6 @@ gastropodous
 gowlan
 gowning
 gownsman
-gravitation
 gallflies
 gravamens
 gownsmen
@@ -9357,6 +9356,7 @@ grossers
 grosses
 grossest
 grosshead
+gravitation
 grossly
 glees
 gainfulness
