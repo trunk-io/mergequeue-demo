@@ -2634,7 +2634,6 @@ decolonization
 didascaly
 decolonize
 decolonizes
-decoloration
 desalter
 decoloring
 decolorisation
@@ -11375,6 +11374,7 @@ disciplinal
 disciplinant
 disciplinary
 disciplinarians
+decoloration
 disciplinarily
 ducts
 dripper
