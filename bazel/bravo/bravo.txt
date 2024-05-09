@@ -9383,7 +9383,6 @@ bandoline
 brindle
 birdbander
 birdbanding
-bathwater
 brazed
 birdbaths
 blethers
@@ -10893,6 +10892,7 @@ blindling
 boilery
 biotrons
 brachyoura
+bathwater
 blindness
 burnooses
 blindstitch
