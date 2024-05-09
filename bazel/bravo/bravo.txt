@@ -6547,7 +6547,6 @@ bepale
 bepaper
 beparch
 blickey
-bepart
 bepaste
 broached
 bletted
@@ -6569,6 +6568,7 @@ bellyflaught
 bepierce
 bepile
 blobbiness
+bepart
 bruisewort
 beacher
 bepill
