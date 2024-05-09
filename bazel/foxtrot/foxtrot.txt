@@ -129,7 +129,6 @@ facilities
 facings
 fenmen
 francophile
-foldable
 functionally
 facioplegia
 facit
@@ -1009,6 +1008,7 @@ farewell
 fearfuller
 foreshortens
 fuchsin
+foldable
 farfal
 farfel
 flyaway
