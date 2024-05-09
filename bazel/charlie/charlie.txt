@@ -4776,7 +4776,6 @@ carpompi
 carpool
 craning
 carpopedal
-carpophagous
 carpophalangeal
 carpophyl
 cressier
@@ -22387,6 +22386,7 @@ congruously
 congruousness
 congustable
 carpitis
+carpophagous
 carrots
 contradicted
 coni
