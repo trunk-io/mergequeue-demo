@@ -158,7 +158,6 @@ gadwall
 gadwalls
 gae
 glottalization
-gaedelian
 gael
 girth
 gaelic
@@ -2838,6 +2837,7 @@ genoas
 glossological
 gliadins
 guillotine
+gaedelian
 grooms
 genoese
 genoise

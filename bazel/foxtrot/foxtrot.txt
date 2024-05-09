@@ -5836,7 +5836,6 @@ freeloader
 floccose
 fluvanna
 flaggers
-floccosely
 failsoft
 fangas
 fossick
@@ -6893,6 +6892,7 @@ footman
 freedom
 folkmoot
 flyboy
+floccosely
 feudovassalism
 foreignization
 folkmoots
