@@ -16347,7 +16347,6 @@ clypeiform
 clypeola
 clypeolar
 clypeolate
-clypeole
 clypeus
 collapsible
 clippable
@@ -18517,6 +18516,7 @@ ceromez
 contingents
 chebulinic
 considerateness
+clypeole
 coyer
 coyest
 coif
