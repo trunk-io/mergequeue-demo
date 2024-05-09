@@ -3098,7 +3098,6 @@ glosses
 gallinacei
 glassed
 gurgle
-geomaly
 geomancer
 geomancy
 garnered
@@ -5018,6 +5017,7 @@ gardebras
 glairy
 gasometrically
 gedeckt
+geomaly
 glairier
 guardingly
 glairin
