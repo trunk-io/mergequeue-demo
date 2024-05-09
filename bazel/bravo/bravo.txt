@@ -8979,7 +8979,6 @@ biocoenoses
 biocoenotic
 biodegradability
 biodegradable
-biodegradation
 becassocked
 biodegrade
 beleap
@@ -18203,6 +18202,7 @@ butlerdom
 butleress
 blastopore
 betrothal
+biodegradation
 bacteriologically
 bricky
 balneary
