@@ -4533,7 +4533,6 @@ giornata
 gip
 gype
 gipon
-ghoul
 gaetulan
 gunlayer
 gipped
@@ -4610,6 +4609,7 @@ gills
 garlicky
 gyral
 getter
+ghoul
 ghetti
 gurrah
 gigantine
