@@ -4531,6 +4531,7 @@ encephalospinal
 externize
 encephalothlipsis
 encephalotome
+etheostoma
 encephalotomy
 edomite
 ethics
@@ -10187,7 +10188,6 @@ ethenic
 ethenyl
 ethenoid
 ethenol
-etheostoma
 ensorcelize
 exploitation
 erythromelalgia
