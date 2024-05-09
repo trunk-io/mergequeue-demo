@@ -11101,7 +11101,6 @@ disassemble
 dourade
 disassembled
 disassembler
-disassembles
 descriptors
 disassembling
 disassent
@@ -16442,6 +16441,7 @@ dignifies
 dpt
 dr
 draba
+disassembles
 drabant
 drabbed
 drabber
