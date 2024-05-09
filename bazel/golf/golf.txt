@@ -7608,6 +7608,7 @@ gleary
 grader
 gradgrind
 gud
+grubstake
 gradient
 gymnasiarch
 gamopetalae
@@ -10262,7 +10263,6 @@ gry
 gratifies
 guise
 guitar
-grubstake
 grubhood
 guitarist
 guitarists
