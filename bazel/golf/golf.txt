@@ -5986,7 +5986,6 @@ gunsling
 glucokinase
 gliocyte
 glucokinin
-gaseous
 gravimetric
 glucolipid
 glucolipin
@@ -8325,6 +8324,7 @@ gratifier
 glenlivet
 grallatores
 gruffish
+gaseous
 gadabout
 granddads
 gratifying
