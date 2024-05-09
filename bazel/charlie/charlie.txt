@@ -15483,6 +15483,7 @@ clansfolk
 clanship
 clansman
 clansmen
+consuetudinary
 clanswoman
 cyprinodontidae
 crenelated
@@ -23252,7 +23253,6 @@ culmen
 consubstantive
 consuetude
 consuetudinal
-consuetudinary
 consul
 consulage
 chirurgical
