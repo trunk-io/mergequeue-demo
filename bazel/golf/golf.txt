@@ -5391,7 +5391,6 @@ glycogenize
 glycogenolytic
 gingals
 glycogens
-glycohaemia
 guttulous
 glycol
 glycolaldehyde
@@ -6406,6 +6405,7 @@ gunite
 glucosulfone
 griddler
 gasteralgia
+glycohaemia
 goblinesque
 griffins
 goblinish
