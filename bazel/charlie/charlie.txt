@@ -8302,6 +8302,7 @@ cheekpiece
 chakavski
 chakdar
 cymbling
+cli
 chakobu
 chakram
 chaksi
@@ -16103,7 +16104,6 @@ clewed
 clewgarnet
 clewing
 clews
-cli
 cly
 cliack
 clianthus
