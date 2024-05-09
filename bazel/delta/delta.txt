@@ -2986,7 +2986,6 @@ darking
 diegesis
 diplasiasmus
 dedolomitizing
-deduce
 deducement
 deduces
 deducibility
@@ -3656,6 +3655,7 @@ deglut
 disarrangement
 deglutinate
 deglutinated
+deduce
 deglutinating
 dermatoplasty
 defoliant
