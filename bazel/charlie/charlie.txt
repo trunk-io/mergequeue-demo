@@ -13049,6 +13049,7 @@ cyanhydric
 cyanhydrin
 cyanic
 cyanicide
+comprehends
 cyanid
 collects
 cyanide
@@ -28932,7 +28933,6 @@ cribriform
 cribriformity
 categorem
 cribs
-comprehends
 cribworks
 convocated
 cricetidae
