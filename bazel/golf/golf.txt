@@ -6733,7 +6733,6 @@ geod
 genapper
 gedd
 gunsman
-goneril
 goners
 gonesome
 gonfalcon
@@ -10571,6 +10570,7 @@ guest
 grossierete
 guns
 gunsel
+goneril
 glutaminase
 golp
 gimmickry
