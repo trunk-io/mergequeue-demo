@@ -7550,7 +7550,6 @@ ceratoblast
 ceratobranchial
 ceratocystis
 ceratodidae
-ctenidia
 ceratodontidae
 ceratodus
 ceratoduses
@@ -10846,6 +10845,7 @@ chinker
 chinkerinchee
 chinkers
 chinky
+ctenidia
 chinkier
 chinkiest
 chinks
