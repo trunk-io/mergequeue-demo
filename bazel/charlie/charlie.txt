@@ -2644,6 +2644,7 @@ cankerweed
 cankerwort
 canli
 coff
+combinatorics
 canmaker
 climbs
 canman
@@ -29292,7 +29293,6 @@ cryptogrammatic
 cryptogrammatical
 cryptogrammatist
 concelebrated
-combinatorics
 cryptogrammic
 craggedly
 cryptograms

@@ -1068,7 +1068,6 @@ exposedness
 embalmment
 enshrouded
 embryonically
-edgewise
 edgy
 edgiest
 emmetropia
@@ -6536,6 +6535,7 @@ entelechies
 entelodon
 entelodont
 entender
+edgewise
 erzahler
 entendre
 enchant
