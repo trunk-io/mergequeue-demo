@@ -1906,6 +1906,7 @@ gonimolobe
 gastrothecal
 gastrotome
 gastrotomic
+greensand
 gastrotubotomy
 gastrovascular
 gamecocks
@@ -10141,7 +10142,6 @@ guianan
 guyandot
 guidable
 guidance
-greensand
 git
 gelid
 guide

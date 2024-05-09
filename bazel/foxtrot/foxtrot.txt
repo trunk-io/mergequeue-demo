@@ -760,7 +760,6 @@ fanciless
 fancymonger
 fanciness
 fancysick
-fancywork
 flashet
 fickly
 fixures
@@ -1136,6 +1135,7 @@ farthest
 familiarizing
 farthing
 fluffing
+fancywork
 flexibleness
 fulah
 funiculitis
