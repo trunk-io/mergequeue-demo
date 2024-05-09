@@ -2716,6 +2716,7 @@ dattos
 dollish
 deconsecration
 deconsider
+determinoid
 deconsideration
 decontaminated
 decontaminates
@@ -16181,7 +16182,6 @@ dowcet
 dissour
 dowcote
 dowdy
-determinoid
 distent
 dowdier
 dowdyish
