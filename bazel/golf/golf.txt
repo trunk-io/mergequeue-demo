@@ -3218,7 +3218,6 @@ gurgles
 georgics
 gnast
 geoscience
-grenade
 gangsters
 geoscientist
 geoscientists
@@ -5310,6 +5309,7 @@ golgi
 guardsman
 gendered
 galbanum
+grenade
 glenlike
 glomerulus
 glenohumeral
