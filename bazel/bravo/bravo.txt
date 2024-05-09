@@ -1017,7 +1017,6 @@ brigand
 bayano
 bewitch
 bayardly
-bayberries
 bucktails
 baybolt
 baycuru
@@ -8909,6 +8908,7 @@ balsamiferous
 binomenclature
 binomy
 binomialism
+bayberries
 binomially
 binomials
 binominal
