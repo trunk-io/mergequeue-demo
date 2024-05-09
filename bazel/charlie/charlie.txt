@@ -3148,7 +3148,6 @@ capewise
 capework
 capeworks
 capful
-capfuls
 caphar
 corsaint
 capharnaism
@@ -23587,6 +23586,7 @@ continuities
 choeropsis
 cribbages
 cassiaceae
+capfuls
 continuos
 continuously
 continuousness
