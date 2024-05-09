@@ -7355,7 +7355,6 @@ chimera
 centurions
 captious
 centurist
-ceonocyte
 coroners
 ceorl
 ceorls
@@ -15499,6 +15498,7 @@ clapdish
 clape
 cripply
 clapholt
+ceonocyte
 clapmatch
 clapnest
 clapnet
