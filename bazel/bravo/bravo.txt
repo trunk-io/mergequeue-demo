@@ -358,6 +358,7 @@ borgh
 backfurrow
 birdlimed
 backgame
+bepuzzle
 beamlet
 backgammon
 barbarical
@@ -6598,7 +6599,6 @@ bepuddle
 bedirt
 bepuffed
 brontephobia
-bepuzzle
 besnuff
 brandi
 bungaloid
