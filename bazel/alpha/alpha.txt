@@ -2165,7 +2165,6 @@ acharnement
 anaspid
 achate
 achatina
-achatinella
 achatinidae
 afterripening
 act
@@ -11842,6 +11841,7 @@ adventurer
 anammonide
 anamneses
 anamnestic
+achatinella
 anamnestically
 anserinae
 anamniata
