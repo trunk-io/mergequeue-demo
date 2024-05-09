@@ -1224,7 +1224,6 @@ calender
 calendered
 chiule
 calenderer
-curvilinearly
 cheeping
 calendering
 calenders
@@ -20613,6 +20612,7 @@ challengee
 competitrix
 compilable
 compilation
+curvilinearly
 compilations
 compilator
 compileable
