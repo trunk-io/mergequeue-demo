@@ -9858,6 +9858,7 @@ chelonian
 cheloniid
 cheloniidae
 crucialness
+cunit
 chemehuevi
 chemesthesis
 chemiatric
@@ -31051,7 +31052,6 @@ cuniforms
 cunila
 characterizable
 cunili
-cunit
 cunjer
 cunners
 crystalliferous
