@@ -2872,7 +2872,6 @@ bowle
 bombproof
 bosun
 barramunda
-balk
 barramundies
 beneficency
 broadcasts
@@ -5272,6 +5271,7 @@ begetter
 begetters
 broth
 bandagist
+balk
 beggared
 beggaress
 beggarhood
