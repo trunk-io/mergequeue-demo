@@ -6801,6 +6801,7 @@ desitive
 desize
 deskbound
 deskill
+decompositional
 desklike
 deskman
 desks
@@ -16611,7 +16612,6 @@ deprecated
 dragonhood
 dissimulator
 downily
-decompositional
 disbelievingly
 dosadh
 dragonish
