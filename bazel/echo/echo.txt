@@ -4354,7 +4354,6 @@ esoenteritis
 egomaniac
 embrasure
 enantiomer
-enantiomeric
 eeyuck
 enantiomorph
 enantiomorphy
@@ -6629,6 +6628,7 @@ enterography
 encompasser
 enterohemorrhage
 estatesman
+enantiomeric
 enterohydrocele
 escarped
 emanative
