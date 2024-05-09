@@ -5389,7 +5389,6 @@ glycyrrhiza
 gipsyry
 glycyrrhizin
 glycogelatin
-glycogen
 galactogogue
 glycogeny
 glycogenize
@@ -5909,6 +5908,7 @@ goniometer
 gloucester
 greyfly
 glout
+glycogen
 guardians
 geometricist
 goiter
