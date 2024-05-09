@@ -16661,7 +16661,6 @@ closefistedness
 closefitting
 colleagueship
 closehanded
-closehauled
 cardiodysesthesia
 closemouth
 contratempo
@@ -24340,6 +24339,7 @@ cool
 coolaman
 coolamon
 cooled
+closehauled
 cooley
 coolen
 cooler
