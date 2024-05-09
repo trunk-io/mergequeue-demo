@@ -1507,6 +1507,7 @@ accidentalism
 accidentality
 accidented
 accidential
+awakings
 accidentiality
 accidently
 accinge
@@ -4715,7 +4716,6 @@ advisors
 advitant
 antipill
 advocacy
-awakings
 anahao
 advocacies
 alchemist
