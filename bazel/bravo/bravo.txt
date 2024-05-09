@@ -4412,7 +4412,6 @@ boisseaux
 bonehead
 becalm
 becalming
-becalmment
 becap
 blacklead
 brassylic
@@ -9227,6 +9226,7 @@ biotechnologically
 bathysmal
 bowl
 botanists
+becalmment
 behaves
 biotelemetries
 biotical
