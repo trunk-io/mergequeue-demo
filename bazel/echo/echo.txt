@@ -5615,6 +5615,7 @@ estrangle
 enfoulder
 enfrai
 enframe
+expressness
 enframed
 enfranch
 ethnarch
@@ -13374,7 +13375,6 @@ expressiveness
 etherization
 expressly
 expressmen
-expressness
 expresso
 expressure
 exaltative
