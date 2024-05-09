@@ -16930,6 +16930,7 @@ cohere
 clumplike
 clumproot
 clumps
+curst
 clumpst
 clumse
 clumsy
@@ -31506,7 +31507,6 @@ cursoriness
 cursorious
 cursorius
 cursors
-curst
 curstful
 curstfully
 curstness
