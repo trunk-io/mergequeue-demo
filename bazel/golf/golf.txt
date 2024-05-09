@@ -124,7 +124,6 @@ gadgetry
 gadgetries
 gadid
 generals
-girosol
 gaditan
 glut
 garrot
@@ -8519,6 +8518,7 @@ grazings
 genets
 grazioso
 gullied
+girosol
 gnathobdellae
 gre
 goslarite
