@@ -1349,7 +1349,6 @@ enantiomorphous
 effervescency
 endoskeletal
 exomis
-effervescent
 ebcdic
 effervesces
 evenglow
@@ -8913,6 +8912,7 @@ ergastoplasm
 enticement
 ergastulum
 ethologically
+effervescent
 enucleating
 ergatandry
 ergatandrous
