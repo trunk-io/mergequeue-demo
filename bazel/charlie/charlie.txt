@@ -2028,6 +2028,7 @@ campanella
 campanero
 campania
 cecils
+comdg
 campaniform
 campanile
 campaniles
@@ -19771,7 +19772,6 @@ combustor
 combusts
 combwise
 catapulting
-comdg
 comdia
 comdr
 come
