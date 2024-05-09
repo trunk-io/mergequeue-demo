@@ -4406,7 +4406,6 @@ encages
 encalendar
 encamping
 encampment
-encampments
 encamps
 endoparasite
 encanker
@@ -5746,6 +5745,7 @@ exosmic
 entrail
 engloom
 englut
+encampments
 engluts
 etagere
 englutted
