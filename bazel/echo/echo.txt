@@ -2425,7 +2425,6 @@ electrogram
 eleve
 electrography
 eudyptes
-electrographite
 encephalosepsis
 elytrtra
 electrograving
@@ -11266,6 +11265,7 @@ evan
 evanesced
 evanescence
 educabilian
+electrographite
 evanescenrly
 engrieve
 erectility
