@@ -3020,7 +3020,6 @@ fgrid
 floorshift
 fy
 fiacres
-februaries
 fetichry
 fiance
 fiancees
@@ -6550,6 +6549,7 @@ flutteriness
 flagrate
 fluttering
 favn
+februaries
 flutteringly
 flutterless
 flutterment
