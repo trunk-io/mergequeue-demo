@@ -531,7 +531,6 @@ butomaceous
 backstroke
 backstrokes
 backstromite
-backsword
 backswording
 bettergates
 backswordman
@@ -1526,6 +1525,7 @@ ballastage
 bulbiform
 blanchi
 bouton
+backsword
 butomus
 ballaster
 ballastic
