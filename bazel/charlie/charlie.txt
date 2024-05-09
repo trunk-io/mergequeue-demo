@@ -1644,7 +1644,6 @@ calorist
 calorite
 calorize
 calorized
-calorizer
 calorizes
 calorizing
 calosoma
@@ -31697,6 +31696,7 @@ cussos
 cusswords
 cust
 cynips
+calorizer
 custard
 custerite
 custodee

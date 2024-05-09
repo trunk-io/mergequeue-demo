@@ -5735,6 +5735,7 @@ gearings
 gastralgic
 gars
 garlicwort
+groma
 glochidium
 glooms
 gloomth
@@ -10284,7 +10285,6 @@ guytrash
 guittonian
 guywire
 getsul
-groma
 geckos
 goralog
 gummers
