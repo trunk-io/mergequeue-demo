@@ -23673,7 +23673,6 @@ contractedness
 contracter
 contractibility
 carbolise
-contractibleness
 contractibly
 cattlegate
 contractility
@@ -29475,6 +29474,7 @@ courtrooms
 crystallogenical
 crystallogy
 confliction
+contractibleness
 crystallogram
 crystallograph
 crystallographers
