@@ -1808,7 +1808,6 @@ camauros
 camaxtli
 camb
 clabularia
-cambaye
 camball
 cambalo
 cambarus
@@ -5178,6 +5177,7 @@ cashbooks
 cashbox
 cashboxes
 chromophor
+cambaye
 cashcuttee
 casheen
 cashel
