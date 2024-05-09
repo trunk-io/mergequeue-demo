@@ -5830,7 +5830,6 @@ garbleable
 glossless
 glossocele
 graian
-glossaries
 glossocomium
 glossocomon
 gonotheca
@@ -9682,6 +9681,7 @@ greyhounds
 guards
 grumly
 gemmule
+glossaries
 guying
 grummels
 grummest
