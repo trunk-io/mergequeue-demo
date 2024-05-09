@@ -11992,7 +11992,6 @@ chorei
 choreic
 choreiform
 choreman
-choremen
 choreodrama
 choreographed
 choreographer
@@ -22847,6 +22846,7 @@ consequentialities
 chilenite
 consequentialness
 consequently
+choremen
 consequents
 cognateness
 consertal
