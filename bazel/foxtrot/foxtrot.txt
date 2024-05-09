@@ -3409,7 +3409,6 @@ fluidised
 fifish
 fossiled
 frothless
-fifo
 fifteener
 fifteenfold
 fifteens
@@ -4556,6 +4555,7 @@ flannelmouths
 ferromagnesian
 fittier
 fluorate
+fifo
 flexuosely
 fringillidae
 frap
