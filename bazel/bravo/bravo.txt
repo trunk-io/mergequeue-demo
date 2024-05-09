@@ -11363,7 +11363,6 @@ boathouses
 bluecurls
 blued
 bluefin
-bertin
 bluefins
 bluegill
 blenched
@@ -16370,6 +16369,7 @@ bruscha
 brushable
 brushback
 brushbird
+bertin
 basilar
 bestick
 braker
