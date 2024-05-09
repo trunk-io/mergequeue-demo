@@ -3057,7 +3057,6 @@ capaciously
 cannibalic
 capaciousness
 capacitance
-capacitances
 capacitate
 cofounder
 cooperators
@@ -7957,6 +7956,7 @@ cespitose
 cespitosely
 cespitulose
 cess
+capacitances
 cessant
 cessantly
 cessation
