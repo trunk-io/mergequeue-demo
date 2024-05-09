@@ -4675,7 +4675,6 @@ digitigrade
 demiowl
 demiox
 dharmasmriti
-disjunction
 demipagan
 demiparallel
 decodings
@@ -9569,6 +9568,7 @@ digredience
 digrediency
 digredient
 decenaries
+disjunction
 digressed
 doctordom
 dottily
