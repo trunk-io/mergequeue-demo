@@ -7359,7 +7359,6 @@ centuriate
 centuriator
 centuried
 centuries
-centurion
 chimera
 centurions
 captious
@@ -13298,6 +13297,7 @@ cichlidae
 cichlids
 cichoriaceae
 cichoriaceous
+centurion
 capitulating
 cichorium
 cicindelidae
