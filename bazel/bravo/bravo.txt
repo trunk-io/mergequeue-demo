@@ -170,6 +170,7 @@ baccara
 baroques
 bdrm
 baccaras
+bedlam
 biased
 burion
 bedin
@@ -4749,7 +4750,6 @@ beekmantown
 bedizenment
 bedizens
 bedkey
-bedlam
 bourses
 bedlamer
 booked
