@@ -844,7 +844,6 @@ despoticly
 danite
 danization
 deteriorator
-declinometer
 danize
 duralumin
 dank
@@ -2812,6 +2811,7 @@ deeplier
 decreeing
 decreer
 decreet
+declinometer
 desmogen
 dop
 deflocculator
