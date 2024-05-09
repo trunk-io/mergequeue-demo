@@ -1767,7 +1767,6 @@ dobroes
 debarking
 discede
 debarkment
-debarks
 debarment
 debarrance
 debarration
@@ -12252,6 +12251,7 @@ disgracer
 defrocking
 disgraces
 disgracia
+debarks
 disgracing
 distract
 disgracious
