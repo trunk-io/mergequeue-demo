@@ -8598,6 +8598,7 @@ galerus
 grecoue
 gyarung
 grecque
+gnu
 groff
 gree
 glean
@@ -9079,7 +9080,6 @@ grandly
 grip
 genie
 grandest
-gnu
 gradins
 gripey
 gramicidin
