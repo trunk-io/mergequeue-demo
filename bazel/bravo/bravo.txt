@@ -4021,7 +4021,6 @@ bouldery
 beacons
 beaded
 beadeye
-beadeyes
 beader
 beadhouse
 beady
@@ -18031,6 +18030,7 @@ busyish
 busily
 busine
 businesses
+beadeyes
 busynesses
 bowled
 businessese

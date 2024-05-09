@@ -13145,6 +13145,7 @@ anim
 anima
 animability
 animable
+archaeopteris
 animacule
 animadversal
 animadversional
@@ -18721,7 +18722,6 @@ archaeological
 archaeologist
 archaeomagnetism
 archaeopterygiformes
-archaeopteris
 archaeopteryx
 archaeornis
 altincar
