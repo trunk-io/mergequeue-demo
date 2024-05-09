@@ -12792,7 +12792,6 @@ angiomas
 angiomata
 angiomatosis
 angiomyocardiac
-angiomyoma
 anoestrous
 angiomyosarcoma
 angioneoplasm
@@ -25136,6 +25135,7 @@ axiomatization
 aprioristic
 axiomatizations
 axiomatize
+angiomyoma
 antiduke
 axiomatized
 axiomatizes
