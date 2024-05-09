@@ -8842,6 +8842,7 @@ binaural
 bind
 bardane
 binderies
+biddie
 banjos
 bulliest
 binding
@@ -16975,7 +16976,6 @@ bukeyef
 bukh
 bribe
 bukshee
-biddie
 bul
 brittler
 bullets
