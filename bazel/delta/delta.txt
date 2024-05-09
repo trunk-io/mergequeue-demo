@@ -1513,7 +1513,6 @@ deactivating
 deactivation
 deactivations
 deactivators
-defrosts
 distressedness
 doublure
 deadcenter
@@ -7429,6 +7428,7 @@ detruck
 detrude
 darbha
 detruded
+defrosts
 dich
 detrudes
 distalia
