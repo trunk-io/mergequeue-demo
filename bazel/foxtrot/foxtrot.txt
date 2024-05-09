@@ -1390,7 +1390,6 @@ fathomed
 fathomer
 flatlanders
 fbi
-fathometer
 fellani
 farmhold
 fulfulde
@@ -1714,6 +1713,7 @@ fearlessness
 fearful
 fumatorium
 fifteenthly
+fathometer
 frypan
 faucets
 fieldmice
