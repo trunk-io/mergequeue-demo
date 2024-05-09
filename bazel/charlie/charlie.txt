@@ -2337,7 +2337,6 @@ cancelation
 canceled
 canceleer
 canceler
-continuist
 cancelers
 cancelier
 collaborated
@@ -29483,6 +29482,7 @@ crystalloluminescence
 crystallomagnetic
 crystallomancy
 crystallometry
+continuist
 crystallometric
 crystallose
 cryptozonia
