@@ -2173,7 +2173,6 @@ fishfall
 freemasons
 fellowheirship
 fellowing
-fellowman
 fellowmen
 famously
 focoids
@@ -2424,6 +2423,7 @@ fooleries
 fakes
 ferganite
 futurism
+fellowman
 fergus
 featural
 ferguson
