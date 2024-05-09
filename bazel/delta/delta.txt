@@ -8883,7 +8883,6 @@ dicebox
 dicecup
 debituminize
 diced
-dicey
 diceman
 dicentras
 dicephalous
@@ -16738,6 +16737,7 @@ drypoint
 disadvised
 drammocks
 dehumanized
+dicey
 drams
 debellate
 desalt
