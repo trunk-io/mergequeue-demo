@@ -23755,7 +23755,6 @@ contrapositives
 contrapposto
 contrappostos
 contraproposal
-contraprops
 contraprovectant
 contraption
 countersubject
@@ -24518,6 +24517,7 @@ copatron
 copatroness
 capetonian
 cathectic
+contraprops
 crankum
 contraflow
 copatrons
