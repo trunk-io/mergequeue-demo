@@ -548,7 +548,6 @@ echinochrome
 echinococcosis
 echinococcus
 echinoderidae
-echinoderm
 echinoderma
 echinodermal
 erythroderma
@@ -4630,6 +4629,7 @@ enchondrosis
 etiotropically
 expansivity
 enchorial
+echinoderm
 exdelicto
 edginesses
 enchoric
