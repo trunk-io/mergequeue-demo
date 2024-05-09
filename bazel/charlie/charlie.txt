@@ -5784,6 +5784,7 @@ category
 categorial
 categoric
 chondrified
+cessionary
 categorical
 categorically
 categoricalness
@@ -7965,7 +7966,6 @@ cessio
 cession
 cessionaire
 castaway
-cessionary
 cessionee
 cessment
 cessor
