@@ -1068,6 +1068,7 @@ bailiffs
 ballow
 bailiffwick
 bailing
+busway
 bailiwick
 beaconed
 bridler
@@ -14392,7 +14393,6 @@ boatyards
 brakie
 brakiest
 braking
-busway
 bramantip
 bramble
 brambleberry
