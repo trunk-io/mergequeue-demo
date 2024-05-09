@@ -14967,7 +14967,6 @@ cytogenic
 cytogenies
 cytogenous
 cytoglobin
-cytoglobulin
 cytohyaloplasm
 concitizen
 cytoid
@@ -31874,6 +31873,7 @@ calamitous
 cuttlefishes
 cuttler
 campanilla
+cytoglobulin
 cuttles
 cuttling
 cuttoo
