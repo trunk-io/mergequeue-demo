@@ -4452,6 +4452,7 @@ decollation
 demasculinisation
 demasculinise
 demasculinised
+distream
 demasculinising
 demasculinization
 deflagrate
@@ -13959,7 +13960,6 @@ door
 distraught
 distraughtly
 draggy
-distream
 details
 distress
 distressed
