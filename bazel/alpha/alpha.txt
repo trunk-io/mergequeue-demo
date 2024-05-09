@@ -8830,7 +8830,6 @@ allobaric
 ammonolyses
 allobroges
 allobrogical
-allocability
 allocatable
 allocate
 allocatee
@@ -25289,6 +25288,7 @@ azocyclic
 alfonso
 agrarians
 azodicarboxylic
+allocability
 azodiphenyl
 azoerythrin
 antithermin
