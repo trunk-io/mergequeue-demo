@@ -5781,7 +5781,6 @@ categorial
 categoric
 chondrified
 cessionary
-categorical
 categorically
 categoricalness
 categories
@@ -8639,6 +8638,7 @@ chanceably
 clow
 chanced
 certifiably
+categorical
 chanceful
 chancefulness
 chancey
