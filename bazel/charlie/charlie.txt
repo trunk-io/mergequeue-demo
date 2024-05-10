@@ -6266,7 +6266,6 @@ caulomic
 caulophyllum
 caulopteris
 caulosarc
-caulotaxy
 caulotaxis
 caulote
 cauls
@@ -8369,6 +8368,7 @@ chalcophanite
 chalcopyrite
 chalcosiderite
 chalcosine
+caulotaxy
 crocodilite
 canadianisms
 chalcotrichite
