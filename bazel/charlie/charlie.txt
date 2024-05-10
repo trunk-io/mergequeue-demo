@@ -11050,7 +11050,6 @@ chirospasm
 chirotes
 chirotherian
 chirotherium
-chirotype
 corrals
 crocodilia
 counterinsurgencies
@@ -15811,6 +15810,7 @@ clavicotomy
 clavicular
 clavicularium
 claviculate
+chirotype
 claviculus
 clavier
 clavierist
