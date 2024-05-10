@@ -6753,7 +6753,6 @@ guttler
 grint
 gobmouthed
 goniatitic
-goniatitid
 gravest
 goosey
 guid
@@ -7884,6 +7883,7 @@ gemshorn
 grasslike
 grandfathers
 grandfer
+goniatitid
 gudge
 getups
 garment
