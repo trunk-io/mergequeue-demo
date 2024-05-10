@@ -365,7 +365,6 @@ backgammon
 barbarical
 background
 backhand
-backhanded
 backhandedly
 brogueneer
 backhandedness
@@ -4623,6 +4622,7 @@ borborus
 bedaubing
 bedaubs
 bedlike
+backhanded
 bedawee
 bedazed
 bedazement
