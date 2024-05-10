@@ -9314,7 +9314,6 @@ chatelet
 chatellany
 chathamites
 chatoyance
-chatoyancy
 chatoyant
 commise
 chaton
@@ -28877,6 +28876,7 @@ crevalle
 crevass
 collogue
 crevasse
+chatoyancy
 coney
 circumarctic
 crevassed
