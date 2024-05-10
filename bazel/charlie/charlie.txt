@@ -20376,7 +20376,6 @@ commutableness
 commutant
 commutate
 commutated
-checkouts
 commutation
 commutative
 commutatively
@@ -27810,6 +27809,7 @@ chondrogeny
 coxite
 coxitis
 crocin
+checkouts
 coxoceritic
 coupee
 coxopodite
