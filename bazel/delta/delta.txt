@@ -7458,7 +7458,6 @@ deurwaarder
 diarrheic
 destroyable
 diomedea
-dottiness
 disentwine
 discriminably
 deusan
@@ -16508,6 +16507,7 @@ dearworth
 diallagoid
 dradge
 dilutions
+dottiness
 dumpfile
 draegermen
 deoxidator
