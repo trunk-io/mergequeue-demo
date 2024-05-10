@@ -4666,7 +4666,6 @@ bebannered
 bedecking
 bewormed
 bedecks
-bangboard
 bankfull
 bedeguar
 bedehouse
@@ -17408,6 +17407,7 @@ boardmen
 bundler
 bundlerooted
 bundlers
+bangboard
 bundles
 bundlet
 bundlings
