@@ -5144,7 +5144,6 @@ aerotactic
 aerotaxis
 argo
 aerotechnical
-aerotechnics
 aerotherapeutics
 aerotherapy
 amreetas
@@ -10799,6 +10798,7 @@ ammoniticone
 abstrude
 ammonitiferous
 ammonitoid
+aerotechnics
 ammonitoidea
 ammocoetiform
 algedi
