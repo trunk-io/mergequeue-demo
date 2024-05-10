@@ -5086,7 +5086,6 @@ broider
 befathered
 bemas
 befavor
-befavour
 biglenoid
 bewith
 befeather
@@ -17057,6 +17056,7 @@ bulkin
 barbeyaceae
 bitterweed
 bulkiness
+befavour
 backstroking
 beachlamar
 brickset
