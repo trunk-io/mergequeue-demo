@@ -14326,7 +14326,6 @@ compose
 circumambulator
 circumanal
 circumantarctic
-circumarctic
 circumarticular
 confluence
 circumaviate
@@ -28875,6 +28874,7 @@ crevass
 collogue
 crevasse
 coney
+circumarctic
 crevassed
 crevasses
 cytostome
