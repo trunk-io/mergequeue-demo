@@ -15860,7 +15860,6 @@ dustrag
 doruck
 dos
 dosa
-dosage
 dosain
 dose
 dosed
@@ -17955,6 +17954,7 @@ diathermancy
 displeasurement
 dufrenoysite
 dufter
+dosage
 dufterdar
 duftite
 dialoguer
