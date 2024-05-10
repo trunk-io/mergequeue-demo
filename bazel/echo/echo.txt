@@ -2331,7 +2331,6 @@ earthless
 endeavor
 equivoke
 electrocratic
-electroculture
 electrocute
 egregious
 electrocuted
@@ -13294,6 +13293,7 @@ eclipsable
 enlength
 entireties
 exporting
+electroculture
 exports
 effectuate
 easier
