@@ -3325,6 +3325,7 @@ counterweighing
 capot
 capotasto
 capotastos
+celsius
 conformity
 capote
 chondroganoidei
@@ -6900,7 +6901,6 @@ celotomies
 clonks
 celsia
 celsian
-celsius
 celt
 comnenian
 celtiberi
