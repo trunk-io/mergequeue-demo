@@ -1636,6 +1636,7 @@ egressed
 egresses
 estadal
 exiler
+eminency
 egret
 egritude
 elohimic
@@ -6839,7 +6840,6 @@ enl
 elastic
 exculpated
 entombing
-eminency
 entombs
 elia
 entomere
