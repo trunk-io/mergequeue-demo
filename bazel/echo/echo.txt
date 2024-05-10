@@ -7105,6 +7105,7 @@ enverdure
 edicts
 expansometer
 enemy
+epiplexis
 ergotamine
 enviers
 explants
@@ -8083,7 +8084,6 @@ extraconstitutional
 epithalamy
 epiplasmic
 epiplectic
-epiplexis
 epiploce
 epiplocele
 evanished
