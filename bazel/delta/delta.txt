@@ -3455,7 +3455,6 @@ duendes
 defloration
 deflorations
 deflore
-deflorescence
 dropforged
 dubash
 disgarland
@@ -10119,6 +10118,7 @@ demihigh
 dingey
 dingeing
 deterging
+deflorescence
 defilade
 dinghee
 dinghies
