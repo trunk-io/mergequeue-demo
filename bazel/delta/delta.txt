@@ -6796,6 +6796,7 @@ deskbound
 deskill
 decompositional
 desklike
+dunks
 deskman
 desks
 deleted
@@ -18259,7 +18260,6 @@ dacker
 duckboards
 diseuse
 dunkled
-dunks
 dysprosium
 dunlap
 dunlins
