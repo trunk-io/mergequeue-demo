@@ -4213,7 +4213,6 @@ gonif
 generability
 glamours
 gentilities
-gymnasiums
 gymnastic
 gazon
 gittith
@@ -5647,6 +5646,7 @@ glossolabial
 gonidia
 gconvert
 glare
+gymnasiums
 genuflector
 globularia
 garance
