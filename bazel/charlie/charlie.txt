@@ -1668,7 +1668,6 @@ calpolli
 conformation
 counterfallacy
 calque
-calqued
 chambrel
 calques
 caseconv
@@ -9993,6 +9992,7 @@ clamlike
 chemotherapeutically
 chemotherapeutics
 chemotherapy
+calqued
 cherished
 chemotherapies
 chemotherapist
