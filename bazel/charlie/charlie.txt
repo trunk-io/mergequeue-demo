@@ -12435,6 +12435,7 @@ chromatype
 chromatism
 chromatist
 compares
+coulters
 competency
 chromatium
 chromatize
@@ -26633,7 +26634,6 @@ coulombs
 coulometer
 coulter
 coulterneb
-coulters
 coulthard
 coulure
 coumalic
