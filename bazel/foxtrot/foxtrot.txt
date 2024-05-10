@@ -7234,7 +7234,6 @@ finished
 floodproof
 flathe
 frighteningly
-footnote
 footnoted
 footpace
 footpaces
@@ -10311,6 +10310,7 @@ frogfoot
 froggier
 filite
 flunkyism
+footnote
 foresightless
 froggies
 folksier
