@@ -5389,7 +5389,6 @@ aspatia
 android
 affixion
 affixment
-ague
 affixture
 afflate
 anophthalmia
@@ -9035,6 +9034,7 @@ allots
 allotted
 acmic
 allottee
+ague
 allotter
 allottery
 achondrite
