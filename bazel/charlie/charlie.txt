@@ -8575,7 +8575,6 @@ confluently
 chamos
 chamosite
 chamotte
-champ
 champaca
 champacol
 champagne
@@ -17111,6 +17110,7 @@ coadjutement
 coemptional
 coadjutive
 chlore
+champ
 coadjutor
 coadjutors
 carduus
