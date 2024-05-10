@@ -6024,6 +6024,7 @@ catkin
 catkinate
 catkins
 catlap
+curatory
 catlike
 crowns
 catlin
@@ -31218,7 +31219,6 @@ cedared
 curativeness
 curatolatry
 curator
-curatory
 curatorial
 curatorium
 charkha
