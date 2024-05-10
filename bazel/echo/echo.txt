@@ -5531,7 +5531,6 @@ echidnae
 enfevering
 enfevers
 eyeline
-enfigure
 enfilade
 emolument
 enfilades
@@ -12892,6 +12891,7 @@ enserf
 enclasping
 electroneutrality
 enrough
+enfigure
 ergmeter
 engr
 epithymetic
