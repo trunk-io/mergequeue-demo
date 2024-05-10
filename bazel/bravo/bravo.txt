@@ -7297,7 +7297,6 @@ blackhander
 bestrew
 bearwoods
 bestrewed
-bestrewing
 bestrewment
 bestrewn
 basses
@@ -15968,6 +15967,7 @@ burny
 bronchotomy
 bronchostomy
 bronchostomies
+bestrewing
 bronchotyphus
 bronchotome
 bronchotracheal
