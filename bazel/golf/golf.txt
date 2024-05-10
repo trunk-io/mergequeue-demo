@@ -8328,7 +8328,6 @@ gaffe
 gawsie
 gratin
 gasproof
-gcd
 gratingly
 globing
 gratings
@@ -10522,6 +10521,7 @@ guelphic
 grasset
 gunmetal
 gurmukhi
+gcd
 gymnodont
 goffering
 gunmetals
