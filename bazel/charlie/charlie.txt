@@ -4248,6 +4248,7 @@ chromatometer
 careme
 carene
 carer
+chyometer
 carers
 cares
 caress
@@ -28386,7 +28387,6 @@ craze
 crazed
 crazedly
 crazes
-chyometer
 crazy
 crazycat
 crazier
