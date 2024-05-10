@@ -5399,7 +5399,6 @@ afflatuses
 algesireceptor
 afflicted
 antiegotist
-afflictedness
 afflicter
 afflicting
 arenas
@@ -18493,6 +18492,7 @@ aramitess
 araneae
 araneida
 araneidan
+afflictedness
 aficionado
 araneids
 araneina
