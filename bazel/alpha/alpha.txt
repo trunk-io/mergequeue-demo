@@ -6870,7 +6870,6 @@ alanyls
 airdropping
 airdrops
 aired
-airedale
 airedales
 airer
 airest
@@ -11220,6 +11219,7 @@ amphipoda
 amour
 amphipodal
 antiballistic
+airedale
 abp
 arloup
 avidious
