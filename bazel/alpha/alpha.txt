@@ -3021,7 +3021,6 @@ acrosticism
 acrostolia
 acrostolion
 acrostolium
-acrotarsium
 apneumatosis
 acroteleutic
 auxobody
@@ -16157,6 +16156,7 @@ adherence
 antiscientific
 antiscii
 antiscion
+acrotarsium
 antiscolic
 anemophilous
 antiscorbutical
