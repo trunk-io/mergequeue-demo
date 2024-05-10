@@ -6273,7 +6273,6 @@ agnathia
 agnate
 agnathic
 agnathostomata
-agnathous
 advenient
 agnatic
 agnatical
@@ -22079,6 +22078,7 @@ anaunter
 asterophyllite
 asterophyllites
 asterospondyli
+agnathous
 asterospondylic
 asteroxylaceae
 asteroxylon
