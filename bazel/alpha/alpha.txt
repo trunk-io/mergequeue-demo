@@ -10302,7 +10302,6 @@ amentiform
 aplodiorite
 aments
 amentulum
-amentum
 amenuse
 adeling
 amerce
@@ -12774,6 +12773,7 @@ angiohemophilia
 angiohypotonia
 anachronously
 angioid
+amentum
 angiokeratoma
 anthocerotales
 angioleucitis
