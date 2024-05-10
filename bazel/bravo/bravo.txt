@@ -9123,7 +9123,6 @@ biophagous
 biophilous
 biophysic
 branchstand
-biophysics
 biophysiography
 bindweb
 biophysiology
@@ -10561,6 +10560,7 @@ biostrome
 blatted
 buoying
 blattered
+biophysics
 boltheader
 bachelorship
 blattering
