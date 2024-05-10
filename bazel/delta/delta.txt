@@ -5126,6 +5126,7 @@ dendrochirota
 doubleprecision
 describing
 dendrochronology
+defeasibleness
 dendrochronologically
 dendrocygna
 dotty
@@ -6080,7 +6081,6 @@ dequeues
 dequeuing
 dropshots
 der
-defeasibleness
 derabbinize
 deboites
 deracinate
