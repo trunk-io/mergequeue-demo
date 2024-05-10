@@ -22570,7 +22570,6 @@ atheling
 abongo
 anthropoteleological
 athelings
-athenaeum
 athenaeums
 atheneum
 atheneums
@@ -25017,6 +25016,7 @@ alimentative
 acrocarpous
 astrometer
 awkly
+athenaeum
 awkward
 awkwarder
 awkwardish
