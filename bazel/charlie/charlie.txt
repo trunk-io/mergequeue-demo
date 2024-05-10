@@ -11565,7 +11565,6 @@ chokeberry
 certif
 chokeberries
 chokecherry
-chokecherries
 chokedamp
 chokey
 chokeys
@@ -16553,6 +16552,7 @@ cloghaun
 cloghead
 cloglike
 clogmaker
+chokecherries
 cosmos
 clogmaking
 clogwheel
