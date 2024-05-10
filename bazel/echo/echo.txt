@@ -2878,7 +2878,6 @@ elevons
 elf
 elfenfolk
 epinard
-elfic
 eponymous
 elfins
 elfinwood
@@ -13616,6 +13615,7 @@ exteriority
 epithalamiums
 exteriorize
 ejects
+elfic
 elucidators
 encomiendas
 exteriorized
