@@ -1432,7 +1432,6 @@ granomerite
 glycolylurea
 garliclike
 geoside
-guitermanite
 galloner
 gervao
 gibier
@@ -5143,6 +5142,7 @@ gandering
 glasseye
 glassen
 glassfish
+guitermanite
 girthing
 gouvernante
 glassful
