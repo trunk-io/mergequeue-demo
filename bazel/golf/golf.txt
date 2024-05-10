@@ -6334,7 +6334,6 @@ galiot
 goatsbeard
 genuclast
 greaves
-goatskin
 goatskins
 gawkily
 goatstone
@@ -9289,6 +9288,7 @@ galvanic
 guayaberas
 groof
 grossularia
+goatskin
 groom
 gradines
 grandioseness
