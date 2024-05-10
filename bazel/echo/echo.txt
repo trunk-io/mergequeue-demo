@@ -5144,7 +5144,6 @@ eudaemonist
 eleme
 embossment
 endointoxication
-endolabyrinthitis
 endolymph
 endolymphangial
 endolymphatic
@@ -8605,6 +8604,7 @@ equidivision
 epigrammatising
 embouchures
 equielliptical
+endolabyrinthitis
 equiexcellency
 equigranular
 equilater
