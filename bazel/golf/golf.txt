@@ -7132,7 +7132,6 @@ gored
 gorer
 gores
 gorfly
-groundplot
 gastrotaxis
 ganancial
 gorgeous
@@ -10380,6 +10379,7 @@ gt
 gulosity
 globuliferous
 grein
+groundplot
 gillbird
 gulp
 giller
