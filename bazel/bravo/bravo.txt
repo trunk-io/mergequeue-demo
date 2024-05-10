@@ -4497,7 +4497,6 @@ bloodstanch
 becloak
 batis
 belchers
-becloaking
 becloaks
 birdwomen
 blackfriars
@@ -7745,6 +7744,7 @@ bezants
 bezazz
 botswana
 bezazzes
+becloaking
 bezesteen
 binaurally
 butterflyer
