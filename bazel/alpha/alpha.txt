@@ -1980,7 +1980,6 @@ acetanilid
 acetanilide
 acetanion
 acetaniside
-acetanisidide
 acetanisidine
 acetars
 acetated
@@ -15235,6 +15234,7 @@ antierosion
 antierosive
 antiestablishment
 alysson
+acetanisidide
 antievangelical
 antievolution
 antievolutional
