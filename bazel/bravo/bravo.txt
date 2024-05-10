@@ -2457,7 +2457,6 @@ bareboats
 barrener
 bareboned
 bemuffle
-barebones
 bareca
 barefaced
 bombacaceous
@@ -15725,6 +15724,7 @@ broodingly
 bouncer
 broke
 burglariously
+barebones
 bemires
 broken
 brokenheartedly
