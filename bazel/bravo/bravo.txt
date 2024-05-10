@@ -1183,6 +1183,7 @@ biasteric
 blowcase
 bake
 brew
+bonus
 burrish
 bibliographer
 bellis
@@ -12570,7 +12571,6 @@ bontebuck
 bontebucks
 bontok
 bonum
-bonus
 boughed
 bagels
 bronteana
