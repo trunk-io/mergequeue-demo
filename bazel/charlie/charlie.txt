@@ -5766,7 +5766,6 @@ catechol
 coyotillo
 catecholamines
 catechumenal
-catechumenate
 catechumenically
 catechumenism
 catechumens
@@ -23104,6 +23103,7 @@ constantan
 constantine
 constantinian
 constantinopolitan
+catechumenate
 constantly
 constantness
 constat
