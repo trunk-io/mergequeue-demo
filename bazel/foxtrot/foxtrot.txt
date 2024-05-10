@@ -5257,6 +5257,7 @@ flax
 flaxboard
 fissural
 frivolously
+foamer
 flaxy
 flammeous
 fribblers
@@ -6632,7 +6633,6 @@ foambow
 foamed
 fluotitanate
 frounce
-foamer
 fungify
 foamflower
 foamy
