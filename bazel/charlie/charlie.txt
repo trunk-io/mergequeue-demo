@@ -27848,6 +27848,7 @@ cp
 contractus
 cpd
 chorus
+chemurgic
 cpi
 cuttoe
 cpm
@@ -29219,7 +29220,6 @@ cryptanalytically
 cryptanalytics
 cryptanalyze
 capybara
-chemurgic
 cryptanalyzed
 cryptanalyzing
 cryptarch
