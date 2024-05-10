@@ -4484,6 +4484,7 @@ feedable
 festschriften
 fisticuff
 fort
+filching
 fouldre
 familiarness
 fisticuffery
@@ -6752,7 +6753,6 @@ fogrum
 fellator
 fibroadenoma
 fishpond
-filching
 fogscoffer
 fogus
 fairydom
