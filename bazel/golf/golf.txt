@@ -4273,7 +4273,6 @@ glotum
 gymnosporous
 ges
 gymnostomata
-gymnostomous
 grotesquery
 gripless
 gymnotus
@@ -5531,6 +5530,7 @@ grounding
 glyptodontoid
 gracelike
 gethsemane
+gymnostomous
 gablatores
 gaia
 geranium
