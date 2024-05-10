@@ -6888,7 +6888,6 @@ enfeoffed
 estruses
 exsolved
 electroscopes
-elixirs
 eightsmen
 entomosporium
 endangered
@@ -7621,6 +7620,7 @@ epicondylic
 equichangeable
 enviousness
 equiatomic
+elixirs
 enhungered
 ew
 epicoracohumeral
