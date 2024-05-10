@@ -6115,6 +6115,7 @@ fustin
 fragor
 felspar
 flotillas
+forjesket
 fishmeal
 freighter
 formaldehydesulphoxylic
@@ -8296,7 +8297,6 @@ facade
 forisfamiliate
 forisfamiliation
 forjaskit
-forjesket
 foujdar
 forjudges
 forjudging
