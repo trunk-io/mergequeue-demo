@@ -7614,7 +7614,6 @@ cercopithecus
 cimbri
 cercopod
 cramberry
-cercospora
 cercosporella
 cercus
 cerdonian
@@ -20321,6 +20320,7 @@ communication
 communications
 communicative
 communicatively
+cercospora
 communicativeness
 communicatory
 communicators
