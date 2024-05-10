@@ -1527,7 +1527,6 @@ ballas
 baronetised
 ballastage
 bulbiform
-blanchi
 bouton
 backsword
 butomus
@@ -14521,6 +14520,7 @@ bransolder
 branta
 brantail
 brantails
+blanchi
 brantle
 bibliomanism
 brantness
