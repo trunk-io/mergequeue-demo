@@ -6381,6 +6381,7 @@ discontiguous
 dermophytic
 dejeune
 dermophobe
+detectors
 dermoptera
 decarbonylated
 dermopterous
@@ -17668,7 +17669,6 @@ dschubba
 dsect
 dsects
 desmodium
-detectors
 dsname
 dsnames
 dsri
