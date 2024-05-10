@@ -8846,7 +8846,6 @@ cobriform
 chapeled
 chapeless
 convalescency
-chapelet
 chapelgoer
 crenelle
 chapelgoing
@@ -28244,6 +28243,7 @@ crannogs
 cockscomb
 cranreuch
 cransier
+chapelet
 crantara
 crants
 cardiopathy
