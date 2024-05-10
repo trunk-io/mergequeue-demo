@@ -1074,6 +1074,7 @@ busway
 bailiwick
 beaconed
 bridler
+belord
 bailiwicks
 baillie
 baillone
@@ -5978,7 +5979,6 @@ belonid
 belonidae
 belonite
 belonoid
-belord
 belorussian
 belostoma
 backslap
