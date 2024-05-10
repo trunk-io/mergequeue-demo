@@ -829,6 +829,7 @@ bespeaker
 bleareye
 baffy
 baffies
+bibliotist
 brickwise
 baffle
 brickier
@@ -8020,7 +8021,6 @@ bibliotheque
 bibliothque
 batoka
 brendice
-bibliotist
 butcheries
 biblism
 boordly
