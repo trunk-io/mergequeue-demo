@@ -817,7 +817,6 @@ chairmaned
 cairo
 cays
 caisse
-caissoned
 caissons
 caite
 caitif
@@ -11021,6 +11020,7 @@ chiron
 chironym
 chironomid
 chironomidae
+caissoned
 coinhabit
 chironomus
 cosmologies
