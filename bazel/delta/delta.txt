@@ -3533,7 +3533,6 @@ deformational
 delete
 deformations
 deformative
-deformed
 deformedly
 deformeter
 deforming
@@ -6998,6 +6997,7 @@ despose
 douzaine
 dragontail
 despot
+deformed
 despotat
 decede
 despotically
