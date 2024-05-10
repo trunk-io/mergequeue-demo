@@ -6850,6 +6850,7 @@ aircraftman
 atenist
 axometer
 aircraftmen
+ausu
 aircraftsman
 aircraftsmen
 aircraftswoman
@@ -23761,7 +23762,6 @@ austroriparian
 abbot
 angiokinesis
 antiphrastically
-ausu
 ausubo
 ausubos
 argumentatively
