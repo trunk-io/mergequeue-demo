@@ -2547,7 +2547,6 @@ bariatrics
 baric
 barycenter
 bemused
-barycentric
 burmite
 bloodiest
 barid
@@ -7411,6 +7410,7 @@ beamiest
 bethanked
 bethanking
 bethankit
+barycentric
 bethanks
 bethel
 blunter
