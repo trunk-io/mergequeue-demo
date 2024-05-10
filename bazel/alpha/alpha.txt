@@ -1278,6 +1278,7 @@ acanthon
 acanthopanax
 acanthophorous
 acanthopodous
+aqueously
 acanthopomatous
 amylodextrin
 acanthopteran
@@ -18308,7 +18309,6 @@ aquench
 aqueoigneous
 aqueomercurial
 aqueous
-aqueously
 aquerne
 aberuncator
 anapneic
