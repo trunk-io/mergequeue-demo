@@ -5060,6 +5060,7 @@ flashtubes
 flask
 forevouched
 forslack
+feltlike
 ferricyanhydric
 flasker
 foretooth
@@ -6464,7 +6465,6 @@ forestudy
 fluoroscoping
 fluoroscopists
 fluorotic
-feltlike
 firring
 fluorotype
 fisherboat
