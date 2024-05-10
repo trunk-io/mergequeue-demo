@@ -2996,7 +2996,6 @@ exomorphism
 educive
 epistolatory
 evangeline
-elixate
 entices
 elixation
 elixir
@@ -12774,6 +12773,7 @@ exorcizement
 exorcizer
 exorcizes
 etioporphyrin
+elixate
 epistolization
 exordia
 epiceratodus
