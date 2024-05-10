@@ -3993,7 +3993,6 @@ empaneling
 empanelling
 empanels
 electroplated
-enantiotropy
 empanoply
 empaper
 emparchment
@@ -9601,6 +9600,7 @@ eternizing
 endosporous
 esuriently
 esebrias
+enantiotropy
 esemplasy
 esemplastic
 elding
