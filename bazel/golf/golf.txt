@@ -2707,7 +2707,6 @@ generators
 generatrices
 generic
 gabeler
-glaumrie
 glabbella
 gorbellied
 generification
@@ -10623,6 +10622,7 @@ gurgitation
 gurgled
 gurglet
 gurgling
+glaumrie
 guardee
 gurgoyl
 gurgoyle
