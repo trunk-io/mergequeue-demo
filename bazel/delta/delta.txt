@@ -4208,7 +4208,6 @@ diestrual
 dishonourable
 disherit
 delisk
-delisted
 delisting
 delists
 delit
@@ -7419,6 +7418,7 @@ doggereled
 demonstrance
 detroiter
 drunkenly
+delisted
 detruck
 detrude
 darbha
