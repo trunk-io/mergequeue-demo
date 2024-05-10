@@ -701,7 +701,6 @@ bodeful
 bactrites
 bactritoid
 blairmorite
-baculere
 breakerman
 baculiform
 baculine
@@ -3693,6 +3692,7 @@ batrachian
 bifrontal
 bruet
 bergamots
+baculere
 batrachians
 breadbaskets
 batrachidae
