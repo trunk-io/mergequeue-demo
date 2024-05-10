@@ -8489,6 +8489,7 @@ chamaelirium
 chamaenerion
 chamaepericlymenum
 chamaephyte
+compactedness
 chamaeprosopic
 chamaerops
 collegianer
@@ -20404,7 +20405,6 @@ compactability
 compactable
 compacted
 ca
-compactedness
 compacter
 compactible
 compactify
