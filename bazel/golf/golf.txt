@@ -712,7 +712,6 @@ graduale
 gallowsmaker
 gunfires
 gallowsward
-gerbilles
 gelosine
 galls
 gallup
@@ -5383,6 +5382,7 @@ glycerophosphoric
 glyceroxide
 glycide
 galoshed
+gerbilles
 glycidol
 genders
 glycinin
