@@ -6262,6 +6262,7 @@ dermatodynia
 dermatogen
 dermatoglyphics
 dermatography
+dsect
 diplonephridia
 dermatographia
 ducklar
@@ -17667,7 +17668,6 @@ denier
 druxiness
 druze
 dschubba
-dsect
 dsects
 desmodium
 dsname
