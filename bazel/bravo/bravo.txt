@@ -5972,6 +5972,7 @@ bestrowing
 belong
 belonged
 belonger
+bagonet
 belonging
 basisphenoid
 bailiffship
@@ -13247,7 +13248,6 @@ barton
 bridechamber
 botanies
 botanise
-bagonet
 botanist
 bdle
 botanize
