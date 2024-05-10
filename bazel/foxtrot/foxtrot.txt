@@ -5157,7 +5157,6 @@ flaubertian
 fiot
 flatwoods
 fonder
-flaunch
 flaunched
 ferie
 flaunter
@@ -8016,6 +8015,7 @@ francisca
 formalizing
 forestalling
 forestalls
+flaunch
 forestalment
 funerals
 flourishy
