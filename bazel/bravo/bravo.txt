@@ -2594,7 +2594,6 @@ barytas
 baryte
 baritenor
 bucerotinae
-barytic
 bulletined
 barytine
 barytocalcite
@@ -10270,6 +10269,7 @@ baphomet
 blackweed
 babuma
 blackwort
+barytic
 blad
 bladderet
 brancardier
