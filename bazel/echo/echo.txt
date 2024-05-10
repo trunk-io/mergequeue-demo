@@ -9071,7 +9071,6 @@ eutheria
 enfant
 erythraean
 erythraemia
-ectotheca
 exsiccate
 erythrasma
 erythremia
@@ -12329,6 +12328,7 @@ echoes
 exemplarity
 exemplars
 exempli
+ectotheca
 embodier
 efferent
 evocatrix

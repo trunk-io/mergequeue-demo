@@ -15,6 +15,7 @@ cryptostoma
 cabalassou
 chaenomeles
 cabaletta
+cardplaying
 cabalism
 cabalisms
 castratory
@@ -4201,7 +4202,6 @@ cardoon
 cardoons
 cardophagus
 cardosanto
-cardplaying
 clearwing
 carbamido
 chauffeur
