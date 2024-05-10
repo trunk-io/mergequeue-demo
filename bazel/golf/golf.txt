@@ -5919,7 +5919,6 @@ gloveman
 glover
 gloves
 glochines
-glow
 glowbard
 garrulous
 gadinine
@@ -9937,6 +9936,7 @@ generical
 guarrau
 gratillity
 glegness
+glow
 guars
 gipsyfy
 gaiters
