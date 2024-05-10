@@ -8758,6 +8758,7 @@ amblosis
 allhallows
 allhallowtide
 allheals
+approximant
 ally
 alliaceae
 alliage
@@ -18088,7 +18089,6 @@ anthypophora
 approvingly
 approximable
 approximal
-approximant
 athreptic
 approximants
 approximated
