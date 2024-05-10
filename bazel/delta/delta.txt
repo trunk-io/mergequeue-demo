@@ -6782,7 +6782,6 @@ desires
 dihedrons
 desirous
 desirousness
-desist
 dentex
 desisted
 dhotis
@@ -15473,6 +15472,7 @@ dechemicalization
 donatives
 donator
 donatress
+desist
 dragees
 decolorise
 doncella
