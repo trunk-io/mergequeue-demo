@@ -5235,6 +5235,7 @@ electrotonicity
 elapsoidea
 elkhorn
 esterellite
+enchest
 ecmnesia
 elbowchair
 endorsable
@@ -10632,7 +10633,6 @@ evermo
 euchorda
 enhalos
 euchred
-enchest
 euchres
 eckehart
 equipage
