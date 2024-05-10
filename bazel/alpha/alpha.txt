@@ -2340,7 +2340,6 @@ achromous
 articulability
 achronychous
 achronism
-achroodextrin
 announcement
 achroodextrinase
 achroous
@@ -16664,6 +16663,7 @@ apama
 apanaged
 alouatta
 apanaging
+achroodextrin
 apandry
 atoll
 apanteles
