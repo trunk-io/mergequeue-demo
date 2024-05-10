@@ -1448,6 +1448,7 @@ diam
 diorthoses
 dazy
 dazzle
+diffusor
 dazzler
 dazzlers
 dwindle
@@ -17654,7 +17655,6 @@ druses
 dishevels
 deuteropathy
 deliquesced
-diffusor
 drusy
 dreamfulness
 druther
