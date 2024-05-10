@@ -3313,7 +3313,6 @@ caponize
 crispate
 caponized
 caponizer
-coiling
 caponizing
 caponniere
 capons
@@ -24084,6 +24083,7 @@ coexchangeable
 convergement
 cirrolite
 convergence
+coiling
 convergences
 convergency
 columbary
