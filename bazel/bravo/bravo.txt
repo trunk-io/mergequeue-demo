@@ -6734,7 +6734,6 @@ beriberis
 berycid
 busyhead
 berycidae
-beryciform
 biarticulated
 berycine
 berycoid
@@ -18283,6 +18282,7 @@ butterwort
 butterwright
 buttgenbachite
 breed
+beryciform
 bruchus
 burrowing
 butty
