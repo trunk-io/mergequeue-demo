@@ -2205,7 +2205,6 @@ biplanar
 baptizers
 butterbill
 baptizing
-becompass
 bar
 barabara
 barabbas
@@ -15804,6 +15803,7 @@ bromeliaceous
 bromeliad
 bromelin
 bromelins
+becompass
 batler
 bishoplike
 bryozoa
