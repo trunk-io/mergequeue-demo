@@ -5389,7 +5389,6 @@ flegm
 flamines
 fley
 frissons
-fleyed
 fleing
 flanges
 frankfold
@@ -10167,6 +10166,7 @@ flatfish
 familistical
 frisco
 flannelled
+fleyed
 flarfish
 frigidaire
 fifteen
