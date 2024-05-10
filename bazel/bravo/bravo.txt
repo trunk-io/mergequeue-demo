@@ -7750,7 +7750,6 @@ becloaking
 bezesteen
 butterflyer
 bezetta
-bitonality
 blackflies
 bezils
 bonduc
@@ -15763,6 +15762,7 @@ brolly
 bepat
 brollies
 bromacetate
+bitonality
 bowgrace
 bristlemouth
 blastospheric
