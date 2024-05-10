@@ -12407,6 +12407,7 @@ bondmen
 bondminder
 bondon
 bructeri
+bookroom
 brooders
 bawdrick
 bierbalk
@@ -12682,7 +12683,6 @@ baronry
 bookrest
 bookrests
 begut
-bookroom
 bookseller
 berendo
 becloaked
