@@ -4887,7 +4887,6 @@ flameout
 flatten
 fourflushers
 flameouts
-flameproof
 formulize
 flameproofer
 flamer
@@ -9570,6 +9569,7 @@ frazed
 floccus
 fiscus
 frazer
+flameproof
 frazzle
 flattop
 frazzled
