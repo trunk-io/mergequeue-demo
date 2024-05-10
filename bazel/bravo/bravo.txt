@@ -7503,7 +7503,6 @@ betrap
 betravel
 betread
 betrend
-betrinket
 braveries
 betrothing
 betrothment
@@ -11768,6 +11767,7 @@ bodybending
 bodybuilder
 bodybuilders
 birdliming
+betrinket
 bodybuilding
 bodice
 believing
