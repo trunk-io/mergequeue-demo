@@ -15148,7 +15148,6 @@ brickly
 bricklike
 bowlin
 bricklining
-brickmaker
 brickmaking
 brickmason
 brockage
@@ -16225,6 +16224,7 @@ browsick
 browsing
 browst
 barre
+brickmaker
 browzer
 brr
 bridgemen

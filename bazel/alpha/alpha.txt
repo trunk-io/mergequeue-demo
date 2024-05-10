@@ -4549,7 +4549,6 @@ allemande
 agrypnode
 adumbrative
 adumbral
-adumbrellar
 adunation
 adunc
 aduncate
@@ -23464,6 +23463,7 @@ auletris
 auletes
 atalaya
 auletic
+adumbrellar
 allokinetic
 aetiophyllin
 aulical
