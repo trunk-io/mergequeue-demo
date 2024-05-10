@@ -76,7 +76,6 @@ facemaker
 fullfaces
 facemark
 feuter
-faceoff
 fermentations
 facepiece
 fisticuffs
@@ -3284,6 +3283,7 @@ fidawi
 ferroinclave
 flairs
 fiddle
+faceoff
 fiddlebow
 fiddlecome
 fiddled
