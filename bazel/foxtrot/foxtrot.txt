@@ -6108,7 +6108,6 @@ flotage
 florists
 flotages
 frondeur
-favorability
 foregoes
 forgift
 flotative
@@ -11346,6 +11345,7 @@ fossilogist
 feer
 furfuraceous
 forgeability
+favorability
 furfuralcohol
 filiciform
 flaveria
