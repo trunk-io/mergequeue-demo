@@ -5633,7 +5633,6 @@ desmepithelium
 dispersed
 dukeship
 depeopled
-depeopling
 deperdit
 determiners
 dedecoration
@@ -13532,6 +13531,7 @@ damme
 dissemination
 darlings
 disseminations
+depeopling
 disseminative
 dissimulators
 disseminule
