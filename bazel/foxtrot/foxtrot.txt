@@ -6683,6 +6683,7 @@ foehn
 foehnlike
 foehns
 foeish
+fpsps
 foeless
 fulgurating
 foelike
@@ -9175,7 +9176,6 @@ featherlike
 fplot
 fleeceflower
 fps
-fpsps
 fr
 fra
 faulkner
