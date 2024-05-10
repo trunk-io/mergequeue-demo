@@ -7751,6 +7751,7 @@ foreiron
 fissioning
 forejudged
 forejudging
+flaglike
 fiancee
 firebase
 foreknew
@@ -8183,7 +8184,6 @@ formats
 forfars
 forfault
 forfaulture
-flaglike
 forfeit
 fishways
 forfeitableness
