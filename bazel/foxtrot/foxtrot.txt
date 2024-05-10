@@ -1207,7 +1207,6 @@ familiarizer
 fascinatingly
 finkel
 fascination
-fascinations
 fascinator
 ferous
 fibularia
@@ -5585,6 +5584,7 @@ flighter
 fishful
 flightful
 flighty
+fascinations
 flightier
 foreglance
 foster
