@@ -6663,7 +6663,6 @@ bereareft
 bereason
 bereave
 bereavements
-bereaver
 bukh
 bereavers
 bodyplate
@@ -16896,6 +16895,7 @@ buggane
 bugger
 buggered
 bowse
+bereaver
 buggeries
 buggering
 buggers
