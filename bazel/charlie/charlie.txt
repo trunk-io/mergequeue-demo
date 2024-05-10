@@ -13654,6 +13654,7 @@ cylindrodendrite
 classicistic
 cylindrograph
 compilers
+chisel
 cylindroid
 cylindroidal
 cylindroma
@@ -24210,7 +24211,6 @@ convivially
 convivio
 convocate
 convocating
-chisel
 convocation
 convocational
 convocationist
