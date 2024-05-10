@@ -1238,7 +1238,6 @@ dimouts
 danthonia
 discal
 datives
-disconcord
 dato
 datolite
 declinate
@@ -9657,6 +9656,7 @@ dilaniate
 dribbling
 doubled
 dilapidated
+disconcord
 dilapidation
 dilatability
 dilatable
