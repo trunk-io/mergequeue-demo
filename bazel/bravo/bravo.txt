@@ -726,7 +726,6 @@ bufferrer
 besprinkler
 birdshot
 badassed
-badasses
 badaxe
 brasseries
 balustered
@@ -10518,6 +10517,7 @@ blackthorn
 buttonhold
 blastostyle
 blasts
+badasses
 blastula
 butterier
 blastular
