@@ -3930,7 +3930,6 @@ disherits
 dekameter
 dekameters
 debutante
-diselder
 decumani
 dekapode
 dekarch
@@ -15218,6 +15217,7 @@ dollhouses
 dollia
 deuteranopic
 dingmaul
+diselder
 dredged
 dother
 dollier
