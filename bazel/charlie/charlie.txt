@@ -2569,6 +2569,7 @@ counterstatement
 canfields
 canfuls
 cangan
+charterist
 clumsiness
 cangy
 cangia
@@ -9188,7 +9189,6 @@ charterers
 charterhouse
 chartering
 charterism
-charterist
 charterless
 chartermaster
 charters
