@@ -5797,7 +5797,6 @@ glossator
 gumflower
 goniostat
 glossectomy
-glossed
 glossematic
 grenado
 glossemes
@@ -8754,6 +8753,7 @@ gobiidae
 guileless
 graduals
 gametophyll
+glossed
 gregarian
 gregarina
 gobonated
