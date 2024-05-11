@@ -15902,7 +15902,6 @@ dosseret
 dosserets
 dosses
 dossy
-dirging
 dossier
 dossil
 dossils
@@ -18517,6 +18516,7 @@ durity
 diphthonged
 deterrer
 durmast
+dirging
 durndest
 durned
 durneder
