@@ -5097,7 +5097,6 @@ denature
 denatured
 denaturing
 diminishingturns
-denaturisation
 denaturise
 denaturised
 duodiode
@@ -7461,6 +7460,7 @@ deuniting
 detested
 deurbanize
 dayglow
+denaturisation
 deurwaarder
 diarrheic
 destroyable
