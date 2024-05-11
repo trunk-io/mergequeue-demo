@@ -7785,6 +7785,7 @@ antichresis
 aldebaran
 aldebaranium
 aldehydase
+algorithm
 aldehyde
 aldehydes
 aldehydic
@@ -14560,7 +14561,6 @@ anthropogenist
 anthropogenous
 anthropogeographer
 anthropogeographic
-algorithm
 aperitifs
 anthropogeographical
 africanism
