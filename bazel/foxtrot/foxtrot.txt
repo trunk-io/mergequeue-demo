@@ -3218,7 +3218,6 @@ feracious
 fichtelite
 flanky
 fusilade
-fichus
 footsteps
 fundamentalness
 furling
@@ -11395,6 +11394,7 @@ fieldman
 furlana
 firbolg
 furler
+fichus
 flattened
 furlong
 forewind
