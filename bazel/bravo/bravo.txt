@@ -10557,6 +10557,7 @@ blats
 bionomics
 butyrone
 blatta
+broombush
 blattariae
 bounding
 biostrome
@@ -16063,7 +16064,6 @@ bookshelf
 beardtongue
 biblic
 broomballer
-broombush
 broomcorn
 broomer
 botrychium
