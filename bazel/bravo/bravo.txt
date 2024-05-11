@@ -1088,7 +1088,6 @@ bailor
 babyhouse
 bailors
 bailout
-bailsman
 bailsmen
 boeotic
 bunder
@@ -9107,6 +9106,7 @@ biomicroscopies
 blithelike
 biomorphic
 bion
+bailsman
 byon
 bionditional
 bionics
