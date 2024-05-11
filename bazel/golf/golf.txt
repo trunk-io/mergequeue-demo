@@ -5827,7 +5827,6 @@ glossoepiglottic
 goldwork
 glossoepiglottidean
 goldsmithery
-getid
 glossohyal
 gaultherase
 gyres
@@ -8396,6 +8395,7 @@ golems
 gobiesox
 gravely
 groupers
+getid
 gheg
 gayal
 gravelike
