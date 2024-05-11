@@ -1438,7 +1438,6 @@ fatness
 facto
 fatnesses
 fylgjur
-fats
 fluctuosity
 fatshedera
 fatsia
@@ -2239,6 +2238,7 @@ feltmaker
 ferbams
 fluidism
 feltmaking
+fats
 feltman
 freakish
 fluster
