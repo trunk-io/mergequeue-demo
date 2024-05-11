@@ -7182,7 +7182,6 @@ enwwove
 euphonym
 enzym
 ensample
-enzymatic
 evillest
 enzymes
 enzymic
@@ -9006,6 +9005,7 @@ eucaryotic
 expungement
 ethicizing
 extradural
+enzymatic
 erns
 erika
 erikite
