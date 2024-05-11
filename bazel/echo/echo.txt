@@ -3846,7 +3846,6 @@ emigates
 ethid
 exarticulation
 emigr
-ermelin
 eavesdrip
 endometry
 emigrants
@@ -4607,6 +4606,7 @@ enchodontid
 enchodontoid
 enchodus
 ensilaging
+ermelin
 epimerase
 enchondromata
 enchondromatous
