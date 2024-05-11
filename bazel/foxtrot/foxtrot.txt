@@ -8006,7 +8006,6 @@ forestair
 fireplough
 forestays
 forehinting
-feute
 flashbulb
 forestaysail
 forestal
@@ -10553,6 +10552,7 @@ frottole
 flayers
 frotton
 fascicularly
+feute
 froufrou
 fumelike
 fiumara
