@@ -4620,7 +4620,6 @@ fibroreticulate
 fixer
 fixers
 feinted
-filamentar
 fixidity
 fixing
 fixings
@@ -6037,6 +6036,7 @@ floriated
 floriation
 floricin
 freet
+filamentar
 floriculture
 floriculturist
 florida
