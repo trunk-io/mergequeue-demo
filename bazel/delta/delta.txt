@@ -5776,7 +5776,6 @@ depolarise
 drapeable
 depolariser
 darksome
-depolarising
 docetic
 depolarization
 depolarize
@@ -8738,6 +8737,7 @@ diathesic
 desilicating
 demisacrilege
 diathesis
+depolarising
 diathetic
 diatom
 diatoma
