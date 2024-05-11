@@ -4388,7 +4388,6 @@ electrobioscopy
 encaged
 encages
 encalendar
-encampment
 encamps
 endoparasite
 encanker
@@ -5325,6 +5324,7 @@ enchaser
 evocatory
 endotheliomas
 endotheliomata
+encampment
 ecphory
 economically
 endotheliomyoma
