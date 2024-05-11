@@ -2909,7 +2909,6 @@ gingelies
 gentlemanly
 gentlemanlikeness
 gentlemanliness
-gazes
 gentlemanship
 gayer
 gentlemen
@@ -7756,6 +7755,7 @@ gtc
 geoglossaceae
 gun
 goodsome
+gazes
 grasscutter
 ganoin
 gramary
