@@ -3386,7 +3386,6 @@ bassanite
 bassara
 bassarisk
 biotechnics
-burkers
 bassetta
 bemata
 bughouse
@@ -5341,6 +5340,7 @@ beglitter
 begloom
 begloomed
 beglooming
+burkers
 beglooms
 begloze
 brokenly
