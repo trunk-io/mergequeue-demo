@@ -15493,7 +15493,6 @@ amylums
 antimartyr
 androlepsy
 antimask
-alar
 antimasks
 antimason
 accordances
@@ -19105,6 +19104,7 @@ archmagician
 antielectron
 adread
 archmagirist
+alar
 archmarshal
 archmessenger
 archmilitarist
