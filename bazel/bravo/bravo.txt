@@ -1666,7 +1666,6 @@ ballplayers
 ballplatz
 bedrabbled
 ballpoint
-ballproof
 ballrooms
 balls
 blandiloquious
@@ -13668,6 +13667,7 @@ boutefeu
 banqueteer
 bouteria
 brigands
+ballproof
 bouteselle
 bet
 boutylka
