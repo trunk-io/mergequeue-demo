@@ -4535,6 +4535,7 @@ gobiiformes
 gypping
 gyp
 gyps
+greffier
 griskin
 gipser
 gipsy
@@ -8741,7 +8742,6 @@ greeting
 greets
 gliffing
 grandchildren
-greffier
 gelatinochloride
 gunslinger
 gregale
