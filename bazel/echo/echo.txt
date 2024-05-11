@@ -7067,6 +7067,7 @@ enchannel
 exaggeration
 egotisms
 enunciative
+exportable
 enwrite
 enured
 enures
@@ -13280,7 +13281,6 @@ exponents
 exponible
 epoch
 euomphalus
-exportable
 entitled
 esthetically
 exceedingly

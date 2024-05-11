@@ -5935,6 +5935,7 @@ depressants
 depressed
 depresses
 doling
+dispender
 depressibilities
 depressible
 declass
@@ -16222,7 +16223,6 @@ dowieism
 dowsets
 disworship
 dowing
-dispender
 dowitcher
 dowitchers
 dares
