@@ -10253,7 +10253,6 @@ beastdom
 blacksnake
 blackstick
 baneful
-blacktail
 bliaut
 boogaloo
 ballsy
@@ -12243,6 +12242,7 @@ benn
 bomb
 bombable
 bombacaceae
+blacktail
 bombace
 bombay
 byrls
