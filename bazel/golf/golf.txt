@@ -3335,6 +3335,7 @@ genros
 gerland
 gilver
 gentisic
+glottalized
 ganglands
 guilelessly
 germ
@@ -5874,7 +5875,6 @@ glochidial
 glottalize
 germinates
 groomer
-glottalized
 glottalizing
 guesstimates
 glottid
