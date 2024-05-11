@@ -12869,6 +12869,7 @@ antrin
 angletouch
 angletwitch
 anglewing
+allays
 anglewise
 avenger
 asteraceous
@@ -15479,7 +15480,6 @@ antilottery
 antiluetic
 antimacassar
 antimacassars
-allays
 antimachination
 antimagistratical
 antimalaria
