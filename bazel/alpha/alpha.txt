@@ -2726,6 +2726,7 @@ allocated
 auxoflore
 acquiet
 acquirable
+approximated
 acquire
 acquirement
 acquiring
@@ -18090,7 +18091,6 @@ approximable
 approximal
 athreptic
 approximants
-approximated
 approximately
 acridly
 approximates
