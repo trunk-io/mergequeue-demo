@@ -14955,7 +14955,6 @@ cytode
 cytoderm
 cytodiagnosis
 cytoecology
-cytogamy
 cytogene
 cosmographist
 cytogenetic
@@ -30483,6 +30482,7 @@ cubiculo
 cubiculum
 cubiform
 cubing
+cytogamy
 cubisms
 catastrophism
 cubist
