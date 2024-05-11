@@ -10525,7 +10525,6 @@ dipleural
 docetically
 dungbird
 determinateness
-dipleuric
 dipleurogenesis
 defected
 desugar
@@ -16865,6 +16864,7 @@ drawlink
 drawloom
 drawls
 drawn
+dipleuric
 determinativeness
 dissyllabise
 diffidence
