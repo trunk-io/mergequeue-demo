@@ -8915,7 +8915,6 @@ foreshadower
 figgery
 fougasse
 foujdarry
-flneur
 foul
 foulbrood
 foulder
@@ -11733,6 +11732,7 @@ fuzed
 fingerboard
 floramor
 frights
+flneur
 fuzees
 fuzil
 fossicks
