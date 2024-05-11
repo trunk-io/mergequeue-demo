@@ -283,7 +283,6 @@ arthrochondritis
 abducentes
 abduces
 articulate
-abduct
 abducted
 abducting
 abductions
@@ -4254,6 +4253,7 @@ adnominal
 adnominally
 adnomination
 adnouns
+abduct
 adobos
 azathioprine
 adod
