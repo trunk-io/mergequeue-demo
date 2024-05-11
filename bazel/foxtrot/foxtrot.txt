@@ -5500,7 +5500,6 @@ flexuousness
 flexura
 fructiparous
 fram
-flexures
 flyable
 fascicle
 felon
@@ -8240,6 +8239,7 @@ fulgurous
 frohlich
 forgetful
 forgetfully
+flexures
 fogdog
 forgetfulness
 forgetive
