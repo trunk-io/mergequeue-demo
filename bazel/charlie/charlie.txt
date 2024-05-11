@@ -4985,7 +4985,6 @@ cartouche
 costrel
 chiclero
 cartouches
-cartridge
 curlicued
 canalman
 chevrony
@@ -18322,6 +18321,7 @@ creamcups
 cogitant
 cogitantly
 cogitates
+cartridge
 cogitation
 cogitations
 cogitative
