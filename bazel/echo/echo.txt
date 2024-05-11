@@ -1733,7 +1733,6 @@ eyelash
 eyelast
 eliding
 eyelessness
-engs
 eyelet
 eyeleted
 eyeletted
@@ -4275,6 +4274,7 @@ exostracism
 epigraphical
 emunge
 emusifies
+engs
 emusifying
 effectible
 en
