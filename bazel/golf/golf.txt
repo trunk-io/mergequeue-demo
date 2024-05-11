@@ -3579,6 +3579,7 @@ genus
 getling
 getmjlkost
 getpenny
+gibberish
 greaselessness
 getspace
 gracile
@@ -4798,7 +4799,6 @@ galleass
 gise
 galempung
 gooier
-gibberish
 gisel
 gisement
 glazily
