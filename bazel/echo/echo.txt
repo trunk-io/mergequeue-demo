@@ -8925,7 +8925,6 @@ ergatomorphism
 ergo
 ergodic
 estampie
-ergodicity
 entoderms
 efflorescency
 ergograph
@@ -13704,6 +13703,7 @@ electrobiologist
 extinguishant
 epifolliculitis
 erotica
+ergodicity
 extinguished
 extinguisher
 extinguishers
