@@ -4661,7 +4661,6 @@ adverting
 advertisable
 advertise
 advertisee
-advertisement
 advertisements
 advertiser
 advertisers
@@ -11463,6 +11462,7 @@ ana
 anabaenas
 anabantid
 alpines
+advertisement
 anabantidae
 anabaptist
 anabaptistic
