@@ -16790,7 +16790,6 @@ apesthetize
 attachment
 apetaly
 apetalies
-apetaloid
 apetalous
 apetalousness
 apexed
@@ -24918,6 +24917,7 @@ awaiting
 awaitlala
 awaits
 awakable
+apetaloid
 awake
 awakeable
 awaked
