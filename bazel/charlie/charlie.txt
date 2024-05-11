@@ -14149,7 +14149,6 @@ cypraeoid
 cypre
 capacity
 cypreses
-celtic
 cypress
 cypressed
 cypresses
@@ -28009,6 +28008,7 @@ crags
 carthusian
 cragsmen
 chart
+celtic
 cragwork
 controllership
 craichy
