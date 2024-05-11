@@ -6443,6 +6443,7 @@ caveat
 caveatee
 caveating
 caveator
+choaty
 caveators
 crankly
 caved
@@ -11495,7 +11496,6 @@ cataplasm
 choanosomal
 choanosome
 choate
-choaty
 chob
 chobie
 choca
