@@ -5446,7 +5446,6 @@ behale
 behalf
 behallow
 behammer
-behang
 beshine
 behap
 bookmonger
@@ -12246,6 +12245,7 @@ bombable
 bombacaceae
 blacktail
 bombace
+behang
 bombay
 byrls
 bombarded
