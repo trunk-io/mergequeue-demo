@@ -7640,7 +7640,6 @@ gyneocracy
 geomyid
 graduateship
 graduatical
-graduation
 graduators
 graduses
 gherkin
@@ -10858,6 +10857,7 @@ geomagnetician
 gauging
 gyri
 gestatorium
+graduation
 gwendolen
 gwine
 gwiniad
