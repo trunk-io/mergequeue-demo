@@ -8584,7 +8584,6 @@ alkitran
 argufy
 alkool
 acquisitions
-alkoran
 alkoxy
 alkoxyl
 all
@@ -16136,6 +16135,7 @@ antiroyalism
 antiromantic
 antiromanticism
 antiromanticist
+alkoran
 antirrhinum
 arbitrages
 antirusts
