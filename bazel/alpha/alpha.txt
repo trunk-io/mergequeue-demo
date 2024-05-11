@@ -20657,7 +20657,6 @@ arilli
 aethered
 arthrospore
 arthrosporic
-acutangular
 arthrosporous
 arthrosteitis
 arthrosterigma
@@ -24429,6 +24428,7 @@ autotimer
 autotypy
 autotypic
 autotypography
+acutangular
 autotomy
 autotomise
 autotomised

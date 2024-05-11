@@ -2127,7 +2127,6 @@ bannocks
 bivittate
 banovina
 banquet
-banqueted
 banqueter
 bundist
 banqueting
@@ -13670,6 +13669,7 @@ boussingaultite
 boustrophedon
 bloomer
 buccaned
+banqueted
 boutefeu
 banqueteer
 bouteria
