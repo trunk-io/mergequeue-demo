@@ -1179,7 +1179,6 @@ factionaries
 featherbone
 fantasize
 fasciculate
-faence
 floridly
 feroher
 fasciculi
@@ -11199,6 +11198,7 @@ formability
 fervently
 fraughted
 fibronuclear
+faence
 figury
 feneration
 fungin
