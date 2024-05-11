@@ -7030,7 +7030,6 @@ beshriek
 beshrivel
 beshroud
 borlase
-bufflehorn
 beside
 besides
 besiege
@@ -13695,6 +13694,7 @@ bailouts
 butle
 bouzoukia
 bouzoukis
+bufflehorn
 bovarism
 bovaristic
 bovate
