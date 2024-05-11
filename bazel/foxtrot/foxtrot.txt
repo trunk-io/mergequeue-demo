@@ -5387,7 +5387,6 @@ flegm
 flamines
 fley
 frissons
-fleing
 flanges
 frankfold
 figgum
@@ -10409,6 +10408,7 @@ frondose
 frictionable
 friesish
 factful
+fleing
 friendless
 fluorescein
 frontage
