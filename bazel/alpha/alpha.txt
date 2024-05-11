@@ -1160,7 +1160,6 @@ assertible
 abutments
 abuttal
 abuttals
-abutted
 abutter
 abutters
 abutting
@@ -21849,6 +21848,7 @@ assyriologue
 astrobiology
 assyroid
 assisa
+abutted
 amitroles
 adigranth
 amygdalolith
