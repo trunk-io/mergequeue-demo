@@ -7179,7 +7179,6 @@ footfeed
 fesels
 footfolk
 fu
-fortalice
 footganger
 fruticulture
 foothalt
@@ -9681,6 +9680,7 @@ flueman
 fanwe
 fluviograph
 ferias
+fortalice
 flunkers
 freelance
 freelanced
