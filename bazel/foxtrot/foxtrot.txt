@@ -4869,6 +4869,7 @@ fergusite
 fill
 flameless
 flitch
+forwards
 fchar
 fractabling
 flamen
@@ -10050,7 +10051,6 @@ frigged
 frigger
 forequarters
 flocculated
-forwards
 flavin
 frightener
 fanmaker
