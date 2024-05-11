@@ -12456,7 +12456,6 @@ chromatone
 chromatopathy
 chromatopathia
 celebe
-chromatopathic
 chromatophil
 chromatophile
 chromatophilic
@@ -30277,6 +30276,7 @@ crura
 complexionably
 crural
 crurogenital
+chromatopathic
 cruroinguinal
 compt
 crurotarsal
