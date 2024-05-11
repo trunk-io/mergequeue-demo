@@ -2777,6 +2777,7 @@ genio
 genioglossal
 globoids
 genioglossi
+goboes
 genioglossus
 geniohyoglossal
 gipsyhood
@@ -9697,7 +9698,6 @@ grump
 gumma
 grapestone
 grubstaking
-goboes
 grumped
 grf
 grumph
