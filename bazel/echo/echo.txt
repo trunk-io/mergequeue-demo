@@ -295,7 +295,6 @@ eagerer
 eatability
 eatables
 electrolyzability
-enteroid
 eatberry
 emancipative
 eaten
@@ -10543,6 +10542,7 @@ exalate
 etiquette
 etiquettical
 etna
+enteroid
 etoile
 eton
 etrenne
