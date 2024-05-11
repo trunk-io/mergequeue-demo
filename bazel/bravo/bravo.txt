@@ -3767,7 +3767,6 @@ baldly
 barotraumata
 battledoring
 battlefronts
-battleful
 battlegrounds
 barway
 battlement
@@ -14389,6 +14388,7 @@ brambles
 bonanza
 bramblier
 botch
+battleful
 brambling
 brambrack
 brame
