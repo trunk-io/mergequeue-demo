@@ -2874,7 +2874,6 @@ bailer
 barragon
 berried
 bowle
-bombproof
 bosun
 barramunda
 barramundies
@@ -15494,6 +15493,7 @@ brist
 bristlebird
 bristlecone
 birdman
+bombproof
 bristled
 biopsychical
 bromacetanilide
