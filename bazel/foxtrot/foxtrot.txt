@@ -164,7 +164,6 @@ float
 fulminates
 factionist
 factionistism
-factions
 flirtatious
 friborg
 fabulous
@@ -340,6 +339,7 @@ faineantism
 fainest
 fainly
 fuseboard
+factions
 famines
 fiercening
 foreproduct
