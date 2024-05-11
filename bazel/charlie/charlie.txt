@@ -5701,7 +5701,6 @@ catcaller
 carburising
 catcalls
 catch
-catchable
 catchcry
 colocates
 catched
@@ -13223,6 +13222,7 @@ cycads
 cyanochroic
 cicale
 chiot
+catchable
 cycas
 cycases
 coverless
