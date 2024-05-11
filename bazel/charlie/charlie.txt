@@ -8317,7 +8317,6 @@ cercomonas
 concertanti
 cosingular
 chalaziferous
-chalazion
 chalazium
 chalazogam
 chalazogamic
@@ -23979,6 +23978,7 @@ convallariaceae
 colectomy
 comatous
 convallarin
+chalazion
 convally
 convect
 convected
