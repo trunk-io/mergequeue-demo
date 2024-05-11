@@ -5075,7 +5075,6 @@ amazona
 aeronautical
 antihistamines
 aeronautically
-aeronautism
 aeronomer
 amyliferous
 aeronomy
@@ -14849,6 +14848,7 @@ anticardiac
 anticardium
 anticarious
 anticarnivorous
+aeronautism
 anticatalase
 armorially
 archcharlatan
