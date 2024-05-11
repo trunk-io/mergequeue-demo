@@ -3481,7 +3481,6 @@ embodiers
 embodies
 entropy
 emancipation
-embodiment
 exhaled
 emboil
 encephalography
@@ -9693,6 +9692,7 @@ esophagopathy
 esophagoplasty
 esophagoptosis
 esophagorrhagia
+embodiment
 esophagoscopy
 esophagostenosis
 endorsor
