@@ -4652,6 +4652,7 @@ byplays
 bedcovers
 beddable
 blader
+bromos
 blent
 bedding
 beddingroll
@@ -15888,7 +15889,6 @@ bauk
 bromoprotein
 boing
 brenda
-bromos
 bromothymol
 bromouracil
 bromphenol
