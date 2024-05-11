@@ -984,7 +984,6 @@ edaphosaurid
 edaphosaurus
 explosibility
 emblazing
-eddaic
 edder
 episcopable
 encephalon
@@ -6375,6 +6374,7 @@ embezzler
 eva
 endoparasitic
 enrollment
+eddaic
 expenseful
 elizabeth
 ensiles
