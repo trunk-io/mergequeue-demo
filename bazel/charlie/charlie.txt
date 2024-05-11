@@ -5803,7 +5803,6 @@ categorising
 categorist
 cleaves
 categorization
-categorizations
 categorize
 corona
 categorized
@@ -19149,6 +19148,7 @@ collocating
 collocation
 collocational
 crojiks
+categorizations
 collocations
 collocative
 collock
