@@ -1075,6 +1075,7 @@ bailiwick
 beaconed
 bridler
 belord
+brasswork
 bailiwicks
 baillie
 baillone
@@ -14601,7 +14602,6 @@ brassish
 beavered
 brasslike
 brassware
-brasswork
 brassworker
 brassworks
 brast
