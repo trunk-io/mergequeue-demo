@@ -4774,6 +4774,7 @@ demiurgus
 dilli
 depressor
 demivambrace
+diminutivize
 demivierge
 demivirgin
 deadeyes
@@ -8232,7 +8233,6 @@ ductus
 diaglyptic
 diagnosable
 diagnose
-diminutivize
 diagnosed
 diacetyls
 diagnosis
