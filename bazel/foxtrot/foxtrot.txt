@@ -1681,6 +1681,7 @@ fdnames
 fdtype
 fdub
 fdubs
+flamboyantly
 fortuitousness
 fussy
 fe
@@ -3327,7 +3328,6 @@ fullmouthedly
 forinsec
 froglet
 fidge
-flamboyantly
 fidged
 frameable
 fidget

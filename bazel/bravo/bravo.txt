@@ -1248,7 +1248,6 @@ bocaccios
 bucketsful
 balaenidae
 balaenoid
-balaenoptera
 bocca
 bambocciade
 bobbies
@@ -7430,6 +7429,7 @@ bethylidae
 bootstrap
 bethink
 barquentine
+balaenoptera
 bethinks
 branglement
 baklawa
