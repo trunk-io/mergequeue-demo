@@ -7793,6 +7793,7 @@ couldron
 ceroon
 centunculus
 ceroplast
+chemiluminescent
 charkhas
 ceroplasty
 ceroplastic
@@ -9884,7 +9885,6 @@ chemigraphy
 chemigraphic
 chemiloon
 chemiluminescence
-chemiluminescent
 cheminee
 chemiotactic
 chemiotaxic
