@@ -6829,6 +6829,7 @@ definition
 disfranchisers
 dampang
 destroyed
+donataries
 desmine
 desmitis
 desmocytoma
@@ -15456,7 +15457,6 @@ drawl
 daira
 dicyanodiamide
 donat
-donataries
 donated
 donatee
 donatiaceae

@@ -4226,6 +4226,7 @@ emulant
 emulations
 emulative
 emulatory
+echograph
 emule
 emulously
 escambio
@@ -13586,7 +13587,6 @@ extemporaneously
 extensor
 eulogise
 extensory
-echograph
 escalate
 extensors
 extensure
