@@ -10483,6 +10483,7 @@ chiffonnieres
 chiffons
 continuable
 chifforobe
+clear
 chifforobes
 crosswalk
 chiffre
@@ -15881,7 +15882,6 @@ cleanses
 cleanskin
 cleanskins
 cleanup
-clear
 chelaship
 colonized
 clearable
