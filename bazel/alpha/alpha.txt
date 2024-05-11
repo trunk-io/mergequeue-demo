@@ -3862,6 +3862,7 @@ ady
 adiabat
 assistency
 adiadochokinesia
+antecedal
 adiadochokinesis
 adiadokokinesi
 adiadokokinesia
@@ -14109,7 +14110,6 @@ antebrachium
 antebridal
 antecardium
 antecavern
-antecedal
 antecedaneous
 antecedaneously
 antecede
