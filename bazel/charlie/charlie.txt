@@ -26794,7 +26794,6 @@ counterchanged
 countercharged
 countercharm
 counterclaim
-counterclaimant
 counterclaiming
 cirriform
 counterclaims
@@ -27854,6 +27853,7 @@ cpo
 cps
 cpt
 cpu
+counterclaimant
 cpus
 cputime
 centriffed
