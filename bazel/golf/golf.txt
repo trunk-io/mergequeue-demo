@@ -1936,7 +1936,6 @@ grene
 gryphosaurus
 gill
 grainering
-gatewards
 gyrostabilized
 gatewoman
 galidictis
@@ -8963,6 +8962,7 @@ germicides
 grifted
 grifters
 glory
+gatewards
 garoter
 grifting
 gunther
