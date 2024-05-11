@@ -6651,7 +6651,6 @@ desertward
 deserve
 deserved
 deservedness
-deserveless
 deserver
 deservers
 duncify
@@ -13180,6 +13179,7 @@ daws
 diluvion
 dyspnoeas
 daimon
+deserveless
 droopily
 disgruntled
 dispoint
