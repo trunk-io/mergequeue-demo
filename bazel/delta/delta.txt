@@ -3953,7 +3953,6 @@ deked
 dekes
 deking
 dustcoat
-dekkos
 dotage
 douser
 decameter
@@ -10383,6 +10382,7 @@ dipartite
 dipartition
 dominicks
 dermatoma
+dekkos
 dipchick
 dipcoat
 dipentene
