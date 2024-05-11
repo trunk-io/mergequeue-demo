@@ -2214,7 +2214,6 @@ ephemerons
 electives
 electivism
 engram
-electivity
 elector
 expostulator
 elks
@@ -3072,6 +3071,7 @@ elodeas
 elodes
 echoingly
 endophasia
+electivity
 eloge
 elogy
 extrasensorial
