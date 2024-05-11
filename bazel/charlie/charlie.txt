@@ -9586,7 +9586,6 @@ checkless
 checklist
 checkman
 congruencies
-clipeus
 checkmark
 checkmate
 chirosophist
@@ -24881,6 +24880,7 @@ carders
 coracles
 coracoacromial
 coracobrachial
+clipeus
 calcimeter
 coracobrachialis
 coracoclavicular
