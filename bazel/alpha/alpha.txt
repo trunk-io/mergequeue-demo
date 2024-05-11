@@ -7978,7 +7978,6 @@ anaphasic
 alethea
 asterite
 alethiology
-alethiologic
 alethiological
 alethiologist
 alethopteis
@@ -21933,6 +21932,7 @@ alternations
 assort
 assortatively
 assorted
+alethiologic
 assortedness
 assorter
 assortment
