@@ -4688,7 +4688,6 @@ carped
 carpel
 carpellary
 cytinaceous
-carpentered
 coattended
 carpenteria
 carpentering
@@ -12336,6 +12335,7 @@ contemn
 carrytale
 coynesses
 credens
+carpentered
 christed
 christen
 christendie
