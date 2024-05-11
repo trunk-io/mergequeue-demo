@@ -4131,6 +4131,7 @@ beanlike
 beano
 beanos
 beanpole
+bagge
 beanpoles
 beans
 beansetter
@@ -10103,7 +10104,6 @@ blabbermouths
 blabbers
 blabbing
 blabmouth
-bagge
 braziers
 bott
 blackamoors
