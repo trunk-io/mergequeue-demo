@@ -7590,7 +7590,6 @@ goldbricks
 gradational
 geospiza
 gradationally
-gradatively
 gallish
 grade
 graded
@@ -9952,6 +9951,7 @@ generalised
 gesnerian
 guatusan
 gyric
+gradatively
 guatuso
 guauaenok
 glycerinize
