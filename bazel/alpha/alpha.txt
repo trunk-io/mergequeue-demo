@@ -7961,6 +7961,7 @@ alerce
 alerion
 alerse
 agravic
+agglutinates
 alert
 alerta
 anorak
@@ -17445,7 +17446,6 @@ apostacies
 apostacize
 apostasy
 apostasies
-agglutinates
 audiometer
 apostasis
 appreciatively
