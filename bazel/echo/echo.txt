@@ -2268,7 +2268,6 @@ electrizable
 electrization
 earthenware
 epigonus
-electro
 electroacoustic
 electroacoustical
 electroacoustically
@@ -13134,6 +13133,7 @@ empressement
 expiscating
 executancy
 enchainment
+electro
 epiphloedic
 expiscation
 enrheum
