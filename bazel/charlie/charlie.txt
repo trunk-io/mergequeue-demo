@@ -23546,7 +23546,6 @@ contignate
 cloky
 compulsatory
 contignation
-contiguate
 contiguity
 contiguous
 contiguously
@@ -25759,6 +25758,7 @@ correlative
 champa
 crabapple
 correlatives
+contiguate
 correlativism
 correlativity
 correligionist
