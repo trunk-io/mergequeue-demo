@@ -9412,6 +9412,7 @@ chaunts
 chauri
 catamarans
 chaus
+constatory
 commiserate
 chausse
 chaussee
@@ -23115,7 +23116,6 @@ constat
 constatation
 constate
 curettement
-constatory
 constellate
 coystrel
 constellated
