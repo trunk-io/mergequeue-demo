@@ -1667,6 +1667,7 @@ fc
 fitchering
 fipenny
 fcomp
+foolship
 fconv
 farcin
 fcp
@@ -6733,7 +6734,6 @@ fanflower
 flaw
 fogyish
 fogless
-foolship
 fadding
 fogman
 fogmen
