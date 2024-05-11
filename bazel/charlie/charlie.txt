@@ -4796,7 +4796,6 @@ carposporangium
 catalase
 carpospore
 carposporous
-carpostome
 carps
 carpsucker
 cavalierish
@@ -22641,6 +22640,7 @@ connexus
 comperes
 connies
 conning
+carpostome
 conniptions
 connivance
 correlatively
