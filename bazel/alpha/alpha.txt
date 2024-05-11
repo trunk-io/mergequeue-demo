@@ -2312,7 +2312,6 @@ achromaticity
 achromatisation
 acrestaff
 achromatising
-achromatism
 achromatizable
 achromatization
 achromatize
@@ -15752,6 +15751,7 @@ antioxidizer
 antioxidizing
 antioxygen
 antioxygenation
+achromatism
 antioxygenator
 antioxygenic
 armoury
