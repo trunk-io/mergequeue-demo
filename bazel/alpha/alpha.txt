@@ -2362,6 +2362,7 @@ aciculum
 acid
 acidaemia
 appassionato
+adjectitious
 acidanthera
 acidaspis
 acidemia
@@ -3984,7 +3985,6 @@ adjection
 archicleistogamy
 anaemia
 adjectional
-adjectitious
 anastatica
 absorptance
 adjectival
