@@ -7197,6 +7197,7 @@ foothot
 fedn
 flippantness
 faraon
+features
 friz
 footy
 fruitions
@@ -10357,7 +10358,6 @@ frokin
 fletch
 frolic
 frolicful
-features
 foxskin
 foreslack
 frolicker
