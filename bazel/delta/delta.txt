@@ -9021,6 +9021,7 @@ dict
 dicta
 dehort
 dictaen
+dolichosoma
 dictamina
 dictaphone
 dictaphones
@@ -15177,7 +15178,6 @@ dolichosauri
 dracaenaceae
 dolichosauria
 dolichosaurus
-dolichosoma
 dolichuric
 dolichurus
 doliidae
