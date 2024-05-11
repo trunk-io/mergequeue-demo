@@ -14213,7 +14213,6 @@ antennula
 antennular
 antennule
 adelopod
-archplotter
 antenodal
 antenoon
 antenor
@@ -19880,6 +19879,7 @@ armadilla
 armadillididae
 acetylide
 armadillidium
+archplotter
 armadillos
 astrocyte
 abyssinians
