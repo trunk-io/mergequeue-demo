@@ -4653,7 +4653,6 @@ bedcovers
 beddable
 blader
 bromos
-blent
 bedding
 beddingroll
 bede
@@ -13862,6 +13861,7 @@ boxcars
 bowpin
 billete
 boxed
+blent
 boxen
 bytime
 boxful
