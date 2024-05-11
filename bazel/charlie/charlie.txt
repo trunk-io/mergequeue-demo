@@ -5129,7 +5129,6 @@ casebox
 cased
 casefy
 casefied
-casefies
 corneter
 concerting
 caseharden
@@ -6358,6 +6357,7 @@ concessionaries
 caustification
 caustified
 caustifying
+casefies
 columnwise
 cautela
 chancre
