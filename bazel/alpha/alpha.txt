@@ -72,7 +72,6 @@ abalone
 abalones
 abama
 aromata
-abamp
 abamperes
 aband
 abandon
@@ -19263,6 +19262,7 @@ arctalia
 arctalian
 arctan
 arctation
+abamp
 arctian
 antepretonic
 arctic
