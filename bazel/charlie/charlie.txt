@@ -10151,7 +10151,6 @@ cabinda
 chesses
 chesset
 chessylite
-carbuncled
 chessist
 chessman
 chirimen
@@ -31680,6 +31679,7 @@ colliquation
 cuspides
 chondromyxoma
 cesuras
+carbuncled
 cotyloid
 cuspidine
 cuspidor
