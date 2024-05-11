@@ -4649,7 +4649,6 @@ buntal
 bryophyte
 bratstva
 bedclothing
-byplays
 bedcovers
 beddable
 blader
@@ -12170,6 +12169,7 @@ boloing
 blushiness
 boloism
 boloman
+byplays
 bolomen
 bolometric
 bolometrically
