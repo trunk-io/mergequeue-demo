@@ -1884,7 +1884,6 @@ eir
 ectad
 entrepeneur
 ensampler
-enddamaging
 emim
 eirack
 eyrant
@@ -3774,6 +3773,7 @@ exscribe
 electroplax
 erythrons
 ethene
+enddamaging
 expendables
 emendable
 emendandum
