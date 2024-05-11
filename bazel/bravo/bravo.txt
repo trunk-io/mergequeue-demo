@@ -6525,6 +6525,7 @@ bannerette
 benzothiazoline
 basirhinal
 benzothiodiazole
+biternate
 benzothiofuran
 benzothiophene
 benzothiopyran
@@ -18137,7 +18138,6 @@ butchered
 butcherer
 blobbier
 ballyrag
-biternate
 bistouries
 butcheress
 butchery
