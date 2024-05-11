@@ -5556,7 +5556,6 @@ flickered
 flickermouse
 flossa
 flickers
-flickertail
 formaliter
 flicky
 fulsome
@@ -6907,6 +6906,7 @@ folky
 fidejussory
 folkish
 folkishness
+flickertail
 fasnacht
 folklike
 firmers
