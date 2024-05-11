@@ -193,7 +193,6 @@ bacchants
 birders
 baccharis
 baptizee
-baccharoid
 beguiling
 baccheion
 biriani
@@ -17816,6 +17815,7 @@ ballistics
 burnover
 bushido
 bumfs
+baccharoid
 bucerotes
 burnsian
 burnside
