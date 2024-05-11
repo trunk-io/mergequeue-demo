@@ -1458,6 +1458,7 @@ cryptographer
 callat
 callback
 celeusma
+closish
 callbacks
 callboy
 callboys
@@ -3561,7 +3562,6 @@ counterstrike
 colonel
 caqueterie
 caqueteuse
-closish
 caquetoire
 caquetoires
 cioppino
