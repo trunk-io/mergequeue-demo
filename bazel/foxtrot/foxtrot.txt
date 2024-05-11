@@ -4241,7 +4241,6 @@ fendable
 fireworky
 fastuous
 fireworkless
-fireworks
 firings
 firk
 firked
@@ -8688,6 +8687,7 @@ fame
 faveolus
 flanging
 fourness
+fireworks
 forthwith
 flamelike
 furcellaria
