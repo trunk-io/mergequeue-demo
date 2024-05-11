@@ -11780,6 +11780,7 @@ discrested
 discretely
 dogfall
 discreteness
+disjunctions
 distrouser
 dicht
 discretion
@@ -12593,7 +12594,6 @@ disjointness
 dulia
 disjoints
 disjointure
-disjunctions
 disjunctive
 disjunctively
 deseed
