@@ -361,7 +361,6 @@ antigone
 abhinaya
 asg
 abhominable
-abhor
 abhorrence
 abhorrent
 abhors
@@ -12448,6 +12447,7 @@ androtomy
 ands
 andvari
 angara
+abhor
 anear
 aneared
 anearing
