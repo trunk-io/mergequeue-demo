@@ -3414,7 +3414,6 @@ concertised
 caprin
 candlebeam
 cimelia
-caprinic
 capriola
 caprioled
 caprioles
@@ -30075,6 +30074,7 @@ crowned
 crowner
 crownet
 crownets
+caprinic
 crownland
 crownless
 crownlike
