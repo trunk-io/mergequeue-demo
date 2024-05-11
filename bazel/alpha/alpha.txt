@@ -6259,7 +6259,6 @@ aglucon
 aglucone
 agma
 agmas
-agmatine
 anucleated
 agminated
 agnails
@@ -12312,6 +12311,7 @@ ande
 andean
 accelerations
 almicore
+agmatine
 anders
 autoirrigation
 anderson
