@@ -5140,7 +5140,6 @@ footpaddery
 fanleaf
 felicitators
 frontate
-foliiform
 furmente
 flatworms
 frizzing
@@ -5631,6 +5630,7 @@ flincher
 flinching
 flinders
 fibrine
+foliiform
 frustrater
 formulizer
 flindosa
