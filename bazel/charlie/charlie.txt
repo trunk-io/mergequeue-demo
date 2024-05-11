@@ -15844,7 +15844,6 @@ clawlike
 claws
 claxon
 claxons
-clead
 cleaded
 cord
 cleam
@@ -17292,6 +17291,7 @@ canonically
 coaptation
 carnel
 coapted
+clead
 coapting
 coaration
 coarb
