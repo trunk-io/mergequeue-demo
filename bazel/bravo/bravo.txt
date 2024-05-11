@@ -12895,7 +12895,6 @@ bombycillidae
 booziness
 bop
 bopeep
-bopyrid
 bopyridae
 bopyridian
 bopped
@@ -16646,6 +16645,7 @@ baudery
 barbershops
 bucketer
 bucketful
+bopyrid
 bucketfull
 bucketmaker
 bucketmaking
