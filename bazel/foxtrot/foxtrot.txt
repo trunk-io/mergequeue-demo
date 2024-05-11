@@ -7503,7 +7503,6 @@ foreact
 false
 foreadvice
 forearmed
-foreallege
 fatstocks
 foreallot
 flatuses
@@ -8023,6 +8022,7 @@ forestalment
 funerals
 flourishy
 foss
+foreallege
 fourteenthly
 forestation
 flexional
