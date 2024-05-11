@@ -1735,6 +1735,7 @@ deathtrap
 deathtraps
 dhunchee
 deathward
+dikaryon
 deathwatches
 deathweed
 deathworm
@@ -10210,7 +10211,6 @@ dermatoglyphic
 dinornithoid
 dealfishes
 dino
-dikaryon
 dislustring
 dinosauria
 dressing
