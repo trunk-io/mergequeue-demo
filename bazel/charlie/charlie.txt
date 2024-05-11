@@ -5755,7 +5755,6 @@ catechisable
 catechisation
 catechise
 catechised
-catechiser
 chumming
 catechising
 calipered
@@ -11879,6 +11878,7 @@ chookie
 chookies
 choop
 choora
+catechiser
 concausal
 choosableness
 catamountain
