@@ -2460,6 +2460,7 @@ coasters
 candies
 candify
 candyh
+cueing
 candying
 candil
 candymaker
@@ -30645,7 +30646,6 @@ crenele
 comedist
 cuecas
 cued
-cueing
 coeffects
 cueist
 colombo
