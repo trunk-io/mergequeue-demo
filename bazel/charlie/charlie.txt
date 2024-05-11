@@ -2643,6 +2643,7 @@ cestas
 cankerroot
 cankers
 cankerweed
+clubmen
 cankerwort
 canli
 coff
@@ -17221,7 +17222,6 @@ coalyard
 coalier
 corozo
 coaliest
-clubmen
 coalify
 cymbaline
 coalification
