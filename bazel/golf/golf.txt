@@ -6871,7 +6871,6 @@ gthite
 geared
 gonophore
 geodesia
-gonophoric
 gyrofrequencies
 gonophs
 gauntleting
@@ -10337,6 +10336,7 @@ gulinula
 gulinular
 gulist
 garretmaster
+gonophoric
 gullably
 galenite
 gasometrically
