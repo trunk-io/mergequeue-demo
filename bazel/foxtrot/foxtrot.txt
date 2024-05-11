@@ -2399,7 +2399,6 @@ fconvert
 fs
 feoffer
 fiberous
-fetlow
 fenester
 flaxseed
 feoffors
@@ -11654,6 +11653,7 @@ fustilarian
 friendship
 faecal
 followers
+fetlow
 fustiness
 fustoc
 fusula
