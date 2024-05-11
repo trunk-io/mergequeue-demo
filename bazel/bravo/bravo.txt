@@ -5357,6 +5357,7 @@ beglue
 balas
 bloomery
 begnaw
+balmy
 begnawed
 begnawn
 budgero
@@ -13688,7 +13689,6 @@ bailouts
 butle
 bouzoukia
 bouzoukis
-balmy
 bovarism
 bovaristic
 bovate
