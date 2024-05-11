@@ -6646,7 +6646,6 @@ featness
 focalization
 focalizes
 forbye
-focimeter
 focsle
 flowerpot
 focus
@@ -10443,6 +10442,7 @@ fizzle
 freehandedly
 flustrating
 fatalist
+focimeter
 fitche
 frontirostria
 fared
