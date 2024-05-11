@@ -755,7 +755,6 @@ ecoute
 ecphorable
 ecphore
 ecphoria
-ecphoriae
 emotes
 ecphractic
 ecphrasis
@@ -8492,6 +8491,7 @@ eupyrene
 epulation
 epulis
 epulo
+ecphoriae
 edulcorator
 ethnologic
 energies
