@@ -7410,7 +7410,6 @@ cephalocone
 celestial
 cephaloconic
 cephalodia
-cephalodymia
 cephalodymus
 cephalodiscid
 checkweigher
@@ -27424,6 +27423,7 @@ courting
 courtly
 cogitos
 courtlier
+cephalodymia
 compreg
 chow
 courtliest
