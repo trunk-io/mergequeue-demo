@@ -8255,7 +8255,6 @@ bielectrolysis
 bielenite
 beardie
 brontophobia
-bielid
 burn
 byelorussia
 bandoline
@@ -13442,6 +13441,7 @@ bouchaleen
 boucharde
 bouche
 bouchee
+bielid
 beseeching
 boucher
 bouchette
