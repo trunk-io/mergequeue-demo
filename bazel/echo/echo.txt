@@ -2259,6 +2259,7 @@ exterminations
 electrizable
 electrization
 earthenware
+encrypting
 epigonus
 electroacoustic
 electroacoustical
@@ -10428,7 +10429,6 @@ ethnohistoric
 enquired
 etwite
 ethnol
-encrypting
 ethnolinguist
 ethnologer
 erysibe
