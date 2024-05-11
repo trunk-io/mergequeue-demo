@@ -3536,7 +3536,6 @@ droughermen
 disknow
 distomum
 deformable
-deformalize
 deformation
 deformational
 delete
@@ -18228,6 +18227,7 @@ dungbeck
 demioctangular
 dungbred
 deschampsia
+deformalize
 discussant
 dungeons
 dunger
