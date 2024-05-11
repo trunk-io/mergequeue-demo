@@ -3057,7 +3057,6 @@ fleas
 furiousness
 fins
 fiars
-fiaschi
 fiascos
 foreman
 fiat
@@ -10285,6 +10284,7 @@ frizzle
 frizzly
 fluxion
 fro
+fiaschi
 ferryage
 foggages
 frazing
