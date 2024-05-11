@@ -13105,7 +13105,6 @@ collocationable
 cyanogenetic
 cyanogenic
 cyanoguanidine
-coronillin
 cyanohermidin
 cyanol
 cyanole
@@ -15232,6 +15231,7 @@ clachs
 clack
 clackama
 circumtropical
+coronillin
 clacker
 clackers
 clacket
