@@ -7732,6 +7732,7 @@ floodlights
 finnack
 format
 fulls
+frequencies
 foreigneering
 fibrinous
 foreigner
@@ -9839,7 +9840,6 @@ frenzies
 freq
 frequence
 frequency
-frequencies
 frequent
 factored
 frequentage
