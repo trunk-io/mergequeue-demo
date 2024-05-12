@@ -7323,7 +7323,6 @@ eparterial
 endymal
 epaule
 epaulement
-epaulet
 effodientia
 epauleted
 electrologic
@@ -10067,6 +10066,7 @@ estrin
 estrins
 estriol
 estrogen
+epaulet
 estrogenic
 estrogenicity
 estrogens
