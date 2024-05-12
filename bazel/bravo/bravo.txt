@@ -1590,7 +1590,6 @@ ballistae
 bijous
 ballistician
 brachioganoidei
-ballisticians
 ballistocardiogram
 ballistocardiograph
 ballistocardiography
@@ -5379,6 +5378,7 @@ begoniaceae
 begoniaceous
 begoniales
 backslapping
+ballisticians
 billionaires
 basifacial
 begonias
