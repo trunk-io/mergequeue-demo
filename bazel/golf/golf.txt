@@ -4555,6 +4555,7 @@ gipsyhead
 gazehound
 gypsyhead
 gaitt
+graupel
 gradate
 gloeocapsoid
 giglot
@@ -8368,7 +8369,6 @@ glauconitization
 gratulated
 gratulation
 graunt
-graupel
 gravitations
 gipsylike
 gamb
