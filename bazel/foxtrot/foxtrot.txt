@@ -6646,6 +6646,7 @@ focal
 featness
 focalization
 focalizes
+formalize
 forbye
 focsle
 flowerpot
@@ -8403,7 +8404,6 @@ formalization
 flashers
 formalizations
 fictitiously
-formalize
 formerness
 formalized
 formalizer
