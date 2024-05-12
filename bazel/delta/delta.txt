@@ -8455,7 +8455,6 @@ dialogues
 dialoguing
 dialonian
 dials
-dialup
 ds
 dialuric
 defenestrated
@@ -13653,6 +13652,7 @@ drumbeating
 dissymmetric
 diligently
 dissymmetrical
+dialup
 dormie
 dissymmetrically
 dissymmettric
