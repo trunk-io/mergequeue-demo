@@ -2051,6 +2051,7 @@ facedown
 frenches
 feinting
 feis
+fatigueless
 flatlander
 ferberite
 fogbows
@@ -9011,7 +9012,6 @@ fourcher
 filea
 foveola
 favositoid
-fatigueless
 forewoman
 fourier
 fourierism
