@@ -5895,7 +5895,6 @@ enjambment
 emetomorphine
 enjambments
 ectomere
-erythroplastid
 encumbrancer
 enjoy
 enjoyable
@@ -9760,6 +9759,7 @@ engines
 editorialist
 equaling
 espino
+erythroplastid
 espinos
 enfoil
 evilsayer
