@@ -12863,6 +12863,7 @@ expalpate
 expandable
 expanded
 escropulo
+exsert
 expandedly
 expandedness
 expanders
@@ -13847,7 +13848,6 @@ egyptological
 euglobulin
 extractorship
 extracurial
-exsert
 extracurricular
 extracurriculum
 extracutaneous
