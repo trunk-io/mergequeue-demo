@@ -1482,7 +1482,6 @@ boyarisms
 blighter
 bostonese
 balkish
-blacktop
 baryton
 balks
 beggar
@@ -4249,6 +4248,7 @@ beatifically
 bought
 beatification
 beatified
+blacktop
 butylate
 begged
 beatifies
