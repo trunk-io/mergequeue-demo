@@ -4502,6 +4502,7 @@ beclogged
 beclogging
 beclogs
 bretonian
+bilabials
 beclothe
 beclothes
 blushwort
@@ -8509,7 +8510,6 @@ bikram
 bikukulla
 biogenous
 ballottable
-bilabials
 blackwood
 begulfing
 bilabiate
