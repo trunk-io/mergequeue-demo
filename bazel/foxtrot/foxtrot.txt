@@ -2728,7 +2728,6 @@ foreimpression
 ferule
 forfended
 feruled
-ferules
 ferulic
 fissipedate
 fervanite
@@ -2767,6 +2766,7 @@ fesse
 fessed
 foldouts
 foresentence
+ferules
 fesses
 flaunche
 fessewise
