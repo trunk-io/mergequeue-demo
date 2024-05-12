@@ -347,7 +347,6 @@ famines
 fiercening
 foreproduct
 fideicommissor
-fiendlike
 fainter
 faintest
 finspot
@@ -11668,6 +11667,7 @@ frustraneous
 fusus
 fundal
 filoselle
+fiendlike
 froglike
 flushable
 fut
