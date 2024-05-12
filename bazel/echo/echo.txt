@@ -2282,7 +2282,6 @@ electrocapillary
 electrocapillarity
 electrocardiogram
 electrocardiograms
-epacme
 electrocardiograph
 electrocardiographic
 electrocardiographically
@@ -4658,6 +4657,7 @@ ease
 enciphering
 executonis
 epigean
+epacme
 encircle
 elocutive
 encircled
