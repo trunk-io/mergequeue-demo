@@ -3822,7 +3822,6 @@ carbonarism
 creepers
 carbonarist
 carbonatation
-carbonated
 carbonates
 carbonating
 carbonation
@@ -5362,6 +5361,7 @@ castellated
 castellation
 castellatus
 castellet
+carbonated
 cyanformic
 castelli
 castellum
