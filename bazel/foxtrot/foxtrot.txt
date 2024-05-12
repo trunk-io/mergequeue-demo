@@ -5671,7 +5671,6 @@ flintwood
 fanfold
 ferreted
 flintworker
-facial
 flyover
 federary
 flyovers
@@ -9023,6 +9022,7 @@ fourneau
 fourpence
 fourpenny
 furrieries
+facial
 fourposter
 flabellarium
 finickingness
