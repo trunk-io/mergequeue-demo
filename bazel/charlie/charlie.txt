@@ -7494,6 +7494,7 @@ cequi
 cera
 cerago
 ceramal
+chessman
 ceramals
 cerambycid
 cerambycidae
@@ -10143,7 +10144,6 @@ chesses
 chesset
 chessylite
 chessist
-chessman
 chirimen
 chessner
 chessom
