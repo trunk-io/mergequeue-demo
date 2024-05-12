@@ -7504,7 +7504,6 @@ fibromyositis
 foreact
 false
 foreadvice
-forearmed
 fatstocks
 foreallot
 flatuses
@@ -11636,6 +11635,7 @@ fusty
 fustianish
 forbearingness
 fustianize
+forearmed
 fountainhead
 fustians
 fustics
