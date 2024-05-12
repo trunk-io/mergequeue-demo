@@ -29870,6 +29870,7 @@ crosshair
 crosshairs
 crosshand
 crosshatcher
+cubiform
 calesin
 crosshatches
 cogwheel
@@ -30483,7 +30484,6 @@ costly
 cubicular
 cubiculo
 cubiculum
-cubiform
 cubing
 cytogamy
 cubisms
