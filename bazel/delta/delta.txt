@@ -3328,7 +3328,6 @@ demideity
 duxes
 defier
 defiers
-defies
 defying
 defilades
 decoymen
@@ -15288,6 +15287,7 @@ diatonical
 dolt
 doltish
 doltishly
+defies
 dolts
 dom
 devilward
