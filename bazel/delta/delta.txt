@@ -5809,6 +5809,7 @@ depopulated
 depopulates
 depopulating
 depopulation
+dunged
 denitrize
 depopulative
 depopulator
@@ -16799,7 +16800,6 @@ draughtsboard
 draughtsman
 draughtsmanship
 draughtswomanship
-dunged
 drave
 dravya
 dravidian
