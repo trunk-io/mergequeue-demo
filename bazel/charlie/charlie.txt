@@ -23436,7 +23436,6 @@ campanularia
 contemporanean
 contemporaneity
 contemporaneous
-contemporaneously
 contemporaneousness
 contemporary
 contemporarily
@@ -27547,6 +27546,7 @@ coveralls
 coverchief
 cerberean
 covercle
+contemporaneously
 conform
 covered
 calculagraph
