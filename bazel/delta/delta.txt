@@ -6032,6 +6032,7 @@ depuratory
 depure
 depurge
 depurged
+diagonally
 depurging
 dermitis
 differentiative
@@ -8268,7 +8269,6 @@ diagonalization
 disinteresting
 diagnosing
 diseurs
-diagonally
 diagonals
 deducting
 diagonalwise
