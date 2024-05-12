@@ -519,7 +519,6 @@ discomposing
 dallis
 dalmania
 debussed
-deads
 dalmanites
 dalmatian
 dalmatians
@@ -14993,6 +14992,7 @@ doggies
 demoiselle
 doggish
 doggishly
+deads
 doggishness
 doggle
 doggo
