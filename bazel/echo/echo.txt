@@ -7880,6 +7880,7 @@ epilating
 epilation
 epileny
 endopeptidase
+extensible
 epilepsies
 epileptical
 epileptically
@@ -13671,7 +13672,6 @@ externs
 excavates
 externship
 externum
-extensible
 engrail
 ewers
 elocular
