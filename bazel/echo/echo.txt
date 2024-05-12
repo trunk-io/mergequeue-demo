@@ -7227,7 +7227,6 @@ eolotropic
 extraenteric
 eom
 eon
-exchange
 electrocatalytic
 eonian
 erotically
@@ -8615,6 +8614,7 @@ entomophilous
 exodontics
 equilibrates
 equilibrating
+exchange
 endocannibalism
 enrobers
 equilibrative
