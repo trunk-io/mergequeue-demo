@@ -5252,7 +5252,6 @@ anatomicomedical
 af
 afterpart
 automate
-afacing
 afara
 afd
 afear
@@ -24053,6 +24052,7 @@ affinage
 autoed
 almeries
 autoelectrolysis
+afacing
 autoelectrolytic
 autoelevation
 autoepigraph
