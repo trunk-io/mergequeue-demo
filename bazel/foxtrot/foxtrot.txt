@@ -8033,7 +8033,6 @@ flexional
 frontoethmoid
 forgetting
 forestcraft
-forested
 feats
 foresteep
 flash
@@ -9595,6 +9594,7 @@ freeman
 felicify
 flitches
 freaks
+forested
 forfear
 fellage
 floristic
