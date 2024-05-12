@@ -2974,6 +2974,7 @@ filamented
 feuillage
 furcation
 foreshows
+flyoff
 feuillants
 feuilleton
 feuilletons
@@ -5666,7 +5667,6 @@ flintwood
 fanfold
 ferreted
 flintworker
-flyoff
 facial
 flyover
 federary
