@@ -301,7 +301,6 @@ backbit
 behav
 backbite
 browbound
-backbiters
 backbites
 backbiting
 beeman
@@ -16485,6 +16484,7 @@ badness
 brutified
 blastplate
 barbarianize
+backbiters
 blackplate
 burners
 brutifies
