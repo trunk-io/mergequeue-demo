@@ -856,7 +856,6 @@ baga
 billikin
 bagasse
 bagasses
-bagataway
 bari
 bruxisms
 beflags
@@ -12953,6 +12952,7 @@ bordage
 bibliogony
 bordar
 bordarius
+bagataway
 bordeaux
 banquettes
 bordels

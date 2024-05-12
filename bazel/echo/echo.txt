@@ -5555,7 +5555,6 @@ ephemerae
 effectiveness
 excusers
 esophoria
-enforceability
 enforceable
 enforced
 enforcement
@@ -12069,6 +12068,7 @@ exclusiveness
 enclitic
 exclusivism
 esdragol
+enforceability
 earstones
 exclusivist
 esotery
