@@ -7628,7 +7628,6 @@ alcalde
 alcaldes
 alcaldeship
 alcaldia
-alcali
 alcalizate
 alcalzar
 alcamine
@@ -22818,6 +22817,7 @@ atoneable
 atoned
 atonement
 atoners
+alcali
 atones
 anocarpous
 atony
