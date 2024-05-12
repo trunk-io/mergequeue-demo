@@ -2892,7 +2892,6 @@ acrodermatitis
 acrodynia
 acrodont
 acrodontism
-acrodonts
 archegoniata
 archvagabond
 acrodrome
@@ -15556,6 +15555,7 @@ antimethodical
 antimethodicalness
 antimetrical
 alone
+acrodonts
 antimetropia
 antimetropic
 antimiasmatic
