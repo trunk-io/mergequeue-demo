@@ -12218,7 +12218,6 @@ anchorets
 autotransplant
 angiometer
 almach
-anchory
 anchorite
 astate
 anchorites
@@ -17690,6 +17689,7 @@ appellations
 appellative
 appellatived
 appellativeness
+anchory
 arriccioci
 appellee
 appellees
