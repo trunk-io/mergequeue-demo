@@ -5148,6 +5148,7 @@ glasshouses
 grizzlies
 glassie
 gateaux
+glued
 glassies
 glassin
 gravigrada
@@ -8916,7 +8917,6 @@ gull
 grieced
 griecep
 gnathion
-glued
 ganglier
 giveaway
 grieffully
