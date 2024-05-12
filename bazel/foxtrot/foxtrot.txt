@@ -4479,6 +4479,7 @@ feuder
 feedable
 festschriften
 fisticuff
+freebees
 fort
 filching
 fouldre
@@ -9632,7 +9633,6 @@ follying
 frederik
 free
 fluorid
-freebees
 fetoplacental
 freeby
 fantasmagoric

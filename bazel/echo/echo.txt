@@ -6996,7 +6996,6 @@ entrep
 entrepas
 entrepeneurs
 externally
-entrepots
 effatum
 entrepreneur
 equips
@@ -13350,6 +13349,7 @@ expounds
 enthrong
 expreme
 express
+entrepots
 expressable
 exophagy
 expressage
