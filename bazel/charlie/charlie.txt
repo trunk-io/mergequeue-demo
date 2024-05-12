@@ -7152,7 +7152,6 @@ caudatum
 clunker
 centiliter
 centiliters
-centilitre
 chimed
 centillionth
 centiloquy
@@ -12798,6 +12797,7 @@ chugging
 calyculi
 chughole
 chugs
+centilitre
 chuje
 colewort
 chukar
