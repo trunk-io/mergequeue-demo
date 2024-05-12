@@ -9927,7 +9927,6 @@ chastizer
 chemoautotrophic
 curiological
 chemoautotrophically
-chemoceptor
 chemokinesis
 chemokinetic
 chemolysis
@@ -24089,6 +24088,7 @@ convergences
 convergency
 columbary
 convergent
+chemoceptor
 converges
 convergescence
 converginerved
