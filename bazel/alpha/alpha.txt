@@ -13634,7 +13634,6 @@ atwain
 announce
 announced
 announcements
-adenectopic
 arbalestre
 announces
 astrophyllite
@@ -21604,6 +21603,7 @@ assayers
 assaying
 assail
 assailable
+adenectopic
 assailableness
 anteporch
 anotropia
