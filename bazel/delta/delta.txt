@@ -3622,6 +3622,7 @@ degass
 degassed
 demandant
 degassing
+disappears
 degauss
 dunnesses
 degaussing
@@ -9695,7 +9696,6 @@ dilatedly
 demythologized
 disunified
 dilatedness
-disappears
 disrespectful
 dilatement
 dilater
