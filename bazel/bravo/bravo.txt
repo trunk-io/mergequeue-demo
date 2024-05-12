@@ -680,6 +680,7 @@ bacteriotoxin
 bacteriotrypsin
 bynames
 bacteriotropic
+bubonoceze
 blepharedema
 bacterious
 barbotte
@@ -16556,7 +16557,6 @@ bubonic
 bealing
 brocked
 bubonocele
-bubonoceze
 beamster
 bubs
 bubukle
