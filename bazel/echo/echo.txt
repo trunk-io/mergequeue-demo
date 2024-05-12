@@ -11223,7 +11223,6 @@ evacuator
 escuage
 evacuators
 emotiomuscular
-ectopatagium
 ewhow
 erythrogenesis
 esterlin
@@ -11980,6 +11979,7 @@ excircle
 excisable
 esmeraldan
 esker
+ectopatagium
 encyclopaedism
 excise
 exciseman

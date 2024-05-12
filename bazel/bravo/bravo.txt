@@ -617,7 +617,6 @@ biblist
 bacterial
 bacterially
 bacteric
-bactericidal
 bactericidally
 bactericide
 beethoven
@@ -6929,6 +6928,7 @@ belout
 blandishment
 bullhoof
 bescatter
+bactericidal
 balletic
 blibe
 bruchid
