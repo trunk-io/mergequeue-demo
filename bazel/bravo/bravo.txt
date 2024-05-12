@@ -7913,7 +7913,6 @@ bibble
 beclose
 bibbler
 blooms
-bibcocks
 bibelot
 balneography
 botchka
@@ -18394,6 +18393,7 @@ burghermaster
 buzzies
 buzziest
 buzzing
+bibcocks
 buzzingly
 buzzle
 beardfish
