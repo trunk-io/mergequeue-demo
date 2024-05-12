@@ -9769,7 +9769,6 @@ foretoken
 freightage
 fluorite
 fringe
-fourchette
 fatten
 freightyard
 fallalishly
@@ -9806,6 +9805,7 @@ frenatae
 french
 frenched
 frenchen
+fourchette
 frenchify
 frenchification
 freakful
