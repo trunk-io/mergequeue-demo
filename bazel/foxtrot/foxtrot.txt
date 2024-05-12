@@ -3438,7 +3438,6 @@ fifties
 fumiduct
 fiftieth
 forseen
-forefeet
 fiftypenny
 figary
 figaro
@@ -10372,6 +10371,7 @@ fromages
 feeable
 fromenty
 faveoli
+forefeet
 fromenties
 fitten
 frizzlers
