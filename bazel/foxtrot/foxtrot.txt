@@ -1733,6 +1733,7 @@ foreyards
 feasibleness
 feasibly
 factorized
+fangle
 fasciodesis
 feasor
 foreworld
@@ -8178,7 +8179,6 @@ frostbird
 forewings
 faldetta
 foothils
-fangle
 forewit
 forewords
 flung
