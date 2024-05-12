@@ -3036,7 +3036,6 @@ deemie
 decrepitate
 denicotine
 dopamines
-deemphasis
 deemphasize
 deemphasized
 deems
@@ -12586,6 +12585,7 @@ discapacitate
 disjoin
 disjoinable
 disjoining
+deemphasis
 dastard
 descendentalist
 disjoins
