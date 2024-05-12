@@ -6284,7 +6284,6 @@ dweeble
 divorceuse
 dermatomycosis
 dermatomyoma
-dermatomuscular
 dermatoneural
 dermatoneurology
 dermatoneurosis
@@ -17989,6 +17988,7 @@ duikerboks
 dantonesque
 downwarp
 duim
+dermatomuscular
 duinhewassel
 duit
 dujan
