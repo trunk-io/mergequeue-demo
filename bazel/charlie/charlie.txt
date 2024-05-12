@@ -3875,7 +3875,6 @@ carbonizing
 carbonless
 carbonnieux
 carbonometer
-carpuspi
 carbonometry
 chondrin
 carbonous
@@ -18920,6 +18919,7 @@ conceding
 collaret
 collarette
 clypeaster
+carpuspi
 collaring
 coupelet
 caimito
