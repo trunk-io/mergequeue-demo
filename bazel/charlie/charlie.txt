@@ -11372,7 +11372,6 @@ coincider
 chlorococcum
 chlorococcus
 chlorocresol
-chlorocruorin
 chlorodyne
 chlorodize
 chlorodized
@@ -25805,6 +25804,7 @@ corrigiolaceae
 corrival
 corrivality
 corrivalry
+chlorocruorin
 corrivals
 corrivalship
 corrivate
