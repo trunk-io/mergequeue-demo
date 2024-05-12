@@ -4882,6 +4882,7 @@ abaris
 aequi
 arariba
 aequipalpia
+arrival
 aranein
 aequor
 aequorin
@@ -20311,7 +20312,6 @@ arrisways
 akasha
 arriswise
 arrythmic
-arrival
 animalcula
 arrivals
 arrive
