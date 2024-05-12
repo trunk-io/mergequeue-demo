@@ -6894,7 +6894,6 @@ cellvibrio
 classicized
 celom
 celomata
-celoms
 celoscope
 celosia
 celosias
@@ -21035,6 +21034,7 @@ computes
 computing
 computist
 computus
+celoms
 communisteries
 comrade
 comradely
