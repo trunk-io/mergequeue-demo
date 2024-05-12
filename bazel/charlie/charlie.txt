@@ -141,6 +141,7 @@ catholici
 cabled
 cablegram
 cablegrams
+cruors
 cablelaid
 cableless
 cablelike
@@ -27809,7 +27810,6 @@ coxopodite
 coxswain
 coxswained
 coxswains
-cruors
 chelation
 containerizes
 coxwaining
