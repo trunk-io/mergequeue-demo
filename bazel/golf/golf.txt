@@ -1763,7 +1763,6 @@ gastroenterology
 gelatination
 gaffsman
 gastroenterologic
-gastroenterostomies
 gandurah
 gastroepiploic
 guardants
@@ -4039,6 +4038,7 @@ gemonies
 giher
 groroilite
 gildings
+gastroenterostomies
 glycosuric
 gnathobase
 gloomier
