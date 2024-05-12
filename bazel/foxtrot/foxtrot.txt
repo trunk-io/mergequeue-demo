@@ -1352,7 +1352,6 @@ fatbacks
 fructivorous
 fatbird
 fated
-fateful
 fatefully
 fibromata
 farandola
@@ -6033,6 +6032,7 @@ floretty
 flory
 floria
 floriage
+fateful
 floriated
 floriation
 floricin
