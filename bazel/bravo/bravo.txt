@@ -8478,7 +8478,6 @@ bihalve
 boatly
 backstone
 bodle
-biham
 bihamate
 birches
 byhand
@@ -12491,6 +12490,7 @@ bongoists
 beaus
 bedposts
 bongrace
+biham
 burgwere
 bonhomies
 bonhomous
