@@ -2385,7 +2385,6 @@ fenzelia
 feod
 firestopping
 fehmic
-factories
 feodum
 farewelled
 feoff
@@ -5449,6 +5448,7 @@ flagfall
 fletcherism
 fletcherite
 following
+factories
 fletchers
 fletches
 furrower
