@@ -2072,6 +2072,7 @@ bicollaterality
 brinkless
 bankrolled
 bankrolling
+boatsman
 bankrupcy
 bankrupt
 bosporan
@@ -4464,7 +4465,6 @@ beckie
 becking
 browny
 bearings
-boatsman
 beckoner
 beckoners
 beckoningly
