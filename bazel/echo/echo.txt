@@ -2351,7 +2351,6 @@ electrodes
 electrodesiccation
 electrodiagnosis
 entoblast
-electrodiagnostic
 esterling
 edda
 electrodiagnostically
@@ -10132,6 +10131,7 @@ eking
 eternality
 endothelioma
 eurhythmical
+electrodiagnostic
 esoterical
 eternalize
 eternalized
