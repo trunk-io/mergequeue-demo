@@ -15074,6 +15074,7 @@ citrals
 citramide
 citramontane
 citrangeade
+controllability
 citrate
 capsize
 capillarimeter
@@ -23889,7 +23890,6 @@ contrivers
 contrives
 control
 controling
-controllability
 controllable
 controllably
 controller
