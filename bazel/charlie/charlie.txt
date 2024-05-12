@@ -8483,7 +8483,6 @@ chamaebatia
 chamaecranial
 compinge
 corkir
-chamaecrista
 calorisator
 chamaeleo
 chamaeleon
@@ -12533,6 +12532,7 @@ chromogen
 chromogene
 chromogenesis
 chromogenetic
+chamaecrista
 cranemanship
 chromogenous
 chromoisomer
