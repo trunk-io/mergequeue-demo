@@ -3822,7 +3822,6 @@ excludible
 exemplarily
 emeu
 engladden
-emeutes
 emf
 emforth
 emic
@@ -13906,6 +13905,7 @@ extranean
 extraneity
 eolith
 extraneous
+emeutes
 epipleura
 extraneousness
 elytrorrhagia
