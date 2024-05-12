@@ -15818,7 +15818,6 @@ claviole
 clavipectoral
 clavis
 clavises
-clavolae
 clavolet
 chapel
 clavus
@@ -30084,6 +30083,7 @@ crownless
 crownlike
 crownmaker
 crownment
+clavolae
 crownpiece
 crownwork
 crownwort
