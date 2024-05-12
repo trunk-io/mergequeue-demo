@@ -6622,6 +6622,7 @@ cecomorphic
 cecopexy
 cecostomy
 cecropia
+carders
 cecrops
 codifier
 chaptalized
@@ -24860,7 +24861,6 @@ coraciidae
 coraciiformes
 coracine
 coracle
-carders
 coracles
 coracoacromial
 coracobrachial
