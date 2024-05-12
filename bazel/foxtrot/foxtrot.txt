@@ -1345,7 +1345,6 @@ finds
 flauntier
 fatalities
 fatally
-fatalness
 flap
 foreturn
 former
@@ -5618,6 +5617,7 @@ fianchetto
 flimsiness
 flinch
 flagleaf
+fatalness
 forecabin
 freighters
 foulnesses
