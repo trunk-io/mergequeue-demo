@@ -5083,7 +5083,6 @@ flasklet
 flasks
 flasque
 flatcaps
-flatcar
 flated
 flatette
 flatfishes
@@ -10610,6 +10609,7 @@ foughty
 feuar
 frubbish
 favose
+flatcar
 fruchtschiefer
 forespoken
 fructescent
