@@ -5354,7 +5354,6 @@ affines
 affinitative
 affinitatively
 aggerate
-affinity
 affinities
 affinition
 affinitive
@@ -12288,6 +12287,7 @@ anconal
 anticipate
 anconas
 ancone
+affinity
 anconeous
 ancones
 anconeus
