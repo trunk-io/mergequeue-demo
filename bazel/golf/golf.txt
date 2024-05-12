@@ -6209,6 +6209,7 @@ gloriette
 gnaws
 gneiss
 grotesquely
+gravitometer
 gombos
 gressible
 greatcoats
@@ -8491,7 +8492,6 @@ guarri
 gravities
 guatemala
 glycins
-gravitometer
 graviton
 gravitons
 gravure
