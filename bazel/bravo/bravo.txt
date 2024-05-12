@@ -3767,7 +3767,6 @@ battlegrounds
 barway
 battlement
 battlements
-battlepiece
 barnstorms
 battler
 battles
@@ -5602,6 +5601,7 @@ bajri
 bejuggle
 bejumbles
 bejumbling
+battlepiece
 bibliotherapist
 bunko
 bekah

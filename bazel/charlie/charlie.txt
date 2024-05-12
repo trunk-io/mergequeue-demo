@@ -11884,7 +11884,6 @@ choose
 chooseable
 coaster
 copaljocote
-caprock
 chooser
 choosers
 cadilesker
@@ -23490,6 +23489,7 @@ contently
 contentment
 contents
 contenu
+caprock
 conterminable
 callorhynchus
 conterminant
