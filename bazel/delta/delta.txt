@@ -15496,7 +15496,6 @@ discover
 done
 diaries
 deduct
-donec
 donees
 diswarren
 dismalness
@@ -15719,6 +15718,7 @@ disseated
 dragsaw
 dorje
 dorm
+donec
 downlie
 dormancies
 dormer
