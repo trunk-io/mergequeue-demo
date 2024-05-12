@@ -1526,7 +1526,6 @@ balladromic
 ballads
 ballahou
 ballam
-ballan
 baralipton
 bousing
 becost
@@ -3506,6 +3505,7 @@ brecciate
 bullaces
 batatas
 batavi
+ballan
 bidar
 begirdles
 biscuiting
