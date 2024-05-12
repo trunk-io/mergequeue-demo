@@ -2221,7 +2221,6 @@ gaycat
 gastrotomy
 gorrel
 geadephaga
-geogenetic
 geal
 gubernacula
 gurish
@@ -2627,6 +2626,7 @@ genep
 genepi
 grinder
 genera
+geogenetic
 generable
 guideress
 generalcy
