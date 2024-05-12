@@ -2051,6 +2051,7 @@ elapids
 euthyneural
 elapine
 elapse
+endoblast
 edificant
 epigyny
 englory
@@ -4997,7 +4998,6 @@ elan
 endoauscultation
 endobatholithic
 effervescently
-endoblast
 exauthorize
 extensionally
 endobronchial
