@@ -7117,7 +7117,6 @@ empemata
 envisagement
 envisaging
 emulable
-envision
 extrapolative
 envisioning
 eye
@@ -11754,6 +11753,7 @@ encumbering
 examinatorial
 examine
 echopraxia
+envision
 episcopise
 examined
 examinee
