@@ -1017,7 +1017,6 @@ draffsack
 darkling
 darkmans
 disannexation
-darkroom
 dineutron
 darkskin
 darksomeness
@@ -4723,6 +4722,7 @@ demisangue
 demisavage
 doable
 diswench
+darkroom
 demiscible
 demise
 demisecond
