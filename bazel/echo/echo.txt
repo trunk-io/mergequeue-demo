@@ -8793,7 +8793,6 @@ eranist
 enterozoan
 eranthemum
 erasability
-erasable
 erased
 epiploic
 eraser
@@ -10383,6 +10382,7 @@ ethnish
 europa
 ethnobiological
 elingued
+erasable
 entoolitic
 email
 ethnocentricity
