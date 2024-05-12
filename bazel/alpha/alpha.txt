@@ -5955,7 +5955,6 @@ archfelon
 agencies
 agend
 ampyx
-agenda
 agendaless
 agendas
 agendum
@@ -22306,6 +22305,7 @@ astrogeologist
 abraser
 anniversaries
 astroglia
+agenda
 asteriskless
 apophorometer
 astrognosy
