@@ -4130,7 +4130,6 @@ beano
 beanos
 beanpole
 bagge
-beanpoles
 beans
 beansetter
 beanshooter
@@ -14777,6 +14776,7 @@ barbel
 breadths
 breadthways
 breadwinner
+beanpoles
 beltwise
 bedded
 breadwinning
