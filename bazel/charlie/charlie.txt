@@ -3266,7 +3266,6 @@ chobdar
 campshot
 capitulator
 capituliform
-capitulum
 capiturlary
 celebratory
 caplan
@@ -18160,6 +18159,7 @@ coerected
 coerecting
 coerects
 coeruleolactite
+capitulum
 careeners
 coesite
 cutset
