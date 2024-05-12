@@ -194,7 +194,6 @@ gyro
 glede
 gager
 gagership
-gages
 gather
 granadine
 gagger
@@ -5320,6 +5319,7 @@ glenoid
 glenoidal
 glent
 glauconitic
+gages
 gangly
 glowerer
 guitarfish
