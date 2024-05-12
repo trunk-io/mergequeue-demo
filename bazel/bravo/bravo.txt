@@ -10625,6 +10625,7 @@ blazons
 bld
 bothriocidaris
 bleach
+bluebutton
 bleachable
 bleached
 bleacher
@@ -11362,7 +11363,6 @@ bluebreast
 bluebuck
 bashlik
 bluebush
-bluebutton
 build
 bluecap
 bibbed
