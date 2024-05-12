@@ -6900,6 +6900,7 @@ forbearances
 flashingly
 folkcraft
 felsitic
+forestaysail
 folkfree
 folky
 fidejussory
@@ -8008,7 +8009,6 @@ fireplough
 forestays
 forehinting
 flashbulb
-forestaysail
 forestal
 forestalled
 flatling
