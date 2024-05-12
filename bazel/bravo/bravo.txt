@@ -5641,7 +5641,6 @@ bruscus
 beachcomber
 belaboring
 blankit
-belabours
 belace
 bulletheaded
 bewigs
@@ -9457,6 +9456,7 @@ birdsnest
 birdstone
 befitting
 basichromatic
+belabours
 bescent
 browpiece
 braider
