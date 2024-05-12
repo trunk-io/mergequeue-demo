@@ -20040,7 +20040,6 @@ commensurated
 commensurateness
 commensurating
 commensuration
-cerealin
 commensurations
 comment
 commentable
@@ -27576,6 +27575,7 @@ coverup
 cadency
 coves
 covet
+cerealin
 covetable
 coveted
 coveter
