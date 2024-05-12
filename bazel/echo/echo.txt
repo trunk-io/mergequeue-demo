@@ -1342,7 +1342,6 @@ endoskeletal
 exomis
 ebcdic
 effervesces
-effervescingly
 enopla
 effervescive
 endopod
@@ -13796,6 +13795,7 @@ endowers
 extratropical
 extendible
 extracerebral
+effervescingly
 electrophilic
 extracystic
 extracivic
