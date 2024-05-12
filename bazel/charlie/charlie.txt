@@ -3617,6 +3617,7 @@ caracter
 caradoc
 carafe
 carafes
+censors
 cornicing
 cocineras
 caragana
@@ -7039,7 +7040,6 @@ censoring
 censorious
 censoriously
 censoriousness
-censors
 censorship
 coenobiod
 censurability
