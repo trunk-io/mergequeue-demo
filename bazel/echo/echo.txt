@@ -2244,7 +2244,6 @@ electricize
 entreater
 equidistantial
 electriferous
-enteroscope
 energumen
 electrified
 esthetophore
@@ -13522,6 +13521,7 @@ epochs
 entosclerite
 eloquence
 exspuition
+enteroscope
 eupractic
 exstemporaneous
 exstill
