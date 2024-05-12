@@ -1576,7 +1576,6 @@ gashing
 guazuti
 guarded
 garneter
-greedily
 gashouse
 generale
 galosh
@@ -2251,6 +2250,7 @@ gecarcinian
 grassmen
 gecarcinidae
 garnering
+greedily
 glycerinating
 gaedown
 gorged
