@@ -6532,7 +6532,6 @@ benzotrifluoride
 benzoxate
 bolection
 benzoxyacetic
-benzoxycamphor
 benzpinacone
 benztrioxazine
 biostratigraphy
@@ -16852,6 +16851,7 @@ buffont
 backhauled
 buffoon
 buffooneries
+benzoxycamphor
 buffoonesque
 bathysophic
 buffoonish

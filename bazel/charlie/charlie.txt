@@ -7910,6 +7910,7 @@ cervicolingual
 cervicolumbar
 crystal
 cervicomuscular
+chiasmi
 cerviconasal
 cribrous
 crotchy
@@ -10279,7 +10280,6 @@ chiasmata
 chiasmatic
 connaraceae
 chiasmatype
-chiasmi
 counterformula
 chiasmic
 chiasmodontid
