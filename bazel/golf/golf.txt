@@ -61,6 +61,7 @@ gips
 gelatiniser
 gableboard
 gabled
+gangue
 gabler
 guemal
 gables
@@ -7861,7 +7862,6 @@ grandaunts
 grandbaby
 granularity
 granddaddies
-gangue
 granddaughter
 grande
 greetingless
