@@ -6112,7 +6112,6 @@ bemoat
 bilabial
 bemock
 breads
-bemocked
 bemocking
 blennuria
 bacteriostasis
@@ -14323,6 +14322,7 @@ brainlessly
 brainlessness
 bacteroides
 brainlike
+bemocked
 brainpan
 brainpans
 bridgings
