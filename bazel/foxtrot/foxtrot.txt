@@ -16,6 +16,7 @@ footsoldier
 fabled
 ferry
 fablemaker
+forestay
 feebler
 fablemongering
 fuder
@@ -6718,7 +6719,6 @@ fairways
 fogdom
 foeffment
 foge
-forestay
 fascet
 fogfruit
 foretype
