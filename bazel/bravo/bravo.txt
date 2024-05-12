@@ -6422,7 +6422,6 @@ benzamine
 benzaminic
 benzamino
 barrer
-benzanalgen
 benzanilide
 benzanthracene
 boxboard
@@ -7908,6 +7907,7 @@ biasnesses
 barometrical
 biatomic
 biauricular
+benzanalgen
 biauriculate
 biaxiality
 beshrouds
