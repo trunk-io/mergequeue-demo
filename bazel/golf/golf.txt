@@ -6649,7 +6649,6 @@ gapy
 gomeisa
 gromwell
 gozill
-gnus
 grammatolator
 gomer
 grew
@@ -10103,6 +10102,7 @@ guggle
 guerdonable
 gipseian
 garcons
+gnus
 guggled
 geotectology
 guggling
