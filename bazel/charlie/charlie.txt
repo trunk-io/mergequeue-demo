@@ -2033,7 +2033,6 @@ campagnol
 campagnols
 campagus
 campaign
-campaigner
 clotheshorses
 campaigners
 campaigning
@@ -11097,6 +11096,7 @@ chiseling
 commoned
 chiselled
 chiseller
+campaigner
 chiselly
 chisellike
 chiselling
