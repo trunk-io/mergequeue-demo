@@ -13222,7 +13222,6 @@ actionable
 animater
 animaters
 angekok
-animates
 animating
 animatingly
 animation
@@ -14443,6 +14442,7 @@ anthologically
 anthologies
 anthologion
 anthologise
+animates
 anthologised
 anthologising
 anthologize

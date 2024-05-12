@@ -914,6 +914,7 @@ guarding
 gossan
 grammaticality
 gamelang
+graceful
 gonagia
 gamelans
 gameless
@@ -7554,7 +7555,6 @@ grabouche
 grabs
 glasgow
 graced
-graceful
 garpike
 gynerium
 gilbertite
