@@ -5643,7 +5643,6 @@ engelmannia
 estrual
 engender
 engendered
-engenderment
 engenders
 engendrure
 engendure
@@ -9266,6 +9265,7 @@ endangerment
 epistome
 erotize
 extract
+engenderment
 excl
 erotogenetic
 estheriidae
