@@ -3096,7 +3096,6 @@ fishmen
 festine
 flagstaves
 fertilising
-fungoid
 farouk
 franchising
 fiberscope
@@ -11591,6 +11590,7 @@ faucet
 feu
 fusilladed
 fetterless
+fungoid
 fusillading
 fusilly
 falcidian
