@@ -2250,6 +2250,7 @@ deceive
 deceiver
 deceivers
 deceiving
+deflex
 dustbox
 decelerates
 decelerator
@@ -3440,7 +3441,6 @@ deflectors
 deflects
 dichlorvos
 deflesh
-deflex
 deflexed
 deflexibility
 deflexible
