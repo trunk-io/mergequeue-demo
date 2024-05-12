@@ -1876,7 +1876,6 @@ banderma
 benkulen
 banderol
 banderole
-biochemical
 brigading
 banders
 banjara
@@ -10169,6 +10168,7 @@ blackfins
 blackfire
 batster
 burntness
+biochemical
 bas
 batholite
 blackfishes
