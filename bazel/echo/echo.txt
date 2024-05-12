@@ -2393,6 +2393,7 @@ electroengrave
 epoist
 electroengraving
 electroextraction
+eastbound
 earthquaked
 elutriate
 electroforming
@@ -6231,7 +6232,6 @@ enows
 epsilon
 enridged
 exarchal
-eastbound
 ecclesiastry
 expediencies
 exalte
