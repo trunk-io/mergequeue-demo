@@ -16259,7 +16259,6 @@ cask
 clinicopathological
 clinid
 clinkant
-clinker
 clinkered
 clinkerer
 clinkery
@@ -22635,6 +22634,7 @@ correlatively
 connivancy
 connivantly
 connive
+clinker
 connived
 connivent
 chromochalcography
