@@ -3401,6 +3401,7 @@ deflagrable
 decolor
 deflagrates
 deflagrating
+dithionate
 deflagration
 deflagrator
 deflate
@@ -14198,7 +14199,6 @@ deb
 diablery
 deviances
 dithion
-dithionate
 dithionite
 dithionous
 dithyrambos
