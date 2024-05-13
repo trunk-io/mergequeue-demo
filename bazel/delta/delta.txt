@@ -6034,7 +6034,6 @@ drayages
 depudorate
 depulse
 depurate
-depurating
 depuration
 depurative
 depurator
@@ -11229,6 +11228,7 @@ domesticability
 dangler
 decrescendos
 disbudded
+depurating
 dearths
 dysbulia
 detoxifies
