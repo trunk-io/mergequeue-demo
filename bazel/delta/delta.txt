@@ -3344,7 +3344,6 @@ dakoits
 dorsoposteriad
 defeatment
 defiledness
-defilement
 disrates
 displeased
 defilers
@@ -16868,6 +16867,7 @@ drawlink
 drawloom
 drawls
 drawn
+defilement
 dipleuric
 determinativeness
 dissyllabise
