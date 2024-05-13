@@ -10245,7 +10245,6 @@ germarium
 geomagnetism
 guinevere
 guanases
-guinfo
 gemmy
 gashliness
 genian
@@ -10740,6 +10739,7 @@ graminin
 granule
 glycerinate
 gomerels
+guinfo
 gignate
 gutium
 gimbals
