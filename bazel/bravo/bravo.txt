@@ -4754,7 +4754,6 @@ bedizenment
 bedizens
 bedkey
 bourses
-bedlamer
 booked
 braze
 bedlamise
@@ -6528,6 +6527,7 @@ benzosulfimide
 barbaresque
 benzosulphimide
 beetlers
+bedlamer
 benzothiazine
 buoyages
 bannerette

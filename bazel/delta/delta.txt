@@ -3967,7 +3967,6 @@ deking
 dustcoat
 dotage
 douser
-decameter
 dekle
 deyship
 del
@@ -5235,6 +5234,7 @@ directives
 doctrinalist
 dyings
 daemon
+decameter
 denitrator
 deathly
 denitrify
