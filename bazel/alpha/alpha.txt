@@ -2666,7 +2666,6 @@ acoumetry
 acounter
 acouometer
 adjacently
-acoluthic
 acoup
 acousmatic
 acoustic
@@ -9154,6 +9153,7 @@ almice
 almida
 ammonites
 anserin
+acoluthic
 almighty
 anthropophysite
 ageist
