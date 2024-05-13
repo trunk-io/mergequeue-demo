@@ -4068,7 +4068,6 @@ calla
 cardiameter
 cardianesthesia
 cardianeuria
-cardiaplegia
 cardiarctia
 choyaroot
 counterrevolution
@@ -7553,6 +7552,7 @@ ceratodus
 ceratoduses
 coistrils
 ceratoglossal
+cardiaplegia
 ceratohyal
 ceratohyoid
 ceratoid
