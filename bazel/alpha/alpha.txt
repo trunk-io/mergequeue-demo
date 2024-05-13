@@ -9362,7 +9362,6 @@ alphabetology
 antidynasty
 alphameric
 alphamerically
-alphanumerical
 alphanumerics
 alphard
 areole
@@ -22034,6 +22033,7 @@ archaicism
 astatines
 astatize
 antitraditionalist
+alphanumerical
 antiaristocrat
 astatized
 astatizer
