@@ -19347,7 +19347,6 @@ cadmean
 colopexy
 colopexia
 colopexotomy
-colophane
 colophany
 colophene
 cranny
@@ -28452,6 +28451,7 @@ creancer
 creant
 crease
 creased
+colophane
 creaseless
 creaser
 chloralism
