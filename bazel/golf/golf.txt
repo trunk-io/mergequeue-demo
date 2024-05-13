@@ -1462,7 +1462,6 @@ garnished
 garnishee
 garnisheed
 garnishees
-guilloche
 garnishes
 glossanthrax
 garnishment
@@ -4269,6 +4268,7 @@ gymnostomata
 grotesquery
 gripless
 gymnotus
+guilloche
 ginward
 garnishable
 gest
