@@ -11639,6 +11639,7 @@ boatloader
 boatloading
 boatloads
 boatman
+bowllike
 beigy
 beclown
 boatmanship
@@ -13832,7 +13833,6 @@ burghs
 bowlike
 bowline
 bowlings
-bowllike
 buckleya
 bacalaos
 bowman
