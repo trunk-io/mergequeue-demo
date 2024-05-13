@@ -2955,6 +2955,7 @@ barricoes
 barrier
 barrigudos
 barrikin
+bromophenol
 barriness
 barring
 barringer
@@ -17297,7 +17298,6 @@ bespecklement
 brontosaur
 bumbler
 bedriveled
-bromophenol
 bryology
 bumblers
 bumbles
