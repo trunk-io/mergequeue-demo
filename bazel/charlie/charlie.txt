@@ -14706,7 +14706,6 @@ choppy
 cistercianism
 cysterethism
 cisterna
-crosslets
 cisternae
 cisternal
 calmly
@@ -31170,6 +31169,7 @@ cupulae
 cupular
 carlines
 cupulate
+crosslets
 cupule
 ceratophyte
 ceramicists
