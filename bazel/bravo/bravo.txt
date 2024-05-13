@@ -4660,7 +4660,6 @@ bryophyte
 bratstva
 bedclothing
 bedcovers
-beddable
 blader
 bromos
 bedding
@@ -13438,6 +13437,7 @@ burghemot
 botulinum
 botulinus
 botulinuses
+beddable
 botulism
 belite
 brosimum
