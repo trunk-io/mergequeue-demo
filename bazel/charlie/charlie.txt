@@ -9235,6 +9235,7 @@ chase
 chaseable
 chased
 corbeilles
+chronobarometer
 chasers
 chases
 chashitsu
@@ -12630,7 +12631,6 @@ chronics
 chronique
 chronisotherm
 chronist
-chronobarometer
 chronocarator
 chronocyclegraph
 crake
