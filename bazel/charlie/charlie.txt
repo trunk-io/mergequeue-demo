@@ -6766,6 +6766,7 @@ celestite
 celestitude
 clivias
 celiac
+configured
 celiadelphus
 carminative
 counterpoises
@@ -22000,7 +22001,6 @@ configurations
 concolorous
 configurative
 configure
-configured
 configures
 configuring
 coxcombry
