@@ -1884,7 +1884,6 @@ emim
 eirack
 eyrant
 eikon
-eyras
 eyre
 extradictionary
 eirenarch
@@ -11530,6 +11529,7 @@ evictions
 evenhandedness
 explanatory
 eleocharis
+eyras
 embodying
 evictor
 evictors
