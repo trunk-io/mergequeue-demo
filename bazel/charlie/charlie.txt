@@ -9591,7 +9591,6 @@ checkmark
 checkmate
 chirosophist
 checkmating
-checkoffs
 checkout
 circumferences
 checkpoint
@@ -13107,6 +13106,7 @@ chiasmatypy
 caprimulgine
 curateship
 cyanometry
+checkoffs
 cyanometric
 cyanometries
 cyanopathy
