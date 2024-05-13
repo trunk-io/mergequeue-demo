@@ -3607,7 +3607,6 @@ baygall
 bathyscaph
 briquetted
 bathyscaphes
-bathyseism
 bathysophical
 bathysphere
 bathythermogram
@@ -5008,6 +5007,7 @@ beeping
 beeps
 beer
 beerbachite
+bathyseism
 beerbelly
 bees
 beerbibber
