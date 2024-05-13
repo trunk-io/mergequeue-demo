@@ -2878,6 +2878,7 @@ elfkin
 elfland
 elflike
 elflock
+entelodon
 elflocks
 elfship
 expressless
@@ -6516,7 +6517,6 @@ enaction
 entelam
 equilibrations
 entelechies
-entelodon
 entelodont
 entender
 edgewise
