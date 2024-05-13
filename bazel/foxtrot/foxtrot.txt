@@ -1277,7 +1277,6 @@ flexural
 fatuities
 feodatory
 formene
-fashioned
 fashioner
 flagellosis
 fashionless
@@ -4416,6 +4415,7 @@ fishponds
 fishpotter
 fishskin
 fistfuls
+fashioned
 fourhanded
 fishspear
 fishtail
