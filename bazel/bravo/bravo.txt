@@ -3379,6 +3379,7 @@ basophilic
 basques
 bass
 bassa
+branchiopulmonate
 bassalia
 bootable
 baculum
@@ -3469,7 +3470,6 @@ builtin
 bastionary
 bodingly
 bastionet
-branchiopulmonate
 badgerly
 bastions
 battutas
