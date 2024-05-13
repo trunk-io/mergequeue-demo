@@ -5066,7 +5066,6 @@ aerometry
 abluted
 agenizes
 aerometric
-aeromotor
 aeronat
 aeronaut
 aeronautic
@@ -8438,6 +8437,7 @@ asternia
 alive
 alives
 achromatiaceae
+aeromotor
 aeolodicon
 alivincular
 alix
