@@ -6308,7 +6308,6 @@ estancias
 ensealing
 employes
 emporia
-ensearcher
 enseated
 exgorgitation
 endodynamomorphic
@@ -9774,6 +9773,7 @@ espinal
 espinel
 electrogalvanic
 epimerize
+ensearcher
 espingole
 engines
 editorialist

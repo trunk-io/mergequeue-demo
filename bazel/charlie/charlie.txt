@@ -16048,7 +16048,6 @@ clericature
 cointension
 clericism
 centares
-clericum
 clerid
 comfrey
 clerihews
@@ -25625,6 +25624,7 @@ commemorized
 coroutine
 coroutines
 corozos
+clericum
 cardsharper
 corp
 corpn
