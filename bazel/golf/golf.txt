@@ -1075,7 +1075,6 @@ gerate
 geodist
 gullibility
 ganglia
-gargoyled
 gansel
 gybed
 guvacoline
@@ -1534,6 +1533,7 @@ garth
 gaillardia
 guild
 garths
+gargoyled
 garum
 girdlers
 gidjee
