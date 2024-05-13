@@ -5037,6 +5037,7 @@ geomaly
 gangway
 glairier
 guardingly
+garaging
 glairin
 glairiness
 glaister
@@ -7521,7 +7522,6 @@ gownsman
 gallflies
 gravamens
 gownsmen
-garaging
 gowpen
 gox
 gangism
