@@ -4746,7 +4746,6 @@ gameful
 groszy
 gasconade
 gra
-gyron
 galliards
 gironde
 girondin
@@ -7014,6 +7013,7 @@ glyptographic
 grangerising
 grandpappy
 gadi
+gyron
 goons
 gyromagnetic
 gambolling
