@@ -1368,7 +1368,6 @@ acaudelescent
 acaulescence
 acaulescent
 acauline
-acaulose
 acaulous
 acc
 accable
@@ -18590,6 +18589,7 @@ autoelectronic
 anagyrin
 arblast
 arboloco
+acaulose
 arbor
 anthropoidal
 arboraceous
