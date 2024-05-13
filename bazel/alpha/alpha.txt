@@ -187,7 +187,6 @@ abbatical
 abbatie
 abbe
 abbey
-abbeys
 azophen
 abbeystead
 algebras
@@ -12675,6 +12674,7 @@ angariation
 angaries
 aeronomist
 arcticward
+abbeys
 angel
 angela
 antinationalist
