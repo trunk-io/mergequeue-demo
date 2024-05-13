@@ -2581,7 +2581,6 @@ egotisticalness
 electropult
 electropuncturation
 euphemiously
-electropuncture
 electroreceptive
 electroreduction
 ergophobiac
@@ -11290,6 +11289,7 @@ enanthema
 evangeliarium
 excussio
 enalyron
+electropuncture
 evangelic
 evangelical
 endoplastron
