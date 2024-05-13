@@ -1421,7 +1421,6 @@ baled
 bonaught
 baleen
 baleens
-bromide
 balefire
 balefires
 balefully
@@ -10250,6 +10249,7 @@ bruges
 batara
 bromometric
 blackpot
+bromide
 blackprint
 ballarag
 brominism
