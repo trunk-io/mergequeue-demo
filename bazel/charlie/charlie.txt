@@ -15374,7 +15374,6 @@ cartooned
 clamb
 clambake
 clamber
-clamberer
 colfox
 cassique
 chaining
@@ -20762,6 +20761,7 @@ complicant
 complicate
 complicated
 complicatedly
+clamberer
 complicatedness
 complicates
 complication
