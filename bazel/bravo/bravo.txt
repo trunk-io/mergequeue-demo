@@ -2091,6 +2091,7 @@ bumbaste
 banksides
 barebone
 banksmen
+bucketed
 bibliophage
 banlieu
 botel
@@ -4566,7 +4567,6 @@ becrowd
 becrowded
 buttering
 burstwort
-bucketed
 billeting
 bumptiously
 bearhide
