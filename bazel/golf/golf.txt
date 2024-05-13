@@ -4846,7 +4846,6 @@ gaupus
 grovelers
 gytrash
 greenwood
-guck
 gadling
 gitter
 ganocephalan
@@ -10294,6 +10293,7 @@ gujarati
 glood
 gametic
 gelly
+guck
 girland
 groutite
 gul
