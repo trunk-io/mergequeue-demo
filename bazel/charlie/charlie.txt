@@ -5837,6 +5837,7 @@ catenate
 crooisite
 catenates
 cicatrixes
+coronoid
 catenating
 catenation
 catenative
@@ -25603,7 +25604,6 @@ conemaker
 crenelation
 coronographic
 canvasman
-coronoid
 coronopus
 coronule
 coroparelcysis
