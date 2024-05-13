@@ -1685,7 +1685,6 @@ eyebeam
 eyebeams
 expire
 effie
-euthytropic
 eyeberry
 ertebolle
 endostome
@@ -2719,6 +2718,7 @@ esterizing
 eyewitness
 elegized
 elegizes
+euthytropic
 eleidin
 eutocia
 exotropism
