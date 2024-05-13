@@ -6890,7 +6890,6 @@ berrugate
 bersagliere
 bersaglieri
 berseem
-berseems
 berserker
 blackbirds
 bin
@@ -10055,6 +10054,7 @@ bivocalized
 bivoluminous
 boatful
 bochism
+berseems
 bivouaced
 bivouacked
 bivouacking
