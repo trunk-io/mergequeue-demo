@@ -2375,7 +2375,6 @@ bastinade
 biolysis
 bookdom
 bachelorlike
-barbre
 barbu
 barbula
 barbulate
@@ -4375,6 +4374,7 @@ bebopper
 beboppers
 bevel
 bebops
+barbre
 belongings
 beboss
 blessing
