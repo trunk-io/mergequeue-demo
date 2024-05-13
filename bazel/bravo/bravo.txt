@@ -4679,7 +4679,6 @@ bedrid
 bebannered
 bedecking
 bewormed
-bedecks
 bankfull
 bedeguar
 bedehouse
@@ -11713,6 +11712,7 @@ berne
 bobotie
 bobs
 bobsled
+bedecks
 bobsledded
 breathers
 bobsledders
