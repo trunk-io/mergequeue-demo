@@ -2264,7 +2264,6 @@ genarchship
 galilees
 greekist
 gedackt
-gedact
 greenslade
 gedanite
 gedder
@@ -4933,6 +4932,7 @@ glacialist
 glacialize
 greeing
 glaciated
+gedact
 glaciates
 grumbles
 glaciating
