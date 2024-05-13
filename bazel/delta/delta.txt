@@ -306,7 +306,6 @@ day
 dayabhaga
 depolarized
 dayak
-dayal
 dayanim
 directories
 daybeacon
@@ -5088,6 +5087,7 @@ denationalize
 denationalized
 denaturalisation
 denaturalise
+dayal
 denaturalised
 denaturalising
 discommendably
