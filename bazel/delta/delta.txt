@@ -10439,7 +10439,6 @@ diphenylhydantoin
 disvulnerability
 diphenylmethane
 diphenyls
-diphenylthiourea
 dispowder
 diphenoxylate
 diphycercal
@@ -18237,6 +18236,7 @@ dunger
 dunghill
 dunghilly
 dumbfish
+diphenylthiourea
 doxologize
 djakarta
 dejecting
