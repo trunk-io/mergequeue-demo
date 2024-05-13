@@ -519,6 +519,7 @@ backstitch
 backstitched
 biserial
 billhead
+biscot
 backstitches
 briming
 backstitching
@@ -17694,7 +17695,6 @@ burgraves
 burgraviate
 burgs
 burgundy
-biscot
 bradycardic
 burgware
 brothier
