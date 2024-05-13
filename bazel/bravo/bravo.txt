@@ -709,7 +709,6 @@ baculine
 boiseries
 bedust
 baculites
-baculitic
 baculiticone
 baculoid
 baculus
@@ -15680,6 +15679,7 @@ brod
 bhaga
 brodder
 bended
+baculitic
 balandra
 broddle
 burglaries
