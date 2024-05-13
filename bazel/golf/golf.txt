@@ -813,7 +813,6 @@ galvanoscopic
 ghillie
 graywether
 galvanosurgery
-galvanotaxis
 gooseherd
 galvanotherapy
 gurle
@@ -1366,6 +1365,7 @@ ginkgo
 gardinol
 grippers
 gazania
+galvanotaxis
 gestation
 garefowl
 goods
