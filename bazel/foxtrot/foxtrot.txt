@@ -4820,7 +4820,6 @@ flagstick
 falconers
 flagworm
 feridji
-feued
 flayed
 feramorz
 forkiest
@@ -10262,6 +10261,7 @@ forker
 flaxen
 forbit
 fauna
+feued
 frizing
 frizz
 frizzante
