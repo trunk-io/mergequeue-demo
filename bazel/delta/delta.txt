@@ -2809,7 +2809,6 @@ dihydrate
 decrassified
 dogtail
 devolatilized
-decrease
 decreased
 depravate
 decreases
@@ -12359,6 +12358,7 @@ disheartening
 devachan
 dishearteningly
 dishellenize
+decrease
 disheartenment
 dobl
 disnaturing
