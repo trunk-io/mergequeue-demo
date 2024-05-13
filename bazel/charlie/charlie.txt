@@ -4268,7 +4268,6 @@ carers
 cares
 caress
 cir
-cestoidea
 caressable
 caressant
 caressed
@@ -19958,6 +19957,7 @@ commando
 commandoes
 commandoman
 commandos
+cestoidea
 commandress
 commandry
 commandrie
