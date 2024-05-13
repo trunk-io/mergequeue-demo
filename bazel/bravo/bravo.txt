@@ -8304,6 +8304,7 @@ byerlite
 backspliced
 bierstuben
 byestreet
+battailous
 biethnic
 baccar
 beswarming
@@ -8771,7 +8772,6 @@ bilos
 biloxi
 bilsh
 bilsteds
-battailous
 bahada
 birching
 borley
