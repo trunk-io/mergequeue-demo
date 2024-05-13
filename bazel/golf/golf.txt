@@ -9472,7 +9472,6 @@ grandrelle
 grouper
 glycolipin
 garnisheing
-grouping
 grisbet
 gecking
 grouplet
@@ -10706,6 +10705,7 @@ gustard
 gustation
 gustative
 guergal
+grouping
 gustatorial
 geneticists
 gularis
