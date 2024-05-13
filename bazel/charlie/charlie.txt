@@ -15347,6 +15347,7 @@ cloisteral
 compresses
 clairsentience
 clairsentient
+conceder
 clairvoyance
 clairvoyances
 clairvoyancy
@@ -21138,7 +21139,6 @@ concealer
 concealing
 conceals
 concededly
-conceder
 couplets
 conceders
 concedes
