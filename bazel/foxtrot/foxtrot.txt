@@ -6426,7 +6426,6 @@ farmstead
 frondesced
 fitchet
 fluoridization
-fulcral
 fancier
 fluoridize
 fluoridized
@@ -9915,6 +9914,7 @@ fuds
 fricandel
 frett
 frettage
+fulcral
 frettation
 fiducial
 frette
