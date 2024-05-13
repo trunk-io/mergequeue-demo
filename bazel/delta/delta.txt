@@ -1208,6 +1208,7 @@ datatypes
 datcha
 dynamometry
 dragooner
+draftproof
 dialyzers
 dateableness
 datebook
@@ -16548,7 +16549,6 @@ diesinker
 doorbell
 draftmanship
 diamidogen
-draftproof
 drafts
 dendrodont
 draftsman
