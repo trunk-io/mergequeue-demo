@@ -4317,7 +4317,6 @@ enamorato
 enamored
 enamoring
 ejusdem
-entomologic
 enamorment
 endotrophi
 earstone
@@ -9173,6 +9172,7 @@ erythrosin
 exacerbescent
 exochorda
 erythrosine
+entomologic
 erythrosis
 eulogium
 ephemeras
