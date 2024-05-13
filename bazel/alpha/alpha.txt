@@ -12111,7 +12111,6 @@ accidents
 anatifer
 anatiferous
 anatinacea
-agriotypus
 anatinae
 anatine
 anatocism
@@ -18742,6 +18741,7 @@ archaeostoma
 archaeostomata
 archaeotherium
 arillated
+agriotypus
 archaeus
 archagitator
 archai
