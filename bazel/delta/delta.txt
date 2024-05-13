@@ -438,7 +438,6 @@ dayspring
 dispersedye
 dilapidator
 disthrall
-daystars
 daystreak
 daytide
 daytimes
@@ -1207,6 +1206,7 @@ dragooner
 draftproof
 dialyzers
 dateableness
+daystars
 datebook
 datedly
 degermed
