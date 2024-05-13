@@ -441,7 +441,6 @@ greyskin
 galea
 galeage
 glucuronide
-galeass
 goliard
 gastrojejunal
 gweduck
@@ -8600,6 +8599,7 @@ grecoue
 gyarung
 grecque
 gnu
+galeass
 groff
 gree
 glean
