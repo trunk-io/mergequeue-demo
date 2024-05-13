@@ -561,7 +561,6 @@ embolus
 echinorhinus
 elbuck
 etnas
-echinosphaeritidae
 exhaustivity
 echinozoa
 echinulate
@@ -6863,6 +6862,7 @@ ergology
 epidermoidal
 entomologist
 entomologize
+echinosphaeritidae
 entrap
 entomologized
 enstatolite
