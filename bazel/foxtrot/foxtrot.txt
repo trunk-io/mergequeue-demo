@@ -3504,7 +3504,6 @@ figurato
 folioliferous
 forties
 figured
-figureheadless
 falcones
 ferrimagnetic
 futtah
@@ -6499,6 +6498,7 @@ flurrying
 flurriment
 fisted
 futteret
+figureheadless
 futile
 flurt
 flush
