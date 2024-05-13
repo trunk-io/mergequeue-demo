@@ -290,7 +290,6 @@ faecula
 forward
 faeculence
 faenas
-footgrip
 foreking
 flourished
 fomes
@@ -3598,6 +3597,7 @@ fluidize
 filemot
 flenches
 filename
+footgrip
 fixates
 fanons
 forspoken
