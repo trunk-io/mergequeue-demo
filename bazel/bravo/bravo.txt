@@ -1068,7 +1068,6 @@ bailiff
 bailiffry
 bailiffs
 ballow
-bailiffwick
 bailing
 busway
 bailiwick
@@ -3702,6 +3701,7 @@ batrachians
 breadbaskets
 batrachidae
 batrachium
+bailiffwick
 batrachophidia
 bats
 barnful
