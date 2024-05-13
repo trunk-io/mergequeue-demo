@@ -3301,7 +3301,6 @@ capomo
 chrysomelidae
 cogware
 chelates
-capon
 caponata
 chloroacetic
 capone
@@ -13481,6 +13480,7 @@ cleaners
 cyclostyle
 cyclostoma
 cyclostomate
+capon
 czarism
 cyclostomatidae
 charadriidae
