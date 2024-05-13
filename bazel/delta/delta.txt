@@ -5625,6 +5625,7 @@ dependably
 dependance
 dependant
 depended
+diapasons
 dependence
 dependency
 depending
@@ -8544,7 +8545,6 @@ diapasm
 drapeability
 diapasonal
 dentation
-diapasons
 diapause
 diapauses
 donaries
