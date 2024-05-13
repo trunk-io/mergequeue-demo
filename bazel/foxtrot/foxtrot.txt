@@ -1665,7 +1665,6 @@ fustie
 fawnlike
 foveal
 fawns
-fawnskin
 frowned
 faxed
 faxes
@@ -2565,6 +2564,7 @@ fatales
 ferociously
 ferrier
 fibromembranous
+fawnskin
 forehorse
 ferox
 fossilized

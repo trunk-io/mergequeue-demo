@@ -3239,6 +3239,7 @@ capitated
 capitatim
 capitation
 capitations
+cyclotomy
 capitatum
 capite
 capitellar
@@ -17405,7 +17406,6 @@ coauthority
 coauthors
 coauthorship
 coawareness
-cyclotomy
 coaxal
 coaxation
 coaxed
