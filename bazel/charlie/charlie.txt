@@ -8787,7 +8787,6 @@ chansonniers
 chant
 chera
 chantecler
-chanted
 chantey
 chanteyman
 chantepleure
@@ -8967,6 +8966,7 @@ characterise
 characterised
 characteriser
 characterising
+chanted
 cuniform
 cumarone
 characterism
