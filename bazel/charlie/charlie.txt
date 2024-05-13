@@ -27519,6 +27519,7 @@ covariables
 cheongsam
 coal
 covariant
+cuban
 covariate
 covariates
 covariation
@@ -30442,7 +30443,6 @@ cuba
 contradictive
 cubages
 cubicovariant
-cuban
 computed
 cubane
 cubangle
