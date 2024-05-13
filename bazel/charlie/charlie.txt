@@ -4998,6 +4998,7 @@ chiclero
 cartouches
 curlicued
 canalman
+crystallizing
 chevrony
 commonwealth
 cartulary
@@ -29472,7 +29473,6 @@ crystallized
 crystallizer
 collectable
 crystallizes
-crystallizing
 crystallochemical
 crystallochemistry
 crystallod
