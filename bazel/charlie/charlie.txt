@@ -10625,7 +10625,6 @@ chiller
 chillers
 comino
 chillest
-chiromance
 centumviral
 chilli
 crank
@@ -15968,6 +15967,7 @@ cleidocostal
 cleidocranial
 cleidohyoid
 cleidoic
+chiromance
 cleidomancy
 cleidorrhexis
 chiripa
