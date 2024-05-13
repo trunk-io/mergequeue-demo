@@ -19893,7 +19893,6 @@ armamentary
 armamentarium
 armangite
 armary
-armaria
 aminovaleric
 armarian
 adaptivity
@@ -25048,6 +25047,7 @@ awols
 awork
 aworry
 anaesthetist
+armaria
 aggregation
 avascular
 awrist
