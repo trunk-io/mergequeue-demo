@@ -540,7 +540,6 @@ gurjara
 guardfish
 gallantly
 gallantries
-gallature
 goffer
 gobblers
 gallbladders
@@ -6862,6 +6861,7 @@ gonococcocci
 gonocoele
 gonof
 greyer
+gallature
 gthite
 gonophore
 geodesia
