@@ -1672,7 +1672,6 @@ calottes
 calp
 calpac
 calpacked
-catchall
 calpacks
 cheapishly
 calpacs
@@ -14330,6 +14329,7 @@ circumbasal
 circumbendibus
 conception
 circumboreal
+catchall
 carpellum
 cyclotella
 circumbuccal
