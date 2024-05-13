@@ -7986,7 +7986,6 @@ clockkeeper
 cestode
 cestodes
 cestoi
-cestoid
 chamberwoman
 coronize
 cestoidean
@@ -18863,6 +18862,7 @@ colyone
 coliplication
 colipuncture
 coliseum
+cestoid
 colistin
 coypou
 colistins
