@@ -3015,7 +3015,6 @@ acrostichic
 acrostichoid
 acrostichum
 acrosticism
-acrostolia
 acrostolion
 acrostolium
 apneumatosis
@@ -24332,6 +24331,7 @@ autoregulative
 abrenunciate
 antimatrimonialist
 autoregulatory
+acrostolia
 autoreinfusion
 arg
 autoretardation
