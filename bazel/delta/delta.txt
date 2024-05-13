@@ -16886,6 +16886,7 @@ drawsheet
 drawspring
 drawstop
 dispersible
+dromedaries
 dribbet
 dinoceratid
 drawstrings
@@ -17338,7 +17339,6 @@ dromed
 dromedary
 dromedarian
 dzo
-dromedaries
 dromic
 dromioid
 dromoi
