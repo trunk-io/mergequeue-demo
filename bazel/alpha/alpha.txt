@@ -21639,7 +21639,6 @@ assart
 assassin
 assassinate
 azoeosin
-assassinated
 antitragus
 assassinating
 assassinations
@@ -25035,6 +25034,7 @@ awning
 awninged
 awnings
 awnless
+assassinated
 awnlike
 awns
 antihydrophobic
