@@ -532,6 +532,7 @@ echinocaris
 echinocereus
 echinochrome
 echinococcosis
+epedaphic
 echinococcus
 echinoderidae
 echinoderma
@@ -5200,7 +5201,6 @@ endopterygota
 endopterygote
 endoradiosonde
 eupathy
-epedaphic
 embrake
 enkindling
 evened
