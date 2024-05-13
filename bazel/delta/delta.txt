@@ -5738,7 +5738,6 @@ deplasmolysis
 desterilized
 disposit
 deplenish
-depletable
 depleteable
 depleted
 donkeyback
@@ -18457,6 +18456,7 @@ dupped
 discoursive
 dupper
 dups
+depletable
 denat
 dur
 dubitative

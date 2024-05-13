@@ -1239,7 +1239,6 @@ eelcake
 electromyography
 extypal
 ewer
-endostome
 eelery
 enarch
 evaluation
@@ -1689,6 +1688,7 @@ effie
 euthytropic
 eyeberry
 ertebolle
+endostome
 eyeblack
 eyeblink
 eyebright
