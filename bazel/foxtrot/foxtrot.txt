@@ -1336,7 +1336,6 @@ fasts
 fastuousness
 fatagaga
 fecklessness
-fatale
 featherworker
 fluctuous
 fatalism
@@ -8625,6 +8624,7 @@ forsooth
 forspeak
 forspend
 farstepped
+fatale
 fatuitousness
 forewrought
 footing
