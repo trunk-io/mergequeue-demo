@@ -1811,7 +1811,6 @@ gastronosus
 gastroparesis
 gonyaulax
 galluot
-gastroparietal
 gastropathy
 galiots
 gastropathic
@@ -6856,6 +6855,7 @@ greekless
 galanga
 gonochorismal
 geryonia
+gastroparietal
 gymnothorax
 gamelote
 gonococci
