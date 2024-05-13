@@ -1349,7 +1349,6 @@ gardeners
 glauconite
 gardenful
 gallberries
-gardeny
 gardenia
 gundeck
 giftlike
@@ -7185,6 +7184,7 @@ gypsyry
 ganglionary
 glandes
 gorgonzola
+gardeny
 gorgosaurus
 galactose
 gidgea
