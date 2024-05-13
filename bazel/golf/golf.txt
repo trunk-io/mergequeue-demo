@@ -9140,7 +9140,6 @@ grocerymen
 garnel
 gryllotalpa
 gripsack
-gripsacks
 gript
 glom
 geochronic
@@ -10669,6 +10668,7 @@ garvock
 glossocoma
 gusher
 gutturotetany
+gripsacks
 goethe
 gargety
 glitterance
