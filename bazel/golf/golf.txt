@@ -1799,7 +1799,6 @@ gazet
 gastrologer
 guerdoning
 garoo
-gastromancy
 gallotannin
 gulf
 gastromenia
@@ -6212,6 +6211,7 @@ gombos
 gressible
 greatcoats
 gnessic
+gastromancy
 gomarist
 gnetaceous
 grecing
