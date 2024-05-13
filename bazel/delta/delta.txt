@@ -1257,6 +1257,7 @@ datives
 dato
 datolite
 declinate
+dermoptera
 datolitic
 datos
 datsun
@@ -6390,7 +6391,6 @@ discontiguous
 dermophytic
 dejeune
 dermophobe
-dermoptera
 decarbonylated
 dermopterous
 dermosclerite
