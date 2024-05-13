@@ -4797,6 +4797,7 @@ flags
 flagship
 fuss
 firepower
+furler
 formative
 fainer
 floribunda
@@ -11385,7 +11386,6 @@ filiality
 fieldman
 furlana
 firbolg
-furler
 fichus
 flattened
 furlong
