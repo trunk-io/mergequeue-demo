@@ -3195,7 +3195,6 @@ coelelminthes
 centrotus
 counterpoised
 crax
-componentwise
 capistrate
 capita
 catenated
@@ -4267,6 +4266,7 @@ carers
 cares
 caress
 cir
+componentwise
 caressable
 caressant
 caressed
