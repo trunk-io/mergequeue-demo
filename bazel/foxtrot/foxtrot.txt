@@ -40,6 +40,7 @@ fabrications
 fabricator
 floatingly
 flintless
+flamberge
 fabricators
 fabricature
 fabrics
@@ -4878,7 +4879,6 @@ flambeau
 flambeaux
 flambee
 flamberg
-flamberge
 firmisternal
 flambes
 flintlocks
