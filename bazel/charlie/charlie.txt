@@ -10212,7 +10212,6 @@ chowed
 chevin
 cheviots
 crined
-chevon
 chevre
 chevres
 chevret
@@ -23098,6 +23097,7 @@ const
 cryptorrhesis
 constable
 constablery
+chevon
 cowgate
 constableship
 constabless
