@@ -957,7 +957,6 @@ alioth
 absolve
 absolved
 absolvent
-absolver
 absolves
 absolving
 absolvitor
@@ -6358,6 +6357,7 @@ avenged
 agonizing
 autoinduction
 agonizingly
+absolver
 agonizingness
 agonostomus
 agonothete
