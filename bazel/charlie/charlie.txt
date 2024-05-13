@@ -15353,7 +15353,6 @@ clairvoyantly
 clays
 claystone
 claith
-claithes
 clayton
 claytonia
 claiver
@@ -21860,6 +21859,7 @@ confabulate
 confabulated
 confabulating
 confabulations
+claithes
 confabulator
 cassian
 cytopharynges
