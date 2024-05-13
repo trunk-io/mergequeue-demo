@@ -556,7 +556,6 @@ ethonomics
 echinopsine
 egotist
 echinorhynchus
-echinorhinidae
 embolus
 echinorhinus
 elbuck
@@ -11498,6 +11497,7 @@ evernia
 evernioid
 encephalosis
 evert
+echinorhinidae
 evertebrata
 ependymary
 everting
