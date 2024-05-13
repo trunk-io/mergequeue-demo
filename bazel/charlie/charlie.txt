@@ -1061,7 +1061,6 @@ calcicosis
 collyrie
 calciferol
 calciferous
-calcific
 calcified
 counterboycott
 ceratophyllaceae
@@ -24166,6 +24165,7 @@ chippage
 convexes
 clinicopathologically
 convexity
+calcific
 convexities
 convexly
 crampet

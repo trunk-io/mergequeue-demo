@@ -6148,7 +6148,6 @@ anthobian
 auxotrophic
 agilities
 agin
-agynary
 agynarious
 avdp
 aging
@@ -8847,6 +8846,7 @@ allocations
 amyosthenia
 aqueoglacial
 allocator
+agynary
 allocators
 allocatur
 antimasonic
