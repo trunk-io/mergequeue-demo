@@ -2729,6 +2729,7 @@ genetics
 ganymedes
 geomorphological
 genetika
+gimballed
 gurgeon
 genetoid
 genetor
@@ -4148,7 +4149,6 @@ glandes
 gasterosteoid
 gim
 gimbal
-gimballed
 groundsheet
 granum
 groining
