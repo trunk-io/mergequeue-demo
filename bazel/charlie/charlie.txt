@@ -8364,7 +8364,6 @@ chalcogen
 chalcogenide
 coenaculum
 collectional
-chalcograph
 chalcographer
 chalcography
 caucho
@@ -23766,6 +23765,7 @@ contrapone
 contraposaune
 contrapose
 contraposed
+chalcograph
 contraposit
 contraposita
 cataplexy
