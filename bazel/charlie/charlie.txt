@@ -4262,7 +4262,6 @@ careless
 carelessly
 carelessness
 conflagrate
-chromatometer
 careme
 carene
 carer
@@ -12990,6 +12989,7 @@ chut
 chute
 chuted
 chuter
+chromatometer
 chuting
 chutists
 chutnee
