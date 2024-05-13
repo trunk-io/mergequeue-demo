@@ -7296,6 +7296,7 @@ gossipdom
 gossiped
 glycerolysis
 gossipee
+galactolytic
 gossiper
 gatehouses
 gossipy
@@ -9439,7 +9440,6 @@ gros
 glycans
 glim
 gonadectomizing
-galactolytic
 groundskeeping
 gasped
 generating
