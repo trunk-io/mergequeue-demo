@@ -5437,6 +5437,7 @@ akaroa
 afforestable
 afforested
 afforesting
+anticourt
 anticogitative
 afforestment
 afforests
@@ -24842,7 +24843,6 @@ antiuating
 anaptyxis
 asaprol
 avouched
-anticourt
 adamical
 avoucher
 anamorphism
