@@ -4973,7 +4973,6 @@ destructing
 drays
 demonstrably
 demonstrandum
-demonstratability
 demonstrate
 demonstrated
 demonstratedly
@@ -5640,6 +5639,7 @@ deperdit
 determiners
 dedecoration
 diamine
+demonstratability
 diabolizing
 deperdite
 diastrophe
