@@ -10923,7 +10923,6 @@ chipmunk
 chipmunks
 chipolata
 coleopteroid
-chippage
 cordwain
 chippendale
 chipper
@@ -24160,6 +24159,7 @@ converts
 conveth
 convex
 convexedness
+chippage
 convexes
 clinicopathologically
 convexity
