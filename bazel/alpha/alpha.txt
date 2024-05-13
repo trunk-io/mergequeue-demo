@@ -14521,7 +14521,6 @@ anthraquinonyl
 anthrarufin
 anthrasilicosis
 agalinis
-anthratetrol
 anthrathiophene
 anthratriol
 anthraxylon
@@ -24737,6 +24736,7 @@ avicennism
 avichi
 avicide
 avick
+anthratetrol
 avicolous
 avicula
 apocaffeine
