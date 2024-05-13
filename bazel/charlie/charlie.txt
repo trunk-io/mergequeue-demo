@@ -2430,6 +2430,7 @@ candelabras
 candelabrum
 candelabrums
 candelilla
+conductible
 candent
 cassidony
 circumnatant
@@ -21772,7 +21773,6 @@ conducers
 cotillion
 conduct
 conductance
-conductible
 conductimeter
 conductimetric
 conducting
