@@ -6030,7 +6030,6 @@ flora
 floral
 floramour
 floras
-floreal
 furnaced
 forced
 fluty
@@ -6415,6 +6414,7 @@ fluctuability
 foveolar
 fluoresceine
 fluorescer
+floreal
 frisked
 fluorescigenic
 finick

@@ -2754,6 +2754,7 @@ baroness
 blacknob
 bewrapping
 baronesses
+bordello
 baronet
 backtack
 baronetcy
@@ -17347,7 +17348,6 @@ burrowed
 blobber
 beechier
 burbling
-bordello
 bumpered
 bumpers
 bumpier
