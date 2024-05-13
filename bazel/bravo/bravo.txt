@@ -7665,7 +7665,6 @@ broccoli
 bloodleaf
 brainworker
 beweeper
-beweeping
 beweeps
 bastardize
 bewend
@@ -17408,6 +17407,7 @@ bryanthus
 bundle
 bundled
 branky
+beweeping
 boardmen
 bundler
 bundlerooted
