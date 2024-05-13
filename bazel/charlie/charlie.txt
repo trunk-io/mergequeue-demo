@@ -25861,7 +25861,6 @@ corroding
 corrosibility
 corrosibleness
 corrosional
-corrosive
 corrosived
 corrosively
 corrosiveness
@@ -31153,6 +31152,7 @@ cunningly
 coccygeus
 cuprobismutite
 cytherella
+corrosive
 cuproiodargyrite
 chalque
 cuproplumbite
