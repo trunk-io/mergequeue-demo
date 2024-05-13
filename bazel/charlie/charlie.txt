@@ -5268,7 +5268,6 @@ caveats
 cassegrain
 chromomeric
 cassegrainian
-casserole
 casseroled
 casseroling
 concurrent
@@ -27443,6 +27442,7 @@ courtside
 couscous
 caddying
 couscousou
+casserole
 coquetted
 cousinage
 cousiness
