@@ -1416,7 +1416,6 @@ greengrocery
 garlandless
 greenalite
 garbling
-garlandlike
 gymnoglossa
 garlandry
 galvanist
@@ -1613,6 +1612,7 @@ gasoliers
 gasoliner
 gasometry
 gastrodisc
+garlandlike
 galileo
 gasometric
 grype
