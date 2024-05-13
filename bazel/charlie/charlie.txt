@@ -17225,7 +17225,6 @@ combustibility
 coalesces
 coalescing
 coalfield
-coalfish
 coalfishes
 coalfitter
 coalholes
@@ -18779,6 +18778,7 @@ clytemnestra
 colegatee
 colegislator
 colemouse
+coalfish
 colent
 calidity
 coleochaetaceae
