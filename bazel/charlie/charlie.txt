@@ -4413,7 +4413,6 @@ caryocar
 caryocaraceae
 caryocaraceous
 cariocas
-cariole
 carioles
 carioling
 caryophyllaceae
@@ -14799,6 +14798,7 @@ cowbyre
 cystoschisis
 cystoscopic
 cystoscopies
+cariole
 cystose
 cystosyrinx
 cystospasm
