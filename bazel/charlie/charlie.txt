@@ -9083,7 +9083,6 @@ charismatic
 chalazia
 charisms
 charisticary
-charitable
 charitably
 charitative
 charity
@@ -14457,6 +14456,7 @@ circumradii
 circumradius
 circumradiuses
 circumferent
+charitable
 claver
 circumrotate
 circumrotated
