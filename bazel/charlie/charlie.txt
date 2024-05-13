@@ -9089,7 +9089,6 @@ charity
 chessmen
 charities
 charityless
-charivari
 charivaried
 charka
 cloaks
@@ -26321,6 +26320,7 @@ calliper
 counterstruggle
 costlessness
 costlew
+charivari
 costliest
 cyclonometer
 costliness
