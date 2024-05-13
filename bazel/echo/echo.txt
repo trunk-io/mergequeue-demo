@@ -2485,6 +2485,7 @@ excepting
 engines
 euphony
 echoist
+exactiveness
 electromagnetism
 electromagnetist
 escalloping
@@ -3100,7 +3101,6 @@ eyeshots
 eburated
 eloining
 expurgators
-exactiveness
 eloinment
 eloins
 eloise
