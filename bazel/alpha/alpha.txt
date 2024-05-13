@@ -18798,7 +18798,6 @@ archchemic
 amorism
 archchronicler
 archconfraternity
-archconsoler
 archconspirator
 archcorrupter
 archcount
@@ -19320,6 +19319,7 @@ ardhamagadhi
 antiracing
 ardhanari
 antisceptic
+archconsoler
 ardilla
 ardish
 arditi
