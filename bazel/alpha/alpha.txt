@@ -5134,6 +5134,7 @@ acuminating
 amphib
 aerosol
 aerosolization
+alchera
 asclepieion
 aerosolize
 aerosolized
@@ -7675,7 +7676,6 @@ alchemize
 amazes
 alchemized
 alchemizing
-alchera
 alcheringa
 alchimy
 alchymies
