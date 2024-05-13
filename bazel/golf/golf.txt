@@ -3212,7 +3212,6 @@ geosid
 geosphere
 geostationary
 geostrategist
-geostrophic
 graminiferous
 geostrophically
 graylags
@@ -6517,6 +6516,7 @@ golaseccan
 glassman
 gallstones
 gobiesocid
+geostrophic
 golconda
 golcondas
 goldang
