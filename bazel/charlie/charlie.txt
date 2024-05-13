@@ -25620,7 +25620,6 @@ compulsoriness
 corotomy
 craniognomy
 commemorized
-coroutine
 coroutines
 corozos
 clericum
@@ -30344,6 +30343,7 @@ cosignificative
 crustific
 crustily
 crustose
+coroutine
 crustosis
 crusts
 crut
