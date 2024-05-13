@@ -3627,7 +3627,6 @@ cornicing
 cocineras
 caragana
 caraganas
-carageen
 carageens
 caragheen
 caraibe
@@ -4899,6 +4898,7 @@ canonization
 carrotwood
 carrousel
 carrousels
+carageen
 compiles
 carrs
 cars
