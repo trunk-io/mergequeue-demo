@@ -3697,7 +3697,6 @@ akepiros
 adenochondroma
 adenochondrosarcoma
 adenochrome
-adenocyst
 apts
 adenocystoma
 antepectoral
@@ -5748,6 +5747,7 @@ aint
 afterworld
 afterwort
 apodeixis
+adenocyst
 afterwrath
 aftonian
 aftosa
