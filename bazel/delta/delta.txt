@@ -6329,7 +6329,6 @@ dashy
 dod
 dermatorrhea
 dermatosclerosis
-dermatoscopy
 delegatus
 dermatoses
 dermatosiophobia
@@ -18177,6 +18176,7 @@ dunair
 dunamis
 dunbird
 duncan
+dermatoscopy
 dunce
 disobedience
 disprized
