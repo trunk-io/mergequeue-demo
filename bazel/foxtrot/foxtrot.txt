@@ -3916,7 +3916,6 @@ fineleaf
 fodderless
 farmost
 fineness
-finer
 finery
 farmy
 flouting
@@ -10584,6 +10583,7 @@ foresummer
 frowl
 fierily
 frowners
+finer
 fudgy
 frenchiness
 frownful
