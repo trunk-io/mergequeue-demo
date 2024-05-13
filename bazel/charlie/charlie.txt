@@ -3615,7 +3615,6 @@ caract
 caractacus
 caracter
 caradoc
-carafe
 carafes
 censors
 cornicing
@@ -6382,6 +6381,7 @@ cauterise
 cauterised
 cauterising
 cauterism
+carafe
 cataloging
 cauterization
 correcter
