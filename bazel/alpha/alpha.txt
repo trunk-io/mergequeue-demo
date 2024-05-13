@@ -11627,6 +11627,7 @@ anaemias
 anaemic
 anaemotropy
 anaeretic
+astrometeorologist
 anaerobation
 anaerobes
 anaerobian
@@ -22338,7 +22339,6 @@ astrometeorology
 algogenic
 astrometeorological
 ancestrial
-astrometeorologist
 allegorization
 astrometry
 astrometric
