@@ -5540,6 +5540,7 @@ flyblows
 flyboat
 flyboats
 freshmanic
+fiendlike
 fleers
 flaxlike
 flybrush
@@ -11666,7 +11667,6 @@ frustraneous
 fusus
 fundal
 filoselle
-fiendlike
 froglike
 flushable
 fut
