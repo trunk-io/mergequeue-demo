@@ -500,7 +500,6 @@ falbalas
 falbelo
 fumados
 falcata
-falcate
 fylgja
 falces
 falciform
@@ -2136,6 +2135,7 @@ fellable
 fanned
 fellah
 fellaheen
+falcate
 fessely
 fellahs
 fellas
