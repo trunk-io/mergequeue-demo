@@ -16865,7 +16865,6 @@ drawlink
 drawloom
 drawls
 drawn
-defilement
 dipleuric
 determinativeness
 dissyllabise
@@ -17649,6 +17648,7 @@ drunkeries
 drunkest
 dorsalis
 drunkometer
+defilement
 drupa
 dysthyroidism
 drupel

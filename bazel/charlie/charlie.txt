@@ -6904,7 +6904,6 @@ celom
 celomata
 celoscope
 celosia
-celosias
 croziers
 celotex
 celotomy
@@ -8773,6 +8772,7 @@ channeling
 clubbish
 channelization
 channelize
+celosias
 channelized
 channelizing
 commiseration
