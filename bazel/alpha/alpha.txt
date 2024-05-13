@@ -10254,7 +10254,6 @@ ameliorates
 ameliorating
 anacrusis
 apocenter
-amelioration
 ameliorations
 ameliorator
 amelioratory
@@ -24654,6 +24653,7 @@ avernus
 aeneid
 albeit
 averrable
+amelioration
 averral
 averred
 apparatuses
