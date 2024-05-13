@@ -5049,7 +5049,6 @@ aerological
 aerologies
 aerologist
 aerologists
-aeromaechanic
 aeromancer
 aeromechanic
 aeromechanics
@@ -6800,6 +6799,7 @@ ainsell
 ainsells
 armyworm
 arpeggio
+aeromaechanic
 ainu
 ainus
 anthropotheism
