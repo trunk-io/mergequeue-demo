@@ -27664,7 +27664,6 @@ cowfish
 cowfishes
 cowgirl
 cowgirls
-cowgram
 cowgrass
 cowhage
 cowhand
@@ -30866,6 +30865,7 @@ cultivations
 cultivative
 cultivator
 cultive
+cowgram
 cultrate
 cultrated
 cultriform

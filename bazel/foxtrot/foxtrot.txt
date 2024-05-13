@@ -2963,7 +2963,6 @@ feudalists
 feudality
 fractionising
 fustigation
-feudalize
 feudalized
 feudalizing
 fantastical
@@ -7697,6 +7696,7 @@ foretopsail
 fiefdom
 foregut
 forehalf
+feudalize
 forehall
 fulfillers
 forehammer
