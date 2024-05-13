@@ -22957,7 +22957,6 @@ cataphatic
 consimile
 consisently
 consist
-consisted
 consistence
 contractured
 consistences
@@ -23934,6 +23933,7 @@ chipyard
 contumacities
 cantel
 contumely
+consisted
 contumelies
 contumelious
 contund
