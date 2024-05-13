@@ -4175,6 +4175,7 @@ bodysurfs
 beggars
 bowmaking
 bro
+beelbow
 bearded
 beardfishes
 beswarms
@@ -4983,7 +4984,6 @@ betulaceous
 beekeeping
 bedight
 beekite
-beelbow
 bosher
 bagginess
 bassos
