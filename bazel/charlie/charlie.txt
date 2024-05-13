@@ -3561,7 +3561,6 @@ capuchins
 counterbase
 capucine
 capulet
-capuli
 capulin
 caput
 caputium
@@ -5846,6 +5845,7 @@ catenoid
 catenulate
 cacozyme
 cater
+capuli
 cateran
 cachexic
 caterans
