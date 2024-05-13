@@ -718,7 +718,6 @@ grapplers
 goneril
 galop
 galopade
-galopin
 grad
 grammies
 garnierite
@@ -2401,6 +2400,7 @@ gavials
 geldability
 griffinish
 goodnesses
+galopin
 gelder
 geldesprung
 geldings
