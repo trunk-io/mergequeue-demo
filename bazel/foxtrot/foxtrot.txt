@@ -3330,7 +3330,6 @@ fossilologist
 folklorist
 fideistic
 faction
-ferrying
 flabbergastation
 factures
 fidejussionary
@@ -10950,6 +10949,7 @@ foilable
 fiscalizing
 flashbulbs
 fullonian
+ferrying
 franticness
 fullterm
 flavorful
