@@ -7150,7 +7150,6 @@ centifolious
 centigrade
 centigrado
 cannikin
-centigram
 centigramme
 confluences
 centigrams
@@ -24234,6 +24233,7 @@ convoked
 convoker
 convokes
 convoluta
+centigram
 convolutedly
 cakehouse
 crinoidal
