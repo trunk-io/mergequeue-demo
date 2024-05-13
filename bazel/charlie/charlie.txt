@@ -12210,7 +12210,6 @@ coronet
 chrysalida
 chrysalidal
 cascarilla
-chrysalides
 chrysalidian
 chrysaline
 chrysalis
@@ -20522,6 +20521,7 @@ compasses
 compassing
 compassion
 compassionable
+chrysalides
 compassionate
 couthiness
 compassionately
