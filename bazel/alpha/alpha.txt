@@ -7804,7 +7804,6 @@ aldermanity
 aldermanly
 aldermanlike
 aldermanry
-aldermanries
 aldermanship
 aldermen
 aldern
@@ -9532,6 +9531,7 @@ altimeters
 anthema
 altimetry
 antithrombic
+aldermanries
 altimetrical
 altimetrically
 attacolite
