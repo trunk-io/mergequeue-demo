@@ -2646,7 +2646,6 @@ endplay
 epithelioma
 electrotellurograph
 exogens
-equipollently
 electrotherapeutical
 electrotherapeutist
 edaphodont
@@ -12972,6 +12971,7 @@ expectorations
 extrema
 expectorative
 electroencephalography
+equipollently
 expectorators
 expostulatory
 esparcet
