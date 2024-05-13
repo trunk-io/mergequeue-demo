@@ -1659,6 +1659,7 @@ buffets
 ballottine
 ballottines
 ballpark
+bandi
 barrulety
 ballplayer
 ballplayers
@@ -16876,7 +16877,6 @@ bulbil
 bufonite
 bufotalin
 bufotoxin
-bandi
 baudekin
 balilla
 bugaboo
