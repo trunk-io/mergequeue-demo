@@ -2930,7 +2930,6 @@ decurring
 defeminising
 decurrently
 degratia
-decursively
 delphian
 decurvation
 decurvature
@@ -16034,6 +16033,7 @@ doubleton
 divides
 doublette
 discoid
+decursively
 doublewidth
 doubly
 dermatosis
