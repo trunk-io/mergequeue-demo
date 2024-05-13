@@ -12601,7 +12601,6 @@ anesthesis
 acarology
 anesthetically
 anesthetics
-anesthetists
 anesthetization
 anesthetize
 anesthetized
@@ -20605,6 +20604,7 @@ arthrogastran
 aeaean
 antarala
 arthrography
+anesthetists
 azrael
 arthrogryposis
 arthrolith
