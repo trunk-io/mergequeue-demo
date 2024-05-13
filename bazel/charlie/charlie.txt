@@ -11952,7 +11952,6 @@ chordal
 chordamesoderm
 chordamesodermal
 chordamesodermic
-chordata
 chordate
 chorded
 chordee
@@ -22915,6 +22914,7 @@ consideratively
 considerativeness
 considerator
 copatain
+chordata
 cardamums
 considering
 consideringly
