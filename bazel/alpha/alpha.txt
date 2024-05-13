@@ -6162,7 +6162,6 @@ agio
 agios
 alcornoque
 agiotage
-agiotages
 agyrate
 agyrophobia
 arbitraries
@@ -14304,6 +14303,7 @@ anterolateral
 anterolaterally
 anteromedial
 anteromedian
+agiotages
 anteroom
 anterooms
 anteroparietal
