@@ -4827,7 +4827,6 @@ encumbered
 encumberer
 encumberingly
 enrichment
-encumberment
 excisions
 encumbrance
 excused
@@ -12582,6 +12581,7 @@ enactable
 electrofusion
 existibility
 extant
+encumberment
 epilogic
 existing
 existlessness
