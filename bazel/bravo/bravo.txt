@@ -2929,7 +2929,6 @@ bailed
 barricade
 barricaded
 baryes
-barricader
 barricaders
 bedplates
 barricado
@@ -6203,6 +6202,7 @@ burnout
 benchmarks
 benchmen
 balneologic
+barricader
 bend
 bendable
 benday

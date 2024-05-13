@@ -5457,7 +5457,6 @@ agnosticism
 affricates
 agglutinable
 affriended
-affright
 affrighted
 affrightedly
 acarpellous
@@ -9286,6 +9285,7 @@ alongshoreman
 abstemiously
 alongside
 accidental
+affright
 alonzo
 aloof
 aloofly
