@@ -1198,7 +1198,6 @@ educationist
 embolum
 excommune
 educator
-educatory
 educatress
 entozoic
 ennuyee
@@ -5022,6 +5021,7 @@ engrains
 enfield
 estray
 endocyst
+educatory
 endocystitis
 experted
 exploders
