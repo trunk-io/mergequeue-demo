@@ -1484,7 +1484,6 @@ fatuoid
 flagellants
 fatuus
 fairtime
-furculum
 faubourg
 fantasie
 faubourgs
@@ -10733,6 +10732,7 @@ foulage
 fruitworm
 frument
 frumentaceous
+furculum
 flitchplate
 fractionated
 featheriest
