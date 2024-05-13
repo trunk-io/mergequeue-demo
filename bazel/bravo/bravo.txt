@@ -4379,7 +4379,6 @@ beblotch
 beblubber
 basurale
 bebog
-bebop
 bebopper
 beboppers
 bevel
@@ -8627,6 +8626,7 @@ bilinguality
 barkle
 bilingually
 bilinguar
+bebop
 bijoux
 bilinguist
 byliny
