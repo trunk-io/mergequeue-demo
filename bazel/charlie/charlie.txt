@@ -14298,6 +14298,7 @@ carotte
 concentricity
 catatonia
 circulator
+cryptographist
 circulatory
 circulatories
 circulators
@@ -29311,7 +29312,6 @@ cryptograph
 cryptographal
 cryptography
 cryptographical
-cryptographist
 cryptoheresy
 cryptoheretic
 cryptolite
