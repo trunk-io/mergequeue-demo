@@ -1827,7 +1827,6 @@ excudit
 enclasp
 eighth
 eighthes
-eighthly
 eighths
 envelop
 earwax
@@ -9194,6 +9193,7 @@ erythroxyline
 exultance
 eulogizer
 erythroxylon
+eighthly
 erythrozyme
 elegise
 endothermism
