@@ -15634,7 +15634,6 @@ broadsiding
 broadspread
 broadsword
 broadwayite
-boonies
 bamangwato
 blushful
 blundered
@@ -17266,6 +17265,7 @@ bulrush
 bulrushy
 bruchus
 blechnoid
+boonies
 bulrushlike
 bult
 bultey
