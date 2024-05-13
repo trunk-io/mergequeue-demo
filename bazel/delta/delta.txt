@@ -4863,6 +4863,7 @@ deprecates
 disseizor
 demodulator
 demographer
+dentalizing
 demography
 disemploys
 domal
@@ -11276,7 +11277,6 @@ drawstring
 disjuncture
 disenthralling
 discanonize
-dentalizing
 discanted
 deuteronomist
 dayberry
