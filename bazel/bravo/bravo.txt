@@ -3782,6 +3782,7 @@ barotraumata
 battledoring
 battlefronts
 battlegrounds
+bringall
 barway
 battlement
 battlements
@@ -15405,7 +15406,6 @@ brineman
 baff
 bring
 bringal
-bringall
 bibliopegistic
 bringdown
 beneficience
