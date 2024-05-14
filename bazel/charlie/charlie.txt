@@ -3859,6 +3859,7 @@ carbazin
 carbonitride
 carbonizable
 cincinatti
+chromatics
 carbonization
 carbonize
 carbonized
@@ -12408,7 +12409,6 @@ carcinogen
 chromatician
 constructionally
 chromaticness
-chromatics
 chromatid
 chromatin
 cyclonoscope
