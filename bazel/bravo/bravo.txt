@@ -7888,7 +7888,6 @@ bialate
 biali
 bialys
 biallyl
-bialveolar
 bianca
 bianchite
 ballons
@@ -13800,6 +13799,7 @@ baptizes
 belittles
 bentstar
 bowerwoman
+bialveolar
 bowess
 bowfin
 bacterium
