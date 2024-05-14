@@ -1844,6 +1844,7 @@ bandana
 buggery
 bandanaed
 bedgown
+bisectional
 bandannaed
 bandar
 bandarlog
@@ -9671,7 +9672,6 @@ bisected
 balkily
 bisecting
 bisection
-bisectional
 bisections
 bisectors
 bisectrices
