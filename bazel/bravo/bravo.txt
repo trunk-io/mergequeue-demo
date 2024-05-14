@@ -7322,6 +7322,7 @@ bestowment
 bestows
 bestraddle
 blades
+beveled
 bestraddled
 bluebirds
 blippers
@@ -7621,7 +7622,6 @@ bevaring
 bowfront
 bevatron
 beveil
-beveled
 bevelers
 bevelled
 belayer
