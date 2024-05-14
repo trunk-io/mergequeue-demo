@@ -2491,7 +2491,6 @@ decision
 decisional
 decisions
 decisis
-decl
 decisive
 decisively
 democrats
@@ -4532,6 +4531,7 @@ demesman
 dwarf
 depravities
 demesne
+decl
 demesnes
 declarers
 dishwashing
