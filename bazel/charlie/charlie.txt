@@ -6794,6 +6794,7 @@ celiomyalgia
 celiomyodynia
 celiomyomectomy
 celiomyomotomy
+chondroskeleton
 cubhood
 clearway
 celiomyositis
@@ -11853,7 +11854,6 @@ colpohysterotomy
 chondrosin
 conopid
 chondrosis
-chondroskeleton
 chondrostean
 chondrostei
 cytosine
