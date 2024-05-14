@@ -2178,6 +2178,7 @@ chaenactis
 campshed
 campsheeting
 campsite
+caver
 compasser
 campsites
 conusor
@@ -6467,7 +6468,6 @@ confiner
 cavelike
 caveman
 cavemen
-caver
 cavern
 cavernal
 caverned
