@@ -58,7 +58,6 @@ gabions
 gips
 gelatiniser
 gableboard
-gabled
 gangue
 gabler
 guemal
@@ -9452,6 +9451,7 @@ genteelness
 groundswell
 garni
 gaseously
+gabled
 gramp
 groundswells
 germaneness
