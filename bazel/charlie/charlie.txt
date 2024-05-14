@@ -4697,6 +4697,7 @@ cytinaceous
 coattended
 carpenteria
 carpentering
+composograph
 carpenters
 charlock
 carpenterworm
@@ -15317,7 +15318,6 @@ claimant
 cezannesque
 claimants
 claimed
-composograph
 claimer
 consumables
 claimers
