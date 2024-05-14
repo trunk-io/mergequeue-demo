@@ -3549,7 +3549,6 @@ deformation
 deformational
 delete
 deformations
-deformative
 deformedly
 deforming
 downfold
@@ -7743,6 +7742,7 @@ deviltry
 dissociation
 dandered
 dictated
+deformative
 denaturalization
 devirginate
 devirgination
