@@ -2155,7 +2155,6 @@ gawn
 gateways
 gapo
 gardenize
-geochronometric
 gazabo
 gazabos
 glistened
@@ -7282,6 +7281,7 @@ gossamer
 gossamered
 gossamery
 gossamers
+geochronometric
 glareole
 greetings
 gossep
