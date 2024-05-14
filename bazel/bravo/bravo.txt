@@ -3250,7 +3250,6 @@ barrenwort
 bantingize
 basilica
 belverdian
-basilicae
 basilical
 basilican
 brownback
@@ -13721,6 +13720,7 @@ bovaristic
 bovate
 bovey
 bovidae
+basilicae
 bovids
 bovinely
 bovinity
