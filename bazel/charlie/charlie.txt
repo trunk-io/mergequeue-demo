@@ -8255,7 +8255,6 @@ chainsmen
 cleanups
 chainsmith
 chainwale
-chayota
 coldslaw
 countertrades
 chair
@@ -16708,6 +16707,7 @@ clotbur
 covings
 clapbread
 clote
+chayota
 chaquetas
 cloth
 clothe
