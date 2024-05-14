@@ -7494,7 +7494,6 @@ cephid
 cardionephric
 cephidae
 cephus
-cepolidae
 ceps
 cepter
 cequi
@@ -30247,6 +30246,7 @@ convoluted
 cycad
 closest
 crunch
+cepolidae
 codfishery
 crunchable
 crunched
