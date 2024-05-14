@@ -4147,6 +4147,7 @@ eatche
 extracranial
 energids
 empoison
+exemplifier
 empoisoned
 encaustes
 evocators
@@ -12347,7 +12348,6 @@ eire
 exemplificator
 exemplified
 extradites
-exemplifier
 exemplifying
 exempted
 experimentations
