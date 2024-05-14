@@ -17417,7 +17417,6 @@ bundlerooted
 bangboard
 bundles
 bundlet
-bundlings
 bundook
 bundts
 blankminded
@@ -17551,6 +17550,7 @@ burbler
 burblers
 battlefields
 burbly
+bundlings
 bemistress
 bacitracin
 bedip
