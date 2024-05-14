@@ -20461,7 +20461,6 @@ acceptableness
 artefac
 artefacts
 assentation
-artemas
 artemia
 artemis
 aeroenterectasia
@@ -24004,6 +24003,7 @@ autodermic
 autodestruction
 autodiagnosis
 autodiagnostic
+artemas
 aardvark
 autodiagrammatic
 autodial
