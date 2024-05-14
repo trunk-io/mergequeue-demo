@@ -909,7 +909,6 @@ calaboose
 canelle
 calabooses
 calabozo
-calabrese
 calabrian
 calabrians
 calabur
@@ -28237,6 +28236,7 @@ crannoger
 carvomenthene
 crannogs
 cockscomb
+calabrese
 cranreuch
 cransier
 chapelet
