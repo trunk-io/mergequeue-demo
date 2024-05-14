@@ -8905,7 +8905,6 @@ elementary
 erenach
 erepsin
 ereptic
-ensurer
 erer
 erethic
 expressively
@@ -10474,6 +10473,7 @@ entropion
 ethology
 ethologic
 ethologies
+ensurer
 ethologist
 explains
 exactment
