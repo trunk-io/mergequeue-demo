@@ -4565,7 +4565,6 @@ adv
 advaita
 archplagiary
 advance
-advanceable
 advancedness
 advancement
 advancements
@@ -11232,6 +11231,7 @@ ameen
 amphipod
 amphipoda
 apostolicism
+advanceable
 amour
 amphipodal
 antiballistic
