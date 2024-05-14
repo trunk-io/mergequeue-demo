@@ -8782,7 +8782,6 @@ equivoluminal
 engrain
 endocline
 equivoque
-equivorous
 emulsor
 equoidean
 equulei
@@ -14111,6 +14110,7 @@ extrorse
 extrospect
 extrospective
 extroversion
+equivorous
 extroversive
 epitheton
 extrovert
