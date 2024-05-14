@@ -110,6 +110,7 @@ faciation
 freeport
 faciend
 fisherpeople
+frough
 funtumia
 faciends
 featheredges
@@ -5482,7 +5483,6 @@ flews
 flibbertigibbets
 flexed
 fartherer
-frough
 flexes
 flexibilities
 favouredly
