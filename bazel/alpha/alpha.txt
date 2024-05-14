@@ -1631,6 +1631,7 @@ accompt
 accordance
 accordancy
 accordatura
+agglutinoid
 amphiphloic
 accordaturas
 accordature
@@ -6030,7 +6031,6 @@ agamobium
 agglutinize
 agglutinogen
 agglutinogenic
-agglutinoid
 agglutinoscope
 acclaiming
 agglutogenic
