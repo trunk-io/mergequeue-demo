@@ -3546,6 +3546,7 @@ deformability
 droughermen
 disknow
 distomum
+delvers
 deformable
 deformation
 deformational
@@ -4375,7 +4376,6 @@ decanter
 dysarthria
 delver
 documentalist
-delvers
 delves
 dorsointestinal
 dem
