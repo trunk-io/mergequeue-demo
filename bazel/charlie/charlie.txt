@@ -18241,6 +18241,7 @@ chartings
 coffeegrower
 coffeegrowing
 cuss
+capelets
 coffeehouse
 coffeehoused
 coffeehouses
@@ -18428,7 +18429,6 @@ cogway
 cogways
 cogweel
 cogweels
-capelets
 cogwheels
 cogwood
 cohabitancy
