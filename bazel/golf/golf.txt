@@ -3331,7 +3331,6 @@ greenhorns
 genros
 gerland
 gilver
-gentisic
 glottalized
 ganglands
 germ
@@ -4542,6 +4541,7 @@ gypping
 gyp
 gyps
 greffier
+gentisic
 griskin
 gipser
 gipsy
