@@ -665,7 +665,6 @@ fameworthy
 forereport
 fusser
 familial
-familiarisation
 fowling
 finessing
 familiarise
@@ -2698,6 +2697,7 @@ foreshoulder
 ferrule
 farde
 frumentation
+familiarisation
 ferrules
 fanman
 federalese
