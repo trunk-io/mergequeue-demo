@@ -3517,7 +3517,6 @@ emboltement
 embordered
 embordering
 epidesmine
-emborders
 emboscata
 embosk
 embosked
@@ -10942,6 +10941,7 @@ eructation
 ereption
 euphemian
 enlivenments
+emborders
 ejectable
 excised
 exhalants
