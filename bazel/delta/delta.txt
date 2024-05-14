@@ -3002,7 +3002,6 @@ devitrify
 deducibly
 deducing
 disdiaclast
-deducive
 deducted
 deductibility
 deductible
@@ -16383,6 +16382,7 @@ downwardness
 downwards
 dysthymia
 dysanagnosia
+deducive
 downweed
 dehydrating
 downweighted
