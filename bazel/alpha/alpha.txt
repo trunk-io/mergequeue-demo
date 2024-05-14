@@ -12785,7 +12785,6 @@ angiocholecystitis
 angiochondroma
 angiodermatitis
 angiodiascopy
-angioelephantiasis
 atrabile
 angiofibroma
 angiogeny
@@ -24949,6 +24948,7 @@ antimonopolism
 awarder
 antidotary
 antilogarithmic
+angioelephantiasis
 adjudges
 awarders
 awardment
