@@ -1671,7 +1671,6 @@ gallons
 gastight
 gastly
 gastness
-gastnesses
 gregarinida
 gingili
 grignet
@@ -5570,6 +5569,7 @@ garring
 gloams
 granadillo
 gloated
+gastnesses
 glob
 glycosyls
 galvanocauterization
