@@ -7271,7 +7271,6 @@ fogs
 forepeak
 forefronts
 footpounds
-felicide
 flanderkin
 footprint
 footraces
@@ -8466,6 +8465,7 @@ fetors
 fibrinoplastic
 foreguidance
 formfeeds
+felicide
 forked
 fiddlestring
 formful
