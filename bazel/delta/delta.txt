@@ -5607,7 +5607,6 @@ designment
 departs
 demicolumn
 depascent
-depass
 derere
 delphinoid
 digested
@@ -18446,6 +18445,7 @@ despises
 dupondius
 dobe
 dissembled
+depass
 diose
 dupped
 diiambus
