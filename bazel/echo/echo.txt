@@ -1073,6 +1073,7 @@ equipper
 edibility
 edible
 expeditive
+exhaustingly
 expurgatory
 edibles
 edict
@@ -12455,7 +12456,6 @@ extend
 euphemia
 embryotrophic
 exhausting
-exhaustingly
 exhaustive
 eryon
 exhaustiveness
