@@ -9726,7 +9726,6 @@ brucella
 bishopling
 bishoprics
 bishopstool
-bulbose
 bishopweed
 bisiliac
 bestir
@@ -12464,6 +12463,7 @@ bondship
 bondslave
 bondsman
 braeman
+bulbose
 bondsmen
 bondstone
 bondswoman
