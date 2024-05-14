@@ -2622,7 +2622,6 @@ elinvar
 electrosurgery
 elaeocarpaceous
 eleutherodactyli
-electrosurgeries
 electrosurgical
 electrosurgically
 electrotactic
@@ -8021,6 +8020,7 @@ epiparasite
 exsanguination
 eurasia
 effervescence
+electrosurgeries
 erupt
 epibasal
 extortionist
