@@ -11074,6 +11074,7 @@ blocker
 blockers
 brid
 blockhead
+blaver
 blockheaded
 bankruptlike
 blockheadish
@@ -14613,7 +14614,6 @@ brassicas
 backworm
 brassier
 brassiere
-blaver
 bulter
 brassieres
 brassies
