@@ -4141,6 +4141,7 @@ groundsheet
 granum
 groining
 guildry
+grifted
 gimblet
 gimcrack
 galictis
@@ -8957,7 +8958,6 @@ guiding
 griffons
 guzzlers
 germicides
-grifted
 grifters
 glory
 gatewards
