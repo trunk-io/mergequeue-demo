@@ -10154,7 +10154,6 @@ guiser
 giallolino
 guidepost
 guideposts
-guiders
 guides
 glossophobia
 geroderma
@@ -10736,6 +10735,7 @@ gerald
 gut
 giber
 gutbucket
+guiders
 graminin
 granule
 glycerinate

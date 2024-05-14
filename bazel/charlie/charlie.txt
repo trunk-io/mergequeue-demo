@@ -2503,6 +2503,7 @@ candlepins
 candlepower
 chemist
 camelion
+chatterbox
 candler
 candlerent
 candlers
@@ -9350,7 +9351,6 @@ cerned
 chatterbag
 chyme
 cocainizing
-chatterbox
 chatterboxes
 chattered
 chincapin
