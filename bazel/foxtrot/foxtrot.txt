@@ -6045,6 +6045,7 @@ fasels
 foetuses
 frontooccipital
 fayed
+flanging
 floressence
 fleam
 faros
@@ -8685,7 +8686,6 @@ forthteller
 feteless
 fame
 forgive
-flanging
 fourness
 fireworks
 forthwith
