@@ -6017,6 +6017,7 @@ deed
 depsides
 dept
 depth
+droopy
 depthen
 devitation
 depthless
@@ -16634,7 +16635,6 @@ dragonwort
 desoxyribonuclease
 dismality
 dragoonable
-droopy
 dirt
 dragoonade
 dragoonage
