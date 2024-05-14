@@ -3212,7 +3212,6 @@ actionably
 assoc
 actionary
 actioner
-avulsions
 actiones
 aurivorous
 actionist
@@ -5047,6 +5046,7 @@ anodine
 aerolite
 apterygogenea
 aerolites
+avulsions
 admonitioner
 aerolith
 aerolithology
