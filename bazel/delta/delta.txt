@@ -12606,7 +12606,6 @@ descendentalist
 disjoins
 disjointed
 disjointedly
-disjointedness
 disjointing
 disjointly
 disjointness
@@ -15254,6 +15253,7 @@ descriptives
 dorididae
 dolomitise
 dolomitization
+disjointedness
 dumpty
 dolomitize
 dolomitizing
