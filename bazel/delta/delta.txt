@@ -2346,7 +2346,6 @@ deceptiveness
 deceptory
 decerebrate
 disfavourable
-decerebrated
 dustup
 demeriting
 decerebration
@@ -12565,6 +12564,7 @@ dealbation
 disinterested
 disinterestedly
 disinterestedness
+decerebrated
 distillation
 disinterment
 disinterring
