@@ -5418,7 +5418,6 @@ afflicts
 auctioneer
 affloof
 affluence
-affluency
 affluent
 affluently
 affluentness
@@ -19692,6 +19691,7 @@ astringing
 arider
 apterium
 aridest
+affluency
 aridian
 aridity
 analogies
