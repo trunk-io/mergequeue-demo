@@ -8195,7 +8195,6 @@ forfairn
 fumbler
 forfalt
 friezing
-formats
 forfars
 forfault
 forfaulture
@@ -10435,6 +10434,7 @@ fortune
 feracities
 fronter
 frontier
+formats
 fowage
 frontierless
 farmyards
