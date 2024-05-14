@@ -43,7 +43,6 @@ flintless
 flamberge
 fabricators
 fabricature
-fabrics
 filters
 futurities
 fuddledness
@@ -9845,6 +9844,7 @@ fornicate
 frenums
 fraicheur
 frenzy
+fabrics
 figurability
 frenzies
 freq
