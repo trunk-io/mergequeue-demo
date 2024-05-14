@@ -518,6 +518,7 @@ billhead
 biscot
 backstitches
 briming
+barkstone
 backstitching
 broadway
 backstopped
@@ -2651,7 +2652,6 @@ batrachite
 beheld
 breathtakingly
 becrawls
-barkstone
 barlafumble
 blurred
 bicentennial
