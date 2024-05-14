@@ -1017,7 +1017,6 @@ calcanean
 castro
 calcaneoastragalar
 calcaneoastragaloid
-calcaneonavicular
 calcaneoplantar
 countershout
 countersale
@@ -5420,6 +5419,7 @@ castoreum
 cookshack
 castorial
 castorin
+calcaneonavicular
 castorite
 castorized
 castors
