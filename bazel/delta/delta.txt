@@ -13080,7 +13080,6 @@ drawboard
 demo
 discommendableness
 dendrolene
-dispersoid
 dispersoidological
 dispersonate
 dondia
@@ -18647,6 +18646,7 @@ decurved
 dvigu
 dwayberry
 dwaible
+dispersoid
 disadvantaging
 danaide
 dwale
