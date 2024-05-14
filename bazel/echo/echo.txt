@@ -1025,7 +1025,6 @@ ethyls
 edentate
 elegance
 edentulate
-edentulous
 edeodynia
 entheate
 electrophysiology
@@ -9710,6 +9709,7 @@ esophagoplasty
 esophagoptosis
 esophagorrhagia
 embodiment
+edentulous
 esophagoscopy
 esophagostenosis
 esophagotome
