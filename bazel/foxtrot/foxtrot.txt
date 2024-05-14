@@ -624,6 +624,7 @@ fiard
 falsifier
 falsifying
 falunian
+feats
 fanum
 fict
 friskers
@@ -8043,7 +8044,6 @@ flexional
 frontoethmoid
 forgetting
 forestcraft
-feats
 foresteep
 flash
 fratricidal
