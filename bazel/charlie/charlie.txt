@@ -18249,6 +18249,7 @@ coffeehouses
 cavalry
 coffeeleaf
 coffeeman
+coquinas
 coffeepot
 coffeepots
 coffeeroom
@@ -24855,7 +24856,6 @@ coquille
 crosiers
 coquilles
 coquimbite
-coquinas
 coquita
 coquitlam
 clake
