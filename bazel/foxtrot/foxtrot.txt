@@ -4290,7 +4290,6 @@ firmness
 funditor
 firmnesses
 fauces
-feelingless
 frailty
 firms
 forethought
@@ -8719,6 +8718,7 @@ fortissimo
 forepad
 fortissimos
 fabricatress
+feelingless
 forefin
 fraenular
 fortnight
