@@ -4463,7 +4463,6 @@ bellona
 bromhydric
 bechase
 bechatter
-battak
 bechauffeur
 bilker
 blockishness
@@ -10843,6 +10842,7 @@ blepharoptosis
 blepharorrhaphy
 benben
 blepharosyndesmitis
+battak
 blepharosynechia
 blepharospasm
 blepharosphincterectomy
