@@ -7320,7 +7320,6 @@ disseats
 deterministic
 demodicidae
 descend
-deterministically
 determinists
 duecentos
 deterrability
@@ -17899,6 +17898,7 @@ duelli
 duelling
 duellist
 duello
+deterministically
 duellos
 durance
 droopt
