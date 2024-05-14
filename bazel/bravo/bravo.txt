@@ -5151,7 +5151,6 @@ beflag
 barkevikite
 beflagged
 bodymaking
-benumbedness
 beflagging
 beflannel
 bureaucrat
@@ -18205,6 +18204,7 @@ betrothal
 biodegradation
 bacteriologically
 bricky
+benumbedness
 balneary
 butlery
 butleries
