@@ -2126,7 +2126,6 @@ clerkliest
 camphorone
 camphorphorone
 camphors
-communitorium
 camphorweed
 camphorwood
 campi
@@ -28168,6 +28167,7 @@ craniologist
 concaved
 craniom
 cleistotcia
+communitorium
 craniomalacia
 cremains
 craniomaxillary
