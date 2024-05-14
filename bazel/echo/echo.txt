@@ -3513,7 +3513,6 @@ embolo
 embolomalerism
 epidural
 ectoskeleton
-embolomycotic
 embolon
 elms
 emboltement
@@ -6908,6 +6907,7 @@ estoppel
 erythrocytic
 embitterment
 epideictical
+embolomycotic
 entophytous
 extrusive
 epimere
