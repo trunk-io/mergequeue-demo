@@ -4632,7 +4632,6 @@ beday
 biddable
 bedamned
 bedamning
-bedamp
 benzylpenicillin
 bituberculated
 babbled
@@ -8593,6 +8592,7 @@ begrudgingly
 bileve
 bilewhit
 bootjack
+bedamp
 bouteloua
 bilgeway
 bilgy
