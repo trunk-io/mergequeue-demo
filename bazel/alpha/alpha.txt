@@ -17771,7 +17771,6 @@ appestats
 appet
 appete
 appetence
-archetypical
 appetent
 antitegula
 appetibility
@@ -22497,6 +22496,7 @@ atelets
 atelic
 atelier
 ateliers
+archetypical
 ateliosis
 ateliotic
 atelo
