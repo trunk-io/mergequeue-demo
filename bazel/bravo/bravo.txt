@@ -1771,7 +1771,6 @@ buses
 biretta
 balun
 balustrade
-balustrades
 balustrading
 balwarra
 balza
@@ -9481,6 +9480,7 @@ browpiece
 braider
 bungs
 birdwise
+balustrades
 benedictus
 breme
 bridegroom
