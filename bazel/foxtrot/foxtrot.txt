@@ -5090,7 +5090,6 @@ feltlike
 ferricyanhydric
 flasker
 foretooth
-flaskets
 fellahin
 flasklet
 flasks
@@ -8215,6 +8214,7 @@ fringes
 forfex
 fairyologist
 forficate
+flaskets
 felines
 forficated
 forfication
