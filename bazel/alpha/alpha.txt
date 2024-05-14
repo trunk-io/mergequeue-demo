@@ -10593,6 +10593,7 @@ arawakan
 adossee
 amyloidoses
 amyloidosis
+anguille
 amyloleucite
 amylolysis
 arkite
@@ -21351,7 +21352,6 @@ aslant
 aslantwise
 aslaver
 adenylpyrophosphate
-anguille
 asleep
 aslumber
 arolla
