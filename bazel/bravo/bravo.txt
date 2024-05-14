@@ -8759,7 +8759,6 @@ bolograph
 bibionidae
 billowiest
 billowing
-billows
 bravery
 bounceable
 buncoed
@@ -13411,6 +13410,7 @@ bottlemaker
 bottleman
 bottleneck
 brayer
+billows
 bottlenest
 bottlenose
 bottlers
