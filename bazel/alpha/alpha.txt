@@ -4808,7 +4808,6 @@ aeginetic
 aegipan
 aegyptilla
 agonisingly
-aegir
 aegirinolite
 aegyrite
 aegises
@@ -15142,6 +15141,7 @@ antidiastase
 antidicomarian
 antidicomarianite
 antidictionary
+aegir
 antidynastic
 antidynastical
 antidynastically
