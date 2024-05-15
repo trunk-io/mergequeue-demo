@@ -8341,6 +8341,7 @@ dissert
 dial
 dialcohol
 dialect
+dirdum
 dialectal
 dialectalize
 dialectally
@@ -10786,7 +10787,6 @@ diquat
 dir
 diradiation
 dircaean
-dirdum
 dirdums
 dire
 direcly
