@@ -2118,7 +2118,6 @@ foreproffer
 felid
 felids
 felinae
-feline
 feru
 fogle
 flamineous
@@ -6917,6 +6916,7 @@ folky
 fidejussory
 folkish
 folkishness
+feline
 flickertail
 frizette
 fasnacht
