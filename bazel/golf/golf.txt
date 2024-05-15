@@ -6535,7 +6535,6 @@ goldbug
 geswarp
 gads
 goldbugs
-goldcrest
 gabbles
 goldeyes
 golden
@@ -7465,6 +7464,7 @@ giddea
 gymnogen
 gadolinium
 governableness
+goldcrest
 graphostatic
 galavanted
 grafship
