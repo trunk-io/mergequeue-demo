@@ -269,7 +269,6 @@ abdominoscopy
 agas
 abdominothoracic
 abdominous
-ardentness
 abduce
 abducens
 abducentes
@@ -938,6 +937,7 @@ absolute
 axmen
 azophosphin
 atonies
+ardentness
 alibiing
 absoluteness
 absolutest
