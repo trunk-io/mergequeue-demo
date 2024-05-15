@@ -612,7 +612,6 @@ beshouted
 biblist
 bacterially
 bacteric
-bactericidally
 bactericide
 beethoven
 bawke
@@ -17311,6 +17310,7 @@ bumclock
 bumelia
 boltings
 biomaterial
+bactericidally
 beautifully
 bumfeg
 bumfuzzle
