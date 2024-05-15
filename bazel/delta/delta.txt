@@ -2256,7 +2256,6 @@ decd
 deceased
 dewormed
 donnish
-deceases
 deceasing
 deceit
 deceitful
@@ -11976,6 +11975,7 @@ disembogue
 disembogued
 denaturation
 disemboguing
+deceases
 denazifies
 dominator
 disembowel
