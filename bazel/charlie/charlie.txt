@@ -7814,7 +7814,6 @@ ceroplastics
 ceros
 cerosin
 cerote
-cesura
 cerotic
 cerotin
 cerotypes
@@ -13390,6 +13389,7 @@ cycloidean
 cogswellia
 cycloidei
 cycloidotrope
+cesura
 cycloids
 cyclolysis
 cycloloma
