@@ -12256,7 +12256,6 @@ buckstay
 bolted
 bowenite
 bolters
-bedotted
 behold
 boltheading
 bolthole
@@ -16984,6 +16983,7 @@ bulb
 bulbar
 bulbed
 bulbel
+bedotted
 bulby
 bulbier
 behaviorism
