@@ -6329,7 +6329,6 @@ aul
 ascabart
 alchemise
 agoniatite
-agoniatites
 aegerian
 agonic
 agonies
@@ -14323,6 +14322,7 @@ antesternal
 antesternum
 amphichromatic
 antesuperior
+agoniatites
 arboretums
 antetemple
 antetype
