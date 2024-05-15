@@ -15507,7 +15507,6 @@ clapmatch
 clapnest
 clapnet
 concentered
-clapotis
 cricketed
 clappe
 clapper
@@ -29685,6 +29684,7 @@ crojack
 crojik
 carousingly
 complimented
+clapotis
 croker
 crokinole
 crom
