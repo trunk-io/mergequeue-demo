@@ -10708,7 +10708,6 @@ demonstrators
 dipodomyinae
 dipodomys
 dipolar
-dipolarization
 dipolsphene
 depit
 dipotassic
@@ -15083,6 +15082,7 @@ dogsleds
 degustate
 disconformable
 dogsleep
+dipolarization
 dogstones
 dogtie
 degenerated
