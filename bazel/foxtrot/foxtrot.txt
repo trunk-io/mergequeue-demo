@@ -3106,7 +3106,6 @@ fiberglas
 fiberizes
 fiberizing
 fenestrule
-fishmen
 festine
 flagstaves
 fertilising
@@ -10263,6 +10262,7 @@ forker
 flaxen
 forbit
 fauna
+fishmen
 feued
 frizing
 frizz
