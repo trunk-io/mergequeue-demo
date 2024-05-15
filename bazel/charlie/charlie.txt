@@ -3339,6 +3339,7 @@ celsius
 conformity
 capote
 chondroganoidei
+cyclohexene
 capouches
 cappadine
 cappadochio
@@ -13376,7 +13377,6 @@ cashoos
 cyclohexanol
 cyclohexanone
 cyclohexatriene
-cyclohexene
 cyclohexyl
 cyclohexylamine
 cycloheximide

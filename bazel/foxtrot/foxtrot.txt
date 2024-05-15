@@ -6024,6 +6024,7 @@ fumigation
 flopwing
 flora
 floral
+furanoside
 floramour
 floras
 furnaced
@@ -9824,7 +9825,6 @@ frenchly
 fences
 frenchman
 floatable
-furanoside
 forestick
 flycaster
 fevery
