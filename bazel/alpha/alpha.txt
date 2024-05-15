@@ -1566,6 +1566,7 @@ accoll
 archaised
 angiostenosis
 ankylosaurus
+avigator
 accolle
 accolled
 accollee
@@ -24769,7 +24770,6 @@ avifaunas
 avifaunistic
 avigate
 avigation
-avigator
 avigators
 actualising
 acinetan
