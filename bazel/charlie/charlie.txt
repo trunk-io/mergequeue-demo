@@ -18840,6 +18840,7 @@ coliidae
 chaetophoraceae
 cavil
 clitellus
+crystosphene
 colilysin
 caddied
 colymbidae
@@ -29520,7 +29521,6 @@ completely
 cerebrums
 crystoleum
 crystolon
-crystosphene
 crit
 critch
 criteria
