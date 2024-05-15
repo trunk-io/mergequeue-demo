@@ -1686,6 +1686,7 @@ balmonies
 balmoral
 buzzwig
 boroughmaster
+boone
 balmorals
 bunemost
 byegaein
@@ -12820,7 +12821,6 @@ boondoggle
 boondogglers
 blipped
 boondoggling
-boone
 banishers
 boonfellow
 brawl
