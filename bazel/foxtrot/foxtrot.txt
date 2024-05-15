@@ -3795,7 +3795,6 @@ filmstrip
 filmstrips
 filo
 fulmicotton
-filoplume
 filose
 furnitureless
 fils
@@ -5806,6 +5805,7 @@ frivolize
 flitwite
 flivver
 fumariaceous
+filoplume
 flyway
 flyways
 fishable
