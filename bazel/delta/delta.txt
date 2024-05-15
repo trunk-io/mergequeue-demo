@@ -12447,7 +12447,6 @@ dendrolite
 dishwatery
 disidentify
 dysidrosis
-disilane
 disilicane
 dancette
 disilicate
@@ -17620,6 +17619,7 @@ drums
 drumslade
 drumstick
 drumsticks
+disilane
 diplokaryon
 delundung
 drumwood
