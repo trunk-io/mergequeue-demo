@@ -6656,7 +6656,6 @@ deperming
 desert
 deserted
 desertedly
-deserter
 deserters
 deescalated
 denotational
@@ -13676,6 +13675,7 @@ diligency
 dissimuler
 dyssynergy
 dissinew
+deserter
 deceivingly
 ding
 dissipatedly
