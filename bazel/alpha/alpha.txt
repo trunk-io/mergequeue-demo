@@ -2412,7 +2412,6 @@ acidophilic
 acidophilus
 acidoses
 afternoon
-acidosis
 acidosteophyte
 acidotic
 acids
@@ -8656,6 +8655,7 @@ astronautically
 allegiare
 allegorically
 allegories
+acidosis
 allegorisation
 allegorise
 artistdom
