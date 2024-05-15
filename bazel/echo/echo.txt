@@ -2184,7 +2184,6 @@ eventuate
 eldress
 eldrich
 eldritch
-elds
 elean
 eleanor
 eyases
@@ -7698,6 +7697,7 @@ enterorrhexis
 equilibration
 epidemiologic
 epistolean
+elds
 embryologic
 enfeeblement
 ethylating
