@@ -2170,6 +2170,7 @@ baptise
 backup
 baptised
 brecken
+blahlaut
 baptisia
 baptisias
 baptisin
@@ -16916,7 +16917,6 @@ bught
 baku
 bugi
 buginese
-blahlaut
 buginvillaea
 bugle
 bedcap
