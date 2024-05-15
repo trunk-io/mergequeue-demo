@@ -5587,7 +5587,6 @@ afterbirth
 achronical
 antiutilitarian
 afterblow
-afterbody
 afterbodies
 amyloids
 afterbrain
@@ -23935,6 +23934,7 @@ autocatalyses
 autocatalysis
 autocatalyze
 autocatharsis
+afterbody
 autocatheterism
 autocephalia
 autocephalic
