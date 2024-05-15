@@ -15660,7 +15660,6 @@ classicist
 classicists
 creatureliness
 classicizing
-classico
 classicolatry
 codium
 classier
@@ -18251,6 +18250,7 @@ cavalry
 coffeeleaf
 coffeeman
 coquinas
+classico
 coffeepot
 coffeepots
 coffeeroom
