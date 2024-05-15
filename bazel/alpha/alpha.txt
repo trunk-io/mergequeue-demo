@@ -8493,6 +8493,7 @@ attidae
 alkalinity
 alkalinities
 abactor
+augmentations
 adynamy
 alkalinized
 alkalinizes
@@ -23400,7 +23401,6 @@ augitophyre
 augment
 absolutistic
 augmentable
-augmentations
 acopic
 augmented
 augmentedly
