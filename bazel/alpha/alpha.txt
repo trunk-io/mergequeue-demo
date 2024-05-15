@@ -3348,7 +3348,6 @@ acute
 acutely
 acutenaculum
 acuter
-acutes
 aeromarine
 allicit
 adjunct
@@ -12979,6 +12978,7 @@ anguiped
 afterhatch
 anguish
 anguished
+acutes
 anguishes
 antipriming
 anguishing
