@@ -4817,6 +4817,7 @@ fitchy
 flagstick
 falconers
 flagworm
+fluidifying
 feridji
 flayed
 feramorz
@@ -9879,7 +9880,6 @@ freshening
 flay
 fresher
 funambulism
-fluidifying
 freshets
 fioritura
 freshhearted
