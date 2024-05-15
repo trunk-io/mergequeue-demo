@@ -6285,7 +6285,6 @@ dermatodynia
 dermatogen
 dermatoglyphics
 dermatography
-dsect
 diplonephridia
 ducklar
 dermatographism
@@ -12240,6 +12239,7 @@ disgenic
 dysgenic
 dysgenical
 dysgeogenous
+dsect
 disglory
 dimication
 disglut
