@@ -4428,7 +4428,6 @@ courthouses
 caryota
 caryotin
 carious
-cacography
 caripuna
 cariri
 caririan
@@ -21350,6 +21349,7 @@ concierges
 cadaverize
 concile
 conciliable
+cacography
 conciliabule
 coassession
 chaperoning
