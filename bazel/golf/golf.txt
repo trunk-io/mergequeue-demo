@@ -6129,6 +6129,7 @@ geometry
 gravitation
 gnabble
 graspers
+gouging
 gibberose
 gelotometer
 gingles
@@ -10237,7 +10238,6 @@ geldable
 guiltsick
 guimbard
 guimpe
-gouging
 guinde
 gr
 grayer
