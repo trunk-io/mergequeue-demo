@@ -1097,7 +1097,6 @@ edifice
 earwaxes
 edificed
 edifices
-edificial
 edificing
 edified
 edifiers
@@ -13052,6 +13051,7 @@ epistolizable
 expending
 expenditor
 expenditrix
+edificial
 expenditure
 enfonced
 envoi
