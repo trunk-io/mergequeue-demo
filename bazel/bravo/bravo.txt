@@ -2658,7 +2658,6 @@ brachiocrural
 bifluorid
 barlafummil
 barleduc
-branchiate
 barleducs
 barley
 barleybrake
@@ -10819,6 +10818,7 @@ biacuminate
 blepharocera
 blepharoceridae
 birthrate
+branchiate
 blepharochromidrosis
 beechdrops
 bcf
