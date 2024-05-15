@@ -11986,6 +11986,7 @@ choreodrama
 choreographed
 choreographer
 choreographers
+colorcasted
 choreography
 choreographic
 choreographical
@@ -19399,7 +19400,6 @@ colorblind
 colorblindness
 colorbreed
 colorcast
-colorcasted
 colorcasting
 colorcasts
 colorectitis
