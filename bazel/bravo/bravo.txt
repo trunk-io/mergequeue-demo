@@ -1185,6 +1185,7 @@ beltmen
 brakehand
 bajree
 bajury
+bunco
 bakairi
 bakal
 biasteric
@@ -11426,7 +11427,6 @@ bluenose
 burros
 bluenosed
 bluenoses
-bunco
 bluepoint
 blackwasher
 bluepoints
