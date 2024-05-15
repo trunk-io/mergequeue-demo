@@ -7737,7 +7737,6 @@ grains
 grainsickness
 grainsman
 grainsmen
-glimpse
 gentianal
 gainable
 groundspeed
@@ -10034,6 +10033,7 @@ gargoyles
 greasing
 gook
 guemul
+glimpse
 graveolency
 guenon
 greenback
