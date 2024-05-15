@@ -1399,7 +1399,6 @@ baldnesses
 bridoon
 baldoquin
 baldpate
-baldpated
 bragget
 baldpatedness
 baldrib
@@ -9924,6 +9923,7 @@ bromals
 bityite
 bitingly
 banderols
+baldpated
 bitmap
 bimbos
 bitmapped
