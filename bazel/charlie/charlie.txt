@@ -4141,7 +4141,6 @@ courche
 cardiolysis
 cumflutter
 cyclopean
-capriole
 cortaro
 cymric
 cardiology
@@ -10910,6 +10909,7 @@ chip
 chipchap
 chipchop
 chipewyan
+capriole
 chiplet
 clayman
 chipling
