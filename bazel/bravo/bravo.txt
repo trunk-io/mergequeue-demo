@@ -3528,7 +3528,6 @@ bumbass
 bissext
 birdcall
 batched
-brokership
 batcher
 batching
 bargemen
@@ -11313,6 +11312,7 @@ blowoff
 blowouts
 blowproof
 blows
+brokership
 biologism
 blowse
 baith
