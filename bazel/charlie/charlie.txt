@@ -4794,7 +4794,6 @@ carpos
 chibouk
 carposporangial
 cerebropathy
-carposporangium
 catalase
 carpospore
 carposporous
@@ -28717,6 +28716,7 @@ creoleize
 creolian
 creolin
 creolism
+carposporangium
 coart
 creolite
 creolization

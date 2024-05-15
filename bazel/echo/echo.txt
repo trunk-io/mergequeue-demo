@@ -511,7 +511,6 @@ etymology
 echidnas
 endobiotic
 evocate
-echimys
 echinacea
 evelina
 echinated
@@ -6708,6 +6707,7 @@ exceptant
 entertainingly
 entertainingness
 entertainment
+echimys
 epicenters
 entertains
 entertake
