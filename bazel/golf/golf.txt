@@ -472,6 +472,7 @@ gannets
 galleyman
 gonimoblast
 genotype
+glanced
 gastrocoele
 gollar
 galenites
@@ -2139,7 +2140,6 @@ gnomist
 gelndesprung
 gazometer
 gawkhammer
-glanced
 graptolitoidea
 gawky
 graphometrist
