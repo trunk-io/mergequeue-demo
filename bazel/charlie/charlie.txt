@@ -20446,7 +20446,6 @@ cembalist
 companying
 counterstatute
 companion
-companionability
 companionableness
 cheques
 consumers
@@ -23235,6 +23234,7 @@ coffinmaker
 constructivist
 circumstantiable
 conformance
+companionability
 constructor
 cunnilingus
 constructors
