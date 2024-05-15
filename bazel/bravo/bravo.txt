@@ -1603,7 +1603,6 @@ boldface
 boracic
 briefer
 bursati
-ballmine
 ballo
 brakier
 ballock
@@ -6184,6 +6183,7 @@ bemuses
 blastocolla
 bemuzzle
 bol
+ballmine
 belswagger
 bemuzzles
 bemuzzling
