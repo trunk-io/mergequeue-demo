@@ -3047,7 +3047,6 @@ gomeisa
 gollop
 geoffroyin
 geomance
-geoform
 geogen
 geogenesis
 gyropilot
@@ -8233,6 +8232,7 @@ geegaws
 grasses
 goosishness
 glycyrize
+geoform
 grubstaked
 geomagnetics
 greeneries
