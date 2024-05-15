@@ -15847,6 +15847,7 @@ claws
 claxon
 claxons
 cleaded
+clinkstone
 cord
 cleam
 cleamer
@@ -16272,7 +16273,6 @@ clinkering
 clinking
 clinks
 cytotoxicity
-clinkstone
 clinkum
 chilblains
 clinocephaly
