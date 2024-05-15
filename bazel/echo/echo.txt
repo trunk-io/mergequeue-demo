@@ -5309,6 +5309,7 @@ ensorcerize
 embreathement
 effet
 elaps
+enhypostasis
 elamitic
 elechi
 epigoneion
@@ -12035,7 +12036,6 @@ excite
 emanation
 extraction
 excited
-enhypostasis
 enscene
 excitedly
 excitedness
