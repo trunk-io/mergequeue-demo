@@ -4468,6 +4468,7 @@ freighting
 fissirostrate
 fissirostres
 fissle
+furcule
 frostier
 fissura
 finesse
@@ -6766,7 +6767,6 @@ fairydom
 foh
 fohn
 fohns
-furcule
 fomalhaut
 folliculin
 fanny
