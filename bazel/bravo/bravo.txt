@@ -7333,7 +7333,6 @@ bestudded
 blackhander
 bestrew
 bearwoods
-bestrewed
 bestrewment
 bestrewn
 basses
@@ -12536,6 +12535,7 @@ bonyfish
 bacubert
 brontosaurs
 bonilass
+bestrewed
 bud
 boniness
 boning
