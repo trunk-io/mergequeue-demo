@@ -11057,6 +11057,7 @@ ampere
 amperemeter
 amatory
 ampery
+achromatized
 amperian
 attenuation
 amperometer
@@ -16506,7 +16507,6 @@ angleworm
 antrorse
 antrorsely
 antroscope
-achromatized
 antrostomus
 antrotympanic
 antrotympanitis
