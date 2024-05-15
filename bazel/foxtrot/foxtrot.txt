@@ -1680,7 +1680,6 @@ forbite
 fc
 fitchering
 fipenny
-fcomp
 fconv
 farcin
 familiar
@@ -2863,6 +2862,7 @@ fringiness
 foreappointment
 fetas
 fetation
+fcomp
 filmdoms
 fetations
 flourescent
