@@ -146,7 +146,6 @@ cablelaid
 cableless
 cablelike
 cableman
-cablemen
 chryseis
 cables
 cablese
@@ -17148,6 +17147,7 @@ coaffirmation
 coafforest
 coaged
 cencerros
+cablemen
 coagel
 coagency
 coeloms
