@@ -270,7 +270,6 @@ abdominoscopy
 agas
 abdominothoracic
 abdominous
-atabal
 ardentness
 abduce
 abducens
@@ -8164,6 +8163,7 @@ algiomuscular
 algist
 anonad
 algodon
+atabal
 asexual
 algodoncillo
 algodonite
