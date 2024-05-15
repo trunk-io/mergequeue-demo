@@ -6082,7 +6082,6 @@ glutamate
 geic
 geodesics
 gazing
-griots
 gardencraft
 glutamine
 genevois
@@ -9346,6 +9345,7 @@ grossed
 grossen
 gyrosyn
 granma
+griots
 gists
 grossers
 grosses
