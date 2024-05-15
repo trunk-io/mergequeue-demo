@@ -784,7 +784,6 @@ anchylosing
 abreid
 abrenounce
 asyle
-abreption
 abret
 abreuvoir
 abri
@@ -15941,6 +15940,7 @@ antipooling
 antipope
 alvia
 antipopery
+abreption
 antipopes
 antipopulationist
 antiportable
