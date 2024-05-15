@@ -2369,6 +2369,7 @@ glucoprotein
 gharial
 gerastian
 gelatiniform
+gignate
 grundlov
 gaudier
 gelatinigerous
@@ -10742,7 +10743,6 @@ granule
 glycerinate
 gomerels
 guinfo
-gignate
 gutium
 gimbals
 gallium
