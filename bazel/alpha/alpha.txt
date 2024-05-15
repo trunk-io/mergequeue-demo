@@ -8516,7 +8516,6 @@ alkalizes
 alkalizing
 alkaloid
 alkaloids
-alkalometry
 alkalosis
 allege
 alkalous
@@ -12895,6 +12894,7 @@ anglicization
 anglicize
 anglicized
 anglify
+alkalometry
 aporosa
 anglimaniac
 apperceiving
