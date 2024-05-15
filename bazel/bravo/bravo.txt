@@ -5826,6 +5826,7 @@ bell
 bonos
 bellacoola
 belladonna
+beteela
 bifidities
 biltongs
 bellatrix
@@ -7432,7 +7433,6 @@ barways
 behorror
 betear
 backflip
-beteela
 betel
 buttwood
 blacklegs
