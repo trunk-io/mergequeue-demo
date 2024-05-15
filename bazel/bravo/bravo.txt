@@ -1506,7 +1506,6 @@ balladic
 balladical
 balladier
 balladised
-balladising
 balladism
 bronchopleurisy
 balladist
@@ -3752,6 +3751,7 @@ battements
 battened
 battener
 beknown
+balladising
 batteners
 battens
 batter
