@@ -3935,7 +3935,6 @@ bawneen
 bawra
 bestial
 barrow
-bawrel
 bullyable
 bastardisation
 bawsint
@@ -4795,6 +4794,7 @@ borak
 bedman
 bedmate
 bibbons
+bawrel
 bednights
 bungo
 bedoctor
