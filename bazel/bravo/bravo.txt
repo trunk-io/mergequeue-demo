@@ -1776,7 +1776,6 @@ balun
 balustrade
 balustrading
 balwarra
-balza
 balzarine
 bam
 brittled
@@ -16588,6 +16587,7 @@ booty
 brahmanic
 buccogingival
 bewield
+balza
 brothel
 buccolabial
 bides
