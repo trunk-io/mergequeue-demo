@@ -4394,7 +4394,6 @@ aortitis
 adrenitis
 adrenochrome
 adrenocortical
-adrenocorticosteroid
 adrenocorticotrophic
 ammonolysis
 albuminosis
@@ -19534,6 +19533,7 @@ argillaceous
 argillic
 argilliferous
 assessing
+adrenocorticosteroid
 archapostate
 argillite
 argilloferruginous
