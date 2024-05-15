@@ -4131,7 +4131,6 @@ birken
 bargees
 bantlings
 bean
-beanbag
 brickred
 beanball
 brooked
@@ -8092,6 +8091,7 @@ bicarbonates
 bicarbureted
 bicarburetted
 baptistery
+beanbag
 barnstorm
 bicaudate
 bicched
