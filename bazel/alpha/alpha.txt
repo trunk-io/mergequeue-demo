@@ -1185,7 +1185,6 @@ areae
 academicals
 aneroidograph
 academician
-academicianship
 academicism
 academics
 academie
@@ -22714,6 +22713,7 @@ atloaxoid
 atloid
 atloidean
 atloidoaxoid
+academicianship
 aurigid
 atma
 atman
