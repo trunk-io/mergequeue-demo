@@ -3842,7 +3842,6 @@ adhort
 ady
 adiabat
 assistency
-adiadochokinesia
 antecedal
 adiadochokinesis
 adiadokokinesi
@@ -12340,6 +12339,7 @@ andesytes
 andesitic
 andevo
 assisi
+adiadochokinesia
 andhra
 andi
 acyloxymethane
