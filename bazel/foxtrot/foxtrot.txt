@@ -4413,6 +4413,7 @@ feste
 fishpole
 foodlessness
 fishpoles
+forlornest
 farms
 fishponds
 fishpotter
@@ -11024,7 +11025,6 @@ fumbling
 fossulate
 feldspathization
 forkable
-forlornest
 fumblingness
 fumbulator
 fumed
