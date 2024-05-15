@@ -2748,6 +2748,7 @@ elementalism
 elementalist
 elementalistic
 elementality
+expulse
 episcope
 elementalize
 elementally
@@ -13424,7 +13425,6 @@ expugn
 emarginating
 ensalada
 ekphoria
-expulse
 expulses
 expulsing
 encopresis
