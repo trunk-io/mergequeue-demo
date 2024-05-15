@@ -9823,6 +9823,7 @@ babble
 boatels
 bioenergetics
 basilosaurus
+boatie
 byssogenous
 byssoid
 byssolite
@@ -11628,7 +11629,6 @@ boatheader
 boathook
 boathouse
 boatyard
-boatie
 backbends
 boating
 boatings
