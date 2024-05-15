@@ -5655,7 +5655,6 @@ beknow
 bel
 bela
 burgonets
-belabor
 bruscus
 beachcomber
 belaboring
@@ -7502,6 +7501,7 @@ bevels
 bituminize
 byproduct
 botrycymose
+belabor
 betoyan
 betoken
 boomdas
