@@ -659,6 +659,7 @@ fringefoot
 fam
 famacide
 ferromagnet
+fletcherite
 furlanas
 fortitudinous
 frill
@@ -5456,7 +5457,6 @@ fleshpot
 flet
 flagfall
 fletcherism
-fletcherite
 following
 factories
 fletchers
