@@ -7628,7 +7628,6 @@ drafty
 disabler
 daijo
 devastative
-devastator
 deionization
 dogbody
 disquiparant
@@ -12907,6 +12906,7 @@ disorders
 downwith
 disordinance
 disordinate
+devastator
 disordinated
 disconsider
 dysorexia
