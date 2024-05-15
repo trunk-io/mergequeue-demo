@@ -1176,7 +1176,6 @@ educability
 educables
 educand
 educatability
-epicrystalline
 eident
 elkhounds
 educatable
@@ -5671,6 +5670,7 @@ enginery
 engineries
 ellwand
 engirding
+epicrystalline
 embrace
 engirdle
 engirdled
