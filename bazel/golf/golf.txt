@@ -1622,6 +1622,7 @@ grype
 galerie
 gasometrical
 gothicity
+glycaemic
 gladlier
 gurt
 gasoscope
@@ -5344,7 +5345,6 @@ gorilla
 grenier
 glibness
 glibnesses
-glycaemic
 glycemia
 glycerate
 glyceria
