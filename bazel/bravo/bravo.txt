@@ -1884,7 +1884,6 @@ brython
 bakehouse
 bandhava
 bandhook
-bandhu
 bandyball
 bandicoy
 bonzes
@@ -15315,6 +15314,7 @@ brigandine
 brigandish
 brigandishly
 boccis
+bandhu
 brigantia
 brigantines
 brigatry
