@@ -11665,6 +11665,7 @@ anaesthesis
 anaesthetic
 appearanced
 anaesthetically
+arrange
 anthropomantic
 ade
 anaesthetics
@@ -15319,7 +15320,6 @@ antifriction
 antifrictional
 antifrost
 antifundamentalism
-arrange
 amens
 atrichosis
 antifungal
