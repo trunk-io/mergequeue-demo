@@ -1348,6 +1348,7 @@ balboa
 bethlehem
 bioplastic
 balboas
+barrowcoat
 botrylle
 bulgarian
 balbusard
@@ -6174,7 +6175,6 @@ bemuddlement
 bemuddles
 bemuddling
 backtrail
-barrowcoat
 bloodstone
 bemurmur
 bemurmure
