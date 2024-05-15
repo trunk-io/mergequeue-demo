@@ -2154,6 +2154,7 @@ gawkish
 gawm
 gatewise
 glavering
+galena
 gawn
 gateways
 gapo
@@ -6913,7 +6914,6 @@ gonzalo
 gonzo
 gripman
 gynandroid
-galena
 glomi
 grabman
 graticulate
