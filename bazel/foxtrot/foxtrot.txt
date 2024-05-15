@@ -823,7 +823,6 @@ fortes
 forenotion
 flog
 fissidentaceae
-firepans
 fanions
 fallout
 firebolt
@@ -8781,6 +8780,7 @@ forwarders
 forwarding
 forwardly
 forwarn
+firepans
 fashionative
 forwean
 forwear
