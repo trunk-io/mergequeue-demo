@@ -2692,7 +2692,6 @@ decomponent
 decomposability
 decomposable
 decompose
-decomposed
 dimmy
 decomposer
 decomposers
@@ -13125,6 +13124,7 @@ deambulation
 dispirits
 discuses
 dispiteousness
+decomposed
 dyspituitarism
 diuturnal
 displaceability
