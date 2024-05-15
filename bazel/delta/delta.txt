@@ -5395,7 +5395,6 @@ diatomacean
 dentel
 demibombard
 dentelliere
-dentello
 dentelure
 dentes
 denty
@@ -12863,6 +12862,7 @@ dipteros
 disocclude
 darkful
 disheveling
+dentello
 disoccluded
 disoccluding
 dairy
