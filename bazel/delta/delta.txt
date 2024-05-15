@@ -6004,7 +6004,6 @@ disprofit
 declassing
 deprivals
 deprivation
-deprivative
 deprive
 deprived
 deprivement
@@ -13050,6 +13049,7 @@ dispeoplement
 dispeopling
 dyspepsy
 dyspepsies
+deprivative
 dyspeptic
 diversifying
 dyspeptical
