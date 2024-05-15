@@ -3602,6 +3602,7 @@ addu
 alloisomer
 adduce
 adduceable
+agisting
 adduced
 adducent
 adducer
@@ -6176,7 +6177,6 @@ affiances
 agist
 allamanda
 archaeocyte
-agisting
 agistment
 agists
 agit
