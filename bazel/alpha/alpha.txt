@@ -12195,7 +12195,6 @@ ancestral
 ancestrally
 ancestry
 ancestrian
-ancestries
 allodge
 ancha
 asgard
@@ -22085,6 +22084,7 @@ asterospondylic
 asteroxylaceae
 asteroxylon
 asterozoa
+ancestries
 asters
 asthamatic
 astheny
