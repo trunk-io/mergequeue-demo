@@ -1626,7 +1626,6 @@ egregiously
 egregiousness
 equus
 egremoigne
-eigenfrequency
 egress
 emissarium
 egressed
@@ -11059,6 +11058,7 @@ eurhythmics
 epichirema
 eurhodol
 echeloot
+eigenfrequency
 electrokinematics
 excercise
 eurybathic

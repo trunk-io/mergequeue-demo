@@ -1952,7 +1952,6 @@ boronia
 beraked
 bandstands
 bandster
-ballroom
 bandstop
 brewings
 bandstring
@@ -5384,6 +5383,7 @@ begnaw
 balmy
 begnawed
 budgero
+ballroom
 begod
 backswimmer
 backening
