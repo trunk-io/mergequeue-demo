@@ -18211,7 +18211,6 @@ coexpand
 coexpanded
 coexperiencer
 coextend
-coextended
 coextends
 coextension
 creep
@@ -29242,6 +29241,7 @@ crypticness
 coupled
 crypto
 cryptoagnostic
+coextended
 cryptoanalysis
 cryptoanalyst
 chandelled
