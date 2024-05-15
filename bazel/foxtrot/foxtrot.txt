@@ -1098,6 +1098,7 @@ flakily
 farmtown
 floricomous
 farnesol
+faulty
 farnesols
 frotting
 fogas
@@ -6540,7 +6541,6 @@ flustrine
 flustroid
 figurally
 fourstrand
-faulty
 foremarch
 foils
 fluted
