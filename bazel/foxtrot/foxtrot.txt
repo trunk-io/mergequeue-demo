@@ -2706,7 +2706,6 @@ familiarisation
 ferrules
 fanman
 federalese
-ferrum
 fabric
 freshes
 ferruminating
@@ -7069,6 +7068,7 @@ fermentum
 filthify
 fain
 fons
+ferrum
 fontal
 frothing
 fontanelle
