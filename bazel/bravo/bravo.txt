@@ -10267,6 +10267,7 @@ blackness
 bebump
 bilged
 blackout
+broomwort
 blackpatch
 beauclerk
 bruges
@@ -17714,7 +17715,6 @@ boris
 broncholith
 burinist
 bonsai
-broomwort
 burk
 brisket
 burka
