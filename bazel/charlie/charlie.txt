@@ -12658,7 +12658,6 @@ chronology
 cleanish
 collembolan
 chronological
-chronologically
 chronologies
 chronologist
 cercle
@@ -24221,6 +24220,7 @@ convivio
 convocate
 convocating
 convocation
+chronologically
 convocational
 convocationist
 colleterial
