@@ -2071,6 +2071,7 @@ filacer
 feinter
 feudary
 facedown
+faucalize
 frenches
 feinting
 feis
@@ -2560,7 +2561,6 @@ fernier
 fernlike
 fernseed
 flustrum
-faucalize
 fernshaw
 fosterlings
 forlorner
