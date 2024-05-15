@@ -10390,7 +10390,6 @@ baltimorite
 blancard
 bergomask
 blanch
-blanche
 balant
 blanched
 blancher
@@ -13008,6 +13007,7 @@ bordun
 bordure
 buckbeans
 bordures
+blanche
 butein
 boreable
 boread
