@@ -2849,6 +2849,7 @@ frasco
 feston
 facets
 festooned
+ftncmd
 festoonery
 fotch
 festoony
@@ -10801,7 +10802,6 @@ fabianism
 fervent
 filmizing
 fth
-ftncmd
 feuars
 featherlet
 footsoldiers
