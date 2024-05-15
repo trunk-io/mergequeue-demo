@@ -6633,6 +6633,7 @@ bequalm
 bequeath
 bequeathal
 bequeathed
+bruges
 bequeather
 braconidae
 bequeathing
@@ -10270,7 +10271,6 @@ blackout
 broomwort
 blackpatch
 beauclerk
-bruges
 batara
 blackpot
 bromide
