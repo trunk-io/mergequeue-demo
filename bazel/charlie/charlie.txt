@@ -151,7 +151,6 @@ chryseis
 cables
 cablese
 cablet
-cablets
 cableway
 cocain
 cabling
@@ -16806,6 +16805,7 @@ cytological
 crankish
 cloven
 cystirrhea
+cablets
 clover
 clovered
 cloverlay
