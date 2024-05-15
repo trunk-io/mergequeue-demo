@@ -3248,6 +3248,7 @@ fichtelite
 flanky
 fusilade
 footsteps
+flotages
 fundamentalness
 furling
 ficins
@@ -6119,7 +6120,6 @@ fanfarade
 flawy
 flotage
 florists
-flotages
 frondeur
 foregoes
 fibrosity
