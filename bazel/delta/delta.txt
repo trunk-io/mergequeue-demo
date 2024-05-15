@@ -1749,6 +1749,7 @@ deathsman
 depaysee
 deathtime
 deathtrap
+downtimes
 deathtraps
 drof
 dhunchee
@@ -13139,7 +13140,6 @@ display
 displayable
 displayed
 displayer
-downtimes
 diallages
 decolorate
 displaying
