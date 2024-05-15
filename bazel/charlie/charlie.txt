@@ -24865,7 +24865,6 @@ childbirths
 coracii
 climatotherapy
 coraciidae
-coraciiformes
 coracine
 coracle
 coracles
@@ -27543,6 +27542,7 @@ coverages
 coverall
 coveralled
 coveralls
+coraciiformes
 coverchief
 cerberean
 covercle
