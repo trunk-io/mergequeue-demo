@@ -16269,7 +16269,6 @@ clinicians
 condensations
 cask
 clinicopathological
-clinid
 clinkant
 clinkered
 clinkerer
@@ -19330,6 +19329,7 @@ colonical
 colonies
 colonisability
 colonisable
+clinid
 colonisationist
 colonise
 colonised
