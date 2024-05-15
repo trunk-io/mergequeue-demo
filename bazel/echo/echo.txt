@@ -2217,7 +2217,6 @@ elections
 elective
 ephemerons
 electives
-electivism
 engram
 elector
 expostulator
@@ -11136,6 +11135,7 @@ euangiotic
 eurythmical
 eurythmics
 eurythmies
+electivism
 eurytopic
 euroaquilo
 earthier
