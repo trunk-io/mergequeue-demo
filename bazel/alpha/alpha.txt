@@ -12838,7 +12838,6 @@ angioscope
 arlington
 angiosymphysis
 adry
-angiosperm
 angiospermae
 attacks
 angiospermal
@@ -25389,6 +25388,7 @@ azoxonium
 aztec
 aztecan
 aztecs
+angiosperm
 azthionium
 azulene
 alarmable
