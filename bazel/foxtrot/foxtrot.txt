@@ -2420,6 +2420,7 @@ fidelis
 feoffs
 fumant
 fand
+footstalk
 fremescence
 fer
 farriers
@@ -7291,7 +7292,6 @@ footslogger
 fuseau
 finnmarks
 fantastic
-footstalk
 forecasts
 fakeers
 frozenness
