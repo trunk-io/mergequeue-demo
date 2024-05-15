@@ -10047,6 +10047,7 @@ blights
 bizarrerie
 bield
 biventral
+barbell
 baroscopical
 bargainor
 beggardom
@@ -16251,7 +16252,6 @@ brr
 bridgemen
 bladelet
 blaeberry
-barbell
 bivouacks
 brrr
 bruang
