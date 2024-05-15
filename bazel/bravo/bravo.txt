@@ -3596,7 +3596,6 @@ backsplice
 bloodsucker
 bathyplankton
 baygall
-bathyscaph
 briquetted
 bathyscaphes
 bathysophical
@@ -4393,6 +4392,7 @@ bluntish
 boggish
 brabbled
 bosons
+bathyscaph
 boreus
 bebotch
 bebothered
