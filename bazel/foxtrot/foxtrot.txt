@@ -3033,7 +3033,6 @@ fiberize
 few
 fewest
 fewmand
-flossy
 foreflap
 fetis
 fewneses
@@ -7738,6 +7737,7 @@ forehoofs
 forehook
 forehooves
 forpit
+flossy
 filicineae
 floatmaker
 floodlights
