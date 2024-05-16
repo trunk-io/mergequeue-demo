@@ -1928,6 +1928,7 @@ cameralistics
 cameraman
 cameras
 camerate
+cidaroida
 cetiosaurus
 camerated
 cameration
@@ -13521,7 +13522,6 @@ cidarid
 cidaridae
 cidaris
 cheatrie
-cidaroida
 cymols
 cypripedium
 cassida
