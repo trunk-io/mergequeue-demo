@@ -3487,7 +3487,6 @@ flacker
 fight
 fightable
 fingerable
-fatiguable
 forel
 fighteress
 fanwort
@@ -10081,6 +10080,7 @@ feloniousness
 formagen
 forensically
 frigoric
+fatiguable
 foun
 flacourtia
 feracity
