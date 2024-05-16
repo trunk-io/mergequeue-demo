@@ -1389,7 +1389,6 @@ accelerometers
 accend
 accendible
 anticatholic
-accensed
 accensor
 accent
 accented
@@ -8344,6 +8343,7 @@ alimental
 alimentally
 alimentary
 alimentariness
+accensed
 alimentation
 amusgo
 autosymnoia
