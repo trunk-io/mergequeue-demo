@@ -5800,7 +5800,6 @@ belight
 baaed
 bulldozer
 belike
-beliked
 bribes
 belili
 belime
@@ -16834,6 +16833,7 @@ bohemians
 brachyprism
 buffeted
 borderless
+beliked
 bibliokelpt
 buffeter
 buffeters
