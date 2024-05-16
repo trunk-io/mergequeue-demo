@@ -1266,6 +1266,7 @@ footwork
 fashing
 fiddley
 forediscern
+foliages
 fascinate
 fratchy
 falasha
@@ -7544,7 +7545,6 @@ fizzling
 foreburton
 fuzzing
 forebush
-foliages
 forecast
 flatboats
 forecaster

@@ -7401,6 +7401,7 @@ cephalization
 cephaloauricular
 cephalobranchiata
 cephalocathartic
+chelicera
 carks
 cephalocaudal
 cupels
@@ -9813,7 +9814,6 @@ chelator
 chelators
 chelerythrine
 chelicer
-chelicera
 chelicerate
 cysts
 chelide
