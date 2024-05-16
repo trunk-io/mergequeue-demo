@@ -3741,7 +3741,6 @@ balladising
 batteners
 battens
 batter
-battercake
 batterdock
 battered
 binational
@@ -8567,6 +8566,7 @@ becolor
 bilateral
 bilateralism
 bilaterality
+battercake
 bilateralities
 behaviors
 bilaterally
