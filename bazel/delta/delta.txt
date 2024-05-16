@@ -12512,7 +12512,6 @@ disinfecting
 daven
 disinfection
 disinfections
-disinfector
 dochter
 disinfects
 disinfest
@@ -14811,6 +14810,7 @@ doctrix
 doctus
 docudramas
 document
+disinfector
 documentable
 documental
 delimer
