@@ -4591,7 +4591,6 @@ governable
 gypsywise
 gipsywort
 gorgio
-gypsywort
 grandfatherish
 gradine
 griffin
@@ -9304,6 +9303,7 @@ glamorize
 groove
 gothonic
 goblinism
+gypsywort
 groovelike
 groover
 gumtree
