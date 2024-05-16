@@ -17910,6 +17910,7 @@ apport
 apportion
 apportionable
 apportionate
+autoantibody
 apportioned
 arctangent
 ampule
@@ -23883,7 +23884,6 @@ autoallogamous
 autoanalysis
 autoanalytic
 auriculariae
-autoantibody
 anseriformes
 autoanticomplement
 autoasphyxiation
