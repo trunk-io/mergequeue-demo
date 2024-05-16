@@ -4719,7 +4719,6 @@ beltmaking
 bedfellows
 buildable
 bedford
-bedfordshire
 bedframes
 bedgoer
 bedgowns
@@ -5519,6 +5518,7 @@ behests
 beehouse
 behew
 busybodied
+bedfordshire
 behymn
 behind
 behinder
