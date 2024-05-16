@@ -716,7 +716,6 @@ formaldehydesulphoxylate
 famine
 famished
 faming
-freewill
 fuliguline
 fired
 famishing
@@ -1821,6 +1820,7 @@ fetlocks
 fadingness
 flamming
 featherstitch
+freewill
 feathertop
 flagellation
 featherweed

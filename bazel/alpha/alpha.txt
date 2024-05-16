@@ -13402,7 +13402,6 @@ anyways
 anywhen
 ascill
 anywhence
-anywhere
 anywhither
 anywise
 anywither
@@ -15572,6 +15571,7 @@ antiministerially
 aiming
 antimissile
 achen
+anywhere
 antimission
 antimissionary
 antipyretic
