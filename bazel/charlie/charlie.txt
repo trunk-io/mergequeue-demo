@@ -7049,7 +7049,6 @@ censoriousness
 censorship
 coenobiod
 censurability
-censurable
 censurableness
 censurably
 cutlips
@@ -11369,6 +11368,7 @@ chlorococcus
 chlorocresol
 chlorodyne
 chlorodize
+censurable
 chlorodized
 chatoyance
 chlorodizing
