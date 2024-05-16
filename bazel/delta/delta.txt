@@ -5777,6 +5777,7 @@ deploy
 deploying
 deployment
 dispansive
+diocletian
 decastich
 deployments
 deftest
@@ -10250,7 +10251,6 @@ dioc
 detonatability
 dioceses
 decares
-diocletian
 doggonedest
 disaccustom
 dioctahedral
