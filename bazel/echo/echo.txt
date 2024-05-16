@@ -3531,7 +3531,6 @@ embordered
 embordering
 epidesmine
 emboscata
-embosk
 embosked
 embosks
 electral
@@ -6921,6 +6920,7 @@ embolomycotic
 entophytous
 extrusive
 epimere
+embosk
 entopic
 entoplasm
 eightyfold
