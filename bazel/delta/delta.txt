@@ -4485,6 +4485,7 @@ decubation
 dematerialised
 drying
 disthrone
+disalign
 dirges
 dematerialize
 deletory
@@ -10996,7 +10997,6 @@ disagreing
 degeneracy
 dioptroscopy
 diagraming
-disalign
 demonlike
 dibbler
 diasystem
