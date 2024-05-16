@@ -8165,7 +8165,6 @@ benchwork
 boutell
 bicolours
 biconcave
-biconcavity
 breezelike
 bidder
 biconic
@@ -9375,6 +9374,7 @@ byproducts
 biprong
 bipunctual
 betokening
+biconcavity
 biddelian
 biosterin
 browsers
