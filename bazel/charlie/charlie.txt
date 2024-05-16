@@ -10705,7 +10705,6 @@ curtelace
 chimb
 chimble
 claustrophobe
-chimbley
 conenchyma
 cervicorn
 chimbly
@@ -14997,6 +14996,7 @@ cytopathic
 cosmine
 cytopathogenic
 cytopathogenicity
+chimbley
 cytopathologic
 conservatorio
 cytopathological
