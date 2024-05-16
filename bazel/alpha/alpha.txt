@@ -8559,7 +8559,6 @@ alkylarylsulfonate
 alkylate
 alkylated
 alkylates
-alkylation
 alkylbenzenesulfonate
 alkylbenzenesulfonates
 alkylic
@@ -20777,6 +20776,7 @@ artistes
 artistic
 aftercourse
 aeroplankton
+alkylation
 amylophosphate
 artistry
 artistries
