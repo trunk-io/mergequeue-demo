@@ -4941,7 +4941,6 @@ aerobiont
 aerobioscope
 aerobiosis
 aerobiotic
-aerobiotically
 aerobious
 aeroboat
 aerobranchia
@@ -22089,6 +22088,7 @@ asteroxylon
 asterozoa
 ancestries
 asters
+aerobiotically
 asthamatic
 astheny
 ailantery
