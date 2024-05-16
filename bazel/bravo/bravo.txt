@@ -6745,7 +6745,6 @@ buoyance
 bauta
 brissotine
 bergfall
-berggylt
 brephic
 bergh
 berghaan
@@ -13567,6 +13566,7 @@ bouleuterion
 boulevardiers
 boulevardize
 boulework
+berggylt
 boulimia
 boogerman
 bornyl
