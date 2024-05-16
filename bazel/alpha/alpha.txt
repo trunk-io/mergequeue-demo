@@ -759,7 +759,6 @@ aposporic
 abram
 abramis
 amobarbital
-abranchian
 abranchiata
 abranchious
 abrase
@@ -5406,6 +5405,7 @@ arenas
 afflictingly
 analgen
 afflictionless
+abranchian
 afflictions
 archoplasm
 afflictive
