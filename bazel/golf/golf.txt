@@ -4616,7 +4616,6 @@ gills
 garlicky
 gyral
 getter
-ghoul
 ghetti
 gigantine
 girasol
@@ -10574,6 +10573,7 @@ gunpoints
 gathers
 gunpowdery
 gumboil
+ghoul
 gunpower
 guest
 grossierete
