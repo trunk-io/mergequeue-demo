@@ -2931,7 +2931,6 @@ ennoblers
 elicitors
 elicits
 expensefulness
-elide
 euchromatin
 emaciate
 egrimony
@@ -8210,6 +8209,7 @@ episomal
 episomally
 exuded
 episome
+elide
 emong
 epispadia
 enchylematous
