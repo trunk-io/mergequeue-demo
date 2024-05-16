@@ -1265,6 +1265,7 @@ fasherie
 fusilier
 footwork
 fashing
+fiddley
 forediscern
 fascinate
 fratchy
@@ -7806,7 +7807,6 @@ figure
 flabelliform
 forsaker
 favillae
-fiddley
 fascines
 fireproofing
 foremastmen
