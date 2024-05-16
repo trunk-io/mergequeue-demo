@@ -3476,7 +3476,6 @@ brushfire
 bastnasite
 balanoglossus
 basto
-beworms
 bucklandite
 bastonet
 bibliolatrous
@@ -17795,6 +17794,7 @@ burning
 bigmitt
 burningly
 burnish
+beworms
 burnishable
 brachiorrhachidian
 baddy
