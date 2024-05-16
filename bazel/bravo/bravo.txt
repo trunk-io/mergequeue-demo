@@ -1561,7 +1561,6 @@ ballfield
 ballgame
 ballgames
 ballgowns
-ballhausplatz
 ballhawks
 ballhooter
 balli
@@ -4195,6 +4194,7 @@ breastpiece
 balminess
 beards
 bearer
+ballhausplatz
 bras
 bearhound
 broozled
