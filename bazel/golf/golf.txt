@@ -4308,7 +4308,6 @@ gynaecol
 gois
 gynaecology
 glebeless
-gypaetus
 gynaecological
 goalkeepers
 gynaeconitis
@@ -5884,6 +5883,7 @@ galera
 goodies
 girl
 galvanographic
+gypaetus
 gunner
 glochidial
 glottalize
