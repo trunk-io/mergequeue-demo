@@ -2724,7 +2724,6 @@ baroclinicity
 boulders
 betrothals
 barognosis
-barogram
 barograms
 barographic
 bathtubs
@@ -9526,6 +9525,7 @@ backspread
 boccies
 birl
 begrease
+barogram
 byrl
 btl
 byrlady
