@@ -5885,7 +5885,6 @@ flocculator
 forts
 fencing
 froggiest
-furans
 flocculency
 flocculent
 floccules
@@ -11290,6 +11289,7 @@ funs
 funster
 formulising
 factorial
+furans
 furacious
 finfish
 furaciousness
