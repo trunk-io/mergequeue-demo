@@ -1160,7 +1160,6 @@ abuzz
 anodendron
 abwab
 abwatt
-abwatts
 ac
 acacatechin
 acacatechol
@@ -19733,6 +19732,7 @@ arilliform
 affricative
 arillode
 arillodium
+abwatts
 arilloid
 arillus
 arils
