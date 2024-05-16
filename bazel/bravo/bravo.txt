@@ -4246,7 +4246,6 @@ bulgy
 beastman
 beastship
 beat
-beata
 benches
 beatable
 beatably
@@ -12880,6 +12879,7 @@ bootheel
 bedspread
 boother
 bitterblain
+beata
 boothes
 boothite
 bootid
