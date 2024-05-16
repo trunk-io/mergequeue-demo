@@ -5473,7 +5473,6 @@ diplomatics
 dehusk
 deterrers
 denudations
-denudative
 denuder
 douched
 dialysation
@@ -18349,6 +18348,7 @@ duodenocystostomy
 duodenoenterostomy
 duodenojejunostomy
 demulcent
+denudative
 duodenojejunostomies
 duodenopancreatectomy
 duodenoscopy
