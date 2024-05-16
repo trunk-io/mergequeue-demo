@@ -1931,7 +1931,6 @@ bandonion
 bandor
 bandora
 bandore
-birlings
 bronchium
 bandos
 bandrol
@@ -4737,6 +4736,7 @@ bedights
 butylenes
 bedikah
 bedimming
+birlings
 bedimple
 bedimples
 billywix
