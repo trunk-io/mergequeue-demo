@@ -4247,7 +4247,6 @@ globuloid
 gymnolaemata
 gunster
 gymnolaematous
-gallous
 gymnonoti
 glumous
 guaranin
@@ -9466,6 +9465,7 @@ group
 groupable
 gynophoric
 grandrelle
+gallous
 grouper
 glycolipin
 garnisheing
