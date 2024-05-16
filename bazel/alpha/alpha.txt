@@ -13935,7 +13935,6 @@ anoxemia
 anoxemias
 ashrams
 achter
-anoxybiosis
 anoxybiotic
 anoxic
 absolutista
@@ -20505,6 +20504,7 @@ arteriographic
 alacreatine
 arteriolith
 arterioloscleroses
+anoxybiosis
 arteriolosclerosis
 arteriomalacia
 aerophilatelic

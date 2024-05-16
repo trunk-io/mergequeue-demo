@@ -10941,6 +10941,7 @@ chippings
 chipproof
 crucifying
 clocher
+clipperman
 chypre
 cottonpicking
 chipwood
@@ -16345,7 +16346,6 @@ clypeus
 collapsible
 clippable
 clipped
-clipperman
 clippers
 clippie
 clipping
