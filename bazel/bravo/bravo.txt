@@ -3138,7 +3138,6 @@ basepoint
 baser
 bortsch
 besetter
-bases
 bardish
 basest
 bash
@@ -18251,6 +18250,7 @@ butterflying
 butterflylike
 butterflower
 butterhead
+bases
 butteryfingered
 butteriness
 butteris
