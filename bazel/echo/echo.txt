@@ -2298,6 +2298,7 @@ epistroma
 electrocapillary
 electrocapillarity
 electrocardiogram
+exoperidium
 electrocardiograms
 electrocardiograph
 electrocardiographic
@@ -9121,7 +9122,6 @@ electroretinograph
 erythroblast
 erythroblastic
 extrafoliaceous
-exoperidium
 electrocardiographs
 erythroblastosis
 evaginating
