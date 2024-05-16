@@ -4683,7 +4683,6 @@ ease
 enciphering
 executonis
 epigean
-epacme
 encircle
 elocutive
 encircled
@@ -5582,6 +5581,7 @@ enforcively
 exfoliate
 enforest
 enfork
+epacme
 enform
 elapinae
 enfort
