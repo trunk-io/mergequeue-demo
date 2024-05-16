@@ -10149,7 +10149,6 @@ dinghies
 dolichocephal
 drillability
 dispassioned
-disrating
 deripia
 dingier
 declarable
@@ -15851,6 +15850,7 @@ dismalize
 dorsoventrad
 dorsoventrality
 deiced
+disrating
 defecated
 derails
 diabolo
