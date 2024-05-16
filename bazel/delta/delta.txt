@@ -14723,7 +14723,6 @@ docketing
 dockets
 dockhand
 debadge
-defensemen
 dockhouse
 dockyard
 dockyardman
@@ -18145,6 +18144,7 @@ dayboy
 dumpy
 dumpier
 dumpiest
+defensemen
 dungol
 dumpiness
 dumpishly
