@@ -3232,7 +3232,6 @@ capitals
 capitan
 capitana
 capitasti
-capitate
 capitated
 capitatim
 coproduct
@@ -4099,6 +4098,7 @@ cardinalfish
 croslet
 cancans
 cardinalfishes
+capitate
 crofterize
 chughole
 cardinalic
