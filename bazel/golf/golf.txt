@@ -4577,7 +4577,6 @@ gazehound
 gypsyhead
 gaitt
 graupel
-gradate
 gloeocapsoid
 giglot
 goslings
@@ -4814,6 +4813,7 @@ graecism
 girted
 girthed
 galactoside
+gradate
 girths
 gladded
 glutin
