@@ -5564,7 +5564,6 @@ catalyse
 cofactor
 catalyses
 catalysis
-catalyst
 catalysts
 catalyte
 catalytical
@@ -15254,6 +15253,7 @@ cladonia
 craniometrical
 cladoniaceae
 cladonioid
+catalyst
 compendiate
 cladophyllum
 cladophora
