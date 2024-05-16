@@ -2826,6 +2826,7 @@ barotraumas
 bostons
 barotropic
 barouche
+beguin
 barouchette
 barouni
 baroxyton
@@ -5460,7 +5461,6 @@ bicellular
 bandy
 brinston
 bloodripeness
-beguin
 bridesman
 blooded
 buzzsaw
