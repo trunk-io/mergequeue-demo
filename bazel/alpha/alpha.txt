@@ -2279,7 +2279,6 @@ achordata
 achordate
 achorion
 achras
-ascetically
 achroanthes
 antiracer
 achrodextrin
@@ -14713,6 +14712,7 @@ anchorless
 antiamylase
 antiamusement
 antianaphylactogen
+ascetically
 antianaphylaxis
 antianarchic
 antiangular
