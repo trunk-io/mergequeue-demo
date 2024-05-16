@@ -6908,7 +6908,6 @@ barytosulphate
 berryless
 berryman
 berrypicker
-berrypicking
 berrugate
 bersagliere
 bersaglieri
@@ -10032,6 +10031,7 @@ bulltoad
 bronchiole
 biuniquely
 biuniqueness
+berrypicking
 burbles
 biunivocal
 biurea
