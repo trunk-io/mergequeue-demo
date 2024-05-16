@@ -10052,6 +10052,7 @@ disseverance
 dynamometrical
 dirls
 descriptions
+dogfight
 dynamomorphic
 dewret
 dynamophone
@@ -14963,7 +14964,6 @@ dogeship
 dicentrine
 dueler
 dogfennel
-dogfight
 dogfighting
 destroys
 dogfights
