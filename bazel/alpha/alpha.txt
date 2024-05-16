@@ -16360,7 +16360,6 @@ antitobacco
 antitobacconist
 antitonic
 artistical
-antitorpedo
 aluta
 antitoxic
 antitoxin
@@ -21603,6 +21602,7 @@ assayed
 assayer
 assayers
 assaying
+antitorpedo
 assail
 assailable
 adenectopic
