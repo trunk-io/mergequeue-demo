@@ -6457,7 +6457,6 @@ ensures
 ensuring
 equators
 enswathe
-expelling
 enswathement
 encephalola
 enswathes
@@ -8673,6 +8672,7 @@ equimultiple
 establismentarianism
 encirclements
 equinal
+expelling
 enzymotic
 exogenetic
 emergently
