@@ -3702,7 +3702,6 @@ candor
 carats
 carauna
 caraunda
-cardioscope
 caravaneer
 cosmogonize
 chemics
@@ -23198,6 +23197,7 @@ choiak
 constrainingly
 constraint
 constraints
+cardioscope
 constrict
 connarite
 claudio
