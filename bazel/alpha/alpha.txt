@@ -4339,6 +4339,7 @@ adornos
 adorns
 attestation
 automorph
+antiaircraft
 axis
 ados
 anisaldoxime
@@ -14684,7 +14685,6 @@ antiaggression
 antiaggressionist
 antiaggressively
 antiaggressiveness
-antiaircraft
 antialbumin
 antialcoholic
 autarkikal
