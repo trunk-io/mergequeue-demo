@@ -21935,7 +21935,6 @@ confervae
 conferval
 confervalike
 confervas
-confervoid
 confervoideae
 confessable
 creating
@@ -26604,6 +26603,7 @@ couchette
 couchy
 cube
 caback
+confervoid
 couching
 cruelhearted
 couchings
