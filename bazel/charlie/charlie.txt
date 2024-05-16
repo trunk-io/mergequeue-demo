@@ -3513,6 +3513,7 @@ captained
 captainry
 captainship
 captainships
+chemicked
 captan
 captance
 captandum
@@ -9607,7 +9608,6 @@ compathy
 checkrooms
 checkrope
 colleagued
-chemicked
 checkrow
 checkrowed
 checkrower
