@@ -1181,7 +1181,6 @@ datagram
 datagrams
 doormat
 dewlight
-deescalating
 datakit
 datamation
 datana
@@ -10643,6 +10642,7 @@ dotingly
 degeneration
 diploplaculate
 degarnish
+deescalating
 diplopod
 diplopoda
 discorrespondent
