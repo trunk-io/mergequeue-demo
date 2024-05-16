@@ -4636,7 +4636,6 @@ gyrators
 goldsmiths
 grademark
 girder
-girders
 girdlecake
 gradal
 gluten
@@ -4724,6 +4723,7 @@ gallies
 glared
 giro
 ganch
+girders
 gonake
 glossae
 gillhooter
