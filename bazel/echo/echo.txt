@@ -2571,7 +2571,6 @@ ecphova
 electrophorese
 eclats
 endocrinal
-electrophoreses
 electrophoresing
 electrophoretically
 excerpted
@@ -3659,6 +3658,7 @@ embryonal
 earthmoving
 embryonated
 embryonic
+electrophoreses
 embryoniferous
 eluates
 ensignhood
