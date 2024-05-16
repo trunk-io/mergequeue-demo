@@ -4068,7 +4068,6 @@ gorse
 gaseity
 gildable
 geostatics
-gilded
 gliadines
 grievousness
 grotzen
@@ -5708,6 +5707,7 @@ gemology
 garnice
 gradable
 glogg
+gilded
 gloy
 ganefs
 gloiosiphonia
