@@ -1400,7 +1400,6 @@ baldpatedness
 baldrib
 baldrick
 baldrics
-baldricwise
 balds
 bugged
 balductum
@@ -9671,6 +9670,7 @@ bumbledom
 blastomata
 biscutate
 bisdiapason
+baldricwise
 babbitter
 ballaton
 bisdimethylamino
