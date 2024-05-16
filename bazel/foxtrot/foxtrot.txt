@@ -6650,6 +6650,7 @@ featness
 focalization
 focalizes
 formalize
+forwrap
 forbye
 focsle
 flowerpot
@@ -8812,7 +8813,6 @@ flashtube
 flue
 forwork
 feoffing
-forwrap
 fallacia
 forz
 forzando
