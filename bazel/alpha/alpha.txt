@@ -6951,7 +6951,6 @@ avocados
 airscapes
 airscrews
 airshed
-aldohexose
 airsheds
 airships
 airsick
@@ -18981,6 +18980,7 @@ archigenesis
 archigonic
 archigonocyte
 archiheretical
+aldohexose
 archikaryon
 aposafranine
 archilithic
