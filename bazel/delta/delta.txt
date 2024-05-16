@@ -12013,7 +12013,6 @@ disenabling
 disenact
 disenamor
 disenchant
-disenchanted
 disenchanting
 deputyship
 dowd
@@ -15587,6 +15586,7 @@ disappearing
 diarists
 doomed
 doomer
+disenchanted
 doomsayer
 doomsday
 doomsdays
