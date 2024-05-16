@@ -19985,7 +19985,6 @@ armloads
 armlock
 armoire
 armoires
-armomancy
 armoniac
 agla
 armonicas
@@ -21253,6 +21252,7 @@ atrioporal
 antevenient
 arbitrary
 amakosa
+armomancy
 asymmetric
 autoerotic
 apexes
