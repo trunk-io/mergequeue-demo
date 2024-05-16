@@ -7560,6 +7560,7 @@ grabhook
 grabouche
 grabs
 glasgow
+gruiform
 graced
 garpike
 gynerium
@@ -9669,7 +9670,6 @@ gasterosteidae
 grindstones
 gipsywort
 gleditsia
-gruiform
 gargantuan
 gruiformes
 gnathostomous
