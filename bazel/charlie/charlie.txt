@@ -10024,6 +10024,7 @@ cheniller
 chenopod
 chenopodiaceae
 chenopodiaceous
+colocasia
 chenopodiales
 chenopodium
 chenopods
@@ -19257,7 +19258,6 @@ canonici
 countertenors
 colob
 coloboma
-colocasia
 colocate
 chiquest
 colocated

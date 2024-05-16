@@ -6651,7 +6651,6 @@ flirtier
 frequents
 focal
 featness
-focalization
 focalizes
 formalize
 forwrap
@@ -10527,6 +10526,7 @@ forcite
 frostbitten
 frostbow
 filibranchiate
+focalization
 frostfish
 frosty
 fantasticality
