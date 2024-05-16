@@ -2499,6 +2499,7 @@ blear
 barfish
 barfs
 bargain
+bergmannite
 bromins
 bargainable
 billbugs
@@ -6750,7 +6751,6 @@ berginization
 berglet
 bagass
 bergman
-bergmannite
 bungy
 bergs
 boneshave
