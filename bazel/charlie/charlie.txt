@@ -2749,7 +2749,6 @@ clownish
 cannonier
 cannoning
 cannonism
-cannonproof
 cannonry
 cannonries
 cannons
@@ -13310,6 +13309,7 @@ cycles
 cyclesmith
 castoridae
 crookbilled
+cannonproof
 cyclic
 cyclical
 cyclicality
