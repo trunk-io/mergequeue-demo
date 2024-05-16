@@ -2324,7 +2324,6 @@ ballooned
 bourdis
 barbero
 barberry
-bluestone
 benzoles
 bubaline
 barbers
@@ -2419,6 +2418,7 @@ becalms
 bardlet
 bardlike
 bardling
+bluestone
 bardo
 banyoro
 bardocucullus

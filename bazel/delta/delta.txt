@@ -9440,6 +9440,7 @@ dehematize
 digamy
 disobeyal
 digamies
+destructively
 digamma
 digammas
 digammate
@@ -16130,7 +16131,6 @@ doura
 dourah
 douras
 depicts
-destructively
 dourer
 dourest
 deraign
