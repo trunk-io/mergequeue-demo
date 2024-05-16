@@ -2931,7 +2931,6 @@ gentler
 gentles
 graticulation
 genuflection
-gentlest
 glossoid
 glycerogelatin
 geleem
@@ -5553,6 +5552,7 @@ guessing
 glyptological
 grotesques
 glamor
+gentlest
 gilenyer
 grammatic
 gandhiism
