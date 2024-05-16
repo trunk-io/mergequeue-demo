@@ -2203,7 +2203,6 @@ elec
 epixylous
 elecampane
 endocytic
-enameller
 enterprises
 elecives
 electability
@@ -8684,6 +8683,7 @@ exogenetic
 emphyteuta
 emergently
 equinate
+enameller
 emerging
 equinity
 excretions
