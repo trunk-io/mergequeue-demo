@@ -2248,7 +2248,6 @@ framers
 forewinning
 felt
 felted
-furless
 felter
 feltyflier
 felting
@@ -7411,6 +7410,7 @@ forbidding
 festiveness
 fruitery
 forbiddingly
+furless
 forbids
 farfels
 foregather
