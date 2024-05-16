@@ -243,6 +243,7 @@ faculty
 font
 faculties
 frostbound
+furbisher
 facultize
 frightening
 firmest
@@ -3652,7 +3653,6 @@ funereal
 filicinian
 filosus
 functionaries
-furbisher
 freddie
 fence
 filing
