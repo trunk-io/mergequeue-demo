@@ -4183,6 +4183,7 @@ admittances
 admittatur
 admitted
 agitpunkt
+ampliation
 admitter
 admitters
 admitting
@@ -11338,7 +11339,6 @@ amplexus
 amplexuses
 archidiaconal
 airsheet
-ampliation
 ampliative
 aiguiere
 amplication
