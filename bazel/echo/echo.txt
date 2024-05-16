@@ -3840,7 +3840,6 @@ extrabulbar
 excludible
 exemplarily
 engladden
-emf
 emforth
 emic
 eudendrium
@@ -13445,6 +13444,7 @@ expulsionist
 expunction
 eatanswill
 expungeable
+emf
 exister
 expunged
 englobement
