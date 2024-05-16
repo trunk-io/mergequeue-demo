@@ -3789,6 +3789,7 @@ buhr
 battlesome
 brahmany
 brigantes
+bimestrial
 boatfalls
 banderilla
 battlestead
@@ -10432,7 +10433,6 @@ blanketed
 blanketeer
 beetmister
 beadsman
-bimestrial
 blankety
 blanketing
 blanketlike
