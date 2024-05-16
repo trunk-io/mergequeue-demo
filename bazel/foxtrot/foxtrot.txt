@@ -2432,7 +2432,6 @@ fairyship
 fasteners
 feralin
 flywire
-ferash
 farthermost
 favel
 fere
@@ -9849,6 +9848,7 @@ freq
 frequence
 frequent
 factored
+ferash
 francia
 frequentage
 fertil
