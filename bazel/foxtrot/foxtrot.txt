@@ -2970,7 +2970,6 @@ feudalists
 feudality
 fractionising
 fustigation
-feudalized
 feudalizing
 fantastical
 feudatary
@@ -11522,6 +11521,7 @@ fusariosis
 fusarole
 fusate
 fusc
+feudalized
 fallings
 fuscin
 fuscohyaline
