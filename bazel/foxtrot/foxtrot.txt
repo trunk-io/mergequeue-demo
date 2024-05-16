@@ -5860,7 +5860,6 @@ forswat
 fraternate
 fastigia
 flocced
-fname
 flocci
 flagellate
 floccipend
@@ -7912,6 +7911,7 @@ foreribs
 foredates
 flannelbush
 forerun
+fname
 factiousness
 franklinia
 flagellariaceae
