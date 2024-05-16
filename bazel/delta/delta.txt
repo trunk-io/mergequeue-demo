@@ -6551,7 +6551,6 @@ descensory
 descensories
 dilemi
 descent
-dojos
 descents
 drawnet
 disconcerted
@@ -9446,6 +9445,7 @@ digamma
 digammas
 digammate
 digammated
+dojos
 digastric
 dibatag
 doomfulness
