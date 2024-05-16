@@ -17487,6 +17487,7 @@ apostrophic
 avoirdupois
 apostrophied
 apostrophise
+aways
 apostrophising
 apostrophize
 apostrophizes
@@ -24908,7 +24909,6 @@ away
 awayness
 awaynesses
 amalgamated
-aways
 await
 awaited
 antiqued
