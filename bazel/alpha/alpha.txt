@@ -14785,7 +14785,6 @@ antibishop
 antiblack
 actorish
 antiblackism
-agsam
 antiblastic
 avarian
 anisotropy
@@ -18620,6 +18619,7 @@ autotrophy
 arboricole
 arboricoline
 arboricolous
+agsam
 arboriculture
 arte
 arboriform
