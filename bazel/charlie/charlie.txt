@@ -10941,7 +10941,6 @@ chypre
 cottonpicking
 chipwood
 chiquero
-chiquest
 chiquito
 chiragra
 chiragrical
@@ -19258,6 +19257,7 @@ colob
 coloboma
 colocasia
 colocate
+chiquest
 colocated
 colocephali
 colocynth
