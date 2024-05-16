@@ -8213,7 +8213,6 @@ algoristic
 algorithmic
 algorithmically
 algors
-algosis
 algovite
 algraphy
 alguacil
@@ -12643,6 +12642,7 @@ aneurysmal
 aeriferous
 aneurysmally
 aneurysmatic
+algosis
 aneurisms
 anezeh
 anfract
