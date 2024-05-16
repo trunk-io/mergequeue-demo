@@ -5371,7 +5371,6 @@ forager
 fitchery
 filterable
 fling
-fleerer
 fireclay
 fleering
 foraged
@@ -9278,6 +9277,7 @@ fragmented
 fragmentise
 fragmentising
 favoring
+fleerer
 fragmentist
 fidalgo
 fragmentizing
