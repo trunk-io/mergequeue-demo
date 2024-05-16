@@ -12890,7 +12890,6 @@ cantative
 churchgoer
 churchgoers
 canvass
-churchgoing
 churchgrith
 churchy
 churchianity
@@ -17725,6 +17724,7 @@ cocoanuts
 cocoas
 cocoawood
 caraipe
+churchgoing
 cocobola
 cocobolas
 conscriptionist
