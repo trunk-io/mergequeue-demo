@@ -1946,7 +1946,6 @@ flichter
 furling
 federalists
 federalizations
-federalize
 falcula
 federally
 frankliniana
@@ -8142,6 +8141,7 @@ foreuse
 foreutter
 forevalue
 fibulas
+federalize
 flamier
 foreverness
 fortuitist
