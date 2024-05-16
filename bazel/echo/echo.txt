@@ -4858,7 +4858,6 @@ excoction
 encumbered
 encumberer
 encumberingly
-enrichment
 excisions
 encumbrance
 excused
@@ -7715,6 +7714,7 @@ excriminate
 empathy
 eustacies
 earliness
+enrichment
 epipleurae
 epidendrum
 echoer
