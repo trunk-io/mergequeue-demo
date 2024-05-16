@@ -1136,7 +1136,6 @@ calcspar
 calcspars
 cotwal
 calctufa
-calctufas
 calctuff
 calculability
 counterrampant
@@ -26132,6 +26131,7 @@ contraflow
 cosmete
 cosmetic
 cosmetically
+calctufas
 claimless
 custrel
 curricular
