@@ -2502,6 +2502,7 @@ billbugs
 bargainer
 bargaining
 beechwoods
+bhut
 bargander
 barge
 bargeboard
@@ -7831,7 +7832,6 @@ bhaktimarga
 bhandari
 behavioral
 bhang
-bhut
 bhangi
 bhara
 bactetiophage
