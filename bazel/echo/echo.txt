@@ -10540,7 +10540,6 @@ emmew
 etymon
 equalities
 etymonic
-etiogenic
 etiolated
 etiolating
 etiolize
@@ -12567,6 +12566,7 @@ eyestones
 esophagotomy
 eximidus
 eximious
+etiogenic
 envisages
 embosture
 exine
