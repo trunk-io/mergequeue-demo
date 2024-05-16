@@ -7761,6 +7761,7 @@ alcor
 alcoran
 alcoranic
 alcoranist
+amarna
 administrated
 alcosol
 alcotate
@@ -24923,7 +24924,6 @@ awakeable
 awaked
 axemaster
 awakened
-amarna
 alkermes
 awakener
 algometer

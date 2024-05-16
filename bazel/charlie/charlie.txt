@@ -3070,7 +3070,6 @@ capacious
 capaciously
 cannibalic
 capaciousness
-capacitance
 capacitate
 cofounder
 cooperators
@@ -15930,6 +15929,7 @@ cleavers
 cleaving
 cloudier
 cleche
+capacitance
 clechee
 clechy
 corncob
