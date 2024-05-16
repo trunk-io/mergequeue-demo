@@ -11263,7 +11263,6 @@ amphitene
 amphithalami
 amphithalamus
 amphitheater
-amphitheatered
 amphitheaters
 amphitheatre
 anilin
@@ -11455,6 +11454,7 @@ anisole
 amusia
 amusias
 antinatural
+amphitheatered
 amusingness
 amusive
 amutter
