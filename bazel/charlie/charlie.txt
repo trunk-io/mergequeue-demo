@@ -7405,6 +7405,7 @@ cephalocaudal
 cupels
 cephalocele
 cephalocentesis
+cringer
 coprocessors
 cufflink
 cristina
@@ -12087,7 +12088,6 @@ choroid
 choroiditis
 choroidocyclitis
 choroidoiritis
-cringer
 choroidoretinitis
 choroids
 chorology
