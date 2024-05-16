@@ -5721,7 +5721,6 @@ depicting
 depictions
 dermomycosis
 depictment
-depictor
 dandilly
 depictors
 depicture
@@ -7176,6 +7175,7 @@ desulfurized
 desulfurizer
 desulfurizing
 dynamometric
+depictor
 desulfurs
 desulphur
 desulphurate
