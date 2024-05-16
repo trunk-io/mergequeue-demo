@@ -415,6 +415,7 @@ epenthesis
 ecarte
 evenoo
 ecaudata
+ethenyl
 ecaudate
 ernest
 ecballium
@@ -10211,7 +10212,6 @@ ethel
 eucti
 ethenes
 ethenic
-ethenyl
 ethenoid
 ethenol
 ensorcelize
