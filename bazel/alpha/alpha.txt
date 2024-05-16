@@ -1582,7 +1582,6 @@ accommodativeness
 aliet
 accommodators
 accomodate
-accompanable
 arrivage
 accompanier
 australorp
@@ -4205,6 +4204,7 @@ admonish
 admonished
 admonishes
 anaesthetizing
+accompanable
 apercu
 admonishingly
 anglification
