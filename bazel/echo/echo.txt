@@ -6151,7 +6151,6 @@ energetics
 eusynchite
 executable
 enoplan
-enoplion
 enorm
 etaballi
 enorn
@@ -8032,6 +8031,7 @@ exopterygota
 epipactis
 enigmaticalness
 epigonal
+enoplion
 employers
 epirrhematic
 emetin
