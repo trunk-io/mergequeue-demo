@@ -5960,7 +5960,6 @@ defibrillation
 dyscrasy
 depressants
 depressed
-depresses
 doling
 dispender
 depressibilities
@@ -12357,6 +12356,7 @@ disheartenedly
 disheartener
 disheartening
 devachan
+depresses
 dishearteningly
 dishellenize
 disheartenment
