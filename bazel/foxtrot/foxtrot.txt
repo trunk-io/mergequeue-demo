@@ -2611,6 +2611,7 @@ folder
 fossilisable
 fluorine
 ferreous
+fences
 ferrer
 fusulina
 ferreter
@@ -9807,7 +9808,6 @@ frenchify
 frenchification
 freakful
 frenchly
-fences
 frenchman
 floatable
 forestick
