@@ -5804,7 +5804,6 @@ flivver
 fumariaceous
 filoplume
 flyway
-flyways
 fishable
 faunas
 further
@@ -7182,6 +7181,7 @@ footfalls
 footfarer
 falsework
 footfault
+flyways
 forehandedly
 fibromatoid
 fesels
