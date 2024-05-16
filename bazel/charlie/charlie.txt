@@ -9937,6 +9937,7 @@ congregativeness
 countable
 chemophysiology
 chemoprophyalctic
+cycle
 chemoprophylactic
 chemoprophylaxis
 condensative
@@ -13299,7 +13300,6 @@ cyclas
 cyclase
 cyclases
 ciclatoun
-cycle
 cyclecar
 cyclecars
 cycledom
