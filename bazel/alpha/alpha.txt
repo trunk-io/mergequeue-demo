@@ -5762,6 +5762,7 @@ autoplastic
 agacerie
 agaces
 agada
+alloiometry
 anteriority
 ashlaring
 agade
@@ -8914,7 +8915,6 @@ alloy
 alloyage
 ascogenous
 alloiogenesis
-alloiometry
 attitude
 alloiometric
 adjustments
