@@ -11162,7 +11162,6 @@ chitterlings
 chitters
 chitty
 caballeros
-circumflexes
 chiurm
 chiv
 chivachee
@@ -20830,6 +20829,7 @@ comportable
 comportance
 comported
 comporting
+circumflexes
 comports
 capacitors
 compos
