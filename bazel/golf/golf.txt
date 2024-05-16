@@ -2226,7 +2226,6 @@ genocides
 gnathites
 gearcase
 gearcases
-gearman
 guernseys
 glucose
 garbing
@@ -7960,6 +7959,7 @@ goaf
 grangerize
 gongorism
 gastrulas
+gearman
 grangerizer
 grangerizing
 garridge
