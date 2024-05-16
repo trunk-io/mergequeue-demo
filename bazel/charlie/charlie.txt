@@ -14224,6 +14224,7 @@ catskin
 cardcastle
 casemate
 circler
+counternotice
 circles
 circlet
 circleting
@@ -26994,7 +26995,6 @@ chromeplated
 conceded
 chuntering
 counternecromancy
-counternotice
 counterobjection
 counterobligation
 counteroffensive
