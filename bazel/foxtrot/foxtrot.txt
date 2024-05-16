@@ -3801,7 +3801,6 @@ filmsetting
 fussification
 filmslide
 forestall
-filmstrip
 filmstrips
 filo
 fulmicotton
@@ -9381,6 +9380,7 @@ franciscan
 fabula
 forhale
 friends
+filmstrip
 flushest
 funiculus
 franciscans

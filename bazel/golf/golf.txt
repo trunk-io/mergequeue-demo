@@ -5826,7 +5826,6 @@ glew
 grey
 glossiest
 glycosuria
-glossina
 glossinas
 gertrude
 graminaceous
@@ -7882,6 +7881,7 @@ gemshorn
 grasslike
 grandfathers
 grandfer
+glossina
 goniatitid
 gudge
 getups
