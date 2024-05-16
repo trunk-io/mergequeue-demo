@@ -23285,6 +23285,7 @@ consulships
 clavieristic
 consult
 consulta
+curculionid
 consultable
 commote
 consultant
@@ -31271,7 +31272,6 @@ curchef
 curchy
 curcuddoch
 curculio
-curculionid
 curculionidae
 curculios
 cerebratulus

@@ -2890,6 +2890,7 @@ emplaning
 elevon
 earthwork
 elevons
+enclitics
 elf
 elfenfolk
 epinard
@@ -3998,7 +3999,6 @@ empanoply
 empaper
 emparchment
 epithamia
-enclitics
 emparl
 eventuates
 empasma
