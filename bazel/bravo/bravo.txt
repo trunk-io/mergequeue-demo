@@ -5177,6 +5177,7 @@ beflour
 busti
 beflowered
 biotas
+bogbean
 beflowering
 beflum
 befluster
@@ -11922,7 +11923,6 @@ botonn
 bogart
 beatificate
 bogatyr
-bogbean
 bogbeans
 bogberry
 bogeyed
