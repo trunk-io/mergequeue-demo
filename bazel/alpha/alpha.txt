@@ -11317,7 +11317,6 @@ aftereye
 amphorous
 alarming
 amphoteric
-amphotericin
 ampicillin
 antinegro
 antonina
@@ -24261,6 +24260,7 @@ autonomize
 autonomous
 anerly
 awald
+amphotericin
 autoparasitism
 ablegates
 allodiaries
