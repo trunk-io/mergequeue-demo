@@ -12410,7 +12410,6 @@ chromaticness
 chromatid
 chromatin
 cyclonoscope
-chromatioideae
 chromatype
 chromatism
 chromatist
@@ -20078,6 +20077,7 @@ commentators
 commentatorship
 cantaloupe
 commented
+chromatioideae
 calathisci
 commenter
 commenting
