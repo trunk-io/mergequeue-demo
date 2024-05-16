@@ -3652,6 +3652,7 @@ glove
 ghastliest
 gatewaymen
 groups
+gelfomino
 gargil
 geonyctitropic
 ghastlily
@@ -5702,7 +5703,6 @@ graphorrhea
 gemology
 garnice
 gradable
-gelfomino
 glogg
 gloy
 ganefs
