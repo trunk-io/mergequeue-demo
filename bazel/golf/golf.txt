@@ -927,7 +927,6 @@ gamelotte
 garrooka
 gazi
 gameness
-gunbearer
 gamesome
 gamest
 gamester
@@ -3650,6 +3649,7 @@ granza
 graylag
 ghastlier
 glove
+gunbearer
 ghastliest
 gatewaymen
 groups
