@@ -6556,7 +6556,6 @@ goldener
 guldens
 geheimrat
 gradualism
-gent
 guary
 gauchest
 galliard
@@ -7232,6 +7231,7 @@ giles
 glassblowing
 grs
 givenness
+gent
 ginsengs
 gladstonian
 gorsebird
