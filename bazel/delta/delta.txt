@@ -5186,6 +5186,7 @@ deneutralization
 dendrolater
 dendrolatry
 depopulate
+detect
 dendrology
 dendrologist
 discerp
@@ -7237,7 +7238,6 @@ detar
 detassel
 detat
 detd
-detect
 defoliating
 daishiki
 detected
