@@ -925,7 +925,6 @@ flavor
 fanums
 fanweed
 fanwise
-fanwork
 flintlock
 forefront
 faunistical
@@ -10542,6 +10541,7 @@ fabulate
 foxfinger
 felsosphaerite
 frostroot
+fanwork
 frillery
 frostwort
 frot
