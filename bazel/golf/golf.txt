@@ -6911,6 +6911,7 @@ gauntlets
 gonotype
 gonotome
 galeas
+guinfo
 gonozooid
 galactosemic
 gonzalo
@@ -10740,7 +10741,6 @@ graminin
 granule
 glycerinate
 gomerels
-guinfo
 gutium
 gimbals
 gallium
