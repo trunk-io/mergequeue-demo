@@ -449,6 +449,7 @@ elasticate
 eccyesis
 eccl
 ecart
+evector
 earsore
 expandability
 exerts
@@ -11411,7 +11412,6 @@ evection
 evectional
 ethion
 emprosthotonus
-evector
 evehood
 endeavored
 eunuch
