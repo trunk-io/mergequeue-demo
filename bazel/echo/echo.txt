@@ -754,7 +754,6 @@ ecphore
 ecphoria
 emotes
 ecphractic
-ecphrasis
 emergences
 euomphalid
 ecrase
@@ -5515,6 +5514,7 @@ enfettering
 enophthalmos
 equianchorate
 enfevered
+ecphrasis
 echidnae
 enfevering
 enfevers

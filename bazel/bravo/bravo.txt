@@ -4918,7 +4918,6 @@ bedung
 batel
 bedur
 bedway
-bolsterers
 battuto
 bedways
 bindings
@@ -11190,6 +11189,7 @@ bloodsuck
 biasways
 bacteroidal
 bloodsuckers
+bolsterers
 bloodtest
 bloodthirster
 bloodthirstiness
