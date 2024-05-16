@@ -604,7 +604,6 @@ gallicize
 gallicizer
 gobletful
 gutturize
-gallify
 gingerin
 galliform
 gomphrena
@@ -6377,6 +6376,7 @@ guttula
 geckotian
 greenyard
 gordyaean
+gallify
 gobiid
 gobylike
 granddam
