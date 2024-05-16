@@ -2352,7 +2352,6 @@ canceleer
 canceler
 cancelers
 cancelier
-collaborated
 cancellability
 cancellable
 cancellarius
@@ -18534,6 +18533,7 @@ coiffures
 coiffuring
 coifing
 caudalward
+collaborated
 coifs
 coigne
 coignes
