@@ -1356,7 +1356,6 @@ gundeck
 giftlike
 gaonate
 gardenless
-gedd
 gardenlike
 gardenmaking
 gardevin
@@ -9904,6 +9903,7 @@ guard
 glumpy
 guardable
 guardedness
+gedd
 goatroot
 geosynclinal
 guardeen
