@@ -9094,7 +9094,6 @@ gouldian
 gripgrass
 garon
 griphite
-geosynclinal
 geophilus
 gehenna
 garancine
@@ -9908,6 +9907,7 @@ glumpy
 guardable
 guardedness
 goatroot
+geosynclinal
 guardeen
 ghatwal
 guardhouses
