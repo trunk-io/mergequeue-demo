@@ -3170,7 +3170,6 @@ defamatory
 daubing
 dentated
 defamed
-defamer
 defames
 disestablisher
 demihuman
@@ -11383,6 +11382,7 @@ disciplinability
 disciplinable
 dishfuls
 disciplinableness
+defamer
 diandrian
 disciplinal
 disciplinary
