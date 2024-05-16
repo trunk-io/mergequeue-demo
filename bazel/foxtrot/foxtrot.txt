@@ -4640,6 +4640,7 @@ fixer
 fixers
 feinted
 fixidity
+franklinite
 fixing
 fixings
 falter
@@ -7523,7 +7524,6 @@ foreappoint
 fluidification
 faithing
 fountains
-franklinite
 fogou
 foreassign
 foreassurance
