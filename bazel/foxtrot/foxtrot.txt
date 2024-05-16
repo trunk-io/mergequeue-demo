@@ -2444,6 +2444,7 @@ feres
 feretory
 flytings
 firearmed
+filleting
 frolicky
 feretories
 ferfel
@@ -5768,7 +5769,6 @@ fliting
 fulgurant
 flyting
 flytrap
-filleting
 foxite
 ferrochrome
 flytraps
