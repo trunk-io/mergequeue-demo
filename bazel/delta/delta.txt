@@ -2530,7 +2530,6 @@ declaim
 dichorisandra
 dresser
 declaimer
-declaimers
 declaims
 declamando
 dilatorily
@@ -5285,6 +5284,7 @@ desmosis
 denominationalist
 declination
 denominationally
+declaimers
 deputy
 denominations
 denominative
