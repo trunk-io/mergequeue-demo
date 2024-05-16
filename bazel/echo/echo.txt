@@ -2318,7 +2318,6 @@ electrochronometric
 enfroward
 electroplating
 electroplates
-ejam
 epiphenomenal
 extractors
 elasmosaur
@@ -12221,6 +12220,7 @@ excerptor
 excurrent
 excurse
 elonite
+ejam
 europocentric
 eloper
 equiformity
