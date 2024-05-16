@@ -5997,7 +5997,6 @@ bretons
 butterbur
 bellwether
 bellwind
-bellwine
 bellwood
 bluely
 bellwort
@@ -16395,6 +16394,7 @@ beclip
 brushet
 boorishly
 bilestone
+bellwine
 brushful
 brushy
 brushier
