@@ -17049,7 +17049,6 @@ coperose
 coachfellow
 coachy
 coaching
-coachlet
 coachmaker
 coachmaking
 coachmaster
@@ -28852,6 +28851,7 @@ cretan
 ciceronic
 crete
 cretefaction
+coachlet
 callisection
 creticism
 coturnix
