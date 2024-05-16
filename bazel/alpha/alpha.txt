@@ -6584,7 +6584,6 @@ ahantchuyuk
 ahartalav
 ahaunch
 ahead
-aheap
 ahey
 attenuating
 acquaintances
@@ -17939,6 +17938,7 @@ appraisable
 atmans
 appraisals
 appraised
+aheap
 appraisement
 appraiser
 amelioratively
