@@ -6912,7 +6912,6 @@ airline
 airliner
 airlines
 airling
-aeropleustic
 airlock
 airmailing
 annoyingness
@@ -12570,6 +12569,7 @@ amorists
 anepithymia
 anerethisia
 amyluria
+aeropleustic
 avowter
 aneretic
 axmanship
