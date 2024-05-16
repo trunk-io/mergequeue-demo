@@ -2469,7 +2469,6 @@ existently
 electrolysation
 elephantlike
 electrolysed
-electrolyses
 emigating
 electrolysing
 eparcuale
@@ -7768,6 +7767,7 @@ empyemas
 euphorbiaceae
 epidote
 epiproct
+electrolyses
 epidotic
 electrothermancy
 ectocinerea
