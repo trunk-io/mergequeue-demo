@@ -6021,7 +6021,6 @@ glucoses
 glances
 grossulaceous
 glucoside
-glucosidic
 grantha
 glucosidically
 glucosine
@@ -7827,6 +7826,7 @@ gourdworm
 gullishly
 griquaite
 grams
+glucosidic
 goodeniaceae
 granada
 granado
