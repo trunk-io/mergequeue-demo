@@ -4702,6 +4702,7 @@ bedesman
 breadstuff
 beautyship
 bedeswomen
+bdft
 bedeviling
 bedevilled
 bedevilling
@@ -14462,7 +14463,6 @@ branchiest
 branchiferous
 broma
 branchiform
-bdft
 binman
 becompliment
 branchiness
