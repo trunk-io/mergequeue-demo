@@ -709,7 +709,6 @@ baculiticone
 baculoid
 baculus
 bacury
-bullbeggar
 bad
 badaga
 badan
@@ -10832,6 +10831,7 @@ beechdrops
 bcf
 botherer
 blepharoclonus
+bullbeggar
 bugbeardom
 blepharolithiasis
 blepharomelasma
