@@ -8300,7 +8300,6 @@ demove
 derogations
 dele
 diagonal
-disenchants
 diagonalizable
 diagonalization
 disinteresting
@@ -13772,6 +13771,7 @@ debunk
 dissuades
 dissuading
 determinations
+disenchants
 dissuasion
 dissuasively
 demolitionary
