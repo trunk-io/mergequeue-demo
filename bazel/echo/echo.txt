@@ -5538,6 +5538,7 @@ enflaming
 epiklesis
 embryotomy
 enflesh
+enlarge
 escapeway
 embryulcus
 enflower
@@ -12030,7 +12031,6 @@ electrocauteries
 enlist
 emmeleia
 erenow
-enlarge
 excitant
 exenteritis
 epistemophilic
