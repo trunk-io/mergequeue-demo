@@ -5505,6 +5505,7 @@ enheritance
 enfeoffing
 episcopant
 enfeoffment
+espundia
 enfester
 enfettered
 enfettering
@@ -9809,7 +9810,6 @@ espriella
 endere
 esprit
 errantries
-espundia
 endowing
 esq
 esquired
