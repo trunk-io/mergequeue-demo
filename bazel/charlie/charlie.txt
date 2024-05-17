@@ -6308,7 +6308,6 @@ cacique
 causality
 causalities
 causally
-causals
 causans
 chilopodan
 causate
@@ -17605,6 +17604,7 @@ coccoids
 canonlike
 coccolite
 coccolithophorid
+causals
 coccoloba
 counterresolution
 calabashes
