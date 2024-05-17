@@ -13570,7 +13570,6 @@ cilery
 corsetless
 cloying
 cilia
-ciliata
 ciliate
 ciliated
 ciliately
@@ -19596,6 +19595,7 @@ colorcaster
 confession
 columbous
 columel
+ciliata
 columellae
 columellar
 coextensiveness
