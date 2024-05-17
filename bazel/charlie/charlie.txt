@@ -5965,7 +5965,6 @@ challa
 catheterized
 cerastium
 catheterizes
-catheti
 cathetometer
 cathetometric
 cephalophorous
@@ -26940,6 +26939,7 @@ crochets
 counterinsult
 counterinsurgency
 counterinterest
+catheti
 copperproof
 counterintuitive
 counterinvestment
