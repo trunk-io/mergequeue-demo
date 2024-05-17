@@ -6838,7 +6838,6 @@ fenceplay
 foliaceous
 fluviology
 foretold
-foliage
 fruitist
 fakofo
 frouzier
@@ -10418,6 +10417,7 @@ frontier
 formats
 fowage
 frontierless
+foliage
 farmyards
 fictor
 forgivableness
