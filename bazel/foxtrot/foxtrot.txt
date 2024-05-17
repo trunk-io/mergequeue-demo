@@ -4440,6 +4440,7 @@ focaloid
 fissionable
 farcing
 fissioned
+furzes
 fissions
 fregit
 fissipalmation
@@ -10718,7 +10719,6 @@ flyeater
 fruitlessness
 fleabugs
 fruitlets
-furzes
 foxy
 fruitlike
 fruitling
