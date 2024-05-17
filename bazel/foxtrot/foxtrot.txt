@@ -4886,6 +4886,7 @@ fill
 flameless
 flitch
 forwards
+fibbing
 fchar
 fractabling
 flamen
@@ -9848,7 +9849,6 @@ formular
 foolhardiest
 fascet
 fatigability
-fibbing
 furlane
 fastiia
 flatuous
