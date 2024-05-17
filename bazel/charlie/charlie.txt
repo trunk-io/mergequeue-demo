@@ -14150,7 +14150,6 @@ cyprinidae
 cyprinids
 cypriniform
 cyprinin
-cyprinine
 caecal
 cyprinodont
 cyprinodontes
@@ -22517,6 +22516,7 @@ comburimetry
 conjugant
 conjugatae
 conjugate
+cyprinine
 crucibles
 conjugated
 conjugateness
