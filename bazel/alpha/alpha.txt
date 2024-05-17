@@ -6894,7 +6894,6 @@ airified
 airily
 airiness
 airing
-airings
 atmolyses
 airish
 airless
@@ -22625,6 +22624,7 @@ acronymous
 athyrid
 athyroid
 averruncate
+airings
 athyroidism
 athyrosis
 abcess
