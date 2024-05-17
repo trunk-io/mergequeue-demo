@@ -9078,7 +9078,6 @@ fowlfoot
 fowlings
 fluvious
 fowlpox
-fowlpoxes
 footpick
 fib
 fallaciousness
@@ -10935,6 +10934,7 @@ fletched
 fully
 fullmouth
 fullmouthed
+fowlpoxes
 fullom
 fripperies
 forespeak
