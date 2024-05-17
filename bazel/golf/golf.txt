@@ -7353,7 +7353,6 @@ gassit
 gotiglacial
 gastrula
 grudgekin
-gotos
 guesstimated
 gangliitis
 gimbawawed
@@ -10740,6 +10739,7 @@ guiders
 graminin
 granule
 glycerinate
+gotos
 gomerels
 gutium
 gimbals
