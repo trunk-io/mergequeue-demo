@@ -8253,7 +8253,6 @@ countertrades
 chair
 calliophone
 chairborne
-chairer
 choriomas
 chairing
 carbonarism
@@ -11550,6 +11549,7 @@ chok
 costless
 chokage
 choke
+chairer
 chokeberry
 certif
 chokeberries
