@@ -7598,7 +7598,6 @@ alburnum
 alburnums
 albus
 albutannin
-alc
 alca
 archontate
 alcaaba
@@ -14386,6 +14385,7 @@ anthypophoretic
 anthocarp
 anthocarpous
 agues
+alc
 anthoceros
 anthocerote
 aquariiums
