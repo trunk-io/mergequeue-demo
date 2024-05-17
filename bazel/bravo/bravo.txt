@@ -10857,7 +10857,6 @@ blepharorrhaphy
 benben
 battak
 blepharosynechia
-blepharospasm
 blepharosphincterectomy
 blepharostenosis
 blepharotomy
@@ -18256,6 +18255,7 @@ butteris
 butterjags
 bottlenecks
 blowout
+blepharospasm
 buttermaker
 broguish
 butterman
