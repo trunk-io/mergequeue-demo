@@ -4966,7 +4966,6 @@ ferruminated
 fillowite
 flowerbed
 foe
-flagella
 flankard
 fauvist
 flanked
@@ -10575,6 +10574,7 @@ frow
 frowardness
 fonder
 frower
+flagella
 fetidly
 frowy
 firewarden
