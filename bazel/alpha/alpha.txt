@@ -723,7 +723,6 @@ abounder
 abounding
 abounds
 about
-abouts
 above
 abovedeck
 aboveground
@@ -18951,6 +18950,7 @@ archiblastula
 archibuteo
 astrochemist
 archicantor
+abouts
 archicarp
 archicerebrum
 archichlamydeae
