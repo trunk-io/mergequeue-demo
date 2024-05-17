@@ -12,6 +12,7 @@ ashcan
 aam
 ammiral
 autoimmunities
+aivr
 aani
 aardvarks
 archerfish
@@ -7046,7 +7047,6 @@ autodetector
 ayurvedas
 attababy
 aivers
-aivr
 aiwain
 aiwan
 adobo
