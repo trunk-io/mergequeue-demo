@@ -2826,7 +2826,6 @@ counsinhood
 crozed
 canopy
 copesman
-caveated
 canopic
 canopid
 canopied
@@ -19495,6 +19494,7 @@ coltpixie
 colourative
 colourer
 colourers
+caveated
 colourfast
 colourful
 colourfully
