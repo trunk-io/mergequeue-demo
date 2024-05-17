@@ -7606,7 +7606,6 @@ foreshaft
 foredestine
 flavorings
 foredevote
-foredivine
 fermentation
 figments
 ficoidal
@@ -10632,6 +10631,7 @@ foveoles
 fructificative
 fructifier
 fructifies
+foredivine
 fructifying
 frontpiece
 furfurals
