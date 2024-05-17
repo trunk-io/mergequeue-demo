@@ -9243,6 +9243,7 @@ fishpot
 fragileness
 fleabane
 fragility
+frizer
 fadable
 fusels
 foxery
