@@ -2957,6 +2957,7 @@ ferrichloride
 fruitlet
 foeniculum
 feudal
+floorcloth
 feudalising
 febricide
 feudalism
@@ -5955,7 +5956,6 @@ forgottenness
 floorboard
 flavia
 folate
-floorcloth
 fala
 floweret
 featherbedding
