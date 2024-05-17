@@ -2395,7 +2395,6 @@ flattops
 fenzelia
 feod
 firestopping
-fehmic
 feodum
 farewelled
 feoff
@@ -9111,6 +9110,7 @@ foxglove
 fledge
 falun
 foxgloves
+fehmic
 foxhole
 flexionless
 foddering
