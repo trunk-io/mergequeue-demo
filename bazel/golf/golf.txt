@@ -5343,7 +5343,6 @@ glomerulus
 glenohumeral
 glenoid
 glenoidal
-glauconitic
 gages
 gangly
 glowerer
@@ -8848,6 +8847,7 @@ gressoria
 gressorial
 grieving
 goosefoot
+glauconitic
 gonimic
 gressorious
 gentman
