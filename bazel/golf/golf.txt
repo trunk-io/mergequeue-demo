@@ -1756,7 +1756,6 @@ gastrodermis
 gnotobiote
 goosemouth
 gravemaking
-gastroduodenal
 gastroduodenitis
 gametophagia
 gastroduodenostomy
@@ -6280,6 +6279,7 @@ gnatworm
 goalage
 goalie
 gambodic
+gastroduodenal
 gallotannate
 goalkeeping
 gargarize
