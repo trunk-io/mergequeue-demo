@@ -25030,6 +25030,7 @@ cordelle
 cordelled
 cordelling
 corder
+crushableness
 cordery
 corders
 cordewane
@@ -27273,7 +27274,6 @@ counterwheel
 counterwilling
 counterwind
 counterwitness
-crushableness
 counterwork
 counterworker
 counterworking
