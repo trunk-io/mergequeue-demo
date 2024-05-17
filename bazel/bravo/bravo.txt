@@ -2042,7 +2042,6 @@ bankcards
 banked
 bethought
 bankerdom
-banket
 banky
 banking
 bankman
@@ -9007,6 +9006,7 @@ biochemics
 biochemistry
 biochemists
 biblioclast
+banket
 bandoras
 baisakh
 biocycle
