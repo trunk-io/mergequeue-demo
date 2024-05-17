@@ -12308,6 +12308,7 @@ bylaws
 bombardo
 bowdrill
 bombast
+buglers
 bandurrias
 bezzi
 baculi
@@ -16138,7 +16139,6 @@ brothels
 breweries
 bistorta
 borrowing
-buglers
 brotherhood
 brothering
 brotherless
