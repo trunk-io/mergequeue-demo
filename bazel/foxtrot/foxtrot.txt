@@ -5781,6 +5781,7 @@ flittermmice
 footrill
 flittermouse
 farmlands
+fraternalist
 fathmur
 flamb
 foredoom
@@ -10950,7 +10951,6 @@ franticness
 fullterm
 flavorful
 fulltime
-fraternalist
 frescoes
 fulmar
 fulminant
