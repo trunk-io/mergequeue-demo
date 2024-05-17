@@ -5003,7 +5003,6 @@ curlicued
 canalman
 crystallizing
 chevrony
-commonwealth
 cartulary
 cartularies
 carapache
@@ -19704,6 +19703,7 @@ combatting
 combe
 constrictors
 connoisseur
+commonwealth
 combes
 clumpier
 chowdering
