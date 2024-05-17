@@ -2196,7 +2196,6 @@ elean
 eleanor
 eyases
 eleazar
-elec
 epixylous
 elecampane
 endocytic
@@ -3659,6 +3658,7 @@ earthmoving
 embryonated
 embryonic
 electrophoreses
+elec
 embryoniferous
 eluates
 ensignhood
