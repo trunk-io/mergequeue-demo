@@ -15646,7 +15646,6 @@ classiest
 classify
 classifiable
 classific
-classifically
 classificator
 classificatory
 classified
@@ -21495,6 +21494,7 @@ concordancer
 concordances
 concordancy
 concordant
+classifically
 concordantial
 cankerworm
 concordantly
