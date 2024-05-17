@@ -5874,7 +5874,6 @@ fangas
 fossick
 flocculator
 forts
-fencing
 froggiest
 flocculency
 flocculent
@@ -10791,6 +10790,7 @@ frutage
 frutescent
 frutex
 fruticeous
+fencing
 frutices
 fruticetum
 foreinclined
