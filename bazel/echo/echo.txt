@@ -1999,7 +1999,6 @@ elaborators
 epitrophy
 elabrate
 exophasia
-entanglement
 etherish
 elaeis
 evokes
@@ -11495,6 +11494,7 @@ ethanal
 everyplace
 exucontian
 everyway
+entanglement
 emborder
 everywhen
 everywhither
