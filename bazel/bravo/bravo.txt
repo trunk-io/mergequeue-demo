@@ -3965,6 +3965,7 @@ bch
 bchs
 ballotage
 bd
+beteela
 bebar
 bde
 bdellatomy
@@ -5830,7 +5831,6 @@ bell
 bonos
 bellacoola
 belladonna
-beteela
 bifidities
 biltongs
 bellatrix
