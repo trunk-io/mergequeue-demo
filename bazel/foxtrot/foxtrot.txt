@@ -6806,7 +6806,6 @@ foldboater
 farmings
 forethink
 foldboating
-foldboats
 foldcourse
 festin
 flaccidity
@@ -10231,6 +10230,7 @@ frivolling
 frontad
 fusobteria
 frivolous
+foldboats
 frivolousness
 flockmaster
 frivols
