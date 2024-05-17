@@ -5965,6 +5965,7 @@ floweret
 featherbedding
 floorcloths
 floored
+flashers
 foreclosable
 fluidizing
 floors
@@ -8392,7 +8393,6 @@ formalities
 formalizable
 flipflop
 formalization
-flashers
 formalizations
 fictitiously
 formerness
