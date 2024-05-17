@@ -13514,7 +13514,6 @@ creches
 cicutoxin
 cid
 cidarid
-cidaridae
 cidaris
 cheatrie
 cymols
@@ -26005,6 +26004,7 @@ cinerary
 cortina
 cortinae
 cortinarious
+cidaridae
 cortinarius
 chaffiness
 cortinate
