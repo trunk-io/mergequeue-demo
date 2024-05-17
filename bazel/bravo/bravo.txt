@@ -13449,7 +13449,6 @@ brigbote
 borstall
 bancos
 bearers
-barrio
 bottomers
 bottoming
 bottomland
@@ -18185,6 +18184,7 @@ biogenase
 bechalk
 butyrometer
 bromisation
+barrio
 butyrometric
 begemmed
 butled
