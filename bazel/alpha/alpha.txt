@@ -9337,7 +9337,6 @@ alphabetic
 alphabetical
 adnumber
 alphabetically
-arthrostraca
 affectation
 alphabetiform
 alphabeting
@@ -20721,6 +20720,7 @@ articulative
 anteroventrally
 amphisbaenic
 articulator
+arthrostraca
 articulators
 articulite
 articulus
