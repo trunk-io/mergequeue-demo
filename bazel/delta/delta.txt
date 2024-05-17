@@ -2036,7 +2036,6 @@ decagons
 decagram
 dourness
 decagrams
-decahedra
 decahedral
 decahedron
 defoamers
@@ -13432,6 +13431,7 @@ decrepitating
 disreputability
 dialyzable
 disreputableness
+decahedra
 dhuti
 darnix
 disreputed
