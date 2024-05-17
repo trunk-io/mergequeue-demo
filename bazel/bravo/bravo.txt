@@ -676,6 +676,7 @@ bales
 bechances
 beletter
 bacteriotoxin
+boracic
 bacteriotrypsin
 bynames
 bungles
@@ -1593,7 +1594,6 @@ bifurcate
 beheadlined
 ballywack
 boldface
-boracic
 briefer
 brughs
 bursati
