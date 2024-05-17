@@ -5855,7 +5855,6 @@ gorling
 geostrategy
 grandeeship
 glossoplegia
-glossopodium
 gunfighter
 goggles
 glossoptosis
@@ -6578,6 +6577,7 @@ goldonian
 glimmerous
 goldsinny
 goldsmithry
+glossopodium
 goldspink
 grandiloquous
 goldurned
