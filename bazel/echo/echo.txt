@@ -3781,7 +3781,6 @@ expendables
 emendable
 emendandum
 ekerite
-escutcheon
 emendations
 esthetical
 eggshells
@@ -6125,6 +6124,7 @@ enoch
 enodally
 enodate
 epithalamion
+escutcheon
 enode
 enoil
 enoint
