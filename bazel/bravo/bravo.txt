@@ -1562,6 +1562,7 @@ ballgame
 ballgames
 ballgowns
 ballhawks
+berley
 ballhooter
 balli
 balliage
@@ -2045,7 +2046,6 @@ banking
 bankman
 blowiest
 bankmen
-berley
 banknote
 badaud
 bristly
