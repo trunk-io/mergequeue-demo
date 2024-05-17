@@ -1751,7 +1751,6 @@ gastrocoel
 gader
 goriest
 gastrocolotomy
-gentled
 gastrodermal
 gastrodermis
 gnotobiote
@@ -10573,6 +10572,7 @@ gunpowdery
 gumboil
 ghoul
 gunpower
+gentled
 guest
 grossierete
 guns
