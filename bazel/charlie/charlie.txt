@@ -16485,7 +16485,6 @@ cecidologist
 clockbird
 comodato
 clocker
-clockface
 clockhouse
 clocking
 clockings
@@ -27961,6 +27960,7 @@ crackly
 cracklier
 crackliest
 cracklings
+clockface
 crackmans
 cracknel
 cracknels
