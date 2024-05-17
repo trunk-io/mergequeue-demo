@@ -2418,7 +2418,6 @@ footstalk
 fremescence
 fer
 farriers
-forecastles
 featherstitching
 formate
 ferae
@@ -4344,6 +4343,7 @@ fisherboy
 faffle
 fragmentate
 fudged
+forecastles
 fisherfolk
 formulaic
 fishery
