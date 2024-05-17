@@ -5770,6 +5770,7 @@ engrainer
 engraining
 endict
 evans
+eulerian
 engrammatic
 encashes
 engramme
@@ -9574,7 +9575,6 @@ eschrufe
 escoba
 escobilla
 empetrous
-eulerian
 escolar
 escolars
 escopeta
