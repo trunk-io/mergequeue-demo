@@ -1652,7 +1652,6 @@ calorimetrically
 calorimotor
 calorist
 calorite
-calorize
 calorized
 calorizes
 calorizing
@@ -27507,6 +27506,7 @@ covalences
 covalency
 carpoptosis
 coriander
+calorize
 corallike
 chrysorin
 covalent
