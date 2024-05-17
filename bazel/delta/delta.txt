@@ -679,6 +679,7 @@ dampness
 dampproof
 dampproofing
 damselfish
+deflater
 damselfishes
 diversions
 damsels
@@ -3423,7 +3424,6 @@ deflated
 dogmen
 dewar
 drynaria
-deflater
 deflates
 deflating
 drunkard
