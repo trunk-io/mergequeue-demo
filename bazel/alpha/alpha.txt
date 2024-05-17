@@ -13088,7 +13088,6 @@ ambonite
 anticreep
 anhungry
 ani
-aniba
 anybody
 antipoles
 anybodies
@@ -24535,6 +24534,7 @@ auxochromous
 auxograph
 auxology
 auxospore
+aniba
 auxotonic
 auxotox
 auxotroph
