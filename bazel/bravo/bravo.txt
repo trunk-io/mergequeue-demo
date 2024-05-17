@@ -6437,6 +6437,7 @@ benweed
 benzacridine
 benzalacetone
 benzalacetophenone
+bogle
 benzalazine
 benzalcohol
 bakupari
@@ -11959,7 +11960,6 @@ brothelry
 bogymen
 bogland
 boglander
-bogle
 bogled
 bogledom
 boglet
