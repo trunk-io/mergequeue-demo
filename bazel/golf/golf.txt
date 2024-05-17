@@ -6166,7 +6166,6 @@ gnat
 gnathal
 gnathite
 gruesomest
-gunyah
 gigantical
 graininess
 gnathitis
@@ -9130,6 +9129,7 @@ gibberosity
 grippleness
 grazier
 garnel
+gunyah
 gryllotalpa
 gripsack
 gript
