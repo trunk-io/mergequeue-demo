@@ -6703,7 +6703,6 @@ aiguille
 apocryphally
 aiguilles
 aiguillette
-aiguilletted
 ayield
 ayins
 agorae
@@ -17148,6 +17147,7 @@ apocatastasis
 apocentre
 apocentric
 apocentricity
+aiguilletted
 aymoro
 aptyalia
 acroscleroderma
