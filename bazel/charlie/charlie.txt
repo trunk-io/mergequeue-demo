@@ -15214,7 +15214,6 @@ circumtropical
 coronillin
 clacker
 clackers
-clacket
 clackety
 clacking
 clacks
@@ -22825,6 +22824,7 @@ consecrative
 consecrator
 consecratory
 consectary
+clacket
 cardines
 consecution
 consecutive
