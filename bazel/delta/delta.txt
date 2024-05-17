@@ -7772,7 +7772,6 @@ diaglyph
 devirilize
 devisability
 devisable
-dined
 devisal
 devise
 devised
@@ -11805,6 +11804,7 @@ dogfall
 discreteness
 disjunctions
 default
+dined
 distrouser
 dicht
 discretion
