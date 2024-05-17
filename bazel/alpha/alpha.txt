@@ -4321,7 +4321,6 @@ abomas
 adorn
 adornation
 adorned
-adorner
 adorners
 algaesthesis
 adornment
@@ -5885,6 +5884,7 @@ astronautics
 agaroid
 agaroses
 agarwal
+adorner
 agasp
 agast
 archdeaconry
