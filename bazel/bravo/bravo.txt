@@ -2656,6 +2656,7 @@ barleducs
 bigamous
 barley
 barleybrake
+bidactyl
 barleybreak
 barleycorn
 barleyhood
@@ -8227,7 +8228,6 @@ burrobrush
 bid
 barbariousness
 boschvark
-bidactyl
 bidactylous
 bidarkas
 biotics
