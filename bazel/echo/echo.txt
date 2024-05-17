@@ -1074,7 +1074,6 @@ equerries
 endearment
 edh
 edhs
-equipper
 edibility
 edible
 expeditive
@@ -6773,6 +6772,7 @@ enticers
 empyema
 exhalatory
 evanid
+equipper
 entify
 enemied
 entifical
