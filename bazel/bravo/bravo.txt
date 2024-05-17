@@ -1,4 +1,3 @@
-bordereaux
 baal
 baalath
 balantidiasis
@@ -12733,6 +12732,7 @@ bookmarker
 bookmarks
 bimorph
 bookmobile
+bordereaux
 bookmobiles
 baroni
 barwise
