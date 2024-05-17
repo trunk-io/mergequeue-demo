@@ -4891,7 +4891,6 @@ endarchies
 endarteteria
 endaspidean
 escrows
-endboard
 endbrains
 extemporaneous
 encrinoid
@@ -10669,6 +10668,7 @@ enhalos
 euchred
 elvis
 euchres
+endboard
 eckehart
 equipage
 ethmose
