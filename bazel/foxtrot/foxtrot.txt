@@ -1392,6 +1392,7 @@ fatherlike
 fathership
 forswore
 flown
+forride
 ferrotyped
 frontways
 fathomableness
@@ -8580,7 +8581,6 @@ fetcher
 forrel
 fenceress
 frivolizing
-forride
 forril
 forrit
 foxish
