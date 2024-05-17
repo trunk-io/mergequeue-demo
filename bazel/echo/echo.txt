@@ -1058,7 +1058,6 @@ edgers
 edgeshot
 errands
 edgeway
-exposedness
 embalmment
 enshrouded
 embryonically
@@ -5761,6 +5760,7 @@ engraftment
 engrafts
 erythristic
 extrovertively
+exposedness
 engrailed
 engrails
 engrained
