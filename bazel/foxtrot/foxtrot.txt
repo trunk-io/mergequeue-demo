@@ -2961,7 +2961,6 @@ febricide
 feudalism
 feudalist
 feudalists
-feudality
 fractionising
 fustigation
 feudalizing
@@ -10167,6 +10166,7 @@ forwardness
 fascicular
 frisette
 firetail
+feudality
 frisettes
 flavouring
 footnotes
