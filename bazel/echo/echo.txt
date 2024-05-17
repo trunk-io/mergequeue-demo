@@ -4516,6 +4516,7 @@ enforcing
 encephalolith
 encephalomas
 encephalomeningocele
+exhalation
 encephalometric
 encephalomyelitic
 ectocarpous
@@ -12441,7 +12442,6 @@ eurasian
 enunciating
 exfoliative
 egocentristic
-exhalation
 expiscator
 ejective
 exhalations
