@@ -4868,7 +4868,6 @@ endamages
 extund
 endameba
 endamebae
-endamebiasis
 extradictable
 endamoeba
 endamoebas
@@ -6704,6 +6703,7 @@ enters
 entertained
 entertainer
 emotionalization
+endamebiasis
 entertaining
 exceptant
 entertainingly
