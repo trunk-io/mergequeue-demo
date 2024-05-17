@@ -15763,7 +15763,6 @@ antiparabema
 antiparabemata
 antiparagraphe
 antiparalytic
-aporose
 afterstain
 antirun
 antiparalytical
@@ -16961,6 +16960,7 @@ aphthic
 addability
 aphthitalite
 aphthong
+aporose
 aphthongal
 aberrations
 aphthongia
