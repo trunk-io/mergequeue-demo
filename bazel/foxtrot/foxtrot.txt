@@ -757,6 +757,7 @@ fenchol
 fibreglass
 fluxions
 fancy
+frothed
 fancied
 fetidness
 fezzan
@@ -10536,7 +10537,6 @@ frillery
 frostwort
 frot
 froth
-frothed
 forebodings
 frothier
 feodary
