@@ -1697,7 +1697,6 @@ faults
 frugivora
 feak
 federate
-feal
 fealty
 fumigates
 fluorinate
@@ -2138,6 +2137,7 @@ flavorousness
 friability
 flushermen
 fissipalmate
+feal
 forcement
 facture
 fireshine
