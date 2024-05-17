@@ -1504,7 +1504,6 @@ diagnosticated
 deacetylating
 deacetylation
 deacidification
-deacidifying
 deaconal
 deaconate
 demigorge
@@ -5296,6 +5295,7 @@ deliriums
 denotatively
 denotativeness
 denotatum
+deacidifying
 denote
 denoted
 denotement
