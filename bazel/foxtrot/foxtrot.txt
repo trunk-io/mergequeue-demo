@@ -201,7 +201,6 @@ flaky
 frizer
 finitary
 factoring
-foreign
 factoryship
 fuzzed
 floatiness
@@ -3512,6 +3511,7 @@ firefall
 forepleasure
 fruiterers
 figurato
+foreign
 frizzier
 forties
 figured
