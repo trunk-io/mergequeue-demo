@@ -10254,7 +10254,6 @@ chiack
 chyack
 cerin
 chyak
-chiam
 cowpea
 chian
 chianti
@@ -21060,6 +21059,7 @@ computernik
 computes
 computing
 conenose
+chiam
 computist
 computus
 celoms
