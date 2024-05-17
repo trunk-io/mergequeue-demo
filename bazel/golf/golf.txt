@@ -2193,7 +2193,6 @@ gazettal
 gazette
 gazetted
 gazetteerish
-gazetteers
 gazetteership
 goyetian
 giunta
@@ -6268,6 +6267,7 @@ garters
 garibaldi
 goadlike
 goadsman
+gazetteers
 guarantine
 gondang
 goal

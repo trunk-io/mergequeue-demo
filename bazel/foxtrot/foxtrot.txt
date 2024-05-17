@@ -2602,6 +2602,7 @@ ferriferous
 folder
 fossilisable
 fluorine
+forebowline
 ferreous
 fences
 ferrer
@@ -7537,7 +7538,6 @@ forebodingness
 fleshiest
 foreboom
 fangotherapy
-forebowline
 farceur
 forebrace
 forestaff
