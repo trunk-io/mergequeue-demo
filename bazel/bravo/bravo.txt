@@ -746,6 +746,7 @@ badgeman
 barrels
 badger
 breeches
+boudoirs
 bogwort
 badgered
 badgerer
@@ -13508,7 +13509,6 @@ bibliophile
 bra
 boudoiresque
 baling
-boudoirs
 bagman
 besnowed
 beatermen
