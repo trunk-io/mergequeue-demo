@@ -4486,7 +4486,6 @@ goasila
 gink
 geometdecrne
 gloss
-globelet
 grides
 graplines
 ginks
@@ -9568,6 +9567,7 @@ germinally
 growliest
 gemses
 grammates
+globelet
 guzerat
 glaucosis
 gonorrheal
