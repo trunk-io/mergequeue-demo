@@ -20464,7 +20464,6 @@ companionless
 chirpiness
 companions
 companionship
-compar
 comparable
 callower
 comparableness
@@ -30831,6 +30830,7 @@ carcan
 courbash
 culpeo
 cortex
+compar
 culpose
 crickety
 culprit
