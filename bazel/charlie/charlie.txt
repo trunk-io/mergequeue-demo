@@ -5761,7 +5761,6 @@ catechin
 cludder
 catechisable
 catechisation
-catechise
 catechised
 chumming
 catechising
@@ -19350,6 +19349,7 @@ colophany
 colophene
 cranny
 colophenic
+catechise
 colophonate
 colophony
 cavillatory
