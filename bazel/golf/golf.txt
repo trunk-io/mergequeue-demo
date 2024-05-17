@@ -2388,7 +2388,6 @@ gelatinizability
 gaveler
 gelatinizable
 galvanography
-graphometer
 gelatinization
 gruppetto
 gelatinizer
@@ -4758,6 +4757,7 @@ gravitates
 gentility
 glossitic
 gadzooks
+graphometer
 gowkit
 gumfield
 gameful
