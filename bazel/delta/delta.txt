@@ -1373,7 +1373,6 @@ doyennes
 derry
 deworm
 dave
-davening
 disacidify
 davenport
 disna
@@ -12222,6 +12221,7 @@ dendrochronological
 dysfunctional
 dysfunctioning
 disability
+davening
 detector
 defatigate
 dysfunctions
