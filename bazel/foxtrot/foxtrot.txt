@@ -2601,7 +2601,6 @@ ferriferous
 folder
 fossilisable
 fluorine
-forebowline
 ferreous
 fences
 ferrer
@@ -3581,6 +3580,7 @@ filature
 flareboard
 filatures
 fulgence
+forebowline
 francs
 filberts
 filched

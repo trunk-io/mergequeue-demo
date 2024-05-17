@@ -4876,6 +4876,7 @@ arariba
 aequipalpia
 arrival
 aranein
+autogamy
 aequor
 aequorins
 aer
@@ -15883,7 +15884,6 @@ anaphylaxis
 assistants
 antiphrases
 antiphrasis
-autogamy
 antiphrastic
 antiphthisic
 antiepileptic
