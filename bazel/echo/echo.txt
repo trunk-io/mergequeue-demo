@@ -177,7 +177,6 @@ equipoising
 euglenida
 ecophobia
 earthquaken
-earthquakes
 encephalomata
 earthquave
 ectoplacenta
@@ -3555,6 +3554,7 @@ embusqu
 embouchment
 enaena
 explication
+earthquakes
 emanent
 embourgeoisement
 earnie
