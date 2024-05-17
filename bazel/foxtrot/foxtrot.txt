@@ -5006,6 +5006,7 @@ flappers
 flappet
 flappy
 faraway
+furil
 flapping
 folders
 flumps
@@ -11362,7 +11363,6 @@ furial
 fervorless
 figureheads
 furied
-furil
 frankincense
 falconry
 formalith
