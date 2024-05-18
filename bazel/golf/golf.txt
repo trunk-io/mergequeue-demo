@@ -2605,7 +2605,6 @@ geneal
 girosol
 gemsbok
 genealogical
-genealogists
 gatha
 glycyls
 guttule
@@ -5088,6 +5087,7 @@ gringos
 glance
 goldic
 glancing
+genealogists
 goofballs
 glancingly
 grilles
