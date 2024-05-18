@@ -6307,7 +6307,6 @@ dermatomycosis
 dermatomyoma
 dictions
 dermatoneural
-dermatoneurology
 dermatoneurosis
 dustuck
 dermatonosus
@@ -10335,6 +10334,7 @@ dioptrometry
 diorama
 denizening
 dioramas
+dermatoneurology
 diophantine
 driftpiece
 dowsing
