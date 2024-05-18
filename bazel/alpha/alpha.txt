@@ -3281,7 +3281,6 @@ actutate
 acuaesthesia
 alids
 acuate
-acuation
 acubens
 acuchi
 acuclosure
@@ -10162,6 +10161,7 @@ ambsace
 ambsaces
 ambulacra
 ambulacriform
+acuation
 attackable
 ambulacrum
 ambulance
