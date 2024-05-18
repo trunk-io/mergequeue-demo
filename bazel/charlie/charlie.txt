@@ -1256,7 +1256,6 @@ calfkill
 calfless
 calflike
 calfling
-corrido
 calfs
 calfskin
 calgary
@@ -27035,6 +27034,7 @@ counterplayer
 counterplan
 counterplea
 counterplead
+corrido
 counterpleading
 counterplot
 coriandrum
