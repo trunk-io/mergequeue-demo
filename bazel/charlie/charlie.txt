@@ -13290,6 +13290,7 @@ cyclases
 ciclatoun
 cyclecar
 cyclecars
+counterextend
 cycledom
 cycler
 cyclers
@@ -26866,7 +26867,6 @@ counterexcitement
 counterexercise
 coresidual
 counterexplanation
-counterextend
 counterextension
 counterfact
 carniferous
