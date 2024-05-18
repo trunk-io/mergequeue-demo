@@ -5568,7 +5568,6 @@ felonweed
 frouncing
 flamant
 federates
-fcp
 feoffment
 frumple
 flagmaking
@@ -6166,6 +6165,7 @@ foredoor
 fuses
 furdle
 flowable
+fcp
 foresaw
 flowage
 flowcharted
