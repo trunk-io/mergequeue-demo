@@ -2214,7 +2214,6 @@ canaba
 canabae
 clisiocampa
 canacee
-colorize
 canacuas
 canada
 canadian
@@ -8914,6 +8913,7 @@ conceptualisation
 chaptalize
 chapter
 chapteral
+colorize
 chaptered
 chapterhouse
 chaptering
