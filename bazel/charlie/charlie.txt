@@ -2344,7 +2344,6 @@ canceled
 canceleer
 canceler
 cancelers
-cancelier
 cancellability
 cancellable
 cancellarius
@@ -31621,6 +31620,7 @@ curvities
 curvle
 coconucan
 curvograph
+cancelier
 curvometer
 curvous
 cheeker
