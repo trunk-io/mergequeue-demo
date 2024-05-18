@@ -13729,7 +13729,6 @@ boutefeu
 banqueteer
 bouteria
 brigands
-ballproof
 bouteselle
 bet
 boutylka
@@ -16873,6 +16872,7 @@ bufonite
 bufotalin
 bufotoxin
 baudekin
+ballproof
 balilla
 bugaboo
 bugaboos

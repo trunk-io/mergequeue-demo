@@ -6536,7 +6536,6 @@ griffinism
 guineapig
 goldbug
 geswarp
-gads
 goldbugs
 gabbles
 goldeyes
@@ -8026,6 +8025,7 @@ goalee
 gunrunning
 granted
 gravelous
+gads
 gucki
 gnatty
 gondoliere
