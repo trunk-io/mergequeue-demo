@@ -6176,7 +6176,6 @@ affiances
 agist
 allamanda
 archaeocyte
-agistment
 agists
 agit
 agitability
@@ -11441,6 +11440,7 @@ amurcosity
 amurru
 amus
 arteriolar
+agistment
 amex
 amuse
 affirmatively
