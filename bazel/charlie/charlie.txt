@@ -4178,6 +4178,7 @@ cataloger
 cardiotherapies
 clinchpoop
 cardiotomy
+corrector
 cardiotrophotherapy
 cardiovascular
 cardiovisceral
@@ -5720,7 +5721,6 @@ catchpole
 cynoscion
 cheroot
 catchpoled
-corrector
 catchpoleship
 catchpoling
 catchpoll
