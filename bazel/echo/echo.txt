@@ -5679,7 +5679,6 @@ enginery
 engineries
 ellwand
 engirding
-epicrystalline
 embrace
 engirdle
 engirdled
@@ -9711,6 +9710,7 @@ esophagotome
 esophagus
 earthshine
 esophoric
+epicrystalline
 eremacausis
 elaeoblastic
 epiphenomenalism
