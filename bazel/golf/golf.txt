@@ -5570,6 +5570,7 @@ glissades
 groschen
 glissandi
 glissando
+grande
 gleyde
 ganoids
 germantown
@@ -7856,7 +7857,6 @@ grandaunts
 grandbaby
 granddaddies
 granddaughter
-grande
 greetingless
 grandee
 grandeeism
