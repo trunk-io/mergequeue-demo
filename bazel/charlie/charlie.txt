@@ -8477,7 +8477,6 @@ calorisator
 chamaeleo
 chamaeleon
 chamaelirium
-chamaenerion
 chamaepericlymenum
 chamaephyte
 compactedness
@@ -21680,6 +21679,7 @@ condylome
 condylopodous
 condylos
 corditis
+chamaenerion
 condylotomy
 cushioncraft
 condylure
