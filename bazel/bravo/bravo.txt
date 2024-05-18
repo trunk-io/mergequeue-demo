@@ -7781,7 +7781,6 @@ beeper
 bewrays
 bewraps
 bathycurrent
-buffleheaded
 bewrapt
 bewreak
 bewreck
@@ -9259,6 +9258,7 @@ biostatical
 biostatistic
 boeing
 bungmaker
+buffleheaded
 bletting
 biosterol
 beefburger
