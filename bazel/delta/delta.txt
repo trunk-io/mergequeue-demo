@@ -7863,7 +7863,6 @@ devourer
 devourers
 devouress
 depersonalize
-devouring
 discourseless
 defiances
 doers
@@ -18613,6 +18612,7 @@ dutchman
 dutchmen
 duteous
 duteousness
+devouring
 duty
 dutiability
 douanes
