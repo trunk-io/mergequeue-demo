@@ -488,7 +488,6 @@ abjunction
 abjunctive
 amphineurous
 anisocoria
-abjuration
 abjurations
 abjuratory
 abjured
@@ -16795,6 +16794,7 @@ antichurch
 avie
 aph
 antilogical
+abjuration
 asserters
 aphacia
 aphacial
