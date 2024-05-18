@@ -2175,7 +2175,6 @@ gazebo
 gazeboes
 glabella
 gazebos
-gossipmongering
 grampus
 galla
 globosity
@@ -2291,6 +2290,7 @@ gaullist
 gekkonid
 glossopharyngeal
 gristle
+gossipmongering
 graverobber
 gunpowder
 grovel
