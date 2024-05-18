@@ -163,7 +163,6 @@ elses
 earthmaker
 ejidal
 enchantingness
-earthmover
 earthnut
 editorially
 embryo
@@ -5679,6 +5678,7 @@ engirding
 embrace
 engirdle
 engirdled
+earthmover
 exodromy
 exungulate
 everywhereness
