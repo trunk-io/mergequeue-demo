@@ -15,7 +15,6 @@ fabled
 ferry
 fablemaker
 forestay
-feebler
 fablemongering
 fuder
 fabler
@@ -1978,6 +1977,7 @@ feedbags
 feedbin
 feiseanna
 feedbox
+feebler
 fountainously
 feeder
 fluidising
