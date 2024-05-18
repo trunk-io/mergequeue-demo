@@ -3478,6 +3478,7 @@ fight
 fightable
 fingerable
 forel
+foreseason
 fighteress
 fanwort
 fighting
@@ -7928,7 +7929,6 @@ forescene
 forescent
 flowered
 forewarned
-foreseason
 fayence
 foresee
 fantasmagoria
