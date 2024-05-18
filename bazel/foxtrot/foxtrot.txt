@@ -9104,7 +9104,6 @@ foxbane
 foxberry
 foxberries
 foxer
-foxfeet
 foxfire
 friesish
 firmer
@@ -11543,6 +11542,7 @@ furtiveness
 furthering
 fuselage
 fatwood
+foxfeet
 fuselages
 fuselike
 faradiser
