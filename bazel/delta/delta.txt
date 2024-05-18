@@ -2515,7 +2515,6 @@ deckels
 deporte
 deblocking
 dirigent
-decken
 deckhand
 duckwing
 deerstalker
@@ -9529,6 +9528,7 @@ digitron
 dialogising
 digitule
 digladiating
+decken
 digladiator
 diglyceride
 diglots
