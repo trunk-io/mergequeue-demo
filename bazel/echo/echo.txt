@@ -8026,7 +8026,6 @@ epinicia
 epinicial
 extrusion
 epinician
-epidermis
 epinicion
 epinyctis
 effervesce
@@ -13468,6 +13467,7 @@ exsanguinate
 exsanguinating
 ethmoidal
 eudaemonic
+epidermis
 excedent
 entocondylar
 erk
