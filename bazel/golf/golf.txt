@@ -3782,7 +3782,6 @@ gos
 gastroenteroptosis
 glabellae
 gasterothecal
-glabrous
 glace
 glinse
 gladiate
@@ -9051,6 +9050,7 @@ grin
 gable
 germination
 grinch
+glabrous
 geoid
 grincome
 grindable
