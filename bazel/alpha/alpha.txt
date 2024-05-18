@@ -5736,7 +5736,6 @@ afterward
 afterwards
 afterwhile
 archchief
-afterwisdom
 afterwise
 afterwit
 afterword
@@ -6958,6 +6957,7 @@ airscrews
 antioxygenic
 airshed
 airsheds
+afterwisdom
 airships
 airsick
 airsickness
