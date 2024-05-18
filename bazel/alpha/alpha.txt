@@ -3148,6 +3148,7 @@ aget
 actinopteran
 actinopteri
 actinopterygian
+annexal
 amylopsase
 actinoscopy
 actinosome
@@ -13531,7 +13532,6 @@ archiater
 annet
 annette
 annexa
-annexal
 annexation
 annexational
 alette
