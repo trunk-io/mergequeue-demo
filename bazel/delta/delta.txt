@@ -3357,7 +3357,6 @@ defeatment
 defiledness
 deleteriously
 disrates
-displeased
 defilers
 defiles
 donations
@@ -5014,6 +5013,7 @@ demoraliser
 demoralising
 demoralize
 defecter
+displeased
 demoralized
 demoralizers
 demoralizes
