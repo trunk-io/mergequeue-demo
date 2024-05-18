@@ -417,7 +417,6 @@ abiogeny
 abiogenist
 anonychia
 abiogenous
-abiological
 abiologically
 abioses
 abiotic
@@ -16441,6 +16440,7 @@ acrolithic
 aseptol
 ameiurus
 antiwear
+abiological
 affiliates
 antiwedge
 antiweed
