@@ -3447,7 +3447,6 @@ barristers
 biotechnologicaly
 baster
 basters
-bastile
 bastiles
 bastille
 bastilles
@@ -3797,6 +3796,7 @@ battology
 battological
 bringed
 battologise
+bastile
 bukshi
 battologised
 battologising
