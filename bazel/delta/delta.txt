@@ -672,7 +672,6 @@ dampening
 dampens
 dampers
 dampishly
-dampishness
 dampne
 disseminate
 dampness
@@ -12914,6 +12913,7 @@ dictery
 dammer
 disorders
 downwith
+dampishness
 disordinance
 disordinate
 devastator
