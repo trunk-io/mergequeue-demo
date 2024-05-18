@@ -1171,6 +1171,7 @@ bajochi
 bajoire
 bread
 bajonado
+bacula
 bajra
 beltmen
 brakehand
@@ -3901,7 +3902,6 @@ bavius
 biaxial
 bawarchi
 bawble
-bacula
 bookend
 bawcocks
 bummaree
