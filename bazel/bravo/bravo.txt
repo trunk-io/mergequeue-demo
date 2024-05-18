@@ -7201,7 +7201,6 @@ bennetweed
 bespattered
 briquetting
 bespattering
-bespatterment
 bespatters
 bespawl
 backaches
@@ -11626,6 +11625,7 @@ boards
 bullan
 boardsmanship
 boardwalks
+bespatterment
 boarfish
 boarhound
 battledored
