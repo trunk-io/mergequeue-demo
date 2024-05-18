@@ -12614,6 +12614,7 @@ descendentalist
 disjoins
 disjointed
 disjointedly
+duplicidentate
 disjointing
 disjointly
 disjointness
@@ -18428,7 +18429,6 @@ duplicature
 disulphuret
 degreased
 derivation
-duplicidentate
 duplicious
 dispersant
 duplicitas
