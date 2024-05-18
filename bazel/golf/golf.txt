@@ -4452,7 +4452,6 @@ gamps
 goats
 glissade
 glaux
-gingivectomy
 guberniya
 golfs
 gigerium
@@ -8950,6 +8949,7 @@ griffaun
 griffe
 griffes
 griffinage
+gingivectomy
 gralloch
 glagah
 gymnasial
