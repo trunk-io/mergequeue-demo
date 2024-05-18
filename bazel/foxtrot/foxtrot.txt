@@ -5000,7 +5000,6 @@ framableness
 flappers
 flappet
 flappy
-faraway
 furil
 flapping
 folders
@@ -6134,6 +6133,7 @@ flounced
 flounciest
 flouncing
 flounder
+faraway
 flounders
 floury
 flourish
