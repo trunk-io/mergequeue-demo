@@ -17242,7 +17242,6 @@ coalless
 coalmouse
 counterdrain
 coalpit
-coalpits
 calorifically
 coalsack
 communard
@@ -28398,6 +28397,7 @@ crawlway
 crawm
 cunoniaceae
 cartridge
+coalpits
 craws
 conversations
 crawtae
