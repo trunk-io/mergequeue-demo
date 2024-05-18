@@ -6639,7 +6639,6 @@ bequeath
 bequeathal
 bequeathed
 bruges
-bequeather
 braconidae
 bequeathing
 brawled
@@ -17124,6 +17123,7 @@ bulled
 bullescene
 bullet
 bulleted
+bequeather
 bullethead
 bulletheadedness
 brennage
