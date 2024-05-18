@@ -7336,6 +7336,7 @@ determined
 determinedness
 disagreed
 dynamiter
+disvulnerability
 determiner
 didine
 devaluated
@@ -10431,7 +10432,6 @@ diphenylenimine
 ditcher
 diphenylguanidine
 diphenylhydantoin
-disvulnerability
 diphenylmethane
 diphenyls
 dispowder
