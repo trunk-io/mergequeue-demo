@@ -4679,7 +4679,6 @@ bedecked
 bedrid
 bebannered
 bedecking
-bewormed
 bankfull
 bedeguar
 bedehouse
@@ -12153,6 +12152,7 @@ bolelike
 bacchanalias
 bolero
 bivoltine
+bewormed
 biclavate
 bushelful
 boleros
