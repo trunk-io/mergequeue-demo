@@ -11301,7 +11301,6 @@ blouselike
 basks
 blouses
 blousing
-blouson
 bloviate
 bloviated
 bloviates
@@ -12932,6 +12931,7 @@ bootman
 boots
 bootstrapped
 bootstrapping
+blouson
 bodhi
 boottop
 boozed
