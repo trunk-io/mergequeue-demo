@@ -3933,7 +3933,6 @@ carburiser
 carburization
 casemated
 carburize
-carburized
 carburizer
 carburizes
 caphs
@@ -5912,6 +5911,7 @@ cathartics
 cathartidae
 cathartides
 chevied
+carburized
 contributors
 cathartolinum
 coconspirator
