@@ -3163,7 +3163,6 @@ geophilid
 geophilidae
 groined
 gastrins
-geophysics
 geophytic
 genl
 gestae
@@ -5188,6 +5187,7 @@ glassmaker
 glassmaking
 grav
 gasoliery
+geophysics
 gunman
 gamotropism
 gormless
