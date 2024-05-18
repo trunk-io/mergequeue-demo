@@ -8727,6 +8727,7 @@ allergist
 allergists
 allergology
 allerion
+assurable
 allethrin
 alleve
 alleviate
@@ -21985,7 +21986,6 @@ assumptive
 antitheology
 assumptively
 assumptiveness
-assurable
 assurance
 assurances
 assurate
