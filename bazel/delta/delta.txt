@@ -8276,7 +8276,6 @@ diaglyptic
 diagnosable
 diagnose
 diagnosed
-diacetyls
 diagnostical
 diagnostically
 diagnosticate
@@ -13811,6 +13810,7 @@ distant
 distantly
 distantness
 distaste
+diacetyls
 distasted
 distasteful
 distastefully
