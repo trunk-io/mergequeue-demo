@@ -2903,7 +2903,6 @@ barrelful
 barrelfuls
 blind
 barrelhead
-barrelhouse
 barrelhouses
 barreling
 blanco
@@ -12800,6 +12799,7 @@ bronchially
 boolya
 blebs
 boom
+barrelhouse
 banzai
 beefcakes
 boomable
