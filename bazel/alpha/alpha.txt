@@ -4882,7 +4882,6 @@ arariba
 aequipalpia
 arrival
 aranein
-autogamy
 aequor
 aequorins
 aer
@@ -17615,6 +17614,7 @@ actinoidea
 apparat
 apparatchik
 apparatchiki
+autogamy
 anatomising
 alcyonaria
 apparatchiks
