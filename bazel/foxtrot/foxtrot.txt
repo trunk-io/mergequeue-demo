@@ -7247,7 +7247,6 @@ footraces
 fb
 forestery
 footrest
-footrope
 footropes
 fremescent
 fiorded
@@ -10783,6 +10782,7 @@ flyover
 flat
 frustulent
 frustules
+footrope
 frustum
 frutage
 frutescent
