@@ -10561,7 +10561,6 @@ aglyphodontia
 amildar
 amylemia
 amylene
-amylenes
 amylenol
 antireactive
 amylic
@@ -13939,6 +13938,7 @@ anoxic
 absolutista
 anasazi
 anoxidative
+amylenes
 arctia
 anarcotin
 armorica
