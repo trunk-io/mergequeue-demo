@@ -8114,7 +8114,6 @@ foretellers
 foretells
 fatiguability
 forethinking
-forethough
 forethoughtfulness
 furnishings
 fleet
@@ -8379,6 +8378,7 @@ foredestined
 forlornly
 forever
 fucatious
+forethough
 forlornness
 form
 fluoroscopes
