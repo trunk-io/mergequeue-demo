@@ -2294,7 +2294,6 @@ achromatopsia
 adverts
 achromatosis
 avicularia
-achromats
 achromia
 ayes
 achromic
@@ -5984,6 +5983,7 @@ agentives
 agentry
 archprototype
 archsnob
+achromats
 agents
 ageometrical
 ager
