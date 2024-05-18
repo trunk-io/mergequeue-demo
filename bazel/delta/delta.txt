@@ -449,6 +449,7 @@ dayworker
 daywrit
 dakerhen
 dakhini
+driftages
 durgah
 dakoit
 dakoity
@@ -17111,7 +17112,6 @@ dryfoot
 drift
 driftage
 deficient
-driftages
 derivational
 dispensated
 driftbolt
