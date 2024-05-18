@@ -2669,6 +2669,7 @@ emyds
 electrothermal
 expurgates
 epiperipheral
+enaluron
 electrothermic
 endomycetaceae
 electrothermometer
@@ -14125,7 +14126,6 @@ ebonizing
 ephemerality
 enplanement
 emulates
-enaluron
 eloign
 entocuneiform
 egyptize
