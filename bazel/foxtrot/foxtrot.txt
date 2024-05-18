@@ -3674,6 +3674,7 @@ fretsaws
 firing
 filigrained
 fanged
+freshed
 foibles
 firstborn
 filigrane
@@ -9860,7 +9861,6 @@ frescade
 frescoed
 frontingly
 fresh
-freshed
 fraxinella
 fresheners
 freshening
