@@ -1990,7 +1990,6 @@ elaboration
 espials
 elaboratively
 endocrinotherapy
-elaborators
 epitrophy
 elabrate
 exophasia
@@ -12708,6 +12707,7 @@ exomphalous
 embryogeny
 exomphalus
 ethionine
+elaborators
 entame
 exonarthex
 epicotyledonary
