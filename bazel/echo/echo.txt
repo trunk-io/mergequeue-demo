@@ -3314,7 +3314,6 @@ essentialities
 eruginous
 empathize
 enatant
-embalmed
 envelopes
 eriophyidae
 encyclopaedial
@@ -13171,6 +13170,7 @@ entosterna
 explainer
 explainers
 explaining
+embalmed
 eductor
 expurgator
 eldred
