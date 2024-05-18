@@ -1525,7 +1525,6 @@ butomus
 ballaster
 ballastic
 ballasting
-baste
 ballat
 ballata
 batikulin
@@ -10083,6 +10082,7 @@ beinness
 bivious
 bedfast
 bivocal
+baste
 bivocalized
 bivoluminous
 boatful
