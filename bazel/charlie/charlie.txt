@@ -3700,7 +3700,6 @@ chetty
 caravanner
 caravans
 caravansary
-corticopeduncular
 caravansaries
 caravanserai
 caravanserial
@@ -12379,6 +12378,7 @@ chromaffinic
 chromamamin
 chromammine
 chromaphil
+corticopeduncular
 chromaphore
 chromas
 coffeeweed
