@@ -9668,6 +9668,7 @@ doorcase
 doors
 dipneusti
 dispense
+dungbred
 diageotropy
 daphnite
 dilacerated
@@ -18222,7 +18223,6 @@ dimensional
 dungas
 dungbeck
 demioctangular
-dungbred
 delineament
 deschampsia
 deformalize
