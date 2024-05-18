@@ -7243,6 +7243,7 @@ fatidic
 fetial
 fogs
 forepeak
+fleetings
 forefronts
 footpounds
 flanderkin
@@ -9649,7 +9650,6 @@ freebie
 frescos
 freebooter
 freebootery
-fleetings
 flask
 freebooting
 freed
