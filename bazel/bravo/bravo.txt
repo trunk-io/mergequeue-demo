@@ -3961,7 +3961,6 @@ bchs
 ballotage
 bd
 beteela
-bebar
 bde
 bdellatomy
 bdellium
@@ -11429,6 +11428,7 @@ bluefins
 bluegill
 blenched
 belonosphaerite
+bebar
 bluegrass
 bluegum
 bluegums
