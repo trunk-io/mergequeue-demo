@@ -2924,7 +2924,6 @@ euchromatin
 emaciate
 egrimony
 exogastric
-elided
 elides
 elidible
 enjelly
@@ -3187,6 +3186,7 @@ eluents
 elul
 executioners
 elusion
+elided
 epactal
 elusive
 entrench
