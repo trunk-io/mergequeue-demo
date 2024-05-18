@@ -15804,7 +15804,6 @@ clavicularium
 claviculate
 chirotype
 claviculus
-clavier
 clavierist
 clavierists
 claviform
@@ -27515,6 +27514,7 @@ covariables
 cheongsam
 coal
 covariant
+clavier
 cuban
 covariate
 covariates
