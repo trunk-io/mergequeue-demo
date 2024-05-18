@@ -873,7 +873,6 @@ baggagemaster
 baggager
 benzidin
 baggala
-bedsheets
 bagganet
 baggara
 brevis
@@ -8313,6 +8312,7 @@ bienly
 bewitchery
 bienne
 bienness
+bedsheets
 biennial
 biennially
 biennium
