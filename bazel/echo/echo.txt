@@ -5141,7 +5141,6 @@ endolysin
 endolumbar
 endomastoiditis
 endome
-empt
 ephesians
 evene
 endometrial
@@ -12617,6 +12616,7 @@ exobasidiales
 exclaim
 exobasidium
 eating
+empt
 epistolet
 extinguishment
 exobiologists
