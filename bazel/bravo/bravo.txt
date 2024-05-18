@@ -5436,7 +5436,6 @@ begrimes
 bombsight
 begriming
 begrimmed
-balloons
 beseemly
 bookish
 bot
@@ -5989,6 +5988,7 @@ bells
 belltail
 baresarks
 biomicroscopy
+balloons
 belluine
 babylonish
 bellum
