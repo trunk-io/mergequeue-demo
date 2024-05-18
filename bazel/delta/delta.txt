@@ -120,7 +120,6 @@ dada
 dadayag
 determinability
 dadaism
-dadaist
 dadaistic
 dadaists
 denticule
@@ -2678,6 +2677,7 @@ diverge
 decompensation
 delinquents
 decompensations
+dadaist
 decompiler
 decomponent
 decomposability
