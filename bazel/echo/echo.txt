@@ -11887,7 +11887,6 @@ excavatory
 excave
 epizoarian
 excecate
-excecation
 exceedable
 elutes
 exceeded
@@ -13410,6 +13409,7 @@ ef
 expropriable
 expropriate
 emda
+excecation
 egested
 epitaph
 expropriated
