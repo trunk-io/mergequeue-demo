@@ -4022,6 +4022,7 @@ finish
 fletchings
 finishable
 finisher
+fadable
 finishers
 finishes
 finite
@@ -9251,7 +9252,6 @@ fragileness
 fleabane
 fragility
 frizer
-fadable
 fusels
 foxery
 faceplate
