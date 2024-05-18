@@ -10912,6 +10912,7 @@ eupatrids
 eluent
 epigram
 eupepsy
+exemplars
 epitapher
 electrocuting
 eloquently
@@ -12334,7 +12335,6 @@ envy
 exemplarism
 echoes
 exemplarity
-exemplars
 exempli
 ectotheca
 embodier
