@@ -6362,7 +6362,6 @@ ethmoids
 ensient
 ensiform
 ensign
-ensigncy
 electroplaque
 entranceway
 ensignry
@@ -12301,6 +12300,7 @@ extralateral
 erodable
 eudiagnostic
 ergotine
+ensigncy
 executorial
 executors
 exocyclica
