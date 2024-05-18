@@ -6843,6 +6843,7 @@ axometer
 aircraftmen
 ausu
 aircraftsman
+auresca
 affrontiveness
 aircraftsmen
 aircraftswoman
@@ -23560,7 +23561,6 @@ atomistically
 aureomycin
 aureous
 aureously
-auresca
 alcaiceria
 aureus
 auribromide
