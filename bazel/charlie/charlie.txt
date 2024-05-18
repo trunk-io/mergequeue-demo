@@ -10893,6 +10893,7 @@ centropomus
 chip
 chipchap
 chipchop
+collada
 chipewyan
 capriole
 chiplet
@@ -18890,7 +18891,6 @@ collaborativeness
 claw
 collaborator
 collaborators
-collada
 calligrapher
 colladas
 collage
