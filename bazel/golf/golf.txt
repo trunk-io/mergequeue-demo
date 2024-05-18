@@ -4152,7 +4152,6 @@ glandes
 gasterosteoid
 gim
 gimbal
-granum
 groining
 guildry
 grifted
@@ -8303,6 +8302,7 @@ gell
 groundman
 gananciales
 grinds
+granum
 grateless
 gratelike
 graters
