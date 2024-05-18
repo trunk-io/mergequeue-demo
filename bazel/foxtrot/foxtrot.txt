@@ -347,7 +347,6 @@ fusses
 fortypenny
 faineance
 foredeck
-faineant
 faineantism
 fainest
 fainly
@@ -3458,6 +3457,7 @@ fifteenfold
 fifteens
 frauds
 fifteenths
+faineant
 fifty
 fifties
 fumiduct
