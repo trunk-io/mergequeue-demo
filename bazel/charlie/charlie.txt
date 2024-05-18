@@ -4749,6 +4749,7 @@ chirurgy
 carpiodes
 carpium
 carpocace
+contagia
 carpocapsa
 conscient
 carpocarpal
@@ -26275,7 +26276,6 @@ costanoan
 costar
 costarred
 costars
-contagia
 costata
 costated
 crouching
