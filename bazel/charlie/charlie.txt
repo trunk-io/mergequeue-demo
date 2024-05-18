@@ -15278,7 +15278,6 @@ complacencies
 clags
 candiel
 clay
-claybank
 claybanks
 claiborne
 claibornian
@@ -29661,6 +29660,7 @@ crocuses
 crocuta
 croft
 crofter
+claybank
 cornucopiate
 crofters
 crofts
