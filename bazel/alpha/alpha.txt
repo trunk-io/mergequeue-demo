@@ -4070,6 +4070,7 @@ adjutantship
 anesthetic
 adjutator
 adjute
+africana
 adjutor
 adjutory
 adjutorious
@@ -5549,7 +5550,6 @@ another
 afrete
 africa
 apothecaries
-africana
 alkalizable
 aspout
 africanize
