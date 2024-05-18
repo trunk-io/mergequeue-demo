@@ -6026,7 +6026,6 @@ enlister
 enlistments
 enlive
 enliven
-enlivened
 encomiums
 enlivener
 enliveningly
@@ -11717,6 +11716,7 @@ exadversum
 exaestuate
 etymologizing
 exaggerate
+enlivened
 etiotropic
 exaggerated
 euchological
