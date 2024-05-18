@@ -1205,7 +1205,6 @@ datatype
 datatypes
 datcha
 demiassignation
-dynamometry
 dragooner
 draftproof
 dialyzers
@@ -3402,6 +3401,7 @@ definitised
 domesticable
 definitive
 definitively
+dynamometry
 delaying
 discloister
 definitiveness
