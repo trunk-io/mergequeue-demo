@@ -3776,7 +3776,6 @@ dehydrocorydaline
 dehydrocorticosterone
 dehydroffroze
 dehydroffrozen
-dehydrofreeze
 drepanoid
 disproved
 didact
@@ -12958,6 +12957,7 @@ dispar
 disparageable
 disparagement
 disparagements
+dehydrofreeze
 deodorizers
 disparagingly
 decertificaton
