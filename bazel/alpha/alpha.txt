@@ -12072,7 +12072,6 @@ anatabine
 anatase
 anatases
 anatexis
-anathem
 anathemas
 anathemata
 apogamically
@@ -22221,6 +22220,7 @@ astraeiform
 astragalar
 astragalectomy
 astragali
+anathem
 astragalocalcaneal
 astragalocentral
 astragalomancy
