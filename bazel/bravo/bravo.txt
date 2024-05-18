@@ -6762,6 +6762,7 @@ beslubber
 buoyance
 bauta
 brissotine
+bimane
 bergfall
 brephic
 bergh
@@ -8837,7 +8838,6 @@ bimalar
 bimana
 bimanal
 belleter
-bimane
 bimanous
 bodysurf
 bournless
