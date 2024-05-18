@@ -224,7 +224,6 @@ abbreviates
 abbreviating
 abbreviation
 ascebc
-abbreviations
 abbreviators
 abbroachment
 abc
@@ -14880,6 +14879,7 @@ anticeremonious
 anticeremoniously
 anticeremoniousness
 antichamber
+abbreviations
 antichance
 antichymosin
 antichlor
