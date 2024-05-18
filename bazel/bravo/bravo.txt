@@ -12142,7 +12142,6 @@ boldacious
 bolden
 bolder
 ballyhooed
-boldest
 bostrychoid
 boldfaced
 bestowal
@@ -14963,6 +14962,7 @@ bredes
 bredestitch
 betainogen
 balance
+boldest
 breech
 breechcloth
 brimfull
