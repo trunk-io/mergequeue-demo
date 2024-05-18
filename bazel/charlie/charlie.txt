@@ -3692,7 +3692,6 @@ carauna
 caraunda
 caravaneer
 cosmogonize
-chemics
 caravaner
 caravanned
 chetty
@@ -15781,6 +15780,7 @@ clavicymbal
 clavicytheria
 clavicytherium
 clavicithern
+chemics
 cytologies
 clavicythetheria
 clavicittern
