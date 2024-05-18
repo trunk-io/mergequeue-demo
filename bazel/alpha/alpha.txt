@@ -21495,7 +21495,6 @@ asphalts
 amine
 asphaltus
 azoxyanisole
-aspheric
 aspherical
 aceituna
 aspheterism
@@ -23977,6 +23976,7 @@ autoclaves
 allemands
 autoclaving
 autocoder
+aspheric
 autocoenobium
 autocollimate
 autocollimators

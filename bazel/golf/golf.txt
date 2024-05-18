@@ -6329,6 +6329,7 @@ goatsbane
 galiot
 goatsbeard
 genuclast
+generalship
 gilo
 greaves
 goatskins
@@ -8283,7 +8284,6 @@ gazelles
 gingering
 grassnut
 gawby
-generalship
 gunnership
 grasswidow
 gph
