@@ -2376,7 +2376,6 @@ cancerdrops
 cancerigenic
 cancerin
 cancerism
-cancerite
 cancerization
 cancerogenic
 cancerophobe
@@ -18256,6 +18255,7 @@ coombe
 cofferer
 cofferfish
 coffering
+cancerite
 chauldron
 coffers
 cofferwork
