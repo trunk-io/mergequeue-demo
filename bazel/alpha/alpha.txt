@@ -11048,7 +11048,6 @@ avidins
 amper
 amperages
 ampere
-amperemeter
 amatory
 ampery
 assientist
@@ -13315,6 +13314,7 @@ anisochromatic
 anisocytosis
 anisocotyledonous
 anisocotyly
+amperemeter
 anisodactyl
 anisodactyla
 anonol
