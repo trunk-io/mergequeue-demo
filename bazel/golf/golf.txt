@@ -1512,6 +1512,7 @@ garrnishable
 gemeinde
 garroo
 garroted
+goldsmithry
 garroter
 garrotes
 garroting
@@ -6579,7 +6580,6 @@ gyracanthus
 goldonian
 glimmerous
 goldsinny
-goldsmithry
 glossopodium
 goldspink
 grandiloquous
