@@ -7361,7 +7361,6 @@ epaulets
 epaulette
 epauletted
 eyries
-elbowed
 epee
 epeeist
 embue
@@ -7869,6 +7868,7 @@ electrifiable
 epigrammatically
 emaciates
 eddyroot
+elbowed
 elbower
 epigrammatizer
 epigrammatizing
