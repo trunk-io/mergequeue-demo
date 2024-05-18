@@ -541,7 +541,6 @@ guardfish
 gallantly
 gallantries
 goffer
-gobblers
 gallbladders
 gaudish
 galled
@@ -7624,6 +7623,7 @@ gutty
 gradin
 gynecotelic
 greenlander
+gobblers
 gastrophilist
 glumpiness
 grading
