@@ -6911,6 +6911,7 @@ gonotype
 gonotome
 galeas
 guinfo
+gutwise
 gonozooid
 galactosemic
 gonzalo
@@ -7265,7 +7266,6 @@ genys
 geographics
 grizzles
 gospelmonger
-gutwise
 glareolidae
 ghast
 gilgul
