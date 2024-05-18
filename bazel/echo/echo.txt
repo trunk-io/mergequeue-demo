@@ -1265,6 +1265,7 @@ een
 endosternite
 eer
 eerily
+eq
 eeriness
 explait
 ensnarement
@@ -8539,7 +8540,6 @@ epulosis
 epulotic
 epural
 epuration
-eq
 exculpable
 eremian
 effectual
