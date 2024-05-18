@@ -11898,7 +11898,6 @@ choppers
 choppier
 choppiest
 choppiness
-chopping
 chopstick
 chopsticks
 chopunnish
@@ -18120,6 +18119,7 @@ coequality
 coequalize
 campman
 coequalness
+chopping
 coequals
 coequate
 centerward
