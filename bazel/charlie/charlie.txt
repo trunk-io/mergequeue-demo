@@ -1892,7 +1892,6 @@ camellin
 cameloidea
 critically
 camelopardalis
-camelopardel
 camelopardid
 cinnamomum
 camelopardidae
@@ -2559,6 +2558,7 @@ canephoros
 canephorus
 canepin
 caner
+camelopardel
 caners
 canes
 caprellidae
