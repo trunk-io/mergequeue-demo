@@ -1045,6 +1045,7 @@ endoskeleton
 eqpt
 evaniidae
 edgar
+evitable
 edge
 embellishing
 edgebone
@@ -13666,7 +13667,6 @@ ecclesiasticism
 externalities
 externalization
 externalize
-evitable
 externalized
 externalizes
 externalness
