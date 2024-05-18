@@ -9654,7 +9654,6 @@ alumnae
 alumni
 alniresinol
 accustomize
-attackable
 alumniate
 alumnol
 alumohydrocalcite
@@ -10156,6 +10155,7 @@ ambsace
 ambsaces
 ambulacra
 ambulacriform
+attackable
 ambulacrum
 ambulance
 acheilary
