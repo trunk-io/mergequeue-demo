@@ -4633,6 +4633,7 @@ beday
 biddable
 bedamned
 bedamning
+beweep
 benzylpenicillin
 bituberculated
 babbled
@@ -13750,7 +13751,6 @@ boutons
 bouts
 bedecorate
 bouvardia
-beweep
 bouviers
 bouw
 butle

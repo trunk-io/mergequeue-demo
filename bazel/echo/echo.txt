@@ -9161,6 +9161,7 @@ embossments
 enteromorpha
 eggbeater
 epigrammatised
+expanded
 electrothermostatic
 ennobled
 eschalots
@@ -12857,7 +12858,6 @@ eburneoid
 exp
 expalpate
 expandable
-expanded
 escropulo
 exsert
 expandedly
