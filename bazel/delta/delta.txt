@@ -2700,6 +2700,7 @@ decompress
 dibble
 decompresses
 decompressing
+dianthus
 detectaphone
 delphinium
 decompressive
@@ -4065,7 +4066,6 @@ dueness
 delegations
 dalradian
 dummies
-dianthus
 desulphurized
 delegator
 deleing
