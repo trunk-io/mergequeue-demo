@@ -1637,7 +1637,6 @@ egret
 egritude
 elohimic
 egromancy
-epidotization
 egurgitate
 egurgitated
 egurgitating
@@ -6671,6 +6670,7 @@ ebracteolate
 enterotome
 empyreumatic
 enright
+epidotization
 enterotomy
 enterotoxemia
 enterotoxication
