@@ -3217,7 +3217,6 @@ amphogenic
 activated
 activates
 activation
-activations
 activator
 active
 actively
@@ -14888,6 +14887,7 @@ antonia
 antichoromanic
 antichorus
 anthropomorphosis
+activations
 antichreses
 antichretic
 antichrist
