@@ -6106,6 +6106,7 @@ bemangle
 bemar
 bemask
 bodybuild
+brownistic
 blephillia
 bemaster
 bemaul
@@ -16211,7 +16212,6 @@ brownish
 brownishness
 brownist
 boosted
-brownistic
 brownly
 brownness
 brownnose
