@@ -11502,7 +11502,6 @@ chocoan
 chocolate
 chocolatey
 chocolates
-chocolaty
 chocolatiere
 communality
 calcomp
@@ -16703,6 +16702,7 @@ carbamoyl
 cosuitor
 culla
 clothespin
+chocolaty
 cotypes
 clothespins
 clothespresses
