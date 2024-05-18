@@ -9897,6 +9897,7 @@ chemistry
 chemistries
 chemists
 chemitype
+countess
 chemitypy
 chancrous
 chemitypies
@@ -27279,7 +27280,6 @@ counterworker
 counterworking
 counterwrite
 committee
-countess
 countfish
 counties
 counting
