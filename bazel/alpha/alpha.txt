@@ -6014,7 +6014,6 @@ agglomeratic
 agglomerating
 agglomeration
 agglomerative
-agglomerator
 aramis
 apprehensibly
 apical
@@ -20367,6 +20366,7 @@ arrowbush
 arrowheaded
 arrowheads
 arrowing
+agglomerator
 arrowleaf
 arrowless
 alkyl
