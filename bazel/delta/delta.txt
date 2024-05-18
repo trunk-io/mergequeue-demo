@@ -3576,7 +3576,6 @@ disembarrassment
 defrayals
 decadarchy
 defrayed
-defrayer
 defrayers
 defraying
 defraudation
@@ -10901,6 +10900,7 @@ disabled
 doorplates
 dasypygal
 doldrums
+defrayer
 demonstrativeness
 disablers
 disables
