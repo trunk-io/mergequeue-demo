@@ -2485,6 +2485,7 @@ decyne
 diaeresis
 decinormal
 decipherability
+diallers
 decipherable
 dand
 delay
@@ -13223,7 +13224,6 @@ disporous
 disporting
 disportive
 disportment
-diallers
 disposability
 disposed
 declined
