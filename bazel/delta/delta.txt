@@ -796,6 +796,7 @@ dungeon
 dermititis
 daneweed
 daneweeds
+difficult
 danged
 detections
 dangerfully
@@ -8738,7 +8739,6 @@ demonocracy
 devilment
 diastrophically
 diatesseron
-difficult
 diathermance
 diathermaneity
 diathermanous
