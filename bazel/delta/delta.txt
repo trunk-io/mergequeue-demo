@@ -5223,7 +5223,6 @@ destructor
 denied
 denyer
 denierer
-denigrate
 denigrated
 denigrates
 denigrations
@@ -9010,6 +9009,7 @@ dicoelous
 dicolon
 dicotyledon
 dicotyledonous
+denigrate
 dicotyles
 disruption
 dicotylidae
