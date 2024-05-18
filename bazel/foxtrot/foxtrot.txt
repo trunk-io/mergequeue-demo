@@ -238,7 +238,6 @@ faculty
 font
 faculties
 frostbound
-furbisher
 facultize
 frightening
 firmest
@@ -3325,6 +3324,7 @@ fideicommissaries
 faon
 forevermore
 fideicommission
+furbisher
 flasket
 facioscapulohumeral
 fideist
