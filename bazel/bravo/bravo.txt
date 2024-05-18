@@ -5702,7 +5702,6 @@ bindweeds
 belay
 bima
 blarina
-briton
 belate
 bandura
 belated
@@ -6545,6 +6544,7 @@ benzophenothiazine
 benzophloroglucinol
 benzophthalazine
 benzopyran
+briton
 breakup
 benzopyranyl
 butanes
