@@ -5820,6 +5820,7 @@ entities
 episcopalian
 enhaemospore
 enterostomies
+epiplastron
 enhallow
 enhalo
 explees
@@ -9847,7 +9848,6 @@ elementarism
 edgier
 exospheres
 epicoelar
-epiplastron
 essedones
 eisoptrophobia
 epimorphic
