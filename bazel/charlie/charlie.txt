@@ -14658,6 +14658,7 @@ cissoidal
 chionis
 chateaubriand
 clefs
+chang
 cissoids
 cissus
 cist
@@ -19813,7 +19814,6 @@ charade
 comestion
 circulates
 comet
-chang
 cometary
 cometaria
 cometh
