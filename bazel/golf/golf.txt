@@ -1330,7 +1330,6 @@ garblings
 garboard
 gesticulator
 ged
-garboards
 garbologist
 gimlety
 garce
@@ -2948,6 +2947,7 @@ ghaznevid
 genua
 gruel
 gustfulness
+garboards
 genuflecting
 graphicalness
 gullish
