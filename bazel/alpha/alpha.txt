@@ -7345,6 +7345,7 @@ anginas
 alarms
 anthesterol
 alarodian
+animas
 alarum
 alarumed
 alaruming
@@ -13197,7 +13198,6 @@ accouterments
 adapter
 animando
 animant
-animas
 animastic
 animastical
 autoimmune

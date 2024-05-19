@@ -10552,7 +10552,6 @@ blastid
 blasting
 borolanite
 blastings
-blastman
 blastocarpous
 blastocele
 boomers
@@ -13957,6 +13956,7 @@ brooders
 boxty
 boxtop
 brager
+blastman
 bluecup
 boxtops
 bland
