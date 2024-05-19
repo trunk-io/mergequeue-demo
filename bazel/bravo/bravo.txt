@@ -9586,6 +9586,7 @@ balladmongering
 byroads
 birodo
 bakeshops
+burnies
 brittling
 blazoning
 biron
@@ -11199,7 +11200,6 @@ blooding
 balanic
 bloodings
 buzzy
-burnies
 blunker
 benevolently
 bloodletter
