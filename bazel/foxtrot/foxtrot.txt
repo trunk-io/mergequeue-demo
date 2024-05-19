@@ -1189,7 +1189,6 @@ filtration
 fultz
 fluidics
 fascinating
-familiarizer
 fascinatingly
 fascination
 fascinator
@@ -9245,6 +9244,7 @@ fleabane
 fragility
 frizer
 fusels
+familiarizer
 foxery
 faceplate
 ferritins
