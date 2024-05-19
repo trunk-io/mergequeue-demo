@@ -2398,7 +2398,6 @@ formate
 ferae
 fairyship
 fasteners
-feralin
 flywire
 farthermost
 favel
@@ -10713,6 +10712,7 @@ fruitlets
 foxy
 fruitlike
 fruitling
+feralin
 fivepenny
 farfugium
 fruitstalk
