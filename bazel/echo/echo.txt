@@ -590,7 +590,6 @@ earthshock
 echoism
 egers
 extrudable
-echoisms
 epigeal
 echolocation
 echometer
@@ -12697,6 +12696,7 @@ exomphalus
 ethionine
 elaborators
 entame
+echoisms
 exonarthex
 epicotyledonary
 exonerate
