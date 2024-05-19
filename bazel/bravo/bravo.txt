@@ -3979,7 +3979,6 @@ booksellerish
 bocstaff
 bdellostomatidae
 brickbats
-bdellostomidae
 bacteritic
 bdelloura
 bdellouridae
@@ -13723,6 +13722,7 @@ bourse
 bourtree
 bathochrome
 betallow
+bdellostomidae
 bisiliquous
 bezonian
 bouse

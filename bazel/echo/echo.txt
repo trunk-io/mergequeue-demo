@@ -330,7 +330,6 @@ eavesdropping
 ebauchoir
 ebbing
 ebbs
-ebcasc
 ebcd
 eben
 excided
@@ -6879,6 +6878,7 @@ entrap
 entomologized
 enstatolite
 entomophaga
+ebcasc
 expectative
 entomophagous
 engle
