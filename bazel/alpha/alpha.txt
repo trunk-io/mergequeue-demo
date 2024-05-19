@@ -8602,7 +8602,6 @@ acyclically
 allalinite
 allamonti
 allamotti
-allan
 allanite
 allanites
 academise
@@ -14586,6 +14585,7 @@ anthropometer
 anthropometry
 anthropometric
 antinucleon
+allan
 anthropometrical
 anthropometrist
 anthropomophitism
