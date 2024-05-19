@@ -10491,7 +10491,6 @@ amidol
 anapophysis
 amidomyelin
 amidon
-amidone
 amidophenol
 aaa
 anlaute
@@ -19764,6 +19763,7 @@ ariose
 ariosi
 ariot
 aculeiform
+amidone
 aripple
 arisaid
 arisard
