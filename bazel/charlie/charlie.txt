@@ -9037,6 +9037,7 @@ chemisms
 chargable
 charge
 chargeability
+cheerless
 chargeable
 chimmesyan
 chargeableness
@@ -14673,7 +14674,6 @@ contestate
 chaptalizing
 cnidophore
 cysted
-cheerless
 cysteine
 cysteines
 cysteinic
