@@ -2399,7 +2399,6 @@ electroencephalographs
 essentialize
 evoker
 electroendosmosis
-electroengrave
 epoist
 electroextraction
 eastbound
@@ -6252,6 +6251,7 @@ exarchal
 ecclesiastry
 expediencies
 exalte
+electroengrave
 enringed
 enringing
 embalms
