@@ -4218,7 +4218,6 @@ fissicostate
 frightened
 floridians
 firesider
-firespout
 freshmanship
 forestiera
 firestop
@@ -11197,6 +11196,7 @@ fibronuclear
 faence
 figury
 feneration
+firespout
 fungistat
 foraminous
 fallfishes
