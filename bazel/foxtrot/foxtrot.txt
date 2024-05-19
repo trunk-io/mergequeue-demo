@@ -1691,6 +1691,7 @@ fumigates
 fluorinate
 fear
 fimbles
+finite
 fearedly
 forearming
 fadeaways
@@ -4021,7 +4022,6 @@ finisher
 fadable
 finishers
 finishes
-finite
 finites
 fightingly
 frolickers
