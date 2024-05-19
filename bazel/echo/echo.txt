@@ -3542,7 +3542,6 @@ elasmobranchii
 embost
 exembryonate
 embottle
-embouchement
 embusqu
 embouchment
 enaena
@@ -12636,6 +12635,7 @@ exocoelum
 exocoetus
 exocone
 eumeromorph
+embouchement
 eyeserver
 endokaryogamy
 exocrines
