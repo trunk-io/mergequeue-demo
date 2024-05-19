@@ -5272,6 +5272,7 @@ befuddled
 bram
 befuddlement
 befuddler
+banner
 befuddlers
 bromite
 boxberries
@@ -7235,7 +7236,6 @@ bespeaks
 bespecked
 backrun
 bespeckle
-banner
 bespeckled
 bespectacled
 bogie
