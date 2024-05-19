@@ -7238,7 +7238,6 @@ centrical
 centricality
 centrically
 centricipital
-centriciput
 centrifugalisation
 centrifugalise
 centrifugalization
@@ -8435,6 +8434,7 @@ circumflect
 chalkstone
 chalkworker
 challah
+centriciput
 challahs
 challas
 contraponend
