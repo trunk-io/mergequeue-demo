@@ -4834,7 +4834,6 @@ carryall
 carrick
 carrycot
 chromatoplasm
-carrie
 carried
 carryed
 carrier
@@ -15762,6 +15761,7 @@ chromascope
 clavate
 clavated
 clavately
+carrie
 clave
 cytoryctes
 clavecin
