@@ -2535,7 +2535,6 @@ foremessenger
 fernyear
 frustulum
 fernlike
-fernseed
 flustrum
 fernshaw
 forlorner
@@ -11163,6 +11162,7 @@ foresettle
 funeration
 flintwork
 funereally
+fernseed
 forgettingly
 footmarks
 fluvio
