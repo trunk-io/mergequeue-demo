@@ -5471,7 +5471,6 @@ blepharal
 beguileful
 bels
 beguilement
-ballader
 beguilements
 beguiler
 breakdown
@@ -6682,6 +6681,7 @@ bewelcome
 basilyst
 beraking
 banisters
+ballader
 berakoth
 bedabbled
 berascaling
