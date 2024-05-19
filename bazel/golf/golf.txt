@@ -3840,6 +3840,7 @@ glochidia
 grungier
 gommier
 gibbons
+geldable
 gibbosely
 gibboseness
 gibbosity
@@ -10246,7 +10247,6 @@ glycogenize
 gorhen
 gorbellies
 gastroptosis
-geldable
 guiltsick
 guimbard
 guimpe
