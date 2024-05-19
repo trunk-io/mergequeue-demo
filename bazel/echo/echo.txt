@@ -5845,7 +5845,6 @@ excursive
 eftest
 enhaunt
 enhazard
-elaborates
 enheart
 enhearten
 estately
@@ -9502,6 +9501,7 @@ esterase
 escapeful
 exactus
 equisized
+elaborates
 escapeless
 enflagellation
 escapement
