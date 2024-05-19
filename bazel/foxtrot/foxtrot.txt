@@ -1806,7 +1806,6 @@ fulminancy
 frostless
 flaunts
 flakeboard
-featherweights
 featherwing
 featherwise
 familiarisingly
@@ -3333,6 +3332,7 @@ faction
 flabbergastation
 factures
 fidejussionary
+featherweights
 fidejussor
 fratching
 fortunous
