@@ -2938,6 +2938,7 @@ equipede
 endodontic
 explicit
 encephalopsychesis
+exister
 elymi
 eliminable
 eliminate
@@ -13437,7 +13438,6 @@ expunction
 eatanswill
 expungeable
 emf
-exister
 expunged
 englobement
 expunging
