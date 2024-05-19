@@ -7366,7 +7366,6 @@ alaternus
 alation
 aeolharmonica
 anticaste
-alternant
 alauda
 alaudidae
 alaudine
@@ -21293,6 +21292,7 @@ asymmetron
 asymptomatic
 asymptomatically
 asymptote
+alternant
 accompletive
 asymptotes
 asymptotically
