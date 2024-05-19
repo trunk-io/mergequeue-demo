@@ -10529,7 +10529,6 @@ childkind
 childless
 childlessness
 childly
-constitutioner
 childliest
 childlike
 childminder
@@ -19626,6 +19625,7 @@ columnized
 creeperless
 columnizes
 columnizing
+constitutioner
 columns
 colure
 constricts
