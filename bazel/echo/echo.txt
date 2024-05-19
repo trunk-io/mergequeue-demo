@@ -3201,7 +3201,6 @@ elusory
 elusoriness
 esophagospasm
 elute
-eluted
 eluting
 expiscating
 elution
@@ -8761,6 +8760,7 @@ elberta
 equitative
 electrican
 equitemporaneous
+eluted
 eagle
 ecchymotic
 explodable
