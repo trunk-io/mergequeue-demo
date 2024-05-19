@@ -3454,6 +3454,7 @@ gipper
 garten
 gorkun
 goosecap
+glucogene
 geronto
 gerontocracy
 gerontocracies
@@ -8174,7 +8175,6 @@ gifts
 gweducs
 glissaded
 gyrovague
-glucogene
 graphophone
 graphophonic
 gastromelus
