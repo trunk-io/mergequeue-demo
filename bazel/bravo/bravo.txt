@@ -3845,6 +3845,7 @@ batwing
 beswitch
 batwomen
 batuque
+blastocolla
 bishopship
 beetlestock
 batz
@@ -6198,7 +6199,6 @@ bemurmuring
 bittier
 burnings
 bemuses
-blastocolla
 bemuzzle
 bol
 ballmine
