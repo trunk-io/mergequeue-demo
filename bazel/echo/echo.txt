@@ -5279,7 +5279,6 @@ endosteomata
 endosteum
 exploitative
 equipments
-endostylic
 excarnate
 enmagazine
 endostoma
@@ -6540,6 +6539,7 @@ echelons
 exuviates
 enterer
 extemporaneousness
+endostylic
 epimedium
 ellipses
 enorthotrope
