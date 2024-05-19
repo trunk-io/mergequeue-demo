@@ -5160,7 +5160,6 @@ grub
 gritty
 gossan
 glassfuls
-glasshouse
 gastronomics
 gonotocont
 glasshouses
@@ -7434,6 +7433,7 @@ gyrostatics
 gibing
 guesstimate
 gymnotidae
+glasshouse
 goldsmith
 gerful
 gluemaking
