@@ -2078,7 +2078,6 @@ felapton
 feldspar
 farewelling
 funebrial
-federator
 forclose
 feldspath
 forerigging
@@ -2778,6 +2777,7 @@ frankfold
 fessed
 foldouts
 foresentence
+federator
 ferules
 fesses
 flaunche
