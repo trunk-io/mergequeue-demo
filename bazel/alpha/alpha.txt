@@ -5722,7 +5722,6 @@ aftertastes
 ancestress
 achromatium
 afterthought
-afterthoughted
 afterthoughts
 afterthrift
 apastron
@@ -21177,6 +21176,7 @@ archilla
 amazonism
 abecedary
 asharasi
+afterthoughted
 ashberry
 ashcake
 adventure
