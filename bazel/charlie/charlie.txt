@@ -23301,7 +23301,6 @@ consulto
 consultor
 consults
 consumable
-caucussed
 consumate
 consumated
 consumating
@@ -25227,6 +25226,7 @@ corynebacterium
 coryneform
 causus
 corineus
+caucussed
 coring
 corynid
 corynine
