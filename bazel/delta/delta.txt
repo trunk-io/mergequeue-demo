@@ -5510,7 +5510,6 @@ deodorise
 deodorised
 deodoriser
 deynt
-deathroot
 deodorization
 deodorize
 deodorized
@@ -10677,6 +10676,7 @@ dipmeter
 dogman
 digoxin
 demorage
+deathroot
 disendower
 drownproofing
 disorganizing
