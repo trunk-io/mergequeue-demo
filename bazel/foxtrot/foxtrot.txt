@@ -4789,7 +4789,6 @@ filmlands
 flags
 flagship
 firepower
-furler
 formative
 fainer
 floribunda
@@ -5052,6 +5051,7 @@ faugh
 fribble
 foeture
 flashiness
+furler
 flashings
 flashlamp
 flapmouthed
