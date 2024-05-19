@@ -2884,7 +2884,6 @@ emplaning
 elevon
 earthwork
 elevons
-enclitics
 elf
 elfenfolk
 epinard
@@ -5597,6 +5596,7 @@ enfoulder
 epithi
 enfrai
 expressness
+enclitics
 enframed
 enfranch
 ethnarch
