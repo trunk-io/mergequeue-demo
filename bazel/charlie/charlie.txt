@@ -14685,7 +14685,6 @@ cosmologic
 cistercian
 choppy
 cistercianism
-cysterethism
 cisterna
 cisternae
 cisternal
@@ -29917,6 +29916,7 @@ crossovers
 crosspatch
 chokebore
 crosspatches
+cysterethism
 crosspath
 crosspoint
 crossroad
