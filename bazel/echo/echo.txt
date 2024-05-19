@@ -4138,6 +4138,7 @@ estado
 eriglossa
 epigene
 employed
+enomania
 employee
 endives
 employer
@@ -6139,7 +6140,6 @@ educate
 enologist
 enols
 enterclose
-enomania
 eranist
 enomotarch
 exodist
