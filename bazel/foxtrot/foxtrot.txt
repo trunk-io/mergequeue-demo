@@ -8621,7 +8621,6 @@ fillebeg
 filicides
 fumistery
 fields
-forswears
 fertilizations
 fenceful
 fortaxed
@@ -9106,6 +9105,7 @@ foxfires
 frolicsomeness
 foxglove
 formably
+forswears
 fledge
 falun
 foxgloves
