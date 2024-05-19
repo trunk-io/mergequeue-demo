@@ -13314,7 +13314,6 @@ anisochromatic
 anisocytosis
 anisocotyledonous
 anisocotyly
-amperemeter
 anisodactyl
 anisodactyla
 anonol
@@ -23511,6 +23510,7 @@ andaqui
 antignostic
 aunter
 aunters
+amperemeter
 aunthood
 albumean
 antiprophet
