@@ -4469,7 +4469,6 @@ disthrone
 disalign
 dirges
 dematerialize
-deletory
 dematerialized
 dematerializing
 dematiaceae
@@ -13637,6 +13636,7 @@ disship
 disshiver
 dissidence
 diligentness
+deletory
 dissidently
 dissiliency
 dissilient
