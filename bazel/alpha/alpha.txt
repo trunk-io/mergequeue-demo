@@ -5605,7 +5605,6 @@ afterburning
 aftercareer
 aftercast
 aftercataract
-afterchance
 afterchurch
 afterclause
 aftercome
@@ -9138,6 +9137,7 @@ almacigo
 almagests
 alman
 authenticatable
+afterchance
 almanacs
 almander
 almandine
