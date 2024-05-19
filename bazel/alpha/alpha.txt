@@ -1958,6 +1958,7 @@ acetamidine
 acetaminol
 acetaminophen
 acetanilid
+annard
 acetanilide
 acetaniside
 acetanisidine
@@ -13496,7 +13497,6 @@ annamite
 annamitic
 annapolis
 annapurna
-annard
 annas
 annates
 annats
