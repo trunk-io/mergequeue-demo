@@ -4880,7 +4880,6 @@ abaris
 aequi
 arariba
 aequipalpia
-arrival
 aranein
 aequor
 aequorins
@@ -9983,6 +9982,7 @@ ahchoo
 amberite
 actuaries
 amberjack
+arrival
 amberjacks
 attachers
 antares
