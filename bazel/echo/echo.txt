@@ -8638,6 +8638,7 @@ equippers
 embouchures
 eyeshots
 equielliptical
+eternal
 equiexcellency
 equigranular
 equilater
@@ -10127,7 +10128,6 @@ esodic
 electrotest
 eteostic
 eterminable
-eternal
 eternalise
 eternalised
 eternalising
