@@ -7647,7 +7647,6 @@ franger
 footrace
 forefoot
 frenchmen
-fangot
 foregallery
 fumy
 foregate
@@ -11740,6 +11739,7 @@ fossicks
 fuzz
 fuzzes
 fuzzier
+fangot
 fungiferous
 fenlander
 fuzziest
