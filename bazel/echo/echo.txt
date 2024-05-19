@@ -663,7 +663,6 @@ eruc
 eclipsing
 envier
 ecliptical
-endomitotic
 ecliptically
 eclogic
 eclogite
@@ -979,6 +978,7 @@ equine
 edacities
 edam
 edana
+endomitotic
 edaphology
 edaphon
 epicures
