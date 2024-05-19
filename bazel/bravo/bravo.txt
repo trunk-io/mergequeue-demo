@@ -7521,6 +7521,7 @@ broadswords
 brazilin
 betiding
 blindfolds
+bowsprits
 betime
 betinge
 betire
@@ -13906,7 +13907,6 @@ bowshot
 bowshots
 bowsie
 bowsprit
-bowsprits
 bowstaff
 bowstring
 binoculate
