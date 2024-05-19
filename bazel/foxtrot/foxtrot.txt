@@ -9718,7 +9718,6 @@ flotations
 freers
 foliosity
 freesias
-freesilverite
 fivefold
 freespace
 freest
@@ -10828,6 +10827,7 @@ flowcharting
 fuchsite
 fuchsone
 fucinita
+freesilverite
 fucus
 fucused
 fricasseed
