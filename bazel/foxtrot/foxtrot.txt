@@ -64,7 +64,6 @@ flagships
 flecken
 facelessness
 flavorlessness
-findjan
 fabliaux
 filibustering
 facellite
@@ -3232,6 +3231,7 @@ fiche
 fineless
 fiches
 ferroprint
+findjan
 feracious
 flanky
 fusilade
