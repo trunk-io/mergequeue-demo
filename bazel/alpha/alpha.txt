@@ -3977,7 +3977,6 @@ archicleistogamy
 adjectional
 anastatica
 antielectron
-adjectival
 autoactivation
 adjective
 adjectively
@@ -22216,6 +22215,7 @@ amylocoagulase
 apologized
 astraean
 alw
+adjectival
 astraeidae
 astraeiform
 astragalar
