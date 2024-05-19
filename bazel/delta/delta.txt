@@ -6319,7 +6319,6 @@ dermatoneural
 dermatoneurosis
 dustuck
 dermatonosus
-dermatopathia
 dialysepalous
 dermatopathic
 davoch
@@ -8333,6 +8332,7 @@ diagraph
 diagraphs
 diagredium
 diagrydium
+dermatopathia
 diaguitas
 diabolatry
 detestableness
