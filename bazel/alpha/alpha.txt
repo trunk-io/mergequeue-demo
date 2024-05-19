@@ -11695,7 +11695,6 @@ anisopleural
 anaglyphical
 anaglyphics
 anaglyphs
-automotor
 anaglypta
 anaglyptical
 aldim
@@ -24943,6 +24942,7 @@ awakenment
 ameristic
 awakens
 awaking
+automotor
 apposable
 awane
 awanyu
