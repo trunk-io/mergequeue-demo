@@ -10846,7 +10846,6 @@ coped
 chinoiserie
 confusers
 ceorls
-chinol
 chinoleine
 chinoline
 chinologist
@@ -13368,6 +13367,7 @@ climbable
 cycloganoidei
 cyclogenesis
 comstock
+chinol
 cyclograph
 cyclographer
 cycloheptane
