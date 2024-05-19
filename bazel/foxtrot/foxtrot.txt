@@ -5651,7 +5651,6 @@ flashlike
 fermata
 flintwood
 fanfold
-ferreted
 flintworker
 folioliferous
 flyovers
@@ -9656,6 +9655,7 @@ flatworks
 freedoms
 forensic
 forgivers
+ferreted
 freedoot
 fizzed
 facticide
