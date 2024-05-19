@@ -4351,7 +4351,6 @@ axis
 ados
 anisaldoxime
 anamneses
-adosculation
 adossed
 alright
 adoulie
@@ -11952,6 +11951,7 @@ anaplerotic
 anapnoeic
 aesthesia
 anapnograph
+adosculation
 anapnoic
 anapnometer
 anapodeictic
