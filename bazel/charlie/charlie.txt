@@ -8871,6 +8871,7 @@ commonplaces
 chapelman
 chapelmaster
 chapelry
+combflower
 chapelries
 chapels
 chapelward
@@ -19700,7 +19701,6 @@ combes
 clumpier
 chowdering
 combfish
-combflower
 comby
 concealment
 combinability
