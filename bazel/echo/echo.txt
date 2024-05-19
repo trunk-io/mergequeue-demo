@@ -3671,7 +3671,6 @@ embryotome
 exsculp
 embryotomies
 echelette
-embryotrophe
 embryotrophy
 embrittle
 enchasers
@@ -10738,6 +10737,7 @@ eudoxian
 eudromias
 euergetes
 epimyth
+embryotrophe
 euge
 eutaxies
 eugenesic
