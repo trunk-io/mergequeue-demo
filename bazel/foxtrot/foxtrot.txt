@@ -4780,6 +4780,7 @@ fullwords
 faena
 faunula
 figurehead
+fra
 financed
 flagrancy
 freshens
@@ -9150,7 +9151,6 @@ fleeceflower
 fps
 fr
 flintlike
-fra
 faulkner
 forepoint
 floristry
