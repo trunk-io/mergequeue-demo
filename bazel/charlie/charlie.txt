@@ -8366,7 +8366,6 @@ chalcophanite
 chalcopyrite
 chalcosiderite
 chalcosine
-caulotaxy
 crocodilite
 cronyism
 canadianisms
@@ -15973,6 +15972,7 @@ cleidoscapular
 cleidosternal
 cleidotripsy
 cleistocarp
+caulotaxy
 cleistocarpous
 cleistogamic
 cleistogamously
