@@ -2512,7 +2512,6 @@ deck
 dateline
 deckedout
 deckel
-deckels
 deporte
 deblocking
 dirigent
@@ -5023,6 +5022,7 @@ demoralizes
 demorphism
 demospongiae
 demosthenean
+deckels
 demote
 demoted
 demotes
