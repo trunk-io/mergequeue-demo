@@ -1955,7 +1955,6 @@ geochemical
 goodyship
 germaniums
 groundable
-gaucy
 gaucie
 gynopara
 gumshoe
@@ -7603,6 +7602,7 @@ grafts
 goldbricks
 geospiza
 gradationally
+gaucy
 gallish
 grade
 graded
