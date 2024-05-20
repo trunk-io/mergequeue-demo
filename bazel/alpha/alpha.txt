@@ -6502,7 +6502,6 @@ aleucaemic
 agrogeological
 agrology
 agrologic
-agrological
 agrologies
 adsorbate
 agromyza
@@ -20884,6 +20883,7 @@ arzan
 apportions
 arzava
 ambidextrous
+agrological
 amplifiable
 arzawa
 anew
