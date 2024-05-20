@@ -4107,7 +4107,6 @@ fiorite
 fontanel
 fluidrams
 flywheel
-fono
 fersmite
 fipples
 functionate
@@ -10272,6 +10271,7 @@ fleishig
 foveolas
 farce
 furdel
+fono
 favoritism
 frizzly
 fluxion

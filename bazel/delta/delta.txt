@@ -781,6 +781,7 @@ dane
 daneball
 danebrog
 delusters
+dovecote
 daneflower
 danegeld
 danegelds
@@ -16151,7 +16152,6 @@ douzieme
 dualist
 douziemes
 dovecot
-dovecote
 dovecotes
 dramaticule
 doveflower
