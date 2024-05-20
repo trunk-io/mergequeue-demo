@@ -12399,7 +12399,6 @@ evader
 expects
 exfiguration
 extracathedral
-exfiltrate
 egolatrous
 elocutionize
 endorsers
@@ -12497,6 +12496,7 @@ exhumations
 exhumator
 exhumatory
 exhumers
+exfiltrate
 exhumes
 exhuming
 exibilate
