@@ -5206,7 +5206,6 @@ fratcher
 fusetron
 flavoriness
 flavoring
-flavors
 filippi
 flavorsome
 formulators
@@ -9108,6 +9107,7 @@ firmer
 forbruise
 foxfires
 frolicsomeness
+flavors
 foxglove
 formably
 forswears
