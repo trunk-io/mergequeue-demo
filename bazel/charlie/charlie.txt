@@ -25318,7 +25318,6 @@ cormophyta
 cormophytic
 cormorant
 cormous
-corms
 corn
 cornaceae
 cornada
@@ -27900,6 +27899,7 @@ crabweed
 coreid
 crabwise
 crabwood
+corms
 cracca
 craccus
 crachoir
