@@ -812,7 +812,6 @@ gulfs
 gibbers
 gummaker
 groupings
-gam
 galvanoscopy
 gladsomer
 gustiness
@@ -6427,6 +6426,7 @@ ginnet
 goetae
 gatter
 goethian
+gam
 goethite
 goety
 gummage
