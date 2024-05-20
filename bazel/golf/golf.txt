@@ -4271,7 +4271,6 @@ ges
 gymnostomata
 ganef
 grotesquery
-gripless
 gymnotus
 geniolatry
 guilloche
@@ -5667,6 +5666,7 @@ ginete
 globularness
 garavance
 giddyish
+gripless
 gtd
 gestio
 girsh
