@@ -6671,6 +6671,7 @@ ceiling
 ceilings
 ceilingward
 ceilingwards
+collenchyma
 couche
 ceilometer
 couac
@@ -15230,7 +15231,6 @@ cladine
 cladistic
 cladocarpous
 cladocera
-collenchyma
 cladoceran
 cladocerous
 cladodes
