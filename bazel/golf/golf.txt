@@ -2398,7 +2398,6 @@ glunching
 gelations
 gelatose
 geld
-ghostlikeness
 gavials
 geldability
 griffinish
@@ -8077,6 +8076,7 @@ geognosis
 granuloblastic
 granulocyte
 generalissimo
+ghostlikeness
 gordiaceous
 granulocytic
 granulocytopoiesis
