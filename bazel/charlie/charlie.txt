@@ -1543,7 +1543,6 @@ callorhynchidae
 callosal
 callose
 calloses
-callosity
 callosities
 choleuria
 callosum
@@ -5117,6 +5116,7 @@ casefied
 corneter
 concerting
 caseharden
+callosity
 casehardened
 casehardening
 candida
