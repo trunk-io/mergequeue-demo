@@ -11795,7 +11795,6 @@ alamanni
 anathemata
 affinity
 araneology
-analyticity
 amnestic
 antinational
 analytique
@@ -20480,6 +20479,7 @@ acceptableness
 artefac
 artefacts
 assentation
+analyticity
 artemia
 artemis
 aeroenterectasia
