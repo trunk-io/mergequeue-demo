@@ -1838,7 +1838,6 @@ bandaged
 bandager
 bandages
 bandaging
-brakes
 bandaid
 bandala
 bandana
@@ -7616,6 +7615,7 @@ bettong
 botulin
 bettonga
 bettor
+brakes
 betulin
 beneaped
 bakongo
