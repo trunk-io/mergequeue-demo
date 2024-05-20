@@ -4662,7 +4662,6 @@ borborus
 bedaubing
 bedaubs
 bedlike
-bedawee
 bedazed
 bedazement
 bigotedly
@@ -16495,6 +16494,7 @@ bsh
 bskt
 blubbered
 bt
+bedawee
 brans
 btry
 briefed
