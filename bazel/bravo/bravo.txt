@@ -3478,7 +3478,6 @@ basting
 bastings
 bastion
 blendure
-builtin
 bastionary
 bodingly
 bastionet
@@ -12144,6 +12143,7 @@ bola
 bolag
 bolas
 berbery
+builtin
 bolases
 bartsia
 bolboxalis
