@@ -5326,7 +5326,6 @@ affidavit
 aviso
 affied
 affies
-affying
 arvicolous
 arcanum
 affile
@@ -18606,6 +18605,7 @@ arbitry
 autoelectronic
 anagyrin
 arblast
+affying
 arboloco
 acaulose
 arbor
