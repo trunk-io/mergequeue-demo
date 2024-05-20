@@ -1076,7 +1076,6 @@ absurdities
 absurdly
 absurdness
 apparation
-absurdum
 absvolt
 abt
 abterminal
@@ -9427,6 +9426,7 @@ anthill
 alroot
 alruna
 alrune
+absurdum
 alsatian
 alshain
 alsifilm
