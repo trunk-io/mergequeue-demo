@@ -1901,7 +1901,6 @@ golandause
 glyptograph
 gastrulate
 gastrulation
-gastruran
 gatecrasher
 granat
 gaggling
@@ -2117,6 +2116,7 @@ gaults
 gluttonously
 gonocytes
 gaviae
+gastruran
 gnateater
 gulpier
 gearing
