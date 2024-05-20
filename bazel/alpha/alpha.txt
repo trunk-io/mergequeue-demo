@@ -3056,7 +3056,6 @@ aurification
 abdication
 adversive
 actinocarpic
-actinocarpous
 actinochemical
 actinochemistry
 actinocrinid
@@ -21312,6 +21311,7 @@ aldern
 asymtotically
 angeyok
 asynartete
+actinocarpous
 async
 asynchrony
 asynchronism
