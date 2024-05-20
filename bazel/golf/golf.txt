@@ -747,7 +747,6 @@ greeters
 geta
 geometrised
 galoshe
-galoshes
 galp
 gimmals
 galravage
@@ -8984,6 +8983,7 @@ granatum
 gorhens
 grounder
 givin
+galoshes
 geochronologist
 grillers
 gastrohepatic
