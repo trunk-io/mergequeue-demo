@@ -3409,6 +3409,7 @@ fiends
 frillier
 fashionist
 ferrated
+fibromatoid
 fierasferid
 fierasferidae
 feminality
@@ -7155,7 +7156,6 @@ footfarer
 falsework
 footfault
 flyways
-fibromatoid
 fesels
 footfolk
 fu
