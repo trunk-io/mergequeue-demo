@@ -8420,7 +8420,6 @@ formals
 formations
 folies
 footwall
-flingdust
 flooey
 foresettled
 formazan
@@ -9005,6 +9004,7 @@ flabellarium
 fourragere
 formants
 fermila
+flingdust
 fibrilliform
 fourrageres
 flixweed
