@@ -1888,7 +1888,6 @@ fecundator
 frig
 fuligula
 feedwater
-fecundatory
 fecundity
 falcinellus
 fecundize
@@ -6398,6 +6397,7 @@ foredooms
 frogspawn
 fluorhydric
 fluoric
+fecundatory
 fluoridate
 filtered
 formularization
