@@ -4491,6 +4491,7 @@ faciolingual
 feuder
 feedable
 festschriften
+feuille
 fisticuff
 freebees
 fort
@@ -6961,7 +6962,6 @@ flusherman
 follily
 follis
 feeblemindedness
-feuille
 foutra
 fatheads
 fendy
