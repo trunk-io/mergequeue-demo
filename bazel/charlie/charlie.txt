@@ -7627,7 +7627,6 @@ cerealist
 cerealose
 cyclanthaceae
 cereals
-cerebbella
 cerebella
 cerebellifugal
 childbed
@@ -28538,6 +28537,7 @@ credentials
 credently
 credenza
 credere
+cerebbella
 credible
 concealers
 credibly
