@@ -1953,6 +1953,7 @@ beraked
 bandstands
 bandster
 bandstop
+balances
 brewings
 bandstring
 bandurria
@@ -11151,7 +11152,6 @@ blocklike
 broil
 baobabs
 blockmaker
-balances
 blockpate
 bernie
 blocks
