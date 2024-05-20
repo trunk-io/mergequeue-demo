@@ -1310,7 +1310,6 @@ bury
 bedbug
 bacterioprecipitin
 buffers
-balanopsidales
 balanorrhagia
 balanta
 bottine
@@ -6005,6 +6004,7 @@ babylonish
 bellum
 bigroot
 bluer
+balanopsidales
 bellweather
 blueprinter
 bellweed
