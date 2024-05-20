@@ -6402,7 +6402,6 @@ enslaves
 espave
 epiphyseolysis
 expandibility
-ensnare
 ensnared
 explosive
 ensnarer
@@ -8415,6 +8414,7 @@ electrobiology
 engineery
 epitomator
 equivocating
+ensnare
 enhaloes
 epitome
 epitomic
