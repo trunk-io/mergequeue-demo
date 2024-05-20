@@ -5445,6 +5445,7 @@ begowned
 buyable
 benchboard
 begray
+brightest
 barodynamic
 boodie
 begrave
@@ -15330,7 +15331,6 @@ brighteyes
 brighten
 brainwork
 blennoid
-brightest
 brightish
 betty
 brights
