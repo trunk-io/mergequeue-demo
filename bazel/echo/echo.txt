@@ -4311,7 +4311,6 @@ eyelast
 esplanades
 elaeoptene
 enallachrome
-enallage
 enterable
 echinochloa
 entrenches
@@ -5056,6 +5055,7 @@ endocoele
 endocolpitis
 endoconidia
 endocrania
+enallage
 encrustment
 elegits
 endocranial
