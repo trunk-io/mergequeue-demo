@@ -799,6 +799,7 @@ galvanometers
 galvanometric
 geometries
 goumi
+gnathal
 genae
 galvanoplasty
 gavel
@@ -6148,7 +6149,6 @@ gravispheric
 gnashingly
 gushiest
 girr
-gnathal
 gnathite
 gruesomest
 gigantical
