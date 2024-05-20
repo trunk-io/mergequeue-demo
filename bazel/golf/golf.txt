@@ -1796,7 +1796,6 @@ gastrohysteropexy
 gastrointestinal
 grassquit
 gastrojejunostomy
-gastrojejunostomies
 gastrolater
 gravamina
 grunted
@@ -2201,6 +2200,7 @@ guttur
 gazpachos
 galleta
 gerontine
+gastrojejunostomies
 grainer
 graders
 gconv
