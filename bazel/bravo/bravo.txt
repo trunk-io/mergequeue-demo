@@ -6013,7 +6013,6 @@ bellweed
 bretons
 butterbur
 bellwether
-bellwind
 bellwood
 bluely
 bellwort
@@ -12581,6 +12580,7 @@ bonilass
 bestrewed
 bud
 boniness
+bellwind
 boning
 bakemeat
 bonita
