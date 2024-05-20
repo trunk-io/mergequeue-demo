@@ -5932,7 +5932,6 @@ geaster
 glucagon
 gladify
 guarea
-glucagons
 gate
 gynoecium
 grassless
@@ -10586,6 +10585,7 @@ ghoul
 gunpower
 gentled
 guest
+glucagons
 grossierete
 guns
 gunsel
