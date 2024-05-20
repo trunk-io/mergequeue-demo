@@ -3560,6 +3560,7 @@ formularise
 filamentule
 filander
 filao
+foundering
 froward
 filariae
 filarian
@@ -8933,7 +8934,6 @@ forceps
 founder
 foundered
 fetters
-foundering
 foundership
 foundling
 forget
