@@ -24094,6 +24094,7 @@ conversation
 conversationable
 competency
 coactor
+crimpy
 conversational
 conversationalists
 conversationally
@@ -29052,7 +29053,6 @@ crimpage
 crimped
 crimper
 creosoter
-crimpy
 crimpier
 crimpiness
 crimping
