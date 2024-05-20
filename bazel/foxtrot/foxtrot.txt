@@ -2170,7 +2170,6 @@ feoffeeship
 felloes
 fermentatory
 feudal
-fellow
 fishfall
 freemasons
 fellowheirship
@@ -2577,6 +2576,7 @@ frame
 foulmouth
 formaldehyde
 ferredoxin
+fellow
 ferreled
 fibrilla
 ferreling
