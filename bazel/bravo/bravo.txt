@@ -2087,7 +2087,6 @@ babylonia
 betraise
 bankrupture
 bankshall
-bondelswarts
 banksia
 basilissa
 banksian
@@ -16946,6 +16945,7 @@ backseats
 builds
 bezette
 begirded
+bondelswarts
 buildups
 bespeakable
 bonnyclabber
