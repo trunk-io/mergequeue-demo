@@ -5438,6 +5438,7 @@ broadaxe
 blastier
 begottenness
 bryogenin
+besoothement
 begowk
 begowned
 buyable
@@ -7192,7 +7193,6 @@ bogberries
 besoot
 bracteate
 beaterman
-besoothement
 burelle
 buccan
 besort
