@@ -777,7 +777,6 @@ funnellike
 fabricable
 freemasonry
 fanfolds
-fortepiano
 floggable
 fontina
 fang
@@ -1947,6 +1946,7 @@ fedora
 fedoras
 factional
 flanned
+fortepiano
 feds
 feeb
 frostproofing
