@@ -27373,6 +27373,7 @@ courtage
 courtal
 courtby
 courtbred
+chattelization
 courtcraft
 cetacean
 congee
@@ -27444,7 +27445,6 @@ cousinhood
 curupira
 cousinry
 cousinries
-chattelization
 cousinship
 coussinet
 centricalness
