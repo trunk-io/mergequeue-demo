@@ -6838,6 +6838,7 @@ aircraftman
 atenist
 axometer
 aircraftmen
+antidynasty
 ausu
 aircraftsman
 auresca
@@ -9367,7 +9368,6 @@ alphabetizing
 anguishful
 aptera
 alphabetology
-antidynasty
 alphameric
 alphamerically
 alphanumerics
