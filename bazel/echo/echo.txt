@@ -39,7 +39,6 @@ enumerated
 emigrational
 equiangularity
 earbash
-earbob
 esperance
 earcockle
 eardropper
@@ -7996,6 +7995,7 @@ epimerism
 enorganic
 exhaustibility
 empidonax
+earbob
 eigenvector
 euripos
 epimerized
