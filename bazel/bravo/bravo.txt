@@ -1430,7 +1430,6 @@ balestra
 batoneer
 baloo
 boscages
-balete
 bali
 balian
 bucare
@@ -17100,6 +17099,7 @@ byrlaw
 brae
 bulldogging
 bullions
+balete
 bulldoggishly
 bitterwood
 bullshitted
