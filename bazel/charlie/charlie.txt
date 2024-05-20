@@ -4133,7 +4133,6 @@ cymric
 cardiology
 chondroclast
 cardiologic
-cardiological
 cardiologist
 cardiologists
 cardiomegaly
@@ -5507,6 +5506,7 @@ catacromyodian
 ceratothecal
 catacrotic
 cursors
+cardiological
 catacumba
 catadicrotic
 crumbly
