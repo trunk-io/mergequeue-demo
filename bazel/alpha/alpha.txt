@@ -2146,7 +2146,6 @@ achenes
 alphabets
 argon
 applemonger
-achernar
 acheron
 acheronian
 agrionia
@@ -22739,6 +22738,7 @@ acetphenetid
 acotyledon
 atmas
 atmiatry
+achernar
 atmid
 atmidometry
 atmo
