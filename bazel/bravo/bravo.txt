@@ -5227,6 +5227,7 @@ befop
 before
 buoy
 biotic
+borings
 bandlet
 boomorah
 braiding
@@ -13104,7 +13105,6 @@ baselines
 bonspiels
 boringly
 boringness
-borings
 borism
 borith
 bority
