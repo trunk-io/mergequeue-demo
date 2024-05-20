@@ -6557,7 +6557,6 @@ benzonaphthol
 benzonitrile
 benzonitrol
 benzophenanthrazine
-benzophenazine
 benzophenone
 benzophenothiazine
 benzophloroglucinol
@@ -15669,6 +15668,7 @@ brockets
 bontok
 broccolis
 broch
+benzophenazine
 burliness
 brochant
 brochantite
