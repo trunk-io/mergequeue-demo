@@ -816,6 +816,7 @@ fanjet
 formulism
 fanlights
 fanmaking
+figureless
 femorotibial
 forsakers
 fanfares
@@ -3513,7 +3514,6 @@ ferrimagnetic
 futtah
 faipule
 forcepses
-figureless
 feuilletonist
 figurer
 flyweight
