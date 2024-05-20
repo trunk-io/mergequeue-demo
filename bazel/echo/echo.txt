@@ -1034,6 +1034,7 @@ electioneered
 excisable
 exenteritis
 endoskeleton
+enchants
 eqpt
 evaniidae
 edgar
@@ -4570,7 +4571,6 @@ enchantments
 englante
 expel
 enchantress
-enchants
 encharging
 enchased
 exchangeable
