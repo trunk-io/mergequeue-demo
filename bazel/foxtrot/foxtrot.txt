@@ -7129,7 +7129,6 @@ footblower
 footboard
 footboards
 friszka
-fullgrownness
 footboy
 foramina
 footboys
@@ -9291,6 +9290,7 @@ frillback
 fraying
 ficin
 frayings
+fullgrownness
 fusk
 frailero
 falsities
