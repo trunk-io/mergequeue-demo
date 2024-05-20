@@ -11542,7 +11542,6 @@ amentaceous
 anility
 anacamptics
 anacanthine
-apoplectiform
 anacanthini
 anacanthous
 anacard
@@ -20779,6 +20778,7 @@ artilleryship
 aciculums
 artillerist
 artillerists
+apoplectiform
 artiness
 artinesses
 arimasp

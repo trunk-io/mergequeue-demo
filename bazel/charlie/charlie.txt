@@ -25441,6 +25441,7 @@ cornless
 cornloft
 cornmaster
 cornmeal
+cothurnal
 cornmeals
 cornmuse
 corno
@@ -26422,7 +26423,6 @@ cerenkov
 cothon
 cothouse
 cothurn
-cothurnal
 chemigrapher
 cothurned
 cothurnian
