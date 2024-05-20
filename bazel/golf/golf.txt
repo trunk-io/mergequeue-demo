@@ -2219,7 +2219,6 @@ gubernacula
 gurish
 genocides
 gnathites
-gearcase
 gearcases
 guernseys
 glucose
@@ -9037,6 +9036,7 @@ grimness
 gease
 grimnesses
 geomorphogenist
+gearcase
 gladiatory
 gerontologic
 griping
