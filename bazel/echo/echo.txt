@@ -6534,7 +6534,6 @@ enteradenography
 enteradenological
 enteral
 enteralgia
-enterally
 embiotocoid
 enterate
 enterectomy
@@ -7246,6 +7245,7 @@ eoith
 eoiths
 entamebae
 executrix
+enterally
 eolation
 eole
 eolian
