@@ -5572,7 +5572,6 @@ brakeages
 behooving
 bacterioprotein
 bellmaster
-bilabe
 behoved
 bobance
 behoves
@@ -8743,6 +8742,7 @@ brantcorn
 brawlis
 billeted
 billeter
+bilabe
 billeters
 bletia
 bastinading
