@@ -902,6 +902,7 @@ flavor
 fungi
 fanums
 fanweed
+fortuitist
 fanwise
 flintlock
 falangism
@@ -8127,7 +8128,6 @@ forevalue
 fibulas
 federalize
 foreverness
-fortuitist
 fellowshiping
 firewall
 foreview
