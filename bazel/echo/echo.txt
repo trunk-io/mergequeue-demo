@@ -5940,7 +5940,6 @@ edgemaking
 emuscation
 ecardinal
 estampedero
-entry
 erosion
 extrapituitary
 extensimeter
@@ -13256,6 +13255,7 @@ explorement
 ectrogeny
 enzyme
 eyres
+entry
 enol
 ectepicondylar
 eucairite
