@@ -12779,6 +12779,7 @@ bookrests
 begut
 bookseller
 becloaked
+bullneck
 boce
 barmkin
 biyearly
@@ -17197,7 +17198,6 @@ bondieuserie
 bullit
 bummest
 bullition
-bullneck
 bestowed
 bullnecked
 buckshots
