@@ -2871,7 +2871,6 @@ decriminalizes
 decrypt
 dicyema
 decryption
-decrowned
 decrowning
 decrowns
 didapper
@@ -12521,6 +12520,7 @@ disinfection
 disinfections
 dochter
 disinfects
+decrowned
 disinfest
 disinfestant
 dar
