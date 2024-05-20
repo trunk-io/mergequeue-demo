@@ -7672,7 +7672,6 @@ archership
 alchemizing
 alcheringa
 alchimy
-alchymies
 alfilerilla
 amphicarpic
 alchochoden
@@ -10102,6 +10101,7 @@ amblyopsis
 amblyoscope
 amblypodous
 amblyrhynchus
+alchymies
 antasthmatic
 amblystegite
 amblystoma
