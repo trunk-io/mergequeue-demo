@@ -893,7 +893,6 @@ ectosphere
 ectostosis
 emulgens
 eriodictyon
-entocondyloid
 ensisternal
 epicenter
 ectotoxin
@@ -6106,6 +6105,7 @@ equitemporal
 ennoble
 engraft
 electrosynthetic
+entocondyloid
 ennoblement
 estuant
 everliving
