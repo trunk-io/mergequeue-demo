@@ -961,6 +961,7 @@ fumidity
 farced
 farcemeat
 farces
+forceable
 fabrile
 fippence
 frondation
@@ -1459,7 +1460,6 @@ fumigator
 fattier
 featherweight
 fatties
-forceable
 fattiness
 footstick
 funis
