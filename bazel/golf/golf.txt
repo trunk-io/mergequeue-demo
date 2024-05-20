@@ -2580,7 +2580,6 @@ gospodar
 glenwood
 genapping
 genarch
-galenian
 guildite
 gossaniferous
 geranomorphic
@@ -4318,6 +4317,7 @@ gregal
 gynandria
 gynandrian
 gynandries
+galenian
 gladiators
 gynandromorphy
 gyrometer
