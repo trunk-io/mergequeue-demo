@@ -12530,7 +12530,6 @@ chromolithographic
 chromomere
 chondrosarcoma
 chromone
-chromonema
 chervonetz
 chromonemal
 chromonemata
@@ -29905,6 +29904,7 @@ crossopodia
 crossopt
 crossopterygii
 crossosoma
+chromonema
 crossosomataceous
 contrahent
 crossover

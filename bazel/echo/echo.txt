@@ -6158,6 +6158,7 @@ eusynchite
 executable
 enoplan
 enorm
+exhortator
 etaballi
 enorn
 enos
@@ -10624,7 +10625,6 @@ epilachnides
 eucharist
 eucharistial
 eudaemony
-exhortator
 enhusk
 egoistry
 eucharistic
