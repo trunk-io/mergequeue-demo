@@ -1098,7 +1098,6 @@ counteraffirmation
 clamworm
 calcinosis
 calciobiotite
-calciocarnotite
 calcioferrite
 calcioscheelite
 calciovolborthite
@@ -7317,6 +7316,7 @@ centuplicating
 civility
 clawsick
 centuplication
+calciocarnotite
 catastrophe
 centupling
 centure
