@@ -4076,6 +4076,7 @@ gilding
 giantlike
 gubbings
 grounds
+gurlet
 gravamem
 gravels
 gilds
@@ -10651,7 +10652,6 @@ goliardeys
 gurl
 galloptious
 glycerols
-gurlet
 gurnard
 greegrees
 googol

@@ -4885,7 +4885,6 @@ electrotautomerism
 endanger
 endangitis
 endarch
-endarchy
 endarchies
 endarteteria
 endaspidean
@@ -12309,6 +12308,7 @@ eds
 exemplaric
 electromotion
 electromerism
+endarchy
 exemplariness
 els
 electromeric
