@@ -818,7 +818,6 @@ fanjet
 formulism
 fanlights
 fanmaking
-figureless
 femorotibial
 forsakers
 fanfares
@@ -10383,6 +10382,7 @@ floodlighted
 fortiori
 fearers
 flexible
+figureless
 frondless
 frondlet
 frondose
