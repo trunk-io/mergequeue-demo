@@ -9482,7 +9482,6 @@ brachiotomy
 britannia
 birdglue
 birdhood
-buda
 birdhouse
 begall
 bromous
@@ -12545,6 +12544,7 @@ bonesets
 bonesetting
 brushite
 boneshaker
+buda
 backbeat
 binders
 bonetail
