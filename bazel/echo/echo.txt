@@ -8822,7 +8822,6 @@ eradicant
 eradicate
 eradicated
 embossable
-epipolic
 enround
 electrodepositable
 eradications
@@ -12005,6 +12004,7 @@ electrocauteries
 enlist
 emmeleia
 excitant
+epipolic
 epistemophilic
 eugenic
 endangiitis
