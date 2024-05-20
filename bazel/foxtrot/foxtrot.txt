@@ -3746,6 +3746,7 @@ fills
 foregirth
 falconet
 faultlessly
+fortressed
 farsakh
 filmcard
 filmcards
@@ -8721,7 +8722,6 @@ faying
 firebases
 fidicula
 frizzled
-fortressed
 formant
 fortunateness
 fissileness
