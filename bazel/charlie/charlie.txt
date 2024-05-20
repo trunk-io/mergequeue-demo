@@ -1332,7 +1332,6 @@ calicular
 caliculate
 calyculate
 calyculated
-calycule
 coercing
 caliculi
 calyculus
@@ -6145,6 +6144,7 @@ circumjacencies
 cupolas
 catwalk
 chancier
+calycule
 catwise
 catwort
 catzerie
