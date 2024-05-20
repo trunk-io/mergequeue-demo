@@ -13743,7 +13743,6 @@ banqueted
 boutefeu
 banqueteer
 bouteria
-brigands
 bouteselle
 bet
 boutylka
@@ -16447,6 +16446,7 @@ brussel
 bugala
 breveted
 blechnoid
+brigands
 bestrode
 brustle
 brustling
