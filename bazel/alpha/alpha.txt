@@ -3109,7 +3109,6 @@ actinomycetal
 areche
 actinomycete
 arbtrn
-actinomycetous
 actinomycoma
 allogeneity
 actinomycosis
@@ -8787,6 +8786,7 @@ alligator
 alligatored
 alligatorfish
 alligatorfishes
+actinomycetous
 alligators
 accersition
 allyic
