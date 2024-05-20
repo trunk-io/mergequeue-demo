@@ -5791,7 +5791,6 @@ gruis
 goldless
 glossarize
 glossas
-glossata
 gasify
 gymnogene
 glossator
@@ -8785,6 +8784,7 @@ gaffle
 gm
 greybeard
 grouseless
+glossata
 greenfinch
 geoprumnon
 gablelike
