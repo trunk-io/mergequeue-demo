@@ -256,6 +256,7 @@ firm
 furfural
 faddist
 faddists
+founder
 fathomable
 fustee
 foxtrot
@@ -8928,7 +8929,6 @@ foundationlessness
 filibranch
 founded
 forceps
-founder
 foundered
 fetters
 foundership
