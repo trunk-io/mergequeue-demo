@@ -2317,7 +2317,6 @@ aciculae
 aciculate
 aciculum
 acid
-acidaemia
 appassionato
 adjectitious
 acidanthera
@@ -6567,6 +6566,7 @@ alphabetist
 aguishness
 ameliorant
 agujon
+acidaemia
 agunah
 aguroth
 apatite
