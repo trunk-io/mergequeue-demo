@@ -11013,7 +11013,6 @@ disallowed
 disconformably
 dramatised
 dieselized
-disallows
 disaltern
 disambiguate
 disambiguating
@@ -15117,6 +15116,7 @@ doilies
 degummed
 doylies
 doina
+disallows
 dullpate
 doing
 doings
