@@ -626,7 +626,6 @@ benomyls
 bacterid
 bacteriogenous
 bacteriohemolysin
-benzin
 brin
 bacteriolysin
 bletherskate
@@ -13462,6 +13461,7 @@ bottommost
 bottlemaker
 bottleman
 bottleneck
+benzin
 brayer
 billows
 bottlenest
