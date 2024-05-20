@@ -1646,6 +1646,7 @@ eider
 ectomorphism
 eiders
 eidograph
+evectional
 eidola
 eidolon
 electromotiv
@@ -11381,7 +11382,6 @@ electroballistic
 epidotes
 euskaldun
 evection
-evectional
 ethion
 emprosthotonus
 evehood
