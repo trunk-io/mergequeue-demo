@@ -8296,7 +8296,6 @@ diagnostics
 dispopularize
 disputableness
 demove
-derogations
 dele
 diagonal
 diagonalizable
@@ -12682,6 +12681,7 @@ december
 dyslexia
 druidism
 duane
+derogations
 dyslexics
 decarbonization
 disappoints
