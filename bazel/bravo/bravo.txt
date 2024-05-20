@@ -1431,6 +1431,7 @@ boun
 balestra
 batoneer
 baloo
+boscages
 balete
 bali
 balian
@@ -13183,7 +13184,6 @@ bumper
 borzoi
 borzois
 bosc
-boscages
 boschbok
 boschneger
 brachystomata
