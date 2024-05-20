@@ -1698,7 +1698,6 @@ accrescendo
 accretal
 accrete
 accretes
-accreting
 accretion
 accretions
 according
@@ -15986,6 +15985,7 @@ antiprestidigitation
 archils
 antisepsis
 antipriest
+accreting
 antipriestcraft
 androkinin
 antipriesthood
