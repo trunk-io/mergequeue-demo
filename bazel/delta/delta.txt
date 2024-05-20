@@ -2520,6 +2520,7 @@ deckhand
 duckwing
 deerstalker
 deckhead
+doorposts
 deckle
 deckman
 deckpipe
@@ -15624,7 +15625,6 @@ doornboom
 draconis
 doorpiece
 doorpost
-doorposts
 dowl
 dawdle
 doorsill
