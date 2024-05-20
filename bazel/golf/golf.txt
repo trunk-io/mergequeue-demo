@@ -2660,7 +2660,6 @@ gasthaus
 granodiorite
 goo
 gamodeme
-geotropic
 gorillas
 gene
 grassed
@@ -10048,6 +10047,7 @@ guelph
 gasterozooid
 gunnel
 guerdons
+geotropic
 guidecraft
 gadflies
 guereza
