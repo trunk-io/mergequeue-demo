@@ -5772,7 +5772,6 @@ deployment
 dispansive
 diocletian
 decastich
-deployments
 drepanid
 deftest
 deplorabilia
@@ -13894,6 +13893,7 @@ durwan
 distillery
 daemonian
 distilleries
+deployments
 dachs
 distillment
 distillmint
