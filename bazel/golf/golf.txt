@@ -515,7 +515,6 @@ galyacs
 gye
 guacho
 goonie
-galidia
 geographic
 gildhalls
 galik
@@ -7595,6 +7594,7 @@ gears
 guenons
 gorraf
 grackle
+galidia
 gabgab
 gradated
 grisping
