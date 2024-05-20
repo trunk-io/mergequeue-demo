@@ -2407,6 +2407,7 @@ flywire
 farthermost
 favel
 fere
+fanhouse
 fetiches
 feres
 feretory
@@ -4154,7 +4155,6 @@ frogmouth
 firebrick
 firebug
 firebugs
-fanhouse
 flagstones
 fireburn
 fibrocaseous
