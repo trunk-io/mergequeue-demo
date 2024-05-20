@@ -6304,6 +6304,7 @@ flukes
 flukeworm
 flukewort
 forbar
+forelands
 follicle
 fluky
 flukier
@@ -7753,7 +7754,6 @@ freedmen
 foreknowing
 foreknowingly
 forelaying
-forelands
 frere
 foreleg
 florilege
