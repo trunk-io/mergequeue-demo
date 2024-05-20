@@ -2958,7 +2958,6 @@ bigothero
 barricadoes
 brainsick
 bemazed
-bullhorn
 boarders
 barricados
 bulbilla
@@ -16406,6 +16405,7 @@ brevetting
 batful
 brumal
 bises
+bullhorn
 brushmaking
 brushmen
 butterers
