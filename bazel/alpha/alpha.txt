@@ -13910,7 +13910,6 @@ anatomicosurgical
 anosmia
 anosmias
 amyelonic
-anosmic
 anosphrasia
 alcoholisation
 anospinal
@@ -22752,6 +22751,7 @@ atmometry
 atmometric
 allheal
 atmosphere
+anosmic
 atmosphereful
 atmosphereless
 antiopium
