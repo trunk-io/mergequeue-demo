@@ -5490,7 +5490,6 @@ dolling
 denumerant
 denumerantive
 denumerative
-denunciable
 denunciant
 denunciate
 drumbledore
@@ -16645,6 +16644,7 @@ dismality
 dragoonable
 dirt
 dragoonade
+denunciable
 dragoonage
 dignified
 deconsecrating
