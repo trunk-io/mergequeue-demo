@@ -4959,7 +4959,6 @@ cartographic
 cartographical
 confessionist
 cartographically
-cartomancy
 cartomancies
 carton
 cartoner
@@ -15800,6 +15799,7 @@ clavicymbal
 clavicytheria
 clavicytherium
 clavicithern
+cartomancy
 chemics
 cytologies
 clavicythetheria
