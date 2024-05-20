@@ -257,7 +257,6 @@ gainful
 gym
 ghostlike
 gipsire
-gibs
 ghostwrote
 gainyield
 grafter
@@ -1752,6 +1751,7 @@ gutling
 gastrocoel
 gader
 goriest
+gibs
 gastrocolotomy
 gastrodermal
 gastrodermis
