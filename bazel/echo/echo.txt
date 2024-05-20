@@ -4168,7 +4168,6 @@ empoison
 exemplifier
 empoisoned
 encaustes
-evocators
 etherol
 empoisonment
 elaborator
@@ -12723,6 +12722,7 @@ everbearer
 exonym
 exonuclease
 exopathic
+evocators
 energizing
 exophasic
 exophoria
