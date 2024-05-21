@@ -19064,7 +19064,6 @@ attained
 archiplasmic
 archiplata
 archipresbyter
-archipterygial
 addlement
 apopyle
 autosymbiontic
@@ -25278,6 +25277,7 @@ azine
 azines
 aziola
 azlon
+archipterygial
 azo
 azobacter
 azobenzil
