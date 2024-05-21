@@ -5207,7 +5207,6 @@ busti
 beflowered
 biotas
 bogbean
-beflowering
 beflum
 befluster
 befog
@@ -9487,6 +9486,7 @@ birdeye
 birdfarm
 brachiotomy
 britannia
+beflowering
 birdglue
 birdhood
 birdhouse
