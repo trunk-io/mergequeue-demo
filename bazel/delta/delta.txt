@@ -5624,6 +5624,7 @@ demicolumn
 depascent
 delphinoid
 digested
+diphthongic
 disrepute
 depasturable
 depasturation
@@ -10468,7 +10469,6 @@ devall
 dimyarian
 diphthongation
 dendrodra
-diphthongic
 diphthonging
 diphthongisation
 demolishes
