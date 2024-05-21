@@ -3606,7 +3606,6 @@ fourniture
 filers
 fructification
 felinity
-fighter
 fungivorous
 files
 filesmith
@@ -7422,6 +7421,7 @@ forbore
 forborne
 forbow
 forestland
+fighter
 forcarve
 fasciculus
 filemark
