@@ -5242,6 +5242,7 @@ casse
 caveats
 cassegrain
 chromomeric
+counterrotating
 cassegrainian
 casseroled
 casseroling
@@ -27111,7 +27112,6 @@ codiaceous
 counterrevolutionist
 counterriposte
 counterroll
-counterrotating
 counterround
 counterruin
 counters
