@@ -1760,7 +1760,6 @@ featherbird
 forfare
 foreshore
 floorman
-fraught
 feathercut
 falconiformes
 fibropsammoma
@@ -8148,6 +8147,7 @@ fruitages
 fantastry
 feverberries
 faddle
+fraught
 flourishable
 forewarns
 federalise
