@@ -12602,6 +12602,7 @@ conoid
 chromotypography
 chromotypographic
 chromotrope
+cockpits
 chromotropy
 chromotropic
 cradleboard
@@ -17706,7 +17707,6 @@ cockalan
 counternoise
 cockpaddle
 cockpit
-cockpits
 couched
 cockroach
 comaking
