@@ -668,7 +668,6 @@ bacteriostat
 bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
-balanophorin
 bales
 bechances
 beletter
@@ -6139,6 +6138,7 @@ biphenyls
 buccaneering
 bemeans
 bemedaled
+balanophorin
 bementite
 blanda
 bemercy
