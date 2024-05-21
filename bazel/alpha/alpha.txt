@@ -5403,7 +5403,6 @@ android
 affixion
 armageddon
 affixment
-affixture
 afflate
 anophthalmia
 afflated
@@ -14389,6 +14388,7 @@ alc
 anthoceros
 anthocerote
 aquariiums
+affixture
 anthochlorine
 authorially
 anthocyan
