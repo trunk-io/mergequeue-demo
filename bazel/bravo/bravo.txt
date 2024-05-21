@@ -2408,6 +2408,7 @@ barbwires
 bullpout
 betatter
 becut
+berryman
 bilertinned
 barcarolle
 barcella
@@ -9307,7 +9308,6 @@ bathysmal
 bowl
 botanists
 becalmment
-berryman
 behaves
 biotelemetries
 biotical
