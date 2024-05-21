@@ -1163,7 +1163,6 @@ edoni
 edplot
 errorful
 edriasteroidea
-edrioasteroid
 edrioasteroidea
 elixed
 edriophthalmatous
@@ -7334,6 +7333,7 @@ economy
 epanorthidae
 ephorates
 epanorthoses
+edrioasteroid
 endocarpic
 epanorthotic
 extremer
