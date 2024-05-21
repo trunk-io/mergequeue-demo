@@ -6813,6 +6813,7 @@ celled
 centennium
 cellepora
 cellepore
+chaucer
 cellfalcicula
 celliferous
 celliform
@@ -28488,7 +28489,6 @@ creation
 crickets
 creational
 creationary
-chaucer
 creationist
 creations
 creative
