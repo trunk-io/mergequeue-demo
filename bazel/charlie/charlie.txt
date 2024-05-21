@@ -4948,7 +4948,6 @@ clicket
 cartmaking
 cartobibliography
 cartogram
-chloridizing
 criniger
 cartographers
 comminate
@@ -9891,6 +9890,7 @@ chemisette
 chemism
 choosy
 chemisorb
+chloridizing
 chemisorption
 cantator
 cardiotherapy
