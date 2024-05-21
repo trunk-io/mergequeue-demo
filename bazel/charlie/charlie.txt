@@ -350,7 +350,6 @@ crossbench
 cacogenesis
 cacogenic
 clockroom
-cacogenics
 capsulate
 cacogeusia
 cacoglossia
@@ -18761,6 +18760,7 @@ cleistogamy
 coleader
 colecannon
 colectomies
+cacogenics
 clytemnestra
 colegatee
 colegislator
