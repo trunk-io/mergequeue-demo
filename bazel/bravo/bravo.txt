@@ -3462,7 +3462,6 @@ brotherton
 bastardizations
 bastardized
 bastardizes
-bastardly
 bastardliness
 bagani
 blype
@@ -9155,6 +9154,7 @@ bioherms
 bronzen
 bioinstrument
 biokinetics
+bastardly
 biol
 biolinguistics
 biolyses
