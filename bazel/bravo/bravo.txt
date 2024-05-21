@@ -1635,7 +1635,6 @@ brattier
 balloonfishes
 balloonflower
 blams
-barkpeel
 briticism
 ballflower
 balloonish
@@ -12483,6 +12482,7 @@ bondar
 bonder
 browallia
 bockerel
+barkpeel
 bonderize
 belabored
 bloodline
