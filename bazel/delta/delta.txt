@@ -5466,6 +5466,7 @@ deltidial
 diplomatics
 dehusk
 dibstones
+disc
 deterrers
 denudations
 denuder
@@ -11239,7 +11240,6 @@ defervesce
 depolymerized
 dibromid
 dipneust
-disc
 discabinet
 discalceate
 discamp
