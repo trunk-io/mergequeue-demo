@@ -62,7 +62,6 @@ faced
 faceharden
 flagships
 flecken
-facelessness
 flavorlessness
 fabliaux
 filibustering
@@ -6476,6 +6475,7 @@ fumage
 franklin
 flurn
 flurried
+facelessness
 futhorks
 flurriedly
 fossiliferous
