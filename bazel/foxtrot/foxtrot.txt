@@ -5071,7 +5071,6 @@ fluoborite
 fructure
 flashtubes
 forevouched
-forslack
 feltlike
 ferricyanhydric
 flasker
@@ -10303,6 +10302,7 @@ folksier
 frogginess
 froggish
 foundries
+forslack
 froghood
 furoate
 finn
