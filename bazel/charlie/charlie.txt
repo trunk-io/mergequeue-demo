@@ -20902,7 +20902,6 @@ comedos
 comprehending
 comprehense
 comprehensibility
-comprehensibleness
 comprehensibly
 comprehensive
 comprehensively
@@ -29805,6 +29804,7 @@ concomitantly
 croquignole
 croquis
 crore
+comprehensibleness
 causelessly
 crores
 consulary
