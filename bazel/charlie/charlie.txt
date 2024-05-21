@@ -4964,7 +4964,6 @@ cartoon
 cartoonist
 cartoonists
 cartoons
-cartop
 cartopper
 corrupt
 chrysomonadina
@@ -6025,6 +6024,7 @@ crowns
 catlin
 catline
 catling
+cartop
 catlings
 catlinite
 catlins

@@ -4762,7 +4762,6 @@ groszy
 gasconade
 galliards
 gamori
-gironde
 glossology
 girondin
 glyoxime
@@ -8078,6 +8077,7 @@ granuloblastic
 granulocyte
 generalissimo
 ghostlikeness
+gironde
 gordiaceous
 granulocytic
 granulocytopoiesis
