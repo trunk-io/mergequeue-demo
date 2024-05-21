@@ -1674,7 +1674,6 @@ four
 fdnames
 fdtype
 fdub
-fdubs
 flamboyantly
 fortuitousness
 fussy
@@ -6077,6 +6076,7 @@ forsook
 fleyland
 florulent
 furthers
+fdubs
 fanaticized
 ferruler
 flosculous
