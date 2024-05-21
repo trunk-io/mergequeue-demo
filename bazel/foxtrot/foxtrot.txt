@@ -5913,6 +5913,7 @@ ferrotungsten
 fearfully
 floodable
 fineable
+freeze
 floodage
 fabiform
 flooder
@@ -9746,7 +9747,6 @@ fairgrass
 figurines
 fluoborid
 fourths
-freeze
 futharks
 floyt
 freezes
