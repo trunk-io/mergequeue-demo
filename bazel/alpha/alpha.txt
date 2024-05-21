@@ -13518,7 +13518,6 @@ annection
 annelid
 annelida
 annelidan
-agrammatical
 annelidian
 annelidous
 annelids
@@ -17117,6 +17116,7 @@ apnea
 apneic
 apneumona
 apneumonous
+agrammatical
 apneusis
 anthropophagously
 apodemata
