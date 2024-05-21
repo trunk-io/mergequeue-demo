@@ -22049,7 +22049,6 @@ confix
 confixing
 carf
 conflagrated
-conflagrating
 conflagration
 conflagrations
 climatologists
@@ -27271,6 +27270,7 @@ counties
 counting
 clothespress
 countinghouse
+conflagrating
 countys
 countywide
 cerebellopontine
