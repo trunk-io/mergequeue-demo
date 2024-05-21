@@ -2730,6 +2730,7 @@ ferular
 foreimpression
 ferule
 forfended
+fireshaft
 filleting
 feruled
 ferulic
@@ -11497,7 +11498,6 @@ firmity
 fiercened
 frijolito
 furtively
-fireshaft
 furud
 foreboding
 flagon
