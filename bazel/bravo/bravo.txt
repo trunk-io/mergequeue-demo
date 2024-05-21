@@ -8757,7 +8757,6 @@ billetwood
 boukit
 branded
 brachiofacial
-billfish
 billfishes
 bearskin
 billfolds
@@ -15031,6 +15030,7 @@ bearance
 brerd
 brere
 brescian
+billfish
 bressomer
 bressummer
 brest
