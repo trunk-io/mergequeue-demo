@@ -1784,7 +1784,6 @@ fetichmonger
 forsterite
 farsalah
 foundery
-featherleaf
 fetid
 featherless
 furies
@@ -4493,6 +4492,7 @@ fluocerite
 fruitcake
 fettucine
 faciolingual
+featherleaf
 feuder
 feedable
 festschriften
