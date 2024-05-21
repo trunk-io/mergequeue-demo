@@ -1428,7 +1428,6 @@ baleens
 balefire
 balefires
 balefully
-beautify
 baleys
 baleise
 bougainvillaea
@@ -15962,6 +15961,7 @@ bronchographic
 bronchohemorrhagia
 broncholemmitis
 bronchomycosis
+beautify
 besought
 bronchophony
 bronchoplasty
