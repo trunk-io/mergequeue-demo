@@ -8334,7 +8334,6 @@ alighting
 align
 aligned
 aligning
-alignments
 aligns
 aligreek
 aliyah
@@ -17277,6 +17276,7 @@ argyric
 abstracting
 antiserum
 anchoring
+alignments
 armrest
 anticonservatively
 apokrea
