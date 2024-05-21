@@ -10439,7 +10439,6 @@ blanc
 beneath
 blanca
 baltimorite
-blancard
 bergomask
 blanch
 blarneying
@@ -13038,6 +13037,7 @@ bordels
 bagfuls
 backpacker
 border
+blancard
 blackberry
 bakeboard
 bordering
