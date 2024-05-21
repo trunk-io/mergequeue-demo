@@ -2555,7 +2555,6 @@ fatales
 ferociously
 ferrier
 fieldball
-fibromembranous
 fawnskin
 forehorse
 ferox
@@ -10364,6 +10363,7 @@ fromages
 feeable
 fromenty
 fromenties
+fibromembranous
 families
 fitten
 freightless
