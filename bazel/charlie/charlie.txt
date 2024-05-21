@@ -12435,7 +12435,6 @@ chromatolysis
 conquerable
 chromatolytic
 chromatologies
-chromatone
 chromatopathy
 chromatopathia
 celebe
@@ -22919,6 +22918,7 @@ consideratively
 considerativeness
 considerator
 copatain
+chromatone
 chordata
 cardamums
 considering
