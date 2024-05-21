@@ -3776,7 +3776,6 @@ battens
 batter
 batterdock
 battered
-binational
 batterer
 beltis
 borate
@@ -14183,6 +14182,7 @@ bradyglossia
 bepowder
 bakshis
 benzidins
+binational
 bradykinin
 biomechanics
 bradypepsy
