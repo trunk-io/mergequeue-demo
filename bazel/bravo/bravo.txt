@@ -2055,6 +2055,7 @@ bank
 barat
 bankalachi
 bobsleds
+bidactyl
 bankbooks
 bankcard
 becrawl
@@ -2679,7 +2680,6 @@ barleduc
 barleducs
 barley
 barleybrake
-bidactyl
 barleybreak
 barleycorn
 barleyhood
