@@ -8239,7 +8239,6 @@ alhet
 alia
 alya
 aliamenta
-ad
 alias
 aliased
 aliasing
@@ -17005,6 +17004,7 @@ adequation
 apiculate
 amyelencephalic
 apiculated
+ad
 apiculi
 apicultural
 araucan
