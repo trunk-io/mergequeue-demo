@@ -10494,6 +10494,7 @@ brigue
 blanky
 backflash
 blanking
+beedged
 blankish
 boregat
 blankly
@@ -11834,7 +11835,6 @@ bengali
 belook
 bodements
 boden
-beedged
 buskins
 broiden
 baking
