@@ -2305,7 +2305,6 @@ barbarousness
 barbas
 bona
 bactris
-bookbindery
 barbasco
 bindoree
 barbascoes
@@ -17792,6 +17791,7 @@ burnisher
 bryonin
 burnishers
 burnishing
+bookbindery
 baneberries
 bejumbled
 burnoosed
