@@ -2269,6 +2269,7 @@ achromaticity
 achromatisation
 acrestaff
 achromatising
+apimania
 achromatizable
 achromatization
 achromatize
@@ -17019,7 +17020,6 @@ apikores
 apikorsim
 apili
 apprehender
-apimania
 apimanias
 apina
 aciculated
