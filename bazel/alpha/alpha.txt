@@ -3921,7 +3921,6 @@ adipoceriform
 adipocerite
 adipocyte
 adipofibroma
-adipogenic
 adipoid
 angiology
 antitropous
@@ -12498,6 +12497,7 @@ anemic
 anemically
 account
 acuteness
+adipogenic
 autoexcitation
 anemobiagraph
 anemochord
