@@ -5552,6 +5552,7 @@ flier
 flyer
 footglove
 faeces
+figureless
 foretelling
 fossilization
 firstling
@@ -10384,7 +10385,6 @@ floodlighted
 fortiori
 fearers
 flexible
-figureless
 frondless
 frondlet
 frondose
