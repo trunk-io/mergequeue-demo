@@ -4453,7 +4453,6 @@ becard
 becarpeted
 becarpeting
 balancer
-becarve
 becasse
 becassine
 bilocellate
@@ -11654,6 +11653,7 @@ boarskin
 boarspear
 belzebuth
 bacauan
+becarve
 boarts
 boarwood
 boas
