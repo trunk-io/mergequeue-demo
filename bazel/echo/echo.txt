@@ -6465,7 +6465,6 @@ encephalola
 enswathes
 enumerations
 enswathing
-ensweep
 ensweeten
 ephelis
 ephyra
@@ -10083,6 +10082,7 @@ estrogen
 epaulet
 estrogenic
 estrogenicity
+ensweep
 estrogens
 escort
 eagre
