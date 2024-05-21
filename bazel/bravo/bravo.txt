@@ -4364,7 +4364,6 @@ bridges
 burlers
 beaver
 burgonet
-burrer
 beaverism
 bistoury
 brith
@@ -5395,6 +5394,7 @@ bakalai
 beglerbegluc
 biannulate
 beglerbegship
+burrer
 beglide
 bewilderedness
 beglitter
