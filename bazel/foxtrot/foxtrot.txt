@@ -3953,7 +3953,6 @@ forepromised
 frenziedly
 furriered
 frightfulness
-finfoot
 fasces
 finfoots
 footsteps
@@ -8895,6 +8894,7 @@ flunkies
 foreshadower
 figgery
 fougasse
+finfoot
 foujdarry
 foul
 foulbrood
