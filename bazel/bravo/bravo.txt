@@ -9540,7 +9540,6 @@ byre
 bengaline
 birectangular
 birefraction
-birefringent
 byreman
 batteler
 bireme
@@ -14282,6 +14281,7 @@ bragi
 bragite
 blimps
 bird
+birefringent
 bragless
 banners
 bellowed
