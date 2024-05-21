@@ -8550,7 +8550,6 @@ alkekengi
 alkene
 alkenyl
 alkes
-alky
 awreck
 alkyd
 alkyds
@@ -16032,6 +16031,7 @@ anticonscience
 axeman
 antiquarianize
 anachronism
+alky
 antiquarianly
 akemboll
 ablepharous

@@ -11847,7 +11847,6 @@ chondroplastic
 chondroprotein
 cult
 chondropterygian
-chondropterygii
 chondropterygious
 chondrosarcomas
 chondrosarcomatous
@@ -21545,6 +21544,7 @@ concubinal
 cupromanganese
 concubinary
 concubinarian
+chondropterygii
 concubinate
 concubine
 conventionality
