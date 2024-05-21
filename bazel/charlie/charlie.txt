@@ -4808,7 +4808,6 @@ carreta
 carretela
 carretera
 carreton
-carretta
 cofferlike
 carri
 cetaceous
@@ -7045,6 +7044,7 @@ chock
 centaur
 centaurdom
 centaurea
+carretta
 clitellum
 centauress
 centaury
