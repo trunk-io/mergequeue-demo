@@ -3136,7 +3136,6 @@ cranches
 clothify
 capes
 capeskin
-capeskins
 cede
 capetown
 cacochymic
@@ -20957,6 +20956,7 @@ compromissary
 compromission
 compromissorial
 compromit
+capeskins
 compromitment
 compromitted
 cany
