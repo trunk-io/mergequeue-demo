@@ -2383,6 +2383,7 @@ fenzelia
 feod
 firestopping
 feodum
+filander
 farewelled
 feoff
 fumarolic
@@ -3572,7 +3573,6 @@ fuzztail
 filaments
 formularise
 filamentule
-filander
 filao
 foundering
 froward
