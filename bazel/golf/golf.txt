@@ -1037,7 +1037,6 @@ ganders
 gesneraceae
 gandertmeeth
 gandharva
-geothermal
 gobioidea
 gurian
 gybe
@@ -2625,6 +2624,7 @@ gringolee
 generalise
 generaliser
 glorifying
+geothermal
 gov
 glusid
 galliambic

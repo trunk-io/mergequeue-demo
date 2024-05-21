@@ -14838,7 +14838,6 @@ citer
 citers
 cites
 citess
-cithara
 citharas
 calibration
 citharexylum
@@ -26094,6 +26093,7 @@ cosigned
 cretin
 cosigner
 cosigners
+cithara
 cosigning
 circuli
 cosily
