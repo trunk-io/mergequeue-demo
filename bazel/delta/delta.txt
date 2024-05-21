@@ -4331,7 +4331,6 @@ deltohedron
 dittied
 dauerlauf
 deltoideus
-deltoids
 delubra
 delubrubra
 deluce
@@ -5772,6 +5771,7 @@ decarboxylating
 deploy
 deploying
 deployment
+deltoids
 dispansive
 diocletian
 decastich
