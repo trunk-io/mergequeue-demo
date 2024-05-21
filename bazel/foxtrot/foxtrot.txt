@@ -4455,7 +4455,6 @@ furzes
 fissions
 fregit
 fissipalmation
-fissiparism
 forheed
 farming
 forcer
@@ -5478,6 +5477,7 @@ family
 flexibilty
 flexile
 flexility
+fissiparism
 flexion
 flexions
 frontalis
