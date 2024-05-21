@@ -832,7 +832,6 @@ gangliac
 grooper
 gris
 ghrush
-goldin
 gottlieb
 galways
 gamari
@@ -5318,6 +5317,7 @@ germinative
 gourding
 glegnesses
 genethlialogy
+goldin
 girdering
 gastritic
 gleys
