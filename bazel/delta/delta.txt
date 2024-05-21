@@ -6399,7 +6399,6 @@ dermoidectomy
 desexed
 denigrating
 dermol
-determines
 dermoneural
 drassid
 dermoneurosis
@@ -9829,6 +9828,7 @@ decast
 darnings
 dissertation
 duocosane
+determines
 diluvialist
 dainteth
 doatish
