@@ -129,6 +129,7 @@ endosarcs
 exterminable
 erosionist
 eff
+empty
 endocortex
 enderonic
 endothermically
@@ -12791,7 +12792,6 @@ eviler
 exosmose
 exosmoses
 exosmosis
-empty
 exosmotic
 esquamate
 ecchymoses
