@@ -2375,7 +2375,6 @@ firestopping
 feodum
 farewelled
 feoff
-feoffee
 fumarolic
 foreimagine
 fconvert
@@ -5094,6 +5093,7 @@ flatlands
 flatlets
 floorwalker
 flavoprotein
+feoffee
 fatigued
 flatly
 flatlings
