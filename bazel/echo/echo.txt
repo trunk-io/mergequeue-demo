@@ -6554,6 +6554,7 @@ enwind
 enteric
 elaterid
 exolemma
+ensearch
 emove
 eligenda
 emphases
@@ -10114,7 +10115,6 @@ etang
 etape
 escopette
 etapes
-ensearch
 explainability
 etc
 editchar
