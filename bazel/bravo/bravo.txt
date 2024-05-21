@@ -6563,7 +6563,6 @@ benzophthalazine
 benzopyran
 briton
 breakup
-benzopyranyl
 butanes
 benzopyrazolone
 benzopyrene
@@ -11420,6 +11419,7 @@ buff
 bluebell
 bluebelled
 bluebells
+benzopyranyl
 bepistoled
 bluebill
 bucksaws
