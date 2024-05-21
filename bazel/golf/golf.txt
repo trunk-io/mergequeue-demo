@@ -118,7 +118,6 @@ generals
 gaditan
 glut
 goniometrical
-grue
 gadman
 gujerat
 gadoids
@@ -2642,6 +2641,7 @@ generalistic
 gromatic
 galumptious
 generaliter
+grue
 gobangs
 generalities
 generalizations
