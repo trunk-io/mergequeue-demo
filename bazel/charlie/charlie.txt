@@ -2441,6 +2441,7 @@ candids
 countermands
 coasters
 candies
+cylloses
 candify
 candyh
 cueing
@@ -5232,7 +5233,6 @@ consecute
 cassandra
 crawthumper
 cassandras
-cylloses
 cassapanca
 cassare
 cassareep
