@@ -130,6 +130,7 @@ gadolinia
 garrons
 gilsonite
 gifted
+grosz
 goatfish
 genupectoral
 gadroon
@@ -9365,7 +9366,6 @@ grayhair
 gommier
 gradates
 grossularite
-grosz
 grainsick
 gabriel
 gloea
