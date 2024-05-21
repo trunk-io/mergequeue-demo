@@ -3923,7 +3923,6 @@ deject
 dissolveability
 decamps
 dejectedly
-dejectedness
 dejection
 dejectly
 devested
@@ -7232,6 +7231,7 @@ detaining
 decolourise
 durwaun
 detainingly
+dejectedness
 detainment
 datsw
 detar
