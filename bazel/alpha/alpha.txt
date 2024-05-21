@@ -4191,6 +4191,7 @@ admitted
 agitpunkt
 ampliation
 admitter
+allocates
 admitters
 admitting
 admixed
@@ -8841,7 +8842,6 @@ allobrogical
 allocatable
 allocate
 allocatee
-allocates
 amoyese
 autoimmunization
 allocating
