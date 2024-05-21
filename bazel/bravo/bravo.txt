@@ -2408,7 +2408,6 @@ bibliogenesis
 barbwires
 bullpout
 betatter
-barcaroles
 becut
 bilertinned
 barcarolle
@@ -9458,6 +9457,7 @@ bathroom
 birchwood
 bindweb
 brindle
+barcaroles
 birdbander
 bespeed
 buibui
