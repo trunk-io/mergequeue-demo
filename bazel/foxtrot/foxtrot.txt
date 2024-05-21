@@ -4473,7 +4473,6 @@ freighting
 fissirostrate
 fissle
 furcule
-frostier
 fissura
 finesse
 frawn
@@ -11318,6 +11317,7 @@ fleabug
 furbish
 furbishes
 flaxwife
+frostier
 fulciform
 fogy
 furbishment
