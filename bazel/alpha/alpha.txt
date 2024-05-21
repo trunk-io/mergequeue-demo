@@ -5796,6 +5796,7 @@ agalena
 agalenidae
 apellous
 agalite
+amplifier
 agalloch
 ambalam
 agallochs
@@ -11361,7 +11362,6 @@ amplificative
 amplificator
 amplificatory
 amplified
-amplifier
 amplifies
 amplifying
 amplitude
