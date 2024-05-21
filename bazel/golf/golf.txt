@@ -1955,6 +1955,7 @@ geochemical
 goodyship
 germaniums
 groundable
+girdler
 gaucie
 gynopara
 gumshoe
@@ -4637,7 +4638,6 @@ gorilloid
 gentianin
 girdlelike
 gloeocapsa
-girdler
 glottochronology
 germicide
 greegree
