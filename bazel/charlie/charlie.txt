@@ -5117,7 +5117,6 @@ caseharden
 callosity
 casehardening
 candida
-casehardens
 casey
 caseic
 cholecyanin
@@ -9593,6 +9592,7 @@ commonize
 crossbowmen
 checkrack
 checkrail
+casehardens
 checkrein
 checkroll
 checkroom
