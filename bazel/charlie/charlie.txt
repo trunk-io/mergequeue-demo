@@ -2481,7 +2481,6 @@ candlenut
 candlepins
 candlepower
 chemist
-camelion
 chatterbox
 candler
 candlerent
@@ -18766,6 +18765,7 @@ coldturkey
 cleistogamy
 coleader
 colecannon
+camelion
 colectomies
 cacogenics
 clytemnestra
