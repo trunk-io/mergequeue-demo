@@ -3671,7 +3671,6 @@ ensignhood
 extracellular
 encoronate
 embryopathology
-embryophagous
 embryophyte
 embryophore
 effray
@@ -11077,6 +11076,7 @@ endomorph
 euripi
 euripides
 elizabethan
+embryophagous
 eurypyga
 encreel
 effected
