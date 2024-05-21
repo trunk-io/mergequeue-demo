@@ -7422,6 +7422,7 @@ commisce
 cephalomant
 cephalomeningitis
 cultivatable
+cortex
 cleansing
 cephalomere
 cyclostylar
@@ -30824,7 +30825,6 @@ chionididae
 carcan
 courbash
 culpeo
-cortex
 compar
 culpose
 crickety
