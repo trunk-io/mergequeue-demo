@@ -2864,7 +2864,6 @@ deprivers
 drowse
 deliberation
 decretorian
-decrew
 dithymol
 duplicative
 decried
@@ -17571,6 +17570,7 @@ drugstores
 druidess
 druidical
 denumeral
+decrew
 druidisms
 druids
 druith
