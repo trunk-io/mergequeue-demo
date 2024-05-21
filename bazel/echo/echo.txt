@@ -1457,7 +1457,6 @@ effulgences
 effulgent
 endosmotic
 effume
-emulsionize
 effund
 empathic
 effused
@@ -5232,6 +5231,7 @@ elapsoidea
 elkhorn
 esterellite
 enchest
+emulsionize
 ecmnesia
 endorsable
 entopterygoid
