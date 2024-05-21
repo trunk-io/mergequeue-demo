@@ -3728,7 +3728,6 @@ adenopharyngeal
 adenopharyngitis
 adenophlegmon
 adenophora
-amblyaphia
 archaize
 amsonia
 adenophore
@@ -23048,6 +23047,7 @@ abnormalities
 attempers
 attempre
 attempt
+amblyaphia
 attemptable
 attempted
 attempter
