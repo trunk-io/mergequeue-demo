@@ -14962,6 +14962,7 @@ brawns
 barraters
 breedable
 bemusk
+bendlet
 breeder
 breeders
 breedy
@@ -15859,7 +15860,6 @@ brominize
 bromios
 breezing
 bromising
-bendlet
 brionies
 broomball
 bromize
