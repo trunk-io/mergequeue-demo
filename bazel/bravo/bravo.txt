@@ -1748,6 +1748,7 @@ bigotries
 balsamina
 bowmaker
 balsaminaceae
+bandstands
 beneplacit
 balsaminaceous
 balsamine
@@ -1963,7 +1964,6 @@ bandstand
 beacon
 boronia
 beraked
-bandstands
 bandster
 bandstop
 balances
