@@ -2055,6 +2055,7 @@ feinter
 feudary
 facedown
 faucalize
+flub
 frenches
 feinting
 feis
@@ -7593,7 +7594,6 @@ flowerfence
 foundationary
 foredeclare
 frequency
-flub
 foredefeated
 frankheartedness
 flightworthy
