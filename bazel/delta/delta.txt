@@ -6163,7 +6163,6 @@ derbukka
 deploringly
 doddery
 derecho
-dereference
 dereferenced
 dereferencing
 deregulate
@@ -10875,6 +10874,7 @@ duddy
 disculpate
 diruption
 disa
+dereference
 deployed
 dis
 dashboards
