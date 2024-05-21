@@ -2824,7 +2824,6 @@ decreer
 decreet
 desmogen
 dop
-deflocculator
 dorsalward
 demihearse
 disharmonize
@@ -14931,6 +14930,7 @@ dhikr
 disconsonancy
 drearisomely
 dogal
+deflocculator
 dogana
 deia
 desperation
