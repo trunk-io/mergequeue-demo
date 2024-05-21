@@ -13913,7 +13913,6 @@ distinctiveness
 distinctness
 distingue
 distinguee
-distinguishability
 distinguishableness
 distinguishedly
 distinguishes
@@ -15222,6 +15221,7 @@ dec
 dollar
 dureful
 dollardom
+distinguishability
 dollarfishes
 dollarleaf
 dollars
