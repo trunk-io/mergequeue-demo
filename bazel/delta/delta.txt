@@ -12500,6 +12500,7 @@ dols
 disinfecter
 disowning
 disinfecting
+doubly
 daven
 disinfection
 disinfections
@@ -16047,7 +16048,6 @@ doublette
 discoid
 decursively
 doublewidth
-doubly
 dermatosis
 dinophyceae
 diazotize
