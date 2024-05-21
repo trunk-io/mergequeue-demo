@@ -4715,6 +4715,7 @@ carpetmonger
 carpets
 carpetweb
 comeliest
+cyclicality
 carpetwork
 cyanogenamide
 carpetwoven
@@ -13321,7 +13322,6 @@ crookbilled
 cannonproof
 cyclic
 cyclical
-cyclicality
 cyclically
 cyclicalness
 cyclicism
