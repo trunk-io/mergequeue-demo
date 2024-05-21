@@ -4160,6 +4160,7 @@ flagstones
 fireburn
 fibrocaseous
 featherwork
+fadedness
 federals
 ferfathmur
 foothold
@@ -11462,7 +11463,6 @@ feudist
 frivols
 flaccidly
 feyer
-fadedness
 furfurylidene
 fortitudes
 furrowers
