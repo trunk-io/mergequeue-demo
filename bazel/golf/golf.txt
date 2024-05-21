@@ -4576,6 +4576,7 @@ gypsyhead
 gaitt
 graupel
 gloeocapsoid
+gadoid
 giglot
 gypsying
 grammontine
@@ -10849,7 +10850,6 @@ granoblastic
 gweduc
 granjeno
 gommelin
-gadoid
 gweducks
 gweed
 gemmation
