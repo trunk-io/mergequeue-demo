@@ -2442,7 +2442,6 @@ electrohomeopathy
 endexines
 electromyographically
 electroimpulse
-electroindustrial
 electroing
 eductions
 electrokinetic
@@ -12399,6 +12398,7 @@ earthward
 exflagellation
 exflect
 endower
+electroindustrial
 ectomorphy
 exfoliating
 expoliate
