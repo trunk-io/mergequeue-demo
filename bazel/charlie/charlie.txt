@@ -5777,7 +5777,6 @@ categoric
 chondrified
 cessionary
 categorically
-categoricalness
 categories
 cestodaria
 categorisation
@@ -15989,6 +15988,7 @@ clemence
 clemency
 clemencies
 clement
+categoricalness
 clementina
 clemently
 clementness
