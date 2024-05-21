@@ -2687,6 +2687,7 @@ decomponent
 decomposability
 decomposable
 decompose
+deviceful
 dimmy
 decomposer
 decomposers
@@ -7729,7 +7730,6 @@ darken
 deviative
 deviatory
 deviators
-deviceful
 devicefully
 damnii
 devices
