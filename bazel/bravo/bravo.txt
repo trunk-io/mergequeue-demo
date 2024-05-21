@@ -1652,7 +1652,6 @@ blowsy
 brancher
 balloting
 barded
-bradyseismal
 ballotist
 ballots
 ballottement
@@ -9566,6 +9565,7 @@ byrlawman
 birle
 birler
 bronchodilatation
+bradyseismal
 birlieman
 birling
 basaltine
