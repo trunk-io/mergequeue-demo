@@ -6631,7 +6631,6 @@ brachiopodist
 bepicture
 bepiece
 bellyflaught
-bepierce
 bepile
 bodeword
 blobbiness
@@ -14308,6 +14307,7 @@ brahmapootra
 borehole
 birefracting
 brahmi
+bepierce
 blowback
 brahmin
 backhauled
