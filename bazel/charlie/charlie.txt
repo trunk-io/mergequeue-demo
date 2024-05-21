@@ -24715,7 +24715,6 @@ coppersmith
 coppersmithing
 copperware
 copperwing
-controllers
 chemotroph
 coppet
 coppy
@@ -30191,6 +30190,7 @@ cruets
 cruise
 cruised
 cruiser
+controllers
 cruiserweight
 cruises
 cruising
