@@ -6933,7 +6933,6 @@ berries
 buhls
 barytosulphate
 berryless
-berryman
 berrypicker
 berrugate
 bersagliere
@@ -9306,6 +9305,7 @@ bathysmal
 bowl
 botanists
 becalmment
+berryman
 behaves
 biotelemetries
 biotical
