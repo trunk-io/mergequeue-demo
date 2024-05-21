@@ -5409,7 +5409,6 @@ dentification
 dentifrice
 dentifrices
 dentil
-dentilabial
 dentilated
 dentilation
 dentiled
@@ -9118,6 +9117,7 @@ didactical
 didacticality
 dispersions
 didactically
+dentilabial
 didactician
 didacticism
 didacticity
