@@ -1667,7 +1667,6 @@ cheapishly
 calpacs
 conformation
 counterfallacy
-calque
 chambrel
 calques
 caseconv
@@ -24502,6 +24501,7 @@ coparcenar
 coparcenary
 coparcener
 chalkier
+calque
 coparceny
 coparenary
 coparent
