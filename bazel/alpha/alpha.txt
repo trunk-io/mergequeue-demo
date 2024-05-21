@@ -6276,7 +6276,6 @@ agnate
 agnathic
 agnathostomata
 advenient
-agnatic
 agnatical
 amoreuxia
 agnation
@@ -11619,6 +11618,7 @@ anaculture
 anacusia
 anacusic
 anacusis
+agnatic
 anadems
 anadenia
 arborization

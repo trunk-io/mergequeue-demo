@@ -3745,7 +3745,6 @@ grossify
 glucide
 galloflavine
 ghostly
-ghostlify
 gnoses
 grassation
 ghostship
@@ -6235,6 +6234,7 @@ genealogize
 gnomoniaceae
 globicephala
 glossic
+ghostlify
 gnosis
 gnostic
 glaky
