@@ -4449,7 +4449,6 @@ furcates
 fissility
 focaloid
 fissionable
-farcing
 fissioned
 furzes
 fissions
@@ -10782,6 +10781,7 @@ footrope
 frustum
 frutage
 frutescent
+farcing
 frutex
 fruticeous
 fencing
