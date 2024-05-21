@@ -2399,6 +2399,7 @@ fairyship
 fasteners
 filmable
 flywire
+floaters
 farthermost
 favel
 fere
@@ -5828,7 +5829,6 @@ filical
 fortunation
 floater
 fierasfer
-floaters
 fodders
 floaty
 floatier
