@@ -4483,7 +4483,6 @@ adspiration
 alarmisms
 adstipulating
 adstipulator
-adsum
 adterminal
 adtevac
 aduana
@@ -11676,6 +11675,7 @@ attempts
 anaesthetize
 anaesthetized
 anaesthetizer
+adsum
 arbalester
 anaetiological
 anagalactic
