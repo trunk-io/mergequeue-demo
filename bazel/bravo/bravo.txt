@@ -3581,7 +3581,6 @@ bather
 bathes
 bathetically
 bathflower
-bathhouse
 bathhouses
 braggest
 becudgel
@@ -4588,6 +4587,7 @@ becrowded
 buttering
 burstwort
 billeting
+bathhouse
 bumptiously
 bearhide
 becrush
