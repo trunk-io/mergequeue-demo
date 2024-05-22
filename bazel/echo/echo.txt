@@ -3539,7 +3539,6 @@ enrobement
 euchlaena
 emboss
 embossage
-exsolution
 embossed
 exponentiations
 enbibe
@@ -6199,6 +6198,7 @@ endognathion
 elongations
 enquiry
 enquiring
+exsolution
 enrace
 ethmonasal
 eventual
