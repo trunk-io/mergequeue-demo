@@ -7842,6 +7842,7 @@ brittles
 bezoardic
 bezoars
 bewared
+bobbed
 bezpopovets
 baryta
 boatbuilder
@@ -11710,7 +11711,6 @@ boats
 boatsetter
 boatshop
 bugology
-bobbed
 boatsteerer
 brandying
 boatswain
