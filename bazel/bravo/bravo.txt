@@ -2781,6 +2781,7 @@ brattiest
 baronet
 backtack
 bailouts
+becapping
 baronetcy
 baronetcies
 buboed
@@ -9163,7 +9164,6 @@ beneficium
 bludgeoneer
 benzazide
 blackfoot
-becapping
 biologic
 biologics
 biologies

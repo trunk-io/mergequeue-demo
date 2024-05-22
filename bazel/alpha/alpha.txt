@@ -20799,6 +20799,7 @@ artist
 artistes
 artistic
 aftercourse
+ashiver
 aeroplankton
 alkylation
 amylophosphate
@@ -21214,7 +21215,6 @@ ashiness
 ashing
 ashipboard
 ashir
-ashiver
 ashkey
 ashkenazi
 ashlar
