@@ -2646,7 +2646,6 @@ decolorization
 decolors
 duopsonies
 decolouration
-decolouring
 decolourisation
 dogmatism
 decempeda
@@ -6321,6 +6320,7 @@ dermatophone
 dermatophony
 dunking
 discounted
+decolouring
 dermatoplasm
 dermatoplast
 diapositive
