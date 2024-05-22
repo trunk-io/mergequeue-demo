@@ -3093,7 +3093,6 @@ actinograph
 aporobranchiata
 acrosporous
 anurous
-arsenicating
 asbolin
 actinographic
 actinoid
@@ -7818,6 +7817,7 @@ algorithm
 aldehyde
 aldehydes
 aldehydic
+arsenicating
 aldehydine
 accompanists
 almadia
