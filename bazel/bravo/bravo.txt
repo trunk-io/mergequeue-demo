@@ -4000,7 +4000,6 @@ brickbats
 bacteritic
 bdelloura
 bdellouridae
-barbiturate
 baritone
 botonny
 bdellovibrio
@@ -15131,6 +15130,7 @@ briber
 briberies
 bribers
 bribetaking
+barbiturate
 brevicaudate
 bribeworthy
 bootloader
