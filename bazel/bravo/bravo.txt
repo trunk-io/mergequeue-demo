@@ -6697,7 +6697,6 @@ berates
 blastospheric
 berattle
 boatside
-beraunite
 basichromiole
 berber
 borickite
@@ -16557,6 +16556,7 @@ buccaneer
 buccaneerish
 buccaneers
 buccaning
+beraunite
 buccanned
 bent
 buccanning
