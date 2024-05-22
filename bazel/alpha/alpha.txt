@@ -1155,7 +1155,6 @@ abutters
 abuzz
 anodendron
 abwab
-abwatt
 ac
 acacatechin
 acacatechol
@@ -15420,6 +15419,7 @@ antikamnia
 antikathode
 antikenotoxin
 aborning
+abwatt
 antiketogenesis
 actinobranchia
 antiking
