@@ -2139,7 +2139,6 @@ cornamute
 campo
 campodean
 creedbound
-campodeiform
 campodeoid
 campody
 campong
@@ -14763,6 +14762,7 @@ cystonephrosis
 cometic
 cystoneuralgia
 cystoparalysis
+campodeiform
 cystophora
 cathood
 cystophore
