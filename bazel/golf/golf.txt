@@ -226,7 +226,6 @@ gagwriter
 gay
 gradefinder
 gaiassa
-gipsyish
 gaybine
 gaidropsaridae
 goodman
@@ -4791,6 +4790,7 @@ glyph
 galchic
 groovelike
 girshes
+gipsyish
 geomorphologic
 glossarian
 gaize
