@@ -15500,7 +15500,6 @@ brise
 briseis
 brises
 brisken
-briskened
 brisker
 broadcasted
 bouget
@@ -16274,6 +16273,7 @@ bint
 beneceptive
 bleareyed
 behears
+briskened
 bruisingly
 bruit
 bullroarer
