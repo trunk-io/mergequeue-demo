@@ -1143,7 +1143,6 @@ ghostliness
 glares
 gangwa
 grenadilla
-gulley
 gamed
 genitives
 ganister
@@ -7324,6 +7323,7 @@ gossipping
 gossipred
 glowworms
 gossipries
+gulley
 gossips
 gigmaness
 groupist
