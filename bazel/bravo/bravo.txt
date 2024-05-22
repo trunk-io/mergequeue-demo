@@ -2531,7 +2531,6 @@ bargaining
 beechwoods
 bhut
 barge
-bargeboard
 bargeer
 biogasses
 bergere
@@ -5002,6 +5001,7 @@ beefwood
 beefwoods
 bandcase
 beegerite
+bargeboard
 blackcock
 badchan
 bedrock
