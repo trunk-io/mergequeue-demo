@@ -3392,7 +3392,6 @@ caprifoliaceous
 caprifolium
 capriform
 caprigenous
-capryl
 caprylate
 caprylene
 caprylic
@@ -15704,6 +15703,7 @@ clattery
 courtiery
 clattering
 chicaner
+capryl
 chromograph
 coquin
 calfskins
