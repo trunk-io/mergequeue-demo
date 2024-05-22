@@ -576,6 +576,7 @@ gallera
 getters
 gritten
 grapiest
+gastromelus
 geisotherm
 gasolines
 glycerine
@@ -8189,7 +8190,6 @@ glissaded
 gyrovague
 graphophone
 graphophonic
-gastromelus
 graphoscope
 grinderies
 graphostatics
