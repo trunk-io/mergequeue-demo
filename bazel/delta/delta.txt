@@ -1287,7 +1287,6 @@ dogate
 detonators
 daughterkin
 desorb
-daughterless
 daughterly
 daughterlike
 destin
@@ -14456,6 +14455,7 @@ diviningly
 decapitating
 divinised
 dyadic
+daughterless
 divinising
 divinister
 divinization
