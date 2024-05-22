@@ -8256,7 +8256,6 @@ chairmanship
 chairmanships
 checkoff
 chairmender
-chairmending
 chairpersons
 colpoplastic
 chairs
@@ -9362,6 +9361,7 @@ chatters
 chatti
 carbohydrates
 chattier
+chairmending
 chatties
 chattiest
 chattiness
