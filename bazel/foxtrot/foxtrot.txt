@@ -1481,7 +1481,6 @@ forenews
 flagellants
 fatuus
 fairtime
-faubourg
 fantasie
 faubourgs
 faucals
@@ -9690,6 +9689,7 @@ fortalice
 flunkers
 freelance
 fornax
+faubourg
 freeload
 freeloaded
 freemanship
