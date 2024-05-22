@@ -229,6 +229,7 @@ cacas
 cacatuidae
 cacatuinae
 cacaxte
+coactions
 carrom
 caccabis
 caccagogue
@@ -12078,7 +12079,6 @@ choristoneura
 choristry
 chorization
 chorizo
-coactions
 chorizont
 chorizontal
 chorizontes
