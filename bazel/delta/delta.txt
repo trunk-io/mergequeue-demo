@@ -1567,7 +1567,6 @@ deadnesses
 dustproof
 didache
 deservingly
-deadpay
 deadpan
 deadpanned
 deadpans
@@ -5803,6 +5802,7 @@ debater
 depolymerization
 depolymerize
 dipneedle
+deadpay
 depolish
 davened
 depolished
