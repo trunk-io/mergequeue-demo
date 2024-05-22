@@ -1835,7 +1835,6 @@ benzyls
 bridgewall
 bushwood
 bananivorous
-banat
 banatite
 banausic
 billycans
@@ -14147,6 +14146,7 @@ blellum
 brackish
 belk
 brackmard
+banat
 bracon
 braconids
 bedquilt
