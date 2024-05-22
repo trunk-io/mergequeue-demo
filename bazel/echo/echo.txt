@@ -5599,6 +5599,7 @@ enforcibility
 enforcingly
 enforcively
 exfoliate
+editchar
 enforest
 enfork
 epacme
@@ -10117,7 +10118,6 @@ escopette
 etapes
 explainability
 etc
-editchar
 etch
 epoptes
 electropism
