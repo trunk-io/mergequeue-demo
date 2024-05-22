@@ -10347,6 +10347,7 @@ benevolist
 bocaccio
 blacksnake
 blackstick
+bouillone
 baneful
 bliaut
 ballsy
@@ -13579,7 +13580,6 @@ boughs
 boughten
 bougie
 bouillabaisse
-bouillone
 bookmate
 boodlers
 bouillons
