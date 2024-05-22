@@ -3431,7 +3431,6 @@ beglic
 boozer
 basson
 backwater
-bassoonist
 bassoonists
 blockades
 bedravel
@@ -4521,6 +4520,7 @@ bepuzzlement
 beclasps
 bickers
 beclaw
+bassoonist
 besieged
 bloodstanch
 becloak
