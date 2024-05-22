@@ -11003,6 +11003,7 @@ blindworm
 backscratcher
 blackamoor
 beetler
+begun
 blackbeetle
 blinis
 blinkard
@@ -15351,7 +15352,6 @@ basifiers
 briguing
 brill
 binominous
-begun
 brillante
 brilliance
 braata
