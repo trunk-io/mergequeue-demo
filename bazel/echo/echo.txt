@@ -8299,7 +8299,6 @@ epistoler
 epistolic
 epopoeia
 epistolical
-epistolise
 epistolised
 eure
 epistolising
@@ -8831,6 +8830,7 @@ eradications
 eighteenmos
 embeddable
 etcetera
+epistolise
 eradicatory
 euda
 expedients
