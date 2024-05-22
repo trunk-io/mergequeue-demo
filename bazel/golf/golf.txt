@@ -3357,7 +3357,6 @@ glycic
 gonadectomy
 germanization
 gabback
-guillemot
 germanized
 germanizer
 germule
@@ -10531,6 +10530,7 @@ grilling
 gunks
 glockenspiels
 gesning
+guillemot
 gunlaying
 gunline
 gunlock

@@ -4272,7 +4272,6 @@ beastship
 beat
 benches
 beatable
-beatably
 beatae
 beatee
 beaters
@@ -9412,6 +9411,7 @@ bantamweights
 bipod
 borities
 bipods
+beatably
 baccae
 botches
 bipolarity
