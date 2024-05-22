@@ -8640,7 +8640,6 @@ chanceless
 cestoda
 chancellery
 chancelleries
-chancellor
 chancellorate
 chancelloress
 chancellors
@@ -18061,6 +18060,7 @@ coenamors
 chiromancy
 condensational
 coenamourment
+chancellor
 contaminable
 coenanthium
 chiffonniers
