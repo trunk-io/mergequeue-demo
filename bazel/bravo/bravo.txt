@@ -2396,7 +2396,6 @@ bachelorlike
 barbu
 barbula
 barbulate
-barbule
 blowfish
 barbulyie
 barbut
@@ -15512,6 +15511,7 @@ briskets
 breastplough
 biophysically
 babbitt
+barbule
 boardable
 brisking
 bescurf
