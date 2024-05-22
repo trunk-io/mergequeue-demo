@@ -9630,7 +9630,6 @@ dihydroxy
 dhaks
 dihydroxyacetone
 dihydroxysuccinic
-dihydroxytoluene
 dosshouse
 dalasis
 dowcet
@@ -15763,6 +15762,7 @@ dentiparous
 diallela
 diptote
 dorsabdominal
+dihydroxytoluene
 dorsabdominally
 dipsacus
 dorsal
