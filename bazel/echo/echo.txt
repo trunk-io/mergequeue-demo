@@ -2289,7 +2289,6 @@ epicenity
 eremitic
 excuderunt
 epistroma
-electrocapillary
 electrocapillarity
 electrocardiogram
 exoperidium
@@ -11161,6 +11160,7 @@ elains
 eurytus
 erythrolysin
 eusporangiate
+electrocapillary
 extemporal
 eustace
 eustachian
