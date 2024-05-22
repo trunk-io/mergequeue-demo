@@ -4101,7 +4101,6 @@ glamourizer
 germander
 gilled
 gillenia
-gelechiid
 grangerization
 gambas
 grangerise
@@ -7529,6 +7528,7 @@ gowning
 gownsman
 gallflies
 gravamens
+gelechiid
 gownsmen
 gowpen
 gox
