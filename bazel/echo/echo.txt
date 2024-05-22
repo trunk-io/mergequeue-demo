@@ -820,7 +820,6 @@ ectocardia
 ectocarpaceae
 ergocalciferol
 ectocarpales
-eligible
 expiatory
 ectocarpus
 ectocelic
@@ -8615,6 +8614,7 @@ equicaloric
 equicohesive
 equicontinuous
 electrotherapeutic
+eligible
 encompassing
 equiconvex
 egrets
