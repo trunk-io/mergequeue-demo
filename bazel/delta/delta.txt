@@ -5495,7 +5495,6 @@ deodar
 demodulate
 dependencies
 deodorisation
-dynamitist
 deodorise
 deodorised
 deodoriser
@@ -15119,6 +15118,7 @@ doitkin
 doits
 dojigger
 deepwater
+dynamitist
 doke
 doketic
 dokhma
