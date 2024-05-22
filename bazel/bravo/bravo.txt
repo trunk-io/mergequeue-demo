@@ -4974,7 +4974,6 @@ beefalo
 beefaloes
 bloodedness
 becobweb
-botanizer
 brimmered
 bogyisms
 beefalos
@@ -12299,6 +12298,7 @@ bolt
 boltage
 biasses
 boltcutter
+botanizer
 bookmark
 buckstay
 bolted

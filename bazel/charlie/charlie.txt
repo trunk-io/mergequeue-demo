@@ -13560,6 +13560,7 @@ cigaret
 cigarette
 cigarettes
 cigarfish
+counterconversion
 craspedum
 cigarillos
 cigaritos
@@ -14177,7 +14178,6 @@ chiriana
 cryptostomate
 colorist
 cypseloid
-counterconversion
 cypselomorph
 coutel
 cypselomorphae
