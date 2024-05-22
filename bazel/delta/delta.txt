@@ -1059,7 +1059,6 @@ dartlike
 dartling
 divisibleness
 dissecting
-dartman
 deucedly
 dartoic
 dartoid
@@ -10825,6 +10824,7 @@ diriment
 dirhams
 dirhem
 dirhinous
+dartman
 dirian
 dirichletian
 denicotinized
