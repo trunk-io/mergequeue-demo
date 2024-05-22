@@ -4508,7 +4508,6 @@ decap
 drawling
 demerge
 demerit
-demerited
 demiluster
 demeritoriously
 demersal
@@ -12820,6 +12819,7 @@ disminion
 doomsters
 dismissable
 driftway
+demerited
 dismissal
 dismissals
 dismissed
