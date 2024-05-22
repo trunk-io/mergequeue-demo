@@ -4683,7 +4683,6 @@ bedchairs
 bellowing
 buntal
 bryophyte
-bedclothing
 bedcovers
 blader
 bromos
@@ -6336,6 +6335,7 @@ blotchy
 benefits
 benefitted
 blockwood
+bedclothing
 beneighbored
 beneme
 benempt
