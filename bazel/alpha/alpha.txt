@@ -6612,6 +6612,7 @@ archaists
 amebula
 ahir
 ahistoric
+alternant
 ahistorical
 animalian
 amphicarpous
@@ -21302,7 +21303,6 @@ asymmetron
 asymptomatic
 asymptomatically
 asymptote
-alternant
 accompletive
 asymptotes
 asymptotically
