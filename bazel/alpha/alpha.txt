@@ -2295,7 +2295,6 @@ achromatopsia
 adverts
 achromatosis
 avicularia
-achromia
 ayes
 achromobacter
 achromobacterieae
@@ -4760,6 +4759,7 @@ aecidiaceae
 adumbrate
 agitates
 aecidial
+achromia
 aecidioform
 aecidiomycetes
 aecidiospore
