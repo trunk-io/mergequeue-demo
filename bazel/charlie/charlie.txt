@@ -17368,7 +17368,6 @@ coastmen
 churchmaster
 coastward
 coastwards
-coastwise
 coat
 coatdress
 coated
@@ -28114,6 +28113,7 @@ crandall
 curded
 cynicism
 crandallite
+coastwise
 crane
 craned
 craney
