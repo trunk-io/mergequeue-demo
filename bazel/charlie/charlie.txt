@@ -9629,7 +9629,6 @@ cheddites
 crooked
 cheders
 chedite
-chedlock
 chee
 cheecha
 cheechaco
@@ -29881,6 +29880,7 @@ crosshair
 crosshairs
 crosshand
 cubiform
+chedlock
 calesin
 crosshatches
 cogwheel
