@@ -5254,7 +5254,6 @@ endosclerite
 endoscope
 enfortune
 exostema
-endomysium
 endoscopes
 endoscopic
 endoscopies
@@ -7583,6 +7582,7 @@ ependyma
 epichile
 epichilia
 epichilium
+endomysium
 evaluators
 epichlorohydrin
 epichondrosis

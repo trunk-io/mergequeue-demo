@@ -4162,7 +4162,6 @@ fortifyingly
 frogmouth
 firebrick
 firebug
-firebugs
 flagstones
 fireburn
 fibrocaseous
@@ -9254,6 +9253,7 @@ fasthold
 frontally
 fragmental
 fumously
+firebugs
 fragmentalize
 fragmentally
 fascinatress
