@@ -14662,7 +14662,6 @@ cubicontravariant
 cystalgia
 cystamine
 cystaster
-cystathionine
 commatism
 cystatrophy
 cystatrophia
@@ -15440,6 +15439,7 @@ cakewalks
 clangours
 clangs
 clangula
+cystathionine
 calluses
 clanjamfrey
 clanjamphrey
