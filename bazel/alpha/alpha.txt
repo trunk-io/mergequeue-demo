@@ -6345,6 +6345,7 @@ aul
 alchemise
 agoniatite
 aegerian
+arteriorrhagia
 agonic
 agonies
 agonise
@@ -20539,7 +20540,6 @@ arteriopalmus
 arterioplasty
 arteriopressor
 arteriorenal
-arteriorrhagia
 arteriorrhexis
 accentless
 arteriosympathectomy
