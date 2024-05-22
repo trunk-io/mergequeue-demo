@@ -16922,7 +16922,6 @@ bugs
 bugsha
 bugweed
 bugwort
-biunivocal
 banca
 baganda
 buhl
@@ -17901,6 +17900,7 @@ biscanism
 buscarl
 bullish
 bused
+biunivocal
 brisks
 baboosh
 busera
