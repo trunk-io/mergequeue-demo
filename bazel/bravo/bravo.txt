@@ -1864,7 +1864,6 @@ bandboxy
 broilery
 barricos
 bandboxical
-bandcutter
 besotter
 branchling
 bandeau
@@ -11380,6 +11379,7 @@ blowzy
 beadrow
 blowzier
 byroad
+bandcutter
 buccal
 bedrug
 blaugas
