@@ -1592,7 +1592,6 @@ guacamole
 guarachas
 granospherite
 gametogonium
-gasifier
 gasifiers
 gasifies
 gardeen
@@ -3393,6 +3392,7 @@ grubbers
 germfree
 gullion
 grooverhead
+gasifier
 gentlewomanlike
 germier
 gaetulian
