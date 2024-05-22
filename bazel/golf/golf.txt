@@ -6635,7 +6635,6 @@ grottolike
 goma
 gomari
 grasp
-guestchamber
 gomart
 gomashta
 gombo
@@ -8349,6 +8348,7 @@ gratin
 gapingstock
 gratingly
 gratings
+guestchamber
 gyromele
 gratins
 gustily
