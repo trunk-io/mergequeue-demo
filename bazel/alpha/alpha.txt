@@ -2297,7 +2297,6 @@ achromatosis
 avicularia
 achromia
 ayes
-achromic
 achromobacter
 achromobacterieae
 achromoderma
@@ -7534,6 +7533,7 @@ altumal
 albruna
 aposiopestic
 albs
+achromic
 albuca
 albuginaceae
 albuginea
