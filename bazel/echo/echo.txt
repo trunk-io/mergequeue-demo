@@ -5346,7 +5346,6 @@ endothermic
 endothia
 ejaculative
 echinocactus
-endothoracic
 escribiente
 epigramme
 evangelium
@@ -9075,6 +9074,7 @@ ectosome
 ecumenic
 ellinge
 erysipeloid
+endothoracic
 erysipelous
 erysiphaceae
 erysiphe
