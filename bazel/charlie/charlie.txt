@@ -5857,6 +5857,7 @@ catfight
 creeled
 catfish
 catfoot
+curculionist
 catfooted
 cambists
 catgut
@@ -25358,7 +25359,6 @@ corncribs
 corncrusher
 calisaya
 corncutter
-curculionist
 corndodger
 cornea
 corneal
