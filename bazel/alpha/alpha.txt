@@ -8817,7 +8817,6 @@ allopolyploid
 allision
 alliteral
 alliterate
-alliterated
 alliterates
 alliteration
 alliterational
@@ -12708,6 +12707,7 @@ angelinformal
 attle
 angelito
 angelize
+alliterated
 angelized
 archetypist
 angellike
