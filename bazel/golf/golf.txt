@@ -6633,7 +6633,6 @@ grottolike
 goma
 gomari
 grasp
-gomart
 gomashta
 gombo
 gapy
@@ -7028,6 +7027,7 @@ goorals
 grillade
 grapline
 grindle
+gomart
 goosander
 gillian
 glucosan
