@@ -3845,7 +3845,6 @@ blowpipe
 battu
 battues
 batture
-baldling
 battuta
 bielded
 biocontrol
@@ -4839,6 +4838,7 @@ bedraping
 bedread
 bedrench
 bedrenched
+baldling
 bedrenches
 bedribble
 bureaucratic
