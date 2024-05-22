@@ -3948,7 +3948,6 @@ engl
 excessman
 emoting
 emotion
-emotionable
 empyreans
 emotional
 escapologist
@@ -8418,6 +8417,7 @@ endopleura
 epitomizes
 epitomizing
 explementary
+emotionable
 epitonion
 existents
 epitra
