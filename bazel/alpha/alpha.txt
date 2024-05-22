@@ -4896,6 +4896,7 @@ aequi
 arariba
 aequipalpia
 aranein
+attemperation
 aequor
 aequorins
 aerage
@@ -23039,7 +23040,6 @@ atte
 ammonolyze
 antheriform
 attemperament
-attemperation
 aizle
 acephalan
 attempered
