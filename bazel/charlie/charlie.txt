@@ -8483,7 +8483,6 @@ chamaesiphonaceae
 chamaesiphonales
 chamal
 chamar
-chambellan
 chamber
 chamberdeacon
 chambered
@@ -19768,6 +19767,7 @@ colament
 corotation
 copolymers
 combustible
+chambellan
 combustibleness
 combustibles
 combusting
