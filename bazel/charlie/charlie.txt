@@ -5355,6 +5355,7 @@ caster
 comprint
 casterless
 cinemograph
+corncob
 casters
 castes
 casteth
@@ -15931,7 +15932,6 @@ cleche
 capacitance
 clechee
 clechy
-corncob
 cleck
 cled
 commune
