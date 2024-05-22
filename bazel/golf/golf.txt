@@ -6144,7 +6144,6 @@ gavialis
 gaucheries
 gentlewomanhood
 gonoblastidium
-gobang
 guaiol
 gravispheric
 gnashingly
@@ -9436,6 +9435,7 @@ groundlings
 groundmass
 glassophone
 groundneedle
+gobang
 groundout
 gros
 glim
