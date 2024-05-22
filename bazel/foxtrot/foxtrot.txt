@@ -2505,6 +2505,7 @@ freebooty
 feudum
 fermentability
 flagelliferous
+frontwise
 fopdoodle
 fermentable
 forlie
@@ -3821,7 +3822,6 @@ filterableness
 faut
 forebridge
 flaillike
-frontwise
 formicaroid
 faddish
 filterman
