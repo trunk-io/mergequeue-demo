@@ -6386,7 +6386,6 @@ cavae
 ceratites
 cavaedium
 cavayard
-cavalcade
 cavalcaded
 cavalcades
 cavalcading
@@ -23053,6 +23052,7 @@ consonant
 consonantal
 consonantalize
 consonantic
+cavalcade
 consonantise
 consonantised
 camber
