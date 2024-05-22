@@ -279,7 +279,6 @@ burdensomeness
 backarrow
 barefisted
 backarrows
-backband
 backbar
 backbearing
 backbencher
@@ -857,6 +856,7 @@ beflags
 bleachs
 blackboards
 bagaudae
+backband
 bootblack
 bagdad
 bagdi
