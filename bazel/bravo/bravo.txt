@@ -10085,7 +10085,6 @@ biuniquely
 biuniqueness
 berrypicking
 burbles
-biunivocal
 biurea
 bivalence
 bajulate
@@ -16924,6 +16923,7 @@ bugs
 bugsha
 bugweed
 bugwort
+biunivocal
 banca
 baganda
 buhl
