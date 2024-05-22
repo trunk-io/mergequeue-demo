@@ -5438,6 +5438,7 @@ following
 factories
 fletchers
 fletches
+fernambuck
 furrower
 feynesses
 fleuret
@@ -10104,7 +10105,6 @@ frim
 flavoury
 flor
 fungus
-fernambuck
 frithborgh
 frontopontine
 florigen
