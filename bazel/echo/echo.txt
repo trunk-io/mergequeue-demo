@@ -7052,6 +7052,7 @@ emote
 entrusting
 entrustment
 entrusts
+exocoetus
 entte
 ecdyson
 entune
@@ -12621,7 +12622,6 @@ exploring
 exocoelic
 exocoelom
 exocoelum
-exocoetus
 exocone
 eumeromorph
 embouchement
