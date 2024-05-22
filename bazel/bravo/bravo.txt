@@ -8817,7 +8817,6 @@ backfold
 bravery
 bounceable
 buncoed
-bathylith
 bluefish
 bhungini
 brochette
@@ -12347,6 +12346,7 @@ bombardment
 bombardments
 bylaws
 bombline
+bathylith
 bombardo
 bowdrill
 bombast
