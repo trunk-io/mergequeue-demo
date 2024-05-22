@@ -756,6 +756,7 @@ ecotones
 emotive
 ecoute
 ecphorable
+escutcheon
 ecphore
 ecphoria
 emotes
@@ -6123,7 +6124,6 @@ enoch
 enodally
 enodate
 epithalamion
-escutcheon
 enode
 enoil
 enoint

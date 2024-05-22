@@ -2388,6 +2388,7 @@ cancion
 cancionero
 canciones
 cancri
+charivaried
 cancrid
 cancriform
 cruzeiro
@@ -9093,7 +9094,6 @@ chessmen
 colloq
 charities
 charityless
-charivaried
 charka
 cloaks
 charkhana
