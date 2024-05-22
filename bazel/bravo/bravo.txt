@@ -3538,7 +3538,6 @@ birdcall
 batched
 batcher
 bargemen
-batea
 bogging
 bateau
 blastomycetous
@@ -18272,6 +18271,7 @@ barathrum
 bronzier
 butternuts
 butterscotch
+batea
 bunuelo
 bloodletting
 butterwoman
