@@ -3516,7 +3516,6 @@ dichroscope
 deuteroprism
 deforced
 dinner
-discontinuous
 deforces
 deforciant
 deforest
@@ -9661,6 +9660,7 @@ dikaryophytic
 dikaryotic
 dikast
 dikdik
+discontinuous
 deliquesces
 dil
 doorcase

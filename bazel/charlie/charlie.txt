@@ -7559,7 +7559,6 @@ cypridinidae
 copei
 clergyman
 cambrian
-ceraunite
 ceraunograph
 ceraunomancy
 costmary
@@ -22031,6 +22030,7 @@ cinquedea
 ceramiaceous
 confirmor
 confirms
+ceraunite
 confiscable
 confiscatable
 confiscate
