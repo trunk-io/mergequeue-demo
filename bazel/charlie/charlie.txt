@@ -208,7 +208,6 @@ cabriolet
 contemporise
 cabrit
 cabs
-cabstand
 cabstands
 cabuya
 channelly
@@ -2821,6 +2820,7 @@ cours
 canopus
 canorous
 canorously
+cabstand
 canos
 canossa
 canotier
