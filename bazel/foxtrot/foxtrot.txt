@@ -9450,6 +9450,7 @@ facing
 fettler
 fondant
 frenum
+forequoted
 franticly
 freeloading
 forged
@@ -10444,7 +10445,6 @@ filigree
 fibrillate
 forcaria
 fomenters
-forequoted
 feudalistic
 filchery
 fringeflower
