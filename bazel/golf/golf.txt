@@ -1352,7 +1352,6 @@ gallberries
 gardenia
 gundeck
 giftlike
-gaonate
 gardenless
 gardenlike
 gardenmaking
@@ -10020,6 +10019,7 @@ gudgeons
 gowned
 gudget
 graphed
+gaonate
 geosynclines
 gleans
 gudok
