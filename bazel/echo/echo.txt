@@ -2295,6 +2295,7 @@ electrocardiogram
 exoperidium
 electrocardiograms
 electrocardiograph
+ever
 electrocardiographic
 electrocardiographically
 electrocatalysis
@@ -10112,7 +10113,6 @@ electroform
 esurine
 etageres
 etalage
-ever
 endamnify
 etyma
 etamins
