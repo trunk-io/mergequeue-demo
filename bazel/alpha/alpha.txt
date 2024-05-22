@@ -4674,7 +4674,6 @@ advertent
 advertently
 adverting
 advertisable
-advertise
 advertisee
 advertiser
 advertisers
@@ -21622,6 +21621,7 @@ attenuate
 aplustra
 assay
 anteflected
+advertise
 assayable
 afterpotential
 assayed
