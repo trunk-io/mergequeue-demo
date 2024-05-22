@@ -914,7 +914,6 @@ grammaticality
 gamelang
 gonagia
 gamelans
-gammy
 gameless
 gentian
 gamelike
@@ -1536,6 +1535,7 @@ gambles
 galvayne
 garterless
 garth
+gammy
 gaillardia
 glochchidia
 guild
