@@ -1815,7 +1815,6 @@ conveyers
 cambering
 cambeva
 cambia
-cambial
 cambiata
 charlatanry
 cambiform
@@ -2495,6 +2494,7 @@ candlestick
 candlesticks
 candlestickward
 candlewaster
+cambial
 candlewasting
 candlewick
 candlewicking
