@@ -4292,7 +4292,6 @@ dermatopsy
 dels
 delsarte
 delsartian
-delta
 deltahedra
 deltaic
 deltaite
@@ -6046,6 +6045,7 @@ dicliny
 depuratory
 depure
 depurge
+delta
 depurged
 diagonally
 depurging
