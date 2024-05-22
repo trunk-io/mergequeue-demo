@@ -3648,7 +3648,6 @@ graylag
 ghastlier
 glove
 gunbearer
-ghastliest
 gatewaymen
 groups
 gelfomino
@@ -7801,6 +7800,7 @@ gynaeocracy
 gravitational
 grovy
 graminological
+ghastliest
 grammalogue
 gibingly
 gossypols
