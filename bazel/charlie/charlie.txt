@@ -260,7 +260,6 @@ caches
 cachespell
 coreductase
 cagayans
-cachet
 cachetic
 cacheting
 cachets
@@ -28304,6 +28303,7 @@ cratemen
 crater
 cruziero
 cratered
+cachet
 craterellus
 carabineer
 crateriform
