@@ -546,7 +546,6 @@ backveld
 bayok
 backvelder
 backway
-bewhite
 backward
 backwardation
 backwardly
@@ -9167,6 +9166,7 @@ bioluminescence
 blighties
 biomagnetic
 biomagnetism
+bewhite
 biomasses
 biomathematics
 biome
