@@ -3234,7 +3234,6 @@ graplin
 gluing
 glycans
 geoteuthis
-gomeril
 geotherm
 geothermic
 gelatinobromide
@@ -4966,6 +4965,7 @@ ganisters
 glaciomarine
 gnetum
 gypaetus
+gomeril
 glacionatant
 glacious
 glumose
