@@ -14085,7 +14085,6 @@ butsudan
 brachiosaur
 brachiosaurus
 brachyphyllum
-brachypinacoid
 bespeech
 brachypinacoidal
 bargainers
@@ -16478,6 +16477,7 @@ blackplate
 burners
 brutifies
 brutishly
+brachypinacoid
 brutishness
 brewed
 brutism

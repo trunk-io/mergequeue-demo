@@ -10448,6 +10448,7 @@ countermove
 chiefty
 chiel
 coapts
+column
 chield
 chields
 chiels
@@ -17922,7 +17923,6 @@ coedit
 coedited
 coediting
 coeditors
-column
 coedits
 coeducation
 coeducationalism
