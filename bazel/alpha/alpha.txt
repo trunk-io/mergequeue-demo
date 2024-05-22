@@ -6625,7 +6625,6 @@ ahistorical
 animalian
 amphicarpous
 ahmadi
-aftercause
 ahmed
 ahmedi
 aho
@@ -11371,6 +11370,7 @@ amplication
 amplicative
 amplify
 amplificate
+aftercause
 amplification
 amplificative
 amplificator
