@@ -290,7 +290,6 @@ bakeware
 backberend
 benzinduline
 backbit
-behav
 backbite
 browbound
 backbites
@@ -8929,6 +8928,7 @@ bind
 binbashi
 bardane
 binderies
+behav
 biddie
 banjos
 bulliest
