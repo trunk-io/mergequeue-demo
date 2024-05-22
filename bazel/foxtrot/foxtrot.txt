@@ -4450,7 +4450,6 @@ fissionable
 fissioned
 furzes
 fissions
-fregit
 fissipalmation
 forheed
 farming
@@ -5058,6 +5057,7 @@ fribble
 foeture
 flashiness
 furler
+fregit
 flashings
 flashlamp
 flapmouthed
