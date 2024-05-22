@@ -3480,7 +3480,6 @@ emblematize
 electrocution
 extrascientific
 ennuye
-encephalonarcosis
 emblemed
 emblements
 emblemist
@@ -7995,6 +7994,7 @@ enorganic
 exhaustibility
 empidonax
 earbob
+encephalonarcosis
 eigenvector
 euripos
 epimerized
