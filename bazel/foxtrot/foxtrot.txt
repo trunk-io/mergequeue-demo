@@ -1614,6 +1614,7 @@ favosite
 frostbit
 flowerpots
 favosites
+flush
 farmost
 forecovert
 favositidae
@@ -6485,7 +6486,6 @@ fictor
 figureheadless
 forficated
 flurt
-flush
 farriery
 flatboat
 fermerer
