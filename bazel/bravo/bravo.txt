@@ -4452,6 +4452,7 @@ bpi
 bechalking
 browse
 bechalks
+bellowers
 beerbibber
 bursts
 barbacoa
@@ -5980,7 +5981,6 @@ bellota
 bidactyle
 bellovaci
 bigheartedly
-bellowers
 bellows
 beefs
 bacillemia
