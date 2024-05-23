@@ -6940,7 +6940,6 @@ cementite
 cementitious
 cementlike
 carinaria
-chlorosulphonic
 cementmaker
 cementmaking
 catapan
@@ -9886,6 +9885,7 @@ chemiotaxis
 chemiotropic
 chemiotropism
 chemiphotic
+chlorosulphonic
 chemis
 chemise
 comport

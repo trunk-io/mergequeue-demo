@@ -11694,6 +11694,7 @@ ade
 anaesthetics
 antisupernatural
 anaesthetization
+avoke
 attempts
 anaesthetize
 anaesthetized
@@ -24831,7 +24832,6 @@ avoidment
 avoids
 avoyership
 afflict
-avoke
 avolate
 avolation
 avolitional
