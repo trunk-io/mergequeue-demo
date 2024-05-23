@@ -661,7 +661,6 @@ bacteriosis
 bacteriosolvent
 breakshugh
 brats
-bacteriostat
 bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
@@ -9545,6 +9544,7 @@ byreman
 batteler
 bireme
 begeck
+bacteriostat
 babishly
 bookholder
 birettas
