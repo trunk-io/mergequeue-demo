@@ -1470,7 +1470,6 @@ garniec
 garnished
 geshurites
 giraffish
-garnishee
 garnisheed
 garnishees
 garnishes
@@ -8403,6 +8402,7 @@ genophobia
 gravediggers
 grudgment
 gravel
+garnishee
 groupageness
 gibaro
 geebong
