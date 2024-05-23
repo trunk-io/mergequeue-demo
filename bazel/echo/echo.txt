@@ -996,7 +996,6 @@ equine
 edacities
 ensaffron
 edam
-edana
 endomitotic
 edaphology
 edaphon
@@ -12985,6 +12984,7 @@ errand
 expeding
 epitaxy
 eluders
+edana
 expromissor
 emrode
 euhemerised
