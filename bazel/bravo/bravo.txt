@@ -4200,6 +4200,7 @@ bowmaking
 bro
 beelbow
 bearded
+brushproof
 beardfishes
 beswarms
 beardy
@@ -16402,7 +16403,6 @@ byrling
 brushoff
 brushoffs
 brushpopper
-brushproof
 brushup
 brushups
 brushwood
