@@ -10229,7 +10229,6 @@ dins
 dint
 dinted
 diana
-drolly
 distractedly
 dinting
 dintless
@@ -14121,6 +14120,7 @@ disunion
 disengagements
 disunions
 discernably
+drolly
 disuniter
 disunites
 disunity
