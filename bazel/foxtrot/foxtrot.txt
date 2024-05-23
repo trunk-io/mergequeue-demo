@@ -6707,7 +6707,6 @@ fogfruit
 foretype
 flatterable
 fogfruits
-fogger
 fluerics
 furrier
 finableness
@@ -8898,6 +8897,7 @@ fougasse
 finfoot
 foujdarry
 foul
+fogger
 foulbrood
 foulder
 fouled
