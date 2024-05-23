@@ -6806,6 +6806,7 @@ cellarette
 cellarmen
 cartograph
 cellars
+chirologies
 chaplet
 charivariing
 cellarwoman
@@ -10995,7 +10996,6 @@ cartelism
 coigns
 cokers
 cavatinas
-chirologies
 crost
 chirologist
 ceramic
