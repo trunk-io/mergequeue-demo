@@ -1001,6 +1001,7 @@ edaphon
 epicures
 edaphosauria
 edaphosaurid
+exorbital
 edaphosaurus
 explosibility
 epoxide
@@ -12736,7 +12737,6 @@ elderberry
 exconjugant
 exorableness
 elaeodochon
-exorbital
 esprove
 enthelminthes
 eats
