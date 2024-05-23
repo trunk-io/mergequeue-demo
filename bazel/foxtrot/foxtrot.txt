@@ -76,6 +76,7 @@ fullfaces
 facemark
 feuter
 fermentations
+flocklike
 filching
 fisticuffs
 faces
@@ -5878,7 +5879,6 @@ flockiest
 forbysening
 flockings
 furry
-flocklike
 force
 foolfish
 fertilely
