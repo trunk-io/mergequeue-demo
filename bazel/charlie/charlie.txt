@@ -3948,7 +3948,6 @@ carcassing
 carcassless
 carcavelhos
 carceag
-cosmodrome
 carcel
 carcels
 carcer
@@ -12053,6 +12052,7 @@ choriomata
 chorions
 crucified
 chorioptes
+cosmodrome
 chorioptic
 chorioretinal
 chorioretinitis
