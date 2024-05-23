@@ -13272,7 +13272,6 @@ animo
 anymore
 animose
 animoseness
-allomorphic
 animosity
 animoso
 aftosas
@@ -20514,6 +20513,7 @@ arteria
 associating
 amplifications
 arteriac
+allomorphic
 apotropaic
 arteriae
 arteriagra
