@@ -4156,7 +4156,6 @@ endives
 employer
 exedral
 elastance
-enamine
 ethnical
 employment
 eiffel
@@ -6189,6 +6188,7 @@ enplaned
 extraphysiological
 enquarter
 enqueue
+enamine
 entered
 enqueued
 enqueues
