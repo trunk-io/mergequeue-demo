@@ -1573,7 +1573,6 @@ frogged
 faux
 freaking
 favelas
-flaneur
 frizzen
 favelidium
 favellidium
@@ -4972,6 +4971,7 @@ flickery
 flanker
 flankers
 falconries
+flaneur
 flanking
 flanks
 foremartyr
