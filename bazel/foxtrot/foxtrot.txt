@@ -1374,7 +1374,6 @@ fathership
 forswore
 flown
 forride
-ferrotyped
 frontways
 fathomableness
 fathomage
@@ -7803,6 +7802,7 @@ forename
 furl
 finning
 fogging
+ferrotyped
 formosan
 fattiest
 forenames
