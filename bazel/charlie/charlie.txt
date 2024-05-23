@@ -5945,7 +5945,6 @@ catheterised
 catheterism
 catheterization
 catheterize
-challa
 catheterized
 cerastium
 catheterizes
@@ -25332,6 +25331,7 @@ cormophyta
 cormophytic
 cormorant
 cormous
+challa
 corn
 cornaceae
 cornada
