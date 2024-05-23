@@ -16715,6 +16715,7 @@ cirrus
 clothesline
 clotheslines
 clothesman
+crypts
 carbamoyl
 cosuitor
 culla
@@ -31343,7 +31344,6 @@ criosphinges
 curiboca
 cothurnate
 curie
-crypts
 curies
 curiet
 curietherapy
