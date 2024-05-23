@@ -4570,6 +4570,7 @@ fitness
 fidia
 fitout
 fairlike
+flypaper
 fittage
 flumadiddle
 fitted
@@ -9882,7 +9883,6 @@ fresno
 fress
 fresser
 fret
-flypaper
 fontally
 fallibleness
 felonsetter
