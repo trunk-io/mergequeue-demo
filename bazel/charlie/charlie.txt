@@ -7526,7 +7526,6 @@ ceratioid
 ceratite
 ceratitic
 capsuligerous
-ceratitidae
 ceratitis
 ceratitoidea
 ceratium
@@ -12926,6 +12925,7 @@ churchite
 churchlet
 cirrhopod
 curemaster
+ceratitidae
 churchly
 churchliest
 churchman
