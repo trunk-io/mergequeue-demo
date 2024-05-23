@@ -3483,7 +3483,6 @@ adawn
 adaxial
 adazzle
 adc
-adcon
 afforded
 adcons
 autopticity
@@ -24088,6 +24087,7 @@ abrasiometer
 autogyro
 autogiros
 autogyros
+adcon
 ambulators
 autognostic
 autograft
