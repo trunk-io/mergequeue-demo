@@ -11237,7 +11237,6 @@ amphion
 amphioxi
 amphioxidae
 amphioxis
-amphioxus
 amphioxuses
 amphipeptone
 amphiphithyra
@@ -11405,6 +11404,7 @@ anselmian
 ampullaria
 ampullate
 ampullated
+amphioxus
 arrondissements
 ampulliform
 affrightfully
