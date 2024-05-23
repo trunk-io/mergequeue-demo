@@ -16871,7 +16871,6 @@ clubhaul
 clubhauled
 clubhauls
 clubhouses
-clubionid
 clubionidae
 clubland
 clubman
@@ -24763,6 +24762,7 @@ copresbyter
 copresence
 coprincipal
 coprinus
+clubionid
 coprisoner
 coprocessor
 coprodaeum
