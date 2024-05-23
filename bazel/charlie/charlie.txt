@@ -19448,7 +19448,6 @@ colormaker
 colorman
 coloroto
 colors
-colortype
 cutose
 cleptomania
 colorum
@@ -19920,6 +19919,7 @@ comity
 comitia
 comitial
 conglobulate
+colortype
 comities
 comitium
 cuscuses
