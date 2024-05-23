@@ -1963,7 +1963,6 @@ ejusd
 ekaboron
 ekacaesium
 ekasilicon
-eke
 epop
 ekebergite
 ekename
@@ -3078,6 +3077,7 @@ elliptograph
 elliptoid
 electrum
 extraparietal
+eke
 etiolates
 ellops
 ells
