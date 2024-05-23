@@ -525,6 +525,7 @@ damageably
 describent
 demounted
 damaged
+detort
 damagement
 damageous
 dao
@@ -1856,7 +1857,6 @@ dispunge
 deboistly
 dalespeople
 deboite
-detort
 distal
 debonair
 debonaire
