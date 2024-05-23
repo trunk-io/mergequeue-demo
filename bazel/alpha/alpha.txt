@@ -127,6 +127,7 @@ abatement
 abatements
 abater
 abatic
+accreditee
 alanyl
 abating
 abatis
@@ -1694,7 +1695,6 @@ annule
 archpresbyter
 accreditations
 accredited
-accreditee
 animal
 accrediting
 accredits
