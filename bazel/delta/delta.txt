@@ -3739,7 +3739,6 @@ dehgan
 dehydrase
 dozinesses
 dimensioned
-doolies
 dehydrate
 dehydrates
 dehydrator
@@ -9397,6 +9396,7 @@ diffusers
 diffuses
 dechlore
 diffusible
+doolies
 diffusibleness
 diffusimeter
 diffusing
