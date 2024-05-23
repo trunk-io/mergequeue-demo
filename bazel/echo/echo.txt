@@ -7933,7 +7933,6 @@ epilepsies
 epileptical
 epileptically
 epileptiform
-epileptoid
 exotospore
 entomeric
 epilimnial
@@ -8527,6 +8526,7 @@ entrants
 enregiment
 enhemospore
 escarmouche
+epileptoid
 epsomite
 eptatretidae
 electrodissolution
