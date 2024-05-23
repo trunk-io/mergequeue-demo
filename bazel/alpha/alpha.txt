@@ -2140,7 +2140,6 @@ acharnement
 achate
 achatina
 achatinidae
-afterripening
 act
 ache
 acheat
@@ -6695,6 +6694,7 @@ abasio
 aidmen
 adjunctive
 aids
+afterripening
 aiel
 anoraks
 ayenbite
