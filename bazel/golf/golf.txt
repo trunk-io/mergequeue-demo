@@ -4998,7 +4998,6 @@ guttersnipe
 gladiatrix
 gonoph
 gladier
-gladii
 gladiola
 granatite
 gladiolas
@@ -10284,6 +10283,7 @@ geographize
 gasolenes
 guitarlike
 guitars
+gladii
 glassily
 gigsman
 guarantee
