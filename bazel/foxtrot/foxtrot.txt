@@ -3842,7 +3842,6 @@ faintheart
 flankwise
 fract
 fimbria
-foulard
 florigenic
 fimbriae
 formicary
@@ -5821,6 +5820,7 @@ fortunation
 floater
 fierasfer
 fodders
+foulard
 floaty
 floatier
 fulcrums
