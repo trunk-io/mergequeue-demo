@@ -13101,7 +13101,6 @@ cyanogenetic
 cyanogenic
 cyanoguanidine
 cyanohermidin
-cyanol
 cyanole
 cyanometer
 cuneate
@@ -31160,6 +31159,7 @@ cytherella
 corrosive
 cuproiodargyrite
 chalque
+cyanol
 cuproplumbite
 cuproscheelite
 cytoplastic
