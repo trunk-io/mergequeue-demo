@@ -2131,7 +2131,6 @@ facture
 finetop
 fellable
 fanned
-fellah
 falcate
 fessely
 fellahs
@@ -3069,6 +3068,7 @@ fiant
 feat
 fiar
 fractionizing
+fellah
 fascicles
 fumigatory
 fiaroblast
