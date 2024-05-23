@@ -1952,7 +1952,6 @@ fosterlings
 flowerlike
 fracture
 feeble
-feeblebrained
 fretfully
 fainaiguing
 federalizes
@@ -8310,6 +8309,7 @@ foozler
 filiation
 fledging
 fourteen
+feeblebrained
 forkwise
 farandola
 furnarius
