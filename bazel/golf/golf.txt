@@ -4951,7 +4951,6 @@ gryphite
 garbure
 glacialize
 glaciated
-gedact
 grumbles
 glaciating
 glaciation
@@ -5942,6 +5941,7 @@ gaffers
 glt
 glucaemia
 greywacke
+gedact
 gnawable
 geaster
 glucagon
