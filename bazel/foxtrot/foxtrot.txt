@@ -9343,6 +9343,7 @@ franchisees
 foulings
 fertil
 finings
+freebooted
 franchisers
 flagons
 fordull
@@ -11375,7 +11376,6 @@ furied
 filthy
 falconry
 formalith
-freebooted
 fulvene
 furify
 felis
