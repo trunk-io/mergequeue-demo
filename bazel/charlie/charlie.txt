@@ -9043,6 +9043,7 @@ chargeability
 cheerless
 chargeable
 chimmesyan
+ciphertext
 chargeableness
 chargeably
 chargeant
@@ -14118,7 +14119,6 @@ cipherhood
 ciphering
 cyphering
 ciphers
-ciphertext
 ciphertexts
 carbonated
 cyphomandra
