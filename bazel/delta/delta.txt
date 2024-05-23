@@ -182,6 +182,7 @@ dunstable
 daedaloid
 dendroidal
 daemonic
+displacement
 diel
 dynamometer
 dozen
@@ -13135,7 +13136,6 @@ displaceable
 drys
 dilly
 displaced
-displacement
 displacements
 displacing
 display
