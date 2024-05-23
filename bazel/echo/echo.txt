@@ -5289,6 +5289,7 @@ extispices
 endospermic
 endospermous
 endospore
+epithelioceptor
 endosporic
 encharm
 endows
@@ -14135,7 +14136,6 @@ extinction
 excussion
 extruded
 epitaphical
-epithelioceptor
 excretion
 entrails
 examinees
