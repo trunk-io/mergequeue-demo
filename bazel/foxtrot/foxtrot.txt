@@ -4394,6 +4394,7 @@ fub
 fishman
 folic
 fishmonger
+floorward
 fraternizer
 ferociousness
 fluorapatite
@@ -5971,7 +5972,6 @@ fawny
 floorshow
 floorway
 fluidrachm
-floorward
 fictioneering
 floorwise
 fetor
