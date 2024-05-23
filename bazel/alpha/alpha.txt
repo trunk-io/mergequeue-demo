@@ -1281,7 +1281,6 @@ asterochiton
 acanthuthi
 acapnia
 acapnias
-acapsular
 anarchal
 acapu
 acara
@@ -19968,6 +19967,7 @@ aethon
 armhole
 armhoop
 adpao
+acapsular
 adeptest
 army
 armida
