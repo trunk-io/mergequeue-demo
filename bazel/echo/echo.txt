@@ -2882,7 +2882,6 @@ electrophorus
 escalators
 eu
 eleven
-egrid
 elevener
 euscaro
 elevenfold
@@ -4764,6 +4763,7 @@ extense
 esox
 enlimn
 encoil
+egrid
 encolden
 encollar
 euryalean
