@@ -2794,6 +2794,7 @@ festerment
 festers
 flagroot
 footway
+flanges
 festy
 festilogy
 feods
@@ -5375,7 +5376,6 @@ flamines
 fley
 fearers
 frissons
-flanges
 foxed
 flem
 flemer
