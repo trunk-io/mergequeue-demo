@@ -4581,7 +4581,6 @@ advancingly
 advancive
 advantage
 advantaged
-advantageous
 advantageously
 advantageousness
 accus
@@ -9471,6 +9470,7 @@ altaid
 adjustors
 aitesis
 amasty
+advantageous
 altamira
 altar
 altarage
