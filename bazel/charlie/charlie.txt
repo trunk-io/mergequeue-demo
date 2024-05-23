@@ -4904,7 +4904,6 @@ cartaceous
 commutuality
 cartage
 cowherbs
-cartboot
 carte
 carted
 cartel
@@ -18616,6 +18615,7 @@ chiropterous
 coinferred
 coinferring
 coinfers
+cartboot
 coing
 ceroma
 coinhabitor
