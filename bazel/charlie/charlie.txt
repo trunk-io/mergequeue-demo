@@ -22364,7 +22364,6 @@ congregationist
 circumnavigated
 congregations
 congregative
-congregator
 conciser
 congreso
 congress
@@ -23498,6 +23497,7 @@ contends
 contenement
 content
 contentable
+congregator
 contentation
 contented
 contentedly
