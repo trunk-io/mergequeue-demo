@@ -1278,7 +1278,6 @@ biplanal
 balancers
 balander
 balandrana
-bufferrers
 bleaberry
 balangay
 balanidae
@@ -10264,6 +10263,7 @@ bignoniaceae
 blackfishing
 blackfly
 backlogs
+bufferrers
 binghi
 betassel
 bibasic
