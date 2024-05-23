@@ -11232,7 +11232,6 @@ chlamydozoa
 chlamydozoan
 chlamyphore
 chlamyphorus
-chlamys
 chlamyses
 chleuh
 chloanthite
@@ -31254,6 +31253,7 @@ catatonias
 curby
 curbing
 crumblier
+chlamys
 curbings
 curbless
 cotonam

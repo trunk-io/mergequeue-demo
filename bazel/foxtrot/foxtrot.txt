@@ -2783,7 +2783,6 @@ fessed
 foldouts
 foresentence
 federator
-ferules
 fesses
 flaunche
 facetiation
@@ -10233,6 +10232,7 @@ fled
 frize
 fashed
 frized
+ferules
 fan
 flavous
 frizel
