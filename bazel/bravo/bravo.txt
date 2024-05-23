@@ -10602,7 +10602,6 @@ blastoporal
 blastosphere
 blackthorn
 buttonhold
-blastostyle
 blasts
 blad
 badasses
@@ -14678,6 +14677,7 @@ brava
 bravade
 bravado
 bronchophthisis
+blastostyle
 borrichia
 bravadoes
 bumblebeefish
