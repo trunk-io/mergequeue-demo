@@ -28574,7 +28574,6 @@ credos
 credulity
 credulities
 credulous
-credulousness
 cokernut
 cree
 creed
@@ -30126,6 +30125,7 @@ cruciating
 cruciation
 crucible
 crucibulum
+credulousness
 cruciferae
 cruciferous
 crucifers
