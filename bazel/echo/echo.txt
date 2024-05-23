@@ -1117,7 +1117,6 @@ edificatory
 edifice
 edificed
 edifices
-edificing
 edified
 edifiers
 edifying
@@ -5811,6 +5810,7 @@ engreaten
 ethereal
 emphasising
 electrotyping
+edificing
 extrazodiacal
 engross
 engrossedly
