@@ -7539,7 +7539,6 @@ bimarginate
 beknit
 bedgown
 betrayers
-betraying
 broodlet
 betrayment
 bolsheviki
@@ -15511,6 +15510,7 @@ briskets
 breastplough
 biophysically
 babbitt
+betraying
 barbule
 boardable
 brisking
