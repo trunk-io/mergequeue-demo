@@ -15594,6 +15594,7 @@ claroes
 claromontane
 claros
 chemotaxis
+constrainable
 clarre
 clarseach
 clarsech
@@ -31238,7 +31239,6 @@ curatorial
 curatorium
 charkha
 colorbearer
-constrainable
 curators
 curatrices
 carabid
