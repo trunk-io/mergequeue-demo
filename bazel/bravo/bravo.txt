@@ -2355,6 +2355,7 @@ baobab
 bears
 barbican
 bridgemaker
+bistournage
 barbicanage
 bathyscape
 barbicel
@@ -9893,7 +9894,6 @@ bistipulate
 bouchees
 bistort
 bistorts
-bistournage
 besoothes
 bistred
 battleground
