@@ -2755,6 +2755,7 @@ geomorphological
 glasswork
 genetika
 gurgeon
+gathering
 genetoid
 ghettoize
 genetous
@@ -5944,7 +5945,6 @@ gloxinia
 gloxinias
 glozed
 glozes
-gathering
 ginglymoarthrodia
 gaffers
 glt
