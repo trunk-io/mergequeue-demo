@@ -5170,7 +5170,6 @@ dendrologous
 disulphoxide
 dendromecon
 dispurpose
-dendrometer
 dixits
 distrust
 dendron
@@ -6095,6 +6094,7 @@ decry
 dequeues
 der
 deboites
+dendrometer
 deracinate
 deracinating
 devilism
