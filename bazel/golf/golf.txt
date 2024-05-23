@@ -5069,6 +5069,7 @@ gardebras
 gedeckt
 geomaly
 gangway
+geodiatropism
 glairier
 guvacoline
 garaging
@@ -7773,7 +7774,6 @@ groundspeed
 gambias
 gangplank
 graisse
-geodiatropism
 gerately
 grossirete
 guebre
