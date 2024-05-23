@@ -6535,7 +6535,6 @@ agronomical
 agronomist
 agronomists
 aberrate
-anagenetical
 agrope
 agropyron
 agrostemma
@@ -9136,6 +9135,7 @@ alluvious
 alluviums
 assortative
 ametropic
+anagenetical
 alluvivia
 allwhere
 accipitres
