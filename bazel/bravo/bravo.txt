@@ -13945,7 +13945,6 @@ boxthorn
 backstage
 bedlamic
 borghese
-boxthorns
 brooders
 boxty
 boxtop
@@ -15361,6 +15360,7 @@ ballist
 benetted
 bludgeoner
 bifurcations
+boxthorns
 brilliancies
 brilliandeer
 belligerence
