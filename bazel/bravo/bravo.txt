@@ -1570,7 +1570,6 @@ ballets
 ballfield
 ballgame
 ballgames
-ballgowns
 ballhawks
 berley
 ballhooter
@@ -2830,6 +2829,7 @@ barotaxy
 barotaxis
 bitis
 babuls
+ballgowns
 barothermograph
 barothermohygrograph
 baroto
