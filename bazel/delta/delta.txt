@@ -2933,7 +2933,6 @@ devolution
 decuss
 decussate
 dobsonflies
-decussation
 decussatively
 decussoria
 decwriter
@@ -16807,6 +16806,7 @@ drawback
 drawbar
 disconcerting
 drawbars
+decussation
 drawbeam
 drawbench
 dyscrasial
