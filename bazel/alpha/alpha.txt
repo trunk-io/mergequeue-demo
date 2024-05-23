@@ -12993,7 +12993,6 @@ anguinidae
 anguiped
 afterhatch
 anguish
-anguished
 acutes
 anguishes
 adjuvants
@@ -18121,6 +18120,7 @@ approver
 antiempirical
 allothigene
 approvers
+anguished
 approves
 amphidesmous
 approving
