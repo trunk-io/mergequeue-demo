@@ -7256,6 +7256,7 @@ centriscid
 centriscidae
 cacumen
 centrisciform
+cups
 centriscoid
 centriscus
 coservant
@@ -31166,7 +31167,6 @@ chromaticity
 cuprose
 catamaran
 cuprums
-cups
 cupseed
 cornwallis
 cupsful
