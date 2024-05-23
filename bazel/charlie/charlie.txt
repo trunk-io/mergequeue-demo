@@ -2497,6 +2497,7 @@ candleshrift
 candlestand
 cecidiology
 committeewoman
+chinol
 candlestick
 candlesticks
 candlestickward
@@ -13371,7 +13372,6 @@ climbable
 cycloganoidei
 cyclogenesis
 comstock
-chinol
 cyclograph
 cyclographer
 cycloheptane
