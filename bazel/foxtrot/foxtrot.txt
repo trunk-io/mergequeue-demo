@@ -5204,6 +5204,7 @@ formulators
 falda
 flavour
 fencelike
+fossilage
 fallers
 fstore
 flot
@@ -6904,7 +6905,6 @@ fadmonger
 firetower
 faujasite
 folkmoter
-fossilage
 formuliser
 furnaceman
 foudroyant
