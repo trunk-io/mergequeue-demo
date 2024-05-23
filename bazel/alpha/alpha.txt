@@ -1756,6 +1756,7 @@ accumulable
 accumulate
 accumulated
 accumulating
+attains
 accumulation
 accumulativ
 aquatones
@@ -23007,7 +23008,6 @@ attainer
 attainment
 attainments
 attainor
-attains
 antiegoistic
 acridium
 antimicrobial
