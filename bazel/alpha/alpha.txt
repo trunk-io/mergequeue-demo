@@ -3336,7 +3336,6 @@ acus
 atresy
 acustom
 ambassadeur
-antagonized
 acutance
 acutances
 acutate
@@ -7458,6 +7457,7 @@ arabic
 albertist
 albertite
 ancre
+antagonized
 atle
 alberto
 alberttype
