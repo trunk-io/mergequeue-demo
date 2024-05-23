@@ -10644,6 +10644,7 @@ crucifixes
 celebrator
 chillroom
 chills
+coachbuilding
 chillsome
 chillum
 chouka
@@ -17057,7 +17058,6 @@ coachability
 coachbuilder
 chosen
 catechetically
-coachbuilding
 coachee
 coacher
 coaches
