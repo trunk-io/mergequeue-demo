@@ -4253,7 +4253,6 @@ adnexopexy
 adnominal
 adnominally
 adnomination
-arcsin
 arietate
 abduct
 azathioprine
@@ -17201,6 +17200,7 @@ apochromatic
 apochromatism
 ascitic
 apocynaceous
+arcsin
 apocynthion
 apocynthions
 abstractionism

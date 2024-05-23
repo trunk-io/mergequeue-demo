@@ -6243,7 +6243,6 @@ biochemistries
 benders
 biobibliographies
 behusband
-bendy
 bendies
 buskle
 bendingly
@@ -9700,6 +9699,7 @@ biscuitroot
 burnets
 beriberic
 biscuits
+bendy
 bhutia
 bromides
 bumbledom
