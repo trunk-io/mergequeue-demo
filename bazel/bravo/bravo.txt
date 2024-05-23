@@ -641,6 +641,7 @@ bacteriopathology
 burnoose
 bacteriophages
 bacteriophagy
+banquo
 bacteriophagic
 bear
 bande
@@ -2020,7 +2021,6 @@ bundt
 bangtail
 bandlimiting
 bangtails
-banquo
 bangup
 brezhnev
 biotopes
