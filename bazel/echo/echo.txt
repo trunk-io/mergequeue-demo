@@ -4288,7 +4288,6 @@ emulsoidal
 effluxes
 env
 emulsoids
-emunct
 enteropathogenic
 emunctory
 electroencephalographic
@@ -7211,6 +7210,7 @@ extrudability
 eupnoeas
 eatableness
 eyalet
+emunct
 earwitness
 embayment
 enzootics
