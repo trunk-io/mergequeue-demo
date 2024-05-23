@@ -11685,7 +11685,6 @@ cholemia
 cholent
 cholents
 crankbird
-choleokinase
 cholepoietic
 cooks
 choler
@@ -18740,6 +18739,7 @@ colane
 communist
 coisns
 cowlike
+choleokinase
 colas
 colascione
 cucurbital

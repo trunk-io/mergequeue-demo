@@ -6394,6 +6394,7 @@ bands
 bensall
 bensell
 birdnester
+bromine
 bensh
 benshea
 brulzie
@@ -15851,7 +15852,6 @@ brominated
 bisellia
 bromination
 broadband
-bromine
 buzzbomb
 berylate
 bromines
