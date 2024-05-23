@@ -10540,7 +10540,6 @@ blasphemes
 blasphemy
 blasphemies
 blasphemous
-blasphemously
 blasphemousness
 buttonhole
 blastema
@@ -12960,6 +12959,7 @@ breviloquence
 baronetage
 bootmaking
 broos
+blasphemously
 bootman
 boots
 bootstrapped
