@@ -11970,6 +11970,7 @@ beltlines
 boisterousness
 begirdling
 bogfern
+bookrests
 boggard
 blobbiest
 boggart
@@ -12789,7 +12790,6 @@ bookrack
 bookracks
 baronry
 bookrest
-bookrests
 begut
 bookseller
 becloaked
