@@ -2071,7 +2071,6 @@ acetomorphin
 acetomorphine
 acetonaemia
 acetonaemic
-acetonate
 acetonation
 acetone
 acetonemia
@@ -20991,6 +20990,7 @@ ascendancy
 ascendant
 ascendantly
 ascendants
+acetonate
 ascendence
 ascendency
 adeuism
