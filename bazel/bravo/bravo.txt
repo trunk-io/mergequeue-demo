@@ -2695,7 +2695,6 @@ barmcloth
 brither
 barmfel
 becoward
-barmote
 barms
 barn
 barnabas
@@ -6521,6 +6520,7 @@ bollen
 bulldozers
 benzofuran
 benzofuryl
+barmote
 biozone
 belgium
 benzoglycolic
