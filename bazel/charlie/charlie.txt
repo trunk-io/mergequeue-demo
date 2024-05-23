@@ -2833,7 +2833,6 @@ coddled
 canso
 cansos
 congenialize
-canst
 cant
 cantabank
 cantabile
@@ -20094,6 +20093,7 @@ commercial
 commercialisation
 commercialised
 chequerwise
+canst
 commercialism
 coenenchymatous
 commercialist
