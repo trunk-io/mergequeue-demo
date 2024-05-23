@@ -3058,6 +3058,7 @@ escar
 endothelia
 embeds
 emp
+encyclical
 elliot
 educationable
 enlistment
@@ -4502,7 +4503,6 @@ endolithic
 encephalartos
 encephalasthenia
 exurbias
-encyclical
 encephalic
 encephalin
 encephalitic
