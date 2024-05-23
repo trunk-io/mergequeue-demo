@@ -5796,7 +5796,6 @@ diacrisis
 debater
 depolymerization
 depolymerize
-dipneedle
 deadpay
 depolish
 davened
@@ -6667,6 +6666,7 @@ ductings
 drawarm
 dovecots
 deserves
+dipneedle
 deregulates
 deserving
 dioptres
