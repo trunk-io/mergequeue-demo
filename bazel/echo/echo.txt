@@ -2329,7 +2329,6 @@ elasmosaur
 eutectic
 emulsifying
 egba
-erythrophore
 episteme
 electrocoating
 electrocolloidal
@@ -12838,6 +12837,7 @@ exothermically
 elytriform
 exotica
 emendated
+erythrophore
 eisteddfods
 efecks
 exoticism
