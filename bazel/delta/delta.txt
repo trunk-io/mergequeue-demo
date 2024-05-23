@@ -5728,7 +5728,6 @@ depilitant
 deplace
 dedolent
 damayanti
-deplaceable
 deplaned
 deplaning
 deplant
@@ -12071,6 +12070,7 @@ dudishly
 drepanaspis
 disentomb
 disentombment
+deplaceable
 disentrail
 disentrainment
 disentrance
