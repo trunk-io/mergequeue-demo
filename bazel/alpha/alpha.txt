@@ -3272,7 +3272,6 @@ agena
 alstonine
 assident
 actuary
-actuarially
 aphis
 actuarian
 actuaryship
@@ -9281,6 +9280,7 @@ alodian
 alodiary
 alodiaries
 angiolymphoma
+actuarially
 alodies
 alodification
 aissaoua
