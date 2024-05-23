@@ -9558,7 +9558,6 @@ checkerbloom
 checkerboard
 calyciform
 checkerboarded
-checkerboarding
 checkerboards
 checkered
 checkery
@@ -29566,6 +29565,7 @@ critturs
 consular
 crivetz
 crizzel
+checkerboarding
 crizzled
 clerically
 crescent

@@ -1055,7 +1055,6 @@ ghassanid
 glutch
 gnomons
 geophilous
-gres
 glanduliferous
 gully
 gross
@@ -6469,6 +6468,7 @@ gogglebox
 goggler
 ghostlet
 greenwort
+gres
 gastrular
 gunnera
 glomerulitis
