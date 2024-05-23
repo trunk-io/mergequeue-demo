@@ -3136,7 +3136,6 @@ animadvert
 actinomorphic
 amphitrichous
 abdominoanterior
-actinomorphous
 autolytic
 anilinophilous
 abscissions
@@ -14798,6 +14797,7 @@ anaglyptograph
 antiballooner
 antibalm
 antibank
+actinomorphous
 antibaryon
 antibasilican
 antibenzaldoxime
