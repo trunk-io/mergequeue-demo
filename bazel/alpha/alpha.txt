@@ -10624,7 +10624,6 @@ amylogens
 axerophthol
 archoptoma
 amylohydrolysis
-amylohydrolytic
 amyloid
 arawakan
 adossee
@@ -20263,6 +20262,7 @@ arrastra
 arrastre
 acidulation
 arratel
+amylohydrolytic
 arrau
 adoperation
 assiduously
