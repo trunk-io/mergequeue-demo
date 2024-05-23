@@ -5349,7 +5349,6 @@ envolupen
 evocatory
 endotheliomas
 endotheliomata
-encampment
 economically
 esquiline
 empyreum
@@ -9379,6 +9378,7 @@ entoretina
 ethnobotany
 extratheistic
 epitaphize
+encampment
 elytrin
 errors
 errsyn
