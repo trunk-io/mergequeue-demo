@@ -6777,7 +6777,6 @@ footstool
 fustinella
 fingerspin
 foists
-fibs
 fumewort
 formalism
 foresworn
@@ -9667,6 +9666,7 @@ fairness
 flagstaffs
 forte
 freeheartedly
+fibs
 forlet
 fallenness
 feuage
