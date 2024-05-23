@@ -349,7 +349,6 @@ beknot
 backfriend
 borgh
 backfurrow
-birdlimed
 backgame
 bepuzzle
 beamlet
@@ -1079,6 +1078,7 @@ babyhouse
 behowling
 bailors
 bailout
+birdlimed
 bailsmen
 boeotic
 bunder
