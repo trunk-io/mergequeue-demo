@@ -1108,7 +1108,6 @@ edictal
 edictally
 edictum
 edicule
-edify
 echolalia
 edificate
 edification
@@ -3471,6 +3470,7 @@ effulges
 electromechanically
 emblematised
 emblematising
+edify
 erodability
 encarnalising
 earaches
