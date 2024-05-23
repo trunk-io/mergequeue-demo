@@ -6775,7 +6775,6 @@ fingerspin
 foists
 fleece
 fumewort
-formalism
 foresworn
 foiter
 fokker
@@ -9448,6 +9447,7 @@ familiarizes
 fliers
 flowmanostat
 foreteeth
+formalism
 frape
 frappe
 frappes
