@@ -2648,7 +2648,6 @@ barklyite
 barkometer
 bescorch
 barkeepers
-barkpeeling
 butyr
 batrachite
 beheld
@@ -5775,6 +5774,7 @@ beleper
 bicycle
 bathybic
 beleve
+barkpeeling
 blunderheadedness
 bluism
 buna
