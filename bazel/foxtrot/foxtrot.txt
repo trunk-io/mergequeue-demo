@@ -7497,7 +7497,6 @@ false
 foreallot
 flatuses
 fluor
-foreappoint
 fluidification
 fountains
 fogou
@@ -10831,6 +10830,7 @@ fuchsone
 fucinita
 fz
 freesilverite
+foreappoint
 fucus
 fucused
 facepiece
