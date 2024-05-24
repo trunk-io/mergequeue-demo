@@ -6782,7 +6782,6 @@ cerinthian
 celiopyosis
 celiorrhea
 capless
-contangos
 celioscope
 celioscopy
 celiotomy
@@ -15290,6 +15289,7 @@ clags
 candiel
 clay
 claybanks
+contangos
 claiborne
 claibornian
 claybrained

@@ -4646,7 +4646,6 @@ furtherer
 fasciotomy
 fusiformis
 fixup
-fixure
 furs
 fizelyite
 fizgig
@@ -7205,6 +7204,7 @@ footlock
 footlockers
 footlog
 footloose
+fixure
 figurants
 flathe
 formulate
