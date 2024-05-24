@@ -3247,6 +3247,7 @@ defencive
 defend
 disguisable
 defendable
+dikast
 demimondaine
 defendant
 dejeuners
@@ -9658,7 +9659,6 @@ dikaryophyte
 dislevelment
 dikaryophytic
 dikaryotic
-dikast
 dikdik
 discontinuous
 deliquesces
