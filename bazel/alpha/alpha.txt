@@ -7264,7 +7264,6 @@ alabastrites
 alabastrum
 ascenders
 alabastrums
-alablaster
 aethrioscope
 albation
 alacha
@@ -24455,6 +24454,7 @@ autotomizing
 autotomous
 autotoxemia
 autotoxic
+alablaster
 autotoxication
 autotractor
 autotransformer
