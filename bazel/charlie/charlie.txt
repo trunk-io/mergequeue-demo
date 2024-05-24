@@ -2499,7 +2499,6 @@ committeewoman
 chinol
 candlestick
 candlesticks
-candlestickward
 candlewaster
 cambial
 candlewasting
@@ -13526,6 +13525,7 @@ ciconine
 cicoree
 cicorees
 colaphize
+candlestickward
 cicurate
 cicuta
 classifications
