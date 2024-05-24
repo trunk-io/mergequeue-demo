@@ -5844,7 +5844,6 @@ bell
 bonos
 bellacoola
 belladonna
-biltongs
 bellatrix
 bellbind
 buckjump
@@ -18071,6 +18070,7 @@ beforehand
 bacchae
 bifistular
 bradypod
+biltongs
 bustics
 bustier
 bustiest
