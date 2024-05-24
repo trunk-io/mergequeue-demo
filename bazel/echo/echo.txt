@@ -3166,7 +3166,6 @@ else
 elsehow
 electioneers
 elseways
-elsewhen
 exaggerators
 elsewhere
 elsewheres
@@ -5677,6 +5676,7 @@ egoize
 engilding
 empacket
 eulogical
+elsewhen
 engine
 engined
 engineeringly
