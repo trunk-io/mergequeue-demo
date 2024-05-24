@@ -8975,7 +8975,6 @@ characterization
 characterizations
 characterize
 characterizer
-characterizers
 characterizing
 characterless
 characterlessness
@@ -29350,6 +29349,7 @@ cryptophytic
 cryptophthalmos
 cryptopyic
 cryptopine
+characterizers
 cryptopyrrole
 catalogs
 cryptoproselyte
