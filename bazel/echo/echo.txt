@@ -1258,7 +1258,6 @@ eme
 eeyuch
 epit
 equiv
-einkanter
 eel
 eelboat
 epigrammatise
@@ -5308,6 +5307,7 @@ exploitative
 equipments
 excarnate
 enmagazine
+einkanter
 explicators
 endostosis
 endostraca
