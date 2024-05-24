@@ -5861,7 +5861,6 @@ glossolalia
 glossolysis
 guestimating
 glossologist
-glossophaga
 glossopharyngeus
 gettered
 glancer
@@ -6481,6 +6480,7 @@ greenwort
 gres
 gastrular
 gunnera
+glossophaga
 glomerulitis
 goggliest
 goglet
