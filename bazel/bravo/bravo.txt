@@ -14834,7 +14834,6 @@ breakstone
 breakthrough
 breakthroughs
 barchan
-breakwater
 breakweather
 barky
 brachets
@@ -18123,6 +18122,7 @@ brachypnea
 blocklayer
 butcherbird
 bipalium
+breakwater
 benzal
 biovular
 butcherdom
