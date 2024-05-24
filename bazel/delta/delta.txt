@@ -886,7 +886,6 @@ dealers
 decks
 decidual
 dap
-dapedium
 dapedius
 disburdens
 daphne
@@ -6681,6 +6680,7 @@ desesperance
 desexualized
 deludes
 desexualizing
+dapedium
 disapproved
 deshabille
 decharm
