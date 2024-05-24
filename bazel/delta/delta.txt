@@ -6383,7 +6383,6 @@ dermoneural
 drassid
 dacryoadenalgia
 dermoneurosis
-dermoosseous
 decent
 dermopathy
 divorcing
@@ -10223,6 +10222,7 @@ dino
 dislustring
 dinosauria
 dressing
+dermoosseous
 dinothere
 dinotherian
 dinotherium
