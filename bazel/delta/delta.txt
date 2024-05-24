@@ -1174,7 +1174,6 @@ dataflow
 datagram
 datagrams
 doormat
-dewlight
 datakit
 datamation
 datana
@@ -15213,6 +15212,7 @@ dolium
 dec
 dollar
 dureful
+dewlight
 dollardom
 distinguishability
 dollarfishes
