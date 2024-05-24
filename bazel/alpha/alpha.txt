@@ -3607,7 +3607,6 @@ adduces
 adducible
 anthracic
 auriculo
-acari
 ampelideous
 adducted
 adducting
@@ -7604,6 +7603,7 @@ albuminometer
 albuminone
 albuminorrhea
 albuminoscope
+acari
 atlantoaxial
 albuminose
 acanthoma
