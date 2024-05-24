@@ -2215,6 +2215,7 @@ elecives
 electant
 electary
 epithet
+eudiometric
 enthraldom
 erected
 elysee
@@ -7638,7 +7639,6 @@ elixirs
 enhungered
 ew
 epicoracohumeral
-eudiometric
 epicoracoid
 exocrine
 eccentricities
