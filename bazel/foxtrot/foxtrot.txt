@@ -999,7 +999,6 @@ forklifts
 fardel
 foxhound
 fardelet
-fasciated
 farding
 fards
 frontomaxillary
@@ -6004,6 +6003,7 @@ flaxy
 floppier
 floppies
 ferbam
+fasciated
 fumigation
 flora
 floral
