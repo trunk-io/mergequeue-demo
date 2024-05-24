@@ -5632,6 +5632,7 @@ flyblown
 flincher
 flinching
 flinders
+foliage
 fibrine
 foliiform
 frustrater
@@ -10405,7 +10406,6 @@ fronter
 formats
 fowage
 frontierless
-foliage
 fireproofness
 farmyards
 forgivableness
