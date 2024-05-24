@@ -6732,7 +6732,6 @@ celestite
 celestitude
 clivias
 celiac
-configured
 celiadelphus
 carminative
 celialgia
@@ -25067,6 +25066,7 @@ cordite
 cordleaf
 cordlessly
 cordlike
+configured
 cordoba
 cordoban
 cordobas
