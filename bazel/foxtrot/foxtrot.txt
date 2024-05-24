@@ -998,6 +998,7 @@ forklifts
 fardel
 foxhound
 fardelet
+fasciated
 farding
 fards
 frontomaxillary
@@ -1151,7 +1152,6 @@ fibrillary
 filiates
 farthings
 fartlek
-fasciated
 fubs
 fas
 faradising
