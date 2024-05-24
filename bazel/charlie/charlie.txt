@@ -11657,6 +11657,7 @@ culpability
 choledochoduodenostomy
 choledochoenterostomy
 choledocholithiasis
+colpeurysis
 choledocholithotomy
 choledocholithotripsy
 choledochoplasty
@@ -19520,7 +19521,6 @@ colourtype
 colp
 colpenchyma
 colpeo
-colpeurysis
 colpheg
 colpindach
 colpitis
