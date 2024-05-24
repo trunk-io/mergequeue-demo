@@ -4630,7 +4630,6 @@ fixe
 fixed
 foveated
 fennecs
-fixedness
 foreby
 fructescence
 fibroreticulate
@@ -8707,6 +8706,7 @@ fortresses
 furors
 furlane
 flailed
+fixedness
 flymen
 finchery
 fortuitous
