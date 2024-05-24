@@ -4122,6 +4122,7 @@ disfame
 disobeyed
 detonatable
 delictum
+dimanganous
 delictus
 delieret
 despicably
@@ -7122,7 +7123,6 @@ destructions
 decidingly
 discouple
 duroquinone
-dimanganous
 destructivity
 dactylitic
 destructors
