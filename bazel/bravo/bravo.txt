@@ -12474,7 +12474,6 @@ bondager
 bondages
 bless
 bondar
-bonder
 browallia
 bockerel
 barkpeel
@@ -14985,6 +14984,7 @@ bluffed
 bregma
 bregmata
 bregmate
+bonder
 brokenheartedness
 brehonia
 blite
