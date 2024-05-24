@@ -18745,7 +18745,6 @@ arch
 archabomination
 antiarrhythmic
 acutish
-archae
 archaeoceti
 archaeocyathidae
 argillocalcite
@@ -22315,6 +22314,7 @@ astrogation
 advised
 astrogational
 astrogeny
+archae
 antiauthoritarianism
 astrogeology
 astrogeologist
