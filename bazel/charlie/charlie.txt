@@ -70,6 +70,7 @@ corrosion
 creeping
 cabbagy
 cabbaging
+claylike
 cabbala
 cabbalahs
 cabbalas
@@ -15304,7 +15305,6 @@ clayier
 clayiest
 calotermitid
 clayiness
-claylike
 claimant
 cezannesque
 claimants
