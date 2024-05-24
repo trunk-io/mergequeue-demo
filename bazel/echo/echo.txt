@@ -1482,6 +1482,7 @@ empathic
 effused
 enthalpy
 espiegle
+elasmobranchii
 endosmometer
 effusive
 effusively
@@ -3559,7 +3560,6 @@ exponentiations
 enbibe
 embossing
 embossman
-elasmobranchii
 embost
 exembryonate
 embottle
