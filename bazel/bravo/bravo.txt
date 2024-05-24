@@ -9801,7 +9801,6 @@ bysmalith
 biggety
 benzoate
 bismar
-bismarckian
 bismark
 bismer
 bismerpund
@@ -17114,6 +17113,7 @@ bulled
 bullescene
 bullet
 bulleted
+bismarckian
 bequeather
 bullethead
 bulletheadedness
