@@ -6396,7 +6396,6 @@ bennies
 benomyl
 backspread
 benorth
-bands
 bensall
 bensell
 birdnester
@@ -15623,6 +15622,7 @@ broadly
 broadling
 broadlings
 broadloom
+bands
 bonnetmen
 barbering
 battarism
