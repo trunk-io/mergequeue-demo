@@ -12795,7 +12795,6 @@ banderilleros
 booksellers
 bookselling
 bescreened
-bookshelves
 boloney
 bookshop
 bookshops
@@ -13488,6 +13487,7 @@ bolted
 brachydactyl
 bottomried
 bottomrying
+bookshelves
 bottstick
 barrelsful
 bradykinesis
