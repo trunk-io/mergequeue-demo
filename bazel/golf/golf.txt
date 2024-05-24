@@ -4333,7 +4333,6 @@ goalkeepers
 gynaeconitis
 germling
 gaillard
-griffinhood
 griph
 gilts
 gregal
@@ -10517,6 +10516,7 @@ gunfights
 gradgrindism
 gunflint
 gearless
+griffinhood
 geotactic
 gouged
 galenist
