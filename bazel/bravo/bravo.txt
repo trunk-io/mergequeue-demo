@@ -7387,7 +7387,6 @@ beswarmed
 bullom
 besweatered
 beswelter
-beswim
 bethuel
 beswinge
 beswink
@@ -15852,6 +15851,7 @@ brominated
 bisellia
 bromination
 broadband
+beswim
 buzzbomb
 berylate
 bromines
