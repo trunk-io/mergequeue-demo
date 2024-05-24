@@ -11387,7 +11387,6 @@ amplificate
 aftercause
 amplification
 amplificative
-amplificator
 amplificatory
 amplified
 amplifies
@@ -22728,6 +22727,7 @@ atlantosaurus
 atlases
 apropos
 atlaslike
+amplificator
 atlatl
 atlatls
 atloaxoid
