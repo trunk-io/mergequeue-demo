@@ -1584,7 +1584,6 @@ deadweight
 deadwood
 deadwork
 deaerated
-deaeration
 dorsum
 deaf
 dynamogenous
@@ -18382,6 +18381,7 @@ demilune
 duopolist
 duopsony
 demonstrable
+deaeration
 duopsonistic
 duos
 duosecant
