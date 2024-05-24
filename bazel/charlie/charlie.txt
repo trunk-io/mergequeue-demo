@@ -2839,7 +2839,6 @@ clothesmonger
 chalcis
 cantabrian
 cantabrigian
-cantador
 certainties
 cantala
 cantalever
@@ -14790,6 +14789,7 @@ cystopteris
 cystoptosis
 cystopus
 cystoradiography
+cantador
 cistori
 cystosarcoma
 cowbyre
