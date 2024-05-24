@@ -1495,7 +1495,6 @@ faultfind
 fasciculite
 faultfinder
 feuds
-fulminous
 faultful
 flytes
 follyproof
@@ -3408,6 +3407,7 @@ fixative
 flyweights
 fiendhead
 flyblew
+fulminous
 filtre
 fops
 fallibility
