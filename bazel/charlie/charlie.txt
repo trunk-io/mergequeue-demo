@@ -14456,7 +14456,6 @@ circumscribable
 cribbers
 circumscribed
 circumstanced
-circumscriber
 circumscript
 circumscriptions
 circumscriptive
@@ -15717,6 +15716,7 @@ cartographers
 clattered
 clatterer
 crucifier
+circumscriber
 clattery
 courtiery
 clattering
