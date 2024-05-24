@@ -664,7 +664,6 @@ bacteriotherapy
 bales
 bechances
 beletter
-bacteriotoxin
 boracic
 bacteriotrypsin
 bynames
@@ -2339,6 +2338,7 @@ barberfish
 benedictional
 ballooned
 bourdis
+bacteriotoxin
 barbero
 benzoles
 bubaline
