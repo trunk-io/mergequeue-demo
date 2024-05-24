@@ -6534,7 +6534,6 @@ enteralgia
 embiotocoid
 enterate
 enterectomy
-enterectomies
 echelons
 exuviates
 enterer
@@ -13189,6 +13188,7 @@ explicanda
 explicate
 eaglewood
 enterokinesia
+enterectomies
 exult
 equiliria
 explicates
