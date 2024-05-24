@@ -589,7 +589,6 @@ anatomical
 abnormalizing
 abnormalness
 abnormity
-abnormities
 autopathic
 abnormous
 aortosclerosis
@@ -16444,6 +16443,7 @@ antivibratory
 antivirotic
 antivitalist
 antivitalistic
+abnormities
 acuminulate
 allottee
 aldoses
