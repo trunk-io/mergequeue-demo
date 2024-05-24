@@ -4311,6 +4311,7 @@ gyms
 gippers
 gynaeceum
 golet
+gliosa
 gynaecia
 gonidiose
 geisothermal
@@ -5517,7 +5518,6 @@ glioma
 gender
 gamaliel
 glutenin
-gliosa
 granomerite
 glyoxal
 glyoxalic
