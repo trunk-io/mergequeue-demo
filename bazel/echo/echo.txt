@@ -4770,7 +4770,6 @@ equitangential
 encolour
 encolpia
 encolpion
-encolure
 equilibrator
 encomy
 electromer
@@ -11890,6 +11889,7 @@ equilibrating
 eleusinion
 except
 eppes
+encolure
 entomologise
 enunciatively
 epimenidean
