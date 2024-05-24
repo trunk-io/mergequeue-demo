@@ -568,7 +568,6 @@ galvanotaxis
 galleyworm
 geneat
 glimpsed
-gannetry
 galleon
 galleons
 galler
@@ -2034,6 +2033,7 @@ graculus
 gluttons
 gaumish
 gaunch
+gannetry
 girkin
 gangers
 gauntest
