@@ -8151,7 +8151,6 @@ episcenium
 enew
 episcia
 episclera
-episcleral
 episcopacy
 expensilation
 ensanguined
@@ -13155,6 +13154,7 @@ explainer
 explaining
 embalmed
 eductor
+episcleral
 expurgator
 eldred
 estranging
