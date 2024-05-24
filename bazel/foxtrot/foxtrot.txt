@@ -4988,6 +4988,7 @@ flannelette
 flanneling
 flannelleaves
 floc
+forepaw
 flannelmouth
 ferries
 fedelini
@@ -7845,7 +7846,6 @@ foreparts
 forepass
 feedstuffs
 foliously
-forepaw
 forepaws
 foveolets
 fractionisation
