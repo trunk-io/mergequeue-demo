@@ -1256,6 +1256,7 @@ calflike
 calfling
 calfs
 calfskin
+creatural
 calgary
 caliban
 caliber
@@ -28509,7 +28510,6 @@ creatotoxism
 caromed
 creatress
 creatrix
-creatural
 creature
 cetraria
 creaturehood
