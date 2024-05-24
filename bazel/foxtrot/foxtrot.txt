@@ -389,7 +389,6 @@ fogged
 fastigated
 folkland
 fairground
-foredenounce
 fairhead
 fairy
 fairyhood
@@ -8188,6 +8187,7 @@ forfex
 fairyologist
 forficate
 flaskets
+foredenounce
 felines
 forfication
 floroscope
