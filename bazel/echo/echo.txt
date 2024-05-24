@@ -3893,7 +3893,6 @@ emissaria
 endoenteritis
 emissaries
 emissile
-entodermic
 enalid
 epiglottis
 ekoi
@@ -10785,6 +10784,7 @@ evacuate
 eugonic
 entrada
 eugregarinida
+entodermic
 eugubine
 eugubium
 epexegeses
