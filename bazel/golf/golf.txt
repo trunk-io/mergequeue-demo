@@ -4883,6 +4883,7 @@ galactite
 glick
 grovelers
 gytrash
+ganglander
 greenwood
 gadling
 gitter
@@ -6391,7 +6392,6 @@ gobbling
 gobelin
 gobet
 geodic
-ganglander
 goliad
 gobies
 guttula
