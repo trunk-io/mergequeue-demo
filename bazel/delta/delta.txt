@@ -2122,7 +2122,6 @@ decantist
 decaphyllous
 decapitable
 decapitate
-decapitated
 decapitates
 decapitation
 decapitations
@@ -4177,6 +4176,7 @@ dodgasted
 dromedarist
 dankish
 delineator
+decapitated
 delineature
 delineavit
 delinquency
