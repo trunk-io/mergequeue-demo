@@ -1894,7 +1894,6 @@ gastrostomy
 gastrostomies
 gonimolobe
 gatehouses
-gynaecian
 guipures
 gastrotome
 gastrotomic
@@ -8806,6 +8805,7 @@ greisens
 genty
 greyware
 ghana
+gynaecian
 gudgeoned
 gruntle
 gremiale
