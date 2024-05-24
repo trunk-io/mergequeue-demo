@@ -2796,7 +2796,6 @@ footway
 flanges
 festy
 festilogy
-fouling
 focalise
 festilogies
 feddans
@@ -11003,6 +11002,7 @@ fewness
 fumarates
 fumaric
 fumarium
+fouling
 fervescence
 fumaroidal
 fumaroles
