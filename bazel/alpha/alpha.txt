@@ -5617,7 +5617,6 @@ aftercost
 aftercrop
 aftercure
 afterdays
-apokatastatic
 afterdate
 antifoam
 amadou
@@ -13231,6 +13230,7 @@ actionable
 animater
 animaters
 atm
+apokatastatic
 angekok
 animating
 amphibolic
