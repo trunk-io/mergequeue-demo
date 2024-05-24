@@ -17068,7 +17068,6 @@ coacervated
 coacervating
 coacervation
 coach
-coachability
 coachbuilder
 chosen
 catechetically
@@ -18614,6 +18613,7 @@ coincidents
 conjunctural
 coinciding
 coinclination
+coachability
 coincline
 coincorporate
 coindicant
