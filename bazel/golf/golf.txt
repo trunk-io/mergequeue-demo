@@ -1146,7 +1146,6 @@ grenadilla
 gamed
 genitives
 ganister
-glamourie
 gynaecocratic
 groat
 ganja
@@ -10765,6 +10764,7 @@ gruellers
 gutlike
 gynaecomorphous
 glossospasm
+glamourie
 glycyl
 gutt
 guttae
