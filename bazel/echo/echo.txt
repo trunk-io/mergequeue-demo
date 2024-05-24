@@ -5094,7 +5094,6 @@ emergencies
 exposures
 entogenous
 endocrinologist
-embosser
 ecdysones
 eisell
 epispore
@@ -13133,6 +13132,7 @@ exsected
 empressement
 executancy
 enchainment
+embosser
 epiphloedic
 expiscation
 eternals
