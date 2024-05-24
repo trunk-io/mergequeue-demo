@@ -15977,7 +15977,6 @@ chiromance
 cleidomancy
 cleidorrhexis
 chiripa
-cleidoscapular
 cleidosternal
 cleidotripsy
 cleistocarp
@@ -18504,6 +18503,7 @@ cowthwort
 calmer
 cohesible
 cohesion
+cleidoscapular
 cohesively
 cohibit
 cohibition
