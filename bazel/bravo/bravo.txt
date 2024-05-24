@@ -2710,7 +2710,6 @@ barneys
 barnhardtite
 barnyard
 beastings
-barnyards
 barnier
 barillas
 butein
@@ -5852,6 +5851,7 @@ beaverroot
 bellbinder
 bellbine
 bullous
+barnyards
 batekes
 bulak
 bellbird
