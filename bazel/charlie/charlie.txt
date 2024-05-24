@@ -7935,7 +7935,6 @@ cess
 capacitances
 cessant
 cessantly
-cessation
 cessative
 cessavit
 cessed
@@ -18418,6 +18417,7 @@ cognizer
 cognizes
 cognizing
 cognizor
+cessation
 cognomens
 cognominal
 copalms
