@@ -4998,6 +4998,7 @@ apitpat
 aerodonetic
 aerodonetics
 aerodontalgia
+antipedal
 aerodrome
 aerodromes
 acetyltannin
@@ -21862,7 +21863,6 @@ assimilationist
 abede
 assimilator
 assimulate
-antipedal
 assinego
 assiniboin
 assyntite
