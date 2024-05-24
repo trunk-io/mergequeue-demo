@@ -5026,7 +5026,6 @@ aerogeography
 airplaning
 anticommercialness
 aerogeologist
-aerogram
 arricciatos
 aerogramme
 aerograms
@@ -9357,6 +9356,7 @@ alpeen
 alpen
 alpenglow
 alpenstock
+aerogram
 alpenstocker
 alpenstocks
 alpestral
