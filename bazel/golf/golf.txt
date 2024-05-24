@@ -5591,6 +5591,7 @@ glissandi
 gunda
 glissando
 grande
+gaspiness
 ganoids
 gimmer
 germantown
@@ -9160,7 +9161,6 @@ grisons
 grisset
 gariba
 grist
-gaspiness
 grummel
 grister
 greenth
