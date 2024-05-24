@@ -3628,6 +3628,7 @@ adeep
 adelaide
 arpent
 adelantado
+attackable
 adelantados
 adelante
 alidade
@@ -10196,7 +10197,6 @@ ambsaces
 ambulacra
 ambulacriform
 acuation
-attackable
 ambulacrum
 ambulance
 acheilary
