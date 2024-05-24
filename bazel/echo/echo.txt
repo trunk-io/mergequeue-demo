@@ -3991,7 +3991,6 @@ exhilaratory
 empanel
 expoundable
 empaneled
-empaneling
 empanelling
 empanels
 emanant
@@ -11672,6 +11671,7 @@ essenis
 extratensive
 exactor
 exactors
+empaneling
 exactress
 electrophone
 exacuate

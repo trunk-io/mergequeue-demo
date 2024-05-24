@@ -3573,7 +3573,6 @@ dragboat
 defrocks
 defrost
 deboners
-defrosted
 dillis
 dicentra
 dunces
@@ -8226,6 +8225,7 @@ djelab
 diact
 dadding
 diactin
+defrosted
 diactinal
 diactinic
 dacryocystotomy
