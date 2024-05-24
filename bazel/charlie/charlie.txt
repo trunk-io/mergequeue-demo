@@ -5093,7 +5093,6 @@ cascaron
 crosslighted
 cascavel
 casco
-caravanist
 crawlways
 cascrom
 cascrome
@@ -21878,6 +21877,7 @@ claithes
 confabulator
 cassian
 cytopharynges
+caravanist
 confabulatory
 caracul
 confact
