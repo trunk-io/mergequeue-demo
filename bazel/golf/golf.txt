@@ -2681,7 +2681,6 @@ gasthaus
 granodiorite
 goo
 gamodeme
-gorillas
 gene
 grassed
 gareth
@@ -9815,6 +9814,7 @@ geologize
 guiling
 guerickian
 guayule
+gorillas
 gastraea
 groggery
 guajillo

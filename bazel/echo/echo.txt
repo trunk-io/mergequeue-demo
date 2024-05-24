@@ -5324,7 +5324,6 @@ esophagoscope
 englishry
 emarginate
 erogeny
-endothecia
 endothecial
 elaterids
 elateridae
@@ -13994,6 +13993,7 @@ enripen
 extrasomatic
 extraspectral
 extraspinal
+endothecia
 electromotive
 eco
 enthrallingly
