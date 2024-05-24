@@ -455,7 +455,6 @@ anapes
 abysses
 abyssinia
 alexian
-abyssobenthonic
 abyssolith
 aporrhais
 abyssopelagic
@@ -17994,6 +17993,7 @@ appraiser
 amelioratively
 appraises
 appraising
+abyssobenthonic
 abacate
 anabranch
 appraisive
