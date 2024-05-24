@@ -5196,7 +5196,6 @@ busier
 bedewoman
 ballpoints
 beflecks
-beflounce
 birder
 bombshells
 bacony
@@ -15619,6 +15618,7 @@ broadly
 broadling
 broadlings
 broadloom
+beflounce
 bands
 bonnetmen
 barbering
