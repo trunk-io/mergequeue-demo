@@ -5114,7 +5114,6 @@ decolorizer
 delightsome
 dendriform
 dialer
-dendrites
 dendritic
 dendritical
 deal
@@ -12835,6 +12834,7 @@ dismounted
 dismutation
 dryope
 disnatural
+dendrites
 disnaturalization
 dewlaps
 dipyramid
