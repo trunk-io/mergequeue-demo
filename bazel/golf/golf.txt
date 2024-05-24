@@ -809,7 +809,6 @@ gatefold
 galvanopuncture
 goatherd
 galvanoscope
-gulfs
 gibbers
 gummaker
 groupings
@@ -9565,6 +9564,7 @@ guld
 glady
 growlery
 gentian
+gulfs
 growleries
 gowds
 gildhall
