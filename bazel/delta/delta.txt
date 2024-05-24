@@ -4854,6 +4854,7 @@ demographics
 diavolo
 demographist
 divertissement
+detournement
 deux
 dishing
 distemperedness
@@ -7381,7 +7382,6 @@ detour
 duncifying
 detectability
 detouring
-detournement
 dermacentor
 detours
 daric
