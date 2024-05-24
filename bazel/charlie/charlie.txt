@@ -19099,7 +19099,6 @@ chariots
 colliery
 cuber
 colliers
-collies
 colonizer
 colliflower
 colliform
@@ -19399,6 +19398,7 @@ clothing
 colorably
 coloradan
 coloradans
+collies
 colorado
 coloradoite
 colorant
