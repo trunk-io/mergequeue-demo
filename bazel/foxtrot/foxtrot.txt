@@ -2952,6 +2952,7 @@ fruitlet
 floorcloth
 febricide
 feudalism
+foresend
 feudalist
 feudalists
 fractionising
@@ -9532,7 +9533,6 @@ fraudulency
 flexibility
 fraudulent
 fraudulentness
-foresend
 ferreting
 frauen
 fideicommissumissa
