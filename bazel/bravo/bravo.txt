@@ -2912,7 +2912,6 @@ barrelfishes
 batuque
 botanical
 blennometritis
-bur
 bonair
 barrelful
 barothermogram
@@ -7324,6 +7323,7 @@ bestian
 bestiary
 backdating
 brazilians
+bur
 bestiarian
 basename
 bestiarist
