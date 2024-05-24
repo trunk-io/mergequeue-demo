@@ -7212,6 +7212,7 @@ bespecked
 backrun
 bespeckle
 bespeckled
+blindman
 bespectacled
 bogie
 besped
@@ -9359,7 +9360,6 @@ bipeltate
 bipennate
 built
 barometer
-blindman
 bipennated
 bipenniform
 bipetalous

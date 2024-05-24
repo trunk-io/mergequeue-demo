@@ -9236,7 +9236,6 @@ chronobarometer
 chasers
 chases
 chashitsu
-chasid
 chasidim
 chasings
 chasm
@@ -19556,6 +19555,7 @@ cnidogenous
 colter
 colters
 choirboy
+chasid
 colthood
 coltishly
 coltlike
