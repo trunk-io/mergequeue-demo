@@ -2820,7 +2820,6 @@ baroqueness
 blonder
 barmie
 baroreceptor
-baroscopic
 bookends
 body
 barosinusitus
@@ -11205,6 +11204,7 @@ broguing
 bloodnoun
 bloodred
 bump
+baroscopic
 bespit
 bloodroot
 bloodshed
