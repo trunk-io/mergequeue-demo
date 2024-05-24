@@ -12420,7 +12420,6 @@ compares
 coulters
 chromatium
 chromatize
-chromatocyte
 chromatogenous
 chromatogram
 cinchonia
@@ -21440,6 +21439,7 @@ concluded
 concludendi
 concludent
 concludently
+chromatocyte
 concluder
 cymbium
 concluders

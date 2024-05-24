@@ -186,7 +186,6 @@ bhadon
 bacchant
 bargainee
 bacchants
-birders
 bottomland
 baccharis
 beguiling
@@ -11913,6 +11912,7 @@ bonded
 boysenberries
 brows
 bodstick
+birders
 blase
 baalite
 bodword
