@@ -26434,7 +26434,6 @@ crossbones
 coth
 countersmile
 cotham
-cothamore
 cardiant
 cothish
 cerenkov
@@ -29226,6 +29225,7 @@ cryptanalyst
 cryptanalytically
 cryptanalytics
 cryptanalyze
+cothamore
 capybara
 cryptanalyzed
 cryptanalyzing
