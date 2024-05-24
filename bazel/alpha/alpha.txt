@@ -492,7 +492,6 @@ abjunctive
 amphineurous
 anisocoria
 abjurations
-abjuratory
 abjured
 abjurement
 abjurer
@@ -15596,6 +15595,7 @@ aiming
 antimissile
 anywhere
 antimission
+abjuratory
 antimissionary
 antipyretic
 avijja
