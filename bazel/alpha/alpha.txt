@@ -6019,7 +6019,6 @@ agoniatites
 agglomerated
 agglomerates
 agglomeratic
-agglomerating
 agglomeration
 agglomerative
 aramis
@@ -10630,6 +10629,7 @@ adossee
 amyloidoses
 amyloidosis
 anguille
+agglomerating
 amyloleucite
 amylolysis
 arkite
