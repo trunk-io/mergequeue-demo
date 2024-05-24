@@ -2672,7 +2672,6 @@ epithelioma
 electrotellurograph
 exogens
 electrotherapeutical
-electrotherapeutist
 edaphodont
 electrotherapy
 electrotherapist
@@ -12698,6 +12697,7 @@ eudiometer
 elmer
 everbearer
 exonym
+electrotherapeutist
 exopathic
 evocators
 energizing

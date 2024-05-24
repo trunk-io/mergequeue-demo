@@ -5199,7 +5199,6 @@ filippi
 flavorsome
 formulators
 falda
-flavour
 fencelike
 fossilage
 fallers
@@ -6302,6 +6301,7 @@ forbar
 forelands
 follicle
 fluky
+flavour
 flukier
 fishy
 faldistory
