@@ -7373,6 +7373,7 @@ demiadult
 detonate
 detonating
 detonation
+dispendious
 detonations
 detonative
 detonator
@@ -13010,7 +13011,6 @@ dispend
 digitizer
 dinotheres
 devolatilize
-dispendious
 disembower
 dispendiously
 dispenditure
