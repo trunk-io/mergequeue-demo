@@ -5368,7 +5368,6 @@ affirmance
 achaetous
 assisan
 assonantal
-affirmant
 affirmation
 anchoretish
 amidoxime
@@ -12975,6 +12974,7 @@ anguiform
 anguillaria
 abey
 amphitheccia
+affirmant
 archdemon
 anguilliform
 anguilloid
