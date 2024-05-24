@@ -4948,7 +4948,6 @@ cartobibliography
 columbia
 cartogram
 criniger
-cartographers
 comminate
 cartography
 cartographic
@@ -15712,6 +15711,7 @@ clathrose
 camelkeeper
 clathrulate
 clatter
+cartographers
 clattered
 clatterer
 crucifier
