@@ -3802,7 +3802,6 @@ dismortgage
 diurnalness
 dehumanization
 defibrinize
-dehumidify
 diallers
 dehumidified
 dehumidifier
@@ -9466,6 +9465,7 @@ digestively
 digestiveness
 dermad
 domically
+dehumidify
 discountenance
 digestment
 digestor
