@@ -2521,6 +2521,7 @@ bergmannite
 bromins
 bargainable
 billbugs
+bullbat
 bargainer
 bargaining
 beechwoods
@@ -17067,7 +17068,6 @@ bullate
 bullation
 bullback
 bullbaiting
-bullbat
 belduque
 boulterer
 beforetime
