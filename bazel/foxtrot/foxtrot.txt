@@ -1371,7 +1371,6 @@ fluxible
 flinting
 fatherless
 fatherly
-fatherlike
 fathership
 forswore
 flown
@@ -8945,6 +8944,7 @@ fallency
 faddishly
 foundrous
 founds
+fatherlike
 fount
 fountain
 fountaineer
