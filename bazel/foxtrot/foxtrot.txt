@@ -1996,7 +1996,6 @@ feeds
 fern
 feedstock
 feedstuff
-feel
 feeler
 forefeel
 feelers
@@ -4031,6 +4030,7 @@ federatist
 fadelessly
 finish
 falla
+feel
 fletchings
 finishable
 finisher
