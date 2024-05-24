@@ -12331,7 +12331,6 @@ andalusian
 antimoniureted
 amiranha
 andamenta
-andamentos
 andante
 andantini
 allopatric
@@ -22702,6 +22701,7 @@ atypicality
 assemblee
 anthropolithic
 atiptoe
+andamentos
 adreno
 atis
 atlanta
