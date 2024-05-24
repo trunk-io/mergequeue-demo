@@ -7928,7 +7928,6 @@ alefnull
 alefs
 aleft
 alefzero
-alegar
 alehouse
 amor
 aleyard
@@ -19214,6 +19213,7 @@ agritos
 amendable
 aetheogam
 abody
+alegar
 archpresbytery
 archpretender
 archpriest
