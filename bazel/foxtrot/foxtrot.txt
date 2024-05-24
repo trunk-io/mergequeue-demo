@@ -4097,7 +4097,6 @@ featherbrain
 fattable
 finecomb
 fletching
-finnochio
 filiopietistic
 finns
 fino
@@ -6889,6 +6888,7 @@ flickertail
 frizette
 fasnacht
 folklike
+finnochio
 folklores
 folkloric
 folklorists
