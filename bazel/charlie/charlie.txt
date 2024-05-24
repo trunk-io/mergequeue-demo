@@ -3005,6 +3005,7 @@ comatic
 canun
 canvas
 chiasmodon
+croppa
 cycadeous
 canvasado
 canvasbacks
@@ -29776,7 +29777,6 @@ croplands
 cropless
 conjugately
 cropman
-croppa
 cropped
 cropper
 comorado
