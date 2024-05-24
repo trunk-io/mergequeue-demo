@@ -4332,6 +4332,7 @@ fanfish
 fisetin
 focuser
 fibroplastic
+figureheads
 fishability
 fishback
 fishberry
@@ -11371,7 +11372,6 @@ feminism
 furial
 fervorless
 foalhood
-figureheads
 furied
 filthy
 falconry
