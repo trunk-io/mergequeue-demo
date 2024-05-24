@@ -4417,7 +4417,6 @@ fourhanded
 fishspear
 fishtail
 fluffier
-frosting
 fountainwise
 faldage
 fomentation
@@ -9613,6 +9612,7 @@ freckliness
 flighting
 feedboxes
 freckling
+frosting
 findfault
 fortifying
 fullers

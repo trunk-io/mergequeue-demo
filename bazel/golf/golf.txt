@@ -4648,7 +4648,6 @@ grosse
 gyrator
 genocidal
 gyratory
-gyrators
 grademark
 girder
 girdlecake
@@ -9763,6 +9762,7 @@ gribane
 grutched
 grutching
 gastrulae
+gyrators
 gizzen
 gteau
 graybearded
