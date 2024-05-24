@@ -4821,7 +4821,6 @@ graecism
 girted
 girthed
 galactoside
-gradate
 girths
 gladded
 glutin
@@ -6860,6 +6859,7 @@ gaet
 guaraunan
 goniums
 greeshoch
+gradate
 gleaminess
 gestures
 goniunia
