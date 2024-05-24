@@ -918,7 +918,6 @@ gamelang
 gonagia
 gamelans
 gameless
-gentian
 gamelike
 goracco
 gadids
@@ -9567,6 +9566,7 @@ ganoidean
 guld
 glady
 growlery
+gentian
 growleries
 gowds
 gildhall
