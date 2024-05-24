@@ -1088,7 +1088,6 @@ fisc
 farmtown
 floricomous
 farnesol
-faulty
 farnesols
 frotting
 fogas
@@ -3929,6 +3928,7 @@ fined
 fatiguing
 fineish
 fineleaf
+faulty
 fodderless
 fineness
 finery
