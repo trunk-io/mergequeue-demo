@@ -1603,7 +1603,6 @@ electrothermally
 elutriating
 enlivens
 egoism
-egoist
 egoistical
 egoisticalness
 embay
@@ -3349,6 +3348,7 @@ embarcation
 escrod
 embarge
 emphase
+egoist
 entablement
 embargo
 embargoed
