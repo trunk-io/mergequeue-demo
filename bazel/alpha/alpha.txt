@@ -6971,6 +6971,7 @@ airscapes
 airscrews
 antioxygenic
 airshed
+alway
 airsheds
 afterwisdom
 airships
@@ -9746,7 +9747,6 @@ ambidexterous
 alvine
 alvissmal
 alvite
-alway
 astasias
 algific
 always
