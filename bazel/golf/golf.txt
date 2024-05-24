@@ -6277,7 +6277,6 @@ grammaticize
 garters
 gadfly
 garibaldi
-goadlike
 goadsman
 gazetteers
 guarantine
@@ -10864,6 +10863,7 @@ grig
 grozet
 graduation
 graphidiaceae
+goadlike
 gwendolen
 gwine
 goonies
