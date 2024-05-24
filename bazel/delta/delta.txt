@@ -353,7 +353,6 @@ disrupter
 daikon
 densest
 doorboy
-decrystallization
 dailamite
 dayless
 daylight
@@ -15588,6 +15587,7 @@ dooly
 debenzolize
 doombook
 disappearing
+decrystallization
 diarists
 doomed
 devilment
