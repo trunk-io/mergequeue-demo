@@ -5998,6 +5998,7 @@ bells
 belltail
 baresarks
 balloons
+bullom
 belluine
 babylonish
 bluer
@@ -7387,7 +7388,6 @@ bescreens
 besully
 beswarm
 beswarmed
-bullom
 besweatered
 beswelter
 bethuel
