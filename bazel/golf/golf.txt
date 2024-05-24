@@ -2330,6 +2330,7 @@ geoplanidae
 gefulltefish
 gaddis
 galax
+gruiform
 gehlenite
 goblet
 guideway
@@ -7576,7 +7577,6 @@ grabouche
 gluside
 grabs
 glasgow
-gruiform
 garpike
 gynerium
 gilbertite
