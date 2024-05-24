@@ -7389,7 +7389,6 @@ cephalochordate
 cucujidae
 cephaloclast
 cephalocone
-celestial
 cephaloconic
 cephalodia
 cephalodymus
@@ -31659,6 +31658,7 @@ cushionflower
 cushiony
 cushioniness
 cushioning
+celestial
 cushionless
 cushionlike
 cushions
