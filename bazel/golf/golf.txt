@@ -1520,7 +1520,6 @@ gashing
 garrnishable
 gemeinde
 garroo
-garroted
 goldsmithry
 garroter
 garrotes
@@ -2153,6 +2152,7 @@ gawgaw
 grungy
 goldenseal
 gawish
+garroted
 gangboard
 gigging
 gawk
