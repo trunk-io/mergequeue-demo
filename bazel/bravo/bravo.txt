@@ -5212,6 +5212,7 @@ befluster
 befog
 baetylus
 befogging
+bewinter
 beguile
 befogs
 bottoms
@@ -7734,7 +7735,6 @@ bewilderment
 bestink
 bewimple
 bewinged
-bewinter
 bewitched
 bewitchedness
 bewitcher
