@@ -4370,7 +4370,6 @@ beaverkin
 beaverskin
 bassarisk
 beaverteen
-bared
 beaverwood
 beback
 bebay
@@ -12686,6 +12685,7 @@ bedunch
 boodh
 boodled
 battledore
+bared
 braccia
 boodles
 bedizened

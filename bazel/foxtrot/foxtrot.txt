@@ -2986,7 +2986,6 @@ feuilleton
 feuilletons
 fleches
 flapcake
-feulamort
 facier
 flapjack
 formulary
@@ -4371,6 +4370,7 @@ ficelle
 fl
 folkmotes
 fishyard
+feulamort
 farand
 fishified
 furlers
