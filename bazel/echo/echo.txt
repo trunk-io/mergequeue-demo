@@ -6283,6 +6283,7 @@ encirclement
 enrut
 euclidean
 earle
+escharine
 ens
 emmenagogue
 ensafe
@@ -9523,7 +9524,6 @@ eodiscid
 escarps
 escars
 escarteled
-escharine
 escharotic
 enamel
 elegiacal
