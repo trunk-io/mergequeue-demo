@@ -3416,6 +3416,7 @@ bobbishly
 bassie
 betsey
 bassinet
+boatheader
 beglic
 basson
 backwater
@@ -11667,7 +11668,6 @@ byres
 brutality
 boatbuilding
 boatel
-boatheader
 boathook
 boathouse
 boatyard

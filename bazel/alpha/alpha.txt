@@ -6879,6 +6879,7 @@ airdock
 airdrome
 airdromes
 airdrop
+amiga
 alanyls
 airdropping
 airdrops
@@ -10569,7 +10570,6 @@ amyelotrophy
 amyelous
 aposematically
 androgynous
-amiga
 amygdal
 amygdala
 amygdalaceous
