@@ -12086,7 +12086,6 @@ chorographer
 chorographical
 criticizable
 chorographically
-choroid
 choroiditis
 choroidocyclitis
 choroidoiritis
@@ -18880,6 +18879,7 @@ coarcted
 colymbion
 colymbriformes
 colymbus
+choroid
 chaines
 colinear
 cantalas
