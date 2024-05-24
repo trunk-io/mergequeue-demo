@@ -6845,7 +6845,6 @@ cathro
 correctly
 cellules
 cellulicidal
-commences
 cellulifugal
 crevasse
 cellulin
@@ -11440,6 +11439,7 @@ chloroplastic
 chloroplastid
 chloroplasts
 coenamorment
+commences
 chloroplatinite
 chloroplatinous
 chloroprene
