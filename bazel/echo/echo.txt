@@ -588,7 +588,6 @@ endemic
 echogram
 endophyllaceae
 enmanche
-echoic
 echoing
 everard
 encyclopaedias
@@ -11653,6 +11652,7 @@ expectedly
 electrohydraulic
 eleusinian
 endopolyploid
+echoic
 exactness
 essenis
 extratensive
