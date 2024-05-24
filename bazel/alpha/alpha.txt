@@ -1203,7 +1203,6 @@ acajous
 axonopus
 acaleph
 antiparliamentarist
-acalepha
 acalephae
 acalephe
 acalephoid
@@ -4959,6 +4958,7 @@ aerobioscope
 aerobiosis
 aerobiotic
 aerobious
+acalepha
 aeroboat
 aerobranchia
 aerobranchiate
