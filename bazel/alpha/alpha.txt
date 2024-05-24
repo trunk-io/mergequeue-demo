@@ -3850,7 +3850,6 @@ adiabat
 assistency
 antecedal
 adiadochokinesis
-adiadokokinesi
 adiadokokinesia
 archived
 adiagnostic
@@ -5465,6 +5464,7 @@ affranchise
 affranchisement
 affreight
 affreightment
+adiadokokinesi
 ado
 affret
 affreux
