@@ -9478,7 +9478,6 @@ flowerist
 frater
 frateries
 fells
-fylgja
 fraternality
 faultlessness
 filum
@@ -11642,6 +11641,7 @@ frolicsomely
 fibrous
 ficoes
 foggily
+fylgja
 funestal
 forehew
 fustigating
