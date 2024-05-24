@@ -1687,7 +1687,6 @@ gasterolichenes
 gasteromycetes
 glottic
 gasteromycetous
-glottis
 gasteropoda
 gordolobo
 gummy
@@ -9903,6 +9902,7 @@ guaranteer
 gaisling
 guaranteers
 geomedical
+glottis
 genevese
 gangplow
 gravestones
