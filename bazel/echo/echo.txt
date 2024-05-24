@@ -2200,7 +2200,6 @@ exterminating
 elderwort
 eldest
 eldin
-eldmother
 eventuate
 eldrich
 eldritch
@@ -8834,6 +8833,7 @@ erasers
 eventuations
 exallotriote
 erasion
+eldmother
 elod
 extrasacerdotal
 ensellure
