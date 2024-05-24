@@ -8014,7 +8014,6 @@ gladioli
 granitiform
 granitite
 granitization
-gyrofrequency
 granitizing
 grumbly
 greeny
@@ -10398,6 +10397,7 @@ griskins
 gangliocyte
 gangmaster
 gulls
+gyrofrequency
 gigot
 gamotropic
 gossipingly
