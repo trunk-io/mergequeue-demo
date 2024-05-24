@@ -2602,6 +2602,7 @@ gossaniferous
 geranomorphic
 gendarmery
 geobotanical
+glottologist
 gendarmerie
 gnawings
 guided
@@ -5913,7 +5914,6 @@ guttide
 glottologic
 griffinesque
 glottological
-glottologist
 goniometer
 greyfly
 glout
