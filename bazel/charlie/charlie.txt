@@ -29346,7 +29346,6 @@ cryptophyte
 cryptophytic
 cryptophthalmos
 cryptopyic
-cryptopin
 cryptopine
 cryptopyrrole
 cryptoporticus
@@ -29823,6 +29822,7 @@ cross
 crossability
 circummeridian
 crossable
+cryptopin
 crossarms
 calculate
 crossband
