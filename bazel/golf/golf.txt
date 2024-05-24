@@ -9023,7 +9023,6 @@ gainstand
 grimsire
 grin
 galga
-gable
 germination
 galactidrosis
 grinch
@@ -9702,6 +9701,7 @@ glossaries
 guying
 grummels
 grummet
+gable
 genuflector
 grumness
 gambir
