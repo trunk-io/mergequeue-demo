@@ -6648,7 +6648,6 @@ bepuffed
 brandi
 bungaloid
 bequalm
-bequeath
 bequeathal
 bequeathed
 bruges
@@ -10482,6 +10481,7 @@ blankets
 brigue
 blanky
 backflash
+bequeath
 blanking
 beedged
 blankish
