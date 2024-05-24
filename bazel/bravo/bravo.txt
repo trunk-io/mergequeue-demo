@@ -8921,7 +8921,6 @@ bestowage
 binaural
 bind
 binbashi
-bardane
 binderies
 behav
 biddie
@@ -12601,6 +12600,7 @@ beauing
 bonitarian
 bonity
 bullhide
+bardane
 bonk
 bonking
 bagpiping
