@@ -6365,7 +6365,6 @@ electroplaque
 entranceway
 ensignry
 eviscerate
-ensilaged
 ensilages
 episcopal
 ensilation
@@ -13037,6 +13036,7 @@ encephala
 experient
 embedding
 eveners
+ensilaged
 epistolographic
 experientialism
 experientialistic
