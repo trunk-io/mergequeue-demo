@@ -5026,6 +5026,7 @@ beennut
 beent
 bonework
 beeped
+burgware
 battak
 blesse
 bunt
@@ -17657,7 +17658,6 @@ burgraviate
 burgs
 burgundy
 bradycardic
-burgware
 brothier
 burh
 bronchopneumonic
