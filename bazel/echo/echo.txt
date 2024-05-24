@@ -5801,7 +5801,6 @@ engravement
 evermore
 engraver
 entree
-engraves
 easts
 engysseismology
 endophytous
@@ -12797,6 +12796,7 @@ enhydris
 exostosis
 exostotic
 exostra
+engraves
 exostrae
 exoteric
 exoterica
