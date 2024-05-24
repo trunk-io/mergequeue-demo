@@ -3546,6 +3546,7 @@ elms
 emboltement
 embordered
 embordering
+equoid
 epidesmine
 emboscata
 embosked
@@ -9316,7 +9317,6 @@ elijah
 erotopath
 erotopathic
 entrant
-equoid
 electrocorticogram
 extirpate
 ephebeia
