@@ -7221,7 +7221,6 @@ footpath
 footpaths
 forewarner
 fatidic
-fetial
 fogs
 forepeak
 fleetings
@@ -9002,6 +9001,7 @@ fourrageres
 flixweed
 fourrier
 furnisher
+fetial
 flagellates
 fourscore
 fourscorth
