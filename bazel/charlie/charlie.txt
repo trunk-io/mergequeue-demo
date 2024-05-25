@@ -3457,6 +3457,7 @@ capsular
 capsulated
 capsulation
 capsule
+ceride
 collegatary
 chawbone
 capsulectomy
@@ -7722,7 +7723,6 @@ cerianthoid
 calculable
 cerianthus
 cerias
-ceride
 cerillo
 ceriman
 cerimans
