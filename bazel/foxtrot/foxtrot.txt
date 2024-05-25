@@ -1179,7 +1179,6 @@ factionaries
 featherbone
 florulas
 fantasize
-fasciculate
 floridly
 feroher
 fasciculi
@@ -8448,6 +8447,7 @@ formic
 formica
 formicariae
 formicarioid
+fasciculate
 formicate
 felichthys
 franchiser
