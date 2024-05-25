@@ -198,7 +198,6 @@ deforesting
 dealfish
 daemonistic
 daemons
-daemonurgy
 droitural
 daemonurgist
 dishallucination
@@ -2781,6 +2780,7 @@ dammars
 decorousness
 defeaters
 decorticated
+daemonurgy
 disembrace
 decortication
 dematerialization
