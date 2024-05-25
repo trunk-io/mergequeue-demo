@@ -11661,6 +11661,7 @@ choledocholithotripsy
 choledochoplasty
 choledochorrhaphy
 choledochostomy
+counteractor
 cace
 choledochostomies
 choledochotomy
@@ -18865,7 +18866,6 @@ corvisor
 colicolitis
 colicroot
 colics
-counteractor
 colicwort
 colies
 cocinero
