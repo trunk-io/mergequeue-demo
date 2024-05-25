@@ -15926,7 +15926,6 @@ babyship
 bronchiogenic
 bronchiolar
 bronchioli
-bronchiolitis
 bronchiospasm
 bronchiostenosis
 bronchitic
@@ -18228,6 +18227,7 @@ butterfat
 butterfingered
 butterfingers
 bourran
+bronchiolitis
 butterfish
 bismanol
 butterfishes
