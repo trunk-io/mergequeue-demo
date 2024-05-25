@@ -3997,7 +3997,6 @@ apieces
 adjourn
 adjournal
 arylamino
-adjourned
 adjourning
 adjourns
 adjoust
@@ -11563,6 +11562,7 @@ anacalypsis
 anacampsis
 asteraceae
 anacamptic
+adjourned
 attame
 anacamptically
 archhead
