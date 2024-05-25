@@ -4440,7 +4440,6 @@ elaboratory
 everest
 encapsulation
 emitted
-encapsule
 encapsuled
 estimators
 encapsules
@@ -8909,6 +8908,7 @@ eremology
 excrescencies
 ecospecifically
 exponential
+encapsule
 eremophilous
 eremuri
 exteroceptist
