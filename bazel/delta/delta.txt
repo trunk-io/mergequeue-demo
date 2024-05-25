@@ -4121,7 +4121,6 @@ disobeyed
 detonatable
 delictum
 dimanganous
-delictus
 delieret
 despicably
 divaricate
@@ -6009,6 +6008,7 @@ deprovincialize
 debord
 depsid
 dragons
+delictus
 deed
 depsides
 dept
