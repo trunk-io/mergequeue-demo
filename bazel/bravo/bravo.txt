@@ -2616,7 +2616,6 @@ barkan
 barocco
 bizarrely
 barkary
-brighter
 barkbound
 barkcutter
 benzalhydrazine
@@ -9368,6 +9367,7 @@ bipinnated
 bipinnatipartite
 bipinnatisect
 bipinnatisected
+brighter
 bowtie
 bipyramid
 bipyridyl
