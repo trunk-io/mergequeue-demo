@@ -3656,7 +3656,6 @@ embryographic
 everse
 emoted
 embryoism
-epithelioglandular
 epigonousepigons
 embryological
 endocoeliac
@@ -9510,6 +9509,7 @@ entoplastral
 escarp
 escarping
 escarpment
+epithelioglandular
 epipodium
 escarpments
 eodiscid
