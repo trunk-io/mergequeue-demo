@@ -6545,6 +6545,7 @@ flutist
 fibrilations
 flutter
 flutterable
+facultative
 flutterboard
 fluttered
 furnacer
@@ -7326,7 +7327,6 @@ fulcrum
 fullnesses
 fleshlessness
 fasciolar
-facultative
 feathered
 fiscalify
 farer
