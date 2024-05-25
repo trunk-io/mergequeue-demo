@@ -4816,7 +4816,6 @@ gastroplenic
 gesticulating
 gyrotheca
 girouette
-guessed
 girouettes
 gestes
 gyrous
@@ -5025,6 +5024,7 @@ glabreity
 gaff
 gladiatorship
 guttersnipe
+guessed
 gladiatrix
 gonoph
 gladier

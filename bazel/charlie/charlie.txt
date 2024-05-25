@@ -4197,6 +4197,7 @@ cardol
 cardon
 cardona
 cardoncillo
+cerotype
 cardoon
 cardoons
 cardophagus
@@ -28990,7 +28991,6 @@ cries
 cryesthesia
 crig
 crying
-cerotype
 cubism
 crile
 crim
