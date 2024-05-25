@@ -6550,7 +6550,6 @@ degradedness
 dichlorhydrin
 dactyliomancy
 diffugient
-describable
 described
 dolous
 daunomycin
@@ -13933,6 +13932,7 @@ dacryadenalgia
 discohexaster
 disenter
 distoclusion
+describable
 distomatosis
 daubreelite
 distomatous
