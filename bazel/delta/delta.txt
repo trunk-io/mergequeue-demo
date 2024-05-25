@@ -14620,7 +14620,6 @@ dk
 dkg
 dkl
 deadener
-dullness
 dkm
 decasemic
 decagramme
@@ -16966,6 +16965,7 @@ drearly
 drearness
 dreche
 drecks
+dullness
 downcurve
 dredgeful
 decomplex
