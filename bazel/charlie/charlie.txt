@@ -8770,7 +8770,6 @@ chansonnette
 chansonniers
 chant
 chera
-chantecler
 chantey
 chanteyman
 chantepleure
@@ -12666,6 +12665,7 @@ circularize
 chronological
 chronologies
 chronologist
+chantecler
 cercle
 chronologizing
 chronomancy
