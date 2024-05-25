@@ -5479,6 +5479,7 @@ bels
 beguilement
 biunial
 beguilements
+biferous
 beguiler
 breakdown
 beguilingly
@@ -10756,7 +10757,6 @@ bled
 blee
 bleed
 bleeders
-biferous
 bleekbok
 barretries
 bleeped
