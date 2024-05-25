@@ -1036,7 +1036,6 @@ barmecidal
 bitterbush
 baikie
 bail
-blindages
 bailable
 bayldonite
 baile
@@ -11216,6 +11215,7 @@ bloodtest
 bloodthirster
 bloodthirstiness
 bloodweed
+blindages
 burgomaster
 bloodwite
 bloodwood
