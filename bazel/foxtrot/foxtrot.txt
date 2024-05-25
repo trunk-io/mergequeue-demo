@@ -260,7 +260,6 @@ fustee
 foxtrot
 foetors
 fadeout
-fader
 faders
 fadge
 furfuramide
@@ -5518,6 +5517,7 @@ flatulences
 favourite
 furciferous
 firefight
+fader
 flycatcher
 flycatchers
 flicflac
