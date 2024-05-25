@@ -2962,6 +2962,7 @@ formularism
 frustums
 farfetch
 filamented
+frizzling
 feuillage
 furcation
 flyoff
@@ -8498,7 +8499,6 @@ formulae
 fard
 fulgid
 foggy
-frizzling
 formularised
 formularising
 flapped
