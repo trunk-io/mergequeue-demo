@@ -7130,7 +7130,6 @@ duchesslike
 desulfur
 dudeen
 desulfurated
-desulfuration
 desulfuring
 desulfurisation
 desulfurise
@@ -12124,6 +12123,7 @@ disexcommunicate
 deprecation
 dramaturgy
 disturbant
+desulfuration
 discubitory
 disexercise
 disfaith
