@@ -4769,7 +4769,6 @@ abigeus
 adversed
 aedeagi
 aedeagus
-aedegi
 aedicula
 aediculae
 aedicule
@@ -20648,6 +20647,7 @@ anesthetists
 azrael
 arthrogryposis
 arthrolith
+aedegi
 arthromere
 arthromeric
 arthrometer
