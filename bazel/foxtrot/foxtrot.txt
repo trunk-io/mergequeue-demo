@@ -7049,7 +7049,6 @@ flowk
 foodstuff
 flacked
 fiddlewood
-fooyung
 fool
 forsado
 faille
@@ -10589,6 +10588,7 @@ farasula
 falding
 foreland
 forestep
+fooyung
 frsikets
 frt
 foughty
