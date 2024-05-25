@@ -8830,7 +8830,6 @@ chaparro
 chapati
 chilindre
 chapatti
-chapatty
 chapatties
 chapattis
 connectant
@@ -9608,6 +9607,7 @@ consummatively
 checkrows
 checks
 checkstrap
+chapatty
 checkstring
 checksum
 construct
