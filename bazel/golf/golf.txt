@@ -803,7 +803,6 @@ galvanometers
 galvanometric
 geometries
 goumi
-gnathal
 gregg
 genae
 galvanoplasty
@@ -2794,6 +2793,7 @@ guaican
 goggled
 greasebush
 genic
+gnathal
 genically
 geniculate
 grayly
