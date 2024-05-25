@@ -12783,6 +12783,7 @@ barwise
 beefsteaks
 bookpress
 bookracks
+blacklegging
 baronry
 bookrest
 begut
@@ -15400,7 +15401,6 @@ brindlish
 bryndza
 brine
 bleaters
-blacklegging
 brined
 brinehouse
 brineless
