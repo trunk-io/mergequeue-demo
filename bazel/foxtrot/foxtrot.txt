@@ -4342,6 +4342,7 @@ fishery
 fractionalization
 florentium
 fraus
+fealties
 fisherman
 feedhead
 fisherwoman
@@ -5289,7 +5290,6 @@ flatland
 ferulaic
 faverel
 fleaweed
-fealties
 frizzes
 foredetermine
 flunkyistic
