@@ -513,7 +513,6 @@ fresher
 funambulant
 folium
 falcons
-falcopern
 folkboat
 falculate
 falcunculus
@@ -9310,6 +9309,7 @@ fraktur
 framboise
 fasciolet
 forgeries
+falcopern
 fetiales
 framable
 fruity
