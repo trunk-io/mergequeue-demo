@@ -2864,7 +2864,6 @@ fenestration
 filanders
 farmsteads
 fetching
-feterita
 foxproof
 fetes
 florizine
@@ -3686,6 +3685,7 @@ flippancies
 flawier
 filigraned
 furnage
+feterita
 freeboots
 feculae
 ferruginean
