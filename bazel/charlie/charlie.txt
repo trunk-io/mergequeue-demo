@@ -9960,6 +9960,7 @@ cancers
 chemosterilants
 chemosurgery
 chemotactic
+cresylene
 chemotactically
 choochoo
 chemotaxy
@@ -28797,7 +28798,6 @@ cresegol
 chironomy
 cresyl
 cresylate
-cresylene
 cresylic
 cresylite
 cresyls
