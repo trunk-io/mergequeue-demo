@@ -8238,7 +8238,6 @@ bidden
 biddery
 boondocks
 bookkeepers
-bg
 bidders
 becarpet
 bobotee
@@ -15587,6 +15586,7 @@ baulkiest
 bittersweet
 broaches
 broaching
+bg
 bulkheads
 broadaxes
 burred
