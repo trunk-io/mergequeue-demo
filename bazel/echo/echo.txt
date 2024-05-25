@@ -129,7 +129,6 @@ endosarcs
 exterminable
 evolate
 erosionist
-eff
 empty
 endocortex
 enderonic
@@ -1600,6 +1599,7 @@ exolete
 entires
 enumerator
 eucaines
+eff
 exoticity
 electrothermally
 elutriating
