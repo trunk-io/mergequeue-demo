@@ -3036,7 +3036,6 @@ archenteron
 actinides
 actinidia
 aristarchy
-aphidicolous
 actinidiaceae
 annualist
 actiniferous
@@ -13206,6 +13205,7 @@ animalier
 animalillio
 arracacia
 adenostemonous
+aphidicolous
 androgametangium
 animalisation
 animalise
