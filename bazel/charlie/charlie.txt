@@ -9950,6 +9950,7 @@ chemosensitive
 chemosensitivities
 chemoserotherapy
 chemoses
+conformate
 chemosynthesis
 chemosynthetic
 chemosis
@@ -22140,7 +22141,6 @@ cloyne
 catabolic
 conformant
 cataclasmic
-conformate
 conformationally
 crwths
 couvert
