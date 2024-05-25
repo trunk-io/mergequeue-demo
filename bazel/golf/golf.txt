@@ -5548,7 +5548,6 @@ glyphs
 galore
 gharris
 greenness
-gibli
 gunl
 glyptodon
 glyptodont
@@ -10799,6 +10798,7 @@ guttiferae
 groundsel
 ganglioneuron
 gassy
+gibli
 guttiform
 gutting
 gadabout

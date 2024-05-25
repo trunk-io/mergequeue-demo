@@ -6659,7 +6659,6 @@ distinctor
 ductings
 drawarm
 dovecots
-deserves
 dipneedle
 deregulates
 deserving
@@ -16693,6 +16692,7 @@ drainspout
 deponer
 dedifferentiate
 draintile
+deserves
 debouchure
 draisine
 detach
