@@ -7285,6 +7285,7 @@ airfreighter
 alada
 aladdin
 arrivisme
+async
 aladdinize
 adonic
 alagao
@@ -21325,7 +21326,6 @@ asymtotically
 angeyok
 asynartete
 actinocarpous
-async
 asynchrony
 asynchronism
 asynchronisms
