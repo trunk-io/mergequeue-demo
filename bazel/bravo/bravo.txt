@@ -2974,7 +2974,6 @@ barristerial
 barristress
 barroom
 barruly
-bars
 bedumb
 barsac
 backhatch
@@ -5505,6 +5504,7 @@ behaving
 boater
 behavior
 bathylimnetic
+bars
 behaviored
 behavioristically
 bicolour
