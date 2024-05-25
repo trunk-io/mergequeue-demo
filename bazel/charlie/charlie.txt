@@ -3458,7 +3458,6 @@ capstone
 commons
 capsula
 cons
-coached
 capsular
 capsulated
 capsulation
@@ -12745,6 +12744,7 @@ chuckle
 chuckled
 chucklehead
 chuckleheaded
+coached
 chuckleheadedness
 chuckler
 cottier
