@@ -6526,6 +6526,7 @@ dilemi
 descent
 dekameter
 descents
+durables
 drawnet
 disconcerted
 diffracting
@@ -11486,7 +11487,6 @@ discomfiter
 discomfits
 discomfort
 dynasticism
-durables
 drub
 discomfortable
 defrosters
