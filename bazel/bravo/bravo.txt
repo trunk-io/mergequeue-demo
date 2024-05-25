@@ -10320,6 +10320,7 @@ blacksmith
 biborate
 blacksmithing
 beastdom
+botargo
 beets
 benevolist
 bocaccio
@@ -13330,7 +13331,6 @@ balsamed
 bemat
 bradburya
 botanophilist
-botargo
 botargos
 botaurus
 bunkered
