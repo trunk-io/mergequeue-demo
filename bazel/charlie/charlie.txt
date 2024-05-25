@@ -10742,7 +10742,6 @@ chimneyless
 chimneylike
 chimneyman
 chimneypiece
-chimonanthus
 chimopelagic
 chymotrypsin
 chymotrypsinogen
@@ -14236,6 +14235,7 @@ circuit
 circuitable
 circuital
 circuited
+chimonanthus
 circuiteer
 circuiter
 clyer
