@@ -2230,7 +2230,6 @@ electioneer
 elaphurine
 ethylamin
 elections
-elective
 electives
 engram
 elector
@@ -6687,6 +6686,7 @@ ency
 enterprised
 exploitations
 enterprize
+elective
 eulogiser
 expansibleness
 enters
