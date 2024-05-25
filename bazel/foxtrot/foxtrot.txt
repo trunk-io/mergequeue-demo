@@ -5576,7 +5576,6 @@ flights
 fannier
 fructuose
 flyings
-furcilia
 flyless
 fuddle
 firebrands
@@ -9579,6 +9578,7 @@ fastened
 fiador
 freeman
 felicify
+furcilia
 flitches
 freaks
 forested
