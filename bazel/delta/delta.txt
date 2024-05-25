@@ -3501,7 +3501,6 @@ defoedation
 deticking
 defog
 defogged
-dehortatory
 disyllable
 defoggers
 deluder
@@ -6698,6 +6697,7 @@ desideration
 desiderative
 dorine
 darnex
+dehortatory
 desideratum
 demarch
 diatribes
