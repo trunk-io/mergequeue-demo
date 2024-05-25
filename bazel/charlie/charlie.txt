@@ -3750,7 +3750,6 @@ coplanation
 conficient
 carbineer
 carbines
-carbinyl
 carbinol
 carbinols
 chromophilia
@@ -9069,6 +9068,7 @@ chariness
 charing
 coatracks
 celadons
+carbinyl
 chariot
 charioteer
 continuo
