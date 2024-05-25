@@ -1867,7 +1867,6 @@ betula
 bandelet
 bandelette
 bandeng
-banderlog
 banderma
 banderol
 banderole
@@ -9276,6 +9275,7 @@ biosterol
 beefburger
 biota
 barotropy
+banderlog
 biotechnological
 bianchi
 basilemma
