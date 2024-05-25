@@ -4920,7 +4920,6 @@ glossematics
 gagroot
 gyves
 givingness
-gwely
 gizmos
 gizz
 gorgoniaceous
@@ -6914,6 +6913,7 @@ gobonee
 gonosphere
 gymnasiarch
 gorbal
+gwely
 globosities
 gymsia
 gonothecal
