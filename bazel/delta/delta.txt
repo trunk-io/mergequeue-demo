@@ -6343,7 +6343,6 @@ dermenchysis
 dermestid
 disseminating
 dermestidae
-dynodes
 dermic
 digitise
 dermis
@@ -14426,6 +14425,7 @@ dodgeries
 decolonised
 dewfalls
 decontaminate
+dynodes
 divided
 dividend
 dividends
