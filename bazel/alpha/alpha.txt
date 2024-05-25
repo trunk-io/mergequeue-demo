@@ -5709,6 +5709,7 @@ aftertask
 aftertaste
 aftertastes
 ancestress
+asherahs
 achromatium
 afterthought
 afterthoughts
@@ -8451,7 +8452,6 @@ azan
 aliturgic
 attribution
 atrienses
-asherahs
 aliturgical
 aliunde
 asternia
