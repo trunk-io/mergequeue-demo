@@ -2031,7 +2031,6 @@ campagus
 campaign
 clotheshorses
 campaigners
-campaigning
 campaigns
 campana
 campane
@@ -24158,6 +24157,7 @@ conversing
 conversion
 coraled
 conversionary
+campaigning
 conversionism
 chirping
 conversions
