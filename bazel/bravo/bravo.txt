@@ -2772,7 +2772,6 @@ bookit
 burmannia
 baroneting
 baronetise
-baronetising
 baronetize
 baronetized
 baronets
@@ -6219,6 +6218,7 @@ benchmarks
 benchmen
 betulaceae
 balneologic
+baronetising
 barricader
 bend
 benday
