@@ -4914,7 +4914,6 @@ bedung
 batel
 bedur
 bedway
-battuto
 bedways
 bromargyrite
 bindings
@@ -10105,6 +10104,7 @@ bivvy
 byway
 bushranger
 bywalk
+battuto
 bywalking
 biweeklies
 backslidden
