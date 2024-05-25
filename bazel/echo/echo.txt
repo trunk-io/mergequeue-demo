@@ -4960,6 +4960,7 @@ ethicalness
 endemicity
 electrofused
 endemism
+eco
 endemisms
 echeloned
 estates
@@ -13998,7 +13999,6 @@ extraspectral
 extraspinal
 endothecia
 electromotive
-eco
 enthrallingly
 enteroclisis
 expositoriness
