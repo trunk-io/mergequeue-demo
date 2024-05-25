@@ -2063,7 +2063,6 @@ garnishments
 gallamine
 gymnocarpic
 gauntness
-garland
 gelations
 gaup
 gas
@@ -5174,6 +5173,7 @@ glassfish
 guitermanite
 gouvernante
 gularis
+garland
 geraniaceae
 glassful
 grub
