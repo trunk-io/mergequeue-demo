@@ -5101,7 +5101,6 @@ epispore
 endocrinopathic
 eruca
 endoderm
-endodermal
 endoderms
 endodontia
 eigh
@@ -9705,6 +9704,7 @@ esophagoscopy
 esophagostenosis
 esophagotome
 esophagus
+endodermal
 earthshine
 esophoric
 epicrystalline
