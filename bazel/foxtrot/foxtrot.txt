@@ -2118,7 +2118,6 @@ forthcut
 fraghan
 fell
 flavorousness
-friability
 flushermen
 fissipalmate
 feal
@@ -6869,6 +6868,7 @@ folkcraft
 felsitic
 forestaysail
 flasks
+friability
 folkfree
 folky
 fidejussory
