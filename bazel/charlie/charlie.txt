@@ -15506,7 +15506,6 @@ cyprinodontidae
 crenelated
 clanswomen
 claosaurus
-clap
 clapboard
 clapboarding
 concatenary
@@ -27332,6 +27331,7 @@ countryside
 countryward
 countrywoman
 circularized
+clap
 countrywomen
 counts
 countship
