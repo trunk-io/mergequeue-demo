@@ -4330,6 +4330,7 @@ fishboats
 fishbolt
 fishbolts
 falchions
+fellers
 fishbowls
 forky
 fisheyes
@@ -4768,7 +4769,6 @@ flagman
 frond
 flagmen
 faciobrachial
-fellers
 fasciolaria
 fullwords
 faena
