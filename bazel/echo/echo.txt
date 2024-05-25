@@ -13112,6 +13112,7 @@ enfeature
 expiable
 eucleidae
 excubitorium
+evenglow
 expansions
 enregistration
 entailment
@@ -13214,7 +13215,6 @@ explicatively
 explicator
 ecclesiasticus
 eelgrasses
-evenglow
 engrainedly
 entrepas
 effronted
