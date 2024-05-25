@@ -11992,7 +11992,6 @@ bogymen
 bogland
 boglander
 bogled
-bogledom
 boglet
 bogmire
 bogo
@@ -17403,6 +17402,7 @@ breviary
 bungarus
 bandel
 beachier
+bogledom
 blockage
 bunged
 buildress
