@@ -200,6 +200,7 @@ fuzzed
 floatiness
 factorize
 factorizing
+footstock
 fifing
 fazenda
 forebar
@@ -7244,7 +7245,6 @@ frozenness
 floorboards
 fameuse
 footstall
-footstock
 fancysick
 fortlet
 footwalk
