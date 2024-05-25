@@ -2227,7 +2227,6 @@ fats
 feltman
 freakish
 fluster
-foredeep
 feudalism
 felts
 forthtell
@@ -7641,6 +7640,7 @@ fumy
 foregate
 foregift
 focimetry
+foredeep
 foreseeability
 foregleam
 ferrocyanide
