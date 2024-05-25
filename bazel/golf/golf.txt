@@ -1400,6 +1400,7 @@ griphus
 gibbousness
 gargled
 gargler
+greeting
 gerontologies
 gargoyley
 gourmands
@@ -8723,7 +8724,6 @@ greet
 gadid
 grabble
 googly
-greeting
 greets
 gliffing
 geognosis
