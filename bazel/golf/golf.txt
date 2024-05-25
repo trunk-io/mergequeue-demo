@@ -2361,7 +2361,6 @@ geyerite
 geiger
 gospeller
 gangrel
-grouters
 glamoury
 gandered
 guavina
@@ -9237,6 +9236,7 @@ glopnen
 gossoons
 groins
 grolier
+grouters
 gleamed
 grolieresque
 glycerole
