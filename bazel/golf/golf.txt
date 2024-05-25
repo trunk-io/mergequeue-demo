@@ -2179,6 +2179,7 @@ griefs
 gawkhammer
 geat
 graptolitoidea
+gump
 gawky
 graphometrist
 ghouls
@@ -10465,7 +10466,6 @@ gummose
 gummoses
 greenbacker
 gummosity
-gump
 goldbrick
 gumption
 gumptionless
