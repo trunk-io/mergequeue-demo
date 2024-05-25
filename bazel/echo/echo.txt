@@ -4178,7 +4178,6 @@ eclegm
 eatche
 extracranial
 energids
-empoison
 exemplifier
 empoisoned
 encaustes
@@ -9437,6 +9436,7 @@ enstate
 esbatement
 enlock
 escalade
+empoison
 exolution
 emotionally
 effecter
