@@ -6544,7 +6544,6 @@ coryphaeus
 cchaddoorck
 ccid
 ccitt
-cubage
 ccm
 custodial
 ccoya
@@ -19517,6 +19516,7 @@ colourative
 colourer
 colourers
 caveated
+cubage
 colourfast
 colourful
 colourfully
