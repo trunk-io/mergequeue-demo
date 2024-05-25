@@ -3670,7 +3670,6 @@ batik
 birlinn
 buddh
 baroco
-benefaction
 batiks
 batikuling
 batino
@@ -13577,6 +13576,7 @@ backscatters
 boughs
 boughten
 bougie
+benefaction
 bouillabaisse
 boodlers
 bouillons
