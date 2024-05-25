@@ -2285,7 +2285,6 @@ achromatization
 achromatize
 achromatizing
 achromatocyte
-achromatolysis
 arctalian
 achromatope
 achromatophile
@@ -22297,6 +22296,7 @@ astrocompass
 astrodiagnosis
 astrodynamic
 androphyll
+achromatolysis
 africanist
 astrodynamics
 avilion
