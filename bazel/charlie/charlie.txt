@@ -9899,7 +9899,6 @@ copperytailed
 chemistry
 chemistries
 chemists
-chemitype
 countess
 chemitypy
 chancrous
@@ -13126,6 +13125,7 @@ cyanose
 cyanosed
 cyanoses
 cyanosis
+chemitype
 cyanosite
 cyanospiza
 cyanotic
