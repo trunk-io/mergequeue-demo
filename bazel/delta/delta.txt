@@ -5492,7 +5492,6 @@ deodorisation
 deodorise
 deodorised
 deodoriser
-deynt
 deodorization
 deodorize
 deodorized
@@ -17359,6 +17358,7 @@ droolier
 dorts
 droop
 drooped
+deynt
 drooper
 dihedral
 druggier
