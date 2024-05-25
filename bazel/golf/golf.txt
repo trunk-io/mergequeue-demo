@@ -4548,7 +4548,6 @@ grammatist
 ginner
 gloriam
 ganoidei
-galbulus
 gelatined
 gearcases
 gutters
@@ -10819,6 +10818,7 @@ greenhide
 glycerolize
 gutturalized
 gallnut
+galbulus
 guttus
 gargol
 gutwort
