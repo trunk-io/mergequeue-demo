@@ -2840,7 +2840,6 @@ amyelencephalia
 acrospore
 acroclinium
 acrocomia
-acroconidium
 acrocoracoid
 acrodactyla
 acrodermatitis
@@ -24497,6 +24496,7 @@ autumnian
 autumnity
 autunites
 auturgy
+acroconidium
 auxanogram
 auxanometer
 anisogenous
