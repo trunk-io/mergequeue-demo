@@ -25635,7 +25635,6 @@ corotomy
 craniognomy
 commemorized
 coroutines
-corozos
 clericum
 chati
 cardsharper
@@ -30452,6 +30451,7 @@ cuba
 contradictive
 cubages
 cubicovariant
+corozos
 computed
 cubane
 cubangle
