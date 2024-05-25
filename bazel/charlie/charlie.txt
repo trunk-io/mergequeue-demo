@@ -15377,7 +15377,6 @@ colfox
 cassique
 chaining
 clambering
-clambers
 clamcracker
 clame
 cannula
@@ -24025,6 +24024,7 @@ comps
 conveyance
 conveyances
 conveyed
+clambers
 coonskins
 conveyer
 conveying
