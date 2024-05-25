@@ -4416,7 +4416,6 @@ gynecolatry
 gynecologic
 gynecological
 gliadin
-gabendum
 generatively
 gerres
 glossist
@@ -5862,6 +5861,7 @@ glossless
 glossocele
 graian
 gonotheca
+gabendum
 grave
 glossoepiglottic
 gulinulae
