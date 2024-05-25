@@ -3049,6 +3049,7 @@ endamoebic
 entellus
 escar
 endothelia
+enqueue
 embeds
 emp
 encyclical
@@ -6184,7 +6185,6 @@ ecorticate
 enplaned
 extraphysiological
 enquarter
-enqueue
 enamine
 entered
 enqueues
