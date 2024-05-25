@@ -9772,7 +9772,6 @@ cimex
 chromotype
 cheiranthus
 cheirogaleus
-cheiroglossa
 cheirography
 cheirolin
 cytoma
@@ -10342,6 +10341,7 @@ chicest
 coccidioidomycosis
 chich
 chicha
+cheiroglossa
 chicharra
 chichevache
 chichi
