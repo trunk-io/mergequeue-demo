@@ -11895,7 +11895,6 @@ cicatricose
 contradictories
 catechisms
 chopdar
-chopfallen
 chophouse
 cyprinoidea
 cereus
@@ -29901,6 +29900,7 @@ complainer
 colliding
 crosslet
 crossleted
+chopfallen
 crossly
 carcase
 crosslight
