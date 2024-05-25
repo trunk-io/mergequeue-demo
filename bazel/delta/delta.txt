@@ -791,7 +791,6 @@ danged
 detections
 dangerfully
 depe
-dangerous
 dangerously
 deduced
 dangerousness
@@ -14166,6 +14165,7 @@ donatism
 disvoice
 demurs
 diswarn
+dangerous
 diswashing
 disweapon
 diswere
