@@ -29920,7 +29920,6 @@ contrahent
 crossovers
 crosspatch
 chokebore
-crosspatches
 cysterethism
 crosspath
 crosspoint
@@ -31068,6 +31067,7 @@ cunicular
 cuniculi
 camelid
 cuniculus
+crosspatches
 cuniforms
 cunila
 characterizable
