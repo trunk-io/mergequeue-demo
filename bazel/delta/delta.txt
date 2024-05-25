@@ -5689,7 +5689,6 @@ dephosphorize
 depickle
 depict
 devastates
-depicter
 denuclearize
 depicting
 depictions
@@ -11354,6 +11353,7 @@ drossed
 diastereoisomer
 derivate
 decussis
+depicter
 dagged
 defrays
 discipled
