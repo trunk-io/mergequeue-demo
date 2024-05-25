@@ -2640,7 +2640,6 @@ fooler
 frogtongue
 ferromagnetic
 fibrillation
-ferromagnetism
 fistlike
 fiscality
 feoffed
@@ -4902,6 +4901,7 @@ firebase
 flamencos
 firmance
 forewomen
+ferromagnetism
 forehood
 flameout
 feazings

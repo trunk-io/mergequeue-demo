@@ -6192,7 +6192,6 @@ derelinquish
 derencephalus
 disgregating
 derepress
-derepression
 derequisition
 derestrict
 derf
@@ -12728,6 +12727,7 @@ deforcement
 dolefuller
 duplicatus
 dorsilumbar
+derepression
 dysluite
 delicto
 delations
