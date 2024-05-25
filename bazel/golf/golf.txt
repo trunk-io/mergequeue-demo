@@ -5990,7 +5990,6 @@ gasfiring
 guatemaltecan
 glucokinase
 gliocyte
-glucokinin
 gravimetric
 glucolipid
 glucolipin
@@ -10812,6 +10811,7 @@ glibbery
 gregorianize
 ganev
 genitalic
+glucokinin
 gaus
 ghazis
 gutturalised
