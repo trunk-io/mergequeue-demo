@@ -20884,7 +20884,6 @@ compositae
 composite
 composited
 compositely
-compositeness
 composites
 compositing
 compositional
@@ -23932,6 +23931,7 @@ cananga
 controls
 controversal
 controverse
+compositeness
 controversy
 controversialism
 controversialist
