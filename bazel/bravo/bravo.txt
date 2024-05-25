@@ -1490,7 +1490,6 @@ boroglycerate
 ball
 ballad
 bilifaction
-bewhig
 ballade
 barbells
 balladeers
@@ -2896,6 +2895,7 @@ barratries
 bacteriostatic
 barratrous
 barratrously
+bewhig
 barred
 barrelage
 barreled
