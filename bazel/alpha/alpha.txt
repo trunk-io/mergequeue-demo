@@ -4640,7 +4640,6 @@ adversative
 adversatively
 ambushed
 attomy
-apocopic
 anthropophysiography
 adverse
 adversely
@@ -15546,6 +15545,7 @@ alogical
 antimatter
 antimechanism
 antimechanistic
+apocopic
 antimechanistically
 antimechanization
 antimediaevalist
