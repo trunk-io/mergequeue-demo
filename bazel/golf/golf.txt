@@ -5544,7 +5544,6 @@ glyphs
 galore
 gharris
 greenness
-glyptic
 gibli
 gunl
 glyptodon
@@ -9948,6 +9947,7 @@ gratillity
 gogglers
 glegness
 glow
+glyptic
 gluish
 gliriform
 guars
