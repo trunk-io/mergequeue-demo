@@ -15525,7 +15525,6 @@ clapper
 clapperclaw
 clappered
 creditorship
-corrade
 clambered
 clappermaclaw
 clappers
@@ -24877,6 +24876,7 @@ coquilla
 contumax
 coquillage
 coquille
+corrade
 crosiers
 coquilles
 coquita
