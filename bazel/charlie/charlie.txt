@@ -10751,7 +10751,6 @@ chimla
 chimleys
 calciclase
 chytridial
-chimney
 cantharidated
 caryopses
 chimneyhead
@@ -18487,6 +18486,7 @@ cohabiting
 coharmonious
 coharmonize
 cohead
+chimney
 coheading
 coheads
 cassate
