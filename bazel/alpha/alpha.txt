@@ -2940,7 +2940,6 @@ acroparalysis
 anilopyrine
 amidopyrine
 acropathy
-acropathology
 adaptation
 achromatin
 amygdales
@@ -14161,6 +14160,7 @@ anaesthyl
 antefurcae
 antefurcal
 antehall
+acropathology
 antehypophysis
 aedoeagus
 aquaculture
