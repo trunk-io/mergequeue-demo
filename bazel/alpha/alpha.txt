@@ -17558,6 +17558,7 @@ archosyrinx
 afret
 abeltree
 apothecial
+archenemy
 azilian
 apothecium
 antitrope
@@ -18915,7 +18916,6 @@ archelon
 archemastry
 archencephala
 apotropaism
-archenemy
 angioneoplasm
 archenia
 archeocyte
