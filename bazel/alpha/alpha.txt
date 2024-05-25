@@ -13923,7 +13923,6 @@ anoscopy
 anatomicosurgical
 anosmia
 anosmias
-amyelonic
 anosphrasia
 alcoholisation
 anospinal
@@ -25102,6 +25101,7 @@ axifera
 axiferous
 antimonarchists
 axil
+amyelonic
 apothegms
 axile
 annealed
