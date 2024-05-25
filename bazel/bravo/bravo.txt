@@ -5013,6 +5013,7 @@ bonework
 beeped
 burgware
 battak
+burgensic
 blesse
 bunt
 bricks
@@ -12909,7 +12910,6 @@ babka
 boosting
 bouffante
 boosts
-burgensic
 bursectomy
 brachigerous
 boot
