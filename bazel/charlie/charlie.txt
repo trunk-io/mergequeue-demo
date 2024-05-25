@@ -2387,7 +2387,6 @@ canch
 centgener
 cancha
 canchalagua
-crocard
 cherubically
 cancion
 cancionero
@@ -12491,6 +12490,7 @@ clerisy
 colder
 chromize
 cyanopsia
+crocard
 contextual
 chromized
 copromisor
