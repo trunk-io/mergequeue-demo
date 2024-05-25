@@ -5292,7 +5292,6 @@ equilibrist
 endomorphism
 extispices
 endospermic
-endospermous
 endospore
 epithelioceptor
 endosporic
@@ -9336,6 +9335,7 @@ effranchise
 errable
 errancy
 errancies
+endospermous
 entrapments
 egressing
 electra
