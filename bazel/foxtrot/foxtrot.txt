@@ -5650,7 +5650,6 @@ flinthearted
 flinty
 formularizer
 footpound
-flashlike
 fermata
 flintwood
 fanfold
@@ -7630,6 +7629,7 @@ ferronickel
 fragile
 floruits
 filbert
+flashlike
 fistulized
 floorshifts
 franger
