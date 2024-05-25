@@ -12688,6 +12688,7 @@ dubbings
 difference
 dislocability
 dislocate
+dosimetry
 drammer
 dustcloth
 dehydratase
@@ -15883,7 +15884,6 @@ denitrated
 doser
 dosers
 dosimeter
-dosimetry
 dogproof
 daffadillies
 dosimetrician

@@ -1210,7 +1210,6 @@ eident
 elkhounds
 educatable
 evitate
-educated
 educatedness
 educates
 entitule
@@ -13292,6 +13291,7 @@ electrodynamometer
 expone
 exponency
 exponent
+educated
 educations
 exponentiates
 exercisers
