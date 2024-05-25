@@ -3058,7 +3058,6 @@ educationable
 enlistment
 elem
 ellipsis
-eyeglasses
 ergatocracy
 emblematic
 ellipsograph
@@ -12276,6 +12275,7 @@ exegetics
 exemplar
 ecphorias
 entoiling
+eyeglasses
 evertile
 ensamples
 ensued
