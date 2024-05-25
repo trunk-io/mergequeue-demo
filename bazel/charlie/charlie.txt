@@ -27174,7 +27174,6 @@ crance
 concurringly
 countersign
 cupful
-countersignature
 countersigned
 countersigning
 countersigns
@@ -28028,6 +28027,7 @@ craftworker
 crag
 craggan
 craggedness
+countersignature
 craggy
 catenary
 cataphylla
