@@ -27868,7 +27868,6 @@ cpm
 cpo
 cps
 cpt
-cpu
 counterclaimant
 cpus
 cputime
@@ -30378,6 +30377,7 @@ csardas
 csch
 caenolestes
 csect
+cpu
 crumbling
 chanter
 cholecystectomies
