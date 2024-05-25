@@ -1515,6 +1515,7 @@ deacons
 deaconship
 deactivate
 discoglossid
+dartman
 darbyite
 deactivates
 discontinuing
@@ -10827,7 +10828,6 @@ diriment
 dirhams
 dirhem
 dirhinous
-dartman
 dirian
 dirichletian
 denicotinized

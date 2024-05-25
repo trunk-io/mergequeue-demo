@@ -7508,7 +7508,6 @@ ethylate
 encroaches
 exacum
 epibatholithic
-epibatus
 epibenthic
 epiblast
 epiblastic
@@ -10727,6 +10726,7 @@ eudemons
 electrojet
 eudemonics
 equivalencies
+epibatus
 eudeve
 excamber
 eudiometry
