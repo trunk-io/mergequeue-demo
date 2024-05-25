@@ -14623,7 +14623,6 @@ aftwards
 anthropomorphology
 anthropomorphologically
 anthropomorphously
-anthroponym
 anthroponomy
 anthroponomics
 anthroponomist
@@ -23050,6 +23049,7 @@ attempt
 amblyaphia
 attemptable
 attempted
+anthroponym
 attempter
 athecate
 attempters
