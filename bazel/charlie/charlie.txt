@@ -5155,7 +5155,6 @@ caserne
 casernes
 caserns
 cases
-casette
 caseum
 caseweed
 caseworker
@@ -9111,6 +9110,7 @@ cookings
 charlatanic
 charlatanical
 charlatanistic
+casette
 circumnutate
 charlatanries
 charlatans
