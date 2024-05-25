@@ -2061,7 +2061,6 @@ becrawl
 bankcards
 banked
 bethought
-bankerdom
 banky
 banking
 bullaria
@@ -11680,6 +11679,7 @@ boccale
 boatlike
 boatlip
 boatload
+bankerdom
 boatloader
 boatloading
 boatloads
