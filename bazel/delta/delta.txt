@@ -16017,7 +16017,6 @@ double
 denumberment
 demos
 doubleganger
-doublehatching
 dronishly
 doubleheader
 detrimentality
@@ -17787,6 +17786,7 @@ duckstone
 dossing
 duckblind
 duckboard
+doublehatching
 ducked
 disarrange
 ducker
