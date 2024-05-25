@@ -11688,7 +11688,6 @@ anaerobion
 anaerobiont
 anaerobiosis
 anaerobiotic
-anaerobism
 anaerobium
 avanti
 anaerophyte
@@ -22054,6 +22053,7 @@ actings
 astatine
 archaicism
 astatines
+anaerobism
 astatize
 antitraditionalist
 alphanumerical
