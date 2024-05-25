@@ -1572,7 +1572,6 @@ deadness
 deadnesses
 dustproof
 didache
-deservingly
 deadpan
 deadpanned
 deadpans
@@ -17808,6 +17807,7 @@ dashnakist
 ducklet
 ducklings
 diplophonia
+deservingly
 duckmeat
 duckpin
 dishouse
