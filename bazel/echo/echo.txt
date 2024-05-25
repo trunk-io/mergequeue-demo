@@ -8611,7 +8611,6 @@ equiconvex
 egrets
 enworthy
 ergatomorph
-equicurve
 equid
 equidiagonal
 equidifferent
@@ -13949,6 +13948,7 @@ ebony
 epiloguing
 extraparochial
 extraparochially
+equicurve
 extrapatriarchal
 extraperineal
 exundance
