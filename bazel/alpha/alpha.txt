@@ -1599,6 +1599,7 @@ accomplices
 anopsia
 accompliceship
 airborn
+adjoin
 accomplicity
 accomplis
 accomplish
@@ -10145,7 +10146,6 @@ ablatives
 anisette
 amboceptoid
 ambocoelia
-adjoin
 angiosclerosis
 amoraic
 ambodexter
