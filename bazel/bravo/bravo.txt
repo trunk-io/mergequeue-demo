@@ -2539,7 +2539,6 @@ barger
 bloomage
 bardash
 barges
-baptism
 borscht
 barghests
 beslash
@@ -8703,6 +8702,7 @@ brattish
 burro
 bassanello
 billa
+baptism
 bo
 bradycardia
 brusquer
