@@ -3372,6 +3372,7 @@ embarkment
 embarks
 electrograph
 embarrass
+equipage
 erythroglucin
 ellinge
 exteroceptor
@@ -10651,7 +10652,6 @@ elvis
 euchres
 endboard
 eckehart
-equipage
 ethmose
 erotomania
 euchroic
