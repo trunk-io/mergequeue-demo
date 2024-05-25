@@ -10987,7 +10987,6 @@ diasystem
 disaligned
 diipolia
 disalignment
-disalike
 disally
 disalliege
 disallow
@@ -13853,6 +13852,7 @@ distensile
 drowns
 documenting
 distension
+disalike
 discoverably
 dissavage
 distensions
