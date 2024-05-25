@@ -2700,7 +2700,6 @@ esquamulose
 electrotrephine
 electrotropic
 electrophilically
-electrovalence
 electrovalent
 electrovalently
 electrovection
@@ -3300,6 +3299,7 @@ emancipates
 enshrouds
 emancipator
 emancipist
+electrovalence
 elbowboard
 emandibulate
 eelback

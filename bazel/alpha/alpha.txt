@@ -4863,7 +4863,6 @@ aeolipile
 ambrotype
 aeolis
 aeolist
-aeolistic
 aeolomelodicon
 averin
 aeolotropy
@@ -10511,6 +10510,7 @@ astomous
 armenians
 algenib
 adfrozen
+aeolistic
 amido
 amidoacetal
 amidoacetic
