@@ -5094,7 +5094,6 @@ denaturational
 diver
 diablerie
 denature
-denatured
 denaturing
 duplicand
 diminishingturns
@@ -8640,6 +8639,7 @@ disimmure
 disimprove
 diarist
 diarize
+denatured
 dillydallier
 diarrhea
 decarchy
