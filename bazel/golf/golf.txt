@@ -6579,6 +6579,7 @@ goldenness
 goldenrod
 gelatinising
 goldentop
+grapewise
 gastrea
 golder
 grower
@@ -8116,7 +8117,6 @@ grapes
 grapeskin
 grapestalk
 grapevines
-grapewise
 graphanalysis
 gravid
 gigabit
