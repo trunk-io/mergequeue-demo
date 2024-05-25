@@ -5621,7 +5621,6 @@ depeinct
 depencil
 depend
 dependabilities
-dependableness
 dependably
 dibber
 dependance
@@ -18545,6 +18544,7 @@ dusked
 dusken
 dusky
 delubrum
+dependableness
 duskier
 duikers
 desaminase
