@@ -2455,7 +2455,6 @@ anatomicophysiological
 adderwort
 aggrate
 acinus
-acipenser
 acipenseres
 aedes
 acipenseridae
@@ -9102,6 +9101,7 @@ alludes
 alluding
 allumette
 allumine
+acipenser
 allurance
 allure
 afternight
