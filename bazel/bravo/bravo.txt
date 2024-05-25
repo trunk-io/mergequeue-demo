@@ -7325,6 +7325,7 @@ bestowals
 bestower
 bestowment
 bestows
+briary
 bestraddle
 blades
 beveled
@@ -15098,7 +15099,6 @@ befingers
 briared
 briareus
 bruxism
-briary
 backsaw
 bejeling
 briarroot
