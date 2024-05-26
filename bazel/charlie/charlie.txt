@@ -5832,7 +5832,6 @@ catenas
 catenate
 crooisite
 catenates
-cicatrixes
 catenating
 cerberic
 catenation
@@ -25112,6 +25111,7 @@ cordwood
 choleraic
 cloves
 cordwoods
+cicatrixes
 core
 coreceiver
 corecipient
