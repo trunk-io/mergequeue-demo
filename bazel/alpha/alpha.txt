@@ -999,7 +999,6 @@ assis
 abstemious
 asaphid
 abstemiousness
-abstention
 abstentionism
 abstentionist
 abstentious
@@ -24913,6 +24912,7 @@ amalgamated
 await
 awaited
 antiqued
+abstention
 awaiter
 awaiters
 awaiting

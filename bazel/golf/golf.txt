@@ -113,7 +113,6 @@ glaive
 geranial
 genotype
 gadgetry
-gadgetries
 generals
 geezer
 gaditan
@@ -10406,6 +10405,7 @@ gt
 gulosity
 gutturalness
 grein
+gadgetries
 groundplot
 gillbird
 gulp
