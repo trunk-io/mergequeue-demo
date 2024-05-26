@@ -2441,6 +2441,7 @@ griffinish
 goodnesses
 galopin
 gelder
+grisly
 geldesprung
 geldings
 gorgets
@@ -9130,7 +9131,6 @@ grise
 grisettish
 grisled
 genocides
-grisly
 gebur
 gooserumped
 grisliness
