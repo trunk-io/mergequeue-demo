@@ -726,7 +726,6 @@ badge
 beglerbey
 badgeless
 berrendo
-barrels
 badger
 breeches
 boudoirs
@@ -17971,6 +17970,7 @@ breezes
 buffo
 bushtits
 bushwack
+barrels
 berserk
 bushwahs
 basemen
