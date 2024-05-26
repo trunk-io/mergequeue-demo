@@ -140,7 +140,6 @@ fackeltanz
 flajolotite
 fem
 file
-faconde
 fidgets
 facsim
 facsimile
@@ -5284,6 +5283,7 @@ flowed
 fettles
 flatland
 ferulaic
+faconde
 faverel
 fleaweed
 frizzes
