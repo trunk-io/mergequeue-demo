@@ -9237,7 +9237,6 @@ dyeline
 deportees
 diemaker
 diemakers
-disfavoring
 dehumidifying
 dossils
 disassiduity
@@ -10332,6 +10331,7 @@ diopter
 diopters
 dioptograph
 dioptometer
+disfavoring
 desilverizer
 discophore
 dismemberer
