@@ -1453,6 +1453,7 @@ gemmel
 geogony
 garments
 grasseye
+glyphs
 glutael
 garmenture
 gerodermia
@@ -5555,7 +5556,6 @@ gus
 gue
 germanly
 glyphographic
-glyphs
 galore
 gharris
 greenness
