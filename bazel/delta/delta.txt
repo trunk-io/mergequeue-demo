@@ -7911,6 +7911,7 @@ dewdropper
 desertward
 disklike
 dewed
+drank
 dewey
 deweylite
 dram
@@ -16749,7 +16750,6 @@ dramseller
 differentiations
 dramshop
 drang
-drank
 drant
 drapability
 draparnaldia
