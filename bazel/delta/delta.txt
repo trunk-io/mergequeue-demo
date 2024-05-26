@@ -1542,6 +1542,7 @@ deaden
 droops
 doe
 dendra
+docked
 deadeners
 deteriorationist
 deadening
@@ -14722,7 +14723,6 @@ dodonaea
 dock
 dockage
 dilatancy
-docked
 demonetized
 discutable
 docker
