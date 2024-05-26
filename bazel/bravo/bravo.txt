@@ -5466,7 +5466,6 @@ biographical
 biasness
 beqwete
 begrutten
-begs
 bragging
 beguess
 blepharal
@@ -10521,6 +10520,7 @@ blarneys
 basophils
 blarny
 blout
+begs
 blowth
 bicolligate
 blarnid
