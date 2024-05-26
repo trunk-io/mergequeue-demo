@@ -4850,7 +4850,6 @@ bits
 bedsick
 bedside
 bedsitter
-bedsock
 bedsonia
 bedsonias
 bumblefoot
@@ -16046,6 +16045,7 @@ brooching
 brood
 brooded
 bedeviled
+bedsock
 bialis
 brooder
 broody
