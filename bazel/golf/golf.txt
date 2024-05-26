@@ -114,6 +114,7 @@ goldthread
 goodnaturedness
 glaive
 geranial
+genotype
 gadgetry
 gadgetries
 generals
@@ -481,7 +482,6 @@ gannets
 gierfalcon
 galleyman
 gonimoblast
-genotype
 glanced
 gollar
 galenites
