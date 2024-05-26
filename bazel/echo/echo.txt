@@ -6459,7 +6459,6 @@ enumerations
 enswathing
 ensweeten
 ephelis
-ephyra
 executorship
 entablature
 evaluating
@@ -11894,6 +11893,7 @@ exceptionability
 eyeglass
 exceptional
 exceptionality
+ephyra
 earlobes
 exceptionless
 euclase
