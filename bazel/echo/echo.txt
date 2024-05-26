@@ -6946,6 +6946,7 @@ entosphenal
 entosternal
 entosternum
 entothorax
+eclat
 entotympanic
 enterokinetic
 entourage
@@ -10247,7 +10248,6 @@ embaphium
 erastianism
 etherifies
 etherifying
-eclat
 embryoscope
 enwombs
 emphasizes
