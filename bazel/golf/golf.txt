@@ -827,7 +827,6 @@ glossolalist
 galvanothermometer
 galinaceous
 galvanothermy
-galvanotonic
 gangliac
 grooper
 gris
@@ -7500,6 +7499,7 @@ gulmohar
 governed
 governesses
 governing
+galvanotonic
 governingly
 geomalic
 gombay
