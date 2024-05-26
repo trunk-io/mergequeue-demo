@@ -2649,7 +2649,6 @@ exegetist
 enquiries
 electrosteel
 electrostenolysis
-eluants
 electrostenolytic
 equable
 eses
@@ -3795,6 +3794,7 @@ emender
 electroplax
 erythrons
 ethene
+eluants
 enddamaging
 expendables
 emendable
