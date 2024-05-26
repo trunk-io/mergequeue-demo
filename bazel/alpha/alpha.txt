@@ -7179,7 +7179,6 @@ agaricin
 akhoond
 acinetinan
 abnerval
-allow
 akhund
 akhundzada
 abantes
@@ -22577,6 +22576,7 @@ antiseptics
 adaptational
 agronomies
 atheisticness
+allow
 atheize
 atheizer
 athel
