@@ -4865,7 +4865,6 @@ encrotchet
 eateries
 encrustation
 embedder
-encrusting
 eversporting
 enculturation
 excoction
@@ -13498,6 +13497,7 @@ earthpea
 exscissor
 exscript
 exscriptural
+encrusting
 exsculptate
 exscutellate
 electromedical
