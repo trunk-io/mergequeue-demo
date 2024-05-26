@@ -7731,7 +7731,6 @@ bimolecular
 biordinal
 beworming
 beworn
-boliche
 bullocks
 borne
 butanones
@@ -15822,6 +15821,7 @@ bromegrass
 bromeigon
 bromeikon
 bromelia
+boliche
 bromeliaceae
 bromeliaceous
 bromeliad
