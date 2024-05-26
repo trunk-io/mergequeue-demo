@@ -10799,7 +10799,6 @@ bestill
 blende
 blazed
 billetty
-blended
 blendwater
 bowhead
 blenheim
@@ -16852,6 +16851,7 @@ buffont
 buffoon
 buffooneries
 benzoxycamphor
+blended
 buffoonesque
 bathysophic
 buffoonish
