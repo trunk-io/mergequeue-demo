@@ -5948,7 +5948,6 @@ doling
 disaccustomed
 dispender
 depressibilities
-depressible
 declass
 depressingly
 depressingness
@@ -12147,6 +12146,7 @@ disfiguration
 declensional
 disfigurative
 decertifying
+depressible
 disfigure
 draughter
 defencelessness
