@@ -8055,7 +8055,6 @@ dhal
 dimension
 dhaman
 dhamnoo
-dynamist
 dhan
 dhangar
 dhanuk
@@ -16155,6 +16154,7 @@ douzieme
 dualist
 douziemes
 dovecot
+dynamist
 dovecotes
 dramaticule
 doveflower
