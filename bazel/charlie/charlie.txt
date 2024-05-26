@@ -3206,6 +3206,7 @@ cubatures
 capitalizations
 capitalize
 cananaean
+coremium
 capitalized
 capitalizer
 capitalizers
@@ -6794,7 +6795,6 @@ celiotomy
 cell
 cella
 cellager
-coremium
 cellarage
 cellared
 chamoix
