@@ -5760,6 +5760,7 @@ drepanid
 deftest
 deplorabilia
 deplorability
+dodge
 deplorableness
 deplorably
 deploration
@@ -14893,7 +14894,6 @@ dodecatoic
 descrying
 deridingly
 discomedusan
-dodge
 dodged
 dodgery
 dodges
