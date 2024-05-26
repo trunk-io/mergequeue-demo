@@ -7215,7 +7215,6 @@ dreamish
 dehiscence
 detainee
 detainees
-detainers
 detaining
 decolourise
 durwaun
@@ -12415,6 +12414,7 @@ dolently
 dishorn
 douching
 dishpan
+detainers
 dishpans
 dishrags
 dishtowels
