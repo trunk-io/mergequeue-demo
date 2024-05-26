@@ -6868,6 +6868,7 @@ airdate
 afterband
 amyrin
 airdock
+autopsic
 airdrome
 airdromes
 airdrop
@@ -24299,7 +24300,6 @@ acinacity
 autoproteolysis
 argillomagnesian
 autopsy
-autopsic
 autopsical
 adsessor
 acceptedly
