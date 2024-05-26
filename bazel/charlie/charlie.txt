@@ -6871,7 +6871,6 @@ celluloided
 cellulolytic
 cellulomonadeae
 cellulomonas
-cellulosed
 celluloses
 cellulosic
 cellulosing
@@ -28970,6 +28969,7 @@ compulsative
 cricoid
 cricoids
 cricopharyngeal
+cellulosed
 cricothyreoid
 cricothyreotomy
 cojuror
