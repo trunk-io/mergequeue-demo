@@ -341,7 +341,6 @@ gristmiller
 graveship
 gelatins
 galactolipin
-galactolysis
 galactoma
 galactometer
 grilses
@@ -5904,6 +5903,7 @@ galera
 goodies
 girl
 galvanographic
+galactolysis
 gunner
 glochidial
 glottalize
