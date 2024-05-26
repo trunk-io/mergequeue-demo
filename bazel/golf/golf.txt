@@ -3687,7 +3687,6 @@ glove
 gunbearer
 gatewaymen
 groups
-gelfomino
 gargil
 ghastlily
 gantries
@@ -8878,6 +8877,7 @@ glauberite
 galenism
 gastrology
 gryde
+gelfomino
 gridelin
 griding
 goldney
