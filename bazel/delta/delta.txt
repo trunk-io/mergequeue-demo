@@ -248,7 +248,6 @@ daggar
 dagger
 daggerboard
 dyssynergia
-daggerlike
 daggerproof
 daggers
 diskettes
@@ -6001,6 +6000,7 @@ dayfly
 deprogrammed
 deprogrammer
 daytime
+daggerlike
 drillstock
 dottling
 deinodontidae
