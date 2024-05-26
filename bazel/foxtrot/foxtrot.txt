@@ -1065,7 +1065,6 @@ fobs
 farkleberries
 farley
 flyleaf
-farles
 farls
 farmed
 farmeress
@@ -3525,6 +3524,7 @@ fitchets
 fools
 figworts
 fechnerian
+farles
 foleye
 figuriste
 fike

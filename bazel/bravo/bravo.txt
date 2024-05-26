@@ -6904,7 +6904,6 @@ blackbirds
 bin
 berserks
 bersiamite
-bersil
 berskin
 berhyme
 bert
@@ -9273,6 +9272,7 @@ beefburger
 biota
 barotropy
 banderlog
+bersil
 biotechnological
 bianchi
 basilemma
