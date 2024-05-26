@@ -4611,7 +4611,6 @@ fixator
 filagrees
 fixe
 fixed
-foveated
 fennecs
 foreby
 fructescence
@@ -10756,6 +10755,7 @@ frustrates
 fellies
 foldboat
 forcedly
+foveated
 frustrating
 frustrative
 frustratory
