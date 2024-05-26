@@ -1535,7 +1535,6 @@ backsword
 butomus
 ballaster
 ballastic
-ballasting
 ballat
 ballata
 batikulin
@@ -15463,6 +15462,7 @@ brios
 babirusa
 badinaging
 biaxially
+ballasting
 bryozoan
 blaubok
 bionergy
