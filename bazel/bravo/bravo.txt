@@ -3331,6 +3331,7 @@ basitting
 basiventral
 bask
 basked
+bioelectricities
 basker
 basket
 basketballer
@@ -9065,7 +9066,6 @@ bioelectric
 bioelectrical
 bilboquet
 bioelectricity
-bioelectricities
 bioelectrogenesis
 bioengineering
 bioethic
