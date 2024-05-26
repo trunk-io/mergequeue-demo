@@ -6741,7 +6741,6 @@ celestialness
 celestify
 celestina
 claptrap
-celestinian
 celestite
 celestitude
 clivias
@@ -8300,6 +8299,7 @@ closeups
 chalazae
 chalazas
 cloak
+celestinian
 chalazian
 coevolve
 cranely
