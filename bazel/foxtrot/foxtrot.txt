@@ -3970,7 +3970,6 @@ feminisation
 fraulein
 fingerless
 forbearers
-fingerling
 fingerlings
 facadal
 fayalites
@@ -6158,6 +6157,7 @@ furnit
 frisked
 finality
 flowcontrol
+fingerling
 fendered
 flowerage
 flowerers
