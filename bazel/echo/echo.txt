@@ -6465,6 +6465,7 @@ executorship
 entablature
 evaluating
 exstruct
+excludable
 epipolism
 execration
 euorthoptera
@@ -12033,7 +12034,6 @@ exclamatory
 exclaves
 exclosure
 excavational
-excludable
 everyone
 excludes
 exampleship
