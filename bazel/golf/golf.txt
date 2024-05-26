@@ -2880,7 +2880,6 @@ genotypic
 galatotrophic
 greathead
 gunfire
-genotypically
 glop
 grabbed
 grocerwise
@@ -9474,6 +9473,7 @@ granule
 glimes
 groupoid
 galbraithian
+genotypically
 gisla
 groupwise
 goloch
