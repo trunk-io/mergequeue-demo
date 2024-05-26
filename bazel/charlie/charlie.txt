@@ -16326,7 +16326,6 @@ compagination
 clinohumite
 clinoid
 clinology
-clinologic
 clinometer
 clinometry
 clinometric
@@ -27167,6 +27166,7 @@ clione
 countershading
 chasms
 countershear
+clinologic
 configurable
 countershine
 countershock
