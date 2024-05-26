@@ -1201,6 +1201,7 @@ bakelite
 bakelize
 bakemeats
 backslash
+bloop
 bakeout
 bakeoven
 bimillenniums
@@ -11254,7 +11255,6 @@ bloomless
 bloomsbury
 backtracked
 bartering
-bloop
 blooped
 byways
 baronethood
