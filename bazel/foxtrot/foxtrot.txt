@@ -9559,7 +9559,6 @@ faithworthy
 forefronts
 fempty
 frontways
-forsworn
 falchion
 footling
 fastened
@@ -10922,6 +10921,7 @@ fossarian
 flambe
 filmically
 fullered
+forsworn
 fullery
 fulleries
 flo
