@@ -8923,7 +8923,6 @@ chapteral
 colorize
 chaptered
 chapterhouse
-chaptering
 chapters
 chaptrel
 chapwoman
@@ -19709,6 +19708,7 @@ comandante
 comandantes
 comandanti
 cutis
+chaptering
 comandra
 cloddishly
 comanic
