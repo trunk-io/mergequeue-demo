@@ -13897,7 +13897,6 @@ bodkinwise
 baccalaurean
 bowshot
 bowshots
-bowsie
 bowsprit
 bowstaff
 bowstring
@@ -16656,6 +16655,7 @@ bilaan
 bucketshop
 buckhounds
 blurrily
+bowsie
 bucky
 baddock
 buckie
