@@ -25428,7 +25428,6 @@ cornfields
 cornflag
 countersiege
 cornflakes
-cornflour
 cornflower
 cornflowers
 corngrower
@@ -29088,6 +29087,7 @@ cringes
 cringing
 cringingly
 cringingness
+cornflour
 cringle
 crinicultural
 cardiectomy
