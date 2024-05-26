@@ -8,7 +8,6 @@ gabarit
 gophers
 gaby
 gaseliers
-gerhardtite
 geometrician
 gabbards
 goldeye
@@ -1949,6 +1948,7 @@ grippy
 gladfully
 genetical
 glyconics
+gerhardtite
 guerrillaship
 gateposts
 gulash
