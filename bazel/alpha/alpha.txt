@@ -5870,6 +5870,7 @@ agapetid
 arretine
 agapetidae
 agennetic
+autocoder
 agar
 agaricaceae
 agaricaceous
@@ -23965,7 +23966,6 @@ autoclave
 autocomplexes
 allemands
 autoclaving
-autocoder
 aspheric
 autocoenobium
 autocollimate
