@@ -5608,7 +5608,6 @@ catalufa
 catalufas
 catamarcan
 catamarenan
-colonizability
 chilopoda
 catamites
 chickenhearted
@@ -22615,6 +22614,7 @@ connate
 connately
 connateness
 crinate
+colonizability
 commotion
 connatural
 connaturality
