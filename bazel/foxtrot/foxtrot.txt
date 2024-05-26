@@ -6640,6 +6640,7 @@ focussing
 fod
 fodder
 fodderer
+foreassign
 foder
 foederati
 frontes
@@ -7478,7 +7479,6 @@ fluor
 fluidification
 fountains
 fogou
-foreassign
 foreassurance
 forebay
 friendliest
