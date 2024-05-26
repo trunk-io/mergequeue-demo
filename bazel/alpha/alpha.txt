@@ -4572,7 +4572,6 @@ advancements
 advancer
 advancers
 advancing
-advancingly
 advancive
 advantage
 advantaged
@@ -17615,6 +17614,7 @@ appal
 atreptic
 appalachians
 appale
+advancingly
 athyris
 appalling
 assigneeship
