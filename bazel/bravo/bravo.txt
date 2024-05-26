@@ -1143,7 +1143,6 @@ baysmelt
 besmears
 bout
 baister
-barrenest
 bait
 baited
 bushwa
@@ -4842,6 +4841,7 @@ bedrooms
 bedrop
 bilixanthin
 bedrowse
+barrenest
 bedrugged
 bedrugs
 beds
