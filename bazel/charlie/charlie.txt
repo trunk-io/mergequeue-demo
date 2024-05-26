@@ -7914,7 +7914,6 @@ cervixes
 collar
 cervoid
 cervuline
-cervulus
 cervus
 cesare
 cesareans
@@ -18221,6 +18220,7 @@ coestablishment
 cowleech
 cellae
 coetanean
+cervulus
 coetaneous
 coeternal
 coeternity
