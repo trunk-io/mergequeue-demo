@@ -18853,6 +18853,7 @@ archcount
 archcozener
 archcritic
 archcrown
+arthrosterigma
 archcupbearer
 archd
 archdapifer
@@ -20695,7 +20696,6 @@ arthrospore
 arthrosporic
 arthrosporous
 arthrosteitis
-arthrosterigma
 arthrostome
 arthrostomy
 apeptic
