@@ -4365,6 +4365,7 @@ caryl
 culvertage
 confidentiality
 carillonneur
+cityish
 carillonneurs
 carillonning
 carillons
@@ -14904,7 +14905,6 @@ citifying
 cityfolk
 citigradae
 citigrade
-cityish
 cigale
 coordinate
 cheliceral
