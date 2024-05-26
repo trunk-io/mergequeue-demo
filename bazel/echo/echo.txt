@@ -327,7 +327,6 @@ extraocular
 enunciate
 externship
 endevil
-eavesdrop
 eucgia
 enterocentesis
 eavesdropped
@@ -2307,6 +2306,7 @@ electroanalytic
 embassade
 electroanesthesia
 electroballistically
+eavesdrop
 electroballistics
 electrobath
 electrobiological
