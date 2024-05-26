@@ -388,7 +388,6 @@ galahads
 gynobasic
 graphiology
 galangin
-grating
 gentiles
 glossophagine
 goto
@@ -6404,6 +6403,7 @@ gid
 gobbles
 gobbling
 gobelin
+grating
 gobet
 geodic
 goliad
