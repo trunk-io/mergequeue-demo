@@ -2585,6 +2585,7 @@ declinations
 declinator
 disyllabizing
 declinatory
+drawout
 declinature
 decline
 djalmaite
@@ -16867,7 +16868,6 @@ determinativeness
 dissyllabise
 diffidence
 drawoff
-drawout
 drawplate
 drawpoint
 draws
