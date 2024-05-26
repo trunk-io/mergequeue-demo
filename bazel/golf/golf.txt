@@ -3253,7 +3253,6 @@ geoscopic
 geoselenic
 geosid
 geosphere
-geostationary
 geostrategist
 gal
 graylags
@@ -4936,6 +4935,7 @@ giveaways
 garderobe
 gladeye
 glossematics
+geostationary
 glar
 gagroot
 gyves
