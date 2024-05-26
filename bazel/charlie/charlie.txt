@@ -3429,7 +3429,6 @@ comprehends
 cuemanship
 cotterite
 capsella
-capsheaf
 circumjacent
 calyptras
 capshore
@@ -28908,6 +28907,7 @@ crewman
 crewmanship
 crewmen
 crewneck
+capsheaf
 crews
 crex
 cry
