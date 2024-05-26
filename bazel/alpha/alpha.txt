@@ -10539,7 +10539,6 @@ aeolistic
 amido
 amidoacetal
 amidoacetic
-amidoacetophenone
 antisensuous
 amidoazo
 agley
@@ -21699,6 +21698,7 @@ assaultive
 assausive
 assaut
 affixing
+amidoacetophenone
 asse
 asseal
 assecuration
