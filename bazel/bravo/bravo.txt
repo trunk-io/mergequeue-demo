@@ -3042,6 +3042,7 @@ baruch
 barukhzy
 barundi
 boardlike
+bitten
 briery
 baruria
 barvel
@@ -9981,7 +9982,6 @@ beasties
 bitstocks
 bitstone
 bitted
-bitten
 battled
 bitter
 bitterbark
