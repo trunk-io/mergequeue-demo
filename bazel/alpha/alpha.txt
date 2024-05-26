@@ -10277,7 +10277,6 @@ ame
 anchorhold
 ameba
 appendalgia
-amebas
 availableness
 amebean
 amebian
@@ -21860,6 +21859,7 @@ assigners
 assignment
 assignments
 assignors
+amebas
 animadversive
 assigns
 assilag
