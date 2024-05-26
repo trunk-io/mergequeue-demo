@@ -9673,7 +9673,6 @@ fortalice
 flunkers
 freelance
 fornax
-faubourg
 freeload
 freeloaded
 freemanship
@@ -11716,6 +11715,7 @@ falus
 frowzily
 futuristically
 futurists
+faubourg
 forecool
 futurition
 futurize
