@@ -7932,7 +7932,6 @@ bushi
 biasing
 biasnesses
 barometrical
-biatomic
 biauricular
 burny
 biauriculate
@@ -17475,6 +17474,7 @@ bacteroid
 bunodonta
 bunoselenodont
 buns
+biatomic
 bunsenite
 bandyman
 brulots
