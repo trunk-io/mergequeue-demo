@@ -9031,6 +9031,7 @@ botan
 boorish
 biocidal
 biocide
+bunyip
 bioclimatic
 bioclimatician
 bioclimatology
@@ -17426,7 +17427,6 @@ bunya
 breeding
 bunyah
 bunyan
-bunyip
 blennymenitis
 ballhawk
 blini
