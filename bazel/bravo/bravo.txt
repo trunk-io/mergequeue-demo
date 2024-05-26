@@ -3941,7 +3941,6 @@ bawra
 bestial
 barrow
 bullyable
-bastardisation
 bawsint
 bawsunt
 boneshaw
@@ -12771,6 +12770,7 @@ bidarka
 begarie
 bookmarker
 bookmarks
+bastardisation
 bhoots
 bimorph
 bookmobile
