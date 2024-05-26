@@ -7929,7 +7929,6 @@ alveola
 alecup
 alefnull
 alefs
-aleft
 alefzero
 alehouse
 amor
@@ -19252,6 +19251,7 @@ argumentation
 archsteward
 archthief
 archtyrant
+aleft
 arachnites
 availers
 abasia
