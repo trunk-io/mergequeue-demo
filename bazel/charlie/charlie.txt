@@ -2519,7 +2519,6 @@ candlewicking
 candlewicks
 candlewright
 candling
-candock
 candollea
 candolleaceae
 candolleaceous
@@ -29193,6 +29192,7 @@ cryoplankton
 crownband
 cryoscope
 cryoscopy
+candock
 curavecan
 cryoscopic
 cryoscopies
