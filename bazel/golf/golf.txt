@@ -416,7 +416,6 @@ galateas
 glub
 glucogenesis
 galbula
-gd
 galatine
 gelled
 galavanting
@@ -10306,6 +10305,7 @@ goralog
 gleaner
 gauffred
 gujarati
+gd
 glood
 gametic
 gymnostomous
