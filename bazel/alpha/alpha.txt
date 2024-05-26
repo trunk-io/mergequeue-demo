@@ -2929,7 +2929,6 @@ abutting
 alasas
 acronymic
 acronomy
-acronymize
 apium
 acronymized
 acronymizing
@@ -6608,6 +6607,7 @@ archaists
 amebula
 ahir
 ahistoric
+acronymize
 alternant
 ahistorical
 animalian
