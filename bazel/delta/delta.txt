@@ -7469,7 +7469,6 @@ damneder
 daintihood
 derive
 detrusion
-detrusor
 detubation
 detumescence
 detune
@@ -18033,6 +18032,7 @@ dipotassium
 deckload
 dishonored
 dyebeck
+detrusor
 dullardness
 dullards
 deoxygenate
