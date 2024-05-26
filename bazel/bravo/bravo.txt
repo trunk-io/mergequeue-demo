@@ -11947,7 +11947,6 @@ barographs
 bourns
 botonn
 bogart
-beatificate
 bogatyr
 bogbeans
 bogberry
@@ -13460,6 +13459,7 @@ bodge
 bednights
 bottommost
 bottlemaker
+beatificate
 bottleman
 bottleneck
 benzin
