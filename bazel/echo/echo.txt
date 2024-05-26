@@ -4776,7 +4776,6 @@ encoil
 egrid
 encolden
 encollar
-euryalean
 equitangential
 encolour
 encolpia
@@ -5360,6 +5359,7 @@ endothermic
 endothia
 ejaculative
 echinocactus
+euryalean
 escribiente
 epigramme
 evangelium

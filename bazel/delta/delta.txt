@@ -6370,7 +6370,6 @@ downs
 dermoblast
 dysrhythmia
 diaplasis
-dag
 distributable
 dermobranchiata
 dovetailed
@@ -18069,6 +18068,7 @@ dulocracy
 dictograph
 dulosis
 dulotic
+dag
 dulseman
 dulses
 dult
