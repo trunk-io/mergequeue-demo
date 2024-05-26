@@ -5850,6 +5850,7 @@ catercap
 catercorner
 catercornered
 catercornerways
+craner
 catered
 caterer
 caterers
@@ -23355,7 +23356,6 @@ consumingness
 chivariing
 consummated
 consummating
-craner
 calamaroid
 consummative
 consummator
