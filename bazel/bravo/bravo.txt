@@ -3154,7 +3154,6 @@ bortsch
 besetter
 bardish
 basest
-bash
 bashalick
 biddie
 bashaw
@@ -8294,6 +8293,7 @@ bielectrolysis
 bielenite
 beardie
 brontophobia
+bash
 banishes
 byeman
 bleezy
