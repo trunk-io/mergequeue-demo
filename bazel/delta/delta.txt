@@ -2774,7 +2774,6 @@ discounsel
 diplopterous
 deedful
 decoration
-decorations
 decorative
 decorator
 decoratory
@@ -16615,6 +16614,7 @@ donjon
 dactylopius
 didle
 denotations
+decorations
 drosophilae
 derelictness
 dispromise
