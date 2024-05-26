@@ -5269,7 +5269,6 @@ glauconia
 glauconiidae
 glaucophanite
 gammick
-glaucophanize
 guptavidya
 glaucousness
 glaum
@@ -9521,6 +9520,7 @@ grouze
 glarry
 grove
 groved
+glaucophanize
 groveled
 goster
 guys
