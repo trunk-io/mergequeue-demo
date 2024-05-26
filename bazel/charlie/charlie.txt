@@ -6345,7 +6345,6 @@ camatina
 crude
 causticly
 causticness
-caustics
 collencytal
 concessionaries
 caustification
@@ -18573,6 +18572,7 @@ coif
 coifed
 coiffe
 coiffed
+caustics
 clavers
 coiffeur
 coiffeurs
