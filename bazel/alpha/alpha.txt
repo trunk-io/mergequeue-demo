@@ -11222,6 +11222,7 @@ amphigene
 ascertainment
 amphigenous
 amphigenously
+ascorbate
 amphigony
 amphigonia
 aerobacter
@@ -21109,7 +21110,6 @@ ascones
 asconoid
 ascophore
 aclydes
-ascorbate
 ascorbic
 ascospore
 ascosporic
