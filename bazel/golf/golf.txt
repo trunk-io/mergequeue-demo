@@ -2693,7 +2693,6 @@ generalizers
 gasthaus
 granodiorite
 goo
-gamodeme
 gene
 grassed
 gareth
@@ -9264,6 +9263,7 @@ gursh
 gryph
 guayaberas
 gimcrackiness
+gamodeme
 grainsmen
 grossularia
 goatskin
