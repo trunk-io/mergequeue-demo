@@ -2654,7 +2654,6 @@ genep
 gained
 genepi
 grinder
-geogenetic
 generable
 guideress
 generalcy
@@ -2956,6 +2955,7 @@ gentler
 gentles
 genuflection
 glossoid
+geogenetic
 glycerogelatin
 garcon
 geleem
