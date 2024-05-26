@@ -11412,6 +11412,7 @@ chlorophaeite
 chlorophenol
 charangos
 chlorophenothane
+crystallizability
 confirm
 cestuy
 chlorophyceae
@@ -29459,7 +29460,6 @@ crystallite
 crystallites
 crystallitic
 coprides
-crystallizability
 cycadofilicinean
 cherishingly
 crystallizable
