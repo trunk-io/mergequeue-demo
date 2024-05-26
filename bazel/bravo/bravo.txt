@@ -5179,7 +5179,6 @@ busier
 bedewoman
 ballpoints
 beflecks
-birder
 bombshells
 bacony
 beflour
@@ -17601,6 +17600,7 @@ benzoyls
 burgall
 biddance
 burgamot
+birder
 burganet
 burgau
 burgaudine
