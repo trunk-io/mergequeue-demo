@@ -1714,7 +1714,6 @@ gastronomes
 galactan
 gastraeum
 glossoepiglottidean
-gastral
 gastralgy
 gastralgia
 gastraneuria
@@ -6418,6 +6417,7 @@ gastroatonia
 gastriloquous
 gastronomist
 goblin
+gastral
 gettable
 gateward
 gunite
