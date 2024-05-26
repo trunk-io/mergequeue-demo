@@ -7655,6 +7655,7 @@ cerebrize
 cerebrocardiac
 cerebroganglionic
 cerebroid
+cirrhosed
 cerebromalacia
 cerebromeningeal
 cerebromeningitis
@@ -14576,7 +14577,6 @@ compounds
 cirratulidae
 cirratulus
 cirrhose
-cirrhosed
 cartels
 cirrhotic
 cipolins
