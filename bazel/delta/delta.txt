@@ -5281,7 +5281,6 @@ denotatum
 deacidifying
 denote
 denoted
-denotement
 denotes
 denoting
 deeping
@@ -18174,6 +18173,7 @@ duncical
 diethanolamine
 dharani
 dispensary
+denotement
 duncish
 duncishly
 duncishness
