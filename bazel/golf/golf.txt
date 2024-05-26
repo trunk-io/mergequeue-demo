@@ -1327,7 +1327,6 @@ garbler
 groundmass
 gorilline
 golfed
-gismondite
 groped
 gewgawry
 garbles
@@ -8597,6 +8596,7 @@ gnu
 groff
 gree
 glean
+gismondite
 greed
 germanious
 greedier
