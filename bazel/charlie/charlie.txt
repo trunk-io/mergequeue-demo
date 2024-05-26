@@ -9929,7 +9929,6 @@ chemokinetic
 chemolysis
 chemolytic
 cicero
-coasted
 colpostat
 chemolyze
 chemonite
@@ -11882,6 +11881,7 @@ chontaquiro
 chookie
 chookies
 choop
+coasted
 choora
 catechiser
 concausal
