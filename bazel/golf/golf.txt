@@ -1355,6 +1355,7 @@ gallberries
 gardenia
 gundeck
 giftlike
+gismo
 gardenless
 gardenlike
 gardenmaking
@@ -4854,7 +4855,6 @@ gibbles
 gisel
 gisement
 glazily
-gismo
 gismondine
 gastraeas
 gallinula
