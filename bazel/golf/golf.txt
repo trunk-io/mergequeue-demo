@@ -392,7 +392,6 @@ galant
 galanthus
 goutiest
 guilery
-glaciometer
 grumpier
 gains
 grough
@@ -5822,6 +5821,7 @@ glossemes
 glossemic
 glossers
 glossy
+glaciometer
 gnathostomatous
 goniatitoid
 glossier
