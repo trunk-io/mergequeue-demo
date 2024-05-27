@@ -2936,6 +2936,7 @@ baetylic
 brattle
 barrelmaker
 barrelmaking
+brassavola
 barrelwise
 barren
 barrenly
@@ -14609,7 +14610,6 @@ briefing
 brassards
 brassart
 brassarts
-brassavola
 bolson
 brassbound
 biacetyl
