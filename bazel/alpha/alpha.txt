@@ -6620,7 +6620,6 @@ aholds
 ahom
 ahorse
 ahorseback
-ahousaht
 ahriman
 ahs
 ablare
@@ -22741,6 +22740,7 @@ atmas
 atmiatry
 achernar
 atmid
+ahousaht
 atmidometry
 atmo
 atmocausis
