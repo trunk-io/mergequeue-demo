@@ -11719,6 +11719,7 @@ coral
 cholesterinic
 cholesterinuria
 cholesterol
+clepsydrae
 cholesterolemia
 cholesteroluria
 cholesterosis
@@ -16027,7 +16028,6 @@ cleped
 clepes
 cleping
 clepsydra
-clepsydrae
 contorniate
 clepsydras
 clepsine
