@@ -9074,7 +9074,6 @@ allovers
 allowable
 anteport
 allowableness
-allowance
 allowancing
 alkalises
 autosuggest
@@ -19530,6 +19529,7 @@ argentide
 argentiferous
 arkie
 affinite
+allowance
 argentin
 azotometer
 antidemocratical
