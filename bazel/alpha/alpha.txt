@@ -6100,6 +6100,7 @@ aggressin
 altered
 attaint
 aggressionist
+amount
 antireality
 aggressively
 aggressiveness
@@ -11052,7 +11053,6 @@ amotions
 attitudinized
 aquariia
 amotus
-amount
 amounted
 amounter
 amounters
