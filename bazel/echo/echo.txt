@@ -1081,6 +1081,7 @@ enslavedness
 electioneered
 excisable
 exenteritis
+eyeless
 endoskeleton
 enchants
 eqpt
@@ -6517,7 +6518,6 @@ enchant
 entendres
 essayish
 epidermophytosis
-eyeless
 entente
 ententes
 ennobles
