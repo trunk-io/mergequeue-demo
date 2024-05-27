@@ -1403,7 +1403,6 @@ groundling
 gristbite
 grumphies
 gabbard
-gleaning
 gra
 greenhouse
 geckotid
@@ -9124,6 +9123,7 @@ geochronic
 griqualander
 grisailles
 grysbok
+gleaning
 garrison
 grise
 grisettish
