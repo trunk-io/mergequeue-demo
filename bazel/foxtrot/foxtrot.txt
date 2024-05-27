@@ -337,6 +337,7 @@ faineance
 foredeck
 fainest
 fainly
+fixtures
 flatwash
 fuseboard
 figureless
@@ -10458,7 +10459,6 @@ frontwards
 fragrant
 fermatian
 fairbanks
-fixtures
 fistiana
 fluidimeter
 froppish
