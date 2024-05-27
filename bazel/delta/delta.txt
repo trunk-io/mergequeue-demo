@@ -3475,6 +3475,7 @@ desexualization
 deflower
 deflowered
 deflowerer
+dumpcart
 distrustful
 dertra
 duelists
@@ -18128,7 +18129,6 @@ dumosity
 dumpage
 dit
 divaricately
-dumpcart
 dioptoscopy
 dumpcarts
 duvetyns
