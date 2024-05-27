@@ -337,6 +337,7 @@ backet
 backfield
 bangala
 backfields
+bigha
 backfiller
 backfilling
 brushes
@@ -1338,7 +1339,6 @@ basellaceous
 balatron
 balatronic
 balatte
-bigha
 bingy
 balaustine
 bacteriophagous
