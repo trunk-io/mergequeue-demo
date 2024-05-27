@@ -3097,7 +3097,6 @@ deerhound
 dowress
 deeryard
 decarbonized
-deermeat
 deers
 deerstalkers
 deerstalking
@@ -17104,6 +17103,7 @@ drift
 driftage
 deficient
 derivational
+deermeat
 dispensated
 driftbolt
 dehydrated
