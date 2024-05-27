@@ -4851,6 +4851,7 @@ bronx
 bedscrew
 bits
 bedsick
+balance
 bedside
 bedsitter
 bedsonia
@@ -14935,7 +14936,6 @@ bredbergite
 bredes
 bredestitch
 betainogen
-balance
 boldest
 breech
 breechcloth
