@@ -134,7 +134,6 @@ gaugers
 grosz
 goatfish
 gavottes
-genupectoral
 gadroon
 graped
 girdled
@@ -5916,6 +5915,7 @@ gustier
 garrulously
 goony
 gonoplasm
+genupectoral
 guttide
 glottologic
 griffinesque
