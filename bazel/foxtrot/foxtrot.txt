@@ -1862,7 +1862,6 @@ fusuma
 fecundations
 fallacious
 fecundator
-frig
 fuligula
 feedwater
 fecundity
@@ -9996,6 +9995,7 @@ friezed
 farrow
 fleshhook
 friezer
+frig
 facework
 fossilated
 fumatorium

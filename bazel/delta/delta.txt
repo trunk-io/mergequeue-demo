@@ -6322,7 +6322,6 @@ dermatopathology
 disemboguement
 dermatophyte
 discomplexion
-dermatophytosis
 dermatophone
 dermatophony
 dunking
@@ -16264,6 +16263,7 @@ dreepiness
 dieciously
 downdale
 downdraught
+dermatophytosis
 downed
 downer
 downers
