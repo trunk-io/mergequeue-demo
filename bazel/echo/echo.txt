@@ -1969,6 +1969,7 @@ electroceramic
 ejectment
 ejector
 engrossment
+eviscerate
 ejicient
 electrics
 equals
@@ -6371,7 +6372,6 @@ ensign
 electroplaque
 entranceway
 ensignry
-eviscerate
 ensilages
 episcopal
 ensilation
