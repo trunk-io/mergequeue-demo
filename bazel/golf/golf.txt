@@ -7292,7 +7292,6 @@ gemmily
 gatherer
 gonoecium
 glareolidae
-ghast
 gilgul
 gospels
 gospelwards
@@ -7591,6 +7590,7 @@ graceless
 gracelessly
 gallerying
 gracelessness
+ghast
 gnawn
 gunnage
 gracilariidae
