@@ -5310,7 +5310,6 @@ friendlily
 fennel
 frigefact
 formfitting
-flectionless
 fleabiting
 fido
 fledgeless
@@ -8089,6 +8088,7 @@ faithful
 featurette
 fuchsias
 fractal
+flectionless
 formlessly
 fibrocrystalline
 fungite
