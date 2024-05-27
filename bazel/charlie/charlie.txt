@@ -6950,7 +6950,6 @@ cemeterial
 ceratinous
 cemeteries
 culm
-cen
 cenaculum
 cenanthy
 cecily
@@ -15523,6 +15522,7 @@ clapnest
 clapnet
 concentered
 cricketed
+cen
 clappe
 clapper
 clapperclaw
