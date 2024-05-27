@@ -4703,7 +4703,6 @@ bedew
 beaned
 bioplasmic
 bedewed
-bedewer
 bedews
 beltmaking
 briquetted
@@ -14770,6 +14769,7 @@ breaden
 breadfruit
 breadfruits
 bronchopulmonary
+bedewer
 bacteria
 breadless
 breadline
