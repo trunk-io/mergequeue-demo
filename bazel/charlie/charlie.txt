@@ -5721,6 +5721,7 @@ cannon
 catchlight
 cultivatability
 clockcase
+caudillism
 catchline
 catchment
 catchments
@@ -6189,7 +6190,6 @@ caudex
 caudices
 caudiform
 cheesery
-caudillism
 cheepily
 condoned
 calanthe
