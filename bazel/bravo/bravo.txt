@@ -2545,6 +2545,7 @@ barger
 bloomage
 bardash
 barges
+bicycles
 borscht
 barghests
 beslash
@@ -13215,7 +13216,6 @@ bosom
 botryoidal
 bosomed
 bosomer
-bicycles
 bosominess
 bulker
 beading
