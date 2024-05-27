@@ -11440,7 +11440,6 @@ boxthorn
 bagplant
 bluehearts
 bluey
-blueys
 bluejacket
 bluejacks
 blueline
@@ -12500,6 +12499,7 @@ bondservant
 bondship
 bondslave
 bondsman
+blueys
 braeman
 bloomiest
 bulbose
