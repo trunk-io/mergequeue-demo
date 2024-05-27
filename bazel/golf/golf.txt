@@ -1760,6 +1760,7 @@ gibs
 gastrocolotomy
 gastrodermal
 gastrodermis
+gpd
 gnotobiote
 goosemouth
 guayabo
@@ -7554,7 +7555,6 @@ grammatophyllum
 gledge
 gp
 gloomful
-gpd
 germing
 ginnery
 generationism
