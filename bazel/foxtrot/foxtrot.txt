@@ -4490,7 +4490,6 @@ faithfulness
 formulising
 fistinut
 flattest
-followeth
 fama
 fistnotes
 froghopper
@@ -7545,6 +7544,7 @@ forecome
 fearsome
 forecommend
 foreconclude
+followeth
 flops
 foreconsider
 flagonet
