@@ -14464,7 +14464,6 @@ circumrotated
 crown
 circumrotatory
 circumsail
-circumscissile
 circumscribable
 cribbers
 circumscribed
@@ -19041,6 +19040,7 @@ collectivum
 companies
 collectorate
 collectors
+circumscissile
 collectorship
 collectress
 crisped
