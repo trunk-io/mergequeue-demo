@@ -11238,7 +11238,6 @@ chloragogen
 chloragogue
 chloral
 chloralformamide
-chloralization
 comburimeter
 cymbocephalic
 chloralize
@@ -13653,6 +13652,7 @@ cylindrocylindric
 craniad
 cylindroconical
 cylindroconoidal
+chloralization
 cylindrodendrite
 confederated
 classicistic
