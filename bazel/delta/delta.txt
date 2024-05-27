@@ -995,7 +995,6 @@ dark
 darked
 darkeys
 dicyanide
-darkening
 darkens
 daffling
 darker
@@ -2648,6 +2647,7 @@ decolonize
 decolonizes
 desalter
 decoloring
+darkening
 decolorisation
 decolorising
 dispose
