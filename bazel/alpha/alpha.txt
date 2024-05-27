@@ -5864,7 +5864,6 @@ arretine
 agapetidae
 agennetic
 autocoder
-agar
 agaricaceae
 agaricaceous
 agaricales
@@ -17734,6 +17733,7 @@ appendence
 appendency
 appenders
 appendicalgia
+agar
 appendicate
 ausonian
 ascii
