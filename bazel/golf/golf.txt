@@ -3073,7 +3073,6 @@ geodynamical
 geodynamics
 guilt
 gurkha
-geoduck
 grebes
 gomeisa
 gollop
@@ -8732,6 +8731,7 @@ gunslinger
 gregale
 gobiidae
 glamorousness
+geoduck
 guileless
 gametophyll
 glossed
