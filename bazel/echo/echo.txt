@@ -7280,7 +7280,6 @@ epilogation
 endurableness
 eoside
 eosine
-emit
 eosinic
 ergatogynous
 endothorax
@@ -9012,6 +9011,7 @@ ericetal
 erichthoid
 exothecium
 extrabuccal
+emit
 erick
 ericoid
 euhemeristic
