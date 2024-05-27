@@ -2978,7 +2978,6 @@ eliminate
 entoplastic
 equiprobabilism
 eliminated
-ellipsometry
 equaled
 eliminating
 ehuawa
@@ -7111,6 +7110,7 @@ envelope
 enveloped
 exurbanites
 envelopment
+ellipsometry
 envelopments
 envelops
 envenom
