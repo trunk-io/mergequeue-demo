@@ -1250,7 +1250,6 @@ gaplessness
 gizzened
 gnathic
 gapped
-gapper
 gynandrism
 gappy
 gappier
@@ -8706,6 +8705,7 @@ greenskeeper
 goldlike
 greenstone
 gluneamie
+gapper
 gauntree
 greenswarded
 gorger
