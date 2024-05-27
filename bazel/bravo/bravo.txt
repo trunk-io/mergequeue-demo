@@ -2957,7 +2957,6 @@ barricaded
 barricaders
 bedplates
 barricado
-bigothero
 barricadoes
 brainsick
 bemazed
@@ -6428,6 +6427,7 @@ benzacridine
 benzalacetone
 benzalacetophenone
 bogle
+bigothero
 benzalazine
 benzalcohol
 bakupari
