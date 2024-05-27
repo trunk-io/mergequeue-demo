@@ -1129,6 +1129,7 @@ edictum
 edicule
 echolalia
 edificate
+echinology
 edification
 exfigure
 edificator
@@ -12956,7 +12957,6 @@ expectorate
 expectorated
 endosecretory
 etatisms
-echinology
 expectorates
 expectorations
 extrema
