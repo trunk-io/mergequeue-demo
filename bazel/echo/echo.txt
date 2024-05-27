@@ -6356,6 +6356,7 @@ enshrinement
 exornation
 enshrinements
 ephebe
+emulsor
 empest
 euskarian
 edibleness
@@ -8791,7 +8792,6 @@ engrain
 explainers
 endocline
 equivoque
-emulsor
 equoidean
 equuleus
 eucalypt
