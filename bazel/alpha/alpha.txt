@@ -3692,7 +3692,6 @@ adenohypophyseal
 atry
 adenoidal
 adenoidectomy
-adenoidectomies
 adenoidism
 adroitest
 adenoids
@@ -22478,6 +22477,7 @@ aseptic
 ansarian
 atavistically
 atavists
+adenoidectomies
 ataxy
 ataxia
 ataxiagraph
