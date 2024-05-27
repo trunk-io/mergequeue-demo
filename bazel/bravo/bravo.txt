@@ -6729,6 +6729,7 @@ budlike
 buzzards
 bergamo
 brandreth
+bronchia
 blowspray
 beezers
 blowers
@@ -15920,7 +15921,6 @@ birdlet
 bronc
 bronchadenitis
 bronchi
-bronchia
 brooding
 bronchiarctia
 babyship
