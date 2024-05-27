@@ -4112,7 +4112,6 @@ fireboat
 fireboy
 firebolted
 firebomb
-formally
 fakiness
 firebombing
 frostlike
@@ -7353,6 +7352,7 @@ forby
 foreparent
 foreplot
 forebodingly
+formally
 flakiness
 flyness
 forbidals
