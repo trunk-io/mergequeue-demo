@@ -8218,7 +8218,6 @@ diacoustics
 diacranterian
 diacritic
 demidome
-duplicidentata
 dicyema
 ducatoon
 downland
@@ -17349,6 +17348,7 @@ dronkelew
 dronkgrass
 desirers
 daughters
+duplicidentata
 doa
 drooled
 drooly
