@@ -6403,7 +6403,6 @@ farmstead
 flyboat
 fitchet
 fluoridization
-fancier
 fluoridize
 flutier
 fluoridized
@@ -11741,6 +11740,7 @@ fuzz
 fuzzier
 fungiferous
 fenlander
+fancier
 fuzziest
 ferrotype
 forstraught
