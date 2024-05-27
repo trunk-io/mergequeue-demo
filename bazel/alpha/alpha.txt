@@ -6026,7 +6026,6 @@ agamobium
 agglutinize
 anathematization
 agglutinogen
-agglutinogenic
 agglutinoscope
 aspic
 acclaiming
@@ -23890,6 +23889,7 @@ autoaspiration
 autoassimilation
 autobahn
 anisopleurous
+agglutinogenic
 autobahnen
 autobasidia
 actinically
