@@ -2124,6 +2124,7 @@ achatina
 achatinidae
 act
 ache
+almagests
 acheat
 artemisin
 acheer
@@ -9162,7 +9163,6 @@ antilens
 almacen
 adelphophagy
 almacigo
-almagests
 amphiarthrosis
 alman
 authenticatable
