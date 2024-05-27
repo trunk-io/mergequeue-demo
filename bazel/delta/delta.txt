@@ -4528,6 +4528,7 @@ demesman
 dwarf
 depravities
 demesne
+duikerbok
 decl
 demesnes
 declarers
@@ -17965,7 +17966,6 @@ dugway
 deaerator
 duhr
 dui
-duikerbok
 duikerboks
 dantonesque
 droskies
