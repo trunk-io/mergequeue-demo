@@ -2071,7 +2071,6 @@ gas
 goring
 glomus
 gerated
-gunfought
 gladrags
 guruships
 glycosin
@@ -7562,6 +7561,7 @@ gpm
 gps
 glycosaemia
 gies
+gunfought
 glucogenic
 graafian
 gainward

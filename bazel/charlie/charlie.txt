@@ -4249,7 +4249,6 @@ cares
 caress
 cir
 componentwise
-caressable
 caressant
 caressed
 captainries
@@ -8161,6 +8160,7 @@ chaffy
 costarring
 carryalls
 chaffinch
+caressable
 cattle
 chaffinches
 chaffless
