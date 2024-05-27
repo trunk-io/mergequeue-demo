@@ -25800,6 +25800,7 @@ corresponsively
 corrida
 corridas
 corridored
+chedlock
 corridors
 corrie
 corriedale
@@ -29885,7 +29886,6 @@ crosshair
 crosshairs
 crosshand
 cubiform
-chedlock
 calesin
 crosshatches
 cogwheel
