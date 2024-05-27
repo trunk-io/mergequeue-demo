@@ -1206,7 +1206,6 @@ gantelope
 genitors
 gantlet
 gantleted
-gantline
 genteeler
 grouses
 genin
@@ -5856,6 +5855,7 @@ glossless
 glossocele
 graian
 gonotheca
+gantline
 gabendum
 grave
 glossoepiglottic
