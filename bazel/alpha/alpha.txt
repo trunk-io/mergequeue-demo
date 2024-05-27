@@ -1755,7 +1755,6 @@ accumulativeness
 ayne
 accumulator
 accupy
-accur
 acier
 alcyoniform
 accuracy
@@ -16852,6 +16851,7 @@ aphelenchus
 agog
 amylometer
 anterointerior
+accur
 aphelian
 anthophagy
 aphelilia
