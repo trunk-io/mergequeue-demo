@@ -592,6 +592,7 @@ echogram
 endophyllaceae
 enmanche
 echoing
+exfiltration
 everard
 encyclopaedias
 earthshock
@@ -13260,7 +13261,6 @@ exploiture
 explorable
 exploratively
 enragedly
-exfiltration
 explorement
 ectrogeny
 enzyme
