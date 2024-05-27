@@ -12785,6 +12785,7 @@ dismantler
 dam
 dribblets
 dismasted
+defilements
 demipauldron
 ditchdown
 dismastment
@@ -15692,7 +15693,6 @@ demot
 dopping
 doppio
 dactyloscopy
-defilements
 doppler
 dorab
 dorad
