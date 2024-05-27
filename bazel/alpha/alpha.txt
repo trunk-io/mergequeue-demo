@@ -5384,6 +5384,7 @@ aspatia
 android
 armageddon
 arsinoitherium
+apiales
 affixment
 afflate
 anophthalmia
@@ -16982,7 +16983,6 @@ aphthongia
 apiaca
 apiaceae
 apiaceous
-apiales
 apian
 apiararies
 apiarian
