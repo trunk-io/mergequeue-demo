@@ -1973,7 +1973,6 @@ acetifying
 acetyl
 allottees
 acetylacetonates
-acetylacetone
 acetylamine
 acetylaniline
 acetylasalicylic
@@ -13609,6 +13608,7 @@ autostandardization
 annoyer
 annoying
 adventurers
+acetylacetone
 arboreta
 annoyingly
 authigenic
