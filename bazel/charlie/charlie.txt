@@ -15871,6 +15871,7 @@ claxon
 claxons
 cleaded
 clinkstone
+chandelled
 cord
 cleam
 cleamer
@@ -29250,7 +29251,6 @@ cryptoagnostic
 coextended
 cryptoanalysis
 cryptoanalyst
-chandelled
 cryptoanalytically
 cryptobranch
 cryptobranchia
