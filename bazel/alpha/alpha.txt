@@ -10657,7 +10657,6 @@ arkite
 amylolytic
 advenae
 amylom
-amylometer
 amylopectin
 amylophagia
 amyloplast
@@ -16861,6 +16860,7 @@ aphelandra
 averse
 aphelenchus
 agog
+amylometer
 anterointerior
 aphelian
 anthophagy
