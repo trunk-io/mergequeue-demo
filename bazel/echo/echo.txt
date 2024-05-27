@@ -11,6 +11,7 @@ each
 epidermoid
 estocs
 evaporometer
+emigate
 evansite
 ead
 eadi
@@ -3864,7 +3865,6 @@ emyde
 ecumenicity
 externalising
 eysoge
-emigate
 ecclesiologist
 engendering
 ethid
