@@ -4111,6 +4111,7 @@ fireboat
 fireboy
 firebolted
 firebomb
+formally
 fakiness
 firebombing
 frostlike
@@ -8390,7 +8391,6 @@ formerness
 formalized
 formalizer
 foreknowledge
-formally
 formalness
 flaucht
 fantail
