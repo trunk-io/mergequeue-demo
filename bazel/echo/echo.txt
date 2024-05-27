@@ -3580,7 +3580,6 @@ exponentiations
 enbibe
 embossing
 embossman
-embost
 exembryonate
 embottle
 embusqu
@@ -5550,6 +5549,7 @@ espier
 enfire
 epigeic
 enflame
+embost
 enflames
 enduringness
 eukaryote
