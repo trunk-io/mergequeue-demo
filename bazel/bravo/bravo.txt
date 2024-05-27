@@ -2954,7 +2954,6 @@ boobishness
 blobby
 bailed
 barricaded
-baryes
 barricaders
 bedplates
 barricado
@@ -3118,6 +3117,7 @@ baseborn
 birdlime
 basebred
 bacterins
+baryes
 brawnier
 baseburner
 basecourt
