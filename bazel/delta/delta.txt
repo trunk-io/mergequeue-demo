@@ -2780,7 +2780,6 @@ decore
 dewcup
 decorement
 decorist
-doorplate
 dragged
 decorously
 durum
@@ -13723,6 +13722,7 @@ despoiling
 dissociably
 dupers
 dapico
+doorplate
 dissociates
 dissociating
 dissociations
