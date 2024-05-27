@@ -2700,7 +2700,6 @@ benzoic
 barmbrack
 barmcloth
 brither
-barmfel
 becoward
 barms
 barn
@@ -18027,6 +18026,7 @@ busing
 busyworks
 brutification
 brining
+barmfel
 busk
 burghmoot
 buskers
