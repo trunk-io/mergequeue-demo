@@ -2671,6 +2671,7 @@ brachiocrural
 bifluorid
 barlafummil
 barleduc
+befog
 barley
 barleybrake
 broadener
@@ -5188,7 +5189,6 @@ biotas
 bogbean
 beflum
 befluster
-befog
 baetylus
 befogging
 bewinter
