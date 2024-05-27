@@ -7354,6 +7354,7 @@ cocoonery
 chemoautotrophic
 cephalata
 cephalate
+coverts
 cephalemia
 cephaletron
 cephalhematoma
@@ -27601,7 +27602,6 @@ clairce
 coverslip
 covertly
 covertness
-coverts
 coverup
 cadency
 coves
