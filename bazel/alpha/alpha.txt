@@ -1571,7 +1571,6 @@ accommodativeness
 aliet
 accommodators
 accomodate
-arrivage
 accompanier
 australorp
 aguinaldo
@@ -4339,6 +4338,7 @@ adornments
 adorno
 adornos
 adorns
+arrivage
 attestation
 automorph
 antiaircraft
