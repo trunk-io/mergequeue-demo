@@ -8354,7 +8354,6 @@ ablegation
 alif
 alife
 aliferous
-aplanat
 aliform
 adumbrates
 aligerous
@@ -22293,6 +22292,7 @@ astrocytoma
 astrocytomas
 ailerons
 asperger
+aplanat
 astrocompass
 astrodiagnosis
 astrodynamic
