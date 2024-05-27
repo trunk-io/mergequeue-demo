@@ -5094,7 +5094,6 @@ denaturalized
 denaturalizing
 denaturant
 denaturants
-denaturate
 denaturational
 diver
 denature
@@ -18227,6 +18226,7 @@ dungeons
 dunger
 drogermen
 dunghill
+denaturate
 dumbfish
 doxologize
 djakarta
