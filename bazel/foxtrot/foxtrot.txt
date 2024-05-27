@@ -8425,7 +8425,6 @@ formeret
 formerly
 formularizing
 formes
-formfeed
 felling
 fetors
 fibrinoplastic
@@ -10944,6 +10943,7 @@ forequarter
 flapperism
 fulgoroidea
 folk
+formfeed
 farawayness
 foilable
 fiscalizing
