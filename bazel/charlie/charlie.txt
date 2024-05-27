@@ -5256,7 +5256,6 @@ cassegrain
 chromomeric
 counterrotating
 cassegrainian
-casseroled
 casseroling
 concurrent
 carinule
@@ -11284,6 +11283,7 @@ chloremia
 chloremic
 chuffier
 curtail
+casseroled
 christiania
 chlorenchyma
 coassistance
