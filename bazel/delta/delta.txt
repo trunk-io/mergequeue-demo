@@ -10958,7 +10958,6 @@ disaffections
 disaffiliate
 disaffiliated
 disaffiliation
-dialectologies
 disaffinity
 disaffirmance
 disaffirmation
@@ -18061,6 +18060,7 @@ dullsome
 drunkelew
 deflexing
 devoto
+dialectologies
 dulness
 dogskin
 dulnesses
