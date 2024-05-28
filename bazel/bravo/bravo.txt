@@ -1530,6 +1530,7 @@ becost
 ballas
 baronetised
 ballastage
+bersiamite
 bulbiform
 bouton
 backsword
@@ -6892,7 +6893,6 @@ berserker
 blackbirds
 bin
 berserks
-bersiamite
 berskin
 berhyme
 bert
