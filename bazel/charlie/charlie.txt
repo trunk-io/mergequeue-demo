@@ -4879,7 +4879,6 @@ carrotwood
 carrousel
 carrousels
 carageen
-compiles
 carrs
 cars
 carse
@@ -18850,6 +18849,7 @@ commend
 contemplated
 colessor
 colessors
+compiles
 colet
 cobego
 coleur
