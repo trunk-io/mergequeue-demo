@@ -6392,6 +6392,7 @@ fluoridisation
 frasera
 farmstead
 flyboat
+formants
 fitchet
 fluoridization
 fluoridize
@@ -8978,7 +8979,6 @@ fourposter
 flabellarium
 fourragere
 famulative
-formants
 foiblesse
 fermila
 flingdust
