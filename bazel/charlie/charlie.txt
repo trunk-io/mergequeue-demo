@@ -29823,7 +29823,6 @@ crosnes
 cross
 crossability
 circummeridian
-crossable
 cryptopin
 crossarms
 calculate
@@ -30591,6 +30590,7 @@ cloddy
 cephaloclasia
 cuculla
 coleopteral
+crossable
 coprology
 cucullate
 cucullated
