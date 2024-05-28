@@ -3274,7 +3274,6 @@ guisian
 gaelicization
 gepidae
 gyromitra
-guidelines
 geraera
 graylag
 grapheme
@@ -7861,6 +7860,7 @@ gangliest
 granado
 granage
 gastrolavage
+guidelines
 grandparentage
 granam
 granary
