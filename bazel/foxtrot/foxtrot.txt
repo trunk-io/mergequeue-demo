@@ -1595,7 +1595,6 @@ fovent
 floridian
 favored
 feasibilities
-fixes
 farrant
 favorer
 furtherest
@@ -2742,6 +2741,7 @@ fishboat
 fescennine
 fescue
 foggish
+fixes
 fightings
 fungate
 fescues
