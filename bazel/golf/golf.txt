@@ -3650,7 +3650,6 @@ gez
 galloon
 grudgery
 gezerah
-garnishable
 genevieve
 ggr
 gravemaker
@@ -10719,6 +10718,7 @@ gustables
 gustard
 guergal
 grouping
+garnishable
 gustatorial
 geneticists
 groupie
