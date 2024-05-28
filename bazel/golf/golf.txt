@@ -941,7 +941,6 @@ gilia
 genome
 gametophyte
 gelatinate
-gastroduodenotomy
 gadgety
 galerite
 guanabano
@@ -4191,6 +4190,7 @@ gimblet
 gimcrack
 garment
 galictis
+gastroduodenotomy
 glandular
 grasswards
 gulfed
