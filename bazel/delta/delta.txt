@@ -3730,7 +3730,6 @@ degust
 degusted
 degusting
 din
-degusts
 dehache
 dehypnotize
 dehair
@@ -11004,6 +11003,7 @@ disallowed
 disconformably
 dramatised
 dieselized
+degusts
 disaltern
 disambiguate
 disambiguating
