@@ -2253,7 +2253,6 @@ filesave
 fainaiguer
 femme
 femora
-flic
 farmland
 femororotulian
 fen
@@ -11468,6 +11467,7 @@ furriner
 frousier
 favourers
 feudist
+flic
 firebases
 frivols
 flaccidly
