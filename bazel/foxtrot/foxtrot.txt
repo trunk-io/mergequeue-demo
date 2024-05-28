@@ -4551,7 +4551,6 @@ fidia
 fitout
 fairlike
 flypaper
-fittage
 flumadiddle
 fitted
 fitters
@@ -11334,6 +11333,7 @@ feverfew
 fresnels
 frabous
 felicitator
+fittage
 flatulently
 furciform
 furculae
