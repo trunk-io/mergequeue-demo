@@ -2460,6 +2460,7 @@ dialogs
 degorder
 decimetre
 decimolar
+drainpipe
 diplacusis
 driegh
 daysman
@@ -16688,7 +16689,6 @@ disvelop
 drainman
 daiva
 dahabeah
-drainpipe
 dattock
 drainpipes
 dabblers
