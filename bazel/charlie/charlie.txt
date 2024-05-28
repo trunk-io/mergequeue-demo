@@ -3469,6 +3469,7 @@ countershaft
 capsuler
 capsules
 capsuliferous
+cineangiocardiographic
 capsuliform
 capsuling
 capsulitis
@@ -22827,7 +22828,6 @@ consecrate
 consecrater
 chieftess
 criminalese
-cineangiocardiographic
 consecrates
 consecrating
 coticular
