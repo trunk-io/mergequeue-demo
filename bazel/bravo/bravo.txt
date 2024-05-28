@@ -7174,6 +7174,7 @@ bespeaking
 bespeaks
 bespecked
 backrun
+bumaree
 bespeckle
 bespeckled
 blindman
@@ -17257,7 +17258,6 @@ bulwarked
 bulwarking
 bulwarks
 bracken
-bumaree
 baragouin
 blubberman
 bumbard
