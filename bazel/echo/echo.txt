@@ -4003,7 +4003,6 @@ empall
 empanada
 euphoniousness
 exhilaratory
-empanel
 expoundable
 empaneled
 empanelling
@@ -6504,6 +6503,7 @@ egophonic
 entangles
 entanglingly
 entapophysis
+empanel
 enrobe
 entases
 entasia
