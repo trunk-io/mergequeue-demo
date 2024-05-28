@@ -2803,6 +2803,7 @@ barony
 bassets
 baudrons
 bowlers
+blinds
 baronial
 baronize
 baronized
@@ -5300,7 +5301,6 @@ begaze
 begazes
 begazing
 borderer
-blinds
 begem
 bloods
 begettal
