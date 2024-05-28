@@ -9771,7 +9771,6 @@ epimerize
 execrates
 ensearcher
 espingole
-editorialist
 equaling
 espino
 erythroplastid
@@ -13887,6 +13886,7 @@ extrahepatic
 extrait
 eucirripedia
 extirpates
+editorialist
 extramatrical
 extramental
 epupillate
