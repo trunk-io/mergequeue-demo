@@ -1981,7 +1981,6 @@ gynopara
 gumshoe
 gowd
 gummier
-gaudeamus
 gaudery
 gauderies
 grails
@@ -4755,6 +4754,7 @@ gopherroot
 gansy
 goatishly
 galliardly
+gaudeamus
 gyrodactylus
 grapeshot
 gyrodyne

@@ -15137,7 +15137,6 @@ ciudad
 cosmesis
 civ
 carbonado
-cive
 civet
 civetone
 civets
@@ -23026,6 +23025,7 @@ consociated
 consociational
 consociationism
 consociative
+cive
 consocies
 consolable
 copopsia
