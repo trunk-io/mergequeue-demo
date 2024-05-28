@@ -1448,7 +1448,6 @@ evilnesses
 effluve
 effluvia
 epitasis
-effluviable
 effluviate
 effluviography
 essenced
@@ -8802,6 +8801,7 @@ equivoluminal
 engrain
 explainers
 endocline
+effluviable
 equivoque
 equoidean
 eucalypt
