@@ -446,6 +446,7 @@ cadaster
 cadasters
 cadastral
 consultory
+caledonian
 cadastration
 cadastre
 cadastres
@@ -21909,7 +21910,6 @@ confection
 confectionary
 confectioner
 confecture
-caledonian
 confed
 confederacy
 confederalist
