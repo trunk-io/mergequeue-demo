@@ -2842,7 +2842,6 @@ congenialize
 cant
 cantabank
 cantabile
-cantabri
 clothesmonger
 chalcis
 cantabrian
@@ -22664,6 +22663,7 @@ conner
 cuffed
 conners
 connexes
+cantabri
 carthorse
 connexion
 connexionalism
