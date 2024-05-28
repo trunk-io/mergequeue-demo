@@ -13031,7 +13031,6 @@ cia
 crystallised
 cyamid
 cherkesser
-cyamus
 cyan
 cyanacetic
 cyanamid
@@ -23279,6 +23278,7 @@ constructs
 construe
 controversialize
 construer
+cyamus
 construers
 construes
 constuctor
