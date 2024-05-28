@@ -13316,6 +13316,7 @@ botanics
 barton
 bridechamber
 botanies
+basketry
 botanise
 botanist
 bdle
@@ -15190,7 +15191,6 @@ brideknot
 brideless
 bridelope
 bridemaid
-basketry
 bridemaidship
 brides
 brideship
