@@ -9344,7 +9344,6 @@ errant
 errantia
 eurypygae
 errantly
-errantness
 exarch
 epigenous
 errants
@@ -12571,6 +12570,7 @@ extant
 existing
 existlessness
 epistemological
+errantness
 examining
 exit
 exsects
