@@ -143,7 +143,6 @@ cruors
 cablelaid
 cableless
 cablelike
-cableman
 chryseis
 cables
 cablese
@@ -2705,6 +2704,7 @@ cannibalizing
 coelomes
 cannibally
 cannibals
+cableman
 cannie
 cannier
 canniest
