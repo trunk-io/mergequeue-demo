@@ -4195,7 +4195,6 @@ fireplug
 frieze
 fireplugs
 firepot
-fireroom
 fleck
 firers
 fanfoot
@@ -7830,6 +7829,7 @@ forepass
 feedstuffs
 foliously
 forepaws
+fireroom
 foveolets
 fractionisation
 flats
