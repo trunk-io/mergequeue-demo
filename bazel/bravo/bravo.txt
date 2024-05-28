@@ -3112,6 +3112,7 @@ blasters
 boodledom
 bucrnia
 bloodcurdler
+belar
 bitterful
 baseborn
 birdlime
@@ -5703,7 +5704,6 @@ belander
 beclamoring
 balaenicipites
 brunet
-belar
 baggages
 belash
 bindweeds
