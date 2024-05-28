@@ -5295,7 +5295,6 @@ affective
 affectivity
 affectless
 affector
-affectual
 affectum
 affectus
 atresias
@@ -8136,6 +8135,7 @@ antiholiday
 algaesthesia
 algal
 algalia
+affectual
 algarad
 angiolipoma
 anolytes
