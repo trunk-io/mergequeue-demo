@@ -5023,7 +5023,6 @@ gypsyesque
 gladys
 goldurns
 goldhammer
-galleylike
 glads
 goatly
 gladship
@@ -9645,6 +9644,7 @@ galeopithecus
 given
 gruellings
 gruesome
+galleylike
 germens
 gruesomer
 grassworm
