@@ -3492,7 +3492,6 @@ defoam
 dang
 defoamed
 defoamer
-diphtheroid
 dryer
 dichlorohydrin
 despotisms
@@ -6156,6 +6155,7 @@ durgen
 deranging
 deader
 derated
+diphtheroid
 derater
 derating
 dijudicant
