@@ -12463,7 +12463,6 @@ chromatoscope
 couch
 chromatoscopy
 chromatosis
-chromatospheric
 chromaturia
 calciphilic
 chromazurine
@@ -29195,6 +29194,7 @@ cryoscopies
 cryosel
 cryospheric
 criosphinx
+chromatospheric
 criosphinxes
 cryostase
 cryostat
