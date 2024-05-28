@@ -1062,6 +1062,7 @@ busway
 bailiwick
 beaconed
 bridler
+benzothiopyran
 belord
 brasswork
 bailiwicks
@@ -6541,7 +6542,6 @@ benzothiodiazole
 biternate
 benzothiofuran
 benzothiophene
-benzothiopyran
 benzotriazole
 benzotrichloride
 buster
