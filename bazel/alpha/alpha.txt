@@ -21367,7 +21367,6 @@ aftergame
 asker
 askers
 atmograph
-aquiferous
 askewgee
 askile
 asking
@@ -23933,6 +23932,7 @@ autocatalyses
 autocatalysis
 autocatalyze
 autocatharsis
+aquiferous
 afterbody
 autocatheterism
 autocephalia
