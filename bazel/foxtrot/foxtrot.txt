@@ -7516,6 +7516,7 @@ forebush
 forecast
 flatboats
 ferrocyanhydric
+foresummon
 forecastle
 flagellator
 forecastlehead
@@ -8051,7 +8052,6 @@ fcy
 focalizing
 forseeable
 forme
-foresummon
 fireflies
 fulminated
 fabulist
