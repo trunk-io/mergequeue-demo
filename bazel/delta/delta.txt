@@ -11263,7 +11263,6 @@ discants
 distributional
 downgrowth
 dimmable
-discardable
 discarded
 drainageway
 discarding
@@ -13076,6 +13075,7 @@ discoverability
 disperiwig
 detecting
 diaphototropism
+discardable
 diffused
 dethyroidism
 decompositions
