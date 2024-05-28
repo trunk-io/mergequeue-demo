@@ -3876,6 +3876,7 @@ anchorwise
 adient
 adieu
 adieus
+attame
 adighe
 adight
 adin
@@ -11582,7 +11583,6 @@ anacampsis
 asteraceae
 anacamptic
 adjourned
-attame
 anacamptically
 archhead
 after
