@@ -4379,7 +4379,6 @@ demagnetisable
 dioptrometer
 demagnetisation
 demagnetise
-demagnetiser
 detraining
 demagnetising
 diacranteric
@@ -8076,6 +8075,7 @@ dhaura
 dioscuri
 dhaw
 dialleli
+demagnetiser
 dhyal
 departmentize
 deadishly
