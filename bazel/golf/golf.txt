@@ -470,7 +470,6 @@ gierfalcon
 galleyman
 gonimoblast
 glanced
-gollar
 galenites
 galenobismutite
 galenoid
@@ -7090,6 +7089,7 @@ gestalter
 graith
 gaumy
 gercrow
+gollar
 gooselike
 glider
 galyac
