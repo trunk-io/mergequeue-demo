@@ -107,7 +107,6 @@ facias
 faciata
 faciation
 freeport
-faciend
 fisherpeople
 frough
 funtumia
@@ -3824,6 +3823,7 @@ fimbriate
 fimbriated
 flavanthrene
 fimbriating
+faciend
 farcer
 fiscal
 flet
