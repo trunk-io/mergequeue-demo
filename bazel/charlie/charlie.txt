@@ -4731,7 +4731,6 @@ casteism
 carpings
 carpintero
 carpinus
-chirurgy
 carpiodes
 carpium
 carpocace
@@ -14819,6 +14818,7 @@ cystotrachelotomy
 cystourethritis
 counterfeitness
 capitulation
+chirurgy
 cystourethrography
 cystous
 clinopyroxene
