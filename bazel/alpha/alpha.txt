@@ -11991,7 +11991,6 @@ anaphorical
 anaphrodisiac
 anaphroditic
 anaplasia
-anaplasis
 anaplasma
 anaplasmoses
 anaplasmosis
@@ -18895,6 +18894,7 @@ archelogy
 archelon
 archemastry
 apotropaism
+anaplasis
 angioneoplasm
 archenia
 archeocyte
