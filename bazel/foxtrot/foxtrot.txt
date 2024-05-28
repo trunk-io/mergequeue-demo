@@ -6886,7 +6886,6 @@ folkmoots
 fauchard
 fadmonger
 firetower
-faujasite
 folkmoter
 formuliser
 furnaceman
@@ -11355,6 +11354,7 @@ furfures
 foldless
 fished
 furfurine
+faujasite
 furfuroid
 furfurol
 furfurous
