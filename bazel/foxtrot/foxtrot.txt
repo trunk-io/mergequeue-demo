@@ -4856,6 +4856,7 @@ flitch
 forwards
 fibbing
 fchar
+fourteens
 fractabling
 flamen
 fetologist
@@ -8995,7 +8996,6 @@ feature
 foursquareness
 frakfurt
 fourteener
-fourteens
 fatagaga
 frisch
 fourteenths
