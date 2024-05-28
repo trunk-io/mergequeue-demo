@@ -6870,6 +6870,7 @@ desmology
 dupla
 desmoncus
 desmoneoplasm
+deadflat
 desmopathy
 derivative
 desmopathology
@@ -16933,7 +16934,6 @@ dreamsy
 doless
 dianthaceae
 dyspeptics
-deadflat
 dreamt
 dreamtide
 dreamwhile
