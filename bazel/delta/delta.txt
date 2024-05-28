@@ -3545,6 +3545,7 @@ delvers
 deformable
 deformation
 deformational
+dartingness
 delete
 deformations
 deformedly
@@ -12368,7 +12369,6 @@ dinosauric
 divet
 defibrillator
 deamidize
-dartingness
 duckmole
 disheriting
 dynastes
