@@ -4454,7 +4454,6 @@ gyrostabilizer
 grubless
 gravidity
 gnashing
-gawked
 geopony
 geodesist
 genetor
@@ -8316,6 +8315,7 @@ glassweed
 gerocomy
 gateless
 grasserie
+gawked
 greeney
 geopolitics
 gamostely
