@@ -12002,7 +12002,6 @@ disenchanting
 deputyship
 dowd
 disenchantments
-daglock
 dermaskeleton
 disenchantress
 disencharm
@@ -15908,6 +15907,7 @@ darii
 deepeningly
 dossals
 dossed
+daglock
 dossel
 dossels
 drench
