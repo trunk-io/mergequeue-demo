@@ -8992,7 +8992,6 @@ bioastronautical
 bioastronautics
 bioavailability
 biobibliographer
-biobibliography
 barleysick
 behowl
 bioblastic
@@ -17803,6 +17802,7 @@ backfill
 burntweed
 burnup
 burnweed
+biobibliography
 burnwood
 browsage
 burped
