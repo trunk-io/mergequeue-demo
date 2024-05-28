@@ -3384,7 +3384,6 @@ bungled
 bertha
 basoid
 baraithas
-basoko
 beltine
 basommatophora
 bason
@@ -7880,6 +7879,7 @@ babylonian
 biabo
 biacid
 breechblock
+basoko
 biacuru
 blessings
 bodysuits
