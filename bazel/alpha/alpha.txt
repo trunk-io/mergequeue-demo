@@ -1758,7 +1758,6 @@ accuracy
 aminophenol
 accuracies
 ada
-accurately
 approvement
 ammoniaemia
 affliction
@@ -12695,6 +12694,7 @@ antistrumous
 antegrade
 anchoretism
 adrenalone
+accurately
 azoxyanisole
 autophonoscope
 appetizement
