@@ -1493,6 +1493,7 @@ depressure
 deaccession
 darknesses
 deaccessioning
+dingbats
 declive
 deaccessions
 deacetylate
@@ -10137,7 +10138,6 @@ dingar
 deceptible
 duckbills
 dingbat
-dingbats
 dingdonged
 deterge
 dioptometry
