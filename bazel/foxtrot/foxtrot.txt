@@ -3315,7 +3315,6 @@ faction
 flabbergastation
 featherweights
 fidejussor
-fratching
 fortunous
 fidelio
 forchase
@@ -5526,6 +5525,7 @@ fossilation
 flidge
 feminist
 fmt
+fratching
 flied
 flier
 flyer
