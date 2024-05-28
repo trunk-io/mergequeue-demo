@@ -429,7 +429,6 @@ backplane
 brachiostrophosis
 backplanes
 backpointer
-backrope
 braconid
 bushwas
 backropes
@@ -12416,6 +12415,7 @@ bomi
 barbuts
 bomos
 bon
+backrope
 bonace
 bonacis
 bonagh

@@ -1064,7 +1064,6 @@ fobs
 farkleberries
 farley
 flyleaf
-farls
 farmed
 farmeress
 farmerish
@@ -1988,6 +1987,7 @@ firming
 fide
 fortressing
 feere
+farls
 feering
 fautor
 fees
