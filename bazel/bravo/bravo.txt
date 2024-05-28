@@ -2576,6 +2576,7 @@ burgus
 barye
 bannered
 bois
+bielenite
 bronchiocele
 barcolongo
 bemixt
@@ -8281,7 +8282,6 @@ bielding
 benzopinacone
 blimpish
 bielectrolysis
-bielenite
 beardie
 brontophobia
 bash
