@@ -7308,6 +7308,7 @@ gossip
 gratify
 gossiped
 glycerolysis
+guttery
 gossipee
 gossiper
 greensward
@@ -10777,7 +10778,6 @@ gurneys
 grees
 gome
 glycocoll
-guttery
 guttering
 gerrhosauridae
 guttersnipish
