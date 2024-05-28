@@ -2789,7 +2789,6 @@ baroneting
 bitonal
 baronetise
 baronetize
-baronetized
 baronets
 ballistocardiographic
 baronetship
@@ -17657,6 +17656,7 @@ burgoo
 bhakta
 burgraves
 burgraviate
+baronetized
 burgs
 burgundy
 brothier
