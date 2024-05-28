@@ -5012,6 +5012,7 @@ guttersnipe
 guessed
 gladiatrix
 gonoph
+goyim
 gladier
 goutwort
 gladiola
@@ -7568,7 +7569,6 @@ grabouche
 gluside
 grabs
 glasgow
-goyim
 garpike
 gynerium
 gilbertite
