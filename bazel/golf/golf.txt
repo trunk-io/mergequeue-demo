@@ -1611,7 +1611,6 @@ gasmetophytic
 gasogen
 gandermooner
 gasohol
-gasolene
 gasolier
 gangland
 gasoliers
@@ -8453,6 +8452,7 @@ grips
 gourmand
 geranomorph
 gnarled
+gasolene
 gravicembalo
 gravicembalos
 garrotter
