@@ -5473,7 +5473,6 @@ environ
 enervate
 enervates
 enervating
-eccentrometer
 encake
 excitate
 enchainments
@@ -13213,6 +13212,7 @@ equiliria
 explicates
 embryoferous
 eventuation
+eccentrometer
 explicatively
 explicator
 ecclesiasticus
