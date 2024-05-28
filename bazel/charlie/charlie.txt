@@ -20078,7 +20078,6 @@ commendment
 commends
 commensal
 commensalist
-commensalistic
 commensally
 campodeid
 commensals
@@ -31756,6 +31755,7 @@ custos
 custron
 custumal
 cut
+commensalistic
 cutaneal
 cutaneous
 cutaneously
