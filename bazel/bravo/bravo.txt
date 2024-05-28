@@ -4330,7 +4330,6 @@ bathomania
 beautifier
 biriba
 bishopbird
-beautifiers
 beautiful
 beautifulness
 bradoon
@@ -9079,6 +9078,7 @@ biogases
 biogen
 binucleated
 biogenesis
+beautifiers
 backwort
 blepharochalasis
 baudekins
