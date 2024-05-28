@@ -1098,7 +1098,6 @@ emyd
 edgeboned
 edged
 eidolon
-executing
 edgeling
 edgeman
 edger
@@ -6636,6 +6635,7 @@ enuring
 exhedrae
 enterology
 enterologic
+executing
 enteromegaly
 enteromegalia
 enteroneuritis
