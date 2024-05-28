@@ -2960,6 +2960,7 @@ eyewinks
 enfranchisable
 elicitation
 elicitor
+enricher
 ennoblers
 elicitors
 elicits
@@ -9482,7 +9483,6 @@ enfamous
 erythrogenesis
 escapee
 escapees
-enricher
 empark
 executant
 eyehole
