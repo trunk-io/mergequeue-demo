@@ -14766,7 +14766,6 @@ cystolithiasis
 cystolithic
 cystoma
 cystomas
-cystomatous
 cystometer
 cystomyoma
 cystomyxoma
@@ -29215,6 +29214,7 @@ crippleness
 crippler
 cripples
 capillarity
+cystomatous
 crippling
 cripplingly
 ceilinged

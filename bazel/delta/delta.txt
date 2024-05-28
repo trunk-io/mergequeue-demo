@@ -1737,7 +1737,6 @@ deathlessness
 deathlikeness
 dundees
 deathliness
-deathrate
 deathrates
 deaths
 deathsman
@@ -8723,6 +8722,7 @@ dichastasis
 diastematic
 diastematomyelia
 dyaster
+deathrate
 depolarizing
 diastereoisomerism
 diastereomer
