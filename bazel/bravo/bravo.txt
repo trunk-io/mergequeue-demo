@@ -5543,7 +5543,6 @@ briefers
 bahmani
 beholdingness
 behoof
-behoot
 behoove
 behooveful
 behoovefulness
@@ -6533,6 +6532,7 @@ benzosulfimide
 barbaresque
 benzosulphimide
 bedlamer
+behoot
 benzothiazine
 buoyages
 bannerette
