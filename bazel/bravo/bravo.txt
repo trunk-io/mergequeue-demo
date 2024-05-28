@@ -1846,7 +1846,6 @@ bipunctate
 bullose
 burgul
 bakunda
-bandage
 bialystoker
 bandaged
 bandager
@@ -13382,6 +13381,7 @@ benzophenanthroline
 bothrenchyma
 billsticker
 butterpaste
+bandage
 bothria
 bothridia
 bontequagga
