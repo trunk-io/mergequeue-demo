@@ -2066,6 +2066,7 @@ banknote
 badaud
 bristly
 banknotes
+bedeguar
 blobbing
 bologna
 bankrider
@@ -4684,7 +4685,6 @@ bedrid
 bebannered
 bedecking
 bankfull
-bedeguar
 bedehouse
 bedehouses
 bedell
