@@ -5176,7 +5176,6 @@ formulators
 falda
 fencelike
 fossilage
-fallers
 fstore
 flot
 frilal
@@ -5779,6 +5778,7 @@ flamingoes
 finder
 flneuse
 finickier
+fallers
 feff
 fload
 florally
