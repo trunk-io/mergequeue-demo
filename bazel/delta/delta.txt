@@ -354,7 +354,6 @@ densest
 doorboy
 dailamite
 dayless
-daylight
 daylighted
 daylights
 duoviri
@@ -16358,6 +16357,7 @@ discobolus
 divergently
 discinoid
 downsizing
+daylight
 downslide
 downslip
 decibel
