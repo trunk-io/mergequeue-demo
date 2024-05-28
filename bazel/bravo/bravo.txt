@@ -13100,7 +13100,6 @@ boride
 bregmatic
 baselines
 bonspiels
-boringly
 boringness
 borism
 borith
@@ -16491,6 +16490,7 @@ bruzz
 bsf
 bedsit
 baboo
+boringly
 bsh
 bskt
 blubbered
