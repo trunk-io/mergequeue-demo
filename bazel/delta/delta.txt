@@ -8297,7 +8297,6 @@ demegoric
 diagnostician
 dantist
 diagnosticians
-diagnostics
 dispopularize
 disputableness
 demove
@@ -8833,6 +8832,7 @@ diazotype
 dromicia
 diazotization
 deratization
+diagnostics
 diazotized
 dib
 dibasicity
