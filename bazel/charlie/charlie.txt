@@ -2036,6 +2036,7 @@ campaigns
 campana
 campane
 campanella
+coadjuvancy
 campanero
 campania
 cecils
@@ -17149,7 +17150,6 @@ carduus
 coadjutorship
 coadjutress
 coadjutrix
-coadjuvancy
 coadjuvant
 coadjuvate
 candystick
