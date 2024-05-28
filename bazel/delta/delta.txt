@@ -402,7 +402,6 @@ daiquiri
 dairi
 densitometry
 diathermia
-deboning
 dairies
 dairying
 dairyings
@@ -8766,6 +8765,7 @@ depolarising
 diatoma
 diatomaceae
 diatomaceous
+deboning
 doorframe
 domelike
 diatomales
