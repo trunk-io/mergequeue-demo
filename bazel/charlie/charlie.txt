@@ -4247,7 +4247,6 @@ carers
 cares
 caress
 cir
-componentwise
 caressant
 caressed
 captainries
@@ -24977,6 +24976,7 @@ corambis
 coran
 crassitude
 coranto
+componentwise
 combfishes
 corantoes
 chumpivilca
