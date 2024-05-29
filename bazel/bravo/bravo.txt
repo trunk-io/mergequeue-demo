@@ -5246,6 +5246,7 @@ bluebead
 befretting
 buoyage
 befriended
+bellbind
 befriender
 benignly
 befriending
@@ -5841,7 +5842,6 @@ bonos
 bellacoola
 belladonna
 bellatrix
-bellbind
 bigoted
 buckjump
 beaverroot
