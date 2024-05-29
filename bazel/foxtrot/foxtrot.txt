@@ -42,7 +42,6 @@ flintless
 flick
 fabricators
 fabricature
-filters
 futurities
 fuddledness
 fabronia
@@ -1668,6 +1667,7 @@ feaberry
 firoloida
 faults
 frugivora
+filters
 feak
 federate
 fealty
