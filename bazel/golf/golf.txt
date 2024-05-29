@@ -3159,7 +3159,6 @@ garnetz
 grands
 geomorphy
 graphiter
-gothicize
 gerbils
 gamelin
 gangliate
@@ -8858,6 +8857,7 @@ gaddingly
 grandiloquous
 gnaw
 gribble
+gothicize
 grice
 gnomon
 gras
