@@ -2058,7 +2058,6 @@ feldspar
 farewelling
 funebrial
 ft
-forclose
 feronia
 feldspath
 forerigging
@@ -10814,6 +10813,7 @@ fuchsone
 fucinita
 freesilverite
 foreappoint
+forclose
 fucus
 fucused
 facepiece
