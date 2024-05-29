@@ -555,7 +555,6 @@ accompaniments
 ablutionary
 abluvion
 assai
-abmodality
 abmodalities
 airscrew
 acusector
@@ -14045,6 +14044,7 @@ advertizable
 antalgesic
 antalgics
 antalgol
+abmodality
 antalkalies
 acraspeda
 antalkaline
