@@ -1182,6 +1182,7 @@ embowelled
 edition
 editions
 editor
+exploitation
 editorial
 editorialization
 editorialize
@@ -10192,7 +10193,6 @@ ethenic
 ethenoid
 ethenol
 ensorcelize
-exploitation
 erythromelalgia
 ebb
 etheostominae
