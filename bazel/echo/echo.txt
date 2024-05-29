@@ -2581,7 +2581,6 @@ encyclopaedian
 exposal
 electrobrasser
 ee
-electrooptically
 electroori
 encomendero
 eirenicon
@@ -8912,6 +8911,7 @@ enteritidis
 escharoid
 englue
 elementary
+electrooptically
 erenach
 ereptic
 erer
