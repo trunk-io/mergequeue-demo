@@ -11678,7 +11678,6 @@ boatowner
 boats
 boatsetter
 boatshop
-bugology
 boatsteerer
 brandying
 boatswain
@@ -16496,6 +16495,7 @@ baboo
 boringly
 bsh
 bskt
+bugology
 blubbered
 barnful
 bt
