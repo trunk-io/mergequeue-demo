@@ -11358,7 +11358,6 @@ amphivasal
 amphodarch
 anthyllis
 amphogeny
-ampholyte
 ampholytic
 abaff
 amphophilic
@@ -12248,6 +12247,7 @@ aminish
 anchorets
 autotransplant
 angiometer
+ampholyte
 almach
 anchorite
 astate
