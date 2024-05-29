@@ -18357,7 +18357,6 @@ cogitant
 cogitantly
 cogitates
 cogitation
-cogitations
 curassow
 cogitativity
 cogitator
@@ -19178,6 +19177,7 @@ collock
 compartmentalizes
 collocution
 collocutor
+cogitations
 collodion
 collodionization
 culpate
