@@ -13,7 +13,6 @@ epidermoid
 estocs
 evaporometer
 emigate
-evansite
 eadi
 excoriator
 eadios
@@ -10293,6 +10292,7 @@ electrooptical
 evicted
 emotionalistic
 euphausia
+evansite
 epanorthosis
 elritch
 ethidene
