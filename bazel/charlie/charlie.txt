@@ -2872,7 +2872,6 @@ cantate
 cantation
 cantatory
 cantatrice
-cantatrices
 chestily
 cantboard
 chorioids
@@ -3717,6 +3716,7 @@ chimalakwe
 carbamino
 circum
 carbanilid
+cantatrices
 convenership
 carbaryl
 camden
