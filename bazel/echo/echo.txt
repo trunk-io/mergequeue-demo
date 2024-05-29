@@ -1410,7 +1410,6 @@ embrue
 efficacies
 embroche
 extraordinaries
-efficience
 epicotyleal
 endochylous
 exhortation
@@ -1788,6 +1787,7 @@ eyepoint
 eyereach
 eyeroot
 eupomatia
+efficience
 exhbn
 eutony
 eyes
