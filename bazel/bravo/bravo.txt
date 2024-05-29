@@ -10992,7 +10992,6 @@ blintzes
 bluming
 blacksmiths
 bafta
-blypes
 barkeep
 billowy
 blips
@@ -17838,6 +17837,7 @@ bacterizing
 brave
 begani
 bursarial
+blypes
 bursaries
 bursars
 beanies
