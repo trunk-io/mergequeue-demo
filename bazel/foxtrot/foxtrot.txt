@@ -1395,6 +1395,7 @@ fairnesses
 fatigue
 fossicks
 fatiguesome
+fusc
 fatiguingly
 fulminuric
 fatiha
@@ -11522,7 +11523,6 @@ fusariose
 frictionize
 fusariosis
 fusate
-fusc
 fuscin
 fuscohyaline
 fibrolipomatous
