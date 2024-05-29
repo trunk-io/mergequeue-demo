@@ -2502,6 +2502,7 @@ fibrinoid
 faburden
 faceted
 ferned
+fallibly
 fernery
 foremessenger
 fry
@@ -8633,7 +8634,6 @@ febrifuge
 frankhearted
 filmiest
 florescence
-fallibly
 forthrightly
 favoress
 fadges
