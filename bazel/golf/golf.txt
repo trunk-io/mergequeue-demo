@@ -4760,7 +4760,6 @@ glossitic
 gadzooks
 graphometer
 gowkit
-gumfield
 groszy
 gasconade
 galliards
@@ -9415,6 +9414,7 @@ groundy
 guar
 gulllike
 gunnies
+gumfield
 groundlessly
 graysbies
 guacharos
