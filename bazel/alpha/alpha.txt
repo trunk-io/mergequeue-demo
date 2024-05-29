@@ -10148,7 +10148,6 @@ antihemophilic
 amblyopic
 amblyopsidae
 arecaceae
-amblyopsis
 amblyoscope
 amblyrhynchus
 alchymies
@@ -19082,6 +19081,7 @@ architectress
 architects
 autoallogamy
 architecturalist
+amblyopsis
 architecture
 architectures
 architecturesque
