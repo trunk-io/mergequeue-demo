@@ -315,6 +315,7 @@ backchat
 backchats
 bindweb
 boule
+burg
 backcourt
 backcourtman
 backcross
@@ -17574,7 +17575,6 @@ burettes
 bashkir
 burfish
 buccellarius
-burg
 bhima
 burgage
 bobble
