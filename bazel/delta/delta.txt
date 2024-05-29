@@ -13006,7 +13006,6 @@ dispel
 dory
 decampment
 dispelling
-dorsimedian
 dispels
 decliners
 direly
@@ -18245,6 +18244,7 @@ draffs
 desiderating
 dunite
 disyokes
+dorsimedian
 dunitic
 duniwassal
 dunk
