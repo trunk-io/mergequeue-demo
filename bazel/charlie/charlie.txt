@@ -7557,7 +7557,6 @@ copei
 clergyman
 cambrian
 ceraunograph
-ceraunomancy
 costmary
 ceraunophone
 ceraunoscope
@@ -12504,6 +12503,7 @@ conacre
 courtroom
 chromium
 chromiums
+ceraunomancy
 clerisy
 colder
 chromize
