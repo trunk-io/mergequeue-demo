@@ -716,7 +716,6 @@ dance
 danceability
 danceable
 deruralize
-diaskeuast
 danced
 dejectedly
 diddled
@@ -14634,6 +14633,7 @@ dolent
 ditheistic
 djuka
 desipience
+diaskeuast
 dk
 dkg
 dkl
