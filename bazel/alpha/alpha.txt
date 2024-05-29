@@ -7251,7 +7251,6 @@ ablation
 alabamine
 acetoin
 acidic
-alabandine
 alabarch
 alabaster
 aphizog
@@ -14142,6 +14141,7 @@ antecubital
 antecurvature
 anted
 antifungin
+alabandine
 antegarden
 acrosarcum
 asbestiform
