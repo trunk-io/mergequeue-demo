@@ -5542,6 +5542,7 @@ goujon
 glyptotherium
 globeholder
 glires
+golems
 gliridae
 glirine
 groundbreaker
@@ -8402,7 +8403,6 @@ gibaro
 geohydrologist
 geebong
 glossotype
-golems
 gobiesox
 gravely
 groupers
