@@ -1453,7 +1453,6 @@ carbonometry
 coecal
 calk
 calked
-calker
 continents
 careening
 calkers
@@ -14975,6 +14974,7 @@ citolas
 citole
 citoles
 cytolymph
+calker
 cytolysin
 counterglow
 cytolist
