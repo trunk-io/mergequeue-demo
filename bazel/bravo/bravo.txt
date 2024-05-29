@@ -6518,7 +6518,6 @@ barfy
 benzonaphthol
 benzonitrile
 benzonitrol
-benzophenanthrazine
 benzophenone
 benzophenothiazine
 benzophloroglucinol
@@ -11861,6 +11860,7 @@ borussian
 barcan
 beperiwigged
 barytocelestine
+benzophenanthrazine
 bodysurfed
 bollworms
 bodysurfer
