@@ -979,7 +979,6 @@ burnie
 bahuma
 bobbing
 beings
-bicycling
 bahur
 bahut
 bakuninist
@@ -10274,6 +10273,7 @@ blacklegged
 blackleggery
 blacklegism
 blacklist
+bicycling
 blacklisted
 blacklister
 beparse
