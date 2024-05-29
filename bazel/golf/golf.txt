@@ -2149,7 +2149,6 @@ griefs
 gawkhammer
 geat
 gump
-gawky
 ghouls
 gemul
 gonystylaceae
@@ -10771,6 +10770,7 @@ gaylussacia
 grabber
 guttated
 guttation
+gawky
 guttee
 gorgonizing
 gallybagger
