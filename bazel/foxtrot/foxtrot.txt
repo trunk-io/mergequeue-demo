@@ -579,7 +579,6 @@ falltime
 fuzzy
 falsary
 falsehearted
-funt
 fade
 forage
 flowerfly
@@ -7403,6 +7402,7 @@ fey
 foisted
 forceput
 fazing
+funt
 fileable
 forces
 forcet
