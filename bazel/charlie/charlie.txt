@@ -9158,6 +9158,7 @@ charquid
 charr
 charras
 charre
+cysticarpic
 charred
 charrette
 consenescence
@@ -14707,7 +14708,6 @@ cornier
 compotier
 cystic
 cabuja
-cysticarpic
 cysticarpium
 cognomina
 cysticercerci
