@@ -6786,7 +6786,6 @@ cellaret
 caffeine
 cellarette
 cellarmen
-cartograph
 cellars
 chirologies
 chaplet
@@ -9424,6 +9423,7 @@ chaute
 chauth
 chauve
 consulating
+cartograph
 chauvin
 chauvinism
 chauvinist
