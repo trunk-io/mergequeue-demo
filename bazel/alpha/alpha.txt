@@ -5410,7 +5410,6 @@ abranchian
 afflictions
 archoplasm
 afflictive
-afflictively
 aluminosity
 avadavats
 agrionidae
@@ -24825,6 +24824,7 @@ avoidant
 anginoid
 avoider
 avoidment
+afflictively
 avoids
 avoyership
 afflict
