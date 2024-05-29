@@ -2992,7 +2992,6 @@ embosk
 elymus
 elinguate
 elinguating
-elinguation
 eleatic
 evaluate
 electing
@@ -11224,6 +11223,7 @@ evadingly
 emprime
 ekronite
 evadne
+elinguation
 enviroment
 exonuclease
 exanthema
