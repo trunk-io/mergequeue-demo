@@ -20682,7 +20682,6 @@ arilli
 aethered
 arthrospore
 arthrosporic
-arthrosporous
 arthrosteitis
 arthrostome
 arthrostomy
@@ -22152,6 +22151,7 @@ armlessly
 astigmatometer
 atrocoeruleus
 astigmatometry
+arthrosporous
 astigmatoscope
 astigmatoscopy
 astigmia
