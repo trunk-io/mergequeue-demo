@@ -11345,7 +11345,6 @@ enrank
 evaporimeter
 evaporitic
 evapotranspiration
-evasional
 evasions
 ergatoid
 encephalomeric
@@ -12153,6 +12152,7 @@ eulogia
 excud
 excudate
 exulcerated
+evasional
 enamourment
 entwite
 ecocide
