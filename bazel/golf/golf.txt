@@ -439,7 +439,6 @@ goliard
 gastrojejunal
 gardenable
 glassblowers
-gunnery
 gammexane
 galeeny
 galega
@@ -8406,6 +8405,7 @@ gibaro
 geohydrologist
 geebong
 glossotype
+gunnery
 gobiesox
 gravely
 groupers
