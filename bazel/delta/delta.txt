@@ -2424,6 +2424,7 @@ disjoins
 deciliters
 druidry
 doorbells
+dispelled
 dripstick
 disaffects
 dowered
@@ -13004,7 +13005,6 @@ divorceable
 dispel
 dory
 decampment
-dispelled
 dispelling
 dorsimedian
 dispels
