@@ -2533,7 +2533,6 @@ bergmannite
 bromins
 bargainable
 billbugs
-bullbat
 bargainer
 bargaining
 beechwoods
@@ -2756,6 +2755,7 @@ barognosis
 barograms
 bioscientific
 baroko
+bullbat
 brigandishly
 bismutoplagionite
 barolo
