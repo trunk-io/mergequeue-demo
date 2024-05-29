@@ -820,7 +820,6 @@ gandergoose
 gottlieb
 gamari
 gamash
-gonidium
 gamashes
 gamasidae
 goombay
@@ -8223,6 +8222,7 @@ gawks
 gallah
 genonema
 goaltenders
+gonidium
 grappling
 grapsidae
 graptolitha
