@@ -8020,7 +8020,6 @@ contes
 cf
 cofeatures
 cfd
-cgs
 ch
 cha
 colloquized
@@ -9089,6 +9088,7 @@ charlatanical
 charlatanistic
 casette
 circumnutate
+cgs
 charlatanries
 charlatans
 charley
