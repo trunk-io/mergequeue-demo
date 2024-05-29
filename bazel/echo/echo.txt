@@ -3816,7 +3816,6 @@ esthetical
 ethnohistorical
 eggshells
 emigre
-emendator
 emended
 epinikian
 emending
@@ -6291,6 +6290,7 @@ earle
 escharine
 ens
 emmenagogue
+emendator
 epicureans
 ensafe
 elenchtic
