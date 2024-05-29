@@ -15838,7 +15838,6 @@ clavilux
 coy
 claviole
 clavipectoral
-clavis
 clavises
 clavolet
 chapel
@@ -24525,6 +24524,7 @@ copaiye
 cupfuls
 copaiva
 courtliness
+clavis
 copaivic
 copal
 copalche
