@@ -1699,7 +1699,6 @@ accretive
 accriminate
 arthuriana
 accroach
-accroached
 accroaching
 accroides
 accruable
@@ -16477,6 +16476,7 @@ antlerite
 antlerless
 antlers
 antlia
+accroached
 antliate
 antlid
 anilinctus
