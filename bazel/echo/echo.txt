@@ -6842,6 +6842,7 @@ entombed
 eumenes
 ectosarcs
 enl
+epicranial
 elastic
 entombing
 entombs
@@ -7048,7 +7049,6 @@ entrer
 entresols
 entresse
 endocardial
-epicranial
 entria
 entryman
 entrymen
