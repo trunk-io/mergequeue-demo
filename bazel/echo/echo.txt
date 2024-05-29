@@ -3534,7 +3534,6 @@ embole
 embolectomy
 enicuridae
 emasculative
-erythrophagous
 entrecotes
 embolemia
 emboli
@@ -4513,6 +4512,7 @@ encephalasthenia
 exurbias
 encephalic
 encephalin
+erythrophagous
 encephalitic
 exocolitis
 emulators
