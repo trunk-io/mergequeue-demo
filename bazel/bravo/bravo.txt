@@ -943,6 +943,7 @@ bagwigs
 bagwyn
 bagwomen
 bagwork
+baker
 behear
 bah
 bahadur
@@ -1204,7 +1205,6 @@ bloop
 bakeout
 bakeoven
 bimillenniums
-baker
 bakeress
 bakeries
 bakerless
