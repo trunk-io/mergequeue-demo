@@ -778,7 +778,6 @@ fellowlike
 fermacy
 fanfaronade
 fanfarons
-ferricyanogen
 funnellike
 fabricable
 freemasonry
@@ -8510,6 +8509,7 @@ fanlike
 famulus
 fred
 falconelle
+ferricyanogen
 feathers
 frenchwise
 fleeing
