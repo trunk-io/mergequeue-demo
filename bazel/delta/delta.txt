@@ -2721,7 +2721,6 @@ dialectics
 decongest
 decongestant
 decongestants
-dgag
 deltoidei
 decongesting
 decongestion
@@ -6384,6 +6383,7 @@ dermoidectomy
 desexed
 denigrating
 dermol
+dgag
 dermoneural
 drassid
 dacryoadenalgia
