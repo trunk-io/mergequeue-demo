@@ -11695,7 +11695,6 @@ anaemotropy
 anaeretic
 astrometeorologist
 anaerobation
-anaerobes
 anaerobian
 anaerobic
 acrocentric
@@ -21742,6 +21741,7 @@ assents
 asseour
 assert
 asserta
+anaerobes
 assertable
 asserted
 autocorrelate
