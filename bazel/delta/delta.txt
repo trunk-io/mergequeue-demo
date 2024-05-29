@@ -5917,7 +5917,6 @@ deprecatorily
 depreciable
 depreciate
 deponents
-depreciated
 devitalise
 depreciatingly
 depreciation
@@ -18105,6 +18104,7 @@ dumbstricken
 dumbstruck
 demagnetize
 dumbwaiter
+depreciated
 dumdum
 dumdums
 dumetose
