@@ -9601,7 +9601,6 @@ checkrowing
 consummatively
 checkrows
 checks
-checkstrap
 chapatty
 checkstring
 cuissen
@@ -21954,6 +21953,7 @@ catslide
 confers
 conferted
 collodionize
+checkstrap
 congregate
 corpusculated
 confervaceae
