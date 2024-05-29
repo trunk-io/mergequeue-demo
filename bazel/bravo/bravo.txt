@@ -2922,6 +2922,7 @@ barreleyes
 belap
 barrelet
 barrelfish
+bookend
 barrelfishes
 batuque
 botanical
@@ -3921,7 +3922,6 @@ bavian
 bavius
 bawarchi
 bawble
-bookend
 bawcocks
 bummaree
 bioscience
