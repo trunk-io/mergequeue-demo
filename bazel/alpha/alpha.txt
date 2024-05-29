@@ -22290,6 +22290,7 @@ astrocytomas
 ailerons
 asperger
 aplanat
+atmologist
 astrocompass
 astrodiagnosis
 astrodynamic
@@ -22750,7 +22751,6 @@ atmology
 atmologic
 anisotropous
 atmological
-atmologist
 atmometry
 atmometric
 allheal
