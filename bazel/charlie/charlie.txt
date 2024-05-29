@@ -16652,7 +16652,6 @@ clonothrix
 clonus
 cloof
 chymaqueous
-cloop
 cloot
 clootie
 chargeling
@@ -28352,6 +28351,7 @@ cravening
 cravenly
 cravens
 clod
+cloop
 craver
 cravers
 carboxy
