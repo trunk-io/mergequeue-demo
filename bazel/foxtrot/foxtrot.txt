@@ -1233,7 +1233,6 @@ fashing
 fiddley
 forediscern
 foliages
-foremarch
 fascinate
 fratchy
 falasha
@@ -4896,6 +4895,7 @@ finials
 flamingant
 flamingos
 flong
+foremarch
 fermentitious
 feldsher
 fantaseid
