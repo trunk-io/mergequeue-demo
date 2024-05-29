@@ -3620,7 +3620,6 @@ degassed
 demandant
 degassing
 disappears
-degauss
 dunnesses
 degaussing
 degelatinize
@@ -14425,6 +14424,7 @@ dihelios
 decoupling
 divestment
 deckhouse
+degauss
 demonstrationists
 divi
 douter
