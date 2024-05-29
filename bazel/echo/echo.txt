@@ -2981,7 +2981,6 @@ elymi
 eulysite
 eliminable
 eliminate
-entoplastic
 equiprobabilism
 eliminated
 equaled
@@ -11678,6 +11677,7 @@ ecphasis
 exaggerative
 ecoid
 electrological
+entoplastic
 exaggeratively
 exsuccous
 exagitate
