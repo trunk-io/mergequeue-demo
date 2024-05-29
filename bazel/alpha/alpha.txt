@@ -2656,6 +2656,7 @@ acquiescence
 acquiescency
 aftersupper
 acquiescent
+abacli
 ansate
 acquiescently
 acquiescer
@@ -8216,7 +8217,6 @@ abulyeit
 algological
 algologist
 algoman
-abacli
 algometrical
 algometrically
 algomic
