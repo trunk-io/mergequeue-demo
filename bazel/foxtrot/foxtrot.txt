@@ -1760,6 +1760,7 @@ featheriness
 fetichmonger
 forsterite
 farsalah
+forlorn
 foundery
 fetid
 featherless
@@ -4837,7 +4838,6 @@ favouredness
 foxings
 flambant
 forged
-forlorn
 frequentable
 flambeau
 frocking
