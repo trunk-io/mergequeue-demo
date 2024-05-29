@@ -3460,7 +3460,6 @@ centinody
 capsuled
 countershaft
 capsuler
-capsules
 capsuliferous
 capsuliform
 capsuling
@@ -16601,6 +16600,7 @@ cloisterlike
 coltish
 cosmopathic
 cloisterliness
+capsules
 cloisters
 cloisterwise
 cloistral
