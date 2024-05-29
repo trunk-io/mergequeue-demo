@@ -5573,6 +5573,7 @@ enfoldings
 enfoldment
 elevators
 enfolds
+enfeeblement
 enfoncee
 ephemerae
 effectiveness
@@ -7739,7 +7740,6 @@ epidemiologic
 epistolean
 elds
 embryologic
-enfeeblement
 ethylating
 efficacity
 egglike
