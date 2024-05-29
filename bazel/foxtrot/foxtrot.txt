@@ -4033,7 +4033,6 @@ fieldman
 flatbottom
 filelike
 farcist
-finlet
 funorin
 frondescing
 finmarks
@@ -10537,6 +10536,7 @@ flagella
 fetidly
 firewarden
 firemen
+finlet
 foresummer
 frowl
 fierily
