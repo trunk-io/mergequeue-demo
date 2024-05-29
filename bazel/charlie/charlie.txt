@@ -5964,7 +5964,6 @@ cuckstool
 cathodical
 cathodically
 cathodograph
-cardioschisis
 cathodography
 cathodoluminescence
 cathograph
@@ -14803,6 +14802,7 @@ cystoschisis
 cystoscopies
 cariole
 cystose
+cardioschisis
 cystosyrinx
 cystospasm
 cystospastic
