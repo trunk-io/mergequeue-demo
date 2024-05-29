@@ -2858,7 +2858,6 @@ barouchette
 barouni
 baroxyton
 barque
-belite
 beebread
 bawrel
 buttonmold
@@ -17355,6 +17354,7 @@ boutel
 bunce
 bunch
 buncher
+belite
 bucoliast
 bunches
 bunchflower
