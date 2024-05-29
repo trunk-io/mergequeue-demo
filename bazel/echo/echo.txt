@@ -590,7 +590,6 @@ elocutionize
 echiurus
 echocardiogram
 enucleator
-echoed
 echoey
 epirrhema
 endemic
@@ -4308,6 +4307,7 @@ expectedly
 emunctories
 excluders
 epigraphical
+echoed
 emunge
 emusifies
 engs
