@@ -4354,7 +4354,6 @@ culvertage
 confidentiality
 carillonneur
 cityish
-carillonneurs
 carillonning
 carillons
 carina
@@ -10733,6 +10732,7 @@ chiminage
 chymist
 chymists
 chimla
+carillonneurs
 chimleys
 calciclase
 chytridial
