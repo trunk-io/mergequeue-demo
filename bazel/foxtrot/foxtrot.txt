@@ -527,7 +527,6 @@ feedman
 forded
 fondon
 falern
-falerno
 fall
 fissirostral
 fenestellidae
@@ -2567,6 +2566,7 @@ ferreter
 freebee
 ferrets
 foresightful
+falerno
 flanes
 ferryboat
 formaldehyd
