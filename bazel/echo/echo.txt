@@ -14,7 +14,6 @@ estocs
 evaporometer
 emigate
 evansite
-ead
 eadi
 excoriator
 earthmove
@@ -1117,6 +1116,7 @@ edginess
 edgings
 edgrow
 enormous
+ead
 ensanguining
 exclaimer
 equerries
