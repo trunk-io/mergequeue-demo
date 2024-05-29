@@ -7388,7 +7388,6 @@ bystanders
 betask
 bottier
 birde
-betatron
 betatrons
 betattered
 beclothing
@@ -16750,6 +16749,7 @@ boswell
 buddle
 boodler
 buddleia
+betatron
 bunkhouses
 buddleias
 buddling
