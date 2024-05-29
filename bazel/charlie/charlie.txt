@@ -520,7 +520,6 @@ cadets
 cadetship
 cadette
 cadettes
-coulis
 colorists
 coprecipitating
 competence
@@ -23342,6 +23341,7 @@ consulto
 consultor
 consults
 consumable
+coulis
 consumate
 consumated
 consumating
