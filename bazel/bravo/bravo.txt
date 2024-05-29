@@ -7266,6 +7266,7 @@ bellical
 bestatued
 boba
 breme
+burrito
 besteads
 besteal
 bedcover
@@ -16747,7 +16748,6 @@ buddie
 buddies
 beechnuts
 budding
-burrito
 boswell
 buddle
 boodler
