@@ -15366,7 +15366,6 @@ ampulla
 alloquialism
 antigenes
 antigigmanic
-antiglyoxalase
 antiglobulin
 antigonon
 antigonorrheic
@@ -21411,6 +21410,7 @@ autoclastic
 agnoiology
 asparagic
 asparagyl
+antiglyoxalase
 asparagin
 arachnactis
 asparaginic
