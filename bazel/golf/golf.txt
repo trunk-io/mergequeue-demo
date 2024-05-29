@@ -1873,7 +1873,6 @@ gildsman
 goodly
 gastrostenosis
 gastrostomy
-gastrostomies
 gonimolobe
 gatehouses
 guipures
@@ -6604,6 +6603,7 @@ grecomaniac
 gie
 golfings
 galleypot
+gastrostomies
 gurry
 grit
 golgothas
