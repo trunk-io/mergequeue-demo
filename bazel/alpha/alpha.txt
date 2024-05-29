@@ -794,7 +794,6 @@ adsbud
 admittedly
 abrine
 abris
-aerosphere
 abristle
 abroach
 abrocome
@@ -23809,6 +23808,7 @@ autem
 auteur
 auth
 amampondo
+aerosphere
 afterrake
 arthritics
 authentic
