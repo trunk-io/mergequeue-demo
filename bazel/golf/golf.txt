@@ -8264,7 +8264,6 @@ gnatter
 golds
 gummiferous
 grasshop
-grasshopper
 gnarling
 greeniest
 grins
@@ -9568,6 +9567,7 @@ gulfs
 growleries
 gowds
 gildhall
+grasshopper
 growly
 growliest
 gardener
