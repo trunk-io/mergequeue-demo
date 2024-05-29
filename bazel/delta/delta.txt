@@ -1591,7 +1591,6 @@ deadpans
 deadrise
 displeasurably
 deadweight
-deadwood
 deadwork
 deaerated
 dorsum
@@ -13487,6 +13486,7 @@ dinitrile
 dissava
 dysphoria
 destain
+deadwood
 duplicident
 demiglobe
 didelphis
