@@ -595,7 +595,6 @@ gambet
 goffle
 gowan
 graptolitic
-greyhound
 glycoprotein
 gallicisms
 gimpy
@@ -3879,6 +3878,7 @@ giboia
 goyle
 gibstaff
 galeche
+greyhound
 gavelage
 gibuses
 giddap
