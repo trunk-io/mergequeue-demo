@@ -11305,6 +11305,7 @@ chloridellidae
 chlorider
 coattail
 chlorides
+covers
 chloridic
 chloridize
 chloridized
@@ -27589,7 +27590,6 @@ circumambiently
 consumation
 coverlid
 coverlids
-covers
 caller
 coverside
 coversine
