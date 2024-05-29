@@ -8294,7 +8294,6 @@ bienness
 biennial
 biennially
 browpost
-biennium
 boyism
 bronchial
 biens
@@ -11607,6 +11606,7 @@ boardbill
 boarded
 bibulosity
 boardinghouse
+biennium
 boardings
 boardly
 boards
