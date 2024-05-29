@@ -12158,7 +12158,6 @@ acedia
 anatomicopathologic
 arteriofibrosis
 anatomies
-alloplasmic
 anatomise
 anatomiser
 anatomist
@@ -13266,6 +13265,7 @@ ammelin
 abow
 almaine
 animist
+alloplasmic
 animistic
 anabatic
 animists
