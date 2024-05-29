@@ -2942,7 +2942,6 @@ acropodium
 adeps
 acropoleis
 acuminated
-acropolis
 acropolitan
 acropora
 acropore
@@ -6787,6 +6786,7 @@ archimpressionist
 anc
 ampitheater
 aimless
+acropolis
 apprecate
 antiprohibition
 aimlessly
