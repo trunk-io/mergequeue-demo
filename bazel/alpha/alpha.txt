@@ -18107,6 +18107,7 @@ approver
 antiempirical
 allothigene
 approvers
+authenticate
 approves
 amphidesmous
 approving
@@ -23811,7 +23812,6 @@ afterrake
 arthritics
 authentic
 authentically
-authenticate
 authenticated
 authenticates
 authentication
