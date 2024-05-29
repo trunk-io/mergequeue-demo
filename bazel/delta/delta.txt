@@ -7881,7 +7881,6 @@ degraders
 devulgarize
 defaulter
 devvel
-devwsor
 dew
 diatoric
 dewani
@@ -9154,6 +9153,7 @@ dandering
 didymis
 didymus
 dimmed
+devwsor
 demonetised
 didynamian
 downcast
