@@ -9244,7 +9244,6 @@ dossils
 dimnesses
 dictynid
 diencephala
-diencephalic
 deepwaterman
 departed
 diencephalon
@@ -17561,6 +17560,7 @@ druidical
 denumeral
 decrew
 druidisms
+diencephalic
 druids
 druith
 dipterology
