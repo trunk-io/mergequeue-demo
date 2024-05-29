@@ -1763,7 +1763,6 @@ eliding
 eyelessness
 eyelet
 eyeleted
-eyeletted
 eyeletting
 eyelid
 eyelids
@@ -14119,6 +14118,7 @@ extrospect
 extrospective
 extroversion
 equivorous
+eyeletted
 extroversive
 epitheton
 extrovert
