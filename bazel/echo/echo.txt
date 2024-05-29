@@ -2362,6 +2362,7 @@ electroplating
 electroplates
 epiphenomenal
 elasmosaur
+effectiveness
 eutectic
 emulsifying
 egba
@@ -5576,7 +5577,6 @@ enfolds
 enfeeblement
 enfoncee
 ephemerae
-effectiveness
 excusers
 elytrtra
 energistic
