@@ -2978,7 +2978,6 @@ countergager
 cantoral
 cantoria
 cantorial
-cantorian
 cardsharps
 crystallographic
 cantoris
@@ -3729,6 +3728,7 @@ crimpled
 carbazole
 carbeen
 carbene
+cantorian
 carberry
 carbide
 carbides
