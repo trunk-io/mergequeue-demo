@@ -5328,6 +5328,7 @@ epanody
 economiser
 endostracum
 enteromycosis
+electroosmotic
 endothecal
 estrade
 esophagoscope
@@ -7831,7 +7832,6 @@ exosporous
 epigastria
 epigastric
 epigastrium
-electroosmotic
 epigastrocele
 eliminations
 epigee
