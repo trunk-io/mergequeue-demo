@@ -4517,6 +4517,7 @@ bassoonist
 besieged
 bloodstanch
 becloak
+blubberer
 batis
 belchers
 bypassing
@@ -11360,7 +11361,6 @@ blubbed
 blubber
 bhar
 bluntest
-blubberer
 blubberers
 balanism
 bestialising
