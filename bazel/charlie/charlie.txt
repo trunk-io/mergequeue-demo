@@ -14705,7 +14705,6 @@ cisterna
 cisternae
 cisternal
 calmly
-cisterns
 cornier
 compotier
 cystic
@@ -27943,6 +27942,7 @@ crackers
 consolidates
 cryptographic
 cracket
+cisterns
 crackhemp
 cracky
 cracking
