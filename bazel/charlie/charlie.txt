@@ -2652,7 +2652,6 @@ combinatorics
 canmaker
 climbs
 canman
-canna
 churr
 cannabic
 churchwise
@@ -10079,6 +10078,7 @@ circumhorizontal
 cherry
 cherryblossom
 cherried
+canna
 characterstring
 cherries
 chlorioninae
