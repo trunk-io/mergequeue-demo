@@ -3203,7 +3203,6 @@ elsewise
 elsholtzia
 elsin
 elt
-eltrot
 eluant
 eluating
 enteritis
@@ -14102,6 +14101,7 @@ exorcize
 extrinsic
 elegantly
 extrinsicality
+eltrot
 enzymically
 extendedness
 entrancements
