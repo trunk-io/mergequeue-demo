@@ -2733,6 +2733,7 @@ barillas
 butein
 barnlike
 beadflush
+biordinal
 barnman
 barnstormer
 barnstormers
@@ -7718,7 +7719,6 @@ bewizard
 bework
 blandished
 bimolecular
-biordinal
 beworming
 beworn
 bullocks
