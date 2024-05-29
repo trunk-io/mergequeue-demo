@@ -1114,6 +1114,7 @@ farrier
 fastback
 farrisite
 fluorins
+formatter
 figulate
 farruca
 fibrilled
@@ -4536,7 +4537,6 @@ fitches
 fruitgrowing
 fitchew
 fitful
-formatter
 fitified
 flank
 fitness
