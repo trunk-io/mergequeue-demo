@@ -15799,7 +15799,6 @@ clavering
 clavi
 chirres
 clavy
-claviature
 clavicembalist
 clavicembalo
 claviceps
@@ -18463,6 +18462,7 @@ cohead
 chimney
 coheading
 coheads
+claviature
 cassate
 cessations
 coheartedness
