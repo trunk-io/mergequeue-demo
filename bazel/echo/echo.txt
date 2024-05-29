@@ -4219,7 +4219,6 @@ esbay
 earthlight
 explore
 emundation
-empressements
 empresses
 embossers
 emprint
@@ -7702,6 +7701,7 @@ epicurize
 epicuticle
 elephanticide
 epicuticular
+empressements
 ethylidyne
 expulsed
 executrices
