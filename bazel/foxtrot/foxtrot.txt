@@ -83,6 +83,7 @@ faces
 facesaving
 flattening
 frizettes
+flocks
 foliobranch
 foresaying
 fiendish
@@ -11757,7 +11758,6 @@ flauntiest
 filices
 flacianism
 fv
-flocks
 flocculi
 feverbush
 fwelling
