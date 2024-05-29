@@ -3810,7 +3810,6 @@ battlegrounds
 bringall
 barway
 battlement
-battlements
 barnstorms
 battler
 battles
@@ -9639,6 +9638,7 @@ bluejack
 brachiolarian
 blink
 biscacha
+battlements
 biscayan
 biscayanism
 barbal
