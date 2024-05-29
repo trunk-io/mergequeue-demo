@@ -22318,7 +22318,6 @@ conglobes
 conglobing
 conglomerate
 conglomerated
-chamade
 carolling
 conglomerates
 cylices
@@ -26042,6 +26041,7 @@ corvine
 corviser
 clapotis
 corvo
+chamade
 corvoid
 corvorant
 corvus
