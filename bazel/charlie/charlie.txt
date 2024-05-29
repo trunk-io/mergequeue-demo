@@ -16609,7 +16609,6 @@ cloisterliness
 cloisters
 cloisterwise
 cloistral
-chid
 concoagulation
 cloit
 cloke
@@ -31463,6 +31462,7 @@ cogitators
 curricula
 curricularize
 cardiomyoliposis
+chid
 curried
 currier
 counterstamp
