@@ -4702,7 +4702,6 @@ bedecking
 bankfull
 bedehouse
 bedehouses
-bedell
 bedelve
 barmiest
 bulged
@@ -12119,6 +12118,7 @@ bolas
 berbery
 builtin
 bolases
+bedell
 bartsia
 bolboxalis
 bold

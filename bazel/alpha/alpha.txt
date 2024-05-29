@@ -9724,6 +9724,7 @@ arabize
 autoaddress
 alvan
 alvar
+anecdotist
 alveary
 alvearies
 alvearium
@@ -12501,7 +12502,6 @@ anecdotes
 anecdotic
 anecdotical
 anecdotically
-anecdotist
 anecdotists
 aegagropile
 anechoic
