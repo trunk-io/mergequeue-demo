@@ -1238,7 +1238,6 @@ grecism
 gladsomely
 griminess
 gimcrackery
-gapping
 goodbys
 glanders
 ghettoing
@@ -1306,6 +1305,7 @@ goodship
 geneki
 griffes
 grimier
+gapping
 grex
 garbline
 guib
