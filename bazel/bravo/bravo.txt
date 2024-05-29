@@ -3515,7 +3515,6 @@ boobook
 broadhead
 batable
 batad
-bumpkinly
 biunity
 bagworms
 brocket
@@ -13887,6 +13886,7 @@ being
 bows
 bowsaw
 bowsed
+bumpkinly
 bankroll
 bowser
 bodkinwise
