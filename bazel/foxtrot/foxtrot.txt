@@ -2719,7 +2719,6 @@ firebote
 ferventness
 frighteningness
 furandi
-ferulae
 floodwall
 frenzies
 faithing
@@ -11156,6 +11155,7 @@ fumous
 filleul
 funeralize
 floorage
+ferulae
 fandom
 foresettle
 funeration
