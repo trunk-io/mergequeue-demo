@@ -4024,7 +4024,6 @@ coldness
 cardiacal
 cardiacean
 cardiacle
-cardiacs
 cardiagra
 cardiagram
 cardiagraph
@@ -17068,6 +17067,7 @@ cnidopod
 conoids
 confoundable
 cnidosis
+cardiacs
 co
 capernoity
 coabode
