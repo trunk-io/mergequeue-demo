@@ -5565,7 +5565,6 @@ adored
 anchors
 aulic
 attuned
-afro
 afrormosia
 afshah
 aft
@@ -6505,6 +6504,7 @@ agrogeological
 agrology
 agrologic
 agrologies
+afro
 adsorbate
 aubrite
 agromyzid
