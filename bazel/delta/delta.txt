@@ -14863,7 +14863,6 @@ diabaterial
 dallas
 dodecafid
 dodecahedral
-dodecahedric
 dieselization
 decastere
 dodecahedrons
@@ -18670,6 +18669,7 @@ dwarfs
 dwarves
 dwell
 dwelled
+dodecahedric
 dweller
 dwellings
 drawhorse
