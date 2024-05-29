@@ -7663,7 +7663,6 @@ cerebrosuria
 cerebrotonia
 culinary
 cerebrovascular
-cerebrovisceral
 cerebrum
 collarets
 cered
@@ -9210,6 +9209,7 @@ commonefaction
 charts
 coderive
 chartula
+cerebrovisceral
 churchlier
 chartulae
 chartulary
