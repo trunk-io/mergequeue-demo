@@ -7668,7 +7668,6 @@ eccentricities
 eoliths
 everduring
 enterohelcosis
-epicormic
 epicortical
 eidouranion
 epicostal
@@ -12527,6 +12526,7 @@ engrossing
 encoder
 escheatable
 exility
+epicormic
 eyestones
 enneadic
 esophagotomy
