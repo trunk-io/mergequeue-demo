@@ -477,6 +477,7 @@ butteries
 bandeaux
 broomier
 backspang
+bibliothecal
 backspier
 beseeched
 backspierer
@@ -8036,7 +8037,6 @@ befall
 bibliosoph
 bibliotaphe
 bibliothecae
-bibliothecal
 bibliothecarian
 bibliothecas
 beshag
