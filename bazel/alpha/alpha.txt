@@ -20763,7 +20763,6 @@ artifactual
 artifactually
 artifex
 artificer
-artificers
 artificership
 aerobiology
 artificial
@@ -24115,6 +24114,7 @@ autoincrement
 autoincrements
 autoindexing
 atheists
+artificers
 autoinfusion
 admonishment
 allelocatalytic
