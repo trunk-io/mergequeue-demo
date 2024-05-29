@@ -6171,6 +6171,7 @@ flubbed
 flubdub
 foreread
 fairgoing
+foretops
 feebling
 fluctiferous
 frenal
@@ -8100,7 +8101,6 @@ foretopmast
 fencer
 fellatrix
 foretopmen
-foretops
 foretrace
 fluviovolcanic
 foreuse
