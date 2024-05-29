@@ -8146,7 +8146,6 @@ fulgently
 forewritten
 forfairn
 fumbler
-forfalt
 friezing
 forfault
 forfaulture
@@ -9966,6 +9965,7 @@ fevercup
 fuse
 fenestrone
 from
+forfalt
 fleawood
 formalizes
 frier
