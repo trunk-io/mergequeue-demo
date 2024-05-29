@@ -4295,6 +4295,7 @@ fourflusher
 freeboot
 fiscalize
 fiscalized
+felsite
 fischerite
 foresleeve
 friendlies
@@ -9972,7 +9973,6 @@ from
 fleawood
 formalizes
 frier
-felsite
 foresters
 formated
 fryers
