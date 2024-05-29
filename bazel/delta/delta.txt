@@ -714,6 +714,7 @@ dopester
 dance
 danceability
 danceable
+deruralize
 diaskeuast
 danced
 dejectedly
@@ -1209,7 +1210,6 @@ datebook
 datedly
 degermed
 daybeds
-deruralize
 disemplane
 disobligation
 dateless
