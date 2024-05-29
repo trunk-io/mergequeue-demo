@@ -5826,7 +5826,6 @@ augusta
 agamont
 agamous
 aminoacetone
-aganglionic
 aganice
 ambrosia
 acarocecidia
@@ -6466,6 +6465,7 @@ agriculturally
 autolithographic
 adendric
 ametrometer
+aganglionic
 agriculturist
 agriculturists
 admittible
