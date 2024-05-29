@@ -16708,7 +16708,6 @@ babehood
 buckwagon
 buckwash
 buckwashing
-buckwheater
 buckwheatlike
 balaic
 buckwheats
@@ -16918,6 +16917,7 @@ buglet
 bugleweed
 buglewort
 buffer
+buckwheater
 blennophlogisma
 behowls
 bugling
