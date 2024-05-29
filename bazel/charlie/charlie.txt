@@ -1153,7 +1153,6 @@ calculableness
 calculably
 cower
 cosing
-calculated
 calculatedly
 calculatedness
 calculates
@@ -24563,6 +24562,7 @@ commandrie
 copartnership
 chronodeik
 counterquarterly
+calculated
 copasetic
 copassionate
 countermotion
