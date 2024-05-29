@@ -8197,7 +8197,6 @@ avoidances
 artisanship
 algoid
 anglophiliac
-algolagny
 algolagnia
 adjuster
 augean
@@ -24785,6 +24784,7 @@ avionics
 avions
 adieux
 avirulence
+algolagny
 allegros
 agromyza
 avirulent
