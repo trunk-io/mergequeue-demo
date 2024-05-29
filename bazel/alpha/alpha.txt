@@ -4057,7 +4057,6 @@ adjutantship
 anesthetic
 adjutator
 adjute
-africana
 adjutor
 adjutory
 adjutorious
@@ -21232,6 +21231,7 @@ ashot
 ashpan
 affectionate
 achates
+africana
 ashplant
 ashplants
 anisogynous
