@@ -3255,7 +3255,6 @@ glycans
 geoteuthis
 geotherm
 gelatinobromide
-geoty
 gymnoglossa
 gingelies
 grampuses
@@ -4015,6 +4014,7 @@ gigget
 gloamings
 geoidal
 glossoscopia
+geoty
 grand
 giggit
 glummy
