@@ -11519,7 +11519,6 @@ chocolatiere
 communality
 calcomp
 choctaw
-choctaws
 choga
 chogak
 chogset
@@ -29831,6 +29830,7 @@ callow
 crossbeam
 crossbeams
 cosmorganic
+choctaws
 crossbelt
 crossbill
 crossbirth
