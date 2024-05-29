@@ -2202,6 +2202,7 @@ baptizable
 baptized
 befriend
 baptizement
+boundness
 benzpyrene
 baptizer
 blackmailed
@@ -13629,7 +13630,6 @@ boundless
 bittium
 boundlessly
 bulldogged
-boundness
 bounds
 boundure
 bounteous
