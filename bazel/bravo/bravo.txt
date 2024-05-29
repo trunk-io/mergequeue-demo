@@ -2057,7 +2057,6 @@ bankcards
 banked
 bethought
 banky
-banking
 bullaria
 bankmen
 banknote
@@ -8027,6 +8026,7 @@ bibliopole
 birdieback
 bibliopolery
 beclasp
+banking
 bibliopolic
 bradenhead
 bibliopolical
