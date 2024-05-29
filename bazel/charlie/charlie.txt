@@ -12589,7 +12589,6 @@ chromos
 coadjacency
 custroun
 chromoscopy
-chromoscopic
 chromosomally
 condensate
 chromosomes
@@ -28017,6 +28016,7 @@ craggan
 craggedness
 countersignature
 craggy
+chromoscopic
 catenary
 cataphylla
 craggiest
