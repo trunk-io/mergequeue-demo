@@ -584,7 +584,6 @@ forage
 flowerfly
 finders
 filippic
-fabula
 falsehood
 forestine
 falsehoods
@@ -9631,6 +9630,7 @@ freehand
 finalism
 freehandedness
 fairness
+fabula
 flagstaffs
 forte
 freeheartedly
