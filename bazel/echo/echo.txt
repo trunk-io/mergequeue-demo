@@ -5017,7 +5017,6 @@ equipper
 endmost
 eternize
 enrage
-endnote
 embraces
 ebriety
 enamellar
@@ -10256,6 +10255,7 @@ engrammic
 ectoentad
 etherizes
 extraditing
+endnote
 etherizing
 encoders
 eudora
