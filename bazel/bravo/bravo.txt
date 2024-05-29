@@ -4683,7 +4683,6 @@ beddingroll
 bede
 bogans
 bedeaf
-bracket
 bewilderingly
 ballett
 bedeafened
@@ -14794,6 +14793,7 @@ barbershop
 bottlelike
 breakable
 breakableness
+bracket
 breakaway
 breakax
 bulimic
