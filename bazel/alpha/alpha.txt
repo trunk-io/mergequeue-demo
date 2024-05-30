@@ -4133,7 +4133,6 @@ admire
 afric
 admired
 admiredly
-admirer
 admirers
 admiring
 admiringly
@@ -16862,6 +16861,7 @@ asclepius
 antiphoner
 aphesis
 apheta
+admirer
 accidentals
 aphetic
 aphanitic
