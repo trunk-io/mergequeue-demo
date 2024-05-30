@@ -3766,7 +3766,6 @@ disproved
 didact
 dehydrogenate
 dehydrogenated
-decelerometer
 dehydrogenating
 dehydrogenisation
 demihorse
@@ -13172,6 +13171,7 @@ discostomatous
 displeasedly
 displeases
 desiccators
+decelerometer
 drippings
 dielec
 disreverence
