@@ -11,7 +11,6 @@ cabaho
 cabal
 condylarthrous
 cryptostoma
-cabalassou
 chaenomeles
 corkmaking
 cabaletta
@@ -5552,6 +5551,7 @@ catalysis
 catalysts
 catalyte
 catalytical
+cabalassou
 calotermitidae
 cassinoid
 careerism
