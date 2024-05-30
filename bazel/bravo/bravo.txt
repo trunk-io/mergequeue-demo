@@ -605,7 +605,6 @@ bacteriaemia
 beshouted
 biblist
 bacterially
-bacteric
 bactericide
 beethoven
 bawke
@@ -880,6 +879,7 @@ bradypus
 bagging
 baggings
 boh
+bacteric
 baggyrinkle
 basseted
 baggit
