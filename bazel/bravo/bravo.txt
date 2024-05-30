@@ -282,7 +282,6 @@ busying
 barefisted
 backarrows
 backbar
-backbearing
 backbencher
 backberand
 burely
@@ -7072,6 +7071,7 @@ bepaid
 beslipper
 beslobber
 besluit
+backbearing
 besmear
 bespread
 blvd
