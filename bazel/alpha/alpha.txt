@@ -5332,7 +5332,6 @@ affine
 anteporch
 affined
 affinely
-analects
 affines
 anthomedusae
 affinitative
@@ -11101,6 +11100,7 @@ ampere
 amatory
 ampery
 assientist
+analects
 achromatized
 amperian
 attenuation
