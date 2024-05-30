@@ -1495,7 +1495,6 @@ garrisonism
 gashing
 garrnishable
 gemeinde
-garroo
 goldsmithry
 garroter
 garrotes
@@ -1824,6 +1823,7 @@ guesses
 guitguit
 gastropexy
 gastrophile
+garroo
 gorgonacea
 gastrophilism
 grizzle
