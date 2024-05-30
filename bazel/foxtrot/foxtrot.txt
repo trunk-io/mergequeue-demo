@@ -9640,6 +9640,7 @@ feeders
 ferias
 fortalice
 flunkers
+finalities
 freelance
 fornax
 freeload
@@ -10517,7 +10518,6 @@ fichat
 froust
 frousty
 frouzy
-finalities
 frouziest
 frow
 ferroconcretor
