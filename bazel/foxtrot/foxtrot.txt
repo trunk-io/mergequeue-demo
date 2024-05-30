@@ -5680,7 +5680,6 @@ fleuronnee
 fungous
 finesses
 fuzzball
-face
 faunological
 favorers
 flisk
@@ -10796,6 +10795,7 @@ fucales
 flioma
 fullering
 fucation
+face
 fleshen
 footpads
 fuchsian
