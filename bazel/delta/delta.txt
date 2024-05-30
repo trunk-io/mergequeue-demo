@@ -3523,6 +3523,7 @@ dorsobranchiata
 defoliants
 defoliate
 defoliation
+dis
 defoliations
 defoliator
 decenary
@@ -10879,7 +10880,6 @@ diruption
 disa
 dereference
 deployed
-dis
 dashboards
 disable
 disabled
