@@ -1879,6 +1879,7 @@ gastrotomic
 gastrovascular
 granitiferous
 gipseian
+gthite
 gulleries
 generativeness
 galoot
@@ -6867,7 +6868,6 @@ gonopore
 gonocoele
 gonof
 greyer
-gthite
 gonophore
 geodesia
 greenkeeping

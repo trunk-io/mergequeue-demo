@@ -2493,7 +2493,6 @@ candlenut
 candlepins
 candlepower
 chemist
-chatterbox
 candler
 candlerent
 candlers
@@ -7173,6 +7172,7 @@ canephoroe
 centrer
 closely
 chol
+chatterbox
 coxofemoral
 centrev
 centry
