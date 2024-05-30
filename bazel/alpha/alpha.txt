@@ -6235,7 +6235,6 @@ aglossal
 aglossia
 aglow
 aglucon
-aglucone
 agma
 agmas
 assemblywomen
@@ -21564,6 +21563,7 @@ aspirins
 aspises
 aloed
 anisogeny
+aglucone
 aspish
 affenspalte
 automolite
