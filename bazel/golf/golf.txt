@@ -4294,6 +4294,7 @@ gimped
 gimpier
 gardyloo
 gyms
+geod
 gippers
 gynaeceum
 golet
@@ -6717,7 +6718,6 @@ gladsome
 gonidangium
 gonepoiesis
 giglet
-geod
 grandioso
 gustoish
 gunsman
