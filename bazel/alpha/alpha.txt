@@ -1727,7 +1727,6 @@ accumbency
 accumbent
 accumulable
 accumulate
-accumulated
 accumulating
 attains
 accumulation
@@ -8328,6 +8327,7 @@ amenity
 ablegation
 alif
 alife
+accumulated
 aliferous
 aliform
 adumbrates
