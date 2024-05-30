@@ -2851,7 +2851,6 @@ fenestration
 filanders
 farmsteads
 fetching
-foxproof
 fetes
 fluidly
 fishhouse
@@ -9365,6 +9364,7 @@ folcgemot
 falsidical
 funambulating
 fent
+foxproof
 frankfurt
 floatiest
 frostbiting
