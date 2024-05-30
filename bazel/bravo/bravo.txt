@@ -1540,7 +1540,6 @@ bersiamite
 bulbiform
 bouton
 backsword
-butomus
 ballaster
 ballastic
 ballat
@@ -17799,6 +17798,7 @@ biobibliography
 burnwood
 browsage
 burped
+butomus
 burping
 burps
 burratine
