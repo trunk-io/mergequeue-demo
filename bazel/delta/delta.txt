@@ -3427,7 +3427,6 @@ deflate
 deflated
 dogmen
 drynaria
-deflates
 deflating
 deflation
 dreng
@@ -5442,6 +5441,7 @@ diasene
 dentulous
 dentural
 dermatology
+deflates
 digestant
 doge
 diametrally
