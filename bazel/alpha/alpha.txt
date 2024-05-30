@@ -8663,7 +8663,6 @@ allegations
 acaroid
 alcoholizable
 alleged
-allegedly
 allegement
 asparkle
 allegers
@@ -21499,6 +21498,7 @@ asphalt
 asphalted
 adiaphanous
 alluvium
+allegedly
 axolotls
 asphalter
 amine
