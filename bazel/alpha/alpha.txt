@@ -14482,7 +14482,6 @@ anthracometer
 ambulancing
 analepsis
 anthracometric
-anthraconecrosis
 abecedarium
 anthraconite
 amboceptor
@@ -22331,6 +22330,7 @@ araeometer
 astrography
 aspidiotus
 astrohatch
+anthraconecrosis
 astroid
 aeschylus
 ailurophobic
