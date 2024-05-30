@@ -7346,7 +7346,6 @@ featous
 foobar
 forbiddenly
 fissidens
-fatigues
 foederis
 fenestellae
 flames
@@ -10604,6 +10603,7 @@ foilsman
 filaceous
 furtive
 famular
+fatigues
 fructuarius
 foregallery
 floralia
