@@ -4700,6 +4700,7 @@ demonastery
 donn
 dungyard
 dol
+depose
 dinic
 demisang
 demisangue
@@ -16924,7 +16925,6 @@ dreamiest
 dreamily
 dreamless
 decident
-depose
 dreamlessly
 dreamlikeness
 dobchick
