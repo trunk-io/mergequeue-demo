@@ -2606,7 +2606,6 @@ gemsbok
 gatha
 gamogeny
 glycyls
-guttule
 gumshield
 goetia
 gradatim
@@ -5815,6 +5814,7 @@ glossiphonia
 glossiphonidae
 galvanomagnet
 glossitis
+guttule
 garbleable
 glossless
 glossocele
