@@ -42,6 +42,7 @@ babblers
 bodement
 babbles
 babbly
+brushable
 beanier
 babbit
 barflies
@@ -17672,7 +17673,6 @@ buriers
 boff
 blockish
 boris
-brushable
 broncholith
 burinist
 bonsai
