@@ -2406,7 +2406,6 @@ featural
 ferguson
 fergusonite
 frondage
-failing
 fills
 fied
 folksiness
@@ -6847,6 +6846,7 @@ folky
 fidejussory
 folkish
 folkishness
+failing
 feline
 frizette
 fasnacht
