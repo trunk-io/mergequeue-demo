@@ -102,6 +102,7 @@ carcinosarcomas
 cabestro
 cabestros
 cabezon
+chromeplate
 cabezone
 convict
 cabful
@@ -12473,7 +12474,6 @@ chrome
 clangorousness
 chevee
 chromed
-chromeplate
 chromes
 chromesthesia
 chromhidrosis
