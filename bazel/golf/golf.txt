@@ -2410,6 +2410,7 @@ goodnesses
 galopin
 gelder
 grisly
+gnabble
 geldesprung
 geldings
 gorgets
@@ -6110,7 +6111,6 @@ gloriana
 geometry
 gutterman
 gravitation
-gnabble
 graspers
 giallolino
 galactophagous
