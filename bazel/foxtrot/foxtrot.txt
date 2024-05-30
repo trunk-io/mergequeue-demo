@@ -910,7 +910,6 @@ forcive
 fantigue
 fantoccini
 fantocine
-flavor
 fanums
 fenberry
 fortuitist
@@ -10873,6 +10872,7 @@ footholds
 fluidisation
 fungused
 fishable
+flavor
 fulgorid
 fon
 fulgur
