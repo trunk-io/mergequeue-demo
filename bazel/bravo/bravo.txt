@@ -2252,7 +2252,6 @@ barbel
 barauna
 barba
 barbacan
-belgae
 barbacoan
 bloc
 bayards
@@ -5017,6 +5016,7 @@ burgware
 battak
 burgensic
 blesse
+belgae
 bunt
 bricks
 boltless
