@@ -9197,6 +9197,7 @@ dye
 dogship
 desoxycinchonine
 decalog
+digger
 diptych
 dyeability
 dyeable
@@ -9499,7 +9500,6 @@ digesture
 disapproval
 diggable
 digged
-digger
 digging
 defeatee
 demonstrational
