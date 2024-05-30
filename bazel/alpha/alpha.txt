@@ -1807,6 +1807,7 @@ addictively
 aromata
 acecaffine
 anemia
+apochromatic
 acedy
 acediamin
 acediamine
@@ -17155,7 +17156,6 @@ apochae
 automorphic
 apolog
 apocholic
-apochromatic
 apochromatism
 ascitic
 apocynaceous
