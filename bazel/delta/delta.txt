@@ -2470,7 +2470,6 @@ denizenize
 designs
 decyne
 diaeresis
-decinormal
 decipherability
 decipherable
 dand
@@ -9343,6 +9342,7 @@ dyewood
 dyewoods
 diezeugmenon
 depolymerizing
+decinormal
 dif
 dactylography
 diffame
