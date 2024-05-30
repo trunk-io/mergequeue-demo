@@ -6955,7 +6955,6 @@ alway
 airsheds
 afterwisdom
 airships
-airsick
 airsickness
 agronomics
 airsome
@@ -12685,6 +12684,7 @@ angeleyes
 abietinic
 angeleno
 angeles
+airsick
 angelet
 angelfishes
 angelhood
