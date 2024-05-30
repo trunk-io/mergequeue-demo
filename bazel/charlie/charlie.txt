@@ -22555,7 +22555,6 @@ conjugators
 conjugium
 conjunct
 circumcision
-conjunctional
 coohee
 conjunctionally
 conjunctions
@@ -29487,6 +29486,7 @@ crystallomagnetic
 crystallomancy
 crystallometry
 continuist
+conjunctional
 crystallometric
 crystallose
 cryptozonia
