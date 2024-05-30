@@ -2689,7 +2689,6 @@ dimmy
 decomposer
 decomposers
 decomposing
-decomposition
 decapod
 decomposure
 dogwatches
@@ -11112,6 +11111,7 @@ disassociates
 disassociation
 decarburised
 disasterly
+decomposition
 disasters
 diagraphics
 doley
