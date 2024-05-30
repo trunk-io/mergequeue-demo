@@ -47,7 +47,6 @@ actiniaria
 alkylene
 anocithesia
 abaction
-abaculus
 abacus
 amygdalectomy
 annotation
@@ -22054,6 +22053,7 @@ asterias
 asteriidae
 asterikos
 admirance
+abaculus
 asterina
 archchaplain
 asterinidae
