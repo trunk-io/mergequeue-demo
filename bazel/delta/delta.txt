@@ -8419,6 +8419,7 @@ dialyze
 deviant
 dialyzed
 dialyzer
+demotion
 dialyzes
 dispell
 dialkylamine
@@ -17048,7 +17049,6 @@ diglottism
 dretch
 daintrel
 drew
-demotion
 dryable
 demibrute
 disaggregated
