@@ -1511,7 +1511,6 @@ bistable
 balladic
 balladical
 bipersonal
-balladier
 balladised
 balladism
 bronchopleurisy
@@ -11060,6 +11059,7 @@ blizzard
 breading
 burier
 blizzardy
+balladier
 bankrupted
 blk
 blksize
