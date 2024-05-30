@@ -2816,7 +2816,6 @@ cours
 canopus
 canorous
 canorously
-cabstand
 canos
 canossa
 canotier
@@ -26365,6 +26364,7 @@ costumery
 costumers
 costumes
 costumic
+cabstand
 costumier
 costumiere
 costumiers
