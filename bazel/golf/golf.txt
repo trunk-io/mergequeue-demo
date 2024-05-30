@@ -7395,7 +7395,6 @@ galbulidae
 gou
 gorgelet
 gingerbread
-gastrodidymus
 glissading
 goujat
 gravures
@@ -8890,6 +8889,7 @@ genarchaship
 glauberite
 galenism
 gastrology
+gastrodidymus
 gryde
 gridelin
 griding
