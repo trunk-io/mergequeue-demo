@@ -702,7 +702,6 @@ danaite
 diffusiveness
 dragshoe
 devolatilized
-diameter
 dagassa
 danakil
 danalite
@@ -5547,6 +5546,7 @@ deadest
 deoxidised
 deoxidiser
 dorsiventrality
+diameter
 deoxidize
 deoxidizer
 dreggy
