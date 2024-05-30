@@ -644,7 +644,6 @@ falx
 fernambuck
 fringefoot
 friedcake
-fam
 famacide
 ferromagnet
 fletcherite
@@ -4106,6 +4105,7 @@ feezed
 fireboat
 fireboy
 firebolted
+fam
 firebomb
 fakiness
 firebombing
