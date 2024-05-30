@@ -2583,7 +2583,6 @@ ecad
 electrons
 emotiveness
 electrooculogram
-electrooptic
 encyclopaedian
 exposal
 electrobrasser
@@ -14122,6 +14121,7 @@ eyeletted
 extroversive
 epitheton
 extrovert
+electrooptic
 eucyclic
 extrovertish
 extrovertive
