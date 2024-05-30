@@ -5476,7 +5476,6 @@ catabolin
 catabolism
 catabolite
 catabolize
-colins
 catabolized
 claim
 crevalles
@@ -14974,6 +14973,7 @@ cytokinesis
 cytokinetic
 cytokinin
 cytol
+colins
 corries
 curvaceousness
 citolas
