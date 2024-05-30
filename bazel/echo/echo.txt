@@ -2742,7 +2742,6 @@ electrotropic
 electrophilically
 electrovalent
 eosinophilia
-electrovalently
 erythrolysis
 electrovection
 electrowinning
@@ -11327,6 +11326,7 @@ electrotheraputically
 ectoplasy
 eutaxy
 epiblastema
+electrovalently
 eikonogen
 evaporates
 edp
