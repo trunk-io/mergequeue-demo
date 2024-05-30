@@ -2971,6 +2971,7 @@ emaciate
 egrimony
 elides
 exeunt
+electrotropism
 elidible
 eligibility
 eligibles
@@ -8218,7 +8219,6 @@ episedia
 episememe
 episyllogism
 eisenhower
-electrotropism
 episynthetic
 expedientist
 essayette
