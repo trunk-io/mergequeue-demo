@@ -2922,6 +2922,7 @@ deerlike
 decurion
 deus
 dactylic
+deprived
 demented
 decurions
 decurrences
@@ -5985,7 +5986,6 @@ droppage
 deprivals
 deprivation
 deprive
-deprived
 deprivement
 depriver
 dixit
