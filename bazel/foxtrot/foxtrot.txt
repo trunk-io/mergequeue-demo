@@ -2070,7 +2070,6 @@ funebrial
 ft
 feronia
 feldspath
-forerigging
 favissae
 fusulas
 fieldfare
@@ -4403,6 +4402,7 @@ forlornest
 farms
 fishponds
 fishpotter
+forerigging
 fishskin
 fulgurate
 fashioned
