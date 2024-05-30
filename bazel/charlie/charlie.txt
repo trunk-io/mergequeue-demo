@@ -18290,6 +18290,7 @@ chauldron
 coffers
 cofferwork
 coffin
+copper
 coffing
 chawl
 coffinless
@@ -24722,7 +24723,6 @@ cleeks
 concentralize
 copped
 concordial
-copper
 clothmaking
 copperah
 copperahs
