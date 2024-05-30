@@ -2929,6 +2929,7 @@ bonair
 barrelful
 barothermogram
 barrelfuls
+baguettes
 bemadam
 blind
 barrelhead
@@ -5658,7 +5659,6 @@ buoys
 bekko
 befoolment
 blethering
-baguettes
 beknave
 beknight
 blossoming
