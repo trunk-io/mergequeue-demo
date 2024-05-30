@@ -2850,6 +2850,7 @@ greathead
 gunfire
 glop
 germanism
+gipped
 grabbed
 gnathopodous
 grocerwise
@@ -4554,7 +4555,6 @@ gype
 gipon
 gaetulan
 gunlayer
-gipped
 gypped
 garrisoning
 gonial
