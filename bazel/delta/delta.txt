@@ -4300,6 +4300,7 @@ decoherer
 dels
 delsarte
 delsartian
+dislocate
 deltahedra
 deltaic
 dismaler
@@ -12694,7 +12695,6 @@ dislluminate
 dubbings
 difference
 dislocability
-dislocate
 dosimetry
 drammer
 dustcloth
