@@ -3810,6 +3810,7 @@ enddamaging
 expendables
 emendable
 emendandum
+electrized
 ekerite
 emendations
 enterprisingly
@@ -12682,7 +12683,6 @@ exognathite
 expunges
 exogonium
 encharge
-electrized
 exometritis
 echo
 emerse
