@@ -3954,7 +3954,6 @@ autoactivation
 adjective
 adjectively
 adjectives
-adjectivism
 anagogy
 araphostic
 adjectivitis
@@ -4815,6 +4814,7 @@ aegrotat
 acroterion
 abush
 aeipathy
+adjectivism
 aetheling
 antedawn
 aeluroid
