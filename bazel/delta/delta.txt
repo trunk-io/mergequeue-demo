@@ -9232,6 +9232,7 @@ decentres
 dieldrins
 dyeleaves
 dielectric
+depender
 discontinuor
 debarkation
 discolour
@@ -14827,7 +14828,6 @@ disbalancement
 doctrinality
 doctrinally
 dharmashastra
-depender
 doctrinarity
 designate
 doctrinate
