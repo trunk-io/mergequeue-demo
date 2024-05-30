@@ -8243,7 +8243,6 @@ chairmanships
 checkoff
 chairmender
 chairpersons
-colpoplastic
 chairs
 chairway
 conjunctivae
@@ -18306,6 +18305,7 @@ cofferwork
 coffin
 copper
 coffing
+colpoplastic
 chawl
 coffinless
 consoled

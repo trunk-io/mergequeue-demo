@@ -357,6 +357,7 @@ bepuzzle
 beamlet
 backgammon
 barbarical
+barwares
 background
 backhand
 backhandedly
@@ -3080,7 +3081,6 @@ breather
 bating
 badminton
 barware
-barwares
 barwood
 boneblack
 backhouse
