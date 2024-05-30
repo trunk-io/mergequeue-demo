@@ -3806,6 +3806,7 @@ battlefronts
 battlegrounds
 bringall
 barway
+bifollicular
 battlement
 barnstorms
 battler
@@ -8572,7 +8573,6 @@ blackheads
 bilati
 bylawman
 bararesque
-bifollicular
 bilberry
 bilberries
 brenthis
