@@ -2115,7 +2115,6 @@ bannerman
 bannermen
 bannerole
 bannerols
-bannet
 bannisters
 birthmarks
 bioflavinoid
@@ -10899,6 +10898,7 @@ bletilla
 bronteum
 blets
 bodikin
+bannet
 blew
 blewits
 blick

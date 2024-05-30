@@ -3898,7 +3898,6 @@ eclogues
 equivote
 electrotonus
 emilia
-eminences
 extraboldface
 eminencies
 eminent
@@ -12830,6 +12829,7 @@ exoterica
 elementalistically
 embryology
 epicystotomy
+eminences
 exoterical
 englutting
 exoterically
