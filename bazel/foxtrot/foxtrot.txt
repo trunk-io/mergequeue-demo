@@ -5267,7 +5267,6 @@ flouncier
 firlot
 fylker
 fleak
-fg
 feeblehearted
 fleamy
 flemish
@@ -10187,6 +10186,7 @@ frontlet
 fitter
 fled
 frize
+fg
 fashed
 foresing
 frized
