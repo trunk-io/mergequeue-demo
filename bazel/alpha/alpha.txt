@@ -12356,7 +12356,6 @@ abashments
 aeromantic
 allottable
 albuminometry
-andiron
 anopisthograph
 andirons
 andor
@@ -24074,6 +24073,7 @@ autogiros
 autogyros
 adcon
 ambulators
+andiron
 autognostic
 autografting
 autogram
