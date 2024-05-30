@@ -1235,7 +1235,6 @@ gapingly
 gapless
 gaplessness
 gizzened
-gnathic
 gapped
 gynandrism
 gappy
@@ -5839,6 +5838,7 @@ gobos
 glossolalia
 glossolysis
 guestimating
+gnathic
 glossologist
 glossopharyngeus
 gettered
