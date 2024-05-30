@@ -3462,7 +3462,6 @@ embind
 erythrogonium
 esthematology
 embira
-explant
 embitterments
 energizer
 endogamous
@@ -12630,6 +12629,7 @@ exocoele
 exploring
 exocoelic
 exocoelom
+explant
 exocoelum
 exocone
 eumeromorph
