@@ -2761,7 +2761,6 @@ adenines
 acrimonious
 amateurism
 acrimoniousness
-acrindolin
 acrindoline
 ayrshire
 acrisy
@@ -6213,6 +6212,7 @@ aglycon
 asphodels
 aufklarung
 aglycones
+acrindolin
 aglycons
 aglimmer
 amphizoidae
