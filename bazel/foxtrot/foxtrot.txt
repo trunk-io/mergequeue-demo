@@ -7506,6 +7506,7 @@ ferrocyanhydric
 foresummon
 forecastle
 flagellator
+forches
 forecastlehead
 forecatching
 fatbrained
@@ -11662,7 +11663,6 @@ florida
 funerealness
 fusus
 fundal
-forches
 filoselle
 froglike
 flushable
