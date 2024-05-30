@@ -14141,7 +14141,6 @@ academize
 adjurors
 ack
 antediluvian
-antedon
 antiquate
 antedorsal
 antefact
@@ -25006,6 +25005,7 @@ awhile
 awhir
 awhirl
 awiggle
+antedon
 awikiwiki
 asymmetral
 argid
