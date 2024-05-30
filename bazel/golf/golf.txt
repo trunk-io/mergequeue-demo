@@ -3174,7 +3174,6 @@ germanize
 ganglion
 geophagia
 glowworms
-geophagies
 geocline
 gipping
 geophagism
@@ -8609,6 +8608,7 @@ gree
 glean
 gismondite
 greed
+geophagies
 germanious
 greedier
 galactophygous
