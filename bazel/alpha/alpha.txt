@@ -3245,7 +3245,6 @@ actuary
 aphis
 actuarian
 actuaryship
-actuated
 actuates
 actuating
 actuation
@@ -11292,6 +11291,7 @@ acalycinous
 amphisarca
 aqua
 aenean
+actuated
 amphisbaenae
 argiopidae
 antapices
