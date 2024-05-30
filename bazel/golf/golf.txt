@@ -8802,7 +8802,6 @@ glasslike
 geostatic
 greypate
 greisen
-grihastha
 goujons
 greisens
 genty
@@ -9256,6 +9255,7 @@ groyne
 gastaldo
 guignol
 glopnen
+grihastha
 gossoons
 groins
 grolier
