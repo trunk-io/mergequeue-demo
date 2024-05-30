@@ -3487,7 +3487,6 @@ chemicked
 captan
 captance
 captandum
-captans
 captate
 captation
 caption
@@ -14792,6 +14791,7 @@ cathood
 cystophore
 cistophorus
 cystophotography
+captans
 concomitancy
 cystopyelitis
 centralest
