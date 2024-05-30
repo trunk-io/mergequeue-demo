@@ -2844,7 +2844,6 @@ acrogamous
 acrogen
 acrogenous
 ashthroat
-acrogynous
 arkosic
 acrolein
 alcaligenes
@@ -3511,6 +3510,7 @@ additive
 additively
 alloisomeric
 appoggiatura
+acrogynous
 additives
 additivity
 additory
