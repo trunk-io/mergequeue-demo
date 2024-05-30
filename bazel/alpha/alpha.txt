@@ -23851,7 +23851,6 @@ authorizers
 agostadero
 authorizes
 authorless
-authorly
 authors
 authorship
 avianized
@@ -24333,6 +24332,7 @@ autoretardation
 autorhythmus
 aselgeia
 autorotate
+authorly
 amaroidal
 amastia
 autorotation
