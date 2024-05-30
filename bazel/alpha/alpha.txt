@@ -3973,7 +3973,6 @@ adjourns
 adjoust
 adjt
 adjudgeable
-adjudger
 aleyrodidae
 adjudging
 adjudgment
@@ -24757,6 +24756,7 @@ avidnesses
 avidous
 arithmetized
 aview
+adjudger
 anitrogenous
 avifauna
 avifaunae
