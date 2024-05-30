@@ -4519,7 +4519,6 @@ bilabials
 beclothe
 beclothes
 blushwort
-becloud
 beclouded
 buriels
 beclout
@@ -14019,6 +14018,7 @@ brachyaxis
 brachycephali
 brachycephaly
 brachycephalism
+becloud
 balneae
 brachycephalization
 brachycephalize
