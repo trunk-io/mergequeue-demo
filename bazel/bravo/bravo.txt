@@ -8442,7 +8442,6 @@ buttonholing
 biggish
 bepelt
 bimini
-bighead
 bedstock
 beecher
 bigheaded
@@ -15234,6 +15233,7 @@ bicarinate
 bellworts
 braked
 bijection
+bighead
 bordarius
 bridgetin
 brailled
