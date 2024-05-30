@@ -461,6 +461,7 @@ expandability
 ecclesia
 ecclesiarch
 ecclesiarchy
+extoll
 ecclesiast
 expostulated
 empasm
@@ -8714,7 +8715,6 @@ euphemizing
 epilepsy
 enterosyphilis
 equiponderance
-extoll
 estheses
 endymion
 equiponderancy
