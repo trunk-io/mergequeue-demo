@@ -663,7 +663,6 @@ gallisin
 ghettoization
 gallivant
 gallivanters
-gallivanting
 glide
 gallize
 grizzled
@@ -8359,6 +8358,7 @@ geochronometry
 garial
 grattoir
 gratton
+gallivanting
 gratuitant
 guaguanche
 galinsoga
