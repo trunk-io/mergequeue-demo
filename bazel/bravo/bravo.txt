@@ -711,7 +711,6 @@ birdshot
 badaxe
 brasseries
 balustered
-badder
 badderlocks
 baddest
 breathable
@@ -7013,6 +7012,7 @@ bug
 bulllike
 betta
 bahai
+badder
 backfatter
 bagheli
 beltian
