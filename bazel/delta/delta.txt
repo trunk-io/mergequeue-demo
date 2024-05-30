@@ -3512,7 +3512,6 @@ defogged
 disyllable
 dormered
 defoggers
-deluder
 defogging
 defogs
 dorism
@@ -5061,6 +5060,7 @@ denari
 denaries
 denarinarii
 denarius
+deluder
 denaro
 dejectedness
 dietted
