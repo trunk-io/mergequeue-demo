@@ -4466,7 +4466,6 @@ glaux
 guberniya
 golfs
 gigerium
-gingivolabial
 gashy
 gays
 glaucous
@@ -6680,6 +6679,7 @@ grad
 gastroxynsis
 goulan
 ghostwrite
+gingivolabial
 gale
 gluconeogenetic
 gallinula
