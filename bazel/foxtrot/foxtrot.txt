@@ -1685,7 +1685,6 @@ feaster
 fearedness
 ferri
 fluidizes
-forefeels
 fluellin
 fearful
 fathometer
@@ -2778,6 +2777,7 @@ festerment
 festers
 footway
 flanges
+forefeels
 festy
 festilogy
 focalise
