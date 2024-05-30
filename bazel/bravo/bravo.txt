@@ -3485,7 +3485,6 @@ biggah
 bastiment
 blot
 bastinaded
-baroi
 burbots
 bastinado
 bastinadoing
@@ -6922,6 +6921,7 @@ berzelianite
 burley
 berzeliite
 boehmenist
+baroi
 bes
 bushpig
 barbets
