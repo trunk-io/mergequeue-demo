@@ -5627,7 +5627,6 @@ fadding
 funded
 flings
 flinkite
-fator
 forsung
 fertilisability
 flint
@@ -8819,6 +8818,7 @@ flamefish
 formulation
 flatwork
 fossorious
+fator
 fossulae
 faltche
 featureless
