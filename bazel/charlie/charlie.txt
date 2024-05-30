@@ -8396,7 +8396,6 @@ chalklike
 chalkline
 chalkone
 chalkos
-chalkosideric
 chalkotheke
 chalkpit
 chalkrail
@@ -28053,6 +28052,7 @@ crayon
 crayoning
 crayonist
 crayonists
+chalkosideric
 cinnamomic
 cancel
 crayons
