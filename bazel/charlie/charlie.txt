@@ -2788,7 +2788,6 @@ canonistical
 centenarianism
 canonize
 canonized
-cytology
 catapult
 cetorhinoid
 canonizer
@@ -13715,6 +13714,7 @@ cimbal
 costaea
 cedarn
 cymbalist
+cytology
 cymbalists
 cymballed
 cymballike
