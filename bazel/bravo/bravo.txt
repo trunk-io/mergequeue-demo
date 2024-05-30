@@ -2842,7 +2842,6 @@ baroswitch
 barotaxy
 barotaxis
 bitis
-babuls
 ballgowns
 barothermograph
 barothermohygrograph
@@ -13513,6 +13512,7 @@ boubas
 briquette
 blepharoconjunctivitis
 boubou
+babuls
 bouch
 bouchaleen
 boucharde
