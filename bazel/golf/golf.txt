@@ -2628,6 +2628,7 @@ genecor
 griever
 genep
 gained
+grooveless
 genepi
 grinder
 generable
@@ -9184,7 +9185,6 @@ gritrock
 grits
 gritted
 grittie
-grooveless
 grivation
 grivna
 ginniest
