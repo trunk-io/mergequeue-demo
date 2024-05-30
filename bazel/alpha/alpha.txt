@@ -5684,6 +5684,7 @@ aftershocks
 aftersound
 afterspring
 afterstretch
+autosuggestive
 afterstudy
 acetylaminobenzene
 alectoropodes
@@ -24407,7 +24408,6 @@ autostradas
 autosuggestible
 autosuggestion
 autosuggestionist
-autosuggestive
 adversarious
 argentol
 autosuppression
