@@ -854,7 +854,6 @@ dooms
 despoticly
 danization
 deteriorator
-danize
 duralumin
 dank
 damenization
@@ -2518,6 +2517,7 @@ dichorisandra
 dresser
 declaimer
 declaims
+danize
 declamando
 dilatorily
 disillusionize
