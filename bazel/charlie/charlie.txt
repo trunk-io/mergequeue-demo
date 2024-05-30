@@ -4717,7 +4717,6 @@ carphology
 carphophis
 carphosiderite
 carpid
-caprimulgus
 cogredient
 carpincho
 carping
@@ -15079,6 +15078,7 @@ covillea
 cheeky
 cytotechnologist
 clumpy
+caprimulgus
 cytotoxin
 cytotrophy
 chiaroscuro
