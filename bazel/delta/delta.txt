@@ -2729,7 +2729,6 @@ dattos
 dollish
 deconsecration
 deconsider
-determinoid
 deconsideration
 decontaminated
 decontaminates
@@ -11418,6 +11417,7 @@ dialogite
 discloak
 drossing
 dissuader
+determinoid
 disposingly
 debug
 disclosed
