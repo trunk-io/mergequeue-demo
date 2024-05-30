@@ -3972,7 +3972,6 @@ fingerpost
 forfeited
 fingerprint
 fingerprints
-fingerroot
 fluorosis
 forleft
 fistulas
@@ -6678,6 +6677,7 @@ foretype
 flatterable
 fogfruits
 fluerics
+fingerroot
 furrier
 finableness
 forecontrive
