@@ -6284,7 +6284,6 @@ fishy
 faldistory
 falerian
 fluking
-flumdiddle
 flume
 fulmining
 flumes
@@ -11434,6 +11433,7 @@ furnishes
 furnishing
 fireboxes
 furnishment
+flumdiddle
 flatterous
 furnishness
 felspars
