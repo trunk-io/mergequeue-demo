@@ -4844,7 +4844,6 @@ bedrooms
 bedrop
 bilixanthin
 bedrowse
-barrenest
 bedrugged
 bedrugs
 beds
@@ -16516,6 +16515,7 @@ brocho
 buaze
 bor
 bromocyanidation
+barrenest
 bubales
 bubals
 bubastid
