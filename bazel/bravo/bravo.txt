@@ -4629,7 +4629,6 @@ berceau
 buttonholer
 bedad
 bladeless
-basecoat
 bedaggle
 beday
 biddable
@@ -17130,6 +17129,7 @@ bulletining
 batches
 bulletins
 bulletless
+basecoat
 bulletlike
 burghmote
 boleite
