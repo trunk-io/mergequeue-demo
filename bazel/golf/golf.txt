@@ -487,7 +487,6 @@ geochronological
 girkin
 gales
 groten
-geonoma
 gelatin
 genes
 gallants
@@ -8484,6 +8483,7 @@ geranomorph
 gnarled
 gasolene
 gravicembalo
+geonoma
 gravicembalos
 garrotter
 glutton
