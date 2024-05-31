@@ -6412,7 +6412,6 @@ benzacridine
 benzalacetone
 benzalacetophenone
 bogle
-bigothero
 benzalazine
 benzalcohol
 bakupari
@@ -15358,6 +15357,7 @@ brilliants
 brilliantwise
 brilliolette
 brills
+bigothero
 brimborium
 bisulfid
 brimful
