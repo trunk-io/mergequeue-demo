@@ -4521,7 +4521,6 @@ bilabials
 beclothe
 beclothes
 blushwort
-beclouded
 buriels
 beclout
 bootee
@@ -15438,6 +15437,7 @@ brioches
 bawcock
 bryologist
 bisso
+beclouded
 bimas
 bichromatic
 bryony
