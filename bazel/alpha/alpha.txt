@@ -23056,7 +23056,6 @@ attendances
 attendancy
 agnominal
 allopurinol
-attendant
 attirail
 aaronitic
 annunciable
@@ -23528,6 +23527,7 @@ auras
 aurate
 aurated
 aureate
+attendant
 aureately
 aureity
 axels
