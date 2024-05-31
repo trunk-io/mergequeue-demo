@@ -11987,7 +11987,6 @@ aesthesia
 anapnograph
 adosculation
 anapnoic
-anapnometer
 anapodeictic
 airedale
 anapophysial
@@ -13500,6 +13499,7 @@ annaline
 antigrammaticalness
 apathetic
 annalistic
+anapnometer
 antiprotons
 antiheroes
 aenigma
