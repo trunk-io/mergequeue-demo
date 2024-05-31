@@ -7376,6 +7376,7 @@ frankenia
 forceless
 forcelessness
 forcelet
+freespace
 futhark
 fasciculation
 fumerel
@@ -9659,7 +9660,6 @@ freers
 foliosity
 freesias
 fivefold
-freespace
 freest
 fluming
 fiberization
