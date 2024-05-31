@@ -2481,7 +2481,6 @@ candlefishes
 colipyuria
 candleholder
 candlelight
-candlelighted
 candlelighter
 confraternities
 candlelighting
@@ -10992,6 +10991,7 @@ chirographers
 crl
 calumniated
 chirography
+candlelighted
 chirographical
 chirolas
 chirology
