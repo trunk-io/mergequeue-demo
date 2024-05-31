@@ -2871,7 +2871,6 @@ alpiste
 acrometer
 armorproof
 acromia
-acromial
 archostenosis
 acromicria
 acromimia
@@ -7577,6 +7576,7 @@ atlas
 attackman
 albuminimeter
 albuminiparous
+acromial
 albuminised
 albuminising
 antiromance
