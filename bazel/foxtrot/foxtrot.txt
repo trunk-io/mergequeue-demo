@@ -5405,6 +5405,7 @@ finochio
 firedamp
 frsiket
 fleshhood
+froust
 foraged
 farcied
 fleshy
@@ -10515,7 +10516,6 @@ frise
 firefall
 fad
 fichat
-froust
 frousty
 frouzy
 frouziest
