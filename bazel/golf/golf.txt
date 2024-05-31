@@ -149,7 +149,6 @@ gadwall
 glycerizin
 gadwalls
 gae
-glottalization
 gael
 girth
 galibi
@@ -4314,6 +4313,7 @@ goloka
 gynaecol
 gerent
 gois
+glottalization
 gynaecology
 glebeless
 gynaecological
