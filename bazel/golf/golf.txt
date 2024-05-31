@@ -255,7 +255,6 @@ gainful
 gym
 ghostlike
 gipsire
-ghostwrote
 gainyield
 grafter
 gordiacean
@@ -4128,6 +4127,7 @@ gingivitis
 gentamicin
 gadidae
 gumpheon
+ghostwrote
 gillion
 gilliver
 gillotage
