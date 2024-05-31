@@ -5513,6 +5513,7 @@ griffith
 galliwasp
 guniter
 glyphic
+gulosity
 guran
 gastraeadae
 goury
@@ -10420,7 +10421,6 @@ gigawatts
 gulonic
 gulose
 gt
-gulosity
 gutturalness
 grein
 gadgetries
