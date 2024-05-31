@@ -9800,7 +9800,6 @@ cheki
 composal
 chekist
 chekker
-chekmak
 chelatable
 chelate
 chelated
@@ -26552,6 +26551,7 @@ cotterel
 cottering
 cicala
 cotty
+chekmak
 cottid
 cottidae
 cottise
