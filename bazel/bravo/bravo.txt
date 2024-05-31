@@ -5627,7 +5627,6 @@ backstamp
 bejezebel
 beadhouses
 bricksetter
-bejig
 bejuco
 bontebucks
 bundists
@@ -6934,6 +6933,7 @@ bescab
 bescarf
 belout
 blandishment
+bejig
 bullhoof
 bescatter
 balletic
