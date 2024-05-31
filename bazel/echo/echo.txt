@@ -450,7 +450,6 @@ embrew
 eccyesis
 eccl
 excentrical
-ecart
 ethnobotany
 evector
 earsore
@@ -3829,6 +3828,7 @@ emerald
 emeraldine
 emeraude
 emerge
+ecart
 emerged
 edulcorated
 endosteal
