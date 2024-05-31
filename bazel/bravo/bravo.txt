@@ -4370,6 +4370,7 @@ brays
 bebleed
 bebless
 beblood
+becursing
 beblooded
 bewitchery
 beblooding
@@ -4605,7 +4606,6 @@ babesia
 budgets
 becurses
 berascaling
-becursing
 becurst
 basommatophorous
 becushioned

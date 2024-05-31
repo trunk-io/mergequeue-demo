@@ -1500,7 +1500,6 @@ dcollet
 ddname
 dea
 depressure
-deaccession
 darknesses
 deaccessioning
 dingbats
@@ -11033,6 +11032,7 @@ disadjust
 disannuller
 disannulment
 disincarcerate
+deaccession
 dipsosis
 disannuls
 disembay
