@@ -2912,7 +2912,6 @@ barreled
 barreleyes
 belap
 barrelet
-barrelfish
 bookend
 barrelfishes
 batuque
@@ -17672,6 +17671,7 @@ blockish
 boris
 broncholith
 burinist
+barrelfish
 bonsai
 brisket
 burka
