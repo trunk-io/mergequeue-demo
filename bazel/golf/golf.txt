@@ -5872,7 +5872,6 @@ goings
 grimmish
 gabeller
 glosts
-glottal
 gloomy
 grapsoid
 ghole
@@ -6032,6 +6031,7 @@ gorgonising
 glucuronidase
 gangsman
 gnomide
+glottal
 gilgames
 gastroenterotomy
 gewgawish
