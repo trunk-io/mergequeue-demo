@@ -2928,6 +2928,7 @@ barrelhead
 barrelhouses
 barreling
 blanco
+bipennated
 broad
 barrelled
 baetylic
@@ -9321,7 +9322,6 @@ bipeltate
 bipennate
 built
 barometer
-bipennated
 bipetalous
 bucciniform
 biphasic
