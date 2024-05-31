@@ -5855,7 +5855,6 @@ episcopalian
 enhaemospore
 enterostomies
 epiplastron
-enhallow
 enhalo
 explees
 entocoel
@@ -13676,6 +13675,7 @@ eremian
 externalness
 elusions
 externat
+enhallow
 extrajudicially
 extempore
 externe
