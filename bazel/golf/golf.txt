@@ -6555,7 +6555,6 @@ gyrose
 goldbird
 griffinism
 guineapig
-goldbug
 gormands
 geswarp
 gawish
@@ -9689,6 +9688,7 @@ gruff
 gamahe
 gifblaar
 galloflavin
+goldbug
 geon
 gruffier
 gruffiest
