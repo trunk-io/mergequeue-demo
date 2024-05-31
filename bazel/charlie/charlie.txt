@@ -10134,7 +10134,6 @@ coleochaete
 chesoun
 chess
 chessart
-chessboard
 chessboards
 chessdom
 chessel
@@ -22745,6 +22744,7 @@ chrysatropic
 conoidal
 calmato
 conoidic
+chessboard
 contributor
 conoidical
 conoidically
