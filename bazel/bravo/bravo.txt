@@ -10086,7 +10086,6 @@ blenders
 beaufort
 begohm
 byzantine
-blizzardous
 byzantinize
 barmecide
 bottlemaking
@@ -12852,6 +12851,7 @@ boomkin
 boomkins
 bootes
 barnabite
+blizzardous
 boomslang
 boomslange
 betweenmaid
