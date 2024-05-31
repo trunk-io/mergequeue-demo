@@ -1706,6 +1706,7 @@ eider
 ectomorphism
 eiders
 eidograph
+explanator
 excavating
 eases
 evectional
@@ -7688,7 +7689,6 @@ enterohelcosis
 epicortical
 eidouranion
 epicostal
-explanator
 enterogastritis
 embroglios
 epicotyl
