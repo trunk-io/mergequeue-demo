@@ -1145,6 +1145,7 @@ edictal
 edictally
 edictum
 edicule
+epistolic
 echolalia
 edificate
 echinology
@@ -8316,7 +8317,6 @@ epistolarian
 eosaurus
 elderhood
 epistoler
-epistolic
 escribe
 epopoeia
 epistolised
