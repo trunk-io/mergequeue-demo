@@ -3792,7 +3792,6 @@ battings
 battledores
 baldly
 barotraumata
-battledoring
 battlefronts
 battlegrounds
 bringall
@@ -18080,6 +18079,7 @@ bustles
 biologize
 bustlingly
 busto
+battledoring
 busts
 busulfans
 buroo
