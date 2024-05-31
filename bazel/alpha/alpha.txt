@@ -486,7 +486,6 @@ abjured
 abjurement
 abjurer
 abjurers
-abjures
 abkar
 abkari
 abkhasian
@@ -9909,6 +9908,7 @@ amaryllideous
 adjudicating
 amaryllis
 aponogeton
+abjures
 amaryllises
 antepreterit
 amarillo
