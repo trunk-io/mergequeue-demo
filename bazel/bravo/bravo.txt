@@ -5299,7 +5299,6 @@ bobbled
 bothsided
 barlock
 begaze
-begazes
 begazing
 borderer
 begem
@@ -8046,6 +8045,7 @@ butcheries
 biblism
 beltene
 boordly
+begazes
 biblists
 bovicide
 biblos
