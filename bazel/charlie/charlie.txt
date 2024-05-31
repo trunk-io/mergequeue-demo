@@ -11345,7 +11345,6 @@ chlorines
 chlorinity
 chlorinize
 chicote
-chlorins
 chloriodide
 counterion
 chlorite
@@ -12083,6 +12082,7 @@ cognizee
 choriphyllous
 chorisis
 chorism
+chlorins
 chorist
 cyanuret
 characetum
