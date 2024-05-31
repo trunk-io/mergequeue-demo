@@ -5500,7 +5500,6 @@ behavior
 bathylimnetic
 bars
 behaviored
-behavioristically
 bicolour
 behaviorists
 behavioural
@@ -11059,6 +11058,7 @@ blksize
 bhoosa
 bunts
 blo
+behavioristically
 bloat
 benefactorship
 builded
