@@ -2770,7 +2770,6 @@ canonicalization
 cultivable
 canonicalized
 canonicalizes
-canonicalizing
 circumventive
 congealer
 canonicals
@@ -30295,6 +30294,7 @@ coviello
 coastways
 crusadoes
 confute
+canonicalizing
 cecidomyiidous
 cruse
 catalog
