@@ -113,7 +113,6 @@ genotype
 gadgetry
 generals
 geezer
-gaditan
 glut
 gadman
 gujerat
@@ -7198,6 +7197,7 @@ giraffoid
 gutsier
 gorgonised
 grasshopperdom
+gaditan
 glost
 goopy
 glaciate
