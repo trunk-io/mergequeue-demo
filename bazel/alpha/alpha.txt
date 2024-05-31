@@ -4146,7 +4146,6 @@ admissive
 admissively
 antiperistasis
 admissory
-acoelous
 admit
 allowanced
 admits
@@ -7359,6 +7358,7 @@ alarumed
 alaruming
 alarums
 antichorus
+acoelous
 antepaschel
 aerotropic
 ascogonidia
