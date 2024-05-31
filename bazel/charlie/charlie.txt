@@ -7226,7 +7226,6 @@ centripetency
 centriscid
 centriscidae
 cacumen
-centrisciform
 cups
 centriscoid
 centriscus
@@ -23835,6 +23834,7 @@ contrapuntist
 contrapunto
 contrarational
 contraregularity
+centrisciform
 contraremonstrance
 contrarevolutionary
 contrary
