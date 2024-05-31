@@ -6222,7 +6222,6 @@ gneiss
 grotesquely
 gunneries
 gombos
-gressible
 glengarries
 greatcoats
 gnessic
@@ -7531,6 +7530,7 @@ governors
 gobian
 garbled
 gravimeter
+gressible
 greywether
 governs
 genitory
