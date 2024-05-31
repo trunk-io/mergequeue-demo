@@ -8451,7 +8451,6 @@ antiferroelectric
 alite
 aliter
 ality
-ansi
 alitrunk
 azan
 aliturgic
@@ -14810,6 +14809,7 @@ ack
 antibishop
 antiblack
 actorish
+ansi
 antiblackism
 antiblastic
 abjudication
