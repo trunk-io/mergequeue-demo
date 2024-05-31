@@ -452,7 +452,6 @@ cadastral
 consultory
 caledonian
 cadastration
-cadastre
 cadastres
 cadaver
 capronic
@@ -17276,6 +17275,7 @@ candlesnuffer
 coalescent
 combustibility
 coalesces
+cadastre
 coalescing
 choya
 coalfield
