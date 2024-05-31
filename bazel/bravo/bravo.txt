@@ -2529,7 +2529,6 @@ bargelike
 bravura
 bargelli
 bargellos
-bargeload
 bargeman
 bargemaster
 booklice
@@ -15434,6 +15433,7 @@ botryomyces
 brinsell
 backshish
 beardlike
+bargeload
 brynza
 brioches
 bawcock
