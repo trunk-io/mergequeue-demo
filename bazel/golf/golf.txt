@@ -721,7 +721,6 @@ gonfalon
 galopade
 grammies
 garnierite
-guidership
 ganda
 galops
 greffotome
@@ -8733,6 +8732,7 @@ gauntree
 greenswarded
 gorger
 grimacingly
+guidership
 greentail
 greenware
 gemels
