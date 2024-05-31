@@ -510,7 +510,6 @@ broadway
 backstopped
 besiclometer
 backstops
-backstrap
 backstrapped
 backstreet
 blastophoric
@@ -8936,6 +8935,7 @@ battailant
 binocs
 binocular
 battel
+backstrap
 binocularly
 binoculars
 bellarmine
