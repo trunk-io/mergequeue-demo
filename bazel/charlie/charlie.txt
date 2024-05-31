@@ -9881,7 +9881,6 @@ chemiotaxis
 chemiotropic
 chemiotropism
 chemiphotic
-chlorosulphonic
 chemis
 chemise
 comport
@@ -15330,6 +15329,7 @@ clayer
 cantharidating
 conspecifics
 contchar
+chlorosulphonic
 clayier
 clayiest
 calotermitid
