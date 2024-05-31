@@ -17945,7 +17945,6 @@ codman
 codol
 chants
 codominant
-codon
 crested
 crystallographical
 combes
@@ -20603,6 +20602,7 @@ compd
 cusparia
 carnose
 compear
+codon
 compearance
 crapon
 compearant
