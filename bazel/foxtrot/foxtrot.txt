@@ -6008,7 +6008,6 @@ fermorite
 forgab
 footcandle
 flutteration
-fasels
 frontooccipital
 fayed
 flanging
@@ -8393,6 +8392,7 @@ formalness
 flaucht
 fantail
 formamidine
+fasels
 fluorinating
 francomania
 fuze
