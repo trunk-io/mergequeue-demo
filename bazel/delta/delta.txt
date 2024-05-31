@@ -6919,7 +6919,6 @@ discomposes
 desoxalic
 dichromasy
 desoxyephedrine
-desoxymorphine
 desoxyribonucleic
 desoxyribonucleoprotein
 desoxyribose
@@ -16509,6 +16508,7 @@ deliber
 dasyprocta
 datiscin
 dracocephalum
+desoxymorphine
 deodorizing
 dracone
 dehydrogeniser

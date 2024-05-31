@@ -4014,7 +4014,6 @@ emanant
 electroplated
 empaper
 emparchment
-epithamia
 emparl
 eventuates
 empasma
@@ -14118,6 +14117,7 @@ eyeletted
 extroversive
 epitheton
 extrovert
+epithamia
 electrooptic
 eucyclic
 extrovertish
