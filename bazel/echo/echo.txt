@@ -2340,7 +2340,6 @@ epicenity
 eremitic
 excuderunt
 epistroma
-electrocapillarity
 electrocardiogram
 exoperidium
 electrocardiograph
@@ -7622,6 +7621,7 @@ epichilium
 endomysium
 evaluators
 englishwomen
+electrocapillarity
 exungulate
 epichlorohydrin
 epichondrosis
