@@ -8515,6 +8515,7 @@ attidae
 alkalinity
 alkalinities
 abactor
+authorities
 augmentations
 adynamy
 alkalinized
@@ -23838,7 +23839,6 @@ authoritativeness
 austroasiatic
 authority
 announceable
-authorities
 authorize
 authorized
 authorizer
