@@ -11170,6 +11170,7 @@ disbase
 disbeliefs
 disbelieved
 disproportions
+dossals
 daggering
 dialings
 deprecatoriness
@@ -15904,7 +15905,6 @@ dossal
 degression
 darii
 deepeningly
-dossals
 dossed
 daglock
 dossel
