@@ -7478,7 +7478,6 @@ cerambycidae
 committeeman
 circumambulation
 cayuco
-ceramicist
 ceramicite
 ceramics
 cledge
@@ -25481,6 +25480,7 @@ cornless
 cornloft
 cornmaster
 cornmeal
+ceramicist
 cothurnal
 cornmeals
 cornmuse
