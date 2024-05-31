@@ -1088,6 +1088,7 @@ farmout
 fisc
 farmtown
 floricomous
+folily
 farnesol
 farnesols
 frotting
@@ -6823,7 +6824,6 @@ foreadvertise
 foliates
 filopodium
 foliation
-folily
 facemaking
 foreadapt
 fistiness
