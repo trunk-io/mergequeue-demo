@@ -8861,7 +8861,6 @@ chaperone
 chaperoned
 chaperonless
 chaperons
-cathisma
 chapes
 chapfallenly
 chapin
@@ -27522,6 +27521,7 @@ covariables
 cheongsam
 coal
 covariant
+cathisma
 clavier
 cuban
 covariate

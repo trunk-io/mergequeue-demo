@@ -2934,7 +2934,6 @@ extemporise
 euphonize
 elfland
 ergotized
-elflike
 elflock
 entelodon
 elflocks
@@ -12092,6 +12091,7 @@ excoriation
 excoriations
 epiclike
 enforcible
+elflike
 elutriator
 excorticate
 extinguishable
