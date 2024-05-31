@@ -1862,7 +1862,6 @@ guestimate
 gallophobia
 gyms
 gelatinotype
-golem
 grippelike
 gestalten
 gastrosopher
@@ -10371,6 +10370,7 @@ grot
 gulfweed
 glebal
 goalers
+golem
 gaums
 gulfweeds
 gulgul
