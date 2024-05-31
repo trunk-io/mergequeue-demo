@@ -5528,7 +5528,6 @@ flied
 flier
 flyer
 faeces
-foretelling
 fossilization
 firstling
 felonweed
@@ -8036,6 +8035,7 @@ fcy
 focalizing
 forseeable
 forme
+foretelling
 fireflies
 fulminated
 fabulist
