@@ -916,6 +916,7 @@ gamesome
 gallowsward
 galanas
 gallberries
+gainturn
 gumtrees
 guily
 gamest
@@ -3645,7 +3646,6 @@ glazement
 ghastily
 gaslit
 granulitization
-gainturn
 granza
 glove
 gunbearer
