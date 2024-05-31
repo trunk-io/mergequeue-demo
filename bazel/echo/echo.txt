@@ -4606,6 +4606,7 @@ expel
 enchantress
 enam
 encharging
+equidifferent
 enchased
 exchangeable
 elaidinic
@@ -10724,7 +10725,6 @@ electrojet
 eudemonics
 equivalencies
 epibatus
-equidifferent
 eudeve
 excamber
 eudiometry
