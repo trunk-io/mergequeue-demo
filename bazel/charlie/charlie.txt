@@ -3261,6 +3261,7 @@ capmaking
 capman
 capnodium
 capnoides
+clipping
 colonizes
 capnomancy
 capnomor
@@ -16381,7 +16382,6 @@ clipped
 clippers
 clippie
 convenienced
-clipping
 clippingly
 clips
 clipse

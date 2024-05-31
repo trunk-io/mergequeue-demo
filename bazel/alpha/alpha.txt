@@ -830,7 +830,6 @@ apiary
 arache
 absaroka
 allergy
-abscessed
 abscesses
 abscession
 assertors
@@ -1339,6 +1338,7 @@ acatholic
 acaudate
 antarchism
 acaudelescent
+abscessed
 acaulescence
 acaulescent
 acauline
