@@ -874,7 +874,6 @@ ectocondyloid
 efficient
 erroneous
 enchair
-ectocuneiform
 exocarps
 ectocuniform
 ectodermosis
@@ -1341,6 +1340,7 @@ efface
 effaceable
 effaced
 effacement
+ectocuneiform
 effacers
 effare
 effate
