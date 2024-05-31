@@ -16975,7 +16975,6 @@ aberrations
 aphthongia
 apiaca
 apiaceae
-apiaceous
 apian
 apiararies
 apiarian
@@ -25267,6 +25266,7 @@ azimene
 antepenultima
 academus
 atinkle
+apiaceous
 activating
 azimide
 azimin
