@@ -3976,7 +3976,6 @@ apieces
 adjourn
 adjournal
 arylamino
-adjourning
 adjourns
 adjoust
 adjt
@@ -22594,6 +22593,7 @@ athermic
 atherogenesis
 agony
 antiatoms
+adjourning
 atherogenic
 atheroma
 atheromas
