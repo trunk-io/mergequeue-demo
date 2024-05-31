@@ -2757,7 +2757,6 @@ canoeists
 canoeload
 canoeman
 canoes
-calmy
 cardiogenesis
 cukes
 canoewood
@@ -13130,6 +13129,7 @@ cyanometer
 cuneate
 celeriacs
 chiasmatypy
+calmy
 curateship
 cyanometry
 checkoffs
