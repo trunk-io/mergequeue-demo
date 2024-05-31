@@ -3095,7 +3095,6 @@ executiveness
 exteriorization
 elliptical
 elliptically
-ellipticalness
 ellipticity
 extemporize
 elliptograph
@@ -7738,6 +7737,7 @@ estrus
 entrancer
 esprise
 extruder
+ellipticalness
 ectozoon
 epidemically
 evidentiary
