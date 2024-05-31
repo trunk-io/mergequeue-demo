@@ -2009,6 +2009,7 @@ acetylmethylcarbinol
 acetylperoxide
 acetylphenylhydrazine
 asg
+affinite
 acetylphenol
 agogic
 acetylrosaniline
@@ -19506,7 +19507,6 @@ arterial
 argentide
 argentiferous
 arkie
-affinite
 allowance
 argentin
 azotometer
