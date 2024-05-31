@@ -58,7 +58,6 @@ babe
 babel
 bolbonac
 berouged
-babeldom
 babelet
 babelish
 barouches
@@ -11769,6 +11768,7 @@ bodings
 bish
 boccaro
 bocce
+babeldom
 bocces
 boccia
 boccias
