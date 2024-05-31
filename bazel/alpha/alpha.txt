@@ -14220,7 +14220,6 @@ anteoccupation
 anteocular
 argyria
 anteopercle
-adenotomy
 assoin
 anteoperculum
 anteorbital
@@ -19604,6 +19603,7 @@ argol
 accessoriness
 argolian
 assaults
+adenotomy
 axospermous
 argols
 anecdotal
