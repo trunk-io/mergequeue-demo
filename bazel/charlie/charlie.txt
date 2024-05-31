@@ -13143,7 +13143,6 @@ couverte
 cyanoplatinite
 cyanoplatinous
 cyanose
-cyanosed
 cyanoses
 cyanosis
 chemitype
@@ -20348,6 +20347,7 @@ communed
 communer
 cashiers
 communes
+cyanosed
 communicability
 communicable
 communicant

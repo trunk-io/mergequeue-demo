@@ -775,7 +775,6 @@ galvanomagnetic
 galvanomagnetism
 gombeen
 galvanometers
-galvanometric
 geometries
 goumi
 gregg
@@ -9076,6 +9075,7 @@ gingerberry
 grallatorial
 genoveva
 gareh
+galvanometric
 grammaticalness
 grandstands
 grooming
