@@ -6321,7 +6321,6 @@ goniale
 gossipdom
 goat
 glyptodontidae
-goatbeard
 gatepost
 gervase
 gollywobbler
@@ -10216,6 +10215,7 @@ goldhead
 guido
 gladiolar
 gighe
+goatbeard
 goos
 guids
 gillies
