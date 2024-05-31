@@ -4904,7 +4904,6 @@ fallback
 flamethrowers
 frankpledge
 flamy
-foxlike
 flyflower
 floorages
 flamiest
@@ -10941,6 +10940,7 @@ flapperism
 fulgoroidea
 folk
 formfeed
+foxlike
 farawayness
 foilable
 fiscalizing
