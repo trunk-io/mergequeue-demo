@@ -846,7 +846,6 @@ backband
 bootblack
 bagdad
 bagdi
-bagel
 bauxites
 bagful
 bemantle
@@ -6619,6 +6618,7 @@ blackheartedness
 berakah
 bewelcome
 basilyst
+bagel
 beraking
 banisters
 ballader
