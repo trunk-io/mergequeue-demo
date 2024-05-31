@@ -7586,7 +7586,6 @@ cercopid
 continent
 cercopithecid
 contracting
-coenenchymata
 cercopithecidae
 cercopithecoid
 cercopithecus
@@ -13768,6 +13767,7 @@ cymlin
 cymlings
 cymlins
 charnel
+coenenchymata
 crematories
 cimmeria
 cimmerian

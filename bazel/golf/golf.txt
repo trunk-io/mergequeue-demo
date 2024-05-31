@@ -1309,7 +1309,6 @@ grimier
 gapping
 grex
 galvaniser
-garbline
 guib
 garblings
 garboard
@@ -2144,6 +2143,7 @@ ginglmi
 gnomist
 gelndesprung
 gradations
+garbline
 griefs
 gawkhammer
 geat
