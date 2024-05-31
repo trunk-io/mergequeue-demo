@@ -3700,6 +3700,7 @@ embryopathology
 embryophyte
 embryophore
 educations
+electrogenesis
 embryoplastic
 embryos
 esthesioblast
@@ -12777,7 +12778,6 @@ exordial
 exordium
 exordiums
 exordize
-electrogenesis
 exorhason
 ejectamenta
 egoists
