@@ -8270,7 +8270,6 @@ fameflower
 forhaile
 foreroyal
 faroese
-forhooy
 farthingless
 fraughan
 frontonasal
@@ -9615,6 +9614,7 @@ front
 frizzing
 ferren
 ferrotyper
+forhooy
 freedwoman
 fluxibility
 flavines
