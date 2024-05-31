@@ -3418,7 +3418,6 @@ enteropneustan
 embattled
 estranger
 embattlement
-embattles
 embed
 exsibilate
 euphonetic
@@ -6090,6 +6089,7 @@ epicentre
 enmeshment
 estated
 enmity
+embattles
 ethicizes
 enmities
 enmove
