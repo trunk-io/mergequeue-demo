@@ -3014,7 +3014,6 @@ annualist
 actiniferous
 axtree
 aulostomi
-actiniform
 actiniomorpha
 actinisms
 aphidious
@@ -19111,6 +19110,7 @@ alar
 archmarshal
 archmessenger
 archmilitarist
+actiniform
 archmocker
 archmockery
 algol
