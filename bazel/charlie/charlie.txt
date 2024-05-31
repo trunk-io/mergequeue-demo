@@ -13253,7 +13253,6 @@ chiot
 catchable
 cycases
 coverless
-cycasin
 cycasins
 cicatrice
 colocolo
@@ -19815,6 +19814,7 @@ comboy
 comboloio
 combos
 combretaceae
+cycasin
 combs
 combure
 comburendo
