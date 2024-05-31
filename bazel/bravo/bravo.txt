@@ -625,6 +625,7 @@ bacteriohemolysin
 brin
 bacteriolysin
 bletherskate
+bisellia
 bemingle
 bacteriolyze
 bacteriology
@@ -15839,7 +15840,6 @@ bromidrosis
 brominate
 blowhard
 brominated
-bisellia
 bromination
 broadband
 beswim
