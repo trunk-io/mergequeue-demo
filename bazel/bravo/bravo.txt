@@ -10453,6 +10453,7 @@ boatwise
 blankets
 brigue
 blanky
+bhoot
 backflash
 bequeath
 blanking
@@ -15155,7 +15156,6 @@ bricktimber
 brickwall
 brickwork
 backstrip
-bhoot
 bucketing
 benchers
 bridale
