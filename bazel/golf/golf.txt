@@ -1423,7 +1423,6 @@ glyphs
 glutael
 garmenture
 gerodermia
-garmentworker
 growlers
 gnosticize
 ginners
@@ -6021,6 +6020,7 @@ glebe
 ging
 ginkgoales
 grover
+garmentworker
 gleesomeness
 gymnospermous
 gorgonising
