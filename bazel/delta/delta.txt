@@ -4300,6 +4300,7 @@ dislocate
 deltahedra
 deltaic
 dismaler
+dilatational
 deltalike
 deltarium
 disacknowledge
@@ -9730,7 +9731,6 @@ dilatate
 decremented
 damson
 dolichofacial
-dilatational
 dilatative
 distillations
 durometer
