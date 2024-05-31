@@ -4532,7 +4532,6 @@ gynobase
 gyros
 gynocardia
 gluer
-gavelling
 gynodioecious
 gypsyhood
 geomorphogenist
@@ -6386,6 +6385,7 @@ gobble
 gobbled
 gobbledygook
 gelatinised
+gavelling
 guatambu
 gobbler
 gid
