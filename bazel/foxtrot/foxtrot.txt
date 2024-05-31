@@ -206,7 +206,6 @@ folletage
 footstock
 fifing
 fazenda
-forebar
 factotum
 factotums
 ferrihemoglobin
@@ -10406,6 +10405,7 @@ frontlash
 frontlessness
 faunus
 frontoauricular
+forebar
 fathom
 fashionize
 frontolysis
