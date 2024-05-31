@@ -3649,7 +3649,6 @@ gunbearer
 gatewaymen
 groups
 gargil
-ghastlily
 gantries
 groundsill
 glovers
@@ -9907,6 +9906,7 @@ golding
 galette
 galloons
 gibbed
+ghastlily
 guaranine
 gelogenic
 glowered
