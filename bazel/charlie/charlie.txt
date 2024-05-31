@@ -1002,6 +1002,7 @@ calapitte
 calappa
 calappidae
 calas
+colourtype
 calascione
 calash
 calastic
@@ -19545,7 +19546,6 @@ colourist
 colourless
 colourman
 colours
-colourtype
 colp
 colpenchyma
 colpeo

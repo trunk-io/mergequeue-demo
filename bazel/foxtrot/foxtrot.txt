@@ -1974,7 +1974,6 @@ fern
 feedstock
 feedstuff
 feeler
-forefeel
 feelers
 fibroserous
 flybook
@@ -5537,6 +5536,7 @@ flossa
 flickers
 flappered
 fulsome
+forefeel
 fossilation
 flidge
 feminist
