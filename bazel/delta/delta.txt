@@ -7441,7 +7441,6 @@ detraque
 deathsmen
 detrect
 detrench
-domajig
 detribalize
 dismoded
 diapensia
@@ -10623,6 +10622,7 @@ detritus
 dunnaged
 diplont
 diplonts
+domajig
 diplophase
 dictional
 dosology
