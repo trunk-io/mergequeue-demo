@@ -4314,7 +4314,6 @@ algaesthesis
 adornment
 armamentaria
 adornments
-adorno
 adornos
 adorns
 arrivage
@@ -22091,6 +22090,7 @@ anaunter
 asterophyllite
 asterophyllites
 asterospondyli
+adorno
 agnathous
 asterospondylic
 asteroxylaceae
