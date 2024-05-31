@@ -2528,6 +2528,7 @@ catalan
 candroys
 canduc
 camphires
+cyclotrons
 cane
 corneum
 cliffing
@@ -12980,7 +12981,6 @@ churinga
 churingas
 churl
 convoys
-cyclotrons
 churlier
 corrugations
 churliest
