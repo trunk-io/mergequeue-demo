@@ -1516,7 +1516,6 @@ effulgences
 effulgent
 endosmotic
 electroshocks
-effume
 embolium
 effund
 empathic
@@ -6751,6 +6750,7 @@ enthelminthic
 enthetic
 enthymematic
 enthymeme
+effume
 exsuperate
 entremess
 enwingly
