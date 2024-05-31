@@ -262,6 +262,7 @@ endgame
 expiries
 exospores
 easterling
+exstemporaneous
 ecrevisse
 epeirogenic
 economising
@@ -13529,7 +13530,6 @@ entosclerite
 eloquence
 exspuition
 energies
-exstemporaneous
 eruditeness
 exstipulate
 exstrophy
