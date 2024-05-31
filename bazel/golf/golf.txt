@@ -2212,7 +2212,6 @@ galleta
 gastropulmonary
 gerontine
 gastrojejunostomies
-gconv
 gdinfo
 gds
 grimoire
@@ -6372,6 +6371,7 @@ gobber
 girja
 gobby
 ghostiest
+gconv
 gynandrarchic
 genitourinary
 gospelly
