@@ -909,6 +909,7 @@ absistos
 absit
 absoil
 antient
+amphitron
 absolent
 absolute
 axmen
@@ -11342,7 +11343,6 @@ amphitriaene
 anoxaemic
 anticreeper
 amphitrichate
-amphitron
 aqueity
 amphitropous
 amphitruo
