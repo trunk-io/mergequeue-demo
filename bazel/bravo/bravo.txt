@@ -12294,6 +12294,7 @@ boltlike
 beaupers
 boltmaker
 boltonia
+bombaster
 boltonias
 boltonite
 boltrope
@@ -13611,7 +13612,6 @@ bricker
 boultel
 boulter
 bemuddle
-bombaster
 backwashed
 buckstall
 bardo
