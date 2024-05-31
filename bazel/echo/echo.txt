@@ -1243,7 +1243,6 @@ educables
 educand
 educatability
 eident
-elkhounds
 educatable
 educatedness
 educates
@@ -9777,6 +9776,7 @@ enfoil
 evilsayer
 epistyles
 esplanade
+elkhounds
 espousers
 espontoon
 errableness
