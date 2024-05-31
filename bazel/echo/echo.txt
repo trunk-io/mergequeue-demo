@@ -1608,7 +1608,6 @@ encampment
 epipany
 egyptologic
 egis
-exposing
 exogeny
 egises
 expatiators
@@ -13465,6 +13464,7 @@ exrx
 evenforth
 exsanguinate
 exsanguinating
+exposing
 ethmoidal
 eudaemonic
 epidermis
