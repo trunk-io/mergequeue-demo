@@ -11559,7 +11559,6 @@ colonizations
 campuses
 ceratitoid
 choirmasters
-casper
 cornaceous
 classmen
 choirwise
@@ -29123,6 +29122,7 @@ crinkum
 crinogenic
 crinoid
 crinoidea
+casper
 crinoidean
 crinoids
 corundums
