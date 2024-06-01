@@ -4664,7 +4664,6 @@ advisements
 advisership
 adviser
 advisers
-advises
 amidid
 advisy
 advising
@@ -18522,6 +18521,7 @@ araracanga
 anaclinal
 aspredinidae
 arleng
+advises
 ararobas
 arase
 archencephalic
