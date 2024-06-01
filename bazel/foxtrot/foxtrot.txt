@@ -4945,7 +4945,6 @@ flowerbed
 flanked
 flickery
 fixated
-flanker
 flankers
 flaneur
 flanking
@@ -10234,6 +10233,7 @@ fibra
 fargood
 filite
 flunkyism
+flanker
 footnote
 foresightless
 froggies
