@@ -9184,7 +9184,6 @@ amar
 antiputrefaction
 abolishable
 animations
-antiplenist
 alboranite
 almemar
 almemars
@@ -11408,6 +11407,7 @@ amplitudinous
 ampollosity
 amoibite
 accurate
+antiplenist
 airlight
 ampongue
 attracted
