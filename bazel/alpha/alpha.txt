@@ -3953,7 +3953,6 @@ adjective
 adjectively
 adjectives
 anagogy
-araphostic
 adjectivitis
 agyiomania
 adjiga
@@ -6460,6 +6459,7 @@ almah
 agriological
 astringently
 animate
+araphostic
 agriot
 agriotype
 agriotypidae
