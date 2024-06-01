@@ -8441,7 +8441,6 @@ dialyzed
 dialyzer
 demotion
 dialyzes
-dispell
 dialkylamine
 detentes
 diallage
@@ -15510,6 +15509,7 @@ donative
 dechemicalization
 donator
 discodactyl
+dispell
 diglottic
 desist
 decolorise
