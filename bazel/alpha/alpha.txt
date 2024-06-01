@@ -9664,7 +9664,6 @@ aluminas
 aluminate
 alpha
 alumines
-aluminic
 absfarad
 aluminide
 aluminiferous
@@ -19477,6 +19476,7 @@ allergins
 anoplothere
 adjuror
 argante
+aluminic
 argas
 argasid
 argeers
