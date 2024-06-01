@@ -6333,7 +6333,6 @@ benincasa
 beniseed
 benisons
 benitier
-bandlimit
 benjamin
 benjaminite
 boletus
@@ -12395,6 +12394,7 @@ byronize
 barberry
 bab
 befume
+bandlimit
 buffalofishes
 bombyxes
 brigades
