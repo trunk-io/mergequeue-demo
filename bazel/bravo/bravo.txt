@@ -6575,6 +6575,7 @@ bephrase
 brachiopodist
 bepicture
 bepiece
+basiotribe
 bellyflaught
 bepile
 bodeword
@@ -9303,7 +9304,6 @@ bipartisan
 bunolophodont
 bipartisanship
 boreades
-basiotribe
 bipartitely
 belitter
 beggared
