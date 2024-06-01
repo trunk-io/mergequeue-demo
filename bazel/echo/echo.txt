@@ -5574,6 +5574,7 @@ enflame
 embost
 enflames
 enduringness
+endogens
 eukaryote
 enflaming
 epiklesis
@@ -11796,7 +11797,6 @@ epirot
 exasperate
 exasperated
 equicrural
-endogens
 exasperatedly
 elliott
 eversion
