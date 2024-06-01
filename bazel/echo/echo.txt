@@ -6634,7 +6634,6 @@ enterococcus
 enterocoela
 enterocoelous
 easterliness
-enterocolitis
 enterocolostomy
 enterodynia
 enteroepiplocele
@@ -12591,6 +12590,7 @@ electroencephalograms
 exitious
 exits
 exiture
+enterocolitis
 elkdom
 exla
 eft
