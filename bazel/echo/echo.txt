@@ -6174,6 +6174,7 @@ energetics
 eusynchite
 executable
 enoplan
+eulogia
 enorm
 exhortator
 etaballi
@@ -12150,7 +12151,6 @@ expansometer
 excubitoria
 expellee
 entwisting
-eulogia
 excud
 excudate
 exulcerated
