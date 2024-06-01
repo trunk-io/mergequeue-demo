@@ -8219,7 +8219,6 @@ chainmaker
 chainmaking
 chiropodist
 chainman
-courts
 chainmen
 chainomatic
 chainon
@@ -22379,6 +22378,7 @@ congregant
 congregated
 congregating
 congregation
+courts
 coting
 congregational
 congregationalism
