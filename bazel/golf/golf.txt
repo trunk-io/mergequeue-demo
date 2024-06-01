@@ -2222,6 +2222,7 @@ gastrojejunostomies
 gdinfo
 gds
 grimoire
+gapers
 grayfish
 grinnellia
 gaycat
@@ -7385,7 +7386,6 @@ gotra
 guntub
 gurglets
 gotraja
-gapers
 gotta
 gongoresque
 gottfried
