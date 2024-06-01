@@ -12697,7 +12697,6 @@ chronons
 chronopher
 chronophotography
 chronophotographic
-chronos
 chronoscope
 chronoscopy
 chronoscopic
@@ -29824,6 +29823,7 @@ capsumin
 crosnes
 cross
 circummeridian
+chronos
 cryptopin
 crossarms
 calculate
