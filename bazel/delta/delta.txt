@@ -2936,7 +2936,6 @@ dortiness
 deerlike
 decurion
 deus
-dactylic
 deprived
 demented
 decurions
@@ -8235,6 +8234,7 @@ diaconica
 diaconus
 depotentiation
 diacoustics
+dactylic
 diacranterian
 diacritic
 demidome
