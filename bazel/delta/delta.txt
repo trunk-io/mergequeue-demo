@@ -241,7 +241,6 @@ defeminize
 demonstratively
 daggly
 daggar
-dagger
 daggerboard
 dyssynergia
 daggerproof
@@ -18282,6 +18281,7 @@ dunning
 dunnish
 dunnite
 dunnites
+dagger
 dextorsal
 dunpickle
 debtorship
