@@ -11678,6 +11678,7 @@ beigy
 beclown
 boatmanship
 boatmen
+bushlet
 boatowner
 boats
 boatsetter
@@ -13338,7 +13339,6 @@ beeswings
 botched
 botchedly
 botcher
-bushlet
 bridgeman
 botcheries
 botcherly
