@@ -1138,7 +1138,6 @@ abuzz
 anodendron
 abwab
 ac
-acacatechin
 acacatechol
 acacia
 acacian
@@ -11746,6 +11745,7 @@ aldim
 anaglyptography
 anaglyptographic
 anagnorises
+acacatechin
 anagnorisis
 aesculapian
 ablator
