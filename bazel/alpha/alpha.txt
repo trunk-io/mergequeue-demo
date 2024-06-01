@@ -5378,6 +5378,7 @@ affixment
 afflate
 anophthalmia
 afflated
+ataxia
 afflatus
 absent
 afflatuses
@@ -22471,7 +22472,6 @@ atavistically
 atavists
 adenoidectomies
 ataxy
-ataxia
 ataxiagraph
 ataxiaphasia
 ataxies
