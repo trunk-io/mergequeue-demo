@@ -24043,7 +24043,6 @@ comps
 conveyance
 conveyances
 conveyed
-clambers
 coonskins
 conveyer
 conveying
@@ -30541,6 +30540,7 @@ cubs
 cubti
 cuca
 crossover
+clambers
 cucaracha
 cuchan
 cystitome
