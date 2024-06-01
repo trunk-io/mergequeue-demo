@@ -7868,6 +7868,7 @@ cerveliere
 cervelliere
 coronatorial
 cervicapra
+cuselite
 cervicaprine
 cervicectomy
 capibara
@@ -31638,7 +31639,6 @@ cuscuta
 cuscutaceae
 cuscutaceous
 cusecs
-cuselite
 cush
 cushag
 cushats
