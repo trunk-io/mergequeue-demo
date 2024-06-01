@@ -1459,7 +1459,6 @@ false
 fatties
 fattiness
 funis
-fiftyfold
 fattishness
 fattrels
 fother
@@ -2374,6 +2373,7 @@ feoffors
 fidelis
 faultier
 feoffs
+fiftyfold
 fand
 footstalk
 fremescence
