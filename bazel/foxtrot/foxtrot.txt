@@ -8545,7 +8545,6 @@ forspent
 fantast
 forpet
 forpining
-foreappointment
 fainters
 famishment
 facetiously
@@ -9890,6 +9889,7 @@ fribbler
 friskle
 fribbling
 ferrite
+foreappointment
 fricace
 finalizing
 fricandeaux
