@@ -813,6 +813,7 @@ gris
 ghrush
 gandergoose
 gottlieb
+grithman
 gamari
 gamash
 gamashes
@@ -10633,7 +10634,6 @@ gyascutus
 gyrostachys
 glens
 giganticness
-grithman
 gunwales
 gunzian
 guppy
