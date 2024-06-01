@@ -6034,7 +6034,6 @@ catlin
 catline
 catling
 catlings
-catlinite
 catlins
 cryptoporticus
 catmint
@@ -8942,6 +8941,7 @@ characterisable
 cellularity
 claviol
 complimenters
+catlinite
 characterise
 characterised
 characteriser
