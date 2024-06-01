@@ -6346,7 +6346,6 @@ agos
 allicin
 agouara
 agouty
-agouties
 apodous
 agoutis
 agleam
@@ -8292,6 +8291,7 @@ anchored
 alien
 alienability
 alienabilities
+agouties
 alienable
 ancylodactyla
 alienage
