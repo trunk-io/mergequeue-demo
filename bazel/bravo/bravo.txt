@@ -320,6 +320,7 @@ backdoor
 bistetrazole
 backdown
 bunglings
+bowfront
 backdrop
 byee
 backdrops
@@ -7586,7 +7587,6 @@ bura
 borates
 beurre
 bevaring
-bowfront
 bevatron
 beveil
 bevelers
