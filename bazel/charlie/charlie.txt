@@ -4013,7 +4013,6 @@ cardboard
 crissum
 cardcases
 cardecu
-carded
 cardel
 carder
 cardholder
@@ -20878,6 +20877,7 @@ compony
 comportable
 comportance
 comported
+carded
 comporting
 circumflexes
 comports
