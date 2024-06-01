@@ -1937,6 +1937,7 @@ emim
 estmark
 eirack
 eyrant
+erasability
 eikon
 eyre
 extradictionary
@@ -13540,7 +13541,6 @@ esoteric
 exsufflate
 exsufflation
 emmies
-erasability
 exsufflicate
 eventide
 exsuperance
