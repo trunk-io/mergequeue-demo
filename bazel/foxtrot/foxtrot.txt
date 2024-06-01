@@ -5261,7 +5261,6 @@ flouncier
 firlot
 fylker
 fungus
-feeblehearted
 fleamy
 flemish
 fleams
@@ -11120,6 +11119,7 @@ febres
 fearlessness
 framework
 funder
+feeblehearted
 fruz
 forecarriage
 forbiddance
