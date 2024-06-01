@@ -4083,7 +4083,6 @@ gorse
 gaseity
 guttula
 gildable
-geostatics
 gliadines
 grievousness
 grotzen
@@ -6989,6 +6988,7 @@ grayfly
 gastrohyperneuria
 gradients
 globoid
+geostatics
 gastrozooid
 goodwife
 gravigrada

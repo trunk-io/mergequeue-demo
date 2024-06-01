@@ -4688,6 +4688,7 @@ carpetbag
 carpetbagger
 carpetbaggery
 catty
+compatibles
 cowshard
 cyathi
 carpetbagging
@@ -20583,7 +20584,6 @@ compatibilities
 compatible
 circumambages
 compatibleness
-compatibles
 compatriot
 compatriotic
 compatriots
