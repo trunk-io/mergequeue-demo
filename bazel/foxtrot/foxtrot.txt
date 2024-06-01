@@ -5018,7 +5018,6 @@ fiendliest
 flinches
 flashcube
 fatigated
-flashcubes
 fario
 fidicinal
 flashed
@@ -11236,6 +11235,7 @@ funiculars
 funiform
 funje
 furtherances
+flashcubes
 foresin
 flexuosities
 facinorous
