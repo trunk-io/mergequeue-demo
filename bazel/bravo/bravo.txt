@@ -8028,7 +8028,6 @@ bibliosoph
 bibliotaphe
 bibliothecae
 bibliothecarian
-bibliothecas
 blake
 bounty
 bibliotheque
@@ -9200,6 +9199,7 @@ biorhythm
 biorhythmicity
 bigeminal
 beshivers
+bibliothecas
 bios
 bargander
 biosatellites
