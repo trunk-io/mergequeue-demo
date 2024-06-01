@@ -5354,6 +5354,7 @@ flamines
 firearmed
 fley
 fearers
+fretting
 farhands
 foxed
 flem
@@ -9851,7 +9852,6 @@ fattens
 foredooming
 furnacite
 fpm
-fretting
 fretum
 firefang
 figurante
