@@ -4397,6 +4397,7 @@ forerigging
 fishskin
 fulgurate
 fashioned
+foreloop
 fourhanded
 fishspear
 fishtail
@@ -7725,7 +7726,6 @@ famishing
 florilege
 forelook
 francisco
-foreloop
 forelooper
 fudger
 forelouper
