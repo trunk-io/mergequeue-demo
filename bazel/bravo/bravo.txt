@@ -2732,7 +2732,6 @@ beadflush
 biordinal
 barnman
 barnstormer
-barnstormers
 barnstorming
 buoyantly
 beaverish
@@ -14915,6 +14914,7 @@ brechans
 bullfeast
 billowier
 brecht
+barnstormers
 beekeeper
 bungholes
 billitonite
