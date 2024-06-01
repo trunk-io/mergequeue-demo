@@ -10085,7 +10085,6 @@ characterstring
 cherries
 chlorioninae
 capharnaism
-chauri
 chugalugs
 cherrying
 cyclones
@@ -30098,6 +30097,7 @@ crownwort
 crows
 crowshay
 crowstepped
+chauri
 crowstick
 crowstone
 crowtoe
