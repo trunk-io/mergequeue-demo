@@ -2398,6 +2398,7 @@ fencelike
 floaters
 farthermost
 favel
+feat
 fere
 fanhouse
 feres
@@ -3043,7 +3044,6 @@ fianchetti
 fiancing
 febris
 fevertrap
-feat
 fiar
 fractionizing
 fascicles
