@@ -1859,7 +1859,6 @@ fringefoot
 faffle
 frutify
 fusils
-felliducous
 februation
 furniment
 fluocerite
@@ -8366,6 +8365,7 @@ formaliser
 firecoat
 fozinesses
 fritting
+felliducous
 formalist
 fallibilist
 flange
