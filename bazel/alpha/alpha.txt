@@ -11737,7 +11737,6 @@ annulism
 anaglyphic
 anisopleural
 anaglyphical
-anaglyphics
 anaglyphs
 anaglypta
 anaglyptical
@@ -22775,6 +22774,7 @@ atmosteon
 assessorship
 airbrushes
 adjurers
+anaglyphics
 atnah
 atocha
 atoke
