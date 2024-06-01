@@ -7327,7 +7327,6 @@ determinately
 drawknife
 dipolarize
 drownding
-draftable
 dolls
 dessa
 determinative
@@ -9589,6 +9588,7 @@ drachm
 deglazes
 dignitary
 dignitarian
+draftable
 demophoon
 dignitaries
 doubloons
