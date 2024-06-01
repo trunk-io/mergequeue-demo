@@ -6558,6 +6558,7 @@ enteradenography
 enteradenological
 enteral
 enteralgia
+epicostal
 embiotocoid
 enterate
 enterectomy
@@ -7691,7 +7692,6 @@ eoliths
 enterohelcosis
 epicortical
 eidouranion
-epicostal
 enterogastritis
 embroglios
 epicotyl
