@@ -2115,7 +2115,6 @@ ache
 almagests
 acheat
 artemisin
-acheer
 acheilia
 affiliation
 actualities
@@ -17692,6 +17691,7 @@ appellee
 appellees
 appellor
 appellors
+acheer
 aminobenzene
 appels
 animalculous
