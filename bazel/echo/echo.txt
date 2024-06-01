@@ -866,7 +866,6 @@ ergocalciferol
 ectocarpales
 expiatory
 ectocarpus
-ectocelic
 ectocinereal
 enquire
 ectocoelic
@@ -5651,6 +5650,7 @@ enerve
 enfrenzy
 earthmove
 environmentalist
+ectocelic
 egotize
 extranatural
 epigrammatized
