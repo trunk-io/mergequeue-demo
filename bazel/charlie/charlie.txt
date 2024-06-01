@@ -2644,7 +2644,6 @@ cankerwort
 coff
 combinatorics
 canmaker
-climbs
 canman
 churr
 cannabic
@@ -18941,6 +18940,7 @@ colitises
 colitoxemia
 coolheaded
 colyum
+climbs
 coliuria
 colla
 collab
