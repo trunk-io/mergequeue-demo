@@ -2062,6 +2062,7 @@ dreidls
 dermatotomy
 decayers
 diarial
+dimedon
 decaying
 duplicitous
 dummy
@@ -7127,7 +7128,6 @@ destruct
 destructibility
 devitaminize
 dicoccous
-dimedon
 destruction
 digestors
 dividual
