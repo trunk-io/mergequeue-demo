@@ -5422,7 +5422,6 @@ fletcherism
 following
 factories
 fletchers
-fletches
 furrower
 feynesses
 fleuret
@@ -10753,6 +10752,7 @@ frustulent
 frustules
 footrope
 fleeing
+fletches
 frustum
 frutage
 fooyung
