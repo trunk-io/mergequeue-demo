@@ -19043,7 +19043,6 @@ collectible
 chelonid
 collecting
 collection
-collective
 collectivise
 compensate
 collectivism
@@ -19781,6 +19780,7 @@ corrigent
 combinations
 combinative
 combinator
+collective
 combinatory
 combinatorial
 combinatorially
