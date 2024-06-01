@@ -5354,7 +5354,6 @@ disscepter
 deepfreezing
 density
 densitometer
-densitometric
 detestable
 detinue
 dyable
@@ -9983,6 +9982,7 @@ dimly
 dimmer
 dimmers
 dimmest
+densitometric
 dimmet
 drimys
 duniewassal
