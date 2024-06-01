@@ -3417,7 +3417,6 @@ attending
 abiosis
 ankou
 abbreviately
-adaptively
 argosies
 adaptiveness
 adaptometer
@@ -20481,6 +20480,7 @@ artcraft
 alexinic
 acceptableness
 artefac
+adaptively
 artefacts
 assentation
 analyticity
