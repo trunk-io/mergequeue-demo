@@ -24155,7 +24155,6 @@ autolithography
 autoinfection
 autolyzate
 autolyze
-autolyzed
 autolyzes
 autoloader
 autoloaders
@@ -24683,6 +24682,7 @@ avertable
 averted
 avertedly
 averter
+autolyzed
 ambulia
 avertiment
 averts
