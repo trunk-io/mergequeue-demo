@@ -29175,7 +29175,6 @@ chantlate
 cryophile
 chemawinite
 crumber
-cryophilic
 cryophyllite
 cryophyte
 criophore
@@ -29249,6 +29248,7 @@ crypto
 cryptoagnostic
 coextended
 countercharge
+cryophilic
 cryptoanalysis
 cryptoanalyst
 cryptoanalytically
