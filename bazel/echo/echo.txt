@@ -1227,6 +1227,7 @@ ettarre
 engineer
 enrichments
 economizers
+encryption
 edomitish
 encompass
 exorbitate
@@ -4877,7 +4878,6 @@ encrinidae
 encrinital
 epigenic
 elegance
-encryption
 encrisp
 encroach
 edgestone
