@@ -13910,7 +13910,6 @@ bowstaff
 bowstring
 binoculate
 bowstringed
-bowstrings
 bowstrung
 bowtell
 bowwow
@@ -15018,6 +15017,7 @@ brettice
 betty
 bretwaldaship
 bradycardic
+bowstrings
 brev
 blisterweed
 bradawl

@@ -5316,7 +5316,6 @@ epipodia
 endoskeletons
 endosmic
 endosmometric
-endocrinologic
 eyr
 evaders
 endosmoses
@@ -11292,6 +11291,7 @@ eelbob
 ethmosphenoidal
 evangelicalness
 eradicating
+endocrinologic
 evangelicals
 epithetize
 evangelicity
