@@ -12442,7 +12442,6 @@ coulters
 chromatium
 chromatize
 chromatogenous
-chromatogram
 cinchonia
 chromatographic
 chromatographically
@@ -29410,6 +29409,7 @@ crispens
 crisper
 coelomocoela
 crispers
+chromatogram
 crispest
 cymbals
 crispier
