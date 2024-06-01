@@ -4629,7 +4629,6 @@ bater
 bool
 bedabble
 beagles
-bequirtle
 bedabbling
 barricadoed
 berceau
@@ -12672,6 +12671,7 @@ bosk
 bp
 belluine
 benchland
+bequirtle
 bushgoats
 bonzian
 beaklike

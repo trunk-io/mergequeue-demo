@@ -5871,6 +5871,7 @@ flogs
 famulli
 ferryboats
 fatstock
+flybane
 freyr
 ferrary
 flokite
@@ -10019,7 +10020,6 @@ frigotherapy
 forestaysail
 frying
 francophilism
-flybane
 facial
 frija
 fliest
