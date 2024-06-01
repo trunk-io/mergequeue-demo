@@ -1129,7 +1129,6 @@ firehalls
 formatter
 figulate
 farruca
-fibrilled
 fistulate
 farseeing
 fluoroid
@@ -4392,6 +4391,7 @@ fishpoles
 forlornest
 farms
 fishponds
+fibrilled
 fishpotter
 forerigging
 fishskin
