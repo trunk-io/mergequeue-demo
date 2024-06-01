@@ -7082,7 +7082,6 @@ centerless
 centerline
 centermost
 centerpiece
-centerpieces
 codex
 centerpunch
 centervelic
@@ -10872,6 +10871,7 @@ chinookan
 cutgrasses
 clavicylinder
 chinooks
+centerpieces
 chinos
 chinotoxine
 chinotto
