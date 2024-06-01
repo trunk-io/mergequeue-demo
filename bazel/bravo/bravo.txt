@@ -3115,6 +3115,7 @@ blasters
 boodledom
 bucrnia
 bloodcurdler
+basiate
 bitterful
 baseborn
 birdlime
@@ -17823,7 +17824,6 @@ breakback
 burroughs
 burroweed
 burrower
-basiate
 burrows
 benevolent
 burrstone
