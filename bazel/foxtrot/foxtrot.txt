@@ -6775,6 +6775,7 @@ farmings
 forethink
 foldboating
 foldcourse
+fess
 festin
 ferme
 frontal
@@ -11419,7 +11420,6 @@ furnariidae
 fleeciest
 furnariides
 flect
-fess
 floralize
 furnish
 furnishable
