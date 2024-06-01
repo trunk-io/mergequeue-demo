@@ -3101,7 +3101,6 @@ experienceable
 ellipsoid
 executiveness
 exteriorization
-elliptical
 elliptically
 ellipticity
 extemporize
@@ -9433,6 +9432,7 @@ evermo
 earable
 eruptivity
 echinuliform
+elliptical
 effierce
 erwinia
 esbatement
