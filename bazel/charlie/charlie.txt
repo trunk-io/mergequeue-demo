@@ -8109,7 +8109,6 @@ chaetodont
 chaetodontid
 chaetodontidae
 chaetognatha
-chaetognathan
 chaetophobia
 chaetophora
 casabe
@@ -28908,6 +28907,7 @@ crewmanship
 crewmen
 crewneck
 capsheaf
+chaetognathan
 crews
 crex
 cry
