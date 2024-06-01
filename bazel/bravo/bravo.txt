@@ -637,7 +637,6 @@ bacteriopathology
 burnoose
 bacteriophages
 bacteriophagy
-banquo
 balneal
 bacteriophagic
 bear
@@ -5940,6 +5939,7 @@ bellypiece
 bellypinch
 balopticon
 bellmaking
+banquo
 backlashed
 bachel
 baronship
