@@ -12548,7 +12548,6 @@ disintegrable
 dotonidae
 disintegrant
 deafeningly
-disintegrate
 disintegrated
 disintegrates
 dipterological
@@ -16970,6 +16969,7 @@ dullness
 downcurve
 dredgeful
 decomplex
+disintegrate
 dredger
 dredgers
 densher
