@@ -3474,7 +3474,6 @@ addicted
 axolysis
 antiknocks
 addictedness
-activable
 aphyllies
 addicting
 admortization
@@ -6307,6 +6306,7 @@ aurorae
 agonia
 agoniada
 atellan
+activable
 audile
 aul
 alchemise
