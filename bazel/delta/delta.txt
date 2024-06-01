@@ -9270,7 +9270,6 @@ dieresis
 dieretic
 deviate
 dieri
-desightment
 drinkably
 dibbers
 dihydrazone
@@ -18601,6 +18600,7 @@ digitus
 debugger
 dusun
 dutchess
+desightment
 dutchy
 dutching
 dutchmen
