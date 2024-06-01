@@ -9780,7 +9780,6 @@ frenzy
 fabrics
 figurability
 feedingstuff
-freq
 frequent
 factored
 ferash
@@ -10528,6 +10527,7 @@ frowl
 fierily
 frowners
 finer
+freq
 fudgy
 frenchiness
 frownful
