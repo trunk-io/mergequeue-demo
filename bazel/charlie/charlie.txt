@@ -10455,7 +10455,6 @@ column
 chield
 chields
 chiels
-chien
 chierete
 chievance
 chieve
@@ -15942,6 +15941,7 @@ clears
 clearsighted
 ceintures
 coprostasia
+chien
 caranga
 catnapper
 clearsightedness
