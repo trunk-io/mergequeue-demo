@@ -15910,7 +15910,6 @@ bronchiogenic
 bronchiolar
 bronchioli
 bronchiospasm
-bronchiostenosis
 bronchitic
 bronchitis
 barie
@@ -17022,6 +17021,7 @@ bulies
 breakables
 bulimy
 bulimias
+bronchiostenosis
 bayman
 beadsmen
 braces
