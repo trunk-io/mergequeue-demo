@@ -5372,7 +5372,6 @@ begloom
 beglooming
 burkers
 beglooms
-belknap
 begloze
 brokenly
 begluc
@@ -10164,6 +10163,7 @@ blackbird
 blackbirder
 blackbirding
 broommaker
+belknap
 blackbody
 blackboy
 bloodings
