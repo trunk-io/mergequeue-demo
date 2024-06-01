@@ -11797,7 +11797,6 @@ analemmata
 analepses
 analeptic
 anthidium
-analgesia
 analgesics
 analgesist
 analgetic
@@ -23216,6 +23215,7 @@ amoretto
 attritus
 atropinization
 attune
+analgesia
 attunely
 attunement
 archivists
