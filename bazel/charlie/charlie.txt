@@ -25738,7 +25738,6 @@ correctiveness
 convincers
 coryphaenoid
 circumvolant
-correctness
 correctory
 chignon
 committals
@@ -28530,6 +28529,7 @@ creche
 creda
 cavillingness
 credal
+correctness
 chevronel
 coitus
 creddock
