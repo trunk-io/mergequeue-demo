@@ -2412,7 +2412,6 @@ enjeopard
 electrodentistry
 electrification
 electrodeposition
-escalation
 electrodes
 etherization
 electrodiagnosis
@@ -7488,6 +7487,7 @@ extraperiodic
 enfile
 explosion
 epheboi
+escalation
 ecchondrotome
 ephebus
 encyclicals

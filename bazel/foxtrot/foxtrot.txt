@@ -4979,7 +4979,6 @@ festivals
 flappable
 foremark
 favourless
-flapperdom
 framableness
 forebless
 flappers
@@ -7856,6 +7855,7 @@ forereckon
 forerehearsed
 forerequest
 foredates
+flapperdom
 flannelbush
 forerun
 fname
