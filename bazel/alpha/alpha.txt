@@ -8227,7 +8227,6 @@ archaean
 algorisms
 algorist
 albino
-algoristic
 algorithmic
 algorithmically
 algors
@@ -11496,6 +11495,7 @@ amex
 amuse
 affirmatively
 amusedly
+algoristic
 attemperately
 amusee
 amusement
