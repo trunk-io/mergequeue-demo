@@ -6835,6 +6835,7 @@ codo
 corradiating
 cathro
 correctly
+collide
 cellules
 cellulicidal
 cellulifugal
@@ -19119,7 +19120,6 @@ colonialise
 captivatrix
 castigatories
 colliculus
-collide
 cometographer
 collidin
 collidine
