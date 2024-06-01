@@ -6485,7 +6485,6 @@ ensurance
 ensures
 ensuring
 equators
-enswathe
 electrophotographic
 enswathement
 enswathes
@@ -10772,6 +10771,7 @@ enveloper
 euglenaceae
 ecuador
 extrasyllabic
+enswathe
 epignathous
 ensigning
 euglenas
