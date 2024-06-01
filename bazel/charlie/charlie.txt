@@ -12635,7 +12635,6 @@ caplets
 cacothes
 chronaxie
 chronaxies
-chroncmeter
 chronic
 chronica
 chronically
@@ -26167,6 +26166,7 @@ cervical
 cosmocrat
 cosmocratic
 cosmogenesis
+chroncmeter
 cosmogenetic
 cosmogeny
 cosmogenic
