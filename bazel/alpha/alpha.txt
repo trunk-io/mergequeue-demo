@@ -6215,6 +6215,7 @@ analogal
 aglyphodont
 aglyphodonta
 aglyphous
+aback
 alectoriae
 alcyones
 adversaria
@@ -7319,7 +7320,6 @@ alant
 alantic
 alantin
 alantolactone
-aback
 anoles
 assimilability
 alares
