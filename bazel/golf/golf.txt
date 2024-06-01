@@ -4282,7 +4282,6 @@ ghosthood
 genealogy
 gymnorhinal
 gymnosophical
-gymnosophist
 gymnospermism
 guddler
 gymnospore
@@ -5340,6 +5339,7 @@ glenohumeral
 glenoid
 greensick
 glenoidal
+gymnosophist
 gages
 gangly
 guitarfish
