@@ -612,7 +612,6 @@ caecilian
 caeciliidae
 chiropod
 caecotomy
-caecum
 constrictors
 caedmonian
 caedmonic
@@ -11015,6 +11014,7 @@ chirometer
 chiromyidae
 chiromys
 chironym
+caecum
 chironomid
 chironomidae
 caissoned
