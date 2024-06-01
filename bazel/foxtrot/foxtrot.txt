@@ -5737,6 +5737,7 @@ fibrinate
 floodplain
 flitted
 forestside
+foreknowledge
 foreground
 finises
 forebear
@@ -8381,7 +8382,6 @@ fictitiously
 formerness
 formalized
 formalizer
-foreknowledge
 formalness
 flaucht
 fantail
