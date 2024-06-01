@@ -2829,7 +2829,6 @@ ergatandromorphic
 eltime
 ecthyma
 ephebeibeia
-extrasyllabic
 elenchi
 elenchic
 elves
@@ -10771,6 +10770,7 @@ erbiums
 enveloper
 euglenaceae
 ecuador
+extrasyllabic
 epignathous
 ensigning
 euglenas
