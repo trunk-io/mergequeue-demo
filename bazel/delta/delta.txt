@@ -4777,7 +4777,6 @@ demitranslucence
 demits
 demitted
 denticulately
-demitube
 diglyph
 dilutive
 dipterologist
@@ -16817,6 +16816,7 @@ drawbar
 disconcerting
 drawbars
 decussation
+demitube
 drawbeam
 drawbench
 dyscrasial
