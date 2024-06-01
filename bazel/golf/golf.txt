@@ -1903,6 +1903,7 @@ gingiva
 graphis
 gelsemin
 gatekeeper
+goliard
 gatekeepers
 glaces
 grasses
@@ -4881,7 +4882,6 @@ gasometer
 giuseppe
 groundwork
 gastroenteroptosis
-goliard
 grosgrained
 generational
 genistein
