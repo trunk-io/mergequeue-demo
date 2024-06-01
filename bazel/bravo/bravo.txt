@@ -1700,7 +1700,6 @@ buzzwig
 boroughmaster
 benefits
 besoms
-boone
 balmorals
 byegaein
 bedticks
@@ -13675,6 +13674,7 @@ billboard
 brahmas
 bourasque
 bourbon
+boone
 baseliner
 bourbonism
 bourbonize
