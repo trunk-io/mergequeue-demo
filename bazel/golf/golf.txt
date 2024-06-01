@@ -2423,7 +2423,6 @@ griffinish
 goodnesses
 gibbartas
 galopin
-gelder
 grisly
 gnabble
 geldesprung
@@ -8069,6 +8068,7 @@ gucki
 goanese
 gnatty
 gondoliere
+gelder
 grantees
 goric
 gauzes
