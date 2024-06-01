@@ -4779,7 +4779,6 @@ bedlar
 bedlids
 bord
 beinked
-bedmaker
 bewrought
 bedmakers
 byronist
@@ -13744,6 +13743,7 @@ boutylka
 boutique
 bouto
 barehanded
+bedmaker
 blossomtime
 boutonnieres
 bayete
