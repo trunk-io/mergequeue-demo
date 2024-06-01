@@ -3601,7 +3601,6 @@ graveward
 geophytes
 gilt
 gettings
-gebang
 gantangs
 geodynamicist
 geullah
@@ -5196,6 +5195,7 @@ gymnospermae
 gigabits
 glassteel
 garbages
+gebang
 gutturality
 gisler
 guider
