@@ -4192,6 +4192,7 @@ cardoons
 cardophagus
 clearwing
 carbamido
+chiron
 chauffeur
 cardsharp
 cerebripetal
@@ -11012,7 +11013,6 @@ chiromantis
 chirometer
 chiromyidae
 chiromys
-chiron
 chironym
 chironomid
 chironomidae
