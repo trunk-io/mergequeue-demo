@@ -14232,7 +14232,6 @@ catskin
 cardcastle
 casemate
 circler
-counternotice
 circlet
 corticoid
 circleting
@@ -31075,6 +31074,7 @@ cunjer
 cunners
 crystalliferous
 chumpy
+counternotice
 cunnilinctus
 cunnilinguism
 cavalries
