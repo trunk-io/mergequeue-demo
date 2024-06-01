@@ -9588,7 +9588,6 @@ besots
 birthnight
 birthplaces
 backfilled
-birthrates
 birthright
 baffeta
 birthrights
@@ -14467,6 +14466,7 @@ besoothing
 bitterish
 branchiest
 branchiferous
+birthrates
 broma
 branchiform
 binman
