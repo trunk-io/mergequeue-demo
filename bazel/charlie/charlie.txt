@@ -2642,7 +2642,6 @@ cankerroot
 cankers
 cankerweed
 clubmen
-cankerwort
 coff
 combinatorics
 canmaker
@@ -5679,6 +5678,7 @@ catastrophes
 catastrophic
 catastrophical
 catastrophist
+cankerwort
 catathymic
 catatony
 catatonic
