@@ -11884,7 +11884,6 @@ chondrosternal
 chondrotomy
 chondrules
 chondrus
-chonicrite
 chonk
 calfhood
 counterdefender
@@ -16345,6 +16344,7 @@ chayaroot
 convector
 clinopodium
 conterminous
+chonicrite
 constrainment
 clinospore
 curvilinear
