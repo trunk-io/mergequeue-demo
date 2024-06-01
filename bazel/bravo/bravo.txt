@@ -2573,7 +2573,6 @@ bespeech
 barid
 burgus
 barye
-bannered
 bois
 bielenite
 bronchiocele
@@ -12151,6 +12150,7 @@ boldnesses
 boldo
 benzofluorene
 bannets
+bannered
 basti
 byzantinesque
 boldos
