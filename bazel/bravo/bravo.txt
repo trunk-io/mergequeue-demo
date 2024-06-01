@@ -349,7 +349,6 @@ borgh
 backfurrow
 backgame
 bepuzzle
-beamlet
 backgammon
 barbarical
 barwares
@@ -16693,6 +16692,7 @@ bassness
 blowcase
 besayle
 boche
+beamlet
 bedrel
 biparty
 befouler
