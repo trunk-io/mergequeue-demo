@@ -12251,7 +12251,6 @@ anchoveta
 anchusa
 anchusas
 anchusin
-aequorin
 amblypoda
 anchusine
 ancien
@@ -22469,6 +22468,7 @@ atavists
 adenoidectomies
 ataxy
 ataxiagraph
+aequorin
 ataxiaphasia
 ataxies
 ataxinomic
