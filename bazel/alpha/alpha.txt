@@ -5747,6 +5747,7 @@ adnoun
 againbuy
 againsay
 against
+avellano
 againstand
 amphidromia
 againward
@@ -24586,7 +24587,6 @@ avaunt
 actinophore
 alabandite
 avellane
-avellano
 abada
 anthropophagous
 aveloz
