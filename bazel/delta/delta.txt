@@ -2520,7 +2520,6 @@ deckhead
 doorposts
 deckle
 deckman
-deckpipe
 dulls
 diatropism
 declaim
@@ -9796,6 +9795,7 @@ depicturing
 dillenia
 downfield
 didymoid
+deckpipe
 dermatocyst
 dillesk
 demantoid
