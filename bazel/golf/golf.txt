@@ -776,6 +776,7 @@ galvanomagnetism
 gombeen
 galvanometers
 geometries
+glucemia
 goumi
 gregg
 genae
@@ -5962,7 +5963,6 @@ grassless
 glucate
 gregos
 gnomonia
-glucemia
 gliders
 gibelite
 glucic
