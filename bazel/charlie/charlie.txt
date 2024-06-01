@@ -14571,7 +14571,6 @@ cirrhose
 cartels
 cirrhotic
 cipolins
-cirrhous
 cirrhus
 cirri
 cirribranch
@@ -20852,6 +20851,7 @@ complin
 compline
 cranioplasty
 concessively
+cirrhous
 complines
 complins
 complot
