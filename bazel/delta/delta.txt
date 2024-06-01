@@ -543,7 +543,6 @@ describent
 demounted
 damaged
 detort
-damagement
 damageous
 deaccessions
 dao
@@ -1350,6 +1349,7 @@ demissive
 dunno
 dompt
 dauntingly
+damagement
 dart
 dauntingness
 dauntlessly
