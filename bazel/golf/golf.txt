@@ -698,7 +698,6 @@ glint
 gallows
 giterne
 graduale
-gunfires
 gelosine
 galls
 gallup
@@ -10208,6 +10207,7 @@ guidman
 glyptics
 guaranis
 gastropathy
+gunfires
 granulated
 glared
 grivet
