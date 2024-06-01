@@ -2189,7 +2189,6 @@ electropult
 electronegativity
 elatinaceous
 elation
-elative
 elastometer
 enrib
 elator
@@ -4448,6 +4447,7 @@ electrobioscopy
 encaged
 encages
 encamps
+elative
 endoparasite
 encanker
 environmentally
