@@ -4670,7 +4670,6 @@ buntal
 bryophyte
 bedcovers
 blader
-bromos
 bucklered
 bedding
 beddingroll
@@ -13700,6 +13699,7 @@ bourgs
 bourignian
 bourignianism
 branched
+bromos
 bourkha
 broideress
 bufonidae
