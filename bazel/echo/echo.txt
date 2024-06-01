@@ -506,7 +506,6 @@ exarchs
 emballonurid
 exophoric
 echappe
-eumerogenesis
 echea
 eched
 emphyteusis
@@ -8649,6 +8648,7 @@ equidiagonal
 equidimensional
 equidist
 equidistance
+eumerogenesis
 embranglement
 equidistribution
 exect
