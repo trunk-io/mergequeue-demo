@@ -108,7 +108,6 @@ genotype
 gadgetry
 generals
 geezer
-glut
 gadman
 gujerat
 gadoids
@@ -1379,6 +1378,7 @@ gieing
 gargoylish
 gazaboes
 gargoylism
+glut
 gaumish
 gary
 groundling
