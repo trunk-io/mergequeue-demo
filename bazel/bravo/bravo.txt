@@ -607,7 +607,6 @@ bacteriemia
 bacteriform
 bacterin
 borofluoric
-bacterioblast
 bacteriochlorophyll
 bacteriocin
 bathylite
@@ -4145,6 +4144,7 @@ braize
 beams
 beamsman
 beamwork
+bacterioblast
 birken
 bargees
 bantlings
