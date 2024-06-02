@@ -18283,7 +18283,6 @@ coffeehouses
 cavalry
 coffeeleaf
 coffeeman
-coquinas
 classico
 coffeepot
 coffeepots
@@ -24223,6 +24222,7 @@ convicts
 crosshatch
 casselty
 convince
+coquinas
 convinced
 convincedly
 convincedness
