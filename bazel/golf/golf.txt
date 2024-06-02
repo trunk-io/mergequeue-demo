@@ -1719,6 +1719,7 @@ griper
 glossophytia
 gastrocentrous
 geomorphogenic
+geom
 greetingly
 garrotting
 gumlikeness
@@ -3909,7 +3910,6 @@ giftwrapping
 genitures
 gig
 gruffed
-geom
 gurgle
 gardenwards
 gwely
