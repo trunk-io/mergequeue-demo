@@ -6065,7 +6065,6 @@ depuratory
 depure
 depurge
 delta
-depurged
 diagonally
 depurging
 dermitis
@@ -9395,6 +9394,7 @@ diffiding
 difforme
 dermoskeletal
 devotionalism
+depurged
 dadder
 disinflating
 diffract
