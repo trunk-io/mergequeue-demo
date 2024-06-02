@@ -8965,7 +8965,6 @@ characteristics
 characterization
 characterizations
 characterize
-characterizer
 characterizing
 characterless
 characterlessness
@@ -22261,6 +22260,7 @@ congealing
 counterrate
 cresotate
 connusable
+characterizer
 congeals
 conged
 campanularian
