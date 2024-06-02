@@ -34,7 +34,6 @@ fibrolitic
 fishify
 frostfishes
 fabricates
-fabricating
 fabrication
 flippance
 fabricational
@@ -764,6 +763,7 @@ fanatics
 factum
 fanatism
 foliaging
+fabricating
 fenchol
 foldboats
 fibreglass
