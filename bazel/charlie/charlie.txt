@@ -7933,6 +7933,7 @@ chord
 cuttle
 cipolin
 cessible
+coronofacial
 cessing
 clinician
 cessio
@@ -26673,7 +26674,6 @@ counseled
 counselee
 counseling
 counsellable
-coronofacial
 counselling
 counsellor
 counsellors
