@@ -1505,7 +1505,6 @@ dc
 dca
 dcb
 dcollet
-ddname
 dea
 depressure
 darknesses
@@ -10539,6 +10538,7 @@ dipleurule
 disbowels
 disserviceableness
 danai
+ddname
 derate
 diplexer
 diplobacterium
