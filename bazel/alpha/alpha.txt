@@ -1409,7 +1409,6 @@ acceptavit
 armonica
 accepted
 acceptee
-accepter
 acceptilated
 aevia
 antiorthodox
@@ -11593,6 +11592,7 @@ adzer
 anacharis
 anachorism
 abilities
+accepter
 anachromasis
 anachronical
 aerospace
