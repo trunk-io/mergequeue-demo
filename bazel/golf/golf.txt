@@ -4088,7 +4088,6 @@ gilds
 gildship
 gawn
 gildsmen
-grossers
 gastrosplenic
 gerundive
 gristles
@@ -6721,6 +6720,7 @@ gonapod
 gymnurinae
 goncalo
 grossularious
+grossers
 gossans
 gruss
 gunnysack
