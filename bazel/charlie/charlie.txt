@@ -4318,7 +4318,6 @@ canonicity
 cladophyll
 codeias
 caribing
-caribou
 caribous
 candier
 carica
@@ -10713,6 +10712,7 @@ chimeric
 calci
 cavies
 chimericalness
+caribou
 chimers
 chimes
 chymes
