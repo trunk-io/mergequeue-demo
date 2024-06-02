@@ -4976,6 +4976,7 @@ chrysomonadina
 cassettes
 cartouch
 cartouche
+cust
 costrel
 chiclero
 cartouches
@@ -31703,7 +31704,6 @@ castilian
 cussos
 crooken
 cusswords
-cust
 calorizer
 carian
 custerite
