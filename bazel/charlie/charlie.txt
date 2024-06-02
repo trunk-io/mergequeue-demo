@@ -4130,7 +4130,6 @@ cardiometric
 cardiomyomalacia
 cardiomyopathy
 cookey
-chrysolophus
 cardioncus
 cardionecrosis
 cannibal
@@ -8479,6 +8478,7 @@ chambering
 caterership
 chamberlainry
 caccia
+chrysolophus
 chamberlet
 centroid
 chamberleted
