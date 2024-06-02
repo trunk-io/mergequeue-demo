@@ -2832,6 +2832,7 @@ canso
 cansos
 congenialize
 cant
+connectionless
 cantabank
 cantabile
 clothesmonger
@@ -31041,7 +31042,6 @@ cunctatury
 cund
 cundeamor
 crowdedness
-connectionless
 cundum
 cundums
 cundurango
