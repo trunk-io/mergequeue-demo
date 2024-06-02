@@ -2318,7 +2318,6 @@ acidy
 acidiferous
 argil
 adderfish
-acidific
 acidification
 acidified
 arthrozoic
@@ -8700,6 +8699,7 @@ allegorists
 allegorized
 allegorizer
 allegorizing
+acidific
 allegresse
 allegrettos
 apasttra
