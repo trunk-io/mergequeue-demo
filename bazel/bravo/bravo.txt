@@ -12297,7 +12297,6 @@ bolting
 boltlike
 beaupers
 boltmaker
-boltonia
 bombaster
 boltonias
 boltonite
@@ -17554,6 +17553,7 @@ burdensome
 beslushed
 beleaped
 bottomries
+boltonia
 burlesque
 botong
 burdigalian
