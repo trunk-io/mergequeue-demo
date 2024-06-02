@@ -8226,7 +8226,6 @@ diacoustics
 dactylic
 diacranterian
 diacritic
-demidome
 dicyema
 drawknife
 ducatoon
@@ -15829,6 +15828,7 @@ dorsiflexion
 deuteron
 detects
 deluge
+demidome
 dualization
 disenfranchising
 dorsimeson
