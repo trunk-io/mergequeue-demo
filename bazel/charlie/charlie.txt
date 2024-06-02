@@ -10747,7 +10747,6 @@ chimleys
 calciclase
 chytridial
 cantharidated
-caryopses
 chimneyhead
 chalk
 chimneyless
@@ -31773,6 +31772,7 @@ cutch
 cutcha
 cutcher
 cutchery
+caryopses
 cutcheries
 cutcherry
 cutcherries
