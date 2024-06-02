@@ -2519,7 +2519,6 @@ electrolysed
 emigating
 electrolysing
 eparcuale
-electrolyte
 epitomisation
 equitriangular
 exoskeleton
@@ -11162,6 +11161,7 @@ eutannin
 everness
 equipotent
 endimanche
+electrolyte
 ephestian
 excruciate
 excamb
