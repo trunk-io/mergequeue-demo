@@ -8352,7 +8352,6 @@ chalcotrichite
 chalcus
 chaldaei
 chaldaical
-chaldaism
 chaldean
 chiver
 chaldee
@@ -29472,6 +29471,7 @@ collectable
 crystallizes
 crystallochemical
 crystallochemistry
+chaldaism
 crystallod
 crystallogenesis
 crystallogenetic
