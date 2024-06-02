@@ -50,7 +50,6 @@ barberish
 bacteriophobia
 ballonets
 babblings
-babblish
 babbool
 babbools
 babcock
@@ -7196,6 +7195,7 @@ bespectacled
 bogie
 besped
 beaugregories
+babblish
 becalmed
 bespell
 bespelled
