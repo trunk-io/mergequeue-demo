@@ -2433,6 +2433,7 @@ bard
 bardcraft
 balate
 barde
+beleve
 buckhorn
 bardes
 brabant
@@ -5765,7 +5766,6 @@ belemnoidea
 beleper
 bicycle
 bathybic
-beleve
 butterpaste
 barkpeeling
 blunderheadedness
