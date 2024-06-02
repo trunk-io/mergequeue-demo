@@ -4406,7 +4406,6 @@ fishpotter
 forerigging
 fishskin
 flattercap
-fulgurate
 fashioned
 foreloop
 fourhanded
@@ -6168,6 +6167,7 @@ flubbed
 flubdub
 foreread
 fairgoing
+fulgurate
 foretops
 feebling
 fleabugs
