@@ -11090,6 +11090,7 @@ block
 blockaded
 blockader
 blockading
+bedwarfed
 blockboard
 balsamic
 beblain
@@ -12714,7 +12715,6 @@ boondoggled
 bloatedness
 boohooing
 besilver
-bedwarfed
 boojum
 barquette
 book
