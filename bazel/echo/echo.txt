@@ -5124,7 +5124,6 @@ enterocoel
 endocrinology
 ebraick
 emergencies
-exposures
 entogenous
 endocrinologist
 ecdysones
@@ -12443,6 +12442,7 @@ expedientially
 earn
 encephalology
 exhibiters
+exposures
 exhibition
 enforce
 exfodiation
