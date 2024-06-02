@@ -4595,7 +4595,6 @@ adverbs
 adversa
 adversant
 adversariness
-adversative
 adversatively
 ambushed
 attomy
@@ -6976,6 +6975,7 @@ assailment
 albronze
 apologiser
 airts
+adversative
 aln
 airview
 airway
