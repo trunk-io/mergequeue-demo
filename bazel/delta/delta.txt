@@ -7209,7 +7209,6 @@ dogvanes
 detailers
 deligation
 detailing
-detailist
 dipterans
 depredable
 detain
@@ -13466,6 +13465,7 @@ disrest
 disrestore
 disring
 disillusionment
+detailist
 disrobement
 disrober
 danseur
