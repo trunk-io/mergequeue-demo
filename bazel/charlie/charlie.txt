@@ -3842,7 +3842,6 @@ carbonisable
 carbonise
 choirmaster
 canister
-cardcase
 carbonising
 carbazin
 carbonitride
@@ -26058,6 +26057,7 @@ collude
 cosech
 cosecs
 cosectarian
+cardcase
 coadjutrice
 cosectional
 cosed
