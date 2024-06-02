@@ -4401,6 +4401,7 @@ fibrilled
 fishpotter
 forerigging
 fishskin
+flattercap
 fulgurate
 fashioned
 foreloop
@@ -5083,7 +5084,6 @@ formicidae
 flatness
 faceting
 flatted
-flattercap
 fragmentized
 foolheadedness
 flatteress
