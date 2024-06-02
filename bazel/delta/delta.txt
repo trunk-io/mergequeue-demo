@@ -562,6 +562,7 @@ damar
 detains
 damars
 damascene
+decoratory
 devocate
 damascened
 doesnt
@@ -2775,7 +2776,6 @@ deedful
 decoration
 decorative
 decorator
-decoratory
 dualizing
 deliberated
 decorators
