@@ -144,7 +144,6 @@ flajolotite
 freemasonry
 fem
 file
-fidgets
 facsim
 facsimile
 facsimiled
@@ -6959,6 +6958,7 @@ formylation
 franks
 foetus
 fluoaluminic
+fidgets
 ferritic
 foments
 freelances
