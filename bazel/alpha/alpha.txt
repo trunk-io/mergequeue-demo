@@ -1515,7 +1515,6 @@ acclimatiser
 acclimatising
 arachnidial
 algid
-acclimatizable
 acclimatize
 acclimatizer
 acclimatizes
@@ -9375,6 +9374,7 @@ autotype
 alphabetary
 alphabetarian
 alphabeted
+acclimatizable
 amphibiontic
 argos
 acerose
