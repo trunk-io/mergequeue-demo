@@ -5353,7 +5353,6 @@ anthribid
 affirmers
 affirming
 affirmingly
-affirms
 affix
 antiaris
 affixable
@@ -6961,6 +6960,7 @@ ancience
 apostolic
 anterin
 airspeeds
+affirms
 airstream
 allegory
 aischrolatreia
