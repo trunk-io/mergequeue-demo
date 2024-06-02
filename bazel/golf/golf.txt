@@ -775,7 +775,6 @@ galvanomagnetism
 gombeen
 galvanometers
 geometries
-glucemia
 goumi
 gregg
 genae
@@ -5969,6 +5968,7 @@ gonoblastidial
 ginorite
 glucinium
 gypsologist
+glucemia
 gildedness
 glucinums
 gangflower
