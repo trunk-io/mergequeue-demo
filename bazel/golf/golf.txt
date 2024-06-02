@@ -547,7 +547,6 @@ gamodemes
 galleyworm
 glimpsed
 galleon
-galleons
 galler
 gematriot
 gallera
@@ -7915,6 +7914,7 @@ granddaughter
 grandee
 grandees
 grandesque
+galleons
 grandeur
 glittersome
 grandevity
