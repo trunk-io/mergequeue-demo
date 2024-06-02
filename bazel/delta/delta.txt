@@ -5097,7 +5097,6 @@ demographers
 denaturants
 denaturational
 diver
-denature
 dicyclopentadienyliron
 denaturing
 duplicand
@@ -10691,6 +10690,7 @@ draconically
 dope
 dipper
 depluming
+denature
 dippers
 digitalize
 dippier
