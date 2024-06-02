@@ -3495,7 +3495,6 @@ additions
 addititious
 additive
 additively
-alloisomeric
 appoggiatura
 acrogynous
 additives
@@ -15885,6 +15884,7 @@ aborigine
 antiphons
 anaphylaxis
 assistants
+alloisomeric
 antiphrases
 antiphrasis
 antiphrastic
