@@ -3342,7 +3342,6 @@ gerip
 genros
 gerland
 goxes
-glottalized
 ganglands
 germ
 germain
@@ -7488,6 +7487,7 @@ governableness
 goldcrest
 graphostatic
 galavanted
+glottalized
 grafship
 griphosaurus
 gulmohar
