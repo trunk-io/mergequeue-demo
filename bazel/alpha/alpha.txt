@@ -20045,7 +20045,6 @@ armorless
 armorplated
 aplopappus
 armors
-armorwise
 armouchiquois
 anopisthographic
 armour
@@ -23913,6 +23912,7 @@ autobusses
 ariettes
 autocall
 antilogarithms
+armorwise
 anticipatory
 aface
 autocamper
