@@ -5071,7 +5071,6 @@ flatiron
 froom
 flatlands
 fiberized
-flatlets
 flavoprotein
 fatigued
 flatlings
@@ -8902,6 +8901,7 @@ forecourt
 foundress
 flashet
 foundryman
+flatlets
 foundrymen
 fallency
 faddishly
