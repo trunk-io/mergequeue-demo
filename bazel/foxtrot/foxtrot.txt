@@ -4800,7 +4800,6 @@ flagworm
 fluidifying
 feramorz
 falterer
-fault
 fissional
 flaying
 fittedness
@@ -5321,6 +5320,7 @@ fleeceless
 feasten
 forefigure
 forcefulness
+fault
 freightment
 faunistic
 fleeces
