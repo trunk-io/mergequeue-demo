@@ -1929,6 +1929,7 @@ biostatics
 bandit
 beshrew
 branle
+bespice
 bandits
 bandle
 bandleader
@@ -7206,7 +7207,6 @@ bespelled
 bespend
 bespew
 bespy
-bespice
 breadthwise
 butterlike
 bespill
