@@ -2429,6 +2429,7 @@ delineation
 disjoins
 deciliters
 druidry
+doodads
 doorbells
 dispelled
 dripstick
@@ -15595,7 +15596,6 @@ doob
 diazobenzene
 doodab
 dipsacaceae
-doodads
 dehnstufe
 distrail
 doodia
