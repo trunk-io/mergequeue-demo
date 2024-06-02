@@ -2950,7 +2950,6 @@ decwriter
 deltoid
 dashel
 dedanite
-demigoddessship
 dedd
 dedecorous
 divide
@@ -16832,6 +16831,7 @@ drawcut
 devex
 drawdowns
 drawee
+demigoddessship
 datto
 drawer
 drawerful
