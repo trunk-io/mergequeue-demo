@@ -2807,7 +2807,6 @@ acrochordinae
 almeh
 acrochordon
 aggregata
-acrocyanosis
 acrock
 amyelencephalia
 acrospore
@@ -6349,6 +6348,7 @@ agranuloplastic
 agrapha
 agraphia
 agraphic
+acrocyanosis
 agraria
 animative
 agrarianize
