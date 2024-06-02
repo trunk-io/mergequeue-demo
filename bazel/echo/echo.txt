@@ -2165,6 +2165,7 @@ euxenite
 enarm
 embowered
 elastivity
+embouchement
 elastomer
 emperish
 enfamish
@@ -12637,7 +12638,6 @@ exocoelum
 exocone
 eumeromorph
 eburna
-embouchement
 eyeserver
 exocrines
 estancieros
