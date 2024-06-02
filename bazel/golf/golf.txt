@@ -2731,6 +2731,7 @@ genetika
 gurgeon
 gathering
 genetoid
+gowdy
 ghettoize
 genetous
 gourde
@@ -7118,7 +7119,6 @@ gillnet
 gopak
 gopherberry
 glossate
-gowdy
 gopherberries
 gummers
 gist
