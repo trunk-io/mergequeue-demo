@@ -7178,7 +7178,6 @@ fortnight
 fustily
 footlock
 footlockers
-footlog
 footloose
 fixure
 figurants
@@ -8702,6 +8701,7 @@ furlane
 flailed
 fella
 fixedness
+footlog
 flymen
 finchery
 fortuitous

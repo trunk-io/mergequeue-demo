@@ -1062,7 +1062,6 @@ bailieries
 bailieship
 bailiff
 biogeographic
-bailiffry
 bailiffs
 ballow
 bailing
@@ -1826,6 +1825,7 @@ bamming
 bamoth
 bichromic
 becobweb
+bailiffry
 banaba
 bizardite
 banago
