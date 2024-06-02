@@ -2733,7 +2733,6 @@ endomycetaceae
 electrothermometer
 evanish
 electiveness
-electrothermotic
 exogastritis
 electrotype
 entosphenoid
@@ -13068,6 +13067,7 @@ encarpuspi
 extensionality
 ergonovine
 ethanols
+electrothermotic
 extemporarily
 electrochemically
 epistolization
