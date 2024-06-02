@@ -6698,7 +6698,6 @@ fogyish
 fogless
 forz
 fogman
-fogmen
 fogo
 feast
 fogon
@@ -8425,6 +8424,7 @@ frondesce
 floridans
 fasibitikite
 flunkeyite
+fogmen
 formeret
 formerly
 formularizing
