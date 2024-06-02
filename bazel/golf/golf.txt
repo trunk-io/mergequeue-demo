@@ -6380,7 +6380,6 @@ geodic
 goliad
 gobies
 guiser
-geckotian
 greenyard
 gordyaean
 gallify
@@ -10233,6 +10232,7 @@ guilds
 gargles
 ganzie
 guyer
+geckotian
 graveling
 getspa
 gutty
