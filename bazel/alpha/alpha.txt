@@ -2539,7 +2539,6 @@ ascidiferous
 amoebicidal
 acolyth
 acolythate
-acolytus
 amphiaster
 autoserum
 acology
@@ -6546,6 +6545,7 @@ agunah
 aguroth
 apatite
 arthromeningitis
+acolytus
 agush
 agust
 ah
