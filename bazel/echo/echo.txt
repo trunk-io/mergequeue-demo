@@ -2118,7 +2118,6 @@ elapids
 euthyneural
 empurple
 elapine
-elapse
 exhalate
 embaying
 edificant
@@ -11935,6 +11934,7 @@ extemporizing
 excerebration
 extraphysical
 excern
+elapse
 extortionary
 endemiology
 eudaemonistically
