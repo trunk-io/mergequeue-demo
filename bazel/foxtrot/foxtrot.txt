@@ -9265,7 +9265,6 @@ fretwise
 fascinery
 formalazine
 frontispieced
-flary
 fraktur
 framboise
 fortieths
@@ -10710,6 +10709,7 @@ flyflap
 fantasizes
 fatherliness
 ferruginated
+flary
 faradays
 fenny
 forelaid
