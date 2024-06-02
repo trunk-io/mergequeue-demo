@@ -7847,7 +7847,6 @@ devoting
 devotional
 disgorge
 devotionalist
-devotionality
 derat
 devotionally
 devotionary
@@ -15655,6 +15654,7 @@ didactics
 detumescent
 doorstone
 doorstop
+devotionality
 diverge
 diodes
 deaconize
