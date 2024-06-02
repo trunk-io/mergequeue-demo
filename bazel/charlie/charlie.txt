@@ -8318,7 +8318,6 @@ chalcidoid
 conocarp
 chalcidoidea
 cadalene
-chalcids
 chalcioecus
 ching
 chalcites
@@ -11905,6 +11904,7 @@ chop
 chopa
 chopas
 cicatricose
+chalcids
 contradictories
 catechisms
 chopdar
