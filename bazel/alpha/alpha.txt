@@ -14247,7 +14247,6 @@ anteportico
 anteporticoes
 anteporticos
 anteposition
-anteprandial
 anteprohibition
 ateleiosis
 anteprostate
@@ -19846,6 +19845,7 @@ acrosticheae
 arithmic
 arythmic
 arythmical
+anteprandial
 allopathy
 arithmocratic
 arithmogram
