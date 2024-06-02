@@ -5533,6 +5533,7 @@ catadupe
 catafalco
 countervails
 catafalques
+civilisation
 catagenetic
 catakinetic
 catakinetomer
@@ -15170,7 +15171,6 @@ civilian
 chalcostibite
 civilianize
 civilians
-civilisation
 companionway
 civilisational
 civilisations
