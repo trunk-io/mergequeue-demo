@@ -2765,7 +2765,6 @@ fescue
 foggish
 fixes
 fightings
-fungate
 fescues
 forelimbs
 folklore
@@ -4969,6 +4968,7 @@ floc
 forepaw
 flannelmouth
 ferries
+fungate
 farinacious
 fedelini
 forekeel
