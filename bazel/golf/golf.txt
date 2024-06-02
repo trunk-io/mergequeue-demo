@@ -3218,6 +3218,7 @@ gnast
 geoscience
 gangsters
 geoscientists
+gcd
 gonopoietic
 gellant
 geoscopy
@@ -10561,7 +10562,6 @@ gallivanter
 grasset
 gunmetal
 gurmukhi
-gcd
 gymnodont
 goffering
 gunmetals
