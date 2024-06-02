@@ -4213,7 +4213,6 @@ fluviatile
 fireplace
 fireplow
 fiefs
-farcical
 fleeceable
 fatting
 fireplug
@@ -8203,6 +8202,7 @@ forgave
 forge
 forgeable
 forgery
+farcical
 forges
 flunkeyistic
 fleas
