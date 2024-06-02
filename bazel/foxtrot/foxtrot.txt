@@ -300,6 +300,7 @@ fragmentisation
 flourished
 froren
 frayne
+fraenums
 forethinker
 faenus
 foreboder
@@ -7005,7 +7006,6 @@ ferrum
 fiberware
 fontal
 frothing
-fraenums
 fluorines
 fires
 fonted
