@@ -3220,6 +3220,7 @@ defecters
 defectibility
 defectible
 defecting
+demarcators
 defection
 diagrammeter
 distaff
@@ -16413,7 +16414,6 @@ downweed
 dehydrating
 downweighted
 downwind
-demarcators
 dogma
 dephlegm
 droukit
