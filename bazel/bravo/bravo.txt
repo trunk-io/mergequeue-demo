@@ -11602,7 +11602,6 @@ badgeman
 beal
 boa
 boaedon
-boagane
 buteo
 boanbura
 brushite
@@ -15764,6 +15763,7 @@ battiks
 broletti
 bi
 broletto
+boagane
 bedrabble
 biders
 brolga
