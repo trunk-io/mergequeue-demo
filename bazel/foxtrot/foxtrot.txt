@@ -6701,7 +6701,6 @@ fogless
 forz
 fogman
 fogmen
-fuseless
 fogo
 feast
 fogon
@@ -6904,6 +6903,7 @@ foaminess
 filibusterous
 folksong
 finely
+fuseless
 foll
 fomes
 fictionally
