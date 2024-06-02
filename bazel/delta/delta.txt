@@ -6325,7 +6325,6 @@ discounted
 decolouring
 dermatoplasm
 destabilizing
-dermatoplast
 diapositive
 dermatoplastic
 deluminize
@@ -9025,6 +9024,7 @@ dicots
 dicoumarin
 disembed
 defailment
+dermatoplast
 dicoumarol
 dicranaceous
 diligentia
