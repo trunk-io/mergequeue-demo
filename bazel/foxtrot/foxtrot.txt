@@ -8659,7 +8659,6 @@ filmsetter
 foxskins
 flacket
 fortieth
-fortieths
 fortify
 florets
 fibroids
@@ -9269,6 +9268,7 @@ frontispieced
 flary
 fraktur
 framboise
+fortieths
 fasciolet
 forgeries
 falcopern
