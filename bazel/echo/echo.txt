@@ -2374,7 +2374,6 @@ enfroward
 electroplating
 electroplates
 epiphenomenal
-elasmosaur
 effectiveness
 eutectic
 emulsifying
@@ -4489,6 +4488,7 @@ encarpa
 encarpium
 encarpus
 endrin
+elasmosaur
 enworthy
 entirely
 epitonic
