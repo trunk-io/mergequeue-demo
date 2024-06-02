@@ -11268,7 +11268,6 @@ chlorate
 chlorates
 chimars
 chlorcosane
-chlordan
 chlordane
 chlordans
 chlorella
@@ -19710,6 +19709,7 @@ carrara
 coman
 comanche
 comanchean
+chlordan
 comanches
 comandante
 comandantes
