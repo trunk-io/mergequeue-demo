@@ -25068,7 +25068,6 @@ cordilleras
 cordinar
 cording
 cordis
-cordleaf
 cordlessly
 cordlike
 configured
@@ -27790,6 +27789,7 @@ coxcomby
 coxcombic
 coxcombically
 controlment
+cordleaf
 churner
 cenosite
 coxcombity
