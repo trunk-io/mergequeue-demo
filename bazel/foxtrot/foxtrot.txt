@@ -7119,7 +7119,6 @@ fleurette
 footfall
 forebroads
 festive
-footfalls
 footfarer
 falsework
 footfault
@@ -7821,6 +7820,7 @@ furor
 foredesk
 foreparts
 forepass
+footfalls
 feedstuffs
 foliously
 forepaws
