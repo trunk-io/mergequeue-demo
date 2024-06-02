@@ -7747,7 +7747,6 @@ epidemically
 evidentiary
 effervescible
 epidemicalness
-epidemicity
 etceteras
 epidemiography
 ejulation
@@ -8352,6 +8351,7 @@ epitaxis
 egma
 eyelashes
 executory
+epidemicity
 enlife
 elevatory
 empover
