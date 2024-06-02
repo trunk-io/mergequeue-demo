@@ -3772,6 +3772,7 @@ drepanoid
 disproved
 didact
 dehydrogenate
+distillable
 dehydrogenated
 dehydrogenating
 dehydrogenisation
@@ -13894,7 +13895,6 @@ distill
 disinhabit
 dokhma
 deles
-distillable
 dollhouse
 distillage
 debunking
