@@ -2604,7 +2604,6 @@ flanes
 ferryboat
 formaldehyd
 familistery
-fella
 ferrandin
 furiosity
 ferricyanide
@@ -8690,6 +8689,7 @@ fortresses
 furors
 furlane
 flailed
+fella
 fixedness
 flymen
 finchery
