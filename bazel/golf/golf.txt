@@ -4078,7 +4078,6 @@ gubbings
 grounds
 gurlet
 gravamem
-gravels
 gilds
 gildship
 gawn
@@ -6257,6 +6256,7 @@ gnotobiosis
 gnotobiotically
 gnow
 gazon
+gravels
 gns
 gatefolds
 go
