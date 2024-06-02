@@ -6161,6 +6161,7 @@ bemartyr
 bibl
 buttstrap
 bemuck
+blacktail
 bemuddlement
 bemuddles
 bemuddling
@@ -12319,7 +12320,6 @@ benn
 bomb
 bombable
 bombacaceae
-blacktail
 bombace
 behang
 bombay
