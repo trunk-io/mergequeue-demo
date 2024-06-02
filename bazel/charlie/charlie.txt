@@ -8615,7 +8615,6 @@ categorical
 chanceful
 chancefulness
 chancey
-chancel
 chanceled
 chanceless
 cestoda
@@ -26465,6 +26464,7 @@ cotingid
 cotingidae
 cuprein
 cotingoid
+chancel
 cotinus
 cotype
 cusparine
