@@ -4110,7 +4110,6 @@ disbosoms
 dislikelihood
 duologue
 deliberateness
-deliberating
 dismalest
 deliberations
 deliberators
@@ -13567,6 +13566,7 @@ disquisitive
 disrelishable
 dudley
 dissembler
+deliberating
 dinosaur
 dislustering
 diagraphic
