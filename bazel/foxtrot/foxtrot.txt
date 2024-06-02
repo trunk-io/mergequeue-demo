@@ -2376,7 +2376,6 @@ fs
 feoffer
 fiberous
 fenester
-feoffors
 fidelis
 faultier
 feoffs
@@ -3300,6 +3299,7 @@ flaught
 flocculently
 freit
 functorial
+feoffors
 fidawi
 ferroinclave
 favor
