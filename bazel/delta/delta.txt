@@ -8309,7 +8309,6 @@ diagonal
 diagonalizable
 diagonalization
 diagnosing
-diseurs
 diagonals
 deducting
 diagonalwise
@@ -13607,6 +13606,7 @@ doggereler
 dissepiment
 drawlers
 daphnean
+diseurs
 dissepimental
 dresden
 dissertate
