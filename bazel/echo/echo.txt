@@ -806,6 +806,7 @@ emotes
 emergences
 euomphalid
 ecrase
+extense
 espigle
 ecraseurs
 elboic
@@ -4309,7 +4310,6 @@ epicenes
 emunctories
 epigraphical
 echoed
-extense
 emunge
 emusifies
 engs
