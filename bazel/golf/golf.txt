@@ -1599,7 +1599,6 @@ gasogen
 gandermooner
 gasohol
 gasolier
-geobotanist
 gangland
 grouse
 gasoliers
@@ -2144,6 +2143,7 @@ gigging
 gawk
 grubs
 grisettes
+geobotanist
 ginglmi
 gnomist
 gelndesprung
