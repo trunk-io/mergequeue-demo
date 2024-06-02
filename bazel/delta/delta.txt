@@ -2729,7 +2729,6 @@ decongest
 decongestant
 decongestants
 deltoidei
-decongesting
 decongestion
 deconsecrate
 dareful
@@ -10961,6 +10960,7 @@ disaffirmation
 detention
 disaffirming
 disafforest
+decongesting
 decapoda
 dulcinea
 disafforestment
