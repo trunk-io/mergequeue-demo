@@ -8564,7 +8564,6 @@ glowbird
 gallied
 grapline
 guidons
-gantlines
 garlicmonger
 gozzard
 goldfielder
@@ -8929,6 +8928,7 @@ grievable
 gote
 ghaist
 grievance
+gantlines
 grievances
 gel
 grievants
