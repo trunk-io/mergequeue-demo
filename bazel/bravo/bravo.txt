@@ -4767,7 +4767,6 @@ bourses
 bandpass
 booked
 braze
-bedlamise
 bedlamised
 bedlamite
 bedlamitish
@@ -16505,6 +16504,7 @@ burners
 brutifies
 brutishly
 bargeer
+bedlamise
 brachypinacoid
 brutishness
 brewed
