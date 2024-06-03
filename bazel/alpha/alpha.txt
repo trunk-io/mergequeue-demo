@@ -19285,6 +19285,7 @@ arcsines
 arctalia
 arctan
 arctation
+attendances
 arteriectasia
 antepretonic
 arctic
@@ -23061,7 +23062,6 @@ attemptive
 aortism
 agglomerations
 attendance
-attendances
 attendancy
 agnominal
 allopurinol
