@@ -9777,7 +9777,6 @@ bismuthal
 bromids
 bismuthate
 bismuthide
-bismuthyl
 bated
 btise
 bethanked
@@ -10058,6 +10057,7 @@ buro
 bivalvian
 bivariant
 bivascular
+bismuthyl
 binodous
 brahmic
 bivector
