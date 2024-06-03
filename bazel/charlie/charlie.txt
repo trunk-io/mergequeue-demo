@@ -12009,7 +12009,6 @@ choriambic
 chorometry
 choriambize
 confarreate
-choriambs
 choriambus
 cease
 choric
@@ -14270,6 +14269,7 @@ circularizers
 carloads
 circularizes
 checklists
+choriambs
 circularly
 circularness
 circulars
