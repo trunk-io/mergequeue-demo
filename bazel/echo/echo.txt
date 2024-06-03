@@ -7392,7 +7392,6 @@ eparterial
 endymal
 epaule
 epaulement
-effodientia
 electropoion
 epauleted
 electrologic
@@ -13545,6 +13544,7 @@ emmies
 exsufflicate
 exsuperance
 extracutaneous
+effodientia
 enculturated
 ethmoiditis
 exsurgent
