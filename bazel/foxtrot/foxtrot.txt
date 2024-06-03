@@ -2770,7 +2770,6 @@ fescue
 foggish
 fixes
 fightings
-fescues
 forelimbs
 folklore
 fesse
@@ -8397,6 +8396,7 @@ formalizer
 formalness
 flaucht
 fantail
+fescues
 formamidine
 fasels
 fluorinating
