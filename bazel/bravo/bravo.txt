@@ -1666,7 +1666,6 @@ ballotist
 ballots
 ballottement
 backlotter
-buffets
 ballottine
 ballottines
 ballpark
@@ -8643,6 +8642,7 @@ bronchotomist
 bilipurpurin
 bafaro
 baronne
+buffets
 butyryl
 bilirubinic
 bisections
