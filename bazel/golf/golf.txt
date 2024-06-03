@@ -3652,6 +3652,7 @@ ghauts
 gypsine
 ghazal
 ghazi
+gweducs
 guttatim
 gyroceracone
 gogos
@@ -8219,7 +8220,6 @@ garamond
 graphometric
 gara
 gifts
-gweducs
 glissaded
 gyrovague
 graphophone
