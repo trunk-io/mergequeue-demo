@@ -6003,7 +6003,6 @@ belomancy
 belone
 brooklyn
 belonephobia
-belong
 belonger
 bagonet
 belonging
@@ -17595,6 +17594,7 @@ biddance
 burgamot
 birder
 burganet
+belong
 burgau
 burgaudine
 burgee
