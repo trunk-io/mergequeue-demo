@@ -2564,7 +2564,6 @@ bicycles
 borscht
 barghests
 beslash
-barging
 bargir
 bassetite
 barguest
@@ -14156,6 +14155,7 @@ bracings
 brushability
 braciola
 burying
+barging
 bracioles
 brack
 bracked
