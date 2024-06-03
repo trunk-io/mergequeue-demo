@@ -5947,7 +5947,6 @@ definitiveness
 droshky
 depredatory
 deontic
-depredicate
 decise
 deodars
 duffy
@@ -16441,6 +16440,7 @@ dichromate
 deadishness
 doxology
 doxologically
+depredicate
 doxologized
 dozed
 dozened
