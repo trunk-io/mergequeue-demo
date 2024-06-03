@@ -2966,6 +2966,7 @@ greekery
 gnawable
 grindstone
 galenites
+gypsy
 geo
 gallerylike
 geoagronomic
@@ -10516,7 +10517,6 @@ gunbuilder
 guilelessly
 giftling
 greenbacks
-gypsy
 guiled
 gyrational
 gimmicks
