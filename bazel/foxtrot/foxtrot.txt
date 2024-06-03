@@ -7671,6 +7671,7 @@ flaggelation
 forehock
 forehoof
 flotter
+furriness
 forspeak
 frist
 forehoofs
@@ -10180,7 +10181,6 @@ foresing
 frized
 fan
 frizel
-furriness
 frizers
 frizes
 freycinetia
