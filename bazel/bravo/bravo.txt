@@ -1185,6 +1185,7 @@ bajra
 beltmen
 brakehand
 bajree
+bercelet
 bajury
 bunco
 bakal
@@ -2091,7 +2092,6 @@ bankrolled
 bankrolling
 boatsman
 bankrupcy
-bercelet
 bankrupt
 bosporan
 bacteroideae
