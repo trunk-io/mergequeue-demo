@@ -1447,7 +1447,6 @@ fylgjur
 fluctuosity
 fatshedera
 fatsia
-fane
 fatsoes
 fatalize
 fatsos
@@ -7887,6 +7886,7 @@ foresails
 farmscape
 footraces
 fibered
+fane
 forescene
 forescent
 fetticus
