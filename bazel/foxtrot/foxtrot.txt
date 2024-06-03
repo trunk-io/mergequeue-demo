@@ -1201,7 +1201,6 @@ fluidics
 federalese
 fascinating
 fascinatingly
-fascination
 fascinator
 ferous
 fibularia
@@ -7855,6 +7854,7 @@ fibrochondritis
 fraidycat
 forerake
 foreran
+fascination
 forereach
 forereading
 forerecited
