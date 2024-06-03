@@ -12430,6 +12430,7 @@ bombs
 bombsights
 bardesanism
 bombus
+birdied
 bombardelle
 bomi
 barbuts
@@ -14675,7 +14676,6 @@ banus
 brauna
 brauneria
 bullwork
-birdied
 bobbling
 braunite
 braunites
