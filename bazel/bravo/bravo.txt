@@ -7313,6 +7313,7 @@ bigamic
 bestower
 bestowment
 bestows
+burgee
 briary
 bestraddle
 blades
@@ -17599,7 +17600,6 @@ burganet
 belong
 burgau
 burgaudine
-burgee
 burgees
 brightwork
 brushball
