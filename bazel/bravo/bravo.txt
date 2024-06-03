@@ -3123,7 +3123,6 @@ baseball
 begumming
 bojite
 baseballer
-baseband
 baseboard
 blasters
 boodledom
@@ -10116,6 +10115,7 @@ blacklisting
 bize
 burys
 boudoiresque
+baseband
 bizel
 bizen
 bizes
