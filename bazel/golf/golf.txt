@@ -6544,7 +6544,6 @@ gregorian
 gallivanted
 gouger
 gyrose
-grudgingness
 griffinism
 guineapig
 gormands
@@ -9256,6 +9255,7 @@ gunfighters
 grograms
 gallowglass
 gaure
+grudgingness
 generale
 gaeldom
 growed
