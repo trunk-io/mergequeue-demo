@@ -7647,7 +7647,6 @@ bevor
 bevvy
 baronages
 bewailable
-bewailer
 burglarproof
 bewailers
 buskins
@@ -10427,6 +10426,7 @@ blandation
 blander
 blandest
 blandiloquence
+bewailer
 blossoms
 bowk
 blandish
