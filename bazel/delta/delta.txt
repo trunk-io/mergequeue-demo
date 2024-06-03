@@ -15068,7 +15068,6 @@ doggrels
 dorlot
 doghead
 doghearted
-decine
 doghood
 doghouse
 doghouses
@@ -17148,6 +17147,7 @@ dematerialise
 drunkenness
 decuries
 drilled
+decine
 dyotheletism
 dipygi
 driller
