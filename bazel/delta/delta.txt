@@ -12350,6 +12350,7 @@ dishcloth
 decrepity
 despairer
 dishcloths
+dupable
 dishclout
 dishcross
 disheart
@@ -18393,7 +18394,6 @@ downhauls
 duotriode
 delichon
 dup
-dupable
 dialysepalous
 disarrayed
 dupe
