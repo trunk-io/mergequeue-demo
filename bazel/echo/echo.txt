@@ -3951,6 +3951,7 @@ emmetropy
 emmetropic
 endplates
 emmett
+explicitly
 emmy
 epilabrum
 extraburghal
@@ -4505,7 +4506,6 @@ epicardiac
 extrusile
 epiphyllum
 encashing
-explicitly
 encashment
 elementarity
 etesian
