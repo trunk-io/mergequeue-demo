@@ -892,7 +892,6 @@ beadlery
 baglike
 biacromial
 bagmaker
-bagmaking
 bagne
 bagnes
 bibliotics
@@ -10242,6 +10241,7 @@ binghi
 betassel
 bibasic
 bassing
+bagmaking
 blackguard
 bos
 bobwhite

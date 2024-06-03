@@ -9425,7 +9425,6 @@ djinni
 duplicator
 diachylon
 diffusely
-diffuseness
 diffusers
 diffuses
 dechlore
@@ -18430,6 +18429,7 @@ duplicature
 disulphuret
 degreased
 derivation
+diffuseness
 duplicious
 dispersant
 duplicitas
