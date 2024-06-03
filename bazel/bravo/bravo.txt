@@ -3640,7 +3640,6 @@ bathythermogram
 bathythermograph
 bathkol
 barbar
-bathman
 bathmat
 bathmats
 bereaven
@@ -14995,6 +14994,7 @@ breird
 breislakite
 breithauptite
 brekky
+bathman
 brekkle
 brelan
 brelaw
