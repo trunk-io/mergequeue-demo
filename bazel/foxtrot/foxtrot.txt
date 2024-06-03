@@ -5567,7 +5567,6 @@ forepassed
 flights
 fannier
 fructuose
-flyings
 flyless
 fuddle
 firebrands
@@ -9297,6 +9296,7 @@ flagons
 fordull
 front
 fervors
+flyings
 flintier
 footgears
 foresey
