@@ -6037,6 +6037,7 @@ barbecueing
 belowground
 brontothere
 blueweeds
+buffaloes
 belowstairs
 blab
 belsire
@@ -16822,7 +16823,6 @@ buffable
 buffalo
 buffaloback
 blasty
-buffaloes
 buffalofish
 botheration
 buffaloing
