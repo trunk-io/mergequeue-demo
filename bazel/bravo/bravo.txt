@@ -8564,7 +8564,6 @@ bilati
 bylawman
 boggart
 bilberry
-bilberries
 brenthis
 bilbi
 bilby
@@ -12556,6 +12555,7 @@ bonesets
 bonesetting
 blattiform
 broadness
+bilberries
 boneshaker
 bridesman
 bidets
