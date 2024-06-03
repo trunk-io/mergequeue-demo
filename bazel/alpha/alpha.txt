@@ -7935,7 +7935,6 @@ alemite
 alemmal
 alen
 alkaloidal
-alencon
 alencons
 arrayers
 alenge
@@ -19622,6 +19621,7 @@ attender
 arguer
 aerobian
 autocremation
+alencon
 arguers
 argues
 argufied
