@@ -441,7 +441,6 @@ fairship
 fairway
 fragility
 faultfinders
-fairwater
 fieldbird
 fluentness
 fays
@@ -4841,6 +4840,7 @@ fellage
 flaite
 flaithship
 flutelike
+fairwater
 forwent
 farina
 federationist
