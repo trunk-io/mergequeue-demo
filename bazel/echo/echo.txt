@@ -4185,7 +4185,6 @@ exemplifier
 empoisoned
 encaustes
 etherol
-epistle
 elaborator
 enchronicle
 escaloped
@@ -4547,6 +4546,7 @@ ekphorize
 entosternum
 excambion
 encephalographically
+epistle
 entrainer
 enamelling
 elsewhat
