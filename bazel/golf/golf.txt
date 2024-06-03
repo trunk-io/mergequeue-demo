@@ -590,6 +590,7 @@ gallicize
 gallicizer
 gobletful
 garau
+gottlieb
 gutturize
 gardeners
 grahamite
@@ -805,7 +806,6 @@ grooper
 gris
 ghrush
 gandergoose
-gottlieb
 grithman
 gamari
 gamash
