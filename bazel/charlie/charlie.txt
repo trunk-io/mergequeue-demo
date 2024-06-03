@@ -1423,7 +1423,6 @@ cheapener
 calyptratae
 calyptriform
 calyptrimorphous
-calyptro
 calyptrogyne
 carnosin
 cervicodorsal
@@ -21776,6 +21775,7 @@ condoled
 coenacting
 condolement
 condolence
+calyptro
 condolent
 clumbers
 cruiserweight
