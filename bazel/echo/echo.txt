@@ -1238,7 +1238,6 @@ enrichments
 economizers
 encryption
 edomitish
-encompass
 exorbitate
 edoni
 edplot
@@ -3936,6 +3935,7 @@ entamebas
 epigastrical
 emmarvel
 engreen
+encompass
 elsa
 exundate
 emmenagogic
