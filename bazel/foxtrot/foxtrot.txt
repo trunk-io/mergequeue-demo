@@ -207,7 +207,6 @@ fissility
 finitary
 factoring
 factoryship
-fuzzed
 fuzzines
 floatiness
 factorize
@@ -2518,6 +2517,7 @@ faultfinding
 filiety
 fermi
 founders
+fuzzed
 finiteness
 fermillet
 frenchless
