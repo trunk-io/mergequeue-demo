@@ -5430,7 +5430,6 @@ eneclann
 emydosauria
 elianic
 empetraceae
-elapid
 electuary
 ened
 eurithermophile
@@ -6550,6 +6549,7 @@ entente
 ententes
 ennobles
 erythorbate
+elapid
 enameloma
 electroscopic
 enteraden

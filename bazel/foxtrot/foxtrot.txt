@@ -10919,6 +10919,7 @@ fletched
 fullmouth
 fullmouthed
 fowlpoxes
+firesafeness
 fullom
 fripperies
 forequarter
@@ -11527,7 +11528,6 @@ fuscin
 fuscohyaline
 fibrolipomatous
 ficklewise
-firesafeness
 fulani
 finalis
 fattenable
