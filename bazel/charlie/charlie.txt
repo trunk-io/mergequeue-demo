@@ -3526,7 +3526,6 @@ captivator
 captivators
 consonantizing
 captive
-cotangent
 calvarias
 captives
 comatulae
@@ -4397,6 +4396,7 @@ carinulate
 carioca
 concavation
 caryocar
+cotangent
 caryocaraceae
 caryocaraceous
 cariocas
