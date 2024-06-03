@@ -18337,6 +18337,7 @@ championlike
 cofounding
 cathedrals
 cofoundress
+confabulated
 cofounds
 cofreighter
 cofunction
@@ -21889,7 +21890,6 @@ conf
 confab
 confabs
 confabulate
-confabulated
 confabulations
 claithes
 confabulator
