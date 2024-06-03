@@ -79,7 +79,6 @@ abandon
 abandonable
 amphipods
 abandoned
-abandonee
 abandoner
 abandoners
 archiphoneme
@@ -9888,6 +9887,7 @@ aquashow
 adminiculate
 amaryllideous
 adjudicating
+abandonee
 amaryllis
 aponogeton
 abjures
