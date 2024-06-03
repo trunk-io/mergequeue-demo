@@ -12336,7 +12336,6 @@ behang
 bombay
 byrls
 bushfighter
-bombarder
 bombardiers
 bombarding
 bombardman
@@ -13923,6 +13922,7 @@ baccalaurean
 bowshot
 bowshots
 bowsprit
+bombarder
 baptisia
 bowstaff
 bowstring
