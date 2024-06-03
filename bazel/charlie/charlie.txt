@@ -11954,6 +11954,7 @@ chorded
 chordee
 choriso
 cst
+contradictive
 chordeiles
 chording
 chorditis
@@ -30449,7 +30450,6 @@ cuartino
 cuarto
 cub
 cuba
-contradictive
 cubages
 cubicovariant
 corozos
