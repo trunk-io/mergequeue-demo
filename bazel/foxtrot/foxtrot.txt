@@ -4971,7 +4971,6 @@ flanneling
 flannelleaves
 floc
 forepaw
-flannelmouth
 ferries
 fungate
 fedelini
@@ -7195,6 +7194,7 @@ forepeak
 fleetings
 flanderkin
 footprint
+flannelmouth
 fb
 forestery
 footrest
