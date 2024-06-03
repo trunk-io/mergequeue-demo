@@ -6992,6 +6992,7 @@ entothorax
 eclat
 entotympanic
 entourage
+empt
 entozoal
 entozoans
 enounces
@@ -12610,7 +12611,6 @@ employment
 exclaim
 exobasidium
 eating
-empt
 epistolet
 extinguishment
 exocardiac
