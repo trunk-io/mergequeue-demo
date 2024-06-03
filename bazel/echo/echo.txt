@@ -6253,7 +6253,6 @@ enregistered
 epicyte
 exostema
 elve
-eisodic
 ethanes
 enrich
 eaux
@@ -12774,6 +12773,7 @@ exam
 exorcization
 exorcized
 engramma
+eisodic
 exorcizement
 exorcizer
 exorcizes
