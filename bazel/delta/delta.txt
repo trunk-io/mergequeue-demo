@@ -5778,6 +5778,7 @@ deftest
 deplorabilia
 deplorability
 dodge
+duals
 deplorableness
 deplorably
 disvaluing
@@ -17686,7 +17687,6 @@ dualizes
 dualmutef
 dualogue
 discern
-duals
 disgradulate
 duan
 dunkard
