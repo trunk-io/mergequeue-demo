@@ -1038,7 +1038,6 @@ baignoire
 boraces
 barmecidal
 balcony
-bitterbush
 baikie
 bail
 burs
@@ -3867,6 +3866,7 @@ batzen
 blksize
 bumblingly
 barreler
+bitterbush
 baubees
 bethunder
 binitarian
