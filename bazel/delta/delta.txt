@@ -9036,7 +9036,6 @@ diverter
 dicrotal
 dicrotous
 dicruridae
-dict
 dehort
 dictaen
 dolichosoma
@@ -14270,6 +14269,7 @@ ditriglyphic
 ditrocha
 dragropes
 desireable
+dict
 dits
 ditt
 drogerman
