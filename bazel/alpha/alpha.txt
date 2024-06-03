@@ -1244,7 +1244,6 @@ acanthopterygii
 acanthopterous
 acanthoses
 acanthotic
-acanthous
 acanthuridae
 acanthuses
 asterochiton
@@ -23710,6 +23709,7 @@ austenitize
 austenitizing
 auster
 aruspices
+acanthous
 austerely
 atheistic
 antimallein
