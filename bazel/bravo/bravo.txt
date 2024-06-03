@@ -3774,7 +3774,6 @@ battels
 battement
 basisolute
 battements
-bestriding
 battened
 battener
 beknown
@@ -13811,6 +13810,7 @@ bestializes
 bowdlerise
 bezantee
 bowdlerised
+bestriding
 biodyne
 bowdlerising
 benighten
