@@ -5399,7 +5399,6 @@ ado
 affret
 affricated
 agnosticism
-affricates
 agglutinable
 affriended
 affrighted
@@ -6736,6 +6735,7 @@ antiprohibition
 aimlessly
 aimore
 architecturally
+affricates
 anticreation
 aims
 ambar
