@@ -829,6 +829,7 @@ fango
 fangs
 fanion
 frowsy
+flypast
 forgedly
 flusher
 faltering
@@ -5647,7 +5648,6 @@ fanfold
 flintworker
 folioliferous
 flyovers
-flypast
 flype
 feodaries
 freezers
