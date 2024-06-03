@@ -4280,7 +4280,6 @@ carex
 cottages
 carfare
 carfares
-carfax
 carfloat
 coater
 carfuffle
@@ -24209,6 +24208,7 @@ charon
 convictfish
 convictfishes
 convictible
+carfax
 cantinier
 conviction
 convictional
