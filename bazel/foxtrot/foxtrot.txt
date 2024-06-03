@@ -1021,6 +1021,7 @@ fardage
 farded
 forklifts
 fardel
+featherstitch
 foxhound
 fardelet
 farding
@@ -9352,7 +9353,6 @@ franker
 fibrilation
 frankest
 fireguard
-featherstitch
 folcgemot
 falsidical
 funambulating
