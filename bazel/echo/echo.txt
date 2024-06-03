@@ -2635,7 +2635,6 @@ eschaufe
 endsheet
 electrophoric
 electrophoridae
-eliciting
 eras
 enrobers
 exempla
@@ -12337,6 +12336,7 @@ exemptions
 empididae
 ephemerist
 exemptive
+eliciting
 excogitate
 exendospermic
 exendospermous

@@ -5674,7 +5674,6 @@ garbing
 gtd
 geochemist
 geophysical
-generality
 gumi
 glendale
 gefilte
@@ -10833,6 +10832,7 @@ gutturopalatine
 goatland
 guz
 guzmania
+generality
 gregarious
 greeshoch
 gyrograph
