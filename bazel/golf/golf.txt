@@ -1861,7 +1861,6 @@ gastrotomic
 gulsach
 gastrovascular
 granitiferous
-gipseian
 gthite
 gulleries
 generativeness
@@ -8997,6 +8996,7 @@ gastrohepatic
 girasole
 gerontoxon
 gliomata
+gipseian
 gryllos
 gimcracky
 grager
