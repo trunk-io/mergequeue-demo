@@ -5338,6 +5338,7 @@ apiales
 affixment
 afflate
 anophthalmia
+alangin
 afflated
 ataxia
 afflatus
@@ -7275,7 +7276,6 @@ alamort
 alamosite
 alan
 alange
-alangin
 alangine
 arthrectomies
 alangium
