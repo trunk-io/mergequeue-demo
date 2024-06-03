@@ -5237,7 +5237,6 @@ gld
 glead
 gleam
 greathearted
-geyserine
 gametogony
 guzzler
 guss
@@ -7163,6 +7162,7 @@ gores
 gingerbready
 gorfly
 gastrotaxis
+geyserine
 ganancial
 gorgeous
 grommet
