@@ -4829,7 +4829,6 @@ carreta
 carretela
 carretera
 carreton
-cofferlike
 carri
 cetaceous
 carry
@@ -19098,6 +19097,7 @@ cantinas
 collencyte
 colleri
 collery
+cofferlike
 candyh
 colletarium
 colleted
