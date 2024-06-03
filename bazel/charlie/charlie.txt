@@ -4888,6 +4888,7 @@ clomben
 carrotwood
 carrousel
 carrousels
+chaetodontid
 carageen
 carrs
 cars
@@ -8111,7 +8112,6 @@ chaetiferous
 chaetochloa
 chaetodon
 chaetodont
-chaetodontid
 chaetodontidae
 chaetognatha
 chaetophobia
