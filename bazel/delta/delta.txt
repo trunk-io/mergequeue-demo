@@ -10822,7 +10822,6 @@ diletant
 digit
 displays
 direr
-decanormal
 direx
 dirge
 drawstop
@@ -11764,6 +11763,7 @@ disobligatory
 discreetness
 disappointing
 discrepancies
+decanormal
 discrepancries
 discrepantly
 decaudation
