@@ -9267,7 +9267,6 @@ alochia
 aribine
 aloddia
 alody
-autophony
 alodialism
 alodialist
 alodiality
@@ -12633,6 +12632,7 @@ aneurism
 allochroite
 aneurysm
 aneurysmal
+autophony
 aeriferous
 aneurysmally
 aneurysmatic
