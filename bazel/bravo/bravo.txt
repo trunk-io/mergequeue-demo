@@ -13901,7 +13901,6 @@ baptizee
 bowsman
 bowmen
 bown
-being
 bows
 bowsaw
 bowsed
@@ -15203,6 +15202,7 @@ brideweed
 belles
 brachyure
 bridewell
+being
 blister
 bridewort
 bridge
