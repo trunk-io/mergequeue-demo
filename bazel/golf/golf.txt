@@ -3120,7 +3120,6 @@ geira
 gaily
 garnetz
 grands
-geomorphy
 graphiter
 gerbils
 gooseflesh
@@ -3959,6 +3958,7 @@ graphomotor
 gigasecond
 girthline
 glamorously
+geomorphy
 gnoff
 gigaton
 graphicly
