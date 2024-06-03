@@ -13615,6 +13615,7 @@ annotativeness
 adaptability
 albuminization
 annotator
+auxiliar
 annotatory
 annotators
 arrendator
@@ -24500,7 +24501,6 @@ auxetic
 auxil
 anywhereness
 alterius
-auxiliar
 auxiliary
 armsize
 agriology
