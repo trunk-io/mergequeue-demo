@@ -4466,7 +4466,6 @@ becharmed
 bellona
 burbankism
 bromhydric
-bechase
 bechauffeur
 browband
 bilker
@@ -7376,6 +7375,7 @@ beta
 bescratch
 bedraggle
 betacaine
+bechase
 betacismus
 betag
 betailor
