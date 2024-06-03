@@ -3932,7 +3932,6 @@ deywoman
 deixis
 decreases
 deja
-deject
 dissolveability
 decamps
 dejection
@@ -6350,6 +6349,7 @@ disgrade
 deaccessioned
 dermenchysis
 dermestid
+deject
 disseminating
 dermestidae
 dermic
