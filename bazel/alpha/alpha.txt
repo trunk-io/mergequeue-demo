@@ -3920,7 +3920,6 @@ anastatica
 antielectron
 autoactivation
 adjective
-adjectively
 adjectives
 anagogy
 adjectivitis
@@ -6342,6 +6341,7 @@ agraphia
 agraphic
 acrocyanosis
 agraria
+adjectively
 animative
 agrarianize
 aggress
