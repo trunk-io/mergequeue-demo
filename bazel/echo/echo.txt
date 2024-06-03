@@ -1155,6 +1155,7 @@ expurgatory
 edibles
 edict
 endothelial
+estates
 edictal
 edictally
 edictum
@@ -4992,7 +4993,6 @@ endemism
 eco
 endemisms
 echeloned
-estates
 equiparable
 estipulate
 endenization
