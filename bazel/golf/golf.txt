@@ -1225,7 +1225,6 @@ gapingly
 gapless
 gaplessness
 gizzened
-gapped
 gynandrism
 gappy
 gappier
@@ -5121,6 +5120,7 @@ gatch
 gyrencephalate
 gandering
 gigantomachy
+gapped
 glasseye
 glassen
 goalkeeper
