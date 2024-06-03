@@ -2348,6 +2348,7 @@ electroanalytic
 embassade
 electroanesthesia
 eavesdrop
+entrapper
 electroballistics
 electrobath
 electrobiological
@@ -7817,7 +7818,6 @@ episodes
 etymologies
 enthraller
 epidiorthosis
-entrapper
 epidiplosis
 empyemas
 euphorbiaceae
