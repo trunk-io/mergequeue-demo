@@ -6885,6 +6885,7 @@ formuliser
 furnaceman
 foudroyant
 folkright
+forcet
 freekirker
 folks
 fleyedly
@@ -7400,7 +7401,6 @@ forceput
 fazing
 funt
 fileable
-forcet
 forcibility
 financially
 forcibleness
