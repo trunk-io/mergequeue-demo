@@ -2631,6 +2631,7 @@ barytocelestite
 barytone
 barytones
 barytons
+bookrest
 busing
 bhd
 barytophyllite
@@ -12809,7 +12810,6 @@ bookpress
 bookracks
 blacklegging
 baronry
-bookrest
 begut
 bookseller
 becloaked
