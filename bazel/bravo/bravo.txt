@@ -1010,6 +1010,7 @@ barbette
 byspell
 boat
 bayamos
+brownier
 brigand
 bayano
 birlie
@@ -16191,7 +16192,6 @@ brown
 browned
 brandishers
 brownest
-brownier
 bednighted
 brownies
 bivouac
