@@ -1203,6 +1203,7 @@ eikons
 esthetics
 environage
 edition
+endere
 editions
 editor
 exploitation
@@ -9795,7 +9796,6 @@ espouses
 eleutherarch
 espousing
 espressos
-endere
 esprit
 endowing
 enterorrhexis
