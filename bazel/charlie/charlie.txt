@@ -11860,7 +11860,6 @@ chondrostei
 cytosine
 chondrosternal
 chondrotomy
-chondrules
 chondrus
 chonk
 calfhood
@@ -31384,6 +31383,7 @@ curled
 curledly
 centranthus
 curledness
+chondrules
 curler
 curlewberry
 canoed
