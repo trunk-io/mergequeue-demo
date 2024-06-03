@@ -2935,6 +2935,7 @@ fetterlock
 fusarium
 forewing
 foxship
+fuzz
 frabjously
 fractioning
 farthest
@@ -11741,7 +11742,6 @@ flneur
 fremdly
 fuzees
 fuzil
-fuzz
 fuzzier
 fenlander
 fuzziest
