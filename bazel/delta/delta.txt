@@ -5791,7 +5791,6 @@ depoh
 depolarisation
 depolarise
 drapeable
-depolariser
 darksome
 docetic
 depolarization
@@ -8894,6 +8893,7 @@ dicastery
 dicasteries
 dicastic
 diccon
+depolariser
 domines
 dice
 dyce
