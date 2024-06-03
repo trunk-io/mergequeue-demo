@@ -3037,6 +3037,7 @@ fleshiness
 fossors
 fgrid
 floorshift
+frothing
 fy
 fiacres
 fetichry
@@ -6999,7 +7000,6 @@ fons
 ferrum
 fiberware
 fontal
-frothing
 fluorines
 fires
 fontful
