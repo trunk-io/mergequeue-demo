@@ -4127,6 +4127,7 @@ chondroclast
 cardiologic
 cardiologist
 cardiologists
+clarifiable
 cardiomegaly
 cyclus
 clavation
@@ -15839,7 +15840,6 @@ clavicle
 clavicles
 clavicorn
 clavicornes
-clarifiable
 clavicotomy
 clavicular
 clavicularium
