@@ -11652,6 +11652,7 @@ boarskin
 boarspear
 balloter
 belzebuth
+burns
 bacauan
 becarve
 blacks
@@ -12203,7 +12204,6 @@ benzodiazine
 bolide
 befoul
 bolivar
-burns
 bolivian
 bestead
 bloodying
