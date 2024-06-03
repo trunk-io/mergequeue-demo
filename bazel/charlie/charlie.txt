@@ -1263,7 +1263,6 @@ calgary
 caliban
 caliber
 calibers
-cunas
 clavicembali
 colunar
 calibrated
@@ -18375,6 +18374,7 @@ cogitantly
 cogitates
 cogitation
 cogitativity
+cunas
 cogitator
 cogito
 coglorify
