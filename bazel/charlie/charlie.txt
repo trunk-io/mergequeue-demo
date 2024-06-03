@@ -2503,7 +2503,6 @@ candles
 candleshine
 candleshrift
 capitalizations
-candlestand
 cecidiology
 committeewoman
 chinol
@@ -2958,6 +2957,7 @@ cantino
 cantion
 cantish
 cantles
+candlestand
 cantlet
 cantline
 cantling
