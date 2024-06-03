@@ -3052,6 +3052,7 @@ geogenesis
 gyropilot
 gyrencephalous
 guapilla
+gpm
 geminorum
 graben
 glided
@@ -7577,7 +7578,6 @@ gloomful
 germing
 ginnery
 generationism
-gpm
 gps
 glycosaemia
 gunfought
