@@ -8864,7 +8864,6 @@ bimotored
 bimotors
 bruisers
 boloman
-bimucronate
 bolides
 bumblebee
 bosc
@@ -9467,6 +9466,7 @@ buriti
 bullyrook
 birding
 birdless
+bimucronate
 beirut
 balbutiate
 birdlimes
