@@ -2068,7 +2068,6 @@ bankbooks
 bankcard
 becrawl
 bankcards
-banked
 bethought
 budzart
 banky
@@ -10073,6 +10072,7 @@ bivocal
 briton
 bivocalized
 bivoluminous
+banked
 bochism
 bivouaced
 bivouacked
