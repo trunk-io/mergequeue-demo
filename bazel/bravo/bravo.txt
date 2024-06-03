@@ -1885,7 +1885,6 @@ bandeau
 betula
 bandelet
 bandelette
-bandeng
 banderma
 banderol
 banderole
@@ -12470,6 +12469,7 @@ bonbo
 bullyragged
 braggers
 branned
+bandeng
 bonbon
 betsimisaraka
 bobstay
