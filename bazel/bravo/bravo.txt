@@ -6615,7 +6615,6 @@ bequeaths
 buckeyes
 bequest
 bequests
-ber
 beray
 berain
 bakepan
@@ -6905,6 +6904,7 @@ bibliolatry
 bertrum
 bullarium
 beachy
+ber
 beruffed
 beruffled
 berust
