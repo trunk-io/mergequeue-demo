@@ -1146,7 +1146,6 @@ edibility
 edible
 expeditive
 exhaustingly
-eumycetic
 expurgatory
 edibles
 edict
@@ -3070,6 +3069,7 @@ eurythmy
 embryotroph
 economizing
 electrophoretic
+eumycetic
 elkslip
 elkuma
 elkwood
