@@ -1412,7 +1412,6 @@ geogony
 garments
 gegenion
 grasseye
-glyphs
 glutael
 garmenture
 gerodermia
@@ -10698,6 +10697,7 @@ glossocoma
 gusher
 gripsacks
 goethe
+glyphs
 guywire
 gargety
 glitterance
