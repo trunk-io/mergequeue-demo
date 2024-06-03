@@ -1939,6 +1939,7 @@ bodiced
 bandog
 bandanas
 bandogs
+barken
 bonfire
 bothersomeness
 bandoleer
@@ -2653,7 +2654,6 @@ bunglesome
 bushie
 barkey
 briers
-barken
 buccheros
 beknights
 barkentine
