@@ -6823,7 +6823,6 @@ cellblock
 cellblocks
 celled
 centennium
-cellepora
 cellepore
 cellfalcicula
 celliferous
@@ -15492,6 +15491,7 @@ cystathionine
 calluses
 clanjamfrey
 chalcotript
+cellepora
 clanjamphrey
 clank
 clanked
