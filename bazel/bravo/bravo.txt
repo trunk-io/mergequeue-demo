@@ -869,7 +869,6 @@ baggers
 baggie
 barege
 baggier
-baggiest
 belaud
 bradypus
 bagging
@@ -3366,6 +3365,7 @@ bioelectricities
 basker
 basketballer
 basketballs
+baggiest
 basketfuls
 bathflower
 bay
