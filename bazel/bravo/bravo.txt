@@ -1203,7 +1203,6 @@ bakelize
 bakemeats
 backslash
 bloop
-bakeout
 bakeoven
 bimillenniums
 blennostatic
@@ -12468,6 +12467,7 @@ bonbo
 bullyragged
 braggers
 branned
+bakeout
 bandeng
 bonbon
 betsimisaraka
