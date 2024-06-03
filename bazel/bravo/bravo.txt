@@ -2676,7 +2676,6 @@ barkless
 barklyite
 barkometer
 bescorch
-butyr
 batrachite
 beheld
 bai
@@ -9509,6 +9508,7 @@ bacteriostat
 babishly
 bookholder
 birettas
+butyr
 blotchily
 broadhorn
 byrewards
