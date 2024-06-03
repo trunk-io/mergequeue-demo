@@ -8729,7 +8729,6 @@ ankylotome
 allergin
 allergist
 allergists
-allergology
 allerion
 assurable
 allethrin
@@ -10105,6 +10104,7 @@ amblygeusia
 agin
 amblygon
 amblygonal
+allergology
 amblygonite
 attractant
 asterism
