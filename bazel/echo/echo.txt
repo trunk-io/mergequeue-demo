@@ -810,6 +810,7 @@ emotes
 emergences
 euomphalid
 ecrase
+enclitic
 extense
 espigle
 ecraseurs
@@ -12052,7 +12053,6 @@ exclusionism
 exclusive
 enaunter
 exclusiveness
-enclitic
 exclusivism
 esdragol
 enforceability

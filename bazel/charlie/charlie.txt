@@ -5838,6 +5838,7 @@ cateye
 catel
 catelectrode
 capstones
+clothesless
 catelectrotonic
 catelectrotonus
 colorlessness
@@ -16761,7 +16762,6 @@ clothed
 clothesbag
 clothesbasket
 clothesyard
-clothesless
 cirrus
 clothesline
 clotheslines
