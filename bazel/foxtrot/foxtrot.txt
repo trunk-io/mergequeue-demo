@@ -799,7 +799,6 @@ fallows
 fandangos
 fandoms
 fanegadas
-feudalizable
 familiarism
 fellowlike
 fermacy
@@ -8050,6 +8049,7 @@ foretelling
 fireflies
 fulminated
 foreswear
+feudalizable
 foredispose
 fichtelite
 funkiest
