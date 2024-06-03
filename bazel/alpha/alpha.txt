@@ -5325,7 +5325,6 @@ affirmers
 affirming
 affirmingly
 affix
-antiaris
 affixable
 affixal
 affixation
@@ -7441,6 +7440,7 @@ autosuggestibility
 albicore
 albicores
 albiculi
+antiaris
 albificative
 albified
 archdeacon
