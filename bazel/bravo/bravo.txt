@@ -1578,6 +1578,7 @@ bigged
 ballets
 ballfield
 ballgame
+bookish
 ballgames
 ballhawks
 berley
@@ -5451,7 +5452,6 @@ bombsight
 begriming
 begrimmed
 beseemly
-bookish
 bichrome
 brickly
 bot
