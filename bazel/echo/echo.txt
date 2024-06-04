@@ -2691,6 +2691,7 @@ entermise
 exciples
 electrostriction
 elinvar
+expectant
 electrosurgery
 enfirm
 epididymovasostomy
@@ -6165,7 +6166,6 @@ enolizable
 envisionment
 enolizing
 enological
-expectant
 educate
 enols
 esquireship
