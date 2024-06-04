@@ -9118,7 +9118,6 @@ bioherms
 bronzen
 bioinstrument
 biokinetics
-biol
 biolinguistics
 biolyses
 beneficium
@@ -9733,6 +9732,7 @@ bishopful
 barbarianism
 baptists
 bishopling
+biol
 bishoprics
 bishopstool
 bishopweed
