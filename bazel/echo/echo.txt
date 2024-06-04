@@ -1794,7 +1794,6 @@ eyelet
 expwy
 eyeleted
 eyeletting
-eyelid
 eyelids
 engining
 eyeliner
@@ -4950,6 +4949,7 @@ endearedness
 endearingness
 excepts
 epinglette
+eyelid
 exactive
 ecliptics
 endosiphon
