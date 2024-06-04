@@ -1320,7 +1320,6 @@ glauconite
 gardenful
 gardenia
 gundeck
-giftlike
 gismo
 gardenless
 greenside
@@ -9423,6 +9422,7 @@ gruffiness
 gitksan
 grouf
 ground
+giftlike
 grakle
 groundably
 gournard

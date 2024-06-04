@@ -2619,6 +2619,7 @@ ferryway
 finding
 ferroaluminum
 farewell
+fumes
 ferrocene
 ferrocerium
 fogramity
@@ -11029,7 +11030,6 @@ fibrillate
 freakery
 farmery
 fumeroot
-fumes
 fumet
 fumets
 follows
