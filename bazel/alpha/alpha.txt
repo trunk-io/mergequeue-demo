@@ -1763,7 +1763,6 @@ accusatives
 accusator
 associates
 accusatory
-apectomy
 accusatorial
 accusatorially
 accusatrix
@@ -11940,6 +11939,7 @@ anaphylactin
 anaphylactogen
 anaphylactogenic
 anaphylatoxin
+apectomy
 anaphyte
 antivaccinator
 autopsychology
