@@ -11708,7 +11708,6 @@ beclown
 boatmanship
 boatmen
 bushlet
-boatowner
 boats
 boatsetter
 boatshop
@@ -15673,6 +15672,7 @@ brocade
 brocaded
 brocades
 brocardic
+boatowner
 brocatel
 bacillogenous
 brocatelle
