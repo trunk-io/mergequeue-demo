@@ -5150,7 +5150,6 @@ dendrium
 decuria
 derequisition
 dendrobium
-diplogenic
 derailed
 dendrochirota
 dessicate
@@ -9702,6 +9701,7 @@ dispersedelement
 delignated
 diaphanometer
 dikaryophasic
+diplogenic
 dikaryophyte
 dislevelment
 dikaryophytic
