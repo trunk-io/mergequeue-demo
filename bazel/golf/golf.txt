@@ -898,7 +898,6 @@ gamelike
 goracco
 gadids
 gynecomazia
-gladiole
 gateway
 ganglionitis
 gilded
@@ -5364,6 +5363,7 @@ gymnadeniopsis
 guesthouses
 geoponics
 glycerophosphoric
+gladiole
 glycosyl
 glyceroxide
 glycide
