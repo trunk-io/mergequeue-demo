@@ -812,7 +812,6 @@ gamasidae
 goombay
 guamuchil
 gamasoidea
-gutturopalatal
 graf
 gambade
 gambado
@@ -7810,6 +7809,7 @@ geoglossaceae
 gun
 goodsome
 ganoin
+gutturopalatal
 gramary
 geranic
 gramarye
