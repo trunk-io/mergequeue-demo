@@ -1267,7 +1267,6 @@ calibers
 clavicembali
 colunar
 calibrated
-canichana
 calibrater
 calibrates
 confectionaries
@@ -4366,6 +4365,7 @@ carien
 cariform
 carijona
 constructs
+canichana
 caryl
 culvertage
 confidentiality
