@@ -6244,7 +6244,6 @@ enomotarch
 ectozoic
 enregistered
 epicyte
-exostema
 elve
 ethanes
 enrich
@@ -8402,6 +8401,7 @@ emulating
 epitheme
 epithermally
 emmenia
+exostema
 eucleid
 eucarpic
 endocyemate
