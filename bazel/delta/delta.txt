@@ -16667,6 +16667,7 @@ deathbeds
 dragsmen
 dopehead
 dragstaff
+drone
 dilettantes
 dragster
 dragsters
@@ -17328,7 +17329,6 @@ dep
 drona
 dronage
 douglas
-drone
 discovenant
 dronepipe
 droners
