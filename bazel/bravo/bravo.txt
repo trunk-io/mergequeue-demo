@@ -2449,7 +2449,6 @@ bardings
 becalms
 bridecup
 bardlet
-bronchomotor
 bardlike
 bardling
 bluestone
@@ -10842,6 +10841,7 @@ bureaucracy
 boody
 bibulus
 biorhythmic
+bronchomotor
 brainchildren
 bloodfin
 bleo
