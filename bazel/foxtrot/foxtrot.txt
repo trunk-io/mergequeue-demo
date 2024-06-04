@@ -7386,7 +7386,6 @@ forestland
 flavorsomeness
 fighter
 fasciculus
-forecasting
 featherwood
 frankenia
 forceless
@@ -7648,6 +7647,7 @@ foretopsail
 fiefdom
 foregut
 forehalf
+forecasting
 feudalize
 forehammer
 fabulousness
