@@ -2390,7 +2390,6 @@ goodnesses
 gibbartas
 galopin
 grisly
-gnabble
 geldesprung
 geldings
 gorgets
@@ -8016,6 +8015,7 @@ graves
 granduncle
 granduncles
 grane
+gnabble
 gunrooms
 grangerize
 gongorism
