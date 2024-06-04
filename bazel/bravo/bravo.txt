@@ -3430,7 +3430,6 @@ bootable
 brythonic
 baculum
 bassan
-bicarbonate
 bassanite
 biotechnics
 bassetta
@@ -15051,6 +15050,7 @@ bandhor
 busser
 balter
 bashlyk
+bicarbonate
 berlina
 breviconic
 balneographer
