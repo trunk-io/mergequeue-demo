@@ -7654,7 +7654,6 @@ etiologies
 epicoeloma
 euchymous
 epicoelous
-epicolic
 epicondyle
 epicondylian
 engraulidae
@@ -9173,6 +9172,7 @@ endoscopic
 extratemporal
 espoused
 endoconidium
+epicolic
 exsurge
 enharmonical
 ethinyl
