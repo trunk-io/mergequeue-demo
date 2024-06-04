@@ -139,7 +139,6 @@ abatjours
 anacoustic
 abaton
 ains
-abator
 asperggilli
 axles
 abators
@@ -2382,6 +2381,7 @@ acyloin
 acyloins
 amphichrome
 acyloxy
+abator
 agrarianism
 agnomical
 acinaces
