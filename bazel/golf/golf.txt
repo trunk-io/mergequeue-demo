@@ -2522,7 +2522,6 @@ gemotes
 growingly
 gems
 gaufrette
-glaciarium
 genouillere
 gangrenes
 glassing
@@ -8371,6 +8370,7 @@ guestchamber
 gyromele
 gustily
 gratiolin
+glaciarium
 gybes
 gasogene
 garial
