@@ -1271,7 +1271,6 @@ acnodes
 acaridomatia
 acariform
 acarina
-acquainted
 acarine
 acarines
 acarinosis
@@ -3252,6 +3251,7 @@ annelides
 acupuncturation
 approachabl
 azotine
+acquainted
 acupuncturator
 acupuncture
 abonne
