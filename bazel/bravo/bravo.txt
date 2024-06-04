@@ -3223,6 +3223,7 @@ bumph
 benzins
 baltis
 booklores
+beauclerk
 bukat
 bolis
 basics
@@ -10312,7 +10313,6 @@ broomwort
 blackpatch
 bestialize
 beavering
-beauclerk
 batara
 blackpot
 bromide
