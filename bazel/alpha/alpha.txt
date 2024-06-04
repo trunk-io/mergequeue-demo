@@ -5498,7 +5498,6 @@ amalgams
 arrange
 algometry
 afrikanderdom
-afrikanderism
 afrikaner
 averrhoa
 afrit
@@ -25269,6 +25268,7 @@ apiaceous
 activating
 azimide
 azimin
+afrikanderism
 azimino
 azymite
 azimuth
