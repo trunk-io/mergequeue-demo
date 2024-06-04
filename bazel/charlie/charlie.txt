@@ -8312,7 +8312,6 @@ cosingular
 chalaziferous
 chalazium
 chalazogam
-chalazogamic
 chandam
 cellulomonas
 chalazoidite
@@ -10548,6 +10547,7 @@ comicality
 children
 childrenite
 corylin
+chalazogamic
 childridden
 childship
 childward
