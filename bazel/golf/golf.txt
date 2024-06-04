@@ -2550,7 +2550,6 @@ goral
 grief
 glandules
 gabbing
-gangways
 goofy
 grinnie
 grassing
@@ -9737,6 +9736,7 @@ gentling
 glossator
 gryphon
 gordiidae
+gangways
 grumose
 gablewise
 gambes
