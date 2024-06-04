@@ -8690,7 +8690,6 @@ boatsmen
 beckon
 bourgeoisify
 billboards
-banff
 billbroking
 billbug
 branching
@@ -13130,6 +13129,7 @@ blowzier
 boride
 bregmatic
 baselines
+banff
 boringness
 borism
 borith
