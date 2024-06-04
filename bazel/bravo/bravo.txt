@@ -5686,7 +5686,6 @@ billingsgate
 biobibliographical
 belaying
 belam
-belamcanda
 belamy
 belamour
 bettas
@@ -13670,6 +13669,7 @@ bittium
 boundlessly
 bulldogged
 bounds
+belamcanda
 boundure
 bounteous
 bounteousness
