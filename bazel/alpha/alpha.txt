@@ -5709,7 +5709,6 @@ againward
 ardeid
 agal
 agalactic
-animalcule
 appoggiaturas
 agalaxia
 anisomelus
@@ -20816,6 +20815,7 @@ artists
 afshar
 acholias
 artlessness
+animalcule
 aet
 artlet
 adobes

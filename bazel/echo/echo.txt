@@ -4344,7 +4344,6 @@ elacolite
 etude
 enameling
 enamelist
-equiped
 enamelless
 earsh
 enamels
@@ -11578,6 +11577,7 @@ existence
 evolutionistically
 engorging
 evolutionists
+equiped
 earthliest
 elaeocarpus
 extorted
