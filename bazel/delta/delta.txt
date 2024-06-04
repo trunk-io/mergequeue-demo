@@ -5783,7 +5783,6 @@ drepanid
 deftest
 deplorabilia
 deplorability
-dodge
 duals
 deplorableness
 deplorably
@@ -6086,6 +6085,7 @@ depursement
 detoxification
 deputable
 dichotomously
+dodge
 deputational
 deputationist
 doctus
