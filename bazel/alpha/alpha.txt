@@ -5645,6 +5645,7 @@ apastron
 afterturn
 arosaguntacook
 artisans
+aphototaxis
 aboudikro
 aftervision
 afterwale
@@ -12475,7 +12476,6 @@ amidoazobenzol
 ahmadiya
 aneles
 antidotically
-aphototaxis
 aneling
 anelytrous
 anematize
