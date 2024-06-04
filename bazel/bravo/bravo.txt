@@ -2291,7 +2291,6 @@ barbarisation
 barbarise
 barbarised
 barbarising
-barbarism
 barbarisms
 bronstrops
 barbarity
@@ -15864,6 +15863,7 @@ bromidrosis
 brominate
 blowhard
 brominated
+barbarism
 bromination
 broadband
 beswim
