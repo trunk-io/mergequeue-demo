@@ -2397,6 +2397,7 @@ altin
 albardine
 acinary
 acinarious
+autolyze
 acineta
 abridgedly
 acinetae
@@ -24163,7 +24164,6 @@ autolithograph
 autolithography
 autoinfection
 autolyzate
-autolyze
 autolyzes
 autoloader
 autoloaders
