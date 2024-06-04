@@ -6056,7 +6056,6 @@ decempennate
 depthways
 disoccupy
 deadman
-depthwise
 distempered
 depucel
 drayages
@@ -8888,6 +8887,7 @@ dibromobenzene
 dibs
 dibstone
 doziness
+depthwise
 distrainor
 dibutyl
 dibutyrin
