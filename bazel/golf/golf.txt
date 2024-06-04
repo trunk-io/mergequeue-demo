@@ -588,7 +588,6 @@ gobletful
 garau
 gottlieb
 gutturize
-gardeners
 grahamite
 galliform
 gomphrena
@@ -7534,6 +7533,7 @@ greenkeeper
 governorate
 governors
 gobian
+gardeners
 garbled
 gravimeter
 gressible
