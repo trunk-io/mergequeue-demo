@@ -6632,7 +6632,6 @@ cecopexy
 carders
 cecrops
 codifier
-chaptalized
 cecum
 cecums
 cecutiency
@@ -28374,6 +28373,7 @@ corviform
 crawl
 crawled
 crawley
+chaptalized
 contributing
 crawleyroot
 crawlerize
