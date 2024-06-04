@@ -15962,7 +15962,6 @@ clearsightedness
 clearstarcher
 clearstory
 clearstoried
-clearstories
 clearweed
 cleat
 chetive
@@ -30341,6 +30340,7 @@ crustaceology
 crustaceological
 crustaceologist
 cattishness
+clearstories
 crustaceorubrin
 crustaceous
 cynology
