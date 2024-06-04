@@ -1927,6 +1927,7 @@ bespice
 bandits
 bandle
 bandleader
+bedrel
 blastoff
 breadwinners
 bandlimits
@@ -16719,7 +16720,6 @@ blowcase
 besayle
 boche
 beamlet
-bedrel
 biparty
 befouler
 buckras
