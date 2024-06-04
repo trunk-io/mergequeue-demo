@@ -1951,7 +1951,6 @@ flatten
 feds
 feeb
 frostproofing
-feria
 francas
 fosterlings
 flowerlike
@@ -6995,6 +6994,7 @@ fulcra
 forestudy
 functor
 frittered
+feria
 fondues
 fictionistic
 forfeiter
