@@ -412,6 +412,7 @@ dairyman
 dairywoman
 deliver
 dairywomen
+descanting
 defensory
 dayrooms
 discerp
@@ -14162,7 +14163,6 @@ disulphuric
 dinky
 disencrease
 disunify
-descanting
 dolesman
 diastatically
 dyad
