@@ -8921,7 +8921,6 @@ foundling
 forget
 finochios
 foundlings
-foundress
 foundryman
 flatlets
 foundrymen
@@ -11016,6 +11015,7 @@ fumblers
 fumbles
 fumbling
 forkable
+foundress
 fohn
 fumblingness
 fumed
