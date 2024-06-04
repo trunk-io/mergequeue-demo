@@ -2770,7 +2770,6 @@ canones
 cardooer
 canonesses
 canonic
-canonical
 cortically
 canonicalization
 cultivable
@@ -30717,6 +30716,7 @@ congestions
 cuissard
 cuisse
 cuit
+canonical
 cuitlateco
 chloroauric
 creoleize
