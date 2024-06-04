@@ -6550,7 +6550,6 @@ donor
 demobilisation
 descensory
 descensories
-dilemi
 descent
 dekameter
 descents
@@ -8915,6 +8914,7 @@ diceboard
 dicebox
 debituminize
 dissemilative
+dilemi
 diced
 diceman
 dicentras
