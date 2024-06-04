@@ -4269,6 +4269,7 @@ adornos
 adorns
 arrivage
 attestation
+argentation
 automorph
 antiaircraft
 astichous
@@ -19494,7 +19495,6 @@ argentan
 argentarii
 acephalite
 argentate
-argentation
 aseptify
 argenteous
 albolite
