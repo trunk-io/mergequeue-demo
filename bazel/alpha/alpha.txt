@@ -5003,6 +5003,7 @@ aeromechanics
 aeromedical
 aerometeorograph
 aerometer
+autonomously
 aerometry
 abluted
 agenizes
@@ -21602,7 +21603,6 @@ asprout
 amani
 antu
 anamniote
-autonomously
 aristoi
 algolagnist
 asquare
