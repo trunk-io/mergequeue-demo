@@ -3849,7 +3849,6 @@ fatbirds
 faintheart
 flankwise
 fract
-florigenic
 fimbriae
 formicary
 fimbrial
@@ -10836,6 +10835,7 @@ fraken
 fulfilment
 fluoresce
 fashionably
+florigenic
 fusel
 freshener
 furfuration
