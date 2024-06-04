@@ -9462,6 +9462,7 @@ allodies
 altarpieces
 altars
 armbone
+anemones
 altarwise
 altazimuth
 alter
@@ -12511,7 +12512,6 @@ anglemeter
 anticreator
 avidities
 anemonella
-anemones
 albuminiform
 anemony
 anguillidae
