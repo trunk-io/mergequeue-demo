@@ -81,6 +81,7 @@ fermentations
 flocklike
 filching
 fisticuffs
+felinities
 faces
 facesaving
 flattening
@@ -2123,7 +2124,6 @@ filii
 foredefine
 fesapo
 flagpoles
-felinities
 firmers
 fraghan
 fell

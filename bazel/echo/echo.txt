@@ -414,7 +414,6 @@ empoisons
 ebulliometer
 exacerbation
 ergometer
-encharged
 ebullioscopy
 ebullioscopic
 epaxially
@@ -6688,6 +6687,7 @@ enterosepsis
 ebracteolate
 enterotome
 elegiacal
+encharged
 empyreumatic
 enright
 enterotoxemia
