@@ -4563,7 +4563,6 @@ adverbiation
 adverbs
 adversa
 adversant
-adversariness
 adversatively
 ambushed
 attomy
@@ -22733,6 +22732,7 @@ atlaslike
 amplificator
 atlatls
 atloaxoid
+adversariness
 atloid
 atloidean
 atloidoaxoid
