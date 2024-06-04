@@ -14271,6 +14271,7 @@ clochan
 cardioneural
 circulant
 circular
+colistins
 cryalgesia
 circularisation
 circularised
@@ -18934,7 +18935,6 @@ coliseum
 cestoid
 colistin
 coypou
-colistins
 colitic
 colitises
 colitoxemia
