@@ -54,6 +54,7 @@ guardian
 gelatiniser
 glendover
 gammarus
+gollar
 gableboard
 gangue
 gabler
@@ -7088,7 +7089,6 @@ gachupin
 graith
 gaumy
 gercrow
-gollar
 gooselike
 glider
 galyac
