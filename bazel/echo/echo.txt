@@ -5243,7 +5243,6 @@ esphresis
 endopoditic
 euphonium
 endopods
-endopolyploidy
 epistolarily
 endoprocta
 extumescence
@@ -10635,6 +10634,7 @@ enhalos
 elvis
 euchres
 endboard
+endopolyploidy
 eckehart
 ethmose
 erotomania
