@@ -3781,7 +3781,6 @@ adiadochokinesis
 adiadokokinesia
 adiagnostic
 adiamorphic
-amarantite
 adiantiform
 adeniform
 adiaphon
@@ -21525,6 +21524,7 @@ asphyxias
 anatomist
 auxoaction
 asphyxiated
+amarantite
 antimythic
 asphyxiating
 asphyxiation
