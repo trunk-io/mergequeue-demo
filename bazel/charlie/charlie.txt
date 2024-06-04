@@ -20335,7 +20335,6 @@ communal
 coccineous
 chitin
 communalise
-communaliser
 communalism
 communalistic
 confederacies
@@ -24056,6 +24055,7 @@ consignor
 chamaesiphon
 convenances
 convene
+communaliser
 convened
 convener
 counterexcommunication
