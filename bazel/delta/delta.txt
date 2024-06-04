@@ -1582,7 +1582,6 @@ demanders
 dolldom
 disembody
 dorsabdominally
-deadlock
 deadlocking
 distiller
 dipus
@@ -16883,6 +16882,7 @@ dispersible
 divergingly
 demicaponier
 dribbet
+deadlock
 dinoceratid
 drawtongs
 defortify
