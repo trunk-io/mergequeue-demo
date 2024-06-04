@@ -275,7 +275,6 @@ brumbies
 backage
 backare
 burdensomeness
-backarrow
 busying
 barefisted
 bourgeoises
@@ -9424,6 +9423,7 @@ birchen
 birchers
 bewater
 bathroom
+backarrow
 birchwood
 bindweb
 brindle
