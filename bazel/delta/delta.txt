@@ -7139,7 +7139,6 @@ disambiguated
 diagnostic
 destruct
 destructibility
-devitaminize
 dicoccous
 destruction
 dividual
@@ -14465,6 +14464,7 @@ deckhouse
 degauss
 demonstrationists
 divi
+devitaminize
 douter
 dividable
 duumvirate
