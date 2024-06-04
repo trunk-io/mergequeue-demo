@@ -6575,6 +6575,7 @@ enorthotrope
 emplastra
 enterfeat
 enthrallments
+electricity
 enteria
 enwind
 elaterid
@@ -8790,7 +8791,6 @@ electrocystoscope
 ektexines
 equivalved
 emmergoose
-electricity
 eogaean
 equivalvular
 encinas
