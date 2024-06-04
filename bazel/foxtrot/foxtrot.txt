@@ -4156,7 +4156,6 @@ flagstones
 fireburn
 flickertail
 fibrocaseous
-featherwork
 fadedness
 federals
 ferfathmur
@@ -11270,6 +11269,7 @@ flit
 fingerflower
 forpine
 famble
+featherwork
 funneled
 funneling
 flattie
