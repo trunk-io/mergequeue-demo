@@ -13334,6 +13334,7 @@ anisomeles
 accentuator
 anisomeric
 anisomerous
+autosome
 arraignability
 apoturmeric
 anisometric
@@ -24402,7 +24403,6 @@ autosomal
 autosomally
 arbalo
 anthrax
-autosome
 autosomes
 astoundable
 antimiscegenation

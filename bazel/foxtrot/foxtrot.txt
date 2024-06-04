@@ -2208,7 +2208,6 @@ forestate
 felspath
 framers
 forewinning
-fust
 felt
 felter
 feltyflier
@@ -11657,6 +11656,7 @@ fumigating
 feathery
 fusure
 fibropapilloma
+fust
 festoon
 furfural
 furbishing
