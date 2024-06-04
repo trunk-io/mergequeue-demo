@@ -2426,7 +2426,6 @@ events
 ellipsoids
 eskar
 empetraceous
-electrodialitic
 ethnarchies
 ecclesiastic
 eusol
@@ -8622,6 +8621,7 @@ essoiner
 eburnification
 equibalance
 equibalanced
+electrodialitic
 equibiradiate
 ensouling
 equicaloric
