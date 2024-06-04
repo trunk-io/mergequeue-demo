@@ -4637,7 +4637,6 @@ glottochronology
 gibbing
 greegree
 girdles
-gonococcic
 girds
 graminous
 gyred
@@ -5231,6 +5230,7 @@ genipap
 gld
 glead
 gleam
+gonococcic
 greathearted
 gametogony
 guzzler
