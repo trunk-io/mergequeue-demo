@@ -16393,7 +16393,6 @@ clypeiform
 clypeola
 clypeolar
 clypeus
-collapsible
 clippable
 clipped
 clippers
@@ -20724,6 +20723,7 @@ cottierism
 complecting
 complection
 complects
+collapsible
 converser
 complemental
 complementalness
