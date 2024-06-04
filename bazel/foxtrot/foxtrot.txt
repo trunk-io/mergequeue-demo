@@ -5859,7 +5859,6 @@ festine
 fecund
 feague
 fangas
-fossick
 flocculator
 flinted
 flocculent
@@ -7428,6 +7427,7 @@ forcipressure
 fishhook
 frigidoreceptor
 foy
+fossick
 feinschmecker
 forcipulate
 feminine
