@@ -3029,7 +3029,6 @@ fallway
 fadings
 forsake
 fleshiness
-fossors
 fgrid
 floorshift
 frothing
@@ -10860,6 +10859,7 @@ ferriage
 fantasizing
 felid
 footholds
+fossors
 fluidisation
 fungused
 fishable
