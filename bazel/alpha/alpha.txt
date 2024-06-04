@@ -7399,7 +7399,6 @@ albert
 albertin
 albertine
 albertype
-arabic
 albertist
 albertite
 ancre
@@ -20608,6 +20607,7 @@ arthritis
 arthrobacterium
 aborsive
 appendixes
+arabic
 acidulates
 archaeohippus
 arthrocleisis
