@@ -5084,6 +5084,7 @@ froom
 flatlands
 fiberized
 flavoprotein
+funebrous
 fatigued
 flatlings
 fjords
@@ -10361,7 +10362,6 @@ frontbencher
 frontcourt
 flying
 fortune
-funebrous
 feracities
 fowage
 frontierless
