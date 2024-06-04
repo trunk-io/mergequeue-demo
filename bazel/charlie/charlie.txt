@@ -8911,7 +8911,6 @@ conceptualisation
 chaptalize
 chapter
 chapteral
-colorize
 chapterhouse
 chapters
 chaptrel
@@ -30999,6 +30998,7 @@ cummock
 cumol
 calescence
 cumquat
+colorize
 caprocks
 confessionalian
 cumsha
