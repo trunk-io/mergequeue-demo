@@ -1780,7 +1780,6 @@ blends
 baltimore
 barandos
 bumblebeefishes
-baculums
 balu
 baluba
 breek
@@ -17644,6 +17643,7 @@ burglarizing
 bradykinetic
 backster
 burglarproofed
+baculums
 burglarproofing
 baikerite
 barricadoing
