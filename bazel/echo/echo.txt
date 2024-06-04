@@ -3539,7 +3539,6 @@ equilibrize
 embole
 embolectomy
 enicuridae
-entrecotes
 embolemia
 emboli
 emboly
@@ -8456,6 +8455,7 @@ extravagantes
 eardrum
 erodible
 endodermic
+entrecotes
 epizoal
 epizoic
 epizoisms
