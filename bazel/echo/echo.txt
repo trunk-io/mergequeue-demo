@@ -8945,7 +8945,6 @@ erg
 esthetician
 ergane
 ergastic
-ergastoplasm
 enticement
 ergastulum
 ethologically
@@ -11631,6 +11630,7 @@ exactable
 epexegesis
 exactas
 exacted
+ergastoplasm
 elaterite
 epileptogenic
 exacter
