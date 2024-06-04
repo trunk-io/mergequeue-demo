@@ -7800,7 +7800,6 @@ etymologies
 enthraller
 epidiorthosis
 epidiplosis
-empyemas
 euphorbiaceae
 epiblemata
 epidote
@@ -9626,6 +9625,7 @@ earls
 extrajudicial
 epionychium
 electrophori
+empyemas
 eskualdun
 exodermal
 ergatandry
