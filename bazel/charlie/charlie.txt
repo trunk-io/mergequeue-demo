@@ -6625,7 +6625,6 @@ cecograph
 cecomorphae
 cecomorphic
 cecopexy
-cecostomy
 carders
 cecrops
 codifier
@@ -22495,6 +22494,7 @@ coniology
 coniomycetes
 coannexing
 corycavamine
+cecostomy
 constrictions
 confarreation
 cophasal
