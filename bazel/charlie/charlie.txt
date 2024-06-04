@@ -12586,7 +12586,6 @@ chromophilic
 chromophobia
 chromophobic
 chromophore
-chromophoric
 chromophorous
 chromophotograph
 chromophotography
@@ -15696,6 +15695,7 @@ classicality
 crannoges
 classicalness
 classicise
+chromophoric
 classicism
 classicist
 classicists
