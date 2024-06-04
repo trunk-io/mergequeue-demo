@@ -2686,7 +2686,6 @@ electrostriction
 elinvar
 expectant
 electrosurgery
-enfirm
 epididymovasostomy
 elaeocarpaceous
 eleutherodactyli
@@ -5409,6 +5408,7 @@ endshake
 exploration
 elfishly
 enduing
+enfirm
 epipedometry
 eaglelike
 eparchate
