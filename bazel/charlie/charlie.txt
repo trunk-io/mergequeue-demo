@@ -7942,7 +7942,6 @@ cespititous
 cespitosely
 cespitulose
 cess
-capacitances
 cessant
 cessantly
 cessative
@@ -12609,6 +12608,7 @@ chromoptometrical
 chromos
 coadjacency
 chromoscopy
+capacitances
 chromosomally
 condensate
 chromosomes
