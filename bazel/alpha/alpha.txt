@@ -4210,6 +4210,7 @@ adoptable
 adoptant
 adjag
 appleberry
+apoapsis
 armorers
 abruptiones
 amalgamable
@@ -17110,7 +17111,6 @@ autodidacts
 adiaphoretic
 aldehydase
 ayahausca
-apoapsis
 apoatropine
 apobiotic
 alodia
