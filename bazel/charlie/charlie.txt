@@ -5493,6 +5493,7 @@ catpipe
 conductances
 cellar
 casuistries
+cathodoluminescence
 casule
 casus
 cat
@@ -6004,7 +6005,6 @@ cathodical
 cathodically
 cathodograph
 cathodography
-cathodoluminescence
 cathograph
 crackback
 celia
