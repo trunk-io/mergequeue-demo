@@ -4354,7 +4354,6 @@ belly
 bonaci
 bridges
 burlers
-beaver
 bluewood
 burgonet
 beaverism
@@ -4808,6 +4807,7 @@ bypasses
 bedquilts
 bedrabbling
 bauds
+beaver
 bedraggled
 bisulcate
 bogway
