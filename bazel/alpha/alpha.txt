@@ -551,7 +551,6 @@ ashlers
 abn
 abnaki
 abnegates
-abnegative
 abnegator
 abnegators
 anatomicopathological
@@ -10966,6 +10965,7 @@ amoraim
 amoral
 anemometry
 amoralist
+abnegative
 amorally
 alieners
 amoret
