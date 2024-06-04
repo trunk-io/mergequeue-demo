@@ -10279,7 +10279,6 @@ chiasmatic
 chiasmatype
 counterformula
 chiasmic
-chiasmodontid
 chiasms
 chiasmus
 chiastic
@@ -15799,6 +15798,7 @@ candidature
 clausula
 clausulae
 clausular
+chiasmodontid
 clausule
 cheekily
 clausure
