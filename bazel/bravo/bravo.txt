@@ -4823,6 +4823,7 @@ bedright
 bhalu
 barque
 bedrip
+billfold
 brainish
 balsawood
 barbarize
@@ -8638,7 +8639,6 @@ baned
 brevetcies
 birminghamize
 bumble
-billfold
 byliner
 bylines
 bilinguality
