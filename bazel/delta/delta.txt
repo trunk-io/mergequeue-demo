@@ -2698,7 +2698,6 @@ dadaist
 decompiler
 decomposability
 decomposable
-decompose
 deviceful
 dimmy
 decomposer
@@ -7672,6 +7671,7 @@ devel
 develing
 develop
 developable
+decompose
 developed
 defervescence
 developedness
