@@ -1058,7 +1058,6 @@ bailieship
 bailiff
 biogeographic
 bailiffs
-ballow
 bailing
 busway
 basanite
@@ -16728,6 +16727,7 @@ buckshee
 buckshees
 bourgeoise
 buckstone
+ballow
 bedfoot
 bucktooth
 bucktoothed
