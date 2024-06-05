@@ -4252,6 +4252,7 @@ gymnospore
 grandfather
 gnathopod
 glotum
+greying
 ges
 gan
 gymnostomata
@@ -8799,7 +8800,6 @@ ganglioside
 greyiaceae
 gadbush
 guanos
-greying
 greylag
 greylags
 gesten
