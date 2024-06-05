@@ -11164,6 +11164,7 @@ disbandment
 disbandments
 disbands
 disagglomeration
+depopulate
 disbar
 dehydrant
 drubbings
@@ -14802,7 +14803,6 @@ dominica
 dockman
 dolors
 diazotizable
-depopulate
 docks
 digenous
 dockside
