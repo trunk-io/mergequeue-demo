@@ -3542,7 +3542,6 @@ embolectomy
 enicuridae
 embolemia
 emboli
-emboly
 emboliform
 engraphy
 epipodialia
@@ -6066,6 +6065,7 @@ ellan
 exulcerative
 enlister
 enlive
+emboly
 euectic
 enliven
 encomiums
