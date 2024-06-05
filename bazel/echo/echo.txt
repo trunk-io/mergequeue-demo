@@ -102,7 +102,6 @@ ecotone
 encrownment
 enumerate
 earphone
-equijacent
 earpick
 earpiece
 enchisel
@@ -6290,6 +6289,7 @@ enrolls
 eumycetes
 enroot
 enroots
+equijacent
 embowed
 encirclement
 enrut
