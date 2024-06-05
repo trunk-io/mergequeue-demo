@@ -3801,7 +3801,6 @@ booklet
 battlefronts
 battlegrounds
 bringall
-barway
 bifollicular
 battlement
 barnstorms
@@ -9784,6 +9783,7 @@ bismuthinite
 bismuthous
 belfried
 busking
+barway
 beringed
 bismutosphaerite
 bisnaga
