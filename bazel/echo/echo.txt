@@ -531,7 +531,6 @@ egilops
 eelpot
 electrodispersive
 echinidan
-echinidea
 emmets
 expy
 electronographic
@@ -2926,6 +2925,7 @@ epinard
 eponymous
 elfins
 elfinwood
+echinidea
 emotionalist
 engrailment
 equivalently
