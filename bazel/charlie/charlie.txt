@@ -13757,6 +13757,7 @@ cimicidae
 cimicide
 cimiciform
 cimicifuga
+compressure
 cimicifugin
 cimicoid
 conformableness
@@ -20988,7 +20989,6 @@ compressive
 compressively
 compressometer
 compressors
-compressure
 comprest
 compriest
 causatively
