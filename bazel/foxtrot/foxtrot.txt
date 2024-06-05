@@ -402,7 +402,6 @@ forborn
 ferrymen
 fearer
 filicauline
-faintness
 fainted
 feltings
 forkers
@@ -3758,6 +3757,7 @@ filmcard
 filmcards
 filmdom
 fluxing
+faintness
 filmer
 fibrocystic
 ferret
