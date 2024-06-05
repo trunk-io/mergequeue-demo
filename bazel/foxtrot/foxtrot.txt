@@ -606,6 +606,7 @@ fuzzy
 foreknows
 falsary
 falsehearted
+farthest
 fade
 forage
 flowerfly
@@ -2922,7 +2923,6 @@ foxship
 fuzz
 frabjously
 fractioning
-farthest
 fettlings
 faintingly
 freighted
