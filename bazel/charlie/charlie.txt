@@ -12519,7 +12519,6 @@ courtroom
 chromium
 chromiums
 ceraunomancy
-clerisy
 colder
 chromize
 cyanopsia
@@ -29412,6 +29411,7 @@ crispbread
 circassian
 crispened
 crispening
+clerisy
 crispens
 crisper
 coelomocoela
