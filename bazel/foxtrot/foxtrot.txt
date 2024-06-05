@@ -4911,6 +4911,7 @@ formulize
 fineleaf
 fictileness
 flamer
+ferric
 flamers
 flubbing
 fallback
@@ -8519,7 +8520,6 @@ forgainst
 fletch
 formulator
 fontinal
-ferric
 formulisation
 friaries
 flinchers
