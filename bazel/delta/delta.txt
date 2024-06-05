@@ -8466,7 +8466,6 @@ deliveror
 diallists
 dialog
 downsize
-dialoger
 dialogers
 dialogged
 dialogic
@@ -17067,6 +17066,7 @@ dactyliographer
 decorated
 denouncing
 dendrodus
+dialoger
 dribbles
 darlingly
 dragnets
