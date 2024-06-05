@@ -2476,7 +2476,6 @@ borderside
 bareboats
 bummalo
 barrener
-bareboned
 bemuffle
 bareca
 barefaced
@@ -8207,6 +8206,7 @@ bidactylous
 biotics
 biddability
 biddably
+bareboned
 bdle
 blackit
 bendaying
