@@ -2560,6 +2560,7 @@ endocritic
 electrometallurgy
 electrometallurgist
 ennead
+elision
 electrometer
 enage
 earthgrubber
@@ -6939,7 +6940,6 @@ exarchal
 emblema
 engenderer
 elasticize
-elision
 experienced
 electrovital
 ephoric
