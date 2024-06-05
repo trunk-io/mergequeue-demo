@@ -2536,6 +2536,7 @@ declaim
 dichorisandra
 dresser
 declaimer
+dourade
 declaims
 danize
 declamando
@@ -11103,7 +11104,6 @@ disarticulating
 disarticulation
 disarticulator
 disasinize
-dourade
 deliciously
 disassembler
 descriptors
