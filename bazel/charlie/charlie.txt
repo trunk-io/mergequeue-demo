@@ -1374,7 +1374,6 @@ caligulism
 calili
 calimanco
 calymene
-corrosionproof
 calimeris
 calymma
 calin
@@ -9319,6 +9318,7 @@ chatelaine
 chatelaines
 chatelainry
 chatelains
+corrosionproof
 conceive
 chatellany
 chathamites
