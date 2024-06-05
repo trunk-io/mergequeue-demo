@@ -1062,6 +1062,7 @@ bailiffs
 ballow
 bailing
 busway
+basanite
 boroughmaster
 bailiwick
 beaconed
@@ -16116,7 +16117,6 @@ brailler
 broomshank
 broomstick
 blotting
-basanite
 broomsticks
 broomstraw
 bisannual
