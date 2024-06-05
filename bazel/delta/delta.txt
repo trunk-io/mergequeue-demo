@@ -6396,7 +6396,6 @@ dermobranchiata
 dovetailed
 derout
 dermobranchiate
-dermococcus
 dialyzator
 diagrammatical
 dermogastric
@@ -11596,6 +11595,7 @@ densus
 disconnecter
 defections
 diphead
+dermococcus
 debitrix
 disconnecting
 disconnection
