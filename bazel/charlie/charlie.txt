@@ -3994,6 +3994,7 @@ corroborees
 carcinomatoid
 carcinomatosis
 carpetweed
+cellophane
 cholers
 cornhusk
 carcinomatous
@@ -6844,7 +6845,6 @@ celloid
 colubrids
 cathodofluorescence
 celloidin
-cellophane
 constative
 cellose
 cells
