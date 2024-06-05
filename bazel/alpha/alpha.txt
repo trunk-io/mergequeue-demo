@@ -7377,7 +7377,6 @@ alligation
 agrostographic
 albatros
 africander
-axlike
 albe
 awmbrie
 ariole
@@ -23599,6 +23598,7 @@ auriculovertical
 auride
 auriferous
 appreciational
+axlike
 aurify
 agrypnias
 aurific
