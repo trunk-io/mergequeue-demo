@@ -2635,6 +2635,7 @@ greige
 generate
 generated
 gomerel
+glessite
 generations
 generative
 generators
@@ -7704,7 +7705,6 @@ grenadier
 gynecicgynecidal
 geography
 gunbarrel
-glessite
 graffias
 graffiti
 grossulariaceae
