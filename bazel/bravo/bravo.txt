@@ -2945,7 +2945,6 @@ barrelled
 baetylic
 brattle
 barrelmaker
-barrelmaking
 brassavola
 barrelwise
 barren
@@ -15294,6 +15293,7 @@ bluehead
 bedstaves
 briered
 brainwasher
+barrelmaking
 brierroot
 balantidiosis
 bonnetless
