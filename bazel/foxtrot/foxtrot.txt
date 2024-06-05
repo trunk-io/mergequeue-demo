@@ -1539,6 +1539,7 @@ focusers
 footplate
 filmmaking
 faun
+frimaire
 foulards
 ferreiro
 fluorate
@@ -5660,7 +5661,6 @@ flyovers
 flype
 feodaries
 freezers
-frimaire
 federalizing
 faultfinder
 flipjack
