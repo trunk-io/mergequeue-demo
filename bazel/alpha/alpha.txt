@@ -17537,7 +17537,6 @@ arbitrement
 applot
 apantesis
 airship
-apothegmatical
 apothegmatically
 apothegmatist
 atriensis
@@ -23431,6 +23430,7 @@ augurous
 augurs
 august
 augustal
+apothegmatical
 augustan
 antidemocracy
 anapophyses
