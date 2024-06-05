@@ -3627,7 +3627,6 @@ dehwar
 defuze
 dolman
 dumbcow
-defuzed
 dakoities
 defuzes
 defuzing
@@ -12088,6 +12087,7 @@ deplaceable
 disentrail
 disentrainment
 disentrance
+defuzed
 disrank
 dojiggy
 disregardful
