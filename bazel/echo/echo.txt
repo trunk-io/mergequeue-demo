@@ -7394,7 +7394,6 @@ eparterial
 endymal
 epaule
 epaulement
-electropoion
 epauleted
 electrologic
 enterostomy
@@ -13942,6 +13941,7 @@ endokaryogamy
 enwound
 eyrar
 epiloguing
+electropoion
 extraparochial
 extraparochially
 equicurve
