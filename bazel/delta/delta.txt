@@ -9253,6 +9253,7 @@ dyeleaves
 dielectric
 depender
 devolve
+disilicate
 discontinuor
 debarkation
 discolour
@@ -12445,7 +12446,6 @@ dysidrosis
 disilicane
 distention
 dancette
-disilicate
 defy
 dovetails
 disilicide
