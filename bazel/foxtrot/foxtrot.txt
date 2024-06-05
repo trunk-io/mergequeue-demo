@@ -2057,7 +2057,6 @@ feudary
 facedown
 faucalize
 flannelboard
-flub
 frenches
 feinting
 flan
@@ -11731,6 +11730,7 @@ futurology
 figurational
 futurologist
 futurologists
+flub
 filibustered
 futwa
 fuzed
