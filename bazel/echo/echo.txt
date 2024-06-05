@@ -2814,6 +2814,7 @@ elementalize
 elementally
 elementaloid
 essang
+equipartile
 eluded
 evasive
 elementarily
@@ -9724,7 +9725,6 @@ esp
 espace
 eparchial
 espacement
-equipartile
 espada
 espriella
 enlarging
