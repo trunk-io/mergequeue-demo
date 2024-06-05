@@ -8974,6 +8974,7 @@ crosshead
 characterologically
 codeins
 characters
+companiable
 charadrii
 charadriiform
 charadriiformes
@@ -20486,7 +20487,6 @@ counterword
 cerebroma
 cannels
 company
-companiable
 companias
 connie
 companied
