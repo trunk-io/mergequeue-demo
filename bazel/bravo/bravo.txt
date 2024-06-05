@@ -4617,6 +4617,7 @@ blastodisk
 bed
 bater
 bool
+blotters
 bedabble
 beagles
 bedabbling
@@ -11299,7 +11300,6 @@ beaker
 boder
 brazenness
 blotter
-blotters
 bahima
 bezels
 bisilicate
