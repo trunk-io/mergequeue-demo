@@ -805,7 +805,6 @@ ecphonema
 ecphore
 ecphoria
 emotes
-emergences
 euomphalid
 ecrase
 enclitic
@@ -2285,6 +2284,7 @@ exhume
 expostulator
 elks
 electorally
+emergences
 expatriation
 encyclopedian
 elephanta
