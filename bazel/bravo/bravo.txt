@@ -7349,6 +7349,7 @@ bestsellers
 broidered
 blackacre
 braker
+behaves
 bestselling
 bestubbled
 bestuck
@@ -9275,7 +9276,6 @@ bathysmal
 bowl
 botanists
 becalmment
-behaves
 biotelemetries
 biotical
 beguilingness
