@@ -5484,7 +5484,6 @@ ecclesiology
 energumenon
 environ
 enervate
-enervates
 enervating
 encake
 excitate
@@ -6384,6 +6383,7 @@ ensign
 electroplaque
 ensignry
 ensilages
+enervates
 episcopal
 ensilation
 ensile
