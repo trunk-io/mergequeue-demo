@@ -8764,7 +8764,6 @@ arachidonic
 allhallows
 allhallowtide
 allheals
-ally
 acestoma
 alliage
 alliance
@@ -22902,6 +22901,7 @@ atrickle
 antiquarium
 atriocoelomic
 atriopore
+ally
 atrip
 atrypa
 asthenopic
