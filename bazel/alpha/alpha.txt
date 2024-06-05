@@ -1126,7 +1126,6 @@ assertible
 abutments
 abuttal
 abuttals
-abutter
 abutters
 abuzz
 anodendron
@@ -19058,6 +19057,7 @@ autosymbiontic
 archisymbolical
 angiomyocardiac
 archisynagogue
+abutter
 archispermae
 archistome
 achyranthes
