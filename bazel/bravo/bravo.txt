@@ -3800,6 +3800,7 @@ battings
 battledores
 baldly
 barotraumata
+booklet
 battlefronts
 battlegrounds
 bringall
@@ -12775,7 +12776,6 @@ breviate
 brunches
 buoyancies
 booklear
-booklet
 booklets
 broomy
 bookling
