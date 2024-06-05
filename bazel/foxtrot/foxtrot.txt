@@ -2909,7 +2909,6 @@ foliages
 fisty
 figworm
 fungid
-flunkeyize
 fortuned
 fettered
 fleme
@@ -10690,6 +10689,7 @@ flitchplate
 fractionated
 featheriest
 fibriform
+flunkeyize
 frumenty
 frumenties
 frump
