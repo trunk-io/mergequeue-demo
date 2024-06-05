@@ -7504,7 +7504,6 @@ betowered
 betrayed
 bequeathment
 bimarginate
-beknit
 bedgown
 betrayers
 broodlet
@@ -18145,6 +18144,7 @@ bods
 boisseaux
 bacillite
 butylated
+beknit
 birsle
 butylates
 ballant
