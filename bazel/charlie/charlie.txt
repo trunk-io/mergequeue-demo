@@ -24028,7 +24028,6 @@ caproyl
 chrisroot
 convey
 comps
-conveyance
 conveyances
 conveyed
 coonskins
@@ -30786,6 +30785,7 @@ cully
 cullibility
 cullible
 cullies
+conveyance
 clarigold
 cullying
 cullion
