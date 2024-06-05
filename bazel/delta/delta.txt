@@ -6386,7 +6386,6 @@ delint
 daltonism
 dermis
 dermises
-decimalised
 dryopteris
 downs
 dermoblast
@@ -13025,6 +13024,7 @@ dispathy
 dispending
 diamorphosis
 discocarpium
+decimalised
 daulias
 dispauperize
 dispeaceful
