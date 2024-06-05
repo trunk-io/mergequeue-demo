@@ -1854,7 +1854,6 @@ banco
 bonhomie
 bipunctate
 bullose
-burgul
 bakunda
 bialystoker
 bandaged
@@ -5391,6 +5390,7 @@ bathmotropism
 baidar
 blackboys
 breviers
+burgul
 beglue
 blastomas
 beerage
