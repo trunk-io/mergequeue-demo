@@ -14208,7 +14208,6 @@ diswarn
 depopulated
 dangerous
 diswashing
-disweapon
 diswere
 demonifuge
 diswit
@@ -15765,6 +15764,7 @@ dialyzation
 dormancies
 dormer
 dammara
+disweapon
 dormers
 dormette
 dormeuse
