@@ -3642,7 +3642,6 @@ aracari
 accordature
 anarch
 adenologaditis
-adenology
 adenological
 adenomalacia
 argolet
@@ -25144,6 +25143,7 @@ axiom
 ambisyllabic
 axiomatical
 aspergil
+adenology
 arcade
 adiposis
 axiomatically
