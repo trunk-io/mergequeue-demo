@@ -3114,7 +3114,6 @@ actinotherapy
 actinotoxemia
 actinotrichium
 actinotrocha
-actinouranium
 actinozoa
 actinozoan
 actinozoon
@@ -8626,6 +8625,7 @@ allantoinase
 allantoinuria
 acetoxim
 allantoxaidin
+actinouranium
 allegorised
 allargando
 allasch
