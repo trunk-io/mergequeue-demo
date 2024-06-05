@@ -924,7 +924,6 @@ absolutory
 absolvatory
 alioth
 absolve
-absolved
 absolvent
 arteriotome
 absolves
@@ -9527,6 +9526,7 @@ alternisepalous
 alternity
 asininely
 alternize
+absolved
 alterocentric
 alters
 atamascos
