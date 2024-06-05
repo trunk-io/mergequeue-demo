@@ -1102,7 +1102,6 @@ faro
 floriken
 floter
 foredestining
-foremast
 farolito
 foveole
 flustration
@@ -11380,6 +11379,7 @@ fustinella
 fichus
 flattened
 furlong
+foremast
 forewind
 furlongs
 franchisement
