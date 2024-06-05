@@ -14825,7 +14825,6 @@ cariole
 cystose
 cardioschisis
 cystosyrinx
-cystospasm
 cystospastic
 cystospore
 cystostomy
@@ -23915,6 +23914,7 @@ contrite
 civiler
 contritely
 contriturate
+cystospasm
 contrivable
 combers
 compromisable
