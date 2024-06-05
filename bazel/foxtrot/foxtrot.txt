@@ -4153,7 +4153,6 @@ flagstones
 fireburn
 flickertail
 fibrocaseous
-fadedness
 federals
 ferfathmur
 flier
@@ -10270,6 +10269,7 @@ function
 flagginess
 fruticant
 fleshly
+fadedness
 fingian
 foundationed
 frogs
