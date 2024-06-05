@@ -1483,7 +1483,6 @@ apex
 acclaimers
 acclamator
 acclimatable
-acclimatation
 absinthian
 acclimatement
 acclimates
@@ -3140,6 +3139,7 @@ actionizing
 actionless
 arrectary
 actions
+acclimatation
 actipylea
 architraved
 activate
