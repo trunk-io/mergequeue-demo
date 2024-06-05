@@ -6514,6 +6514,7 @@ benzonaphthol
 benzonitrile
 benzonitrol
 benzophenone
+behedge
 benzophenothiazine
 benzophloroglucinol
 benzophthalazine
@@ -11403,7 +11404,6 @@ bludger
 besoothe
 blue
 benmost
-behedge
 bakeapple
 beguiled
 bluebeard
