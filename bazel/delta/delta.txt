@@ -2748,7 +2748,6 @@ dollish
 deconsecration
 deconsider
 deconsideration
-decontaminated
 decontaminates
 decontaminating
 diatessaron
@@ -11494,6 +11493,7 @@ discolors
 diosma
 dure
 discolouring
+decontaminated
 discolourization
 discombobulate
 differencing
