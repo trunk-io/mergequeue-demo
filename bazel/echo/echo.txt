@@ -8838,7 +8838,6 @@ erythrorrhexis
 eyeleting
 eradicable
 eradicant
-eradicate
 eradicated
 embossable
 enround
@@ -12827,6 +12826,7 @@ extenuated
 energised
 embossmen
 ephesine
+eradicate
 ecanda
 elinguated
 edgeways
