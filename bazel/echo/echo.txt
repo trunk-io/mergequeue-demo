@@ -2306,7 +2306,6 @@ espadrille
 encoach
 electricize
 entreater
-equidistantial
 electriferous
 energumen
 electrified
@@ -4287,6 +4286,7 @@ emulsion
 esotrope
 eremital
 emulsions
+equidistantial
 emacerated
 effluxes
 evertebrata
