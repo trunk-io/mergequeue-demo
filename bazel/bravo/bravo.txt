@@ -4318,7 +4318,6 @@ bulbonuclear
 billard
 blas
 beaujolais
-beaume
 beaumont
 beaupere
 beauseant
@@ -16904,6 +16903,7 @@ bugan
 brahm
 bugbane
 bliest
+beaume
 berreave
 bugbearish
 bugdom
