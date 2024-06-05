@@ -2246,6 +2246,7 @@ canaigre
 canaille
 canailles
 chargeship
+commonwealth
 canakin
 canakins
 canal
@@ -19754,7 +19755,6 @@ carbone
 combatting
 combe
 connoisseur
-commonwealth
 chowdering
 combfish
 comby
