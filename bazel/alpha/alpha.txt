@@ -13141,7 +13141,6 @@ assise
 anim
 anglians
 anima
-animability
 animable
 atrichia
 archaeopteris
@@ -18750,6 +18749,7 @@ archaic
 anisol
 apogaic
 available
+animability
 archaical
 aurified
 archaically
