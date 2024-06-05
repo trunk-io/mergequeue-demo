@@ -2447,7 +2447,6 @@ barding
 bardings
 becalms
 bridecup
-bardlet
 bardlike
 bardling
 bluestone
@@ -16614,6 +16613,7 @@ buccopharyngeal
 bucculae
 belvidere
 bucculatrix
+bardlet
 bulanda
 bucentur
 beseemingness
