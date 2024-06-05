@@ -6814,7 +6814,6 @@ foldy
 folding
 foraminiferan
 fikery
-foldout
 folds
 folgerite
 florula
@@ -11580,6 +11579,7 @@ furanoses
 flickered
 fusileer
 forpass
+foldout
 fcs
 flummery
 fusiliers
