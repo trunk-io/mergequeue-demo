@@ -149,7 +149,6 @@ chryseis
 cables
 cablese
 cablet
-cableway
 cocain
 cabling
 cablish
@@ -965,6 +964,7 @@ calamines
 confiscating
 calamining
 calamint
+cableway
 calamintha
 cowpeas
 calamistrate
