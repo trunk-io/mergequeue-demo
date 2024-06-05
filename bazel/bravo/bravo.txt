@@ -5985,7 +5985,6 @@ bretons
 butterbur
 bellwether
 betaines
-bellwood
 bellwort
 beloam
 belock
@@ -16433,6 +16432,7 @@ brumal
 bises
 bullhorn
 brushmaking
+bellwood
 brushmen
 boulle
 butterers
