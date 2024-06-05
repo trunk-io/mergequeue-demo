@@ -13927,6 +13927,7 @@ bowshot
 bowshots
 bowsprit
 bombarder
+burka
 baptisia
 bowstaff
 bowstring
@@ -17685,7 +17686,6 @@ burinist
 barrelfish
 bonsai
 brisket
-burka
 bellipotent
 burke
 burked
