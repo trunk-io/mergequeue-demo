@@ -397,6 +397,7 @@ fieldfight
 froes
 feldspathose
 forhoo
+foredate
 faintly
 forborn
 ferrymen
@@ -7027,7 +7028,6 @@ fontinas
 frontons
 fontlet
 feloness
-foredate
 fonts
 froisse
 ferinely
