@@ -5345,7 +5345,6 @@ afflicted
 antiegotist
 afflicter
 afflicting
-arenas
 afflictingly
 analgen
 afflictionless
@@ -15804,6 +15803,7 @@ anaesthesiologist
 antipathetic
 appropriative
 antipathetical
+arenas
 antipathetically
 anteflexed
 antipathic
