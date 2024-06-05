@@ -333,7 +333,6 @@ gelatins
 galactoma
 galactometer
 grilses
-gizzards
 geographically
 gleen
 gofers
@@ -8318,6 +8317,7 @@ gripsack
 gawby
 grasswidow
 gph
+gizzards
 grippes
 grata
 gunplay
