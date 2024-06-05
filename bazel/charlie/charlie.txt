@@ -3268,7 +3268,6 @@ coilers
 caplet
 caplin
 caplins
-cythera
 caplock
 coherald
 cordmaker
@@ -7512,6 +7511,7 @@ canvass
 counterlocking
 citified
 cerasein
+cythera
 cerebrophysiology
 cerastes
 cerasus
