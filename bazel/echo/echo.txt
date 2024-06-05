@@ -9150,7 +9150,6 @@ ethiopians
 erythrocytoschisis
 erythrocytosis
 erythrophage
-erythrodegenerative
 ephebeum
 erythrodermia
 embryogony
@@ -10665,6 +10664,7 @@ enzymolytic
 expensing
 eupolyzoa
 eucryphia
+erythrodegenerative
 exalter
 eucryphiaceous
 enterpriseless
