@@ -6363,6 +6363,7 @@ gobbler
 gid
 gobbles
 gobbling
+grappler
 gobelin
 gyrolite
 ginzoes
@@ -8246,7 +8247,6 @@ grassfinch
 girders
 gravelliness
 grapple
-grappler
 grapples
 gawks
 gallah
