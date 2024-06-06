@@ -3880,7 +3880,6 @@ gift
 giftbook
 greasy
 giftedly
-gobbin
 gigelira
 guttate
 gybe
@@ -8686,6 +8685,7 @@ glyptical
 greengroceries
 governess
 galeus
+gobbin
 greasily
 grabbled
 garages
