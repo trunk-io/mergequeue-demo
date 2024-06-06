@@ -3206,6 +3206,7 @@ bumph
 benzins
 baltis
 booklores
+bardism
 beauclerk
 bukat
 bolis
@@ -18170,7 +18171,6 @@ bacterioblast
 butyryls
 butyrin
 bajocian
-bardism
 bragging
 biogenase
 bechalk
