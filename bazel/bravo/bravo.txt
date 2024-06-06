@@ -6529,7 +6529,6 @@ benzothiofuran
 benzothiophene
 benzotrichloride
 buster
-benzotrifluoride
 bolection
 benzoxyacetic
 benzpinacone
@@ -17360,6 +17359,7 @@ bumtrap
 bumwood
 bun
 bore
+benzotrifluoride
 beladied
 bopyrus
 bilocation
