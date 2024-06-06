@@ -5542,7 +5542,6 @@ gliffy
 goujon
 glyptotherium
 glires
-golems
 gliridae
 glirine
 groundbreaker
@@ -6472,6 +6471,7 @@ goglet
 gamesomeness
 gogo
 gradiometer
+golems
 gamgia
 garston
 gohila
