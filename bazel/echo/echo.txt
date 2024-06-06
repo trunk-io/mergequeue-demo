@@ -3065,7 +3065,6 @@ ecumenicality
 embryonary
 elkanah
 epibolies
-enfuddle
 equitability
 essentialness
 elaidin
@@ -12797,6 +12796,7 @@ emblems
 encephalomere
 ensembles
 exospore
+enfuddle
 exossate
 expunger
 epeiridae

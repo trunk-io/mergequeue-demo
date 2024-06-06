@@ -2484,7 +2484,6 @@ driegh
 daysman
 dangering
 daker
-dependancy
 decimole
 denizenize
 designs
@@ -8347,6 +8346,7 @@ diagrammer
 disadvantageously
 diagrammers
 dissertationist
+dependancy
 desonation
 diagrammitically
 diagrams
