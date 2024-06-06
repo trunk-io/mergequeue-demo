@@ -7768,7 +7768,6 @@ devisability
 divertissant
 dram
 devisable
-devisal
 devise
 devised
 devisees
@@ -16205,6 +16204,7 @@ distributes
 dovened
 didrachmas
 drewite
+devisal
 dovening
 dovens
 dover
