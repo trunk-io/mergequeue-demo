@@ -9163,7 +9163,6 @@ animations
 alboranite
 almemar
 almemars
-almemor
 almendron
 abrazos
 ammino
@@ -15221,6 +15220,7 @@ antieducationalist
 assist
 antiapostle
 antieducationally
+almemor
 antiegotistic
 aceologic
 aviculidae
