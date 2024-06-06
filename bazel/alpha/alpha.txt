@@ -3414,7 +3414,6 @@ anchylosed
 addendum
 addendums
 adder
-adderbolt
 abridgment
 alhambresque
 adderspit
@@ -10792,6 +10791,7 @@ ammeos
 antisepalous
 apothecary
 ammer
+adderbolt
 ammeter
 ammeters
 aminogen
