@@ -14726,7 +14726,6 @@ attaching
 antiaquatic
 anaspidacea
 antiar
-antiarchi
 antiarin
 antilogarithm
 anthropomorphism
@@ -17537,6 +17536,7 @@ arbitrement
 applot
 apantesis
 airship
+antiarchi
 apothegmatically
 apothegmatist
 atriensis
