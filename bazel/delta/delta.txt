@@ -2161,7 +2161,6 @@ del
 ditheistic
 decapodan
 decapodiform
-dissective
 dehydroffrozen
 decapodous
 dorbug
@@ -18161,6 +18160,7 @@ dumpoke
 deltohedra
 doolie
 dumps
+dissective
 druidology
 dumsola
 dun
