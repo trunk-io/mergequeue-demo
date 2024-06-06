@@ -5013,6 +5013,7 @@ cartulary
 cartularies
 carapache
 cartware
+clotheshorse
 chilicothe
 cartwheel
 catarrhine
@@ -7688,7 +7689,6 @@ cassumuniar
 cerebron
 camas
 cerebronic
-clotheshorse
 cerebroparietal
 cerebropedal
 cerebropsychosis
