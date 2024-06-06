@@ -6760,7 +6760,6 @@ barcas
 bead
 broughtas
 bhaktis
-buntings
 buscarle
 berytidae
 beryx
@@ -11410,6 +11409,7 @@ bakeapple
 beguiled
 bluebeard
 buff
+buntings
 bluebell
 belve
 bluebelled
