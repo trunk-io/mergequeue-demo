@@ -15677,6 +15677,7 @@ claspt
 coinclude
 chelydridae
 classable
+coplanarity
 chiromantical
 classbook
 classed
@@ -24700,7 +24701,6 @@ causticizing
 copywriting
 coplaintiff
 coplanar
-coplanarity
 coplanarities
 copleased
 coplot
