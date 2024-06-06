@@ -12531,7 +12531,6 @@ clavatin
 chromizes
 chromizing
 caswellite
-chromobacterieae
 cagmag
 chromoblast
 chromocyte
@@ -19441,6 +19440,7 @@ cycadlike
 coloraturas
 colorature
 colorblind
+chromobacterieae
 colorblindness
 colorbreed
 colorcast

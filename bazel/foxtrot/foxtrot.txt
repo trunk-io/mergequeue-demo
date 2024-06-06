@@ -6387,7 +6387,6 @@ foredooms
 frogspawn
 fanit
 fluorhydric
-fluoric
 fecundatory
 formularization
 fluoridation
@@ -11585,6 +11584,7 @@ flummery
 fusiliers
 forthbringing
 faucet
+fluoric
 feu
 fusilladed
 fetterless
