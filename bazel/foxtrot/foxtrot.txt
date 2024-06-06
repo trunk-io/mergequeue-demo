@@ -848,7 +848,6 @@ forechamber
 flemings
 formulism
 fanlights
-forecover
 fanmaking
 foveolarious
 forsakers
@@ -6528,6 +6527,7 @@ flutter
 firebed
 flutterable
 facultative
+forecover
 flutterboard
 fluttered
 furnacer
