@@ -9695,7 +9695,6 @@ alur
 alurgite
 alushtite
 alvah
-arabize
 autoaddress
 alvan
 alvar
@@ -22136,6 +22135,7 @@ assubjugate
 astian
 astyanax
 astigmat
+arabize
 aeroneurosis
 anachronically
 astigmatic
