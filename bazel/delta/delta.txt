@@ -1554,7 +1554,6 @@ deactivation
 deactivators
 distressedness
 doublure
-deeryards
 deadlier
 deaden
 droops
@@ -15206,6 +15205,7 @@ directory
 dolefish
 dolefully
 detainment
+deeryards
 dolefulness
 denigrators
 deathfulness
