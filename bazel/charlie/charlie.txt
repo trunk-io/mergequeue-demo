@@ -12,6 +12,7 @@ cabaho
 cabal
 condylarthrous
 cryptostoma
+chevance
 chaenomeles
 corkmaking
 cabaletta
@@ -10542,7 +10543,6 @@ coronally
 childhood
 caph
 chromatocyte
-chevance
 childish
 cogeneric
 cremating
