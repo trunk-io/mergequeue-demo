@@ -5964,7 +5964,6 @@ bellowsful
 befilch
 beride
 bellowslike
-belted
 bellowsmaking
 bellpull
 burhead
@@ -9120,6 +9119,7 @@ bioherms
 bronzen
 bioinstrument
 biolinguistics
+belted
 biolyses
 beneficium
 bludgeoneer
