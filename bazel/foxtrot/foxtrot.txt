@@ -5419,7 +5419,6 @@ formatters
 fanjets
 furfuran
 fleshliest
-fele
 fleshliness
 fw
 fiddleneck
@@ -10852,6 +10851,7 @@ ferriage
 fantasizing
 felid
 footholds
+fele
 fossors
 fluidisation
 fungused
