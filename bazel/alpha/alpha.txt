@@ -11982,7 +11982,6 @@ ariettas
 anaptychus
 anaptyctic
 antecloset
-anaptomorphidae
 anaptomorphus
 anaptotic
 anarcestes
@@ -15523,6 +15522,7 @@ antimediaevalist
 antimediaevally
 antimedical
 antimedicine
+anaptomorphidae
 antimedieval
 antimedievalism
 antimedievalist
