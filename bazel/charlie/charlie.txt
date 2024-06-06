@@ -3774,7 +3774,6 @@ carbinol
 carbinols
 commensality
 carboazotine
-carbocyclic
 conrail
 carpidium
 carbodynamite
@@ -3996,6 +3995,7 @@ carcinological
 carcinologist
 carcinoma
 carcinomas
+carbocyclic
 creameryman
 carcinomata
 corroborees
