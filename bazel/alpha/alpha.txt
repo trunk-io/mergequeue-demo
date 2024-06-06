@@ -2601,7 +2601,6 @@ acquaintant
 adjectivally
 aerographic
 ageism
-acquaintedness
 acquainting
 acquest
 acquests
@@ -8264,6 +8263,7 @@ alidads
 anchored
 alien
 anonad
+acquaintedness
 alienability
 alienabilities
 agouties
