@@ -8065,7 +8065,6 @@ cevine
 cevitamic
 contes
 cf
-cofeatures
 cfd
 ch
 cha
@@ -13573,6 +13572,7 @@ ciders
 cyders
 counterturn
 cydippe
+cofeatures
 cydippida
 cydonia
 cydonian
