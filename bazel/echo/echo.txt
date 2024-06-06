@@ -4041,6 +4041,7 @@ etypical
 estus
 emperil
 emperors
+eggwhisk
 epilamellar
 electromotor
 ezan
@@ -9114,7 +9115,6 @@ esculapian
 erythric
 erythrine
 entocranial
-eggwhisk
 erythrinidae
 exclusory
 excursioner
