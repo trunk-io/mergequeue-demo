@@ -3749,7 +3749,6 @@ damaging
 degust
 dasnt
 degusted
-degusting
 desulfurised
 din
 dehache
@@ -11511,6 +11510,7 @@ demiparallel
 deepened
 dismark
 dwarfy
+degusting
 dimorphisms
 discomedusae
 dentiphone
