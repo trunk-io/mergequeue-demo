@@ -654,7 +654,6 @@ bacterioscopy
 bacterioscopist
 bacteriosolvent
 breakshugh
-brats
 bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
@@ -6320,6 +6319,7 @@ becharm
 basidiolichenes
 breedling
 benin
+brats
 benincasa
 benisons
 benitier
