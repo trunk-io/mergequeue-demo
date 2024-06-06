@@ -10917,7 +10917,6 @@ chipchop
 collada
 chipewyan
 chiplet
-clayman
 chipling
 chipmuck
 culvert
@@ -14821,6 +14820,7 @@ cystoscopies
 cariole
 cystose
 cardioschisis
+clayman
 cystosyrinx
 cystospastic
 cystospore
