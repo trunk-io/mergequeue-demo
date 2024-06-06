@@ -2282,7 +2282,6 @@ gunsels
 geez
 geoplanidae
 gefulltefish
-gaddis
 galax
 gruiform
 gehlenite
@@ -5516,6 +5515,7 @@ gunl
 glyptodon
 glyptodont
 gutnish
+gaddis
 goi
 glycerate
 glyptodontoid
