@@ -1640,7 +1640,6 @@ accoutre
 attire
 appurtenances
 accoutrement
-accoutrements
 angioclast
 auspicated
 accoutres
@@ -16804,6 +16803,7 @@ avie
 aph
 antilogical
 abjuration
+accoutrements
 asserters
 aphacia
 aphacial
