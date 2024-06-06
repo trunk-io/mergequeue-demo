@@ -3552,7 +3552,6 @@ dorsobranchiata
 defoliants
 defoliate
 defoliation
-dis
 defoliations
 defoliator
 disjunct
@@ -5272,6 +5271,7 @@ dyscrased
 drumbler
 denizenship
 denning
+dis
 dellenite
 demicoronal
 dryopes
