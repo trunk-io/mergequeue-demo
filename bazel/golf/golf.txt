@@ -1633,6 +1633,7 @@ gauntlet
 giltheads
 gutteral
 geropiga
+gunlock
 goffle
 gasterotheca
 gonyoncus
@@ -10552,7 +10553,6 @@ gausses
 gesning
 guillemot
 gunline
-gunlock
 gladnesses
 guanays
 gunmaking
