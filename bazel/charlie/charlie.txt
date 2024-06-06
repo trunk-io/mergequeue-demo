@@ -4436,7 +4436,6 @@ caryopsis
 currawong
 courthouses
 caryota
-caryotin
 caripuna
 cariri
 caririan
@@ -4632,6 +4631,7 @@ canescene
 chronisotherm
 cangenet
 carolina
+caryotin
 carolinas
 caroline
 carolines
