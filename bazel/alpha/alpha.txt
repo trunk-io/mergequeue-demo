@@ -6192,6 +6192,7 @@ agname
 agnat
 agnatha
 agnathia
+adiaphoresis
 agnate
 agnathic
 agnathostomata
@@ -16077,7 +16078,6 @@ antiradiation
 antiradical
 alkylamine
 actinopterous
-adiaphoresis
 alastair
 apparitions
 antiradicals
