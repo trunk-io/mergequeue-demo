@@ -20565,6 +20565,7 @@ archetype
 adhesivemeter
 anathema
 atmidometer
+automatically
 arteritis
 artesian
 areographic
@@ -24186,7 +24187,6 @@ apothegmatic
 automated
 automates
 aphetism
-automatically
 allotrylic
 automaticity
 automatin
