@@ -3793,7 +3793,6 @@ encrusted
 embusk
 encrypts
 embussing
-emcee
 explored
 emceeing
 enquirer
@@ -11532,6 +11531,7 @@ embryoma
 evincible
 ectopterygoid
 esthesis
+emcee
 epicoela
 encephalitis
 endolemma
