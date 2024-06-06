@@ -8132,7 +8132,6 @@ elemi
 empeopled
 emerize
 epiphytic
-epiphytism
 extensum
 evanescent
 equulei
@@ -13180,6 +13179,7 @@ embalmed
 eductor
 episcleral
 expurgator
+epiphytism
 evilest
 eldred
 estranging
