@@ -2450,7 +2450,6 @@ brickiest
 barding
 bardings
 becalms
-bridecup
 bardlike
 bardling
 bluestone
@@ -8197,6 +8196,7 @@ bicrural
 bicultural
 bucca
 brionine
+bridecup
 balustrade
 biculturalism
 bicursal
