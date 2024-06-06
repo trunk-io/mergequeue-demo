@@ -1554,6 +1554,7 @@ callosities
 choleuria
 callosum
 callous
+conductimetric
 coloss
 calloused
 callouses
@@ -21824,7 +21825,6 @@ conduct
 conductance
 congregationalists
 conductimeter
-conductimetric
 conducting
 conductio
 conduction
