@@ -8487,6 +8487,7 @@ dialonian
 dorsiventrally
 dials
 ds
+describable
 dialuric
 defenestrated
 diamagnet
@@ -13975,7 +13976,6 @@ dacryadenalgia
 discohexaster
 disenter
 distoclusion
-describable
 distomatosis
 diactin
 daubreelite
