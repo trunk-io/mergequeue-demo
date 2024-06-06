@@ -10009,7 +10009,6 @@ chemotropism
 chempaduk
 chemurgical
 chemurgically
-chemurgies
 chen
 chena
 chenar
@@ -20085,6 +20084,7 @@ commendment
 commends
 commensal
 commensalist
+chemurgies
 commensally
 campodeid
 commensals
