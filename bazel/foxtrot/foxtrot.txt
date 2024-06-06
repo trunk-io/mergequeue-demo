@@ -666,7 +666,6 @@ falx
 fernambuck
 famacide
 ferromagnet
-fletcherite
 flatweed
 furlanas
 flagship
@@ -10357,6 +10356,7 @@ frontbencher
 frontcourt
 flying
 fortune
+fletcherite
 feracities
 fowage
 frontierless
