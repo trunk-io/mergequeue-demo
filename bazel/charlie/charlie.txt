@@ -2153,7 +2153,6 @@ camping
 campions
 calcaneus
 cample
-chaetopoda
 cornamute
 campo
 creedbound
@@ -19219,6 +19218,7 @@ collogen
 collogued
 chiropter
 colloid
+chaetopoda
 cinerins
 coauthoring
 colloidality
