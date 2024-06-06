@@ -762,7 +762,6 @@ galvanomagnetic
 galvanomagnetism
 gombeen
 galvanometers
-geometries
 goumi
 gregg
 genae
@@ -5344,6 +5343,7 @@ geet
 gunnar
 glyceridic
 granitical
+geometries
 guiro
 glossopteris
 glycerin
