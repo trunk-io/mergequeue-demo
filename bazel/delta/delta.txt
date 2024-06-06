@@ -2758,7 +2758,6 @@ decontaminations
 dejectly
 decontaminator
 decontaminators
-decontrol
 dustoor
 dvornik
 duci
@@ -5468,6 +5467,7 @@ denuclearized
 denuclearizing
 desegregating
 denudant
+decontrol
 denudate
 denudating
 disordained
