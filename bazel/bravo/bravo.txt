@@ -12004,7 +12004,6 @@ blastemas
 bogglebo
 boggler
 bogglers
-boggles
 boggling
 boskage
 brinded
@@ -13277,6 +13276,7 @@ boastful
 bructeri
 bossdoms
 baldachinos
+boggles
 bossed
 bosselation
 bronchiectatic
