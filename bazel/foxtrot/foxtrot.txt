@@ -5548,7 +5548,6 @@ flied
 flyer
 fossilization
 firstling
-felonweed
 frouncing
 flageolet
 flamant
@@ -6752,6 +6751,7 @@ fingerspin
 foists
 fleece
 foresworn
+felonweed
 foiter
 fraxin
 fokker
