@@ -13888,7 +13888,6 @@ anoscopy
 anatomicosurgical
 anosmia
 anosmias
-anosphrasia
 alcoholisation
 anospinal
 arrythmical
@@ -23041,6 +23040,7 @@ acephalan
 attempered
 abnormalities
 anaxon
+anosphrasia
 attempers
 asniffle
 attempt
