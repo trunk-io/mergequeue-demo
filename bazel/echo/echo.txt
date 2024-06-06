@@ -3575,6 +3575,7 @@ emboltement
 embordered
 embordering
 equoid
+erysipelatoid
 epidesmine
 emboscata
 embosked
@@ -8806,7 +8807,6 @@ eventerate
 extents
 equivocal
 extermination
-erysipelatoid
 eulogising
 endangering
 excoriable
