@@ -2550,7 +2550,6 @@ ferociously
 frizzles
 ferrier
 fieldball
-fawnskin
 fastus
 forehorse
 ferox
@@ -11721,6 +11720,7 @@ furriered
 falus
 foredesign
 friars
+fawnskin
 faubourg
 forecool
 futurition
