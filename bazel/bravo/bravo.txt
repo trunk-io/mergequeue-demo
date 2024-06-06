@@ -14943,7 +14943,6 @@ bredestitch
 betainogen
 boldest
 breech
-breechcloth
 brimfull
 breechcloths
 breechclout
@@ -17924,6 +17923,7 @@ biotechnology
 bookplate
 bushelling
 bushelman
+breechcloth
 balloon
 bushelmen
 bargestone
