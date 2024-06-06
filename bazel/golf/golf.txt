@@ -7556,7 +7556,6 @@ getup
 gowl
 gowlan
 gowning
-gownsman
 goalie
 geothlypis
 gravamens
@@ -9328,6 +9327,7 @@ ginkgoaceae
 groomsmen
 groop
 glamorize
+gownsman
 goblinism
 gaulsh
 gastroelytrotomy
