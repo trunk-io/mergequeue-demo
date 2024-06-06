@@ -135,7 +135,6 @@ abatjour
 alcades
 affectability
 arecaidine
-abatjours
 anacoustic
 abaton
 ains
@@ -2195,6 +2194,7 @@ assessionary
 achondritic
 archdevil
 achondroplasia
+abatjours
 achondroplastic
 agrostology
 achordal
