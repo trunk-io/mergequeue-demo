@@ -5326,6 +5326,7 @@ affixes
 affixial
 aspatia
 android
+authorism
 armageddon
 arsinoitherium
 apiales
@@ -5832,7 +5833,6 @@ agathis
 anoia
 agatelike
 agathist
-authorism
 agathodaemonic
 agatiferous
 atlatl
