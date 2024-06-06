@@ -6075,6 +6075,7 @@ bemask
 brownistic
 bricktop
 bossier
+brewis
 blephillia
 bemaster
 bemaul
@@ -15079,7 +15080,6 @@ brewership
 brewhouse
 brewhouses
 brewing
-brewis
 benzenes
 benzofuroquinoxaline
 babine
