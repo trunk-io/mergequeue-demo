@@ -5297,7 +5297,6 @@ bastes
 bobbled
 bothsided
 barlock
-begaze
 begazing
 borderer
 begem
@@ -6829,6 +6828,7 @@ bernardine
 bottlehead
 bernice
 backsaws
+begaze
 belat
 bernicia
 bernicles
