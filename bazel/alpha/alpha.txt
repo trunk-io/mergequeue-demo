@@ -411,7 +411,6 @@ acousmas
 abiogenetical
 abiogenetically
 abiogeny
-abiogenist
 anonychia
 abiogenous
 abiologically
@@ -20050,6 +20049,7 @@ armour
 armourbearer
 armoured
 armourer
+abiogenist
 armourers
 antipatriarchal
 agranulocytosis
