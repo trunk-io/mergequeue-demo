@@ -1214,7 +1214,6 @@ darghin
 datasets
 decanol
 dictums
-datatype
 datatypes
 datcha
 demiassignation
@@ -6785,6 +6784,7 @@ desilt
 disregular
 dodecatyl
 declared
+datatype
 donny
 delightsomeness
 desilvering

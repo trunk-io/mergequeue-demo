@@ -776,7 +776,6 @@ fabricating
 fenchol
 foldboats
 fluxions
-fancy
 fancied
 fetidness
 fezzan
@@ -1958,6 +1957,7 @@ fracture
 feeble
 fretfully
 fainaiguing
+fancy
 feebleness
 feebless
 feebly
