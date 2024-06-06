@@ -14237,7 +14237,6 @@ claudia
 catskin
 cardcastle
 conservancies
-casemate
 circler
 circlet
 corticoid
@@ -29664,6 +29663,7 @@ conductress
 crocus
 crocused
 commonwealths
+casemate
 crocuses
 crocuta
 confusing
