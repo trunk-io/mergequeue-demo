@@ -5579,7 +5579,6 @@ embost
 enflames
 enduringness
 endogens
-eukaryote
 enflaming
 epiklesis
 escapeway
@@ -13784,6 +13783,7 @@ extorts
 ecteron
 eastward
 extrabold
+eukaryote
 extrabranchial
 enregistry
 endebt
