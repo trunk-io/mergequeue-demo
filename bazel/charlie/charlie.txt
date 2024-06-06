@@ -4829,6 +4829,7 @@ carrat
 carraway
 carreau
 carrefour
+cortinate
 carrel
 carrell
 carrells
@@ -25999,7 +26000,6 @@ cortinae
 cortinarious
 cortinarius
 chaffiness
-cortinate
 cortisol
 cortisols
 cortlandtite
