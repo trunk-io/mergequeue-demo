@@ -11665,7 +11665,6 @@ cholecystokinin
 coign
 cholecystolithiasis
 cholecystopexy
-cholecystorrhaphy
 cholecystostomy
 cholecystostomies
 cholecystotomy
@@ -29095,6 +29094,7 @@ cringing
 cringingly
 cringingness
 chlorophylliferous
+cholecystorrhaphy
 cornflour
 cringle
 crinicultural
