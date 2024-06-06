@@ -10477,7 +10477,6 @@ annonce
 aspalax
 auxosubstance
 amianth
-amianthine
 actinometer
 amianthium
 antireactive
@@ -12864,6 +12863,7 @@ argenol
 anglehook
 anglepod
 anglepods
+amianthine
 arousement
 antrin
 angletouch

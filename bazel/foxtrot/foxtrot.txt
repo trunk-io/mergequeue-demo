@@ -4638,7 +4638,6 @@ fasciotomy
 fusiformis
 fluorene
 forvay
-furoic
 fixup
 fizelyite
 fizgig
@@ -4827,6 +4826,7 @@ fisheries
 followable
 flails
 flain
+furoic
 flubdubberies
 fitments
 futile
