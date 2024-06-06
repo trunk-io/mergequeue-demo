@@ -5839,6 +5839,7 @@ categorisation
 categorise
 categorised
 chansonnier
+cultivated
 categorising
 categorist
 cleaves
@@ -30877,7 +30878,6 @@ cosuggestion
 csc
 cultivably
 cultivate
-cultivated
 cultivates
 creationistic
 cultivating
