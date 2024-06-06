@@ -10611,7 +10611,6 @@ amylemia
 amylenol
 amylic
 amylidene
-amylin
 amylo
 amylocellulose
 amyloclastic
@@ -23054,6 +23053,7 @@ attempter
 athecate
 astonishingness
 authoritarianisms
+amylin
 agistator
 attemptive
 aortism
