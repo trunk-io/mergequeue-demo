@@ -1416,6 +1416,7 @@ confect
 calyptoblastea
 chapiters
 calyptoblastic
+colan
 calyptorhynchus
 calyptraea
 calyptranthes
@@ -18779,7 +18780,6 @@ colada
 colage
 convertors
 congo
-colan
 colander
 consists
 colane
