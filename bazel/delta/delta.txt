@@ -7071,7 +7071,6 @@ dessert
 desserts
 dykage
 dessertspoon
-dessertspoonful
 dessertspoonfuls
 destinezite
 dessil
@@ -18250,6 +18249,7 @@ draffs
 dubiously
 dhanush
 desiderating
+dessertspoonful
 dunite
 disyokes
 dorsimedian
