@@ -2111,7 +2111,6 @@ fructidor
 fusibleness
 felids
 freeform
-felinae
 feru
 fogle
 flamineous
@@ -4431,6 +4430,7 @@ furze
 fisnoga
 flogging
 finicality
+felinae
 freity
 flap
 foreshank
