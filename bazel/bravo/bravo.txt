@@ -9440,7 +9440,6 @@ buller
 bewrathed
 baroscope
 birdcages
-birdcalls
 bushi
 blirt
 bonnaz
@@ -16867,6 +16866,7 @@ bucketman
 borborygm
 buffier
 buffiest
+birdcalls
 buzzer
 butut
 betas
