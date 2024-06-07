@@ -3770,7 +3770,6 @@ bascule
 battels
 battement
 basisolute
-battements
 battened
 battener
 balladising
@@ -4970,6 +4969,7 @@ beefishness
 beefless
 bristle
 beefsteak
+battements
 beeftongue
 beefwoods
 bandcase
