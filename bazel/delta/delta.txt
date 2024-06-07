@@ -532,6 +532,7 @@ dalt
 dalton
 daltonian
 daltonic
+denomination
 daltonist
 dama
 damageability
@@ -5277,7 +5278,6 @@ dion
 decursion
 denominate
 denominates
-denomination
 denominational
 dampproofer
 dentilated
