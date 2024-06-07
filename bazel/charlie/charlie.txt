@@ -25641,7 +25641,6 @@ corotomy
 commemorized
 coroutines
 clericum
-chati
 cardsharper
 corp
 corpn
@@ -29482,6 +29481,7 @@ crystallochemical
 crystallochemistry
 comitiva
 chaldaism
+chati
 crystallod
 crystallogenesis
 crystallogenetic

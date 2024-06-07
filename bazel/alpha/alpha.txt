@@ -3881,7 +3881,6 @@ arthrosyrinx
 adyton
 adits
 arbovirus
-aditus
 analcite
 alphorns
 adjacence
@@ -8861,6 +8860,7 @@ allocations
 amyosthenia
 attal
 amender
+aditus
 aqueoglacial
 allocator
 agynary
