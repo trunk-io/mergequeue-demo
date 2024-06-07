@@ -4819,6 +4819,7 @@ coffea
 carr
 carrack
 cymulose
+cycling
 carracks
 carrageenin
 carragheenin
@@ -13352,7 +13353,6 @@ cyclicity
 cyclide
 cubeb
 cyclindroid
-cycling
 characterized
 cycliae
 cyclings
