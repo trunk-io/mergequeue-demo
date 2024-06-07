@@ -8916,7 +8916,6 @@ chapter
 chapteral
 chapterhouse
 chapters
-chaptrel
 chapwoman
 chaqueta
 char
@@ -19168,6 +19167,7 @@ carbin
 collins
 collinses
 collinsia
+chaptrel
 collinsite
 collinsonia
 colliquable
