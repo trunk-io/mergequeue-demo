@@ -8582,6 +8582,7 @@ champagnized
 cesurae
 champain
 champak
+characterstring
 champaka
 clubridden
 champaks
@@ -10090,7 +10091,6 @@ cherry
 cherryblossom
 cherried
 canna
-characterstring
 cherries
 chlorioninae
 capharnaism
