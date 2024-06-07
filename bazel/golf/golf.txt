@@ -131,6 +131,7 @@ gaugers
 grosz
 goatfish
 gadroon
+gyrencephalic
 girdled
 gangrening
 gadroonage
@@ -4640,7 +4641,6 @@ greenhorns
 gluelike
 genesiac
 gyrencephala
-gyrencephalic
 graphometry
 guillotiner
 guesthouse
