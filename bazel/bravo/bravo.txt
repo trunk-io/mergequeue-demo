@@ -7359,7 +7359,6 @@ bestuds
 bescreens
 besully
 beswarm
-beswarmed
 besweatered
 beswelter
 bethuel
@@ -12355,6 +12354,7 @@ betrayer
 bramantesque
 biopsies
 bombardment
+beswarmed
 bombardments
 bylaws
 bombline
