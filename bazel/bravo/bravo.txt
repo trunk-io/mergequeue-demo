@@ -3057,7 +3057,6 @@ briery
 baruria
 barvel
 baleful
-barvell
 beduin
 brainwashing
 bimetal
@@ -16900,6 +16899,7 @@ bufonid
 bargee
 bivalves
 bulbil
+barvell
 bufonite
 bufotalin
 bufotoxin
