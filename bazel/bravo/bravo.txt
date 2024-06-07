@@ -3809,7 +3809,6 @@ battlement
 barnstorms
 battler
 battles
-battleship
 battleships
 buhr
 brahui
@@ -16609,6 +16608,7 @@ bessemerizing
 buccinatory
 buccinum
 bigging
+battleship
 beanpole
 bucco
 butte
