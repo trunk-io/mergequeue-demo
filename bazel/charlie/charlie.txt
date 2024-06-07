@@ -5765,7 +5765,6 @@ cynoscion
 cheroot
 catchpoled
 catchpoleship
-catchpoling
 catchpoll
 catchpolling
 copperheads
@@ -29005,6 +29004,7 @@ cineast
 crime
 crimea
 cheiroptera
+catchpoling
 capillaire
 cineraria
 crimeful
