@@ -2765,6 +2765,7 @@ gryllidae
 graybeards
 grocer
 genitive
+gelatigenous
 geniculum
 golfing
 grasps
@@ -6099,7 +6100,6 @@ gluttonish
 garoted
 gynophagite
 grainsman
-gelatigenous
 griffado
 gravamen
 gloriana
