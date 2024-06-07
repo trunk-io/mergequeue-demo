@@ -3291,6 +3291,7 @@ chaufers
 capoc
 capocchia
 capoche
+crouche
 cuj
 capomo
 chrysomelidae
@@ -30009,7 +30010,6 @@ crottle
 crouch
 crouchant
 crouchback
-crouche
 crouched
 crouches
 crouchie
