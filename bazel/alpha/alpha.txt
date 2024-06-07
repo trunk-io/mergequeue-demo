@@ -6157,7 +6157,6 @@ aglypha
 analogal
 aglyphodont
 aglyphodonta
-aglyphous
 aback
 alectoriae
 alcyones
@@ -6943,6 +6942,7 @@ albronze
 apologiser
 amende
 airts
+aglyphous
 adversative
 aptian
 aln
