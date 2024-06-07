@@ -1983,7 +1983,6 @@ eluants
 excursively
 enantiomer
 expatiated
-eject
 enabled
 eurylaimi
 emunge
@@ -4097,6 +4096,7 @@ escapers
 empiric
 empirical
 empiricalness
+eject
 empiricism
 eurypelma
 epibolism

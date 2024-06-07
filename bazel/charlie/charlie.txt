@@ -4970,7 +4970,6 @@ carting
 cartisane
 coulometry
 cartist
-cartload
 cartloads
 cartmaker
 clicket
@@ -24881,6 +24880,7 @@ curlycue
 coquettishness
 coquicken
 coquilla
+cartload
 contumax
 coquillage
 coquille
