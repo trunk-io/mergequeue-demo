@@ -9591,7 +9591,6 @@ checkless
 checklist
 checkman
 congruencies
-checkmark
 checkmate
 chirosophist
 chiotilla
@@ -27765,6 +27764,7 @@ cowshot
 chough
 cowshut
 cowskin
+checkmark
 countercommand
 cowslipped
 cowson
