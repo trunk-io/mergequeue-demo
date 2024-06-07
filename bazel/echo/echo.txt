@@ -2393,7 +2393,6 @@ episteme
 electrocoating
 electrocolloidal
 exhaustable
-extraneously
 esclandre
 electroconvulsive
 earthless
@@ -8532,6 +8531,7 @@ epoxied
 ekes
 epoxyed
 epoxies
+extraneously
 epoxying
 eledoisin
 easterlies
