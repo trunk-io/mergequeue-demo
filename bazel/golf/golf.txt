@@ -3803,7 +3803,6 @@ gibbons
 geldable
 gibbosely
 gibboseness
-gibbosity
 gibbous
 ganching
 gelastocoridae
@@ -9572,6 +9571,7 @@ gneissoid
 guester
 getatableness
 grovellings
+gibbosity
 gymnocalycium
 growan
 grager
