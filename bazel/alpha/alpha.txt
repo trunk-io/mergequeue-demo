@@ -1870,7 +1870,6 @@ acervative
 acervuline
 acervulus
 anacoluthia
-acescence
 anemophilous
 atropins
 acescent
@@ -8801,6 +8800,7 @@ allopolyploid
 allision
 alliteral
 alliterate
+acescence
 alliterates
 alliteration
 alliterational
