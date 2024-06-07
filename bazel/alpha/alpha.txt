@@ -20757,7 +20757,6 @@ artifacts
 artifactual
 artifactually
 artifex
-artificer
 artificership
 aerobiology
 artificial
@@ -21100,6 +21099,7 @@ ascots
 aerographer
 ascribable
 ascribe
+artificer
 ascribes
 ascribing
 ascript
