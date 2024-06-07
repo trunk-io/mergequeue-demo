@@ -9455,6 +9455,7 @@ coprosma
 chavel
 chavender
 chavibetol
+compart
 chavicin
 chomp
 chavicine
@@ -20535,7 +20536,6 @@ comparers
 comparing
 comparisons
 comparition
-compart
 comparted
 challengable
 compartimenti
