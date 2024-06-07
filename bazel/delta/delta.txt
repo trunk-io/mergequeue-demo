@@ -534,7 +534,6 @@ defalcator
 dalt
 dalton
 daltonian
-daltonic
 denomination
 daltonist
 dama
@@ -1160,6 +1159,7 @@ dispersively
 dimera
 dystonias
 denshire
+daltonic
 decrementing
 desexing
 dasyuridae
