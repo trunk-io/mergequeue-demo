@@ -3031,7 +3031,6 @@ canvasser
 chromophilous
 canzon
 canzona
-canzonas
 canzones
 canzonet
 caoba
@@ -16332,6 +16331,7 @@ clinoclasite
 citifies
 clinodiagonal
 clinodomatic
+canzonas
 cardiamorphia
 clinodome
 cyanbenzyl
