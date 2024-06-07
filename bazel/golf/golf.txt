@@ -3808,7 +3808,6 @@ geldable
 gibbosely
 gibboseness
 gibbosity
-gibbosities
 gibbous
 ganching
 gelastocoridae
@@ -9427,6 +9426,7 @@ gournard
 galliot
 groundberry
 gluttingly
+gibbosities
 gypsums
 gotchy
 groundedly
