@@ -2490,7 +2490,6 @@ exegete
 ellipsoids
 eudyptes
 electrograving
-erythrophyllin
 enstatite
 electrogasdynamics
 electroharmonic
@@ -10161,6 +10160,7 @@ erianthus
 expurgatorial
 ethanedithiol
 ephedra
+erythrophyllin
 export
 estuate
 eyey
