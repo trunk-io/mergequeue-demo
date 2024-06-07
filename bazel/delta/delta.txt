@@ -2533,7 +2533,6 @@ deerstalker
 deckhead
 doorposts
 deckle
-deckman
 dulls
 diatropism
 declaim
@@ -8762,6 +8761,7 @@ diastrophically
 diatesseron
 diathermance
 diathermaneity
+deckman
 diathermanous
 dorsonuchal
 diathermy
