@@ -2307,7 +2307,6 @@ canals
 cylindrocellular
 calinda
 ccw
-canalside
 canamo
 cranesbill
 canangium
@@ -14435,6 +14434,7 @@ copplecrown
 chilognath
 circumneutral
 circumnuclear
+canalside
 circumnutated
 circumnutation
 circumorbital
