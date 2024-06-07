@@ -1715,7 +1715,6 @@ gutling
 gastrocoel
 gader
 goriest
-gibs
 gastrocolotomy
 gastrodermal
 gastrodermis
@@ -10523,6 +10522,7 @@ genially
 gloiopeltis
 geometrina
 gratiola
+gibs
 glike
 gilly
 gunfights
