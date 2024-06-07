@@ -4137,7 +4137,6 @@ beamroom
 baragnosis
 braize
 beams
-beamsman
 beamwork
 birken
 bargees
@@ -10985,6 +10984,7 @@ butterbush
 blindfoldedness
 butters
 blindfoldly
+beamsman
 blinding
 bescoured
 blindless
