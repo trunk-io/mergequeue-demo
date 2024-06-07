@@ -2388,6 +2388,7 @@ forthcut
 filmable
 flywire
 fencelike
+forjaskit
 floaters
 farthermost
 favel
@@ -8294,7 +8295,6 @@ facade
 forisfamiliate
 forisfamiliation
 fundulus
-forjaskit
 foujdar
 ferrotyping
 forjudges
