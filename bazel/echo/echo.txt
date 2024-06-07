@@ -2650,7 +2650,6 @@ exempla
 electrophotomicrography
 electrophrenic
 electropyrometer
-epixylous
 electroplater
 electropolish
 electropower
@@ -11357,6 +11356,7 @@ eventual
 eozoic
 eve
 excerpts
+epixylous
 equaller
 evea
 enhancer
