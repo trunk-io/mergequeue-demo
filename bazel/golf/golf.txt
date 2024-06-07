@@ -578,7 +578,6 @@ gambet
 gowan
 graptolitic
 glycoprotein
-gallicisms
 gimpy
 gallicize
 gladding
@@ -3490,6 +3489,7 @@ gestalt
 gleesome
 gonfaloniership
 gestaltist
+gallicisms
 gynecology
 geometers
 gelatinated

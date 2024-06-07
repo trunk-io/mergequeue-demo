@@ -7399,6 +7399,7 @@ futhark
 fasciculation
 fey
 foisted
+firefang
 forceput
 footmen
 fazing
@@ -9855,7 +9856,6 @@ foredooming
 fleck
 furnacite
 fretum
-firefang
 fidget
 fostership
 fluors
