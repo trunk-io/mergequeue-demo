@@ -19534,7 +19534,6 @@ colourer
 colourers
 caveated
 cubage
-colourfast
 colourful
 colourfully
 colourfulness
@@ -24874,6 +24873,7 @@ coquettishly
 capmaker
 curlycue
 coquettishness
+colourfast
 coquicken
 coquilla
 cartload
