@@ -2469,7 +2469,6 @@ countermands
 coasters
 candies
 cylloses
-candify
 cueing
 candying
 consuetudinary
@@ -6064,6 +6063,7 @@ catkin
 catkinate
 catkins
 curatory
+candify
 catlike
 crowns
 catlin
