@@ -602,7 +602,6 @@ fellon
 foreknows
 falsary
 falsehearted
-farthest
 fade
 forage
 flowerfly
@@ -2668,6 +2667,7 @@ fireless
 ferrugo
 flusters
 foreshoulder
+farthest
 ferrule
 frumentation
 familiarisation
