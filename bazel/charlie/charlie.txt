@@ -2195,6 +2195,7 @@ campward
 chametz
 cerebrotomy
 cams
+claiming
 camshach
 counterproductiveness
 camshachle
@@ -15339,7 +15340,6 @@ claimed
 claimer
 consumables
 claimers
-claiming
 claymore
 claims
 clayoquot
