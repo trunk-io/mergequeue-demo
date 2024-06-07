@@ -4167,7 +4167,6 @@ cardiophrenia
 capette
 cardiopyloric
 chanduy
-cardiopneumatic
 cardiopneumograph
 cardioptosis
 cardiopulmonary
@@ -11744,6 +11743,7 @@ cholinic
 chiastolite
 cotangents
 cholinolytic
+cardiopneumatic
 cholla
 cryogen
 chollas
