@@ -4765,7 +4765,6 @@ animisms
 autocratical
 alluvial
 aeolicism
-aeolid
 aeolidae
 aeolididae
 aeoline
@@ -18240,6 +18239,7 @@ armoring
 afterthinker
 ambracan
 adenosclerosis
+aeolid
 aquarid
 aquariist
 aquarium
