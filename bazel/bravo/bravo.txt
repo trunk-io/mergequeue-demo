@@ -17162,7 +17162,6 @@ boleite
 braconniere
 breadseller
 bulletmaking
-bulletproof
 bulletproofed
 bulletproofing
 bulletwood
@@ -17217,6 +17216,7 @@ bullition
 bestowed
 benzthiophen
 bloodripe
+bulletproof
 bullnose
 bullnoses
 bullnut
