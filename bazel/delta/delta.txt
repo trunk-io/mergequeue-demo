@@ -5050,7 +5050,6 @@ demulsion
 dueness
 distinguish
 derk
-demultiplex
 demultiplexed
 demultiplexer
 demultiplexers
@@ -6800,6 +6799,7 @@ desilvers
 desynaptic
 devitrification
 diotocardia
+demultiplex
 daeva
 drafts
 desinence
