@@ -2993,7 +2993,6 @@ actinocrinidae
 actinocrinite
 agnates
 actinodielectric
-actinodrome
 actinodromous
 actinoelectric
 actinoelectrically
@@ -5075,6 +5074,7 @@ aethalioid
 antapex
 aerotactic
 aerotaxis
+actinodrome
 agacant
 argo
 aerotechnical
