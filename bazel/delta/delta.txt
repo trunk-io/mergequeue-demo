@@ -10606,6 +10606,7 @@ diploidize
 diploids
 diploma
 diplomaed
+dolorogenic
 dolven
 diplomaing
 doleritic
@@ -15332,7 +15333,6 @@ dolorimeter
 dolorimetric
 desaurin
 dolorimetrically
-dolorogenic
 daimio
 delusional
 dissimulating
