@@ -1184,7 +1184,6 @@ grouses
 genin
 generalness
 gantsl
-gastroplication
 gastrostomus
 ganza
 grazers
@@ -4240,6 +4239,7 @@ gaggles
 gundogs
 gallicola
 guttle
+gastroplication
 glaswegian
 garrotte
 gymnasisia
