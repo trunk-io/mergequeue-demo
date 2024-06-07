@@ -7276,7 +7276,6 @@ gephyrophobia
 greyling
 groutier
 gyrostatic
-gonystylus
 genet
 gospelist
 guze
@@ -10118,6 +10117,7 @@ guirlande
 gasoscope
 grassiest
 gazetteer
+gonystylus
 glyphograph
 gastroenteroptosis
 gaskets
