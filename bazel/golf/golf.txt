@@ -2124,7 +2124,6 @@ garbline
 griefs
 gawkhammer
 geat
-gump
 ghouls
 gemul
 gonystylaceae
@@ -5613,6 +5612,7 @@ gaupus
 giddify
 genuineness
 gently
+gump
 gauffers
 guttiferous
 globes
