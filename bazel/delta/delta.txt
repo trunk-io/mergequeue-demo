@@ -6310,7 +6310,6 @@ drupe
 dermatoconiosis
 dermatodynia
 dermatogen
-dematerialising
 dermatography
 diplonephridia
 dermatolysis
@@ -14728,6 +14727,7 @@ digest
 dobos
 decanters
 dobson
+dematerialising
 deem
 decalcomaniac
 devocalization
