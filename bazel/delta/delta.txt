@@ -309,6 +309,7 @@ directories
 daybeacon
 dipylon
 daybed
+disbark
 disambiguation
 dissuasiveness
 disseizes
@@ -15961,7 +15962,6 @@ downcried
 dewaxes
 daydream
 dot
-disbark
 dotages
 doubleword
 dotal
