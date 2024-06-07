@@ -7083,7 +7083,6 @@ center
 conilurus
 centerable
 centerboard
-centerboards
 centered
 centerer
 cannonball
@@ -19430,6 +19429,7 @@ colorableness
 camisades
 clothing
 coloradan
+centerboards
 coloradans
 collies
 colorado
