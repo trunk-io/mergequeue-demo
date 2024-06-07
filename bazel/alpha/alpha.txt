@@ -5627,6 +5627,7 @@ afterthoughts
 afterthrift
 apastron
 afterturn
+armory
 arosaguntacook
 artisans
 aphototaxis
@@ -20013,7 +20014,6 @@ akuammin
 armorbearer
 adonises
 armorer
-armory
 armchairs
 ampoules
 alastors
