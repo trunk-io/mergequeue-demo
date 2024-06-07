@@ -2081,7 +2081,6 @@ dodecylic
 destandardize
 decalage
 decalcify
-decalcifier
 dinghy
 donar
 decalcifies
@@ -17600,6 +17599,7 @@ demential
 drumroll
 drumrolls
 drums
+decalcifier
 drumslade
 drumstick
 dribbled
