@@ -5652,7 +5652,6 @@ aint
 afterworld
 apodeixis
 adenocyst
-afterwrath
 aftonian
 aftosa
 aftward
@@ -10626,6 +10625,7 @@ aplanospore
 anguille
 agglomerating
 amyloleucite
+afterwrath
 amylolysis
 arkite
 antitragic
