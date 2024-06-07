@@ -3717,7 +3717,6 @@ adffrozen
 agra
 adfluxion
 adfreezing
-adfroze
 adhafera
 agones
 adhaka
@@ -16382,6 +16381,7 @@ antitropy
 antitropic
 antitrust
 afros
+adfroze
 antitruster
 antituberculosis
 antituberculotic
