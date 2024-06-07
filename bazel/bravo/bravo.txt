@@ -1145,7 +1145,6 @@ bairnwort
 baisemain
 baysmelt
 besmears
-bout
 baister
 baited
 bushwa
@@ -6635,6 +6634,7 @@ basichromiole
 berber
 borickite
 berberi
+bout
 berberia
 biohazard
 berberid
