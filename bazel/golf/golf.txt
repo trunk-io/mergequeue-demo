@@ -3709,7 +3709,6 @@ gov
 galah
 glumelike
 ghostish
-gascoyne
 grannom
 glossologies
 grille
@@ -9672,6 +9671,7 @@ gulo
 granuliform
 galeopithecus
 given
+gascoyne
 gruellings
 gruesome
 galleylike
