@@ -2813,7 +2813,6 @@ gazetteerish
 gensengs
 genteel
 gekkonidae
-glike
 glaister
 genteelize
 gelating
@@ -10524,6 +10523,7 @@ genially
 gloiopeltis
 geometrina
 gratiola
+glike
 gilly
 gunfights
 gunflint
