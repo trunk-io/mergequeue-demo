@@ -15670,6 +15670,7 @@ chelydridae
 classable
 coplanarity
 chiromantical
+coadjutive
 classbook
 classed
 classer
@@ -26101,7 +26102,6 @@ colotyphoid
 cosies
 cosign
 coercively
-coadjutive
 counterfix
 christiad
 cosignatories
