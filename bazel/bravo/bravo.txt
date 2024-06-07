@@ -2543,6 +2543,7 @@ barge
 bergere
 bargehouse
 bargelike
+boldine
 bravura
 bargelli
 bargellos
@@ -12175,7 +12176,6 @@ boldfacing
 boldhearted
 beloid
 boldheartedly
-boldine
 boldly
 boldnesses
 boldo
