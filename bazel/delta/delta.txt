@@ -2703,6 +2703,7 @@ decompensating
 dislocable
 delinquents
 decompensations
+doorkeeper
 dadaist
 decompiler
 decomposability
@@ -15648,7 +15649,6 @@ doorhawk
 doorhead
 dooryards
 dooring
-doorkeeper
 doorknob
 doorknobs
 doorless
