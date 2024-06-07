@@ -5527,7 +5527,6 @@ antifoam
 amadou
 afternote
 afterdeal
-afterdeath
 afterdeck
 aftereffect
 aspergillales
@@ -17218,6 +17217,7 @@ antimarian
 allotropism
 achiever
 assiduous
+afterdeath
 apogenous
 avocets
 anisochromia
