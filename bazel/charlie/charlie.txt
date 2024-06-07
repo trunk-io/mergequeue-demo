@@ -16761,6 +16761,7 @@ clothe
 clothed
 clothesbag
 clothesyard
+clamberer
 cirrus
 clothesline
 clotheslines
@@ -20814,7 +20815,6 @@ complicate
 complicated
 centrutra
 complicatedly
-clamberer
 complicatedness
 civilizedness
 complicates
