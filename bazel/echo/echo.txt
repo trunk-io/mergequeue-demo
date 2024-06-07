@@ -1438,7 +1438,6 @@ embrue
 efficacies
 embroche
 extraordinaries
-epicotyleal
 endochylous
 exhortation
 ephemerons
@@ -13315,6 +13314,7 @@ exceedingly
 enrough
 echinoderes
 exportations
+epicotyleal
 elbow
 exported
 enlength
