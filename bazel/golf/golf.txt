@@ -4795,6 +4795,7 @@ gisel
 gisement
 gibbsite
 glazily
+glycerate
 galchic
 gelatia
 gearless
@@ -5515,7 +5516,6 @@ glyptodont
 gutnish
 gaddis
 goi
-glycerate
 glyptodontoid
 gymnophiona
 gracelike
