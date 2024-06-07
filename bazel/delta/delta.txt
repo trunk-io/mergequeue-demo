@@ -1767,7 +1767,6 @@ depaysee
 deathtime
 deathtrap
 downtimes
-deathtraps
 drof
 deathward
 dikaryon
@@ -2659,6 +2658,7 @@ duppa
 decoy
 dejections
 decoke
+deathtraps
 decoll
 drumbling
 dispensaries
