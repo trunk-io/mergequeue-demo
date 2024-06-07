@@ -1060,7 +1060,6 @@ gayness
 groan
 geriatrics
 grabbots
-geotropism
 gaolbird
 gossamer
 gormandizing
@@ -4976,6 +4975,7 @@ gaff
 gladiatorship
 guttersnipe
 guessed
+geotropism
 gladiatrix
 gonoph
 geobiology
