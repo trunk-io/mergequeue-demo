@@ -5685,6 +5685,7 @@ flirty
 feculent
 ferulas
 flowering
+frontis
 feedy
 fingerstone
 ferrate
@@ -10385,7 +10386,6 @@ fatalist
 focimeter
 fitche
 frontirostria
-frontis
 footer
 filigree
 forcaria
