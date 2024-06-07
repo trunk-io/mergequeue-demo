@@ -1493,7 +1493,6 @@ acclimatiser
 acclimatising
 arachnidial
 algid
-acclimatize
 acclimatizer
 acclimatizes
 acrisia
@@ -24284,6 +24283,7 @@ anenterous
 acutilinguae
 alopecurus
 autopoisonous
+acclimatize
 achmetha
 autopolar
 autopolyploid
