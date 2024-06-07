@@ -2558,6 +2558,7 @@ declarant
 declaration
 declarations
 declarative
+dearomatize
 discomorula
 deutzias
 declarator
@@ -3344,7 +3345,6 @@ defiber
 dystomous
 deionized
 departs
-dearomatize
 defibrillated
 dominants
 defibrillating
