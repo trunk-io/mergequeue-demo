@@ -3562,7 +3562,6 @@ geophytes
 gilt
 gettings
 gantangs
-geodynamicist
 geullah
 gaine
 guts
@@ -9241,6 +9240,7 @@ groenlandicus
 grazeable
 glucuronic
 gi
+geodynamicist
 grog
 goobers
 gastrotrich
