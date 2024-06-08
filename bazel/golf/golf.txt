@@ -1053,7 +1053,6 @@ gange
 guelphish
 ganger
 gangerel
-gearwheels
 guesten
 ganging
 gridder
@@ -7791,6 +7790,7 @@ grallic
 guaba
 groaners
 gralline
+gearwheels
 guttide
 gram
 grisoutine
