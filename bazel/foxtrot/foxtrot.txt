@@ -4494,7 +4494,6 @@ feedable
 festschriften
 feuille
 fisticuff
-freebees
 fort
 fouldre
 familiarness
@@ -11333,6 +11332,7 @@ favorability
 frena
 furfuralcohol
 filiciform
+freebees
 flaveria
 flathat
 femorocaudal
