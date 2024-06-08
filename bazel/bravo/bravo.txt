@@ -2842,6 +2842,7 @@ baroswitch
 barotaxy
 bitis
 ballgowns
+bulkiest
 barothermograph
 barothermohygrograph
 baroto
@@ -17070,7 +17071,6 @@ bulkheading
 bulky
 bubastite
 bulkier
-bulkiest
 bulkily
 bitterweed
 befavour
