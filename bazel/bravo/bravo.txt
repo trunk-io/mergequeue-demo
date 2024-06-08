@@ -2798,7 +2798,6 @@ bookit
 burmannia
 baroneting
 bitonal
-baronetise
 baronetize
 ballistocardiographic
 baronetship
@@ -16716,6 +16715,7 @@ bucklum
 bucko
 buckoes
 buckone
+baronetise
 besugo
 biguanide
 buckraming
