@@ -9683,7 +9683,6 @@ bicapsular
 bootless
 bisect
 bisected
-bisecting
 bisection
 bisectors
 bisectrices
@@ -10037,6 +10036,7 @@ bituminosis
 brian
 bx
 bituminous
+bisecting
 bitwise
 beryllate
 biune
