@@ -7305,6 +7305,7 @@ bestowment
 bestows
 burgee
 briary
+breaching
 bestraddle
 blades
 beveled
@@ -15880,7 +15881,6 @@ brionies
 broomball
 bromize
 bethumb
-breaching
 buying
 bromized
 basified
