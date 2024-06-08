@@ -3186,7 +3186,6 @@ actuates
 actuating
 actuation
 actuator
-acture
 acturience
 actus
 archbuffoon
@@ -8046,6 +8045,7 @@ antimetabolite
 alforja
 alfreda
 alfresco
+acture
 anthropophagistic
 anthosiderite
 alfur
