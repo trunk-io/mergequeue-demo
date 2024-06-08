@@ -568,6 +568,7 @@ galleryite
 garde
 gazometer
 gableended
+gravamem
 gybed
 galleting
 gallfly
@@ -4060,7 +4061,6 @@ gubbings
 gellert
 grounds
 gurlet
-gravamem
 gilds
 gildship
 gawn
