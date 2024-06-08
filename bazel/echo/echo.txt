@@ -7039,7 +7039,6 @@ egos
 entreasured
 embryophyta
 entreasuring
-entreat
 entreatable
 entreatful
 enates
@@ -11724,6 +11723,7 @@ exameter
 elasticizing
 exobiology
 exship
+entreat
 escamoteur
 examinable
 examinant
