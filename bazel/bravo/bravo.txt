@@ -867,6 +867,7 @@ baggager
 benzidin
 baggala
 bagganet
+brassbound
 baggara
 brevis
 beseechingly
@@ -14646,7 +14647,6 @@ brassards
 brassart
 brassarts
 bolson
-brassbound
 biacetyl
 brassbounder
 brasse
