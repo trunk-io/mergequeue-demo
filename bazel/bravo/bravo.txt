@@ -7047,7 +7047,6 @@ banditti
 beslap
 beslave
 beslime
-beslimer
 bedsite
 bestrid
 beslimes
@@ -17829,6 +17828,7 @@ burrknot
 bygoing
 bearnaise
 burrock
+beslimer
 blueblack
 breakback
 burroughs
