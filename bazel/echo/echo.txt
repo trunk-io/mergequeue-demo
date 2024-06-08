@@ -1158,7 +1158,6 @@ edible
 expeditive
 exhaustingly
 expurgatory
-edibles
 edict
 endothelial
 estates
@@ -4353,6 +4352,7 @@ enamelist
 enamelless
 earsh
 enamels
+edibles
 encomia
 extensity
 enami
