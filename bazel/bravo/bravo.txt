@@ -5439,7 +5439,6 @@ begrimes
 bombsight
 begriming
 begrimmed
-beseemly
 bichrome
 brickly
 bot
@@ -6765,6 +6764,7 @@ beryl
 beryllonate
 beryllosis
 berimed
+beseemly
 berimes
 bradypnoea
 bering
