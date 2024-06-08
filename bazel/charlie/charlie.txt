@@ -14859,6 +14859,7 @@ cookery
 cite
 citeable
 cited
+couriers
 citee
 citer
 citers
@@ -27379,7 +27380,6 @@ carcaneted
 courgette
 courida
 cherokees
-couriers
 courlan
 couronne
 crustaceal
