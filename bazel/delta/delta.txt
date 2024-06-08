@@ -1696,7 +1696,6 @@ demarks
 deanery
 deanimalize
 deanships
-decoction
 deanthropomorphic
 deanthropomorphism
 diasynthesis
@@ -16777,6 +16776,7 @@ drastic
 dirtfarmer
 drastically
 dratchell
+decoction
 drownded
 drate
 drats
