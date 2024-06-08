@@ -5772,7 +5772,6 @@ fathmur
 flamb
 foredoom
 flitters
-flitting
 frivolize
 ferfet
 flitwite
@@ -6216,6 +6215,7 @@ felones
 formalisms
 favella
 fluer
+flitting
 fogyishness
 flues
 fluvial
