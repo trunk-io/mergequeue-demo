@@ -122,6 +122,7 @@ equisetaceae
 excitants
 episynaloephe
 eartab
+eparch
 enneateric
 eartag
 eartagged
@@ -10306,7 +10307,6 @@ ethyldichloroarsine
 epistolographer
 ethylenediamine
 ethylenic
-eparch
 emphraxis
 ethylenimine
 ethylenoid
