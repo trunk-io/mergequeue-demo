@@ -9251,7 +9251,6 @@ chasers
 chases
 chashitsu
 chasidim
-chasings
 chasm
 circumrotation
 chasma
@@ -28847,6 +28846,7 @@ crestings
 crestless
 crestline
 crests
+chasings
 creta
 commander
 cretaceous
