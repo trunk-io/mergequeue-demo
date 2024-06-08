@@ -3729,7 +3729,6 @@ acetite
 adherents
 adherers
 adheres
-adherescence
 anticipatively
 archivolt
 adhesion
@@ -23219,6 +23218,7 @@ avania
 ahimsas
 attriteness
 attriting
+adherescence
 attrition
 apoapsides
 alloisomer
