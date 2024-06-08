@@ -1666,7 +1666,6 @@ accroides
 accruable
 accrual
 accruals
-accrue
 actualities
 accrued
 accruement
@@ -5656,6 +5655,7 @@ auspiciously
 antilopinae
 agacante
 arylated
+accrue
 autoplastic
 agacerie
 agada
