@@ -11433,6 +11433,7 @@ disclimax
 dialogite
 discloak
 drossing
+dockyard
 dissuader
 determinoid
 disposingly
@@ -14796,7 +14797,6 @@ dockets
 dockhand
 debadge
 dockhouse
-dockyard
 daktylon
 deringers
 dockyards
