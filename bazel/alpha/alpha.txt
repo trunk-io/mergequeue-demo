@@ -14166,7 +14166,6 @@ assoin
 anteoperculum
 anteorbital
 albopannin
-antepagment
 amygdaline
 antepalatal
 aliveness
@@ -22793,6 +22792,7 @@ atomicity
 ataxaphasia
 accubation
 atomiferous
+antepagment
 atomised
 atomises
 atomising
