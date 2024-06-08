@@ -9924,6 +9924,7 @@ bearfoot
 bow
 begums
 bites
+birefringent
 brubru
 belying
 bytes
@@ -14318,7 +14319,6 @@ bragite
 blimps
 bessi
 bird
-birefringent
 bragless
 banners
 bellowed
