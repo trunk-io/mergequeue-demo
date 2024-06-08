@@ -1693,6 +1693,7 @@ fealty
 fumigates
 fear
 fimbles
+forgrow
 finite
 fearedly
 fadeaways
@@ -8267,7 +8268,6 @@ forgoes
 forgotten
 fusspots
 foreannounce
-forgrow
 fountaining
 foursome
 fricandeau
