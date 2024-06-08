@@ -7089,7 +7089,6 @@ glider
 galyac
 griselda
 galactodendron
-gladiators
 graniteware
 gedanken
 goglets
@@ -10016,6 +10015,7 @@ gasogenic
 geomys
 graft
 gamba
+gladiators
 gumdigger
 gosport
 geochrony
