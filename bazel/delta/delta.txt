@@ -6014,7 +6014,6 @@ disprofit
 declassing
 droppage
 deprivals
-deprivation
 deprive
 deprivement
 depriver
@@ -11753,6 +11752,7 @@ disfiguringly
 discoverture
 discradle
 dyscrase
+deprivation
 dockhands
 detectable
 dyscrasic
