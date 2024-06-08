@@ -2615,7 +2615,6 @@ declinator
 disyllabizing
 declinatory
 drawout
-decline
 djalmaite
 declines
 declining
@@ -16085,6 +16084,7 @@ dod
 doubtous
 doubts
 distinguishable
+decline
 darbyism
 douc
 drossier
