@@ -7017,6 +7017,7 @@ ferrum
 fiberware
 fontal
 freakout
+fardels
 fluorines
 fires
 frt
@@ -7839,7 +7840,6 @@ flits
 forepointer
 foursomes
 flagellating
-fardels
 fiked
 forepossessed
 forepreparation
