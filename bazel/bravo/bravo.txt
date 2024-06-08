@@ -1896,7 +1896,6 @@ banjara
 bandfile
 bosch
 bandfiled
-bandgap
 bandh
 burdon
 brownism
@@ -2268,6 +2267,7 @@ benniseed
 barbaloin
 badineur
 bung
+bandgap
 barbara
 barbaralalia
 barbary
