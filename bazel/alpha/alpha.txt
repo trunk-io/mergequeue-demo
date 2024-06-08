@@ -21304,7 +21304,6 @@ angeyok
 asynartete
 artwork
 actinocarpous
-asynchrony
 asynchronism
 asynchronisms
 asynchronously
@@ -25018,6 +25017,7 @@ anglemeter
 awkward
 awkwarder
 awkwardish
+asynchrony
 awkwardness
 awless
 astutely
