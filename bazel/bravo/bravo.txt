@@ -6416,6 +6416,7 @@ bandeaus
 benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
+beaconwise
 boiloff
 benzamide
 benzoxate
@@ -8829,7 +8830,6 @@ bobsleigh
 blazingly
 bimbisara
 bracketted
-beaconwise
 balkar
 bromopnea
 booklike
