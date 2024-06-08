@@ -808,7 +808,6 @@ gnawer
 gandergoose
 grithman
 gamari
-gamash
 gamashes
 gristliness
 gamasidae
@@ -7545,6 +7544,7 @@ goas
 glucolysis
 gowl
 gowlan
+gamash
 gowning
 goalie
 geothlypis
