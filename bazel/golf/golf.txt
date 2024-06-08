@@ -6665,6 +6665,7 @@ gymnorhina
 gimmerpet
 guazzo
 gold
+groyne
 gipsywort
 gonadal
 galvanizer
@@ -9257,7 +9258,6 @@ geosyncline
 galatian
 geogonic
 gravestones
-groyne
 gastaldo
 guignol
 glopnen
