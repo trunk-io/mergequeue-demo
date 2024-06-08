@@ -160,7 +160,6 @@ gs
 gamesters
 gritless
 gratelike
-gallinulelike
 garrot
 geryon
 guarantees
@@ -2971,6 +2970,7 @@ geladas
 gimblet
 geometrized
 gonocyte
+gallinulelike
 gelose
 glovelike
 gobiiformes
