@@ -8618,7 +8618,6 @@ forslow
 forsooth
 farstepped
 fatale
-fatuitousness
 filchery
 forecaster
 forewrought
@@ -9358,6 +9357,7 @@ frangulic
 forjudge
 franion
 frankability
+fatuitousness
 frankalmoign
 filibustrous
 frankenstein
