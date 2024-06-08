@@ -4855,7 +4855,6 @@ carried
 carryed
 carrier
 capitulation
-carriers
 carries
 carrying
 carryings
@@ -31161,6 +31160,7 @@ cloudling
 curtseying
 cuprene
 cupreous
+carriers
 cupressaceae
 cupressineous
 cupressinoxylon
