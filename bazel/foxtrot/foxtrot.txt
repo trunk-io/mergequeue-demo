@@ -6444,6 +6444,7 @@ fisherboat
 foreshroud
 footbaths
 fluotantalic
+foxholes
 fluotitanic
 franklin
 flurn
@@ -9088,7 +9089,6 @@ fehmic
 foxhole
 flexionless
 fords
-foxholes
 film
 furnace
 filterer
