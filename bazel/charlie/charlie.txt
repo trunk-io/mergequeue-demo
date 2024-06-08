@@ -15630,6 +15630,7 @@ claroes
 claromontane
 claros
 chemotaxis
+contraposition
 constrainable
 clarre
 clarseach
@@ -24952,7 +24953,6 @@ coralita
 coralla
 clavodeltoid
 corallian
-contraposition
 corallic
 corallidae
 corallidomous
