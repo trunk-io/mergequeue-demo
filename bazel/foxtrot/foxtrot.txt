@@ -5555,6 +5555,7 @@ flageolet
 flamant
 fascicled
 feoffment
+fourgons
 flight
 flighted
 flighter
@@ -6166,7 +6167,6 @@ falange
 flrie
 flu
 fluate
-fourgons
 fluavile
 favoritism
 father
