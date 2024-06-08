@@ -8673,7 +8673,6 @@ grubby
 gambit
 garrets
 guasa
-glyptical
 greengroceries
 governess
 galeus
@@ -10088,6 +10087,7 @@ gigman
 gelsemic
 galivanting
 glore
+glyptical
 gravigrade
 guesdist
 gloria
