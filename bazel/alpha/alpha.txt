@@ -6343,7 +6343,6 @@ antipapal
 arthropathology
 agrege
 agreges
-agremens
 agrement
 agrestial
 agrestian
@@ -12136,6 +12135,7 @@ anatropal
 anatropia
 andesinite
 antilapse
+agremens
 anatta
 anatto
 apothecia
