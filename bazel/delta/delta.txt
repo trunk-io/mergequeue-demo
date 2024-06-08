@@ -4727,7 +4727,6 @@ dinic
 demisang
 demisangue
 deuteragonist
-delegant
 douzaines
 demipectinate
 doable
@@ -12622,6 +12621,7 @@ disjoin
 discourage
 duntle
 disjoinable
+delegant
 disjoining
 deemphasis
 descendentalist
