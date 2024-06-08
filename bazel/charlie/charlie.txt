@@ -19223,7 +19223,6 @@ colloidality
 colloider
 colloidize
 colloidochemical
-colloids
 collomia
 cattan
 collop
@@ -28151,6 +28150,7 @@ craniniums
 craniocele
 craniocerebral
 cranioclasis
+colloids
 cystopyelonephritis
 counteracquittance
 cranioclast
