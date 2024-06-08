@@ -673,6 +673,7 @@ dukely
 deafen
 dampening
 dampers
+dudgeons
 donnard
 dampishly
 dampne
@@ -2574,7 +2575,6 @@ declare
 declaredly
 doorjamb
 declares
-dudgeons
 demythologise
 daneworts
 diplococcus
