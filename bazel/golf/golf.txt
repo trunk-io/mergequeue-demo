@@ -3067,7 +3067,6 @@ groundliness
 grumble
 gelong
 glosses
-gallinacei
 glassed
 geomancer
 geomancy
@@ -8327,6 +8326,7 @@ grippes
 grata
 gunplay
 ghawazi
+gallinacei
 gorgonize
 groundman
 grinds
