@@ -1134,7 +1134,6 @@ fastback
 fieldie
 farrisite
 firehalls
-formatter
 figulate
 farruca
 fistulate
@@ -8438,6 +8437,7 @@ formelt
 foreannouncement
 fortin
 frondesce
+formatter
 floridans
 flunkeyite
 fogmen
