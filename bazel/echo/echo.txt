@@ -11762,7 +11762,6 @@ emphrensy
 endocarp
 exanimation
 endotherm
-exanthem
 equidurable
 exanthemas
 exanthems
@@ -12513,6 +12512,7 @@ encoder
 escheatable
 exility
 epicormic
+exanthem
 eyestones
 enneadic
 esophagotomy
