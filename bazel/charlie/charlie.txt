@@ -5194,7 +5194,6 @@ cashbox
 caesural
 cashboxes
 cambism
-chromophor
 cambaye
 continuando
 casheen
@@ -26990,6 +26989,7 @@ cotonier
 countermined
 countermission
 coinfeftment
+chromophor
 callianassidae
 countermount
 circumsciss
