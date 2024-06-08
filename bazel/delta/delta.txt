@@ -1366,7 +1366,6 @@ damagement
 dart
 dauntingness
 dauntlessly
-dauntlessness
 daunton
 daunts
 definer
@@ -12046,6 +12045,7 @@ dromaeus
 diadelphic
 daryl
 disengaged
+dauntlessness
 defiable
 disengaging
 disenjoyment
