@@ -222,7 +222,6 @@ abbrev
 alodially
 abbreviatable
 abraded
-abbreviated
 argotic
 acantholysis
 abbreviates
@@ -630,6 +629,7 @@ abominably
 abominate
 avifaunal
 adulates
+abbreviated
 autotomic
 abominates
 abominating
