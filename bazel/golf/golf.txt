@@ -2761,7 +2761,6 @@ ghostlier
 gryllidae
 graybeards
 grocer
-genitive
 gelatigenous
 geniculum
 golfing
@@ -9006,6 +9005,7 @@ graphomaniacal
 glasser
 grimalkin
 grime
+genitive
 grimed
 gnetums
 galvanoplastic
