@@ -6444,7 +6444,6 @@ blinks
 benzene
 benzenediazonium
 bebar
-benzenyl
 benzenoid
 billsticking
 briny
@@ -10261,6 +10260,7 @@ blackguard
 bos
 bobwhite
 blackguardize
+benzenyl
 bibbling
 blackguardry
 beseechers
