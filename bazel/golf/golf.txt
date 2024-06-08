@@ -10240,6 +10240,7 @@ graver
 generaliser
 guildhall
 ghosted
+gunny
 gladsomeness
 guile
 guileful
@@ -10581,7 +10582,6 @@ glauconiferous
 gyppers
 glaciological
 gunners
-gunny
 gunning
 grandame
 glossmeter
