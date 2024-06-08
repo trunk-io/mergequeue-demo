@@ -3851,7 +3851,6 @@ carbonisable
 carbonise
 choirmaster
 canister
-carbazin
 carbonitride
 cincinatti
 chromatics
@@ -29304,6 +29303,7 @@ cryptodouble
 colonalgia
 cryonics
 cryptogam
+carbazin
 cryptogame
 cryptogamy
 cryptogamian
