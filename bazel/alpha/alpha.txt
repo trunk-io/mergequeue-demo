@@ -19833,7 +19833,6 @@ arithmography
 azulejos
 arithmomancy
 arithmometer
-arius
 arivaipa
 amphoral
 arizonian
@@ -22158,6 +22157,7 @@ astipulation
 ayllu
 astogeny
 aglutition
+arius
 astomatous
 anticholinergic
 astomia
