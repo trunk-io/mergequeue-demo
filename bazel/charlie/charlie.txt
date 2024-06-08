@@ -10252,6 +10252,7 @@ crossword
 chi
 concatenating
 codworm
+croisard
 coussinet
 chia
 chiack
@@ -26787,7 +26788,6 @@ counterclaim
 counterclaiming
 cirriform
 counterclaims
-croisard
 counterclassification
 counterclassifications
 countercolored
