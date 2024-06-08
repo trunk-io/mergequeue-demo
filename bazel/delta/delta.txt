@@ -4085,6 +4085,7 @@ delegates
 delegateship
 dermographism
 digressiveness
+dibasicity
 diphyllobothrium
 designation
 dialing
@@ -8859,7 +8860,6 @@ diagnostics
 diazotized
 devolatilising
 dib
-dibasicity
 dibbed
 dibbing
 deterring
