@@ -5943,7 +5943,6 @@ floodlit
 fibromembrane
 floods
 firemaster
-facingly
 foreordains
 fortifiable
 filleter
@@ -11095,6 +11094,7 @@ fracturs
 forbidder
 functionation
 functioned
+facingly
 finagled
 functionize
 flockless
