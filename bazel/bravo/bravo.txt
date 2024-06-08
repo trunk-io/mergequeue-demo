@@ -2041,7 +2041,6 @@ barite
 believably
 baniya
 baning
-banish
 banished
 banisher
 banishing
@@ -3046,6 +3045,7 @@ bubba
 bartramiaceae
 bartramian
 bartree
+banish
 blindage
 brogueneer
 bulwark
