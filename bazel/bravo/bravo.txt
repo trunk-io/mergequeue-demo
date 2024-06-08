@@ -667,7 +667,6 @@ bales
 bechances
 beletter
 boracic
-bacteriotrypsin
 bynames
 bungles
 bacteriotropic
@@ -5274,6 +5273,7 @@ begar
 barkeepers
 bandos
 bodingly
+bacteriotrypsin
 basaltic
 bicentenary
 bimastoid
