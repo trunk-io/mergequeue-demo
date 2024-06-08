@@ -9452,7 +9452,6 @@ altazimuth
 alter
 alterable
 anerethisia
-alterableness
 alterably
 anythingarian
 apyrene
@@ -15525,6 +15524,7 @@ antimetabole
 antimetathetic
 acrogens
 acronarcotic
+alterableness
 azonic
 aeschynite
 armed
