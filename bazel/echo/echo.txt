@@ -3903,6 +3903,7 @@ equivote
 electrotonus
 extraboldface
 eminencies
+evendown
 eminent
 eminently
 extratympanic
@@ -11368,7 +11369,6 @@ eveless
 englishman
 eveline
 even
-evendown
 extrametaphysical
 evener
 entortill
