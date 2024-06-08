@@ -3783,7 +3783,6 @@ beltis
 borate
 batterie
 breck
-batteried
 batteries
 betrayals
 batteryman
@@ -13662,6 +13661,7 @@ bounced
 blowsy
 bounces
 bouncier
+batteried
 bouncily
 bounciness
 biform
