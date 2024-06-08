@@ -1644,7 +1644,6 @@ accreditate
 annule
 archpresbyter
 accreditations
-accredited
 animal
 accrediting
 aeraria
@@ -10364,6 +10363,7 @@ americanisms
 americanistic
 aftertax
 abucco
+accredited
 ampleness
 autodiffusion
 assisting
