@@ -1974,7 +1974,6 @@ functionalize
 fluidiser
 frigiferous
 fireball
-fuzes
 feedlots
 fiendishly
 fravashi
@@ -8609,6 +8608,7 @@ forsythia
 forsythias
 fontinalis
 feignedness
+fuzes
 foeticide
 figurial
 forslow
