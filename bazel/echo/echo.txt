@@ -5592,6 +5592,7 @@ epiklesis
 escapeway
 embryulcus
 enflower
+epidendrum
 enfoeffment
 enfold
 enfolded
@@ -7780,7 +7781,6 @@ eustacies
 enforcer
 enrichment
 epipleurae
-epidendrum
 echoer
 epiderma
 epidermal
