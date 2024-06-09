@@ -3066,6 +3066,7 @@ grumble
 gelong
 glosses
 glassed
+guildsmen
 geomancer
 geomancy
 garnered
@@ -10163,7 +10164,6 @@ groped
 ghana
 gigantosaurus
 gridding
-guildsmen
 gigglers
 garboils
 gloried
