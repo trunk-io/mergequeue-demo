@@ -1659,7 +1659,6 @@ balloted
 betrayal
 brancher
 balloting
-barded
 ballotist
 ballots
 ballottement
@@ -13207,6 +13206,7 @@ bors
 borsches
 bridgeheads
 borsholder
+barded
 bovines
 besneer
 betulites
