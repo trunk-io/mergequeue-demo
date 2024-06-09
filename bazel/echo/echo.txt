@@ -211,7 +211,6 @@ earthsmoke
 earthwall
 earthwards
 earthworks
-ethmovomer
 enddamaged
 ebriate
 earthworms
@@ -1493,6 +1492,7 @@ effortless
 effort
 evangelists
 epispadias
+ethmovomer
 effortfulness
 emmenic
 emeline
