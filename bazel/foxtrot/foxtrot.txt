@@ -4331,6 +4331,7 @@ fisetin
 focuser
 frate
 fibroplastic
+fole
 figureheads
 fishability
 froggier
@@ -8794,7 +8795,6 @@ flunks
 frigidness
 foller
 fossage
-fole
 flaxes
 female
 fossane
