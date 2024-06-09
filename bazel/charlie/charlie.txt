@@ -7256,7 +7256,6 @@ centriole
 centripetal
 codebreak
 centripetence
-centripetency
 centriscid
 centriscidae
 cacumen
@@ -11369,6 +11368,7 @@ chloroamine
 chloroaurate
 chloroaurite
 chlorobenzene
+centripetency
 cavort
 chlorocalcite
 corroboreeing
