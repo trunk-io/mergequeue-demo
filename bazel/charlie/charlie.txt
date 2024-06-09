@@ -7586,7 +7586,6 @@ copei
 clergyman
 cambrian
 ceraunograph
-ceraunophone
 ceraunoscopy
 cerberus
 cercal
@@ -19607,6 +19606,7 @@ colubrinae
 colubrine
 clarsach
 colubroid
+ceraunophone
 colugo
 canaliculi
 curvaceous
