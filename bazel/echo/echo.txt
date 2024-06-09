@@ -4432,7 +4432,6 @@ etua
 encage
 electrobioscopy
 encages
-encamps
 elative
 endoparasite
 encanker
@@ -8770,6 +8769,7 @@ equiproportionality
 escopet
 equisetaceous
 epicondylar
+encamps
 ecstatics
 esthesiogenic
 elastometry
