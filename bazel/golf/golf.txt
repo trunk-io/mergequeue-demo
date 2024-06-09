@@ -3196,7 +3196,6 @@ graylags
 geotaxes
 guardiancy
 geotechnic
-geotectonically
 graplin
 gluing
 glycans
@@ -8796,6 +8795,7 @@ greyflies
 glyoxilin
 ganglioside
 greyiaceae
+geotectonically
 gadbush
 guanos
 greylag
