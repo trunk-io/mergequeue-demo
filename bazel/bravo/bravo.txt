@@ -357,7 +357,6 @@ barwares
 breaststroke
 background
 backhand
-backhandedly
 backhandedness
 brinjarry
 brewery
@@ -15735,6 +15734,7 @@ brideman
 broiderer
 bove
 broidery
+backhandedly
 besonio
 broideries
 broigne
