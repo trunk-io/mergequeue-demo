@@ -6160,7 +6160,6 @@ fluohydric
 flowerpecker
 foredoomed
 furnacemen
-furca
 flowerwork
 flowing
 fresnel
@@ -7219,6 +7218,7 @@ footscraper
 flocoon
 footsy
 footslog
+furca
 furious
 flockman
 footslogger
