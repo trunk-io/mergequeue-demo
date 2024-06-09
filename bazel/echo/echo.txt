@@ -1812,7 +1812,6 @@ embattle
 eyepoint
 eyereach
 eyeroot
-eupomatia
 exhbn
 eutony
 eyes
@@ -6584,6 +6583,7 @@ eccles
 epimedium
 ellipses
 enorthotrope
+eupomatia
 emplastra
 enterfeat
 enthrallments

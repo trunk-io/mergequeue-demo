@@ -4756,7 +4756,6 @@ fasinite
 flageolets
 fencelet
 flagfishes
-flagged
 forbiddenness
 figurately
 flaggelating
@@ -6667,6 +6666,7 @@ figurism
 foeti
 fumigatory
 fica
+flagged
 foetiparous
 fausen
 fiendlier
