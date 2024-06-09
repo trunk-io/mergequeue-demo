@@ -3046,7 +3046,6 @@ banish
 blindage
 brogueneer
 bulwark
-behaviorist
 baruch
 barukhzy
 barundi
@@ -10765,6 +10764,7 @@ bleatingly
 bleats
 bleaunt
 bleb
+behaviorist
 blebby
 blastematic
 bleck
