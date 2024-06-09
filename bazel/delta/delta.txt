@@ -13282,7 +13282,6 @@ dimps
 daidly
 dispossess
 deleerit
-dispossessed
 dementate
 dispossession
 debasers
@@ -17759,6 +17758,7 @@ ducally
 ducape
 ducat
 drunt
+dispossessed
 ducaton
 ducats
 ducdame
