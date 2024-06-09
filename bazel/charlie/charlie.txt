@@ -3449,7 +3449,6 @@ carvacrol
 capsid
 competencies
 capsidal
-capsids
 capsizable
 capsizal
 caballeria
@@ -11160,6 +11159,7 @@ chitosamine
 chitosan
 committeeism
 chitosans
+capsids
 chitose
 carbonised
 chitrali
