@@ -10578,7 +10578,6 @@ biologistic
 blastogenetic
 bloodthirstier
 blastogenic
-betray
 baizes
 beleaguer
 berbamine
@@ -14463,6 +14462,7 @@ brakesman
 breechless
 braky
 boatyards
+betray
 brakie
 brakiest
 bramantip
