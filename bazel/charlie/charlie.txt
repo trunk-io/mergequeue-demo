@@ -606,7 +606,6 @@ cloakless
 coorg
 ctenodipterini
 caecilia
-caecilian
 caeciliidae
 chiropod
 caecotomy
@@ -3936,6 +3935,7 @@ casemated
 carburize
 carburizer
 carburizes
+caecilian
 caphs
 carburizing
 chrysophilite
