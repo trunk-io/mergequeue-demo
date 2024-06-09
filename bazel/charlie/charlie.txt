@@ -13103,7 +13103,6 @@ curpel
 cyanochlorous
 cyanochroia
 cyanocobalamin
-compartmentally
 cyanocobalamine
 cyanoderma
 cantrap
@@ -29338,6 +29337,7 @@ cryptolunatic
 consubstantiality
 cryptomere
 cryptomerous
+compartmentally
 cryptomnesia
 cryptomnesic
 chrysogen
