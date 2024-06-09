@@ -13476,7 +13476,6 @@ appoggiature
 anneals
 annect
 annectant
-annelida
 annelidan
 annelidian
 annelidous
@@ -16977,6 +16976,7 @@ araucan
 apiculturist
 apiculus
 apiece
+annelida
 aluminotype
 antienthusiast
 apigenin
