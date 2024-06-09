@@ -7371,7 +7371,6 @@ gassit
 gotiglacial
 gastrula
 grudgekin
-guesstimated
 gangliitis
 gonia
 gallinuline
@@ -9818,6 +9817,7 @@ gymnotid
 guaiacolize
 guaiaconic
 gersdorffite
+guesstimated
 guaiacs
 guayaqui
 guaiasanol
