@@ -1767,6 +1767,7 @@ floorman
 feathercut
 falconiformes
 fibropsammoma
+frailero
 famatinite
 featheredge
 featheredged
@@ -10343,7 +10344,6 @@ frictionable
 fleing
 fikey
 friendless
-frailero
 fruitlessly
 fluorescein
 feudists
