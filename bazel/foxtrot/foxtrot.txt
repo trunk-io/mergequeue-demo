@@ -3671,7 +3671,6 @@ fretsaws
 firing
 filigrained
 foliating
-fanged
 freshed
 foibles
 firstborn
@@ -10323,6 +10322,7 @@ factuality
 freightless
 firth
 frondent
+fanged
 ferrates
 factor
 fluoridising
