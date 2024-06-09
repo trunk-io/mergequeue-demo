@@ -788,7 +788,6 @@ duvetyne
 detester
 deringer
 dandled
-decenter
 dandler
 dandlers
 dandles
@@ -12663,6 +12662,7 @@ diatrymiformes
 doctrinable
 disleaf
 dridder
+decenter
 disfavour
 dissolute
 disleafed
