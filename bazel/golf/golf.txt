@@ -1444,6 +1444,7 @@ garnishment
 glenlike
 garnison
 garniture
+gagor
 grecize
 ganyie
 grimace
@@ -8381,7 +8382,6 @@ gulfing
 gratuities
 gongman
 gushet
-gagor
 gecarcinus
 gratuitous
 gratuitousness
