@@ -2162,6 +2162,7 @@ grampus
 galla
 globosity
 gazeless
+glycoluric
 gazella
 gazelle
 gazellelike
@@ -4406,7 +4407,6 @@ grubroot
 gingered
 gingerline
 glomerular
-glycoluric
 gingerness
 gingerous
 griping
