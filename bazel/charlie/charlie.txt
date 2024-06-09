@@ -7625,7 +7625,6 @@ cercosporella
 canalisation
 cercus
 cerdonian
-cere
 cereal
 carrus
 changeability
@@ -19443,6 +19442,7 @@ colorate
 coloration
 colorational
 colorative
+cere
 cycadlike
 coloraturas
 colorature

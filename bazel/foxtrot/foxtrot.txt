@@ -4457,7 +4457,6 @@ favellae
 fissionable
 fissioned
 furzes
-fissions
 fissipalmation
 forheed
 farming
@@ -6565,6 +6564,7 @@ fluxure
 fustle
 fn
 footcloth
+fissions
 fretways
 fo
 fireproofed
