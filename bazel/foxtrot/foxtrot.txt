@@ -1765,6 +1765,7 @@ featherbedded
 fistulana
 featherbird
 forfare
+flowerfence
 foreshore
 floorman
 feathercut
@@ -7552,7 +7553,6 @@ flubs
 filtrate
 filate
 felicities
-flowerfence
 foundationary
 formulist
 foredeclare
