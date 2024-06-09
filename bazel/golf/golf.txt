@@ -1474,7 +1474,6 @@ gashing
 garrnishable
 goldsmithry
 garroter
-garrotes
 grandgore
 garroting
 gothicism
@@ -6910,6 +6909,7 @@ gonozooid
 galactosemic
 gripman
 gynandroid
+garrotes
 grabman
 graticulate
 glis
