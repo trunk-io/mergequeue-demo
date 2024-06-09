@@ -8141,6 +8141,7 @@ gyms
 gnapweed
 graperoot
 ganisters
+gem
 grapes
 grapeskin
 grapestalk
@@ -9497,7 +9498,6 @@ groused
 goodlike
 gonglike
 grouselike
-gem
 gloving
 gallates
 grouser
