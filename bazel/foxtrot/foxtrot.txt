@@ -4392,7 +4392,6 @@ fishmonger
 floorward
 flossy
 fraternizer
-fluorapatite
 fishmouth
 fishnet
 frank
@@ -11428,6 +11427,7 @@ furnishing
 fireboxes
 frosk
 furnishment
+fluorapatite
 flumdiddle
 flatterous
 furnishness
