@@ -7604,6 +7604,7 @@ barleducs
 beverage
 beverse
 bevesseled
+barrelmaking
 boneache
 bogwood
 betaine
@@ -15295,7 +15296,6 @@ bluehead
 bedstaves
 briered
 brainwasher
-barrelmaking
 brierroot
 balantidiosis
 bonnetless
