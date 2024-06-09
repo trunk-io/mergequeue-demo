@@ -14900,7 +14900,6 @@ citigradae
 cigale
 coordinate
 cheliceral
-cityless
 chiarooscuros
 cityness
 cotyle
@@ -29191,6 +29190,7 @@ cryoscope
 cryoscopy
 colloblast
 candock
+cityless
 chanfron
 curavecan
 cryoscopic
