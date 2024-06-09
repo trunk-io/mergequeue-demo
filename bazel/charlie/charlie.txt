@@ -7914,7 +7914,6 @@ cervicolumbar
 croh
 crystal
 cervicomuscular
-chiasmi
 camphines
 cerviconasal
 cribrous
@@ -8865,6 +8864,7 @@ chapelry
 combflower
 chapelries
 chapels
+chiasmi
 chapelward
 compile
 chaperno
