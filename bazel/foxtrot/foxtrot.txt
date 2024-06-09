@@ -2612,7 +2612,6 @@ ferrihydrocyanic
 fervency
 fenugreek
 feedsman
-ferryman
 frailties
 fortuitus
 fiduciaries
@@ -8761,6 +8760,7 @@ fruits
 february
 face
 forwearied
+ferryman
 fetched
 forgemen
 faradization
