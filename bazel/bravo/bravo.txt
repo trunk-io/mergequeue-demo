@@ -1454,7 +1454,6 @@ batoneer
 boscages
 bali
 bedye
-bucare
 bight
 balibago
 balibuntal
@@ -9077,6 +9076,7 @@ bloodflower
 betocsin
 biogenetic
 bibliographers
+bucare
 beingless
 baggies
 bedrail
