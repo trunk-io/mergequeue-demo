@@ -5421,6 +5421,7 @@ fleshings
 forthfare
 fettuccine
 formatters
+functionalities
 fanjets
 furfuran
 fleshliest
@@ -11079,7 +11080,6 @@ filled
 falconbill
 functional
 farceuse
-functionalities
 fixups
 flashforwards
 functionated
