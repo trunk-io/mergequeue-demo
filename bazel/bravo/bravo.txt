@@ -12642,7 +12642,6 @@ bardane
 bonk
 bagpiping
 bearing
-barwing
 beboppers
 bonne
 bubbly
@@ -13966,6 +13965,7 @@ boxcar
 bonify
 boxcars
 benzaldiphenyl
+barwing
 billete
 boxed
 blent
