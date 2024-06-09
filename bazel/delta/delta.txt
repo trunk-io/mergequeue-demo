@@ -4390,7 +4390,6 @@ dorsointestinal
 dem
 dioptrometer
 demagnetisation
-demagnetise
 detraining
 demagnetising
 diacranteric
@@ -12612,6 +12611,7 @@ disentanglements
 degradational
 dicotyledons
 disjasked
+demagnetise
 disanoint
 disjasket
 disjaskit
