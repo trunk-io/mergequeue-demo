@@ -4605,7 +4605,6 @@ groundplot
 grademark
 girder
 generalate
-girdlecake
 gradal
 governorate
 gluten
@@ -5680,6 +5679,7 @@ garuda
 gravestone
 governance
 giantesque
+girdlecake
 globulite
 globus
 grossular
