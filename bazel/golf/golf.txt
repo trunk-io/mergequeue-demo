@@ -5776,7 +5776,6 @@ glossa
 graphy
 glossal
 glossalgy
-goodlike
 goldanged
 gruis
 goldless
@@ -9496,6 +9495,7 @@ graped
 goloch
 grouseberry
 groused
+goodlike
 gonglike
 grouselike
 gem
