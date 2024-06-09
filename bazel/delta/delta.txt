@@ -4179,6 +4179,7 @@ dihybrid
 delimitating
 delimitation
 delimiter
+disorganic
 delimiting
 displumed
 diphyletic
@@ -15310,7 +15311,6 @@ disjointedness
 dumpty
 demerge
 dolomitize
-disorganic
 diabolical
 dolomize
 deadlatch
