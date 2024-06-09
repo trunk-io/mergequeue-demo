@@ -2108,6 +2108,7 @@ diapasm
 doab
 despoilment
 decameron
+digraph
 depastured
 dermophytic
 duograph
@@ -9618,7 +9619,6 @@ dyophone
 dispensatorily
 digoxins
 downloadable
-digraph
 digraphically
 digredience
 drogher
