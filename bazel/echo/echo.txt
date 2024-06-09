@@ -1177,7 +1177,6 @@ edile
 exanthematous
 epyllion
 estonian
-ectocranial
 ediles
 evodia
 exploders
@@ -4777,6 +4776,7 @@ enterotomy
 excusatory
 encloud
 encode
+ectocranial
 existible
 encoded
 eremopteris
