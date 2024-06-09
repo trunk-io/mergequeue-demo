@@ -1139,7 +1139,6 @@ acclimatized
 academes
 academy
 academian
-academic
 areae
 aneroidograph
 academicism
@@ -23671,6 +23670,7 @@ auscultascope
 autoregenerator
 adzes
 andropetalar
+academic
 auscultated
 androphobia
 auscultates
