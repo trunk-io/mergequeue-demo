@@ -6561,7 +6561,6 @@ descensory
 descensories
 descent
 dekameter
-descents
 durables
 drawnet
 disconcerted
@@ -9941,6 +9940,7 @@ dimethylsulphoxide
 dislock
 dimethoxy
 dropworts
+descents
 diplodocuses
 dermatoptic
 drear
