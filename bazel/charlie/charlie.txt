@@ -9967,7 +9967,6 @@ cameograph
 catalogic
 chemosorb
 chemosorption
-chemosorptive
 chemosphere
 christenhead
 collateral
@@ -27155,6 +27154,7 @@ countershear
 clinologic
 configurable
 countershine
+chemosorptive
 countershock
 counterside
 crance

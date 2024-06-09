@@ -10842,7 +10842,6 @@ firman
 fescennine
 furoin
 fishpool
-facies
 fulgency
 fortified
 figureheadless
@@ -11411,6 +11410,7 @@ furnariidae
 fleeciest
 furnariides
 flect
+facies
 floralize
 furnish
 furnishable
