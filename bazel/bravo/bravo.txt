@@ -13633,6 +13633,7 @@ bleachability
 boulderhead
 bouldering
 boules
+bandanna
 bilskirnir
 brairo
 bigener
@@ -14732,7 +14733,6 @@ brawls
 brawlsome
 brawnedness
 braved
-bandanna
 brawnily
 babel
 brightener
