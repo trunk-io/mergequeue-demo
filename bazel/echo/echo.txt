@@ -762,7 +762,6 @@ embargo
 enabler
 economise
 eschaunge
-endotheloid
 entrapping
 ensnare
 economism
@@ -5095,6 +5094,7 @@ enfield
 endocyst
 educatory
 exopterygotic
+endotheloid
 endocystitis
 epidendral
 experted
