@@ -1232,7 +1232,6 @@ edna
 ettarre
 enrichments
 economizers
-encryption
 enterobiasis
 edomitish
 exorbitate
@@ -6531,6 +6530,7 @@ electronegative
 entamoeba
 encephalorrhagia
 ectophytic
+encryption
 erythrocytometer
 entamoebic
 entomophthora
