@@ -11252,7 +11252,6 @@ evanescible
 evanescing
 endew
 expilation
-equipt
 evangelary
 exostracism
 endover
@@ -13291,6 +13290,7 @@ explosions
 exorcisms
 explosively
 explosiveness
+equipt
 electromyograph
 elusively
 embroiderer
