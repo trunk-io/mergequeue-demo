@@ -1050,7 +1050,6 @@ edam
 endomitotic
 edaphology
 edaphon
-epicures
 edaphosauria
 edaphosaurid
 exorbital
@@ -1308,6 +1307,7 @@ eel
 eelboat
 eudendrium
 ensculpture
+epicures
 epigrammatise
 eelbobber
 eelcake

@@ -2650,7 +2650,6 @@ fitness
 ferromanganese
 ferrometer
 filagreed
-fumarine
 ferronatrite
 foh
 filicologist
@@ -9291,6 +9290,7 @@ frames
 fator
 frapler
 flunkydom
+fumarine
 futuramic
 foldwards
 foldboats
