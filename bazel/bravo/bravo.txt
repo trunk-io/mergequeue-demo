@@ -2191,7 +2191,6 @@ backup
 brecken
 blahlaut
 baptisias
-baptisin
 bitulithic
 bitbrace
 boneen
@@ -12707,6 +12706,7 @@ bookworms
 battycake
 bahuma
 bonze
+baptisin
 bonzer
 betattered
 bosk
