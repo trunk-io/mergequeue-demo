@@ -4014,7 +4014,6 @@ grades
 gloves
 gnide
 grocery
-germane
 gigots
 gigs
 gigster
@@ -7632,6 +7631,7 @@ gorgonlike
 gool
 geobotanically
 gnathometer
+germane
 gleary
 gardeny
 grader
