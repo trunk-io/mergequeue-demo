@@ -8859,7 +8859,6 @@ expedients
 extime
 elev
 enterozoan
-eranthemum
 el
 erased
 ejective
@@ -12636,6 +12635,7 @@ exoculation
 exoderm
 exodermis
 exoderms
+eranthemum
 elephantidae
 eulogise
 exody
