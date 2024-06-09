@@ -919,7 +919,6 @@ encroached
 ectognatha
 entailed
 ectomorph
-ectomorphic
 ectonephridium
 ectoparasite
 ectoparasitica
@@ -9423,6 +9422,7 @@ esbatement
 enlock
 escalade
 empoison
+ectomorphic
 exolution
 emotionally
 effecter
