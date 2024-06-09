@@ -5402,6 +5402,7 @@ comprint
 casterless
 cinemograph
 corncob
+cibolan
 casters
 castes
 casteth
@@ -28455,7 +28456,6 @@ cienaga
 coccid
 creamlaid
 coccobaccilli
-cibolan
 cariacine
 creamless
 creamlike

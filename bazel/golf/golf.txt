@@ -405,7 +405,6 @@ galateas
 glub
 glucogenesis
 galbula
-galatine
 gelled
 gelding
 galaxes
@@ -3048,6 +3047,7 @@ geoids
 geoisotherm
 geolatry
 geologer
+galatine
 geotonus
 geologian
 geological
