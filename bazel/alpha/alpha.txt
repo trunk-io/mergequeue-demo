@@ -13,7 +13,6 @@ ammiral
 autoimmunities
 aivr
 aani
-aardvarks
 archerfish
 aardwolves
 aaron
@@ -1331,6 +1330,7 @@ acc
 accable
 accademia
 avellaneous
+aardvarks
 accel
 accelerable
 accelerando
