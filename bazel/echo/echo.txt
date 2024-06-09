@@ -6228,7 +6228,6 @@ enounce
 egrid
 enounced
 extenuating
-enouncement
 eriocaulon
 epimerite
 effuses
@@ -13751,6 +13750,7 @@ edestosaurus
 exhaustible
 epididymectomy
 extolling
+enouncement
 extolls
 extols
 ecblastpsis
