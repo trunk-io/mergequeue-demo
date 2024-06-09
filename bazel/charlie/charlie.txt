@@ -7708,7 +7708,6 @@ cerebrospinal
 chaetotaxy
 cerebrospinant
 cerebrosuria
-cerebrotonia
 cerebrovascular
 cerebrum
 collarets
@@ -14957,6 +14956,7 @@ cytode
 cytoderm
 cytodiagnosis
 cytoecology
+cerebrotonia
 coinferred
 commiseratively
 cytogene
