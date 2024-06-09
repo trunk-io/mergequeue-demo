@@ -1579,6 +1579,7 @@ balletomania
 bigged
 ballets
 ballfield
+blowtube
 ballgame
 bookish
 ballgames
@@ -11375,7 +11376,6 @@ bespoused
 blowsier
 blowsily
 blowtorches
-blowtube
 baptize
 blowup
 betokening
