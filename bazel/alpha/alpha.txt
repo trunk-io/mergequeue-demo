@@ -1758,7 +1758,6 @@ accusatrixes
 accuse
 amidships
 accused
-accuser
 accusers
 asport
 achatour
@@ -2491,6 +2490,7 @@ acoelomi
 acanthopore
 abaisance
 acoemetae
+accuser
 attemperance
 acoemeti
 acoine
