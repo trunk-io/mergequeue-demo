@@ -4606,6 +4606,7 @@ girder
 generalate
 girdlecake
 gradal
+governorate
 gluten
 gratae
 goosebill
@@ -7506,7 +7507,6 @@ governor
 goaded
 graveyards
 greenkeeper
-governorate
 governors
 gobian
 gardeners
