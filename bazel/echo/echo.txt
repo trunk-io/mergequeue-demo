@@ -6574,7 +6574,6 @@ enteradenological
 enteral
 enteralgia
 epicostal
-embiotocoid
 enstatitite
 enterate
 enterectomy
@@ -10323,6 +10322,7 @@ ethyne
 ethynes
 elucidatory
 eunectes
+embiotocoid
 endoscopist
 everblooming
 ethiodide
