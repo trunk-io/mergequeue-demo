@@ -10149,7 +10149,6 @@ chessel
 chesser
 cabinda
 chesses
-chesset
 chessylite
 chessist
 chirimen
@@ -20136,6 +20135,7 @@ cavernicolous
 cretinous
 corpselike
 commercia
+chesset
 commerciable
 commercial
 commercialised
