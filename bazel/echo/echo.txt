@@ -4347,7 +4347,6 @@ encomia
 extensity
 enami
 enamorado
-enamorate
 enamorato
 enamored
 enamoring
@@ -8770,6 +8769,7 @@ escopet
 equisetaceous
 epicondylar
 encamps
+enamorate
 ecstatics
 esthesiogenic
 elastometry
