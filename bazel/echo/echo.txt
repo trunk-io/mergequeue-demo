@@ -2551,7 +2551,6 @@ engines
 epithelilia
 euphony
 echoist
-exactiveness
 electromagnetism
 endosmose
 electromagnetist
@@ -3635,6 +3634,7 @@ embracive
 embraid
 embrail
 empowers
+exactiveness
 embranchment
 eluviating
 evestar
