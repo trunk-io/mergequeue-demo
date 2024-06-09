@@ -4160,7 +4160,6 @@ cardiopath
 cardiopathic
 cardiopericarditis
 cardiophobe
-cardiophobia
 cardiophrenia
 capette
 cardiopyloric
@@ -21531,6 +21530,7 @@ concordal
 concordance
 concordancer
 curliewurly
+cardiophobia
 concordances
 concordancy
 concordant
