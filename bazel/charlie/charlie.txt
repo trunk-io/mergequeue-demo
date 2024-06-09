@@ -363,7 +363,6 @@ cacolet
 circulable
 citronella
 carbodiimide
-cacolike
 cacology
 cosseted
 cacomagician
@@ -5006,6 +5005,7 @@ cassettes
 cartouch
 cartouche
 cust
+cacolike
 costrel
 chiclero
 cartouches
