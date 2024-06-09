@@ -3282,7 +3282,6 @@ defendable
 dikast
 demimondaine
 defendant
-dejeuners
 defendants
 defender
 defenders
@@ -6243,6 +6242,7 @@ deringa
 derisible
 derisively
 derisiveness
+dejeuners
 deferable
 douzainier
 denouncers
