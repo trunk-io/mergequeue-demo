@@ -6505,6 +6505,7 @@ fizzier
 foldskirt
 frogger
 facticide
+frenetic
 fraist
 flytail
 finecomb
@@ -11702,7 +11703,6 @@ forayers
 foreacquaint
 frivolism
 faiences
-frenetic
 forefaces
 filmmaker
 friarhood
