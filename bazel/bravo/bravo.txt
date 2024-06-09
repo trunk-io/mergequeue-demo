@@ -2661,7 +2661,6 @@ birdhouses
 barking
 barkinji
 barkless
-barklyite
 barkometer
 bescorch
 batrachite
@@ -3947,6 +3946,7 @@ bawneen
 bawra
 bestial
 barrow
+barklyite
 bullyable
 bawsint
 bawsunt
