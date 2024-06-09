@@ -5894,6 +5894,7 @@ ageometrical
 ager
 ageratums
 agers
+autogenous
 ages
 agete
 achroiocythemia
@@ -24078,7 +24079,6 @@ autogenetically
 autogeny
 autogenic
 autogenies
-autogenous
 accelerating
 antiresonator
 abrasiometer
