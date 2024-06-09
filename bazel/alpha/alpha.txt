@@ -17236,7 +17236,6 @@ apokatastasis
 anapaestic
 abstracting
 antiserum
-anchoring
 alignments
 armrest
 ahint
@@ -17927,6 +17926,7 @@ apposition
 appositional
 appositionally
 appositive
+anchoring
 apppetible
 appraisable
 atmans
