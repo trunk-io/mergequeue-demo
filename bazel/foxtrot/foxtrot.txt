@@ -3796,7 +3796,6 @@ fullword
 filmogen
 frutescent
 filmography
-filmographies
 felspathose
 freewheeler
 ferrotypes
@@ -7723,6 +7722,7 @@ fiduciarily
 freedmen
 foreknowing
 fruitade
+filmographies
 foreknowingly
 frere
 foreleg
