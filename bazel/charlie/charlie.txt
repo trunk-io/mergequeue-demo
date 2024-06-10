@@ -4860,6 +4860,7 @@ carriage
 carriageable
 carriageful
 carriages
+crosstie
 carriagesmith
 cinchonicin
 carriageway
@@ -29948,7 +29949,6 @@ cardinals
 crosstail
 creepier
 crosstalk
-crosstie
 crosstoes
 crosstown
 crosstrack
