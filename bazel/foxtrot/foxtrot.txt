@@ -4833,6 +4833,7 @@ fungal
 flailing
 fisheries
 followable
+fulgora
 flails
 flain
 furoic
@@ -10054,7 +10055,6 @@ flor
 foollike
 frontopontine
 flans
-fulgora
 fringehead
 fling
 fringelet
