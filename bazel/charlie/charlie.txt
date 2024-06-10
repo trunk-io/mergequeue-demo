@@ -2290,6 +2290,7 @@ crutches
 canaliculus
 canaliferous
 canaliform
+crafted
 canalis
 conflagrant
 canalise
@@ -27996,7 +27997,6 @@ cradlesong
 cradlesongs
 cradling
 craft
-crafted
 craftiest
 calycanthus
 conduces
