@@ -2939,7 +2939,6 @@ gynaeceum
 groggier
 greekery
 gnawable
-grindstone
 gypsy
 geo
 gallerylike
@@ -10231,6 +10230,7 @@ getspa
 gutty
 guyers
 guijo
+grindstone
 grummest
 gammoning
 globalism
