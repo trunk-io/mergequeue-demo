@@ -837,6 +837,7 @@ fortes
 flog
 fissidentaceae
 fanions
+faun
 furdle
 fallout
 firebolt
@@ -1546,7 +1547,6 @@ flaunter
 focusers
 footplate
 filmmaking
-faun
 frimaire
 foulards
 ferreiro
