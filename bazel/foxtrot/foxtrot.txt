@@ -5776,7 +5776,6 @@ foreswearing
 funned
 flittered
 flittermice
-flittermmice
 flittermouse
 farmlands
 fathmur
@@ -6132,6 +6131,7 @@ fishlines
 floridean
 flouted
 fulminations
+flittermmice
 flouters
 fishtailed
 floutingly
