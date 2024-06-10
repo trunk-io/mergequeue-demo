@@ -7405,6 +7405,7 @@ epeiric
 egriot
 epeirid
 ersatzes
+eucyclic
 epeirogenesis
 epeirogenically
 erythrina
@@ -13335,7 +13336,6 @@ envassalage
 exposit
 expositing
 esthesiometry
-eucyclic
 exsanguinity
 explanatoriness
 everydeal
