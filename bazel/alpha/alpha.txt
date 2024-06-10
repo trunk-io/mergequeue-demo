@@ -4106,6 +4106,7 @@ annexment
 aureolae
 admonitionist
 admonitions
+anabasis
 acrasia
 admonitive
 admonitively
@@ -7934,7 +7935,6 @@ agglutinates
 alert
 alerta
 anorak
-anabasis
 alertedly
 alerters
 alertest
