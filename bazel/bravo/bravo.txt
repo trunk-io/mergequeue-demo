@@ -3586,7 +3586,6 @@ bathala
 batheable
 bathed
 bellower
-bather
 bathes
 bathetically
 bathhouses
@@ -12535,6 +12534,7 @@ bondsmen
 bondstone
 bondswoman
 bondswomen
+bather
 bagpiped
 bondwoman
 bone
