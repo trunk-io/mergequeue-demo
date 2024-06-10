@@ -15647,7 +15647,6 @@ doorman
 doormats
 doormen
 doornboom
-draconis
 doorpiece
 drivel
 dowl
@@ -17159,6 +17158,7 @@ decade
 demission
 decius
 demurs
+draconis
 dimwittedness
 drinkables
 drinker
