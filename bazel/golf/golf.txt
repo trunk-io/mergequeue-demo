@@ -4221,7 +4221,6 @@ glassrope
 gymnolaemata
 gunster
 gamobium
-gymnonoti
 guaranin
 gastrocoele
 gymnopaedic
@@ -7282,6 +7281,7 @@ glareolidae
 gospels
 gospelwards
 gossard
+gymnonoti
 gosplan
 grabbings
 getfd
