@@ -452,7 +452,6 @@ fairway
 fragility
 faultfinders
 fieldbird
-fluentness
 fays
 faisan
 floriculturist
@@ -3150,6 +3149,7 @@ forechoice
 fibrocystoma
 faint
 federalness
+fluentness
 fascinating
 formulas
 fibrocyte
