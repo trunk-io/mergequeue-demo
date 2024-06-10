@@ -2762,7 +2762,6 @@ funnier
 folkway
 fathomer
 fusain
-fervours
 fishboat
 fescue
 foggish
@@ -5437,6 +5436,7 @@ felinophile
 flagfall
 fletcherism
 following
+fervours
 factories
 fletchers
 furrower
