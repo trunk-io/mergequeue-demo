@@ -12695,7 +12695,6 @@ angels
 agnamed
 angelship
 angeluses
-aponia
 anger
 angered
 angering
@@ -22213,6 +22212,7 @@ anathem
 astragalocalcaneal
 anticreep
 astragalocentral
+aponia
 antiquates
 astragalomancy
 animality
