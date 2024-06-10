@@ -3194,7 +3194,6 @@ geosphere
 guerilla
 gal
 graylags
-geotaxes
 guardiancy
 geotechnic
 graplin
@@ -8441,6 +8440,7 @@ genesic
 geognostical
 gravelly
 genie
+geotaxes
 gramineae
 ginglymus
 geomedical
