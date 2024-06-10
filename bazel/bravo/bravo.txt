@@ -2144,7 +2144,6 @@ bans
 bufagin
 boguing
 bulker
-bansela
 billbeetle
 banshies
 bornan
@@ -16918,6 +16917,7 @@ banneret
 bugeye
 bugeyes
 bugfish
+bansela
 bonducs
 buggane
 bespurred
