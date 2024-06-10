@@ -2019,7 +2019,6 @@ ekacaesium
 ekasilicon
 epop
 ekebergite
-ekename
 earthen
 etymologisable
 exteriorate
@@ -3431,6 +3430,7 @@ expenditures
 embellished
 electrosynthetic
 extortionateness
+ekename
 epizoites
 embellisher
 earlish
