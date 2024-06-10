@@ -7100,7 +7100,6 @@ boma
 baronage
 benzines
 banig
-beetling
 beryllia
 besnowing
 besognier
@@ -7641,6 +7640,7 @@ bewailable
 burglarproof
 bewailers
 buskins
+beetling
 belimousined
 blowpit
 bewailing
