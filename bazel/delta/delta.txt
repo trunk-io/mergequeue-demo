@@ -3707,7 +3707,6 @@ decomposite
 debacles
 degorge
 degradable
-degradations
 degradative
 degraded
 degradement
@@ -16489,6 +16488,7 @@ drachmai
 dracin
 decemviri
 damaskin
+degradations
 deliber
 dasyprocta
 datiscin
