@@ -2032,7 +2032,6 @@ gaussmeter
 gauster
 gynoeciumcia
 granville
-giantry
 glamourization
 goosetongue
 goosewing
@@ -3768,6 +3767,7 @@ giarre
 genetmoil
 guilelessness
 greece
+giantry
 gibber
 gaslightness
 gibberella
