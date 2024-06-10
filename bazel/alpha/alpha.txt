@@ -2968,7 +2968,6 @@ actinide
 archenteron
 actinidia
 actinidiaceae
-annualist
 actiniferous
 axtree
 aulostomi
@@ -21956,6 +21955,7 @@ assuages
 assuasive
 aquameter
 assuetude
+annualist
 accessor
 avantgarde
 assume
