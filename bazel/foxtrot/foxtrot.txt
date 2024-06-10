@@ -6385,6 +6385,7 @@ fluorescigenous
 farrandly
 fronture
 foredooms
+formalization
 frogspawn
 fanit
 fluorhydric
@@ -8409,7 +8410,6 @@ felonry
 formalities
 formalizable
 flavobacterium
-formalization
 formalizations
 fictitiously
 formerness
