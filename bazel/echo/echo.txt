@@ -8750,7 +8750,6 @@ equipondious
 extreat
 equipotential
 endostyle
-equipped
 electrostereotype
 epulotic
 equiprobability
@@ -12643,6 +12642,7 @@ elaphodus
 equiaxial
 exodic
 erythrocyte
+equipped
 exodontia
 encincturing
 emeralds
