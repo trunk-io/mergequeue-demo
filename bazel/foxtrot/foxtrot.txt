@@ -3613,7 +3613,6 @@ felinity
 favilla
 fungivorous
 files
-filesmith
 filesniff
 foreaccustom
 filespec
@@ -10395,6 +10394,7 @@ footer
 filigree
 forcaria
 fomenters
+filesmith
 feudalistic
 fringeflower
 frictionlessly
