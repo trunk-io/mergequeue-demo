@@ -10280,7 +10280,6 @@ blackjack
 behung
 besague
 britany
-blackjacked
 blackjacking
 blackjacks
 blackland
@@ -17246,6 +17245,7 @@ bullwhipped
 bromindigo
 bullwhipping
 beflout
+blackjacked
 bullwort
 berstel
 bulrush
