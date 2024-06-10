@@ -1244,6 +1244,7 @@ educables
 educand
 educatability
 eident
+enwreathing
 educatable
 educatedness
 electrolyzable
@@ -7231,7 +7232,6 @@ ecumenic
 enneasyllabic
 enwreathe
 epistasis
-enwreathing
 exanimate
 encheiria
 exactest
