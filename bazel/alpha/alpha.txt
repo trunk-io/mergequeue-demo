@@ -9557,7 +9557,6 @@ ametaboly
 altiplano
 antipot
 accise
-altiscope
 altissimo
 altitude
 amplifiers
@@ -14818,6 +14817,7 @@ anticatarrhal
 anticathexis
 afernan
 anticathode
+altiscope
 anticaustic
 alloimmune
 anticensorial
