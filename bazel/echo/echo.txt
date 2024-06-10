@@ -413,7 +413,6 @@ empoisons
 ebulliometer
 exacerbation
 ergometer
-ebullioscopy
 ebullioscopic
 epaxially
 earworm
@@ -11157,6 +11156,7 @@ eiderdown
 endoplast
 epilatory
 eyebeams
+ebullioscopy
 emeer
 earlywood
 euthenist
