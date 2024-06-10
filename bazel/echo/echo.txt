@@ -2346,6 +2346,7 @@ electroanesthesia
 eavesdrop
 entrapper
 electroballistics
+earthquake
 electrobath
 electrobiological
 epicenity
@@ -13458,7 +13459,6 @@ exculpates
 editing
 etruscologist
 envineyard
-earthquake
 exsanguine
 eristic
 exsanguineous
