@@ -4940,7 +4940,6 @@ aerographical
 aerographies
 aerogun
 aerohydrodynamic
-aerohydropathy
 approachment
 akaroa
 antritis
@@ -19114,6 +19113,7 @@ archontic
 archoplasmic
 archorrhagia
 archorrhea
+aerohydropathy
 antipersonnel
 archostegnosis
 archoverseer
