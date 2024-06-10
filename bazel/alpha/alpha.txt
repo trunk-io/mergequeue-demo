@@ -269,6 +269,7 @@ abdominoscopy
 agas
 abdominothoracic
 abdominous
+aurifying
 abducens
 abducentes
 abduces
@@ -23608,7 +23609,6 @@ agrypnias
 aurific
 aceology
 algorism
-aurifying
 auriflamme
 auriga
 aurigal
