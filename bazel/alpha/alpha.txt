@@ -5730,7 +5730,6 @@ agamous
 aminoacetone
 aganice
 ambrosia
-acarocecidia
 amentiferous
 ashlared
 agaonidae
@@ -23975,6 +23974,7 @@ autocolony
 autocombustion
 autoconduction
 axmaster
+acarocecidia
 aporrhaidae
 algocyan
 anthracnosis
