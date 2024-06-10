@@ -1649,7 +1649,6 @@ accreditate
 annule
 archpresbyter
 accreditations
-animal
 accrediting
 aeraria
 accresce
@@ -7013,6 +7012,7 @@ archworker
 ajangle
 atrioventricular
 arborist
+animal
 appreciatorily
 ajari
 arcae
