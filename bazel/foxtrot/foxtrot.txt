@@ -5655,6 +5655,7 @@ footpound
 fermata
 flintwood
 fanfold
+feus
 flintworker
 folioliferous
 flyovers
@@ -8198,7 +8199,6 @@ fioriture
 forficulidae
 furtherance
 frenziedness
-feus
 forfouchten
 forfoughten
 finestra
