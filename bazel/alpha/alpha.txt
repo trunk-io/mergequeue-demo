@@ -11650,7 +11650,6 @@ anaeretic
 astrometeorologist
 anaerobation
 anaerobian
-anaerobic
 acrocentric
 anaerobies
 anaerobion
@@ -21057,6 +21056,7 @@ asclepiadic
 autosender
 asclepian
 asclepidin
+anaerobic
 asclepidoid
 asclepin
 adamant
