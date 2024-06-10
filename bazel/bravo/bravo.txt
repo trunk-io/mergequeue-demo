@@ -3812,7 +3812,6 @@ banderilla
 battlestead
 battlewagon
 belemnid
-blast
 battleward
 bronchiectasis
 behatted
@@ -4805,6 +4804,7 @@ bedread
 bedrench
 baldling
 bedrenches
+blast
 bedribble
 bureaucratic
 bedrift

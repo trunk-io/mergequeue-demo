@@ -4907,7 +4907,6 @@ aerodrome
 aerodromes
 acetyltannin
 aeroduct
-aeroducts
 aeroelastic
 aeroelasticity
 aeroelastics
@@ -15048,6 +15047,7 @@ anticontagious
 anticontagiously
 aubades
 anticonvellent
+aeroducts
 anticonventional
 anticonventionalist
 anticonvulsive
