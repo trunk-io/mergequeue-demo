@@ -17178,6 +17178,7 @@ dimensions
 dryopithecus
 demagnetizes
 dryops
+dup
 dryopteroid
 disagio
 dripolator
@@ -18397,7 +18398,6 @@ drinky
 downhauls
 duotriode
 delichon
-dup
 dialysepalous
 disarrayed
 dupe
