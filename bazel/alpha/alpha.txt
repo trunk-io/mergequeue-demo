@@ -4038,6 +4038,7 @@ administratrices
 administratrix
 adminstration
 admirable
+authenticness
 admirably
 admiral
 admirals
@@ -23829,7 +23830,6 @@ authentication
 athetosic
 angularization
 alumbrado
-authenticness
 authigene
 authigenetic
 authigenous
