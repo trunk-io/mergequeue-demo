@@ -8156,7 +8156,6 @@ baalish
 biconnected
 boildown
 biconsonantal
-biconvex
 biconvexity
 bicorn
 benzoylformic
@@ -11771,6 +11770,7 @@ bobjerom
 blondest
 bowses
 bobol
+biconvex
 bedamns
 bedwarfs
 bobooti
