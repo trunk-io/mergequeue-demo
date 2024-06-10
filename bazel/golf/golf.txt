@@ -6240,7 +6240,6 @@ gadfly
 garibaldi
 goadsman
 gazetteers
-guarantine
 gondang
 goal
 glutted
@@ -7773,6 +7772,7 @@ grallic
 guaba
 groaners
 gralline
+guarantine
 gearwheels
 guttide
 gram
