@@ -3046,7 +3046,6 @@ bartramiaceae
 bartramian
 bartree
 banish
-blindage
 brogueneer
 bulwark
 baruch
@@ -17633,6 +17632,7 @@ burgraves
 burghmaster
 burring
 bearlet
+blindage
 bloodleaf
 burglarizing
 bradykinetic
