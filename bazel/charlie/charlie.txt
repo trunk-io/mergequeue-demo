@@ -2979,7 +2979,6 @@ cantlet
 cantline
 cantling
 canto
-canton
 confederatism
 cortege
 carvel
@@ -18048,6 +18047,7 @@ coincidency
 coeligenous
 coelin
 cantharellus
+canton
 coeliomyalgia
 coelioscopy
 czechic
