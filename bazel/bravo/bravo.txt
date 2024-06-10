@@ -6304,7 +6304,6 @@ bandalore
 benighter
 benign
 barked
-benignant
 breechloader
 begrudgingly
 becharm
@@ -11363,6 +11362,7 @@ blowlamp
 blown
 bauhinia
 blowoff
+benignant
 blowouts
 blowproof
 blows
