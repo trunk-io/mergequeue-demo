@@ -1701,7 +1701,6 @@ fumigates
 fear
 fimbles
 forgrow
-finite
 fearedly
 fadeaways
 forces
@@ -5627,6 +5626,7 @@ frustrater
 flindosa
 forbearant
 flingers
+finite
 firking
 flameproof
 frontoparietal
