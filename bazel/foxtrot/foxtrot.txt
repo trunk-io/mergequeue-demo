@@ -2873,7 +2873,6 @@ fretted
 frontosquamosal
 fitcher
 faunae
-filanders
 farmsteads
 fetching
 fluidly
@@ -4415,6 +4414,7 @@ forlornest
 farms
 fishponds
 fibrilled
+filanders
 fishpotter
 forerigging
 fishskin
