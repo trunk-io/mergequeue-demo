@@ -8554,6 +8554,7 @@ edulcorator
 eurindic
 explants
 epuloid
+erases
 epulosis
 epuration
 exculpable
@@ -12373,7 +12374,6 @@ evase
 epithelize
 evader
 expects
-erases
 exfiguration
 extracathedral
 egolatrous
