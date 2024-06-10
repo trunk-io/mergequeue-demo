@@ -3185,7 +3185,6 @@ actuary
 aphis
 actuarian
 actuaryship
-actuates
 actuating
 actuation
 actuator
@@ -17146,6 +17145,7 @@ apocrine
 apocryph
 apocrypha
 apocryphalness
+actuates
 apocryphon
 argumentive
 apocrisiary
