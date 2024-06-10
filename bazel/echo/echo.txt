@@ -6865,6 +6865,7 @@ entoloma
 entom
 extender
 episternalia
+exsection
 equuleus
 eumenes
 ectosarcs
@@ -11163,7 +11164,6 @@ eyebeams
 emeer
 earlywood
 euthenist
-exsection
 erotetic
 euthycomi
 europiums
