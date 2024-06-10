@@ -9907,7 +9907,6 @@ dimerism
 defectuous
 dimerisms
 dimerization
-dimerize
 dimerized
 dimerizes
 dimers
@@ -11116,6 +11115,7 @@ disassociation
 decarburised
 disasterly
 disasters
+dimerize
 diagraphics
 doley
 disastrous
