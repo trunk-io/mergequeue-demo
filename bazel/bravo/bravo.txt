@@ -2647,7 +2647,6 @@ buccheros
 beknights
 barkentine
 barkentines
-barker
 barkery
 bub
 behn
@@ -7801,6 +7800,7 @@ bhagavat
 badinage
 bookrack
 bhagavata
+barker
 bugre
 bhaiyachara
 bulbotuber
