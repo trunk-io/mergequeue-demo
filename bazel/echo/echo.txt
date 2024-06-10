@@ -2512,7 +2512,6 @@ equiprobable
 electrolysation
 enervators
 electrolysed
-emigating
 electrolysing
 eparcuale
 epitomisation
@@ -13781,6 +13780,7 @@ ecteron
 esparto
 eastward
 extrabold
+emigating
 eukaryote
 extrabranchial
 enregistry
