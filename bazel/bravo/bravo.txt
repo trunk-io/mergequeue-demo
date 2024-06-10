@@ -3842,7 +3842,6 @@ batwing
 beswitch
 batwomen
 blastocolla
-bishopship
 beetlestock
 batz
 batzen
@@ -16684,6 +16683,7 @@ begoggled
 buckets
 blithehearted
 bakhtiari
+bishopship
 basilisk
 bilaan
 buckhounds
