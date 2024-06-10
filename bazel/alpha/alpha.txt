@@ -3042,7 +3042,6 @@ analcime
 actinomycosistic
 aphrodisiac
 amphiphloic
-actinomycotic
 arricci
 actinomyxidia
 actinomyxidiida
@@ -5593,6 +5592,7 @@ aftershave
 aftershocks
 aftersound
 afterspring
+actinomycotic
 afterstretch
 autosuggestive
 afterstudy
