@@ -3006,6 +3006,7 @@ geodynamic
 geodynamical
 geodynamics
 guilt
+gyroplane
 gurkha
 grebes
 gollop
@@ -6392,7 +6393,6 @@ gruneritization
 grubstaker
 gibblegable
 guarantorship
-gyroplane
 goblins
 gobo
 gobony
