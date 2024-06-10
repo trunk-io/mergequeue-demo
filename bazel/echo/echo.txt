@@ -327,7 +327,6 @@ eatables
 electrolyzability
 eaten
 eighty
-emetophobia
 enchantment
 evangelian
 empeirema
@@ -3403,6 +3402,7 @@ equilibrium
 elohist
 embarricado
 embarring
+emetophobia
 epionynychia
 ephoral
 embase
