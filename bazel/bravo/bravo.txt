@@ -694,7 +694,6 @@ baculiform
 bathyesthesia
 baculine
 boiseries
-bedust
 baculites
 baculiticone
 baculoid
@@ -1317,6 +1316,7 @@ biogasses
 balanoposthitis
 bury
 bedbug
+bedust
 bacterioprecipitin
 buffers
 bishophood
