@@ -4489,7 +4489,6 @@ extrusile
 epiphyllum
 encashing
 encashment
-elementarity
 etesian
 enneadianome
 encasing
@@ -13684,6 +13683,7 @@ externs
 engrail
 ewers
 elocular
+elementarity
 elatine
 emersions
 esteemed
