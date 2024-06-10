@@ -5560,7 +5560,6 @@ deadest
 deoxidised
 deoxidiser
 dorsiventrality
-diameter
 deoxidize
 deoxidizer
 dreggy
@@ -12828,6 +12827,7 @@ dinical
 dysmenorrheal
 decadrachm
 deferentiality
+diameter
 dhanvantari
 dysmenorrheic
 dysmenorrhoea
