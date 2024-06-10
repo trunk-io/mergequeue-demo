@@ -10585,7 +10585,6 @@ baizes
 beleaguer
 berbamine
 brindles
-blastoid
 bodywood
 burin
 bullied
@@ -12755,6 +12754,7 @@ besilver
 biaswise
 boojum
 barquette
+blastoid
 book
 balsamo
 benchless
