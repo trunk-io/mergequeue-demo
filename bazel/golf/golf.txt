@@ -10321,7 +10321,6 @@ ganges
 goralog
 gleaner
 genipa
-gauffred
 gujarati
 gd
 glood
@@ -10337,6 +10336,7 @@ gul
 gula
 granolith
 glomming
+gauffred
 goodly
 gaspergous
 gladiest
