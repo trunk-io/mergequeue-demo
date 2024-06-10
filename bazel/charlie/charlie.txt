@@ -17031,7 +17031,6 @@ clupeid
 cosignitary
 clupeids
 clupeiform
-clupeiod
 classis
 clupeodei
 caviar
@@ -28615,6 +28614,7 @@ correllation
 creen
 consensual
 creepage
+clupeiod
 creepered
 centrosema
 confuted
