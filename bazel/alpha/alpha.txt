@@ -2607,7 +2607,6 @@ acquiescent
 abacli
 ansate
 acquiescently
-acquiescer
 acquiesces
 amygdalotomy
 accrescent
@@ -12507,6 +12506,7 @@ antisudorific
 anemophile
 anemopsis
 anemoscope
+acquiescer
 antivice
 anemoses
 accessively
