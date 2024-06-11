@@ -8543,7 +8543,6 @@ ecphoriae
 edulcorator
 eurindic
 explants
-epuloid
 erases
 epulosis
 epuration
@@ -12755,6 +12754,7 @@ erythroxylum
 encumber
 exam
 exorcization
+epuloid
 exorcized
 engramma
 eisodic
