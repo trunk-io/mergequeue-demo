@@ -355,7 +355,6 @@ backflowing
 backframe
 backfriend
 borgh
-backfurrow
 backgame
 bepuzzle
 backgammon
@@ -13131,6 +13130,7 @@ bouncers
 borghalpenny
 beryls
 borghi
+backfurrow
 bori
 boric
 baalath
