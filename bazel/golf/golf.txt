@@ -8605,7 +8605,6 @@ galilei
 goosing
 guardless
 grecoue
-grecque
 gnu
 greenage
 groff
@@ -10294,6 +10293,7 @@ greentail
 guise
 guitar
 gorgonesque
+grecque
 gourmet
 guitarist
 guitarists
