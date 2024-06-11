@@ -2499,7 +2499,6 @@ exoticalness
 elasticum
 electroless
 electrolier
-equiprobable
 electrolysation
 enervators
 electrolysed
@@ -8930,6 +8929,7 @@ ee
 eyecups
 epimorphism
 erethistic
+equiprobable
 erewhile
 erewhiles
 erg
