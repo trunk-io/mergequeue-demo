@@ -4439,7 +4439,6 @@ fishworker
 frazil
 ferrovanadium
 fringilliformes
-furze
 fisnoga
 flogging
 finicality
@@ -9971,6 +9970,7 @@ foremessenger
 flappiest
 fainly
 frieseite
+furze
 friesian
 frightening
 ferromagneticism
