@@ -4751,7 +4751,6 @@ ceiler
 cachinate
 carphology
 carphophis
-carphosiderite
 carpid
 cogredient
 carpincho
@@ -25801,6 +25800,7 @@ conule
 corresponding
 crated
 corresponsion
+carphosiderite
 corresponsively
 corridas
 chedlock
