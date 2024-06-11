@@ -3148,6 +3148,7 @@ dentaria
 disappointer
 defacer
 delible
+designated
 daddock
 defacers
 defaces
@@ -6751,7 +6752,6 @@ desight
 designable
 dhutis
 designado
-designated
 direct
 designates
 designative
