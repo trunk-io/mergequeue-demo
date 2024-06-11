@@ -557,7 +557,6 @@ biggishness
 bunt
 backwashing
 barberess
-barographic
 bike
 brith
 bandboxical
@@ -4687,6 +4686,7 @@ bedfellows
 buildable
 bedford
 bedframes
+barographic
 burnettized
 bedgoer
 bedgowns
