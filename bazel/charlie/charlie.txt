@@ -7718,7 +7718,6 @@ cerebrosuria
 cerebrovascular
 cerebrum
 collarets
-cerement
 cerements
 ceremony
 chrysoeriol
@@ -10998,6 +10997,7 @@ chirogymnast
 cautel
 cornu
 chirognomy
+cerement
 chirognomic
 chirognomically
 chirognomist
