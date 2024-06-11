@@ -14909,6 +14909,7 @@ cityfolk
 citigradae
 cigale
 coordinate
+coenamor
 cheliceral
 chiarooscuros
 cityness
@@ -18117,7 +18118,6 @@ coenacts
 coenacula
 coenaculous
 coenaesthesis
-coenamor
 coenamored
 coenamors
 chiromancy
