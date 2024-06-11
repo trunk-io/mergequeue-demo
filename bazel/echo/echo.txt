@@ -4499,6 +4499,7 @@ endolithic
 encephalartos
 encephalasthenia
 escocheon
+electrostatics
 encephalic
 encephalin
 erythrophagous
@@ -8323,7 +8324,6 @@ endolaryngeal
 eryopid
 epitactic
 epitaphian
-electrostatics
 epitaphist
 euripupi
 ejection
