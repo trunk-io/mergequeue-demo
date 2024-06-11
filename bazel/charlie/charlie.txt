@@ -16726,7 +16726,6 @@ close
 closeable
 closecross
 closed
-closedown
 closefistedly
 closefistedness
 concussant
@@ -21058,6 +21057,7 @@ compted
 compter
 comptie
 compting
+closedown
 comptness
 comptoir
 comptometer
