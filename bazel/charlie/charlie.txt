@@ -3589,7 +3589,6 @@ calefaction
 carabinier
 carabiniere
 carabinieri
-carabins
 cotrespasser
 caraboa
 cinques
@@ -17539,6 +17538,7 @@ chokeweed
 cobbling
 cobbra
 cobbs
+carabins
 chloritoid
 calixtin
 categorematically
