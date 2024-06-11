@@ -5822,7 +5822,6 @@ fairs
 florideae
 floatation
 fists
-firesides
 finicky
 floated
 forebooms
@@ -11316,6 +11315,7 @@ firedog
 furciferine
 feverfew
 fresnels
+firesides
 felicitator
 fraternize
 furciform
