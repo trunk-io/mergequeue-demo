@@ -2121,7 +2121,6 @@ griefs
 gawkhammer
 geat
 ghouls
-gemul
 gawkihood
 guggles
 grandness
@@ -7696,6 +7695,7 @@ gynecicgynecidal
 geography
 graffias
 graffiti
+gemul
 gonystylaceae
 gaelicist
 goldbugs
