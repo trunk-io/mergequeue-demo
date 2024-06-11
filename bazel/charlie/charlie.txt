@@ -7773,7 +7773,6 @@ ceriphs
 cerise
 combustively
 cerithiidae
-cerithioid
 cerithium
 cerium
 ceriums
@@ -28329,6 +28328,7 @@ crossfiring
 carabineer
 crateriform
 cratering
+cerithioid
 craterkin
 chromites
 craterless
