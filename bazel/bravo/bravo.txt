@@ -12304,7 +12304,6 @@ boltcutter
 botanizer
 bookmark
 buckstay
-bolters
 behold
 boltheading
 bolthole
@@ -13453,6 +13452,7 @@ bokark
 bordrage
 botryomycosis
 botryopteriaceae
+bolters
 botryopterid
 bombycina
 bepester
