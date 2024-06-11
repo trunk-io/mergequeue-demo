@@ -1720,7 +1720,6 @@ accuracies
 ada
 approvement
 ammoniaemia
-affliction
 accurre
 accursed
 amerikani
@@ -11109,6 +11108,7 @@ amphiboles
 antipascha
 atresia
 amphiboly
+affliction
 axometric
 airiest
 amphiboline
