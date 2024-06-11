@@ -8406,7 +8406,6 @@ choyroot
 chalinitis
 chalkboard
 chalkboards
-chalkcutter
 chalked
 corrodant
 chalker
@@ -10856,6 +10855,7 @@ catalytically
 chinks
 concameration
 crash
+chalkcutter
 chinnam
 chorisos
 chinned
