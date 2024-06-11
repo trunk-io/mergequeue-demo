@@ -5441,7 +5441,6 @@ begrutten
 beguess
 blepharal
 beguileful
-bels
 beguilement
 biunial
 beguilements
@@ -7944,6 +7943,7 @@ bohmite
 bibless
 bipunctal
 biblical
+bels
 biblicality
 birdseeds
 biblicism
