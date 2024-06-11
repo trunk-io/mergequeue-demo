@@ -7781,6 +7781,7 @@ foremostly
 foremother
 fusillade
 flyblew
+filtrable
 forename
 furs
 furl
@@ -8700,7 +8701,6 @@ fortnights
 factful
 feck
 fortranh
-filtrable
 fortread
 fortresses
 furors
