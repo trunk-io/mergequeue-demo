@@ -5074,7 +5074,6 @@ countreeman
 cytozoon
 carves
 carvestrene
-carvy
 carving
 curses
 carvings
@@ -20775,6 +20774,7 @@ complexes
 complexest
 chelidonate
 crocoites
+carvy
 complexify
 complexing
 complexion
