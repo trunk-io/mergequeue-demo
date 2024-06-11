@@ -1826,7 +1826,6 @@ forbesite
 folkmots
 flak
 featishness
-farrand
 frustules
 flyspecks
 featliness
@@ -11080,6 +11079,7 @@ frameae
 flaminica
 forsakers
 flense
+farrand
 fracturs
 forbidder
 functionation
