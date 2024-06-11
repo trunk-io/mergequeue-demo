@@ -6638,7 +6638,6 @@ focussing
 fod
 fodder
 fodderer
-foreassign
 foder
 frontes
 flintily
@@ -7900,6 +7899,7 @@ foresee
 foreseeable
 finewed
 flexor
+foreassign
 footeite
 flooding
 ferd
