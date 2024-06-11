@@ -1363,6 +1363,7 @@ barrowcoat
 botrylle
 borderlands
 balbusard
+burlap
 bidarkas
 brayed
 butterbump
@@ -6762,7 +6763,6 @@ basirhinal
 bowermaiden
 brilliantine
 berkeleianism
-burlap
 bushelman
 berkeleyite
 berkelium
