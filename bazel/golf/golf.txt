@@ -5514,7 +5514,6 @@ goi
 glyptodontoid
 gymnophiona
 gracelike
-gynocardia
 gethsemane
 griphosaurus
 gaea
@@ -10592,6 +10591,7 @@ gunners
 gunning
 grandame
 glossmeter
+gynocardia
 gunocracy
 gourmetism
 glandaceous
