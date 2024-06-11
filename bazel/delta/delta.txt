@@ -2706,7 +2706,6 @@ decompensations
 doorkeeper
 dadaist
 decompiler
-decomposability
 decomposable
 deviceful
 dimmy
@@ -7495,6 +7494,7 @@ demobbing
 detur
 deturn
 deturpate
+decomposability
 demurity
 dopster
 digamist
