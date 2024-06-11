@@ -14209,7 +14209,6 @@ compend
 contretemps
 circadian
 crocodile
-circaetus
 coriandrol
 cleruchial
 circassic
@@ -28782,6 +28781,7 @@ cupeler
 crepon
 crept
 crepuscle
+circaetus
 compendiary
 crepuscular
 cavitate
