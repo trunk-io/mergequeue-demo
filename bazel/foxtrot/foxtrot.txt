@@ -4505,7 +4505,6 @@ featherleaf
 feuder
 feedable
 festschriften
-feuille
 fisticuff
 fort
 fouldre
@@ -6815,6 +6814,7 @@ frette
 folding
 foraminiferan
 fikery
+feuille
 folds
 florula
 fenceplay
