@@ -1300,7 +1300,6 @@ gapping
 grex
 galvaniser
 guib
-garblings
 garboard
 gesticulator
 ged
@@ -5734,6 +5733,7 @@ guanosine
 gaudful
 glor
 gyring
+garblings
 glorias
 gloriation
 glorify
