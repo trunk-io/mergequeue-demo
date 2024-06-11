@@ -11873,7 +11873,6 @@ chondromyxosarcoma
 chondromucoid
 chondropharyngeus
 chondrophyte
-chondrophore
 chondroplast
 chondroplasty
 crystall
@@ -24350,6 +24349,7 @@ cooboos
 cooch
 communicably
 cooches
+chondrophore
 coodle
 cooed
 corrades
