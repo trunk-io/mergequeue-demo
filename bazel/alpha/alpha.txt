@@ -18794,7 +18794,6 @@ arthrosterigma
 archcupbearer
 archd
 archdeaconries
-archdean
 archdeceiver
 archdefender
 archdepredator
@@ -24181,6 +24180,7 @@ automan
 abrogators
 abbasid
 automata
+archdean
 absorptance
 automatable
 apidae

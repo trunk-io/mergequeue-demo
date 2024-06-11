@@ -503,7 +503,6 @@ biotech
 bespawl
 boshboks
 backstitch
-bewrapped
 backstitched
 biserial
 billhead
@@ -4889,6 +4888,7 @@ botchiest
 bagobo
 bedung
 batel
+bewrapped
 beekite
 bedur
 bedway
