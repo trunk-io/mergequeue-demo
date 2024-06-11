@@ -405,7 +405,6 @@ feldspathose
 forhoo
 foredate
 faintly
-forborn
 ferrymen
 fearer
 filicauline
@@ -8609,6 +8608,7 @@ foeticide
 figurial
 forslow
 forsooth
+forborn
 fytte
 farstepped
 fatale
