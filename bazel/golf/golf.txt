@@ -3063,7 +3063,6 @@ groundliness
 gryde
 grumble
 gelong
-glosses
 glassed
 guildsmen
 geomancer
@@ -5001,6 +5000,7 @@ goyish
 gwag
 glair
 glaire
+glosses
 gigger
 greengage
 glaired
