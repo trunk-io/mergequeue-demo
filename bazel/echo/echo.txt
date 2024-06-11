@@ -4104,6 +4104,7 @@ exemplupla
 emplastration
 eutheria
 ethological
+excoct
 eggberries
 epithesis
 emplastrum
@@ -13643,7 +13644,6 @@ extern
 externa
 extraconscious
 exurbanite
-excoct
 externalisation
 externalise
 externalistic
