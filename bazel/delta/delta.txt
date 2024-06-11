@@ -6368,6 +6368,7 @@ deadens
 dermatozoonosis
 dermatozzoa
 dermatrophia
+duplicitas
 disgrade
 deaccessioned
 dermenchysis
@@ -18439,7 +18440,6 @@ derivation
 diffuseness
 duplicious
 dispersant
-duplicitas
 duality
 duplicitously
 duplify
