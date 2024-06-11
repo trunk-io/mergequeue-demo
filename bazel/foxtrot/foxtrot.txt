@@ -5449,6 +5449,7 @@ fletchers
 furrower
 fleuret
 faked
+fiftieths
 filionymic
 footsores
 flapdragon
@@ -6355,7 +6356,6 @@ forehands
 fluoboric
 fluoboride
 fumerel
-fiftieths
 fiking
 focalize
 ferroboron
