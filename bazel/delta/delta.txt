@@ -8320,7 +8320,6 @@ diagnosticians
 dispopularize
 dizzy
 disputableness
-demove
 dele
 diagonal
 diagonalizable
@@ -10371,6 +10370,7 @@ discophore
 dioptra
 dioptral
 dioptrate
+demove
 dioptric
 dioptrical
 dioptrics
