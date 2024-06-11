@@ -792,7 +792,6 @@ fanciness
 forestaff
 fragrance
 fickly
-fixures
 foretack
 fandangle
 fandango
@@ -10201,6 +10200,7 @@ frizzante
 feminizes
 flobby
 falcer
+fixures
 fomented
 frankalmoin
 forinsecal
