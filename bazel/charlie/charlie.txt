@@ -20050,7 +20050,6 @@ capers
 creeks
 commem
 commemorable
-chromosome
 commemorate
 commemorated
 cosherer
@@ -28430,6 +28429,7 @@ crazyweed
 circuitous
 crc
 crcao
+chromosome
 crche
 cenchrus
 crea
