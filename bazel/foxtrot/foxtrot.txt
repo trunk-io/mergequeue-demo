@@ -4410,6 +4410,7 @@ filanders
 fishpotter
 forerigging
 fishskin
+foxtails
 flattercap
 fashioned
 foreloop
@@ -6595,7 +6596,6 @@ faucal
 firework
 footmanhood
 forthcomer
-foxtails
 floriculturally
 figurate
 fathering
