@@ -2184,7 +2184,6 @@ backup
 brecken
 blahlaut
 baptisias
-bitulithic
 bitbrace
 boneen
 biddy
@@ -6495,6 +6494,7 @@ benzonitrile
 benzonitrol
 benzophenone
 behedge
+bitulithic
 benzophenothiazine
 benzophloroglucinol
 benzophthalazine
