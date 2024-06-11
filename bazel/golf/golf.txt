@@ -4692,6 +4692,7 @@ gyroidal
 greenheart
 gyrating
 gyrolith
+glim
 gammarid
 gravitates
 grayer
@@ -9437,7 +9438,6 @@ goldmist
 groundlings
 glassophone
 galenical
-glim
 gonadectomizing
 groundskeeping
 gasped
