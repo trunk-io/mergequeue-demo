@@ -9954,7 +9954,6 @@ beasties
 bitstocks
 besmirches
 bitstone
-bitted
 battled
 bitter
 bitterbark
@@ -9980,6 +9979,7 @@ bitterheartedness
 bittering
 becapped
 blasia
+bitted
 bitterishness
 blurriest
 bitterling
