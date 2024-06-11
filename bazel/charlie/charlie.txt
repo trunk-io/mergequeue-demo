@@ -14240,7 +14240,6 @@ colloquialisms
 circue
 circuit
 circuital
-circuited
 chimonanthus
 circuiteer
 circuiter
@@ -31718,6 +31717,7 @@ custodian
 custodians
 cosin
 custodianship
+circuited
 custodier
 custodies
 custom
