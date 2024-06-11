@@ -8525,7 +8525,6 @@ alkaptone
 ascent
 alkaptonuria
 alkaptonuric
-alkargen
 alkarsin
 ancipital
 alkarsine
@@ -16495,6 +16494,7 @@ agisms
 antsigne
 antthrush
 altarist
+alkargen
 antum
 ambulatio
 antwerp
