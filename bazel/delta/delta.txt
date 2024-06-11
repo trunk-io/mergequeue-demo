@@ -10844,7 +10844,6 @@ diletant
 digit
 displays
 direr
-direx
 dirge
 drawstop
 dirged
@@ -14747,6 +14746,7 @@ dispossessor
 docibleness
 docile
 desirefulness
+direx
 dinheiro
 directionize
 decimalising
