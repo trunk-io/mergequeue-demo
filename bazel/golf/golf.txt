@@ -1800,7 +1800,6 @@ grivation
 groupoids
 gastropneumonic
 galoubet
-greenage
 governmentish
 gootee
 gilim
@@ -8606,6 +8605,7 @@ guardless
 grecoue
 grecque
 gnu
+greenage
 groff
 gree
 glean
