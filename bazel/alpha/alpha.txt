@@ -11024,7 +11024,6 @@ amounted
 amounter
 abysms
 amounters
-acct
 amouret
 allocaffeine
 amouli
@@ -22394,6 +22393,7 @@ astroscopus
 astrospectral
 adversion
 astrospectroscopic
+acct
 astrotheology
 astrut
 asturian
