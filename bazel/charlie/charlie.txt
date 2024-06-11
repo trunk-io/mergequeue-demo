@@ -6819,7 +6819,6 @@ celioscope
 celiotomy
 cell
 cella
-cellager
 cellarage
 cellared
 chamoix
@@ -28943,6 +28942,7 @@ centrolecithal
 conductility
 crybabies
 cribbage
+cellager
 colloquialism
 cribbed
 clanks
