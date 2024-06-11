@@ -5853,7 +5853,6 @@ categorize
 corona
 categorized
 categorizer
-categorizers
 categorizes
 cultured
 crawling
@@ -10203,6 +10202,7 @@ centeredness
 cystencyte
 chevaliers
 circumambulating
+categorizers
 compagnie
 chevener
 cheventayn
