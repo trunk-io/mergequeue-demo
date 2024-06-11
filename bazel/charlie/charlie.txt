@@ -3503,7 +3503,6 @@ captacula
 captain
 captaincy
 captaincies
-captained
 captainry
 comelily
 captainship
@@ -3672,6 +3671,7 @@ coemptive
 chabutra
 caranna
 cypriot
+captained
 centralizer
 carap
 colossuswise

@@ -3722,7 +3722,6 @@ fillable
 fillemot
 frownless
 flavorlessness
-filleted
 filletster
 frail
 filly
@@ -5871,6 +5870,7 @@ feague
 fangas
 flocculator
 flinted
+filleted
 flocculent
 fluemen
 flocculus
