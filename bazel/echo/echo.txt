@@ -5073,7 +5073,6 @@ educatory
 exopterygotic
 endotheloid
 endocystitis
-epidendral
 experted
 eardrums
 exited
@@ -8742,6 +8741,7 @@ enablers
 equiproportional
 equiproportionality
 escopet
+epidendral
 equisetaceous
 epicondylar
 encamps
