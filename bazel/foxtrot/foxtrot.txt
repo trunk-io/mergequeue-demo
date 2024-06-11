@@ -5560,6 +5560,7 @@ feoffment
 fourgons
 flight
 flighted
+frusla
 flighter
 fishful
 flightful
@@ -10718,7 +10719,6 @@ frundel
 frontalis
 forma
 flakers
-frusla
 frustrated
 frustrates
 fellies
