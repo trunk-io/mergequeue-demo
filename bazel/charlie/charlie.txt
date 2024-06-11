@@ -22859,7 +22859,6 @@ cismarine
 consecrate
 consecrater
 chieftess
-criminalese
 consecrates
 consecrating
 coticular
@@ -29817,6 +29816,7 @@ cropsickness
 cosmologists
 cropweed
 casekeeper
+criminalese
 croqueted
 cytons
 croquets
