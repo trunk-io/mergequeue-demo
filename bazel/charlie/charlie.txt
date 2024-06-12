@@ -4218,6 +4218,7 @@ cardophagus
 clearwing
 carbamido
 chiron
+coloboma
 chauffeur
 cardsharp
 cardsharping
@@ -6947,7 +6948,6 @@ coaugment
 capricornus
 calorimetric
 chapeaux
-coloboma
 cementatory
 charros
 chapaties
