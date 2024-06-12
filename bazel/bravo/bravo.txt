@@ -622,7 +622,6 @@ bacterid
 bacteriogenous
 bacteriohemolysin
 brin
-bacteriolysin
 bletherskate
 bisellia
 bemingle
@@ -6364,6 +6363,7 @@ benthoses
 beparody
 beguiler
 brinish
+bacteriolysin
 backwashes
 blennophthalmia
 blockhouses
