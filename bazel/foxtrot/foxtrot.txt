@@ -6972,7 +6972,6 @@ fonding
 fondle
 fleeces
 fondled
-forgot
 fondles
 fondlesome
 filmcard
@@ -8213,6 +8212,7 @@ finickiness
 forge
 forgeable
 forgery
+forgot
 farcical
 forges
 fleas
