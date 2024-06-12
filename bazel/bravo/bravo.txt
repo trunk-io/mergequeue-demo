@@ -11242,6 +11242,7 @@ bloodthirster
 bloodthirstiness
 blindages
 beknot
+breveted
 bloodwite
 bloodwood
 biquadratic
@@ -16478,7 +16479,6 @@ brusqueness
 bundocks
 brusquest
 brussel
-breveted
 blechnoid
 brigands
 bestrode
