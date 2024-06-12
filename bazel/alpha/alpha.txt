@@ -6158,7 +6158,6 @@ agnails
 agname
 agnat
 agnatha
-agnathia
 adiaphoresis
 agnate
 agnathic
@@ -14782,6 +14781,7 @@ accurateness
 antically
 anticalligraphic
 aggur
+agnathia
 anticamera
 anticancer
 arborescence
