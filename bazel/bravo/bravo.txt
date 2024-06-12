@@ -849,6 +849,7 @@ bootblack
 bagdad
 bagdi
 bauxites
+basiotribe
 bagful
 bemantle
 bielorouss
@@ -6565,7 +6566,6 @@ bephrase
 brachiopodist
 bepicture
 bepiece
-basiotribe
 bepile
 bodeword
 blobbiness
