@@ -12242,7 +12242,6 @@ dangerless
 deathshot
 disfurniture
 donax
-disgallant
 disgarnish
 descartes
 drubbing
@@ -18026,6 +18025,7 @@ dungon
 diplex
 drawnly
 dulcimers
+disgallant
 disquisitionary
 damping
 dulcite
