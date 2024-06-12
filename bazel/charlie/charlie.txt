@@ -565,7 +565,6 @@ cadres
 ciconiiform
 councilors
 convokes
-cads
 cadua
 colloque
 confort
@@ -25254,6 +25253,7 @@ corylaceous
 corylopsis
 corylus
 corymbed
+cads
 corymbiate
 corymbiated
 cataclysmist
