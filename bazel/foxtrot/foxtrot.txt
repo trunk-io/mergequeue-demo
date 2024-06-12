@@ -5420,7 +5420,6 @@ fillet
 ferally
 fleshing
 fleshings
-forthfare
 fettuccine
 formatters
 functionalities
@@ -8123,6 +8122,7 @@ foretrace
 foreuse
 foreutter
 fillercap
+forthfare
 fibulas
 federalize
 fingerboards
