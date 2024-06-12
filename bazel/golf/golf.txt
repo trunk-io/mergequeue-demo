@@ -3981,7 +3981,6 @@ grasslands
 gluttoness
 geds
 genospecies
-gmelinite
 girosol
 gynostemia
 gynecocratical
@@ -4586,6 +4585,7 @@ getter
 gaeltacht
 ghetti
 gigantine
+gmelinite
 girasol
 gyrate
 gyrated
