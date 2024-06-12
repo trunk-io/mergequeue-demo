@@ -5024,7 +5024,6 @@ aeroscepsis
 aeroscopy
 aeroscopically
 aerose
-aerosol
 aerosolization
 alchera
 asclepieion
@@ -21503,6 +21502,7 @@ asphyxied
 acanthine
 ampulating
 actinula
+aerosol
 arrowroot
 asphodel
 asphodelaceae
