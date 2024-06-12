@@ -4045,6 +4045,7 @@ giantlike
 gubbings
 gellert
 grounds
+glossosteresis
 gurlet
 gilds
 gildship
@@ -9738,7 +9739,6 @@ grumphie
 grumpy
 guyana
 gibetting
-glossosteresis
 grieced
 grun
 genuine
