@@ -12796,6 +12796,7 @@ attacks
 angiospermic
 angiospermous
 angiosperms
+assistant
 angiosporous
 angiostrophy
 angiotasis
@@ -21865,7 +21866,6 @@ aplacophoran
 accipter
 assistance
 averring
-assistant
 assistanted
 assister
 assistful
