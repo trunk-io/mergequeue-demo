@@ -1410,7 +1410,6 @@ baldpatedness
 bulter
 baldrib
 baldrick
-baldrics
 bloomier
 balds
 bugged
@@ -5744,6 +5743,7 @@ bora
 birefracting
 belialic
 belibel
+baldrics
 battlemented
 belicoseness
 belie
