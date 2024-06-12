@@ -3186,6 +3186,7 @@ dipygus
 daubing
 dentated
 defamed
+difficultness
 defames
 disestablisher
 demihuman
@@ -9409,7 +9410,6 @@ difficulty
 deodorants
 drooling
 difficultly
-difficultness
 dunlin
 depulse
 dottels
