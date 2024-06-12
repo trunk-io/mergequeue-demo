@@ -1035,6 +1035,7 @@ balcony
 bail
 burs
 boshas
+bringer
 bailable
 bayldonite
 boordly
@@ -15438,7 +15439,6 @@ bakery
 bringal
 bibliopegistic
 beneficience
-bringer
 breakbone
 bringers
 bringeth
