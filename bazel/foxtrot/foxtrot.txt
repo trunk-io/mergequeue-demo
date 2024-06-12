@@ -2974,7 +2974,6 @@ farfetch
 fluellite
 filamented
 frizzling
-feuillage
 furcation
 flyoff
 feuilleton
@@ -4713,6 +4712,7 @@ fibrovasal
 flaffer
 faldfee
 forthink
+feuillage
 flag
 forestalment
 flammiferous
