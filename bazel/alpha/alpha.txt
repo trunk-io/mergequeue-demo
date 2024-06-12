@@ -4886,6 +4886,7 @@ aerodonetics
 aerodontalgia
 antipedal
 amphipyrenin
+arenite
 areek
 aerodrome
 aerodromes
@@ -19373,7 +19374,6 @@ atechnic
 anagrammed
 arenicolous
 arenilitic
-arenite
 arenites
 alberca
 aristas
