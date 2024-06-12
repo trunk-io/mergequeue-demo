@@ -348,6 +348,7 @@ filicic
 failingness
 fancifully
 fanti
+facultative
 failure
 foresound
 fainaigue
@@ -6526,7 +6527,6 @@ fraughtage
 flutter
 firebed
 flutterable
-facultative
 forecover
 flutterboard
 fluttered
