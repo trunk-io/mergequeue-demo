@@ -2537,7 +2537,6 @@ bargelli
 bargellos
 bargeman
 bargemaster
-booklice
 begroans
 barger
 bardash
@@ -11780,6 +11779,7 @@ bedamns
 bedwarfs
 bobooti
 bigarade
+booklice
 berne
 baroscopic
 bobotie
