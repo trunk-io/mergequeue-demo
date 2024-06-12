@@ -7262,7 +7262,6 @@ eo
 endosomes
 equilobate
 edwards
-extravascular
 equinecessary
 encyclic
 esplanades
@@ -9142,6 +9141,7 @@ eskimo
 exordial
 electrotherapeutics
 extrality
+extravascular
 ellipsometer
 erythrocytometry
 ethiopians
