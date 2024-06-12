@@ -16532,6 +16532,7 @@ cloakmaking
 cymbaline
 cloakroom
 cloakrooms
+conquer
 caterwaul
 cloakwise
 cloam
@@ -22782,7 +22783,6 @@ conplane
 centuriation
 coinquinate
 counterevidence
-conquer
 caudotibial
 cryosphere
 chetrums
