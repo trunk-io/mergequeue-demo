@@ -4746,6 +4746,7 @@ epistler
 encycl
 echinal
 encloak
+establishments
 exploratory
 encloister
 experimentalists
@@ -5868,7 +5869,6 @@ entocoel
 ergates
 ecarinate
 errability
-establishments
 execrators
 exaggerativeness
 edeitis
