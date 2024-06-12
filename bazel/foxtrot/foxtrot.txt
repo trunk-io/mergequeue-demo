@@ -6297,6 +6297,7 @@ flukewort
 forelands
 follicle
 ferryhouse
+fob
 flukier
 fishy
 faldistory
@@ -10227,7 +10228,6 @@ feyness
 freetrader
 ferrado
 frogbit
-fob
 figurette
 frogeyed
 fibra
