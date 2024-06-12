@@ -10485,7 +10485,6 @@ botong
 breaker
 blanketlike
 bootlickers
-blanketmaker
 boatwise
 blankets
 brigue
@@ -13756,6 +13755,7 @@ bourgeoning
 bourgeons
 bourgs
 bourignian
+blanketmaker
 bourignianism
 branched
 bourkha
