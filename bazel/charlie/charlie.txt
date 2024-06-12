@@ -7457,6 +7457,7 @@ cephalopharyngeal
 cephalophyma
 cephalophine
 cephalophus
+cryostats
 cephaloplegia
 cervisia
 cryoprobe
@@ -29207,7 +29208,6 @@ chromatospheric
 criosphinxes
 cryostase
 cryostat
-cryostats
 cryosurgeon
 cryosurgery
 cryptogamia
