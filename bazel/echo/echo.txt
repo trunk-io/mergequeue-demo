@@ -4713,7 +4713,6 @@ etherealize
 eyelets
 encist
 encyst
-encysted
 electralize
 expediently
 exponentially
@@ -5083,6 +5082,7 @@ ectozoan
 epitomical
 ense
 emuls
+encysted
 epilogic
 eobiont
 endocoele
