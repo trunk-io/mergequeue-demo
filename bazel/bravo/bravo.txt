@@ -2060,7 +2060,6 @@ boardman
 bank
 barat
 bankalachi
-bobsleds
 bidactyl
 bankbooks
 bankcard
@@ -4717,6 +4716,7 @@ bedimple
 bowne
 bedimpling
 beulah
+bobsleds
 bathymetrically
 bunce
 bicentennial
