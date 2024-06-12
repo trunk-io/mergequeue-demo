@@ -10554,6 +10554,7 @@ blastochyle
 blastocyte
 blastocoel
 blastocoele
+badged
 blephara
 blastodermic
 blastodisc
@@ -14626,7 +14627,6 @@ brasher
 brashest
 brashier
 brashiest
-badged
 brashiness
 bookplates
 belinuridae
