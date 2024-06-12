@@ -1227,7 +1227,6 @@ darghin
 datasets
 decanol
 dictums
-datatypes
 datcha
 demiassignation
 dragooner
@@ -18428,6 +18427,7 @@ duplication
 duplicators
 duncehood
 daidle
+datatypes
 dysphemize
 diamondbacks
 demichamfron
