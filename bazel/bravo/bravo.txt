@@ -2383,7 +2383,6 @@ biolysis
 bookdom
 bachelorlike
 backcountry
-barbu
 barbula
 barbulate
 blowfish
@@ -9782,6 +9781,7 @@ bated
 bethanked
 berberine
 browses
+barbu
 bepuff
 bismuthine
 bismuthinite
