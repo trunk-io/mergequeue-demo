@@ -1930,7 +1930,6 @@ goodyship
 germaniums
 gliss
 groundable
-girdler
 gaucie
 gumshoe
 gowd
@@ -7620,6 +7619,7 @@ grandeza
 gaucy
 gallish
 grade
+girdler
 graded
 gorgonlike
 gool
