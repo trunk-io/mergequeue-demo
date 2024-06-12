@@ -731,6 +731,7 @@ flagroot
 famous
 florigens
 francic
+floccule
 famp
 famuli
 fedelini
@@ -5915,7 +5916,6 @@ fabiform
 flooder
 freakiness
 fichtean
-floccule
 falstaffian
 flooders
 featurally
