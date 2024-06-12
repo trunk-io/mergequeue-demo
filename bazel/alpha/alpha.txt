@@ -2983,7 +2983,6 @@ antifoaming
 actinocrinid
 alalunga
 antireligious
-actinocrinidae
 actinocrinite
 agnates
 actinodielectric
@@ -5882,6 +5881,7 @@ agers
 autogenous
 ages
 agete
+actinocrinidae
 achroiocythemia
 asthenic
 ambisporangiate
