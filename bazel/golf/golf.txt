@@ -2571,7 +2571,6 @@ gaffkya
 guiac
 gigmania
 glycosides
-genepi
 generable
 generalcy
 generalia
@@ -3112,6 +3111,7 @@ graphiter
 gerbils
 gooseflesh
 gamelin
+genepi
 gangliate
 gerate
 gaoler
