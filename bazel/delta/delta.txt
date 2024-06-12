@@ -7043,7 +7043,6 @@ despoils
 decadence
 despond
 deface
-desponded
 despondence
 despondency
 despondencies
@@ -13855,6 +13854,7 @@ distantness
 dogsbody
 distaste
 dollardee
+desponded
 dogeared
 diacetyls
 distasted
