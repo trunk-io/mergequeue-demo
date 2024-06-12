@@ -1789,6 +1789,7 @@ biretta
 bedraggling
 balun
 balustrading
+bulbed
 balwarra
 balzarine
 bam
@@ -17007,7 +17008,6 @@ babylonic
 backjaw
 branchiobdella
 bulb
-bulbed
 bulbel
 bedotted
 bulby
