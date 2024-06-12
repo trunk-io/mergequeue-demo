@@ -9600,7 +9600,6 @@ grizzlier
 gianthood
 geneva
 gummite
-growthy
 guisarme
 gufought
 gracileness
@@ -10046,6 +10045,7 @@ gulped
 gammation
 gargoyles
 greasing
+growthy
 guemul
 glimpse
 granitoidal
