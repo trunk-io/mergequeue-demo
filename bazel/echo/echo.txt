@@ -4555,7 +4555,6 @@ externize
 encephalothlipsis
 emplaned
 encephalotome
-etheostoma
 encephalotomy
 edomite
 ethics
@@ -11598,6 +11597,7 @@ electroencephalographically
 equiradiate
 evulsion
 encaustic
+etheostoma
 evulsions
 ewe
 emanium
