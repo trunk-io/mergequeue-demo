@@ -5915,7 +5915,6 @@ biogenetical
 berger
 beluga
 bellypiece
-bellypinch
 balopticon
 bellmaking
 banquo
@@ -8176,6 +8175,7 @@ bicultural
 bucca
 brionine
 bridecup
+bellypinch
 balustrade
 biculturalism
 bicursal
