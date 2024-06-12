@@ -6172,6 +6172,7 @@ benchlet
 benchman
 benchmar
 benchmark
+baryecoia
 banba
 bradycinesia
 beroll
@@ -10692,7 +10693,6 @@ bailie
 befuddles
 binoxalate
 blaze
-baryecoia
 blazers
 blazes
 blazy
