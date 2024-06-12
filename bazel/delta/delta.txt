@@ -536,6 +536,7 @@ damageability
 damageably
 dogstone
 describent
+detonatable
 damaged
 detort
 damageous
@@ -4153,7 +4154,6 @@ deliquescence
 divertila
 delictual
 disobeyed
-detonatable
 delictum
 dimanganous
 delieret
