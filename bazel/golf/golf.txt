@@ -2863,6 +2863,7 @@ grasped
 gentlemanize
 gentlemanly
 gentlemanlikeness
+gybing
 goosehouse
 gentlemanliness
 garred
@@ -3814,7 +3815,6 @@ grouchy
 glaze
 getters
 glossographer
-gybing
 germanophile
 gaulding
 gratefully
