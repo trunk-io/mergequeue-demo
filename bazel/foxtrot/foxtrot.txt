@@ -5552,6 +5552,7 @@ fmt
 fratching
 flied
 flyer
+frontonasal
 fossilization
 firstling
 frouncing
@@ -8283,7 +8284,6 @@ faroese
 filthiness
 farthingless
 fraughan
-frontonasal
 forhow
 ficoidaceae
 facelift
