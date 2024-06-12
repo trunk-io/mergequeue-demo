@@ -466,7 +466,6 @@ griped
 geelbec
 globulicidal
 gannets
-gierfalcon
 galleyman
 gonimoblast
 glanced
@@ -3630,6 +3629,7 @@ guttatim
 gyroceracone
 gogos
 ghees
+gierfalcon
 gheleem
 glucosidase
 gaucheness
