@@ -7141,7 +7141,6 @@ centiday
 centigrade
 centigrado
 cannikin
-centigramme
 confluences
 centigrams
 centile
@@ -22423,6 +22422,7 @@ congresso
 congresswomen
 congrid
 congridae
+centigramme
 cyclopedist
 congroid
 congruence
