@@ -2311,6 +2311,7 @@ feasor
 filator
 feuterer
 fleuronne
+fanfold
 foambow
 fibrosarcoma
 flotation
@@ -5655,7 +5656,6 @@ formularizer
 footpound
 fermata
 flintwood
-fanfold
 feus
 flintworker
 folioliferous
