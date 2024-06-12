@@ -1936,7 +1936,6 @@ bandog
 bandanas
 bandogs
 barken
-bonfire
 bandoleer
 burlesquely
 bumf
@@ -12518,6 +12517,7 @@ bondfolk
 bogum
 brisbane
 bootlegged
+bonfire
 bondholders
 brands
 brennage
