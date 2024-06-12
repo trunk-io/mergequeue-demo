@@ -692,7 +692,6 @@ baculites
 baculiticone
 baculoid
 baculus
-bacury
 bad
 badaga
 badarian
@@ -14717,6 +14716,7 @@ bullwork
 bobbling
 braunite
 braunites
+bacury
 bonbonniere
 baluchistan
 brauronia
