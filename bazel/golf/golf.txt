@@ -6490,7 +6490,6 @@ guam
 grotto
 goitrogenic
 gatewards
-gib
 giddiest
 glaury
 golaseccan
@@ -10674,6 +10673,7 @@ galloptious
 grove
 glycerols
 gurnard
+gib
 googol
 grippotoxin
 gurney

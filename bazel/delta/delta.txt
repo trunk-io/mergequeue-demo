@@ -1231,7 +1231,6 @@ dictums
 datcha
 demiassignation
 dragooner
-draftproof
 dialyzers
 daystars
 drumly
@@ -7679,6 +7678,7 @@ decompose
 developed
 defervescence
 developedness
+draftproof
 duke
 developer
 developers
