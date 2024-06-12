@@ -6390,6 +6390,7 @@ ensient
 ensemble
 ensiform
 equilocation
+earthtongue
 ensign
 electroplaque
 ensignry
@@ -12011,7 +12012,6 @@ epitenon
 event
 exclamations
 exclamative
-earthtongue
 exclamatory
 exclaves
 elephantous
