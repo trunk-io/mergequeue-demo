@@ -27603,7 +27603,6 @@ consumation
 coverlid
 coverlids
 caller
-coversine
 clairce
 coverslip
 covertly
@@ -30687,6 +30686,7 @@ comedist
 cued
 chiropterygium
 coeffects
+coversine
 colombo
 coempts
 cuemen
