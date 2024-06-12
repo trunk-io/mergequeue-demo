@@ -5018,7 +5018,6 @@ cacolike
 costrel
 chiclero
 cartouches
-curlicued
 canalman
 crystallizing
 chevrony
@@ -23855,6 +23854,7 @@ contrarious
 contrariously
 contrariousness
 cacesthesia
+curlicued
 cartway
 contrariwise
 contrarotation
