@@ -19385,7 +19385,6 @@ colonist
 cyrtidae
 chiromancer
 colonizable
-colonizationist
 colonize
 comminating
 courted
@@ -21843,6 +21842,7 @@ conducting
 conductio
 conduction
 corbleu
+colonizationist
 charkas
 conductional
 cozily
