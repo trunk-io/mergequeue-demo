@@ -4545,7 +4545,6 @@ becrowded
 burstwort
 billeting
 bidi
-bathhouse
 bumptiously
 bearhide
 becrush
@@ -5936,6 +5935,7 @@ bellota
 bidactyle
 bigheartedly
 bellows
+bathhouse
 beefs
 beerocracy
 bacillemia
