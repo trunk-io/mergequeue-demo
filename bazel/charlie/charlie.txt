@@ -12651,7 +12651,6 @@ chronica
 chronically
 chronicle
 chronicled
-chronicles
 chronicling
 chronicon
 chronics
@@ -29720,6 +29719,7 @@ cromster
 contemporanean
 cromwell
 countermissile
+chronicles
 cromwellian
 cronartium
 crone
