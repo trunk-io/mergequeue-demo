@@ -2078,7 +2078,6 @@ cowbells
 campaspe
 campbell
 campbellisms
-campbellite
 campbellites
 campcraft
 campe
@@ -7474,6 +7473,7 @@ cadus
 copecks
 cephalosome
 cephalospinal
+campbellite
 cephalosporium
 cephalostyle
 cephalotaceae
