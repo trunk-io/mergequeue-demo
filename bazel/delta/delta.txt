@@ -6148,6 +6148,7 @@ degraders
 debriefed
 dequeue
 dermorhynchi
+dusting
 duomi
 disintegrant
 decry
@@ -18585,7 +18586,6 @@ duster
 dusters
 dustheap
 dustiest
-dusting
 dustless
 dustlike
 dustoori
