@@ -662,7 +662,6 @@ abort
 aborted
 agricultures
 aborter
-aborters
 aborticide
 abortient
 anacardic
@@ -17191,6 +17190,7 @@ aerialists
 apogean
 apogee
 apogees
+aborters
 apogeic
 antimarian
 allotropism
