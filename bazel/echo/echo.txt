@@ -2433,6 +2433,7 @@ equicostate
 electroencephalogram
 electroencephalograph
 empeople
+espinel
 epitaxial
 embira
 exciting
@@ -9735,7 +9736,6 @@ escrows
 euryon
 espinal
 erosely
-espinel
 electrogalvanic
 execrates
 excitable
