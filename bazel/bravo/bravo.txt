@@ -3572,7 +3572,6 @@ bestore
 brookites
 blackroot
 bath
-bathala
 batheable
 bathed
 bellower
@@ -3580,6 +3579,7 @@ bathes
 backslidden
 bathetically
 bathhouses
+bathala
 baryons
 braggest
 becudgel
