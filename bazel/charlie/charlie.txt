@@ -1578,7 +1578,6 @@ clericalize
 callum
 calluna
 callus
-compressor
 creasy
 cellulating
 calmant
@@ -30152,6 +30151,7 @@ cruciferous
 crucify
 crucificial
 crucifies
+compressor
 crucifyfied
 cogue
 crucifyfying
