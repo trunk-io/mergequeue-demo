@@ -10612,6 +10612,7 @@ euchres
 endboard
 endopolyploidy
 eckehart
+euchromosome
 ethmose
 erotomania
 epephragmal
@@ -10622,7 +10623,6 @@ esprits
 euphroes
 earthiness
 euchrome
-euchromosome
 euclideanism
 expenseless
 euclidian
