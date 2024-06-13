@@ -5953,6 +5953,7 @@ diachoresis
 demeaning
 disconcert
 deprecative
+dissolvable
 drainages
 deprecator
 deprecatory
@@ -13790,7 +13791,6 @@ dissolutional
 dissolutionism
 desmid
 dissolvability
-dissolvable
 dissolvableness
 dissolvative
 dissolve
