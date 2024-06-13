@@ -8326,6 +8326,7 @@ diagonal
 diagonalizable
 diagonalization
 diagnosing
+duel
 diagonals
 deducting
 diagonalwise
@@ -10320,7 +10321,6 @@ dipnoi
 diogenite
 decapitator
 dybbukim
-duel
 downpouring
 dioicously
 dioicousness
