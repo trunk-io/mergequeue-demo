@@ -5883,7 +5883,6 @@ furry
 force
 fertilely
 formfeeds
-fumigators
 folgerite
 feculae
 frangent
@@ -7879,6 +7878,7 @@ fusillades
 foresail
 farl
 foresails
+fumigators
 farmscape
 footraces
 fibered
