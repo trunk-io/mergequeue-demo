@@ -3004,7 +3004,6 @@ cantoria
 cardsharps
 crystallographic
 cantoris
-cantorous
 cantors
 centauri
 confronts
@@ -22994,6 +22993,7 @@ chromosomic
 consigned
 consignee
 consignify
+cantorous
 countersalient
 cuckooing
 consignificant
