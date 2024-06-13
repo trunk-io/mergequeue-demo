@@ -1327,6 +1327,7 @@ dogate
 desorb
 daughterly
 destin
+dismutation
 daughterliness
 daughterling
 disturbers
@@ -12894,7 +12895,6 @@ dismortgaging
 divisionism
 dismountable
 dismounted
-dismutation
 dryope
 disnatural
 disnaturalization
