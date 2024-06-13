@@ -5985,7 +5985,6 @@ cantador
 cathedraticum
 cathepsin
 cutheal
-catheptic
 catherine
 cathern
 catties
@@ -9837,6 +9836,7 @@ chelidonine
 chelidonium
 chelidosaurus
 cfh
+catheptic
 chelydre
 cyclonical
 crepance
