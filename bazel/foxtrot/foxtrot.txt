@@ -4622,7 +4622,6 @@ fearfullest
 flatnose
 footslogs
 figurante
-fdtype
 firetail
 frecked
 frighten
@@ -7905,6 +7904,7 @@ fosteringly
 fiberglass
 faience
 fornicatory
+fdtype
 fimicolous
 federalisation
 freeheartedness
