@@ -608,7 +608,6 @@ femereil
 functionals
 feoffees
 farmable
-facette
 fragaria
 floodways
 fitzroy
@@ -3812,6 +3811,7 @@ fils
 fashional
 filterability
 filterableness
+facette
 fluoridisation
 flebotomy
 faut
