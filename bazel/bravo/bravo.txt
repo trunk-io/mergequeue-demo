@@ -15052,7 +15052,6 @@ betty
 bretwaldaship
 bradycardic
 brickwork
-bowstrings
 brev
 blisterweed
 bradawl
@@ -15677,6 +15676,7 @@ brob
 betorcin
 brocade
 brocaded
+bowstrings
 brocades
 brocardic
 boatowner
