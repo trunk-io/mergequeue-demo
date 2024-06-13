@@ -6151,7 +6151,6 @@ debriefed
 dequeue
 dermorhynchi
 dusting
-duomi
 disintegrant
 decry
 dequeues
@@ -8076,6 +8075,7 @@ doylt
 dhabb
 drightin
 dietician
+duomi
 dumbhead
 dhal
 dimension
