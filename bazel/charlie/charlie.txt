@@ -15469,7 +15469,6 @@ clangors
 cappella
 crosscut
 clangour
-cynebot
 clangoured
 clangouring
 cakewalks
@@ -22092,6 +22091,7 @@ confirms
 ceraunite
 confiscable
 confiscatable
+cynebot
 confiscate
 crois
 chookies
