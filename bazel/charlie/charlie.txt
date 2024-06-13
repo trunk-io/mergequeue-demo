@@ -2039,6 +2039,7 @@ campaigners
 cercarias
 campaigns
 campana
+cannula
 campane
 campanella
 coadjuvancy
@@ -15397,7 +15398,6 @@ cassique
 chaining
 clamcracker
 clame
-cannula
 cheeseboard
 coelacanthid
 clamer
