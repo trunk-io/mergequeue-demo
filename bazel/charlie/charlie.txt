@@ -16145,7 +16145,6 @@ cotypes
 computative
 clevises
 clew
-clewed
 clewgarnet
 clewing
 clews
@@ -16711,6 +16710,7 @@ cloque
 cochleated
 cloques
 cloragen
+clewed
 clorargyrite
 clos
 closable
