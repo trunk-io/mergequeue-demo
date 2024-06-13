@@ -6796,7 +6796,6 @@ faunch
 filla
 finmark
 fungin
-folden
 foretokening
 fanlight
 furan
@@ -9058,6 +9057,7 @@ foxer
 foxfire
 friesish
 firmer
+folden
 fluidglycerate
 forbruise
 foxfires
