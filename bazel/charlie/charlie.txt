@@ -9921,7 +9921,6 @@ cornroot
 coprophilic
 copperytailed
 chemistry
-chemistries
 chemists
 countess
 chemitypy
@@ -27385,6 +27384,7 @@ courap
 couratari
 courbaril
 courbe
+chemistries
 courbette
 courbettes
 carcaneted
