@@ -4397,7 +4397,6 @@ gayway
 glucosemia
 gestio
 gingerspice
-gingerwort
 garthman
 gleefulness
 gazers
@@ -9214,6 +9213,7 @@ gaur
 gastric
 grockle
 gamely
+gingerwort
 groenendael
 goofily
 gonidiophore
