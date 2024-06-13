@@ -3208,7 +3208,6 @@ gaelicization
 gepidae
 gyromitra
 geraera
-graylag
 grapheme
 gobernadora
 gagate
@@ -3929,6 +3928,7 @@ guaiacums
 geoduck
 gyroceras
 girdlestead
+graylag
 gleeting
 garrisons
 glittered
