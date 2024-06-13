@@ -23754,7 +23754,6 @@ contractually
 contrada
 contradance
 contradict
-chondriocont
 contradictable
 contradictedness
 contradicter
@@ -25687,6 +25686,7 @@ corporify
 corporification
 corporosity
 corps
+chondriocont
 corpsbruder
 cyclothymia
 corpse
