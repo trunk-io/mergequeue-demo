@@ -3654,7 +3654,6 @@ cervicohumeral
 caramelisation
 coillen
 caramelise
-caramelising
 caramelize
 caramelized
 clangoring
@@ -7786,6 +7785,7 @@ cerium
 ceriums
 cermet
 ciceros
+caramelising
 cermets
 commissar
 cern
