@@ -13605,7 +13605,6 @@ annulet
 annulets
 audiviser
 annuli
-annullable
 aerolitics
 annullate
 annulled
@@ -15542,6 +15541,7 @@ androconia
 antipyretic
 avijja
 antimissioner
+annullable
 armguard
 antimystic
 antimystical
