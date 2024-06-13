@@ -5803,7 +5803,6 @@ bavardage
 bell
 bonos
 bellacoola
-belladonna
 bellatrix
 biliation
 bigoted
@@ -12846,6 +12845,7 @@ bookstall
 blotted
 blastoderm
 baudekin
+belladonna
 bookstand
 blemisher
 bookstores
