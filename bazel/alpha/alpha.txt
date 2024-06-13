@@ -20368,7 +20368,6 @@ arrowlike
 aminoazobenzene
 arrowplate
 abortifacient
-arrowroots
 arrows
 arrowsmith
 arrowworm
@@ -24077,6 +24076,7 @@ autogeneses
 autogenetically
 autogeny
 autogenic
+arrowroots
 autogenies
 accelerating
 antiresonator
