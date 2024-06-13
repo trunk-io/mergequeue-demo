@@ -2360,6 +2360,7 @@ enfroward
 electroplating
 electroplates
 epiphenomenal
+ellipsis
 ecumenical
 eutectic
 emulsifying
@@ -3071,7 +3072,6 @@ encyclical
 elliot
 educationable
 elem
-ellipsis
 ergatocracy
 exdividend
 emblematic
