@@ -4895,7 +4895,6 @@ endothelium
 equiv
 extradictable
 epigrammatarian
-endamoeba
 endamoebas
 endamoebidae
 endanger
@@ -12854,6 +12853,7 @@ expandable
 escropulo
 erethisms
 exsert
+endamoeba
 expandedly
 expandedness
 excommunicating
