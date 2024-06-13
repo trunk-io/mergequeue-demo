@@ -10451,7 +10451,6 @@ chiefish
 chiefless
 cytisus
 chiefling
-chiefs
 chieftain
 chieftaincy
 chieftaincies
@@ -21908,6 +21907,7 @@ coner
 capsicin
 circumnutatory
 cones
+chiefs
 conestoga
 conf
 counterpose
