@@ -1635,7 +1635,6 @@ ballone
 borderings
 bullbird
 ballones
-ballonette
 boiguacu
 ballonne
 bandsmen
@@ -5034,6 +5033,7 @@ beeswaxes
 bothriums
 beeswing
 bromonaphthalene
+ballonette
 byte
 bibliothec
 beetewk
