@@ -2504,7 +2504,6 @@ candleball
 caripeta
 candleberries
 candlebomb
-candled
 candlefish
 candlefishes
 collogued
@@ -24297,6 +24296,7 @@ convolved
 convolves
 considerability
 callistemon
+candled
 craped
 convolvulaceae
 convolvulaceous
