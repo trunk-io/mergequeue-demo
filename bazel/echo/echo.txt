@@ -106,6 +106,7 @@ earphone
 earpick
 earpiece
 enchisel
+enmarble
 earreach
 engineership
 extraught
@@ -6099,7 +6100,6 @@ episkotister
 enlodgement
 enlumine
 entheos
-enmarble
 evelyn
 ergoplasm
 eomecon
