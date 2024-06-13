@@ -1283,7 +1283,6 @@ gapping
 grex
 galvaniser
 guib
-garboard
 gesticulator
 ged
 garbologist
@@ -8803,6 +8802,7 @@ grillades
 greillade
 gynaecomastia
 gravelstone
+garboard
 glasslike
 geostatic
 greypate
