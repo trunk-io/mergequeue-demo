@@ -6702,7 +6702,6 @@ ceiling
 custard
 ceilings
 ceilingwards
-collenchyma
 couche
 ceilometer
 couac
@@ -31853,6 +31852,7 @@ cutoffs
 consortion
 cutout
 coccidiomorpha
+collenchyma
 cutpurse
 cuts
 cuttable
