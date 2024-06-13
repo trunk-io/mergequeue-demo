@@ -2615,7 +2615,6 @@ declinational
 dipneumones
 declinations
 declinator
-disyllabizing
 declinatory
 drawout
 declines
@@ -2972,6 +2971,7 @@ decuss
 decussate
 dobsonflies
 decussatively
+disyllabizing
 decussoria
 decwriter
 deltoid
