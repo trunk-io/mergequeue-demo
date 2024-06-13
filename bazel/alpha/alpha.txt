@@ -11062,7 +11062,6 @@ amperometer
 amperometric
 asswage
 ampersand
-adages
 ampersands
 amphanthia
 amphanthium
@@ -11633,6 +11632,7 @@ arrage
 anaemotropy
 anaeretic
 astrometeorologist
+adages
 anaerobation
 anaerobian
 acrocentric
