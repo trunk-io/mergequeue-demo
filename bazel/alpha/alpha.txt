@@ -12838,7 +12838,6 @@ arousement
 antrin
 angletouch
 angletwitch
-anglewing
 allays
 anglewise
 averrer
@@ -17084,6 +17083,7 @@ alodia
 ambagious
 apoblast
 atomisation
+anglewing
 acerates
 aview
 adhamant
