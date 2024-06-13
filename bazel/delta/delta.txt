@@ -531,6 +531,7 @@ daltonian
 denomination
 dama
 damageability
+disodic
 damageably
 dogstone
 describent
@@ -10835,7 +10836,6 @@ direful
 direfully
 dirempt
 direness
-disodic
 detorsion
 doctrinarianism
 direnesses
