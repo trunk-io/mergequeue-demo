@@ -9586,7 +9586,6 @@ cabbalah
 checkerspot
 carpodacus
 capos
-checkerwise
 checkerwork
 checkhook
 checky
@@ -16734,6 +16733,7 @@ closeouts
 closer
 chlorophyllose
 chrysler
+checkerwise
 closers
 cleruch
 closes
