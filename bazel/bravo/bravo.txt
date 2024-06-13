@@ -2652,7 +2652,6 @@ beknights
 barkentine
 barkentines
 barkery
-bub
 behn
 barkhan
 batman
@@ -10631,6 +10630,7 @@ blately
 blateness
 bhisti
 barret
+bub
 blateration
 berakoth
 breadboxes
