@@ -5945,7 +5945,6 @@ beride
 bellowslike
 bellowsmaking
 bellpull
-bells
 belltail
 balloons
 bullom
@@ -12517,6 +12516,7 @@ bonfire
 bondholders
 brands
 brennage
+bells
 bescrawl
 bisymmetrically
 brachiata
