@@ -8569,7 +8569,6 @@ fainters
 famishment
 farmplace
 forrad
-finnoc
 forrader
 forrard
 flammigerous
@@ -10084,6 +10083,7 @@ frankensteins
 fastigious
 fringy
 frisado
+finnoc
 fleshling
 frisca
 fibrosis
