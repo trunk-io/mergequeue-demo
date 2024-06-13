@@ -5875,6 +5875,7 @@ enhancements
 enhancing
 enharbour
 eldin
+endsweep
 empanelled
 eternizing
 enharden
@@ -12526,7 +12527,6 @@ exinite
 eunicid
 etymologized
 euphemy
-endsweep
 enneacontahedron
 exist
 existed
