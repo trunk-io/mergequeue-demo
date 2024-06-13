@@ -7341,7 +7341,6 @@ formulation
 forbiddenly
 fief
 fissidens
-foederis
 fenestellae
 flames
 frust
@@ -9062,6 +9061,7 @@ firmer
 fluidglycerate
 forbruise
 foxfires
+foederis
 folksinger
 fizzled
 frolicsomeness
