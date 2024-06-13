@@ -7107,6 +7107,7 @@ centerer
 cannonball
 centerfold
 compania
+chelators
 campings
 colonus
 centerfolds
@@ -9828,7 +9829,6 @@ chelated
 cattish
 chelating
 chelator
-chelators
 chelerythrine
 chelicer
 chelicerate
