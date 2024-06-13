@@ -3291,7 +3291,6 @@ assistor
 amylenes
 adamantean
 anisodactylous
-adamantine
 adamantinoma
 adamantly
 adamantness
@@ -13123,6 +13122,7 @@ abbreviator
 ahrendahronon
 animala
 alterant
+adamantine
 animalcular
 animalculine
 animalculum
