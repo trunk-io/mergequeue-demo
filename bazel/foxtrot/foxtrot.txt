@@ -4400,6 +4400,7 @@ fishmouth
 fishnet
 frank
 fitnesses
+firer
 fibroglioma
 febricity
 fishplate
@@ -6215,7 +6216,6 @@ foalfoot
 fluey
 flueless
 forefence
-firer
 fellowed
 fairgrounds
 facially
