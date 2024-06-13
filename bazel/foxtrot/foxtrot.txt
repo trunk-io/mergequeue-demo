@@ -428,6 +428,7 @@ foraramina
 firetrap
 fairleads
 farsight
+fusetron
 festive
 familiariser
 flints
@@ -5187,7 +5188,6 @@ ferthumlungur
 flavonols
 fortemente
 fratcher
-fusetron
 flavoriness
 fierceness
 flavoring
