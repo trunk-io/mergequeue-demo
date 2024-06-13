@@ -9421,7 +9421,6 @@ bathroom
 backarrow
 birchwood
 bindweb
-brindle
 barcaroles
 beaverkill
 birdbander
@@ -16006,6 +16005,7 @@ bronchotome
 bronchotracheal
 bronchovesicular
 bozos
+brindle
 barythymia
 broncobusting
 brainy
