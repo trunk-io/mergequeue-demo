@@ -4953,7 +4953,6 @@ geobiology
 goyim
 gymkhana
 gladier
-goutwort
 graveled
 gladiola
 granatite
@@ -8007,6 +8006,7 @@ gladioli
 granitiform
 granitite
 granitization
+goutwort
 gesning
 grumbly
 grapholite
