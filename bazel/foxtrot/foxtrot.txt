@@ -6272,7 +6272,6 @@ followup
 fluidmeter
 faulted
 forceful
-fawnery
 fluidounce
 frass
 flower
@@ -8202,6 +8201,7 @@ footwork
 forgather
 falsifications
 fop
+fawnery
 fossulate
 froebelist
 foresweat
