@@ -12626,7 +12626,6 @@ cynegetics
 culbert
 chromotypography
 chromotypographic
-cockpits
 chromotropy
 chromotropic
 cradleboard
@@ -14461,6 +14460,7 @@ circumrotate
 circumrotated
 crown
 circumrotatory
+cockpits
 circumsail
 circumscribable
 circumscribed
