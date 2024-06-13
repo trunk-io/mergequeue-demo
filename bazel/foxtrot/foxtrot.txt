@@ -3400,7 +3400,6 @@ fieldpieces
 flosculose
 feaking
 faintish
-fieldworker
 farcemeat
 feeless
 fieldwort
@@ -9630,6 +9629,7 @@ feeders
 ferias
 fortalice
 flunkers
+fieldworker
 finalities
 freelance
 fornax
