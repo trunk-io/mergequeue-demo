@@ -2977,6 +2977,7 @@ decwriter
 deltoid
 dashel
 dedanite
+drawplate
 dedd
 dedecorous
 divide
@@ -16876,7 +16877,6 @@ determinativeness
 dissyllabise
 diffidence
 drawoff
-drawplate
 drawpoint
 drawsheet
 disturnpike
