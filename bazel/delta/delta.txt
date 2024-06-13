@@ -2084,7 +2084,6 @@ dimedon
 debilities
 decaying
 dummy
-decays
 dehydrogenization
 defaced
 devolution
@@ -11382,6 +11381,7 @@ disci
 diabases
 disciflorae
 disunifying
+decays
 dittany
 disciform
 discigerous
