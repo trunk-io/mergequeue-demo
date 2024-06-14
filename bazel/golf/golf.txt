@@ -9149,7 +9149,6 @@ gryllotalpa
 glom
 griqualander
 geminis
-grysbok
 gleaning
 grisettish
 grisled
@@ -10651,6 +10650,7 @@ gunwales
 gunzian
 guppy
 guppies
+grysbok
 gur
 gurdle
 gurged
