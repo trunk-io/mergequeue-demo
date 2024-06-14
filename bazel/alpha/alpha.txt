@@ -10788,7 +10788,6 @@ addossed
 alloantibody
 antirent
 abides
-ammocoetoid
 apparentement
 ammodyte
 ammodytes
@@ -15235,6 +15234,7 @@ acorned
 antiexpressionist
 antiexpressive
 antiexpressiveness
+ammocoetoid
 antepredicament
 antiextreme
 antifaction
