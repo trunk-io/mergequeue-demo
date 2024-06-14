@@ -535,7 +535,6 @@ damageability
 disodic
 damageably
 dogstone
-describent
 detonatable
 damaged
 detort
@@ -16364,6 +16363,7 @@ downsizing
 dichord
 daylight
 downslide
+describent
 downslip
 decibel
 downslope
