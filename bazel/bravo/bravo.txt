@@ -4465,6 +4465,7 @@ bandy
 bovenland
 beclang
 bakeboard
+bonzian
 barrable
 bickers
 beclaw
@@ -12704,7 +12705,6 @@ belluine
 benchland
 bequirtle
 bushgoats
-bonzian
 bewrite
 bacterioblast
 beaklike
