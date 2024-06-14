@@ -13406,7 +13406,6 @@ ankle
 anklejack
 ankles
 aerophoto
-agyria
 armament
 anklet
 anklong
@@ -20539,6 +20538,7 @@ arteriostenosis
 admix
 arteriotomy
 arteriotrepsis
+agyria
 amman
 arterious
 arcticology
