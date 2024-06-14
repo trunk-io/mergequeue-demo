@@ -3121,7 +3121,6 @@ crocked
 capelins
 congius
 capella
-capellane
 coatimondie
 closemouth
 caper
@@ -26761,6 +26760,7 @@ counterassociation
 chaldrons
 cammock
 counterattack
+capellane
 counterattacked
 cyclamate
 counterattacker
