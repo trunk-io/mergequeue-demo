@@ -2905,7 +2905,6 @@ graduator
 graphicalness
 guildship
 gullish
-genuflections
 genuflects
 galactopyra
 grid
@@ -6197,6 +6196,7 @@ gallimaufry
 geochronologically
 gurniad
 gnomesque
+genuflections
 gliosis
 gastroid
 gallbladder

@@ -9437,7 +9437,6 @@ effecter
 enveigle
 educable
 escalades
-escalading
 exiguousness
 excelsitude
 escalating
@@ -12503,6 +12502,7 @@ exile
 excursion
 expiated
 exilement
+escalading
 exiles
 ecologist
 engrossing
