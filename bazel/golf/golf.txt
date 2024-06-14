@@ -1702,6 +1702,7 @@ gingers
 gastrocnemii
 gaffed
 gutling
+guinfo
 gastrocoel
 gader
 gamelion
@@ -6876,7 +6877,6 @@ gonotyl
 gauntlets
 gonotype
 galeas
-guinfo
 gutwise
 genitival
 goniatitic
