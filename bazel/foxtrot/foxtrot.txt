@@ -2294,7 +2294,6 @@ feasor
 filator
 feuterer
 fleuronne
-fanfold
 foambow
 fibrosarcoma
 flotation
@@ -11518,6 +11517,7 @@ flouncy
 fluently
 fusicoccum
 fusariose
+fanfold
 frictionize
 fusariosis
 fusate
