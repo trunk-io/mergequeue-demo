@@ -751,6 +751,7 @@ asyle
 abret
 abri
 abrico
+autostrada
 abricock
 abricot
 abridgable
@@ -24407,7 +24408,6 @@ autostarter
 airmanship
 autostylism
 autostoper
-autostrada
 autostradas
 autosuggestible
 arsonist
