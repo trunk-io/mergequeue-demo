@@ -5419,7 +5419,6 @@ dentes
 dealable
 dorsimesal
 daraf
-denazify
 diaphoretic
 dentical
 denticle
@@ -10903,6 +10902,7 @@ disa
 dereference
 deployed
 disable
+denazify
 disabled
 doorplates
 dasypygal
