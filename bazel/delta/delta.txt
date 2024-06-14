@@ -5743,7 +5743,6 @@ dephosphorize
 desiccant
 depickle
 darst
-depict
 devastates
 denuclearize
 depicting
@@ -17513,6 +17512,7 @@ drudge
 disheartened
 drudged
 debilissima
+depict
 dwarf
 drudgers
 drudges
