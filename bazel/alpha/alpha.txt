@@ -10997,7 +10997,6 @@ amorphus
 antechapel
 amort
 amuguis
-amortise
 amortising
 amortizable
 amortization
@@ -15358,6 +15357,7 @@ aidless
 admeasured
 antihierarchies
 antihierarchism
+amortise
 antihygienic
 antihygienically
 aircraftswomen
