@@ -13671,7 +13671,6 @@ allocable
 abys
 anodos
 anoegenetic
-alembics
 agomensin
 anoestrum
 apselaphesia
@@ -15676,6 +15675,7 @@ ailment
 acoustics
 antinormality
 antinormalness
+alembics
 amenorrhea
 antinosarian
 anoxaemia
