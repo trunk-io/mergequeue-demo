@@ -3535,7 +3535,6 @@ doffed
 dictyoxylon
 doigte
 defluvium
-defoam
 dang
 defoamed
 defoamer
@@ -12555,6 +12554,7 @@ drugstores
 disinflate
 dortour
 disinflationary
+defoam
 disingenuous
 dropsically
 disembogue
