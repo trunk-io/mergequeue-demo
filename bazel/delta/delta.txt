@@ -1203,7 +1203,6 @@ dromaeognathae
 datably
 datafile
 dillydallying
-dockman
 dataflow
 datagram
 datagrams
@@ -11758,6 +11757,7 @@ dashy
 discourteousness
 discoach
 discoverable
+dockman
 discoverer
 discovery
 decancellation
