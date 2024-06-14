@@ -1971,7 +1971,6 @@ bandstand
 beacon
 boronia
 beraked
-bandster
 bandstop
 bagnio
 balances
@@ -4546,6 +4545,7 @@ bearhide
 becrush
 buffering
 becrust
+bandster
 becrusting
 bibbs
 becudgeling
