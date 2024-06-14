@@ -8553,6 +8553,7 @@ grapline
 guidons
 garlicmonger
 gozzard
+guideposts
 goldfielder
 gramaries
 guttered
@@ -10183,7 +10184,6 @@ guato
 genres
 guidebooks
 guidepost
-guideposts
 glossophobia
 geostrategist
 geroderma
