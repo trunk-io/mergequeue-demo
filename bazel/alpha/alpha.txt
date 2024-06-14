@@ -2199,7 +2199,6 @@ actinal
 aperistalsis
 abattue
 achromate
-achromatic
 achromatically
 alectoromorphae
 achromaticity
@@ -24613,6 +24612,7 @@ avenary
 animalculism
 avenge
 actinomycin
+achromatic
 avengeful
 aesthetician
 avenges
