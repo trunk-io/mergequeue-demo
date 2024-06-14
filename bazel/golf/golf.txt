@@ -581,7 +581,6 @@ gimpy
 gallicize
 gladding
 gallicizer
-gobletful
 garau
 grahamite
 galliform
@@ -8957,6 +8956,7 @@ geographers
 griggles
 geog
 grilladed
+gobletful
 gnathophorous
 gravenstein
 guiles
