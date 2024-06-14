@@ -8804,7 +8804,6 @@ defocusses
 diatomist
 diaporesis
 dysmerogenesis
-diatomous
 demimonk
 demythologisation
 diatoms
@@ -17581,6 +17580,7 @@ drumlinoid
 dysnomy
 drivecap
 decelerated
+diatomous
 drumlins
 dorsiferous
 diciest
