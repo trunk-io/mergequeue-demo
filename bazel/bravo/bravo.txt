@@ -9339,6 +9339,7 @@ bipinnarias
 bipinnate
 bipinnated
 bipinnatipartite
+bow
 bipinnatisect
 bipinnatisected
 brighter
@@ -9905,7 +9906,6 @@ biternately
 biters
 barbing
 bearfoot
-bow
 begums
 buttressing
 bites
