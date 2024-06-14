@@ -5526,7 +5526,6 @@ delouse
 deodar
 dependencies
 deodorisation
-deodorise
 deodorised
 deodoriser
 deodorization
@@ -12611,6 +12610,7 @@ dosimeters
 daud
 disintrench
 dysyntribite
+deodorise
 dephase
 disinvagination
 deepfroze
