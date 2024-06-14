@@ -3553,7 +3553,6 @@ defogged
 disyllable
 dormered
 defoggers
-defogging
 defogs
 dorism
 defoil
@@ -10178,6 +10177,7 @@ deterge
 diverticulate
 diploblastic
 diting
+defogging
 downy
 dingdongs
 discocephalous
