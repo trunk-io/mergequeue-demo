@@ -4898,7 +4898,6 @@ fergusite
 flameless
 flitch
 forwards
-fibbing
 fchar
 fourteens
 fractabling
@@ -5492,6 +5491,7 @@ fram
 forecited
 flyable
 fascicle
+fibbing
 felon
 fratriage
 flyback
