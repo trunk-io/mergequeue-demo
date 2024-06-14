@@ -15630,7 +15630,6 @@ disconnections
 disenchanted
 doomsayer
 doomsday
-doomsdays
 decussating
 doomster
 defaulters
@@ -17160,6 +17159,7 @@ drillmasters
 devote
 drylots
 drilvis
+doomsdays
 dryness
 dringle
 decade
