@@ -3482,7 +3482,6 @@ fingerable
 foreseason
 fighteress
 fighting
-forbids
 formboard
 figitidae
 floriparous
@@ -5399,6 +5398,7 @@ foolscap
 furunculoid
 flerrying
 flesh
+forbids
 faured
 fricassee
 fleshbrush
