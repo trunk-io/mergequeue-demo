@@ -4089,6 +4089,7 @@ agrief
 annexment
 aureolae
 admonitionist
+antenna
 admonitions
 anabasis
 acrasia
@@ -7922,7 +7923,6 @@ arrayers
 alenge
 alength
 alenu
-antenna
 aleochara
 aleph
 alepine
