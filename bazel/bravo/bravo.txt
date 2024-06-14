@@ -6227,7 +6227,6 @@ blacker
 beneficial
 beneficialness
 beneficiaryship
-beneficiate
 beneficiated
 beneficiating
 beneficiation
@@ -14785,6 +14784,7 @@ breach
 breached
 breacher
 breachers
+beneficiate
 blendes
 bulborectal
 breachful
