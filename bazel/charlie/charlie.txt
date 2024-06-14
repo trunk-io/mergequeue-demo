@@ -24490,7 +24490,6 @@ coontie
 coop
 cooped
 cooperage
-cooperant
 cooperate
 cooperated
 cooperates
@@ -28939,6 +28938,7 @@ criant
 carbonigenous
 crib
 crybaby
+cooperant
 centrolecithal
 conductility
 crybabies
