@@ -1101,7 +1101,6 @@ ghostliness
 groundway
 glares
 goularo
-gangwa
 gamed
 genitives
 ganister
@@ -3653,6 +3652,7 @@ glassine
 genitivally
 graeae
 goorals
+gangwa
 gagee
 germanely
 girleen
