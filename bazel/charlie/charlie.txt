@@ -11401,7 +11401,6 @@ chlorococcaceae
 chlorococcales
 cyanotrichite
 coincider
-chlorococcum
 chlorococcus
 chlorocresol
 chlorodyne
@@ -21744,6 +21743,7 @@ condylomatous
 condylome
 condylopodous
 conjurator
+chlorococcum
 condylos
 corditis
 clerically
