@@ -4903,6 +4903,7 @@ fdname
 flashbacks
 frogflower
 flamboyer
+flockling
 fergusite
 flameless
 flitch
@@ -8718,7 +8719,6 @@ fortuuned
 forwalk
 fossule
 fiddlers
-flockling
 faultsman
 forwardal
 frescoer
