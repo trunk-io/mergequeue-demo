@@ -87,7 +87,6 @@ faces
 facesaving
 flattening
 frizettes
-flocks
 flowerfence
 foliobranch
 fiendish
@@ -8450,6 +8449,7 @@ formicate
 felichthys
 fermentology
 formicating
+flocks
 fortunate
 filix
 freeward
