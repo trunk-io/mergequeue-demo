@@ -3544,7 +3544,6 @@ eupeptic
 equivocally
 embolomalerism
 epidural
-ectoskeleton
 embolon
 emboltement
 embordered
@@ -8855,6 +8854,7 @@ extime
 elev
 enterozoan
 el
+ectoskeleton
 erased
 ejective
 epiploic
