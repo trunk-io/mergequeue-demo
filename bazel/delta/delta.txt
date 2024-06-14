@@ -1664,7 +1664,6 @@ deallocate
 deallocated
 devotional
 daunter
-deallocates
 deallocating
 deresinize
 deallocation
@@ -16225,6 +16224,7 @@ dizens
 dialogistically
 dower
 doweral
+deallocates
 doweress
 dowery
 derailer

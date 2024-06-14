@@ -3692,7 +3692,6 @@ ghostish
 grannom
 gibblegabble
 glossologies
-grille
 gracilescent
 googolplex
 gadgeteer
@@ -7539,6 +7538,7 @@ germing
 ginnery
 gnathobdellae
 gps
+grille
 gorrel
 glycosaemia
 gunfought
