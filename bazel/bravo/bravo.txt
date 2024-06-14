@@ -6390,7 +6390,6 @@ beaconwise
 boiloff
 benzamide
 benzoxate
-betail
 benzamine
 bristler
 biblic
@@ -6979,6 +6978,7 @@ biplosive
 blueheads
 breediness
 boatbill
+betail
 baselessness
 beshame
 bulllike
