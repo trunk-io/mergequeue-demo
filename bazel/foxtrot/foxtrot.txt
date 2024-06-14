@@ -2170,6 +2170,7 @@ frontiers
 fluorescence
 folkmoot
 flatfooting
+ferromagneticism
 felonwort
 fraela
 flatterdock
@@ -9964,7 +9965,6 @@ frieseite
 furze
 friesian
 frightening
-ferromagneticism
 friezed
 farrow
 fleshhook
