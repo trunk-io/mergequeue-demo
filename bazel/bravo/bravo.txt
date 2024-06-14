@@ -1518,6 +1518,7 @@ bistable
 bedsick
 balladic
 balladical
+boardlike
 bipersonal
 balladised
 balladism
@@ -3053,7 +3054,6 @@ bulwark
 baruch
 barukhzy
 barundi
-boardlike
 bitten
 briery
 baruria
