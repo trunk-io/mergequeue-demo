@@ -6309,7 +6309,6 @@ cecchine
 caulocarpic
 caulome
 caulomic
-caulopteris
 caulosarc
 caulotaxis
 caulote
@@ -15844,6 +15843,7 @@ clavicembalo
 claviceps
 caiarara
 clavichord
+caulopteris
 colonialistic
 clavichords
 clavicymbal
