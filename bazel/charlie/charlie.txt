@@ -24988,7 +24988,6 @@ continuousness
 corallum
 corallus
 circumflexion
-caelum
 coralroot
 corals
 coram
@@ -30231,6 +30230,7 @@ crumbliness
 crumbs
 caging
 chittered
+caelum
 crumen
 cloudscape
 crumenal
