@@ -3575,7 +3575,6 @@ granulomatous
 gastronomy
 gharnao
 goniaster
-gnomonic
 gregarinaria
 gavial
 glutinose
@@ -10792,6 +10791,7 @@ garth
 guttersnipish
 gutterspout
 gadoidea
+gnomonic
 geochronologic
 gutterwise
 gynomonoecious
