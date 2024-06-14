@@ -7570,7 +7570,6 @@ garbage
 gracelessly
 gallerying
 gracelessness
-ghast
 gnawn
 gracilariidae
 glumaceous
@@ -9014,6 +9013,7 @@ grimes
 guarana
 glycogenolysis
 gratifier
+ghast
 grimme
 gingalls
 grillroom
