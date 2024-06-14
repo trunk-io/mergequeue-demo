@@ -4208,6 +4208,7 @@ fluoroscopies
 fireplow
 fiefs
 fleeceable
+forma
 fatting
 fireplug
 frieze
@@ -10714,7 +10715,6 @@ flotsams
 frumps
 frundel
 frontalis
-forma
 flakers
 frustrated
 frustrates
