@@ -1611,6 +1611,7 @@ extraversion
 encampment
 epipany
 egyptologic
+envigor
 egis
 exogeny
 egises
@@ -13151,7 +13152,6 @@ expiratory
 expired
 earmark
 equivale
-envigor
 eupion
 elicited
 extensometer
