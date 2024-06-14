@@ -1906,6 +1906,7 @@ camelopardid
 cinnamomum
 camelopardidae
 camelopards
+cataract
 camelopardus
 camelot
 counterflashing
@@ -5697,7 +5698,6 @@ catapulted
 catapultic
 catapultier
 catapults
-cataract
 cataracted
 colthood
 cataractous
