@@ -2011,7 +2011,6 @@ etymologisable
 exteriorate
 eagle
 eker
-entombed
 epigastriocele
 epitritic
 ekhimi
@@ -3113,6 +3112,7 @@ enantiosis
 elodea
 epicalyces
 echinorhinidae
+entombed
 epitomised
 enmew
 endocardiac
