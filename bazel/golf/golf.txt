@@ -2354,7 +2354,6 @@ grisly
 geldesprung
 geldings
 gorgets
-gelds
 grovelings
 gelechia
 gelees
@@ -7646,6 +7645,7 @@ gradualist
 gregarinidal
 gaw
 gemutlich
+gelds
 gallantness
 gradually
 graduands
