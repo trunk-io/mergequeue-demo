@@ -2138,7 +2138,6 @@ banqueter
 bombasine
 bundist
 banqueting
-banquets
 bans
 bufagin
 boguing
@@ -3968,6 +3967,7 @@ bdellium
 bdelliums
 bdelloid
 bdellometer
+banquets
 bdellostoma
 booksellerish
 bocstaff
