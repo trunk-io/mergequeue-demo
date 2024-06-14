@@ -2859,7 +2859,6 @@ dop
 dorsalward
 demihearse
 disharmonize
-decremental
 dactylioglyphy
 decrements
 decremeter
@@ -15119,6 +15118,7 @@ dogs
 deromanticize
 dogsbodies
 damningness
+decremental
 degustate
 disconformable
 dogsleep
