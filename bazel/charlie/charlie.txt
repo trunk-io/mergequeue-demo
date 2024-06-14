@@ -7902,7 +7902,6 @@ cruor
 cervelats
 coruscation
 cerveliere
-cervelliere
 coronatorial
 cervicapra
 cuselite
@@ -18921,6 +18920,7 @@ corvisor
 colicroot
 colicwort
 cloacean
+cervelliere
 colies
 coliforms
 cellarets
