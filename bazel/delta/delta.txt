@@ -4115,7 +4115,6 @@ denominationalist
 deleter
 demur
 deleteriousness
-deletes
 dissectors
 deletion
 deletions
@@ -6692,6 +6691,7 @@ dictyotaceae
 desertfully
 deserticolous
 driers
+deletes
 draughtswoman
 desertification
 deserting
