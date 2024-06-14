@@ -8763,6 +8763,7 @@ chankings
 channel
 channelbill
 coendou
+cycler
 channeling
 clubbish
 channelize
@@ -13335,7 +13336,6 @@ coralbells
 cyclecars
 crosspatch
 cycledom
-cycler
 cyclers
 comonomer
 cycles
