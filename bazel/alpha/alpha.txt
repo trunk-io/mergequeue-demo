@@ -4890,7 +4890,6 @@ acetyltannin
 aeroduct
 aeroelastic
 aeroelasticity
-aeroelastics
 aporphin
 aerofoil
 aerofoils
@@ -12794,6 +12793,7 @@ angiosarcoma
 ammocoetid
 angiosclerotic
 angioscope
+aeroelastics
 arlington
 angiosymphysis
 adry
