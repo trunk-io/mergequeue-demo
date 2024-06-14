@@ -2273,7 +2273,6 @@ deccennia
 drch
 decciare
 danes
-decd
 deceased
 dishelm
 dewormed
@@ -5820,6 +5819,7 @@ deplump
 depoetize
 disclaimers
 depoh
+decd
 depolarisation
 depolarise
 drapeable
