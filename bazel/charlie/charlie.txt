@@ -18337,7 +18337,6 @@ cephalotome
 coombe
 cofferer
 countys
-cofferfish
 coffering
 cancerite
 chauldron
@@ -30515,6 +30514,7 @@ catskinner
 catonic
 cray
 cubicities
+cofferfish
 cubicone
 cubicula
 costly
