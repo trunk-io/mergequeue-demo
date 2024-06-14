@@ -6335,7 +6335,6 @@ gid
 gobbles
 gobbling
 grappler
-gobelin
 gyrolite
 ginzoes
 grating
@@ -9329,6 +9328,7 @@ galivant
 gloved
 gozell
 germanophobist
+gobelin
 gastroparesis
 gelatinized
 guldengroschen
