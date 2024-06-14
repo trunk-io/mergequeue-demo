@@ -4952,7 +4952,6 @@ gladier
 graveled
 gladiola
 granatite
-gladiolas
 gypsyesque
 goldurns
 goldhammer
@@ -8956,6 +8955,7 @@ guiles
 geometer
 grilled
 grogging
+gladiolas
 grillee
 gatehouse
 granatum
