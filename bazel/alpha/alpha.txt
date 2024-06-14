@@ -2888,6 +2888,7 @@ anoints
 autolimnetic
 alleluja
 acrosphacelus
+anapnograph
 acrospiring
 aneurysms
 ampoule
@@ -11939,7 +11940,6 @@ arrastre
 anaplerosis
 anaplerotic
 aesthesia
-anapnograph
 adosculation
 anapnoic
 anapodeictic
