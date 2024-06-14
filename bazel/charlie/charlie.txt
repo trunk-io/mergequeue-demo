@@ -6850,7 +6850,6 @@ celled
 centennium
 cellepore
 cellfalcicula
-celliferous
 celliform
 cellist
 cellists
@@ -20562,6 +20561,7 @@ chemically
 conelet
 compartmentalization
 compartmentalized
+celliferous
 chappaul
 compartmentalizing
 chrysenic
