@@ -3130,7 +3130,6 @@ deerstalking
 deerweed
 deerweeds
 deescalate
-deescalation
 detribalizing
 deeses
 deepfrozen
@@ -18585,6 +18584,7 @@ demipremise
 duster
 dusters
 dustheap
+deescalation
 dustiest
 dustless
 dustlike
