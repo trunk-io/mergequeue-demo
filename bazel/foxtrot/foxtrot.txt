@@ -376,7 +376,6 @@ fluids
 faintise
 floerkea
 flowerily
-faintishness
 flowerlet
 faints
 florae
@@ -5564,6 +5563,7 @@ fourgons
 flight
 flighted
 frusla
+faintishness
 flighter
 fishful
 flightful
