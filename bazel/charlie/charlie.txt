@@ -3512,7 +3512,6 @@ captain
 captaincy
 captaincies
 captainry
-comelily
 captainship
 chaotically
 captainships
@@ -21173,6 +21172,7 @@ connivence
 conarial
 conarium
 conationalistic
+comelily
 curatic
 conations
 conative
