@@ -2114,6 +2114,7 @@ bannerline
 bannerman
 bannermen
 bannerole
+bronchus
 bannerols
 bannisters
 benamidar
@@ -17783,7 +17784,6 @@ burnoosed
 burnous
 burnoused
 ballistics
-bronchus
 burnover
 bushido
 bumfs
