@@ -10224,7 +10224,6 @@ blackfigured
 blackfins
 blackfire
 batster
-burntness
 biochemical
 bas
 blackfishes
@@ -12539,6 +12538,7 @@ bondsmen
 bondstone
 bondswoman
 bondswomen
+burntness
 bather
 bagpiped
 bondwoman
