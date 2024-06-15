@@ -15,6 +15,7 @@ epidermoid
 evaporometer
 escamotage
 emigate
+erosivity
 eadi
 emblazon
 excoriator
@@ -9259,7 +9260,6 @@ eusuchia
 excites
 erythrulose
 erosiveness
-erosivity
 emplane
 erotema
 electrofuse
