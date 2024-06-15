@@ -3517,6 +3517,7 @@ captainships
 chemicked
 captan
 captance
+concordat
 captandum
 captate
 captation
@@ -21556,7 +21557,6 @@ concordantial
 crescent
 cankerworm
 concordantly
-concordat
 concordatory
 concordatum
 concorder
