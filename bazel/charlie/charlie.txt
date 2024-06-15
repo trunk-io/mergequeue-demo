@@ -3288,7 +3288,6 @@ caplin
 caplins
 caplock
 coherald
-cordmaker
 capmaking
 capman
 capnodium
@@ -9329,6 +9328,7 @@ chateaus
 chateaux
 chatelain
 chatelaine
+cordmaker
 chatelaines
 chatelainry
 chatelains
