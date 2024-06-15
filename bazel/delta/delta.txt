@@ -413,7 +413,6 @@ decanter
 dorsoanterior
 dichroic
 dairyman
-dairywoman
 deliver
 dairywomen
 descanting
@@ -16513,6 +16512,7 @@ disnumber
 dracontic
 dromos
 dracontites
+dairywoman
 diapason
 dracontium
 drad
