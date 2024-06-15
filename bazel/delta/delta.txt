@@ -6033,7 +6033,6 @@ deprivals
 deprive
 deprivement
 depriver
-dixit
 disconcerts
 dingly
 destalinize
@@ -8881,6 +8880,7 @@ deg
 dibenzophenazine
 dibenzopyrrole
 disproportionates
+dixit
 dibhole
 dioptry
 diborate
