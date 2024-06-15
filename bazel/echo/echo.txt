@@ -2547,6 +2547,7 @@ eatable
 electrometallurgy
 ezra
 electrometallurgist
+emptiable
 ennead
 elision
 electrometer
@@ -4205,7 +4206,6 @@ emblazoning
 emancipatress
 equiexcellency
 electrothanatosis
-emptiable
 euros
 emptied
 exhorter
