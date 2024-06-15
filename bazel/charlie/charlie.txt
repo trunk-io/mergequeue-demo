@@ -5890,6 +5890,7 @@ contiguous
 caterbrawl
 catercap
 catercorner
+camsteary
 catercornered
 catercornerways
 craner
@@ -25089,7 +25090,6 @@ carbonizes
 cordilleran
 cordilleras
 cordinar
-camsteary
 cording
 cordis
 cordlessly
