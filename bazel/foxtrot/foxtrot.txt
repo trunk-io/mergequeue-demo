@@ -2572,7 +2572,6 @@ ferrelling
 forwake
 fights
 folder
-fossilisable
 fluorine
 ferreous
 fences
@@ -4000,6 +3999,7 @@ freezable
 fotched
 fingram
 frumpishness
+fossilisable
 finical
 fluxibly
 follicule
