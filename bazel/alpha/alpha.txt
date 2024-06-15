@@ -11307,7 +11307,6 @@ abaff
 amphora
 amphorae
 amphore
-amphoric
 amphoriskoi
 amphorous
 alarming
@@ -17367,6 +17366,7 @@ aspersory
 abumbral
 ammonocarbonic
 apophthegmatical
+amphoric
 antineuralgic
 apoplastogamous
 apoplectoid
