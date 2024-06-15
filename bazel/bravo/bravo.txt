@@ -2426,7 +2426,6 @@ bardess
 bardy
 bikinis
 bardic
-bardiest
 bardiglio
 brickiest
 barding
@@ -5715,6 +5714,7 @@ boruca
 belee
 beleed
 barrier
+bardiest
 biers
 belemnitic
 ballast
