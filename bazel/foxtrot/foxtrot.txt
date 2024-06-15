@@ -588,6 +588,7 @@ foreknows
 forepass
 falsary
 falsehearted
+foregone
 fade
 forage
 flowerfly
@@ -3280,7 +3281,6 @@ ferrels
 facecloth
 fibrosity
 faradizer
-foregone
 featurely
 fidate
 focal
