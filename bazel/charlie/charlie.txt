@@ -5471,7 +5471,6 @@ cookshack
 castorial
 calcaneonavicular
 castorite
-castors
 castra
 castrates
 covertical
@@ -11143,6 +11142,7 @@ chitimacha
 chitimachan
 checksums
 coappears
+castors
 chitinogenous
 chitinoid
 chitinous
