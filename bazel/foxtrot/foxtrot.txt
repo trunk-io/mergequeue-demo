@@ -1073,7 +1073,6 @@ fastigiately
 farmyard
 farmyardy
 farmout
-fisc
 farmtown
 floricomous
 folily
@@ -5439,6 +5438,7 @@ fervours
 factories
 fletchers
 furrower
+fisc
 fleuret
 faked
 fiftieths
