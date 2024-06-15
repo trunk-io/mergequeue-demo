@@ -4414,7 +4414,6 @@ feste
 fishpole
 fishpoles
 forlornest
-farms
 fishponds
 fibrilled
 filanders
@@ -11491,6 +11490,7 @@ froggery
 forehatch
 fuzzle
 foothill
+farms
 fenagler
 furthermost
 feetage
