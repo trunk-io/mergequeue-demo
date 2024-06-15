@@ -6271,7 +6271,6 @@ bibliography
 benevolency
 beng
 bourn
-beggarwise
 berengelite
 bengalese
 bengola
@@ -15788,6 +15787,7 @@ bargeer
 brokenheartedly
 binder
 buddha
+beggarwise
 bibacious
 brotula
 beaconing
