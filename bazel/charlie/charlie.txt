@@ -3281,7 +3281,6 @@ chobdar
 campshot
 capitulator
 capituliform
-counterlighted
 celebratory
 coilers
 caplet
@@ -8768,6 +8767,7 @@ commissionaire
 chansonnette
 chansonniers
 chantey
+counterlighted
 conspired
 chanteyman
 chantepleure
