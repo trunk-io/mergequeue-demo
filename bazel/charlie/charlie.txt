@@ -4013,6 +4013,7 @@ cholers
 cornhusk
 carcinomatous
 carcinomorphic
+cholericness
 carcinophagous
 carcinopolypus
 carcinosarcoma
@@ -11719,7 +11720,6 @@ choleric
 cholerically
 cricothyroid
 cheesecurd
-cholericness
 choleriform
 cholerigenous
 cholerine
