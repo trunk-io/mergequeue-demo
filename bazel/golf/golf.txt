@@ -2264,6 +2264,7 @@ geoplanidae
 gefulltefish
 galax
 gruiform
+gonidiogenous
 grouseberry
 gehlenite
 goblet
@@ -6784,7 +6785,6 @@ gymnure
 goaled
 globulet
 glossodynamometer
-gonidiogenous
 gulash
 graminivorous
 gropple
