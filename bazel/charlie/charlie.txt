@@ -3952,7 +3952,6 @@ carburize
 carburizer
 carburizes
 caecilian
-caphs
 carburizing
 chrysophilite
 carburometer
@@ -23550,6 +23549,7 @@ contented
 contentedly
 counterartillery
 contenting
+caphs
 contention
 cryptotaenia
 contentional
