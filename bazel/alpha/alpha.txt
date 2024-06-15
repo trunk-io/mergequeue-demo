@@ -1739,7 +1739,6 @@ abases
 accusatorial
 accusatorially
 accusatrix
-accusatrixes
 accuse
 amidships
 accused
@@ -5584,6 +5583,7 @@ antidynamic
 aftermarket
 autotherapeutic
 archtempter
+accusatrixes
 afterswarming
 aftertask
 aftertaste
