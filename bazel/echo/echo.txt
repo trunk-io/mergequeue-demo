@@ -1194,7 +1194,6 @@ esthetics
 environage
 edition
 endere
-editions
 editor
 exploitation
 editorialization
@@ -3705,6 +3704,7 @@ euploidy
 embrittling
 embryulcia
 embryulculci
+editions
 expositionary
 extravagantness
 etagre
