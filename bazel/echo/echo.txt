@@ -2535,7 +2535,6 @@ euphony
 echoist
 electromagnetism
 endosmose
-electromagnetist
 escalloping
 egremoigne
 eyesores
@@ -12940,6 +12939,7 @@ entonic
 enhaunt
 eulogiae
 expectancy
+electromagnetist
 epistemophilia
 enarthrosis
 entotic
