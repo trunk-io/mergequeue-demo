@@ -5001,6 +5001,7 @@ grisard
 gedeckt
 geomaly
 gangway
+garment
 guvacoline
 garaging
 grapefruits
@@ -5067,7 +5068,6 @@ glamoured
 grosses
 germanic
 gunships
-garment
 genapper
 grippe
 gingeleys
