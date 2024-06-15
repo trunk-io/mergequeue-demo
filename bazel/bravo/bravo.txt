@@ -2969,7 +2969,6 @@ boarders
 blackmails
 barricoes
 blubber
-barrier
 biuniqueness
 barrigudos
 barrikin
@@ -5712,6 +5711,7 @@ beledgered
 boruca
 belee
 beleed
+barrier
 biers
 belemnitic
 ballast
