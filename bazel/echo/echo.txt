@@ -536,7 +536,6 @@ expy
 electronographic
 enzymologist
 echinital
-echinite
 echinocaris
 eclipsises
 entosthoblast
@@ -13162,6 +13161,7 @@ expires
 euploidies
 earthworms
 expressivity
+echinite
 expiringly
 expiscated
 empressement
