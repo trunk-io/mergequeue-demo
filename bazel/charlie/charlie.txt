@@ -27877,7 +27877,6 @@ cpd
 chemurgic
 cpi
 cuttoe
-cpm
 cpo
 cps
 cpt
@@ -31010,6 +31009,7 @@ cummers
 chalkography
 cummingtonite
 cummock
+cpm
 cumol
 commonplaceness
 calescence
