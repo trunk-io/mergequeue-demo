@@ -11951,7 +11951,6 @@ choragic
 coxalgia
 choragion
 choristers
-choragus
 calashes
 chorai
 choral
@@ -25446,6 +25445,7 @@ corny
 cornic
 cornice
 costodiaphragmatic
+choragus
 corniced
 collaud
 creamery
