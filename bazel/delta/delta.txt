@@ -2683,7 +2683,6 @@ desalter
 decoloring
 deforce
 darkening
-decolorisation
 decolorising
 defatted
 dispose
@@ -3638,6 +3637,7 @@ dissociative
 degage
 degames
 distrustful
+decolorisation
 deganglionate
 dystome
 degasify
