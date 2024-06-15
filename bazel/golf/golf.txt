@@ -2257,6 +2257,7 @@ geoplanidae
 gefulltefish
 galax
 gruiform
+grouseberry
 gehlenite
 goblet
 gonimic
@@ -9487,7 +9488,6 @@ gnetaceae
 groupwise
 graped
 goloch
-grouseberry
 geophyte
 groused
 goodlike
