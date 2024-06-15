@@ -3724,6 +3724,7 @@ battable
 browntop
 bisabol
 blackest
+bumboatman
 bally
 battakhin
 battarismus
@@ -17294,7 +17295,6 @@ bumblings
 bumbo
 blueball
 bumboat
-bumboatman
 bumclock
 batling
 bumelia
