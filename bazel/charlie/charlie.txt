@@ -146,6 +146,7 @@ cruors
 cablelaid
 cableless
 cablelike
+cerberic
 chryseis
 cables
 conor
@@ -5873,7 +5874,6 @@ catenas
 catenate
 crooisite
 catenating
-cerberic
 catenation
 catenative
 compositorial
