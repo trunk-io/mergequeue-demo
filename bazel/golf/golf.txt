@@ -7558,7 +7558,6 @@ glossator
 grabhook
 grabouche
 gluside
-grabs
 glasgow
 gerenda
 garpike
@@ -10684,6 +10683,7 @@ gurneyite
 glyconeogenesis
 gurnet
 guests
+grabs
 granaries
 generalissima
 gandhist
