@@ -3765,7 +3765,6 @@ chlorpikrin
 cheerios
 carbazine
 civilist
-crimpled
 carbazole
 carbeen
 carbene
@@ -30403,6 +30402,7 @@ crumbling
 chanter
 cholecystectomies
 csmp
+crimpled
 csp
 csw
 ct
