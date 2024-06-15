@@ -18915,7 +18915,6 @@ archfiend
 archflamen
 archfoe
 archfool
-archform
 ancestresses
 aluminothermic
 angloid
@@ -21884,6 +21883,7 @@ avenalin
 assythment
 assize
 amiant
+archform
 assizes
 arquebus
 assman
