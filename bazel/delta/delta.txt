@@ -2719,6 +2719,7 @@ doorkeeper
 dadaist
 decompiler
 decomposable
+depart
 deviceful
 dimmy
 decomposer
@@ -5611,7 +5612,6 @@ diaxon
 deparliament
 delighting
 devocalised
-depart
 denials
 departer
 desertion
