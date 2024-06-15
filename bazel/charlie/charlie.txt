@@ -1182,7 +1182,6 @@ calderas
 centinormal
 cylindrarthrosis
 castrater
-caldron
 campimetrical
 caldrons
 calean
@@ -28563,6 +28562,7 @@ credent
 credentialed
 congressman
 credentialism
+caldron
 cystines
 credentials
 credently
