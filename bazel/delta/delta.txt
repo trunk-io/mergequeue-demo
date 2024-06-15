@@ -9646,6 +9646,7 @@ derives
 dihalo
 discommendable
 dihalogen
+deadline
 differentiating
 dihdroxycholecalciferol
 dihedrals
@@ -14483,7 +14484,6 @@ divided
 dividend
 dividends
 dividendus
-deadline
 divident
 decertification
 directionless
