@@ -4894,7 +4894,6 @@ ghostfish
 glaciated
 grumbles
 gursh
-glaciating
 glans
 garpikes
 glaciation
@@ -5530,6 +5529,7 @@ glyptotherium
 glires
 gliridae
 glirine
+glaciating
 groundbreaker
 galet
 groovy
