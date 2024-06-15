@@ -5643,7 +5643,6 @@ cataloguize
 catalonian
 cataloon
 catalos
-companionways
 catalpa
 catalpas
 catalufa
@@ -30794,6 +30793,7 @@ carroty
 culled
 cullen
 culler
+companionways
 cullers
 cullet
 cullets
