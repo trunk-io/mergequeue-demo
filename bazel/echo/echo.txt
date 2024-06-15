@@ -2679,6 +2679,7 @@ electrostriction
 elinvar
 expectant
 electrosurgery
+elve
 epididymovasostomy
 elaeocarpaceous
 eleutherodactyli
@@ -6268,7 +6269,6 @@ enravished
 elemong
 enomotarch
 epicyte
-elve
 epigaster
 ethanes
 enrich
