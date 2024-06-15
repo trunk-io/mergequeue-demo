@@ -1892,6 +1892,7 @@ bakehouse
 bandhook
 bandicoy
 bonzes
+bigbloom
 befoam
 bloodier
 bandidos
@@ -8394,7 +8395,6 @@ bigarreau
 basifier
 bigas
 bigate
-bigbloom
 bigbury
 bigemina
 berberian
