@@ -7172,6 +7172,7 @@ exclusions
 estanciero
 escots
 environmental
+everyday
 endocolitis
 electrosurgeries
 embosses
@@ -12178,7 +12179,6 @@ excusing
 elytron
 endpoint
 egger
-everyday
 ellipse
 econometrical
 earpieces
