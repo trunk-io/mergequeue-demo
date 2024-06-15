@@ -1695,7 +1695,6 @@ deaminize
 deaminized
 deammonation
 dean
-deaned
 deashing
 demarks
 deanery
@@ -4326,6 +4325,7 @@ droppage
 delphinic
 defeasibleness
 delphiniums
+deaned
 delphinius
 delphinoidine
 distaffs
