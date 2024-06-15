@@ -3604,6 +3604,7 @@ caracoa
 cumanagoto
 caracol
 caracoled
+coauthoring
 caracoler
 caracoli
 caracoling
@@ -19236,7 +19237,6 @@ chouses
 colloid
 chaetopoda
 cinerins
-coauthoring
 colloidality
 colloider
 colloidize
