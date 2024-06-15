@@ -262,7 +262,6 @@ freeload
 forspend
 flamethrower
 firm
-fertilizations
 floorwalker
 fluviation
 faddist
@@ -10561,6 +10560,7 @@ feracities
 forethoughtful
 forelay
 figment
+fertilizations
 foveoles
 fructificative
 fructifier
