@@ -698,6 +698,7 @@ epilogate
 eubasidii
 eruc
 eclipsing
+exsomatic
 enhance
 envier
 ecliptical
@@ -1692,7 +1693,6 @@ ehretiaceae
 ehrman
 extras
 entrez
-exsomatic
 enterobacterium
 eyah
 eldership
