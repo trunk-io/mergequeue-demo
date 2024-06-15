@@ -739,7 +739,6 @@ blacklead
 brinjal
 badgerlike
 bending
-badgers
 befoul
 bandsawing
 badges
@@ -8654,6 +8653,7 @@ bilithon
 biliverdic
 beany
 beladle
+badgers
 bilk
 bacchanalism
 bilked
