@@ -2972,7 +2972,6 @@ conquerableness
 conceptualistically
 cantilating
 cantilene
-cantilenes
 cantilever
 cantilevered
 cantilevers
@@ -18839,6 +18838,7 @@ cold
 coldblood
 coldblooded
 coldest
+cantilenes
 coldhearted
 coldish
 coldnesses
