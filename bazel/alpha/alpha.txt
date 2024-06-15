@@ -6621,7 +6621,6 @@ anthropoids
 ayield
 ayins
 agorae
-ayyubid
 aik
 aikane
 automatictacessing
@@ -21694,6 +21693,7 @@ aradid
 assentors
 asseize
 asself
+ayyubid
 assembl
 assemblable
 assemblage
