@@ -5116,7 +5116,6 @@ entogenous
 endocrinologist
 ecdysones
 eisell
-epispore
 endocrinopathic
 endoderm
 electrocratic
@@ -6930,6 +6929,7 @@ entomosporium
 endangered
 effluents
 entomostraca
+epispore
 enramada
 equipluve
 epiphyllospermous
