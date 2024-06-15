@@ -2050,7 +2050,6 @@ glutethimide
 gelatiniform
 gibbergunyah
 gaveled
-gavelet
 great
 gnomologic
 goodhearted
@@ -8588,6 +8587,7 @@ greatmouthed
 greatness
 greave
 generalissimos
+gavelet
 geranium
 greaved
 grossulaceous
