@@ -5570,6 +5570,7 @@ deoxidation
 deoxidative
 dibbles
 deoxidisation
+dsnames
 deadest
 deoxidised
 deoxidiser
@@ -17654,7 +17655,6 @@ desmodium
 disannulled
 diatonical
 dsname
-dsnames
 dsri
 druery
 defeminization
