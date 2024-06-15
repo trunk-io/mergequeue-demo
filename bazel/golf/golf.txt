@@ -5116,7 +5116,6 @@ gassy
 gapped
 glassen
 goalkeeper
-glassfish
 guitermanite
 gouvernante
 gularis
@@ -9094,6 +9093,7 @@ gradins
 gamogenetic
 gregariousness
 golland
+glassfish
 gripey
 gramicidin
 gusain
