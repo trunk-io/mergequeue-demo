@@ -1793,6 +1793,7 @@ glandula
 gagroot
 gastropod
 gynopara
+gonadotrope
 gluttery
 geminately
 germinance
@@ -7474,7 +7475,6 @@ governingly
 grooving
 gorbellies
 garron
-gonadotrope
 graywall
 gibblegabbler
 gymnast
