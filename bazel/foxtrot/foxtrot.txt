@@ -619,7 +619,6 @@ falsifier
 falsifying
 falunian
 fertilisation
-feats
 fanum
 fict
 friskers
@@ -7368,6 +7367,7 @@ forcelessness
 forcelet
 freespace
 futhark
+feats
 fasciculation
 fey
 foisted
