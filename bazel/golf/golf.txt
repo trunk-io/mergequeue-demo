@@ -53,7 +53,6 @@ grammes
 gabions
 guardian
 gelatiniser
-grant
 glendover
 gammarus
 gollar
@@ -7654,6 +7653,7 @@ graduates
 geopolitic
 girning
 gyneocracy
+grant
 geomyid
 grizzliest
 graduateship
