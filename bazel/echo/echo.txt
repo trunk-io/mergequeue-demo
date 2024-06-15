@@ -3395,6 +3395,7 @@ ephoral
 embase
 embassadress
 embassy
+eustomatous
 electrolytes
 eucirripedia
 epiphytes
@@ -10086,7 +10087,6 @@ etched
 efford
 eutectics
 etcher
-eustomatous
 etchers
 etching
 esodic
