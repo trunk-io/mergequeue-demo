@@ -14367,7 +14367,6 @@ circumference
 circumferential
 circumferentially
 circumflant
-circumflex
 craziness
 circinately
 cawnie
@@ -24425,6 +24424,7 @@ cards
 cookstove
 colligible
 contumacies
+circumflex
 cookware
 cool
 coolamon
