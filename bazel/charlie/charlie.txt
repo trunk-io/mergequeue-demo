@@ -2984,7 +2984,6 @@ cantino
 cantion
 cantish
 cantles
-candlestand
 cantlet
 cantline
 cantling
@@ -28246,6 +28245,7 @@ crannies
 crannying
 compiler
 crannock
+candlestand
 crannoger
 carvomenthene
 cockscomb
