@@ -2086,6 +2086,7 @@ devotion
 diarial
 dimedon
 debilities
+domify
 decaying
 dummy
 dehydrogenization
@@ -15406,7 +15407,6 @@ domicilement
 domiciles
 domiciliate
 domiciliated
-domify
 deutocarbonate
 dovetail
 deckswabber
