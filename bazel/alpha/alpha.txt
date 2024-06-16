@@ -10612,7 +10612,6 @@ amyloid
 adossee
 amyloidoses
 amyloidosis
-aplanospore
 anguille
 amyloleucite
 afterwrath
@@ -18256,6 +18255,7 @@ atamans
 aquatintist
 aquatints
 ascender
+aplanospore
 aquatone
 abampere
 acidemias
