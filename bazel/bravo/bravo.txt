@@ -5182,7 +5182,6 @@ budworm
 before
 biotic
 borings
-bandlet
 boomorah
 braiding
 baizing
@@ -13800,6 +13799,7 @@ boutylka
 boutique
 bouto
 barehanded
+bandlet
 bedmaker
 blossomtime
 boutonnieres
