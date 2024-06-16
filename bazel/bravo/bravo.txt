@@ -8337,7 +8337,6 @@ bolshie
 bifluoride
 bifocal
 bifocals
-buffbar
 bifoil
 bifolia
 balanocele
@@ -13306,6 +13305,7 @@ bronchiectatic
 bolti
 bosses
 barysphere
+buffbar
 bogomil
 bosset
 barebacked
