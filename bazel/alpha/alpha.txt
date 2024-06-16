@@ -20186,7 +20186,6 @@ arpenteur
 arpents
 atoneness
 arquebuses
-arquifoux
 antihectic
 arr
 asterisked
@@ -23127,6 +23126,7 @@ attested
 attester
 attesting
 acy
+arquifoux
 attestor
 attests
 attical
