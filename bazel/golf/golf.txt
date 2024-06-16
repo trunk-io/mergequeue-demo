@@ -2993,7 +2993,6 @@ gastroscopic
 gooseflower
 gunks
 glycerination
-gemstones
 ganymede
 gusts
 gladen
@@ -10702,6 +10701,7 @@ gu
 guser
 gush
 grams
+gemstones
 garvock
 gunship
 glossocoma
