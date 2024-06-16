@@ -8677,7 +8677,6 @@ billage
 brumes
 bushwhacker
 billbergia
-boatsmen
 beckon
 bourgeoisify
 billboards
@@ -15627,6 +15626,7 @@ bidonville
 buffone
 barrenest
 bg
+boatsmen
 bulkheads
 broadaxes
 burred
