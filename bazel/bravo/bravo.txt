@@ -2911,7 +2911,6 @@ barreleyes
 belap
 barrelet
 bookend
-barrelfishes
 batuque
 botanical
 bundies
@@ -3457,6 +3456,7 @@ bodicemaker
 bastards
 basted
 biotechnologicaly
+barrelfishes
 baster
 basters
 bastille
