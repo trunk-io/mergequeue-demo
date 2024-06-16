@@ -659,7 +659,6 @@ bacteriotherapy
 bales
 bechances
 beletter
-boracic
 bynames
 bungles
 bacteriotropic
@@ -10330,6 +10329,7 @@ blippers
 blacksmith
 bulldogs
 biborate
+boracic
 blacksmithing
 beastdom
 botargo
