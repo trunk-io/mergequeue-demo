@@ -8839,7 +8839,6 @@ connectant
 chapbook
 carbonylating
 chape
-chapeau
 cobriform
 chapeled
 chapeless
@@ -24388,6 +24387,7 @@ cook
 cookable
 comprehensor
 carbureter
+chapeau
 cookbook
 cultivators
 creatable
