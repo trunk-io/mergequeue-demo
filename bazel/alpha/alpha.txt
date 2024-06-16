@@ -8554,7 +8554,6 @@ alkylamino
 accelerograph
 alkylarylsulfonate
 alkylate
-alkylated
 alkylates
 atremate
 alkylbenzenesulfonates
@@ -13295,6 +13294,7 @@ anisognathism
 anisoiconia
 anisoyl
 anorexia
+alkylated
 archit
 aged
 anisoin
