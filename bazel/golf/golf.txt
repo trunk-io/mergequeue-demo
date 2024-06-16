@@ -1171,7 +1171,6 @@ genin
 generalness
 gantsl
 gastrostomus
-gowdnie
 guffin
 gaol
 grift
@@ -7523,6 +7522,7 @@ glucolysis
 gowl
 gamash
 gowning
+gowdnie
 goalie
 geothlypis
 gravamens
