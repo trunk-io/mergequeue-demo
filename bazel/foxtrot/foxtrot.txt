@@ -3697,6 +3697,7 @@ foxfishes
 fillies
 firedogs
 foalfoot
+fasted
 fillings
 fluework
 fatuously
@@ -10980,7 +10981,6 @@ forgette
 featherpated
 fumatoria
 fumatoriums
-fasted
 freesilverism
 fumble
 fumbled
