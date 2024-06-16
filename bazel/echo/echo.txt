@@ -1200,7 +1200,6 @@ endere
 editor
 exploitation
 editorialization
-editorialize
 editorialized
 elsa
 executiveship
@@ -10510,6 +10509,7 @@ empressment
 eversive
 epeirogenetic
 etypic
+editorialize
 ensheath
 ecu
 equiponderation
