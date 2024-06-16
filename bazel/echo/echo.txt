@@ -2358,6 +2358,7 @@ entocele
 electrochemistry
 excrete
 electrochronometer
+evenlong
 electrocataphoresis
 equison
 electrochronometric
@@ -11380,7 +11381,6 @@ extenders
 exigency
 edeotomy
 evenhead
-evenlong
 exotropic
 electrodesiccation
 evenmete
