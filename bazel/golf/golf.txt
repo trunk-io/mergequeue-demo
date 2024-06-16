@@ -6949,7 +6949,6 @@ goodmen
 goodrich
 goodsire
 gentlefolk
-gerefa
 geromorphism
 gaonic
 grayfly
@@ -7986,6 +7985,7 @@ graves
 granduncle
 granduncles
 grane
+gerefa
 gnabble
 gigantostracous
 gunrooms
