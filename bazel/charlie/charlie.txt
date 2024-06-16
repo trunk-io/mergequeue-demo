@@ -4332,6 +4332,7 @@ coeliotomy
 chytridiales
 concertstck
 caribe
+cauterised
 caribed
 calyphyomy
 corrupted
@@ -6397,7 +6398,6 @@ cautery
 cauteries
 cauterisation
 cauterise
-cauterised
 cauterising
 cauterism
 carafe
