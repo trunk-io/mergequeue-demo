@@ -9279,7 +9279,6 @@ dyer
 dementis
 dochmii
 dieresis
-dieretic
 deviate
 dieri
 drinkably
@@ -11272,6 +11271,7 @@ decolorimeter
 divinistre
 definability
 dyspathy
+dieretic
 dystrophy
 disbursing
 drylot
