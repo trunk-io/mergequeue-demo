@@ -12292,6 +12292,7 @@ andante
 allopatric
 andantino
 andaste
+archcount
 ande
 antiposition
 andean
@@ -18792,7 +18793,6 @@ archconfraternity
 agalite
 archconspirator
 anticonventionally
-archcount
 archcozener
 archcritic
 archcrown
