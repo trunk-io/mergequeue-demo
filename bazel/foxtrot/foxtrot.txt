@@ -1341,6 +1341,7 @@ fartherer
 fathership
 features
 fendering
+fanlight
 flown
 forride
 fathomage
@@ -6782,7 +6783,6 @@ filla
 finmark
 fungin
 foretokening
-fanlight
 furan
 faultfinding
 forewonted
