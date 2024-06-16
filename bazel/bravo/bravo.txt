@@ -8934,7 +8934,6 @@ binned
 binny
 binnite
 binnogue
-battailant
 binocs
 binocular
 battel
@@ -17229,6 +17228,7 @@ bullpup
 bullragged
 brughs
 bullragging
+battailant
 bullrush
 bullrushes
 bulls
