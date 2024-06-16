@@ -3856,6 +3856,7 @@ gustoes
 geniality
 gift
 giftbook
+geometer
 greasy
 giftedly
 gigelira
@@ -8966,7 +8967,6 @@ gobletful
 gnathophorous
 gravenstein
 guiles
-geometer
 grilled
 grogging
 gladiolas
