@@ -9120,7 +9120,6 @@ diedral
 denmark
 dictyosiphon
 dictyosiphonaceae
-dictyosiphonaceous
 dullhead
 disowned
 dictyota
@@ -17747,6 +17746,7 @@ dubitant
 dorey
 dolley
 dubitate
+dictyosiphonaceous
 dubitatingly
 duboisin
 duboisine

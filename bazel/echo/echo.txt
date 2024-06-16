@@ -12318,7 +12318,6 @@ empididae
 ephemerist
 exemptive
 excoriate
-excogitate
 exendospermic
 exendospermous
 exenterate
@@ -12673,6 +12672,7 @@ exogonium
 encharge
 enkolpion
 exometritis
+excogitate
 echo
 erotized
 emerse
