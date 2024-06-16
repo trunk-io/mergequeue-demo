@@ -11269,6 +11269,7 @@ disbursal
 dogstail
 disbursals
 disburse
+deictic
 detainees
 duckpins
 decolorimeter
@@ -12790,7 +12791,6 @@ delectate
 drollish
 dislustre
 disulphonic
-deictic
 diffusedness
 deferral
 dismay
