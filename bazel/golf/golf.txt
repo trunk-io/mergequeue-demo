@@ -2510,7 +2510,6 @@ goofy
 grassing
 gena
 genal
-genapp
 genitalic
 gospodar
 glenwood
@@ -9886,6 +9885,7 @@ genders
 guans
 gazook
 glaked
+genapp
 glacially
 guilty
 gasses
