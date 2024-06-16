@@ -2461,6 +2461,7 @@ ephebi
 equivalence
 electrogenic
 electrogild
+electrojet
 electrogilt
 ejecting
 electrogram
@@ -10699,7 +10700,6 @@ expectations
 eyass
 eudemonistic
 eudemons
-electrojet
 eudemonics
 equivalencies
 eudeve
