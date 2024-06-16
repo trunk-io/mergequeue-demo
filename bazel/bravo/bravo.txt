@@ -9289,6 +9289,7 @@ biotypes
 biotypic
 biotypology
 biotite
+baselard
 biotites
 bromcamphor
 bruja
@@ -10892,7 +10893,6 @@ birthrate
 branchiate
 blepharochromidrosis
 bcf
-baselard
 bitolyl
 balow
 blepharoclonus
