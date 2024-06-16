@@ -3190,6 +3190,7 @@ acuclosure
 acuductor
 acuerdo
 acuity
+arbuscle
 acuities
 antizymic
 archfire
@@ -18632,7 +18633,6 @@ arbour
 arboured
 arbours
 arbs
-arbuscle
 achaemenid
 arbuscula
 aelodicon
