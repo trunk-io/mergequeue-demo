@@ -5567,7 +5567,6 @@ capitulations
 catadioptrical
 catadioptrics
 catadrome
-catadromous
 catadupe
 catafalco
 countervails
@@ -21186,6 +21185,7 @@ carcerist
 concassation
 cherishers
 concatenate
+catadromous
 concatenated
 concatenates
 coequating
