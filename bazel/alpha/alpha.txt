@@ -6426,7 +6426,6 @@ agrostologic
 antiresonance
 attempering
 alnascharism
-agrostologist
 agrote
 agrotechny
 agrotype
@@ -7958,6 +7957,7 @@ alethea
 alethiology
 alethiological
 alethiologist
+agrostologist
 alethopteis
 alethopteroid
 alethoscope
