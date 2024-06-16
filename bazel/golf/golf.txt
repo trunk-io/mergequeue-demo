@@ -3000,7 +3000,6 @@ gladen
 geodynamic
 geodynamics
 guilt
-gyroplane
 gurkha
 grebes
 gollop
@@ -6795,6 +6794,7 @@ glaziery
 gamelike
 gazpacho
 gascheck
+gyroplane
 graff
 glycolysis
 grandmotherism
