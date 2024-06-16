@@ -3428,7 +3428,6 @@ additions
 addititious
 additive
 additively
-appoggiatura
 acrogynous
 additives
 additivity
@@ -4862,6 +4861,7 @@ aerodynamical
 aerodynamically
 adepts
 aiders
+appoggiatura
 amphibiology
 aloma
 abrasiveness

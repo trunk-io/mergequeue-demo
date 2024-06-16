@@ -3227,7 +3227,6 @@ backwoodsman
 bathtub
 besmutting
 blatters
-basifixed
 basifugal
 bretwaldadom
 biltong
@@ -4654,6 +4653,7 @@ bedrid
 bebannered
 bedecking
 bankfull
+basifixed
 bedehouse
 bedehouses
 bedelve
