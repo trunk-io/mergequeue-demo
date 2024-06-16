@@ -4448,7 +4448,6 @@ advance
 advancedness
 advancement
 advancements
-advancer
 advancers
 advancing
 advancive
@@ -14021,6 +14020,7 @@ arsenillo
 anteambulate
 anteambulation
 anteater
+advancer
 astrologian
 achronychous
 antebaptismal
