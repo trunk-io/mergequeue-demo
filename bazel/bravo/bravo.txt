@@ -5277,6 +5277,7 @@ bobbled
 bothsided
 barlock
 begazing
+bimasty
 borderer
 begem
 bookdealer
@@ -8814,7 +8815,6 @@ beachcomb
 bournless
 bimanually
 barbadoes
-bimasty
 bourbonist
 bimastic
 brunts
