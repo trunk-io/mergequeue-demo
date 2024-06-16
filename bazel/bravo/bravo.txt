@@ -2827,7 +2827,6 @@ body
 barosinusitus
 barosmin
 blithefully
-barostat
 bruta
 biquadrate
 baroswitch
@@ -10048,6 +10047,7 @@ bronchiole
 burbles
 biurea
 bivalence
+barostat
 bajulate
 balustraded
 besauce
