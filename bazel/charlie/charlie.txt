@@ -12614,7 +12614,6 @@ chromosomally
 condensate
 chromosomes
 cornercap
-chromosphere
 calfs
 collophore
 chromospheric
@@ -17993,6 +17992,7 @@ coedits
 coeducationalism
 coeducationalize
 coef
+chromosphere
 coeff
 coeffect
 coefficients
