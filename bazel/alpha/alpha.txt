@@ -6375,7 +6375,6 @@ astringently
 animate
 araphostic
 agriot
-agriotype
 agriotypidae
 allotypical
 agrypnia
@@ -19315,6 +19314,7 @@ azocorinth
 antidivorce
 ardoise
 ardors
+agriotype
 ardour
 ardours
 ardri
