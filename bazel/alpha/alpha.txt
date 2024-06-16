@@ -2183,6 +2183,7 @@ achras
 antiracer
 ashmolean
 achrodextrin
+aphotaxis
 algebraized
 achrodextrinase
 achroglobin
@@ -16886,7 +16887,6 @@ aphorized
 aphorizes
 aphorizing
 aphoruridae
-aphotaxis
 aphototactic
 asbestoses
 ancienter
