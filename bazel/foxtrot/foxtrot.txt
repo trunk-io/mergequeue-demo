@@ -1746,7 +1746,6 @@ featheredge
 featheredged
 finlike
 forejudgment
-facewise
 feldspathoidal
 featherfew
 finically
@@ -3320,6 +3319,7 @@ finesser
 faon
 forevermore
 flasket
+facewise
 facioscapulohumeral
 fideist
 fossilologist
