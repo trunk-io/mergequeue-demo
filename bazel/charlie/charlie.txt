@@ -12277,7 +12277,6 @@ cynodon
 calescent
 chrysene
 chrysid
-countercouchant
 chrysidid
 chrysippus
 chrysis
@@ -27981,6 +27980,7 @@ crackrope
 cracks
 crackskull
 cracksmen
+countercouchant
 cradge
 chiliagon
 cradlechild
