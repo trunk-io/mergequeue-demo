@@ -15199,6 +15199,7 @@ brickwall
 blennoid
 backstrip
 bucketing
+bugloss
 benchers
 bridale
 basehearted
@@ -16958,7 +16959,6 @@ buglewort
 buffer
 blennophlogisma
 bugling
-bugloss
 buglosses
 buzzwords
 bugong
