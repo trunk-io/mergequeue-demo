@@ -3603,7 +3603,6 @@ cumanagoto
 caracol
 caracoled
 coauthoring
-caracoler
 caracoli
 caracoling
 critically
@@ -19200,6 +19199,7 @@ collision
 collisive
 cunningest
 collywest
+caracoler
 collyweston
 collywobbles
 columbeia
