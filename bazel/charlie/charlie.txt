@@ -9913,7 +9913,6 @@ chemism
 choosy
 chemisorb
 chloridizing
-chemisorption
 cantator
 cardiotherapy
 caudillos
@@ -14031,6 +14030,7 @@ chaffy
 cussed
 cinnamons
 cinnolin
+chemisorption
 cinnoline
 cynocephalic
 cynocephalous
