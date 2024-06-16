@@ -3231,6 +3231,7 @@ acus
 atresy
 acustom
 ambassadeur
+algebraize
 acutance
 acutances
 acute
@@ -8109,7 +8110,6 @@ aquatical
 algebraical
 algebraically
 algebraist
-algebraize
 anodization
 algedo
 alfilerillo
