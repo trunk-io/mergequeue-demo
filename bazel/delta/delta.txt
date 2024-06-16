@@ -3576,6 +3576,7 @@ disknow
 distomum
 delvers
 deformable
+detecting
 deformation
 delete
 deformations
@@ -13119,7 +13120,6 @@ dispericraniate
 discoverability
 drapes
 disperiwig
-detecting
 diaphototropism
 discardable
 diffused
