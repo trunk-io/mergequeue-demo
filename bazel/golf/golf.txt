@@ -1450,7 +1450,6 @@ garrigue
 goodnight
 garrisonism
 gashing
-garrnishable
 goldsmithry
 garroter
 grandgore
@@ -4863,6 +4862,7 @@ glar
 gyves
 givingness
 gizmos
+garrnishable
 gizz
 grippier
 gorgoniaceous
