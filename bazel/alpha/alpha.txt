@@ -5819,7 +5819,6 @@ abrenunciation
 age
 ageable
 agallop
-agedly
 agedness
 agee
 ageing
@@ -24549,6 +24548,7 @@ avadhuta
 armorist
 alloyed
 avail
+agedly
 availabile
 ascot
 availability
