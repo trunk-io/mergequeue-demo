@@ -1934,7 +1934,6 @@ fancy
 feebleness
 feebless
 feebly
-feeblish
 fulldo
 flammivomous
 federalize
@@ -3543,6 +3542,7 @@ formularise
 filamentule
 filao
 froward
+feeblish
 filariae
 filarian
 fattily
