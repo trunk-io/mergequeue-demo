@@ -13381,7 +13381,6 @@ empire
 entrepots
 enwheeled
 earlship
-exophagy
 expressage
 extirpations
 edgily
@@ -13672,6 +13671,7 @@ extempore
 externe
 externes
 excursionize
+exophagy
 epitaxy
 ermanaric
 exemplary
