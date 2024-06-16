@@ -2059,7 +2059,6 @@ bankalachi
 bidactyl
 bankbooks
 bankcard
-becrawl
 bankcards
 bethought
 budzart
@@ -4007,6 +4006,7 @@ beachmen
 blinky
 beaconage
 berchta
+becrawl
 beaconless
 business
 bouldery
