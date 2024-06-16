@@ -6321,7 +6321,6 @@ euclidean
 escharine
 ens
 emmenagogue
-esthesias
 emendator
 epicureans
 ensafe
@@ -11503,6 +11502,7 @@ erbium
 evidentness
 evigilation
 egre
+esthesias
 endocrinous
 exoergic
 echinopanax
