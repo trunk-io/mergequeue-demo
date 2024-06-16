@@ -5754,7 +5754,6 @@ agennetic
 autocoder
 agaricaceae
 agaricaceous
-agaricales
 agaricine
 agaricoid
 agarics
@@ -20787,6 +20786,7 @@ artistic
 aphototropism
 aftercourse
 ashiver
+agaricales
 aeroplankton
 alkylation
 amylophosphate
