@@ -4830,7 +4830,6 @@ aerobioscope
 aerobiosis
 aerobiotic
 aerobious
-acalepha
 aeroboat
 aerobranchia
 aerobranchiate
@@ -18724,6 +18723,7 @@ archaic
 acing
 anisol
 apogaic
+acalepha
 available
 animability
 archaical
