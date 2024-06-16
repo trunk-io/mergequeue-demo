@@ -3378,7 +3378,6 @@ embarkations
 epitomize
 embarkment
 embarks
-electrograph
 equipage
 ellinge
 exteroceptor
@@ -5901,6 +5900,7 @@ excursive
 eftest
 enheart
 enhearten
+electrograph
 endobronchially
 enhedge
 euchorda
