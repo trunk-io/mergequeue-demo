@@ -19905,7 +19905,6 @@ aeroacoustic
 armatures
 armband
 annuent
-armbands
 armchair
 ast
 atreus
@@ -24433,6 +24432,7 @@ autotypic
 autotypography
 autotomy
 autotomise
+armbands
 autotomised
 adoptively
 autotomize
