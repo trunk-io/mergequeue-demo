@@ -8535,6 +8535,7 @@ gullied
 griseofulvin
 gre
 goslarite
+gotos
 galvanoplastics
 gimbaling
 grauwacke
@@ -10761,7 +10762,6 @@ guiders
 gloam
 graminin
 glycerinate
-gotos
 gorhen
 gimbals
 gallium
