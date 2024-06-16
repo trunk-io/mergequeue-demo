@@ -3887,7 +3887,6 @@ gloweringly
 geomyidae
 glacon
 gasoline
-gigahertz
 gigahertzes
 galloperdix
 gryllus
@@ -6187,6 +6186,7 @@ gunneries
 gombos
 glengarries
 greatcoats
+gigahertz
 gnessic
 granogabbro
 gastromancy
