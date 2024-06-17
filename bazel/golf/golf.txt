@@ -4962,7 +4962,6 @@ gladiatrix
 gonoph
 geobiology
 goyim
-gymkhana
 girderage
 gladier
 graveled
@@ -10689,6 +10688,7 @@ granaries
 generalissima
 goaling
 gurshes
+gymkhana
 gamble
 guardhouse
 guru
