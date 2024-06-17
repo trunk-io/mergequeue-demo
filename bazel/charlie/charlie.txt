@@ -2010,6 +2010,7 @@ commandants
 camorras
 camorrism
 camorrist
+capitalizer
 cypresses
 camorrista
 camorristi
@@ -3217,7 +3218,6 @@ capitalize
 cananaean
 coremium
 capitalized
-capitalizer
 capitalizers
 capitalizes
 catecheses
