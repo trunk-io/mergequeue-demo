@@ -860,7 +860,6 @@ enaluron
 equinox
 ecthlipses
 euglenidae
-ecdysiast
 ectypal
 ectype
 everliving
@@ -8012,6 +8011,7 @@ epimeric
 epimeride
 epimerism
 exhaustibility
+ecdysiast
 empidonax
 evangels
 epitomate
