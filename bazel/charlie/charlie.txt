@@ -8615,7 +8615,6 @@ champions
 cytotaxonomic
 championships
 champleve
-champs
 chams
 chamsin
 compositionally
@@ -25426,6 +25425,7 @@ corneule
 cornfactor
 comprising
 cornfed
+champs
 cornfields
 cornflag
 countersiege
