@@ -6571,7 +6571,6 @@ enteral
 enteralgia
 epicostal
 enstatitite
-enterate
 enterectomy
 exuviates
 enterer
@@ -12154,6 +12153,7 @@ eyelike
 excursionist
 excursiveness
 excursus
+enterate
 excurvated
 emphysematous
 exteriorly
