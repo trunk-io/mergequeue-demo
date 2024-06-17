@@ -4127,7 +4127,6 @@ gimcrack
 greyer
 galictis
 gastroduodenotomy
-glandular
 grasswards
 gulfed
 geomancies
@@ -7246,6 +7245,7 @@ gorsebird
 geochronic
 glowbird
 grainsick
+glandular
 glazed
 globy
 gelatinify
