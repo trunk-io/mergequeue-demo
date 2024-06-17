@@ -4440,7 +4440,6 @@ caryopsides
 caryopsis
 currawong
 courthouses
-caryota
 caripuna
 cariri
 caririan
@@ -25709,6 +25708,7 @@ cleverness
 corpsman
 corpulences
 corpulencies
+caryota
 corsair
 closestool
 corpulently
