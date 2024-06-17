@@ -3227,6 +3227,7 @@ flotages
 fosslology
 furling
 fnese
+fusicoccum
 ficklest
 ficklety
 forel
@@ -11517,7 +11518,6 @@ furzy
 flammable
 flouncy
 fluently
-fusicoccum
 fusariose
 fanfold
 frictionize
