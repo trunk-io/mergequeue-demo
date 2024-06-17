@@ -995,6 +995,7 @@ forklifts
 fardel
 featherstitch
 foxhound
+fusion
 fardelet
 fards
 friarbird
@@ -11529,7 +11530,6 @@ ficklewise
 firebirds
 finalis
 fattenable
-fusion
 fuzziness
 finicism
 ferricyanic
