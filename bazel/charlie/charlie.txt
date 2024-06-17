@@ -23,7 +23,6 @@ cardplaying
 cabalism
 cabalisms
 castratory
-crewelwork
 cnicus
 cabalist
 cabalistic
@@ -4623,6 +4622,7 @@ caroba
 caroch
 caroche
 caroches
+crewelwork
 caroid
 carol
 carolan
