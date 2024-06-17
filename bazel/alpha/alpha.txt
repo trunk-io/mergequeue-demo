@@ -3974,7 +3974,6 @@ admeasurer
 adumbrant
 admeasuring
 admedial
-admedian
 afforced
 anthus
 amphoricity
@@ -18700,6 +18699,7 @@ automower
 archaeolatry
 atokous
 archaeolith
+admedian
 archaeolithic
 archaeologer
 areologic
