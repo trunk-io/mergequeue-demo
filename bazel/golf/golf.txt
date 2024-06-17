@@ -944,7 +944,6 @@ glommox
 gaminess
 grumousness
 gradationately
-gigantically
 gerundively
 getic
 gawkishness
@@ -8172,6 +8171,7 @@ graphemics
 graphically
 graphicness
 graphing
+gigantically
 glamourously
 glutamates
 glorioso
