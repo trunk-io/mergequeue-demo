@@ -2538,6 +2538,7 @@ deerstalker
 deckhead
 doorposts
 deckle
+depletable
 dulls
 diatropism
 declaim
@@ -18459,7 +18460,6 @@ dissociating
 discoursive
 dyschronous
 dupper
-depletable
 denat
 durabilities
 dirca
