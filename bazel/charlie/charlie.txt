@@ -14093,7 +14093,6 @@ cabecera
 cinquecentist
 coquetries
 commemoratory
-cinquecento
 cinquefoil
 corporature
 cinquefoiled
@@ -27860,6 +27859,7 @@ cozened
 cozener
 cozeners
 cozening
+cinquecento
 cozeningly
 cozens
 cozes
