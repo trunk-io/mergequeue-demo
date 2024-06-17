@@ -7418,6 +7418,7 @@ bootstrap
 bethink
 barquentine
 balaenoptera
+bocklogged
 belander
 becumber
 baklawa
@@ -9524,7 +9525,6 @@ byrewards
 birgand
 bedirties
 briggsian
-bocklogged
 birkenhead
 bourride
 birkeniidae
