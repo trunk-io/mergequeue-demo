@@ -1232,7 +1232,6 @@ acanthopteri
 acanthopterygian
 adagial
 acanthopterygii
-acanthopterous
 acanthoses
 acanthotic
 acanthuridae
@@ -23754,6 +23753,7 @@ australopithecinae
 assistantship
 amatorious
 animadverts
+acanthopterous
 apostatic
 accismus
 amatories
