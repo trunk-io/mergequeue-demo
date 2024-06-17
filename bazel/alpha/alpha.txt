@@ -5474,6 +5474,7 @@ afterbodies
 amyloids
 afterbrain
 afterbreach
+auresca
 aerarium
 afterbreast
 acraldehyde
@@ -6773,7 +6774,6 @@ axometer
 aircraftmen
 ausu
 aircraftsman
-auresca
 aneurine
 affrontiveness
 aircraftsmen
