@@ -19058,7 +19058,6 @@ collectibility
 cease
 copeck
 collectible
-chelonid
 collecting
 collection
 collectivise
@@ -22874,6 +22873,7 @@ cycadofilicale
 cordwainery
 catnapped
 crinid
+chelonid
 caulicles
 congiaries
 consensuses
