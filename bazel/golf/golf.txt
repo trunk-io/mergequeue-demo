@@ -127,6 +127,7 @@ gilsonite
 gaugers
 garvey
 gauloiserie
+geiger
 grosz
 goatfish
 gadroon
@@ -2281,7 +2282,6 @@ gallantry
 gradation
 gluttonised
 geyerite
-geiger
 gospeller
 gangrel
 glamoury
