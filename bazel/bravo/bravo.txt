@@ -4582,7 +4582,6 @@ bool
 blotters
 bedabble
 beagles
-bedabbling
 barricadoed
 berceau
 buttonholer
@@ -5277,6 +5276,7 @@ barlock
 begazing
 bimasty
 borderer
+bedabbling
 begem
 bookdealer
 bestseller
