@@ -549,7 +549,6 @@ entosthoblast
 echinocereus
 echinococcosis
 epedaphic
-echinococcus
 echinoderidae
 echinoderma
 endive
@@ -1580,6 +1579,7 @@ emportment
 euthanasy
 endamageable
 enmeshments
+echinococcus
 eutaxitic
 egghead
 exintine
