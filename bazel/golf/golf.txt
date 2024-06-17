@@ -1092,7 +1092,6 @@ genialize
 geode
 gondite
 glutamic
-gangman
 gangplows
 geomalic
 gratiosolin
@@ -7632,6 +7631,7 @@ gardeny
 grader
 gradgrind
 grouseward
+gangman
 gud
 glamour
 gradient
