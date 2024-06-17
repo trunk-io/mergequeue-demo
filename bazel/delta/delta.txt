@@ -5926,6 +5926,7 @@ directness
 divestible
 deafforestation
 deposits
+dulcitol
 dedifferentiation
 doumaist
 deafforest
@@ -18027,7 +18028,6 @@ disgallant
 disquisitionary
 damping
 dulcite
-dulcitol
 dulcitude
 dacryocystalgia
 duteous
