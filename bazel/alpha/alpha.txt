@@ -8434,7 +8434,6 @@ alizarins
 anthrathiophene
 aljama
 antilipoid
-antilogs
 aljamado
 assistances
 aljamia
@@ -19886,6 +19885,7 @@ armadillidium
 archplotter
 armadillos
 astrocyte
+antilogs
 araucarian
 aminolytic
 armado
