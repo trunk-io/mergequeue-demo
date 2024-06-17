@@ -4167,7 +4167,6 @@ cardioneurosis
 cardionosus
 cardiopath
 cardiopathic
-cardiopericarditis
 cardiophobe
 cardiophrenia
 capette
@@ -7654,6 +7653,7 @@ cactales
 cerebralize
 cerebrals
 cerebrasthenic
+cardiopericarditis
 cerebrated
 cosmopolite
 chivaried
