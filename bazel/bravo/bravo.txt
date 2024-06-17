@@ -2952,6 +2952,7 @@ boobishness
 blobby
 bailed
 barricaded
+beltian
 barricaders
 bedplates
 barricado
@@ -6982,7 +6983,6 @@ badder
 backfatter
 bagheli
 brott
-beltian
 bilihumin
 bagoong
 brainwater
