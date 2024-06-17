@@ -2110,7 +2110,6 @@ canful
 campgrounds
 consarcinate
 camphane
-camphanic
 camphanone
 camphene
 camphenes
@@ -20816,6 +20815,7 @@ cupcake
 complicacy
 ceramiaceae
 complicant
+camphanic
 complicate
 complicated
 centrutra
