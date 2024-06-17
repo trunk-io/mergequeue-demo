@@ -1408,7 +1408,6 @@ baldpatedness
 bulter
 baldrib
 barbells
-baldrick
 bloomier
 balds
 bugged
@@ -14833,6 +14832,7 @@ benumbedness
 breadmaker
 breadman
 breadness
+baldrick
 breadnuts
 brineman
 breadroot
