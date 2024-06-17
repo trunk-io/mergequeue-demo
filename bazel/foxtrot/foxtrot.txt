@@ -2588,6 +2588,7 @@ frailties
 fortuitus
 fiduciaries
 forbidden
+flappy
 ferritungstite
 flurry
 fantasticness
@@ -9316,7 +9317,6 @@ francophil
 finkel
 funebre
 faller
-flappy
 figeter
 fanneling
 frangibility
