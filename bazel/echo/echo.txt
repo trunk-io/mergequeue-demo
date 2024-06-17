@@ -4476,7 +4476,6 @@ encarpa
 encarpium
 encarpus
 endrin
-elasmosaur
 enworthy
 entirely
 epitonic
@@ -6084,6 +6083,7 @@ encomienda
 epithymetical
 eltime
 enlighteners
+elasmosaur
 ebullience
 evanesce
 epifauna
