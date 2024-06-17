@@ -3644,7 +3644,6 @@ disguise
 debunker
 degass
 degassed
-demandant
 degassing
 disappears
 dolerin
@@ -4452,6 +4451,7 @@ dishonourableness
 dispersonalize
 demarcates
 demarcating
+demandant
 demarcation
 demarcations
 demarcatordemarcators
