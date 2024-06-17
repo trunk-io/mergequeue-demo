@@ -2573,6 +2573,7 @@ deaminate
 drain
 dyeing
 declarators
+dotted
 declare
 declaredly
 doorjamb
@@ -15995,7 +15996,6 @@ doto
 divinail
 disparpled
 dotriacontane
-dotted
 doggoneder
 distressedly
 danios
