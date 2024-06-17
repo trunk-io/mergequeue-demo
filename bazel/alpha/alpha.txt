@@ -6771,7 +6771,6 @@ atenist
 aquas
 axometer
 aircraftmen
-antidynasty
 ausu
 aircraftsman
 auresca
@@ -15933,6 +15932,7 @@ antipoverty
 antipragmatical
 anglers
 annotations
+antidynasty
 amazingly
 antipragmatism
 antipragmatist
