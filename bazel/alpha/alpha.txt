@@ -4966,7 +4966,6 @@ aeronaut
 aeronautic
 amazona
 aeronautical
-aeronautically
 aeronomer
 amyliferous
 aeronomy
@@ -6373,6 +6372,7 @@ almah
 agriological
 astringently
 animate
+aeronautically
 araphostic
 agriot
 agriotypidae
