@@ -1159,6 +1159,7 @@ gaspy
 gestura
 gunrunner
 gnawer
+galyac
 gunpowder
 gander
 gundygut
@@ -7082,7 +7083,6 @@ gaumy
 gercrow
 gooselike
 glider
-galyac
 griselda
 galactodendron
 graniteware
