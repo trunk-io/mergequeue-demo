@@ -605,6 +605,7 @@ britannian
 bacteriaemia
 biblist
 bacterially
+bacterioblast
 bactericide
 beethoven
 bidget
@@ -12710,7 +12711,6 @@ benchland
 bequirtle
 bushgoats
 bewrite
-bacterioblast
 beaklike
 bediapers
 boobery
