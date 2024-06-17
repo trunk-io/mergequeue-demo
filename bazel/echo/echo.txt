@@ -7991,7 +7991,6 @@ endosmosis
 exudates
 exptl
 episcoparian
-epibenthos
 epiloguize
 exordia
 encephalogram
@@ -8287,6 +8286,7 @@ epistases
 epistasy
 epistasies
 enhancers
+epibenthos
 enrapturedly
 elephantiasic
 electrophotometer
