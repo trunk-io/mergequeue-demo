@@ -5516,7 +5516,6 @@ fiendlike
 fleers
 flaxlike
 flybrush
-felsophyre
 flatulences
 firefight
 fiddlies
@@ -10654,6 +10653,7 @@ flyeater
 fruitlets
 fainting
 foxy
+felsophyre
 fruitlike
 foreseeingly
 feralin
