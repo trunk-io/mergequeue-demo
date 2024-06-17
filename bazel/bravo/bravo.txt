@@ -4125,7 +4125,6 @@ beans
 beansetter
 beanshooter
 beanstalk
-beanstalks
 begrain
 beanweed
 boehmenist
@@ -9282,6 +9281,7 @@ becalmment
 biotelemetries
 biotical
 bobwhite
+beanstalks
 beguilingness
 bruted
 biotins
