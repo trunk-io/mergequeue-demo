@@ -1742,7 +1742,6 @@ accusants
 accusation
 accusations
 accusatively
-accusativeness
 accusatives
 accusator
 associates
@@ -25083,6 +25082,7 @@ axes
 antiastronomical
 axfetch
 axhammer
+accusativeness
 ascidian
 amphigonium
 allusion
