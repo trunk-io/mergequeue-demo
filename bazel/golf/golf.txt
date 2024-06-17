@@ -2661,7 +2661,6 @@ glims
 genethlic
 goatee
 genetics
-geomorphological
 gastrolysis
 glasswork
 genetika
@@ -8432,6 +8431,7 @@ getid
 gayal
 galleon
 guaranteed
+geomorphological
 gravelish
 gillaroo
 gelants
