@@ -8175,7 +8175,6 @@ algonkian
 algonquian
 appraisement
 applicant
-anticked
 anastasis
 aiglette
 algonquin
@@ -9042,6 +9041,7 @@ allottery
 achondrite
 allotting
 aeromotor
+anticked
 allover
 allovers
 allowable
