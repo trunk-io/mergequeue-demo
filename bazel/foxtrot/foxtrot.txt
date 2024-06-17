@@ -267,7 +267,6 @@ firm
 floorwalker
 fluviation
 faddist
-faddists
 founder
 flightily
 fathomable
@@ -2987,6 +2986,7 @@ fondish
 fructuarius
 forefault
 forworden
+faddists
 fingerparted
 formicina
 feverlike
