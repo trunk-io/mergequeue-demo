@@ -2645,7 +2645,6 @@ decoctum
 drudgery
 decodable
 decode
-decoders
 decodes
 decoding
 deignous
@@ -15630,6 +15629,7 @@ defaulters
 domina
 doomwatcher
 dissentaneous
+decoders
 diversionist
 dooputty
 decamp
