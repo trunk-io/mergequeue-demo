@@ -2474,7 +2474,6 @@ fermentable
 federary
 fermentativeness
 footbridges
-fermium
 fermentescible
 fielding
 foliocellosis
@@ -5620,6 +5619,7 @@ freighters
 flyflapper
 foulnesses
 faff
+fermium
 frondous
 flinched
 flyblown
