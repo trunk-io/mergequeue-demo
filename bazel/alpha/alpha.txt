@@ -14282,7 +14282,6 @@ antetype
 antetypes
 ahypnia
 antevert
-anteverted
 anteverting
 americanist
 antewar
@@ -19911,6 +19910,7 @@ armatures
 armband
 annuent
 armchair
+anteverted
 ast
 atreus
 armchaired
