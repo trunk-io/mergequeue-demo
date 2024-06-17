@@ -6868,7 +6868,6 @@ folklike
 finnochio
 feasible
 folklores
-folkloric
 fp
 falsetto
 floatages
@@ -9317,6 +9316,7 @@ floaty
 franconian
 francophil
 finkel
+folkloric
 funebre
 faller
 figeter
