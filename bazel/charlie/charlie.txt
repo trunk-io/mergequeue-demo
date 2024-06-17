@@ -13074,6 +13074,7 @@ collects
 cyanide
 casel
 catamenial
+continentality
 cyanides
 cyanidin
 cyanidrosis
@@ -29933,7 +29934,6 @@ crosspath
 crosspoint
 crossroad
 crossroads
-continentality
 cobwebs
 crossruff
 cardinals
