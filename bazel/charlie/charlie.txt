@@ -2514,7 +2514,6 @@ candlebomb
 candlefish
 candlefishes
 collogued
-colipyuria
 candleholder
 candlelight
 candlelighter
@@ -28231,6 +28230,7 @@ crankous
 crankpin
 cryptorchid
 crankpins
+colipyuria
 cranks
 crossbarring
 crankshafts
