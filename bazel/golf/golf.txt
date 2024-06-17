@@ -53,7 +53,6 @@ grammes
 gabions
 guardian
 gelatiniser
-glendover
 gammarus
 gollar
 gableboard
@@ -10787,6 +10786,7 @@ guttation
 gawky
 gorgonizing
 gallybagger
+glendover
 grees
 glycocoll
 garth
