@@ -497,7 +497,6 @@ flockowner
 funbre
 faky
 faking
-fakir
 fassaite
 flayer
 feodum
@@ -7727,6 +7726,7 @@ flabelliform
 forsaker
 fireproofing
 foremasts
+fakir
 fibrinogenetic
 foremean
 fasciately
