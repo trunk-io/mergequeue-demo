@@ -664,7 +664,6 @@ disrange
 damosel
 drachms
 decapitalize
-dampcourse
 desiccate
 damped
 desquamated
@@ -4552,6 +4551,7 @@ disinformation
 discophora
 dendrons
 divelling
+dampcourse
 demethylate
 demetricize
 deceits
