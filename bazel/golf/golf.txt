@@ -599,6 +599,7 @@ gaincall
 gossypol
 greaseball
 gallinaceae
+gauntest
 gallinacean
 golconda
 galesaurus
@@ -2732,7 +2733,6 @@ germanomania
 goofier
 goiabada
 goggan
-gauntest
 gravitons
 gusle
 grith
