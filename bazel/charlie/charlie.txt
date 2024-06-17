@@ -7553,7 +7553,6 @@ ceratoblast
 ceratobranchial
 ceratocystis
 ceratodidae
-ceratodus
 ceratoduses
 coistrils
 ceratoglossal
@@ -15745,6 +15744,7 @@ clattering
 chicaner
 capryl
 colorfully
+ceratodus
 chromograph
 coquin
 calfskins
