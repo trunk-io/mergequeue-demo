@@ -15962,7 +15962,6 @@ cleavelandite
 contentness
 cleaver
 cleavers
-cleaving
 coremaker
 cloudier
 clamb
@@ -28799,6 +28798,7 @@ crescendos
 crescentade
 circulator
 crescentader
+cleaving
 crescented
 crescentia
 crescentic
