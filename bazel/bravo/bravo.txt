@@ -2535,7 +2535,6 @@ barge
 bergere
 bargehouse
 bargelike
-boldine
 bravura
 bargelli
 bargellos
@@ -9529,6 +9528,7 @@ birkeniidae
 birky
 birkie
 birkremite
+boldine
 birl
 begrease
 byrl
