@@ -17410,7 +17410,6 @@ cheapskates
 coastguardsman
 coastguardsmen
 cruder
-coasting
 coastland
 coastlines
 channeled
@@ -20569,6 +20568,7 @@ compassable
 compassed
 compasses
 compassing
+coasting
 compassion
 compassionate
 couthiness
