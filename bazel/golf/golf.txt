@@ -557,6 +557,7 @@ grapiest
 gastromelus
 geisotherm
 gasolines
+gd
 glycerine
 griffons
 griming
@@ -10326,7 +10327,6 @@ gleaner
 genipa
 gainfully
 gujarati
-gd
 glood
 gametic
 greenless
