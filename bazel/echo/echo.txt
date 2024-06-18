@@ -2472,7 +2472,6 @@ empanelment
 electrohemostasis
 eventide
 electrohydraulically
-emulsoidal
 electrohomeopathy
 endexines
 electromyographically
@@ -2701,6 +2700,7 @@ electrotherapist
 electrotheraputic
 emyds
 electrothermal
+emulsoidal
 expurgates
 epiperipheral
 exteriorise
