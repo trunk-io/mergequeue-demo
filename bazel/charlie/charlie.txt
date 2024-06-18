@@ -6665,7 +6665,6 @@ cedilla
 cedillas
 ceding
 cedis
-choppered
 cosheath
 chromule
 cedrat
@@ -22089,6 +22088,7 @@ confiserie
 chromocytometer
 clairschacher
 corticating
+choppered
 confit
 confitent
 caesalpiniaceous
