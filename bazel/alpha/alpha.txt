@@ -4948,7 +4948,6 @@ aeroliths
 aerolitic
 aerological
 aerologist
-aerologists
 antepartum
 aeromancer
 aeromechanic
@@ -11123,6 +11122,7 @@ affliction
 axometric
 airiest
 amphiboline
+aerologists
 attainability
 amphibolite
 amphibolitic
