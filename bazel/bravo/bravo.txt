@@ -4664,7 +4664,6 @@ boeing
 basigamy
 bloodworm
 bdft
-bedeviling
 bedevilling
 barbershops
 biforine
@@ -7287,6 +7286,7 @@ bestirs
 bestock
 bestow
 bestowals
+bedeviling
 bigamic
 bestower
 bestowment
