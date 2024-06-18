@@ -3387,7 +3387,6 @@ dripproof
 definers
 deflects
 defines
-deformedness
 definienda
 definiendum
 dippy
@@ -13898,6 +13897,7 @@ distempering
 distemperoid
 distemperure
 distenant
+deformedness
 distending
 distends
 delphinid
