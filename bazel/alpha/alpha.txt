@@ -11682,6 +11682,7 @@ ade
 anaesthetization
 avoke
 attempts
+artal
 anaesthetize
 anaesthetized
 anaesthetizer
@@ -15346,7 +15347,6 @@ antigonus
 antigorite
 antigovernmental
 antigovernmentally
-artal
 antigrammatical
 aminoacetanilide
 arcadings
