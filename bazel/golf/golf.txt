@@ -237,6 +237,7 @@ gail
 gundy
 gp
 glowfly
+gestatorium
 golpe
 guaranies
 gobline
@@ -10862,7 +10863,6 @@ gweeon
 geomagnetician
 gooey
 gyri
-gestatorium
 grozet
 guideress
 graduation
