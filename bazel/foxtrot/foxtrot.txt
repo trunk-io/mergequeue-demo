@@ -10909,7 +10909,6 @@ flivver
 fletched
 fullmouth
 fullmouthed
-fowlpoxes
 firesafeness
 fullom
 fripperies
@@ -11681,6 +11680,7 @@ futiley
 fumigate
 futilitarianism
 focusless
+fowlpoxes
 felons
 forepale
 frequenter
