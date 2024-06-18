@@ -11763,7 +11763,6 @@ analeptic
 anthidium
 analgesics
 analgesist
-acroesthesia
 analgetic
 analgia
 anticephalalgic
@@ -14700,6 +14699,7 @@ antiboss
 antiapoplectic
 attaching
 antiaquatic
+acroesthesia
 anaspidacea
 antiar
 antiarin
