@@ -2525,7 +2525,6 @@ ditchdown
 dirigent
 deckhand
 duckwing
-deerstalker
 deckhead
 doorposts
 deckle
@@ -6574,6 +6573,7 @@ descends
 deviability
 dialectic
 dipoles
+deerstalker
 descension
 descensionist
 descensive
