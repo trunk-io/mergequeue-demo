@@ -7963,7 +7963,6 @@ endopeptidase
 extensible
 epileptical
 epileptically
-epileptiform
 eavesdrip
 exotospore
 entomeric
@@ -11448,6 +11447,7 @@ evernioid
 encephalosis
 ependymary
 everted
+epileptiform
 euouae
 exhaustion
 everts
