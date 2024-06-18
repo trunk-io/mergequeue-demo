@@ -8486,7 +8486,6 @@ chamaesiphonales
 chamal
 chamar
 chamber
-chamberdeacon
 chambered
 catocala
 cacciatore
@@ -17978,6 +17977,7 @@ coedit
 coedited
 coediting
 coeditors
+chamberdeacon
 cocoanuts
 coedits
 coeducationalism
