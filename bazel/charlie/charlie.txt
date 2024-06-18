@@ -9198,7 +9198,6 @@ curvacious
 corrupable
 charta
 chartable
-chartae
 charter
 chartered
 compensations
@@ -27044,6 +27043,7 @@ counterparry
 counterpart
 counterpassant
 counterpendent
+chartae
 circumventer
 counterpetition
 counterphobic
