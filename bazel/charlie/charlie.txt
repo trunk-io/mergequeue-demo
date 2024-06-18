@@ -1430,6 +1430,7 @@ cheapener
 calyptratae
 calyptriform
 calyptrimorphous
+coracoscapular
 calyptrogyne
 carnosin
 cervicodorsal
@@ -24937,7 +24938,6 @@ crepitation
 coracoradialis
 cardecu
 comous
-coracoscapular
 counterprotest
 coracosteon
 civilizing
