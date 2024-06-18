@@ -2412,7 +2412,6 @@ frankalmoigne
 fingernail
 ferigee
 fishbone
-filch
 flicky
 fizzling
 fondlers
@@ -9711,6 +9710,7 @@ freightliner
 femoral
 functorial
 fog
+filch
 frappes
 fallacies
 fluidal
