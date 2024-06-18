@@ -1213,7 +1213,6 @@ asseverated
 autogravure
 amidst
 acanthodes
-acanthodian
 acanthodidae
 acanthodini
 acanthology
@@ -5491,6 +5490,7 @@ aftercoming
 aftercooler
 aftercost
 aftercrop
+acanthodian
 aftercure
 afterdays
 afterdate
