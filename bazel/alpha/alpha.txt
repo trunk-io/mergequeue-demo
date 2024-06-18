@@ -3824,7 +3824,6 @@ anschauung
 articulary
 adipomata
 applauded
-adipometer
 axial
 adipopexia
 adipopexic
@@ -20961,6 +20960,7 @@ amytal
 ascaridae
 ascarides
 allactite
+adipometer
 altaic
 arter
 achterveld
