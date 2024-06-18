@@ -6335,6 +6335,7 @@ embowed
 encirclement
 enrut
 euclidean
+eugeosyncline
 escharine
 ens
 emmenagogue
@@ -13940,7 +13941,6 @@ epitomator
 electrolytical
 epistomata
 entoire
-eugeosyncline
 extraparental
 extraparliamentary
 endokaryogamy
