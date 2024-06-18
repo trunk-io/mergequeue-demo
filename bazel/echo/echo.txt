@@ -2028,7 +2028,6 @@ evictees
 emulsic
 eradiculose
 elabrate
-elaborating
 elaboration
 elaboratively
 endocrinotherapy
@@ -10845,6 +10844,7 @@ eraser
 eumycete
 epsilon
 enclog
+elaborating
 euskera
 eumoirous
 esterases
