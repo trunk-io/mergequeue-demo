@@ -3109,7 +3109,6 @@ bloodcurdler
 baseborn
 birdlime
 basebred
-bacterins
 baryes
 brawnier
 baseburner
@@ -12900,6 +12899,7 @@ boomslang
 boomslange
 bequote
 balers
+bacterins
 birkies
 baresarks
 borrelomycetaceae
