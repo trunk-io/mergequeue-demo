@@ -12227,7 +12227,6 @@ anciency
 anciennete
 anciens
 ancientest
-ancienty
 anciently
 ancientness
 ancile
@@ -24538,6 +24537,7 @@ auxochrome
 antistimulation
 auxochromism
 auxochromous
+ancienty
 acumens
 auxograph
 auxology
