@@ -2495,7 +2495,6 @@ gemote
 gems
 genouillere
 glassing
-galumphing
 gowns
 gemsbuck
 geodes
@@ -3163,6 +3162,7 @@ gurgles
 georgics
 gallification
 gnast
+galumphing
 geoscience
 gangsters
 geoscientists
