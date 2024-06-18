@@ -1060,7 +1060,6 @@ gayness
 groan
 geriatrics
 grabbots
-gaolbird
 gossamer
 gazer
 gerardias
@@ -5970,6 +5969,7 @@ glucosaemia
 glucinium
 glucosone
 gallivorous
+gaolbird
 galliardly
 gametal
 galactophorous
