@@ -2116,7 +2116,6 @@ gawkish
 gipsied
 gawm
 gatewise
-glavering
 gooiest
 galena
 gateways
@@ -9129,6 +9128,7 @@ grypotherium
 gridlock
 griege
 greenstick
+glavering
 goatees
 glaucomas
 gastrodiaphanoscopy
