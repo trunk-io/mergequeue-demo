@@ -5390,6 +5390,7 @@ benchboard
 begray
 barodynamic
 boodie
+burly
 begrave
 birne
 begrett
@@ -12692,7 +12693,6 @@ bagels
 baguets
 beleaguerment
 bronteana
-burly
 brasero
 basinlike
 bonxie
