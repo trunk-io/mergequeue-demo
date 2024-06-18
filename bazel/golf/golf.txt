@@ -2656,7 +2656,6 @@ galleriies
 gonocalyx
 guinea
 genethlialogic
-genethlialogical
 goodness
 galores
 graal
@@ -8796,6 +8795,7 @@ greyflies
 glyoxilin
 ganglioside
 greyiaceae
+genethlialogical
 geotectonically
 gneisses
 gaullism
