@@ -583,7 +583,6 @@ gambet
 gowan
 graptolitic
 glycoprotein
-gimpy
 gallicize
 gladding
 gallicizer
@@ -10564,6 +10563,7 @@ grilling
 glockenspiels
 gausses
 guillemot
+gimpy
 grandmaster
 gunline
 gladnesses
