@@ -5508,7 +5508,6 @@ fratriage
 flyback
 flancards
 flyball
-fantasticate
 flatworm
 fluctuant
 flibbertigibbety
@@ -7388,6 +7387,7 @@ fileable
 flittern
 firstship
 forcibility
+fantasticate
 forcibleness
 filosa
 fractocumulus
