@@ -11174,6 +11174,7 @@ blocks
 badon
 balmiest
 bedawn
+bathyal
 blockship
 blodite
 boeotian
@@ -14354,7 +14355,6 @@ brahmanism
 brahmanist
 brahmanistic
 brahmanize
-bathyal
 benched
 brahmapootra
 borehole
