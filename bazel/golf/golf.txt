@@ -4800,7 +4800,6 @@ gecks
 geochemically
 garshuni
 gytling
-givenness
 gitonin
 graphitizable
 gratinate
@@ -9239,6 +9238,7 @@ goofily
 gonidiophore
 gallstone
 gadaba
+givenness
 genialness
 glossophorous
 graduale
