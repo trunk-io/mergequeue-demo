@@ -526,7 +526,6 @@ dalmatic
 defalcator
 dalt
 dalton
-daltonian
 denomination
 dama
 damageability
@@ -10363,6 +10362,7 @@ dioptases
 demurrers
 ditton
 diopter
+daltonian
 diopters
 delf
 darya
