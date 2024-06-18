@@ -11052,7 +11052,6 @@ chiropractor
 chiropraxis
 contraposita
 chiroptera
-chiropteran
 chiropterygian
 chiropterygious
 cytocentrum
@@ -15850,6 +15849,7 @@ claviculate
 chrysohermidin
 chirotype
 chrysograph
+chiropteran
 claviculus
 clavierist
 claviger
