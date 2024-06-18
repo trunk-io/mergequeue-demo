@@ -2327,7 +2327,6 @@ furner
 foots
 flattops
 fenzelia
-flagboat
 feod
 firestopping
 filander
@@ -5026,6 +5025,7 @@ fuligo
 fumettes
 faultfully
 footbeat
+flagboat
 fructus
 flareback
 foramens
