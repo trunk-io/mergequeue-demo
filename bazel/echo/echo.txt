@@ -8675,7 +8675,6 @@ embouchures
 eyeshots
 equielliptical
 equigranular
-equilater
 enthroned
 equilateral
 equilaterally
@@ -11367,6 +11366,7 @@ even
 extrametaphysical
 evener
 entortill
+equilater
 ecoclimate
 equivalencing
 equiparate
