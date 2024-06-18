@@ -6662,7 +6662,6 @@ ceded
 cedens
 ceders
 cedes
-cunye
 cottiers
 cedilla
 cedillas
@@ -23068,6 +23067,7 @@ consolatorily
 consolatrix
 console
 crossfire
+cunye
 cuneonavicular
 chambermaids
 copist
