@@ -2074,6 +2074,7 @@ affiliation
 acolhuan
 altitudinal
 acheiria
+antidromic
 achenes
 alphabets
 argon
@@ -10571,7 +10572,6 @@ amygdaliferous
 amygdalin
 antiderivative
 amygdalinic
-antidromic
 amygdaloid
 autoerotism
 aftershine
