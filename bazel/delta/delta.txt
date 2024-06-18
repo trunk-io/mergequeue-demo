@@ -1584,7 +1584,6 @@ deadlight
 deadlily
 dramatizes
 demand
-deadliness
 diplomata
 demanders
 determinatively
@@ -6907,6 +6906,7 @@ definition
 disfranchisers
 donataries
 desmine
+deadliness
 desmitis
 degenerates
 dendrograph
