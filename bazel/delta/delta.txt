@@ -4720,7 +4720,6 @@ demirobe
 demonastery
 donn
 dungyard
-dol
 depose
 dinic
 demisang
@@ -18440,6 +18439,7 @@ danner
 duality
 duplicitously
 duplify
+dol
 duplification
 diadematoida
 duplified
