@@ -2007,6 +2007,7 @@ gams
 gaurian
 gaurie
 gaurs
+gester
 gimbri
 gaussage
 gaussbergite
@@ -7124,7 +7125,6 @@ gorb
 gorbelly
 grievedly
 glutter
-gester
 gyttja
 gleeishly
 gremio
