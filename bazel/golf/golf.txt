@@ -2918,7 +2918,6 @@ golkakra
 gynaeceum
 groggier
 greekery
-gnawable
 gypsy
 gudes
 geo
@@ -7161,6 +7160,7 @@ gubernaculum
 gorgia
 gorglin
 grabbers
+gnawable
 graynesses
 gloryful
 glycan
