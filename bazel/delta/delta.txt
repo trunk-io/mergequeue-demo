@@ -15639,6 +15639,7 @@ dooring
 doorknob
 doorknobs
 doorless
+destinate
 doormaid
 doormaker
 doormats
@@ -15973,7 +15974,6 @@ desuete
 dissonancies
 dotiest
 doting
-destinate
 dotingness
 duscle
 decolourisation
