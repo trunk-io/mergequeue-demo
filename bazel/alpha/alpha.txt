@@ -17451,6 +17451,7 @@ aposteme
 aposteriori
 aposthia
 apostil
+arithmometer
 apostille
 argos
 apheliotropically
@@ -19845,7 +19846,6 @@ arithmograph
 arithmography
 azulejos
 arithmomancy
-arithmometer
 arivaipa
 amphoral
 arizonian
