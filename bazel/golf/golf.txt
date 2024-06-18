@@ -3373,7 +3373,6 @@ grisaille
 goosery
 gaslighting
 geniohyoglossus
-glochidium
 gaudsman
 goss
 germon
@@ -10177,6 +10176,7 @@ guidable
 guardianly
 git
 grown
+glochidium
 gelid
 gallnuts
 guide
