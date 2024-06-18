@@ -5359,7 +5359,6 @@ encoring
 endosteomata
 endosteum
 exploitative
-enrobement
 equipments
 excarnate
 ephebes
@@ -9436,6 +9435,7 @@ empoison
 ectomorphic
 exolution
 emotionally
+enrobement
 effecter
 enveigle
 educable
