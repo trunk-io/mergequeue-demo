@@ -2838,7 +2838,6 @@ gismos
 gunsman
 gomasta
 gyrovagi
-gilling
 geebung
 grandisonous
 grigris
@@ -10810,6 +10809,7 @@ ganglioneuron
 gibli
 guttiform
 guttlers
+gilling
 gainly
 guttulate
 glibbery
