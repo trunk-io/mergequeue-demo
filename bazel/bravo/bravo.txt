@@ -1606,7 +1606,6 @@ beheadlined
 ballywack
 basalt
 boldface
-briefer
 bursati
 ballo
 bursitises
@@ -7618,6 +7617,7 @@ bevomited
 besmoothing
 bonitoes
 bevomiting
+briefer
 bevomits
 bevor
 bevvy
