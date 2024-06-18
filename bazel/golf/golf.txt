@@ -7150,6 +7150,7 @@ gearboxes
 gored
 gores
 gingerbready
+gimmick
 gorfly
 gastrotaxis
 geyserine
@@ -9644,7 +9645,6 @@ guestmaster
 greenly
 gorsiest
 gowfer
-gimmick
 gastrelcosis
 gerardia
 grudgefulness
