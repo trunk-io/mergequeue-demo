@@ -2897,7 +2897,6 @@ chrysoidine
 cantatas
 cantate
 cantation
-cantatory
 cantatrice
 chestily
 cantboard
@@ -28056,6 +28055,7 @@ colossi
 craik
 crain
 cinnamoyl
+cantatory
 crayon
 crayoning
 crayonist
