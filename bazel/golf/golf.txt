@@ -9298,6 +9298,7 @@ gorillaship
 goatskin
 gaussian
 gradines
+geronomite
 governability
 gruf
 gorges
@@ -10555,7 +10556,6 @@ glyceraldehyde
 gona
 gunk
 gunkholed
-geronomite
 grateman
 grilling
 glockenspiels
