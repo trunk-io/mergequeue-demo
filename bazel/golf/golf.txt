@@ -897,7 +897,6 @@ gamesome
 gallowsward
 gallberries
 gainturn
-gumtrees
 guily
 goffer
 ghatti
@@ -9610,6 +9609,7 @@ grownups
 geoglossum
 geests
 grows
+gumtrees
 grizzlier
 gianthood
 geneva
