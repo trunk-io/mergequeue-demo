@@ -3528,7 +3528,6 @@ embarras
 escorted
 enured
 emboites
-emboldener
 equilibrize
 embole
 embolectomy
@@ -12828,6 +12827,7 @@ epicranium
 exotericism
 extenuated
 energised
+emboldener
 embossmen
 ephesine
 eradicate
