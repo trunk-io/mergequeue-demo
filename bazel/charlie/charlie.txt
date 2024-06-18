@@ -8726,7 +8726,6 @@ cohesionless
 changelessness
 changeling
 changelings
-changemaker
 changement
 changeover
 changeovers
@@ -15938,6 +15937,7 @@ clearish
 clearly
 calculative
 clearminded
+changemaker
 clearness
 clears
 clearsighted
