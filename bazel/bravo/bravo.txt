@@ -1608,7 +1608,6 @@ boldface
 briefer
 bursati
 ballo
-brakier
 bursitises
 ballock
 banneret
@@ -18332,6 +18331,7 @@ buttonwood
 brachiation
 baragouin
 buttress
+brakier
 buttressed
 breviped
 buttresslike
