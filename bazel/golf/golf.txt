@@ -3936,7 +3936,6 @@ genetical
 geoduck
 gyroceras
 girdlestead
-graylag
 gleeting
 garrisons
 glittered
@@ -6051,6 +6050,7 @@ garrisonian
 gastrohydrorrhea
 glassmen
 glutamate
+graylag
 geodesics
 gazogenes
 galactopathy
