@@ -5021,6 +5021,7 @@ enders
 expelled
 evenworthy
 endgate
+emplane
 enfief
 eumitotic
 endhand
@@ -9269,7 +9270,6 @@ eusuchia
 excites
 erythrulose
 erosiveness
-emplane
 erotema
 electrofuse
 eroteme
