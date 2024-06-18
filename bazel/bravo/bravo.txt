@@ -440,6 +440,7 @@ backrush
 backscatter
 backscattered
 backscattering
+bandobust
 backscraper
 backset
 brinjaree
@@ -1922,7 +1923,6 @@ bandlimits
 bostangi
 bandmaster
 bando
-bandobust
 bodiced
 bubonalgia
 bandog
