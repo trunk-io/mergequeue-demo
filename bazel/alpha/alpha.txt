@@ -4518,7 +4518,6 @@ adverbially
 adverbiation
 adverbs
 adversa
-adversant
 adversatively
 ambushed
 attomy
@@ -25150,6 +25149,7 @@ axiomatization
 aprioristic
 angiomyoma
 antiduke
+adversant
 axiomatized
 axiomatizes
 axiomatizing
