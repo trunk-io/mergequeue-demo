@@ -1659,7 +1659,6 @@ devotional
 daunter
 deallocating
 deresinize
-deallocation
 deallocations
 deprival
 decapsulation
@@ -15885,6 +15884,7 @@ defecated
 daft
 donatiaceae
 diabolo
+deallocation
 demonesses
 dorsumbonal
 dossiers
