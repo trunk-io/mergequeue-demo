@@ -2755,7 +2755,6 @@ foldouts
 foresentence
 fragmentarily
 fellinic
-federator
 fesses
 flaunche
 facetiation
@@ -9969,6 +9968,7 @@ frieseite
 furze
 friesian
 frightening
+federator
 friezed
 farrow
 fleshhook
