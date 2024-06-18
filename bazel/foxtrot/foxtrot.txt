@@ -6835,7 +6835,6 @@ foliary
 feeblemindedly
 falcata
 foliate
-foliated
 foliates
 foliation
 flammably
@@ -10102,6 +10101,7 @@ feudality
 frisettes
 fiercly
 fiddlehead
+foliated
 footnotes
 fafnir
 fishwife
