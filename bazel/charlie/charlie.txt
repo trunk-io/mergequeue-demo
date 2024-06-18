@@ -5179,7 +5179,6 @@ caseose
 caseous
 caserios
 clifford
-cowpunch
 chronal
 caserne
 casernes
@@ -8456,6 +8455,7 @@ chalons
 chalot
 chaloth
 chaloupe
+cowpunch
 chaluka
 chalumeau
 capercailye
