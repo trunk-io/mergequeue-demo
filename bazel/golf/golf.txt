@@ -2134,6 +2134,7 @@ ganodus
 guarabu
 gazebo
 gazeboes
+gaming
 glabella
 gazebos
 gyros
@@ -6595,7 +6596,6 @@ grazing
 gallop
 gies
 gaulin
-gaming
 goaltending
 groundage
 gemauve
