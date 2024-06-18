@@ -3938,7 +3938,6 @@ contributed
 carburiser
 carburization
 casemated
-carburize
 carburizer
 carburizes
 caecilian
@@ -18239,6 +18238,7 @@ cutset
 coesites
 coessential
 conversional
+carburize
 coglorious
 commencements
 circumesophagal
