@@ -3610,6 +3610,7 @@ bathmat
 bathmats
 broodsac
 bereaven
+basion
 bollard
 bathmism
 bathochromatism
@@ -15305,7 +15306,6 @@ blackpot
 bumbarge
 bridleless
 bridlers
-basion
 boredom
 ballerine
 bridoons
