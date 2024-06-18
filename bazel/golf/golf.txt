@@ -2514,7 +2514,6 @@ goral
 geoisotherm
 grief
 glandules
-gabbing
 goofy
 grassing
 gena
@@ -10650,6 +10649,7 @@ guppy
 guppies
 grysbok
 gur
+gabbing
 gurdle
 gurged
 germanyl
