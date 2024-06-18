@@ -1993,7 +1993,6 @@ boogiewoogie
 baylet
 baneberry
 benzoflavine
-banewort
 briared
 banga
 bangalow
@@ -6485,6 +6484,7 @@ benzophthalazine
 baselines
 benzopyran
 breakup
+banewort
 benzopyrazolone
 benzopyrene
 benzopyrylium
