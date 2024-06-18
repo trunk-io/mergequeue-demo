@@ -2870,7 +2870,6 @@ gossampine
 geraniales
 graduate
 gentlemouthed
-gymnosporangium
 glassite
 gentler
 gentles
@@ -8777,6 +8776,7 @@ germain
 gastroschisis
 grieve
 galleys
+gymnosporangium
 gentianaceous
 globate
 gaffle
