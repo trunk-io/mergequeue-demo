@@ -4601,7 +4601,6 @@ groundplot
 grademark
 girder
 generalate
-gradal
 governorate
 gratae
 goosebill
@@ -5678,6 +5677,7 @@ globulite
 globus
 grossular
 goldseed
+gradal
 gallinules
 grind
 glochid
