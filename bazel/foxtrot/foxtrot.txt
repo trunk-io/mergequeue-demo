@@ -4848,7 +4848,6 @@ followable
 fulgora
 flails
 furoic
-fitments
 futile
 flair
 fady
@@ -10647,6 +10646,7 @@ fruitester
 fruitfuller
 foible
 footwears
+fitments
 forenamed
 fruitgrower
 foodstuffs
