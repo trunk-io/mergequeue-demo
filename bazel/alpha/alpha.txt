@@ -3860,7 +3860,6 @@ adjacencies
 archicleistogamy
 adjectional
 anastatica
-antielectron
 autoactivation
 adjective
 adjectives
@@ -11545,6 +11544,7 @@ after
 anility
 anacamptics
 anacanthine
+antielectron
 anacanthini
 anacanthous
 anacard
