@@ -5838,7 +5838,6 @@ categorist
 cleaves
 categorization
 coryzal
-categorize
 corona
 categorized
 categorizer
@@ -9314,6 +9313,7 @@ cooper
 chasubles
 cave
 chat
+categorize
 chataka
 chatchka
 chatchkas
