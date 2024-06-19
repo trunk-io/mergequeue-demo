@@ -2529,6 +2529,7 @@ deckle
 depletable
 dulls
 diatropism
+dishonourary
 declaim
 dichorisandra
 dresser
@@ -12444,7 +12445,6 @@ detestability
 dittoing
 disciplined
 dishonors
-dishonourary
 decerned
 dolently
 dishorn
