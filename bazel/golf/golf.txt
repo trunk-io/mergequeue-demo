@@ -5009,7 +5009,6 @@ glaives
 get
 grulla
 guttar
-graminivore
 glali
 galangal
 grangerizing
@@ -10268,6 +10267,7 @@ greyish
 guillotinist
 gonophorous
 gastroptosis
+graminivore
 guiltsick
 guimbard
 guinde
