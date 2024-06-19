@@ -3562,6 +3562,7 @@ deformability
 droughermen
 disknow
 distomum
+demographical
 delvers
 deformable
 detecting
@@ -15074,7 +15075,6 @@ doghead
 doghood
 doghouse
 doghouses
-demographical
 dogie
 dogleg
 doglegging
