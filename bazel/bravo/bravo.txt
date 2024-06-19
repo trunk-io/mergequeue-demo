@@ -3312,7 +3312,6 @@ bookwork
 basipetal
 basommatophora
 burdie
-basiphobia
 basipodite
 basipterygium
 battle
@@ -3391,6 +3390,7 @@ basques
 bass
 bassa
 balaenicipites
+basiphobia
 branchiopulmonate
 bassalia
 bootable
