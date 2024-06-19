@@ -2751,6 +2751,7 @@ foggish
 fixes
 fyrd
 fightings
+fantasque
 forelimbs
 folklore
 fesse
@@ -4250,7 +4251,6 @@ flowerpecker
 flail
 fireward
 forehead
-fantasque
 firewater
 fictionisation
 factable
