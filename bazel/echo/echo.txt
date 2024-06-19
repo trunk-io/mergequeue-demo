@@ -2335,6 +2335,7 @@ exundation
 electroanalytic
 embassade
 electroanesthesia
+emulsification
 eavesdrop
 entrapper
 electroballistics
@@ -7784,7 +7785,6 @@ epidemicalness
 epidemiography
 ejulation
 elytroplastic
-emulsification
 epeirogeny
 equilibration
 erosional
