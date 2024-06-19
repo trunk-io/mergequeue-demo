@@ -2361,7 +2361,6 @@ griffinish
 goodnesses
 gibbartas
 galopin
-grisly
 geldesprung
 geldings
 gorgets
@@ -9169,6 +9168,7 @@ gametogeny
 garblers
 grisons
 gariba
+grisly
 grist
 grummel
 grister
