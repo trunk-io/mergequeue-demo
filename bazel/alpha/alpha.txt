@@ -4981,7 +4981,6 @@ amphisbaenid
 auriculate
 admissibleness
 aeropathy
-aeropause
 aerope
 aeroperitoneum
 appendages
@@ -22096,6 +22095,7 @@ asteroxylaceae
 asterozoa
 ancestries
 antistat
+aeropause
 armpit
 asthamatic
 astheny
