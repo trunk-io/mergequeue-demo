@@ -112,7 +112,6 @@ generals
 geezer
 gadman
 gujerat
-gadoids
 gemutlichkeit
 glairier
 ganguela
@@ -1751,6 +1750,7 @@ gulf
 governail
 gangwayman
 glossoscopy
+gadoids
 gastronephritis
 glibber
 gynocracy
