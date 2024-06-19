@@ -2465,7 +2465,6 @@ biwa
 bare
 bareback
 butterwort
-bareboat
 bareboats
 bummalo
 barrener
@@ -15555,6 +15554,7 @@ brisking
 bescurf
 bagleaves
 bemired
+bareboat
 briss
 brist
 bristlebird
