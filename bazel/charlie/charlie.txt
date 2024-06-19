@@ -7897,6 +7897,7 @@ cervicispinal
 cervicitis
 cervicoauricular
 chippable
+cytochalasin
 cervicobasilar
 cervicobregmatic
 cobitis
@@ -14933,7 +14934,6 @@ cytoblastemal
 caseless
 cytoblastemic
 cytoblastemous
-cytochalasin
 cytochemistry
 chameleons
 cytochylema
