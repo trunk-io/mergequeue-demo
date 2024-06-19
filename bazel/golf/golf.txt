@@ -785,7 +785,6 @@ groupings
 gladsomer
 gustiness
 gawkily
-galvanoscopic
 graywether
 galvanosurgery
 gooseherd
@@ -3126,6 +3125,7 @@ gliff
 garo
 geophilid
 geophilidae
+galvanoscopic
 groined
 glossotomies
 gracer
