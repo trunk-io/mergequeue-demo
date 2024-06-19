@@ -4916,7 +4916,6 @@ congregants
 carrotins
 carrotweed
 canonization
-cheshire
 clomben
 carrotwood
 carrousel
@@ -15684,6 +15683,7 @@ chromophoric
 classicism
 classicist
 classicists
+cheshire
 creatureliness
 confoundedly
 chabasie
