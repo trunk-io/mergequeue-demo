@@ -1450,7 +1450,6 @@ fattrels
 fother
 foreweep
 freewheel
-fluoroscopic
 fatuism
 fatuity
 filasse
@@ -6779,6 +6778,7 @@ founding
 fold
 fleechment
 forcet
+fluoroscopic
 foldage
 foldaway
 feretory
