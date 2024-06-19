@@ -1500,7 +1500,6 @@ dbrn
 dc
 dcb
 dcollet
-dea
 depressure
 darknesses
 deaccessioning
@@ -15987,6 +15986,7 @@ dichromic
 dotish
 dune
 distributival
+dea
 derivably
 dispersiveness
 dasein
