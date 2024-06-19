@@ -13,7 +13,6 @@ flagellators
 fabled
 fablemaker
 fremituses
-fablemongering
 fuder
 foveolas
 fabler
@@ -1765,6 +1764,7 @@ forsterite
 farsalah
 forlorn
 foundery
+fablemongering
 fetid
 featherless
 fackings
