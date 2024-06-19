@@ -13363,6 +13363,7 @@ cyclo
 coulometric
 crossrail
 cycloaliphatic
+capricorn
 cycloalkane
 cyclobothra
 cyclobutane
@@ -15554,7 +15555,6 @@ claret
 cervantes
 cheerio
 claretian
-capricorn
 clarets
 coppas
 clary
