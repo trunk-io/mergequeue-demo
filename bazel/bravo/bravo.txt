@@ -3931,7 +3931,6 @@ baxtone
 bazar
 bazars
 bint
-baze
 bazoo
 bazooka
 benote
@@ -7458,6 +7457,7 @@ byproduct
 botrycymose
 belabor
 birdbath
+baze
 betoyan
 betoken
 busyworks
