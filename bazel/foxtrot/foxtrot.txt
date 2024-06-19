@@ -7059,7 +7059,6 @@ floodwater
 fedayeen
 fraterniser
 foolish
-fortuneless
 fleabane
 fluorochrome
 fibreboard
@@ -7144,6 +7143,7 @@ fiendism
 foothot
 fa
 frittata
+fortuneless
 fedn
 flippantness
 fashionist
