@@ -1039,6 +1039,7 @@ edaphon
 edaphosauria
 edaphosaurid
 exorbital
+explainability
 edaphosaurus
 explosibility
 euthanasic
@@ -10090,7 +10091,6 @@ etape
 escopette
 etapes
 endangers
-explainability
 electropism
 esmeraldite
 etched

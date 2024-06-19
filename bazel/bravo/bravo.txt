@@ -5232,7 +5232,6 @@ bram
 befuddlement
 befuddler
 banner
-bromite
 boxberries
 befuddling
 beautyship
@@ -6575,6 +6574,7 @@ braconidae
 brawled
 biokinetics
 boson
+bromite
 bartramiaceae
 bequeaths
 buckeyes
