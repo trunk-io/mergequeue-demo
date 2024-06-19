@@ -2360,7 +2360,6 @@ electroplates
 epiphenomenal
 ellipsis
 ecumenical
-eutectic
 emulsifying
 egba
 episteme
@@ -10946,6 +10945,7 @@ edea
 empair
 encamped
 enslaved
+eutectic
 euphonetics
 emphractic
 electrothanasia
