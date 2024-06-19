@@ -9483,7 +9483,6 @@ destructively
 digamma
 demilegato
 digammas
-digammate
 downfeed
 digammated
 dojos
@@ -10584,6 +10583,7 @@ diatomean
 decolourize
 diplococcemia
 disleaf
+digammate
 discoblastula
 deonerate
 diplocoria
