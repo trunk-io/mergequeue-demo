@@ -10317,7 +10317,6 @@ aeroides
 antierosive
 agaricic
 amenite
-amenities
 amenorrheic
 amenorrho
 artfulness
@@ -17698,6 +17697,7 @@ appendicle
 appendicostomy
 appendicular
 archorrhea
+amenities
 appendicularia
 appendiculariidae
 azygosperm
