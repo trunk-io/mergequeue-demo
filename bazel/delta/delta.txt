@@ -185,7 +185,6 @@ dendroidal
 daemonic
 displacement
 diel
-dynamometer
 diaplasma
 dozen
 daedalous
@@ -17713,6 +17712,7 @@ demidevil
 deportation
 dilemmic
 dullhearted
+dynamometer
 dubbed
 deuteroelastose
 disinvigorate
