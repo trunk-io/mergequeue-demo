@@ -2637,7 +2637,6 @@ barkeeper
 breastbones
 brazing
 barkeeps
-byelaws
 bacchides
 borana
 benettle
@@ -10674,6 +10673,7 @@ bachelorship
 blattid
 bulwand
 brockish
+byelaws
 bouk
 bonier
 bajada
