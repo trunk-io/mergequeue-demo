@@ -3365,7 +3365,6 @@ goss
 germon
 ghostcraft
 germproof
-gunbarrel
 germs
 griseous
 glideness
@@ -9597,6 +9596,7 @@ gravimeters
 growliest
 gnathobdellida
 glibbest
+gunbarrel
 grimmiaceous
 gardener
 gemses
