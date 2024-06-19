@@ -8398,6 +8398,7 @@ formalities
 formalizable
 formalizations
 fictitiously
+felonsetter
 formalized
 formalizer
 formalness
@@ -9855,7 +9856,6 @@ fevertwitch
 friar
 fungo
 fremitus
-felonsetter
 fisherboy
 friary
 forjudges
