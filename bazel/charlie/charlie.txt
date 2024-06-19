@@ -3957,7 +3957,6 @@ carcajous
 carcake
 carcanet
 codger
-carcanets
 carcanetted
 carcases
 crueler
@@ -8178,6 +8177,7 @@ chafferers
 coexert
 curbed
 chaffery
+carcanets
 costarring
 carryalls
 chaffinch
