@@ -4765,6 +4765,7 @@ fasinite
 flageolets
 fencelet
 flagfishes
+flowcontrol
 forbiddenness
 figurately
 forgiver
@@ -10109,7 +10110,6 @@ footnotes
 fafnir
 fishwife
 fetalism
-flowcontrol
 fathearted
 frisker
 filemaking
