@@ -12338,7 +12338,6 @@ chromonemic
 chrysophlyctis
 chrysopid
 chrysopidae
-chrysopoeia
 chrysoprase
 chrysoprasus
 counteradvice
@@ -24932,6 +24931,7 @@ capilliform
 coracomorph
 curbash
 coracomorphae
+chrysopoeia
 coracopectoral
 conjunctly
 coracoprocoracoid
