@@ -3233,7 +3233,6 @@ capitalizing
 capitalness
 capitals
 capitan
-curvedness
 capitana
 capitasti
 capitated
@@ -21081,6 +21080,7 @@ cypsela
 compunct
 compunction
 cressed
+curvedness
 catenaries
 consolidate
 compunctionless
