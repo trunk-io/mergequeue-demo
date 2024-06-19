@@ -529,7 +529,6 @@ dama
 damageability
 disodic
 damageably
-dogstone
 detonatable
 damaged
 detort
@@ -15681,6 +15680,7 @@ doper
 dopy
 dopier
 dragomen
+dogstone
 dopiness
 dartrose
 doric
