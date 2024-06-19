@@ -4352,7 +4352,6 @@ carcinology
 caricatura
 caricatural
 caricature
-caricatured
 chud
 caricaturing
 caricaturist
@@ -9215,6 +9214,7 @@ charthouse
 cindered
 chartist
 chartless
+caricatured
 chartography
 chartographic
 crystalline
