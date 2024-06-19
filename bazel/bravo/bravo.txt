@@ -780,7 +780,6 @@ bat
 badman
 badmen
 brushcut
-besodden
 badmouthed
 badmouthing
 badmouths
@@ -6353,6 +6352,7 @@ benu
 benumbed
 benumbingly
 benumbs
+besodden
 benward
 baulk
 brigalow
