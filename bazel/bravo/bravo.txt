@@ -10171,6 +10171,7 @@ blabbing
 blabmouth
 braziers
 bott
+behave
 blackamoors
 blackbine
 boycotts
@@ -11482,7 +11483,6 @@ boatheader
 burros
 bluenoses
 bluepoint
-behave
 bluepoints
 blueprint
 biophotometer
