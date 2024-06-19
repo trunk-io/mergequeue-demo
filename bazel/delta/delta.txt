@@ -5769,6 +5769,7 @@ demigods
 desterilized
 disposit
 deplenish
+dialup
 depleteable
 ducape
 depleted
@@ -13707,7 +13708,6 @@ dissymmetric
 degender
 dissymmetrical
 dampy
-dialup
 devises
 dynamis
 disturbances
