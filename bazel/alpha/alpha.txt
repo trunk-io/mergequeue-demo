@@ -8527,6 +8527,7 @@ alkanets
 albertina
 amebocyte
 autophyllogeny
+amphoriskoi
 alkanol
 alkaphrah
 arent
@@ -11317,7 +11318,6 @@ abaff
 amphora
 amphorae
 amphore
-amphoriskoi
 alarming
 amphoteric
 aircrewman
