@@ -1456,7 +1456,6 @@ bedye
 brankier
 bight
 balibago
-balibuntal
 balibuntl
 bemeaned
 beakier
@@ -4092,6 +4091,7 @@ beamingly
 beamish
 bamboozle
 bottlefuls
+balibuntal
 beamman
 beamroom
 baragnosis
