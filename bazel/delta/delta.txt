@@ -16883,6 +16883,7 @@ drawtube
 decanically
 deaired
 drazel
+dicyclic
 diiambus
 dread
 degum
@@ -17872,7 +17873,6 @@ diagnosis
 drabbletailed
 duecentist
 derbies
-dicyclic
 debutante
 dueled
 deathday
