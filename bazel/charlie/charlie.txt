@@ -23098,7 +23098,6 @@ coimplicate
 consomme
 consommes
 consonance
-consonances
 consonancy
 consonant
 consonantal
@@ -30810,6 +30809,7 @@ cullionly
 cullionry
 cullisance
 cannibalish
+consonances
 cullises
 cartop
 culls
