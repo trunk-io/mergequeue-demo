@@ -5199,7 +5199,6 @@ cashaws
 carida
 contek
 cashbooks
-cashbox
 caesural
 cambism
 cavendish
@@ -6907,6 +6906,7 @@ consultee
 celotomies
 clonks
 celsian
+cashbox
 celt
 celtiberi
 circularizers
