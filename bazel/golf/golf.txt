@@ -5808,6 +5808,7 @@ grave
 glossoepiglottic
 gulinulae
 girasols
+gyrolite
 goldsmithery
 glossohyal
 gaultherase
@@ -6345,7 +6346,6 @@ gid
 gobbles
 gobbling
 grappler
-gyrolite
 ginzoes
 grating
 geodic
