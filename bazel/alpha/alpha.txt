@@ -1961,7 +1961,6 @@ acetylizing
 acetylmethylcarbinol
 acetylperoxide
 acetylphenylhydrazine
-asg
 affinite
 acetylphenol
 agogic
@@ -6875,6 +6874,7 @@ apanages
 airmobile
 awry
 airn
+asg
 aloadae
 avowers
 airns
