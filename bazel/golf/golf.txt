@@ -1698,7 +1698,6 @@ gastrodermal
 gastrodermis
 gpd
 gyracanthus
-gnotobiote
 guayabo
 gastroduodenitis
 gynics
@@ -6764,6 +6763,7 @@ gaveller
 guanosine
 goniodoridae
 garvance
+gnotobiote
 goniodorididae
 granitized
 gagging
