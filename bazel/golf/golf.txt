@@ -5490,7 +5490,6 @@ guniter
 glyphic
 gambist
 guran
-gentilitial
 goury
 girlhood
 gauche
@@ -5807,6 +5806,7 @@ girasols
 gyrolite
 goldsmithery
 glossohyal
+gentilitial
 gaultherase
 gobos
 glossolalia
