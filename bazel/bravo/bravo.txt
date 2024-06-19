@@ -9363,7 +9363,6 @@ byplace
 balewort
 bracteiform
 byplay
-bedrite
 bottonhook
 bullfrogs
 brownie
@@ -13913,6 +13912,7 @@ bowyer
 bejape
 bowyers
 bilious
+bedrite
 bowing
 bowings
 bitentaculate
