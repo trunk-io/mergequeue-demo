@@ -6283,7 +6283,6 @@ flybelts
 furrings
 fluke
 fluked
-feridgi
 fluent
 flukeworm
 flukewort
@@ -9902,6 +9901,7 @@ fireboats
 fogeys
 fricative
 frizzly
+feridgi
 forefelt
 feverroot
 fluviomarine
