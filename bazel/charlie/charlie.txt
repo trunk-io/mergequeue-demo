@@ -881,7 +881,6 @@ cajoleries
 crimple
 cajoles
 cajoling
-cajolingly
 cajones
 cajun
 cajuput
@@ -15007,6 +15006,7 @@ cytoparaplastin
 cytopathic
 cosmine
 complected
+cajolingly
 cytopathogenic
 cytopathogenicity
 chimbley
