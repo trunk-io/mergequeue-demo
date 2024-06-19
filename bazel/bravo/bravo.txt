@@ -9290,6 +9290,7 @@ biotypology
 biotite
 baselard
 biotites
+bolometric
 bromcamphor
 bruja
 biotome
@@ -15339,7 +15340,6 @@ birthstone
 brigade
 brigaded
 bapistery
-bolometric
 blondine
 brigadier
 brachypterous
