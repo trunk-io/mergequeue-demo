@@ -4156,7 +4156,6 @@ beggars
 bowmaking
 bro
 beelbow
-bearded
 bradylexia
 brushproof
 beardfishes
@@ -13616,6 +13615,7 @@ baroco
 barra
 bismutosmaltite
 bobbysocks
+bearded
 bivane
 barrette
 boughy

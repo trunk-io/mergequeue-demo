@@ -9714,7 +9714,6 @@ alveololabial
 alentours
 achene
 albacea
-acropolises
 alveololingual
 alveolonasal
 alveolosubnasal
@@ -11206,6 +11205,7 @@ amphigenous
 aminating
 amphigenously
 ascorbate
+acropolises
 amphigony
 aerobacter
 amphigonic
