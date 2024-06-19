@@ -17907,7 +17907,6 @@ catchup
 codesigns
 codespairer
 codetermine
-codifiability
 codetta
 conditioned
 cabook
@@ -25263,6 +25262,7 @@ coachlet
 corymblike
 corymbose
 capitally
+codifiability
 cuffy
 creakingly
 chalastic
