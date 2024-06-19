@@ -6182,7 +6182,6 @@ enneahedral
 enneahedron
 eyepoints
 eustatic
-embedment
 ethnicize
 enneandrian
 etherealizing
@@ -10838,6 +10837,7 @@ eulogiums
 eulogization
 extort
 ephemeran
+embedment
 eternalness
 extramoralist
 embarkation
