@@ -20523,7 +20523,6 @@ aerophilatelic
 arteriometer
 arteriomotor
 arterionecrosis
-arteriopalmus
 antiasthmatic
 arterioplasty
 arteriorenal
@@ -22242,6 +22241,7 @@ alecize
 astream
 acylamidobenzene
 astrean
+arteriopalmus
 adamically
 antigrammatically
 astrictive
