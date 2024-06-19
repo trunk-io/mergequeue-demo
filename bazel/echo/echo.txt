@@ -1801,6 +1801,7 @@ embattle
 eyepoint
 eyereach
 eyeroot
+emule
 exhbn
 eutony
 eyes
@@ -4264,7 +4265,6 @@ emulations
 emulatory
 echograph
 epipoditic
-emule
 expiree
 escarping
 escambio
