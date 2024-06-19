@@ -11771,6 +11771,7 @@ binmen
 blet
 beboss
 bardolatry
+birthmate
 bobcoat
 bobeche
 bubas
@@ -12913,7 +12914,6 @@ boomtowns
 boon
 bugeye
 brumalia
-birthmate
 boondogglers
 brevifoliate
 bibliog
