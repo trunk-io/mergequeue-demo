@@ -1029,7 +1029,6 @@ calcanean
 calcaneoastragalar
 calcaneoastragaloid
 calcaneoplantar
-countershout
 countersale
 calcaneoscaphoid
 calcaneum
@@ -6242,6 +6241,7 @@ caudodorsal
 caudofemoral
 caudolateral
 centetidae
+countershout
 caudotibialis
 cabbalism
 caught
