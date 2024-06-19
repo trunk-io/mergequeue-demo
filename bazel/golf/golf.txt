@@ -2892,7 +2892,6 @@ garboards
 genuflecting
 gaberdine
 graduator
-graphicalness
 guildship
 gullish
 genuflects
@@ -4413,6 +4412,7 @@ ganged
 glowflies
 gharries
 ginglymostoma
+graphicalness
 gunky
 glassmaker
 guz
