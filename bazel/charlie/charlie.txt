@@ -12697,7 +12697,6 @@ chronomastix
 chronometer
 citolers
 chronometers
-corin
 chronometric
 chronometrical
 chronometrically
@@ -15878,6 +15877,7 @@ claws
 claxon
 claxons
 cleaded
+corin
 clinkstone
 chandelled
 cord
