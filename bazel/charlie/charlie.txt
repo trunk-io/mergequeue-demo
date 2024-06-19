@@ -3111,7 +3111,6 @@ craterid
 cape
 chequerboard
 capeadores
-caped
 capel
 capelan
 capelans
@@ -17604,6 +17603,7 @@ cocama
 cocamama
 cocao
 chairmen
+caped
 cocarde
 chomped
 cocash
