@@ -6474,7 +6474,6 @@ barfy
 benzonaphthol
 benzonitrile
 benzonitrol
-benzophenone
 behedge
 bitulithic
 benzophenothiazine
@@ -8374,6 +8373,7 @@ bifurcating
 bergschrund
 bekilted
 bifurcation
+benzophenone
 biga
 bivial
 bigae
