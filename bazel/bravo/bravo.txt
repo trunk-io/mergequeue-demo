@@ -8307,6 +8307,7 @@ byerlite
 backspliced
 bierstuben
 byestreet
+boone
 battailous
 best
 bluebuck
@@ -13726,7 +13727,6 @@ billboard
 brahmas
 bourasque
 bourbon
-boone
 bowerlike
 baseliner
 bourbonism
