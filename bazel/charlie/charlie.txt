@@ -8863,7 +8863,6 @@ chiasmi
 chapelward
 compile
 chaperno
-chaperon
 custodia
 chaperonage
 chaperone
@@ -19024,6 +19023,7 @@ collate
 collatee
 correspondentially
 collaterality
+chaperon
 collateralized
 coccolithophoridae
 collateralizing
