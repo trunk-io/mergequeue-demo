@@ -11187,6 +11187,7 @@ disbarring
 disbars
 disbase
 disbeliefs
+decrepity
 diarchic
 disbelieved
 dissensions
@@ -12381,7 +12382,6 @@ dichromaticism
 dicyclica
 deathweed
 dishcloth
-decrepity
 despairer
 dishcloths
 dupable
