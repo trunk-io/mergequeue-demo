@@ -4002,7 +4002,6 @@ beaching
 beachman
 buenas
 blinky
-beaconage
 berchta
 becrawl
 beaconless
@@ -9570,6 +9569,7 @@ beirut
 byronics
 batule
 brahmaness
+beaconage
 beslaver
 birostrated
 bemonster
