@@ -4476,6 +4476,7 @@ fissionable
 fissioned
 furzes
 fissipalmation
+feer
 forheed
 farming
 forcer
@@ -11332,7 +11333,6 @@ furciform
 fossane
 furculae
 fossilogist
-feer
 furfuraceous
 forgeability
 fuzzy
