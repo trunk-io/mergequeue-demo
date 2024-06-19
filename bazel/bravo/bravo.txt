@@ -11043,7 +11043,6 @@ blintzes
 bluming
 blacksmiths
 bafta
-barkeep
 billowy
 blips
 bliss
@@ -14874,6 +14873,7 @@ breakfast
 breakfasted
 breakfronts
 breaking
+barkeep
 breakings
 breaklist
 buttercup
