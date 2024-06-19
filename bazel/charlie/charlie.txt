@@ -7410,7 +7410,6 @@ cufflink
 cephalocercal
 cushlamochree
 cephalochord
-choreas
 cephalochorda
 cowmen
 cephalochordal
@@ -12673,6 +12672,7 @@ chronograph
 chronographer
 chronography
 closefitting
+choreas
 chronographic
 chronographically
 chronoisothermal
