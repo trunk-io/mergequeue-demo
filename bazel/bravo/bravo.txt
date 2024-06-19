@@ -9435,7 +9435,6 @@ birdbanding
 brazed
 birdbaths
 blethers
-birdbrains
 besogne
 buller
 bewrathed
@@ -10473,6 +10472,7 @@ ballist
 bravado
 bolted
 bibliomanian
+birdbrains
 beadsman
 blankety
 bragged
