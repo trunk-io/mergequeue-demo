@@ -12045,6 +12045,7 @@ choriamb
 choriambic
 chorometry
 choriambize
+coaggregated
 confarreate
 choriambus
 choric
@@ -17232,7 +17233,6 @@ countermount
 coagents
 coaggregate
 cacanthrax
-coaggregated
 coaggregation
 claviers
 coagitate
