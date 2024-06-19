@@ -7151,7 +7151,6 @@ centiles
 caudatum
 clunker
 centiliter
-centiliters
 chimed
 centillionth
 centiloquy
@@ -31012,6 +31011,7 @@ cummock
 cpm
 cohob
 cumol
+centiliters
 commonplaceness
 calescence
 cumquat
