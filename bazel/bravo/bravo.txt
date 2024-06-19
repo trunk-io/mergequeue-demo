@@ -2548,7 +2548,6 @@ bargeman
 begroans
 barger
 bardash
-barges
 bicycles
 borscht
 barghests
@@ -15874,6 +15873,7 @@ beduke
 bromargyrite
 bromeosin
 bromes
+barges
 brahminee
 berg
 blitzed
