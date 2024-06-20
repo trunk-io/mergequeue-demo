@@ -11914,7 +11914,6 @@ contradictories
 camber
 catechisms
 chopdar
-chophouse
 cyprinoidea
 cereus
 chopine
@@ -31689,6 +31688,7 @@ clomped
 cuspid
 cuspidal
 cuspidate
+chophouse
 cuspides
 chondromyxoma
 cesuras
