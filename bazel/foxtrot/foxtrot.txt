@@ -2245,7 +2245,6 @@ femme
 femora
 farmland
 fluidification
-femororotulian
 fen
 fenagled
 fatil
@@ -6842,6 +6841,7 @@ fraudulency
 foreporch
 fonnish
 frequent
+femororotulian
 fulhams
 folios
 foliose
