@@ -3292,7 +3292,6 @@ bench
 basins
 bisulfide
 bookkeeps
-brandenburgs
 bandaite
 babbler
 bloodiest
@@ -5985,6 +5984,7 @@ boreas
 barbecueing
 belowground
 bothropic
+brandenburgs
 broadpiece
 brontothere
 blueweeds
