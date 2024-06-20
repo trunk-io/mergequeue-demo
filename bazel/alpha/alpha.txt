@@ -5916,7 +5916,6 @@ agglutinate
 agglutinated
 agglutination
 arenaceous
-antiphonaries
 agglutinative
 aliseptal
 agglutinatively
@@ -25272,6 +25271,7 @@ azimide
 azimin
 afrikanderism
 azimino
+antiphonaries
 azymite
 azimuth
 azimuthal
