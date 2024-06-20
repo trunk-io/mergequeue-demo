@@ -9102,7 +9102,6 @@ exophthalmos
 erythema
 erythemal
 erythemas
-erythematous
 enfant
 eves
 enargite
@@ -11010,6 +11009,7 @@ epidermatic
 eupotamic
 equivocalness
 essenian
+erythematous
 embrittlement
 euproctis
 endophasia
