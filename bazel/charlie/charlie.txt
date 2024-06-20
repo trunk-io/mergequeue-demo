@@ -924,7 +924,6 @@ cyanometric
 canzo
 calaboose
 canelle
-calabooses
 calabrian
 calabrians
 calabur
@@ -3010,6 +3009,7 @@ countergager
 cantoral
 cantoria
 cardsharps
+calabooses
 crystallographic
 cantoris
 cantors
