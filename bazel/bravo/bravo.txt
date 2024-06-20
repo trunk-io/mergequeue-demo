@@ -3774,6 +3774,7 @@ barnstorms
 battler
 battles
 battleships
+barrace
 buhr
 brahui
 battlesome
@@ -7842,7 +7843,6 @@ breakover
 brocard
 bhindi
 bhishti
-barrace
 bhistie
 bagh
 bhisties
