@@ -2732,7 +2732,6 @@ barillas
 butein
 barnlike
 beadflush
-biordinal
 barnman
 braconids
 barnstormer
@@ -17018,6 +17017,7 @@ bulbilis
 bulblike
 bulbocapnine
 bryozoans
+biordinal
 bulbocavernosus
 biochore
 brachycephalies
