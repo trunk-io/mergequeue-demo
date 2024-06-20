@@ -2765,7 +2765,6 @@ foreparts
 fratery
 festerment
 festers
-fidgeter
 footway
 feis
 flanges
@@ -9391,6 +9390,7 @@ fettler
 foreweigh
 fondant
 fundungi
+fidgeter
 fibreglass
 frenum
 forequoted
