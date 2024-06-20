@@ -1525,7 +1525,6 @@ enthalpy
 espiegle
 elasmobranchii
 endosmometer
-effusive
 estivate
 effusively
 entasias
@@ -3625,6 +3624,7 @@ eluvium
 empoisoner
 enculturate
 embraceably
+effusive
 equivalents
 embraced
 essoign

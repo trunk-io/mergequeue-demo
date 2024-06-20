@@ -7587,7 +7587,6 @@ agreations
 adagietto
 avast
 alburn
-alburnous
 alburnum
 alburnums
 albus
@@ -17894,6 +17893,7 @@ antiskidding
 afterdrain
 augmentation
 appointment
+alburnous
 algomic
 appomattox
 apport
