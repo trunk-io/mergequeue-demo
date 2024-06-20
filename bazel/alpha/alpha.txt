@@ -16675,7 +16675,6 @@ allelvia
 afar
 apathetical
 apathetically
-apathy
 apathies
 apathism
 adipyl
@@ -23834,6 +23833,7 @@ authentically
 authenticated
 authenticates
 authentication
+apathy
 athetosic
 angularization
 alumbrado
