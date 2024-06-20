@@ -5342,6 +5342,7 @@ fogman
 fledgiest
 freestones
 factory
+floatless
 fribourg
 foisonless
 fabian
@@ -5832,7 +5833,6 @@ floatier
 fulcrums
 flidge
 fitz
-floatless
 firmans
 floatman
 flypapers
