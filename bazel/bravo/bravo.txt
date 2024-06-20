@@ -2291,6 +2291,7 @@ bronstrops
 barbarity
 barbarities
 barbarization
+boucle
 bewelter
 brigid
 birdclapper
@@ -13582,7 +13583,6 @@ boucher
 bouchette
 bichromate
 bouchon
-boucle
 boucles
 butterless
 boudeuse
