@@ -101,7 +101,6 @@ ennui
 ecotone
 engraffed
 enumerate
-earphone
 earpick
 earpiece
 enchisel
@@ -3459,6 +3458,7 @@ equilibristat
 eductive
 eudiaphoresis
 etiquettes
+earphone
 eyesore
 evergreenery
 enthronement
