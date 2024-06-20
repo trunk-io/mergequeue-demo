@@ -9690,7 +9690,6 @@ embodiment
 expuition
 esophagoscopy
 esophagotome
-esophagus
 endodermal
 exploits
 earthshine
@@ -11533,6 +11532,7 @@ ecologies
 extractable
 evincing
 exorcisers
+esophagus
 evincive
 eviscerates
 eumerogenetic
