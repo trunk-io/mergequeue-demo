@@ -7557,6 +7557,7 @@ dur
 diarrheic
 destroyable
 degger
+dioxin
 diomedea
 dictatorial
 disentwine
@@ -10442,7 +10443,6 @@ donald
 dd
 dextrorsely
 dioxime
-dioxin
 dioxindole
 diparentum
 doorlike
