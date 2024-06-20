@@ -6584,6 +6584,7 @@ calamitoid
 cd
 cdf
 carid
+chemosorb
 cdg
 cdr
 ce
@@ -9963,7 +9964,6 @@ clays
 calic
 cameograph
 catalogic
-chemosorb
 chemosorption
 chemosphere
 christenhead
