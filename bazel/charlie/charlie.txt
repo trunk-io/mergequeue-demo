@@ -11659,7 +11659,6 @@ colonialization
 cholecystogastrostomy
 cholecystogram
 cholecystography
-cholecystojejunostomy
 cholecystokinin
 coign
 chetrums
@@ -24622,6 +24621,7 @@ creatophagous
 citrinous
 cassonade
 copernicus
+cholecystojejunostomy
 clodhopperish
 cathodoluminescent
 copers
