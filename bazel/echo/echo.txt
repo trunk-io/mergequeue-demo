@@ -6998,7 +6998,6 @@ evangelicality
 enjoyableness
 entosternal
 entothorax
-entotympanic
 eroticist
 entourage
 empt
@@ -10685,6 +10684,7 @@ enterritoriality
 exchangee
 experience
 emblematically
+entotympanic
 epimysium
 eudaemons
 eudaimonia
