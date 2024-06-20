@@ -110,6 +110,7 @@ facy
 frangi
 facias
 fiddle
+friendly
 finnickier
 faciata
 faciation
@@ -6419,7 +6420,6 @@ fluoaluminate
 fluorogen
 fluorometry
 fluoroscopy
-friendly
 furuncular
 framing
 fumigation
