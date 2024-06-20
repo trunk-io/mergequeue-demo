@@ -2074,7 +2074,6 @@ bristly
 banknotes
 bedeguar
 blobbing
-bankrider
 brachycome
 bicollaterality
 bankrolled
@@ -4420,6 +4419,7 @@ bilker
 blockishness
 beche
 becheck
+bankrider
 bechic
 bechignoned
 bacchanalize
