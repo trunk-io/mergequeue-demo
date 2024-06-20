@@ -3155,6 +3155,7 @@ eryx
 elongation
 edict
 epiplastral
+eom
 eglatere
 evinced
 empalement
@@ -7314,7 +7315,6 @@ exsector
 eolotropic
 expressively
 extraenteric
-eom
 eon
 echoless
 electrocatalytic
