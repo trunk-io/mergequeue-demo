@@ -18206,7 +18206,6 @@ cobaltocyanide
 clarifications
 condylarth
 classicising
-coercer
 coercers
 coercibility
 coercible
@@ -21605,6 +21604,7 @@ cartilage
 concurrently
 concurrentness
 corsepresent
+coercer
 concurring
 concurs
 concursion
