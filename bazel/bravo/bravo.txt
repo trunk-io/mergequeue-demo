@@ -1432,7 +1432,6 @@ balearica
 bisellium
 balebos
 baled
-bonaught
 baleen
 baleens
 balefire
@@ -7731,6 +7730,7 @@ backbitten
 bothriolepis
 beworries
 beworship
+bonaught
 brakiest
 barmen
 biciliate
