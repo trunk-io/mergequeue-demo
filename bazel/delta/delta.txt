@@ -10623,7 +10623,6 @@ diploidize
 doorman
 diploids
 diploma
-diplomaed
 dolorogenic
 dolven
 diplomaing
@@ -11453,6 +11452,7 @@ discloser
 disclosive
 disclosure
 disclosures
+diplomaed
 duplicitous
 discloud
 dingus
