@@ -4994,7 +4994,6 @@ cartography
 cartographic
 cartographical
 cartographically
-cartomancies
 carton
 cartoner
 cartonful
@@ -19455,6 +19454,7 @@ colorature
 celesta
 colorblind
 chromobacterieae
+cartomancies
 colorblindness
 colorbreed
 colorcast
