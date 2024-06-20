@@ -7365,7 +7365,6 @@ compartner
 cantalite
 cephalagra
 computus
-cephalalgia
 cephalanthium
 coudee
 cephalaspis
@@ -18574,6 +18573,7 @@ cill
 cohortative
 cohosh
 circumdiction
+cephalalgia
 cytomegalic
 crownlet
 consigner
