@@ -7140,7 +7140,6 @@ gearboxes
 gored
 gores
 gingerbready
-gimmick
 gorfly
 gastrotaxis
 geyserine
@@ -9312,6 +9311,7 @@ groomling
 gasparillo
 grallatores
 gyrostat
+gimmick
 gonocoel
 ginkgoaceae
 groomsmen
