@@ -9060,6 +9060,7 @@ aeromotor
 anticked
 allover
 allovers
+antimilitaristic
 allowable
 anteport
 allowableness
@@ -15543,7 +15544,6 @@ alphatoluic
 antimedicative
 antimilitary
 antimilitarist
-antimilitaristic
 antimilitaristically
 alienship
 antiministerial
