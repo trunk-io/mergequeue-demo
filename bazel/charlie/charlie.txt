@@ -8231,7 +8231,6 @@ chainmen
 chainomatic
 chainon
 cultists
-chains
 chainsman
 couchantly
 capetian
@@ -12438,6 +12437,7 @@ chromaticness
 chromatid
 conuses
 chromatin
+chains
 cyclonoscope
 chromatype
 chromatism
