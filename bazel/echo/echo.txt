@@ -1850,6 +1850,7 @@ eigenvalues
 eigenvectors
 eyght
 evaginated
+ensouling
 eightball
 environed
 eightballs
@@ -12470,7 +12471,6 @@ exhorting
 exhortingly
 exhorts
 exaltations
-ensouling
 exhumate
 emus
 erraticism
