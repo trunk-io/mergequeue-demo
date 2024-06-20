@@ -5174,7 +5174,6 @@ guichet
 grocers
 glaucescent
 glinting
-gastrosoph
 glaucidium
 grapnels
 glaucin
@@ -10513,6 +10512,7 @@ gaggers
 gynecic
 gunated
 grudgeons
+gastrosoph
 gunboats
 gnome
 graveman
