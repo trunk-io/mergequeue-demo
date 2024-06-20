@@ -6779,7 +6779,6 @@ elsewards
 enthralldom
 enthralling
 exurb
-enthralment
 enthrals
 enveloping
 enthronements
@@ -10607,6 +10606,7 @@ expiscator
 epistolized
 endogenic
 exody
+enthralment
 euchlorine
 ectrodactylia
 enteropathy
