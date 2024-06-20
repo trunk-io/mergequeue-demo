@@ -1484,7 +1484,6 @@ diffusor
 degomme
 dazzler
 disposal
-damselflies
 dagos
 dazzlers
 dazzlingness
@@ -3255,6 +3254,7 @@ dummkopf
 defedation
 dasyures
 defeise
+damselflies
 dudelsack
 dashpot
 dichlamydeous
