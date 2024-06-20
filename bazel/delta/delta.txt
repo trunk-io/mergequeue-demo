@@ -3644,7 +3644,6 @@ disguise
 debunker
 degass
 degassed
-degassing
 disappears
 dolerin
 dunnesses
@@ -10328,6 +10327,7 @@ diolefins
 diols
 diomate
 defensible
+degassing
 discoglossoid
 dearly
 decalcification
