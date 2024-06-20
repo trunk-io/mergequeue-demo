@@ -12456,7 +12456,6 @@ dishrags
 dishtowels
 dishumanize
 dimethylmethane
-dishumor
 dishwasher
 dishwashers
 distemperature
@@ -15864,6 +15863,7 @@ despiting
 dorsoposterior
 dorsoradial
 dorsosacral
+dishumor
 dorsoscapular
 dorsosternal
 dorsothoracic
