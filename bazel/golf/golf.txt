@@ -1826,7 +1826,6 @@ gastrostenosis
 goniodoris
 gatehouses
 gaskins
-gastrotome
 gastrotomic
 gulsach
 gastrovascular
@@ -2258,6 +2257,7 @@ genesic
 galactase
 graverobber
 grillading
+gastrotome
 gunsels
 geez
 geoplanidae
