@@ -7558,6 +7558,7 @@ enif
 ephippia
 enfortune
 esterify
+endeign
 epidiascopic
 ephippium
 effluency
@@ -9089,7 +9090,6 @@ ecumenist
 electrophonic
 ectosome
 erysipeloid
-endeign
 endothoracic
 erysipelous
 electrocardiograph
