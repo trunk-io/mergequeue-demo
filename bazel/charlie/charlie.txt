@@ -6406,7 +6406,6 @@ cauterize
 conchfish
 cauterizer
 cauterizes
-cauterizing
 clearwater
 caution
 cautionary
@@ -12663,6 +12662,7 @@ chronographer
 chronography
 closefitting
 choreas
+cauterizing
 chronographic
 chronoisothermal
 chronologer
