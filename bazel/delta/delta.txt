@@ -8521,6 +8521,7 @@ disreason
 dredging
 diamant
 deflexed
+diestrus
 ditrochee
 diamantoid
 diamat
@@ -16408,7 +16409,6 @@ dowset
 drolled
 demolishment
 defyingly
-diestrus
 diplacanthidae
 draggletailedness
 doctorate
