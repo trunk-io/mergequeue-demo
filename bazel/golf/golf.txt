@@ -4283,7 +4283,6 @@ glossing
 gamdia
 gammoned
 gnawed
-guelphic
 grabbiest
 guanylic
 gynarchic
@@ -7063,6 +7062,7 @@ gonal
 grandson
 gunnage
 galwegian
+guelphic
 glaces
 gestalter
 gachupin
