@@ -5033,7 +5033,6 @@ goala
 glamors
 granita
 gigged
-glossary
 gadolinic
 gainst
 guided
@@ -6668,6 +6667,7 @@ ghats
 goatsbane
 glossological
 gentleship
+glossary
 gibbus
 granivorous
 grotian
