@@ -11024,7 +11024,6 @@ coalition
 creatorship
 chiromantis
 chirometer
-chiromyidae
 chiromys
 chironym
 caecum
@@ -12389,6 +12388,7 @@ christianopaganism
 cryptographically
 christians
 christicide
+chiromyidae
 cephalocyst
 crosswind
 christies
