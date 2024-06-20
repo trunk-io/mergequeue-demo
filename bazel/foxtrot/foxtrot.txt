@@ -5108,7 +5108,6 @@ fellifluous
 furbelows
 flatfishes
 flatfoot
-fleet
 flathead
 flatiron
 froom
@@ -10440,6 +10439,7 @@ factorization
 frontsman
 fluxional
 frontspieces
+fleet
 frontstall
 forstall
 featurish
