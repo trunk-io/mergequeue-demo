@@ -698,7 +698,6 @@ epilogate
 eubasidii
 eruc
 eclipsing
-exsomatic
 enhance
 envier
 ecliptical
@@ -5476,6 +5475,7 @@ emydosauria
 empetraceae
 electuary
 entomostracous
+exsomatic
 ened
 eurithermophile
 evagination
