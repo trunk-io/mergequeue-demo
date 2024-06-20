@@ -7358,7 +7358,6 @@ beswarm
 besweatered
 beswelter
 bethuel
-beswink
 balti
 beta
 bescratch
@@ -7707,6 +7706,7 @@ bewitcher
 bewitches
 bryological
 bewitchful
+beswink
 blindly
 boons
 byssi
