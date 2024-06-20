@@ -5889,7 +5889,6 @@ gheraoing
 grain
 goldsmith
 glovemaker
-gametes
 gloveman
 glover
 glochines
@@ -6737,6 +6736,7 @@ growse
 globiferous
 gyrus
 grittle
+gametes
 goosey
 glimed
 guid
