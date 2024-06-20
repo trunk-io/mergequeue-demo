@@ -2273,7 +2273,6 @@ electricalize
 electrically
 embryony
 embraceable
-electricalness
 espadrille
 encoach
 electricize
@@ -7098,6 +7097,7 @@ epiphenomenon
 emote
 entrusting
 entrustment
+electricalness
 expediate
 exchequers
 entrusts
