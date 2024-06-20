@@ -2525,7 +2525,6 @@ barfish
 barfs
 bargain
 bergmannite
-bromins
 bargainable
 billbugs
 bargainer
@@ -15143,6 +15142,7 @@ briar
 buckbean
 bahuvrihis
 briard
+bromins
 bromoaurate
 baxterianism
 briarean
