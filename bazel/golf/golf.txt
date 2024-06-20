@@ -5547,7 +5547,6 @@ greenest
 groschen
 glissandi
 gunda
-glomera
 glissando
 grande
 ganoids
@@ -10247,6 +10246,7 @@ graver
 generaliser
 guildhall
 ghosted
+glomera
 gunny
 guile
 guileful
