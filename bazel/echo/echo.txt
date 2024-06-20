@@ -9103,7 +9103,6 @@ elicitable
 eristically
 endognathal
 exophthalmos
-erithacus
 erythema
 erythemal
 erythemas
@@ -13324,6 +13323,7 @@ exponible
 epoch
 euomphalus
 encowl
+erithacus
 extra
 entitled
 exceedingly
