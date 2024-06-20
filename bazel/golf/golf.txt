@@ -3838,7 +3838,6 @@ gemeinschaften
 gifola
 gustoes
 geniality
-gift
 giftbook
 geometer
 giftedly
@@ -8608,6 +8607,7 @@ goosing
 guardless
 grecoue
 gnu
+gift
 greenage
 groff
 gree
