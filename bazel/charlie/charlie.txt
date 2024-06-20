@@ -9954,7 +9954,6 @@ contrabassoon
 chemoresistance
 chemoserotherapy
 chemoses
-conformate
 chemosynthesis
 chemosynthetic
 chemosis
@@ -11676,6 +11675,7 @@ culpability
 choledochoduodenostomy
 choledochoenterostomy
 colpeurysis
+conformate
 choledocholithotomy
 choledocholithotripsy
 choledochoplasty
