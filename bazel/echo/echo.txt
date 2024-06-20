@@ -1113,7 +1113,6 @@ enchants
 eqpt
 evaniidae
 edgar
-edge
 expatiatory
 edgebone
 emyd
@@ -13468,6 +13467,7 @@ exposing
 ethmoidal
 eudaemonic
 entocondylar
+edge
 erk
 exculpates
 editing
