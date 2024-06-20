@@ -263,6 +263,7 @@ furmint
 freeload
 forspend
 flamethrower
+fidgets
 firm
 floorwalker
 fluviation
@@ -6952,7 +6953,6 @@ formylation
 franks
 foetus
 fluoaluminic
-fidgets
 foments
 freelances
 fussiness
