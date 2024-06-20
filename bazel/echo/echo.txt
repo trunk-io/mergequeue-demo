@@ -3075,7 +3075,6 @@ emp
 encyclical
 elliot
 educationable
-elem
 ergatocracy
 exdividend
 emblematic
@@ -13419,6 +13418,7 @@ expropriate
 emda
 excecation
 epitaph
+elem
 equestriennes
 evaluable
 euhedral
