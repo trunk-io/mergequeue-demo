@@ -7111,7 +7111,6 @@ dykage
 dessertspoon
 dessertspoonfuls
 destinezite
-dessil
 dessous
 devall
 doodad
@@ -14139,6 +14138,7 @@ diammonium
 diffuser
 defeating
 diswarrening
+dessil
 delegated
 disulfid
 drippy
