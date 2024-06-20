@@ -11975,7 +11975,6 @@ ariettas
 anaptychus
 anaptyctic
 antecloset
-anaptomorphus
 anaptotic
 anarcestes
 anarchy
@@ -18249,6 +18248,7 @@ aquascope
 alltud
 aquate
 aquatic
+anaptomorphus
 aquatically
 aquatics
 aigrets
