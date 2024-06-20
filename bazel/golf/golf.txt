@@ -1292,7 +1292,6 @@ gardenful
 gardenia
 gundeck
 gardenless
-gardenlike
 genuflect
 gunnels
 granulose
@@ -10681,6 +10680,7 @@ grove
 glycerols
 gurnard
 genomes
+gardenlike
 gib
 googol
 grippotoxin
