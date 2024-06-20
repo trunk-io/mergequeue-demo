@@ -3583,6 +3583,7 @@ filechar
 filed
 fogie
 flakier
+fencelet
 fixations
 foremention
 filemaker
@@ -4765,7 +4766,6 @@ floweriest
 fannings
 fasinite
 flageolets
-fencelet
 flagfishes
 flowcontrol
 forbiddenness
