@@ -10425,7 +10425,6 @@ carotic
 chiefery
 chiefest
 chiefish
-chiefless
 cytisus
 chiefling
 chieftain
@@ -30418,6 +30417,7 @@ clownishly
 ctenizid
 ctenocephalus
 concinnate
+chiefless
 ctenocyst
 copelate
 cascables
