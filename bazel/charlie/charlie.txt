@@ -95,7 +95,6 @@ chars
 cabdriving
 cabecudo
 capellet
-chorogi
 cabeliau
 caber
 carcinosarcomas
@@ -7801,6 +7800,7 @@ cerotic
 chastises
 cabas
 cerotin
+chorogi
 cerotypes
 confirmedly
 cerous
