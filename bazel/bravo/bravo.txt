@@ -13792,7 +13792,6 @@ bouses
 bousouki
 bousoukia
 brunswick
-bousoukis
 boussingaultite
 boustrophedon
 bloomer
@@ -14294,6 +14293,7 @@ bourette
 bodhi
 braird
 bateman
+bousoukis
 barblet
 beloved
 bassinets
