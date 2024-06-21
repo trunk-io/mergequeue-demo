@@ -1062,7 +1062,6 @@ farish
 fobs
 farley
 fulfill
-fastener
 farmed
 farmeress
 farmerish
@@ -1801,6 +1800,7 @@ featishness
 frustules
 flyspecks
 fuscescent
+fastener
 fractureproof
 fissiparous
 forane
