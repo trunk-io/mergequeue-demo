@@ -3946,7 +3946,6 @@ carburisation
 carburised
 contributed
 carburiser
-carburization
 casemated
 carburizer
 carburizes
@@ -16631,6 +16630,7 @@ comal
 croupes
 cloisterly
 cloisterlike
+carburization
 coltish
 cosmopathic
 clarifiable
