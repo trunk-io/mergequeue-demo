@@ -12015,6 +12015,7 @@ dorados
 disemployment
 disenable
 disenabled
+duplicates
 disenabling
 disenact
 disenamor
@@ -18417,7 +18418,6 @@ dedicatedly
 duplexer
 duplexers
 duplicability
-duplicates
 duplication
 duplicators
 duncehood
