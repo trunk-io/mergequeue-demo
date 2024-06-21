@@ -5581,7 +5581,6 @@ deoxidised
 deoxidiser
 dorsiventrality
 deoxidize
-deoxidizer
 dreggy
 deoxidizers
 deoxidizes
@@ -15882,6 +15881,7 @@ daft
 diabolo
 deallocation
 demonesses
+deoxidizer
 dorsumbonal
 dossiers
 diamondize
