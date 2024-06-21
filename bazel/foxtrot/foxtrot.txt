@@ -2352,6 +2352,7 @@ fand
 footstalk
 fremescence
 fer
+firecoat
 fusibility
 foolmonger
 farriers
@@ -9398,7 +9399,6 @@ freewheeling
 friction
 furacana
 foreshower
-firecoat
 featless
 franz
 foliiferous
