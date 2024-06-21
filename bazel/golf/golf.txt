@@ -8483,7 +8483,6 @@ graviers
 gratuito
 grandada
 graving
-gravipause
 goatsucker
 gleds
 grouped
@@ -9806,6 +9805,7 @@ gynandrarchy
 gushiness
 guadagnini
 gnathostoma
+gravipause
 guadua
 guahiban
 gutsily

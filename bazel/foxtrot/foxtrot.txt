@@ -9169,7 +9169,6 @@ forward
 fanning
 filices
 fetometry
-facet
 fructicultural
 filenames
 flustroid
@@ -11520,6 +11519,7 @@ furzy
 flammable
 flouncy
 fluently
+facet
 fusariose
 fanfold
 frictionize
