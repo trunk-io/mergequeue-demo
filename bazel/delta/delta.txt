@@ -7010,7 +7010,6 @@ despecificate
 despecification
 desperado
 darky
-ddt
 dioptre
 digits
 desperados
@@ -16875,6 +16874,7 @@ drawtube
 decanically
 deaired
 drazel
+ddt
 dicyclic
 diiambus
 dread

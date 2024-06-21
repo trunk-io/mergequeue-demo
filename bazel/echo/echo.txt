@@ -6867,7 +6867,6 @@ eolithic
 embonpoint
 entoil
 entoils
-entoloma
 entom
 extender
 episternalia
@@ -9684,6 +9683,7 @@ entrike
 esophagometer
 evoked
 esophagomycosis
+entoloma
 esophagopathy
 esophagoplasty
 embodiment
