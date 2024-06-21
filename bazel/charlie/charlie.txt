@@ -17074,7 +17074,6 @@ cnidoblast
 cnidocil
 cobbed
 coexplosion
-cnidophorous
 cupmate
 cnidopod
 conoids
@@ -21454,6 +21453,7 @@ condors
 conclusions
 conclusive
 coexistency
+cnidophorous
 conclusively
 compassionated
 criterion
