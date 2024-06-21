@@ -8813,7 +8813,6 @@ diathermotherapy
 dispensatrix
 demisacrilege
 diathesis
-depolarising
 diatoma
 diatomaceae
 din
@@ -17834,6 +17833,7 @@ duels
 didepsid
 ductibility
 ductible
+depolarising
 dislodge
 dodecaphonically
 ductilimeter
