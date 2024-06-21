@@ -4348,6 +4348,7 @@ eloquence
 elacolite
 etude
 enameling
+exclaustration
 enamelist
 enamelless
 earsh
@@ -7808,7 +7809,6 @@ epirogeny
 epidermic
 epidermical
 epidermically
-exclaustration
 enteroplasty
 epidermization
 epidermolysis
