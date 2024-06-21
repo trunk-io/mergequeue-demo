@@ -6755,6 +6755,7 @@ barcas
 bead
 broughtas
 buttonholes
+burghs
 bhaktis
 buscarle
 berytidae
@@ -13949,7 +13950,6 @@ bowles
 bowlful
 bowlfuls
 bowly
-burghs
 bowlike
 bowline
 bacalaos
