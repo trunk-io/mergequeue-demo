@@ -7243,7 +7243,6 @@ centrifugaller
 cladoceran
 centrifugate
 centrifuge
-cavitates
 centrifugence
 centrifuges
 centrifuging
@@ -8405,6 +8404,7 @@ chalklike
 chalkline
 chalkone
 chalkos
+cavitates
 chalkotheke
 chalkpit
 chalkrail
