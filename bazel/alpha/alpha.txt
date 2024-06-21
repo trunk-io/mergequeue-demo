@@ -3727,7 +3727,6 @@ archivolt
 adhesion
 adhesional
 adhesive
-adhesively
 adhesiveness
 autotoxin
 adhibit
@@ -10696,6 +10695,7 @@ amynodont
 aminoformic
 aminoglutaric
 aminoguanidine
+adhesively
 aminoid
 anointing
 arboriculturist
