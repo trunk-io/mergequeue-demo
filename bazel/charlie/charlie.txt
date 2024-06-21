@@ -1136,7 +1136,6 @@ calcographer
 countermark
 calcography
 culturology
-calcographic
 calcsinter
 cranioclasis
 calcspar
@@ -14387,6 +14386,7 @@ circumlunar
 crepeier
 crepitant
 circummeridional
+calcographic
 cassoni
 circummundane
 circummure
