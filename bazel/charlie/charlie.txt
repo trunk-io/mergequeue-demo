@@ -1143,6 +1143,7 @@ calcspar
 calcspars
 cotwal
 crunches
+chilopoda
 calctufa
 calctuff
 calculability
@@ -9293,7 +9294,6 @@ conjugally
 chastiment
 chastisable
 chastise
-chilopoda
 chastised
 chastiser
 clapperboard
