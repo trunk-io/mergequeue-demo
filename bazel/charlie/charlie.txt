@@ -15722,7 +15722,6 @@ cartographers
 clattered
 clatterer
 crucifier
-circumscriber
 clattery
 courtiery
 clattering
@@ -26127,6 +26126,7 @@ cosier
 colotyphoid
 creches
 cosies
+circumscriber
 cosign
 coercively
 counterfix
