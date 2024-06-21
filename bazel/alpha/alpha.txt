@@ -14157,7 +14157,6 @@ acanthurus
 antennula
 antennular
 antennule
-adelopod
 antenodal
 also
 antenoon
@@ -15898,6 +15897,7 @@ antipodagric
 antipodal
 antipode
 antipodic
+adelopod
 autocoprophagous
 antipodism
 abrased
