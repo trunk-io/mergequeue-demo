@@ -12665,7 +12665,6 @@ collembolan
 circularize
 chronological
 chronologies
-chronologist
 coalternative
 chantecler
 cercle
@@ -18175,6 +18174,7 @@ coequals
 coequate
 centerward
 chincha
+chronologist
 chinbone
 chairless
 chiniofon
