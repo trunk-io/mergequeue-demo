@@ -4558,7 +4558,6 @@ advice
 advices
 advisable
 advisableness
-advisably
 adiaphorism
 advisal
 antheridial
@@ -10738,6 +10737,7 @@ animosities
 anabolitic
 antaphrodisiac
 alevins
+advisably
 amire
 amyris
 abattis
