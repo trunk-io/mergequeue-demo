@@ -19490,7 +19490,6 @@ colorman
 coloroto
 colors
 cutose
-colorum
 colossal
 colossality
 colossally
@@ -27121,6 +27120,7 @@ counterreformation
 counterreligion
 counterremonstrant
 counterreplied
+colorum
 corbel
 clypeastroida
 cladocerous
