@@ -2135,7 +2135,6 @@ globosity
 gazeless
 glycoluric
 galactosidase
-gazella
 gazelle
 gazellelike
 gazelline
@@ -5427,6 +5426,7 @@ gammadion
 grottos
 gliddery
 gipsyhood
+gazella
 geotechnics
 gigartinaceae
 gospodipoda
