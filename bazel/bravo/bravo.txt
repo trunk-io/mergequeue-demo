@@ -3918,7 +3918,6 @@ bawsint
 bawsunt
 boneshaw
 bennet
-bawtie
 bawties
 baxter
 bifidated
@@ -3986,6 +3985,7 @@ backstays
 boltspreet
 biophysicists
 brittlewood
+bawtie
 bestsellers
 barytes
 beaches
