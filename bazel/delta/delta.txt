@@ -17417,6 +17417,7 @@ direction
 decream
 doorsill
 dropsies
+donning
 dermopteran
 dropsonde
 dropt
@@ -17687,7 +17688,6 @@ dualistic
 dawnstreak
 diffusedly
 dualize
-donning
 deflocculation
 disanimal
 dimerisms
