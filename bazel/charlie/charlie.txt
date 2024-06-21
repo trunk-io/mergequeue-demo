@@ -15463,7 +15463,6 @@ clanship
 chiricahua
 clansman
 coembedded
-clansmen
 curnie
 clanswoman
 cryptostegia
@@ -16083,6 +16082,7 @@ cleromancy
 canniness
 cleronomy
 clerstory
+clansmen
 coolheadedness
 cleruchy
 connach
