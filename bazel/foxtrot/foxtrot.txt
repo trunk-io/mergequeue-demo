@@ -3345,7 +3345,6 @@ fluxmeter
 froglet
 fidge
 fidged
-frameable
 fidgetation
 frogfoot
 fractionally
@@ -9469,6 +9468,7 @@ frau
 forecastleman
 felidae
 femininism
+frameable
 fraudfully
 fasciculated
 fyces
