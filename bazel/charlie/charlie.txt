@@ -4862,6 +4862,7 @@ carriable
 carriage
 carriageable
 carriageful
+clachans
 carriages
 crosstie
 carriagesmith
@@ -15212,7 +15213,6 @@ cumbent
 clabularium
 collectanea
 clach
-clachans
 clachs
 clack
 clackama
