@@ -4754,7 +4754,6 @@ aeolist
 aeolomelodicon
 averin
 aeolotropy
-aeolotropic
 aeolus
 artichokes
 anchises
@@ -22271,6 +22270,7 @@ astrobiological
 arterials
 astrobiologies
 astroblast
+aeolotropic
 afterdrops
 astrobotany
 astrochemistry
