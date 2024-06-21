@@ -1877,7 +1877,6 @@ eightpenny
 euler
 ennew
 ecchymose
-endorsors
 eightvo
 edestin
 effetman
@@ -13633,6 +13632,7 @@ elfic
 encomiendas
 exteriorized
 enphytotic
+endorsors
 erratum
 exteriorizing
 exteriorness
