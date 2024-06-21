@@ -8408,7 +8408,6 @@ glands
 graveclod
 gravedigger
 genophobia
-germal
 grudgment
 gravel
 garnishee
@@ -8939,6 +8938,7 @@ guiltier
 griffaun
 griffe
 gingivectomy
+germal
 geosynchronous
 glagah
 gymnasial
