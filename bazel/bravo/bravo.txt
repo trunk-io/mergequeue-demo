@@ -6559,7 +6559,6 @@ brachiopodist
 bepicture
 bepiece
 bepile
-burhead
 bodeword
 blobbiness
 bepart
@@ -16888,6 +16887,7 @@ buffooneries
 benzoxycamphor
 balancelle
 blended
+burhead
 bichromatic
 brulyie
 buffoonesque
