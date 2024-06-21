@@ -3545,7 +3545,6 @@ brabbling
 byroads
 batfishes
 biri
-baroneted
 bondholder
 batfowl
 batfowled
@@ -17827,6 +17826,7 @@ braiders
 burrhead
 burrheaded
 burrheadedness
+baroneted
 burriest
 backing
 bounce
