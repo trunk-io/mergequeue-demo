@@ -1992,7 +1992,6 @@ acetol
 acetolytic
 acetometer
 acetometry
-acetometric
 accroachment
 affidavits
 aleurites
@@ -2098,6 +2097,7 @@ antecell
 accustoms
 acheweed
 achy
+acetometric
 airtime
 aphagia
 apout
