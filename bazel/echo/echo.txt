@@ -332,7 +332,6 @@ eagerer
 eatability
 eg
 exoduses
-eatables
 electrolyzability
 eaten
 eighty
@@ -6458,6 +6457,7 @@ enterprisingness
 ensky
 euthanasia
 enskies
+eatables
 emulate
 ecotypic
 euphoniad
