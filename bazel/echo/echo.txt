@@ -7843,7 +7843,6 @@ electrothermancy
 epifaunae
 expropriating
 epifaunal
-epifaunas
 entassment
 epigaea
 epigamic
@@ -9693,6 +9692,7 @@ expuition
 esophagoscopy
 esophagotome
 endodermal
+epifaunas
 exploits
 earthshine
 epicrystalline
