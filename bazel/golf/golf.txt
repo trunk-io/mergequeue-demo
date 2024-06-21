@@ -4915,7 +4915,6 @@ glumose
 griffinism
 geogenous
 garlicwort
-gladdens
 glades
 graupels
 grush
@@ -9871,6 +9870,7 @@ guaniferous
 gemmae
 gravy
 growth
+gladdens
 gallivants
 guardianless
 gels
