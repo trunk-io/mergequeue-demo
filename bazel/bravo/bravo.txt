@@ -6699,7 +6699,6 @@ bergfall
 begreen
 bawdric
 bergh
-berghaan
 bergy
 bergylt
 berginization
@@ -15939,6 +15938,7 @@ breeze
 bromomania
 bodgery
 bopper
+berghaan
 barbeyaceae
 biose
 bookmarker
