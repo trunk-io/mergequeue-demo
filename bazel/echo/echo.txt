@@ -5563,6 +5563,7 @@ etherlike
 enfeoffing
 episcopant
 enfeoffment
+exestuate
 espundia
 enfester
 enfettered
@@ -9146,7 +9147,6 @@ eulysite
 explanate
 ebbets
 expressor
-exestuate
 erythrocytolysis
 eelier
 enbranglement
