@@ -1559,6 +1559,7 @@ balldom
 balled
 bicorporal
 barbules
+batterer
 blauboks
 baller
 beclowning
@@ -3738,7 +3739,6 @@ bankrupted
 batter
 batterdock
 battered
-batterer
 beltis
 borate
 batterie
