@@ -6983,7 +6983,6 @@ beshackle
 beshade
 begrudges
 beshadowed
-beshadowing
 beauxite
 briolette
 biplosive
@@ -18222,6 +18221,7 @@ barium
 buttercups
 borated
 buttered
+beshadowing
 beyond
 butterfat
 blackwort

@@ -4740,7 +4740,6 @@ gamosepalous
 germicidal
 gammaridae
 girts
-gis
 gemmed
 gramercy
 gaj
@@ -10569,6 +10568,7 @@ glockenspiels
 gausses
 guillemot
 gimpy
+gis
 grandmaster
 gunline
 gladnesses
