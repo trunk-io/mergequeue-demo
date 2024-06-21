@@ -4752,6 +4752,7 @@ bord
 beinked
 bewrought
 bedmakers
+bakatan
 borak
 bedmate
 bibbons
@@ -5061,7 +5062,6 @@ beetroot
 beetrooty
 bedunces
 bronzings
-bakatan
 beetroots
 beevish
 beeway
