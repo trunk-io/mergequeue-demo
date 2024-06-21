@@ -1863,7 +1863,6 @@ barricos
 besotter
 bandeau
 betula
-bandelet
 bancus
 bandelette
 banderma
@@ -2512,6 +2511,7 @@ bultow
 britzka
 bruting
 blurriest
+bandelet
 barfish
 barfs
 bargain
