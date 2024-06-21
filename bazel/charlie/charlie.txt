@@ -10018,7 +10018,6 @@ chenille
 cheniller
 chenopod
 colocasia
-chenopodiales
 chenopods
 cheoplastic
 chequebook
@@ -25248,6 +25247,7 @@ corylaceous
 corylopsis
 corylus
 corymbed
+chenopodiales
 cads
 corymbiate
 corymbiated
