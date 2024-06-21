@@ -2882,7 +2882,6 @@ clothesmonger
 chalcis
 cantabrian
 cantabrigian
-certainties
 cantala
 cantalever
 cantaliver
@@ -22150,6 +22149,7 @@ chowderhead
 confound
 carragheen
 citylike
+certainties
 confounded
 cherimoya
 chironomic

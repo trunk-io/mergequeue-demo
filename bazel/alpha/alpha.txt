@@ -20696,7 +20696,6 @@ artichoke
 articled
 acidimetrical
 aspirates
-adj
 arefy
 austerus
 asterion
@@ -25365,6 +25364,7 @@ authorizations
 antiozonant
 azotoluene
 azotorrhea
+adj
 azotorrhoea
 azotous
 azoturias
