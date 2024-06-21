@@ -4962,7 +4962,6 @@ flammed
 foreyards
 fidac
 feebleheartedly
-flammulation
 flammule
 flanch
 foraminate
@@ -8837,6 +8836,7 @@ figgery
 fougasse
 faulter
 foujdarry
+flammulation
 foul
 fogger
 foulder
