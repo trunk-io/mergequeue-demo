@@ -6688,7 +6688,6 @@ enterology
 enterologic
 exhaled
 executing
-enteromegaly
 enteromegalia
 enteroneuritis
 effectuates
@@ -12287,6 +12286,7 @@ electromerism
 endarchy
 exemplariness
 efflorescency
+enteromegaly
 els
 endarch
 everduring
