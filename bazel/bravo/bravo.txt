@@ -8927,7 +8927,6 @@ binding
 bookkeep
 becher
 bindingness
-bindis
 bekissing
 basoche
 brewer
@@ -12356,6 +12355,7 @@ boltropes
 boltsmith
 barbarea
 beakful
+bindis
 banker
 budgeteer
 bawds
