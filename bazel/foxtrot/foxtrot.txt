@@ -5717,7 +5717,6 @@ fleuronnee
 fungous
 fuzzball
 faunological
-flowerpots
 favorers
 forestcraft
 fulminate
@@ -5929,6 +5928,7 @@ fineable
 freeze
 fertilize
 fabiform
+flowerpots
 flooder
 freakiness
 fichtean
