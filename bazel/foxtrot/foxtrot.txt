@@ -646,6 +646,7 @@ further
 faunch
 fantails
 frogskins
+flagger
 fireclays
 filigreing
 fortitudinous
@@ -2948,7 +2949,6 @@ fumier
 flagonless
 flyboy
 furazane
-flagger
 formularism
 frustums
 farfetch
