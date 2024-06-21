@@ -7325,7 +7325,6 @@ century
 centurial
 concerto
 covenably
-centuriate
 centuriator
 centuried
 centuries
@@ -30048,6 +30047,7 @@ croutons
 chattanoogan
 compeller
 crowbait
+centuriate
 crowbar
 crowbill
 crowboot
