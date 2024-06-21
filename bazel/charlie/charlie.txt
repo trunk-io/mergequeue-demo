@@ -6758,7 +6758,6 @@ celery
 cimborio
 celeriac
 cypres
-celeries
 celerities
 celestas
 celeste
@@ -10071,6 +10070,7 @@ cheries
 cosmotron
 coronavirus
 circumhorizontal
+celeries
 cherry
 cherryblossom
 cherried
