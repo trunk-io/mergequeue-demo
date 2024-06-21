@@ -2992,7 +2992,6 @@ gollop
 geoffroyin
 geomance
 geogen
-geogenesis
 gyropilot
 gyrencephalous
 guapilla
@@ -8386,6 +8385,7 @@ gametoid
 galactonic
 gratulation
 gandhara
+geogenesis
 gaylussite
 gravitations
 grudgers
