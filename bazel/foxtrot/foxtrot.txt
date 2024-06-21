@@ -1934,7 +1934,6 @@ feds
 feeb
 francas
 feases
-fosterlings
 flowerlike
 fracture
 feeble
@@ -9282,6 +9281,7 @@ fertil
 finings
 freebooted
 franchisers
+fosterlings
 flagons
 fordull
 front
