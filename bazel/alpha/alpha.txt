@@ -20975,6 +20975,7 @@ ascellus
 ascend
 ascendable
 antirust
+autotroph
 ascendance
 ascendancy
 ascendant
@@ -24450,7 +24451,6 @@ autostethoscope
 aurotellurite
 autotriploidy
 axlesmith
-autotroph
 appositions
 autotrophic
 autotropic
