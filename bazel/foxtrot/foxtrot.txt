@@ -2075,7 +2075,6 @@ filibuster
 felicitating
 forewords
 feudalisation
-foreintend
 foremasthand
 felicity
 felicitous
@@ -9088,6 +9087,7 @@ fraps
 flaith
 featherworker
 fuage
+foreintend
 frenetics
 formity
 fieldstone
