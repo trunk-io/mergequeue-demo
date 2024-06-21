@@ -3144,6 +3144,7 @@ baseplate
 barquest
 branchway
 baseplug
+bronzite
 basepoint
 baser
 brazen
@@ -16086,7 +16087,6 @@ bashless
 bcd
 bullionism
 blitzbuggy
-bronzite
 bronzitite
 broo
 buxeous
