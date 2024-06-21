@@ -15401,7 +15401,6 @@ checkrow
 clamoursome
 clamped
 clampers
-clamping
 clamps
 coolibah
 clamshell
@@ -26845,6 +26844,7 @@ coscinodiscus
 chutzpah
 counterdistinguish
 counterdoctrine
+clamping
 chasmogamy
 counterdogmatism
 chylopoietic
