@@ -3154,7 +3154,6 @@ basepoint
 baser
 brazen
 besetter
-bardish
 basest
 bashalick
 biddie
@@ -14536,6 +14535,7 @@ bodier
 brancard
 bahan
 branchiomeric
+bardish
 bestraw
 branchellion
 blattoidea
