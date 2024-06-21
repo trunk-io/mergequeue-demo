@@ -269,7 +269,6 @@ expiries
 exospores
 eloignment
 easterling
-exstemporaneous
 ecrevisse
 epeirogenic
 enantioblastic
@@ -12862,6 +12861,7 @@ ensynopticity
 emigrate
 enigmatize
 exteriorising
+exstemporaneous
 expansum
 eburneoid
 emotionless
