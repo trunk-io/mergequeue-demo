@@ -5040,7 +5040,6 @@ equerry
 endiaper
 epiparodos
 endings
-epigraphs
 elaeomargaric
 endite
 eclairs
@@ -5791,6 +5790,7 @@ echoencephalography
 endoplasmic
 exceptionally
 extranidal
+epigraphs
 englishism
 exhilarating
 englishly
