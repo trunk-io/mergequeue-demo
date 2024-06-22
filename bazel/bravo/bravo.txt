@@ -2377,6 +2377,7 @@ barbotine
 bones
 bastinade
 biolysis
+borate
 bachelorlike
 backcountry
 barbula
@@ -3724,7 +3725,6 @@ batter
 batterdock
 battered
 beltis
-borate
 batterie
 breck
 batteries
