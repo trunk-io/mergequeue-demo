@@ -3706,7 +3706,6 @@ granaries
 guayacan
 gelada
 graduations
-ghurry
 ghuz
 gunlaying
 gordonia
@@ -6274,6 +6273,7 @@ graip
 goniale
 gossipdom
 glyptodontidae
+ghurry
 gatepost
 gollywobbler
 grubble
