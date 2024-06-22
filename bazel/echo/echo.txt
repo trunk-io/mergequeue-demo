@@ -4656,7 +4656,6 @@ epigrapher
 ephebeia
 encephaloscopy
 epithalamic
-enchytrae
 etherolate
 enchytraeid
 emceing
@@ -12389,6 +12388,7 @@ ebbman
 erineum
 erodibility
 exhalents
+enchytrae
 exhales
 erythrocatalysis
 elderbrotherhood
