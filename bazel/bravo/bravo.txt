@@ -470,7 +470,6 @@ bloodstones
 bahuts
 backspaced
 backspacefile
-balaclava
 backspacer
 blastocoelic
 battik
@@ -8867,6 +8866,7 @@ backlighting
 betoss
 bottomry
 brule
+balaclava
 bimetals
 bullring
 bolsters
