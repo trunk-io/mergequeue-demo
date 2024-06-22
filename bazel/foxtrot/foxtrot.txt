@@ -71,6 +71,7 @@ fenchone
 fados
 faceharden
 flagships
+fighters
 flecken
 facellite
 frotteurs
@@ -3253,7 +3254,6 @@ forehent
 furbisher
 forestay
 fusspot
-fighters
 famished
 fledgy
 fictionized
