@@ -8558,6 +8558,7 @@ bikers
 bikeway
 bikie
 biking
+banked
 bedaze
 balita
 blankminded
@@ -10108,7 +10109,6 @@ briton
 bivocalized
 bombings
 bivoluminous
-banked
 bivouaced
 bivouacked
 bubbled
