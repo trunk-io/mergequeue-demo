@@ -1043,7 +1043,6 @@ disjuncts
 darn
 darndest
 dishlike
-discourager
 darneder
 darnels
 dishes
@@ -16139,6 +16138,7 @@ douroucouli
 dousers
 dissimulates
 dialers
+discourager
 dousing
 dout
 desorbing
