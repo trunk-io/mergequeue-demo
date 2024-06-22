@@ -45,6 +45,7 @@ grammes
 gabions
 guardian
 gelatiniser
+gunfires
 gammarus
 gollar
 gableboard
@@ -375,7 +376,6 @@ glossophagine
 goto
 grotty
 grandmamma
-gunfires
 gauntries
 galant
 galanthus
