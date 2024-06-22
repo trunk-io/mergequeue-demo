@@ -19371,7 +19371,6 @@ colonised
 colonising
 colonist
 cyrtidae
-chiromancer
 colonizable
 colonize
 comminating
@@ -20685,6 +20684,7 @@ complaisant
 cankerworms
 complaisantly
 complant
+chiromancer
 complect
 cottierism
 complecting
