@@ -5254,7 +5254,6 @@ cushat
 clanger
 casquet
 casquetel
-casquette
 cassabas
 cassabully
 crwth
@@ -13146,6 +13145,7 @@ cyathophyllidae
 cyathophylloid
 cyathophyllum
 cyathos
+casquette
 cyathus
 confest
 cibarial
