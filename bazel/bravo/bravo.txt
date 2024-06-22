@@ -7847,7 +7847,6 @@ brocard
 bhindi
 bhishti
 bhistie
-bagh
 bhisties
 bhojpuri
 brim
@@ -14497,6 +14496,7 @@ butea
 bulbocapnin
 braystone
 bathyspheres
+bagh
 babying
 brakeless
 brakeload
