@@ -4036,7 +4036,6 @@ gubbings
 gellert
 grounds
 glossosteresis
-gurlet
 gilds
 gildship
 gawn
@@ -7800,6 +7799,7 @@ glutter
 gralline
 guarantine
 gearwheels
+gurlet
 guttide
 graces
 gram
