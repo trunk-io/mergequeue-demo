@@ -3906,6 +3906,7 @@ forspeaking
 footslogged
 finalizes
 findable
+foreshop
 frontlessly
 findhorn
 filarees
@@ -7934,7 +7935,6 @@ fidejussionary
 forgiveness
 foreshock
 foreshoe
-foreshop
 foreshortened
 fallostomy
 foreshot
