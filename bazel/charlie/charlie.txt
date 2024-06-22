@@ -20,7 +20,6 @@ corkmaking
 cabaletta
 cestas
 cardplaying
-cabalism
 cabalisms
 castratory
 cnicus
@@ -8114,6 +8113,7 @@ chador
 colluding
 chadors
 chaenolobus
+cabalism
 chaetae
 chemin
 chaetal
