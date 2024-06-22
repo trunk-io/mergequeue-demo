@@ -2933,6 +2933,7 @@ feture
 fatigate
 fungiferous
 fruitlet
+ferryboats
 floorcloth
 febricide
 feudalist
@@ -5921,7 +5922,6 @@ forehand
 flogmaster
 forjesket
 flogs
-ferryboats
 fermis
 fluviovolcanic
 fatstock
