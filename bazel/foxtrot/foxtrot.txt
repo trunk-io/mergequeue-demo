@@ -6647,7 +6647,6 @@ fruitery
 funds
 fancymonger
 focussed
-flumed
 focussing
 fod
 folkmoter
@@ -7210,6 +7209,7 @@ famishing
 fiorded
 finial
 footscraper
+flumed
 flocoon
 footsy
 furca

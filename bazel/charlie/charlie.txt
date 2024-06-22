@@ -793,7 +793,6 @@ cayenne
 cucurbits
 chuffs
 completes
-chemoautotrophy
 cytophagy
 cayenned
 contouring
@@ -7870,6 +7869,7 @@ casa
 costean
 cerumniparous
 ceruse
+chemoautotrophy
 celtically
 clorinator
 cerusite
