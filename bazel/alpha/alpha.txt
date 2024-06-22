@@ -5141,7 +5141,6 @@ aetites
 aetobatidae
 aphoria
 aetobatus
-aetolian
 aetomorphae
 aetosaur
 aetosaurus
@@ -13419,6 +13418,7 @@ allotriodontia
 ankle
 anklejack
 ankles
+aetolian
 aerophoto
 armament
 anklet
