@@ -9425,7 +9425,6 @@ chaus
 constatory
 commiserate
 chausse
-chaussee
 chaussees
 chaussure
 coscinodiscaceae
@@ -19909,6 +19908,7 @@ chalcophyllite
 comical
 cusso
 catabolizing
+chaussee
 comically
 comicalness
 cubited
