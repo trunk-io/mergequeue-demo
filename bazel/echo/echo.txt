@@ -8020,7 +8020,6 @@ epimanikia
 ensilation
 expounds
 epimanikion
-epimeral
 epimeres
 eremurus
 epimeric
@@ -10580,6 +10579,7 @@ epispastic
 enplaning
 enswathed
 eucharists
+epimeral
 entrymen
 eucharitidae
 epilachna
