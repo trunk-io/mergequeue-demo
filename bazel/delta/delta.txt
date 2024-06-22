@@ -2526,7 +2526,6 @@ declaim
 dichorisandra
 dresser
 declaimer
-dourade
 declaims
 danize
 declamando
@@ -5722,6 +5721,7 @@ dephlogisticated
 disinclose
 dephlogistication
 duennadom
+dourade
 dephosphorize
 desiccant
 darst
