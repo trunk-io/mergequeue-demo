@@ -2271,7 +2271,6 @@ barbequing
 bourage
 buddler
 bassoons
-barbarisation
 barbarise
 barbarised
 barbarising
@@ -5399,6 +5398,7 @@ benchboard
 begray
 barodynamic
 boodie
+barbarisation
 burly
 begrave
 birne

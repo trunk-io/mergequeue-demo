@@ -3459,7 +3459,6 @@ addlebrain
 addlebrained
 allegation
 addlehead
-addleheaded
 arisaema
 addleheadedness
 addleness
@@ -4842,6 +4841,7 @@ aequoreal
 aerobiont
 aerobioscope
 aerobiosis
+addleheaded
 aerobiotic
 aerobious
 archlute
