@@ -5793,7 +5793,6 @@ glossiphonia
 gimmaled
 glossiphonidae
 ganglioneuron
-galvanomagnet
 glossitis
 guttule
 ghillies
@@ -10317,6 +10316,7 @@ guaiacol
 gladii
 gigsman
 grapsidae
+galvanomagnet
 geonyctinastic
 guarantee
 ganglioneure
