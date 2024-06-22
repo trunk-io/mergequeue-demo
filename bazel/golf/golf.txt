@@ -3073,7 +3073,6 @@ genii
 gorra
 gutterling
 globulins
-glutition
 gastromyces
 glumal
 geometridae
@@ -5612,6 +5611,7 @@ globigerinae
 granuloma
 goshenite
 guarnerius
+glutition
 globigerinas
 gaminish
 greens
