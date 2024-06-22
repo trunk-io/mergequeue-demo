@@ -4792,7 +4792,6 @@ enterotomy
 excusatory
 encloud
 encode
-existible
 encoded
 ensnarements
 encoding
@@ -6105,6 +6104,7 @@ extrema
 enochic
 erythrolitmin
 extensively
+existible
 enlightenment
 enlightens
 eunomianism
