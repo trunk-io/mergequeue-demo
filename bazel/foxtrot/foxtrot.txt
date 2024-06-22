@@ -5925,6 +5925,7 @@ fermis
 fluviovolcanic
 fatstock
 flybane
+foveola
 freyr
 factitude
 ferrary
@@ -8927,7 +8928,6 @@ fertilizability
 fourche
 fiacre
 feverwort
-foveola
 favositoid
 forewoman
 fourier
