@@ -16364,6 +16364,7 @@ clypeiform
 clypeola
 clypeolar
 clypeus
+cyanomethaemoglobin
 clippable
 clipped
 clippers
@@ -24385,7 +24386,6 @@ cookroom
 caverning
 caritas
 cookshop
-cyanomethaemoglobin
 cookshops
 cards
 cookstove
