@@ -8408,7 +8408,6 @@ chalklike
 chalkline
 chalkone
 chalkos
-cavitates
 chalkotheke
 chalkpit
 chalkrail
@@ -25560,6 +25559,7 @@ coronado
 coronados
 coronae
 chambul
+cavitates
 coronagraph
 coronal
 cataphonics
