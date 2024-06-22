@@ -1212,7 +1212,6 @@ elsa
 eater
 ecphory
 eidology
-editorializer
 editorializers
 enation
 editorializes
@@ -2305,6 +2304,7 @@ etnas
 exurbias
 electrifying
 expert
+editorializer
 equilibrity
 electrine
 exterminations
