@@ -494,6 +494,7 @@ calendaric
 cadences
 cadencies
 cadencing
+choosableness
 cadenette
 cadent
 corregidores
@@ -11872,7 +11873,6 @@ choop
 coasted
 choora
 concausal
-choosableness
 chatelet
 catamountain
 cycloidal
