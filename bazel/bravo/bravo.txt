@@ -4915,6 +4915,7 @@ bomarea
 beechwood
 bright
 belaud
+blackeyes
 buphthalmic
 biguttate
 bobac
@@ -10252,7 +10253,6 @@ blackey
 becco
 bellhanger
 blackeye
-blackeyes
 blackener
 billette
 bestubble
