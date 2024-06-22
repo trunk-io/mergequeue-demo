@@ -12607,6 +12607,7 @@ aneuploid
 aneuploidy
 aneuric
 aneurilemmic
+avoidance
 aleuron
 arrayan
 abrotin
@@ -24809,7 +24810,6 @@ alcoholization
 avoid
 avoidable
 avoidably
-avoidance
 aimfully
 avoidant
 anginoid
