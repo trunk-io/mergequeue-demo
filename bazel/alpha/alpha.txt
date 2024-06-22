@@ -1596,6 +1596,7 @@ amatorian
 accouche
 accouchement
 accoucheur
+appositions
 accoucheuses
 accountability
 arclength
@@ -24454,7 +24455,6 @@ autostethoscope
 aurotellurite
 autotriploidy
 axlesmith
-appositions
 autotrophic
 autotropic
 autotruck
