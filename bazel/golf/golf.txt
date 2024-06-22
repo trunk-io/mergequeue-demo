@@ -4360,7 +4360,6 @@ garganeys
 gingely
 gushers
 goblets
-gravitate
 gyrostabilizer
 girse
 grubless
@@ -10135,6 +10134,7 @@ grano
 guffawed
 geodetical
 gavelled
+gravitate
 gamy
 glia
 guffawing
