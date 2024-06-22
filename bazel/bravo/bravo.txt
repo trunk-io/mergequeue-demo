@@ -2525,6 +2525,7 @@ bardash
 bicycles
 borscht
 barghests
+boccia
 beslash
 bassetite
 barguest
@@ -11866,7 +11867,6 @@ bocce
 bugbears
 beefheaded
 bocces
-boccia
 benefactrixes
 boccias
 boccie
