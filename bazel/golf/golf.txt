@@ -3188,6 +3188,7 @@ glycans
 geraniaceae
 geotherm
 gelatinobromide
+gasproof
 gymnoglossa
 gamostelic
 gingelies
@@ -7243,7 +7244,6 @@ gorry
 gavelman
 glassblowing
 grouplet
-gasproof
 gent
 ginsengs
 gladstonian
