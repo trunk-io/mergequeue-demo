@@ -5777,7 +5777,6 @@ greedier
 glossemes
 grandnephews
 glossemic
-glossers
 glossy
 glaciometer
 goniatitoid
@@ -8597,6 +8596,7 @@ gonocalycine
 grebe
 glycohaemia
 glossopalatine
+glossers
 galvanising
 graminifolious
 granter
