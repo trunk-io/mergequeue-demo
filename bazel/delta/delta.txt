@@ -4345,7 +4345,6 @@ disputatious
 delthyrial
 disilane
 duncan
-deltic
 destructible
 deltidia
 dineros
@@ -6927,6 +6926,7 @@ desmoncus
 dragnet
 desmoneoplasm
 deadflat
+deltic
 desmopathy
 derivative
 desmopathology
