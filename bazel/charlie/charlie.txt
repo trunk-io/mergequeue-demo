@@ -7376,7 +7376,6 @@ chemoautotrophic
 condurrite
 cephalate
 coverts
-cephalemia
 cephaletron
 cephalhematoma
 cephalic
@@ -21908,6 +21907,7 @@ confer
 counterpanes
 chastisement
 cuspated
+cephalemia
 conferee
 conference
 conferences
