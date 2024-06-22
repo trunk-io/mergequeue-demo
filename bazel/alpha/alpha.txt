@@ -9464,7 +9464,6 @@ amasty
 altamira
 altar
 altarage
-altared
 allodies
 altarpieces
 altars
@@ -23660,6 +23659,7 @@ aurore
 aurorian
 aurorium
 antifoggant
+altared
 aurothiosulphate
 ashkenazic
 additionally
