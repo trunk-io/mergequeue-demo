@@ -1372,6 +1372,7 @@ accentuates
 accentus
 accept
 acceptability
+amintor
 acceptable
 acceptance
 aggressions
@@ -15576,7 +15577,6 @@ antimodern
 alimentatively
 antimodernist
 antimodernistic
-amintor
 abstractiveness
 antimodernly
 alans
