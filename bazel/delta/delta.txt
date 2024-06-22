@@ -7550,6 +7550,7 @@ dur
 diarrheic
 destroyable
 degger
+durdum
 dioxin
 diomedea
 dictatorial
@@ -16525,7 +16526,6 @@ dictated
 dethroning
 draftier
 draftiest
-durdum
 diakinetic
 decorticating
 dithiol
