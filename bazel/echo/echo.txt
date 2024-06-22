@@ -4167,6 +4167,7 @@ eclegm
 extracranial
 energids
 empoisoned
+embryonated
 externum
 encaustes
 etherol
@@ -6128,7 +6129,6 @@ elaterometer
 emancipatory
 elephantiases
 embelia
-embryonated
 enologies
 estamene
 eurodollar
