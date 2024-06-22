@@ -2990,7 +2990,6 @@ ganymede
 gusts
 gladen
 geodynamic
-geodynamics
 guilt
 gurkha
 grebes
@@ -7751,6 +7750,7 @@ greasily
 goosishly
 gantleting
 glassless
+geodynamics
 grayest
 gymnoplast
 greasiest
