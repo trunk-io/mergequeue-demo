@@ -3578,6 +3578,7 @@ bathysphere
 bathythermogram
 bathythermograph
 bathkol
+bipartite
 barbar
 bathmat
 bathmats
@@ -15612,7 +15613,6 @@ britisher
 britishhood
 britishism
 boultell
-bipartite
 bodenbenderite
 beclatter
 britons
