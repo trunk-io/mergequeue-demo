@@ -1369,7 +1369,6 @@ accentuated
 accension
 agapanthus
 accentuates
-accentus
 accept
 acceptability
 amintor
@@ -16505,6 +16504,7 @@ ants
 antsier
 antsiest
 aground
+accentus
 agisms
 antsigne
 antthrush
