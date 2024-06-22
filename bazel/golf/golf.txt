@@ -5714,7 +5714,6 @@ glomerule
 gaduin
 geomorphogeny
 galapee
-gloomed
 grunth
 gloomily
 goatbrush
@@ -10211,6 +10210,7 @@ glared
 grivet
 goldurnedest
 goldhead
+gloomed
 guido
 glaucium
 gladiolar
