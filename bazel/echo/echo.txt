@@ -7306,7 +7306,6 @@ eolopiles
 exsector
 eolotropic
 expressively
-extraenteric
 eon
 echoless
 electrocatalytic
@@ -12944,6 +12943,7 @@ electromagnetist
 endotherm
 epistemophilia
 entotic
+extraenteric
 epitonion
 enhardy
 expectancies
