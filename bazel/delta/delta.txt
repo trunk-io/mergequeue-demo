@@ -4179,7 +4179,6 @@ dihybrid
 delimitating
 delimitation
 delimiter
-disorganic
 delimiting
 displumed
 diphyletic
@@ -17213,6 +17212,7 @@ driveable
 deermeat
 disgustingness
 decumbence
+disorganic
 demitasse
 drivebolt
 driveled
