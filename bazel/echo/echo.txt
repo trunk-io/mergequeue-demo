@@ -2665,7 +2665,6 @@ evil
 entermise
 exciples
 electrostriction
-elinvar
 expectant
 electrosurgery
 elve
@@ -13573,6 +13572,7 @@ extensionless
 extemporizes
 electrotheraputics
 euskara
+elinvar
 extended
 etym
 emamelware
