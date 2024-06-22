@@ -5632,7 +5632,6 @@ cataloon
 catalos
 chortled
 catalpa
-catalpas
 catalufa
 catalufas
 catamarcan
@@ -29875,6 +29874,7 @@ crossed
 crossers
 crosses
 crossest
+catalpas
 crossette
 crossfall
 crossfertilizable
