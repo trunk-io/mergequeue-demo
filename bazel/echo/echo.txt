@@ -9833,7 +9833,6 @@ ecostate
 easterner
 essexite
 enact
-eval
 electrovalency
 essoined
 exfoliated
@@ -12909,6 +12908,7 @@ epithymetic
 endostylar
 ethnographical
 effluvias
+eval
 earstones
 electropuncturing
 epinine
