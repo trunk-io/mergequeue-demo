@@ -8703,7 +8703,6 @@ almes
 alternationist
 allelomorphic
 allelomorphism
-allelopathy
 allelotropy
 allelotropic
 allelotropism
@@ -19829,6 +19828,7 @@ acrosticheae
 arythmic
 arythmical
 anteprandial
+allelopathy
 ascriptive
 allopathy
 arithmocratic
