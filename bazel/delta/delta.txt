@@ -1624,6 +1624,7 @@ dimetrodon
 delineates
 deodate
 dodecastyle
+domify
 disseizee
 dealkalize
 dealkylate
@@ -2060,7 +2061,6 @@ devotion
 diarial
 dimedon
 debilities
-domify
 decaying
 diety
 dummy
