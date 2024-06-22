@@ -11081,7 +11081,6 @@ achromatized
 amperian
 attenuation
 amperometer
-amperometric
 asswage
 ampersand
 ampersands
@@ -12147,6 +12146,7 @@ arachnidium
 actional
 autohemotherapy
 acetification
+amperometric
 anthrone
 anattos
 anatum
