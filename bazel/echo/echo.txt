@@ -6633,7 +6633,6 @@ enterocyst
 eolienne
 embuskin
 eschara
-estuate
 entreating
 excitory
 enterocleisis
@@ -12353,6 +12352,7 @@ evectant
 exertion
 expatiator
 exertionless
+estuate
 emictory
 exertions
 exertive
