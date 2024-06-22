@@ -1498,7 +1498,6 @@ follyproof
 flukes
 foxily
 fungillus
-ferocity
 franking
 faucre
 frantic
@@ -10445,6 +10444,7 @@ fleet
 frontstall
 forstall
 featurish
+ferocity
 flaxtail
 frontwards
 fragrant
