@@ -12037,7 +12037,6 @@ choriocarcinomas
 choriocele
 corked
 chorioepithelioma
-chorioepitheliomas
 corregidor
 covens
 chorioepitheliomata
@@ -28279,6 +28278,7 @@ crashing
 crashingly
 crashproof
 crashworthiness
+chorioepitheliomas
 craspedal
 craspedodromous
 campodeidae
