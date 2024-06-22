@@ -3300,6 +3300,7 @@ glent
 grabbable
 glosseme
 gemless
+gula
 glycic
 gabback
 geneticists
@@ -8247,7 +8248,6 @@ grappling
 graptolitha
 gheraoed
 gravecloth
-gula
 gibers
 graspingly
 gleets
