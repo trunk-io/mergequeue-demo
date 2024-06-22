@@ -7302,7 +7302,6 @@ bestows
 burgee
 briary
 breaching
-bestraddle
 blades
 beveled
 bestraddled
@@ -8146,6 +8145,7 @@ boatsmanship
 bick
 belemnitidae
 brainwashes
+bestraddle
 bicycler
 bisiliac
 breislakite
