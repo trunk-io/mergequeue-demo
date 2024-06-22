@@ -1920,7 +1920,6 @@ guan
 gauderies
 grided
 grails
-grewhound
 grievers
 gelignite
 golland
@@ -8854,6 +8853,7 @@ geronto
 glauconitic
 gressorious
 graftage
+grewhound
 gentman
 gasworker
 gobang
