@@ -4695,6 +4695,7 @@ foundries
 fjord
 fancify
 funder
+feudality
 fizziest
 fluidram
 forlese
@@ -10094,7 +10095,6 @@ fleyed
 fifteen
 forwardness
 frisette
-feudality
 frisettes
 filicic
 fiercly
