@@ -4669,7 +4669,6 @@ glossae
 gillhooter
 glycose
 guilder
-gyroceran
 golliwogg
 gorkhali
 gyrocompasses
@@ -9183,6 +9182,7 @@ greenth
 glutaeous
 gamey
 gauge
+gyroceran
 groomish
 gristlier
 grazingly
