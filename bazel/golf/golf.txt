@@ -484,7 +484,6 @@ geochronological
 girkin
 groten
 gelatin
-genes
 gallants
 glozingly
 galyacs
@@ -6755,6 +6754,7 @@ gigs
 gonidial
 gonidic
 goodby
+genes
 gambled
 gauges
 googols
