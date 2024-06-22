@@ -1746,7 +1746,6 @@ feastraw
 feather
 frescoist
 foreordainment
-frustule
 featherbedded
 finned
 fistulana
@@ -3284,6 +3283,7 @@ feoffors
 ferroinclave
 favor
 flairs
+frustule
 faceoff
 fifteenthly
 fomenting
