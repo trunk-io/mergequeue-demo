@@ -11865,7 +11865,6 @@ chondrostei
 cytosine
 chondrosternal
 chondrotomy
-chondrus
 chonk
 calfhood
 counterdefender
@@ -27800,6 +27799,7 @@ chaetopterin
 coxcombhood
 coxcomby
 coxcombic
+chondrus
 cordleaf
 cenosite
 coxcombity
