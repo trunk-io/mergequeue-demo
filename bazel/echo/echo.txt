@@ -5197,6 +5197,7 @@ endogenies
 endogenous
 essive
 endogenously
+eburnation
 electo
 embroider
 endoglobular
@@ -9847,7 +9848,6 @@ euphrates
 expenthesis
 enzygotic
 epiphysary
-eburnation
 electroplate
 estable
 establishable
