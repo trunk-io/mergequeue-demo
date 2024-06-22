@@ -5953,7 +5953,6 @@ cathection
 cathects
 courtezanship
 cathedra
-cuneocuboid
 cathedraled
 cathedralesque
 cavorter
@@ -30556,6 +30555,7 @@ cubododecahedral
 concarnation
 cuboid
 cuboidal
+cuneocuboid
 caldera
 cuboides
 cuboids
