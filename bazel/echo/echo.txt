@@ -1186,7 +1186,6 @@ everbloomer
 erinite
 edwina
 edit
-editable
 elatrometer
 electrotypes
 epicaridea
@@ -13704,6 +13703,7 @@ extincting
 expostulate
 enamellist
 endosarcous
+editable
 expt
 encephalomeningitis
 extinctionist
