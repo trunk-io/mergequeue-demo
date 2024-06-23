@@ -9988,7 +9988,6 @@ bitsy
 brotherly
 bitstock
 beasties
-bitstocks
 besmirches
 bitstone
 battled
@@ -16176,6 +16175,7 @@ brothels
 breweries
 bibliomanianism
 bistorta
+bitstocks
 borrowing
 brothering
 brotherred
