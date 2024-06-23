@@ -5609,7 +5609,6 @@ apastron
 afterturn
 armory
 arosaguntacook
-artisans
 aphototaxis
 aboudikro
 aftervision
@@ -24694,6 +24693,7 @@ aves
 acephalia
 arised
 avesta
+artisans
 administrationist
 aveugle
 avg
