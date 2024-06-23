@@ -7453,7 +7453,6 @@ bethwack
 betided
 betides
 bego
-broadswords
 brazilin
 boluses
 betiding
@@ -16352,6 +16351,7 @@ brulee
 brules
 beduins
 beknottedness
+broadswords
 brulzies
 brumaire
 brumbie
