@@ -10418,6 +10418,7 @@ chiefage
 chiefdoms
 carotic
 chiefery
+cyatholith
 chiefest
 chiefish
 cytisus
@@ -13133,7 +13134,6 @@ conational
 cyathia
 countrypeople
 cyathiform
-cyatholith
 connivent
 cyathophyllidae
 cyathophylloid
