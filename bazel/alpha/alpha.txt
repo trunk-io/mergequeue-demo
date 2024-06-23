@@ -9719,7 +9719,6 @@ accidie
 alveoliform
 aduncated
 alveolite
-alveolitis
 angelographer
 autophobia
 alveololabial
@@ -22255,6 +22254,7 @@ astringed
 apostolici
 antipoints
 astringents
+alveolitis
 astringer
 astringes
 apothegm
