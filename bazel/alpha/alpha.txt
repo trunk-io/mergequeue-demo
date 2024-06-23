@@ -14382,7 +14382,6 @@ anthology
 anthological
 anthologically
 anthologies
-anthologise
 animates
 autobiographies
 asphyxiates
@@ -20316,6 +20315,7 @@ arriero
 arriet
 austerity
 arrimby
+anthologise
 aphides
 akasha
 arriswise
