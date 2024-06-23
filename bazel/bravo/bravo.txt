@@ -5974,7 +5974,6 @@ broadpiece
 brontothere
 blueweeds
 buffaloes
-belowstairs
 belsire
 beltane
 belauding
@@ -10986,6 +10985,7 @@ blickie
 blickies
 blighia
 britskas
+belowstairs
 bloodlike
 blight
 blightbird
