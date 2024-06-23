@@ -5363,7 +5363,6 @@ begnaw
 biharmonic
 bluely
 balmy
-begnawed
 budgero
 ballroom
 begone
@@ -8821,6 +8820,7 @@ boiko
 bilos
 biloxi
 bilsh
+begnawed
 bumpingly
 bitumen
 bilsteds
