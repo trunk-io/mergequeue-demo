@@ -19155,7 +19155,6 @@ agritos
 amendable
 aetheogam
 archpresbytery
-archpretender
 archpriest
 archpriestship
 archprimate
@@ -22092,6 +22091,7 @@ ailantery
 abjudge
 argute
 alcavala
+archpretender
 asthenia
 articulateness
 audiograms
