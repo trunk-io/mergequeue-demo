@@ -2401,7 +2401,6 @@ barcoo
 behypocrite
 bard
 bardcraft
-balate
 barde
 beleve
 buckhorn
@@ -10976,6 +10975,7 @@ bouncers
 bhikku
 blethe
 bromomethane
+balate
 blethered
 bletilla
 bronteum
