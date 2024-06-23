@@ -1790,7 +1790,6 @@ gootee
 gilim
 glandula
 gagroot
-gastropod
 gingery
 gynopara
 grackle
@@ -6637,6 +6636,7 @@ gleditsia
 gascon
 gandoura
 goumier
+gastropod
 gideonite
 ghettos
 glottalization
