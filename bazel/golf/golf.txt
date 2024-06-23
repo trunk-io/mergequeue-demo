@@ -3104,6 +3104,7 @@ gerbils
 gooseflesh
 gamelin
 genepi
+glom
 gangliate
 gerate
 gaoler
@@ -9164,7 +9165,6 @@ grippleness
 grazier
 gunyah
 gryllotalpa
-glom
 griqualander
 geminis
 gleaning
