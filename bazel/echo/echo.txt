@@ -1347,7 +1347,6 @@ effaced
 enteron
 ectocuneiform
 elliptical
-elopement
 effacers
 effare
 exumbrellar
@@ -12995,6 +12994,7 @@ engrossment
 exotropism
 evocativeness
 expediente
+elopement
 entice
 epopee
 erminites
