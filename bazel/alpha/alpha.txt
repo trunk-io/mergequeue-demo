@@ -1576,7 +1576,6 @@ accorder
 accordingly
 accordion
 accordionist
-altica
 accordionists
 albuminocholia
 autoportrait
@@ -16572,6 +16571,7 @@ aoli
 aonach
 aonian
 asphyxy
+altica
 aorist
 asitia
 afterhand
