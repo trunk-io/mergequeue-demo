@@ -1626,6 +1626,7 @@ deodate
 dodecastyle
 domify
 disseizee
+diatomaceous
 dealkalize
 dealkylate
 daundered
@@ -8823,7 +8824,6 @@ diathesis
 diatoma
 diatomaceae
 din
-diatomaceous
 deboning
 doorframe
 domelike
