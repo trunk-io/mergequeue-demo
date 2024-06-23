@@ -10733,7 +10733,6 @@ chimleys
 calciclase
 chytridial
 cantharidated
-chimneyhead
 chalk
 chimneyless
 chimneylike
@@ -21655,6 +21654,7 @@ condescensively
 condescensiveness
 condescent
 cocciform
+chimneyhead
 calcaneofibular
 condiction
 condictious
