@@ -1173,6 +1173,7 @@ bakal
 biasteric
 bake
 brew
+buoys
 brawliest
 breth
 bonus
@@ -5595,7 +5596,6 @@ bekiss
 bekissed
 bangy
 bekisses
-buoys
 bekko
 blowdown
 befoolment

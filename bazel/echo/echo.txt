@@ -9565,7 +9565,6 @@ escrow
 exostracize
 escrowing
 exceptio
-escudero
 exchangeable
 esculents
 esculin
@@ -11132,6 +11131,7 @@ emulated
 eutaenia
 eutannin
 ergotinine
+escudero
 everness
 equipotent
 endimanche
