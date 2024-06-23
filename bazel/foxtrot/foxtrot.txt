@@ -3489,6 +3489,7 @@ frogmouth
 fightable
 fingerable
 foreseason
+fallback
 fighteress
 fighting
 formboard
@@ -4948,7 +4949,6 @@ fictileness
 flamer
 flamers
 flubbing
-fallback
 flamethrowers
 frankpledge
 flamy
