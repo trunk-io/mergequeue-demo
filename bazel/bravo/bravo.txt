@@ -367,7 +367,6 @@ backhaul
 backhauls
 bossy
 backhoe
-backhoes
 boobies
 backhooker
 backhouses
@@ -1911,6 +1910,7 @@ bandogs
 barken
 bandoleer
 burlesquely
+backhoes
 bumf
 bandoleers
 bivalent
