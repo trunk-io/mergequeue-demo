@@ -7389,7 +7389,6 @@ cufflink
 cephalocercal
 cushlamochree
 cephalochord
-cephalochorda
 cowmen
 cephalochordal
 cephalochordata
@@ -9708,6 +9707,7 @@ cheesed
 caramba
 cheeselep
 cheeselip
+cephalochorda
 cheesemaker
 cheesemaking
 cheesemongery
