@@ -1541,6 +1541,7 @@ gaslights
 gardenhood
 groose
 gnathopoda
+glimpsers
 gharry
 gasmaker
 guaxima
@@ -2751,7 +2752,6 @@ grenades
 gigabits
 gillot
 genizero
-glimpsers
 gasan
 gumshoes
 glumiferous
