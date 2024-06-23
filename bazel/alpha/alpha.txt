@@ -4709,7 +4709,6 @@ askile
 aegrotat
 acroterion
 abush
-adjectivism
 aetheling
 antedawn
 aeluroid
@@ -20966,6 +20965,7 @@ ascaridol
 archeologian
 affects
 ascarids
+adjectivism
 alpinist
 ascaron
 ascelli
