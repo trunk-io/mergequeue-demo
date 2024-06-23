@@ -3501,7 +3501,6 @@ gestning
 gentiin
 gestural
 gallimaufries
-gestureless
 glassy
 grosbeak
 gluier
@@ -7627,6 +7626,7 @@ glycuresis
 gatecrasher
 gradatively
 grafts
+gestureless
 goldbricks
 gleaminess
 geospiza
