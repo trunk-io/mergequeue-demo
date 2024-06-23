@@ -5994,7 +5994,6 @@ coherency
 cathodegraph
 comique
 cathodes
-cathodic
 cuckstool
 cathodical
 cathodically
@@ -16477,6 +16476,7 @@ cloakage
 cloakedly
 corsned
 cloaklet
+cathodic
 culbert
 cowichan
 citrange
