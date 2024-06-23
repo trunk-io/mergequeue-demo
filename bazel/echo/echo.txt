@@ -993,6 +993,7 @@ escadrille
 extravagated
 ectromelus
 equipping
+excludes
 ectropion
 ectropionization
 ectropionize
@@ -12002,7 +12003,6 @@ exclaves
 excavational
 expensed
 everyone
-excludes
 exampleship
 exclusion
 eigenspace
