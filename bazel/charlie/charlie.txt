@@ -11555,7 +11555,6 @@ choristoma
 choirman
 colonizations
 campuses
-ceratitoid
 choirmasters
 cornaceous
 classmen
@@ -22675,6 +22674,7 @@ counterpleading
 cabinets
 connotate
 connotation
+ceratitoid
 connotations
 connotative
 connotatively
