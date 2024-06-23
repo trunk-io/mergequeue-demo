@@ -3743,7 +3743,6 @@ barrace
 buhr
 brahui
 battlesome
-brahmany
 brigantes
 bimestrial
 boatfalls
@@ -7749,6 +7748,7 @@ biennium
 botswana
 bezazzes
 becloaking
+brahmany
 boe
 bezesteen
 bosky
