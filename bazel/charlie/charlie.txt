@@ -7881,7 +7881,6 @@ cervantite
 cruor
 cervelats
 coruscation
-cerveliere
 coronatorial
 cervicapra
 cuselite
@@ -28113,6 +28112,7 @@ collusion
 crane
 craned
 chips
+cerveliere
 ching
 cranelike
 cautionry
