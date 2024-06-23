@@ -2769,7 +2769,6 @@ fictionize
 frankfold
 fessed
 foldouts
-foresentence
 fragmentarily
 fellinic
 fesses
@@ -11607,6 +11606,7 @@ fusions
 flagellums
 fusobacteria
 foliolose
+foresentence
 fussbudget
 fussbudgety
 faradises

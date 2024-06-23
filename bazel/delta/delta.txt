@@ -8541,7 +8541,6 @@ deciares
 demioctagonal
 diametral
 diametric
-diametrical
 diamicton
 diamide
 diamides
@@ -16807,6 +16806,7 @@ drawee
 disboscation
 datto
 drawerful
+diametrical
 delaines
 dominee
 dey
