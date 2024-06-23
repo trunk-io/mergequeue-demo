@@ -4298,7 +4298,6 @@ equidistantial
 emacerated
 effluxes
 evertebrata
-env
 enacts
 emulsoids
 enteropathogenic
@@ -4349,6 +4348,7 @@ eloquence
 elacolite
 etude
 enameling
+env
 exclaustration
 enamelist
 enamelless
