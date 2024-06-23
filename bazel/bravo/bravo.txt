@@ -6834,6 +6834,7 @@ bellmaker
 bin
 berserks
 berskin
+balize
 berhyme
 bert
 bugshas
@@ -15330,7 +15331,6 @@ bandylegged
 blisterwort
 boisterously
 brieflessly
-balize
 besieges
 briefly
 briefness
