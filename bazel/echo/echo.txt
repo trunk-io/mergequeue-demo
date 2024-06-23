@@ -1151,7 +1151,6 @@ endothelial
 edictal
 edictally
 edictum
-edicule
 epistolic
 echolalia
 edificate
@@ -12923,6 +12922,7 @@ ey
 erigible
 expatriate
 expatriating
+edicule
 enthusiastic
 escalado
 expatriatism
