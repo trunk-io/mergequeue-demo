@@ -3495,7 +3495,6 @@ adduce
 adduceable
 agisting
 adduced
-adducent
 abeyances
 aragonese
 abrenunciate
@@ -17482,6 +17481,7 @@ apostrophizing
 apostrophus
 apotactic
 apotactici
+adducent
 apotactite
 agriculturalist
 aillt
