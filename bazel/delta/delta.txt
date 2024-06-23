@@ -8529,7 +8529,6 @@ disreason
 dredging
 diamant
 deflexed
-diestrus
 ditrochee
 diamantoid
 daimonology
@@ -16736,6 +16735,7 @@ drapability
 dimedone
 drape
 draped
+diestrus
 disharmonized
 dolichocephaly
 draperied
