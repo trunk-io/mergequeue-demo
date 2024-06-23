@@ -2370,7 +2370,6 @@ griffinish
 goodnesses
 gibbartas
 galopin
-geldesprung
 geldings
 gorgets
 grovelings
@@ -9628,6 +9627,7 @@ guisarme
 gufought
 gracileness
 gastromalacia
+geldesprung
 goosewinged
 genson
 guacico
