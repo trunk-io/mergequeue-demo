@@ -7917,7 +7917,6 @@ crotchy
 cervicoscapular
 cervicothoracic
 cervicovesical
-cervid
 cervinae
 cosignatory
 cervixes
@@ -26741,6 +26740,7 @@ counterattack
 capellane
 counterattacked
 cyclamate
+cervid
 counterattacker
 caenogenetically
 counterattestation

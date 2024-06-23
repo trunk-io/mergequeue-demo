@@ -2186,7 +2186,6 @@ entrances
 epizoan
 elbowy
 elbowpiece
-elbowroom
 elbows
 elcaja
 epimerum
@@ -2992,6 +2991,7 @@ electing
 efflorescence
 eliot
 eliphalet
+elbowroom
 ethicalness
 excrementize
 eviscerate
