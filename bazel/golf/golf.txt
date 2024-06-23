@@ -1413,7 +1413,6 @@ ganodonta
 guaycuruan
 garnishes
 glossanthrax
-glenlike
 garnison
 garniture
 gagor
@@ -8947,6 +8946,7 @@ galingale
 groundwards
 griff
 gigant
+glenlike
 glutamine
 gossiper
 gynaeolatry
