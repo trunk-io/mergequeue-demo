@@ -10771,7 +10771,6 @@ footsoldiers
 fudge
 frumety
 fubbed
-fortissimos
 fubbery
 filamentoid
 fubsy
@@ -11411,6 +11410,7 @@ furnish
 furnishable
 fluoroformol
 foolship
+fortissimos
 frontirostria
 fissirostral
 flushness
