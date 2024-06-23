@@ -5517,6 +5517,7 @@ catabolize
 catabolized
 claim
 crevalles
+counterwrite
 congaing
 catachreses
 catachresis
@@ -27274,7 +27275,6 @@ counterwitness
 counterwork
 counterworker
 counterworking
-counterwrite
 committee
 countfish
 counties
