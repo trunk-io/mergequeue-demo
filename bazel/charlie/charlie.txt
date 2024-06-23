@@ -2995,7 +2995,6 @@ clairschach
 conversus
 cantino
 cantion
-cantish
 cantles
 cantlet
 cantline
@@ -16610,6 +16609,7 @@ carburization
 coltish
 cosmopathic
 cloisterliness
+cantish
 capsules
 cloisters
 cloisterwise
