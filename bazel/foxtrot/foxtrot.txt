@@ -4933,6 +4933,7 @@ formly
 flitch
 forwards
 fchar
+foining
 fourteens
 fractabling
 flamen
@@ -6750,7 +6751,6 @@ foyboat
 foyer
 flamming
 foil
-foining
 fittest
 foiningly
 fluorescin
