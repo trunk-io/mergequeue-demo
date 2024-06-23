@@ -14603,7 +14603,6 @@ brander
 branders
 brandy
 brandyball
-bacterioid
 brosy
 bitty
 brandied
@@ -16839,6 +16838,7 @@ blaffert
 buffa
 buffability
 brumbee
+bacterioid
 buffable
 buffalo
 buffaloback
