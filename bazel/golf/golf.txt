@@ -8153,7 +8153,6 @@ grapery
 gyms
 gnapweed
 graperoot
-ganisters
 gem
 grapes
 grapeskin
@@ -10299,6 +10298,7 @@ gumbos
 gab
 grunerite
 gempylid
+ganisters
 gutturalization
 gil
 groaningly
