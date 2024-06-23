@@ -1756,7 +1756,6 @@ foreshore
 fuzztail
 foresaddle
 feathercut
-falconiformes
 fibropsammoma
 frailero
 famatinite
@@ -2398,6 +2397,7 @@ ferfel
 ferforth
 frapped
 fooleries
+falconiformes
 frogling
 fucivorous
 frowzly
