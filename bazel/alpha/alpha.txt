@@ -9669,6 +9669,7 @@ aluminums
 alohas
 alumish
 alumite
+appurtenance
 adagio
 autolith
 anticonvulsant
@@ -18092,7 +18093,6 @@ aeonian
 alemonger
 attack
 appunctuation
-appurtenance
 agt
 agnomination
 arnatta
