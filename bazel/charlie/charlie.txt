@@ -12532,7 +12532,6 @@ chromogenous
 chromoisomer
 chromoisomeric
 chamaenerion
-chromoisomerism
 chromoleucite
 chromolipoid
 clayen
@@ -25337,6 +25336,7 @@ counterscale
 cornbind
 cricking
 crosspieces
+chromoisomerism
 cornbinks
 coidentity
 cornbird
