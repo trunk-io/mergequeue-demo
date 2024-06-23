@@ -2118,7 +2118,6 @@ blaw
 booms
 bay
 bradoons
-beggiatoa
 borofluoride
 bantayan
 buckshots
@@ -17423,6 +17422,7 @@ bungos
 bungstarter
 boyla
 bichromic
+beggiatoa
 bungtown
 bungwall
 breeding
