@@ -2924,6 +2924,7 @@ grid
 geol
 gladsomeness
 genethlialogic
+gillnet
 ganglionic
 gustavus
 gipser
@@ -7110,7 +7111,6 @@ goosiest
 gasterotrichan
 granger
 gambrels
-gillnet
 gopherberry
 glossate
 guernsey
