@@ -15664,7 +15664,6 @@ citigrade
 clues
 classism
 classists
-classless
 classlessness
 classmanship
 clive
@@ -20281,6 +20280,7 @@ commorth
 coachers
 commot
 commotions
+classless
 commove
 commoved
 conjectured
