@@ -4716,7 +4716,6 @@ ghafir
 galli
 gyroscopes
 gastroplenic
-gyrotheca
 girouettes
 gestes
 gyrous
@@ -4957,6 +4956,7 @@ goyim
 girderage
 gypping
 gladier
+gyrotheca
 graveled
 gladiola
 granatite
