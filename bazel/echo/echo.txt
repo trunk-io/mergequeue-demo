@@ -1344,7 +1344,6 @@ effable
 efface
 effaceable
 effaced
-enteron
 ectocuneiform
 elliptical
 effacers
@@ -8943,6 +8942,7 @@ ee
 eyecups
 epimorphism
 erethistic
+enteron
 equiprobable
 erewhile
 erewhiles
