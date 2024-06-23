@@ -17217,7 +17217,6 @@ coagulative
 coagulator
 coagulators
 chagrined
-coagule
 coagulin
 coaguline
 cestoidea
@@ -25654,6 +25653,7 @@ corporativism
 corporeal
 cirsotome
 corporealization
+coagule
 cochlea
 corporeally
 cravenhearted
