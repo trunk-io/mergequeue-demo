@@ -7829,7 +7829,6 @@ bespangles
 britten
 bathyscaphe
 buxerry
-bhikku
 bhikshu
 bhil
 bullan
@@ -10976,6 +10975,7 @@ brookable
 blessingly
 bider
 bouncers
+bhikku
 blethe
 bromomethane
 blethered
