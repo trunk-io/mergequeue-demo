@@ -8389,6 +8389,7 @@ formalities
 formalizable
 formalizations
 fictitiously
+freezingly
 felonsetter
 formalized
 formalizer
@@ -9678,7 +9679,6 @@ footmenfootpad
 filopodia
 fromage
 fletcher
-freezingly
 fregata
 frisolee
 fortitude
