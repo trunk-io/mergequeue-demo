@@ -73,7 +73,6 @@ flagships
 fighters
 flecken
 facellite
-frotteurs
 forementioned
 facemaker
 fordeal
@@ -4347,6 +4346,7 @@ fiscalized
 foresleeve
 friendlies
 fuliginously
+frotteurs
 fise
 forb
 fanfish
