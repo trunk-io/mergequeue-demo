@@ -44,7 +44,6 @@ brushable
 buffware
 babbit
 baton
-barflies
 barberish
 bacteriophobia
 ballonets
@@ -2994,6 +2993,7 @@ bullace
 bartholomewtide
 bartisan
 bartisans
+barflies
 borts
 branglement
 burgesses
