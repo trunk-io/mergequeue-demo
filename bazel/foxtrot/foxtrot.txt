@@ -2775,7 +2775,6 @@ fesse
 fictionize
 frankfold
 fessed
-foldouts
 fragmentarily
 fellinic
 fesses
@@ -5363,6 +5362,7 @@ fleabiting
 fido
 fledgeling
 fiendhead
+foldouts
 fauteuils
 fogman
 fledgiest
