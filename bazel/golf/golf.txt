@@ -2780,7 +2780,6 @@ genomic
 greeks
 genoms
 gasts
-genotypic
 galatotrophic
 greathead
 gunfire
@@ -9374,6 +9373,7 @@ granma
 griots
 gists
 grossest
+genotypic
 gesticulating
 glairing
 grosshead
