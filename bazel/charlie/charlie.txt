@@ -5185,6 +5185,7 @@ contek
 cashbooks
 caesural
 cambism
+cravo
 cavendish
 cambaye
 continuando
@@ -18240,7 +18241,6 @@ coextend
 coextends
 coextension
 creep
-cravo
 criniparous
 coextent
 cofactors
