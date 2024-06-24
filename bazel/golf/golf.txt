@@ -3198,6 +3198,7 @@ geosid
 geosphere
 guerilla
 gal
+growthful
 graylags
 guardiancy
 geotechnic
@@ -8540,7 +8541,6 @@ grazierdom
 graziers
 geobiologic
 glossagra
-growthful
 gravidate
 grassland
 gullied
