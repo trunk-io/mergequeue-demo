@@ -1287,7 +1287,6 @@ guib
 gesticulator
 ged
 garbologist
-geoaesthesia
 gearshift
 gladkaite
 gratten
@@ -8432,6 +8431,7 @@ geohydrologist
 geebong
 glisteningly
 glossotype
+geoaesthesia
 gobiesox
 gurgle
 gravely
