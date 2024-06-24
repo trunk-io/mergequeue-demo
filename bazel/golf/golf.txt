@@ -2842,7 +2842,6 @@ gyges
 gabelled
 guzmania
 gismos
-gunsman
 gomasta
 gyrovagi
 geebung
@@ -6707,6 +6706,7 @@ gekkota
 gonomery
 gongorist
 gild
+gunsman
 glitters
 geographized
 gonyalgia
