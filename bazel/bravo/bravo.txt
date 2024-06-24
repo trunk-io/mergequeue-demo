@@ -1617,7 +1617,6 @@ bestar
 brahms
 balloen
 ballone
-borderings
 bullbird
 ballones
 boiguacu
@@ -6506,6 +6505,7 @@ blanchers
 biostratigraphy
 beothuk
 bloomage
+borderings
 beothukan
 beowulf
 bellicose
