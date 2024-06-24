@@ -8621,6 +8621,7 @@ cestoda
 chancellery
 chancellorate
 chancelloress
+copybook
 chancellors
 chancellorship
 chancellorships
@@ -24604,7 +24605,6 @@ cogitativeness
 copiapite
 copyboy
 copyboys
-copybook
 cupelers
 cakehouse
 characinidae
