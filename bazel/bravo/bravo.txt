@@ -2418,7 +2418,6 @@ bardings
 becalms
 bardlike
 bardling
-bluestone
 brinks
 bilaterality
 banyoro
@@ -2661,6 +2660,7 @@ barly
 bellying
 bable
 barling
+bluestone
 bertholletia
 barghest
 basiliscus
