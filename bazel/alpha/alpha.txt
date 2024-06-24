@@ -2964,7 +2964,6 @@ atropism
 actinide
 archenteron
 actinidia
-actinidiaceae
 actiniferous
 axtree
 aulostomi
@@ -11846,6 +11845,7 @@ analogize
 appropriation
 analogon
 alodiary
+actinidiaceae
 analogous
 analogously
 aristocratically
