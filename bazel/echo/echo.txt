@@ -6457,6 +6457,7 @@ emulate
 ecotypic
 euphoniad
 exarchy
+exhalants
 eastern
 epitrophic
 electromyography
@@ -10907,7 +10908,6 @@ econometrics
 enologist
 excised
 epispadias
-exhalants
 emblazonment
 euphemisation
 euphemise
