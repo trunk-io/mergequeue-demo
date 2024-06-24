@@ -697,7 +697,6 @@ badderlocks
 baddest
 breathable
 baddie
-bearherd
 betimber
 brewage
 bathtubs
@@ -7027,6 +7026,7 @@ banditti
 beslap
 beslave
 beslime
+bearherd
 bedsite
 bestrid
 beslimes
