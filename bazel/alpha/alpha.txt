@@ -5451,7 +5451,6 @@ algometry
 afrikanderdom
 afrit
 adored
-anchors
 aulic
 agaces
 attuned
@@ -7266,6 +7265,7 @@ alangine
 arthrectomies
 alangium
 alani
+anchors
 alanin
 alanine
 auditive
