@@ -7236,7 +7236,6 @@ bestay
 burleys
 bestamp
 bestand
-bellical
 bestatued
 boba
 breme
@@ -12761,6 +12760,7 @@ bestowable
 boodles
 bedizened
 boogeymen
+bellical
 buhrs
 bec
 balkanized
