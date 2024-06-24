@@ -3338,6 +3338,7 @@ grids
 gove
 grubbers
 germfree
+glaumrie
 gullion
 grooverhead
 gerundial
@@ -10669,7 +10670,6 @@ gagmen
 gurglet
 gurgling
 galp
-glaumrie
 guardee
 gurgoyle
 gurgulio
