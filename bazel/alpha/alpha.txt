@@ -3189,7 +3189,6 @@ assident
 actuary
 aphis
 actuarian
-actuaryship
 actuating
 actuation
 actuator
@@ -12097,6 +12096,7 @@ antihumanist
 alidades
 alliances
 anatheme
+actuaryship
 ammoniac
 anatidae
 amidstream
