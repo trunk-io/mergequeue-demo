@@ -8394,7 +8394,6 @@ db
 dispossess
 droob
 dishmaking
-diagraph
 diagraphs
 diagredium
 diagrydium
@@ -17773,6 +17772,7 @@ ducdame
 defector
 duchan
 dextrorotatory
+diagraph
 distrouble
 duchesse
 dorsigrade
