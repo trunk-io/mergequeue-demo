@@ -2378,7 +2378,6 @@ fer
 firecoat
 fusibility
 foolmonger
-farriers
 featherstitching
 fideicommissary
 ferae
@@ -10323,6 +10322,7 @@ forleaving
 fervorlessness
 foofaraw
 flindersia
+farriers
 fingerleaf
 fingering
 flackery
