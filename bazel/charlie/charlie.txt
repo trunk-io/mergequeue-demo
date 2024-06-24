@@ -2908,6 +2908,7 @@ cantatas
 cantate
 cantation
 cantatrice
+coverts
 chestily
 cantboard
 chesteine
@@ -7364,7 +7365,6 @@ cocoonery
 chemoautotrophic
 condurrite
 cephalate
-coverts
 cephaletron
 cephalhematoma
 cephalic
