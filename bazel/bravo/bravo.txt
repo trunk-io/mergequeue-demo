@@ -7438,7 +7438,6 @@ bucktail
 bietle
 bethump
 bethumped
-bethwack
 betided
 betides
 bego
@@ -11587,6 +11586,7 @@ bromthymol
 budder
 blufter
 bluggy
+bethwack
 bluish
 bombload
 blumea
