@@ -9922,7 +9922,6 @@ chemokinetic
 chemolysis
 chemolytic
 cicero
-colpostat
 chemolyze
 chemopallidectomy
 chemopause
@@ -11460,6 +11459,7 @@ cheekier
 chlorosis
 chlorotically
 chlorotrifluoroethylene
+colpostat
 chlorous
 chlorozincate
 chlorpheniramine
