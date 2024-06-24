@@ -1614,7 +1614,6 @@ fadges
 flavobacterium
 freudianism
 favosely
-favosite
 frostbit
 favosites
 filmdoms
@@ -6302,6 +6301,7 @@ forceful
 fluidounce
 frass
 flower
+favosite
 fluigram
 filestatus
 frankincensed
