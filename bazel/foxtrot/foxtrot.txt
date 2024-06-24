@@ -63,6 +63,7 @@ fumaria
 facaded
 faceable
 flayers
+flintstone
 facebar
 facebow
 faced
@@ -10242,7 +10243,6 @@ forslack
 froghood
 finn
 frailer
-flintstone
 footles
 fanzines
 fibroadenia
