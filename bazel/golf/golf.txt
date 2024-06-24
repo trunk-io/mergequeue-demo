@@ -2755,7 +2755,6 @@ gryllidae
 graybeards
 grocer
 gelatigenous
-geniculum
 grounders
 gambols
 golfing
@@ -4146,6 +4145,7 @@ glovey
 gimleting
 gimlets
 gimmal
+geniculum
 gettysburg
 gargoyle
 gymmal
