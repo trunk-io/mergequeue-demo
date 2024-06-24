@@ -440,6 +440,7 @@ backscattering
 bandobust
 backscraper
 backset
+basename
 brushless
 brinjaree
 burgle
@@ -7285,7 +7286,6 @@ brazilians
 bur
 boundable
 bestiarian
-basename
 bestiarist
 bestirred
 basifacial
