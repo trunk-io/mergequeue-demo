@@ -853,7 +853,6 @@ baggala
 bagganet
 brassbound
 baggara
-brevis
 beseechingly
 beamsmen
 baggie
@@ -11688,6 +11687,7 @@ boa
 buteo
 boanbura
 brushite
+brevis
 boanerges
 boanergism
 bisontine
