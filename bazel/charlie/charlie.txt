@@ -9962,7 +9962,6 @@ cancers
 chemosurgery
 chemotactic
 cresylene
-chemotactically
 choochoo
 chemotaxy
 collocatory
@@ -17946,6 +17945,7 @@ coueism
 chantage
 coedit
 coedited
+chemotactically
 coediting
 coeditors
 chamberdeacon
