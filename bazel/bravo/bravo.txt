@@ -9653,7 +9653,6 @@ bogota
 backfilled
 birthright
 baffeta
-birthrights
 births
 bristletail
 birthstones
@@ -10189,6 +10188,7 @@ bokos
 burglarious
 bizones
 bergeret
+birthrights
 bizonia
 bizz
 bizzarro
