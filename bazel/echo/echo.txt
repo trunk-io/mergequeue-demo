@@ -1144,6 +1144,7 @@ expurgatory
 endothelial
 edictal
 edictally
+embeddable
 edictum
 epistolic
 echolalia
@@ -8830,7 +8831,6 @@ electrodepositable
 eradications
 erections
 eighteenmos
-embeddable
 etcetera
 energises
 electrocardiograms
