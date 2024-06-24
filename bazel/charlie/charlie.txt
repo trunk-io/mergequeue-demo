@@ -14711,6 +14711,7 @@ cypseline
 cystoidean
 cystoids
 cormophytic
+cryptogenous
 cystolith
 cystolithiasis
 cystolithic
@@ -29307,7 +29308,6 @@ cryptogamic
 cryptogamical
 cryptogamist
 cryptogenic
-cryptogenous
 cryptoglioma
 centeses
 custody
