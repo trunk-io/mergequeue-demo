@@ -852,6 +852,7 @@ baggagemaster
 baggager
 benzidin
 baggala
+bijouterie
 bagganet
 brassbound
 baggara
@@ -4244,7 +4245,6 @@ bauckiebird
 broker
 brl
 beaufet
-bijouterie
 belittling
 beaugregory
 bulbonuclear
