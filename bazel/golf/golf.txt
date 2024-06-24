@@ -7033,6 +7033,7 @@ gyromagnetic
 gorbet
 goops
 gentil
+glazier
 garnet
 grillade
 gormandise
@@ -10611,7 +10612,6 @@ goldenmouth
 gerbille
 greenockite
 gemelled
-glazier
 greillade
 goy
 glucaemia
