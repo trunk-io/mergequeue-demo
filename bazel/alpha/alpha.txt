@@ -4287,6 +4287,7 @@ adrenochrome
 adrenocortical
 adrenocorticotrophic
 ammonolysis
+afterstain
 albuminosis
 adrenocorticotropic
 adrenolysis
@@ -15728,7 +15729,6 @@ aquaphobia
 antipapistical
 antiparabema
 antiparagraphe
-afterstain
 assalto
 antirun
 aurothiosulphate
