@@ -6137,7 +6137,6 @@ benchman
 benchmar
 benchmark
 baryecoia
-banba
 beroll
 burnout
 benchmarks
@@ -10683,6 +10682,7 @@ blathery
 blackprint
 baretta
 blathers
+banba
 biomicroscopy
 bivinyls
 blatherskite
