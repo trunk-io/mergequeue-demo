@@ -1916,6 +1916,7 @@ bodiced
 bubonalgia
 bandog
 bandanas
+bergama
 bandogs
 barken
 bandoleer
@@ -6672,7 +6673,6 @@ berewick
 balkanizing
 banquettes
 bergall
-bergama
 bergamasca
 bergamasche
 bergamask
