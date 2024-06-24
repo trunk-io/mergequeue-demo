@@ -3812,7 +3812,6 @@ gonidia
 gein
 greyhound
 gavelage
-guideless
 gelatined
 goff
 greenbugs
@@ -7497,6 +7496,7 @@ gell
 governesses
 governing
 galvanotonic
+guideless
 gatelike
 governingly
 gaunted
