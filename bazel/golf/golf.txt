@@ -8940,6 +8940,7 @@ gantlines
 grievances
 gel
 gunrooms
+graphotypic
 grievous
 garotting
 gearbox
@@ -9463,7 +9464,6 @@ grocerly
 grapple
 glorified
 gasolinic
-graphotypic
 girgashite
 googul
 genteelness
