@@ -2933,7 +2933,6 @@ gynaeceum
 groggier
 greekery
 gypsy
-gudes
 geo
 gallerylike
 genarch
@@ -6297,6 +6296,7 @@ greengill
 goaty
 geckotoid
 gonfalons
+gudes
 gentilitian
 galiot
 goatsbeard
