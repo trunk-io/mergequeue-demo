@@ -5478,7 +5478,6 @@ afterbodies
 amyloids
 afterbrain
 afterbreach
-auresca
 aerarium
 afterbreast
 acraldehyde
@@ -23572,6 +23571,7 @@ aureoled
 aureoles
 alee
 aureoline
+auresca
 ao
 atomistically
 aureomycin
