@@ -1361,6 +1361,7 @@ features
 fendering
 fanlight
 flown
+forfars
 forride
 fathomage
 frugalism
@@ -8037,7 +8038,6 @@ forestish
 fishier
 falbala
 forestral
-forfars
 forestries
 firebrats
 furnitures
