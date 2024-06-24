@@ -1712,7 +1712,6 @@ accuracy
 aminophenol
 accuracies
 ada
-approvement
 ammoniaemia
 accurre
 accursed
@@ -17517,6 +17516,7 @@ airship
 antiarchi
 apothegmatically
 apothegmatist
+approvement
 atriensis
 apothegmatize
 apothem
