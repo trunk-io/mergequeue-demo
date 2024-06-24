@@ -5557,7 +5557,6 @@ afterpains
 afterpast
 afterpiece
 afterplanting
-afterproof
 absinthium
 afterreckoning
 auxofluor
@@ -23970,6 +23969,7 @@ autocide
 autocinesis
 acetylbiuret
 alumnus
+afterproof
 addlins
 antiproton
 autoclasis
