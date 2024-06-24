@@ -1669,7 +1669,6 @@ deamination
 deaminize
 deaminized
 deammonation
-dean
 deashing
 demarks
 deanery
@@ -6422,6 +6421,7 @@ dialyzator
 diagrammatical
 dermogastric
 dermohemia
+dean
 dermohumeral
 dermoid
 dermoidal
