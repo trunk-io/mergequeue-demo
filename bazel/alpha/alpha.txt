@@ -1886,6 +1886,7 @@ acetals
 amphioxididae
 acetamid
 acetamidin
+arrector
 acetamidine
 acetaminol
 acetaminophen
@@ -8624,7 +8625,6 @@ associationalism
 analyzer
 allantoinase
 allantoinuria
-arrector
 acetoxim
 allantoxaidin
 actinouranium
