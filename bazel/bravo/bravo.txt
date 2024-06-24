@@ -5671,7 +5671,6 @@ balt
 brocks
 billyer
 berogue
-belshazzar
 br
 belch
 belcher
@@ -7067,6 +7066,7 @@ besmottered
 besmouch
 bacteritic
 besmudge
+belshazzar
 besmudged
 beamless
 blasted
