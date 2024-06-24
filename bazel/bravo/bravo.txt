@@ -3270,7 +3270,6 @@ basing
 bethank
 buzzwigs
 bench
-basins
 bisulfide
 bookkeeps
 bandaite
@@ -8806,6 +8805,7 @@ balcone
 billposting
 bubalis
 billtong
+basins
 bilobate
 bilobe
 besiegingly
