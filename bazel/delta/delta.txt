@@ -1300,7 +1300,6 @@ dogate
 desorb
 daughterly
 destin
-dismutation
 daughterliness
 daughterling
 deregulate
@@ -3859,6 +3858,7 @@ deicers
 deicidal
 deicides
 deicing
+dismutation
 deictical
 deictically
 deviator
