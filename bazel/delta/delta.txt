@@ -15068,7 +15068,6 @@ dungeons
 doghead
 doghood
 doghouse
-doghouses
 dogie
 dogleg
 doglegging
@@ -15634,6 +15633,7 @@ drivel
 dowl
 dawdle
 doorstead
+doghouses
 didactics
 detumescent
 doorstone
