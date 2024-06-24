@@ -5275,7 +5275,6 @@ fogbound
 flax
 flaxboard
 fraternization
-frondosely
 fourteenfold
 flammeous
 fretters
@@ -8517,6 +8516,7 @@ fetlock
 formols
 fiddledeedee
 formosity
+frondosely
 formous
 fidley
 flatwise
