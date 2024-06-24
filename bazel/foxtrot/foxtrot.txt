@@ -3475,7 +3475,6 @@ fumiduct
 fiftieth
 forseen
 figaro
-fernier
 farm
 figeater
 fat
@@ -4100,6 +4099,7 @@ featherbrain
 fattable
 fanterie
 finns
+fernier
 fino
 fussier
 finedrawing
