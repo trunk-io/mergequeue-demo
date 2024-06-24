@@ -20200,7 +20200,6 @@ commitments
 commits
 calycoid
 chutist
-committable
 committed
 committedly
 committees
@@ -30816,6 +30815,7 @@ culmy
 culmicolous
 casaquin
 critteria
+committable
 culmiferous
 culmigenous
 culminal
