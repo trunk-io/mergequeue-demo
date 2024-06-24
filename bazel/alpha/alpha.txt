@@ -6927,7 +6927,6 @@ affirms
 airstream
 allegory
 aischrolatreia
-airstrip
 airstrips
 adrent
 airt
@@ -14995,6 +14994,7 @@ academizing
 anticommercialism
 anticommercialistic
 amoeboid
+airstrip
 anticommerciality
 algors
 anachronic
