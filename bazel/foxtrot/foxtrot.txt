@@ -3499,7 +3499,6 @@ fleeches
 flacker
 frogmouth
 failed
-fightable
 fingerable
 foreseason
 fallback
@@ -8328,6 +8327,7 @@ familiars
 formy
 forkiness
 frontenis
+fightable
 forking
 flaveria
 forkless
