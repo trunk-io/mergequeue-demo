@@ -8511,7 +8511,6 @@ comstockery
 chamfer
 chamfered
 cabirean
-chamfering
 chamfers
 chamfrain
 calvaria
@@ -8559,6 +8558,7 @@ cypselae
 champagnized
 cesurae
 champak
+chamfering
 characterstring
 champaka
 clubridden
