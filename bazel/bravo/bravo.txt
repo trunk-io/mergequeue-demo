@@ -3170,7 +3170,6 @@ basicerite
 basicity
 bumph
 benzins
-baltis
 booklores
 bardism
 byland
@@ -14663,6 +14662,7 @@ backspin
 brash
 bucklering
 brasher
+baltis
 brashier
 brashiest
 brashiness
