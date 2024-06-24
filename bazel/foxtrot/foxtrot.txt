@@ -4093,7 +4093,6 @@ fourbagger
 frostation
 florizine
 fenceless
-fimble
 featherbrain
 fattable
 fanterie
@@ -11525,6 +11524,7 @@ flypasts
 fusate
 fuscin
 fuscohyaline
+fimble
 fibrolipomatous
 ficklewise
 firebirds
