@@ -10743,7 +10743,6 @@ chimneylike
 chimneyman
 chimneypiece
 chimopelagic
-chymotrypsin
 chymotrypsinogen
 chimp
 creedalism
@@ -30624,6 +30623,7 @@ cucumber
 cyathoid
 calcular
 collegial
+chymotrypsin
 cucupha
 cucurb
 compole
