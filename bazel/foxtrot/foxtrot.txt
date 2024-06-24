@@ -6472,6 +6472,7 @@ froisse
 footbaths
 fluotantalic
 foxholes
+foxfire
 fluotitanic
 franklin
 flurn
@@ -9057,7 +9058,6 @@ foxbane
 foxberry
 foxer
 fractionation
-foxfire
 funneled
 friesish
 fluidglycerate
