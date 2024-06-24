@@ -8626,6 +8626,7 @@ associationalism
 analyzer
 allantoinase
 allantoinuria
+arrector
 acetoxim
 allantoxaidin
 actinouranium
@@ -20252,7 +20253,6 @@ assiduously
 arrearage
 arrearages
 arrears
-arrector
 arrendation
 argentometric
 ambusher
