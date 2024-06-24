@@ -6060,7 +6060,6 @@ ethiopic
 echinorhinus
 enlargeableness
 exoneretur
-eyer
 eathly
 enlarged
 enfelon
@@ -12440,6 +12439,7 @@ exhaustedness
 endplate
 excluded
 experient
+eyer
 epi
 epicycloid
 exhibitors
