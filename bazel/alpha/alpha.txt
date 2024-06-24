@@ -5103,7 +5103,6 @@ admonisher
 accosting
 alphamerical
 aestivating
-aestivation
 aestive
 aestuary
 aestuate
@@ -18391,6 +18390,7 @@ adsorptiveness
 arachnean
 arachnid
 asporous
+aestivation
 almsdeed
 arachnida
 angareb
