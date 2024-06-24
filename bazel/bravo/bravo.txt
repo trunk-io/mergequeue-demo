@@ -4255,7 +4255,6 @@ beaugregory
 bulbonuclear
 bushwhacks
 billard
-blas
 beaujolais
 beaumont
 beaupere
@@ -15379,6 +15378,7 @@ brightsmith
 brigittine
 butterflying
 bricklay
+blas
 banda
 brigous
 borasco
