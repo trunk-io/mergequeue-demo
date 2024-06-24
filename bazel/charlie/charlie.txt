@@ -16456,7 +16456,6 @@ clivis
 clivises
 clivus
 clk
-conductory
 clo
 cloaca
 cloacae
@@ -31471,6 +31470,7 @@ curricles
 curricling
 currycomb
 currycombing
+conductory
 currycombs
 cogitators
 curricula

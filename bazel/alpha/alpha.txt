@@ -8000,7 +8000,6 @@ auscultations
 antimensium
 aleuritic
 aleurobius
-applicabilities
 alternates
 aleurodes
 ananthropism
@@ -22819,6 +22818,7 @@ atomistical
 atomity
 analgesic
 atomized
+applicabilities
 atomizer
 atomizing
 accepters
