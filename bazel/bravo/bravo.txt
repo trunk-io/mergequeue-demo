@@ -3503,6 +3503,7 @@ batcher
 bargemen
 bogging
 bateau
+bathrobe
 blastomycetous
 bucchero
 bateleur
@@ -3606,7 +3607,6 @@ blockmaking
 bathool
 bathophobia
 bathos
-bathrobe
 bathrobes
 bunkmates
 brach

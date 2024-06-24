@@ -7939,7 +7939,6 @@ alemite
 alemmal
 alen
 alkaloidal
-alencons
 alenge
 alength
 alenu
@@ -20681,6 +20680,7 @@ amputative
 arthrotome
 arthrotomies
 arthrous
+alencons
 accursedly
 arthroxerosis
 arthrozoa
