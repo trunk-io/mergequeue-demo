@@ -4442,7 +4442,6 @@ beclaw
 bassoonist
 besieged
 bloodstanch
-becloak
 bkcy
 blubberer
 batis
@@ -4451,6 +4450,7 @@ bypassing
 believed
 becloaks
 blackfriars
+becloak
 bereavement
 boojum
 beclog
