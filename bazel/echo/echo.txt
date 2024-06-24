@@ -3441,7 +3441,6 @@ eyeleteer
 embellishments
 emberizine
 embers
-embetter
 elaphe
 enate
 epees
@@ -7312,6 +7311,7 @@ erysipelothrix
 eophyton
 eorhyolite
 eos
+embetter
 eosate
 endurableness
 eoside
