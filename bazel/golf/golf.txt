@@ -5781,7 +5781,6 @@ greedier
 glossemes
 grandnephews
 glossemic
-glossy
 glaciometer
 goniatitoid
 goitered
@@ -9475,6 +9474,7 @@ gabled
 gummosity
 genitalial
 gramp
+glossy
 glossographical
 germaneness
 groundwall
