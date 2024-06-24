@@ -1659,7 +1659,6 @@ egress
 emissarium
 egressed
 egresses
-estadal
 educed
 expounded
 eminency
@@ -2729,6 +2728,7 @@ epigonation
 entermete
 electrosynthetically
 eaglehawk
+estadal
 enceint
 eleemosinar
 ebons
