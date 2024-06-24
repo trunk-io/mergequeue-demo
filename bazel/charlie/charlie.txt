@@ -1297,7 +1297,6 @@ crawfished
 calycanth
 calycanthaceae
 calycanthaceous
-clodlike
 calycanthin
 calycanthine
 carious
@@ -26878,6 +26877,7 @@ counterflange
 cruzados
 counterfleury
 counterflux
+clodlike
 counterfoil
 counterforce
 cosmopolitanizing

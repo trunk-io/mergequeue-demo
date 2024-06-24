@@ -4970,7 +4970,6 @@ battak
 burgensic
 blesse
 belgae
-bricks
 boltless
 beeping
 beeps
@@ -5863,6 +5862,7 @@ bellybutton
 beleaps
 bellic
 bldg
+bricks
 bellicism
 bromacetate
 beyonds
