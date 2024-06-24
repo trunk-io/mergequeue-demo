@@ -2306,6 +2306,7 @@ gonofs
 geisa
 geisenheimer
 glauconite
+gadoid
 geyserish
 geyserite
 georgia
@@ -4524,7 +4525,6 @@ girouette
 gypsyhead
 gaitt
 gloeocapsoid
-gadoid
 gigglingly
 giglot
 girlie
