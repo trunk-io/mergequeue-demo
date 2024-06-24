@@ -61,7 +61,6 @@ faster
 fabulously
 fumaria
 facaded
-faceable
 flayers
 flintstone
 facebar
@@ -1545,6 +1544,7 @@ filibeg
 forepiece
 faunish
 falsifiers
+faceable
 faunist
 fibroangioma
 fauntleroy
