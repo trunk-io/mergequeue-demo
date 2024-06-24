@@ -3888,7 +3888,6 @@ bawneen
 bawra
 barrow
 barklyite
-bullyable
 bawsint
 bawsunt
 boneshaw
@@ -9945,6 +9944,7 @@ balawa
 biter
 biternately
 biters
+bullyable
 barbing
 brands
 bearfoot
