@@ -2840,6 +2840,7 @@ barracked
 borh
 barracking
 barracoon
+birders
 bulgarians
 barracouta
 barracoutas
@@ -11990,7 +11991,6 @@ battalions
 benedick
 boysenberries
 bodstick
-birders
 blase
 baalite
 battleplane
