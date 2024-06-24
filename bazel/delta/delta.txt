@@ -16325,6 +16325,7 @@ discepting
 dismes
 downshift
 downshifted
+datatypes
 downshore
 downside
 dephlegmatize
@@ -18427,7 +18428,6 @@ duplication
 duplicators
 duncehood
 daidle
-datatypes
 dysphemize
 diamondbacks
 demichamfron
