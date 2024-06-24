@@ -3357,6 +3357,7 @@ chronographically
 celsius
 conformity
 capote
+cranium
 chondroganoidei
 cyclohexene
 capouches
@@ -28182,7 +28183,6 @@ craniotomy
 craniotomies
 craniotopography
 craniovertebral
-cranium
 craniums
 crankcases
 crankdisk
