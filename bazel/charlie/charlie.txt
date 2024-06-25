@@ -9307,7 +9307,6 @@ chastities
 chasuble
 chasubled
 cooper
-chasubles
 cave
 chat
 categorize
@@ -27699,6 +27698,7 @@ carnage
 cowing
 carcinosarcomata
 cowinner
+chasubles
 cowinners
 cowish
 copsole
