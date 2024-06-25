@@ -15829,7 +15829,6 @@ claviharp
 clavilux
 coy
 carlisle
-claviole
 clavipectoral
 clavises
 clavolet
@@ -22524,6 +22523,7 @@ certainest
 chignoned
 conjoinedly
 conjoiner
+claviole
 conjointment
 conjointness
 creepages
