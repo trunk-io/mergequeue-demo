@@ -11542,7 +11542,6 @@ bluenose
 bemuffle
 babuma
 boatheader
-burros
 bluenoses
 bluepoint
 bluepoints
@@ -16646,6 +16645,7 @@ buchloe
 beant
 bunkoing
 bocci
+burros
 buchnerite
 balconette
 buchonite
