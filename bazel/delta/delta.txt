@@ -2644,6 +2644,7 @@ decode
 decodes
 decoding
 deignous
+deoxygenation
 decodon
 diswarrened
 decoherence
@@ -5594,7 +5595,6 @@ deoxygenated
 define
 depaints
 dilatation
-deoxygenation
 dilutent
 deoxyribonucleoprotein
 deurbanize
