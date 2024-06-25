@@ -15132,6 +15132,7 @@ brewership
 brewhouse
 brewhouses
 brewing
+bulked
 benzenes
 benzofuroquinoxaline
 babine
@@ -17060,7 +17061,6 @@ bimahs
 binoxide
 bishoping
 bulkage
-bulked
 boldfaces
 burt
 bulkhead
