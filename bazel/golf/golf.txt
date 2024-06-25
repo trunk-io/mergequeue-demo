@@ -1018,7 +1018,6 @@ guillotinade
 goldlike
 glossed
 gordunite
-gang
 ganga
 gangamopteris
 geisha
@@ -3341,6 +3340,7 @@ grubbers
 germfree
 glaumrie
 gullion
+gang
 grooverhead
 gerundial
 growers
