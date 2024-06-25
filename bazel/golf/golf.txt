@@ -2674,7 +2674,6 @@ geniality
 genetics
 gastrolysis
 globulicidal
-glasswork
 genetika
 gurgeon
 gathering
@@ -7413,6 +7412,7 @@ granado
 gynecophore
 gou
 gyrometer
+glasswork
 goolah
 gorgelet
 gingerbread
