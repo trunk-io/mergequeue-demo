@@ -1292,6 +1292,7 @@ gavall
 gearshift
 gladkaite
 gratten
+gyrator
 grallina
 gospellike
 gnatsnapper
@@ -4575,7 +4576,6 @@ germinable
 gummed
 gainpain
 grosse
-gyrator
 genocidal
 gyratory
 groundplot
