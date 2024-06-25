@@ -11695,7 +11695,6 @@ circumjacent
 choleras
 choleric
 cholerically
-cricothyroid
 cheesecurd
 choleriform
 cholerigenous
@@ -24131,6 +24130,7 @@ campaigning
 conversionism
 cypria
 chirping
+cricothyroid
 conversions
 catoptrics
 commiserator
