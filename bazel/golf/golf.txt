@@ -2615,7 +2615,6 @@ guillotined
 gene
 grassed
 gareth
-genos
 generalships
 generalty
 gargling
@@ -5889,6 +5888,7 @@ glovemaker
 gloveman
 glover
 glochines
+genos
 glowbard
 grasshopperish
 glist
