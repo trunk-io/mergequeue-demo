@@ -5555,7 +5555,6 @@ deorganization
 deistic
 decolouriser
 deorganize
-deorientalize
 dallack
 desiccating
 deorsum
@@ -12916,6 +12915,7 @@ dulcineas
 drachmae
 drawspan
 distillment
+deorientalize
 disobeying
 dustiness
 disoblige
