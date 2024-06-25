@@ -5228,7 +5228,6 @@ casings
 casiri
 casita
 casitas
-caskanet
 casket
 corpl
 conflation
@@ -16231,6 +16230,7 @@ cabobs
 climbers
 cheetal
 chromosantonin
+caskanet
 climbing
 climbingfish
 climbingfishes
