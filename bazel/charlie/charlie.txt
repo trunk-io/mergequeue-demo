@@ -16264,7 +16264,6 @@ checkroom
 clinchers
 clinches
 charmingly
-clinching
 clinchingly
 cline
 clines
@@ -18776,6 +18775,7 @@ congo
 colander
 consists
 colane
+clinching
 communist
 cowlike
 choleokinase
