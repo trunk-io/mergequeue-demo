@@ -5567,7 +5567,6 @@ echidnae
 enfevering
 elderwood
 eyeline
-evenhead
 enfilade
 enfilades
 escutcheoned
@@ -9561,6 +9560,7 @@ esculin
 essences
 enciphered
 evangelistically
+evenhead
 eugenesis
 extravasated
 exempt
