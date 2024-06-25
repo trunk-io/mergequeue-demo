@@ -12660,7 +12660,6 @@ bullhide
 bardane
 bonk
 bagpiping
-bearing
 bonne
 bubbly
 brisken
@@ -14691,6 +14690,7 @@ bloc
 bullwhack
 brassages
 brassard
+bearing
 briefing
 brassart
 brassarts
