@@ -5318,6 +5318,7 @@ denotatum
 deacidifying
 denote
 denotes
+destructuralize
 denoting
 duplification
 deeping
@@ -7201,7 +7202,6 @@ dacryohelcosis
 directest
 dactylitic
 destructors
-destructuralize
 deplorable
 destuff
 destuffs
