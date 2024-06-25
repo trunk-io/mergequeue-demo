@@ -10644,6 +10644,7 @@ fieldpiece
 fruitbearing
 frankness
 fouette
+fundamentalness
 fruitcakes
 farmstead
 filtrability
@@ -11238,7 +11239,6 @@ flemished
 facinorous
 funk
 funked
-fundamentalness
 facks
 feuilleton
 funky
