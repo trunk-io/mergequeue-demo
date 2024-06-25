@@ -1325,6 +1325,7 @@ departure
 derelicta
 decaspermal
 daundering
+despised
 daunders
 didappers
 daunt
@@ -13295,7 +13296,6 @@ disposement
 disorient
 dealings
 disposers
-despised
 dislocator
 dicrotic
 dispositional
