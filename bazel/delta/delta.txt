@@ -812,7 +812,6 @@ deduced
 dangerousness
 dangers
 dangle
-dangleberry
 depressive
 danglers
 deniable
@@ -6637,6 +6636,7 @@ descript
 descriptionist
 dogsled
 descriptionless
+dangleberry
 descriptively
 distensile
 detraction
