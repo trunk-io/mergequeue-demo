@@ -11130,7 +11130,6 @@ chitimachan
 checksums
 coappears
 castors
-chitinogenous
 chitinoid
 chitinous
 chitins
@@ -23837,6 +23836,7 @@ contrastive
 contrastively
 contrastiveness
 contrasts
+chitinogenous
 contrasuggestible
 cruiskeen
 catface
