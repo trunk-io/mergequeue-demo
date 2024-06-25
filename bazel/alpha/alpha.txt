@@ -5311,7 +5311,6 @@ aluminosity
 anguria
 avadavats
 agrionidae
-afflicts
 auctioneer
 affloof
 affluence
@@ -10659,6 +10658,7 @@ aminization
 aminize
 amino
 aminoacetic
+afflicts
 aminoacetophenetidine
 adolesced
 aminoanthraquinone
