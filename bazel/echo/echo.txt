@@ -3575,7 +3575,6 @@ electral
 explicable
 empasma
 exclusionary
-extrameridian
 embosoming
 euchlaena
 emboss
@@ -10350,6 +10349,7 @@ ethnogeographer
 epibole
 ethnogeographic
 emmarble
+extrameridian
 ethnographer
 eudaemonistical
 epanastrophe
