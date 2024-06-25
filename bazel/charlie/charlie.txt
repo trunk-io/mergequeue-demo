@@ -4747,6 +4747,7 @@ carpetmonger
 carpets
 chant
 carpetweb
+change
 comeliest
 cyclicality
 carpetwork
@@ -8700,7 +8701,6 @@ chanfrons
 changa
 changar
 capitelliform
-change
 changeable
 carcharodon
 chuckram
