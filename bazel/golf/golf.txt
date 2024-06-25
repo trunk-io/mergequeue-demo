@@ -1289,6 +1289,7 @@ guib
 gesticulator
 ged
 garbologist
+gavall
 gearshift
 gladkaite
 gratten
@@ -2424,7 +2425,6 @@ gutsiness
 grandames
 greeshoch
 geb
-gavall
 george
 galloots
 gadwall
