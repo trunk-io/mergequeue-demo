@@ -3066,7 +3066,6 @@ exdividend
 emblematic
 ellipsograph
 experienceable
-ellipsoid
 executiveness
 elliptically
 ellipticity
@@ -6208,6 +6207,7 @@ educate
 enols
 enterclose
 execs
+ellipsoid
 exodist
 enophthalmus
 exomorphism
