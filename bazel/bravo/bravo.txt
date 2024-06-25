@@ -4350,6 +4350,7 @@ blouselike
 bebrush
 bebuttoned
 barricade
+bowtie
 bushbodies
 batiker
 boebera
@@ -15518,7 +15519,6 @@ burweed
 bionergy
 boxes
 bdelloida
-bowtie
 barraclade
 braggadocio
 bryozoon
