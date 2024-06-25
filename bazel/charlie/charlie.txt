@@ -3668,7 +3668,6 @@ carancho
 congrid
 caranday
 carandas
-crepidomata
 carangid
 carangidae
 carangids
@@ -25547,6 +25546,7 @@ coronado
 coronados
 coronae
 chambul
+crepidomata
 cavitates
 coronagraph
 coronal
