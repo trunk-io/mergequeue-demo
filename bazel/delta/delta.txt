@@ -14195,7 +14195,6 @@ dysury
 denunciated
 dysuria
 dysurias
-dysuric
 deals
 disusage
 disuse
@@ -16950,6 +16949,7 @@ drearily
 dreariness
 doz
 ductule
+dysuric
 drearing
 drearisome
 drearly
