@@ -3419,6 +3419,7 @@ definiteness
 dahlin
 deergrass
 definitiones
+disregards
 duplications
 definitions
 definitise
@@ -5334,7 +5335,6 @@ dupioni
 dissymmetry
 dens
 deys
-disregards
 densate
 diogenean
 deerstealer
