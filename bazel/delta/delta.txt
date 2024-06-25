@@ -2322,7 +2322,6 @@ decayer
 decene
 decennal
 decennial
-decennials
 decennium
 dohter
 decennoval
@@ -17184,6 +17183,7 @@ dryops
 dup
 dryopteroid
 disagio
+decennials
 dripolator
 dribbing
 drippage
