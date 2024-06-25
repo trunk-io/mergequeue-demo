@@ -437,7 +437,6 @@ ec
 ecardines
 ecarte
 extravagate
-ecaudata
 ethenyl
 ecaudate
 ernest
@@ -11321,6 +11320,7 @@ evaporimeter
 evaporitic
 evapotranspiration
 evasions
+ecaudata
 ergatoid
 erenach
 eneid
