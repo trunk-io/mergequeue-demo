@@ -8656,6 +8656,7 @@ greekize
 gulravage
 gavelling
 grammars
+guidances
 geranials
 gerontological
 gates
@@ -10825,7 +10826,6 @@ greenhide
 gallnut
 galbulus
 guyandot
-guidances
 guttus
 gargol
 gutwort
