@@ -20319,7 +20319,6 @@ communer
 cashiers
 communes
 cytostroma
-cyanosed
 communicability
 communicable
 communicant
@@ -26724,6 +26723,7 @@ counteragitate
 counteragitation
 counteralliance
 counterambush
+cyanosed
 counterannouncement
 counterapproach
 counterapse
