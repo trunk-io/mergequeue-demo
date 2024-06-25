@@ -832,7 +832,6 @@ goldenrods
 guttable
 gyppo
 gletty
-gonium
 galoots
 ginney
 gemeinde
@@ -5746,6 +5745,7 @@ graveside
 gesturing
 guayule
 gegg
+gonium
 gnatlike
 gamine
 governor
