@@ -355,7 +355,6 @@ flaggelate
 factions
 forfeiture
 flyingly
-famines
 flattering
 fiercening
 fainter
@@ -6264,6 +6263,7 @@ fourb
 fluegelhorn
 foalfoot
 fluey
+famines
 flueless
 forefence
 fellowed
