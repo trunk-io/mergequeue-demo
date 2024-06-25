@@ -1464,7 +1464,6 @@ damages
 daze
 discerptibility
 dazed
-dazedly
 deuteroplasm
 dories
 dispulp
@@ -10085,6 +10084,7 @@ detailer
 demist
 dynactinometer
 deratize
+dazedly
 depair
 descaling
 defecant
