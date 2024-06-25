@@ -5275,7 +5275,6 @@ endoradiosonde
 eupathy
 energism
 exactor
-enkernel
 embrake
 enkindling
 evened
@@ -8906,6 +8905,7 @@ ecuelling
 epitheloid
 encurl
 eremology
+enkernel
 excrescencies
 eleometer
 ecospecifically
