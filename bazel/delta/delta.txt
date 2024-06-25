@@ -7953,7 +7953,6 @@ degentilize
 diatoric
 dewani
 drayman
-dewanny
 dressage
 dezincing
 depress
@@ -15535,6 +15534,7 @@ dreamed
 donjons
 designators
 dement
+dewanny
 donk
 doloriferous
 donkeyman
