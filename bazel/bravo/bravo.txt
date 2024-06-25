@@ -12569,6 +12569,7 @@ braeman
 bloomiest
 bulbose
 bondsmen
+bonify
 bondstone
 bondswoman
 bondswomen
@@ -13986,7 +13987,6 @@ belugas
 barylite
 boxbush
 boxcar
-bonify
 boxcars
 barwing
 billete
