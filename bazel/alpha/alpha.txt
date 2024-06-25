@@ -3408,7 +3408,6 @@ addendums
 adder
 abridgment
 alhambresque
-adderspit
 addibility
 antroversion
 addible
@@ -24231,6 +24230,7 @@ anointer
 amblycephalidae
 anorgana
 autonavigator
+adderspit
 antipacifism
 autonegation
 autonetics
