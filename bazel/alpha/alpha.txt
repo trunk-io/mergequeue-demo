@@ -3820,7 +3820,6 @@ anschauung
 articulary
 adipomata
 applauded
-axial
 adipopexia
 adipopexic
 arillodium
@@ -25246,6 +25245,7 @@ aphasiology
 azido
 azygobranchiate
 azygos
+axial
 azurous
 allemontite
 azygoses
