@@ -3281,6 +3281,7 @@ buzzwigs
 bench
 bisulfide
 bookkeeps
+benzols
 bandaite
 babbler
 bloodiest
@@ -6467,7 +6468,6 @@ benzoiodohydrin
 brinishness
 bhd
 bidet
-benzols
 barfy
 benzonaphthol
 benzonitrile
