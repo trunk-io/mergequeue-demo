@@ -7606,6 +7606,7 @@ frontierman
 flaxy
 flashlights
 filling
+falces
 faluns
 fubby
 floodmark
@@ -10825,7 +10826,6 @@ fixatives
 fulciment
 facultate
 failures
-falces
 firecrest
 fulcrumed
 fulcruming
