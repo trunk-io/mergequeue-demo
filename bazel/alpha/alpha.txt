@@ -7341,7 +7341,6 @@ alaudidae
 autophotometry
 alaudine
 alaund
-alaunt
 aglauros
 antitropical
 antedonin
@@ -17250,6 +17249,7 @@ argestes
 apolysis
 apolista
 andamento
+alaunt
 apolistan
 aproctia
 aurignacian
