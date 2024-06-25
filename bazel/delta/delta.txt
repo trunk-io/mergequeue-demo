@@ -10738,7 +10738,6 @@ decad
 dawting
 dearticulation
 dingar
-device
 dah
 dryworker
 dipodomys
@@ -14300,6 +14299,7 @@ desireable
 dict
 dits
 ditt
+device
 drogerman
 dunter
 danda
