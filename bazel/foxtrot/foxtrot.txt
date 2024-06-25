@@ -828,7 +828,6 @@ flog
 fissidentaceae
 fanions
 faun
-furdle
 fallout
 firebolt
 finicalness
@@ -11007,6 +11006,7 @@ filtratable
 flintiest
 fifers
 fumblers
+furdle
 fumbles
 fumbling
 forkable
