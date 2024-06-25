@@ -2177,7 +2177,6 @@ eudemonistical
 euphoria
 examination
 elderberries
-examine
 earthdrake
 erythemic
 emissitious
@@ -13477,6 +13476,7 @@ exsanguinous
 equipollence
 ethiopian
 ensnares
+examine
 expose
 erotology
 exsanguious
