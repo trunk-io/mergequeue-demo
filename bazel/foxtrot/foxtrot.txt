@@ -5372,6 +5372,7 @@ fennel
 friending
 frigefact
 formfitting
+forswears
 fleabiting
 fido
 fledgeling
@@ -9076,7 +9077,6 @@ flavors
 fourposter
 formably
 fouettes
-forswears
 fehmic
 foundering
 frication
