@@ -9351,7 +9351,6 @@ alophas
 aliases
 alorcinic
 alosa
-arteriosclerotic
 alouette
 androsphinxes
 alout
@@ -12557,6 +12556,7 @@ aye
 arvo
 anencephalus
 anenst
+arteriosclerotic
 anent
 anepia
 anepigraphic
