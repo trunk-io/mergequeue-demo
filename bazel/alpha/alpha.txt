@@ -15675,7 +15675,6 @@ alembics
 amenorrhea
 antinosarian
 anoxaemia
-antinovel
 antinovelist
 antinucleons
 amygdalitis
@@ -17200,6 +17199,7 @@ atropa
 agoranome
 ailuropus
 apogamy
+antinovel
 antibody
 apogamies
 apogamous
