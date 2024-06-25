@@ -790,7 +790,6 @@ funnellike
 fabricable
 flunkeyhood
 fanfolds
-floggable
 fontina
 fluorines
 financing
@@ -10195,6 +10194,7 @@ fishmen
 forepredicament
 folksinging
 feued
+floggable
 frizing
 frizzante
 fragmentise
