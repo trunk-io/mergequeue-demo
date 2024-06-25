@@ -155,6 +155,7 @@ freemasonry
 file
 frill
 flagellist
+fibre
 facsim
 facsimile
 facsimiled
@@ -10879,7 +10880,6 @@ foreskins
 folkcraft
 freestone
 furore
-fibre
 fullish
 foeman
 fulgurated
