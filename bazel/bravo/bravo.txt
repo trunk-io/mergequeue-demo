@@ -2921,7 +2921,6 @@ bipennated
 broad
 barrelled
 brucins
-baetylic
 brattle
 barrelmaker
 boules
@@ -17412,6 +17411,7 @@ bungos
 bungstarter
 boyla
 bichromic
+baetylic
 beggiatoa
 bungtown
 bungwall
