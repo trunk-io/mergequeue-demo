@@ -12197,7 +12197,6 @@ bolboxalis
 bold
 boldacious
 beguileful
-bolden
 bolder
 ballyhooed
 bostrychoid
@@ -14911,6 +14910,7 @@ brachets
 breakwind
 beknotting
 breamed
+bolden
 breaming
 beclowns
 butterflylike
