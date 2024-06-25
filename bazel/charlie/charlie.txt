@@ -3698,6 +3698,7 @@ carapidae
 clawlike
 carapine
 canvasback
+cucumaria
 carara
 cheneaux
 carassow
@@ -30616,7 +30617,6 @@ crustosis
 cuculle
 cuculliform
 cuculoid
-cucumaria
 cucumariidae
 cucumber
 cyathoid
