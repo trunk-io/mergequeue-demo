@@ -7595,7 +7595,6 @@ avast
 alburn
 alburnum
 alburnums
-albus
 anoterite
 albutannin
 aswoon
@@ -17130,6 +17129,7 @@ apocha
 automorphic
 apocholic
 apochromatism
+albus
 ascitic
 arcsin
 archpublican
