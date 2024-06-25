@@ -5333,6 +5333,7 @@ fettles
 flatland
 flanken
 ferulaic
+foldboater
 faconde
 faverel
 frizzes
@@ -6815,7 +6816,6 @@ foredevised
 foldaway
 feretory
 fellatrices
-foldboater
 farmings
 forethink
 foldcourse
