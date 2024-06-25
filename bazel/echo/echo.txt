@@ -3517,6 +3517,7 @@ embloom
 eringoes
 embodiers
 embodies
+equidiagonal
 emancipation
 essential
 emboitement
@@ -8647,7 +8648,6 @@ equiconvex
 egrets
 ergatomorph
 equid
-equidiagonal
 equidimensional
 equidist
 eumerogenesis
