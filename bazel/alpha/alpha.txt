@@ -23395,7 +23395,6 @@ accentuation
 auftakt
 aug
 apomict
-auganite
 augend
 acanaceous
 antiantidote
@@ -23838,6 +23837,7 @@ authenticates
 authentication
 apathy
 athetosic
+auganite
 angularization
 alumbrado
 authigene
