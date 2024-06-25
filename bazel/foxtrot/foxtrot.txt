@@ -154,6 +154,7 @@ file
 frill
 flagellist
 fibre
+formican
 facsim
 facsimile
 facsimiled
@@ -1637,7 +1638,6 @@ fawn
 fawned
 fretize
 fellmongery
-formican
 forthrights
 fangle
 fawners
