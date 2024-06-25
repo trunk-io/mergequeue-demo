@@ -6240,6 +6240,7 @@ fulgurate
 foretops
 feebling
 fleabugs
+forcleave
 frenal
 frivoling
 fictionmonger
@@ -7434,7 +7435,6 @@ fossick
 feinschmecker
 forcipulate
 feminine
-forcleave
 ferrimagnet
 floatative
 formativeness
