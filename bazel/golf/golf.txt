@@ -5429,7 +5429,6 @@ gymslip
 gravitating
 graph
 gammadion
-grottos
 gliddery
 gipsyhood
 gazella
@@ -7084,6 +7083,7 @@ graith
 garbell
 gaumy
 gercrow
+grottos
 gooselike
 glider
 griselda
