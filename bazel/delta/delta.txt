@@ -2705,7 +2705,6 @@ decompiler
 decomposable
 depart
 deviceful
-dimmy
 decomposer
 decomposers
 decomposing
@@ -10900,6 +10899,7 @@ dirity
 dirked
 drawbored
 dwayne
+dimmy
 dosimetrist
 disthene
 dicaryophyte
