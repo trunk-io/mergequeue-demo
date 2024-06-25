@@ -7237,7 +7237,6 @@ exactest
 enwrought
 epimeritic
 euphonym
-enzym
 enfranchisement
 ensample
 extrapolates
@@ -12960,6 +12959,7 @@ expecter
 expecting
 expectingly
 expection
+enzym
 eremiteship
 evicke
 exponentiated
