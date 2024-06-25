@@ -792,7 +792,6 @@ delusters
 dovecote
 diverb
 diuretical
-danegeld
 disgracive
 danegelds
 danelaw
@@ -6273,6 +6272,7 @@ derfly
 derham
 deric
 deriders
+danegeld
 dittograph
 deriding
 divertor
