@@ -5835,7 +5835,6 @@ decd
 depolarisation
 depolarise
 drapeable
-darksome
 docetic
 depolarization
 darrell
@@ -12825,6 +12824,7 @@ diethylethanolamine
 dismals
 disman
 dismantles
+darksome
 dwarflike
 disrump
 dyarchic
