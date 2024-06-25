@@ -9086,6 +9086,7 @@ coquettish
 chessmen
 colloq
 charities
+condition
 charityless
 charka
 cloaks
@@ -27775,7 +27776,6 @@ charting
 coxa
 cupronickel
 craw
-condition
 coxae
 clockkeeper
 coxal
