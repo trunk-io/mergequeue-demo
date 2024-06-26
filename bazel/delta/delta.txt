@@ -8626,6 +8626,7 @@ diapause
 diapauses
 donaries
 doeuvre
+deadlatch
 decarburize
 dodecastylos
 divinations
@@ -15298,7 +15299,6 @@ demerge
 dolomitize
 diabolical
 dolomize
-deadlatch
 dolores
 diolefinic
 dermatophytic
