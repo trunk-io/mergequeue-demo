@@ -6101,6 +6101,7 @@ gnarliness
 grassiness
 gnarls
 gaidropsaridae
+gnetaceae
 gravelweed
 gutturonasal
 gallicolous
@@ -9507,7 +9508,6 @@ gins
 granule
 groupoid
 galbraithian
-gnetaceae
 groupwise
 graped
 goloch
