@@ -3503,7 +3503,6 @@ gesticulant
 gesticulations
 gestning
 gentiin
-gestural
 gallimaufries
 glassy
 grosbeak
@@ -6402,6 +6401,7 @@ goes
 gradating
 ginnet
 goetae
+gestural
 gatter
 goethian
 gam
