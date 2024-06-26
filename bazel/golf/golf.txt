@@ -4425,7 +4425,6 @@ graphicalness
 gunky
 glassmaker
 guz
-gethsemanic
 gelofer
 ginglymostomoid
 gondi
@@ -5797,6 +5796,7 @@ gloveress
 glossiphonia
 gimmaled
 glossiphonidae
+gethsemanic
 ganglioneuron
 glossitis
 gelts
