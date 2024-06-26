@@ -5477,7 +5477,6 @@ aerarium
 afterbreast
 acraldehyde
 aesthesics
-afterburner
 alpian
 afterburning
 aftercareer
@@ -6635,6 +6634,7 @@ aikido
 apogalacteum
 anarcestean
 aikidos
+afterburner
 aikinite
 aikona
 arbitrarily
