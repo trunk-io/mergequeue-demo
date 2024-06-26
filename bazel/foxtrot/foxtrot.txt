@@ -649,7 +649,6 @@ furlanas
 flagship
 further
 faunch
-fantails
 frogskins
 flagger
 fireclays
@@ -7225,6 +7224,7 @@ footscraper
 flumed
 flocoon
 footsy
+fantails
 furca
 furious
 flockman
