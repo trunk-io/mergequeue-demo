@@ -858,7 +858,6 @@ benzidin
 baggala
 bijouterie
 bagganet
-brassbound
 baggara
 beseechingly
 beamsmen
@@ -16917,6 +16916,7 @@ bimetallists
 beduck
 bugbearish
 bugdom
+brassbound
 bugeyes
 bugfish
 bansela
