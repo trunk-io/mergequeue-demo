@@ -6692,6 +6692,7 @@ gondolas
 global
 glasseye
 gondoletta
+gumlike
 gangliform
 gordius
 goldworker
@@ -9021,7 +9022,6 @@ gliomata
 gandul
 girlism
 gryllos
-gumlike
 geochemical
 gimcracky
 grilse
