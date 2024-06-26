@@ -805,7 +805,6 @@ abruption
 addedly
 abruptness
 apptd
-abstractedness
 ambilogy
 algarot
 abrus
@@ -5508,6 +5507,7 @@ afterfruits
 ascomata
 arteriogram
 aftergas
+abstractedness
 afterglow
 alloclasite
 ascesis
