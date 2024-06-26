@@ -8940,7 +8940,6 @@ adjustments
 acrogenic
 alloisomerism
 allokurtic
-allomerization
 allomerizing
 averager
 anematizing
@@ -18881,6 +18880,7 @@ actinoida
 archeries
 averah
 acoustically
+allomerization
 archers
 arithmic
 acetonurometer
