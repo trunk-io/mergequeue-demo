@@ -9200,6 +9200,7 @@ fixive
 fanaloka
 fruiterer
 footled
+furnishings
 fishpot
 fragileness
 fusels
@@ -11003,7 +11004,6 @@ farde
 forecatharping
 figural
 frostiest
-furnishings
 filtratable
 flintiest
 fifers

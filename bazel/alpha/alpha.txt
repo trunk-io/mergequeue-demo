@@ -3996,7 +3996,6 @@ agings
 adminicular
 adminiculation
 accessioning
-adminiculum
 acetaldehyde
 administer
 administerd
@@ -23831,6 +23830,7 @@ abstersive
 arthritics
 authentic
 authentically
+adminiculum
 authenticated
 authenticates
 authentication
