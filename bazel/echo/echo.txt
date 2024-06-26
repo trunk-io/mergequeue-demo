@@ -8056,7 +8056,6 @@ eurytherm
 epingle
 elderwort
 estuary
-eriodendron
 epinicia
 euphotic
 extrusion
@@ -13227,6 +13226,7 @@ explicates
 embryoferous
 explicatively
 explicator
+eriodendron
 eelgrasses
 engrainedly
 effronted
