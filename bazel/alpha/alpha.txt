@@ -4170,6 +4170,7 @@ adoptability
 adoptabilities
 ammonals
 adoptable
+aphrasia
 adoptant
 adjag
 apoapsis
@@ -16887,7 +16888,6 @@ archplagiary
 ambrosiac
 apprend
 aphra
-aphrasia
 aphrite
 aphrodesiac
 abastral
