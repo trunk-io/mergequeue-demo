@@ -5755,6 +5755,7 @@ engystomatidae
 ephorus
 eurymus
 englacial
+expose
 embossments
 esophagomalacia
 emaciation
@@ -13479,7 +13480,6 @@ equipollence
 ethiopian
 ensnares
 examine
-expose
 erotology
 exsanguious
 exteriorization
