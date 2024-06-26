@@ -12022,7 +12022,6 @@ disemployment
 disenable
 disenabled
 duplicates
-disenabling
 disenact
 disenamor
 disenchant
@@ -12324,6 +12323,7 @@ driblet
 duplicities
 documentor
 denitration
+disenabling
 diaconia
 dextrotropic
 dormy
