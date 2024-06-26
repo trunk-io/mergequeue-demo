@@ -3506,7 +3506,6 @@ batcher
 bargemen
 bogging
 bateau
-bathrobe
 blastomycetous
 bucchero
 bateleur
@@ -5679,6 +5678,7 @@ brocks
 billyer
 berogue
 br
+bathrobe
 belch
 belcher
 busheller
