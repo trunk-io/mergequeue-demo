@@ -6271,7 +6271,6 @@ castrated
 caulicolous
 customed
 cauliflory
-cauliflower
 cauliform
 caulinar
 caulinary
@@ -19014,6 +19013,7 @@ chromonemata
 collateralizing
 collaterally
 collateralness
+cauliflower
 collaterals
 canzone
 corved
