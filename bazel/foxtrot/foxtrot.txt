@@ -5702,7 +5702,6 @@ flinthearted
 flinty
 formularizer
 footpound
-fermata
 flintwood
 feus
 flintworker
@@ -10124,6 +10123,7 @@ friskingly
 frisks
 frondiform
 formalise
+fermata
 flightshot
 fittyfied
 finger
