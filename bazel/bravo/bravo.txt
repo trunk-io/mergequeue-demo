@@ -6353,7 +6353,6 @@ blimp
 barish
 blastie
 backgrounds
-benton
 bentonite
 bents
 benu
@@ -10856,6 +10855,7 @@ brooches
 blandisher
 backcomb
 buffle
+benton
 balanophora
 bullweeds
 bisulphite
