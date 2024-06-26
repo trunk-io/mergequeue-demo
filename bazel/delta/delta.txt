@@ -2701,7 +2701,6 @@ doorkeeper
 dadaist
 decompiler
 decomposable
-depart
 deviceful
 decomposer
 decomposers
@@ -15362,6 +15361,7 @@ dilemmas
 daudit
 decrystallization
 domesday
+depart
 domesdays
 domesticality
 decreased
