@@ -5376,7 +5376,6 @@ fogman
 factorial
 fledgiest
 freestones
-factory
 floatless
 fribourg
 foisonless
@@ -6321,6 +6320,7 @@ fluidounce
 frass
 flower
 favosite
+factory
 fluigram
 filestatus
 frankincensed
