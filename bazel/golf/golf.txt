@@ -1579,7 +1579,6 @@ gripers
 growed
 galileo
 giraffesque
-gasometric
 grype
 galerie
 grateful
@@ -7809,6 +7808,7 @@ glutter
 guarantine
 gerents
 gurlet
+gasometric
 guttide
 graces
 gram
