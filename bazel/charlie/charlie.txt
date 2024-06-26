@@ -2057,7 +2057,6 @@ campaigners
 cercarias
 campaigns
 campana
-cannula
 campane
 campanella
 coadjuvancy
@@ -25681,6 +25680,7 @@ coprah
 corpulencies
 caryota
 corsair
+cannula
 closestool
 corpulently
 corpulentness
