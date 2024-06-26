@@ -6472,6 +6472,7 @@ agust
 ah
 antismut
 acquitting
+asterism
 aha
 ahab
 ahamkara
@@ -10084,7 +10085,6 @@ amblygonal
 allergology
 amblygonite
 attractant
-asterism
 aberdevine
 absinthic
 ambling
