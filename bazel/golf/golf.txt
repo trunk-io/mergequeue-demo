@@ -5554,6 +5554,7 @@ groovy
 groundskeep
 glisk
 glisky
+graphing
 gluily
 gapperi
 gramma
@@ -8180,7 +8181,6 @@ graphemics
 graphically
 gracy
 graphicness
-graphing
 gigantically
 glamourously
 glutamates
