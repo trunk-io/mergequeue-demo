@@ -2530,7 +2530,6 @@ dirigent
 deckhand
 duckwing
 deckhead
-doorposts
 deckle
 depletable
 dulls
@@ -15675,6 +15674,7 @@ dopey
 darking
 discographic
 doper
+doorposts
 dopy
 dopier
 dragomen
