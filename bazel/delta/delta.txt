@@ -5208,7 +5208,6 @@ dendromecon
 dixits
 dendron
 druffen
-drinkable
 dindled
 denarcotize
 downgrading
@@ -17851,6 +17850,7 @@ desalts
 ductilize
 ductilized
 ductless
+drinkable
 ductor
 ductules
 ductwork
