@@ -4392,6 +4392,7 @@ espringal
 equinovarus
 enantiomorphy
 enantiomorphic
+electrolyzer
 eolopile
 encephalosclerosis
 embraceor
@@ -4822,7 +4823,6 @@ extinguishing
 episiotomy
 encopreses
 exes
-electrolyzer
 enterocentesis
 encore
 echard
