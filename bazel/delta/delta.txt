@@ -2971,7 +2971,6 @@ decwriter
 deltoid
 dashel
 dedanite
-drawplate
 dedd
 dedecorous
 divide
@@ -11818,6 +11817,7 @@ discrepation
 dullardism
 dehydrogenize
 database
+drawplate
 dexamethasone
 distally
 disported
