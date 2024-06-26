@@ -9299,7 +9299,6 @@ conjugally
 chastiment
 chastisable
 chastise
-chastised
 chastiser
 clapperboard
 corf
@@ -22353,6 +22352,7 @@ congregated
 congregating
 congregation
 courts
+chastised
 coting
 congregational
 closeout
