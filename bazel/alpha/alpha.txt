@@ -11324,6 +11324,7 @@ ampholytic
 abaff
 amphora
 amphorae
+apiator
 amphore
 alarming
 amphoteric
@@ -16931,7 +16932,6 @@ assumption
 apiarians
 apiarists
 adolescently
-apiator
 achenium
 antihelminthic
 ampullariidae
