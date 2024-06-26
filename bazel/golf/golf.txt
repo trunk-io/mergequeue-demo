@@ -2677,6 +2677,7 @@ genetika
 gurgeon
 gathering
 granage
+grolier
 gonothecal
 geologician
 genetoid
@@ -9282,7 +9283,6 @@ guignol
 glopnen
 gossoons
 groins
-grolier
 gleamed
 grolieresque
 glycerole
