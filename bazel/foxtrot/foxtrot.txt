@@ -7891,7 +7891,6 @@ foresail
 farl
 foresails
 farmscape
-fane
 forescene
 fetticus
 forewarned
@@ -11748,6 +11747,7 @@ fissuration
 fuzees
 fuzil
 fuzzier
+fane
 fuzziest
 ferrotype
 forstraught
