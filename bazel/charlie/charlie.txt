@@ -10124,7 +10124,6 @@ codbank
 chesil
 cheskey
 campine
-cheskeys
 cheslep
 coleochaete
 chesoun
@@ -25045,6 +25044,7 @@ cordiality
 cordialities
 crimini
 cnibophore
+cheskeys
 cordially
 cordycepin
 cleptomania
