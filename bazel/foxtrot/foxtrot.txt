@@ -498,6 +498,7 @@ foreconsider
 funbre
 faky
 faking
+facets
 fassaite
 flayer
 feodum
@@ -2831,7 +2832,6 @@ flatly
 forgift
 fistulized
 forbearer
-facets
 flinchingly
 ftncmd
 foxtailed
