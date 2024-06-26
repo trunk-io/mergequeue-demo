@@ -37,7 +37,6 @@ enlaces
 eagres
 ealderman
 ealdorman
-exoperidium
 eanling
 ear
 endosporia
@@ -9349,6 +9348,7 @@ erubescite
 erucivorous
 eruct
 eructance
+exoperidium
 extendability
 extralegal
 emulge
