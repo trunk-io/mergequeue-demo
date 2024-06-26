@@ -790,7 +790,6 @@ fleaworts
 fanfaronade
 fichteanism
 funnellike
-fabricable
 flunkeyhood
 fanfolds
 fontina
@@ -2697,6 +2696,7 @@ furbearer
 fraters
 felspathic
 fainaigue
+fabricable
 fibrinolytic
 flavorer
 flashy
