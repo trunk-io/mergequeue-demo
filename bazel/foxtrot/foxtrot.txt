@@ -7483,7 +7483,6 @@ feathering
 fittable
 flocked
 feuilletonist
-forebitten
 fideos
 froglets
 freeholders
@@ -9084,6 +9083,7 @@ fords
 film
 furnace
 fucus
+forebitten
 filterer
 fleabanes
 fissipedia
