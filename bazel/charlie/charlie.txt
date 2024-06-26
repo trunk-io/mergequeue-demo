@@ -5276,6 +5276,7 @@ cassandra
 conc
 crawthumper
 cartman
+cokeman
 cassandras
 cassapanca
 cassare
@@ -18746,7 +18747,6 @@ confessionalian
 campily
 connect
 coke
-cokeman
 clinocephalism
 coker
 conelike
