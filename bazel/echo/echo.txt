@@ -9640,7 +9640,6 @@ exfodiation
 esophagitis
 euryale
 esophago
-esophagocele
 esophagogastroscopy
 evejar
 entrike
@@ -11224,6 +11223,7 @@ evanesces
 evanescible
 expeditions
 evanescing
+esophagocele
 expilation
 evangelary
 exostracism
