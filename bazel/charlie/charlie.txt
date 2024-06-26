@@ -9307,7 +9307,6 @@ chasuble
 chasubled
 cooper
 cave
-chat
 categorize
 chataka
 chatchka
@@ -29633,6 +29632,7 @@ crocodilean
 chimariko
 copyholding
 crocodilidae
+chat
 cacochymia
 crocodility
 cattishly
