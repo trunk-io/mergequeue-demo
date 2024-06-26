@@ -8335,7 +8335,6 @@ chalcedonyx
 chalcedonous
 chalchuite
 chalcidian
-chalcidic
 chalcidicum
 chalcididae
 chalcidiform
@@ -20197,6 +20196,7 @@ clypeastroidea
 commissure
 commissurotomy
 confederacy
+chalcidic
 commissurotomies
 commit
 commitment
