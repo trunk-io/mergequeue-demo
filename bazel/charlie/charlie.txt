@@ -9911,7 +9911,6 @@ chemism
 choosy
 chemisorb
 chloridizing
-cantator
 cardiotherapy
 caudillos
 coprophilic
@@ -29358,6 +29357,7 @@ cryptopyic
 cambistry
 cryptopine
 characterizers
+cantator
 cryptopyrrole
 catalogs
 cryptoproselyte
