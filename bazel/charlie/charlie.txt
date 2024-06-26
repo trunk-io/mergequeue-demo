@@ -1471,6 +1471,7 @@ corozo
 callat
 callback
 closish
+conversus
 callbacks
 callboy
 callboys
@@ -3002,7 +3003,6 @@ cantingly
 cantingness
 contango
 clairschach
-conversus
 cantion
 cantles
 cantlet
