@@ -1098,7 +1098,6 @@ eyeless
 endoskeleton
 enchants
 eqpt
-evaniidae
 edgar
 expatiatory
 edgebone
@@ -8022,6 +8021,7 @@ epitomate
 earbob
 encephalonarcosis
 elijah
+evaniidae
 eigenvector
 euripos
 epimerized
