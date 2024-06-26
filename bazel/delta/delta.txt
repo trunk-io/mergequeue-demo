@@ -3397,7 +3397,6 @@ definers
 deflects
 disputably
 defines
-definienda
 definiendum
 dippy
 deionizes
@@ -8197,6 +8196,7 @@ drawable
 dragomanic
 dhurra
 detrimentalness
+definienda
 di
 diabetes
 daphnoid
