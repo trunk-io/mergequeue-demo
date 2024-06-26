@@ -5777,6 +5777,7 @@ englobing
 entrail
 empery
 engloom
+envelopment
 englut
 encampments
 engluts
@@ -7135,7 +7136,6 @@ excerpting
 envelope
 enveloped
 exurbanites
-envelopment
 ellipsometry
 envelopments
 envelops
