@@ -11525,6 +11525,7 @@ boxthorn
 bagplant
 bluehearts
 bluey
+bathhouse
 bluejacket
 bluejacks
 blueline
@@ -16854,7 +16855,6 @@ boldheartedness
 bubalises
 bucketman
 black
-bathhouse
 borborygm
 buffier
 buffiest
