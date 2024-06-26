@@ -7442,7 +7442,6 @@ bucktail
 bietle
 bethump
 bethumped
-betided
 betides
 bego
 brazilin
@@ -12733,6 +12732,7 @@ bahuma
 bonze
 bonzer
 betattered
+betided
 bosk
 belluine
 benchland

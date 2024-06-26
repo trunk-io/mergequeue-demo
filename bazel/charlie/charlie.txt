@@ -8126,6 +8126,7 @@ cipher
 chaetetidae
 chaetifera
 chaetiferous
+cocytean
 chaetochloa
 chaetodon
 chaetodont
@@ -13590,7 +13591,6 @@ ciliella
 cistern
 ciliferous
 ciliform
-cocytean
 ciliiferous
 ciliiform
 cylinder
