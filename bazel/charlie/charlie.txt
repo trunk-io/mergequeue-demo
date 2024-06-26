@@ -1791,7 +1791,6 @@ calzada
 camaka
 camaldolese
 camaldolesian
-concio
 camaldule
 chillum
 camaldulian
@@ -11933,6 +11932,7 @@ chorale
 crumbing
 choraleon
 chorales
+concio
 chorally
 chorals
 chomage
