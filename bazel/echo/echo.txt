@@ -2876,7 +2876,6 @@ electrotelethermometer
 elf
 elfenfolk
 epinard
-eponymous
 elfins
 elfinwood
 echinidea
@@ -13401,6 +13400,7 @@ expressionlessness
 etchimin
 expresso
 ethmophysal
+eponymous
 electrotechnical
 expurge
 etas
