@@ -8413,6 +8413,7 @@ alist
 antiferroelectric
 alite
 aliter
+archaiser
 ality
 alitrunk
 azan
@@ -18740,7 +18741,6 @@ amulae
 anhungry
 archaise
 almuce
-archaiser
 aquadag
 angoumian
 acroanesthesia
