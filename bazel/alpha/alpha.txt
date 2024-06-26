@@ -4543,7 +4543,6 @@ advertisable
 advertiser
 advertisers
 albication
-ankhs
 arrowstone
 amulets
 assuagable
@@ -18868,6 +18867,7 @@ archeocyte
 acneform
 archeolithic
 archeologist
+ankhs
 archeopteryx
 archeostome
 antecedaneous
