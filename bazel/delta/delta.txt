@@ -2747,7 +2747,6 @@ dattos
 dollish
 deconsecration
 detailedness
-deconsider
 demitrain
 deconsideration
 decontaminates
@@ -5827,6 +5826,7 @@ demonland
 deplump
 depoetize
 disclaimers
+deconsider
 depoh
 decd
 depolarisation
