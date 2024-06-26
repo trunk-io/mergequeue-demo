@@ -5677,6 +5677,7 @@ appoggiaturas
 agalaxia
 anisomelus
 agalena
+amphilogy
 agalenidae
 apellous
 amplifier
@@ -11223,7 +11224,6 @@ amphigory
 amphigories
 allthing
 amphikaryotic
-amphilogy
 atchison
 amphilogism
 amphimacer
