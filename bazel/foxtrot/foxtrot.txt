@@ -5464,6 +5464,7 @@ friseurs
 fossed
 fretwork
 firedamp
+fratching
 fleshhood
 froust
 foraged
@@ -5599,7 +5600,6 @@ forefeel
 fossilation
 feminist
 fmt
-fratching
 flyer
 frontonasal
 fossilization
