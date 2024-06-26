@@ -4768,7 +4768,6 @@ epistler
 entomophytous
 encycl
 echinal
-encloak
 establishments
 exploratory
 encloister
@@ -12551,6 +12550,7 @@ existlessness
 epistemological
 exit
 exsects
+encloak
 extreat
 exite
 eranist
