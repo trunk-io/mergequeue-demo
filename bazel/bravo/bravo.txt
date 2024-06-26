@@ -2038,7 +2038,6 @@ banjorine
 banjuke
 boardman
 bank
-bignesses
 bankalachi
 bidactyl
 bankbooks
@@ -7034,6 +7033,7 @@ beslap
 beslave
 beslime
 bearherd
+bignesses
 bedsite
 bestrid
 beslimes
