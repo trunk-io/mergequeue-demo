@@ -9273,7 +9273,6 @@ biocoenose
 bodysuit
 biosome
 biospeleology
-boniest
 biosphere
 bryon
 breakdown
@@ -17312,6 +17311,7 @@ botanises
 bskt
 bijugate
 bunts
+boniest
 bummel
 bummie
 bumming
