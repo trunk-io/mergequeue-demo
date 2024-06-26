@@ -1353,6 +1353,7 @@ effects
 exurban
 enlarge
 equivocated
+enclog
 err
 effectuated
 encastage
@@ -10825,7 +10826,6 @@ exercisable
 equinoctially
 eumycete
 epsilon
-enclog
 elaborating
 euskera
 eumoirous
