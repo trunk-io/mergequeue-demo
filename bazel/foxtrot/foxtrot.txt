@@ -1213,7 +1213,6 @@ fishable
 fascista
 fleech
 fears
-furcula
 fascistization
 fountainlike
 flangeless
@@ -8215,6 +8214,7 @@ footwork
 forgather
 fossulet
 falsifications
+furcula
 fossulate
 froebelist
 foresweat
