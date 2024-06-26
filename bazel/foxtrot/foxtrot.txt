@@ -8376,7 +8376,6 @@ fictively
 forloin
 forlore
 filcher
-foredestined
 forlornly
 fledglings
 forever
@@ -10450,6 +10449,7 @@ frontstall
 forstall
 featurish
 ferocity
+foredestined
 flaxtail
 frontwards
 fragrant
