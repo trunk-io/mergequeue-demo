@@ -1018,7 +1018,6 @@ guessingly
 glissette
 ganevs
 guillotinade
-goldlike
 glossed
 gordunite
 ganga
@@ -9888,6 +9887,7 @@ generaliter
 gerygone
 garble
 guanin
+goldlike
 gaberloonie
 gonangium
 glycerose
