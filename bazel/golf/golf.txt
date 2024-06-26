@@ -8089,6 +8089,7 @@ grantiidae
 grantor
 gristmill
 guidership
+galop
 grantors
 grantsman
 griphe
@@ -9386,7 +9387,6 @@ gowans
 grossularite
 grimacers
 gabriel
-galop
 gloea
 grizzled
 gemmiparity
