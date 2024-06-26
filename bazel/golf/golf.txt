@@ -1357,7 +1357,6 @@ groundling
 gristbite
 gignate
 grumphies
-gabbard
 gra
 greenhouse
 geckotid
@@ -3813,6 +3812,7 @@ gavelage
 gelatined
 goff
 greenbugs
+gabbard
 gremmies
 giddybrain
 gulancha
