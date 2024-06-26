@@ -1857,7 +1857,6 @@ gesso
 gatekeepers
 glos
 grasses
-guestship
 glueing
 glutenous
 gheg
@@ -2133,6 +2132,7 @@ ganodus
 guarabu
 gazebo
 gazeboes
+guestship
 gaming
 glabella
 gazebos
