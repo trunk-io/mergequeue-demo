@@ -764,7 +764,6 @@ gien
 galvanomagnetic
 galvanomagnetism
 gombeen
-galvanometers
 gingerade
 goumi
 gregg
@@ -4818,6 +4817,7 @@ ganglioblast
 gasometer
 gigadoid
 giuseppe
+galvanometers
 groundwork
 gastroenteroptosis
 gliadines
