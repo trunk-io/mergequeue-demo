@@ -2031,7 +2031,6 @@ farragoes
 feh
 fingerfish
 fannell
-feign
 feetfirst
 fireworky
 furnacing
@@ -9694,6 +9693,7 @@ floyt
 freezes
 freezy
 faveoli
+feign
 freezing
 filopodia
 fromage
