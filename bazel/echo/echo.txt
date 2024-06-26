@@ -1153,7 +1153,6 @@ edificatory
 epimerize
 evocations
 edificed
-edifices
 edified
 edifiers
 edifying
@@ -4618,6 +4617,7 @@ elaidinic
 exsolve
 eyednesses
 ectochondral
+edifices
 encheason
 enchequer
 ethnopsychic
