@@ -3866,7 +3866,6 @@ deific
 dhobey
 doorsills
 deification
-deifications
 disaugment
 diestrum
 deifiers
@@ -12613,6 +12612,7 @@ dipterological
 denotation
 dromedaries
 disintegrator
+deifications
 disintegrators
 dispiritedness
 dackers
