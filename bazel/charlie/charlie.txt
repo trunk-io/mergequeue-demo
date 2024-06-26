@@ -2793,7 +2793,6 @@ chebeck
 cannulae
 cannulate
 circumscribe
-cannulated
 cursitor
 cannulating
 cannulation
@@ -27565,6 +27564,7 @@ coveralls
 coraciiformes
 coils
 coverchief
+cannulated
 cerberean
 covercle
 coprolalia
