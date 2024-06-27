@@ -47,7 +47,6 @@ eons
 equiangularity
 earbash
 eschewal
-edges
 eardropper
 earflap
 expender
@@ -5381,6 +5380,7 @@ embroidered
 eremochaetous
 ender
 ebdomade
+edges
 endothelioid
 envolupen
 evocatory
