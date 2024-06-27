@@ -5295,7 +5295,6 @@ beggarlice
 beggarlike
 beggarliness
 brimless
-boomerang
 beggarweed
 bubbies
 bougeron
@@ -10500,6 +10499,7 @@ badling
 brangle
 blank
 bronco
+boomerang
 blankbook
 bailwood
 burgrave
