@@ -7615,7 +7615,6 @@ forefinger
 forefingers
 figlike
 fritillaries
-ferronickel
 footgrip
 founds
 fragile
@@ -10258,6 +10257,7 @@ fgrid
 fishweed
 foundationed
 frogs
+ferronickel
 fermentor
 fluorimeter
 forebow
