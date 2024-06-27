@@ -9615,6 +9615,7 @@ commonize
 checkrack
 checkrail
 casehardens
+cricotracheotomy
 checkrein
 checkroll
 compathy
@@ -28987,7 +28988,6 @@ choosey
 cojuror
 cricothyroidean
 cuneated
-cricotracheotomy
 crossbowman
 compositions
 cochair
