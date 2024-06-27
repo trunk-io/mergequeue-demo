@@ -1363,7 +1363,6 @@ fanlight
 flown
 forfars
 forride
-fathomage
 frugalism
 flatlanders
 fbi
@@ -11111,6 +11110,7 @@ fins
 forejudged
 fundatrices
 frizzed
+fathomage
 febres
 fearlessness
 framework
