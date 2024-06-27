@@ -2380,7 +2380,6 @@ gibbartas
 galopin
 geldings
 gorgets
-grovelings
 gelees
 gelidness
 geologist
@@ -2685,6 +2684,7 @@ gonothecal
 geologician
 genetoid
 geminal
+grovelings
 genetous
 globulysis
 gangliectomy
