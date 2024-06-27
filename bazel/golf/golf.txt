@@ -3418,7 +3418,6 @@ gerontocracies
 gerontocrat
 gigglish
 greenwing
-gerontologist
 giesel
 greco
 gileadite
@@ -6845,6 +6844,7 @@ glacis
 gonococcocci
 gonopore
 gonocoele
+gerontologist
 gonof
 gonophore
 geodesia
