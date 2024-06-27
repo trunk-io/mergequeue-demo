@@ -25171,7 +25171,6 @@ cores
 chlorospinel
 coresign
 coresonant
-cellos
 chincher
 corespect
 corespondent
@@ -26685,6 +26684,7 @@ counsellors
 counselor
 commercialization
 countability
+cellos
 countably
 coccyges
 cicatrizant
