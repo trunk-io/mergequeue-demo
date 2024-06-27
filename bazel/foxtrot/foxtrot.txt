@@ -1807,7 +1807,6 @@ frogmen
 flashlamp
 flutina
 fulyie
-frostless
 flaunts
 flakeboard
 foredoes
@@ -11461,6 +11460,7 @@ flares
 fiducially
 falteringly
 furrily
+frostless
 fistinut
 friendlier
 furriner
