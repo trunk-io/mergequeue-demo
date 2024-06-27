@@ -2547,6 +2547,7 @@ candlenut
 candlepins
 candlepower
 chemist
+cerevis
 candler
 candlerent
 candlers
@@ -30795,7 +30796,6 @@ companionways
 cullers
 cullet
 cullets
-cerevis
 carload
 cully
 cullibility
