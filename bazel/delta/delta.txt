@@ -5297,7 +5297,6 @@ declination
 declaimers
 deputy
 denominations
-denominative
 dicty
 denominators
 denormalized
@@ -13209,6 +13208,7 @@ detrimental
 dispicion
 dicentrin
 dispirit
+denominative
 diethylamine
 disbudding
 dispiritedly
