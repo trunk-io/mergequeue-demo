@@ -1690,6 +1690,7 @@ fimbles
 forgrow
 fearedly
 fadeaways
+flyings
 forces
 flauntingly
 feaster
@@ -9294,7 +9295,6 @@ flagons
 fordull
 front
 fervors
-flyings
 footgears
 foresey
 fabrikoid
