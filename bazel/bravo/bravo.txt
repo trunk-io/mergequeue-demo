@@ -7376,6 +7376,7 @@ boke
 boloroot
 bael
 bipont
+boart
 beteach
 brazening
 brazera
@@ -17973,7 +17974,6 @@ bushwhackers
 bushwoman
 boheas
 byname
-boart
 balancing
 bellowsman
 busy
