@@ -1781,7 +1781,6 @@ eyepiece
 eyepit
 embattle
 eyepoint
-eyereach
 eyeroot
 emule
 exhbn
@@ -12936,6 +12935,7 @@ elaphebolion
 entotic
 extraenteric
 epitonion
+eyereach
 edinburgh
 enhardy
 expectancies
