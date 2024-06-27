@@ -9391,7 +9391,6 @@ dodgier
 decolorant
 dietitians
 dtset
-dietotherapeutics
 dietotherapy
 dietotoxic
 depilation
@@ -10796,6 +10795,7 @@ diabaterial
 drainspout
 drools
 dipsomaniac
+dietotherapeutics
 dipsomaniacs
 dipsopathy
 dipsosaurus
