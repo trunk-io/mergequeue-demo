@@ -3787,7 +3787,6 @@ ariel
 anchorwise
 adient
 adieu
-adieus
 attame
 adighe
 adight
@@ -17943,6 +17942,7 @@ appreciation
 alinota
 ashet
 appreciativ
+adieus
 appreciative
 argued
 appreciativeness
