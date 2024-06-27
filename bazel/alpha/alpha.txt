@@ -4641,6 +4641,7 @@ aecidioform
 aecidiomycetes
 aecidiospore
 aecidiostage
+aglare
 aecidium
 aeciospore
 aecioteliospore
@@ -6112,7 +6113,6 @@ aglaia
 aglance
 aglaos
 aglaozonia
-aglare
 alkanal
 aglaspis
 agleaf
