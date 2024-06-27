@@ -4205,7 +4205,6 @@ beastman
 beastship
 beat
 benches
-beatable
 beatae
 beatee
 bleery
@@ -8307,6 +8306,7 @@ byerlite
 backspliced
 bierstuben
 byestreet
+beatable
 boone
 battailous
 best
