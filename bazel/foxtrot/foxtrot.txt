@@ -4878,6 +4878,7 @@ ferocities
 fungal
 flailing
 fisheries
+formalness
 followable
 fulgora
 flails
@@ -8409,7 +8410,6 @@ freezingly
 felonsetter
 formalized
 formalizer
-formalness
 febronian
 flaucht
 fantail
