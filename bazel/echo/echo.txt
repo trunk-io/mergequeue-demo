@@ -12267,7 +12267,6 @@ exemplariness
 efflorescency
 enteromegaly
 els
-endarch
 everduring
 envy
 exemplarism
@@ -14118,6 +14117,7 @@ extroitive
 enfevers
 extrorse
 extrospect
+endarch
 extrospective
 extroversion
 equivorous
