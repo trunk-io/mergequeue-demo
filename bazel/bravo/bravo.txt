@@ -7642,7 +7642,6 @@ bewary
 bewaste
 beweary
 bewearies
-bewearying
 broccoli
 brainworker
 beweeper
@@ -17456,6 +17455,7 @@ blackouts
 bunkermen
 bunkers
 beard
+bewearying
 bunkie
 buffi
 boccies
