@@ -1056,7 +1056,6 @@ chitinocalcareous
 circumcisions
 calceolaria
 calceolate
-calceolately
 calces
 cowhide
 calceus
@@ -20192,6 +20191,7 @@ clypeastroidea
 commissure
 commissurotomy
 confederacy
+calceolately
 chalcidic
 commissurotomies
 commit
