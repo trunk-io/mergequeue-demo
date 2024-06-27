@@ -40,7 +40,6 @@ fabricators
 fabricature
 futurities
 flatuosity
-fuddledness
 fabronia
 fabroniaceae
 forehall
@@ -1683,6 +1682,7 @@ frugivora
 focalises
 feak
 federate
+fuddledness
 fealty
 fumigates
 fear
