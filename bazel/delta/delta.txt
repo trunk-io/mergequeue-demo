@@ -1340,6 +1340,7 @@ dompt
 dauntingly
 damagement
 dart
+dismask
 dauntingness
 discerners
 daunton
@@ -2214,7 +2215,6 @@ directorship
 dissympathy
 decarburized
 disharmonizing
-dismask
 dubiosity
 decare
 disgraceful

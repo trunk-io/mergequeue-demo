@@ -3200,7 +3200,6 @@ bushed
 blowzily
 basidiospore
 basidiosporous
-basidorsal
 batiked
 backwoodsman
 bathtub
@@ -4100,6 +4099,7 @@ bachelry
 brontosaurs
 brier
 bronchomucormycosis
+basidorsal
 beaniest
 beaning
 branchier
