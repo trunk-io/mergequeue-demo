@@ -1956,6 +1956,7 @@ camerinidae
 camerist
 circummigrate
 camerlingo
+comp
 crenelates
 crampbit
 camerlingos
@@ -23342,7 +23343,6 @@ consumeless
 consumer
 consumerist
 consumes
-comp
 cardioblast
 cuttlefish
 consuming
