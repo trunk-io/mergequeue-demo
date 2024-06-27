@@ -4459,7 +4459,6 @@ flattercap
 fashioned
 foreloop
 fishspear
-fishtail
 fluffier
 fountainwise
 faldage
@@ -11122,6 +11121,7 @@ forecarriage
 forbiddance
 fibroid
 frizzers
+fishtail
 farle
 flaggery
 fundmonger
