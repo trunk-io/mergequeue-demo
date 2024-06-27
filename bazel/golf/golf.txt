@@ -756,7 +756,6 @@ grenadiership
 galvanology
 geomechanics
 geomorphology
-gien
 galvanomagnetic
 galvanomagnetism
 gombeen
@@ -9775,6 +9774,7 @@ gibetting
 grieced
 grun
 gyroma
+gien
 gtt
 gluttonizing
 glazings
