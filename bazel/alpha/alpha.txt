@@ -3632,7 +3632,6 @@ archaize
 armeriaceae
 amsonia
 autodigestion
-adenophore
 alphabetics
 adenophorous
 accumulative
@@ -11453,6 +11452,7 @@ amurca
 argolic
 arteriolar
 amex
+adenophore
 affirmatively
 amusedly
 algoristic
