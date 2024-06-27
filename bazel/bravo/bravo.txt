@@ -5439,6 +5439,7 @@ briquets
 buzzsaw
 beachmaster
 begulf
+bakshish
 brandering
 begummed
 biolite
@@ -13677,7 +13678,6 @@ berate
 boogerman
 bornyl
 bailiffry
-bakshish
 boogaloo
 boulles
 boullework
