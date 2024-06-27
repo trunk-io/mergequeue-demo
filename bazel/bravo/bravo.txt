@@ -749,7 +749,6 @@ boeotarch
 badinages
 bearcoot
 bumboatmen
-brimborion
 badiner
 badinerie
 birt
@@ -10861,6 +10860,7 @@ blenchers
 blenching
 blencorn
 blend
+brimborion
 bestill
 blende
 blackeye
