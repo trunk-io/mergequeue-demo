@@ -680,7 +680,6 @@ cafenet
 cafetal
 cafeteria
 cairba
-cafeterias
 cafetiere
 cafetorium
 caff
@@ -6124,6 +6123,7 @@ catspaws
 catstane
 catstep
 catstick
+cafeterias
 catstitch
 catstitcher
 calcitreation
