@@ -8885,7 +8885,6 @@ banbury
 bimotors
 belonged
 bruisers
-boloman
 bumblebee
 bosc
 bushfire
@@ -14421,6 +14420,7 @@ birdcraft
 bursiform
 becivet
 braillewriter
+boloman
 benthos
 bambino
 bulletins
