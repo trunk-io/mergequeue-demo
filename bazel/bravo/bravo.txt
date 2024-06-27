@@ -362,7 +362,6 @@ backhandedness
 brinjarry
 brewery
 backhander
-backhanding
 bovarist
 backhaul
 backhauls
@@ -12894,6 +12893,7 @@ bookwright
 booleans
 booleys
 booly
+backhanding
 betatters
 bronchially
 brasses
