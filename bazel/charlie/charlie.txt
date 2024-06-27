@@ -7439,6 +7439,7 @@ calina
 cephalomant
 cephalomeningitis
 cultivatable
+compute
 cortex
 cleansing
 cephalomere
@@ -21072,7 +21073,6 @@ computations
 computatively
 computativeness
 circumstantiates
-compute
 computer
 computerese
 computerise
