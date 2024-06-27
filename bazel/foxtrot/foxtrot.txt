@@ -2548,7 +2548,6 @@ faburden
 fernery
 fry
 fernyear
-fernlike
 flustrum
 fernshaw
 foolhardihood
@@ -4751,6 +4750,7 @@ flyman
 fibrovasal
 faldfee
 forthink
+fernlike
 fructuary
 feuillage
 flatters
