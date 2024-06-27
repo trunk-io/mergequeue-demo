@@ -8541,6 +8541,7 @@ dorsiventrally
 dials
 ds
 describable
+disjunction
 duopsony
 dialuric
 defenestrated
@@ -9667,7 +9668,6 @@ drogher
 digrediency
 digredient
 decenaries
-disjunction
 defining
 divinised
 digressed
