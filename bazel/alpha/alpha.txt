@@ -4054,7 +4054,6 @@ admissibility
 admission
 asci
 admissive
-admissively
 antiperistasis
 automan
 admissory
@@ -10879,6 +10878,7 @@ alf
 amnia
 allamoth
 amerindic
+admissively
 allegorical
 amniocentesis
 amniochorial
