@@ -6433,7 +6433,6 @@ dejectory
 dermobranchiata
 derout
 dermobranchiate
-dialyzator
 diagrammatical
 dermogastric
 dermohemia
@@ -15650,6 +15649,7 @@ dawdle
 doorstead
 doghouses
 didactics
+dialyzator
 detumescent
 doorstone
 directable
