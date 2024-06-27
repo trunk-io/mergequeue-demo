@@ -1640,6 +1640,7 @@ ballotist
 ballots
 ballottement
 backlotter
+baronage
 ballottine
 ballottines
 ballpark
@@ -7082,7 +7083,6 @@ batch
 boxhaul
 biosynthesis
 boma
-baronage
 benzines
 banig
 beryllia
