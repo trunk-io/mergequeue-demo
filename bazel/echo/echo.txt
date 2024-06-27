@@ -1719,6 +1719,7 @@ eyeblack
 eyeblink
 eyebright
 eyecup
+emollescence
 experimently
 exceptionary
 eyed
@@ -11462,7 +11463,6 @@ evidencing
 ethicophysical
 eonian
 enolized
-emollescence
 ergasterion
 ejaculation
 eventuates
