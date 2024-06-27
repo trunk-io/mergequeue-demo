@@ -45,6 +45,7 @@ gabions
 guardian
 gunfires
 gammarus
+goa
 gollar
 gableboard
 graperies
@@ -6227,7 +6228,6 @@ gravels
 gns
 gatefolds
 go
-goa
 grammar
 germiparity
 grammaticize
