@@ -7721,6 +7721,7 @@ draftproof
 duke
 developer
 developes
+diswarn
 developing
 dysmenorrhagia
 development
@@ -14237,7 +14238,6 @@ dynamoelectric
 dermaptera
 donatism
 disvoice
-diswarn
 densimeter
 depopulated
 dangerous
