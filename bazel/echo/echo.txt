@@ -555,7 +555,6 @@ echinoderidae
 echinoderma
 edgy
 exopterygotous
-echinodermal
 erythroderma
 enclitically
 echinodermatous
@@ -4873,6 +4872,7 @@ encrisp
 encroach
 encroacher
 equalizing
+echinodermal
 exponentiations
 effeminateness
 explete
