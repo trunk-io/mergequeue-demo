@@ -9472,7 +9472,6 @@ altarpieces
 altars
 armbone
 anemones
-altarwise
 altazimuth
 alter
 alterable
@@ -20714,6 +20713,7 @@ articulates
 ashlering
 alike
 arite
+altarwise
 articulationist
 articulations
 adenoblast
