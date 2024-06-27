@@ -11742,7 +11742,6 @@ byres
 bushelful
 brutality
 boatbuilding
-boatel
 boathook
 boathouse
 backbends
@@ -15648,6 +15647,7 @@ bidonville
 batterable
 buffone
 barrenest
+boatel
 bg
 boatsmen
 bulkheads
