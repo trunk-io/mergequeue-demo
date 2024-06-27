@@ -2603,7 +2603,6 @@ bunglesome
 bushie
 barkey
 briers
-beknights
 barkentines
 barkery
 behn
@@ -9881,6 +9880,7 @@ bouchees
 bistort
 bistorts
 bistred
+beknights
 basiating
 bemixing
 bystreet
