@@ -9621,7 +9621,6 @@ checkroll
 compathy
 checkrooms
 checkrope
-colleagued
 checkrowed
 checkrower
 checkrowing
@@ -29790,6 +29789,7 @@ cropman
 cropper
 contraindication
 comorado
+colleagued
 cochleate
 croppy
 cropping
