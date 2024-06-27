@@ -43,7 +43,6 @@ gmelina
 grammes
 gabions
 guardian
-gelatiniser
 gunfires
 gammarus
 gollar
@@ -10413,6 +10412,7 @@ gargoyled
 garbanzos
 granulomas
 gnathobasic
+gelatiniser
 gutta
 gyrenes
 glossist
