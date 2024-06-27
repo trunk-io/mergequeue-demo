@@ -5709,7 +5709,6 @@ ferratin
 fease
 flinthearted
 flinty
-formularizer
 footpound
 flintwood
 feus
@@ -9995,6 +9994,7 @@ fc
 frigiddaria
 frigidly
 finery
+formularizer
 forcers
 frounces
 frigolabile
