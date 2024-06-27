@@ -512,7 +512,6 @@ backstopped
 besiclometer
 backstops
 backstrapped
-baseboard
 backstreet
 blastophoric
 bombsights
@@ -12924,6 +12923,7 @@ boomkin
 boomkins
 birthdays
 bootes
+baseboard
 basiliscine
 barnabite
 bioprecipitation
