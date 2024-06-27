@@ -5277,6 +5277,7 @@ affix
 affixable
 affixal
 affixation
+anamorphoses
 affixed
 affixers
 affixes
@@ -20089,7 +20090,6 @@ aro
 aroast
 arock
 anatomic
-anamorphoses
 alimentum
 aroid
 aroideous
