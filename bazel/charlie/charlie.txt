@@ -27426,7 +27426,6 @@ commation
 courtyards
 coonroot
 closter
-courtier
 courtierism
 courtierly
 cabinetmaker
@@ -29864,6 +29863,7 @@ crosscuts
 coachman
 crosscutter
 confutative
+courtier
 cuttikin
 crosscutting
 crosse
