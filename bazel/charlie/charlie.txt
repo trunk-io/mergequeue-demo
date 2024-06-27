@@ -15114,7 +15114,6 @@ ciudad
 cosmesis
 carbonado
 civet
-civetone
 civets
 civy
 carcasing
@@ -28772,6 +28771,7 @@ chelae
 crumblings
 creply
 cupeler
+civetone
 crepon
 crept
 canters

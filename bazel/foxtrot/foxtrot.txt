@@ -426,7 +426,6 @@ fur
 frockmaker
 fairship
 fairway
-fragility
 faultfinders
 fieldbird
 fays
@@ -838,6 +837,7 @@ figless
 fanlights
 fanmaking
 foveolarious
+fragility
 foretalk
 fanfares
 frown
