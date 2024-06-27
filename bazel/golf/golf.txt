@@ -3338,6 +3338,7 @@ grubbers
 germfree
 glaumrie
 gullion
+gutterlike
 gang
 grooverhead
 gerundial
@@ -7016,7 +7017,6 @@ gesundheit
 guldengroschen
 gunpowdery
 gimbaled
-gutterlike
 gooma
 gapes
 glad
