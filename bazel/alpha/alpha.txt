@@ -4172,7 +4172,6 @@ adoptabilities
 ammonals
 adoptable
 aphrasia
-adoptant
 adjag
 apoapsis
 armorers
@@ -7332,6 +7331,7 @@ alaudidae
 autophotometry
 alaudine
 alaund
+adoptant
 aglauros
 antitropical
 antedonin
