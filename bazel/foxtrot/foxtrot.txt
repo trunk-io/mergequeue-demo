@@ -1800,6 +1800,7 @@ freckledness
 feathertop
 flagellation
 frogmen
+flashlamp
 flutina
 fulyie
 frostless
@@ -5748,7 +5749,6 @@ ferulas
 flowering
 frontis
 fingerstone
-flashlamp
 fleuronnee
 fungous
 fuzzball

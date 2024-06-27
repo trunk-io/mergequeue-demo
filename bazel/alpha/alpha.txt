@@ -1606,7 +1606,6 @@ amatorian
 accouche
 accouchement
 accoucheur
-appositions
 accoucheuses
 accountability
 arclength
@@ -11523,6 +11522,7 @@ auxiliarly
 anabolin
 arsines
 aper
+appositions
 anabolism
 anabolite
 accinging
