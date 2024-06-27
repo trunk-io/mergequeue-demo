@@ -7945,7 +7945,6 @@ bibiri
 bibitory
 bible
 bohmite
-bipunctal
 biblical
 bels
 biblicality
@@ -9577,6 +9576,7 @@ basaltine
 birma
 buckwasher
 blepharophryplasty
+bipunctal
 boza
 barbarian
 birn
