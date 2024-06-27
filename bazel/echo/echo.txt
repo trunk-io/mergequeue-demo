@@ -8494,7 +8494,6 @@ eurytropic
 eponym
 eponymy
 eponymies
-eponymist
 etiolate
 eponymus
 excusingly
@@ -11375,6 +11374,7 @@ ethnomusicologist
 endodontics
 eventfulness
 exuvia
+eponymist
 ethnopsychological
 eventime
 errant
