@@ -6405,7 +6405,6 @@ engrained
 equilocation
 earthtongue
 ensign
-electroplaque
 ensignry
 ensilages
 espaliered
@@ -10334,6 +10333,7 @@ epibole
 ethnogeographic
 emmarble
 extrameridian
+electroplaque
 ethnographer
 eudaemonistical
 epanastrophe
