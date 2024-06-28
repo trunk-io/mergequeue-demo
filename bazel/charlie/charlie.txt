@@ -2527,6 +2527,7 @@ candleball
 candleberries
 candlebomb
 candlefish
+corporeal
 candlefishes
 collogued
 candleholder
@@ -25650,7 +25651,6 @@ cyclonometer
 cassites
 corporatively
 corporativism
-corporeal
 cirsotome
 corporealization
 coagule
