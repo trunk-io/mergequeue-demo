@@ -3985,7 +3985,6 @@ elkhound
 empale
 empaler
 empalers
-empales
 empaling
 empall
 exhilaratory
@@ -5496,6 +5495,7 @@ energizers
 eosinophilia
 elasmosaurus
 energizes
+empales
 environ
 expansivity
 encircles
