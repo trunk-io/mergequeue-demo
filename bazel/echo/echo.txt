@@ -2249,7 +2249,6 @@ elaphurine
 elections
 exocolitis
 electives
-entification
 engram
 encystation
 endoplasma
@@ -5811,6 +5810,7 @@ engouement
 extorter
 epitheliogenetic
 engoument
+entification
 efficace
 escapado
 exfoliation
