@@ -2844,6 +2844,7 @@ greatcoat
 glories
 gyro
 gecko
+garni
 guzzledom
 gyges
 guzmania
@@ -9474,7 +9475,6 @@ googul
 genteelness
 gluish
 glaciate
-garni
 gaseously
 gabled
 gummosity
