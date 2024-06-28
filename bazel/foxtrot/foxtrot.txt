@@ -5275,6 +5275,7 @@ fluidities
 flawedness
 fishlike
 flawflower
+fails
 flawful
 fenbank
 frons
@@ -5861,7 +5862,6 @@ fenestration
 falutin
 flywinch
 flockier
-fails
 fellnesses
 fulfils
 flneuse
