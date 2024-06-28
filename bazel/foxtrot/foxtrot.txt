@@ -3724,7 +3724,6 @@ franchisal
 fairstead
 folder
 fillable
-fillemot
 frownless
 flavorlessness
 filletster
@@ -7418,6 +7417,7 @@ funt
 filicides
 fileable
 flittern
+fillemot
 firstship
 forcibility
 forcibleness
