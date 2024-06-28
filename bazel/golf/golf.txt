@@ -336,6 +336,7 @@ gelatins
 galactoma
 galactometer
 gastritis
+gaussian
 grilses
 gleen
 gulfs
@@ -9315,7 +9316,6 @@ gean
 gamodeme
 gorillaship
 goatskin
-gaussian
 gradines
 geronomite
 goldurn
