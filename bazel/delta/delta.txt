@@ -1574,7 +1574,6 @@ deadness
 deadnesses
 dustproof
 didache
-deadpan
 deadpanned
 deadpans
 deadweight
@@ -9821,6 +9820,7 @@ dilaters
 dilates
 descender
 decolourization
+deadpan
 dilatometer
 derri
 dilatometrically
