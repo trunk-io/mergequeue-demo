@@ -1472,6 +1472,7 @@ callat
 callback
 closish
 conversus
+coffeepot
 callbacks
 callboy
 callboys
@@ -18293,7 +18294,6 @@ cavalry
 coffeeleaf
 coffeeman
 classico
-coffeepot
 clayed
 coffeepots
 coffeeroom
