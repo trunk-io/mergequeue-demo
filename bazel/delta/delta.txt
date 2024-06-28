@@ -2707,7 +2707,6 @@ detectaphone
 decompressive
 dogies
 duckies
-deconcatenate
 deconcentrate
 dhurnas
 deconcentrated
@@ -15606,6 +15605,7 @@ discircumspection
 demeanors
 doodling
 doohickey
+deconcatenate
 doohickus
 doohinkey
 dool
