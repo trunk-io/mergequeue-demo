@@ -167,6 +167,7 @@ facsimiling
 fervour
 fumitories
 favus
+falls
 factionalism
 fullbodied
 felonries
@@ -8898,7 +8899,6 @@ foundryman
 flatlets
 foundrymen
 fallency
-falls
 foundrous
 fount
 fountain
