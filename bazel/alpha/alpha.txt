@@ -12229,7 +12229,6 @@ anchusine
 ancien
 anciency
 anciennete
-anciens
 ancientest
 anciently
 ancientness
@@ -19205,6 +19204,7 @@ archwench
 afterdecks
 archwife
 arceuthobium
+anciens
 arcidae
 arcifera
 arcifinious
