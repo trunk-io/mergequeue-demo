@@ -7584,6 +7584,7 @@ gyving
 grabhook
 grabouche
 gluside
+gripsack
 glasgow
 gerenda
 garpike
@@ -8337,7 +8338,6 @@ gadolinite
 gazelles
 gunport
 grassnut
-gripsack
 gawby
 grasswidow
 gph
