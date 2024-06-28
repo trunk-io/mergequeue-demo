@@ -3847,7 +3847,6 @@ bulgur
 balsas
 bicker
 bauxitic
-bauxitite
 bavaroy
 bowwoman
 bowdlerizations
@@ -15468,6 +15467,7 @@ bilgy
 brimmed
 brimmering
 brimmers
+bauxitite
 bardee
 besieger
 brims
