@@ -13363,6 +13363,7 @@ emphemeralness
 excalfaction
 emporetic
 eclegme
+exter
 expound
 expounder
 encl
@@ -13612,7 +13613,6 @@ ecphonesis
 extrapolative
 extenuative
 extenuator
-exter
 earners
 embacle
 elevon
