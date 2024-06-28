@@ -1506,7 +1506,6 @@ fasciculite
 fruiter
 feuds
 fabulate
-faultful
 flytes
 feods
 futureless
@@ -2759,6 +2758,7 @@ forerunnership
 firebote
 ferventness
 frighteningness
+faultful
 floodwall
 fishify
 furoid

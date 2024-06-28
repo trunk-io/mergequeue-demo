@@ -11016,7 +11016,6 @@ editorializations
 egocentric
 expede
 eriometer
-epistylis
 eurypharyngidae
 elfin
 endomorph
@@ -12597,6 +12596,7 @@ exocoelom
 explant
 epicardium
 exocoelum
+epistylis
 exocone
 eustathian
 eumeromorph
