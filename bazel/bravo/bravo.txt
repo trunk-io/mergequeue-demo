@@ -728,7 +728,6 @@ bending
 befoul
 bandsawing
 badges
-baddy
 bloviate
 badging
 banksman
@@ -4272,6 +4271,7 @@ beautifulness
 bradoon
 bellhanging
 beautihood
+baddy
 bowpots
 belly
 bonaci
