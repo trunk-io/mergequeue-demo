@@ -19708,6 +19708,7 @@ alternativity
 aril
 aryl
 arylating
+annotate
 arylation
 ariled
 artel
@@ -24855,7 +24856,6 @@ archrebel
 avowed
 avowedly
 avower
-annotate
 accidentally
 amphithect
 astronavigation
