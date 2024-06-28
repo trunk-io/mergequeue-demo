@@ -6410,7 +6410,6 @@ car
 cribbers
 cilantro
 cough
-cautelousness
 cautery
 cauteries
 cauterisation
@@ -9472,6 +9471,7 @@ compart
 chavicin
 chomp
 chavicol
+cautelousness
 cowedly
 chaw
 chawbacon
