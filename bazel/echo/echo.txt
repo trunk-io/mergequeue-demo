@@ -3052,6 +3052,7 @@ equated
 eardrop
 ellfish
 ellice
+endarterium
 entellus
 escar
 endothelia
@@ -3671,7 +3672,6 @@ emaciated
 everse
 emoted
 envenom
-endarterium
 embryoism
 embryological
 endocoeliac
