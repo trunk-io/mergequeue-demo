@@ -11419,6 +11419,7 @@ curbed
 chloronitrate
 cruche
 chloropal
+colonizer
 chloropalladates
 chloropalladic
 chlorophaeite
@@ -19125,7 +19126,6 @@ collier
 chariots
 colliery
 cuber
-colonizer
 colliflower
 colliform
 colligate
