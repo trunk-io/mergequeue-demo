@@ -5871,6 +5871,7 @@ depopulator
 deaconries
 demipuppet
 disproval
+dovekeys
 decaliter
 deportability
 deportations
@@ -16169,7 +16170,6 @@ dovecotes
 doveflower
 decadarch
 dovehouse
-dovekeys
 dovekies
 dovelet
 divagate
