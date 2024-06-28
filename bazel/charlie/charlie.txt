@@ -6715,7 +6715,6 @@ ceilidh
 ceilidhe
 connexivum
 ceiling
-custard
 ceilings
 ceilingwards
 couche
@@ -30370,6 +30369,7 @@ crustose
 choloid
 coroutine
 crusts
+custard
 crut
 conservatories
 crutch
