@@ -15805,7 +15805,6 @@ clavicymbal
 clavicytheria
 clavicytherium
 clavicithern
-cartomancy
 chemics
 coralroot
 cytologies
@@ -19184,6 +19183,7 @@ collocalia
 collocated
 crystallographer
 cauked
+cartomancy
 collocating
 carambola
 carrow
