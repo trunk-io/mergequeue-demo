@@ -12155,6 +12155,7 @@ embergoose
 excuser
 elytron
 endpoint
+exposure
 egger
 ellipse
 electrophysicist
@@ -13361,7 +13362,6 @@ expostulatively
 exemplify
 exposture
 epanaphoral
-exposure
 emphemeralness
 excalfaction
 emporetic
