@@ -5948,7 +5948,6 @@ gardon
 gasfiring
 glucokinase
 gastrophrenic
-gliocyte
 gravimetric
 ginnings
 glucolipid
@@ -9936,6 +9935,7 @@ gaisling
 growingly
 glottis
 genevese
+gliocyte
 gangplow
 guaranty
 geoparallelotropic
