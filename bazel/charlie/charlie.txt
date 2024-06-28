@@ -18160,7 +18160,6 @@ coenthrone
 coenunuri
 coleochaetaceae
 coequal
-coequality
 campman
 coequalness
 chopping
@@ -26257,6 +26256,7 @@ cosponsoring
 cosponsors
 cossack
 cessant
+coequality
 cossaean
 cosse
 carnivority
