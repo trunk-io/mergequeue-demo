@@ -35,7 +35,6 @@ excursions
 ewry
 eagres
 ealderman
-ealdorman
 eanling
 ear
 endosporia
@@ -6886,6 +6885,7 @@ entomologies
 entomologised
 emblemized
 eelskin
+ealdorman
 endolabyrinthitis
 erythrozincite
 epineurial
