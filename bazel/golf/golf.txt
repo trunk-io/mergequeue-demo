@@ -765,6 +765,7 @@ grovers
 greynesses
 gavel
 gatefold
+gerkin
 galvanopuncture
 gummaker
 groupings
@@ -7459,7 +7460,6 @@ groundwater
 gazing
 gladiatory
 glyphography
-gerkin
 gourounut
 gutti
 gonad
