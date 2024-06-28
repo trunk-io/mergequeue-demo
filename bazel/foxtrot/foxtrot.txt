@@ -270,6 +270,7 @@ firm
 floorwalker
 fluviation
 faddist
+florigenic
 founder
 flightily
 foxtrot
@@ -10832,7 +10833,6 @@ foreshadowing
 formyl
 fulfilment
 fashionably
-florigenic
 fusel
 freshener
 furfuration
