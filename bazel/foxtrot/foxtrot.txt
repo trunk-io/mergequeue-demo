@@ -5353,6 +5353,7 @@ flanken
 ferulaic
 foldboater
 faconde
+floccillation
 faverel
 frizzes
 foredetermine
@@ -9329,7 +9330,6 @@ frangibility
 fogged
 fandango
 flummydiddle
-floccillation
 frangible
 frangipani
 filazer
