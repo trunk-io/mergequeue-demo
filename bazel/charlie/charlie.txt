@@ -2056,7 +2056,6 @@ counteraverment
 campagna
 campagne
 conli
-campagus
 campaign
 clotheshorses
 campaigners
@@ -31173,6 +31172,7 @@ cupressineous
 cupressinoxylon
 cupressus
 cupriferous
+campagus
 custode
 cuprite
 cuprites
