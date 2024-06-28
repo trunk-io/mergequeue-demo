@@ -2718,7 +2718,6 @@ beladies
 barognosis
 bellypiece
 batholitic
-barograms
 baroko
 boylas
 bullbat
@@ -13814,6 +13813,7 @@ banqueted
 billetwood
 boutefeu
 bouteria
+barograms
 bouteselle
 burmanniaceae
 bet
