@@ -2432,7 +2432,6 @@ ackmen
 aluminized
 anoil
 argentojarosite
-acknew
 autoriser
 atrochal
 arisings
@@ -5776,6 +5775,7 @@ agaricine
 agaricoid
 agarics
 agaricus
+acknew
 absurds
 apluda
 aleurodidae
