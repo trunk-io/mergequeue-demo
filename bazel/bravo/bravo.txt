@@ -3169,7 +3169,6 @@ basicity
 bumph
 benzins
 booklores
-bardism
 byland
 beauclerk
 bukat
@@ -7536,6 +7535,7 @@ bishydroxycoumarin
 buprestidan
 betting
 botulin
+bardism
 bailies
 bettonga
 bitterest
