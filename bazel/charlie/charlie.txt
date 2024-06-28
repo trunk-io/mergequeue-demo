@@ -7869,7 +7869,6 @@ contingencies
 connoissance
 ceruleous
 ceratophrys
-ceruleum
 cerulific
 cerulignol
 cerumen
@@ -19531,6 +19530,7 @@ colourifics
 corposant
 colourist
 colourless
+ceruleum
 colourman
 colours
 colpenchyma
