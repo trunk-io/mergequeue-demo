@@ -6275,6 +6275,7 @@ agorot
 agos
 agouara
 agouty
+artefac
 agoutis
 agleam
 agpaitic
@@ -20454,7 +20455,6 @@ artcraft
 antitypes
 alexinic
 acceptableness
-artefac
 adaptively
 artefacts
 assentation
