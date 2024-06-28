@@ -4576,6 +4576,7 @@ bedark
 bedarkened
 betrunk
 buckteeth
+buglewort
 backjaw
 bedarkening
 bedaub
@@ -16951,7 +16952,6 @@ bong
 basten
 basiliscan
 bugleweed
-buglewort
 buffer
 blennophlogisma
 bugling
