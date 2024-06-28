@@ -2493,7 +2493,6 @@ fringillid
 freebooty
 fingu
 feudum
-fermentability
 flagelliferous
 frontwise
 foreproduct
@@ -8730,6 +8729,7 @@ forwalk
 fossule
 fiddlers
 forwardal
+fermentability
 frescoer
 frenzic
 forwarded
