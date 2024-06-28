@@ -2800,7 +2800,6 @@ epipubic
 ectocornea
 ecdemic
 emitter
-electrometallurgical
 eleomargaric
 eleoplast
 eleoptene
@@ -10357,6 +10356,7 @@ ethnohistoric
 enquired
 explain
 etwite
+electrometallurgical
 ethnol
 ethnolinguist
 erysibe
