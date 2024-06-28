@@ -3678,7 +3678,6 @@ embryologist
 earthmoving
 embryonic
 encyrtidae
-electrophoreses
 epithecate
 elec
 embryoniferous
@@ -12592,6 +12591,7 @@ exocoele
 excitability
 excusing
 exploring
+electrophoreses
 exocoelic
 exocoelom
 explant
