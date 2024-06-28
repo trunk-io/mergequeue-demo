@@ -4994,7 +4994,6 @@ gigger
 glaired
 gurjun
 grisard
-gedeckt
 geomaly
 gangway
 garment
@@ -7536,6 +7535,7 @@ geraniol
 gemini
 gillotype
 gurries
+gedeckt
 gelatiniferous
 grounded
 grinagog
