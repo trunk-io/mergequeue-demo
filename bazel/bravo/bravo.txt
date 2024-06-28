@@ -7955,7 +7955,6 @@ bibliofilm
 botaniser
 bewigged
 boiling
-bedazzlement
 biocatalytic
 bibliographies
 bibliographize
@@ -13395,6 +13394,7 @@ boswellizing
 benzanalgen
 brachioradialis
 botanizes
+bedazzlement
 bulbless
 balsamed
 bemat
