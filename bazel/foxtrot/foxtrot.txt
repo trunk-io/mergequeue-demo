@@ -4946,6 +4946,7 @@ fdname
 frogflower
 flamboyer
 fergusite
+followings
 flameless
 formly
 flitch
@@ -11675,7 +11676,6 @@ fut
 fute
 flopover
 futhorc
-followings
 fleshers
 fillowite
 futiley
