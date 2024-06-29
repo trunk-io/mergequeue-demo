@@ -7711,7 +7711,6 @@ freeish
 falconlike
 forsaken
 flamelike
-formidolous
 fiddlerfishes
 fireshine
 freedmen
@@ -11559,6 +11558,7 @@ frugging
 frontomaxillary
 funiculitis
 folio
+formidolous
 fricasseing
 firefly
 ferociousness
