@@ -2121,6 +2121,7 @@ foxfish
 frightened
 filii
 foredefine
+furlers
 fesapo
 filletlike
 fear
@@ -4412,7 +4413,6 @@ folkmotes
 feulamort
 farand
 fishified
-furlers
 fatuousness
 fishifying
 fishily
