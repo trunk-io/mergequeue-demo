@@ -6793,7 +6793,6 @@ aircraftwoman
 aircrew
 aircrewmen
 aortae
-aerophone
 agrimonia
 axoplasms
 airdate
@@ -19396,6 +19395,7 @@ areometric
 areometrical
 arbutus
 anthologizer
+aerophone
 areopagist
 awacs
 areopagite
