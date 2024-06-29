@@ -6037,7 +6037,6 @@ dimethylnitrosamine
 declassing
 deprivals
 deceiver
-deprive
 deprivement
 depriver
 deflation
@@ -9443,6 +9442,7 @@ differently
 dasypodidae
 differer
 differs
+deprive
 difficileness
 difficilitate
 difficulty

@@ -3575,7 +3575,6 @@ filaments
 formularise
 filamentule
 filao
-froward
 feeblish
 filariae
 filarian
@@ -8174,6 +8173,7 @@ fluoroscoping
 fishways
 faded
 forfeitures
+froward
 felids
 flatulent
 fauvists
