@@ -1966,7 +1966,6 @@ gobans
 gauleiter
 gastrohepatic
 grated
-gaulic
 gigartinaceous
 gulonic
 grummels
@@ -4111,6 +4110,7 @@ genus
 garlandwise
 goosemouth
 gaussmeter
+gaulic
 gimlet
 grapeful
 gamekeeper
