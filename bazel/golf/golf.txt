@@ -6741,7 +6741,6 @@ genes
 gambled
 gauges
 googols
-gonimium
 gyrostats
 glomerate
 geyseral
@@ -9758,6 +9757,7 @@ globulolysis
 grumph
 glendover
 geckoes
+gonimium
 grumphie
 grumpy
 guyana
