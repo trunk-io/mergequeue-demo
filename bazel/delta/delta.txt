@@ -3350,7 +3350,6 @@ dropax
 duxes
 defier
 defiers
-defying
 defilades
 drogues
 disguisal
@@ -6987,6 +6986,7 @@ dogblow
 despecialization
 dispute
 despecialize
+defying
 devote
 despecificate
 despecification
