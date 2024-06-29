@@ -1733,7 +1733,6 @@ accursedness
 astrals
 adorableness
 accurst
-autolaryngoscopy
 anglophobe
 accusable
 accusal
@@ -17212,6 +17211,7 @@ anisochromia
 aculeata
 apogeotropism
 apogon
+autolaryngoscopy
 afterfuture
 apogonid
 apographic
