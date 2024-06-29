@@ -8042,7 +8042,6 @@ beltene
 begazes
 baseline
 biblists
-bovicide
 butanone
 bowlders
 biblos
@@ -14906,6 +14905,7 @@ breakfronts
 breaking
 barkeep
 breakings
+bovicide
 breaklist
 buttercup
 belis
