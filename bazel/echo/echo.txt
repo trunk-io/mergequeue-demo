@@ -639,6 +639,7 @@ existential
 eciton
 ecize
 eversions
+episternum
 epithalamia
 enlivening
 extemporizer
@@ -8305,7 +8306,6 @@ epistena
 episternal
 emaceration
 exterraneous
-episternum
 erucic
 entozoa
 epistyle
