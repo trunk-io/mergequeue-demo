@@ -2806,7 +2806,6 @@ cannulate
 circumscribe
 cursitor
 cannulating
-cannulation
 canoe
 chinafish
 canoeist
@@ -9266,6 +9265,7 @@ canvases
 chases
 chashitsu
 chasm
+cannulation
 circumrotation
 chasma
 chasmed
