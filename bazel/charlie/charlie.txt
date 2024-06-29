@@ -11701,7 +11701,6 @@ cholemia
 crosscurrent
 cholent
 coed
-cholents
 crankbird
 cholepoietic
 cooks
@@ -27792,6 +27791,7 @@ ceylon
 coxalgy
 crepusculum
 coxalgias
+cholents
 convolutedness
 calceiform
 calyceraceous
