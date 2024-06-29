@@ -591,6 +591,7 @@ develin
 distributors
 drawboy
 damie
+dups
 devonport
 damine
 drek
@@ -2549,7 +2550,6 @@ declarant
 declaration
 declarations
 declarative
-dups
 dearomatize
 discomorula
 decemdentate
