@@ -6226,6 +6226,7 @@ agon
 agonal
 aurorae
 agoniada
+ascendency
 atellan
 activable
 audile
@@ -20973,7 +20974,6 @@ ascendantly
 ascendants
 acetonate
 ascendence
-ascendency
 adeuism
 arbitrament
 ascending
