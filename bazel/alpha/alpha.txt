@@ -3218,7 +3218,6 @@ acuchi
 acuclosure
 acuductor
 acuerdo
-acuity
 arbuscle
 acuities
 anous
@@ -4569,6 +4568,7 @@ armozine
 atactic
 ataghans
 argols
+acuity
 advisees
 advisement
 atli
