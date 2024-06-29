@@ -1263,6 +1263,7 @@ fastbacks
 feower
 frigor
 field
+forehatchway
 fastening
 frocked
 flyspeck
@@ -9073,7 +9074,6 @@ forbarred
 frisure
 feints
 fenlander
-forehatchway
 featy
 fishing
 fumigator
