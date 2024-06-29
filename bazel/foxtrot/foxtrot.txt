@@ -5916,6 +5916,7 @@ flinted
 forril
 finesse
 filleted
+furnishings
 flocculent
 fluemen
 flushes
@@ -9186,7 +9187,6 @@ fixive
 fanaloka
 fruiterer
 footled
-furnishings
 fishpot
 fragileness
 fusels
