@@ -2682,7 +2682,6 @@ electrotechnician
 exports
 extendibility
 electrotelegraphy
-endplay
 ellagitannin
 exogens
 electrotherapeutical
@@ -8336,6 +8335,7 @@ emblematized
 erratums
 endolaryngeal
 epitactic
+endplay
 epitaphian
 epitaphist
 ejection
