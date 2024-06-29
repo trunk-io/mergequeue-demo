@@ -3587,7 +3587,6 @@ emboss
 embossage
 embossed
 enbibe
-electromyographic
 embossing
 embossman
 exembryonate
@@ -8130,6 +8129,7 @@ escartelly
 exotic
 expositor
 epiglottidean
+electromyographic
 epiphloeum
 entranceway
 etherize
