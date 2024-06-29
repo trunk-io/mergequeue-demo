@@ -5107,7 +5107,6 @@ garland
 glassful
 gumless
 gritty
-gratuity
 goloshes
 glassfuls
 gastronomics
@@ -10447,6 +10446,7 @@ getable
 gulping
 gaulter
 gynostemium
+gratuity
 gum
 gandhi
 gourdy
