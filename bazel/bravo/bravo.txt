@@ -2493,6 +2493,7 @@ barfs
 bargain
 bergmannite
 bargainable
+buckraming
 billbugs
 bargainer
 bargaining
@@ -16729,7 +16730,6 @@ baronetise
 baldachined
 besugo
 biguanide
-buckraming
 bassness
 blowcase
 breithauptite
