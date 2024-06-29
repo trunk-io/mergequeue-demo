@@ -3184,7 +3184,6 @@ disability
 defatting
 defensing
 duringly
-defaultant
 defaulted
 defaultless
 downfolded
@@ -12668,6 +12667,7 @@ discourage
 duntle
 disjoinable
 delegant
+defaultant
 disjoining
 deemphasis
 descendentalist
