@@ -7997,6 +7997,7 @@ cestodes
 cestoi
 copatron
 chamberwoman
+coactivity
 coronize
 carouses
 cestoidean
@@ -17128,7 +17129,6 @@ constituently
 coaction
 coactive
 coactively
-coactivity
 coacts
 coadamite
 companionized
