@@ -3039,7 +3039,6 @@ exerciser
 enzymology
 epigenesis
 epidermis
-ecumenicality
 embryonary
 elkanah
 essentialness
@@ -8368,6 +8367,7 @@ epistolize
 electropuncturation
 exceedingness
 ethnolinguistic
+ecumenicality
 ecardine
 ejectives
 enukki
