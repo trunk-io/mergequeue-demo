@@ -7370,6 +7370,7 @@ commercer
 constitution
 carnelians
 cryptolunatic
+chloro
 cephala
 caucasus
 crushes
@@ -11355,7 +11356,6 @@ cynocephalus
 chesterbed
 chlormethane
 chlornal
-chloro
 chloroacetone
 chloroacetophenone
 childe
