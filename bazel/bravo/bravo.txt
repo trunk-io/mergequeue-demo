@@ -3744,7 +3744,6 @@ battles
 battleships
 barrace
 buhr
-behooveful
 brahui
 battlesome
 brigantes
@@ -6156,6 +6155,7 @@ baryecoia
 beroll
 burnout
 benchmarks
+behooveful
 benchmen
 balneologic
 baronetising
