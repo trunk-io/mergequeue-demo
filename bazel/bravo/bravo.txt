@@ -4729,7 +4729,6 @@ bedlar
 bedlids
 bord
 beinked
-bewrought
 bedmakers
 bakatan
 borak
@@ -12017,6 +12016,7 @@ boozify
 bathetic
 bellowers
 bugseed
+bewrought
 botryomyces
 bogach
 bogard
