@@ -7875,6 +7875,7 @@ fusillades
 foresail
 farl
 foresails
+formalizable
 farmscape
 forescene
 fetticus
@@ -8387,7 +8388,6 @@ felonry
 forsado
 finlander
 formalities
-formalizable
 fetise
 formalizations
 fictitiously
