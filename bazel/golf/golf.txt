@@ -649,7 +649,6 @@ gardencraft
 gallomaniac
 gallon
 gallonage
-goffered
 gonapophysis
 galloper
 glaciates
@@ -9163,6 +9162,7 @@ geneticist
 guanajuatite
 greenwich
 gynarchies
+goffered
 gastrodisk
 gangling
 greenyard
