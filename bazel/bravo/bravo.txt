@@ -1850,6 +1850,7 @@ banderole
 brigading
 banders
 befume
+befogging
 banjara
 barkinji
 bandfile
@@ -5144,7 +5145,6 @@ biotas
 bogbean
 befluster
 baetylus
-befogging
 beguile
 befogs
 bottoms
