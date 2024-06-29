@@ -7361,7 +7361,6 @@ entameba
 economy
 epanorthidae
 ephorates
-epanorthoses
 endocarpic
 epanorthotic
 epapophysis
@@ -10097,6 +10096,7 @@ encastered
 eftsoon
 ethambutol
 ethmovomerine
+epanorthoses
 ethanamide
 exitial
 entamoebiasis
