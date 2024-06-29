@@ -2504,6 +2504,7 @@ bargainer
 bargaining
 beechwoods
 bhut
+bedark
 brachyoura
 barge
 bergere
@@ -4581,7 +4582,6 @@ bituberculated
 bedare
 bemingles
 bowelless
-bedark
 bedarkened
 betrunk
 buckteeth
