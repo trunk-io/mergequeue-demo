@@ -499,7 +499,6 @@ abjured
 abjurement
 abjurer
 abjurers
-abkar
 abkari
 abkhasian
 ashtrays
@@ -12531,6 +12530,7 @@ anemotaxis
 anemotropism
 amandus
 aggregatae
+abkar
 anencephalia
 anencephalic
 apochromat
