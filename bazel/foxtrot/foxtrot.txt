@@ -1263,7 +1263,6 @@ fastbacks
 feower
 frigor
 field
-forehatchway
 fastening
 frocked
 flyspeck
@@ -3984,6 +3983,7 @@ fingerhook
 fibrinemia
 factitial
 feminisation
+forehatchway
 fraulein
 france
 fingerless
