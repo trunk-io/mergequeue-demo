@@ -9921,7 +9921,6 @@ carvone
 chemiotaxis
 chemiotropic
 chemiotropism
-chemiphotic
 chemise
 crinet
 chemisette
@@ -20744,6 +20743,7 @@ complexional
 carioling
 courtlet
 complexionary
+chemiphotic
 churchliest
 complexioned
 charioted
