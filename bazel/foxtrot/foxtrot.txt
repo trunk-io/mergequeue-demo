@@ -1688,7 +1688,6 @@ federate
 fuddledness
 fealty
 fumigates
-fear
 forebrace
 fimbles
 forgrow
@@ -2124,6 +2123,7 @@ filii
 foredefine
 fesapo
 filletlike
+fear
 flagpoles
 firmers
 fraghan
