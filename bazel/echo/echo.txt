@@ -2068,7 +2068,6 @@ embalm
 enterocinesia
 elaphurus
 exalbuminous
-elapidae
 electroballistically
 elapids
 euthyneural
@@ -4442,6 +4441,7 @@ elaboratory
 everest
 encapsulation
 emitted
+elapidae
 encapsuled
 estimators
 enure
