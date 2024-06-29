@@ -4605,7 +4605,6 @@ endpleasure
 enam
 effigies
 encharging
-equidifferent
 enchased
 elaidinic
 exsolve
@@ -4760,6 +4759,7 @@ existent
 endosmosic
 epistler
 entomophytous
+equidifferent
 encycl
 episcopally
 echinal
