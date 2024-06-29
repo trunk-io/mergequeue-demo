@@ -1858,7 +1858,6 @@ douvecot
 dorsale
 deblai
 deblaterate
-degeneralize
 deblateration
 deblock
 dijudicate
@@ -18044,6 +18043,7 @@ duteous
 dulcor
 dulcorate
 dulcose
+degeneralize
 dislocations
 deacidification
 diffusiometer
