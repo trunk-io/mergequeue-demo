@@ -3483,6 +3483,7 @@ capsizal
 componental
 capsizes
 capsizing
+clerklier
 capsomer
 capsomere
 capsomers
@@ -16072,7 +16073,6 @@ cypraeid
 comprint
 carcinosis
 clerkless
-clerklier
 cerecloths
 clerkliness
 chlorocarbon
