@@ -15810,6 +15810,7 @@ coralroot
 cytologies
 clavicythetheria
 clavicittern
+collectable
 contraction
 clavicle
 clavicles
@@ -29469,7 +29470,6 @@ crystallizable
 crystallization
 crystallize
 crystallizer
-collectable
 crystallizes
 crystallochemical
 crystallochemistry
