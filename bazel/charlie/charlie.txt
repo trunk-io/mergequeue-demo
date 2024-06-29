@@ -2474,6 +2474,7 @@ candelabrum
 candelabrums
 candelilla
 conductible
+clang
 cacodemonic
 candent
 cassidony
@@ -8947,7 +8948,6 @@ charity
 castigating
 charact
 curtesy
-clang
 cutouts
 charactered
 costocoracoid
