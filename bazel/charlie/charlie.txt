@@ -7583,7 +7583,6 @@ ceratopsian
 ceratopteridaceae
 carnac
 ceratopteris
-ceratorhine
 contriteness
 ceratospongian
 ceratostomataceae
@@ -8515,6 +8514,7 @@ chrysolophus
 chamberlet
 centroid
 chamberleted
+ceratorhine
 camelidae
 chambers
 chambertin
