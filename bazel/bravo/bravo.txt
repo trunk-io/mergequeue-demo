@@ -2366,7 +2366,6 @@ barbotine
 bones
 bastinade
 biolysis
-borate
 bachelorlike
 backcountry
 barbula
@@ -9769,6 +9768,7 @@ bandmasters
 billback
 bisymmetrical
 bigg
+borate
 bisync
 broombush
 boolies
