@@ -7568,7 +7568,6 @@ consentaneously
 ceratohyoid
 ceratoid
 cartellist
-ceratomandibular
 ceratonia
 cicerones
 cardamoms
@@ -19580,6 +19579,7 @@ coluber
 colubriform
 colubrinae
 colubrine
+ceratomandibular
 clarsach
 colubroid
 colugo
