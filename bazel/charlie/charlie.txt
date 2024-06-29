@@ -15641,7 +15641,6 @@ coplanarity
 chiromantical
 classbook
 classed
-conventionalise
 classer
 classers
 chophouses
@@ -22317,6 +22316,7 @@ commentatorially
 congoes
 cheeps
 chirper
+conventionalise
 coroplasty
 congolese
 coincline
