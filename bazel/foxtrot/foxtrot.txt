@@ -3536,6 +3536,7 @@ figurer
 flyweight
 facebread
 figures
+feelingless
 foresting
 friesic
 forestine
@@ -6457,7 +6458,6 @@ fumigation
 footworn
 fibrinolysis
 fungi
-feelingless
 fulgurata
 flapjack
 fluorotic
