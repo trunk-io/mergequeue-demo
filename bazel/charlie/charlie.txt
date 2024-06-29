@@ -20586,7 +20586,6 @@ compendiums
 counterterror
 compends
 compenetration
-compensability
 compensated
 compensates
 conglomerates
@@ -29170,6 +29169,7 @@ cotillons
 cryoconite
 cryogeny
 callidity
+compensability
 cryogenic
 cradleside
 cryogenics
