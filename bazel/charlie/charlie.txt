@@ -3481,6 +3481,7 @@ competencies
 capsizable
 capsizal
 componental
+crunt
 capsizes
 capsizing
 clerklier
@@ -5910,7 +5911,6 @@ copras
 caterpillar
 caterpillared
 caterpillarlike
-crunt
 chelerythrin
 caterpillars
 caters
