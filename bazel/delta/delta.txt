@@ -5287,7 +5287,6 @@ deputy
 denominations
 dicty
 denominators
-denormalized
 darktown
 denotable
 deafer
@@ -12563,6 +12562,7 @@ dungier
 disowning
 disinfecting
 doubly
+denormalized
 disinfection
 disinfections
 dochter
