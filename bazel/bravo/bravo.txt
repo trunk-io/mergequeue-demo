@@ -4982,7 +4982,6 @@ beerhouse
 billed
 beerhouses
 beerily
-beeriness
 barbecueing
 blastophore
 burgage
@@ -13522,6 +13521,7 @@ botticelli
 backtracker
 bottlebird
 bottlebrush
+beeriness
 bedless
 broomer
 bionomics
