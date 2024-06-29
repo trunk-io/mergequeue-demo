@@ -12066,7 +12066,6 @@ crete
 crucified
 chorioptes
 chorioptic
-chorioretinal
 chorioretinitis
 choripetalae
 cleuk
@@ -24141,6 +24140,7 @@ converter
 converters
 convertibility
 convertible
+chorioretinal
 converting
 computerizable
 convertingness
