@@ -9878,7 +9878,6 @@ chelonia
 chelonian
 cheloniidae
 crucialness
-concyclically
 cunit
 chemehuevi
 chemesthesis
@@ -17648,6 +17647,7 @@ coccobacillus
 coccochromatic
 coccogone
 coccogoneae
+concyclically
 coccoidal
 coccoids
 canonlike
