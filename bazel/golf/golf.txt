@@ -5502,7 +5502,6 @@ gauche
 gus
 gue
 germanly
-glyphographic
 galore
 gardenmaking
 greenness
@@ -10682,6 +10681,7 @@ grandeurs
 goliardeys
 gurl
 grove
+glyphographic
 glycerols
 gurnard
 genomes
