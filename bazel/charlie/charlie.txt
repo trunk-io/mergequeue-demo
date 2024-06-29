@@ -7571,6 +7571,7 @@ cartellist
 ceratonia
 cicerones
 cardamoms
+chlorophyl
 ceratophyllaceous
 ceratophyllum
 ceratophyta
@@ -11440,7 +11441,6 @@ chlorophyceae
 convenee
 cressweed
 commands
-chlorophyl
 chlorophyllase
 chlorophyllian
 chlorophyllide
