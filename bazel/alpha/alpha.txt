@@ -4228,6 +4228,7 @@ adornment
 armamentaria
 adornments
 adornos
+affy
 attestation
 argentation
 automorph
@@ -22983,7 +22984,6 @@ arkosic
 antimatter
 ataxics
 antiquarians
-affy
 attainder
 acholic
 attainders
