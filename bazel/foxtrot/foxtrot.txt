@@ -5565,6 +5565,7 @@ fascicle
 fibbing
 felon
 fratriage
+funniness
 flowerfly
 flancards
 flyball
@@ -6746,7 +6747,6 @@ flaw
 frontrunner
 folksily
 felted
-funniness
 fogyish
 fogless
 fogo
