@@ -1723,7 +1723,6 @@ byline
 boutonniere
 baronial
 baloskion
-baloskionaceae
 bulbels
 belittled
 bonito
@@ -16604,6 +16603,7 @@ buccaneerish
 buccaning
 beraunite
 buccanned
+baloskionaceae
 bent
 buccanning
 beltings
