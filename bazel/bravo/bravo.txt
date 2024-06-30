@@ -1886,7 +1886,6 @@ bandiness
 bewend
 bevies
 belay
-banding
 biostatics
 bandit
 beshrew
@@ -1957,6 +1956,7 @@ bandwagon
 briskness
 baahling
 bdls
+banding
 bacteriophage
 bandwidth
 bandwidths

@@ -11313,7 +11313,6 @@ amphiuma
 amphiumidae
 alegar
 antixerophthalmic
-amphivasal
 amphodarch
 amphogeny
 ampholytic
@@ -16281,6 +16280,7 @@ antitheft
 antitheism
 antitheist
 agrees
+amphivasal
 affixer
 antitheistic
 antithenar
