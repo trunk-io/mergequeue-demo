@@ -4953,7 +4953,6 @@ endeavorer
 endamaging
 edificable
 ericeticolous
-endeavors
 exilable
 emulsifiable
 enthronise
@@ -12667,6 +12666,7 @@ exogenetic
 enkolpion
 exometritis
 excogitate
+endeavors
 echo
 erotized
 emerse
