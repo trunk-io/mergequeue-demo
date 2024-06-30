@@ -2507,7 +2507,6 @@ bergere
 bargehouse
 bargelike
 bravura
-bargelli
 bargellos
 bargeman
 begroans
@@ -4149,6 +4148,7 @@ bearer
 bedrenched
 bras
 broozled
+bargelli
 bearess
 bearfoots
 burez
