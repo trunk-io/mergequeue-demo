@@ -4830,7 +4830,6 @@ galleta
 gnashing
 gladeye
 glossematics
-geostationary
 gastrolobium
 glar
 gyves
@@ -8574,6 +8573,7 @@ gallied
 grapline
 gozzard
 guideposts
+geostationary
 goldfielder
 gaslight
 gladiators
