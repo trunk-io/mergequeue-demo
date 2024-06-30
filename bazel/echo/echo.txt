@@ -8630,6 +8630,7 @@ ergatomorph
 equid
 equidimensional
 equidist
+exrx
 eumerogenesis
 estrogen
 embranglement
@@ -13456,7 +13457,6 @@ exquisitively
 effectuation
 exradius
 extraconstitutional
-exrx
 exultant
 evenforth
 exsanguinate
