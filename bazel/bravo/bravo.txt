@@ -2344,7 +2344,6 @@ bathyscape
 barbicel
 barbicels
 barbierite
-barbion
 busyish
 baldwin
 burhinus
@@ -11278,6 +11277,7 @@ broguing
 bloodnoun
 breedings
 bloodred
+barbion
 bespit
 bloodshed
 balaenoid
