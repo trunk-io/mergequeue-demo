@@ -9692,6 +9692,7 @@ dihybrids
 disfunctions
 drizzle
 dihydrochloride
+duplicable
 diapason
 dishonestly
 despot
@@ -10087,7 +10088,6 @@ defecant
 dynam
 dissightly
 dynamically
-duplicable
 devisals
 debarkations
 defailance
