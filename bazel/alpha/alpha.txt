@@ -8794,7 +8794,6 @@ activators
 alligatored
 alligatorfish
 alligatorfishes
-alligators
 allyic
 arbinose
 allying
@@ -23809,6 +23808,7 @@ ashed
 allhallowtide
 adephagan
 archagitator
+alligators
 autecism
 autecology
 adstipulate
