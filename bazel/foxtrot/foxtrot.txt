@@ -4843,6 +4843,7 @@ flagman
 floppy
 fisticuffing
 fasciolaria
+fashionmonging
 fullwords
 faena
 figurehead
@@ -10949,7 +10950,6 @@ fulness
 feminize
 fulnesses
 fennec
-fashionmonging
 flanconade
 feuded
 flagstone
