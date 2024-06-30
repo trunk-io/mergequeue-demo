@@ -5144,6 +5144,7 @@ gravery
 glassmaking
 grav
 geophysics
+getable
 grittier
 guerdonless
 gunman
@@ -10441,7 +10442,6 @@ gillbird
 giller
 gulpers
 geepound
-getable
 gulping
 gaulter
 gynostemium
