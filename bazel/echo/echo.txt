@@ -1489,7 +1489,6 @@ entopical
 ethiopian
 emunct
 epipleural
-epitrachelion
 envelop
 enfarce
 efforts
@@ -2115,6 +2114,7 @@ edgemaker
 elasmothere
 euphoniously
 extorsively
+epitrachelion
 ebullioscope
 evacuate
 excretory
