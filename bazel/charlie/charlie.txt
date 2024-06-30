@@ -9598,7 +9598,6 @@ checkerbloom
 checkerboard
 calyciform
 checkerboarded
-checkerboards
 checkered
 checkery
 checkering
@@ -25332,6 +25331,7 @@ cornballs
 cornberry
 counterscale
 cornbind
+checkerboards
 cricking
 crosspieces
 chromoisomerism
