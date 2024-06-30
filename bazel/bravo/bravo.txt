@@ -3519,6 +3519,7 @@ bogglish
 broadax
 batete
 brabbling
+blue
 byroads
 batfishes
 biri
@@ -11472,7 +11473,6 @@ bludgeon
 bludgeons
 bludger
 besoothe
-blue
 benmost
 bakeapple
 beguiled
