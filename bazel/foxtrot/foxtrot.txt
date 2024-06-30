@@ -1787,7 +1787,6 @@ farsalah
 forlorn
 foundery
 frivolously
-fablemongering
 fetid
 featherless
 fackings
@@ -6623,6 +6622,7 @@ foaling
 foals
 foam
 fikie
+fablemongering
 foamed
 feltness
 fructose
