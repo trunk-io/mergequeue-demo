@@ -11474,6 +11474,7 @@ diplomaed
 duplicitous
 discloud
 dingus
+disjointness
 disclusion
 dislimb
 dollar
@@ -12675,7 +12676,6 @@ duplicidentate
 disjointing
 disjointly
 dechemicalization
-disjointness
 dulia
 disjoints
 disjointure
