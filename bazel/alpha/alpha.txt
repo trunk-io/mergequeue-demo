@@ -2005,7 +2005,6 @@ acetomorphine
 acetonaemia
 acetonaemic
 acetone
-acetonemia
 arbitrage
 acetonemic
 acetonic
@@ -18225,6 +18224,7 @@ aquarius
 astint
 aquarter
 anacusia
+acetonemia
 asterixis
 asdics
 adelomorphous
