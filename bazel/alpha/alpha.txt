@@ -7698,7 +7698,6 @@ axolemma
 actual
 alcmene
 alco
-antimerger
 alcoate
 alchemical
 alcogene
@@ -13311,6 +13310,7 @@ autosome
 arraignability
 apoturmeric
 anisometric
+antimerger
 allodification
 acetarious
 aquilawood
