@@ -1342,7 +1342,6 @@ dismask
 dauntingness
 discerners
 daunton
-daunts
 duelli
 definer
 dauphine
@@ -2112,6 +2111,7 @@ decameral
 doline
 debars
 diapasm
+daunts
 dissembles
 doab
 duddies
