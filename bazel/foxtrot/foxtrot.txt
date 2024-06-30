@@ -6245,7 +6245,6 @@ foretops
 feebling
 fleabugs
 fovent
-forcleave
 frenal
 frivoling
 fictionmonger
@@ -9975,6 +9974,7 @@ frigage
 frigates
 flocculated
 flavin
+forcleave
 frightener
 fanmaker
 frightens
