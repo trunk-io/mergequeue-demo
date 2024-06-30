@@ -3983,7 +3983,6 @@ fingerers
 fingerhold
 feed
 freehanded
-facility
 fingerhook
 fibrinemia
 factitial
@@ -9129,6 +9128,7 @@ forelive
 frabjous
 foldboating
 frusta
+facility
 fracid
 fracted
 foraminulous
