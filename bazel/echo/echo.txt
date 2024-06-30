@@ -2134,6 +2134,7 @@ euxenite
 elastivity
 embouchement
 elastomer
+erosional
 emperish
 embrasured
 epipubes
@@ -7748,7 +7749,6 @@ ejulation
 elytroplastic
 epeirogeny
 equilibration
-erosional
 expendability
 epidemiologic
 epistolean
