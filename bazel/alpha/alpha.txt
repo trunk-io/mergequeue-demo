@@ -5040,7 +5040,6 @@ aerotechnical
 aerotherapeutics
 aerotherapy
 amreetas
-aerothermodynamics
 aerotonometer
 agronomic
 aerotonometry
@@ -16931,6 +16930,7 @@ apicitis
 alimentive
 apickback
 anosia
+aerothermodynamics
 allocute
 antiinstitutionalist
 apicolysis
