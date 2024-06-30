@@ -627,7 +627,6 @@ bacteriologic
 biscuitmaking
 blinds
 bacteriologists
-bacteriopathology
 burnoose
 bacteriophages
 brattish
@@ -3442,6 +3441,7 @@ bastinadoing
 basting
 bastings
 bastion
+bacteriopathology
 blendure
 bastionary
 bastionet
