@@ -3320,7 +3320,6 @@ capocchia
 capoche
 crouche
 cuj
-capomo
 chrysomelidae
 cogware
 chelates
@@ -5887,6 +5886,7 @@ crooisite
 catenating
 catenation
 catenative
+capomo
 compositorial
 catenoid
 catenulate
