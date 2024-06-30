@@ -3082,6 +3082,7 @@ capability
 charks
 capable
 capableness
+clayoquot
 challengingly
 cirque
 capabler
@@ -15298,7 +15299,6 @@ consumables
 claimers
 claymore
 claims
-clayoquot
 covenable
 claypans
 clair
