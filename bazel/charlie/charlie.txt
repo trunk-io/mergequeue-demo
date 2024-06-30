@@ -5530,7 +5530,6 @@ commorancy
 catabolin
 catabolism
 catabolite
-catabolize
 catabolized
 claim
 crevalles
@@ -20426,6 +20425,7 @@ compaction
 cincinnus
 compactly
 chondrodynia
+catabolize
 compactor
 compactors
 compacts
