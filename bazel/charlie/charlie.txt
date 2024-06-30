@@ -16912,6 +16912,7 @@ clubman
 clubmate
 chiccory
 coexists
+crosswort
 clubroom
 casebooks
 clubrooms
@@ -29953,7 +29954,6 @@ crayonstone
 crosswise
 crisle
 crosswiseness
-crosswort
 crostarie
 cajoler
 crotal
