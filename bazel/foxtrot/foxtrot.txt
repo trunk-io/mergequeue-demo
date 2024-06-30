@@ -4753,6 +4753,7 @@ fumers
 flacianist
 flack
 fife
+foresey
 forerank
 fique
 feudalities
@@ -9300,7 +9301,6 @@ flagons
 fordull
 front
 fervors
-foresey
 fabrikoid
 fireworms
 franchisor
