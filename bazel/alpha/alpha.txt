@@ -8731,7 +8731,6 @@ aller
 allergenic
 abouchement
 allergenicity
-allergies
 arrhythmous
 atheology
 ankylotome
@@ -18106,6 +18105,7 @@ aproctous
 aproned
 aproneer
 aceanthrene
+allergies
 aright
 apronful
 aprons
