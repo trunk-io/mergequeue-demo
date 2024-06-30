@@ -2700,6 +2700,7 @@ felspathic
 fainaigue
 fabricable
 fibrinolytic
+frostbow
 flavorer
 flashy
 frump
@@ -10458,7 +10459,6 @@ finary
 fidged
 forcite
 frostbitten
-frostbow
 filibranchiate
 focalization
 flangeway
