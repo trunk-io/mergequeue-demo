@@ -11006,7 +11006,6 @@ blickies
 blighia
 britskas
 bloodlike
-blight
 blightbird
 blastomycetic
 blighted
@@ -17531,6 +17530,7 @@ binucleate
 backspeir
 beflower
 burbolt
+blight
 burbot
 burdalone
 bleak
