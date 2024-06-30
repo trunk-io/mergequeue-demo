@@ -4995,7 +4995,6 @@ carting
 coulometry
 cartist
 cartloads
-cartmaker
 clicket
 cartmaking
 cartobibliography
@@ -14975,6 +14974,7 @@ cytomorphological
 cyton
 cytone
 chorda
+cartmaker
 cycas
 cobberer
 cytoparaplastin
