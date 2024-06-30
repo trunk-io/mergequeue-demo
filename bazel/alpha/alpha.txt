@@ -7212,7 +7212,6 @@ alactaga
 airfreighter
 alada
 aladdin
-async
 adonic
 alagao
 alagarto
@@ -11204,6 +11203,7 @@ aerobacter
 amphigonic
 amphigory
 amphigories
+async
 allthing
 amphikaryotic
 atchison
