@@ -6382,7 +6382,6 @@ beaconwise
 benzamide
 benzoxate
 benzamine
-bristler
 biblic
 barrer
 brike
@@ -14858,6 +14857,7 @@ breaded
 breaden
 breadfruit
 breadfruits
+bristler
 bronchopulmonary
 bedewer
 breadline
