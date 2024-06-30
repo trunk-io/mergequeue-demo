@@ -3941,7 +3941,6 @@ discastle
 disp
 dyscrasite
 dewy
-deity
 damone
 deityship
 deywoman
@@ -14080,6 +14079,7 @@ depravation
 distrest
 distributary
 distributaries
+deity
 doocot
 distribute
 dolichocephalic
