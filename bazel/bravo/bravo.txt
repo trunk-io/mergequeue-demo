@@ -3730,6 +3730,7 @@ batting
 battings
 battledores
 baldly
+branches
 barotraumata
 battlefronts
 bringall
@@ -14550,7 +14551,6 @@ bardish
 bestraw
 branchellion
 blattoidea
-branches
 beadle
 branchiae
 bradyglossia
