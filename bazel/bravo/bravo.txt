@@ -706,6 +706,7 @@ bogyland
 browbeaten
 badge
 badgeless
+binful
 bransles
 berrendo
 badger
@@ -2332,7 +2333,6 @@ barbican
 bridgemaker
 berake
 breloque
-binful
 barbicanage
 bathyscape
 barbicel
