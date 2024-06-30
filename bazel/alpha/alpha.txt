@@ -11551,7 +11551,6 @@ anaces
 amanitin
 aiery
 anacharis
-anachorism
 abilities
 accepter
 anachromasis
@@ -24533,6 +24532,7 @@ acumens
 auxograph
 auxology
 auxospore
+anachorism
 aniba
 auxotonic
 auxotox
