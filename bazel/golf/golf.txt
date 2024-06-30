@@ -2725,6 +2725,7 @@ gematrical
 genyophrynidae
 geodesic
 gips
+granularity
 geek
 graywall
 genip
@@ -9470,7 +9471,6 @@ glossographical
 germaneness
 groundwall
 gleeishly
-granularity
 gauffering
 guanabano
 glaciaria
