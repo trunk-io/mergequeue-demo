@@ -1774,7 +1774,6 @@ ciceronize
 camaca
 collochromate
 circularizing
-camacan
 camachile
 camay
 camaieu
@@ -10279,6 +10278,7 @@ cartilages
 chiasma
 chiasmal
 chloasmata
+camacan
 chiasmas
 chiasmata
 cystoscopy
