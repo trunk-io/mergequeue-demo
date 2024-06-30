@@ -5070,7 +5070,6 @@ aesculin
 aesculus
 abiogenetic
 aesir
-acrosarc
 almightiness
 aesop
 aesopian
@@ -25113,6 +25112,7 @@ anthonin
 arterioverter
 anagenesis
 apraxias
+acrosarc
 axinite
 axiolite
 alimentiveness
