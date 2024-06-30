@@ -9942,6 +9942,7 @@ dimensioning
 datch
 dimensum
 decked
+disangularize
 diphenyl
 dimer
 deboner
@@ -13295,7 +13296,6 @@ disponge
 diacetate
 digynia
 disporting
-disangularize
 disportment
 disposability
 decohesion
