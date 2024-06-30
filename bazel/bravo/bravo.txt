@@ -3703,7 +3703,6 @@ blackest
 bumboatman
 bally
 battarismus
-birdlore
 belfather
 batteaux
 bonnering
@@ -14172,6 +14171,7 @@ bittock
 butsudan
 brighteyes
 birdlife
+birdlore
 brachiosaur
 brachiosaurus
 brevirostral
