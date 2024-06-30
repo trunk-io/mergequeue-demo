@@ -2558,7 +2558,6 @@ barile
 barilla
 bleeder
 blackie
-battledore
 basiglandular
 baryon
 baryphonia
@@ -4336,6 +4335,7 @@ boggish
 brabbled
 bosons
 bathyscaph
+battledore
 boreus
 bacterious
 bebothered
