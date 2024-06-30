@@ -297,6 +297,7 @@ famine
 froren
 fraenums
 foreboder
+frigate
 fumade
 familistic
 flambeed
@@ -2227,7 +2228,6 @@ flaggier
 felwort
 friseur
 femality
-frigate
 faciobrachial
 feme
 femorotibial
