@@ -5818,7 +5818,6 @@ auxetics
 atlatl
 aligner
 author
-aplanatically
 agatized
 agatizes
 agatizing
@@ -10740,6 +10739,7 @@ amissing
 amita
 amitabha
 adherends
+aplanatically
 amitate
 amitie
 abandonments
