@@ -1367,7 +1367,6 @@ guls
 guillotiner
 greenalite
 galvanist
-garlic
 glycolylurea
 geoside
 galloner
@@ -10001,6 +10000,7 @@ gelsemiumia
 gymnocerata
 gubbins
 geoethnic
+garlic
 gubernacular
 gallicole
 gurdwara
