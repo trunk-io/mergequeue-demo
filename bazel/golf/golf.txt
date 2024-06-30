@@ -4033,7 +4033,6 @@ gilds
 gildship
 gawn
 gildsmen
-gastrosplenic
 gerundive
 gremial
 ghastfulness
@@ -9622,6 +9621,7 @@ gummite
 gabies
 guisarme
 gufought
+gastrosplenic
 goodsire
 gracileness
 gastromalacia
