@@ -842,7 +842,6 @@ bauxites
 bagful
 bemantle
 bielorouss
-barbaric
 baggagemaster
 baggager
 brassica
@@ -7546,6 +7545,7 @@ bitterest
 bettor
 bullfighter
 brakes
+barbaric
 betulin
 beneaped
 betulinic
