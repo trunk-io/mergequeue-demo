@@ -7508,6 +7508,7 @@ gardeners
 garbled
 goldarns
 gravimeter
+gallycrow
 greywether
 governs
 gallwort
@@ -8317,7 +8318,6 @@ grasshouse
 gentlemanlike
 gravest
 graminaceae
-gallycrow
 galvanoglyphy
 gunfighters
 glucofrangulin
