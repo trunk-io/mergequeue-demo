@@ -3484,7 +3484,6 @@ fantasist
 fifteens
 frauds
 fifties
-fumiduct
 fiftieth
 forseen
 figaro
@@ -11089,6 +11088,7 @@ functionnaire
 functions
 fundable
 functors
+fumiduct
 frankincense
 functus
 fessewise
