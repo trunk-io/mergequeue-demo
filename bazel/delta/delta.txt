@@ -708,7 +708,6 @@ dancalite
 duro
 dopester
 deadmelt
-dance
 danceability
 danceable
 demoniacs
@@ -9018,6 +9017,7 @@ dom
 daughtership
 distilery
 diaphanousness
+dance
 dichotomize
 demographic
 diamylose
