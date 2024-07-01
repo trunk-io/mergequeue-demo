@@ -16341,7 +16341,6 @@ antiusurious
 annunciative
 aquabelle
 antivariolous
-antivenefic
 antivenereal
 antivenine
 aphodi
@@ -22958,6 +22957,7 @@ appetencies
 attackers
 attacking
 antedated
+antivenefic
 attackingly
 archispore
 attacus
