@@ -2898,7 +2898,6 @@ bemadam
 blind
 barrelhead
 benefactor
-barrelhouses
 barreling
 blanco
 bited
@@ -10246,6 +10245,7 @@ bakalei
 blacketeer
 blackfeet
 brakeage
+barrelhouses
 barege
 bewrayingly
 backstone
