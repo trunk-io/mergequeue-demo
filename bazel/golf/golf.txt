@@ -6673,6 +6673,7 @@ gossans
 gurglingly
 gruss
 gunnysack
+glunch
 gondolas
 global
 glasseye
@@ -7117,7 +7118,6 @@ gorb
 gorbelly
 grievedly
 gyttja
-glunch
 gremio
 gagtooth
 gorble
