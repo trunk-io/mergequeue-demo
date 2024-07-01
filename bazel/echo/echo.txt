@@ -3071,7 +3071,6 @@ endarterium
 entellus
 escar
 eurycephalous
-enqueue
 embeds
 emp
 escurialize
@@ -6879,6 +6878,7 @@ entomologist
 entomologize
 echinosphaeritidae
 entrap
+enqueue
 entomologized
 enstatolite
 ebcasc
