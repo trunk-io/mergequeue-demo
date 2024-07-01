@@ -11141,7 +11141,6 @@ descriptors
 disassembling
 disassent
 disassimilate
-disassimilation
 deltoidal
 disassimilative
 disassociable
@@ -17583,6 +17582,7 @@ drumfishes
 drumhead
 decolour
 drumler
+disassimilation
 drumlier
 drumliest
 drumlike
