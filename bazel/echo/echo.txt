@@ -7681,7 +7681,6 @@ enterogastritis
 epicotyl
 epicotyls
 endoderms
-erebus
 enhancement
 enterosyphilis
 empathy
@@ -10726,6 +10725,7 @@ extrasyllabic
 enswathe
 ensigning
 endopleural
+erebus
 euglenoid
 euglenoidina
 ecossaise
