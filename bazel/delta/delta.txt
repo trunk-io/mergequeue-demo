@@ -4349,7 +4349,6 @@ deltohedron
 dogvanes
 dauerlauf
 delubra
-delubrubra
 deluce
 delude
 dipperful
@@ -14243,6 +14242,7 @@ debatable
 dita
 dinocerata
 discerpibility
+delubrubra
 dital
 ditali
 ditalini
