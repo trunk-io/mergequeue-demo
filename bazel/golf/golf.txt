@@ -8027,7 +8027,6 @@ greedy
 gladioli
 granitiform
 granitite
-granitization
 ghain
 gesning
 gentlewoman
@@ -10673,6 +10672,7 @@ gurgulio
 glaiketness
 guric
 grog
+granitization
 grandeurs
 goliardeys
 gurl
