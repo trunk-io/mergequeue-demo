@@ -18275,7 +18275,6 @@ cladothrix
 cuss
 capelets
 coffeehouse
-coffeehoused
 coffeehouses
 cavalry
 coffeeleaf
@@ -27455,6 +27454,7 @@ couscousou
 creamed
 casserole
 cousinage
+coffeehoused
 cousiness
 cacesthesis
 cozier

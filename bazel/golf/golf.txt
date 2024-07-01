@@ -5433,7 +5433,6 @@ gazella
 gigartinaceae
 gospodipoda
 gowkedness
-guttural
 grimful
 groomishly
 groutiest
@@ -6309,6 +6308,7 @@ gobbed
 grx
 gobber
 gobby
+guttural
 ghostiest
 gconv
 gynandrarchic
