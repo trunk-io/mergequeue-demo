@@ -5762,7 +5762,6 @@ epigraphy
 expressions
 englobed
 englobing
-entrail
 empery
 envelopment
 extirp
@@ -14046,6 +14045,7 @@ etchareottine
 equationism
 embassiate
 emes
+entrail
 emplume
 excitonic
 emu
