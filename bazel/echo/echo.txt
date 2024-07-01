@@ -2541,7 +2541,6 @@ ennead
 electrometer
 exstrophy
 earthgrubber
-exitus
 ecstrophy
 electrometrical
 electrometrically
@@ -5175,6 +5174,7 @@ euryalida
 endolymphatic
 estafette
 ectobatic
+exitus
 endolysin
 eparchy
 endomastoiditis
