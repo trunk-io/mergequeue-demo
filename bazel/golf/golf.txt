@@ -5955,7 +5955,6 @@ gawney
 gipsyweed
 glucoses
 glances
-glibly
 glucoside
 geryonid
 grantha
@@ -6886,6 +6885,7 @@ garrotes
 grabman
 graticulate
 glis
+glibly
 goodbyes
 goodenia
 gravispheric
