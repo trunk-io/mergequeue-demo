@@ -7220,7 +7220,6 @@ germanocentric
 getah
 garlicmonger
 governorate
-gorman
 grewt
 grailer
 gemination
@@ -7808,6 +7807,7 @@ guaba
 groaners
 glutter
 guarantine
+gorman
 guisards
 gerents
 gurlet
