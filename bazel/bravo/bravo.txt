@@ -2505,6 +2505,7 @@ barger
 bardash
 bicycles
 borscht
+beruffled
 barghests
 boccia
 beslash
@@ -6856,7 +6857,6 @@ beachy
 broadsided
 ber
 beruffed
-beruffled
 bilic
 berwick
 boldness
