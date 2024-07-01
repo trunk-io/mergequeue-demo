@@ -9374,7 +9374,6 @@ berend
 biplane
 bobolink
 biplanes
-biplicate
 beclogging
 bonavist
 biplicity
@@ -15532,6 +15531,7 @@ bawcock
 bisso
 bimas
 bryony
+biplicate
 buglet
 bryonia
 belloot
