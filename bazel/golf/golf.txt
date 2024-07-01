@@ -229,7 +229,6 @@ glyptics
 gayyou
 gail
 gundy
-gp
 glowfly
 gestatorium
 germanomaniac
@@ -6490,6 +6489,7 @@ geneses
 gallivanted
 gouger
 guineapig
+gp
 gormands
 geswarp
 gabbles
