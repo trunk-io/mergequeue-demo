@@ -8937,7 +8937,6 @@ floit
 fourball
 flite
 fertilizability
-fourche
 fiacre
 feverwort
 favositoid
@@ -10171,6 +10170,7 @@ fissile
 foresinger
 frontlet
 farraginous
+fourche
 fitter
 fled
 fashed
