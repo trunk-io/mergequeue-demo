@@ -5029,7 +5029,6 @@ grilles
 growled
 guilty
 guariba
-glander
 glandered
 graunt
 glimpser
@@ -10300,6 +10299,7 @@ guise
 garnel
 guitar
 grecque
+glander
 gourmet
 guitarist
 guitarists
