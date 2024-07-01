@@ -301,7 +301,6 @@ dayanim
 directories
 daybeacon
 daybed
-disbark
 disambiguation
 dissuasiveness
 dollfaced
@@ -10796,6 +10795,7 @@ dipterocarpus
 delay
 dipteroi
 ditchside
+disbark
 dependent
 dipterus
 dotterel
