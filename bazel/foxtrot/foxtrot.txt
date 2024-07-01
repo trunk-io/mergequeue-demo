@@ -779,7 +779,6 @@ forestaff
 fragrance
 foretack
 fellest
-fandangle
 fallows
 fandangos
 fandoms
@@ -4577,6 +4576,7 @@ fistuca
 foxchop
 forrue
 freest
+fandangle
 filmist
 fistula
 fetwa
