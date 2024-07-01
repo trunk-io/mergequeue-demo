@@ -8354,7 +8354,6 @@ dele
 diagonal
 diagonalizable
 diagonalization
-disarticulated
 diagnosing
 duel
 diagonals
@@ -18187,6 +18186,7 @@ dermatoscopy
 disobedience
 disprized
 diable
+disarticulated
 dunch
 devilizing
 dunciad
