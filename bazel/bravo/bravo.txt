@@ -271,6 +271,7 @@ booths
 bacis
 belar
 back
+backhouse
 buttering
 backache
 burrknot
@@ -3041,7 +3042,6 @@ badminton
 barware
 barwood
 boneblack
-backhouse
 blepharoadenitis
 barksome
 basale
