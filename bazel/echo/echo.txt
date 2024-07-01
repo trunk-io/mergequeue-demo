@@ -5341,7 +5341,6 @@ endostosis
 epanody
 economiser
 endostracum
-enteromycosis
 endothecal
 estrade
 embowers
@@ -9107,6 +9106,7 @@ eskimo
 exordial
 eyases
 electrotherapeutics
+enteromycosis
 extrality
 extravascular
 ellipsometer
