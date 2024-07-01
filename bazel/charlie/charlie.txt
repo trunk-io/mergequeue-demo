@@ -7468,7 +7468,6 @@ cephalopathy
 cephalopharyngeal
 cephalophyma
 cephalophine
-cephalophus
 cryostats
 cephaloplegia
 cervisia
@@ -24193,6 +24192,7 @@ convicts
 crosshatch
 casselty
 convince
+cephalophus
 coquinas
 convinced
 convincedness
