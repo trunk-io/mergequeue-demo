@@ -2875,7 +2875,6 @@ blithered
 barratries
 budgeted
 bacteriostatic
-barratrous
 barratrously
 barred
 barrelage
@@ -12360,6 +12359,7 @@ baptised
 boltwork
 bolus
 bomb
+barratrous
 bombable
 bombacaceae
 bombace
