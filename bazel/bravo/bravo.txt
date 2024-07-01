@@ -4064,7 +4064,6 @@ bean
 brickred
 bedlamp
 begottenness
-begged
 beanball
 bedeafen
 beforesaid
@@ -11560,6 +11559,7 @@ bluffing
 bluffly
 baba
 banyoro
+begged
 biomicroscopies
 bluffs
 bromthymol
