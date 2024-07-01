@@ -8326,7 +8326,6 @@ drumbeat
 diaeretic
 dubiocrystalline
 diaetetae
-diagenesis
 diageotropic
 diaglyphic
 desmopelmous
@@ -13978,6 +13977,7 @@ distintion
 distn
 dystocia
 dystocial
+diagenesis
 discrepance
 dacryadenalgia
 discohexaster
