@@ -4153,7 +4153,6 @@ creels
 cardiographies
 cardiohepatic
 cardioid
-cardioids
 countertrend
 courche
 cardiolysis
@@ -14397,6 +14396,7 @@ circumnavigator
 cyclometrical
 cannabin
 costal
+cardioids
 copplecrown
 circumnuclear
 canalside
