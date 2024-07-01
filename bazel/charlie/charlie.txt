@@ -7496,7 +7496,6 @@ cephalotaceae
 chalaziferous
 cephalotaxus
 cephalothecal
-cephalothoracic
 cephalothoraxes
 cephalotomy
 contrate
@@ -28314,6 +28313,7 @@ candace
 cachet
 craterellus
 crossfiring
+cephalothoracic
 carabineer
 crateriform
 cratering
