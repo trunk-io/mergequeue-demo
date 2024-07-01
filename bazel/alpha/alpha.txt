@@ -7982,6 +7982,7 @@ appliers
 aldehydrol
 aspirators
 algebar
+askapart
 alawi
 amaranths
 altarpiece
@@ -21314,7 +21315,6 @@ asystolic
 asyzygetic
 ask
 askable
-askapart
 antonymous
 askari
 amphiploid
