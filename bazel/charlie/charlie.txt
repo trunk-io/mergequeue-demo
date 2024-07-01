@@ -7435,7 +7435,6 @@ cucujidae
 consolidator
 cephaloclast
 cephalocone
-cephaloconic
 cephalodia
 cephalodymus
 cephalodiscid
@@ -17463,6 +17462,7 @@ cobaltic
 craninia
 contrude
 crowdweed
+cephaloconic
 cobalticyanides
 cobaltiferous
 chookie
