@@ -4202,6 +4202,7 @@ flier
 foothold
 fringilliform
 froe
+furlable
 fidicinales
 farness
 fetus
@@ -9582,7 +9583,6 @@ foller
 frederik
 fluorid
 fetoplacental
-furlable
 flatette
 figureless
 freeby
