@@ -16885,7 +16885,6 @@ aphthongal
 asphalted
 anaerobe
 appenage
-aberrations
 aphthongia
 apiaca
 apiaceae
@@ -19209,6 +19208,7 @@ arctan
 arctation
 attendances
 arteriectasia
+aberrations
 antepretonic
 antiparliamenteer
 alemannic
