@@ -7596,7 +7596,6 @@ bonitoes
 bevomiting
 briefer
 bevomits
-bevor
 bread
 bevvy
 baronages
@@ -9327,6 +9326,7 @@ bipedality
 bipeds
 bipeltate
 bipennate
+bevor
 built
 barometer
 bipetalous
