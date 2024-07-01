@@ -5821,7 +5821,6 @@ concourses
 catechumens
 catechumenship
 codo
-catechus
 catechutannic
 conquest
 coumarate
@@ -23341,6 +23340,7 @@ consummated
 consummating
 calamaroid
 consummative
+catechus
 consummator
 consumo
 consumpted
