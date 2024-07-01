@@ -2626,7 +2626,6 @@ fiduciaries
 forbidden
 flappy
 flurry
-frat
 fluidification
 ferryway
 finding
@@ -10248,6 +10247,7 @@ frogman
 formamide
 fluoroscopically
 fractile
+frat
 frogmarch
 fission
 flowerful
