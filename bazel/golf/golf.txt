@@ -6207,7 +6207,6 @@ gatefolds
 go
 grammar
 germiparity
-grammaticize
 generalizing
 ganevs
 gemmuliferous
@@ -7980,6 +7979,7 @@ gorsechat
 grandniece
 graphiologist
 gratitude
+grammaticize
 gelatinising
 geste
 gemse
