@@ -9672,7 +9672,6 @@ diguanide
 digue
 dihalide
 derives
-dihalo
 discommendable
 dihalogen
 deadline
@@ -14852,6 +14851,7 @@ doctorize
 distinctness
 distributive
 doctorless
+dihalo
 disorderly
 disfranchise
 desiliconize
