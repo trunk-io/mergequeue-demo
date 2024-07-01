@@ -1281,7 +1281,6 @@ gesticulator
 ged
 garbologist
 gavall
-gearshift
 gladkaite
 goethites
 gratten
@@ -1425,6 +1424,7 @@ ganyie
 grimace
 gadsbud
 gasified
+gearshift
 garottes
 gabbai
 goutiness
