@@ -208,7 +208,6 @@ earthsmoke
 eyesores
 earthwall
 entte
-earthwards
 earthworks
 enddamaged
 exoticalness
@@ -8347,6 +8346,7 @@ epaulets
 epithalline
 einstein
 evaginate
+earthwards
 epistolize
 electropuncturation
 exceedingness
