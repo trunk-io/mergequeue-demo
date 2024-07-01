@@ -7476,7 +7476,6 @@ feedingstuff
 forebay
 fragmentization
 feathering
-fittable
 flocked
 feuilletonist
 fideos
@@ -9970,6 +9969,7 @@ friesian
 federator
 friezed
 farrow
+fittable
 fleshhook
 friezer
 frig
