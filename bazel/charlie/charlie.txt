@@ -6510,7 +6510,6 @@ compares
 crankly
 canell
 cavefish
-cavefishes
 cavey
 chromoscope
 cavekeeper
@@ -24471,6 +24470,7 @@ collybia
 coordination
 coordinative
 coordinatory
+cavefishes
 cooree
 coorie
 convoker
