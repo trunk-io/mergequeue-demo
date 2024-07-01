@@ -6814,7 +6814,6 @@ celibacies
 contrivancy
 costard
 celibataire
-celibate
 celibatic
 conducent
 celibatist
@@ -8089,6 +8088,7 @@ catchweed
 chaa
 cholecalciferol
 chab
+celibate
 chabasite
 counterclockwise
 chabazite
