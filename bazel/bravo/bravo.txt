@@ -4600,7 +4600,6 @@ bedcovers
 blader
 bouts
 bucklered
-bedding
 beddingroll
 bogans
 bedeaf
@@ -11749,6 +11748,7 @@ buddies
 brandying
 bilsted
 boatswain
+bedding
 beneficience
 boatswains
 boattail
