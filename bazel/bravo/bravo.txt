@@ -10423,6 +10423,7 @@ blakeite
 bargepole
 billot
 bounderish
+buffability
 bamboozlers
 breviature
 bordman
@@ -16833,7 +16834,6 @@ babungera
 briony
 blaffert
 buffa
-buffability
 brumbee
 bacterioid
 buffable

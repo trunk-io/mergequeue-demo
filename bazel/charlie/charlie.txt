@@ -4814,7 +4814,6 @@ carpogonia
 choanoflagellata
 carpoidea
 chalcidid
-carpolite
 carpolith
 confides
 carpology
@@ -9814,6 +9813,7 @@ cheiranthus
 cheirogaleus
 cheirography
 cheirolin
+carpolite
 cymbal
 cheiroline
 cheirology
