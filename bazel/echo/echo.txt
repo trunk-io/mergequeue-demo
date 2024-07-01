@@ -3988,7 +3988,6 @@ evangelise
 endosarcode
 empanelling
 empanels
-empaper
 ecumene
 emparchment
 emparl
@@ -10550,6 +10549,7 @@ endorses
 eucharistically
 eucharistized
 earthfall
+empaper
 enplaning
 enswathed
 eucharists
