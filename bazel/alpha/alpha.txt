@@ -2088,7 +2088,6 @@ applemonger
 acheron
 acheronian
 achroous
-acherontic
 acherontical
 aches
 achesoun
@@ -18144,6 +18143,7 @@ aptitudes
 antagonised
 aptness
 aptnesses
+acherontic
 antereformation
 accounsel
 apokreos
