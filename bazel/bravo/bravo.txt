@@ -726,7 +726,6 @@ bending
 befoul
 bandsawing
 badges
-bloviate
 badging
 banksman
 bifrost
@@ -17890,6 +17889,7 @@ baboosh
 busera
 blowfly
 bush
+bloviate
 bushbashing
 bushbody
 bushbuck
