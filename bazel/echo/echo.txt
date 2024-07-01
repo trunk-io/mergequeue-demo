@@ -5849,6 +5849,7 @@ enocyte
 electrotyping
 edificing
 earthwork
+epigeum
 extrazodiacal
 exsiccate
 engrossedly
@@ -12804,7 +12805,6 @@ eminences
 exoterical
 exoterically
 escobadura
-epigeum
 exocardiac
 espials
 epicranium
