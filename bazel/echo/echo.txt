@@ -1486,6 +1486,7 @@ ethiopian
 emunct
 epipleural
 envelop
+etaerio
 enfarce
 efforts
 effraction
@@ -14030,7 +14031,6 @@ ethmolith
 extratarsal
 esterase
 extratellurian
-etaerio
 exch
 ecclesiasticalism
 escoting
