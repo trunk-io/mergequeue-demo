@@ -13105,7 +13105,6 @@ alterant
 atlee
 adamantine
 animalcular
-animalculine
 animalculum
 animalic
 anopsy
@@ -25179,6 +25178,7 @@ axoneure
 axonia
 assahy
 axonolipa
+animalculine
 axonolipous
 amirate
 axonometric
