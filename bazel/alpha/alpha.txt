@@ -5264,7 +5264,6 @@ affirmed
 anthribid
 affirmers
 affirmingly
-affix
 affixable
 affixal
 affixation
@@ -13838,6 +13837,7 @@ amniatic
 anotta
 anotus
 anounou
+affix
 anour
 asher
 anovesical
