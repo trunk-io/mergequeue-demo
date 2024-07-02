@@ -1765,6 +1765,7 @@ bedraggling
 balun
 balustrading
 bulbed
+bivvy
 balzarine
 bam
 brittled
@@ -10093,7 +10094,6 @@ bivouacs
 bibliographical
 biotoxins
 bodes
-bivvy
 bouilli
 byway
 baining
