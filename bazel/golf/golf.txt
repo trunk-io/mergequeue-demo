@@ -4700,7 +4700,6 @@ ghafir
 galli
 gyroscopes
 gastroplenic
-girouettes
 gestes
 gyrous
 gledy
@@ -9596,6 +9595,7 @@ grasshopper
 growly
 guarantying
 gravimeters
+girouettes
 growliest
 gnathobdellida
 glibbest
