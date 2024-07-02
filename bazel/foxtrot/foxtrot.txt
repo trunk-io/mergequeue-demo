@@ -4931,7 +4931,6 @@ forged
 frequentable
 flambeau
 foamier
-flambeaux
 flamberg
 faintingly
 flamboyance
@@ -10831,6 +10830,7 @@ fulcruming
 fanatical
 follower
 fulfiller
+flambeaux
 fulfillment
 flus
 flavorous
