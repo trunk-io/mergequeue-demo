@@ -9059,6 +9059,7 @@ cheerless
 chargeable
 chimmesyan
 ciphertext
+collective
 chargeableness
 chargeably
 chargeant
@@ -19759,7 +19760,6 @@ corrigent
 combinations
 combinative
 combinator
-collective
 combinatory
 combinatorial
 combinatorially
