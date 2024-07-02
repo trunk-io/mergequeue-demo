@@ -7045,7 +7045,6 @@ bacteritic
 besmudge
 belshazzar
 blindling
-besmudged
 beamless
 blasted
 besmudges
@@ -11664,6 +11663,7 @@ boanergism
 bisontine
 board
 boarded
+besmudged
 bibulosity
 boardinghouse
 boardings
