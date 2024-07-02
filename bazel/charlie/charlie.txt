@@ -2042,7 +2042,6 @@ camouflaging
 camouflet
 camoufleur
 chests
-camoufleurs
 camp
 campa
 campagi
@@ -19547,6 +19546,7 @@ chromogenetic
 colpoptosis
 colporrhagia
 colporrhaphy
+camoufleurs
 colporrhea
 colporrhexis
 colport
