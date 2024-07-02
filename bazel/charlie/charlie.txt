@@ -4308,7 +4308,6 @@ coagulatory
 carets
 caretta
 careworn
-cardipericarditis
 carex
 cottages
 carfare
@@ -7195,6 +7194,7 @@ centiplume
 carrozza
 centistere
 centistoke
+cardipericarditis
 clairvoyancies
 coeline
 centner
