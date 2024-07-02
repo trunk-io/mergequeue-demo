@@ -6094,6 +6094,7 @@ catlin
 catling
 catlings
 catlins
+craftsperson
 cryptoporticus
 canephroi
 cumene
@@ -28000,7 +28001,6 @@ cistophori
 craftspeople
 concubinaries
 cheeriness
-craftsperson
 craftwork
 craftworker
 conquedle
