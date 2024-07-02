@@ -1109,7 +1109,6 @@ edged
 eidolon
 echiurus
 edgeling
-edgeman
 edger
 edgeshot
 extemporaneity
@@ -7636,6 +7635,7 @@ epicoele
 elkesaite
 espinos
 epicoeliac
+edgeman
 etiologies
 epicoeloma
 euchymous
