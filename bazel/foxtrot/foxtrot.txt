@@ -2998,7 +2998,6 @@ filamented
 flyoff
 feuilletons
 filialness
-fastballs
 fleches
 facier
 formulary
@@ -8111,6 +8110,7 @@ forthwith
 fretless
 foretop
 ferberite
+fastballs
 formoxime
 foretopmast
 fonted
