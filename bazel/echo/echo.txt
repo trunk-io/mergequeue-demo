@@ -4140,6 +4140,7 @@ energids
 empoisoned
 embryonated
 externum
+encl
 encaustes
 etherol
 elaterium
@@ -13371,7 +13372,6 @@ eclegme
 exter
 expound
 expounder
-encl
 efractory
 exomion
 eulogised
