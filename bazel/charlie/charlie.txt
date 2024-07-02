@@ -3136,7 +3136,6 @@ capeadores
 capel
 capelan
 capelans
-capelet
 capelin
 cornette
 capeline
@@ -19498,6 +19497,7 @@ colostrous
 colostrum
 colotomy
 colotomies
+capelet
 citharoedus
 colour
 configurational
