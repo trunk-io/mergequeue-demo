@@ -4306,7 +4306,6 @@ basurale
 bebog
 bebopper
 bebops
-belongings
 blessing
 bluntish
 boggish
@@ -10325,6 +10324,7 @@ bebump
 bilged
 broomwort
 blackpatch
+belongings
 bestialize
 beavering
 batara
