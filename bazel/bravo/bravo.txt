@@ -782,7 +782,6 @@ browniness
 bldr
 blautok
 baetulus
-baetzner
 boothose
 batrachophobia
 bespeaker
@@ -14757,6 +14756,7 @@ boulevards
 bravoing
 bifolium
 bravuras
+baetzner
 brawer
 buncal
 brawlingly
