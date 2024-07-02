@@ -3171,7 +3171,6 @@ byland
 beauclerk
 bukat
 bolis
-basics
 bollandist
 blastozooid
 bromelia
@@ -9268,6 +9267,7 @@ beguilingness
 bruted
 banksides
 biotins
+basics
 beefhead
 biotypes
 biotypic
