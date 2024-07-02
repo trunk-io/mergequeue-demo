@@ -6305,7 +6305,6 @@ embowed
 encirclement
 enrut
 euclidean
-eugeosyncline
 ens
 emmenagogue
 exceeder
@@ -8525,6 +8524,7 @@ englisher
 enwombs
 equableness
 evangelion
+eugeosyncline
 ethnologer
 erectility
 encampments
