@@ -10283,7 +10283,6 @@ amene
 aeroides
 antierosive
 agaricic
-amenite
 amenorrheic
 amenorrho
 amenorrhoea
@@ -15824,6 +15823,7 @@ antiplastic
 antiplatelet
 antipleion
 antiplethoric
+amenite
 antiplurality
 antipodagric
 antipodal
