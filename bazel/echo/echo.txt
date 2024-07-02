@@ -8810,6 +8810,7 @@ expedients
 extime
 elev
 enterozoan
+evangelary
 el
 ectoskeleton
 ejective
@@ -11210,7 +11211,6 @@ evanescible
 evanescing
 esophagocele
 expilation
-evangelary
 exostracism
 endover
 easinesses
