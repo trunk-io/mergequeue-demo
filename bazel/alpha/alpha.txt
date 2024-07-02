@@ -6966,7 +6966,6 @@ assisters
 airts
 anviled
 aitkenite
-aftertrial
 aitutakian
 algerine
 agentival
@@ -23906,6 +23905,7 @@ autocall
 antilogarithms
 armorwise
 anticipatory
+aftertrial
 aface
 autocamper
 apostatised
