@@ -4228,6 +4228,7 @@ cardoons
 cardophagus
 clearwing
 carbamido
+carnet
 chiron
 coloboma
 chauffeur
@@ -4581,7 +4582,6 @@ corespondency
 carneole
 coroner
 chartula
-carnet
 coacervating
 citoler
 carnets
