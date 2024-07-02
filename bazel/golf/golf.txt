@@ -6193,7 +6193,6 @@ grammar
 germiparity
 generalizing
 ganevs
-gemmuliferous
 garters
 gadfly
 garibaldi
@@ -9759,6 +9758,7 @@ guyana
 gibetting
 grieced
 grun
+gemmuliferous
 gien
 gtt
 gluttonizing
