@@ -4937,6 +4937,7 @@ aerologist
 antepartum
 aeromancer
 aeromechanic
+alphameric
 aeromechanics
 aeromedical
 aerometer
@@ -9362,7 +9363,6 @@ alphabetizing
 antiprotease
 anguishful
 aptera
-alphameric
 alphamerically
 alphanumerics
 approachers
