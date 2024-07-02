@@ -22126,7 +22126,6 @@ conformations
 conformator
 conformed
 conformer
-carabin
 cumbered
 curvate
 conformingly
@@ -28597,6 +28596,7 @@ credulity
 cardiosclerosis
 credulities
 credulous
+carabin
 cokernut
 cree
 creed
