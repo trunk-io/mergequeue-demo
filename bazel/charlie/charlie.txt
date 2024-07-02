@@ -2472,6 +2472,7 @@ candelabrum
 candelabrums
 candelilla
 conductible
+certitude
 clang
 cacodemonic
 candent
@@ -7867,7 +7868,6 @@ certifying
 coys
 certiorate
 certis
-certitude
 certitudes
 circularized
 certosa
