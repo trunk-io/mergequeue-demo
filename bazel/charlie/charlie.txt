@@ -18518,6 +18518,7 @@ cohenite
 cohens
 cronk
 carpentership
+curr
 cohered
 coherence
 containment
@@ -31448,7 +31449,6 @@ curnies
 curpin
 curple
 calver
-curr
 cushioncraft
 collarino
 calcites
