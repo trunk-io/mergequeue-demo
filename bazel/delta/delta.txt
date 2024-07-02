@@ -1754,7 +1754,6 @@ drof
 deathward
 dikaryon
 docent
-depthometer
 deathworm
 disomic
 deaved
@@ -12189,6 +12188,7 @@ dichloromethane
 dilker
 disproven
 dehusk
+depthometer
 danziger
 diacetine
 dha

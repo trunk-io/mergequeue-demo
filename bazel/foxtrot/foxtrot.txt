@@ -5492,7 +5492,6 @@ fleshhood
 froust
 foraged
 fleshy
-fleshier
 finch
 fillet
 ferally
@@ -7768,6 +7767,7 @@ furl
 finning
 ferrotyped
 footrail
+fleshier
 formosan
 fattiest
 fecundify
