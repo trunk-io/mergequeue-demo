@@ -11673,7 +11673,6 @@ cholecystokinin
 chetrums
 corkiness
 cholecystolithiasis
-cholecystopexy
 cholecystostomy
 cholecystostomies
 cholecystotomy
@@ -13353,6 +13352,7 @@ cyclobothra
 carmakers
 cyclobutane
 constableship
+cholecystopexy
 cyclocephaly
 cyclocoelic
 cyclode
