@@ -15643,7 +15643,6 @@ classable
 coplanarity
 classbook
 classed
-classer
 classers
 chophouses
 classfellow
@@ -21189,6 +21188,7 @@ concelebrate
 clinophobia
 concelebrates
 concelebration
+classer
 concelebrations
 concent
 concenter
