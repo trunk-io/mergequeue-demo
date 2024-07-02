@@ -1158,7 +1158,6 @@ correlate
 calculational
 calculations
 calculator
-cadaveric
 calculatory
 calculators
 chorically
@@ -11807,6 +11806,7 @@ chondrinous
 cirrhotic
 chondrioma
 chondriomere
+cadaveric
 chondriosphere
 ceresin
 connaturally
