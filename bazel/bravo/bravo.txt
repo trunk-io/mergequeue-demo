@@ -2951,6 +2951,7 @@ broadcasters
 barrios
 boulevard
 barrister
+bootless
 botts
 broadshare
 burrel
@@ -9671,7 +9672,6 @@ biscutate
 bisdiapason
 binary
 bicapsular
-bootless
 bisect
 brinjaul
 bisected
