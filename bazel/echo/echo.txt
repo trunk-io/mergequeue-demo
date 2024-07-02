@@ -1790,7 +1790,6 @@ eyepiece
 eyepit
 embattle
 eyepoint
-eyeroot
 emule
 exhbn
 eutony
@@ -4150,6 +4149,7 @@ encaustes
 etherol
 elaterium
 elaborator
+eyeroot
 enchronicle
 escaloped
 etuve
