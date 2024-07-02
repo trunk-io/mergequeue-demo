@@ -2258,7 +2258,6 @@ acichloride
 acyclic
 aciculae
 amended
-aciculate
 agronomics
 aciculum
 asonia
@@ -5745,6 +5744,7 @@ agapetid
 arretine
 agapetidae
 agennetic
+aciculate
 atoning
 autocoder
 aphodian

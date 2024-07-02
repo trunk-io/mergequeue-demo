@@ -5833,7 +5833,6 @@ foreswearing
 funned
 filmer
 flittermouse
-farmlands
 fathmur
 flamb
 flitters
@@ -10030,6 +10029,7 @@ frijolillo
 fainness
 frike
 footpaths
+farmlands
 foreshroud
 framableness
 fanga
