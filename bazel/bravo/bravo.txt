@@ -1015,7 +1015,6 @@ balcony
 burnweed
 bail
 burs
-boshas
 bringer
 bailable
 boordly
@@ -5265,6 +5264,7 @@ beggaring
 bicrescentic
 beggarlice
 beggarlike
+boshas
 beggarliness
 brimless
 beggarweed
