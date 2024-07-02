@@ -1872,6 +1872,7 @@ cambric
 cartonnage
 cambricleaf
 colobus
+curs
 countercampaign
 cambridge
 catostomidae
@@ -3288,7 +3289,6 @@ colourability
 calcino
 crusilee
 capitulate
-curs
 capitulates
 chobdar
 campshot
