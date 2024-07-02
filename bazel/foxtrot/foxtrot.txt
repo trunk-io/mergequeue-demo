@@ -5964,7 +5964,6 @@ fructiferous
 floodable
 fineable
 freeze
-fertilize
 fabiform
 flowerpots
 flooder
@@ -6088,6 +6087,7 @@ floriage
 fateful
 floriation
 freet
+fertilize
 frizz
 farting
 filamentar
