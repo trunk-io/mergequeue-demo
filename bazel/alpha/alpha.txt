@@ -3486,7 +3486,6 @@ agisting
 adduced
 abeyances
 aragonese
-abrenunciate
 adducer
 adduces
 adducible
@@ -17540,6 +17539,7 @@ apparats
 apparatus
 arist
 appareled
+abrenunciate
 appareling
 apparency
 apparent
