@@ -2143,7 +2143,6 @@ detectors
 disturbs
 diosmosis
 decantist
-decaphyllous
 decapitable
 decapitate
 decapitates
@@ -9834,6 +9833,7 @@ dillenia
 downfield
 didymoid
 dimethoate
+decaphyllous
 deckpipe
 dipsos
 dermatocyst
