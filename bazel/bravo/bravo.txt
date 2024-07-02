@@ -7909,7 +7909,6 @@ bibelots
 bibenzyl
 biberon
 bibi
-bibio
 bibionid
 barbitalism
 bibiri
@@ -11474,6 +11473,7 @@ bluebottle
 bluebreast
 build
 bibbed
+bibio
 bluecoated
 becquerelite
 berycoidei
