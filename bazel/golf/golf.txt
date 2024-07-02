@@ -4486,6 +4486,7 @@ graphemes
 gammelost
 giocoso
 gip
+gleba
 gipon
 gaetulan
 gunlayer
@@ -8312,7 +8313,6 @@ gymnasiums
 genioglossi
 gulled
 gremmy
-gleba
 gripy
 garnisher
 grasshouse
