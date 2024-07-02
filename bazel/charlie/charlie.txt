@@ -2748,7 +2748,6 @@ clatsop
 cannequin
 colts
 cancerphobia
-contestant
 cannetille
 cannibalean
 claviers
@@ -11829,6 +11828,7 @@ chondroalbuminoid
 chondroangioma
 credential
 chondroarthritis
+contestant
 chondroblastoma
 chondrocyte
 caliphates
