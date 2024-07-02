@@ -1641,6 +1641,7 @@ backlotter
 baronage
 ballottine
 ballottines
+bathwort
 ballpark
 brasquing
 bandi
@@ -3610,7 +3611,6 @@ bathukolpian
 bromogelatin
 bathvillite
 brooklet
-bathwort
 bookmobile
 besought
 blithelike
