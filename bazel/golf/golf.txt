@@ -5100,7 +5100,6 @@ gularis
 garland
 glassful
 gumless
-gritty
 goloshes
 glassfuls
 gastronomics
@@ -8618,6 +8617,7 @@ granter
 grapy
 geyser
 glossless
+gritty
 gonolobus
 gres
 galvanologist
