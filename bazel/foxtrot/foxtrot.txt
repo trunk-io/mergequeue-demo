@@ -5038,6 +5038,7 @@ floc
 forepaw
 ferries
 fungate
+fizz
 forekeel
 flanque
 faithbreaker
@@ -8707,7 +8708,6 @@ floriferously
 fortunes
 faintise
 frankfort
-fizz
 forbiddable
 flogged
 fortunite
