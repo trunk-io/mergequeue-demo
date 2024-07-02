@@ -16711,7 +16711,6 @@ abjuration
 accoutrements
 asserters
 aphacia
-aphacial
 alcaides
 anethole
 aphacic
@@ -23878,6 +23877,7 @@ autoanticomplement
 autoasphyxiation
 apologetically
 algicides
+aphacial
 autoaspiration
 autoassimilation
 autobahn
