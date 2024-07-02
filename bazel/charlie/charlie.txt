@@ -16931,7 +16931,6 @@ coexists
 crosswort
 clubroom
 casebooks
-clubrooms
 carding
 clubroots
 clubs
@@ -21951,6 +21950,7 @@ confessant
 confessary
 coelomopore
 cornfield
+clubrooms
 confessedly
 confesser
 confesses
