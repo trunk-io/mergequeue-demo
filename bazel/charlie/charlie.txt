@@ -2143,7 +2143,6 @@ camphols
 camphor
 camphorated
 camphorates
-camphorating
 camphory
 camphoryl
 corgi
@@ -19741,6 +19740,7 @@ chrysanthemum
 carbone
 combatting
 connoisseur
+camphorating
 chowdering
 combfish
 comby
