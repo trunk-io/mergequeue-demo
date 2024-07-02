@@ -8118,6 +8118,7 @@ foretopmast
 fonted
 fencer
 foretopmen
+foreperiod
 fossilology
 foretrace
 foreuse
@@ -9140,7 +9141,6 @@ fuzee
 fruitarian
 fractionalized
 foredestine
-foreperiod
 ferriprussic
 fodient
 faired
