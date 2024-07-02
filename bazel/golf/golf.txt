@@ -3166,7 +3166,6 @@ geopotential
 georama
 goshawk
 gelosin
-genarcha
 georgemas
 gregarinosis
 germanite
@@ -3607,6 +3606,7 @@ ghauts
 gypsine
 galilei
 ghazal
+genarcha
 ghazi
 gweducs
 guttatim
