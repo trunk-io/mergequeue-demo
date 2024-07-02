@@ -4840,6 +4840,7 @@ bedunced
 bourgeon
 benames
 bartholomew
+blephara
 briefings
 backwraps
 billian
@@ -10582,7 +10583,6 @@ blastocyte
 blastocoel
 blastocoele
 badged
-blephara
 blastodermic
 blastodisc
 blastoffs
