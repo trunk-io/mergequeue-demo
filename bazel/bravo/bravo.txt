@@ -2516,7 +2516,6 @@ bassetite
 barguest
 barguests
 buzylene
-barhops
 baria
 bedouse
 blameful
@@ -11230,6 +11229,7 @@ bloodcurdlingly
 bishoplike
 booboos
 bloodies
+barhops
 bloodily
 bloodiness
 blooding
