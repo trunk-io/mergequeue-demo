@@ -12381,7 +12381,6 @@ bombasts
 bombax
 bombed
 bomber
-bawdship
 bedirty
 bombernickel
 begroaning
@@ -13502,6 +13501,7 @@ bednights
 blackacre
 bitterbrush
 bottommost
+bawdship
 bottlemaker
 begotten
 beer
