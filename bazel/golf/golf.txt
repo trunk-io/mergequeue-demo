@@ -2481,7 +2481,6 @@ gemote
 genouillere
 goat
 glassing
-gowns
 gemsbuck
 geodes
 guardful
@@ -10693,6 +10692,7 @@ gurney
 glyconeogenesis
 gurnet
 guests
+gowns
 grabs
 goaling
 gurshes
