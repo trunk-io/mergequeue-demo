@@ -3610,6 +3610,7 @@ carabinieri
 cotrespasser
 caraboa
 cinques
+circle
 caraboid
 carabus
 caracara
@@ -14213,7 +14214,6 @@ circinate
 coxcombs
 circination
 circiter
-circle
 circled
 claudia
 catskin
