@@ -4126,6 +4126,7 @@ beslimer
 beards
 birthroot
 bearer
+bombazette
 bedrenched
 bras
 broozled
@@ -12392,7 +12393,6 @@ boastingly
 balkily
 bombasts
 bombax
-bombazette
 bombed
 bomber
 bawdship
