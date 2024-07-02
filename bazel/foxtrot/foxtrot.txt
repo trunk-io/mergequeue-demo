@@ -5401,7 +5401,6 @@ floatless
 fribourg
 foisonless
 fabian
-fleeceless
 feasten
 felloes
 forefigure
@@ -8138,6 +8137,7 @@ fishpond
 ferula
 fantastry
 feverberries
+fleeceless
 formicinae
 faddle
 fraught
