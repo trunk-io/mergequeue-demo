@@ -12686,7 +12686,6 @@ billposting
 braccate
 bakshaish
 bonspell
-bonspells
 bonspiel
 bedplate
 bronchocele
@@ -18284,6 +18283,7 @@ buttinskies
 buttle
 bourout
 buttled
+bonspells
 buttock
 banyans
 buttocked
