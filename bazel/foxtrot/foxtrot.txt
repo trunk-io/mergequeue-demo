@@ -599,7 +599,6 @@ fluctiferous
 flavorless
 functionals
 feoffees
-farmable
 fragaria
 floodways
 fitzroy
@@ -3667,6 +3666,7 @@ fibrose
 filigera
 frisbees
 flook
+farmable
 fridstool
 fielder
 floatsman
