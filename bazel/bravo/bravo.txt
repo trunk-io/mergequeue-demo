@@ -2892,7 +2892,6 @@ barrelfuls
 baguettes
 bemadam
 blind
-barrelhead
 benefactor
 barreling
 blanco
@@ -8934,6 +8933,7 @@ binomenclature
 binomy
 bilimbi
 bayberries
+barrelhead
 binomially
 binomials
 betoya
