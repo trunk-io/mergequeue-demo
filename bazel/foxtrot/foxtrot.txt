@@ -5874,7 +5874,6 @@ floatation
 fists
 floated
 fluochloride
-floater
 fierasfer
 fodders
 flotas
@@ -7051,6 +7050,7 @@ fonts
 fusula
 ferinely
 farci
+floater
 foodful
 fetchers
 foodless
