@@ -3566,6 +3566,7 @@ gyroplane
 glove
 growable
 galactopoiesis
+gleit
 gatewaymen
 glutinosity
 gustus
@@ -9508,7 +9509,6 @@ gusto
 gospel
 goalies
 granting
-gleit
 guiltiness
 gnotobiotic
 graals
