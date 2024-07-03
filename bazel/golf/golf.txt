@@ -5089,6 +5089,7 @@ glasshouses
 glassie
 gateaux
 glued
+gnarr
 griecep
 glassies
 glassin
@@ -6420,7 +6421,6 @@ gaufer
 greenwithe
 grimm
 goitral
-gnarr
 gaugership
 guam
 gory
