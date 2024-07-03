@@ -2164,7 +2164,6 @@ gems
 geraldine
 goosegirl
 galea
-gastrolith
 goggles
 goniostat
 goldfinches
@@ -2210,6 +2209,7 @@ gooseskin
 goaves
 gemwork
 gyrectomy
+gastrolith
 glucide
 gingerol
 grundel

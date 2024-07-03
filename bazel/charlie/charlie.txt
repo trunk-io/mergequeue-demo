@@ -4248,6 +4248,7 @@ chinatown
 conquests
 care
 coxalgies
+citeable
 coronated
 carecloth
 cadetcy
@@ -14842,7 +14843,6 @@ citatory
 canvassers
 cookery
 cite
-citeable
 cited
 citer
 citers
