@@ -4715,7 +4715,6 @@ barmskin
 bries
 besplit
 bedpost
-bozal
 bypasses
 bluebooks
 bedrabbling
@@ -16471,6 +16470,7 @@ burrhel
 birdfarms
 bruskly
 bruskness
+bozal
 barnumize
 breathableness
 barbeled
