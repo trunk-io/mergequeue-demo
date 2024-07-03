@@ -7411,6 +7411,7 @@ birdbath
 baze
 betoyan
 betoken
+brinjaul
 busyworks
 boomdas
 busky
@@ -9655,7 +9656,6 @@ bisdiapason
 binary
 bicapsular
 bisect
-brinjaul
 bisected
 bisection
 bisectors
