@@ -3907,6 +3907,7 @@ finalization
 finalized
 fionnuala
 foregrounds
+frequencies
 fortyfive
 fits
 fortuitously
@@ -7672,7 +7673,6 @@ foresense
 foreparents
 format
 frayproof
-frequencies
 flavedos
 foreigneering
 foreigner
