@@ -8785,7 +8785,6 @@ allyou
 arienzo
 allis
 aristocrat
-alliteral
 alliterate
 acescence
 alliterates
@@ -24231,6 +24230,7 @@ asg
 aceldama
 autonomasy
 afeard
+alliteral
 autonomy
 amusing
 autonomist
