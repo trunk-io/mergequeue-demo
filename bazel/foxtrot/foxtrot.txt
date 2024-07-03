@@ -3991,6 +3991,7 @@ freehanded
 fingerhook
 fibrinemia
 fulmine
+flanque
 feminisation
 forehatchway
 fraulein
@@ -5045,7 +5046,6 @@ ferries
 fungate
 fizz
 forekeel
-flanque
 faithbreaker
 faconne
 flapdock
