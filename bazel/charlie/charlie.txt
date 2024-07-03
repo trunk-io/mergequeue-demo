@@ -3745,7 +3745,6 @@ chromoxylography
 caravanserial
 companeros
 caravel
-condylura
 confuse
 caravels
 caraway
@@ -12420,6 +12419,7 @@ christmasing
 christocentric
 christogram
 christolatry
+condylura
 courtiership
 christological
 corseted
