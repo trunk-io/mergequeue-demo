@@ -4130,7 +4130,6 @@ empodia
 eclegm
 extracranial
 energids
-empoisoned
 embryonated
 externum
 encl
@@ -11776,6 +11775,7 @@ exasperatingly
 embrothelled
 exasperation
 exauctorate
+empoisoned
 etymologised
 enrolment
 elaphrium
