@@ -9823,7 +9823,6 @@ blurring
 bisson
 buckskin
 bissonata
-byssus
 besing
 bystander
 bistate
@@ -10841,6 +10840,7 @@ blenniiformes
 basiophitic
 brachistocephali
 blennioid
+byssus
 brahmism
 beaverboard
 balls
