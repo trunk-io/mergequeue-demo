@@ -3335,7 +3335,6 @@ caponette
 caponier
 chhatri
 cassolette
-cryptograms
 caponiere
 caponiers
 canicide
@@ -9247,6 +9246,7 @@ charterism
 charterless
 chartermaster
 charters
+cryptograms
 charthouse
 cindered
 chartist
