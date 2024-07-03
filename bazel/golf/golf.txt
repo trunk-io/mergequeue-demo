@@ -3858,7 +3858,6 @@ graining
 globoseness
 groszy
 gaudete
-gigabytes
 gels
 glumpy
 gloweringly
@@ -10372,6 +10371,7 @@ gadgety
 gruffily
 greenlets
 gulgul
+gigabytes
 gangbuster
 geum
 glaur
