@@ -7799,7 +7799,6 @@ deviltry
 dissociation
 deformative
 devirginate
-diaglyph
 devisability
 dram
 dysarthrosis
@@ -8698,6 +8697,7 @@ dyarchies
 debugging
 distilment
 diary
+diaglyph
 disimmure
 disimprove
 diarist

@@ -4513,7 +4513,6 @@ flimsilyst
 fissirostrate
 fundmonger
 forerunner
-furcule
 fissura
 frugal
 forwardsearch
@@ -11471,6 +11470,7 @@ fideles
 flic
 firebases
 flaccidly
+furcule
 flaffer
 furfurylidene
 fortitudes
