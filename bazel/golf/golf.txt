@@ -6262,7 +6262,6 @@ generalship
 gonne
 growlers
 greaves
-guastalline
 goatskins
 gopura
 goatstone
@@ -7154,6 +7153,7 @@ grassier
 grattoirs
 geoffrey
 grizzlies
+guastalline
 giraffoid
 gutsier
 guacho
