@@ -1735,7 +1735,6 @@ become
 balsamitic
 balsamiticness
 balsamorrhiza
-balsamroot
 breakerman
 balsams
 boozing
@@ -14849,6 +14848,7 @@ breadroot
 bowstave
 breadstitch
 burnet
+balsamroot
 breadths
 breadthways
 betrample
