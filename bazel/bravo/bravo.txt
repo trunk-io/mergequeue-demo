@@ -4781,7 +4781,6 @@ bolivars
 bleed
 bedstand
 brazenface
-baikerinite
 bikh
 beshrouded
 bolometer
@@ -6765,6 +6764,7 @@ bootprint
 billings
 bylander
 boethusian
+baikerinite
 berime
 beroida
 basifies
