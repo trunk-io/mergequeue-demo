@@ -1722,7 +1722,6 @@ gastrohepatitis
 gamebag
 gordioidea
 garum
-ganoblast
 gane
 geodetically
 gastrointestinal
@@ -6368,6 +6367,7 @@ geotropism
 goety
 gummage
 gloriosa
+ganoblast
 goitre
 gofer
 given
