@@ -45,7 +45,6 @@ guardian
 gunfires
 gammarus
 genotypically
-goa
 gollar
 gableboard
 graperies
@@ -6178,6 +6177,7 @@ generalizing
 ganevs
 garters
 gadfly
+goa
 garibaldi
 goadsman
 grihastha

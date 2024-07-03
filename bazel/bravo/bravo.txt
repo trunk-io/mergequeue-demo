@@ -2199,7 +2199,6 @@ barbel
 balata
 barauna
 barba
-blindfast
 barbacoan
 bayards
 bebatter
@@ -11727,6 +11726,7 @@ boatsteerer
 buddies
 brandying
 bilsted
+blindfast
 boatswain
 bedding
 beneficience
