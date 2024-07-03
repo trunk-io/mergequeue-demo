@@ -5628,7 +5628,6 @@ flyer
 frontonasal
 fribblery
 fossilization
-firstling
 frouncing
 frenchmen
 flageolet
@@ -10396,6 +10395,7 @@ footer
 filigree
 flow
 fictility
+firstling
 forcaria
 foregahger
 fomenters
