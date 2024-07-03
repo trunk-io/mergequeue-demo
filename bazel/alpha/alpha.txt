@@ -13254,6 +13254,7 @@ axilemma
 anisogamete
 anisogametes
 algarde
+atomising
 ateeter
 anisogamous
 annueler
@@ -22770,7 +22771,6 @@ atomiferous
 antepagment
 atomised
 atomises
-atomising
 archigaster
 atomism
 atomisms
