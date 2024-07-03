@@ -5773,6 +5773,7 @@ cannon
 catchlight
 cultivatability
 clockcase
+cowpock
 caudillism
 catchline
 catchment
@@ -27750,7 +27751,6 @@ cosmotheism
 cowperian
 crouchmas
 cyul
-cowpock
 cacographical
 conductibility
 cowpoke
