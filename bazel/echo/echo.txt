@@ -1096,6 +1096,7 @@ endoskeleton
 enchants
 eqpt
 edgar
+experimentalist
 expatiatory
 emyd
 edgeboned
@@ -8111,7 +8112,6 @@ extraprovincial
 epiphora
 epiphragm
 enlargedness
-experimentalist
 encover
 extrasyphilitic
 epiplankton
