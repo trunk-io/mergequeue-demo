@@ -2319,6 +2319,7 @@ afternoon
 acidosteophyte
 aul
 acids
+amenity
 automatization
 acidulant
 acidulate
@@ -8283,7 +8284,6 @@ anormality
 aliethmoidal
 abacay
 auks
-amenity
 ablegation
 alif
 aliferous
