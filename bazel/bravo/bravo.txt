@@ -4493,6 +4493,7 @@ buffering
 bravure
 borocalcite
 bathala
+bristlewort
 becrust
 bandster
 becrusting
@@ -15584,7 +15585,6 @@ bristlelike
 brigander
 bristles
 beingless
-bristlewort
 borer
 babyhoods
 bristliness
