@@ -5247,7 +5247,6 @@ daemon
 decameter
 doghole
 deathly
-denitrification
 disterr
 denitrifier
 denitrifying
@@ -17313,6 +17312,7 @@ drolling
 drollingly
 delighter
 drollishness
+denitrification
 dooryard
 drolls
 dexiotropous
