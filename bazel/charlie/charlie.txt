@@ -4011,6 +4011,7 @@ carcinogenesis
 carcinogenic
 carcinoid
 compartmental
+crystalloluminescence
 cinereous
 carcinolysin
 carcinolytic
@@ -29494,7 +29495,6 @@ crystallography
 crystalloid
 concretism
 crystalloidal
-crystalloluminescence
 crystallomagnetic
 cravers
 cunye
