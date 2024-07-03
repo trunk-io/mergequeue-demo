@@ -4208,7 +4208,6 @@ cardiosphygmogram
 cardiosphygmograph
 cardiotherapies
 clinchpoop
-cardiotomy
 corrector
 catmalison
 cardiotrophotherapy
@@ -26757,6 +26756,7 @@ counteravouchment
 counterbalanced
 counterbalances
 counterbarrage
+cardiotomy
 cars
 counterbattery
 counterbend
