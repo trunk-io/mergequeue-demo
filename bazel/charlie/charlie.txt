@@ -4765,6 +4765,7 @@ champerty
 coumarou
 chlamydospore
 cellarway
+contested
 carpeting
 carpetlayer
 carpetless
@@ -23537,7 +23538,6 @@ churled
 clatteringly
 cckw
 cric
-contested
 caddishly
 contestee
 caridea
