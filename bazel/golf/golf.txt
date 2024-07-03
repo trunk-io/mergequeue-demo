@@ -6328,7 +6328,6 @@ gymnorhininae
 goblin
 gastral
 gettable
-gateward
 gunite
 gullible
 gunmen
@@ -8819,6 +8818,7 @@ groundout
 greylags
 gyte
 girouettism
+gateward
 gynaecomastia
 garboard
 grieved
