@@ -2894,6 +2894,7 @@ foreadmonish
 felsite
 farmhand
 fetichlike
+formulator
 flagmaker
 feticide
 feticides
@@ -8518,7 +8519,6 @@ fortification
 formulated
 formulating
 forgainst
-formulator
 fontinal
 fawningness
 formulisation
