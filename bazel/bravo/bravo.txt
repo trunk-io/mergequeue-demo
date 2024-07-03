@@ -8570,7 +8570,6 @@ bilimbing
 bechauffeur
 bilin
 bylina
-bolded
 brummer
 berun
 bibliotheke
@@ -14179,6 +14178,7 @@ blacken
 bracker
 bracketed
 bucolic
+bolded
 bracketing
 badaud
 brinier
