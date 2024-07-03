@@ -2009,6 +2009,7 @@ deadpanner
 decaffeinize
 decury
 disregardable
+dogleg
 decafid
 decagynous
 dinornis
@@ -15086,7 +15087,6 @@ doghead
 doghood
 doghouse
 dogie
-dogleg
 doglegging
 doglegs
 doglike
