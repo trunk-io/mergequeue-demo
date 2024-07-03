@@ -1495,7 +1495,6 @@ faubourgs
 faucitis
 fossor
 fistulose
-fingerings
 featly
 faulds
 faultfind
@@ -10305,6 +10304,7 @@ firth
 frondent
 folksongs
 fanged
+fingerings
 ferrates
 factor
 forleaving
