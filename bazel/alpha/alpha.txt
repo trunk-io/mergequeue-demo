@@ -3960,7 +3960,6 @@ admen
 advect
 angakut
 anteceded
-admensuration
 admerveylle
 admi
 adminicle
@@ -12397,6 +12396,7 @@ anear
 aneared
 arnement
 anearing
+admensuration
 anecdysis
 antianaphylactogen
 algesis
