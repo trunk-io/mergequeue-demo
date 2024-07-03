@@ -6073,6 +6073,7 @@ buttstrap
 blacktail
 bemuddlement
 bemuddles
+beam
 bemuddling
 bemurmur
 bemurmure
@@ -10503,7 +10504,6 @@ bribetaking
 beachboy
 boghole
 boyards
-beam
 barytostrontianite
 blaoner
 blare
