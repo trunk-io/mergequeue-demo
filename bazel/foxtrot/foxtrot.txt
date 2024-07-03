@@ -6918,7 +6918,6 @@ forespeaker
 foreignization
 folkmoots
 fadmonger
-firetower
 ferrochromium
 formuliser
 foudroyant
@@ -10293,6 +10292,7 @@ fromenty
 fromenties
 fibromembranous
 fluorated
+firetower
 faquirs
 fremt
 families
