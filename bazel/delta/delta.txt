@@ -2499,7 +2499,6 @@ deck
 dateline
 deckel
 deporte
-deblocking
 debased
 ditchdown
 dirigent
@@ -6310,6 +6309,7 @@ dermatoconiosis
 dermatodynia
 dermatogen
 dermatography
+deblocking
 diplonephridia
 dermatolysis
 duchesnea
