@@ -2827,6 +2827,7 @@ acromia
 archostenosis
 autocamping
 acromicria
+antimeres
 acromimia
 acromioclavicular
 acromiocoracoid
@@ -15455,7 +15456,6 @@ antimension
 archisperm
 antimere
 awns
-antimeres
 antimerging
 antimeric
 antimerina
