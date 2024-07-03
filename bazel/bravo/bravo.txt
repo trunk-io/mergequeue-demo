@@ -1635,7 +1635,6 @@ ballpark
 brasquing
 bandi
 barrulety
-ballplayer
 ballplatz
 bedrabbled
 ballpoint
@@ -4546,6 +4545,7 @@ buglewort
 backjaw
 bedarkening
 bedaub
+ballplayer
 bendays
 blackened
 benzoylglycine
