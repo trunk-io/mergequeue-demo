@@ -7630,7 +7630,6 @@ fables
 fishier
 factualism
 foreguess
-floggable
 flammant
 foretopsail
 fiefdom
@@ -8929,6 +8928,7 @@ fumify
 fluminose
 floit
 fourball
+floggable
 flite
 fertilizability
 fiacre
