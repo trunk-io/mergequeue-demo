@@ -6601,7 +6601,6 @@ betons
 bannerer
 bere
 barretry
-bereareft
 bereavements
 bandeng
 beetlers
@@ -7724,6 +7723,7 @@ blackmailing
 boasted
 browbeats
 betise
+bereareft
 backfilling
 bezzo
 bhabar
