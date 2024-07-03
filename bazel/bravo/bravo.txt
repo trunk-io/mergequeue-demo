@@ -6444,6 +6444,7 @@ benzopyran
 breakup
 banewort
 benzopyrazolone
+barquentine
 benzopyrene
 benzopyrylium
 breastweed
@@ -7359,7 +7360,6 @@ bucking
 bethesdas
 bootstrap
 bethink
-barquentine
 balaenoptera
 bocklogged
 bilbies
