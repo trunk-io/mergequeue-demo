@@ -5761,7 +5761,6 @@ fingerstone
 fleuronnee
 fungous
 fuzzball
-faunological
 favorers
 forestcraft
 favissa
@@ -11048,6 +11047,7 @@ funambulate
 funambulator
 fishline
 feels
+faunological
 frictionizing
 funambulatory
 funambule
