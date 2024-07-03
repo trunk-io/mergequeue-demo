@@ -2761,7 +2761,6 @@ genoise
 geophagy
 genomic
 genoms
-gasts
 galatotrophic
 greathead
 gunfire
@@ -10492,6 +10491,7 @@ graylings
 gulfwards
 granulator
 gumpus
+gasts
 gastroenteralgia
 gogglier
 gyromancy
