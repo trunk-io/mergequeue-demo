@@ -23355,6 +23355,7 @@ catechus
 consummator
 consumo
 consumpted
+corrasive
 consumptible
 consumptional
 consumptions
@@ -25702,7 +25703,6 @@ chairlift
 corradial
 corradiate
 corradiated
-corrasive
 correality
 cnida
 correct
