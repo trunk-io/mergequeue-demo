@@ -10226,6 +10226,7 @@ declarable
 dehonestate
 dudaim
 disallowing
+distillation
 dinging
 dingleberry
 dingled
@@ -12621,7 +12622,6 @@ disinterest
 disinterestedly
 disinterestedness
 daggletail
-distillation
 disinterment
 depilous
 disinterring
