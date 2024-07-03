@@ -1866,7 +1866,6 @@ bandit
 beshrew
 branle
 bespice
-bandits
 bandle
 bandleader
 bedrel
@@ -11436,6 +11435,7 @@ bivouac
 blueblood
 blackwork
 bolloxing
+bandits
 bluebottle
 bluebreast
 build
