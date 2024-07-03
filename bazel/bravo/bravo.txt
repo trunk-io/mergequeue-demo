@@ -10553,7 +10553,6 @@ blastochyle
 blastocyte
 blastocoel
 blastocoele
-badged
 blastodermic
 blastodisc
 blastoffs
@@ -17378,6 +17377,7 @@ bundled
 beweeping
 boardmen
 bundler
+badged
 bundles
 bastnasite
 benzantialdoxime
