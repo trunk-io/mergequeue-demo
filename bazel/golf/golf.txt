@@ -3732,7 +3732,6 @@ genetmoil
 guilelessness
 gastaldo
 gastroelytrotomy
-giantry
 geobios
 gibber
 gaslightness
@@ -8382,6 +8381,7 @@ gecarcinus
 gratuitous
 garancine
 goatishness
+giantry
 glauconitization
 grufted
 gigeria
