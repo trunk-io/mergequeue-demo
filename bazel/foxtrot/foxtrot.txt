@@ -6022,7 +6022,6 @@ feinted
 fluidizing
 folkways
 frim
-flakeless
 fawny
 floorway
 fluidrachm
@@ -11255,6 +11254,7 @@ funks
 funmaking
 funnel
 flit
+flakeless
 fingerflower
 forpine
 famble
