@@ -10552,6 +10552,7 @@ beeflower
 blastochyle
 blastocyte
 blastocoel
+biobibliographic
 blastocoele
 blastodermic
 blastodisc
@@ -11891,7 +11892,6 @@ bodycheck
 bodied
 becrowding
 boucan
-biobibliographic
 beribers
 bodykins
 bodiless
