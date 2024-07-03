@@ -7077,7 +7077,6 @@ despotize
 dorje
 despumate
 despumation
-despume
 doegling
 dealing
 desquamating
@@ -14361,6 +14360,7 @@ dimensuration
 diuron
 diuturnity
 demeaned
+despume
 doled
 diva
 divagated
