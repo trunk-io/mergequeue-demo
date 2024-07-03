@@ -4241,7 +4241,6 @@ bowpots
 belly
 bonaci
 blattariae
-ballat
 burlers
 burman
 bluewood
@@ -6494,6 +6493,7 @@ brideknot
 bepen
 backdown
 bepepper
+ballat
 booting
 bephilter
 booley
