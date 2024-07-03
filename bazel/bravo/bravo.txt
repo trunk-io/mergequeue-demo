@@ -2157,7 +2157,6 @@ boundness
 benzpyrene
 baptizer
 blurping
-biplanar
 bobsledder
 baptizing
 bepuddle
@@ -15927,6 +15926,7 @@ bagmen
 bromodeoxyuridine
 brazilianite
 bromoil
+biplanar
 bandman
 bromol
 bruising

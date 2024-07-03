@@ -9077,7 +9077,6 @@ chargable
 charge
 cheerless
 chargeable
-chimmesyan
 ciphertext
 collective
 chargeableness
@@ -17255,6 +17254,7 @@ coak
 coakum
 coala
 coalas
+chimmesyan
 coalbag
 coalbagger
 coalbins
