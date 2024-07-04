@@ -5708,7 +5708,6 @@ ashine
 antiedemic
 antinaturalist
 augusta
-agamous
 azocoralline
 aminoacetone
 aganice
@@ -7908,6 +7907,7 @@ afterlife
 abandum
 ascella
 afforestation
+agamous
 appropriates
 alembic
 antimedieval
