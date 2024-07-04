@@ -10808,6 +10808,7 @@ delay
 dipteroi
 ditchside
 disbark
+divas
 dependent
 dipterus
 dotterel
@@ -11646,7 +11647,6 @@ dobbie
 datasets
 disconsolation
 demophobe
-divas
 digester
 dunkle
 downlinks
