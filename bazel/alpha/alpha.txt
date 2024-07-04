@@ -1515,7 +1515,6 @@ anthropobiologist
 afoot
 acclivous
 accloy
-accoying
 accoil
 accolade
 accolades
@@ -11003,6 +11002,7 @@ amotus
 amounted
 amounter
 abysms
+accoying
 amounters
 amouret
 allocaffeine
