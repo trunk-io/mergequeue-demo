@@ -632,7 +632,6 @@ freightyard
 falsity
 faltboat
 flugelmen
-floppers
 faltere
 ferrash
 flavored
@@ -8689,6 +8688,7 @@ fraenular
 forlie
 fordoing
 fortranh
+floppers
 foredecks
 fortresses
 furors
