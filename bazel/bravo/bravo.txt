@@ -1650,7 +1650,6 @@ ballstock
 ballup
 ballweed
 booklets
-balm
 brehon
 botony
 balmarcodes
@@ -4405,6 +4404,7 @@ bohor
 bathyseism
 beclaw
 besieged
+balm
 bloodstanch
 bkcy
 blubberer
