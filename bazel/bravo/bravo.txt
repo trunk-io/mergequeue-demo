@@ -751,7 +751,6 @@ badland
 badlands
 buba
 bat
-badman
 badmen
 brushcut
 badmouthed
@@ -5714,6 +5713,7 @@ boilingly
 belieffulness
 beliefless
 beauties
+badman
 beliefs
 beliers
 belies
