@@ -9226,7 +9226,6 @@ grunters
 grizzel
 guts
 grizzly
-gumma
 grizzling
 groaned
 ghosts
@@ -10711,6 +10710,7 @@ geranin
 grams
 gemstones
 garvock
+gumma
 gunship
 glossocoma
 gusher
