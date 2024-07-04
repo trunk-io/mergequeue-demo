@@ -5302,7 +5302,6 @@ affloof
 affluence
 affluent
 affluently
-affluentness
 abscise
 any
 actinocutitis
@@ -15488,6 +15487,7 @@ alienship
 antiministerial
 antiministerially
 aiming
+affluentness
 anywhere
 antimission
 although
