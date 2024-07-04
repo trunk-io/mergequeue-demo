@@ -5640,7 +5640,6 @@ gravestone
 governance
 giantesque
 girdlecake
-globus
 grossular
 glyceridic
 goldseed
@@ -7653,6 +7652,7 @@ graduands
 gilse
 geopolitic
 girning
+globus
 gyneocracy
 grant
 geomyid
