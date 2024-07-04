@@ -4754,6 +4754,7 @@ feudalities
 fibrovasal
 faldfee
 forthink
+fertil
 freethinkers
 fernlike
 feuillage
@@ -5099,7 +5100,6 @@ frother
 flanders
 flarer
 frizzling
-fertil
 flarfishes
 fellatee
 funorin
