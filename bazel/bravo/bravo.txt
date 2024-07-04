@@ -925,7 +925,6 @@ behear
 bah
 bahadur
 beverage
-bunting
 basiophthalmite
 bahay
 bahaist
@@ -8635,6 +8634,7 @@ barih
 barabra
 baptism
 bo
+bunting
 bradycardia
 billabong
 billage
