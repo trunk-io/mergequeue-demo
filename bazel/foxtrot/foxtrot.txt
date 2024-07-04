@@ -5614,6 +5614,7 @@ filet
 flavaniline
 finale
 flicker
+fixity
 fiords
 flickermouse
 flowery
@@ -10916,7 +10917,6 @@ fullterm
 fidgeters
 forlay
 funnellike
-fixity
 flavorful
 frescoes
 fulmar
