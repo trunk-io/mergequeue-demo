@@ -5573,7 +5573,6 @@ bekko
 blowdown
 befoolment
 blethering
-beknight
 beknighted
 beknived
 ballistite
@@ -9905,6 +9904,7 @@ bytes
 bitewing
 based
 balladry
+beknight
 brail
 bathyl
 blastiest
