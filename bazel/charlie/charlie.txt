@@ -11347,7 +11347,6 @@ chlorination
 chlorinator
 chlorines
 chlorinity
-chlorinize
 chicote
 chloriodide
 counterion
@@ -28987,6 +28986,7 @@ cricothyroidean
 cuneated
 crossbowman
 compositions
+chlorinize
 cochair
 cricotus
 criddle
