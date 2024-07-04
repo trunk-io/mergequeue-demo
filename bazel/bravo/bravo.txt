@@ -5905,7 +5905,6 @@ butterbur
 bellwether
 betaines
 bellwort
-beloam
 belock
 beloeilite
 bredstitch
@@ -7580,6 +7579,7 @@ beguilingly
 bewails
 bandolier
 beware
+beloam
 begirding
 bernoullian
 bewary

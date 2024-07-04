@@ -6325,6 +6325,7 @@ emporium
 ergotin
 electrodeposit
 enscroll
+eschar
 euchred
 ensphered
 eyespot
@@ -9363,7 +9364,6 @@ ectoparasitic
 essoinee
 enchafe
 eruptiveness
-eschar
 equatorially
 escudos
 evermo
