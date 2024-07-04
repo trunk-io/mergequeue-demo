@@ -21065,7 +21065,6 @@ computer
 computerese
 computerise
 computerization
-computerize
 computerizes
 computerizing
 computerlike
@@ -28084,6 +28083,7 @@ cramp
 cramped
 colonoscope
 colonalgia
+computerize
 crampette
 crampfish
 constituter
