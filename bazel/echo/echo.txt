@@ -1287,7 +1287,6 @@ epigrammatise
 endophytal
 eelbobber
 eelcake
-extrathecal
 exposition
 eelery
 enarch
@@ -10105,6 +10104,7 @@ erianthus
 ethanedithiol
 ephedra
 erythrophyllin
+extrathecal
 export
 eyey
 evirate
