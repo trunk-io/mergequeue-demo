@@ -1191,7 +1191,6 @@ ecphory
 eidology
 editorializers
 enation
-editorializes
 editors
 editorship
 editorships
@@ -3369,6 +3368,7 @@ embarkment
 embarks
 equipage
 ellinge
+editorializes
 exteroceptor
 encyclopediac
 estriol
