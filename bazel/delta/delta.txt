@@ -11475,7 +11475,6 @@ diplomaed
 duplicitous
 discloud
 dingus
-disjointness
 disclusion
 dislimb
 dollar
@@ -16481,6 +16480,7 @@ darken
 degradations
 doubtance
 deliber
+disjointness
 dasyprocta
 diagramming
 datiscin
