@@ -3423,6 +3423,7 @@ foe
 floramour
 flyweights
 filtre
+faculative
 fops
 flammably
 flighting
@@ -8012,7 +8013,6 @@ fluidisation
 frustrate
 fairies
 fosterers
-faculative
 foggy
 formentation
 forewinning
