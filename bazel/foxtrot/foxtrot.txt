@@ -838,6 +838,7 @@ foveolarious
 fragility
 fanfares
 frown
+fright
 frisk
 fanners
 flummox
@@ -8024,7 +8025,6 @@ forestful
 forestial
 flisked
 forepost
-fright
 fessing
 forestish
 frustrated
