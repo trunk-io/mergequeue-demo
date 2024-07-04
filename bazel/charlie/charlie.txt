@@ -3045,7 +3045,6 @@ cantraps
 cantred
 cantrip
 cantrips
-coveting
 cantus
 cantuta
 cantwise
@@ -10401,6 +10400,7 @@ chickenpox
 chickenwort
 chicker
 chickhood
+coveting
 chickory
 coprosterol
 chickories
