@@ -1779,6 +1779,7 @@ bilanders
 brachman
 bamboula
 banterer
+bowmen
 bole
 balanops
 bambusa
@@ -13919,7 +13920,6 @@ bacalaos
 bowman
 baptizee
 bowsman
-bowmen
 bown
 bows
 bowsaw
