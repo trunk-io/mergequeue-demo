@@ -3535,7 +3535,6 @@ captainship
 chaotically
 captainships
 chemicked
-captan
 concordat
 captandum
 captate
@@ -14959,6 +14958,7 @@ conscious
 coadmiring
 cytokinesis
 cytokinetic
+captan
 cytokinin
 cytol
 conjoined
