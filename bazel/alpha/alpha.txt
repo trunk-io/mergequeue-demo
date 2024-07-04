@@ -4803,7 +4803,6 @@ antitax
 aerobia
 asamblea
 antisubmarine
-aerobic
 aerobiological
 ace
 aerobiologically
@@ -22579,6 +22578,7 @@ antiatoms
 adjourning
 atheroma
 atheromas
+aerobic
 aratinga
 atheromatosis
 atheroscleroses
