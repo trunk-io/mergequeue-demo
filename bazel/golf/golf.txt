@@ -2144,6 +2144,7 @@ gharris
 gerontine
 gastrojejunostomies
 gdinfo
+gyron
 gds
 grimoire
 gapers
@@ -7669,7 +7670,6 @@ gyassa
 graduses
 graecian
 grather
-gyron
 gentium
 gullage
 graciosos
