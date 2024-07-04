@@ -2813,7 +2813,6 @@ dactylioglyphy
 decrements
 decremeter
 dicyemida
-decrepid
 decrepit
 demarches
 duodecahedral
@@ -10301,6 +10300,7 @@ dintless
 ducal
 dinus
 dutch
+decrepid
 denitrator
 doghearted
 dioc
