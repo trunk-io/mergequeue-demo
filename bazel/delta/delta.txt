@@ -12031,7 +12031,6 @@ disenabled
 duplicates
 disenact
 disenchant
-disenchanting
 dowd
 disenchantments
 dermaskeleton
@@ -17944,6 +17943,7 @@ duffs
 dutifully
 deputationist
 dupers
+disenchanting
 dissembled
 defaecate
 displeasurement
