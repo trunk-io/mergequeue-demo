@@ -3364,7 +3364,6 @@ definers
 deflects
 disputably
 defines
-definiendum
 dippy
 deionizes
 definiens
@@ -9745,6 +9744,7 @@ dilactic
 dilactone
 diocoel
 dilamination
+definiendum
 dylan
 dilaniate
 dribbling
