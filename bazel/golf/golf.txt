@@ -2149,7 +2149,6 @@ gastrojejunostomies
 gdinfo
 gyron
 gds
-grimoire
 gapers
 gonitis
 gaycat
@@ -4112,6 +4111,7 @@ gargoyle
 gymmal
 ganza
 gephyrean
+grimoire
 gimmeringly
 galaxiidae
 geggee
