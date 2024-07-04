@@ -6400,7 +6400,6 @@ dermopathy
 dislimn
 divorcing
 dugong
-discontiguous
 dejeune
 dermophobe
 duodenum
@@ -10790,6 +10789,7 @@ diazotize
 dipt
 dipteraceae
 dipterygian
+discontiguous
 dipteryx
 deinodontidae
 dipterocarp
