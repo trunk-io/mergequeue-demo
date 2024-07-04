@@ -1107,7 +1107,6 @@ flameproofer
 flatwashes
 fontinalaceous
 finkel
-flabra
 fastback
 farrisite
 firehalls
@@ -10385,6 +10384,7 @@ filigree
 flow
 fictility
 firstling
+flabra
 forcaria
 foregahger
 fomenters
