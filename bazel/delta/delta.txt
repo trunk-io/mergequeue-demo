@@ -2429,7 +2429,6 @@ dripstick
 disaffects
 doeskin
 decima
-decimalise
 decimalism
 dueling
 decimalist
@@ -4394,6 +4393,7 @@ detuned
 discriminous
 dysacousia
 demanded
+decimalise
 demander
 dissyllabized
 dewlap
