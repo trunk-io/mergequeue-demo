@@ -3683,7 +3683,6 @@ estival
 embryophore
 educations
 electrogenesis
-embryoplastic
 embryos
 esthesioblast
 embryotega
@@ -10902,6 +10901,7 @@ encamped
 eutectic
 extensor
 emphractic
+embryoplastic
 electrothanasia
 ethologist
 euphonically
