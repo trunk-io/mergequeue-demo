@@ -11657,7 +11657,6 @@ cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
 cholecystic
-cutikin
 cholecystis
 cholecystitis
 cozies
@@ -18457,6 +18456,7 @@ cognominated
 cognomination
 cognoscent
 cognoscente
+cutikin
 cognoscing
 coppice
 cognoscitive
