@@ -5806,7 +5806,6 @@ gooseries
 guyandot
 giffgaff
 guesstimates
-glottid
 glottides
 galeenies
 gangways
@@ -10102,6 +10101,7 @@ genuses
 guirlande
 gasoscope
 grassiest
+glottid
 gazetteer
 gonystylus
 gnotobiologies
