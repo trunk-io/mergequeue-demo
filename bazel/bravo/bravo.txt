@@ -12303,6 +12303,7 @@ boltlike
 beaupers
 boltmaker
 bombaster
+biquartz
 boltonias
 boltonite
 boltrope
@@ -13016,7 +13017,6 @@ bopped
 bailli
 brigadiers
 boppers
-biquartz
 barmaid
 boppist
 brideless
