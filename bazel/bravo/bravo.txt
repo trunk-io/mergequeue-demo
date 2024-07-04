@@ -2924,7 +2924,6 @@ bailed
 barricaded
 beltian
 barricaders
-bedplates
 barricado
 barricadoes
 brainsick
@@ -13858,6 +13857,7 @@ bower
 bowerbird
 bullgine
 bidential
+bedplates
 boyos
 bowerlet
 blatterer
