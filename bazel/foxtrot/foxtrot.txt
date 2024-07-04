@@ -772,7 +772,6 @@ foliicolous
 fanciness
 forestaff
 fragrance
-foretack
 fellest
 fallows
 fandangos
@@ -11575,6 +11574,7 @@ flytier
 fulgurator
 furanoses
 fusileer
+foretack
 forpass
 foldout
 fcs
