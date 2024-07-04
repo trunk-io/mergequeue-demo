@@ -10161,6 +10161,7 @@ chess
 chessboards
 counterfugue
 collab
+chipchap
 chessdom
 chessel
 chesser
@@ -10926,7 +10927,6 @@ chionophobia
 chiopin
 centropomus
 chip
-chipchap
 chipchop
 chipewyan
 chiplet
