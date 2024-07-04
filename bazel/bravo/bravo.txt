@@ -364,6 +364,7 @@ backgame
 bepuzzle
 backgammon
 barbarical
+botanized
 barwares
 breaststroke
 background
@@ -7090,7 +7091,6 @@ biremes
 bimorphs
 bushing
 boycottage
-botanized
 bespeaking
 bullalaria
 bespeaks
