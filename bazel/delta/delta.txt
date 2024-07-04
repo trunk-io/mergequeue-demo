@@ -15455,6 +15455,7 @@ dominions
 dismounts
 delocalising
 doorway
+dorsers
 dominique
 despairingly
 ducamara
@@ -15812,7 +15813,6 @@ dorsalgia
 dorsalwards
 dorsel
 dorser
-dorsers
 dorsi
 deliberalize
 debosh
