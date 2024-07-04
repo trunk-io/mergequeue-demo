@@ -4406,7 +4406,6 @@ bickers
 bohor
 bathyseism
 beclaw
-bassoonist
 besieged
 bloodstanch
 bkcy
@@ -13459,6 +13458,7 @@ beneplacity
 buckjumper
 betelnuts
 bassus
+bassoonist
 blueprints
 bensell
 bibliopoly
