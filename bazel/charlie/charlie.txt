@@ -4762,7 +4762,6 @@ cellarway
 contested
 carpeting
 carpetlayer
-carpetless
 carpetmaking
 clubability
 captivation
@@ -15120,6 +15119,7 @@ citua
 cytulae
 ciudad
 cosmesis
+carpetless
 carbonado
 civet
 civets
