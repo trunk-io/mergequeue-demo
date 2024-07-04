@@ -1888,7 +1888,6 @@ acetable
 acetabula
 acetabularia
 acetabulous
-acetabulum
 acetabulums
 acetacetic
 acetalize
@@ -15558,6 +15557,7 @@ antimonium
 avertin
 antimoniuret
 antethem
+acetabulum
 antimoniuretted
 antimonopolistic
 antimonopolization
