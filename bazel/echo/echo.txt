@@ -2937,7 +2937,6 @@ emaciate
 estheria
 egrimony
 elides
-exeunt
 electrotropism
 exculpate
 etuis
@@ -4611,6 +4610,7 @@ engrid
 erethizontidae
 epilimnion
 echevin
+exeunt
 excellent
 elocution
 exarchs
