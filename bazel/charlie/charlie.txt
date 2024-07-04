@@ -12812,6 +12812,7 @@ cataloguize
 chuff
 chuffer
 countercraft
+corruptions
 cauliflowers
 chuffing
 carpologist
@@ -25884,7 +25885,6 @@ corruption
 corruptionist
 clima
 cerographies
-corruptions
 corollas
 corruptious
 cattily
