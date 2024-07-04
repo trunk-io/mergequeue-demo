@@ -5300,6 +5300,7 @@ flammeous
 fretters
 french
 flain
+flyway
 fucaceous
 felonwood
 farrierlike
@@ -5850,7 +5851,6 @@ fumariaceous
 fritted
 firehouse
 farcically
-flyway
 faunas
 filemark
 ferr
