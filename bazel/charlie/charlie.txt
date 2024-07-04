@@ -14821,7 +14821,6 @@ cistus
 citable
 cambibia
 citadel
-citadels
 cital
 countersynod
 cytase
@@ -26063,6 +26062,7 @@ coadjutrice
 cosectional
 cosed
 coded
+citadels
 cosegment
 cosey
 chimesmaster

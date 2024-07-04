@@ -8741,7 +8741,6 @@ bilobe
 besiegingly
 bilobed
 bilocular
-biloculate
 biloculina
 bidiurnal
 braches
@@ -16334,6 +16333,7 @@ belligerence
 broadswords
 brulzies
 brumaire
+biloculate
 brumbie
 bedew
 blepharoncus
