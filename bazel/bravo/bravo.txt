@@ -3965,7 +3965,6 @@ beadleism
 beadleship
 besiegement
 beadlet
-beadman
 bopyridian
 balloonful
 beadmen
@@ -15318,6 +15317,7 @@ bridle
 bridled
 bely
 blackpot
+beadman
 bridlers
 boredom
 ballerine
