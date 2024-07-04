@@ -8440,6 +8440,7 @@ egyptianize
 equip
 eglogue
 epizootology
+ersh
 epocha
 embaying
 eumitosis
@@ -10368,7 +10369,6 @@ elvers
 ecumenistic
 earthed
 ethnology
-ersh
 englacially
 ethnologically
 edgestone
