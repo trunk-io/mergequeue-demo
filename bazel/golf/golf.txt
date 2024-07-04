@@ -4460,6 +4460,7 @@ gio
 giobertite
 graphemes
 gammelost
+gossipy
 giocoso
 gip
 gleba
@@ -7297,7 +7298,6 @@ gossipee
 griffon
 greyer
 greensward
-gossipy
 glyoxime
 galagala
 glomus
