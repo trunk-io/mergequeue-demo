@@ -1132,7 +1132,6 @@ embeddable
 edictum
 epistolic
 echolalia
-edificate
 echinology
 edification
 exfigure
@@ -5093,6 +5092,7 @@ endocoele
 exploiter
 endocolpitis
 endoconidia
+edificate
 endocrania
 enallage
 encrustment
