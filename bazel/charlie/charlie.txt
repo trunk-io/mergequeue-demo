@@ -9337,7 +9337,6 @@ clapperboard
 corf
 chastity
 chastities
-chasuble
 chasubled
 cooper
 categorize
@@ -26121,6 +26120,7 @@ capling
 cosigning
 circuli
 cosily
+chasuble
 cosymmedian
 compurgator
 cosinage
