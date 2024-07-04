@@ -9612,7 +9612,6 @@ checkerbellies
 checkerberry
 checkerberries
 checkerbloom
-checkerboard
 calyciform
 checkerboarded
 checkered
@@ -29504,6 +29503,7 @@ culpatory
 crystallometric
 crystallose
 cryptozonia
+checkerboard
 coevality
 congeable
 crystallurgy
