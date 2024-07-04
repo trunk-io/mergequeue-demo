@@ -5016,6 +5016,7 @@ growled
 guilty
 guariba
 glandered
+gnatproof
 graunt
 glimpser
 grouselike
@@ -7395,7 +7396,6 @@ goujat
 grampuses
 garrulous
 grangerized
-gnatproof
 geopositive
 genotype
 galenas
