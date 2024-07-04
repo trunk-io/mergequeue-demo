@@ -3590,6 +3590,7 @@ egma
 eluvium
 eveque
 embowered
+exanimate
 empoisoner
 enculturate
 embraceably
@@ -7203,7 +7204,6 @@ enwreathe
 endowed
 epoxying
 epistasis
-exanimate
 exactest
 enwrought
 euphonym
