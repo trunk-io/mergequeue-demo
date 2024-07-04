@@ -2314,6 +2314,7 @@ barbicanage
 bathyscape
 barbicel
 barbicels
+buoyance
 barbierite
 busyish
 briber
@@ -6642,7 +6643,6 @@ bobcat
 bronchia
 beezers
 bergaptene
-buoyance
 brissotine
 bimane
 begreen
