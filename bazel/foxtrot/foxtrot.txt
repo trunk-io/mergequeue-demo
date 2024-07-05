@@ -3490,6 +3490,7 @@ forebowline
 fenchyl
 fiercen
 fringelike
+farer
 frag
 franklinist
 firmisternial
@@ -10740,7 +10741,6 @@ farcing
 frutex
 foyers
 fruticetum
-farer
 foreinclined
 fulmars
 fouth
