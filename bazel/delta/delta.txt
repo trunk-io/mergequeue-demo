@@ -5526,7 +5526,6 @@ deoxidisation
 dsnames
 deadest
 deoxidised
-deoxidiser
 dorsiventrality
 deoxidize
 doryphoros
@@ -5778,6 +5777,7 @@ disposes
 deplume
 deplumes
 dewanee
+deoxidiser
 demonland
 depoetize
 disclaimers
