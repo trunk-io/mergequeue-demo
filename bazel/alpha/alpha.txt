@@ -1637,7 +1637,6 @@ accoutres
 accoutring
 accredit
 argenteum
-accreditable
 accreditate
 archpresbyter
 accreditations
@@ -12130,6 +12129,7 @@ anaxone
 anazoturia
 amiable
 atmospherium
+accreditable
 anbury
 alternaria
 assistive
