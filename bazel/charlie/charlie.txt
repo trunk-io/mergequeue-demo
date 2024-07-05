@@ -28840,7 +28840,6 @@ crest
 confiserie
 counterbalance
 congrue
-comparator
 crestal
 crestfallen
 churchwards
@@ -28898,6 +28897,7 @@ crevices
 combo
 coventries
 cyanophose
+comparator
 chiffrobe
 crevis
 crew
