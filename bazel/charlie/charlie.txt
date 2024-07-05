@@ -12603,7 +12603,6 @@ chromoplasmic
 corundophilite
 chromoplast
 congelation
-chromoplastid
 countergauger
 chromoprotein
 cassino
@@ -30961,6 +30960,7 @@ cumarins
 cuvage
 collocal
 cumaru
+chromoplastid
 cumber
 consumptiveness
 clacked
