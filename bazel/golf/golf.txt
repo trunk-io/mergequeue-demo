@@ -1251,7 +1251,6 @@ gewgawry
 goodship
 geneki
 griffes
-grimier
 gapping
 grex
 galvaniser
@@ -1317,6 +1316,7 @@ gorging
 gargler
 greeting
 gargoyley
+grimier
 gladite
 gieing
 gazaboes
