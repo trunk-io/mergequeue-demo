@@ -4389,6 +4389,7 @@ balitao
 byward
 bosnisch
 bourgeois
+bunyip
 backswing
 bonairness
 brolly
@@ -8980,7 +8981,6 @@ biocycles
 botan
 biocidal
 biocide
-bunyip
 bioclimatic
 bioclimatician
 bioclimatology
