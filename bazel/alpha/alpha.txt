@@ -2902,7 +2902,6 @@ acrosome
 acrosomes
 anoints
 autolimnetic
-acrosphacelus
 anapnograph
 acrospiring
 aneurysms
@@ -16099,6 +16098,7 @@ auto
 antiscolic
 antiscorbutical
 antiscriptural
+acrosphacelus
 antiscrofulous
 antiseismic
 antiselene
