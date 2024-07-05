@@ -12040,7 +12040,6 @@ cilician
 choriamb
 choriambic
 chorometry
-choriambize
 coaggregated
 confarreate
 choriambus
@@ -31420,6 +31419,7 @@ curlewberry
 canoed
 curlews
 curlicue
+choriambize
 cosmogonist
 candied
 curlycues
