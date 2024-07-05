@@ -2722,6 +2722,7 @@ ebons
 eleemosynary
 etymology
 expels
+emetic
 ephydra
 engorge
 eleemosynarily
@@ -3996,7 +3997,6 @@ emphatical
 endometritis
 elucidations
 emphysema
-emetic
 endobronchitis
 emphyteutic
 emolumentary
