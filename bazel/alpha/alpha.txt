@@ -13770,7 +13770,6 @@ anopla
 anoplonemertean
 apotheosise
 anoplonemertini
-anoplotheriidae
 acerola
 anoplotherioid
 anoplotherium
@@ -25328,6 +25327,7 @@ alp
 azophenyl
 azophenine
 azoprotein
+anoplotheriidae
 abbroachment
 anagrammatization
 azores
