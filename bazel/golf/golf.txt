@@ -1966,7 +1966,6 @@ gnomonical
 gimbal
 gas
 goring
-gerated
 granitoid
 glycosin
 gelded
@@ -10496,6 +10495,7 @@ gasts
 gastroenteralgia
 gogglier
 gyromancy
+gerated
 guestwise
 gumshoeing
 gumweed
