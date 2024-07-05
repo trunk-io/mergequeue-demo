@@ -15340,7 +15340,6 @@ clairsentience
 clairsentient
 confrontationism
 conceder
-clairvoyance
 clairvoyances
 clairvoyancy
 clairvoyant
@@ -28316,6 +28315,7 @@ chromites
 craterless
 craterlet
 craterlike
+clairvoyance
 craters
 copywise
 craticular
