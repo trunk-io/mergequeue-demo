@@ -4610,7 +4610,6 @@ fitified
 flank
 flavory
 fidia
-flange
 fitout
 fitchered
 fitted
@@ -8518,6 +8517,7 @@ flinchers
 famulus
 fred
 feathers
+flange
 frenchwise
 francium
 femur
