@@ -2545,7 +2545,6 @@ grandezza
 grubbies
 gain
 gonochorism
-goitrous
 galenites
 gitter
 generalized
@@ -6781,6 +6780,7 @@ guaraunan
 gyrostatics
 genros
 goniums
+goitrous
 gunwales
 gasterosteoid
 gradate
