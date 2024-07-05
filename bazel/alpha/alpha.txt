@@ -3644,7 +3644,6 @@ alimenting
 adenotome
 adenotomic
 adenous
-adenoviral
 adenoviruses
 adeona
 attenuative
@@ -13975,6 +13974,7 @@ amphitropal
 antas
 antatrophic
 ante
+adenoviral
 anteact
 arsenillo
 anteambulate
