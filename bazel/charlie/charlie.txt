@@ -3644,6 +3644,7 @@ caradoc
 carafes
 censors
 cornicing
+clangor
 cocineras
 caragana
 caraganas
@@ -15430,7 +15431,6 @@ coexist
 clangful
 clanging
 clangingly
-clangor
 corticoefferent
 clangorous
 clangorously
