@@ -4463,6 +4463,7 @@ duplexity
 dizening
 drawk
 demeanor
+doit
 dactylograph
 disallowableness
 disembark
@@ -17580,7 +17581,6 @@ drumlin
 desisting
 dwarfing
 drumline
-doit
 drumlinoid
 dysnomy
 decelerated
