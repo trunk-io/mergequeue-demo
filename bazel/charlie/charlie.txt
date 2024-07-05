@@ -7760,7 +7760,6 @@ cotangent
 cerialia
 cerianthid
 cerianthidae
-cervelases
 convolvulin
 cerianthoid
 curtaxe
@@ -11728,6 +11727,7 @@ choleras
 choleric
 cholerically
 cheesecurd
+cervelases
 choleriform
 cholerigenous
 cholerine
