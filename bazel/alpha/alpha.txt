@@ -6385,7 +6385,6 @@ agrypnotic
 acajou
 agroan
 agrobacterium
-agrobiologic
 agrobiological
 agrobiologically
 aparithmesis
@@ -10663,6 +10662,7 @@ apothec
 arccosine
 aminopyrine
 aminoplastic
+agrobiologic
 angulometer
 arachne
 abner
