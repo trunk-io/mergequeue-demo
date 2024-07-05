@@ -3436,6 +3436,7 @@ badgerly
 bastions
 barabbas
 battutas
+bef
 bastite
 brushfire
 basto
@@ -5029,7 +5030,6 @@ beeway
 beeweed
 beewise
 bask
-bef
 bodying
 bisphenoid
 bostal
