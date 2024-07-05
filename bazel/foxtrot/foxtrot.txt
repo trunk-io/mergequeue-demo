@@ -2903,7 +2903,6 @@ firmisternal
 frithwork
 fetlocked
 flukes
-fetography
 fetology
 fibroglia
 fountainhead
@@ -7712,6 +7711,7 @@ flisky
 foreshaft
 foreleg
 florilege
+fetography
 forelook
 foremade
 fanaticalness
