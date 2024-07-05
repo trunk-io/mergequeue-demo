@@ -1496,6 +1496,7 @@ enthalpy
 espiegle
 elasmobranchii
 endosmometer
+equippers
 estivate
 effusively
 entasias
@@ -3499,7 +3500,6 @@ evertor
 elliptic
 ekes
 epepophysial
-equippers
 embarras
 escorted
 enured
