@@ -9815,7 +9815,6 @@ cheilostomata
 cheilostomatous
 censer
 cheilotomy
-cheimatophobia
 cheyneys
 curbstones
 cimex
@@ -30953,6 +30952,7 @@ coagulations
 cachou
 corresp
 craniostosis
+cheimatophobia
 cumar
 cumara
 cumarins
