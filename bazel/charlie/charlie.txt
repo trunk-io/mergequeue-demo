@@ -8782,6 +8782,7 @@ channels
 channelure
 chanoyu
 cestus
+chronoscope
 chansonette
 commissionaire
 chansonnette
@@ -12706,7 +12707,6 @@ chronon
 chronons
 chronopher
 chronophotography
-chronoscope
 chronoscopic
 chronoscopically
 cheesier
