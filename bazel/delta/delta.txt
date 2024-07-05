@@ -1088,6 +1088,7 @@ darwesh
 deturn
 drillers
 douce
+doorknobs
 defaisance
 devant
 dentalium
@@ -15633,7 +15634,6 @@ doorhead
 dooryards
 dooring
 doorknob
-doorknobs
 doorless
 destinate
 doormaid
