@@ -1493,6 +1493,7 @@ encell
 enthalpy
 espiegle
 elasmobranchii
+exonarthex
 endosmometer
 equippers
 estivate
@@ -12685,7 +12686,6 @@ effrontery
 elaborators
 entame
 echoisms
-exonarthex
 epicotyledonary
 exonerate
 exonerating
