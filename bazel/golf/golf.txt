@@ -5283,7 +5283,6 @@ gullet
 gelsemiums
 glomerulus
 glenohumeral
-glenoidal
 gages
 grouted
 guitarfish
@@ -8015,6 +8014,7 @@ granite
 guttulae
 greedy
 gladioli
+glenoidal
 granitiform
 granitite
 ghain
