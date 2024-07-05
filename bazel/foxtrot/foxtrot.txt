@@ -1967,7 +1967,6 @@ fothergilla
 fancy
 feebleness
 feebless
-feebly
 filatory
 flammivomous
 fetometry
@@ -10630,6 +10629,7 @@ fruit
 friandise
 fieldpiece
 fruitbearing
+feebly
 frankness
 fouette
 fundamentalness
