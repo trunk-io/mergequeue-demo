@@ -3175,7 +3175,6 @@ finca
 flip
 fibroins
 fistulariidae
-forgetable
 founderous
 foozle
 fairlead
@@ -3607,6 +3606,7 @@ foremention
 filemaker
 flenches
 filename
+forgetable
 fixates
 florigraphy
 forspoken
