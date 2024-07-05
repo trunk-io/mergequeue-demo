@@ -3503,7 +3503,6 @@ batfowls
 bestore
 brookites
 blackroot
-bath
 batheable
 bathed
 bellower
@@ -4807,6 +4806,7 @@ brackens
 bazoos
 brutalise
 bookbinderies
+bath
 bhutan
 boilerless
 brainstorm
