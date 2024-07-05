@@ -26754,7 +26754,6 @@ counterbend
 calamitously
 conjobble
 counterblast
-counterbond
 cautio
 counterborder
 crookneck
@@ -30152,6 +30151,7 @@ cruciferae
 cruciferous
 crucify
 crucificial
+counterbond
 crucifies
 compressor
 cogue
