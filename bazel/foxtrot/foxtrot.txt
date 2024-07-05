@@ -1540,7 +1540,6 @@ filibeg
 forepiece
 faunish
 falsifiers
-faceable
 faunist
 fattenable
 fibroangioma
@@ -10297,6 +10296,7 @@ folksongs
 fanged
 fingerings
 ferrates
+faceable
 factor
 forleaving
 foundationless
