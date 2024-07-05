@@ -1351,7 +1351,6 @@ butterbump
 betwixen
 birdy
 balconies
-baldacchino
 bywords
 bacule
 baldachin
@@ -6070,6 +6069,7 @@ bemocking
 bibliological
 bemocks
 brahmanical
+baldacchino
 bemolt
 bort
 befrill
