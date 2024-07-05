@@ -996,6 +996,7 @@ guessingly
 glissette
 guillotinade
 generational
+growable
 glossed
 gordunite
 ganga
@@ -3553,7 +3554,6 @@ gastrospasm
 granulitization
 gyroplane
 glove
-growable
 galactopoiesis
 gleit
 gatewaymen
