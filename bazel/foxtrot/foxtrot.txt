@@ -7530,7 +7530,6 @@ forecourts
 freeholding
 forelegs
 fulmen
-farmhands
 furuncles
 faille
 fanal
@@ -10101,6 +10100,7 @@ fittyfied
 finger
 furnisher
 foozling
+farmhands
 fordam
 faki
 fullery
