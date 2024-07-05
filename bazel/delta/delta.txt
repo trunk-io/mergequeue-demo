@@ -9147,7 +9147,6 @@ disembattle
 draggles
 diedral
 denmark
-dictyosiphon
 dictyosiphonaceae
 disunions
 dullhead
@@ -11013,6 +11012,7 @@ disaffiliation
 disaffinity
 demibrigade
 disaffirmance
+dictyosiphon
 disaffirmation
 decidedness
 disaffirming
