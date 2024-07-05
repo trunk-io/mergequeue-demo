@@ -3273,7 +3273,6 @@ fictioner
 forehent
 furbisher
 forestay
-fusspot
 functioning
 famished
 fledgy
@@ -9285,6 +9284,7 @@ franchisers
 flagons
 fordull
 front
+fusspot
 fervors
 fabrikoid
 fireworms
