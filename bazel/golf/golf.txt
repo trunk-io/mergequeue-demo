@@ -3792,7 +3792,6 @@ gelatined
 goff
 greenbugs
 gabbard
-giddybrain
 gulancha
 gorblimey
 geodaesia
@@ -6989,6 +6988,7 @@ gossipry
 garrat
 goonch
 gossipers
+giddybrain
 gladdener
 goondie
 grandpappy
