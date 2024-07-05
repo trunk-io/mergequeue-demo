@@ -4423,7 +4423,6 @@ becloak
 bereavement
 boojum
 beclog
-beclogged
 bludging
 beclogs
 bretonian
@@ -9787,6 +9786,7 @@ bissextile
 bissextus
 byssiferous
 bullbats
+beclogged
 balding
 bombylious
 botticellian
