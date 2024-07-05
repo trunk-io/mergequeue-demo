@@ -7635,7 +7635,6 @@ gradgrind
 grouseward
 gangman
 gud
-glamour
 gradient
 gradin
 gobblers
@@ -10323,6 +10322,7 @@ gainfully
 gujarati
 gametic
 gamodesmic
+glamour
 gymnostomous
 gelly
 goas
