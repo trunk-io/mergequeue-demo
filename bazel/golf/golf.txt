@@ -3750,7 +3750,6 @@ graecize
 goffers
 galactotherapy
 geodetics
-gopher
 gelatinise
 grihyasutra
 glucke
@@ -5112,6 +5111,7 @@ grabbiest
 glassines
 glassiness
 glasslikeness
+gopher
 gourdiness
 goosefoots
 garrya
