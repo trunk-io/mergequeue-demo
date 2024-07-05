@@ -295,7 +295,6 @@ famine
 froren
 fraenums
 foreboder
-frigate
 fumade
 flambeed
 frappeing
@@ -2151,6 +2150,7 @@ foddered
 fellatrice
 fluoresage
 fabulist
+frigate
 fattener
 fletch
 faujdar
