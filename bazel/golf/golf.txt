@@ -1199,7 +1199,6 @@ guestive
 gladsomely
 glade
 glaux
-grognard
 gimcrackery
 gimmicking
 gour
@@ -1253,6 +1252,7 @@ gradings
 golfed
 gewgawry
 goodship
+grognard
 geneki
 griffes
 gapping
