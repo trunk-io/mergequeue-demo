@@ -3866,6 +3866,7 @@ feminie
 formin
 firewoods
 fatbirds
+freespace
 flankwise
 fractur
 fract
@@ -7385,7 +7386,6 @@ fasciculus
 forceless
 forcelessness
 forcelet
-freespace
 futhark
 feats
 fasciolar
