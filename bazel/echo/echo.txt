@@ -1938,6 +1938,7 @@ enantiomer
 enabled
 echinulate
 eurylaimi
+eurypterid
 essenical
 ejected
 entier
@@ -5178,7 +5179,6 @@ endomitosis
 endomorphy
 exta
 empedoclean
-eurypterid
 electrodesiccate
 endoneurium
 exorcising
