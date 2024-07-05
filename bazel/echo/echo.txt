@@ -2891,7 +2891,6 @@ equivalently
 extemporise
 euphonize
 elfland
-elflock
 entelodon
 elflocks
 endermic
@@ -8386,6 +8385,7 @@ eyetooth
 estivated
 exempting
 epithyme
+elflock
 extacie
 eloped
 epithumetic
