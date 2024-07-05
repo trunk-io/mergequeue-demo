@@ -3691,7 +3691,6 @@ degradative
 degraded
 degradement
 deplorers
-dehydrogenase
 delicacies
 dozing
 disrupt
@@ -4612,6 +4611,7 @@ demilitarise
 demilitarised
 demilitarising
 demilitarization
+dehydrogenase
 dibranchiate
 demilitarized
 dentaliidae
