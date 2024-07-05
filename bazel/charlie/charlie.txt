@@ -3308,6 +3308,7 @@ colonizes
 capnomancy
 capnomor
 cirripede
+cowgram
 connivant
 celli
 capo
@@ -30903,7 +30904,6 @@ cultivations
 cultivative
 cultivator
 cultive
-cowgram
 cultrate
 cultrated
 cultriform
