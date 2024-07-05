@@ -717,7 +717,6 @@ breeches
 backyard
 bogwort
 badgerer
-badgering
 blundersome
 booking
 banana
@@ -10231,6 +10230,7 @@ blackfishing
 backlogs
 bufferrers
 basilemma
+badgering
 binghi
 betassel
 bibasic
