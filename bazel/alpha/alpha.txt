@@ -13748,7 +13748,6 @@ anopheles
 anophelinae
 anophoria
 anophthalmos
-anophthalmus
 anopia
 amusable
 abortuses
@@ -16573,6 +16572,7 @@ apaestically
 articulatory
 amoebic
 apagoge
+anophthalmus
 apagogic
 arumlike
 adenofibrosis
