@@ -7064,7 +7064,6 @@ gercrow
 grottos
 galletas
 gooselike
-glider
 gregorianist
 gardenership
 germanist
@@ -8561,6 +8560,7 @@ genethliacs
 grainery
 gerb
 gouges
+glider
 grappled
 glyceral
 guti
