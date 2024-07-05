@@ -506,7 +506,6 @@ fakirs
 falangist
 flapcake
 falbelo
-fumados
 firerooms
 frowny
 falco
@@ -11745,6 +11744,7 @@ flneur
 fremdly
 fissuration
 factorage
+fumados
 fuzees
 fuzil
 fuzzier
