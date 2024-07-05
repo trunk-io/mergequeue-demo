@@ -6469,6 +6469,7 @@ behoot
 benzothiazine
 benzothiazoline
 benzothiodiazole
+backcloth
 barangay
 biternate
 benzothiofuran
@@ -15906,7 +15907,6 @@ basified
 bromizing
 behooped
 bowel
-backcloth
 bromoacetone
 bearberries
 bromoauric
