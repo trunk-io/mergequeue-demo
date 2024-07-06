@@ -2914,7 +2914,6 @@ brassavola
 barrelwise
 barren
 barrenly
-barrenness
 blockaderunning
 barretor
 bloodybones
@@ -10034,6 +10033,7 @@ bivascular
 bismuthyl
 binodous
 brahmic
+barrenness
 bivector
 biventer
 bayonetting
