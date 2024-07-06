@@ -5576,7 +5576,6 @@ archtempter
 accusatrixes
 afterswarming
 aftertask
-aftertaste
 aftertastes
 ancestress
 asherahs
@@ -9469,6 +9468,7 @@ archaeogeology
 alternariose
 alternate
 alternated
+aftertaste
 alternately
 apheretic
 alternateness
