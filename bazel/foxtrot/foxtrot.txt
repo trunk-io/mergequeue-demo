@@ -1132,7 +1132,6 @@ facty
 fibrillary
 filiates
 farthings
-fartlek
 fubs
 footprints
 fas
@@ -7390,6 +7389,7 @@ filicides
 fileable
 flittern
 fillemot
+fartlek
 firstship
 forcibility
 forcibleness
