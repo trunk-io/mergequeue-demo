@@ -9064,7 +9064,6 @@ charette
 chemisms
 chargable
 charge
-cheerless
 chargeable
 ciphertext
 collective
@@ -21596,6 +21595,7 @@ cosmographer
 concussed
 cringers
 concusses
+cheerless
 carapato
 cosounding
 cribbled
