@@ -497,7 +497,6 @@ acidities
 abjunctive
 amphineurous
 abjurations
-abjured
 abjurement
 abjurer
 abjurers
@@ -5199,6 +5198,7 @@ affidavy
 affidavit
 aviso
 affied
+abjured
 affies
 affile
 affiliable
