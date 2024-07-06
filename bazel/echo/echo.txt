@@ -2235,7 +2235,6 @@ elections
 exocolitis
 electives
 engram
-encystation
 endoplasma
 elector
 exhume
@@ -12985,6 +12984,7 @@ expectorated
 endosecretory
 etatisms
 endocondensation
+encystation
 elderbrotherish
 expectorations
 estoppage
