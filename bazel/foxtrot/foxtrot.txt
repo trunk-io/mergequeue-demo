@@ -6731,7 +6731,6 @@ feast
 fogon
 fogproof
 fogram
-fogrum
 frugally
 fellator
 filamentous
@@ -9268,6 +9267,7 @@ fumarine
 fledgling
 futuramic
 foldwards
+fogrum
 fossoria
 foldboats
 fistulization
