@@ -4843,7 +4843,6 @@ armlet
 aerocraft
 amoebous
 arkwright
-aerocurve
 aerodermectasia
 adulatress
 aerodynamical
@@ -8711,6 +8710,7 @@ allentato
 agaty
 alsine
 acalephan
+aerocurve
 aller
 allergenic
 abouchement
