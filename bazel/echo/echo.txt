@@ -7804,7 +7804,6 @@ epigastrium
 epigastrocele
 eliminations
 epigee
-electromyogram
 entombment
 encrinitic
 escapism
@@ -11499,6 +11498,7 @@ expended
 evilspeaker
 eridanid
 evilspeaking
+electromyogram
 engouled
 eunuchize
 evince
