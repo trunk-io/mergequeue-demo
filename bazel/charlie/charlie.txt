@@ -10453,6 +10453,7 @@ chiefery
 cyatholith
 chiefest
 cervalet
+conveyorizer
 chiefish
 cytisus
 chiefling
@@ -24001,7 +24002,6 @@ conjugation
 complicitous
 consequences
 crenology
-conveyorizer
 consubstantial
 cannibalize
 conveyorizing
