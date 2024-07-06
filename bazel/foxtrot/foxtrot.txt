@@ -2542,7 +2542,6 @@ flustrum
 funs
 fernshaw
 foolhardihood
-fifths
 fordo
 forehatch
 freightage
@@ -6713,6 +6712,7 @@ fluerics
 foofaraws
 fingerroot
 furrier
+fifths
 flaughtbred
 finableness
 forecontrive
