@@ -4534,6 +4534,7 @@ advice
 advices
 advisable
 advisableness
+atomicity
 adiaphorism
 advisal
 antheridial
@@ -22767,7 +22768,6 @@ asterioid
 adelphoi
 atomicism
 alpinely
-atomicity
 ataxaphasia
 accubation
 atomiferous
