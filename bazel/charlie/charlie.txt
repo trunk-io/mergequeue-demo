@@ -13630,6 +13630,7 @@ ciliella
 cistern
 ciliferous
 ciliform
+climacium
 ciliiferous
 ciliiform
 cylinder
@@ -17536,7 +17537,6 @@ cobishop
 craniometer
 clothesbrush
 curculionid
-climacium
 coble
 cobleman
 cuttings
