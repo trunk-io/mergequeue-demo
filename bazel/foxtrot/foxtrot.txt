@@ -5577,6 +5577,7 @@ fungic
 flybelt
 familiary
 featherers
+felsitic
 forepad
 flyby
 fratch
@@ -6873,7 +6874,6 @@ flashingly
 ferritungstite
 fluffs
 foregather
-felsitic
 flasks
 friability
 folkfree
