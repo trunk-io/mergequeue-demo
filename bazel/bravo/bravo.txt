@@ -1634,6 +1634,7 @@ brancher
 balloting
 ballotist
 ballots
+banker
 ballottement
 backlotter
 baronage
@@ -12312,7 +12313,6 @@ bittern
 barbarea
 beakful
 bindis
-banker
 budgeteer
 blanquillo
 bawds
