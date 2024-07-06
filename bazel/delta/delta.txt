@@ -3154,7 +3154,6 @@ daubing
 dentated
 defamed
 difficultness
-defames
 disestablisher
 demihuman
 dissentiency
@@ -3707,6 +3706,7 @@ degraduation
 degras
 deplantation
 denigrative
+defames
 degravate
 degreaser
 degreases
