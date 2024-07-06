@@ -260,7 +260,6 @@ euclases
 encashed
 electroplated
 expiries
-exospores
 eloignment
 easterling
 ecrevisse
@@ -908,6 +907,7 @@ exceptioner
 ectopy
 engulfed
 ectopistes
+exospores
 ectoplasmatic
 endship
 euphonies
