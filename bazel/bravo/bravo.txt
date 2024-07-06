@@ -4893,7 +4893,6 @@ beef
 beefalo
 beefaloes
 bloodedness
-brimmered
 beefalos
 bilimbis
 brig
@@ -5712,6 +5711,7 @@ belialic
 belibel
 baldrics
 bonytail
+brimmered
 battlemented
 belicoseness
 belie
