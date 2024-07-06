@@ -912,7 +912,6 @@ galt
 gametophoric
 gated
 gnashes
-genotypicity
 glommox
 gaminess
 grumousness
@@ -3609,6 +3608,7 @@ genearch
 gardenin
 gipsylike
 gaffkya
+genotypicity
 ghettoes
 grubbing
 ghettoizing
