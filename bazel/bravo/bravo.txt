@@ -5949,7 +5949,6 @@ bricktimber
 blisses
 backslap
 belostomatidae
-bedog
 barkpeeler
 bouillabaisse
 belostomidae
@@ -15658,6 +15657,7 @@ bauxitite
 bundlet
 blastomycetes
 burr
+bedog
 beholder
 braggiest
 broadish
