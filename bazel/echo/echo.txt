@@ -6193,6 +6193,7 @@ energetics
 executable
 enoplan
 enorm
+exhalations
 exhortator
 enorn
 enos
@@ -11048,7 +11049,6 @@ epigeic
 episcopacies
 endowments
 eurygaea
-exhalations
 eurythmics
 epiphenomena
 electivism
