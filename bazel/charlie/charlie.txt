@@ -1310,7 +1310,6 @@ calyceraceae
 calices
 calyces
 cathartin
-calyciferous
 calycifloral
 calyciflorate
 cyclopaedically
@@ -7160,6 +7159,7 @@ centiares
 coquetoon
 centiday
 centigrade
+calyciferous
 centigrado
 cannikin
 confluences
