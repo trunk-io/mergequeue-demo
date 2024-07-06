@@ -1086,7 +1086,6 @@ excisable
 exenteritis
 eyeless
 endoskeleton
-enchants
 eqpt
 edgar
 experimentalist
@@ -2318,6 +2317,7 @@ earthquake
 electrobath
 electrobiological
 epicenity
+enchants
 epistroma
 electrocardiogram
 exculpations
