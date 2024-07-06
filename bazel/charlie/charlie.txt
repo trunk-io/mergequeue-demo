@@ -27179,6 +27179,7 @@ counterstratagem
 counterstream
 counterstroke
 cyclopoid
+clientless
 cellulate
 countersuit
 cubehead
@@ -28630,7 +28631,6 @@ cinchonine
 cogitos
 castrators
 chiefship
-clientless
 corkite
 cedule
 confectiones
