@@ -4789,7 +4789,6 @@ equitangential
 encolour
 encolpia
 equilibrator
-encomy
 enduro
 englifier
 epidosite
@@ -13523,6 +13522,7 @@ evadable
 exsiccant
 exsiccatae
 expiry
+encomy
 embryogeny
 exsiccating
 embowment
