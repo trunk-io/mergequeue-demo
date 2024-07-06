@@ -3187,7 +3187,6 @@ actuary
 aphis
 actuating
 actuation
-actuator
 acturience
 acuaesthesia
 alids
@@ -7125,6 +7124,7 @@ anagrammatized
 aftershock
 arthroderm
 aerocartograph
+actuator
 anointers
 akmuddar
 aknow
