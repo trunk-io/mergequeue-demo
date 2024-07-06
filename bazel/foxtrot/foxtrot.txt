@@ -3289,7 +3289,6 @@ facecloth
 fibrosity
 faradizer
 fidate
-focal
 flaught
 forehalf
 flocculently
@@ -6774,6 +6773,7 @@ foiter
 fraxin
 fronded
 fissate
+focal
 folacin
 ferruminate
 falderols
