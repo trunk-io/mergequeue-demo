@@ -9947,7 +9947,6 @@ chemism
 choosy
 chemisorb
 cardiotherapy
-caudillos
 coprophilic
 copperytailed
 chemistry
@@ -13658,6 +13657,7 @@ chisel
 cylindroid
 cylindroma
 cylindromata
+caudillos
 cylindromatous
 crosswords
 cylindrometric
