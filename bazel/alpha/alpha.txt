@@ -3927,6 +3927,7 @@ anesthetic
 adjutator
 adjute
 adjutor
+apologer
 adjutory
 adjutorious
 adjutrice
@@ -17234,7 +17235,6 @@ andamanese
 apolloship
 aneurin
 anagrammatised
-apologer
 apology
 apologiae
 asarone
