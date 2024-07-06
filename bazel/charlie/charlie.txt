@@ -676,7 +676,6 @@ cafeteria
 cairba
 cafetiere
 cafetorium
-caff
 caffeic
 caffeina
 caffeines
@@ -3498,6 +3497,7 @@ centinody
 countershaft
 capsuler
 chappow
+caff
 capsuliferous
 cheloniid
 capsuliform
