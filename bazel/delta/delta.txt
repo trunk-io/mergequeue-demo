@@ -5838,7 +5838,6 @@ dowsabel
 depopulative
 dowve
 disemburden
-depopulator
 deaconries
 demipuppet
 disproval
@@ -11454,6 +11453,7 @@ discipline
 discipliners
 discipling
 disciplining
+depopulator
 diphosphothiamine
 discipular
 dislikes
