@@ -1208,6 +1208,7 @@ dataset
 datasetname
 distractedness
 datcha
+disparison
 dehydration
 demiassignation
 dragooner
@@ -13966,7 +13967,6 @@ dobie
 disbosoming
 distinguishedly
 distinguishes
-disparison
 distinguishingly
 diaspine
 dentalising
