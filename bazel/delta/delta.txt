@@ -5241,7 +5241,6 @@ directives
 doctrinalist
 dyings
 daemon
-decameter
 doghole
 deathly
 disterr
@@ -14639,6 +14638,7 @@ dixiecrat
 decentre
 dizain
 discursiveness
+decameter
 droopiness
 dora
 degradability
