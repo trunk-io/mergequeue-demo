@@ -916,7 +916,6 @@ bazookaman
 baguet
 bassalian
 bravely
-bicron
 bidarkas
 beseemingly
 boudin
@@ -10654,6 +10653,7 @@ beflatter
 blatta
 bounding
 blackbreast
+bicron
 biostrome
 blatted
 boltheader
