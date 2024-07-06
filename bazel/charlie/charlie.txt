@@ -7004,7 +7004,6 @@ cemeteries
 culm
 cenaculum
 chalcites
-cenanthy
 cloglike
 cenation
 cencerro
@@ -12603,6 +12602,7 @@ chromophage
 chromophane
 coopee
 chromophil
+cenanthy
 chromophilic
 chromophobia
 chromophobic
