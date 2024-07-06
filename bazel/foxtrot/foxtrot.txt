@@ -1026,6 +1026,7 @@ fulmina
 forbears
 fucuses
 formate
+foreorder
 fenester
 flashes
 fluoborid
@@ -7880,7 +7881,6 @@ ferd
 functionating
 fletching
 foreseen
-foreorder
 foreseer
 foresees
 fonder
