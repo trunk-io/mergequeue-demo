@@ -2913,7 +2913,6 @@ cantata
 concaulescence
 chrysoidine
 cantatas
-cantate
 cantation
 cantatrice
 coverts
@@ -24591,6 +24590,7 @@ chilostome
 coperta
 copes
 chelidon
+cantate
 cophosis
 copy
 copia
