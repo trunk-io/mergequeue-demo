@@ -2205,7 +2205,6 @@ feltmaker
 ferbams
 feltmaking
 fats
-feltman
 fluster
 feudalism
 frizzlers
@@ -8344,6 +8343,7 @@ forlive
 foreking
 fictively
 forloin
+feltman
 forlore
 filcher
 fucatious
