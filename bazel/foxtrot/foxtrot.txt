@@ -2202,7 +2202,6 @@ foute
 flashet
 felting
 feltmaker
-ferbams
 feltmaking
 fats
 fluster
@@ -3410,6 +3409,7 @@ frameableness
 foe
 floramour
 flyweights
+ferbams
 filtre
 faculative
 fops
