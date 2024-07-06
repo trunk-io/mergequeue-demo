@@ -10402,7 +10402,6 @@ alcade
 amharic
 amherstite
 asbestus
-amyotrophy
 amhran
 asherites
 araba
@@ -23677,6 +23676,7 @@ auscultation
 arilliform
 auscultatory
 ausform
+amyotrophy
 ausforming
 aushar
 acerbically
