@@ -710,6 +710,7 @@ bogyland
 browbeaten
 badge
 badgeless
+burdened
 binful
 bransles
 berrendo
@@ -17528,7 +17529,6 @@ burdalone
 bleak
 brosse
 burden
-burdened
 brawlers
 bidenticulate
 bathukolpic
