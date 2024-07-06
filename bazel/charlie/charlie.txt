@@ -2559,7 +2559,6 @@ cogniser
 candlewaster
 cambial
 candlewasting
-candlewick
 coyan
 cordwoods
 codlins
@@ -24801,6 +24800,7 @@ coprose
 coprostanol
 coprostasophobia
 cueman
+candlewick
 cops
 copse
 catocathartic
