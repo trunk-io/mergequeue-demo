@@ -3341,6 +3341,7 @@ flasket
 facewise
 facioscapulohumeral
 forgiver
+flashcube
 ferrado
 fossilologist
 ferretto
@@ -5100,7 +5101,6 @@ funorin
 flashboard
 fiendliest
 flinches
-flashcube
 fatigated
 forewent
 fario
