@@ -4106,6 +4106,7 @@ featherbrain
 fattable
 fanterie
 finns
+fatalness
 fernier
 fussier
 ferth
@@ -5678,7 +5679,6 @@ flinch
 flagleaf
 feck
 fullered
-fatalness
 fishnets
 forecabin
 flub
