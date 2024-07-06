@@ -6298,7 +6298,6 @@ fingerwork
 frisian
 fluidist
 fluidized
-followup
 fluidmeter
 faulted
 forceful
@@ -6605,6 +6604,7 @@ frounce
 furnaceman
 fungify
 foamflower
+followup
 firework
 footmanhood
 forthcomer
