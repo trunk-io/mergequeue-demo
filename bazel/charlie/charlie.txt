@@ -11415,7 +11415,6 @@ conged
 cubica
 chloroforming
 chloroformization
-chloroformize
 chloroforms
 chlorogenic
 chloroguanide
@@ -13675,6 +13674,7 @@ cardioclasia
 corenounce
 ciliotomy
 cilium
+chloroformize
 cylix
 cyllenian
 cyllenius
