@@ -5457,6 +5457,7 @@ candlesticked
 confront
 counterchange
 castleward
+carpale
 casaque
 castlewards
 castlewise
@@ -19834,7 +19835,6 @@ comebacker
 cleansed
 cymotrichous
 chalehs
-carpale
 caurale
 cribrose
 crepitous
