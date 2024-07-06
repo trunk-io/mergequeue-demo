@@ -542,7 +542,6 @@ gustiness
 geisotherm
 gastrolytic
 gd
-glycerine
 griffons
 griming
 gilravager
@@ -3293,6 +3292,7 @@ gemological
 goldenknop
 galvanofaradization
 gyneccia
+glycerine
 germanophilist
 gipsyesque
 gove
