@@ -3859,7 +3859,6 @@ feminie
 formin
 firewoods
 fatbirds
-freespace
 flankwise
 fractur
 fract
@@ -7003,6 +7002,7 @@ forfeiter
 fonduk
 floriferousness
 finagled
+freespace
 fromward
 fondus
 fluorocarbon
