@@ -6306,7 +6306,6 @@ ejectment
 enroots
 equijacent
 embowed
-encirclement
 enrut
 euclidean
 ens
@@ -12630,6 +12629,7 @@ etheostoma
 effectualness
 epigenetically
 erasmian
+encirclement
 eyeletted
 eyestone
 exoculate
