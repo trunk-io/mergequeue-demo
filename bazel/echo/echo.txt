@@ -1697,7 +1697,6 @@ ethnobiological
 esophagi
 endonuclear
 epigram
-eyeblack
 eyeblink
 eyebright
 eyecup
@@ -2120,6 +2119,7 @@ euxenite
 elastivity
 embouchement
 eleusine
+eyeblack
 elastomer
 erosional
 emperish
