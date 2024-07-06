@@ -7308,7 +7308,6 @@ centrist
 centro
 centroacinar
 centrobarical
-centroclinal
 catechist
 centrode
 centrodesmus
@@ -12581,6 +12580,7 @@ clayen
 choleinic
 clarioned
 chromolith
+centroclinal
 cluff
 colent
 chromolithic
