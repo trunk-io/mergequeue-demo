@@ -16716,6 +16716,7 @@ abjuration
 accoutrements
 asserters
 aphacia
+assails
 alcaides
 anethole
 aphacic
@@ -21584,7 +21585,6 @@ aweless
 assailer
 adopters
 assailers
-assails
 axiform
 assays
 assam
