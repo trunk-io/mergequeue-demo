@@ -6353,7 +6353,6 @@ exuberant
 environic
 ensepulcher
 elderbush
-enseraph
 enserfed
 ekamanganese
 enshade
@@ -14139,6 +14138,7 @@ episcopates
 ebonizing
 ephemerality
 epicrises
+enseraph
 enplanement
 emulates
 entocuneiform
