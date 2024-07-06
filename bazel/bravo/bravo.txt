@@ -940,6 +940,7 @@ beverage
 basiophthalmite
 bahay
 bahaist
+biochemics
 blocs
 bahamian
 bahamians
@@ -8954,7 +8955,6 @@ branchiopodan
 beslow
 babooism
 biochemic
-biochemics
 bromvogel
 biblioclast
 bonedog
