@@ -1486,7 +1486,6 @@ epicene
 empathic
 etui
 effused
-encell
 enthalpy
 espiegle
 elasmobranchii
@@ -2243,6 +2242,7 @@ exhume
 elks
 ethnarchs
 encyclopedian
+encell
 electragy
 electress
 electret
