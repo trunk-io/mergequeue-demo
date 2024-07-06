@@ -4699,7 +4699,6 @@ dulcite
 demisangue
 douzaines
 demipectinate
-doable
 denarius
 diswench
 darkroom
@@ -13855,6 +13854,7 @@ distaining
 distance
 denumeration
 demast
+doable
 distanceless
 distancy
 dissimilar
