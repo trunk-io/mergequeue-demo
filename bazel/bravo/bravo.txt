@@ -2956,6 +2956,7 @@ barrios
 boulevard
 barrister
 bootless
+banda
 botts
 broadshare
 burrel
@@ -15372,7 +15373,6 @@ butterflying
 bricklay
 bertha
 blas
-banda
 brigous
 borasco
 bimonthly
