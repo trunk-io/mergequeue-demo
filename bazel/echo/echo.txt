@@ -1802,6 +1802,7 @@ engravers
 embankments
 enable
 epistolary
+estimates
 entresse
 elliott
 earplugs
@@ -2369,7 +2370,6 @@ elicitory
 epicaridan
 electrodeless
 exponentials
-estimates
 energist
 enjeopard
 electrodeposition
