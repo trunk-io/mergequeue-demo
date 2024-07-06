@@ -1241,7 +1241,6 @@ acanthopterygii
 acanthoses
 acanthotic
 acanthuridae
-asterochiton
 argyric
 acanthuthi
 acronymically
@@ -24323,6 +24322,7 @@ autoracemization
 autoradiogram
 autoradiograph
 autoreflection
+asterochiton
 allopurinol
 algomian
 autoregulative
