@@ -5111,7 +5111,6 @@ guilders
 gravery
 glassmaking
 grav
-geophysics
 grittier
 guerdonless
 gunman
@@ -6329,6 +6328,7 @@ grimaces
 gentry
 generalize
 gisarme
+geophysics
 gruneritization
 grubstaker
 gibblegable
