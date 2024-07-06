@@ -3629,7 +3629,6 @@ caracora
 caracore
 caract
 caractacus
-caracter
 caradoc
 carafes
 censors
@@ -3996,6 +3995,7 @@ croquettes
 carcinogenesis
 carcinogenic
 carcinoid
+caracter
 compartmental
 crystalloluminescence
 carcinolysin
