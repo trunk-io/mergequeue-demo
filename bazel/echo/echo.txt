@@ -5843,7 +5843,6 @@ essayers
 engulf
 epicardial
 euthyroid
-entities
 episcopalian
 enhaemospore
 epiplastron
@@ -10112,6 +10111,7 @@ ephedra
 erythrophyllin
 extrathecal
 export
+entities
 eyey
 evirate
 eyot
