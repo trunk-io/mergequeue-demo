@@ -1419,7 +1419,6 @@ ferrels
 focometer
 fatnesses
 fylgjur
-fluctuosity
 furaciousness
 fatshedera
 foodlessness
@@ -5221,6 +5220,7 @@ fratcheous
 flanconnade
 foregoes
 flavid
+fluctuosity
 frogfishes
 footlers
 foetiferous
