@@ -403,7 +403,6 @@ dairymaids
 devaluate
 decanter
 dorsoanterior
-dichroic
 dairyman
 drinker
 dairywomen
@@ -11068,6 +11067,7 @@ deliberations
 disanimation
 despots
 disannuller
+dichroic
 disentanglements
 disincarcerate
 deaccession
