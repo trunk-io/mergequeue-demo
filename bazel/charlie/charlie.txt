@@ -5312,7 +5312,6 @@ caveats
 cerin
 cassegrain
 chromomeric
-counterrotating
 cassegrainian
 casseroling
 concurrent
@@ -19775,6 +19774,7 @@ combinational
 corrigent
 combinations
 combinative
+counterrotating
 combinator
 combinatory
 combinatorial
