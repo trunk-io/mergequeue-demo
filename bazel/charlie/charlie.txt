@@ -12625,7 +12625,6 @@ corundophilite
 chromoplast
 congelation
 countergauger
-chromoprotein
 cassino
 chromopsia
 chromoptometer
@@ -17897,6 +17896,7 @@ crible
 coderived
 coders
 codes
+chromoprotein
 certificating
 codescendant
 consumption
