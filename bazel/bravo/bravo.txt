@@ -543,6 +543,7 @@ backveld
 bollix
 beech
 bayok
+barometrical
 backvelder
 backway
 backward
@@ -7842,7 +7843,6 @@ ballasts
 biases
 butlerage
 biasing
-barometrical
 biauricular
 backhouse
 burny
