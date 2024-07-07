@@ -4944,7 +4944,6 @@ bonework
 beeped
 burgware
 battak
-burgensic
 blesse
 belgae
 boltless
@@ -15351,6 +15350,7 @@ brigantines
 brigatry
 brigetty
 beliquoring
+burgensic
 brevete
 basicytoparaplastin
 blackfish
