@@ -3913,7 +3913,6 @@ adjust
 asters
 adjustably
 abdal
-adjustation
 astre
 armozeen
 adjusted
@@ -16943,6 +16942,7 @@ apina
 aciculated
 armillated
 aping
+adjustation
 apio
 ameliorative
 apioceridae
