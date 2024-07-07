@@ -10004,6 +10004,7 @@ chemosynthetic
 chemosis
 chemosmoses
 chemosmotic
+consumptible
 clays
 calic
 cameograph
@@ -23345,7 +23346,6 @@ consummator
 consumo
 consumpted
 corrasive
-consumptible
 consumptional
 consumptions
 consumptive
