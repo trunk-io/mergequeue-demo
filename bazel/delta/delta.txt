@@ -1664,6 +1664,7 @@ daws
 delocalization
 daw
 deaminating
+dextraural
 deamination
 deaminize
 deaminized
@@ -16602,7 +16603,6 @@ dwellers
 decorates
 dragonish
 dragonize
-dextraural
 dragonroot
 detesting
 dragonwort
