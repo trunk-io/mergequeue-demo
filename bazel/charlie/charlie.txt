@@ -2861,7 +2861,6 @@ counsinhood
 crozed
 canopy
 copesman
-canopic
 canopid
 canopied
 canopies
@@ -5051,6 +5050,7 @@ cryptogramma
 cartwheeler
 cuggermugger
 consolan
+canopic
 cartwhip
 caruage
 carucage
