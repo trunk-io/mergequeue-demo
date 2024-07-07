@@ -14480,7 +14480,6 @@ anthropometer
 anthropometry
 anuloma
 anthropometric
-antinucleon
 acrocarpi
 allan
 anthropometrist
@@ -24512,6 +24511,7 @@ auxiliator
 ammoniacum
 auxilytic
 auxin
+antinucleon
 auxinic
 angekkok
 auxinically
