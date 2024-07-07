@@ -2530,6 +2530,7 @@ candleholder
 candlelight
 candlelighter
 confraternities
+choosable
 candlelighting
 candlelit
 carvels
@@ -8055,7 +8056,6 @@ cetonian
 curwhibble
 cetoniinae
 castigated
-choosable
 cetorhinid
 cetorhinidae
 chickadee
