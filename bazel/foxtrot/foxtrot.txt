@@ -4669,7 +4669,6 @@ flatnose
 footslogs
 figurante
 flaunched
-firetail
 frecked
 flections
 frighten
@@ -10200,6 +10199,7 @@ footnote
 froggies
 fissilingual
 frogginess
+firetail
 froggish
 forslack
 froghood
