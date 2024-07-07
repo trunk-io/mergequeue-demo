@@ -3705,6 +3705,7 @@ electrocautery
 electrodialyzer
 endostylic
 euchologion
+erugation
 epitoke
 extras
 economite
@@ -13547,7 +13548,6 @@ escheating
 enjoinder
 embroiders
 enteroceptor
-erugation
 extance
 erik
 etuvee
