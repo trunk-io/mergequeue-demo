@@ -4329,6 +4329,7 @@ adsmithing
 adsorb
 autotriploid
 adsorbability
+allocryptic
 adsorbable
 acnodal
 angiothlipsis
@@ -10437,7 +10438,6 @@ arylate
 antiphonical
 amical
 agastache
-allocryptic
 amarettos
 answerableness
 anaxagorize
