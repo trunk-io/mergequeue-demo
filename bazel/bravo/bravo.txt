@@ -7607,7 +7607,6 @@ backstretches
 bemad
 bewig
 barbudos
-bewigging
 bricole
 brobdingnag
 brasilein
@@ -15573,6 +15572,7 @@ bristliness
 brucina
 bristol
 backening
+bewigging
 bonairly
 bristols
 belleeks
