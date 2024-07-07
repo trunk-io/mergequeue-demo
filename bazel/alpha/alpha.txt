@@ -16737,7 +16737,6 @@ amalgamations
 aporiae
 akebi
 attidae
-acrocyst
 arrowhead
 aphanophyre
 acara
@@ -18533,6 +18532,7 @@ anagyrin
 affying
 arboloco
 arbor
+acrocyst
 anthropoidal
 arboraceous
 anticorset
