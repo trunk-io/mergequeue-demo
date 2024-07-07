@@ -3344,6 +3344,7 @@ embargoes
 endocrinologist
 embargoist
 embark
+epichorial
 embarkations
 epitomize
 embarkment
@@ -4257,7 +4258,6 @@ extoller
 emulsoids
 enteropathogenic
 emunctory
-epichorial
 electroencephalographic
 enlay
 edison
