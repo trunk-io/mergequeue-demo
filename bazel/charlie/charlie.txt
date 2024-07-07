@@ -4512,6 +4512,7 @@ carlo
 courages
 carloading
 carloadings
+combatants
 carlock
 carlos
 circumference
@@ -19743,7 +19744,6 @@ combatable
 chroma
 combatant
 cimbalom
-combatants
 combater
 combaters
 combating
