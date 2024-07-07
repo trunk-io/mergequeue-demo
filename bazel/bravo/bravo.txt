@@ -3337,6 +3337,7 @@ basoid
 baraithas
 beltine
 bason
+blennoma
 blowfish
 basongo
 bren
@@ -15403,7 +15404,6 @@ bagged
 brilliandeer
 budgerigars
 brilliant
-blennoma
 brilliantined
 beiges
 bullule
