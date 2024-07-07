@@ -4022,7 +4022,6 @@ fallible
 feudatorial
 feceris
 feudalise
-freezable
 fingram
 frumpishness
 fossilisable
@@ -7550,6 +7549,7 @@ forespeak
 fecundative
 faradising
 foredune
+freezable
 firy
 foulbrood
 farrier
