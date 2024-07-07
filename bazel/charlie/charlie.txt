@@ -7926,7 +7926,6 @@ cervicispinal
 cervicitis
 cervicoauricular
 chippable
-cytochalasin
 cervicobasilar
 cervicobregmatic
 cobitis
@@ -29337,6 +29336,7 @@ cryptographal
 cryptoheresy
 cryptoheretic
 cryptolite
+cytochalasin
 cryptolith
 cryptology
 conspiracies
