@@ -11858,7 +11858,6 @@ consonantalizing
 chondrocostal
 chondrocranial
 circuitous
-coendured
 chondrodystrophy
 chondrodystrophia
 chondroditic
@@ -27281,6 +27280,7 @@ countywide
 cerebellopontine
 cannet
 countlessness
+coendured
 countor
 countour
 cardhouse
