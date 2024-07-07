@@ -5167,7 +5167,6 @@ greek
 glumales
 gazania
 glave
-glazer
 glazers
 geldant
 grasslands
@@ -9995,6 +9994,7 @@ gubernative
 gunwale
 ghostliest
 gilenyer
+glazer
 gubernator
 guara
 gubernatrix
