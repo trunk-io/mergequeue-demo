@@ -11911,7 +11911,6 @@ anaplasmoses
 anaplasmosis
 anaplasty
 anosmia
-anaplastic
 anaplerosis
 anaplerotic
 alligations
@@ -16422,6 +16421,7 @@ antoninianus
 appointed
 antonomasy
 antonomasia
+anaplastic
 antonomastic
 antonomastical
 amaga
