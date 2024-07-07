@@ -3566,6 +3566,7 @@ captures
 capturing
 capuan
 capuched
+chortler
 capuchins
 counterbase
 capucine
@@ -12147,7 +12148,6 @@ chorous
 chort
 chortle
 chondrodite
-chortler
 chortlers
 cheating
 cooee
