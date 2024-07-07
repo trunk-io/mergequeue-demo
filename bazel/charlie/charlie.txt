@@ -5555,7 +5555,6 @@ catachreses
 catachresis
 catachrestic
 cercariae
-catachrestical
 catachrestically
 condemner
 caprioling
@@ -30713,6 +30712,7 @@ cuinage
 cuinfo
 cuing
 cuirassed
+catachrestical
 cuirasses
 cuirassier
 commonplacely
