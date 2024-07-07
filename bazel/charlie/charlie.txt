@@ -7320,7 +7320,6 @@ centro
 centroacinar
 centrobarical
 catechist
-centrode
 centrodesmus
 centrodorsal
 centroids
@@ -31133,6 +31132,7 @@ conscripts
 cupellers
 cupelling
 cupflower
+centrode
 cupfulfuls
 cuphea
 canvassing
