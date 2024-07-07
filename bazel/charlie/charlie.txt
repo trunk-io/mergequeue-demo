@@ -7333,7 +7333,6 @@ centromeric
 centronote
 centronucleus
 clept
-centroplasm
 centropomidae
 clarified
 centrosymmetric
@@ -16789,6 +16788,7 @@ culla
 chocolaty
 cora
 clothespins
+centroplasm
 clothespresses
 cire
 clothiers
