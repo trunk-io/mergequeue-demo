@@ -1387,7 +1387,6 @@ garnishes
 glossanthrax
 garnison
 garniture
-gagor
 gaultheria
 grecize
 ganyie
@@ -1912,6 +1911,7 @@ gastrozooid
 glaikit
 gavelmen
 gunboat
+gagor
 gaudless
 gastromycosis
 geal

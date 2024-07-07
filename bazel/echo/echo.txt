@@ -2082,7 +2082,6 @@ enclosable
 epistles
 elapsing
 extrared
-elasmobranchiate
 epilimnia
 edgemaker
 elasmothere
@@ -12769,6 +12768,7 @@ exam
 exorcized
 engramma
 exorcizement
+elasmobranchiate
 exorcizer
 etioporphyrin
 epiceratodus
