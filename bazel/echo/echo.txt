@@ -8058,7 +8058,6 @@ expilate
 ease
 entoconid
 epidendron
-epipetalous
 enstatitic
 extruding
 eject
@@ -12928,6 +12927,7 @@ eyrir
 esmayle
 expatiate
 expatiates
+epipetalous
 expatiating
 enravished
 electable
