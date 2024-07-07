@@ -774,7 +774,6 @@ grooper
 gris
 ghrush
 gandergoose
-grithman
 gamari
 gamashes
 gristliness
@@ -2007,6 +2006,7 @@ gomorrah
 gnaeus
 galactia
 glosts
+grithman
 gauzy
 gauzier
 gladdening
