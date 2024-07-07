@@ -1182,7 +1182,6 @@ acamar
 allethrin
 acampsia
 acana
-apesthesia
 acanonical
 acanth
 acantha
@@ -3437,6 +3436,7 @@ additively
 acrogynous
 additives
 additivity
+apesthesia
 additory
 augustin
 additum
