@@ -13900,7 +13900,6 @@ breadstuffs
 bowlder
 bauno
 boloball
-bowldery
 bowldering
 biotoxin
 bowleg
@@ -14428,6 +14427,7 @@ brainward
 brachygraphy
 birdshots
 bubonoceze
+bowldery
 bewailment
 boggled
 bingee
