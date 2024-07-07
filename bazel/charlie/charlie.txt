@@ -12960,6 +12960,7 @@ calorifacient
 churchy
 churchianity
 churchyard
+crawlways
 churchyards
 churchier
 churchiest
@@ -31429,7 +31430,6 @@ curlpaper
 colback
 covariance
 concinnated
-crawlways
 curls
 curmudgeon
 clotho
