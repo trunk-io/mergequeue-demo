@@ -2927,6 +2927,7 @@ blobby
 bailed
 barricaded
 beltian
+benedicts
 barricaders
 barricado
 barricadoes
@@ -6165,7 +6166,6 @@ biggonet
 blithely
 baikalite
 boof
-benedicts
 butanolide
 blanking
 blastide
