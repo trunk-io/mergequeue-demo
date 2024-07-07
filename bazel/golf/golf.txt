@@ -1560,7 +1560,6 @@ granulomata
 gainbirth
 gaspereau
 gymnocerata
-graphics
 graphitized
 glibber
 gonydeal
@@ -2245,6 +2244,7 @@ gonimic
 griddles
 glanderous
 gey
+graphics
 geopolitik
 gladiatorism
 gallantry
