@@ -7862,6 +7862,7 @@ devotedness
 downgoing
 devoting
 disgorge
+disallowed
 devotionalist
 derat
 delates
@@ -11047,7 +11048,6 @@ disally
 disalliege
 disallow
 disvalue
-disallowed
 disconformably
 dramatised
 dieselized
