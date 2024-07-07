@@ -9574,7 +9574,6 @@ gujrati
 guttiferales
 greeny
 ganoidean
-gomorrean
 guld
 gentian
 gulist
@@ -9955,6 +9954,7 @@ glyptic
 gipsyfy
 generis
 gozell
+gomorrean
 guatemalan
 gazetted
 gamasoidea
