@@ -8176,7 +8176,6 @@ chaetodontidae
 chaetognatha
 chaetophobia
 correspondentially
-chaetophora
 chaetophoraceous
 cuvierian
 cardiacea
@@ -31402,6 +31401,7 @@ curiousest
 curiously
 curite
 curitis
+chaetophora
 cispadane
 cholecystoileostomy
 curl
