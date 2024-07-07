@@ -538,6 +538,7 @@ fenestellidae
 flyability
 float
 footpace
+figless
 foxwood
 fallectomy
 forebays
@@ -818,7 +819,6 @@ fanjet
 fastened
 flemings
 formulism
-figless
 forerequest
 fanlights
 fanmaking
