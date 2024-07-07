@@ -2955,7 +2955,6 @@ fungiferous
 fruitlet
 ferryboats
 floorcloth
-faits
 febricide
 feudalist
 frettage
@@ -5906,6 +5905,7 @@ flinted
 forril
 filleted
 furnishings
+faits
 flocculent
 fluemen
 flushes
