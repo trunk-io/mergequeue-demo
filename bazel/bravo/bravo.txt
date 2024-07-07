@@ -1877,7 +1877,6 @@ biostatics
 bandit
 beshrew
 branle
-bespice
 bandle
 bandleader
 bedrel
@@ -3363,6 +3362,7 @@ biotechnics
 bassetta
 beholders
 bassette
+bespice
 bays
 basiophthalmous
 bassetting
