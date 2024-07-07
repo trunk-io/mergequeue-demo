@@ -5278,6 +5278,7 @@ apiales
 affixment
 afflate
 anophthalmia
+actinocarp
 afflated
 ataxia
 afflatus
@@ -14305,7 +14306,6 @@ apocryphate
 amerce
 additamentary
 anthoecological
-actinocarp
 anthoecologist
 application
 anthogenesis
