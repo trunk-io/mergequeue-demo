@@ -2117,7 +2117,6 @@ elastivity
 embouchement
 eleusine
 eyeblack
-elastomer
 erosional
 emperish
 embrasured
@@ -2994,6 +2993,7 @@ epidotes
 elytroposis
 elytrorhagia
 elytrostenosis
+elastomer
 elytrotomy
 elix
 eggfish
