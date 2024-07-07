@@ -7014,7 +7014,6 @@ fires
 frt
 fontful
 fathom
-fathomableness
 fantassin
 forehandedly
 fonticulus
@@ -8178,6 +8177,7 @@ festering
 floroscope
 fluidally
 forficula
+fathomableness
 fetors
 ferrated
 forficulidae
