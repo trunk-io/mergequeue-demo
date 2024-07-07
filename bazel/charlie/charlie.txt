@@ -13557,7 +13557,6 @@ cicuta
 classifications
 cicutoxin
 cid
-cidarid
 cidaris
 cheatrie
 carbolating
@@ -27479,6 +27478,7 @@ confeder
 chemicophysics
 coutumier
 couturier
+cidarid
 couturiere
 couturieres
 couturiers
