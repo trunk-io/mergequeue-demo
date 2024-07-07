@@ -4632,7 +4632,6 @@ enchodontid
 enchodontoid
 enters
 enchodus
-ensilaging
 enajim
 ermelin
 eminence
@@ -8918,6 +8917,7 @@ ethnohistorically
 ergastulum
 embowel
 elfdom
+ensilaging
 exp
 ergate
 ergative
