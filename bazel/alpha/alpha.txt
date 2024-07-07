@@ -3845,7 +3845,6 @@ adjacence
 adjacencies
 archicleistogamy
 adjectional
-anachronous
 anastatica
 autoactivation
 adjective
@@ -5653,6 +5652,7 @@ againsay
 against
 avellano
 ancillae
+anachronous
 againstand
 amphidromia
 againward
