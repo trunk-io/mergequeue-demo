@@ -18609,7 +18609,6 @@ clavers
 coiffeur
 coiffeurs
 coiffeuses
-coiffure
 coolheaded
 coiffured
 coiffures
@@ -23204,6 +23203,7 @@ constrainedly
 constrainedness
 carroll
 choiak
+coiffure
 constrainingly
 civilizational
 cubbyhole
