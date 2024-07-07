@@ -17603,7 +17603,6 @@ cocause
 cocautioner
 coccaceae
 crucifix
-chemicals
 colloid
 coccaceous
 coccal
@@ -31867,6 +31866,7 @@ crowfooted
 cuttail
 cutter
 cutterhead
+chemicals
 cutthroat
 cutty
 cuttyhunk
