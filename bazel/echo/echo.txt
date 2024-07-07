@@ -1072,7 +1072,6 @@ electioneered
 expeditions
 exadversum
 excisable
-exenteritis
 eyeless
 endoskeleton
 eqpt
@@ -8816,6 +8815,7 @@ eradicatory
 expedients
 extime
 enterozoan
+exenteritis
 evangelary
 el
 ectoskeleton
