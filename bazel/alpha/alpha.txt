@@ -10994,7 +10994,6 @@ arecaceae
 anoesis
 amorua
 autoput
-amos
 amotion
 amotions
 aubade
@@ -11652,6 +11651,7 @@ alban
 anagallis
 amigo
 anagap
+amos
 aflush
 avoure
 appraisal
