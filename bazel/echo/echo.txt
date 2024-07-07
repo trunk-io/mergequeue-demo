@@ -3369,6 +3369,7 @@ ephoral
 embase
 erinize
 embassadress
+employable
 embassy
 eustomatous
 electrolytes
@@ -7908,7 +7909,6 @@ echinozoa
 expiring
 enzymology
 epikia
-employable
 epikleses
 ejectum
 exululate
