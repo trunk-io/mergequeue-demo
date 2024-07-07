@@ -6078,6 +6078,7 @@ catholics
 coraciiform
 charry
 cleg
+cyanide
 catholyte
 cathouse
 carryable
@@ -13086,7 +13087,6 @@ cyanic
 cyanicide
 cyanid
 collects
-cyanide
 casel
 catamenial
 continentality
