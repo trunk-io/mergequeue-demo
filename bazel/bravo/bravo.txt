@@ -6916,6 +6916,7 @@ besetters
 besew
 boccaccio
 betrim
+bradyseismic
 beshackle
 beshade
 begrudges
@@ -14228,7 +14229,6 @@ bradypode
 bradypodidae
 bisacromial
 bradyseism
-bradyseismic
 bradyseismical
 bradysphygmia
 badrans
