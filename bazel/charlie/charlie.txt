@@ -4740,7 +4740,6 @@ composograph
 carpenters
 charlock
 carpenterworm
-carpentry
 carpet
 carpetbag
 carpetbagger
@@ -8333,6 +8332,7 @@ cli
 chakobu
 chondroclasis
 chakram
+carpentry
 chaksi
 chal
 complection
