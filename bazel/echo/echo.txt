@@ -1172,7 +1172,6 @@ environage
 edition
 endere
 editor
-exploitation
 editorialization
 editorialized
 elsa
@@ -9886,6 +9885,7 @@ entomologizing
 esth
 estherian
 eyebolt
+exploitation
 expertising
 ecbatic
 esthesiogen
