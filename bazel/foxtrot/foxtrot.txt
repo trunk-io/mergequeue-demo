@@ -3729,6 +3729,7 @@ feodal
 facebread
 foxfishes
 fillies
+feetless
 firedogs
 foalfoot
 falla
@@ -5335,7 +5336,6 @@ fittier
 fraughting
 flowed
 feriae
-feetless
 fettles
 flatland
 flanken
