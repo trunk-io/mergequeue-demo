@@ -11181,7 +11181,6 @@ ascorbate
 acropolises
 amphigony
 aerobacter
-amphigonic
 amphigory
 amphigories
 async
@@ -16648,6 +16647,7 @@ acuminate
 apenteric
 athirst
 anthropomorphitic
+amphigonic
 affiliate
 apepsinia
 arean

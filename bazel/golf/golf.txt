@@ -6170,7 +6170,6 @@ go
 grammar
 germiparity
 generalizing
-ganevs
 garters
 gadfly
 goa
@@ -10227,6 +10226,7 @@ gimbaljawed
 guarantine
 groundneedle
 graver
+ganevs
 generaliser
 guildhall
 ghosted
