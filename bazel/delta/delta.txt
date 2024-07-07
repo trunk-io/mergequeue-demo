@@ -12548,7 +12548,6 @@ disinfecter
 dungier
 disowning
 disinfecting
-doubly
 denormalized
 disinfection
 disinfections
@@ -13850,6 +13849,7 @@ doable
 distanceless
 distancy
 dissimilar
+doubly
 distancing
 distannic
 domesticize
