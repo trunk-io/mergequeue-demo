@@ -1179,7 +1179,6 @@ dataflow
 datagram
 datagrams
 doormat
-datakit
 directional
 datamation
 demibrassart
@@ -13628,6 +13627,7 @@ dissentiously
 demicritic
 dorcopsis
 dissentive
+datakit
 doggereler
 drawlers
 dosadh
