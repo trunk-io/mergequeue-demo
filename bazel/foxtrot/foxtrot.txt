@@ -3339,6 +3339,7 @@ facewise
 facioscapulohumeral
 forgiver
 flashcube
+furrows
 ferrado
 fossilologist
 ferretto
@@ -11207,7 +11208,6 @@ fieldsman
 furthy
 flailing
 flocculency
-furrows
 frescoists
 fungosities
 funguses
