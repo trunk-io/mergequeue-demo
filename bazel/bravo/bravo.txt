@@ -7009,7 +7009,6 @@ besmircher
 besmirchers
 billethead
 biodynamic
-bibbers
 besmooth
 besmooths
 barricades
@@ -18395,6 +18394,7 @@ brachygrapher
 buzzingly
 buzzle
 beardfish
+bibbers
 bothlike
 bubber
 bespring
