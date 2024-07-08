@@ -4733,7 +4733,6 @@ fulgor
 flabella
 fullage
 foes
-formfeed
 frises
 flachery
 flancard
@@ -5636,6 +5635,7 @@ foster
 facund
 forepassed
 fannier
+formfeed
 fireboot
 fructuose
 flyless
