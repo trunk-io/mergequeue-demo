@@ -17873,7 +17873,6 @@ apposers
 alida
 arras
 apposition
-appositional
 appositionally
 appositive
 amobarbital
@@ -22854,6 +22853,7 @@ atrenne
 atrepsy
 aurally
 agy
+appositional
 alochia
 alose
 atretic
