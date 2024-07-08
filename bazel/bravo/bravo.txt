@@ -745,7 +745,6 @@ badian
 basilysis
 badigeon
 bechatter
-boeotarch
 badinages
 bearcoot
 bulgarian
@@ -9831,6 +9830,7 @@ bathhouses
 bystreet
 bystreets
 bistres
+boeotarch
 brights
 borg
 bewitching
