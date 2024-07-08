@@ -5486,7 +5486,6 @@ fleshhood
 froust
 foraged
 fleshy
-finch
 fillet
 ferally
 fleshing
@@ -10159,6 +10158,7 @@ folksinging
 feued
 frizing
 frizzante
+finch
 fragmentise
 fractionalism
 feminizes
