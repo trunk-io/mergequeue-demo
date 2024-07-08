@@ -3098,7 +3098,6 @@ arthrodia
 amplidyne
 arthropody
 actinostome
-acoine
 aramus
 agtbasic
 airbursts
@@ -6402,6 +6401,7 @@ agrogeological
 agrology
 agrologic
 agrologies
+acoine
 afro
 adsorbate
 aubrite
