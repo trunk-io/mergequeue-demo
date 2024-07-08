@@ -2343,6 +2343,7 @@ abbreviatory
 almuredin
 athetoid
 acieration
+appurtenance
 acies
 acyesis
 altometer
@@ -9638,7 +9639,6 @@ aluminums
 alohas
 alumish
 alumite
-appurtenance
 adagio
 autolith
 anticonvulsant
