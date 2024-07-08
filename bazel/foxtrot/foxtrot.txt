@@ -2122,6 +2122,7 @@ forebodies
 facture
 finetop
 fingertip
+frument
 fellable
 fanned
 falcate
@@ -10671,7 +10672,6 @@ fleuretty
 foulage
 feater
 fringilla
-frument
 frugs
 fecks
 fractionated
