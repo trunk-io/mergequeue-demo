@@ -1176,6 +1176,7 @@ elsa
 eater
 ecphory
 eidology
+enclosed
 editorializers
 enation
 editors
@@ -4761,7 +4762,6 @@ exploratory
 extracardial
 encloister
 experimentalists
-enclosed
 extend
 endosporously
 emeried
