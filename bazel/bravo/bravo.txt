@@ -5628,7 +5628,6 @@ belah
 billingsgate
 belaying
 belam
-belamy
 bettas
 brabblement
 belanda
@@ -17346,6 +17345,7 @@ blotches
 basilosaurus
 bund
 ballam
+belamy
 brontotherium
 boxier
 babes
