@@ -2331,6 +2331,7 @@ goodnesses
 gibbartas
 galopin
 geldings
+gelated
 gorgets
 gymnics
 gimcracks
@@ -7345,7 +7346,6 @@ ghedda
 gothically
 greenfish
 gitoxigenin
-gelated
 gunflints
 gurgoyl
 girns
