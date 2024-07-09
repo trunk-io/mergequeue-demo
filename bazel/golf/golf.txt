@@ -1173,7 +1173,6 @@ gutturalize
 galipine
 gorilla
 guestless
-gapless
 gaplessness
 gizzened
 gomarian
@@ -3162,6 +3161,7 @@ graffiti
 geoscopic
 geosid
 geosphere
+gapless
 guerilla
 growthful
 guardiancy
