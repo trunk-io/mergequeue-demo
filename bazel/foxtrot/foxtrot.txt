@@ -70,6 +70,7 @@ flagships
 fighters
 flecken
 facellite
+felonious
 forementioned
 facemaker
 fordeal
@@ -1571,7 +1572,6 @@ flaminian
 forconceit
 fleuronee
 foochow
-felonious
 freaking
 favelas
 frizzen

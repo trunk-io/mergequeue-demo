@@ -2113,7 +2113,6 @@ decameron
 digraph
 dihydrol
 duograph
-decameters
 decamethonium
 decametric
 decamping
@@ -13342,6 +13341,7 @@ disproofs
 disproperty
 dishevelments
 demonetizes
+decameters
 disproportional
 disparities
 dossety
