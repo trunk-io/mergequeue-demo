@@ -22678,7 +22678,6 @@ connotative
 connotatively
 connote
 connoted
-connotes
 connoting
 connubial
 connubiality
@@ -25161,6 +25160,7 @@ cubas
 craniologically
 calomba
 chatillon
+connotes
 coinstantaneous
 corequisite
 corer

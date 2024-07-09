@@ -1486,7 +1486,6 @@ epicene
 empathic
 etui
 effused
-enthalpy
 espiegle
 elasmobranchii
 exonarthex
@@ -10113,6 +10112,7 @@ etceteras
 ethanediol
 erianthus
 ethanedithiol
+enthalpy
 ephedra
 erythrophyllin
 extrathecal
