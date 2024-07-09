@@ -9340,7 +9340,6 @@ amphibiontic
 acerose
 alphabetic
 alphabetical
-adnumber
 alphabetically
 abbotships
 adenolymphoma
@@ -21832,6 +21831,7 @@ acalycine
 assistless
 assith
 archons
+adnumber
 assyth
 antiemperor
 avenalin
