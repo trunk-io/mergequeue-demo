@@ -5047,6 +5047,7 @@ botanised
 battlers
 blazoned
 bastonet
+bowfin
 botfly
 bloodthirst
 befamilied
@@ -13872,7 +13873,6 @@ bowerwoman
 bookwise
 barleybird
 bowess
-bowfin
 bacterium
 brooch
 bang
