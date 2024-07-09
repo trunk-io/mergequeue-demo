@@ -928,7 +928,6 @@ bustier
 bagwork
 baker
 brumby
-behear
 bah
 bahadur
 beverage
@@ -8727,6 +8726,7 @@ bluefish
 brochette
 balcone
 bubalis
+behear
 billtong
 basins
 bilobe
