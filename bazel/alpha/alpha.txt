@@ -2363,7 +2363,6 @@ assigning
 adytta
 acilius
 acylogen
-aditio
 acyloin
 acyloins
 acyloxy
@@ -12838,6 +12837,7 @@ apolysin
 anglicization
 apneumatosis
 allineate
+aditio
 anglicized
 anglify
 alkalometry
