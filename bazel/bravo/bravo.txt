@@ -5386,7 +5386,6 @@ bandusian
 begrimer
 branchi
 begrimes
-bombsight
 begriming
 begrimmed
 brickly
@@ -15726,6 +15725,7 @@ brocht
 brochure
 babblishly
 brock
+bombsight
 bryonies
 brocoli
 bicycled
