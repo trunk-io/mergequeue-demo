@@ -16446,6 +16446,7 @@ brushpopper
 brushup
 brushwood
 brushwork
+burdock
 belfries
 batten
 beecher
@@ -17546,7 +17547,6 @@ boltonia
 bothering
 burlesque
 burdigalian
-burdock
 basipoditic
 beethovian
 blowpoint
