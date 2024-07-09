@@ -1230,7 +1230,6 @@ calendar
 chlored
 cambrel
 calendared
-calendarer
 cameo
 calendarial
 chusite
@@ -28922,6 +28921,7 @@ complanar
 cyclospondylic
 crewing
 cutwal
+calendarer
 crewless
 crewman
 crewmanship
