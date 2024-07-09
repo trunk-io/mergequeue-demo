@@ -305,6 +305,7 @@ dollfaced
 daybill
 dayblush
 downcomer
+disinteress
 daybooks
 daybreak
 desand
@@ -9771,7 +9772,6 @@ depositee
 dilatatory
 dehydromucic
 drumread
-disinteress
 detin
 dilatedly
 demythologized
