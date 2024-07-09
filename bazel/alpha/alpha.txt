@@ -1245,7 +1245,6 @@ acanthuridae
 argyric
 acanthuthi
 acronymically
-acapnia
 ascetical
 acapnias
 acapu
@@ -18143,6 +18142,7 @@ angdistis
 aquanauts
 abdicated
 agerasia
+acapnia
 ableptically
 autoscience
 allegator
