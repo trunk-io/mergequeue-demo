@@ -2982,7 +2982,6 @@ elisor
 elissa
 eyereach
 edestan
-elite
 eternised
 elitism
 experimentator
@@ -9306,6 +9305,7 @@ elayl
 erratas
 erratic
 erratically
+elite
 eulogist
 endosmos
 experimentee
