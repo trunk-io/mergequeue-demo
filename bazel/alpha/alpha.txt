@@ -2960,7 +2960,6 @@ atropism
 actinide
 archenteron
 actinidia
-actiniferous
 axtree
 aulostomi
 actiniomorpha
@@ -4316,6 +4315,7 @@ atabrine
 amortizing
 anterevolutionary
 acarida
+actiniferous
 adscititious
 accusive
 adscriptitious

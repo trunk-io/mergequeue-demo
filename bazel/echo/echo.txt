@@ -2871,7 +2871,6 @@ enthrall
 elephantine
 erzahler
 epitases
-elevens
 elevenses
 eleventeenth
 eleventh
@@ -3488,6 +3487,7 @@ eringoes
 embodiers
 embodies
 equidiagonal
+elevens
 emancipation
 essential
 emboitement
