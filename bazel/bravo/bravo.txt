@@ -2321,6 +2321,7 @@ barbicels
 buoyance
 barbierite
 busyish
+bromite
 briber
 burhinus
 barbita
@@ -6541,7 +6542,6 @@ blooping
 braconidae
 biokinetics
 boson
-bromite
 bartramiaceae
 bequeaths
 buckeyes
