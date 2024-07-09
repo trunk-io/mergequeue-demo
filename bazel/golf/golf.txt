@@ -3330,7 +3330,6 @@ goog
 giddyhead
 giftie
 germin
-goliards
 gasteropod
 gobemouche
 galactoscope
@@ -5899,6 +5898,7 @@ glucokinase
 gastrophrenic
 gravimetric
 ginnings
+goliards
 glucolipid
 glucolipin
 glaizie
