@@ -7548,6 +7548,7 @@ generalizer
 gps
 grille
 gorrel
+grenatite
 glycosaemia
 gallicola
 gunfought
@@ -8690,7 +8691,6 @@ garrets
 governess
 goustrous
 galeus
-grenatite
 gobbin
 gudgeons
 grabbled
