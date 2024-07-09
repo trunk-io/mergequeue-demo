@@ -8236,6 +8236,7 @@ bronchial
 biens
 bientt
 benefice
+bathroom
 bienvenue
 bayaderes
 bier
@@ -9387,7 +9388,6 @@ birched
 birchen
 birchers
 bewater
-bathroom
 backarrow
 birchwood
 bindweb
