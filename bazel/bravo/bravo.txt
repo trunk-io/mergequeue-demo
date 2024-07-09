@@ -1172,7 +1172,6 @@ brew
 buoys
 brawliest
 breth
-bonus
 burion
 beanfest
 bellis
@@ -2920,6 +2919,7 @@ barretor
 bloodybones
 billowed
 breadberry
+bonus
 battalias
 bennettitaceous
 burrs
