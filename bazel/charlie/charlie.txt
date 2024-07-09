@@ -945,7 +945,6 @@ cholick
 charpais
 calaite
 calamancoes
-cnidaria
 calamander
 calamansi
 calamar
@@ -24325,6 +24324,7 @@ corrades
 cameloid
 cormus
 counterexample
+cnidaria
 cooees
 cooey
 complements
