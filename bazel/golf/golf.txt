@@ -723,7 +723,6 @@ gunner
 giantlikeness
 galvanocauteries
 gollywog
-guesstimate
 galvanoglyph
 gerbillinae
 gummiest
@@ -6375,6 +6374,7 @@ gugal
 ghostlet
 greenwort
 gastrular
+guesstimate
 glossophaga
 gobstick
 glomerulitis
