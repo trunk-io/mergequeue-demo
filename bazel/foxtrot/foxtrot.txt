@@ -5282,6 +5282,7 @@ fogbound
 flax
 flaxboard
 fraternization
+fluoridize
 fourteenfold
 fretters
 french
@@ -6409,7 +6410,6 @@ flyboat
 formants
 fitchet
 fluoridization
-fluoridize
 flaking
 furilic
 fairm
