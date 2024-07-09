@@ -5452,7 +5452,6 @@ beheader
 benignness
 bawd
 beheira
-bolter
 beachward
 boardmanship
 behemoth
@@ -6058,6 +6057,7 @@ bootleger
 bellow
 bemoan
 bopyrid
+bolter
 bookie
 bemoaned
 baccarats
