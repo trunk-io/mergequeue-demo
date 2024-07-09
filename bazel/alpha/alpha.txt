@@ -6225,7 +6225,6 @@ atellan
 activable
 audile
 alchemise
-agoniatite
 aegerian
 arteriorrhagia
 agonic
@@ -18823,6 +18822,7 @@ archeries
 averah
 acoustically
 allomerization
+agoniatite
 archers
 acetonurometer
 arches
