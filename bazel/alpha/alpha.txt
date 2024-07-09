@@ -4212,6 +4212,7 @@ afterbody
 adorned
 apartado
 adorners
+arachnidial
 algaesthesis
 adornment
 armamentaria
@@ -22195,7 +22196,6 @@ addressees
 acoemetic
 astragalotibial
 astragalus
-arachnidial
 astrain
 antimissile
 astrally
