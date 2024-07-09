@@ -1875,7 +1875,6 @@ fencepost
 fecifork
 flota
 feckful
-feckless
 flattops
 fecundate
 fianchetti
@@ -3910,6 +3909,7 @@ flashlamps
 finaglers
 fordable
 finalization
+feckless
 finalized
 fionnuala
 foregrounds
