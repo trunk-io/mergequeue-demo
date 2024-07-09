@@ -307,7 +307,6 @@ forgettable
 fraternation
 fatiguability
 fishboat
-forwarders
 fag
 feint
 fostell
@@ -334,6 +333,7 @@ facultative
 failure
 foresound
 frogleg
+forwarders
 formulariser
 formagenic
 fertilisability
