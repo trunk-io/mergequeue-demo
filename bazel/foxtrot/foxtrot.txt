@@ -5462,7 +5462,6 @@ flensed
 flenser
 frillers
 flensers
-flenses
 footmaker
 flexuosity
 fidelities
@@ -7817,6 +7816,7 @@ filler
 foreshots
 furfuraldehyde
 facings
+flenses
 forepretended
 firestorm
 fibrobronchitis
