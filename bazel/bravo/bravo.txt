@@ -2252,7 +2252,6 @@ bandman
 butted
 bactris
 barbasco
-bortsch
 bummil
 bindoree
 barbascoes
@@ -18368,6 +18367,7 @@ buxus
 buz
 buzane
 blawort
+bortsch
 bepaint
 bespatter
 benedictionale
