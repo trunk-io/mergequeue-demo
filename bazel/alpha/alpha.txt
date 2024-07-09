@@ -8810,6 +8810,7 @@ aristocrat
 alliterate
 acescence
 alliterates
+await
 alliteration
 alliterational
 actious
@@ -18153,7 +18154,6 @@ aquaplane
 accustomed
 aquaplaner
 allegoricalness
-await
 acknowledging
 allodiary
 astigmatically
