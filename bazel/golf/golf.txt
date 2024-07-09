@@ -485,7 +485,6 @@ goonie
 geographic
 gowiddie
 gildhalls
-graphites
 golem
 gruffing
 globing
@@ -5805,6 +5804,7 @@ galactolysis
 geologised
 germanies
 gemmiparous
+graphites
 glottalize
 glycogenolysis
 gooseries
