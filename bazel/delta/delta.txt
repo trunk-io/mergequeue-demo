@@ -13577,7 +13577,6 @@ datelines
 disseise
 diving
 disseised
-discina
 disassociated
 disseisee
 douzaine
@@ -13920,6 +13919,7 @@ distichlis
 dephased
 dimerous
 distichous
+discina
 distil
 derisive
 distyle
