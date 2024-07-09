@@ -6136,7 +6136,6 @@ entertainers
 entrancing
 extrasomatic
 enneahedral
-enneahedron
 eyepoints
 eustatic
 enneandrian
@@ -9794,6 +9793,7 @@ everyplace
 eddo
 emerick
 euphemious
+enneahedron
 ectogenesis
 enrobing
 epicerastic
