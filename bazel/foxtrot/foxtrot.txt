@@ -4133,7 +4133,6 @@ flutemouth
 frenchiness
 ferrosilicon
 firearm
-fightwite
 freshment
 fireback
 fumeuses
@@ -6654,6 +6653,7 @@ footpath
 fillip
 foehn
 foehnlike
+fightwite
 foeish
 fpsps
 foeless
