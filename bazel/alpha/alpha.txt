@@ -9605,7 +9605,6 @@ apometabolous
 alumic
 alumiferous
 aminoaciduria
-alumina
 aeroballistics
 arachnoid
 apodous
@@ -19261,6 +19260,7 @@ arduousness
 ardurous
 area
 amphipneust
+alumina
 aureateness
 areach
 attractions
