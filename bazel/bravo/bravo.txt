@@ -706,7 +706,6 @@ bade
 badenite
 bogyland
 browbeaten
-badge
 badgeless
 burdened
 binful
@@ -12936,6 +12935,7 @@ bedlamise
 backtrail
 boothage
 boothale
+badge
 bedspread
 boother
 bitterblain
