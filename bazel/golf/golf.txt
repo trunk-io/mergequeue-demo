@@ -7876,7 +7876,6 @@ gametangium
 globelike
 gounau
 gourdworm
-growthiness
 garbless
 granny
 glycopexia
@@ -9214,6 +9213,7 @@ grist
 grumbles
 grummel
 grister
+growthiness
 gamey
 gauge
 gyroceran
