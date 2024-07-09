@@ -8771,6 +8771,7 @@ alliage
 alliance
 accoast
 anschluss
+appet
 alliancing
 alliant
 allicampane
@@ -17700,7 +17701,6 @@ appestat
 apostlehood
 appestats
 attemper
-appet
 appetence
 appetent
 anodynous
