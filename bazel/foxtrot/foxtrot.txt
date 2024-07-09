@@ -1861,7 +1861,6 @@ fastballs
 fusils
 fec
 fight
-fecaloid
 fruittime
 fluctisonous
 fantoddish
@@ -9330,6 +9329,7 @@ franion
 frankability
 fortypenny
 fruity
+fecaloid
 fatuitousness
 frankalmoign
 filibustrous
