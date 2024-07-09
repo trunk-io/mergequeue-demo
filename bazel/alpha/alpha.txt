@@ -14326,7 +14326,6 @@ anthology
 anthological
 anthologically
 anthologies
-animates
 autobiographies
 asphyxiates
 alberto
@@ -24835,6 +24834,7 @@ avouchable
 anaptyxis
 asaprol
 anhinga
+animates
 artisanal
 arythmias
 arraignments
