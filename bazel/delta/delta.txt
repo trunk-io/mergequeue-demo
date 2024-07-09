@@ -5800,6 +5800,7 @@ depolarizers
 droves
 diacrisis
 debater
+disjoint
 depolymerization
 decasualizing
 depolymerize
@@ -11088,7 +11089,6 @@ disappearance
 disbowelling
 decrepitly
 dullsville
-disjoint
 decarbonylate
 disappearer
 diamagnetically
