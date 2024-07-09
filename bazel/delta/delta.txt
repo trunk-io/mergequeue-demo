@@ -2987,7 +2987,6 @@ describers
 deductio
 deductions
 deductive
-deductively
 desmognathae
 deductory
 deducts
@@ -12363,6 +12362,7 @@ dinomic
 decker
 disengagedness
 dishabituate
+deductively
 dishabituated
 dishable
 disharmony
