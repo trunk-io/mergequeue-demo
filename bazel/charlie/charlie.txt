@@ -11502,7 +11502,6 @@ colpostat
 chlorous
 chlorozincate
 chlorpheniramine
-chlorphenol
 carib
 caffa
 chlorpicrin
@@ -15372,6 +15371,7 @@ crucigerous
 clayware
 claywares
 clayweed
+chlorphenol
 crassina
 clam
 clamant
