@@ -2899,7 +2899,6 @@ clothesmonger
 chalcis
 cantabrian
 cantabrigian
-cantala
 cantalever
 cantaliver
 cackled
@@ -15311,6 +15310,7 @@ credited
 clagged
 claggy
 claggum
+cantala
 commandries
 clags
 candiel
