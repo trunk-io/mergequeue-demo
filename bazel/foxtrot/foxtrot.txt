@@ -3843,7 +3843,6 @@ forebridge
 frogland
 filtermen
 forcefully
-fathercraft
 foreiron
 forenoted
 forbare
@@ -4737,6 +4736,7 @@ fullage
 foes
 frises
 flachery
+fathercraft
 flancard
 fictionised
 factice
