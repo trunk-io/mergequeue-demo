@@ -1106,7 +1106,6 @@ calciobiotite
 calcioferrite
 calcioscheelite
 calciovolborthite
-calcipexy
 clarity
 calciphylactic
 calciphylaxis
@@ -7363,6 +7362,7 @@ calciocarnotite
 centupling
 centure
 countertenor
+calcipexy
 carbonados
 century
 centurial
