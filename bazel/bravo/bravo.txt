@@ -1014,7 +1014,6 @@ bitangent
 blain
 baigneuses
 beshrewed
-baignoire
 boraces
 barmecidal
 balcony
@@ -14675,6 +14674,7 @@ beelike
 brassish
 brasslike
 brassware
+baignoire
 bagio
 blessedly
 brast
