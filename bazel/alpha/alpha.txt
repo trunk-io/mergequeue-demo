@@ -4628,7 +4628,6 @@ agitates
 aecidial
 achromia
 aecidioform
-aecidiomycetes
 aecidiospore
 aecidiostage
 aglare
@@ -14255,6 +14254,7 @@ anthemion
 anthemis
 anthems
 anther
+aecidiomycetes
 antheraea
 antheridia
 antherogenous
