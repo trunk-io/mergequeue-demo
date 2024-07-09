@@ -857,7 +857,6 @@ beamsmen
 buoyant
 baggie
 baggier
-bagging
 baggings
 businesslike
 boh
@@ -2345,6 +2344,7 @@ braggart
 barboy
 barbola
 bubbletops
+bagging
 barbotine
 bones
 bastinade
