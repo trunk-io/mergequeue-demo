@@ -6394,7 +6394,6 @@ dermophobe
 duodenum
 dermopterous
 dermosclerite
-dermoskeleton
 dermotropic
 dastardliness
 derms
@@ -16272,6 +16271,7 @@ duchery
 denude
 downgrade
 ductilimeter
+dermoskeleton
 diaheliotropism
 devest
 dramalogue
