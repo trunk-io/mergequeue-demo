@@ -8452,7 +8452,6 @@ gurgle
 grimes
 gravely
 groupers
-getid
 gayal
 galleon
 guaranteed
@@ -10275,6 +10274,7 @@ galatians
 greyback
 gumbos
 gab
+getid
 grunerite
 glyptological
 gempylid
