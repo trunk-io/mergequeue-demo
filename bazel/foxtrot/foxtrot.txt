@@ -292,6 +292,7 @@ fragmentisation
 froren
 fraenums
 foreboder
+forebar
 fumade
 flambeed
 frappeing
@@ -10399,7 +10400,6 @@ faunus
 flatmen
 fallowing
 frontoauricular
-forebar
 frontolysis
 frontomallar
 frontomental
