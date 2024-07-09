@@ -7981,7 +7981,6 @@ ensilation
 expounds
 epimanikion
 epimeres
-eremurus
 epimeric
 epimeride
 electrostenolysis
@@ -13577,6 +13576,7 @@ effossion
 extemporizes
 electrotheraputics
 elinvar
+eremurus
 extended
 emamelware
 epitaph
