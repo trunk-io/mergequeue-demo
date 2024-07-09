@@ -5292,7 +5292,6 @@ afflated
 ataxia
 afflatus
 absent
-afflatuses
 avenue
 afflicted
 afflicter
@@ -14205,6 +14204,7 @@ anencephalous
 anteropygal
 alchochoden
 ancipitous
+afflatuses
 asepticize
 acephal
 anterosuperior
