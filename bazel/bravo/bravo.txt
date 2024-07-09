@@ -545,6 +545,7 @@ backward
 backwardation
 baufrey
 butyl
+blit
 backwardness
 bootboy
 batfowler
@@ -3135,7 +3136,6 @@ besetter
 basest
 biddie
 bayete
-blit
 betulites
 bashers
 bashibazouk
