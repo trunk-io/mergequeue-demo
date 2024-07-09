@@ -9248,7 +9248,6 @@ charta
 chartable
 charter
 chartered
-compensations
 charterer
 charterers
 charterhouse
@@ -16628,6 +16627,7 @@ cloyless
 cloyment
 coronale
 caffiso
+compensations
 cloys
 cloysome
 chondrolipoma
