@@ -9995,7 +9995,6 @@ ambiguities
 ambiguous
 anorthitite
 ambilateralaterally
-autoecholalia
 antipatharia
 ambiopia
 ambisexuality
@@ -18599,6 +18598,7 @@ arca
 anthropomorphite
 abrogates
 alarmisms
+autoecholalia
 amboyna
 arcacea
 aspergation
