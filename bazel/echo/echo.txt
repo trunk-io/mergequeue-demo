@@ -2037,7 +2037,6 @@ elaic
 elaidate
 elain
 elaioleucite
-entirety
 enteroplegia
 elaioplast
 elamite
@@ -11321,6 +11320,7 @@ epoche
 euvrou
 evaporators
 enrank
+entirety
 eagles
 evaporimeter
 evaporitic
