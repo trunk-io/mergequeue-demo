@@ -6431,7 +6431,6 @@ benzonaphthol
 benzonitrile
 benzonitrol
 behedge
-bitulithic
 benzophenothiazine
 benzophloroglucinol
 benedight
@@ -9466,6 +9465,7 @@ batteler
 bireme
 begeck
 bacteriostat
+bitulithic
 babishly
 bookholder
 birettas
