@@ -4057,7 +4057,6 @@ beamman
 bskt
 beamroom
 baragnosis
-braize
 beams
 beamwork
 birken
@@ -9688,6 +9687,7 @@ bisyllabic
 benefactions
 burao
 bisyllabism
+braize
 bulleting
 bisimine
 biggening
