@@ -2684,7 +2684,6 @@ gips
 granularity
 geek
 genip
-gobbledegook
 genyplasty
 glaistig
 gastroduodenostomies
@@ -5697,6 +5696,7 @@ gamine
 governor
 gies
 glorying
+gobbledegook
 gloryingly
 gloriole
 gyroscopics
