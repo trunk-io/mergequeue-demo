@@ -7974,6 +7974,7 @@ castaway
 cessionee
 cessor
 cesspipe
+churchly
 cesspit
 cesspits
 clamors
@@ -12958,7 +12959,6 @@ churchlet
 cirrhopod
 curemaster
 ceratitidae
-churchly
 cosmogonic
 churchman
 cookers
