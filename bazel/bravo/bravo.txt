@@ -3502,6 +3502,7 @@ batete
 brabbling
 balotade
 blue
+besmottered
 byroads
 bushbashing
 batfishes
@@ -7007,7 +7008,6 @@ besmooth
 besmooths
 barricades
 basilian
-besmottered
 besmouch
 bacteritic
 besmudge
