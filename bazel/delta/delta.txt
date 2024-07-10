@@ -1030,7 +1030,6 @@ darlingness
 disjuncts
 darn
 darndest
-dishlike
 darnels
 domestics
 dishes
@@ -3469,6 +3468,7 @@ dryer
 doltishness
 dichlorohydrin
 despotisms
+dishlike
 duodecimally
 dashboards
 disavowance
