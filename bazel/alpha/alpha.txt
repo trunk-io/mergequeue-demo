@@ -14371,7 +14371,6 @@ anthracometric
 abecedarium
 anthraconite
 anthracosaurus
-anthracosilicosis
 anthracosis
 anthracothere
 anthracotheriidae
@@ -22055,6 +22054,7 @@ ancestries
 antistat
 aeropause
 armpit
+anthracosilicosis
 asthamatic
 astheny
 achroacyte
