@@ -2602,7 +2602,6 @@ electrophrenic
 electropyrometer
 electrophoric
 electroplater
-electropolish
 electropower
 electropsychrometer
 embodying
@@ -7778,6 +7777,7 @@ epidermically
 enteroplasty
 epidermization
 epidermolysis
+electropolish
 ean
 exophthalmic
 emergents
