@@ -1795,7 +1795,6 @@ feathertop
 frogmen
 flashlamp
 flutina
-fulyie
 flaunts
 flakeboard
 foredoes
@@ -11573,6 +11572,7 @@ flytier
 fulgurator
 furanoses
 fusileer
+fulyie
 foretack
 forpass
 foldout
