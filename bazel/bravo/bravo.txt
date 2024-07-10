@@ -16823,7 +16823,6 @@ bacterioid
 buffable
 buffalo
 buffaloback
-blasty
 buffalofish
 buffaloing
 buffalos
@@ -17529,6 +17528,7 @@ bathukolpic
 burian
 biograph
 burdenless
+blasty
 burdenous
 bleep
 blabs
