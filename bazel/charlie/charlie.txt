@@ -2023,6 +2023,7 @@ commandants
 camorras
 camorrism
 camorrist
+cropper
 capitalizer
 cypresses
 camorrista
@@ -29788,7 +29789,6 @@ croplands
 cropless
 conjugately
 cropman
-cropper
 contraindication
 comorado
 colleagued
