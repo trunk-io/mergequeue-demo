@@ -996,6 +996,7 @@ baidarka
 baidarkas
 baidya
 baiera
+bioavailability
 bayesian
 butadiene
 baiginet
@@ -8923,7 +8924,6 @@ bioactivities
 bioassaying
 bioastronautical
 bioastronautics
-bioavailability
 biobibliographer
 barleysick
 bioblastic
