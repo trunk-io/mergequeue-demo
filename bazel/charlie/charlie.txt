@@ -14457,7 +14457,6 @@ circumsail
 connectivity
 circumscribable
 circumscribed
-circumscript
 collapsed
 circumscriptions
 circumsession
@@ -25719,6 +25718,7 @@ correctioner
 conformities
 corrections
 corrective
+circumscript
 correctively
 correctiveness
 convincers
