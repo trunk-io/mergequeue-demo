@@ -6668,7 +6668,6 @@ cankerflower
 cecity
 cystoureteritis
 cecitis
-cecograph
 cecomorphae
 cecomorphic
 cecopexy
@@ -18516,6 +18515,7 @@ cohabitancy
 cohabitant
 cohabitate
 cohabitation
+cecograph
 cohabited
 collational
 cohabiting
