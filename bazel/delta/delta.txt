@@ -9296,6 +9296,7 @@ dyester
 diesters
 diestock
 death
+dustcoat
 diestrous
 drawbridge
 diestrums
@@ -11874,7 +11875,6 @@ discusses
 discussion
 drumfires
 dromomania
-dustcoat
 dunked
 denying
 diadems
