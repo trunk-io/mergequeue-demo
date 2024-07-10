@@ -2864,6 +2864,7 @@ bilocation
 baccalaureat
 batching
 broadcasts
+broadthroat
 barranca
 brodyaga
 berakes
@@ -3595,7 +3596,6 @@ brach
 balneophysiology
 bulldogger
 bibliognost
-broadthroat
 bathrooms
 bazigar
 babas
