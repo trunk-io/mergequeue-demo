@@ -1810,7 +1810,6 @@ bakunda
 bialystoker
 bandaged
 bandager
-bandages
 bandaging
 bandaid
 bandala
@@ -18216,6 +18215,7 @@ beshadowing
 beyond
 butterfat
 bicolour
+bandages
 blackwort
 bourran
 bottlelike
