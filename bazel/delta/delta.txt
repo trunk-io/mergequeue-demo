@@ -4537,7 +4537,6 @@ demagnetised
 dulnesses
 demicylinder
 deception
-dpt
 demicircular
 divulsor
 drowningly
@@ -4820,6 +4819,7 @@ dejected
 degreasing
 darwin
 dangs
+dpt
 dilated
 demodulates
 detours
