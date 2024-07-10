@@ -5371,7 +5371,6 @@ buyable
 benchboard
 begray
 barodynamic
-boodie
 barbarisation
 burly
 begrave
@@ -16738,6 +16737,7 @@ bucktoothed
 bucku
 babehood
 buckwagon
+boodie
 buckwash
 buckwheatlike
 balaic
