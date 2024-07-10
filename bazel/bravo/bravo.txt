@@ -1295,6 +1295,7 @@ bacao
 bury
 bedbug
 bedust
+boleite
 bacterioprecipitin
 bishophood
 bate
@@ -17125,7 +17126,6 @@ bulletless
 basecoat
 bulletlike
 burghmote
-boleite
 braconniere
 breadseller
 bulletmaking
