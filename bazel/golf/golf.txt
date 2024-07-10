@@ -1247,6 +1247,7 @@ griffes
 gapping
 grex
 galvaniser
+gapper
 guib
 granage
 gesticulator
@@ -8742,7 +8743,6 @@ greensickness
 glummer
 greenstone
 gimballing
-gapper
 gauntree
 greenswarded
 grimacingly
