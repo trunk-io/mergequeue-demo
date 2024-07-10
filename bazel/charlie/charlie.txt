@@ -16048,6 +16048,7 @@ clerestories
 clergess
 clergy
 clergyable
+cotoneaster
 clergylike
 cyclos
 clergymen
@@ -20475,7 +20476,6 @@ corncracker
 companying
 counterstatute
 controlling
-cotoneaster
 cheques
 convergescence
 clusterberry
