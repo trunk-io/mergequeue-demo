@@ -3158,7 +3158,6 @@ else
 elsehow
 electioneers
 elseways
-elsewhere
 elsewheres
 extuberance
 erraticalness
@@ -6911,6 +6910,7 @@ egalite
 epic
 electrochemical
 entomophthoraceae
+elsewhere
 entomophthoraceous
 encephala
 eschalot

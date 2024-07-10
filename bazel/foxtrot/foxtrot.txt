@@ -6647,7 +6647,6 @@ flintily
 formaldehydesulphoxylate
 footpath
 fillip
-foehn
 foehnlike
 fightwite
 foeish
@@ -10931,6 +10930,7 @@ flighthead
 flavone
 factorizing
 franklandite
+foehn
 fulminatory
 fetal
 floorage
