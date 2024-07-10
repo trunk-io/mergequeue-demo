@@ -5876,7 +5876,6 @@ fastigia
 fuseau
 fdtype
 flocced
-flocci
 flagellate
 frustulose
 footsoldier
@@ -9338,6 +9337,7 @@ frankest
 flucan
 fireguard
 foreschool
+flocci
 folcgemot
 falsidical
 funambulating
