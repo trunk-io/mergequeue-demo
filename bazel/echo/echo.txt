@@ -2457,7 +2457,6 @@ empanelment
 electrohemostasis
 epicleses
 endexines
-electromyographically
 exairesis
 electroimpulse
 electroing
@@ -5733,6 +5732,7 @@ expose
 embossments
 esophagomalacia
 emaciation
+electromyographically
 endozoic
 endues
 ensalada
