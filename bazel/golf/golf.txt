@@ -4685,7 +4685,6 @@ gestes
 gyrous
 gledy
 gyrovagues
-gorgon
 glossoplasty
 gloy
 glyph
@@ -9594,6 +9593,7 @@ gulist
 gerbe
 grandiose
 gowds
+gorgon
 gildhall
 grasshopper
 gedanite
