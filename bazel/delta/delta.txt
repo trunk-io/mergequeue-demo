@@ -3384,6 +3384,7 @@ diddlers
 deflagrable
 decolor
 deflagrating
+disrestore
 dithionate
 deflagration
 deflagrator
@@ -13487,7 +13488,6 @@ disrespective
 decantherous
 dishabited
 disrest
-disrestore
 disring
 disillusionment
 disrobement
