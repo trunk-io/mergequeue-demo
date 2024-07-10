@@ -8898,7 +8898,6 @@ balsamiferous
 braeface
 bombyxes
 binomenclature
-binomy
 bilimbi
 bayberries
 barrelhead
@@ -14559,6 +14558,7 @@ brandisite
 backwrap
 boyar
 brandling
+binomy
 brandon
 brandrith
 belue
