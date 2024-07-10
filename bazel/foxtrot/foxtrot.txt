@@ -1465,7 +1465,6 @@ fatties
 fortravail
 funis
 fattishness
-fattrels
 fother
 faithless
 foreweep
@@ -9361,6 +9360,7 @@ fummle
 fair
 fastenings
 fowk
+fattrels
 frails
 flimp
 franklinic
