@@ -6878,7 +6878,6 @@ algarad
 acieral
 airplot
 airport
-airports
 ady
 airposts
 asst
@@ -21028,6 +21027,7 @@ ascocarp
 ascocarpous
 ascocarps
 abiologically
+airports
 anteposthumous
 acalypha
 ascogone
