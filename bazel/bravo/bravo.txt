@@ -12853,7 +12853,6 @@ betalk
 bibless
 boomkin
 boomkins
-birthdays
 barquest
 bootes
 baseboard
@@ -15768,6 +15767,7 @@ broiler
 bastide
 blare
 beshame
+birthdays
 baldness
 broiling
 brachydodrome
