@@ -14749,7 +14749,6 @@ cystorrhaphy
 cystoid
 cystoidea
 cystoidean
-cystoids
 cormophytic
 cryptogenous
 cystolith
@@ -30915,6 +30914,7 @@ clientship
 culturine
 chainette
 culturing
+cystoids
 crotched
 culturize
 culturological
