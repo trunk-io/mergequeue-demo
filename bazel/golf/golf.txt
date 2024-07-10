@@ -1815,7 +1815,6 @@ grainless
 guinean
 gullah
 gingiva
-gelsemin
 gatekeeper
 goliard
 grizel
@@ -6598,6 +6597,7 @@ goulan
 ghostwrite
 gingivolabial
 gastrulation
+gelsemin
 gale
 gawkiest
 gluconeogenetic

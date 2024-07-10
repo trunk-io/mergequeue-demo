@@ -4104,7 +4104,6 @@ frostation
 featherbrain
 fattable
 fanterie
-finns
 fatalness
 fernier
 fussier
@@ -7773,6 +7772,7 @@ fluorocarbons
 foreordinate
 fascia
 furcular
+finns
 forepaled
 filiform
 furiousity
