@@ -2878,7 +2878,6 @@ genuflects
 galactopyra
 grid
 geol
-genethlialogic
 gillnet
 ganglionic
 gustavus
@@ -6300,6 +6299,7 @@ guiser
 gallify
 gasogenes
 gobiid
+genethlialogic
 gossypium
 gobylike
 gobinism
