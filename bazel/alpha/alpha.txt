@@ -1201,6 +1201,7 @@ auscultator
 acanthion
 acanthocephali
 amoebidae
+antisun
 amour
 acanthocephalous
 acanthocereus
@@ -13429,7 +13430,6 @@ annats
 annattos
 anthroposcopy
 anne
-antisun
 alod
 anormal
 anneal
