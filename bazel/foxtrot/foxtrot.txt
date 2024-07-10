@@ -5020,7 +5020,6 @@ folksier
 faith
 fissive
 flaneur
-flanking
 foremartyr
 foreclose
 fluctuable
@@ -11742,6 +11741,7 @@ frights
 foliiform
 flneur
 fremdly
+flanking
 fissuration
 factorage
 fumados
