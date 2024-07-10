@@ -2516,7 +2516,6 @@ dove
 deactivating
 declivitously
 declarant
-declaration
 declarations
 declarative
 dearomatize
@@ -10050,6 +10049,7 @@ dubieties
 descaling
 defecant
 dynam
+declaration
 dissightly
 dynamically
 devisals
