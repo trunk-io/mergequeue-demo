@@ -563,7 +563,6 @@ graptolitic
 gladding
 gauderies
 gallicizer
-grissel
 galliform
 gomphrena
 galliformes
@@ -9088,6 +9087,7 @@ grindable
 gibbose
 granites
 grinderman
+grissel
 gadite
 gelseminic
 gummers
