@@ -14238,7 +14238,6 @@ catskin
 cardcastle
 conservancies
 corticoid
-circleting
 cyclographer
 circlets
 cochleas
@@ -20866,6 +20865,7 @@ compony
 comportable
 comportance
 comported
+circleting
 carded
 comporting
 circumflexes
