@@ -547,7 +547,6 @@ expy
 enzymologist
 eclipsises
 entosthoblast
-echinocereus
 echinococcosis
 epedaphic
 echinoderidae
@@ -4993,6 +4992,7 @@ enfief
 epiphytal
 eumitotic
 endhand
+echinocereus
 emboweled
 epichindrotic
 endia
