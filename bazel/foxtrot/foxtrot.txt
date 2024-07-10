@@ -4500,6 +4500,7 @@ felafel
 focaloid
 forblack
 fissionable
+farmlands
 fissioned
 furzes
 feer
@@ -10010,7 +10011,6 @@ frijolillo
 fainness
 frike
 footpaths
-farmlands
 foreshroud
 framableness
 fenceless
