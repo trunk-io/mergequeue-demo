@@ -5320,7 +5320,6 @@ disscepter
 drammer
 density
 degasifier
-densitometer
 denouncers
 detestable
 detinue
@@ -16210,6 +16209,7 @@ disinherit
 dactylioglyph
 dowf
 dowsets
+densitometer
 disworship
 dowitchers
 determinedness
