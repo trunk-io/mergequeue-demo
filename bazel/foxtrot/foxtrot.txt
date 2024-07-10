@@ -5856,7 +5856,6 @@ fulcrums
 flidge
 fitz
 firmans
-floatman
 flypapers
 floatsmen
 farthingale
@@ -9484,6 +9483,7 @@ formaliter
 fraunch
 fissiparousness
 flatbottom
+floatman
 florets
 fathering
 featherlight
