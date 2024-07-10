@@ -2794,6 +2794,7 @@ guzzledom
 gyges
 glaceed
 griper
+guemul
 guzmania
 gismos
 gyrovagi
@@ -10037,7 +10038,6 @@ giver
 gammation
 gargoyles
 greasing
-guemul
 glimpse
 granitoidal
 greenback
