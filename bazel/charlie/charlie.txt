@@ -16498,6 +16498,7 @@ clk
 clo
 cloaca
 cloacae
+cryptanalyzed
 cloacal
 cloacaline
 connellite
@@ -29240,7 +29241,6 @@ cryptanalytics
 cryptanalyze
 cothamore
 capybara
-cryptanalyzed
 cryptanalyzing
 cryptarch
 cryptarchy
