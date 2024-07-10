@@ -7876,7 +7876,6 @@ foreseeable
 finewed
 flexor
 futchel
-foreassign
 flowmanostat
 footeite
 ferd
@@ -11378,6 +11377,7 @@ furloughs
 furls
 fuchsin
 furmenty
+foreassign
 frousier
 furmeties
 flayed
