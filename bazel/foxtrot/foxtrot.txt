@@ -6516,6 +6516,7 @@ forspread
 fluther
 foldskirt
 frogger
+furies
 facticide
 frenetic
 floodboard
@@ -11343,7 +11344,6 @@ formals
 fuseplug
 furial
 frailejon
-furies
 foalhood
 fashioners
 furied
