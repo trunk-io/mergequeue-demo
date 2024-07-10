@@ -8461,6 +8461,7 @@ disciplines
 deliveror
 dialog
 downsize
+ditties
 dialogers
 dialogged
 deconcentrator
@@ -18623,7 +18624,6 @@ dispirem
 dummyism
 dichotriaene
 deluded
-ditties
 dutymonger
 deactivations
 deodorizer
