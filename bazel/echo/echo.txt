@@ -2060,6 +2060,7 @@ elapids
 euthyneural
 empurple
 elapine
+endysis
 exhalate
 epigyny
 englory
@@ -12404,7 +12405,6 @@ evene
 eryon
 exhaustiveness
 elegances
-endysis
 electrotonicity
 ensealed
 essencing
