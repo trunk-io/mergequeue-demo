@@ -4028,6 +4028,7 @@ admiredly
 admiring
 admiringly
 admissability
+antislip
 admissable
 admissibility
 asci
@@ -16145,7 +16146,6 @@ antiskeptical
 antiskid
 aloofness
 andron
-antislip
 abreact
 antismoking
 arpanet
