@@ -3926,6 +3926,7 @@ expugnable
 earthbound
 emollient
 emollients
+env
 emoloa
 emolumental
 extemporiser
@@ -4311,7 +4312,6 @@ extraorbital
 eloquence
 elacolite
 enameling
-env
 exclaustration
 enamelist
 enamelless
