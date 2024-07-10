@@ -3136,7 +3136,6 @@ activates
 achtel
 advolution
 activation
-activator
 active
 academising
 aweather
@@ -9910,6 +9909,7 @@ abayah
 afferently
 abele
 ambarella
+activator
 ambari
 authenticities
 assayer
