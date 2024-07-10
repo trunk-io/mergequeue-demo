@@ -7867,7 +7867,6 @@ froeman
 foresail
 farl
 foresails
-formalizable
 fasten
 farmscape
 forescene
@@ -9151,6 +9150,7 @@ folded
 federations
 fractured
 floe
+formalizable
 formicicide
 fadednyess
 figulines
