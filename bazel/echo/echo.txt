@@ -4989,6 +4989,7 @@ endgate
 emplane
 eyedropper
 enfief
+epiphytal
 eumitotic
 endhand
 emboweled
@@ -8355,7 +8356,6 @@ epistolize
 electropuncturation
 exceedingness
 ethnolinguistic
-epiphytal
 ecumenicality
 ecardine
 ejectives
