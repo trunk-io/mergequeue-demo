@@ -3807,7 +3807,6 @@ deicing
 dismutation
 deictical
 deictically
-deviator
 dissevered
 devilkin
 dure
@@ -12901,6 +12900,7 @@ dismountable
 dismounted
 dryope
 disnaturalization
+deviator
 dermaptera
 disnatured
 disnew
