@@ -8550,7 +8550,6 @@ accelerograph
 alkylarylsulfonate
 alkylate
 actinically
-alkylates
 atremate
 alkylbenzenesulfonates
 alkylic
@@ -20785,6 +20784,7 @@ asqueal
 artsman
 artus
 acylamido
+alkylates
 applicate
 aligners
 aminoacidemia
