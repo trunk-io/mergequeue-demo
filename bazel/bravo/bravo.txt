@@ -3731,7 +3731,6 @@ banderilla
 battlestead
 battlewagon
 belemnid
-battleward
 bronchiectasis
 behatted
 bemist
@@ -14117,6 +14116,7 @@ bispore
 barquantine
 brachyrrhinia
 brachyskelic
+battleward
 brachystegia
 bemeaning
 bequeathing
