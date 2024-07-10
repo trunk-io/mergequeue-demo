@@ -1798,7 +1798,6 @@ benzyls
 bridgewall
 bushwood
 bananivorous
-brent
 banatite
 billycans
 bancha
@@ -4439,6 +4438,7 @@ beclothe
 bonasus
 bhili
 beclothes
+brent
 blushwort
 buriels
 bootee
