@@ -2375,7 +2375,6 @@ ganisters
 grampa
 glossopyrosis
 gemeled
-gemellus
 geminally
 granddaughterly
 gongoristic
@@ -5500,6 +5499,7 @@ grazings
 glaciating
 galet
 groovy
+gemellus
 groundskeep
 glisk
 glisky
