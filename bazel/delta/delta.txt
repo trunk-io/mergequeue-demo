@@ -2569,7 +2569,6 @@ declinations
 dynasty
 declinator
 declinatory
-drawout
 declines
 declining
 daer
@@ -6069,6 +6068,7 @@ depursement
 deputable
 dichotomously
 dodge
+drawout
 deputational
 doctus
 driegh
