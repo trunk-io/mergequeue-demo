@@ -5861,6 +5861,7 @@ depositor
 dimaris
 daytime
 depositories
+deducibleness
 deploration
 dismarshall
 depositors
@@ -6009,7 +6010,6 @@ deprome
 disuniformity
 demisphere
 deprostrate
-deducibleness
 darcy
 doctorlike
 doubledamn
