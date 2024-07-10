@@ -24871,7 +24871,6 @@ corrade
 crosiers
 coquitlam
 clake
-coquitos
 cor
 corabecan
 closkey
@@ -27804,6 +27803,7 @@ cissing
 collinear
 coxendix
 cowishness
+coquitos
 coxes
 chokeable
 creeper
