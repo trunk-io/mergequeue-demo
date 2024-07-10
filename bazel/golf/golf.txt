@@ -1382,7 +1382,6 @@ guttular
 garniec
 gamily
 ganodonta
-garnishes
 glossanthrax
 garnison
 garniture
@@ -3536,6 +3535,7 @@ genevieve
 gulp
 gravemaker
 ghaffir
+garnishes
 gewgaws
 ghan
 glamourous
