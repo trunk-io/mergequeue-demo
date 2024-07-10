@@ -1064,7 +1064,6 @@ calceus
 costoclavicular
 calchas
 calche
-calcic
 cordials
 creeling
 calcicolous
@@ -25624,6 +25623,7 @@ corpn
 corpora
 corporacy
 corporacies
+calcic
 corporal
 corporalcy
 corporale
