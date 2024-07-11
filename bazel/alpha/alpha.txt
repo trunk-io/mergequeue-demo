@@ -8824,6 +8824,7 @@ allivalite
 allness
 arthropyosis
 allo
+archcount
 anoesia
 allobar
 allobaric
@@ -12263,7 +12264,6 @@ andante
 allopatric
 andantino
 andaste
-archcount
 antiposition
 andean
 annunciate
