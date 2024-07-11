@@ -15822,7 +15822,6 @@ claviculate
 chrysohermidin
 chirotype
 chrysograph
-chiropteran
 claviger
 claviharp
 clavilux
@@ -31473,6 +31472,7 @@ cavitating
 citing
 croupade
 curricles
+chiropteran
 curricling
 currycomb
 currycombing
