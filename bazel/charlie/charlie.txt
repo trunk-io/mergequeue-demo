@@ -3846,7 +3846,6 @@ carbonade
 ceratite
 carbonarist
 carbonatation
-carbonates
 carbonating
 carbonation
 choralist
@@ -25165,6 +25164,7 @@ corer
 combinantive
 corers
 cores
+carbonates
 chlorospinel
 coresign
 coresonant
