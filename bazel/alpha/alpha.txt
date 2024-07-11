@@ -8516,7 +8516,6 @@ alkanets
 albertina
 amebocyte
 autophyllogeny
-amphoriskoi
 alkanol
 alkaphrah
 arent
@@ -11925,6 +11924,7 @@ anapterygota
 andes
 anapterygote
 anapterygotism
+amphoriskoi
 ariettas
 anaptychus
 anaptyctic
