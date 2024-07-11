@@ -11321,7 +11321,6 @@ eagles
 evaporimeter
 evaporitic
 evapotranspiration
-evasions
 ecaudata
 ergatoid
 erenach
@@ -13542,6 +13541,7 @@ exsufflate
 exsufflation
 exsufflicate
 extracutaneous
+evasions
 enneads
 escheating
 enjoinder
