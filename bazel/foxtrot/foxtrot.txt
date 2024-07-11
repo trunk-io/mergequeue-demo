@@ -4697,7 +4697,6 @@ fixer
 fixers
 fixidity
 fixing
-falter
 flannelleaf
 fixt
 floweret
@@ -6502,6 +6501,7 @@ faintish
 filmlands
 frills
 frederic
+falter
 filagreeing
 forgie
 farweltered
