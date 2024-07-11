@@ -2814,6 +2814,7 @@ cursitor
 cannulating
 canoe
 chinafish
+colius
 canoeist
 canoeload
 canoeman
@@ -6455,7 +6456,6 @@ couve
 cerebromedullary
 compurgatorial
 collocationable
-colius
 cautioner
 cautioners
 cienega
