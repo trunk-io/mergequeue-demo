@@ -1711,6 +1711,7 @@ aminophenol
 accuracies
 ada
 accurre
+adventry
 accursed
 appendiculated
 adamsite
@@ -4477,7 +4478,6 @@ adventitious
 adventitiousness
 adventive
 adventively
-adventry
 acetylasalicylic
 apaesthesia
 advents

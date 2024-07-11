@@ -7790,7 +7790,6 @@ familia
 fumaroles
 fireroom
 fulvidness
-fungus
 foveolets
 fractionisation
 flats
@@ -9305,6 +9304,7 @@ fissury
 funebre
 foliating
 faller
+fungus
 figeter
 fanneling
 fogged
