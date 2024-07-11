@@ -7591,6 +7591,7 @@ deutzia
 deuzan
 discernible
 drou
+doublewidth
 diddikai
 darwinistic
 deva
@@ -16030,7 +16031,6 @@ doubleton
 doublette
 discoid
 decursively
-doublewidth
 dinophyceae
 diminishable
 doubloon
