@@ -2001,6 +2001,7 @@ epidemics
 ektenes
 ektexine
 elabor
+epibenthic
 elaborate
 episternite
 evictees
@@ -7552,7 +7553,6 @@ electrosynthesis
 ethylate
 exacum
 epibatholithic
-epibenthic
 epiblast
 electrodepositor
 epiblastic
