@@ -7893,7 +7893,6 @@ chemoautotrophy
 charabancer
 celtically
 clorinator
-cerusite
 cerusites
 cerussite
 centaurid
@@ -23704,6 +23703,7 @@ contradance
 contradict
 ceratodontidae
 contradictable
+cerusite
 contradictedness
 contradicter
 contradiction

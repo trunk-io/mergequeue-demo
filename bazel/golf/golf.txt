@@ -7531,7 +7531,6 @@ germing
 gaumy
 gnathobdellae
 generalizer
-gps
 grille
 gorrel
 grenatite
@@ -8721,6 +8720,7 @@ greenlet
 gorge
 greenling
 greenovite
+gps
 greensauce
 goldstone
 gigartina
