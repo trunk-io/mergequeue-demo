@@ -7308,7 +7308,6 @@ blacklegs
 baseboards
 betelgeuse
 balant
-bannition
 botargos
 betell
 boddhisattva
@@ -12142,6 +12141,7 @@ benzofluorene
 bannets
 bannered
 basti
+bannition
 byzantinesque
 boldos
 besmutch
