@@ -1007,6 +1007,7 @@ edaphon
 edaphosauria
 edaphosaurid
 exorbital
+established
 edaphosaurus
 explosibility
 euthanasic
@@ -2842,7 +2843,6 @@ eleutherophobia
 elaphomycetaceae
 easygoingness
 eleutherozoa
-established
 euhemeristic
 ensorcel
 endew
