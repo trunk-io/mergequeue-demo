@@ -3048,7 +3048,6 @@ gromet
 genii
 gonimoblast
 gorra
-gutterling
 globulins
 gastromyces
 geometridae
@@ -8879,6 +8878,7 @@ ganglier
 giros
 gemming
 grooty
+gutterling
 ghess
 groove
 grum
