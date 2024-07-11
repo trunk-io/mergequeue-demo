@@ -927,7 +927,6 @@ fadaise
 fleabug
 forefront
 fallouts
-fiant
 ferrate
 fanwright
 faquir
@@ -9053,6 +9052,7 @@ foxbane
 foxberry
 fractionation
 funneled
+fiant
 friesish
 fluidglycerate
 forbruise
