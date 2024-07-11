@@ -5631,7 +5631,6 @@ glochid
 gemology
 garnice
 gradable
-glyster
 gymnasium
 glycidic
 golfers
@@ -9215,6 +9214,7 @@ gravigrade
 grahamite
 grist
 grumbles
+glyster
 grummel
 grister
 growthiness
