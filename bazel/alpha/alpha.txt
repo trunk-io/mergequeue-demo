@@ -5352,7 +5352,6 @@ adductor
 affrontive
 adenose
 acaroid
-affrontment
 affronts
 affuse
 affusion
@@ -5473,6 +5472,7 @@ aftercost
 aftercrop
 acanthodian
 aftercure
+affrontment
 afterdays
 afterdate
 antifoam
