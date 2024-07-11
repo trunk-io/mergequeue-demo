@@ -6534,6 +6534,7 @@ entamoebic
 extratension
 entomophthora
 elaphodus
+ended
 entangled
 entangledness
 epicentral
@@ -7947,7 +7948,6 @@ elvish
 enclavement
 enneastylar
 epilobe
-ended
 expromissor
 enframes
 ecclesiography
