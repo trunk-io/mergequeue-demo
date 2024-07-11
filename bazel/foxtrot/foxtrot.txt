@@ -2617,6 +2617,7 @@ feedsman
 frailties
 fortuitus
 fiduciaries
+fimbriatum
 forbidden
 flappy
 flurry
@@ -3893,7 +3894,6 @@ fiscal
 frustulum
 flueman
 flet
-fimbriatum
 feral
 floria
 fellowly
