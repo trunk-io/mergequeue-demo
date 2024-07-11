@@ -7898,7 +7898,6 @@ ephors
 epihyal
 egis
 excitor
-enlistees
 epihydric
 electroetching
 engrammic
@@ -11493,6 +11492,7 @@ extine
 etouffe
 erbium
 evidentness
+enlistees
 evigilation
 egre
 esthesias
