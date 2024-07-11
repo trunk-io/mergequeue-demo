@@ -3298,7 +3298,6 @@ adamantinoma
 adamantly
 adamantness
 adamantoblast
-adamantoblastoma
 adamas
 archery
 atelets
@@ -3747,6 +3746,7 @@ annexable
 aichmophobia
 adiaphoral
 acephalina
+adamantoblastoma
 adiaphory
 adiaphorist
 appaume
