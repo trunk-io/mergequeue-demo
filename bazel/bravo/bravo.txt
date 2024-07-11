@@ -305,6 +305,7 @@ backbencher
 backberand
 birkenhead
 biolith
+booter
 bakeware
 backslided
 blubbery
@@ -12921,7 +12922,6 @@ boot
 bootblacks
 big
 bootees
-booter
 blunging
 bootery
 booth
