@@ -6822,7 +6822,6 @@ diphrelatic
 dunks
 deskman
 desks
-deleted
 destined
 deslime
 desma
@@ -7071,6 +7070,7 @@ destigmatization
 destigmatizing
 demonstrability
 destination
+deleted
 dunelands
 deliliria
 dechlorinating
