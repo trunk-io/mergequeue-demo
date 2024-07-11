@@ -3294,7 +3294,6 @@ beings
 bathflower
 basketlike
 bandurria
-bathymetric
 basketmaker
 basketmaking
 basketries
@@ -13795,6 +13794,7 @@ brisa
 bowditch
 bountied
 biotoxins
+bathymetric
 bromalbumin
 bowdlerisation
 bezantee
