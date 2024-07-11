@@ -5455,7 +5455,6 @@ commercing
 candlesticked
 confront
 counterchange
-castleward
 carpale
 casaque
 castlewards
@@ -21435,6 +21434,7 @@ conclaves
 coccous
 concludable
 copyrighted
+castleward
 comandante
 convalesce
 concluded
