@@ -8369,7 +8369,6 @@ dialectologer
 diplois
 dejerate
 dialectologist
-dialector
 dargue
 daemonies
 duchies
@@ -16194,6 +16193,7 @@ dominic
 dowed
 deveining
 draconic
+dialector
 deerskins
 dizens
 dower
