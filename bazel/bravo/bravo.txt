@@ -5409,7 +5409,6 @@ biolite
 begunk
 barbacoa
 bigmitt
-behalf
 behallow
 behammer
 bacteroideae
@@ -9200,6 +9199,7 @@ bullroarer
 barotropy
 banderlog
 bersil
+behalf
 bianchi
 beshag
 badgir
