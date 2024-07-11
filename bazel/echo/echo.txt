@@ -1125,6 +1125,7 @@ evocations
 edificed
 edified
 edifiers
+essayish
 edifying
 edifyingness
 einkorns
@@ -6565,7 +6566,6 @@ edgewise
 entendre
 enchant
 entendres
-essayish
 epidermophytosis
 extravagating
 entente
