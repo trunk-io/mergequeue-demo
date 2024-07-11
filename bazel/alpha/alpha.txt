@@ -7358,7 +7358,6 @@ albas
 austin
 albatas
 alkaid
-archaeocyathus
 alligation
 alcoved
 albatros
@@ -12758,6 +12757,7 @@ angiorrhagia
 angiorrhaphy
 angiorrhea
 angiosarcoma
+archaeocyathus
 ascher
 ammocoetid
 angiosclerotic
