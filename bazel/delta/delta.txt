@@ -7373,6 +7373,7 @@ detonability
 dwine
 demilunes
 depersonalised
+deselect
 demiadult
 detonating
 decenyl
@@ -7435,7 +7436,6 @@ deglute
 detrition
 dancer
 drumfire
-deselect
 defends
 detrivorous
 dervish
