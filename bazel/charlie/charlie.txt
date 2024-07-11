@@ -7447,7 +7447,6 @@ cephalodium
 conditionals
 cephalofacial
 cephalogram
-cephalograph
 cephaloid
 culminates
 cuticles
@@ -15795,6 +15794,7 @@ clavicembalist
 clavicembalo
 claviceps
 caiarara
+cephalograph
 cartage
 clavichord
 caulopteris
