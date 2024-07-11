@@ -8780,6 +8780,7 @@ diatomicity
 dinting
 defocusses
 diatomist
+dot
 debadge
 diaporesis
 dysmerogenesis
@@ -15923,7 +15924,6 @@ desaminase
 downcried
 dewaxes
 daydream
-dot
 dotages
 doubleword
 dotal
