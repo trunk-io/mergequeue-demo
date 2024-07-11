@@ -4980,7 +4980,6 @@ flameouts
 fineleaf
 fictileness
 flamer
-floralia
 flamers
 flamethrowers
 flamy
@@ -8280,6 +8279,7 @@ fameflower
 forhaile
 foreroyal
 faroese
+floralia
 farthingless
 fraughan
 forhow
