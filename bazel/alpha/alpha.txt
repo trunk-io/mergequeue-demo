@@ -19713,6 +19713,7 @@ aristarchies
 aristate
 aristeas
 alertness
+armaria
 aristeia
 aristida
 aristides
@@ -25040,7 +25041,6 @@ almah
 awork
 aworry
 anaesthetist
-armaria
 admixing
 aggregation
 avascular
