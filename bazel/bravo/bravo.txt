@@ -2996,7 +2996,6 @@ blechnoid
 barters
 brujo
 blood
-barthite
 bullace
 bartholomewtide
 bartisan
@@ -12854,6 +12853,7 @@ basiliscine
 barnabite
 bioprecipitation
 blizzardous
+barthite
 boomslang
 boomslange
 busuuti

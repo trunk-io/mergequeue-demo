@@ -24956,7 +24956,6 @@ codices
 continuousness
 conciliationist
 corallum
-corallus
 circumflexion
 corals
 coram
@@ -31068,6 +31067,7 @@ cunctative
 cunctator
 cunctatory
 cunctatury
+corallus
 cund
 conjecturality
 cundeamor
