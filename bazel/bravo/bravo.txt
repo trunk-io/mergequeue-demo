@@ -1983,7 +1983,6 @@ banisher
 banishing
 banishment
 bursting
-bondieuserie
 banyuls
 baniva
 bioinstrumentation
@@ -9068,6 +9067,7 @@ begrims
 brilliancy
 bergfall
 biomedicine
+bondieuserie
 burelage
 biomes
 beanlike
