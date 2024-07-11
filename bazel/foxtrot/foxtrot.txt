@@ -7123,6 +7123,7 @@ fruticulture
 flabel
 flumerin
 fangs
+fused
 foremind
 foothalt
 filths
@@ -9013,7 +9014,6 @@ fowled
 flirtational
 fidding
 fifteener
-fused
 flintified
 fowlerite
 fowlers
