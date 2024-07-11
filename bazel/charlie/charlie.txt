@@ -142,6 +142,7 @@ cabled
 cablegram
 cablegrams
 cruors
+cistaceae
 cablelaid
 cableless
 cablelike
@@ -14665,7 +14666,6 @@ continuantly
 cogitating
 cista
 circumstanced
-cistaceae
 cystadenoma
 cystadenosarcoma
 cubicontravariant
