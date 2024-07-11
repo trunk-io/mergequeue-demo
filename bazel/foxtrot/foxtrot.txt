@@ -2572,7 +2572,6 @@ faldworth
 foremeant
 footsore
 ferrateen
-forfeitable
 feudal
 ferritic
 fiducial
@@ -4379,6 +4378,7 @@ forb
 fanfish
 fisetin
 focuser
+forfeitable
 frate
 fibroplastic
 fole
