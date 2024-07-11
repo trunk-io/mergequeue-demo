@@ -4216,6 +4216,7 @@ grovel
 goloka
 gois
 gynaecology
+gyromagnetic
 gynaecological
 gabbiness
 gentilesse
@@ -5839,7 +5840,6 @@ geocarpic
 geogen
 grillades
 grummeter
-gyromagnetic
 gestate
 grippal
 ginglymoarthrodia
