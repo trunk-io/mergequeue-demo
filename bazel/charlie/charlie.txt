@@ -10039,6 +10039,7 @@ climactically
 chenfish
 californiana
 chenille
+consumable
 cheniller
 chenopod
 colocasia
@@ -23321,7 +23322,6 @@ consultive
 consulto
 consultor
 consults
-consumable
 coulis
 consumate
 consumated
