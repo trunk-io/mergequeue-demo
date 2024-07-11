@@ -3493,7 +3493,6 @@ embole
 epigonichthyidae
 embolectomy
 enicuridae
-embolemia
 emboli
 epipodialia
 embolimeal
@@ -9806,6 +9805,7 @@ essexite
 enact
 electrovalency
 essoined
+embolemia
 eachwhere
 exfoliated
 equalisation
