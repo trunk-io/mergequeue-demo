@@ -813,7 +813,6 @@ fortes
 flog
 fissidentaceae
 faun
-fallout
 firebolt
 francophobia
 frogeyes
@@ -4449,6 +4448,7 @@ flossy
 fraternizer
 fishmouth
 fishnet
+fallout
 frank
 fitnesses
 fellatio
