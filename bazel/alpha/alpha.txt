@@ -2654,7 +2654,6 @@ ammochaeta
 acreage
 anamirta
 acred
-acredula
 acreman
 acremen
 acres
@@ -8965,6 +8964,7 @@ allophanamid
 allophanate
 allophanates
 allophanic
+acredula
 allophyle
 antirobin
 arrow
