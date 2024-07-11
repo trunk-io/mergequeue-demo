@@ -2047,7 +2047,6 @@ autoimmune
 acharne
 afrikander
 acharnement
-achate
 achatina
 achatinidae
 act
@@ -10950,6 +10949,7 @@ arcsine
 amorite
 amoritic
 astricts
+achate
 alma
 amoritish
 amornings
