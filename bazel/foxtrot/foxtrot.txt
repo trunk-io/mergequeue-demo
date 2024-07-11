@@ -5142,7 +5142,6 @@ floccular
 fellifluous
 furbelows
 flatfishes
-flatfoot
 flathead
 froom
 flatlands
@@ -7932,6 +7931,7 @@ fallostomy
 foreshot
 fitness
 foreshow
+flatfoot
 fistulous
 formylated
 fano
