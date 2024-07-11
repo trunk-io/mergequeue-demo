@@ -203,7 +203,6 @@ eyesores
 earthwall
 entte
 earthworks
-enddamaged
 exoticalness
 edaphodont
 europeanization
@@ -6049,6 +6048,7 @@ emydinae
 enlargements
 exposer
 execrative
+enddamaged
 evenhandedly
 edinburgh
 escheated
