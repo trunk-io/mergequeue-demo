@@ -14670,7 +14670,6 @@ contestate
 chaptalizing
 cnidophore
 cysted
-cysteines
 cysteinic
 cysteins
 cyclolith
@@ -26222,6 +26221,7 @@ conatural
 calorimeter
 cosmotellurian
 cupola
+cysteines
 cosmotheist
 cosmozoans
 cosmozoic
