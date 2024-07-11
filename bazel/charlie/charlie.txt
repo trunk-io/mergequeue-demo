@@ -11673,7 +11673,6 @@ cholecystokinin
 corkiness
 cholecystolithiasis
 cholecystostomy
-cholecystostomies
 cholecystotomy
 cholecystotomies
 choledochal
@@ -28481,6 +28480,7 @@ creasier
 curiegram
 consistory
 creasot
+cholecystostomies
 coffeebush
 cognizability
 crosier
