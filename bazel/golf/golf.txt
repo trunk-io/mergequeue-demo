@@ -42,7 +42,6 @@ grammes
 gabions
 guardian
 gunfires
-gammarus
 genotypically
 gollar
 gableboard
@@ -3878,6 +3877,7 @@ galeoid
 gravidae
 glossem
 geminated
+gammarus
 glossocarcinoma
 genitally
 graphomotor

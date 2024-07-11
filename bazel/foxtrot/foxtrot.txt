@@ -9051,7 +9051,6 @@ fractionation
 funneled
 fiant
 friesish
-fluidglycerate
 forbruise
 foxfires
 frogskins
@@ -10265,6 +10264,7 @@ flees
 frolic
 felstone
 frolicful
+fluidglycerate
 fostership
 foreslack
 frolicker
