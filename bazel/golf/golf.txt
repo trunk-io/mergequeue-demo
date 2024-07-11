@@ -10573,6 +10573,7 @@ gis
 grandmaster
 goustie
 gunline
+glyphs
 gladnesses
 guanays
 gunmaking
@@ -10713,7 +10714,6 @@ gismondine
 glossocoma
 gusher
 gutnic
-glyphs
 guywire
 gerbera
 graveward
