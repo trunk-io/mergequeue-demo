@@ -2366,7 +2366,6 @@ banshie
 belabors
 barcoo
 bemoisten
-behypocrite
 bard
 beltways
 bardcraft
@@ -14836,6 +14835,7 @@ barbershop
 breakable
 breakableness
 bracket
+behypocrite
 breakax
 bulimic
 breakaxe
