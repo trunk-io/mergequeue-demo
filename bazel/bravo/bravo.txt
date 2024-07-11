@@ -3776,6 +3776,7 @@ batz
 beldamship
 bestubble
 batzen
+bribeable
 blksize
 bumblingly
 botchiness
@@ -5518,7 +5519,6 @@ bagatine
 blotted
 beisance
 bouvier
-bribeable
 burled
 beja
 bejade
