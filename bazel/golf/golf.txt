@@ -7197,7 +7197,6 @@ getah
 gangion
 garlicmonger
 governorate
-grewt
 gourmands
 grailer
 gemination
@@ -7378,6 +7377,7 @@ gorgelet
 gingerbread
 glissading
 gamotropic
+grewt
 goujat
 grampuses
 garrulous

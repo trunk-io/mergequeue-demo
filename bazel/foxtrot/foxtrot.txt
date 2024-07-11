@@ -945,7 +945,6 @@ forspeaking
 ferneries
 flyleaf
 foundry
-flabellinerved
 fasola
 fourchite
 fanfishes
@@ -8888,6 +8887,7 @@ floorshow
 foundlings
 foundryman
 foundrymen
+flabellinerved
 fallency
 flneuse
 foundrous
