@@ -17740,7 +17740,6 @@ colluders
 cocinera
 cocircular
 cultrirostres
-cocircularity
 cocitizen
 cocitizenship
 cockade
@@ -28752,6 +28751,7 @@ cole
 creosotes
 creosotic
 catchland
+cocircularity
 clericity
 creosoting
 crepey
