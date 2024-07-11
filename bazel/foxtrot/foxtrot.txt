@@ -1295,7 +1295,6 @@ fastnesses
 filmcard
 flubdubs
 fixage
-flavorers
 fancywork
 fasts
 florinda
@@ -5432,6 +5431,7 @@ foggy
 fisted
 fleering
 faunal
+flavorers
 fleerish
 figurativeness
 firmware
