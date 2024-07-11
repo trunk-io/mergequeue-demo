@@ -17451,6 +17451,7 @@ archenemy
 apothecium
 antitrope
 arbitrement
+areologic
 applot
 airship
 antiarchi
@@ -18649,7 +18650,6 @@ archaeolith
 admedian
 archaeolithic
 archaeologer
-areologic
 adoral
 archaeologic
 aggregately
