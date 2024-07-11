@@ -4067,6 +4067,7 @@ cestui
 cleronomy
 cardiacle
 cardiagra
+chanter
 camomiles
 cardiagram
 cardiagraph
@@ -30403,7 +30404,6 @@ csch
 csect
 cpu
 crumbling
-chanter
 cholecystectomies
 csmp
 crimpled
