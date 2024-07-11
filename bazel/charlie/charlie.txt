@@ -8244,7 +8244,6 @@ comrogue
 chainage
 crepuscule
 conceptions
-chainer
 chainless
 counteractions
 crosscheck
@@ -13991,6 +13990,7 @@ cynicalness
 cynicisms
 consecrations
 cynics
+chainer
 cynipidae
 cynipoid
 cynism
