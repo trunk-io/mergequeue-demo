@@ -1194,7 +1194,6 @@ edplot
 edrioasteroidea
 edriophthalmatous
 educability
-educables
 educand
 emulsive
 eleutherodactyli
@@ -2469,6 +2468,7 @@ electrokinetics
 elasticum
 electroless
 elaeoblast
+educables
 electrolier
 embryopathology
 electrolysation
