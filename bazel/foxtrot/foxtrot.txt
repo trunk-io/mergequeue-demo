@@ -7742,7 +7742,6 @@ flyblew
 flickery
 fren
 fraenum
-filtrable
 furs
 fountful
 furl
@@ -8360,6 +8359,7 @@ fraternate
 forlornness
 form
 fluoroscopes
+filtrable
 formational
 fullerboard
 feverberry
