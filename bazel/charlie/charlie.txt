@@ -11670,7 +11670,6 @@ cholecystogastrostomy
 cholecystogram
 cholecystography
 cholecystokinin
-chetrums
 corkiness
 cholecystolithiasis
 cholecystostomy
@@ -18460,6 +18459,7 @@ cognitivity
 cognizable
 cognizableness
 cognizance
+chetrums
 cognizant
 cognize
 conveyancer
