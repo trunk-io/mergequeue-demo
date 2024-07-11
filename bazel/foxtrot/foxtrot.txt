@@ -4720,7 +4720,6 @@ foundries
 fjord
 fancify
 funder
-feudality
 fizziest
 friand
 fluidram
@@ -7679,6 +7678,7 @@ fatherland
 fac
 flerrying
 flyman
+feudality
 fruggin
 fireworm
 forejudging
