@@ -4595,6 +4595,7 @@ bedecked
 bedrid
 bebannered
 bedecking
+bulletproofed
 bankfull
 basifixed
 bedehouse
@@ -17121,7 +17122,6 @@ burghmote
 braconniere
 breadseller
 bulletmaking
-bulletproofed
 bacteric
 bombazeen
 bulletproofing
