@@ -1950,6 +1950,7 @@ gallamine
 gnomonical
 gimbal
 gas
+geology
 gliadines
 goring
 granitoid
@@ -6561,7 +6562,6 @@ gideonite
 ghettos
 glottalization
 ground
-geology
 gesture
 gambeson
 gomphocarpus
