@@ -586,7 +586,6 @@ bierkeller
 bonjour
 barniest
 bricoles
-bacquet
 billmen
 beclothed
 betongue
@@ -12521,6 +12520,7 @@ bonesetting
 broadness
 broncholith
 bacony
+bacquet
 bilberries
 boneshaker
 bridesman
