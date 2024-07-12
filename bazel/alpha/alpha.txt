@@ -10289,7 +10289,6 @@ allotheria
 ankylopoietic
 algaroth
 amentia
-amentiferae
 autompne
 amentiform
 aplodiorite
@@ -12578,6 +12577,7 @@ aneuploidy
 aneuric
 aneurilemmic
 avoidance
+amentiferae
 aleuron
 arrayan
 abrotin
