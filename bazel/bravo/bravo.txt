@@ -6712,6 +6712,7 @@ berkovets
 berkovtsi
 bedull
 berlin
+browsability
 broomstaff
 blitter
 balaamitical
@@ -16668,7 +16669,6 @@ brod
 bankside
 bucketer
 borosilicate
-browsability
 bubblelike
 bucketful
 bucketmaking
