@@ -13565,7 +13565,6 @@ cyesis
 cif
 camerawork
 cig
-cigar
 cigaret
 cigarette
 cystenchyma
@@ -20008,6 +20007,7 @@ conjectural
 commassation
 carot
 commassee
+cigar
 commata
 claustra
 commaterial
