@@ -5419,6 +5419,7 @@ cinemograph
 corncob
 crummies
 cibolan
+corv
 casters
 ciliation
 castes
@@ -22400,7 +22401,6 @@ congruency
 columella
 congruent
 congruism
-corv
 congruist
 congruistic
 congruity
