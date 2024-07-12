@@ -107,7 +107,6 @@ eartab
 exodermal
 eparch
 eartag
-eartagged
 economicalness
 elementoid
 euphonised
@@ -3656,6 +3655,7 @@ embosking
 embryologist
 embryonic
 encyrtidae
+eartagged
 epithecate
 expectant
 elec
