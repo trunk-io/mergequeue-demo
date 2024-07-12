@@ -12777,6 +12777,7 @@ bimorph
 bookmobiles
 baroni
 barwise
+burlesk
 bookpress
 bookracks
 blacklegging
@@ -17695,7 +17696,6 @@ burlaps
 boomlets
 burleycue
 burler
-burlesk
 blisterous
 burlesqued
 burlesquer
