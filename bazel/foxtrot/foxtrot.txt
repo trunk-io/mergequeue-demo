@@ -2399,7 +2399,6 @@ feudist
 fenchol
 ferganite
 fellowman
-fergus
 ferguson
 frondage
 feriation
@@ -7449,6 +7448,7 @@ fideos
 fleetest
 freeholders
 fizzing
+fergus
 fellatah
 fullface
 forebode
