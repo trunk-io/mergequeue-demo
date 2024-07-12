@@ -5209,7 +5209,6 @@ caseworker
 caseworks
 caseworm
 casha
-cashable
 cashableness
 cashaws
 carida
@@ -31846,6 +31845,7 @@ cutleriaceous
 cutleries
 cutlers
 cutlet
+cashable
 cutline
 continually
 currycombed
