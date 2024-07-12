@@ -4124,7 +4124,6 @@ externum
 encl
 encaustes
 etherol
-elaterium
 elaborator
 elaeosia
 engraphy
@@ -9939,6 +9938,7 @@ eprosy
 exhaustively
 emmensite
 earthnuts
+elaterium
 emplace
 ephedrin
 euchrone
