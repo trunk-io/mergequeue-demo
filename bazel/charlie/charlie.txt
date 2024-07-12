@@ -19081,7 +19081,6 @@ combattant
 collembola
 collembole
 collembolous
-collenchymatous
 checkweighman
 collenchyme
 collencyte
@@ -29281,6 +29280,7 @@ confessarius
 cryptoclastic
 clamoured
 conceptualising
+collenchymatous
 cottoning
 ceinte
 cryptoclimate
