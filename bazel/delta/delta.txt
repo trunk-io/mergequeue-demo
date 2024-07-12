@@ -5528,7 +5528,6 @@ define
 depaints
 dilatation
 dilutent
-deoxyribonucleoprotein
 deurbanize
 deoxyribonucleotide
 disportive
@@ -14579,6 +14578,7 @@ disinfeudation
 dentalman
 duckeries
 douanes
+deoxyribonucleoprotein
 dismemberment
 demureness
 decasualization
