@@ -3697,7 +3697,6 @@ coemptive
 chabutra
 caranna
 captained
-centralizer
 carap
 couloirs
 carapaces
@@ -7722,6 +7721,7 @@ cerebrum
 collarets
 cerements
 coiffing
+centralizer
 confinements
 ceremony
 chrysoeriol
