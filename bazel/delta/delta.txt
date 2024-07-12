@@ -5111,7 +5111,6 @@ denaturizer
 dhunchi
 dendraspis
 doomwatcher
-dendrocoelous
 dendraxon
 desiccation
 decolorizer
@@ -16134,6 +16133,7 @@ dourah
 drochuil
 disproving
 depicts
+dendrocoelous
 dourer
 dourest
 dournesses
