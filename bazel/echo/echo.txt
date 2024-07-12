@@ -826,6 +826,7 @@ ectypal
 ectype
 everliving
 enwrite
+embus
 elemicin
 epizoa
 envois
@@ -3739,7 +3740,6 @@ embulk
 engulfing
 embull
 epizooties
-embus
 embush
 electrolyzation
 encrusted
