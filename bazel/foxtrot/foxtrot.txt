@@ -2511,6 +2511,7 @@ frog
 faultfinding
 fermi
 founders
+forgetter
 fuzzed
 finiteness
 fermillet
@@ -11130,7 +11131,6 @@ farthingdeal
 fundulinae
 foederal
 fruitiest
-forgetter
 fingerhold
 fumous
 flagrance
