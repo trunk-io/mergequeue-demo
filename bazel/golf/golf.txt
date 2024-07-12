@@ -7289,7 +7289,6 @@ glycerolysis
 guttery
 gossipee
 griffon
-greyer
 greensward
 glyoxime
 galagala
@@ -8266,6 +8265,7 @@ gazelle
 grattoir
 glaucodot
 greenslade
+greyer
 geegaws
 geanticlinal
 glaciated
