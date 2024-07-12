@@ -8770,6 +8770,7 @@ backlighting
 betoss
 bottomry
 brule
+barhopping
 bimetals
 breislakite
 bullring
@@ -16873,7 +16874,6 @@ benchwork
 bedead
 buras
 buffos
-barhopping
 buffs
 bullfighting
 brei
