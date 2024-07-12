@@ -3428,6 +3428,7 @@ badgerly
 bastions
 barabbas
 battutas
+boughpot
 bef
 bastite
 brushfire
@@ -3807,7 +3808,6 @@ bearbane
 baulkier
 bucerotes
 behight
-boughpot
 bhoy
 bugging
 baumier
