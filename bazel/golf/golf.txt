@@ -6703,7 +6703,6 @@ gyrostats
 glomerate
 geyseral
 gurdfish
-gazettes
 gruine
 glenoid
 grandstands
@@ -7056,6 +7055,7 @@ galvanometer
 grassation
 gendarmery
 goosy
+gazettes
 goosier
 gestates
 goosiest
