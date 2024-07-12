@@ -5638,7 +5638,6 @@ extranatural
 endymion
 epigrammatized
 enfume
-enfurrow
 exhilarated
 eupatory
 eng
@@ -13603,6 +13602,7 @@ extenuate
 extenuates
 extenuation
 eliminates
+enfurrow
 excipuliform
 epenthesis
 extenuations
