@@ -5080,7 +5080,6 @@ flareback
 furnishness
 foramens
 fengite
-flared
 felicitated
 flareless
 fibromyectomy
@@ -6279,6 +6278,7 @@ fingerwork
 frisian
 fluidist
 fluidized
+flared
 fluidmeter
 faulted
 forceful
