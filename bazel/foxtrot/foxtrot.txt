@@ -3591,6 +3591,7 @@ filemaker
 flenches
 filename
 forgetable
+fractabling
 fixates
 florigraphy
 forspoken
@@ -4947,7 +4948,6 @@ fchar
 fluidised
 foining
 fourteens
-fractabling
 fendered
 flamen
 firefanged
