@@ -423,6 +423,7 @@ fur
 frockmaker
 fairship
 fairway
+fulminate
 fractural
 faultfinders
 fieldbird
@@ -5735,7 +5736,6 @@ fuzzball
 favorers
 forestcraft
 favissa
-fulminate
 fathoms
 furnage
 fernery
