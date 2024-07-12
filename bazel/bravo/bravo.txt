@@ -13712,6 +13712,7 @@ buffoonery
 bridged
 barwin
 bindery
+bushes
 bourreau
 bourree
 bourrees
@@ -17910,7 +17911,6 @@ behinds
 balloon
 bargestone
 busher
-bushes
 bushfighting
 bushfires
 backslider

@@ -299,6 +299,7 @@ directories
 daybeacon
 daybed
 disambiguation
+decriminalizing
 dissuasiveness
 dollfaced
 daybill
@@ -4079,7 +4080,6 @@ deliberateness
 deterred
 dismalest
 deliberators
-decriminalizing
 deposited
 disvantage
 delicate
