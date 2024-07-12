@@ -7405,7 +7405,6 @@ cephalanthium
 coudee
 cephalaspis
 cocoonery
-chemoautotrophic
 condurrite
 cephalate
 cephaletron
@@ -26692,6 +26691,7 @@ contendere
 chilognatha
 churly
 cottonweed
+chemoautotrophic
 cobus
 counteractively
 counteractivity
