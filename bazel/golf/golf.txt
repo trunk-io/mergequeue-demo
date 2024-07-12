@@ -1233,6 +1233,7 @@ gradings
 greasers
 gewgawry
 goodship
+galliardly
 grognard
 geneki
 griffes
@@ -5898,7 +5899,6 @@ glucinium
 glucosone
 gallivorous
 gaolbird
-galliardly
 gametal
 galactophorous
 glucosamine
