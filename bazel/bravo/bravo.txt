@@ -911,7 +911,6 @@ buddhology
 branny
 bagwigged
 bogey
-bagwigs
 backers
 bagwyn
 bustier
@@ -4133,6 +4132,7 @@ bearm
 bearship
 birdwatch
 barbastel
+bagwigs
 bearward
 bearwort
 boanthropy
