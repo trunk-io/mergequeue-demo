@@ -6312,7 +6312,6 @@ glacialist
 glossalgia
 glyceryl
 guanaco
-grimaces
 gentry
 generalize
 geophysics
@@ -10761,6 +10760,7 @@ gerald
 gut
 giber
 generation
+grimaces
 gutbucket
 guiders
 gloam
