@@ -3796,7 +3796,6 @@ adipinic
 adipocellulose
 adipocere
 adipoceriform
-adipocerite
 adipocyte
 adipoid
 angiology
@@ -12279,6 +12278,7 @@ anodynia
 anders
 autoirrigation
 anderson
+adipocerite
 alkenna
 anderun
 andesites
