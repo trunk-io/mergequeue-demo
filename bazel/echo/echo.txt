@@ -5613,7 +5613,6 @@ enforth
 estrangle
 enfoulder
 epithi
-enfrai
 ensnarers
 enclitics
 exquisitism
@@ -9689,6 +9688,7 @@ entangleable
 espagnole
 elaeagnus
 exciter
+enfrai
 euchologies
 espanol
 endowing
