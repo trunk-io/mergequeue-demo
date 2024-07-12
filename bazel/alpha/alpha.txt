@@ -2903,7 +2903,6 @@ advisive
 acrostical
 aerographics
 approvably
-acrostichic
 acrostichoid
 acrostichum
 acrosticism
@@ -5471,6 +5470,7 @@ afterclause
 aftercome
 aftercoming
 australasian
+acrostichic
 aftercooler
 aftercost
 aftercrop
