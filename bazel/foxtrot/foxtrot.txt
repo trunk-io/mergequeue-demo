@@ -2987,6 +2987,7 @@ filialness
 fleches
 facier
 freezed
+fac
 flaked
 freeing
 fulmarus
@@ -7663,7 +7664,6 @@ firnismalerei
 farcied
 foreinstruct
 fatherland
-fac
 flerrying
 flyman
 feudality
