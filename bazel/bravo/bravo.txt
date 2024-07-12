@@ -431,7 +431,6 @@ backpiece
 backplane
 baa
 brachiostrophosis
-backplanes
 backpointer
 bushwas
 backropes
@@ -6537,6 +6536,7 @@ berakah
 bosnisch
 bewelcome
 bavarois
+backplanes
 bagel
 breezy
 browningesque
