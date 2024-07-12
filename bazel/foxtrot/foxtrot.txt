@@ -5299,6 +5299,7 @@ ferry
 flb
 fimbriate
 frithsoken
+flutey
 fumarole
 feasts
 fant
@@ -6497,7 +6498,6 @@ forgie
 farweltered
 failsoft
 frotted
-flutey
 foggers
 fluter
 forspread
