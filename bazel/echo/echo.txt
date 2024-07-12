@@ -2391,7 +2391,6 @@ events
 eskar
 empetraceous
 ethnarchies
-ecclesiastic
 eusol
 ecraseur
 endaseh
@@ -8927,6 +8926,7 @@ ensilaging
 exp
 ergate
 ergative
+ecclesiastic
 extracorporeally
 epistilbite
 euharmonic
