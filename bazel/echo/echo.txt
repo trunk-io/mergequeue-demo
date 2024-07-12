@@ -5311,7 +5311,6 @@ equipments
 excarnate
 ephebes
 enmagazine
-endostosis
 epanody
 economiser
 endothecal
@@ -6527,6 +6526,7 @@ ectophytic
 encryption
 erythrocytometer
 entamoebic
+endostosis
 extratension
 entomophthora
 elaphodus
