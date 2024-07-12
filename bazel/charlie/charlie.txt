@@ -2846,7 +2846,6 @@ canonicals
 condiddled
 canonicate
 canonisation
-canonise
 cornbin
 contermine
 ciliolum
@@ -30120,6 +30119,7 @@ cannstatt
 crubeen
 cruce
 crucethouse
+canonise
 crucial
 contraceptionist
 cruciality
