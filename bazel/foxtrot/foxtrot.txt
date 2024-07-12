@@ -1222,7 +1222,6 @@ fiddley
 forediscern
 fascinate
 fratchy
-fearing
 fixator
 fissure
 furnacing
@@ -6276,6 +6275,7 @@ fidicinal
 fanfarade
 flummeries
 fld
+fearing
 fluxer
 forewisdom
 fingerwork
