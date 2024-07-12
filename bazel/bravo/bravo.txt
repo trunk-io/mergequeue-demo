@@ -5438,6 +5438,7 @@ bawd
 beheira
 beachward
 boardmanship
+boatable
 behemoth
 behemoths
 behenate
@@ -11660,7 +11661,6 @@ boastfully
 boastfulness
 bacchus
 boasts
-boatable
 bryologist
 bosket
 boatage
