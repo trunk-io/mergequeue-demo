@@ -1735,6 +1735,7 @@ fashionmonger
 fascio
 floats
 filicin
+frippet
 flashflood
 feastful
 feastfully
@@ -6411,7 +6412,6 @@ facsimileing
 fluorimetric
 foot
 financiered
-frippet
 fluorobenzene
 fructifies
 foreship
