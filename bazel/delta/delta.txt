@@ -3675,6 +3675,7 @@ degraded
 degradement
 deplorers
 dozing
+depsid
 dehumidifies
 disrupt
 dewal
@@ -6018,7 +6019,6 @@ deprovincialize
 deckswabber
 diakinesis
 debord
-depsid
 dragons
 diopside
 delictus
