@@ -3637,7 +3637,6 @@ arrant
 adenosine
 anatomised
 adenostoma
-adenotyphoid
 ailanthic
 adenotyphus
 antislickens
@@ -10232,6 +10231,7 @@ ameliorated
 anhydrated
 ars
 ameliorates
+adenotyphoid
 algins
 ameliorating
 anacrusis
