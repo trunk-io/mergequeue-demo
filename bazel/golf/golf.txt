@@ -1245,7 +1245,6 @@ guib
 granage
 gesticulator
 ged
-garbologist
 gavall
 gladkaite
 goethites
@@ -7066,6 +7065,7 @@ glossate
 guernsey
 gopherberries
 gist
+garbologist
 griffonne
 geomagnetism
 glaucously
