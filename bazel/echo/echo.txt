@@ -3773,7 +3773,6 @@ emender
 electroplax
 ethene
 expendables
-emendable
 emendandum
 eulogized
 ensindon
@@ -7784,6 +7783,7 @@ emergents
 equivalvular
 englify
 ensure
+emendable
 edelweisses
 epidialogue
 entelam
