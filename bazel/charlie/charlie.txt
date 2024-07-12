@@ -6740,6 +6740,7 @@ couac
 ceylonite
 ceils
 ceint
+compound
 counterquestion
 coathangers
 colligation
@@ -20905,7 +20906,6 @@ compotes
 compotiers
 catarrhally
 compotor
-compound
 compounded
 cotarnin
 carboxylating
