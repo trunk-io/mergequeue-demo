@@ -5151,6 +5151,7 @@ boskiness
 burbank
 bluebead
 bordereau
+baselard
 befretting
 buoyage
 befriended
@@ -9218,7 +9219,6 @@ biotypology
 blowhole
 bettered
 biotite
-baselard
 biotites
 bagasse
 bolometric
