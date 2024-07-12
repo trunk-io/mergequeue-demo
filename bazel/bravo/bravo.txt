@@ -1714,7 +1714,6 @@ bandstands
 beneplacit
 balsaminaceous
 balsamine
-bankside
 become
 balsamitic
 balsamiticness
@@ -16665,6 +16664,7 @@ belait
 buckers
 befringed
 brod
+bankside
 bucketer
 borosilicate
 browsability
