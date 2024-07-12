@@ -215,7 +215,6 @@ gaiety
 gangdom
 gunpowderous
 guanche
-gumwoods
 gen
 glyptics
 gillyflower
@@ -4511,6 +4510,7 @@ gypster
 gamb
 giraffidae
 gomutis
+gumwoods
 gills
 getter
 gigantine
