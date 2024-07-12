@@ -8912,7 +8912,6 @@ experiencer
 ee
 eyecups
 embossers
-epimorphism
 enteron
 equiprobable
 erewhile
@@ -9553,6 +9552,7 @@ evenhead
 entrust
 eugenesis
 extravasated
+epimorphism
 exempt
 esuriently
 esebrias
