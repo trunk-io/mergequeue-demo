@@ -3799,7 +3799,6 @@ cotsetle
 conficient
 carbineer
 carbines
-carbinol
 carbinols
 commensality
 carboazotine
@@ -18140,6 +18139,7 @@ coenobite
 contentless
 compactile
 coenobitical
+carbinol
 coenocentrum
 coenocytic
 carson
