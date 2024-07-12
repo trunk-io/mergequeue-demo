@@ -3713,7 +3713,6 @@ electrodialyzer
 endostylic
 euchologion
 erugation
-epitoke
 extras
 economite
 embroideries
@@ -8156,6 +8155,7 @@ electrovection
 emblemish
 elongate
 exothermicity
+epitoke
 episarcine
 embellish
 episarkine
