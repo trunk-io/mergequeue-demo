@@ -727,7 +727,6 @@ extramolecular
 ensamples
 ecophene
 erythropoietin
-emulsifier
 excepted
 entrenchments
 endocytotic
@@ -4458,6 +4457,7 @@ euryzygous
 exaggerator
 encash
 enlightenments
+emulsifier
 epicardiac
 epiphyllum
 encashing
