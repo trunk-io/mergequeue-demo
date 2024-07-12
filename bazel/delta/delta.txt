@@ -16154,7 +16154,6 @@ dovecot
 dhows
 dynamist
 dislustred
-decadarch
 dovehouse
 dovekies
 dovelet
@@ -16162,6 +16161,7 @@ divagate
 dovelike
 downers
 dephosphorization
+decadarch
 dovelikeness
 doveling
 diminishments
