@@ -3809,7 +3809,6 @@ anschauung
 articulary
 applauded
 adipopexia
-adipopexic
 adipopexis
 adiposeness
 adiposity
@@ -13281,6 +13280,7 @@ anisoin
 articulation
 anisoles
 anisoleucocytosis
+adipopexic
 axseeds
 aurifex
 agglutinability
