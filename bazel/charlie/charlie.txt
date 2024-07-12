@@ -530,7 +530,6 @@ clogmaker
 carbuilder
 cungevoi
 cadged
-cadger
 cacao
 cadgers
 cadgily
@@ -21158,6 +21157,7 @@ concavities
 concavo
 conceal
 concealable
+cadger
 cowy
 culicide
 concealedly
