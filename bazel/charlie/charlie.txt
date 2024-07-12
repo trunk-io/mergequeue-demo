@@ -5772,7 +5772,6 @@ catchments
 catchphrase
 catchpole
 cynoscion
-cheroot
 catchpoled
 catchpoleship
 catchpoll
@@ -6624,6 +6623,7 @@ cd
 cdf
 carid
 chemosorb
+cheroot
 cdg
 cdr
 ce
