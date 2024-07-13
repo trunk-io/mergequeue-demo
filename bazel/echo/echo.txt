@@ -8616,7 +8616,6 @@ embouchures
 encefalon
 eyeshots
 equielliptical
-euchloric
 equigranular
 equilateral
 equilaterally
@@ -10809,6 +10808,7 @@ expuition
 endogalvanism
 exercitant
 elasticate
+euchloric
 examiners
 expostulatingly
 eumemorrhea
