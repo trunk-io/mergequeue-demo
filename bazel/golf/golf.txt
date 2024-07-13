@@ -1491,6 +1491,7 @@ gasmaker
 guaxima
 glandless
 gorlin
+genapping
 geratology
 gremmie
 gasman
@@ -2445,7 +2446,6 @@ guttersnipes
 gibbetwise
 genitalic
 gospodar
-genapping
 guildite
 glottologist
 grandity
