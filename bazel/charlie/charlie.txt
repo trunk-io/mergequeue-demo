@@ -2569,6 +2569,7 @@ candlesticks
 cogniser
 candlewaster
 cambial
+crocoisite
 candlewasting
 coyan
 cordwoods
@@ -14125,7 +14126,6 @@ cipherdom
 causeur
 cyphered
 cipherer
-crocoisite
 cipherhood
 ciphering
 ciphers
