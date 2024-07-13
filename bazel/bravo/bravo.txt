@@ -297,6 +297,7 @@ bourgeoises
 britzkas
 backarrows
 backbar
+bedright
 backbencher
 backberand
 birkenhead
@@ -4740,7 +4741,6 @@ blast
 bedribble
 bureaucratic
 bedrift
-bedright
 bhalu
 burglarizes
 barque
