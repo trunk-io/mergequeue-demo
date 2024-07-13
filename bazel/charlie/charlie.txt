@@ -8638,6 +8638,7 @@ champleve
 chams
 chamsin
 compositionally
+congealedness
 corslet
 chanca
 chance
@@ -22236,7 +22237,6 @@ congealable
 compeered
 congealableness
 criticises
-congealedness
 congealing
 counterrate
 contraband
