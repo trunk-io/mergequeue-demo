@@ -4554,7 +4554,6 @@ diabetogenic
 demieagle
 demies
 dosimetric
-demifarthing
 demifigure
 demigardebras
 decentres
@@ -9100,6 +9099,7 @@ dictyoid
 diction
 disparage
 defang
+demifarthing
 dermatophobia
 difflation
 defigure
