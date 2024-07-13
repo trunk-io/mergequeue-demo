@@ -5519,7 +5519,6 @@ fletchers
 furrower
 fisc
 femme
-fleuret
 faked
 filionymic
 frowzy
@@ -9242,6 +9241,7 @@ forgeries
 falcopern
 fetishist
 fixtures
+fleuret
 friesic
 fetiales
 folious
