@@ -1144,7 +1144,6 @@ gulls
 goonda
 grift
 gaoled
-gaoling
 groatsworth
 glutinate
 gemman
@@ -6881,6 +6880,7 @@ gestations
 glaucopis
 giaour
 germans
+gaoling
 glyconin
 globalized
 geochemically
