@@ -9927,7 +9927,6 @@ beasties
 besmirches
 bitstone
 bitter
-biplosion
 besee
 bitterbloom
 boukit
@@ -16986,6 +16985,7 @@ buettneria
 becks
 bulblike
 bulbocapnine
+biplosion
 bryozoans
 biordinal
 bulbocavernosus
