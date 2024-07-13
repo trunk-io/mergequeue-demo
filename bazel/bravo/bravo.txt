@@ -7218,7 +7218,6 @@ bestirs
 bestock
 bestow
 bestowals
-bestower
 bestowment
 bestows
 burgee
@@ -7526,6 +7525,7 @@ bevesseled
 barrelmaking
 boneache
 bourbonism
+bestower
 bogwood
 betaine
 bevil
