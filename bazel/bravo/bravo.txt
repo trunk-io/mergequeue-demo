@@ -1409,6 +1409,7 @@ batoneer
 boscages
 bouffants
 bali
+bops
 bedye
 brankier
 begroan
@@ -12061,7 +12062,6 @@ brot
 bubonidae
 boycotted
 brachiated
-bops
 barbarians
 benzotetrazole
 boid
