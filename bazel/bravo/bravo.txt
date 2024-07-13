@@ -4784,7 +4784,6 @@ bignonias
 bedspring
 benedicite
 bolivars
-bedstand
 brazenface
 bikh
 beshrouded
@@ -6644,6 +6643,7 @@ bobcat
 bronchia
 beezers
 bergaptene
+bedstand
 brissotine
 bimane
 begreen
