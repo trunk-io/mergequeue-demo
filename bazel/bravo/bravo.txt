@@ -3120,6 +3120,7 @@ biphase
 balneotherapeutics
 branchway
 baseplug
+battening
 basepoint
 baser
 brazen
@@ -6302,7 +6303,6 @@ benthoses
 beguiler
 brinish
 bacteriolysin
-battening
 backwashes
 blockhouses
 blimp
