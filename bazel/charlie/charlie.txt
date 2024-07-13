@@ -1697,7 +1697,6 @@ cymling
 counterfallacy
 circumaxile
 calques
-caseconv
 cremule
 caltha
 calthrop
@@ -10037,6 +10036,7 @@ crystallophyllian
 conspurcate
 cambists
 crescographic
+caseconv
 cheney
 chenet
 capmakers
