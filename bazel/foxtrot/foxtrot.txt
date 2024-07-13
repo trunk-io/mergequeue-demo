@@ -831,7 +831,6 @@ fanlights
 fiddlehead
 foveolarious
 fragility
-fanfares
 frown
 fright
 frisk
@@ -3511,6 +3510,7 @@ figging
 foreskirt
 fleeches
 flacker
+fanfares
 fingerable
 foreseason
 fallback
