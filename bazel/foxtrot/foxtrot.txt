@@ -2428,6 +2428,7 @@ fantods
 feridjee
 fervidor
 formicivorous
+filtrable
 funnelling
 fusteric
 fingernail
@@ -8347,7 +8348,6 @@ fraternate
 forlornness
 form
 fluoroscopes
-filtrable
 formational
 fullerboard
 feverberry
