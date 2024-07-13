@@ -16607,6 +16607,7 @@ bowmaker
 blackarm
 battleship
 beanpole
+bejewelled
 brawls
 bucco
 butte
@@ -16740,7 +16741,6 @@ balaic
 buckwheats
 bonnaz
 bugsha
-bejewelled
 bucolically
 bucolicism
 belittlers
