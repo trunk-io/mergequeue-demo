@@ -3797,7 +3797,6 @@ adipinic
 adipocellulose
 adipocere
 adipoceriform
-adipocyte
 adipoid
 angiology
 amati
@@ -8252,6 +8251,7 @@ acceleratory
 atwo
 agouties
 ancylodactyla
+adipocyte
 alienage
 apocarpies
 alienated
