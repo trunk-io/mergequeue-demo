@@ -816,6 +816,7 @@ fortes
 flog
 fissidentaceae
 faun
+faveoli
 firebolt
 francophobia
 frogeyes
@@ -9676,7 +9677,6 @@ futharks
 flirtationless
 floyt
 freezy
-faveoli
 feign
 freezing
 fromage
