@@ -4211,7 +4211,6 @@ arachnidial
 algaesthesis
 armamentaria
 adornments
-adornos
 affy
 attestation
 argentation
@@ -24143,6 +24142,7 @@ autointoxicant
 animalculism
 autojigger
 autojuggernaut
+adornos
 anodynic
 ancylocladus
 assonantic
