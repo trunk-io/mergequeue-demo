@@ -5493,7 +5493,6 @@ dallack
 disenablement
 deorsum
 deorsumversion
-deossify
 deossification
 deota
 dissipates
@@ -15018,6 +15017,7 @@ dogfennel
 destroys
 dogfights
 dogfish
+deossify
 divus
 doggedness
 desecate

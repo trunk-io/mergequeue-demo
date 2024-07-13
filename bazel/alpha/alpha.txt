@@ -17225,7 +17225,6 @@ andamento
 alaunt
 apolistan
 aproctia
-aurignacian
 almendro
 apollinarian
 antiblock
@@ -22266,6 +22265,7 @@ afterdrops
 androseme
 astrobotany
 astrochemistry
+aurignacian
 astrocytic
 astrocytoma
 astrocytomas
