@@ -3417,7 +3417,6 @@ bastion
 bacteriopathology
 blendure
 bastionary
-bastionet
 bimillennium
 badgerly
 bastions
@@ -11454,6 +11453,7 @@ bluffy
 brownian
 bombers
 bestrut
+bastionet
 boxthorn
 bagplant
 bluey
