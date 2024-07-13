@@ -4577,7 +4577,6 @@ enam
 effigies
 encharging
 enchased
-exsolve
 ectochondral
 ectomesoblast
 encheason
@@ -10909,6 +10908,7 @@ euxine
 eyewashes
 edea
 empair
+exsolve
 exrupeal
 eocene
 encamped
