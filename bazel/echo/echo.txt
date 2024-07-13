@@ -9107,7 +9107,6 @@ extravascular
 ellipsometer
 erythrocytoschisis
 erythrocytosis
-ephebeum
 erythrodermia
 embryogony
 ethnohistorian
@@ -13235,6 +13234,7 @@ explicability
 edacity
 exsiliency
 endocranium
+ephebeum
 explicably
 eulogical
 epiphytically
