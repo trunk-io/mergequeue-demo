@@ -10638,7 +10638,6 @@ diplonts
 diplophase
 dosology
 diplophonic
-denatures
 diplopy
 dulias
 drey
@@ -18095,6 +18094,7 @@ dumbest
 draftage
 dumbfounderment
 dumbfounding
+denatures
 discourageable
 despisers
 dumby
