@@ -2319,7 +2319,6 @@ entrapper
 electroballistics
 earthquake
 electrobath
-electrobiological
 epicenity
 enchants
 epistroma
@@ -11607,6 +11606,7 @@ ewest
 engraphia
 emeras
 envenomous
+electrobiological
 everywhereness
 expatiation
 emergent
