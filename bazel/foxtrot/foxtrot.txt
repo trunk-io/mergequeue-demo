@@ -6532,7 +6532,6 @@ foreworn
 flutist
 ferrichloride
 frenchman
-flutter
 firebed
 forecover
 flutterboard
@@ -8939,6 +8938,7 @@ fabricate
 furrieries
 flabellarium
 fourragere
+flutter
 fermila
 flushing
 fiefdoms
