@@ -9438,6 +9438,7 @@ fondak
 fulica
 faux
 furcae
+falconbill
 fraternizing
 felspar
 forbearingly
@@ -11049,7 +11050,6 @@ flamenship
 frontality
 funambuloes
 filled
-falconbill
 functional
 farceuse
 fixups
