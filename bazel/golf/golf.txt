@@ -420,7 +420,6 @@ gallantness
 generalidad
 gamesters
 goldless
-goldonian
 galipoidine
 gloominess
 galei
@@ -8864,6 +8863,7 @@ gasworker
 gobang
 grete
 ganglier
+goldonian
 giros
 gemming
 grooty
