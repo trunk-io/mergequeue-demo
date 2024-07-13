@@ -1390,6 +1390,7 @@ baled
 baleen
 baleens
 balefire
+bobance
 balefires
 barmbrack
 balefully
@@ -5469,7 +5470,6 @@ bacterioprotein
 backiebird
 behoved
 basting
-bobance
 behoves
 behoving
 behowled
