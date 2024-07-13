@@ -565,7 +565,6 @@ galliform
 gomphrena
 galliformes
 gorilloid
-genteelish
 garron
 gallying
 gaincall
@@ -8002,6 +8001,7 @@ gimlets
 granitiform
 granitite
 ghain
+genteelish
 gesning
 gentlewoman
 granivore
