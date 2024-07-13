@@ -2368,7 +2368,6 @@ bardcraft
 barde
 beleve
 buckhorn
-bardes
 brabant
 bobtails
 bardesanite
@@ -5607,6 +5606,7 @@ bulletheaded
 bewigs
 barbitone
 businessmen
+bardes
 byelaws
 bedeen
 bellyfish
