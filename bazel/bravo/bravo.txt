@@ -152,7 +152,6 @@ biestings
 babs
 bibliopegist
 blendor
-bedrop
 besweeten
 bombastic
 babudom
@@ -13055,6 +13054,7 @@ borderlander
 bagpipe
 borderlight
 borderline
+bedrop
 braggartry
 bordrag
 biophysicochemical
