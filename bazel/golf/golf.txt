@@ -7400,6 +7400,7 @@ geodesy
 gades
 groundwater
 gazing
+gulpy
 gladiatory
 goura
 glyphography
@@ -7677,7 +7678,6 @@ genetic
 gemul
 gonystylaceae
 goldbugs
-gulpy
 grandma
 grime
 gaisling
