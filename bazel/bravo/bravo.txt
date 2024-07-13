@@ -13532,7 +13532,6 @@ botulisms
 brief
 brodequin
 briquette
-babuls
 bouch
 bouchaleen
 blacksmith
@@ -14306,6 +14305,7 @@ bandboxes
 bragi
 bragite
 blimps
+babuls
 bessi
 bird
 bragless
