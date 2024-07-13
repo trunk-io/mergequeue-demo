@@ -4712,7 +4712,6 @@ flannelleaf
 fixt
 floweret
 forevouched
-fabella
 fidded
 fructed
 fummel
@@ -6181,6 +6180,7 @@ flichters
 fcp
 foresaw
 farrieries
+fabella
 flowcharted
 festivals
 fragmentized
