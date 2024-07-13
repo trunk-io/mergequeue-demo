@@ -6329,7 +6329,6 @@ cofermentation
 colourize
 cecchine
 caulocarpic
-caulome
 caulomic
 caulosarc
 caulotaxis
@@ -21445,6 +21444,7 @@ concluder
 cymbium
 concluders
 concludes
+caulome
 correa
 cicadidae
 concludingly

@@ -4255,7 +4255,6 @@ enteropathogenic
 emunctory
 electroencephalographic
 enlay
-edison
 expectedly
 enamellers
 epicenes
@@ -13465,6 +13464,7 @@ extraconstitutional
 evenforth
 exsanguinate
 exsanguinating
+edison
 exposing
 ethmoidal
 eudaemonic
