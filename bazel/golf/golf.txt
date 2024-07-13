@@ -884,7 +884,6 @@ grassfire
 gobioid
 goosebird
 genome
-gametophyte
 gerridae
 gaelicist
 geld
@@ -4060,6 +4059,7 @@ gimleteyed
 gimleting
 gesnerad
 gimmal
+gametophyte
 geniculum
 gettysburg
 gargoyle
