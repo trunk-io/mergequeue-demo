@@ -8760,6 +8760,7 @@ frustula
 feoffing
 fosite
 flunks
+frailes
 fetchers
 flotillas
 fossage
@@ -9219,7 +9220,6 @@ flashier
 frillback
 ficin
 feminate
-frailes
 fissioning
 flopped
 frailness
