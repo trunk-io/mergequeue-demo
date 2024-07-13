@@ -5999,7 +5999,6 @@ geometry
 gutterman
 graspers
 giallolino
-galactophagous
 greige
 garmenture
 gingles
@@ -9684,6 +9683,7 @@ gospeler
 griffs
 gruelers
 glossography
+galactophagous
 graphologies
 gemel
 gametange
