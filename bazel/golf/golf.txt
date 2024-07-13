@@ -4426,7 +4426,6 @@ gunlayer
 gypped
 giardia
 gyp
-gyps
 greffier
 griskin
 gipsy
@@ -5107,6 +5106,7 @@ gentlehearted
 gnarred
 goldylocks
 grainless
+gyps
 glaucophanite
 goldcrest
 gallinaginous
