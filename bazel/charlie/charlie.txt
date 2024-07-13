@@ -14750,6 +14750,7 @@ cystolithiasis
 cystolithic
 cystoma
 cystomas
+corpusculum
 cystometer
 cystomyoma
 cystomyxoma
@@ -25695,7 +25696,6 @@ completed
 corpuscularity
 corpuscule
 corpusculous
-corpusculum
 chairlift
 corradial
 corradiate
