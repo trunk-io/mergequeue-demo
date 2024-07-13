@@ -4209,7 +4209,6 @@ apartado
 adorners
 arachnidial
 algaesthesis
-adornment
 armamentaria
 adornments
 adornos
@@ -10282,6 +10281,7 @@ amending
 autumns
 aphorism
 annulled
+adornment
 amendment
 amendments
 amene
