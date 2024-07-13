@@ -10809,7 +10809,6 @@ blenniiformes
 basiophitic
 brachistocephali
 boney
-blennioid
 byssus
 brahmism
 beaverboard
@@ -18317,6 +18316,7 @@ bioelectricities
 blennuria
 brahmans
 brightens
+blennioid
 bombardon
 brewst
 botherheaded
