@@ -2562,7 +2562,6 @@ fieldball
 fastus
 forehorse
 ferox
-forcy
 fainthearted
 farted
 facinorousness
@@ -5764,6 +5763,7 @@ furnage
 fernery
 frequentation
 fractuosity
+forcy
 fustier
 fluotantalate
 foredeserved
