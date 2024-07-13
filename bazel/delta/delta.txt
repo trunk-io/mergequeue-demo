@@ -7214,6 +7214,7 @@ doomsdays
 dehiscence
 detainee
 detaining
+disinfecter
 durwaun
 detainingly
 detar
@@ -12523,7 +12524,6 @@ disinfected
 deceivers
 dols
 decerns
-disinfecter
 dungier
 disowning
 disinfecting
