@@ -7489,7 +7489,6 @@ cadus
 copecks
 cephalosome
 campbellite
-cephalostyle
 cephalotaceae
 chalaziferous
 cephalotaxus
@@ -17303,6 +17302,7 @@ coaliest
 coalify
 caperer
 coalification
+cephalostyle
 clinopinacoidal
 coalifies
 coalifying
