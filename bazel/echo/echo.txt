@@ -3534,7 +3534,6 @@ enbibe
 embossing
 embossman
 exembryonate
-embottle
 elucidate
 empetrous
 esophagoplegia
@@ -4490,6 +4489,7 @@ executively
 emulators
 encephalitogenic
 encephalographic
+embottle
 ekphorize
 entosternum
 entrainer
