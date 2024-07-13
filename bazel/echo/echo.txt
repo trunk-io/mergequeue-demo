@@ -11451,6 +11451,7 @@ embryotic
 expdt
 evetide
 epenthetic
+encipherment
 elucidation
 engraving
 evocated
@@ -13813,7 +13814,6 @@ electrophilic
 episcope
 etymologists
 extracystic
-encipherment
 extracivic
 engenderer
 enscale
