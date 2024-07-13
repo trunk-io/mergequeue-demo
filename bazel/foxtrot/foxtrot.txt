@@ -2220,7 +2220,6 @@ forcipial
 feltwort
 flaggier
 felwort
-friseur
 femality
 faciobrachial
 forestery
@@ -3603,6 +3602,7 @@ frenchism
 fluviometer
 filed
 fogie
+friseur
 fencelet
 foremention
 filemaker
