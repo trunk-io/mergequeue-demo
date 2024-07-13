@@ -2263,7 +2263,6 @@ fichus
 filesave
 fainaiguer
 fusilades
-femme
 femora
 fen
 fenagled
@@ -5519,6 +5518,7 @@ factories
 fletchers
 furrower
 fisc
+femme
 fleuret
 faked
 filionymic
