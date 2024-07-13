@@ -731,7 +731,6 @@ greenshank
 galvanology
 geomechanics
 geomorphology
-galvanomagnetic
 galvanomagnetism
 gombeen
 gingerade
@@ -9625,6 +9624,7 @@ gummite
 gabies
 guisarme
 gospodin
+galvanomagnetic
 gufought
 gastrosplenic
 goodsire
