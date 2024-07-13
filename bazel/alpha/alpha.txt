@@ -17561,7 +17561,6 @@ arist
 abrenunciate
 appareling
 apparency
-apparent
 apparentements
 airify
 apparently
@@ -24264,6 +24263,7 @@ autophyte
 autophytic
 acquist
 aluminographic
+apparent
 autophytograph
 autophytography
 autophoby
