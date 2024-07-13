@@ -4969,6 +4969,7 @@ forwards
 fchar
 fluidised
 foining
+forsooth
 fourteens
 fendered
 flamen
@@ -8602,7 +8603,6 @@ fuzes
 foeticide
 figurial
 forslow
-forsooth
 forborn
 fytte
 farstepped
