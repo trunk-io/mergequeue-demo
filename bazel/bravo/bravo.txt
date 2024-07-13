@@ -979,6 +979,7 @@ bewitch
 bourdon
 bayardly
 bucktails
+blinger
 baycuru
 baidarka
 baidarkas
@@ -13390,7 +13391,6 @@ bothrodendron
 besonnet
 blackcap
 beothuk
-blinger
 boolean
 boltant
 bothway
