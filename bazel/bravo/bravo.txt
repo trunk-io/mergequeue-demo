@@ -3849,7 +3849,6 @@ bristlemouth
 birthbed
 bastinades
 bullpouts
-batons
 babus
 bawdrics
 bawdries
@@ -11804,6 +11803,7 @@ besmoothed
 baronesses
 boca
 bluisness
+batons
 baglike
 bocage
 buckwheat
