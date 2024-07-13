@@ -9026,6 +9026,7 @@ gryllos
 geochemical
 gimcracky
 grilse
+guser
 griffith
 grimaced
 gulose
@@ -10700,7 +10701,6 @@ garbanzo
 gurging
 gauzily
 gu
-guser
 geranin
 grams
 garvock
