@@ -4473,6 +4473,7 @@ fishplate
 feste
 fishpole
 fishpoles
+flensing
 flameproof
 fishponds
 fibrilled
@@ -8637,7 +8638,6 @@ funiculate
 furicane
 frizzier
 flapless
-flensing
 fathomable
 forthgaze
 forthgo
