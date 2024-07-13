@@ -14793,7 +14793,6 @@ dockets
 dockhand
 dockhouse
 dilambdodont
-daktylon
 deringers
 dockyards
 docking
@@ -17780,6 +17779,7 @@ disframe
 dasypaedes
 desoxycorticosterone
 depa
+daktylon
 desoxyanisoin
 duckbill
 dossing
