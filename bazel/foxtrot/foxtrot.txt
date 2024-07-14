@@ -4212,7 +4212,6 @@ felonries
 featherstitch
 flier
 foothold
-fringilliform
 fingerberry
 froe
 furlable
@@ -4622,6 +4621,7 @@ footnoting
 fistwise
 fit
 frangipane
+fringilliform
 fitchee
 flauntiness
 fratched
