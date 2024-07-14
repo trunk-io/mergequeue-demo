@@ -12818,7 +12818,6 @@ cataloguize
 chuff
 chuffer
 countercraft
-corruptions
 cauliflowers
 carpologist
 chugalug
@@ -14099,6 +14098,7 @@ coeditor
 cintre
 cinura
 cion
+corruptions
 cionectomy
 cionitis
 cionorrhaphia
