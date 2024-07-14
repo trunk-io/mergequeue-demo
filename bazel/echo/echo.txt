@@ -3860,6 +3860,7 @@ endodontic
 emigration
 eclogues
 equivote
+echeneis
 electrotonus
 extraboldface
 eminencies
@@ -11678,7 +11679,6 @@ eccentricity
 euchological
 exaggerates
 exaggeratingly
-echeneis
 enmask
 extralinguistically
 expends
