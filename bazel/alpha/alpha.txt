@@ -1560,7 +1560,6 @@ adjoin
 accomplicity
 accomplis
 accomplished
-apolog
 accomplisher
 arthrodesis
 archetto
@@ -10115,6 +10114,7 @@ ambreate
 antehuman
 acleistocardia
 acidimetry
+apolog
 ambreic
 ambrein
 archdiocese
