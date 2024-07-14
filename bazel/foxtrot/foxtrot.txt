@@ -7079,7 +7079,6 @@ floodwater
 fedayeen
 fluorogen
 foolish
-fluorochrome
 fribbling
 fleapit
 forespeech
@@ -11681,6 +11680,7 @@ foxskins
 flameholder
 fructiform
 fresne
+fluorochrome
 faade
 futtermassel
 futurama
