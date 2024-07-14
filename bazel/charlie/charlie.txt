@@ -10143,6 +10143,7 @@ cheskey
 campine
 cheslep
 coleochaete
+crestings
 chesoun
 chess
 chessboards
@@ -28845,7 +28846,6 @@ congrue
 crestal
 crestfallen
 churchwards
-crestings
 crestline
 chasings
 creta

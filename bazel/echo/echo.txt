@@ -5756,7 +5756,6 @@ englobe
 epigraphy
 expressions
 englobed
-englobing
 enneahedral
 empery
 envelopment
@@ -10613,6 +10612,7 @@ extravaganzas
 ecstasis
 engrailing
 expensing
+englobing
 evernioid
 eucryphia
 erythrodegenerative
