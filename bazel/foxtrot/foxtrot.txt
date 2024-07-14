@@ -717,6 +717,7 @@ francic
 famp
 famuli
 fana
+fcs
 fossilised
 feoffment
 fanakalo
@@ -11573,7 +11574,6 @@ fusileer
 foretack
 forpass
 foldout
-fcs
 flummery
 futhermore
 fixature
