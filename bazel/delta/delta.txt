@@ -5776,7 +5776,6 @@ decd
 depolarise
 drapeable
 depolarization
-darrell
 depolarize
 disleave
 dextrorsal
@@ -17838,6 +17837,7 @@ ductilize
 ductilized
 ductless
 drinkable
+darrell
 ductor
 ductules
 ductwork
