@@ -6594,6 +6594,7 @@ clannish
 commissaries
 caxon
 caxton
+campanula
 chokidar
 caxtonian
 comart
@@ -21998,7 +21999,6 @@ confidingness
 configural
 canteens
 coinsurable
-campanula
 coexclusive
 configurating
 configuration
