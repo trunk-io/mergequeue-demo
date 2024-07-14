@@ -11706,6 +11706,7 @@ bedding
 beneficience
 boatswains
 boattail
+blazoners
 boatward
 boatwright
 bob
@@ -18116,7 +18117,6 @@ brins
 breakwater
 benzal
 butcherdom
-blazoners
 bealtared
 buskin
 butcherer
