@@ -14199,7 +14199,6 @@ disusage
 deathful
 disuse
 disbranching
-disused
 disuses
 disutility
 disinsection
@@ -17719,6 +17718,7 @@ dubber
 drabnesses
 dubbin
 dubbing
+disused
 demipauldron
 discriminable
 dedifferentiation
