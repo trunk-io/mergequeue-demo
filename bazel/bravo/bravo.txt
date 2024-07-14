@@ -8910,6 +8910,7 @@ bathypelagic
 bioaccumulation
 bioactivities
 bioassaying
+byplace
 bioastronautical
 bioastronautics
 biobibliographer
@@ -9290,7 +9291,6 @@ bring
 bipyridyl
 bubale
 bothersomeness
-byplace
 biacuminate
 balewort
 bracteiform
