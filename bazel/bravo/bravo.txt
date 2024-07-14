@@ -5940,6 +5940,7 @@ backswordmen
 batswing
 blitzkrieg
 belast
+berber
 boreas
 belowground
 bothropic
@@ -6559,7 +6560,6 @@ berattle
 bakehead
 boatside
 basichromiole
-berber
 borickite
 berberi
 bout
