@@ -913,7 +913,6 @@ cakewalking
 caressant
 carnotite
 caky
-cultist
 clientelage
 consecration
 caking
@@ -5275,6 +5274,7 @@ casquet
 casquetel
 cassabas
 cassabully
+cultist
 crwth
 cassady
 champacs
