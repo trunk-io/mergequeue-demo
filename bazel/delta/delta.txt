@@ -1184,6 +1184,7 @@ datary
 dataries
 datasetname
 distractedness
+dithers
 datcha
 disparison
 dehydration
@@ -14268,7 +14269,6 @@ depravers
 deisms
 downcrying
 delies
-dithers
 deviationist
 donkeymen
 dithiobenzoic
