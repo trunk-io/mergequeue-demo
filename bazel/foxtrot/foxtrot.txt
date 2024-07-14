@@ -309,7 +309,6 @@ farset
 foaming
 filar
 fraternation
-fatiguability
 fag
 feint
 fostell
@@ -4305,6 +4304,7 @@ fingerling
 freudism
 fireweeds
 forsakes
+fatiguability
 fingerfish
 fulsomely
 ferdwit
