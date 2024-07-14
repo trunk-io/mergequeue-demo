@@ -298,6 +298,7 @@ forebar
 fumade
 flambeed
 frappeing
+filtratable
 forevalue
 faeryland
 fertilization
@@ -10989,7 +10990,6 @@ fumbled
 farde
 forecatharping
 frostiest
-filtratable
 flintiest
 furfurol
 fifers
