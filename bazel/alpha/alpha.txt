@@ -3631,7 +3631,6 @@ archaize
 armeriaceae
 amsonia
 autodigestion
-alphabetics
 abnegation
 adenophorous
 accumulative
@@ -21115,6 +21114,7 @@ asem
 asemasia
 anticar
 aecium
+alphabetics
 asemic
 asepses
 anagogical
