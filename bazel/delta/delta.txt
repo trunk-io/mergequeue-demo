@@ -8934,6 +8934,7 @@ dipyramid
 diceplay
 dyads
 diceras
+dmod
 dicerous
 disgout
 dollardom
@@ -14080,7 +14081,6 @@ distributionist
 distributions
 divariant
 distributiveness
-dmod
 deservingness
 dittoed
 distributivity
