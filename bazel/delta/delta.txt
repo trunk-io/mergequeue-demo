@@ -8339,6 +8339,7 @@ dentin
 db
 dispossess
 droob
+defocus
 diagraphs
 diagredium
 diagrydium
@@ -13952,7 +13953,6 @@ distinct
 distinctify
 distinctio
 distinction
-defocus
 dertrum
 disorganizer
 distinctity
