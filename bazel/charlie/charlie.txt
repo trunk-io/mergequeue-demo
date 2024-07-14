@@ -13113,7 +13113,6 @@ cocoa
 cyanoethylation
 crumbable
 crates
-cyanogenic
 cyanoguanidine
 cyanohermidin
 cyanole
@@ -25716,6 +25715,7 @@ correctively
 correctiveness
 convincers
 coryphaenoid
+cyanogenic
 circumvolant
 correctory
 chignon
