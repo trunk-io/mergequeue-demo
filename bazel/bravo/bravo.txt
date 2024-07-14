@@ -2846,6 +2846,7 @@ brushland
 barraging
 bailer
 braca
+battener
 becousined
 bens
 berried
@@ -3668,7 +3669,6 @@ batteling
 battels
 battement
 basisolute
-battener
 balladising
 batteners
 bankrupted
