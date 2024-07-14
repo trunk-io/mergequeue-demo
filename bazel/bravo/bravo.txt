@@ -4042,6 +4042,7 @@ beamman
 bskt
 beamroom
 baragnosis
+blitzkrieged
 beams
 beamwork
 birken
@@ -11579,7 +11580,6 @@ blurbist
 blurbs
 barkentine
 bananist
-blitzkrieged
 balladries
 bordellos
 blurredly
