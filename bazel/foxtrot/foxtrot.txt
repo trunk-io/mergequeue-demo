@@ -713,7 +713,6 @@ flagroot
 famous
 florigens
 francic
-floccule
 famp
 famuli
 fana
@@ -10680,6 +10679,7 @@ fairness
 fg
 fleuretty
 foulage
+floccule
 feater
 fringilla
 frugs
