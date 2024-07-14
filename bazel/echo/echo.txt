@@ -5858,7 +5858,6 @@ epigeum
 extrazodiacal
 exsiccate
 engrossedly
-embedder
 engrosser
 endocarditic
 eubacteriales
@@ -10769,6 +10768,7 @@ er
 ecdemite
 eulachan
 exhibiters
+embedder
 eulachans
 eulamellibranchiata
 eructate
