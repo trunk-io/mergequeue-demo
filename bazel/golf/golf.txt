@@ -3062,7 +3062,6 @@ gleanable
 gliff
 garo
 geophilid
-geophilidae
 galvanoscopic
 groined
 glossotomies
@@ -5607,6 +5606,7 @@ glochid
 gemology
 garnice
 gradable
+geophilidae
 gymnasium
 glycidic
 golfers
