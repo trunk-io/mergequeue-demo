@@ -9635,7 +9635,6 @@ cautioning
 circumferences
 checkpoint
 checkpointed
-concursus
 checkpointing
 combmaking
 checkpoints
@@ -9758,6 +9757,7 @@ cheesecloths
 cheesecutter
 cheesed
 caramba
+concursus
 cheeselep
 cheeselip
 cephalochorda
