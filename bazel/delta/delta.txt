@@ -1776,6 +1776,7 @@ debark
 dropseed
 drawknife
 debarking
+digamist
 discede
 debarkment
 doohickeys
@@ -7483,7 +7484,6 @@ decomposability
 demurity
 dopster
 downtowner
-digamist
 deuced
 dizenment
 deuces
