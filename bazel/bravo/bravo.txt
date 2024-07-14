@@ -13924,6 +13924,7 @@ billback
 burka
 bowstaff
 bowstring
+burial
 bacteriotropic
 binoculate
 bowstringed
@@ -16319,7 +16320,6 @@ brawling
 benchmarking
 balalaikas
 brujos
-burial
 beglerbeglik
 broadways
 brulee
