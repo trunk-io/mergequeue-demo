@@ -4493,6 +4493,7 @@ fishskin
 frankenia
 flattercap
 fashioned
+furthermost
 foreloop
 fishspear
 fluffier
@@ -11487,7 +11488,6 @@ fuzzle
 foothill
 farms
 facilities
-furthermost
 figural
 falkland
 furthest
