@@ -6085,7 +6085,6 @@ curatory
 candify
 catlike
 crowns
-catlin
 catling
 catlings
 catlins
@@ -28676,6 +28675,7 @@ crena
 crenae
 clival
 celtophobia
+catlin
 crenallation
 cuchulainn
 crenate
