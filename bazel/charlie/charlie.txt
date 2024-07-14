@@ -8740,7 +8740,6 @@ curtness
 complementaries
 cohesionless
 changelessness
-changeling
 changelings
 changement
 changeover
@@ -18464,6 +18463,7 @@ cathedral
 cognominated
 cognomination
 cognoscent
+changeling
 castelli
 cognoscente
 cutikin
