@@ -3641,7 +3641,6 @@ caractacus
 caradoc
 carafes
 censors
-cornicing
 cattleyas
 clangor
 cocineras
@@ -19485,6 +19484,7 @@ cephalopagus
 carbohydrazide
 cup
 colormaker
+cornicing
 colorman
 coloroto
 colors
