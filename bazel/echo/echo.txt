@@ -5414,7 +5414,6 @@ eneclann
 emydosauria
 empetraceae
 electuary
-exsomatic
 ened
 eurithermophile
 epidia
@@ -11445,6 +11444,7 @@ explorers
 eluctation
 enhaloing
 encephalosis
+exsomatic
 ependymary
 everted
 epileptiform
