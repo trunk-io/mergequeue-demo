@@ -10381,7 +10381,6 @@ counterpole
 citoyens
 chickenbill
 chickenbreasted
-clerks
 chickened
 crosspoints
 cacodoxy
@@ -20392,6 +20391,7 @@ clothier
 canada
 conjee
 caripeta
+clerks
 commutableness
 caphtor
 commutant
