@@ -2459,6 +2459,7 @@ buphaga
 busies
 barf
 blens
+bifunctional
 bultow
 britzka
 bruting
@@ -8287,7 +8288,6 @@ biformed
 berthage
 biformity
 bifront
-bifunctional
 bhavani
 blanketflower
 bifurcated
