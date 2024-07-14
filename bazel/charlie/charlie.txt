@@ -1030,7 +1030,6 @@ calcaire
 calcanea
 chimpanzee
 calcanean
-calcaneoastragalar
 calcaneoastragaloid
 calcaneoplantar
 countersale
@@ -3951,6 +3950,7 @@ cuffer
 cosponsored
 cataphracta
 carburetter
+calcaneoastragalar
 cameist
 carburetting
 carburettor
