@@ -6539,7 +6539,6 @@ ahum
 amicableness
 arboretum
 ahunt
-ahura
 azocyclic
 ahush
 ahuula
@@ -21288,6 +21287,7 @@ asymptotes
 asymptotically
 asymtote
 aquafortist
+ahura
 aggrievement
 asymtotic
 aldern

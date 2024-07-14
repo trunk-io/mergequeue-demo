@@ -2467,7 +2467,6 @@ bandelet
 barfish
 barfs
 bargain
-bergmannite
 bargainable
 buckraming
 billbugs
@@ -7091,6 +7090,7 @@ bethylid
 bespeckled
 blindman
 bespectacled
+bergmannite
 bogie
 beefless
 brontometer
