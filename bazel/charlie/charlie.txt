@@ -5261,7 +5261,6 @@ credens
 casky
 clearer
 casking
-casklike
 casks
 caspar
 castings
@@ -11226,6 +11225,7 @@ chronology
 chivw
 chiwere
 clumper
+casklike
 chizz
 chizzel
 chkfile
