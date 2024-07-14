@@ -2844,7 +2844,6 @@ canonicate
 canonisation
 cornbin
 contermine
-ciliolum
 cadaverine
 canonised
 canoniser
@@ -26654,6 +26653,7 @@ counsellors
 counselor
 countability
 cellos
+ciliolum
 countably
 coccyges
 cicatrizant

@@ -1763,7 +1763,6 @@ eulogisation
 electric
 eer
 eyepiece
-eyepit
 everard
 embattle
 eyepoint
@@ -3950,6 +3949,7 @@ elkhound
 empale
 empalers
 empaling
+eyepit
 empall
 exhilaratory
 excurvation
