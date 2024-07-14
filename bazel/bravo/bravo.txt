@@ -6655,7 +6655,6 @@ bergs
 boneshave
 bodegon
 beribanded
-beribbon
 bluestem
 bargeboard
 barbarious
@@ -14703,6 +14702,7 @@ bobbling
 braunite
 braunites
 bacury
+beribbon
 bonbonniere
 baluchistan
 brauronia
