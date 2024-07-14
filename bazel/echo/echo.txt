@@ -5761,6 +5761,7 @@ epigraphy
 expressions
 englobed
 englobing
+enneahedral
 empery
 envelopment
 extirp
@@ -6156,7 +6157,6 @@ evagation
 entertainers
 entrancing
 extrasomatic
-enneahedral
 eyepoints
 eustatic
 enneandrian
