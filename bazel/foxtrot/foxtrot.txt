@@ -6118,6 +6118,7 @@ florisugent
 flinder
 fanfare
 forsook
+foretriangle
 fleyland
 flamens
 floush
@@ -11259,7 +11260,6 @@ flagellants
 frumaryl
 filibusterer
 fenks
-foretriangle
 ferrean
 finbacks
 forrit
