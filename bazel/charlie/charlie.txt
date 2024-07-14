@@ -5123,6 +5123,7 @@ cascabel
 cascabels
 coestate
 cytocide
+chemoprophylaxis
 cascable
 cascadable
 cascade
@@ -9963,7 +9964,6 @@ chemophysiology
 chemoprophyalctic
 cycle
 chemoprophylactic
-chemoprophylaxis
 cruiser
 chemoreception
 chemoreceptive
