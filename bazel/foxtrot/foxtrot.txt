@@ -1075,7 +1075,6 @@ farmership
 formicarian
 frieda
 flaxbush
-foredawn
 farmyard
 farmyardy
 focalization
@@ -7547,6 +7546,7 @@ freeholding
 forelegs
 fulmen
 furuncles
+foredawn
 faille
 felsite
 fanal
