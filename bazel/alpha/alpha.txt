@@ -1516,7 +1516,6 @@ accoll
 arrastre
 angiostenosis
 arietation
-autoradiography
 accolle
 accolled
 apparens
@@ -15045,6 +15044,7 @@ anticryptically
 achyrodes
 anticrisis
 anticritic
+autoradiography
 anticritical
 anticritically
 astrose
