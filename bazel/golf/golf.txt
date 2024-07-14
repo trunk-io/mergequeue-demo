@@ -606,6 +606,7 @@ gallisin
 gunslingers
 geophysicist
 gallivant
+gryphon
 gallivanters
 glide
 galactemia
@@ -8410,7 +8411,6 @@ geotaxis
 gelada
 glossingly
 gov
-gryphon
 ginglymoarthrodial
 gilders
 goodlihead
