@@ -5067,7 +5067,6 @@ gravery
 glassmaking
 grav
 grittier
-guerdonless
 gunman
 garboards
 guernseyed
@@ -8541,6 +8540,7 @@ gametically
 gasolines
 genealogical
 gerontal
+guerdonless
 geothermometer
 graziers
 glossagra
