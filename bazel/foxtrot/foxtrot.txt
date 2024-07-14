@@ -2125,7 +2125,6 @@ feal
 forebodies
 facture
 finetop
-fingertip
 frument
 fellable
 fanned
@@ -8977,6 +8976,7 @@ fourteener
 fleshlier
 fourteenths
 flatirons
+fingertip
 fencing
 fourth
 flappering
