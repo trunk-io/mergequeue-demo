@@ -390,6 +390,7 @@ folkland
 fairground
 fairy
 fairyhood
+fructuous
 futurize
 forthbringer
 flareboard
@@ -10611,7 +10612,6 @@ fatigues
 frontward
 finched
 fructuate
-fructuous
 fliting
 festooned
 fulani
