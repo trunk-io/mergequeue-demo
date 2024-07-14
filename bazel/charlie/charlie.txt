@@ -5773,7 +5773,6 @@ catchpole
 cocona
 cynoscion
 catchpoled
-catchpoleship
 catchpoll
 catchpolling
 copperheads
@@ -24313,6 +24312,7 @@ cormus
 counterexample
 cnidaria
 cooees
+catchpoleship
 cooey
 complements
 cooeys
