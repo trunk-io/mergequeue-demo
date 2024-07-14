@@ -5070,6 +5070,7 @@ boundedness
 beflag
 barkevikite
 bamboo
+binits
 beflagged
 bodymaking
 beflagging
@@ -6213,7 +6214,6 @@ bourn
 berengelite
 bengalese
 bengola
-binits
 bipartient
 biaxal
 beni
