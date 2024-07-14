@@ -6394,7 +6394,6 @@ bollen
 benzofuran
 benzofuryl
 bracted
-barmote
 boundure
 biozone
 belgium
@@ -11831,6 +11830,7 @@ bioresearch
 bigamists
 bocoy
 bod
+barmote
 bodach
 bdl
 bihamate
