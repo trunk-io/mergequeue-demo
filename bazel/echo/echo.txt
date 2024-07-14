@@ -10051,7 +10051,6 @@ etched
 efford
 eutectics
 etching
-esodic
 electrotest
 eteostic
 efik
@@ -10890,6 +10889,7 @@ enlivenments
 emborders
 econometrics
 ergot
+esodic
 enologist
 excised
 encalendar
