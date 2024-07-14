@@ -2154,7 +2154,6 @@ achirite
 achkan
 anthophilous
 achlamydate
-achlamydeae
 achlorhydria
 ammobium
 aflame
@@ -4530,6 +4529,7 @@ adverting
 advertisable
 advertiser
 advertisers
+achlamydeae
 albication
 arrowstone
 amulets
