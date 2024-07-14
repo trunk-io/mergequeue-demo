@@ -386,7 +386,6 @@ flows
 flittered
 fairfieldite
 faceoff
-fastigated
 folkland
 fairground
 fairy
@@ -1013,6 +1012,7 @@ fards
 firethorn
 friarbird
 fares
+fastigated
 faretta
 financialist
 foresaid
