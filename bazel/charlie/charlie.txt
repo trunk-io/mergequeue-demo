@@ -8199,7 +8199,6 @@ caressable
 cattle
 chaffinches
 chaffless
-chafflike
 chaffman
 culicines
 codiniac
@@ -21185,6 +21184,7 @@ czardom
 conceivableness
 carnify
 chital
+chafflike
 conceived
 conceiver
 conceiving
