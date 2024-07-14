@@ -1859,7 +1859,6 @@ beshrew
 brooded
 branle
 bandle
-bandleader
 bedrel
 blastoff
 breadwinners
@@ -4415,6 +4414,7 @@ belchers
 bypassing
 becloaks
 blackfriars
+bandleader
 becloak
 bereavement
 boojum
