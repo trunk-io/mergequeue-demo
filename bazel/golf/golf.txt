@@ -4596,7 +4596,6 @@ ganch
 glossae
 gillhooter
 glycose
-guilder
 golliwogg
 gyrocompasses
 germanyl
@@ -9681,6 +9680,7 @@ grudgingly
 gult
 gyroidally
 grueled
+guilder
 ghana
 gamogony
 gibuses
