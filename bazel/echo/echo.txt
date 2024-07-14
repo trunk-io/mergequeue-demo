@@ -251,6 +251,7 @@ electroplated
 expiries
 eloignment
 easterling
+enqueue
 ecrevisse
 epeirogenic
 enantioblastic
@@ -6894,7 +6895,6 @@ entomologist
 entomologize
 echinosphaeritidae
 entrap
-enqueue
 entomologized
 enstatolite
 ebcasc
