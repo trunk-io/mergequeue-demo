@@ -2884,7 +2884,6 @@ decupling
 draper
 diphyzooid
 domus
-diageotropism
 detainers
 deerlike
 decurion
@@ -5380,6 +5379,7 @@ denticulate
 dentiferous
 dentification
 dentifrice
+diageotropism
 dentil
 dentilation
 dentiled
