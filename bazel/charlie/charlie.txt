@@ -13568,6 +13568,7 @@ cif
 camerawork
 cig
 cigaret
+coolants
 cigarette
 cystenchyma
 cigarettes
@@ -14729,7 +14730,6 @@ catalogued
 cystoepithelioma
 crosby
 croceins
-coolants
 cystofibroma
 cosmopolicy
 cystogenesis
