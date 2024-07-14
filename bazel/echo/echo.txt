@@ -4494,7 +4494,6 @@ executively
 emulators
 encephalitogenic
 encephalographic
-embottle
 ekphorize
 entosternum
 entrainer
@@ -11200,6 +11199,7 @@ evanishment
 ekronite
 elinguation
 embussed
+embottle
 electragist
 enviroment
 exonuclease
