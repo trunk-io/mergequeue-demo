@@ -16021,7 +16021,6 @@ denigrate
 dabster
 dockers
 dekagrams
-doubleton
 doublette
 discoid
 decursively
@@ -18344,6 +18343,7 @@ duodedenums
 dinah
 duodena
 duodenary
+doubleton
 duodenate
 declension
 duodenation
