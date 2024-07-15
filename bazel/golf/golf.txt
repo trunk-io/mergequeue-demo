@@ -4180,7 +4180,6 @@ gippers
 gliosa
 gigantosaurus
 gonidiose
-geisothermal
 graniform
 ghibelline
 gynaecic
@@ -4686,6 +4685,7 @@ gisel
 gisement
 gibbsite
 glazily
+geisothermal
 glycerate
 gigged
 galchic
