@@ -3443,7 +3443,6 @@ gynospore
 gestical
 gesticulant
 gesticulations
-gestning
 gentiin
 gallimaufries
 grosbeak
@@ -5712,6 +5711,7 @@ gloveress
 glossiphonia
 gimmaled
 ganglioneuron
+gestning
 glossitis
 gelts
 guttule
