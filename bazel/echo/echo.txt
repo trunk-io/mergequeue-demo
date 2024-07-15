@@ -8905,7 +8905,6 @@ embowel
 elfdom
 ensilaging
 exp
-ergate
 ergative
 ecclesiastic
 extracorporeally
@@ -12336,6 +12335,7 @@ exertion
 exertionless
 estuate
 exertions
+ergate
 exertive
 enurny
 exesion
