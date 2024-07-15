@@ -4681,6 +4681,7 @@ denarius
 diswench
 darkroom
 demiscible
+dicebox
 demise
 demisecond
 demised
@@ -8913,7 +8914,6 @@ depolariser
 domines
 dice
 diceboard
-dicebox
 dilemi
 daunomycin
 disbud
