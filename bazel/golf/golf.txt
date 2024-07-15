@@ -5436,7 +5436,6 @@ goi
 glyptodontoid
 gymnophiona
 gracelike
-gethsemane
 griphosaurus
 gaea
 glyptolith
@@ -8019,6 +8018,7 @@ ganderteeth
 gribane
 glossodynia
 gamone
+gethsemane
 granola
 gaiters
 geomorphogeny
