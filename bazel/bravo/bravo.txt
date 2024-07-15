@@ -3159,7 +3159,6 @@ booklores
 byland
 beauclerk
 bukat
-bolis
 bollandist
 blastozooid
 bromelia
@@ -11630,6 +11629,7 @@ buceros
 boardwalks
 battledored
 benefactrix
+bolis
 brachyural
 blockishly
 biunivocal
