@@ -2190,7 +2190,6 @@ frontiers
 fluorescence
 folkmoot
 falsities
-ferromagneticism
 felonwort
 fraela
 flatterdock
@@ -9969,6 +9968,7 @@ flocculated
 flavin
 forcleave
 frightener
+ferromagneticism
 frightens
 fontes
 frighting
