@@ -4295,6 +4295,7 @@ blouselike
 bebrush
 bebuttoned
 bowtie
+barkeepers
 blubbers
 bushbodies
 brattach
@@ -5205,7 +5206,6 @@ basification
 breadboards
 barkeeps
 begar
-barkeepers
 bandos
 blastogenetic
 bodingly
