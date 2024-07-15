@@ -10146,7 +10146,6 @@ cheslep
 coleochaete
 crestings
 chesoun
-chess
 chessboards
 counterfugue
 collab
@@ -14981,6 +14980,7 @@ cytomorphological
 cyton
 cytone
 chorda
+chess
 cartmaker
 cobberer
 cytoparaplastin
