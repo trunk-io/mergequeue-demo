@@ -12214,7 +12214,6 @@ ancilla
 anticks
 asimen
 ancillaries
-aulostomidae
 ancylopod
 acneiform
 acrider
@@ -14086,6 +14085,7 @@ antejudiciary
 antelocation
 accord
 antelopes
+aulostomidae
 antelucan
 apriorist
 acenaphthene
