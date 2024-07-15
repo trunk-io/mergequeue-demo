@@ -5256,7 +5256,6 @@ dampens
 denotativeness
 denotatum
 deacidifying
-denote
 denotes
 destructuralize
 denoting
@@ -17981,6 +17980,7 @@ dukedom
 dukedoms
 dukes
 deifical
+denote
 deseasonalize
 dukkeripen
 dukuma
