@@ -2801,7 +2801,6 @@ endoubt
 enshrine
 enshrining
 eleotrid
-elepaio
 elephancy
 elephant
 eeling
@@ -4863,6 +4862,7 @@ enjamb
 enterohemorrhage
 encroachments
 encrustation
+elepaio
 enculturation
 ergatandromorph
 essenis
