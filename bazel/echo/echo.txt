@@ -4503,7 +4503,6 @@ encephalolith
 encephalomas
 escudo
 encephalomeningocele
-exhalation
 evenglome
 encephalometric
 endoerythrocytic
@@ -13111,6 +13110,7 @@ enpia
 engages
 esophagorrhagia
 experimental
+exhalation
 ectromelic
 encroaches
 empaestic
