@@ -5346,7 +5346,6 @@ besoothement
 begowk
 begowned
 buyable
-benchboard
 begray
 barodynamic
 barbarisation
@@ -15708,6 +15707,7 @@ brochant
 brochantite
 bananaquit
 buccinal
+benchboard
 beneficent
 broche
 brochettes
