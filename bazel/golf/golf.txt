@@ -5791,7 +5791,6 @@ goony
 gnatworm
 genupectoral
 goniometer
-greyfly
 geometricist
 glouted
 globoid
@@ -8836,6 +8835,7 @@ geostatic
 glenwood
 greypate
 guesthouses
+greyfly
 greisen
 gregau
 greisens
