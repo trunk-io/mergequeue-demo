@@ -8177,7 +8177,6 @@ campaspe
 chimaeras
 chafeweed
 chaff
-chaffcutter
 chaffed
 chaffer
 cymballike
@@ -20416,6 +20415,7 @@ cuirass
 comose
 comourn
 comourner
+chaffcutter
 cybister
 comox
 cistae
