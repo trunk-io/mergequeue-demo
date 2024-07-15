@@ -2838,7 +2838,6 @@ gallize
 gelsemium
 genua
 gruel
-gales
 gondolet
 genuflecting
 gaberdine
@@ -3549,6 +3548,7 @@ groundsill
 glovers
 galactoid
 goetae
+gales
 gillygaupus
 granitification
 ghastliness
