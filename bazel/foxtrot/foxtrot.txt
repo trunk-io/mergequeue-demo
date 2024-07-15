@@ -1756,7 +1756,6 @@ foist
 feastraw
 feather
 foreordainment
-featherbedded
 finned
 featherbird
 florentium
@@ -6528,6 +6527,7 @@ fleeting
 figurally
 fourstrand
 fluted
+featherbedded
 faintish
 filmlands
 frills
