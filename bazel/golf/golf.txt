@@ -254,6 +254,7 @@ geoplagiotropism
 grenada
 groser
 gigavolt
+geomagnetism
 griquaite
 gummata
 galiongee
@@ -7073,7 +7074,6 @@ gist
 garbologist
 griffonne
 gothics
-geomagnetism
 glaucously
 gatter
 greekling
