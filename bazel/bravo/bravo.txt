@@ -1564,6 +1564,7 @@ biradial
 binate
 ballista
 boilermaker
+basketlike
 beatinest
 ballistae
 beyerite
@@ -3291,7 +3292,6 @@ bison
 baggiest
 beings
 bathflower
-basketlike
 bandurria
 basketmaker
 basketmaking
