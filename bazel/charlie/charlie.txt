@@ -2065,6 +2065,7 @@ clotheshorses
 campaigners
 cercarias
 campaigns
+colostric
 campana
 campane
 campanella
@@ -23640,7 +23641,6 @@ capitular
 cubomancy
 comforts
 contortions
-colostric
 contorts
 commos
 contour
