@@ -3415,7 +3415,6 @@ blot
 bastinado
 bastinadoing
 bastings
-bastion
 bacteriopathology
 blendure
 bastionary
@@ -10462,6 +10461,7 @@ baritone
 boviform
 bribetaking
 beachboy
+bastion
 boghole
 boyards
 barytostrontianite
