@@ -1863,7 +1863,6 @@ gamelote
 germaniums
 gliss
 groundable
-gaucie
 gowd
 gummier
 guan
@@ -5678,6 +5677,7 @@ gant
 gloriosity
 grizzler
 grenat
+gaucie
 glandulous
 gristliest
 greenlandman
