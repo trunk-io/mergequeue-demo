@@ -3486,6 +3486,7 @@ equidiagonal
 elevens
 essential
 emboitement
+exopterygotic
 elliptic
 ekes
 epepophysial
@@ -5056,7 +5057,6 @@ engrains
 elatha
 endocyst
 educatory
-exopterygotic
 endotheloid
 endocystitis
 experted
