@@ -1887,7 +1887,6 @@ amphioxididae
 acetamid
 acetamidin
 arrector
-acetamidine
 acetaminol
 acetaminophen
 acetanilid
@@ -16318,6 +16317,7 @@ antitobacconist
 antitonic
 artistical
 aluta
+acetamidine
 antitoxic
 antitoxin
 airwaves
