@@ -9980,7 +9980,6 @@ groset
 guatibero
 gansa
 ghastlier
-gyric
 guauaenok
 grysbok
 guava
@@ -10665,6 +10664,7 @@ gliding
 gorb
 gurgitation
 gladius
+gyric
 gagmen
 gurglet
 galp
