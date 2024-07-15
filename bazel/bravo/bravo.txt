@@ -3425,6 +3425,7 @@ boughpot
 bef
 bastite
 brushfire
+brigade
 basto
 baguios
 bucklandite
@@ -15334,7 +15335,6 @@ brieve
 beanier
 beslings
 birthstone
-brigade
 brigaded
 bapistery
 blondine
