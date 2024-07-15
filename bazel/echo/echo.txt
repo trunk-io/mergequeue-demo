@@ -2458,7 +2458,6 @@ electrohemostasis
 epicleses
 endexines
 exairesis
-electroimpulse
 electroing
 electrokinetic
 eluviate
@@ -12430,6 +12429,7 @@ exhibitors
 effude
 epapillate
 elengely
+electroimpulse
 ea
 eyestalk
 entotympanic
