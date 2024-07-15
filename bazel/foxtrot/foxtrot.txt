@@ -5695,7 +5695,6 @@ flimsiness
 flinch
 flagleaf
 feck
-fullered
 fishnets
 flub
 fortunize
@@ -6687,6 +6686,7 @@ forenotice
 foemanship
 foemen
 forethoughtfully
+fullered
 filemarks
 flaringly
 foetation
