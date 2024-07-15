@@ -2350,7 +2350,6 @@ fibres
 favoring
 fenter
 flippest
-fungiform
 furner
 foots
 falbalas
@@ -7206,6 +7205,7 @@ foreground
 footpad
 favellidia
 feodary
+fungiform
 forewarner
 forepeak
 filature
