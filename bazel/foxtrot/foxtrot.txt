@@ -2075,7 +2075,6 @@ feldspar
 farewelling
 ft
 fendillation
-feldspath
 favissae
 fusulas
 fieldfare
@@ -8936,6 +8935,7 @@ floggable
 flite
 fertilizability
 fiacre
+feldspath
 feverwort
 favositoid
 forewoman
