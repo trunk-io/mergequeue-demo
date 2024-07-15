@@ -6854,7 +6854,6 @@ cellarers
 cellaress
 chanceable
 caudal
-cellaret
 caffeine
 cellarette
 cellarmen
@@ -15403,6 +15402,7 @@ cordant
 copalchi
 clamouring
 clamourist
+cellaret
 congous
 clamourous
 checkrow
