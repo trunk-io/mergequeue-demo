@@ -1953,6 +1953,7 @@ gams
 gaurian
 gaurie
 gaurs
+gulist
 gester
 gimbri
 gaussage
@@ -9592,7 +9593,6 @@ greeny
 ganoidean
 guld
 gentian
-gulist
 gerbe
 grandiose
 gowds
