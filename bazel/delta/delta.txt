@@ -1736,6 +1736,7 @@ deathrates
 deaths
 deathsman
 dumble
+derogation
 didelphous
 disaccord
 depaysee
@@ -1780,7 +1781,6 @@ doohickeys
 debarment
 dialogic
 debarrance
-derogation
 disguisedness
 debarring
 duply
