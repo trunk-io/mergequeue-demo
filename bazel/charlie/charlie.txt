@@ -3064,7 +3064,6 @@ canvasing
 canvaslike
 causata
 canvasser
-canzon
 canzona
 canzones
 canzonet
@@ -30194,6 +30193,7 @@ cruent
 colmar
 cruentation
 cruentous
+canzon
 caneton
 cruet
 cruety
