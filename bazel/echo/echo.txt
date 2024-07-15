@@ -73,7 +73,6 @@ eulalia
 earmarkings
 equitation
 earmuff
-electrooptics
 earnable
 essayer
 earned
@@ -7333,6 +7332,7 @@ electuaries
 ephah
 emission
 enact
+electrooptics
 escaping
 epanisognathism
 expositively
