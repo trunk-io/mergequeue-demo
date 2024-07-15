@@ -4874,7 +4874,6 @@ fracticipita
 faunus
 fetted
 firepower
-formative
 fleay
 fainer
 fossores
@@ -6785,6 +6784,7 @@ foresworn
 felonweed
 foiter
 fraxin
+formative
 fronded
 fissate
 focal
