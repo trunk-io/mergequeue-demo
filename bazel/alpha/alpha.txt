@@ -5695,7 +5695,6 @@ ascertainer
 afloat
 appunctuation
 argillocalcareous
-asphodelus
 ambilian
 agamically
 agamidae
@@ -9849,6 +9848,7 @@ autosomatognosis
 autotherapy
 antiae
 anamnionata
+asphodelus
 antimasker
 amasesis
 amass
