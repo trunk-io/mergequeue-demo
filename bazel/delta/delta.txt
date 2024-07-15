@@ -8285,7 +8285,6 @@ disomaty
 ductus
 distrito
 diaglyptic
-diagnose
 diagnosed
 diagnostical
 diagnostically
@@ -14655,6 +14654,7 @@ dizzily
 dramaturgic
 doter
 djagatay
+diagnose
 djagoong
 disemboguement
 djave
