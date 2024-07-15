@@ -5449,7 +5449,6 @@ divagational
 deobstruct
 deodand
 deodar
-dependencies
 deodorisation
 deodorised
 deodoriser
@@ -14883,6 +14882,7 @@ demonism
 dowitcher
 dolorifuge
 dezincation
+dependencies
 diacoelosis
 dodded
 dodder
