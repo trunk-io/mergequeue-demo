@@ -2129,7 +2129,6 @@ detectors
 disturbs
 diosmosis
 decantist
-decapitable
 decapitates
 decapitation
 decapitations
@@ -16805,6 +16804,7 @@ drawfile
 demurely
 decurtate
 disallowances
+decapitable
 debaters
 dissuited
 disillusionize
