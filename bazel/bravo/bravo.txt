@@ -3693,7 +3693,6 @@ branches
 barotraumata
 battlefronts
 bringall
-bifollicular
 battlement
 barnstorms
 battler
@@ -15435,6 +15434,7 @@ batonnier
 bindheimite
 brimly
 barry
+bifollicular
 banshees
 breakdowns
 bilgy
