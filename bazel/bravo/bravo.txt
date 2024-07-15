@@ -9829,7 +9829,6 @@ bocca
 bitable
 bidialectal
 bonce
-bytalk
 bytalks
 bitanhol
 bitartrate
@@ -16469,6 +16468,7 @@ bursattee
 brusqueness
 brusquest
 brussel
+bytalk
 bestrode
 bowdlerize
 brustle
