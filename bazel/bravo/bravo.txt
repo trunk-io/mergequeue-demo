@@ -613,7 +613,6 @@ behearse
 bacterid
 birdcages
 bacteriogenous
-bacteriohemolysin
 brin
 bletherskate
 bisellia
@@ -15645,6 +15644,7 @@ broadenings
 bribee
 bacteriosis
 bisulcated
+bacteriohemolysin
 bauxitite
 bundlet
 bluster
