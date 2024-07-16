@@ -4694,6 +4694,7 @@ glycerate
 gigged
 galchic
 gelatia
+generis
 gastraeas
 guanacos
 gallinula
@@ -9963,7 +9964,6 @@ greekism
 glyptic
 gravat
 gipsyfy
-generis
 goldi
 gozell
 gomorrean
