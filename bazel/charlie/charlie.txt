@@ -5843,7 +5843,6 @@ categorisation
 currish
 categorise
 categorised
-cleistothecia
 chansonnier
 cultivated
 cochlearia
@@ -19556,6 +19555,7 @@ colporrhaphy
 camoufleurs
 colporrhea
 colporrhexis
+cleistothecia
 colport
 colportage
 colporter
