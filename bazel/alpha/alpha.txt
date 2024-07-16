@@ -243,7 +243,6 @@ abbreviators
 abc
 abcissa
 abcoulomb
-abd
 aba
 abdat
 abashing
@@ -385,6 +384,7 @@ allision
 acapnial
 aby
 alangin
+abd
 abdicating
 antiprohibition
 asbestinize
