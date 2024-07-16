@@ -2440,6 +2440,7 @@ aciculas
 anatexes
 alswith
 abnormalities
+adornments
 acleistous
 appall
 aclidian
@@ -4206,7 +4207,6 @@ apartado
 adorners
 arachnidial
 armamentaria
-adornments
 affy
 attestation
 argentation
