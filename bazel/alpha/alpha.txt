@@ -11909,7 +11909,6 @@ anaplasia
 antimitotic
 anaplasma
 anaplasmoses
-anaplasmosis
 anaplasty
 anosmia
 anaplerosis
@@ -21999,6 +21998,7 @@ astasia
 actings
 astatine
 archaicism
+anaplasmosis
 astatines
 anaerobism
 astatize

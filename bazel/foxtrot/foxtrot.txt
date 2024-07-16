@@ -5535,7 +5535,6 @@ factories
 fletchers
 furrower
 fisc
-femme
 faked
 filionymic
 frowzy
@@ -10174,6 +10173,7 @@ forbit
 foreguidance
 fishless
 forepredicament
+femme
 folksinging
 feued
 frizing
