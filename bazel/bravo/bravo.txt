@@ -923,7 +923,6 @@ beverage
 basiophthalmite
 bahay
 bahaist
-biochemics
 blocs
 bahamian
 bahamians
@@ -6652,6 +6651,7 @@ boneshave
 bodegon
 beribanded
 bluestem
+biochemics
 bargeboard
 barbarious
 beriber
