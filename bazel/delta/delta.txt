@@ -10908,7 +10908,6 @@ diruption
 dereference
 deployed
 disable
-daren
 denazify
 disabled
 doorplates
@@ -12871,6 +12870,7 @@ decreeable
 driftway
 dyebeck
 demerited
+daren
 dismissal
 dismissals
 dismissed
