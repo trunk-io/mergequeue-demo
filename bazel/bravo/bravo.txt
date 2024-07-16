@@ -828,6 +828,7 @@ backband
 bootblack
 bagdad
 bagdi
+begoniaceae
 batterfang
 bauxites
 bagful
@@ -5337,7 +5338,6 @@ begone
 boxlike
 billbergia
 begonia
-begoniaceae
 begoniales
 backslapping
 ballisticians
