@@ -4079,7 +4079,6 @@ aureolae
 antilyssic
 admonitionist
 antenna
-admonitions
 anabranch
 anabasis
 acrasia
@@ -8333,6 +8332,7 @@ aurung
 alimentation
 amusgo
 abstractly
+admonitions
 alimentativeness
 avoir
 arsenium
