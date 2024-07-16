@@ -9988,7 +9988,6 @@ andrenid
 abreacting
 avidya
 ambidextrously
-ambience
 avellan
 arbutes
 ambiency
@@ -16779,6 +16778,7 @@ atees
 arrestee
 aphasiacs
 aphasics
+ambience
 aristogenics
 anabaptized
 aphelandra
