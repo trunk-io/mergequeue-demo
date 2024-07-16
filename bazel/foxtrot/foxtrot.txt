@@ -2407,7 +2407,6 @@ faddish
 falconiformes
 frogling
 fucivorous
-frowzly
 feudist
 fenchol
 ferganite
@@ -4465,6 +4464,7 @@ fledgier
 floppiest
 fishman
 floorward
+frowzly
 flossy
 fraternizer
 fishmouth
