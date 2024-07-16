@@ -4299,7 +4299,6 @@ gawks
 gemuetlich
 golp
 geodesist
-genetor
 galeopsis
 grubroot
 gingered
@@ -7325,6 +7324,7 @@ gallach
 gynostemia
 goter
 gastrohysterectomy
+genetor
 geometroid
 gormaw
 glycogenase
