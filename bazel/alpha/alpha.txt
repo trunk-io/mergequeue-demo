@@ -6591,7 +6591,6 @@ aeromechanical
 aeolina
 ayenst
 antibaryon
-autoclaved
 alectrionidae
 aigialosaur
 aigialosauridae
@@ -21694,6 +21693,7 @@ aventure
 assented
 assenter
 arquerite
+autoclaved
 alewife
 aaru
 acetimetric
