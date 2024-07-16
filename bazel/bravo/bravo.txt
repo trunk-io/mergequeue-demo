@@ -5615,6 +5615,7 @@ biochemistries
 belah
 billingsgate
 belaying
+bogie
 belam
 bettas
 brabblement
@@ -7089,7 +7090,6 @@ bespeckled
 blindman
 bespectacled
 bergmannite
-bogie
 beefless
 brontometer
 besped
