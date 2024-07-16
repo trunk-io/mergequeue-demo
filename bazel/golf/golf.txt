@@ -342,7 +342,6 @@ gley
 ghostwrites
 gasogenic
 gorefish
-glovey
 gangrenous
 gunsmith
 giftedness
@@ -7615,6 +7614,7 @@ grader
 gradgrind
 grouseward
 gangman
+glovey
 gradient
 galey
 gradin
