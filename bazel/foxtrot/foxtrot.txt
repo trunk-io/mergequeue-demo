@@ -7449,6 +7449,7 @@ frutilla
 filer
 factures
 fordableness
+featless
 floodproof
 fordy
 flidder
@@ -9414,7 +9415,6 @@ freewheeling
 friction
 furacana
 fairyish
-featless
 franz
 foliiferous
 forbear
