@@ -4008,7 +4008,6 @@ caracter
 compartmental
 crystalloluminescence
 carcinolysin
-carcinolytic
 carcinological
 carcinologist
 carcinoma
@@ -29414,6 +29413,7 @@ crispest
 cymbals
 crispier
 cryptophyte
+carcinolytic
 contemporizing
 crispiest
 crispin
