@@ -4616,7 +4616,6 @@ carnivoral
 carnivore
 carnivorism
 cordialness
-carnivorous
 carnivorously
 comart
 carnivorousness
@@ -26187,6 +26186,7 @@ charcutiers
 cosmopolitanising
 centurions
 cosmopolitanism
+carnivorous
 cosmopolitanization
 cosmopolitanized
 cosmopolitans
