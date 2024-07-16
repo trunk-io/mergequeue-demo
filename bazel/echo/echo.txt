@@ -3963,6 +3963,7 @@ emparchment
 enruin
 embarrassingly
 empathetic
+extramodal
 empathies
 empatron
 etrurian
@@ -13913,7 +13914,6 @@ extrametrical
 extramission
 erythrism
 eliminatory
-extramodal
 ectoderm
 extramoral
 electee
