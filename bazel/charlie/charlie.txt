@@ -5118,7 +5118,6 @@ chlamydomonadaceae
 casave
 casavi
 casbah
-casbahs
 cascabel
 cascabels
 coestate
@@ -6315,6 +6314,7 @@ ceroplast
 caulis
 caulivorous
 caulk
+casbahs
 caulkers
 crustation
 callosomarginal
