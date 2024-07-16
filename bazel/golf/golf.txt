@@ -4205,7 +4205,6 @@ griph
 grabble
 gilts
 gynandria
-gynandrian
 gynandries
 gladiators
 gynandromorphy
@@ -6576,6 +6575,7 @@ gulped
 goulan
 ghostwrite
 gingivolabial
+gynandrian
 gelsemin
 gale
 guff
