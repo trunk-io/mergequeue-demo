@@ -6349,7 +6349,6 @@ gloriosa
 gippo
 ganoblast
 garnitures
-goitre
 gofer
 given
 getspace
@@ -9272,6 +9271,7 @@ gigabyte
 gigglesome
 gat
 groceryman
+goitre
 gardnap
 gaur
 gastric
