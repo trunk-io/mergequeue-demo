@@ -3077,6 +3077,7 @@ caoutchoucin
 cap
 calandria
 capa
+conferrable
 capability
 charks
 capable
@@ -21896,7 +21897,6 @@ cephalemia
 conferences
 conferencing
 conferential
-conferrable
 conferral
 creodont
 conferred
