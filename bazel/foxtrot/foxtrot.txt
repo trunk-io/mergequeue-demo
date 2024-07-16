@@ -5047,6 +5047,7 @@ freelage
 flankers
 foists
 folksier
+flashtester
 faith
 fissive
 flaneur
@@ -11149,7 +11150,6 @@ forefather
 funereally
 fluvio
 funfair
-flashtester
 fiddly
 figged
 firings
