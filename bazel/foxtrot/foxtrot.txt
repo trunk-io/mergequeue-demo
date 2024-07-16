@@ -2980,6 +2980,7 @@ flagonless
 flyboy
 furazane
 frustums
+fencing
 farfetch
 fluellite
 filamented
@@ -8980,7 +8981,6 @@ fleshlier
 fourteenths
 flatirons
 fingertip
-fencing
 fourth
 flappering
 fincas
