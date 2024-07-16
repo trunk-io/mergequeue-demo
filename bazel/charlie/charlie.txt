@@ -9945,7 +9945,6 @@ chemolytic
 cicero
 chemolyze
 chemopallidectomy
-chemopause
 countable
 conquinamine
 clamp
@@ -25809,6 +25808,7 @@ chilostoma
 corrody
 celloist
 corrodiary
+chemopause
 corroded
 crucifige
 corrodibility
