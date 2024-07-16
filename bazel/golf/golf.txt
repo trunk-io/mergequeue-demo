@@ -4219,7 +4219,6 @@ glossing
 gammoned
 gnawed
 ginned
-gorgons
 guanylic
 gynarchic
 grisard
@@ -5955,6 +5954,7 @@ gibbers
 gutless
 gestapo
 glumosity
+gorgons
 gonopodia
 governante
 germlike
