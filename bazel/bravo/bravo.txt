@@ -2964,7 +2964,6 @@ becowarding
 bioassay
 blarneyer
 barse
-barsom
 barstools
 bart
 bartend
@@ -15128,6 +15127,7 @@ biddulphiaceae
 bryanism
 briar
 buckbean
+barsom
 bahuvrihis
 briard
 bromins
