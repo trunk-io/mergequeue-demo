@@ -5195,7 +5195,6 @@ caserns
 cases
 caseum
 caseweed
-caseworker
 caseworks
 caseworm
 casha
@@ -24689,6 +24688,7 @@ clothmaking
 copperahs
 counterindoctrinate
 copperases
+caseworker
 creneled
 corage
 copperbottom
