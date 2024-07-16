@@ -4067,7 +4067,6 @@ cestui
 cleronomy
 cardiacle
 cardiagra
-chanter
 camomiles
 cardiagram
 cardiagraph
@@ -29385,6 +29384,7 @@ cryptozygy
 cryptozygosity
 cryptozygous
 crozle
+chanter
 chorographic
 cryptozoic
 cryptozoite
