@@ -3682,6 +3682,7 @@ batteries
 batteryman
 batterman
 bullockman
+bindlet
 batters
 baylike
 batty
@@ -7064,7 +7065,6 @@ bespangling
 bespate
 brickbatted
 bezzant
-bindlet
 bennetweed
 bespattered
 briquetting
