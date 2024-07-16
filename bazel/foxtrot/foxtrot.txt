@@ -3780,6 +3780,7 @@ fangotherapy
 falconet
 fibers
 flambeing
+fertilizability
 funnily
 faultlessly
 fortressed
@@ -8933,7 +8934,6 @@ floit
 fourball
 floggable
 flite
-fertilizability
 fiacre
 feldspath
 feverwort
