@@ -577,7 +577,6 @@ anthropomancy
 abnegator
 aesthophysiology
 abnegators
-anatomicopathological
 arytenoidal
 abnormal
 arrosion
@@ -4401,6 +4400,7 @@ addressor
 adulticidal
 adulticide
 adultness
+anatomicopathological
 aberdavine
 adumbrated
 abductores
