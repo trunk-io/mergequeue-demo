@@ -673,7 +673,6 @@ bronchiolitis
 bathyesthesia
 baculine
 boiseries
-baculiticone
 baculoid
 baculus
 badaga
@@ -17758,6 +17757,7 @@ bumfs
 burnsian
 burnside
 bilharzia
+baculiticone
 burnt
 backwasher
 bretelle
