@@ -9967,7 +9967,6 @@ brian
 bx
 bituminous
 bisecting
-bitwise
 beryllate
 biune
 bilinguality
@@ -15487,6 +15486,7 @@ brioches
 baud
 bawcock
 bisso
+bitwise
 bimas
 bryony
 biplicate
