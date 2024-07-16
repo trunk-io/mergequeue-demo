@@ -2597,6 +2597,7 @@ decoy
 dacoitage
 decoke
 deathtraps
+detonate
 decoll
 drumbling
 dumbcow
@@ -16829,7 +16830,6 @@ deliquescent
 dendrodus
 drawlatch
 devilish
-detonate
 diaphanoscopy
 deflowerment
 deprecatingly
