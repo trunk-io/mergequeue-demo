@@ -3799,7 +3799,6 @@ emerge
 ecart
 emerged
 edulcorated
-endosteal
 emergence
 echinostomiasis
 elaboration
@@ -13961,6 +13960,7 @@ extraparochial
 extraparochially
 equicurve
 extrapatriarchal
+endosteal
 embezzles
 extraperineal
 emceed
