@@ -10446,7 +10446,6 @@ frontspieces
 fleet
 frontstall
 forstall
-featurish
 ferocity
 ferrado
 foredestined
@@ -11464,6 +11463,7 @@ flic
 firebases
 flaccidly
 furcule
+featurish
 flaffer
 furfurylidene
 fortitudes
