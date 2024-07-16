@@ -7199,6 +7199,7 @@ germanocentric
 getah
 gangion
 garlicmonger
+garlic
 governorate
 gourmands
 grailer
@@ -9987,7 +9988,6 @@ gelsemiumia
 ghettoizes
 gubbins
 geoethnic
-garlic
 gubernacular
 gubernation
 glutamic
