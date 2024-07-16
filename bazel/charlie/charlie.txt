@@ -6733,6 +6733,7 @@ connexivum
 ceiling
 ceilings
 ceilingwards
+copiability
 couche
 ceilometer
 couac
@@ -11494,7 +11495,6 @@ choanephora
 choanocytal
 choanocyte
 choanoflagellate
-copiability
 choanoflagellida
 cotta
 choanophorous
