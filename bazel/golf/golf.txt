@@ -1265,7 +1265,6 @@ gardevisure
 gluey
 ginkgo
 gitanemuk
-grippers
 gloria
 gestation
 garefowl
@@ -10233,6 +10232,7 @@ generaliser
 guildhall
 ghosted
 gunny
+grippers
 guzzled
 guile
 garous
