@@ -18338,7 +18338,6 @@ coffrets
 coffs
 cofighter
 cellmate
-cofinal
 casearia
 coforeknown
 clownishness
@@ -21569,6 +21568,7 @@ concurrently
 concurrentness
 corsepresent
 coercer
+cofinal
 concurring
 concurs
 christologist
