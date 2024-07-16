@@ -3744,6 +3744,7 @@ battutos
 blastomeric
 batwing
 beswitch
+betatrons
 batwomen
 brevipennate
 blastocolla
@@ -7278,7 +7279,6 @@ betask
 bottier
 babbage
 birde
-betatrons
 buccolingual
 betaxed
 boke
