@@ -3485,7 +3485,6 @@ capsomers
 capstan
 capstans
 capstone
-commons
 capsula
 cons
 capsular
@@ -29735,6 +29734,7 @@ commencement
 consignment
 conbinas
 crookedest
+commons
 crookedly
 crookedness
 crookery
