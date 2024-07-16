@@ -7162,6 +7162,7 @@ copt
 confluences
 centigrams
 centile
+cendre
 centiles
 caudatum
 clunker
@@ -19058,7 +19059,6 @@ colleger
 creedless
 collegia
 collegialism
-cendre
 churchmanly
 collegiateness
 collegiation
