@@ -2590,6 +2590,7 @@ genetika
 gurgeon
 gathering
 grolier
+gospodipoda
 gargety
 genetoid
 globulysis
@@ -5331,7 +5332,6 @@ gammadion
 gliddery
 gourdiness
 gazella
-gospodipoda
 gowkedness
 grimful
 groutiest
