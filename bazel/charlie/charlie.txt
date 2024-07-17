@@ -6262,6 +6262,7 @@ caudodorsal
 covertness
 caudofemoral
 caudolateral
+curstness
 centetidae
 countershout
 caudotibialis
@@ -31529,7 +31530,6 @@ cyriological
 cycliae
 curstful
 curstfully
-curstness
 curt
 curtailed
 curtailedly
