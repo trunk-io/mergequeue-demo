@@ -215,7 +215,6 @@ carpological
 cabrilla
 cabrillas
 ceratosa
-cabriolet
 cabrit
 cabs
 cabstands
@@ -15339,6 +15338,7 @@ clayweed
 chlorphenol
 crassina
 clam
+cabriolet
 clamant
 circumnavigatory
 clamantly
