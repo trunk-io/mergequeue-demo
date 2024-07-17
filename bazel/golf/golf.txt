@@ -2212,7 +2212,6 @@ gey
 graphics
 geopolitik
 gladiatorism
-gallantry
 gradation
 glasswort
 gospeller
@@ -3685,6 +3684,7 @@ giarre
 gastaldo
 gastroelytrotomy
 geobios
+gallantry
 gibber
 gaslightness
 gibberella
