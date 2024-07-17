@@ -3208,7 +3208,6 @@ gunrack
 geriatrician
 geriatrist
 gerip
-gerland
 goxes
 gynecomaniac
 german
@@ -9316,6 +9315,7 @@ gravestones
 genear
 guignol
 glopnen
+gerland
 gossoons
 groins
 grolieresque
