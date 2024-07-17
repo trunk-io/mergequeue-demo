@@ -9632,7 +9632,6 @@ cricotracheotomy
 checkrein
 checkroll
 compathy
-checkrooms
 checkrope
 checkrowed
 checkrower
@@ -23294,6 +23293,7 @@ consultable
 carbora
 commote
 calmative
+checkrooms
 cutlash
 cresotinate
 complainers
