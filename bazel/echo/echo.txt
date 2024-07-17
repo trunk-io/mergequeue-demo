@@ -3490,7 +3490,6 @@ equidiagonal
 elevens
 essential
 emboitement
-exopterygotic
 elliptic
 embassage
 ekes
@@ -13590,6 +13589,7 @@ endoblastic
 experienced
 ears
 ethnomusicologically
+exopterygotic
 erme
 extends
 emblemed
