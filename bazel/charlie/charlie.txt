@@ -10079,7 +10079,6 @@ clansmanship
 ceremonialists
 chalcon
 catepuce
-cheroots
 coffles
 cheries
 cosmotron
@@ -25382,6 +25381,7 @@ cornfactor
 comprising
 champs
 cornfields
+cheroots
 cornflag
 countersiege
 cornflakes
