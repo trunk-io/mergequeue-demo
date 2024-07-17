@@ -6347,7 +6347,6 @@ dermoblast
 demidog
 dendrologist
 diaplasis
-distributable
 dejectory
 dermobranchiata
 dermobranchiate
@@ -15184,6 +15183,7 @@ delight
 decahydrate
 dissemilative
 dolabra
+distributable
 dolabrate
 doli
 dyslogistically
