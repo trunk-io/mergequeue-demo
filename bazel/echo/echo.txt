@@ -9670,7 +9670,6 @@ entangleable
 equipper
 espagnole
 elaeagnus
-exciter
 enfrai
 euchologies
 endowing
@@ -12844,6 +12843,7 @@ ecologic
 exothermal
 exothermically
 erythrolysis
+exciter
 ecphorization
 emendated
 eisteddfods
