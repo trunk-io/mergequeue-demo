@@ -4852,7 +4852,6 @@ gyrotheca
 graveled
 gladiola
 granatite
-gypsyesque
 goldurns
 goldhammer
 gaberlunzie
@@ -7622,6 +7621,7 @@ gradiometric
 gaup
 gastrophilus
 granzita
+gypsyesque
 gynostemium
 glaringness
 gynandrophore
