@@ -7937,7 +7937,6 @@ administered
 aleppo
 alerce
 alerse
-agravic
 agglutinates
 alert
 alerta
@@ -24916,6 +24915,7 @@ awakener
 algometer
 alopekai
 awakeners
+agravic
 awakening
 awakeningly
 awakenment
