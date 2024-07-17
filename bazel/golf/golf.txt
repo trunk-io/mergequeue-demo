@@ -3836,7 +3836,6 @@ galeoid
 gravidae
 glossem
 geminated
-gammarus
 glossocarcinoma
 genitally
 graphomotor
@@ -6111,6 +6110,7 @@ greatly
 gnathostome
 gjetosts
 gyre
+gammarus
 gnosis
 gnostic
 glaky
