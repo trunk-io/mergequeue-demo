@@ -1245,7 +1245,6 @@ amylodextrin
 acanthopteran
 acanthopterygian
 attached
-adagial
 acanthopterygii
 acanthoses
 acanthotic
@@ -4028,6 +4027,7 @@ automan
 admissory
 acromion
 admit
+adagial
 allowanced
 admits
 admittable
