@@ -9901,6 +9901,7 @@ chemicobiologic
 collocates
 chemicodynamic
 chemicoluminescent
+cyclostome
 chemicomineralogical
 chemicopharmaceutical
 chemicophysical
@@ -11488,7 +11489,6 @@ cho
 complete
 conventionalism
 choachyte
-cyclostome
 choak
 choana
 choanate
