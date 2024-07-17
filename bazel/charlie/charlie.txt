@@ -10903,7 +10903,6 @@ chip
 chipchop
 chipewyan
 chiplet
-chipling
 chipmuck
 culvert
 chipmunk
@@ -13035,6 +13034,7 @@ cyanamid
 cyanamide
 conspires
 coextension
+chipling
 coaxially
 cyanate
 cyanates
