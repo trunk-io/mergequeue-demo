@@ -6406,7 +6406,6 @@ ensignry
 ensilages
 espaliered
 enervates
-episcopal
 ensile
 enwound
 ensiled
@@ -12850,6 +12849,7 @@ efecks
 exoticist
 encircled
 exoterically
+episcopal
 exoticness
 ensconcing
 exotics
