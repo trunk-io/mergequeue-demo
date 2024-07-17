@@ -1200,7 +1200,6 @@ galavants
 gramy
 gooseliver
 gonakie
-guidage
 grackles
 guana
 garb
@@ -9560,6 +9559,7 @@ graphical
 glamorized
 groveless
 gyrinid
+guidage
 groveller
 greenweed
 gauteite
