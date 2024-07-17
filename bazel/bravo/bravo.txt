@@ -2476,7 +2476,6 @@ bedark
 brachyoura
 barge
 bergere
-bargehouse
 bargelike
 bravura
 bargellos
@@ -9416,6 +9415,7 @@ bluecaps
 birdseye
 birdsnest
 bungfu
+bargehouse
 birdstone
 befitting
 basichromatic
