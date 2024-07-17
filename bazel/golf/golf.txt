@@ -157,7 +157,6 @@ gamboges
 grandson
 glassworm
 gerontocratic
-grenelle
 gag
 garoted
 gambits
@@ -4408,6 +4407,7 @@ greffier
 griskin
 gipsy
 graveyard
+grenelle
 goyle
 gipsydom
 giddyhead
