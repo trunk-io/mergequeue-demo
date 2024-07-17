@@ -4938,7 +4938,6 @@ carageen
 carrs
 carses
 cogitable
-carshops
 carsick
 carsickness
 caviteno
@@ -15816,6 +15815,7 @@ chrysohermidin
 chirotype
 chrysograph
 claviger
+carshops
 clavilux
 coy
 carlisle
