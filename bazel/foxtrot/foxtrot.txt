@@ -9854,6 +9854,7 @@ fungo
 fremitus
 friary
 forjudges
+frogs
 fouler
 friarling
 falconidae
@@ -10249,7 +10250,6 @@ fgrid
 fishweed
 flamingoes
 foundationed
-frogs
 ferronickel
 fermentor
 fluorimeter
