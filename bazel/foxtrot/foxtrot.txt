@@ -525,7 +525,6 @@ fresher
 funambulant
 folium
 falcons
-folkboat
 falculate
 falcunculus
 falderals
@@ -10704,6 +10703,7 @@ faradays
 fenny
 fortran
 forelaid
+folkboat
 fluoridating
 frumpier
 formamidoxime
