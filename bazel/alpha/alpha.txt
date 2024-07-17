@@ -8993,7 +8993,6 @@ allose
 allosyndesis
 allosyndetic
 acaena
-abusable
 allosome
 allosteric
 allotee
@@ -19193,6 +19192,7 @@ arctation
 attendances
 arteriectasia
 aberrations
+abusable
 antepretonic
 antiparliamenteer
 alemannic
