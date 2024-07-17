@@ -5797,7 +5797,6 @@ catechistic
 catechistical
 catechists
 coween
-catechizable
 catechization
 catechizer
 cojoin
@@ -8416,6 +8415,7 @@ chalkotheke
 chalkpit
 chalkrail
 circumflect
+catechizable
 calycanthemous
 chalkstone
 chalkworker
