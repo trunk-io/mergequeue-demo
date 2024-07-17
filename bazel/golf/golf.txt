@@ -2968,7 +2968,6 @@ glottidean
 gorgoniacean
 gryde
 grumble
-gelong
 glassed
 guildsmen
 geomancer
@@ -9107,6 +9106,7 @@ gluily
 gittern
 grisounite
 gummosis
+gelong
 gigful
 grinning
 greg
