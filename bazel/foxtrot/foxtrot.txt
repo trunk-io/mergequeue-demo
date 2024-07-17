@@ -5365,6 +5365,7 @@ feedbin
 fettles
 flatland
 flanken
+fascia
 ferulaic
 foldboater
 foreclosed
@@ -7794,7 +7795,6 @@ forensics
 fritterers
 fluorocarbons
 foreordinate
-fascia
 furcular
 finns
 filterman
