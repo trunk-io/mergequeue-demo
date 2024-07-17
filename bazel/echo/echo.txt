@@ -1848,7 +1848,6 @@ epispastic
 enginous
 enigmatical
 eighth
-eighths
 extendable
 eighties
 exhalable
@@ -9389,6 +9388,7 @@ escalator
 escalier
 eupepsia
 exilition
+eighths
 eucti
 erythrean
 esseda
