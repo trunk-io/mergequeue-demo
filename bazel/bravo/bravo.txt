@@ -13640,7 +13640,6 @@ blockaders
 bunglings
 brantail
 bounded
-belonite
 bridgepot
 bounder
 bounders
@@ -14780,6 +14779,7 @@ breacher
 breachers
 beneficiate
 blendes
+belonite
 burritos
 bulborectal
 breachful
