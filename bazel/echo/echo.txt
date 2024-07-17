@@ -4107,7 +4107,6 @@ endophyllous
 employee
 endives
 exedral
-elastance
 epirote
 eiffel
 ensheathed
@@ -10829,6 +10828,7 @@ eluviation
 encumber
 enureses
 eunicidae
+elastance
 eleanor
 ethide
 emanation
