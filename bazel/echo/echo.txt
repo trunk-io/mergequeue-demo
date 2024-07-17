@@ -1166,7 +1166,6 @@ edition
 endere
 editor
 editorialization
-editorialized
 elsa
 eater
 ecphory
@@ -13558,6 +13557,7 @@ extance
 erik
 etuvee
 extemporally
+editorialized
 eisegesis
 endostea
 edriophthalmian
