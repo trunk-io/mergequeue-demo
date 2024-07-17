@@ -6320,6 +6320,7 @@ gummage
 genderless
 gymnolaemata
 gloriosa
+graft
 gippo
 ganoblast
 garnitures
@@ -10013,7 +10014,6 @@ gone
 gentlemanship
 guaranian
 geomys
-graft
 gamba
 gumdigger
 garlandwise
