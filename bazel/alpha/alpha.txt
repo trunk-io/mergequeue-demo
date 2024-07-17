@@ -2997,7 +2997,6 @@ appearances
 actinograph
 aporobranchiata
 acrosporous
-anurous
 antipodes
 asbolin
 actinographic
@@ -20582,6 +20581,7 @@ assimilations
 arthrodiran
 accumb
 arthrodirous
+anurous
 arthrodonteae
 alteza
 actinomere
