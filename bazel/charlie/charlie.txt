@@ -2462,6 +2462,7 @@ cancrophagous
 cancrum
 cancrums
 cand
+coacervated
 candareen
 candelabra
 candelabras
@@ -22905,7 +22906,6 @@ conserved
 cham
 conserver
 cassaba
-coacervated
 conservers
 conserves
 colposcope
