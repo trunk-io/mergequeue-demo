@@ -9937,7 +9937,6 @@ chemolysis
 chemolytic
 cicero
 chemolyze
-chemopallidectomy
 countable
 conquinamine
 clamp
@@ -20320,6 +20319,7 @@ communalizer
 chorographies
 communed
 communer
+chemopallidectomy
 cashiers
 communes
 cytostroma
