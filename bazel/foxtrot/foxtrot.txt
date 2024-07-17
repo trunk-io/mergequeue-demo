@@ -1603,6 +1603,7 @@ fissirostres
 facially
 farcetta
 florilage
+format
 fegary
 favorableness
 finfoot
@@ -7678,7 +7679,6 @@ finnack
 forbathe
 forelouper
 foresense
-format
 frayproof
 foreigneering
 flaggelated
