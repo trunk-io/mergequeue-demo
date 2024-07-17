@@ -4138,7 +4138,6 @@ delimiter
 delimiting
 didrachma
 displumed
-diphyletic
 disconformable
 delimitized
 diplomyelia
@@ -16864,6 +16863,7 @@ divergingly
 demicaponier
 discophile
 dribbet
+diphyletic
 deadlock
 dinoceratid
 disceptation
