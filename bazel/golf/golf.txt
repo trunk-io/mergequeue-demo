@@ -765,7 +765,6 @@ gandergoose
 gamari
 grinnellia
 gamashes
-gristliness
 goombay
 guamuchil
 graf
@@ -9531,6 +9530,7 @@ groupist
 gunned
 genipapada
 greasy
+gristliness
 griminess
 groundkeeper
 glidder
