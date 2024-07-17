@@ -2357,7 +2357,6 @@ esclandre
 electroconvulsive
 empoisonment
 endeavor
-electrocute
 engorged
 expurgating
 eucryphiaceous
@@ -11315,6 +11314,7 @@ enrank
 entirety
 eagles
 evaporimeter
+electrocute
 evaporitic
 evapotranspiration
 ecaudata
