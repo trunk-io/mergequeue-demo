@@ -3252,7 +3252,6 @@ cyclotomy
 capitatum
 cystenchyme
 capite
-capitellar
 capitellate
 canteen
 capitellum
@@ -7010,6 +7009,7 @@ cosinusoid
 cenizo
 cenobe
 codable
+capitellar
 colometrically
 cenobies
 cenobite
