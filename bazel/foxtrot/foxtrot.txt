@@ -2520,7 +2520,6 @@ faultfinding
 fermi
 founders
 forgetter
-fuzzed
 finiteness
 fermillet
 frenchless
@@ -8594,6 +8593,7 @@ fir
 fluoridise
 fittings
 forsakenly
+fuzzed
 flukeless
 fingerfishes
 faddishly
