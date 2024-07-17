@@ -6152,7 +6152,6 @@ flounder
 frowardness
 faraway
 flounders
-floury
 faciata
 federarie
 flourish
@@ -8588,6 +8587,7 @@ faradisms
 frivolizing
 fimbrilla
 forescript
+floury
 fir
 fluoridise
 fittings
