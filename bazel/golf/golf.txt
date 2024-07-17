@@ -1264,7 +1264,6 @@ gyrene
 gainstand
 garetta
 gnawingly
-garfish
 gargalize
 guydom
 guttles
@@ -3714,6 +3713,7 @@ gelastocoridae
 gnomology
 gnattier
 gemmates
+garfish
 guarders
 greenbark
 gelatinizability
