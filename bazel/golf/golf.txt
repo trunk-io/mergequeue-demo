@@ -78,6 +78,7 @@ goop
 gony
 gantlets
 gagged
+groupoid
 gallops
 grutten
 gadabouts
@@ -9510,7 +9511,6 @@ groutier
 gaes
 gins
 granule
-groupoid
 groupwise
 graped
 goloch
