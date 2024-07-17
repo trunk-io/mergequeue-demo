@@ -8873,7 +8873,6 @@ glomerella
 gossypose
 grewhound
 gentman
-gasworker
 gobang
 grete
 ganglier
@@ -10839,6 +10838,7 @@ generality
 gyrograph
 guzul
 genotypical
+gasworker
 gentlewomanly
 glochidian
 gonorrheal
