@@ -3036,7 +3036,6 @@ cantraip
 cantraips
 cantraps
 capitonidae
-cantred
 cantrip
 cantrips
 cantus
@@ -25872,6 +25871,7 @@ coprinae
 corruptly
 colubriformes
 corruptness
+cantred
 corruptor
 chapper
 corruptress
