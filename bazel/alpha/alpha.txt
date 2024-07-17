@@ -3082,6 +3082,7 @@ antispast
 amoskeag
 arthrodia
 amplidyne
+aequipalpia
 arthropody
 actinostome
 aramus
@@ -4740,7 +4741,6 @@ aeq
 abaris
 attitudinising
 aequi
-aequipalpia
 aranein
 attemperation
 aequor
