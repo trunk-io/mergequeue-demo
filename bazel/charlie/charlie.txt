@@ -3952,7 +3952,6 @@ calcaneoastragalar
 cameist
 carburetting
 carburettor
-carburisation
 carburised
 contributed
 carlylism
@@ -11641,6 +11640,7 @@ countermeasure
 cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
+carburisation
 cholecystic
 cholecystis
 cholecystitis
