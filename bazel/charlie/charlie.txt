@@ -3502,7 +3502,6 @@ coverup
 capsuling
 capsulitis
 capsulize
-capsulized
 capsulizing
 cabman
 capsulogenous
@@ -9573,6 +9572,7 @@ callityping
 check
 communizing
 checkage
+capsulized
 checkback
 checkbird
 checkbite
