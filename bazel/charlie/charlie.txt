@@ -1609,7 +1609,6 @@ calms
 coemployee
 calochortaceae
 contraceptives
-calochortus
 calodaemon
 cartoon
 calodemon
@@ -14443,6 +14442,7 @@ circumrotate
 circumrotated
 circumrotatory
 circumsail
+calochortus
 connectivity
 circumscribable
 condescend
