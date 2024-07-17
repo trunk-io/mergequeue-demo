@@ -4402,7 +4402,6 @@ carinal
 cavum
 carinas
 chrysene
-cheiropompholyx
 carinate
 carinated
 cols
@@ -21510,6 +21509,7 @@ concordantial
 crescent
 cankerworm
 concordantly
+cheiropompholyx
 concordatory
 concordatum
 concorder
