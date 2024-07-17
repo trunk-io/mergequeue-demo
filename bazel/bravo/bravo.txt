@@ -3844,7 +3844,6 @@ bullpouts
 babus
 bawdrics
 bawdries
-bangling
 bawl
 bevelment
 bawled
@@ -5412,6 +5411,7 @@ behaved
 behaver
 bicollateral
 behaving
+bangling
 brakes
 bathylimnetic
 bars
