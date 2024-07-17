@@ -6715,7 +6715,6 @@ frippery
 fairways
 fogdom
 fogfruit
-foretype
 flatterable
 flintlock
 fogfruits
@@ -7788,6 +7787,7 @@ fleaweed
 forenight
 flogger
 frondivorous
+foretype
 fleshiest
 feronia
 forenoons
