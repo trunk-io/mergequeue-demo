@@ -11050,7 +11050,6 @@ flamenship
 frontality
 funambuloes
 filled
-functional
 farceuse
 fixups
 flashforwards
@@ -11231,6 +11230,7 @@ funked
 feuilleton
 funky
 filter
+functional
 fylfot
 forevision
 fatherkin

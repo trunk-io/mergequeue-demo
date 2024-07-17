@@ -11682,6 +11682,7 @@ concords
 colorization
 cholelith
 cholelithiasis
+conchotome
 cholelithic
 cholelithotomy
 chastising
@@ -21356,7 +21357,6 @@ conchometer
 conchometry
 conchospiral
 conchostraca
-conchotome
 computed
 conchs
 conchubar
