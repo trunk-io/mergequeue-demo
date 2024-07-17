@@ -2866,7 +2866,6 @@ barramundies
 bilocation
 baccalaureat
 bottleful
-batching
 broadcasts
 broadthroat
 berakes
@@ -6938,6 +6937,7 @@ brahmahood
 beshow
 birdeen
 befog
+batching
 beshrewing
 bewildering
 basad
