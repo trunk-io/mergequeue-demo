@@ -7489,7 +7489,6 @@ cephalothoraxes
 cephalotomy
 contrate
 cephalotractor
-cephalotribe
 cephalotrocha
 cephalotus
 cephalous
@@ -16474,6 +16473,7 @@ clitoromania
 conglutinate
 cantiness
 clitoromaniacal
+cephalotribe
 clitter
 criniparous
 conditivia
