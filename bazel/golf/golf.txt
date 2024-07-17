@@ -2231,7 +2231,6 @@ geisenheimer
 gadoid
 geyserish
 glebes
-geyserite
 globelike
 garance
 geishas
@@ -2956,6 +2955,7 @@ geolatry
 galatine
 ghetti
 genovino
+geyserite
 geologically
 gondite
 gavialis
