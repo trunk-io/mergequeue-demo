@@ -5229,7 +5229,6 @@ bolters
 bastes
 bobbled
 bothsided
-barlock
 begazing
 bimasty
 borderer
@@ -18008,6 +18007,7 @@ barbotte
 barmfel
 babbitt
 busk
+barlock
 burghmoot
 buskers
 bromise
