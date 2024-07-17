@@ -10470,7 +10470,6 @@ amide
 amidide
 antileft
 adscript
-amidin
 amidins
 amidism
 armenians
@@ -17431,6 +17430,7 @@ apostoli
 apostolian
 apostolical
 apostolically
+amidin
 abstracts
 apostolicity
 aerobacteriologically
