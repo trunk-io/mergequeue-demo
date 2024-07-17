@@ -16688,7 +16688,6 @@ aperea
 alang
 aperient
 aperients
-aperiodic
 aperiodically
 ambulanced
 aurinasal
@@ -24767,6 +24766,7 @@ avifaunas
 avifaunistic
 avigate
 avigation
+aperiodic
 acinetan
 accensed
 avignonese
