@@ -1464,7 +1464,6 @@ guacamole
 guarachas
 granospherite
 gunocracy
-gasifiers
 gasifies
 glengarry
 gasterolichenes
@@ -4725,6 +4724,7 @@ gosther
 grosgrained
 giveable
 gederite
+gasifiers
 gitano
 gelidly
 genipaps
