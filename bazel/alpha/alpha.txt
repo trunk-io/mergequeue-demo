@@ -7983,7 +7983,6 @@ argasid
 aleukemic
 account
 auscultations
-antimensium
 aleurobius
 alternates
 aleurodes
@@ -22489,6 +22488,7 @@ affirmative
 assay
 aspartyl
 ateles
+antimensium
 amnemonic
 antidromy
 abiston
