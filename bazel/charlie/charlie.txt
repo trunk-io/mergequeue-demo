@@ -13631,6 +13631,7 @@ confederated
 cylindrograph
 compilers
 chisel
+comitiva
 cylindroid
 cylindroma
 cylindromata
@@ -29466,7 +29467,6 @@ crystallizer
 crystallizes
 crystallochemical
 crystallochemistry
-comitiva
 chaldaism
 chati
 crystallod
