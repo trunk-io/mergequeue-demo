@@ -6413,7 +6413,6 @@ foredooms
 formalization
 frogspawn
 fafnir
-fanit
 fecundatory
 formularization
 fluoridation
@@ -9712,6 +9711,7 @@ filosofe
 fallacies
 farragos
 freyja
+fanit
 flied
 femes
 freith
