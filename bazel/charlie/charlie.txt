@@ -17739,6 +17739,7 @@ cultrirostres
 cocitizen
 cocitizenship
 cockade
+colour
 colonisation
 christianization
 cockades
@@ -19513,7 +19514,6 @@ colostrum
 colotomy
 colotomies
 capelet
-colour
 configurational
 colourable
 colourably
