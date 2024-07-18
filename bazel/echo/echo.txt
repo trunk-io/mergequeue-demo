@@ -2006,7 +2006,6 @@ ektenes
 ektexine
 elabor
 epibenthic
-elaborate
 episternite
 evictees
 emulsic
@@ -3138,6 +3137,7 @@ elongation
 edict
 epiplastral
 eom
+elaborate
 eglatere
 evinced
 eichbergite

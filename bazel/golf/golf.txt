@@ -5051,7 +5051,6 @@ glassteel
 grenadine
 gisler
 goldeneye
-gnomish
 greesagh
 glathsheim
 gte
@@ -7707,6 +7706,7 @@ granularly
 grudgekin
 ginny
 grumbletonian
+gnomish
 gray
 getaway
 greasily
