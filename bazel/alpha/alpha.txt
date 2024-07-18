@@ -5976,6 +5976,7 @@ arrogancy
 aggressin
 altered
 attaint
+abortus
 amount
 antireality
 acystia
@@ -6803,7 +6804,6 @@ airfoil
 airfoils
 airframes
 adiate
-abortus
 airglow
 airglows
 airgraphics
