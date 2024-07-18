@@ -8833,7 +8833,6 @@ carbonylating
 chape
 cobriform
 chapeled
-chapeless
 concion
 crotalism
 convalescency
@@ -9876,6 +9875,7 @@ chemehuevi
 chemesthesis
 chemiatric
 chemical
+chapeless
 corrugates
 cowardliness
 clubroot
