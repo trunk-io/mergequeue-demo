@@ -5714,7 +5714,6 @@ belies
 believability
 believer
 believers
-believes
 bloomery
 blankite
 budge
@@ -7152,6 +7151,7 @@ brambliest
 bifoliate
 brightly
 bessel
+believes
 bessemer
 bessemerize
 bessemerized
