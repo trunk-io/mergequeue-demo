@@ -79,7 +79,6 @@ archineuron
 abamperes
 aband
 abandon
-abandonable
 amphipods
 abandoned
 abandoner
@@ -14405,6 +14404,7 @@ anthradiol
 anthraflavic
 aerographics
 apprenticed
+abandonable
 aequiculi
 anthrahydroquinone
 androgynism
