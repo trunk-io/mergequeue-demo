@@ -641,7 +641,6 @@ dampers
 dudgeons
 donnard
 dampne
-disseminate
 dampness
 decolourise
 diacetylene
@@ -18568,6 +18567,7 @@ dislade
 delirious
 duskingtide
 duskishness
+disseminate
 dogtrotting
 dewool
 duskness
