@@ -8050,7 +8050,6 @@ dialects
 defences
 derbylite
 doylt
-dhabb
 dietician
 duomi
 dispersion
@@ -11798,6 +11797,7 @@ decaudation
 demasts
 discrepated
 discrepating
+dhabb
 diskless
 discrepation
 dullardism
