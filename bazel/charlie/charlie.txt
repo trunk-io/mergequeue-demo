@@ -17151,7 +17151,6 @@ copiable
 coadjudicator
 coadjument
 coadjutant
-coadjutator
 campement
 coadjute
 coadjutement
@@ -29881,6 +29880,7 @@ crosshair
 crosshand
 crosshatches
 cogwheel
+coadjutator
 crosshatching
 crosshaul
 crosshauling
