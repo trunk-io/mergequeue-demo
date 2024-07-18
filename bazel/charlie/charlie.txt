@@ -9637,6 +9637,7 @@ checkrower
 checkrowing
 consummatively
 checkrows
+computational
 checks
 chapatty
 checkstring
@@ -21069,7 +21070,6 @@ computably
 counterdash
 clitelliferous
 crookle
-computational
 computations
 coomy
 computatively
