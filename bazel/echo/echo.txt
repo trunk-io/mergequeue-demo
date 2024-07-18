@@ -3659,7 +3659,6 @@ embosking
 embryologist
 embryonic
 encyrtidae
-eartagged
 epithecate
 expectant
 elec
@@ -6814,6 +6813,7 @@ epistolizing
 engender
 everett
 electroretinographic
+eartagged
 equaeval
 electrocutes
 efoliolate
