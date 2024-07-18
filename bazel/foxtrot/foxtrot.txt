@@ -1768,7 +1768,6 @@ feather
 foreordainment
 finned
 featherbird
-florentium
 feoffors
 forfare
 foreshore
@@ -6385,6 +6384,7 @@ flang
 fluoran
 fennish
 fluorane
+florentium
 fishtailing
 fluorboric
 fellsman
