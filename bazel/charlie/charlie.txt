@@ -7112,7 +7112,6 @@ chelators
 colonus
 centerfolds
 centering
-centerless
 centerline
 centermost
 centerpiece
@@ -18227,6 +18226,7 @@ coglorious
 commencements
 circumesophagal
 coessentiality
+centerless
 coessentially
 cotyledonoid
 coestablishment
