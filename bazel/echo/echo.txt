@@ -6204,7 +6204,6 @@ economic
 ellipsoid
 exodist
 enophthalmus
-energetics
 executable
 enoplan
 enorm
@@ -7267,6 +7266,7 @@ eolotropic
 echoless
 electrocatalytic
 epidemiology
+energetics
 eonism
 eopalaeozoic
 egocentrically
