@@ -2216,7 +2216,6 @@ encrisp
 eldest
 effigiated
 eventuate
-end
 eldrich
 eldritch
 enchased
@@ -11584,6 +11583,7 @@ exergual
 evonymuses
 electroencephalographically
 evulsion
+end
 encaustic
 evulsions
 ewe
