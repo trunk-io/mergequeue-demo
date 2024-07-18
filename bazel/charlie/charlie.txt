@@ -8922,6 +8922,7 @@ chapterhouse
 chapters
 chapwoman
 chaqueta
+commanders
 char
 conveyability
 chara
@@ -22280,7 +22281,6 @@ cornered
 conglobate
 circumlocutional
 conglobating
-commanders
 cobhead
 cameleers
 ceorlish

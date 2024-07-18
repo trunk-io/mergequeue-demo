@@ -1755,7 +1755,6 @@ buses
 bianco
 biretta
 bedraggling
-balun
 balustrading
 bulbed
 bivvy
@@ -15692,6 +15691,7 @@ brocatello
 brocatels
 bavarian
 billionths
+balun
 bravas
 baptist
 bangkoks
