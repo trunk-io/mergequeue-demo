@@ -5632,7 +5632,6 @@ catalogues
 constabulary
 cataloguing
 clankety
-cataloguish
 cataloguist
 catalonian
 cataloon
@@ -22410,6 +22409,7 @@ coniacian
 conic
 conical
 canajong
+cataloguish
 conicality
 chordally
 crookfingered
