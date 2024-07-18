@@ -7618,7 +7618,6 @@ acned
 araeosystyle
 auxographic
 alcestis
-alchem
 asportation
 atrocity
 asylum
@@ -13186,6 +13185,7 @@ amaltas
 animo
 academizing
 animose
+alchem
 animoseness
 animosity
 animoso
