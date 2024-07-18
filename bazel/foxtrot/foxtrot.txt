@@ -3384,7 +3384,6 @@ forinsec
 flon
 flench
 furuncle
-fluxmeter
 froglet
 fidge
 frogfoot
@@ -5500,6 +5499,7 @@ fricassee
 friezy
 fiduciarily
 friseurs
+fluxmeter
 fossed
 fretwork
 firedamp
