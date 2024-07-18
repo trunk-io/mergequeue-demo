@@ -3304,7 +3304,6 @@ basketmaker
 basketmaking
 basketries
 bonnets
-baskets
 basketware
 basketweaving
 bluecoat
@@ -12365,6 +12364,7 @@ barberry
 bab
 bandlimit
 brigades
+baskets
 balmacaan
 bomble
 boombox
