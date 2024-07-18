@@ -638,7 +638,6 @@ falters
 frequenter
 falx
 fernambuck
-ferromagnet
 flatweed
 flameless
 flagship
@@ -3005,6 +3004,7 @@ final
 forefending
 forefault
 forworden
+ferromagnet
 facility
 faddists
 filatures
