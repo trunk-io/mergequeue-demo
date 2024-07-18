@@ -15973,7 +15973,6 @@ chiromance
 cleidomancy
 cleidorrhexis
 chiripa
-cleidosternal
 cleidotripsy
 cleistocarp
 caulotaxy
@@ -18123,6 +18122,7 @@ coenflame
 coengage
 coproduce
 coengager
+cleidosternal
 caverns
 coenjoy
 contradictively
