@@ -4884,7 +4884,6 @@ geomaly
 gangway
 garment
 guvacoline
-garaging
 grapefruits
 gypsite
 gainspeaker
@@ -5298,6 +5297,7 @@ grammatology
 gammy
 gloatingly
 gauss
+garaging
 guanidine
 galactosemia
 grangerisation
