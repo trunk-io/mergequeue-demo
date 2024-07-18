@@ -5244,7 +5244,6 @@ granitical
 geometries
 glossopteris
 glycerin
-growler
 gamelan
 geared
 gromil
@@ -7373,6 +7372,7 @@ ghbor
 geniohyoid
 groundswells
 glub
+growler
 goupin
 gastrologists
 goldfish
