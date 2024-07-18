@@ -4884,7 +4884,6 @@ carryed
 carrier
 capitulation
 carries
-carrying
 carryings
 carriole
 carrioles
@@ -22971,6 +22970,7 @@ consisently
 consist
 contractured
 consistences
+carrying
 consistency
 catalytic
 chemotherapies
