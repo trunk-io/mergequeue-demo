@@ -4480,7 +4480,6 @@ endolithic
 encephalartos
 encephalasthenia
 escocheon
-electrostatics
 encephalic
 encephalin
 erythrophagous
@@ -12598,6 +12597,7 @@ exocoelic
 exocoelom
 explant
 epicardium
+electrostatics
 exocoelum
 electioneered
 epistylis
