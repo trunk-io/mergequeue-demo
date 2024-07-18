@@ -4866,7 +4866,6 @@ fra
 falsen
 forestology
 forties
-flagrancy
 footbath
 frostbiter
 footloose
@@ -10610,6 +10609,7 @@ fatigues
 frontward
 finched
 fructuate
+flagrancy
 festooned
 fulani
 faultfinder
