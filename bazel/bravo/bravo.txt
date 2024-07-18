@@ -1882,7 +1882,6 @@ bandle
 bedrel
 blastoff
 breadwinners
-bandlimits
 bostangi
 bandmaster
 bando
@@ -9599,6 +9598,7 @@ binary
 bicapsular
 bisect
 bisected
+bandlimits
 bisectors
 bisectrices
 busybodyness
