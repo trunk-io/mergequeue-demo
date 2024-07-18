@@ -3594,7 +3594,6 @@ carabinier
 carabiniere
 carabinieri
 cotrespasser
-cylindroconical
 caraboa
 cinques
 circle
@@ -5352,6 +5351,7 @@ chertier
 castane
 castanea
 chewy
+cylindroconical
 castanean
 cynarctomachy
 cyrillaceous
