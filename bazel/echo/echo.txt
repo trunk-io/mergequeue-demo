@@ -1010,6 +1010,7 @@ established
 edaphosaurus
 explosibility
 euthanasic
+enterocinetic
 epoxide
 endearments
 emblazing
@@ -4371,7 +4372,6 @@ enarthrodia
 engagers
 equalize
 excretes
-enterocinetic
 embryons
 evacuates
 enations
