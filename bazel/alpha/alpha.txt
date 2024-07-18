@@ -11296,6 +11296,7 @@ amphorae
 apiator
 amphore
 alarming
+antiplatelet
 amphoteric
 aircrewman
 ampicillin
@@ -15845,7 +15846,6 @@ aglobulism
 antiplanet
 almochoden
 antiplastic
-antiplatelet
 antipleion
 advocation
 antiplethoric
