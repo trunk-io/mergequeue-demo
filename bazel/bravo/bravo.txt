@@ -10091,7 +10091,6 @@ bklr
 backsey
 bks
 bkt
-bowdlerizer
 beflum
 bicephalic
 blaasop
@@ -16793,6 +16792,7 @@ budgerow
 blindeyes
 budgetary
 bigroot
+bowdlerizer
 begladded
 budgeter
 beyrichite
