@@ -2264,7 +2264,6 @@ fusilades
 femora
 fen
 fenagled
-foamer
 fatil
 fain
 fenced
@@ -9642,6 +9641,7 @@ finalities
 freelance
 fornax
 flukier
+foamer
 frons
 freeloaded
 freemanship
