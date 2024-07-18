@@ -873,7 +873,6 @@ amianthoid
 absentation
 absentee
 absentees
-absenter
 absenters
 absently
 aflatus
@@ -20885,6 +20884,7 @@ anteverted
 asb
 agoniatites
 asbest
+absenter
 avowe
 apis
 ambulating
