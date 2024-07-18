@@ -1670,6 +1670,7 @@ fiard
 farine
 fied
 fryer
+foreannounce
 fipenny
 fconv
 familiar
@@ -8287,7 +8288,6 @@ forgoes
 freestyler
 forgotten
 fusspots
-foreannounce
 foregame
 fountaining
 foursome
