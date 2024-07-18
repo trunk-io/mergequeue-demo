@@ -3890,7 +3890,6 @@ flankwise
 fineless
 fractur
 fract
-fimbriae
 fiberglas
 formicary
 fimbrial
@@ -11379,6 +11378,7 @@ fluencies
 furmities
 fornicated
 frothless
+fimbriae
 footways
 followed
 fewnes
