@@ -372,7 +372,6 @@ backflowing
 backframe
 backfriend
 backgame
-bepuzzle
 backgammon
 barbarical
 botanized
@@ -15011,6 +15010,7 @@ boddagh
 besanctify
 breezier
 breezily
+bepuzzle
 balkily
 breeziness
 bolling
