@@ -8702,7 +8702,6 @@ allelisms
 almes
 alternationist
 allelomorphic
-allelomorphism
 allelotropy
 allelotropic
 allelotropism
@@ -23739,6 +23738,7 @@ allicit
 amatorious
 anticivism
 animadverts
+allelomorphism
 acanthopterous
 apostatic
 amatories
