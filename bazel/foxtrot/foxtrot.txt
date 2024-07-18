@@ -7903,7 +7903,6 @@ forescene
 fetticus
 forewarned
 feiseanna
-fayence
 foresee
 faitor
 frakturs
@@ -11236,6 +11235,7 @@ filter
 functional
 fylfot
 forevision
+fayence
 fatherkin
 forepayment
 funkiness
