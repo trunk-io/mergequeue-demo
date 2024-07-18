@@ -23464,7 +23464,6 @@ auldest
 auldfarrantlike
 auletai
 advoyer
-aulete
 auletes
 atalaya
 auletic
@@ -25272,6 +25271,7 @@ azymite
 azimuth
 azimuthal
 acceded
+aulete
 azimuths
 azine
 azines
