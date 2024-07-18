@@ -8183,6 +8183,7 @@ beardie
 brontophobia
 bash
 banishes
+buffalos
 baldpate
 byeman
 bleezy
@@ -16827,7 +16828,6 @@ buffalo
 buffaloback
 buffalofish
 buffaloing
-buffalos
 bulltoad
 buffball
 branchiostege
