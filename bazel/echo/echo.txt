@@ -7609,7 +7609,6 @@ entoproct
 extemporal
 epichondrosis
 epichordal
-enddamaging
 encapsulating
 exenterated
 ensouls
@@ -8236,6 +8235,7 @@ exsection
 etwas
 engelmann
 encydlopaedic
+enddamaging
 equidominant
 equidistantly
 eirenic
