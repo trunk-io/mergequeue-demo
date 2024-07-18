@@ -3395,7 +3395,6 @@ decolor
 deflagrating
 disrestore
 dithionate
-deflagration
 deflagrator
 deflate
 deflating
@@ -7374,6 +7373,7 @@ diplopias
 deticker
 detinet
 decriminalizes
+deflagration
 detinues
 detinuit
 detn
