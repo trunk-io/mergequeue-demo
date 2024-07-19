@@ -3957,6 +3957,7 @@ carcajou
 carcajous
 carcake
 carcanet
+carousel
 carcanetted
 carcases
 crueler
@@ -4699,7 +4700,6 @@ centrospermae
 chm
 carouse
 caroused
-carousel
 carousels
 carp
 carpaine
