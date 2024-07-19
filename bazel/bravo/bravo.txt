@@ -12363,6 +12363,7 @@ byronize
 beplaided
 barberry
 bab
+band
 bandlimit
 brigades
 baskets
@@ -15637,7 +15638,6 @@ broadcaster
 broadcastings
 bromeliaceous
 beakerful
-band
 broadcloth
 brutage
 broadeners
