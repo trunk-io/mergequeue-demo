@@ -1575,7 +1575,6 @@ gasteropoda
 gummy
 gallons
 gastly
-gastronomes
 gobiesocidae
 grandstand
 gonadotrophic
@@ -10034,6 +10033,7 @@ grammatolator
 gesneriaceous
 geomancies
 gangliac
+gastronomes
 gleans
 giver
 gammation
