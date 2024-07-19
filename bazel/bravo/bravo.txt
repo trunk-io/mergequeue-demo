@@ -2993,7 +2993,6 @@ branglement
 burgesses
 bartizans
 becarpets
-bartlett
 beigel
 bartonella
 backswordsman
@@ -11709,6 +11708,7 @@ benthon
 bucket
 bayogoula
 bobbers
+bartlett
 bobby
 bobbin
 beslaved

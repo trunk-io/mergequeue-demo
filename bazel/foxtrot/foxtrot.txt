@@ -376,7 +376,6 @@ fieldfight
 froes
 fluorides
 forhoo
-foredate
 faintly
 ferrymen
 fearer
@@ -3706,6 +3705,7 @@ frayn
 frena
 flippancies
 forecasters
+foredate
 flawier
 filigraned
 fuzzing
