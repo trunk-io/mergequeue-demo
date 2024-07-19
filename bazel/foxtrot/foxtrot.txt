@@ -1174,7 +1174,6 @@ fidelis
 fatally
 feebleminded
 feller
-fungistatic
 fatherling
 fairsome
 figeaters
@@ -5765,6 +5764,7 @@ forestcraft
 favissa
 fathoms
 furnage
+fungistatic
 fernery
 frequentation
 fractuosity
