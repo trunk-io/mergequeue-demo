@@ -1035,7 +1035,6 @@ devoiced
 dipterad
 darners
 darning
-darns
 daroga
 dimeters
 decarch
@@ -7219,6 +7218,7 @@ detat
 diastrophism
 defoliating
 detected
+darns
 disenchantingly
 detecter
 detecters
