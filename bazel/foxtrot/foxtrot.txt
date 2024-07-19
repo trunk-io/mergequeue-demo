@@ -4872,6 +4872,7 @@ faunus
 fishberries
 fetted
 firepower
+fresser
 fleay
 fainer
 fossores
@@ -9817,7 +9818,6 @@ fraudless
 fresno
 fress
 flunkeyhood
-fresser
 fret
 fallibleness
 fatals
