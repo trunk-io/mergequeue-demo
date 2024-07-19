@@ -11980,6 +11980,7 @@ brothelry
 biosterin
 bogymen
 bogland
+bytalk
 bogled
 boglet
 beckelite
@@ -16476,7 +16477,6 @@ bursattee
 brusqueness
 brusquest
 brussel
-bytalk
 bestrode
 bowdlerize
 brustle
