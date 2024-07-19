@@ -2211,7 +2211,6 @@ esthesia
 expanded
 eldermen
 elders
-epanodos
 enumerating
 eldersisterly
 epiglottiditis
@@ -10234,6 +10233,7 @@ erased
 elytriform
 evenlight
 etesian
+epanodos
 exantlate
 ensporia
 ethicosocial
