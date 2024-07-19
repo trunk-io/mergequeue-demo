@@ -22297,7 +22297,6 @@ conglomerations
 conglomerator
 conglomeritic
 conglutinant
-conglutinative
 codlings
 congoes
 cheeps
@@ -25873,6 +25872,7 @@ colubriformes
 corruptness
 cantred
 corruptor
+conglutinative
 chapper
 corruptress
 corrupts
