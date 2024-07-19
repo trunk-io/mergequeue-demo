@@ -10238,6 +10238,7 @@ amelia
 amelification
 ameliorable
 ameliorableness
+auxometer
 ameliorated
 anhydrated
 ars
@@ -20512,7 +20513,6 @@ anathema
 atmidometer
 automatically
 arteritis
-auxometer
 artesian
 areographic
 artesonado
