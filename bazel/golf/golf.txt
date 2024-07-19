@@ -1138,6 +1138,7 @@ grouses
 genin
 generalness
 gantsl
+galactometry
 gastrostomus
 glossograph
 guffin
@@ -7301,7 +7302,6 @@ gossips
 gigmaness
 gestor
 gilthead
-galactometry
 gaffle
 gushier
 glyptograph
