@@ -3927,6 +3927,7 @@ foregrounds
 frequencies
 fortyfive
 fits
+floressence
 fortuitously
 fecundating
 fluidness
@@ -7316,7 +7317,6 @@ fronds
 foramen
 fearnaught
 frampold
-floressence
 forswearer
 forbearing
 fulcrum
