@@ -1996,7 +1996,6 @@ camise
 cassique
 camises
 cytosin
-computist
 camisole
 complicacies
 camisoles
@@ -9894,6 +9893,7 @@ chemicopharmaceutical
 chemicophysical
 ciliary
 curtaining
+computist
 chemiculture
 chemigraphy
 chemigraphic
