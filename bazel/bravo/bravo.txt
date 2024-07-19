@@ -3707,7 +3707,6 @@ buhr
 battlesome
 brigantes
 bimestrial
-boatfalls
 battlestead
 battlewagon
 belemnid
@@ -14952,6 +14951,7 @@ breathless
 breathseller
 breba
 balsa
+boatfalls
 bonked
 breccial
 breccias
