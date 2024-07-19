@@ -3386,6 +3386,7 @@ deflagrable
 decolor
 deflagrating
 disrestore
+dynagraph
 dithionate
 deflagrator
 deflate
@@ -8069,7 +8070,6 @@ dharnas
 dhaura
 dioscuri
 dovens
-dynagraph
 defilements
 dhaw
 dialleli
