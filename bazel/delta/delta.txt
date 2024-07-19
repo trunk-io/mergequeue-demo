@@ -4232,7 +4232,6 @@ deinsularize
 depopulations
 decylenic
 delocalised
-deescalations
 delocalize
 dermoreaction
 decrustation
@@ -8796,6 +8795,7 @@ diatomic
 diatomicity
 dinting
 defocusses
+deescalations
 diatomist
 dot
 debadge
