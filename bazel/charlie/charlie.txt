@@ -18910,7 +18910,6 @@ colymbus
 choroid
 chaines
 colinear
-cantalas
 chelodina
 cabins
 colinearity
@@ -21493,6 +21492,7 @@ commands
 curliewurly
 cardiophobia
 concordances
+cantalas
 concordancy
 concordant
 classifically
