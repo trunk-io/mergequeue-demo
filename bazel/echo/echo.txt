@@ -8647,7 +8647,6 @@ entoptoscopy
 equimolal
 eunomia
 endonuclease
-equimultiple
 espantoon
 encirclements
 erineum
@@ -12303,6 +12302,7 @@ equilucent
 exerce
 engrafting
 exercent
+equimultiple
 exercise
 extramarginal
 exercising
