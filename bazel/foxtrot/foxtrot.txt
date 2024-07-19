@@ -4210,7 +4210,6 @@ foretokening
 firebug
 flagstones
 fireburn
-footprint
 flickertail
 fishet
 fibrocaseous
@@ -10018,6 +10017,7 @@ fliest
 fossilising
 footglove
 frijole
+footprint
 filariidae
 ferruled
 frike
