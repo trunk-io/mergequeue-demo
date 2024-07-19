@@ -7655,7 +7655,6 @@ foreguess
 flammant
 foretopsail
 fiefdom
-foregut
 forecasting
 foxskin
 fiesta
@@ -11290,6 +11289,7 @@ fishweir
 furbishes
 functionalizing
 flaxwife
+foregut
 femmes
 frostier
 fulciform
