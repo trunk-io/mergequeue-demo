@@ -1625,7 +1625,6 @@ gastrodermal
 gastrodermis
 gpd
 gulfweed
-gyracanthus
 guayabo
 gastroduodenitis
 galvanographic
@@ -10413,6 +10412,7 @@ glozes
 genitory
 greenstuff
 gaggler
+gyracanthus
 gourdhead
 gambreled
 granitelike
