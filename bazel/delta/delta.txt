@@ -3457,6 +3457,7 @@ disgarland
 deceleron
 deflower
 damnosa
+dentagra
 deflowered
 deflowerer
 dumpcart
@@ -7202,7 +7203,6 @@ diemaking
 dotting
 detaches
 dicast
-dentagra
 demijohns
 debind
 demulsifying
