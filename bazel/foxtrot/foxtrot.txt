@@ -10641,6 +10641,7 @@ friandise
 fieldpiece
 fruitbearing
 feebly
+fusc
 frankness
 fiddlededee
 fundamentalness
@@ -11057,7 +11058,6 @@ farceuse
 fixups
 flashforwards
 fragrantness
-fusc
 functionated
 frowner
 frameae
