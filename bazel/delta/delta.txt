@@ -8797,7 +8797,6 @@ domelike
 diatomales
 dedicated
 diatomeae
-diatomic
 diatomicity
 dinting
 defocusses
@@ -13860,6 +13859,7 @@ distain
 distaining
 distance
 denumeration
+diatomic
 demast
 dryers
 doable
