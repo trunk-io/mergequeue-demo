@@ -11311,7 +11311,6 @@ chloridella
 codettas
 canaut
 chloridellidae
-chlorider
 coattail
 chlorides
 covers
@@ -20548,6 +20547,7 @@ compatibilities
 condors
 compatible
 compatibleness
+chlorider
 compatriotic
 compatriots
 compd
