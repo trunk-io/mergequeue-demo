@@ -517,6 +517,7 @@ damageably
 detonatable
 damaged
 detort
+destandardize
 damageous
 deaccessions
 dovyalis
@@ -2060,7 +2061,6 @@ disproportionally
 decal
 dodecylic
 dilatory
-destandardize
 decalage
 decalcify
 dinghy
