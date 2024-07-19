@@ -5501,7 +5501,6 @@ fretwork
 firedamp
 fratching
 fleshhood
-froust
 foraged
 fleshy
 fillet
@@ -5849,6 +5848,7 @@ ferfet
 fritted
 firehouse
 farcically
+froust
 filemark
 ferr
 freakdom
