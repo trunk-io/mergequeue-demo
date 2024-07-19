@@ -1836,6 +1836,7 @@ banderol
 banderole
 brigading
 banders
+broadlings
 befume
 befogging
 banjara
@@ -15656,7 +15657,6 @@ broadish
 badgemen
 broadly
 broadling
-broadlings
 broadloom
 bulbilis
 bands
