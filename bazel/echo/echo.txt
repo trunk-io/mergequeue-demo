@@ -819,7 +819,6 @@ ectype
 everliving
 enwrite
 embus
-elemicin
 epizoa
 envois
 eral
@@ -10053,6 +10052,7 @@ eutectics
 etching
 electrotest
 eteostic
+elemicin
 edgrew
 eterminable
 energising
