@@ -1075,6 +1075,7 @@ endoskeleton
 eqpt
 edgar
 experimentalist
+exheredate
 expatiatory
 emyd
 edgeboned
@@ -2733,7 +2734,6 @@ elegancy
 egos
 enditing
 extratympanic
-exheredate
 extubate
 elegy
 emblematicize
