@@ -4995,7 +4995,6 @@ guards
 glycogen
 gandering
 gigantomachy
-goatsbane
 gassy
 gapped
 galoping
@@ -5584,6 +5583,7 @@ gallinules
 gradienter
 glochid
 gemology
+goatsbane
 garnice
 gradable
 geophilidae
