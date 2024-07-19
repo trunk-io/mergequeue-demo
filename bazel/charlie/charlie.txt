@@ -7438,7 +7438,6 @@ cephalomant
 cephalomeningitis
 cultivatable
 compute
-cortex
 cleansing
 cephalomere
 cyclostylar
@@ -9065,6 +9064,7 @@ chariness
 charing
 celadons
 carbinyl
+cortex
 chariot
 carcerate
 continuo
