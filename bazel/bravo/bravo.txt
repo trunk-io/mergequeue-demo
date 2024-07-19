@@ -7210,7 +7210,6 @@ basifacial
 bestirs
 bestock
 bestow
-bestowals
 bestowment
 bestows
 burgee
@@ -11851,6 +11850,7 @@ bebop
 believing
 brainwashers
 brushlike
+bestowals
 bodicemaking
 bodycheck
 bodied
