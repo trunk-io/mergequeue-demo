@@ -6954,7 +6954,6 @@ coenocyte
 cementation
 chymosins
 coaugment
-capricornus
 calorimetric
 cementatory
 charros
@@ -16177,6 +16176,7 @@ calamints
 cliffside
 cliffsman
 cliffweed
+capricornus
 clift
 clifty
 crystallitis
