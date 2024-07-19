@@ -8052,7 +8052,6 @@ betrayal
 bicolors
 bicoloured
 bicolours
-brachydactylic
 biconcave
 bidder
 bullescene
@@ -12724,6 +12723,7 @@ booker
 boatkeeper
 billion
 bookers
+brachydactylic
 bailsmen
 brahminism
 bookfold
