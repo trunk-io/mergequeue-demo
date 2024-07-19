@@ -9279,7 +9279,6 @@ fertil
 flagons
 fordull
 front
-fusspot
 fervors
 fabrikoid
 fireworms
@@ -11304,6 +11303,7 @@ finnoc
 florikan
 furcate
 frontingly
+fusspot
 feasance
 fatwa
 feyness
