@@ -1458,7 +1458,6 @@ dazzle
 diffusor
 dazzler
 disposal
-dagos
 dazzlers
 damnification
 dazzlingness
@@ -3381,6 +3380,7 @@ dorsosternal
 dogmouth
 dentils
 doles
+dagos
 deturn
 defis
 deflagrable
