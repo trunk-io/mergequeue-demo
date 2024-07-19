@@ -48,7 +48,6 @@ bodement
 bechirp
 bish
 bundocks
-babbles
 babbly
 brushable
 babbit
@@ -6685,6 +6684,7 @@ broughtas
 buttonholes
 burghs
 bhaktis
+babbles
 berytidae
 beryx
 boblet
