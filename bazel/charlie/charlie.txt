@@ -18697,7 +18697,6 @@ causeful
 coinstantaneousness
 coinsurance
 coinsurer
-coinsures
 chichituna
 coinsuring
 cointense
@@ -29775,6 +29774,7 @@ crop
 carniolan
 crophead
 cropland
+coinsures
 carpellate
 croplands
 cropless
