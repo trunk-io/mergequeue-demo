@@ -13551,6 +13551,7 @@ dunts
 dissaving
 deflectable
 dysgraphia
+deticks
 demonomy
 disclander
 dissavs
@@ -17046,7 +17047,6 @@ dressmaking
 dressoir
 disagreeableness
 daintrel
-deticks
 dryable
 demibrute
 doddery
