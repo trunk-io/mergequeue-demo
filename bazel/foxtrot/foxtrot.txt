@@ -3499,6 +3499,7 @@ fifties
 fiftieth
 forseen
 figaro
+fontanges
 florilegia
 farm
 figeater
@@ -7645,7 +7646,6 @@ footrace
 fumy
 foregift
 forgiveless
-fontanges
 foredeep
 foreseeability
 foregleam
