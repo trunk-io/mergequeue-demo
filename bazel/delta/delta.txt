@@ -6163,7 +6163,6 @@ deratted
 defatigation
 deratting
 dissector
-diecase
 docken
 dubitative
 derbend
@@ -17686,6 +17685,7 @@ dense
 disgradulate
 duan
 drenching
+diecase
 dunkard
 dichotomistic
 drays
