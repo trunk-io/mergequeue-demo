@@ -1183,7 +1183,6 @@ glade
 glaux
 gimcrackery
 gimmicking
-gour
 glanders
 glossectomies
 guatusan
@@ -7806,6 +7805,7 @@ gumby
 gumptious
 gelatins
 glochis
+gour
 guides
 gardevin
 greece
