@@ -5696,6 +5696,7 @@ firking
 frontoparietal
 freeloader
 fdname
+forewarns
 forhooie
 forfeitures
 flingy
@@ -8154,7 +8155,6 @@ faddle
 fraught
 flourishable
 furores
-forewarns
 flockbed
 foghorn
 foretaste
