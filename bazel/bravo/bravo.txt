@@ -7171,6 +7171,7 @@ bestand
 bestatued
 boba
 burrito
+bacteriocyte
 besteads
 besteal
 bedcover
@@ -12413,7 +12414,6 @@ basally
 bonav
 banquette
 bests
-bacteriocyte
 bienness
 bonbo
 bakeout
