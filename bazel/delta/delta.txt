@@ -645,7 +645,6 @@ dudgeons
 donnard
 dampne
 dampness
-decolourise
 diacetylene
 dampproof
 dampproofing
@@ -6352,6 +6351,7 @@ defensorship
 dermestidae
 dermic
 dockhead
+decolourise
 delint
 daltonism
 dermis
