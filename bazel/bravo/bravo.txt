@@ -3740,7 +3740,6 @@ biocontrol
 basialveolar
 battute
 bacterian
-battutos
 blastomeric
 batwing
 beswitch
@@ -15206,6 +15205,7 @@ brickkiln
 branchiostegal
 bricklayer
 balolo
+battutos
 bricklayers
 burut
 bummery
