@@ -9095,6 +9095,7 @@ charities
 condition
 charityless
 charka
+caridoid
 cloaks
 comus
 chicadee
@@ -13644,7 +13645,6 @@ conundrum
 compliance
 contours
 callid
-caridoid
 cyma
 companionable
 cymae
