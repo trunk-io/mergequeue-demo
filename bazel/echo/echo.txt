@@ -4783,6 +4783,7 @@ englifier
 epidosite
 eccoproticophoric
 encomiastic
+escape
 erugate
 entheasm
 estrogenicity
@@ -6977,7 +6978,6 @@ entozoologically
 entracte
 entradas
 entrain
-escape
 elicitate
 embrocado
 entraining
