@@ -2328,7 +2328,6 @@ effulge
 enchants
 epistroma
 electrocardiogram
-exculpations
 ever
 electrocardiographic
 electrocardiographically
@@ -5415,6 +5414,7 @@ emydosauria
 empetraceae
 electuary
 ened
+exculpations
 eurithermophile
 er
 epidia
