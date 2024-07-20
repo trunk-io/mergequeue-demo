@@ -29352,6 +29352,7 @@ catalogs
 cryptoproselyte
 cryptorchis
 cheng
+curara
 corebox
 candroy
 cryptorchism
@@ -29926,7 +29927,6 @@ crosstown
 crosstrack
 crosstree
 crossway
-curara
 crossways
 calcification
 crosswalks
