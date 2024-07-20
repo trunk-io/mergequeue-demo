@@ -3296,7 +3296,6 @@ beings
 bathflower
 bandurria
 basketmaking
-basketries
 bonnets
 basketware
 basketweaving
@@ -11302,6 +11301,7 @@ bulwark
 boaters
 braver
 bullshits
+basketries
 blowguns
 blatchang
 bicorporal
