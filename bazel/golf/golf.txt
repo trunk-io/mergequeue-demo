@@ -7538,7 +7538,6 @@ genicular
 gemmula
 grus
 glossator
-gyving
 grabhook
 grabouche
 gripsack
@@ -9509,6 +9508,7 @@ groutier
 gaes
 gins
 granule
+gyving
 groupwise
 goloch
 goodlike
