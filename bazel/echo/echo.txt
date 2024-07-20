@@ -951,7 +951,6 @@ equipping
 electrophoretic
 excludes
 ectropion
-ectropionize
 epilogues
 ectropium
 eluvia
@@ -6462,6 +6461,7 @@ eobionts
 edental
 evenmete
 euctical
+ectropionize
 eskars
 eyeflap
 ensnarls
