@@ -1630,6 +1630,7 @@ fixings
 finer
 farmost
 fiddlebow
+forereaching
 forecovert
 faffle
 funambulo
@@ -4805,7 +4806,6 @@ fellowshipped
 fellows
 filigera
 flagelliform
-forereaching
 fever
 folie
 flagellula
