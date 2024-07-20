@@ -107,7 +107,6 @@ canephorus
 cronish
 cabildo
 cabildos
-cabilliau
 cabin
 cabined
 characin
@@ -4443,6 +4442,7 @@ caririan
 commoner
 choke
 carisa
+cabilliau
 concertina
 cleistogamically
 chamoising
