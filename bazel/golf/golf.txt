@@ -2967,7 +2967,6 @@ gryde
 grumble
 glassed
 guildsmen
-geomancer
 geomancy
 garnered
 grumbled
@@ -5180,6 +5179,7 @@ gyrfalcons
 gonoplasm
 goldin
 girdering
+geomancer
 guardianships
 girouette
 gleys
