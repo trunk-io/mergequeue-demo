@@ -7082,7 +7082,6 @@ floodwater
 fedayeen
 fluorogen
 foolish
-fribbling
 ferryboats
 fleapit
 forespeech
@@ -8275,6 +8274,7 @@ freestyler
 forgotten
 fusspots
 foregame
+fribbling
 fountaining
 foursome
 forhaile
