@@ -6745,7 +6745,6 @@ gyrostatics
 genal
 genros
 goniums
-gunwales
 gasterosteoid
 gradate
 gestures
@@ -7021,6 +7020,7 @@ gunnage
 guelphic
 glaces
 gestalter
+gunwales
 gesnerian
 garbell
 garnetberry
