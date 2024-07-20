@@ -4621,7 +4621,6 @@ brothier
 bedframes
 bouncers
 broomed
-barographic
 bowdlerizes
 baldwin
 burnettized
@@ -13937,6 +13936,7 @@ binoculate
 bowstringed
 bowstrung
 bowtell
+barographic
 blackbeetle
 byspell
 broadened
