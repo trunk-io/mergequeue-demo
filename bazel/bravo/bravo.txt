@@ -7228,7 +7228,6 @@ bestirs
 bestock
 bestow
 bestowment
-bestows
 burgee
 briary
 breaching
@@ -11554,6 +11553,7 @@ biosystematist
 brownshirt
 birdwomen
 brachymetropia
+bestows
 bocedization
 blup
 barbs
