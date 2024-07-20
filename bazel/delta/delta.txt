@@ -5872,6 +5872,7 @@ depositories
 deducibleness
 deploration
 dismarshall
+disauthentic
 depositors
 dowel
 dressings
@@ -6150,7 +6151,6 @@ derailleurs
 derailment
 diplomatism
 dynapolis
-disauthentic
 december
 derays
 derangeable
