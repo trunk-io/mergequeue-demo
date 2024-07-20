@@ -560,6 +560,7 @@ ghetto
 galleryite
 garde
 gazometer
+getfd
 growls
 gableended
 gravamem
@@ -7249,7 +7250,6 @@ gymnonoti
 gosplan
 grabbings
 gilia
-getfd
 gonfalonier
 gosports
 gossamered
