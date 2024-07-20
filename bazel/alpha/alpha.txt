@@ -6918,7 +6918,6 @@ assailment
 albronze
 amende
 aglyphous
-adversative
 aptian
 aventine
 aln
@@ -17625,6 +17624,7 @@ aminobenzene
 antifederalist
 alcedo
 alunite
+adversative
 adjudgeable
 antirepublican
 appendaged
