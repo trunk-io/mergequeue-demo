@@ -1558,7 +1558,6 @@ gast
 gondoliere
 globicephala
 gymnura
-gooseweed
 gauntlet
 gutteral
 geropiga
@@ -2618,6 +2617,7 @@ glyconean
 goggled
 genic
 gradgrindian
+gooseweed
 geniculately
 geniculation
 gemarist
