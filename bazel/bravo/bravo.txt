@@ -10721,7 +10721,6 @@ buoy
 bleeze
 bronzine
 bosuns
-birling
 bleymes
 bleinerite
 berliner
@@ -17731,6 +17730,7 @@ barman
 begazed
 basker
 backhands
+birling
 bookways
 bradded
 bombshell
