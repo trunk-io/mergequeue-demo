@@ -3569,6 +3569,7 @@ deftness
 deftnesses
 defunct
 descendence
+discredence
 decayless
 defunction
 dollface
@@ -11793,7 +11794,6 @@ decoupage
 disco
 dopamelanin
 discreation
-discredence
 discredit
 discreditability
 dahabiya
