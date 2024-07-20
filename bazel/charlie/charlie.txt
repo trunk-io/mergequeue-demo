@@ -16537,6 +16537,7 @@ clockings
 clockless
 cuon
 clockmaker
+cryophorus
 clockmaking
 crewer
 clocksmith
@@ -27087,7 +27088,6 @@ counterreplied
 clypeastroida
 cladocerous
 counterreplies
-cryophorus
 counterreprisal
 clypei
 counterrevolutionary
