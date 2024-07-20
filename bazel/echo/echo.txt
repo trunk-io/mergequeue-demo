@@ -8415,7 +8415,6 @@ enmities
 epitra
 epitrachelia
 epitria
-epitrochlear
 earplug
 enwreathe
 entertain
@@ -11358,6 +11357,7 @@ extrametaphysical
 entortill
 equilater
 ecoclimate
+epitrochlear
 equivalencing
 equiparate
 evenfall
