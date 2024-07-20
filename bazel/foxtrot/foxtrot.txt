@@ -4093,7 +4093,6 @@ frabbit
 fraid
 foxtail
 forex
-foxlike
 finless
 fallopian
 filelike
@@ -6940,6 +6939,7 @@ fedarie
 fulgurite
 formalisation
 fastball
+foxlike
 farthingales
 formication
 formalistically
