@@ -300,7 +300,6 @@ dayanim
 directories
 daybeacon
 daybed
-disambiguation
 decriminalizing
 dissuasiveness
 dollfaced
@@ -5873,6 +5872,7 @@ deposito
 depositor
 dimaris
 daytime
+disambiguation
 depositories
 deducibleness
 deploration
