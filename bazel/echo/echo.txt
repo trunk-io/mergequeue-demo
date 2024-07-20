@@ -2403,7 +2403,6 @@ ehrwaldite
 ethionamide
 erythroclasis
 electroencephalogram
-electroencephalograph
 empeople
 entophytal
 espinel
@@ -8729,6 +8728,7 @@ ecstatics
 esthesiogenic
 elastometry
 enhallow
+electroencephalograph
 equisided
 equisignal
 erethitic
