@@ -3952,7 +3952,6 @@ gilds
 grandness
 gildship
 goldenrod
-gildsmen
 gerundive
 gerontophilia
 gymnoconia
@@ -7739,6 +7738,7 @@ grains
 gingerwork
 gargoylish
 gisant
+gildsmen
 grainsickness
 garlandry
 glucase
