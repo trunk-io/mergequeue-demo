@@ -8250,7 +8250,6 @@ biflabellate
 bullheadedly
 blowtorch
 biflagelate
-biflagellate
 bewaring
 boring
 borrow
@@ -16834,6 +16833,7 @@ buffaloback
 buffalofish
 buffaloing
 bulltoad
+biflagellate
 buffball
 branchiostege
 backings
