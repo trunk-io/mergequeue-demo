@@ -5824,6 +5824,7 @@ fussiest
 forebear
 fossiliferous
 flitterbat
+fructicultural
 featherback
 fallage
 fastigium
@@ -9166,7 +9167,6 @@ frostproofing
 ferret
 forward
 filices
-fructicultural
 filenames
 fifteenths
 flustroid
