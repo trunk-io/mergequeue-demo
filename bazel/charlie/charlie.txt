@@ -2563,6 +2563,7 @@ cambial
 crocoisite
 candlewasting
 coyan
+cytostome
 cordwoods
 codlins
 candlewicking
@@ -28874,7 +28875,6 @@ coney
 circumarctic
 calsouns
 crevasses
-cytostome
 chubasco
 crumblement
 crevassing
