@@ -1776,7 +1776,6 @@ bamboula
 bracers
 banterer
 bowmen
-bole
 balanops
 bambusa
 bedsprings
@@ -6042,6 +6041,7 @@ bowenite
 blanquillos
 butcherless
 balarama
+bole
 bemoat
 bilabial
 bemocking
