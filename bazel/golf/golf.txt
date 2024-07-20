@@ -4054,7 +4054,6 @@ gimleting
 gesnerad
 gimmal
 geotaxes
-gametophyte
 geniculum
 gettysburg
 gargoyle
@@ -8455,6 +8454,7 @@ greystone
 geomedical
 goshdarn
 gramaphone
+gametophyte
 ganglioblast
 gulden
 gastrosuccorrhea
