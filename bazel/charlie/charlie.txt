@@ -6671,7 +6671,6 @@ cedars
 cochairman
 cedarwood
 ceded
-cedens
 ceders
 cedes
 cottiers
@@ -21721,6 +21720,7 @@ casson
 crosa
 camphoric
 cecidomyiid
+cedens
 cephalon
 cinchonism
 conditioner
