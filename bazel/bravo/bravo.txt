@@ -1339,7 +1339,6 @@ bluenose
 brayed
 butterbump
 betwixen
-birdy
 balconies
 bywords
 bacule
@@ -6655,6 +6654,7 @@ bergs
 boneshave
 bodegon
 beribanded
+birdy
 bluestem
 biochemics
 bargeboard
