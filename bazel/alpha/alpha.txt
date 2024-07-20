@@ -2932,6 +2932,7 @@ actinenchyma
 absences
 acting
 actiniae
+absentia
 axisymmetric
 appalment
 ashless
@@ -8349,7 +8350,6 @@ alined
 antagonized
 anaxial
 alinement
-absentia
 alines
 arthroendoscopy
 agistment
