@@ -3644,6 +3644,7 @@ gyse
 granaries
 guayacan
 graduations
+gurdy
 ghuz
 gunlaying
 giant
@@ -6307,7 +6308,6 @@ goosenecked
 groceries
 gracer
 giglio
-gurdy
 gangtide
 graplines
 gamic
