@@ -2995,7 +2995,6 @@ epidotes
 elytroposis
 elytrorhagia
 elytrostenosis
-elastomer
 elytrotomy
 elix
 eggfish
@@ -7068,6 +7067,7 @@ expediate
 exchequers
 exocoetus
 equidistance
+elastomer
 ecdyson
 entune
 entepicondylar
