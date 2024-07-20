@@ -7913,7 +7913,6 @@ getups
 grippy
 grandiflora
 grandiosity
-gekkonoid
 gudok
 grandisonant
 ganglionectomy
@@ -10097,6 +10096,7 @@ gresil
 galahs
 gastropods
 grammarian
+gekkonoid
 genuses
 guirlande
 gasoscope
