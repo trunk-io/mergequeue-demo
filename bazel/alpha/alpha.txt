@@ -2169,6 +2169,7 @@ agrostology
 achordal
 alqueire
 angles
+amyelotrophy
 achordata
 achordate
 achorion
@@ -10507,7 +10508,6 @@ amyelia
 algaesthesia
 amyelic
 achage
-amyelotrophy
 amyelous
 aposematically
 amygdal
