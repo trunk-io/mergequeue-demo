@@ -769,7 +769,6 @@ exscinding
 escutcheon
 eucrasite
 ecphonema
-ecphore
 emotes
 euomphalid
 ecrase
@@ -13314,6 +13313,7 @@ extracosmic
 encephalodialysis
 educts
 explosimeter
+ecphore
 englishmen
 explosionist
 exorcisms
