@@ -5602,7 +5602,6 @@ businessmen
 bardes
 byelaws
 bedeen
-bellyfish
 beladying
 buzzwig
 brokenness
@@ -6354,6 +6353,7 @@ benzdifuran
 benzdioxazine
 buffalofishes
 benzein
+bellyfish
 blinks
 benzenediazonium
 bebar
