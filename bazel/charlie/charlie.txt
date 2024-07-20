@@ -15806,6 +15806,7 @@ clavilux
 coy
 carlisle
 clavipectoral
+chips
 clavises
 clavolet
 chapel
@@ -28099,7 +28100,6 @@ coastwise
 collusion
 crane
 craned
-chips
 cerveliere
 ching
 cichoriaceae
