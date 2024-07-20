@@ -2047,6 +2047,7 @@ chandlery
 collapsar
 camoufleur
 chests
+cosherer
 camp
 campa
 campagi
@@ -20030,7 +20031,6 @@ capers
 commem
 commemorate
 commemorated
-cosherer
 commemorates
 commemoration
 commemorative
