@@ -4414,6 +4414,7 @@ gunlayer
 gypped
 giardia
 gyp
+gundog
 greffier
 griskin
 gipsy
@@ -10530,7 +10531,6 @@ grayishness
 garn
 goblinry
 gundie
-gundog
 graspingness
 goladar
 girl
