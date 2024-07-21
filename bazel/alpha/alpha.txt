@@ -2433,7 +2433,6 @@ aciculas
 anatexes
 alswith
 abnormalities
-adornments
 acleistous
 appall
 aclidian
@@ -13163,6 +13162,7 @@ animine
 animis
 animism
 abow
+adornments
 almaine
 animist
 alloplasmic
