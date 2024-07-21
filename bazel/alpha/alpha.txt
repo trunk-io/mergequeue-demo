@@ -2668,7 +2668,6 @@ acrididae
 affords
 aegritude
 acridiidae
-acridin
 acridine
 acridines
 ankylophobia
@@ -23586,6 +23585,7 @@ auricle
 antiexpressively
 auriculare
 anticreativeness
+acridin
 auriculares
 auricularia
 auriculariaceae
