@@ -3098,7 +3098,6 @@ fibril
 fuzing
 fairily
 fluorin
-fibrilated
 frounceless
 fibrillar
 forgrown
@@ -3715,6 +3714,7 @@ fribby
 filings
 fewter
 futuro
+fibrilated
 filigrees
 fidos
 flourishes
