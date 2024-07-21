@@ -3528,7 +3528,6 @@ blithesomeness
 bathymetry
 bathymetrical
 bathing
-blockhouse
 bastinadoes
 beckoning
 bridgekeeper
@@ -9223,6 +9222,7 @@ bugeye
 bushelmen
 bunolophodont
 bobbinwork
+blockhouse
 bipartisanship
 bipartitely
 belitter
