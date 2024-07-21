@@ -17421,6 +17421,7 @@ cruder
 coastland
 coastlines
 channeled
+condensible
 churchmaster
 coastward
 coastwards
@@ -21638,7 +21639,6 @@ condensedness
 condensers
 condenses
 cooba
-condensible
 condensing
 committeeman
 camphorating
