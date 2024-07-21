@@ -1943,7 +1943,6 @@ flanchard
 flated
 fatigation
 flowchart
-ferule
 forefit
 formulization
 fishlet
@@ -5741,6 +5740,7 @@ feculent
 ferulas
 frontis
 farced
+ferule
 fingerstone
 fleuronnee
 fungous
