@@ -5238,6 +5238,7 @@ daemon
 doghole
 deathly
 disterr
+devoid
 denitrifier
 denitrifying
 denizenation
@@ -15917,7 +15918,6 @@ dossiers
 dehydrogeniser
 diamondize
 dorty
-devoid
 daikers
 dosain
 dose
