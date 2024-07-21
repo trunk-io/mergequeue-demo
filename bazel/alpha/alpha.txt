@@ -6725,6 +6725,7 @@ ainsells
 accepters
 armyworm
 abucco
+alt
 arpeggio
 aeromaechanic
 andrewsite
@@ -9426,7 +9427,6 @@ amphiblastic
 alstonite
 alstroemeria
 alsweill
-alt
 anticathode
 altaian
 aetian
