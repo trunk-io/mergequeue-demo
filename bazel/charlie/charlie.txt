@@ -16885,7 +16885,6 @@ clowneries
 clownheal
 coadjutrices
 clowning
-clowns
 clownship
 cloxacillin
 crinkle
@@ -28494,6 +28493,7 @@ creative
 conphaseolin
 cutability
 creativity
+clowns
 creatorhood
 creatotoxism
 columellae
