@@ -3305,7 +3305,6 @@ baskish
 basnat
 boller
 burgoos
-basocyte
 bronchobuster
 basoid
 baraithas
@@ -3693,6 +3692,7 @@ battlement
 barnstorms
 battler
 battles
+basocyte
 battleships
 barrace
 blushiness
