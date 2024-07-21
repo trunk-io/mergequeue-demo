@@ -3930,7 +3930,6 @@ adjutrice
 adjutrix
 adlai
 ambassage
-adlegation
 adlet
 ameba
 adlumia
@@ -22356,6 +22355,7 @@ astrometeorological
 aforenamed
 ancestrial
 allegorization
+adlegation
 astrometry
 astrometric
 astron
