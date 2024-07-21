@@ -2495,7 +2495,6 @@ begroans
 barger
 bardash
 bractea
-bicycles
 bombay
 borscht
 beruffled
@@ -3938,6 +3937,7 @@ berchta
 bounteousness
 becrawl
 beaconless
+bicycles
 beacons
 beadeye
 barbecue
