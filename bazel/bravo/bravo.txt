@@ -4584,7 +4584,6 @@ byrewards
 bullrushes
 bedehouses
 bedelve
-barmiest
 balustrade
 bedemen
 breadstuff
@@ -16387,6 +16386,7 @@ bouffes
 bruno
 bryanthus
 boroughs
+barmiest
 bufonidae
 bridgeless
 bestink
