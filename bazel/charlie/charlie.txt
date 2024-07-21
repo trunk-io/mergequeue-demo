@@ -2071,7 +2071,6 @@ cecils
 comdg
 campanile
 campaniles
-campanili
 colloquiquiums
 campaniliform
 campanini
@@ -24002,6 +24001,7 @@ conveyorizing
 conveyors
 conveys
 creamsacs
+campanili
 chamaesiphon
 convenances
 convene
