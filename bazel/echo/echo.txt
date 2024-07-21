@@ -5362,7 +5362,6 @@ envolupen
 evocatory
 endotheliomas
 explicators
-endotheliomata
 esquiline
 empyreum
 endotheliulia
@@ -7715,6 +7714,7 @@ embrued
 effumability
 epideictic
 endomesoderm
+endotheliomata
 euphemiser
 expoundable
 epideistic

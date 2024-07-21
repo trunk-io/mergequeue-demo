@@ -3568,7 +3568,6 @@ adenocarcinoma
 adenocarcinomas
 aulacocarpous
 adenocarcinomata
-akepiros
 adenochondroma
 adenochondrosarcoma
 adenochrome
@@ -15301,6 +15300,7 @@ antihierarchies
 antihierarchism
 amortise
 antihygienic
+akepiros
 adenocyst
 antihygienically
 aircraftswomen
