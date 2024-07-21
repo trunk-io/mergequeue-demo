@@ -6781,6 +6781,7 @@ advantageous
 argentarius
 afterband
 amyrin
+ammonify
 airdrome
 airdromes
 airdrop
@@ -19720,7 +19721,6 @@ affabrous
 appeasement
 aristocratism
 aristocrats
-ammonify
 adrectal
 aristodemocracies
 anthericum
