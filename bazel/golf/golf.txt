@@ -2263,7 +2263,6 @@ geognosis
 galactan
 guaranis
 gelatine
-glucoprotein
 gerastian
 ge
 gloryless
@@ -6822,6 +6821,7 @@ gonotyl
 gluteoinguinal
 gauntlets
 gonotype
+glucoprotein
 galeas
 gutwise
 genitival
