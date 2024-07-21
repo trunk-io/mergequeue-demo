@@ -2522,7 +2522,6 @@ enacts
 escadrilles
 electrolyser
 exorcist
-electromassage
 efficaciousness
 endocritic
 eminency
@@ -3612,6 +3611,7 @@ evestar
 enriching
 expositive
 emotionalised
+electromassage
 eudaemonize
 elatinaceous
 elaeocarpaceous
