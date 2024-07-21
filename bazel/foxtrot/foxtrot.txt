@@ -4522,7 +4522,6 @@ foreboded
 fingernails
 felafel
 fuddles
-flaxwench
 forblack
 fissionable
 farmlands
@@ -8682,6 +8681,7 @@ fortify
 fibroids
 foreyard
 fortifiers
+flaxwench
 fid
 fortifies
 falsifies
