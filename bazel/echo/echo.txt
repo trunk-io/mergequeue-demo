@@ -3329,6 +3329,7 @@ eulachons
 essentialities
 equus
 esquirearchy
+emoted
 egal
 epicoeliac
 explorator
@@ -3658,7 +3659,6 @@ engarment
 emaciated
 erythrons
 everse
-emoted
 entrancer
 envenom
 embryoism
