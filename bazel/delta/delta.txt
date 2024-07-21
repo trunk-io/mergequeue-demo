@@ -1631,6 +1631,7 @@ daundered
 dealkylation
 disassembler
 deallocate
+deobstruct
 devotional
 daunter
 dicephalus
@@ -5461,7 +5462,6 @@ detd
 dauk
 denver
 divagational
-deobstruct
 deodand
 deodorisation
 deodorised
