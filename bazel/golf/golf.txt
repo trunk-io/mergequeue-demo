@@ -7539,7 +7539,6 @@ goodyness
 genicular
 gemmula
 grus
-glossator
 grabhook
 grabouche
 gripsack
@@ -8407,6 +8406,7 @@ garancine
 goatishness
 giantry
 glauconitization
+glossator
 grufted
 gigeria
 gustoso
