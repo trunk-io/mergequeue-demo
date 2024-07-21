@@ -2087,7 +2087,6 @@ gazebo
 gazeboes
 guestship
 glabella
-gazebos
 gyros
 grampus
 glumiferous
@@ -10038,6 +10037,7 @@ geomancies
 gangliac
 gastronomes
 gleans
+gazebos
 giver
 gammation
 grandevous
