@@ -3714,7 +3714,6 @@ erythroid
 efflower
 endiaper
 engregge
-endostylic
 euchologion
 erugation
 extras
@@ -6997,6 +6996,7 @@ epipodiale
 eying
 exhortatory
 epistolar
+endostylic
 ephectic
 erian
 ecthlipses
