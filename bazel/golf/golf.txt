@@ -3733,6 +3733,7 @@ gaul
 gygis
 giboia
 gibstaff
+graceless
 galeche
 greyhound
 gratefulness
@@ -7541,7 +7542,6 @@ gerenda
 garpike
 gilbertite
 gracefuller
-graceless
 gracelessly
 gallerying
 gracelessness
