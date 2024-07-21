@@ -7812,7 +7812,6 @@ blastplate
 biography
 blessedest
 ballasts
-biases
 butlerage
 biasing
 biauricular
@@ -9954,6 +9953,7 @@ bilinguality
 bridleman
 burbles
 biurea
+biases
 bivalence
 byelaw
 bergerette
