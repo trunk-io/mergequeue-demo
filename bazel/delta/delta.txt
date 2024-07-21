@@ -16345,6 +16345,7 @@ diosmotic
 discredits
 dispeace
 downriver
+defended
 dismes
 downshift
 downshifted
@@ -16602,7 +16603,6 @@ dragoman
 diatonically
 drongos
 dragomanate
-defended
 decompile
 disclaims
 daman
