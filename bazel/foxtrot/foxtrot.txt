@@ -2492,6 +2492,7 @@ falus
 footbridges
 fermentescible
 fielding
+fornax
 flurriment
 ferruginated
 fungal
@@ -9638,7 +9639,6 @@ ferias
 fibrocrystalline
 fortalice
 finalities
-fornax
 flukier
 foamer
 frons
