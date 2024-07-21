@@ -3410,7 +3410,6 @@ decolorisation
 decompensate
 donet
 deflector
-diffusimeter
 deciduousness
 dichlorvos
 devitrifying
@@ -17663,6 +17662,7 @@ dreamed
 duadic
 duads
 dentalmen
+diffusimeter
 duali
 doolies
 drawbacks
