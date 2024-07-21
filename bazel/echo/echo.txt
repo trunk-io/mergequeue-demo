@@ -6510,7 +6510,6 @@ ensuring
 equators
 enswathement
 elementariness
-enumerations
 evidently
 enswathing
 ephelis
@@ -11191,6 +11190,7 @@ enviroment
 exonuclease
 endospermic
 exanthema
+enumerations
 evaluated
 ecumenicist
 etherin
