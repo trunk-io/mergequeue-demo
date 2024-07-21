@@ -2319,6 +2319,7 @@ bathyscape
 barbicel
 barbicels
 buoyance
+bathonian
 barbierite
 busyish
 bromite
@@ -3563,7 +3564,6 @@ bankeress
 barkentine
 bathometer
 bathometry
-bathonian
 blockmaking
 bathool
 bathophobia
