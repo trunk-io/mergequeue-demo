@@ -8927,7 +8927,6 @@ alloiometric
 adjustments
 acrogenic
 alloisomerism
-allokurtic
 allomerizing
 averager
 anematizing
@@ -19192,6 +19191,7 @@ arista
 arctics
 acheer
 arctiid
+allokurtic
 arctisca
 arctium
 arctogaean
