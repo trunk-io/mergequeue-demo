@@ -2858,7 +2858,6 @@ canonry
 canonries
 canons
 canonship
-canoodled
 canoodles
 counsinhood
 crozed
@@ -19574,6 +19573,7 @@ colportage
 colporter
 colporteurs
 covido
+canoodled
 colposcopy
 crocodiles
 colstaff
