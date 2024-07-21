@@ -5109,7 +5109,6 @@ glumales
 genetmoil
 guereba
 gazania
-glave
 glazers
 geldant
 grouch
@@ -5858,6 +5857,7 @@ glucokinase
 gastrophrenic
 gravimetric
 ginnings
+glave
 goliards
 glucolipid
 glucolipin
