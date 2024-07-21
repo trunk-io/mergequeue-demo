@@ -2642,7 +2642,6 @@ basidiophore
 bowerlike
 bimensal
 barleys
-barly
 bellying
 bable
 barling
@@ -4289,6 +4288,7 @@ bushbodies
 brattach
 batiker
 boebera
+barly
 breadbaskets
 becall
 becalm
