@@ -5062,6 +5062,7 @@ engrains
 elatha
 endocyst
 educatory
+epodic
 endotheloid
 endocystitis
 experted
@@ -6741,7 +6742,6 @@ entete
 eurytherm
 epistrophy
 etherate
-epodic
 enthelminthic
 enthetic
 enthymematic
