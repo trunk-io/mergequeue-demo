@@ -1819,7 +1819,6 @@ bandager
 bandaging
 bandaid
 bandala
-bandana
 buggery
 bandanaed
 battlepiece
@@ -12834,6 +12833,7 @@ boomboxes
 barmy
 boomed
 boomeranged
+bandana
 boozehound
 boomiest
 boominess
