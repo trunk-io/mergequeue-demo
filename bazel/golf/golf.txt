@@ -1957,7 +1957,6 @@ gams
 gaurian
 gaurie
 gaurs
-gulist
 gester
 gimbri
 gaussage
@@ -3075,6 +3074,7 @@ geopolitical
 grangers
 grudgefully
 geopolitist
+gulist
 grace
 geopotential
 gelosin
