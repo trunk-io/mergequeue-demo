@@ -2883,7 +2883,6 @@ excitation
 emplaning
 elevons
 eurydice
-electrotelethermometer
 elf
 elfenfolk
 epinard
@@ -9912,6 +9911,7 @@ encodes
 epidemical
 enodally
 encave
+electrotelethermometer
 editorial
 eugenicist
 esthiomene
