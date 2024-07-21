@@ -1832,7 +1832,6 @@ ergatogyny
 ectepicondylar
 eigenvalues
 eudemony
-eigenvectors
 evaginated
 effervescive
 ensouling
@@ -6054,6 +6053,7 @@ evittate
 enlard
 elevatedly
 enlargeable
+eigenvectors
 enregister
 entomophagan
 ethiopic
