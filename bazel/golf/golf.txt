@@ -1236,7 +1236,6 @@ grassman
 garbill
 gallein
 guyline
-gooral
 goosebone
 ganomalite
 garbler
@@ -9149,6 +9148,7 @@ gripmen
 grumium
 gripment
 grypotherium
+gooral
 gridlock
 griege
 greenstick
