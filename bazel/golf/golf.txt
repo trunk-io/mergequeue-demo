@@ -4178,7 +4178,6 @@ gimped
 gimpier
 guidable
 galactolytic
-gardyloo
 gippers
 gliosa
 gigantosaurus
@@ -10116,6 +10115,7 @@ granado
 guetre
 gufa
 greynesses
+gardyloo
 grano
 guffawed
 geodetical
