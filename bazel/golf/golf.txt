@@ -627,7 +627,6 @@ gallisin
 gunslingers
 geophysicist
 gallivant
-gryphon
 gallivanters
 glide
 galactemia
@@ -1635,6 +1634,7 @@ gingers
 gastrocnemii
 gaffed
 goldarned
+gryphon
 gutling
 guinfo
 gastrocoel
