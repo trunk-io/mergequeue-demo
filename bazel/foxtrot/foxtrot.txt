@@ -4989,6 +4989,7 @@ flamer
 flamers
 flamethrowers
 flamy
+fan
 facepiece
 floorages
 flamingant
@@ -5314,7 +5315,6 @@ fascioplasty
 flamelet
 flaxman
 foreplanting
-fan
 formonitrile
 fingerprinting
 ferry
