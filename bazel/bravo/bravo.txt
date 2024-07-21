@@ -3103,6 +3103,7 @@ backseats
 bonnes
 burghemot
 bronchography
+bleat
 briskly
 brachiating
 beturbaned
@@ -10678,7 +10679,6 @@ begarnish
 blearing
 blearness
 blears
-bleat
 bleated
 beild
 butcherdom
