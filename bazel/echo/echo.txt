@@ -2317,7 +2317,6 @@ endmatcher
 exundation
 electroanalytic
 electroanesthesia
-emulsification
 eavesdrop
 entrapper
 electroballistics
@@ -4149,6 +4148,7 @@ emporte
 esrog
 ecstasy
 exegeses
+emulsification
 episiocele
 era
 ensteep
