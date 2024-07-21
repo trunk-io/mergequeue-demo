@@ -1487,6 +1487,7 @@ aegagrus
 algid
 alpinery
 acclimatizer
+anthela
 acclimatizes
 amphipneustic
 acrisia
@@ -14243,7 +14244,6 @@ anthecologist
 antheia
 auteur
 alegars
-anthela
 amphipodan
 anthelia
 aramaean
