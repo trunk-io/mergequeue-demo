@@ -14790,7 +14790,6 @@ direx
 demiwivern
 dinornithid
 dinheiro
-decimalising
 denticular
 downcasts
 decrepitating
@@ -18604,6 +18603,7 @@ denudational
 diomedes
 dusttight
 dustuk
+decimalising
 dustups
 digitus
 debugger
