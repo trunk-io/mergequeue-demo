@@ -1483,7 +1483,6 @@ gymnarchus
 gluconate
 galosh
 gasification
-glottochronology
 guacamole
 guarachas
 granospherite
@@ -4335,6 +4334,7 @@ graphicalness
 grylli
 gunky
 guz
+glottochronology
 gelofer
 galops
 ginglymostomoid
