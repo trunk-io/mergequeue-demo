@@ -13123,6 +13123,7 @@ accouterments
 adapter
 ayrshire
 animant
+atmidometer
 animastic
 animastical
 anacletica
@@ -20505,7 +20506,6 @@ apperceptionistic
 archetype
 adhesivemeter
 anathema
-atmidometer
 automatically
 arteritis
 artesian
