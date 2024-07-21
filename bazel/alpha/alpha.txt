@@ -14557,7 +14557,6 @@ auric
 anthropophagize
 anthropophilous
 anthropophobia
-anthropos
 anthroposociology
 altarlet
 adoretus
@@ -19411,6 +19410,7 @@ acephalite
 argentate
 aseptify
 argenteous
+anthropos
 argentic
 azocyanide
 allicins
