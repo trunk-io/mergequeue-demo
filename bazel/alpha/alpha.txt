@@ -5898,7 +5898,6 @@ agglomerative
 apical
 anartismos
 agglutinate
-agglutinated
 analytically
 agglutination
 arenaceous
@@ -10762,6 +10761,7 @@ ammochaetae
 aaronic
 ammocoete
 ammocoetes
+agglutinated
 addossed
 albumoses
 alloantibody
