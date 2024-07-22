@@ -1383,7 +1383,6 @@ blots
 baldhead
 baldheaded
 baldheads
-basipterygial
 braise
 bushings
 baldish
@@ -11916,6 +11915,7 @@ befouled
 banks
 begemming
 boatlip
+basipterygial
 boehmeria
 boehmite
 borgh
