@@ -5061,6 +5061,7 @@ gopher
 goosefoots
 garrya
 granza
+gospelist
 gastroptosia
 guilders
 gravery
@@ -7256,7 +7257,6 @@ gyrostatic
 genet
 goading
 gutturally
-gospelist
 guze
 gravelling
 gangly
