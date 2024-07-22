@@ -4760,7 +4760,6 @@ bits
 bedside
 bedsonia
 bedsonias
-bumblefoot
 bescribbling
 bedsore
 bakers
@@ -9676,6 +9675,7 @@ bourette
 bismite
 bismuth
 bismuthal
+bumblefoot
 bromids
 bismuthate
 burhinus
