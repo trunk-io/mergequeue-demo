@@ -7265,7 +7265,6 @@ cladoceran
 centrifugate
 centrifuge
 centrifugence
-centrifuges
 centrifuging
 centring
 centrings
@@ -29863,6 +29862,7 @@ crosscutter
 confutative
 courtier
 cuttikin
+centrifuges
 crosscutting
 crosse
 crossed
