@@ -1927,7 +1927,6 @@ bandstand
 beacon
 boronia
 beraked
-bandstop
 bocaccios
 bagnio
 balances
@@ -5802,6 +5801,7 @@ buckstone
 bellyache
 biremes
 butlerism
+bandstop
 bellyached
 bismethyl
 bellyacher
