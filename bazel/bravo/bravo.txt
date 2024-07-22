@@ -1936,7 +1936,6 @@ bocaccios
 bagnio
 balances
 bandstring
-bandusia
 brandishes
 bosquets
 bitripartite
@@ -2618,6 +2617,7 @@ birdhouses
 barking
 botanise
 barkless
+bandusia
 barkometer
 bescorch
 batrachite
