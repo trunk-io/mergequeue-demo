@@ -5658,6 +5658,7 @@ eucalypts
 enfree
 enfrenzy
 earthmove
+exposable
 environmentalist
 erysiphaceae
 ectocelic
@@ -13355,7 +13356,6 @@ enfonce
 excretive
 electroculture
 estating
-exposable
 emotionalising
 erogenous
 ethnogeographically
