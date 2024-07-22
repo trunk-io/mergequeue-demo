@@ -2583,6 +2583,7 @@ bridgelike
 barkan
 barocco
 bizarrely
+belfries
 barkary
 barkbound
 barkcutter
@@ -16443,7 +16444,6 @@ brushpopper
 brushwood
 brushwork
 burdock
-belfries
 batten
 beecher
 biblically
