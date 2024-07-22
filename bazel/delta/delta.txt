@@ -1868,7 +1868,6 @@ defet
 docimasies
 distal
 debonair
-debonaire
 debonairity
 debonairness
 deboned
@@ -11974,6 +11973,7 @@ diseased
 deifying
 dissyllabify
 dianoetic
+debonaire
 diseasedness
 diseases
 diseconomy
