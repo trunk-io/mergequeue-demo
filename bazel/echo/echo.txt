@@ -8105,7 +8105,6 @@ enteroscopy
 exotic
 expositor
 epiglottidean
-electromyographic
 epiphloeum
 entranceway
 etherize
@@ -9076,6 +9075,7 @@ equivalue
 efformation
 erythroblast
 echinulation
+electromyographic
 eurychoric
 erythroblastic
 extrafoliaceous
