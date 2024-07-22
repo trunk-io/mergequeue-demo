@@ -2936,6 +2936,7 @@ foxship
 formicarium
 fuzz
 frabjously
+formats
 foaled
 fractioning
 fettlings
@@ -3809,7 +3810,6 @@ filmgoers
 filmy
 filmic
 fenagle
-formats
 flightiest
 firstlings
 filmiform
