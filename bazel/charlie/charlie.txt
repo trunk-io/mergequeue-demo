@@ -4578,6 +4578,7 @@ couscouses
 clapperdudgeon
 carnied
 carniferrin
+colorcast
 carnifex
 carnifexes
 carnification
@@ -19447,7 +19448,6 @@ celesta
 colorblind
 cartomancies
 colorbreed
-colorcast
 colorcasting
 colorcasts
 colorectitis
