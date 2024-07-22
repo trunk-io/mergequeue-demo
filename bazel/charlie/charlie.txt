@@ -8411,6 +8411,7 @@ chalking
 converts
 chalklike
 chalkline
+columnated
 chalkone
 chalkos
 chalkotheke
@@ -22757,7 +22758,6 @@ columnarized
 caligraphy
 conscience
 conscienceless
-columnated
 canoeiro
 condivision
 consciencelessly
