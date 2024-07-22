@@ -1501,7 +1501,6 @@ borstal
 bistable
 bedsick
 balladic
-boardlike
 balladised
 balladism
 brisked
@@ -11871,6 +11870,7 @@ bodywork
 bodyworks
 bodkin
 bodkins
+boardlike
 breakfastless
 barmybrained
 birdsall
