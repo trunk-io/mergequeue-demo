@@ -2484,7 +2484,6 @@ electrolysation
 enervators
 enmeshed
 electrolysed
-electrolysing
 ensate
 eparcuale
 epitomisation
@@ -12461,6 +12460,7 @@ effluviums
 exhumes
 euryscope
 equilibrial
+electrolysing
 exhuming
 epifaunal
 enthronization
