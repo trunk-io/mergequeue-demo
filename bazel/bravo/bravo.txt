@@ -2290,7 +2290,6 @@ bewearies
 baister
 barbecuer
 barbecues
-burp
 barbellula
 barbellulae
 belabor
@@ -8438,6 +8437,7 @@ biogenous
 blackwood
 bilabiate
 bilayer
+burp
 bedarkened
 bookmen
 bilalo
