@@ -10939,7 +10939,6 @@ blindstorey
 broiders
 bombers
 babroot
-barra
 blindstories
 ballistically
 brede
@@ -13642,6 +13641,7 @@ bounceback
 blowsy
 bouncier
 batteried
+barra
 bounciness
 begladding
 binning
