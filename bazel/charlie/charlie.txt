@@ -1133,6 +1133,7 @@ calcspar
 calcspars
 cotwal
 chlamydophore
+catastatic
 crunches
 chilopoda
 calctufa
@@ -5706,7 +5707,6 @@ congregationist
 catastasis
 catoptromancy
 catastate
-catastatic
 catasterism
 catastrophal
 cryptologist
