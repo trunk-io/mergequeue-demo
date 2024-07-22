@@ -5981,7 +5981,6 @@ deprint
 disinvite
 depriorize
 disorderedness
-dysmerism
 deprivable
 degrader
 departements
@@ -17194,6 +17193,7 @@ dryops
 dup
 dryopteroid
 disagio
+dysmerism
 dripolator
 deaves
 dribbing
