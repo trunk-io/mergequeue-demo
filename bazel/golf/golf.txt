@@ -508,7 +508,6 @@ gowiddie
 gildhalls
 golem
 gruffing
-globing
 gastriloquist
 galionji
 geologers
@@ -1379,6 +1378,7 @@ ghastly
 garotters
 garnetlike
 gliomatous
+globing
 groutite
 gastrostegal
 garnetter
