@@ -8810,6 +8810,7 @@ expedients
 extime
 enterozoan
 exenteritis
+ectosteal
 evangelary
 el
 ectoskeleton
@@ -13031,7 +13032,6 @@ entrusted
 epinaoi
 eraser
 encyc
-ectosteal
 edana
 emrode
 exhibiting
