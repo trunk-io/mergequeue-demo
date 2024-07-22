@@ -9852,7 +9852,6 @@ forjudges
 frogs
 fouler
 friarling
-falconidae
 floodlet
 frats
 fissileness
@@ -11219,6 +11218,7 @@ foreday
 farsang
 furzed
 furthered
+falconidae
 funiculars
 funiform
 funje
