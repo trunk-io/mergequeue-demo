@@ -2919,7 +2919,6 @@ boules
 brassavola
 barrelwise
 barren
-barrenly
 barretor
 bloodybones
 billowed
@@ -13726,6 +13725,7 @@ backsliders
 buchanan
 bourtree
 bombination
+barrenly
 betallow
 bdellostomidae
 bezonian
