@@ -3834,7 +3834,6 @@ disunities
 deigned
 diwan
 deigns
-dorsocephalad
 defail
 donkey
 dialyzator
@@ -13277,6 +13276,7 @@ determinator
 draftman
 diapensiaceae
 dorsula
+dorsocephalad
 dyspnoeal
 dropkicks
 drawer
