@@ -8786,6 +8786,7 @@ barterer
 bigbloom
 behav
 beggars
+baptizers
 banjos
 broker
 batrachoid
@@ -14416,7 +14417,6 @@ brainteaser
 brainteasers
 brainward
 brow
-baptizers
 brachygraphy
 birdshots
 bowldery
