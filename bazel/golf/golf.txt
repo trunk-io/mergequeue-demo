@@ -5284,7 +5284,6 @@ ginnery
 gymnadeniopsis
 geoponics
 glycerophosphoric
-gladiole
 glycosyl
 germinal
 glyceroxide
@@ -6789,6 +6788,7 @@ glossopharyngeus
 glacis
 gratuitous
 gonococcocci
+gladiole
 gonopore
 gonocoele
 gerontologist
