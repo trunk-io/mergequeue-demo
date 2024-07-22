@@ -6140,7 +6140,6 @@ aglossal
 aglossia
 aglow
 aglucon
-agma
 achete
 agmas
 anucleated
@@ -7476,6 +7475,7 @@ albright
 arable
 achromic
 agelong
+agma
 albuca
 albuginaceae
 albuginea
