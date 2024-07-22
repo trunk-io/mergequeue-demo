@@ -2486,6 +2486,7 @@ barfish
 bargainable
 buckraming
 billbugs
+bucchero
 bargainer
 bargaining
 beechwoods
@@ -3479,7 +3480,6 @@ bargemen
 bogging
 bateau
 blastomycetous
-bucchero
 bateleur
 barbered
 bovista
