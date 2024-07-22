@@ -4581,7 +4581,6 @@ bedehouse
 byrewards
 bullrushes
 bedehouses
-bedelve
 balustrade
 bedemen
 breadstuff
@@ -12853,6 +12852,7 @@ brushoff
 bodily
 birkies
 baresarks
+bedelve
 bucketeer
 boomster
 boomtown
