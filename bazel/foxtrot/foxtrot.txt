@@ -3710,7 +3710,6 @@ fluxweed
 freeboots
 forewarn
 footbreadth
-fribby
 filings
 fewter
 futuro
@@ -7052,6 +7051,7 @@ floater
 foodful
 foodless
 fulfilled
+fribby
 fatalities
 foreknow
 flowk
