@@ -5858,6 +5858,7 @@ engraver
 expalpate
 entree
 engysseismology
+electrification
 endophytous
 erasures
 erg
@@ -9450,7 +9451,6 @@ escarp
 elutriated
 eighteens
 escarpment
-electrification
 exostosed
 epipodium
 escarps
