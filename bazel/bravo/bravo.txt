@@ -9022,7 +9022,6 @@ bondieuserie
 burelage
 biomes
 beanlike
-biometric
 biennials
 biometricist
 beavery
@@ -12720,6 +12719,7 @@ brachydactylic
 bailsmen
 brahminism
 bookfold
+biometric
 bookhood
 bloodhounds
 bookings
