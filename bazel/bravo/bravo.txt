@@ -3154,7 +3154,6 @@ befriends
 basicerite
 basicity
 baloneys
-bumph
 benzins
 booklores
 byland
@@ -13507,6 +13506,7 @@ barrelsful
 botuliform
 babool
 botulins
+bumph
 bashaw
 bangboard
 botulinum
