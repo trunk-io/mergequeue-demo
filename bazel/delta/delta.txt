@@ -5250,7 +5250,6 @@ dicty
 denotable
 depolarisation
 deafer
-denotative
 denotatively
 dampens
 denotativeness
@@ -16604,6 +16603,7 @@ daman
 dissimilated
 demifusion
 dragonade
+denotative
 donjon
 dactylopius
 denotations
