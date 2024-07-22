@@ -4921,7 +4921,6 @@ bimedial
 bonework
 beeped
 burgware
-battak
 blesse
 belgae
 bonaveria
@@ -16845,6 +16844,7 @@ buffier
 buffiest
 birdcalls
 buzzer
+battak
 butut
 betas
 benvenuto
