@@ -3039,6 +3039,7 @@ confronts
 cantraip
 cantraips
 cantraps
+chares
 capitonidae
 cantrip
 cantrips
@@ -9037,7 +9038,6 @@ chards
 coralliferous
 chared
 charely
-chares
 crinivorous
 catechumenical
 catholicizing
