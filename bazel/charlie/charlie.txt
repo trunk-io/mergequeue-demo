@@ -11492,7 +11492,6 @@ choana
 choanate
 choanephora
 cystopyelography
-choanocytal
 choanocyte
 choanoflagellate
 choanoflagellida
@@ -19605,6 +19604,7 @@ colubrinae
 colubrine
 clarsach
 colubroid
+choanocytal
 colugo
 canaliculi
 cannelated
