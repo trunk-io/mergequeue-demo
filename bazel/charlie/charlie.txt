@@ -21792,7 +21792,6 @@ clambered
 climatotherapies
 couleur
 conductive
-conductivity
 conductometer
 corrosional
 cheatable
@@ -24853,6 +24852,7 @@ coquillage
 coquille
 corrade
 crosiers
+conductivity
 coquitlam
 clake
 cor
