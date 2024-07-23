@@ -1452,7 +1452,6 @@ accidentalism
 accidented
 accidential
 awakings
-accidentiality
 accidently
 accinge
 anhimidae
@@ -19860,6 +19859,7 @@ armeria
 assaulted
 aspires
 armers
+accidentiality
 acanthite
 armet
 armets
