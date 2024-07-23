@@ -762,6 +762,7 @@ geomorphology
 galvanomagnetism
 gombeen
 goumi
+genericness
 genae
 galvanoplasty
 grovers
@@ -4677,7 +4678,6 @@ gammaridae
 girts
 gettered
 gynomonecious
-genericness
 gise
 gargoylism
 giansar
