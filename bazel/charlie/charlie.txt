@@ -6894,6 +6894,7 @@ collide
 cellules
 cellulifugal
 crevasse
+clamor
 cellulin
 contangoes
 cuddly
@@ -15364,7 +15365,6 @@ clammily
 clamminess
 clamming
 clammyweed
-clamor
 clamored
 clamorer
 clamorers
