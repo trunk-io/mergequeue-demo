@@ -5324,7 +5324,6 @@ argoletier
 afforested
 afforesting
 anticogitative
-afforests
 afformative
 affrayers
 affraying
@@ -8822,6 +8821,7 @@ avens
 alliterativeness
 alliterator
 ascoma
+afforests
 acescents
 alodial
 antisensuously
