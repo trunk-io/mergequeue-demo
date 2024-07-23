@@ -8486,6 +8486,7 @@ bildar
 bullshot
 bilder
 barostat
+bals
 bilders
 bilection
 bileve
@@ -12165,7 +12166,6 @@ bewormed
 biclavate
 barbarianism
 begrudgingly
-bals
 burdeners
 bisognio
 boarishness
