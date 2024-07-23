@@ -4030,7 +4030,6 @@ allowanced
 abaxile
 admits
 admittable
-antedate
 admittance
 admittatur
 admitted
@@ -4166,6 +4165,7 @@ acinuni
 adopting
 adopted
 adoption
+antedate
 astronomic
 adoptional
 analgize
