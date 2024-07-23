@@ -4266,7 +4266,6 @@ flanky
 fluoroscopies
 fireplow
 fiefs
-fleeceable
 forma
 freakishness
 fatting
@@ -11106,6 +11105,7 @@ fearlessness
 framework
 franca
 fetidly
+fleeceable
 featherier
 feeblehearted
 forecarriage
