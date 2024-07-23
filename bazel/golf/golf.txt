@@ -4552,7 +4552,6 @@ gravicembalo
 greyish
 guadalcazarite
 graphometry
-graphitoid
 gudrun
 gagger
 grinter
@@ -7139,6 +7138,7 @@ gorgia
 gorglin
 galvayne
 grabbers
+graphitoid
 gnawable
 graynesses
 gloryful
