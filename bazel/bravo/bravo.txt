@@ -2746,7 +2746,6 @@ boroughship
 barometers
 barometric
 beefy
-barometrically
 blam
 beachside
 burthenman
@@ -18169,6 +18168,7 @@ begets
 bosses
 biogenase
 butyrometer
+barometrically
 barrio
 butyrometric
 butled
