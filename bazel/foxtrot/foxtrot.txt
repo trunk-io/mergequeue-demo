@@ -2226,6 +2226,7 @@ forthtell
 forcipial
 feltwort
 flaggier
+funiculus
 felwort
 faciobrachial
 forestery
@@ -9307,7 +9308,6 @@ furfurole
 forcipulata
 filmstrip
 flushest
-funiculus
 footrest
 finnicky
 fatback
