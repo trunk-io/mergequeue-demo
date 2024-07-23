@@ -1935,6 +1935,7 @@ bandsman
 bandstand
 beacon
 boronia
+beseechment
 beraked
 bocaccios
 bagnio
@@ -6892,7 +6893,6 @@ bondservant
 basalia
 beseam
 beseeches
-beseechment
 bluegills
 birlers
 beshake
