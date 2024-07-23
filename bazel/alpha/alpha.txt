@@ -4804,7 +4804,6 @@ autocross
 aperture
 amidase
 aequoreal
-aerobiont
 aerobioscope
 aerobiosis
 addleheaded
@@ -21040,6 +21039,7 @@ ascon
 ascones
 asconoid
 ascophore
+aerobiont
 aclydes
 ascorbic
 ascosporic
