@@ -3572,6 +3572,7 @@ decayless
 defunction
 dollface
 disfrock
+dislimb
 disenchanter
 defunctionalize
 defuses
@@ -11497,7 +11498,6 @@ duplicitous
 discloud
 dingus
 disclusion
-dislimb
 dispauper
 dollar
 decephalization
