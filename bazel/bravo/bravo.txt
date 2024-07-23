@@ -3686,7 +3686,6 @@ battement
 balladising
 batteners
 bankrupted
-batter
 batterdock
 bearcat
 battered
@@ -12603,6 +12602,7 @@ bonnibel
 blurts
 bimethyl
 blottesque
+batter
 biochemically
 bonnier
 beguard
