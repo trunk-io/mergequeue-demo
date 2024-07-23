@@ -5818,6 +5818,7 @@ forebear
 fossiliferous
 flitterbat
 fructicultural
+failsafe
 featherback
 fallage
 fastigium
@@ -6769,7 +6770,6 @@ food
 foliageous
 fineer
 furthersome
-failsafe
 fibrochondroma
 fleury
 fatheaded
