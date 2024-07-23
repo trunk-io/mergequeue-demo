@@ -12681,7 +12681,6 @@ chantecler
 cercle
 cafetiere
 chronologizing
-chronomancy
 chronomantic
 chronomastix
 chronometer
@@ -15961,6 +15960,7 @@ cleeking
 clef
 cassinese
 chesterfields
+chronomancy
 cleft
 cleidagra
 cleidarthritis
