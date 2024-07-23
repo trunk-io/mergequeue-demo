@@ -22,7 +22,6 @@ gashouse
 glamourize
 geotropic
 gabbro
-gabbroitic
 gabelleman
 gowf
 gymnogynous
@@ -10803,6 +10802,7 @@ granolite
 glancing
 gestonie
 gymnospermal
+gabbroitic
 groundsel
 gibli
 guttlers
