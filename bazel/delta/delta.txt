@@ -3231,6 +3231,7 @@ defend
 defendable
 dikast
 demimondaine
+distrainor
 defendant
 defender
 discocephalous
@@ -8902,7 +8903,6 @@ dibstone
 doziness
 depthwise
 du
-distrainor
 dibutyrin
 debituminize
 deflexure
