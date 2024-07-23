@@ -1790,7 +1790,6 @@ bracers
 banterer
 bowmen
 balanops
-bambusa
 bedsprings
 bambute
 biteless
@@ -11380,6 +11379,7 @@ bludgeon
 bludgeons
 bludger
 besoothe
+bambusa
 benmost
 bakeapple
 beguiled
