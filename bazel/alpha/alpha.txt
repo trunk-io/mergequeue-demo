@@ -3068,7 +3068,6 @@ autorail
 actinopteri
 ambling
 atoxic
-actinopterygian
 amsterdam
 antimartyr
 annexal
@@ -11386,6 +11385,7 @@ amtrack
 amtracks
 alephs
 adnexitis
+actinopterygian
 amtracs
 amygdalae
 acromyotonia
