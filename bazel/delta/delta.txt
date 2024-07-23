@@ -5693,6 +5693,7 @@ deadlocked
 distractibility
 dragees
 discommodate
+destroyable
 depilating
 depilatory
 depilatories
@@ -7493,7 +7494,6 @@ deurwaarder
 dipsadinae
 doorwise
 dur
-destroyable
 degger
 dibase
 durdum
