@@ -6745,7 +6745,6 @@ damsite
 disacidify
 date
 designatum
-detersive
 designedly
 designedness
 detachability
@@ -9355,6 +9354,7 @@ dtset
 diplomat
 dietotherapy
 dietotoxic
+detersive
 depilation
 dietrichite
 diets
