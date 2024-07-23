@@ -4839,6 +4839,7 @@ aerocharidae
 aerocyst
 armlet
 aerocraft
+amas
 amoebous
 arkwright
 aerodermectasia
@@ -21688,7 +21689,6 @@ acetimetric
 assenting
 assentingly
 assentive
-amas
 antithet
 antiberiberin
 assents
