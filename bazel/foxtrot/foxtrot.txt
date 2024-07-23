@@ -4701,7 +4701,6 @@ fixing
 flannelleaf
 fixt
 floweret
-forevouched
 fidded
 fructed
 fummel
@@ -5692,6 +5691,7 @@ freeloader
 fdname
 forewarns
 forhooie
+forevouched
 forfeitures
 flingy
 funded
