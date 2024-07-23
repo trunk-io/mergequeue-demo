@@ -636,7 +636,6 @@ burnoose
 bacteriophages
 bacteriophagy
 balneal
-bacteriophagic
 bacteriopsonin
 butting
 bendable
@@ -12318,6 +12317,7 @@ benzyl
 bombardman
 burrfishes
 bungfull
+bacteriophagic
 bullwhacker
 betrayer
 bramantesque
