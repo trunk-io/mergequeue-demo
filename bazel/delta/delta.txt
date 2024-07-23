@@ -1158,7 +1158,6 @@ dillydallying
 datagram
 datagrams
 doormat
-directional
 demibrassart
 datana
 dulciloquy
@@ -12240,6 +12239,7 @@ descendibility
 disherent
 disfortune
 disbandment
+directional
 dormie
 dragaded
 drapes
