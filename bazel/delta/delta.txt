@@ -6543,7 +6543,6 @@ descent
 despert
 dekameter
 drawnet
-demean
 diffracting
 deschool
 decretals
@@ -7392,6 +7391,7 @@ detonation
 disowned
 dainties
 detonations
+demean
 detonative
 detonize
 detour
