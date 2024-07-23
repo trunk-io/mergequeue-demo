@@ -9347,7 +9347,6 @@ backarrow
 birchwood
 bindweb
 barcaroles
-beaverkill
 birdbander
 belgian
 bespeed
@@ -11456,6 +11455,7 @@ blazingly
 bluesy
 bluesman
 bromisms
+beaverkill
 bluesmen
 bluestems
 bluestocking
