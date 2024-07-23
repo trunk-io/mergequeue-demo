@@ -6004,7 +6004,6 @@ coiffes
 catheterised
 catheterism
 catheterization
-catheterize
 catheterized
 cerastium
 catheterizes
@@ -12022,6 +12021,7 @@ choreoid
 crocidolite
 chorepiscopal
 chorepiscope
+catheterize
 canoodling
 cowhages
 chorepiscopus
