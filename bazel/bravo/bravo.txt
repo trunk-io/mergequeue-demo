@@ -4892,7 +4892,6 @@ bebelted
 backchat
 beefeater
 beefeaters
-bewhisper
 barkentines
 bract
 bilobular
@@ -9896,6 +9895,7 @@ ballooning
 baffed
 bismer
 blockers
+bewhisper
 bassinets
 bitterer
 broth
