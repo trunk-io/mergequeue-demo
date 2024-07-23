@@ -3979,7 +3979,6 @@ administrable
 administrant
 allegiantly
 administrates
-administrating
 antihemolytic
 alabastrons
 aboves
@@ -22956,6 +22955,7 @@ attaches
 ascitan
 alasas
 attacheship
+administrating
 abaft
 alcazava
 antewar
