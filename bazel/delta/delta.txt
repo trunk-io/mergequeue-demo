@@ -9481,7 +9481,6 @@ destructively
 digamma
 daggerboard
 demilegato
-digammas
 downfeed
 digammated
 droiture
@@ -14951,6 +14950,7 @@ discretionarily
 demonising
 dichromat
 disponing
+digammas
 dominates
 descrying
 dracontine
