@@ -1254,7 +1254,6 @@ gonglike
 gladstone
 grassman
 garbill
-gallein
 guyline
 goosebone
 ganomalite
@@ -3678,6 +3677,7 @@ gunlaying
 giant
 glabellae
 gasterothecal
+gallein
 glinse
 graveldiver
 geometdecrne
