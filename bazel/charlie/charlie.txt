@@ -10440,7 +10440,6 @@ cares
 chief
 chiefage
 chiefdoms
-carotic
 chiefery
 cyatholith
 chiefest
@@ -21471,6 +21470,7 @@ counteraddress
 concoctions
 cornerpiece
 calcination
+carotic
 cloaking
 crescive
 comediennes
