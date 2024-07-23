@@ -2535,7 +2535,6 @@ efficaciousness
 endocritic
 eminency
 eatable
-electrometallurgy
 ezra
 embryotomy
 electrometallurgist
@@ -5903,6 +5902,7 @@ enhancements
 enhancing
 enharbour
 eldin
+electrometallurgy
 endsweep
 enharden
 especially
