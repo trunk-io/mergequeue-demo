@@ -563,7 +563,6 @@ gastromelus
 gustiness
 gramas
 geisotherm
-gastrolytic
 gd
 griffons
 griming
@@ -10713,6 +10712,7 @@ grams
 gumma
 gunship
 gismondine
+gastrolytic
 gutnic
 guywire
 gerbera
