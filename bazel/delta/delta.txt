@@ -5609,7 +5609,6 @@ dependency
 dependingly
 depends
 dallack
-desmepithelium
 dispersed
 dukeship
 depeopled
@@ -18297,6 +18296,7 @@ daimio
 dagger
 dextorsal
 doray
+desmepithelium
 danaan
 dunpickle
 debtorship
