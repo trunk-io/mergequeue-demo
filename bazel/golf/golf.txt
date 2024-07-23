@@ -1857,7 +1857,6 @@ gambles
 gazehound
 growlery
 guffaw
-gatherable
 gilgai
 galacturia
 gardenwise
@@ -10100,6 +10099,7 @@ galahs
 gastropods
 grammarian
 gekkonoid
+gatherable
 genuses
 gonfaloniership
 guirlande
