@@ -2319,7 +2319,6 @@ flotation
 flagelliferous
 fenestrae
 foreword
-forgettable
 fossilizable
 fluoresced
 fenestrated
@@ -11045,6 +11044,7 @@ feels
 faunological
 flycatcher
 frictionizing
+forgettable
 funambulatory
 funambule
 fondaco
