@@ -561,7 +561,6 @@ fishery
 fally
 falling
 famine
-flyways
 fussed
 forjudger
 falloff
@@ -3887,6 +3886,7 @@ fract
 fiberglas
 formicary
 fimbrial
+flyways
 fiberscope
 fungistat
 flavanthrene
