@@ -1582,6 +1582,7 @@ fauterer
 fauteuil
 fussy
 foreteach
+frundel
 flywort
 fauvette
 fishbowl
@@ -10727,7 +10728,6 @@ flam
 frumpling
 flotsams
 frumps
-frundel
 flakers
 foldboat
 forcedly
