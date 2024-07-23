@@ -4488,7 +4488,6 @@ encephalartos
 encephalasthenia
 escocheon
 encephalic
-encephalin
 erythrophagous
 encephalitic
 executively
@@ -9025,6 +9024,7 @@ endogamies
 eriocaulaceae
 extraspherical
 evenings
+encephalin
 erionite
 eleaticism
 endopleurite
