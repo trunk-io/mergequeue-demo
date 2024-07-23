@@ -4268,7 +4268,6 @@ fatting
 fireplug
 firepot
 frampler
-firers
 foreflank
 firefanging
 frontless
@@ -6306,6 +6305,7 @@ fermentate
 fluidist
 fluidized
 ferroconcrete
+firers
 flared
 fluidmeter
 faulted
