@@ -1387,7 +1387,6 @@ acceptable
 acceptance
 aggressions
 acceptances
-acceptancy
 absorbent
 aspermous
 acceptancies
@@ -14780,6 +14779,7 @@ autoindex
 anamnia
 anatomy
 anticeremonious
+acceptancy
 austenite
 archgomeral
 anticeremoniously
