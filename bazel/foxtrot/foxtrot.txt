@@ -4841,7 +4841,6 @@ fullwords
 ferrite
 faena
 figurehead
-fra
 falsen
 forestology
 forties
@@ -6593,6 +6592,7 @@ footcloth
 fissions
 fo
 fireproofed
+fra
 fuciphagous
 foalfoots
 ficula
