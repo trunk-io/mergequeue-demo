@@ -3078,6 +3078,7 @@ butylene
 bascology
 basculation
 bulbils
+breechloader
 broomsquire
 bambuk
 blindfold
@@ -5617,7 +5618,6 @@ bedeen
 beladying
 buzzwig
 brokenness
-breechloader
 buccaneers
 blither
 belah
