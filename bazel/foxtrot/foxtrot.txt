@@ -1130,7 +1130,6 @@ figulate
 farruca
 farseeing
 farseer
-floes
 frondescence
 foughten
 farsighted
@@ -7909,6 +7908,7 @@ foresails
 fasten
 fork
 forescene
+floes
 fetticus
 forewarned
 feiseanna
