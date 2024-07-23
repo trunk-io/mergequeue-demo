@@ -8264,7 +8264,6 @@ ancylodactyla
 adipocyte
 alienage
 alienated
-alienates
 alienation
 allactite
 aliene
@@ -15887,6 +15886,7 @@ annotations
 antidynasty
 amazingly
 antipragmatism
+alienates
 antipragmatist
 ambrosiaceous
 antinarrative
