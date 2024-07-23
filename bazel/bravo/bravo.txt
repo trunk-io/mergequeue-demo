@@ -2033,7 +2033,6 @@ bidactyl
 bankbooks
 bankcard
 bethought
-budzart
 banky
 bullaria
 bankmen
@@ -9144,6 +9143,7 @@ bighted
 biosystematic
 biosociological
 biocoenose
+budzart
 bodysuit
 biosome
 biospeleology
