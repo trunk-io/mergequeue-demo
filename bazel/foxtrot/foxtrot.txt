@@ -4983,7 +4983,6 @@ fan
 facepiece
 floorages
 flamingant
-flamingos
 flong
 foremarch
 flaminical
@@ -8081,6 +8080,7 @@ faradise
 foreswear
 foveolae
 forestarling
+flamingos
 foredispose
 fructuosity
 funkiest
