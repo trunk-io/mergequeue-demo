@@ -12601,7 +12601,6 @@ chromoscopy
 capacitances
 chromosomally
 condensate
-chromosomes
 cornercap
 calfs
 collophore
@@ -31511,6 +31510,7 @@ conveyal
 cursives
 clerkage
 chorused
+chromosomes
 cursorary
 cundite
 cursory
