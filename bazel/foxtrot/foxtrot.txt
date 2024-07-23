@@ -8793,7 +8793,6 @@ flashtube
 forwork
 frustula
 feoffing
-fosite
 flunks
 frailes
 fetchers
@@ -11636,6 +11635,7 @@ forint
 frolicsomely
 fibrous
 fylgja
+fosite
 funestal
 finestiller
 forehew
