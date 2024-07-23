@@ -5689,7 +5689,6 @@ finite
 firking
 frontoparietal
 freeloader
-fdname
 forewarns
 forhooie
 forevouched
@@ -5918,6 +5917,7 @@ furandi
 flockiest
 frankliniana
 forbysening
+fdname
 flockings
 fulsamic
 fertilely
