@@ -2107,7 +2107,6 @@ emblematist
 electrocoating
 enclosable
 elapsing
-extrared
 epilimnia
 enterolysis
 elasmothere
@@ -13334,6 +13333,7 @@ encomendero
 expone
 ephoralty
 exponency
+extrared
 exponent
 educated
 exponentiates
