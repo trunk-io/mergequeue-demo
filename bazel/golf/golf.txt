@@ -6626,6 +6626,7 @@ global
 glasseye
 gondoletta
 gumlike
+guffs
 gangliform
 gordius
 glossolabiopharyngeal
@@ -10126,7 +10127,6 @@ glia
 gipsyhead
 guffer
 genecological
-guffs
 glaziers
 guggle
 grisping
