@@ -2761,7 +2761,6 @@ claviers
 cereless
 cannibalization
 cannibalized
-cannibalizes
 chimps
 cobbier
 cluttering
@@ -23048,6 +23047,7 @@ consonantised
 cagmag
 consonantism
 consonantized
+cannibalizes
 consonantness
 consonants
 clinograph
