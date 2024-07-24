@@ -957,6 +957,7 @@ forspeaking
 ferneries
 flyleaf
 foundry
+ft
 fasola
 fourchite
 fanfishes
@@ -2085,7 +2086,6 @@ fissipes
 felapton
 feldspar
 farewelling
-ft
 fendillation
 favissae
 fusulas
