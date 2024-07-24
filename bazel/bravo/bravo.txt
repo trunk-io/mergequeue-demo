@@ -5910,7 +5910,6 @@ bretons
 butterbur
 bellwether
 betaines
-bottomland
 bradmaker
 bellwort
 belock
@@ -16222,6 +16221,7 @@ browniest
 blackguardize
 beamlet
 bindwith
+bottomland
 bourock
 brownish
 brownishness
