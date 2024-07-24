@@ -1721,7 +1721,6 @@ feaster
 fearedness
 ferri
 fluidizes
-fearful
 fathometer
 frypan
 faucets
@@ -4624,6 +4623,7 @@ fodderless
 footweary
 foresaying
 fasciotomy
+fearful
 fleckless
 fruitgrowing
 fitchew
