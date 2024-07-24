@@ -3259,6 +3259,7 @@ fictionalizing
 fourcher
 friers
 frostwort
+flexionless
 fango
 forefend
 flunkies
@@ -9073,7 +9074,6 @@ fehmic
 frication
 foxhole
 foozled
-flexionless
 fords
 film
 fucus
