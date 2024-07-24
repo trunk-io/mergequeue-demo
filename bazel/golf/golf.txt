@@ -471,7 +471,6 @@ gymnospore
 genyoplasty
 glossoncus
 give
-galeorchis
 gospelize
 gemmery
 geelhout
@@ -10546,6 +10545,7 @@ gratiola
 gibs
 gulix
 grallic
+galeorchis
 gilly
 gorgonzola
 gunfights
