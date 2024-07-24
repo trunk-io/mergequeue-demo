@@ -8846,7 +8846,6 @@ binned
 binny
 binnite
 binnogue
-binocular
 battel
 backstrap
 bepill
@@ -15071,6 +15070,7 @@ brere
 beekeeper
 baffles
 bressummer
+binocular
 brest
 breastplate
 bret
