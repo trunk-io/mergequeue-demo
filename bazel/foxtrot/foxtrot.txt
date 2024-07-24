@@ -2694,6 +2694,7 @@ felspathic
 fainaigue
 fabricable
 flickering
+foxfishes
 fishhold
 fifty
 fibrinolytic
@@ -3735,7 +3736,6 @@ filletster
 frail
 feodal
 facebread
-foxfishes
 fillies
 feetless
 firedogs
