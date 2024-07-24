@@ -7131,6 +7131,7 @@ epiplankton
 evadible
 extemporizing
 envaye
+explainability
 esogastritis
 excerpting
 envelope
@@ -10751,7 +10752,6 @@ euhemerising
 emeerate
 euhemerism
 epitomizer
-explainability
 euhemerist
 erichthus
 encrease
