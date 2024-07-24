@@ -6596,6 +6596,7 @@ commissaries
 caxon
 caxton
 campanula
+confluence
 chokidar
 caxtonian
 caza
@@ -14296,7 +14297,6 @@ circumambulator
 circumanal
 circumantarctic
 circumarticular
-confluence
 circumaviate
 circumaviation
 circumaviator
