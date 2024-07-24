@@ -7579,7 +7579,6 @@ ceratophyllum
 ceratophyta
 colocephalous
 caneware
-changepocket
 crozier
 ceratopsian
 ceratopteridaceae
@@ -24374,6 +24373,7 @@ circumflex
 cool
 coolamon
 cooled
+changepocket
 crosshairs
 cavally
 cooley
