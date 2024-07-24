@@ -5584,6 +5584,7 @@ endogens
 ethologist
 enflaming
 epiklesis
+equuleus
 escapeway
 embryulcus
 enflower
@@ -6855,7 +6856,6 @@ entoils
 entom
 extender
 episternalia
-equuleus
 eumenes
 ectosarcs
 enl
