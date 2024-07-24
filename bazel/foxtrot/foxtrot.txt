@@ -953,7 +953,6 @@ frets
 flether
 furfural
 fardo
-forspeaking
 ferneries
 flyleaf
 foundry
@@ -6743,6 +6742,7 @@ fomalhaut
 folliculin
 fanny
 featherbed
+forspeaking
 foyaitic
 fidepromission
 foyer
