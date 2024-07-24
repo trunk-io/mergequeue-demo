@@ -2615,7 +2615,6 @@ finding
 fumes
 forechase
 ferrocene
-ferrocerium
 fracas
 fogramity
 ferrocyanate
@@ -11676,6 +11675,7 @@ forepale
 foxskins
 flameholder
 fructiform
+ferrocerium
 fresne
 fluorochrome
 faade
