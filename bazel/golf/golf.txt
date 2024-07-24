@@ -6583,7 +6583,6 @@ gentleship
 glossary
 gangsterism
 glamourless
-gibbus
 grumphies
 glummy
 granivorous
@@ -7203,6 +7202,7 @@ gloater
 gammas
 gromyl
 gormand
+gibbus
 gormandised
 graduators
 gormandism
