@@ -1651,7 +1651,6 @@ brancher
 balloting
 ballotist
 ballots
-banker
 ballottement
 backlotter
 baronage
@@ -3577,6 +3576,7 @@ broodsac
 bereaven
 basion
 bathmism
+banker
 befathered
 boozer
 bathoflore
