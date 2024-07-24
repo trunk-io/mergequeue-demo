@@ -430,6 +430,7 @@ fishgig
 fur
 frockmaker
 fairship
+flitting
 fairway
 fulminate
 faultfinders
@@ -6244,7 +6245,6 @@ felones
 formalisms
 favella
 floccules
-flitting
 flues
 fluvial
 focusable
