@@ -2042,7 +2042,6 @@ bankbooks
 bankcard
 bethought
 banky
-bullaria
 bankmen
 banknote
 beachless
@@ -3877,6 +3876,7 @@ beechnuts
 bedlamp
 bifidated
 baxtone
+bullaria
 bazar
 bazars
 bint
