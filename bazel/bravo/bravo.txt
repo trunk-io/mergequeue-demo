@@ -609,7 +609,6 @@ bacterioblast
 bactericide
 beethoven
 bidget
-bacteriform
 bacterin
 borofluoric
 bacteriochlorophyll
@@ -7281,6 +7280,7 @@ betacaine
 bechase
 betacismus
 betag
+bacteriform
 bubbliest
 boxwood
 betailor
