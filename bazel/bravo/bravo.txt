@@ -2865,7 +2865,6 @@ bannermen
 barrage
 barnmen
 banger
-barraged
 brushland
 barraging
 bailer
@@ -17560,6 +17559,7 @@ blowpoint
 burds
 brutalizing
 burweeds
+barraged
 bureaucratization
 breastpiece
 blepharoclonus
