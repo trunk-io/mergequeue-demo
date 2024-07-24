@@ -4925,7 +4925,6 @@ glaives
 get
 grulla
 guttar
-glali
 gent
 galangal
 grangerizing
@@ -5101,6 +5100,7 @@ gummas
 glaucionetta
 glycoside
 gregarinous
+glali
 gnatflower
 glauconia
 glomera
