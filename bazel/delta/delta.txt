@@ -61,7 +61,6 @@ diarchial
 dacryocystoptosis
 dacryocystosyringotomy
 derham
-dacryocystotome
 dacryolithiasis
 demurrage
 desmoma
@@ -15635,6 +15634,7 @@ disconnections
 digor
 doomsayer
 doomsday
+dacryocystotome
 decussating
 doomster
 defaulters
