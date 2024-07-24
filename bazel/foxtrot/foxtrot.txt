@@ -2694,6 +2694,7 @@ fainaigue
 fabricable
 flickering
 fishhold
+fifty
 fibrinolytic
 frostbow
 flavorer
@@ -4763,7 +4764,6 @@ feuillage
 fulldo
 flag
 forestalment
-fifty
 flammiferous
 furloughing
 flagellantism
