@@ -3379,7 +3379,6 @@ deturn
 defis
 deflagrable
 decolor
-deflagrating
 disrestore
 dynagraph
 dithionate
@@ -17547,6 +17546,7 @@ druidical
 denumeral
 drouked
 druidisms
+deflagrating
 diencephalic
 druids
 dipterology
