@@ -4145,6 +4145,7 @@ firca
 frenchiness
 ferrosilicon
 firearm
+fluorometry
 freshment
 fireback
 fumeuses
@@ -6433,7 +6434,6 @@ ferritin
 frivoled
 frogeye
 fluoaluminate
-fluorometry
 felicitators
 fainted
 farewells
