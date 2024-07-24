@@ -3358,7 +3358,6 @@ garten
 gorkun
 galbe
 glaciable
-goosecap
 gyroscopic
 gainor
 guachamaca
@@ -5783,6 +5782,7 @@ guyandot
 giffgaff
 guesstimates
 gestio
+goosecap
 glottides
 groovers
 galeenies
