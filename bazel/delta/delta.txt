@@ -9137,7 +9137,6 @@ dailiness
 devow
 drubbed
 discernable
-decouple
 depickle
 diamyl
 dunted
@@ -13645,6 +13644,7 @@ doggereler
 drawlers
 dosadh
 daphnean
+decouple
 distingue
 diseurs
 dissepimental
