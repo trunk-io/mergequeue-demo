@@ -1772,7 +1772,6 @@ galliambic
 gastrorrhea
 gramps
 guaiacols
-gastroscopy
 gonadial
 genealogizer
 gastroscopist
@@ -9675,6 +9674,7 @@ guilder
 ghana
 gamogony
 gibuses
+gastroscopy
 gowaned
 gorgonaceous
 gospeler
