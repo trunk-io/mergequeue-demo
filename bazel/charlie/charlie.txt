@@ -15119,7 +15119,6 @@ civilians
 companionway
 civilisational
 civilisations
-civilise
 choanoid
 countercondemnation
 civilises
@@ -16351,6 +16350,7 @@ clinopodium
 conterminous
 constrainment
 curvilinear
+civilise
 citronize
 clinquant
 copsewooded
