@@ -306,7 +306,6 @@ fumade
 flambeed
 floosies
 frappeing
-filtratable
 forevalue
 faeryland
 fleabitten
@@ -5286,6 +5285,7 @@ fogbound
 flax
 flaxboard
 fluoridize
+filtratable
 fretters
 french
 flain
