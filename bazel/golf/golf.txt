@@ -1956,7 +1956,6 @@ gas
 geology
 goring
 garran
-granitoid
 gelded
 grubroot
 groupage
@@ -9277,6 +9276,7 @@ grockle
 goidel
 gamely
 gemauve
+granitoid
 gali
 gingerwort
 groenendael
