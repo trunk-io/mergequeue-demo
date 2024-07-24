@@ -5766,7 +5766,6 @@ depolarise
 drapeable
 depolarization
 depolarize
-disleave
 dextrorsal
 downstroke
 dimberdamber
@@ -13219,6 +13218,7 @@ diuturnal
 disgruntles
 displaceability
 displaceable
+disleave
 dilly
 display
 displayable
