@@ -6112,7 +6112,6 @@ burglary
 barragon
 benchful
 benchman
-benchmar
 benchmark
 baryecoia
 burnout
@@ -10982,6 +10981,7 @@ blinkers
 bael
 bellhop
 batement
+benchmar
 blinkingly
 blinter
 batel
