@@ -2091,7 +2091,6 @@ guarabu
 gazebo
 gazeboes
 guestship
-glabella
 gyros
 grampus
 gen
@@ -7190,6 +7189,7 @@ gimblet
 guarneri
 gavages
 gorillian
+glabella
 gelatinisation
 goriness
 galvanometrically
