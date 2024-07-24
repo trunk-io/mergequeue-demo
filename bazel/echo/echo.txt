@@ -1657,6 +1657,7 @@ emissarium
 epiblastic
 egressed
 egresses
+extraphysiological
 educed
 expounded
 extrasensorial
@@ -6106,7 +6107,6 @@ eltime
 elasmosaur
 ebullience
 evanesce
-extraphysiological
 epifauna
 epirrhema
 electrocardiography
