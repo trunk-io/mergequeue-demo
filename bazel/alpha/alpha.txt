@@ -2101,6 +2101,7 @@ anviling
 automania
 achievement
 antecedents
+agamogenetic
 ardor
 achievements
 aiguillesque
@@ -8450,7 +8451,6 @@ arcadia
 annoys
 alcoholometrical
 alkali
-agamogenetic
 alkalies
 alkalify
 anthropopsychism
