@@ -12334,6 +12334,7 @@ bombline
 bathylith
 bowdrill
 bombast
+bucentur
 buglers
 bandurrias
 brunion
@@ -18323,7 +18324,6 @@ brahmans
 brightens
 bombardon
 brewst
-bucentur
 botherheaded
 buttons
 breviaries
