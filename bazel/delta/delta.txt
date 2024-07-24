@@ -2584,6 +2584,7 @@ decoct
 demiquaver
 dashes
 decocting
+doomsman
 decoctive
 decocts
 deaminizing
@@ -10833,7 +10834,6 @@ diluteness
 diseur
 directionalize
 directionally
-doomsman
 deckles
 dhan
 directly
