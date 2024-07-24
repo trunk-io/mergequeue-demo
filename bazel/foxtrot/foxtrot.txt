@@ -6825,7 +6825,6 @@ folderols
 foveiform
 fjelds
 frette
-folding
 forepass
 fluidible
 foraminiferan
@@ -9061,6 +9060,7 @@ foxberry
 fractionation
 forenent
 funneled
+folding
 fiant
 friesish
 forbruise
