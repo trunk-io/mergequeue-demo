@@ -8723,7 +8723,6 @@ finchery
 forehands
 fortuitous
 faying
-fabulize
 fixate
 faussebraie
 frizzled
@@ -9217,6 +9216,7 @@ facts
 fabulists
 frayedly
 frayedness
+fabulize
 fidging
 flagmaking
 flashier
