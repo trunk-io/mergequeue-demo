@@ -1801,7 +1801,6 @@ bowmen
 balanops
 bedsprings
 bambute
-biteless
 blackheart
 becombed
 baserunning
@@ -17497,6 +17496,7 @@ biosystematics
 buprestis
 briskening
 bragwort
+biteless
 betes
 bucketmaker
 bioecologist
