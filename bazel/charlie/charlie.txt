@@ -13634,7 +13634,6 @@ compilers
 chisel
 comitiva
 cylindroid
-cylindroma
 cylindromata
 caudillos
 cylindromatous
@@ -16735,6 +16734,7 @@ closes
 closeting
 crampit
 chthonic
+cylindroma
 closets
 closewing
 crusading
