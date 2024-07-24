@@ -21156,7 +21156,6 @@ concause
 cyclist
 capitals
 concavity
-concavities
 concavo
 conceal
 concealable
@@ -26402,6 +26401,7 @@ centricipital
 coterie
 coterminal
 ciminite
+concavities
 centipoise
 coterminousness
 cotes
