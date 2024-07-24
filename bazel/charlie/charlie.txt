@@ -13708,6 +13708,7 @@ cote
 cimbrian
 cimbric
 clovene
+collision
 camoodi
 cyme
 cymelet
@@ -19166,7 +19167,6 @@ collyria
 collyridian
 collyrite
 collyrium
-collision
 cystocyte
 collisive
 cunningest
