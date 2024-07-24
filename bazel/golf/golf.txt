@@ -7387,7 +7387,6 @@ ghbor
 geniohyoid
 groundswells
 glub
-growler
 goupin
 gastrologists
 goldfish
@@ -8655,6 +8654,7 @@ gates
 geochronologist
 gnathonical
 grassflat
+growler
 golosh
 gnathonic
 guazuma
