@@ -8518,6 +8518,7 @@ alkamine
 arguer
 alkanes
 alkanet
+allicholly
 alkanethiol
 alkanets
 albertina
@@ -8776,7 +8777,6 @@ alliant
 allicampane
 anemonol
 antiketogen
-allicholly
 alliciency
 allicient
 askant
