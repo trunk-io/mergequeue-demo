@@ -5086,7 +5086,6 @@ disfigures
 dextrogyrate
 denaturization
 desensitizers
-denaturizer
 dhunchi
 dendraspis
 doomwatcher
@@ -12560,6 +12559,7 @@ destructivism
 dreg
 disinfected
 deceivers
+denaturizer
 dols
 decerns
 dungier
