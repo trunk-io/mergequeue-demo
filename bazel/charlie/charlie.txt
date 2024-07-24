@@ -12152,6 +12152,7 @@ chorwat
 clansman
 casula
 chose
+chophouses
 coursed
 cantharidal
 choses
@@ -15628,7 +15629,6 @@ coplanarity
 classbook
 classed
 classers
-chophouses
 classfellow
 classy
 classicalism
