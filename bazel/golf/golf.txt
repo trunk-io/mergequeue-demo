@@ -4948,6 +4948,7 @@ girondist
 gavelkind
 glamors
 geldable
+gibbering
 granita
 gainst
 growze
@@ -7900,7 +7901,6 @@ gametogonium
 glimmerite
 granophyric
 gregaloid
-gibbering
 gyniolatry
 gloucester
 gulas
