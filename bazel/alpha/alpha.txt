@@ -2472,7 +2472,6 @@ antireduction
 acocotl
 acoela
 acoelomate
-anisotropal
 acoelomatous
 acoelomi
 anteceded
@@ -15268,6 +15267,7 @@ antigovernmentally
 antigrammatical
 aminoacetanilide
 arcadings
+anisotropal
 antigraph
 acetimetry
 antigravitate
