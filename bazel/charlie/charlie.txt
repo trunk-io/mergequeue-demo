@@ -8425,6 +8425,7 @@ chalking
 converts
 chalklike
 chalkline
+chantage
 columnated
 chalkone
 chalkos
@@ -17965,7 +17966,6 @@ cephalanthus
 codswallop
 coueism
 channels
-chantage
 coedit
 coedited
 chemotactically

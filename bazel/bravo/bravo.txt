@@ -53,6 +53,7 @@ bundocks
 babbly
 brushable
 babbit
+bassette
 baff
 baton
 barberish
@@ -3368,7 +3369,6 @@ bassanite
 biotechnics
 bassetta
 beholders
-bassette
 bespice
 bays
 beforetimes
