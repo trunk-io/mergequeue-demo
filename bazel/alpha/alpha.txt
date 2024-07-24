@@ -1735,6 +1735,7 @@ anglophobe
 accusable
 accusal
 accusant
+animadvert
 aristocracies
 acipenserid
 accusants
@@ -25314,7 +25315,6 @@ azoic
 appellancy
 azole
 azoles
-animadvert
 azolla
 azon
 axer
