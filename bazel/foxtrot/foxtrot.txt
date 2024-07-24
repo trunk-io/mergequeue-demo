@@ -2736,7 +2736,6 @@ fervence
 father
 fortnightlies
 futilize
-flectional
 firebote
 ferventness
 frighteningness
@@ -4339,6 +4338,7 @@ fauces
 frailty
 forgiveness
 fasteners
+flectional
 firms
 fumulus
 firns
