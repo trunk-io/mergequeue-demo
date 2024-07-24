@@ -6623,7 +6623,6 @@ gropes
 gambusias
 gunnysack
 glunch
-goglets
 gondolas
 guidons
 global
@@ -10265,6 +10264,7 @@ guimbard
 guinde
 gorsehatch
 geographics
+goglets
 gomontia
 geechee
 gonophore
