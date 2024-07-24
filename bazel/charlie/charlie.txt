@@ -9649,6 +9649,7 @@ checkrein
 checkroll
 compathy
 checkrope
+cumulant
 checkrowed
 checkrower
 checkrowing
@@ -31015,7 +31016,6 @@ caprocks
 cumsha
 cumshaw
 cyclones
-cumulant
 cumulate
 cumulated
 cerebrate
