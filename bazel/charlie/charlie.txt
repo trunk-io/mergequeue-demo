@@ -27563,7 +27563,6 @@ coverlets
 circumambiently
 calvity
 consumation
-coverlid
 coverlids
 caller
 clairce
@@ -31222,6 +31221,7 @@ correctness
 curable
 curableness
 cotyloidal
+coverlid
 curacaos
 coracler
 classification
