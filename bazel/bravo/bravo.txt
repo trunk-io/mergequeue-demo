@@ -7013,6 +7013,7 @@ bactris
 billethead
 besmooth
 besmooths
+beinness
 barricades
 basilian
 besmouch
@@ -10006,7 +10007,6 @@ bn
 baroscopical
 bargainor
 biverb
-beinness
 beblear
 bedfast
 bivocal
