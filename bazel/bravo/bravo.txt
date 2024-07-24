@@ -11977,6 +11977,7 @@ boggle
 blastemas
 bogglebo
 boggler
+bannerol
 bogglers
 boggling
 boskage
@@ -18252,7 +18253,6 @@ bivouacs
 buttermaker
 butterman
 buttermilk
-bannerol
 bastardy
 buttermonger
 bice
