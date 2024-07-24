@@ -1118,7 +1118,6 @@ boatload
 brindled
 bluethroat
 brewmaster
-bienseance
 belonesite
 bairns
 bootful
@@ -4710,6 +4709,7 @@ boottopping
 betitle
 badmash
 bedlams
+bienseance
 bursula
 basseted
 bedlar
