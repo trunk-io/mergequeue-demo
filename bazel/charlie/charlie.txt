@@ -1078,7 +1078,6 @@ calciform
 calcifugal
 calcifugous
 calcigenous
-calcigerous
 chamaesiphonaceous
 calcimined
 calciminer
@@ -17952,6 +17951,7 @@ codiscoverer
 codist
 codivine
 codline
+calcigerous
 controlled
 codling
 classlessness
