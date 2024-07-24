@@ -2524,7 +2524,6 @@ dotted
 declare
 drailing
 declaredly
-doorjamb
 declares
 demythologise
 daneworts
@@ -4235,6 +4234,7 @@ deloul
 decocted
 deloused
 decimal
+doorjamb
 delphacidae
 dewberry
 dogcart
