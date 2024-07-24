@@ -1811,7 +1811,6 @@ engravers
 embankments
 encompasser
 enable
-epistolary
 estimates
 ecological
 entresse
@@ -10394,6 +10393,7 @@ enalite
 ethnoses
 execrable
 enthuses
+epistolary
 echinostome
 elkoshite
 exoplasm
