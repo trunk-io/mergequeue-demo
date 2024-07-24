@@ -4120,6 +4120,7 @@ featherbrain
 fattable
 fanterie
 fatalness
+fissipedal
 fussier
 ferth
 floridan
@@ -4525,7 +4526,6 @@ forslake
 foresin
 flooded
 fountainhead
-fissipedal
 fructify
 famille
 fortread
