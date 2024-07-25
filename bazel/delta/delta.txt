@@ -2520,6 +2520,7 @@ deaminate
 drain
 declarators
 dotted
+disregarder
 declare
 drailing
 declaredly
@@ -6707,7 +6708,6 @@ desiderable
 diascopy
 deadhead
 desiderata
-disregarder
 dahabiyas
 desiderated
 demikindred
