@@ -7066,6 +7066,7 @@ extroversion
 electrotitration
 entryman
 enamourment
+explorable
 effigiating
 estated
 ensafe
@@ -13315,7 +13316,6 @@ effie
 exploitee
 exploiting
 exploiture
-explorable
 entozoological
 esophageal
 exploratively
