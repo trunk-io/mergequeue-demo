@@ -80,7 +80,6 @@ frets
 fullfaces
 facemark
 feuter
-fermentations
 flocklike
 floozie
 forewit
@@ -11539,6 +11538,7 @@ foxfeet
 fuselages
 fuselike
 forecaddie
+fermentations
 faradiser
 fathomlessly
 fetishism
