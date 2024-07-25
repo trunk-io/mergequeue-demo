@@ -11840,7 +11840,6 @@ conduplication
 chondroitic
 chondroitin
 cucurbitaceae
-chondromata
 chondromatous
 chondromyces
 cissoids
@@ -18469,6 +18468,7 @@ carterly
 cognovit
 coude
 cognovits
+chondromata
 conspiratorially
 cogonal
 cogovernor
