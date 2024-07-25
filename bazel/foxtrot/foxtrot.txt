@@ -1819,6 +1819,7 @@ freckledness
 feathertop
 frogmen
 flashlamp
+flabra
 flutina
 flaunts
 flakeboard
@@ -10391,7 +10392,6 @@ filigree
 flow
 fictility
 firstling
-flabra
 forcaria
 filesmith
 feudalistic
