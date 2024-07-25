@@ -5875,7 +5875,6 @@ formidableness
 furanes
 filanders
 feminology
-faceless
 fastigia
 fuseau
 fdtype
@@ -8753,6 +8752,7 @@ fadable
 forethought
 frenzic
 forwarded
+faceless
 facelifts
 foreplace
 forwardly
