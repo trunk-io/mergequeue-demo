@@ -2929,7 +2929,6 @@ gurkha
 grebes
 gollop
 geomance
-gyropilot
 guapilla
 guiling
 gibes
@@ -3784,6 +3783,7 @@ guitarfishes
 glarier
 gearwheels
 gideon
+gyropilot
 gesticulate
 grasps
 gentlemanhood
