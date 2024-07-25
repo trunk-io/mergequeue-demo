@@ -8374,7 +8374,6 @@ elev
 expressibly
 enchannel
 exercised
-epithem
 emulating
 epitheme
 eucleid
@@ -13649,6 +13648,7 @@ exteriorisation
 euphonia
 exteriorised
 ecrus
+epithem
 exteriority
 ejects
 elfic
