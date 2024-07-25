@@ -5098,7 +5098,6 @@ guichet
 gasbags
 glinting
 glaucidium
-grapnels
 glaucin
 gainyield
 generalissima
@@ -7943,6 +7942,7 @@ gelatinising
 geste
 gemse
 gangsman
+grapnels
 goniopholis
 glaucine
 gunstocking
