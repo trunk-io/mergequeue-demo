@@ -1654,7 +1654,6 @@ ballots
 ballottement
 backlotter
 baronage
-ballottine
 ballottines
 bathwort
 ballpark
@@ -9984,6 +9983,7 @@ baresma
 blattidae
 brevirostral
 bivalency
+ballottine
 blairmorite
 bivalents
 biognosis
