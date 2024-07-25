@@ -30,7 +30,6 @@ fourchee
 fieldmen
 fibrolitic
 fibrocyst
-frostfishes
 fabricates
 fabricator
 formularize
@@ -3519,6 +3518,7 @@ foreskirt
 fleeches
 fanfares
 fingerable
+frostfishes
 foreseason
 fallback
 fighteress
