@@ -1563,7 +1563,6 @@ forepiece
 faunish
 foamers
 franklinite
-faunist
 fattenable
 fauntleroy
 frankability
@@ -9681,6 +9680,7 @@ fletcher
 fregata
 frisolee
 freya
+faunist
 frolicful
 freyalite
 frondent
