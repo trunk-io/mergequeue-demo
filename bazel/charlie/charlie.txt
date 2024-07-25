@@ -2121,7 +2121,6 @@ chiloma
 coadjacence
 campesinos
 campestral
-cordelier
 campfight
 campground
 canful
@@ -28771,6 +28770,7 @@ crepusculine
 catenary
 cres
 cresc
+cordelier
 crescence
 crescendo
 crescendoing
