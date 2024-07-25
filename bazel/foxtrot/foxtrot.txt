@@ -2955,7 +2955,6 @@ formats
 foaled
 fractioning
 fettlings
-felly
 farcin
 freighted
 fackins
@@ -8109,6 +8108,7 @@ foretaster
 franklinian
 forefin
 foretasting
+felly
 fretsaw
 forewrought
 fissures
