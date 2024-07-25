@@ -1739,6 +1739,7 @@ deathtime
 diverticular
 diphyllobothrium
 deathtrap
+devocalization
 downtimes
 drof
 dracocephalum
@@ -14759,7 +14760,6 @@ digest
 dobos
 decanters
 dobson
-devocalization
 dirk
 dactyloscopic
 detained
