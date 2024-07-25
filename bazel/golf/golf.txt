@@ -3133,7 +3133,6 @@ graplin
 gluing
 glycans
 geraniaceae
-geotherm
 gelatinobromide
 gasproof
 glycyrrhiza
@@ -6490,6 +6489,7 @@ goniatitoid
 glycogenosis
 ghis
 grandstanded
+geotherm
 gamopetalous
 goldsmithry
 gastratrophia
