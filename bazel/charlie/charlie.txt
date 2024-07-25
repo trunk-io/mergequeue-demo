@@ -19937,7 +19937,6 @@ comid
 comida
 caudillo
 comiferous
-cominform
 cominformist
 cominformists
 confederal
@@ -21406,6 +21405,7 @@ cosponsor
 concision
 corrugation
 concitation
+cominform
 concite
 conclamation
 conger
