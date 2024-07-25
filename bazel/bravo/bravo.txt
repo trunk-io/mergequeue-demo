@@ -13950,7 +13950,6 @@ bowstrung
 behavior
 bowtell
 barographic
-blackbeetle
 byspell
 broadened
 bargelli
@@ -14438,6 +14437,7 @@ birdshots
 bowldery
 bewailment
 boggled
+blackbeetle
 bingee
 bathochromic
 breeds
