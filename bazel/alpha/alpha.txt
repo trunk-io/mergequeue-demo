@@ -11664,7 +11664,6 @@ armorbearer
 acacatechin
 anagnorisis
 ablator
-archaisms
 anagoges
 adorant
 anagogic
@@ -22373,6 +22372,7 @@ aragallus
 astrophel
 astrophil
 antipapacy
+archaisms
 algarobas
 astrophysicist
 anteal
