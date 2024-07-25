@@ -5111,7 +5111,6 @@ epiplanktonic
 ejectives
 encrustment
 elegits
-endocranial
 ember
 elaeoblast
 emforth
@@ -13440,6 +13439,7 @@ expurge
 etas
 expressway
 exencephalous
+endocranial
 exprobrate
 encouragingly
 euprepia
