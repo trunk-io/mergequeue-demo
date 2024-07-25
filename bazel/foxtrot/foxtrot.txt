@@ -149,7 +149,6 @@ fibre
 formican
 fossiled
 facsim
-facsimile
 facsimiled
 fracturable
 frigidaria
@@ -3154,6 +3153,7 @@ fapesmo
 freres
 frowstier
 fogbank
+facsimile
 fibrocement
 faint
 federalness
