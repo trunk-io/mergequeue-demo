@@ -2414,7 +2414,6 @@ feudist
 fenchol
 ferganite
 fetial
-fellowman
 ferguson
 frondage
 feriation
@@ -6025,6 +6024,7 @@ foo
 floperoo
 fidiculae
 ferroelectrically
+fellowman
 fibrinoplastin
 forthrightness
 fiducinales
