@@ -4323,7 +4323,6 @@ chintziness
 casco
 cargason
 casebook
-cargo
 cargoes
 cargos
 chenopodiaceae
@@ -28801,6 +28800,7 @@ crescively
 cantino
 cresegol
 cronus
+cargo
 cresyl
 cresylate
 cresylic
