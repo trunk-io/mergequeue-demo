@@ -879,7 +879,6 @@ gripman
 gallowsward
 geegaw
 galactan
-gallberries
 gainturn
 guily
 goffer
@@ -5072,6 +5071,7 @@ guilders
 gravery
 glassmaking
 glyc
+gallberries
 grav
 grittier
 gunman
