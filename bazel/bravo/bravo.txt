@@ -3542,7 +3542,6 @@ binode
 blonds
 bathylithic
 bipinnaria
-bathymeter
 blithesomeness
 bathymetry
 bathymetrical
@@ -9471,6 +9470,7 @@ billiardly
 birler
 bioinstrumentation
 bronchodilatation
+bathymeter
 basaltine
 bemedaled
 bashes
