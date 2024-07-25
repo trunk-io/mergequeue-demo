@@ -13605,7 +13605,6 @@ cylindrelloid
 cryptographic
 cylindrenchyma
 cylindric
-cylindricality
 cylindrically
 cylindricity
 cylindricule
@@ -25614,6 +25613,7 @@ corporations
 corners
 calquing
 corporatist
+cylindricality
 corporative
 cyclonometer
 cassites
