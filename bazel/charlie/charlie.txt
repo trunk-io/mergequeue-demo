@@ -12618,7 +12618,6 @@ cranemen
 chromotypy
 cynegetics
 chilotomies
-cleared
 chromotypography
 chromotypographic
 chromotropy
@@ -25361,6 +25360,7 @@ cornetist
 cornetists
 cornets
 cornetter
+cleared
 carkled
 cornetti
 cornettino
