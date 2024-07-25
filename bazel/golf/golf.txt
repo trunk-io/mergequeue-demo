@@ -4263,6 +4263,7 @@ geoform
 goon
 gramophones
 gliadin
+gusto
 garnishing
 guncotton
 gantang
@@ -6398,7 +6399,6 @@ genius
 greatcoats
 gobiesocid
 geostrophic
-gusto
 gymnocladus
 golcondas
 gocart
