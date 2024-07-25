@@ -872,6 +872,7 @@ free
 fragilities
 fantasying
 falterer
+failsafe
 forthbringer
 farforthly
 flexing
@@ -5814,7 +5815,6 @@ forebear
 fossiliferous
 flitterbat
 fructicultural
-failsafe
 featherback
 fallage
 fastigium
