@@ -847,7 +847,6 @@ batterfang
 bauxites
 bagful
 bemantle
-bielorouss
 baggagemaster
 baggager
 brassica
@@ -10122,6 +10121,7 @@ blackballed
 blackballs
 bridehood
 byss
+bielorouss
 brogh
 blat
 beshriek
