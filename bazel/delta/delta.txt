@@ -10878,7 +10878,6 @@ dimerized
 displays
 dirge
 depthen
-drawstop
 dirged
 dirgelike
 dirgeman
@@ -17735,6 +17734,7 @@ dubio
 devot
 diene
 discriminateness
+drawstop
 debugs
 dubiousness
 deportees
