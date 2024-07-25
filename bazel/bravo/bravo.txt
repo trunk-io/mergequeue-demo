@@ -1197,7 +1197,6 @@ baked
 beslur
 bibliothetic
 bakelite
-bakelize
 bakemeats
 bloop
 bakeoven
@@ -2112,6 +2111,7 @@ botoyan
 bourgeoisify
 banshies
 bornan
+bakelize
 betrough
 branchihyal
 braccae
