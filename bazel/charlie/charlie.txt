@@ -15457,7 +15457,6 @@ chortled
 caulkings
 clapdish
 cripply
-clapmatch
 clapnest
 clapnet
 concentered
@@ -22185,6 +22184,7 @@ chickee
 confusion
 confusions
 confusticate
+clapmatch
 confustication
 confutability
 confutation
