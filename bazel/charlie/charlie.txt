@@ -4047,7 +4047,6 @@ cicatrise
 cardamon
 cardamons
 cardamum
-cardanic
 cardanol
 chymist
 cardboard
@@ -9610,6 +9609,7 @@ clavola
 checkers
 cabbalah
 carpodacus
+cardanic
 capos
 checkerwork
 checkhook
