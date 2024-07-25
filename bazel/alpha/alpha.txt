@@ -5062,6 +5062,7 @@ aeronomies
 aesculin
 aesculus
 abiogenetic
+aplacophora
 aesir
 almightiness
 aesop
@@ -11814,7 +11815,6 @@ anamnestic
 anserinae
 anamniata
 auscultative
-aplacophora
 anamorphic
 antimonarchy
 apishly
