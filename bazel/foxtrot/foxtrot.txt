@@ -4548,7 +4548,6 @@ flimsilyst
 fissirostrate
 finjan
 fundmonger
-forerunner
 fissura
 frugal
 forwardsearch
@@ -8251,6 +8250,7 @@ frateries
 familistere
 freud
 favourableness
+forerunner
 forgetfulness
 forgett
 feldspars
