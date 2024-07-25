@@ -556,7 +556,6 @@ gustiness
 gramas
 geisotherm
 gd
-griffons
 griming
 glycerize
 gilravager
@@ -3679,6 +3678,7 @@ gurdy
 ghuz
 giant
 glabellae
+griffons
 gasterothecal
 gallein
 glinse
