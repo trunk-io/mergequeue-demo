@@ -6604,7 +6604,6 @@ berdash
 byreman
 booming
 birotation
-bewrap
 baryglossia
 bluff
 broquineer
@@ -12589,6 +12588,7 @@ bullhide
 boroughlet
 bemocks
 bardane
+bewrap
 bonk
 bagpiping
 bonne
