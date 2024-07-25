@@ -4639,6 +4639,7 @@ ectostosis
 enajim
 ermelin
 eminence
+enhydrite
 erythroxyline
 erethic
 epimerase
@@ -9005,7 +9006,6 @@ etherify
 erigeron
 erigerons
 ethylamine
-enhydrite
 echoers
 enables
 enzymatic
