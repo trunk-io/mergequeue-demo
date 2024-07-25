@@ -2331,7 +2331,6 @@ breloque
 bathyscape
 barbicel
 barbicels
-buoyance
 bathonian
 barbierite
 busyish
@@ -11143,6 +11142,7 @@ blodite
 besmeared
 boeotian
 breakfasts
+buoyance
 bodikin
 bathe
 backbreaking
