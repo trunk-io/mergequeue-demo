@@ -1362,7 +1362,6 @@ accelerators
 accelerometer
 accelerometers
 anticatholic
-accented
 accenting
 anticnemion
 altingiaceae
@@ -9913,6 +9912,7 @@ amazeful
 anatomicopathological
 amazer
 amazers
+accented
 aphanesite
 amazilia
 amazing
