@@ -1499,6 +1499,7 @@ denture
 dieugard
 dynamisms
 dupondius
+dedoggerelize
 deacons
 demobilizes
 deactivate
@@ -10943,7 +10944,6 @@ disables
 dignitas
 downbeats
 disabuse
-dedoggerelize
 diapir
 disabuses
 dispondaic
