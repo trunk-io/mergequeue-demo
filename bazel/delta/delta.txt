@@ -37,6 +37,7 @@ disgeneric
 dachas
 dachshund
 dachshunds
+disaligning
 dacian
 dyce
 driftpin
@@ -14903,7 +14904,6 @@ documentational
 dotations
 documentations
 documentize
-disaligning
 dehortative
 disazo
 documents
