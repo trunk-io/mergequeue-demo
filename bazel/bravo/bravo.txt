@@ -1005,7 +1005,6 @@ blinger
 baycuru
 baidarka
 baidarkas
-balak
 binders
 baidya
 baiera
@@ -3214,6 +3213,7 @@ basilarchia
 basilard
 basilary
 basilateral
+balak
 basilect
 begunk
 beautifying
