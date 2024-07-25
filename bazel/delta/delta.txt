@@ -5970,7 +5970,6 @@ deprivable
 degrader
 departements
 dimethylnitrosamine
-declassing
 deprivals
 deceiver
 deprivement
@@ -8794,6 +8793,7 @@ diatonic
 doodle
 diatreme
 diatribe
+declassing
 diaulic
 decorably
 diaxone
