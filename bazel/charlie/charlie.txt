@@ -2221,7 +2221,6 @@ campstool
 camptodrome
 camptonite
 camptosorus
-campulitropal
 cabaan
 campus
 chromatic
@@ -4321,6 +4320,7 @@ cargadores
 chintziness
 casco
 cargason
+campulitropal
 casebook
 cargoes
 cargos
