@@ -4934,7 +4934,6 @@ aerological
 antepartum
 aeromancer
 aeromechanic
-amish
 alphameric
 aeromechanics
 aeromedical
@@ -13882,6 +13881,7 @@ answered
 answerers
 answeringly
 answerless
+amish
 apophthegmatist
 amorously
 abstrusely
