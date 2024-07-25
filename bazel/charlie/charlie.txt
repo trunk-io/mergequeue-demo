@@ -15237,7 +15237,6 @@ criminosis
 condecent
 crumbled
 clag
-credited
 clagged
 claggy
 claggum
@@ -29854,6 +29853,7 @@ coachman
 confutative
 courtier
 cuttikin
+credited
 centrifuges
 crosscutting
 crosse
