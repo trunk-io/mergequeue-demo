@@ -761,7 +761,6 @@ genae
 galvanoplasty
 grovers
 gunbearer
-geobiologic
 gerkin
 galvanopuncture
 gummaker
@@ -10452,6 +10451,7 @@ goudy
 germanics
 gomphodont
 gumchewer
+geobiologic
 gumdigging
 gumdrop
 gelseminine
