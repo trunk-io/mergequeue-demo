@@ -12504,7 +12504,6 @@ bondswomen
 burntness
 bather
 bagpiped
-behavior
 buphthalmos
 bondwoman
 bone
@@ -13948,6 +13947,7 @@ bacteriotropic
 binoculate
 bowstringed
 bowstrung
+behavior
 bowtell
 barographic
 blackbeetle
