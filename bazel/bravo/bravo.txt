@@ -4736,6 +4736,7 @@ bradding
 bedpans
 barmskin
 bries
+beeball
 besplit
 bedpost
 bypasses
@@ -8576,7 +8577,6 @@ bushveld
 burro
 brachiolarian
 bagtikan
-beeball
 bassanello
 barih
 bejeweling
