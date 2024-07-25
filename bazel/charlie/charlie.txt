@@ -3305,7 +3305,6 @@ celli
 capo
 chaufers
 coughweed
-crine
 capoc
 capocchia
 capoche
@@ -30717,6 +30716,7 @@ cuisines
 cuisinier
 congestions
 cuissard
+crine
 cuisse
 cuit
 canonical
