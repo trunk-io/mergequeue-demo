@@ -5358,6 +5358,7 @@ commonty
 cassumunar
 cast
 castable
+curette
 castagnole
 castalian
 castalides
@@ -31316,7 +31317,6 @@ clubber
 cures
 compotation
 curets
-curette
 callisthenics
 curetted
 curetting
