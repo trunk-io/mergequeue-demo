@@ -16752,6 +16752,7 @@ bucolics
 ballett
 bucorvus
 billheading
+burrower
 bahama
 biacetyls
 bucrane
@@ -17820,7 +17821,6 @@ burrock
 banjoists
 breakback
 burroweed
-burrower
 burrows
 benevolent
 burrstone
