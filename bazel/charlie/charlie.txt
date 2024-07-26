@@ -2860,7 +2860,6 @@ canonizes
 canonizing
 churchreeve
 canonry
-canonries
 canons
 canonship
 canoodles
@@ -8935,6 +8934,7 @@ conceptualisation
 chaptalize
 cymbalaria
 chapter
+canonries
 chapteral
 chapterhouse
 chapters
