@@ -6257,6 +6257,7 @@ fatlings
 felones
 formalisms
 favella
+fargoing
 floccules
 fluvial
 focusable
@@ -8450,7 +8451,6 @@ fuze
 formates
 formating
 formation
-fargoing
 factorship
 floscularian
 fossa
