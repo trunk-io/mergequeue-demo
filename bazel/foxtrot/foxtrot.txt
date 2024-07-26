@@ -1378,7 +1378,6 @@ flukiness
 footmanry
 fyttes
 frothi
-ferfel
 frantically
 fiaschi
 fluxible
@@ -10396,6 +10395,7 @@ forecatching
 flags
 fitche
 footer
+ferfel
 filigree
 flow
 fictility
