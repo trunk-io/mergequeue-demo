@@ -5035,7 +5035,6 @@ fleetingness
 frosts
 foliole
 flood
-fissureless
 flugelhorn
 flaneurs
 flanked
@@ -10209,6 +10208,7 @@ freetrader
 frogbit
 figurette
 frogeyed
+fissureless
 fibra
 frankheartedly
 filite
