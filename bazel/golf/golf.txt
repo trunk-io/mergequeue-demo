@@ -926,7 +926,6 @@ gammerel
 graeculus
 gemellione
 gobet
-groans
 gammerstang
 gastropneumatic
 granam
@@ -10386,6 +10385,7 @@ gutta
 gullies
 gems
 gpad
+groans
 girandola
 goujon
 gullying
