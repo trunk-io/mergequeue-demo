@@ -113,7 +113,6 @@ geiger
 grosz
 goatfish
 gadroon
-gyrencephalic
 ginete
 gravipause
 gastrostomy
@@ -3633,6 +3632,7 @@ gnathite
 ghostflower
 goalmouth
 gladdest
+gyrencephalic
 gracilariid
 ghostier
 ghebeta
