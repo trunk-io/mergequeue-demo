@@ -2629,7 +2629,6 @@ finding
 fumes
 forechase
 ferrocene
-fracas
 fogramity
 ferrocyanate
 ferroelectric
@@ -10331,6 +10330,7 @@ frictionable
 fleing
 fikey
 friendless
+fracas
 fraternise
 fruitlessly
 fetuses
