@@ -2100,7 +2100,6 @@ frory
 feldspathoid
 foys
 forehook
-fakirism
 flocky
 foggara
 filibuster
@@ -6304,6 +6303,7 @@ ferroconcrete
 firers
 flared
 fluidmeter
+fakirism
 faulted
 forceful
 fluidounce
