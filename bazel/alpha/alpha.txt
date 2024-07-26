@@ -2594,6 +2594,7 @@ aircrewmen
 alterableness
 acquest
 armenite
+avulsing
 aromatite
 actutate
 acquests
@@ -24870,7 +24871,6 @@ acknown
 ayenbite
 attractableness
 antinoness
-avulsing
 aponeurotome
 annuloida
 anarchosocialist
