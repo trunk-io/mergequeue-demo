@@ -2569,7 +2569,6 @@ adjection
 acouometer
 adjacently
 acoup
-acousmatic
 abrege
 acousticolateral
 acousticon
@@ -14685,6 +14684,7 @@ antibiont
 antibiosis
 antidumping
 antibiotic
+acousmatic
 antibiotically
 anthrohopobiological
 acushla
