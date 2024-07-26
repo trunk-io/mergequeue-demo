@@ -2223,7 +2223,6 @@ campsites
 coronofacial
 cretinizing
 campstool
-camptodrome
 camptonite
 camptosorus
 cabaan
@@ -3456,6 +3455,7 @@ caproate
 caldron
 caproin
 capromys
+camptodrome
 capron
 causeuse
 comprehends
