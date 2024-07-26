@@ -3385,7 +3385,6 @@ disrestore
 dynagraph
 dithionate
 deflagrator
-deflate
 deflating
 discommend
 dreng
@@ -10086,6 +10085,7 @@ dissightly
 dynamically
 devisals
 debarkations
+deflate
 defailance
 diselectrify
 dynamism
