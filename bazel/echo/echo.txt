@@ -8421,6 +8421,7 @@ enmities
 epitra
 epitrachelia
 epitria
+exceedable
 earplug
 enwreathe
 entertain
@@ -11871,7 +11872,6 @@ excavator
 enlace
 excave
 eructated
-exceedable
 elutes
 exceeded
 elaborations
