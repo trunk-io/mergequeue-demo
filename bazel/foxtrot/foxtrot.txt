@@ -1332,6 +1332,7 @@ fixage
 fancywork
 fasts
 florinda
+fuseau
 foins
 flancards
 footlocker
@@ -5882,7 +5883,6 @@ furanes
 filanders
 feminology
 fastigia
-fuseau
 fdtype
 fowlers
 flocced
