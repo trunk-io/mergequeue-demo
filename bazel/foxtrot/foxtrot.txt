@@ -6381,6 +6381,7 @@ flowchart
 flagpole
 fluocerine
 flang
+fullterm
 fluoran
 fennish
 fluorane
@@ -10910,7 +10911,6 @@ fiscalizing
 fullonian
 ferrying
 franticness
-fullterm
 fidgeters
 forlay
 flavorful
