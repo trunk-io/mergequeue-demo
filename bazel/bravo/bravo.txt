@@ -7044,7 +7044,6 @@ biosynthesis
 boma
 benzines
 banig
-beryllia
 besnowing
 besognier
 besoil
@@ -8410,6 +8409,7 @@ bigwig
 bigwigged
 bigwiggery
 biomass
+beryllia
 bigwiggism
 bigwigs
 boatly
