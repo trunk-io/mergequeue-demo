@@ -1072,7 +1072,6 @@ bestraddle
 borosalicylate
 bailey
 becense
-bricked
 bain
 bepraisement
 boho
@@ -6581,6 +6580,7 @@ bout
 berberia
 biohazard
 berberid
+bricked
 brutality
 bundoc
 bedevilled
