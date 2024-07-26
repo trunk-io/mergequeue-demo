@@ -4002,7 +4002,6 @@ boltheads
 beakiron
 beakless
 beaks
-bedtick
 beala
 byously
 buchu
@@ -4582,6 +4581,7 @@ bedazzles
 bedazzlingly
 baptise
 bedbugs
+bedtick
 bedchair
 bedchairs
 bellowing
