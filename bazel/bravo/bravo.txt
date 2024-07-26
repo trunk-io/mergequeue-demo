@@ -3570,7 +3570,6 @@ boliviano
 bathythermograph
 bathkol
 bipartite
-barbar
 bathmat
 bathmats
 broodsac
@@ -6307,6 +6306,7 @@ beys
 burying
 benthamism
 benthic
+barbar
 bagfuls
 benthonic
 bevors
