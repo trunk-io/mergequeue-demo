@@ -6503,6 +6503,7 @@ bivalvular
 bephrase
 brachiopodist
 bepicture
+bugology
 bepiece
 bepile
 bobotie
@@ -16540,7 +16541,6 @@ backpointers
 baboo
 boringly
 bsh
-bugology
 butyrochloral
 benzotriazole
 blubbered
