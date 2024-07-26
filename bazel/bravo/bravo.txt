@@ -3192,7 +3192,6 @@ barotactic
 breadth
 ballerinas
 basidigitale
-basidigitalia
 bauta
 beknave
 baclava
@@ -17236,6 +17235,7 @@ bolograph
 bumbailiffship
 bulrushlike
 bultey
+basidigitalia
 batardeau
 bulten
 bandores
