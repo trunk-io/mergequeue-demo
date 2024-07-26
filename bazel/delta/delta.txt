@@ -7764,7 +7764,6 @@ diglyph
 disapprove
 devisor
 decrier
-devitalised
 dowie
 dottore
 devitalizes
@@ -11869,6 +11868,7 @@ discrowned
 dormitary
 discrowns
 daydreamed
+devitalised
 dogma
 defiler
 discruciate
