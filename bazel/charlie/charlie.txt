@@ -14878,6 +14878,7 @@ confidences
 cytoblastema
 cytoblastemal
 caseless
+conjecturableness
 cytoblastemic
 cytoblastemous
 cytochemistry
@@ -22466,7 +22467,6 @@ conyza
 chickies
 conj
 conjective
-conjecturableness
 conjecturably
 condylopoda
 ciconiid
