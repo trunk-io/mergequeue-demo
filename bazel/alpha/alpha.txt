@@ -1008,7 +1008,6 @@ ansae
 abstort
 abstr
 anthos
-abstract
 abstractable
 acceptavit
 abstractedly
@@ -7263,6 +7262,7 @@ albuminose
 alarm
 abbess
 alarmclock
+abstract
 alexanders
 abamps
 alarmed
