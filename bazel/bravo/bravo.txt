@@ -602,6 +602,7 @@ bierkeller
 bonjour
 barniest
 bricoles
+bibbery
 berstel
 billmen
 beclothed
@@ -7842,7 +7843,6 @@ bicephalous
 bogman
 biface
 bibacity
-bibbery
 belauds
 bronzy
 bursautee
