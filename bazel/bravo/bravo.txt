@@ -5961,7 +5961,6 @@ buffaloes
 beltane
 belauding
 bimetalic
-bullit
 belter
 buyouts
 ballistic
@@ -17397,6 +17396,7 @@ beignets
 bejeled
 bunglers
 bungling
+bullit
 bungos
 boyla
 bichromic
