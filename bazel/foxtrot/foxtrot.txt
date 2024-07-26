@@ -10452,7 +10452,6 @@ fleet
 frontstall
 forstall
 ferocity
-foredestined
 flaxtail
 frontwards
 fragrant
@@ -10792,6 +10791,7 @@ fuchsine
 flustra
 foveation
 feriae
+foredestined
 fleeten
 feudalising
 fucinita
