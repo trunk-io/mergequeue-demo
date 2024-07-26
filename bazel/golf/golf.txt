@@ -634,6 +634,7 @@ gracioso
 gastriloquy
 guideline
 gramineal
+gnathobasic
 geodetic
 gardencraft
 gallomaniac
@@ -10379,7 +10380,6 @@ gapingstock
 gullets
 gargoyled
 garbanzos
-gnathobasic
 glycyls
 gelatiniser
 gutta
