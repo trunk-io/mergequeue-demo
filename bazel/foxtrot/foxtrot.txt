@@ -1842,6 +1842,7 @@ ferninst
 forbesite
 folkmots
 flak
+flaithship
 featishness
 frustules
 flyspecks
@@ -3807,7 +3808,6 @@ fortressed
 frizettes
 furoate
 fibula
-flaithship
 fellmonger
 farsakh
 fulls
