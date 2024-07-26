@@ -138,7 +138,6 @@ girth
 gaelic
 green
 gynostegia
-gaen
 gs
 gritless
 gallicole
@@ -7431,6 +7430,7 @@ generalization
 glial
 goolde
 goals
+gaen
 graphostatical
 glycolytic
 gortonian
