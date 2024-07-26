@@ -5520,7 +5520,6 @@ fettuccine
 formatters
 functionalities
 fanjets
-furfuran
 fleshliest
 fleshliness
 fw
@@ -10941,6 +10940,7 @@ fennec
 flanconade
 feuded
 flagstone
+furfuran
 foreseing
 facsimiles
 fooled
