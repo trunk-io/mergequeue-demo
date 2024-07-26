@@ -5504,7 +5504,6 @@ friseurs
 fluxmeter
 fossed
 fretwork
-firedamp
 forbarred
 fratching
 fleshhood
@@ -9307,6 +9306,7 @@ forty
 foveae
 furfurole
 forcipulata
+firedamp
 forgivingly
 filmstrip
 flushest
