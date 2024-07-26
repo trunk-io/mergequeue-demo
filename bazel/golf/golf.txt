@@ -2297,7 +2297,6 @@ galopin
 geldings
 gol
 gelated
-goffle
 gorgets
 grindstones
 gymnics
@@ -5562,6 +5561,7 @@ gooky
 georgical
 girosols
 gadus
+goffle
 globular
 glossolabial
 gershon
