@@ -4421,7 +4421,6 @@ fishboats
 fishbolts
 funt
 framed
-falchions
 fellers
 flagged
 fishbowls
@@ -10136,6 +10135,7 @@ frivolities
 frivolling
 feasibility
 floey
+falchions
 foulness
 freemasons
 finalize
