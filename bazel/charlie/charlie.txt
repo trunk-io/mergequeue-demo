@@ -5287,7 +5287,6 @@ coachwood
 cassata
 coalitions
 cassation
-casse
 caveats
 cerin
 cassegrain
@@ -9771,6 +9770,7 @@ convocate
 cheesing
 cheetahs
 cheetul
+casse
 cheewink
 cheezit
 chef
