@@ -4847,6 +4847,7 @@ gnash
 gladiatorial
 gagelike
 gatherer
+goldfinnies
 gablatores
 gunnen
 gaff
@@ -9410,7 +9411,6 @@ genesis
 grothine
 greenleaf
 grothite
-goldfinnies
 gangerel
 gymel
 gainset
