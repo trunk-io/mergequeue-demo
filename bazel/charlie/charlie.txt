@@ -7395,7 +7395,6 @@ codbank
 cantalite
 cephalagra
 computus
-cephalanthium
 coudee
 cephalaspis
 cocoonery
@@ -11203,6 +11202,7 @@ chivarra
 chivarras
 chive
 chivey
+cephalanthium
 chiliadal
 coronitis
 caboclos
