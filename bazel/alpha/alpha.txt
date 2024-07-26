@@ -4710,7 +4710,6 @@ alluvial
 alveolarly
 amphoricity
 aeolidae
-aeoline
 aeolipile
 ambrotype
 aeolis
@@ -22924,6 +22923,7 @@ atropisms
 atropos
 atropous
 atrorubent
+aeoline
 angiocarditis
 apelike
 arroba
