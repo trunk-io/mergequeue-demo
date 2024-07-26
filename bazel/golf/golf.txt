@@ -909,7 +909,6 @@ galt
 gametophoric
 gated
 gnashes
-gaminess
 glycaemia
 grumousness
 glucosemia
@@ -9008,6 +9007,7 @@ geog
 gobletful
 gnathophorous
 gravenstein
+gaminess
 guiles
 groomer
 gyron
