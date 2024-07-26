@@ -3710,6 +3710,7 @@ battledores
 baldly
 branches
 barotraumata
+bronteon
 battlefronts
 bringall
 battlement
@@ -8479,7 +8480,6 @@ bilbi
 bilby
 banqueteering
 baignet
-bronteon
 bilbo
 bilboa
 bandsawed
