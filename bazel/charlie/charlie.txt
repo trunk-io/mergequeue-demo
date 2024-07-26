@@ -6624,7 +6624,6 @@ chemosorb
 cheroot
 cdg
 cdr
-ce
 cesspool
 cosmonaut
 celibates
@@ -8904,6 +8903,7 @@ clothesbasket
 chaplets
 chapon
 corrugators
+ce
 cuppa
 crips
 chapote
