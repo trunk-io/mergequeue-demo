@@ -20924,6 +20924,7 @@ ascelli
 ascellus
 ascend
 ascendable
+amortisseur
 antirust
 autotroph
 ascendance
@@ -21797,7 +21798,6 @@ andoroba
 aerophobia
 assimilationist
 abede
-amortisseur
 assimilator
 assinego
 assiniboin
