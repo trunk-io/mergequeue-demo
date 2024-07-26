@@ -8063,7 +8063,6 @@ bicolorous
 betrayal
 bicolors
 bicoloured
-bicolours
 biconcave
 bidder
 bullescene
@@ -9115,6 +9114,7 @@ bioreaction
 bidented
 brown
 bandagist
+bicolours
 buzzwords
 biorhythm
 blockbusters
