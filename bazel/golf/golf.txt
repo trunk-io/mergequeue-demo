@@ -4455,7 +4455,6 @@ griskin
 gipsy
 graveyard
 grenelle
-goyle
 gipsydom
 giddyhead
 gepoun
@@ -7019,6 +7018,7 @@ ghillie
 goosegog
 glosts
 guignardia
+goyle
 gynandrarchy
 gonal
 gunnage
