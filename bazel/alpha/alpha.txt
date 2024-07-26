@@ -7919,7 +7919,6 @@ alembicated
 antetype
 alembroth
 alemite
-actuaries
 alemmal
 alen
 alkaloidal
@@ -25257,6 +25256,7 @@ azygoses
 azygote
 atabal
 angiosclerosis
+actuaries
 auriform
 aminosis
 azimene
