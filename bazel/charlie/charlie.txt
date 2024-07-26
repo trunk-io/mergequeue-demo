@@ -11283,7 +11283,6 @@ charquid
 chloranthus
 chlorate
 chlorates
-chimars
 chlorcosane
 chlordans
 chlorella
@@ -29582,6 +29581,7 @@ consociation
 croape
 croat
 carbogelatin
+chimars
 croatan
 confrontational
 crinion
