@@ -5495,6 +5495,7 @@ deoxidative
 dibbles
 deoxidisation
 dsnames
+dissolubility
 deadest
 deoxidised
 dorsiventrality
@@ -13777,7 +13778,6 @@ diaclinal
 dissogeny
 departmentalize
 dissogony
-dissolubility
 downrushing
 devastatingly
 dracma

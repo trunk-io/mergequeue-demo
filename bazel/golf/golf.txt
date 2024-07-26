@@ -5824,7 +5824,6 @@ gatten
 gendarmes
 greywacke
 gruiformes
-grainage
 ghettoing
 griffins
 gedact
@@ -8878,6 +8877,7 @@ grewhound
 gentman
 gobang
 grete
+grainage
 ganglier
 gazetteerish
 goldonian
