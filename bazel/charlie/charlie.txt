@@ -2566,7 +2566,6 @@ cambial
 crocoisite
 candlewasting
 coyan
-cytostome
 cordwoods
 codlins
 candlewicking
@@ -23584,6 +23583,7 @@ cleating
 continuedness
 comprovincial
 continuer
+cytostome
 continuers
 continuing
 columns
