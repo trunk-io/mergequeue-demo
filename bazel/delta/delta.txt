@@ -1962,6 +1962,7 @@ debutant
 dau
 downcastly
 dragbar
+disvalue
 dopant
 devoutly
 discostate
@@ -11061,7 +11062,6 @@ diasystem
 disaligned
 disalliege
 disallow
-disvalue
 displaying
 disconformably
 dramatised
