@@ -1854,7 +1854,6 @@ bindings
 brigading
 banders
 broadlings
-befume
 befogging
 banjara
 barkinji
@@ -5166,6 +5165,7 @@ bluebead
 bordereau
 baselard
 befretting
+befume
 buoyage
 befriended
 bullyrags
