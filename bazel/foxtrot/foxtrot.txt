@@ -3078,6 +3078,7 @@ forbs
 furiousness
 fossiform
 filmiform
+forma
 fiars
 fiascos
 ferricyanogen
@@ -4284,7 +4285,6 @@ flanky
 fluoroscopies
 frogmouths
 fiefs
-forma
 freakishness
 fatting
 fireplug
