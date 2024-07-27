@@ -857,7 +857,6 @@ acesodyne
 abscissas
 anam
 abscisse
-arctogaea
 amphicyrtous
 abscission
 absconce
@@ -17363,6 +17362,7 @@ anaesthetic
 autothermy
 aposteme
 aposteriori
+arctogaea
 aerogun
 apostil
 arithmometer
