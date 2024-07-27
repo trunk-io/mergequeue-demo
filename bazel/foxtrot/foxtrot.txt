@@ -1123,7 +1123,6 @@ figuresome
 flameproofer
 flatwashes
 fontinalaceous
-fanworts
 finkel
 fudgy
 fishling
@@ -9754,6 +9753,7 @@ floatable
 flabs
 forestick
 flycaster
+fanworts
 fevery
 ficoideae
 fretworks
