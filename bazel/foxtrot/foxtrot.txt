@@ -2953,6 +2953,7 @@ funks
 fetterlock
 flatfish
 forewing
+feign
 foxship
 frisettes
 formicarium
@@ -9681,7 +9682,6 @@ fourths
 futharks
 floyt
 freezy
-feign
 freezing
 fromage
 foredivine
