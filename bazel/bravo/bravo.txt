@@ -3463,6 +3463,7 @@ belligerent
 bander
 boobook
 batable
+bracket
 berzeliite
 batad
 barrages
@@ -14845,7 +14846,6 @@ bonaght
 brokers
 breakable
 breakableness
-bracket
 bulimic
 breakaxe
 burning
