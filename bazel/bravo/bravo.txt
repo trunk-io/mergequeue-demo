@@ -355,7 +355,6 @@ bonassus
 beemaster
 backen
 biblicoliterary
-bretwaldadom
 backer
 beehives
 backet
@@ -1895,6 +1894,7 @@ bishoplike
 biostatics
 bandit
 beshrew
+bretwaldadom
 brooded
 branle
 bandle
