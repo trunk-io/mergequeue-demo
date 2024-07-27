@@ -9949,7 +9949,6 @@ curiological
 chemokinesis
 chemokinetic
 chemolysis
-chemolytic
 cicero
 chemolyze
 countable
@@ -10659,6 +10658,7 @@ chillroom
 chills
 chillsome
 chouka
+chemolytic
 chillumchee
 countersubject
 charcia
