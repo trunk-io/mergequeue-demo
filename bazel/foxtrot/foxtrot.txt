@@ -1773,6 +1773,7 @@ flighted
 fascio
 floats
 filicin
+faciend
 frippet
 flashflood
 feastful
@@ -3905,7 +3906,6 @@ fungistat
 flavanthrene
 favous
 fimbriating
-faciend
 farcer
 frizette
 focalising
