@@ -854,7 +854,6 @@ gire
 greedygut
 geometrician
 grammaticality
-gamelang
 gonagia
 glazings
 gonadotropin
@@ -6729,6 +6728,7 @@ ganocephala
 gonionia
 gnosticize
 goniopholidae
+gamelang
 gland
 ganam
 gamgee
