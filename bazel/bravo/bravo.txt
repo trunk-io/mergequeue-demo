@@ -316,7 +316,6 @@ bakeware
 backslided
 backberend
 backbite
-browbound
 backbites
 beeman
 baize
@@ -1890,6 +1889,7 @@ bryology
 bewend
 bevies
 belay
+browbound
 bishoplike
 biostatics
 bandit
