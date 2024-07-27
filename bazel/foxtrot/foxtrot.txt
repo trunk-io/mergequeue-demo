@@ -4868,6 +4868,7 @@ floppy
 fisticuffing
 fasciolaria
 fancifulness
+flinching
 fashionmonging
 fingerflower
 fullwords
@@ -9433,7 +9434,6 @@ foodstuff
 foreteeth
 flossed
 frary
-flinching
 flouriness
 frolicly
 frasier
