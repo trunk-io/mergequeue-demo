@@ -3508,7 +3508,6 @@ forseen
 figaro
 fontanges
 florilegia
-farm
 figeater
 floriate
 fascisti
@@ -11166,6 +11165,7 @@ fungicolous
 fridila
 fraughted
 fibronuclear
+farm
 faence
 flatwash
 forktail
