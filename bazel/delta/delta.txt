@@ -752,7 +752,6 @@ dandlers
 dispurpose
 drawn
 dandles
-dandlingly
 dandriff
 dapperly
 dandriffy
@@ -12803,6 +12802,7 @@ disloyalty
 doored
 disloyalties
 dislove
+dandlingly
 deforcement
 dunk
 debouch
