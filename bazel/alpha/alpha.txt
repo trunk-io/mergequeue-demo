@@ -11696,7 +11696,6 @@ anagrams
 adventist
 anahau
 anay
-anakinetomer
 anakinetomeric
 anaktoron
 analagous
@@ -25112,6 +25111,7 @@ axillar
 argyrite
 axillaries
 axillars
+anakinetomer
 agib
 airbound
 aconitic
