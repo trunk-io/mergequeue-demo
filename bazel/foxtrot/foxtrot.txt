@@ -1018,6 +1018,7 @@ fards
 firethorn
 friarbird
 fares
+feats
 fastigated
 faretta
 financialist
@@ -7438,7 +7439,6 @@ forceless
 forcelessness
 forcelet
 futhark
-feats
 fasciolar
 flagellariaceae
 fasciculation
