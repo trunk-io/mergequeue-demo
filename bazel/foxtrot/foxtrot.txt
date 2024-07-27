@@ -2813,7 +2813,6 @@ frizer
 foreparts
 fights
 festerment
-festers
 footway
 firmaments
 feis
@@ -6299,6 +6298,7 @@ fingerwork
 frisian
 fermentate
 fluidist
+festers
 fluidized
 ferroconcrete
 firers
