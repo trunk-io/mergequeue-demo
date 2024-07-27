@@ -23662,7 +23662,6 @@ cuplike
 cubalaya
 countableness
 contracyclical
-contraclockwise
 contract
 contractable
 contractant
@@ -30473,6 +30472,7 @@ cubangle
 cubanite
 cubatory
 cubature
+contraclockwise
 conciliar
 counterweighed
 cubby
