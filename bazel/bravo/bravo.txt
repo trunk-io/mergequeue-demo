@@ -4622,7 +4622,6 @@ bedemen
 boeing
 basigamy
 bloodworm
-bdft
 buxus
 bedevilling
 barbershops
@@ -16312,6 +16311,7 @@ brownwort
 biovular
 bicarb
 bleatingly
+bdft
 bothies
 briskened
 bruisingly
