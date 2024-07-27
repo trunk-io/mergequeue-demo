@@ -3771,6 +3771,7 @@ beldamship
 bestubble
 batzen
 blundering
+boatsmanship
 bribeable
 blksize
 barreler
@@ -8034,7 +8035,6 @@ bicircular
 bicirrose
 bitemporal
 byname
-boatsmanship
 bick
 brainwashes
 bicycler
