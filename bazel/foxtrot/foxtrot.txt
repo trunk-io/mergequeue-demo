@@ -1692,7 +1692,6 @@ fryer
 foreannounce
 fipenny
 fconv
-familiar
 four
 fdnames
 floretum
@@ -9045,6 +9044,7 @@ fluvious
 fountained
 flashguns
 fundiform
+familiar
 farther
 fib
 fallaciousness
