@@ -876,6 +876,7 @@ gainturn
 guily
 goffer
 ghatti
+gibier
 gymnophiona
 guerrilla
 gametangia
@@ -3608,7 +3609,6 @@ gutturotetany
 gory
 ghorkhar
 ghost
-gibier
 gnathonism
 gasoliner
 guardstone
