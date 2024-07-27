@@ -9391,7 +9391,6 @@ dryad
 deutoplasmic
 dunces
 differentiability
-differentiable
 differentiae
 differentialize
 differentials
@@ -14045,6 +14044,7 @@ distinctions
 disruptionist
 distortions
 delocalise
+differentiable
 distorts
 dolomitising
 dentoid
