@@ -5962,6 +5962,7 @@ altered
 abortus
 amount
 antireality
+anchylotic
 acystia
 aggressivity
 aclys
@@ -12142,7 +12143,6 @@ andaman
 anchieutectic
 affectuous
 allbone
-anchylotic
 anchimonomineral
 anchisaurus
 aegirite
