@@ -5015,7 +5015,6 @@ apteryges
 aerosteam
 aethalioid
 antapex
-aerotactic
 aerotaxis
 actinodrome
 agacant
@@ -6271,6 +6270,7 @@ agraphia
 agraphic
 acrocyanosis
 agraria
+aerotactic
 abvolt
 antitrinitarian
 adjectively
