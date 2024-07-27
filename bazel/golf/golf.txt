@@ -2519,7 +2519,6 @@ gene
 grassed
 gyrogonite
 guigne
-generalty
 gargling
 generant
 generate
@@ -10677,6 +10676,7 @@ grandeurs
 gurl
 grove
 glyphographic
+generalty
 glycerols
 gurnard
 genomes
