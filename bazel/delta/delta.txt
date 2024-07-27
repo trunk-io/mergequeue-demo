@@ -918,6 +918,7 @@ darabukka
 dauts
 darac
 detachers
+directives
 dewed
 dures
 darb
@@ -5202,7 +5203,6 @@ dactyliomancy
 denim
 dioestrum
 danceress
-directives
 doctrinalist
 dyings
 daemon
