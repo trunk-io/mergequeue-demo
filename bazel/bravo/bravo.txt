@@ -3383,7 +3383,6 @@ bassie
 betsey
 bassinet
 bitterling
-beglic
 basson
 backwater
 blastodermatic
@@ -9416,6 +9415,7 @@ becrawled
 bluecaps
 birdseye
 birdsnest
+beglic
 bungfu
 bargehouse
 birdstone
