@@ -2811,6 +2811,7 @@ gondolet
 genuflecting
 gaberdine
 graduator
+guardsman
 guildship
 gullish
 genuflects
@@ -10861,7 +10862,6 @@ gyri
 grozet
 guideress
 graduation
-guardsman
 guaranteer
 graphidiaceae
 gils
