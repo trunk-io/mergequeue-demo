@@ -4506,6 +4506,7 @@ gomutis
 gambrel
 gumwoods
 gills
+gerbille
 gigantomachia
 gmelinite
 girasol
@@ -10611,7 +10612,6 @@ gillion
 glandaceous
 gowned
 goldenmouth
-gerbille
 greenockite
 glumose
 gotraja
