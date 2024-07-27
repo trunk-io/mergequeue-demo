@@ -2548,7 +2548,6 @@ crewel
 cacqueteuse
 candlenut
 candlepins
-candlepower
 chemist
 cerevis
 candler
@@ -10895,6 +10894,7 @@ chiolite
 chionablepsia
 chionaspis
 chionodoxa
+candlepower
 circumcising
 chionophobia
 chiopin
