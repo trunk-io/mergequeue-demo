@@ -9904,7 +9904,6 @@ abandonee
 abu
 amaurosis
 androeccia
-amaurotic
 amaze
 airlocks
 akroterial
@@ -13522,6 +13521,7 @@ amoebida
 amputated
 aphidophagous
 annotative
+amaurotic
 annotatively
 ablate
 armorer
