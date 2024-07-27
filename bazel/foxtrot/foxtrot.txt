@@ -4173,7 +4173,6 @@ fundament
 frogleaf
 fusilading
 foramina
-fraggings
 fulk
 felonry
 firstly
@@ -10398,6 +10397,7 @@ flags
 fitche
 footer
 ferfel
+fraggings
 filigree
 flow
 fictility
