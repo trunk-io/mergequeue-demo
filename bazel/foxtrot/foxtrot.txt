@@ -1634,6 +1634,7 @@ falsettist
 fibrinogen
 filespec
 favorites
+ficoid
 furstone
 fadges
 flavobacterium
@@ -9525,7 +9526,6 @@ freaked
 filicinian
 frontomaxillary
 freaky
-ficoid
 fliffus
 figurers
 floppiness
