@@ -7383,7 +7383,6 @@ cepe
 cepes
 civ
 conchitis
-cephaelis
 clincher
 commercer
 constitution
@@ -25490,6 +25489,7 @@ contaggia
 circumclusion
 constancy
 congenialness
+cephaelis
 coroll
 cartooning
 corollary
