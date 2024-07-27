@@ -9915,6 +9915,7 @@ anatomicopathological
 amazer
 amazers
 accented
+antihelixes
 aphanesite
 amazilia
 amazing
@@ -12175,7 +12176,6 @@ asthmatically
 anchoveta
 anchusa
 arcades
-antihelixes
 anchusas
 amblypoda
 anchusine
