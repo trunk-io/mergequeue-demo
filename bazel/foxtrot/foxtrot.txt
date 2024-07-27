@@ -146,7 +146,6 @@ frill
 flagellist
 feedhead
 fibre
-formican
 fossiled
 facsim
 facsimiled
@@ -1781,6 +1780,7 @@ feastly
 foist
 feastraw
 feather
+formican
 foreordainment
 featherbird
 feoffors
