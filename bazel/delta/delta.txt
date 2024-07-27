@@ -3673,7 +3673,6 @@ dermatoplasty
 demodicidae
 diploic
 dioestrous
-defoliant
 dropforging
 deglutition
 deglutitious
@@ -15216,6 +15215,7 @@ dolcemente
 dolci
 dolciano
 dardaol
+defoliant
 dolcino
 demagoguism
 dididae
