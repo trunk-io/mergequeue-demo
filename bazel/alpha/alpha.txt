@@ -13274,7 +13274,6 @@ axseeds
 aurifex
 agglutinability
 anisomeric
-anisomerous
 autosome
 apoturmeric
 anisometric
@@ -21574,6 +21573,7 @@ attenuate
 anteflected
 addict
 acetometrically
+anisomerous
 actinobacillosis
 assayable
 afterpotential
