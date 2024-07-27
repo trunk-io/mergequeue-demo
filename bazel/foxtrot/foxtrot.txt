@@ -3228,6 +3228,7 @@ flowerier
 fatso
 fossate
 foci
+floccule
 freeloaders
 forthfare
 franc
@@ -10674,7 +10675,6 @@ fg
 foresheets
 fleuretty
 foulage
-floccule
 fringilla
 frugs
 fecks
