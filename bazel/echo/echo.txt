@@ -2482,7 +2482,6 @@ electrolysation
 enervators
 enmeshed
 engrieve
-electrolysed
 ensate
 eparcuale
 epitomisation
@@ -13890,6 +13889,7 @@ escheator
 extrados
 ecchymoma
 extradosed
+electrolysed
 environments
 ectobronchium
 eucalyptus
