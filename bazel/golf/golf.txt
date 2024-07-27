@@ -5417,7 +5417,6 @@ gauche
 gus
 germanly
 greenness
-gunl
 garrotte
 galvanosurgery
 guaranteers
@@ -7222,6 +7221,7 @@ glowbird
 generatrix
 grainsick
 glandular
+gunl
 glazed
 goofing
 garcon
