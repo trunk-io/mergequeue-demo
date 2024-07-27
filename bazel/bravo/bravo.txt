@@ -5270,7 +5270,6 @@ beggaring
 bicrescentic
 beggarlike
 boshas
-beggarliness
 brimless
 beggarweed
 bubbies
@@ -8247,6 +8246,7 @@ bifluoride
 bifocal
 balanocele
 berith
+beggarliness
 balagan
 bullfist
 brothership
