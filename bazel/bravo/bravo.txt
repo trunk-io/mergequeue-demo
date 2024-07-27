@@ -3698,6 +3698,7 @@ batteryman
 batterman
 bullockman
 bindlet
+bepinch
 batters
 baylike
 batty
@@ -6510,7 +6511,6 @@ bepart
 beacher
 bepimpling
 bureaucratical
-bepinch
 bepray
 bepraiser
 bituminizing
