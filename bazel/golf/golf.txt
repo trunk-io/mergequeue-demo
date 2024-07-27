@@ -622,7 +622,6 @@ gallisin
 gunslingers
 gillie
 geophysicist
-gallivant
 gallivanters
 glide
 gradatory
@@ -9841,6 +9840,7 @@ groomers
 guaymie
 grilles
 gabbarts
+gallivant
 gnathopoda
 gorillas
 geckotidae
