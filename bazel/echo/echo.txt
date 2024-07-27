@@ -1010,7 +1010,6 @@ edaphon
 edaphosauria
 edaphosaurid
 exorbital
-established
 edaphosaurus
 explosibility
 euthanasic
@@ -7184,6 +7183,7 @@ everyday
 endocolitis
 envisage
 envisagement
+established
 envisioning
 eye
 epistolising
