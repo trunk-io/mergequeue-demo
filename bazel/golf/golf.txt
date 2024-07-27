@@ -502,7 +502,6 @@ gowiddie
 golem
 gruffing
 gastriloquist
-galionji
 geologers
 geognostic
 graff
@@ -1227,6 +1226,7 @@ garb
 gaufre
 generalizations
 groups
+galionji
 goodship
 galligaskin
 gravures
