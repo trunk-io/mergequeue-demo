@@ -2371,7 +2371,6 @@ fecula
 fenzelia
 feod
 firestopping
-feoff
 foreimagine
 fconvert
 fs
@@ -11437,6 +11436,7 @@ furniture
 flummoxing
 frustrable
 furodiazole
+feoff
 foraminated
 few
 furomethyl
