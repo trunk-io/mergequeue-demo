@@ -2099,7 +2099,6 @@ bivittate
 banovina
 banquet
 banqueter
-bombasine
 bundist
 blindish
 banqueting
@@ -5705,6 +5704,7 @@ bdellostomatidae
 beater
 beclap
 belgrade
+bombasine
 bora
 birefracting
 backwasher
