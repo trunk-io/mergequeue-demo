@@ -2125,7 +2125,6 @@ furlers
 fesapo
 filletlike
 fear
-focimetry
 flagpoles
 firmers
 flavian
@@ -5718,6 +5717,7 @@ forsung
 flint
 fluffer
 ferratin
+focimetry
 flinty
 footpound
 flintwood
