@@ -4659,7 +4659,6 @@ fodderless
 footweary
 foresaying
 fasciotomy
-fearful
 fleckless
 fruitgrowing
 fitchew
@@ -10815,6 +10814,7 @@ farcify
 flisk
 fuddler
 florimania
+fearful
 ferniest
 firiness
 fixatives
