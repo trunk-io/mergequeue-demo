@@ -3969,7 +3969,6 @@ gouter
 gangliomata
 gesticulates
 gansey
-giantlike
 ginnier
 gubbings
 gellert
@@ -5707,6 +5706,7 @@ glossocele
 graian
 gummoses
 grandmother
+giantlike
 gantline
 graphics
 gabendum
