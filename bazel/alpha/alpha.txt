@@ -4978,6 +4978,7 @@ assumptions
 antipopularization
 affiliations
 awaft
+accentuable
 agister
 archibenthal
 abv
@@ -10842,7 +10843,6 @@ ayield
 ammonoidean
 aerocartography
 ammonoids
-accentuable
 ammonolitic
 archeological
 ammonolytic
