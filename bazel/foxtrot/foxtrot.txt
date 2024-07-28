@@ -11322,6 +11322,7 @@ flathat
 femorocaudal
 ferroelectricity
 faceted
+foldout
 fictional
 formful
 furfures
@@ -11574,7 +11575,6 @@ furanoses
 fusileer
 foretack
 forpass
-foldout
 flummery
 futhermore
 fixature
