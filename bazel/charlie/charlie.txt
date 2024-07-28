@@ -7295,7 +7295,6 @@ centrings
 clivia
 cavaedia
 centriole
-centripetal
 chalazogam
 codebreak
 chymous
@@ -25321,6 +25320,7 @@ cams
 corncrake
 crustiest
 corncrib
+centripetal
 corncribs
 corncrusher
 corncutter
