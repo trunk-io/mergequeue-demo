@@ -11725,7 +11725,6 @@ analeptic
 analgesics
 allargando
 apportion
-analgesist
 analgetic
 analgia
 anticephalalgic
@@ -24263,6 +24262,7 @@ acquist
 aluminographic
 apparent
 autophytograph
+analgesist
 autophytography
 autophoby
 abacinate
