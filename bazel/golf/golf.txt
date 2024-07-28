@@ -285,7 +285,6 @@ globins
 grayout
 geet
 glossophora
-giraffa
 gaintwist
 giglot
 gamuts
@@ -9080,6 +9079,7 @@ grin
 guajira
 glads
 galactidrosis
+giraffa
 gherkin
 gentlehood
 gapingly
