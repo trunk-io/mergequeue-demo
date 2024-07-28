@@ -6431,7 +6431,6 @@ burely
 barfy
 benzonaphthol
 benzonitrile
-benzonitrol
 behedge
 benzophenothiazine
 benzophloroglucinol
@@ -9137,6 +9136,7 @@ bearishness
 binominated
 brunettes
 biosynthesize
+benzonitrol
 beclout
 bushwhacking
 bistournage
