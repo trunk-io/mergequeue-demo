@@ -5625,7 +5625,6 @@ genophobia
 gondola
 gyrators
 glomerule
-gaduin
 grunth
 gossipries
 gloomily
@@ -6062,6 +6061,7 @@ grappas
 greets
 gnats
 glutaeous
+gaduin
 gorbit
 guttie
 grisset
