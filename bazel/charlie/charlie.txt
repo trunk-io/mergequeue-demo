@@ -14181,7 +14181,6 @@ cyprinoidean
 cyprinus
 chasten
 cypriots
-cypris
 cyproterone
 cyprus
 cypseliform
@@ -23935,6 +23934,7 @@ conurbation
 conuropsis
 conurus
 conus
+cypris
 cytometer
 conusance
 conusant
