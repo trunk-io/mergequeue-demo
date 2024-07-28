@@ -12674,7 +12674,6 @@ defaultant
 descendentalist
 dipl
 duplicidentate
-disjointing
 disjointly
 dechemicalization
 disjunctive
@@ -14458,6 +14457,7 @@ divertedly
 diverters
 disillusionized
 defaulter
+disjointing
 daising
 divvers
 denies
