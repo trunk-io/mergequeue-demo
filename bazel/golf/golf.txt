@@ -7982,7 +7982,6 @@ gratae
 granite
 gypsydoms
 guttulae
-greedy
 geostationary
 gladioli
 glenoidal
@@ -10695,6 +10694,7 @@ goodmanship
 gildings
 grabs
 goaling
+greedy
 gurshes
 guardhouse
 gonadectomies
