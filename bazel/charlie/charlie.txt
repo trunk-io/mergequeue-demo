@@ -5424,7 +5424,6 @@ casteth
 crossbench
 castice
 castigable
-coalyard
 confederates
 cyclopism
 castigate
@@ -20802,6 +20801,7 @@ campodea
 crossbolted
 compliment
 coenesthesis
+coalyard
 complimental
 complimentally
 complimentarily
