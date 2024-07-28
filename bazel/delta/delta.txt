@@ -10495,6 +10495,7 @@ diphysite
 dyphone
 dosimeters
 damask
+discolith
 devinct
 disinflame
 dow
@@ -14492,7 +14493,6 @@ deferment
 dictatress
 divested
 doradidae
-discolith
 dicynodontidae
 dihelios
 decoupling
