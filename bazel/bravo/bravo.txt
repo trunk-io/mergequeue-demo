@@ -3736,7 +3736,6 @@ brigantes
 bimestrial
 battlestead
 battlewagon
-belemnid
 bronchiectasis
 behatted
 bemist
@@ -15628,6 +15627,7 @@ boatel
 bg
 bulkheads
 burred
+belemnid
 broadcast
 broadcaster
 broadcastings
