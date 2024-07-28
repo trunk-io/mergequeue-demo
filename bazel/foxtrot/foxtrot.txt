@@ -7218,7 +7218,6 @@ furcraea
 formedon
 flection
 faecalith
-footler
 flites
 forthteller
 footless
@@ -10661,6 +10660,7 @@ fruitgrower
 foodstuffs
 fruitiness
 fieldworker
+footler
 famish
 frightable
 facultied
