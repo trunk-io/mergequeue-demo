@@ -10676,7 +10676,6 @@ aminopeptidase
 anisodactyl
 aminopherase
 apothec
-arccosine
 aminopyrine
 aminoplastic
 agrobiologic
@@ -12449,6 +12448,7 @@ academian
 adelarthrosomata
 anemic
 anemically
+arccosine
 adipogenic
 anemobiagraph
 anemochord
