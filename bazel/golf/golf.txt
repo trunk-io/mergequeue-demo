@@ -640,7 +640,6 @@ geodetic
 gardencraft
 gallomaniac
 gallon
-gallonage
 gonapophysis
 galloper
 guruships
@@ -1829,6 +1828,7 @@ gatetender
 gawain
 ghibellinism
 grapeless
+gallonage
 gill
 groomy
 gawkihood
