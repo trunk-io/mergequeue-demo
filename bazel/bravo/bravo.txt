@@ -7441,7 +7441,6 @@ batrachia
 buboes
 bashalick
 betterment
-brigantinebrigantines
 betterments
 bulbocavernous
 bivouacks
@@ -9964,6 +9963,7 @@ bituminosis
 bennettitaceae
 brian
 bx
+brigantinebrigantines
 bituminous
 bisecting
 beryllate
