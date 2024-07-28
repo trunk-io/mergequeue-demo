@@ -2950,7 +2950,6 @@ barricaded
 beltian
 benedicts
 barricaders
-barricado
 barricadoes
 brainsick
 blayk
@@ -14444,6 +14443,7 @@ brainwave
 baragouinish
 brainwood
 brairded
+barricado
 breamed
 biometrist
 becivet
