@@ -7054,7 +7054,6 @@ entresols
 endocardial
 extractors
 embladder
-extroversion
 electrotitration
 entryman
 enamourment
@@ -7716,6 +7715,7 @@ espece
 epicurishly
 epicuticle
 elephanticide
+extroversion
 epicuticular
 expulsed
 executrices
