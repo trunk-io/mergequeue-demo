@@ -1156,7 +1156,6 @@ esthetics
 environage
 edition
 endere
-editor
 editorialization
 elsa
 eater
@@ -10052,6 +10051,7 @@ externality
 echidnae
 europiums
 etched
+editor
 enteropexy
 efford
 etching
