@@ -5366,7 +5366,6 @@ commonty
 cassumunar
 cast
 castable
-curette
 castagnole
 castalian
 castalides
@@ -25881,6 +25880,7 @@ combretaceous
 communing
 cuneoscaphoid
 correction
+curette
 convertable
 corset
 corsetier
