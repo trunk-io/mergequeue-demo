@@ -6447,6 +6447,7 @@ ensiles
 expediment
 ensiling
 ensilist
+exceptions
 ensilver
 existentially
 ensisternum
@@ -6569,7 +6570,6 @@ epicentral
 endotrachelitis
 exhauster
 enwrapt
-exceptions
 earsore
 eclectical
 entanglements
