@@ -3886,7 +3886,6 @@ bullaria
 bazar
 bazars
 bint
-bazoo
 brockage
 bazooka
 bazookas
@@ -4739,6 +4738,7 @@ bursula
 basseted
 bedlar
 bedlids
+bazoo
 bibliotic
 blackseed
 bord
