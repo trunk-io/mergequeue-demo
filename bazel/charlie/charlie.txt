@@ -363,7 +363,6 @@ carper
 cacogastric
 cacogenesis
 cacogenic
-clockroom
 capsulate
 cacogeusia
 cacoglossia
@@ -6966,6 +6965,7 @@ celtish
 celtism
 celtium
 cotyla
+clockroom
 compaction
 caffein
 celtization
