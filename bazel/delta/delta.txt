@@ -1897,7 +1897,6 @@ debride
 dithematic
 debridement
 dodecylene
-debrief
 deciphers
 debriefing
 dowser
@@ -2663,6 +2662,7 @@ decompiler
 decomposable
 deviceful
 decomposer
+debrief
 decomposers
 daddocky
 decomposing
