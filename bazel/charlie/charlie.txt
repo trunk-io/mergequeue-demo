@@ -7357,7 +7357,6 @@ centuples
 codbank
 chaldese
 centuplicate
-centuplicated
 centuplicating
 civility
 chucking
@@ -10237,6 +10236,7 @@ chevin
 cheviots
 crined
 chevres
+centuplicated
 chevret
 counterexamples
 chevrolet
