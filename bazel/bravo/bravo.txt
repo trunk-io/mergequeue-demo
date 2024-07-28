@@ -6105,7 +6105,6 @@ benchership
 bodge
 blimpishness
 blusters
-burglary
 barragon
 benchful
 benchman
@@ -12854,6 +12853,7 @@ boomkins
 barquest
 bootes
 baseboard
+burglary
 basiliscine
 barnabite
 bioprecipitation
