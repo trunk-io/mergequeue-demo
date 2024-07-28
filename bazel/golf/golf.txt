@@ -881,7 +881,6 @@ gainturn
 guily
 goffer
 ghatti
-gibier
 gymnophiona
 guerrilla
 gametangia
@@ -4981,6 +4980,7 @@ gunships
 gloriously
 grolier
 grippe
+gibier
 gammed
 gingeleys
 giulio
