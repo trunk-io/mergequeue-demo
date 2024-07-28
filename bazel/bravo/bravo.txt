@@ -1574,6 +1574,7 @@ ballgame
 ballgames
 berley
 ballhooter
+bioassayed
 balli
 balliage
 burmanniaceous
@@ -12807,7 +12808,6 @@ bookstand
 blemisher
 bookstores
 bipacks
-bioassayed
 biforked
 bigaroon
 bucolic
