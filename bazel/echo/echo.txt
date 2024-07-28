@@ -3575,7 +3575,6 @@ egocentric
 esperantism
 epitomically
 embows
-embox
 egeria
 egma
 eveque
@@ -7995,6 +7994,7 @@ eteocreton
 embower
 explication
 epinaos
+embox
 enteric
 eliminand
 enomaniac
