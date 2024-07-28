@@ -12321,7 +12321,6 @@ bacteriophagic
 bullwhacker
 betrayer
 bramantesque
-bombardment
 beswarmed
 bombardments
 bedazed
@@ -15456,6 +15455,7 @@ bleaters
 bearskins
 brinehouse
 brineless
+bombardment
 bakery
 bratstva
 bibliopegistic
