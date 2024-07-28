@@ -15328,6 +15328,7 @@ clayware
 claywares
 clayweed
 caam
+colours
 chlorphenol
 crassina
 clam
@@ -19560,7 +19561,6 @@ colourist
 colourless
 ceruleum
 colourman
-colours
 colpenchyma
 colpindach
 canzonets
