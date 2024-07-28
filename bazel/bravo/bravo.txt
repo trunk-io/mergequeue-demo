@@ -10648,7 +10648,6 @@ bouquet
 bladders
 blazonry
 bowllike
-blazons
 bld
 beyliks
 bleach
@@ -17309,6 +17308,7 @@ bumpered
 bumpers
 bumpily
 baths
+blazons
 bumpkin
 bumpkins
 bumpology
