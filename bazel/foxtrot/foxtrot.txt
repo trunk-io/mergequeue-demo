@@ -3638,7 +3638,6 @@ forspoken
 fussle
 fairbanks
 fourniture
-figent
 filers
 fructification
 felinity
@@ -6443,6 +6442,7 @@ fairm
 filiety
 foliates
 fluoryl
+figent
 flibbertigibbet
 freshish
 facsimileing
