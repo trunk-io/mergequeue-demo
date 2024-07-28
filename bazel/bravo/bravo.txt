@@ -2157,7 +2157,6 @@ botrychium
 backup
 blahlaut
 baptisias
-bitbrace
 bilingualism
 biddy
 bonehead
@@ -13908,6 +13907,7 @@ bowlder
 bluefishes
 bauno
 basibregmatic
+bitbrace
 boloball
 bowldering
 biotoxin
