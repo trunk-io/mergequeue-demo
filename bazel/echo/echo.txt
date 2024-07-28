@@ -1009,7 +1009,6 @@ edaphology
 etymological
 edaphon
 edaphosauria
-edaphosaurid
 exorbital
 edaphosaurus
 explosibility
@@ -12794,6 +12793,7 @@ explicative
 epistemologist
 exospheric
 erotize
+edaphosaurid
 elvish
 emblems
 encephalomere
