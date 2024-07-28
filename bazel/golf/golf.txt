@@ -5060,6 +5060,7 @@ gastroptosia
 guilders
 gravery
 glassmaking
+galactose
 glyc
 gallberries
 grav
@@ -7117,7 +7118,6 @@ genecor
 gorgeret
 gorgers
 glideness
-galactose
 gorgia
 gorglin
 galvayne
