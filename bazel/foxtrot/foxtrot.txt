@@ -6831,6 +6831,7 @@ forethink
 foldcourse
 fanzines
 fiberless
+folkmoots
 foredoomed
 fleshhook
 fess
@@ -6939,7 +6940,6 @@ footman
 fringier
 forespeaker
 foreignization
-folkmoots
 fadmonger
 freekirker
 fleyedly
