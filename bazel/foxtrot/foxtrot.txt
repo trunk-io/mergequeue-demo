@@ -4635,6 +4635,7 @@ fieldstone
 fistuca
 foxchop
 forrue
+freezing
 freest
 filmist
 fistula
@@ -9684,7 +9685,6 @@ fourths
 futharks
 floyt
 freezy
-freezing
 fromage
 foredivine
 fletcher
