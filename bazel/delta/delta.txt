@@ -2509,7 +2509,6 @@ declarant
 declarations
 declarative
 deligation
-dearomatize
 demieagle
 discomorula
 druith
@@ -3937,6 +3936,7 @@ dahlsten
 dollied
 dekare
 dinsome
+dearomatize
 dogfoot
 deference
 dekes
