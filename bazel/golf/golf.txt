@@ -874,7 +874,6 @@ gripman
 gallowsward
 geegaw
 galactan
-gainturn
 guily
 goffer
 ghatti
@@ -2313,6 +2312,7 @@ gagroot
 greengrocer
 gutturalisation
 grubbiness
+gainturn
 gnatoo
 guavaberry
 ghazal
