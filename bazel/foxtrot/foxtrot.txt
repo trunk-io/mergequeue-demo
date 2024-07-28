@@ -781,7 +781,6 @@ fancying
 farrandly
 fanciless
 foliicolous
-fanciness
 forestaff
 fragrance
 fallows
@@ -10716,6 +10715,7 @@ frumpish
 forecount
 forbore
 frumpishly
+fanciness
 forewinning
 foreyear
 follyer
