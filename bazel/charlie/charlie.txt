@@ -6442,6 +6442,7 @@ cough
 cautery
 cauteries
 cauterisation
+couche
 cauterise
 cauterising
 cauterism
@@ -6748,7 +6749,6 @@ ceiling
 ceilings
 ceilingwards
 copiability
-couche
 celtophobia
 ceilometer
 couac
