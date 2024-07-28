@@ -1327,7 +1327,6 @@ definer
 dauphine
 dauphines
 drooping
-derivable
 drapable
 dauri
 dorter
@@ -10721,6 +10720,7 @@ diplotaxis
 dissipating
 diplozoon
 draws
+derivable
 declinometer
 downstreet
 dogman
