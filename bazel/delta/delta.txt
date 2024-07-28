@@ -3568,7 +3568,6 @@ defuses
 defusion
 demidigested
 deformalize
-dorsocaudal
 dingles
 dermatotome
 dissheathe
@@ -16965,6 +16964,7 @@ drearness
 drecks
 dermatherm
 demihorse
+dorsocaudal
 dullness
 downcurve
 dedo
