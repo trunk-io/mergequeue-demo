@@ -3836,7 +3836,6 @@ balsas
 bicker
 bauxitic
 bavaroy
-bowwoman
 bowdlerizations
 bavette
 baviaantje
@@ -8919,6 +8918,7 @@ botan
 biocidal
 biocide
 bioclimatic
+bowwoman
 bioclimatician
 bioclimatology
 bathwater
