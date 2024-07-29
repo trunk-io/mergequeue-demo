@@ -5258,7 +5258,6 @@ blastocyst
 begats
 bolters
 bastes
-bobbled
 bothsided
 begazing
 bimasty
@@ -5502,6 +5501,7 @@ bindi
 boxed
 bootyless
 beelines
+bobbled
 beydom
 boatswain
 bechained
