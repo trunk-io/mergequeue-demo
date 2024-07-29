@@ -8957,6 +8957,7 @@ chaqueta
 commanders
 char
 conveyability
+crouchingly
 chara
 costae
 charabanc
@@ -30002,7 +30003,6 @@ crouchie
 cahnite
 cacothesis
 crankiest
-crouchingly
 cosmete
 crounotherapy
 croup
