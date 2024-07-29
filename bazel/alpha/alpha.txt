@@ -1509,6 +1509,7 @@ accoll
 arrastre
 arietation
 accolle
+antinovel
 amrita
 accolled
 apparens
@@ -17118,7 +17119,6 @@ ailuropus
 acmes
 audience
 apogamy
-antinovel
 antibody
 apogamies
 apogamous
