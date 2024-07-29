@@ -9707,7 +9707,6 @@ flummoxed
 filch
 frappes
 filosofe
-fallacies
 farragos
 freyja
 fanit
@@ -9779,6 +9778,7 @@ ferijee
 frequentest
 feldspar
 frapp
+fallacies
 falchion
 fessways
 formular
