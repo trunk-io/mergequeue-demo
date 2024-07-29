@@ -19138,6 +19138,7 @@ collidine
 cetacea
 cepous
 collier
+cuprite
 chariots
 colliery
 crises
@@ -31175,7 +31176,6 @@ cupressinoxylon
 cupressus
 campagus
 custode
-cuprite
 cuprites
 cuproammonium
 cunningly
