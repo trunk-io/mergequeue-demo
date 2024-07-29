@@ -4351,7 +4351,6 @@ encratic
 espringal
 equinovarus
 enantiomorphy
-enantiomorphic
 electrolyzer
 encephalosclerosis
 embraceor
@@ -9306,6 +9305,7 @@ elayl
 erratas
 erratic
 erratically
+enantiomorphic
 elite
 eulogist
 endosmos
