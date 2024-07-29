@@ -2705,7 +2705,6 @@ feedings
 felspathic
 fainaigue
 froufrou
-fabricable
 flickering
 foxfishes
 fishhold
@@ -5294,6 +5293,7 @@ flavourous
 fielders
 frostbird
 fockle
+fabricable
 fomenter
 foresightedness
 ferricyanate
