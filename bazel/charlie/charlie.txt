@@ -19141,6 +19141,7 @@ cepous
 collier
 chariots
 colliery
+crises
 cuber
 callable
 colliflower
@@ -29395,7 +29396,6 @@ carites
 crypturidae
 cris
 cinemese
-crises
 chrysophanus
 chairperson
 crisic
