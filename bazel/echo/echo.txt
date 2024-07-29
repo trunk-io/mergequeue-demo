@@ -3425,7 +3425,6 @@ encolden
 emmer
 edwardeanism
 eyeleteer
-embellishments
 embers
 estival
 enate
@@ -8629,6 +8628,7 @@ espavel
 eyeshots
 equielliptical
 equigranular
+embellishments
 equilateral
 equilaterally
 equilibrant
