@@ -3727,6 +3727,7 @@ foreglow
 finedrawing
 fustigated
 fluxweed
+fungible
 freeboots
 forewarn
 footbreadth
@@ -11164,7 +11165,6 @@ fremdness
 flyblowing
 fungian
 fungibility
-fungible
 fideists
 fungicidal
 fungicidally
