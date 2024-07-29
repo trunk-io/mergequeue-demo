@@ -5993,6 +5993,7 @@ fantaisie
 fluorhydric
 filleter
 favism
+firkin
 foresty
 footscald
 floodwood
@@ -9015,7 +9016,6 @@ fragile
 fewsome
 frotting
 frightment
-firkin
 frumpier
 fregatidae
 fooder
