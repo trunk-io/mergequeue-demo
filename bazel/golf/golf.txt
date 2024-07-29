@@ -1627,7 +1627,6 @@ goldarned
 gardeen
 gryphon
 gutling
-guinfo
 gastrocoel
 gader
 gamelion
@@ -4269,6 +4268,7 @@ gynecophorous
 gynecratic
 gelidness
 gyneolater
+guinfo
 germicide
 gynetype
 glazieries
