@@ -1161,7 +1161,6 @@ edition
 endere
 editorialization
 elsa
-eater
 ecphory
 enclosed
 editorializers
@@ -2811,6 +2810,7 @@ elator
 exampleless
 eleomargaric
 eleoplast
+eater
 epiclesis
 eleoptene
 erratuta
