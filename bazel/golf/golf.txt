@@ -4698,6 +4698,7 @@ galactite
 gyroscope
 glick
 gendarme
+giantlike
 gabbroic
 grovelers
 ganglander
@@ -5693,7 +5694,6 @@ glossocele
 graian
 gummoses
 grandmother
-giantlike
 gantline
 graphics
 gabendum
