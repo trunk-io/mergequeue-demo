@@ -4945,7 +4945,6 @@ estrada
 emulatress
 endeavour
 endamaging
-edificable
 ericeticolous
 exilable
 emulsifiable
@@ -8588,6 +8587,7 @@ epigeous
 exceptant
 extraparenchymal
 equiaxed
+edificable
 exedrae
 eburnification
 enharmonic
