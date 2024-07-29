@@ -1270,7 +1270,6 @@ exposition
 eelery
 enarch
 evaluation
-enwrought
 endopleuritic
 epilegomenon
 enmanche
@@ -8451,6 +8450,7 @@ equip
 eglogue
 endothecate
 epizootology
+enwrought
 ersh
 epocha
 embaying
