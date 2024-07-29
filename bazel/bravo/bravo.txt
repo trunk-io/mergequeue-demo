@@ -6332,6 +6332,7 @@ battens
 benzacridine
 benzalacetone
 benzalacetophenone
+bonum
 benzalazine
 branchery
 benzalcohol
@@ -12631,7 +12632,6 @@ beatniks
 bagels
 baguets
 beleaguerment
-bonum
 bulged
 brasero
 basinlike
