@@ -6519,7 +6519,6 @@ amicableness
 arboretum
 ahunt
 azocyclic
-abbatical
 ahush
 ahuula
 ahwal
@@ -11441,6 +11440,7 @@ alodiality
 ascospore
 amusers
 attractors
+abbatical
 authenticators
 amarelles
 astrologous
