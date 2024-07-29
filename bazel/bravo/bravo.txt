@@ -12450,7 +12450,6 @@ bonderize
 belabored
 bloodline
 bonderman
-barton
 bondfolk
 boii
 bogum
@@ -17925,6 +17924,7 @@ backslider
 bushgrass
 bowered
 bushy
+barton
 badly
 bushidos
 bractless
