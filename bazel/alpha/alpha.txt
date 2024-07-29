@@ -2606,7 +2606,6 @@ agapeic
 allocated
 aquaemanalia
 auxoflore
-acquirable
 approximated
 acquire
 antescript
@@ -25220,6 +25219,7 @@ aurivorous
 airgraph
 acanthocephala
 axwort
+acquirable
 az
 ascogonidium
 azadirachta
