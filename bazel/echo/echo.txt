@@ -828,7 +828,6 @@ everliving
 enwrite
 embus
 epizoa
-envois
 erythrinidae
 eral
 extradecretal
@@ -9567,6 +9566,7 @@ extravasated
 epimorphism
 extrasolar
 exempt
+envois
 esuriently
 esebrias
 exigible
