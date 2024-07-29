@@ -5216,7 +5216,6 @@ erythrogen
 endoparasitica
 etiotropically
 endfile
-endoparasitism
 endopathic
 endopelvic
 emong
@@ -13605,6 +13604,7 @@ ears
 ethnomusicologically
 exopterygotic
 erme
+endoparasitism
 extends
 emblemed
 eponychium
