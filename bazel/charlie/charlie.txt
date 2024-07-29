@@ -15800,7 +15800,6 @@ cartage
 clavichord
 caulopteris
 colonialistic
-clavichords
 clavicymbal
 clavicytheria
 clavicithern
@@ -18825,6 +18824,7 @@ centeredly
 colchicin
 colchicine
 colchicum
+clavichords
 colchis
 crispily
 catadioptric
