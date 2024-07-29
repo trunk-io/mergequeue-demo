@@ -1519,7 +1519,6 @@ gangland
 grouse
 gasoliers
 guiro
-gastrodisc
 gripers
 growed
 geez
@@ -8660,6 +8659,7 @@ gnus
 geochronologist
 gnathonical
 grassflat
+gastrodisc
 growler
 guaranteing
 golosh
