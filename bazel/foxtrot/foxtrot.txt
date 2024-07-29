@@ -1963,6 +1963,7 @@ freight
 furling
 friable
 fangot
+floccule
 finagling
 federally
 flanchard
@@ -3234,7 +3235,6 @@ flowerier
 fatso
 fossate
 foci
-floccule
 freeloaders
 forthfare
 franc
