@@ -1770,6 +1770,7 @@ blends
 baltimore
 bumblebeefishes
 baluba
+berogue
 baluch
 bitripinnatifid
 broquery
@@ -16921,7 +16922,6 @@ bushboy
 bussu
 beudanite
 baloch
-berogue
 bugginess
 bemeaned
 buginese
