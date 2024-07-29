@@ -6701,7 +6701,6 @@ gripped
 geneticist
 georgic
 globulet
-glossodynamometer
 gulash
 graminivorous
 gropple
@@ -10104,6 +10103,7 @@ gazetteer
 gonystylus
 goldenfleece
 gnomic
+glossodynamometer
 gnotobiologies
 glyphograph
 gaskets
