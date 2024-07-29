@@ -5205,6 +5205,7 @@ caserns
 cases
 caseum
 caseweed
+cordis
 caseworks
 caseworm
 casha
@@ -25032,7 +25033,6 @@ carbonizes
 cordilleran
 cordilleras
 cordinar
-cordis
 cordlessly
 cordlike
 configured
