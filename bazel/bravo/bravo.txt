@@ -6806,6 +6806,7 @@ bookery
 bersagliere
 berseem
 berserker
+brittles
 blackbirds
 bellmaker
 bin
@@ -7682,7 +7683,6 @@ beziques
 breadmaking
 bordured
 benelux
-brittles
 bezoars
 bewared
 bobbed
