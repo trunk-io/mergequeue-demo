@@ -11736,7 +11736,6 @@ cholerigenous
 cholerine
 choleroid
 cholerophobia
-cholerrhagia
 cholestanol
 camphylene
 cholesteatoma
@@ -30536,6 +30535,7 @@ cleanliness
 cumaean
 cubitoradial
 cubitus
+cholerrhagia
 commonition
 cubmaster
 cyrtoceratite
