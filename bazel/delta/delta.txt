@@ -3304,7 +3304,6 @@ dragoons
 disfavored
 defibrillatory
 defibrinate
-dotardy
 dropax
 defier
 defiers
@@ -13935,6 +13934,7 @@ dustily
 disthroned
 doltish
 disty
+dotardy
 druthers
 distichal
 demisable
