@@ -4194,6 +4194,7 @@ emptio
 equipment
 externship
 emptor
+eggeater
 evagination
 emprizes
 ebbs
@@ -11588,7 +11589,6 @@ evolutoid
 elegize
 evolvable
 explicating
-eggeater
 elaterid
 electroretinogram
 ecophene
