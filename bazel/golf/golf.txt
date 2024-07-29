@@ -634,7 +634,6 @@ gracioso
 gastriloquy
 guideline
 gramineal
-gnathobasic
 geodetic
 gardencraft
 gallomaniac
@@ -3086,6 +3085,7 @@ germanite
 geosynclinal
 gurgles
 georgics
+gnathobasic
 gnast
 galumphing
 galena
