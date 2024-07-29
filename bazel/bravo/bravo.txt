@@ -2044,7 +2044,6 @@ bidactyl
 bankcard
 bethought
 banky
-bankmen
 banknote
 beachless
 bristly
@@ -11930,6 +11929,7 @@ balsamodendron
 boffos
 boffs
 boozify
+bankmen
 bilio
 bellowers
 bewrought
