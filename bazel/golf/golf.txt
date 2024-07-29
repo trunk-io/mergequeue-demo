@@ -774,7 +774,6 @@ gutturize
 goldbird
 galvanothermometer
 ggr
-galvanothermy
 groupageness
 galliformes
 ginneries
@@ -9483,6 +9482,7 @@ gernative
 groover
 ghylls
 guelphish
+galvanothermy
 grundlov
 graceful
 group
