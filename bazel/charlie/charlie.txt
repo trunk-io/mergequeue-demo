@@ -7476,7 +7476,6 @@ cephalomere
 cyclostylar
 cephalometer
 cephalometric
-cephalomotor
 clysis
 cephalonasal
 cephalopathy
@@ -8621,6 +8620,7 @@ chalaze
 champertor
 carbolxylol
 champertous
+cephalomotor
 champy
 conjoint
 credit
