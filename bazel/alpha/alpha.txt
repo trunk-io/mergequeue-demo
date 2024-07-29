@@ -4192,7 +4192,6 @@ adorn
 adornation
 adorned
 apartado
-adorners
 arachnidial
 armamentaria
 affy
@@ -5154,6 +5153,7 @@ aflicker
 authoritarianism
 affectations
 affected
+adorners
 affectedly
 affecter
 affecters
