@@ -6601,6 +6601,7 @@ byreman
 booming
 birotation
 baryglossia
+blotter
 bluff
 broquineer
 betons
@@ -11256,7 +11257,6 @@ beaker
 boder
 brazenness
 bf
-blotter
 bezels
 borghalpenny
 bespeaker
