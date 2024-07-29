@@ -4055,7 +4055,6 @@ beamroom
 baragnosis
 blitzkrieged
 beams
-beamwork
 bargees
 bantlings
 bean
@@ -12836,6 +12835,7 @@ boozehound
 boomiest
 boominess
 boomingly
+beamwork
 betalk
 bibless
 boomkin
