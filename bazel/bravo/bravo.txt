@@ -2831,7 +2831,6 @@ bravest
 burbling
 barotraumas
 bostons
-bungalow
 barotropic
 barouche
 barouchette
@@ -6256,6 +6255,7 @@ beakful
 benne
 bennes
 beveling
+bungalow
 bennets
 bootlace
 bookism
