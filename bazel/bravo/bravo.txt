@@ -1839,6 +1839,7 @@ bialystoker
 bags
 bandaged
 bandaging
+bowlin
 bandaid
 bandala
 buggery
@@ -16227,7 +16228,6 @@ brownnose
 bloodguilt
 brassy
 brownnoser
-bowlin
 beachmen
 buyback
 bubo
