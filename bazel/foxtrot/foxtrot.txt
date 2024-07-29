@@ -1844,7 +1844,6 @@ forbesite
 folkmots
 flak
 flaithship
-featishness
 frustules
 flyspecks
 fiddler
@@ -6024,6 +6023,7 @@ fictioneering
 fez
 floorwise
 fleta
+featishness
 firecracker
 floozy
 foolscaps
