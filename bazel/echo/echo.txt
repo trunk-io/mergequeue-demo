@@ -6436,7 +6436,6 @@ ensiled
 etherizer
 ectophytic
 embezzler
-excursions
 endopod
 engineering
 electrojet
@@ -10803,6 +10802,7 @@ emer
 embarkation
 expuition
 endogalvanism
+excursions
 exercitant
 extemporaneity
 elasticate
