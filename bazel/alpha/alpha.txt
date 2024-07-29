@@ -11856,7 +11856,6 @@ aftersend
 anapaest
 anapaestically
 ataraxic
-anapaests
 anew
 amenism
 anapaite
@@ -23588,6 +23587,7 @@ anhaematopoiesis
 aurichloride
 aurichlorohydric
 auricyanhydric
+anapaests
 atpoints
 absvolt
 auricle
