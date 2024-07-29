@@ -13316,7 +13316,6 @@ esophageal
 exploratively
 explorement
 ectrogeny
-enzyme
 egency
 estoile
 eminences
@@ -13738,6 +13737,7 @@ extinctor
 ententophil
 etaballi
 ectoenzym
+enzyme
 embrocate
 extinguished
 extinguisher
