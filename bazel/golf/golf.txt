@@ -6275,7 +6275,6 @@ gastronomist
 gymnorhininae
 goblin
 gettable
-gunite
 gullible
 gunmen
 gargantua
@@ -6998,6 +6997,7 @@ galenic
 glassworkers
 gladrags
 gazy
+gunite
 goosefish
 gunther
 geikia
