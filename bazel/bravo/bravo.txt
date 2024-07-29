@@ -9596,7 +9596,6 @@ biscutate
 bisdiapason
 binary
 bicapsular
-bisect
 bisected
 bandlimits
 bisectors
@@ -14718,6 +14717,7 @@ bahamas
 babiches
 bravers
 braves
+bisect
 bravi
 braving
 bravissimo
