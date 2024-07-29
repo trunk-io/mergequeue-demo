@@ -8160,7 +8160,6 @@ forthwith
 fretless
 ferberite
 foretopmast
-fonted
 fencer
 foretopmen
 foreperiod
@@ -10051,6 +10050,7 @@ fringilline
 freedom
 forebodingness
 frothsome
+fonted
 florentines
 foreleader
 friponerie
