@@ -4373,7 +4373,6 @@ diode
 discriminous
 dysacousia
 demanded
-demander
 dissyllabized
 dewlap
 disburden
@@ -12237,6 +12236,7 @@ diasper
 depositure
 degausser
 despiciency
+demander
 depurates
 duply
 disambiguates
