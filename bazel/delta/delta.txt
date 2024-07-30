@@ -271,6 +271,7 @@ dependently
 doradilla
 daguerreotyped
 daguerreotyping
+digitonin
 dreadnaught
 docken
 debugged
@@ -9591,7 +9592,6 @@ desorbed
 decimosexto
 downthrow
 decimated
-digitonin
 draggly
 digitoplantar
 diprismatic
