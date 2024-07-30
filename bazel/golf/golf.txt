@@ -727,7 +727,6 @@ gujar
 galvanizes
 galvanizing
 gunner
-guitermanite
 giantlikeness
 greenskeeper
 gollywog
@@ -4032,6 +4031,7 @@ groining
 gletscher
 grifted
 gastrectomies
+guitermanite
 germanical
 guarish
 gimcrack
