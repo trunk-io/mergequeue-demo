@@ -3082,7 +3082,6 @@ geopotential
 gelosin
 grassplot
 georgemas
-gaudiness
 graminiform
 germanite
 geosynclinal
@@ -3146,6 +3145,7 @@ gwendolen
 galvayned
 gular
 gallomania
+gaudiness
 getup
 golilla
 grievants
