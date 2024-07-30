@@ -6339,7 +6339,6 @@ defensorship
 dermestidae
 dermic
 dockhead
-decolourise
 delint
 daltonism
 dermis
@@ -16447,6 +16446,7 @@ doxie
 distad
 dhoora
 doxography
+decolourise
 deadishness
 depredicate
 dozed
