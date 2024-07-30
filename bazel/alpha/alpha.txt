@@ -5919,7 +5919,6 @@ aggrandizable
 afterglows
 aggrandize
 aggrandizement
-alphanumerically
 atherogenic
 athlete
 arborization
@@ -20214,6 +20213,7 @@ arrestation
 astern
 alphabet
 arrester
+alphanumerically
 anisalcohol
 arrestingly
 ardelia
