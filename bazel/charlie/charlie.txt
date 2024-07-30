@@ -21354,7 +21354,6 @@ computed
 conchs
 conchubar
 cryptonymic
-cemetary
 coplots
 conchuela
 concierge
@@ -21513,6 +21512,7 @@ concordity
 circline
 colicky
 centumvir
+cemetary
 cluster
 constructing
 concorporate
