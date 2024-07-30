@@ -3102,7 +3102,6 @@ benben
 baseborn
 birdlime
 basebred
-baryes
 brawnier
 baseburner
 basecourt
@@ -3718,6 +3717,7 @@ batting
 battings
 battledores
 baldly
+baryes
 branches
 barotraumata
 bronteon
