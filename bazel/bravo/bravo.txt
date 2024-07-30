@@ -7743,6 +7743,7 @@ bullan
 breakover
 brocard
 bhindi
+bowstave
 bhishti
 bhistie
 bhisties
@@ -14815,7 +14816,6 @@ baldrick
 bungled
 breadnuts
 breadroot
-bowstave
 breadstitch
 burnet
 blackwork
