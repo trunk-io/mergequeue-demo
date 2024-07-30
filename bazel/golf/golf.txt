@@ -7464,6 +7464,7 @@ gymnast
 governless
 governmental
 garageman
+gangman
 goldsmithing
 gunyah
 geodesies
@@ -7602,7 +7603,6 @@ gleary
 gardeny
 grader
 grouseward
-gangman
 glovey
 gradient
 galey
