@@ -2108,7 +2108,6 @@ elastases
 elastica
 extrapolator
 elastically
-exanthematic
 edenite
 emberiza
 excitors
@@ -10903,6 +10902,7 @@ ergot
 esodic
 enologist
 excised
+exanthematic
 encalendar
 emblazonment
 examinationism
