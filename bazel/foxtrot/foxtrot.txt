@@ -2753,7 +2753,6 @@ fawner
 frizziness
 facundity
 fervence
-father
 fortnightlies
 futilize
 firebote
@@ -8460,6 +8459,7 @@ fortin
 frondesce
 factorized
 formatter
+father
 floridans
 flunkeyite
 fogmen
