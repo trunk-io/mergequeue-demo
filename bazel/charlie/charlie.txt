@@ -20871,7 +20871,6 @@ composed
 ceduous
 canst
 composer
-composing
 composita
 composite
 composited
@@ -30731,6 +30730,7 @@ crine
 cuisse
 cuit
 canonical
+composing
 cuitlateco
 chloroauric
 creoleize
