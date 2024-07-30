@@ -11302,6 +11302,7 @@ amphorae
 anthracite
 apiator
 amphore
+aquifers
 antiplatelet
 amphoteric
 aircrewman
@@ -18197,7 +18198,6 @@ aphanomyces
 aquifer
 avanturine
 actifier
-aquifers
 aquifoliaceae
 antispiritualist
 alcaptonuria
