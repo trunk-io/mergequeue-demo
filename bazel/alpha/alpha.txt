@@ -10176,7 +10176,6 @@ amburbial
 airframe
 anxiolytic
 ambury
-ambuscade
 ambuscaded
 ambuscader
 ankara
@@ -24174,6 +24173,7 @@ autolithograph
 autoinfection
 autolyzate
 autolyzes
+ambuscade
 autoloader
 autoloaders
 autology
