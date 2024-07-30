@@ -1101,7 +1101,6 @@ fountains
 fogas
 faro
 floriken
-furcated
 floter
 foredestining
 furriery
@@ -11436,6 +11435,7 @@ funiculus
 few
 furomethyl
 flams
+furcated
 fibry
 fishings
 furfuraceously
