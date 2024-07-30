@@ -8003,7 +8003,6 @@ forespeaking
 forespecified
 fll
 forespencer
-forespoke
 fiz
 feist
 fiscus
@@ -8809,6 +8808,7 @@ feucht
 frigorimeter
 folksong
 flushgate
+forespoke
 flagellulae
 frakfurt
 fleeringly
