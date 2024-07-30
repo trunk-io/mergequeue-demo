@@ -2068,6 +2068,7 @@ banksian
 barreleye
 bouet
 bumbaste
+brine
 barebone
 banksmen
 bucketed
@@ -2667,7 +2668,6 @@ breechloader
 basiliscus
 backlins
 berrugate
-brine
 barm
 bollixes
 begrimming
