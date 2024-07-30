@@ -6440,7 +6440,6 @@ benzophenothiazine
 benzophloroglucinol
 benedight
 benzophthalazine
-benzopyran
 breakup
 banewort
 benzopyrazolone
@@ -13906,6 +13905,7 @@ bows
 brontograph
 bowsaw
 bowsed
+benzopyran
 bankroll
 bodkinwise
 baccalaurean
