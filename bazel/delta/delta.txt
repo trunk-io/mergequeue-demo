@@ -2804,6 +2804,7 @@ decrements
 decremeter
 dicyemida
 demarches
+deftnesses
 duodecahedral
 dint
 drypoints
@@ -3562,7 +3563,6 @@ demoniast
 deoxygenizing
 developedness
 deftness
-deftnesses
 defunct
 descendence
 discredence
