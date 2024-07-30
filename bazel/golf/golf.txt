@@ -1380,6 +1380,7 @@ garnison
 garniture
 gaulsh
 grecize
+gaits
 ganyie
 gallotannin
 gasified
@@ -10641,7 +10642,6 @@ grillades
 gird
 greenly
 gaylies
-gaits
 gyascutus
 gerontologies
 glens
