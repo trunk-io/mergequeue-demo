@@ -1265,7 +1265,6 @@ gnatsnapper
 granch
 giddying
 gardenia
-gardenless
 gunnels
 granulose
 galium
@@ -5843,6 +5842,7 @@ glucinums
 gangflower
 giggle
 glucocorticoid
+gardenless
 gardon
 griddled
 gasfiring
