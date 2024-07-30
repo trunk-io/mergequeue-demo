@@ -1405,7 +1405,6 @@ earl
 electrodialyses
 expandedness
 epidote
-exalbuminose
 exterous
 endowing
 effloresce
@@ -4715,6 +4714,7 @@ entryway
 erythrodegenerative
 etherealize
 eyelets
+exalbuminose
 encist
 electralize
 exponentially
