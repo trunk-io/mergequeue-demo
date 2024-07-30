@@ -1568,7 +1568,6 @@ ballgame
 ballgames
 berley
 ballhooter
-bioassayed
 balli
 balliage
 burmanniaceous
@@ -16776,6 +16775,7 @@ bowdlerizer
 begladded
 budgeter
 beyrichite
+bioassayed
 berycoidean
 budgies
 bellerophontidae
