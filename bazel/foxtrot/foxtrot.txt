@@ -5602,6 +5602,7 @@ filamentar
 fiendlike
 fellatrixes
 flaxlike
+folkvangr
 flockowner
 fossicking
 firefight
@@ -10480,7 +10481,6 @@ fluitant
 formaldehyd
 fatness
 frostings
-folkvangr
 foxfinger
 fanzine
 fervencies
