@@ -2692,7 +2692,6 @@ barnacles
 burnettizing
 branchiostegite
 birefractive
-beehead
 birdland
 beakhead
 bewaitered
@@ -10271,6 +10270,7 @@ blacksmithing
 biochemy
 beastdom
 botargo
+beehead
 brutalising
 beets
 benevolist
