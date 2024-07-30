@@ -3049,7 +3049,6 @@ et
 eurycephalous
 embeds
 emp
-escurialize
 encyclical
 elliot
 educationable
@@ -7740,6 +7739,7 @@ extruder
 ellipticalness
 ectozoon
 epidemically
+escurialize
 electrotonize
 evidentiary
 epidemicalness
