@@ -8292,7 +8292,6 @@ chairmaking
 crystallogenetic
 chairmaning
 chattack
-chairmanned
 chairmanning
 chairmans
 chondroclasis
@@ -12964,6 +12963,7 @@ cookers
 churchscot
 churchway
 churchward
+chairmanned
 chemotaxonomist
 cutling
 chummily
