@@ -8066,7 +8066,6 @@ alfresco
 acture
 aviation
 anthosiderite
-assemblage
 alfur
 alga
 algaecide
@@ -10844,6 +10843,7 @@ ammonoidean
 aerocartography
 ammonoids
 ammonolitic
+assemblage
 archeological
 ammonolytic
 aspirate
