@@ -5747,7 +5747,6 @@ dipneumonous
 decastich
 drepanid
 demit
-deftest
 deplorabilia
 dextrane
 deplorability
@@ -18221,6 +18220,7 @@ duneland
 dunelike
 doeglic
 darzee
+deftest
 deputative
 dasycladaceae
 dhoolies
