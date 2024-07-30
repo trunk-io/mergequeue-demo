@@ -3554,7 +3554,6 @@ binode
 blonds
 bathylithic
 bipinnaria
-blithesomeness
 bathymetry
 bathymetrical
 bathing
@@ -5044,6 +5043,7 @@ becarve
 beeway
 beeweed
 beewise
+blithesomeness
 bask
 bisphenoid
 bostal
