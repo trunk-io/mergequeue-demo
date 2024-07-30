@@ -2243,7 +2243,6 @@ forthtell
 feltwort
 fastidiosity
 flaggier
-funiculus
 felwort
 faciobrachial
 forestery
@@ -11436,6 +11435,7 @@ frustrable
 furodiazole
 feoff
 foraminated
+funiculus
 few
 furomethyl
 flams
