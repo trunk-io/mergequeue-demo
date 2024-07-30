@@ -2516,6 +2516,7 @@ engines
 epithelilia
 echoist
 electromagnetism
+elaborations
 endosmose
 egremoigne
 encomiologic
@@ -11864,7 +11865,6 @@ excave
 eructated
 elutes
 exceeded
-elaborations
 excelente
 eucre
 econometric
