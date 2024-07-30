@@ -7480,7 +7480,6 @@ coquettishness
 calina
 cephalomant
 cephalomeningitis
-cultivatable
 compute
 cleansing
 cephalomere
@@ -29565,6 +29564,7 @@ criticizing
 criticship
 criticule
 critique
+cultivatable
 cabals
 critiqued
 critize
