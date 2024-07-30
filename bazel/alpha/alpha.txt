@@ -2996,7 +2996,6 @@ aerophore
 appearances
 actinograph
 aporobranchiata
-acrosporous
 antipodes
 asbolin
 actinographic
@@ -8056,6 +8055,7 @@ authentical
 alfileria
 astert
 anthropocosmic
+acrosporous
 ambusher
 alfiona
 alfione
