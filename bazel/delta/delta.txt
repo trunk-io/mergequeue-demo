@@ -3444,6 +3444,7 @@ deflowerer
 dumpcart
 dipleurogenetic
 duelists
+dehumidifier
 damp
 defluent
 dragoon
@@ -3788,7 +3789,6 @@ dehumanization
 draftswomanship
 diallers
 dehumidified
-dehumidifier
 disimbitter
 deadpanner
 dyostyle
