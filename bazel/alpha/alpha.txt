@@ -15230,7 +15230,6 @@ antifreeze
 antifreezing
 antifriction
 antistate
-antifrictional
 antifrost
 antifundamentalism
 amens
@@ -18881,6 +18880,7 @@ abomasa
 ardrigh
 archiepiscopal
 automatons
+antifrictional
 archiepiscopality
 aboiteaus
 abridge
