@@ -3440,7 +3440,6 @@ cincinnatia
 capriform
 caprigenous
 caprylate
-caprylene
 caprylic
 cymene
 caprylyl
@@ -5195,6 +5194,7 @@ caseload
 caseloads
 caselty
 casemaker
+caprylene
 cackle
 casemaking
 casemates
