@@ -4488,7 +4488,6 @@ emulators
 encephalitogenic
 encephalographic
 ekphorize
-entosternum
 entrainer
 episematic
 erigeron
@@ -10879,6 +10878,7 @@ eupepsies
 eupepticity
 eelfish
 eloigners
+entosternum
 educes
 echini
 educationally
