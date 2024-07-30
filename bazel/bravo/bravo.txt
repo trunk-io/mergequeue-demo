@@ -6898,6 +6898,7 @@ beggarman
 bescreening
 beseige
 bescribble
+badness
 botchers
 bescutcheon
 bondservant
@@ -7211,7 +7212,6 @@ bearberry
 bestialised
 brannigan
 boulevardier
-badness
 bellbirds
 breezed
 bestialist
