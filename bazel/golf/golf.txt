@@ -3968,6 +3968,7 @@ gubbings
 gellert
 grounds
 gilds
+gildhall
 grandness
 gildship
 goldenrod
@@ -9587,7 +9588,6 @@ gerbe
 gowds
 gorgon
 gymnoglossa
-gildhall
 grasshopper
 gedanite
 gravimeters
