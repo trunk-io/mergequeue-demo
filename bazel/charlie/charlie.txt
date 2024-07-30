@@ -7495,7 +7495,6 @@ cephalophine
 cryostats
 cervisia
 cryoprobe
-cephalopod
 cephalopoda
 convolvulinolic
 cephalopodous
@@ -18640,6 +18639,7 @@ coiler
 combusted
 clerkhood
 coin
+cephalopod
 cooperativeness
 coyly
 corralled
