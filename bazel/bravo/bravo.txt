@@ -50,7 +50,6 @@ bundocks
 babbly
 brushable
 babbit
-bassette
 baff
 baton
 botrytises
@@ -3922,6 +3921,7 @@ bombardier
 bocstaff
 brickbats
 bdelloura
+bassette
 bdellouridae
 botonny
 bdellovibrio
