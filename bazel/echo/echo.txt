@@ -849,7 +849,6 @@ eriophorum
 epineolithic
 ectocoelic
 ectocommensal
-endopericarditis
 ectocondylar
 endophytic
 ectocondyloid
@@ -6238,6 +6237,7 @@ enophthalmus
 executable
 enorm
 exhalations
+endopericarditis
 exhortator
 enorn
 enos
