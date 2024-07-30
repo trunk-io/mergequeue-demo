@@ -11196,7 +11196,6 @@ diplomacy
 dysautonomia
 disavail
 dayroom
-disavowable
 discomforted
 dissaves
 despect
@@ -18155,6 +18154,7 @@ dive
 dubbeltje
 dishearten
 dissceptring
+disavowable
 digress
 dump
 disreputably
