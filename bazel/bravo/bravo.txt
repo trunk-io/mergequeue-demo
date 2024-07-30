@@ -3889,7 +3889,6 @@ bedlamp
 bifidated
 baxtone
 bullaria
-bazar
 bazars
 bint
 brockage
@@ -10115,6 +10114,7 @@ bielorouss
 brogh
 blat
 beshriek
+bazar
 blackband
 blackberrylike
 bunkload
