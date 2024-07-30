@@ -2821,7 +2821,6 @@ bulkiest
 baudery
 barothermograph
 barothermohygrograph
-borophenol
 barotrauma
 bulgurs
 bravest
@@ -11589,6 +11588,7 @@ blushed
 banga
 bandannas
 blushfully
+borophenol
 blushy
 blushingly
 brierwood
