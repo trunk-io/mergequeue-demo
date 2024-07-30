@@ -10455,7 +10455,6 @@ cahoots
 cares
 chief
 chiefage
-chiefdoms
 chiefery
 cyatholith
 chiefest
@@ -26118,6 +26117,7 @@ calcutta
 congruential
 cosmically
 canterelle
+chiefdoms
 conspiratorial
 cosmism
 cosmisms
