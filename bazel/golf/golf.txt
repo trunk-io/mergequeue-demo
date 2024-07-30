@@ -1339,7 +1339,6 @@ geoside
 galloner
 gangrenes
 garnisheement
-grundel
 glorifier
 gervao
 gitalin
@@ -5816,6 +5815,7 @@ gedact
 grosse
 geaster
 glucagon
+grundel
 guaiaretic
 gladify
 gate
