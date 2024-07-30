@@ -4415,7 +4415,6 @@ gobby
 gio
 giobertite
 grazierdom
-graphemes
 grainsickness
 gammelost
 graminology
@@ -4798,6 +4797,7 @@ gouaches
 germiparous
 garookuh
 glacierist
+graphemes
 glaciers
 gowns
 gladhearted
