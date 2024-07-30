@@ -4862,6 +4862,7 @@ aeroelastic
 aeroelasticity
 aporphin
 aerofoil
+adjurors
 aerofoils
 algine
 amberfish
@@ -14046,7 +14047,6 @@ antedating
 astur
 anapests
 academize
-adjurors
 antedorsal
 antefact
 animadverting
