@@ -5313,7 +5313,6 @@ affrayers
 affraying
 affrays
 affranchise
-affreight
 affreightment
 adiadokokinesi
 affret
@@ -16974,6 +16973,7 @@ awkwardly
 axion
 aplenty
 alveolars
+affreight
 aplite
 aplites
 amulet
