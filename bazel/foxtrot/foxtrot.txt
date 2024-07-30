@@ -148,7 +148,6 @@ flagellist
 feedhead
 fibre
 fossiled
-facsim
 facsimiled
 fracturable
 frigidaria
@@ -372,6 +371,7 @@ foredenounce
 forevow
 fibrolipoma
 flittered
+facsim
 fainty
 fluids
 flowerily
