@@ -1010,6 +1010,7 @@ forklifts
 fardel
 flannelmouth
 foxhound
+feedbag
 fusion
 fardelet
 futtah
@@ -3708,7 +3709,6 @@ foibles
 feverberry
 filigrane
 frangula
-feedbag
 franchisee
 foregoneness
 fanes
