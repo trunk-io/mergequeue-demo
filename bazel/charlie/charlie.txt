@@ -6715,7 +6715,6 @@ cochairman
 cedarwood
 ceded
 ceders
-cedes
 cottiers
 cedilla
 cedillas
@@ -19177,6 +19176,7 @@ collyria
 collyridian
 collyrite
 collyrium
+cedes
 cystocyte
 collisive
 cunningest
