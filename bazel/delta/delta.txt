@@ -9323,7 +9323,6 @@ dieses
 deforester
 diesters
 diestock
-death
 dustcoat
 diestrous
 drawbridge
@@ -9669,6 +9668,7 @@ druse
 diguanide
 digue
 dihalide
+death
 derives
 dihalogen
 deadline
