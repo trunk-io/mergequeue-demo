@@ -2074,7 +2074,6 @@ alphabets
 argon
 aeropulse
 autoscopy
-applemonger
 andantini
 acheron
 acheronian
@@ -20014,6 +20013,7 @@ aptitudinally
 ashweed
 arnusian
 aro
+applemonger
 aroast
 azophenyl
 anomer
