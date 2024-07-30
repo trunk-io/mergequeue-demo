@@ -9913,6 +9913,7 @@ deadlines
 defacers
 darnings
 dissertation
+downweighted
 duocosane
 deists
 determines
@@ -16425,7 +16426,6 @@ downwards
 dysthymia
 deducive
 drawtube
-downweighted
 downwind
 droukit
 dacryohemorrhea
