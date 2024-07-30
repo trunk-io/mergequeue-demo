@@ -10754,7 +10754,6 @@ amlet
 amlikar
 amlong
 ammelide
-antisepalous
 apothecary
 ammer
 avidness
@@ -24154,6 +24153,7 @@ assonantic
 anthozoa
 awakens
 autokinesy
+antisepalous
 autokinesis
 arythmia
 aetosaurian
