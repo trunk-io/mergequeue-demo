@@ -956,7 +956,6 @@ ectropium
 eluvia
 elects
 effatum
-enantiotropic
 ectrosyndactyly
 ectrotic
 electrological
@@ -3673,6 +3672,7 @@ elec
 eluates
 effluvium
 epitheliosis
+enantiotropic
 elucidators
 extramural
 embryophore
