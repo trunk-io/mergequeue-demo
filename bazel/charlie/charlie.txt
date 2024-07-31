@@ -10935,7 +10935,6 @@ chip
 chipchop
 chipewyan
 chiplet
-chipmuck
 culvert
 chipmunk
 claviharp
@@ -21008,6 +21007,7 @@ calamarioid
 crumbling
 cany
 cancerroot
+chipmuck
 compsoa
 canoncito
 compsothlypidae
