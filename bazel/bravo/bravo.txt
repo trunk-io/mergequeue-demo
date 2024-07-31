@@ -879,6 +879,7 @@ bagmaker
 bagnes
 bastnaesite
 blowze
+burdies
 broommaking
 balmily
 bago
@@ -7750,7 +7751,6 @@ bowstave
 bhishti
 bhistie
 bhisties
-burdies
 bhojpuri
 brim
 bhokra
