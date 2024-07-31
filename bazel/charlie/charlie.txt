@@ -4742,6 +4742,7 @@ carpet
 carpetbag
 carpetbagger
 carpetbaggery
+conchometry
 catty
 compatibles
 crazies
@@ -21349,7 +21350,6 @@ conchoids
 communicableness
 conchol
 conchometer
-conchometry
 conchospiral
 conchostraca
 computed
