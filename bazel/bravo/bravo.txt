@@ -5321,7 +5321,6 @@ beefed
 begirt
 beglad
 bogies
-beglerbeg
 beglerbeglic
 blatant
 bakalai
@@ -15170,6 +15169,7 @@ bricking
 brickish
 brickkiln
 branchiostegal
+beglerbeg
 bricklayer
 balolo
 battutos
