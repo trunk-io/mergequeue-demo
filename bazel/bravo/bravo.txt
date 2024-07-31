@@ -2623,6 +2623,7 @@ birdhouses
 barking
 botanise
 barkless
+battening
 bandusia
 barkometer
 bescorch
@@ -3137,7 +3138,6 @@ biphase
 balneotherapeutics
 branchway
 baseplug
-battening
 basepoint
 baser
 brazen
