@@ -34,6 +34,7 @@ fabricator
 formularize
 flintless
 flintworker
+furies
 farmscape
 flick
 finically
@@ -6545,7 +6546,6 @@ fluther
 foldskirt
 fortifying
 flexuousness
-furies
 facticide
 frenetic
 floggingly
