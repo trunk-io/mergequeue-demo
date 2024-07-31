@@ -1158,6 +1158,7 @@ calculatedness
 calculates
 calculatingly
 cony
+compeer
 correlate
 calculational
 calculations
@@ -7829,7 +7830,6 @@ coinhering
 charkhas
 ceroplasty
 ceroplastic
-compeer
 ceroplastics
 cyanocrystallin
 cerosin
