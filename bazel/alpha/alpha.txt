@@ -5649,7 +5649,6 @@ appoggiaturas
 agalaxia
 anisomelus
 agalena
-amphilogy
 agalenidae
 amplifier
 ambalam
@@ -8986,6 +8985,7 @@ arrow
 arrythmia
 angiostenosis
 allophylus
+amphilogy
 allophite
 annale
 allophones
