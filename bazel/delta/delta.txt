@@ -2405,7 +2405,6 @@ dispelled
 donny
 dripstick
 disaffects
-doeskin
 decima
 decimalism
 dueling
@@ -7769,6 +7768,7 @@ denicotinized
 devisees
 disastimeter
 dunciad
+doeskin
 decoded
 dogmatization
 desulphurized
