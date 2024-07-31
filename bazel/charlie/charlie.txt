@@ -1432,7 +1432,6 @@ calyptratae
 calyptriform
 calyptrimorphous
 coracoscapular
-calyptrogyne
 ceriornis
 carnosin
 calisayas
@@ -6337,6 +6336,7 @@ casbahs
 caulkers
 crustation
 callosomarginal
+calyptrogyne
 caulks
 chymists
 conferrer
