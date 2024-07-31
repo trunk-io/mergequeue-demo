@@ -5449,7 +5449,6 @@ firstfruits
 finnip
 fellowmen
 fleecy
-fastness
 forager
 fashion
 frolickly
@@ -7806,6 +7805,7 @@ fablers
 florette
 fashes
 forenote
+fastness
 feltyflier
 fleamy
 fashionableness
