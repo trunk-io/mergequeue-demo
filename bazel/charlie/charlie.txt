@@ -5024,7 +5024,6 @@ cartons
 cartoonist
 chrysomonadina
 cassettes
-cartouch
 cartouche
 curmudgeon
 cust
@@ -17048,6 +17047,7 @@ clusiaceous
 chorio
 carbocer
 clustered
+cartouch
 canulating
 clusterfist
 catechu
