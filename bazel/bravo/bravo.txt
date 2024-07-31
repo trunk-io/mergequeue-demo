@@ -8800,7 +8800,6 @@ beggars
 baptizers
 banjos
 broker
-batrachoid
 binding
 bookkeep
 becher
@@ -16965,6 +16964,7 @@ bonser
 bulby
 bidens
 bulbier
+batrachoid
 biplanar
 bacteriotoxin
 bulbiest
