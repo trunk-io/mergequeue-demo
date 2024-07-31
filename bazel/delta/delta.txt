@@ -7364,7 +7364,6 @@ detersiveness
 detestation
 decomponent
 detestations
-detests
 dethronement
 diminute
 dethronements
@@ -14851,6 +14850,7 @@ dehiscent
 demonologist
 docmac
 docoglossan
+detests
 docoglossate
 diswarren
 decidua
