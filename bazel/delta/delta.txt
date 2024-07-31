@@ -5836,7 +5836,6 @@ dissuade
 deposit
 diamondwork
 distome
-deathroot
 depositaries
 depositation
 dartlike
@@ -6727,6 +6726,7 @@ demikindred
 diacoustics
 desideration
 deoxidant
+deathroot
 desiderative
 dorine
 drunkard
