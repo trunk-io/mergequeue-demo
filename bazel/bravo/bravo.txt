@@ -4162,7 +4162,6 @@ bartlemy
 beastlike
 bodywise
 buoyantness
-barming
 brickwall
 beastlily
 beclown
@@ -11892,6 +11891,7 @@ bodoni
 biotaxy
 bodonid
 bromic
+barming
 bodrage
 butyrates
 boors
