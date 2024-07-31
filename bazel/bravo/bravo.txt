@@ -1391,7 +1391,6 @@ baldrib
 barbells
 balds
 bugged
-bethels
 baculums
 bale
 baleare
@@ -13950,6 +13949,7 @@ brierberry
 boxhauling
 boxhauls
 bowwow
+bethels
 bumbershoot
 blitzes
 becluster
