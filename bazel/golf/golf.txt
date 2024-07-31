@@ -1255,7 +1255,6 @@ guib
 grimaces
 garran
 granage
-gesticulator
 ged
 gavall
 goethites
@@ -5128,6 +5127,7 @@ glorioles
 gymnospermy
 gossipred
 ghostlily
+gesticulator
 glossocomon
 guavas
 genipap
