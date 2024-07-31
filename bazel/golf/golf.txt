@@ -4516,7 +4516,6 @@ groundplot
 grademark
 girder
 gil
-gurglets
 generalate
 goosebill
 goupen
@@ -6568,6 +6567,7 @@ grenadiers
 gigolos
 graphalloy
 good
+gurglets
 ghats
 glossological
 gentleship
