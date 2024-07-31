@@ -9467,7 +9467,6 @@ furculum
 fastwalk
 fraternities
 figboy
-floodometer
 fantasm
 featish
 farming
@@ -11681,6 +11680,7 @@ fannier
 faade
 flames
 futurama
+floodometer
 flibustier
 furcates
 future
