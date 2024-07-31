@@ -5189,7 +5189,6 @@ canvaser
 chaprassi
 caseinogen
 caseins
-cellated
 caseload
 caseloads
 caselty
@@ -18113,6 +18112,7 @@ coenamors
 chiromancy
 condensational
 carats
+cellated
 coenamourment
 chiffonniers
 coalitional
