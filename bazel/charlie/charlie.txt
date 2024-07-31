@@ -17003,7 +17003,6 @@ capitano
 clumpishness
 cohere
 clumplike
-clumproot
 clumps
 canavalin
 curst
@@ -21750,6 +21749,7 @@ condoler
 crozer
 coaxers
 coleuses
+clumproot
 crizzle
 claustrophobia
 condolers
