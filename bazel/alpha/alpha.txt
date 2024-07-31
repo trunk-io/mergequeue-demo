@@ -5460,6 +5460,7 @@ afterclause
 aftercome
 australasian
 acrostichic
+autocamper
 aftercooler
 alahee
 aftercost
@@ -23939,7 +23940,6 @@ autocall
 antilogarithms
 armorwise
 aftertrial
-autocamper
 apostatised
 aerator
 autocar
