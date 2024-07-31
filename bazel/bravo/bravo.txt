@@ -12315,7 +12315,6 @@ bombline
 bathylith
 bowdrill
 bombast
-bucentur
 buglers
 bandurrias
 brunion
@@ -16465,6 +16464,7 @@ brutalities
 badgerweed
 backside
 brutalized
+bucentur
 biliverdin
 brineman
 beatify
