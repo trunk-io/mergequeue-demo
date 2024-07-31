@@ -5015,7 +5015,6 @@ aerostatic
 aerostatical
 attainments
 argas
-apteryges
 aerosteam
 aethalioid
 antapex
@@ -23247,6 +23246,7 @@ abatjour
 attempted
 attunement
 attunes
+apteryges
 ablation
 atua
 atule
