@@ -7156,7 +7156,6 @@ desulfurising
 disconsolate
 dinotheriidae
 desulfurize
-desulfurized
 desulfurizer
 desulfurizing
 dynamometric
@@ -7525,6 +7524,7 @@ ditremidae
 deuteration
 denucleate
 demarcator
+desulfurized
 disenchain
 dittos
 dearnesses
