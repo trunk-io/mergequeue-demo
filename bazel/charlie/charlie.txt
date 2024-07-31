@@ -5052,7 +5052,6 @@ consolan
 canopic
 czarowitz
 cartwhip
-caruage
 carucage
 counterprove
 carucarius
@@ -7030,6 +7029,7 @@ concours
 ceratinous
 cemeteries
 culm
+caruage
 cenaculum
 cloglike
 cenation
