@@ -2554,6 +2554,7 @@ chemist
 cerevis
 candler
 candlerent
+concealed
 candlers
 candles
 collaborated
@@ -11786,7 +11787,6 @@ cholos
 choloscopy
 cholterheaded
 choltry
-concealed
 chirrups
 creekstuff
 cholum
