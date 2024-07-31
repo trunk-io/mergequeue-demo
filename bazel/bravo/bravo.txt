@@ -13430,7 +13430,6 @@ behest
 bassoonist
 blueprints
 bensell
-bibliopoly
 brightsome
 belowstairs
 basifixed
@@ -17944,6 +17943,7 @@ bearbine
 bioclean
 bushmaking
 branial
+bibliopoly
 bushman
 beshivers
 bisinuate
