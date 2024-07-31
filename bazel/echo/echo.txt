@@ -778,6 +778,7 @@ eucrasite
 ecphonema
 emotes
 euomphalid
+egger
 ecrase
 enclitic
 extense
@@ -12174,7 +12175,6 @@ excuser
 elytron
 endpoint
 exposure
-egger
 ellipse
 electrophysicist
 econometrical
