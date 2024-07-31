@@ -4899,6 +4899,7 @@ excisions
 ef
 esteemable
 encumbrance
+extrabureau
 english
 evolves
 electrometeor
@@ -13803,7 +13804,6 @@ esparto
 erotogenic
 eukaryote
 endebt
-extrabureau
 expurgated
 environal
 equipaga
