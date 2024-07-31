@@ -5220,6 +5220,7 @@ abohm
 attackable
 anapterygotous
 alingual
+anapophysial
 affination
 affine
 anteporch
@@ -11910,7 +11911,6 @@ aesthesia
 adosculation
 anapnoic
 anapodeictic
-anapophysial
 anapsid
 australopithecus
 anapterygota
