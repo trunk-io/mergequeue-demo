@@ -11304,7 +11304,6 @@ constuprate
 charquid
 chloranthus
 chlorate
-chlorates
 chlorcosane
 chlordans
 chlorella
@@ -15555,6 +15554,7 @@ cryptorrhesis
 clarinettist
 clarinettists
 clarini
+chlorates
 clarino
 clarinos
 chromid
