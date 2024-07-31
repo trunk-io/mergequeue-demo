@@ -11482,7 +11482,6 @@ dermorhynchous
 disclimax
 dialogite
 dyester
-discloak
 drossing
 dastardy
 dockyard
@@ -14239,6 +14238,7 @@ disusage
 deathful
 disuse
 disbranching
+discloak
 disuses
 disutility
 disinsection
