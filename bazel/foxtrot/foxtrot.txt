@@ -5212,7 +5212,6 @@ flangeway
 futter
 footpaddery
 francolin
-fanleaf
 frontate
 frozenhearted
 fruiters
@@ -11591,6 +11590,7 @@ fusillading
 feuage
 fundatrix
 filefishes
+fanleaf
 fluence
 fruitlike
 fthm
