@@ -17527,7 +17527,6 @@ cobblership
 cobbles
 cobblestone
 cobblestoned
-cobblestones
 chokeweed
 cobbling
 cobbra
@@ -24928,6 +24927,7 @@ carminatives
 caterans
 craniacromial
 cordately
+cobblestones
 codices
 continuousness
 conciliationist
