@@ -2491,6 +2491,7 @@ dirigent
 deckhand
 duckwing
 deckle
+disslander
 depletable
 dulls
 diatropism
@@ -13753,7 +13754,6 @@ deadfall
 dissite
 deseret
 disintermediation
-disslander
 defects
 deductibles
 disengagedness
