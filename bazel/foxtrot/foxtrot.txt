@@ -10648,7 +10648,6 @@ fruitester
 fargood
 fivepence
 fruitfuller
-foible
 fitments
 forenamed
 florican
@@ -11477,6 +11476,7 @@ furcately
 ferntickle
 furrure
 families
+foible
 foreglimpse
 fin
 foresightedly
