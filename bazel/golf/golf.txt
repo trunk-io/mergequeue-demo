@@ -1584,7 +1584,6 @@ gallons
 gastly
 gobiesocidae
 grandstand
-gastness
 gasbag
 gingili
 gallocyanin
@@ -8821,6 +8820,7 @@ gainlier
 galleyworm
 gaged
 greyiaceae
+gastness
 gypsiologist
 grushie
 glaury
