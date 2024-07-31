@@ -4013,6 +4013,7 @@ birdseeds
 beakers
 boltheads
 beakiron
+barms
 beakless
 beaks
 beala
@@ -17525,7 +17526,6 @@ bookrest
 burdenous
 bleep
 blabs
-barms
 bulbocapnine
 burdens
 bee
