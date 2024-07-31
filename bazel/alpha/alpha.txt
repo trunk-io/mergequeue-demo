@@ -5155,7 +5155,6 @@ affectations
 affected
 adorners
 affectedly
-affecter
 affecters
 affectibility
 affecting
@@ -7855,6 +7854,7 @@ aeried
 aleconner
 aburst
 antimonopolist
+affecter
 archimandrite
 accorders
 alecost
