@@ -2189,7 +2189,6 @@ achrodextrinase
 achroglobin
 achroiocythaemia
 apod
-antiendotoxin
 anguinidae
 alginic
 amphioxides
@@ -3202,6 +3201,7 @@ acuductor
 arbuscle
 acuities
 anous
+antiendotoxin
 antizymic
 archfire
 ayond
