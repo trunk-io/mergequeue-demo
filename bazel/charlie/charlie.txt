@@ -17180,7 +17180,6 @@ chemotherapeutic
 cohesive
 copiable
 coadjudicator
-coadjument
 coadjutant
 campement
 coadjute
@@ -31317,6 +31316,7 @@ cureless
 corypha
 curelessness
 curer
+coadjument
 curers
 clubber
 cures
