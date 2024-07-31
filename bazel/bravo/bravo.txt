@@ -4992,7 +4992,6 @@ bumpoff
 beefers
 bombycilla
 breakfasters
-bombardmen
 beerpull
 beers
 beest
@@ -11677,6 +11676,7 @@ boatless
 banjoes
 bewonder
 brahminist
+bombardmen
 belace
 bankerdom
 boatloader
