@@ -2672,6 +2672,7 @@ decompoundly
 decompress
 decompresses
 detectaphone
+demiplacate
 decompressive
 dogies
 duckies
@@ -4635,7 +4636,6 @@ dackers
 disemburden
 ductilely
 demipique
-demiplacate
 dishtowel
 demiplate
 demipomada
