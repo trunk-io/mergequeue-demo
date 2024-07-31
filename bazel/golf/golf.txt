@@ -6815,7 +6815,6 @@ gnomonic
 gloryingly
 gypsied
 glauconite
-gneissitic
 granulomas
 gaffsman
 gonosphere
@@ -10587,6 +10586,7 @@ gunmetal
 grecoue
 gurmukhi
 goffering
+gneissitic
 gatewoman
 grenadiership
 grommets
