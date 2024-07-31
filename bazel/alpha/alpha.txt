@@ -2630,7 +2630,6 @@ acquophonia
 acrab
 acracy
 acraein
-acraeinae
 acrania
 acranial
 aethalia
@@ -18602,6 +18601,7 @@ arcanite
 anvilled
 arcature
 arcatures
+acraeinae
 arcboutant
 arccos
 appomattoc
