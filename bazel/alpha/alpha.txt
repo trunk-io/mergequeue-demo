@@ -3844,7 +3844,6 @@ adjutantship
 analphabetism
 amalgamating
 adjoiner
-adjoins
 allioniaceae
 adjoint
 adjoints
@@ -16370,6 +16369,7 @@ adoxy
 amictus
 affiliates
 antiwedge
+adjoins
 ascosporous
 antiworld
 acromyotonia
