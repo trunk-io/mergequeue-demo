@@ -402,7 +402,6 @@ facets
 faceoff
 fairground
 fairy
-fairyhood
 fructuous
 futurize
 flareboard
@@ -2600,6 +2599,7 @@ frangibility
 freebee
 foresightful
 falerno
+fairyhood
 flanes
 ferryboat
 fitchews
