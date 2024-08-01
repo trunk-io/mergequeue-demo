@@ -1885,7 +1885,6 @@ frostnipped
 fontange
 feazed
 ferrimagnetic
-feazes
 febricant
 febricitant
 frictions
@@ -7541,6 +7540,7 @@ ferial
 ferrocyanhydric
 feverously
 foment
+feazes
 foredesignment
 foresummon
 forecastle
