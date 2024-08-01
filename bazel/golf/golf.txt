@@ -5468,7 +5468,6 @@ groschen
 glyster
 gangboard
 gablet
-glissandi
 glissando
 glistened
 grande
@@ -9411,6 +9410,7 @@ greenleaf
 grothite
 guatoan
 gangerel
+glissandi
 gymel
 gainset
 glycerolize
