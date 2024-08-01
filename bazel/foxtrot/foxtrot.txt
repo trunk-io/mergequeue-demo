@@ -441,6 +441,7 @@ fishgig
 fur
 frockmaker
 fairship
+feal
 flitting
 fairway
 fulminate
@@ -10377,7 +10378,6 @@ fecundities
 fertilizable
 footworks
 frontignan
-feal
 fucate
 fronting
 fizzle
