@@ -3334,7 +3334,6 @@ equus
 esquirearchy
 emoted
 egal
-epicoeliac
 explorator
 excursioner
 envelopes
@@ -8727,6 +8726,7 @@ ejecta
 equipotential
 exconjugant
 endostyle
+epicoeliac
 eternal
 electrostereotype
 epulotic
