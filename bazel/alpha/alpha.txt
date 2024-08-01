@@ -7668,7 +7668,6 @@ axolemma
 actual
 alcmene
 alcoate
-alchemical
 alcogene
 ascogonium
 alcohate
@@ -14638,6 +14637,7 @@ antiar
 antiarin
 antilogarithm
 anthropomorphism
+alchemical
 antiarins
 aswim
 aggressively
