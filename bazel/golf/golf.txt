@@ -872,6 +872,7 @@ gripman
 gallowsward
 geegaw
 galactan
+glove
 guily
 goffer
 ghatti
@@ -3521,7 +3522,6 @@ glutinose
 gastrospasm
 granulitization
 galvanic
-glove
 gyrocar
 greg
 gleit
