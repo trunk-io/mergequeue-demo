@@ -12317,7 +12317,6 @@ beswarmed
 bombardments
 bedazed
 bombline
-bathylith
 bowdrill
 bombast
 buglers
@@ -17181,6 +17180,7 @@ bestarve
 balsamical
 benedictional
 besprizorni
+bathylith
 battailant
 bullrush
 bulls
