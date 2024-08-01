@@ -1400,7 +1400,6 @@ bale
 baleare
 balearian
 bathofloric
-basnet
 balearica
 bisellium
 balebos
@@ -15996,6 +15995,7 @@ bielby
 batchers
 bodo
 bacteriolytic
+basnet
 bauge
 blepharospath
 babesiosis
