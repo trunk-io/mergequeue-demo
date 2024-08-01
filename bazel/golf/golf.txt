@@ -1250,6 +1250,7 @@ gapper
 guib
 grimaces
 garran
+globelet
 granage
 ged
 gavall
@@ -9601,7 +9602,6 @@ grimmiaceous
 gardener
 gemses
 gr
-globelet
 guzerat
 giottesque
 glaucophanization
