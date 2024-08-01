@@ -2082,6 +2082,7 @@ bannerline
 bannerole
 blossomry
 bronchus
+bcf
 blesses
 bannerols
 bannisters
@@ -10827,7 +10828,6 @@ birthrate
 blocks
 branchiate
 blepharochromidrosis
-bcf
 balow
 bullbeggar
 bugbeardom
