@@ -7488,7 +7488,6 @@ extraperiodic
 extracurricular
 elohimic
 enfile
-explosion
 ecchondrotome
 edacities
 effusions
@@ -11539,6 +11538,7 @@ extractable
 evincing
 entoblast
 esophagus
+explosion
 evincive
 excavationist
 echnida
