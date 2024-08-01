@@ -1397,7 +1397,6 @@ features
 fossildom
 forpass
 fendering
-fanlight
 forfars
 flatlanders
 fbi
@@ -8803,6 +8802,7 @@ fetchers
 flotillas
 fidelity
 fossage
+fanlight
 female
 fidel
 fearable
