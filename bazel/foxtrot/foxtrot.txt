@@ -4433,6 +4433,7 @@ flybook
 fixion
 fishboats
 fishbolts
+flechette
 funt
 fellers
 flagged
@@ -10610,7 +10611,6 @@ flative
 familiarities
 fractile
 forswearing
-flechette
 forwaste
 fleeting
 flatnesses
