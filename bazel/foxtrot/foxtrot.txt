@@ -1700,7 +1700,6 @@ fazes
 fiard
 flophouse
 fied
-fryer
 foreannounce
 fipenny
 fconv
@@ -10034,6 +10033,7 @@ flatwork
 fantod
 flavoury
 flor
+fryer
 foollike
 flans
 fringehead
