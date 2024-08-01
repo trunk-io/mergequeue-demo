@@ -6903,6 +6903,7 @@ colubrids
 cathodofluorescence
 celloidin
 constative
+counterbalance
 cellose
 cells
 cellucotton
@@ -28835,7 +28836,6 @@ cresswort
 coauthor
 crest
 confiserie
-counterbalance
 clinostat
 congrue
 crestal
