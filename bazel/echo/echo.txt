@@ -3132,7 +3132,6 @@ edict
 epiplastral
 eom
 elaborate
-eglatere
 epicurishly
 evinced
 egghead
@@ -7095,6 +7094,7 @@ eyeglass
 elastomer
 emication
 ecdyson
+eglatere
 entune
 entepicondylar
 eliquate
