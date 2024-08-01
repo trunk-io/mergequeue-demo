@@ -3270,6 +3270,7 @@ flavourer
 flotages
 foods
 fogman
+feloness
 fluework
 floorshift
 firmisternous
@@ -7044,7 +7045,6 @@ foreganger
 fadingly
 fontinas
 fontlet
-feloness
 fonts
 fusula
 farci
