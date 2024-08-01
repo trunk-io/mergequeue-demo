@@ -855,7 +855,6 @@ cays
 caisse
 caissons
 caite
-comminutor
 colligance
 caitif
 charque
@@ -17240,6 +17239,7 @@ creek
 coaters
 crescograph
 chummer
+comminutor
 crankles
 cryptogenetic
 coadunite
