@@ -1908,7 +1908,6 @@ groundwave
 garvie
 gauged
 grovet
-gutturals
 glabrescent
 goclenian
 germicides
@@ -3979,6 +3978,7 @@ gilds
 gildhall
 grandness
 gildship
+gutturals
 goldenrod
 gerundive
 graybacks
