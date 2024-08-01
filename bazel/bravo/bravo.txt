@@ -6717,7 +6717,6 @@ broughtas
 burghs
 babbles
 berytidae
-beryx
 boblet
 bortzes
 bergh
@@ -9848,6 +9847,7 @@ brubru
 bytes
 bitewing
 bunked
+beryx
 based
 backswording
 bolelia
