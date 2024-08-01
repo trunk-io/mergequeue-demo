@@ -1732,7 +1732,6 @@ aerical
 accusations
 accusatively
 accusatives
-accusator
 arbalests
 associates
 archtraitor
@@ -10611,6 +10610,7 @@ afterwrath
 amylolysis
 arkite
 antitragic
+accusator
 advenae
 ampelidaceae
 amylom
