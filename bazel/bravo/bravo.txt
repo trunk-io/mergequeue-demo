@@ -3893,6 +3893,7 @@ bint
 brockage
 bazooka
 bazookas
+blunge
 bamboos
 bbs
 bassly
@@ -11529,7 +11530,6 @@ blunderhead
 beachie
 buttonbur
 barotaxis
-blunge
 birthday
 bullae
 bemurmurs
