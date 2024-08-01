@@ -5286,7 +5286,6 @@ afflicted
 afflicter
 afflicting
 afflictingly
-analgen
 afflictionless
 abranchian
 archoplasm
@@ -23511,6 +23510,7 @@ appennage
 augmented
 aumery
 anchylose
+analgen
 aumildar
 ajivika
 aaronical
