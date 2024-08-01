@@ -11663,6 +11663,7 @@ boatbuilding
 boathook
 boathouse
 backbends
+boffos
 baccare
 boating
 bistipuled
@@ -11932,7 +11933,6 @@ boethian
 boffins
 brackmard
 balsamodendron
-boffos
 boffs
 boozify
 bankmen
