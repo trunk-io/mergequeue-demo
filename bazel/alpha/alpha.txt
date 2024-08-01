@@ -2816,7 +2816,6 @@ autocamping
 acromicria
 antimeres
 acromimia
-acromioclavicular
 acromiocoracoid
 acromiodeltoid
 amateurishly
@@ -20222,6 +20221,7 @@ attributional
 arrest
 arrestation
 astern
+acromioclavicular
 alphabet
 arrester
 alphanumerically

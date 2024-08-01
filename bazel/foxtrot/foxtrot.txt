@@ -2783,7 +2783,6 @@ fetation
 fraternization
 fyrd
 fightings
-fantasque
 forelimbs
 fyce
 fezziwig
@@ -5342,6 +5341,7 @@ fingerprinting
 ferry
 flb
 fimbriate
+fantasque
 frithsoken
 flutey
 foregather
