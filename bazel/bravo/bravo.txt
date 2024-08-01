@@ -3717,7 +3717,6 @@ barotraumata
 bronteon
 battlefronts
 bringall
-battlement
 barnstorms
 battler
 basocyte
@@ -5623,6 +5622,7 @@ blisters
 blankit
 brough
 bulletheaded
+battlement
 blepharal
 bewigs
 barbitone
