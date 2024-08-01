@@ -2261,6 +2261,7 @@ acider
 acidhead
 azimech
 acidy
+acetamid
 acidiferous
 argil
 adderfish
@@ -24478,7 +24479,6 @@ arithmogram
 als
 autoturning
 autourine
-acetamid
 autovalet
 autovalve
 autovivisection
