@@ -6743,7 +6743,6 @@ gonionia
 gnosticize
 goniopholidae
 gamelang
-gland
 ganam
 gamgee
 graptoloidea
@@ -9489,6 +9488,7 @@ galvanothermy
 grundlov
 graceful
 group
+gland
 germanophobist
 gammoner
 groupable
