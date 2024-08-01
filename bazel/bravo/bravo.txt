@@ -2077,6 +2077,7 @@ bannerline
 bannerole
 blossomry
 bronchus
+blesses
 bannerols
 bannisters
 birthmarks
@@ -9559,7 +9560,6 @@ bisayan
 barnacling
 buccaro
 bisalt
-blesses
 bettered
 bught
 biblist
