@@ -3959,7 +3959,6 @@ footslogged
 findable
 fruz
 foreshop
-frontlessly
 findhorn
 filarees
 fine
@@ -5751,6 +5750,7 @@ fingerstone
 fleuronnee
 fungous
 fuzzball
+frontlessly
 favorers
 forestcraft
 fathoms
