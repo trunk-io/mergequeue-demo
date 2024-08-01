@@ -5025,6 +5025,7 @@ endiadem
 equerry
 epiparodos
 endings
+emplace
 elaeomargaric
 endite
 eclairs
@@ -7207,7 +7208,6 @@ eglandulous
 expirer
 equestrians
 enwheels
-emplace
 enwinding
 elemis
 entomoid
