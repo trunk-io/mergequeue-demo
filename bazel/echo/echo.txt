@@ -2069,7 +2069,6 @@ elapids
 euthyneural
 elapine
 endysis
-exhalate
 eutectics
 epigyny
 englory
@@ -4836,6 +4835,7 @@ encashing
 encountering
 eros
 equilibrate
+exhalate
 equitable
 enforcedly
 encourage
