@@ -16119,7 +16119,6 @@ bdellidae
 balklines
 brotheler
 bulla
-bordage
 brimstony
 bristletail
 bayonetted
@@ -17693,6 +17692,7 @@ brodyaga
 birgus
 batell
 bemajesty
+bordage
 blackfin
 blueings
 burlaps
