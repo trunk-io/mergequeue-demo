@@ -1980,7 +1980,6 @@ acetomorphin
 acetomorphine
 acetonaemia
 acetonaemic
-acetone
 acetonemic
 acetonic
 advances
@@ -6844,6 +6843,7 @@ anthropomorphical
 aloadae
 auripuncture
 avowers
+acetone
 airplay
 anacardiaceous
 airplaner
