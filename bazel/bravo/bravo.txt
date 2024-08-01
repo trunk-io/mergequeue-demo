@@ -817,6 +817,7 @@ bulbus
 bonnyclabber
 bushelbasket
 bafflingness
+bonelike
 bedene
 bouleversement
 baffs
@@ -15232,7 +15233,6 @@ baybolt
 bridestake
 broodlet
 barnlike
-bonelike
 bridewain
 beholding
 brideweed
