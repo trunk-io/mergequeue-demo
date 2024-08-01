@@ -1473,7 +1473,6 @@ dcollet
 depressure
 deaccessioning
 drawbolt
-dygogram
 dingbats
 diazines
 disunions
@@ -17660,6 +17659,7 @@ defeise
 duadic
 duads
 dentalmen
+dygogram
 diffusimeter
 deedholder
 doolies
