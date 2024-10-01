@@ -2,13 +2,14 @@ name: PR Factory
 
 on:
   workflow_dispatch: {}
-  schedule:
-    - cron: "0/30 * * * *"
+# Uncomment the following cron schedule to run this workflow every 30 minutes
+#   schedule:
+#     - cron: 0/30 * * * *
 
 jobs:
   create-pr:
     # needs: merge-pr
-    runs-on: [ubicloud]
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
