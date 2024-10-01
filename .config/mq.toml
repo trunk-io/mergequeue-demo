@@ -1,4 +1,3 @@
-
 mode = "singlequeue"
 
 [trunk]
@@ -14,7 +13,7 @@ flake_rate = 0.10
 sleep_for = "10m"
 
 [pullrequest]
-labels = "bot-pr"               # label to apply to pull request on creation (comma separated list)
+labels = ""                     # label to apply to pull request on creation (comma separated list)
 comment = ""
 requests_per_hour = 20          # target number of pull requests per hour
 run_generate_for = "30 minutes"
