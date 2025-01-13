@@ -9,7 +9,7 @@ on:
 jobs:
   test:
     name: run tests to validate pr
-    runs-on: ubuntu-latest
+    runs-on: ubicloud
     env:
       BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 
