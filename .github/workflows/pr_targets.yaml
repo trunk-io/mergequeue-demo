@@ -5,7 +5,7 @@ on: pull_request
 jobs:
   compute_pr_targets:
     name: compute
-    runs-on: ubicloud
+    runs-on: ubicloud-standard-2
     steps:
       - name: Checkout
         uses: actions/checkout@v4
