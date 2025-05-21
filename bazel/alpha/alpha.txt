@@ -5487,7 +5487,6 @@ abstractedness
 ablings
 afterglow
 alloclasite
-aftergood
 aftergrief
 aftergrowth
 antipathy
@@ -6342,6 +6341,7 @@ anecdotists
 ametrometer
 agriculturist
 agriculturists
+aftergood
 agrilus
 aureola
 abohms
