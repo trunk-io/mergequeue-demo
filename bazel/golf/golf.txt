@@ -331,7 +331,6 @@ guarantee
 galactolipide
 graveship
 galactometer
-gastritis
 gaussian
 grilses
 gleen
@@ -1647,6 +1646,7 @@ galvanographic
 gabionage
 guadua
 gastroduodenostomy
+gastritis
 ganodont
 gamed
 gommier
