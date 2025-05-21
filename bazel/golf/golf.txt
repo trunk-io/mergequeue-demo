@@ -5831,7 +5831,6 @@ graffito
 gedact
 grosse
 geaster
-glucagon
 grundel
 guaiaretic
 gadger
@@ -9225,6 +9224,7 @@ grahamite
 grist
 grumbles
 growthiness
+glucagon
 grumph
 gauge
 gyroceran
