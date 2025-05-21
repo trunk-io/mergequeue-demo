@@ -1309,7 +1309,6 @@ garroter
 glut
 gary
 groundling
-griphus
 gristbite
 glyptodontidae
 gignate
@@ -10164,6 +10163,7 @@ gemlich
 goggly
 grazioso
 grooper
+griphus
 guato
 genres
 guidepost
