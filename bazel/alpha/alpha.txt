@@ -5098,7 +5098,6 @@ aether
 advected
 aromacity
 ahrimanian
-aetheric
 affrication
 audition
 autocoenobium
@@ -24465,6 +24464,7 @@ autotransformer
 autotransplantation
 autostethoscope
 aurotellurite
+aetheric
 autotriploidy
 axlesmith
 autotrophic
