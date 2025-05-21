@@ -3880,7 +3880,6 @@ bidding
 beforesaid
 bawneen
 bawra
-barrow
 barklyite
 bawsint
 bawsunt
@@ -4173,6 +4172,7 @@ buoyantness
 brickwall
 beastlily
 beclown
+barrow
 bradypus
 beastling
 bullswool
