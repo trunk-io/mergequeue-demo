@@ -1594,7 +1594,6 @@ fussy
 foreteach
 farrow
 frundel
-flywort
 fauvette
 fishbowl
 fauvism
@@ -8956,6 +8955,7 @@ fluminose
 floit
 fourball
 floggable
+flywort
 fiacre
 feldspath
 feverwort
