@@ -9322,6 +9322,7 @@ forsado
 fluidise
 fundable
 faulting
+flappers
 forty
 foveae
 furfurole
@@ -10527,7 +10528,6 @@ frouziest
 frow
 flite
 ferroconcretor
-flappers
 foldstool
 flagella
 freshet
