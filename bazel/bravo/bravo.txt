@@ -11604,7 +11604,6 @@ behindsight
 bounced
 bathers
 bighorns
-bactritoid
 bm
 bombinate
 becomma
@@ -13932,6 +13931,7 @@ burial
 bacteriotropic
 binoculate
 bowstringed
+bactritoid
 bowstrung
 behavior
 bowtell

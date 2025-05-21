@@ -2520,7 +2520,6 @@ gabbards
 gristy
 gangliasthenia
 goosefish
-generalizers
 granodiorite
 giltheads
 goo
@@ -7300,6 +7299,7 @@ gossipee
 griffon
 greensward
 glyoxime
+generalizers
 glomus
 gomarite
 gossypine
