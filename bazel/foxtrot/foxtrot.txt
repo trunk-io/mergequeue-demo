@@ -5756,7 +5756,6 @@ fungous
 fuzzball
 frontlessly
 favorers
-forestcraft
 fathoms
 furnage
 fungistatic
@@ -9849,6 +9848,7 @@ ferrado
 factorist
 fedora
 foretrysail
+forestcraft
 fuci
 fevertwitch
 friar
