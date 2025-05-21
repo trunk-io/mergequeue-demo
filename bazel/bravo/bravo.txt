@@ -1406,7 +1406,6 @@ bisellium
 balebos
 baled
 baleen
-balefire
 bobance
 balefires
 barmbrack
@@ -5076,6 +5075,7 @@ befetished
 buirdly
 bandoline
 bilingual
+balefire
 biocatalyst
 basenet
 befezzed
