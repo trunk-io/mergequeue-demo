@@ -11735,7 +11735,6 @@ concorrezanes
 cholesteatomatous
 cholestene
 cholesteremia
-cholesteric
 charoset
 chowdered
 clethra
@@ -11802,6 +11801,7 @@ commissionary
 chondral
 chondralgia
 chondrarsenite
+cholesteric
 chondre
 chondrenchyma
 caramelin
