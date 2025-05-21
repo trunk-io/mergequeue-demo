@@ -8564,7 +8564,6 @@ fanfarons
 fornaxid
 foraminule
 fratchety
-firing
 forncast
 featherer
 fasciation
@@ -9628,6 +9627,7 @@ forcipated
 facilitated
 fabula
 flagstaffs
+firing
 featherbone
 forte
 feteritas
