@@ -12312,7 +12312,6 @@ betrayer
 bramantesque
 beswarmed
 bombardments
-bedazed
 bombline
 bowdrill
 bombast
@@ -16344,6 +16343,7 @@ brumstane
 brunch
 brunched
 brunching
+bedazed
 breathier
 buzzgloak
 brunelliaceae
