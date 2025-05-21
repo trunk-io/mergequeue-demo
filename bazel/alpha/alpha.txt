@@ -5185,6 +5185,7 @@ agrias
 ameloblastic
 ascensor
 affeir
+artifactual
 affenpinscher
 affere
 abnegative
@@ -20721,7 +20722,6 @@ acquitment
 artifactitious
 altitonant
 artifacts
-artifactual
 artifactually
 artifex
 aerobiology
