@@ -955,7 +955,6 @@ dray
 disjoints
 doughmen
 digraphs
-detorsion
 dare
 directcarving
 drosophila
@@ -7338,6 +7337,7 @@ douceurs
 determined
 dextropedal
 diphenylenimide
+detorsion
 deashed
 disagreed
 deutonephron
