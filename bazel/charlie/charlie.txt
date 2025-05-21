@@ -16107,6 +16107,7 @@ cluppe
 cleruchies
 cardroom
 clerum
+counterindentation
 caraculs
 clerus
 chremzel
@@ -26888,7 +26889,6 @@ counterideal
 circumambience
 counterimagination
 counterimpulse
-counterindentation
 counterindented
 counterindicate
 counterindication
