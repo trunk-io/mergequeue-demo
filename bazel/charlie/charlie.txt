@@ -16513,7 +16513,6 @@ clo
 cloaca
 cloacae
 cryptanalyzed
-cloacal
 cloacaline
 cents
 connellite
@@ -27369,6 +27368,7 @@ courtbred
 chattelization
 courtcraft
 cetacean
+cloacal
 congee
 courteousness
 courtepy
