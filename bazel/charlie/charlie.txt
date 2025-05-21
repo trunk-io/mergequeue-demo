@@ -8949,7 +8949,6 @@ chapwoman
 chaqueta
 commanders
 char
-carpentership
 conveyability
 crouchingly
 chara
@@ -28072,6 +28071,7 @@ constituter
 cramping
 crampingly
 crampish
+carpentership
 chondroblast
 crampits
 crampon
