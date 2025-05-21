@@ -4192,7 +4192,6 @@ emptiers
 emptiest
 emptiness
 emptio
-equipment
 externship
 emptor
 eggeater
@@ -12243,6 +12242,7 @@ eskuara
 ecclesiolater
 eternalization
 embitterments
+equipment
 epanalepsis
 exocyclica
 executress
