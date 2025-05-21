@@ -8955,6 +8955,7 @@ chapwoman
 chaqueta
 commanders
 char
+carpentership
 conveyability
 crouchingly
 chara
@@ -27864,7 +27865,6 @@ carnivaler
 crabby
 crabbiest
 crabbily
-carpentership
 crabbing
 crabcatcher
 cytohyaloplasm
