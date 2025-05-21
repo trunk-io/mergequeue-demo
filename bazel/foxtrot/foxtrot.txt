@@ -499,7 +499,6 @@ fumble
 fanciers
 foreclosures
 fleetful
-foulard
 fuseau
 fakeer
 fetiferous
@@ -11067,6 +11066,7 @@ flockless
 functionnaire
 functors
 fumiduct
+foulard
 functus
 fessewise
 frostwork
