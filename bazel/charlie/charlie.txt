@@ -11683,7 +11683,6 @@ colpeurysis
 conformate
 choledocholithotomy
 choledocholithotripsy
-choledochoplasty
 choledochorrhaphy
 counteractor
 cace
@@ -17051,6 +17050,7 @@ clupeodei
 caviar
 clupien
 cenotaphs
+choledochoplasty
 consols
 cluricaune
 clusia
