@@ -69,7 +69,6 @@ facebow
 fenchone
 faceharden
 flagships
-fighters
 flecken
 facellite
 felonious
@@ -6737,6 +6736,7 @@ fogless
 frounced
 fogo
 frescoists
+fighters
 fudgy
 feast
 fogon
