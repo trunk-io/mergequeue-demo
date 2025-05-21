@@ -12977,7 +12977,6 @@ aphorismic
 archly
 anhaemolytic
 anhalamine
-anhaline
 anhalonidine
 anhalonin
 anhalonine
@@ -22281,6 +22280,7 @@ astrocytoma
 astrocytomas
 ailerons
 anal
+anhaline
 asperger
 aplanat
 autoreduction
