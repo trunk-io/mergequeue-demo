@@ -3831,7 +3831,6 @@ arbovirus
 analcite
 alphorns
 adjacence
-adjacencies
 adjectional
 anastatica
 autoactivation
@@ -17735,6 +17734,7 @@ applewoman
 adopts
 applewood
 apply
+adjacencies
 anthorine
 appliable
 appliance
