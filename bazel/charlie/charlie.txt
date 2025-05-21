@@ -7512,7 +7512,6 @@ conchucu
 cepheids
 cephen
 coastings
-cephid
 cardionephric
 cephidae
 cephus
@@ -17954,6 +17953,7 @@ codifies
 cue
 codifying
 codilla
+cephid
 codille
 coding
 codirected
