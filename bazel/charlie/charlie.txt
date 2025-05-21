@@ -3309,7 +3309,6 @@ caplins
 caplock
 coherald
 capmaking
-capman
 capnodium
 capnoides
 clipping
@@ -11439,6 +11438,7 @@ chlorometry
 categorem
 coopted
 chlorometric
+capman
 chloromycetin
 curbed
 chloronitrate
