@@ -2081,7 +2081,6 @@ gazebo
 gazeboes
 guestship
 gyros
-grampus
 gen
 glumiferous
 galla
@@ -6371,6 +6370,7 @@ generics
 glassworks
 gonotyl
 granulitis
+grampus
 goidelic
 goldeyes
 gingivalgia
