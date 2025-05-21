@@ -7424,7 +7424,6 @@ forereport
 forceless
 forcelessness
 forcelet
-futhark
 fasciolar
 flagellariaceae
 floreate
@@ -8398,6 +8397,7 @@ fecundations
 filcher
 fucatious
 forethough
+futhark
 form
 fluoroscopes
 formational
