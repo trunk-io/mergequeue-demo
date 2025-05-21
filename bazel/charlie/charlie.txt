@@ -7112,7 +7112,6 @@ checkline
 centauridium
 chaetognath
 centauries
-centaurium
 constructure
 centauromachy
 centauromachia
@@ -9090,6 +9089,7 @@ chariness
 charing
 celadons
 carbinyl
+centaurium
 cortex
 chariot
 carcerate
