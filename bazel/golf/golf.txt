@@ -289,7 +289,6 @@ gummier
 glossophora
 gaintwist
 giglot
-gamuts
 geobotany
 gynaecian
 gaminesque
@@ -1629,6 +1628,7 @@ gardeen
 gryphon
 gutling
 gastrocoel
+gamuts
 gader
 gamelion
 goriest
