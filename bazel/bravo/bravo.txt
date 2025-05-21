@@ -11823,7 +11823,6 @@ bocoy
 baloskionaceae
 bod
 bodach
-bdl
 bihamate
 bryophyta
 buss
@@ -13836,6 +13835,7 @@ bedikah
 boilers
 bowelled
 beardedness
+bdl
 bulbuls
 bemuddy
 baggy
