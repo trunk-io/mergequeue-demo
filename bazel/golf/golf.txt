@@ -2115,7 +2115,6 @@ gnomide
 gds
 gaycat
 gastrotomy
-gorkhali
 grainer
 gaze
 genteelly
@@ -7538,6 +7537,7 @@ galipots
 grab
 guanamine
 grabby
+gorkhali
 guarantied
 gangliar
 gopherman
