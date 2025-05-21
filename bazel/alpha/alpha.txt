@@ -2214,7 +2214,6 @@ aerosolizing
 achromatope
 achromatophile
 achromatophilia
-achromatophilic
 antipathies
 achromatopia
 achromatopsy
@@ -22037,6 +22036,7 @@ asterias
 asteriidae
 aquatically
 admirance
+achromatophilic
 abaculus
 archchaplain
 abetment
