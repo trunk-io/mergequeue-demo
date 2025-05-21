@@ -3676,6 +3676,7 @@ batta
 brotulidae
 battable
 bagwomen
+befrilled
 bisabol
 bumboatman
 baste
@@ -12477,7 +12478,6 @@ bondslave
 bondsman
 blueys
 braeman
-befrilled
 bulbose
 bondsmen
 bonify
