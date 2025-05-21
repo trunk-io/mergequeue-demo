@@ -1439,6 +1439,7 @@ flaxdrop
 filecard
 fatiscent
 fondlings
+fullword
 fatless
 filicology
 fatly
@@ -3841,7 +3842,6 @@ filmize
 forebridge
 filmland
 filmmake
-fullword
 filmogen
 frutescent
 fixated
