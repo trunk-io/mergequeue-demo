@@ -4025,6 +4025,7 @@ caracter
 compartmental
 crystalloluminescence
 carcinolysin
+cycadiform
 carcinological
 carcinoma
 carcinomas
@@ -13217,7 +13218,6 @@ cicadas
 cliffiest
 cycadeoid
 cycadeoidea
-cycadiform
 cycadite
 cooner
 cotys
