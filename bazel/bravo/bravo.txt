@@ -2865,6 +2865,7 @@ barnmen
 banger
 brushland
 barraging
+battologist
 bailer
 braca
 battener
@@ -3742,7 +3743,6 @@ bastile
 batlan
 bukshi
 battologising
-battologist
 battologize
 bronchiocele
 bookmaking
