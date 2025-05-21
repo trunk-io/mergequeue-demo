@@ -5184,7 +5184,6 @@ caseinogen
 caseins
 caseload
 caseloads
-caselty
 casemaker
 caprylene
 cackle
@@ -20057,6 +20056,7 @@ commenced
 circumscriptive
 cotillion
 curmurging
+caselty
 commencer
 commencing
 commenda
