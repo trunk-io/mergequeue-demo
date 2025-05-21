@@ -1394,7 +1394,6 @@ bulter
 baldrib
 barbells
 balds
-bugged
 baculums
 bale
 baleare
@@ -14101,6 +14100,7 @@ bistipular
 brachiorrheuma
 babbage
 bittock
+bugged
 butsudan
 brighteyes
 birdlore
