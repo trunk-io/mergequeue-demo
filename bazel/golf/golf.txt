@@ -4163,7 +4163,6 @@ gippers
 gliosa
 gigantosaurus
 gonidiose
-graniform
 ghibelline
 gynaecium
 gunned
@@ -4601,6 +4600,7 @@ gamori
 gentrice
 gironny
 graphophobia
+graniform
 gyronny
 garava
 gamophyllous
