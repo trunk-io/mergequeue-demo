@@ -2203,6 +2203,7 @@ esthesia
 epistome
 expanded
 eldermen
+entailing
 elders
 enumerating
 eldersisterly
@@ -10600,7 +10601,6 @@ euchology
 endocrinological
 equines
 evangelistarium
-entailing
 exhibitorship
 effuse
 equationist
