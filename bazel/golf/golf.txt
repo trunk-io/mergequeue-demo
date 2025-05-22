@@ -552,7 +552,6 @@ geometrize
 gramas
 geisotherm
 gd
-glycerize
 gilravager
 gup
 ghetto
@@ -5662,6 +5661,7 @@ gnomonia
 gastrophrenic
 glossa
 glossal
+glycerize
 gumboil
 gingerliness
 gilbertianism
