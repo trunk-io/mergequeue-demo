@@ -1671,7 +1671,6 @@ accubitum
 aphonias
 accubitus
 accueil
-accultural
 acculturate
 acculturated
 acculturates
@@ -22951,6 +22950,7 @@ atroscine
 atrous
 ambilaterally
 alikuluf
+accultural
 axiologically
 att
 attacca
