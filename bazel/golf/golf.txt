@@ -599,7 +599,6 @@ galline
 germanity
 gigue
 guarauno
-gorgonize
 giddap
 galliney
 guaranian
@@ -3835,6 +3834,7 @@ gateworks
 glaciological
 gerim
 graders
+gorgonize
 gonotome
 glarily
 galeoid
