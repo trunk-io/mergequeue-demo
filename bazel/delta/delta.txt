@@ -7057,6 +7057,7 @@ dessertspoon
 dessertspoonfuls
 duramen
 destinezite
+driveable
 dessous
 devall
 doodad
@@ -17213,7 +17214,6 @@ director
 diaphoresis
 depletory
 drive
-driveable
 deermeat
 disgustingness
 decumbence
