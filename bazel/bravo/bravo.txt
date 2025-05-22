@@ -706,6 +706,7 @@ banjo
 baddie
 betimber
 bathtubs
+bathetically
 baddies
 boral
 bade
@@ -3531,7 +3532,6 @@ bathed
 bellower
 bathes
 backslidden
-bathetically
 bicondylar
 baryons
 becudgel
