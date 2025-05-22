@@ -3322,7 +3322,6 @@ bandurria
 basketmaking
 bonnets
 basketware
-basketweaving
 bluecoat
 basketwoman
 beid
@@ -4906,6 +4905,7 @@ beef
 battled
 beefalo
 beefaloes
+basketweaving
 bloodedness
 beefalos
 bilimbis
