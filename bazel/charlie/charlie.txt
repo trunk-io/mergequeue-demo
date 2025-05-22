@@ -18310,7 +18310,6 @@ capelets
 chemicovital
 coffeehouse
 coffeehouses
-cavalry
 coffeeleaf
 coffeeman
 classico
@@ -27167,6 +27166,7 @@ chubbedness
 countertaste
 countertechnicality
 countertendency
+cavalry
 carcasses
 cataspilite
 counterterm
