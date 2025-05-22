@@ -5306,7 +5306,6 @@ backstab
 begiggle
 buddy
 barretries
-botanicas
 begild
 boltonia
 breathlessness
@@ -18159,6 +18158,7 @@ boogie
 benching
 butin
 butyn
+botanicas
 bashless
 butyrate
 bacillicide
