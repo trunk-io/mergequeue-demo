@@ -5961,7 +5961,6 @@ defeatee
 depreter
 depriment
 deprint
-disinvite
 depriorize
 disorderedness
 deprivable
@@ -14688,6 +14687,7 @@ decameter
 draftees
 dora
 degradability
+disinvite
 deuteropathy
 dizen
 devitalized
