@@ -774,6 +774,7 @@ ggr
 groupageness
 galliformes
 ginneries
+gripman
 ghrush
 gandergoose
 gamari
@@ -865,7 +866,6 @@ gulinular
 garrooka
 gazi
 gameness
-gripman
 gallowsward
 geegaw
 galactan
