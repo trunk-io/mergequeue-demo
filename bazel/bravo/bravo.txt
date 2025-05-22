@@ -705,7 +705,6 @@ breathable
 banjo
 baddie
 betimber
-brewage
 bathtubs
 baddies
 boral
@@ -13782,6 +13781,7 @@ buffet
 blesseder
 boatful
 bovld
+brewage
 brontide
 brachydactyly
 bait
