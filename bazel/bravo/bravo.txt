@@ -7819,7 +7819,6 @@ bokadam
 biography
 blessedest
 ballasts
-butlerage
 bowgrace
 burrow
 biauricular
@@ -14844,6 +14843,7 @@ breakfast
 buffetings
 breakfasted
 breakfronts
+butlerage
 breaking
 barkeep
 breakings

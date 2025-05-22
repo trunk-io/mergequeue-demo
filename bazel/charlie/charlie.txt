@@ -9324,6 +9324,7 @@ crombec
 chastest
 chasteweed
 censurers
+ceduous
 chasty
 chastiment
 chastise
@@ -20881,7 +20882,6 @@ composable
 composant
 cryptoclastic
 composed
-ceduous
 cacocholia
 canst
 composer
