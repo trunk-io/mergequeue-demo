@@ -7427,7 +7427,6 @@ cephaletron
 cephalhematoma
 coracovertebral
 cephalic
-cephalically
 cephalina
 cephaline
 cephalins
@@ -26508,6 +26507,7 @@ capitulating
 cottise
 cottoid
 chunkhead
+cephalically
 colorations
 cotton
 cottonbush
