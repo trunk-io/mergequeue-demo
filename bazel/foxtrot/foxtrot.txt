@@ -3673,6 +3673,7 @@ factories
 fogus
 fanwort
 fenagler
+figurize
 florification
 filibusterers
 faecula
@@ -6700,7 +6701,6 @@ fica
 ferbams
 fausen
 finewed
-figurize
 fofarraw
 falderol
 fortifier
