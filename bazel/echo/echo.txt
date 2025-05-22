@@ -4476,7 +4476,6 @@ encephalartos
 encephalasthenia
 effloresced
 escocheon
-encephalic
 erythrophagous
 encephalitic
 executively
@@ -7215,6 +7214,7 @@ exuviability
 endophytically
 ethal
 epidemiologist
+encephalic
 endopodite
 ecumenic
 elvishly
