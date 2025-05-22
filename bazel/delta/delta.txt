@@ -10678,6 +10678,7 @@ diplomats
 dysporomorph
 drawfile
 diplonema
+deuteric
 detritus
 dunnaged
 diplont
@@ -13751,7 +13752,6 @@ defects
 deductibles
 disengagedness
 dissociable
-deuteric
 dadas
 dystrophies
 decorously
