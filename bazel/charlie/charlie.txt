@@ -17047,7 +17047,6 @@ clupeids
 creatureliness
 classis
 cachalot
-clupeodei
 caviar
 clupien
 cenotaphs
@@ -24978,6 +24977,7 @@ corbiculate
 cellulolytic
 corbiculum
 corbie
+clupeodei
 corbies
 consimilarity
 carpools
