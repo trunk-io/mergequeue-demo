@@ -4369,7 +4369,6 @@ firms
 fumulus
 firns
 freespac
-freestanding
 fleshings
 formicivora
 ficiform
@@ -5397,6 +5396,7 @@ foreclosed
 faconde
 floccillation
 ferrocyanide
+freestanding
 faverel
 fluoridise
 frizzes
