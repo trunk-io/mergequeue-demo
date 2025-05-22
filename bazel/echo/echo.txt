@@ -5864,6 +5864,7 @@ engraver
 expalpate
 entree
 engysseismology
+ethiops
 episyntheton
 electrification
 estamp
@@ -10371,7 +10372,6 @@ ethonomics
 ethnocentric
 encyclopaedical
 epipastic
-ethiops
 exporting
 enneastyle
 eudaemonism
