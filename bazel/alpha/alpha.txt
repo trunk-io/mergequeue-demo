@@ -5977,7 +5977,6 @@ alacrities
 aggroup
 affrontee
 approximant
-arcaded
 applauder
 archt
 aggroupment
@@ -13507,6 +13506,7 @@ autostandardization
 annoyer
 adventurers
 acetylacetone
+arcaded
 annoyingly
 authigenic
 atomical
