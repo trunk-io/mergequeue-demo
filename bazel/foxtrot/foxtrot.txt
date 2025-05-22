@@ -4416,6 +4416,7 @@ feltwork
 flybook
 fixion
 fishboats
+fonduk
 fishbolts
 flechette
 funt
@@ -7019,7 +7020,6 @@ frescoist
 fictionistic
 fusees
 fichtelite
-fonduk
 floriferousness
 finagled
 freespace
