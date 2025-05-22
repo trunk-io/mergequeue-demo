@@ -7423,7 +7423,6 @@ cephalaspis
 cocoonery
 condurrite
 cephalate
-cephaletron
 cephalhematoma
 coracovertebral
 cephalic
@@ -16111,6 +16110,7 @@ clethraceous
 crinoid
 clethrionomys
 cleuks
+cephaletron
 caleche
 comprizal
 cleve
