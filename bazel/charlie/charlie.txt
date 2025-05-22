@@ -8903,7 +8903,6 @@ clothesbasket
 chaplets
 chapon
 corrugators
-ce
 cuppa
 crips
 chapote
@@ -25341,6 +25340,7 @@ corncrib
 centripetal
 corncribs
 corncrusher
+ce
 corncutter
 corndodger
 cornea
