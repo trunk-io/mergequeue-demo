@@ -1117,7 +1117,6 @@ folkfree
 ferriages
 frontons
 farrage
-fister
 ferroelectricity
 furziest
 farrago
@@ -6423,6 +6422,7 @@ fecundatory
 formularization
 flathead
 furanoside
+fister
 floatmaker
 fireworm
 fatiguabilities
