@@ -715,7 +715,6 @@ enspell
 equidistant
 eidently
 enode
-equivalency
 eutelegenic
 eyefuls
 equalable
@@ -9921,6 +9920,7 @@ enroots
 excludingly
 esthesiometric
 enstatite
+equivalency
 encodes
 epidemical
 enodally

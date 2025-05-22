@@ -13288,7 +13288,6 @@ cicisbeo
 cycl
 chromometer
 cyclades
-cycladic
 clavichordist
 cyclamen
 campshot
@@ -31422,6 +31421,7 @@ cosmogonist
 candied
 curlycues
 crouton
+cycladic
 curlike
 curlily
 curlylocks
