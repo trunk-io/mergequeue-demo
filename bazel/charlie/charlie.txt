@@ -4918,6 +4918,7 @@ caplet
 carryon
 carrions
 carryons
+compense
 carryout
 carryouts
 crosshatched
@@ -17856,7 +17857,6 @@ cerebrasthenia
 chalaza
 compearance
 codamin
-compense
 categorisation
 calibrators
 cardiography
