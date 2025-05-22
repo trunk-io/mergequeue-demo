@@ -1866,7 +1866,6 @@ gerbillus
 goodyship
 gamelote
 germaniums
-gliss
 groundable
 gowd
 guan
@@ -9161,6 +9160,7 @@ grypotherium
 gooral
 gridlock
 griege
+gliss
 greenstick
 glavering
 goatees
