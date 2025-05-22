@@ -26728,6 +26728,7 @@ counteravouch
 counteravouchment
 counterbalanced
 counterbarrage
+checkmark
 cardiotomy
 cars
 counterbattery
@@ -27748,7 +27749,6 @@ cowshot
 chough
 cowshut
 cowskin
-checkmark
 countercommand
 cowslipped
 cowson
