@@ -7431,7 +7431,6 @@ cephalitis
 cephalization
 cephaloauricular
 cephalobranchiata
-cephalocathartic
 chelicera
 carneys
 carks
@@ -13855,6 +13854,7 @@ cinclis
 contakionkia
 clinah
 cinclus
+cephalocathartic
 cinct
 cincture
 centrifugalizing
