@@ -13632,7 +13632,6 @@ compilers
 chisel
 comitiva
 cylindroid
-cylindromata
 caudillos
 cylindromatous
 crosswords
@@ -26283,6 +26282,7 @@ costious
 costipulator
 costispinal
 canli
+cylindromata
 cavallas
 costiveness
 changeableness
