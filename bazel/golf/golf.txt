@@ -4364,7 +4364,6 @@ goozle
 grammatist
 gloriam
 gazer
-glimmered
 gorget
 gearcases
 gongs
@@ -6333,6 +6332,7 @@ given
 getspace
 goldspink
 golfdom
+glimmered
 granolithic
 geotectology
 gunarchy
