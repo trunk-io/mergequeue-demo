@@ -2523,7 +2523,6 @@ candymaker
 cardiophobe
 candymaking
 candiru
-candys
 candite
 candytuft
 curryfavel
@@ -29836,6 +29835,7 @@ crossbars
 cerianthid
 compatience
 conflates
+candys
 callow
 crossbeam
 crossbeams
