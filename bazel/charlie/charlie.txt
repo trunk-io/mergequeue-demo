@@ -2142,7 +2142,6 @@ campestral
 campfight
 campground
 canful
-campgrounds
 consarcinate
 camphane
 camphanone
@@ -28208,6 +28207,7 @@ compiler
 crannock
 crannoger
 carvomenthene
+campgrounds
 cockscomb
 calabrese
 competitress
