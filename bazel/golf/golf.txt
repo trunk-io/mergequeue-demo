@@ -3710,7 +3710,6 @@ goffers
 geodetics
 grihyasutra
 glucke
-gibbled
 grandsir
 gnostical
 glochidia
@@ -6059,6 +6058,7 @@ glutaeous
 gaduin
 gorbit
 guttie
+gibbled
 grisset
 gadroons
 grume
