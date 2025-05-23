@@ -18770,7 +18770,6 @@ connect
 coke
 clinocephalism
 coker
-conelike
 cokes
 cokewold
 cokie
@@ -28947,6 +28946,7 @@ complicatedness
 cribriform
 cribriformity
 cribs
+conelike
 cribworks
 convocated
 cricetidae
