@@ -6741,6 +6741,7 @@ enuresis
 entertake
 exstimulate
 exhumed
+exstill
 entete
 eurytherm
 epistrophy
@@ -10470,7 +10471,6 @@ electrochronometer
 engraved
 ensaint
 estruation
-exstill
 etymologizable
 etymologization
 evaluator
