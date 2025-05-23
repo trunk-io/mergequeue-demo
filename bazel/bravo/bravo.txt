@@ -2745,7 +2745,6 @@ barolong
 bombax
 boroughship
 barometers
-barometric
 beefy
 blam
 beachside
@@ -4207,6 +4206,7 @@ beatitudes
 beatles
 backchain
 bellmen
+barometric
 brusquer
 beatless
 beatnik
