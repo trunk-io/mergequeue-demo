@@ -948,6 +948,7 @@ gigmanity
 glomeruli
 graptolite
 gunshot
+glist
 gamostele
 gallinule
 glottogony
@@ -5794,7 +5795,6 @@ glover
 glochines
 genos
 grasshopperish
-glist
 gastrodisk
 glowering
 glowingly
