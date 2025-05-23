@@ -2549,6 +2549,7 @@ confraternities
 choosable
 candlelighting
 candlelit
+cohusband
 carvels
 candlemaker
 candlemaking
@@ -18601,7 +18602,6 @@ cohune
 callianassa
 choloidic
 cohunes
-cohusband
 corselet
 comparition
 cankerflower
