@@ -4836,6 +4836,7 @@ fannings
 filigrain
 flageolets
 flagfishes
+flameholder
 flowcontrol
 fubsy
 forbiddenness
@@ -11668,7 +11669,6 @@ fleshers
 fillowite
 forepale
 foxskins
-flameholder
 fructiform
 ferrocerium
 fresne
