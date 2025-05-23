@@ -4263,6 +4263,7 @@ beautihood
 belly
 berbamine
 blattariae
+barest
 burlers
 burman
 burgonet
@@ -5859,7 +5860,6 @@ buildress
 boxcar
 bullsnake
 banded
-barest
 berseem
 bribeworthy
 balsamweed
