@@ -2812,6 +2812,7 @@ barosinusitus
 barosmin
 backwashed
 blithefully
+buffaloback
 bruta
 biquadrate
 baroswitch
@@ -16799,7 +16800,6 @@ brumbee
 bacterioid
 buffable
 buffalo
-buffaloback
 buffalofish
 buffaloing
 bulltoad
