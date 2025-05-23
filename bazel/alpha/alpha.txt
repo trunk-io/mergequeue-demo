@@ -12941,7 +12941,6 @@ angulately
 appearance
 astrer
 angulateness
-angulation
 angulatogibbous
 antilegalist
 assimilable
@@ -22608,6 +22607,7 @@ atherosclerosis
 anticrepuscule
 atherosclerotic
 abnegated
+angulation
 atherosperma
 abfarads
 atherurus

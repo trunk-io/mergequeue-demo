@@ -5310,7 +5310,6 @@ emendicate
 endosmoses
 enjewel
 everglades
-endosome
 exsertion
 endospore
 endosporic
@@ -11109,6 +11108,7 @@ euskaric
 enrapture
 electors
 expunging
+endosome
 edo
 egoity
 exulceratory
