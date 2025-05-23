@@ -9347,7 +9347,6 @@ abbotships
 adenolymphoma
 affectation
 alphabeting
-alphabetise
 adiposis
 alphabetised
 adulterer
@@ -20209,6 +20208,7 @@ assiduously
 arrearage
 arrearages
 amoles
+alphabetise
 arrears
 arrendation
 argentometric
