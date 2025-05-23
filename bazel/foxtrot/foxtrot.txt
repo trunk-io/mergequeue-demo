@@ -407,6 +407,7 @@ facets
 faceoff
 fairground
 fairy
+foresettle
 fructuous
 futurize
 flareboard
@@ -11144,7 +11145,6 @@ featurish
 ferulae
 featurally
 flowerbed
-foresettle
 flintwork
 forefather
 funereally
