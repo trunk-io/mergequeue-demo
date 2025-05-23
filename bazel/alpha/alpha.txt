@@ -4529,7 +4529,6 @@ advertizes
 advice
 advices
 advisableness
-atomicity
 adiaphorism
 advisal
 antheridial
@@ -16123,6 +16122,7 @@ argumentatious
 annealing
 acidulous
 antisexist
+atomicity
 antiship
 angiasthenia
 antishipping
