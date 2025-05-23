@@ -1250,7 +1250,6 @@ decapitate
 datives
 deplane
 desmids
-dogwatch
 dossil
 dermoptera
 datolitic
@@ -13995,6 +13994,7 @@ depolymerization
 distn
 dystocia
 dourade
+dogwatch
 dystocial
 diagenesis
 discrepance
