@@ -3077,7 +3077,6 @@ greedygut
 gazzetta
 geoscientists
 geochronologically
-glaucomys
 gellant
 grapewort
 gavotte
@@ -9068,6 +9067,7 @@ goadster
 gyres
 gease
 graveyards
+glaucomys
 gaylussacia
 glumal
 gearcase
