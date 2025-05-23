@@ -3860,7 +3860,6 @@ analphabetism
 amalgamating
 adjoiner
 allioniaceae
-adjoint
 adjoints
 apieces
 adjourn
@@ -8486,6 +8485,7 @@ alkalised
 affrayed
 antejentacular
 alkaliser
+adjoint
 audivise
 angustate
 animator
