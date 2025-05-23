@@ -4770,7 +4770,6 @@ encode
 encoded
 ensnarements
 encoding
-encodings
 effectivity
 ergasterion
 enbusshe
@@ -12770,6 +12769,7 @@ exam
 erwinia
 employable
 exorcizement
+encodings
 elasmobranchiate
 exorcizer
 epiceratodus
