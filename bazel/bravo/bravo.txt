@@ -1892,7 +1892,6 @@ bryology
 bewend
 battutos
 bevies
-belay
 browbound
 bishoplike
 biostatics
@@ -10280,6 +10279,7 @@ benevolist
 bocaccio
 blacksnake
 baneful
+belay
 boltonite
 bliaut
 ballsy
