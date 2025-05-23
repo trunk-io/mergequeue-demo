@@ -1638,7 +1638,6 @@ deamidation
 deaminase
 digitize
 daws
-delocalization
 daw
 dextraural
 deamination
@@ -12448,6 +12447,7 @@ disheartenment
 disconnective
 dicarpellary
 dendrophagous
+delocalization
 dong
 disheir
 dishelming
