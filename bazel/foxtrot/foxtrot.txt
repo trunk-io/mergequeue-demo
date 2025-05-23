@@ -1508,7 +1508,6 @@ fatuoid
 fatuus
 frankly
 firebombed
-finlike
 fairtime
 fantasie
 filago
@@ -2621,6 +2620,7 @@ flappy
 fluidification
 ferryway
 finding
+finlike
 fumes
 forechase
 ferrocene

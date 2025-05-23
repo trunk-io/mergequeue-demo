@@ -2050,7 +2050,6 @@ gnomist
 gelndesprung
 gnarl
 gradations
-garbline
 gawkhammer
 greasehorn
 ghouls
@@ -9429,6 +9428,7 @@ geminally
 gitksan
 goldtit
 genially
+garbline
 glorify
 golliwogg
 gobia
