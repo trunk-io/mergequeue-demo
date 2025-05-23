@@ -7141,7 +7141,6 @@ caribes
 caisson
 chisedec
 chromene
-center
 centerable
 centerboard
 centerer
@@ -12906,6 +12905,7 @@ circumumbilical
 crucifers
 chunkiest
 crumpy
+center
 comburimetry
 chunkiness
 chunks
