@@ -1436,7 +1436,6 @@ accessors
 acciaccaturas
 acciaccature
 accidence
-annotto
 arsesmart
 axletrees
 accidencies
@@ -7980,6 +7979,7 @@ absi
 aleurone
 antimicrobic
 argynnis
+annotto
 aleuronic
 aleurons
 aleut
