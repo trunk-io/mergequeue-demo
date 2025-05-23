@@ -4839,6 +4839,7 @@ carpophyl
 cressier
 carpophyte
 companions
+covariables
 cynosarges
 carpopodite
 carpopoditic
@@ -27485,7 +27486,6 @@ chelicerae
 curtailer
 covariable
 cathartical
-covariables
 cheongsam
 coal
 covariant
