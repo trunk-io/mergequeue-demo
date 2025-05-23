@@ -1424,6 +1424,7 @@ effluences
 endoral
 effluvia
 epitasis
+epithalamia
 essenced
 entodermal
 entoretina
@@ -2299,7 +2300,6 @@ electroacoustic
 electroacoustical
 elfkin
 electroacoustics
-epithalamia
 endmatcher
 exundation
 electroanalytic
