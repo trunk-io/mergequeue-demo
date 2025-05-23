@@ -19662,7 +19662,6 @@ camphors
 columnarian
 counterswing
 calamaries
-columnarity
 columnate
 centimolar
 cupseed
@@ -31081,6 +31080,7 @@ cuneatic
 cunei
 cuneiform
 cuneiformist
+columnarity
 chiggerweed
 cunenei
 coue
