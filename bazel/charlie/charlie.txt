@@ -2304,6 +2304,7 @@ canakins
 canal
 cookeys
 canalatura
+completer
 canalboat
 charales
 canale
@@ -17164,7 +17165,6 @@ caponisation
 coachsmithing
 cumacea
 confederationism
-completer
 centrodesmose
 crambambulee
 coevolving
