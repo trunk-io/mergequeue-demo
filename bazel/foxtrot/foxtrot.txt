@@ -2227,6 +2227,7 @@ feltmaker
 fats
 fratercula
 farmhouse
+fumulus
 fluster
 feudalism
 felts
@@ -4365,7 +4366,6 @@ flectional
 foreleech
 ferritin
 firms
-fumulus
 firns
 freespac
 fleshings
