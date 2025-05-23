@@ -4287,7 +4287,6 @@ fireplug
 firepot
 frampler
 foreflank
-frontless
 fructoside
 forges
 forebooms
@@ -11642,6 +11641,7 @@ fetlow
 fructoses
 fustiness
 fatlike
+frontless
 fustoc
 fussily
 friscal
