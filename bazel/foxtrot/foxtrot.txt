@@ -2414,7 +2414,6 @@ filamentose
 frapped
 falconiformes
 frogling
-fucivorous
 feudist
 fenchol
 footganger
@@ -11233,6 +11232,7 @@ fatherkin
 forepayment
 funkiness
 frontispieces
+fucivorous
 funmaking
 flit
 flakeless
