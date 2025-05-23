@@ -3857,6 +3857,7 @@ endodontic
 emigration
 equivote
 echeneis
+eternal
 electrotonus
 extraboldface
 eminencies
@@ -8698,7 +8699,6 @@ equipotential
 exconjugant
 endostyle
 epicoeliac
-eternal
 electrostereotype
 epulotic
 eudalene
