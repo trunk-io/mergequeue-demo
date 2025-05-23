@@ -4745,6 +4745,7 @@ executions
 existent
 exodos
 endosmosic
+excircle
 epistler
 entomophytous
 equidifferent
@@ -13597,7 +13598,6 @@ englishwomen
 effossion
 extemporizes
 electrotheraputics
-excircle
 elinvar
 epiphytically
 eremurus
