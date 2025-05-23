@@ -5604,6 +5604,7 @@ felsitic
 flyby
 fratch
 flybys
+forfault
 fallaciously
 filamentar
 fiendlike
@@ -8215,7 +8216,6 @@ fundamentals
 fatigated
 fictioneer
 friezing
-forfault
 forfaulture
 fluoroscoping
 fishways
