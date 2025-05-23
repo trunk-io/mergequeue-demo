@@ -2770,7 +2770,6 @@ amyelencephalia
 acrospore
 acroclinium
 acrocomia
-acrocoracoid
 acrodactyla
 acrodermatitis
 acrodynia
@@ -3977,6 +3976,7 @@ arghoul
 adminicular
 adminiculation
 attical
+acrocoracoid
 accessioning
 acetaldehyde
 administer
