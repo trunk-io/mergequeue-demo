@@ -7917,6 +7917,7 @@ floes
 fetticus
 forewarned
 feiseanna
+featherworker
 foresee
 faitor
 frakturs
@@ -11337,7 +11338,6 @@ formalith
 fulvene
 fertilisational
 forecastors
-featherworker
 fermage
 furivae
 furlan
