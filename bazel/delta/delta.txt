@@ -5218,6 +5218,7 @@ dyings
 daemon
 doghole
 deathly
+detruncating
 devoid
 diazoamino
 denitrifier
@@ -7456,7 +7457,6 @@ dubhgall
 distalia
 detruding
 disulphid
-detruncating
 detruncation
 damneder
 dodgery
