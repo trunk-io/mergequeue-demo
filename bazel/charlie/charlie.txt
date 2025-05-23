@@ -7052,7 +7052,6 @@ codable
 capitellar
 colometrically
 cenobies
-cenobite
 cenobites
 cenobitic
 caseworkers
@@ -14699,6 +14698,7 @@ catholicism
 cystidium
 candescent
 cystiferous
+cenobite
 cyath
 cystiform
 cystigerous
