@@ -3286,7 +3286,6 @@ forefend
 flunkies
 forewarnings
 flinthearted
-flyability
 fictioner
 farrowing
 furbisher
@@ -11639,6 +11638,7 @@ friendship
 forwake
 fetlow
 fructoses
+flyability
 fustiness
 fatlike
 frontless
