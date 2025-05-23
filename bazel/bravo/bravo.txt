@@ -858,6 +858,7 @@ bagful
 baggagemaster
 baggager
 benzidin
+beffroy
 baggala
 bijouterie
 bagganet
@@ -5081,7 +5082,6 @@ balefire
 biocatalyst
 basenet
 befezzed
-beffroy
 broiderer
 befile
 befilmed
