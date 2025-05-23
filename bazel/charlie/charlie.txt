@@ -2542,6 +2542,7 @@ candleholder
 corrections
 candlelight
 candlelighter
+chaloth
 confraternities
 choosable
 candlelighting
@@ -8477,7 +8478,6 @@ cohered
 chalons
 coronograph
 chalot
-chaloth
 chaloupe
 cowpunch
 chaluka
