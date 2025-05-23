@@ -12568,7 +12568,6 @@ bonk
 bagpiping
 bonne
 bubbly
-brisken
 bonnet
 brachelytra
 bonnethead
@@ -18221,6 +18220,7 @@ barium
 borated
 buttered
 beshadowing
+brisken
 beyond
 butterfat
 bicolour
