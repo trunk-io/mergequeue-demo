@@ -2439,7 +2439,6 @@ appall
 autocombustible
 aclidian
 aclinic
-ambulate
 acloud
 acmaea
 acmaeidae
@@ -12853,6 +12852,7 @@ apperceiving
 anight
 anglings
 anglist
+ambulate
 anglistics
 anglogaea
 anthemwise
