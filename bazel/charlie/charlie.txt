@@ -10195,7 +10195,6 @@ corallorhiza
 chestnut
 chestnuts
 chet
-chetah
 cheth
 communalized
 chetopod
@@ -31221,6 +31220,7 @@ clawhammer
 cura
 curability
 correctness
+chetah
 curable
 curableness
 cotyloidal
