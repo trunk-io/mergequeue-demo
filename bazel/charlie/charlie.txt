@@ -5529,7 +5529,6 @@ conductances
 cellar
 casuistries
 cathodoluminescence
-casule
 casus
 cat
 catabaptist
@@ -9880,6 +9879,7 @@ chelydidae
 centas
 chelidonic
 chelidonin
+casule
 chelidonine
 carefox
 chelidonium
