@@ -3307,7 +3307,6 @@ celebratory
 coilers
 caplin
 caplins
-caplock
 coherald
 capmaking
 capnodium
@@ -27051,6 +27050,7 @@ collegially
 contratulations
 conceptualization
 counterproposal
+caplock
 croupily
 clerking
 counterprotection
