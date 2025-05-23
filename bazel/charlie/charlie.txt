@@ -7546,7 +7546,6 @@ cythera
 cerebrophysiology
 cerastes
 cerasus
-cerat
 cerata
 cerate
 commerced
@@ -29126,6 +29125,7 @@ crinolines
 crinosity
 crinula
 cnemides
+cerat
 crinums
 clausiliidae
 crowstep
