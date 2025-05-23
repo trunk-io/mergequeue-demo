@@ -5429,7 +5429,6 @@ aft
 afteract
 alexin
 afterattack
-afterbay
 afterstorm
 appetitive
 avidiously
@@ -23943,6 +23942,7 @@ autocarist
 antiwar
 autocarp
 ambiences
+afterbay
 autocarpian
 achatinella
 autocarpic
