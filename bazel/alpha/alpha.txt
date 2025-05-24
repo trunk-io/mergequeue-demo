@@ -9387,7 +9387,6 @@ alphosis
 assessorial
 albitization
 adigranth
-amdahl
 alphosises
 armgaunt
 alpid
@@ -11236,6 +11235,7 @@ abp
 avidious
 amphiprostylar
 antiusurious
+amdahl
 amidoazobenzene
 aminoformic
 amphirhinal
