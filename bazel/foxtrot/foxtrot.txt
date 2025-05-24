@@ -361,6 +361,7 @@ facultative
 failure
 foresound
 floss
+favourer
 frogleg
 flacian
 formulariser
@@ -7092,7 +7093,6 @@ feedstuff
 forejudger
 felix
 formfeeds
-favourer
 footful
 foolhardiness
 fabulousness
