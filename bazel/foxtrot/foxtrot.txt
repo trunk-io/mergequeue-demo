@@ -6232,7 +6232,6 @@ flaxes
 fulgurate
 foretops
 feebling
-fleabugs
 fovent
 flagmaker
 furbished
@@ -9172,6 +9171,7 @@ feoffees
 flamineous
 fabrications
 fungosity
+fleabugs
 freights
 fondue
 foveolate
