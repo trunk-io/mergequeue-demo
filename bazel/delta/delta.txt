@@ -650,6 +650,7 @@ deafen
 dampers
 dudgeons
 donnard
+depermed
 dampne
 dampness
 dextrosuria
@@ -5617,7 +5618,6 @@ deperditely
 domain
 distinctest
 deperm
-depermed
 deperms
 disserves
 dichromatopsia
