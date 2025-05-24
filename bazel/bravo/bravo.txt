@@ -2502,6 +2502,7 @@ brachyoura
 barge
 bergere
 bargelike
+beet
 bravura
 bargellos
 begroans
@@ -8353,7 +8354,6 @@ bepelt
 bedstock
 bigheaded
 balk
-beet
 brusque
 bantings
 bonefishes
