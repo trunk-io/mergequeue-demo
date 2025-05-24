@@ -5439,7 +5439,6 @@ fragmentize
 frisado
 factorial
 fledgiest
-freestones
 floatless
 foisonless
 fabian
@@ -7975,6 +7974,7 @@ foreshot
 ficelle
 fumatoriums
 fitness
+freestones
 foreshow
 flatfoot
 fistulous
