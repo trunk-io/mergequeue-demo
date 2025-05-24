@@ -1526,6 +1526,7 @@ faultfind
 fasciculite
 flittern
 flix
+font
 flavorings
 fruiter
 fiqh
@@ -5981,7 +5982,6 @@ floodgates
 fiercest
 foolhardily
 fraudlessness
-font
 feretories
 flossa
 floodlight
