@@ -3656,7 +3656,6 @@ alloted
 arco
 alliteration
 antiquity
-abarthrosis
 atlantomastoid
 anchorhold
 ambustion
@@ -22045,6 +22044,7 @@ ammocoetidae
 asyndesis
 antefurcal
 asternal
+abarthrosis
 adenocancroid
 asternata
 asteroid
