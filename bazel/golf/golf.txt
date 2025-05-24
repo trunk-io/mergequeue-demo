@@ -1152,7 +1152,6 @@ genio
 gantsl
 galactometry
 gastrostomus
-glossograph
 gnetums
 guffin
 gaol
@@ -8408,6 +8407,7 @@ gratiolin
 glaciarium
 gallivanting
 gratuitant
+glossograph
 guaguanche
 globulariaceous
 gnathopodous
