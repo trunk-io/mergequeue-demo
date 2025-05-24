@@ -10042,7 +10042,6 @@ booklets
 bummock
 blenders
 bairntime
-begohm
 byzantine
 byzantinize
 barmecide
@@ -15744,6 +15743,7 @@ brokage
 bulletin
 brokages
 broke
+begohm
 banande
 bihalve
 barebones
