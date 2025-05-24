@@ -14956,7 +14956,6 @@ chorda
 chess
 cartmaker
 cobberer
-cytoparaplastin
 cytopathic
 cosmine
 complected
@@ -30764,6 +30763,7 @@ climatologic
 culeus
 culices
 cramble
+cytoparaplastin
 culicifugal
 culicifuge
 choragium
