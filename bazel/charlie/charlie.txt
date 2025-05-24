@@ -6455,7 +6455,6 @@ correcter
 conchfish
 cauterizer
 cauterizes
-clearwater
 caution
 cautionary
 couve
@@ -21651,6 +21650,7 @@ condescensive
 callout
 condescensively
 condescensiveness
+clearwater
 cancelli
 condescent
 cocciform
