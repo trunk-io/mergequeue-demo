@@ -10184,6 +10184,7 @@ equivalences
 elope
 extraorbital
 etherialised
+elaborators
 edgier
 emmove
 earlyish
@@ -12688,7 +12689,6 @@ elzevir
 extrapolation
 exomphalos
 effrontery
-elaborators
 entame
 echoisms
 expatiative
