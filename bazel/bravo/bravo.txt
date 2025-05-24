@@ -687,7 +687,6 @@ baculus
 badaga
 badarian
 biorgan
-beefing
 bumbarge
 barnstormed
 boregat
@@ -6670,6 +6669,7 @@ bedstand
 bimane
 begreen
 bawdric
+beefing
 bakshishing
 beneception
 bergy
