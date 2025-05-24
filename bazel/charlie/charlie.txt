@@ -4735,7 +4735,6 @@ carpenteria
 composograph
 carpenters
 charlock
-carpenterworm
 carpet
 carpetbag
 carpetbagger
@@ -9456,6 +9455,7 @@ chaus
 cataian
 cyclamin
 constatory
+carpenterworm
 commiserate
 chausse
 chaussees
