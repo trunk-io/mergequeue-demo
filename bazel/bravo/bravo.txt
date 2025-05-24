@@ -5596,7 +5596,6 @@ bewreak
 bekiss
 bekissed
 bekisses
-bekko
 bouleuterion
 befoolment
 borons
@@ -11412,6 +11411,7 @@ belonosphaerite
 bluegrass
 bluffy
 brownian
+bekko
 bestrut
 bastionet
 boxthorn
