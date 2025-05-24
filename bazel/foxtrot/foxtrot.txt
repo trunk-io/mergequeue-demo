@@ -4335,6 +4335,7 @@ fenland
 fraterniser
 fungology
 firmarii
+flamens
 furmeties
 forrader
 filthier
@@ -6118,7 +6119,6 @@ flauntingly
 forsook
 foretriangle
 fleyland
-flamens
 forecome
 floush
 focalisation
