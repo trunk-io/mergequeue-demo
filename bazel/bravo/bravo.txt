@@ -1598,7 +1598,6 @@ ballistician
 brachioganoidei
 ballistocardiograph
 ballflower
-ballistocardiography
 bifurcate
 ballywack
 basalt
@@ -15163,6 +15162,7 @@ brickbat
 borish
 brickbatting
 brickcroft
+ballistocardiography
 billhook
 brickel
 bruit
