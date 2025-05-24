@@ -7670,7 +7670,6 @@ alcoholimeter
 autoconverter
 asterin
 alcoholised
-argentite
 alcoholysis
 aguinaldos
 aspirins
@@ -14392,6 +14391,7 @@ anthranyl
 anthranilic
 anthranol
 anthranone
+argentite
 anthrapyridine
 acuminulate
 anthrapurpurin
