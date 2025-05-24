@@ -1146,7 +1146,6 @@ genteeler
 grouses
 genin
 genio
-generalness
 gantsl
 galactometry
 gastrostomus
@@ -1982,6 +1981,7 @@ goutify
 grubberies
 gurjara
 gars
+generalness
 gambogic
 gums
 gauzewing
