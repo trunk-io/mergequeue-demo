@@ -1662,7 +1662,6 @@ barrulety
 bloodfin
 ballplatz
 bedrabbled
-ballpoint
 braizes
 ballrooms
 barbuts
@@ -4697,6 +4696,7 @@ bedimple
 bedimpling
 bulllike
 bluegown
+ballpoint
 beulah
 bobsleds
 bathymetrically
