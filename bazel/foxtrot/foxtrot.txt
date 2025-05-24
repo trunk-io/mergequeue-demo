@@ -7796,7 +7796,6 @@ fren
 fraenum
 forgathering
 furs
-furl
 fleers
 finning
 fluorescein
@@ -11420,6 +11419,7 @@ flocculose
 furniture
 flummoxing
 frustrable
+furl
 furodiazole
 feminise
 feoff
