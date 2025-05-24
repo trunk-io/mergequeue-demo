@@ -1765,6 +1765,7 @@ electric
 eer
 eyepiece
 everard
+extg
 embattle
 eyepoint
 emule
@@ -2314,7 +2315,6 @@ eclecticism
 encrypted
 electrobath
 epicenity
-extg
 epically
 effulge
 enchants
