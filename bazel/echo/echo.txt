@@ -2887,6 +2887,7 @@ elf
 elfenfolk
 epinard
 ecodeme
+entablature
 elfinwood
 exfoliating
 extremity
@@ -6513,7 +6514,6 @@ enswathement
 elementariness
 evidently
 ephelis
-entablature
 envisaging
 epimere
 evaluating
