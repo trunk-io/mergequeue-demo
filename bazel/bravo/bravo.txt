@@ -3918,7 +3918,6 @@ bd
 boracium
 buttonholes
 beteela
-bde
 butternose
 bdellium
 bdelliums
@@ -18268,6 +18267,7 @@ butternuts
 barstool
 batea
 bunuelo
+bde
 berryman
 basque
 brickmason
