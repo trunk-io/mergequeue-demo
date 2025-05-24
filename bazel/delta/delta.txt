@@ -5212,6 +5212,7 @@ dyings
 daemon
 doghole
 deathly
+diaheliotropic
 detruncating
 devoid
 diazoamino
@@ -8318,7 +8319,6 @@ detestableness
 diaclastic
 disabused
 diaguite
-diaheliotropic
 dyak
 diaka
 dapper
