@@ -18354,7 +18354,6 @@ cellmate
 casearia
 coforeknown
 clownishness
-cofounded
 cofounding
 cathedrals
 cofoundress
@@ -20630,6 +20629,7 @@ competitors
 challengee
 competitrix
 compilable
+cofounded
 curvilinearly
 compilations
 compilator
