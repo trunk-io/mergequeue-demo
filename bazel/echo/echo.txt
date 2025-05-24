@@ -954,7 +954,6 @@ efreet
 equipping
 endorsements
 electrophoretic
-excludes
 ectropion
 epilogues
 ectropium
@@ -11010,6 +11009,7 @@ eurasianism
 engaol
 eremites
 endocervicitis
+excludes
 electrizing
 eurhythmic
 eudemons
