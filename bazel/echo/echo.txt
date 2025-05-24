@@ -1109,6 +1109,7 @@ edictum
 essenian
 epistolic
 echinology
+elective
 edification
 exfigure
 earock
@@ -6715,7 +6716,6 @@ exploitations
 enterprize
 expertising
 entosclerite
-elective
 eulogiser
 epulis
 espundia
