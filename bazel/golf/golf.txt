@@ -8739,6 +8739,7 @@ grogram
 gps
 greensauce
 genera
+gatherable
 gigartina
 gentilism
 glyceryls
@@ -10087,7 +10088,6 @@ gastropods
 ghostwrote
 grammarian
 gekkonoid
-gatherable
 gonfaloniership
 gasoscope
 grassiest
