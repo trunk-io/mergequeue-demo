@@ -14759,7 +14759,6 @@ bilgewater
 biotech
 beetroot
 braziletto
-bronzesmith
 belletristic
 brazilite
 buffed
@@ -18062,6 +18061,7 @@ busting
 bustle
 birrus
 basketwood
+bronzesmith
 benzoin
 backflow
 baptizable
