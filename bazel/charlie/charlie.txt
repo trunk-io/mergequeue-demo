@@ -2395,7 +2395,6 @@ coffined
 canceled
 canceleer
 canceler
-cancelers
 crossbowmen
 cancellable
 contrasters
@@ -27894,6 +27893,7 @@ carbanilide
 crackbrained
 carpognia
 crackbrainedness
+cancelers
 crackdowns
 cyclonically
 crackedness
