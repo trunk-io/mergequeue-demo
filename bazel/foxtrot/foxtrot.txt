@@ -1862,6 +1862,7 @@ forbesite
 folkmots
 flak
 flaithship
+flyway
 frustules
 fanfarade
 flyspecks
@@ -5335,7 +5336,6 @@ fretters
 french
 flain
 fulyie
-flyway
 fucaceous
 felonwood
 farrierlike
