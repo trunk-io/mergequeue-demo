@@ -6390,6 +6390,7 @@ flatlings
 flowchart
 flagpole
 fluocerine
+fren
 flang
 fullterm
 fluoran
@@ -7795,7 +7796,6 @@ frithbot
 fusillade
 flyblew
 flickery
-fren
 fraenum
 forgathering
 furs
