@@ -769,6 +769,7 @@ badlands
 buba
 bat
 brushcut
+bygoing
 banket
 badmouthed
 badmouths
@@ -7761,7 +7762,6 @@ bhistie
 bhisties
 bhojpuri
 brim
-bygoing
 bhokra
 bonaventure
 bunglingly
