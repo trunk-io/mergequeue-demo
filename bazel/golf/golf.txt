@@ -780,7 +780,6 @@ gutturize
 goldbird
 galvanothermometer
 ggr
-groupageness
 galliformes
 ginneries
 gripman
@@ -5106,6 +5105,7 @@ guerdon
 gammick
 gravelous
 geologised
+groupageness
 ganoidei
 gratins
 glaucousness
