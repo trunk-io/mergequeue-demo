@@ -6410,6 +6410,7 @@ bequeath
 benzodiazole
 benzofulvene
 bollen
+boulles
 benzofuran
 benzofuryl
 bracted
@@ -13599,7 +13600,6 @@ berate
 bornyl
 bailiffry
 boogaloo
-boulles
 boullework
 biurate
 bodying
