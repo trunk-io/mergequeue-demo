@@ -2509,7 +2509,6 @@ gweduc
 gudgeoning
 generalistic
 glen
-gromatic
 gumption
 grue
 generations
@@ -6655,6 +6654,7 @@ gibbet
 gulae
 gobmouthed
 growable
+gromatic
 gymnosperm
 grattage
 gewgawed
