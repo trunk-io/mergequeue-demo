@@ -1574,7 +1574,6 @@ glimpse
 galleria
 gumshoe
 gunlock
-galvanization
 gasterotheca
 gandermooner
 gymnetrous
@@ -9176,6 +9175,7 @@ guanajuatite
 galvanometer
 greenwich
 gynarchies
+galvanization
 gufought
 grangerizer
 goffered
