@@ -358,7 +358,6 @@ flenser
 failingness
 fancifully
 facultative
-failure
 foresound
 floss
 favourer
@@ -3791,6 +3790,7 @@ faultlessly
 fortressed
 frizettes
 furoate
+failure
 fibula
 fellmonger
 farsakh

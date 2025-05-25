@@ -5116,6 +5116,7 @@ aetobatidae
 ancien
 aphoria
 aetobatus
+anamorphism
 aetomorphae
 aetosaurus
 almohade
@@ -24846,7 +24847,6 @@ arythmias
 arraignments
 aggrandizements
 arretez
-anamorphism
 avouchers
 avouching
 avouchment
