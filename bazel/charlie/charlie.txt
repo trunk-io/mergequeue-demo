@@ -22582,7 +22582,6 @@ connectable
 connected
 connectedly
 connecter
-connecters
 confabbed
 chiaroscurist
 connectible
@@ -27725,6 +27724,7 @@ crescentic
 campal
 catbrier
 corkscrews
+connecters
 cowshed
 cowsheds
 cowshot
