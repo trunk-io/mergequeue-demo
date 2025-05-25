@@ -1390,7 +1390,6 @@ features
 fossildom
 fendering
 forfars
-flatlanders
 fbi
 fellani
 fathomlessness
@@ -9995,6 +9994,7 @@ floatingly
 fishworks
 femalize
 frumentum
+flatlanders
 flanche
 frantic
 frigiddaria
