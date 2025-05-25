@@ -11572,7 +11572,6 @@ choristoma
 choirman
 colonizations
 corelysis
-campuses
 choirmasters
 cornaceous
 charthouse
@@ -17782,6 +17781,7 @@ cockscombs
 cocksfoot
 coco
 cocoach
+campuses
 cashier
 cocoanut
 chasing
