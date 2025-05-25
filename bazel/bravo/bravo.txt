@@ -782,6 +782,7 @@ blackout
 becker
 building
 baedekerian
+baphometic
 baeria
 bliny
 baetyl
@@ -2144,7 +2145,6 @@ bantu
 bantus
 bandon
 bewield
-baphometic
 blandfordia
 behung
 botrychium
