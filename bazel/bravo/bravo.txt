@@ -4731,7 +4731,6 @@ bienseance
 bursula
 basseted
 bedlar
-bedlids
 bazoo
 bibliotic
 blackseed
@@ -9425,6 +9424,7 @@ birectangular
 burh
 batteler
 bireme
+bedlids
 begeck
 bacteriostat
 babishly
