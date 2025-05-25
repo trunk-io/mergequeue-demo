@@ -7262,7 +7262,6 @@ closely
 chol
 chatterbox
 centrev
-centry
 chivalrous
 containedly
 centric
@@ -8481,6 +8480,7 @@ chamaebatia
 chamaecranial
 cogons
 colleagues
+centry
 compinge
 corkir
 calorisator
