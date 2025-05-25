@@ -197,7 +197,6 @@ flatfoots
 furnarius
 flier
 factorable
-factordom
 flimsies
 forcut
 finitary
@@ -5044,6 +5043,7 @@ flanked
 formulaically
 frenchwoman
 fledging
+factordom
 freelage
 flankers
 foists
