@@ -4299,7 +4299,6 @@ bathyscaph
 battledore
 bacterious
 bayish
-bebrave
 bebreech
 backcourtman
 bebrother
@@ -13331,6 +13330,7 @@ beglitter
 becrimson
 botella
 botels
+bebrave
 barometry
 both
 bradyphagia
