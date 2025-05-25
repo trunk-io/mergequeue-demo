@@ -1566,7 +1566,6 @@ gassing
 gismos
 guytrash
 gondoliere
-glaceed
 globicephala
 gymnura
 gauntlet
@@ -1744,6 +1743,7 @@ gyrofrequencies
 grandams
 grivation
 geogonic
+glaceed
 glacify
 groupoids
 gastropneumonic
