@@ -2601,7 +2601,6 @@ fenugreek
 forenames
 feedsman
 frailties
-fortuitus
 fiduciaries
 fanti
 fimbriatum
@@ -10149,6 +10148,7 @@ foreknee
 fe
 feckly
 fulciform
+fortuitus
 fissiparously
 frittering
 fuchi
