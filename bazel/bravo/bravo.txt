@@ -2595,6 +2595,7 @@ bridgelike
 barkan
 barocco
 barkary
+befilch
 barkbound
 bamoth
 barkcutter
@@ -5885,7 +5886,6 @@ bidactyle
 beefs
 beerocracy
 bellowsful
-befilch
 beride
 bellowslike
 bellpull
