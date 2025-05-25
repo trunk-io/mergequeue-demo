@@ -2073,7 +2073,6 @@ feudary
 fundi
 facedown
 faucalize
-feinting
 fireboat
 forwander
 flatlander
@@ -7056,6 +7055,7 @@ fonticulus
 flapmouthed
 foreganger
 fadingly
+feinting
 fontinas
 fontlet
 forepromise
