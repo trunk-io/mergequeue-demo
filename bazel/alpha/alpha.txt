@@ -2262,7 +2262,6 @@ asonia
 appassionato
 adjectitious
 attempers
-acidanthera
 acidaspis
 acidemia
 acider
@@ -18647,6 +18646,7 @@ archvagabond
 amulae
 anhungry
 archaise
+acidanthera
 almuce
 angoumian
 alexipharmical
