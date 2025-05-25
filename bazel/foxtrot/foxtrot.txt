@@ -5575,7 +5575,6 @@ flexion
 flexitime
 ferdiad
 folliculate
-flexography
 fleecer
 flexographic
 fatal
@@ -6265,6 +6264,7 @@ ferrimagnetic
 fractionating
 frenzied
 fluffiness
+flexography
 flugel
 frettingly
 fadme
