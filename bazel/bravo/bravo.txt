@@ -2777,7 +2777,6 @@ backstroking
 blotchiest
 bhp
 barrowman
-barony
 balletomanes
 bassets
 buckayro
@@ -5687,6 +5686,7 @@ belayed
 bowssen
 bentstar
 boer
+barony
 biogeochemical
 bibliotaph
 belemnoidea
