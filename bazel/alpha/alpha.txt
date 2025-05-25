@@ -12512,7 +12512,6 @@ affectability
 aflaunt
 anubis
 anepigraphous
-anepiploic
 amollish
 algae
 amorists
@@ -23891,6 +23890,7 @@ autoabstract
 amphibiousness
 acrology
 antiscepticism
+anepiploic
 autoagglutinating
 autoagglutinin
 autoalarm
