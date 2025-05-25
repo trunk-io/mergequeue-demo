@@ -2738,7 +2738,6 @@ gascoigny
 greatcoat
 glories
 gyro
-gecko
 gyne
 garni
 guzzledom
@@ -9275,6 +9274,7 @@ gamely
 gemauve
 granitoid
 groenendael
+gecko
 gallstone
 graduale
 groenlandicus
