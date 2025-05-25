@@ -610,7 +610,6 @@ galliney
 galbulinae
 guaranian
 glockenspiels
-gravities
 glossopalatine
 grieben
 graveside
@@ -6086,6 +6085,7 @@ gnetales
 gastrogenous
 guffy
 guessworker
+gravities
 goodby
 gordiacean
 girja
