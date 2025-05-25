@@ -4947,7 +4947,6 @@ growled
 guilty
 guariba
 glandered
-gnatproof
 graunt
 grouselike
 gauging
@@ -6825,6 +6824,7 @@ garnets
 gobonee
 gnomonic
 gloryingly
+gnatproof
 gypsied
 glauconite
 granulomas

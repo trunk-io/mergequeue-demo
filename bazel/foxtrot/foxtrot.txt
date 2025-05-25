@@ -4562,7 +4562,6 @@ fictive
 fissirostrate
 fusser
 finjan
-fundmonger
 fissura
 frugal
 forwardsearch
@@ -8148,6 +8147,7 @@ flatcaps
 faithful
 featurette
 fuchsias
+fundmonger
 forcepses
 forevers
 flectionless
