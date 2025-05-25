@@ -6303,7 +6303,6 @@ galipot
 gobstopper
 goyish
 goosenecked
-groceries
 gracer
 gametal
 giglio
@@ -8666,6 +8665,7 @@ greekize
 gleave
 gulravage
 gavelling
+groceries
 grammars
 guidances
 gearing
