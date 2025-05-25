@@ -13388,7 +13388,6 @@ bidders
 brumaire
 botone
 bourgeoned
-bourder
 bialys
 botonee
 blanche
@@ -13696,6 +13695,7 @@ bushes
 bourree
 bourrees
 basibranchiate
+bourder
 backsliders
 buchanan
 bourtree
