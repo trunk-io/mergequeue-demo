@@ -988,7 +988,6 @@ eponymic
 edits
 enterococcus
 endosporium
-exclaimers
 esoterics
 expanse
 excavatory
@@ -1738,6 +1737,7 @@ enginery
 engrammatic
 exasper
 eyeish
+exclaimers
 exonerated
 expectorants
 epacmaic
