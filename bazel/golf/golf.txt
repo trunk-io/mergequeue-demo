@@ -993,7 +993,6 @@ glissette
 glossed
 gordunite
 ganga
-gleanings
 gangamopteris
 givers
 gangava
@@ -8854,6 +8853,7 @@ gregau
 greisens
 groof
 getas
+gleanings
 gremiale
 gasterotricha
 gartering
