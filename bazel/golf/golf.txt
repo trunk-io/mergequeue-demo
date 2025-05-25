@@ -1094,7 +1094,6 @@ gashouses
 graphiola
 grammatication
 grover
-gannet
 gearshifts
 gravitate
 graptolitic
@@ -6853,6 +6852,7 @@ grabman
 gelatinoid
 graticulate
 glis
+gannet
 glibly
 goodenia
 gestated
