@@ -2103,7 +2103,6 @@ emma
 emblematist
 electrocoating
 enclosable
-elapsing
 epilimnia
 enterolysis
 elasmothere
@@ -5020,6 +5019,7 @@ endia
 endiadem
 equerry
 endings
+elapsing
 emplace
 elaeomargaric
 endite
