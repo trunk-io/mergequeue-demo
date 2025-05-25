@@ -3760,7 +3760,6 @@ gibstaff
 galeche
 greyhound
 gratefulness
-gelatined
 greenbugs
 gabbard
 greenland
@@ -9547,6 +9546,7 @@ greets
 geldability
 grouts
 grouze
+gelatined
 glume
 gastornithidae
 groved
