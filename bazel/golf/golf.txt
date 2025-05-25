@@ -3484,7 +3484,6 @@ geums
 gangues
 garmentworker
 ganglions
-gadzooks
 gymnorhina
 geomagnetist
 grugru
@@ -8412,6 +8411,7 @@ gnathopodous
 guinea
 galinsoga
 glottises
+gadzooks
 gushet
 garancine
 goatishness
