@@ -9793,6 +9793,7 @@ gizzen
 graybearded
 guacacoa
 grimacer
+gaud
 gall
 grantor
 glugglug
@@ -10340,7 +10341,6 @@ grubstaking
 gpcd
 gushed
 gules
-gaud
 gaging
 gown
 gonoph
