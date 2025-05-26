@@ -3788,7 +3788,6 @@ batzen
 blundering
 boatsmanship
 blksize
-barreler
 bitterbush
 brujas
 binitarian
@@ -17956,6 +17955,7 @@ belga
 bushwack
 bonewood
 berserk
+barreler
 bostrychid
 baryta
 bushwahs
