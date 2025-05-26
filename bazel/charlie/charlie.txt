@@ -1921,6 +1921,7 @@ caser
 cameloidea
 camelopardalis
 consubstantiation
+carcinus
 cinnamomum
 chiliarchy
 camelopardidae
@@ -19149,7 +19150,6 @@ collimates
 collimating
 collimation
 collimator
-carcinus
 collin
 colline
 collections
