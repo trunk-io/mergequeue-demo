@@ -2969,7 +2969,6 @@ barrios
 boulevard
 barrister
 bootless
-bioscientific
 banda
 botts
 broadshare
@@ -4205,6 +4204,7 @@ batholite
 bouchees
 beatitude
 bandel
+bioscientific
 beatles
 backchain
 bellmen
