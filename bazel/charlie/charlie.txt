@@ -10940,7 +10940,6 @@ connectedness
 chippering
 chippers
 coefficient
-canalize
 chippewas
 chippy
 cobishop
@@ -13244,6 +13243,7 @@ cystoflagellata
 cicatrisive
 cicatrizate
 caudicle
+canalize
 craniographer
 cicatrization
 cott
