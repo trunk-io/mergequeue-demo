@@ -3393,7 +3393,6 @@ epitomize
 embarkment
 embarks
 equipage
-editorializes
 exteroceptor
 encyclopediac
 estriol
@@ -11339,6 +11338,7 @@ evaporimeter
 electrocute
 ecdysons
 evaporitic
+editorializes
 evapotranspiration
 ecaudata
 esiphonal
