@@ -18365,7 +18365,6 @@ cofounds
 cofreighter
 cofunction
 cystidia
-cogboat
 cretification
 cogencies
 cogener
@@ -29202,6 +29201,7 @@ cryotron
 crip
 crippied
 cripple
+cogboat
 characid
 crippleness
 crippler
