@@ -2642,7 +2642,6 @@ decempeda
 dryasdust
 decolourizer
 dumpcarts
-depletion
 dinglebird
 decreers
 decolours
@@ -13668,6 +13667,7 @@ dissimilars
 dorize
 dequantitate
 dissimilate
+depletion
 disacquaintance
 dissimilating
 dissimilative
