@@ -1779,7 +1779,6 @@ forfare
 foreshore
 foveal
 feeded
-fuzztail
 forecastlemen
 foresaddle
 fluphenazine
@@ -8466,6 +8465,7 @@ formatter
 father
 floridans
 flunkeyite
+fuzztail
 fogmen
 formularizing
 frontierman
