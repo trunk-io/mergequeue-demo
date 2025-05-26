@@ -5794,6 +5794,7 @@ birny
 bylining
 bechalked
 bellboys
+belay
 belled
 baggageman
 backlogging
@@ -10276,7 +10277,6 @@ benevolist
 bocaccio
 blacksnake
 baneful
-belay
 boltonite
 bliaut
 ballsy
