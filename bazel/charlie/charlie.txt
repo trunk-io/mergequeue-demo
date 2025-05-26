@@ -4223,7 +4223,6 @@ chinner
 chopin
 chapbooks
 cardo
-cardol
 cardona
 cardoncillo
 cerotype
@@ -11309,6 +11308,7 @@ chloriambus
 chloric
 chlorid
 chloridate
+cardol
 conturb
 chloridated
 consuls
