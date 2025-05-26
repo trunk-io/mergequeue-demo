@@ -13329,6 +13329,7 @@ anywhen
 advertize
 ascill
 anywhence
+aggregational
 anywhither
 anywise
 anywither
@@ -14841,7 +14842,6 @@ anticipations
 anticipative
 attensity
 activeness
-aggregational
 antinepotic
 antliate
 anticyclically
