@@ -825,6 +825,7 @@ edaphically
 euglenidae
 ectypal
 ectype
+entities
 everliving
 enwrite
 embus
@@ -10113,7 +10114,6 @@ erythrophyllin
 extrathecal
 ethylhydrocupreine
 export
-entities
 eyey
 eyot
 ebonies
