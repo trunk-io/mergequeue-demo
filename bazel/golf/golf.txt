@@ -1335,7 +1335,6 @@ guls
 guillotiner
 greenalite
 galvanist
-glycolylurea
 geoside
 glomerulus
 galloner
@@ -7117,6 +7116,7 @@ grommet
 glycid
 gauming
 gross
+glycolylurea
 genecor
 gorgeret
 gorgers
