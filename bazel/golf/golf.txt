@@ -9047,7 +9047,6 @@ glasser
 grimalkin
 genitive
 gentianwort
-gynic
 ghast
 grimme
 gipsyhood
@@ -10364,6 +10363,7 @@ grouseberry
 gelate
 garretmaster
 gonophoric
+gynic
 gonidiospore
 gastrothecal
 gnashing
