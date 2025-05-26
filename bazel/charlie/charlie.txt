@@ -8479,7 +8479,6 @@ colleagues
 centry
 compinge
 corkir
-calorisator
 chamaelirium
 chamaepericlymenum
 chamaephyte
@@ -13646,6 +13645,7 @@ cafe
 colament
 cymaise
 cort
+calorisator
 countermeasures
 cathartically
 cymaphyte
