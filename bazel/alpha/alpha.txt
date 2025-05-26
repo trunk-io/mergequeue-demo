@@ -75,7 +75,6 @@ abalone
 abalones
 abama
 archineuron
-abamperes
 aband
 abandon
 amphipods
@@ -24538,6 +24537,7 @@ antistimulation
 auxochromous
 ancienty
 auxograph
+abamperes
 auxology
 auxospore
 anachorism
