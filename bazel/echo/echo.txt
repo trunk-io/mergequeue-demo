@@ -3544,6 +3544,7 @@ eponyms
 eyeball
 extreme
 epigonus
+epicyclic
 euphratean
 entrefer
 egyptianism
@@ -7306,7 +7307,6 @@ efferous
 explodent
 exoascaceae
 ejicient
-epicyclic
 exlex
 elechi
 engird
