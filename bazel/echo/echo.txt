@@ -369,7 +369,6 @@ eriophyidae
 eavedropper
 eavedropping
 ephthianure
-endogeny
 endevil
 embouchement
 excentral
@@ -2907,6 +2906,7 @@ elf
 elfenfolk
 epinard
 ecodeme
+endogeny
 entablature
 elfinwood
 exfoliating
