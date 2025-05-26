@@ -13613,7 +13613,6 @@ arthroempyesis
 anatomist
 addressee
 anodically
-appositively
 anodyne
 anodynes
 anaphroditous
@@ -23847,6 +23846,7 @@ authentication
 apathy
 athetosic
 auganite
+appositively
 angularization
 alumbrado
 authigene
