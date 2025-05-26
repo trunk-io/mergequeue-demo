@@ -4871,7 +4871,6 @@ fumish
 fracticipita
 faunus
 fishberries
-fetted
 firepower
 fleay
 fainer
@@ -8363,6 +8362,7 @@ foliage
 fossilological
 forlain
 fatten
+fetted
 flanning
 fruitcakes
 felicitating

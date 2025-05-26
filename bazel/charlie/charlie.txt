@@ -6994,7 +6994,6 @@ cementin
 carane
 cementite
 cementitious
-cementlike
 carinaria
 claudicate
 cementmaker
@@ -21453,6 +21452,7 @@ compassionated
 criterion
 chemicalize
 cringingly
+cementlike
 cyetic
 conclusory
 calybite
