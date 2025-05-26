@@ -2493,7 +2493,6 @@ griever
 gained
 grooveless
 gigmania
-generable
 guessive
 generalise
 gynandrous
@@ -8780,6 +8779,7 @@ gregarian
 garbles
 gayway
 guileful
+generable
 goodenoviaceae
 gablock
 glaiket
