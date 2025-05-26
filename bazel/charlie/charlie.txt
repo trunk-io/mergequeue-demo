@@ -13539,7 +13539,6 @@ cif
 camerawork
 cig
 cigaret
-coolants
 cigarette
 cystenchyma
 cigarettes
@@ -20414,6 +20413,7 @@ communisteries
 compactable
 compacted
 ca
+coolants
 compacter
 colibertus
 compactible
