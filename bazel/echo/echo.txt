@@ -5276,7 +5276,6 @@ enslaves
 endocorpuscular
 edaphic
 endorsed
-endorsee
 enchantress
 emendating
 effector
@@ -10793,6 +10792,7 @@ ephemerae
 enclaret
 eulogistic
 eulogistical
+endorsee
 extort
 ephemeran
 eternalness
