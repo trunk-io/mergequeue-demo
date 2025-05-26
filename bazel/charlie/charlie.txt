@@ -4939,7 +4939,6 @@ carrousels
 chaetodontid
 corallinaceae
 carageen
-carrs
 carses
 cogitable
 carsick
@@ -24481,6 +24480,7 @@ chlorosis
 cop
 copa
 copable
+carrs
 copacetic
 claquer
 creammaking
