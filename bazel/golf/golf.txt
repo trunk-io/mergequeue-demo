@@ -3745,7 +3745,6 @@ gelastocoridae
 gnomology
 gnattier
 gemmates
-garfish
 guarders
 greenbark
 grouchy
@@ -6845,6 +6844,7 @@ grainman
 goshen
 gynandroid
 garrotes
+garfish
 gregarina
 grabman
 gelatinoid
