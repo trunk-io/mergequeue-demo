@@ -1177,7 +1177,6 @@ gorilla
 guestless
 gaplessness
 gynandrism
-gappy
 gappier
 gappiest
 griot
@@ -9064,6 +9063,7 @@ gladiatorism
 goatherds
 guajira
 glads
+gappy
 galactidrosis
 giraffa
 garishness
