@@ -2247,7 +2247,6 @@ camshafts
 camstane
 caval
 comer
-chrismale
 camstone
 camstrary
 camuning
@@ -19746,6 +19745,7 @@ combasou
 combat
 combatable
 chroma
+chrismale
 combatant
 cimbalom
 combater
