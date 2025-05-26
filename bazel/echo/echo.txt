@@ -7031,7 +7031,6 @@ endocardial
 extractors
 embladder
 electrotitration
-entryman
 enamourment
 explorable
 effigiating
@@ -12572,6 +12571,7 @@ extinction
 envied
 enherit
 ensweeten
+entryman
 exiture
 elkdom
 eft
