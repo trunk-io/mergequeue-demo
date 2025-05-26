@@ -756,7 +756,6 @@ ecotype
 ecotypes
 ecotipically
 epigeic
-extraclaustral
 ecotypically
 ecotonal
 enclaved
@@ -3010,6 +3009,7 @@ excrementize
 eviscerate
 entrenched
 eliquidate
+extraclaustral
 elysiidae
 elisor
 escobedo
