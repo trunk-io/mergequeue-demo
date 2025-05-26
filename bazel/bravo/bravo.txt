@@ -2918,7 +2918,6 @@ beslab
 bited
 broad
 barrelled
-brattle
 billfish
 barrelmaker
 boules
@@ -3261,6 +3260,7 @@ begartered
 bethank
 bisulfide
 bookkeeps
+brattle
 benzols
 bandaite
 bothropic
