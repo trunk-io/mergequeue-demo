@@ -5719,7 +5719,6 @@ flint
 fluffer
 ferratin
 focimetry
-flinty
 footpound
 flintwood
 folioliferous
@@ -11037,6 +11036,7 @@ funambulator
 fishline
 feels
 faunological
+flinty
 fellatrices
 fangless
 flycatcher
