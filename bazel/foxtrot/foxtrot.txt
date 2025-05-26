@@ -5403,6 +5403,7 @@ frats
 frond
 fleche
 forelady
+folliculate
 flechettes
 flecked
 forkhead
@@ -5566,7 +5567,6 @@ fissiparism
 flexion
 flexitime
 ferdiad
-folliculate
 fleecer
 flexographic
 fatal
