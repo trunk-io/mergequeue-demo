@@ -4858,7 +4858,6 @@ flinching
 fashionmonging
 fingerflower
 fullwords
-ferrite
 faena
 fellowshipping
 falsen
@@ -7835,6 +7834,7 @@ foveolets
 fractionisation
 favorite
 fligged
+ferrite
 focusing
 fatiguable
 florences
