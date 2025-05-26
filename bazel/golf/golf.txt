@@ -6683,6 +6683,7 @@ gauges
 googols
 gyrostats
 glomerate
+globulimeter
 geyseral
 gurdfish
 gruine
@@ -10045,7 +10046,6 @@ gasking
 garnering
 gongman
 galette
-globulimeter
 guerison
 guerites
 gage
