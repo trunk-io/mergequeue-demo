@@ -504,7 +504,6 @@ geographic
 gowiddie
 golem
 gruffing
-gastriloquist
 geologers
 graff
 galivants
@@ -3719,6 +3718,7 @@ gastroelytrotomy
 governing
 geobios
 gallantry
+gastriloquist
 gibber
 gaslightness
 gibberellin
