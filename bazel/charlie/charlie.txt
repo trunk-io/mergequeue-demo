@@ -8873,6 +8873,7 @@ chapiter
 chloranaemia
 chapitral
 chaplain
+canulated
 chaplaincies
 chaplains
 curiboca
@@ -17951,7 +17952,6 @@ chiliad
 codirector
 conycatcher
 commonish
-canulated
 codirects
 codiscoverer
 codist
