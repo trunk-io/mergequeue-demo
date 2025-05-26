@@ -1730,7 +1730,6 @@ accusal
 accusant
 animadvert
 aristocracies
-acipenserid
 accusants
 accusation
 aerical
@@ -7293,6 +7292,7 @@ alaund
 adoptant
 aglauros
 antitropical
+acipenserid
 alba
 ayahuca
 albacora
