@@ -5716,7 +5716,6 @@ belialic
 belibel
 bonytail
 brimmered
-battlemented
 belicoseness
 belie
 balausta
@@ -12907,6 +12906,7 @@ bureaucratese
 boot
 big
 bootees
+battlemented
 blunging
 bootery
 booth
