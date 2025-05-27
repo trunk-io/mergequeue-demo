@@ -285,7 +285,6 @@ gaddish
 groundliness
 grubstaked
 globins
-grayout
 geet
 gummier
 glossophora
@@ -883,6 +882,7 @@ gotha
 gametocyst
 gametocyte
 gurrah
+grayout
 gametogenic
 gooseflesh
 gueparde
