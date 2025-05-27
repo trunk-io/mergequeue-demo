@@ -14910,7 +14910,6 @@ dowitcher
 dolorifuge
 dependencies
 deglute
-diacoelosis
 dodded
 dodder
 differingly
@@ -16057,6 +16056,7 @@ drainboard
 denigrate
 dabster
 dockers
+diacoelosis
 dekagrams
 doublette
 decursively
