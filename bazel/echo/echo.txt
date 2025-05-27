@@ -1855,7 +1855,6 @@ eightling
 edematose
 eightpenny
 euler
-ecchymose
 epidiorite
 encystments
 errabund
@@ -12918,6 +12917,7 @@ engr
 eosaurus
 enticingly
 expeditiousness
+ecchymose
 epithymetic
 evangeliary
 endostylar
