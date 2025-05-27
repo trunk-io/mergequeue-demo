@@ -9424,6 +9424,7 @@ friction
 furacana
 flammed
 franz
+felidae
 foliiferous
 flamines
 fliers
@@ -11739,7 +11740,6 @@ fathom
 foliiform
 flneur
 fremdly
-felidae
 florimanist
 flanking
 fissuration
