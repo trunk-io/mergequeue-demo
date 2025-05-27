@@ -8705,7 +8705,6 @@ eudalene
 equiprobably
 equiproportional
 equiproportionality
-entosarc
 egocentrism
 eluate
 escopet
@@ -13113,6 +13112,7 @@ ecoclimate
 experientialism
 eschevin
 encarpuspi
+entosarc
 extensionality
 ergology
 eudiaphoresis
