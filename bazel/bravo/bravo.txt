@@ -11322,6 +11322,7 @@ bespoused
 blowsier
 blowtorches
 bromos
+bossiness
 blowups
 blowzy
 beadrow
@@ -14103,7 +14104,6 @@ birdlore
 brachiosaur
 brachiosaurus
 brachyphyllum
-bossiness
 bargainers
 byzantinesque
 begob
