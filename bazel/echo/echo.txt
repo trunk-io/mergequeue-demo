@@ -8775,7 +8775,6 @@ equipoised
 enfume
 elementarist
 equoidean
-eucalypt
 embrue
 erade
 exhedra
@@ -11621,6 +11620,7 @@ ewes
 ewest
 engraphia
 emeras
+eucalypt
 envenomous
 everywhereness
 electionary
