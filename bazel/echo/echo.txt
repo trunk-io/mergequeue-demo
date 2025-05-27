@@ -3152,6 +3152,7 @@ elongation
 edict
 epiplastral
 eom
+emmarble
 elaborate
 epicurishly
 evinced
@@ -10352,7 +10353,6 @@ ethnogeographic
 extirpator
 embillow
 externation
-emmarble
 electroplaque
 ethnographer
 epanastrophe
