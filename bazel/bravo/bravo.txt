@@ -11635,7 +11635,6 @@ bosket
 boatage
 bacterioscopical
 barspoon
-byres
 boatbuilding
 boathook
 boathouse
@@ -13844,6 +13843,7 @@ bagreef
 bergsonian
 baptizes
 belittles
+byres
 blasters
 burkite
 broadhead
