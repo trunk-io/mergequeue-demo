@@ -5700,7 +5700,6 @@ bibliotaph
 belemnoidea
 beleper
 bicycle
-bathybic
 balandra
 butterpaste
 barkpeeling
@@ -17957,6 +17956,7 @@ belga
 bushwack
 bonewood
 berserk
+bathybic
 barreler
 bostrychid
 baryta
