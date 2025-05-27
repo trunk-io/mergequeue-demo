@@ -9279,7 +9279,6 @@ groenlandicus
 glucuronic
 goyana
 gurge
-gossypin
 gunj
 gi
 girlish
@@ -10246,6 +10245,7 @@ ginzo
 gonophorous
 gastroptosis
 grape
+gossypin
 graminivore
 glycogenase
 guiltsick
