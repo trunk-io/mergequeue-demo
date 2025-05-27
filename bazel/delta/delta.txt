@@ -9414,7 +9414,6 @@ depulse
 dottels
 demasted
 dentirostres
-dogmen
 dautie
 devotionalism
 dulosis
@@ -10920,6 +10919,7 @@ decerebrize
 diruption
 dereference
 deployed
+dogmen
 disable
 denazify
 disabled
