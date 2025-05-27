@@ -4758,7 +4758,6 @@ carpetlayer
 carpetmaking
 clubability
 captivation
-carpetmonger
 carpets
 chant
 concolorous
@@ -21374,6 +21373,7 @@ contessa
 counterpointing
 conciliatory
 carbonless
+carpetmonger
 conciliatorily
 conciliatoriness
 confidentiary

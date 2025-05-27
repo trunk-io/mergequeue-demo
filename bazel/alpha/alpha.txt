@@ -4538,7 +4538,6 @@ advisees
 advisement
 atli
 arranger
-advisership
 adviser
 apparatchiki
 advisers
@@ -17645,6 +17644,7 @@ acrose
 appertainment
 adrostral
 arseniosiderite
+advisership
 apolaustic
 agouta
 appestat
