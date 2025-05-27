@@ -13339,7 +13339,6 @@ delayers
 deaconhood
 decigrams
 defender
-disputant
 disputation
 disconnected
 delightless
@@ -18252,6 +18251,7 @@ dessertspoonful
 dorsimedian
 dunitic
 demonstrationists
+disputant
 deanery
 diagrammeter
 dichromate

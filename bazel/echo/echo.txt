@@ -470,7 +470,6 @@ eveners
 enanthesis
 evector
 ecclesia
-epicarp
 enumerable
 eucommia
 ecclesiarch
@@ -5142,6 +5141,7 @@ endoenzyme
 entresol
 elytrorrhaphy
 endoergic
+epicarp
 encyclic
 erava
 enarration
