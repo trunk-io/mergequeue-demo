@@ -4623,7 +4623,6 @@ bedeafening
 baghouse
 bothriums
 bilberry
-ballant
 bedecked
 bedrid
 bebannered
@@ -12727,6 +12726,7 @@ boxty
 breviate
 barrenwort
 barging
+ballant
 booklear
 brandishing
 booklore
