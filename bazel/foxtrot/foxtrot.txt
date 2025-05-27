@@ -5004,6 +5004,7 @@ facepiece
 floorages
 flamingant
 flong
+fleshiness
 foremarch
 flaminical
 fungate
@@ -11196,7 +11197,6 @@ fasciolae
 fictil
 frittata
 farads
-fleshiness
 firer
 failles
 fieldsman
