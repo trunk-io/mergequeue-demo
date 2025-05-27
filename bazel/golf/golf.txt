@@ -4218,6 +4218,7 @@ grissens
 gypsuming
 goniopholis
 gubbo
+gnu
 gynecocracies
 goby
 gynecocrat
@@ -8632,7 +8633,6 @@ garlopa
 gawkishly
 geotactic
 goosing
-gnu
 groff
 gree
 glean
