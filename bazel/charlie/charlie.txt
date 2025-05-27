@@ -9604,7 +9604,6 @@ cabbalah
 carpodacus
 cardanic
 capos
-checkerwork
 checkhook
 checky
 cityful
@@ -28550,6 +28549,7 @@ creditably
 caracaras
 crediting
 comd
+checkerwork
 creditive
 creditless
 creditor
