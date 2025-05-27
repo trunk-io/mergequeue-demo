@@ -13528,7 +13528,6 @@ cyesis
 cif
 camerawork
 cig
-cigaret
 cigarette
 cystenchyma
 cigarettes
@@ -28960,6 +28959,7 @@ cricketer
 cricketers
 cicindelid
 countervengeance
+cigaret
 cricketlike
 coercibility
 crickle
