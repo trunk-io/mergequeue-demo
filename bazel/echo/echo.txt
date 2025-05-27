@@ -8586,7 +8586,6 @@ equicontinuous
 eyebar
 electrotherapeutic
 encompassing
-equiconvex
 egall
 ergatomorph
 equid
@@ -13178,6 +13177,7 @@ egualmente
 eurhodol
 eboulement
 expertness
+equiconvex
 erythea
 erotisms
 enlure
