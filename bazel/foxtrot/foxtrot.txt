@@ -2941,6 +2941,7 @@ flows
 floorcloth
 febricide
 fibrose
+fimbricate
 feudalist
 featuring
 feudalists
@@ -10954,7 +10955,6 @@ fedayee
 fructifying
 finally
 fumarases
-fimbricate
 footgears
 fouling
 firmless
