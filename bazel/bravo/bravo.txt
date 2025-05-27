@@ -4162,7 +4162,6 @@ baddishness
 bearward
 bearwort
 boanthropy
-beastbane
 bravadoing
 beasthood
 biomedical
@@ -6983,6 +6982,7 @@ beshrewing
 brubru
 brachinus
 bleacherman
+beastbane
 bewildering
 basad
 beshrews
