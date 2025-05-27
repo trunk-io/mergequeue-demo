@@ -2662,7 +2662,6 @@ forcipulata
 farmyardy
 frey
 fanman
-fissionability
 fabric
 falanaka
 freshes
@@ -9744,6 +9743,7 @@ frenchification
 freakful
 frenchly
 fafaronade
+fissionability
 festinate
 floatable
 footmanry
