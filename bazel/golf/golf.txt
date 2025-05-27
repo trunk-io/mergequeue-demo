@@ -140,6 +140,7 @@ greengrocery
 gratelike
 garrot
 geryon
+galipot
 graniteware
 gasthauser
 guarantees
@@ -6287,7 +6288,6 @@ gobo
 gobony
 gaily
 grail
-galipot
 gobstopper
 goyish
 goosenecked
