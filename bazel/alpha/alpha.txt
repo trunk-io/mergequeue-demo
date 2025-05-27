@@ -12393,7 +12393,6 @@ ands
 angara
 ayens
 aurantium
-abhor
 anear
 asphyxy
 aberrometer
@@ -24503,6 +24502,7 @@ auxetic
 anywhereness
 auxiliary
 armsize
+abhor
 aerophile
 auxiliaries
 androcracy
