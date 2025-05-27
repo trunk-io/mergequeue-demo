@@ -6604,7 +6604,6 @@ caxon
 caxton
 campanula
 confluence
-chokidar
 caxtonian
 caza
 cazimi
@@ -30138,6 +30137,7 @@ crucially
 courge
 crucian
 crucianella
+chokidar
 crucians
 cruciately
 cruciating
