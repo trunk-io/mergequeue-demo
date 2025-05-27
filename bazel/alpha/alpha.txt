@@ -5457,7 +5457,6 @@ afterdeal
 afterdeck
 adipomata
 aftereffect
-afterfame
 afterform
 actuarial
 aevum
@@ -15110,6 +15109,7 @@ antiendowment
 aquilon
 antienthusiastic
 ayes
+afterfame
 antienthusiastically
 antienvironmentalism
 austroasiatic
