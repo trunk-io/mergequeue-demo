@@ -8677,6 +8677,7 @@ alleyway
 abled
 alleyways
 anarchs
+adjoins
 argyrythrose
 arseniureted
 alleles
@@ -16350,7 +16351,6 @@ abiological
 amictus
 affiliates
 antiwedge
-adjoins
 ascosporous
 antiworld
 acromyotonia
