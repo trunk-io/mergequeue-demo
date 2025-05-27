@@ -13645,6 +13645,7 @@ anogra
 abp
 askings
 anoint
+antlerite
 anointed
 austere
 anointment
@@ -16368,7 +16369,6 @@ ascidiia
 apathetical
 alkalinisation
 antler
-antlerite
 antlers
 antlia
 accroached
