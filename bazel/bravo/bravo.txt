@@ -1931,6 +1931,7 @@ bandora
 biotechs
 brevipen
 bandore
+baselard
 bronchium
 bandrol
 beatific
@@ -5180,7 +5181,6 @@ burbank
 broiler
 bluebead
 bordereau
-baselard
 befretting
 befume
 buoyage
