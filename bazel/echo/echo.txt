@@ -3143,6 +3143,7 @@ etioporphyrin
 epirrheme
 eloise
 epidermidalization
+exocoelom
 epigonousepigons
 eryx
 euphenics
@@ -12603,7 +12604,6 @@ exocoele
 excusing
 electrophoreses
 exocoelic
-exocoelom
 explant
 epicardium
 electrostatics
