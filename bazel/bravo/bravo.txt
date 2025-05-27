@@ -5703,7 +5703,6 @@ boer
 barony
 biogeochemical
 bibliotaph
-belemnoidea
 beleper
 bicycle
 balandra
@@ -11013,6 +11012,7 @@ babysit
 besmoking
 botryopterid
 blitzkrieging
+belemnoidea
 backstairs
 bladelike
 bargello
