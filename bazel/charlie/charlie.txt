@@ -5174,7 +5174,6 @@ cancriform
 canvaser
 chaprassi
 caseinogen
-caseins
 caseload
 caseloads
 casemaker
@@ -31661,6 +31660,7 @@ collineation
 cushats
 crinkliness
 cushaws
+caseins
 consumed
 cochurchwarden
 civies
