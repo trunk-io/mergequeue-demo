@@ -5690,7 +5690,6 @@ belection
 belecture
 beledgered
 brutedom
-bardiest
 biers
 belemnitic
 ballast
@@ -14736,6 +14735,7 @@ babel
 brightener
 bedimplies
 braxy
+bardiest
 braxies
 brunt
 brazenfacedness
