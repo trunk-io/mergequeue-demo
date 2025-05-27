@@ -4134,7 +4134,6 @@ balminess
 beslimer
 beards
 birthroot
-bearer
 bombazette
 bedrenched
 bras
@@ -15942,6 +15941,7 @@ bronchogenic
 bushwhack
 bellmaster
 bashed
+bearer
 bemourn
 bronchographic
 blooming
