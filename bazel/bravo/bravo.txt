@@ -853,6 +853,7 @@ bunters
 begoniaceae
 batterfang
 bauxites
+bicolour
 bagful
 baggagemaster
 baggager
@@ -18223,7 +18224,6 @@ beshadowing
 brisken
 beyond
 butterfat
-bicolour
 bucranium
 bandages
 bushwhacks
