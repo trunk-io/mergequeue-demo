@@ -3558,7 +3558,6 @@ adenocarcinoma
 adenocarcinomas
 adenocarcinomata
 adenochondroma
-adenochondrosarcoma
 adenochrome
 apts
 andric
@@ -10362,6 +10361,7 @@ alacriously
 almuds
 americanoid
 anise
+adenochondrosarcoma
 americans
 americanum
 amphicarpa
