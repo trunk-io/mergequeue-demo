@@ -743,7 +743,6 @@ greenshank
 gasted
 galvanology
 geomechanics
-galvanomagnetism
 gombeen
 goumi
 genae
@@ -4183,6 +4182,7 @@ gois
 gaetuli
 gynaecology
 gyromagnetic
+galvanomagnetism
 gynaecological
 gabbiness
 gentilesse
