@@ -4834,7 +4834,6 @@ equilibrate
 exhalate
 equitable
 enforcedly
-encourage
 encouraged
 excellences
 epigne
@@ -5536,6 +5535,7 @@ enfeeblish
 effectful
 epilimnetic
 euhemerizing
+encourage
 etherlike
 enfeoffing
 episcopant

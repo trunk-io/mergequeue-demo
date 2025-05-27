@@ -1365,7 +1365,6 @@ flameless
 fineleaf
 foramination
 falser
-fletton
 flukiness
 fyttes
 frothi
@@ -8004,6 +8003,7 @@ flatteur
 fumeless
 forespeaking
 flavorer
+fletton
 foredeep
 forespecified
 fll
