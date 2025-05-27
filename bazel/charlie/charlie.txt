@@ -4024,7 +4024,6 @@ carcinolysin
 cycadiform
 carcinological
 carcinoma
-carcinomas
 carbocyclic
 curtesy
 carcinomata
@@ -10005,6 +10004,7 @@ chemotherapy
 calqued
 chemotherapist
 countersignatures
+carcinomas
 crackjaw
 chemotic
 cephalotaceous
