@@ -4995,6 +4995,7 @@ aeroplanes
 archboutefeu
 aeroplanist
 aeroscepsy
+amanitas
 aurum
 altumal
 aeroscepsis
@@ -9775,7 +9776,6 @@ aloeswood
 amande
 amandine
 amanist
-amanitas
 airwaybill
 amanitine
 aerifying
