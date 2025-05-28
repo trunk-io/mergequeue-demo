@@ -13378,7 +13378,6 @@ aetolian
 armament
 aminase
 anklong
-anklung
 ankoli
 ameban
 awny
@@ -25042,6 +25041,7 @@ allodium
 archical
 ademonist
 allocheiria
+anklung
 antihydrophobic
 algologies
 awoke
