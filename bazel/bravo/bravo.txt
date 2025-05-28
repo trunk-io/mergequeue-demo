@@ -1042,7 +1042,6 @@ bargainwise
 bailieries
 botargos
 bailieship
-bailiff
 biogeographic
 bailiffs
 bailing
@@ -11925,6 +11924,7 @@ barographs
 betutor
 bimeby
 bourns
+bailiff
 botonn
 bogart
 backboneless
