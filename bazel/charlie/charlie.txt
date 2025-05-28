@@ -17395,6 +17395,7 @@ cimline
 coassist
 coassistant
 culpas
+cupola
 coassume
 crystallic
 coassuming
@@ -26174,7 +26175,6 @@ caked
 conatural
 calorimeter
 cosmotellurian
-cupola
 cysteines
 cosmotheist
 cosmozoans
