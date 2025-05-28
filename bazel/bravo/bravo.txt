@@ -315,7 +315,6 @@ bourgeoises
 backarrows
 backbar
 bedright
-backbencher
 backberand
 birkenhead
 biolith
@@ -2780,6 +2779,7 @@ ballistocardiographic
 benzeneazobenzene
 bedcase
 brachyurous
+backbencher
 barong
 backstroking
 blotchiest
