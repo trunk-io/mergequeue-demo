@@ -1503,6 +1503,7 @@ boser
 bacteremia
 borstal
 bistable
+booked
 bedsick
 balladic
 balladised
@@ -16833,7 +16834,6 @@ buffing
 breards
 bufflehead
 breekums
-booked
 buffont
 bloodleaf
 buffoon
