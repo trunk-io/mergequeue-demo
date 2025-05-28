@@ -194,7 +194,6 @@ baroques
 bdrm
 bedin
 bristleless
-batholith
 bipartition
 balneum
 bandido
@@ -13159,6 +13158,7 @@ borrasca
 borrel
 borreria
 blephariglottis
+batholith
 bandoliered
 bonanzas
 borrowable
