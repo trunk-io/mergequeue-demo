@@ -6603,6 +6603,7 @@ digested
 deprecations
 duststorm
 deselected
+dysmerogenesis
 deselecting
 deadborn
 duddie
@@ -8773,7 +8774,6 @@ diatomist
 dot
 debadge
 diaporesis
-dysmerogenesis
 demimonk
 decime
 demythologisation
