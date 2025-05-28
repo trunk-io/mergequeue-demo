@@ -4102,7 +4102,6 @@ aralia
 adod
 aullay
 adolescence
-apanteles
 ascabart
 adolescent
 argentarii
@@ -10033,6 +10032,7 @@ ambiversion
 ambivert
 arrect
 amble
+apanteles
 ambleocarpus
 ambler
 awakes
