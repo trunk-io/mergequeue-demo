@@ -1923,7 +1923,6 @@ consubstantiation
 carcinus
 cinnamomum
 chiliarchy
-camelopardidae
 camelopards
 cataract
 cotterite
@@ -14334,6 +14333,7 @@ celanese
 conrector
 circumgenital
 clubhouse
+camelopardidae
 circumgestation
 circumgyrate
 circumgyratory
