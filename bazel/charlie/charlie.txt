@@ -11895,6 +11895,7 @@ clarina
 chopins
 colory
 coinquinate
+converter
 choplogic
 choplogical
 choregi
@@ -24105,7 +24106,6 @@ commiserator
 converso
 chomper
 conversusi
-converter
 chylocele
 converters
 convertibility
