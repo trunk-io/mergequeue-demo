@@ -5847,7 +5847,6 @@ depositors
 dowel
 dressings
 divestible
-deafforestation
 deposits
 dulcitol
 dichotomously
@@ -15355,6 +15354,7 @@ discountenance
 design
 distilleries
 dismit
+deafforestation
 dolphus
 dryfat
 displeasured
