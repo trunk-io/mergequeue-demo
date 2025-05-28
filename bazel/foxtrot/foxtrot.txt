@@ -4884,7 +4884,6 @@ floor
 furosemide
 fickleness
 fooless
-fwd
 flagstick
 flagworm
 fandangle
@@ -10466,6 +10465,7 @@ filicoid
 fluxional
 frontspieces
 fleet
+fwd
 frontstall
 forstall
 frizes
