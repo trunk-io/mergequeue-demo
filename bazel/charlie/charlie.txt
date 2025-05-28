@@ -11339,6 +11339,7 @@ culicid
 chlorize
 cynocephalus
 chesterbed
+ceresin
 chlormethane
 chloroacetone
 chloroacetophenone
@@ -11791,7 +11792,6 @@ churlhood
 chondriomere
 cadaveric
 chondriosphere
-ceresin
 connaturally
 cacophony
 chondrites
