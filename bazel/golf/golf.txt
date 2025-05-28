@@ -4429,6 +4429,7 @@ gypped
 giardia
 gyp
 gundog
+generaliter
 greffier
 gipsy
 graveyard
@@ -9867,7 +9868,6 @@ goodliest
 gravy
 growth
 gladdens
-generaliter
 gerygone
 garble
 gustless
