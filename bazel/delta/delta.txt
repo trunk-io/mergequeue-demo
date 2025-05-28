@@ -2589,7 +2589,6 @@ demiquaver
 dashes
 decocting
 decoctive
-decocts
 deaminizing
 demishirt
 decoctum
@@ -6120,6 +6119,7 @@ derailing
 demiworld
 derailment
 diplomatism
+decocts
 dynapolis
 december
 derays
