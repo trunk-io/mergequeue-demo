@@ -1665,7 +1665,6 @@ foreannounce
 fipenny
 four
 fdnames
-floretum
 forthcut
 fluible
 flamboyantly
@@ -7857,6 +7856,7 @@ franger
 floppers
 firestorm
 foreprize
+floretum
 forepurpose
 fruitwomen
 fibrochondritis
