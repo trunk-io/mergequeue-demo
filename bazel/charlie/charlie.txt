@@ -1139,7 +1139,6 @@ calcspar
 calcspars
 cotwal
 chlamydophore
-catastatic
 crunches
 chilopoda
 calctufa
@@ -27384,6 +27383,7 @@ courtierly
 chuck
 cabinetmaker
 courtin
+catastatic
 cauldron
 courting
 courtly
