@@ -3715,7 +3715,6 @@ blackthorn
 battings
 battledores
 baldly
-baryes
 branches
 barotraumata
 bronteon
@@ -8217,6 +8216,7 @@ battailous
 bluebuck
 biethnic
 binds
+baryes
 baccar
 beswarming
 burls
