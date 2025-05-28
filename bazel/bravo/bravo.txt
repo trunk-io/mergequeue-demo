@@ -1959,7 +1959,6 @@ bitripartite
 bandwagon
 baahling
 beeway
-bdls
 beworms
 bacteriophage
 bandwidth
@@ -12469,6 +12468,7 @@ braeman
 bulbose
 bondsmen
 bonify
+bdls
 brawniness
 bondstone
 bondswoman
