@@ -6080,6 +6080,7 @@ catlike
 crowns
 catling
 catlings
+cairds
 catlins
 craftsperson
 cryptoporticus
@@ -14793,7 +14794,6 @@ cygnets
 citharoedi
 cholesteryl
 catmint
-cairds
 circumagitate
 celebration
 coruscant
