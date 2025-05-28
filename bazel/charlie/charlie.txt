@@ -17554,6 +17554,7 @@ chrysostomic
 chimneyhead
 coburg
 cobweb
+cerion
 coemployed
 centavos
 cobwebbed
@@ -28156,7 +28157,6 @@ code
 craniorhachischisis
 countercheck
 cranioschisis
-cerion
 conforbably
 cranioscopy
 chimerism
