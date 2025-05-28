@@ -5187,6 +5187,7 @@ flued
 flatulentness
 flangeway
 futter
+fibs
 footpaddery
 francolin
 frozenhearted
@@ -9619,7 +9620,6 @@ featherbone
 forte
 feteritas
 firemaster
-fibs
 forlet
 freeholdership
 fluviograph
