@@ -5000,7 +5000,6 @@ aerostatical
 attainments
 argas
 aerosteam
-aethalioid
 antapex
 aerotaxis
 actinodrome
@@ -16121,6 +16120,7 @@ amphitryon
 antisideric
 antisilverite
 antisymmetry
+aethalioid
 africanization
 allusion
 alloys
