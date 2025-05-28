@@ -1188,7 +1188,6 @@ fets
 fireflower
 foredestiny
 farthingdeal
-fluidics
 frays
 footfeed
 federalese
@@ -6805,6 +6804,7 @@ fess
 farinulent
 fervescent
 flyers
+fluidics
 ferme
 fiendliness
 frontal
