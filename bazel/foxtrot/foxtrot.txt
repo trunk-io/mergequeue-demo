@@ -5419,7 +5419,6 @@ fennel
 friending
 frigefact
 futurity
-forswears
 fleabiting
 fledgeling
 fiendhead
@@ -6554,6 +6553,7 @@ flutteriness
 flagrate
 formlessness
 fluttering
+forswears
 feedboard
 flutterment
 fluviolacustrine
