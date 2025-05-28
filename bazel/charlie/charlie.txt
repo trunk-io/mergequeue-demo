@@ -2689,7 +2689,6 @@ canions
 canis
 canistel
 crevice
-cepa
 canjac
 cank
 circumnavigations
@@ -25791,6 +25790,7 @@ corrodies
 cetene
 corroding
 cyclophorus
+cepa
 cofound
 corrosibleness
 coeltera
