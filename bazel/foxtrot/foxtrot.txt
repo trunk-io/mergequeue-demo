@@ -5689,7 +5689,6 @@ freeloader
 forewarns
 forhooie
 forevouched
-forfeitures
 flingy
 funded
 flings
@@ -7895,6 +7894,7 @@ floes
 fetticus
 forewarned
 feiseanna
+forfeitures
 featherworker
 foresee
 faitor
