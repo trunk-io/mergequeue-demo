@@ -3678,6 +3678,7 @@ befrilled
 bisabol
 bumboatman
 booklover
+bedboard
 baste
 bucketful
 bohor
@@ -10473,7 +10474,6 @@ blasphemes
 blasphemy
 blasphemies
 blasphemous
-bedboard
 blasphemousness
 bismarckian
 buttonhole
