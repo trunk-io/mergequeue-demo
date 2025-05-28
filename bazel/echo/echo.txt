@@ -2398,7 +2398,6 @@ episcopalianize
 ensorcell
 events
 ethnarchies
-eusol
 entrail
 ecraseur
 emplection
@@ -12183,6 +12182,7 @@ emboldened
 ethmoturbinate
 excussed
 estranges
+eusol
 eggar
 epigraphically
 eucolite
