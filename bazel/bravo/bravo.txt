@@ -442,7 +442,6 @@ backpedaling
 backpiece
 backplane
 brachiostrophosis
-backpointer
 bushwas
 backrush
 backscatter
@@ -13922,6 +13921,7 @@ bowstrung
 behavior
 bowtell
 barographic
+backpointer
 byspell
 broadened
 bargelli
