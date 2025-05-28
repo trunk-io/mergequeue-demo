@@ -6262,7 +6262,6 @@ entered
 endplate
 enqueues
 excipule
-entocoelic
 enticeable
 exor
 elongations
@@ -10465,6 +10464,7 @@ etiological
 europeanism
 enlacing
 etiologist
+entocoelic
 emetology
 ettling
 euripi
