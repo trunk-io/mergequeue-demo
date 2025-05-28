@@ -8459,7 +8459,6 @@ dialonian
 dorsiventrally
 dials
 ds
-describable
 dithalous
 duopsony
 dialuric
@@ -16339,6 +16338,7 @@ downside
 dephlegmatize
 dibbler
 downsitting
+describable
 dragonism
 dainteth
 diavolo
