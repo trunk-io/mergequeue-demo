@@ -5517,7 +5517,6 @@ globes
 gangplanks
 glycidol
 gorsier
-gastrocnemian
 gowning
 gad
 germen
@@ -9009,6 +9008,7 @@ gatehouse
 gramashes
 granatum
 gleyde
+gastrocnemian
 gorhens
 gastroenterologic
 gaper
