@@ -8585,7 +8585,6 @@ enharmonic
 equibalanced
 electrodialitic
 equicohesive
-exterioration
 equicontinuous
 eyebar
 electrotherapeutic
@@ -13945,6 +13944,7 @@ exotery
 extraoral
 extraordinary
 enduement
+exterioration
 eschews
 elaborateness
 embryogenic
