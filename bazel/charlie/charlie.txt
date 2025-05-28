@@ -3549,7 +3549,6 @@ caption
 captioned
 convenably
 captioning
-captionless
 captiousness
 captivance
 cretion
@@ -29648,6 +29647,7 @@ cerebella
 conductress
 crocus
 crocused
+captionless
 commonwealths
 casemate
 crocuses
