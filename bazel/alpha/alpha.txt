@@ -14367,7 +14367,6 @@ anthracosaurus
 anthracosis
 abox
 anthracothere
-anthracotheriidae
 anthracotherium
 anthracotic
 anthradiol
@@ -17890,6 +17889,7 @@ appro
 amate
 approach
 aristodemocracy
+anthracotheriidae
 approachable
 approached
 aclemon
