@@ -935,6 +935,7 @@ exarillate
 ectromelus
 efreet
 equipping
+endowments
 endorsements
 electrophoretic
 ectropion
@@ -11061,7 +11062,6 @@ epipial
 eyne
 elderwomen
 episcopacies
-endowments
 eliminator
 eurythmics
 epiphenomena
