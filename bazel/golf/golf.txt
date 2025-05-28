@@ -7618,6 +7618,7 @@ geophagy
 gnathometer
 germane
 gyppery
+greenlet
 gleary
 gardeny
 grader
@@ -8728,7 +8729,6 @@ glommox
 galyak
 guacharoes
 gymnastically
-greenlet
 gorge
 greenling
 grogram
