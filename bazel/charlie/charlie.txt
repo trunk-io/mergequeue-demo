@@ -4111,7 +4111,6 @@ cornmaster
 condalia
 cardin
 cardinal
-costoxiphoid
 cardinalates
 cardinalfish
 croslet
@@ -11590,6 +11589,7 @@ chokra
 crossosoma
 catagenesis
 chola
+costoxiphoid
 cholaemia
 cholagogic
 cholalic
