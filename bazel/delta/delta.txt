@@ -5981,7 +5981,6 @@ deprogrammings
 deprograms
 dropforged
 deprome
-disuniformity
 demisphere
 drawling
 deprostrate
@@ -15560,6 +15559,7 @@ derobe
 designators
 dement
 dewanny
+disuniformity
 donk
 doloriferous
 donkeyman
