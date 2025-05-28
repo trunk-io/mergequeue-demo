@@ -1608,7 +1608,6 @@ aneling
 accouterment
 acemetic
 attouchement
-accouters
 accoutre
 attire
 aminobenzamide
@@ -6023,6 +6022,7 @@ agists
 agit
 agitability
 archilowe
+accouters
 agitable
 agitant
 agitate
