@@ -4646,7 +4646,6 @@ aegilops
 abolishing
 aegina
 aeginetan
-aeginetic
 aegipan
 aegyptilla
 agonisingly
@@ -9134,6 +9133,7 @@ afterchance
 almanacs
 almander
 almandine
+aeginetic
 almandines
 almanner
 alme
