@@ -17540,7 +17540,6 @@ cobles
 cobleskill
 cobless
 cobloaf
-chunters
 castlery
 cobnuts
 cobola
@@ -19946,6 +19945,7 @@ colortype
 comitium
 cuscuses
 comitje
+chunters
 coml
 confessionals
 conjugating
