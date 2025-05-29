@@ -3530,6 +3530,7 @@ deprivate
 defrayable
 disembarrassment
 defrayals
+dismissable
 decadarchy
 defrayed
 doom
@@ -12875,7 +12876,6 @@ dreyfusist
 disminion
 duumviral
 doomsters
-dismissable
 decreeable
 driftway
 dyebeck
