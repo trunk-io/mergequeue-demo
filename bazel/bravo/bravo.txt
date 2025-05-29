@@ -2374,7 +2374,6 @@ barcoo
 bemoisten
 bard
 besplash
-beltways
 bardcraft
 barde
 beleve
@@ -2544,6 +2543,7 @@ begster
 birk
 backlists
 brained
+beltways
 burghalpenny
 bloodberry
 bardel
