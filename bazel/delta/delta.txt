@@ -10075,7 +10075,6 @@ deled
 damply
 dedal
 dogfought
-decasyllable
 definitization
 digoneutic
 dignified
@@ -18638,6 +18637,7 @@ dutymonger
 deactivations
 deodorizer
 disalignment
+decasyllable
 denunciatively
 disforest
 drowsily
