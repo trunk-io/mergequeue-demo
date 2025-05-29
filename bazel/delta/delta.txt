@@ -3537,7 +3537,6 @@ discommoning
 deprivate
 defrayable
 disembarrassment
-defrayals
 dismissable
 decadarchy
 defrayed
@@ -11140,6 +11139,7 @@ deliciously
 descriptors
 deaminated
 denaturised
+defrayals
 discographic
 disassent
 disassimilate
