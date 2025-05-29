@@ -3735,6 +3735,7 @@ furfuryl
 fricti
 flyable
 found
+fistulas
 fittiness
 finales
 furling
@@ -10095,7 +10096,6 @@ functions
 fondant
 finger
 fritz
-fistulas
 furnisher
 foozling
 farmhands
