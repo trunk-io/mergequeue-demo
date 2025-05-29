@@ -2694,7 +2694,6 @@ enmesh
 enduros
 electrotherapy
 emigre
-electrotherapist
 electrotheraputic
 emyds
 electrothermal
@@ -11931,6 +11930,7 @@ ecole
 endamebas
 exchanges
 eristical
+electrotherapist
 encuirassed
 exocataphoria
 edgeless
