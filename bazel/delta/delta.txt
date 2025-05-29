@@ -9046,7 +9046,6 @@ dicolon
 disbar
 dudine
 doornboom
-dicotyledon
 dicotyledonous
 dicotyles
 disruption
@@ -12842,6 +12841,7 @@ dirhem
 dismarket
 dervishhood
 dunnages
+dicotyledon
 devotionally
 dominial
 destructor
