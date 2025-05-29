@@ -448,7 +448,6 @@ backscatter
 backscattered
 backscattering
 bandobust
-bioscopies
 borecole
 backscraper
 backset
@@ -2829,6 +2828,7 @@ barouni
 baroxyton
 beebread
 bawrel
+bioscopies
 bitterbump
 buttonmold
 barbery
