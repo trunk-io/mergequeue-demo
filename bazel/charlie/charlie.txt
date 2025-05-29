@@ -15152,7 +15152,6 @@ circumtropical
 coronillin
 chinsed
 clacker
-clackers
 clackety
 clacking
 clacks
@@ -19772,6 +19771,7 @@ classifiers
 contemplance
 cloudburst
 combiner
+clackers
 combiners
 combines
 cappie
