@@ -3341,7 +3341,6 @@ ferretto
 folklorist
 featherlessness
 fioritura
-faction
 fulgide
 feture
 flabbergastation
@@ -8210,6 +8209,7 @@ festering
 fluidize
 floroscope
 fluidally
+faction
 forficula
 fathomableness
 fetors
