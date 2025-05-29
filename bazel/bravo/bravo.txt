@@ -12737,7 +12737,6 @@ bastardisation
 bhoots
 bookmobiles
 baroni
-barwise
 burlesk
 bookpress
 bookracks
@@ -13951,6 +13950,7 @@ boxman
 bickiron
 boxroom
 bromatium
+barwise
 bacteriofluorescin
 backstage
 borghese
