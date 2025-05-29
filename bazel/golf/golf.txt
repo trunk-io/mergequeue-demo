@@ -2741,7 +2741,6 @@ gurr
 gemeinde
 gamphrel
 gaunt
-gentiledom
 growling
 gimmor
 gascoigny
@@ -7038,6 +7037,7 @@ gesnerian
 garbell
 garnetberry
 grumpily
+gentiledom
 gercrow
 grottos
 glossorrhaphy
