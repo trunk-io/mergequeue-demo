@@ -10869,7 +10869,6 @@ ammos
 ammotherapy
 ammu
 antipepsin
-ammunition
 amnesia
 amnesiac
 amnesiacs
@@ -19222,6 +19221,7 @@ amphipneust
 alumina
 areach
 attractions
+ammunition
 autotypes
 areal
 atuami
