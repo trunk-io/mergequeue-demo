@@ -2669,7 +2669,6 @@ ensurer
 electrosurgery
 enventual
 epididymovasostomy
-electrosurgically
 epitimesis
 esophagism
 electrotactic
@@ -7231,6 +7230,7 @@ escheve
 entophytous
 endosomes
 equilobate
+electrosurgically
 encase
 ectomeres
 edwards
