@@ -2945,7 +2945,6 @@ galliardness
 geoids
 gloriole
 gendered
-geolatry
 galatine
 ghetti
 gasifier
@@ -5841,6 +5840,7 @@ gardenless
 gardon
 griddled
 gasfiring
+geolatry
 grandesque
 gravimetric
 goliards
