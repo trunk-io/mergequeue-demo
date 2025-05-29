@@ -4761,6 +4761,7 @@ enclosures
 emprent
 emmenia
 enterotomy
+epiopticon
 excusatory
 endocarpic
 encode
@@ -7999,7 +8000,6 @@ eriosoma
 ecological
 elitism
 exorganic
-epiopticon
 embrasured
 epiotic
 exopterygota
