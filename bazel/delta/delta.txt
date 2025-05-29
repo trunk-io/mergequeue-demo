@@ -2495,7 +2495,6 @@ dovekies
 duckwing
 deckle
 disslander
-depletable
 dulls
 diatropism
 dishonourary
@@ -9344,6 +9343,7 @@ diplomat
 dietotherapy
 dietotoxic
 detersive
+depletable
 diluvions
 depilation
 dietrichite
