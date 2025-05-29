@@ -1551,7 +1551,6 @@ faurd
 feedbox
 flippant
 foodless
-faustian
 fanfaron
 foulish
 foreshift
@@ -8973,6 +8972,7 @@ foursquare
 feature
 foursquareness
 functionalistic
+faustian
 foliating
 fourteener
 fourteenths
