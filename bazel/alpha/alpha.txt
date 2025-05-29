@@ -2748,7 +2748,6 @@ acrock
 amyelencephalia
 acrospore
 acroclinium
-acrocomia
 acrodactyla
 acrodermatitis
 acrodynia
@@ -13659,6 +13658,7 @@ anointments
 awiggle
 articulation
 addax
+acrocomia
 anolis
 aunt
 absolutization
