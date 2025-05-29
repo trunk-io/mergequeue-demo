@@ -7752,7 +7752,6 @@ enslaved
 ensure
 emendable
 edelweisses
-epidialogue
 entelam
 epidiascope
 escallops
@@ -12026,6 +12025,7 @@ etheostomoid
 equivoke
 enamelled
 esotery
+epidialogue
 exclusivistic
 exclusivity
 effluents
