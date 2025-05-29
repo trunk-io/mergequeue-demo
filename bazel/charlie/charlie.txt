@@ -7979,7 +7979,6 @@ ceti
 cetic
 cocytus
 ceticide
-cetid
 chitinization
 cetyl
 cetylic
@@ -29932,6 +29931,7 @@ crosstrack
 crosstree
 crossway
 crossways
+cetid
 calcification
 crossweb
 cyclopaedic
