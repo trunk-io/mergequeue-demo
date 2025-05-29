@@ -1539,6 +1539,7 @@ egg
 ethmoid
 endosternum
 eggbeaters
+exradio
 episcopised
 evoke
 embow
@@ -7821,7 +7822,6 @@ eggy
 ethnobotany
 endearedly
 eburnean
-exradio
 epigyne
 endotoxic
 extenuation
