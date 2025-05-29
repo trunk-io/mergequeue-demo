@@ -4688,7 +4688,6 @@ aeolidae
 ambrotype
 aeolis
 aeolist
-averin
 aeolotropy
 aeolus
 artichokes
@@ -17153,6 +17152,7 @@ anhydrite
 apolar
 apolarity
 amphidiploid
+averin
 achiote
 apolegamic
 apolysis
