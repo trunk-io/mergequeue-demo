@@ -1135,7 +1135,6 @@ benedictine
 bushwa
 betaken
 baiters
-baccae
 baitfish
 ballard
 baiting
@@ -13515,6 +13514,7 @@ bouch
 bouchaleen
 blacksmith
 boucharde
+baccae
 branchiform
 blundered
 bielid
