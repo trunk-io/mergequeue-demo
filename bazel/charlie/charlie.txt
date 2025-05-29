@@ -2825,7 +2825,6 @@ chinafish
 colius
 canoeist
 canoeload
-canoeman
 canoes
 cardiogenesis
 cryptoanalyst
@@ -29534,6 +29533,7 @@ chontal
 cousin
 congenite
 confoundedness
+canoeman
 criticiser
 criticising
 criticisingly
