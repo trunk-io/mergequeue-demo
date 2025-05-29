@@ -1309,7 +1309,6 @@ fixage
 fancywork
 florinda
 frigs
-festoons
 foins
 flancards
 footlocker
@@ -11684,6 +11683,7 @@ floodometer
 frowsty
 flibustier
 furcates
+festoons
 flocculate
 feminines
 felids
