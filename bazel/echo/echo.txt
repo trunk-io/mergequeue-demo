@@ -2333,7 +2333,6 @@ epistroma
 electrocardiogram
 ever
 electrocardiographic
-electrocardiographically
 euphuistic
 explorational
 entocele
@@ -2907,6 +2906,7 @@ extremity
 enflamed
 emotionalist
 extemporise
+electrocardiographically
 elfland
 entelodon
 elflocks
