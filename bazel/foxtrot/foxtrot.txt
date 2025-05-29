@@ -3497,7 +3497,6 @@ fallback
 fighteress
 fighting
 formboard
-floriparous
 figo
 favillae
 fumaroid
@@ -7033,6 +7032,7 @@ fonts
 fusula
 farci
 fists
+floriparous
 francis
 floater
 fimbriae
