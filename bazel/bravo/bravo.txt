@@ -2920,6 +2920,7 @@ billfish
 barrelmaker
 boules
 brassavola
+bracketed
 barrelwise
 barren
 barretor
@@ -16851,7 +16852,6 @@ bathysophic
 buffoonish
 bungle
 birostrated
-bracketed
 bootheel
 buffoonishness
 benchwork
