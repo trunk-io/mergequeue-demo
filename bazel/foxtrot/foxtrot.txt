@@ -1358,7 +1358,6 @@ features
 frogginess
 fossildom
 fendering
-forfars
 fbi
 fellani
 fervour
@@ -1383,6 +1382,7 @@ fatigable
 favorable
 fatigableness
 fazendas
+forfars
 frock
 fanning
 fatigue
