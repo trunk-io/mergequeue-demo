@@ -5000,6 +5000,7 @@ bibation
 bindweb
 ballonette
 byte
+bilinguist
 barukhzy
 beetewk
 barways
@@ -8518,7 +8519,6 @@ bilinguar
 balks
 berycine
 bijoux
-bilinguist
 byliny
 bebouldered
 bounties
