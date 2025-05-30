@@ -3385,7 +3385,6 @@ cappae
 capparid
 convivialist
 capparis
-cordeliere
 capped
 cappelletti
 capper
@@ -25512,6 +25511,7 @@ chasidim
 coroneted
 chaise
 crutchlike
+cordeliere
 coronets
 coronetted
 crushability
