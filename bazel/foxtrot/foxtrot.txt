@@ -733,7 +733,6 @@ famp
 famuli
 frustrater
 fana
-fcs
 feoffment
 fluxion
 feministics
@@ -1841,6 +1840,7 @@ flaccid
 feloid
 febrile
 forrue
+fcs
 fibrinogenically
 fluidizer
 farthermore
