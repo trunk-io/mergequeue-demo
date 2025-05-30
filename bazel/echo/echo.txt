@@ -340,7 +340,6 @@ estops
 eastre
 extents
 enturret
-eat
 empresse
 embleming
 eagerer
@@ -7293,6 +7292,7 @@ etherealize
 emulous
 eimeria
 enterpillar
+eat
 enigmatize
 eoghanacht
 etchers
