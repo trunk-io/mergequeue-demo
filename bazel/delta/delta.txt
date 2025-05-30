@@ -2796,7 +2796,6 @@ dugal
 dop
 dorsalward
 disharmonize
-decrements
 decremeter
 dicyemida
 demarches
@@ -15695,6 +15694,7 @@ demonstrator
 discased
 distemperance
 dopey
+decrements
 darking
 doper
 doorposts
