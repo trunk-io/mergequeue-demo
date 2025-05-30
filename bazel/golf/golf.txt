@@ -5061,6 +5061,7 @@ glareproof
 griskin
 grainsmen
 glassteel
+gleeman
 grenadine
 goldeneye
 greesagh
@@ -6795,7 +6796,6 @@ graille
 gaberdines
 gelsemic
 geohydrologic
-gleeman
 grandtotal
 graynesses
 garrisoning
