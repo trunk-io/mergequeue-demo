@@ -2956,6 +2956,7 @@ eligibility
 epistasy
 eligibles
 entrecotes
+excoct
 equipede
 elbowchair
 enjoining
@@ -4065,7 +4066,6 @@ emydian
 ethological
 ecdysis
 energetistic
-excoct
 excitant
 exogenous
 eellike
