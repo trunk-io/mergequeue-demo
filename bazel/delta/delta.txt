@@ -419,7 +419,6 @@ dairymaids
 devaluate
 dithered
 dorsoanterior
-dairyman
 drinker
 dairywomen
 descanting
@@ -1566,6 +1565,7 @@ direfulness
 deadness
 deadnesses
 denunciating
+dairyman
 deadpanned
 deadpans
 depayse
