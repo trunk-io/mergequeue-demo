@@ -3342,7 +3342,6 @@ eulachons
 essentialities
 equus
 esquirearchy
-emoted
 egal
 explorator
 excursioner
@@ -11737,6 +11736,7 @@ eveque
 episcopise
 easier
 examinee
+emoted
 epithelization
 edgerman
 ephraim
