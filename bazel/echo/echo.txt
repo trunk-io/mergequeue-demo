@@ -3853,6 +3853,7 @@ emigration
 equivote
 echeneis
 eternal
+entomotomy
 electrotonus
 extraboldface
 eminencies
@@ -6887,7 +6888,6 @@ endamageable
 epispore
 ectocardia
 endometria
-entomotomy
 evaporable
 equipments
 embelif
