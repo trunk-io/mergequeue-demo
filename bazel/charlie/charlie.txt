@@ -6398,7 +6398,6 @@ caustification
 caustifying
 campfires
 casefies
-columnwise
 cautela
 chancre
 cautelous
@@ -10157,6 +10156,7 @@ coauthorship
 chevachee
 chevage
 careened
+columnwise
 cheval
 chevalet
 chevalets
