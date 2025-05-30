@@ -12643,7 +12643,6 @@ defaultant
 descendentalist
 descrial
 duplicidentate
-disjointly
 dechemicalization
 disjunctive
 disjunctively
@@ -14527,6 +14526,7 @@ diviner
 divinesse
 demiatheist
 decarburised
+disjointly
 demotic
 dyadic
 divinister
