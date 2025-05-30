@@ -9819,7 +9819,6 @@ chelator
 chelerythrine
 collisions
 chelicer
-chelicerate
 cysts
 chelide
 csardas
@@ -11682,6 +11681,7 @@ choleric
 cervelases
 choleriform
 cholerigenous
+chelicerate
 cholerine
 choleroid
 cholerophobia
