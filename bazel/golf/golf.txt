@@ -2142,6 +2142,7 @@ gerontine
 gdinfo
 guatuso
 gnomide
+golfings
 gds
 gaycat
 gastrotomy
@@ -6442,7 +6443,6 @@ gannister
 gastraead
 guarded
 gie
-golfings
 guanare
 gapeworms
 gurry
