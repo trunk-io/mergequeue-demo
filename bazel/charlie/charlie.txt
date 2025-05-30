@@ -7209,6 +7209,7 @@ caracas
 centranth
 centrarchid
 centrarchoid
+clar
 compare
 centraxonial
 centre
@@ -20884,7 +20885,6 @@ compotor
 compounded
 cotarnin
 carbonyls
-clar
 considerative
 compoundedness
 compounder
