@@ -4378,7 +4378,6 @@ flavo
 frogfishes
 fathomed
 fishability
-froggier
 feltwork
 flybook
 fixion
@@ -10585,6 +10584,7 @@ fussock
 formagen
 fattish
 fusileer
+froggier
 fluorimetry
 fragmental
 forks
