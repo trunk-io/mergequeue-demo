@@ -6118,7 +6118,6 @@ chelonidae
 chimbley
 cats
 catskill
-coll
 catso
 catsos
 catspaw
@@ -12110,6 +12109,7 @@ chorusses
 cathedralic
 chorussing
 creatively
+coll
 cymbalo
 cerfoil
 clansman
