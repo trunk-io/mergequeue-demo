@@ -6924,7 +6924,6 @@ dichromasy
 decanter
 desoxyribonucleic
 dialled
-desoxyribose
 despair
 delirous
 drunken
@@ -14335,6 +14334,7 @@ ditrochean
 dynastical
 deanship
 densimeter
+desoxyribose
 dishallucination
 decimestrial
 demerse

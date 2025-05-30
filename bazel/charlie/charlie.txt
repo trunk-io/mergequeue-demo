@@ -17526,7 +17526,6 @@ cobles
 cobleskill
 cobless
 cobloaf
-castlery
 cobnuts
 cobola
 ceratectomy
@@ -23900,6 +23899,7 @@ contumelious
 contund
 crippledom
 contused
+castlery
 casinos
 contuses
 contusion
