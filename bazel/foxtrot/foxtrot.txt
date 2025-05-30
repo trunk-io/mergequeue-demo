@@ -6837,7 +6837,6 @@ flexibleness
 format
 favoringly
 foliate
-foliation
 favourableness
 facemaking
 fistiness
@@ -10363,6 +10362,7 @@ footgeld
 firs
 feigning
 foxgloves
+foliation
 frontbencher
 footlining
 foreprize
