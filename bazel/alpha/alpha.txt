@@ -9974,7 +9974,6 @@ amberite
 amicron
 artiller
 arrival
-acridid
 amberjacks
 atraumatic
 allege
@@ -10496,6 +10495,7 @@ adscript
 amidins
 arret
 amidism
+acridid
 armenians
 adfrozen
 aeolistic
