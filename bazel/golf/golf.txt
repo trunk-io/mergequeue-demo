@@ -753,6 +753,7 @@ genae
 galvanoplasty
 grovers
 gravitater
+gestapos
 gunbearer
 gerkin
 galvanopuncture
@@ -3426,7 +3427,6 @@ gastrologer
 geodynamics
 genoa
 geometrid
-gestapos
 gallanting
 glasgow
 gallophobia
