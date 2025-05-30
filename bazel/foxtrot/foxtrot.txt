@@ -1401,7 +1401,6 @@ filecard
 fatiscent
 fondlings
 fullword
-fatless
 filicology
 fishboat
 fatly
@@ -4276,6 +4275,7 @@ forenoted
 flowerpecker
 fetichist
 foreyard
+fatless
 flail
 fireward
 forehead
