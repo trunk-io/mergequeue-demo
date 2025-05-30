@@ -2186,7 +2186,6 @@ fratercula
 farmhouse
 fumulus
 fluster
-feudalism
 felts
 forthtell
 feltwort
@@ -6227,6 +6226,7 @@ fluffiness
 flexography
 flugel
 frettingly
+feudalism
 fadme
 firming
 flitted
