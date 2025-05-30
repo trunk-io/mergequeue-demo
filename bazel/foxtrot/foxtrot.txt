@@ -1115,7 +1115,6 @@ firehalls
 figulate
 flyings
 farruca
-freelance
 farseer
 frenchwoman
 futile
@@ -9264,6 +9263,7 @@ frapler
 forename
 footmenfootpad
 fungologist
+freelance
 fumarine
 fledgling
 futuramic
