@@ -10056,7 +10056,6 @@ antiformant
 amblycephalus
 amblychromatic
 amblydactyla
-amblygon
 amblygonal
 allergology
 amblygonite
@@ -12157,6 +12156,7 @@ anchieutectic
 affectuous
 allbone
 anchimonomineral
+amblygon
 anchisaurus
 aegirite
 antitradition
