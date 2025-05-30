@@ -1342,7 +1342,6 @@ backdrops
 borderlands
 balbusard
 burlap
-bluenose
 brayed
 butterbump
 betwixen
@@ -4479,6 +4478,7 @@ beira
 becrippling
 bronchiectatic
 bisulphite
+bluenose
 becroak
 bedead
 becross

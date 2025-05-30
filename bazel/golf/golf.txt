@@ -4079,7 +4079,6 @@ gimleting
 gesnerad
 golds
 geotaxes
-geniculum
 gettysburg
 gargoyle
 gymmal
@@ -4171,6 +4170,7 @@ gleesome
 ganef
 grotesquery
 gulflike
+geniculum
 gossy
 gymnotus
 gest
