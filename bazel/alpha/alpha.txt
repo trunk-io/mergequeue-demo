@@ -1376,6 +1376,7 @@ appointable
 agapanthus
 accept
 acceptability
+agonist
 amintor
 acceptance
 aggressions
@@ -6177,7 +6178,6 @@ agonic
 agonise
 axillas
 agonised
-agonist
 agonistarch
 aesthetics
 agonistics
