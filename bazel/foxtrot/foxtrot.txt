@@ -1112,7 +1112,6 @@ flyings
 farruca
 farseer
 frenchwoman
-futile
 frondescence
 foughten
 farsighted
@@ -3896,6 +3895,7 @@ flabbergastingly
 flashlamps
 finaglers
 finalization
+futile
 filleting
 feckless
 finalized
