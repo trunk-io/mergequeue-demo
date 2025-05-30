@@ -1603,6 +1603,7 @@ cytopathology
 conveyor
 calmecac
 courtrooms
+collectibles
 calmed
 cylindraceous
 centrobaric
@@ -14150,7 +14151,6 @@ churchism
 cypselomorphic
 cypselous
 cypselus
-collectibles
 collinsia
 cyptozoic
 cedi
