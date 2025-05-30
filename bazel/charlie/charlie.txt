@@ -8595,6 +8595,7 @@ chemosterilants
 chanced
 categorical
 chanceful
+cadrans
 chancefulness
 chancey
 chanceled
@@ -21430,7 +21431,6 @@ conclusionally
 conclusive
 coexistency
 cnidophorous
-cadrans
 conclusively
 compassionated
 criterion
