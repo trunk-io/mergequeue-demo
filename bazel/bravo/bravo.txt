@@ -850,6 +850,7 @@ batterfang
 bauxites
 bicolour
 bagful
+barasingha
 baggagemaster
 baggager
 benzidin
@@ -2185,7 +2186,6 @@ bertat
 backflash
 briscola
 bararite
-barasingha
 barathea
 barbellate
 bibbled
