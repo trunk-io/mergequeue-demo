@@ -2755,7 +2755,6 @@ gyne
 garni
 guzzledom
 gyges
-griper
 guemul
 guzmania
 garblings
@@ -4871,6 +4870,7 @@ glaga
 geologies
 glagolic
 glaieul
+griper
 glossotomy
 geodal
 glycerinize
