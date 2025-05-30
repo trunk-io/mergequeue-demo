@@ -3090,6 +3090,7 @@ bucrnia
 bloodcurdler
 benben
 baseborn
+becher
 birdlime
 basebred
 brawnier
@@ -8778,7 +8779,6 @@ banjos
 broker
 binding
 bookkeep
-becher
 bindingness
 bekissing
 basoche
