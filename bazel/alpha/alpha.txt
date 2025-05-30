@@ -2970,7 +2970,6 @@ actinocarpic
 actinochemistry
 antifoaming
 actinocrinid
-archcount
 alalunga
 antireligious
 actinocrinite
@@ -4246,6 +4245,7 @@ anaptychi
 adrenin
 addu
 adrenitis
+archcount
 adrenochrome
 adrenocortical
 adrenocorticotrophic
