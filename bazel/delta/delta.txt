@@ -4139,7 +4139,6 @@ disreason
 delimitating
 delimitation
 delimiter
-discommune
 deviational
 displumed
 departments
@@ -11660,6 +11659,7 @@ dinder
 discoplasm
 denser
 discursative
+discommune
 denominates
 disburgeon
 divell
