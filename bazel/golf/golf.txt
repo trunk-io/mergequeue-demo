@@ -5587,7 +5587,6 @@ giftlike
 gl
 groundwall
 goldseed
-ghostlet
 guayroto
 gallinules
 glochid
@@ -10017,6 +10016,7 @@ girgashite
 gaffer
 glastonbury
 graybeard
+ghostlet
 grf
 gigantostracous
 goujay
