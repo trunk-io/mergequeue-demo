@@ -6307,6 +6307,7 @@ fixtureless
 fourb
 flunkyish
 flunkyize
+fuzziness
 forefingers
 ferments
 fumigatorium
@@ -11518,7 +11519,6 @@ furthered
 fibrolipomatous
 ficklewise
 finalis
-fuzziness
 fireflaught
 filmsetting
 forleave
