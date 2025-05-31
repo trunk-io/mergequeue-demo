@@ -1665,7 +1665,6 @@ fealty
 fumigates
 forebrace
 flacourtiaceous
-fimbles
 folksong
 flemer
 forgrow
@@ -10019,6 +10018,7 @@ fruitier
 fringent
 fringetail
 foreplot
+fimbles
 farmerlike
 frogskin
 fibrocystoma
