@@ -23097,7 +23097,6 @@ carraways
 conspiratress
 conspire
 curiality
-const
 constablery
 carefulness
 cowgate
@@ -24262,6 +24261,7 @@ constantinople
 convulsion
 conjugates
 conjuncture
+const
 criminated
 cerebritis
 crescendi
