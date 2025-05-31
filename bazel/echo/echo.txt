@@ -3405,6 +3405,7 @@ embassy
 eustomatous
 equivocated
 episyllogism
+edeotomy
 eucirripedia
 embogue
 electrophobia
@@ -11366,7 +11367,6 @@ emergers
 extenders
 exigency
 exercises
-edeotomy
 exotropic
 electrodesiccation
 evenforth
