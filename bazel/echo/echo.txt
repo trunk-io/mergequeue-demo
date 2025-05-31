@@ -3222,7 +3222,6 @@ eluents
 elul
 epidemic
 erects
-elusion
 enclitical
 elided
 encephalotomy
@@ -11780,6 +11779,7 @@ exareolate
 extrospective
 exorcises
 epirot
+elusion
 ensignship
 exasperate
 equicrural
