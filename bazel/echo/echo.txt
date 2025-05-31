@@ -4648,7 +4648,6 @@ evolve
 eremiteship
 enchoric
 encyclopedias
-eriogonum
 ekoi
 entanglers
 exuberance
@@ -8611,6 +8610,7 @@ espavel
 equielliptical
 equigranular
 equilateral
+eriogonum
 epotation
 equilaterally
 equilibrant
