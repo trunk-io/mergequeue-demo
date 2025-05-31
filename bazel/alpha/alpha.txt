@@ -2200,7 +2200,6 @@ aerosolizing
 achromatope
 achromatophile
 achromatophilia
-antipathies
 achromatopia
 achromatopsy
 apologizes
@@ -14509,6 +14508,7 @@ anthroponomics
 anthroponomist
 allect
 anthropopathy
+antipathies
 areas
 aquaplaned
 aestival
