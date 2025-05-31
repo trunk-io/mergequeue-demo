@@ -523,6 +523,7 @@ feodum
 fishbone
 fakirs
 falbelo
+fioretti
 firerooms
 frowny
 foresense
@@ -11610,7 +11611,6 @@ forlornly
 for
 fetch
 forcarve
-fioretti
 frough
 frack
 forewinning
