@@ -3418,7 +3418,6 @@ gallberry
 gastrologer
 geodynamics
 genoa
-geometrid
 gallanting
 glasgow
 gallophobia
@@ -4505,6 +4504,7 @@ girder
 gil
 generalate
 goosebill
+geometrid
 grating
 goupen
 grasscutter
