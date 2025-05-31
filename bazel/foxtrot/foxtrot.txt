@@ -1154,7 +1154,6 @@ fidelis
 flax
 fatally
 fearbabe
-forgotten
 feebleminded
 feller
 fairsome
@@ -10744,6 +10743,7 @@ footrope
 fleeing
 flagstaves
 fletches
+forgotten
 frustum
 frutage
 faithlessly
