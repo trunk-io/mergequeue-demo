@@ -628,7 +628,6 @@ floodways
 fleshes
 forehand
 folly
-flambeaus
 farrantly
 forebemoan
 forelimb
@@ -7542,6 +7541,7 @@ foredated
 folliful
 flubs
 fogram
+flambeaus
 filtrate
 felicities
 factual
