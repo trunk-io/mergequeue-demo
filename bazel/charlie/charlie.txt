@@ -6608,7 +6608,6 @@ calamitoid
 cd
 cdf
 carid
-chemosorb
 cheroot
 cdg
 cdr
@@ -10338,6 +10337,7 @@ chichling
 chick
 chelidosaurus
 chickabiddy
+chemosorb
 cachoeira
 cyanidation
 comfortable
