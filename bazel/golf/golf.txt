@@ -1320,7 +1320,6 @@ glut
 gary
 groundling
 gristbite
-glyptodontidae
 gignate
 gra
 ganoine
@@ -6178,6 +6177,7 @@ gamblesome
 gardener
 geomyidae
 guahibo
+glyptodontidae
 giantize
 gibbets
 grimacier
