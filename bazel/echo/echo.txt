@@ -843,7 +843,6 @@ ectocoelic
 ectocommensal
 ectocondylar
 endophytic
-ectocondyloid
 efficient
 electrolyser
 excrementous
@@ -13491,6 +13490,7 @@ equianharmonic
 egocentricities
 edge
 erk
+ectocondyloid
 editing
 etruscologist
 evaporite
