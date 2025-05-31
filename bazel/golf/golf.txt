@@ -7556,6 +7556,7 @@ grus
 grabhook
 grabouche
 gripsack
+gigolo
 gerenda
 garpike
 gilbertite
@@ -9605,7 +9606,6 @@ goniodorididae
 gobinist
 glaucodote
 geests
-gigolo
 goiter
 grizzlier
 geochemical
