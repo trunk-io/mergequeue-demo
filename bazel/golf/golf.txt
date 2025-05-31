@@ -4335,7 +4335,6 @@ grylli
 gunky
 guz
 glottochronology
-galops
 ginglymostomoid
 gutturine
 gondi
@@ -8445,6 +8444,7 @@ glossotype
 gurgle
 gelatinization
 gravely
+galops
 groupers
 gayal
 gulpiest
