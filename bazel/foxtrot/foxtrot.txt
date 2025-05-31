@@ -3027,7 +3027,6 @@ forma
 fiars
 fiascos
 ferricyanogen
-falconet
 ferrotype
 fortepiano
 flukily
@@ -11064,6 +11063,7 @@ freightment
 flense
 footbridge
 footrace
+falconet
 fracturs
 forbidder
 foreknowableness
