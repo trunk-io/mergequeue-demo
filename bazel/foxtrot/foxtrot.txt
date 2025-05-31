@@ -1084,7 +1084,6 @@ farrago
 franchisement
 frizer
 flichters
-flashness
 foreswear
 farreachingly
 fernleaf
@@ -5966,6 +5965,7 @@ flutebird
 floorboard
 fixures
 flushingly
+flashness
 fala
 floorcloths
 feinted
