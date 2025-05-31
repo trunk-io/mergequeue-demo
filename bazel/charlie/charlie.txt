@@ -14023,7 +14023,6 @@ cynopithecidae
 cynopithecoid
 cynorrhoda
 cynorrhodon
-cynosura
 cynosure
 cynosures
 cynosurus
@@ -15837,6 +15836,7 @@ crocoite
 cleansers
 codescendant
 cleanses
+cynosura
 cleanskin
 cleanskins
 cleanup
