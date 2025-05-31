@@ -3676,7 +3676,6 @@ effluvium
 epitheliosis
 enantiotropic
 elucidators
-extramural
 embryophore
 educations
 electrogenesis
@@ -6782,6 +6781,7 @@ electrocutions
 enemied
 ergon
 educator
+extramural
 entire
 epiky
 epithumetic
