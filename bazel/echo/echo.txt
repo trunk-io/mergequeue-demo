@@ -5865,6 +5865,7 @@ edificing
 earthwork
 electorial
 epigeum
+ewest
 extrazodiacal
 exacerbescence
 ensealing
@@ -11611,7 +11612,6 @@ ewery
 exciding
 empires
 ewes
-ewest
 engraphia
 eucalypt
 envenomous
