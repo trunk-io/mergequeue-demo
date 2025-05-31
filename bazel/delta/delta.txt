@@ -4889,7 +4889,6 @@ demonise
 dodlet
 deaneries
 ductile
-demivotary
 declive
 durrie
 demonises
@@ -11426,6 +11425,7 @@ drossing
 dastardy
 dockyard
 dissuader
+demivotary
 determinoid
 debug
 discloser
