@@ -5827,7 +5827,6 @@ gymnosporangium
 gynoecium
 glucate
 gorevan
-gliders
 gibelite
 grieflessness
 gastrostomies
@@ -8612,6 +8611,7 @@ galvaniser
 grossulaceous
 gigartinales
 gonocalycine
+gliders
 grebe
 growthless
 glycohaemia
