@@ -4685,7 +4685,6 @@ greenfishes
 gudemother
 garua
 galactite
-gyroscope
 glick
 genethliatic
 gendarme
@@ -9497,6 +9496,7 @@ groutier
 gaes
 gins
 gyving
+gyroscope
 groupwise
 goloch
 goodlike
