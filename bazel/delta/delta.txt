@@ -10954,6 +10954,7 @@ datolite
 diallist
 draggles
 dispenses
+disforestation
 doublethinking
 dorsoradial
 digressions
@@ -12203,7 +12204,6 @@ disflesh
 disfoliage
 disfoliaged
 distich
-disforestation
 descendibility
 disherent
 disfortune
