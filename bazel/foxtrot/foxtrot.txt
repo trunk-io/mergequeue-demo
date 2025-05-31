@@ -10452,6 +10452,7 @@ flche
 frontstall
 forstall
 frizes
+fellah
 ferocity
 flaxtail
 frontwards
@@ -11378,7 +11379,6 @@ flashlamp
 flaxwoman
 furnariides
 flect
-fellah
 facies
 furnish
 furnishable
