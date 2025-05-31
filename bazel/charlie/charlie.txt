@@ -7390,6 +7390,7 @@ cephalization
 cephaloauricular
 cephalobranchiata
 chelicera
+cerusites
 carneys
 carks
 comnenian
@@ -7852,7 +7853,6 @@ cerumniparous
 chemoautotrophy
 charabancer
 clorinator
-cerusites
 cerussite
 centaurid
 cervantic
