@@ -2156,7 +2156,6 @@ electroblasting
 enfoil
 exterminatress
 enanthematous
-elateroid
 epoxy
 esophagostenosis
 eyestring
@@ -12648,6 +12647,7 @@ equipped
 encincturing
 emeralds
 essancia
+elateroid
 egurgitating
 excussio
 exoenzyme
