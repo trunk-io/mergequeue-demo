@@ -4405,6 +4405,7 @@ gio
 giobertite
 grazierdom
 grainsickness
+gosplan
 gammelost
 graminology
 gossipy
@@ -7276,7 +7277,6 @@ gospels
 gospelwards
 gustative
 gossard
-gosplan
 grabbings
 greyflies
 gonfalonier
