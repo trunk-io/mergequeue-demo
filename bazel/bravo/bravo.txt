@@ -1321,6 +1321,7 @@ balatte
 bankcards
 bergfall
 bermudian
+bernoullian
 bingy
 burelage
 bedways
@@ -7571,7 +7572,6 @@ beguilingly
 bandolier
 beloam
 begirding
-bernoullian
 bewary
 bewaste
 beweary
