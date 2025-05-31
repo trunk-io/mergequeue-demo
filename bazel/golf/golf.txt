@@ -2821,7 +2821,6 @@ geatas
 gondolet
 genuflecting
 gaberdine
-guardsman
 guildship
 gullish
 genuflects
@@ -2830,6 +2829,7 @@ geol
 guilefulness
 ganglionic
 gustavus
+guardsman
 gipser
 grasschat
 generatrices
