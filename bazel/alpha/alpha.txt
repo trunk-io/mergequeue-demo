@@ -10062,7 +10062,6 @@ amblyomma
 abrupt
 angrier
 amblyopic
-amblyopsidae
 amblyoscope
 arles
 alchymies
@@ -24109,6 +24108,7 @@ autographometer
 autographs
 apographal
 autoheader
+amblyopsidae
 axone
 autohemolytic
 autohemorrhage
