@@ -3804,7 +3804,6 @@ adiposity
 acrook
 abdominoscope
 adiposogenital
-adiapneustia
 aslope
 adiposuria
 adipous
@@ -8623,6 +8622,7 @@ alleghenian
 aspiringness
 anta
 allegiance
+adiapneustia
 ancylostoma
 allegiancy
 allegiant
