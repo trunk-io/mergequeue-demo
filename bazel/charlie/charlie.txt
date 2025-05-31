@@ -7554,7 +7554,6 @@ cimicidae
 ceratostomella
 cheliceral
 ceratotheca
-ceratozamia
 cypridinidae
 clergyman
 cambrian
@@ -10573,6 +10572,7 @@ chylification
 charlatanish
 chylifying
 chamoises
+ceratozamia
 competitions
 chyliform
 chilina
