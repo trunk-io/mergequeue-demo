@@ -1035,7 +1035,6 @@ bailieship
 biogeographic
 bailiffs
 bailing
-besprinkler
 busway
 boyaus
 basanite
@@ -18187,6 +18186,7 @@ butlerlike
 butlers
 butlership
 braggadocianism
+besprinkler
 buttonlike
 butment
 butolism
