@@ -1020,6 +1020,7 @@ calathus
 calatrava
 calavance
 calbroben
+conjugable
 calcaire
 calcanea
 chimpanzee
@@ -3680,7 +3681,6 @@ caramelize
 caramelized
 clangoring
 caramels
-conjugable
 commendam
 carancha
 carancho
