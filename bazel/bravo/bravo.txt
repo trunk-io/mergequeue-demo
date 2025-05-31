@@ -1584,7 +1584,6 @@ beatinest
 beyerite
 ballistician
 brachioganoidei
-ballistocardiograph
 ballflower
 bifurcate
 ballywack
@@ -9105,6 +9104,7 @@ bioscopy
 bioscopic
 bioastronautical
 bedecorate
+ballistocardiograph
 biosensor
 bearishness
 binominated
