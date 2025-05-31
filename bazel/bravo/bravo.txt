@@ -1340,6 +1340,7 @@ botrylle
 backdrops
 borderlands
 balbusard
+beggarliness
 burlap
 brayed
 butterbump
@@ -8236,7 +8237,6 @@ bifocal
 balanocele
 berith
 bb
-beggarliness
 balagan
 bullfist
 brothership
