@@ -2619,7 +2619,6 @@ etymologisable
 eras
 exempla
 electrophrenic
-electropyrometer
 electrophoric
 electroplater
 electropower
@@ -13585,6 +13584,7 @@ eisegesis
 endostea
 edriophthalmian
 exarteritis
+electropyrometer
 extemporalness
 exiledom
 extemporary
