@@ -10994,6 +10994,7 @@ bident
 buggymen
 babysit
 besmoking
+beweeping
 botryopterid
 blitzkrieging
 brache
@@ -17339,7 +17340,6 @@ bewray
 brennage
 bundle
 bundled
-beweeping
 boardmen
 bundler
 bottleneck
