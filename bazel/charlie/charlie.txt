@@ -3502,7 +3502,6 @@ cons
 capsular
 conceitedness
 capsulation
-ceride
 collegatary
 chainomatic
 chawbone
@@ -21133,6 +21132,7 @@ cherishers
 concatenate
 catadromous
 concatenated
+ceride
 concatenates
 coequating
 concatenations
