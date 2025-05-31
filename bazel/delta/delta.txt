@@ -314,6 +314,7 @@ dayanim
 directories
 daybeacon
 daybed
+devchar
 disembowelment
 dissuasiveness
 dollfaced
@@ -7619,7 +7620,6 @@ drapping
 devata
 devaul
 deoxygenating
-devchar
 degaussed
 deveined
 disbursements
