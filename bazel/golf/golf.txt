@@ -1070,6 +1070,7 @@ groundway
 gypsums
 glares
 guarding
+graphicness
 gowdy
 goularo
 gormandizers
@@ -8175,7 +8176,6 @@ gasconading
 genevois
 graphemics
 graphically
-graphicness
 gigantically
 glutamates
 glorioso
