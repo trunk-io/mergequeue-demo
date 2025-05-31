@@ -10219,7 +10219,6 @@ blacklegged
 betattering
 boyd
 breakpoints
-blacklist
 blacklisted
 blacklister
 beparse
@@ -14293,6 +14292,7 @@ blubbing
 barefit
 benthos
 brahmachari
+blacklist
 brahmana
 balloonful
 bookboard
