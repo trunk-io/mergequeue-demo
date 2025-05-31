@@ -3831,7 +3831,6 @@ adjacence
 adjectional
 anastatica
 autoactivation
-adjective
 adjectives
 acetine
 anagogy
@@ -18585,6 +18584,7 @@ acarophilous
 acini
 archaeographic
 archaeographical
+adjective
 acerathere
 academial
 archaeolater
