@@ -11632,7 +11632,6 @@ cholecystogastrostomy
 cholecystogram
 cholecystography
 cholecystokinin
-corkiness
 cholecystolithiasis
 cholecystostomy
 cholecystotomy
@@ -23299,6 +23298,7 @@ cosmopolitical
 consume
 consumedly
 consumeless
+corkiness
 consumer
 consumerist
 consumes
