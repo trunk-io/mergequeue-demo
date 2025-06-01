@@ -1351,7 +1351,6 @@ forkable
 financiering
 faticableness
 felspath
-fonly
 firestop
 filmography
 forwardation
@@ -1914,6 +1913,7 @@ friable
 fangot
 floccule
 finagling
+fonly
 federally
 flanchard
 forworn
