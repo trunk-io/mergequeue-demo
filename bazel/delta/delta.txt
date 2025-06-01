@@ -3363,6 +3363,7 @@ dagos
 deturn
 defis
 deflagrable
+dialling
 decolor
 disrestore
 dynagraph
@@ -14931,7 +14932,6 @@ dolph
 dodecane
 disciplelike
 dodecapartite
-dialling
 dodecaphonic
 dodecaphonism
 demibastion
