@@ -5821,6 +5821,7 @@ firmans
 farine
 fertilisable
 fowling
+floristic
 floatsmen
 fluff
 flaxbush
@@ -9513,7 +9514,6 @@ freaks
 fatiguingly
 forested
 forfear
-floristic
 founts
 fibrovasal
 foveate
