@@ -3381,7 +3381,6 @@ embarkment
 embarks
 equipage
 exteroceptor
-estriol
 embarrassment
 equilibrium
 elohist
@@ -12392,6 +12391,7 @@ essencing
 electrolyze
 eucleidae
 earn
+estriol
 encephalology
 ephemerida
 exposures
