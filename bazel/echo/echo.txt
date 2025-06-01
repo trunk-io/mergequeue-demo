@@ -8393,6 +8393,7 @@ errands
 epistolography
 enmities
 epitra
+emissile
 epitrachelia
 epitria
 estrum
@@ -12825,7 +12826,6 @@ epicranium
 exotericism
 extenuated
 emboldener
-emissile
 embossmen
 extraretinal
 evangelicity

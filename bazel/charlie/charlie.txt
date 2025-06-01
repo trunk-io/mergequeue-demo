@@ -19710,6 +19710,7 @@ comandantes
 comandanti
 cutis
 catocala
+cinematics
 chaptering
 comandra
 capetown
@@ -21930,7 +21931,6 @@ combe
 clof
 chinamania
 confessable
-cinematics
 creating
 chungking
 convexities
