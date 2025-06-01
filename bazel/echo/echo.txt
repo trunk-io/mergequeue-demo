@@ -3875,7 +3875,6 @@ examinability
 epiglottis
 endexine
 emissory
-endured
 emitting
 entamebas
 epigastrical
@@ -8339,6 +8338,7 @@ electrodeposit
 enciphers
 elev
 expressibly
+endured
 elastases
 enchannel
 exercised
