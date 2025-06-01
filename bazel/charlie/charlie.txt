@@ -6506,7 +6506,6 @@ confiner
 cambodia
 cavelike
 cavemen
-cavern
 cavernal
 cavernlike
 cavernoma
@@ -11066,6 +11065,7 @@ chirt
 chirurgeon
 crimean
 chirurgeonly
+cavern
 chirurgery
 chis
 chiseled
