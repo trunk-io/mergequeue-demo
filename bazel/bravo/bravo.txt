@@ -6417,7 +6417,6 @@ biozone
 belgium
 benzoglycolic
 benzoglyoxaline
-balancewise
 bastioned
 benzohydrol
 benzoylated
@@ -10927,6 +10926,7 @@ bartonia
 brooms
 beadroll
 blinker
+balancewise
 bitterful
 barretors
 blustered
