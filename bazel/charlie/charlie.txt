@@ -5430,7 +5430,6 @@ confervas
 castle
 cumacean
 castled
-conine
 castlelike
 clitocybe
 castles
@@ -28284,6 +28283,7 @@ crossbreed
 crater
 cachet
 crossfiring
+conine
 cephalothoracic
 carabineer
 cabotages
