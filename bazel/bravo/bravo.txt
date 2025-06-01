@@ -12290,7 +12290,6 @@ bathycurrent
 bullwhacker
 betrayer
 bramantesque
-beswarmed
 bombardments
 bombline
 bowdrill
@@ -12367,6 +12366,7 @@ boonk
 bombonne
 bombora
 bawls
+beswarmed
 bombus
 bombardelle
 bomi
