@@ -1023,7 +1023,6 @@ calathus
 calatrava
 calavance
 calbroben
-conjugable
 calcaire
 calcanea
 chimpanzee
@@ -26981,6 +26980,7 @@ counterpart
 counterpassant
 counterpendent
 culpa
+conjugable
 chartae
 circumventer
 counterphobic
