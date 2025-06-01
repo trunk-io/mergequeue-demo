@@ -1288,7 +1288,6 @@ fastnacht
 fastnesses
 flimsilyst
 fhrer
-fixage
 fancywork
 florinda
 frigs
@@ -3188,6 +3187,7 @@ fesels
 fairyland
 frosh
 fickle
+fixage
 fruits
 fiches
 findjan
