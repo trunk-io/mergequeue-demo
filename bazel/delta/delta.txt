@@ -1908,7 +1908,6 @@ debriefings
 debris
 debrominate
 diandrian
-dissentism
 disapprobations
 dacryd
 deferments
@@ -6645,6 +6644,7 @@ darkroom
 deescalated
 deacidification
 denotational
+dissentism
 defatigated
 duendes
 dustband
