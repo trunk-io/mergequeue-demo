@@ -767,7 +767,6 @@ fancied
 fetidness
 fezzan
 fibroangioma
-fural
 ferv
 frequently
 fanciful
@@ -5503,6 +5502,7 @@ foreordain
 flagon
 fol
 family
+fural
 forestays
 favellae
 flexion
