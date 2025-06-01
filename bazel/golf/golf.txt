@@ -3427,7 +3427,6 @@ geometers
 gudgeons
 gowl
 gelatinated
-gallberry
 gastrologer
 geodynamics
 genoa
@@ -8549,6 +8548,7 @@ geometrizing
 graziers
 gravidate
 gomphosis
+gallberry
 grassland
 gullied
 goslarite
