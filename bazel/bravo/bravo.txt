@@ -1825,7 +1825,6 @@ bipunctate
 beslime
 bullose
 bialystoker
-bags
 bandaged
 bandaging
 bowlin
@@ -13495,6 +13494,7 @@ bottu
 botulinuses
 boggles
 botulism
+bags
 bigamistic
 bourre
 beseek
