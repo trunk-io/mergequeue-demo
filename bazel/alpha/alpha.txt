@@ -22802,6 +22802,7 @@ applicabilities
 atomizing
 atomology
 atoms
+auras
 afb
 atonable
 atonalistic
@@ -23558,7 +23559,6 @@ aurantia
 allogeneous
 articulable
 aurantiaceae
-auras
 atoneable
 aurate
 aureate
