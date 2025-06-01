@@ -442,7 +442,6 @@ cactoid
 crocodilean
 cactus
 copying
-controled
 civilisable
 chancered
 cactuslike
@@ -26215,6 +26214,7 @@ cossaean
 cosse
 carnivority
 cosset
+controled
 cosseting
 cossette
 catalowne
