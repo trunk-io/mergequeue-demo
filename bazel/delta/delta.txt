@@ -2733,7 +2733,6 @@ devonshire
 dictates
 dissembling
 decore
-dorsoventrad
 dewcup
 decorist
 dragged
@@ -5365,6 +5364,7 @@ deadheadism
 dentelure
 davit
 dealable
+dorsoventrad
 derider
 dorsimesal
 disblame
