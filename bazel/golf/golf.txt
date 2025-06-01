@@ -4236,7 +4236,6 @@ gynecocrat
 gilenyer
 gracefullest
 gunshots
-gp
 gleamed
 gastroscope
 gangliated
@@ -6195,6 +6194,7 @@ garrisoned
 gastrimargy
 guillotinade
 gamopetalae
+gp
 galactophagist
 glucosamine
 greengill
