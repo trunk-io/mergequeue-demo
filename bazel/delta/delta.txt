@@ -1949,7 +1949,6 @@ dermohumeral
 disyllabism
 deburr
 divulgatory
-doated
 debus
 decanally
 debused
@@ -3625,6 +3624,7 @@ degeneroos
 degerm
 donnish
 degerminate
+doated
 degerminator
 distentions
 degerming
