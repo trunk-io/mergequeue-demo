@@ -7800,7 +7800,6 @@ foveolets
 fractionisation
 favorite
 fligged
-ferrite
 focusing
 fatiguable
 florences
@@ -11481,6 +11480,7 @@ fairleader
 froggery
 fuzzle
 foothill
+ferrite
 farms
 facilities
 figural
