@@ -2279,7 +2279,6 @@ enbloc
 endolymph
 excretal
 eger
-extrapopular
 encased
 egest
 ester
@@ -7728,6 +7727,7 @@ elytroplastic
 epeirogeny
 equilibration
 expendability
+extrapopular
 epidemiologic
 emulsified
 elds
