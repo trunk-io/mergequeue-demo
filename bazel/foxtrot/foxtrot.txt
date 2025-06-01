@@ -772,7 +772,6 @@ ferv
 frequently
 fanciful
 fibreboard
-farrandly
 fanciless
 foliicolous
 forestaff
@@ -10621,6 +10620,7 @@ forwaste
 fleeting
 flatnesses
 frugalities
+farrandly
 frugalness
 freck
 fetiches
