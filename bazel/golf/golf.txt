@@ -6732,6 +6732,7 @@ gnosticize
 gamelang
 ganam
 gamgee
+gratias
 graptoloidea
 gobbe
 grooves
@@ -7090,7 +7091,6 @@ gremio
 gagtooth
 gorble
 gervais
-gratias
 gorblin
 gorcocks
 goniatite
