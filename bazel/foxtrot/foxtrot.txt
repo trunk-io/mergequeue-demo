@@ -2320,7 +2320,6 @@ feod
 firestopping
 foreimagine
 fconvert
-fs
 feoffer
 fiberous
 faultier
@@ -10819,6 +10818,7 @@ ferrocalcite
 florimania
 ferniest
 fulciment
+fs
 failures
 fulcrumed
 formicarioid
