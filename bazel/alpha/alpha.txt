@@ -23620,7 +23620,6 @@ apios
 amphisile
 auriculoparietal
 auriculotemporal
-auriculovertical
 auride
 auriferous
 appreciational
@@ -25293,6 +25292,7 @@ asymmetrical
 atmospheric
 anesthetist
 afterworking
+auriculovertical
 alfonso
 agrarians
 allocability
