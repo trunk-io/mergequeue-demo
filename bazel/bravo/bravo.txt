@@ -10859,7 +10859,6 @@ blighted
 blowgun
 blighters
 bestowing
-blightingly
 bribetaker
 burroughs
 blimbing
@@ -16548,6 +16547,7 @@ bragget
 belling
 bubastid
 backorder
+blightingly
 bubby
 belligerencies
 becovet
