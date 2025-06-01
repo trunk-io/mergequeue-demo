@@ -2375,7 +2375,6 @@ brakemen
 belabors
 barcoo
 bemoisten
-bard
 besplash
 bardcraft
 barde
@@ -11818,6 +11817,7 @@ bodybending
 bodybuilder
 betrinket
 birthing
+bard
 briareus
 browbeater
 bootlegging
