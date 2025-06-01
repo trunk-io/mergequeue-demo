@@ -8855,7 +8855,6 @@ allocator
 agynary
 acadia
 apocynum
-allocators
 allocatur
 astound
 assumable
@@ -12600,6 +12599,7 @@ authentications
 addleheadedly
 anfracture
 aperies
+allocators
 amixia
 aporrhaidae
 antistrumous
