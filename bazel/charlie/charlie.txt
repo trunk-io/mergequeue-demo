@@ -19722,7 +19722,6 @@ camarilla
 copintank
 catogene
 chemisorption
-comatik
 clefts
 comatiks
 comatosely
@@ -28292,6 +28291,7 @@ carabineer
 cabotages
 crateriform
 cratering
+comatik
 cerithioid
 craterkin
 chromites
