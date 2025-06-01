@@ -1129,7 +1129,6 @@ galyac
 groupment
 gunpowder
 genion
-gratias
 granddam
 gypsologist
 gander
@@ -7096,6 +7095,7 @@ gremio
 gagtooth
 gorble
 gervais
+gratias
 gorblin
 gorcocks
 goniatite
