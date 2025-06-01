@@ -12589,7 +12589,6 @@ aesopic
 advene
 allochroite
 aneurysm
-aneurysmal
 aeriferous
 algosis
 aneurisms
@@ -23059,6 +23058,7 @@ attended
 attendee
 aflatoxin
 aurochs
+aneurysmal
 anthropomorphitic
 attenders
 artaba
