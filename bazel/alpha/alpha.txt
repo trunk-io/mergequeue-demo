@@ -8916,7 +8916,6 @@ assigners
 araneid
 alloyage
 aeroporotomy
-afrogaean
 alloiogenesis
 attitude
 alloiometric
@@ -25240,6 +25239,7 @@ azerbaijani
 azerbaijanian
 azha
 antitax
+afrogaean
 azide
 asclepiadeous
 aphasiology
