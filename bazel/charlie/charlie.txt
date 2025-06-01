@@ -3814,7 +3814,6 @@ carboazotine
 conrail
 carpidium
 carbodynamite
-chlorobromomethane
 carbohemoglobin
 calamodendron
 cribbling
@@ -6968,6 +6967,7 @@ chymosins
 coaugment
 calorimetric
 cementatory
+chlorobromomethane
 curvirostres
 charros
 cementer
