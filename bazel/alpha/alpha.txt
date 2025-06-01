@@ -4838,6 +4838,7 @@ aerodonetics
 aerodontalgia
 arcanum
 antipedal
+archhost
 arenite
 areek
 aerodrome
@@ -13217,7 +13218,6 @@ aniseeds
 atingle
 antiorgastic
 aniseikonic
-archhost
 acholuria
 auklet
 anisic
