@@ -846,7 +846,6 @@ aerosols
 acesodyne
 abscissas
 anam
-abscisse
 amphicyrtous
 abscission
 absconce
@@ -2926,6 +2925,7 @@ agrarian
 actin
 actinautography
 actinautographic
+abscisse
 actine
 actinenchyma
 acting
