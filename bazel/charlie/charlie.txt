@@ -4020,7 +4020,6 @@ croquettes
 carcinogenesis
 carcinogenic
 carcinoid
-caracter
 compartmental
 crystalloluminescence
 carcinolysin
@@ -15411,6 +15410,7 @@ clanjamphrey
 clank
 clanked
 choledocholithotomy
+caracter
 clanking
 chlorimetry
 coldfinch
