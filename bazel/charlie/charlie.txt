@@ -6994,7 +6994,6 @@ copesettic
 cemeterial
 concours
 ceratinous
-cemeteries
 culm
 caruage
 cenaculum
@@ -27948,6 +27947,7 @@ counterselection
 cognosce
 cradlemaker
 cradlemate
+cemeteries
 camerlengos
 celeomorphic
 clinoclase
