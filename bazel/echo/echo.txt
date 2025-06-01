@@ -1756,7 +1756,6 @@ eyepiece
 everard
 extg
 embattle
-eyepoint
 emule
 exhbn
 eutony
@@ -13981,6 +13980,7 @@ eodevonian
 espagnolette
 echinodermic
 extrapolated
+eyepoint
 equalising
 enhazard
 erythromania
