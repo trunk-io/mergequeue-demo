@@ -19907,7 +19907,6 @@ aiguellette
 armlike
 armload
 armlock
-armoires
 armonicas
 armor
 armoracia
@@ -23318,6 +23317,7 @@ audian
 aeciotelia
 aghanee
 asyla
+armoires
 audibleness
 audibles
 alkoran
