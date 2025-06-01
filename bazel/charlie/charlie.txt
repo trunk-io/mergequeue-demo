@@ -19132,7 +19132,6 @@ cardiasthma
 chloridizing
 collimated
 collimates
-collimating
 collimation
 collimator
 considered
@@ -30602,6 +30601,7 @@ cucujid
 cucujus
 callitype
 cucularis
+collimating
 cachila
 cucule
 credensive
