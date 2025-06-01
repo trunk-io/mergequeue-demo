@@ -1885,7 +1885,6 @@ germ
 gatteridge
 gammaridae
 gaucho
-geophyte
 gerbillus
 goodyship
 gamelote
@@ -7517,6 +7516,7 @@ gambet
 ghastfulness
 glucolysis
 gruntle
+geophyte
 gamash
 gowdnie
 goalie
