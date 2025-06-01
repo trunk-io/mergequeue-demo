@@ -903,7 +903,6 @@ goosebird
 genome
 guahivo
 gaverick
-gaelicist
 geld
 guna
 gelatinate
@@ -3220,6 +3219,7 @@ gaut
 guarantor
 gossypol
 gyral
+gaelicist
 galvanical
 gustatory
 giddiest
