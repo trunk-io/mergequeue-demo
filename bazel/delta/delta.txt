@@ -6140,6 +6140,7 @@ defalcate
 december
 derays
 deranges
+dualin
 dropout
 dimission
 durgen
@@ -14536,7 +14537,6 @@ demotic
 dyadic
 divinister
 deallocating
-dualin
 dissimuler
 discoverers
 divinized
