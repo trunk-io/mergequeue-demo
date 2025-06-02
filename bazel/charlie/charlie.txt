@@ -2302,6 +2302,7 @@ canal
 cookeys
 canalatura
 completer
+cromorne
 canalboat
 charales
 canale
@@ -29696,7 +29697,6 @@ crasis
 conjunct
 codesigned
 confess
-cromorne
 countesses
 caprimulgine
 cutterman

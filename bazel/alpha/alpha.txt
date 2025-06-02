@@ -975,6 +975,7 @@ abstains
 annectant
 assis
 abstemious
+astron
 abstemiousness
 abstentionism
 abstentionist
@@ -22354,7 +22355,6 @@ allegorization
 adlegation
 astrometry
 astrometric
-astron
 astronaut
 apollinian
 astronavigator
