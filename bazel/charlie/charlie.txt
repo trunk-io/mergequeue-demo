@@ -11866,7 +11866,6 @@ camber
 catechisms
 chopdar
 cyprinoidea
-chopine
 connation
 chopines
 clarina
@@ -29558,6 +29557,7 @@ criticule
 critique
 cultivatable
 cabals
+chopine
 critiqued
 critize
 cosmic
