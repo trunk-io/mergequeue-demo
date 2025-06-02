@@ -978,6 +978,7 @@ edits
 enterococcus
 endosporium
 esoterics
+exhumes
 expanse
 excavatory
 encages
@@ -12458,7 +12459,6 @@ exhumatory
 emancipations
 explorate
 exfiltrate
-exhumes
 euryscope
 equilibrial
 electrolysing
