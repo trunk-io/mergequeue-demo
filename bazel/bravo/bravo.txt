@@ -2652,7 +2652,6 @@ barleycorn
 bournonite
 bilge
 basidiophore
-bowerlike
 bimensal
 bellying
 bable
@@ -12403,6 +12402,7 @@ bonav
 banquette
 bests
 bonbo
+bowerlike
 bakeout
 bonbon
 betsimisaraka
