@@ -3099,7 +3099,6 @@ geopotential
 gelosin
 grassplot
 georgemas
-graminiform
 germanite
 geosynclinal
 gurgles
@@ -4494,6 +4493,7 @@ gomutis
 gambrel
 gumwoods
 gills
+graminiform
 gerbille
 gigantomachia
 gmelinite
