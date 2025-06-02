@@ -3217,7 +3217,6 @@ elul
 epidemic
 erects
 enclitical
-elided
 encephalotomy
 enervated
 elusive
@@ -11438,6 +11437,7 @@ evese
 entheate
 embryotic
 expdt
+elided
 evetide
 extirpating
 encipherment
