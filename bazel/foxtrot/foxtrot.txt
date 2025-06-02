@@ -4788,7 +4788,6 @@ fou
 francisco
 foothills
 flagman
-floppy
 fasciolaria
 fancifulness
 flinching
@@ -8355,6 +8354,7 @@ fiddlerfishes
 fibrillate
 forlanas
 fragrancies
+floppy
 fiduciary
 forleit
 forcipes
