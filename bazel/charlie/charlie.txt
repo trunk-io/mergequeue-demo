@@ -11843,7 +11843,6 @@ chatelet
 catamountain
 chazzen
 cycloidal
-choose
 coaster
 copaljocote
 chooser
@@ -15645,6 +15644,7 @@ clathraria
 cathidine
 clathrarian
 clathrate
+choose
 clathrinidae
 clathroid
 clathrose
