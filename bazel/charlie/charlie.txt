@@ -4811,6 +4811,7 @@ covariables
 cynosarges
 carpopodite
 carpopoditic
+coordinating
 carved
 carpoptosia
 completion
@@ -7924,7 +7925,6 @@ cessor
 cesspipe
 churchly
 cesspit
-coordinating
 cesspits
 contrastment
 cesspools
