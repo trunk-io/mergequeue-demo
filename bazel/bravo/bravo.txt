@@ -11671,6 +11671,7 @@ bedding
 beneficience
 boattail
 blazoners
+bosks
 boatward
 boatwright
 bob
@@ -18237,7 +18238,6 @@ butterflower
 bleinerite
 battles
 batik
-bosks
 bacteraemia
 bases
 butteryfingered
