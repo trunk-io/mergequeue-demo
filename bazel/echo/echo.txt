@@ -7664,7 +7664,6 @@ epicotyls
 endoderms
 enhancement
 extrasomatic
-enterosyphilis
 emplead
 enterostasis
 earworms
@@ -12776,6 +12775,7 @@ exordium
 eelblennies
 engold
 elsewise
+enterosyphilis
 exortion
 endodontia
 exosmose
