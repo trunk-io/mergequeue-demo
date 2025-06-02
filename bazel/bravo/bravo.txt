@@ -2894,7 +2894,6 @@ barratrously
 barrelage
 barreled
 barreleyes
-belap
 barrelet
 bookend
 batuque
@@ -10717,6 +10716,7 @@ blendwater
 bowhead
 blenheim
 bibl
+belap
 blenk
 blennadenitis
 backsetting
