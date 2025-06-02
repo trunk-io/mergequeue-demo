@@ -2546,7 +2546,6 @@ gastrula
 gobangs
 generalities
 grig
-grandezza
 grubbies
 gain
 guilder
@@ -4386,6 +4385,7 @@ grammatist
 gloriam
 gazer
 gorget
+grandezza
 gearcases
 gongs
 grifter
