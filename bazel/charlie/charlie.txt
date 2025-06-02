@@ -3707,7 +3707,6 @@ cognates
 carapacic
 carapax
 climacterial
-carapaxes
 coachable
 carbonadoes
 carapidae
@@ -24421,6 +24420,7 @@ cooperage
 cooperate
 cooperated
 cooperates
+carapaxes
 caracals
 crusadoes
 chupatti
