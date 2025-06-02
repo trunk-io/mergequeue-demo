@@ -5072,7 +5072,6 @@ engrains
 elatha
 endocyst
 epodic
-endocystitis
 enucleate
 experted
 extraditions
@@ -6124,6 +6123,7 @@ enfacement
 enlodge
 episkotister
 estuary
+endocystitis
 enlodgement
 enlumine
 entheos
