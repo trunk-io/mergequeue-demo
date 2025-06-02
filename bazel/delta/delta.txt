@@ -3510,6 +3510,7 @@ delvers
 deformable
 darkey
 deformation
+deflections
 delete
 deformations
 deformedly
@@ -4563,7 +4564,6 @@ decern
 dorsilumbar
 demigriffin
 distraughted
-deflections
 devocation
 drabbled
 demigroat
