@@ -1543,7 +1543,6 @@ gasper
 grounder
 granulomata
 gainbirth
-gymnocerata
 gunsels
 glaik
 glimes
@@ -2335,6 +2334,7 @@ gelees
 geologist
 genomic
 gurging
+gymnocerata
 gadinic
 gagroot
 greengrocer
