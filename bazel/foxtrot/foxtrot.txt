@@ -2533,7 +2533,6 @@ forequarter
 finlandization
 fleerer
 flimp
-furiosity
 ferricyanide
 ferrihydrocyanic
 fervency
@@ -6126,6 +6125,7 @@ fantom
 frequented
 foredoor
 fraughts
+furiosity
 ferrums
 fuses
 fewness
