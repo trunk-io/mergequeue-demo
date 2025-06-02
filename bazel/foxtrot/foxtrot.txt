@@ -2210,6 +2210,7 @@ fennecs
 focometry
 fikie
 firebombs
+fuliguline
 flatcars
 fructosan
 ferrara
@@ -4506,7 +4507,6 @@ forwardsearch
 fractionized
 felinophile
 fissured
-fuliguline
 feasters
 fiscalify
 frontier
