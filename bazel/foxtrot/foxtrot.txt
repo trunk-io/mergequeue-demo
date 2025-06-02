@@ -2460,7 +2460,6 @@ fermillet
 frenchless
 favonian
 folksiest
-fermions
 floripondio
 fernandinite
 frecket
@@ -5029,6 +5028,7 @@ flappable
 frankalmoin
 favourless
 flappet
+fermions
 figlike
 fishline
 foveated
