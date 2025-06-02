@@ -3636,6 +3636,7 @@ fretsaws
 filigrained
 fiftieths
 freshed
+foretype
 fluviose
 feverberry
 filigrane
@@ -7766,7 +7767,6 @@ fleaweed
 forenight
 flogger
 frondivorous
-foretype
 fleshiest
 feedboxes
 feronia
