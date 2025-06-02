@@ -6816,7 +6816,6 @@ garnets
 gobonee
 gnomonic
 gloryingly
-gnatproof
 gypsied
 glauconite
 granulomas
@@ -9266,6 +9265,7 @@ graduale
 geoffrey
 groenlandicus
 glucuronic
+gnatproof
 goyana
 gurge
 gangliate
