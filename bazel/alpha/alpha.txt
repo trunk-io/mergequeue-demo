@@ -684,7 +684,6 @@ aborigines
 abort
 alderfly
 aborted
-agricultures
 aborter
 aborticide
 azeotropy
@@ -9389,6 +9388,7 @@ atonalism
 alphonsine
 alphosis
 assessorial
+agricultures
 albitization
 adigranth
 alphosises
