@@ -1609,6 +1609,7 @@ audioemission
 accounts
 accouplement
 accouter
+apotype
 accoutered
 agrostologist
 aneling
@@ -17409,7 +17410,6 @@ apotheosize
 apotheosized
 apothesine
 apothesis
-apotype
 anteportico
 amercers
 apotome
