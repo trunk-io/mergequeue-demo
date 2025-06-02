@@ -78,6 +78,7 @@ flysch
 fordeal
 frets
 fullfaces
+facundity
 facemark
 flunkeyhood
 feuter
@@ -2668,7 +2669,6 @@ foundational
 filaze
 fawner
 frizziness
-facundity
 fervence
 fortnightlies
 futilize
