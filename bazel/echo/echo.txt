@@ -818,7 +818,6 @@ ectype
 entities
 everliving
 enwrite
-embus
 epizoa
 erythrinidae
 eral
@@ -12726,6 +12725,7 @@ emboweling
 engramma
 exopod
 epigraphist
+embus
 exopterygotism
 eurypygae
 epha
