@@ -1572,7 +1572,6 @@ fissirostres
 facially
 farcetta
 fegary
-finfoot
 fooster
 favored
 feasibilities
@@ -10311,6 +10310,7 @@ factor
 frenziedness
 forleaving
 foundationless
+finfoot
 fervorlessness
 fustilugs
 futurely
