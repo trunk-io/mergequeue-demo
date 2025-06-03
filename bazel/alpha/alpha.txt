@@ -3304,6 +3304,7 @@ adamantness
 adamantoblast
 adamas
 archery
+atresic
 atelets
 andean
 adamellite
@@ -20714,7 +20715,6 @@ alphean
 artilleries
 avodire
 artilleryman
-atresic
 achillein
 artillerymen
 apprehensiveness
