@@ -612,7 +612,6 @@ germanity
 gigue
 guarauno
 galactose
-glassy
 galbulinae
 guaranian
 glockenspiels
@@ -2344,6 +2343,7 @@ genomic
 gurging
 gymnocerata
 gadinic
+glassy
 gagroot
 greengrocer
 gutturalisation
