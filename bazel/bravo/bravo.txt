@@ -2514,7 +2514,6 @@ beslash
 bassetite
 barguest
 barguests
-besmear
 buzylene
 baria
 bedouse
@@ -9282,6 +9281,7 @@ bipods
 botches
 bipolarity
 bipolarization
+besmear
 biporose
 bipotentiality
 bromoiodid
