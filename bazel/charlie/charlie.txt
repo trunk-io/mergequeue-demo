@@ -17810,7 +17810,6 @@ cerebrasthenia
 chalaza
 codamin
 categorisation
-calibrators
 cardiography
 codas
 cardialgic
@@ -25515,6 +25514,7 @@ cleek
 coronate
 calp
 corrosible
+calibrators
 coronations
 chitchatty
 coronel
