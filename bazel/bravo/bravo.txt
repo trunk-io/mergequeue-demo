@@ -1093,6 +1093,7 @@ bairdi
 beneficency
 bastiles
 bairn
+bypassed
 brevetted
 bransolder
 bromius
@@ -9208,7 +9209,6 @@ belitter
 berkeleyism
 bumbee
 bipaschal
-bypassed
 bypaths
 buffin
 biped
