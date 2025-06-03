@@ -4711,7 +4711,6 @@ foes
 frises
 facy
 fathercraft
-flancard
 factice
 frederic
 fumers
@@ -10976,6 +10975,7 @@ forgettable
 fumaroidal
 flappier
 forerunning
+flancard
 faipule
 foreadapt
 forthright
