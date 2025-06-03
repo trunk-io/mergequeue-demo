@@ -5317,7 +5317,6 @@ embroiderers
 epiphyte
 ectoethmoid
 epituberculous
-estrangement
 exasperation
 embarrassing
 endosteoma
@@ -8886,6 +8885,7 @@ extenuating
 embowel
 elfdom
 exp
+estrangement
 ergative
 extracorporeally
 elmier
