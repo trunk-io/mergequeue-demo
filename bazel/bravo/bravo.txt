@@ -6441,6 +6441,7 @@ benzonitrile
 behedge
 benzophenothiazine
 benzophloroglucinol
+baculi
 benedight
 benzophthalazine
 breakup
@@ -12318,7 +12319,6 @@ bombast
 buglers
 bandurrias
 bezzi
-baculi
 biophor
 beldame
 boterol
