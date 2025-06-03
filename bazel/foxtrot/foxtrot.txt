@@ -1714,6 +1714,7 @@ flighted
 fascio
 floats
 filicin
+fomites
 faciend
 fortravail
 frippet
@@ -9488,7 +9489,6 @@ floatman
 florets
 fibdom
 freeheartedly
-fomites
 functionalism
 faveoluli
 frazzled
