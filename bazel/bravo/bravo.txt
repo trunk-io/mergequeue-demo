@@ -310,7 +310,6 @@ bourgeoises
 backarrows
 backbar
 bedright
-backberand
 birkenhead
 biolith
 booter
@@ -8698,6 +8697,7 @@ barbadoes
 bourbonist
 bimastic
 bengal
+backberand
 bimaxillary
 bobsleigh
 bimbisara
