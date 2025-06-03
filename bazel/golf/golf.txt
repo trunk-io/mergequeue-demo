@@ -5071,7 +5071,6 @@ glareproof
 griskin
 grainsmen
 glassteel
-gleeman
 grenadine
 goldeneye
 greesagh
@@ -6497,6 +6496,7 @@ granduncles
 grasp
 gromwell
 gamelans
+gleeman
 gastrologists
 gomer
 gesten
