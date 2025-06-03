@@ -7379,6 +7379,7 @@ grantsmen
 goosefoot
 giga
 granduncle
+gnatproof
 geylies
 gotra
 germarium
@@ -9265,7 +9266,6 @@ graduale
 geoffrey
 groenlandicus
 glucuronic
-gnatproof
 goyana
 gurge
 gangliate
