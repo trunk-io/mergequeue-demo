@@ -854,6 +854,7 @@ bicolour
 bagful
 barasingha
 baggagemaster
+bedamning
 baggager
 benzidin
 beffroy
@@ -16158,7 +16159,6 @@ backswimmer
 brothers
 blowdown
 barbudo
-bedamning
 braird
 bilbie
 brotherwort
