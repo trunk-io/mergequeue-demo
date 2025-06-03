@@ -1602,7 +1602,6 @@ euphonetics
 enablers
 eyewitnesses
 egomania
-egomaniacal
 elodea
 egomaniacally
 egomism
@@ -6515,6 +6514,7 @@ ephemeric
 englishes
 entail
 ephemeris
+egomaniacal
 enrollment
 essayists
 entrenchments
