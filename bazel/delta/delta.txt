@@ -3469,7 +3469,6 @@ defogged
 disyllable
 dormered
 drogh
-derisory
 didelphous
 dorism
 defoil
@@ -9157,6 +9156,7 @@ discursive
 dingdong
 didelphoid
 disinclines
+derisory
 doffs
 detriment
 disdiaclasis

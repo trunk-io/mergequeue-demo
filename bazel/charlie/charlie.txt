@@ -3555,7 +3555,6 @@ chaired
 colostral
 captivated
 crucibles
-coset
 captivates
 captivatingly
 clowre
@@ -10254,6 +10253,7 @@ counterformula
 chiasmic
 cleruchic
 chiasms
+coset
 chiasmus
 coeline
 curacao
