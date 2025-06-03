@@ -7783,7 +7783,6 @@ chorogi
 cerotypes
 confirmedly
 cerous
-ceroxyle
 cerrial
 certain
 conservatism
@@ -13110,6 +13109,7 @@ cyathos
 cyathus
 confest
 cibarial
+ceroxyle
 champaca
 cibarian
 cibaries
