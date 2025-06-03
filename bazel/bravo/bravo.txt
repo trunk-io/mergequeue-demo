@@ -5659,7 +5659,6 @@ billyer
 br
 barristerial
 bathrobe
-belch
 busheller
 bovovaccination
 belches
@@ -8868,6 +8867,7 @@ bioactivities
 bioassaying
 byplace
 bioastronautics
+belch
 biobibliographer
 barleysick
 bioblastic
