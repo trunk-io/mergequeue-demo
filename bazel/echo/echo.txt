@@ -5560,7 +5560,6 @@ ethologist
 enflaming
 epiklesis
 equuleus
-escapeway
 embryulcus
 enflower
 ectognatha
@@ -13397,6 +13396,7 @@ empodium
 expostulative
 entobranchiate
 expostulatively
+escapeway
 exemplify
 exposture
 epanaphoral
