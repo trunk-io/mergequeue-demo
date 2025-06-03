@@ -2308,6 +2308,7 @@ dactylioglyphic
 danglement
 drat
 diacetyls
+delectations
 denizens
 didna
 disseizin
@@ -6854,7 +6855,6 @@ donataries
 desmine
 degenerates
 dextrocardial
-delectations
 dendrograph
 desmodynia
 desmodontidae
