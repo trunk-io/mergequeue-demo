@@ -765,6 +765,7 @@ ecoute
 exscinding
 ecphonema
 emotes
+echinal
 euomphalid
 egger
 ecrase
@@ -4757,7 +4758,6 @@ epistler
 entomophytous
 equidifferent
 episcopally
-echinal
 establishments
 exploratory
 extracardial
