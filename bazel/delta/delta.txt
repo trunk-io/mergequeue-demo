@@ -9075,7 +9075,6 @@ dictaphone
 dernier
 drinkproof
 dictaphones
-dictate
 dictating
 dabbers
 doping
@@ -15951,6 +15950,7 @@ drawlingly
 dotarie
 drybeard
 dotation
+dictate
 digammic
 discoid
 dotchin
