@@ -2979,7 +2979,6 @@ actinocrinite
 agnates
 actinodielectric
 actinodromous
-actinoelectric
 actinoelectrically
 antigenic
 aerogeography
@@ -15118,6 +15117,7 @@ antiendowment
 aquilon
 antienthusiastic
 ayes
+actinoelectric
 afterfame
 antienthusiastically
 antienvironmentalism
