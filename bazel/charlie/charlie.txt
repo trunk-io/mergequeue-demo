@@ -4911,6 +4911,7 @@ carrotin
 congregants
 carrotins
 carrotweed
+corporation
 canonization
 clomben
 carrotwood
@@ -25583,7 +25584,6 @@ corporate
 christenmas
 corporately
 corporateness
-corporation
 corporationer
 corporationism
 countergift
