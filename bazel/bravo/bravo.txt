@@ -3974,6 +3974,7 @@ beaconless
 bicycles
 beslur
 beacons
+buoyancy
 beadeye
 beader
 bellmaker
@@ -16766,7 +16767,6 @@ begari
 blindfolding
 budger
 bagasse
-buoyancy
 budgerow
 budgetary
 bigroot
