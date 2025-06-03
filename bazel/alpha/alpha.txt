@@ -3354,7 +3354,6 @@ azurite
 adaptive
 amortizement
 attending
-abiosis
 ankou
 apostemation
 argosies
@@ -24509,6 +24508,7 @@ aerophile
 auxiliaries
 androcracy
 auxiliate
+abiosis
 anelastic
 anaptyctical
 amusively
