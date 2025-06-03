@@ -13360,7 +13360,6 @@ ankylodontia
 assumption
 ankyloglossia
 allergia
-abbr
 auditress
 ankylopodia
 ankyloproctia
@@ -22259,6 +22258,7 @@ astrochemistry
 aurignacian
 astrocytic
 astrocytoma
+abbr
 astrocytomas
 ailerons
 anal
