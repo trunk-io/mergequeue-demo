@@ -1937,7 +1937,6 @@ aversive
 anamirtin
 acetylization
 ammonization
-acetylize
 acetylizer
 acetylizing
 acetylmethylcarbinol
@@ -12648,6 +12647,7 @@ angelicic
 angelicize
 angelicness
 angelico
+acetylize
 angelina
 attle
 angelize
