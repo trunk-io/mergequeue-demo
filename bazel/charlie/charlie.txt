@@ -1774,7 +1774,6 @@ cordage
 calvary
 caffeate
 countergarrison
-concubitus
 curagh
 calvarial
 calvaries
@@ -12585,6 +12584,7 @@ chron
 caplets
 cacothes
 concurrences
+concubitus
 chronaxie
 chronaxies
 chronic
