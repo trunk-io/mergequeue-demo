@@ -9360,7 +9360,6 @@ conjunctive
 chaudfroid
 chauffage
 chauffer
-chauffers
 chauffeured
 chauffeuring
 crankplate
@@ -26894,6 +26893,7 @@ cubiform
 carpogonial
 counterlatration
 counterlaw
+chauffers
 counterlegislation
 conant
 counterly
