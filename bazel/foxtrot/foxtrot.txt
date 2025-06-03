@@ -1951,7 +1951,6 @@ forbite
 forecaster
 fothergilla
 fancy
-feebleness
 feebless
 filatory
 fillock
@@ -5336,6 +5335,7 @@ fraughting
 feedbin
 fettles
 flanken
+feebleness
 fascia
 fruiteries
 ferulaic
