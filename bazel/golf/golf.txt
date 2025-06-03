@@ -4301,7 +4301,6 @@ grubless
 gravidity
 gymnic
 gymnemic
-glycoprotein
 gloeosporiose
 gawks
 geodesist
@@ -8227,6 +8226,7 @@ graphophone
 grossulariaceae
 graphophonic
 graphoscope
+glycoprotein
 grinderies
 gamestress
 gorling
