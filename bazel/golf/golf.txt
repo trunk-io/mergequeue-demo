@@ -5213,7 +5213,6 @@ geroderma
 genethlialogy
 gyrfalcons
 goldin
-geomancer
 guardianships
 girouette
 gleys
@@ -8001,6 +8000,7 @@ geminiflorous
 gravels
 glenoidal
 granitiform
+geomancer
 granitite
 ghain
 genteelish
