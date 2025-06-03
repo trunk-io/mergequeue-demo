@@ -2813,7 +2813,6 @@ fumigatories
 fcomp
 florigen
 fretted
-frontosquamosal
 faunae
 faveolate
 frieseite
@@ -4903,6 +4902,7 @@ fossilist
 finisher
 floreat
 forbearers
+frontosquamosal
 flauntiest
 forbidal
 fusee
