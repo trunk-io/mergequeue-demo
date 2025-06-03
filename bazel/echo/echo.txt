@@ -5152,7 +5152,6 @@ extrapolate
 endoenzyme
 entresol
 elytrorrhaphy
-endoergic
 epicarp
 encyclic
 erava
@@ -5534,6 +5533,7 @@ expandability
 episcopality
 enfevered
 ecphrasis
+endoergic
 enfevering
 emitters
 enzootic
