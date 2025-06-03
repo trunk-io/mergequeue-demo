@@ -4965,7 +4965,6 @@ germanization
 genom
 ganof
 gurgoyl
-glandiform
 gastrelcosis
 glanditerous
 ginger
@@ -7911,6 +7910,7 @@ goniatitid
 gynecologic
 getups
 grippy
+glandiform
 grandiosity
 gudok
 ganglionectomy
