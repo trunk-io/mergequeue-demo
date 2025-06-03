@@ -3107,7 +3107,6 @@ fogbank
 facsimile
 fairylike
 fibrocement
-faint
 federalness
 fluentness
 fieulamort
@@ -7750,6 +7749,7 @@ foremother
 frithbot
 flyblew
 flickery
+faint
 fraenum
 forgathering
 finning
