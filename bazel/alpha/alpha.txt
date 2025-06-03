@@ -2528,7 +2528,6 @@ acor
 acorea
 atomistic
 aecidia
-aghorapanthi
 acorus
 acosmic
 acosmism
@@ -24503,6 +24502,7 @@ auxeses
 altercative
 auxesis
 auxetic
+aghorapanthi
 anywhereness
 auxiliary
 armsize
