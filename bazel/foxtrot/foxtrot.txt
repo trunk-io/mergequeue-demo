@@ -2877,7 +2877,6 @@ funks
 fetterlock
 flatfish
 forewing
-feign
 foxship
 frisettes
 fantasize
@@ -11000,6 +10999,7 @@ flintiest
 foreproffer
 furfurol
 fumblers
+feign
 fumbles
 fumbling
 fumblingness
