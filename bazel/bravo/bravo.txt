@@ -4991,7 +4991,6 @@ beermaker
 beermaking
 beermonger
 blackland
-benzoyls
 bumpoff
 beefers
 bombycilla
@@ -7117,6 +7116,7 @@ bathyscaphes
 bespeckle
 bethylid
 bespeckled
+benzoyls
 blindman
 bespectacled
 beefless
