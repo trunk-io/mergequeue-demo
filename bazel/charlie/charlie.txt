@@ -3088,7 +3088,6 @@ cumaldehyde
 coperiodic
 capriola
 canvasing
-canvaslike
 causata
 canvasser
 canzona
@@ -11006,6 +11005,7 @@ chiropodic
 chiropodical
 caphite
 cavascope
+canvaslike
 chiropodistry
 callan
 chiropodists
