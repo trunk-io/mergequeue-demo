@@ -20718,6 +20718,7 @@ complex
 complexation
 complexedness
 complexer
+cuinfo
 complexes
 convolvuli
 consonantise
@@ -30716,7 +30717,6 @@ cuiejo
 cuif
 cuifs
 cuinage
-cuinfo
 cuing
 cuirassed
 catachrestical
