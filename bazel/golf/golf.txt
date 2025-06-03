@@ -5475,7 +5475,6 @@ glyster
 gamekeepers
 gangboard
 gablet
-glissando
 glistened
 grande
 ganoids
@@ -5652,6 +5651,7 @@ garefowls
 gentlefolks
 gnatlike
 governor
+glissando
 ginglymodian
 gies
 glorying
