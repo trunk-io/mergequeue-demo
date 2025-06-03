@@ -2541,7 +2541,6 @@ dimorphs
 dumbfounded
 dweller
 declassification
-delocalized
 derringer
 diachrony
 declassifies
@@ -16397,6 +16396,7 @@ downway
 disdain
 drunkery
 downwardly
+delocalized
 dispellable
 dogtrotted
 downwards
