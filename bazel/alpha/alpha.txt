@@ -9444,6 +9444,7 @@ altarpieces
 altars
 armbone
 anemones
+angiosclerotic
 altazimuth
 alter
 alterable
@@ -12773,7 +12774,6 @@ archaeocyathus
 ascher
 armorwise
 ammocoetid
-angiosclerotic
 angioscope
 arlington
 angiosymphysis
