@@ -4619,7 +4619,6 @@ fitters
 foxery
 fifo
 francophilism
-forenames
 firked
 factorizations
 fullnesses
@@ -8291,6 +8290,7 @@ ferrule
 fosterage
 freestyler
 fusspots
+forenames
 forepole
 foregame
 fraternising
