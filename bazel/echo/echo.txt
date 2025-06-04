@@ -6211,6 +6211,7 @@ enterclose
 execs
 economic
 ellipsoid
+erasure
 exodist
 enophthalmus
 executable
@@ -8810,7 +8811,6 @@ enskyed
 encompany
 embelin
 entempest
-erasure
 entomostracous
 erat
 ethoxy
