@@ -5585,7 +5585,6 @@ grabman
 groundwall
 goldseed
 guayroto
-gallinules
 glochid
 geranial
 gemology
@@ -10604,6 +10603,7 @@ goldenmouth
 greenockite
 gallow
 glumose
+gallinules
 gotraja
 goy
 guildite
