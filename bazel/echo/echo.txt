@@ -3781,6 +3781,7 @@ esthetical
 emparl
 ethnohistorical
 extolled
+economic
 expletory
 emended
 ecu
@@ -6206,7 +6207,6 @@ enological
 enols
 enterclose
 execs
-economic
 ellipsoid
 erasure
 exodist
