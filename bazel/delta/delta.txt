@@ -17581,7 +17581,6 @@ decalcifier
 drumstick
 drumwood
 drunk
-dentelle
 drunkards
 desuperheater
 dogbite
@@ -18002,6 +18001,7 @@ dropforging
 dislodgeable
 disseminator
 deporture
+dentelle
 dyers
 dulcified
 dulcifluous
