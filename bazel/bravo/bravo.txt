@@ -4030,7 +4030,6 @@ beeve
 bedrock
 beamers
 beamfilling
-beamful
 beeware
 bivalvous
 beamhouse
@@ -5739,6 +5738,7 @@ braziery
 believability
 believer
 believers
+beamful
 bloomery
 blankite
 budge
