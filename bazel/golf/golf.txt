@@ -5677,7 +5677,6 @@ glossemic
 glaciometer
 gorilline
 gesundheit
-goitered
 gomavel
 glossies
 glossiest
@@ -9581,6 +9580,7 @@ gnathobdellida
 gunbarrel
 grimmiaceous
 gangerel
+goitered
 gemses
 gr
 guzerat
