@@ -23720,6 +23720,7 @@ acetifier
 avowance
 alto
 auspice
+authenticated
 aerohydroplane
 antisyndicalist
 auspicious
@@ -23850,7 +23851,6 @@ asiphonate
 authentic
 authentically
 antipleuritic
-authenticated
 assignees
 authenticates
 authentication
