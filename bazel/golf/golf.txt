@@ -6322,6 +6322,7 @@ gollywobbler
 gambelli
 ganoblast
 garnitures
+gustables
 gofer
 gutsiness
 given
@@ -10720,7 +10721,6 @@ gox
 gussets
 gloms
 gairfish
-gustables
 gassers
 gaddi
 gustard
