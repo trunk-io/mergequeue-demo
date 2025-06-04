@@ -7232,7 +7232,6 @@ economese
 ergatomorphism
 evolutionally
 epicurize
-eof
 eohippus
 eohippuses
 electronegativity
@@ -14149,6 +14148,7 @@ escapists
 episcopising
 entredeux
 extrusory
+eof
 examinations
 ethmopalatine
 extubation
