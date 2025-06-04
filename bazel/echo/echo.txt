@@ -967,6 +967,7 @@ epimeritic
 embalming
 entailments
 emanator
+euchrone
 epencephalic
 eodiscid
 erythroblastotic
@@ -9915,7 +9916,6 @@ emmensite
 earthnuts
 elaterium
 ephedrin
-euchrone
 executes
 estivating
 euhedral
