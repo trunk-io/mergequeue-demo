@@ -10252,6 +10252,7 @@ chiasmatic
 combretaceae
 chiasmatype
 counterformula
+clockings
 chiasmic
 cleruchic
 chiasms
@@ -16512,7 +16513,6 @@ comodato
 caponizes
 clocker
 clockhouse
-clockings
 clockless
 cuon
 clockmaker
