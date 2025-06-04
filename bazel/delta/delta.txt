@@ -11727,7 +11727,6 @@ disworth
 dorms
 dockman
 discoverer
-discovery
 decancellation
 dodoes
 discoverture
@@ -15316,6 +15315,7 @@ dolmas
 dolmen
 desubstantiate
 dolomedes
+discovery
 dolomite
 derries
 dose
