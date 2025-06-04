@@ -958,7 +958,6 @@ dipsey
 dray
 disjoints
 doughmen
-digraphs
 dare
 directcarving
 drosophila
@@ -3092,6 +3091,7 @@ defaillance
 defaitiste
 defalcated
 diethyltryptamine
+digraphs
 depleting
 dialecticize
 defalcating
