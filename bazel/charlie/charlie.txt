@@ -6723,7 +6723,6 @@ ceilometer
 couac
 ceylonite
 ceils
-ceint
 compound
 counterquestion
 coathangers
@@ -18644,6 +18643,7 @@ cadillacs
 cystomata
 coinclination
 coachability
+ceint
 coincorporate
 coindicant
 coiner
