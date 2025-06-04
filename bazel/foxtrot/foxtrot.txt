@@ -292,7 +292,6 @@ fissle
 foxfire
 fledges
 fragmentisation
-froren
 flanks
 fraenums
 foreboder
@@ -7474,6 +7473,7 @@ flatuses
 fluor
 fourbagger
 fluellin
+froren
 fusk
 frolicful
 fogou
