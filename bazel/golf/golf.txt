@@ -3155,7 +3155,6 @@ graplin
 glycans
 geraniaceae
 gazon
-gelatinobromide
 gabler
 glycyrrhiza
 gingelies
@@ -10663,6 +10662,7 @@ guric
 grog
 granitization
 grandeurs
+gelatinobromide
 gurl
 glyceryl
 grove
