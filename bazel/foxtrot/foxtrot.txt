@@ -266,7 +266,6 @@ faders
 firedamp
 fadge
 furfuramide
-fellowless
 furniment
 flattered
 fellagha
@@ -1643,6 +1642,7 @@ fiard
 flophouse
 fied
 foreannounce
+fellowless
 fipenny
 four
 fdnames
