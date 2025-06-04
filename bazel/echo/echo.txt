@@ -10825,7 +10825,6 @@ escheatage
 euonymy
 euonymous
 exochorda
-euonymus
 exsibilate
 enregistry
 echinid
@@ -12711,6 +12710,7 @@ exophthalmia
 embloom
 exenterating
 exophthalmus
+euonymus
 emboweling
 engramma
 exopod
