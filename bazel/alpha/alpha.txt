@@ -12391,6 +12391,7 @@ apiarist
 adventists
 andronicus
 androphagous
+adjective
 androphorous
 antipyryl
 amenty
@@ -18581,7 +18582,6 @@ acarophilous
 acini
 archaeographic
 archaeographical
-adjective
 acerathere
 academial
 archaeolater
