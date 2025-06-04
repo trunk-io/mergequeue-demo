@@ -1388,6 +1388,7 @@ dispel
 downdale
 dismain
 doketism
+demonomanie
 dispraiser
 dorsiflexor
 delis
@@ -4926,7 +4927,6 @@ demonologer
 demonology
 demonologically
 disluster
-demonomanie
 duteously
 densitometers
 demonomist
