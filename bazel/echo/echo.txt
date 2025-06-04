@@ -5304,7 +5304,6 @@ enjewel
 everglades
 exsertion
 endospore
-endosporic
 exophagous
 evidentness
 encharm
@@ -10791,6 +10790,7 @@ eumerism
 encrinus
 electrogilding
 exflagellate
+endosporic
 eumycete
 eulogiums
 elaborating
