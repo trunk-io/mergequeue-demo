@@ -1898,7 +1898,6 @@ cartonnage
 cambricleaf
 colobus
 curs
-countercampaign
 cambridge
 catostomidae
 chaumer
@@ -28529,6 +28528,7 @@ confluently
 cassada
 credentialed
 carrot
+countercampaign
 croomia
 cueva
 cystines
