@@ -42,7 +42,6 @@ jobs:
           echo 'test ${{ steps.get-demo-config.outputs.test }}'
           echo 'build ${{ steps.get-demo-config.outputs.build }}'
 
-Add commentMore actions
       - name: bazel pr targets
         uses: trunk-io/merge-action@v1
         if:
