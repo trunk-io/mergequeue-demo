@@ -24,4 +24,5 @@ actions:
 
 tools:
   enabled:
+    - bazel@8.2.1
     - jq@jq-1.7.1

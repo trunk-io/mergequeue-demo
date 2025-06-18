@@ -43,14 +43,13 @@ jobs:
           echo 'build ${{ steps.get-demo-config.outputs.build }}'
 
       - name: bazel pr targets
-        uses: trunk-io/merge-action@v1
+        uses: trunk-io/trunk-action@v1
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
           steps.get-demo-config.outputs.build == 'bazel'
         with:
           trunk-token: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
-          bazel-workspace-path: bazel
-          verbose: 1
+          workspace-path: bazel
         env:
           API_URL: https://api.trunk-staging.io:443/v1/setImpactedTargets
 
