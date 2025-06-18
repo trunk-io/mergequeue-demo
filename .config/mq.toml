@@ -1,4 +1,4 @@
-mode = "singlequeue"
+mode = "parallelqueue"
 
 [trunk]
 api = "api.trunk.io"
