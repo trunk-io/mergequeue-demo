@@ -30,19 +30,16 @@ jobs:
         run: |
           output=$(./mq config)
           echo "$output" | jq -r '.mode'
-
-          echo "test=hello" >> "$GITHUB_OUTPUT"
-
-          echo "mode=$(echo "$output" | jq -r '.mode')" >> $GITHUB_ENV
+          echo "test='this is a test screen'" >> $GITHUB_OUTPUT
           echo "mode=$(echo "$output" | jq -r '.mode')" >> $GITHUB_OUTPUT
-          echo "build=$(echo "$output" | jq -r '.build')" >> $GITHUB_ENV
-          echo "flake_rate=$(echo "$output" | jq -r '.flake_rate')" >> $GITHUB_ENV
-          echo "sleep_for=$(echo "$output" | jq -r '.sleep_for')" >> $GITHUB_ENV
+          echo "build=$(echo "$output" | jq -r '.build')" >> $GITHUB_OUTPUT
+          echo "flake_rate=$(echo "$output" | jq -r '.flake_rate')" >> $GITHUB_OUTPUT
+          echo "sleep_for=$(echo "$output" | jq -r '.sleep_for')" >> $GITHUB_OUTPUT
 
       - name: out
         run: |
           echo 'mode ${{ steps.get-demo-config.outputs.mode }}'
-          echo 't ${{ steps.get-demo-config.outputs.test }}'
+          echo 'test ${{ steps.get-demo-config.outputs.test }}'
           echo 'build ${{ steps.get-demo-config.outputs.build }}'
 
       - name: bazel pr targets
