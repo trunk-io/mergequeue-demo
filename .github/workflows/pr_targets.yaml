@@ -50,7 +50,7 @@ jobs:
         with:
           trunk-token: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
           bazel-workspace-path: bazel
-          bazel-diff-generate-hashes-extra-args: --noexcludeExternalTargets
+          bazel-diff-generate-hashes-extra-args: --no-excludeExternalTargets
           verbose: 1
         env:
           API_URL: https://api.trunk-staging.io:443/v1/setImpactedTargets
