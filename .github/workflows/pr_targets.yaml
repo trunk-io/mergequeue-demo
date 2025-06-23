@@ -43,7 +43,7 @@ jobs:
           echo 'build ${{ steps.get-demo-config.outputs.build }}'
 
       - name: bazel pr targets
-        uses: trunk-io/merge-action@acc6d44ce6364f1d2c9f05b78b42035a333fd15f
+        uses: trunk-io/merge-action@752cadfa168ce011c0fa396f4cbc6159ea445c02
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
           steps.get-demo-config.outputs.build == 'bazel'
