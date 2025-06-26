@@ -3274,7 +3274,6 @@ burdie
 basipodite
 blank
 basipterygium
-battle
 baratheas
 believe
 brisant
@@ -12555,6 +12554,7 @@ brails
 brontogram
 bridehead
 boniface
+battle
 bonification
 bolshevik
 bonyfish
