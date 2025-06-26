@@ -3433,7 +3433,6 @@ deflore
 dubash
 disgarland
 deceleron
-deflower
 damnosa
 dentagra
 deflowered
@@ -11404,6 +11403,7 @@ disquieten
 disciplinarily
 disciplinate
 distrouser
+deflower
 decarbonate
 disciplinatory
 dewaterer
