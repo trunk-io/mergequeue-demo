@@ -1949,7 +1949,6 @@ bandstring
 bathymetric
 brandishes
 bosquets
-bitripartite
 baahling
 beeway
 beworms
@@ -6462,6 +6461,7 @@ behoot
 blowup
 benzothiazine
 benzothiazoline
+bitripartite
 benzothiodiazole
 bergamiol
 bumpering
