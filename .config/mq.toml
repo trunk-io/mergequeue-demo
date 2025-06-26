@@ -1,5 +1,5 @@
 mode = "parallelqueue"
-build = "bazel"
+build = "named-targets"
 
 [trunk]
 api = "api.trunk.io"

@@ -16,3 +16,5 @@ mq.gz
 **/bazel-testlogs/
 **/bazel-bazel/
 **/.bazel/
+
+venv/
