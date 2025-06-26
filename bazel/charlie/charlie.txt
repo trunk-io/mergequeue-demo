@@ -27837,7 +27837,6 @@ contractus
 cpd
 chemurgic
 cpo
-cps
 cpt
 cpus
 contractional
@@ -31035,6 +31034,7 @@ cyclones
 cumulate
 canberra
 cumulated
+cps
 cerebrate
 cumulately
 contemplatively
