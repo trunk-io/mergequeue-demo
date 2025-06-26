@@ -3451,6 +3451,7 @@ caprin
 candlebeam
 cimelia
 caprioled
+catalecta
 caprioles
 capriote
 capriped
@@ -17037,7 +17038,6 @@ clutterment
 cm
 coinclude
 cmd
-catalecta
 cml
 cofferdams
 cnemial
