@@ -4696,7 +4696,6 @@ alluvial
 alveolarly
 aeolidae
 ambrotype
-aeolis
 aeolist
 aeolotropy
 aeolus
@@ -19893,6 +19892,7 @@ armyworms
 armlessness
 armlets
 aiguellette
+aeolis
 armlike
 armload
 armlock
