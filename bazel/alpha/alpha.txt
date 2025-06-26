@@ -10263,7 +10263,6 @@ alchemister
 amelcorns
 amelet
 amelification
-ameliorable
 ameliorableness
 amylocellulose
 auxometer
@@ -20388,6 +20387,7 @@ arsonate
 arteriorrhaphy
 arseniuret
 antalgic
+ameliorable
 arsonists
 aeschynanthus
 accrementitial
