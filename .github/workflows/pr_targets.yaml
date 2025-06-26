@@ -30,16 +30,14 @@ jobs:
         run: |
           output=$(./mq config)
           echo "$output" | jq -r '.mode'
-          echo "test='this is a test screen'" >> $GITHUB_OUTPUT
           echo "mode=$(echo "$output" | jq -r '.mode')" >> $GITHUB_OUTPUT
           echo "build=$(echo "$output" | jq -r '.build')" >> $GITHUB_OUTPUT
           echo "flake_rate=$(echo "$output" | jq -r '.flake_rate')" >> $GITHUB_OUTPUT
           echo "sleep_for=$(echo "$output" | jq -r '.sleep_for')" >> $GITHUB_OUTPUT
 
-      - name: out
+      - name: mergeq queue configuration
         run: |
           echo 'mode ${{ steps.get-demo-config.outputs.mode }}'
-          echo 'test ${{ steps.get-demo-config.outputs.test }}'
           echo 'build ${{ steps.get-demo-config.outputs.build }}'
 
       - name: bazel pr targets
@@ -60,7 +58,8 @@ jobs:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
           steps.get-demo-config.outputs.build != 'bazel'
         run: |
-          echo "::group::GitHub Json"
+          # uncomment if you want to see full github json
+          # echo "::group::GitHub Json"
           TEMP_FILE=$(mktemp)
           echo '${{ toJSON(github) }}' > $TEMP_FILE
           echo "::endgroup::"
