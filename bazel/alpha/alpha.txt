@@ -3721,7 +3721,6 @@ aquashow
 adherent
 adherents
 adherers
-adheres
 abbozzo
 anticipatively
 archivolt
@@ -17942,6 +17941,7 @@ approximable
 alpinism
 approximal
 athreptic
+adheres
 approximants
 ambits
 antiheroic
