@@ -6752,7 +6752,6 @@ affrontiveness
 aircraftsmen
 aircraftswoman
 aircraftwoman
-aircrew
 aortae
 agrimonia
 axoplasms
@@ -15416,6 +15415,7 @@ antimechanism
 antimechanistic
 apocopic
 antimechanistically
+aircrew
 antimechanization
 antimediaevalist
 antimediaevally
