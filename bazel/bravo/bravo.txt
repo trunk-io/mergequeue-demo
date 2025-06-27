@@ -3571,7 +3571,6 @@ boozer
 bathoflore
 bibliomaniacal
 batholithic
-batholiths
 balaamite
 butchers
 balconet
@@ -15734,6 +15733,7 @@ brocolis
 bedman
 basicities
 brionine
+batholiths
 broderer
 brodiaea
 bilateralistic
