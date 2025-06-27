@@ -10380,7 +10380,6 @@ ballist
 brays
 blanched
 blanches
-blancmange
 buntlines
 besnows
 blancmanges
@@ -11441,6 +11440,7 @@ bairnliest
 bluepoint
 bluepoints
 blueprint
+blancmange
 blazingly
 bluesy
 bluesman
