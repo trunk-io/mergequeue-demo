@@ -3437,6 +3437,7 @@ deflowered
 deflowerer
 dumpcart
 dipleurogenetic
+dormient
 duelists
 dehumidifier
 damp
@@ -15775,7 +15776,6 @@ dormers
 dormette
 dormeuse
 dormice
-dormient
 dormilona
 dormitive
 dormitories
