@@ -3450,7 +3450,6 @@ chinwood
 caprin
 candlebeam
 cimelia
-caprioled
 catalecta
 caprioles
 capriote
@@ -3533,6 +3532,7 @@ captacula
 captain
 captaincy
 captaincies
+caprioled
 captainry
 captainship
 communistically
