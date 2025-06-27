@@ -4219,6 +4219,7 @@ chapbooks
 cardo
 cardona
 cardoncillo
+colorum
 cardoon
 conure
 cardoons
@@ -24793,7 +24794,6 @@ carnel
 carolinas
 copulation
 copulative
-colorum
 coenamoring
 conquian
 cardiidae
