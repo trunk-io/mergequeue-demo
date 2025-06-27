@@ -5725,7 +5725,6 @@ dialup
 depleteable
 decapodan
 ducape
-depleted
 donkeyback
 dichroite
 daftlike
@@ -6241,6 +6240,7 @@ disvaluation
 discontentment
 dawed
 derma
+depleted
 damascened
 digametic
 dermabrasion
