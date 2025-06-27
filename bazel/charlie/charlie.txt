@@ -4699,7 +4699,6 @@ carpalia
 carpals
 chela
 carpathian
-carpe
 carped
 carpellary
 cytinaceous
@@ -18149,6 +18148,7 @@ coleochaetaceae
 coequal
 collars
 campman
+carpe
 coequalness
 chopping
 coequals
