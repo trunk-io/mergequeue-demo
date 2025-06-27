@@ -13830,7 +13830,6 @@ discomposingly
 dindle
 distain
 distaining
-distance
 denumeration
 diatomic
 demast
@@ -18591,6 +18590,7 @@ dustbins
 dustcart
 devocalisation
 dianoetical
+distance
 dustcover
 diatonicism
 dustee
