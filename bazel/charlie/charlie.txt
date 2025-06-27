@@ -3780,6 +3780,7 @@ carbarn
 captress
 ciconia
 carbasus
+chloroethylene
 carbazic
 carbazylic
 chlorpikrin
@@ -11352,7 +11353,6 @@ candace
 chlorodizing
 cradlers
 chloroethene
-chloroethylene
 chlorofluorocarbon
 chlorofluoromethane
 ceylanite
