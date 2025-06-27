@@ -2946,7 +2946,6 @@ blobby
 barricaded
 beltian
 benedicts
-barricaders
 barricadoes
 brainsick
 blayk
@@ -6458,6 +6457,7 @@ benzosulfimide
 biophysiologist
 barbaresque
 benzosulphimide
+barricaders
 botanises
 bedlamer
 behoot
