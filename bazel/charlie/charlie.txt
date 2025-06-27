@@ -13496,6 +13496,7 @@ certificator
 courb
 cyesis
 cif
+countergage
 camerawork
 cig
 cigarette
@@ -26852,7 +26853,6 @@ chondroxiphoid
 counterfort
 cwm
 countergabion
-countergage
 coccagee
 countergauge
 cassoon
