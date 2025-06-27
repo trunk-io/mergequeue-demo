@@ -18490,7 +18490,6 @@ coharmonize
 cohead
 celiorrhea
 coheading
-coheads
 claviature
 cassate
 cessations
@@ -29898,6 +29897,7 @@ crossflower
 crossfoot
 crosshackle
 crosshair
+coheads
 crosshand
 crosshatches
 cogwheel
