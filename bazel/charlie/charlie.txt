@@ -7216,6 +7216,7 @@ clar
 compare
 centraxonial
 centre
+clinoaxis
 centreboard
 centred
 centref
@@ -17439,7 +17440,6 @@ coaxation
 canneries
 coaxes
 coaxy
-clinoaxis
 cordigeri
 coaxial
 cellarman
