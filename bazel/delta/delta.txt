@@ -2551,6 +2551,7 @@ diachrony
 declassifies
 diplophonic
 disequality
+dematerialize
 discus
 dorsocephalic
 declensionally
@@ -4429,7 +4430,6 @@ donal
 disproportionation
 dioeciousness
 disclaimed
-dematerialize
 dematerialized
 dematerializing
 dematiaceae
