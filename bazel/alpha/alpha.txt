@@ -9461,6 +9461,7 @@ armbone
 anemones
 angiosclerotic
 altazimuth
+autocinesis
 alter
 alterable
 anerethisia
@@ -23963,7 +23964,6 @@ atmometer
 albertina
 autochthonousness
 autocide
-autocinesis
 acetylbiuret
 alumnus
 afterproof
