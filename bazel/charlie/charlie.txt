@@ -4984,7 +4984,6 @@ cartmaking
 cartobibliography
 columbia
 cartogram
-criniger
 comminate
 cartography
 cypseli
@@ -11721,6 +11720,7 @@ clerkdoms
 cardiopneumatic
 cholla
 cryogen
+criniger
 chollas
 choller
 chameleonize
