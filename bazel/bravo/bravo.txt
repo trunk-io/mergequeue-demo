@@ -3684,7 +3684,6 @@ battered
 beltis
 batterie
 breck
-batteryman
 batterman
 bullockman
 bindlet
@@ -14542,6 +14541,7 @@ bounciest
 branchiostomous
 branchireme
 branchless
+batteryman
 banefulness
 bollocks
 bancales
