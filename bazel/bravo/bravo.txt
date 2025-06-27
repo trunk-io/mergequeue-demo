@@ -1329,7 +1329,6 @@ basellaceous
 balatron
 benzaldiphenyl
 balatte
-bankcards
 bergfall
 bermudian
 bernoullian
@@ -15935,6 +15934,7 @@ bronchiarctia
 babyship
 belated
 bronchiolar
+bankcards
 brontoscopy
 bronchioli
 bronchiospasm
