@@ -2670,7 +2670,6 @@ decompress
 decompresses
 detectaphone
 demiplacate
-decompressive
 dogies
 duckies
 dcollet
@@ -12787,6 +12786,7 @@ disloyalties
 dislove
 dandlingly
 desirously
+decompressive
 deforcement
 dunk
 debouch
