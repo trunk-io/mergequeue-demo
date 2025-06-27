@@ -6055,7 +6055,6 @@ cyanide
 catholyte
 cathouse
 carryable
-chandeliers
 cathouses
 crownling
 cathrin
@@ -26212,6 +26211,7 @@ cessant
 coequality
 conform
 crustification
+chandeliers
 cyanite
 cossaean
 cosse
