@@ -2578,7 +2578,6 @@ candlewasting
 coyan
 cordwoods
 codlins
-candlewicking
 conners
 candlewicks
 candlewright
@@ -28683,6 +28682,7 @@ canonicalize
 crenel
 chroococcus
 coloniser
+candlewicking
 contaminates
 constitutes
 corone
