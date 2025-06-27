@@ -2471,7 +2471,6 @@ crystallitic
 cancrum
 cancrums
 cand
-coacervated
 candareen
 candelabra
 candelabras
@@ -28782,6 +28781,7 @@ crescented
 clocked
 chochos
 compensate
+coacervated
 crescentiform
 chinking
 chylifactive
