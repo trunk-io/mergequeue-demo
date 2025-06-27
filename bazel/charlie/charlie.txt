@@ -8607,7 +8607,6 @@ chancellors
 califates
 chancellorship
 chancellorships
-chancelor
 capillaire
 calathidium
 chancels
@@ -18907,6 +18906,7 @@ coliphage
 colyone
 colipuncture
 coliseum
+chancelor
 colossus
 cestoid
 colistin
