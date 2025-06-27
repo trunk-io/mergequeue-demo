@@ -4082,7 +4082,6 @@ darknesses
 dismissible
 delicatessen
 dynam
-dhava
 dustoor
 dominance
 delice
@@ -13198,6 +13197,7 @@ display
 displayable
 dumaist
 depositive
+dhava
 dongolas
 diazole
 dovetailed
