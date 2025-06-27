@@ -2654,6 +2654,7 @@ dasylirion
 doorkeeper
 decompiler
 decomposable
+diceman
 deviceful
 decomposer
 debrief
@@ -8934,7 +8935,6 @@ diceboard
 dilemi
 daunomycin
 disbud
-diceman
 dicentras
 dipyramid
 dyads
