@@ -1016,7 +1016,6 @@ calathea
 calathi
 calathidia
 chamberlainship
-compacting
 calathiform
 calathiscus
 calathos
@@ -8119,6 +8118,7 @@ chaetosoma
 chaetosomatidae
 chaetosomidae
 codrus
+compacting
 chaetotactic
 calculus
 chaetura
