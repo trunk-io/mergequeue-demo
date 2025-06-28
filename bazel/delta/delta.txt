@@ -3316,7 +3316,6 @@ decigram
 definish
 decolored
 decapitalization
-diadoche
 definite
 definitely
 distrait
@@ -7410,6 +7409,7 @@ duncifying
 detectability
 detouring
 dermacentor
+diadoche
 daric
 detoxicant
 dehorter
