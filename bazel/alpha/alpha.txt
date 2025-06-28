@@ -5877,7 +5877,6 @@ agglomerative
 apical
 anartismos
 agglutinate
-analytically
 agglutination
 arenaceous
 arri
@@ -25383,6 +25382,7 @@ aztec
 aztecan
 aztecs
 angiosperm
+analytically
 azthionium
 azulene
 alarmable
