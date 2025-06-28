@@ -6402,6 +6402,7 @@ dustmen
 diplotene
 disassociation
 dorsiventral
+dielec
 derodidymus
 derog
 demeanour
@@ -13215,7 +13216,6 @@ discursativeness
 dechloridizing
 displeasedly
 decelerometer
-dielec
 disreverence
 displeasing
 discountenancer
