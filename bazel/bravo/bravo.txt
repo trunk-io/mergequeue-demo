@@ -1917,6 +1917,7 @@ biotechs
 brevipen
 bandore
 baselard
+balsa
 bandrol
 beatific
 befuddles
@@ -14960,7 +14961,6 @@ bondwomen
 breathless
 breathseller
 breba
-balsa
 boatfalls
 breccial
 boatly
