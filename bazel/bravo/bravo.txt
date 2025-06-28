@@ -1711,6 +1711,7 @@ bryan
 buskers
 brokerage
 bodgery
+botan
 brachypyramid
 broon
 byline
@@ -8898,7 +8899,6 @@ bandoras
 baisakh
 biocycle
 biocycles
-botan
 biocidal
 biocide
 bioclimatic
