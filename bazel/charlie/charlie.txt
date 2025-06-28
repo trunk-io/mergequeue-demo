@@ -8109,7 +8109,6 @@ chaetophobia
 crumples
 chaetophoraceous
 cuvierian
-chaetophorous
 chaetopod
 cirrated
 chaetopodan
@@ -25299,6 +25298,7 @@ cormous
 challa
 corn
 cornaceae
+chaetophorous
 cochin
 cornada
 cornage
