@@ -533,7 +533,6 @@ backtracking
 backtracks
 backout
 babies
-backus
 betrayment
 backveld
 beech
@@ -13733,6 +13732,7 @@ biophyte
 banqueted
 braccio
 billetwood
+backus
 balneatory
 boutefeu
 bouteria
