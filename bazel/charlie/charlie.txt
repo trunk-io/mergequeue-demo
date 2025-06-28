@@ -7525,7 +7525,6 @@ ceratoglossal
 ceratohyal
 consentaneously
 ceratohyoid
-ceratoid
 cartellist
 ceratonia
 cicerones
@@ -22893,6 +22892,7 @@ conserve
 conserved
 conserver
 cassaba
+ceratoid
 conservers
 colposcope
 circuitry
