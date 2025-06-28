@@ -7299,7 +7299,6 @@ cylinderer
 centrums
 cancrizans
 centum
-centums
 colorcaster
 copopsia
 catarinite
@@ -25368,6 +25367,7 @@ cornetfishes
 cornetist
 cornetists
 cornets
+centums
 cornetter
 carkled
 cornetti
