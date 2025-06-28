@@ -5437,7 +5437,6 @@ commercing
 candlesticked
 confront
 casaque
-castlewards
 castlewise
 castock
 clepes
@@ -19804,6 +19803,7 @@ captained
 combwise
 catapulting
 centurion
+castlewards
 ceraunics
 come
 comebacker
