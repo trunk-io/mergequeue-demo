@@ -2772,7 +2772,6 @@ amyelencephalia
 acrospore
 acroclinium
 acrodactyla
-acrodermatitis
 acrodynia
 anapophyses
 acrodont
@@ -19778,6 +19777,7 @@ aminolytic
 armado
 amphicyonidae
 armagnacs
+acrodermatitis
 autochthonous
 alteratively
 acutate
