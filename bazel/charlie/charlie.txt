@@ -2510,7 +2510,6 @@ cantorial
 countermands
 coasters
 candies
-cueing
 candying
 consuetudinary
 candymaker
@@ -8930,6 +8929,7 @@ clodbreaker
 cuniform
 cumarone
 characterism
+cueing
 characteristically
 characteristicalness
 cucaracha
