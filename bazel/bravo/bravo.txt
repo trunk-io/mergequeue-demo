@@ -12259,7 +12259,6 @@ borocaine
 bemud
 bainite
 bolstered
-bolsterer
 battologised
 boardwalk
 biabo
@@ -15554,6 +15553,7 @@ boardable
 brisking
 bareboat
 briss
+bolsterer
 brist
 bristlecone
 bombproof
