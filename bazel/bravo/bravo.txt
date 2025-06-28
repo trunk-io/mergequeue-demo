@@ -3238,7 +3238,6 @@ birder
 binormal
 bitumens
 bolted
-basilweed
 basinal
 bushland
 broader
@@ -17284,6 +17283,7 @@ bantams
 bummel
 bummie
 bumming
+basilweed
 bummler
 barberite
 bumped
