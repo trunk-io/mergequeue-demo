@@ -12275,6 +12275,7 @@ boltin
 boltlike
 beaupers
 boltmaker
+bunga
 blee
 bombaster
 bowfront
@@ -17347,7 +17348,6 @@ badged
 bundles
 bipaliidae
 benzantialdoxime
-bunga
 blanketer
 brombenzene
 bittern
