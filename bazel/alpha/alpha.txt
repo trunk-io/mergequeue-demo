@@ -3565,6 +3565,7 @@ ascesis
 assedat
 arabicize
 austerlitz
+aflow
 agora
 adendritic
 akenbold
@@ -5361,7 +5362,6 @@ almight
 aflat
 agons
 argans
-aflow
 acumen
 aflower
 albuminised
