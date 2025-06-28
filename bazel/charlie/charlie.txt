@@ -24070,7 +24070,6 @@ conversationable
 competency
 coactor
 crimpy
-conversational
 conversationalists
 conversationally
 conversationism
@@ -30064,6 +30063,7 @@ cotice
 commandress
 crouth
 cellule
+conversational
 chattanoogan
 crowbait
 centuriate
