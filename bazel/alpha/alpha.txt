@@ -6783,7 +6783,6 @@ asseverations
 ammoniacal
 airfare
 amyctic
-airfares
 airfield
 airflow
 airflows
@@ -9750,6 +9749,7 @@ androkinin
 ahluwalia
 astrict
 alethiological
+airfares
 amoving
 amah
 amahuaca
