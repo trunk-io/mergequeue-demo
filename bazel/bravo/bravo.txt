@@ -10736,7 +10736,6 @@ benzalhydrazine
 balian
 bandfish
 bogijiab
-birthplace
 brachistocephali
 boney
 bathycolpian
@@ -12885,6 +12884,7 @@ banishers
 boonfellow
 behorror
 bifoil
+birthplace
 bacchiac
 bangster
 bkpt
