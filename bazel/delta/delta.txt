@@ -11493,6 +11493,7 @@ discolorations
 discolored
 doest
 defalcations
+deads
 discolorment
 discolouring
 disconnectiveness
@@ -15086,7 +15087,6 @@ delightable
 dancetty
 desirelessness
 doggish
-deads
 doggishness
 doggle
 doggo
