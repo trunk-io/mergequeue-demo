@@ -4056,6 +4056,7 @@ beams
 bantlings
 bean
 brickred
+boldness
 begottenness
 bedeafen
 brooked
@@ -6846,7 +6847,6 @@ beruffed
 brusqueness
 bilic
 berwick
-boldness
 bummaree
 berzelianite
 burley
