@@ -10167,7 +10167,6 @@ blackens
 bakalei
 blacketeer
 blackfeet
-blankard
 brakeage
 barrelhouses
 barege
@@ -12808,6 +12807,7 @@ baskerville
 bookward
 bookwards
 byronite
+blankard
 bookworm
 bookwright
 booleans

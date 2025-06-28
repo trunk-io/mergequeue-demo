@@ -4274,7 +4274,6 @@ delthyrial
 disilane
 duncan
 destructible
-deltidia
 dineros
 danseuses
 deltohedron
@@ -10183,6 +10182,7 @@ diluvian
 duckbills
 deadly
 dingdonged
+deltidia
 dues
 diverticulate
 diploblastic
