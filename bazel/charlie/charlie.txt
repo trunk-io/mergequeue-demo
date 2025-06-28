@@ -1110,6 +1110,7 @@ columella
 calcinosis
 calciobiotite
 calcioferrite
+ceratobranchial
 calcioscheelite
 calciovolborthite
 calciphylactic
@@ -7509,7 +7510,6 @@ ceratitis
 ceratitoidea
 cataleptics
 ceratoblast
-ceratobranchial
 ceratodidae
 ceratoduses
 centrifugalization
