@@ -12120,7 +12120,6 @@ bostrychoid
 bagpudding
 barristress
 boldfaced
-boldfacedly
 boldfacedness
 boldfacing
 boldhearted
@@ -18156,6 +18155,7 @@ botanicas
 bashless
 bacillicide
 butyryls
+boldfacedly
 butyrin
 byssinosis
 besonnet
