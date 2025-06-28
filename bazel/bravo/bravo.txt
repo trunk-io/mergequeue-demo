@@ -5673,7 +5673,6 @@ burbush
 brutedom
 biers
 belemnitic
-ballast
 bairnlier
 belemnoid
 belayed
@@ -6466,6 +6465,7 @@ benzotrichloride
 bolection
 benzoxyacetic
 blanchers
+ballast
 bisulcate
 bulldogged
 biostratigraphy
