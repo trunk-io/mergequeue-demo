@@ -3094,6 +3094,7 @@ baseburner
 basecourt
 betokener
 baselessly
+boosting
 baselevel
 biradiate
 bismarck
@@ -12911,7 +12912,6 @@ burdenable
 birle
 bungmaker
 babka
-boosting
 bouffante
 bump
 bursectomy
