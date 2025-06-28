@@ -11036,7 +11036,6 @@ degusts
 dhoti
 dumfound
 dodecasyllabic
-disaltern
 dobbers
 divides
 deanthropomorphic
@@ -13708,6 +13707,7 @@ dimmish
 distrail
 discographical
 dissipation
+disaltern
 distils
 dissident
 decentered
