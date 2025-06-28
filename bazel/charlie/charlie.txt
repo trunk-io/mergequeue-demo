@@ -6583,7 +6583,6 @@ clannish
 commissaries
 caxon
 caxton
-campanula
 confluence
 caxtonian
 caza
@@ -7670,6 +7669,7 @@ cerebrosclerosis
 cerebroscope
 codewords
 cerebrose
+campanula
 chargers
 calathisci
 calcarated
