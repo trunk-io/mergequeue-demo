@@ -5783,7 +5783,6 @@ ahoy
 auxetics
 atlatl
 aligner
-author
 agatized
 agatizes
 agatizing
@@ -17161,6 +17160,7 @@ apollinarian
 antiblock
 apollo
 apollonian
+author
 apollonic
 arkansans
 apolloship
