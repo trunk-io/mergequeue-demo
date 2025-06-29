@@ -8345,7 +8345,6 @@ bye
 biggish
 bayadeer
 bepelt
-bedstock
 bigheaded
 balk
 brusque
@@ -14861,6 +14860,7 @@ burning
 blameable
 baja
 breakers
+bedstock
 breakfast
 buffetings
 breakfasted
