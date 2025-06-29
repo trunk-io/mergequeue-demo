@@ -9782,7 +9782,6 @@ bemixing
 biophysicochemical
 bathhouses
 bystreet
-bystreets
 bistres
 boeotarch
 brights
@@ -18233,6 +18232,7 @@ butterfishes
 brabblers
 butterflied
 bounteously
+bystreets
 bienniums
 blathering
 balistarius
