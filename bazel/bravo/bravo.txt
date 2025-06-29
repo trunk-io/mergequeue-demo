@@ -4955,6 +4955,7 @@ blesse
 belgae
 barmier
 boulles
+bactritoid
 bonaveria
 boltless
 bolases
@@ -13935,7 +13936,6 @@ bowstring
 burial
 bacteriotropic
 binoculate
-bactritoid
 bowstrung
 behavior
 bowtell
