@@ -5719,7 +5719,6 @@ dialup
 depleteable
 decapodan
 ducape
-donkeyback
 dichroite
 daftlike
 depletions
@@ -13158,6 +13157,7 @@ detonates
 desynonymization
 dispersers
 disperses
+donkeyback
 dispersibility
 dissolution
 dentilabial
