@@ -7418,7 +7418,6 @@ cephalodiscida
 cephalodiscus
 curtains
 cephalodium
-conditionals
 cephalofacial
 cephalogram
 cephaloid
@@ -10839,6 +10838,7 @@ cheeter
 chinners
 chinny
 creedist
+conditionals
 chinnier
 chinniest
 cyclose
