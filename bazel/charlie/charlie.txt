@@ -2545,7 +2545,6 @@ chaloth
 confraternities
 choosable
 candlelighting
-candlelit
 cohusband
 carvels
 candlemaker
@@ -24126,6 +24125,7 @@ compromisable
 chude
 computerizable
 convertingness
+candlelit
 cocowort
 conclavist
 coassignee
