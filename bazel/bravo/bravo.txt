@@ -351,7 +351,6 @@ beemaster
 backen
 biblicoliterary
 backer
-beehives
 backet
 bangala
 bigha
@@ -12110,6 +12109,7 @@ berun
 bold
 byrnies
 barrat
+beehives
 boldacious
 beguileful
 ballyhooed
