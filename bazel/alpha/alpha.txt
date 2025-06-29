@@ -1478,6 +1478,7 @@ affixable
 acclimatise
 acclimatised
 acclimatiser
+acost
 acclimatising
 allgood
 aegagrus
@@ -2548,7 +2549,6 @@ acorus
 acosmism
 acosmist
 athecata
-acost
 aircoach
 arriage
 amphisbaenidae
