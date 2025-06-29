@@ -861,7 +861,6 @@ begoniaceae
 bauxites
 bicolour
 bagful
-barasingha
 baggagemaster
 bedamning
 baggager
@@ -3754,6 +3753,7 @@ battues
 bourdis
 batture
 bielded
+barasingha
 blackening
 buncombe
 biocontrol
