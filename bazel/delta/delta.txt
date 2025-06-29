@@ -7993,7 +7993,6 @@ drawpoint
 drunkometer
 dextroglucose
 distensive
-demological
 dextrolactic
 despotes
 diphenylthiourea
@@ -10111,6 +10110,7 @@ dangers
 dynamogenesis
 dynamogeny
 dauphins
+demological
 dynamograph
 dauerschlaf
 dynamometamorphic
