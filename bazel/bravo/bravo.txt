@@ -3331,6 +3331,7 @@ basoid
 baraithas
 beltine
 blennoma
+banus
 bayberries
 breast
 blowfish
@@ -14715,7 +14716,6 @@ brattled
 benumbment
 brattling
 bratwurst
-banus
 bibliopolic
 brauna
 burgheristh
