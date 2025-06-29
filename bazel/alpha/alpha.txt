@@ -5405,6 +5405,7 @@ amalgams
 atharvan
 arrange
 algometry
+assegai
 afrikanderdom
 afrit
 adeliza
@@ -17191,7 +17192,6 @@ agrafe
 adoxa
 artillerymen
 apomixes
-assegai
 apomixis
 apomorphia
 angia
