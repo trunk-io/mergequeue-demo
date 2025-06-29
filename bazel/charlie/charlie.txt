@@ -18591,7 +18591,6 @@ clavers
 coiffeur
 coiffeurs
 coiffeuses
-coolheaded
 coiffured
 coiffures
 coiffuring
@@ -27625,6 +27624,7 @@ culp
 cowardness
 cowbane
 collided
+coolheaded
 chamfered
 croquette
 convive
