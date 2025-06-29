@@ -8177,7 +8177,6 @@ coracosteon
 continent
 carcer
 chaffron
-chondri
 clavicornia
 chaffs
 chaffseed
@@ -9058,6 +9057,7 @@ continuo
 charioting
 chariotman
 collegiately
+chondri
 cumarin
 chaplaincy
 cerebbella
