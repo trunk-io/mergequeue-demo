@@ -8580,7 +8580,6 @@ blackeye
 brantcorn
 brawlis
 billeted
-billeter
 bilabe
 boweries
 bankrider
@@ -11091,6 +11090,7 @@ blocking
 borborygmic
 benzimidazole
 biomorphic
+billeter
 broil
 baobabs
 blockmaker
