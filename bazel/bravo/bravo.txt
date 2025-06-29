@@ -3684,6 +3684,7 @@ batterdock
 bearcat
 bucketmaker
 battered
+bedesmen
 beltis
 batterie
 breck
@@ -15870,7 +15871,6 @@ bromgelatin
 bromhydrate
 besprinkling
 bromid
-bedesmen
 bourignianist
 brinie
 bromidically
