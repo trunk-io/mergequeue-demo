@@ -7956,7 +7956,6 @@ cest
 cesta
 catafalque
 cestidae
-cestode
 cestodes
 copatron
 compete
@@ -20706,6 +20705,7 @@ completers
 chemosmosis
 coeffluential
 circumcrescence
+cestode
 completing
 corraded
 commensurated
