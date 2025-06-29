@@ -5744,7 +5744,6 @@ anomaloscope
 anguillulidae
 antismog
 agrised
-amplifier
 ashmen
 agastric
 awacs
@@ -7702,6 +7701,7 @@ artsy
 alcoran
 apposiopestic
 aminity
+amplifier
 alcoranic
 aff
 aphetically
