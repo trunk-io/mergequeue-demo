@@ -3910,6 +3910,7 @@ derivation
 dactyloid
 dejects
 dejecture
+drake
 dejeration
 dejeuner
 dekadrachm
@@ -14986,7 +14987,6 @@ dialoger
 doeling
 defrauders
 doer
-drake
 doesn
 desiccatory
 doffing
