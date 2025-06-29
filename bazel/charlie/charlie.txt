@@ -28141,6 +28141,7 @@ cento
 circumstance
 craniography
 cranioid
+checkable
 craniol
 craniology
 craniologist
@@ -31574,7 +31575,6 @@ coho
 curtate
 controversialists
 curtein
-checkable
 coadunatively
 curteous
 curter
