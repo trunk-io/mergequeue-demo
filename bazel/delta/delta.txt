@@ -3795,7 +3795,6 @@ deia
 deadpanner
 dyostyle
 detest
-disarticulate
 dor
 dwale
 decency
@@ -4800,6 +4799,7 @@ democratizing
 democraw
 decodable
 demodectic
+disarticulate
 deboist
 deaved
 diadochokinetic
