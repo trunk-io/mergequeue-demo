@@ -7473,7 +7473,6 @@ cepheids
 cephen
 coastings
 cardionephric
-cephidae
 cephus
 ceps
 contrastable
@@ -23121,6 +23120,7 @@ coccolithophoridae
 constantan
 constantine
 constantinian
+cephidae
 constantinopolitan
 catechumenate
 canvassed
