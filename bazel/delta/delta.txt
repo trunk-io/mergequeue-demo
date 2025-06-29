@@ -4570,7 +4570,6 @@ dynastically
 demilawyer
 diwans
 demilitarisation
-demilitarise
 demilitarised
 demilitarising
 drawtubes
@@ -17651,6 +17650,7 @@ draftee
 disapprobation
 dreamed
 duadic
+demilitarise
 difluence
 duads
 dentalmen
