@@ -3058,7 +3058,6 @@ curlyheads
 capitonidae
 centrales
 cantrip
-cantrips
 cantus
 cantuta
 cantwise
@@ -17432,6 +17431,7 @@ cajeta
 coattending
 conductivities
 cineangiocardiographic
+cantrips
 coattestator
 coattested
 coattesting
