@@ -5906,6 +5906,7 @@ caterbrawl
 catercap
 catercorner
 camsteary
+caller
 catercornered
 catercornerways
 craner
@@ -27556,7 +27557,6 @@ coverlets
 circumambiently
 consumation
 coverlids
-caller
 clairce
 coverslip
 covertly
