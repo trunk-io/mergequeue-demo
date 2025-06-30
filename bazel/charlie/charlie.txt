@@ -1151,7 +1151,6 @@ culturology
 calcsinter
 chinnam
 cranioclasis
-calcspar
 calcspars
 cotwal
 chlamydophore
@@ -25101,6 +25100,7 @@ corelated
 corelates
 corelating
 chemosurgical
+calcspar
 corelational
 corelative
 consolation
