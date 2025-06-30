@@ -1562,7 +1562,6 @@ alkoranic
 abidden
 autacoids
 accomplisht
-accompt
 accordance
 accordancy
 accordatura
@@ -13043,6 +13042,7 @@ anhydridize
 anhydroglocose
 anhidrosis
 anhidrotic
+accompt
 archespsporia
 anhydrotic
 anhydroxime
