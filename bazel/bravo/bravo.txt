@@ -3583,7 +3583,6 @@ batholithic
 balaamite
 butchers
 balconet
-barkentine
 bathometer
 bathometry
 blockmaking
@@ -13903,6 +13902,7 @@ bedrite
 bowing
 bowings
 bowkail
+barkentine
 blad
 bowlder
 bluefishes
