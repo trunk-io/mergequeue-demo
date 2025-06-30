@@ -17366,7 +17366,6 @@ canonizations
 chickory
 coarsening
 coarsens
-coarser
 coarticulate
 coarticulation
 claylike
@@ -27602,6 +27601,7 @@ conventicler
 covite
 covolume
 catchpennies
+coarser
 cognoscitively
 cypressroot
 cow
