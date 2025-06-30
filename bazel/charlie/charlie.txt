@@ -4886,7 +4886,6 @@ chromatoplasm
 carried
 carryed
 carrier
-chorioadenoma
 carryings
 carriole
 carrioles
@@ -29062,6 +29061,7 @@ crimmer
 copilot
 cephalocaudal
 crymoanesthesia
+chorioadenoma
 coraciae
 commissariats
 cantab
