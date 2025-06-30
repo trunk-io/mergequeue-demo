@@ -20361,7 +20361,6 @@ commutable
 canada
 conjee
 clerks
-commutableness
 commutant
 commutated
 commutation
@@ -29625,6 +29624,7 @@ crocheter
 crocheteur
 crocheting
 codebook
+commutableness
 croci
 crociate
 crocidura
