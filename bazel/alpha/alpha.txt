@@ -5965,6 +5965,7 @@ archaeol
 approximant
 applauder
 archt
+autochromy
 aggroupment
 aghan
 aghas
@@ -7945,7 +7946,6 @@ archidium
 alethoscope
 anthogenous
 aletocyte
-autochromy
 anticombination
 augural
 appliers
