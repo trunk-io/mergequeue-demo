@@ -71,7 +71,6 @@ breastband
 babelet
 blinis
 balata
-babelish
 boycotts
 barouches
 bluestoner
@@ -16692,6 +16691,7 @@ bishopship
 basilisk
 bilaan
 bakwiri
+babelish
 buckhounds
 bucklum
 backstair
