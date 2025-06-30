@@ -53,7 +53,6 @@ adstringe
 acineta
 acrocephalous
 abacus
-annotation
 alcheringa
 anopisthographic
 abacuses
@@ -10801,6 +10800,7 @@ ammo
 amphibological
 anaglypton
 abhiseka
+annotation
 ammochaetae
 ammocoetes
 agglutinated
