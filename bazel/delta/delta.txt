@@ -13128,7 +13128,6 @@ dispensive
 dispeople
 daresay
 deprivative
-depurging
 declivities
 diversifying
 doozer
@@ -14905,6 +14904,7 @@ demonism
 dowitcher
 dolorifuge
 dependencies
+depurging
 deglute
 dodded
 dodder
