@@ -7229,7 +7229,6 @@ bestiary
 backdating
 byelorussia
 bur
-boundable
 bestiarian
 bestiarist
 bestirs
@@ -17888,6 +17887,7 @@ bourse
 bookman
 beauship
 bivium
+boundable
 bushelers
 bescurvy
 bolshies
