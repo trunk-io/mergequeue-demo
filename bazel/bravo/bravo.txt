@@ -3921,7 +3921,6 @@ ballotage
 bd
 boracium
 buttonholes
-beteela
 butternose
 bdellium
 bdelliums
@@ -11391,6 +11390,7 @@ berairou
 bayness
 blousy
 bitingness
+beteela
 blueblood
 boro
 breams
