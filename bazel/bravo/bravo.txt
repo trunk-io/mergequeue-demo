@@ -9730,7 +9730,6 @@ bacchante
 byssal
 bigam
 bissellia
-bissextile
 bissextus
 bullbats
 balding
@@ -16822,6 +16821,7 @@ branchiostege
 backings
 breastrail
 balimbing
+bissextile
 bohemians
 brachyprism
 buffeted
