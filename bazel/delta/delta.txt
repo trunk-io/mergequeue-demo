@@ -3685,7 +3685,6 @@ deplorers
 dozing
 depsid
 disrupt
-dewal
 decimalisation
 discalced
 dropworts
@@ -13174,6 +13173,7 @@ dismasting
 dispersonification
 dispetal
 dysphasia
+dewal
 damps
 diplophonia
 dreamery
