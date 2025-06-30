@@ -5947,7 +5947,6 @@ dextrose
 declass
 defenses
 depressingly
-depressingness
 denuders
 daylighting
 desecrator
@@ -15081,6 +15080,7 @@ doughboy
 drapet
 dyn
 dhamma
+depressingness
 defoliators
 dibbukim
 deludher
