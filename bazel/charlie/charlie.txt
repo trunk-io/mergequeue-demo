@@ -2124,7 +2124,6 @@ cowbells
 campbell
 campbellisms
 campbellites
-costumery
 cixiid
 capriciousness
 campcraft
@@ -5177,6 +5176,7 @@ chronal
 cyphering
 caserne
 casernes
+costumery
 caserns
 cases
 caseum
