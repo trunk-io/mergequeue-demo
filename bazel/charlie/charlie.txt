@@ -17380,6 +17380,7 @@ chlorellaceae
 caravelle
 crownland
 chemigraph
+coreceiver
 cimline
 coassist
 coassistant
@@ -25065,7 +25066,6 @@ cordwainer
 choleraic
 cloves
 core
-coreceiver
 corecipient
 corectome
 cracovienne
