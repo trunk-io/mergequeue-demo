@@ -4012,7 +4012,6 @@ butcheries
 brevier
 beaked
 beakerman
-butterroot
 bellite
 beakermen
 bountiful
@@ -5934,6 +5933,7 @@ beden
 backswordmen
 batswing
 blitzkrieg
+butterroot
 belast
 berber
 belowground
