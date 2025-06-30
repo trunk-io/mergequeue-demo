@@ -5007,7 +5007,6 @@ aurum
 altumal
 aeroscepsis
 amalaka
-aeroscopy
 aerose
 aerosolization
 alchera
@@ -20688,6 +20687,7 @@ anteroventrally
 alody
 agrostographic
 alwise
+aeroscopy
 articulators
 abelonian
 aces
