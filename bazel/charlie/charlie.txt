@@ -4868,7 +4868,6 @@ carreton
 carri
 cetaceous
 carry
-carriage
 carriageable
 carriageful
 clachans
@@ -29016,6 +29015,7 @@ catchpoling
 crimeful
 crimelessness
 crozzly
+carriage
 crimeproof
 criminal
 chickasaws
