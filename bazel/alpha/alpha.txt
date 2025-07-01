@@ -4287,7 +4287,6 @@ asterite
 arracacha
 afterbrain
 adrian
-adriana
 adriatic
 aumbry
 adrift
@@ -13805,6 +13804,7 @@ anorth
 arethusa
 atacamite
 anorthite
+adriana
 antiparalytic
 anorthitic
 antiliturgic
