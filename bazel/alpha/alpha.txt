@@ -11335,6 +11335,7 @@ anobiidae
 amphora
 amphorae
 apiator
+abuzz
 amphore
 aquifers
 antiplatelet
@@ -12639,7 +12640,6 @@ ajivika
 angarias
 aesthesics
 angariation
-abuzz
 abanet
 angaries
 aeronomist
