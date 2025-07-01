@@ -1373,7 +1373,6 @@ accents
 auxillary
 accentual
 accentually
-appertise
 accension
 appointable
 agapanthus
@@ -4511,6 +4510,7 @@ advertence
 advertently
 adverting
 advertiser
+appertise
 advertisers
 achlamydeae
 albication
