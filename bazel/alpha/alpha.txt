@@ -9458,7 +9458,6 @@ altars
 armbone
 anemones
 angiosclerotic
-altazimuth
 autocinesis
 alter
 alterable
@@ -14023,6 +14022,7 @@ anthracoxen
 accomodate
 antechinomys
 agitpropist
+altazimuth
 autopilots
 autocatalytic
 antechoirs
