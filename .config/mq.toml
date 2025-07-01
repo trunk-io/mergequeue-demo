@@ -15,7 +15,7 @@ sleep_for = "2hr"
 [pullrequest]
 labels = ""                     # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 20         # target number of pull requests per hour
+requests_per_hour = 3         # target number of pull requests per hour
 run_generate_for = "30 minutes"
 
 # the max number of deps in this repo. setting to 3 for example will cause
@@ -26,7 +26,7 @@ max_deps = 1
 max_impacted_deps = 1
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
-logical_conflict_every = 40
+logical_conflict_every = 18
 logical_conflict_file = "logical-conflict.txt"
 
 close_stale_after = "48 hours"
