@@ -3498,6 +3498,7 @@ addressful
 amyloidoses
 addressing
 addressograph
+albertype
 amalgamator
 avaradrano
 addrest
@@ -7342,7 +7343,6 @@ albergo
 albert
 albertin
 albertine
-albertype
 albertist
 adnomination
 albertite
