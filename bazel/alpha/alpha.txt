@@ -2338,7 +2338,6 @@ abbreviatory
 athetoid
 absorbed
 acieration
-appurtenance
 acies
 acyesis
 altometer
@@ -13365,6 +13364,7 @@ advertize
 ascill
 anywhence
 aggregational
+appurtenance
 anywhither
 anywither
 anhalonium
