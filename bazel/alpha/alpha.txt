@@ -5866,7 +5866,6 @@ agglomerative
 apical
 anartismos
 agglutinate
-agglutination
 arenaceous
 arri
 agglutinative
@@ -6707,6 +6706,7 @@ alt
 arpeggio
 aeromaechanic
 andrewsite
+agglutination
 abnormities
 amalfian
 ainus
