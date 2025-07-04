@@ -2841,7 +2841,6 @@ acromyotonus
 adinida
 acromphalus
 acronic
-adipose
 acronically
 acronych
 armamentaria
@@ -7398,6 +7397,7 @@ amvis
 apteryx
 albines
 albiness
+adipose
 antithrombic
 albinic
 antiphrastical
