@@ -2839,7 +2839,6 @@ acromiothoracic
 addaxes
 accrete
 actuals
-acromyotonus
 adinida
 acromphalus
 acronic
@@ -21007,6 +21006,7 @@ asclepian
 asclepidin
 asclepidoid
 asclepin
+acromyotonus
 adamant
 ashpan
 aerogenesis
