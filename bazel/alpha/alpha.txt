@@ -4622,6 +4622,7 @@ aecidiostage
 aglare
 alismad
 aecidium
+acoemetic
 aeciospore
 aecioteliospore
 abigeus
@@ -22199,7 +22200,6 @@ antiquates
 astragalomancy
 animality
 addressees
-acoemetic
 astragalotibial
 astragalus
 astrain
