@@ -3497,7 +3497,6 @@ addresser
 addressers
 anilities
 assignment
-acrostichal
 agrestis
 anybodyd
 antthrush
@@ -19706,6 +19705,7 @@ aristolochin
 aristology
 anamite
 anglesmith
+acrostichal
 aristological
 aristologist
 aristophanic
