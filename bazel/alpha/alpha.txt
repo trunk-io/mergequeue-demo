@@ -14135,7 +14135,6 @@ anteoperculum
 anteorbital
 albopannin
 augustinian
-amygdaline
 antepalatal
 aliveness
 amphivorous
@@ -25333,6 +25332,7 @@ alp
 azophenine
 azoprotein
 anoplotheriidae
+amygdaline
 anagrammatization
 avahi
 aethusa
