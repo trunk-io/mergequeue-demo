@@ -12315,6 +12315,7 @@ assisi
 andhra
 andi
 andian
+automatable
 andine
 angakut
 anding
@@ -24192,7 +24193,6 @@ abbasid
 axseeds
 automata
 archdean
-automatable
 apidae
 awash
 aminities
