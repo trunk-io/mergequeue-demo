@@ -2188,7 +2188,6 @@ archdevil
 achondroplasia
 abatjours
 agrostology
-achordal
 alqueire
 amyelotrophy
 achordata
@@ -10611,6 +10610,7 @@ amylases
 amylate
 aglyphodontia
 amildar
+achordal
 angelicas
 amylemia
 arenulous
