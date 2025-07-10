@@ -2488,7 +2488,6 @@ autoloaders
 anagoges
 acoelomi
 anteceded
-acanthopore
 abaisance
 apogean
 accuser
@@ -16791,6 +16790,7 @@ aphonous
 aphorise
 aphorismer
 aphorismical
+acanthopore
 aphorismos
 avatars
 aphorist
