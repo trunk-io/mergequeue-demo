@@ -11244,7 +11244,6 @@ acropolises
 algebar
 amphigory
 amphigories
-async
 appenders
 allthing
 amphikaryotic
@@ -15087,6 +15086,7 @@ annihilationism
 avoyership
 ascetics
 antidotally
+async
 antidote
 appraise
 agnosias
