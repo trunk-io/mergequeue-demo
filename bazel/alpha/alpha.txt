@@ -4892,6 +4892,7 @@ aeroelasticity
 aerofoil
 adjurors
 aerofoils
+adjourned
 algine
 amberfish
 aerogel
@@ -22751,7 +22752,6 @@ aedilitian
 atmospherically
 atmospherics
 abscessroot
-adjourned
 atmospherology
 atmosteal
 antependiums
