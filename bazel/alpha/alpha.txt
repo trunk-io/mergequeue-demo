@@ -23187,7 +23187,6 @@ attractor
 asterias
 adnumber
 apneumatic
-alcids
 antship
 acardite
 anglophobic
@@ -23489,6 +23488,7 @@ awardees
 anapnometer
 autotoxicity
 appennage
+alcids
 augmented
 aumery
 anchylose
