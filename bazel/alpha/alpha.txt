@@ -9945,7 +9945,6 @@ accented
 antihelixes
 amazilia
 amazing
-antizymotic
 almoravides
 allovers
 amazons
@@ -11388,6 +11387,7 @@ admonitory
 anhydremia
 apodosis
 ampullate
+antizymotic
 ampullated
 amphioxus
 ampulliform
