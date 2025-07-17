@@ -9298,6 +9298,7 @@ antisymmetric
 alonzo
 amerimnon
 aloof
+apteryges
 aloofly
 aloose
 alop
@@ -23223,7 +23224,6 @@ abatjour
 attempted
 attunement
 attunes
-apteryges
 ablation
 atua
 atule
