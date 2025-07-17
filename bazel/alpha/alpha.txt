@@ -10460,7 +10460,6 @@ amicabilities
 appredicate
 amicably
 amphipodous
-amical
 amarettos
 answerableness
 anaxagorize
@@ -12193,6 +12192,7 @@ alignment
 anchorlike
 anchorman
 auriculae
+amical
 anchoveta
 anchusa
 argumentatively
