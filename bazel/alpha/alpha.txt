@@ -4746,6 +4746,7 @@ albuminimetry
 allogamy
 attemperation
 aequor
+angiocarpic
 altitudes
 aequorins
 aerate
@@ -12721,7 +12722,6 @@ angiocardiographies
 anileness
 aulophyte
 autarchoglossa
-angiocarpic
 angiocarpous
 aubergine
 angiocholecystitis
