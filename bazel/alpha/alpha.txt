@@ -5474,7 +5474,6 @@ afterdeal
 afterdeck
 adipomata
 afterform
-aevum
 aerolith
 afterfruits
 arteriogram
@@ -24179,6 +24178,7 @@ autolithograph
 autoinfection
 alnein
 autolyzate
+aevum
 arling
 autolyzes
 ambuscade
