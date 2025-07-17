@@ -4728,7 +4728,6 @@ aide
 aeons
 animatist
 aphrodisia
-afterglide
 alaihi
 aepyceros
 aisleless
@@ -23552,6 +23551,7 @@ auramin
 auramine
 asterisms
 aurang
+afterglide
 aborters
 alleviates
 aurantia
