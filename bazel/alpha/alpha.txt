@@ -3672,6 +3672,7 @@ anachoret
 autometry
 alimenting
 attempre
+anlaute
 adenotome
 adenotomic
 adenous
@@ -11074,7 +11075,6 @@ attenuation
 awakings
 antiorthodoxly
 amperometer
-anlaute
 asswage
 ampersands
 archpontiff
