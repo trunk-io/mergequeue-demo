@@ -3716,7 +3716,6 @@ adhaka
 adhara
 aluminothermy
 adharma
-amorphi
 ashstone
 adhere
 atticists
@@ -15584,6 +15583,7 @@ adders
 antinomianism
 arblast
 antinomical
+amorphi
 assembles
 antinomies
 ailment
