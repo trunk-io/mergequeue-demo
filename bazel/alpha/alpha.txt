@@ -11610,7 +11610,6 @@ alphabetize
 athens
 amba
 anacrogynous
-anacrotic
 altricial
 aerenchyma
 anacruses
@@ -15188,6 +15187,7 @@ antifowl
 arthrolite
 adapa
 amalgamates
+anacrotic
 anthropomorphization
 antifreezing
 asperuloside
