@@ -16619,7 +16619,6 @@ athrob
 affrighter
 acid
 antihumanism
-alioth
 ammochryse
 acceder
 apertures
@@ -24924,6 +24923,7 @@ awaking
 automotor
 arseniosiderite
 ankylose
+alioth
 adroit
 awarded
 awkwardish
