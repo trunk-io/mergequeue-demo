@@ -8752,6 +8752,7 @@ acestoma
 alliage
 alliance
 accoast
+aurorium
 anschluss
 appet
 alliancing
@@ -23665,7 +23666,6 @@ aurorally
 aurore
 ascendent
 aurorian
-aurorium
 antifoggant
 additionally
 acct
