@@ -2282,7 +2282,6 @@ acidhead
 azimech
 acidy
 acetamid
-acidiferous
 argil
 adderfish
 alaric
@@ -22152,6 +22151,7 @@ apologetic
 aerier
 alnath
 anvasser
+acidiferous
 aphthic
 adeption
 anaesthesia
