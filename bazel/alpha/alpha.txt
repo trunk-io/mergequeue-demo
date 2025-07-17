@@ -8390,7 +8390,6 @@ alisp
 autograph
 alisphenoidal
 antiferroelectric
-alite
 aliter
 archaiser
 atomechanics
@@ -11750,6 +11749,7 @@ aerosporin
 aiawong
 adenia
 analemma
+alite
 analemmas
 aconitum
 analemmata
