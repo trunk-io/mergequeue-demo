@@ -9483,7 +9483,6 @@ archaeogeology
 arabia
 allochetite
 alternate
-alternated
 alternately
 apheretic
 achier
@@ -25151,6 +25150,7 @@ axite
 axites
 assault
 axle
+alternated
 accommodatingly
 axled
 appendice
