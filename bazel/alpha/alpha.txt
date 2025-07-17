@@ -237,7 +237,6 @@ abbreviation
 ascebc
 abbreviators
 abc
-abcissa
 angiohypotonia
 abcoulomb
 aba
@@ -9668,6 +9667,7 @@ absenting
 antespring
 aprosexia
 autecologic
+abcissa
 alur
 astrophotography
 alurgite
