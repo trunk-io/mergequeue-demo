@@ -5864,7 +5864,6 @@ assemblies
 agglomerate
 anychia
 amblyoscope
-agglomerated
 agglomeratic
 agglomeration
 agglomerative
@@ -19299,6 +19298,7 @@ aretinian
 anticoagulating
 arew
 arf
+agglomerated
 aroar
 asellate
 archrepresentative
