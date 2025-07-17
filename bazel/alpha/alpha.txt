@@ -3164,6 +3164,7 @@ advolution
 active
 academising
 aweather
+asterism
 apostrophized
 actives
 activin
@@ -6419,7 +6420,6 @@ attest
 agust
 acetphenetidin
 acquitting
-asterism
 aha
 ahamkara
 autoclaves
