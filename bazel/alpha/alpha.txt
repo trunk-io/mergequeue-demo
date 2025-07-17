@@ -8908,7 +8908,6 @@ alloiogenesis
 assizer
 alloiometric
 adjustments
-alloisomerism
 allomerizing
 averager
 anematizing
@@ -24622,6 +24621,7 @@ avena
 agouti
 accessibility
 avenage
+alloisomerism
 avenant
 apodeipna
 avenary
