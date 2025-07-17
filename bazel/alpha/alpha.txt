@@ -1062,6 +1062,7 @@ abt
 abterminal
 archreactionary
 aphelion
+allegiance
 abthainrie
 abuilding
 abuleia
@@ -8622,7 +8623,6 @@ abbreviately
 alleghenian
 aspiringness
 anta
-allegiance
 apophasis
 ancylostoma
 allegiancy
