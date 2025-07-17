@@ -1241,7 +1241,6 @@ acanthopterygian
 adversed
 attached
 acanthopterygii
-acanthoses
 acanthotic
 acanthuridae
 argyric
@@ -14763,6 +14762,7 @@ atheromasia
 aizoaceous
 abates
 arabite
+acanthoses
 aforetime
 anglicisms
 ascomycetes
