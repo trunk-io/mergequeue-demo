@@ -3886,7 +3886,6 @@ adjoints
 apieces
 adjourn
 allurance
-adjournal
 arylamino
 adjoust
 adjt
@@ -19038,6 +19037,7 @@ archprelate
 archprelatic
 adjudicator
 askingly
+adjournal
 archprelatical
 armenize
 aholt
