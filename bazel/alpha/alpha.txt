@@ -7640,6 +7640,7 @@ abbrev
 apoquinamine
 alcoholemia
 alcoholically
+aphthous
 appetition
 anaudia
 alcoholicity
@@ -21656,7 +21657,6 @@ ayyubid
 assembl
 assemblable
 assemblance
-aphthous
 assemble
 added
 assembled
