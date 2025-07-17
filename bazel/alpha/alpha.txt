@@ -3954,6 +3954,7 @@ adjutator
 adjute
 adjutor
 aqueity
+anthologizer
 apologer
 adjutory
 adjutrice
@@ -19285,7 +19286,6 @@ areometric
 awm
 areometrical
 arbutus
-anthologizer
 areopagist
 areopagite
 areopagitica
