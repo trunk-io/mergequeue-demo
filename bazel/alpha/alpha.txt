@@ -2503,7 +2503,6 @@ austrasian
 absciss
 amidate
 acoma
-arthropleura
 archdissembler
 antluetic
 amenite
@@ -4856,6 +4855,7 @@ amphibiology
 aloma
 adlegation
 anucleated
+arthropleura
 abrasiveness
 amability
 anthoecology
