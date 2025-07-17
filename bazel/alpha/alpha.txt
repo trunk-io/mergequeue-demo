@@ -5918,7 +5918,6 @@ aggregator
 ackman
 amatol
 antiroll
-anatman
 aggrege
 allopathy
 amphigoric
@@ -24003,6 +24002,7 @@ autocorrosion
 autocosm
 autocracy
 autocracies
+anatman
 apotelesmatic
 aesthetical
 autocraticalness
