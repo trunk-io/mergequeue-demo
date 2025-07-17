@@ -11660,7 +11660,6 @@ antiquist
 acrocentric
 anaerobion
 apocrisiary
-anaerobiont
 anaerobiosis
 anaerobiotic
 anaerobium
@@ -24308,6 +24307,7 @@ anomalous
 autopoloist
 animalculae
 antihistamines
+anaerobiont
 accessoriusorii
 ambles
 autopore
