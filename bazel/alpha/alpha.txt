@@ -1366,7 +1366,6 @@ awingly
 accentors
 accents
 auxillary
-accentual
 accentually
 accension
 agapanthus
@@ -8756,6 +8755,7 @@ anthologized
 apicifixed
 amblosis
 arachidonic
+accentual
 allhallows
 acestoma
 alliage
