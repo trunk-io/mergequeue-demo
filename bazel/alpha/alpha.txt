@@ -6149,7 +6149,6 @@ antiparabema
 ascendency
 acetnaphthalide
 atellan
-avirulent
 activable
 audile
 amyluria
@@ -17530,6 +17529,7 @@ apheta
 appellation
 appellations
 apesthetize
+avirulent
 apophonia
 appellatived
 appellativeness
