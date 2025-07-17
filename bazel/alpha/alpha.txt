@@ -6100,7 +6100,6 @@ aglow
 aglucon
 agminated
 agnails
-agnat
 agnatha
 agnate
 advenient
@@ -13304,6 +13303,7 @@ anyways
 anywhen
 advertize
 ascill
+agnat
 anywhence
 appurtenance
 anywhither
