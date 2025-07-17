@@ -3498,6 +3498,7 @@ azores
 addressable
 antics
 addresser
+abetter
 addressers
 anilities
 assignment
@@ -9478,7 +9479,6 @@ alter
 alterable
 alterably
 archaeocyte
-abetter
 anythingarian
 apyrene
 alteration
