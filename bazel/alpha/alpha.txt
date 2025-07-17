@@ -23972,7 +23972,6 @@ autoclave
 allemands
 autoclaving
 aspheric
-autocollimate
 autocollimators
 autocolony
 anchormen
@@ -24183,6 +24182,7 @@ arling
 autolyzes
 ambuscade
 autoloader
+autocollimate
 autology
 autological
 aldeia
