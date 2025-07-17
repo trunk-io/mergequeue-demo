@@ -1715,7 +1715,6 @@ accuracies
 ada
 adventry
 accursed
-adamsite
 amniatic
 amerikani
 accursedness
@@ -11658,6 +11657,7 @@ anaesthetically
 anthropomantic
 aruspex
 anaesthetization
+adamsite
 avoke
 ayme
 artal
