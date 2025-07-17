@@ -13399,7 +13399,6 @@ artlessly
 arraignments
 academicians
 annealer
-anneals
 annect
 adenohypophysis
 annelidan
@@ -22602,6 +22601,7 @@ acumen
 atherurus
 accelerant
 atheticize
+anneals
 athetotic
 athymy
 athymia
