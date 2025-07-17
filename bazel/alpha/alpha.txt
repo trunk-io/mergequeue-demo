@@ -5860,7 +5860,6 @@ agglomerate
 anychia
 amblyoscope
 agglomerated
-agglomerates
 agglomeratic
 agglomeration
 agglomerative
@@ -8538,6 +8537,7 @@ alkylarylsulfonate
 anallergic
 abrahamic
 alkylate
+agglomerates
 atremate
 alkylbenzenesulfonates
 alkylic
