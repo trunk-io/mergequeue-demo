@@ -7496,7 +7496,6 @@ albuminoscope
 afterpiece
 acari
 acanthoma
-abyssinian
 anonyms
 acraspeda
 albuminous
@@ -15511,6 +15510,7 @@ altrose
 antimoralistic
 antimorality
 antimusical
+abyssinian
 antimusically
 animalculous
 afront
