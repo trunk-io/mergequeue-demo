@@ -2536,7 +2536,6 @@ acopon
 acor
 acorea
 atomistic
-aecidia
 acorus
 acosmism
 acosmist
@@ -5861,6 +5860,7 @@ anartismos
 agglutinate
 arenaceous
 arri
+aecidia
 agglutinative
 adamantine
 agglutinatively
