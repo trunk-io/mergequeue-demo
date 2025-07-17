@@ -13536,7 +13536,6 @@ annulations
 annulet
 anthems
 audiviser
-annullate
 annuller
 annulling
 abjudging
@@ -17362,6 +17361,7 @@ archosyrinx
 alkalamide
 afret
 apothecial
+annullate
 archenemy
 aurichlorohydric
 apothecium
