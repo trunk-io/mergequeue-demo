@@ -1352,7 +1352,6 @@ amnesias
 affiliated
 atom
 aiolis
-accelerate
 anilide
 acceleratedly
 annealers
@@ -21944,6 +21943,7 @@ acidizing
 assumptively
 adoulie
 assurance
+accelerate
 assurances
 astigmias
 assureds
