@@ -756,7 +756,6 @@ alpiniaceae
 angst
 abramis
 abranchious
-abrase
 aswail
 admetus
 ack
@@ -14990,6 +14989,7 @@ achyrodes
 anticrisis
 anticritic
 anticritical
+abrase
 anticritically
 astrose
 anasarcas
