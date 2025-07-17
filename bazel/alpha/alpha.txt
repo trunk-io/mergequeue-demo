@@ -3601,7 +3601,6 @@ adenocystoma
 antepectoral
 adenocystomatous
 adenodermia
-adenodynia
 apotheces
 arcade
 aggelation
@@ -9015,6 +9014,7 @@ allotriognathi
 arabicize
 allotriomorphic
 allotriophagy
+adenodynia
 ambulomancy
 aefauld
 anserin
