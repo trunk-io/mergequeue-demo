@@ -16258,7 +16258,6 @@ antitruster
 antituberculosis
 antituberculotic
 antitumoral
-affray
 astrophotographer
 assoria
 aperitive
@@ -25348,6 +25347,7 @@ azotemia
 azotemias
 ankylosis
 azotemic
+affray
 amphitheatered
 azotenesis
 alimonies
