@@ -8836,7 +8836,6 @@ administered
 allocator
 agynary
 acadia
-apocynum
 asyntrophy
 anglicist
 allocatur
@@ -12586,6 +12585,7 @@ aneurysm
 aeriferous
 algosis
 aneurisms
+apocynum
 anfract
 ameliorating
 anfractuose
