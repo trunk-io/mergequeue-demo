@@ -4236,6 +4236,7 @@ autoelectrolysis
 alright
 antioxidizer
 assemblement
+atmospheres
 autosuggest
 angild
 adposition
@@ -5435,7 +5436,6 @@ actinophone
 afterbirth
 anthropometry
 antiutilitarian
-atmospheres
 afterblow
 afterbreach
 aerarium
