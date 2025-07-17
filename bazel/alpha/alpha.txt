@@ -4463,7 +4463,6 @@ advective
 advects
 advena
 ascended
-anchylosis
 adventitial
 arquifoux
 aerobiotically
@@ -10630,6 +10629,7 @@ amylosynthesis
 amylosis
 armamentary
 amiloun
+anchylosis
 amyls
 alcoate
 amin
