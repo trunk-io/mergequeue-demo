@@ -9689,7 +9689,6 @@ alvearies
 alvearium
 alveated
 anteluminary
-alveolariform
 alveolate
 alveolation
 alveole
@@ -10955,6 +10954,7 @@ azure
 antidepressive
 amolilla
 albumoscope
+alveolariform
 amomal
 aceite
 anthrapyridine
