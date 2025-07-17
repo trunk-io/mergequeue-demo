@@ -2684,7 +2684,6 @@ allochiral
 abrenounce
 acridine
 amphisilidae
-acridines
 ankylophobia
 acridinium
 acridity
@@ -5303,6 +5302,7 @@ afflatus
 absent
 afflicted
 accra
+acridines
 afflicter
 aphidiinae
 afflicting
