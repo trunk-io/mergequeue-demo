@@ -2335,6 +2335,7 @@ acidosteophyte
 arecuna
 aul
 ashing
+anthotropism
 acids
 amenity
 acidulant
@@ -22640,7 +22641,6 @@ athonite
 atonia
 athort
 athrive
-anthotropism
 athrogenic
 ample
 algebraizing
