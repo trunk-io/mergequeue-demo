@@ -909,7 +909,6 @@ absis
 absistos
 absit
 absoil
-absterging
 antient
 amphitron
 absolent
@@ -24825,6 +24824,7 @@ avoid
 avoidable
 aimfully
 avoidant
+absterging
 anginoid
 avoider
 acquiring
