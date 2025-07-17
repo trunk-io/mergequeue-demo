@@ -4628,7 +4628,6 @@ aecioteliospore
 abigeus
 aedeagi
 aedeagus
-aediculae
 aedicule
 attraction
 adject
@@ -9342,6 +9341,7 @@ aircraft
 atomiferous
 alphabetarian
 acclimatizable
+aediculae
 amphibiontic
 acerose
 alphabetic
