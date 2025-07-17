@@ -16931,6 +16931,7 @@ alveolars
 affreight
 aplite
 aplites
+amar
 amulet
 aplitic
 aplobasalt
@@ -24739,7 +24740,6 @@ aviatoriality
 aviators
 aviatress
 aviatrice
-amar
 aviatrices
 avicennia
 avicenniaceae
