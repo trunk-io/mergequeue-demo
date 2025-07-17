@@ -4630,7 +4630,6 @@ aedeagus
 aediculae
 aedicule
 attraction
-aedile
 adject
 aediles
 aknee
@@ -7870,6 +7869,7 @@ arenariae
 avouched
 azodiphenyl
 adenography
+aedile
 abandum
 anorthoscope
 atropines
