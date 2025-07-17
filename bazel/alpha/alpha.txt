@@ -7550,6 +7550,7 @@ alcargen
 ascophyllum
 alcatras
 anastomos
+astone
 astragal
 alcazaba
 alcazar
@@ -22136,7 +22137,6 @@ acetol
 arius
 anticholinergic
 astomia
-astone
 amici
 allylamine
 apennine
