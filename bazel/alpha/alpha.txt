@@ -5843,7 +5843,6 @@ adducing
 archprototype
 archsnob
 ageometrical
-advisor
 absence
 anophyte
 ager
@@ -11533,6 +11532,7 @@ antihypertensive
 androdioecism
 abscessed
 apathus
+advisor
 auxiliarly
 aper
 appositions
