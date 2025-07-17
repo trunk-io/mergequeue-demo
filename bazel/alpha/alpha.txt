@@ -3073,7 +3073,6 @@ adfreeze
 actinomorphic
 amphitrichous
 azotise
-abdominoanterior
 anilinophilous
 arvicole
 alligatoring
@@ -14392,6 +14391,7 @@ antiuating
 anthrophore
 anthropical
 acquisition
+abdominoanterior
 anthropobiology
 automaton
 anthropocentric
