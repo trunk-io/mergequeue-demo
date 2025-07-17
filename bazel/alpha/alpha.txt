@@ -10629,7 +10629,6 @@ advenae
 ampelidaceae
 amylom
 amylopectin
-amyloplast
 appertaining
 amyloplastid
 antichronism
@@ -22474,6 +22473,7 @@ ateles
 antimensium
 anaglyptics
 antidromy
+amyloplast
 abiston
 adonean
 atelestite
