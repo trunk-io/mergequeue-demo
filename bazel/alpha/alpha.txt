@@ -6764,6 +6764,7 @@ airfoils
 adiate
 airglow
 airglows
+amniochorial
 airgraphics
 anisometropia
 androcyte
@@ -10871,7 +10872,6 @@ antiphilosophy
 amerindic
 allegorical
 amniocentesis
-amniochorial
 auxanology
 aboardage
 amniomancy
