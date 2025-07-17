@@ -11689,7 +11689,6 @@ anaesthetize
 anaesthetized
 anaesthetizer
 arthralgic
-adsum
 arbalester
 anaetiological
 alban
@@ -23428,6 +23427,7 @@ augmentable
 acopic
 atumble
 augmentedly
+adsum
 augmenters
 augmentive
 augmentor
