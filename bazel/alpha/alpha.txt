@@ -10240,7 +10240,6 @@ arcticize
 anemious
 acop
 agricolite
-amelanchier
 argus
 auxoblast
 ameland
@@ -17643,6 +17642,7 @@ agathology
 appl
 applanate
 antienzymic
+amelanchier
 applanation
 applaudable
 araneiformes
