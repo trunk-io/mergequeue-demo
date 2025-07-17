@@ -14058,7 +14058,6 @@ antennariid
 antennariidae
 antennata
 antennate
-antennifer
 antefixes
 abranchial
 acanthurus
@@ -14988,6 +14987,7 @@ attestant
 anticrochet
 applicatorily
 adp
+antennifer
 anticularia
 anticus
 antidactyl
