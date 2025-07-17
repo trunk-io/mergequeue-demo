@@ -2011,7 +2011,6 @@ amphodiplopia
 anticipatory
 arterial
 acetosoluble
-aurocyanide
 acetostearin
 acetothienone
 acetotoluid
@@ -25359,6 +25358,7 @@ azotetrazole
 azoth
 azothionium
 azoths
+aurocyanide
 azotic
 azotises
 azotize
