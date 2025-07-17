@@ -5796,7 +5796,6 @@ agaze
 age
 ageable
 agallop
-agedness
 agee
 ageing
 ageings
@@ -11286,6 +11285,7 @@ amphisbaenoid
 antimasks
 amphiscians
 aerodontic
+agedness
 atrabiliousness
 asyndetically
 amphispermous
