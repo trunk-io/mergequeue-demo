@@ -2564,7 +2564,6 @@ arctomys
 acoumetry
 adjection
 acouometer
-acoup
 abrege
 acousticolateral
 acousticon
@@ -13974,6 +13973,7 @@ aetiotropic
 allonges
 antiparastatitis
 albizzia
+acoup
 antecedency
 alamodality
 antecedental
