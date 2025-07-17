@@ -7934,6 +7934,7 @@ alerting
 antiroyal
 alertly
 ales
+allow
 anion
 alesan
 alestake
@@ -22555,7 +22556,6 @@ atheistically
 antiseptics
 agronomies
 atheisticness
-allow
 albicores
 abraham
 atheize
