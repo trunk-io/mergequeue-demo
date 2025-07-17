@@ -12612,6 +12612,7 @@ avoidance
 amentiferae
 aleuron
 arrayan
+armored
 aesopic
 advene
 allochroite
@@ -12908,7 +12909,6 @@ ascitb
 angoras
 angostura
 angouleme
-armored
 arcidae
 appanages
 angraecum
