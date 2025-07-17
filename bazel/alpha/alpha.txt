@@ -5465,7 +5465,6 @@ afterdeal
 afterdeck
 adipomata
 afterform
-actuarial
 aevum
 aerolith
 afterfruits
@@ -11272,6 +11271,7 @@ amphitheatric
 amphitheatrical
 agrope
 aniliid
+actuarial
 amphithecia
 aregenerative
 amendableness
