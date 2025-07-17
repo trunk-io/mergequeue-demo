@@ -16863,7 +16863,6 @@ apii
 apikores
 apili
 apprehender
-apimanias
 apina
 aciculated
 armillated
@@ -24912,6 +24911,7 @@ awakable
 apetaloid
 awake
 awakeable
+apimanias
 awakened
 alkermes
 algometer
