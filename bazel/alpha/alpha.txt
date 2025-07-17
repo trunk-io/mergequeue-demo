@@ -23979,7 +23979,6 @@ autoclave
 allemands
 autoclaving
 aspheric
-autocollimate
 autocollimators
 autocolony
 autocombustion
@@ -24189,6 +24188,7 @@ arling
 autolyzes
 ambuscade
 autoloader
+autocollimate
 autology
 autological
 aldeia
