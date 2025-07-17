@@ -6467,7 +6467,6 @@ ahom
 ahorse
 ahriman
 ahs
-ablare
 achromia
 ahtena
 ahu
@@ -15458,6 +15457,7 @@ annullable
 armguard
 antimystic
 antimystical
+ablare
 antimystically
 apathic
 antimysticalness
