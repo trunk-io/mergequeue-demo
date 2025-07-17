@@ -772,6 +772,7 @@ abreacts
 aepyornis
 ascites
 abreast
+auxofluor
 archenteric
 abreed
 anchylosing
@@ -5535,7 +5536,6 @@ afflux
 afterplanting
 absinthium
 afterreckoning
-auxofluor
 andiroba
 alumna
 allomerism
