@@ -4848,7 +4848,6 @@ amoebous
 arkwright
 aerodermectasia
 aerodynamical
-aerodynamically
 appoggiatura
 amphibiology
 aloma
@@ -21254,6 +21253,7 @@ arbitrary
 aceanthrene
 atretic
 asymmetric
+aerodynamically
 antimythical
 acknowledgement
 asymmetries
