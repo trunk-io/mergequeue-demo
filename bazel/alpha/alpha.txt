@@ -7227,7 +7227,6 @@ alarmclock
 abstract
 alexanders
 abamps
-alarmedly
 audivise
 alarmingly
 angiotomy
@@ -15760,6 +15759,7 @@ alert
 antipyretics
 antipyrin
 accustomedness
+alarmedly
 antipyrine
 antipyrotic
 antiplague
