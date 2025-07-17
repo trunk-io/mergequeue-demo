@@ -3884,7 +3884,6 @@ adjournal
 arylamino
 adjoust
 adjt
-aleyrodidae
 adjudging
 adjudgment
 adjudicate
@@ -11690,6 +11689,7 @@ acnodes
 anagogic
 anagogics
 advecting
+aleyrodidae
 annoying
 annoyment
 anagrammatic
