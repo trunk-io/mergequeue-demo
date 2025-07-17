@@ -2222,7 +2222,6 @@ achromatize
 achromatocyte
 arctalian
 aerosolizing
-achromatope
 achromatophile
 achromatophilia
 achromatopia
@@ -19379,6 +19378,7 @@ authorship
 audible
 augurial
 argentry
+achromatope
 abbest
 argents
 argentum
