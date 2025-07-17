@@ -12195,7 +12195,6 @@ alignment
 anchorlike
 anchorman
 auriculae
-anchormen
 anchoveta
 anchusa
 argumentatively
@@ -23981,6 +23980,7 @@ aspheric
 autocollimate
 autocollimators
 autocolony
+anchormen
 autocombustion
 autoconduction
 anantherate
