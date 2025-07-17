@@ -1503,6 +1503,7 @@ accoll
 antirational
 arrastre
 accolle
+ast
 antinovel
 accolled
 apparens
@@ -19808,7 +19809,6 @@ anarchal
 adenohypersthenia
 arcane
 armchair
-ast
 acetabular
 atrail
 arrah
