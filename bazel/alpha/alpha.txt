@@ -8452,7 +8452,6 @@ alkalimetry
 alkaline
 ankylostoma
 alkalinity
-alkalinities
 augmentations
 angiography
 archology
@@ -21709,6 +21708,7 @@ archiphoneme
 apsidally
 amalaita
 assertress
+alkalinities
 annunciator
 athetesis
 asserts
