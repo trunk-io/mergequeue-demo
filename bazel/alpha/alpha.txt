@@ -12565,7 +12565,6 @@ anesthetization
 anesthetize
 anesthetized
 anesthetizes
-anestrous
 anethene
 anethol
 albites
@@ -21969,6 +21968,7 @@ automanipulation
 anus
 acclamatory
 amra
+anestrous
 astigmatoscopies
 astartidae
 astasia
