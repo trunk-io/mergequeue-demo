@@ -12753,6 +12753,7 @@ annelid
 angioma
 angiomalacia
 angiomas
+aquaplaned
 anoestrous
 astakiwi
 antihemolysin
@@ -14484,7 +14485,6 @@ allect
 anthropopathy
 antipathies
 areas
-aquaplaned
 aestival
 aneurysmatic
 anthropopathically
