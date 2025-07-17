@@ -3442,7 +3442,6 @@ ampassy
 addictives
 autofluorescence
 arthroclasia
-addison
 alterum
 addisoniana
 addita
@@ -15635,6 +15634,7 @@ amphitokous
 antiparallelogram
 arylamine
 ablet
+addison
 admen
 antimetathesis
 antheridiophore
