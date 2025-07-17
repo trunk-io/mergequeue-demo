@@ -5483,7 +5483,6 @@ ablings
 afterglow
 alloclasite
 aftergrief
-aftergrowth
 antipathy
 acton
 argot
@@ -24268,6 +24267,7 @@ autophyte
 autophytic
 albespyne
 acquist
+aftergrowth
 aluminographic
 apparent
 autophytograph
