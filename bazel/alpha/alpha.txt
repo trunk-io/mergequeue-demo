@@ -6307,7 +6307,6 @@ ametrometer
 agriculturists
 aftergood
 anticreep
-agrilus
 aureola
 abohms
 agrimony
@@ -7448,6 +7447,7 @@ arsmetrik
 albumeniser
 albumenising
 albumenization
+agrilus
 albumenized
 autopathography
 aerophoto
