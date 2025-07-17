@@ -3950,6 +3950,7 @@ adjutant
 acicularity
 anesthetic
 adjutator
+antidotical
 adjute
 adjutor
 aqueity
@@ -8020,7 +8021,6 @@ apatornis
 ankylopodia
 alfaquis
 autonavigator
-antidotical
 alfenide
 alferes
 aefaldness
