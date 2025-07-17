@@ -8751,6 +8751,7 @@ alliage
 alliance
 accoast
 anschluss
+armplate
 appet
 alliancing
 alliant
@@ -19960,7 +19961,6 @@ applauding
 archdeanery
 acclimatization
 aryballos
-armplate
 armrack
 azans
 afterclap
