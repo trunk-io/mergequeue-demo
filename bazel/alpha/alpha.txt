@@ -1157,7 +1157,6 @@ academes
 academy
 apheliotropism
 aploperistomatous
-anaplasis
 academist
 academite
 academization
@@ -23842,6 +23841,7 @@ authenticates
 authentication
 apathy
 athetosic
+anaplasis
 adultress
 auganite
 appositively
