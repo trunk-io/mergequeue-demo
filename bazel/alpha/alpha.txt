@@ -21689,7 +21689,6 @@ assents
 asseour
 assert
 anonymities
-asserta
 assertable
 asserted
 assagaied
@@ -24418,6 +24417,7 @@ argenter
 autosporic
 autostarter
 airmanship
+asserta
 autostylism
 autostradas
 arsonist
