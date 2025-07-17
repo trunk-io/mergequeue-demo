@@ -645,7 +645,6 @@ antiopium
 arachnidial
 adhibit
 aboma
-abomasum
 abomasus
 appetize
 abominably
@@ -22200,6 +22199,7 @@ apostils
 astraphobia
 astrapophobia
 abdomen
+abomasum
 anis
 anastomoses
 agencies
