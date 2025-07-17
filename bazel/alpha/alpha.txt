@@ -8504,6 +8504,7 @@ acanthosis
 alkaphrah
 alkapton
 alkaptone
+archimage
 ascent
 alkaptonuric
 alkarsin
@@ -24652,7 +24653,6 @@ alypine
 absumption
 arabized
 actinidia
-archimage
 autostylic
 averagely
 averageness
