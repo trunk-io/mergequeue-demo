@@ -8917,7 +8917,6 @@ assigners
 alloyage
 aeroporotomy
 alloiogenesis
-attitude
 assizer
 alloiometric
 adjustments
@@ -18323,6 +18322,7 @@ araliaceous
 astronomers
 astronauts
 algaroba
+attitude
 amerindian
 anisometrope
 aramaicize
