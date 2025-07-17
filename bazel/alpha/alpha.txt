@@ -5325,7 +5325,6 @@ anticogitative
 afformative
 affrayers
 affraying
-affrays
 affranchise
 adiadokokinesi
 affret
@@ -19953,6 +19952,7 @@ armour
 armourbearer
 avalanched
 adossed
+affrays
 armoured
 armourer
 abiogenist
