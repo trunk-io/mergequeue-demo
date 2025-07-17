@@ -3882,7 +3882,6 @@ adjoints
 apieces
 adjourn
 allurance
-adjournal
 arylamino
 adjoust
 adjt
@@ -19026,6 +19025,7 @@ archprelatic
 adjudicator
 antiposition
 askingly
+adjournal
 archprelatical
 armenize
 aholt
