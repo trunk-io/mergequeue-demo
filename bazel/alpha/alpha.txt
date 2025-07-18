@@ -8391,7 +8391,6 @@ alden
 alkaligenous
 alkalimetry
 alkaline
-alkalinity
 augmentations
 angiography
 archology
@@ -15706,6 +15705,7 @@ amidic
 antiphylloxeric
 anisopodal
 aspiculous
+alkalinity
 antiphilosophies
 antiphilosophism
 antiphysically
