@@ -8872,7 +8872,6 @@ assigners
 alloyage
 aeroporotomy
 alloiogenesis
-assizer
 alloiometric
 adjustments
 allomerizing
@@ -13600,6 +13599,7 @@ anodized
 asiphonogama
 anodizes
 ampollosity
+assizer
 antituberculous
 anticum
 astay
