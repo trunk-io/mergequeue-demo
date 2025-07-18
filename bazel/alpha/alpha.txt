@@ -2649,7 +2649,6 @@ advertizer
 apartment
 aking
 acrawl
-acre
 ammochaeta
 acreage
 anamirta
@@ -7522,6 +7521,7 @@ alcazaba
 alcazar
 adamance
 asymptotical
+acre
 alce
 assibilate
 alcedinidae
