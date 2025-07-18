@@ -8728,6 +8728,7 @@ activators
 arctoid
 alligatorfish
 alligatorfishes
+alniviridol
 arbinose
 acquiesence
 allying
@@ -9183,7 +9184,6 @@ alnicoes
 alnilam
 alnitak
 attry
-alniviridol
 alnoite
 angles
 alnuin
