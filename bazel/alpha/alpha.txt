@@ -2948,7 +2948,6 @@ actine
 actinenchyma
 acting
 actiniae
-absentia
 attrahent
 axisymmetric
 appalment
@@ -12889,6 +12888,7 @@ affirmant
 archdemon
 anguilloid
 abcess
+absentia
 angiopoietic
 antiegoism
 algicide
