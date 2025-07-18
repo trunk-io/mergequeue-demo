@@ -7217,6 +7217,7 @@ alation
 achage
 aeolharmonica
 alauda
+apneic
 aphakic
 antilevelling
 antihidrotic
@@ -19123,7 +19124,6 @@ arcograph
 abranchiate
 aryan
 anadipsic
-apneic
 arcos
 arcose
 angiospermal
