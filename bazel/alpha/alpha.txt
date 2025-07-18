@@ -79,7 +79,6 @@ abandon
 androecial
 amphipods
 abandoned
-abandoner
 alispheno
 abandoners
 abandoning
@@ -5051,6 +5050,7 @@ albruna
 allantoidal
 aerotonometric
 agrostographical
+abandoner
 aerotropism
 allantois
 aeruginous
