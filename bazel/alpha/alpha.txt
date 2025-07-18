@@ -1463,7 +1463,6 @@ absinthian
 acclimates
 acclimatisation
 affixable
-acclimatise
 acclimatised
 acclimatiser
 acost
@@ -21607,6 +21606,7 @@ astrospectroscopic
 assaulter
 attainably
 archibald
+acclimatise
 assausive
 audiotape
 askar
