@@ -4861,7 +4861,6 @@ auslaut
 airphobia
 aerodonetics
 aerodontalgia
-arcanum
 antipedal
 archhost
 arenite
@@ -20111,6 +20110,7 @@ abidance
 arpeggioed
 arterialised
 aleph
+arcanum
 arpen
 algerienne
 arpents
