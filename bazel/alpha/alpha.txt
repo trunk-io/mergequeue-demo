@@ -9683,6 +9683,7 @@ archelon
 aux
 alvine
 apteryx
+addnl
 avestan
 alvissmal
 antirabic
@@ -24841,7 +24842,6 @@ anginoid
 avoider
 acquiring
 ascribing
-addnl
 avoidment
 avoids
 afflict
