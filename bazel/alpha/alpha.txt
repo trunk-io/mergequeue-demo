@@ -930,7 +930,6 @@ argify
 absolutory
 absolvatory
 absolve
-absolvent
 arteriotome
 absolves
 absolving
@@ -13410,6 +13409,7 @@ aioli
 annelism
 annellata
 autostylic
+absolvent
 aphanapteryx
 anneloid
 anticipation
