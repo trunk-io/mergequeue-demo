@@ -2495,7 +2495,6 @@ acoela
 acoelomate
 autoloaders
 anagoges
-anteceded
 apogean
 accuser
 actorship
@@ -19392,6 +19391,7 @@ athwartwise
 authorship
 audible
 augurial
+anteceded
 argentry
 argents
 argentum
