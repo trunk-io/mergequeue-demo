@@ -13967,7 +13967,6 @@ antechamber
 antechambers
 apeek
 aloetic
-anthracoxen
 accomodate
 agitpropist
 altazimuth
@@ -20926,6 +20925,7 @@ ascescency
 ascescent
 asceses
 almshouse
+anthracoxen
 ascetic
 amphophilous
 asceticism
