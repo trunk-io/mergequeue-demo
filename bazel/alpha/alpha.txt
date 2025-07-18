@@ -9642,7 +9642,6 @@ alvearium
 alveated
 anteluminary
 alveolate
-alveolation
 alveole
 alveolectomy
 arachnomorphae
@@ -23190,6 +23189,7 @@ accommodately
 attractivity
 airer
 adipogenous
+alveolation
 attractor
 asterias
 adnumber
