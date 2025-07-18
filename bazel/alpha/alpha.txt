@@ -3255,6 +3255,7 @@ acutance
 amyloids
 acutances
 antihormone
+apterygial
 acute
 acutely
 acuter
@@ -7627,7 +7628,6 @@ anemogram
 acroter
 abaissed
 alcoholometer
-apterygial
 alcoholometry
 albumenize
 alcoholometric
