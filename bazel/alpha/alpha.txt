@@ -830,7 +830,6 @@ anachronism
 aonach
 abrus
 abstruse
-abs
 ammophila
 auriculately
 absalom
@@ -18031,6 +18030,7 @@ apterygiformes
 almsgiver
 arace
 apterygota
+abs
 apteryla
 agentship
 aptest
