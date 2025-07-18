@@ -7696,6 +7696,7 @@ archisphere
 aldermanical
 alfirk
 assistency
+authenticate
 aration
 aldermanity
 algophagous
@@ -17915,7 +17916,6 @@ antiempirical
 allothigene
 alala
 approvers
-authenticate
 amphidesmous
 approving
 azoformic
