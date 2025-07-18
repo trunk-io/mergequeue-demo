@@ -3995,6 +3995,7 @@ acronymize
 advect
 aphaeresis
 admerveylle
+adnominal
 aubain
 admi
 adminicle
@@ -4147,7 +4148,6 @@ alternisepalous
 adnexal
 antisophism
 adnexopexy
-adnominal
 adnominally
 acanthaceae
 arietate
