@@ -7027,6 +7027,7 @@ altiloquent
 akha
 angus
 archaeornis
+archont
 akhara
 andante
 akhyana
@@ -18219,7 +18220,6 @@ arabica
 accentuator
 arabicism
 agush
-archont
 articulationes
 arabiyeh
 acquisitum
