@@ -7155,7 +7155,6 @@ alange
 arthrectomies
 alangium
 alani
-anchors
 alanin
 auditive
 alanines
@@ -15822,6 +15821,7 @@ aminotriazole
 avaritia
 arni
 antiprime
+anchors
 antiprinciple
 adfiliate
 adversive
