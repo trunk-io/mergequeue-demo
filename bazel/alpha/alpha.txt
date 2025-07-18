@@ -7516,7 +7516,6 @@ ascophyllum
 alcatras
 anastomos
 astone
-astragal
 alcazaba
 alcazar
 adamance
@@ -16609,6 +16608,7 @@ aph
 antilogical
 aggers
 abjuration
+astragal
 angelin
 accoutrements
 asserters
