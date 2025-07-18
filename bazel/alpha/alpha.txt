@@ -7052,7 +7052,6 @@ aftershock
 aetheogam
 albin
 aerocartograph
-actuator
 anointers
 akmuddar
 aknow
@@ -13457,6 +13456,7 @@ anniversary
 arthrorrhagia
 anniverse
 azobenzene
+actuator
 annoy
 annoyance
 arneb
