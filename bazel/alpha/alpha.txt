@@ -11295,7 +11295,6 @@ alohas
 apiator
 abuzz
 amphore
-aquifers
 antiplatelet
 amphoteric
 aircrewman
@@ -20359,6 +20358,7 @@ autopsist
 antireformer
 autoradiography
 antiegoist
+aquifers
 autooxidation
 apothgm
 airparks
