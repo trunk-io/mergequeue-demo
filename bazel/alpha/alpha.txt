@@ -395,7 +395,6 @@ anlaut
 abider
 advisability
 abie
-apocatharsis
 abye
 amyrin
 abient
@@ -13769,6 +13768,7 @@ anorthographic
 anorthographical
 ala
 anastalsis
+apocatharsis
 anorthophyre
 anorthopia
 anorthose
