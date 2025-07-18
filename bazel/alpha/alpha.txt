@@ -10366,7 +10366,6 @@ antiatom
 adstipulation
 alchymy
 amethystine
-ametoecious
 absurdum
 aurigid
 aculeolus
@@ -15881,6 +15880,7 @@ antiquum
 arcadianly
 antiquation
 adnex
+ametoecious
 angelfish
 autoloading
 antirabies
