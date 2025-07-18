@@ -13060,7 +13060,6 @@ archaeopteris
 animacule
 animadversional
 almuten
-animadverted
 animadverter
 aplostemonous
 antiphilosophic
@@ -19760,6 +19759,7 @@ aula
 armadilla
 armadillididae
 adductors
+animadverted
 acetylide
 antimedievalist
 auguration
