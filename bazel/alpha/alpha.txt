@@ -7210,7 +7210,6 @@ alarmclock
 abstract
 alexanders
 abamps
-audivise
 alarmingly
 angiotomy
 alarmingness
@@ -17174,6 +17173,7 @@ antivirus
 aponeurotomy
 aponic
 acroparesthesia
+audivise
 apopenptic
 apophatic
 akhrot
