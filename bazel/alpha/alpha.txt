@@ -5279,7 +5279,6 @@ anophthalmia
 aquarian
 actinocarp
 afflated
-ataxia
 afflatus
 afflicted
 accra
@@ -11647,6 +11646,7 @@ anaglyph
 annulism
 anaglyphs
 anaglypta
+ataxia
 aldim
 anaglyptography
 anaglyptographic
