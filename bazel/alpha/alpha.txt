@@ -6347,7 +6347,6 @@ attempering
 alnascharism
 agrote
 agrotechny
-agrotype
 accosted
 agrotis
 agrufe
@@ -11025,6 +11024,7 @@ achromatized
 amperian
 amphistomum
 attenuation
+agrotype
 awakings
 amperometer
 asswage
