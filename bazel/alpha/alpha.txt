@@ -3264,7 +3264,6 @@ acutest
 arborise
 authorcraft
 aedine
-acutilingual
 axal
 acutilobate
 acutiplantar
@@ -20422,6 +20421,7 @@ aerialness
 antimodernness
 artery
 augments
+acutilingual
 arteria
 associating
 amplifications
