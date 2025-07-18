@@ -774,6 +774,7 @@ abreast
 auxofluor
 archenteric
 abreed
+ammono
 anchylosing
 asyle
 abri
@@ -10840,7 +10841,6 @@ araneids
 alongside
 ammoniuret
 ammoniureted
-ammono
 ammonoidea
 ammonoidean
 aerocartography
