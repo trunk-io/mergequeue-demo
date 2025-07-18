@@ -14166,7 +14166,6 @@ antonymy
 anterolateral
 andreaea
 anteromedial
-automorphically
 agiotages
 anteroom
 anterooms
@@ -15231,6 +15230,7 @@ affectible
 antihalation
 alcantarines
 aglycone
+automorphically
 antiharmonist
 antihelix
 aitiotropic
