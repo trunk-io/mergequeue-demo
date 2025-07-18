@@ -5554,6 +5554,7 @@ almagests
 aftershocks
 arietta
 aftersound
+arthropomata
 afterspring
 anhele
 afterstretch
@@ -20597,7 +20598,6 @@ abmhos
 archaists
 arthropodous
 arthropods
-arthropomata
 arthrorheumatism
 arthrocele
 anaudic
