@@ -3252,7 +3252,6 @@ amyloids
 acutances
 antihormone
 apterygial
-acute
 acutely
 acuter
 ascomycetal
@@ -3880,6 +3879,7 @@ adjudgment
 adjudicate
 antihierarchal
 adjudicated
+acute
 adjudication
 agglutinin
 adjudicative
