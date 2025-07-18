@@ -3752,7 +3752,6 @@ archicytula
 adiaphon
 autophagia
 antimechanist
-annexable
 anasarcous
 aichmophobia
 acephalina
@@ -13529,6 +13528,7 @@ annulary
 annularia
 arrowing
 annulately
+annexable
 adjourning
 annulation
 aquarist
