@@ -4979,7 +4979,6 @@ admissibleness
 aeropathy
 aerope
 aeroperitoneum
-aeroperitonia
 avondbloem
 anomalogonatae
 arrhal
@@ -22211,6 +22210,7 @@ astride
 averah
 antefixal
 argentoproteinum
+aeroperitonia
 antrophose
 adrenolysis
 astriferous
