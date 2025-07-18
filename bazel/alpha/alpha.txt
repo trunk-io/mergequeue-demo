@@ -12434,7 +12434,6 @@ arccosine
 apasttra
 adipogenic
 anemobiagraph
-anemochord
 anemochore
 anaboly
 anemochorous
@@ -20423,6 +20422,7 @@ antimodernness
 artery
 augments
 arteria
+anemochord
 associating
 amplifications
 aftaba
