@@ -4750,7 +4750,6 @@ acarology
 anaretic
 antihum
 astrophel
-aorists
 angioparalytic
 aeriality
 aerials
@@ -10827,6 +10826,7 @@ allegorical
 amniocentesis
 auxanology
 adempt
+aorists
 aboardage
 amniomancy
 amnionata
