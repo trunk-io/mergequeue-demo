@@ -9763,7 +9763,6 @@ achromatic
 apostrophes
 amperage
 amalgamization
-amalgamize
 amalic
 amalrician
 argosine
@@ -22407,6 +22406,7 @@ ataigal
 ataiyal
 airdock
 atamasco
+amalgamize
 arranging
 atamosco
 argils
