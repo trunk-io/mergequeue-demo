@@ -5168,7 +5168,6 @@ anisotropous
 anemographic
 affections
 affectious
-affective
 advocacies
 affectivity
 affector
@@ -12801,6 +12800,7 @@ angiocardiography
 affrightingly
 asps
 argenol
+affective
 allegresse
 archencephalic
 anglehook
