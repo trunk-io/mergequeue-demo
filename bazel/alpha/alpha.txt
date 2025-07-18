@@ -3870,7 +3870,6 @@ adjourn
 allurance
 arylamino
 adjoust
-adjt
 adjudging
 adjudgment
 adjudicate
@@ -18362,6 +18361,7 @@ arauan
 araucanian
 araucaria
 anarchize
+adjt
 araucariaceae
 actions
 araucarioxylon
