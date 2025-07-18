@@ -4620,7 +4620,6 @@ acoemetic
 aeciospore
 aecioteliospore
 alans
-abigeus
 aedeagi
 aedeagus
 aediculae
@@ -19871,6 +19870,7 @@ avenaceous
 armitas
 anthropocentrism
 antiliberalism
+abigeus
 anaphylactogen
 agonized
 armlessness
