@@ -4798,7 +4798,6 @@ assn
 asamblea
 ace
 aconites
-arrivederci
 aerobiologist
 autocross
 amidase
@@ -24231,6 +24230,7 @@ automechanism
 antinodes
 automen
 archgovernor
+arrivederci
 autometric
 automysophobia
 automobile
