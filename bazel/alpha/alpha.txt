@@ -5545,6 +5545,7 @@ afterpast
 afflux
 afterplanting
 afterreckoning
+articulare
 andiroba
 alumna
 allomerism
@@ -20647,7 +20648,6 @@ articulacy
 aleuroscope
 acrobatholithic
 anthesteriac
-articulare
 allelomorph
 associate
 alder
