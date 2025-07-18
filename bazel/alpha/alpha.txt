@@ -7715,6 +7715,7 @@ aldermaness
 archisphere
 aldermanical
 assistency
+authenticate
 aration
 aldermanity
 aldermanlike
@@ -17924,7 +17925,6 @@ antiempirical
 allothigene
 alala
 approvers
-authenticate
 amphidesmous
 approving
 azoformic
