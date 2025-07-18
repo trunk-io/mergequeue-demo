@@ -8783,6 +8783,7 @@ allocatable
 absorption
 airmails
 atturn
+antifouling
 allocate
 allargando
 anglophobes
@@ -15178,7 +15179,6 @@ afrown
 autometamorphosis
 antiformin
 animater
-antifouling
 antihydropin
 autobasidiomycetes
 accendible
