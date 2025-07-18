@@ -10720,7 +10720,6 @@ annalist
 ammelide
 apodemal
 apothecary
-ammer
 avidness
 adoptive
 adductor
@@ -12720,6 +12719,7 @@ angiodiascopy
 atrabile
 angiogeny
 anyway
+ammer
 angiographic
 angiohemophilia
 anachronously
