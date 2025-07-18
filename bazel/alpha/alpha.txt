@@ -5297,7 +5297,6 @@ actinocarp
 afflated
 ataxia
 afflatus
-absent
 afflicted
 accra
 acridines
@@ -16691,6 +16690,7 @@ aphenoscope
 apheresis
 apheses
 asclepius
+absent
 antiphoner
 allogenically
 abovesaid
