@@ -3576,7 +3576,6 @@ antimonite
 adelphian
 adelphic
 adelphous
-adempt
 adipsous
 azole
 ascesis
@@ -10869,6 +10868,7 @@ amerindic
 allegorical
 amniocentesis
 auxanology
+adempt
 aboardage
 amniomancy
 amnionata
