@@ -3102,7 +3102,6 @@ avowableness
 arthrodia
 amplidyne
 aequipalpia
-arthropody
 alai
 actinostome
 aramus
@@ -24191,6 +24190,7 @@ antherless
 autolithograph
 alnein
 antiphysician
+arthropody
 autolyzate
 aevum
 arling
