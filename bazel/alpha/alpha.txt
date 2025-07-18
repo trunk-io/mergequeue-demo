@@ -12420,7 +12420,6 @@ anecdotically
 aegagropile
 appealed
 aftmost
-antireducing
 amazed
 adar
 arctitude
@@ -12540,6 +12539,7 @@ antennata
 anes
 anesone
 anesthesia
+antireducing
 apexes
 armisonant
 anesthesimeter
