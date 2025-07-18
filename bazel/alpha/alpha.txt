@@ -6726,7 +6726,6 @@ airdate
 animally
 argentarius
 afterband
-ammonify
 airdrome
 airdromes
 airdrop
@@ -19866,6 +19865,7 @@ armillae
 armillary
 armillaria
 annist
+ammonify
 achaemenidian
 adenopharyngitis
 arightly
