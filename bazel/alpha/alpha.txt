@@ -13701,7 +13701,6 @@ anonymuncule
 anophele
 anopheles
 anophelinae
-anophoria
 anaptyctic
 anophthalmos
 anopia
@@ -19350,6 +19349,7 @@ amuser
 argentan
 axisymmetry
 autochrome
+anophoria
 anacrisis
 argentate
 assortedness
