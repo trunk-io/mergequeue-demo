@@ -10748,7 +10748,6 @@ alzheimer
 ammites
 ammo
 arthropod
-anaglypton
 annotation
 ammochaetae
 ammocoetes
@@ -25108,6 +25107,7 @@ antiamylase
 axillar
 argyrite
 axillaries
+anaglypton
 axillars
 aconitic
 alleleu
