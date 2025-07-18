@@ -901,7 +901,6 @@ amylon
 absis
 ambivalency
 absistos
-absit
 absoil
 antient
 amphitron
@@ -20582,6 +20581,7 @@ articulite
 apparentements
 aetiology
 arthropathic
+absit
 arthrophyma
 arthrophlogosis
 anencephaly
