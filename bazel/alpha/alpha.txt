@@ -9829,6 +9829,7 @@ antepreterit
 amarillo
 amarin
 amphigen
+antiboxing
 amarine
 amarity
 amaritude
@@ -14662,7 +14663,6 @@ anisotropy
 abelite
 antiblue
 antibodies
-antiboxing
 atticism
 antibreakage
 aureously
