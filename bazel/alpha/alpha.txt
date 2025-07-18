@@ -2773,7 +2773,6 @@ acrock
 acrospore
 acroclinium
 acrodactyla
-anapophyses
 acrodont
 anarithmia
 argonauta
@@ -3757,6 +3756,7 @@ accomplis
 adiaphory
 afer
 adiaphorist
+anapophyses
 alamo
 antifascism
 airframes
