@@ -5306,7 +5306,6 @@ argoletier
 azophenetole
 afforested
 afforesting
-anticogitative
 afformative
 affrayers
 affraying
@@ -24866,6 +24865,7 @@ artisanal
 aberrations
 aggrandizements
 arretez
+anticogitative
 avouching
 abetment
 avoutry
