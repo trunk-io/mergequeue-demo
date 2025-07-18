@@ -16900,7 +16900,6 @@ allotters
 aplenty
 alveolars
 affreight
-aplite
 aplites
 amar
 amulet
@@ -18628,6 +18627,7 @@ accusably
 archband
 archbeacon
 addlebrain
+aplite
 archbeadle
 aridge
 autonetics
