@@ -2003,7 +2003,6 @@ acetophenone
 archshepherd
 acetosalicylic
 amphodiplopia
-arterial
 acetosoluble
 acetostearin
 acetothienone
@@ -2062,6 +2061,7 @@ anapsid
 achenes
 atelic
 amorua
+arterial
 alphabets
 argon
 autoscopy
