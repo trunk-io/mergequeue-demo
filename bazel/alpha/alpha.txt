@@ -4692,7 +4692,6 @@ aenach
 affricate
 adawe
 antiradicalism
-anchoretic
 aenigmatite
 aeolia
 aeolic
@@ -5580,6 +5579,7 @@ alloiometry
 acoelomatous
 ashlaring
 agade
+anchoretic
 apicial
 atopies
 almeidina
