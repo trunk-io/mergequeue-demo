@@ -7633,7 +7633,6 @@ antiromance
 airmass
 anemogram
 acroter
-abaissed
 alcoholometer
 alcoholometry
 albumenize
@@ -20898,6 +20897,7 @@ alisier
 ascelli
 ascellus
 ascend
+abaissed
 ascendable
 amortisseur
 antirust
