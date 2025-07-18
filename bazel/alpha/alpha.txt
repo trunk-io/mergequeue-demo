@@ -8711,6 +8711,7 @@ anschluss
 appet
 alliancing
 alliant
+anisalcohol
 allicampane
 anemonol
 antiketogen
@@ -20200,7 +20201,6 @@ alphabet
 aeipathy
 arrester
 alphanumerically
-anisalcohol
 aggest
 arrestingly
 arrestive
