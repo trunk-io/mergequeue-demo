@@ -6648,7 +6648,6 @@ arpeggio
 aeromaechanic
 agglutination
 abnormities
-amalfian
 adsmith
 ainus
 ayont
@@ -13348,6 +13347,7 @@ atheisticness
 antiminsion
 antimnemonic
 annaly
+amalfian
 arseniureted
 annalia
 annaline
