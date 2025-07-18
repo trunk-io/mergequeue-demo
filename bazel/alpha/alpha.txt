@@ -5271,7 +5271,6 @@ androsin
 affixers
 affixes
 acoelomous
-affixial
 aspatia
 android
 armageddon
@@ -5782,6 +5781,7 @@ adenolipoma
 archfelon
 anisocarpic
 agend
+affixial
 ampyx
 ave
 agendas
