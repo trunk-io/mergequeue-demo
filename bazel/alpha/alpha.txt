@@ -1681,7 +1681,6 @@ aventail
 acleidian
 amphicentric
 accubita
-accubitum
 apologs
 attiwendaronk
 atmocautery
@@ -3709,6 +3708,7 @@ autoptical
 agones
 adhaka
 adhara
+accubitum
 aluminothermy
 adharma
 ashstone
