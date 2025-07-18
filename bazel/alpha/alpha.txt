@@ -1058,7 +1058,6 @@ apologizer
 abt
 abterminal
 archreactionary
-aphelion
 allegiance
 abthainrie
 abuilding
@@ -7491,6 +7490,7 @@ aswoon
 alca
 abolitionise
 acetal
+aphelion
 alcaaba
 abbeystede
 aquamanale
