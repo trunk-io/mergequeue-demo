@@ -6538,7 +6538,6 @@ aquaculture
 aigrette
 alveolite
 adenomeningeal
-afterbeat
 aiguelle
 aymaran
 astatizer
@@ -6696,6 +6695,7 @@ aquas
 antibias
 axometer
 arid
+afterbeat
 altars
 aircraftmen
 aircraftsman
