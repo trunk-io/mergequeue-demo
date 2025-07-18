@@ -14780,7 +14780,6 @@ acuan
 atmas
 astrognosy
 autospray
-antimachinery
 anticyclic
 arrondi
 alife
@@ -18520,6 +18519,7 @@ arcadias
 ardure
 aulos
 arcading
+antimachinery
 arcana
 afflictedness
 aggravate
