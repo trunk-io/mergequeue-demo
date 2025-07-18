@@ -4886,6 +4886,7 @@ aeroelasticity
 aerofoil
 adjurors
 aerofoils
+aculeus
 adjourned
 algine
 amberfish
@@ -5361,7 +5362,6 @@ afluking
 afore
 anemoclastic
 attainers
-aculeus
 arrhinia
 agenesic
 ascogonial
