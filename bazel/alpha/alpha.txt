@@ -11428,7 +11428,6 @@ authenticators
 antlia
 amarelles
 astrologous
-acidimetric
 amusette
 aptate
 amusias
@@ -13564,6 +13563,7 @@ adelia
 anodal
 abend
 anode
+acidimetric
 acrity
 adinole
 adat
