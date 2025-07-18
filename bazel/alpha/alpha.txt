@@ -1464,6 +1464,7 @@ acclimates
 acclimatisation
 affixable
 acclimatise
+auxocyte
 acclimatised
 acclimatiser
 acost
@@ -19548,7 +19549,6 @@ affirmer
 almightily
 arbitre
 arianizer
-auxocyte
 aischrolatreia
 absorptions
 aquarians
