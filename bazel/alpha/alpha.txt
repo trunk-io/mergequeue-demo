@@ -4618,7 +4618,6 @@ aediculae
 absey
 antasphyctic
 aedicule
-attraction
 adject
 antioxygenic
 aediles
@@ -19387,6 +19386,7 @@ argentometer
 amoeboidism
 antillean
 argentometry
+attraction
 aday
 acetylbenzoate
 anchoritical
