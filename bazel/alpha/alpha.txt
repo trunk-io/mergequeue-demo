@@ -3945,7 +3945,6 @@ aqueity
 anthologizer
 apologer
 adjutory
-adjutrice
 adjutrix
 ambassage
 adlet
@@ -23277,6 +23276,7 @@ aucaner
 autota
 aftertimes
 awarrant
+adjutrice
 auchenium
 acronic
 auchlet
