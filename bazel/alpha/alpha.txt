@@ -15888,7 +15888,6 @@ aureateness
 antiqueness
 antiques
 antiquing
-antiquum
 arcadianly
 antiquation
 adnex
@@ -22591,6 +22590,7 @@ acumen
 atherurus
 absmho
 accelerant
+antiquum
 alur
 atheticize
 anneals
