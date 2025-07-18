@@ -2268,7 +2268,6 @@ aciculum
 asonia
 appassionato
 arcaded
-albarello
 abscession
 aluminous
 amapondo
@@ -5513,6 +5512,7 @@ afflux
 afterplanting
 afterreckoning
 articulare
+albarello
 andiroba
 alumna
 allomerism
