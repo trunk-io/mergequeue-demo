@@ -1983,7 +1983,6 @@ acetomorphine
 acetonaemia
 acetonaemic
 acetonemic
-acetonic
 advances
 antependia
 acetonylacetone
@@ -12888,6 +12887,7 @@ anguillaria
 abey
 amphitheccia
 affirmant
+acetonic
 archdemon
 anguilloid
 abcess
