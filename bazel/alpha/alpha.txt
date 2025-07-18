@@ -6727,6 +6727,7 @@ augment
 airfare
 amyctic
 airfield
+agog
 airflow
 airflows
 antimoralist
@@ -16658,7 +16659,6 @@ ambience
 avouchers
 anabaptized
 averse
-agog
 amylometer
 anterointerior
 ametaboly
