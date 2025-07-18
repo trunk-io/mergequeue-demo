@@ -2911,7 +2911,6 @@ acrostic
 anacromyodian
 advisive
 approvably
-acrostichoid
 acrostichum
 acrosticism
 anthropodus
@@ -11289,6 +11288,7 @@ abaff
 anobiidae
 amphora
 amphorae
+acrostichoid
 alohas
 apiator
 abuzz
