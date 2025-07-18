@@ -10886,6 +10886,7 @@ arbitrer
 acceptant
 autodialers
 alow
+autocarp
 apotropaion
 asbestine
 amoebobacter
@@ -23924,7 +23925,6 @@ aerator
 alumnal
 autocarist
 antiwar
-autocarp
 ambiences
 afterbay
 autocarpian
