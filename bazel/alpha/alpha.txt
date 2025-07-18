@@ -312,6 +312,7 @@ aisle
 anthophyte
 artemas
 anguis
+ahistoric
 advantageousness
 avar
 aerophor
@@ -6421,7 +6422,6 @@ algaesthesis
 antinomian
 amebula
 ahir
-ahistoric
 antherozooidal
 alternant
 autunian
