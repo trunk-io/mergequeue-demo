@@ -3250,7 +3250,6 @@ acutances
 antihormone
 apterygial
 acute
-acutely
 acuter
 ascomycetal
 armlocks
@@ -12953,6 +12952,7 @@ ackton
 antisimoniacal
 annihilable
 anharmonic
+acutely
 aluniferous
 achloropsia
 anhedral
