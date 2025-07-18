@@ -6689,7 +6689,6 @@ airburst
 arresting
 antitoxine
 airbusses
-aircraftman
 atenist
 aquas
 antibias
@@ -21585,6 +21584,7 @@ assays
 autointoxication
 assam
 assamese
+aircraftman
 asexual
 assamites
 acetamide
