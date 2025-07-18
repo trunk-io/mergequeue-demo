@@ -10805,7 +10805,6 @@ abstrude
 acnodes
 ammonitiferous
 ammonitoid
-ammonitoidea
 affording
 ammocoetiform
 antischolastic
@@ -12047,6 +12046,7 @@ actuaryship
 anatidae
 amidstream
 anatifer
+ammonitoidea
 aerobacter
 adumbrellar
 antiatonement
