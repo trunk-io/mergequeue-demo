@@ -928,6 +928,7 @@ absolvatory
 absolve
 absolvent
 arteriotome
+azote
 absolves
 absolving
 absolvitor
@@ -1356,7 +1357,6 @@ alinotum
 accelerative
 adiaphanousness
 annunciates
-azote
 aqueducts
 accelerators
 accelerometer
