@@ -6859,7 +6859,6 @@ ays
 antipneumococcic
 antiatheism
 anatomopathologic
-alogism
 autopticity
 acetaldehydrase
 ait
@@ -22104,6 +22103,7 @@ astigmatoscope
 astigmatoscopy
 astigmic
 antiphon
+alogism
 astigmometer
 aglossa
 astigmometry
