@@ -4262,7 +4262,6 @@ amaranths
 adrenin
 addu
 adrenitis
-archcount
 adrenochrome
 adrenocortical
 adrenocorticotrophic
@@ -15394,6 +15393,7 @@ algorist
 antimetrical
 alone
 antimetropia
+archcount
 antimetropic
 antimycotic
 alphatoluic
