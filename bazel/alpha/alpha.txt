@@ -11668,7 +11668,6 @@ avoke
 ayme
 artal
 anaesthetize
-anaesthetized
 anaesthetizer
 arthralgic
 adsum
@@ -22046,6 +22045,7 @@ antistat
 anthracosilicosis
 asthamatic
 astheny
+anaesthetized
 achroacyte
 ailantery
 administration
