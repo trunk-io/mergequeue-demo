@@ -17443,7 +17443,6 @@ apparats
 apparatus
 appareling
 apparency
-apparentements
 airify
 anoxyscope
 apparently
@@ -20577,6 +20576,7 @@ aswithe
 arthroncus
 arthroneuralgia
 articulite
+apparentements
 aetiology
 arthropathic
 arthrophyma
