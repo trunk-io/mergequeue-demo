@@ -4462,7 +4462,6 @@ advective
 advects
 advena
 ascended
-anchylosis
 adventitial
 arquifoux
 aerobiotically
@@ -10610,6 +10609,7 @@ amylosis
 armamentary
 auxographic
 amiloun
+anchylosis
 amyls
 alcoate
 amin
