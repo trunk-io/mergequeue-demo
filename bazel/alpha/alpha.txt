@@ -4479,7 +4479,6 @@ antebridal
 ammoniac
 atelectatic
 avail
-adverbial
 adverbially
 acloud
 aggerose
@@ -12101,6 +12100,7 @@ andira
 alienicola
 antiritualist
 alligate
+adverbial
 ablegates
 amidogens
 alcaic
