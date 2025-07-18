@@ -5466,7 +5466,6 @@ afterdate
 antifoam
 amadou
 abscisins
-afterdeal
 afterdeck
 adipomata
 afterform
@@ -12387,6 +12386,7 @@ angara
 ayens
 aurantium
 anear
+afterdeal
 autodermic
 asphyxy
 aberrometer
