@@ -1839,7 +1839,6 @@ anastomotic
 aceratherium
 anteresurrection
 acerbate
-acerbates
 aulacocarpous
 acerber
 avarice
@@ -2095,6 +2094,7 @@ achievement
 agamogenetic
 ardor
 achievements
+acerbates
 antapices
 aiguillesque
 abscessing
