@@ -2166,7 +2166,6 @@ adductive
 ararao
 achluophobia
 acholia
-acholoe
 acholous
 arsylene
 acholuric
@@ -17273,6 +17272,7 @@ antiforeign
 apostate
 apostatically
 apostatise
+acholoe
 appendicectasis
 abthain
 astomatal
