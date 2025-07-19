@@ -7197,7 +7197,6 @@ alation
 achage
 aeolharmonica
 alauda
-aphakic
 antilevelling
 antihidrotic
 autophotometry
@@ -24381,6 +24380,7 @@ ankylomele
 autoscope
 autoscopic
 atrabiliar
+aphakic
 antivivisection
 aperiodic
 antagonise
