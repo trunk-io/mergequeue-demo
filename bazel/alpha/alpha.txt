@@ -4415,7 +4415,6 @@ adumbrated
 ap
 adumbrations
 asthenias
-allemande
 agrypnode
 allophane
 antebath
@@ -13738,6 +13737,7 @@ awned
 anoplura
 amnic
 assbaa
+allemande
 acetylenogen
 aspidosperma
 anopubic
