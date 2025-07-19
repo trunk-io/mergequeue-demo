@@ -4622,7 +4622,6 @@ aecidiostage
 aglare
 aecidium
 acoemetic
-aeciospore
 anychia
 aecioteliospore
 alans
@@ -15371,6 +15370,7 @@ antimesia
 aspredo
 archetypically
 antimetathetic
+aeciospore
 acrogens
 azonic
 aeschynite
