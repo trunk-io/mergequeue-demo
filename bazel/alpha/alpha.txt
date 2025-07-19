@@ -5234,6 +5234,7 @@ affile
 affiliable
 addio
 affiliating
+apothegmatically
 apery
 abohm
 attackable
@@ -17374,7 +17375,6 @@ applot
 airship
 athyris
 antiarchi
-apothegmatically
 apothegmatist
 apothegmatize
 asynchronism
