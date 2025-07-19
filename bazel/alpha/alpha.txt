@@ -3392,6 +3392,7 @@ attending
 ankou
 apostemation
 argosies
+abbr
 abietinic
 adaptometer
 adaptor
@@ -22240,7 +22241,6 @@ androseme
 astrobotany
 astrochemistry
 achilleid
-abbr
 astrocytomas
 anal
 anhaline
