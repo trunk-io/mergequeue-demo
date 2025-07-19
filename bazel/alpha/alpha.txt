@@ -8773,7 +8773,6 @@ apterygote
 afforests
 acescents
 allium
-alliums
 allivalite
 arthropyosis
 anoesia
@@ -19835,6 +19834,7 @@ armers
 activated
 autumnal
 acanthite
+alliums
 actually
 armets
 amissibility
