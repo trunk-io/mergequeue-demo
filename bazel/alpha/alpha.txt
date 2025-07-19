@@ -3375,6 +3375,7 @@ adapt
 anisospore
 apolytikion
 apeman
+autotransplant
 aliased
 adaptableness
 almocrebe
@@ -3824,7 +3825,6 @@ adipate
 amphithuron
 acetabuliform
 adipinic
-autotransplant
 adipocellulose
 adipocere
 adipoceriform
