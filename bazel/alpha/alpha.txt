@@ -4612,7 +4612,6 @@ abjunctive
 aecidiospore
 aecidiostage
 aglare
-alismad
 aecidium
 acoemetic
 aeciospore
@@ -23667,6 +23666,7 @@ anchoritish
 auriscopic
 aurist
 aurists
+alismad
 assentiveness
 aurited
 arnatta
