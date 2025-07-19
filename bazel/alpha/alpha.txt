@@ -8841,6 +8841,7 @@ assigners
 alloyage
 alloiogenesis
 alloiometric
+aurigid
 adjustments
 allomerizing
 averager
@@ -10374,7 +10375,6 @@ argyroneta
 alchymy
 amethystine
 absurdum
-aurigid
 addling
 aculeolus
 antshrike
