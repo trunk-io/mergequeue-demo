@@ -8730,7 +8730,6 @@ allied
 allies
 alligated
 activators
-arctoid
 alligatorfish
 alligatorfishes
 arbinose
@@ -19418,6 +19417,7 @@ anthobian
 autonomically
 antisemite
 argillaceous
+arctoid
 anmia
 affectively
 amphipodiform
