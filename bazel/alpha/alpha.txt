@@ -11036,7 +11036,6 @@ attenuation
 agrotype
 awakings
 amperometer
-asswage
 ampersands
 archpontiff
 amphanthia
@@ -13770,6 +13769,7 @@ anorthopia
 anorthose
 afresh
 anoscope
+asswage
 angstrom
 achariaceae
 anoscopy
