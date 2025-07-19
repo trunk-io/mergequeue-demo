@@ -6957,7 +6957,6 @@ armature
 althorns
 avick
 aphyllous
-autoist
 axolotl
 akees
 anaphalis
@@ -12689,6 +12688,7 @@ angeronalia
 angetenar
 angevin
 angiectasis
+autoist
 abortively
 arillodes
 apocathartic
