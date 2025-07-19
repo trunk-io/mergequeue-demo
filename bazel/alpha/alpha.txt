@@ -3556,7 +3556,6 @@ anthemwise
 antimonite
 adelphian
 adelphic
-adelphous
 adipsous
 azole
 ascesis
@@ -10245,6 +10244,7 @@ amen
 ammonocarbonic
 amenability
 amenable
+adelphous
 anorganism
 atoll
 anticheater
