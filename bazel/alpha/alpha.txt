@@ -3005,7 +3005,6 @@ appear
 actinogram
 aerophore
 appearances
-actinograph
 antipodes
 afterwar
 assamar
@@ -20894,6 +20893,7 @@ autotroph
 ascendance
 ascendancy
 ascendants
+actinograph
 ascendence
 aftershaves
 atimon
