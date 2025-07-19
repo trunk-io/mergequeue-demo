@@ -9482,6 +9482,7 @@ alternatively
 alternatives
 angioblast
 alternifoliate
+autodiffusion
 axolysis
 afrikaans
 alternipetalous
@@ -10353,7 +10354,6 @@ aftertax
 astigmatizer
 accredited
 athetosis
-autodiffusion
 assisting
 astuteness
 angiotonase
