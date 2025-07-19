@@ -3763,6 +3763,7 @@ anterograde
 archicytula
 adiaphon
 antimechanist
+aeromancy
 anasarcous
 aichmophobia
 acephalina
@@ -24331,7 +24332,6 @@ autopsied
 angulating
 archprophet
 autoptically
-aeromancy
 attractionally
 alpinists
 anodendron
