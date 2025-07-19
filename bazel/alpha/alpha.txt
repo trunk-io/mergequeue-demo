@@ -3879,7 +3879,6 @@ allurance
 adjoust
 adjudging
 adjudgment
-adjudicate
 antihierarchal
 adjudicated
 acute
@@ -23186,6 +23185,7 @@ adipogenous
 alveolation
 attractor
 asterias
+adjudicate
 adnumber
 apneumatic
 antship
