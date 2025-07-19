@@ -7627,7 +7627,6 @@ anemogram
 acroter
 alcoholometer
 alcoholometry
-albumenize
 alcoholometric
 antitaxation
 apollonia
@@ -15655,6 +15654,7 @@ atophan
 anteflexed
 antipathic
 aquacades
+albumenize
 autocephalous
 antipathize
 antiinsurrectionally
