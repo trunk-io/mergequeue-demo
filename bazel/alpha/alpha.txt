@@ -5534,7 +5534,6 @@ achromatium
 angers
 afterthought
 afterthoughts
-apastron
 afterturn
 arianism
 armory
@@ -9315,6 +9314,7 @@ abulia
 acerose
 annapolis
 alphabetic
+apastron
 alphabetical
 abiogenous
 alphabetically
