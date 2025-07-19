@@ -8874,7 +8874,6 @@ alloyage
 aeroporotomy
 alloiogenesis
 alloiometric
-adjustments
 allomerizing
 averager
 anematizing
@@ -24384,6 +24383,7 @@ antivivisection
 aperiodic
 antagonise
 autosight
+adjustments
 albuminuric
 autosymbolic
 ambulatoria
