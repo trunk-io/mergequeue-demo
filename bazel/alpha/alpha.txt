@@ -3670,7 +3670,6 @@ adenotome
 adenous
 adeona
 attenuative
-adephagous
 argoan
 amies
 alpenhorn
@@ -12727,6 +12726,7 @@ angiokeratoma
 apocopation
 anthocerotales
 angioleucitis
+adephagous
 angioma
 angiomalacia
 aquaplaned
