@@ -23963,6 +23963,7 @@ autocollimators
 autocolony
 anchormen
 autocombustion
+antiguggler
 anantherate
 axmaster
 algocyan
@@ -24951,7 +24952,6 @@ atilt
 antitartaric
 aldine
 arroyo
-antiguggler
 aweband
 aminoacetal
 anomies
