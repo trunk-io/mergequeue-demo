@@ -9850,7 +9850,6 @@ amarin
 amphigen
 antiboxing
 amarine
-amarity
 accentuate
 accouterments
 amaritude
@@ -19912,6 +19911,7 @@ agonized
 armlessness
 asphyxiated
 armlets
+amarity
 aiguellette
 aeolis
 autotoxicosis
