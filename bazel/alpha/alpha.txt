@@ -5286,6 +5286,7 @@ affixes
 agraphia
 acoelomous
 affixial
+anachorism
 android
 armageddon
 agnathostomata
@@ -24556,7 +24557,6 @@ abamperes
 auxology
 ammonea
 auxospore
-anachorism
 anticommunism
 angiophorous
 aniba
