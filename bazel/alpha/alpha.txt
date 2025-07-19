@@ -3736,7 +3736,6 @@ adhort
 awol
 adiabat
 adumbrate
-adiadochokinesis
 anthracite
 adiadokokinesia
 agranulocytosis
@@ -7877,6 +7876,7 @@ alerters
 alps
 autotropically
 amygdules
+adiadochokinesis
 antiserum
 alerting
 antiroyal
