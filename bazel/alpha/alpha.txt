@@ -5853,7 +5853,6 @@ agglomeration
 agglomerative
 apical
 anartismos
-agglutinate
 arenaceous
 arri
 aecidia
@@ -12192,6 +12191,7 @@ auriculae
 anchoveta
 argumentatively
 amazonite
+agglutinate
 arcades
 anchusas
 amblypoda
