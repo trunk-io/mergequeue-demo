@@ -13732,7 +13732,6 @@ anoplotherioid
 anoplotherium
 autocrator
 amid
-arteriopalmus
 awned
 anoplura
 amnic
@@ -21648,6 +21647,7 @@ assemble
 added
 assembled
 amphipodous
+arteriopalmus
 anniv
 assembler
 assembly
