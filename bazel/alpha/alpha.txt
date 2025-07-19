@@ -6336,7 +6336,6 @@ aliphatic
 agrogeology
 aleucaemic
 agrogeological
-agrologic
 acoine
 afro
 adsorbate
@@ -13074,6 +13073,7 @@ amiss
 amental
 antepirrhema
 abseiled
+agrologic
 arsanilic
 abiders
 absorbed
