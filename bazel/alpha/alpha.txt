@@ -5030,6 +5030,7 @@ agacant
 aggro
 argo
 aerotechnical
+antimonic
 alchera
 aerotherapeutics
 attainting
@@ -23121,7 +23122,6 @@ atrabilarious
 austrium
 apomecometry
 auriphrygiate
-antimonic
 anapaganize
 atticize
 apiculture
