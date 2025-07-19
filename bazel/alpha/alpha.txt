@@ -5179,7 +5179,6 @@ affecters
 affectibility
 affecting
 acrorhagus
-antitangent
 ataraxia
 affection
 apostasies
@@ -10695,6 +10694,7 @@ anabolitic
 antaphrodisiac
 aqueoigneous
 alevins
+antitangent
 amire
 abattis
 accomplicity
