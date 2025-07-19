@@ -2461,7 +2461,6 @@ aclinic
 acmaea
 acmaeidae
 acmatic
-acme
 acmispon
 anteceding
 atoxic
@@ -18291,6 +18290,7 @@ archmagirist
 aggie
 analeptic
 albatross
+acme
 applicatorily
 anabaptistical
 aragonspath
