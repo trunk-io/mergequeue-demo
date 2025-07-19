@@ -6319,6 +6319,7 @@ animate
 atty
 agriot
 agriotypidae
+anticonductor
 allotypical
 agrypnotic
 acajou
@@ -14885,7 +14886,6 @@ anticommunistical
 anticommunistically
 anticompetitive
 anticomplement
-anticonductor
 adenographic
 acale
 antozone
