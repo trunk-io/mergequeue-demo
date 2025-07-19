@@ -6996,7 +6996,6 @@ antiplague
 akepiro
 aker
 adman
-amdt
 apogeal
 altiloquent
 angus
@@ -13980,6 +13979,7 @@ aetiotropic
 allonges
 antiparastatitis
 adulterant
+amdt
 albizzia
 acoup
 antecedency
