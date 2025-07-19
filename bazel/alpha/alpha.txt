@@ -14167,7 +14167,6 @@ anteromedial
 agiotages
 anteroom
 anterooms
-anteroparietal
 accur
 anvils
 anencephalous
@@ -16922,6 +16921,7 @@ amoinder
 ascidicolous
 alphabetization
 aplotaxene
+anteroparietal
 aliened
 americanizer
 apneumona
