@@ -10727,6 +10727,7 @@ apodemal
 apothecary
 avidness
 adoptive
+adnoun
 adductor
 ammeter
 ammeters
@@ -14410,7 +14411,6 @@ anthropography
 acritochromacy
 algologically
 argutation
-adnoun
 anthropographic
 anthropoid
 anthropoidean
