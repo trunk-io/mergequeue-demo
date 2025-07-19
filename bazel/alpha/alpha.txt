@@ -2347,7 +2347,6 @@ athetoid
 acieration
 acies
 acyesis
-altometer
 acyetic
 apprehend
 albeit
@@ -10043,6 +10042,7 @@ axmen
 antiformant
 amblydactyla
 asymptomatically
+altometer
 amblygonal
 asboline
 allergology
