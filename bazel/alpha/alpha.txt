@@ -2836,7 +2836,6 @@ animetta
 antenniform
 acromiohumeral
 antichurchian
-acromiothoracic
 antiliturgical
 avera
 autoepigraph
@@ -11054,6 +11053,7 @@ azimuthally
 amphibiotic
 artifices
 amphibium
+acromiothoracic
 aquatinting
 amphiblastula
 ateeter
