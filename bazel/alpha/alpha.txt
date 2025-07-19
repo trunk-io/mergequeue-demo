@@ -9572,7 +9572,6 @@ altun
 anisomeles
 autoharp
 alture
-altus
 algivorous
 aluco
 antirennet
@@ -21283,6 +21282,7 @@ akolouthia
 alkalization
 aviatory
 anomalure
+altus
 asystole
 asystolic
 actinoida
