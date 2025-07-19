@@ -1696,6 +1696,7 @@ atmocautery
 aphonias
 accubitus
 accueil
+abscissin
 acculturate
 acculturates
 astr
@@ -16740,7 +16741,6 @@ aphrodite
 agname
 aguishness
 aphtha
-abscissin
 ateuchi
 aphthartodocetic
 aphthartodocetism
