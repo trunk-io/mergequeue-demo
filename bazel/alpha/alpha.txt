@@ -4611,7 +4611,6 @@ apollo
 aecidial
 aecidioform
 abjunctive
-aecidiospore
 aecidiostage
 aglare
 alismad
@@ -22231,6 +22230,7 @@ astrobotany
 astrochemistry
 astrocytic
 achilleid
+aecidiospore
 abbr
 astrocytomas
 anal
