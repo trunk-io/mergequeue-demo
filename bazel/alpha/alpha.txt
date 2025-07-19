@@ -11229,7 +11229,6 @@ amphisarca
 aqua
 aperitifs
 andirons
-apiose
 argiopidae
 amphisbaenas
 amphisbaenoid
@@ -18092,6 +18091,7 @@ aquaregia
 apoise
 aquarelle
 aquarial
+apiose
 armoring
 adepter
 ambracan
