@@ -12448,7 +12448,6 @@ arccosine
 apasttra
 adipogenic
 anemobiagraph
-anemochord
 anemochore
 anaboly
 anemochorous
@@ -20434,6 +20433,7 @@ artery
 augments
 acutilingual
 arteria
+anemochord
 associating
 amplifications
 aftaba
