@@ -12174,7 +12174,6 @@ astate
 archinfamy
 anchoritess
 alignment
-anchorlike
 anchorman
 auriculae
 anchoveta
@@ -25210,6 +25209,7 @@ assassinatress
 axoplasmic
 axopodia
 aardvarks
+anchorlike
 assentatorily
 averruncate
 atomists
