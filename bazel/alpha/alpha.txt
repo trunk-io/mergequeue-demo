@@ -11630,7 +11630,6 @@ anaerobion
 apocrisiary
 anaerobiosis
 anaerobiotic
-anaerobium
 avanti
 anaerophyte
 anaphylactic
@@ -14382,6 +14381,7 @@ anthropocentric
 atheromata
 anthropoclimatology
 acetaldehydase
+anaerobium
 anthropodeoxycholic
 affluents
 achenium
