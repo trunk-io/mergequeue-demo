@@ -10822,7 +10822,6 @@ ammonolytic
 anticult
 amphib
 ammophilous
-ammos
 ammotherapy
 antipepsin
 amnesia
@@ -15158,6 +15157,7 @@ amylogens
 approached
 archaically
 antiecclesiastically
+ammos
 antiflattering
 antiflatulent
 antiflux
