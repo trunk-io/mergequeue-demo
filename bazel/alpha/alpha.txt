@@ -6542,7 +6542,6 @@ alkaligen
 armories
 aigret
 adrenal
-aquaculture
 alveolite
 adenomeningeal
 aiguelle
@@ -7081,6 +7080,7 @@ akroasis
 akrochordite
 apocrine
 abietineous
+aquaculture
 allophore
 akroter
 akroteria
