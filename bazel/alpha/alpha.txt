@@ -2360,7 +2360,6 @@ athrepsia
 ashtray
 aftercare
 agitative
-artifact
 acylated
 awalt
 alizari
@@ -2694,6 +2693,7 @@ arquebus
 azelfafage
 acridophagus
 arrgt
+artifact
 accreditment
 acetoxyphthalide
 acriflavin
