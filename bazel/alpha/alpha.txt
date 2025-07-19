@@ -18653,7 +18653,6 @@ archbeadle
 aridge
 autonetics
 apprising
-autocephality
 archbishopry
 archbishopric
 austria
@@ -19210,6 +19209,7 @@ azocorinth
 agriotype
 ardour
 ardours
+autocephality
 ardri
 ardu
 adonian
