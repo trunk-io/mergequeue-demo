@@ -5794,7 +5794,6 @@ agend
 ampyx
 ave
 agendas
-ankylosaur
 agendum
 atrabilarious
 agendums
@@ -20800,6 +20799,7 @@ actium
 arzun
 antick
 asa
+ankylosaur
 aneath
 asafetida
 alnager
