@@ -1344,7 +1344,6 @@ abnormal
 acaulescence
 appair
 acaulescent
-acauline
 antas
 anthemia
 avows
@@ -10093,6 +10092,7 @@ anaheim
 amboinas
 acleistous
 antiegoistic
+acauline
 ajangle
 azedarach
 amorphous
