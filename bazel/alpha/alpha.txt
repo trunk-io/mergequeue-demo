@@ -11666,7 +11666,6 @@ anaglyph
 annulism
 anaglyphs
 aldim
-anaglyptography
 anaglyptographic
 armorbearer
 acheer
@@ -22224,6 +22223,7 @@ autopsychology
 astrobiologies
 alrighty
 afterdrops
+anaglyptography
 androseme
 astrobotany
 astrochemistry
