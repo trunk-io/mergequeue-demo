@@ -2761,7 +2761,6 @@ admonished
 anathematiser
 autopista
 acrocephalic
-aw
 acrochordinae
 aface
 archaeologist
@@ -14682,6 +14681,7 @@ ageism
 affright
 amphogeny
 antibubonic
+aw
 aeroview
 aviculariidae
 autopneumatic
