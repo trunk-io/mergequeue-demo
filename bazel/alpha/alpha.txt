@@ -19200,7 +19200,6 @@ amianthoidal
 azocorinth
 agriotype
 ardour
-ardours
 ardri
 ardu
 adonian
@@ -19670,6 +19669,7 @@ affabrous
 appeasement
 adenosarcomas
 autodecrement
+ardours
 aristocratism
 aristocrats
 abodement
