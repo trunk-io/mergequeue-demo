@@ -9264,7 +9264,6 @@ alongships
 antinion
 artifice
 arraign
-alongshoreman
 accidental
 antisymmetric
 antliate
@@ -16301,6 +16300,7 @@ amugis
 alkalinisation
 antler
 antlers
+alongshoreman
 accroached
 antlid
 antre
