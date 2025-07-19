@@ -9514,6 +9514,7 @@ althing
 ablution
 asterikos
 aspidate
+apelles
 anargyroi
 antimale
 appealing
@@ -16538,7 +16539,6 @@ acknowledgeable
 ascribed
 abstractions
 acalculia
-apelles
 acuminate
 apenteric
 athirst
