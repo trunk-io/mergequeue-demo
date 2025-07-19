@@ -7405,7 +7405,6 @@ albumenizer
 albumenoid
 archtreasurer
 albumens
-albumimeter
 aftership
 appraisers
 apeiron
@@ -19575,6 +19574,7 @@ antistrophize
 asservilize
 attritional
 ariette
+albumimeter
 apposing
 argyranthous
 anthracomartus
