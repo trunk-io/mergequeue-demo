@@ -2919,7 +2919,6 @@ awkwardest
 autophonous
 aubrietas
 anguilliform
-alvus
 apluda
 ain
 assaultive
@@ -8756,6 +8755,7 @@ aristocrat
 alliterate
 acescence
 alcidae
+alvus
 alliterates
 await
 actious
