@@ -19283,7 +19283,6 @@ afield
 arere
 arerola
 addend
-arest
 australian
 aretaics
 arete
@@ -19525,6 +19524,7 @@ argutely
 asphaltic
 asbestic
 ary
+arest
 aria
 angas
 autoslip
