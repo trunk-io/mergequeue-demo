@@ -1269,6 +1269,7 @@ asaphic
 acarari
 ardelia
 acarian
+auris
 acariasis
 acarid
 acaridan
@@ -23664,7 +23665,6 @@ auriphone
 ascidians
 auriphrygia
 aurir
-auris
 auriscalp
 auriscalpia
 auriscope
