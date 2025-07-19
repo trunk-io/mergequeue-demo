@@ -6847,7 +6847,6 @@ autopticity
 acetaldehydrase
 ait
 ashot
-antiferromagnet
 aitch
 asphaltene
 amazement
@@ -12909,6 +12908,7 @@ assistors
 angularity
 angularities
 affirming
+antiferromagnet
 antisurplician
 argentinidae
 angulated
