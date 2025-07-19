@@ -3114,6 +3114,7 @@ archimorphic
 actinopteran
 ascidian
 allotment
+allometric
 autorail
 automaker
 actinopteri
@@ -4753,7 +4754,6 @@ abaris
 attitudinising
 aequi
 aranein
-allometric
 albuminimetry
 allogamy
 attemperation
