@@ -5460,7 +5460,6 @@ antifoam
 amadou
 abscisins
 afterdeck
-adipomata
 afterform
 aerolith
 afterfruits
@@ -11542,6 +11541,7 @@ after
 anacamptics
 antiperistasis
 aphididae
+adipomata
 anacanthine
 antielectron
 anacanthini
