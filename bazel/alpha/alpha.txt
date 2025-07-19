@@ -13679,7 +13679,6 @@ anonymuncule
 assistive
 anophele
 anopheles
-anophelinae
 anaptyctic
 anophthalmos
 anopia
@@ -23403,6 +23402,7 @@ augers
 auget
 augh
 aughtlins
+anophelinae
 augite
 absolutistic
 augmentable
