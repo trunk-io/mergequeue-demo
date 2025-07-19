@@ -8723,6 +8723,7 @@ activators
 alligatorfish
 alligatorfishes
 alniviridol
+allokinetic
 arbinose
 acquiesence
 allying
@@ -23466,7 +23467,6 @@ auletai
 auletes
 atalaya
 auletic
-allokinetic
 aetiophyllin
 aulical
 aulicism
