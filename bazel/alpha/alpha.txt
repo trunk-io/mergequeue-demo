@@ -1992,7 +1992,6 @@ acetomorphine
 angels
 acetonaemia
 acetonaemic
-acetonemic
 acetonic
 anisometric
 advances
@@ -12825,6 +12824,7 @@ angle
 angled
 angiocardiography
 affrightingly
+acetonemic
 asps
 argenol
 allegresse
