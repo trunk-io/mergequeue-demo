@@ -8805,7 +8805,6 @@ assumable
 archplotter
 antevocalic
 ac
-armouries
 audiometries
 arboroid
 adaptionism
@@ -10587,6 +10586,7 @@ ampelidaceae
 amylom
 amylopectin
 appertaining
+armouries
 amyloplastid
 antichronism
 amylopsin
