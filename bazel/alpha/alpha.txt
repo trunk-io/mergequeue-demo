@@ -9318,7 +9318,6 @@ annapolis
 alphabetic
 alphabetical
 abiogenous
-alphabetically
 abbotships
 adenolymphoma
 affectation
@@ -24486,6 +24485,7 @@ asclepias
 ayless
 audiencer
 argalis
+alphabetically
 araliad
 appeased
 algomian
