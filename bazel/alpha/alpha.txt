@@ -8815,7 +8815,6 @@ assumable
 archplotter
 allanturic
 antevocalic
-arrayment
 ac
 armouries
 audiometries
@@ -11579,6 +11578,7 @@ anacoenoses
 acepots
 americawards
 apostatical
+arrayment
 anacoluthic
 anacoluthon
 austerely
