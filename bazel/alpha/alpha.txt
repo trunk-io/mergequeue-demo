@@ -5445,7 +5445,6 @@ afterdate
 antifoam
 amadou
 abscisins
-afterdeck
 adipomata
 afterform
 aerolith
@@ -12440,6 +12439,7 @@ astatizing
 anthracitous
 anematosis
 apanage
+afterdeck
 anemias
 academian
 acquophonia
