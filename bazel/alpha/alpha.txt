@@ -2078,6 +2078,7 @@ alphabets
 argon
 autoscopy
 andantini
+adjacencies
 acheron
 antiendotoxin
 apostematous
@@ -17670,7 +17671,6 @@ analogice
 antidotism
 apples
 applewoman
-adjacencies
 anthorine
 appliable
 allochroite
