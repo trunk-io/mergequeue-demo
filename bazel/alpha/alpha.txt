@@ -19890,6 +19890,7 @@ armlike
 armload
 absyrtus
 armlock
+athalamous
 apoop
 armonicas
 armor
@@ -24724,7 +24725,6 @@ artisans
 aveugle
 accouple
 avg
-athalamous
 assenting
 avians
 aviararies
