@@ -14757,6 +14757,7 @@ acuan
 atmas
 astrognosy
 autospray
+authotype
 anticyclic
 arrondi
 alife
@@ -23866,7 +23867,6 @@ aeries
 anthotropic
 amoving
 anociation
-authotype
 admiringly
 arborator
 aster
