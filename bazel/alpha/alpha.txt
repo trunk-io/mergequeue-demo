@@ -15391,7 +15391,6 @@ apselaphesia
 algorist
 antimetrical
 alone
-antimetropia
 antimetropic
 antimycotic
 alphatoluic
@@ -20612,6 +20611,7 @@ arthrospore
 allgovite
 arthrosteitis
 arthrostome
+antimetropia
 arthrostomy
 arthrotyphoid
 amninia
