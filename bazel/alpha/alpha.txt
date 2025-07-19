@@ -1447,6 +1447,7 @@ alg
 atka
 accessorize
 accessors
+astrometric
 acciaccaturas
 axletrees
 accidentalism
@@ -22335,7 +22336,6 @@ astrometry
 agric
 archivault
 animalising
-astrometric
 astronaut
 apollinian
 astronavigator
