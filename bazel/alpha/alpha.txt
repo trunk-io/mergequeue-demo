@@ -4671,6 +4671,7 @@ austria
 appropriate
 aegilops
 abolishing
+awakeners
 aegina
 aeginetan
 aegipan
@@ -24919,7 +24920,6 @@ awakeable
 awakened
 algometer
 alopekai
-awakeners
 awakening
 ameristic
 awaking
