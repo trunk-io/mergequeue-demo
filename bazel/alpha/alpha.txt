@@ -7221,7 +7221,6 @@ alation
 achage
 aeolharmonica
 alauda
-aphakic
 antilevelling
 antihidrotic
 autophotometry
@@ -24386,6 +24385,7 @@ arksutite
 autoscope
 autoscopic
 atrabiliar
+aphakic
 antivivisection
 aperiodic
 antagonise
