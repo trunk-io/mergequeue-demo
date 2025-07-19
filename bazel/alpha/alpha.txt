@@ -6318,7 +6318,6 @@ agriot
 agriotypidae
 anticonductor
 allotypical
-agrypnotic
 acajou
 agroan
 agrobacterium
@@ -9914,6 +9913,7 @@ abepithymia
 archigony
 amatito
 albuminogenous
+agrypnotic
 ambler
 acerata
 alveolodental
