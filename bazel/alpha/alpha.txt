@@ -1603,7 +1603,6 @@ arclength
 accountable
 accusals
 accountably
-accountant
 accountantship
 arrhizous
 accounted
@@ -3239,6 +3238,7 @@ anagramming
 acraze
 aculeae
 atolls
+accountant
 aready
 abram
 abscam
