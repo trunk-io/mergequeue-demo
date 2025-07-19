@@ -8327,7 +8327,6 @@ ainee
 atrienses
 ayllu
 aliunde
-asternia
 algenib
 acuerdo
 arcanist
@@ -18260,6 +18259,7 @@ asor
 arachnoidea
 antinial
 arachnology
+asternia
 arachnologist
 arad
 aristarch
