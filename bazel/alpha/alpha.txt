@@ -18026,7 +18026,6 @@ apsid
 apsidiole
 ahantchuyuk
 abatises
-adsorptive
 aptenodytes
 amentiferae
 apteral
@@ -20475,6 +20474,7 @@ anoxybiosis
 afaint
 ashman
 acrid
+adsorptive
 apositic
 arteriomalacia
 aerophilatelic
