@@ -11051,7 +11051,6 @@ attenuation
 abapical
 agrotype
 awakings
-amperometer
 asswage
 ampersands
 archpontiff
@@ -23632,6 +23631,7 @@ apios
 amphisile
 auriculoparietal
 auriculotemporal
+amperometer
 auriferous
 appreciational
 axlike
