@@ -7507,7 +7507,6 @@ alcalde
 acholic
 anthropocentricity
 alcaldes
-alcaldeship
 alcaldia
 autoclastic
 aerified
@@ -17932,6 +17931,7 @@ arsenics
 approvability
 adjudicates
 approval
+alcaldeship
 approvals
 aegagropila
 antileukemic
