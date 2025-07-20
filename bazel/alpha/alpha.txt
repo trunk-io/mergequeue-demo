@@ -11500,7 +11500,6 @@ anacamptics
 antiperistasis
 aphididae
 anacanthine
-antielectron
 anacanthini
 approach
 apout
@@ -12169,6 +12168,7 @@ ancilla
 anticks
 asimen
 ancylopod
+antielectron
 acneiform
 acrider
 anatropous
