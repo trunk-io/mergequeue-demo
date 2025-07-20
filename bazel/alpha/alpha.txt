@@ -9786,7 +9786,6 @@ accouterments
 amaritude
 amarthritis
 autosomatognosis
-azotorrhoea
 autotherapy
 antiae
 attid
@@ -21657,6 +21656,7 @@ assentaneous
 assentatory
 assented
 assenter
+azotorrhoea
 arquerite
 autoclaved
 alewife
