@@ -4010,7 +4010,6 @@ admiralty
 admiralties
 atalan
 admiration
-apatheia
 ailurophilia
 atomise
 aristology
@@ -8104,6 +8103,7 @@ amora
 alternativo
 apophatic
 autocatalepsy
+apatheia
 antiquer
 adermia
 alice
