@@ -759,7 +759,6 @@ abreacts
 aepyornis
 abreast
 auxofluor
-archenteric
 abreed
 ammono
 asimmer
@@ -25004,6 +25003,7 @@ angareb
 avogadrite
 archaeologic
 asynchrony
+archenteric
 acidophil
 awless
 astutely
