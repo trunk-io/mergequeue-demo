@@ -7156,7 +7156,6 @@ alarmist
 anginas
 anthesterol
 alarum
-alarumed
 alarums
 anematize
 antepaschel
@@ -24217,6 +24216,7 @@ automatizing
 anatoxin
 agonia
 automatonta
+alarumed
 automatous
 automechanical
 actinically
