@@ -13931,6 +13931,7 @@ antecedency
 antecedently
 antecedes
 aloedary
+adversive
 alcaide
 antechamber
 aspermous
@@ -15786,7 +15787,6 @@ antiprime
 anchors
 antiprinciple
 adfiliate
-adversive
 antiproductive
 antiproductivity
 atacaman
