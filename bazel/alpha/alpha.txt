@@ -6949,6 +6949,7 @@ akenobeite
 atavus
 antiplague
 akepiro
+alveolus
 aker
 adman
 apogeal
@@ -9611,7 +9612,6 @@ alveololabial
 alveololingual
 alveolosubnasal
 antagonising
-alveolus
 archelon
 aux
 alvine
