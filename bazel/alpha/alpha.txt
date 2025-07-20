@@ -1689,6 +1689,7 @@ atmocautery
 accubitus
 accueil
 abscissin
+ammonolytic
 acculturate
 acculturates
 astr
@@ -10745,7 +10746,6 @@ ammonolitic
 assemblage
 adjectitious
 archeological
-ammonolytic
 anticult
 amphib
 ammophilous
