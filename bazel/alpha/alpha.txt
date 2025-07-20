@@ -8925,7 +8925,6 @@ allothigenetically
 allothimorph
 amphisbaenae
 akee
-allothogenic
 astrakanite
 averruncation
 asthenia
@@ -21411,6 +21410,7 @@ aspersive
 adephaga
 allagophyllous
 aspersively
+allothogenic
 aspersoir
 antihumanistic
 admixed
