@@ -7605,6 +7605,7 @@ adoors
 alands
 aldea
 aldebaran
+antignostic
 adzooks
 ambiance
 arbours
@@ -23497,7 +23498,6 @@ amply
 adventuring
 andaqui
 ahind
-antignostic
 altimetry
 amperemeter
 aunthood
