@@ -6309,7 +6309,6 @@ agrologic
 acoine
 afro
 adsorbate
-agromyzid
 agromyzidae
 alamos
 agronome
@@ -23698,6 +23697,7 @@ archduke
 amyotrophy
 ads
 ausforming
+agromyzid
 arrent
 auslaute
 auspex
