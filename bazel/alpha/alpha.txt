@@ -4875,6 +4875,7 @@ acalephs
 arricciatos
 aerogramme
 aerograph
+aliments
 almsfolk
 adjurations
 aristogenic
@@ -22312,7 +22313,6 @@ astromancer
 astromantic
 astromeda
 anthropomorphize
-aliments
 astrometeorology
 aforenamed
 alertly
