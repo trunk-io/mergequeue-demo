@@ -7831,7 +7831,6 @@ alength
 alenu
 atonics
 antelope
-alepine
 asterella
 astatines
 alepole
@@ -18964,6 +18963,7 @@ archmocker
 anastomosed
 authorial
 algol
+alepine
 amaryllis
 argusfishes
 addiction
