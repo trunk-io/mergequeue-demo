@@ -2345,6 +2345,7 @@ amenity
 acidulant
 acidulate
 acidulated
+aluminic
 alaunian
 azuline
 alphabetiser
@@ -2489,7 +2490,6 @@ aerostat
 antireduction
 aureole
 authorizing
-aluminic
 amaga
 affidare
 acoela
