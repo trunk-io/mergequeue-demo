@@ -1366,7 +1366,6 @@ annunciates
 aqueducts
 accelerators
 accelerometer
-accelerometers
 anticatholic
 anticnemion
 altingiaceae
@@ -10336,6 +10335,7 @@ americanizing
 alacriously
 achor
 aphetic
+accelerometers
 americans
 americanum
 ascertainableness
