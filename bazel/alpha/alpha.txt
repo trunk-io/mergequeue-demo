@@ -2775,7 +2775,6 @@ admonished
 anathematiser
 autopista
 acrocephalic
-aface
 archaeologist
 advertently
 argand
@@ -3440,6 +3439,7 @@ addictives
 autofluorescence
 arthroclasia
 addison
+aface
 alterum
 addisoniana
 addita
