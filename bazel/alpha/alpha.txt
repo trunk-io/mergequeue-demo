@@ -6625,6 +6625,7 @@ aftermarket
 arpeggio
 aeromaechanic
 agglutination
+aptitudes
 amalfian
 adsmith
 ainus
@@ -6871,7 +6872,6 @@ assentatious
 assaulters
 ayurveda
 attababy
-aptitudes
 aivers
 aiwan
 annamitic
