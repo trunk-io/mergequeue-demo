@@ -2294,7 +2294,6 @@ acider
 acidhead
 antisiphonal
 acidy
-acetamid
 argil
 adderfish
 alaric
@@ -25057,6 +25056,7 @@ ax
 ascochyta
 axebreaker
 appallingly
+acetamid
 anesthetizer
 afoul
 axemen
