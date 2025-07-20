@@ -8707,7 +8707,6 @@ alliterate
 acescence
 alvus
 alliterates
-await
 actious
 apodixis
 avens
@@ -10237,6 +10236,7 @@ amenorrhoeal
 aeronauts
 adiaphorous
 atlantodidymus
+await
 aquafer
 anesthesiometer
 angulinerved
