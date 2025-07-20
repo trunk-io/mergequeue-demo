@@ -3848,7 +3848,6 @@ alterer
 adjectional
 autoactivation
 annulment
-adjectives
 acetine
 alecithic
 anagogy
@@ -15054,6 +15053,7 @@ alaund
 aquilon
 antienthusiastic
 actinoelectric
+adjectives
 afterfame
 antienthusiastically
 antienvironmentalism
