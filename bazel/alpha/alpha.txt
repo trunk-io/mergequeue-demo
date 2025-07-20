@@ -12950,7 +12950,6 @@ ataraxics
 anhalonidine
 albuminiferous
 ackton
-antisimoniacal
 antihygienic
 anharmonic
 aluniferous
@@ -24518,6 +24517,7 @@ auxiliary
 artha
 armsize
 abhor
+antisimoniacal
 aerophile
 auxiliaries
 androcracy
