@@ -2341,7 +2341,6 @@ ashing
 anthotropism
 acids
 amenity
-acidulant
 acidulate
 acidulated
 aluminic
@@ -6290,6 +6289,7 @@ absolver
 aparithmesis
 allision
 agrobiologist
+acidulant
 antisensuousness
 alkanna
 agrodolce
