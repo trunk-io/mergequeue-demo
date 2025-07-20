@@ -9924,7 +9924,6 @@ analogues
 autoregressive
 ambergris
 agarwal
-amicron
 astrachan
 artiller
 amberjacks
@@ -11700,6 +11699,7 @@ analemma
 analemmas
 aconitum
 aivr
+amicron
 analemmata
 agrege
 analgesics
