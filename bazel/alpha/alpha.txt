@@ -1782,6 +1782,7 @@ actionless
 acanthological
 ashet
 autopathy
+afficionado
 agalloch
 aceldamas
 anthracomancy
@@ -4576,7 +4577,6 @@ advocacy
 abrasive
 anahao
 alchemist
-afficionado
 advocated
 afterspeech
 archididascalos
