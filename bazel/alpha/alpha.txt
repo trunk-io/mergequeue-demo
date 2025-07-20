@@ -7928,7 +7928,6 @@ atramentary
 alfaki
 alfalfas
 aer
-anapaest
 amorphus
 algesia
 alfaqui
@@ -9545,6 +9544,7 @@ anabrosis
 aluminising
 aluminize
 arabin
+anapaest
 aluminizes
 anticardium
 animisms
