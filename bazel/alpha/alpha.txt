@@ -312,7 +312,6 @@ abecedaire
 abecedarian
 agua
 anacara
-antiminsia
 arriere
 abed
 alnus
@@ -20966,6 +20965,7 @@ asclepiadic
 autosender
 asclepian
 antiquitarian
+antiminsia
 asclepidin
 asclepidoid
 asclepin
