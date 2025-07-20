@@ -4612,7 +4612,6 @@ aecidial
 aecidioform
 abjunctive
 aecidiospore
-aecidiostage
 aglare
 aecidium
 acoemetic
@@ -13733,6 +13732,7 @@ airthing
 antitypical
 anorth
 angerona
+aecidiostage
 achylia
 arrears
 arethusa
