@@ -7175,7 +7175,6 @@ alauda
 antilevelling
 ahrendahronon
 antihidrotic
-autophotometry
 amphibion
 abasgi
 alaudine
@@ -15824,6 +15823,7 @@ astrobiologically
 argillocalcite
 antiprudential
 asking
+autophotometry
 arriero
 atresy
 acciaccatura
