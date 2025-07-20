@@ -3908,7 +3908,6 @@ amygdalotome
 alveoli
 adjures
 aspersorium
-autotyphization
 absinthes
 adjust
 awns
@@ -8707,6 +8706,7 @@ ascoma
 apterygote
 afforests
 ajava
+autotyphization
 acescents
 allium
 allivalite
