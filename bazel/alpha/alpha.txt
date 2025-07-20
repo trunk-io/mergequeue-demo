@@ -5003,7 +5003,6 @@ argas
 abstraction
 aerosteam
 anthraciferous
-antapex
 agacant
 aggro
 argo
@@ -16126,6 +16125,7 @@ antisuffrage
 absohm
 antibug
 alterman
+antapex
 adreamed
 awheel
 adulterers
