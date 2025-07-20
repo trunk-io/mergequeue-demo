@@ -1370,7 +1370,6 @@ adiaphanousness
 abthanage
 annunciates
 aqueducts
-accelerators
 accelerometer
 accelerometers
 anticatholic
@@ -25267,6 +25266,7 @@ aulete
 anisogamete
 archbishop
 azines
+accelerators
 azlon
 archipterygial
 azobenzil
