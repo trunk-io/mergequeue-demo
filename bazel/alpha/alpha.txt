@@ -11307,7 +11307,6 @@ appends
 ambient
 admire
 ampul
-anhydremia
 apodosis
 ampullate
 antizymotic
@@ -16170,6 +16169,7 @@ antithetic
 achropsia
 acrylyl
 arcosoliulia
+anhydremia
 antithyroid
 algolagnic
 anilid
