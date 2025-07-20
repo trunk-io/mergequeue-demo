@@ -5852,7 +5852,6 @@ agglutinize
 anathematization
 agglutinogen
 autarky
-agglutinoscope
 agglutogenic
 alachah
 aggrade
@@ -17706,6 +17705,7 @@ antistatic
 askesis
 appointees
 appointer
+agglutinoscope
 alalite
 adherently
 appointers
