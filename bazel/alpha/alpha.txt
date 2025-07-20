@@ -16989,7 +16989,6 @@ agranulocyte
 apodal
 aboiteaux
 acrotarsium
-apodeictic
 aboideaux
 apodeictically
 accoucheurs
@@ -23621,6 +23620,7 @@ amphisile
 auriculoparietal
 auriculotemporal
 amperometer
+apodeictic
 auriferous
 appreciational
 ardors
