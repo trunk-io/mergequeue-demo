@@ -12108,7 +12108,6 @@ ancestors
 ancestral
 appurtenances
 ancestry
-autocue
 ancestrian
 ancha
 anchat
@@ -14256,6 +14255,7 @@ anthol
 anodes
 apiaceous
 alces
+autocue
 antireaction
 agpaite
 antholite
