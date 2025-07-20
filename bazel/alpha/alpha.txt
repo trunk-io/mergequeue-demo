@@ -3643,7 +3643,6 @@ amphoras
 anisopleural
 adenosine
 adenotyphus
-antislickens
 alphabetist
 anachoret
 autometry
@@ -14608,6 +14607,7 @@ antidumping
 antibiotic
 antimonopolism
 acousmatic
+antislickens
 admix
 antibiotically
 antibreakage
