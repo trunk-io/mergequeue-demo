@@ -4918,7 +4918,6 @@ ascriptitius
 aeromechanics
 antisera
 aeromedical
-aerometer
 amygdalus
 amphictyonies
 autonomously
@@ -17781,6 +17780,7 @@ apprehending
 algraphy
 awan
 apprest
+aerometer
 avosets
 apprehensively
 apprense
