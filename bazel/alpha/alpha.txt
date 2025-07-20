@@ -5088,7 +5088,6 @@ apologiae
 aestuate
 arriding
 aestuation
-aestus
 airplane
 ashy
 arf
@@ -5831,6 +5830,7 @@ assay
 agglomerated
 authorhood
 agglomeration
+aestus
 abnegations
 agglomerative
 apical
