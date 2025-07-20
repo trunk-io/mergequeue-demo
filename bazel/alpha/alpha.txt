@@ -3728,7 +3728,6 @@ alkyne
 anaesthetics
 adhesive
 ananke
-adhesiveness
 astrogeny
 apposes
 antifriction
@@ -14724,6 +14723,7 @@ abnormalise
 afterproof
 acetylcyanide
 amphichrome
+adhesiveness
 appendence
 antichronically
 amphibola
