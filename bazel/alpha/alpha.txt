@@ -3868,7 +3868,6 @@ adjourn
 allurance
 adjoust
 adjudgment
-adjudicate
 antihierarchal
 acute
 agglutinin
@@ -23177,6 +23176,7 @@ airer
 adipogenous
 alveolation
 asterias
+adjudicate
 adnumber
 apneumatic
 antship
