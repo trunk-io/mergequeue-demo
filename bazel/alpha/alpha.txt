@@ -9596,7 +9596,6 @@ anecdotist
 alveary
 alvearies
 alvearium
-alveated
 anteluminary
 alveolate
 alveole
@@ -24663,6 +24662,7 @@ anthroropolith
 accordant
 argolic
 averment
+alveated
 acinetarian
 anopheline
 averments
