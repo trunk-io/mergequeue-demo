@@ -11850,7 +11850,6 @@ abbasid
 australopithecus
 anapterygota
 andes
-anapterygotism
 anaptychus
 abduction
 assapan
@@ -17093,6 +17092,7 @@ ambigu
 apollonic
 apolloship
 aneurin
+anapterygotism
 apologias
 apologised
 adenogenesis
