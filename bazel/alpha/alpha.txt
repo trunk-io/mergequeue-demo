@@ -2666,6 +2666,7 @@ assignor
 acrasias
 advertizer
 apartment
+aerophobic
 aking
 acrawl
 acre
@@ -4975,7 +4976,6 @@ alkylogen
 anile
 aerophyte
 assessory
-aerophobic
 asgmt
 antithermic
 arrode
