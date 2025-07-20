@@ -9136,7 +9136,6 @@ antiputrefactive
 attry
 alnoite
 angles
-alnuin
 alo
 allwhither
 alocasia
@@ -14496,6 +14495,7 @@ antiaggressively
 antiaggressiveness
 antialbumin
 antialcoholic
+alnuin
 antialcoholism
 antialdoxime
 angiectopia
