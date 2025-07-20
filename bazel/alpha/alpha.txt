@@ -5622,7 +5622,6 @@ agalwoods
 allseeds
 arthrodial
 adulter
-agama
 antimitotic
 awning
 agamemnon
@@ -7515,6 +7514,7 @@ ablaze
 alcicornium
 antisepticist
 alcidine
+agama
 alcine
 atomist
 alcoholism
