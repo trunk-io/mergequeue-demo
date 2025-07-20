@@ -16970,7 +16970,6 @@ assignments
 alcid
 addy
 arthrotropic
-apocopes
 apocrenic
 apocryph
 apocryphalness
@@ -25036,6 +25035,7 @@ antidromy
 awoke
 arcanal
 andranatomy
+apocopes
 awoken
 awols
 archistome
