@@ -7565,7 +7565,6 @@ alcoholemia
 alcoholically
 appetition
 amenism
-anaudia
 alcoholicity
 analysand
 antonymic
@@ -9365,6 +9364,7 @@ alreadiness
 actiniferous
 anthill
 alruna
+anaudia
 arpeggiated
 antihierarchist
 alshain
