@@ -1584,7 +1584,6 @@ acediamine
 arbuscule
 anobing
 anticommercial
-abduction
 antefact
 antebrachium
 anthrop
@@ -11849,6 +11848,7 @@ anapterygota
 andes
 anapterygotism
 anaptychus
+abduction
 assapan
 anaptotic
 anarcestes
