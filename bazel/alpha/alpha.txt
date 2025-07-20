@@ -17311,7 +17311,6 @@ apostrophize
 apostrophizes
 apostrophizing
 astomia
-apostrophus
 apotactic
 apotactici
 adducent
@@ -24853,6 +24852,7 @@ archiepiscopal
 asaprol
 antiritualist
 animates
+apostrophus
 artisanal
 anders
 aberrations
