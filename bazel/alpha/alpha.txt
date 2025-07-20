@@ -19166,7 +19166,6 @@ adoptee
 amianthoidal
 azocorinth
 agriotype
-ardour
 ardours
 autocephality
 ardri
@@ -22141,6 +22140,7 @@ astonishment
 altrices
 astoop
 abjoint
+ardour
 anolympiad
 aerocurve
 amercer
