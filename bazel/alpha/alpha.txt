@@ -3873,7 +3873,6 @@ agglutinin
 adjudicative
 antarctical
 anaphora
-adjudicatory
 aerostats
 akinetic
 antistrophically
@@ -5776,6 +5775,7 @@ agendums
 amovability
 agene
 anticonscription
+adjudicatory
 ataxite
 acromiocoracoid
 ageneses
