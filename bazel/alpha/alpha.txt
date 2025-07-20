@@ -9694,7 +9694,6 @@ amalgamization
 amalic
 amalrician
 argosine
-anagram
 accommodationist
 amamau
 amandine
@@ -20951,6 +20950,7 @@ ascocarp
 ascocarps
 adequative
 airports
+anagram
 afrasia
 autophony
 anteposthumous
