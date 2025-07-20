@@ -9236,7 +9236,6 @@ antinion
 artifice
 arraign
 accidental
-antisymmetric
 antliate
 alonzo
 amerimnon
@@ -18050,6 +18049,7 @@ antidogmatic
 aerogenic
 aspects
 aquaplane
+antisymmetric
 antidotically
 accustomed
 aquaplaner
