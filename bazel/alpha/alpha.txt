@@ -17220,7 +17220,6 @@ aportlast
 aposia
 aposiopesis
 aposiopetic
-arbalest
 acataposis
 aeluroid
 ayins
@@ -21642,6 +21641,7 @@ arteriopalmus
 anniv
 assembler
 annamese
+arbalest
 assembly
 assemblyman
 araban
