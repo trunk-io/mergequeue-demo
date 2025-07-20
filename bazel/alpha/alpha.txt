@@ -3709,7 +3709,6 @@ apophantic
 adherency
 aquashow
 adherent
-adherents
 adaptable
 adherers
 assessments
@@ -5254,6 +5253,7 @@ android
 armageddon
 agnathostomata
 aimable
+adherents
 anophthalmia
 aquarian
 actinocarp
