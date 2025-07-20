@@ -7293,7 +7293,6 @@ acetopyrine
 atmid
 albinisms
 acridane
-albinistic
 albinos
 antivenin
 albinotic
@@ -10689,6 +10688,7 @@ ammo
 arthropod
 annotation
 ammochaetae
+albinistic
 ammocoetes
 agglutinated
 addossed
