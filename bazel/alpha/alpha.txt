@@ -6950,7 +6950,6 @@ aphanite
 avgases
 aboard
 akenobeite
-atavus
 antiplague
 akepiro
 alveolus
@@ -11800,6 +11799,7 @@ armipotent
 ancientness
 ataraxic
 ascititious
+atavus
 anew
 anapaite
 auscultative
