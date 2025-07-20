@@ -11305,6 +11305,7 @@ assigner
 absinthe
 appends
 ambient
+antienzymic
 admire
 ampul
 anhydremia
@@ -17604,7 +17605,6 @@ agrostis
 agathology
 appl
 applanate
-antienzymic
 attempted
 archibald
 amelanchier
