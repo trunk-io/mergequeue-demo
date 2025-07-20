@@ -7816,7 +7816,6 @@ antetype
 alembroth
 alemite
 alemmal
-acidoproteolytic
 alen
 alkaloidal
 alength
@@ -13736,6 +13735,7 @@ angerona
 aecidiostage
 achylia
 arrears
+acidoproteolytic
 arethusa
 amputate
 anorthite
