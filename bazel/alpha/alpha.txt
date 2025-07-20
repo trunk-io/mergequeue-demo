@@ -4938,7 +4938,6 @@ activities
 aeronat
 aeronaut
 antanacathartic
-aeronautic
 aeronautical
 aeronomer
 archbeacon
@@ -25215,6 +25214,7 @@ ataxiagram
 amoralize
 anciens
 aurivorous
+aeronautic
 airgraph
 acanthocephala
 axwort
