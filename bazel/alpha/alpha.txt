@@ -10160,7 +10160,6 @@ ameiuridae
 absorbition
 ameiva
 amel
-adj
 anhydrization
 arcticize
 anemious
@@ -11301,6 +11300,7 @@ amputating
 amputation
 acetobacter
 aboding
+adj
 amputational
 aion
 amphigam
