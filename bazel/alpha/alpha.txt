@@ -5300,7 +5300,6 @@ aimable
 adherents
 anophthalmia
 aquarian
-actinocarp
 afflated
 ataxia
 afflatus
@@ -12852,6 +12851,7 @@ anglophilic
 autotype
 adenine
 anglophilism
+actinocarp
 aftersong
 adumbration
 anglophobiac
