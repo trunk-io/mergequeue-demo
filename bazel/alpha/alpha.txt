@@ -288,6 +288,7 @@ achilleid
 abducens
 articulate
 atonic
+animated
 apothece
 abducted
 ambilevous
@@ -10480,7 +10481,6 @@ algaesthesia
 airstream
 adderspit
 altercated
-animated
 amygdalase
 anthologizes
 alabamians
