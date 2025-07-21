@@ -3225,7 +3225,6 @@ autarkical
 ateleiosis
 anisocytosis
 actualization
-actualness
 allochromatic
 alchemically
 assident
@@ -14607,6 +14606,7 @@ alternative
 appeared
 authenticating
 altiscope
+actualness
 animant
 apostrophe
 aortographies
