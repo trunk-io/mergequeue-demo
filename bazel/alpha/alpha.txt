@@ -3578,7 +3578,6 @@ ascribes
 avichi
 adenitis
 adenization
-adenoacanthoma
 adenocarcinoma
 adenocarcinomas
 adenocarcinomata
@@ -7535,6 +7534,7 @@ astrohatch
 anisil
 agariciform
 alcyonium
+adenoacanthoma
 ares
 alcippe
 aerobate
