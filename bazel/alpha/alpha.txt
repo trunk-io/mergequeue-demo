@@ -674,7 +674,6 @@ aborigines
 abort
 alderfly
 aborted
-aborter
 aborticide
 abortient
 anacardic
@@ -14747,6 +14746,7 @@ abnormalise
 afterproof
 acetylcyanide
 amphichrome
+aborter
 adhesiveness
 appendence
 acanthopanax
