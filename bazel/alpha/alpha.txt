@@ -14269,7 +14269,6 @@ antireaction
 agpaite
 antholite
 anthology
-anthological
 angico
 anthologies
 asphyxiates
@@ -17326,6 +17325,7 @@ apostrophizing
 astomia
 apotactic
 apotactici
+anthological
 adducent
 agriculturalist
 astuciously
