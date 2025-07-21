@@ -7897,7 +7897,6 @@ appliers
 alcoholmeter
 afetal
 aspirators
-askapart
 alawi
 akvavits
 argasid
@@ -12345,6 +12344,7 @@ androsporangium
 arteriology
 androtomy
 achiness
+askapart
 aglycons
 achondroplastic
 ands
