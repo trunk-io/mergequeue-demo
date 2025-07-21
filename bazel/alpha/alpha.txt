@@ -842,7 +842,6 @@ achievements
 agaves
 absaroka
 allergy
-assertors
 aerosols
 abscissas
 anam
@@ -3365,6 +3364,7 @@ alienated
 ardisia
 adance
 aircrews
+assertors
 adapid
 anisospore
 apolytikion
