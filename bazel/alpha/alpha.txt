@@ -18564,7 +18564,6 @@ archaeostomata
 actinodromous
 archaeotherium
 agriotypus
-anthropologic
 archaic
 anisol
 apogaic
@@ -20195,6 +20194,7 @@ acromioclavicular
 alphabet
 aeipathy
 arrester
+anthropologic
 alphanumerically
 antidogmatically
 aggest
