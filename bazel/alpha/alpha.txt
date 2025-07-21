@@ -3876,7 +3876,6 @@ apieces
 adjourn
 allurance
 adjudgment
-antihierarchal
 acute
 agglutinin
 attemperator
@@ -11198,6 +11197,7 @@ amphistoma
 abaze
 angiosarcoma
 achillean
+antihierarchal
 apriori
 alcelaphus
 amphitene
