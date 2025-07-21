@@ -5920,6 +5920,7 @@ aggregative
 aggregator
 appoggiaturas
 acacatechol
+autoimmunize
 ackman
 alomancy
 allopathy
@@ -24151,7 +24152,6 @@ autoimmunity
 abib
 appledrone
 appealability
-autoimmunize
 autoindexing
 autoinfusion
 annulets
