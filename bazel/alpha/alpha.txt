@@ -5160,7 +5160,6 @@ affectable
 anaxonia
 authoritarianism
 affectations
-affected
 adorners
 affectedly
 affecters
@@ -8387,6 +8386,7 @@ acetonyl
 arrangeable
 alkalinuria
 apotheosizing
+affected
 aristolochiaceae
 antiformin
 alisos
