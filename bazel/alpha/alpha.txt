@@ -4224,6 +4224,7 @@ astichous
 astore
 ados
 acromegalia
+antipepsin
 ameban
 anisaldoxime
 alexias
@@ -10786,7 +10787,6 @@ anticult
 amphib
 ammophilous
 ammotherapy
-antipepsin
 amnesia
 achras
 amnesiac
