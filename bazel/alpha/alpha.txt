@@ -10947,7 +10947,6 @@ archegone
 antipopery
 amort
 amortising
-amortized
 algic
 attacker
 alphabetising
@@ -19928,6 +19927,7 @@ armload
 absyrtus
 armlock
 athalamous
+amortized
 apoop
 armonicas
 arrowheads
