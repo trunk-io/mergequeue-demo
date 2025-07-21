@@ -2069,7 +2069,6 @@ affiliation
 anammonid
 altitudinal
 aboveboard
-antidromic
 anapsid
 achenes
 atelic
@@ -22076,6 +22075,7 @@ agnathous
 anerythroplastic
 airily
 ampongue
+antidromic
 antistat
 asthamatic
 astheny
