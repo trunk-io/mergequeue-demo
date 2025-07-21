@@ -5855,7 +5855,6 @@ absence
 anophyte
 ager
 agers
-autogenous
 actinocrinidae
 armless
 aizoaceous
@@ -13058,6 +13057,7 @@ absorbed
 anim
 anima
 animable
+autogenous
 archaeopteris
 animacule
 almuten
