@@ -6054,7 +6054,6 @@ aromaticness
 albuminoidal
 agitatrix
 agitprop
-agitprops
 aglance
 assonantic
 aglaos
@@ -7379,6 +7378,7 @@ albumenoid
 archtreasurer
 albumens
 albumimeter
+agitprops
 aftership
 appraisers
 apeiron
