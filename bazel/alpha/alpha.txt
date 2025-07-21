@@ -3367,7 +3367,6 @@ adance
 aircrews
 assertors
 adapid
-anisospore
 apolytikion
 apeman
 autotransplant
@@ -3569,6 +3568,7 @@ antimonite
 adelphian
 adelphic
 aliamenta
+anisospore
 adipsous
 azole
 aflow
