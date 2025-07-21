@@ -2814,7 +2814,6 @@ antiscience
 attunement
 anguishously
 acromelalgia
-acrometer
 armorproof
 appalachia
 aleatory
@@ -4402,6 +4401,7 @@ albuminimetry
 adumbrated
 ap
 adumbrations
+acrometer
 asthenias
 agrypnode
 allophane
