@@ -3173,7 +3173,6 @@ aweather
 asterism
 apostrophized
 actives
-activin
 aetiologically
 amoristic
 acrostical
@@ -11635,6 +11634,7 @@ anaesthetize
 anaesthetizer
 apicoectomy
 arthralgic
+activin
 adsum
 arbalester
 archsnob
