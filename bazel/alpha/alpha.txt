@@ -1437,7 +1437,6 @@ accession
 aspiratory
 axilemmata
 acrologism
-awl
 accessioner
 accessive
 anoplocephalic
@@ -8697,6 +8696,7 @@ anticeremonially
 auscultations
 allied
 allies
+awl
 agapemonian
 alligated
 activators
