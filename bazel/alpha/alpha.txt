@@ -1471,7 +1471,6 @@ antiorthodoxly
 acclimatisation
 affixable
 acclimatised
-acclimatiser
 acost
 acclimatising
 allgood
@@ -1658,6 +1657,7 @@ abyssus
 atlantomastoid
 achroodextrin
 anatomism
+acclimatiser
 allosaurus
 ampelography
 accrued
