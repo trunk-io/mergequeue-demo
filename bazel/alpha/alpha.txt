@@ -8440,7 +8440,6 @@ aljoba
 alkenyl
 amp
 awreck
-alkyd
 alkyds
 agone
 allantoinuria
@@ -11045,6 +11044,7 @@ avolation
 addictive
 adhafera
 acarids
+alkyd
 adapter
 analgesis
 amphiboles
