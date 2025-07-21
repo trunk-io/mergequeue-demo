@@ -13958,7 +13958,6 @@ albizzia
 acoup
 antecedency
 antecedently
-antecedes
 aloedary
 adversive
 alcaide
@@ -18914,6 +18913,7 @@ autocatalyses
 attune
 ammelin
 aguroth
+antecedes
 architectress
 architects
 autoallogamy
