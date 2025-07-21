@@ -4254,7 +4254,6 @@ archesporium
 adenohypophysial
 armisonous
 assertative
-adrenalcortical
 arillodium
 anchoretish
 adrenalin
@@ -12591,6 +12590,7 @@ approximative
 angariation
 angaries
 airplanist
+adrenalcortical
 aeronomist
 arpeggiation
 annus
