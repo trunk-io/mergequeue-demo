@@ -6100,7 +6100,6 @@ aglucon
 aside
 achondrite
 agminated
-agnatha
 agnate
 advenient
 akenes
@@ -13531,6 +13530,7 @@ aloneness
 annunciating
 aerated
 amebic
+agnatha
 automatism
 antacid
 atheromatosis
