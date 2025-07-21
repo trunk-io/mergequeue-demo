@@ -13323,7 +13323,6 @@ airpark
 aetolian
 armament
 aminase
-anklong
 akia
 awny
 amandin
@@ -25301,6 +25300,7 @@ authority
 areroscope
 ambulatio
 abask
+anklong
 amontillados
 atheize
 azohumic
