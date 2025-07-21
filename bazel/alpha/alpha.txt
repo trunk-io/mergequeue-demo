@@ -11807,7 +11807,6 @@ absorptance
 aftercome
 anangular
 autoantitoxin
-addable
 ananym
 ananite
 anelace
@@ -16547,6 +16546,7 @@ amplified
 ashiest
 apercus
 aforegoing
+addable
 arterioplania
 animalised
 autocratic
