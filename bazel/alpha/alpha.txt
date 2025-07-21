@@ -928,7 +928,6 @@ absolve
 absolvent
 arteriotome
 azote
-absolves
 absolving
 absolvitor
 alkalinizes
@@ -23226,6 +23225,7 @@ acardite
 adventitia
 azophenol
 advancedness
+absolves
 accordances
 attributed
 attributer
