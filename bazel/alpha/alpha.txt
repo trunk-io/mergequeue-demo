@@ -4868,7 +4868,6 @@ auslaut
 airphobia
 aerodonetics
 antipedal
-archhost
 aerodrome
 amidopyrine
 aerodromes
@@ -6453,6 +6452,7 @@ acrogynae
 amphiphloic
 antecessor
 ayacahuite
+archhost
 athbash
 ay
 antiroyalist
