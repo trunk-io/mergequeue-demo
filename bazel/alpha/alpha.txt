@@ -14851,7 +14851,6 @@ anticolic
 agatize
 adiathermic
 aromatizer
-abneural
 affectate
 antisepticised
 amoeboid
@@ -24397,6 +24396,7 @@ albuminuric
 autosymbolic
 ambulatoria
 autosymbolically
+abneural
 arati
 autopathography
 augmentationer
