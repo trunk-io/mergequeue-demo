@@ -20897,7 +20897,6 @@ amortisseur
 aranzada
 antirust
 autotroph
-ascendance
 ascendancy
 ascendence
 aftershaves
@@ -21920,6 +21919,7 @@ anastrophe
 acaridomatium
 assonants
 alternations
+ascendance
 assorted
 assorter
 avocet
