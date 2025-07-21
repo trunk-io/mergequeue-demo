@@ -8006,7 +8006,6 @@ allocutive
 attempered
 adminiculary
 aquaduct
-aquatical
 antagonised
 algedo
 alfilerillo
@@ -22415,6 +22414,7 @@ aswarm
 aswash
 antinomical
 alternativeness
+aquatical
 adyton
 asweat
 autoloaders
