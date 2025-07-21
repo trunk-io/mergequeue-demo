@@ -2342,7 +2342,6 @@ amenity
 acidulate
 acidulated
 aluminic
-alaunian
 alphabetiser
 acidulously
 antistimulant
@@ -7730,6 +7729,7 @@ aldoside
 aldosterone
 arean
 abiezer
+alaunian
 arba
 antidinic
 arcadianism
