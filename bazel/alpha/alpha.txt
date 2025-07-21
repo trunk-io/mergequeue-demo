@@ -1059,7 +1059,6 @@ abt
 abterminal
 allay
 androgen
-archreactionary
 allegiance
 abthainrie
 antitorpedo
@@ -8539,6 +8538,7 @@ aqueduct
 appropriating
 allegorisation
 allegorise
+archreactionary
 afear
 allegoriser
 admaxillary
