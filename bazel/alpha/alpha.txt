@@ -4677,7 +4677,6 @@ awakeners
 aeginetan
 aegipan
 appendiculated
-aegisthus
 aircraftsmen
 aegithognathae
 aegophony
@@ -18544,6 +18543,7 @@ aircoach
 archaeographic
 accuse
 archaeographical
+aegisthus
 asterisking
 aftershine
 acerathere
