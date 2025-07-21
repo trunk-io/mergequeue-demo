@@ -3150,7 +3150,6 @@ action
 albiflorous
 aerodyne
 allotrophic
-actionably
 ascensiontide
 androphorous
 avertin
@@ -10774,6 +10773,7 @@ ammonion
 ammonitess
 abstrude
 anseis
+actionably
 acnodes
 ammonitoid
 affording
