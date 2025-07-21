@@ -6704,6 +6704,7 @@ airdate
 afterband
 airdrome
 airdromes
+amenably
 analysands
 angulus
 advertizing
@@ -10225,7 +10226,6 @@ amenable
 adelphous
 anorganism
 atoll
-amenably
 archonships
 assess
 anhedonia
