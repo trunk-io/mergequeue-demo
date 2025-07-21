@@ -19906,7 +19906,6 @@ athalamous
 apoop
 armonicas
 arrowheads
-armor
 armoracia
 adonises
 ampoules
@@ -23179,6 +23178,7 @@ artificially
 antsier
 attourne
 attract
+armor
 armisonant
 armageddonist
 aliped
