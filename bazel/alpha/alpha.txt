@@ -6033,7 +6033,6 @@ anes
 agitate
 agitated
 agitation
-agitations
 actor
 antirobin
 alkalisation
@@ -7323,6 +7322,7 @@ anoplanthus
 archiereus
 albitic
 augustly
+agitations
 albitite
 affricate
 acutiator
