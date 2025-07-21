@@ -806,7 +806,6 @@ allergies
 antagonisation
 abrogating
 angiomegaly
-afterhelp
 acoustician
 abaisse
 abrood
@@ -23109,6 +23108,7 @@ amenance
 accomplice
 architecturesque
 attestator
+afterhelp
 antiseption
 arrests
 attested
