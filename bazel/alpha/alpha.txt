@@ -3913,7 +3913,6 @@ aspersorium
 autotyphization
 adjust
 awns
-animalculum
 abdal
 astre
 armozeen
@@ -15783,6 +15782,7 @@ altho
 annotations
 autarkic
 anchorable
+animalculum
 antidynasty
 amazingly
 antipragmatism
