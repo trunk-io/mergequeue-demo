@@ -11612,7 +11612,6 @@ anaerobiosis
 anaerobiotic
 anaerobium
 avanti
-anaerophyte
 aftersend
 anaphylactic
 anaesthesiology
@@ -20421,6 +20420,7 @@ albolite
 autosymnoia
 apocopic
 apiolin
+anaerophyte
 artemisium
 avenida
 antiskidding
