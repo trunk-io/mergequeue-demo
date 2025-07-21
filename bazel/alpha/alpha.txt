@@ -5753,7 +5753,6 @@ ancestor
 amyloses
 agata
 agate
-autoturning
 appal
 adiabatically
 aviation
@@ -17862,6 +17861,7 @@ acmic
 amblypod
 aliesterase
 asa
+autoturning
 anemometer
 approbated
 antiexpressionism
