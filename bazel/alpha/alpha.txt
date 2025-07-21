@@ -9264,7 +9264,6 @@ acerose
 annapolis
 alphabetic
 apastron
-alphabetical
 abiogenous
 abbotships
 adenolymphoma
@@ -19824,6 +19823,7 @@ atrail
 arrah
 avanters
 admetus
+alphabetical
 antisensitizing
 armenic
 agapetidae
