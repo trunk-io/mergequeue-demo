@@ -3134,7 +3134,6 @@ arthrodia
 aequipalpia
 arthropody
 alai
-actinostome
 aramus
 abrachias
 apiculation
@@ -11983,6 +11982,7 @@ activital
 anat
 anatase
 ardebs
+actinostome
 anatases
 anatexis
 ancestress
