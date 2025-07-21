@@ -770,6 +770,7 @@ auxofluor
 abreed
 ammono
 asimmer
+androgenous
 anchylosing
 asyle
 abri
@@ -12299,7 +12300,6 @@ attribute
 anticeremoniousness
 automelon
 androgamone
-androgenous
 andesine
 androgens
 alterity
