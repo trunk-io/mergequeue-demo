@@ -7475,6 +7475,7 @@ alcargen
 ascophyllum
 alcatras
 anastomos
+anatropal
 astone
 alcazaba
 alcazar
@@ -12052,7 +12053,6 @@ anatron
 ahush
 aneretic
 algebrization
-anatropal
 anatropia
 ambitiousness
 agremens
