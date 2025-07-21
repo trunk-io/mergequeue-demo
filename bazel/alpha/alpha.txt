@@ -5059,7 +5059,6 @@ aerotropism
 allantois
 aeruginous
 aerugo
-aerugos
 autosepticemia
 aeschynomenous
 aesculaceous
@@ -17176,6 +17175,7 @@ almudes
 aponeurotic
 antivirus
 aponic
+aerugos
 acroparesthesia
 audivise
 accept
