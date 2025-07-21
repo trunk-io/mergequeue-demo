@@ -17221,6 +17221,7 @@ anights
 aport
 accordance
 aportlast
+amenities
 aposia
 aposiopesis
 aposiopetic
@@ -17541,7 +17542,6 @@ appendicular
 acidurias
 archorrhea
 asymmetric
-amenities
 ancillaries
 atticist
 appendicularia
