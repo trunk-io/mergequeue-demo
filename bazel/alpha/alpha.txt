@@ -11008,7 +11008,6 @@ abapical
 agrotype
 awakings
 asswage
-ampersands
 archpontiff
 amphanthia
 ampherotokous
@@ -17591,6 +17590,7 @@ acrose
 appertainment
 adrostral
 advisership
+ampersands
 achroite
 antiagglutination
 atomicity
