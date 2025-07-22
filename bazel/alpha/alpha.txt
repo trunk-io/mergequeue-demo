@@ -5662,6 +5662,7 @@ agalma
 antipeptone
 ardea
 alalia
+acidifiable
 agalwoods
 allseeds
 arthrodial
@@ -10025,7 +10026,6 @@ asporogenous
 aiger
 ambiversion
 ambivert
-acidifiable
 arrect
 amble
 aminogen
