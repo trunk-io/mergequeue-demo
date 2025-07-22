@@ -7364,6 +7364,7 @@ ahold
 amarant
 albocarbon
 albocracy
+annotations
 atwin
 acetalization
 albolith
@@ -15818,7 +15819,6 @@ anteri
 anglers
 arcadianism
 altho
-annotations
 autarkic
 anchorable
 animalculum
