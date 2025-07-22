@@ -6227,6 +6227,7 @@ aune
 allemands
 authorized
 agrammatologia
+allocate
 annattos
 ahab
 americaward
@@ -8764,7 +8765,6 @@ appreciate
 australia
 antifouling
 adenoviruses
-allocate
 allargando
 afterwort
 anglophobes
