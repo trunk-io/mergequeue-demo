@@ -4614,7 +4614,6 @@ andesitic
 abjunctive
 aecidiospore
 aglare
-acoemetic
 anychia
 aecioteliospore
 alans
@@ -20830,6 +20829,7 @@ asbestoidal
 arrivals
 asbestos
 anatexis
+acoemetic
 ancylostomum
 atm
 aldamine
