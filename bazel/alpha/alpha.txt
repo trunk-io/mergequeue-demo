@@ -4122,7 +4122,6 @@ archetypist
 allocates
 appendectomies
 adnascent
-adnate
 apparation
 avell
 autarchical
@@ -12714,6 +12713,7 @@ anginose
 apocenter
 aurophobia
 anagrammatized
+adnate
 angioataxia
 anasazi
 alburnum
