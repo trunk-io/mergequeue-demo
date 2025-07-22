@@ -10763,7 +10763,6 @@ arthropod
 albinistic
 ammocoetes
 agglutinated
-addossed
 acephalocyst
 albumoses
 ataxinomic
@@ -13609,6 +13608,7 @@ anatomist
 alloeosis
 associatory
 arbitragers
+addossed
 addressee
 anodically
 anodynes
