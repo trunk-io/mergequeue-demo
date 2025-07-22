@@ -8460,7 +8460,6 @@ alkanol
 alkaphrah
 alkapton
 armorist
-alkaptone
 archimage
 ascent
 actinopraxis
@@ -14263,6 +14262,7 @@ antheraea
 antheridia
 antherogenous
 aphnology
+alkaptone
 ammiolite
 acetoacetanilide
 adnescent
