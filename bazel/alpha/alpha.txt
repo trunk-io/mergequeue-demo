@@ -2603,7 +2603,6 @@ amorph
 archturncoat
 altaid
 aerographic
-animalism
 adffrozen
 arsenite
 adeems
@@ -24478,6 +24477,7 @@ areaway
 autotransformer
 adead
 archeologically
+animalism
 autotransplantation
 aurotellurite
 aetheric
