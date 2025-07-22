@@ -1953,7 +1953,6 @@ acetins
 alightment
 acetize
 azocoralline
-acetoacetate
 alkyls
 aviculture
 acetoacetic
@@ -6885,6 +6884,7 @@ aphorizer
 aglycone
 amercements
 ayubite
+acetoacetate
 aminoplast
 aldolase
 aedilities
