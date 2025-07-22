@@ -10590,7 +10590,6 @@ ale
 amylose
 achree
 amylosynthesis
-amylosis
 actinolite
 auxographic
 anchylosis
@@ -15175,6 +15174,7 @@ anspessade
 autobasidiomycetes
 alt
 apicilar
+amylosis
 antifowl
 astricts
 adapa
