@@ -12296,7 +12296,6 @@ andrias
 andrite
 acervuli
 androcephalous
-androcephalum
 agapornis
 arteriostrepsis
 androclclinia
@@ -12529,6 +12528,7 @@ archrascal
 anhemolytic
 anesthetization
 anticonvulsive
+androcephalum
 anesthetize
 anesthetized
 anomaliped
