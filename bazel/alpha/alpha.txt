@@ -8576,6 +8576,7 @@ aspiringness
 anta
 apophasis
 allegiancy
+arabic
 allegiant
 astronautically
 allegorically
@@ -20562,7 +20563,6 @@ arthritis
 arthrobacterium
 apathies
 appendixes
-arabic
 arthrocleisis
 atomization
 arccos
