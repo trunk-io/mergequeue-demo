@@ -12393,7 +12393,6 @@ autonomical
 ajowan
 adequateness
 anecdote
-anecdotes
 anecdotical
 anova
 anecdotically
@@ -22573,6 +22572,7 @@ agronomies
 albicores
 aigrets
 apostume
+anecdotes
 abraham
 atheizer
 areolet
