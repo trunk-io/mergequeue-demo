@@ -1131,6 +1131,7 @@ abutment
 articulant
 artery
 assertible
+anhedral
 angiocavernous
 aluminish
 antagonist
@@ -12986,7 +12987,6 @@ antihygienic
 anharmonic
 asperge
 achloropsia
-anhedral
 ajari
 anhedron
 astor
