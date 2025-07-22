@@ -9093,7 +9093,6 @@ amphiarthrosis
 andesytes
 alman
 alody
-authenticatable
 almanacs
 archway
 almander
@@ -9837,6 +9836,7 @@ attid
 anamnionata
 asphodelus
 antimasker
+authenticatable
 amass
 armeriaceae
 aregeneratory
