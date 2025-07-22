@@ -10945,7 +10945,6 @@ archhead
 accent
 arcsine
 amoritic
-alma
 amoritish
 applewood
 aftersensation
@@ -12408,6 +12407,7 @@ anecdotes
 anecdotical
 anova
 anecdotically
+alma
 axe
 aegagropile
 appealed
