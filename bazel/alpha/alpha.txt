@@ -4477,7 +4477,6 @@ agamobia
 assaut
 androtauric
 ameiotic
-advective
 advects
 advena
 ascended
@@ -15862,6 +15861,7 @@ augusta
 antiqua
 amantillo
 antiquarian
+advective
 axeman
 ambulatorial
 avulses
