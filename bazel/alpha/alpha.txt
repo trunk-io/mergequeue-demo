@@ -12765,7 +12765,6 @@ agnosis
 alida
 aeneolithic
 angioplasty
-asynapsis
 argles
 anither
 acquaintance
@@ -22127,6 +22126,7 @@ astigmic
 antiphon
 alogism
 astigmometer
+asynapsis
 astigmometry
 alluviate
 algologist
