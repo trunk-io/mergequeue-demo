@@ -2654,7 +2654,6 @@ acquittance
 acquitted
 adicity
 alangine
-ashkenazim
 asarh
 acquisitor
 areologic
@@ -12739,6 +12738,7 @@ anyway
 ammer
 antidote
 angiohemophilia
+ashkenazim
 accusers
 anachronously
 aeonial
