@@ -8862,6 +8862,7 @@ appestat
 allonym
 alongst
 allonymous
+aerator
 allonymously
 allonyms
 allonomous
@@ -23952,7 +23953,6 @@ antilogarithms
 aftertrial
 autoceptive
 apostatised
-aerator
 antiwar
 afterbay
 artifacts
