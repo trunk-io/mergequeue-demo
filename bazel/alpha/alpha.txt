@@ -4417,7 +4417,6 @@ adultness
 albuminimetry
 adumbrated
 ap
-adumbrations
 asthenias
 agrypnode
 allophane
@@ -14298,6 +14297,7 @@ albanensian
 aquilawood
 ark
 anthocarp
+adumbrations
 ascertainability
 anthocerote
 aquariiums
