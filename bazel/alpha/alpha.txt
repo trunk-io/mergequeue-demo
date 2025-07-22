@@ -4277,7 +4277,6 @@ alcornoco
 amphisilidae
 adrenochrome
 adrenocortical
-adrenocorticotrophic
 antesignanus
 adoptions
 afterstain
@@ -11104,6 +11103,7 @@ autallotriomorphic
 aptitudinal
 abrin
 acold
+adrenocorticotrophic
 artisans
 ascaricide
 aluconidae
