@@ -3919,7 +3919,6 @@ adjument
 alarmed
 adjunctively
 aft
-adjunctly
 atmometer
 adjuration
 amidine
@@ -6008,6 +6007,7 @@ ans
 alcyonoid
 apiarian
 agible
+adjunctly
 angor
 animalcular
 air
