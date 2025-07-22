@@ -2663,6 +2663,7 @@ apartment
 antepenultimate
 aking
 acrawl
+aerialness
 acre
 ammochaeta
 acreage
@@ -20450,7 +20451,6 @@ antiskidding
 automatics
 acholia
 anilins
-aerialness
 antimodernness
 augments
 acutilingual
