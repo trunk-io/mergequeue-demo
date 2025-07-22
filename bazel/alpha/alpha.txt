@@ -11149,6 +11149,7 @@ appenders
 allthing
 artworks
 amphikaryotic
+annual
 atchison
 amphimictic
 antired
@@ -25064,7 +25065,6 @@ afoul
 axemen
 arsine
 axenically
-annual
 anywise
 advanceable
 antiastronomical
