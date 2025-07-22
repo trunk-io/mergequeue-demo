@@ -2067,6 +2067,7 @@ angiotomy
 achatinidae
 aldim
 act
+answerable
 ache
 abrogated
 acheat
@@ -25331,7 +25332,6 @@ avahi
 aethusa
 aldermanic
 acylation
-answerable
 antheming
 ambients
 azosulphonic
