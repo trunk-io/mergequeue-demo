@@ -2981,7 +2981,6 @@ archenteron
 axtree
 applemonger
 aulostomi
-actiniomorpha
 antineutrality
 actinisms
 actinium
@@ -20644,6 +20643,7 @@ allelomorph
 associate
 alder
 anionically
+actiniomorpha
 anteroclusion
 atrichosis
 articulars
