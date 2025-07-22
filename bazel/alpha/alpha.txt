@@ -23208,7 +23208,6 @@ acale
 asterias
 adjudicate
 adnumber
-apneumatic
 antship
 acardite
 adventitia
@@ -23745,6 +23744,7 @@ aspermia
 austenitic
 austenitizing
 autohemolysis
+apneumatic
 atheistic
 antimallein
 aggiornamenti
