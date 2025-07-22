@@ -12565,7 +12565,6 @@ anesthetization
 anticonvulsive
 anesthetize
 anesthetized
-anesthetizes
 anomaliped
 acuchi
 anethene
@@ -24307,6 +24306,7 @@ abacinate
 autophon
 ablepsy
 autophone
+anesthetizes
 acrasins
 anthrasilicosis
 anticoagulan
