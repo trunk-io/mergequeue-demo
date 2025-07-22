@@ -5305,7 +5305,6 @@ acridines
 attenuations
 arcboutant
 afflicting
-afflictingly
 abranchian
 archoplasm
 attaining
@@ -21936,6 +21935,7 @@ antiphagocytic
 apprise
 arterin
 aquameter
+afflictingly
 andesinite
 aminize
 annualist
