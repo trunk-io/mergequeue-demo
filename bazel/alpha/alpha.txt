@@ -10340,7 +10340,6 @@ achor
 aphetic
 accelerometers
 americans
-americanum
 ascertainableness
 amphicarpa
 abattoirs
@@ -19373,6 +19372,7 @@ albuminogenous
 atomistics
 amuser
 axisymmetry
+americanum
 abu
 anophoria
 argentate
