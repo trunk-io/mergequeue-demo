@@ -10844,6 +10844,7 @@ anguinidae
 arcadia
 availably
 amnions
+assumes
 animalhood
 amidship
 amniotes
@@ -21947,7 +21948,6 @@ anytime
 anthography
 assumer
 assumers
-assumes
 assuming
 assumingly
 assummon
