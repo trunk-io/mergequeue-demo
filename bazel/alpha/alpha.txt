@@ -16821,6 +16821,7 @@ aftergo
 acorns
 agao
 annotater
+apotactic
 amentulum
 apicular
 anymore
@@ -17351,7 +17352,6 @@ apostrophising
 apostrophizes
 apostrophizing
 astomia
-apotactic
 apotactici
 anthological
 adducent
