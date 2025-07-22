@@ -4966,7 +4966,6 @@ activities
 aeronat
 aeronaut
 antanacathartic
-aeronautical
 aeronomer
 archbeacon
 akhlame
@@ -15845,6 +15844,7 @@ apostrophize
 antipragmatism
 abeles
 alienates
+aeronautical
 antipragmatist
 ambrosiaceous
 asthenical
