@@ -5883,7 +5883,6 @@ agglomeration
 aestus
 abnegations
 agglomerative
-apical
 anartismos
 arenaceous
 aecidia
@@ -8525,6 +8524,7 @@ academise
 ammoniemia
 advisatory
 allantoid
+apical
 atlatl
 allantoidean
 allantoin
