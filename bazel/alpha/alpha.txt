@@ -5548,7 +5548,6 @@ aftersound
 arthropomata
 afterspring
 anhele
-afterstretch
 amphitriaene
 autosuggestive
 astrocytomata
@@ -6103,6 +6102,7 @@ aback
 aroph
 antiinstitutionalist
 alcyones
+afterstretch
 adversaria
 aspartokinase
 actinoneuritis
