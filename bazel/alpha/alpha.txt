@@ -1855,7 +1855,6 @@ aerogram
 acertannin
 acervate
 acervation
-acervative
 acervulus
 atropins
 acescent
@@ -14171,6 +14170,7 @@ achromatizing
 appliableness
 anterodorsal
 allelotropic
+acervative
 ancient
 anteroexternal
 anterofixation
