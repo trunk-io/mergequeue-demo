@@ -2778,7 +2778,6 @@ aggregata
 azuline
 altumal
 asphyxiant
-acrospore
 anguish
 acroclinium
 acrodactyla
@@ -20438,6 +20437,7 @@ artemisium
 avenida
 antiskidding
 automatics
+acrospore
 acholia
 anilins
 antimodernness
