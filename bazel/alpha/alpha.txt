@@ -17942,6 +17942,7 @@ allods
 appt
 adage
 anteoccupation
+augurial
 alemonger
 archemperor
 agt
@@ -19412,7 +19413,6 @@ afterstate
 alexins
 athwartwise
 authorship
-augurial
 antifeudal
 argents
 anchoresses
