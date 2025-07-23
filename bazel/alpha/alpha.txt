@@ -5028,7 +5028,6 @@ aggro
 argo
 aerotechnical
 antimonic
-aerotherapeutics
 attainting
 aptote
 afterwash
@@ -17084,6 +17083,7 @@ axiomatizing
 apogon
 autolaryngoscopy
 appreteur
+aerotherapeutics
 afterfuture
 afterdrain
 antimeningococcic
