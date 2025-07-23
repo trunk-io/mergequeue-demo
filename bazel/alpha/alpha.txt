@@ -14174,6 +14174,7 @@ allelotropic
 ancient
 anteroexternal
 anterofixation
+auxotroph
 alkarsin
 ascriptitii
 allomorph
@@ -24573,7 +24574,6 @@ angiophorous
 aniba
 adiphenine
 annihilator
-auxotroph
 aweek
 auxotrophy
 antiaggression
