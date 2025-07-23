@@ -1390,7 +1390,6 @@ autotractor
 antifreezes
 apomorphine
 acervuline
-accersitor
 ammoniojarosite
 amortizable
 anoretic
@@ -20364,6 +20363,7 @@ antireformer
 adhaka
 alya
 anacrustic
+accersitor
 antiegoist
 askip
 aquifers
