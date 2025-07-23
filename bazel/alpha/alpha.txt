@@ -1564,7 +1564,6 @@ amalg
 accordion
 alcade
 accordionists
-andalusian
 aconin
 airwoman
 agonize
@@ -23675,6 +23674,7 @@ affirming
 auriscalp
 auriscalpia
 abietate
+andalusian
 anchoritish
 auriscopic
 aurists
