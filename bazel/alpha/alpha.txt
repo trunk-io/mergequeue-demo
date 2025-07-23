@@ -16223,7 +16223,6 @@ amylamine
 acetanilide
 antitragal
 alfur
-antitetanic
 accusive
 antitragicus
 aricine
@@ -17302,6 +17301,7 @@ argos
 aglycosuric
 apheliotropically
 apostles
+antitetanic
 apostleship
 apostleships
 althaeas
