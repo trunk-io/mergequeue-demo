@@ -9724,7 +9724,6 @@ amalgamatize
 anointer
 acmite
 amalgamist
-achromatic
 apostrophes
 amperage
 attended
@@ -24315,6 +24314,7 @@ anthrasilicosis
 anticoagulan
 autophotoelectric
 acridone
+achromatic
 antiperistatic
 autopilot
 autoplast
