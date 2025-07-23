@@ -3883,7 +3883,6 @@ adjoints
 apieces
 allurance
 aquavits
-adjudgment
 acute
 agglutinin
 attemperator
@@ -8379,6 +8378,7 @@ alden
 alkaline
 augmentations
 angiography
+adjudgment
 abiegh
 arite
 abasement
