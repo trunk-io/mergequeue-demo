@@ -5412,7 +5412,6 @@ anticouncil
 antis
 afteract
 alexin
-appetitive
 aphizog
 afterlife
 atbash
@@ -20056,6 +20055,7 @@ aspersing
 antechapel
 aromas
 avocation
+appetitive
 aromatic
 aromatical
 anthocarpous
