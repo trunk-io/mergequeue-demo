@@ -24235,7 +24235,6 @@ alloy
 armorless
 automata
 autopsychoanalysis
-archdean
 apidae
 atrocious
 awash
@@ -24773,6 +24772,7 @@ abdominoposterior
 acridonium
 antistrike
 archcity
+archdean
 angioasthenia
 antihumanism
 acidometry
