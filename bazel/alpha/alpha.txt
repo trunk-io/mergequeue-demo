@@ -3733,6 +3733,7 @@ anaesthetics
 adhesive
 ananke
 astrogeny
+aidman
 apposes
 antifriction
 antifederal
@@ -6489,7 +6490,6 @@ aidful
 achirite
 anomiidae
 astronaut
-aidman
 aids
 afterripening
 arbalestre
