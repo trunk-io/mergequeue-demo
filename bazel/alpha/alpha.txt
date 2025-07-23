@@ -8595,7 +8595,6 @@ australoid
 alleyite
 alleys
 automatonlike
-alleyway
 alchitran
 abled
 alleyways
@@ -17781,6 +17780,7 @@ adoptable
 appraising
 archleader
 abacate
+alleyway
 appraisive
 achage
 almique
