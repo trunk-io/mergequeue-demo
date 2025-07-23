@@ -4583,7 +4583,6 @@ abrasive
 anahao
 alchemist
 afficionado
-advocated
 afterspeech
 archididascalos
 advocating
@@ -14645,6 +14644,7 @@ antibiotic
 algebraizing
 antimonopolism
 acousmatic
+advocated
 antislickens
 admix
 antibreakage
