@@ -5397,7 +5397,6 @@ antifelon
 amalgams
 atharvan
 arrange
-algometry
 assegai
 archil
 afrit
@@ -25262,6 +25261,7 @@ ashir
 azimuth
 arointing
 antirabies
+algometry
 acceded
 aulete
 anisogamete
