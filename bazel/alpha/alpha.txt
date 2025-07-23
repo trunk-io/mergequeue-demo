@@ -1560,7 +1560,6 @@ anthema
 accorder
 accordingly
 amritas
-amalg
 accordion
 alcade
 accordionists
@@ -23365,6 +23364,7 @@ anabas
 alleged
 asphyxial
 arteriopathy
+amalg
 acclimatisable
 anility
 artophorion
