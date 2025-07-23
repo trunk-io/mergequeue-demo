@@ -3488,7 +3488,6 @@ afforded
 autumnian
 albuminization
 aldosterone
-antral
 addn
 albumeniser
 apparance
@@ -13451,6 +13450,7 @@ actuator
 annoy
 arneb
 attributal
+antral
 annoyances
 autotropism
 armigeri
