@@ -3656,7 +3656,6 @@ alterers
 amphoras
 anisopleural
 adenosine
-adenotyphus
 alphabetist
 anachoret
 autometry
@@ -19059,6 +19058,7 @@ anthoecological
 artotyrite
 antipedobaptist
 auspicating
+adenotyphus
 aition
 archpuritan
 acroataxia
