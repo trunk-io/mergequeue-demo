@@ -5224,7 +5224,6 @@ affies
 antitartaric
 alphitomancy
 affile
-affiliable
 affiliating
 apery
 abohm
@@ -16811,6 +16810,7 @@ apotactic
 amentulum
 apicular
 anymore
+affiliable
 apiculate
 allodelphite
 adsorptiveness
