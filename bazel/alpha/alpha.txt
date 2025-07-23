@@ -17693,7 +17693,6 @@ applications
 artotype
 antirheumatic
 applicative
-applicatively
 applicatory
 applicators
 appliedly
@@ -18964,6 +18963,7 @@ archmachine
 adread
 alar
 areae
+applicatively
 archmilitarist
 actiniform
 archmocker
