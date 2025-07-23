@@ -6463,6 +6463,7 @@ ai
 anomura
 acrogynae
 araeometer
+algosis
 amphiphloic
 antecessor
 ayacahuite
@@ -12560,7 +12561,6 @@ ashler
 advene
 aneurysm
 aeriferous
-algosis
 anfractuose
 anfractuosity
 ankylosed
