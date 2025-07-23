@@ -669,7 +669,6 @@ aborigines
 abort
 alderfly
 anser
-aborted
 aborticide
 abortient
 anacardic
@@ -10614,6 +10613,7 @@ arrhythmy
 angiomyosarcoma
 afflicts
 agamae
+aborted
 aminoanthraquinone
 aryepiglottidean
 apostolici
