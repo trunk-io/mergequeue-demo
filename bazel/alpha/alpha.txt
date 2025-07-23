@@ -5168,7 +5168,6 @@ auturgy
 archaeolith
 ankerite
 ampulated
-ameloblastic
 ascensor
 artifactual
 abnegative
@@ -13901,6 +13900,7 @@ affectation
 actualization
 antalgics
 allochezia
+ameloblastic
 antalgol
 andrewsite
 adelea
