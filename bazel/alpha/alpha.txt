@@ -2958,7 +2958,6 @@ actin
 actinautography
 actinautographic
 actine
-actinenchyma
 aeciotelium
 acting
 actiniae
@@ -23430,6 +23429,7 @@ augends
 anatomicophysiologic
 auger
 appulses
+actinenchyma
 augerer
 axiomatizes
 augers
