@@ -13496,7 +13496,6 @@ arbota
 argons
 appaloosa
 annualized
-annually
 atony
 annuals
 annueller
@@ -20646,6 +20645,7 @@ antiplastic
 articulated
 aborsement
 anticensoriously
+annually
 armenoid
 amimia
 adipocere
