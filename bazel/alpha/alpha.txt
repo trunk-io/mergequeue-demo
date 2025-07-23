@@ -5193,6 +5193,7 @@ affectivity
 affectum
 auturgy
 archaeolith
+agoniatites
 ankerite
 ampulated
 ameloblastic
@@ -20815,7 +20816,6 @@ atheromasia
 asarums
 artemision
 asb
-agoniatites
 asbest
 alkalinising
 arnold
