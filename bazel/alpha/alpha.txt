@@ -9646,7 +9646,6 @@ astronauts
 alvearium
 alveated
 anteluminary
-alveole
 alveolectomy
 arachnomorphae
 accidie
@@ -10585,6 +10584,7 @@ amylopsin
 anteromedian
 arborolater
 accoladed
+alveole
 ablatively
 ale
 amylose
