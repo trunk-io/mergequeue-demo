@@ -9005,7 +9005,6 @@ absterged
 alloxans
 anthesis
 anticlnoria
-anthracoid
 alloxuraemia
 alloxuremia
 alloxuric
@@ -24391,6 +24390,7 @@ aftereffect
 autoschediasm
 agisting
 autoschediastic
+anthracoid
 antialexin
 ankylomele
 armature
