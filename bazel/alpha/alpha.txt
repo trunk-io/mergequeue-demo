@@ -1573,7 +1573,6 @@ arcady
 antidrag
 acediamine
 anticommercial
-antefact
 antebrachium
 anthrop
 accoucheur
@@ -9492,6 +9491,7 @@ abadite
 arrives
 antialcoholist
 aortotomy
+antefact
 anemoses
 audiotapes
 atremata
