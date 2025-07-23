@@ -2906,7 +2906,6 @@ anoints
 anisomeles
 anapnograph
 aneurysms
-autoanalysis
 awkwardest
 autophonous
 anacathartic
@@ -6562,6 +6561,7 @@ achromatised
 agrestian
 antichthon
 ailed
+autoanalysis
 aileron
 agency
 adradius
