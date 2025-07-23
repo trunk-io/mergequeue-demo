@@ -4780,7 +4780,6 @@ anears
 absolved
 anamniota
 arbitrable
-accords
 acrasida
 agglutinates
 altincar
@@ -17681,6 +17680,7 @@ artotype
 antirheumatic
 applicative
 applicatively
+accords
 applicatory
 applicators
 appliedly
