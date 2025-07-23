@@ -1557,6 +1557,7 @@ accordatura
 agglutinoid
 adventureful
 anthema
+antihalation
 accorder
 accordingly
 amritas
@@ -15221,7 +15222,6 @@ antigravitation
 antigravity
 antigrowth
 affectible
-antihalation
 angsts
 agrestal
 adsorptively
