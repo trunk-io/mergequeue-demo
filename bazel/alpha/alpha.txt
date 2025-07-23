@@ -7605,6 +7605,7 @@ almuds
 ambiances
 alcoholimeter
 antagonizer
+awhirl
 apocryphally
 autoconverter
 aguinaldos
@@ -24981,7 +24982,6 @@ antheriferous
 anthroic
 atlatls
 ashcake
-awhirl
 ankylosaurus
 antedon
 armiferous
