@@ -6305,7 +6305,6 @@ antioptimistic
 aftergood
 anticreep
 abohms
-agrimony
 almes
 adelarthrosomata
 agriochoerus
@@ -8810,6 +8809,7 @@ amphotericin
 adulterous
 allodial
 abluents
+agrimony
 allodiality
 adenodiastasis
 aspirate
