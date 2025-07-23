@@ -846,7 +846,6 @@ astrogonic
 alcalde
 aestuary
 acids
-abscission
 absconce
 arris
 absconded
@@ -6066,6 +6065,7 @@ aglaos
 aglaozonia
 annuitant
 alkanal
+abscission
 agleaf
 acetify
 archibuteo
