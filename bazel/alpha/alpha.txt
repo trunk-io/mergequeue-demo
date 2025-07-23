@@ -20308,6 +20308,7 @@ ayin
 achromobacterieae
 astrocytic
 arrowlet
+assignable
 atomology
 aminoazobenzene
 arrowplate
@@ -20465,7 +20466,6 @@ axers
 adiathermanous
 adjectivally
 auctary
-assignable
 adagy
 arterying
 autoicous
