@@ -5518,6 +5518,7 @@ afterplanting
 afterreckoning
 articulare
 albarello
+azotometer
 andiroba
 anemogram
 alumna
@@ -6427,7 +6428,6 @@ astrophotography
 attack
 attentively
 allodialism
-azotometer
 antinomian
 amay
 amebula
