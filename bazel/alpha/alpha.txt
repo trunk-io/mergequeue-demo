@@ -3546,7 +3546,6 @@ abreaction
 aggies
 anthemwise
 antimonite
-adelphian
 adelphic
 aliamenta
 anisospore
@@ -15377,6 +15376,7 @@ ambidextrously
 antimere
 antimerina
 antimerism
+adelphian
 acolytus
 antimesia
 aspredo
