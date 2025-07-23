@@ -12915,7 +12915,6 @@ axine
 alhenna
 actuating
 angula
-angularia
 angularity
 angularities
 antiferromagnet
@@ -17229,6 +17228,7 @@ allanites
 asserting
 aggradational
 array
+angularia
 aporias
 adherant
 aporobranchian
