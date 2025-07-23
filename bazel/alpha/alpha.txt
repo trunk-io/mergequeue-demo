@@ -17372,7 +17372,6 @@ applot
 airship
 athyris
 agallochum
-antiarchi
 apothegmatically
 antiromanticism
 arseniuret
@@ -23591,6 +23590,7 @@ avelonge
 aerotow
 arables
 aureocasidium
+antiarchi
 aureoled
 aromatites
 adolesced
