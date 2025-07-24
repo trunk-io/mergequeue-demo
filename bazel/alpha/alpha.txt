@@ -2320,7 +2320,6 @@ abbreviatory
 autolimnetic
 agitant
 acieration
-acies
 acyesis
 acyetic
 akaroa
@@ -25304,6 +25303,7 @@ amalgamators
 atheological
 albinoism
 azoic
+acies
 ameliorations
 alantin
 appellancy
