@@ -4193,7 +4193,6 @@ arabella
 acinuni
 adjutage
 actuators
-adopted
 archonship
 adoption
 antedate
@@ -13723,6 +13722,7 @@ anophthalmos
 anopia
 amusable
 ambisyllabic
+adopted
 altimeter
 autosomatognostic
 audiogram
