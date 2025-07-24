@@ -11418,6 +11418,7 @@ ancestries
 amosite
 authenticators
 antlia
+aminities
 amarelles
 astrologous
 approachabl
@@ -24239,7 +24240,6 @@ archdean
 apidae
 atrocious
 awash
-aminities
 automates
 agronomist
 argumentative
