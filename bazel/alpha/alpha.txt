@@ -8433,6 +8433,7 @@ amebocyte
 alkanol
 alkaphrah
 alkapton
+algicide
 armorist
 archimage
 ascent
@@ -12897,7 +12898,6 @@ archdemon
 allantoides
 absentia
 angiopoietic
-algicide
 ammeos
 anguillula
 achromate
