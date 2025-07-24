@@ -6302,6 +6302,7 @@ adsorbate
 agromyzid
 approbate
 agromyzidae
+antaean
 alamos
 agronome
 aurar
@@ -13848,7 +13849,6 @@ armadillididae
 antheroid
 antae
 averil
-antaean
 antaeus
 asperates
 archelogy
