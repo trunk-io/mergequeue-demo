@@ -6107,7 +6107,6 @@ agriology
 aside
 achondrite
 agminated
-agnate
 advenient
 akenes
 amoreuxia
@@ -20217,6 +20216,7 @@ acantholimon
 attributional
 arrest
 arrestation
+agnate
 astern
 alphabet
 aeipathy
