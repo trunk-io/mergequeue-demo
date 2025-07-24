@@ -12126,7 +12126,6 @@ aegirite
 ailette
 antitradition
 anchor
-anchorages
 anchorate
 anovular
 anchoress
@@ -24221,6 +24220,7 @@ acrostolion
 arrestee
 aevum
 autolyzes
+anchorages
 autoloader
 autocollimate
 autology
