@@ -11150,6 +11150,7 @@ appenders
 allthing
 artworks
 amphikaryotic
+antical
 annual
 atchison
 amphimictic
@@ -25238,7 +25239,6 @@ azande
 alaster
 azaserine
 azelaic
-antical
 abstrict
 amsterdamer
 azerbaijani
