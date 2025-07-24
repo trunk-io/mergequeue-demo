@@ -12125,7 +12125,6 @@ arna
 aegirite
 ailette
 antitradition
-anchor
 anchorages
 anchorate
 anovular
@@ -25356,6 +25355,7 @@ azotises
 azotize
 aceldama
 abray
+anchor
 alphonse
 adaptative
 azotoluene
