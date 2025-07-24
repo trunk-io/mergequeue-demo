@@ -3884,7 +3884,6 @@ adjudgment
 acute
 agglutinin
 attemperator
-adjudicative
 antarctical
 anaphora
 aerostats
@@ -11399,6 +11398,7 @@ acaulose
 arteriolar
 appetites
 arefact
+adjudicative
 astely
 attemperately
 amusement
