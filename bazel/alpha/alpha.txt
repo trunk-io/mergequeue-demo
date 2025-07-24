@@ -4240,6 +4240,7 @@ abaction
 azoxazole
 autosuggest
 angild
+antiqueness
 azonium
 alchornea
 amaut
@@ -15893,7 +15894,6 @@ anacreontic
 abundantia
 accretion
 aureateness
-antiqueness
 antiquing
 arciform
 arcadianly
