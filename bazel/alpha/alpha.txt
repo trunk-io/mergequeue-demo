@@ -3225,6 +3225,7 @@ alchemically
 aguelike
 assident
 adventure
+autodermic
 abstersion
 aphis
 abators
@@ -12361,7 +12362,6 @@ aquilege
 anear
 acroterial
 afterdeal
-autodermic
 actaeonidae
 aberrometer
 admensuration
