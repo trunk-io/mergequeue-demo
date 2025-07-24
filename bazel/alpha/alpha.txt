@@ -1430,6 +1430,7 @@ accession
 aspiratory
 axilemmata
 acrologism
+alkalous
 accessioner
 accessive
 anoplocephalic
@@ -8417,7 +8418,6 @@ acuate
 alkalizing
 alkaloid
 alkalosis
-alkalous
 alphorn
 accrementitial
 alkanes
