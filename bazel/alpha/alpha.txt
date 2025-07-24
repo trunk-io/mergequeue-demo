@@ -9899,7 +9899,6 @@ avoue
 abandonee
 archbuilder
 amaurosis
-airlocks
 autotrophy
 anatomicopathological
 adagial
@@ -11205,6 +11204,7 @@ amphisbaenas
 amphisbaenoid
 antimasks
 amphiscians
+airlocks
 aerodontic
 actory
 agedness
