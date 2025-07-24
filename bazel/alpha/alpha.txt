@@ -6305,6 +6305,7 @@ antioptimistic
 aftergood
 anticreep
 abohms
+annuation
 agrimony
 almes
 adelarthrosomata
@@ -11684,7 +11685,6 @@ annoying
 anagrammatic
 actiones
 anagrammatically
-annuation
 androgenesis
 arbitrators
 anagrammatism
