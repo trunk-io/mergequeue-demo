@@ -4565,7 +4565,6 @@ antigrammatical
 annexed
 admissability
 avidnesses
-advisy
 advising
 accustom
 akelas
@@ -24776,6 +24775,7 @@ archcity
 angioasthenia
 antihumanism
 acidometry
+advisy
 amphisbaenidae
 aggenerate
 arithmetized
