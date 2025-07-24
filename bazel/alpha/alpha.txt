@@ -4600,7 +4600,6 @@ anychia
 aecioteliospore
 alans
 aedeagi
-aedeagus
 aediculae
 anaesthesiologist
 aphidiinae
@@ -7061,6 +7060,7 @@ archaeus
 alienist
 antibiotics
 aurorean
+aedeagus
 antistate
 amyloidal
 argovian
