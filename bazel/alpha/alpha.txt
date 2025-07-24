@@ -7911,6 +7911,7 @@ appliers
 alcoholmeter
 amethyst
 afetal
+abjunction
 aspirators
 alawi
 akvavits
@@ -12789,7 +12790,6 @@ acetylsalol
 authentication
 angiotonic
 ahwal
-abjunction
 angulous
 awork
 angiotribe
