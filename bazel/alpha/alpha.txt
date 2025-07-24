@@ -2492,7 +2492,6 @@ alabastrons
 amoebicidal
 acolyth
 aculei
-acolythate
 amphiaster
 ardella
 autoserum
@@ -20166,6 +20165,7 @@ artiller
 amateurism
 arraigned
 allenarly
+acolythate
 alpines
 anthozoon
 allolalic
