@@ -4408,6 +4408,7 @@ ap
 asthenias
 agrypnode
 allophane
+apneumatosis
 antebath
 adunation
 anacalypsis
@@ -12839,7 +12840,6 @@ authored
 avocat
 apolysin
 anatabine
-apneumatosis
 allineate
 aditio
 anglicized
