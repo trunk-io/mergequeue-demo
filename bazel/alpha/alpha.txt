@@ -3223,6 +3223,7 @@ aegemony
 allochromatic
 alchemically
 aguelike
+alectoromancy
 assident
 adventure
 abstersion
@@ -7787,7 +7788,6 @@ astigmoscope
 actinodrome
 angiospermae
 arctitude
-alectoromancy
 amphierotic
 amphibiological
 alectoropodous
