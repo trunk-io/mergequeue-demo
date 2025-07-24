@@ -2343,7 +2343,6 @@ autolimnetic
 agitant
 acieration
 acies
-acyesis
 acyetic
 akaroa
 aciform
@@ -8860,6 +8859,7 @@ admiralships
 antisudorific
 antidoting
 avouter
+acyesis
 antenatal
 aidmen
 alloo
