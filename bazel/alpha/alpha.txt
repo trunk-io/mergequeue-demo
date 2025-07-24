@@ -4784,7 +4784,6 @@ afterpart
 acetylate
 aeroballistic
 acrylonitrile
-agapemonite
 anarya
 aerobatic
 aerobatics
@@ -5163,6 +5162,7 @@ apyrexia
 amortise
 arabesks
 ambilaevous
+agapemonite
 affect
 abhors
 affectable
