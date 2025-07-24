@@ -6694,7 +6694,6 @@ activation
 afterbeat
 altars
 aircraftmen
-aircraftsman
 affrontiveness
 aircraftswoman
 aircraftwoman
@@ -20762,6 +20761,7 @@ ambulators
 aphorised
 alphabetic
 accelerator
+aircraftsman
 assessorship
 antiweed
 ammocete
