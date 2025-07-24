@@ -11594,7 +11594,6 @@ amba
 auspices
 anacrogynous
 altricial
-aerenchyma
 albedos
 anacruses
 antivenomous
@@ -22633,6 +22632,7 @@ anneals
 antimeter
 athetotic
 apsides
+aerenchyma
 archdapifership
 athymy
 athymia
