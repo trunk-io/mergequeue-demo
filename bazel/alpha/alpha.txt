@@ -11283,6 +11283,7 @@ amphore
 antiplatelet
 amphoteric
 aircrewman
+asterolepis
 antonina
 ampyxes
 agonistarch
@@ -22052,7 +22053,6 @@ adenocancroid
 asteroid
 asterolepidae
 andamanese
-asterolepis
 accordature
 allayment
 amphibichnite
