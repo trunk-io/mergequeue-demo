@@ -376,7 +376,6 @@ architectures
 aberrancy
 aberrants
 areological
-aberration
 aberrational
 aloha
 abesse
@@ -1781,6 +1780,7 @@ anthracomancy
 adulce
 acellular
 aperients
+aberration
 allocthonous
 antrotympanic
 ahaaina
