@@ -1778,6 +1778,7 @@ autopathy
 agalloch
 aceldamas
 anthracomancy
+aristarch
 adulce
 acellular
 aperients
@@ -18241,7 +18242,6 @@ arachnologist
 asia
 algors
 arad
-aristarch
 aradidae
 adulators
 acatallactic
