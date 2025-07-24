@@ -5793,7 +5793,6 @@ admirability
 acclamations
 alarbus
 antithesis
-assoiled
 agaze
 acceleratingly
 age
@@ -18137,6 +18136,7 @@ arrasene
 arseniferous
 almost
 adverse
+assoiled
 aquilid
 aquilinity
 aquilino
