@@ -9813,7 +9813,6 @@ agmas
 ambivalence
 antepreterit
 amarillo
-amphigen
 abrazitic
 antiboxing
 accite
@@ -17263,6 +17262,7 @@ apostacize
 apostasy
 audiometer
 actors
+amphigen
 alimentally
 aluminosity
 autocollimator
