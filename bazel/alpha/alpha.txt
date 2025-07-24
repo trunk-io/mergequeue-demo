@@ -2587,6 +2587,7 @@ acquaintancy
 adorsed
 autor
 amorph
+attendment
 archturncoat
 altaid
 aerographic
@@ -23088,7 +23089,6 @@ amus
 attendingly
 admissible
 aubepine
-attendment
 aposoro
 attendress
 aciurgy
