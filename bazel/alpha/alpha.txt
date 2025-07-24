@@ -6010,7 +6010,6 @@ agitability
 archilowe
 accouters
 anes
-agitate
 agitated
 actor
 antirobin
@@ -15725,6 +15724,7 @@ asepsis
 audile
 antiphonon
 aborigine
+agitate
 antiphons
 assistants
 antiphrases
