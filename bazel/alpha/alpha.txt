@@ -1296,7 +1296,6 @@ aeromedicine
 aboriginal
 acatalectic
 atelocardia
-acatalepsy
 acatalepsia
 acataleptic
 autosomally
@@ -16490,6 +16489,7 @@ apay
 akaniaceae
 apolarity
 apaid
+acatalepsy
 allochetia
 asonant
 arpeggios
