@@ -6343,7 +6343,6 @@ adsorbate
 agromyzid
 approbate
 agromyzidae
-alamos
 agronome
 aurar
 anaretical
@@ -15336,6 +15335,7 @@ accentor
 antilogic
 antilogistic
 antilope
+alamos
 antilottery
 adheres
 additiment
