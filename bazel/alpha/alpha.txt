@@ -932,7 +932,6 @@ absolve
 absolvent
 arteriotome
 azote
-absolving
 absolvitor
 alkalinizes
 aldolize
@@ -11221,6 +11220,7 @@ agravic
 amphispermous
 anagyrin
 amphisporangiate
+absolving
 acquittal
 abaze
 angiosarcoma
