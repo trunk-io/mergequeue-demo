@@ -2460,7 +2460,6 @@ authorizing
 amaga
 affidare
 acoela
-acoelomate
 attacco
 anteceded
 apogean
@@ -19706,6 +19705,7 @@ acosmism
 aristolochia
 anticathexis
 aristolochin
+acoelomate
 audibility
 abigei
 anamite
