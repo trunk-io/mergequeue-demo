@@ -10399,7 +10399,6 @@ ammonitiferous
 amicability
 abrahamitic
 amicabilities
-appredicate
 amicably
 amical
 answerableness
@@ -24722,6 +24721,7 @@ avifaunas
 abreactions
 aphanes
 autotelegraph
+appredicate
 aviaries
 apteryxes
 aviarist
