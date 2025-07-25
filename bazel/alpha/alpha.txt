@@ -5974,7 +5974,6 @@ adjunctly
 animalcular
 air
 arioso
-agility
 antemortal
 attorneyship
 asconia
@@ -23208,6 +23207,7 @@ accommodately
 alveolation
 acale
 asterias
+agility
 adjudicate
 adnumber
 antship
