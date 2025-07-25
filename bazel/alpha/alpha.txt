@@ -8701,6 +8701,7 @@ auscultations
 antrorse
 allied
 allies
+alforjas
 awl
 agapemonian
 activators
@@ -23526,7 +23527,6 @@ alinit
 abuser
 anesthetics
 aumrie
-alforjas
 allotelluric
 antagonism
 amply
