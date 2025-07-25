@@ -3156,7 +3156,6 @@ active
 aluminotype
 aweather
 asterism
-apostrophized
 actives
 aphacia
 aetiologically
@@ -20775,6 +20774,7 @@ acutate
 amputator
 avenery
 assmannshauser
+apostrophized
 amplifiable
 arzun
 antick
