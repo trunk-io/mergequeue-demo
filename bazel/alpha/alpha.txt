@@ -8141,7 +8141,6 @@ assassins
 amora
 alternativo
 apophatic
-autocatalepsy
 apatheia
 antiquer
 adermia
@@ -12809,6 +12808,7 @@ analogism
 ambitus
 aeroscopically
 archvillainy
+autocatalepsy
 avilion
 aphasiology
 angle
