@@ -12594,7 +12594,6 @@ arenosity
 anviled
 abolitionising
 alambique
-amb
 ankylosis
 awabi
 anapest
@@ -18670,6 +18669,7 @@ axioms
 abjurement
 aerosats
 archeal
+amb
 annulose
 archean
 atokous
