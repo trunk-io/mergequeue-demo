@@ -7929,7 +7929,6 @@ aleurodes
 afgod
 aleurometer
 aleuronat
-absi
 aleurone
 aleuronic
 aleut
@@ -15083,6 +15082,7 @@ absents
 alaund
 aquilon
 autopsical
+absi
 antienthusiastic
 actinoelectric
 adjectives
