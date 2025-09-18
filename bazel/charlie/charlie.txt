@@ -3819,7 +3819,6 @@ cannibalism
 carbohydrate
 cardiotrophia
 cysticarpic
-carbohydraturia
 chalkier
 chorioid
 carbohydride
@@ -25920,6 +25919,7 @@ clinical
 chyak
 circumscribes
 corsite
+carbohydraturia
 corsos
 cancrivorous
 corteges
