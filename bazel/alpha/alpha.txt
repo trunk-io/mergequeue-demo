@@ -842,7 +842,6 @@ astrogonic
 alcalde
 aestuary
 acids
-abscission
 absconce
 arris
 absconded
@@ -2952,6 +2951,7 @@ actin
 actinautography
 actinautographic
 actine
+abscission
 actinenchyma
 aeciotelium
 acting
