@@ -18407,7 +18407,6 @@ coglorify
 cogman
 coralloid
 counterbuilding
-conformers
 cogmen
 claypan
 chenevixite
@@ -25331,6 +25330,7 @@ coidentity
 chaplainship
 cornbole
 cornbottle
+conformers
 clistocarp
 commemorating
 corncake
