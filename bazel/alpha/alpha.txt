@@ -21405,6 +21405,7 @@ afterattack
 atmid
 aerologic
 avys
+axillary
 amphiprostyle
 aspermatic
 achter
@@ -21846,7 +21847,6 @@ assythment
 ataxy
 assize
 abacot
-axillary
 achmetha
 archform
 assizes
