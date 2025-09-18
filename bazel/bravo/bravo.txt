@@ -438,7 +438,6 @@ backrush
 backscatter
 backscattered
 backscattering
-bandobust
 borecole
 backscraper
 backset
@@ -7192,6 +7191,7 @@ besses
 bessie
 bestad
 biarticulated
+bandobust
 bacteriemia
 bernicles
 bierstube
