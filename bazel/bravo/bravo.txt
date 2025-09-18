@@ -9183,7 +9183,6 @@ biotypic
 boubou
 biotypology
 biotites
-bolometric
 bromcamphor
 bruja
 biotome
@@ -15388,6 +15387,7 @@ bannerlike
 brighten
 brainwork
 brightish
+bolometric
 brightsmith
 banged
 bandannaed
