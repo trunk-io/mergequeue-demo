@@ -108,7 +108,6 @@ cabiai
 canephorus
 cronish
 cabildo
-cabildos
 cabin
 cabined
 calinago
@@ -16005,6 +16004,7 @@ cotoneaster
 clergylike
 cyclos
 clergymen
+cabildos
 clergion
 clergywoman
 culverfoot
