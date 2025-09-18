@@ -12407,6 +12407,7 @@ deathweed
 dishcloth
 dishcloths
 dupable
+doxies
 dishclout
 dishcross
 disheart
@@ -14707,7 +14708,6 @@ djin
 disrespondency
 describe
 dowers
-doxies
 disagrees
 dolent
 djuka
