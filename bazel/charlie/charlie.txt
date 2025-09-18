@@ -2578,6 +2578,7 @@ crocoisite
 coyan
 cordwoods
 codlins
+chemicopharmaceutical
 conners
 candlewicks
 candlewright
@@ -5845,7 +5846,6 @@ categorised
 chansonnier
 cultivated
 cochlearia
-chemicopharmaceutical
 cuemanship
 cleaves
 categorization
