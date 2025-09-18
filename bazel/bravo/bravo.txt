@@ -2076,7 +2076,6 @@ bannerole
 blossomry
 bronchus
 bcf
-baldest
 blesses
 bannerols
 bannisters
@@ -18036,6 +18035,7 @@ busthead
 barberries
 bustian
 beforehand
+baldest
 bradypod
 bagwoman
 buggane
