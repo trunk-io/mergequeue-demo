@@ -10400,6 +10400,7 @@ chide
 callid
 classing
 chided
+cleidomancy
 chiders
 colorbreed
 corrigendum
@@ -15949,7 +15950,6 @@ cleidocostal
 cleidoic
 chiromance
 cherts
-cleidomancy
 cleidorrhexis
 chiripa
 cleidotripsy
