@@ -14782,7 +14782,6 @@ canvassers
 cookery
 cite
 citer
-citers
 cites
 citess
 citharas
@@ -27128,6 +27127,7 @@ chemosorptive
 copaiye
 countershock
 counterside
+citers
 crance
 czardoms
 counterindicate
