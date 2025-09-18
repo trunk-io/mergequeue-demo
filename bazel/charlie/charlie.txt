@@ -10917,6 +10917,7 @@ chipping
 chippings
 castaneous
 clerk
+cobble
 chipproof
 crucifying
 clocher
@@ -17506,7 +17507,6 @@ cobbin
 cobbing
 cumulite
 causeries
-cobble
 capax
 cobbled
 commixes
