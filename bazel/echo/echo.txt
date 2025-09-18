@@ -4728,7 +4728,6 @@ executions
 existent
 exodos
 endosmosic
-excircle
 epistler
 entomophytous
 equidifferent
@@ -13320,6 +13319,7 @@ expone
 ephoralty
 exponency
 extrared
+excircle
 exponent
 educated
 exponentiates
