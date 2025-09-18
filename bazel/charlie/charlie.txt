@@ -2576,7 +2576,6 @@ cogniser
 candlewaster
 cambial
 crocoisite
-candlewasting
 coyan
 cordwoods
 codlins
@@ -13343,6 +13342,7 @@ capercailzie
 cesura
 cheatee
 cycloids
+candlewasting
 comprehending
 cyclolysis
 cycloloma
