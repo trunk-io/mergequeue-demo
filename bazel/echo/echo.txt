@@ -2885,6 +2885,7 @@ elf
 elfenfolk
 ecodeme
 endogeny
+equidivision
 entablature
 elfinwood
 exfoliating
@@ -8586,7 +8587,6 @@ eutaxic
 equidiurnal
 eelpouts
 eleutheromania
-equidivision
 epigrammatising
 embouchures
 encefalon
