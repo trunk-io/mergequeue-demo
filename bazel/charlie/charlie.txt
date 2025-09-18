@@ -10122,6 +10122,7 @@ chesser
 cabinda
 chesses
 chessylite
+cemeteries
 chessist
 chirimen
 chessner
@@ -27954,7 +27955,6 @@ counterselection
 cognosce
 cradlemaker
 cradlemate
-cemeteries
 camerlengos
 celeomorphic
 catharize
