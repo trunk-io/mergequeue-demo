@@ -2833,6 +2833,7 @@ barotropic
 barouche
 barouchette
 bioecologic
+bihalve
 barouni
 baroxyton
 beebread
@@ -15790,7 +15791,6 @@ brokages
 broke
 begohm
 banande
-bihalve
 bepile
 barebones
 baksheeshes
