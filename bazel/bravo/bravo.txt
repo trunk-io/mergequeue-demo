@@ -763,7 +763,6 @@ badland
 buba
 bat
 brushcut
-bygoing
 banket
 badmouthed
 badmouths
@@ -7260,6 +7259,7 @@ bluesides
 blueberry
 bestrides
 boondock
+bygoing
 bestrown
 bathochromatic
 ballplayers
