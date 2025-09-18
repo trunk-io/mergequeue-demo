@@ -3445,7 +3445,6 @@ boughpot
 bef
 bastite
 brushfire
-brigade
 basto
 baguios
 bucklandite
@@ -8196,6 +8195,7 @@ bienvenue
 bayaderes
 burfish
 bier
+brigade
 broid
 baleens
 byronically
