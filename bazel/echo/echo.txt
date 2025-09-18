@@ -3737,7 +3737,6 @@ efforce
 embussing
 espigle
 enecate
-explored
 emceeing
 escalader
 enquirer
@@ -5148,6 +5147,7 @@ efference
 euchres
 echeloning
 enchanter
+explored
 expedition
 endogenous
 enlistment
