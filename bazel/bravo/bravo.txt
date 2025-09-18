@@ -8174,7 +8174,6 @@ bateaux
 bieldy
 brawlier
 bossa
-bellicoseness
 bielding
 bewinter
 benzopinacone
@@ -11584,6 +11583,7 @@ blushy
 brierwood
 beth
 bestain
+bellicoseness
 brightness
 blusterers
 byordinar
