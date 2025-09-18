@@ -2508,6 +2508,7 @@ barghests
 boccia
 blueblack
 beslash
+brisque
 bassetite
 bottonhook
 barguest
@@ -17178,7 +17179,6 @@ bullocker
 brachydodrome
 beduins
 blastulae
-brisque
 beneficiaryship
 barkantine
 bullpen
