@@ -1193,7 +1193,6 @@ bibliothetic
 bakelite
 bakemeats
 bloop
-bakeoven
 blennostatic
 bakeress
 besigh
@@ -4037,6 +4036,7 @@ byously
 burglarproofing
 buchu
 bom
+bakeoven
 banditti
 butled
 beamed
