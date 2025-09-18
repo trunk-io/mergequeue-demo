@@ -3484,6 +3484,7 @@ defoil
 dorsabdominally
 dorsobranchiata
 defoliants
+deepmost
 defoliate
 defoliations
 disjunct
@@ -9665,7 +9666,6 @@ dihalogen
 deadline
 drayed
 differentiating
-deepmost
 dihedron
 dhootie
 discipleship
