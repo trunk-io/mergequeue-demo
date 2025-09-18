@@ -617,7 +617,6 @@ bastiment
 bacteriodiagnosis
 bromates
 benomyls
-behearse
 bacterid
 birdcages
 baraka
@@ -11435,6 +11434,7 @@ beeves
 bisaltae
 bodacious
 bedrail
+behearse
 brattices
 beetleweed
 bemuffle
