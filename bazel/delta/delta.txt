@@ -3346,7 +3346,6 @@ deliriate
 diastem
 demitting
 desisted
-destiny
 domesticable
 dynamometry
 defoliant
@@ -14972,6 +14971,7 @@ dendrocalamus
 deoperculate
 dodonaeaceae
 dodos
+destiny
 duali
 decoloriser
 dermatoid
