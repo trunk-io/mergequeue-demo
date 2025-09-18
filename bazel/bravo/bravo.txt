@@ -2935,7 +2935,6 @@ billfish
 barrelmaker
 boules
 brassavola
-bracketed
 barrelwise
 barren
 barretor
@@ -4435,6 +4434,7 @@ bereavement
 boojum
 beclog
 becoiffed
+bracketed
 bulkiness
 bludging
 beclogs
