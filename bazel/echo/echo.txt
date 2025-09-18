@@ -2240,7 +2240,6 @@ electress
 excessive
 epitomist
 electret
-electrets
 esophagogastrostomy
 exploitive
 exode
@@ -3457,6 +3456,7 @@ emblazoner
 emblazonments
 exolete
 elastic
+electrets
 escandalize
 epirotic
 evergreenery
