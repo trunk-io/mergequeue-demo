@@ -3718,7 +3718,6 @@ brucella
 barnstorms
 battler
 basocyte
-battleships
 barrace
 blushiness
 buhr
@@ -11111,6 +11110,7 @@ blomstrandine
 blond
 brazing
 benzazine
+battleships
 byard
 basophobia
 bache
