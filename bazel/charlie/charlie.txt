@@ -2203,6 +2203,7 @@ clinkstone
 cornamute
 campo
 creedbound
+cursorial
 campodeoid
 campody
 campong
@@ -6701,7 +6702,6 @@ cee
 ceibas
 coracomorphic
 chard
-cursorial
 ceibo
 counterthrust
 ceil
