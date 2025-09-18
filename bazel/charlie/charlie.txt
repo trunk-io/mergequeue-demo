@@ -9861,7 +9861,6 @@ chemicker
 chemicoastrological
 chemicobiologic
 collocates
-chemicodynamic
 caliches
 chemicoluminescent
 cyclostome
@@ -25803,6 +25802,7 @@ creem
 carhouse
 corrode
 corrie
+chemicodynamic
 copremic
 corroders
 cneoraceae
