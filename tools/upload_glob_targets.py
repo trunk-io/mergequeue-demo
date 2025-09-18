@@ -34,7 +34,7 @@ def main():
     IMPACTED_TARGETS_FILE = os.environ["IMPACTED_TARGETS_FILE"]
     IMPACTS_ALL_DETECTED = os.environ.get("IMPACTS_ALL_DETECTED", "false")
     API_URL = os.environ.get(
-        "API_URL", "https://api.trunk.io:443/v1/setImpactedTargets"
+        "API_URL", "https://api.trunk-staging.io:443/v1/setImpactedTargets"
     )
     ACTOR = os.environ.get("ACTOR", "")
 

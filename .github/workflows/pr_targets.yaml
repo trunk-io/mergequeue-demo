@@ -51,7 +51,7 @@ jobs:
           bazel-diff-generate-hashes-extra-args: --no-excludeExternalTargets
           verbose: 1
         env:
-          API_URL: https://api.trunk.io:443/v1/setImpactedTargets
+          API_URL: https://api.trunk-staging.io:443/v1/setImpactedTargets
 
       - name: named pr targets
         if:
