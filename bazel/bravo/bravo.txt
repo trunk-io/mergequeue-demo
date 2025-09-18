@@ -5779,7 +5779,6 @@ barnyards
 biocellate
 bascology
 bunn
-bulak
 bufo
 bellbird
 bellboy
@@ -12200,6 +12199,7 @@ bolide
 bolivar
 bloodying
 befamine
+bulak
 brose
 bradyphemia
 breek
