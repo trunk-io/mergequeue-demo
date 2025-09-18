@@ -1174,7 +1174,6 @@ bogeyed
 beltmen
 bajree
 baized
-bercelet
 bajury
 blackbelly
 bonnaz
@@ -11983,6 +11982,7 @@ bogland
 budgerigah
 bytalk
 bogled
+bercelet
 boglet
 beckelite
 bolts
