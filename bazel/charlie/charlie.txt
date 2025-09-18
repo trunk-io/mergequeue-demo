@@ -2870,7 +2870,6 @@ canoniser
 cephalothoraces
 coambassador
 canonising
-canonist
 canonistical
 canonized
 catapult
@@ -11476,6 +11475,7 @@ choanoflagellate
 cotta
 choanophorous
 cataplasm
+canonist
 choanosome
 choate
 cautioned
