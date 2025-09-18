@@ -15296,6 +15296,7 @@ dix
 drawoff
 dealbuminize
 dollmaker
+diereses
 dissectible
 durante
 dendroclastic
@@ -18191,7 +18192,6 @@ dasypeltis
 daniel
 dinucleotide
 dorsulum
-diereses
 duncical
 delamination
 dharani
