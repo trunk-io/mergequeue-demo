@@ -760,7 +760,6 @@ betrays
 betterer
 bellybutton
 badland
-badlands
 buba
 bat
 brushcut
@@ -6453,6 +6452,7 @@ behoot
 blowup
 benzothiazine
 benzothiazoline
+badlands
 bitripartite
 bregmata
 benzothiodiazole
