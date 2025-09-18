@@ -4064,7 +4064,6 @@ bskt
 beamroom
 baragnosis
 blitzkrieged
-beams
 bantlings
 bean
 brickred
@@ -12241,6 +12240,7 @@ birdling
 blizzardy
 besmut
 broos
+beams
 brailling
 bolographic
 broggerite
