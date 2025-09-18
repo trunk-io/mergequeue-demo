@@ -23203,7 +23203,6 @@ chromatoid
 cowpath
 constitutiveness
 constitutor
-cassiri
 constr
 crucifixion
 commence
@@ -30735,6 +30734,7 @@ cuif
 cuifs
 cuinage
 cuing
+cassiri
 cuirassed
 catachrestical
 cuirasses
