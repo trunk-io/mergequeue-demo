@@ -1112,6 +1112,7 @@ clamworm
 columella
 calcinosis
 calciobiotite
+crownband
 calcioferrite
 ceratobranchial
 calcioscheelite
@@ -29194,7 +29195,6 @@ cryophyte
 criophore
 crannogs
 chlordiazepoxide
-crownband
 cryoscopy
 colloblast
 candock
