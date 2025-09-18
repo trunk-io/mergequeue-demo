@@ -16230,6 +16230,7 @@ daff
 densitometer
 dowitchers
 determinedness
+decidability
 dares
 demagogs
 decanters
@@ -16315,7 +16316,6 @@ downplay
 downplays
 dozenth
 disagreeable
-decidability
 douche
 diosmotic
 discredits
