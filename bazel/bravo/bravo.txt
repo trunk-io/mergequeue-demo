@@ -1969,7 +1969,6 @@ boardroom
 browns
 bronchoscopy
 brachydactyl
-byplace
 bulbous
 bombard
 ballocks
@@ -17332,6 +17331,7 @@ bunchily
 bunchiness
 buncoing
 berthing
+byplace
 brucellas
 blotches
 basilosaurus
