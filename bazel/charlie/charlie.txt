@@ -8590,7 +8590,6 @@ chancels
 chancemen
 corance
 conoscente
-chainbreak
 chancery
 chances
 chancewise
@@ -15216,6 +15215,7 @@ cathismata
 cladonioid
 catalyst
 cladophora
+chainbreak
 cladophoraceous
 clunk
 cladoptosis
