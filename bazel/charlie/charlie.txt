@@ -7641,7 +7641,6 @@ chairman
 cerebroganglionic
 cerebroid
 cirrhosed
-cerebromeningeal
 cerebromeningitis
 celiopyosis
 carduaceous
@@ -11855,6 +11854,7 @@ collyba
 chondrotomy
 chonk
 collaborate
+cerebromeningeal
 calfhood
 chontaquiro
 coasted
