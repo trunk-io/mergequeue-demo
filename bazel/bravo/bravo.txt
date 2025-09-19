@@ -8566,7 +8566,6 @@ biller
 blackeye
 brantcorn
 brawlis
-billeted
 bilabe
 boweries
 bankrider
@@ -13215,6 +13214,7 @@ baston
 boselaphus
 bannockburn
 blaoners
+billeted
 blackboy
 bosh
 boshbok
