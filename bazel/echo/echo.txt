@@ -13628,6 +13628,7 @@ empicture
 eliminates
 enfurrow
 epenthesis
+extrusory
 earths
 extenuations
 enskying
@@ -14146,7 +14147,6 @@ enigmatology
 escapists
 episcopising
 entredeux
-extrusory
 eof
 examinations
 ethmopalatine
