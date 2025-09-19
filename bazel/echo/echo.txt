@@ -3544,6 +3544,7 @@ ectoglia
 embosoming
 euchlaena
 embossage
+extratarsal
 embossed
 enbibe
 embossing
@@ -6719,7 +6720,6 @@ enthymematic
 exungulate
 effume
 ectosomal
-extratarsal
 esthesioneurosis
 exsuperate
 exhilarate
