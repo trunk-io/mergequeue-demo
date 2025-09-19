@@ -5952,6 +5952,7 @@ advect
 abortus
 aigrette
 acystia
+aeginetic
 antistes
 aggressivity
 aurorae
@@ -10801,7 +10802,6 @@ anticourtier
 aussie
 ammonical
 armatoli
-aeginetic
 ascendible
 ammonification
 autodepolymerization
