@@ -12250,6 +12250,7 @@ deathshot
 dervishes
 disfurniture
 donax
+disowning
 dashed
 disgarnish
 descartes
@@ -12541,7 +12542,6 @@ dols
 decerns
 dugout
 dungier
-disowning
 disinfecting
 denormalized
 disinfection
