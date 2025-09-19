@@ -5795,7 +5795,6 @@ agaze
 acceleratingly
 age
 ageable
-agallop
 agee
 aboulia
 ageing
@@ -11145,6 +11144,7 @@ aestivator
 achaenodon
 animally
 amphictyons
+agallop
 ajar
 anomatheca
 annuller
