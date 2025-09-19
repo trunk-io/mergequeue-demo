@@ -3090,7 +3090,6 @@ cap
 calandria
 capa
 conferrable
-capability
 charks
 capable
 capableness
@@ -21928,6 +21927,7 @@ cuspated
 conferences
 conferential
 conferral
+capability
 creodont
 conferred
 conferrence
