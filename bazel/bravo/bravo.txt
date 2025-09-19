@@ -662,7 +662,6 @@ brisk
 babua
 basos
 brioche
-bicorne
 bombo
 bungey
 biannual
@@ -9267,6 +9266,7 @@ batfowler
 brownie
 broncholithiasis
 baffle
+bicorne
 bewearied
 beshrewing
 blockader
