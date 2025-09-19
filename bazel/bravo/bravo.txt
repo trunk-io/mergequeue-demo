@@ -5262,7 +5262,6 @@ backmost
 bribability
 blastocyst
 begats
-bolters
 bastes
 bothsided
 begazing
@@ -12847,6 +12846,7 @@ betalk
 boomkin
 bibliophobia
 barquest
+bolters
 bootes
 baseboard
 burglary
