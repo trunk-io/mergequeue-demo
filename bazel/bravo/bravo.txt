@@ -13276,7 +13276,6 @@ bedstaff
 bokard
 brune
 bossily
-bowler
 boarish
 bosniac
 bucketfuls
@@ -14876,6 +14875,7 @@ brokers
 breakable
 breakaxe
 burning
+bowler
 blameable
 baja
 breakers
