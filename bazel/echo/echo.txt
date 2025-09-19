@@ -839,7 +839,6 @@ ectocarpus
 enquire
 eriophorum
 ectocoelic
-eosinophil
 ectocommensal
 ectocondylar
 endophytic
@@ -5598,6 +5597,7 @@ endent
 endocentric
 earnings
 encouraging
+eosinophil
 enforcively
 eirene
 extrovert
