@@ -5123,7 +5123,6 @@ bombable
 belching
 birchen
 borderers
-boussingaultite
 bunrakus
 beflecked
 bookless
@@ -10194,6 +10193,7 @@ broomy
 bassing
 bagmaking
 bitreadle
+boussingaultite
 blackguard
 bos
 benzenyl
