@@ -1041,7 +1041,6 @@ darnels
 destandardize
 diplohedral
 dishes
-diacodium
 deas
 dutra
 darner
@@ -16366,6 +16365,7 @@ dynastes
 daylight
 downslide
 describent
+diacodium
 downslip
 decibel
 downslope
