@@ -7811,7 +7811,6 @@ epigone
 epithelium
 evaporate
 exarchate
-exophoria
 eddish
 entomotaxy
 epigonic
@@ -10083,6 +10082,7 @@ ethenol
 ensorcelize
 ebb
 erythrosin
+exophoria
 explosives
 etheostominae
 elytroid
