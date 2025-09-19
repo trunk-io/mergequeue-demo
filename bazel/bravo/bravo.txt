@@ -3006,6 +3006,7 @@ barter
 blechnoid
 barters
 brujo
+bannerlike
 blood
 bullace
 bartholomewtide
@@ -15388,7 +15389,6 @@ brighid
 beaveries
 boisseau
 bilharziasis
-bannerlike
 brighten
 brainwork
 brightish
