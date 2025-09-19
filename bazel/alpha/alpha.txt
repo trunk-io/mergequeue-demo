@@ -4745,7 +4745,6 @@ aequorins
 anisomelia
 ammonolyze
 aerate
-anthracitic
 ablactating
 aerating
 albespine
@@ -8440,6 +8439,7 @@ alkalizer
 acuate
 alkalizing
 alkaloid
+anthracitic
 alkalosis
 alkalous
 alphorn
