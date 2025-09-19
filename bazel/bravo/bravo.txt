@@ -271,7 +271,6 @@ buckwasher
 beroe
 bacilli
 bacillian
-bacillicidal
 bacillicidic
 bacilliform
 bigamic
@@ -1948,6 +1947,7 @@ bacteriophage
 bandwidth
 bandworm
 boogiewoogie
+bacillicidal
 baylet
 baneberry
 benzoflavine
