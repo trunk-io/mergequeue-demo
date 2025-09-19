@@ -313,6 +313,7 @@ directories
 daybeacon
 dealbate
 daybed
+desalinized
 devchar
 disembowelment
 dissuasiveness
@@ -16202,7 +16203,6 @@ dispersions
 dromical
 dertra
 degas
-desalinized
 dowdy
 distent
 downsliding
