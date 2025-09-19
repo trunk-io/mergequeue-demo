@@ -2945,6 +2945,7 @@ blindeyes
 boundaries
 boobishness
 blobby
+bedrivel
 barricaded
 beltian
 benedicts
@@ -7586,7 +7587,6 @@ brakeages
 bibliophage
 bewhiten
 bifocals
-bedrivel
 breed
 bewhore
 bewidow
