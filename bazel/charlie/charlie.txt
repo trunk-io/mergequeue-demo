@@ -9200,7 +9200,6 @@ charwomen
 chase
 chaseable
 chased
-corbeilles
 chases
 chashitsu
 chasm
@@ -22535,6 +22534,7 @@ conjugales
 conjugality
 cv
 conjugatae
+corbeilles
 cyprinine
 conjugated
 conduplicated
