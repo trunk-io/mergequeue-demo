@@ -4279,6 +4279,7 @@ enamelless
 eluder
 enamels
 emit
+erode
 edibles
 enami
 estranging
@@ -9153,7 +9154,6 @@ ectoenzyme
 ectocinerea
 encolor
 ernes
-erode
 eosinophilic
 erodent
 extradite
