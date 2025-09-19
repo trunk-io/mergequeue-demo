@@ -953,6 +953,7 @@ anglophobe
 advocate
 aggregate
 allelotropy
+ancestries
 actinopoda
 aftercare
 algific
@@ -11447,7 +11448,6 @@ abhorrency
 agglomerant
 ascospore
 abbatical
-ancestries
 amosite
 authenticators
 antlia
