@@ -2714,6 +2714,7 @@ deconvolution
 dishwash
 devoured
 deconvolve
+depth
 desmon
 decor
 diplopic
@@ -6041,7 +6042,6 @@ disciplinability
 discommoded
 dept
 diaschistic
-depth
 dispraise
 droopy
 devitation
