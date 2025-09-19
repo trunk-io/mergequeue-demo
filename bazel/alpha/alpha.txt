@@ -3354,7 +3354,6 @@ antiperiodic
 assertors
 adapid
 apolytikion
-apeman
 autotransplant
 aliased
 adaptableness
@@ -23450,6 +23449,7 @@ augerer
 axiomatizes
 augers
 auget
+apeman
 augh
 aughtlins
 absolutistic
