@@ -7246,6 +7246,7 @@ centrism
 chalices
 clark
 cinemascope
+coverable
 comite
 cubicone
 crispen
@@ -27553,7 +27554,6 @@ coroplast
 creaturehood
 cover
 containable
-coverable
 coverages
 cuselite
 coverall
