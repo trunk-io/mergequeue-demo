@@ -13259,7 +13259,6 @@ cyclecar
 coralbells
 cyclecars
 causals
-crosspatch
 cyclers
 cycles
 convectional
@@ -16807,6 +16806,7 @@ cloudage
 cloudberry
 cloudcap
 cloudful
+crosspatch
 cacolike
 colouristic
 couthy
