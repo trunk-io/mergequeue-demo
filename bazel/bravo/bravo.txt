@@ -1819,6 +1819,7 @@ bivial
 beslime
 bullose
 bialystoker
+bufflehorn
 bandaged
 bandaging
 bowlin
@@ -13787,7 +13788,6 @@ bloat
 bescurf
 bootlegger
 burga
-bufflehorn
 bovaristic
 burgout
 bovate
