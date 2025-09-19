@@ -2388,6 +2388,7 @@ deciders
 dubitante
 disownment
 disguisements
+denotations
 diplontic
 dismantlement
 dayakker
@@ -16621,7 +16622,6 @@ dragonade
 denotative
 donjon
 dactylopius
-denotations
 decorations
 dispromise
 dragonesque
