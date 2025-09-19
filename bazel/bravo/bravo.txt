@@ -2550,7 +2550,6 @@ bardel
 barylalia
 beleaped
 bactrian
-backtalk
 barile
 barilla
 blackie
@@ -2736,6 +2735,7 @@ bismutoplagionite
 barolo
 bm
 bicolored
+backtalk
 benab
 bonneting
 bukeyef
