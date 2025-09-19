@@ -2397,7 +2397,6 @@ coffined
 canceled
 canceleer
 canceler
-cancellable
 contrasters
 cyprinidae
 cancellarius
@@ -24949,6 +24948,7 @@ corallium
 carminatives
 caterans
 craniacromial
+cancellable
 cordately
 cephadia
 codices
