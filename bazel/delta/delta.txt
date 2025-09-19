@@ -8318,7 +8318,6 @@ dagesh
 desonation
 digitation
 doombook
-dialyzer
 diagrams
 dentin
 db
@@ -8947,6 +8946,7 @@ dissolvability
 desex
 dichas
 dichasia
+dialyzer
 decolonizing
 distributiveness
 dichasium
