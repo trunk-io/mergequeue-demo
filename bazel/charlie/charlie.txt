@@ -11438,6 +11438,7 @@ creature
 chloroquine
 coronas
 camagon
+cliquier
 cyclamates
 cloudlessly
 counterpillar
@@ -26113,7 +26114,6 @@ cosmetic
 coelomocoela
 cosmetically
 calctufas
-cliquier
 custrel
 crummie
 cosmetics
