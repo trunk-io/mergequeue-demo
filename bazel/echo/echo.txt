@@ -3776,7 +3776,6 @@ emparl
 ethnohistorical
 extolled
 economic
-expletory
 emended
 ecu
 emending
@@ -10705,6 +10704,7 @@ euhemerising
 emeerate
 elenchic
 euhemerism
+expletory
 epitomizer
 endosmometer
 emplacement
