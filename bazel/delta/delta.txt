@@ -12823,7 +12823,6 @@ disconfirm
 dismayable
 dismayfully
 diathermancy
-doubty
 diploes
 dismail
 dismal
@@ -13343,6 +13342,7 @@ distillate
 destuffing
 daintier
 datism
+doubty
 dustpoint
 dispurvey
 disputability
