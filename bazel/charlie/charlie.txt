@@ -4864,7 +4864,6 @@ cetaceous
 carry
 carriageable
 carriageful
-clachans
 carriages
 crosstie
 carriagesmith
@@ -11366,6 +11365,7 @@ chlorofluoromethane
 ceylanite
 chloroformate
 churched
+clachans
 chalcophanite
 chloroformic
 conged
