@@ -10656,7 +10656,6 @@ diplonema
 deuteric
 detritus
 dunnaged
-diplont
 delisting
 diplonts
 diplophase
@@ -14377,6 +14376,7 @@ drug
 diurnals
 devaunt
 downstair
+diplont
 diurnule
 dimensuration
 doctrix
