@@ -4872,7 +4872,6 @@ aphanozygous
 arbitrating
 acetyltannin
 anticorrosives
-aeroelasticity
 aerofoil
 aerofoils
 aurrescu
@@ -22583,6 +22582,7 @@ arizonans
 abongo
 altimetrically
 acerbities
+aeroelasticity
 accordions
 atheneums
 aerates
