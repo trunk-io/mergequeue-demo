@@ -2627,7 +2627,6 @@ desalter
 decoloring
 disavowed
 diogenes
-deforce
 decolorising
 dispose
 decolors
@@ -12372,6 +12371,7 @@ dragomen
 dishabituated
 dishable
 debitable
+deforce
 discomedusoid
 discredited
 diaphototropic
