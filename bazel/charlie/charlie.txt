@@ -14647,7 +14647,6 @@ cystic
 cabuja
 conchoidal
 cysticercerci
-cysticerci
 chondrule
 cylindrite
 cysticercoidal
@@ -24044,6 +24043,7 @@ chubb
 conveniency
 conveniencies
 convenient
+cysticerci
 convening
 casing
 clocksmith
