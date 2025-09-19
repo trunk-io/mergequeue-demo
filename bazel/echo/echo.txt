@@ -473,6 +473,7 @@ enumerable
 eucommia
 ecclesiarch
 ecclesiarchy
+emcee
 extoll
 ecclesiast
 encephalomata
@@ -11491,7 +11492,6 @@ elegancies
 epicurean
 elastometer
 esthesis
-emcee
 enforced
 encheiria
 erotylid
