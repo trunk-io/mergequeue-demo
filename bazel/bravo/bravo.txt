@@ -1297,7 +1297,6 @@ bradycinesia
 biogasses
 bacao
 brochantite
-bury
 bedbug
 bedust
 boleite
@@ -11818,6 +11817,7 @@ basketworm
 boded
 bodefully
 bodegas
+bury
 buttes
 broiden
 baking
