@@ -15166,6 +15166,7 @@ chinsed
 clacker
 clackety
 clacking
+capillarities
 clacks
 clad
 confated
@@ -23833,7 +23834,6 @@ curricularize
 contrastimulus
 cowdie
 conflated
-capillarities
 contrastive
 contrastiveness
 chemicalization
