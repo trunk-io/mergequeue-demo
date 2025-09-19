@@ -6829,6 +6829,7 @@ cellaress
 chanceable
 caudal
 cellarmen
+chlorider
 cellars
 chirologies
 cellblock
@@ -20549,7 +20550,6 @@ condors
 compatible
 clouts
 compatibleness
-chlorider
 compatriotic
 chays
 compatriots
