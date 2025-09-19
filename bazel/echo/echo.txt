@@ -10191,6 +10191,7 @@ evicts
 envenomation
 ethician
 ethicians
+explant
 erroneous
 erotica
 emptores
@@ -12582,7 +12583,6 @@ exocoele
 excusing
 electrophoreses
 exocoelic
-explant
 epicardium
 electrostatics
 exocoelum
