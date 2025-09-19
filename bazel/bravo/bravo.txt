@@ -3551,7 +3551,6 @@ bathymetry
 bathymetrical
 bathing
 bastinadoes
-beckoning
 bridgekeeper
 bailiery
 balon
@@ -13557,6 +13556,7 @@ bepainted
 besnowed
 beatermen
 bouffancy
+beckoning
 beggarlice
 brunel
 biennale
