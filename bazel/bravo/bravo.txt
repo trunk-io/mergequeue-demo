@@ -141,7 +141,6 @@ boolian
 bacin
 bourne
 banister
-basidiocarp
 biocoenosis
 beeheaded
 beachcomb
@@ -4839,6 +4838,7 @@ buttercups
 brevicaudate
 bath
 boilerless
+basidiocarp
 brainstorm
 bedumbs
 baldacchini
