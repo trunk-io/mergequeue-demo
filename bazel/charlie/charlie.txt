@@ -13462,7 +13462,6 @@ culturing
 calindas
 crossarm
 cyclotome
-cyclotomic
 camisias
 cyclotomies
 cyclotosaurus
@@ -26356,6 +26355,7 @@ chasteness
 choleromania
 costs
 caddices
+cyclotomic
 costume
 chevrone
 costumed
