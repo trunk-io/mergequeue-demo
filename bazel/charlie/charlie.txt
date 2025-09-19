@@ -9544,6 +9544,7 @@ checkers
 cabbalah
 carpodacus
 cardanic
+cystolithiasis
 capos
 checkhook
 checky
@@ -14700,7 +14701,6 @@ cryptogenous
 confederations
 cystolith
 caduca
-cystolithiasis
 cystoma
 cystomas
 corpusculum
