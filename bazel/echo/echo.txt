@@ -3364,7 +3364,6 @@ embarks
 equipage
 exteroceptor
 equilibrium
-elohist
 em
 embarricado
 embarring
@@ -5215,6 +5214,7 @@ edginesses
 edificative
 euchroic
 exsected
+elohist
 enantiomeride
 extrascriptural
 escartelly
