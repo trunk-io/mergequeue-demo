@@ -6209,7 +6209,6 @@ enophthalmus
 executable
 enorm
 exhalations
-endopericarditis
 exhortator
 enorn
 enos
@@ -12326,6 +12325,7 @@ evectant
 exertionless
 estuate
 exertions
+endopericarditis
 ergate
 enurny
 exhibitory
