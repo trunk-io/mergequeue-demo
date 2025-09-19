@@ -2901,7 +2901,6 @@ alike
 acetometry
 augustest
 acrosome
-acrosomes
 anoints
 anisomeles
 anapnograph
@@ -16162,6 +16161,7 @@ agreeability
 archchemic
 appositeness
 araceous
+acrosomes
 antistreptococcin
 antiauthoritarian
 aerocharidae
