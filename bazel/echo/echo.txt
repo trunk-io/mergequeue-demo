@@ -7913,7 +7913,6 @@ endosmosis
 exudates
 exptl
 exordia
-encephalogram
 epimandibular
 enthrone
 epimanikia
@@ -10926,6 +10925,7 @@ entomologising
 epipteric
 essoiner
 eulogies
+encephalogram
 euphuize
 eupyrion
 eupittone
