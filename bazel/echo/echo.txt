@@ -5550,7 +5550,6 @@ enflaming
 epiklesis
 equuleus
 embryulcus
-enflower
 ectognatha
 equalization
 epidendrum
@@ -6558,6 +6557,7 @@ echiuroidea
 embattled
 eccles
 epimedium
+enflower
 ellipses
 enorthotrope
 electricity
