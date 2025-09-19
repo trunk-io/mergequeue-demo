@@ -6578,7 +6578,6 @@ caxiri
 clannish
 commissaries
 caxon
-caxton
 confluence
 caxtonian
 caza
@@ -18779,6 +18778,7 @@ colacobiotic
 convertors
 congo
 consists
+caxton
 colane
 clinching
 communist
