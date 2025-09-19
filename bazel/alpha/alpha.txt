@@ -7535,6 +7535,7 @@ astone
 alcazaba
 alcazar
 adamance
+antipart
 aerosiderite
 alce
 assibilate
@@ -9537,7 +9538,6 @@ altos
 altostratus
 axenic
 anticlericalist
-antipart
 antivolition
 alienor
 aesculetin
