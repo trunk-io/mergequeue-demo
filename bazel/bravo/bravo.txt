@@ -3019,7 +3019,6 @@ ballrooms
 barflies
 borts
 branglement
-bopping
 biomasses
 burgesses
 bartizans
@@ -16681,6 +16680,7 @@ bucketmaking
 basketfuls
 blithehearted
 bishopship
+bopping
 basilisk
 bilaan
 bakwiri
