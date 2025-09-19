@@ -12008,7 +12008,6 @@ collunarium
 consol
 cachina
 chorioallantoic
-chorioallantoid
 chorioallantois
 centrifugation
 cornbread
@@ -18866,6 +18865,7 @@ coleosporium
 colera
 coles
 coleslaw
+chorioallantoid
 cenobian
 commend
 contemplated
