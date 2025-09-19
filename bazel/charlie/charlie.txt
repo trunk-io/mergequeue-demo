@@ -7436,6 +7436,7 @@ cephalotaceae
 chalaziferous
 cephalotaxus
 cephalothoraxes
+conscripts
 cephalotomy
 corozo
 contrate
@@ -31151,7 +31152,6 @@ cupel
 cupeling
 clinometria
 cupeller
-conscripts
 cupellers
 cupflower
 centrode
