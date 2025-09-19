@@ -6157,7 +6157,6 @@ asarite
 acetocinnamene
 adiadochokinesia
 atellan
-activable
 amyluria
 aegerian
 aerolitics
@@ -9668,6 +9667,7 @@ alveated
 anteluminary
 alveole
 alveolectomy
+activable
 arachnomorphae
 accidie
 alveoliform
