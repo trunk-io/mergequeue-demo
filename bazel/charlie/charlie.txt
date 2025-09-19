@@ -6425,7 +6425,6 @@ conchfish
 cauterizer
 cauterizes
 caution
-cautionary
 couve
 cerebromedullary
 calcareosiliceous
@@ -12425,6 +12424,7 @@ celebe
 chromatophil
 chromatophile
 cothurni
+cautionary
 chromatophilic
 changemaker
 chromatophilous
