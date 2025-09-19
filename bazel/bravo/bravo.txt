@@ -2133,7 +2133,6 @@ bewield
 blandfordia
 botrychium
 backup
-blahlaut
 baptisias
 biddy
 bonehead
@@ -5181,6 +5180,7 @@ bellbind
 beardfish
 befriender
 bisulfite
+blahlaut
 blockout
 benignly
 blasphemously
