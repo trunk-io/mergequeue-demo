@@ -12644,7 +12644,6 @@ chronometer
 crom
 citolers
 chronometers
-chronometric
 chronometrically
 chronon
 choppily
@@ -30161,6 +30160,7 @@ crts
 coccinella
 commercia
 commissionated
+chronometric
 confections
 cannstatt
 crubeen
