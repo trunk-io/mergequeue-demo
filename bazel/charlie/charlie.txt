@@ -9163,6 +9163,7 @@ chartable
 charter
 charterer
 charterers
+costumist
 charterhouse
 chartering
 charterism
@@ -16502,7 +16503,6 @@ cathodic
 culbert
 cowichan
 citrange
-costumist
 chaunt
 cloakmaker
 constrainer
