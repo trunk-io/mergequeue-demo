@@ -51,7 +51,6 @@ enzyms
 excites
 exciton
 electroretinograph
-excursion
 eremite
 earjewel
 endothelium
@@ -11418,6 +11417,7 @@ ennedra
 emblic
 edibility
 epiperipheral
+excursion
 evese
 entheate
 embryotic
