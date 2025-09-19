@@ -22019,7 +22019,6 @@ configurative
 configure
 configures
 coxcombry
-confinable
 confine
 comports
 confined
@@ -26934,6 +26933,7 @@ counterly
 creeshie
 counterlight
 counterlilit
+confinable
 counterlove
 countermaid
 conflictingly
