@@ -7639,6 +7639,7 @@ cerebroid
 cirrhosed
 cerebromeningitis
 celiopyosis
+confuser
 carduaceous
 cerebrometer
 cerebron
@@ -22215,7 +22216,6 @@ confusability
 circummured
 confusedly
 confusedness
-confuser
 chickee
 confusion
 confusions
