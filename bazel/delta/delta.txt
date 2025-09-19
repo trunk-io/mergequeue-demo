@@ -8287,7 +8287,6 @@ ductus
 distrito
 diagnosed
 diagnostical
-diagnostically
 disenthroned
 diagnosticate
 denitrating
@@ -15720,6 +15719,7 @@ deflorescence
 dopping
 doppio
 dactyloscopy
+diagnostically
 dorab
 daiquiris
 divaporation
