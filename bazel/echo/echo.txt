@@ -3365,6 +3365,7 @@ embarks
 equipage
 exteroceptor
 equilibrium
+emulsified
 elohist
 em
 embarricado
@@ -7708,7 +7709,6 @@ equilibration
 expendability
 extrapopular
 epidemiologic
-emulsified
 elds
 ethylating
 egglike
