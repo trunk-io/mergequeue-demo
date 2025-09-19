@@ -6931,7 +6931,6 @@ clocklike
 celtuce
 closefisted
 cembalo
-cembalon
 curiousnesses
 cembalos
 chrome
@@ -20377,6 +20376,7 @@ commutable
 canada
 conjee
 clerks
+cembalon
 commutant
 commutated
 commutation
