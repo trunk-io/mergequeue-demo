@@ -6905,7 +6905,6 @@ cashbox
 celt
 celtiberi
 circularizers
-cofaster
 celtiberian
 cacidrosis
 celticize
@@ -30580,6 +30579,7 @@ commonition
 cubmaster
 cyrtoceratite
 cubocalcaneal
+cofaster
 cuboctahedron
 cubocube
 cashboy
