@@ -6311,6 +6311,7 @@ caulotaxis
 caulote
 cauls
 caum
+chapelgoer
 cauma
 condolences
 caumatic
@@ -9908,7 +9909,6 @@ candent
 chemoreception
 chemoreceptive
 chemoreceptivity
-chapelgoer
 chemoreceptor
 cryptographers
 crystallisation
