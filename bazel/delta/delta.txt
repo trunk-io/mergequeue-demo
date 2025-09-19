@@ -5510,6 +5510,7 @@ deorganize
 deregister
 disenablement
 deorsum
+disabusing
 deorsumversion
 deossification
 deuterostomatous
@@ -8250,7 +8251,6 @@ diadema
 depart
 diaderm
 diadic
-disabusing
 demurrer
 decouples
 dyadics
