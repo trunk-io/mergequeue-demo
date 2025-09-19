@@ -10038,7 +10038,6 @@ disentail
 disopinion
 dimoric
 demigoddess
-derv
 dimorph
 dimorphism
 dukker
@@ -10598,6 +10597,7 @@ diatomaceous
 discoblastula
 deafens
 diplocoria
+derv
 diploe
 disbalancement
 didrachmas
