@@ -3491,6 +3491,7 @@ bumbass
 bissext
 birdcall
 batched
+bihourly
 batcher
 bargemen
 bogging
@@ -14853,7 +14854,6 @@ bronchopulmonary
 blobbiness
 besliming
 bedewer
-bihourly
 bestializes
 bonetta
 breadmaker
