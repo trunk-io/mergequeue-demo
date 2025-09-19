@@ -5349,6 +5349,7 @@ ballroom
 begone
 boxlike
 begonia
+bequests
 byestreet
 begoniales
 ballisticians
@@ -6534,7 +6535,6 @@ boson
 bartramiaceae
 bactericidin
 buckeyes
-bequests
 beray
 buster
 bushelful
