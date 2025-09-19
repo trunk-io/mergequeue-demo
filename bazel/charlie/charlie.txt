@@ -2882,7 +2882,6 @@ canopy
 copesman
 canopid
 canopied
-canopies
 clarigate
 corticated
 canopying
@@ -19277,6 +19276,7 @@ collutory
 cimbia
 concealing
 collutoria
+canopies
 collutories
 cafeteria
 collutorium
