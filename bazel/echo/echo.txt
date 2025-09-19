@@ -1167,6 +1167,7 @@ excisemen
 entrochite
 edplot
 edrioasteroidea
+exite
 epipany
 edriophthalmatous
 extramental
@@ -12537,7 +12538,6 @@ extant
 epistemological
 exit
 exsects
-exite
 eranist
 extinction
 envied
