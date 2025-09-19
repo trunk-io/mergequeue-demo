@@ -9208,7 +9208,6 @@ corbeilles
 chases
 chashitsu
 chasm
-castigation
 cotonia
 chasma
 chasmed
@@ -15615,6 +15614,7 @@ classable
 coplanarity
 classbook
 classed
+castigation
 cyclicism
 classers
 classfellow
