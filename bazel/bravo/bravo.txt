@@ -5118,6 +5118,7 @@ brainier
 begirdle
 bombable
 belching
+birchen
 borderers
 boussingaultite
 bunrakus
@@ -8756,7 +8757,6 @@ bosc
 beagling
 behests
 barycentre
-birchen
 binal
 bedrown
 bungo
