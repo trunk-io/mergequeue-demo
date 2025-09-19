@@ -23358,6 +23358,7 @@ ceromez
 consumo
 cynosarges
 consumpted
+ctenostomata
 corrasive
 consumptional
 consumptions
@@ -30478,7 +30479,6 @@ ctenophore
 codesigning
 ctenophoric
 ctenoplana
-ctenostomata
 ctetology
 conidiiferous
 cto
