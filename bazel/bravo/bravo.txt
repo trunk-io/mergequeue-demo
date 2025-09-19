@@ -2309,7 +2309,6 @@ baobab
 biasways
 barbican
 breloque
-bathyscape
 barbicel
 bemitred
 barbicels
@@ -17651,6 +17650,7 @@ belady
 blowier
 barrelfish
 bonsai
+bathyscape
 bellipotent
 burke
 burked
