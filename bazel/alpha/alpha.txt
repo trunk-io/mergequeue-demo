@@ -2328,6 +2328,7 @@ amuse
 anthotropism
 amenity
 acidulate
+areometer
 acidulated
 aluminic
 alphabetiser
@@ -12112,7 +12113,6 @@ adverbial
 ablegates
 alcyonic
 alcaic
-areometer
 alkalinised
 anaxone
 anazoturia
