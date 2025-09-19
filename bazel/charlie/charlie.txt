@@ -3535,7 +3535,6 @@ captacula
 captain
 captaincy
 captaincies
-caprioled
 captainry
 captainship
 communistically
@@ -13295,6 +13294,7 @@ cauld
 coulometric
 crossrail
 cycloaliphatic
+caprioled
 capricorn
 cycloalkane
 cyclobothra
