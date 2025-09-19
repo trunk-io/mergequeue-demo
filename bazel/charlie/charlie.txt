@@ -2473,7 +2473,6 @@ cancrum
 cancrums
 cand
 candareen
-candelabra
 candelabras
 candelabrum
 corelatively
@@ -6710,6 +6709,7 @@ ceiling
 ceilings
 ceilingwards
 copiability
+candelabra
 celtophobia
 ceilometer
 couac
