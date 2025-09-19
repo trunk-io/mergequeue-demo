@@ -765,6 +765,7 @@ emotes
 echinal
 euomphalid
 egger
+energizers
 ecrase
 enclitic
 escort
@@ -5450,7 +5451,6 @@ euscaro
 edifier
 energize
 egging
-energizers
 empyromancy
 eosinophilia
 elasmosaurus
