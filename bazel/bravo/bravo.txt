@@ -10703,7 +10703,6 @@ blenching
 blend
 bestill
 blendwater
-bowhead
 blenheim
 besaiel
 bibl
@@ -13368,6 +13367,7 @@ bushelman
 bughouses
 bathyorographical
 benightedly
+bowhead
 brusquely
 bothersomely
 bothy
