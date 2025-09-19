@@ -188,7 +188,6 @@ boh
 baccalaureate
 baccalaureates
 baccalaureus
-baccara
 baroques
 bdrm
 bristleless
@@ -2869,6 +2868,7 @@ brushland
 barraging
 battologist
 bailer
+baccara
 braca
 battener
 bravoing
