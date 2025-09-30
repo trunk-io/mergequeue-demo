@@ -12484,7 +12484,6 @@ b
 bells
 boukit
 bescrawl
-booklists
 bisymmetrically
 budlike
 boohoo
@@ -12588,6 +12587,7 @@ brant
 brooklike
 boning
 bakemeat
+booklists
 bonita
 burse
 basilidan
