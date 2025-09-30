@@ -5017,7 +5017,6 @@ aurum
 amalaka
 albacores
 aerose
-articles
 ageratums
 agami
 alexinic
@@ -11734,6 +11733,7 @@ antar
 aphidid
 anosphrasia
 analcimite
+articles
 aggrieved
 ablutionary
 analemmas
