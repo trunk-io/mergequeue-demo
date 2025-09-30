@@ -5604,7 +5604,6 @@ aminoaciduria
 asquare
 aphthong
 amygdale
-avocative
 affrayed
 andabatarian
 ananas
@@ -15524,6 +15523,7 @@ antinaturalism
 antinaturally
 analcites
 aureately
+avocative
 antinegroism
 antinephritic
 anomoeomery
