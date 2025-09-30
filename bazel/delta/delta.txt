@@ -3321,7 +3321,6 @@ dolabre
 decigram
 dartrous
 definish
-decolored
 decapitalization
 definite
 definitely
@@ -6487,6 +6486,7 @@ danseusse
 desagrement
 demitone
 daringness
+decolored
 deplumation
 dictatrix
 deodara
