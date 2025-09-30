@@ -1227,7 +1227,6 @@ drivehead
 disembarkation
 defecating
 disemplane
-disobligation
 dateless
 datelessness
 denizate
@@ -5733,6 +5732,7 @@ dipl
 disrobe
 dentelliere
 deplaning
+disobligation
 dawdled
 drumler
 deplant
