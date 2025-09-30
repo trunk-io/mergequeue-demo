@@ -6376,6 +6376,7 @@ elaboration
 enrobed
 epist
 enunciator
+euphon
 eluvivia
 elapid
 ensemble
@@ -12566,7 +12567,6 @@ embrawn
 epsomite
 exocline
 etymologist
-euphon
 ethion
 exocoelar
 exocoele
