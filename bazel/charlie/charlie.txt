@@ -8183,7 +8183,6 @@ chahar
 chahars
 chai
 chay
-coordain
 comrogue
 chainage
 crepuscule
@@ -22022,6 +22021,7 @@ coexclusive
 clinohedrite
 configurating
 configuration
+coordain
 configurationally
 configurations
 configurative
