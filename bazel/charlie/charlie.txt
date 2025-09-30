@@ -10542,7 +10542,6 @@ chileans
 chylemia
 chiles
 chyles
-chiliadron
 chiliads
 connexity
 chiliahedron
@@ -15418,6 +15417,7 @@ clangors
 cappella
 clangour
 clangoured
+chiliadron
 clangouring
 cakewalks
 campings
