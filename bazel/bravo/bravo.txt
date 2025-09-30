@@ -13075,6 +13075,7 @@ borders
 borderland
 borderlander
 bagpipe
+bungwall
 beriber
 borderline
 bowgrace
@@ -17398,7 +17399,6 @@ bamboozler
 baetylic
 bungtown
 blithered
-bungwall
 bejewels
 bunyah
 butoxyl
