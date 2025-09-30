@@ -5252,6 +5252,7 @@ bothsided
 begazing
 bimasty
 borderer
+bakerdom
 bedabbling
 begem
 bridesmaiding
@@ -9546,7 +9547,6 @@ birthwort
 bitnet
 brandreth
 breviger
-bakerdom
 bis
 borussian
 bachelorize
