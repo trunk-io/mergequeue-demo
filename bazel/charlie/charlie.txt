@@ -6880,7 +6880,6 @@ cryptesthesia
 conscientiousness
 curares
 cytologist
-cellulitis
 cellulofibrous
 celluloid
 confabbing
@@ -7468,6 +7467,7 @@ ceramics
 cledge
 ceramium
 ceramographic
+cellulitis
 cinnamic
 canvass
 citified
