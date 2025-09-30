@@ -6720,6 +6720,7 @@ couac
 ceylonite
 ceils
 compound
+continuous
 counterquestion
 coathangers
 colligation
@@ -26407,7 +26408,6 @@ cotemporaries
 clubbable
 cozeiest
 circumsaturnian
-continuous
 cotenancy
 cotenant
 cotenants
