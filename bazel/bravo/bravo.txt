@@ -897,7 +897,6 @@ bookland
 bdellotomy
 bowstaff
 bagpipers
-bandyball
 bardiglio
 bismarine
 boscage
@@ -1916,6 +1915,7 @@ befuddles
 bonniest
 bework
 basilicae
+bandyball
 boreus
 bandsawn
 bandsman
