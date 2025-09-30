@@ -20894,7 +20894,6 @@ composer
 composita
 composite
 composited
-compositely
 composites
 compositing
 compositional
@@ -24540,6 +24539,7 @@ clr
 courtliness
 clavis
 copaivic
+compositely
 copaliferous
 copalite
 copalm
