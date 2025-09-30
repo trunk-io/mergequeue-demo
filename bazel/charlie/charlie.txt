@@ -9551,6 +9551,7 @@ carpodacus
 cardanic
 capos
 checkhook
+crosshaul
 checky
 cityful
 circularising
@@ -29938,7 +29939,6 @@ crosshatches
 cogwheel
 coadjutator
 crosshatching
-crosshaul
 crosshauling
 chipper
 crossings
