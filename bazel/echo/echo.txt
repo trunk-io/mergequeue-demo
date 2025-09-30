@@ -1159,7 +1159,6 @@ entrochite
 edplot
 edrioasteroidea
 exite
-epipany
 edriophthalmatous
 educand
 emulsive
@@ -5955,6 +5954,7 @@ encumbrancer
 equivaliant
 epizooty
 eudemon
+epipany
 ethrog
 equiexcellency
 expanding
