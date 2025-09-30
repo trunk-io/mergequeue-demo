@@ -2574,7 +2574,6 @@ embassies
 elysian
 electropathy
 electropathology
-electrophysiological
 eunectes
 electrocutioner
 ebulus
@@ -10187,6 +10186,7 @@ escargotieres
 edgebone
 ethicals
 errsyn
+electrophysiological
 esperantic
 esophagomycosis
 evicts
