@@ -2066,7 +2066,6 @@ bronchus
 bcf
 blesses
 bannerols
-bannisters
 birthmarks
 bioflavinoid
 bannock
@@ -13977,6 +13976,7 @@ bowwow
 bethels
 bumbershoot
 blitzes
+bannisters
 bibulosity
 becluster
 boxing
