@@ -1885,7 +1885,6 @@ bretwaldadom
 balant
 brooded
 branle
-bandle
 bedrel
 blastoff
 bushcraft
@@ -8956,6 +8955,7 @@ birddom
 backwardation
 beliked
 beautifiers
+bandle
 backwort
 blepharochalasis
 biogenesist
