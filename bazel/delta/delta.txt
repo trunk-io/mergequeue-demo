@@ -1751,7 +1751,6 @@ derogation
 deathtime
 diphenan
 diphyllobothrium
-deathtrap
 devocalization
 drof
 deathward
@@ -3022,6 +3021,7 @@ deeper
 dealings
 dies
 dismantling
+deathtrap
 deepfreeze
 dilettantish
 deepgoing
