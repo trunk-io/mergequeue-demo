@@ -5745,7 +5745,6 @@ dialysed
 disposit
 deplenish
 dialup
-depleteable
 decapodan
 ducape
 daftlike
@@ -9652,6 +9651,7 @@ dollie
 digressional
 digressive
 digressory
+depleteable
 dastard
 disencumbers
 dartsman
