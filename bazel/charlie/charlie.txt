@@ -7195,6 +7195,7 @@ caracas
 centranth
 centrarchid
 centrarchoid
+cholos
 clar
 compare
 centraxonial
@@ -11749,7 +11750,6 @@ cotemporarily
 chatterer
 chervils
 cushier
-cholos
 choloscopy
 cholterheaded
 choltry
