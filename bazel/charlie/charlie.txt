@@ -8485,7 +8485,6 @@ chammy
 calcydon
 citellus
 crookeder
-checkerboarded
 confiscator
 choribi
 cuttable
@@ -26621,6 +26620,7 @@ coulisses
 couloir
 coinmaking
 copperas
+checkerboarded
 cornbird
 cystectomies
 coulombmeter
