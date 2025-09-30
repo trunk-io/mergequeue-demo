@@ -1244,7 +1244,6 @@ accoutered
 acanthopodous
 aqueously
 acanthopteran
-acanthopterygian
 ascogone
 adversed
 apologise
@@ -19800,6 +19799,7 @@ agrologies
 armadilla
 armadillididae
 autumnal
+acanthopterygian
 animadverted
 antimedievalist
 antireform
