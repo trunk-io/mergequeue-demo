@@ -2936,7 +2936,6 @@ boundaries
 boobishness
 blobby
 bedrivel
-barricaded
 beltian
 benedicts
 binukau
@@ -4921,6 +4920,7 @@ badchan
 bouncing
 bitriseptate
 beehive
+barricaded
 busser
 bandy
 beek
