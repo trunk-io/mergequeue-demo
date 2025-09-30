@@ -3490,7 +3490,6 @@ enured
 epigonichthyidae
 embolectomy
 enicuridae
-emboli
 ergastulum
 embolimeal
 ecumenism
@@ -9331,6 +9330,7 @@ eruptiveness
 evermo
 endear
 earable
+emboli
 eruptivity
 echinuliform
 effierce
