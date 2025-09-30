@@ -11986,6 +11986,7 @@ boglet
 beckelite
 bolts
 bogmire
+bothridiums
 borine
 baggit
 bedwarf
@@ -17274,7 +17275,6 @@ baubles
 bumicky
 blotched
 bumkin
-bothridiums
 beating
 burseed
 berretta
