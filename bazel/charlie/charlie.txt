@@ -6068,7 +6068,6 @@ coversine
 cathud
 catydid
 continuos
-cyclicity
 catiline
 cating
 cativo
@@ -15645,6 +15644,7 @@ classicality
 chaya
 classicise
 chromophoric
+cyclicity
 classicism
 classicist
 classicists
