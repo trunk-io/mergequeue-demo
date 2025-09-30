@@ -277,6 +277,7 @@ eightsmen
 electrostatic
 encashed
 electroplated
+electrovital
 expiries
 easterling
 enqueue
@@ -6880,7 +6881,6 @@ eruca
 exudation
 exarchal
 elasticize
-electrovital
 escudos
 embonpoint
 ephoric
