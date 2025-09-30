@@ -804,7 +804,6 @@ caids
 cayenne
 cucurbits
 cooption
-completes
 cytophagy
 cayenned
 contouring
@@ -2826,6 +2825,7 @@ canoes
 cardiogenesis
 cryptoanalyst
 cukes
+completes
 canoewood
 coincident
 cuprammonium
