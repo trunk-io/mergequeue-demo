@@ -9420,6 +9420,7 @@ compart
 chavicin
 chomp
 chiot
+cutover
 chavicol
 cautelousness
 cowedly
@@ -19263,7 +19264,6 @@ clay
 classifier
 collum
 corbed
-cutover
 collun
 couthe
 collunaria
