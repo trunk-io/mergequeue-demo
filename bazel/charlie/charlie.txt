@@ -3718,7 +3718,6 @@ clawlike
 carapine
 canvasback
 cucumaria
-coraji
 carara
 cheneaux
 carat
@@ -10053,6 +10052,7 @@ chlorioninae
 capharnaism
 cherrying
 cherrylike
+coraji
 colyumist
 cherrystone
 cherrystones
