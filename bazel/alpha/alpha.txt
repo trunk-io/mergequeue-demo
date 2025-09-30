@@ -4597,7 +4597,6 @@ aeacides
 aechmophorus
 ayegreen
 americanisms
-apollo
 aecidial
 aecidioform
 andesitic
@@ -22797,6 +22796,7 @@ antidyscratic
 atomic
 alkalemia
 administratress
+apollo
 atomically
 aphis
 atomician
