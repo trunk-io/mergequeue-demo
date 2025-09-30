@@ -5611,7 +5611,6 @@ bewigs
 barbitone
 businessmen
 bardes
-byelaws
 beladying
 buzzwig
 brokenness
@@ -13818,6 +13817,7 @@ bogs
 boatful
 bovld
 brontide
+byelaws
 brachydactyly
 bait
 bowback
