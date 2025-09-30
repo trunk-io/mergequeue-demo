@@ -875,7 +875,6 @@ eigenfunction
 erythrocytolysin
 electrocution
 encomiastical
-endophyte
 entailed
 ectomorph
 ectoparasite
@@ -3447,6 +3446,7 @@ emblazes
 envies
 evelight
 emblazoned
+endophyte
 emblazoner
 emblazonments
 exolete
