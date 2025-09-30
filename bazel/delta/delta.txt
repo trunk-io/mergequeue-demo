@@ -2438,7 +2438,6 @@ degorder
 decimetre
 demoid
 decimolar
-drainpipe
 diplacusis
 daker
 decimole
@@ -14087,6 +14086,7 @@ dolichocephalic
 distributer
 distributing
 dispace
+drainpipe
 distribution
 decretum
 dragnets
