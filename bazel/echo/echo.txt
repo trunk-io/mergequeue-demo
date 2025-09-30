@@ -4468,7 +4468,6 @@ exterminator
 encephalomas
 escudo
 encephalomeningocele
-evenglome
 endoerythrocytic
 entothorax
 encephalomyelitic
@@ -8063,6 +8062,7 @@ epiploce
 exacum
 epiplocele
 emda
+evenglome
 epiploitis
 embryoscopic
 enthuse
