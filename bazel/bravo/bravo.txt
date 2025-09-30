@@ -12301,6 +12301,7 @@ bombinae
 backwardly
 boltwork
 bolus
+burked
 bomb
 barratrous
 bombacaceae
@@ -17654,7 +17655,6 @@ bonsai
 bathyscape
 bellipotent
 burke
-burked
 bonnetman
 belletrists
 blithebread
