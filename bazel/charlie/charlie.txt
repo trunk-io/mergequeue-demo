@@ -19714,7 +19714,6 @@ cohesion
 chlordan
 comanches
 comandantes
-crucifige
 comandanti
 cutis
 catocala
@@ -27293,6 +27292,7 @@ countries
 closelipped
 caravanner
 counterpoles
+crucifige
 crebrity
 countrification
 cohoshes
