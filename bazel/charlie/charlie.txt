@@ -7200,7 +7200,6 @@ centraxonial
 centre
 clinoaxis
 cpo
-centreboard
 centred
 centref
 centreless
@@ -15510,6 +15509,7 @@ conducement
 clarain
 camelidae
 clare
+centreboard
 corrodible
 clarence
 civilizational
