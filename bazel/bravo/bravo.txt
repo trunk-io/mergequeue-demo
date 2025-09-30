@@ -2693,6 +2693,7 @@ butein
 bottomries
 batch
 beadflush
+baron
 bemaul
 barnman
 braconids
@@ -11798,7 +11799,6 @@ barcas
 benefactrixes
 boccie
 backstring
-baron
 bluefish
 bocconia
 byrl
