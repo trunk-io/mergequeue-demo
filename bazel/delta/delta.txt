@@ -1209,7 +1209,6 @@ disinvolve
 dextrans
 datary
 dataries
-depeach
 datasetname
 dithers
 datcha
@@ -18559,6 +18558,7 @@ dappled
 durrin
 durrs
 durukuli
+depeach
 disanimated
 dyslexic
 disbarment
