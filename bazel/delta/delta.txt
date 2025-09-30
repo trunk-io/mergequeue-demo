@@ -2392,7 +2392,6 @@ deciders
 dubitante
 disownment
 disguisements
-denotations
 diplontic
 dismantlement
 dayakker
@@ -7238,6 +7237,7 @@ dehiscence
 demultiplexing
 detainee
 detaining
+denotations
 disinfecter
 detar
 detassel
