@@ -2181,7 +2181,6 @@ achondroplasia
 agrostology
 asthenology
 alqueire
-amyelotrophy
 achordata
 antiagglutinative
 aetosaur
@@ -21479,6 +21478,7 @@ anapnoeic
 aspy
 actinozoan
 aspics
+amyelotrophy
 anciennete
 aspidiaria
 aspidinol
