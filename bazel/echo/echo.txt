@@ -3450,7 +3450,6 @@ emblazoned
 emblazoner
 emblazonments
 exolete
-elastic
 electrets
 escandalize
 epirotic
@@ -7525,6 +7524,7 @@ endungeon
 eaceworm
 ecuelle
 eudaimonism
+elastic
 eulamellibranch
 epicanthus
 epicardia
