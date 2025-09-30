@@ -6847,6 +6847,7 @@ airscapes
 airscrews
 afterwisdom
 airships
+avigators
 asarta
 anaitis
 airsickness
@@ -19826,7 +19827,6 @@ autoskeleton
 antigalactic
 acaudelescent
 attachable
-avigators
 arguendo
 armangite
 aminovaleric
