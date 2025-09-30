@@ -3497,7 +3497,6 @@ bogglish
 broadax
 batete
 brabbling
-balotade
 blue
 byroads
 batfishes
@@ -6464,6 +6463,7 @@ broached
 bletted
 burge
 backdate
+balotade
 bellon
 bepatched
 bettergates
