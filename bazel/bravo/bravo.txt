@@ -2617,7 +2617,6 @@ barkless
 battening
 bandusia
 barkometer
-bescorch
 batrachite
 beeth
 barlafumble
@@ -18140,6 +18139,7 @@ betutor
 babuina
 buteonine
 boisseaux
+bescorch
 bleachground
 bacillite
 balsamize
