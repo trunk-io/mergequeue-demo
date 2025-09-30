@@ -3116,7 +3116,6 @@ ascidian
 allotment
 atlases
 allometric
-automaker
 actinopteri
 aviary
 accentuated
@@ -9031,6 +9030,7 @@ alloxan
 absterged
 alloxans
 anthesis
+automaker
 anticlnoria
 anthracoid
 alloxuraemia
