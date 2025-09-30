@@ -1961,6 +1961,7 @@ brachydactyl
 byplace
 bulbous
 bombard
+beamless
 ballocks
 banghy
 basilicas
@@ -7011,7 +7012,6 @@ basilian
 besmouch
 bacteritic
 besmudge
-beamless
 bronzite
 besmudges
 baalist
