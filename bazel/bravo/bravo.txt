@@ -6065,6 +6065,7 @@ biochemistries
 benasty
 beholdable
 bedrift
+barbouillage
 buccinidae
 bataan
 boarskin
@@ -16453,7 +16454,6 @@ bollixed
 brushful
 brushier
 bunkoed
-barbouillage
 bluenoser
 bloodshotten
 bendys
