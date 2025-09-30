@@ -1560,6 +1560,7 @@ bandobust
 ballised
 biradial
 britches
+banatite
 binate
 ballista
 boilermaker
@@ -8432,7 +8433,6 @@ bikkurim
 bloodworm
 balkier
 biogenous
-banatite
 blackwood
 burp
 bedarkened
