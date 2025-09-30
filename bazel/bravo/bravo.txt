@@ -3017,7 +3017,6 @@ beachhead
 bartonella
 backswordsman
 bookbinderies
-bubba
 bartree
 banish
 beetmister
@@ -4416,6 +4415,7 @@ bandleader
 becloak
 bereavement
 boojum
+bubba
 beclog
 becoiffed
 bracketed
