@@ -9747,7 +9747,6 @@ amalgamatize
 anointer
 acmite
 amalgamist
-achromatic
 apostrophes
 amperage
 attended
@@ -20274,6 +20273,7 @@ antireformist
 aphides
 akasha
 abbe
+achromatic
 animalcula
 allosteric
 arrivism
