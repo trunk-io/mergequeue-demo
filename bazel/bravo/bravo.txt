@@ -669,6 +669,7 @@ bathyesthesia
 baculine
 boiseries
 baculoid
+bifilar
 baculus
 badaga
 badarian
@@ -8207,7 +8208,6 @@ bootleger
 bedress
 bergmannite
 broadwayite
-bifilar
 bifilarly
 biflabellate
 bullheadedly
