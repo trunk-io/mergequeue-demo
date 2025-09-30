@@ -5171,7 +5171,6 @@ dendron
 druffen
 dindled
 downgrading
-deletion
 drills
 dismayingly
 dingeys
@@ -15110,6 +15109,7 @@ dottrels
 dorlot
 dungeons
 doghead
+deletion
 doghood
 doghouse
 dogie
