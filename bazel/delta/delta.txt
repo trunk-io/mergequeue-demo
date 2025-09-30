@@ -4144,7 +4144,6 @@ departments
 delimitized
 diplomyelia
 deline
-dishonourably
 dissoluteness
 drivelled
 dorsicolumn
@@ -5654,6 +5653,7 @@ deperms
 disserves
 dichromatopsia
 depersonalise
+dishonourably
 depersonalising
 desponded
 depersonalized
