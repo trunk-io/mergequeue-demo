@@ -5276,7 +5276,6 @@ eliminability
 endosclerite
 extrahepatic
 eurybathic
-endoscope
 endoscopes
 equivocalities
 eradicators
@@ -13438,6 +13437,7 @@ expressway
 extraretinal
 existentialists
 exencephalous
+endoscope
 endocranial
 euprepia
 echinosphaeritidae
