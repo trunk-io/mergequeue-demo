@@ -2018,6 +2018,7 @@ bv
 beflecking
 bank
 bankalachi
+biquartz
 bidactyl
 bloodstones
 bankcard
@@ -12288,7 +12289,6 @@ bunga
 blee
 bombaster
 bowfront
-biquartz
 brogans
 biflected
 boltrope
