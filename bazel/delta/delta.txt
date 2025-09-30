@@ -10935,7 +10935,6 @@ dereference
 deployed
 disable
 denazify
-disabled
 doorplates
 defrayer
 deterges
@@ -14007,6 +14006,7 @@ druggister
 distorters
 distress
 distorting
+disabled
 dactylioglyphy
 decasualising
 disruptionist
