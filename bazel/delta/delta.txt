@@ -8050,7 +8050,6 @@ dialects
 defences
 derbylite
 defenestration
-doylt
 dietician
 duomi
 dispersion
@@ -13391,6 +13390,7 @@ disunited
 doability
 djinn
 disquisitorial
+doylt
 diazoamin
 depression
 deevey
