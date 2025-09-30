@@ -11940,6 +11940,7 @@ congenitalness
 chordamesoderm
 chordamesodermal
 chordamesodermic
+comparableness
 chordate
 chorded
 chordee
@@ -20476,7 +20477,6 @@ companionizing
 callousing
 corycavine
 chirpiness
-comparableness
 comparably
 cionotome
 comparascope
