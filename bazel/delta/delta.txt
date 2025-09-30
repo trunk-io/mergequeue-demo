@@ -330,7 +330,6 @@ daybooks
 daphne
 diapalma
 deckman
-desand
 desquamative
 dunkadoo
 demobs
@@ -14595,6 +14594,7 @@ digitalein
 desalinize
 divergenge
 dondine
+desand
 divisorial
 diesinking
 divisural
