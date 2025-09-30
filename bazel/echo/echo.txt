@@ -7148,7 +7148,6 @@ enwheels
 enwinding
 elemis
 entomoid
-emboltement
 equine
 enwing
 ecclesiasticus
@@ -13652,6 +13651,7 @@ exteriorisation
 entapophysis
 epithem
 exteriority
+emboltement
 elfic
 extensional
 enphytotic
