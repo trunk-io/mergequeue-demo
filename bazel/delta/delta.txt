@@ -1562,6 +1562,7 @@ demand
 diplomata
 disposition
 determinatively
+dool
 desitive
 disembody
 deadlocking
@@ -15617,7 +15618,6 @@ demeanors
 deconcatenate
 drying
 determinedly
-dool
 duumviri
 deviable
 doolfu
