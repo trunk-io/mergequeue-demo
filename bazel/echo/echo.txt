@@ -3861,7 +3861,6 @@ enalid
 examinability
 epiglottis
 endexine
-emissory
 emitting
 entamebas
 electropathic
@@ -5874,6 +5873,7 @@ emotionalise
 enhancing
 enharbour
 electrometallurgy
+emissory
 exocytosis
 enigmatically
 endsweep
