@@ -1478,7 +1478,6 @@ dracma
 dc
 donmeh
 dcb
-depressure
 deaccessioning
 drawbolt
 dingbats
@@ -15783,6 +15782,7 @@ deproceduring
 dormers
 dormette
 dormeuse
+depressure
 dormice
 dormilona
 dormitive
