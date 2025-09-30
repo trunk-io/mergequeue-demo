@@ -14555,7 +14555,6 @@ cirrostratus
 cappagh
 conscription
 cassatas
-counterpuncher
 cirsectomies
 cirsoid
 cirsomphalos
@@ -26567,6 +26566,7 @@ culicids
 cymbaled
 chemosis
 clingers
+counterpuncher
 conjecturable
 cheverons
 coucal
