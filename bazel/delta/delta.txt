@@ -4082,7 +4082,6 @@ denier
 darknesses
 dismissible
 delicatessen
-dynam
 dustoor
 dominance
 delice
@@ -5247,6 +5246,7 @@ dis
 dellenite
 demicoronal
 dryopes
+dynam
 distortedness
 denominate
 decadent
