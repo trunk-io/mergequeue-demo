@@ -675,7 +675,6 @@ aboriginality
 aboriginary
 atelene
 aborigines
-abort
 alderfly
 anser
 aborted
@@ -20333,6 +20332,7 @@ agoraphobiac
 arsenicked
 assimilated
 asepticizing
+abort
 afterwards
 azofy
 aguilawood
