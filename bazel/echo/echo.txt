@@ -11503,7 +11503,6 @@ explosion
 evincive
 excavationist
 echnida
-evite
 evited
 extempory
 emissi
@@ -12113,6 +12112,7 @@ excruciator
 ennomic
 excubitoria
 eradicator
+evite
 entwisting
 excud
 europeanize
