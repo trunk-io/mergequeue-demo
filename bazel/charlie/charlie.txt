@@ -16548,7 +16548,6 @@ clockhouse
 clockless
 cuon
 clockmaker
-cryophorus
 clockmaking
 crewer
 clockwatcher
@@ -21624,6 +21623,7 @@ condemn
 convent
 condemnations
 condemnatory
+cryophorus
 chichimecan
 clour
 crustiness
