@@ -9192,6 +9192,7 @@ biotypic
 boubou
 biotypology
 biotites
+buttonhold
 bromcamphor
 bruja
 biotome
@@ -10531,7 +10532,6 @@ blastoporal
 blastosphere
 balanus
 bromal
-buttonhold
 belligerent
 badasses
 blastula
