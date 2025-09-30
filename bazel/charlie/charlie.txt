@@ -14411,7 +14411,6 @@ conferring
 cevadilla
 conamed
 circumrotate
-circumrotated
 cuneonavicular
 circumrotatory
 circumsail
@@ -28929,6 +28928,7 @@ canular
 crewman
 crewmanship
 crewmen
+circumrotated
 crewneck
 capsheaf
 chaetognathan
