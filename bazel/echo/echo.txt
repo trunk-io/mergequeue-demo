@@ -2593,7 +2593,6 @@ epithelize
 exothecate
 electrophoretogram
 expansure
-exturb
 estimated
 eave
 eu
@@ -9909,6 +9908,7 @@ enskies
 extravertive
 effemination
 expiatoriness
+exturb
 encoder
 economizer
 eiresione
