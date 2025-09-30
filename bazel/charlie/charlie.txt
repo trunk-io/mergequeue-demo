@@ -2050,7 +2050,6 @@ camouflagers
 camouflagic
 coincidence
 companionship
-cruddle
 camouflaging
 combats
 chandlery
@@ -5297,6 +5296,7 @@ cassidid
 cassididae
 cotsetla
 cassidulina
+cruddle
 cassiduloid
 charterage
 cassiepeia
