@@ -7197,6 +7197,7 @@ compare
 centraxonial
 centre
 clinoaxis
+cpo
 centreboard
 centred
 centref
@@ -27861,7 +27862,6 @@ clitoridean
 contractus
 cpd
 chemurgic
-cpo
 cpt
 cpus
 contractional
