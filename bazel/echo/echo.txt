@@ -937,7 +937,6 @@ exculpatory
 extravagated
 exarillate
 eyelashes
-ectromelus
 efreet
 equipping
 endowments
@@ -4745,6 +4744,7 @@ extracardial
 encloister
 extend
 endosporously
+ectromelus
 emeried
 epencephalon
 emboite
