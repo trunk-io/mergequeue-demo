@@ -15675,7 +15675,6 @@ chaldaei
 creat
 churners
 classifying
-classiness
 citigrade
 clues
 classists
@@ -29618,6 +29617,7 @@ crizzled
 cro
 conventionalizing
 croak
+classiness
 croqueting
 conceptually
 computerlike
