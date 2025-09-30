@@ -1296,7 +1296,6 @@ biogasses
 bacao
 brochantite
 bedbug
-bedust
 boleite
 bacterioprecipitin
 beltings
@@ -16891,6 +16890,7 @@ barbu
 bivalves
 bulbil
 barvell
+bedust
 bufotalin
 bufotoxin
 biconcavity
