@@ -861,7 +861,6 @@ cays
 caisse
 caissons
 caite
-colligance
 caitif
 charque
 caitiffs
@@ -27025,6 +27024,7 @@ counterpaned
 countersuggestion
 counterparry
 counterpart
+colligance
 counterpassant
 counterpendent
 culpa
