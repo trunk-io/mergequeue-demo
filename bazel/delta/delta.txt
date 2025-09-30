@@ -940,7 +940,6 @@ dauts
 darac
 detachers
 directives
-dewed
 dures
 darb
 darby
@@ -2683,6 +2682,7 @@ detectaphone
 demiplacate
 dogies
 duckies
+dewed
 dcollet
 deconcentrate
 dhurnas
