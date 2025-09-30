@@ -2862,7 +2862,6 @@ deperm
 desensitizations
 dramatizations
 donors
-dynatron
 decumanus
 daphnin
 dolomitised
@@ -10023,6 +10022,7 @@ dodged
 deeplier
 deaerates
 didactics
+dynatron
 dramaturgist
 diminutions
 deener
