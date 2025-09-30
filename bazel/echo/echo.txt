@@ -3346,6 +3346,7 @@ enteropneustal
 estimator
 equivocally
 exotism
+eccoproticophoric
 exacters
 emphase
 egoist
@@ -4777,7 +4778,6 @@ entranceway
 entypies
 enduro
 epidosite
-eccoproticophoric
 escape
 erugate
 estrogenicity
