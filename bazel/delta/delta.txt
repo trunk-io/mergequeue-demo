@@ -6362,7 +6362,6 @@ dephlegmatory
 dermenchysis
 delacrimation
 dermestid
-dermatoneural
 dextrogyration
 deject
 disseminating
@@ -11024,6 +11023,7 @@ disagreeing
 disagreements
 discrowned
 disrelation
+dermatoneural
 discircumspection
 disagreing
 dethronable
