@@ -4611,7 +4611,6 @@ abodah
 aechmophorus
 ayegreen
 americanisms
-aecidial
 aecidioform
 andesitic
 abjunctive
@@ -22198,6 +22197,7 @@ astraean
 ashberry
 arthrobranch
 ateuchus
+aecidial
 astragali
 anathem
 altimetrical
