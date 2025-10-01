@@ -16886,7 +16886,6 @@ cloverleaves
 cloverley
 cycadophyte
 cloverroot
-crepitus
 clovewort
 castling
 coauditor
@@ -24648,6 +24647,7 @@ copydesk
 copier
 cerebrogalactose
 copies
+crepitus
 copyfitter
 comvia
 copyfitting
