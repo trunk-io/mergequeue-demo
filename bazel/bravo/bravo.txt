@@ -304,7 +304,6 @@ benignancies
 bourgeoises
 backarrows
 ballistocardiograph
-backbar
 bedright
 birkenhead
 biolith
@@ -4650,6 +4649,7 @@ barlows
 bedford
 bedframes
 broomed
+backbar
 bowdlerizes
 balayeuse
 bedgoer
