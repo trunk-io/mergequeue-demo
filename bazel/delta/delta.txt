@@ -8252,7 +8252,6 @@ divers
 damasked
 dissectors
 dulcor
-deaeration
 diorism
 diadochic
 diadochite
@@ -15457,6 +15456,7 @@ dijudication
 demibarrel
 denumerant
 damoisel
+deaeration
 dines
 diclinic
 dominick
