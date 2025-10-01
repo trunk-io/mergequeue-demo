@@ -14620,7 +14620,6 @@ chateaubriand
 clefs
 chang
 cissus
-cist
 clarkeite
 cankerwort
 chamoised
@@ -23640,6 +23639,7 @@ cytostome
 continuers
 continuing
 corseleted
+cist
 columns
 continuingly
 continuity
