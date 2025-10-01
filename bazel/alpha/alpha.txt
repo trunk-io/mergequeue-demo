@@ -1452,6 +1452,7 @@ angletwitch
 amphidiscophora
 accinge
 append
+ambisyllabic
 agorot
 anesthesiologists
 aphyllose
@@ -13759,7 +13760,6 @@ anaptyctic
 anophthalmos
 anopia
 amusable
-ambisyllabic
 altimeter
 autosomatognostic
 audiogram
