@@ -7976,7 +7976,6 @@ absi
 aleurone
 aleuronic
 aleut
-antisymmetrical
 aviations
 alevin
 acardiac
@@ -20955,6 +20954,7 @@ agaz
 alegars
 asclepiad
 asporous
+antisymmetrical
 asclepiadae
 ashmen
 aircheck
