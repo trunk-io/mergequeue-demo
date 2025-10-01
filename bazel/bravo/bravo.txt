@@ -6407,7 +6407,6 @@ belgium
 benzoglycolic
 benzoglyoxaline
 bastioned
-benzohydrol
 benzoylated
 becuna
 benzoylation
@@ -15530,6 +15529,7 @@ bitwise
 bimas
 beadlet
 bryony
+benzohydrol
 biedermeier
 buglet
 bryonia
