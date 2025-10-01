@@ -5892,7 +5892,6 @@ exclave
 eftest
 enheart
 enhearten
-echinoderes
 exantlation
 endobronchially
 exhilaration
@@ -6665,6 +6664,7 @@ enterosepsis
 enterotome
 enterotoxemia
 elaenia
+echinoderes
 enterotoxication
 evenmindedness
 enlight
