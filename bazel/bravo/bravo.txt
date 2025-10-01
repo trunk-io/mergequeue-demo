@@ -4593,7 +4593,6 @@ bedchair
 bedchairs
 bellowing
 buntal
-branchial
 brachelytrous
 bedcovers
 blader
@@ -8626,6 +8625,7 @@ bioactivity
 brickset
 bronchial
 bailout
+branchial
 belatedly
 beeswinged
 becowards
