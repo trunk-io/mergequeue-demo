@@ -1863,7 +1863,6 @@ batukite
 bishoplike
 biostatics
 bougeron
-bandit
 beshrew
 bretwaldadom
 balant
@@ -10538,6 +10537,7 @@ bashlik
 blastoporal
 blastosphere
 balanus
+bandit
 bromal
 belligerent
 badasses
