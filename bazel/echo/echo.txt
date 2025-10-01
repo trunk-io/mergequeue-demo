@@ -1482,7 +1482,6 @@ ensphered
 exonarthex
 epics
 edificator
-endosiphonate
 equippers
 estivate
 eclegme
@@ -11807,6 +11806,7 @@ ectothermic
 exists
 exauthorate
 exauthorizeexc
+endosiphonate
 exceptio
 epileptics
 eplot
