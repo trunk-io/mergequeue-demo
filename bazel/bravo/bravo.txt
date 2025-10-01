@@ -4277,6 +4277,7 @@ bebreech
 backcourtman
 bebrother
 blouselike
+blastomycete
 bebrush
 bebuttoned
 broilers
@@ -10511,7 +10512,6 @@ backcourt
 bodywood
 burin
 blastomyces
-blastomycete
 benignities
 beadsmen
 blastoneuropore
