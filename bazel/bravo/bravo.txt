@@ -2718,7 +2718,6 @@ backward
 boylas
 beltline
 byrrus
-bullbat
 backset
 bismutoplagionite
 barolo
@@ -12336,6 +12335,7 @@ bramantesque
 bombardments
 bombline
 bowdrill
+bullbat
 bombast
 buglers
 bandurrias
