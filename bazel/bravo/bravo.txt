@@ -7546,7 +7546,6 @@ bestower
 bogwood
 betaine
 businessman
-bevil
 bevillain
 befell
 bigeye
@@ -14439,6 +14438,7 @@ brothellike
 brainlessness
 bacteroides
 bicyclo
+bevil
 babbittian
 braggadocios
 bisischiadic
