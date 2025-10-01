@@ -1001,6 +1001,7 @@ edaphosaurus
 explosibility
 encapsules
 euthanasic
+equilibriate
 eo
 enterocinetic
 epoxide
@@ -8588,7 +8589,6 @@ equilibrates
 ethylamide
 egol
 equilibria
-equilibriate
 ergasia
 equilibrious
 extraliminal
