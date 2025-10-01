@@ -927,6 +927,7 @@ argify
 absolvatory
 absolve
 absolvent
+acanthoma
 arteriotome
 azote
 absolving
@@ -13614,7 +13615,6 @@ adulterateness
 acquired
 apoferritin
 accidentiality
-acanthoma
 anodal
 amnesiacs
 abend
