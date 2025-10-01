@@ -6922,7 +6922,6 @@ extrapolations
 endarteria
 election
 entourage
-empt
 enounces
 entozoologically
 entracte
@@ -9118,6 +9117,7 @@ erythropsia
 electrograving
 entwist
 etruscan
+empt
 erythropsin
 eltrot
 exploding
