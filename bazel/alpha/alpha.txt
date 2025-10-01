@@ -1017,7 +1017,6 @@ affluxes
 adjudging
 abductors
 abstractitious
-abstractive
 athenianly
 adoring
 anosmic
@@ -5891,6 +5890,7 @@ anartismos
 arenaceous
 aecidia
 agglutinative
+abstractive
 agglutinatively
 alterne
 acculturationist
