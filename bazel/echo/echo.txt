@@ -2318,7 +2318,6 @@ electroballistics
 emetatrophia
 encrypted
 electrobath
-epicenity
 epically
 effulge
 enchants
@@ -5018,6 +5017,7 @@ entreasure
 evens
 endophragmal
 equimolal
+epicenity
 entomb
 enqueued
 excuses
