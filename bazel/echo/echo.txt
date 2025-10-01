@@ -7184,7 +7184,6 @@ evenlight
 exposed
 endodontium
 ejidos
-earthshock
 enderon
 erythropoietic
 electrotropic
@@ -10645,6 +10644,7 @@ eastlake
 equinus
 extricating
 exclamatorily
+earthshock
 eudiometrical
 eudiometrically
 eudist
