@@ -838,7 +838,6 @@ contaminated
 carburation
 cainite
 charbroils
-cainitic
 cayos
 catchpoleship
 caique
@@ -9200,6 +9199,7 @@ chase
 chaseable
 chased
 chases
+cainitic
 chashitsu
 chasm
 cotonia
