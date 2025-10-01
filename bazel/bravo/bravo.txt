@@ -7242,7 +7242,6 @@ bestow
 bestowment
 burgee
 briary
-breaching
 blades
 beveled
 bestraddled
@@ -17942,6 +17941,7 @@ breezes
 bowwows
 belga
 bushwack
+breaching
 bonewood
 berserk
 bathybic
