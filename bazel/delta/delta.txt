@@ -1323,7 +1323,6 @@ departure
 daundering
 didappers
 daunt
-daunted
 dhobies
 daunters
 daffy
@@ -12063,6 +12062,7 @@ discous
 discontinuity
 doorlike
 drumble
+daunted
 ditheist
 delirant
 demantoid

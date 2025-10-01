@@ -978,7 +978,6 @@ eponymic
 edits
 enterococcus
 endosporium
-eastwards
 esoterics
 exhumes
 entera
@@ -11176,6 +11175,7 @@ electragist
 enviroment
 exonuclease
 endospermic
+eastwards
 exanthema
 enumerations
 ejaculators
