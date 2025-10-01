@@ -460,6 +460,7 @@ enanthesis
 evector
 ecclesia
 enumerable
+encratite
 eucommia
 ecclesiarch
 ecclesiarchy
@@ -4841,7 +4842,6 @@ eria
 eupepticism
 englished
 encranial
-encratite
 expectorator
 ephippia
 exportable
