@@ -4236,7 +4236,6 @@ aciculas
 adornation
 amphibalus
 adorned
-automorph
 astichous
 anaesthesia
 astore
@@ -11281,6 +11280,7 @@ antihierarchal
 apriori
 alcelaphus
 ascend
+automorph
 amphitene
 amplexifoliate
 amphitheatre
