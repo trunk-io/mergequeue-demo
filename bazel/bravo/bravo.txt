@@ -604,7 +604,6 @@ bostangi
 bastiment
 bacteriodiagnosis
 bromates
-benomyls
 bacterid
 birdcages
 baraka
@@ -17269,6 +17268,7 @@ bumboat
 bumclock
 biguttulate
 batling
+benomyls
 boltings
 bathflower
 bakula
