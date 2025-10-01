@@ -1449,6 +1449,7 @@ append
 ambisyllabic
 agorot
 anesthesiologists
+argosy
 aphyllose
 accipient
 antidromal
@@ -3804,7 +3805,6 @@ adion
 auxoamylase
 adios
 amphithuron
-argosy
 acetabuliform
 adipinic
 agapemone
