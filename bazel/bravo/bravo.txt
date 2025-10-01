@@ -5716,7 +5716,6 @@ beliefless
 badman
 beliers
 blemishing
-belies
 braziery
 believers
 beamful
@@ -6637,6 +6636,7 @@ beresite
 beret
 brangler
 bankbooks
+belies
 berets
 balancers
 berewick
