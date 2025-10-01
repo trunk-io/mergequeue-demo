@@ -2014,7 +2014,6 @@ bicollaterality
 bankrolled
 bankrolling
 bankrupt
-bosporan
 burl
 bankruptism
 bankruptcy
@@ -17515,6 +17514,7 @@ burbot
 burdalone
 bleak
 brawlers
+bosporan
 beata
 bromopicrin
 bidenticulate
