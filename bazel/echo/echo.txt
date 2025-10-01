@@ -2241,7 +2241,6 @@ epitomist
 electret
 esophagogastrostomy
 exploitive
-exode
 electrically
 extensometer
 enciente
@@ -9083,6 +9082,7 @@ ellipsometer
 erythrocytoschisis
 erythrocytosis
 erythrodermia
+exode
 embryogony
 ectasia
 epistropheus
