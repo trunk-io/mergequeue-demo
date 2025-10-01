@@ -11628,7 +11628,6 @@ chold
 choleate
 cholecyanine
 couchee
-cholecystectasia
 cholecystectomy
 cingulum
 cholecystectomized
@@ -18049,6 +18048,7 @@ coelicolae
 chlorellaceae
 caliphs
 chromoplasmic
+cholecystectasia
 concept
 coeligenous
 choroidocyclitis
