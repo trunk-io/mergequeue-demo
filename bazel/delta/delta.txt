@@ -11030,7 +11030,6 @@ defiers
 deboistness
 diasystem
 disaligned
-disalliege
 deoxidization
 dodona
 doorframe
@@ -11822,6 +11821,7 @@ discriminativeness
 discriminator
 dirigibility
 diegueno
+disalliege
 disembrangle
 deferrals
 dislodges
