@@ -1795,7 +1795,6 @@ ciceronize
 crassula
 camaca
 collochromate
-circularizing
 camay
 camaieu
 camail
@@ -31820,6 +31819,7 @@ cyathia
 cuticolor
 cuticula
 credenzas
+circularizing
 cryospheric
 cuticularize
 cuticulate
