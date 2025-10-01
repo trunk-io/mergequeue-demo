@@ -11303,7 +11303,6 @@ attaste
 arenaria
 anticodon
 anticreeper
-anatomise
 atypicality
 amphitropous
 amphioxis
@@ -20183,6 +20182,7 @@ apritif
 antihelixes
 antitheological
 anoura
+anatomise
 agdistis
 apoplexies
 acutilinguae
