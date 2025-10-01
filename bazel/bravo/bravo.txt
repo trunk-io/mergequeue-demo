@@ -9419,7 +9419,6 @@ birdseye
 birdsnest
 bungfu
 bargehouse
-birdstone
 borak
 befitting
 basichromatic
@@ -11731,6 +11730,7 @@ binmen
 beboss
 bardolatry
 birthmate
+birdstone
 bestubbled
 bonneted
 bobcoat
