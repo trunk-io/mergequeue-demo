@@ -5320,7 +5320,6 @@ cassocked
 cultures
 charioteers
 cassocks
-chamberlain
 cuspidated
 cassons
 cochleated
@@ -14179,6 +14178,7 @@ calvity
 cattie
 circled
 claudia
+chamberlain
 catskin
 cardcastle
 conservancies
