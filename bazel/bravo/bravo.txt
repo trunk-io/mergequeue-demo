@@ -3437,7 +3437,6 @@ barkpeeler
 boobook
 batable
 bracket
-berzeliite
 batad
 barbascoes
 barrages
@@ -15653,6 +15652,7 @@ bacteriosis
 bisulcated
 bosoming
 bacteriohemolysin
+berzeliite
 bauxitite
 bundlet
 bluster
