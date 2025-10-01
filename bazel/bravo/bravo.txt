@@ -6243,6 +6243,7 @@ benjaminite
 bound
 bridgeway
 boletus
+basket
 benjamins
 bypass
 beakful
@@ -14371,7 +14372,6 @@ brahmin
 behowl
 boxkeeper
 burnable
-basket
 brahminists
 brahmoism
 brahmsian
