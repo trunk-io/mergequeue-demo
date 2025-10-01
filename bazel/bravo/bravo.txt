@@ -3500,6 +3500,7 @@ bogglish
 broadax
 batete
 brabbling
+bps
 blue
 byroads
 bonagh
@@ -16418,7 +16419,6 @@ boroughs
 barmiest
 bridgeless
 bestink
-bps
 banditry
 botanising
 brunonism
