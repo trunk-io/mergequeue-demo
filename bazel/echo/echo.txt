@@ -5853,7 +5853,6 @@ engrosser
 endocarditic
 eubacteriales
 essayers
-echoer
 epicardial
 euthyroid
 episcopalian
@@ -13321,6 +13320,7 @@ explosively
 explosiveness
 equipt
 electromyograph
+echoer
 elusively
 eyewear
 encomendero
