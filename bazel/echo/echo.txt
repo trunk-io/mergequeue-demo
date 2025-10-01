@@ -4252,7 +4252,6 @@ en
 extirpation
 epicarides
 ejectment
-exaltedness
 exothermic
 electrochemical
 entangle
@@ -6829,6 +6828,7 @@ exterior
 embarque
 entomologies
 entomologised
+exaltedness
 emblemized
 eelskin
 erythrozincite
