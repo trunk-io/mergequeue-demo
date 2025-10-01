@@ -15208,6 +15208,7 @@ cladocera
 collarband
 commissionerships
 constituent
+combinatory
 cacumen
 cladodial
 cladodium
@@ -19799,7 +19800,6 @@ combinations
 combinative
 counterrotating
 combinator
-combinatory
 combinatorial
 combinatorially
 combinators
