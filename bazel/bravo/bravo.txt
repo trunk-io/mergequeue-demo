@@ -5617,7 +5617,6 @@ belaying
 bogie
 belam
 bettas
-brabblement
 buro
 brunet
 brachystaphylic
@@ -17601,6 +17600,7 @@ becurtained
 baseballs
 burggrave
 burghbote
+brabblement
 brandished
 bristling
 burgherage
