@@ -2691,6 +2691,7 @@ batch
 beadflush
 baron
 bemaul
+blunges
 barnman
 braconids
 barnstormer
@@ -15261,7 +15262,6 @@ bestrewed
 bridesmaid
 buttonbush
 bridesmaids
-blunges
 bridesmen
 baybolt
 bridestake
