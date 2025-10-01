@@ -7265,7 +7265,6 @@ dolorous
 dandiacal
 damnified
 detectible
-detection
 diamantiferous
 detectives
 deadlight
@@ -13570,6 +13569,7 @@ dissimulators
 dissension
 dichotomising
 dogmatisation
+detection
 dyas
 designation
 dissensualize
