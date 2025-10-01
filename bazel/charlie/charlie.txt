@@ -10105,7 +10105,6 @@ clothesbrush
 chimney
 chesoun
 chessboards
-counterfugue
 collab
 chipchap
 chessdom
@@ -29954,6 +29953,7 @@ coadjutator
 crosshatching
 crosshauling
 chipper
+counterfugue
 crossings
 crossite
 cinnamenyl
