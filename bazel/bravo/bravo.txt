@@ -2488,6 +2488,7 @@ beslash
 brisque
 bassetite
 bottonhook
+becloaked
 barguest
 barguests
 buzylene
@@ -12785,7 +12786,6 @@ baronry
 begut
 bookseller
 bucorvinae
-becloaked
 bioelectric
 bullneck
 biparous
