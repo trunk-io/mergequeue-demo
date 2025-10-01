@@ -12634,7 +12634,6 @@ exodic
 equipped
 evenness
 encincturing
-emeralds
 essancia
 elateroid
 egurgitating
@@ -13635,6 +13634,7 @@ empicture
 eliminates
 enfurrow
 epenthesis
+emeralds
 extrusory
 earths
 extenuations
