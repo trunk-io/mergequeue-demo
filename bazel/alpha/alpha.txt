@@ -9051,7 +9051,6 @@ anticlnoria
 anthracoid
 alloxuraemia
 alloxuremia
-alloxuric
 anesthetic
 antitwilight
 agynarious
@@ -9381,6 +9380,7 @@ arculite
 atonalism
 assessorial
 agricultures
+alloxuric
 adigranth
 armgaunt
 armamentarium
