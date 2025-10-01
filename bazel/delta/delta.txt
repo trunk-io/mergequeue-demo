@@ -3401,6 +3401,7 @@ diacetyl
 dyscrasia
 decarboxylase
 decolorisation
+dob
 decompensate
 disadorn
 donet
@@ -4187,7 +4188,6 @@ delisk
 delists
 delit
 dekes
-dob
 delitescent
 deliverer
 disincorporate
