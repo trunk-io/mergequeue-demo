@@ -2337,7 +2337,6 @@ englifier
 estafetted
 entendres
 electroplating
-expostulate
 electroplates
 ellipsis
 ecumenical
@@ -5564,6 +5563,7 @@ ethiopia
 euthanatize
 embodiment
 evibrate
+expostulate
 enhedge
 epimacus
 eretrian
