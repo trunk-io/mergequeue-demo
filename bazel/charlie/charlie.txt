@@ -14865,7 +14865,6 @@ cis
 copremia
 cytoarchitectural
 cytoblast
-confidences
 cytoblastema
 cytoblastemal
 caseless
@@ -15266,6 +15265,7 @@ commendably
 claimant
 cezannesque
 claimants
+confidences
 claimed
 congeals
 claimer
