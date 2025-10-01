@@ -188,7 +188,6 @@ baccalaureates
 baccalaureus
 baccara
 baroques
-bdrm
 bristleless
 bipartition
 balneum
@@ -7385,6 +7384,7 @@ blackbirds
 bluebreast
 bamboche
 bigmouthed
+bdrm
 bethump
 bego
 brazilin
