@@ -205,6 +205,7 @@ beamlike
 bargainee
 bacchants
 bismanol
+bowwoman
 beguiling
 bloodwood
 bees
@@ -8922,7 +8923,6 @@ biocidal
 biocide
 bookcases
 bioclimatic
-bowwoman
 bioclimatician
 bioclimatology
 bathwater
