@@ -1788,7 +1788,6 @@ drawknife
 debarking
 digamist
 discede
-debarkment
 doohickeys
 debarment
 debarrance
@@ -7171,6 +7170,7 @@ duchesslike
 desulfur
 disgracefully
 demolished
+debarkment
 dispraised
 disworship
 dudeen
