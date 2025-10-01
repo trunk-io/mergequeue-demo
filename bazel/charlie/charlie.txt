@@ -9448,6 +9448,7 @@ chawstick
 catering
 citoyen
 chazan
+controllability
 chazanim
 chazans
 chazanut
@@ -20982,7 +20983,6 @@ compriest
 collating
 chambering
 comprisal
-controllability
 conceives
 casseroles
 comprise
