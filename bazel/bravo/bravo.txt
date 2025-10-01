@@ -2492,6 +2492,7 @@ bardash
 bractea
 borscht
 beruffled
+bockerel
 barghests
 boccia
 blueblack
@@ -12480,7 +12481,6 @@ berberins
 bondage
 bless
 bondar
-bockerel
 bonderize
 belabored
 basote
