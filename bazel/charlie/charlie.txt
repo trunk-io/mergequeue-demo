@@ -3526,6 +3526,7 @@ captain
 captaincy
 captaincies
 captainry
+commissaries
 captainship
 communistically
 chaotically
@@ -6583,7 +6584,6 @@ caws
 cholecystorrhaphy
 caxiri
 clannish
-commissaries
 caxon
 confluence
 caxtonian
