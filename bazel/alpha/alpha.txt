@@ -1299,7 +1299,6 @@ aeromedicine
 aboriginal
 acatalectic
 atelocardia
-acatalepsy
 acatalepsia
 acataleptic
 autosomally
@@ -22711,6 +22710,7 @@ andamentos
 apostatized
 atlantal
 anemometrically
+acatalepsy
 auantic
 antiabrasion
 amated
