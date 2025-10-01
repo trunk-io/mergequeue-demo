@@ -1682,7 +1682,6 @@ calorimeters
 calorimetry
 calorimetrical
 calorimetrically
-calorimotor
 calorist
 calorizing
 cawing
@@ -9750,6 +9749,7 @@ channelizes
 chiloncus
 cribwork
 cheilodipteridae
+calorimotor
 cheilodipterus
 cellophane
 cheiloplasty
