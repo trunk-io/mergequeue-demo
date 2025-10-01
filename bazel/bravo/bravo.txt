@@ -5368,6 +5368,7 @@ bonace
 blueweed
 besoothement
 begowk
+beautician
 begowned
 buyable
 begray
@@ -10061,7 +10062,6 @@ barmecide
 bottlemaking
 brasser
 bismillah
-beautician
 blamability
 byzants
 bilander
