@@ -5678,7 +5678,6 @@ barony
 biogeochemical
 bibliotaph
 beleper
-bobs
 bicycle
 balandra
 butterpaste
@@ -17275,6 +17274,7 @@ bakula
 braguette
 bap
 brite
+bobs
 bactericidally
 bumfuzzle
 baubles
