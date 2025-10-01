@@ -4303,7 +4303,6 @@ cottages
 carfare
 carfares
 cassie
-choriomas
 carfloat
 coater
 carfuffle
@@ -24828,6 +24827,7 @@ copsing
 copter
 cyclomania
 copters
+choriomas
 concert
 cabbing
 copula
