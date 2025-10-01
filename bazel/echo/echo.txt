@@ -2130,7 +2130,6 @@ exoneration
 experimentee
 electrosurgical
 elaterins
-endleaf
 electroblasting
 enfoil
 exterminatress
@@ -8006,6 +8005,7 @@ elytrum
 enscene
 enteroscope
 epiphanise
+endleaf
 ealdormen
 epiphanous
 expansiveness
