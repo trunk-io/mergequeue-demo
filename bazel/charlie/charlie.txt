@@ -14804,7 +14804,6 @@ cookery
 cite
 citer
 cites
-citess
 citharas
 citharexylum
 citharist
@@ -30912,6 +30911,7 @@ culter
 culti
 cultic
 cultigens
+citess
 cultish
 cerasin
 carboyed
