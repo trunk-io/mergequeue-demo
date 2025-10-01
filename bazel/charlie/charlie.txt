@@ -4168,6 +4168,7 @@ cardiologist
 cardiologists
 cardiomegaly
 cyclus
+creature
 cardiomelanosis
 contradivide
 cardiometer
@@ -11442,7 +11443,6 @@ coachsmith
 chiastic
 chloroplatinous
 chloroprene
-creature
 chloroquine
 coronas
 camagon
