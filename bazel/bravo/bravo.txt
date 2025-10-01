@@ -9238,7 +9238,6 @@ bogo
 backhauling
 bourbonesque
 bipedality
-bipeds
 baiginet
 bipeltate
 bipennate
@@ -17599,6 +17598,7 @@ becurtained
 baseballs
 burggrave
 burghbote
+bipeds
 brabblement
 brandished
 bristling
