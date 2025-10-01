@@ -9844,6 +9844,7 @@ bebat
 bytes
 bitewing
 beryx
+bluelegs
 based
 backswording
 bolelia
@@ -10909,7 +10910,6 @@ biffing
 blooded
 blindfish
 blindfishes
-bluelegs
 bismuth
 bassus
 butterbush
