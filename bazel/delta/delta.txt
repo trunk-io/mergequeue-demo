@@ -15926,7 +15926,6 @@ dossennus
 dressings
 decapodiform
 dosser
-dosseret
 dulcian
 dempster
 dosses
@@ -18550,6 +18549,7 @@ debars
 duros
 drouks
 despaired
+dosseret
 derri
 durry
 deny
