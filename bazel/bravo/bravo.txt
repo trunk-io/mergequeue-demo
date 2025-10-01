@@ -2725,7 +2725,6 @@ barology
 barolong
 bombax
 boroughship
-barometers
 blam
 beachside
 burthenman
@@ -15046,6 +15045,7 @@ bicuspidal
 bandaka
 breenge
 breenger
+barometers
 bogberries
 babushka
 breezeful
