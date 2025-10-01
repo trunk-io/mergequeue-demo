@@ -1712,7 +1712,6 @@ calques
 cremule
 caltha
 chronographic
-caltraps
 cervicolingual
 caltrop
 coenosite
@@ -5902,6 +5901,7 @@ caterbrawl
 catercap
 catercorner
 camsteary
+caltraps
 caller
 catercornered
 catercornerways
