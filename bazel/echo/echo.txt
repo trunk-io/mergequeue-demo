@@ -1049,7 +1049,6 @@ elberta
 expeditions
 exadversum
 etchareottine
-excisable
 eyeless
 endoskeleton
 eqpt
@@ -4253,6 +4252,7 @@ edifyingly
 en
 enjoined
 extirpation
+excisable
 epicarides
 ejectment
 exaltedness
