@@ -2892,6 +2892,7 @@ becrawls
 barratrously
 barreled
 barreleyes
+bathometry
 barrelet
 bookend
 batuque
@@ -3564,7 +3565,6 @@ balaamite
 butchers
 balconet
 bathometer
-bathometry
 blockmaking
 bathool
 boomkins
