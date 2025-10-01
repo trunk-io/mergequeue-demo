@@ -18584,6 +18584,7 @@ cohibit
 cohibition
 cohibitor
 cohitre
+crouches
 chandlering
 collieries
 cohobator
@@ -30062,7 +30063,6 @@ crouch
 crouchant
 crouchback
 crouched
-crouches
 crouchie
 cahnite
 cacothesis
