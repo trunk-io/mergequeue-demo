@@ -165,7 +165,6 @@ deprivations
 depasturable
 dissatisfying
 droughty
-dado
 drugstore
 doltishly
 dareall
@@ -9789,6 +9788,7 @@ deerdrive
 dilates
 disapprovable
 descender
+dado
 decolourization
 dilatometer
 dilatometrically
