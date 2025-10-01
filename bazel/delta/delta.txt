@@ -2165,6 +2165,7 @@ del
 ditheistic
 dipterans
 dehydroffrozen
+decolouriser
 dehydration
 drowsing
 dinguses
@@ -5510,7 +5511,6 @@ doss
 deordination
 deorganization
 deistic
-decolouriser
 deorganize
 deregister
 disenablement
