@@ -6237,6 +6237,7 @@ entered
 endplate
 excipule
 eluviate
+exocrine
 enticeable
 exor
 embowering
@@ -7633,7 +7634,6 @@ enhungered
 extrabold
 electrophoridae
 epicoracoid
-exocrine
 ellachick
 exhumations
 eventless
