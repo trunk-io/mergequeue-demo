@@ -16607,7 +16607,6 @@ cheddite
 cnidosac
 cloghaun
 cloghead
-carboxyl
 cowsharn
 cosmos
 calendar
@@ -29188,6 +29187,7 @@ coelacanthini
 cacodorous
 crioceras
 crioceratite
+carboxyl
 cinefaction
 crioceratitic
 companionably
