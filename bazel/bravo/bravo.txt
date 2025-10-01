@@ -3074,7 +3074,6 @@ boycotting
 bestness
 bealach
 barques
-bonitas
 boithrin
 butylene
 basculation
@@ -4809,6 +4808,7 @@ bedstraw
 bedstraws
 bedstring
 boundedly
+bonitas
 beautiless
 broadwise
 bedswerver
