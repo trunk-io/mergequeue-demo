@@ -2576,7 +2576,6 @@ busing
 bowable
 bears
 barytophyllite
-blawed
 bridgelike
 barocco
 barkary
@@ -10208,6 +10207,7 @@ blackguardry
 baroreceptor
 beseechers
 baulking
+blawed
 beachcombing
 boastings
 blackgums
