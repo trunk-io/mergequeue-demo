@@ -3858,7 +3858,6 @@ alphorns
 amplificator
 adjacence
 adjectional
-archdetective
 annulment
 acetine
 almucantar
@@ -21204,6 +21203,7 @@ avenage
 altisonous
 adrenosterone
 astrodynamics
+archdetective
 amnionic
 anagogic
 antimissioner
