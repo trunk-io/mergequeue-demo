@@ -3013,6 +3013,7 @@ biomasses
 burgesses
 bartizans
 becarpets
+bewig
 beigel
 belee
 beckons
@@ -7365,7 +7366,6 @@ becumber
 brasilia
 beleft
 balusters
-bewig
 bassness
 bookmaker
 bethorning
