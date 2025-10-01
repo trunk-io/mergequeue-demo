@@ -1972,6 +1972,7 @@ bevelers
 blea
 bimbo
 believably
+barycentric
 brachydiagonal
 baniya
 baning
@@ -15674,7 +15675,6 @@ broadling
 bulbilis
 bands
 bogglebo
-barycentric
 barbering
 battarism
 brunonia
