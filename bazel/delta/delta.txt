@@ -6736,7 +6736,6 @@ diplohedron
 downcurved
 desyatin
 desicate
-dubonnets
 desman
 desiderable
 diascopy
@@ -12239,6 +12238,7 @@ detector
 deluding
 dampers
 deviators
+dubonnets
 dysfunctions
 disfurnish
 disfurnished
