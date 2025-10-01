@@ -2971,7 +2971,6 @@ epidotes
 elytroposis
 elytrorhagia
 euglandina
-elytrostenosis
 elytrotomy
 emeer
 elix
@@ -3105,6 +3104,7 @@ extinguishment
 eloinment
 eloins
 ecliptic
+elytrostenosis
 enskyed
 etioporphyrin
 epirrheme
