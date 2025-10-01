@@ -4937,7 +4937,6 @@ beeped
 burgware
 bumblings
 blesse
-belgae
 barmier
 boulles
 bactritoid
@@ -16353,6 +16352,7 @@ backarrow
 benchmarking
 balalaikas
 brujos
+belgae
 beglerbeglik
 broadways
 biter
