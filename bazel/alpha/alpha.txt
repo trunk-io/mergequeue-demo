@@ -12571,7 +12571,6 @@ archrascal
 anhemolytic
 anesthetization
 anticonvulsive
-anesthetize
 anesthetized
 anomaliped
 acuchi
@@ -14247,6 +14246,7 @@ abidingness
 avellaneous
 aflat
 ammonite
+anesthetize
 autotheater
 amacratic
 alopias
