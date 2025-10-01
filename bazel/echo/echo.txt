@@ -2893,6 +2893,7 @@ elflocks
 encaustic
 endermic
 epiphyseolysis
+exr
 elfwife
 enucleated
 elfwort
@@ -14014,7 +14015,6 @@ endothecia
 escheating
 epitrophic
 electromotive
-exr
 enthrallingly
 enteroclisis
 epidemy
