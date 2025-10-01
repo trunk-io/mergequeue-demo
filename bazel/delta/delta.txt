@@ -1954,7 +1954,6 @@ dermohumeral
 disyllabism
 deburr
 divulgatory
-debus
 decanally
 debused
 doohickey
@@ -3516,6 +3515,7 @@ deflections
 delete
 deformations
 deformedly
+debus
 dandily
 downfold
 deuterostomata
