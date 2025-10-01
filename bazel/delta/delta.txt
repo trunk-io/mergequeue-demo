@@ -11210,7 +11210,6 @@ depopulate
 disbarring
 disbase
 dani
-disbeliefs
 durangite
 diarchic
 decemjugate
@@ -11544,6 +11543,7 @@ discomfiter
 drachen
 discomfort
 diaphragmatic
+disbeliefs
 demarch
 dismounts
 dieticians
