@@ -6802,6 +6802,7 @@ dihedral
 depraving
 dodecatyl
 disally
+demipauldron
 dirtboard
 datatype
 demoralizer
@@ -17710,7 +17711,6 @@ dampener
 dubbin
 depoliticize
 disused
-demipauldron
 discriminable
 dedifferentiation
 decanonization
