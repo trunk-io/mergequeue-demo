@@ -5381,6 +5381,7 @@ caster
 crinicultural
 cinemograph
 corncob
+crosspath
 crummies
 cibolan
 corv
@@ -29980,7 +29981,6 @@ contrahent
 crossovers
 chokebore
 cardiataxia
-crosspath
 clawk
 crosspoint
 crossroad
