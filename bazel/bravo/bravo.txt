@@ -3017,6 +3017,7 @@ belee
 beckons
 brimmers
 beachhead
+biome
 bartonella
 backswordsman
 bookbinderies
@@ -9026,7 +9027,6 @@ brender
 bacterioagglutinin
 biomathematics
 bets
-biome
 byp
 biomechanical
 begrims
