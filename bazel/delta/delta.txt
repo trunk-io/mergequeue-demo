@@ -3615,6 +3615,7 @@ dextrogyre
 decumaria
 dinosauric
 dinornithiformes
+defs
 degenerate
 desulphurizer
 diagrammatize
@@ -10638,7 +10639,6 @@ dittology
 domestic
 documented
 decoctible
-defs
 diploidic
 dunderbolt
 dominus
