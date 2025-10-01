@@ -18237,6 +18237,7 @@ coercers
 coercible
 coercionary
 coercitive
+coquinas
 coercive
 coerciveness
 coercivity
@@ -19001,7 +19002,6 @@ criticise
 conductorship
 creepered
 cauterant
-coquinas
 confiscable
 conceding
 collaret
