@@ -2856,7 +2856,6 @@ carboxyhemoglobin
 cetorhinoid
 canonizer
 canonizes
-canonizing
 churchreeve
 canonry
 canons
@@ -20101,6 +20100,7 @@ commensurably
 commensurate
 cubla
 commensurateness
+canonizing
 curatorial
 commensurating
 codings
