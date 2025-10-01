@@ -2157,7 +2157,6 @@ bewilders
 bestove
 baramin
 bertat
-briscola
 bararite
 barathea
 barbellate
@@ -6647,6 +6646,7 @@ bedstand
 burree
 bimane
 begreen
+briscola
 bawdric
 beefing
 blocks
