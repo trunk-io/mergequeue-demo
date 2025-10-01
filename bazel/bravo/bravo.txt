@@ -6412,7 +6412,6 @@ burely
 barfy
 bouk
 benzonaphthol
-benzonitrile
 behedge
 benzophenothiazine
 benzophloroglucinol
@@ -13655,6 +13654,7 @@ brachioradialis
 bedsonias
 bemuddle
 bounceback
+benzonitrile
 blowsy
 bouncier
 batteried
