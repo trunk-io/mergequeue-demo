@@ -5553,7 +5553,6 @@ endogens
 ethologist
 enflaming
 epiklesis
-equuleus
 embryulcus
 enflower
 ectognatha
@@ -13769,6 +13768,7 @@ ecorch
 extolling
 elephas
 extolls
+equuleus
 extols
 eskimos
 ehlite
