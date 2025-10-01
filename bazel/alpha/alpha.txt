@@ -2192,7 +2192,6 @@ achondroplasia
 agrostology
 asthenology
 alqueire
-amyelotrophy
 achordata
 antiagglutinative
 aetosaur
@@ -13415,6 +13414,7 @@ antiminsion
 antimnemonic
 annaly
 arseniureted
+amyelotrophy
 annalia
 antigrammaticalness
 apathetic
