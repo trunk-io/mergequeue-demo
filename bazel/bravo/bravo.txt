@@ -2643,7 +2643,6 @@ bluestone
 bertholletia
 barghest
 breechloader
-basiliscus
 backlins
 berrugate
 barbitalism
@@ -12356,6 +12355,7 @@ bombast
 buglers
 bandurrias
 brunissure
+basiliscus
 bezzi
 biophor
 beldame
