@@ -1924,7 +1924,6 @@ beworms
 backwoods
 bacteriophage
 bandwidth
-bandworm
 boogiewoogie
 bacillicidal
 baylet
@@ -5663,6 +5662,7 @@ belayed
 bowssen
 bentstar
 boer
+bandworm
 buettneriaceae
 barony
 biogeochemical
