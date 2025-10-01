@@ -5983,6 +5983,7 @@ depressurize
 disentraced
 dere
 defeatee
+diacritics
 depreter
 depriment
 deprint
@@ -16579,7 +16580,6 @@ disputed
 dragger
 draggers
 draggier
-diacritics
 drearier
 destinies
 dodecarchy
