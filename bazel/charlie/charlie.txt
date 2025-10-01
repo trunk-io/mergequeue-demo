@@ -6700,7 +6700,6 @@ cherte
 cedrus
 caledonite
 crioceris
-cardiosymphysis
 cedula
 cee
 ceibas
@@ -12242,6 +12241,7 @@ chrysis
 chebulinic
 conjuncted
 cottidae
+cardiosymphysis
 choregrapher
 chrismal
 chrismation
