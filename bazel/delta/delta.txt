@@ -6716,7 +6716,6 @@ deleaded
 droplight
 decadianome
 drawarm
-dipneedle
 danders
 deregulates
 deserving
@@ -11044,6 +11043,7 @@ disalliege
 deoxidization
 dodona
 doorframe
+dipneedle
 disallow
 displaying
 disconformably
