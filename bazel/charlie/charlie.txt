@@ -8481,7 +8481,6 @@ cuttable
 chamoisette
 cumbers
 chamoisite
-cellos
 campilan
 chamoline
 chamorro
@@ -28885,6 +28884,7 @@ callisection
 canulates
 creticism
 coturnix
+cellos
 cretics
 cretify
 cavalla
