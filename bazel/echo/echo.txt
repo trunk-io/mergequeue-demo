@@ -7180,7 +7180,6 @@ epistasis
 euphonym
 ensample
 enzootically
-evenlight
 exposed
 endodontium
 ejidos
@@ -9335,6 +9334,7 @@ eruptive
 ectoparasitic
 essoinee
 eruptiveness
+evenlight
 evermo
 endear
 earable
