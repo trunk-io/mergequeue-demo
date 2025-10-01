@@ -5767,7 +5767,6 @@ eternalized
 epopees
 explanation
 engouement
-engoument
 entification
 evade
 emulatory
@@ -7017,6 +7016,7 @@ exocoetus
 erectopatent
 eyeglass
 elastomer
+engoument
 emication
 eglatere
 etch
