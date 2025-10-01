@@ -1573,7 +1573,6 @@ deadness
 deadnesses
 denunciating
 dairyman
-deadpanned
 deadpans
 depayse
 deadweight
@@ -5603,6 +5602,7 @@ depancreatize
 drawrod
 drainermen
 deoxygenized
+deadpanned
 demicolumn
 diffusionism
 dortiship
