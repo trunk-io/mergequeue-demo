@@ -14401,7 +14401,6 @@ circumpallial
 constrained
 crosspieces
 circumparallelogram
-circumpentagon
 convexed
 circumplanetary
 crone
@@ -30868,6 +30867,7 @@ culmination
 covalence
 culming
 culms
+circumpentagon
 cavesson
 corneocalcareous
 cleithrum
