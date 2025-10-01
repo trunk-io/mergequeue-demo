@@ -4539,7 +4539,6 @@ carnationist
 carnations
 carnauba
 carnaubas
-carneau
 carnegie
 carnegiea
 carneyed
@@ -28535,6 +28534,7 @@ carapo
 creatureship
 conversibility
 creaturize
+carneau
 churchanity
 creaze
 crebricostate
