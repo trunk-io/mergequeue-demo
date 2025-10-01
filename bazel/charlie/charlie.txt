@@ -6447,6 +6447,7 @@ cautioner
 cautioners
 cornutus
 cienega
+centroplasm
 cautiones
 canard
 carbarns
@@ -16790,7 +16791,6 @@ cosuitor
 culla
 cora
 clothespins
-centroplasm
 clothespresses
 cire
 clothiers
