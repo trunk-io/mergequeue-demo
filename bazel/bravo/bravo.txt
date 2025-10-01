@@ -10961,7 +10961,6 @@ batement
 benchmar
 blinkingly
 batel
-beslimes
 bilharzic
 blocky
 blintzes
@@ -17622,6 +17621,7 @@ burglarproofs
 burglars
 breath
 blay
+beslimes
 bunchflower
 burgoyne
 burgomasters
