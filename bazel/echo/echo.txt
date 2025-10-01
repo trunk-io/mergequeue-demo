@@ -1925,7 +1925,6 @@ eluants
 eurasia
 enabled
 echinulate
-estoppal
 eurypterid
 elaphe
 essenical
@@ -7809,6 +7808,7 @@ exsiccator
 elegiambic
 esophagodynia
 empyocele
+estoppal
 exoerythrocytic
 epigone
 epithelium
