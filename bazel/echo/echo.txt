@@ -2205,7 +2205,6 @@ equiprobable
 encrisp
 eldest
 effigiated
-eventuate
 engulfment
 eldrich
 eldritch
@@ -10231,6 +10230,7 @@ epanodos
 exantlate
 ensporia
 externalisation
+eventuate
 ethicosocial
 exoticity
 eavesdropped
