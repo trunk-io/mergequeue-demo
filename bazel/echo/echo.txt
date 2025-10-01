@@ -77,7 +77,6 @@ eulalia
 earmarkings
 equitation
 earmuff
-earnable
 ecclesiology
 earned
 earnest
@@ -2292,6 +2291,7 @@ escalatory
 ensepulchre
 evangelicalness
 electrizable
+earnable
 electrization
 excavated
 epicotyl
