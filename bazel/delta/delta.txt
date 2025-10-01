@@ -3563,7 +3563,6 @@ deul
 disfrock
 dislimb
 diethylamine
-disenchanter
 defunctionalize
 defusion
 demidigested
@@ -18451,6 +18450,7 @@ dints
 demerge
 distrusts
 duplicious
+disenchanter
 danner
 duality
 duplicitously
