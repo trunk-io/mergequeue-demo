@@ -5622,6 +5622,7 @@ aphthong
 amygdale
 avocative
 affrayed
+annunciative
 andabatarian
 ananas
 aeschylean
@@ -15436,7 +15437,6 @@ antimission
 antifoggant
 askance
 adenylpyrophosphate
-annunciative
 androconia
 antipyretic
 anagoges
