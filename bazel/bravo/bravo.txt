@@ -7002,7 +7002,6 @@ bushbashing
 bearherd
 bedsite
 bestrid
-beslimes
 backsheesh
 breme
 bepaid
@@ -10963,6 +10962,7 @@ batement
 benchmar
 blinkingly
 batel
+beslimes
 bilharzic
 blocky
 blintzes
