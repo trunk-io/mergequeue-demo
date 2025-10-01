@@ -4887,7 +4887,6 @@ anticorrosives
 aerofoil
 aerofoils
 aurrescu
-adjourned
 algine
 amberfish
 achrodextrinase
@@ -9067,6 +9066,7 @@ afforestment
 acantharia
 angulosity
 antivaccinist
+adjourned
 alluded
 anura
 alludes
