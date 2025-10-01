@@ -18622,7 +18622,6 @@ coiffe
 coiffed
 caustics
 clavers
-coiffeur
 coiffeurs
 coiffeuses
 coiffures
@@ -23978,6 +23977,7 @@ conus
 cypris
 cytometer
 chirl
+coiffeur
 conusance
 conusant
 carpels
