@@ -540,6 +540,7 @@ blit
 bootboy
 bipartible
 blastema
+becurse
 biggishness
 brickiest
 batrachium
@@ -16548,7 +16549,6 @@ brewed
 bandster
 bruzz
 bsf
-becurse
 bedsit
 blepharophthalmia
 bocasine
