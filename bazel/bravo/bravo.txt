@@ -14685,7 +14685,6 @@ bloc
 bullwhack
 brassard
 bearing
-brenthis
 briefing
 brassart
 brassarts
@@ -16485,6 +16484,7 @@ bozal
 breathableness
 bequote
 bulbomedullary
+brenthis
 biasness
 bursattee
 brusquest
