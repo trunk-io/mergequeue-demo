@@ -6521,6 +6521,7 @@ blowiness
 bepart
 beacher
 bepimpling
+bioinstrument
 bureaucratical
 bepray
 bepraiser
@@ -9008,7 +9009,6 @@ besotting
 baybush
 bulrushlike
 bronzen
-bioinstrument
 biolinguistics
 belted
 biolyses
