@@ -3385,7 +3385,6 @@ deflations
 doit
 disconfirmed
 disperser
-dorey
 damnum
 ditremidae
 defleas
@@ -8888,6 +8887,7 @@ depthwise
 dibutyrin
 debituminize
 deflexure
+dorey
 domiciliating
 dicacity
 dicaeidae
