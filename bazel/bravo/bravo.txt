@@ -1863,6 +1863,7 @@ bryology
 bewend
 bonaght
 battutos
+batching
 becreep
 bevies
 batukite
@@ -6970,7 +6971,6 @@ baradari
 brahmahood
 beshow
 birdeen
-batching
 brubru
 brachinus
 bleacherman
