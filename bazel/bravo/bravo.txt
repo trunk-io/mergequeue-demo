@@ -4521,7 +4521,6 @@ bienness
 biradiated
 bathroot
 bater
-bool
 bracozzo
 bedabble
 beagles
@@ -14990,6 +14989,7 @@ boatly
 breccias
 brecciated
 brecham
+bool
 bursar
 brechams
 brechans
