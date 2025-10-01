@@ -1908,7 +1908,6 @@ boreus
 bandsawn
 bandsman
 bandstand
-beacon
 boronia
 beseechment
 bocaccios
@@ -14432,6 +14431,7 @@ brewers
 blaw
 brucines
 braininess
+beacon
 braining
 baken
 brothellike
