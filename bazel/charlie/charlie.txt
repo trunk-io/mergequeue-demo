@@ -9589,7 +9589,6 @@ cumulant
 conoy
 checkrowed
 checkrower
-checkrowing
 consummatively
 checkrows
 computational
@@ -23586,6 +23585,7 @@ conticent
 codded
 conjoins
 contignate
+checkrowing
 cloky
 corycavidin
 californite
