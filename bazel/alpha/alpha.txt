@@ -2351,7 +2351,6 @@ acieration
 acies
 acyesis
 acyetic
-aciform
 antimason
 ashtray
 agitative
@@ -17698,6 +17697,7 @@ animalivora
 appliance
 apocentre
 appliant
+aciform
 appendectomy
 arenous
 applicable
