@@ -2472,7 +2472,6 @@ endexines
 exairesis
 electroing
 electrokinetic
-eluviate
 epicanthic
 exterminative
 electrokinetics
@@ -6221,6 +6220,7 @@ ethnogeographical
 entered
 endplate
 excipule
+eluviate
 enticeable
 exor
 embowering
