@@ -8158,6 +8158,7 @@ continent
 carcer
 chaffron
 clavicornia
+coner
 chaffs
 chaffseed
 cavitation
@@ -25387,7 +25388,6 @@ cappelenite
 cornel
 countergirded
 cornelia
-coner
 concessioner
 cornell
 corneosclerotic
