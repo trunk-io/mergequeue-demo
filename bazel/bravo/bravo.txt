@@ -4102,7 +4102,6 @@ bicompact
 bodysurfs
 bowmaking
 beelbow
-brushproof
 beardfishes
 beswarms
 botulinum
@@ -13625,6 +13624,7 @@ benefaction
 boodlers
 barite
 boulanger
+brushproof
 boulangism
 bouldered
 bevatrons
