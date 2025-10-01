@@ -7297,7 +7297,6 @@ deterioration
 data
 duikerbuck
 dear
-dicyan
 diamondlike
 dwarfing
 deteriorative
@@ -12820,6 +12819,7 @@ dyemaking
 deliquiesce
 demiparadise
 didelphia
+dicyan
 dismals
 dithyrambs
 deutomalal
