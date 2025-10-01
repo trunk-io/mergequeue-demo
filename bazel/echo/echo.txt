@@ -10207,7 +10207,6 @@ errsyn
 electrophysiological
 esperantic
 esophagomycosis
-evicts
 envenomation
 ethician
 ethicians
@@ -12281,6 +12280,7 @@ endotoxin
 embodier
 everlasting
 enfoul
+evicts
 exemplificator
 exemplified
 extradites
