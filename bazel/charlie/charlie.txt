@@ -3833,7 +3833,6 @@ carboluria
 carbomethene
 carbomethoxy
 carbomethoxyl
-carbon
 carbona
 carbonaceous
 cuter
@@ -26680,6 +26679,7 @@ counsellor
 chilopodan
 counsellors
 counselor
+carbon
 countability
 corbels
 ciliolum
