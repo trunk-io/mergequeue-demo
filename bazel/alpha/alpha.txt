@@ -3861,7 +3861,6 @@ adits
 alphorns
 amplificator
 adjacence
-alterer
 adjectional
 archdetective
 annulment
@@ -21566,6 +21565,7 @@ androclus
 acheilous
 autonavigators
 attenuate
+alterer
 anteflected
 acetometrically
 assayable
