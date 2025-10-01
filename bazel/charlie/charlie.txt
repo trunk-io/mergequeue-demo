@@ -5156,7 +5156,6 @@ casemaker
 caprylene
 casemaking
 casemates
-casemented
 casements
 caseolysis
 caseose
@@ -26804,6 +26803,7 @@ cirriform
 counterclaims
 counterclassifications
 countercolored
+casemented
 cliff
 countercompetition
 countercomplaint
