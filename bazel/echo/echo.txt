@@ -5157,7 +5157,6 @@ eponymies
 eastings
 electroballistician
 epilithic
-endogenae
 efference
 euchres
 echeloning
@@ -5452,6 +5451,7 @@ extrasystole
 exospheres
 eigenstate
 entitledness
+endogenae
 energical
 energid
 entablatured
