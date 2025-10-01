@@ -1801,7 +1801,6 @@ beslime
 bullose
 bialystoker
 bufflehorn
-bandaged
 bandaging
 bowlin
 bandaid
@@ -2578,6 +2577,7 @@ bears
 barytophyllite
 blawed
 bridgelike
+bandaged
 barocco
 barkary
 befilch
