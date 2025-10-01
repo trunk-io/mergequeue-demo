@@ -3832,6 +3832,7 @@ aerators
 aficionado
 arrastra
 acrook
+autotypes
 availing
 abdominoscope
 apposition
@@ -19221,7 +19222,6 @@ alumina
 areach
 attractions
 ammunition
-autotypes
 atuami
 areasoner
 areawide
