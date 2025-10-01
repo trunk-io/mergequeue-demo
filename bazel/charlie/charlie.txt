@@ -459,6 +459,7 @@ cad
 cadamba
 cryptocrystalline
 cadaster
+clacked
 cadasters
 cadastral
 cadastration
@@ -5545,7 +5546,6 @@ counterattacks
 catacorner
 catacorolla
 ceaselessly
-clacked
 catacoustics
 catacromyodian
 ceratothecal
