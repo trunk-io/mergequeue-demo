@@ -4298,6 +4298,7 @@ cottages
 carfare
 carfares
 cassie
+choriomas
 carfloat
 coater
 carfuffle
@@ -8212,7 +8213,6 @@ calliophone
 cyprus
 chairborne
 copartners
-choriomas
 cardiovisceral
 chairing
 carpetbagging
