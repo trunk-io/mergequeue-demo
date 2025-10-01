@@ -5490,7 +5490,6 @@ bey
 bindi
 boxed
 bardic
-bootyless
 beelines
 bobbled
 bullule
@@ -10940,6 +10939,7 @@ beaneries
 beckets
 brooms
 blinker
+bootyless
 balancewise
 bitterful
 barretors
