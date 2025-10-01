@@ -2154,7 +2154,6 @@ campholide
 compilatory
 coleorhiza
 camphols
-camphor
 contemnor
 camphorated
 camphorates
@@ -7231,6 +7230,7 @@ corruptest
 centrifugalize
 catawba
 clamors
+camphor
 centrifugaller
 centrifugate
 centrifuge
