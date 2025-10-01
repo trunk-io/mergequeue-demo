@@ -6973,6 +6973,7 @@ enfuddle
 eager
 entreats
 entrec
+eponym
 escalin
 exiting
 effecting
@@ -8413,7 +8414,6 @@ ethopoetic
 extensure
 eurytropic
 electroencephalography
-eponym
 earthmove
 etiolate
 eponymus
