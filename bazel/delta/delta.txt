@@ -3435,6 +3435,7 @@ dasyuroid
 doddy
 deflore
 dubash
+digestibility
 disgarland
 deceleron
 damnosa
@@ -9511,7 +9512,6 @@ dustiest
 detester
 disparateness
 dehumanizes
-digestibility
 demark
 digestible
 dite
