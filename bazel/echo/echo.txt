@@ -5807,7 +5807,6 @@ exorcises
 engraining
 enwoven
 ekaha
-eulerian
 electrolyzation
 embergeese
 eccl
@@ -11901,6 +11900,7 @@ exceptless
 emends
 eightfoil
 engore
+eulerian
 expectation
 ectoderms
 escallop
