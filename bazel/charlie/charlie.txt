@@ -7098,7 +7098,6 @@ centering
 centerline
 cactoid
 comminatory
-centermost
 centerpiece
 craizey
 combinedly
@@ -30951,6 +30950,7 @@ culturize
 culturological
 culturologically
 cavaliero
+centermost
 challengee
 cardinalitial
 caroid
