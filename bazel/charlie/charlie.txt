@@ -18339,7 +18339,6 @@ clayed
 coffeeroom
 coffees
 counterview
-continuant
 coffeetime
 coffer
 corridor
@@ -20899,6 +20898,7 @@ composer
 composita
 composite
 composited
+continuant
 composites
 compositing
 compositional
