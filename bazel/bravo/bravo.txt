@@ -14598,6 +14598,7 @@ belemnitic
 buri
 buggyman
 brandisite
+beingless
 boyar
 brandling
 binomy
@@ -15584,7 +15585,6 @@ born
 bromacetanilide
 bristlelike
 brigander
-beingless
 borer
 babyhoods
 bristliness
