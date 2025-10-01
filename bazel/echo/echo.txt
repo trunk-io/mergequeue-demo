@@ -2462,7 +2462,6 @@ electrogilt
 ejecting
 electrogram
 endows
-eupolyzoa
 eleve
 ephas
 exegete
@@ -5509,6 +5508,7 @@ enfeebles
 enfeebling
 enent
 eucarida
+eupolyzoa
 epigrammatised
 enfeeblish
 effectful
