@@ -2122,7 +2122,6 @@ chiloma
 coadjacence
 campesinos
 campestral
-campfight
 campground
 consarcinate
 camphane
@@ -31722,6 +31721,7 @@ coopery
 cond
 cusser
 caselessly
+campfight
 ciselures
 cusses
 castilian
