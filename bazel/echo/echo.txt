@@ -3184,7 +3184,6 @@ elude
 equant
 eludes
 exaltedly
-eludible
 eluding
 enswathes
 enfollow
@@ -8408,6 +8407,7 @@ epocha
 embaying
 eumitosis
 epollicate
+eludible
 ethoses
 eponge
 exhibitioner
