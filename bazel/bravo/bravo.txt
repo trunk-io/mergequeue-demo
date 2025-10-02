@@ -9353,7 +9353,6 @@ birched
 ballyrags
 bloodletter
 besugo
-birchers
 bewater
 birchwood
 baccaras
@@ -15213,6 +15212,7 @@ brick
 brickbat
 buttonholed
 borish
+birchers
 branchiosauria
 brickbatting
 brickcroft
