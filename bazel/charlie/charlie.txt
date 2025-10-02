@@ -3976,6 +3976,7 @@ carcajou
 carcajous
 carcake
 carcanet
+chantries
 carcanetted
 carcases
 crueler
@@ -10386,7 +10387,6 @@ chicle
 chamberfellow
 chicly
 chicness
-chantries
 chico
 caryocaraceous
 coryneum
