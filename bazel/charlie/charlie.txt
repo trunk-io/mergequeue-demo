@@ -9891,7 +9891,6 @@ crinet
 chemisette
 chemism
 choosy
-chemisorb
 coprophilic
 copperytailed
 chemistry
@@ -11810,6 +11809,7 @@ consonantalizing
 chondrocostal
 chondrocranial
 circuitous
+chemisorb
 chondrodystrophy
 chondrodystrophia
 chondroditic
