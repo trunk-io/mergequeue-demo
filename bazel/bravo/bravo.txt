@@ -6241,6 +6241,7 @@ boletus
 basket
 benjamins
 bypass
+bullhorns
 benne
 bennes
 beveling
@@ -13220,7 +13221,6 @@ belive
 bridgemaker
 bovines
 besneer
-bullhorns
 baronize
 bangtail
 brachycephalize
