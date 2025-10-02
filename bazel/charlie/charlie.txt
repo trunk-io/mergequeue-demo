@@ -2235,6 +2235,7 @@ camshachle
 countershear
 camshafts
 camstane
+conoid
 caval
 camstone
 canaliculization
@@ -25732,7 +25733,6 @@ constitutive
 committals
 cobra
 correctress
-conoid
 centupled
 corregimientos
 chaucerianism
