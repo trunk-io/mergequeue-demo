@@ -11995,7 +11995,6 @@ bayou
 bogginess
 boggle
 blastemas
-boggler
 bannerol
 bogglers
 boggling
@@ -15690,6 +15689,7 @@ bestowable
 bourrides
 barbarously
 binuclear
+boggler
 batful
 broadsider
 bandogs
