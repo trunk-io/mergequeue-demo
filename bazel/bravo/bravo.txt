@@ -6679,6 +6679,7 @@ bergs
 boneshave
 bodegon
 beribanded
+belemnites
 birdy
 bargeboard
 barbarious
@@ -7718,7 +7719,6 @@ bereareft
 backfilling
 bezzo
 bhabar
-belemnites
 blaine
 bacchanalization
 bromonaphthalene
