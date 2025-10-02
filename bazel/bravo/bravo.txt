@@ -2514,7 +2514,6 @@ baggy
 bariatrician
 banderilla
 bariatrics
-baric
 barycenter
 bemused
 bamboozlement
@@ -14310,6 +14309,7 @@ bronchiogenic
 brochidodromous
 benefactory
 begoud
+baric
 brens
 branchiosaur
 binnite

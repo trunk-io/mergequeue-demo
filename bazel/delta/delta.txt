@@ -3599,7 +3599,6 @@ dawny
 depending
 disguise
 desilverize
-debunker
 degass
 degassed
 disappears
@@ -6611,6 +6610,7 @@ dabchick
 desecrater
 duckfooted
 device
+debunker
 duet
 dermol
 danburite
