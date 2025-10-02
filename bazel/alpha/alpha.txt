@@ -9861,6 +9861,7 @@ aftergame
 antiautolysin
 antiamboceptor
 alkermes
+amortized
 angleworm
 aponogeton
 arx
@@ -19941,7 +19942,6 @@ absyrtus
 armlock
 antisoporific
 athalamous
-amortized
 affectations
 armonicas
 arrowheads
