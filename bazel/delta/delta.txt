@@ -4652,7 +4652,6 @@ disavows
 disgust
 dackers
 demipique
-devotedness
 dishtowel
 demipomada
 damned
@@ -5851,6 +5850,7 @@ deposers
 discouragement
 dissuade
 deposit
+devotedness
 diamondwork
 distome
 depositation
