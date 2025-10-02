@@ -7065,7 +7065,6 @@ azorian
 atazir
 aggress
 alist
-aphoriser
 aroint
 androides
 akkadian
@@ -17460,6 +17459,7 @@ accolades
 appalls
 anastasian
 adducers
+aphoriser
 appanage
 arthrostraca
 appetizers
