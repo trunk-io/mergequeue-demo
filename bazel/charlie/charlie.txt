@@ -11146,7 +11146,6 @@ chessboard
 chytridiaceae
 captains
 coccobacillus
-cardiologies
 chytridiose
 chytridiosis
 chytroi
@@ -12433,6 +12432,7 @@ conquerable
 chromatolytic
 chromatologies
 chromatopathy
+cardiologies
 celebe
 chromatophil
 chromatophile
