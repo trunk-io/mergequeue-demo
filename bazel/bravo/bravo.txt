@@ -2479,7 +2479,6 @@ bargaining
 beechwoods
 burian
 bhut
-bedark
 brachyoura
 barge
 bergere
@@ -18374,6 +18373,7 @@ bepaint
 bespatter
 buzz
 buzzard
+bedark
 beylical
 beasts
 bluebook
