@@ -1086,7 +1086,6 @@ embeddable
 epistolic
 echinology
 elective
-edification
 exfigure
 earock
 evaluates
@@ -8665,6 +8664,7 @@ equipotential
 externalize
 exconjugant
 endostyle
+edification
 epicoeliac
 epulotic
 equiprobably
