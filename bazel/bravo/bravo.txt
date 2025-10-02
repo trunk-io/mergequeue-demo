@@ -6961,7 +6961,6 @@ badder
 bismuths
 bagheli
 brott
-biatomic
 bilihumin
 bagoong
 balky
@@ -10133,6 +10132,7 @@ bielorouss
 brogh
 blat
 beshriek
+biatomic
 blackband
 blackberrylike
 bunkload
