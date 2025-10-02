@@ -2536,7 +2536,6 @@ candlelighting
 cohusband
 carvels
 circumcinct
-candlemaker
 candlemaking
 candlemas
 crewel
@@ -16805,6 +16804,7 @@ clotty
 clotting
 characterful
 cloture
+candlemaker
 clotured
 clotures
 confixed
