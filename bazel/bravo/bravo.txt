@@ -2735,6 +2735,7 @@ bukeyef
 barology
 barolong
 bardiest
+broncho
 bombax
 boroughship
 blam
@@ -15832,7 +15833,6 @@ boagane
 bedrabble
 benzthiophen
 biders
-broncho
 bulled
 bitonality
 bromacetic
