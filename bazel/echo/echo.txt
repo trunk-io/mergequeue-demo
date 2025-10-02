@@ -1971,7 +1971,6 @@ encyclopedist
 electrine
 edward
 ekka
-enolate
 exophoric
 ekphorias
 empetrum
@@ -3062,6 +3061,7 @@ equiangularity
 elaphomyces
 epicalyces
 encomiums
+enolate
 endogenies
 echinorhinidae
 etheriidae
