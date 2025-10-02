@@ -1355,7 +1355,6 @@ calyculated
 coercing
 counterband
 calicut
-calid
 calydonian
 chaped
 coquetted
@@ -24307,6 +24306,7 @@ const
 criminated
 cerebritis
 crescendi
+calid
 chirographer
 confessing
 chaka
