@@ -1294,7 +1294,6 @@ calibrates
 cloison
 catchwater
 calibrating
-calibre
 calibred
 complicative
 calibres
@@ -8864,6 +8863,7 @@ concurbit
 camelot
 cloudless
 conceptualisation
+calibre
 chaptalize
 contrapone
 cymbalaria
