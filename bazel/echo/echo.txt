@@ -2110,7 +2110,6 @@ epipubes
 equiangle
 elastomers
 elastose
-epeisodia
 embryologists
 emcees
 engarde
@@ -2989,6 +2988,7 @@ esophagoscope
 exportability
 epigram
 everich
+epeisodia
 eschalot
 embossage
 epidermis
