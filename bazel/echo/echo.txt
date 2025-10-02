@@ -2518,7 +2518,6 @@ eatable
 ezra
 electrometallurgist
 emptiable
-electrometer
 euhemerizing
 exstrophy
 electrometrical
@@ -4653,6 +4652,7 @@ equestrianship
 exceptionability
 evolutionize
 emplacement
+electrometer
 ectotropic
 endemics
 electromagnets
