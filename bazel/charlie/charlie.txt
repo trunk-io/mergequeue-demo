@@ -12892,6 +12892,7 @@ calorite
 calcitonin
 commonplacer
 crackback
+counterbid
 camellias
 chuprassie
 church
@@ -22599,7 +22600,6 @@ commonness
 castuli
 colorrhaphy
 clammish
-counterbid
 conking
 conn
 connascency
