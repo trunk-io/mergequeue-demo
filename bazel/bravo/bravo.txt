@@ -9208,7 +9208,6 @@ biotites
 buttonhold
 bromcamphor
 bruja
-biotome
 boiler
 brothered
 biotransformation
@@ -17936,6 +17935,7 @@ bushmaking
 branial
 bibliopoly
 bisinuate
+biotome
 benignant
 bushmasters
 bushongo
