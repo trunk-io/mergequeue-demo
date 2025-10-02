@@ -1328,6 +1328,7 @@ bookdealer
 bioplastic
 balboas
 barrowcoat
+batiking
 brod
 botrylle
 backdrops
@@ -3602,7 +3603,6 @@ besought
 blithelike
 becrowds
 beshouted
-batiking
 boise
 boloneys
 birlinn
