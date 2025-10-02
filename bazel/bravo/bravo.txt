@@ -1152,6 +1152,7 @@ bimotored
 bajra
 bogeyed
 beltmen
+breakfronts
 bajree
 bairnlier
 baized
@@ -14911,7 +14912,6 @@ breakfast
 buffetings
 breakfasted
 bastard
-breakfronts
 butlerage
 breaking
 busera
