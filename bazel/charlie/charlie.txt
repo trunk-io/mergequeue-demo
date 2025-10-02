@@ -6651,6 +6651,7 @@ ceboids
 chondritis
 ceratitic
 creesh
+clientage
 cebollite
 cebur
 cecal
@@ -16174,7 +16175,6 @@ collards
 commutations
 clydesider
 client
-clientage
 cellular
 cliental
 cycloramas
