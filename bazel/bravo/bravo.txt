@@ -12832,7 +12832,6 @@ belladonna
 bookstand
 blemisher
 bookstores
-bowleg
 biforked
 bigaroon
 bucolic
@@ -15746,6 +15745,7 @@ brochure
 balisier
 babblishly
 brock
+bowleg
 bombsight
 bryonies
 brocoli
