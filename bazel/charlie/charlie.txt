@@ -9560,7 +9560,6 @@ checkers
 cabbalah
 carpodacus
 cardanic
-capos
 checkhook
 crosshaul
 checky
@@ -15884,6 +15883,7 @@ crocoite
 chappaul
 cleansers
 codescendant
+capos
 cleanses
 cynosura
 cleanskin
