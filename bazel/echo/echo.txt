@@ -462,7 +462,6 @@ ecclesia
 enumerable
 encratite
 eucommia
-ecclesiarch
 ecclesiarchy
 emcee
 extoll
@@ -13276,6 +13275,7 @@ exploded
 empierce
 endophragm
 estranger
+ecclesiarch
 ethylsulphuric
 englishable
 evict
