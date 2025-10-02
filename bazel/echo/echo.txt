@@ -13365,7 +13365,6 @@ endogen
 enrichers
 esthesiometry
 exsanguinity
-everydeal
 elytral
 exserts
 expository
@@ -14163,6 +14162,7 @@ emersonian
 eidoptometry
 extensive
 epiloia
+everydeal
 escamoteur
 exudes
 emendating
