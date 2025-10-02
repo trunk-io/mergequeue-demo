@@ -4873,7 +4873,6 @@ carryall
 carrick
 carrycot
 chromatoplasm
-carried
 carryed
 carrier
 carryings
@@ -28344,6 +28343,7 @@ cheepily
 copywise
 craticular
 cratinean
+carried
 crating
 cratometer
 cratometry
