@@ -4861,6 +4861,7 @@ entablements
 excisions
 ef
 esteemable
+endoperidium
 encumbrance
 extrabureau
 english
@@ -5191,7 +5192,6 @@ etiotropically
 endopathic
 endopelvic
 encyclopaedist
-endoperidium
 externalised
 epoptes
 endophagous
