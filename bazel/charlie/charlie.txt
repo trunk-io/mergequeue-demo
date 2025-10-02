@@ -23034,7 +23034,6 @@ console
 crain
 crossfire
 chambermaids
-companyless
 copist
 consoles
 consolette
@@ -24277,6 +24276,7 @@ cosonant
 convolvulic
 convolvulinic
 certiorari
+companyless
 chylocauly
 cholecystoduodenostomy
 constraining
