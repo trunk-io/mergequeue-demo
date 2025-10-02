@@ -12354,7 +12354,6 @@ bullwhacker
 betrayer
 bramantesque
 bombardments
-bombline
 bowdrill
 bruskest
 bullbat
@@ -18187,6 +18186,7 @@ butlers
 butlership
 bichy
 braggadocianism
+bombline
 besprinkler
 buttonlike
 butment
