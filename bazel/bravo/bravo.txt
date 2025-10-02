@@ -2352,7 +2352,6 @@ boxwork
 blip
 bebeeru
 barcone
-bacillemia
 banshie
 brakemen
 belabors
@@ -8798,6 +8797,7 @@ betuckered
 bulginess
 berghaan
 binaural
+bacillemia
 blow
 baronet
 binbashi
