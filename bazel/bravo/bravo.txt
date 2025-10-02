@@ -3539,7 +3539,6 @@ bipinnaria
 blah
 bathymetry
 bathymetrical
-bathing
 bastinadoes
 bridgekeeper
 bailiery
@@ -15369,6 +15368,7 @@ bagatelles
 brierroot
 bonnetless
 brieve
+bathing
 beanier
 beslings
 birthstone
