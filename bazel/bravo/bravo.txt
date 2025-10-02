@@ -2898,7 +2898,6 @@ barreleyes
 bathometry
 barrelet
 bookend
-batuque
 botanical
 bundies
 beachheads
@@ -4081,6 +4080,7 @@ beansetter
 beanshooter
 beanstalk
 begrain
+batuque
 boehmenist
 bestiaries
 bombinating
