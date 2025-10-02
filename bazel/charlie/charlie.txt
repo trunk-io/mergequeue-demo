@@ -23366,7 +23366,6 @@ checklists
 ceromez
 consumo
 cynosarges
-consumpted
 ctenostomata
 corrasive
 consumptional
@@ -28590,6 +28589,7 @@ comd
 checkerwork
 creditive
 creditless
+consumpted
 creditor
 curial
 creditress
