@@ -1116,7 +1116,6 @@ botete
 bankman
 bountree
 bairnwort
-baisemain
 besmears
 benedictine
 bushwa
@@ -10688,6 +10687,7 @@ bibliognostic
 bluejoint
 bantin
 bejesus
+baisemain
 bipunctual
 biotics
 bronchorrhagia
