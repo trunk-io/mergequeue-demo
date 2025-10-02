@@ -7749,6 +7749,7 @@ acerb
 aonian
 asteroidea
 ambrette
+afaint
 assignability
 anatomies
 aiawong
@@ -20495,7 +20496,6 @@ arteriocapillary
 adenectopia
 aggressiveness
 anoxybiosis
-afaint
 acrid
 adsorptive
 apositic
