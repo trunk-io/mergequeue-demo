@@ -1802,7 +1802,6 @@ beslime
 bullose
 bialystoker
 bufflehorn
-bandaging
 bowlin
 bandaid
 bandala
@@ -11852,6 +11851,7 @@ boded
 bodefully
 bodegas
 bury
+bandaging
 buttes
 broiden
 baking
