@@ -19756,7 +19756,6 @@ combatant
 cimbalom
 combaters
 combating
-combative
 combativeness
 citizenship
 cocainized
@@ -26894,6 +26893,7 @@ counterfeit
 counterfeitly
 captaculum
 cudava
+combative
 chilopod
 counterfeits
 counterfessed
