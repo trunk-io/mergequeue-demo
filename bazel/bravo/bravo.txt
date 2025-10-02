@@ -373,7 +373,6 @@ backgame
 backgammon
 barbarical
 barwares
-breaststroke
 background
 backhand
 backhandedness
@@ -3224,6 +3223,7 @@ bleated
 backoff
 blushfulness
 basilicate
+breaststroke
 basilicock
 basilics
 basilidian
