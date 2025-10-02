@@ -2055,7 +2055,6 @@ camoufleur
 chests
 cosherer
 camp
-campa
 campagi
 coquettes
 counteraverment
@@ -14620,6 +14619,7 @@ chateaubriand
 clefs
 chang
 cissus
+campa
 clarkeite
 cankerwort
 chamoised
