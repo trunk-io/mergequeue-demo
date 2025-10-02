@@ -7309,6 +7309,7 @@ exemplariness
 eelshop
 ephah
 equinities
+essentials
 enact
 electrooptics
 escaping
@@ -11992,7 +11993,6 @@ enscrolls
 everyone
 enterfeat
 exampleship
-essentials
 eigenspace
 espeire
 embolus
