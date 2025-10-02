@@ -2527,6 +2527,7 @@ artisan
 auricle
 avoucher
 autoactive
+abaculus
 aconine
 afdecho
 adipolysis
@@ -21441,7 +21442,6 @@ admixed
 axseeds
 appoggiatura
 aspersoriums
-abaculus
 asperulous
 anticovenanting
 archeion
