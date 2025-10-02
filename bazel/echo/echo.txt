@@ -1559,7 +1559,6 @@ exogeny
 egises
 elytropolypus
 euosmite
-enterokinetic
 eglamore
 eglandular
 eglantines
@@ -7943,6 +7942,7 @@ elucidators
 epineuria
 epineurium
 enclaving
+enterokinetic
 ergotinine
 endostea
 eczematization
