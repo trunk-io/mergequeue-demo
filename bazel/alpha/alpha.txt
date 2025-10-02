@@ -4585,6 +4585,7 @@ advisors
 abrasive
 anahao
 alchemist
+adman
 afficionado
 advocated
 afterspeech
@@ -7026,7 +7027,6 @@ antiplague
 akepiro
 alveolus
 assagaied
-adman
 apogeal
 altiloquent
 angus
