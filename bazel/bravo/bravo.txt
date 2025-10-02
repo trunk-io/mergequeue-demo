@@ -11865,7 +11865,6 @@ bard
 briareus
 browbeater
 bootlegging
-banking
 bodybuilding
 brachiating
 bodice
@@ -12685,6 +12684,7 @@ bahuma
 beshadows
 bonze
 butterhead
+banking
 bonzer
 betattered
 betided
