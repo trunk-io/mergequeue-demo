@@ -2906,7 +2906,6 @@ cacaos
 cantabile
 clothesmonger
 chalcis
-cantabrian
 cantabrigian
 cantalever
 cantaliver
@@ -22009,6 +22008,7 @@ confidentness
 confider
 confiders
 confiding
+cantabrian
 coppa
 carbodiimide
 confidingly
