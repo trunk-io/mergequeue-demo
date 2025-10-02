@@ -4075,6 +4075,7 @@ branchier
 beano
 bagge
 beans
+barmaids
 blokes
 beansetter
 beanshooter
@@ -8171,7 +8172,6 @@ bearess
 bidri
 bassing
 brutelike
-barmaids
 basidigitale
 bieberite
 birdclapper
