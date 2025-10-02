@@ -4866,6 +4866,7 @@ extrabureau
 english
 evolves
 experientialist
+endurant
 eucharistically
 elderman
 ephyrula
@@ -6512,7 +6513,6 @@ endostosis
 ephyra
 extratension
 elaphodus
-endurant
 ended
 entangled
 entangledness
