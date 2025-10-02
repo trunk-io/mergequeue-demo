@@ -4427,7 +4427,6 @@ becoiffed
 bulkiness
 beclogs
 bretonian
-bilabials
 beclothe
 banting
 bonasus
@@ -14376,6 +14375,7 @@ brahmanism
 brahmanist
 brahmanistic
 brahmanize
+bilabials
 bracers
 brahmapootra
 borehole
