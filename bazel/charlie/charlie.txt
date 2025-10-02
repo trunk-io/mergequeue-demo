@@ -3542,7 +3542,6 @@ captandum
 captate
 colation
 captation
-caption
 captioned
 convenably
 captioning
@@ -5451,6 +5450,7 @@ castlewise
 castock
 clepes
 castoffs
+caption
 castores
 coldly
 castoreum
