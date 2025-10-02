@@ -28,7 +28,6 @@ castratory
 cnicus
 cabalist
 congii
-courier
 caball
 caballer
 corrosiving
@@ -12445,6 +12444,7 @@ chromatophilous
 chromatophobia
 chromatophore
 carpel
+courier
 chromatophoric
 canthectomy
 chevroned
