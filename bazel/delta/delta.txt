@@ -2504,7 +2504,6 @@ dryest
 declaim
 dichorisandra
 dresser
-declaimer
 dilaters
 declamatory
 decibar
@@ -12954,6 +12953,7 @@ daughterkin
 dullhead
 dactylitis
 disordering
+declaimer
 downwith
 decasyllables
 disordinance
