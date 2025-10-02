@@ -11331,7 +11331,6 @@ chesterbed
 ceresin
 chlormethane
 chrysidella
-chloroacetone
 childe
 conservation
 chloroamide
@@ -28046,6 +28045,7 @@ careen
 caprid
 craniopuncture
 cachexia
+chloroacetone
 craigmontite
 colossi
 craik
