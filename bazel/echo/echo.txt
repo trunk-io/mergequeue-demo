@@ -10843,7 +10843,6 @@ endostomata
 extruct
 envineyard
 enchase
-eisteddfodau
 euphotic
 enantiomorphous
 eructation
@@ -11291,6 +11290,7 @@ editorializes
 evapotranspiration
 esiphonal
 ergatoid
+eisteddfodau
 erenach
 eneid
 erudite
