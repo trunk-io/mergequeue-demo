@@ -3355,7 +3355,6 @@ caponize
 crispate
 caponized
 contrasty
-caponizer
 caponizing
 caponniere
 capons
@@ -20159,6 +20158,7 @@ conceited
 congealable
 canewise
 comminative
+caponizer
 cloddish
 comminator
 commingle
