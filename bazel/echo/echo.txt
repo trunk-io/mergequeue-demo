@@ -1713,7 +1713,6 @@ emerges
 eyelash
 euroclydon
 exsomatic
-eliding
 eyelessness
 epikia
 exert
@@ -9733,6 +9732,7 @@ emotionable
 electives
 eastlings
 entitles
+eliding
 equisonance
 everyplace
 eddo
