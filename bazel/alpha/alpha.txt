@@ -2670,7 +2670,6 @@ apartment
 antepenultimate
 aking
 acrawl
-aerialness
 acre
 ammochaeta
 acreage
@@ -3639,6 +3638,7 @@ adjudication
 anglophobic
 anseres
 aeonist
+aerialness
 adenophlegmon
 antestature
 adenophora
