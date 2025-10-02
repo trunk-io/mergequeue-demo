@@ -5896,7 +5896,6 @@ bellwort
 belock
 beloeilite
 basimesostasis
-bryologist
 belomancy
 belonephobia
 belonger
@@ -11185,6 +11184,7 @@ bumelia
 brutalised
 bloodwite
 bailee
+bryologist
 bushgoat
 bugfish
 bombardman
