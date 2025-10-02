@@ -4845,7 +4845,6 @@ encroachments
 epitaxic
 encrustation
 elepaio
-empoisons
 exoperidium
 ecchymoses
 enculturation
@@ -9615,6 +9614,7 @@ exceptionary
 ensearch
 esoterize
 epsilon
+empoisons
 esotropia
 esp
 eternalise
