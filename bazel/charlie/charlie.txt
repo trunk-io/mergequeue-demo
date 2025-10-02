@@ -1761,6 +1761,7 @@ countergarrison
 curagh
 calvarial
 calvaries
+counterplan
 calvarium
 calved
 calvin
@@ -3445,7 +3446,6 @@ caprylyl
 coat
 caprylone
 chivarro
-counterplan
 caprimulgiformes
 chinwood
 caprin
