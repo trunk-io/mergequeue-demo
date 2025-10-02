@@ -6092,7 +6092,6 @@ bodge
 butomaceous
 barragon
 berkovets
-benchful
 benchman
 benchmark
 baryecoia
@@ -17285,6 +17284,7 @@ bumfuzzle
 baubles
 bumicky
 blotched
+benchful
 bumkin
 burseed
 berretta
