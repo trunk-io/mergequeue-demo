@@ -3948,6 +3948,7 @@ carburetor
 consulted
 cornily
 capra
+class
 carburetors
 carburets
 cuffer
@@ -23764,7 +23765,6 @@ contraindications
 cologarithm
 contralateral
 crappers
-class
 conjunctural
 chessmen
 cothurned
