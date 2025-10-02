@@ -7672,7 +7672,6 @@ beeper
 burgling
 bewraps
 belesprit
-bewrapt
 bepride
 bewreck
 billers
@@ -16442,6 +16441,7 @@ balletomanes
 botas
 bouffage
 balbriggan
+bewrapt
 batitinan
 blamers
 boorishly
