@@ -1105,6 +1105,7 @@ crownband
 calcioferrite
 ceratobranchial
 calcioscheelite
+conterminal
 calciovolborthite
 calciphylactic
 calciphylaxis
@@ -26627,7 +26628,6 @@ coughs
 could
 coul
 candleberry
-conterminal
 coulage
 couldest
 chickenshit
