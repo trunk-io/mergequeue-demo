@@ -4864,7 +4864,6 @@ esteemable
 encumbrance
 extrabureau
 english
-evolves
 experientialist
 eucharistically
 elderman
@@ -10143,6 +10142,7 @@ earstone
 epithalami
 expositress
 enumerators
+evolves
 eurhodine
 effluent
 ergatandromorphic

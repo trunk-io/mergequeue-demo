@@ -1339,7 +1339,6 @@ antas
 avows
 abaters
 acc
-accable
 accel
 accelerable
 animalizing
@@ -9842,6 +9841,7 @@ antiphilosophism
 auriculae
 amarantine
 advowsance
+accable
 amarevole
 apathaton
 atonable
