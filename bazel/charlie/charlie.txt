@@ -22442,7 +22442,6 @@ champlainic
 conidioid
 conidiophorous
 conidiospore
-copy
 conidium
 conifer
 chillo
@@ -26443,6 +26442,7 @@ cotes
 cycloidian
 cerenkov
 cothon
+copy
 cothouse
 cothurn
 cothurnus
