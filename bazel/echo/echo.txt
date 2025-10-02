@@ -838,7 +838,6 @@ eriophorum
 ectocoelic
 eosinophil
 ectocommensal
-ectocondylar
 endophytic
 efficient
 electrolyser
@@ -8236,6 +8235,7 @@ eure
 escapado
 exhortations
 epitoke
+ectocondylar
 erratums
 endolaryngeal
 epitactic
