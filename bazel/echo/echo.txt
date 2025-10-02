@@ -9632,7 +9632,6 @@ entangleable
 equipper
 espringal
 entia
-epacris
 espagnole
 elaeagnus
 enfrai
@@ -10052,6 +10051,7 @@ evolutions
 encastered
 eftsoon
 egrets
+epacris
 ethambutol
 exitial
 epiphylaxis
