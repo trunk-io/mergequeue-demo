@@ -11482,7 +11482,6 @@ discolorations
 discolored
 doest
 defalcations
-deads
 discolorment
 discolouring
 disconnectiveness
@@ -17524,6 +17523,7 @@ drugeteria
 dogrib
 drugger
 deliverability
+deads
 detoxified
 druggery
 druggets
