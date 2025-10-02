@@ -6549,7 +6549,6 @@ cavyyard
 caviled
 canmaker
 cavilers
-cavilingly
 craftsmen
 cryosurgeon
 ceraunogram
@@ -27286,6 +27285,7 @@ counterwork
 counterworker
 counterworking
 committee
+cavilingly
 carminative
 cirropodous
 counting
