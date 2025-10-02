@@ -2709,7 +2709,6 @@ calcemia
 cankery
 cannoneering
 cankering
-cankerroot
 cauponize
 cankers
 cultivators
@@ -6879,6 +6878,7 @@ cellucotton
 coadunative
 chirkest
 casketing
+cankerroot
 cementers
 caloris
 carbonatization
