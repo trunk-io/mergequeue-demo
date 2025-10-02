@@ -282,6 +282,7 @@ booths
 bedotted
 bacis
 boltuprightness
+biaxial
 bespangled
 belar
 back
@@ -7168,7 +7169,6 @@ blowy
 betongue
 bibliology
 briskish
-biaxial
 bonduc
 backless
 besprinkles

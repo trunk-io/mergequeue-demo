@@ -9592,6 +9592,7 @@ compathy
 checkrope
 cumulant
 conoy
+courtage
 checkrowed
 checkrower
 consummatively
@@ -27398,7 +27399,6 @@ coursers
 courses
 coursing
 court
-courtage
 climacterics
 courtal
 courtbred
