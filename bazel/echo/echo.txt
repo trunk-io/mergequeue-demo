@@ -3856,6 +3856,7 @@ electrotonus
 extraboldface
 eminencies
 evendown
+embrangled
 exterminating
 eminent
 easternized
@@ -6781,7 +6782,6 @@ electrocutes
 efoliolate
 enneatic
 encinillo
-embrangled
 escribing
 electrums
 efflation
