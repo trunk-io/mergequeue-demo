@@ -12520,7 +12520,6 @@ bookroom
 bawdrick
 bashlyks
 bierbalk
-bondship
 bondslave
 bondsman
 blueys
@@ -16284,6 +16283,7 @@ browst
 barogram
 brickmaker
 bromoketone
+bondship
 brinjaul
 bottlehead
 browzer

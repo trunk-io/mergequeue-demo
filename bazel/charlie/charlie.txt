@@ -8588,7 +8588,6 @@ categorical
 chanceful
 cadrans
 chancefulness
-chancey
 chanceled
 cardiacea
 chanceless
@@ -10099,6 +10098,7 @@ calzone
 cherusci
 chervonei
 conundrumize
+chancey
 chervontsi
 chesapeake
 caboche
