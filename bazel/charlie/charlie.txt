@@ -3294,6 +3294,7 @@ capitulars
 colourability
 contrist
 calcino
+colonizability
 crusilee
 capitulate
 capitulates
@@ -22602,7 +22603,6 @@ connate
 connately
 connateness
 crinate
-colonizability
 commotion
 connatural
 connaturality
