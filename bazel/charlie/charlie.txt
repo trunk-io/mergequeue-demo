@@ -2285,7 +2285,6 @@ canaglia
 canaigre
 canaille
 canailles
-cymoid
 churchmanly
 chargeship
 commonwealth
@@ -25624,6 +25623,7 @@ commemorized
 coroutines
 clericum
 corp
+cymoid
 corpn
 corpora
 corporacy
