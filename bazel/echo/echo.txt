@@ -5844,7 +5844,6 @@ elb
 edificing
 earthwork
 electorial
-epigeum
 eggroll
 endogamous
 ewest
@@ -12591,6 +12590,7 @@ epistylis
 eustathian
 elastase
 eumeromorph
+epigeum
 eyeserver
 exocrines
 emanative
