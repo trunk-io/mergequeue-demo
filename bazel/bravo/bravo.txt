@@ -2500,7 +2500,6 @@ blueblack
 beslash
 brisque
 bassetite
-bottonhook
 becloaked
 barguest
 barguests
@@ -17456,6 +17455,7 @@ bunnia
 bunnies
 bunodont
 brickleness
+bottonhook
 bacteroid
 bunoselenodont
 brulots
