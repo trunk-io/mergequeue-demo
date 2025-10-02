@@ -3232,7 +3232,6 @@ cumly
 capital
 chevronny
 capitaldom
-capitaled
 capitalisable
 capitalised
 capitalising
@@ -16048,6 +16047,7 @@ clergylike
 cyclos
 cabildos
 clergion
+capitaled
 clergywoman
 culverfoot
 clerical
