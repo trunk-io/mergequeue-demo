@@ -4804,7 +4804,6 @@ bollix
 brazenface
 bikh
 beshrouded
-bolometer
 bedstraw
 bedstraws
 bedstring
@@ -9089,6 +9088,7 @@ bemire
 bethumps
 bunching
 bearbaiting
+bolometer
 biopoiesis
 bonzery
 basking
