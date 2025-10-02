@@ -12909,6 +12909,7 @@ churchy
 churchianity
 churchyard
 charadrius
+civilisedness
 crawlways
 churchyards
 churchier
@@ -23873,7 +23874,6 @@ contrib
 chair
 clavel
 contributable
-civilisedness
 cutins
 contribution
 chenier
