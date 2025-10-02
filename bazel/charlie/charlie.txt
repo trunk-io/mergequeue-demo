@@ -2517,6 +2517,7 @@ candytuft
 curryfavel
 candyweed
 candle
+cresyl
 coehorn
 candleball
 candleberries
@@ -28843,7 +28844,6 @@ confederatio
 cantino
 cresegol
 cargo
-cresyl
 cresylate
 cresylic
 cresyls
