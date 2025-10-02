@@ -462,7 +462,6 @@ cryptocrystalline
 cadaster
 clacked
 cadasters
-cadastral
 cadastration
 cadastres
 cadaver
@@ -23886,6 +23885,7 @@ callusing
 cointise
 contributorial
 contributories
+cadastral
 contributorship
 civiler
 cystospasm
