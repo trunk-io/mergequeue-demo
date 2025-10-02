@@ -17043,7 +17043,6 @@ cosignitary
 clupeids
 creatureliness
 classis
-cachalot
 caviar
 clupien
 cenotaphs
@@ -17760,6 +17759,7 @@ coffeeleaf
 cochlospermum
 catatoniac
 cochon
+cachalot
 coven
 cocillana
 cyrtolite
