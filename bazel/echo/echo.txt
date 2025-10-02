@@ -838,6 +838,7 @@ eriophorum
 ectocoelic
 eosinophil
 ectocommensal
+emplead
 ectocondylar
 endophytic
 efficient
@@ -7641,7 +7642,6 @@ epicotyls
 enhancement
 erethistic
 extrasomatic
-emplead
 enterostasis
 earworms
 eton
