@@ -460,7 +460,6 @@ enanthesis
 evector
 ecclesia
 enumerable
-encratite
 eucommia
 ecclesiarch
 ecclesiarchy
@@ -12493,6 +12492,7 @@ ense
 etiogenic
 eluviates
 exaggeration
+encratite
 enteropneusta
 erythrophage
 envisages

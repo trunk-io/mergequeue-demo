@@ -7212,7 +7212,6 @@ clinoaxis
 cpo
 centred
 centref
-centreless
 centrepiece
 canephoroe
 centrer
@@ -28684,6 +28683,7 @@ crematorial
 crematoriria
 crematorium
 cornicular
+centreless
 cremators
 coronule
 crembalum
