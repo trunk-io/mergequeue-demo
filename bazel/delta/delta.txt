@@ -12636,7 +12636,6 @@ doomsman
 defaultant
 descendentalist
 descrial
-duplicidentate
 dechemicalization
 disjunctive
 disjunctively
@@ -16207,6 +16206,7 @@ dowagers
 dispersions
 dromical
 dertra
+duplicidentate
 degas
 dowdy
 disregardful
