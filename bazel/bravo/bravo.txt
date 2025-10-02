@@ -7428,7 +7428,6 @@ behaviours
 bottles
 bookbinders
 bromated
-betrayed
 bequeathment
 bimarginate
 bedgown
@@ -10278,6 +10277,7 @@ biborate
 belly
 boracic
 blacksmithing
+betrayed
 biochemy
 beastdom
 botargo

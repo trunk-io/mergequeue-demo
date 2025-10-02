@@ -445,7 +445,6 @@ dodrantal
 dhourra
 dairous
 dairt
-dais
 dogy
 deducer
 disinthrall
@@ -12730,6 +12729,7 @@ defectoscope
 dislluminate
 dubbings
 difference
+dais
 dislocability
 dosimetry
 doli
