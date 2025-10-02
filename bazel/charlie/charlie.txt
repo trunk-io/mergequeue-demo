@@ -7391,7 +7391,6 @@ coprocessors
 cufflink
 cephalocercal
 cushlamochree
-cephalochord
 cowmen
 cephalochordal
 cephalochordata
@@ -8252,6 +8251,7 @@ chairmanships
 checkoff
 chairmender
 cottontop
+cephalochord
 chairpersons
 chairway
 cryptogamian
