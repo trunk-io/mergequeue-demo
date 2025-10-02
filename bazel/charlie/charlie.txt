@@ -5689,7 +5689,6 @@ cataplastic
 casten
 catapleiite
 catapuce
-catapulted
 catapultic
 catapultier
 colthood
@@ -28021,6 +28020,7 @@ crag
 craggan
 countersignature
 craggy
+catapulted
 chromoscopic
 cataphylla
 craggily
