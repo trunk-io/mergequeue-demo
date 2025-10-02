@@ -8871,6 +8871,7 @@ chapter
 canonries
 chapteral
 chapterhouse
+condensed
 consortship
 chapters
 cardinalates
@@ -21645,7 +21646,6 @@ condensator
 corbeled
 crateris
 condense
-condensed
 condensedness
 condensers
 crudely
