@@ -9429,7 +9429,6 @@ djinni
 duplicator
 diffusers
 disenthralment
-diffuses
 duckish
 danaidean
 demilitarizing
@@ -16746,6 +16745,7 @@ disadvised
 dewily
 drammocks
 dicey
+diffuses
 desalt
 disclaimer
 disauthorize
