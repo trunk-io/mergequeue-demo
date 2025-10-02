@@ -17422,7 +17422,6 @@ coasserter
 caravelle
 crownland
 chemigraph
-coreceiver
 cimline
 coassist
 coassistant
@@ -22054,6 +22053,7 @@ confirmatory
 craniosacral
 colicin
 confirmed
+coreceiver
 confirmedness
 corticostriate
 confirmer
