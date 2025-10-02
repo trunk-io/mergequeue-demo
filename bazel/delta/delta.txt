@@ -3764,6 +3764,7 @@ delegated
 disprove
 dehkan
 durmasts
+disenchant
 decimate
 defaceable
 dehonestation
@@ -11997,7 +11998,6 @@ disenabled
 duplicates
 diploplacula
 differen
-disenchant
 dowd
 disenchantments
 depluming
