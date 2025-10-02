@@ -5480,7 +5480,6 @@ bootid
 behoof
 broadmouth
 baronets
-behoovefulness
 barrier
 behooves
 behooving
@@ -18006,6 +18005,7 @@ benevolence
 businesslikeness
 brutification
 beerily
+behoovefulness
 barbotte
 barmfel
 babbitt
