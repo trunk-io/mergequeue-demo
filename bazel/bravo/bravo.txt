@@ -11432,7 +11432,6 @@ bushland
 bluecurls
 browbands
 blued
-basisolute
 bookfair
 bluefin
 blaseness
@@ -15318,6 +15317,7 @@ boarship
 bisbeeite
 bighead
 bordarius
+basisolute
 bromization
 bursa
 batrachidae
