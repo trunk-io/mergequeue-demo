@@ -2076,7 +2076,6 @@ banqueting
 beseem
 buddhistic
 besteer
-bladeless
 boguing
 bulker
 billbeetle
@@ -9905,6 +9904,7 @@ bitstone
 blackthorn
 bitter
 besee
+bladeless
 bitterbloom
 bitterbur
 bittered
