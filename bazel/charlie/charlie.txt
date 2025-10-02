@@ -19383,7 +19383,6 @@ colonist
 colonizable
 colonize
 comminating
-courted
 colonizers
 colonnade
 coughwort
@@ -29846,6 +29845,7 @@ croplands
 cucoline
 cepheids
 cropless
+courted
 conjugately
 cincinnatian
 contraindication
