@@ -8809,6 +8809,7 @@ colonises
 chapelry
 combflower
 chapelries
+cis
 cinerins
 chapels
 chapelward
@@ -14873,7 +14874,6 @@ cascan
 citizens
 cytoanalyzer
 catharsis
-cis
 copremia
 cytoarchitectural
 cytoblast
