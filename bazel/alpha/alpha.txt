@@ -15384,7 +15384,6 @@ antimasque
 antimasquer
 afterstrain
 appast
-aequorin
 aquerne
 assidean
 airliners
@@ -18624,6 +18623,7 @@ awkwardest
 arbovirus
 archarchitect
 anticoagulate
+aequorin
 accusably
 archband
 aboil
