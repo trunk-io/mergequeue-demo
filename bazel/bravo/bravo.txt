@@ -12017,6 +12017,7 @@ bytalk
 bribeability
 bogled
 boglet
+birthstone
 beckelite
 bolts
 bogmire
@@ -15371,7 +15372,6 @@ bonnetless
 brieve
 beanier
 beslings
-birthstone
 brigaded
 boxbush
 bapistery
