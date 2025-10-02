@@ -11674,7 +11674,6 @@ boatage
 barspoon
 boatbuilding
 boathook
-boathouse
 backbends
 boffos
 baccare
@@ -16851,6 +16850,7 @@ buffier
 blowback
 bromoaurate
 blighties
+boathouse
 birdcalls
 buzzer
 battak
