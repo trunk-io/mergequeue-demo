@@ -11275,6 +11275,7 @@ drawstring
 discanted
 dermochelys
 distent
+douzeper
 discomedusan
 dragon
 delegacies
@@ -18586,7 +18587,6 @@ delirious
 duskingtide
 duskishness
 dogtrotting
-douzeper
 dewool
 duskness
 dust
