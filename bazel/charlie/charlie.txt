@@ -10038,6 +10038,7 @@ chernomorish
 cooried
 chernozem
 cuprammonia
+clinometer
 cosine
 cherokee
 corodiastole
@@ -16354,7 +16355,6 @@ constringency
 contraindicate
 clinoid
 clinology
-clinometer
 clinometry
 clinometric
 cantos
