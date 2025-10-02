@@ -16781,7 +16781,6 @@ clamberer
 cirrus
 clothesline
 clotheslines
-clothesman
 crypts
 cheerful
 carbamoyl
@@ -31283,6 +31282,7 @@ curates
 curatess
 curation
 cutworks
+clothesman
 curative
 curativeness
 curatorium
