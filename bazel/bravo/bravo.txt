@@ -4587,7 +4587,6 @@ beckon
 baptise
 burse
 bloke
-bedtick
 bedchair
 bedchairs
 bellowing
@@ -16656,6 +16655,7 @@ bucharest
 buchloe
 bunkoing
 burros
+bedtick
 bloomy
 buchnerite
 balconette
