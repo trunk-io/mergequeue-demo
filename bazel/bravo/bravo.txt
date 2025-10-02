@@ -1915,7 +1915,6 @@ bandsawn
 bandsman
 bandstand
 boronia
-beseechment
 bocaccios
 bagnio
 balances
@@ -6476,6 +6475,7 @@ bullseye
 braggartly
 basidiogenetic
 bedrocks
+beseechment
 bigwiggedness
 baccate
 bepaste
