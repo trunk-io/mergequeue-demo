@@ -10434,7 +10434,6 @@ abbeys
 antiatom
 argyroneta
 alchymy
-affections
 amethystine
 absurdum
 addling
@@ -25304,6 +25303,7 @@ amalgamators
 atheological
 albinoism
 azoic
+affections
 ameliorations
 alantin
 appellancy
