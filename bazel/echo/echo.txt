@@ -1266,7 +1266,6 @@ een
 extraditable
 ecorche
 eblis
-eucairite
 eleonorite
 epinephrin
 eq
@@ -11026,6 +11025,7 @@ episcopacies
 eliminator
 eurythmics
 epiphenomena
+eucairite
 endotrophic
 epigonichthys
 enterrologist
