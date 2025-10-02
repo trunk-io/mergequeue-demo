@@ -11062,7 +11062,6 @@ analects
 argumentatory
 amperian
 acanthous
-attenuation
 abapical
 agrotype
 awakings
@@ -21922,6 +21921,7 @@ allopolyploidy
 aminolipin
 amylome
 assoils
+attenuation
 anastrophe
 assonants
 azilut
