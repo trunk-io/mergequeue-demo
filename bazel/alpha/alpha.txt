@@ -6519,7 +6519,6 @@ aidman
 aids
 afterripening
 arbalestre
-apocarpous
 aiel
 aias
 aligerous
@@ -21752,6 +21751,7 @@ aenigma
 anionics
 abbogada
 abaxial
+apocarpous
 assessed
 assession
 adamantoblastoma
