@@ -2951,7 +2951,6 @@ cantharidae
 cake
 chytrid
 cantharidate
-cantharides
 coation
 cantharidian
 cycloacetylene
@@ -6742,6 +6741,7 @@ charcia
 celadon
 complexionally
 cutidure
+cantharides
 celadonite
 coleen
 celaeno
