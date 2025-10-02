@@ -6405,7 +6405,6 @@ bracted
 boundure
 biozone
 belgium
-benzoglycolic
 benzoglyoxaline
 bastioned
 benzoylated
@@ -8906,6 +8905,7 @@ bioastronautics
 belch
 biobibliographer
 barleysick
+benzoglycolic
 bioblastic
 bilabiate
 backwoodsiness
