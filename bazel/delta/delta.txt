@@ -7191,7 +7191,6 @@ dispersement
 drawboring
 deerkill
 desulphurize
-depullulation
 diplospondylism
 doves
 dubbeltje
@@ -16253,6 +16252,7 @@ dowly
 darneder
 defusing
 description
+depullulation
 diploidion
 destuff
 duplicated
