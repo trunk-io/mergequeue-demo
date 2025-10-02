@@ -926,7 +926,6 @@ bogey
 bagwyn
 bustier
 bagwork
-baker
 brumby
 bahadur
 beverage
@@ -5707,6 +5706,7 @@ belied
 bridalty
 beliefful
 bikram
+baker
 bahts
 blastule
 bebeast
