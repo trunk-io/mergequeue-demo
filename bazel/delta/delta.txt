@@ -14206,6 +14206,7 @@ disutilize
 doldrum
 dismasts
 dramatists
+deconcatenate
 dicer
 damage
 daboia
@@ -15608,7 +15609,6 @@ doodlebug
 doodlers
 doodlesack
 demeanors
-deconcatenate
 drying
 determinedly
 duumviri
