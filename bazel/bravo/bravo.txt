@@ -13514,7 +13514,6 @@ bottlemaker
 begotten
 burgs
 broilery
-beer
 bought
 bleeding
 bottleman
@@ -14044,6 +14043,7 @@ bonesetter
 brontops
 bismuthic
 bemeal
+beer
 brabanter
 blindfolder
 bloviates
