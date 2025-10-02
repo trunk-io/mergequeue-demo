@@ -7369,6 +7369,7 @@ condurrite
 cephalate
 cephalhematoma
 coracovertebral
+chondrocranial
 cephalic
 chequering
 cephalina
@@ -11809,7 +11810,6 @@ caliphates
 chondrocoracoid
 consonantalizing
 chondrocostal
-chondrocranial
 circuitous
 chondrodystrophy
 chondrodystrophia
