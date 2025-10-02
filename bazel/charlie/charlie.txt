@@ -2467,7 +2467,6 @@ contuse
 crystallitic
 cancrum
 cancrums
-cand
 candareen
 candelabra
 candelabras
@@ -29615,6 +29614,7 @@ critize
 cosmic
 critling
 coadunating
+cand
 critters
 crittur
 consult
