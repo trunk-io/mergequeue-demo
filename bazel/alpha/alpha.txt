@@ -90,7 +90,6 @@ adelphi
 abarticulation
 abase
 abasers
-abashed
 abashedness
 advantaged
 achromatous
@@ -2204,6 +2203,7 @@ atwind
 anticentralism
 achroglobin
 aspersions
+abashed
 achroiocythaemia
 apod
 autoptic
