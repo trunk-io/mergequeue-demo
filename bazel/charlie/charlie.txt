@@ -25857,7 +25857,6 @@ corrodies
 cetene
 cyclophorus
 cepa
-cofound
 corrosibleness
 coeltera
 corrosived
@@ -27230,6 +27229,7 @@ countertype
 cooter
 classisms
 countertouch
+cofound
 chait
 cacotrophic
 circumgyration
