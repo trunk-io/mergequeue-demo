@@ -2291,7 +2291,6 @@ electroacoustical
 elfkin
 electroacoustics
 enthetic
-exundation
 electroanalytic
 electroanesthesia
 eavesdrop
@@ -2949,6 +2948,7 @@ eleoblast
 evaluate
 extine
 efflorescence
+exundation
 extern
 eliot
 eliphalet
