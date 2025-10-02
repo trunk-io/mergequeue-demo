@@ -17820,7 +17820,6 @@ acutance
 ate
 artotypy
 atrede
-apolistan
 above
 adieus
 assurance
@@ -24229,6 +24228,7 @@ aevum
 autoloader
 alternatively
 autocollimate
+apolistan
 autology
 allowableness
 aggrandizements
