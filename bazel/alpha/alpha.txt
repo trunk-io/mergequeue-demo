@@ -6737,7 +6737,6 @@ aircraftsman
 amulets
 advised
 affrontiveness
-aircraftswoman
 aircraftwoman
 acemetae
 appleringie
@@ -17616,6 +17615,7 @@ ambience
 appersonation
 appersonification
 appert
+aircraftswoman
 allionia
 athematic
 accosts
