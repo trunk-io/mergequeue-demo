@@ -3855,7 +3855,6 @@ entomotomy
 electrotonus
 extraboldface
 eminencies
-evendown
 exterminating
 eminent
 easternized
@@ -8324,6 +8323,7 @@ entifical
 epithets
 enterocolostomy
 exuvial
+evendown
 eyetooth
 enthrallments
 educative
