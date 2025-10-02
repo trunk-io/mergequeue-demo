@@ -2453,7 +2453,6 @@ capelline
 cancrine
 cicatrix
 carpers
-cirrostome
 coffeeberry
 cancrinite
 cancrisocial
@@ -17715,6 +17714,7 @@ collide
 calabozo
 cocculiferous
 cost
+cirrostome
 cocculus
 convertend
 corrivals
