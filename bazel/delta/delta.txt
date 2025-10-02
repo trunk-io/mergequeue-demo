@@ -138,7 +138,6 @@ descendental
 dingier
 deadcenter
 drumsticks
-drawbench
 draughtmanship
 deviascope
 dekko
@@ -9176,6 +9175,7 @@ diaglyptic
 didodecahedron
 didoes
 didonia
+drawbench
 duodenas
 dihexahedron
 daubry
