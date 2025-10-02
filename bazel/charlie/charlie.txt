@@ -7206,7 +7206,6 @@ centrarchoid
 cholos
 clar
 compare
-centraxonial
 centre
 clinoaxis
 cpo
@@ -31612,6 +31611,7 @@ chaton
 curvation
 curvative
 curvature
+centraxonial
 cozy
 crosstail
 clingstone
