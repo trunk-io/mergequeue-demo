@@ -567,7 +567,6 @@ backwoodsy
 bacon
 baubee
 babbly
-balisaur
 baconian
 bishopric
 breaths
@@ -806,6 +805,7 @@ belone
 bafflers
 baffling
 beblister
+balisaur
 bafflingly
 bulbus
 bonnyclabber
