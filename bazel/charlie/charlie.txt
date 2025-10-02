@@ -13306,7 +13306,6 @@ capricorn
 cycloalkane
 cyclobothra
 carmakers
-cyclobutane
 constableship
 cholecystopexy
 carapacial
@@ -19221,6 +19220,7 @@ crushproof
 collodionization
 collogen
 chouses
+cyclobutane
 cataract
 chaetopoda
 cougher
