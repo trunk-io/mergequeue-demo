@@ -14821,6 +14821,7 @@ comber
 citherns
 cithren
 condign
+collapsable
 contraponend
 city
 citybuster
@@ -22905,7 +22906,6 @@ conservativeness
 commoves
 chittering
 choisya
-collapsable
 conservatoires
 conservator
 conservatory
