@@ -689,6 +689,7 @@ electrotrephine
 ecraseurs
 esocyclic
 ened
+encharging
 ecology
 eromania
 encephalolith
@@ -8638,7 +8639,6 @@ endotheliomyoma
 epithalamiumia
 enchondromas
 exfoliate
-encharging
 encharge
 episcleritis
 erbium
