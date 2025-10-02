@@ -4864,7 +4864,6 @@ esteemable
 encumbrance
 extrabureau
 english
-evolves
 experientialist
 eucharistically
 elderman
@@ -8371,6 +8370,7 @@ estrum
 exceedable
 earplug
 enwreathe
+evolves
 entertain
 elroquite
 epitrope
