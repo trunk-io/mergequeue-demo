@@ -3398,7 +3398,6 @@ expenditures
 electrosynthetic
 epizoites
 equaled
-evacuate
 eventide
 embellisher
 earlish
@@ -5531,6 +5530,7 @@ evocators
 eugenists
 enfants
 evulsion
+evacuate
 enfiled
 expediences
 enfire
