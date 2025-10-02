@@ -5610,6 +5610,7 @@ blisters
 blankit
 brough
 bulletheaded
+beelike
 battlement
 blepharal
 bewigs
@@ -13036,7 +13037,6 @@ bopped
 bombastical
 bailli
 brigadiers
-beelike
 bedquilts
 befountained
 barmaid
