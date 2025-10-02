@@ -27579,6 +27579,7 @@ coverages
 cuselite
 coverall
 coveralled
+coadunated
 coveralls
 coils
 coverchief
@@ -28925,7 +28926,6 @@ chorus
 cussers
 combo
 coventries
-coadunated
 cyanophose
 comparator
 cardiacean
