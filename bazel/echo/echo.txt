@@ -3871,7 +3871,6 @@ enalid
 examinability
 epiglottis
 endexine
-emitting
 entapophysial
 entamebas
 electropathic
@@ -9777,6 +9776,7 @@ engrave
 efficiencies
 encouragements
 euphrates
+emitting
 expenthesis
 euryscope
 electroplate
