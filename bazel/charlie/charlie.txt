@@ -3014,7 +3014,6 @@ clairschach
 concent
 cantles
 cantlet
-cantline
 cantling
 canto
 confederatism
@@ -5545,6 +5544,7 @@ cataclysmically
 catacomb
 crowboot
 cpm
+cantline
 catacombs
 cyanamide
 counterattacks
