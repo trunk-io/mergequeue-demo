@@ -4107,7 +4107,6 @@ empodia
 extracranial
 energids
 eczematous
-externum
 encl
 encaustes
 exporter
@@ -11188,6 +11187,7 @@ expilation
 exostracism
 endover
 evangeliaries
+externum
 endocycle
 exocrinology
 enkindling
