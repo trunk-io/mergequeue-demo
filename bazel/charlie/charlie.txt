@@ -8325,6 +8325,7 @@ chalcomenite
 chalcone
 chalcopyrite
 chalcosiderite
+croche
 chalcosine
 crocodilite
 coween
@@ -29654,7 +29655,6 @@ croceic
 croceine
 crocetin
 ceratospongiae
-croche
 crocheter
 crocheteur
 crocheting
