@@ -934,6 +934,7 @@ equipping
 endowments
 endorsements
 electrophoretic
+effectless
 ectropion
 epilogues
 ectropium
@@ -3342,7 +3343,6 @@ euplexoptera
 espier
 enteropneustal
 estimator
-effectless
 equivocally
 eccoproticophoric
 exacters
