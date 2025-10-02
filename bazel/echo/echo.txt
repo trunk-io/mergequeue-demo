@@ -3932,6 +3932,7 @@ empale
 empalers
 eyepit
 ealdorman
+evangelistarium
 empall
 exhilaratory
 elizabethan
@@ -10536,7 +10537,6 @@ eleutherodactylus
 elbuck
 euchology
 endocrinological
-evangelistarium
 effuse
 equationist
 endboard
