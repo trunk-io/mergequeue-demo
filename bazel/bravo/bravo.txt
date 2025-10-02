@@ -6327,7 +6327,6 @@ battens
 balourdise
 baltic
 benzalacetone
-ballerina
 benzalacetophenone
 bonum
 benzalazine
@@ -7291,6 +7290,7 @@ burkes
 bethuel
 bedazzles
 balti
+ballerina
 beguard
 beta
 broombush
