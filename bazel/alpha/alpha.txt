@@ -12163,7 +12163,6 @@ arachide
 ancestors
 ancestral
 appurtenances
-ancestry
 ancestrian
 ancha
 anchat
@@ -15637,6 +15636,7 @@ arragonite
 amianthium
 anaglyptic
 aquaphobia
+ancestry
 antipapistical
 afterfriend
 antiparagraphe
