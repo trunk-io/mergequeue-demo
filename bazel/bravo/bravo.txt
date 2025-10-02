@@ -4396,7 +4396,6 @@ bovenland
 briskness
 bakeboard
 bonzian
-barrable
 butyrousness
 bickers
 bushwhacker
@@ -17982,6 +17981,7 @@ bobachee
 bromometric
 barkeeper
 blobbiest
+barrable
 bothriolepis
 burntly
 busily
