@@ -1124,7 +1124,6 @@ automat
 asymptotic
 abutilon
 abutment
-articulant
 artery
 assertible
 anhedral
@@ -12207,6 +12206,7 @@ amazonite
 agglutinate
 arcades
 anchusas
+articulant
 amblypoda
 angelot
 arteriosympathectomy
