@@ -2334,6 +2334,7 @@ bones
 bastinade
 biolysis
 belligerency
+baria
 bachelorlike
 barbula
 barbulate
@@ -2506,7 +2507,6 @@ becloaked
 barguest
 barguests
 buzylene
-baria
 bedouse
 blameful
 bucca
