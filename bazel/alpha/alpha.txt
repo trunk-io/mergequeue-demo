@@ -14083,7 +14083,6 @@ antedates
 antedating
 astur
 amphisbaenic
-anapests
 academize
 agena
 anaesthyl
@@ -17334,6 +17333,7 @@ apheliotropically
 apostles
 apostleship
 apostleships
+anapests
 althaeas
 amassers
 appeacher
