@@ -3687,6 +3687,7 @@ degraded
 degradement
 dozing
 depsid
+dropmeal
 disrupt
 decimalisation
 discalced
@@ -17395,7 +17396,6 @@ doigt
 derivability
 delime
 dillydallies
-dropmeal
 declined
 dipleurula
 diurnalness
