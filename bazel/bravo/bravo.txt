@@ -1711,7 +1711,6 @@ balsaminaceae
 beneplacit
 balsamine
 basongo
-become
 balsamitic
 balsamiticness
 benzoylating
@@ -14360,6 +14359,7 @@ bird
 banners
 bourignonism
 bianchite
+become
 bragly
 beneficiaire
 broachers
