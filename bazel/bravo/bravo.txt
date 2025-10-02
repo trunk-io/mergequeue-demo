@@ -5801,7 +5801,6 @@ bombyliidae
 bryozoan
 batfish
 bonasa
-bellhouse
 brassage
 belli
 buckstone
@@ -17333,6 +17332,7 @@ bun
 bore
 bathochromatism
 benzotrifluoride
+bellhouse
 bopyrus
 buddling
 boutel
