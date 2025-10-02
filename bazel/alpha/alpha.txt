@@ -5600,7 +5600,6 @@ aga
 alimonied
 antilopinae
 agapae
-arms
 axbreaker
 autotoxis
 austromancy
@@ -15424,6 +15423,7 @@ azonic
 affrontedness
 armed
 antimethodical
+arms
 algorist
 actinians
 aragonian
