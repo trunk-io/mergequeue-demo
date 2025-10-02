@@ -4379,7 +4379,6 @@ endenizen
 extispices
 enthymeme
 e
-espacement
 encaptive
 entomion
 exhilarative
@@ -10068,6 +10067,7 @@ encumbered
 ethylhydrocupreine
 export
 exerting
+espacement
 eyey
 eyot
 envenoming
