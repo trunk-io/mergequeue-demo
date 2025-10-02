@@ -10440,7 +10440,6 @@ estats
 etiology
 etiological
 europeanism
-etiologist
 entocoelic
 emetology
 ettling
@@ -12831,6 +12830,7 @@ eisteddfods
 evangelistship
 efecks
 exoticist
+etiologist
 eudipleural
 enchasten
 exoterically
