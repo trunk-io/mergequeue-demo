@@ -9163,7 +9163,6 @@ biospeleology
 biosphere
 breakdown
 bionomical
-biostatic
 biostatical
 buffleheaded
 buzzardlike
@@ -14365,6 +14364,7 @@ beneficiaire
 broachers
 bye
 blubbing
+biostatic
 barefit
 blacklist
 brahmana
