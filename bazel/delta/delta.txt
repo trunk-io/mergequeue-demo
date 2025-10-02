@@ -10582,7 +10582,6 @@ diatomaceous
 discoblastula
 deafens
 diplocoria
-derv
 diploe
 disbalancement
 didrachmas
@@ -15019,6 +15018,7 @@ defogs
 deprogram
 dissolving
 dogear
+derv
 desobligeant
 dogears
 dogedom
