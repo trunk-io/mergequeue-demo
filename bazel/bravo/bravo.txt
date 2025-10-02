@@ -5859,6 +5859,7 @@ bachel
 buckbrush
 baronship
 bellmanship
+babelike
 bellmouth
 benjamin
 briners
@@ -9049,7 +9050,6 @@ baginda
 biomes
 beanlike
 beavery
-babelike
 besmuts
 biometries
 bion
