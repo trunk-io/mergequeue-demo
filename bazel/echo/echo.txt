@@ -625,7 +625,6 @@ ecstatics
 ephemerides
 excitancy
 etymonic
-embarked
 eozoonal
 earful
 excruciatingness
@@ -12093,6 +12092,7 @@ effervescing
 excruciable
 excruciated
 eudesmol
+embarked
 enframement
 epicerebral
 egressor
