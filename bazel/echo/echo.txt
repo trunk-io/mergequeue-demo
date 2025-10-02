@@ -7912,7 +7912,6 @@ echar
 epimeres
 electrostenolysis
 epimerism
-ecdysiast
 enterolithiasis
 evangels
 epitomate
@@ -11749,6 +11748,7 @@ ekphore
 epimerise
 exareolate
 extrospective
+ecdysiast
 epirot
 elusion
 ensignship
