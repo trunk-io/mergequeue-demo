@@ -1291,6 +1291,7 @@ colunar
 calibrated
 calibrater
 calibrates
+compert
 cloison
 catchwater
 calibrating
@@ -20613,7 +20614,6 @@ compere
 compered
 cumulous
 compering
-compert
 competed
 competent
 competentness
