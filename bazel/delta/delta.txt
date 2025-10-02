@@ -2665,7 +2665,6 @@ decenniad
 decompensations
 dasylirion
 doorkeeper
-decompiler
 decomposable
 diceman
 dramatizations
@@ -16471,6 +16470,7 @@ datum
 difflugia
 downtimes
 dunnesses
+decompiler
 dacoities
 drabbling
 doubler
