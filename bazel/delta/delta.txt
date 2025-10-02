@@ -9460,7 +9460,6 @@ displume
 destructively
 digamma
 daggerboard
-downfeed
 digammated
 dodgier
 disworkmanship
@@ -15910,6 +15909,7 @@ documentor
 deadpanning
 dosed
 deiseal
+downfeed
 deboning
 delighting
 discounts
