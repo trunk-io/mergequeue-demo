@@ -8565,7 +8565,6 @@ alodia
 allayers
 allaying
 aliener
-acyclically
 alleviater
 addiment
 ammonobasic
@@ -10181,6 +10180,7 @@ amphibali
 ambulates
 apachette
 anisogamy
+acyclically
 ambulation
 anginous
 aminded
