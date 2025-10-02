@@ -1836,7 +1836,6 @@ burdon
 brownism
 brython
 birken
-bandhook
 balladromic
 bandicoy
 bonzes
@@ -5797,6 +5796,7 @@ blueprinted
 brassworker
 becrawling
 bedlamic
+bandhook
 bombyliidae
 bryozoan
 batfish
