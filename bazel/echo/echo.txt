@@ -9966,7 +9966,6 @@ englishize
 encapsule
 estuarial
 epagogic
-eloquently
 estuosity
 edibleness
 endophagy
@@ -11223,6 +11222,7 @@ earthshakingly
 evangelistary
 enthronements
 earflower
+eloquently
 endostraca
 enamor
 enthronized
