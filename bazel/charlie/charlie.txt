@@ -2236,7 +2236,6 @@ countershear
 camshafts
 camstane
 caval
-camstone
 canaliculization
 cholecystolithotripsy
 camus
@@ -29376,6 +29375,7 @@ cryptomerous
 comediettas
 cryptomnesic
 conjugations
+camstone
 chrysogen
 cryptomonadales
 conchite
