@@ -3919,7 +3919,6 @@ adjuration
 amidine
 aisling
 autocar
-adjured
 adjurer
 alveoli
 adjures
@@ -17101,6 +17100,7 @@ apogee
 apogees
 apogeic
 althaein
+adjured
 acceptor
 antimarian
 assiduous
