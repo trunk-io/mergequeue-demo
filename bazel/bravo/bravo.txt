@@ -4623,7 +4623,6 @@ boeing
 basigamy
 buxus
 bedevilling
-barbershops
 borities
 bargee
 bedevilment
@@ -11419,6 +11418,7 @@ bandits
 bluebottle
 bingies
 badinaged
+barbershops
 build
 bibbed
 bibio
