@@ -5768,6 +5768,7 @@ catchlight
 cultivatability
 cornein
 clockcase
+cowering
 cowpock
 caudillism
 catchline
@@ -14830,7 +14831,6 @@ canamary
 closen
 culler
 coursy
-cowering
 cityfied
 citifying
 calycophorae
