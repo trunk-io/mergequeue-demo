@@ -16547,7 +16547,6 @@ clobber
 clobbered
 clobbers
 cloche
-clochette
 clockbird
 comodato
 cathartes
@@ -31342,6 +31341,7 @@ cureless
 corypha
 curelessness
 curer
+clochette
 coadjument
 clubber
 cures
