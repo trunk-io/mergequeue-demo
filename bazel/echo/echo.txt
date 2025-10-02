@@ -6370,7 +6370,6 @@ elaboration
 enrobed
 emulsic
 epist
-enunciator
 euphon
 eluvivia
 elapid
@@ -10543,6 +10542,7 @@ endopolyploidy
 ensurers
 esoanhydride
 equational
+enunciator
 excursionary
 ethylenic
 eckehart
