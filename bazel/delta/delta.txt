@@ -9358,7 +9358,6 @@ dressers
 differenced
 differences
 dryad
-destroyable
 differentiability
 differentiae
 differentials
@@ -10371,6 +10370,7 @@ dioscurian
 disenfranchised
 diurons
 duograph
+destroyable
 dingiest
 diaphones
 diazoanhydride
