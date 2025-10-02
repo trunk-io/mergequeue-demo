@@ -20735,6 +20735,7 @@ complex
 complexation
 complexedness
 complexer
+confliction
 cuinfo
 complexes
 convolvuli
@@ -29526,7 +29527,6 @@ crystallogeny
 copal
 crystallogenical
 cymbiform
-confliction
 chawle
 cageot
 cynanchum
