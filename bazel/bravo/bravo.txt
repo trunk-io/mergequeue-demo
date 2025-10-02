@@ -2734,7 +2734,6 @@ bukeyef
 barology
 barolong
 bardiest
-bombax
 boroughship
 blam
 beachside
@@ -11741,6 +11740,7 @@ bolivias
 bobbinite
 bobbins
 bobbish
+bombax
 bais
 belfast
 bobcats
