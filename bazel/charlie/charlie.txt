@@ -13522,7 +13522,6 @@ cyesis
 cif
 countergage
 camerawork
-cig
 cigarette
 cystenchyma
 cigarettes
@@ -29591,6 +29590,7 @@ criticasterism
 criticastry
 chontal
 cousin
+cig
 congenite
 confoundedness
 canoeman
