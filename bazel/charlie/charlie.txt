@@ -4129,7 +4129,6 @@ cardiomegalia
 caffa
 clerihew
 cardinalitian
-cubed
 chancellor
 cardinalities
 cardinally
@@ -15421,6 +15420,7 @@ coexist
 clangful
 clanging
 clangingly
+cubed
 corticoefferent
 clangorous
 corridored
