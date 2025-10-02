@@ -7423,7 +7423,6 @@ cephalomere
 cyclostylar
 cephalometric
 clysis
-cephalonasal
 chalcographist
 cephalopathy
 cephalopharyngeal
@@ -10635,6 +10634,7 @@ chillsome
 countermove
 chouka
 chemolytic
+cephalonasal
 chillumchee
 copaibas
 conflating
