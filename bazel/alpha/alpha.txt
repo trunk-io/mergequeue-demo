@@ -1439,6 +1439,7 @@ aberrancies
 alg
 archenemy
 atka
+ahoy
 accessorize
 accessors
 astrometric
@@ -5792,7 +5793,6 @@ anzanian
 aeropause
 antitarnishing
 agatiferous
-ahoy
 auxetics
 agatized
 animis
