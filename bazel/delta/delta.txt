@@ -400,6 +400,7 @@ daimiote
 defension
 deployable
 disembargoing
+deposita
 dimmet
 daimons
 decandrous
@@ -17803,7 +17804,6 @@ duckers
 duces
 duckfoot
 disfigurements
-deposita
 decurt
 ducky
 dicyanide
