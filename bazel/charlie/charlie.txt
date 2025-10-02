@@ -14855,6 +14855,7 @@ chinantecs
 cladodontid
 cytioderm
 cityscapes
+crepy
 cytisine
 chamkanni
 couriers
@@ -28782,7 +28783,6 @@ chiru
 constringe
 crepes
 coincides
-crepy
 crepiest
 crepine
 creping
