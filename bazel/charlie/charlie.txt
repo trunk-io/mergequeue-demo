@@ -2029,7 +2029,6 @@ chionanthus
 cornelian
 camooch
 camoodie
-cyperus
 camorras
 camorrism
 cropper
@@ -12151,6 +12150,7 @@ chous
 chouse
 choused
 cyanogenesis
+cyperus
 chousers
 choush
 configurationist
