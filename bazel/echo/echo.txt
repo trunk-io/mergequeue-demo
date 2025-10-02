@@ -7625,6 +7625,7 @@ electrophoridae
 epicoracoid
 exocrine
 ellachick
+entailment
 exhumations
 eventless
 elapse
@@ -13167,7 +13168,6 @@ enfeature
 expiable
 excubitorium
 evenglow
-entailment
 existlessness
 ewer
 elucid
