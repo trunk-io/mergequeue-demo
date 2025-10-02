@@ -9506,6 +9506,7 @@ biotope
 battlefront
 birodo
 bisulphide
+blastostyle
 brittling
 babingtonite
 biron
@@ -14769,7 +14770,6 @@ brauronian
 brava
 bravade
 bronchophthisis
-blastostyle
 bennet
 betelnut
 brazened
