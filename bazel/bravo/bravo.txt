@@ -4725,6 +4725,7 @@ betitle
 butcherliness
 badmash
 bienseance
+blennemesis
 bursula
 basseted
 bazoo
@@ -10731,7 +10732,6 @@ belap
 blenk
 beefy
 backsetting
-blennemesis
 bullets
 blennenteria
 box
