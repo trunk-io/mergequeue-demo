@@ -5907,7 +5907,6 @@ basisphenoid
 bailiffship
 belongs
 bicameral
-banderillero
 belonidae
 bullions
 beprose
@@ -6426,6 +6425,7 @@ benzophloroglucinol
 betting
 baculi
 benedight
+banderillero
 bewake
 breakup
 benzil
