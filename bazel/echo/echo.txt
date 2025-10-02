@@ -6389,7 +6389,6 @@ ensile
 ensiled
 ectophytic
 embezzler
-endopod
 engineering
 enlargers
 ensiles
@@ -8004,6 +8003,7 @@ elytrtra
 elytrum
 enscene
 enteroscope
+endopod
 epiphanise
 endleaf
 ealdormen
