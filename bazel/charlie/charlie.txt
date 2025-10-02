@@ -13334,7 +13334,6 @@ crass
 cyclohexanone
 cyclohexatriene
 cutheal
-cyclohexyl
 cycloheximide
 chetverik
 cataloguer
@@ -20849,6 +20848,7 @@ crocodilian
 componential
 challoth
 components
+cyclohexyl
 compony
 comportable
 comportance
