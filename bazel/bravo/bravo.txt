@@ -6820,7 +6820,6 @@ bookery
 bersagliere
 berserker
 brittles
-bin
 berserks
 barnumize
 begroan
@@ -13810,6 +13809,7 @@ biophysicochemical
 boutons
 barrelful
 bouvardia
+bin
 buffers
 bouw
 butle
