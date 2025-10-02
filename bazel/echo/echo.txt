@@ -8557,7 +8557,6 @@ egall
 ergatomorph
 equid
 equidimensional
-equidist
 exrx
 essancias
 eyebolts
@@ -10313,6 +10312,7 @@ exsiccated
 elytrorrhagia
 ethnocracy
 expendable
+equidist
 excogitating
 equipostile
 epifocal
