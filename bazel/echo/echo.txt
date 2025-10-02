@@ -3851,7 +3851,6 @@ equivote
 echeneis
 eternal
 entomotomy
-electrotonus
 extraboldface
 eminencies
 evendown
@@ -7722,6 +7721,7 @@ exterritorially
 emergents
 englify
 enslaved
+electrotonus
 ensure
 emendable
 equips
