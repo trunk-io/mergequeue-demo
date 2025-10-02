@@ -3335,7 +3335,6 @@ dahlin
 deergrass
 degeneracy
 disregards
-duplications
 definitions
 definitise
 dormant
@@ -7480,6 +7479,7 @@ detrudes
 dubhgall
 distalia
 detruding
+duplications
 disulphid
 detruncation
 damneder
