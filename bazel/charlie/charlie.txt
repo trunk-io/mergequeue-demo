@@ -8506,7 +8506,6 @@ cuttable
 chamoisette
 cumbers
 chamoisite
-cellos
 campilan
 chamoline
 chamorro
@@ -13575,6 +13574,7 @@ cilicism
 ciliella
 cistern
 ciliform
+cellos
 ciliiferous
 cylinder
 cylinders
