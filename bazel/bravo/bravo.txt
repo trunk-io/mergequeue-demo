@@ -4749,6 +4749,7 @@ bogway
 bedrails
 binnacle
 beatille
+bulk
 bedral
 bedraped
 bedraping
@@ -8115,7 +8116,6 @@ bailments
 bicuspid
 bruxism
 boing
-bulk
 burrobrush
 bid
 bidactylous
