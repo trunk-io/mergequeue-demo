@@ -5344,7 +5344,6 @@ embroidered
 endymion
 edges
 ethylidene
-evicted
 envolupen
 evocatory
 endotheliomas
@@ -11975,6 +11974,7 @@ excitovascular
 enamouring
 exclaiming
 exclaims
+evicted
 epitenon
 exclamations
 exploitative

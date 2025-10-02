@@ -6507,7 +6507,6 @@ bronchopneumonic
 bephrase
 brachiopodist
 bepicture
-bugology
 boundaries
 banxring
 bepiece
@@ -15298,6 +15297,7 @@ bridewort
 bridge
 bighorn
 budtime
+bugology
 bridgebuilder
 bridgehead
 bridgemaking
