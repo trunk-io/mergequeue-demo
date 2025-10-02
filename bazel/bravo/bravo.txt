@@ -6241,7 +6241,6 @@ boletus
 basket
 benjamins
 bypass
-beakful
 benne
 bennes
 beveling
@@ -15558,6 +15557,7 @@ barometer
 beavers
 brewsterite
 barbacan
+beakful
 brises
 brisker
 baleise
