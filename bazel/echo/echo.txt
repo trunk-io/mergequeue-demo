@@ -5349,7 +5349,6 @@ evicted
 envolupen
 evocatory
 endotheliomas
-explicators
 esquiline
 empyreum
 eophyte
@@ -11587,6 +11586,7 @@ excided
 effaced
 enfrenzy
 ersatz
+explicators
 exclosure
 emollition
 eyedroppers
