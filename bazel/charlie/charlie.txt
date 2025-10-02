@@ -6681,7 +6681,6 @@ cedars
 cedarwood
 ceded
 ceders
-copepods
 cottiers
 cedilla
 cedillas
@@ -24975,6 +24974,7 @@ conciliationist
 corallum
 circumflexion
 corals
+copepods
 corymbiferous
 coram
 creditors
