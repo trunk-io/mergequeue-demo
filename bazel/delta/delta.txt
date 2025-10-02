@@ -399,6 +399,7 @@ drinkers
 daimiote
 defension
 deployable
+depictured
 disembargoing
 dimmet
 daimons
@@ -6237,7 +6238,6 @@ derival
 derivant
 dillier
 derivates
-depictured
 disnosed
 disconnects
 derivations
