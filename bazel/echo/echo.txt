@@ -4881,7 +4881,6 @@ endameba
 endamebae
 equiv
 eveck
-extradictable
 endamoebas
 endamoebidae
 endangitis
@@ -14127,6 +14126,7 @@ epithamia
 electrooptic
 exegetical
 episterna
+extradictable
 endosiphonal
 extensory
 episcopates
