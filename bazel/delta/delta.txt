@@ -3338,7 +3338,6 @@ disregards
 duplications
 definitions
 definitise
-dormant
 dilatant
 depurge
 deliriate
@@ -7493,6 +7492,7 @@ detune
 destructionism
 detuning
 diastrophic
+dormant
 dragooned
 diosma
 dunderpates
