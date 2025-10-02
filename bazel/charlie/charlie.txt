@@ -16742,6 +16742,7 @@ checkerwise
 closers
 closes
 closeting
+computerlike
 crampit
 chthonic
 cylindroma
@@ -29632,7 +29633,6 @@ croak
 classiness
 croqueting
 conceptually
-computerlike
 croakers
 croaky
 combated
