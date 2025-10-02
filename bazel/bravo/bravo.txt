@@ -1871,6 +1871,7 @@ balant
 branle
 bedrel
 blastoff
+buffets
 bushcraft
 breadwinners
 bandmaster
@@ -14695,7 +14696,6 @@ balustrade
 balletically
 bogle
 broilingly
-buffets
 brasilins
 beginners
 bitted
