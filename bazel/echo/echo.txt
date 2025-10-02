@@ -838,7 +838,6 @@ eriophorum
 ectocoelic
 eosinophil
 ectocommensal
-ectocondylar
 endophytic
 efficient
 electrolyser
@@ -10605,6 +10604,7 @@ exodium
 elaterid
 eudaimonia
 eudaimonist
+ectocondylar
 epirhizous
 eric
 eudemonic
