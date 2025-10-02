@@ -2096,6 +2096,7 @@ borofluoride
 bantayan
 buckshots
 bidstand
+becolor
 bantam
 bantamize
 bismar
@@ -6564,7 +6565,6 @@ banisters
 ballader
 birdshot
 brustled
-becolor
 birminghamize
 berated
 bushful
