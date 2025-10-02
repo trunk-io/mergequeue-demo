@@ -8440,7 +8440,6 @@ corkir
 chamaelirium
 chamaepericlymenum
 chamaephyte
-chamaerops
 chamaesiphonales
 chamar
 chambered
@@ -12482,6 +12481,7 @@ carolers
 chromidium
 compositae
 chromidrosis
+chamaerops
 cymes
 chromyl
 chroming
