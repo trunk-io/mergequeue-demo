@@ -1611,7 +1611,6 @@ conveyor
 calmecac
 cyathophylloid
 courtrooms
-collectibles
 calmed
 cylindraceous
 centrobaric
@@ -13289,6 +13288,7 @@ cyclide
 cubeb
 cyclindroid
 calomel
+collectibles
 characterized
 cyclings
 cyclism
