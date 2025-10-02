@@ -16859,7 +16859,6 @@ betas
 balkline
 biomaterial
 beam
-bigger
 buffing
 breards
 breekums
@@ -17618,6 +17617,7 @@ burring
 bearlet
 burglarizing
 bradykinetic
+bigger
 bulldozes
 backster
 belduque
