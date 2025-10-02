@@ -3033,6 +3033,7 @@ escar
 et
 embeds
 encyclical
+enterocoel
 elliot
 educationable
 ergatocracy
@@ -5097,7 +5098,6 @@ emforth
 endocrines
 endocrinic
 existentialistic
-enterocoel
 emergencies
 entogenous
 ecdysones

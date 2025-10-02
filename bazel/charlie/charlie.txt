@@ -4218,7 +4218,6 @@ colorum
 cardoon
 conure
 cardoons
-cardophagus
 clearwing
 carbamido
 carnet
@@ -31904,6 +31903,7 @@ climacus
 cruppers
 carcased
 cutwater
+cardophagus
 cutwork
 cutworm
 cutworms
