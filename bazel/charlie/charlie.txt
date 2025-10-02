@@ -4872,6 +4872,7 @@ carriageway
 carryall
 carrick
 carrycot
+cupulate
 chromatoplasm
 carried
 carryed
@@ -31230,7 +31231,6 @@ cupula
 cupulae
 cupular
 carlines
-cupulate
 crosslets
 cupule
 convertible
