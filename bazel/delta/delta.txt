@@ -2675,7 +2675,6 @@ draintile
 decomposers
 daddocky
 decomposing
-decomposure
 digne
 dogwatches
 decompoundable
@@ -7874,6 +7873,7 @@ diatoric
 depress
 diverseness
 dewatered
+decomposure
 diffluence
 dissipate
 distemonous
