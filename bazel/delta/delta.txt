@@ -1604,7 +1604,6 @@ doe
 dinginess
 drawer
 doweled
-diadrome
 derision
 damagingly
 damocles
@@ -6680,6 +6679,7 @@ duopod
 deescalated
 deacidification
 denotational
+diadrome
 dissentism
 defatigated
 duendes
