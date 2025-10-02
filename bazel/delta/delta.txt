@@ -5779,7 +5779,6 @@ deplorability
 duals
 deplorableness
 disrepair
-deplore
 deplorer
 disposes
 deemer
@@ -17709,6 +17708,7 @@ dynamometer
 dwarves
 deuteroelastose
 decaffeinating
+deplore
 disconfirmation
 disinvestiture
 dubber
