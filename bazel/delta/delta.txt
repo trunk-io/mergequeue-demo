@@ -7960,7 +7960,6 @@ directed
 dextran
 dextranase
 doublelunged
-disallowable
 dexamethasone
 defunctive
 downsteepy
@@ -8644,6 +8643,7 @@ dias
 depertible
 dermatographia
 downstream
+disallowable
 diaschisis
 discourtesy
 diffused
