@@ -1179,7 +1179,6 @@ enscroll
 ensweep
 educational
 extratracheal
-estimation
 eroded
 elenge
 entirities
@@ -10164,6 +10163,7 @@ etherially
 eyedropper
 exertion
 expressness
+estimation
 electrothermally
 endocarpoid
 elenctical
