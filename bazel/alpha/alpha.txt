@@ -4951,6 +4951,7 @@ aeromechanics
 antisera
 aeromedical
 amygdalus
+acyclically
 amphictyonies
 autonomously
 ancraophobia
@@ -8565,7 +8566,6 @@ alodia
 allayers
 allaying
 aliener
-acyclically
 alleviater
 addiment
 ammonobasic
