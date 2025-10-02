@@ -10946,7 +10946,6 @@ barth
 bourrees
 blinkard
 blesbuck
-blinkards
 bowses
 basta
 beaneries
@@ -14924,6 +14923,7 @@ buttercup
 belis
 bostonians
 breakoff
+blinkards
 byssolite
 breakout
 breakpoint
