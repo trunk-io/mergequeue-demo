@@ -2545,7 +2545,6 @@ beleaped
 barile
 barilla
 blackie
-basiglandular
 brio
 baryphonia
 bootie
@@ -9391,6 +9390,7 @@ bluebush
 butter
 bottommost
 birded
+basiglandular
 bisectrix
 birdfarm
 bahawder
