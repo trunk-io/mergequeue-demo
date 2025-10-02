@@ -1624,6 +1624,7 @@ calming
 calmness
 calmnesses
 coemployee
+coeff
 calochortaceae
 contraceptives
 calodaemon
@@ -18004,7 +18005,6 @@ crude
 coef
 chromosphere
 contractibility
-coeff
 coefficients
 coelacanth
 coelacanthidae
