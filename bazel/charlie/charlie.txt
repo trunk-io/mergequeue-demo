@@ -14228,7 +14228,6 @@ cardioneural
 capsulize
 circulant
 circular
-colistins
 chuffing
 coffers
 cryalgesia
@@ -29485,6 +29484,7 @@ criss
 clagging
 crissal
 chromodiascope
+colistins
 chylaqueous
 crisscrossed
 crisscrosses
