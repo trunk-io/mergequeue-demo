@@ -3380,7 +3380,6 @@ embassy
 eustomatous
 equivocated
 episyllogism
-edeotomy
 eucirripedia
 embogue
 electrophobia
@@ -5351,6 +5350,7 @@ endotheliomas
 explicators
 esquiline
 empyreum
+edeotomy
 eophyte
 eccentrometer
 endothermal
