@@ -3929,6 +3929,7 @@ epitases
 exilarch
 embroglio
 empale
+extenuate
 empalers
 eyepit
 ealdorman
@@ -13624,7 +13625,6 @@ extramental
 ecyphellate
 elongating
 escalate
-extenuate
 extenuates
 empicture
 eliminates
