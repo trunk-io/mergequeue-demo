@@ -5919,7 +5919,6 @@ enhypostatize
 encrinoidea
 ecclesiophobia
 enameloma
-encoffin
 effate
 enhuile
 enhunger
@@ -12156,6 +12155,7 @@ excusefully
 exostome
 embergoose
 expositorily
+encoffin
 excuser
 elytron
 endpoint
