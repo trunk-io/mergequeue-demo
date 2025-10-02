@@ -5668,7 +5668,6 @@ comprizable
 cataphyll
 correlativism
 chlorococcum
-cataphora
 cataphoresis
 cataphoretically
 cataphoria
@@ -9816,6 +9815,7 @@ cysts
 chelide
 csardas
 cowheart
+cataphora
 chelydidae
 centas
 chelidonic
