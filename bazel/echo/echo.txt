@@ -469,6 +469,7 @@ ecclesiarchy
 emcee
 extoll
 ecclesiast
+expansion
 encephalomata
 empasm
 envelopers
@@ -2604,7 +2605,6 @@ edh
 eupneic
 enchondromata
 electroresection
-expansion
 esoterica
 electrosensitive
 electrosherardizing
