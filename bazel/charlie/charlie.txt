@@ -4693,7 +4693,6 @@ cabmen
 centrospermae
 carouse
 caroused
-carousels
 carp
 carpaine
 carpalia
@@ -31861,6 +31860,7 @@ cutoff
 cutoffs
 consortion
 cutout
+carousels
 collenchyma
 cutpurse
 cyclothyme
