@@ -5225,6 +5225,7 @@ casinet
 charet
 casings
 casiri
+cetin
 casita
 casket
 corpl
@@ -7801,7 +7802,6 @@ cecidology
 certain
 certainness
 cormorant
-cetin
 certainty
 certhia
 caryatidic
