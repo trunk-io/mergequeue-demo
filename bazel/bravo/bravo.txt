@@ -4095,7 +4095,6 @@ biassing
 ballistics
 baroclinicity
 blamableness
-bicompact
 bodysurfs
 bowmaking
 beelbow
@@ -13599,6 +13598,7 @@ bepainted
 besnowed
 beatermen
 bouffancy
+bicompact
 beckoning
 beggarlice
 brunel
