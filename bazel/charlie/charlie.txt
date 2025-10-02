@@ -3748,7 +3748,6 @@ carbohydraturia
 caravanserial
 companeros
 caravel
-confuse
 caravels
 cosen
 caraway
@@ -22461,6 +22460,7 @@ coniform
 cacana
 corruptible
 costliness
+confuse
 conyger
 colobin
 canterbury
