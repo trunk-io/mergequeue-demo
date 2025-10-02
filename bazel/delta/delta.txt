@@ -7845,7 +7845,6 @@ dil
 devour
 dorsad
 devourer
-devourers
 discourseless
 doers
 danziger
@@ -13514,6 +13513,7 @@ dissceptered
 dislike
 dissceptre
 deceivance
+devourers
 denaturized
 dolesome
 diocletian
