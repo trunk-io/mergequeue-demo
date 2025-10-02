@@ -17583,7 +17583,6 @@ drumroll
 drumrolls
 drums
 decalcifier
-drumstick
 drumwood
 drunk
 desuperheater
@@ -18327,6 +18326,7 @@ duodynatron
 decryptograph
 dunster
 dunstone
+drumstick
 dunting
 depository
 dasyproctidae
