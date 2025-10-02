@@ -5616,6 +5616,7 @@ aphthong
 amygdale
 avocative
 affrayed
+alkenes
 annunciative
 andabatarian
 ananas
@@ -14881,7 +14882,6 @@ albatas
 anticlinoria
 amphigouri
 axised
-alkenes
 anticlockwise
 azophen
 anticlogging
