@@ -10810,7 +10810,6 @@ endoprocta
 entrepots
 escheatage
 euonymy
-euonymous
 exochorda
 exsibilate
 echinid
@@ -13946,6 +13945,7 @@ enface
 extinguishable
 electropoion
 extraparochial
+euonymous
 equicurve
 endosteal
 embezzles
