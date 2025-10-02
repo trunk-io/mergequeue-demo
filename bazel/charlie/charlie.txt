@@ -4112,7 +4112,6 @@ cardigan
 cornmaster
 condalia
 cardin
-cardinal
 cardinalfish
 croslet
 cancans
@@ -22248,6 +22247,7 @@ connusable
 characterizer
 cashierer
 campanularian
+cardinal
 choicer
 cloxacillin
 collarman
