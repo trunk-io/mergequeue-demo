@@ -14642,7 +14642,6 @@ chaptalizing
 cnidophore
 cysted
 cysteinic
-cysteins
 cyclolith
 cystelcosis
 cosmologic
@@ -29534,6 +29533,7 @@ chileanize
 crystallography
 crystalloid
 concretism
+cysteins
 choragium
 crystalloidal
 crystallomagnetic
