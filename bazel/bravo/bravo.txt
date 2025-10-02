@@ -1389,7 +1389,6 @@ backjoint
 bathofloric
 balearica
 bisellium
-balebos
 baled
 baleen
 bobance
@@ -10002,6 +10001,7 @@ bivalents
 bivalvia
 bivalvian
 bivariant
+balebos
 baddock
 bismuthyl
 binodous
