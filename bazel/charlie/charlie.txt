@@ -2854,7 +2854,6 @@ cornbin
 contermine
 cadaverine
 canonised
-canoniser
 cephalothoraces
 cotorture
 coambassador
@@ -24132,6 +24131,7 @@ concuss
 conversionary
 curlicues
 campaigning
+canoniser
 cookies
 conversionism
 cypria
