@@ -5669,7 +5669,6 @@ beledgered
 burbush
 brutedom
 breaster
-belemnoid
 belayed
 bowssen
 boer
@@ -11610,6 +11609,7 @@ blushy
 beth
 bestain
 bellicoseness
+belemnoid
 brightness
 blusterers
 byordinar
