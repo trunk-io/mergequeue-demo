@@ -1341,7 +1341,6 @@ abaters
 acc
 accable
 accel
-accelerable
 animalizing
 accelerando
 argentojarosite
@@ -6697,6 +6696,7 @@ agglutination
 aptitudes
 adsmith
 ainus
+accelerable
 arachnidial
 aquarelles
 ayont
