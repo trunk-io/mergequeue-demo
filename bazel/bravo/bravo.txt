@@ -2503,6 +2503,7 @@ bassetite
 bottonhook
 becloaked
 barguest
+bedraggle
 barguests
 buzylene
 baria
@@ -7293,7 +7294,6 @@ balti
 beguard
 beta
 broombush
-bedraggle
 betacaine
 betag
 bacteriform
