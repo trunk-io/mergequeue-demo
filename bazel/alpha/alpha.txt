@@ -1333,7 +1333,6 @@ anastasia
 abnormal
 acaulescence
 appair
-antlers
 acaulescent
 antas
 avows
@@ -18131,6 +18130,7 @@ ampelis
 aquicolous
 athericerous
 aquifer
+antlers
 avanturine
 alcaptonuria
 alboin
