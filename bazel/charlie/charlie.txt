@@ -16790,7 +16790,6 @@ cosuitor
 culla
 cora
 clothespins
-clothespresses
 cire
 clothiers
 clothings
@@ -26819,6 +26818,7 @@ countercry
 countercriticism
 countercultural
 counterculture
+clothespresses
 coagulums
 countercurrent
 countercurrently
