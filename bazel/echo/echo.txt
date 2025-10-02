@@ -456,6 +456,7 @@ escapements
 erf
 eunuchal
 eveners
+elevons
 enanthesis
 evector
 ecclesia
@@ -2856,7 +2857,6 @@ eleventeenth
 eleventh
 excitation
 emplaning
-elevons
 eurydice
 elf
 elfenfolk
