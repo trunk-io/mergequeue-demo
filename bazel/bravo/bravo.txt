@@ -4156,6 +4156,7 @@ bodywise
 bengalic
 buoyantness
 brinsell
+birl
 brickwall
 beastlily
 beclown
@@ -9476,7 +9477,6 @@ blastematic
 boldine
 batonga
 botonee
-birl
 begrease
 bulimiac
 btl
