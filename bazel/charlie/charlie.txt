@@ -7413,7 +7413,6 @@ cuticles
 crepuscle
 cephalology
 cryolites
-cephalom
 coquettishness
 cephalomant
 cephalomeningitis
@@ -21601,6 +21600,7 @@ concurrentness
 corsepresent
 concrescible
 coercer
+cephalom
 cofinal
 concurring
 concurs
