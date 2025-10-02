@@ -15517,7 +15517,6 @@ dentiloguy
 drag
 daymen
 diapery
-donator
 decongestants
 dispell
 desist
@@ -16983,6 +16982,7 @@ dullness
 downcurve
 dredgeful
 disintegrate
+donator
 discerp
 dithery
 dredgers
