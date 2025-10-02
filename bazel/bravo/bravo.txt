@@ -5427,6 +5427,7 @@ boarstaff
 bigarreau
 barbone
 bronchium
+bilection
 behaver
 bicollateral
 behaving
@@ -8492,7 +8493,6 @@ bilder
 barostat
 bilders
 blighted
-bilection
 bileve
 bilewhit
 bavardage
