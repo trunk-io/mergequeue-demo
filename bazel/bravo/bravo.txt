@@ -2333,7 +2333,6 @@ bones
 bastinade
 biolysis
 belligerency
-bachelorlike
 barbula
 barbulate
 barbulyie
@@ -8989,6 +8988,7 @@ biogenesist
 betocsin
 bluejay
 biogenetic
+bachelorlike
 bibliographers
 bucare
 bushers
