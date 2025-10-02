@@ -10945,7 +10945,6 @@ clerids
 cardstock
 contortioned
 chiralgia
-contiguousness
 chirapsia
 causson
 counteradvise
@@ -26690,6 +26689,7 @@ counsellor
 chilopodan
 counsellors
 counselor
+contiguousness
 countability
 corbels
 ciliolum
