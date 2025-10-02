@@ -12403,7 +12403,6 @@ dicynodon
 diplophyte
 dominate
 dishelms
-durability
 disherited
 divet
 defibrillator
@@ -15665,6 +15664,7 @@ diodes
 dharna
 desensitizer
 deaconize
+durability
 downheartedly
 dennis
 dormins
