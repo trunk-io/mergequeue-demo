@@ -9330,6 +9330,7 @@ escapage
 eruptible
 eruption
 eruptional
+exclaim
 establishing
 ellen
 eruptive
@@ -12555,7 +12556,6 @@ ebionize
 euomphalid
 exobasidiales
 etc
-exclaim
 exobasidium
 eupathy
 echuca
