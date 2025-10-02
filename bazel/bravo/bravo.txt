@@ -1831,6 +1831,7 @@ befogging
 barkinji
 bandfile
 bandfiled
+bowsprit
 bandh
 burdon
 brownism
@@ -4580,7 +4581,6 @@ beats
 bedazement
 bedazzle
 banters
-bowsprit
 bilker
 baloskionaceae
 bedazzlingly
