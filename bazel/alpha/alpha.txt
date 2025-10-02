@@ -5603,7 +5603,6 @@ agapae
 arms
 axbreaker
 autotoxis
-austromancy
 alloiometry
 acoelomatous
 agade
@@ -8769,6 +8768,7 @@ allies
 annulately
 agapemonian
 activators
+austromancy
 alligatorfishes
 acquiesence
 abuleia
