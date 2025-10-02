@@ -2495,7 +2495,6 @@ coontie
 colage
 candidated
 candidates
-candidatures
 candide
 chausse
 churls
@@ -13316,6 +13315,7 @@ cyclode
 catastrophe
 cyclodiene
 coinferring
+candidatures
 cycloganoid
 cummin
 crossbencher
