@@ -2058,7 +2058,6 @@ bannerole
 blossomry
 bronchus
 bcf
-blesses
 bannerols
 bannisters
 birthmarks
@@ -4929,6 +4928,7 @@ beehive
 busser
 bandy
 beek
+blesses
 balkers
 bergamot
 betanaphthol
