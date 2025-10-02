@@ -9602,7 +9602,6 @@ chapatty
 checkstring
 cuissen
 checksum
-construct
 checksumming
 castro
 chromogenous
@@ -9618,6 +9617,7 @@ concurrence
 cascading
 cheddar
 commentating
+construct
 cheddites
 crooked
 cheders
