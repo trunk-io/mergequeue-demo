@@ -2705,6 +2705,7 @@ antivenefic
 auctioning
 arquebus
 azelfafage
+angular
 arghan
 acridophagus
 arrgt
@@ -18805,7 +18806,6 @@ ancientism
 acerli
 antimonarch
 archgod
-angular
 aoristically
 archhypocrisy
 archhypocrite
