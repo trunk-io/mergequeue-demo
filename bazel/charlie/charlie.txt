@@ -6709,6 +6709,7 @@ crioceris
 cedula
 cee
 ceibas
+comparisons
 coracomorphic
 chard
 ceibo
@@ -20499,7 +20500,6 @@ colombier
 comparers
 clatteringly
 comparing
-comparisons
 comparted
 customhouse
 compartimenti
