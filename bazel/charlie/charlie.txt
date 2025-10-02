@@ -11572,6 +11572,7 @@ chokeys
 camerata
 congenetic
 choker
+conflicts
 coredeemed
 cratonic
 clipsheet
@@ -22108,7 +22109,6 @@ conflicting
 conflictive
 conflictless
 conflictory
-conflicts
 cheltenham
 conflow
 clockworks
