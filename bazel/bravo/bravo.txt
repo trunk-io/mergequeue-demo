@@ -5458,6 +5458,7 @@ bulletmaking
 blubbery
 boardmanship
 boatable
+basileus
 beetling
 behemoths
 behenate
@@ -17754,7 +17755,6 @@ backfill
 biobibliography
 burnwood
 brainchildren
-basileus
 browsage
 bravadoes
 burped
