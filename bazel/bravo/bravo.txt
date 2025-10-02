@@ -1325,7 +1325,6 @@ bobbles
 balboa
 bethlehem
 bookdealer
-bioplastic
 balboas
 barrowcoat
 brod
@@ -6737,6 +6736,7 @@ blitter
 balaamitical
 beeishness
 bathmotropic
+bioplastic
 brontosaurus
 berloque
 berm
