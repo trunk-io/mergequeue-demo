@@ -6941,7 +6941,6 @@ bantay
 blessed
 borghi
 boccaccio
-betrim
 balliage
 bradyseismic
 bibliopolistic
@@ -11421,6 +11420,7 @@ bluebottle
 bingies
 badinaged
 build
+betrim
 bibbed
 bibio
 bluecoated
