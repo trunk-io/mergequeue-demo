@@ -14405,7 +14405,6 @@ constrained
 crosspieces
 circumparallelogram
 convexed
-circumplanetary
 crone
 chrysazin
 circumplicate
@@ -31781,6 +31780,7 @@ custumal
 cut
 collicle
 cutaneously
+circumplanetary
 circumspectively
 collegiality
 cutaways
