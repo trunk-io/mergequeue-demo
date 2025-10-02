@@ -2923,7 +2923,6 @@ eligibility
 epistasy
 eligibles
 entrecotes
-excoct
 equipede
 elbowchair
 enjoining
@@ -12252,6 +12251,7 @@ exegetics
 ecphorias
 entoiling
 electroaffinity
+excoct
 ensued
 eds
 emarginating
