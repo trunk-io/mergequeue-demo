@@ -3485,7 +3485,6 @@ bihourly
 batcher
 bargemen
 bogging
-bitterhearted
 bateau
 bateleur
 barbered
@@ -12791,6 +12790,7 @@ biometrician
 bunyoro
 bookmakers
 bidarka
+bitterhearted
 begarie
 baguet
 bookmarks
