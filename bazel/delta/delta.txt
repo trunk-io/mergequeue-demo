@@ -381,7 +381,6 @@ detruss
 daymares
 disseizes
 diarists
-discoloured
 daymark
 doupion
 daimiate
@@ -5640,6 +5639,7 @@ determiners
 discussive
 dictyosiphonaceae
 drisheen
+discoloured
 dedecoration
 deprisure
 detering

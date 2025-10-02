@@ -19367,6 +19367,7 @@ clodpoll
 carshop
 caryatic
 chromidial
+cordon
 colonials
 colonical
 critically
@@ -25087,7 +25088,6 @@ crucifyfied
 cordlike
 configured
 cordobas
-cordon
 cordonazos
 consarn
 chlorargyrite
