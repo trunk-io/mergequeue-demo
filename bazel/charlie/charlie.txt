@@ -17411,7 +17411,6 @@ coarsened
 canonizations
 chickory
 coarsening
-coarsens
 coarticulate
 coarticulation
 claylike
@@ -27335,6 +27334,7 @@ chymification
 countship
 coupage
 coupe
+coarsens
 couped
 cicrumspections
 cocus
