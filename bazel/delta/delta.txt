@@ -4283,7 +4283,6 @@ disputatious
 delthyrial
 disilane
 duncan
-destructible
 dineros
 danseuses
 deltohedron
@@ -9999,6 +9998,7 @@ diolefine
 droner
 dodged
 deeplier
+destructible
 deaerates
 didactics
 dynatron
