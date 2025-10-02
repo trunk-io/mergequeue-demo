@@ -14253,6 +14253,7 @@ circularness
 circulars
 circulatable
 cabbalize
+collenchyme
 chaetosomatidae
 cadencing
 cyanhydrate
@@ -19101,7 +19102,6 @@ collembole
 cokernut
 collembolous
 checkweighman
-collenchyme
 collencyte
 colleri
 collery
