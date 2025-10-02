@@ -10406,7 +10406,6 @@ chide
 callid
 classing
 chided
-cleidomancy
 chiders
 colorbreed
 corrigendum
@@ -27313,6 +27312,7 @@ countrification
 complies
 countrified
 cephalanthous
+cleidomancy
 countrifiedness
 countryfiedness
 countryfolk
