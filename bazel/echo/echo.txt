@@ -3951,6 +3951,7 @@ egalite
 equiform
 extramodal
 empatron
+espinette
 etrurian
 essie
 evenhand
@@ -9255,7 +9256,6 @@ errantia
 exonerative
 exarch
 errants
-espinette
 elayl
 erratas
 erratic
