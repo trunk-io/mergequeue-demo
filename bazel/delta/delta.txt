@@ -850,7 +850,6 @@ discloak
 danization
 drizzling
 duralumin
-duotone
 decrudescence
 dank
 delightful
@@ -6910,6 +6909,7 @@ desmosite
 dichasial
 desemer
 dispositor
+duotone
 deglutitory
 desoeuvre
 dewlight
