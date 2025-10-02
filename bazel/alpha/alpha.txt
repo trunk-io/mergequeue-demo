@@ -6022,7 +6022,6 @@ animalcular
 air
 arioso
 agility
-antemortal
 attorneyship
 asconia
 andantes
@@ -10463,6 +10462,7 @@ achimenes
 aponogetonaceous
 afternoons
 attractivity
+antemortal
 amyatonic
 appointments
 ammonitiferous
