@@ -2212,7 +2212,6 @@ circumfusile
 capotes
 campshed
 campsheeting
-campsite
 compasser
 chugalugging
 campsites
@@ -8707,6 +8706,7 @@ commiseration
 chitlins
 chibol
 channelled
+campsite
 channelling
 commiseratingly
 channelure
