@@ -2329,6 +2329,7 @@ estafetted
 epithi
 entendres
 electroplating
+endoradiosonde
 electroplates
 ellipsis
 ecumenical
@@ -5253,7 +5254,6 @@ extravagation
 enrolles
 ethylmorphine
 ethnodicy
-endoradiosonde
 excretolic
 enslaves
 endocorpuscular
