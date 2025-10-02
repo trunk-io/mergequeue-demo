@@ -1259,7 +1259,6 @@ eeliest
 estotiland
 embowl
 exploringly
-escaloping
 eneugh
 eelworm
 een
@@ -8182,6 +8181,7 @@ enddamaging
 equidominant
 equidistantly
 ergophobia
+escaloping
 euthenic
 eeten
 electrotechnologist
