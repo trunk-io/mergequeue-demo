@@ -3779,7 +3779,6 @@ esthetical
 emparl
 ethnohistorical
 extolled
-economic
 emended
 ecu
 emending
@@ -9274,6 +9273,7 @@ externalist
 exogamous
 expositional
 error
+economic
 ebricty
 entertains
 euchologia
