@@ -9705,6 +9705,7 @@ aduncated
 alveololabial
 alveololingual
 alveolosubnasal
+anthotaxy
 antagonising
 archelon
 astrolater
@@ -14375,7 +14376,6 @@ attractancy
 ancyloceras
 awful
 acolyte
-anthotaxy
 adenoviruses
 anthotaxis
 antonomastically
