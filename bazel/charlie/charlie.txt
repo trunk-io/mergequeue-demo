@@ -15223,7 +15223,6 @@ cladodus
 cybernetic
 cladogenesis
 cladogenetic
-cladogenetically
 cladogenous
 coracoacromial
 cerebromalacia
@@ -21443,6 +21442,7 @@ copyrighted
 castleward
 comandante
 convalesce
+cladogenetically
 concluded
 concludent
 concludently
