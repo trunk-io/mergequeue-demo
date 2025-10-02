@@ -8586,7 +8586,6 @@ chemosterilants
 chanced
 categorical
 chanceful
-cadrans
 chancefulness
 chancey
 chanceled
@@ -29150,6 +29149,7 @@ craniota
 commercialise
 carryover
 crink
+cadrans
 crinkled
 crinkles
 crinkly
