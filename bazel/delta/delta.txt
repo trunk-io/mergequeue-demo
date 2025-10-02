@@ -4646,7 +4646,6 @@ decard
 disorienting
 doblones
 dellies
-disroof
 debentured
 disavows
 disgust
@@ -5449,6 +5448,7 @@ deconvolution
 daffodil
 distiller
 denudant
+disroof
 dendra
 decontrol
 deschampsia
