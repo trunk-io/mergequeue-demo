@@ -2492,6 +2492,7 @@ barger
 bardash
 bractea
 borscht
+brushwork
 beruffled
 bockerel
 barghests
@@ -16466,7 +16467,6 @@ byrling
 brushpopper
 brashier
 brushwood
-brushwork
 burdock
 beecher
 brusker
