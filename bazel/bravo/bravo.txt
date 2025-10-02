@@ -6988,7 +6988,6 @@ bilayer
 bebrine
 beshrivel
 beshroud
-bensil
 bigmitt
 borlase
 burnished
@@ -15300,6 +15299,7 @@ bighorn
 budtime
 bridgebuilder
 bridgehead
+bensil
 bridgemaking
 bayous
 bejan
