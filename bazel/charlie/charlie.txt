@@ -10673,7 +10673,6 @@ chylous
 chilte
 chilver
 caliological
-chimaera
 chimaeroid
 chimakum
 cogon
@@ -19423,6 +19422,7 @@ cerotic
 checkstone
 color
 creational
+chimaera
 cycadaceous
 chinchier
 colorableness
