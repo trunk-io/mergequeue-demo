@@ -2690,7 +2690,6 @@ beastings
 beblood
 butein
 bottomries
-batch
 beadflush
 baron
 bemaul
@@ -9397,6 +9396,7 @@ bahawder
 bimah
 brachiotomy
 bituminise
+batch
 bromopikrin
 britannia
 bristol
