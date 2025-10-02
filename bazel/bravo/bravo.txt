@@ -3861,7 +3861,6 @@ bawdries
 boreal
 bawl
 bevelment
-bawled
 bawler
 bawly
 brutalitarian
@@ -6794,6 +6793,7 @@ bendability
 berreaves
 berret
 berrettas
+bawled
 bloodred
 barracudina
 bufonid
