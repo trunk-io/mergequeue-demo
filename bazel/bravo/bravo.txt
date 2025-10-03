@@ -6618,7 +6618,6 @@ boanbura
 brotula
 beetlers
 bacharach
-bodyplate
 barbers
 bereaves
 boninesses
@@ -11618,6 +11617,7 @@ boarded
 besmudged
 blastoffs
 boardinghouse
+bodyplate
 boardings
 boardsmanship
 boatloads
