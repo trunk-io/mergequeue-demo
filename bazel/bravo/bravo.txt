@@ -6102,7 +6102,6 @@ biochemistries
 benasty
 beholdable
 bedrift
-barbouillage
 buccinidae
 bataan
 boarskin
@@ -9085,6 +9084,7 @@ barbershop
 biontic
 boldface
 biophilous
+barbouillage
 biophysic
 biophysiography
 balibuntal
