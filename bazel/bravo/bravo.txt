@@ -11817,6 +11817,7 @@ backstring
 bluefish
 bocconia
 blennorrheal
+bedman
 bepommel
 bardolphian
 bock
@@ -15767,7 +15768,6 @@ bavaroise
 blockier
 brocolis
 breechblock
-bedman
 basicities
 brionine
 batholiths
