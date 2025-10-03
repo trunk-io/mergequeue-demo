@@ -1605,6 +1605,7 @@ ballottement
 backlotter
 baronage
 bedeafen
+bloodhound
 bahamian
 bunya
 byelorussians
@@ -8120,7 +8121,6 @@ blasphemer
 beslubber
 beltmaker
 besieging
-bloodhound
 bidiagonal
 bidimensional
 bosset
