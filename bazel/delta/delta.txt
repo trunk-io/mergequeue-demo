@@ -2109,7 +2109,6 @@ doline
 diapasm
 daunts
 dissembles
-doab
 duddies
 despoilment
 decameron
@@ -3925,6 +3924,7 @@ diduce
 daphnite
 desilicated
 deja
+doab
 dejection
 devested
 dactyloid
