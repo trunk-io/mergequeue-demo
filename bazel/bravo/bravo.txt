@@ -1026,6 +1026,7 @@ basanite
 bersil
 boroughmaster
 bailiwick
+benzophenoxazine
 bridler
 benzothiopyran
 brasswork
@@ -3061,7 +3062,6 @@ barwal
 bannack
 bowers
 blague
-benzophenoxazine
 boilerworks
 breather
 blastplate
