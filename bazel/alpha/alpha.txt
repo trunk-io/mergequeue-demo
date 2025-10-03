@@ -2951,6 +2951,7 @@ anklet
 acta
 agelast
 antilacrosser
+apparatus
 asylums
 actable
 affrighted
@@ -17506,7 +17507,6 @@ actinoidea
 apparat
 apparats
 achromatiaceae
-apparatus
 appareling
 apparency
 anoxyscope
