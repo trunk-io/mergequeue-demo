@@ -4879,7 +4879,6 @@ acetyltannin
 anticorrosives
 aerofoils
 aurrescu
-adjourned
 algine
 amberfish
 achrodextrinase
@@ -9281,6 +9280,7 @@ absist
 autographal
 ablush
 agrest
+adjourned
 along
 acrodrome
 abraid
