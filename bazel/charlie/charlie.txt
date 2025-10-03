@@ -17968,7 +17968,6 @@ codol
 chants
 codominant
 crested
-crystallographical
 combes
 citola
 cercolabidae
@@ -23420,6 +23419,7 @@ containerboard
 containerization
 concordantial
 containerizing
+crystallographical
 chemasthenia
 containerport
 copasetic
