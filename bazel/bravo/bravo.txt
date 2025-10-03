@@ -11343,7 +11343,6 @@ blackguards
 bespoused
 blowsier
 blowtorches
-bromos
 bossiness
 blowups
 beneficence
@@ -18329,6 +18328,7 @@ brahmans
 bombardon
 brewst
 botherheaded
+bromos
 buttons
 bescratch
 breviaries
