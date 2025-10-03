@@ -5990,7 +5990,6 @@ defeatee
 diacritics
 depreter
 depriment
-depriorize
 disorderedness
 deprivable
 degrader
@@ -13529,6 +13528,7 @@ donnism
 drey
 datelines
 doumas
+depriorize
 diving
 disassociated
 disseisee
