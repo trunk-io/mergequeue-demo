@@ -3098,6 +3098,7 @@ acrimoniousness
 apprehending
 allotment
 atlases
+acquest
 allometric
 adornment
 automaker
@@ -18291,7 +18292,6 @@ aggie
 analeptic
 albatross
 applicatorily
-acquest
 araguane
 araguato
 araignee
