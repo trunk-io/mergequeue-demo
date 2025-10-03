@@ -12769,6 +12769,7 @@ edaphosaurid
 emblems
 encephalomere
 ensembles
+endocrinopath
 encounterable
 emancipative
 exospore
@@ -13273,7 +13274,6 @@ egregious
 extrorsely
 executives
 exploitatory
-endocrinopath
 episcopy
 expiscate
 emaciation
