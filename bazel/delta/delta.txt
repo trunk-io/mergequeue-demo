@@ -378,7 +378,6 @@ desalters
 dayman
 droughtiness
 detruss
-daymares
 disseizes
 diarists
 discoloured
@@ -13573,6 +13572,7 @@ dissentience
 duende
 dehydrofrozen
 deerhorn
+daymares
 decimally
 doodling
 degrain
