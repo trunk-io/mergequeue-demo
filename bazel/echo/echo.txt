@@ -1440,6 +1440,7 @@ egbert
 ethiopian
 emunct
 epipleural
+erethism
 envelop
 etaerio
 enfarce
@@ -8727,7 +8728,6 @@ enfume
 elementarist
 equoidean
 embrue
-erethism
 exhedra
 erie
 enfeebler
