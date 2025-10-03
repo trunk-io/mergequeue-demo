@@ -609,7 +609,6 @@ bacteriochlorophyll
 bacteriocin
 bostangi
 bastiment
-bacteriodiagnosis
 bromates
 bacterid
 birdcages
@@ -5074,6 +5073,7 @@ berberia
 bespotted
 bechase
 busto
+bacteriodiagnosis
 beneficiary
 bunted
 befitted
