@@ -2844,7 +2844,6 @@ excitation
 emplaning
 elevons
 eurydice
-elf
 elfenfolk
 ecodeme
 endogeny
@@ -7275,6 +7274,7 @@ exanimate
 emulous
 eimeria
 enterpillar
+elf
 eat
 enigmatize
 eoghanacht
