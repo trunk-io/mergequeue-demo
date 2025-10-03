@@ -6410,7 +6410,6 @@ ecotypic
 excellencies
 ensweeten
 exceptioner
-exarchy
 enleen
 enharbour
 exhalants
@@ -10654,6 +10653,7 @@ expeditate
 entwine
 excitory
 endocytosis
+exarchy
 estragon
 enrober
 eosin
