@@ -3574,6 +3574,7 @@ dermatotome
 drawbeam
 dissheathe
 dehwar
+diminishable
 defuze
 dolman
 desmarestiaceous
@@ -16073,7 +16074,6 @@ decursively
 driftman
 dinophyceae
 dodgeful
-diminishable
 doubloon
 doublures
 doaty
