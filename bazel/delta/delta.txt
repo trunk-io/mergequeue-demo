@@ -1647,7 +1647,6 @@ dozening
 divergency
 dentimeter
 deamidation
-deaminase
 digitize
 daws
 daw
@@ -7036,6 +7035,7 @@ decamps
 downhill
 discreditably
 disseizure
+deaminase
 dogfaces
 drowners
 debrided
