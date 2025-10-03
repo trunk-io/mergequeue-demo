@@ -9133,7 +9133,6 @@ charterhouse
 chartering
 charterism
 charterless
-chartermaster
 charters
 cryptograms
 cindered
@@ -20711,6 +20710,7 @@ criance
 celative
 completory
 completories
+chartermaster
 complex
 complexation
 complexedness
