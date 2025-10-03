@@ -6335,6 +6335,7 @@ blockhouses
 blimp
 blastie
 backgrounds
+binderies
 bentonite
 bents
 benu
@@ -17709,7 +17710,6 @@ burma
 begazed
 basker
 bestead
-binderies
 backhands
 beshouts
 birling
