@@ -16355,7 +16355,6 @@ clip
 canterer
 clipboard
 clipboards
-clypeal
 clypeastridea
 clypeastrina
 clypeastroid
@@ -26324,6 +26323,7 @@ chacoli
 costopleural
 costopneumopexy
 collusiveness
+clypeal
 cicerone
 costosternal
 costothoracic
