@@ -7860,7 +7860,6 @@ cervicothoracic
 cervicovesical
 cervinae
 cosignatory
-cervoid
 cervuline
 cervus
 cesare
@@ -16920,6 +16919,7 @@ clubhouses
 clubionidae
 clubland
 clubman
+cervoid
 cloveroot
 clubmate
 chiccory
