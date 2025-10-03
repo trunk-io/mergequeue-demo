@@ -8336,7 +8336,6 @@ crevices
 chalkone
 chalkos
 chalkotheke
-campanili
 chalkpit
 chalkrail
 circumflect
@@ -29791,6 +29790,7 @@ crookshouldered
 crooksided
 cunjevoi
 crooksterned
+campanili
 crool
 counterambush
 croon
