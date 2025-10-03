@@ -14626,7 +14626,6 @@ brandiron
 buddle
 billhooks
 blume
-belemnitic
 buri
 buggyman
 brandisite
@@ -16163,6 +16162,7 @@ bimodal
 bilobate
 brotany
 ban
+belemnitic
 bloodstain
 bins
 brotel
