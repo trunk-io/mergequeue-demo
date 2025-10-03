@@ -11994,7 +11994,6 @@ disenable
 disenabled
 duplicates
 diploplacula
-daygoing
 differen
 disenchant
 dowd
@@ -13285,6 +13284,7 @@ diplotaxis
 dimercaprol
 dittay
 degradable
+daygoing
 degenerating
 diligentness
 disprizes
