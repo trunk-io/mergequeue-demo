@@ -2507,7 +2507,6 @@ beet
 bargellos
 beswinge
 begroans
-barger
 bardash
 bractea
 borscht
@@ -3715,6 +3714,7 @@ barotraumata
 bronteon
 battlefronts
 bringall
+barger
 brucella
 barnstorms
 battler

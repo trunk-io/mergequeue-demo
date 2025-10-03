@@ -2692,6 +2692,7 @@ ebons
 equipotent
 electees
 edentate
+each
 envoi
 emetic
 engorge
@@ -3954,7 +3955,6 @@ empatron
 etrurian
 essie
 evenhand
-each
 exultancy
 enveigle
 esothyropexy
