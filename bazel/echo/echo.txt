@@ -3359,7 +3359,6 @@ evacuate
 eventide
 embellisher
 earlish
-embellishers
 easter
 enchained
 emmer
@@ -13995,6 +13994,7 @@ equinity
 eryopid
 eustacy
 extraregarding
+embellishers
 extraregularly
 expirers
 exiling
