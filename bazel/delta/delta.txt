@@ -4733,6 +4733,7 @@ dewaxed
 dematerialisation
 drifting
 disheveling
+defences
 downily
 ducklar
 demivambrace
@@ -8038,7 +8039,6 @@ damageable
 dft
 dysthymic
 dialects
-defences
 derbylite
 defenestration
 dietician
