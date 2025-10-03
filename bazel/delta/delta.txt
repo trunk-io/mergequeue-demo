@@ -2823,6 +2823,7 @@ dictionary
 deprivers
 demystify
 discind
+deval
 deuteroglobulose
 decretorian
 dithymol
@@ -7639,7 +7640,6 @@ deva
 dequeuing
 dactylonomy
 devadasi
-deval
 devaloka
 drenched
 declinable
