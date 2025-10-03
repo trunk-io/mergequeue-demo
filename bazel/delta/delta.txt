@@ -5254,7 +5254,6 @@ dataset
 denotativeness
 denotatum
 deacidifying
-denotes
 docetistic
 destructuralize
 denoting
@@ -12101,6 +12100,7 @@ disentwined
 destemper
 diagnoseable
 deaerated
+denotes
 disentwining
 dipodomyinae
 dividableness
