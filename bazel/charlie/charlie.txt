@@ -2475,7 +2475,6 @@ candies
 candying
 consuetudinary
 candymaker
-cardiophobe
 candymaking
 candiru
 candite
@@ -8851,6 +8850,7 @@ characins
 charity
 charact
 cutouts
+cardiophobe
 charactered
 capitalist
 costocoracoid
