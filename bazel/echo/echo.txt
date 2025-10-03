@@ -7987,7 +7987,6 @@ enscene
 enteroscope
 endopod
 epiphanise
-endleaf
 ealdormen
 epiphanous
 expansiveness
@@ -8193,6 +8192,7 @@ engirded
 epistena
 electrodiplomatic
 episternal
+endleaf
 entoloma
 emaceration
 ecclesiologic
