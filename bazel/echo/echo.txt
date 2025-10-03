@@ -1095,7 +1095,6 @@ electrotypes
 epicaridea
 epitrichial
 exsanguinated
-encatarrhaphy
 ejectee
 epacts
 eikons
@@ -5880,6 +5879,7 @@ eruc
 exhilarates
 epityphlitis
 erythrose
+encatarrhaphy
 euflavine
 epicondylitis
 expectorates
