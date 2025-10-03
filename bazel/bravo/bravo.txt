@@ -15358,6 +15358,7 @@ briefness
 bleeds
 bedstaves
 braeside
+bowse
 barblet
 backie
 bierstuben
@@ -16922,7 +16923,6 @@ baddy
 bonducs
 bespurred
 buggered
-bowse
 bereaver
 brickwork
 buggers
