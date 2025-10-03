@@ -2365,7 +2365,6 @@ becalms
 beworship
 bardlike
 barkiest
-breeches
 bazar
 bardling
 brinks
@@ -7665,6 +7664,7 @@ bezan
 biplace
 bezanty
 bureaucratical
+breeches
 brassiness
 battledored
 bargain
