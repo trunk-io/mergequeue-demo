@@ -1470,7 +1470,6 @@ bespottedness
 beglad
 bemadamed
 ballades
-boser
 bacteremia
 broncobusters
 borstal
@@ -14535,6 +14534,7 @@ betray
 brakie
 blastophitic
 bramble
+boser
 brambleberry
 branchy
 botch
