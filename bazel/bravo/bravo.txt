@@ -1109,6 +1109,7 @@ betrayals
 bedimmed
 boatload
 brindled
+botaniser
 brewmaster
 boyg
 bargestone
@@ -7892,7 +7893,6 @@ biblike
 berinse
 bibliofilm
 blepharosymphysis
-botaniser
 biocatalytic
 bibliographies
 bibliographize
