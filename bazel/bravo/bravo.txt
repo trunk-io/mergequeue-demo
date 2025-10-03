@@ -7726,7 +7726,6 @@ bathyscaphe
 bravoite
 buxerry
 bhikshu
-brakehand
 bullan
 breakover
 brocard
@@ -8827,6 +8826,7 @@ bingos
 bounden
 besets
 bini
+brakehand
 beraking
 bettering
 biniodide
