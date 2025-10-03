@@ -4039,7 +4039,6 @@ beamroom
 baragnosis
 blitzkrieged
 bantlings
-bean
 brickred
 boldness
 begottenness
@@ -9498,6 +9497,7 @@ byronesque
 birostrate
 byronic
 binocles
+bean
 beirut
 brahmaness
 beaconage
