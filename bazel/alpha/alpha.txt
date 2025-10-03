@@ -2673,7 +2673,6 @@ apartment
 antepenultimate
 aking
 acrawl
-aerialness
 acre
 acreage
 aperitive
@@ -16185,6 +16184,7 @@ awheel
 azafran
 agelaius
 agronomically
+aerialness
 acologic
 antitabetic
 austrophil
