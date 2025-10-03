@@ -12167,7 +12167,6 @@ boldfacing
 boldhearted
 beclip
 beg
-bultey
 beloid
 borborygm
 burbler
@@ -15492,6 +15491,7 @@ brimmering
 brims
 brindisi
 bromo
+bultey
 beignet
 bihai
 bans
