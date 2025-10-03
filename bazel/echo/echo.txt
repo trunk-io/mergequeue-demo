@@ -3100,7 +3100,6 @@ epirrheme
 embryotome
 eloise
 epidermidalization
-exocoelom
 essayer
 epigonousepigons
 entheasm
@@ -8974,6 +8973,7 @@ elenchical
 enterokinesia
 enormious
 exodromy
+exocoelom
 erythemas
 eves
 epupillate
