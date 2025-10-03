@@ -3695,6 +3695,7 @@ battler
 basocyte
 barrace
 blushiness
+barukhzy
 biannually
 buhr
 biham
@@ -10554,7 +10555,6 @@ blackprint
 baretta
 bastardizing
 blathers
-barukhzy
 bazookamen
 bivinyls
 bezoardic
