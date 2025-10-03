@@ -2509,6 +2509,7 @@ borscht
 beruffled
 bockerel
 bedizen
+botaniser
 barghests
 boccia
 blueblack
@@ -7882,7 +7883,6 @@ biblike
 berinse
 bibliofilm
 blepharosymphysis
-botaniser
 biocatalytic
 bibliographies
 bibliographize
