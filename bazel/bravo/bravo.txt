@@ -2479,7 +2479,6 @@ borscht
 beruffled
 bockerel
 bedizen
-botaniser
 barghests
 boccia
 blueblack
@@ -17714,6 +17713,7 @@ burned
 burner
 benempt
 billian
+botaniser
 blastophaga
 bemuzzled
 bott
