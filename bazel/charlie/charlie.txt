@@ -28180,7 +28180,6 @@ calibrations
 communitorium
 craniomaxillary
 cataloging
-craniometry
 championship
 capronyl
 craniometrist
@@ -29692,6 +29691,7 @@ cotingid
 crocodylus
 chronol
 counteraffirm
+craniometry
 croconic
 convincedness
 carroches
