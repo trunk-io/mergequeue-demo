@@ -4152,7 +4152,6 @@ brinsell
 buckism
 brickwall
 beastlily
-beclown
 barrow
 bradypus
 beastling
@@ -10563,6 +10562,7 @@ butyrone
 beflatter
 blatta
 biostrome
+beclown
 blatted
 boltheader
 bachelorship
