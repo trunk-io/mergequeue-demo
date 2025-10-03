@@ -4263,7 +4263,6 @@ enamelless
 eluder
 enamels
 emit
-edibles
 enami
 enamorado
 enamorato
@@ -7802,6 +7801,7 @@ excardination
 encrinoid
 essentialized
 epigonism
+edibles
 euconjugatae
 epigonium
 euraquilo
