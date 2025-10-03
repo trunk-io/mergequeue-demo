@@ -3911,7 +3911,6 @@ borsholder
 bchs
 bronchitis
 ballotage
-bd
 boracium
 buttonholes
 braggingly
@@ -17498,6 +17497,7 @@ babyhood
 buran
 burans
 burblers
+bd
 benighted
 bonbon
 blueweeds
