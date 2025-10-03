@@ -3743,7 +3743,6 @@ ethnohistorical
 epidemy
 emended
 englishwoman
-ecu
 emending
 edility
 escribano
@@ -13439,6 +13438,7 @@ exorate
 expropriator
 eringo
 epenthetic
+ecu
 electrolyse
 equilibrize
 electricalize
