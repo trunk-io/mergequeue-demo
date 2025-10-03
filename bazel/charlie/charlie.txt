@@ -22349,7 +22349,6 @@ crooks
 congregant
 congregated
 congregating
-congregation
 courts
 coting
 congregational
@@ -26948,6 +26947,7 @@ copperleaf
 counterlath
 corticospinal
 counterlathed
+congregation
 comingle
 cubiform
 carpogonial
