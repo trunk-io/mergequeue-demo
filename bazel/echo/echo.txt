@@ -931,6 +931,7 @@ ecttypal
 equates
 emanatory
 exeresis
+eigenvalue
 ecuadorian
 ecumenacy
 engraffing
@@ -3320,7 +3321,6 @@ enc
 eavedropper
 embark
 epichorial
-eigenvalue
 embarkations
 epitomize
 embarkment
