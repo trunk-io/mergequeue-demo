@@ -1057,6 +1057,7 @@ deas
 dutra
 darner
 devoiced
+decolours
 dipterad
 darners
 dewooled
@@ -2653,7 +2654,6 @@ decolourizer
 dumpcarts
 dinglebird
 decreers
-decolours
 decommission
 decommissioned
 discriminably
