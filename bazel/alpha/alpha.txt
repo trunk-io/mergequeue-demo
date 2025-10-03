@@ -9708,7 +9708,6 @@ alvine
 arminianizer
 apteryx
 accumulatively
-addnl
 avestan
 alvissmal
 abstr
@@ -16131,6 +16130,7 @@ adumbrative
 addendum
 allowably
 acidoid
+addnl
 apronless
 antisophistication
 antispasmodic
