@@ -5960,7 +5960,6 @@ cutcha
 cathedrated
 cathedratic
 commodious
-cathedraticum
 cathepsin
 cathern
 catties
@@ -25678,6 +25677,7 @@ correctible
 confirmatorily
 cubicly
 correctionalist
+cathedraticum
 correctioner
 conformities
 corrective
