@@ -2046,7 +2046,6 @@ blesses
 bannerols
 bannisters
 birthmarks
-bioflavinoid
 bannock
 bilboquet
 bannocks
@@ -8356,6 +8355,7 @@ basin
 bradoon
 bights
 blickeys
+bioflavinoid
 blackfellows
 bemuddled
 brulot
