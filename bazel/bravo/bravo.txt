@@ -2389,7 +2389,6 @@ bowdlerised
 bardings
 becalms
 beworship
-bardlike
 barkiest
 breeches
 bazar
@@ -7329,6 +7328,7 @@ betaking
 blowby
 betanglement
 beulah
+bardlike
 burners
 blastomycin
 bicipitous
