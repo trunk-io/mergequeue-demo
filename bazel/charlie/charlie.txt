@@ -2271,6 +2271,7 @@ canalatura
 completer
 cromorne
 canalboat
+charlatanism
 charales
 canale
 canaled
@@ -3876,7 +3877,6 @@ chromatics
 carbonization
 carbonize
 carbonized
-charlatanism
 carbonizers
 concn
 cartelize
