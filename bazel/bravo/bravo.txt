@@ -8068,7 +8068,6 @@ booklift
 bartend
 bagroom
 biguanide
-belligerents
 bicornuate
 bicornute
 bicorporate
@@ -12003,6 +12002,7 @@ bogland
 budgerigah
 belauder
 bytalk
+belligerents
 bribeability
 bogled
 boglet
