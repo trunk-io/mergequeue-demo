@@ -2665,7 +2665,6 @@ advertizer
 apartment
 antepenultimate
 aking
-acrawl
 acre
 acreage
 aperitive
@@ -22759,6 +22758,7 @@ atmocausis
 atmoclastic
 asgd
 albizias
+acrawl
 anthropophagously
 armsful
 atmolysis
