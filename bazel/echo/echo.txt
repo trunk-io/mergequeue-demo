@@ -5809,6 +5809,7 @@ engrandize
 ebrillade
 ecesis
 engrandizement
+exconjugant
 epidermatous
 enodate
 engrasp
@@ -8647,7 +8648,6 @@ equiponderated
 ejecta
 equipotential
 externalize
-exconjugant
 endostyle
 epicoeliac
 epulotic
