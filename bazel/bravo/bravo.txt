@@ -10282,6 +10282,7 @@ bellweather
 bulldogs
 biborate
 belly
+blowth
 boracic
 blacksmithing
 biochemy
@@ -10474,7 +10475,6 @@ bridgetree
 blarny
 blout
 begs
-blowth
 bedung
 blarnid
 bayoneteer
