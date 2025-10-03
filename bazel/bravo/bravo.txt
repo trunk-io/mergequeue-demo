@@ -6501,6 +6501,7 @@ bepiece
 bragas
 bolshie
 boca
+behavior
 bumbled
 blowiness
 bepart
@@ -13983,7 +13984,6 @@ burial
 bacteriotropic
 bisectionally
 bowstrung
-behavior
 bowtell
 barographic
 backpointer
