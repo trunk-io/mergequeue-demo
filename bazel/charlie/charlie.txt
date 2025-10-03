@@ -4832,7 +4832,6 @@ carriagesmith
 cinchonicin
 carriageway
 carryall
-carrick
 carrycot
 chromatoplasm
 carried
@@ -5389,6 +5388,7 @@ catarrhally
 castigator
 castigatory
 castigators
+carrick
 camaldolite
 centai
 counteractingly
