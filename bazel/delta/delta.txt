@@ -5801,7 +5801,6 @@ deconsider
 depoh
 decd
 deitate
-depolarise
 depolarization
 dernly
 depolarize
@@ -15734,6 +15733,7 @@ desaurin
 dorado
 doralium
 discovers
+depolarise
 diabetical
 downbye
 dorask
