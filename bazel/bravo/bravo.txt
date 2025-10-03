@@ -2792,7 +2792,6 @@ behaviourally
 baronries
 benniseed
 briggs
-baconer
 bowsprits
 butchered
 bureaus
@@ -16816,6 +16815,7 @@ bioassayed
 berycoidean
 budgies
 bellerophontidae
+baconer
 budging
 bronc
 beseecher
