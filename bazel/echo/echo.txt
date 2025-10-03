@@ -1148,6 +1148,7 @@ entrochite
 edplot
 edrioasteroidea
 exite
+epithelioid
 edriophthalmatous
 educand
 educatability
@@ -10938,7 +10939,6 @@ embrowns
 eupolidean
 esopus
 eupolyzoan
-epithelioid
 envoy
 epidermatic
 equivocalness
