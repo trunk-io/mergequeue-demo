@@ -464,7 +464,6 @@ cadastral
 cadastration
 cadastres
 cadaver
-capronic
 cadaverin
 cadaverous
 cadaverously
@@ -25255,6 +25254,7 @@ corynine
 customhouses
 corinna
 corinne
+capronic
 corynocarpaceous
 corynocarpus
 corynteria
