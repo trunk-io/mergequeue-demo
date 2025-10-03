@@ -1600,7 +1600,6 @@ dunkirker
 deafly
 deafmuteness
 digression
-deafness
 deairing
 discernableness
 deairs
@@ -3826,6 +3825,7 @@ desilverizer
 dismutation
 deictical
 dissevered
+deafness
 decommissions
 devilkin
 dreissiger
