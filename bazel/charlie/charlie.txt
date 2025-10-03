@@ -13272,7 +13272,6 @@ crossrail
 cycloaliphatic
 confederal
 caprioled
-cycloalkane
 cyclobothra
 carmakers
 cyclobutane
@@ -21698,6 +21697,7 @@ cariacus
 condyloma
 condylomatous
 condylome
+cycloalkane
 chamaeleon
 condylopodous
 conjurator
