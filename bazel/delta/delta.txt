@@ -8699,6 +8699,7 @@ deathrate
 depolarizing
 diethylethanolamine
 diastereoisomerism
+disform
 diastereomer
 dodges
 druid
@@ -13403,7 +13404,6 @@ disquisitor
 disquisitional
 dismarble
 deepfreezed
-disform
 diffusion
 domestications
 dennstaedtia
