@@ -7693,7 +7693,6 @@ englify
 enslaved
 ensure
 emendable
-equips
 edelweisses
 entelam
 epidiascope
@@ -10555,6 +10554,7 @@ erotomania
 epephragmal
 entomophily
 epiclidal
+equips
 esprits
 elpidite
 euphroes
