@@ -19044,7 +19044,6 @@ agrostis
 arulo
 archprelate
 archprelatic
-adjudicator
 affixers
 antiposition
 alk
@@ -23266,6 +23265,7 @@ atabals
 abatjour
 actinophonic
 attunes
+adjudicator
 apteryges
 autoimmunizing
 anolyte
