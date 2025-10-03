@@ -3299,7 +3299,6 @@ basketmaking
 broggerite
 bonnets
 behen
-barnacling
 batikuling
 basketware
 bluecoat
@@ -4961,6 +4960,7 @@ burly
 barbecueing
 beladied
 burgage
+barnacling
 basement
 bluebeardism
 belleric
