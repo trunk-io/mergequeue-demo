@@ -3036,7 +3036,6 @@ beckons
 brimmers
 beachhead
 biome
-bartonella
 backswordsman
 bookbinderies
 bartree
@@ -15341,6 +15340,7 @@ batrachidae
 byrewards
 bridgetin
 brailled
+bartonella
 bondmaid
 benzidine
 beefily
