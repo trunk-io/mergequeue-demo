@@ -1345,7 +1345,6 @@ endogenae
 estatesman
 echelon
 examinative
-efficacy
 envying
 efficacies
 exhortation
@@ -1722,6 +1721,7 @@ expertize
 extg
 episiotomy
 embattle
+efficacy
 emule
 exhbn
 eyes
