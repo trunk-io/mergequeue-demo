@@ -17299,7 +17299,6 @@ candlesnuffer
 coalescent
 combustibility
 cuneocuboid
-coalescing
 choya
 coalfield
 coalfitter
@@ -20081,6 +20080,7 @@ campodeid
 commensals
 commensurability
 commensurable
+coalescing
 cajoled
 commensurably
 commensurate
