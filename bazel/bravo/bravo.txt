@@ -8122,7 +8122,6 @@ bourbon
 bug
 blasphemer
 beslubber
-beltmaker
 besieging
 bidiagonal
 bidimensional
@@ -10634,6 +10633,7 @@ bleach
 branchiosaurus
 bluebutton
 beakier
+beltmaker
 bleachable
 badon
 bouderie
