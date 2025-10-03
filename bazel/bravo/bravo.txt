@@ -1465,6 +1465,7 @@ bunkerman
 balkiness
 balking
 budgy
+bool
 bathed
 boyarisms
 blighter
@@ -15020,7 +15021,6 @@ breccial
 boatly
 breccias
 brecciated
-bool
 bursar
 brechams
 brechans
