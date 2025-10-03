@@ -1050,7 +1050,6 @@ diplohedral
 dishes
 diacodium
 directive
-deas
 dutra
 darner
 devoiced
@@ -18571,6 +18570,7 @@ depeach
 disanimated
 dyslexic
 dooxidize
+deas
 disbarment
 diffeomorphism
 dush
