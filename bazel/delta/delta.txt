@@ -11421,6 +11421,7 @@ dermatoma
 determinoid
 debug
 discloser
+doubtous
 disclosive
 disclosure
 diplomaed
@@ -16083,7 +16084,6 @@ doubters
 demi
 doubtlessly
 decorability
-doubtous
 doubts
 distinguishable
 douc
