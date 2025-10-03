@@ -16599,7 +16599,6 @@ cnidosac
 cloghaun
 cloghead
 cowsharn
-cosmos
 chawbuck
 calendar
 coinheritance
@@ -26763,6 +26762,7 @@ counterarch
 compulsative
 chende
 cognominal
+cosmos
 cloisters
 counterassociation
 cammock
