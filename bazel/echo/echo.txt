@@ -7478,7 +7478,6 @@ eastmost
 electrosynthesis
 ethylate
 epibatholithic
-electrodepositor
 enviously
 estoil
 externate
@@ -11121,6 +11120,7 @@ evocation
 entanglingly
 euxenites
 enjambments
+electrodepositor
 eavesdrip
 evacuant
 eighteenmos
