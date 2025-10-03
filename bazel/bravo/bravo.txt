@@ -10447,7 +10447,6 @@ beachboy
 bastion
 boghole
 bimuscular
-boyards
 barytostrontianite
 blaoner
 burinist
@@ -13641,6 +13640,7 @@ benefaction
 boodlers
 barite
 boulanger
+boyards
 brushproof
 boulangism
 bouldered
