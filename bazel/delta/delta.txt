@@ -5997,7 +5997,6 @@ defeatee
 diacritics
 depreter
 depriment
-deprint
 depriorize
 disorderedness
 deprivable
@@ -7725,6 +7724,7 @@ devilet
 duits
 dismembrate
 defuse
+deprint
 darwinism
 devilfish
 decelerators
