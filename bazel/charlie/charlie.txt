@@ -3273,7 +3273,6 @@ calcino
 capitulate
 capitulates
 capitulator
-capituliform
 cystolithic
 cerium
 crotchwood
@@ -14836,6 +14835,7 @@ corruptibleness
 cascan
 citizens
 cytoanalyzer
+capituliform
 catharsis
 cis
 copremia
