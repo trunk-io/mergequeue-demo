@@ -1384,7 +1384,6 @@ backjoint
 bathofloric
 balearica
 bisellium
-balebos
 baled
 baleen
 bobance
@@ -9815,6 +9814,7 @@ brigandish
 bisubstituted
 bisubstitution
 bisulfate
+balebos
 biblioklept
 bromatology
 bocca
