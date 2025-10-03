@@ -6711,7 +6711,6 @@ brilliantine
 berkeleianism
 broider
 barba
-berkelium
 berkovtsi
 bedull
 bayesian
@@ -16275,6 +16274,7 @@ browntail
 belgravia
 bignonia
 bunkie
+berkelium
 brownweed
 bobolinks
 blabbed
