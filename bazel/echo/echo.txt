@@ -6848,7 +6848,6 @@ evaporable
 equipments
 embelif
 executions
-emmental
 eucalyn
 epiblema
 epitrchelia
@@ -13782,6 +13781,7 @@ epicheirema
 engraftment
 extorts
 ecteron
+emmental
 esparto
 eukaryote
 endebt
