@@ -3328,7 +3328,6 @@ bassalia
 bootable
 brythonic
 baculum
-benzilic
 bassan
 bassanite
 biotechnics
@@ -7717,6 +7716,7 @@ bullaries
 bheestie
 beblot
 bespangles
+benzilic
 britten
 bathyscaphe
 bravoite
