@@ -6729,7 +6729,6 @@ celeb
 capicha
 clition
 celebrant
-cohesions
 celebrants
 celebrate
 comiakin
@@ -26479,6 +26478,7 @@ crowbars
 calli
 cotqueans
 courbache
+cohesions
 cotransduction
 cotransfuse
 cotranslator
