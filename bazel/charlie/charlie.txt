@@ -9203,7 +9203,6 @@ charwomen
 chaseable
 chased
 chases
-cainitic
 chashitsu
 chasm
 cotonia
@@ -25361,6 +25360,7 @@ chromoisomerism
 cassoulet
 cornbinks
 coidentity
+cainitic
 chaplainship
 cornbole
 cornbottle
