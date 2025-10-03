@@ -8917,6 +8917,7 @@ dichas
 dichasia
 divining
 dialyzer
+drawlatch
 distributiveness
 dichasium
 deash
@@ -17822,7 +17823,6 @@ descendence
 ductor
 dowdies
 ductules
-drawlatch
 ductwork
 duculinae
 dictyosome
