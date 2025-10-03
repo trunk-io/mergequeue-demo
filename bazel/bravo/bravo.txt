@@ -9904,7 +9904,6 @@ besmirches
 bitstone
 blackthorn
 bitter
-besee
 bitterbloom
 bitterbur
 bittered
@@ -10110,6 +10109,7 @@ bedawee
 boxfish
 butties
 blabbered
+besee
 barytic
 bewhiskered
 blabbering
