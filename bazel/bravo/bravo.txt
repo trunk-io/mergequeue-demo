@@ -2483,7 +2483,6 @@ burian
 bhut
 bedark
 brachyoura
-barge
 bergere
 bargelike
 beet
@@ -10724,6 +10723,7 @@ benzalhydrazine
 balian
 bandfish
 bogijiab
+barge
 brachistocephali
 boney
 bathycolpian
