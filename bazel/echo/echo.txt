@@ -11266,7 +11266,6 @@ edicts
 erenach
 eneid
 erudite
-encephalomeric
 eventual
 eozoic
 eve
@@ -12496,6 +12495,7 @@ entete
 enumerably
 excoecaria
 existentialist
+encephalomeric
 exgorgitation
 existentialistically
 enzymology
