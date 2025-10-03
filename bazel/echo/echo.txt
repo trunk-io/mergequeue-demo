@@ -6184,6 +6184,7 @@ electrodynamics
 enophthalmus
 executable
 exhalations
+exoculated
 exhortator
 enorn
 enos
@@ -9912,7 +9913,6 @@ epideictical
 extensionist
 electromagnetics
 exude
-exoculated
 enskies
 effemination
 expiatoriness
