@@ -3512,6 +3512,7 @@ diasters
 doughmaker
 deformability
 droughermen
+decurrency
 distomum
 demographical
 delvers
@@ -14492,7 +14493,6 @@ dextrogyrous
 divertissements
 divertive
 diverts
-decurrency
 deferment
 divested
 doradidae
