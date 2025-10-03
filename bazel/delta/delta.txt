@@ -5215,7 +5215,6 @@ dogfoot
 deathly
 diaheliotropic
 detruncating
-devoid
 diazoamino
 denitrifier
 destructors
@@ -16308,6 +16307,7 @@ downplays
 dozenth
 disagreeable
 douche
+devoid
 discredits
 dispeace
 downriver
