@@ -2321,7 +2321,6 @@ estafetted
 epithi
 entendres
 electroplating
-electroplates
 ellipsis
 ecumenical
 euomphalus
@@ -8075,6 +8074,7 @@ enew
 exhumator
 episclera
 ell
+electroplates
 episcopacy
 expensilation
 ensanguined
