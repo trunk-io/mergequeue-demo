@@ -5862,7 +5862,6 @@ butterbur
 bellwether
 bradmaker
 bellwort
-braking
 belock
 beloeilite
 belomancy
@@ -16734,6 +16733,7 @@ bleached
 bodycheck
 bucklers
 bucko
+braking
 buckoes
 baronetise
 balaam
