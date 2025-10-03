@@ -756,6 +756,7 @@ echinal
 egger
 energizers
 ecrase
+explicators
 enclitic
 extense
 earpieces
@@ -5340,7 +5341,6 @@ evicted
 envolupen
 evocatory
 endotheliomas
-explicators
 esquiline
 empyreum
 eophyte
