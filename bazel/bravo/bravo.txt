@@ -10245,7 +10245,6 @@ betattering
 boyd
 breakpoints
 blacklisted
-blacklister
 beparse
 blacklists
 brainer
@@ -12652,6 +12651,7 @@ bonnocks
 bonnwis
 bonorum
 bisector
+blacklister
 bagatelle
 balker
 bills
