@@ -7753,7 +7753,6 @@ epigone
 epithelium
 evaporate
 exarchate
-entomotaxy
 epigonic
 expletive
 encrinoid
@@ -9880,6 +9879,7 @@ enskies
 effemination
 expiatoriness
 exturb
+entomotaxy
 encoder
 eiresione
 epipterygoid
