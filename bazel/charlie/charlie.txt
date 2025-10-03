@@ -11878,7 +11878,6 @@ choppiness
 cowpuncher
 clancular
 chopstick
-chopsticks
 chopunnish
 cakes
 cultch
@@ -18411,6 +18410,7 @@ creamcups
 cogitant
 cogitates
 cogitation
+chopsticks
 cogitativity
 comparer
 cogitator
