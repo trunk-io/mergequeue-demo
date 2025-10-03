@@ -1532,7 +1532,6 @@ enterokinetic
 eglamore
 eglandular
 eglantines
-extradialectal
 endocardia
 enmity
 electropathology
@@ -4886,6 +4885,7 @@ endeictic
 entropium
 expectable
 enravish
+extradialectal
 embryotomy
 endellionite
 enarch
