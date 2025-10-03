@@ -7244,7 +7244,6 @@ centring
 centrings
 clivia
 cavaedia
-centriole
 chalazogam
 codebreak
 cariniana
@@ -9151,6 +9150,7 @@ chromous
 charshaf
 charsingha
 curvacious
+centriole
 container
 charta
 curialities
