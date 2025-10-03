@@ -1841,7 +1841,6 @@ containers
 cologne
 cotwin
 calicoed
-cordwains
 chickling
 cyanophil
 civvies
@@ -16216,6 +16215,7 @@ climatology
 climatological
 conductitious
 crenulated
+cordwains
 climatologically
 climatometer
 climaxed
