@@ -608,7 +608,6 @@ beggiatoa
 bacteriochlorophyll
 bacteriocin
 bostangi
-bacteriodiagnosis
 bromates
 bacterid
 birdcages
@@ -2804,6 +2803,7 @@ baroswitch
 bionomical
 barotaxy
 bld
+bacteriodiagnosis
 bitis
 ballgowns
 bulkiest
