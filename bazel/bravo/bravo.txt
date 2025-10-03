@@ -2623,7 +2623,6 @@ barkometer
 batrachite
 beeth
 barlafumble
-blurred
 basilinna
 buckstall
 bescour
@@ -17566,6 +17565,7 @@ bascule
 broadacre
 bothrops
 burgality
+blurred
 beaufort
 bouses
 bespill
