@@ -12519,7 +12519,6 @@ euphemy
 emissaria
 enneacontahedron
 exist
-existed
 elucidating
 esne
 electrooptical
@@ -13176,6 +13175,7 @@ ensilate
 expiational
 expirate
 endostracal
+existed
 echinopsine
 expiration
 exponentiation
