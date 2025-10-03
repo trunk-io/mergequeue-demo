@@ -1811,7 +1811,6 @@ babirusas
 backstabber
 bandelette
 banderma
-banderol
 banderole
 bindings
 brigading
@@ -15446,6 +15445,7 @@ brill
 bradytocia
 bicone
 binominous
+banderol
 brillante
 brilliance
 braata
