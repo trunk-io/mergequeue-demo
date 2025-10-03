@@ -4486,7 +4486,6 @@ becrowd
 becrowded
 burstwort
 billeting
-bacchanalias
 bidi
 bumptiously
 brokes
@@ -4761,6 +4760,7 @@ bedraping
 bedread
 bedrench
 baldling
+bacchanalias
 bed
 bedribble
 bhalu
