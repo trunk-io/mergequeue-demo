@@ -539,6 +539,7 @@ dalton
 denomination
 dermaskeleton
 dama
+dermatomycosis
 damageability
 disodic
 damageably
@@ -10594,7 +10595,6 @@ dbrn
 diacrisis
 diplococcemia
 disleaf
-dermatomycosis
 digammate
 dashiki
 denote
