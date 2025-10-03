@@ -917,7 +917,6 @@ bogey
 bagwyn
 bustier
 baker
-bakeshop
 brumby
 bahadur
 beverage
@@ -1044,6 +1043,7 @@ berkeleian
 bain
 bepraisement
 boogymen
+bakeshop
 brushet
 bainie
 biogenic
