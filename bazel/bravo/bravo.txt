@@ -13239,7 +13239,6 @@ bowtel
 borty
 beworm
 britannica
-borwort
 bumper
 borzoi
 boschneger
@@ -17608,6 +17607,7 @@ burggrave
 burghbote
 bipeds
 brabblement
+borwort
 brandished
 bristling
 burgherage
