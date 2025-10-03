@@ -1053,6 +1053,7 @@ destandardize
 diplohedral
 dishes
 diacodium
+directive
 deas
 dutra
 darner
@@ -16957,7 +16958,6 @@ doless
 dzerin
 dyspeptics
 drearfully
-directive
 drearies
 danseuse
 desterilizing
