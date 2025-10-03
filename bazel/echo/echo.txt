@@ -5480,7 +5480,6 @@ exorciser
 enfeeble
 enfeeblements
 earwort
-exorcising
 evertors
 exoterics
 espiritual
@@ -11217,6 +11216,7 @@ enclothe
 earthshakingly
 evangelistary
 enthronements
+exorcising
 earflower
 endostraca
 enamor
