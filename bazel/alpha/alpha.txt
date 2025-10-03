@@ -1453,7 +1453,6 @@ ambisyllabic
 agorot
 anesthesiologists
 argosy
-aphyllose
 accipient
 antidromal
 almemar
@@ -19319,6 +19318,7 @@ addend
 arthromere
 australian
 aretaics
+aphyllose
 arete
 anklebones
 automatist
