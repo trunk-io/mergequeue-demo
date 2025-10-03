@@ -5796,7 +5796,6 @@ belay
 belled
 baggageman
 boomlet
-backlogging
 bearably
 ballhausplatz
 bentstar
@@ -17962,6 +17961,7 @@ bushwhacked
 bundlings
 bushwhackers
 boheas
+backlogging
 balancing
 bellowsman
 busybody
