@@ -5239,7 +5239,6 @@ equity
 esterellite
 efik
 enchest
-emulsionize
 engrafting
 ecmnesia
 endorsable
@@ -12640,6 +12639,7 @@ expedited
 emissarium
 exogen
 exercent
+emulsionize
 earldom
 esophagostomy
 encratism
