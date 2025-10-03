@@ -2169,7 +2169,6 @@ bewilders
 bestove
 baramin
 bertat
-briscola
 bararite
 barathea
 barbellate
@@ -11478,6 +11477,7 @@ bigeneric
 bananalander
 barrette
 bivious
+briscola
 barytones
 bluestockings
 bolthead
