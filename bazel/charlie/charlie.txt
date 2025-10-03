@@ -3588,7 +3588,6 @@ caracol
 coauthoring
 caracoling
 curliest
-crustate
 caracolite
 caracolled
 caracoller
@@ -11642,6 +11641,7 @@ colorization
 cholelith
 cholelithiasis
 conchotome
+crustate
 cholelithic
 cholelithotomy
 chastising
