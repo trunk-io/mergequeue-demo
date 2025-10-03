@@ -7657,7 +7657,6 @@ abbrev
 amenism
 alcoholicity
 analysand
-antonymic
 antigrammatically
 aberroscope
 amination
@@ -16676,6 +16675,7 @@ antievangelical
 arithmeticians
 autosomatognosis
 arteriotomies
+antonymic
 allocatee
 adenophoreus
 actinomycesous
