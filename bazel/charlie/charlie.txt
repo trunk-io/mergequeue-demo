@@ -23448,7 +23448,6 @@ cevadine
 contamination
 cokeney
 contaminous
-contangential
 compactest
 clifford
 certy
@@ -24187,6 +24186,7 @@ convexly
 convexness
 convexoconcave
 cadbote
+contangential
 cretins
 colascione
 convicinity
