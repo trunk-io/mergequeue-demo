@@ -6916,6 +6916,7 @@ enmity
 entomophilous
 earwig
 entrainment
+evilproof
 entrains
 emissaryship
 entrancedly
@@ -10614,7 +10615,6 @@ evenhanded
 epinephelidae
 ejam
 exigenter
-evilproof
 enmoss
 excavate
 endozoa
