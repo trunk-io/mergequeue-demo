@@ -4152,7 +4152,6 @@ chronologists
 cardiogram
 cardiographer
 cardiographic
-creels
 cardiographies
 cardiohepatic
 cardioid
@@ -11995,6 +11994,7 @@ choreoid
 crocidolite
 chorepiscopal
 cryopathy
+creels
 chorepiscope
 catheterize
 combater
