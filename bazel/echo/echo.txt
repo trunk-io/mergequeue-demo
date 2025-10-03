@@ -7704,7 +7704,6 @@ equips
 edelweisses
 entelam
 epidiascope
-escallops
 engraff
 endogens
 ecce
@@ -9552,6 +9551,7 @@ elevations
 eslisor
 eatberry
 easeless
+escallops
 esmeralda
 epithecia
 eudemian
