@@ -15398,7 +15398,6 @@ brigadier
 brachypterous
 brigandine
 bandhu
-brigantia
 barbarianism
 brigantines
 brigatry
@@ -18097,6 +18096,7 @@ beshout
 berthierite
 blazing
 butane
+brigantia
 butanoic
 butanol
 bibliopegistical
