@@ -5908,6 +5908,7 @@ buyouts
 ballistic
 bemadam
 bestrowing
+birota
 beltie
 boogerman
 babiche
@@ -15976,7 +15977,6 @@ bronchiolar
 bronchioli
 bronchitic
 bethrall
-birota
 bronchoalveolar
 bronchoblennorrhea
 birdlike
