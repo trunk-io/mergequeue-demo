@@ -1541,7 +1541,6 @@ cynanche
 chemostat
 callisto
 callithrix
-callithump
 collegiant
 corruptibilities
 cellarwoman
@@ -26498,6 +26497,7 @@ curve
 covets
 cotoros
 cellulase
+callithump
 calligraph
 corymbosely
 chorography
