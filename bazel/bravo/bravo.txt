@@ -1366,7 +1366,6 @@ boyos
 blots
 baldhead
 bilestone
-baldheads
 bandager
 braise
 bushings
@@ -1384,6 +1383,7 @@ bale
 babassu
 baleare
 bajonado
+baldheads
 backjoint
 bathofloric
 balearica
