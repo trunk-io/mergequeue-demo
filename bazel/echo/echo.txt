@@ -3360,7 +3360,6 @@ exteriors
 enteropneustan
 embed
 embelic
-electrosynthetic
 enterobiasis
 epizoites
 equaled
@@ -12975,6 +12974,7 @@ erade
 expansible
 engulfed
 equipollently
+electrosynthetic
 exhaustingly
 expostulatory
 estive
