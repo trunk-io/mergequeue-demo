@@ -1136,7 +1136,6 @@ edriophthalmatous
 educand
 educatability
 eident
-educatable
 educatedness
 electrolyzable
 eudiometric
@@ -2525,6 +2524,7 @@ enjelly
 epithelize
 exothecate
 electrophoretogram
+educatable
 enbusshe
 expansure
 estimated
