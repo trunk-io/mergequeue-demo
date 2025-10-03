@@ -15779,7 +15779,6 @@ bicolor
 brogue
 basiparachromatin
 broguer
-biotin
 brogueries
 becaps
 bove
@@ -15839,6 +15838,7 @@ benzthiophen
 biders
 broncho
 bulled
+biotin
 bitonality
 bromacetic
 beamishly
