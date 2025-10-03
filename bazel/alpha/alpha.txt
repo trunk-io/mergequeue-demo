@@ -1438,6 +1438,7 @@ accessors
 astrometric
 acciaccaturas
 accidented
+atypicality
 accidential
 angletwitch
 amphidiscophora
@@ -11324,7 +11325,6 @@ attaste
 arenaria
 anticodon
 anticreeper
-atypicality
 amphitropous
 amphiumidae
 accersition
