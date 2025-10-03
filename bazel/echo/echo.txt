@@ -5233,7 +5233,6 @@ emydes
 elapsoidea
 equity
 esterellite
-efik
 enchest
 engrafting
 ecmnesia
@@ -10009,6 +10008,7 @@ efford
 ethnotechnography
 etching
 electrotest
+efik
 eteostic
 edgrew
 eterminable
