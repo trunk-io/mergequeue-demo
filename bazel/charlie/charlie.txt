@@ -7670,7 +7670,6 @@ cerebrospinal
 chaetotaxy
 cevadilline
 cerebrospinant
-cerebrosuria
 cerebrovascular
 cerements
 cucuyo
@@ -16296,6 +16295,7 @@ clinia
 clinically
 condensations
 clinicopathological
+cerebrosuria
 clinkant
 clinkered
 computatively
