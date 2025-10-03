@@ -10670,6 +10670,7 @@ bollies
 bishopscap
 bleaky
 buist
+bede
 bleakness
 bleaks
 browd
@@ -16878,7 +16879,6 @@ buffoonish
 bungle
 baret
 birostrated
-bede
 bootheel
 buffoonishness
 benchwork
