@@ -24622,6 +24622,7 @@ chelidon
 cantate
 cophosis
 copia
+chassis
 clapped
 copiapite
 copyboy
@@ -31908,7 +31909,6 @@ cutworm
 cutworms
 coldblooded
 cuvee
-chassis
 cuvettes
 cuvy
 cuzceno
