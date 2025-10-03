@@ -6623,7 +6623,6 @@ berdash
 byreman
 booming
 birotation
-baryglossia
 bluff
 broquineer
 betons
@@ -13190,6 +13189,7 @@ baksheesh
 bornites
 bornitic
 berob
+baryglossia
 borofluohydric
 boroglycerine
 borohydride
