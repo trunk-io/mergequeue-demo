@@ -7751,7 +7751,6 @@ bhikshu
 brakehand
 bullan
 breakover
-brocard
 bhindi
 bowstave
 bhishti
@@ -9215,6 +9214,7 @@ biotron
 bethabara
 beauetry
 bipalmate
+brocard
 brimfulness
 booed
 bogy
