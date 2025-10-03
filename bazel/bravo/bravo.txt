@@ -6053,6 +6053,7 @@ bemartyr
 buttstrap
 burkha
 blacktail
+briefing
 brachycephalization
 bemuddlement
 bemuddles
@@ -14710,7 +14711,6 @@ bloc
 bullwhack
 brassard
 bearing
-briefing
 brassart
 brassarts
 brassbounder
