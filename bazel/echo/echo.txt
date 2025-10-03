@@ -4261,7 +4261,6 @@ eloquence
 enameling
 exclaustration
 enamelist
-enamelless
 eluder
 enamels
 emit
@@ -12403,6 +12402,7 @@ exhibitions
 euchlorhydria
 envisionment
 epistyle
+enamelless
 erythrocytometry
 experient
 eyer
