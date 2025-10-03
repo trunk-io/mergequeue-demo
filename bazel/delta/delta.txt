@@ -10334,6 +10334,7 @@ decisive
 ding
 diseuses
 demurrers
+dependencies
 diagrammers
 ditton
 diopter
@@ -14905,7 +14906,6 @@ documents
 demonism
 dowitcher
 dolorifuge
-dependencies
 depurging
 deglute
 dodded
