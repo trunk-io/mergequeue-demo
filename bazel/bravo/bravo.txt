@@ -1108,7 +1108,6 @@ betrayals
 bedimmed
 boatload
 brindled
-bluethroat
 brewmaster
 boyg
 bargestone
@@ -6771,6 +6770,7 @@ bermudas
 bucketfull
 buffoons
 bionic
+bluethroat
 bezazz
 buccinae
 bechalks
