@@ -7130,7 +7130,6 @@ eposes
 eglandulous
 equestrians
 enwheels
-enwinding
 elemis
 entomoid
 equine
@@ -9962,6 +9961,7 @@ ecclesiae
 estrich
 estrif
 estrin
+enwinding
 estrums
 epidermatous
 englishize
