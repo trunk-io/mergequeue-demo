@@ -5781,6 +5781,7 @@ copperheads
 contribute
 catchweight
 catchword
+centuplicated
 catchwork
 cabasset
 counterinsurgents
@@ -10181,7 +10182,6 @@ chevin
 cheviots
 crined
 chevres
-centuplicated
 chevret
 counterexamples
 chevrolet
