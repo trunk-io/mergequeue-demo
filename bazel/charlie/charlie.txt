@@ -19015,7 +19015,6 @@ collates
 collation
 cesti
 collatitious
-cloine
 collative
 ceste
 chickahominy
@@ -21597,6 +21596,7 @@ concursion
 copesmate
 compulsorily
 computable
+cloine
 concurso
 concussed
 cringers
