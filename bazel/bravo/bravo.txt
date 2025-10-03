@@ -5128,6 +5128,7 @@ begirdle
 bombable
 belching
 birchen
+bottomrying
 borderers
 bunrakus
 beflecked
@@ -13917,7 +13918,6 @@ bookwise
 blenniid
 baas
 burettes
-bottomrying
 brigandishly
 barleybird
 biduous
