@@ -807,7 +807,6 @@ entities
 eserin
 everliving
 enwrite
-epizoa
 egritude
 erythrinidae
 eral
@@ -9055,6 +9054,7 @@ entergogenic
 extrality
 extravascular
 ellipsometer
+epizoa
 epipastic
 encashing
 erythrocytoschisis
