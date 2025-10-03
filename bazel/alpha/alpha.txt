@@ -12616,7 +12616,6 @@ ashler
 advene
 aneurysm
 aeriferous
-algosis
 anfractuose
 anfractuosity
 ankylosed
@@ -23420,6 +23419,7 @@ abelmosks
 angoise
 adelphoi
 agnail
+algosis
 absorptivity
 auditor
 auditory
