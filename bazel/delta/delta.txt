@@ -2680,7 +2680,6 @@ decomposer
 debrief
 draintile
 decomposers
-daddocky
 decomposing
 decomposure
 digne
@@ -15117,6 +15116,7 @@ delicti
 dedicative
 dumping
 deficits
+daddocky
 dogeless
 dogmatical
 dogmatically
