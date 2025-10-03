@@ -1553,7 +1553,6 @@ euosmite
 enterokinetic
 eglamore
 eglandular
-eglantines
 extradialectal
 endocardia
 ethnogenist
@@ -5091,6 +5090,7 @@ endocrines
 endocrinic
 existentialistic
 enterocoel
+eglantines
 emergencies
 entogenous
 ecdysones
