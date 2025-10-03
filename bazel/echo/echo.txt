@@ -1156,6 +1156,7 @@ educatability
 eident
 educatable
 educatedness
+egested
 electrolyzable
 eudiometric
 educates
@@ -6342,7 +6343,6 @@ ephebe
 earthward
 emulsor
 euskarian
-egested
 eyemark
 ethmoids
 elaboration
