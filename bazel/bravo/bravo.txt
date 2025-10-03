@@ -223,6 +223,7 @@ banditries
 beslimed
 brainpower
 biofog
+blaring
 bandicoot
 baccy
 banishments
@@ -10435,7 +10436,6 @@ bestriding
 backyarder
 blares
 boongary
-blaring
 brimborium
 bedeafens
 blottier
