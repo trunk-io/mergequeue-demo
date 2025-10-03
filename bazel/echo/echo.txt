@@ -7142,7 +7142,6 @@ epistasis
 euphonym
 ensample
 enzootically
-etymologicon
 evenlight
 exposed
 endodontium
@@ -12346,6 +12345,7 @@ earlock
 elegances
 electrotonicity
 essencing
+etymologicon
 electrolyze
 externize
 eucleidae
