@@ -11645,7 +11645,6 @@ cholecystotomy
 cholecystotomies
 choledochal
 culpability
-choledochoduodenostomy
 colpeurysis
 conformate
 collectorship
@@ -23031,6 +23030,7 @@ corniculum
 chili
 cive
 coracoids
+choledochoduodenostomy
 compline
 consocies
 caustified
