@@ -5765,7 +5765,6 @@ cannon
 catchlight
 cultivatability
 cornein
-clockcase
 cowpock
 caudillism
 catchline
@@ -30827,6 +30826,7 @@ culicoides
 culinarian
 condenser
 cull
+clockcase
 contemnible
 consarned
 cullays
