@@ -16955,7 +16955,6 @@ clubwomen
 cluck
 cyclas
 clucked
-crotonbug
 chinches
 cousinries
 cometoid
@@ -20394,6 +20393,7 @@ commutatively
 carpogone
 commutativity
 commutator
+crotonbug
 commute
 catoquina
 cacography
