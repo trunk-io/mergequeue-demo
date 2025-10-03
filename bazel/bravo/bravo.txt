@@ -4152,7 +4152,6 @@ barrow
 bradypus
 beastling
 bullswool
-beastlings
 bulgy
 beastman
 barracoutas
@@ -13232,6 +13231,7 @@ borty
 beworm
 britannica
 bumper
+beastlings
 borzoi
 boschneger
 brigue
