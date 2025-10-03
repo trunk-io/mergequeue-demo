@@ -8251,6 +8251,7 @@ dissectors
 dulcor
 diorism
 diadochic
+deliquesce
 diadochite
 dethroner
 diadochokinesia
@@ -12220,7 +12221,6 @@ drosophilae
 depel
 deride
 discoursiveness
-deliquesce
 dwarfish
 dovecots
 disfrocking
