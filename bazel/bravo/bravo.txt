@@ -1515,7 +1515,6 @@ bouton
 backsword
 ballaster
 ballastic
-ballata
 brisked
 batikulin
 brunetteness
@@ -16853,6 +16852,7 @@ black
 baillonella
 buffier
 blowback
+ballata
 blighties
 birdcalls
 buzzer
