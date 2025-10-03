@@ -18323,7 +18323,6 @@ capelets
 chemicovital
 coffeehouse
 coffeehouses
-coffeeman
 catur
 classico
 clayed
@@ -22243,6 +22242,7 @@ conga
 congaed
 culttelli
 conge
+coffeeman
 congeal
 cafes
 cohobation
