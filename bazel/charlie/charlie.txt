@@ -12089,7 +12089,6 @@ creatively
 coll
 cymbalo
 cedrin
-cerfoil
 clansman
 casula
 chose
@@ -27799,6 +27798,7 @@ coxcombic
 clannishly
 chondrus
 cordleaf
+cerfoil
 confusedly
 coxcombity
 coxcomically
