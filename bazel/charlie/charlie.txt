@@ -14471,6 +14471,7 @@ circumvolve
 circumvolved
 circumzenithal
 circus
+conservatrix
 correspondents
 consolableness
 customizable
@@ -18055,7 +18056,6 @@ coelom
 coeloma
 coelomata
 companies
-conservatrix
 coelomatous
 coelome
 capillarimeter
