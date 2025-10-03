@@ -6780,7 +6780,6 @@ disorderliness
 darnex
 diatribes
 desiderium
-desiderta
 diptycas
 desidiose
 designable
@@ -18456,6 +18455,7 @@ demerge
 distrusts
 duplicious
 disenchanter
+desiderta
 danner
 duality
 duplicitously
