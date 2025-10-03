@@ -1927,6 +1927,7 @@ beforetime
 boreus
 bandsawn
 bandsman
+brigands
 bandstand
 boronia
 beseechment
@@ -11863,7 +11864,6 @@ bury
 buttes
 broiden
 baking
-brigands
 braking
 bepity
 brashes
