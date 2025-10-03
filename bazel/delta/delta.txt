@@ -8297,6 +8297,7 @@ demonization
 diagonial
 diagonic
 diagram
+debugger
 drahthaar
 demobilize
 delimiting
@@ -18624,7 +18625,6 @@ decentring
 decimalising
 dustups
 digitus
-debugger
 dusun
 dollarwise
 desightment
