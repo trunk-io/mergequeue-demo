@@ -7322,7 +7322,6 @@ condurrite
 cephalate
 cephalhematoma
 coracovertebral
-cephalic
 chequering
 cephalina
 coruscating
@@ -19774,6 +19773,7 @@ consulting
 combinably
 combinant
 combination
+cephalic
 coredeem
 combinational
 corrigent
