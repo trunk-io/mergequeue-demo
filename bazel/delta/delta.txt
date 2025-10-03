@@ -7370,7 +7370,6 @@ diphenylenimide
 detorsion
 disagreed
 deutonephron
-disvulnerability
 determiner
 diameters
 didine
@@ -15892,6 +15891,7 @@ doko
 daikers
 drainspout
 documentor
+disvulnerability
 deadpanning
 dosed
 deiseal
