@@ -5494,7 +5494,6 @@ dedolency
 detectably
 deoppilate
 deoppilation
-dep
 doss
 deordination
 deorganization
@@ -9550,6 +9549,7 @@ dighted
 dighter
 digraphic
 deuteromycetes
+dep
 decelerator
 dynamogeny
 dialysers
