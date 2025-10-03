@@ -6986,7 +6986,6 @@ aletris
 akebia
 actinia
 alible
-abjudicator
 adoniram
 althorns
 axolotl
@@ -16122,6 +16121,7 @@ allylic
 antisocialist
 anemographic
 agonistically
+abjudicator
 avidly
 avarices
 anticorset
