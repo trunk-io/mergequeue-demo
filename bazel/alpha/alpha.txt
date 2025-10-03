@@ -10661,7 +10661,6 @@ academie
 argentarius
 arrhythmy
 angiomyosarcoma
-afflicts
 agamae
 aminoanthraquinone
 aryepiglottidean
@@ -14875,6 +14874,7 @@ ami
 anticly
 aegagropilae
 afterwitted
+afflicts
 asarota
 antibiosis
 abassi
