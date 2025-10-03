@@ -5942,7 +5942,6 @@ biotelemetry
 basque
 berber
 biggety
-buffaloes
 beltane
 belauding
 bagh
@@ -11056,6 +11055,7 @@ bilk
 between
 bloats
 brachygnathous
+buffaloes
 blob
 bimbisara
 bimetallic
