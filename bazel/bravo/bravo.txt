@@ -11352,7 +11352,6 @@ blowsier
 blowtorches
 bromos
 bossiness
-blowups
 beneficence
 blowzy
 beadrow
@@ -16732,6 +16731,7 @@ bleached
 bodycheck
 bucklers
 bucko
+blowups
 buckoes
 baronetise
 biguanide
