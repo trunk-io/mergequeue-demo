@@ -4992,7 +4992,6 @@ bibation
 bronchomucormycosis
 bindweb
 ballonette
-byte
 bilinguist
 boodling
 buda
@@ -9246,6 +9245,7 @@ bourbonesque
 bipedality
 baiginet
 bipeltate
+byte
 bipennate
 brunches
 bevor
