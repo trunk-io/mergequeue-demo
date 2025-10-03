@@ -6501,7 +6501,6 @@ chromoscope
 cavekeeper
 cavelet
 confiner
-chorioid
 cambodia
 cavelike
 cavemen
@@ -11112,6 +11111,7 @@ cageling
 chitons
 cadence
 chitosamine
+chorioid
 chitosan
 committeeism
 chloridation
