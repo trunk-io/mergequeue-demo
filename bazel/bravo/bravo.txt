@@ -2207,7 +2207,6 @@ blobs
 balnibarbi
 bacula
 barbaloin
-badineur
 bung
 barbara
 barbary
@@ -4527,6 +4526,7 @@ batata
 balushai
 becudgels
 bosons
+badineur
 bilixanthin
 becuiba
 becurl
