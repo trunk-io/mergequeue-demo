@@ -4728,7 +4728,6 @@ bedlamps
 benediction
 betitle
 butcherliness
-bellovaci
 badmash
 bienseance
 bursula
@@ -4991,6 +4990,7 @@ beefers
 bombycilla
 beerpull
 beers
+bellovaci
 beest
 blowers
 babbools
