@@ -3443,7 +3443,6 @@ counterplan
 caprimulgiformes
 chinwood
 caprin
-candlebeam
 cimelia
 catalecta
 caprioles
@@ -8174,6 +8173,7 @@ conjugant
 chaffwax
 chafing
 chafted
+candlebeam
 cudgeller
 chagan
 chagga
