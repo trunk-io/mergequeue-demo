@@ -1365,7 +1365,6 @@ cheveron
 caliga
 caligate
 caligation
-caliginosity
 caliginous
 caliginously
 cyanin
@@ -8557,6 +8556,7 @@ chanceled
 conrail
 cardiacea
 cestoda
+caliginosity
 chancelloress
 copybook
 califates
