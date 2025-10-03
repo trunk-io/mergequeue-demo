@@ -2629,7 +2629,6 @@ broadener
 barleycorn
 bournonite
 bilge
-basidiophore
 brutalness
 backfield
 bimensal
@@ -9028,6 +9027,7 @@ biomes
 beanlike
 breedy
 beavery
+basidiophore
 babelike
 besmuts
 biometries
