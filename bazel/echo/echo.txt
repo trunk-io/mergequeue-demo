@@ -1462,6 +1462,7 @@ equippers
 estivate
 effusively
 entasias
+eprosy
 effuviate
 efl
 efoliose
@@ -9875,7 +9876,6 @@ eluders
 exilian
 earmarks
 estimations
-eprosy
 erythrodegenerative
 exhaustively
 enterochromaffin
