@@ -852,7 +852,6 @@ briquette
 bagdi
 begoniaceae
 bauxites
-bicolour
 bagful
 baggagemaster
 bedamning
@@ -5785,6 +5784,7 @@ bellbinder
 budgeree
 bullous
 biocellate
+bicolour
 bunn
 bufo
 bellbird
