@@ -1596,7 +1596,6 @@ erizo
 epiblastic
 egressed
 egresses
-extraphysiological
 expounded
 extrasensorial
 exsanguine
@@ -10478,6 +10477,7 @@ etrenne
 exsurgent
 event
 etrog
+extraphysiological
 equatoreal
 etta
 endosteally
