@@ -2107,7 +2107,6 @@ dissembles
 duddies
 despoilment
 decameron
-digraph
 dihydrol
 decamethonium
 decametric
@@ -12801,6 +12800,7 @@ dismay
 doudle
 disconfirm
 dismayable
+digraph
 dismayfully
 diathermancy
 doubty
