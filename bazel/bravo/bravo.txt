@@ -8063,6 +8063,7 @@ bartend
 bagroom
 biguanide
 belligerents
+branchstand
 bicornuate
 bicornute
 bicorporate
@@ -13319,7 +13320,6 @@ bostanji
 bosthoon
 bostonian
 burglar
-branchstand
 burushaski
 bouche
 barman
