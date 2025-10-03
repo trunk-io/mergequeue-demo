@@ -2252,7 +2252,6 @@ electrizable
 electrization
 excavated
 epicotyl
-errorful
 encrypting
 eclipses
 embrasured
@@ -3932,6 +3931,7 @@ empatron
 etrurian
 evenhand
 each
+errorful
 exultancy
 entophyte
 enveigle

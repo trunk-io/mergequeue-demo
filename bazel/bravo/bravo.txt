@@ -9597,6 +9597,7 @@ biogen
 bloodripeness
 binary
 bicapsular
+bealing
 bisected
 bandlimits
 bisectors
@@ -12160,7 +12161,6 @@ bannets
 basti
 bannition
 boldos
-bealing
 boldu
 butterweed
 boled
