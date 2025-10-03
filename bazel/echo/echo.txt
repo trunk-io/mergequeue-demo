@@ -9055,7 +9055,6 @@ ellipsometer
 epizoa
 epipastic
 erythrocytoschisis
-erythrocytosis
 erythrodermia
 embryogony
 ectasia
@@ -13050,6 +13049,7 @@ electability
 egotizing
 everlastingness
 earwax
+erythrocytosis
 embolomeri
 echites
 eleuin
