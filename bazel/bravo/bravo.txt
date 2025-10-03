@@ -11667,7 +11667,6 @@ boathook
 boathouse
 backbends
 boffos
-baccare
 boating
 bistipuled
 bittacle
@@ -16815,6 +16814,7 @@ berycoidean
 budgies
 bellerophontidae
 baconer
+baccare
 budging
 bronc
 beseecher
