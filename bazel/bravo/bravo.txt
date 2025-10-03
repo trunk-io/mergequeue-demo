@@ -5426,7 +5426,6 @@ brainteasers
 bars
 behaviored
 betravel
-bloop
 behaviorists
 behavioural
 brachioradial
@@ -15727,6 +15726,7 @@ bacillogenous
 brocatelle
 beowulf
 beefin
+bloop
 butterier
 brocatello
 brocatels
