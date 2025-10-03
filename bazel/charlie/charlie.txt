@@ -13343,7 +13343,6 @@ cycloidean
 coalshed
 cogswellia
 culmicolous
-cycloidotrope
 capercailzie
 cesura
 cheatee
@@ -17538,6 +17537,7 @@ cobbles
 cobblestone
 clepsydras
 cobblestoned
+cycloidotrope
 chokeweed
 cobbling
 cobbra
