@@ -4482,6 +4482,7 @@ bluenose
 becroak
 bedead
 becross
+bordman
 bureaucratism
 becrowd
 becrowded
@@ -10355,7 +10356,6 @@ billot
 bounderish
 buffability
 bamboozlers
-bordman
 boil
 boozers
 blame
