@@ -818,7 +818,6 @@ ectypography
 eliminating
 epitheton
 entrecote
-exulate
 ectiris
 equations
 etamines
@@ -3009,6 +3008,7 @@ expurgational
 electrothermostat
 ellenyard
 escribed
+exulate
 embryographic
 equilater
 emetia
