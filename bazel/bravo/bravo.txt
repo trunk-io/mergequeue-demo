@@ -13963,7 +13963,6 @@ baptizee
 bowsman
 botanomancy
 bows
-brontograph
 bowsaw
 bombs
 benzopyran
@@ -15423,6 +15422,7 @@ bevy
 brigsail
 babblative
 bousing
+brontograph
 brill
 bradytocia
 bicone
