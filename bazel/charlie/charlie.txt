@@ -13892,7 +13892,6 @@ crawfish
 cinephotomicrography
 catalina
 convoy
-cineplasty
 cineplastics
 cineradiography
 chelingo
@@ -26574,6 +26573,7 @@ crankism
 cassias
 cottonwick
 cottonwoods
+cineplasty
 cottrel
 cottus
 cotunnite
