@@ -7898,6 +7898,7 @@ cessor
 cesspipe
 cesspit
 cesspits
+cinchonia
 carey
 contrastment
 cesspools
@@ -12396,7 +12397,6 @@ chromatium
 chromatize
 chromatogenous
 coiny
-cinchonia
 chromatographic
 chromatographically
 chromatolysis
