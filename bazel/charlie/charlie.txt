@@ -11258,7 +11258,6 @@ corrupt
 curtail
 christiania
 chlorenchyma
-coassistance
 chlorguanide
 chlorhexidine
 chlorhydric
@@ -31512,6 +31511,7 @@ clupeoids
 cisrhenane
 cosmothetic
 culiciform
+coassistance
 collectivization
 coservant
 curse
