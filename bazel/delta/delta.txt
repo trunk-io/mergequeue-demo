@@ -5628,7 +5628,6 @@ dustfall
 draftable
 depended
 dolichopellic
-dependence
 desensitizes
 dependingly
 drouthiness
@@ -7304,6 +7303,7 @@ dear
 diamondlike
 deteriorative
 dasya
+dependence
 dimmy
 disquiet
 discompt
