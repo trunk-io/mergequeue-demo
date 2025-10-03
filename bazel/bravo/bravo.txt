@@ -12529,7 +12529,6 @@ bondminder
 bookroom
 bawdrick
 bashlyks
-bierbalk
 bivaulted
 bondship
 bondslave
@@ -13289,6 +13288,7 @@ breatheableness
 bosonic
 barbels
 binocle
+bierbalk
 bosporanic
 bosque
 brushfires
