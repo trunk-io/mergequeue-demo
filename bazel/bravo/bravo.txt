@@ -3426,7 +3426,6 @@ biggah
 beechdrops
 bastinado
 bastings
-bacteriopathology
 blendure
 blepharopyorrhea
 bastions
@@ -7825,6 +7824,7 @@ brooklyn
 bazaars
 bicephalous
 bogman
+bacteriopathology
 biface
 bark
 bibacity
