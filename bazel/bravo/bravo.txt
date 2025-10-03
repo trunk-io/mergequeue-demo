@@ -10220,6 +10220,7 @@ blackleg
 blacklegged
 battlers
 betattering
+buri
 boyd
 breakpoints
 blacklisted
@@ -14631,7 +14632,6 @@ buddle
 billhooks
 blume
 belemnitic
-buri
 buggyman
 brandisite
 beingless
