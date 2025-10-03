@@ -3854,7 +3854,6 @@ entamebas
 electropathic
 echocardiogram
 exogamic
-electrogalvanize
 emmetropy
 everted
 emmetropic
@@ -9715,6 +9714,7 @@ emotionable
 electives
 eastlings
 equisonance
+electrogalvanize
 everyplace
 eddo
 emerick
