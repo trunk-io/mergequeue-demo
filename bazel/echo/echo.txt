@@ -8543,7 +8543,6 @@ ergatomorph
 equid
 equidimensional
 equidist
-exrx
 essancias
 eyebolts
 eumerogenesis
@@ -13746,6 +13745,7 @@ exodontist
 excerptor
 ethnize
 expungement
+exrx
 encloak
 exosperm
 enregistry
