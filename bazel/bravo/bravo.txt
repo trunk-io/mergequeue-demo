@@ -12823,6 +12823,7 @@ bookstores
 bowleg
 biforked
 bigaroon
+bordage
 bucolic
 bullfice
 baskerville
@@ -17675,7 +17676,6 @@ bockeret
 brodyaga
 balancement
 birgus
-bordage
 blackfin
 blueings
 burlaps
