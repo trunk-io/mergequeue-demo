@@ -1554,7 +1554,6 @@ encampment
 epinasty
 envigor
 exsuscitate
-exogeny
 egises
 elytropolypus
 euosmite
@@ -4750,6 +4749,7 @@ encoded
 ensnarements
 encoding
 effectivity
+exogeny
 embrocate
 ergasterion
 epicrisis
