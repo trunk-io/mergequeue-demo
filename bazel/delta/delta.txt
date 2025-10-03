@@ -4685,7 +4685,6 @@ demiscible
 dicebox
 denticulate
 demise
-demisecond
 demised
 depas
 didynamia
@@ -10122,6 +10121,7 @@ dynamitism
 dockmackie
 dynamo
 disinfectant
+demisecond
 deforced
 dehydrogeniser
 djalmaite
