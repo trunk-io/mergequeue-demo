@@ -9784,7 +9784,6 @@ bathhouses
 bystreet
 bistres
 boeotarch
-brights
 borg
 bewitching
 bookish
@@ -18397,6 +18396,7 @@ bibcocks
 brachials
 brachygrapher
 ballistically
+brights
 buzzingly
 bothlike
 bubber
