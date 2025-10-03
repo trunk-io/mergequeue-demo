@@ -4783,7 +4783,6 @@ completion
 carport
 carpos
 chibouk
-carposporangial
 catalase
 carlist
 carposporous
@@ -31612,6 +31611,7 @@ chaton
 curvation
 curvative
 curvature
+carposporangial
 cozy
 crosstail
 clingstone
