@@ -9834,7 +9834,6 @@ collocates
 caliches
 chemicoluminescent
 cyclostome
-chemicomineralogical
 carcinogenicity
 chemicophysical
 ciliary
@@ -23576,6 +23575,7 @@ cochranea
 contingence
 carpenter
 calving
+chemicomineralogical
 credo
 contingential
 contingentiam

@@ -612,6 +612,7 @@ bastiment
 bacteriodiagnosis
 bromates
 bacterid
+bemuck
 birdcages
 baraka
 barracked
@@ -15529,7 +15530,6 @@ boyce
 bloodless
 brinies
 briniest
-bemuck
 balut
 balaghaut
 byliners
