@@ -8047,7 +8047,6 @@ bicoloured
 biconcave
 bidder
 bullescene
-biconic
 biconically
 biconnected
 boildown
@@ -13697,6 +13696,7 @@ bacbakiri
 bountyless
 brachycephal
 barre
+biconic
 bhumidar
 backsplice
 bescorching
