@@ -862,7 +862,6 @@ entourages
 emicant
 ejective
 epistolizer
-eigenfunction
 erythrocytolysin
 electrocution
 entailed
@@ -10874,6 +10873,7 @@ euphemising
 enshroud
 euphemistically
 euphemize
+eigenfunction
 eyebeam
 euxine
 eyewashes
