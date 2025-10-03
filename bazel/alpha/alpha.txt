@@ -3753,7 +3753,6 @@ accounters
 alure
 arcticologist
 acaridea
-armament
 adiathetic
 adiating
 adiation
@@ -24317,6 +24316,7 @@ anticonfederative
 autophon
 ablepsy
 autophone
+armament
 anesthetizes
 acrasins
 arterioles
