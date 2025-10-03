@@ -10592,6 +10592,7 @@ dysaphia
 dbrn
 diacrisis
 diplococcemia
+deprecated
 disleaf
 dermatomycosis
 digammate
@@ -16607,7 +16608,6 @@ darkhearted
 didelph
 dragonflies
 dossers
-deprecated
 didelphian
 dragonhood
 deveins
