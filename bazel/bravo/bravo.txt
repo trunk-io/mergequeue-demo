@@ -2329,6 +2329,7 @@ bastinade
 biolysis
 belligerency
 bachelorlike
+bloodstroke
 barbula
 barbulate
 barbulyie
@@ -14261,7 +14262,6 @@ bleu
 burh
 bluebottles
 boutiques
-bloodstroke
 bisectional
 bradydactylia
 bepowder
