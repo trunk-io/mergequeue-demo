@@ -9426,7 +9426,6 @@ cautelousness
 cowedly
 chaw
 chawbacon
-chawbuck
 chawdron
 comitative
 cpl
@@ -16600,6 +16599,7 @@ cloghaun
 cloghead
 cowsharn
 cosmos
+chawbuck
 calendar
 coinheritance
 correlative
