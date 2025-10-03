@@ -3758,7 +3758,6 @@ ciconia
 carbasus
 chloroethylene
 carbazic
-carbazylic
 chlorpikrin
 cheerios
 civilist
@@ -9111,6 +9110,7 @@ consenescence
 charrier
 charriest
 charro
+carbazylic
 carpetbagism
 cicatrize
 chylocaulous
