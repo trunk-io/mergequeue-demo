@@ -1396,6 +1396,7 @@ deleted
 dispel
 downdale
 dismain
+dispositive
 doketism
 demonomanie
 dispraiser
@@ -11457,7 +11458,6 @@ degassing
 dissuasive
 deota
 damasse
-dispositive
 diallyl
 deskbound
 dyotheletic
