@@ -12640,7 +12640,6 @@ chronomastix
 chronometer
 crom
 citolers
-chronometers
 chronometrically
 chronon
 chaussees
@@ -28508,6 +28507,7 @@ conphaseolin
 craye
 cutability
 creativity
+chronometers
 clowns
 creatorhood
 chondrotome
