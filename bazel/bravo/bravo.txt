@@ -7642,6 +7642,7 @@ brakiest
 barmen
 bungfull
 biobibliographies
+bool
 biciliate
 bewrayer
 blackguardly
@@ -15027,7 +15028,6 @@ boatfalls
 boatly
 breccias
 brecciated
-bool
 bursar
 brechams
 brechans
