@@ -4629,6 +4629,7 @@ bankcards
 bhikhari
 briquetted
 buildable
+banging
 barlows
 bedford
 bedframes
@@ -16821,7 +16822,6 @@ barranco
 ballate
 babungera
 briony
-banging
 blaffert
 brachycephaly
 buffa
