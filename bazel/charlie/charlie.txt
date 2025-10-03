@@ -9552,7 +9552,6 @@ checkrack
 casehardens
 cricotracheotomy
 calaththi
-checkrein
 checkroll
 compathy
 checkrope
@@ -25918,6 +25917,7 @@ cancrivorous
 corteges
 capitalization
 congas
+checkrein
 coeternally
 cortexes
 cortication
