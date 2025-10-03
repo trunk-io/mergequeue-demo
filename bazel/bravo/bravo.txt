@@ -2645,7 +2645,6 @@ bribeable
 barling
 bortz
 bluestone
-bertholletia
 barghest
 breechloader
 backlins
@@ -4590,6 +4589,7 @@ bubble
 bogans
 bewilderingly
 bitstock
+bertholletia
 broomwood
 bedbugs
 bedeafening
