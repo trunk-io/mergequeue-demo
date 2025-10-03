@@ -1730,6 +1730,7 @@ epanorthoses
 electric
 eer
 everard
+expertize
 extg
 episiotomy
 embattle
@@ -12489,7 +12490,6 @@ envisages
 epicentral
 embosture
 executrixship
-expertize
 exine
 escapology
 extraviolet
