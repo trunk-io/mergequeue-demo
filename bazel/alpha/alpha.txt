@@ -8842,7 +8842,6 @@ anises
 assumable
 alexines
 archplotter
-antevocalic
 ac
 audiometries
 arboroid
@@ -14680,6 +14679,7 @@ antibiont
 anaglyphic
 antidumping
 antibiotic
+antevocalic
 algebraizing
 antimonopolism
 acousmatic
