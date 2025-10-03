@@ -6395,7 +6395,6 @@ emulate
 ecotypic
 excellencies
 ensweeten
-exceptioner
 enleen
 enharbour
 exhalants
@@ -9314,6 +9313,7 @@ eructative
 eruction
 eruditical
 estrangedness
+exceptioner
 ensilaged
 estop
 epaulet
