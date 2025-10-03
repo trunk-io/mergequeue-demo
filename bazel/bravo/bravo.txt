@@ -608,7 +608,6 @@ beggiatoa
 bacteriochlorophyll
 bacteriocin
 bostangi
-bastiment
 bacteriodiagnosis
 bromates
 bacterid
@@ -13939,6 +13938,7 @@ bowyer
 bejape
 bowyers
 bulnbuln
+bastiment
 breached
 bilious
 bedrite
