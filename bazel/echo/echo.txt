@@ -3352,6 +3352,7 @@ equipage
 exteroceptor
 equilibrium
 elohist
+editing
 em
 embarricado
 electorship
@@ -13479,7 +13480,6 @@ egocentricities
 edge
 erk
 ectocondyloid
-editing
 etruscologist
 eristic
 epitomic
