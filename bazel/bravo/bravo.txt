@@ -373,6 +373,7 @@ backgame
 backgammon
 barbarical
 barwares
+broke
 breaststroke
 background
 backhand
@@ -15802,7 +15803,6 @@ bestiarianism
 brokage
 bulletin
 brokages
-broke
 begohm
 banande
 bepile
