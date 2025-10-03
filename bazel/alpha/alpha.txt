@@ -6746,7 +6746,6 @@ analysands
 angulus
 advertizing
 adsorb
-arthroderm
 amiga
 algores
 airdropping
@@ -12507,6 +12506,7 @@ anemonal
 amampondo
 anemone
 aerography
+arthroderm
 anticreator
 avidities
 alemite
