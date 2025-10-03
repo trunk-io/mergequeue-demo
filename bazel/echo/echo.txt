@@ -5293,7 +5293,6 @@ existant
 embost
 embroidered
 endymion
-edges
 evicted
 envolupen
 evocatory
@@ -11771,6 +11770,7 @@ extractible
 eulogies
 equiproducing
 elecive
+edges
 eulogization
 extromit
 excalceate
