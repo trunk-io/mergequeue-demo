@@ -2592,7 +2592,6 @@ bridging
 briers
 barkery
 behn
-barkhan
 batman
 balistarii
 belostoma
@@ -10684,6 +10683,7 @@ bleeps
 batonne
 blepharoplegia
 bronzine
+barkhan
 bosuns
 banksias
 bleymes
