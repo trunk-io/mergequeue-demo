@@ -1198,6 +1198,7 @@ datagrams
 doormat
 demibrassart
 devilhood
+diggable
 datana
 discounting
 denasalizing
@@ -9533,7 +9534,6 @@ didinium
 dolose
 disapproval
 dejected
-diggable
 digged
 deuterostome
 demonstrational
