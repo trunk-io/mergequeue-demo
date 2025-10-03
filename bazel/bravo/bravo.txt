@@ -1496,7 +1496,6 @@ bacach
 bichromated
 basted
 ballads
-blackware
 balete
 baralipton
 bloodmonger
@@ -4891,6 +4890,7 @@ blackheartedly
 brig
 bonnne
 border
+blackware
 brevets
 beefburgers
 bongos
