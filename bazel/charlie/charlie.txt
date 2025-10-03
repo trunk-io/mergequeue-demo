@@ -5909,6 +5909,7 @@ catfacing
 catfall
 catfalls
 catfight
+cytoplasmically
 creeled
 catfish
 catfoot
@@ -14109,7 +14110,6 @@ cypridina
 caucasoid
 contraregular
 cocainism
-cytoplasmically
 cyprina
 cyprinid
 cheiromancy
