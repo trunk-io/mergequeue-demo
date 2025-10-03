@@ -3945,6 +3945,7 @@ extramodal
 empatron
 etrurian
 evenhand
+ericius
 each
 exultancy
 enveigle
@@ -10458,7 +10459,6 @@ equiponderation
 ending
 evenminded
 effluviums
-ericius
 emblemed
 exalate
 elance
