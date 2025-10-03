@@ -2791,7 +2791,6 @@ enshrine
 enshrining
 eleotrid
 electroluminescent
-embosk
 explicans
 enaluron
 elephantiasis
@@ -9274,6 +9273,7 @@ electrotellurograph
 eurylaimus
 externalist
 exogamous
+embosk
 expositional
 error
 economic
