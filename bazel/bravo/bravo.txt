@@ -3513,7 +3513,6 @@ batfowl
 ballpoints
 batfowled
 bassists
-batfowls
 bestore
 bulbocavernosus
 brookites
@@ -13177,6 +13176,7 @@ boroglycerine
 borohydride
 bilgy
 branchiopulmonata
+batfowls
 blebby
 boronatrocalcite
 borophenylic
