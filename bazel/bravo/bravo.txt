@@ -5212,7 +5212,6 @@ befrocked
 battu
 bettong
 backfatter
-befuddle
 befuddled
 befuddler
 boxberries
@@ -11971,6 +11970,7 @@ boggard
 blindfoldly
 boggier
 bayou
+befuddle
 bogginess
 boggle
 blastemas
