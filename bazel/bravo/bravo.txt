@@ -2712,7 +2712,6 @@ braconids
 blurbs
 barnstormer
 barnstorming
-besmearing
 borages
 brutalisation
 bogomile
@@ -13085,6 +13084,7 @@ borassus
 blether
 bacilliculture
 borboridae
+besmearing
 beslow
 borborygmatic
 biggin
