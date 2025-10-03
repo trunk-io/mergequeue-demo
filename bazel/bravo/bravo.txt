@@ -7465,7 +7465,6 @@ ballonnes
 bact
 betso
 betted
-befreeze
 better
 besmirched
 batrachia
@@ -9986,6 +9985,7 @@ bituminous
 bisecting
 beryllate
 bilinguality
+befreeze
 bridleman
 burbles
 biases
