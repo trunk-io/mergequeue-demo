@@ -184,7 +184,6 @@ abbatie
 artwork
 anemological
 abbey
-archapostate
 archplagiarist
 ambash
 atavic
@@ -13352,6 +13351,7 @@ authenticness
 ascill
 agnat
 anticeremoniously
+archapostate
 appurtenance
 anywhither
 anywither
