@@ -1781,7 +1781,6 @@ dilation
 desmoscolex
 debark
 dropseed
-drawknife
 debarking
 digamist
 discede
@@ -6515,6 +6514,7 @@ dictatrix
 deodara
 daddy
 dragomanic
+drawknife
 desalinated
 diaereses
 deafeningly
