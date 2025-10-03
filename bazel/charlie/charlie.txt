@@ -12632,6 +12632,7 @@ coalmonger
 chronological
 chronologies
 coalternative
+curries
 chantecler
 cercle
 cafetiere
@@ -19241,7 +19242,6 @@ commodatary
 cardiospasm
 corporally
 collotyped
-curries
 collotypy
 coontail
 cornhusks
