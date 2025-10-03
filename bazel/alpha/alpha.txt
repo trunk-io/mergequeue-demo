@@ -12158,7 +12158,6 @@ alcoholisation
 antipodism
 arachide
 ancestors
-ancestral
 ancestry
 ancestrian
 ancha
@@ -15923,6 +15922,7 @@ anacreontic
 abundantia
 accretion
 aureateness
+ancestral
 antiqueness
 antiquing
 arciform
