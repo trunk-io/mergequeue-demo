@@ -1597,7 +1597,6 @@ eheu
 explanatively
 elchee
 exotoxin
-env
 ekhimi
 entrez
 enterobacterium
@@ -9137,6 +9136,7 @@ extrinsic
 enleague
 epiloguize
 ectoenzyme
+env
 ectocinerea
 encolor
 eschar
