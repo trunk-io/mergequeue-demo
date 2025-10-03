@@ -17297,7 +17297,6 @@ airchecks
 acetonize
 antiagglutinant
 accusative
-allowing
 antitrypsin
 antiboss
 apostacize
@@ -22540,6 +22539,7 @@ acromion
 athamantid
 agnostics
 akinesia
+allowing
 accusor
 athanasia
 athanasianist
