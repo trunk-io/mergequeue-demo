@@ -2607,6 +2607,7 @@ conversationalist
 composes
 caravanserial
 cobbers
+countertranslation
 chimp
 canework
 chuckling
@@ -3861,7 +3862,6 @@ clarets
 choirmaster
 canister
 carbonitride
-countertranslation
 charmfulness
 chromatics
 carbonization
