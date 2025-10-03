@@ -1501,7 +1501,6 @@ bulbiform
 bdl
 bouton
 backsword
-ballaster
 ballastic
 ballata
 batikulin
@@ -5449,6 +5448,7 @@ behither
 bendways
 bechamel
 bonce
+ballaster
 briefers
 bahmani
 bootid
