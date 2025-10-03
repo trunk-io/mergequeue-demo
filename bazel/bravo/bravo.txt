@@ -2808,6 +2808,7 @@ bedarken
 bruta
 biquadrate
 baroswitch
+bionomical
 barotaxy
 bld
 bitis
@@ -9139,7 +9140,6 @@ boodledom
 biospeleology
 biosphere
 breakdown
-bionomical
 biostatic
 biomorphic
 biostatical
