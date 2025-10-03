@@ -1797,6 +1797,7 @@ cercelee
 camara
 camarade
 camaraderie
+chimed
 camarasaurus
 camarera
 camarin
@@ -7103,7 +7104,6 @@ clunker
 clough
 cadent
 concupiscent
-chimed
 centillionth
 centiloquy
 casziel
