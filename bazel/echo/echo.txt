@@ -5084,7 +5084,6 @@ emforth
 endocrines
 endocrinic
 existentialistic
-enterocoel
 emergencies
 entogenous
 ecdysones
@@ -6178,6 +6177,7 @@ executable
 exhalations
 exoculated
 exhortator
+enterocoel
 enorn
 enos
 eradiating
