@@ -734,7 +734,6 @@ effaces
 endermatic
 edituate
 effascinate
-excides
 emption
 exuvium
 ecotype
@@ -6748,6 +6747,7 @@ entoblastic
 entobronchium
 entocalcaneal
 entocarotid
+excides
 eelgrass
 etiologies
 entocyemate
