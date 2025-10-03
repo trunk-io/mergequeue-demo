@@ -13129,6 +13129,7 @@ dissolution
 dentilabial
 daces
 derelicta
+decolorise
 dogmatizing
 dispersing
 dynastid
@@ -15515,7 +15516,6 @@ dispell
 deperm
 desist
 deflagrated
-decolorise
 dealers
 demodulates
 dependableness
