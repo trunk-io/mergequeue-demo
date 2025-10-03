@@ -5143,6 +5143,7 @@ explored
 expedition
 endogenous
 enlistment
+escrowee
 embroider
 endoglobular
 eleme
@@ -9091,7 +9092,6 @@ erythrophleine
 emigrate
 enveil
 expt
-escrowee
 ephors
 equinoxes
 evasion
