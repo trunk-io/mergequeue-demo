@@ -4653,7 +4653,6 @@ beltmaking
 bankcards
 bhikhari
 briquetted
-bedfellows
 buildable
 barlows
 bedford
@@ -13379,6 +13378,7 @@ benadryl
 bridgeman
 botcheries
 botcherly
+bedfellows
 botchy
 botchily
 beglitter
