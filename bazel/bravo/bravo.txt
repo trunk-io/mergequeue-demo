@@ -16768,6 +16768,7 @@ bowknots
 billheading
 bahama
 blinder
+boldfaces
 biacetyls
 bucrane
 bewhistle
@@ -17044,7 +17045,6 @@ blankish
 binoxide
 bishoping
 bulkage
-boldfaces
 burt
 bulkhead
 bulkheading
