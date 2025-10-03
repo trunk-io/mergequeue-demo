@@ -5069,7 +5069,6 @@ bandoline
 bilingual
 balefire
 biocatalyst
-basenet
 befezzed
 broiderer
 befile
@@ -9242,6 +9241,7 @@ baiginet
 bipeltate
 byte
 bipennate
+basenet
 brunches
 bevor
 baldrics
