@@ -4859,6 +4859,7 @@ esteemable
 encumbrance
 extrabureau
 english
+experted
 evolves
 experientialist
 eucharistically
@@ -5055,7 +5056,6 @@ endocyst
 epodic
 enucleate
 elbows
-experted
 extraditions
 eclogites
 eardrums
