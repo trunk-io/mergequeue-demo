@@ -2929,7 +2929,6 @@ embind
 explait
 emony
 equiprobabilism
-eliminated
 ectopia
 elymus
 elinguate
@@ -3162,6 +3161,7 @@ elt
 elaters
 eluant
 exculpative
+eliminated
 engendure
 eluating
 enteritis
