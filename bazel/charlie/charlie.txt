@@ -7372,7 +7372,6 @@ cephalogram
 cephaloid
 culminates
 cuticles
-crepuscle
 cephalology
 cryolites
 cephalom
@@ -7714,6 +7713,7 @@ cermet
 cyamid
 ciceros
 caramelising
+crepuscle
 cermets
 commissar
 cern
