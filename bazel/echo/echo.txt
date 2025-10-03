@@ -3437,7 +3437,6 @@ espriella
 erke
 emblazes
 evelight
-emblazoned
 endophyte
 emblazoner
 emblazonments
@@ -11159,6 +11158,7 @@ evanesced
 eternalism
 evanescence
 encephalomalacosis
+emblazoned
 epiphytes
 epidotic
 engines
