@@ -875,7 +875,6 @@ builders
 bagios
 babishness
 biacromial
-bagmaker
 bagnes
 blowze
 burdies
@@ -10855,6 +10854,7 @@ bloodlike
 blastomycetic
 blowgun
 blighters
+bagmaker
 bestowing
 bribetaker
 burroughs
