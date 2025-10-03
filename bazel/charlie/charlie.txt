@@ -10302,7 +10302,6 @@ chichling
 chick
 chelidosaurus
 chickabiddy
-chemosorb
 cachoeira
 clactonian
 cyanidation
@@ -28775,6 +28774,7 @@ crepon
 crept
 cardiograph
 canters
+chemosorb
 circaetus
 compendiary
 crepuscular
