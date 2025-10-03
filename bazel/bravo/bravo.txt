@@ -3273,7 +3273,6 @@ babbler
 bloodiest
 basions
 backstabbed
-bronzes
 backpacking
 balche
 basiotripsy
@@ -17471,6 +17470,7 @@ bigeminy
 bridles
 blacklight
 biltongue
+bronzes
 bowermay
 betulites
 buntine
