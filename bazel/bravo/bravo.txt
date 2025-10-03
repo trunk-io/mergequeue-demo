@@ -1943,7 +1943,6 @@ beeway
 beworms
 backwoods
 bacteriophage
-bandwidth
 bacillicidal
 baylet
 baneberry
@@ -5348,6 +5347,7 @@ beglide
 burkers
 bor
 beglooms
+bandwidth
 begloze
 busti
 brokenly
