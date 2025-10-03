@@ -3513,6 +3513,7 @@ demographical
 delvers
 deformable
 darkey
+dibbing
 deformation
 deflections
 delete
@@ -8835,7 +8836,6 @@ devolatilising
 dodecagonal
 divination
 dib
-dibbing
 deliberates
 deterring
 degame
