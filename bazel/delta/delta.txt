@@ -3722,6 +3722,7 @@ diam
 delapse
 dehydrochlorinase
 dinumeration
+degrade
 dowlas
 dehydrochlorinate
 daytale
@@ -5134,7 +5135,6 @@ dendroctonus
 dendrodic
 dendroeca
 drakes
-degrade
 duplicating
 dendrohyrax
 deneutralization
