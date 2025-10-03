@@ -88,7 +88,6 @@ antipriestcraft
 abaptiston
 acknow
 auditories
-abase
 abasers
 abashed
 abashedness
@@ -8885,6 +8884,7 @@ avowableness
 allodial
 abluents
 allodiality
+abase
 adenodiastasis
 aspirate
 amphistomoid
