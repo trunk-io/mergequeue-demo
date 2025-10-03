@@ -9193,6 +9193,7 @@ erbiums
 empleomania
 edam
 eroticomania
+entailment
 endarterectomy
 embound
 epikleses
@@ -13165,7 +13166,6 @@ enfeature
 expiable
 excubitorium
 evenglow
-entailment
 existlessness
 ewer
 elucid
