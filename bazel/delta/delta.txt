@@ -14498,7 +14498,6 @@ doradidae
 duodenocholedochotomy
 dicynodontidae
 dihelios
-decoupling
 deckhouse
 degauss
 diphyzooid
@@ -14728,6 +14727,7 @@ disincline
 dimensionality
 diphylleia
 dotlike
+decoupling
 discarnation
 difflation
 diaristic
