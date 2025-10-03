@@ -88,7 +88,6 @@ antipriestcraft
 abaptiston
 acknow
 auditories
-adelphi
 abase
 abasers
 abashed
@@ -12454,6 +12453,7 @@ anova
 alma
 axe
 aegagropile
+adelphi
 appealed
 aftmost
 acknowledges
