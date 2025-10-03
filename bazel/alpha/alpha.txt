@@ -10276,7 +10276,6 @@ algins
 anacrusis
 allice
 amellus
-anthozooid
 autodecremented
 astor
 amelus
@@ -23629,6 +23628,7 @@ alcaiceria
 archicyte
 aurichloride
 anapaests
+anthozooid
 alumroots
 atpoints
 aschaffite
