@@ -9570,6 +9570,7 @@ emulator
 epihippus
 enterohemorrhage
 esophagalgia
+excur
 embower
 elhi
 esophagitis
@@ -12199,7 +12200,6 @@ episynthetic
 ebulliently
 elric
 executor
-excur
 ensigns
 epiphanizing
 extralateral
