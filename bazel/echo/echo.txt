@@ -7017,7 +7017,6 @@ eng
 exothermic
 exclamation
 englishry
-epiplanktonic
 evangely
 evidencive
 endotropic
@@ -11760,6 +11759,7 @@ ecthesis
 entomolite
 edematous
 engrid
+epiplanktonic
 ewerer
 experimented
 eagerest
