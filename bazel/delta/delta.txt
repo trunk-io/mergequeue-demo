@@ -5229,7 +5229,6 @@ deathly
 diaheliotropic
 detruncating
 diazoamino
-denitrifier
 destructors
 denitrifying
 denizenation
@@ -17912,6 +17911,7 @@ dumpier
 duffed
 dispermous
 degasser
+denitrifier
 disillusionise
 dreigh
 dekares
