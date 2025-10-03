@@ -3587,7 +3587,6 @@ cinques
 circle
 caraboid
 carabus
-caracara
 coprosterol
 carack
 caracks
@@ -6434,6 +6433,7 @@ cloister
 cav
 ceratites
 curvinervate
+caracara
 cavayard
 cavalcaded
 cotylophorous
