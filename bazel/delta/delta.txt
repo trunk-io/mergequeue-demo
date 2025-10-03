@@ -362,7 +362,6 @@ dropling
 daybreaks
 diplostichous
 dreamt
-daygoing
 desiccation
 daiker
 descensive
@@ -11985,6 +11984,7 @@ disenable
 disenabled
 duplicates
 diploplacula
+daygoing
 differen
 disenchant
 dowd
