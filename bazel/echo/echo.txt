@@ -3054,7 +3054,6 @@ emissive
 empanelled
 eloigning
 enactment
-eloigns
 episynaloephe
 eloin
 elucubrate
@@ -13083,6 +13082,7 @@ ergonovine
 extracystic
 eucaryote
 engarrison
+eloigns
 enbaissing
 electrothermotic
 epistolization
