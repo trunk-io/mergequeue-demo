@@ -3950,7 +3950,6 @@ extramodal
 empatron
 etrurian
 essie
-evenhand
 empearl
 each
 exultancy
@@ -12124,6 +12123,7 @@ eavesdrops
 excrementitiously
 elonite
 enregister
+evenhand
 eloper
 ebonite
 ensorcerize
