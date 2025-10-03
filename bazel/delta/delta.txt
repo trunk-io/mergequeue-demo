@@ -3515,6 +3515,7 @@ deformable
 darkey
 dibbing
 deformation
+dullnesses
 deflections
 delete
 dohter
@@ -18046,7 +18047,6 @@ deluster
 damnifying
 decidedly
 digitaria
-dullnesses
 deglaze
 drunkelew
 desulphurating
