@@ -5949,7 +5949,6 @@ anapest
 aggressin
 acidaspis
 animalist
-altered
 advect
 abortus
 aigrette
@@ -7482,6 +7481,7 @@ albuminiparous
 agnomina
 albuminising
 attask
+altered
 albuminize
 ammonal
 agrobiologically
