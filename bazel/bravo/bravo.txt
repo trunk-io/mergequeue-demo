@@ -3968,6 +3968,7 @@ beslur
 believer
 beacons
 buoyancy
+beedi
 beadeye
 beader
 bellmaker
@@ -13941,7 +13942,6 @@ bauno
 bitbrace
 boloball
 bowleggedness
-beedi
 bowles
 balwarra
 bowlful
