@@ -5875,6 +5875,7 @@ banquo
 bachel
 buckbrush
 baronship
+broch
 bellmanship
 bellmouth
 benjamin
@@ -15731,7 +15732,6 @@ baptist
 bleaches
 bangkoks
 broccolis
-broch
 benzophenazine
 backtracked
 brochant
