@@ -2030,6 +2030,7 @@ chincof
 cruelize
 camoudie
 coburgess
+camerate
 camouflage
 camouflageable
 camouflager
@@ -21373,7 +21374,6 @@ communicableness
 conchol
 conchometer
 conchospiral
-camerate
 cowboys
 conchostraca
 corotated
