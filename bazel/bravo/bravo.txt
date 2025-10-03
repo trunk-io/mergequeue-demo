@@ -4945,6 +4945,7 @@ balls
 barmier
 boulles
 bactritoid
+beneplacito
 bonaveria
 boltless
 bolases
@@ -9805,7 +9806,6 @@ bidialectal
 bytalks
 bitanhol
 bitartrate
-beneplacito
 bandonion
 biteable
 begin
