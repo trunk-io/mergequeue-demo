@@ -7527,7 +7527,6 @@ brachypodine
 booteries
 bestowage
 beveil
-bevelled
 bardism
 belayer
 beveller
@@ -13558,6 +13557,7 @@ bottu
 botulinuses
 bardolater
 boggles
+bevelled
 botulism
 bigamistic
 bourre
