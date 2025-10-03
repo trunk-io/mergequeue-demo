@@ -6330,7 +6330,6 @@ benthoscope
 bemoat
 bulgar
 benthoses
-bacteriolysin
 backwashes
 blockhouses
 blimp
@@ -13162,6 +13161,7 @@ bilging
 belonite
 borith
 blatherskites
+bacteriolysin
 brewings
 befluster
 beaned
