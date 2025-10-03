@@ -2942,7 +2942,6 @@ acta
 agelast
 antilacrosser
 asylums
-actable
 affrighted
 ankus
 actaeon
@@ -5399,6 +5398,7 @@ aerobiological
 afshah
 anticouncil
 antis
+actable
 afteract
 alexin
 appetitive
