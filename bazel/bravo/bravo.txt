@@ -2026,7 +2026,6 @@ biquartz
 bidactyl
 bloodstones
 bankcard
-bethought
 banky
 banknote
 bristly
@@ -18306,6 +18305,7 @@ bullockite
 button
 buttonball
 basaltoid
+bethought
 borealis
 broadshare
 bivalve
