@@ -7333,7 +7333,6 @@ cephalins
 cephalism
 cabalic
 caprine
-cephalitis
 cephalization
 cephaloauricular
 cephalobranchiata
@@ -28178,6 +28177,7 @@ craniotomy
 craniotopography
 craniums
 crankcases
+cephalitis
 celebres
 cuckooed
 crosscutter
