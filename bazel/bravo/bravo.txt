@@ -5689,7 +5689,6 @@ beater
 bushwoman
 belgrade
 buries
-bartramia
 bombasine
 bora
 butterback
@@ -18066,6 +18065,7 @@ bourgs
 bustler
 bustlers
 bustles
+bartramia
 biologize
 bustlingly
 bloom
