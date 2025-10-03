@@ -759,6 +759,7 @@ ecoute
 exscinding
 ecphonema
 emotes
+exarch
 echinal
 egger
 energizers
@@ -9240,7 +9241,6 @@ egressing
 electra
 errantia
 exonerative
-exarch
 errants
 espinette
 elayl
