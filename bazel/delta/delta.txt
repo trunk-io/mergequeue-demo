@@ -12389,7 +12389,6 @@ dishcloths
 dupable
 doxies
 dishclout
-dishcross
 disheart
 disassembly
 disheartenedly
@@ -14944,6 +14943,7 @@ dodecasyllable
 dodecastylar
 discretionarily
 demonising
+dishcross
 dichromat
 deoxidizes
 disponing
