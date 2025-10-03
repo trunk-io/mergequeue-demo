@@ -488,7 +488,6 @@ depreciatively
 dame
 deveining
 declivous
-decistere
 disregard
 distilling
 dalesfolk
@@ -8780,6 +8779,7 @@ death
 droners
 deltic
 dialoguer
+decistere
 deuterodome
 diazins
 dulcifying
