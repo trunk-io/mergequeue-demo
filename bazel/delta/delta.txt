@@ -3392,6 +3392,7 @@ doit
 disconfirmed
 disperser
 damnum
+dero
 ditremidae
 defleas
 downlinks
@@ -13930,7 +13931,6 @@ dysnomy
 dabblingly
 distintion
 depolymerization
-dero
 distn
 dystocia
 dourade
