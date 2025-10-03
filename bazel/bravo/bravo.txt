@@ -3778,6 +3778,7 @@ blastomeric
 batwing
 baysmelt
 beswitch
+boltless
 bioenvironmental
 betatrons
 batwomen
@@ -4980,7 +4981,6 @@ barmier
 boulles
 bactritoid
 bonaveria
-boltless
 bolases
 blackstrap
 beerbachite
