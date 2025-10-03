@@ -848,7 +848,6 @@ couverte
 convictable
 cairngorum
 cays
-caisse
 caissons
 caite
 caitif
@@ -7173,6 +7172,7 @@ centre
 clinoaxis
 cpo
 centred
+caisse
 centref
 centreless
 centrepiece
