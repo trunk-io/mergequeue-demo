@@ -6939,7 +6939,6 @@ briolette
 biplosive
 breediness
 betail
-baselessness
 betta
 bahai
 badder
@@ -13072,6 +13071,7 @@ bootstrapping
 borasca
 borassus
 blether
+baselessness
 bacilliculture
 borboridae
 besmearing
