@@ -11797,6 +11797,7 @@ batons
 billingsgate
 buckwheat
 bouquets
+birches
 bocasin
 boccarella
 bodings
@@ -13929,7 +13930,6 @@ bowyers
 bulnbuln
 breached
 bilious
-birches
 bedrite
 bowing
 bowings
