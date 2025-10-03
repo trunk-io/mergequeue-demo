@@ -6845,6 +6845,7 @@ airscrews
 afterwisdom
 airships
 avigators
+allomorphite
 asarta
 avenges
 anaitis
@@ -8904,7 +8905,6 @@ asthenopic
 aerobiologic
 anastatus
 allomorphism
-allomorphite
 appestat
 allonym
 alongst
