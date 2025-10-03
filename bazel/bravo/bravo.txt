@@ -1711,7 +1711,6 @@ belorussian
 baronial
 baloskion
 bulbels
-birlieman
 belittled
 baladine
 balsamation
@@ -5536,6 +5535,7 @@ baryton
 bewares
 birding
 beisa
+birlieman
 brahmas
 bagatine
 bemurmured
