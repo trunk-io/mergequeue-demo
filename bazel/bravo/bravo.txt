@@ -8781,6 +8781,7 @@ bruisers
 bosc
 beagling
 behests
+boatshop
 barycentre
 broadpiece
 binal
@@ -10245,7 +10246,6 @@ bosoms
 bebump
 bilged
 broomwort
-boatshop
 blackpatch
 belongings
 beavering
