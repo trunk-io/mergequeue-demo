@@ -2749,7 +2749,6 @@ benab
 bonneting
 bukeyef
 barology
-barolong
 bardiest
 bombax
 boroughship
@@ -9092,6 +9091,7 @@ biophysiology
 barky
 barbet
 brachycephalies
+barolong
 berrettino
 backfire
 biophotophone
