@@ -6418,7 +6418,6 @@ doucet
 dustmen
 diplotene
 dorsiventral
-dielec
 derodidymus
 derog
 disembarrassment
@@ -7364,6 +7363,7 @@ determiner
 diameters
 didine
 dunnest
+dielec
 deterministic
 dollbeer
 dreariment
