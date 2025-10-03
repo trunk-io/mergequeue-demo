@@ -10425,6 +10425,7 @@ avocados
 americophobe
 antirattler
 analysing
+assignable
 amerind
 allantoic
 anatira
@@ -20478,7 +20479,6 @@ adaxial
 axers
 adiathermanous
 adjectivally
-assignable
 ampheclexis
 adagy
 arterying
