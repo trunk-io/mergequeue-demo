@@ -4652,7 +4652,6 @@ cabmen
 centrospermae
 carouse
 caroused
-carousels
 carp
 carpaine
 carpalia
@@ -7258,6 +7257,7 @@ centuple
 clematises
 centuples
 codbank
+carousels
 chaldese
 centuplicate
 centuplicating
