@@ -2244,6 +2244,7 @@ derrire
 dosages
 dispensate
 drongo
+deftest
 dreint
 drch
 dartre
@@ -18229,7 +18230,6 @@ duneland
 dunelike
 doeglic
 darzee
-deftest
 deputative
 dasycladaceae
 disfavoring
