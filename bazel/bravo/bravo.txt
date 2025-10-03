@@ -5871,7 +5871,6 @@ blackman
 benedicks
 begaudy
 bellweed
-beggardom
 bretons
 butterbur
 bellwether
@@ -9123,6 +9122,7 @@ biennia
 bicalcarate
 blackthorns
 biosystematy
+beggardom
 basiotribe
 burnt
 byssine
