@@ -3703,6 +3703,7 @@ battler
 basocyte
 barrace
 blushiness
+biannually
 buhr
 battlesome
 brigantes
@@ -9322,7 +9323,6 @@ bayldonite
 bifolia
 bloviating
 beany
-biannually
 bawdry
 baldricked
 buzuki
