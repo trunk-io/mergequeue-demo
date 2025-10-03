@@ -1290,7 +1290,6 @@ calibrates
 cloison
 catchwater
 calibrating
-calibre
 calibred
 complicative
 calibres
@@ -31648,6 +31647,7 @@ cancelier
 curvometer
 cheeker
 carduelis
+calibre
 conscripttion
 curvulate
 cuscohygrin
