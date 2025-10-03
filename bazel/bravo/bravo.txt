@@ -1735,7 +1735,6 @@ broquery
 boneheads
 baronnes
 becollier
-buses
 biretta
 bedraggling
 balustrading
@@ -16269,6 +16268,7 @@ blockading
 bluenesses
 brownouts
 brickly
+buses
 bhajan
 brachysclereid
 browntail
