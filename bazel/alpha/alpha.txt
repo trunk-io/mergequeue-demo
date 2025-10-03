@@ -1685,6 +1685,7 @@ alkalimeter
 aknow
 accessless
 ambiguously
+anaphora
 army
 acculturation
 acculturize
@@ -3861,7 +3862,6 @@ agglutinin
 attemperator
 adjudicative
 antarctical
-anaphora
 aerostats
 antihypnotic
 angiotonase
