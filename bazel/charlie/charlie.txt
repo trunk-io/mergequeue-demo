@@ -11317,7 +11317,6 @@ cynocephalus
 chesterbed
 ceresin
 chlormethane
-chrysidella
 chloroacetone
 childe
 conservation
@@ -17671,6 +17670,7 @@ coccyxes
 coccyzus
 cocco
 changar
+chrysidella
 clallam
 capitoul
 coccobacilli
