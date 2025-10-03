@@ -10683,6 +10683,7 @@ belt
 bonebreaker
 blearyeyedness
 bevel
+borealis
 brotulid
 begarnish
 blearing
@@ -18306,7 +18307,6 @@ bullockite
 button
 buttonball
 basaltoid
-borealis
 broadshare
 bivalve
 buttoner
