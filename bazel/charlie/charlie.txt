@@ -2517,6 +2517,7 @@ candyweed
 candle
 coehorn
 candleball
+constituently
 candleberries
 candlebomb
 candlefish
@@ -17171,7 +17172,6 @@ cully
 coachwright
 coact
 coacting
-constituently
 coaction
 coactive
 coactively
