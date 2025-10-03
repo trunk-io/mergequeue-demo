@@ -2287,7 +2287,6 @@ electroacoustics
 enthetic
 exundation
 electroanalytic
-electroanesthesia
 eavesdrop
 entrapper
 electroballistics
@@ -2317,6 +2316,7 @@ ephedrine
 electrochronometric
 enfroward
 evanished
+electroanesthesia
 englifier
 estafetted
 epithi
