@@ -4761,6 +4761,7 @@ burriest
 bougee
 bedroll
 bedrooms
+bugling
 bruckle
 bedrowse
 bandicoots
@@ -16936,7 +16937,6 @@ basten
 basiliscan
 bugleweed
 bressomer
-bugling
 buglosses
 bugong
 burrah
