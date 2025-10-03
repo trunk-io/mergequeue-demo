@@ -19183,6 +19183,7 @@ cartomancy
 collocating
 carambola
 calfskins
+convolutional
 carrow
 collocation
 collocational
@@ -24235,7 +24236,6 @@ convolutedly
 crinoidal
 convoluting
 convolution
-convolutional
 convolutive
 convolve
 cringingly
