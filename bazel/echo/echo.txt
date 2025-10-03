@@ -2174,7 +2174,6 @@ equiprobable
 encrisp
 eldest
 effigiated
-eventuate
 engulfment
 enlargers
 eldrich
@@ -9772,6 +9771,7 @@ electroplate
 estable
 ervils
 establishable
+eventuate
 elegiacal
 elvishly
 exponentiate
