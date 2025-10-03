@@ -5047,7 +5047,6 @@ endochorion
 endochorionic
 engrains
 elatha
-endocyst
 epodic
 enucleate
 elbows
@@ -8368,6 +8367,7 @@ epizoic
 eudaemonia
 ensigncy
 epizoon
+endocyst
 edemic
 emblossom
 exigencies
