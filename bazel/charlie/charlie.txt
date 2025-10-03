@@ -9907,7 +9907,6 @@ chronobiology
 chemosorption
 chemosphere
 collateral
-cancers
 chemosurgery
 chemotactic
 cresylene
@@ -27981,6 +27980,7 @@ conduces
 conferencing
 craftiness
 craftless
+cancers
 craftly
 croucher
 charactonym
