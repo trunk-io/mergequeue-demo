@@ -2213,7 +2213,6 @@ ampullula
 apimania
 achromatization
 achromatize
-achromatocyte
 arctalian
 achromatope
 achromatophile
@@ -15507,6 +15506,7 @@ architectonics
 analyzable
 antimonies
 antimonium
+achromatocyte
 audiencier
 antimoniuret
 acetabulum
