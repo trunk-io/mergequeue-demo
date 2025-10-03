@@ -15908,6 +15908,7 @@ dosis
 deepeningly
 dossel
 dossels
+datacell
 drench
 dossennus
 dressings
@@ -17069,7 +17070,6 @@ dismally
 ducklet
 diclinies
 diaplexus
-datacell
 dimensional
 democratising
 disaffected
