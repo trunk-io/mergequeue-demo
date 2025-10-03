@@ -1600,7 +1600,6 @@ courtrooms
 collectibles
 calmed
 cylindraceous
-centrobaric
 crureus
 calmest
 calmier
@@ -5295,6 +5294,7 @@ cassocked
 cultures
 charioteers
 cassocks
+centrobaric
 cuspidated
 cassons
 cochleated
