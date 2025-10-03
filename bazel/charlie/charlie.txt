@@ -11798,7 +11798,6 @@ cosmologically
 chondroitic
 chondroitin
 cucurbitaceae
-chondromatous
 chondromyces
 cissoids
 chukkas
@@ -25344,6 +25343,7 @@ corncrib
 centripetal
 corncribs
 corncrusher
+chondromatous
 ce
 coldbloodedness
 corncutter
