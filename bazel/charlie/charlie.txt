@@ -2398,7 +2398,6 @@ canceller
 cancellus
 cancelment
 cessment
-chimneys
 culicine
 cancer
 cancerated
@@ -13073,6 +13072,7 @@ crumbable
 crates
 cyanoguanidine
 cyanometer
+chimneys
 camaile
 chiasmatypy
 curateship
