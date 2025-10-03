@@ -1250,7 +1250,6 @@ calenderer
 cheeping
 confessionist
 calenders
-calendric
 calendrical
 calendula
 calendulas
@@ -15032,6 +15031,7 @@ citreous
 citril
 confabulates
 citrination
+calendric
 citrine
 congressmen
 cytopharynxes
