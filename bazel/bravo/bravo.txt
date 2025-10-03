@@ -3219,7 +3219,6 @@ boniform
 bivinyl
 briscola
 blacklegism
-besoul
 basinet
 basinets
 basinful
@@ -5870,6 +5869,7 @@ basisphenoid
 bailiffship
 buddhic
 belongs
+besoul
 bicameral
 banderillero
 belonidae
