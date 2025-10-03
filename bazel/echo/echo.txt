@@ -2641,6 +2641,7 @@ exports
 enfant
 extendibility
 engenderment
+euchloric
 exhort
 euro
 extractiform
@@ -10770,7 +10771,6 @@ exercitant
 extemporaneity
 elasticate
 ectoblastic
-euchloric
 examiners
 effector
 embryomas
