@@ -3594,7 +3594,6 @@ cinques
 circle
 caraboid
 carabus
-coprosterol
 carack
 caracks
 caracoa
@@ -22578,6 +22577,7 @@ conk
 conkanee
 conked
 conker
+coprosterol
 conservative
 concredit
 conkers
