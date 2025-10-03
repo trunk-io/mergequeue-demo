@@ -4075,7 +4075,6 @@ cornmaster
 condalia
 cardin
 cardinal
-cardinalfish
 croslet
 cancans
 cardinalfishes
@@ -17729,6 +17728,7 @@ calque
 conservationist
 cochliodontidae
 cochliodus
+cardinalfish
 cochlite
 cerate
 cochlospermaceae
