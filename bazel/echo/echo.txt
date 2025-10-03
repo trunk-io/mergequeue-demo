@@ -5793,7 +5793,6 @@ eccl
 engramme
 epicarpal
 engrammes
-extensors
 edwardine
 eudaemonistical
 elia
@@ -11368,6 +11367,7 @@ embanking
 evangelising
 eventualize
 eventually
+extensors
 expansional
 eventuating
 evictors
