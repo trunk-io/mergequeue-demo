@@ -2794,7 +2794,6 @@ behaviourally
 baronries
 benniseed
 briggs
-baroque
 baconer
 bowsprits
 butchered
@@ -10494,6 +10493,7 @@ berrichon
 brickfielder
 blastochyle
 blastocoel
+baroque
 bibliopegically
 blastocoele
 blastodisc
