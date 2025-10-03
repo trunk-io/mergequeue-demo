@@ -9836,7 +9836,6 @@ dejectile
 diapaused
 discanonize
 debcle
-disrupture
 dillymen
 doorstops
 deediest
@@ -14627,6 +14626,7 @@ dialogued
 dichroiscopic
 draine
 daubreeite
+disrupture
 divulgation
 demoralised
 divulge
