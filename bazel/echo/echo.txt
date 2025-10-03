@@ -1853,6 +1853,7 @@ experience
 erasability
 errata
 enarm
+equigranular
 eximiousness
 encashes
 enwisen
@@ -8547,7 +8548,6 @@ embouchures
 encefalon
 espavel
 equielliptical
-equigranular
 equilateral
 eriogonum
 epentheses
