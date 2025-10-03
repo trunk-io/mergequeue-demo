@@ -1795,7 +1795,6 @@ banago
 buzzy
 brimming
 bacteriaceous
-beaconed
 beglads
 bardiness
 banak
@@ -4400,6 +4399,7 @@ bunyip
 byworks
 backswing
 bally
+beaconed
 brise
 bonairness
 brolly
