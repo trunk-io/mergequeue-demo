@@ -461,7 +461,6 @@ cryptocrystalline
 cadaster
 clacked
 cadasters
-cadastral
 cadastration
 cadastres
 cadaver
@@ -19399,6 +19398,7 @@ cropland
 cavillatory
 conscriptionist
 colophonic
+cadastral
 colophons
 coloppe
 chrimsel
