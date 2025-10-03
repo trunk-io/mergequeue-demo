@@ -1564,7 +1564,6 @@ belat
 bandobust
 ballised
 biradial
-britches
 banatite
 binate
 ballista
@@ -17411,6 +17410,7 @@ borating
 balldress
 bobbysoxer
 bodies
+britches
 bombyciform
 beshield
 bunk

@@ -5327,6 +5327,7 @@ deligated
 drammer
 density
 defat
+drywalls
 degasifier
 diatomaceoid
 didascalos
@@ -12867,7 +12868,6 @@ dewworm
 diacoele
 decalcify
 dubhe
-drywalls
 diodia
 descensory
 disminion
