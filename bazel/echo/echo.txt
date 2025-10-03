@@ -5727,7 +5727,6 @@ expressions
 englobed
 enneahedral
 envelopment
-extirp
 excusator
 evaporitic
 englut
@@ -7294,6 +7293,7 @@ eelshop
 ephah
 equinities
 enact
+extirp
 electrooptics
 escaping
 epanisognathism
