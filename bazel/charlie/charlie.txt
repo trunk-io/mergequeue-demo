@@ -8549,7 +8549,6 @@ chancey
 chanceled
 conrail
 cardiacea
-chanceless
 cestoda
 chancelloress
 copybook
@@ -17940,6 +17939,7 @@ coding
 codirected
 codirecting
 circumaviation
+chanceless
 cream
 chiliad
 codirector
