@@ -1578,7 +1578,6 @@ bursitises
 begluc
 banneret
 brairding
-bestar
 beauties
 balloen
 bewray
@@ -3572,6 +3571,7 @@ bathometer
 blockmaking
 bathool
 boomkins
+bestar
 bathophobia
 bathos
 bathrobes
