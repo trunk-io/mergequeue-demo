@@ -10205,7 +10205,6 @@ blackguard
 bos
 beelzebub
 benzenyl
-bookrests
 blackguardry
 baroreceptor
 beseechers
@@ -12266,6 +12265,7 @@ bolographic
 boloism
 byplays
 boutre
+bookrests
 bolshevikian
 barrandite
 bemoult
