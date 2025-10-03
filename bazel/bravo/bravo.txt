@@ -2583,7 +2583,6 @@ bandaged
 barocco
 barkary
 befilch
-barkbound
 betterments
 barkcutter
 balsameaceous
@@ -6621,6 +6620,7 @@ berenice
 bereshith
 beresite
 beret
+barkbound
 brangler
 bankbooks
 belies
