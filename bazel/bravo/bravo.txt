@@ -3698,6 +3698,7 @@ buhr
 biham
 battlesome
 brigantes
+bylining
 bimestrial
 battlestead
 battlewagon
@@ -5749,7 +5750,6 @@ bulbochaete
 bood
 biarticular
 bicentennially
-bylining
 bellboys
 belay
 belled
