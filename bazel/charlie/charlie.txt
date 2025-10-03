@@ -5065,6 +5065,7 @@ cascadable
 cascade
 crankous
 coupes
+chartermaster
 crotaline
 cascaded
 cascadia
@@ -9134,7 +9135,6 @@ charterhouse
 chartering
 charterism
 charterless
-chartermaster
 charters
 cryptograms
 cindered
