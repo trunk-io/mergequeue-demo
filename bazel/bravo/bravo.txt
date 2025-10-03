@@ -1181,7 +1181,6 @@ beanfest
 baked
 bibliothetic
 burnies
-bloop
 blennostatic
 bakeress
 besigh
@@ -5448,6 +5447,7 @@ brainteasers
 bars
 behaviored
 betravel
+bloop
 behaviorists
 behavioural
 brachioradial
