@@ -2455,6 +2455,7 @@ empasma
 endexines
 exairesis
 electroing
+epizootic
 electrokinetic
 epicanthic
 exterminative
@@ -8421,7 +8422,6 @@ epos
 elianic
 encinas
 epitomes
-epizootic
 epoxyed
 epoxies
 employed
