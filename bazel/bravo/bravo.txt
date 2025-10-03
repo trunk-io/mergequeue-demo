@@ -2521,7 +2521,6 @@ begster
 birk
 backlists
 brained
-beltways
 burghalpenny
 bloodberry
 bardel
@@ -8941,6 +8940,7 @@ biodegradable
 blackbreast
 becassocked
 beleap
+beltways
 biodegraded
 biodynamical
 bridoon
