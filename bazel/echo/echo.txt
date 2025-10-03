@@ -7791,7 +7791,6 @@ epigone
 epithelium
 evaporate
 exarchate
-eddish
 entomotaxy
 epigonic
 expletive
@@ -13517,6 +13516,7 @@ emmarbling
 erato
 epexegetic
 engl
+eddish
 esociform
 evildoer
 exserted
