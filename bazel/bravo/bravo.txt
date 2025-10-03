@@ -11539,6 +11539,7 @@ bombload
 blumes
 benighting
 brutal
+bomber
 blunderbuss
 borasqueborate
 blunderbusses
@@ -12382,7 +12383,6 @@ baluchitheria
 boastingly
 bombasts
 bombed
-bomber
 bedirty
 begroaning
 balatronic
