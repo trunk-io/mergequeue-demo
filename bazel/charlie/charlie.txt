@@ -2251,7 +2251,6 @@ conceivers
 canafistola
 canafistolo
 canafistula
-canafistulo
 concertgoer
 canaglia
 canaigre
@@ -7824,6 +7823,7 @@ choledochitis
 calculative
 coronatorial
 cervicapra
+canafistulo
 cervicectomy
 capibara
 cyanided
