@@ -8158,7 +8158,6 @@ enkraal
 extinctive
 exsection
 empiecement
-etwas
 enddamaging
 equidominant
 equidistantly
@@ -8823,6 +8822,7 @@ eremitism
 eardropper
 ecuelling
 epitheloid
+etwas
 enstore
 encurl
 enkernel
