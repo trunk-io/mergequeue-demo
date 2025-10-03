@@ -1554,7 +1554,6 @@ enterokinetic
 eglamore
 eglandular
 eglantines
-extradialectal
 endocardia
 electropathology
 ethnogenist
@@ -4570,6 +4569,7 @@ emceing
 enchytraeus
 eternised
 eradicative
+extradialectal
 ephedra
 enchodontid
 enchodontoid
