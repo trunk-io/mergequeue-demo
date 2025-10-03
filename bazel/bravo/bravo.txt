@@ -5325,7 +5325,6 @@ begnaw
 biharmonic
 balmy
 bult
-ballroom
 begone
 boxlike
 braca
@@ -13031,6 +13030,7 @@ bopped
 bombastical
 bailli
 brigadiers
+ballroom
 beelike
 bedquilts
 befountained
