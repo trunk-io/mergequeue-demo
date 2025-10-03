@@ -439,7 +439,6 @@ bushwas
 backrush
 backscatter
 backscattered
-backscattering
 borecole
 backscraper
 basename
@@ -2566,6 +2565,7 @@ broadwives
 biscuit
 ballons
 balanophoraceous
+backscattering
 baryte
 baritenor
 barberry
