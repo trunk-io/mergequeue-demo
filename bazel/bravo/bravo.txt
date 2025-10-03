@@ -3011,7 +3011,6 @@ ballrooms
 barflies
 borts
 branglement
-biomasses
 burgesses
 bartizans
 becarpets
@@ -6096,6 +6095,7 @@ baronetising
 bulbel
 bhd
 barricader
+biomasses
 bend
 bub
 bendee
