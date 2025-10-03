@@ -3735,7 +3735,6 @@ astrogeny
 apposes
 antifriction
 antifederal
-antidemocracies
 absorptive
 adhort
 abrogator
@@ -12732,6 +12731,7 @@ angeronalia
 asbestosis
 amalgamation
 autoist
+antidemocracies
 abortively
 arillodes
 apocathartic
