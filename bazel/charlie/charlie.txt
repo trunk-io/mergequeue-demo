@@ -122,6 +122,7 @@ chordophone
 clitelline
 cpt
 cabinetworker
+calcimining
 cabinetworking
 cabinlike
 crafter
@@ -1075,7 +1076,6 @@ calcimined
 calciminer
 calcimines
 crudeness
-calcimining
 choppin
 crossbarred
 calcinate
