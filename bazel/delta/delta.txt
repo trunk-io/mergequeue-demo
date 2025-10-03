@@ -90,7 +90,6 @@ damning
 direcly
 deescalating
 dumb
-deploying
 disqualifiable
 dotty
 diachylon
@@ -5580,6 +5579,7 @@ denotement
 directionality
 drought
 dyvour
+deploying
 disilicate
 disattire
 debunked
