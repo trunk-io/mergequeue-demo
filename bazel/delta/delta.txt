@@ -664,7 +664,6 @@ damosel
 drachms
 divorcement
 decapitalize
-damped
 dissemblies
 distrusted
 dukely
@@ -1231,6 +1230,7 @@ datebook
 dilacerated
 dibstones
 drivehead
+damped
 disembarkation
 defecating
 disemplane
