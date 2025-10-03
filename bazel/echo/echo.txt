@@ -5601,7 +5601,6 @@ enforth
 estrangle
 enfoulder
 ensnarers
-enclitics
 exhibitorial
 exquisitism
 enframed
@@ -13302,6 +13301,7 @@ exembryonate
 ecphore
 englishmen
 exorcisms
+enclitics
 explosively
 explosiveness
 equipt
