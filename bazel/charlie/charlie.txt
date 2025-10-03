@@ -1914,7 +1914,6 @@ carcinus
 cinnamomum
 chiliarchy
 camelopards
-cotterite
 constant
 camelopardus
 cloghad
@@ -15834,6 +15833,7 @@ coagulable
 clunch
 clawker
 clawless
+cotterite
 chalahs
 claws
 claxon
