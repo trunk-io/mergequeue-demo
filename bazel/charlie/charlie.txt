@@ -9850,7 +9850,6 @@ chemise
 crinet
 chemisette
 choosy
-chemisorb
 coprophilic
 copperytailed
 chemistry
@@ -10717,6 +10716,7 @@ chinaman
 chinamaniac
 calx
 chinamen
+chemisorb
 canoeing
 chinaphthol
 cottontail
