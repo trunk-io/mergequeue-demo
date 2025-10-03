@@ -16555,7 +16555,6 @@ clockhouse
 clockless
 cuon
 clockmaker
-crewer
 clockwatcher
 clockwise
 clockworked
@@ -27478,6 +27477,7 @@ chivalrousness
 cousiness
 cacesthesis
 cozier
+crewer
 capillament
 cousinhood
 choroidea
