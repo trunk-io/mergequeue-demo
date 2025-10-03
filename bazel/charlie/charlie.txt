@@ -3998,7 +3998,6 @@ correctify
 carcinemia
 croquettes
 carcinogenesis
-carcinogenic
 carcinoid
 compartmental
 crystalloluminescence
@@ -13849,6 +13848,7 @@ cinematic
 comedienne
 czechoslovakian
 cogency
+carcinogenic
 cooboo
 cascavel
 creationist
