@@ -4035,7 +4035,6 @@ bedolt
 brisure
 bumperette
 branches
-bannerets
 bohemians
 becolme
 benetnasch
@@ -10485,6 +10484,7 @@ battles
 bridgewards
 backcourt
 bodywood
+bannerets
 biacetyls
 burin
 blastomyces
