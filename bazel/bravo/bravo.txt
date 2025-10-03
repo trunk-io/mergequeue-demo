@@ -4900,6 +4900,7 @@ burrowstown
 beef
 battled
 beefalo
+boedromion
 biznaga
 beefaloes
 basketweaving
@@ -11909,7 +11910,6 @@ baalite
 bortzes
 battleplane
 bouillons
-boedromion
 bovovaccine
 brevirostrate
 buggies
