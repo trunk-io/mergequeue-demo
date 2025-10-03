@@ -3483,7 +3483,6 @@ embarras
 excludes
 exhibit
 elod
-escorted
 enured
 epigonichthyidae
 estampede
@@ -11991,6 +11990,7 @@ exampleship
 essentials
 eigenspace
 espeire
+escorted
 embolus
 electioneerer
 enthusiasts
