@@ -3682,7 +3682,6 @@ bankrupted
 bucketmaker
 battered
 bedesmen
-beltis
 batterie
 breck
 batterman
@@ -15569,6 +15568,7 @@ bination
 barometer
 beavers
 brewsterite
+beltis
 barbacan
 beakful
 brises
