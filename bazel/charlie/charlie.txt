@@ -16539,7 +16539,6 @@ clockmaker
 clockwatcher
 clockwise
 clockworked
-clavigerous
 carthamin
 chaldron
 creepage
@@ -28225,6 +28224,7 @@ caesar
 crannel
 crannequin
 crannia
+clavigerous
 colliquefaction
 crannied
 crannies
