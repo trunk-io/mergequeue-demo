@@ -3171,7 +3171,6 @@ acts
 amphibia
 affronter
 aminic
-achromatizable
 admarginate
 adiel
 antirealism
@@ -24167,6 +24166,7 @@ allantiasis
 autografting
 autogram
 anglepods
+achromatizable
 anthesteria
 autographer
 achape
