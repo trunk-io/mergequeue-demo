@@ -5662,7 +5662,6 @@ allseeds
 arthrodial
 adulter
 antimitotic
-awning
 agamemnon
 agamete
 angulates
@@ -12971,6 +12970,7 @@ angula
 angularia
 angularity
 angularities
+awning
 antiferromagnet
 antisurplician
 argentinidae
