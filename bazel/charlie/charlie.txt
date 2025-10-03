@@ -11624,6 +11624,7 @@ cholecystostomy
 cholecystotomy
 cholecystotomies
 choledochal
+copybooks
 culpability
 choledochoduodenostomy
 colpeurysis
@@ -24594,7 +24595,6 @@ cod
 cakehouse
 characinidae
 circulariser
-copybooks
 cognomen
 chook
 copycat
