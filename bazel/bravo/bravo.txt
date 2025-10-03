@@ -13312,6 +13312,7 @@ bostonian
 banderillas
 burglar
 branchstand
+burushaski
 bouche
 barman
 bangs
@@ -17714,7 +17715,6 @@ beshouts
 bookways
 burned
 burner
-burushaski
 benempt
 billian
 blastophaga
