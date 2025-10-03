@@ -2438,7 +2438,6 @@ capelline
 cancrine
 cicatrix
 carpers
-cirrostome
 coffeeberry
 cancrinite
 cancrisocial
@@ -28175,6 +28174,7 @@ curved
 cento
 circumstance
 craniography
+cirrostome
 cranioid
 checkable
 craniol
