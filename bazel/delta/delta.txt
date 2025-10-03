@@ -9148,6 +9148,7 @@ disweapon
 disinclines
 derisory
 doffs
+delbert
 detriment
 disdiaclasis
 disgracement
@@ -12537,7 +12538,6 @@ dochter
 decrowned
 decani
 diffeomorphic
-delbert
 disinfestant
 dewclawed
 daltonist
