@@ -6718,6 +6718,7 @@ ceilings
 cresoxid
 ceilingwards
 copiability
+coroplasta
 celtophobia
 ceilometer
 couac
@@ -25613,7 +25614,6 @@ coronopus
 colcine
 coperception
 counterlighting
-coroplasta
 coroplastae
 cauf
 coroplastic
