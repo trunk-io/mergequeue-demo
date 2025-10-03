@@ -1213,6 +1213,7 @@ datasetname
 dithers
 datcha
 disparison
+dibber
 disclamation
 demiassignation
 dhow
@@ -5596,7 +5597,6 @@ depeinct
 dependabilities
 donatistic
 dossmen
-dibber
 draftable
 depended
 dolichopellic
