@@ -2326,7 +2326,6 @@ dactylioglyphic
 danglement
 drat
 diacetyls
-delectations
 denizens
 discission
 didna
@@ -12879,6 +12878,7 @@ dyebeck
 demerited
 dromond
 dismissals
+delectations
 dismissed
 deconsideration
 dismisses
