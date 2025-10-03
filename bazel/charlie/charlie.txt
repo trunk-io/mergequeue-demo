@@ -6495,7 +6495,6 @@ cavernal
 cavernlike
 cavernoma
 cavernous
-cavernously
 cavernulous
 caves
 cavetti
@@ -26460,6 +26459,7 @@ champleve
 cubit
 cotorment
 cotoro
+cavernously
 continuancy
 civilizing
 curve
