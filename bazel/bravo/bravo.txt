@@ -1624,6 +1624,7 @@ ballots
 ballottement
 backlotter
 baronage
+bedeafen
 bahamian
 bunya
 byelorussians
@@ -4064,7 +4065,6 @@ bean
 brickred
 boldness
 begottenness
-bedeafen
 brooked
 beancod
 beaner
