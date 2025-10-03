@@ -3550,7 +3550,6 @@ bathool
 boomkins
 bestar
 bathophobia
-bathos
 bathrobes
 bunkmates
 brach
@@ -6762,6 +6761,7 @@ billings
 bylander
 baikerinite
 basifies
+bathos
 beprose
 benetting
 beroidae
