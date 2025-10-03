@@ -11994,6 +11994,7 @@ abbasid
 australopithecus
 anapterygota
 anaptychus
+atpoints
 abduction
 assapan
 anaptotic
@@ -23632,7 +23633,6 @@ aurichloride
 anapaests
 anthozooid
 alumroots
-atpoints
 aschaffite
 absvolt
 allotropicity
