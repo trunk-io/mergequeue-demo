@@ -1310,6 +1310,7 @@ elengeness
 ennuied
 effects
 enlarge
+equip
 equilibristat
 enclog
 effectuated
@@ -8384,7 +8385,6 @@ exchange
 electrizer
 evisceration
 egyptianize
-equip
 evolutility
 eglogue
 endothecate
