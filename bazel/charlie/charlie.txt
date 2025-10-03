@@ -9149,7 +9149,6 @@ container
 charta
 curialities
 coasters
-chartable
 charter
 charterer
 charterers
@@ -29883,6 +29882,7 @@ capsumin
 cross
 circummeridian
 coronillo
+chartable
 chronos
 cryptopin
 calculate
