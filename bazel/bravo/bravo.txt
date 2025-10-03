@@ -3401,6 +3401,7 @@ bryophytic
 bursae
 botanizer
 basswood
+botflies
 burghership
 berceau
 bouviers
@@ -7601,7 +7602,6 @@ bewary
 bewaste
 beweary
 besottedness
-botflies
 brainworker
 banagos
 bulrush
