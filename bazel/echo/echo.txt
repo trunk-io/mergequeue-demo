@@ -826,7 +826,6 @@ epitheton
 entrecote
 ectiris
 equations
-etamines
 enslaver
 ectocarpus
 enquire
@@ -1441,6 +1440,7 @@ epipleural
 envelop
 etaerio
 enfarce
+etamines
 effraction
 etymologised
 eurythermic
