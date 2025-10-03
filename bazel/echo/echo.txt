@@ -9019,6 +9019,7 @@ entria
 ephesine
 emlen
 endothermic
+eigenfrequency
 exocyclic
 equiglacial
 episcenium
@@ -10971,7 +10972,6 @@ eudemons
 epichirema
 echeloot
 eoside
-eigenfrequency
 eschatocol
 ecologically
 electrokinematics
