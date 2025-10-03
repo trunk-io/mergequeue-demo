@@ -843,6 +843,7 @@ backband
 bootblack
 bagdad
 bloody
+briquette
 bagdi
 begoniaceae
 bauxites
@@ -13571,7 +13572,6 @@ besplatter
 botulisms
 brief
 brodequin
-briquette
 bouch
 blacksmith
 boucharde
