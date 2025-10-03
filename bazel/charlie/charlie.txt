@@ -7412,7 +7412,6 @@ cephalothoraxes
 conscripts
 cephalotomy
 corozo
-chalkosideric
 contrate
 cephalotractor
 cephalotrocha
@@ -21924,6 +21923,7 @@ cuspated
 conferences
 conferential
 conferral
+chalkosideric
 capability
 creodont
 conferred
