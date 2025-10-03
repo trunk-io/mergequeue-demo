@@ -4842,7 +4842,6 @@ exoperidium
 ecchymoses
 enculturation
 ergatandromorph
-epispastic
 extrapolates
 essenis
 electrodialyzer
@@ -11254,6 +11253,7 @@ exterrestrial
 evaporability
 emanating
 enwrapped
+epispastic
 ectoplasy
 eutaxy
 eikonogen
