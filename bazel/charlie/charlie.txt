@@ -6640,6 +6640,7 @@ conveyable
 convolvement
 cedars
 cedarwood
+chrobat
 ceded
 ceders
 copepods
@@ -27625,7 +27626,6 @@ caesuras
 cowages
 cowardy
 cowardice
-chrobat
 croquignole
 cowardish
 cannibalistic
