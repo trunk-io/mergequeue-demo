@@ -7899,7 +7899,6 @@ cervicothoracic
 cervicovesical
 cervinae
 cosignatory
-cervixes
 cervoid
 cervuline
 cervus
@@ -19414,6 +19413,7 @@ coloquintid
 craniotabes
 carousing
 cerotic
+cervixes
 checkstone
 color
 creational
