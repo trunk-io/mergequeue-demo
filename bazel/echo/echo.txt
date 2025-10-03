@@ -5725,6 +5725,7 @@ empressements
 epigraphy
 expressions
 englobed
+emprise
 enneahedral
 envelopment
 extirp
@@ -7363,7 +7364,6 @@ eyres
 epencephala
 embittering
 embezzle
-emprise
 elatcha
 ethidene
 enantiomorphously
