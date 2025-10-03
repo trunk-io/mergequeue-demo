@@ -6230,6 +6230,7 @@ executors
 enomotarch
 epicyte
 eyre
+encowl
 epigaster
 ethanes
 enrich
@@ -13328,7 +13329,6 @@ encincture
 exponible
 existible
 extrametaphysical
-encowl
 enough
 erithacus
 exceedingly
