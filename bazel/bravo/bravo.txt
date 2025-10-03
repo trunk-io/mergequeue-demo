@@ -884,7 +884,6 @@ babishness
 biacromial
 bagmaker
 bagnes
-bastnaesite
 blowze
 burdies
 broommaking
@@ -18084,6 +18083,7 @@ brazilins
 briguer
 but
 beroll
+bastnaesite
 boringness
 booklet
 buccally
