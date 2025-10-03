@@ -9297,6 +9297,7 @@ beshrewing
 blockader
 biplane
 bobolink
+bisymmetrical
 biplanes
 beclogging
 bonavist
@@ -9688,7 +9689,6 @@ bisymmetry
 brandyman
 birthrates
 bushily
-bisymmetrical
 bigg
 borate
 bisync
