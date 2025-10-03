@@ -12653,7 +12653,6 @@ asteriae
 autophonoscope
 apicolysis
 angaria
-angarias
 abthainry
 aesthesics
 amidoxyl
@@ -13586,6 +13585,7 @@ articulability
 amtmen
 altars
 arrays
+angarias
 augmentative
 algy
 annulary
