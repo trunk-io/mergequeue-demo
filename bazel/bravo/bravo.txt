@@ -9293,6 +9293,7 @@ baffle
 beshrewing
 blockader
 biplane
+binman
 bobolink
 biplanes
 beclogging
@@ -14567,7 +14568,6 @@ branchiest
 blizz
 branchiferous
 broma
-binman
 branchiness
 butterburr
 blockage
