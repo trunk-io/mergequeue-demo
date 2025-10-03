@@ -11973,6 +11973,7 @@ cilician
 choriamb
 choriambic
 chorometry
+cooperant
 coaggregated
 confarreate
 choriambus
@@ -28943,7 +28944,6 @@ cuphea
 corallorhiza
 crib
 crybaby
-cooperant
 celtish
 coarse
 centrolecithal
