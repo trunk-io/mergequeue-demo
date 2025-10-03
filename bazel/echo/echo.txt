@@ -4101,7 +4101,6 @@ extracranial
 energids
 eczematous
 externum
-encl
 encaustes
 exporter
 elaeosia
@@ -11729,6 +11728,7 @@ exampling
 exanimation
 echeneididae
 exanthems
+encl
 eyelast
 esquireship
 ereptic
