@@ -9885,7 +9885,6 @@ chemiotropism
 chemise
 crinet
 chemisette
-chemism
 choosy
 chemisorb
 coprophilic
@@ -25066,6 +25065,7 @@ crushableness
 cordery
 corders
 cordewane
+chemism
 conventing
 clavial
 cordiality
