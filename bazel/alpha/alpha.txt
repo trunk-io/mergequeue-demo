@@ -7623,7 +7623,6 @@ antaiva
 alcyoniaceae
 anisil
 antimedication
-agariciform
 alcyonium
 ares
 alcippe
@@ -8588,6 +8587,7 @@ allantoxaidin
 actinouranium
 allegorised
 authoritative
+agariciform
 alphonsine
 anisogenous
 anthos
