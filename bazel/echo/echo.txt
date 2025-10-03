@@ -4972,7 +4972,6 @@ executant
 eumitotic
 epichindrotic
 equerry
-endings
 elapsing
 emplace
 elaeomargaric
@@ -7530,6 +7529,7 @@ executer
 ependyma
 emmenia
 endomysium
+endings
 evaluators
 electrocapillarity
 equivalently
