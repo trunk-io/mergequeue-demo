@@ -5908,7 +5908,6 @@ bretons
 butterbur
 bellwether
 bradmaker
-bellwort
 belock
 beloeilite
 basimesostasis
@@ -9772,6 +9771,7 @@ barleduc
 bacillus
 botticellian
 brichette
+bellwort
 bedridden
 breakages
 bigwiggism
