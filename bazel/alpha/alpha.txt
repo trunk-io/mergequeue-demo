@@ -5008,7 +5008,6 @@ alkylogen
 anile
 aerophyte
 assessory
-aerophobic
 asgmt
 antithermic
 arrode
@@ -24781,6 +24780,7 @@ antihumanism
 acidometry
 amphisbaenidae
 aggenerate
+aerophobic
 arithmetized
 ambling
 avifaunae
