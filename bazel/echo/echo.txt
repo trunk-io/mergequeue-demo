@@ -11205,7 +11205,6 @@ enforcers
 electropuncture
 evangelic
 evangelical
-evangelically
 erector
 eviler
 eelgrasses
@@ -11539,6 +11538,7 @@ evolute
 embrute
 embelin
 enlighten
+evangelically
 extensiveness
 evolutionism
 evolutionistic
