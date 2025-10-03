@@ -373,7 +373,6 @@ backfriend
 backgame
 backgammon
 barbarical
-barwares
 broke
 breaststroke
 background
@@ -8862,6 +8861,7 @@ balsamiferous
 braeface
 bittier
 bristle
+barwares
 bilimbi
 barrelhead
 binomially
