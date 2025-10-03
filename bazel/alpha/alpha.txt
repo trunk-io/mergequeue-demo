@@ -6000,7 +6000,6 @@ angor
 animalcular
 air
 arioso
-agility
 antemortal
 attorneyship
 asconia
@@ -22408,6 +22407,7 @@ astrobiological
 archaisms
 architricline
 autism
+agility
 antinicotine
 anteal
 autolysate
