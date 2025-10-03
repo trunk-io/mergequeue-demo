@@ -790,7 +790,6 @@ blake
 baffies
 bibliotist
 bacalao
-bangalow
 bafflement
 baklawa
 bonnetmen
@@ -5240,6 +5239,7 @@ befurred
 begabled
 bowla
 begad
+bangalow
 bedders
 boskopoid
 blanky
