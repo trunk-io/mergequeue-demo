@@ -3018,6 +3018,7 @@ cantrip
 cantus
 cantuta
 cantwise
+consommes
 canula
 canulas
 chthonophagy
@@ -23045,7 +23046,6 @@ calash
 convenable
 consomm
 consomme
-consommes
 consonance
 consonancy
 consonant
