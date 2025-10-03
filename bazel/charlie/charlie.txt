@@ -6961,7 +6961,6 @@ codable
 capitellar
 cenobies
 cenobites
-cenobitic
 caseworkers
 cenobitically
 cenobitism
@@ -21160,6 +21159,7 @@ crash
 conceders
 coenobite
 concedes
+cenobitic
 chao
 calchaquian
 crampfishes
