@@ -300,7 +300,6 @@ camote
 coreopsis
 cacimbo
 cacimbos
-caciques
 cosmolined
 countenances
 construers
@@ -27543,6 +27542,7 @@ covariate
 covariates
 covassal
 cove
+caciques
 coadunate
 courtzilite
 coved
