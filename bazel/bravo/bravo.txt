@@ -1683,7 +1683,6 @@ brachypyramid
 broon
 byline
 boutonniere
-belorussian
 baronial
 baloskion
 bulbels
@@ -17950,6 +17949,7 @@ bedot
 bronzelike
 bushwhacked
 bundlings
+belorussian
 bushwhackers
 banzai
 boheas
