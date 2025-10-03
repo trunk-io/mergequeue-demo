@@ -1922,7 +1922,6 @@ boardroom
 browns
 bronchoscopy
 brachydactyl
-byplace
 bulbous
 bombard
 beamless
@@ -8199,6 +8198,7 @@ bluebuck
 bown
 biethnic
 binds
+byplace
 baryes
 blemmyes
 baccar
