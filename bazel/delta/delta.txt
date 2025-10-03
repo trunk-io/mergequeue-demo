@@ -5599,7 +5599,6 @@ dependabilities
 donatistic
 dossmen
 dibber
-dustfall
 draftable
 depended
 dolichopellic
@@ -11571,6 +11570,7 @@ disconformities
 drupal
 disconjure
 doggiest
+dustfall
 disconnectedness
 diphtheroidal
 dermococcus
