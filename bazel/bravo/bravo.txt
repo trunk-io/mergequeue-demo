@@ -2044,6 +2044,7 @@ boatsmanship
 barreleye
 bouet
 bumbaste
+bistipular
 brine
 banksmen
 bucketed
@@ -14159,7 +14160,6 @@ brachiopoda
 baldy
 beltene
 brachiopode
-bistipular
 blot
 babbage
 bittock
