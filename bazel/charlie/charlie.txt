@@ -1948,7 +1948,6 @@ camerinidae
 camerist
 circummigrate
 campanero
-comp
 choliambist
 crampbit
 camerlingos
@@ -3470,6 +3469,7 @@ conceitedness
 capsulation
 congresswomen
 collegatary
+comp
 chainomatic
 chawbone
 capsulectomy
