@@ -1836,6 +1836,7 @@ barkinji
 bandfile
 bandfiled
 bandh
+backhanded
 burdon
 brownism
 brython
@@ -13589,7 +13590,6 @@ boisterousness
 brooch
 boudeuse
 becursing
-backhanded
 barnacled
 bibliophile
 bra
