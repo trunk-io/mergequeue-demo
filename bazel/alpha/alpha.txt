@@ -3223,6 +3223,7 @@ achingly
 approximants
 appoggiaturas
 acuclosure
+acerbity
 acuities
 antizymic
 archfire
@@ -11684,7 +11685,6 @@ alternize
 acoria
 assuror
 anaemotropy
-acerbity
 axumite
 annominate
 adorers
