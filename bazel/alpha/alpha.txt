@@ -4874,7 +4874,6 @@ aphanozygous
 arbitrating
 acetyltannin
 anticorrosives
-aerofoil
 aerofoils
 aurrescu
 adjourned
@@ -6403,6 +6402,7 @@ anisomeric
 abhorrer
 acerbas
 antignostical
+aerofoil
 amphibological
 ameliorant
 agujon
