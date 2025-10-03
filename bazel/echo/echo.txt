@@ -9052,7 +9052,6 @@ erythrocytoschisis
 erythrodermia
 embryogony
 ectasia
-epistropheus
 equivocations
 ecphractic
 educe
@@ -13339,6 +13338,7 @@ exported
 ethicist
 extortionately
 entireties
+epistropheus
 equiprobable
 enfonce
 excretive
