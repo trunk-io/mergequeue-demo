@@ -5386,7 +5386,6 @@ anticouncil
 antis
 actable
 afteract
-alexin
 appetitive
 aphizog
 afterlife
@@ -24512,6 +24511,7 @@ aldehol
 aesthophysiology
 araliad
 appeased
+alexin
 aposporic
 anhydrite
 alkalinization
