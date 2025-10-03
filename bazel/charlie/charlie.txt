@@ -9879,7 +9879,6 @@ choosy
 chemisorb
 coprophilic
 copperytailed
-chemistry
 chemists
 chawer
 chemitypy
@@ -18312,6 +18311,7 @@ coffeetime
 coffer
 corridor
 cofferdam
+chemistry
 claudetite
 chaetophorales
 cephalotome
