@@ -3688,7 +3688,6 @@ battlefronts
 bringall
 brucella
 barnstorms
-battler
 basocyte
 barrace
 blushiness
@@ -7974,6 +7973,7 @@ beebees
 bardier
 bifidity
 beauteousness
+battler
 bilineate
 bedlight
 berhyming
