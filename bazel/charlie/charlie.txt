@@ -125,7 +125,6 @@ cabinetworking
 cabinlike
 crafter
 cabio
-chemisorptive
 costotransverse
 cabiria
 cabirian
@@ -2292,6 +2291,7 @@ copalm
 cithrens
 carthaginian
 canaler
+chemisorptive
 chimeres
 caprone
 chylocyst
