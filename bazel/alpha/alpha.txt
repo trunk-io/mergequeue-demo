@@ -6731,7 +6731,6 @@ axometer
 arid
 activation
 afterbeat
-altars
 aircraftmen
 airedale
 aircraftsman
@@ -13575,6 +13574,7 @@ annular
 archdespot
 articulability
 amtmen
+altars
 arrays
 augmentative
 algy
