@@ -7016,6 +7016,7 @@ bactris
 billethead
 bankfull
 besmooth
+borderies
 besmooths
 bleeders
 bigoniac
@@ -15060,7 +15061,6 @@ benzdiazine
 begift
 barraters
 breedable
-borderies
 bendlet
 breeder
 breakneck

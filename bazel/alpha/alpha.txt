@@ -513,7 +513,6 @@ amphineurous
 abjurations
 axolemma
 amreetas
-abjurer
 abjurers
 alabarch
 addulce
@@ -13781,6 +13780,7 @@ aleph
 anophelinae
 airframes
 atlantic
+abjurer
 anaptyctic
 anophthalmos
 anopia
