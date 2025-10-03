@@ -9094,7 +9094,6 @@ alludes
 afterdecks
 auberges
 allumette
-acipenser
 accendibility
 afternight
 allurement
@@ -18024,6 +18023,7 @@ aright
 apronstring
 alanins
 adular
+acipenser
 amphigenetic
 anabaptistically
 argentiferous
