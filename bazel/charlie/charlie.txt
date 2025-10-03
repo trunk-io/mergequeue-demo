@@ -21369,7 +21369,6 @@ conchoids
 communicableness
 conchol
 conchometer
-conchospiral
 camerate
 cowboys
 conchostraca
@@ -29418,6 +29417,7 @@ cryptoscope
 cryptoscopy
 cryptosplenetic
 cryptostome
+conchospiral
 cryptous
 cryptovalence
 cholane
