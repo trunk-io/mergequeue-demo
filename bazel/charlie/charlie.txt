@@ -19012,7 +19012,6 @@ collation
 cesti
 collatitious
 collative
-ceste
 chickahominy
 catouse
 collator
@@ -20793,6 +20792,7 @@ complimentation
 crowds
 confute
 complimentative
+ceste
 cana
 complimenter
 complimentingly
