@@ -999,7 +999,6 @@ darius
 doubleprecision
 dark
 dinkeys
-deuterons
 darked
 dont
 darkeys
@@ -3926,6 +3925,7 @@ disp
 dyscrasite
 deerdog
 dewy
+deuterons
 damone
 deityship
 dinobryon
