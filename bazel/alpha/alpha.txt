@@ -5273,7 +5273,6 @@ affixes
 agraphia
 arenicolor
 atangle
-affixial
 anachorism
 armageddon
 agnathostomata
@@ -6159,6 +6158,7 @@ abhorrers
 ancipital
 aposepalous
 acalypha
+affixial
 avengers
 agon
 athetize
