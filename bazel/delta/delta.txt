@@ -1055,6 +1055,7 @@ diacodium
 directive
 dutra
 darner
+diaka
 devoiced
 decolours
 darners
@@ -8314,7 +8315,6 @@ diaclastic
 doryline
 disabused
 diaguite
-diaka
 dipteral
 despeed
 dapper
