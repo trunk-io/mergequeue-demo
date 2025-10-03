@@ -5479,6 +5479,7 @@ evaporite
 encourage
 etherlike
 enfeoffing
+earthquake
 episcopant
 euxenite
 enfeoffment
@@ -11216,7 +11217,6 @@ enamor
 enthronized
 evangelistic
 epidictical
-earthquake
 exundate
 ectad
 ectoloph
