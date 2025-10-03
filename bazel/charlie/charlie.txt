@@ -11908,7 +11908,6 @@ choristers
 calashes
 chorai
 choral
-choralcelo
 causeway
 chorale
 carmagnoles
@@ -30836,6 +30835,7 @@ crackerberries
 cullas
 carroty
 cytotechnology
+choralcelo
 cochleary
 conchologize
 cullers
