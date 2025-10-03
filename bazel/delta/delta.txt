@@ -6001,7 +6001,6 @@ depeculate
 demihague
 directexamination
 deprogrammings
-deprograms
 dropforged
 deprome
 demisphere
@@ -15069,6 +15068,7 @@ doggonest
 doggoning
 detant
 dislady
+deprograms
 difunctional
 doggrel
 dogget
