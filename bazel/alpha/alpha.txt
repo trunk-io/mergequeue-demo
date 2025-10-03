@@ -15077,7 +15077,6 @@ antidrug
 anemotropic
 applied
 antiecclesiastic
-axofugal
 arbuscula
 administrator
 advential
@@ -15359,6 +15358,7 @@ antilysis
 aphroditous
 anther
 antilitter
+axofugal
 amla
 affixt
 antiliturgist
