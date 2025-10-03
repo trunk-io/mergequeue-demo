@@ -4146,7 +4146,6 @@ capette
 chloanthite
 calthrop
 cardiopulmonary
-cardiorenal
 cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
@@ -10503,6 +10502,7 @@ chalazogamic
 childridden
 chloropsia
 childship
+cardiorenal
 childwife
 canities
 childwite
