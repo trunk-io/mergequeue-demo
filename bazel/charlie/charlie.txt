@@ -11044,7 +11044,6 @@ chirt
 chirurgeon
 crimean
 chirurgeonly
-cavern
 chirurgery
 chis
 chiseled
@@ -28919,6 +28918,7 @@ cutwal
 calendarer
 canular
 crewman
+cavern
 crewmanship
 crewmen
 circumrotated
