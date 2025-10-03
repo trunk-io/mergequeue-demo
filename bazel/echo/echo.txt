@@ -1096,7 +1096,6 @@ epimerize
 elliptic
 edificed
 enlightens
-edified
 essayish
 edifying
 egolatrous
@@ -10168,6 +10167,7 @@ elodeaceae
 emerant
 eunuchoid
 empestic
+edified
 esteemer
 ethnographist
 etherifies
