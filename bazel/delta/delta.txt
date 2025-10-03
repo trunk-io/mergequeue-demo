@@ -4679,7 +4679,6 @@ demonastery
 diddle
 depose
 dinic
-demisang
 demisangue
 douzaines
 dereliction
@@ -11708,6 +11707,7 @@ diapauses
 disprobabilization
 dashy
 discourteousness
+demisang
 discoach
 discoverable
 distilland
