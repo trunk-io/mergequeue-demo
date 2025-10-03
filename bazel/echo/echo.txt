@@ -1726,7 +1726,6 @@ epanorthoses
 electric
 eer
 everard
-expertize
 extg
 episiotomy
 embattle
@@ -11174,6 +11173,7 @@ exocrinology
 enkindling
 enthronised
 elohism
+expertize
 encomimiums
 entosterna
 eradiated
