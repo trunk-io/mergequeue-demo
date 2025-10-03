@@ -4782,7 +4782,6 @@ carport
 carpos
 chibouk
 carposporangial
-catalase
 carlist
 carposporous
 carps
@@ -21433,6 +21432,7 @@ concluder
 cymbium
 concluders
 concludes
+catalase
 caulome
 correa
 cicadidae
