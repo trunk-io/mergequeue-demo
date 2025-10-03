@@ -919,6 +919,7 @@ bogey
 bagwyn
 bustier
 baker
+bakeshop
 brumby
 bahadur
 beverage
@@ -1186,7 +1187,6 @@ buttinskies
 bakersfield
 bringing
 bakes
-bakeshop
 brevicomis
 bakie
 bicirrose
