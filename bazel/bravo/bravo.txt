@@ -2331,7 +2331,6 @@ belligerency
 bachelorlike
 barbula
 barbulate
-barbulyie
 barbwire
 barbwires
 burseraceae
@@ -10251,6 +10250,7 @@ boolean
 bedsonia
 biofeedback
 bedaggle
+barbulyie
 bellweather
 bulldogs
 biborate
