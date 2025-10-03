@@ -3792,7 +3792,6 @@ emerald
 elasticities
 emerge
 ecart
-emerged
 edulcorated
 echinostomiasis
 emergentness
@@ -11884,6 +11883,7 @@ emissivity
 exceptless
 emends
 eightfoil
+emerged
 eulerian
 expectation
 ectoderms
