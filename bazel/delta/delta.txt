@@ -8197,7 +8197,6 @@ deprecate
 disload
 dewer
 drapeability
-druidism
 didodecahedral
 digitalism
 desertful
@@ -16479,6 +16478,7 @@ drabbling
 doubler
 drabler
 dublin
+druidism
 dandifies
 drably
 defrosting
