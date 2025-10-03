@@ -4978,7 +4978,6 @@ cartloads
 clicket
 cartmaking
 cartobibliography
-columbia
 cartogram
 comminate
 cartography
@@ -18883,6 +18882,7 @@ coleslaw
 commend
 colessor
 colessors
+columbia
 conventionalization
 compliers
 compiles
