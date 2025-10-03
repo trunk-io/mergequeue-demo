@@ -7620,6 +7620,7 @@ dribber
 deutschland
 deutzia
 deuzan
+dispost
 discernible
 drou
 doublewidth
@@ -10506,7 +10507,6 @@ diphthongally
 dipneust
 dispersant
 dismortgaged
-dispost
 diphthongation
 diminutely
 dendrodra
