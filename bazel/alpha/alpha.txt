@@ -11223,6 +11223,7 @@ allthing
 alembicate
 artworks
 annual
+anchory
 atchison
 ahem
 amphimictic
@@ -17580,7 +17581,6 @@ avirulent
 appellatived
 appellativeness
 aristotelianism
-anchory
 androsterone
 apology
 arriccioci
