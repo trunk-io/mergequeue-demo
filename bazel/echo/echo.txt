@@ -1260,6 +1260,7 @@ escaloping
 eneugh
 eelworm
 een
+entranceway
 extraditable
 ecorche
 eblis
@@ -4764,7 +4765,6 @@ eventides
 encolour
 encolpia
 equilibrator
-entranceway
 entypies
 enduro
 epidosite
