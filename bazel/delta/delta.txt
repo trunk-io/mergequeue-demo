@@ -3328,7 +3328,6 @@ dolabre
 decigram
 definish
 decapitalization
-definite
 definitely
 distrait
 definiteness
@@ -17671,6 +17670,7 @@ dualogue
 disparaged
 duodecimal
 demagnetising
+definite
 dense
 disgradulate
 duan
