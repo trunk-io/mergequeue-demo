@@ -7214,7 +7214,6 @@ exsector
 echoless
 electrocatalytic
 epidemiology
-energetics
 ensealed
 exposit
 eonism
@@ -8610,6 +8609,7 @@ elfishness
 equipages
 etherialism
 expositions
+energetics
 equiparation
 epipoditic
 eggcrate
