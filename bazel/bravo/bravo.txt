@@ -3691,7 +3691,6 @@ battement
 balladising
 batteners
 bankrupted
-batterdock
 bearcat
 bucketmaker
 battered
@@ -18346,6 +18345,7 @@ butts
 boggy
 bolita
 bucellas
+batterdock
 bensail
 bibasic
 braw
