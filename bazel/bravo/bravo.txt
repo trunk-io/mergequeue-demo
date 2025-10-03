@@ -7158,6 +7158,7 @@ booties
 backstick
 backsets
 brashest
+biquadratic
 bespray
 ballute
 bespreng
@@ -11193,7 +11194,6 @@ bryologist
 bushgoat
 bugfish
 bombardman
-biquadratic
 bloodworthy
 belched
 blearily
