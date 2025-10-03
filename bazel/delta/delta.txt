@@ -4548,7 +4548,6 @@ dosimetric
 demifigure
 decentres
 disinflated
-detroiter
 demigauntlet
 doting
 decussis
@@ -10872,6 +10871,7 @@ displays
 depthen
 dirged
 dirgelike
+detroiter
 dirgeman
 debts
 dirgy
