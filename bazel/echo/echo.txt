@@ -1545,7 +1545,6 @@ ensconces
 erosible
 egypt
 extraversion
-encampment
 epinasty
 envigor
 exsuscitate
@@ -8363,6 +8362,7 @@ entertain
 elroquite
 epitrope
 exclusionism
+encampment
 epivalve
 equerries
 eardrum
