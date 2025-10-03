@@ -2448,7 +2448,6 @@ ellipsoids
 eurythmical
 enstatite
 electrogasdynamics
-electroharmonic
 empanelment
 electrohemostasis
 endearing
@@ -13532,6 +13531,7 @@ evildoer
 exserted
 empanoply
 embroidery
+electroharmonic
 eateries
 exsibilation
 evadable
