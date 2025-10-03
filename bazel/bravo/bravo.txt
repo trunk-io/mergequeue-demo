@@ -4956,7 +4956,6 @@ balls
 barmier
 boulles
 bactritoid
-bonaveria
 boltless
 bolases
 blackstrap
@@ -13886,6 +13885,7 @@ bulbuls
 bemuddy
 brephic
 bowelling
+bonaveria
 beforetimes
 bower
 bowerbird
