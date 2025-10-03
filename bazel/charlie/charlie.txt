@@ -1282,7 +1282,6 @@ coteaux
 compulsatory
 calibers
 colunar
-calibrated
 calibrater
 calibrates
 cloison
@@ -11581,6 +11580,7 @@ cobbiest
 cholangiography
 creepmousy
 cholanic
+calibrated
 commercialization
 cubism
 caschielawis
