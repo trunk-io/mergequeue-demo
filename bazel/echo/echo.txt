@@ -7061,7 +7061,6 @@ ethine
 earbob
 evejar
 estivage
-equiprobability
 enchainments
 epiplankton
 evadible
@@ -7266,6 +7265,7 @@ excheat
 encharnel
 emigres
 eristics
+equiprobability
 etherealize
 exanimate
 emulous
