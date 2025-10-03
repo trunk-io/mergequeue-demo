@@ -4084,7 +4084,6 @@ beansetter
 beanshooter
 beanstalk
 begrain
-boehmenist
 bakalai
 bestiaries
 bombinating
@@ -4113,6 +4112,7 @@ bearding
 beslimer
 beards
 birthroot
+boehmenist
 bastardly
 bombazette
 bedrenched
