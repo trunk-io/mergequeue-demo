@@ -3679,7 +3679,6 @@ balearian
 bedboard
 baste
 bucketful
-bally
 belfather
 batteaux
 bonnering
@@ -4392,6 +4391,7 @@ beldam
 bunyip
 byworks
 backswing
+bally
 brise
 bonairness
 brolly
