@@ -4299,7 +4299,6 @@ battledore
 bacterious
 bebreech
 backcourtman
-bebrother
 blouselike
 blastomycete
 bebrush
@@ -15909,6 +15908,7 @@ brominate
 bene
 barbarism
 bromination
+bebrother
 broadband
 beswim
 buzzbomb
