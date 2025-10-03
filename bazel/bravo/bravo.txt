@@ -6342,7 +6342,6 @@ badgerbrush
 benzamine
 biblic
 billbroking
-barrer
 brike
 benzanthracene
 boxboard
@@ -13843,6 +13842,7 @@ beatas
 brontide
 byelaws
 brachydactyly
+barrer
 bother
 bait
 bowback
