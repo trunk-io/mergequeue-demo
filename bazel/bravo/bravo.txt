@@ -1816,7 +1816,6 @@ bindings
 brigading
 banders
 broadlings
-befogging
 barkinji
 bandfile
 bandfiled
@@ -8748,6 +8747,7 @@ backslashes
 bleacheries
 bimillionaire
 bigential
+befogging
 breastbone
 buoyancies
 battish
