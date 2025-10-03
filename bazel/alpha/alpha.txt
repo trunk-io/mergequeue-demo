@@ -5495,7 +5495,6 @@ anemogram
 alumna
 allomerism
 artistic
-aftershaft
 arefaction
 aftershafted
 ablate
@@ -14074,6 +14073,7 @@ altazimuth
 antiprism
 autocatalytic
 antechoirs
+aftershaft
 appropriament
 airplaned
 abditive
