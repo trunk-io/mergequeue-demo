@@ -3612,7 +3612,6 @@ defs
 drivehead
 degenerate
 desulphurizer
-diagrammatize
 dicta
 diodont
 docosane
@@ -8082,6 +8081,7 @@ devilment
 daftardar
 dhyana
 declivate
+diagrammatize
 dhobee
 dhoby
 dhobie
