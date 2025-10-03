@@ -4339,7 +4339,6 @@ assertions
 allocryptic
 adsorbable
 acnodal
-adsorbed
 amianthine
 angareb
 adsorbent
@@ -11049,6 +11048,7 @@ ampelograpny
 airframe
 ampelopsidin
 amiloun
+adsorbed
 aggression
 abirritative
 ampelopsis
