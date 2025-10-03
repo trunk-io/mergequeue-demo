@@ -5923,7 +5923,6 @@ depreciate
 deponents
 despots
 drago
-depreciation
 depreciative
 deoxygenization
 dryopians
@@ -7308,6 +7307,7 @@ disarrest
 deteriorating
 deterioration
 data
+depreciation
 duikerbuck
 dear
 diamondlike
