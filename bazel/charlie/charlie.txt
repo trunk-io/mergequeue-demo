@@ -4130,7 +4130,6 @@ cariogenic
 cardiologist
 cardiologists
 cardiomegaly
-cyclus
 creature
 cardiomelanosis
 cobras
@@ -4318,6 +4317,7 @@ carcinology
 cattleya
 caricatura
 caricatural
+cyclus
 caricature
 chud
 caricaturing
