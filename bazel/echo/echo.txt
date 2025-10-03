@@ -1102,6 +1102,7 @@ eikons
 esthetics
 environage
 endere
+egest
 editorialization
 elsa
 ecphory
@@ -13704,7 +13705,6 @@ externs
 exhaustedness
 extrapoetical
 elocular
-egest
 eliciting
 embryologically
 elementarity
