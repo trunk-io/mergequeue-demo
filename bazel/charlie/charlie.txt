@@ -3619,6 +3619,7 @@ circle
 caraboid
 carabus
 caracara
+coprosterol
 carack
 caracks
 caracoa
@@ -10360,7 +10361,6 @@ chickenwort
 chicker
 chickhood
 coveting
-coprosterol
 coheir
 chickories
 chickpea
