@@ -123,7 +123,6 @@ chordophone
 clitelline
 cpt
 cabinetworker
-cabinetworking
 cabinlike
 crafter
 cabio
@@ -3833,6 +3832,7 @@ ceratite
 carbonarist
 carbonatation
 carbonating
+cabinetworking
 carbonation
 copywriter
 codfishes
