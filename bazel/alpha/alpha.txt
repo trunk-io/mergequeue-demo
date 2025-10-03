@@ -5276,6 +5276,7 @@ affixes
 agraphia
 arenicolor
 acoelomous
+atangle
 affixial
 anachorism
 armageddon
@@ -17528,7 +17529,6 @@ appeachment
 alteregoism
 appealable
 adullam
-atangle
 apaesthetic
 appealingly
 asynchronous
