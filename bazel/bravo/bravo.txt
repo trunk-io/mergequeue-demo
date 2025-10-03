@@ -1834,7 +1834,6 @@ burdon
 brownism
 brython
 birken
-bandhook
 balladromic
 bandicoy
 bonzes
@@ -15791,6 +15790,7 @@ backhandedly
 besonio
 bimester
 broigne
+bandhook
 blueprinting
 bunds
 broiled
