@@ -9843,6 +9843,7 @@ dejectile
 diapaused
 discanonize
 debcle
+digestor
 disrupture
 dillymen
 doorstops
@@ -15775,7 +15776,6 @@ dicht
 drubbly
 dicyanine
 dogshore
-digestor
 dorm
 donec
 dialyzation
