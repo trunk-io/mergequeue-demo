@@ -3729,6 +3729,7 @@ alactaga
 anaesthetics
 adhesive
 ananke
+abjuration
 astrogeny
 apposes
 antifriction
@@ -18557,7 +18558,6 @@ automats
 alethiology
 antisepsis
 asarums
-abjuration
 aircoach
 archaeographic
 accuse
