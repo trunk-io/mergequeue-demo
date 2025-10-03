@@ -2740,7 +2740,6 @@ devonshire
 dictates
 dissembling
 decore
-dewcup
 decorist
 dragged
 demilancer
@@ -9151,6 +9150,7 @@ disweapon
 disinclines
 derisory
 doffs
+dewcup
 detriment
 disdiaclasis
 disgracement
