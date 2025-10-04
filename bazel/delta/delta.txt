@@ -3042,7 +3042,6 @@ deers
 deerstalkers
 detailist
 deerstalking
-deerweed
 deerweeds
 dollyway
 deescalate
@@ -17655,6 +17654,7 @@ definite
 dense
 disgradulate
 duan
+deerweed
 drenching
 diecase
 dorje
