@@ -1855,7 +1855,6 @@ cartonnage
 cirrocumulus
 cambricleaf
 colobus
-curs
 clerk
 cambridge
 catostomidae
@@ -8140,6 +8139,7 @@ chainless
 counteractions
 crosscheck
 coronographic
+curs
 craspedon
 chainlike
 confrontal
