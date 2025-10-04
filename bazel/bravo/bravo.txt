@@ -5496,7 +5496,6 @@ bobol
 bindi
 boxed
 baconian
-bardic
 beelines
 breastmark
 bullule
@@ -6365,6 +6364,7 @@ blowspray
 bridgewater
 belite
 barani
+bardic
 benzidino
 blackbirding
 birdwise
