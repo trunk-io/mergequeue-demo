@@ -7110,7 +7110,6 @@ equestrians
 enwheels
 elemis
 entomoid
-equine
 embden
 enwing
 educationese
@@ -13300,6 +13299,7 @@ exorganic
 encephalodialysis
 educts
 epergnes
+equine
 explosimeter
 exembryonate
 englishmen
