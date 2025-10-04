@@ -9274,6 +9274,7 @@ chatoyant
 cavern
 carpophyll
 chatons
+conveyer
 cytogenesis
 cassons
 convincedly
@@ -24009,7 +24010,6 @@ cornemuse
 chrisroot
 convey
 coonskins
-conveyer
 conveying
 complicitous
 consequences
