@@ -938,6 +938,7 @@ allelotropy
 ancestries
 actinopoda
 algific
+ancestor
 adulterately
 antimystically
 amoks
@@ -5720,7 +5721,6 @@ anathematisation
 awacs
 antigravitational
 aphonias
-ancestor
 amniatic
 amyloses
 agata
