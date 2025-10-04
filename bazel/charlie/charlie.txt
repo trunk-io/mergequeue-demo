@@ -9124,7 +9124,6 @@ charter
 charterer
 contemplations
 charterers
-curricula
 costumist
 charterhouse
 chartering
@@ -11369,6 +11368,7 @@ chlorometer
 chloromethane
 chlorometry
 categorem
+curricula
 chamfrons
 coopted
 chloromycetin
