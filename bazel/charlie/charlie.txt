@@ -7509,7 +7509,6 @@ cheliceral
 ceratotheca
 cypridinidae
 clothbound
-clergyman
 ceraunoscopy
 cyathophyllidae
 cerberus
@@ -30247,6 +30246,7 @@ cruellest
 cruelly
 cruelness
 cruels
+clergyman
 communbus
 cruent
 colmar
