@@ -8111,7 +8111,6 @@ coracosteon
 continent
 carcer
 chaffron
-clavicornia
 coner
 chaffs
 condoled
@@ -19937,6 +19936,7 @@ chaussee
 comically
 critical
 comicalness
+clavicornia
 cubited
 comices
 colnaria
