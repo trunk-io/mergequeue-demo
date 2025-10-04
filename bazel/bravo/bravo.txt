@@ -2003,7 +2003,6 @@ banknote
 bristly
 biophysicist
 banknotes
-bethroot
 brasserie
 boomster
 brandsolder
@@ -16451,6 +16450,7 @@ butt
 bladesmith
 betrace
 bioassayed
+bethroot
 balletomanes
 botas
 bemocked
