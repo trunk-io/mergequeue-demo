@@ -954,7 +954,6 @@ eponymic
 edits
 enterococcus
 extremism
-eastwards
 esoterics
 exhumes
 expanse
@@ -11853,6 +11852,7 @@ emissivity
 exceptless
 emends
 eightfoil
+eastwards
 emerged
 endothecial
 eulerian
