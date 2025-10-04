@@ -142,7 +142,6 @@ drawbench
 detribalization
 draughtmanship
 deviascope
-dekko
 dignation
 dinar
 daddles
@@ -16595,6 +16594,7 @@ dissent
 diastrophy
 decorates
 dragonish
+dekko
 dragonize
 drunkeness
 dilutant
