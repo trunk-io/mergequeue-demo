@@ -571,7 +571,6 @@ bacon
 baubee
 babbly
 balisaur
-baconian
 bishopric
 breaths
 bistro
@@ -5478,6 +5477,7 @@ brouze
 bobol
 bindi
 boxed
+baconian
 bardic
 beelines
 breastmark
