@@ -8244,7 +8244,6 @@ caird
 chalcidoid
 conocarp
 chalcocite
-christianomastix
 chalcogen
 chalcogenide
 coenaculum
@@ -29471,6 +29470,7 @@ crispness
 cowwheat
 crisps
 companionway
+christianomastix
 criss
 clagging
 crissal
