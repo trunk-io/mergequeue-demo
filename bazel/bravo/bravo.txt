@@ -13558,6 +13558,7 @@ boondoggle
 besplatter
 botulisms
 brief
+bnf
 briards
 bilgiest
 brodequin
@@ -14264,7 +14265,6 @@ belamour
 biomechanics
 bradyphrasia
 bradyphrenia
-bnf
 bradypnea
 bloodtest
 bonally
