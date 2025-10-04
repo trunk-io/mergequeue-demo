@@ -7604,7 +7604,6 @@ cerebrocardiac
 chairman
 cerebroganglionic
 cerebroid
-cirrhosed
 cerebromeningitis
 celiopyosis
 cholinolytic
@@ -23754,6 +23753,7 @@ cypraea
 couxio
 celeomorphae
 contradistinct
+cirrhosed
 contradistinctions
 contradistinctive
 coharmoniously
