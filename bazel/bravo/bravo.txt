@@ -12007,7 +12007,6 @@ b
 bbls
 brothelry
 bostons
-bogymen
 bogland
 budgerigah
 belauder
@@ -15024,6 +15023,7 @@ bakerite
 breathes
 barbarisms
 bandeau
+bogymen
 boarstaff
 breathiness
 breathingly
