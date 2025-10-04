@@ -2587,6 +2587,7 @@ buttonhook
 bravery
 beduchess
 bescoundrel
+bowerlike
 bantamweight
 basicity
 birdhouses
@@ -12458,7 +12459,6 @@ bonav
 banquette
 bests
 bonbo
-bowerlike
 bi
 bakeout
 birthing
