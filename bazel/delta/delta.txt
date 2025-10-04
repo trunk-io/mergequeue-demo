@@ -9434,6 +9434,7 @@ djinni
 duplicator
 diffusers
 disenthralment
+diplomacy
 diffuses
 duckish
 decolorized
@@ -11138,7 +11139,6 @@ disattaint
 disattune
 dumose
 defiling
-diplomacy
 dysautonomia
 disavail
 drivelingly
