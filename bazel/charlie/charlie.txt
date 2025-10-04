@@ -6819,7 +6819,6 @@ cellblock
 celled
 centennium
 cellepore
-cellfalcicula
 cyprians
 concaveness
 celliform
@@ -31147,6 +31146,7 @@ cupboards
 cupcakes
 cupel
 clinometria
+cellfalcicula
 cupeller
 cupellers
 cupflower
