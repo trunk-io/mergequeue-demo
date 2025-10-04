@@ -2241,6 +2241,7 @@ electrizable
 electrization
 excavated
 epicotyl
+economite
 encrypting
 eclipses
 embrasured
@@ -3655,7 +3656,6 @@ efflower
 endiaper
 erugation
 electroendosmotic
-economite
 eyelast
 eolipile
 eulogizing
