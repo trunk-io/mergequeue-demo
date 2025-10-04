@@ -4983,7 +4983,6 @@ exemplum
 editorialized
 epos
 endoaortitis
-endoappendicitis
 economization
 elan
 endoauscultation
@@ -11179,6 +11178,7 @@ ecole
 enforcers
 electropuncture
 evangelical
+endoappendicitis
 erector
 eviler
 estocs
