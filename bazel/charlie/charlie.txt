@@ -25076,7 +25076,6 @@ cordon
 cordonazos
 consarn
 chlorargyrite
-cleading
 cordoned
 cordoning
 chere
@@ -30923,6 +30922,7 @@ cultivator
 consent
 cultive
 churchmanly
+cleading
 cultrate
 cultrated
 cultriform
