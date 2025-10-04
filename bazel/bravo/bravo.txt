@@ -3919,6 +3919,7 @@ becrawl
 beaconless
 bicycles
 beslur
+brocade
 believer
 beacons
 buoyancy
@@ -17828,7 +17829,6 @@ bursch
 bianisidine
 becompass
 belord
-brocade
 brachistocephalous
 blushless
 backbit
