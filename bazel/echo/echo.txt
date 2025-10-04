@@ -3295,7 +3295,6 @@ enregistration
 enharbor
 egal
 ellipsometry
-explorator
 excursioner
 expatiator
 envelopes
@@ -9741,6 +9740,7 @@ embolemia
 equalisation
 extrapolar
 extracellular
+explorator
 essoinment
 essorant
 endarterial
