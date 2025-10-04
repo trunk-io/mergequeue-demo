@@ -2502,7 +2502,6 @@ disslander
 dulls
 dishonourary
 dryest
-declaim
 dichorisandra
 dresser
 declaimer
@@ -7772,6 +7771,7 @@ dibblers
 delative
 diverged
 devilkins
+declaim
 doubling
 discanonization
 dichroous
