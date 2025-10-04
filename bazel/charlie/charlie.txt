@@ -2527,7 +2527,6 @@ candlesticks
 cogniser
 candlewaster
 cambial
-crocoisite
 coyan
 cordwoods
 codlins
@@ -9251,6 +9250,7 @@ chateaus
 chateaux
 chatelain
 cordmaker
+crocoisite
 chatelaines
 chemotherapists
 conceive
