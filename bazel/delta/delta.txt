@@ -1080,6 +1080,7 @@ dedecorate
 diaschistic
 dummy
 defuses
+defender
 dartling
 decanoyl
 downpour
@@ -13327,7 +13328,6 @@ diactinal
 dariole
 disembalm
 disfen
-defender
 deft
 disputation
 disconnected
