@@ -2784,7 +2784,6 @@ biquadrate
 bionomical
 barotaxy
 bld
-bacteriodiagnosis
 bitis
 ballgowns
 bulkiest
@@ -4556,6 +4555,7 @@ bedcovers
 barbarian
 blader
 blindingly
+bacteriodiagnosis
 bolognan
 boanerges
 bouts
