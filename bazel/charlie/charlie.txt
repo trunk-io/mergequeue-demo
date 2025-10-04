@@ -3219,7 +3219,6 @@ capitle
 cerebrum
 compenetrate
 corns
-capito
 capitol
 clingier
 crayfishing
@@ -24291,6 +24290,7 @@ const
 cerebritis
 crescendi
 chirographer
+capito
 confessing
 cashew
 chaka
