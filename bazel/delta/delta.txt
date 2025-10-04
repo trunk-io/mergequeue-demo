@@ -1784,6 +1784,7 @@ dilation
 desmoscolex
 debark
 dropseed
+detaches
 debarking
 digamist
 discede
@@ -7232,7 +7233,6 @@ detaching
 diaphorase
 diemaking
 dotting
-detaches
 dicast
 demijohns
 demulsifying
