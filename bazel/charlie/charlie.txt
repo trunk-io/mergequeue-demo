@@ -3913,7 +3913,6 @@ cytoid
 carburettor
 carburised
 carlylism
-carburiser
 cerulescent
 carburizer
 carburizes
@@ -16264,6 +16263,7 @@ clinkered
 computatively
 clinkerer
 clinkery
+carburiser
 clinkering
 clinking
 chields
