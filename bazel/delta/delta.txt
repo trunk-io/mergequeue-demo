@@ -313,6 +313,7 @@ directories
 daybeacon
 dealbate
 daybed
+decriminalized
 desalinized
 devchar
 dhurnas
@@ -5848,7 +5849,6 @@ decaliter
 dynamization
 deportability
 deportations
-decriminalized
 dissipatedly
 diaxial
 distalwards
