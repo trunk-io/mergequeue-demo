@@ -444,7 +444,6 @@ daunder
 dayrooms
 deities
 dodrantal
-dhourra
 doblas
 dairous
 dairt
@@ -13798,6 +13797,7 @@ duhat
 dignifies
 dissunder
 deflexible
+dhourra
 deerskin
 dialogistically
 demurral
