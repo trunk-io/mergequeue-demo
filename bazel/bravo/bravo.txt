@@ -6526,7 +6526,6 @@ bruges
 blooping
 biokinetics
 bootlegged
-boson
 bartramiaceae
 bactericidin
 buckeyes
@@ -11400,6 +11399,7 @@ bandits
 bluebottle
 bingies
 badinaged
+boson
 build
 belonoid
 bylina
