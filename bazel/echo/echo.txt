@@ -3802,7 +3802,6 @@ eternal
 entomotomy
 electrotonus
 extraboldface
-evendown
 extollingly
 exterminating
 eminent
@@ -6880,6 +6879,7 @@ entoprocta
 entoptic
 entoptically
 entoptics
+evendown
 enjoyableness
 entosternal
 epiceratodus
