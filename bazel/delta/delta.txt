@@ -11775,7 +11775,6 @@ debellate
 denaturing
 deoxidising
 discrested
-disjunctions
 default
 dined
 dermutation
@@ -16366,6 +16365,7 @@ downstrokes
 downtake
 desiatin
 duodecane
+disjunctions
 dewret
 downthrown
 delayage
