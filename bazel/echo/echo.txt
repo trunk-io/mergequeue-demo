@@ -4275,7 +4275,6 @@ elixed
 embrasure
 euglenas
 enantiomorph
-effecters
 equinovarus
 electrolyzer
 encephalosclerosis
@@ -12677,6 +12676,7 @@ era
 earcockle
 energizing
 epitomator
+effecters
 explainable
 exophasic
 exophthalmia
