@@ -8205,7 +8205,6 @@ bhava
 byeworkman
 besqueeze
 bifaces
-bifacial
 bifara
 bedress
 bergmannite
@@ -11722,6 +11721,7 @@ bobbins
 bobbish
 bais
 bobcats
+bifacial
 binmen
 beboss
 bardolatry
