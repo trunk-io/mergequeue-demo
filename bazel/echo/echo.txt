@@ -7169,6 +7169,7 @@ excentricity
 ensues
 erythropoietic
 electrotropic
+epichoric
 ephemeromorphic
 exudate
 enthronize
@@ -11339,7 +11340,6 @@ eventlessly
 empennages
 ergamine
 eyebree
-epichoric
 embroiler
 ethonomics
 erpetoichthys
