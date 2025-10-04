@@ -1146,7 +1146,6 @@ bullshots
 boxer
 bajocco
 byes
-bimotored
 bajra
 beltmen
 bajree
@@ -6729,6 +6728,7 @@ bayesian
 berlin
 brechan
 browsability
+bimotored
 bismuthine
 broomstaff
 blitter
