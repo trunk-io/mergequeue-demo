@@ -5269,7 +5269,6 @@ cassiterite
 ccws
 cassius
 cleanser
-cassocked
 cultures
 charioteers
 cassocks
@@ -31217,6 +31216,7 @@ cupula
 cupulae
 cupular
 carlines
+cassocked
 cupulate
 crosslets
 cupule
