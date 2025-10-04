@@ -4394,7 +4394,6 @@ courthouses
 cariri
 caririan
 commoner
-choke
 carisa
 cabilliau
 concertina
@@ -21040,6 +21039,7 @@ cabretta
 cannelured
 compulsatorily
 compulsed
+choke
 calciphobe
 culex
 corolline
