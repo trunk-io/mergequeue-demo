@@ -8951,7 +8951,6 @@ combmaker
 charge
 chargeable
 ciphertext
-colorism
 collective
 clements
 chargeably
@@ -9285,6 +9284,7 @@ cryonic
 carol
 cocceianism
 chatterboxes
+colorism
 chattered
 chincapin
 chatterers
