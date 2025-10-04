@@ -8490,6 +8490,7 @@ chamfering
 characterstring
 champaka
 conducts
+collophore
 chancellors
 clubridden
 champaks
@@ -12563,7 +12564,6 @@ chromosomally
 celoscope
 condensate
 cornercap
-collophore
 chromospheric
 colytic
 committitur
