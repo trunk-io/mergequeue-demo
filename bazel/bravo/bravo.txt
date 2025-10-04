@@ -7229,7 +7229,6 @@ bestiary
 backdating
 byelorussia
 bur
-bestiarian
 bestiarist
 bestirs
 bestock
@@ -7979,6 +7978,7 @@ borborygmi
 bodymaker
 billing
 barothermogram
+bestiarian
 bibulousness
 bicameralism
 boatsteerer
