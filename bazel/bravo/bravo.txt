@@ -1909,7 +1909,6 @@ balances
 bandstring
 bathymetric
 brandishes
-bosquets
 baahling
 beeway
 benchwarmer
@@ -10853,6 +10852,7 @@ bonism
 blew
 bodilessness
 blick
+bosquets
 batekes
 bongrace
 biolith
