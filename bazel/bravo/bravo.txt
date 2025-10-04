@@ -4268,6 +4268,7 @@ bushbodies
 batiker
 boebera
 barly
+bandolier
 becalm
 bathmotropic
 becalming
@@ -7556,7 +7557,6 @@ bunnell
 belimousined
 bewailing
 beguilingly
-bandolier
 beloam
 begirding
 bewary
