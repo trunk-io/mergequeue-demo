@@ -9530,6 +9530,7 @@ cacochymia
 checkless
 checklist
 consuming
+congrue
 checkman
 congruencies
 checkmate
@@ -28856,7 +28857,6 @@ crest
 cele
 confiserie
 clinostat
-congrue
 crestal
 crestline
 chasings
