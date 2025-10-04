@@ -25610,7 +25610,6 @@ corpora
 coign
 corporacy
 corporacies
-calcic
 corporalcy
 corporale
 corporalism
@@ -26576,6 +26575,7 @@ culicids
 cymbaled
 chemosis
 clingers
+calcic
 counterpuncher
 conjecturable
 cheverons
