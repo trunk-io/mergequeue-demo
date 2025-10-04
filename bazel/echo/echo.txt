@@ -9664,7 +9664,6 @@ enterorrhexis
 esq
 esquires
 existence
-evacue
 euselachii
 esquisse
 exship
@@ -12053,6 +12052,7 @@ emblazonry
 extollingly
 erepsin
 exploit
+evacue
 editress
 eartag
 electromagnet
