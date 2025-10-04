@@ -447,7 +447,6 @@ eucommia
 ecclesiarch
 ecclesiarchy
 emcee
-extoll
 ecclesiast
 encephalomata
 extratellurian
@@ -13698,6 +13697,7 @@ enfasten
 epiplasm
 equiaxe
 expressman
+extoll
 exhalable
 ergocalciferol
 externs
