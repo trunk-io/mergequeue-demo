@@ -15642,7 +15642,6 @@ chaldaei
 creat
 churners
 classifying
-citigrade
 clues
 classists
 classmanship
@@ -22444,6 +22443,7 @@ champlainic
 conidioid
 conidiophorous
 conidiospore
+citigrade
 copy
 conidium
 conifer
