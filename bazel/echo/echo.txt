@@ -4345,7 +4345,6 @@ extispices
 enthymeme
 e
 espacement
-encaptive
 entomion
 eperua
 exhilarative
@@ -9226,6 +9225,7 @@ erotomaniacal
 erotopath
 erythrozyme
 entozoan
+encaptive
 enweaved
 entrant
 extirpate
