@@ -9573,7 +9573,6 @@ checkweighmen
 closeted
 checkwork
 cosmologist
-checkwriter
 concurrence
 cascading
 cheddar
@@ -23930,6 +23929,7 @@ channelwards
 contubernial
 contumacy
 ciceronic
+checkwriter
 contumacious
 chipyard
 cantel
