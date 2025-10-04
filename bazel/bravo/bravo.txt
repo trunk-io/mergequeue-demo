@@ -2340,7 +2340,6 @@ barcoo
 bemoisten
 besplash
 bardcraft
-brahmachari
 barde
 beleve
 buckhorn
@@ -5388,6 +5387,7 @@ beguess
 beguilement
 biferous
 banstickle
+brahmachari
 briquets
 babelic
 blastomycotic
