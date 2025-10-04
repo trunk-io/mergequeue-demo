@@ -5895,7 +5895,6 @@ banderillero
 belonidae
 bullions
 barratry
-bricktimber
 barns
 blisses
 backslap
@@ -16990,6 +16989,7 @@ burdensomely
 buick
 blindfolds
 buildings
+bricktimber
 blunder
 borghese
 bloodstained
