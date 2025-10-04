@@ -10429,7 +10429,6 @@ affections
 absurdum
 addling
 aculeolus
-antshrike
 ametropia
 acinetan
 attunely
@@ -17761,6 +17760,7 @@ aurifex
 argentometrically
 archichlamydeae
 arthrosclerosis
+antshrike
 agrologically
 appals
 arbores
