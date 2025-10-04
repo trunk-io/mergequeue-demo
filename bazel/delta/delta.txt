@@ -8175,7 +8175,6 @@ diachronic
 dipleurule
 daer
 dicranum
-diacid
 detachment
 duellists
 damselhood
@@ -10214,6 +10213,7 @@ downy
 dodecahedric
 dasypaedes
 doater
+diacid
 dinged
 diploids
 daddle
