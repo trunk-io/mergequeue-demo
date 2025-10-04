@@ -12251,7 +12251,6 @@ deathshot
 dervishes
 disfurniture
 dashed
-disgarnish
 disyntheme
 descartes
 deliberativeness
@@ -16795,6 +16794,7 @@ delict
 demirobe
 dyscrasial
 detritivorous
+disgarnish
 dunker
 deionization
 drawbore
