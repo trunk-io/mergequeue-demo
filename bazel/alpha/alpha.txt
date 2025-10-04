@@ -13136,7 +13136,6 @@ absorbed
 anim
 anima
 animable
-archaeopteris
 aglypha
 animacule
 almuten
@@ -14795,6 +14794,7 @@ acanthopanax
 antiaquatic
 aphoristic
 appalment
+archaeopteris
 angiohyalinosis
 associates
 aswough
