@@ -10470,7 +10470,6 @@ blastemic
 bopyrid
 blaster
 blastid
-blasting
 borolanite
 blastocele
 boomers
@@ -15012,6 +15011,7 @@ brugnatellite
 bylined
 breastwood
 beset
+blasting
 brisses
 bewailer
 bicamerist
