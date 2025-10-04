@@ -1992,7 +1992,6 @@ electrograph
 eldin
 echoencephalography
 elaic
-enteroplegia
 elaioplast
 elamite
 elamitish
@@ -6118,6 +6117,7 @@ ennia
 excitomotor
 exorbitancy
 enniche
+enteroplegia
 ennoble
 engraft
 episememe
