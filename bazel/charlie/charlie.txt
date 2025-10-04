@@ -13425,7 +13425,6 @@ coraciidae
 croshabell
 cyclostomatous
 cyclostomes
-cyclostomi
 cedent
 cyclothymiac
 cocci
@@ -28024,6 +28023,7 @@ commendator
 crayfishes
 conditory
 craig
+cyclostomi
 careen
 caprid
 craniopuncture
