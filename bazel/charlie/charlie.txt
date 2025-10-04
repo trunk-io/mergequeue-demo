@@ -7878,7 +7878,6 @@ criticism
 cuttle
 cipolin
 cessible
-copperplate
 corpore
 cyclorrhaphous
 cession
@@ -17999,6 +17998,7 @@ coef
 chromosphere
 contractibility
 coeff
+copperplate
 coefficients
 coelacanth
 coelacanthidae
