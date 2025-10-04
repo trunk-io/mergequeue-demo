@@ -10451,6 +10451,7 @@ bridgetree
 blarny
 blout
 blowth
+bisectional
 bedung
 blarnid
 bayoneteer
@@ -14272,7 +14273,6 @@ bleu
 burh
 bluebottles
 boutiques
-bisectional
 bradydactylia
 bepowder
 belamour
