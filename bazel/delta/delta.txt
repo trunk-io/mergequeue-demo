@@ -3801,7 +3801,6 @@ dor
 dwale
 decency
 disgracia
-drillable
 dateable
 dynamites
 distrain
@@ -17128,6 +17127,7 @@ decarbonizing
 drilling
 dystonia
 drillman
+drillable
 discourser
 drylots
 dynamists
