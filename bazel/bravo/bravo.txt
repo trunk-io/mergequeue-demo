@@ -9855,7 +9855,6 @@ bebat
 bytes
 bitewing
 beryx
-bluelegs
 backswording
 bolelia
 briarwood
@@ -17915,6 +17914,7 @@ bushfighting
 bushfires
 backslider
 blackfellow
+bluelegs
 bushgrass
 bowered
 bushy
