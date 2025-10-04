@@ -5664,7 +5664,6 @@ barony
 biogeochemical
 bibliotaph
 beleper
-bicycle
 balandra
 butterpaste
 bridegroomship
@@ -15190,6 +15189,7 @@ bullionless
 bram
 bryanism
 briar
+bicycle
 barsom
 bahuvrihis
 briard
