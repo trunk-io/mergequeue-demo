@@ -8458,6 +8458,7 @@ diamant
 ditrochee
 deflexed
 dextro
+disintegrators
 decrowns
 decise
 deration
@@ -12604,7 +12605,6 @@ diamantoid
 denominators
 disintegrator
 deifications
-disintegrators
 dispiritedness
 dextrer
 disintegrity
