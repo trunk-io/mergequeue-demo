@@ -1242,7 +1242,6 @@ confessionist
 calenders
 calendrical
 calendula
-calendulas
 calendulin
 calentural
 chivalries
@@ -14016,6 +14015,7 @@ cynorrhoda
 cynosure
 cynosures
 cynosurus
+calendulas
 cynotherapy
 cynoxylon
 counterrevolutionize
