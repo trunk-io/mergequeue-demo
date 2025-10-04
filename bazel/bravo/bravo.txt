@@ -5428,7 +5428,6 @@ barbone
 brushwood
 brandrith
 bronchium
-behaver
 bicollateral
 behaving
 blackballing
@@ -9367,6 +9366,7 @@ besogne
 budding
 bewrathed
 balanoglossida
+behaver
 brinish
 brockets
 borrowable
