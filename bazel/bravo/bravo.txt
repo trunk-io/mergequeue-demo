@@ -4134,7 +4134,6 @@ bradypus
 beastling
 bullswool
 beastlings
-bulgy
 beastman
 barracoutas
 beastship
@@ -13946,6 +13945,7 @@ buchite
 beadiest
 bowyer
 bejape
+bulgy
 bedrolls
 bowyers
 bulnbuln
