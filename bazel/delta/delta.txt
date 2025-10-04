@@ -3177,7 +3177,6 @@ defect
 digitaliform
 degusting
 draughtily
-defectible
 defecting
 diagramming
 dezincified
@@ -5506,6 +5505,7 @@ doss
 deordination
 deorganization
 deistic
+defectible
 deorganize
 deregister
 disenablement
