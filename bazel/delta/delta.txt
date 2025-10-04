@@ -2230,6 +2230,7 @@ dosages
 dispensate
 drongo
 deftest
+divulse
 dreint
 drch
 dartre
@@ -4519,7 +4520,6 @@ developmentist
 dysphoric
 deception
 diaspora
-divulse
 deratization
 demicircular
 divulsor
