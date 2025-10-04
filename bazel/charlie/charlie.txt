@@ -2532,7 +2532,6 @@ condoners
 castellanship
 candlesticks
 cogniser
-candlewaster
 cambial
 coyan
 cordwoods
@@ -24691,6 +24690,7 @@ cerebrating
 copolymer
 copolymerize
 cossas
+candlewaster
 cruciated
 copolymerized
 copolymerizing
