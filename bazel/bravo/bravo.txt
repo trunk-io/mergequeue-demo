@@ -1999,7 +1999,6 @@ bidactyl
 bloodstones
 bankcard
 bethought
-banky
 banknote
 bristly
 biophysicist
@@ -2103,6 +2102,7 @@ banteringly
 banty
 betangle
 bibulosities
+banky
 bantu
 bandon
 bewield
