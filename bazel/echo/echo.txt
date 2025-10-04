@@ -3369,7 +3369,6 @@ evacuate
 eventide
 embellisher
 earlish
-easter
 enchained
 emmer
 eyeleteer
@@ -6103,6 +6102,7 @@ eustatic
 enneandrian
 etherealizing
 equiparant
+easter
 eschatologist
 ecological
 empyromancy
