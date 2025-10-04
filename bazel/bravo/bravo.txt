@@ -1634,6 +1634,7 @@ brehon
 botony
 balmarcodes
 balmawhapple
+baromotor
 bimodality
 burton
 butyrinase
@@ -17146,7 +17147,6 @@ bullflower
 blende
 bettine
 bullheaded
-baromotor
 bodeword
 backliding
 buckass
