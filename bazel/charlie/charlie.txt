@@ -1128,7 +1128,6 @@ calcography
 culturology
 calcsinter
 chinnam
-cranioclasis
 calcspars
 chenopod
 cotwal
@@ -25588,6 +25587,7 @@ corpora
 coign
 corporacy
 corporacies
+cranioclasis
 calcic
 corporalcy
 corporale
