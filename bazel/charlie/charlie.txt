@@ -5267,7 +5267,6 @@ curvette
 cassiopeia
 cuculus
 cassiopeian
-chlorohydroquinone
 cassiopeid
 cassiopeium
 cladrastis
@@ -8957,6 +8956,7 @@ catholicizing
 chareter
 charette
 censers
+chlorohydroquinone
 chemisms
 chargable
 combmaker
