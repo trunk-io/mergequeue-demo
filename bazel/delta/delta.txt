@@ -9321,6 +9321,7 @@ dietic
 decolorant
 dtset
 diplomat
+docking
 dietotherapy
 dietotoxic
 diathesic
@@ -14790,7 +14791,6 @@ dockhand
 dilambdodont
 deringers
 dockyards
-docking
 dipeptidase
 dockization
 dockland
