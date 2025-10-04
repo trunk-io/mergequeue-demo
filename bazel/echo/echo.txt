@@ -2645,7 +2645,6 @@ exterior
 escrol
 expectorating
 enmesh
-edingtonite
 enduros
 electrotherapy
 electrotheraputic
@@ -4064,6 +4063,7 @@ eniac
 emplunge
 empodia
 extracranial
+edingtonite
 energids
 eczematous
 externum
