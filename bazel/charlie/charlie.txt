@@ -3653,7 +3653,6 @@ caranna
 carap
 couloirs
 cuadra
-carapaces
 carapacho
 capybaras
 contumacity
@@ -12641,6 +12640,7 @@ crom
 citolers
 chronometrically
 chronon
+carapaces
 chaussees
 choppily
 chronons
