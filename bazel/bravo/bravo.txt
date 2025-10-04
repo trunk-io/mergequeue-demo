@@ -1175,6 +1175,7 @@ beleaguered
 bootloader
 balloting
 bakeries
+berede
 budling
 bakerly
 bakerlike
@@ -2981,7 +2982,6 @@ bartending
 bulbiferous
 bartends
 burthened
-berede
 baggywrinkle
 boogyman
 blechnoid
