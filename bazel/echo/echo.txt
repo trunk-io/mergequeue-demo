@@ -7832,6 +7832,7 @@ endorsation
 expound
 epeirid
 experimentation
+externalist
 epileny
 enkindled
 exotospore
@@ -9265,7 +9266,6 @@ exceptions
 erron
 electrotellurograph
 eurylaimus
-externalist
 embosk
 expositional
 error
