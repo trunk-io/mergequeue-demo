@@ -4239,6 +4239,7 @@ caret
 commerce
 caretaker
 caretakers
+caninity
 caretaking
 chastisers
 chondrosteous
@@ -18239,7 +18240,6 @@ coetaneous
 coeternal
 cassaba
 coeternity
-caninity
 coeval
 camorrist
 coevalness
