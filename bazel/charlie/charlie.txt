@@ -6910,6 +6910,7 @@ clocklike
 celtuce
 closefisted
 clitella
+companies
 cembalo
 curiousnesses
 cembalos
@@ -18046,7 +18047,6 @@ claymores
 coelom
 coeloma
 coelomata
-companies
 conservatrix
 coelomatous
 coelome
