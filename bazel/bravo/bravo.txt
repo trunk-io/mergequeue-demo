@@ -5886,7 +5886,6 @@ braking
 belock
 beloeilite
 belomancy
-belonger
 bagonet
 biased
 bronchophonic
@@ -10688,6 +10687,7 @@ barkhan
 bosuns
 banksias
 bleymes
+belonger
 blellums
 blemished
 bigotish
