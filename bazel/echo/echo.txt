@@ -3066,6 +3066,7 @@ epirrheme
 embryotome
 epidermidalization
 essayer
+exclamative
 epigonousepigons
 entheasm
 eryx
@@ -11940,7 +11941,6 @@ epitenon
 exclamations
 essency
 exploitative
-exclamative
 excreation
 exclamatory
 exclaves
