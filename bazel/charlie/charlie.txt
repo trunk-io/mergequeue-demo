@@ -5282,7 +5282,6 @@ cultures
 charioteers
 cassocks
 centrobaric
-cuspidated
 cassons
 cochleated
 colossal
@@ -6458,6 +6457,7 @@ cavalrymen
 carbazide
 coryl
 cavate
+cuspidated
 cuminseed
 conceptualizations
 conynge
