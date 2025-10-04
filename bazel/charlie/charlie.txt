@@ -10586,6 +10586,7 @@ carports
 chiller
 confessionary
 comino
+callable
 chucklesome
 corporational
 cotwist
@@ -19135,7 +19136,6 @@ cooping
 colliery
 crises
 catechist
-callable
 colliflower
 cruset
 colligate
