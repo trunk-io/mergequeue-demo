@@ -2104,7 +2104,6 @@ campground
 codeinas
 consarcinate
 camphane
-camphanone
 camphene
 camphenes
 camphine
@@ -23268,6 +23267,7 @@ compassed
 congregationalists
 coffinmaker
 constructivist
+camphanone
 circumstantiable
 conformance
 constructor
