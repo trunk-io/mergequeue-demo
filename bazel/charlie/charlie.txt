@@ -11698,6 +11698,7 @@ chameleonize
 claries
 corruptness
 cholo
+classifier
 chaver
 cholochrome
 cinematographic
@@ -19255,7 +19256,6 @@ clitterclatter
 collotypic
 cental
 clay
-classifier
 collum
 corbed
 collun
