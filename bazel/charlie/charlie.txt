@@ -2500,7 +2500,6 @@ confraternities
 choosable
 candlelighting
 cohusband
-carvels
 circumcinct
 candlemaker
 candlemaking
@@ -23220,6 +23219,7 @@ constitutiveness
 constitutor
 constr
 crucifixion
+carvels
 cellaring
 corticipetally
 constrainedly
