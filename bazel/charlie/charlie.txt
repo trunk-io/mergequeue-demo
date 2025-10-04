@@ -9541,6 +9541,7 @@ combmaking
 checkpoints
 commonize
 checkrack
+converter
 casehardens
 cricotracheotomy
 calaththi
@@ -11842,7 +11843,6 @@ chopines
 clarina
 chopins
 coinquinate
-converter
 choplogic
 clepe
 choplogical
