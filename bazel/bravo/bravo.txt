@@ -4291,6 +4291,7 @@ bursts
 bechanced
 becharmed
 bellic
+birefringent
 bellona
 blackseed
 bromhydric
@@ -9841,7 +9842,6 @@ barbing
 brands
 begums
 bites
-birefringent
 bebat
 bytes
 bitewing
