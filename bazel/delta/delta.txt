@@ -3079,6 +3079,7 @@ daddock
 degradand
 defaces
 disennoble
+diopters
 doctrines
 dutchy
 diable
@@ -10358,7 +10359,6 @@ dependencies
 diagrammers
 ditton
 diopter
-diopters
 decumary
 delf
 disporting
