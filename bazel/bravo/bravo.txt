@@ -4171,7 +4171,6 @@ blasties
 barquest
 beatuti
 brachet
-blockiness
 boudoir
 beaucoup
 beaued
@@ -10836,6 +10835,7 @@ blessedness
 blesser
 blurb
 befriz
+blockiness
 boxtree
 blessingly
 buffered
