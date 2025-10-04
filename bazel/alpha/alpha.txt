@@ -10855,7 +10855,6 @@ assemblage
 adjectitious
 archeological
 amphib
-ammophilous
 annihilability
 ammotherapy
 amnesia
@@ -17069,6 +17068,7 @@ apodyterium
 apods
 antihysteric
 apoenzyme
+ammophilous
 antireform
 apogaeic
 aptera
