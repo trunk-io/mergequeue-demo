@@ -11694,6 +11694,7 @@ claries
 corruptness
 cholo
 chaver
+cytogeny
 cholochrome
 cinematographic
 chololithic
@@ -14864,7 +14865,6 @@ collectanea
 commiseratively
 crystallogenic
 cytogenetic
-cytogeny
 cornsack
 cytogenic
 cahill
