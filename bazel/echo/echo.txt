@@ -5291,7 +5291,6 @@ existant
 embost
 embroidered
 endymion
-evicted
 envolupen
 evocatory
 endotheliomas
@@ -8744,6 +8743,7 @@ ekename
 erasers
 eventuations
 equestrial
+evicted
 euphonised
 elide
 executory
