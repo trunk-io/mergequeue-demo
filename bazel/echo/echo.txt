@@ -2623,6 +2623,7 @@ exterior
 escrol
 expectorating
 enmesh
+edingtonite
 enduros
 electrotherapy
 electrotheraputic
@@ -13763,7 +13764,6 @@ entea
 extispicious
 epitympanum
 eccles
-edingtonite
 edestosaurus
 epiphysary
 ecorch
