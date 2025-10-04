@@ -3710,7 +3710,6 @@ erect
 epilogs
 estonia
 emeers
-emeership
 emend
 exscribe
 epistolizing
@@ -12539,6 +12538,7 @@ epistolet
 epaenetic
 embezzlement
 exochorion
+emeership
 epistylar
 enterocolitis
 endbrain
