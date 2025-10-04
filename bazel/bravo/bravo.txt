@@ -1812,7 +1812,6 @@ bandfiled
 bandh
 backhanded
 burdon
-brownism
 brython
 birken
 bandhook
@@ -2515,6 +2514,7 @@ bs
 begster
 birk
 backlists
+brownism
 brained
 burghalpenny
 bloodberry
