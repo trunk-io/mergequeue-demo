@@ -1519,7 +1519,6 @@ dieugard
 dynamisms
 dupondius
 deblocked
-dedoggerelize
 deacons
 demobilizes
 deactivate
@@ -2312,6 +2311,7 @@ dendrocoelan
 decentralizing
 defensory
 dismounted
+dedoggerelize
 dekaparsec
 dermatropic
 dactylioglyphic
