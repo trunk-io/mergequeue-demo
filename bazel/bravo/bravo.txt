@@ -4969,6 +4969,7 @@ bumpoff
 banterer
 beefers
 bombycilla
+backbiter
 beerpull
 beers
 bellovaci
@@ -12800,7 +12801,6 @@ baroni
 burlesk
 bookpress
 bookracks
-backbiter
 blacklegging
 baronry
 begut
