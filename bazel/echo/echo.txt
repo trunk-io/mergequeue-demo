@@ -9643,6 +9643,7 @@ espingole
 eschele
 execrative
 editchar
+exopt
 espino
 erythroplastid
 evilsayer
@@ -11090,7 +11091,6 @@ evacuator
 exploitable
 enol
 exsiliency
-exopt
 erne
 eutychian
 everly
