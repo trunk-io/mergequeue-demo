@@ -8199,7 +8199,6 @@ chondroclasis
 chairmanship
 congrid
 chairmanships
-checkoff
 chairmender
 cottontop
 chairpersons
@@ -10286,6 +10285,7 @@ chicano
 coimmense
 complementers
 cathexis
+checkoff
 casefying
 carnalities
 chicer
