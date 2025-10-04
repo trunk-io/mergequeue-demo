@@ -11685,7 +11685,6 @@ boatloader
 beigy
 boatmanship
 boatmen
-boats
 boatsetter
 bisymmetric
 badju
@@ -13018,6 +13017,7 @@ booziest
 bizarre
 bookmate
 balawu
+boats
 banausic
 bipennated
 bandersnatch
