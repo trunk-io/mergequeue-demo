@@ -7213,7 +7213,6 @@ eolian
 eolopiles
 enraptures
 emulsification
-exsector
 echoless
 electrocatalytic
 ensealed
@@ -8984,6 +8983,7 @@ exocoelom
 erythemas
 eves
 egomism
+exsector
 epupillate
 eunuchized
 enargite
