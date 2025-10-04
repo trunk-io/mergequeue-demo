@@ -5642,7 +5642,6 @@ bilify
 belderroot
 bodgie
 beleaguering
-bongar
 beleapt
 brining
 belecture
@@ -12293,6 +12292,7 @@ boltage
 biasses
 boltcutter
 behold
+bongar
 boltheading
 boltin
 boltlike
