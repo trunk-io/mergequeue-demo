@@ -2141,6 +2141,7 @@ dynamitish
 decanting
 digitized
 diabolology
+drawspan
 downtime
 disturbs
 diosmosis
@@ -12913,7 +12914,6 @@ dermaptera
 disnatured
 disnew
 drachmae
-drawspan
 desanded
 delving
 deorientalize
