@@ -3931,6 +3931,7 @@ bounteousness
 becrawl
 beaconless
 bicycles
+boride
 beslur
 believer
 beacons
@@ -13150,7 +13151,6 @@ bacterioscopist
 bromisation
 bastinaded
 brahui
-boride
 benchmen
 bulbilis
 bregmatic
