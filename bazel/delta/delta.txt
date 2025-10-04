@@ -9342,7 +9342,6 @@ devastator
 despouse
 dressers
 differenced
-differences
 destroyable
 differentiability
 disloign
@@ -13142,6 +13141,7 @@ dispetal
 dysphasia
 dewal
 diplophonia
+differences
 dreamery
 dysphemistic
 dissaturate
