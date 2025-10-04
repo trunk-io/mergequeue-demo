@@ -4947,6 +4947,7 @@ cypseli
 cartographic
 cartographical
 cartographically
+circulet
 carton
 cartoner
 cartonful
@@ -14373,7 +14374,6 @@ cardioids
 canalside
 circumorbital
 circumpacific
-circulet
 ciliectomy
 circumpallial
 constrained
