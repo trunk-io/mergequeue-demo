@@ -2404,7 +2404,6 @@ centgener
 cancha
 canchalagua
 cropsickness
-cherubically
 cancion
 cancionero
 canciones
@@ -5767,6 +5766,7 @@ chapatti
 cottony
 concinnating
 catechin
+cherubically
 catechisable
 clearedness
 catechised
