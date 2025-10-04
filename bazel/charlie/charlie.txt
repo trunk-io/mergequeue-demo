@@ -2090,7 +2090,6 @@ channeler
 campers
 chiloma
 coadjacence
-campesinos
 campestral
 campfight
 campground
@@ -25054,6 +25053,7 @@ crushableness
 corders
 cordewane
 chemism
+campesinos
 conventing
 clavial
 cordiality
