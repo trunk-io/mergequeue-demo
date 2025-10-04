@@ -17982,7 +17982,6 @@ dulcify
 dulcification
 dropforging
 dislodgeable
-disseminator
 deporture
 dentelle
 dyers
@@ -18186,6 +18185,7 @@ dispensary
 dilatator
 duncish
 dechlog
+disseminator
 duncishness
 dermataneuria
 decener
