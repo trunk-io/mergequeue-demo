@@ -8805,7 +8805,6 @@ emptive
 euonymin
 enterocystoma
 egregiousness
-ectocyst
 ealderman
 endocellular
 eremitism
@@ -10434,6 +10433,7 @@ emplume
 electrodialytic
 eversive
 etypic
+ectocyst
 ensheath
 eschews
 equiponderation
