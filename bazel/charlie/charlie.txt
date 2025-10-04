@@ -3339,7 +3339,6 @@ crypted
 cappae
 capparis
 crapple
-capped
 cappelletti
 capper
 ciseleurs
@@ -21520,6 +21519,7 @@ concordal
 circumundulation
 concordance
 concordancer
+capped
 commands
 curliewurly
 cardiophobia
