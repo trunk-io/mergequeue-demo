@@ -19039,7 +19039,6 @@ constables
 collectibility
 collectible
 collection
-cinnamon
 collectivise
 collectivism
 collectivist
@@ -30766,6 +30765,7 @@ cuisines
 crine
 cos
 chummy
+cinnamon
 cuisse
 composing
 cuitlateco
