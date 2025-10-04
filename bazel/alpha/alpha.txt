@@ -1525,7 +1525,6 @@ appoggiature
 anopsia
 accompliceship
 assoin
-adjoin
 assamites
 allotting
 accomplisher
@@ -3739,6 +3738,7 @@ ailurophobic
 aminobarbituric
 alkenyl
 accounters
+adjoin
 alure
 albanite
 arcticologist
