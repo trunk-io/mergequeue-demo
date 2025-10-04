@@ -8053,7 +8053,6 @@ brawned
 browband
 bicorn
 bourrelet
-blanque
 boatman
 buckbeans
 bespousing
@@ -11859,6 +11858,7 @@ bodykins
 bodilize
 bahuvrihi
 barbedness
+blanque
 bellowed
 beento
 barcan
