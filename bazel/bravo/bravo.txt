@@ -1998,6 +1998,7 @@ banknote
 bristly
 biophysicist
 banknotes
+blattariae
 bethroot
 brasserie
 boomster
@@ -4209,7 +4210,6 @@ bellhanging
 beachmaster
 beautihood
 berbamine
-blattariae
 barest
 burlers
 burman
