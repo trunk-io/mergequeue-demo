@@ -6552,7 +6552,6 @@ aiguillette
 admissory
 aquiline
 amphidiscophoran
-arborescence
 accorporation
 agio
 aik
@@ -8588,6 +8587,7 @@ authoritative
 alphonsine
 anthos
 allasch
+arborescence
 aperiodicity
 anecdota
 agnoites
