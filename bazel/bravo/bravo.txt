@@ -968,7 +968,6 @@ boat
 bayamos
 bouleuteria
 brownier
-brigand
 brotan
 brushiness
 bayano
@@ -10560,6 +10559,7 @@ baptisteries
 blatiform
 biotelemetric
 biffies
+brigand
 blats
 butyrone
 beflatter
