@@ -1811,7 +1811,6 @@ entropionize
 euler
 epidiorite
 encystments
-errabund
 elaterin
 equitemporal
 expeller
@@ -9575,6 +9574,7 @@ euryale
 esophago
 entrike
 esophagometer
+errabund
 ergs
 emotionalized
 eupomatiaceae
