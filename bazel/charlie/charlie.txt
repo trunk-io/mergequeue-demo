@@ -3484,7 +3484,6 @@ captandum
 captate
 colation
 captation
-caption
 canulating
 captioned
 convenably
@@ -5856,6 +5855,7 @@ catenate
 crooisite
 catenating
 catenation
+caption
 catenative
 content
 capomo
