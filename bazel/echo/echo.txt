@@ -9026,7 +9026,6 @@ emlen
 endothermic
 exocyclic
 equiglacial
-episcenium
 empyreans
 eperotesis
 exporters
@@ -13252,6 +13251,7 @@ exult
 europocentric
 eructate
 extuberate
+episcenium
 entomological
 equiliria
 extraofficial
