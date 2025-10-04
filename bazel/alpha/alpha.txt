@@ -3327,6 +3327,7 @@ antiperiodic
 assertors
 adapid
 apolytikion
+archaise
 apeman
 autotransplant
 aliased
@@ -24517,7 +24518,6 @@ antidemocratical
 autourine
 autovalet
 autovalve
-archaise
 autovivisection
 apologal
 autoxidation
