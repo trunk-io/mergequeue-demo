@@ -3524,7 +3524,6 @@ captured
 captures
 capturing
 curricular
-capuan
 capuched
 chortler
 counterbase
@@ -6521,6 +6520,7 @@ cavilingly
 craftsmen
 cryosurgeon
 ceraunogram
+capuan
 cronkness
 conrectorship
 catharticalness
