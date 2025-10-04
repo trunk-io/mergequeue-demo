@@ -5961,7 +5961,6 @@ cathedraticum
 cathepsin
 cathern
 catties
-catheterisation
 catheterise
 coiffes
 catheterised
@@ -7931,6 +7930,7 @@ cetology
 contumacities
 corixidae
 cetomorpha
+catheterisation
 cumular
 clarissimo
 celiomyalgia
