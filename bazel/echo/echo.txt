@@ -5938,7 +5938,6 @@ empresario
 estafa
 exigence
 electrodesiccate
-electricalness
 eschalot
 enkolpia
 embolomerism
@@ -10148,6 +10147,7 @@ eyedropper
 exertion
 expressness
 electrothermally
+electricalness
 exsects
 eleutherian
 endocarpoid
