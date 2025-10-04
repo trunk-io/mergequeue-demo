@@ -2425,7 +2425,6 @@ bromelin
 barandos
 beastbane
 balaklava
-baphomet
 blast
 behaved
 bereason
@@ -7002,6 +7001,7 @@ brae
 bringsel
 besmirchers
 bactris
+baphomet
 billethead
 bankfull
 besmooth
