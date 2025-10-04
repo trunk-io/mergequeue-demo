@@ -6984,7 +6984,6 @@ akebia
 actinia
 alible
 abjudicator
-adoniram
 althorns
 axolotl
 anezeh
@@ -22194,6 +22193,7 @@ astoop
 attachment
 abjoint
 ardour
+adoniram
 aerocurve
 amercer
 absonous
