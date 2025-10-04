@@ -14002,6 +14002,7 @@ bowstrung
 bowtell
 barographic
 backpointer
+bungos
 byspell
 bargelli
 belugas
@@ -17399,7 +17400,6 @@ beignets
 bejeled
 bungling
 bullit
-bungos
 bamboozler
 baetylic
 blithered
