@@ -5061,6 +5061,7 @@ extrudability
 eisell
 exilic
 ecphore
+ectodermal
 exorcizing
 endoderm
 esugarization
@@ -7989,7 +7990,6 @@ emgalla
 eteocles
 epigones
 eccrisis
-ectodermal
 exteriorly
 ego
 erasmus
