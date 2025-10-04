@@ -2160,7 +2160,6 @@ epicenters
 epistome
 expanded
 eldermen
-entailing
 expeditionist
 elders
 enumerating
@@ -12171,6 +12170,7 @@ embrave
 execratively
 excreter
 embryogenic
+entailing
 economised
 embrasuring
 enthroning
