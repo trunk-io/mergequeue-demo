@@ -5246,7 +5246,6 @@ borderer
 bedabbling
 begem
 bestseller
-blankbook
 bloods
 begetter
 bronzed
@@ -17047,6 +17046,7 @@ baler
 bimahs
 blankish
 binoxide
+blankbook
 bishoping
 bulkage
 burt
