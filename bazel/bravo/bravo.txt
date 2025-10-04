@@ -4129,7 +4129,6 @@ beastling
 bullswool
 beastlings
 beastman
-barracoutas
 beastship
 balzarine
 beat
@@ -10810,6 +10809,7 @@ bulldogger
 bugbeardom
 blepharomelasma
 botchier
+barracoutas
 blepharoncosis
 beplumed
 blepharoplastic
