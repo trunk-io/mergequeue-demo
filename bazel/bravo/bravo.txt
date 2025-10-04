@@ -1125,6 +1125,7 @@ betaken
 biosystematist
 baiters
 beclothes
+bricktimber
 banqueter
 bridges
 baitfish
@@ -5901,7 +5902,6 @@ banderillero
 belonidae
 bullions
 barratry
-bricktimber
 brazed
 barns
 blisses
