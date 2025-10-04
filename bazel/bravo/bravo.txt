@@ -2804,6 +2804,7 @@ bulgurs
 bravest
 barotraumas
 barotropic
+bothrium
 barouche
 barouchette
 bozzetto
@@ -13443,7 +13444,6 @@ bluenoses
 billsticker
 bandage
 bothriocephalus
-bothrium
 bothrodendron
 bromothymol
 bisulc
