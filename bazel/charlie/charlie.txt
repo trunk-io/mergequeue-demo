@@ -17699,7 +17699,6 @@ coccothrinax
 collide
 calabozo
 cocculiferous
-cost
 cocculus
 convertend
 corrivals
@@ -27686,6 +27685,7 @@ camiscia
 copartnery
 cowhouse
 ciconiae
+cost
 chamaesyce
 clockers
 chincloth
