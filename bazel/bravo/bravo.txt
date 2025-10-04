@@ -2046,7 +2046,6 @@ bronchus
 bcf
 blesses
 bannerols
-bannisters
 birthmarks
 bannock
 bilboquet
@@ -6579,6 +6578,7 @@ bahima
 bankrupture
 berberidaceae
 berberidaceous
+bannisters
 berberis
 berceuses
 bournous
