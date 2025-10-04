@@ -3311,7 +3311,6 @@ embark
 epichorial
 embarkations
 epitomize
-embarkment
 embitterments
 embarks
 equipage
@@ -10067,6 +10066,7 @@ ensorcelize
 ebb
 erythrosin
 exophoria
+embarkment
 explosives
 elytroid
 endolaryngeal
