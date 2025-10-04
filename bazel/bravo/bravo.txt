@@ -2701,6 +2701,7 @@ bm
 bicolored
 backtalk
 benab
+bioplasm
 bonneting
 bukeyef
 barology
@@ -3585,7 +3586,6 @@ bakehouses
 brazenfacedly
 botchery
 billheads
-bioplasm
 biogas
 batoon
 biconjugate
