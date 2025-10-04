@@ -11466,7 +11466,6 @@ choana
 cystidean
 consultations
 choanate
-choanephora
 cystopyelography
 choanocyte
 cajeputol
@@ -20790,6 +20789,7 @@ compliancy
 compliant
 compiling
 cupcake
+choanephora
 complicacy
 ceramiaceae
 cyanidrosis
