@@ -1987,7 +1987,6 @@ banky
 banknote
 bristly
 biophysicist
-banknotes
 bethroot
 brasserie
 boomster
@@ -9212,6 +9211,7 @@ bipalmate
 brimfulness
 booed
 bogy
+banknotes
 babblesome
 balsaminaceous
 balladical
