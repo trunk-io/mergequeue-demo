@@ -1575,7 +1575,6 @@ accounter
 anonaceous
 anaptyxis
 ariegite
-accountment
 audioemission
 accounts
 accouplement
@@ -3115,6 +3114,7 @@ amitrole
 amrita
 admortization
 antimonous
+accountment
 action
 albiflorous
 autogyros
