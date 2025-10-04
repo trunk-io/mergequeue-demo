@@ -8165,7 +8165,6 @@ electromagnetist
 epipharyngeal
 entera
 exonerates
-epistatic
 episodial
 epistaxis
 epistemically
@@ -13801,6 +13800,7 @@ epithelialize
 ethnography
 extracarpal
 extratropical
+epistatic
 excepted
 extracerebral
 embolo
