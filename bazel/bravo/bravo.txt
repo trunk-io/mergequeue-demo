@@ -5403,6 +5403,7 @@ breads
 barer
 behap
 boarstaff
+bombora
 bigarreau
 barbone
 brandrith
@@ -12430,7 +12431,6 @@ bergeres
 beele
 boonk
 bombonne
-bombora
 bawls
 bombardelle
 bomi
