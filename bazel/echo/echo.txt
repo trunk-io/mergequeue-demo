@@ -4835,7 +4835,6 @@ etymologies
 endameba
 endamebae
 equiv
-eveck
 extradictable
 endamoebas
 endamoebidae
@@ -13649,6 +13648,7 @@ exteriority
 emboltement
 elfic
 extensional
+eveck
 embush
 enphytotic
 echolocation
