@@ -2001,7 +2001,6 @@ chincof
 cruelize
 camoudie
 coburgess
-churchreeve
 camerate
 camouflage
 camouflageable
@@ -25045,6 +25044,7 @@ cordal
 cordate
 catawamptious
 cordax
+churchreeve
 carnivora
 castoff
 cordeau
