@@ -4070,6 +4070,7 @@ cornmaster
 condalia
 cardin
 cardinal
+circling
 croslet
 cancans
 cardinalfishes
@@ -12471,7 +12472,6 @@ carane
 chromocollograph
 chromocollography
 chromocollographic
-circling
 chromocollotype
 chromocratic
 corresol
