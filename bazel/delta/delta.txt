@@ -6274,6 +6274,7 @@ derma
 damascened
 dispells
 dermabrasion
+dishonor
 dithyramb
 detectors
 degrades
@@ -12443,7 +12444,6 @@ dimerlie
 dis
 dampne
 dishome
-dishonor
 distendedness
 dishonorer
 deresinize
