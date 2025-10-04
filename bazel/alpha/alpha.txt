@@ -1546,6 +1546,7 @@ accorder
 accordingly
 amalg
 accordion
+ande
 alcade
 accordionists
 andalusian
@@ -16019,7 +16020,6 @@ anthecological
 attributed
 analcimes
 awhet
-ande
 anostraca
 auto
 aminoacetic
