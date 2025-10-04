@@ -2689,7 +2689,6 @@ batch
 beadflush
 baron
 bemaul
-blunges
 barnman
 braconids
 blurbs
@@ -8919,6 +8918,7 @@ beylic
 biddings
 bandoras
 biocycle
+blunges
 biocycles
 biocidal
 biocide
