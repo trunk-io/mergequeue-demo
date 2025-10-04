@@ -4764,7 +4764,6 @@ companions
 covariables
 carpopodite
 carpopoditic
-coordinating
 carved
 carpoptosia
 completion
@@ -7991,6 +7990,7 @@ chablis
 coelarium
 crannog
 clergies
+coordinating
 chabouk
 crankshaft
 chabuk
