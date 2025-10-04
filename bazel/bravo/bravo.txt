@@ -8865,7 +8865,6 @@ bombycids
 bedchamber
 bible
 blurs
-binotonous
 bedeck
 boilerman
 binturong
@@ -9331,6 +9330,7 @@ birchwood
 baccaras
 bindweb
 barcaroles
+binotonous
 birdbander
 beggaries
 bayal
