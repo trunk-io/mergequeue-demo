@@ -17009,6 +17009,7 @@ creatureliness
 classis
 caviar
 clupien
+culturine
 cenotaphs
 choledochoplasty
 consols
@@ -30933,7 +30934,6 @@ cobwebbery
 cultural
 culturally
 clientship
-culturine
 centervelic
 chainette
 cystoids
