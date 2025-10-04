@@ -1135,7 +1135,6 @@ entrochite
 edplot
 edrioasteroidea
 exite
-edriophthalmatous
 educand
 educatability
 eident
@@ -1816,6 +1815,7 @@ eleutherodactyl
 ep
 embolization
 equivocatingly
+edriophthalmatous
 everting
 evechurr
 endocarps
