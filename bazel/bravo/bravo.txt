@@ -13013,7 +13013,6 @@ bottoms
 blouson
 bittersweet
 boottop
-biforous
 burgherdom
 bushelage
 basilisks
@@ -14607,6 +14606,7 @@ branner
 baktun
 bonding
 belugite
+biforous
 bedumbed
 branchiostegidae
 branchiostoma
