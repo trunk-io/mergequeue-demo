@@ -6619,6 +6619,7 @@ enchelycephali
 enterosepsis
 enterotome
 enterotoxemia
+equivocations
 elaenia
 echinoderes
 enterotoxication
@@ -9066,7 +9067,6 @@ erythrocytoschisis
 erythrodermia
 embryogony
 ectasia
-equivocations
 educe
 equipollentness
 erythrolein
