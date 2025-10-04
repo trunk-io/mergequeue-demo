@@ -736,6 +736,7 @@ expense
 emotes
 exarch
 echinal
+eastlings
 egger
 energizers
 euclideanism
@@ -9712,7 +9713,6 @@ enghosted
 epimorphic
 emotionable
 electives
-eastlings
 equisonance
 electrogalvanize
 everyplace
