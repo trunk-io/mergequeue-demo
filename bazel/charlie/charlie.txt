@@ -20691,7 +20691,6 @@ complaint
 counteranswer
 complaintiveness
 complaints
-complaisant
 cartulary
 cankerworms
 complaisantly
@@ -27697,6 +27696,7 @@ criminative
 cowhides
 cancellability
 cowhiding
+complaisant
 cowhorn
 chillers
 camboose
