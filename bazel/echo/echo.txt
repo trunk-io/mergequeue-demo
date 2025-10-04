@@ -7961,7 +7961,6 @@ enscene
 enteroscope
 endopod
 ealdormen
-epiphanous
 expansiveness
 expiator
 embarred
@@ -8909,6 +8908,7 @@ exhausted
 exoskeletal
 extruded
 enshadow
+epiphanous
 eteoclus
 exteroceptive
 erythematic
