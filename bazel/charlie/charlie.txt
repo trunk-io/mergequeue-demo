@@ -11079,6 +11079,7 @@ compends
 checksums
 chitinoid
 cowgirl
+churnstaff
 chitins
 chitlin
 chitling
@@ -20059,7 +20060,6 @@ concavo
 commemorativeness
 chalkstony
 contra
-churnstaff
 chrysophyllum
 commemorizing
 commenced
