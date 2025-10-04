@@ -13963,7 +13963,6 @@ birdseeds
 bacalaos
 baptizee
 bowsman
-botanomancy
 bows
 bowsaw
 bombs
@@ -15335,6 +15334,7 @@ bejan
 bridgemaster
 bridger
 befrumple
+botanomancy
 blanquette
 bicarinate
 blennioidea
