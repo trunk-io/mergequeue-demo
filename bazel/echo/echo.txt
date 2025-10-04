@@ -7604,7 +7604,6 @@ enterohelcosis
 embusqu
 epiparodos
 epicortical
-enterostomy
 equijacent
 esere
 enterogastritis
@@ -12429,6 +12428,7 @@ emancipations
 explorate
 endia
 exfiltrate
+enterostomy
 equilibrial
 eyelid
 electrolysing
