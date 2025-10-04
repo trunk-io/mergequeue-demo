@@ -6932,7 +6932,6 @@ balmony
 beshadowed
 beauxite
 briolette
-biplosive
 bedflower
 breediness
 baselessness
@@ -13408,6 +13407,7 @@ bothy
 beatings
 buckbush
 basivertebral
+biplosive
 bothie
 bardesanist
 baggers
