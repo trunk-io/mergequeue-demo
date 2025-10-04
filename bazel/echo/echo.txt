@@ -799,7 +799,6 @@ ectypal
 ectype
 entities
 eserin
-everliving
 esophagotome
 enwrite
 egritude
@@ -5508,6 +5507,7 @@ ectotrophi
 enflower
 encephalitis
 ectognatha
+everliving
 equalization
 epidendrum
 elaeopten
