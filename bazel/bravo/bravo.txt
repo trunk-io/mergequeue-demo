@@ -8577,7 +8577,6 @@ boweries
 bankrider
 borderside
 bastinading
-billety
 billets
 brainlike
 bassaris
@@ -13081,6 +13080,7 @@ blether
 bacilliculture
 borboridae
 besmearing
+billety
 beslow
 borborygmatic
 biggin
