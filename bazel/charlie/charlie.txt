@@ -9039,6 +9039,7 @@ camuse
 colloq
 charities
 condition
+curch
 charityless
 caridoid
 cloaks
@@ -31301,7 +31302,6 @@ curbs
 curbside
 curbstone
 curcas
-curch
 criterium
 curculio
 cafardise
