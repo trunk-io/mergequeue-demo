@@ -2567,7 +2567,6 @@ cliffing
 canebrake
 cardioschisis
 cementmaking
-canebrakes
 cowskins
 counterdisengage
 cryptocrystallization
@@ -9628,6 +9627,7 @@ cheepers
 cheepier
 cheepiest
 cheepiness
+canebrakes
 ceramidium
 cyathozooid
 cubiculary
