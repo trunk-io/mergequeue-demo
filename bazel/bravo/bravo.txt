@@ -672,7 +672,6 @@ baculoid
 bifilar
 baculus
 badaga
-badarian
 biorgan
 bumbarge
 behav
@@ -5914,6 +5913,7 @@ batswing
 bagge
 blitzkrieg
 butterroot
+badarian
 blennophobia
 belast
 basque
