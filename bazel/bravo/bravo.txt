@@ -3921,6 +3921,7 @@ bicycles
 beslur
 believer
 beacons
+barytones
 buoyancy
 beedi
 beadeye
@@ -11455,7 +11456,6 @@ bigeneric
 bananalander
 barrette
 bivious
-barytones
 bluestockings
 bolthead
 bluetit
