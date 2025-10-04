@@ -1309,7 +1309,6 @@ equip
 equilibristat
 enclog
 effectuated
-encastage
 effectuating
 effervesced
 exuberate
@@ -4438,6 +4437,7 @@ eery
 enrange
 erythromycin
 erucin
+encastage
 encephalomyocarditis
 ensamples
 emancipate
