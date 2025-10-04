@@ -13048,6 +13048,7 @@ bloomers
 barcas
 bombazine
 beweep
+bagged
 beliquored
 budget
 balanid
@@ -15472,7 +15473,6 @@ bifurcations
 boxthorns
 battledoring
 brilliancies
-bagged
 brilliandeer
 budgerigars
 buonamani
