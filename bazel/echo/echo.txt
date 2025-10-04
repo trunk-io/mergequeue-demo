@@ -7837,7 +7837,6 @@ epeirid
 experimentation
 epileny
 enkindled
-exotospore
 entomeric
 embace
 ensaint
@@ -13333,6 +13332,7 @@ epimyocardium
 excircle
 exponent
 educated
+exotospore
 exponentiates
 epaxial
 enwrap
