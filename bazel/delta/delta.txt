@@ -3546,6 +3546,7 @@ deprivate
 defrayable
 dismissable
 doucin
+dragees
 deperition
 defrayers
 defraying
@@ -5731,7 +5732,6 @@ disembosom
 deemie
 depilated
 distractibility
-dragees
 discommodate
 depilating
 depilatory
