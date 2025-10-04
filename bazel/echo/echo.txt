@@ -458,7 +458,6 @@ ecclesiarchy
 emcee
 extoll
 ecclesiast
-expansion
 encephalomata
 extratellurian
 empasm
@@ -7780,6 +7779,7 @@ epigonic
 expletive
 encrinoid
 essentialized
+expansion
 epigonism
 edibles
 etching
