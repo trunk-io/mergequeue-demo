@@ -3798,7 +3798,6 @@ autotypes
 availing
 abdominoscope
 apposition
-aslope
 affrightingly
 adiposuria
 adnouns
@@ -19955,6 +19954,7 @@ armonicas
 arrowheads
 armoracia
 ampoules
+aslope
 assumingness
 alastors
 anthriscus
