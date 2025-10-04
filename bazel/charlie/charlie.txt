@@ -7351,7 +7351,6 @@ cephalodiscus
 curtains
 chevelure
 cephalodium
-cephalofacial
 cephalogram
 cephaloid
 culminates
@@ -27575,6 +27574,7 @@ covered
 coverer
 campfire
 coverings
+cephalofacial
 comped
 cower
 coverlets
