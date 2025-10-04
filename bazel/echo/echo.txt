@@ -347,6 +347,7 @@ electrolyzability
 eaten
 eighty
 electrodynamic
+entoblastic
 enchantment
 epacridaceous
 espying
@@ -6730,7 +6731,6 @@ evangelistarion
 engineers
 eggheads
 entitling
-entoblastic
 entobronchium
 entocalcaneal
 exploder
