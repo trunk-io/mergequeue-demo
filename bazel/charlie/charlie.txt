@@ -4556,7 +4556,6 @@ colorationally
 carnosine
 carnous
 carns
-chamaecistus
 caro
 cuarto
 caroa
@@ -25875,6 +25874,7 @@ chuser
 cedric
 coolant
 cimicid
+chamaecistus
 cacoplastic
 cocooning
 corruptionist

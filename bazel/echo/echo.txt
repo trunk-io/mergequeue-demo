@@ -1858,7 +1858,6 @@ eyepiece
 experience
 erasability
 errata
-enarm
 equigranular
 eximiousness
 encashes
@@ -4190,6 +4189,7 @@ extoller
 enteropathogenic
 elohim
 enlay
+enarm
 epicenes
 epigastrium
 edeagra
