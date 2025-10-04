@@ -5300,7 +5300,6 @@ endymion
 evicted
 envolupen
 evocatory
-endotheliomas
 empyreum
 eccentrometer
 endothermal
@@ -9402,6 +9401,7 @@ enfranchiser
 extent
 elsewhere
 endodontologist
+endotheliomas
 egency
 entre
 excitabilities
