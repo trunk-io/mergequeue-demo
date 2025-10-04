@@ -4399,7 +4399,6 @@ courthouses
 cariri
 caririan
 commoner
-choke
 carisa
 cabilliau
 concertina
@@ -11386,6 +11385,7 @@ chlorophyceae
 convenee
 cressweed
 cotemporary
+choke
 chlorophyllase
 chlorophyllian
 curblike
