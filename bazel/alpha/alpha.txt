@@ -3551,7 +3551,6 @@ adenitis
 adenization
 adenoacanthoma
 adenocarcinoma
-adenocarcinomas
 adenocarcinomata
 adenochondroma
 accouterment
@@ -14521,6 +14520,7 @@ archiprelatical
 anthropomorphitical
 anthropomorphized
 anetholes
+adenocarcinomas
 anthropomorphology
 anthropomorphologically
 arthrozoan
