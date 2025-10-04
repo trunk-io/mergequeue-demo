@@ -9407,7 +9407,6 @@ allodies
 altarpieces
 armbone
 anemones
-angiosclerotic
 amyous
 alter
 alterable
@@ -21299,6 +21298,7 @@ asklepios
 actiniohematin
 acing
 askos
+angiosclerotic
 askr
 anisomerous
 acrorrheuma
