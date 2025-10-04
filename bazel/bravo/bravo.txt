@@ -1224,7 +1224,6 @@ blindedly
 barrowful
 bendy
 barleys
-bottomer
 brimmed
 bruke
 blab
@@ -15496,6 +15495,7 @@ bodoni
 banding
 babyish
 brannerite
+bottomer
 bereaved
 batonnier
 bindheimite
