@@ -6226,7 +6226,6 @@ cassolette
 condoned
 concise
 calanthe
-caudle
 caudles
 caudocephalad
 ceile
@@ -23088,6 +23087,7 @@ consonancy
 consonant
 consonantal
 consonantalize
+caudle
 coralligena
 consonantic
 cavalcade
