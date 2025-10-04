@@ -7598,7 +7598,6 @@ cartoonists
 cerebrize
 caestus
 cerebrocardiac
-cerebroganglionic
 cerebroid
 cerebromeningitis
 celiopyosis
@@ -20187,6 +20186,7 @@ commiserations
 callicebus
 commissary
 canham
+cerebroganglionic
 cleverly
 coccidiomorpha
 commission
