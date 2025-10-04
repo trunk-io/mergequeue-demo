@@ -13241,7 +13241,6 @@ cyclanthus
 cyclase
 cyclases
 ciclatoun
-cyclecar
 coralbells
 cyclecars
 causals
@@ -18217,6 +18216,7 @@ centralistic
 coequates
 coerce
 coerced
+cyclecar
 controversion
 combust
 clarifications
