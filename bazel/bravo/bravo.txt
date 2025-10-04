@@ -5840,7 +5840,6 @@ balopticon
 bellmaking
 banquo
 bachel
-buckbrush
 baronship
 broch
 bellmanship
@@ -6945,6 +6944,7 @@ badder
 bismuths
 bagheli
 brott
+buckbrush
 biatomic
 bilihumin
 balky
