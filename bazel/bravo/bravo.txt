@@ -4772,6 +4772,7 @@ bedrizzle
 backpedaled
 burriest
 bedroll
+bombardman
 bedrooms
 bugling
 bruckle
@@ -11182,7 +11183,6 @@ bailee
 barkometer
 bushgoat
 bugfish
-bombardman
 biquadratic
 belched
 blearily
