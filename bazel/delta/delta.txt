@@ -5529,7 +5529,6 @@ deoxidisation
 dsnames
 dissolubility
 deadest
-dorsiventrality
 deoxidize
 deoxygenated
 depaints
@@ -17292,6 +17291,7 @@ delighter
 drollishness
 denitrification
 drolls
+dorsiventrality
 drome
 deipnophobia
 dromedarian
