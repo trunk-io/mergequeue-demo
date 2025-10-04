@@ -5876,6 +5876,7 @@ bucconasal
 bentwoods
 bluer
 blackman
+bes
 benedicks
 begaudy
 bellweed
@@ -6863,7 +6864,6 @@ bittium
 berzelianite
 burley
 baroi
-bes
 boaedon
 busboy
 battalia
