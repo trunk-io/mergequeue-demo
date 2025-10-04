@@ -2767,7 +2767,6 @@ baudrons
 bowlers
 behaviourally
 baronries
-benniseed
 briggs
 bowsprits
 butchered
@@ -4919,6 +4918,7 @@ beehive
 busser
 bandy
 beek
+benniseed
 balkers
 burrgrailer
 bergamot
