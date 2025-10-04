@@ -5106,6 +5106,7 @@ beflannel
 bureaucrat
 beflap
 beseem
+blurb
 beflea
 brainier
 begirdle
@@ -10833,7 +10834,6 @@ behooved
 blesboks
 blessedness
 blesser
-blurb
 befriz
 boxtree
 blessingly
