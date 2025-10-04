@@ -9570,6 +9570,7 @@ checkstring
 checksum
 construct
 checksumming
+chasid
 castro
 chromogenous
 catechize
@@ -19586,7 +19587,6 @@ colstaff
 coups
 cnidogenous
 congresswoman
-chasid
 coltishly
 coltlike
 calicos
