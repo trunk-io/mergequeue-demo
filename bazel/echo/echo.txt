@@ -1309,6 +1309,7 @@ enlarge
 equip
 equilibristat
 enclog
+elamite
 effectuated
 effectuating
 effervesced
@@ -2014,7 +2015,6 @@ echoencephalography
 elaic
 enteroplegia
 elaioplast
-elamite
 elamitish
 electrophorese
 evilly
