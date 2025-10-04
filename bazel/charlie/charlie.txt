@@ -4258,6 +4258,7 @@ carex
 cottages
 carfare
 carfares
+codpieces
 cassie
 carfloat
 coater
@@ -17970,7 +17971,6 @@ crystallographical
 combes
 citola
 cercolabidae
-codpieces
 childbirth
 carwitchet
 cods
