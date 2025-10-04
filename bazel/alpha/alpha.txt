@@ -2174,7 +2174,6 @@ achondritic
 achondroplasia
 agrostology
 asthenology
-achordata
 antiagglutinative
 anagraph
 achorion
@@ -7900,6 +7899,7 @@ agnostically
 affranchising
 acetylenation
 alembicated
+achordata
 antetype
 antiantitoxin
 alen
