@@ -2954,7 +2954,6 @@ archenteron
 avatara
 axtree
 alfileria
-applemonger
 antineutrality
 actinisms
 angiotribe
@@ -17842,6 +17841,7 @@ apprenticement
 agnostic
 appressed
 asuri
+applemonger
 appressoria
 appressorial
 anticold
