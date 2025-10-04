@@ -25658,7 +25658,6 @@ chondriocont
 credenciveness
 crusting
 corpse
-corpses
 creeshy
 corpsy
 cleverness
@@ -31008,6 +31007,7 @@ collators
 chromobacterium
 cytochylema
 cumenyl
+corpses
 cumhal
 countersconce
 coumalin
