@@ -4332,6 +4332,7 @@ caricology
 cloches
 crisper
 counterslope
+circumradii
 crum
 caricologist
 cowlstaff
@@ -14387,7 +14388,6 @@ clavierist
 circumpose
 condite
 circumquaque
-circumradii
 circumradius
 circumradiuses
 charitable
