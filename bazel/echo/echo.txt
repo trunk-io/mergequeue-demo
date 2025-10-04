@@ -457,7 +457,6 @@ eucommia
 ecclesiarch
 ecclesiarchy
 emcee
-extoll
 ecclesiast
 expansion
 encephalomata
@@ -5449,6 +5448,7 @@ earwort
 equidistantial
 evertors
 exoterics
+extoll
 enfeebles
 envapour
 enent
