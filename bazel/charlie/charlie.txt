@@ -6568,7 +6568,6 @@ caic
 charcuterie
 calamitoid
 cdf
-carid
 cheroot
 cdg
 cdr
@@ -22881,6 +22880,7 @@ combinableness
 cheirotherium
 consequent
 ciconian
+carid
 consequential
 communalist
 consequentiality

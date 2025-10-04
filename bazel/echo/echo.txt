@@ -1077,7 +1077,6 @@ edible
 embase
 endothelial
 emplaster
-embeddable
 epistolic
 elective
 exfigure
@@ -8290,6 +8289,7 @@ eophytic
 effortlessness
 excrementary
 encumberingly
+embeddable
 epithetically
 equipment
 extortionary
