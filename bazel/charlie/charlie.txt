@@ -5118,7 +5118,6 @@ caprylene
 casemates
 casements
 caseolysis
-caseose
 caseous
 caserios
 chronal
@@ -8638,6 +8637,7 @@ cohesionless
 changelessness
 changelings
 changement
+caseose
 cuissard
 changeovers
 chiefs
