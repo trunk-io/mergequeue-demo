@@ -3317,6 +3317,7 @@ embargoes
 endocrinologist
 ectodactylism
 enc
+epidosite
 eavedropper
 embark
 epichorial
@@ -4728,7 +4729,6 @@ electromyography
 embosks
 entypies
 enduro
-epidosite
 escape
 erugate
 estrogenicity
