@@ -1151,7 +1151,6 @@ educatability
 eident
 educatable
 educatedness
-electrolyzable
 eudiometric
 educates
 engrainedly
@@ -8802,6 +8801,7 @@ egyptologic
 entozoology
 eyeservant
 encrypt
+electrolyzable
 extrastapedial
 emptive
 euonymin
