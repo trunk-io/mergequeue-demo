@@ -9977,7 +9977,6 @@ consumable
 cheniller
 colocasia
 catacombic
-criollo
 chiro
 chenopods
 cajuputs
@@ -20306,6 +20305,7 @@ classless
 craziness
 commoved
 conjectured
+criollo
 cephalometry
 caranda
 coisns
