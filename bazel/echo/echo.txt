@@ -10288,6 +10288,7 @@ entoolitic
 enlink
 email
 expresser
+express
 epiloguing
 endotrophi
 endosepsis
@@ -13403,7 +13404,6 @@ enflamed
 eulogised
 ems
 enthrong
-express
 extralinguistic
 eudaemonical
 empire
