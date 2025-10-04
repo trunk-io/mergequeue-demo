@@ -4442,7 +4442,6 @@ ensamples
 emancipate
 enactive
 emerita
-ephorate
 encephalopathia
 encephalophyma
 ethynylation
@@ -10304,6 +10303,7 @@ elytrorrhagia
 emboil
 expendable
 excogitating
+ephorate
 equipostile
 electuaries
 exosmic
