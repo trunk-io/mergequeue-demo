@@ -6730,7 +6730,6 @@ cheapjack
 celeb
 capicha
 celebrant
-celebrants
 comiakin
 celebratedly
 celebrater
@@ -16746,6 +16745,7 @@ caecilian
 crimpling
 clots
 clotted
+celebrants
 cyanus
 carts
 consonantalized
