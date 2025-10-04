@@ -3623,7 +3623,6 @@ encyrtidae
 expectant
 elec
 eluates
-effluvium
 epitheliosis
 emasculatory
 embryophore
@@ -8533,6 +8532,7 @@ ergatomorph
 equid
 equidimensional
 equidist
+effluvium
 essancias
 eyebolts
 eumerogenesis
