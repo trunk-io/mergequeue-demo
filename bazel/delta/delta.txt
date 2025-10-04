@@ -802,6 +802,7 @@ dovecote
 danegelds
 dungeon
 deckhead
+discomycete
 daneweed
 daneweeds
 detections
@@ -11500,7 +11501,6 @@ derivationist
 deuteropathic
 discomfortingly
 discomforts
-discomycete
 diabasic
 dehydrase
 dirham
