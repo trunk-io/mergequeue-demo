@@ -8897,6 +8897,7 @@ endosmotically
 exteroceptive
 erythematic
 endoplasm
+exclude
 ericas
 ericetal
 exothecium
@@ -14056,7 +14057,6 @@ exteroceptist
 exorcists
 echelonment
 endangitis
-exclude
 enquarter
 extracurriculum
 enfect
