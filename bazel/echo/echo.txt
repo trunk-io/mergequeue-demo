@@ -1041,7 +1041,6 @@ exadversum
 experimentor
 etchareottine
 excisable
-eyeless
 endoskeleton
 eqpt
 experimentalist
@@ -5235,6 +5234,7 @@ epipodia
 endoskeletons
 endosmic
 evaders
+eyeless
 embaphium
 ethenyl
 emendicate
