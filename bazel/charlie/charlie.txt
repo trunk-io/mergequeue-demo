@@ -863,6 +863,7 @@ codesigns
 colicky
 cayugas
 cayuse
+cricetine
 cayuses
 concaver
 cajan
@@ -22585,7 +22586,6 @@ canel
 championlike
 conjures
 conjuring
-cricetine
 conk
 conkanee
 conker
