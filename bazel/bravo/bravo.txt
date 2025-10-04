@@ -4870,6 +4870,7 @@ backspeer
 bomarea
 beechwood
 bright
+buckoes
 bourbons
 belaud
 blackeyes
@@ -16761,7 +16762,6 @@ bleached
 bodycheck
 bucklers
 bucko
-buckoes
 baronetise
 balaam
 blowcase
