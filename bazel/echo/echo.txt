@@ -816,6 +816,7 @@ efficient
 electrolyser
 enorthotrope
 electrotypist
+enstool
 elong
 eyebrows
 ectodermosis
@@ -4390,7 +4391,6 @@ erythrophagous
 encephalitic
 executively
 emulators
-enstool
 encephalographic
 ekphorize
 entrainer
