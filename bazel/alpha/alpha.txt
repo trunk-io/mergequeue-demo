@@ -8647,7 +8647,6 @@ alleyite
 alleys
 aspirata
 automatonlike
-alleyway
 antihidrotic
 alchitran
 abled
@@ -10792,6 +10791,7 @@ aselline
 aljofaina
 alzheimer
 ammites
+alleyway
 ammo
 arthropod
 albinistic
