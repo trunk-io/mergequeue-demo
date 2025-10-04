@@ -14361,7 +14361,6 @@ alces
 autocue
 agpaite
 antholite
-anthology
 angico
 anthologised
 adephagia
@@ -16612,6 +16611,7 @@ animalculae
 abnormalism
 apocarpies
 adventures
+anthology
 alphosis
 antineuritic
 autoelevation
