@@ -323,7 +323,6 @@ abecedarian
 agua
 anacara
 arriere
-abed
 ardisia
 ablet
 alnus
@@ -14258,6 +14257,7 @@ acosmism
 allothimorphic
 avellaneous
 aflat
+abed
 ammonite
 anesthetize
 autotheater

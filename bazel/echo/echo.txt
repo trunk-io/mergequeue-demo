@@ -7124,7 +7124,6 @@ enwheels
 elemis
 entomoid
 embden
-enwing
 educationese
 ecclesiasticus
 enamines
@@ -7511,6 +7510,7 @@ eduardo
 enddamage
 ebenaceous
 endoscopically
+enwing
 exucontian
 eructing
 explanitory
