@@ -7016,7 +7016,6 @@ aborters
 anemometrographic
 antiplague
 akepiro
-alveolus
 assagaied
 adman
 apogeal
@@ -22817,6 +22816,7 @@ atomician
 ambroids
 assimilative
 atriplex
+alveolus
 autolaryngoscope
 asterioid
 ataxaphasia
