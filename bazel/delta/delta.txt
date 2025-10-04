@@ -2646,7 +2646,6 @@ decenniad
 decompensations
 dasylirion
 doorkeeper
-decompiler
 decomposable
 diceman
 dramatizations
@@ -5800,6 +5799,7 @@ deponing
 distributee
 deltidium
 depopulates
+decompiler
 depopulating
 doodler
 depopulation
