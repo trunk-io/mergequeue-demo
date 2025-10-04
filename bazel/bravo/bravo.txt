@@ -1986,6 +1986,7 @@ banknote
 bristly
 biophysicist
 banknotes
+bethroot
 brasserie
 boomster
 brandsolder
@@ -7349,7 +7350,6 @@ biorhythmicities
 bethorns
 befogs
 basidorsal
-bethroot
 blackbirds
 bluebreast
 bamboche
