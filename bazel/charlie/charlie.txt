@@ -2728,6 +2728,7 @@ colts
 cancerphobia
 cannetille
 claviers
+concealable
 cereless
 cannibalization
 cannibalized
@@ -21152,7 +21153,6 @@ capitals
 concavity
 corrupter
 conceal
-concealable
 cowy
 concealedly
 concealedness
