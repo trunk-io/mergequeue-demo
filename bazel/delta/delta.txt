@@ -9833,7 +9833,6 @@ daimones
 denumerable
 deicer
 duds
-digesters
 dumetose
 dillydally
 dejectile
@@ -12250,6 +12249,7 @@ disfurniture
 disgarnish
 disyntheme
 descartes
+digesters
 deliberativeness
 dossiere
 demoniacism
