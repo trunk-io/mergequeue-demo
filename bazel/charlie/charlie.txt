@@ -9302,7 +9302,6 @@ chattermagging
 chatters
 chatti
 carbohydrates
-counts
 cuspidors
 chairmending
 confragose
@@ -17569,6 +17568,7 @@ chrysostomic
 chimneyhead
 coburg
 cobweb
+counts
 cerion
 coemployed
 centavos
