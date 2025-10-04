@@ -7558,7 +7558,6 @@ endorsor
 extolment
 espinos
 epicoeloma
-euchymous
 epicoelous
 epicondyle
 epicondylian
@@ -11765,6 +11764,7 @@ exaun
 exaltative
 earthrise
 ectomorphy
+euchymous
 ectothermic
 epizoon
 exists
