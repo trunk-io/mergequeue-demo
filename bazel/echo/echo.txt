@@ -5323,7 +5323,6 @@ esthesiometer
 enfester
 exportation
 ed
-eightsman
 example
 episcenia
 elsewhither
@@ -10776,6 +10775,7 @@ euskera
 erenach
 erysiphe
 eunectes
+eightsman
 esterases
 encumber
 enureses
