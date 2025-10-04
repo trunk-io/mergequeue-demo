@@ -3148,7 +3148,6 @@ cultivation
 cede
 capeweed
 cotylophora
-coverlet
 craked
 citruses
 capewise
@@ -26933,6 +26932,7 @@ chopfallen
 cystopyelonephritis
 cartonniers
 counterjudging
+coverlet
 credentialism
 counterjumper
 crosne
