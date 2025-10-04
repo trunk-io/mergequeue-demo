@@ -16917,6 +16917,7 @@ correctant
 confirmity
 caravanned
 clubhauled
+classics
 clubhauls
 clubhouses
 clubionidae
@@ -28114,7 +28115,6 @@ convincible
 crania
 cancerate
 crocodiline
-classics
 cranian
 craniata
 cranic
