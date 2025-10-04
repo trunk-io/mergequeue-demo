@@ -6266,7 +6266,6 @@ dispells
 dermabrasion
 dithyramb
 detectors
-degrades
 dipsades
 disbenchment
 dermanaplasty
@@ -11101,6 +11100,7 @@ dissertator
 disarticulating
 disarticulation
 detruded
+degrades
 disarticulator
 disasinize
 deliciously
