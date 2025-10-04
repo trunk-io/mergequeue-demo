@@ -8651,6 +8651,7 @@ aspirata
 automatonlike
 alleyway
 antihidrotic
+automobile
 alchitran
 abled
 alleyways
@@ -24278,7 +24279,6 @@ arrivederci
 autometric
 argilloferruginous
 armillated
-automobile
 automobiled
 atlantoaxial
 automobiles
