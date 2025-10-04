@@ -5331,7 +5331,6 @@ balmy
 bult
 begone
 bombazeen
-boxlike
 braca
 barbarizes
 begonia
@@ -15605,6 +15604,7 @@ britchka
 brisking
 bareboat
 briss
+boxlike
 bristlecone
 bristled
 bakhtiari
