@@ -7132,7 +7132,6 @@ ascenders
 awane
 alabastrums
 aminoxylol
-amblydactyla
 aethrioscope
 atomical
 airworthiness
@@ -21517,6 +21516,7 @@ aspidospermine
 acyrology
 aspiquee
 aspirant
+amblydactyla
 autophagia
 agonizing
 aelurophobia
