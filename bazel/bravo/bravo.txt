@@ -1069,7 +1069,6 @@ bundts
 benweed
 blet
 bayonets
-balsams
 benefactors
 blksize
 backword
@@ -1155,6 +1154,7 @@ beltmen
 bajree
 bairnlier
 baized
+balsams
 bercelet
 bajury
 blackbelly
