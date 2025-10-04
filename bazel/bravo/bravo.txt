@@ -2618,6 +2618,7 @@ bellying
 bable
 bribeable
 barling
+broadsword
 bortz
 bluestone
 bertholletia
@@ -15714,7 +15715,6 @@ broadsides
 breakfront
 burrawang
 broadspread
-broadsword
 bamangwato
 bromethyl
 brob
