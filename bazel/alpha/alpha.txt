@@ -5479,7 +5479,6 @@ afterplanting
 afterreckoning
 assemblywoman
 articulare
-albarello
 andiroba
 anemogram
 alumna
@@ -11947,6 +11946,7 @@ alfione
 azeotropy
 aeolotropy
 anakoluthia
+albarello
 anaplasia
 antithesism
 ataghans
