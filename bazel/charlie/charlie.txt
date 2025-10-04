@@ -11039,7 +11039,6 @@ coigning
 chirurgeonly
 chirurgery
 chis
-chiseled
 curuba
 chiseler
 cheapens
@@ -20815,6 +20814,7 @@ complimentative
 ceste
 cana
 complimentingly
+chiseled
 corkmaker
 complin
 cranioplasty
