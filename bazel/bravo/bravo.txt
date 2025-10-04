@@ -1026,6 +1026,7 @@ botargos
 biogeographic
 busway
 bustiest
+bacteroides
 boyaus
 basanite
 bersil
@@ -3520,7 +3521,6 @@ bilobate
 battleground
 berkeleyite
 bien
-bacteroides
 bathysophical
 bathysphere
 bigmouths
