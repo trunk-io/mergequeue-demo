@@ -9691,6 +9691,7 @@ bleat
 bismark
 boulder
 baltimorean
+blueprint
 bororo
 bladed
 besmiles
@@ -11450,7 +11451,6 @@ boatheader
 bairnliest
 bluepoint
 bluepoints
-blueprint
 brothier
 breakax
 blancmange
