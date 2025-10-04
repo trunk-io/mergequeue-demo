@@ -3932,7 +3932,6 @@ embargos
 emphatical
 endometritis
 elucidations
-eructated
 emphysema
 ethionamide
 endobronchitis
@@ -8915,6 +8914,7 @@ encephalin
 exhausted
 exoskeletal
 extruded
+eructated
 eteoclus
 exteroceptive
 erythematic
