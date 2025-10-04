@@ -6653,6 +6653,7 @@ beribanded
 banefulness
 birdy
 bargeboard
+bandlet
 brig
 barbarious
 beriberis
@@ -13793,7 +13794,6 @@ boches
 bouto
 butterwright
 barehanded
-bandlet
 buccaned
 bedmaker
 blossomtime
