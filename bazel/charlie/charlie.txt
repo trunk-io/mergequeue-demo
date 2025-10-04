@@ -3987,7 +3987,6 @@ carcinomatous
 carcinomorphic
 cholericness
 carcinophagous
-carcinopolypus
 carcinosarcoma
 coloreds
 chloralide
@@ -31812,6 +31811,7 @@ curvity
 cutest
 contractee
 coolidge
+carcinopolypus
 complimenter
 cyathia
 cuticula
