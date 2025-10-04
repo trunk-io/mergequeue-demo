@@ -1376,6 +1376,7 @@ balds
 baculums
 bale
 babassu
+boracic
 baleare
 bajonado
 baldheads
@@ -10265,7 +10266,6 @@ bellweather
 bulldogs
 biborate
 belly
-boracic
 blacksmithing
 biochemy
 beastdom
