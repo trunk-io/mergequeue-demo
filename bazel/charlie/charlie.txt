@@ -11191,7 +11191,6 @@ chloraemia
 chloragogue
 chloral
 chloralformamide
-colorblind
 cupelling
 comburimeter
 cymbocephalic
@@ -25124,6 +25123,7 @@ coreign
 chetif
 coreigner
 coreigns
+colorblind
 corejoice
 caryophyllene
 corelated
