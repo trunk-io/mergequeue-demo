@@ -10273,7 +10273,6 @@ bocaccio
 blacksnake
 baneful
 boltonite
-bliaut
 ballsy
 blacktongue
 bedless
@@ -12773,6 +12772,7 @@ bloodhounds
 belamcanda
 bryon
 breadthriders
+bliaut
 bookishness
 boxty
 breviate
