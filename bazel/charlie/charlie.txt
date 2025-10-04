@@ -9901,7 +9901,6 @@ chemosorption
 chemosphere
 collateral
 cancers
-chemosurgery
 chemotactic
 curialities
 cresylene
@@ -13239,6 +13238,7 @@ coworker
 cyclanthus
 cyclase
 cyclases
+chemosurgery
 ciclatoun
 cyclecar
 coralbells
