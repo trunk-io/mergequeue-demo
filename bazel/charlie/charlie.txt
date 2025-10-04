@@ -3571,6 +3571,7 @@ caaba
 cinques
 circle
 caraboid
+conelike
 carabus
 carack
 caracks
@@ -28983,7 +28984,6 @@ cribriform
 cribriformity
 convertaplane
 cribs
-conelike
 cribworks
 cardinalate
 convocated
