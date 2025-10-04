@@ -1590,7 +1590,6 @@ explanatively
 elchee
 exotoxin
 ekhimi
-entrez
 enterobacterium
 ejaculation
 earthpea
@@ -12705,6 +12704,7 @@ exorbitation
 eloah
 epidemiologically
 epispinal
+entrez
 emulatively
 ethers
 equivoque
