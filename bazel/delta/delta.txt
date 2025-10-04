@@ -805,6 +805,7 @@ detections
 disingenious
 dangerously
 deduced
+demireps
 dangerousness
 distention
 dangle
@@ -1924,7 +1925,6 @@ distender
 debs
 dyophysitism
 defenceless
-demireps
 dallyman
 debtee
 denudated
