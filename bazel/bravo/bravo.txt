@@ -8120,7 +8120,6 @@ biotherapy
 bioherms
 binocularity
 bourbon
-bug
 blasphemer
 beslubber
 besieging
@@ -10804,6 +10803,7 @@ beplumed
 blepharoplastic
 bigwigs
 blepharoptosis
+bug
 blepharosynechia
 bodes
 blepharosphincterectomy
