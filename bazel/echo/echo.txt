@@ -4713,7 +4713,6 @@ excusatory
 encode
 epicauta
 encoded
-ensnarements
 encoding
 effectivity
 exogeny
@@ -5083,6 +5082,7 @@ ewe
 endoenzyme
 ephebes
 entresol
+ensnarements
 elytrorrhaphy
 epicarp
 encyclic
