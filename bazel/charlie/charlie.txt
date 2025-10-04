@@ -14198,7 +14198,6 @@ cabinlike
 coffers
 cryalgesia
 circularisation
-cronus
 circularised
 calandre
 coit
@@ -14763,6 +14762,7 @@ cookery
 cite
 citer
 cites
+cronus
 citharas
 citharexylum
 citharist
