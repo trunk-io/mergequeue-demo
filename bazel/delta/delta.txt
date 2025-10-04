@@ -7459,6 +7459,7 @@ drumfire
 disseised
 dervish
 damn
+dismissing
 doggereled
 doebird
 detrude
@@ -12868,7 +12869,6 @@ dromond
 dismissals
 dismissed
 deconsideration
-dismissing
 dismissory
 disapprobatory
 decoratory
