@@ -2418,7 +2418,6 @@ druidry
 doodads
 dispelled
 doucepere
-disaffects
 decima
 decimalism
 dueling
@@ -11729,6 +11728,7 @@ deplume
 discradle
 deprivation
 dockhands
+disaffects
 detectable
 demissness
 dactylologies
