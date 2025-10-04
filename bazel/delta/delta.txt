@@ -2651,7 +2651,6 @@ decompiler
 decomposable
 diceman
 dramatizations
-decomposer
 debrief
 disciflorous
 draintile
@@ -11069,6 +11068,7 @@ decernment
 disappendant
 dobras
 detergents
+decomposer
 disappreciation
 disappropriate
 diabolisation
