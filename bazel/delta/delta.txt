@@ -1004,7 +1004,6 @@ doubleprecision
 dark
 darked
 dont
-darkeys
 darkens
 disruptions
 deformeter
@@ -7594,6 +7593,7 @@ ducktail
 druidesses
 discs
 deuterotype
+darkeys
 displeasure
 deuterozooid
 dental
