@@ -1074,6 +1074,7 @@ deoxygenate
 darsonval
 disbanding
 dartagnan
+dwarfer
 darters
 dartled
 dedecorate
@@ -4459,7 +4460,6 @@ disassembled
 dementation
 diffusional
 dementholize
-dwarfer
 disseated
 dropkicks
 demiatheism
