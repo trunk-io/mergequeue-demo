@@ -7160,6 +7160,7 @@ centraxonial
 centre
 clinoaxis
 cpo
+clewed
 centred
 caisse
 centref
@@ -30398,7 +30399,6 @@ coversed
 crustaceology
 chinovnik
 crustaceological
-clewed
 crustaceologist
 cosmical
 cattishness
