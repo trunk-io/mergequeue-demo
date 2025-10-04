@@ -1992,7 +1992,6 @@ baptanodon
 banjorine
 bv
 beflecking
-bank
 bankalachi
 biquartz
 bidactyl
@@ -7145,6 +7144,7 @@ booties
 backstick
 beambird
 backsets
+bank
 brashest
 bespray
 ballute
