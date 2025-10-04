@@ -1957,7 +1957,6 @@ bandlimiting
 biotopes
 boatbuilder
 bulrushy
-bani
 brickmaking
 bevelers
 blea
@@ -5055,6 +5054,7 @@ bandoline
 bilingual
 balefire
 buffo
+bani
 biocatalyst
 befezzed
 broiderer
