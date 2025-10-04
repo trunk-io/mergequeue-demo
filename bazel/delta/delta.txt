@@ -4170,6 +4170,7 @@ delimitation
 delimiter
 deviational
 displumed
+disjointness
 departments
 diplomyelia
 deline
@@ -7294,7 +7295,6 @@ demurrant
 daguilla
 darklings
 delubrum
-disjointness
 deverbative
 desolately
 dyingly
