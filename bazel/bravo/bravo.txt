@@ -2762,7 +2762,6 @@ bhp
 barrowman
 bassets
 baudrons
-bowlers
 behaviourally
 baronries
 benniseed
@@ -16370,6 +16369,7 @@ balalaikas
 beglerbeglik
 broadways
 biliary
+bowlers
 biter
 brulee
 beknottedness
