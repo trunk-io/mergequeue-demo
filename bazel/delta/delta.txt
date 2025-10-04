@@ -7115,7 +7115,6 @@ duramen
 destinezite
 dessous
 doodad
-durst
 doolie
 difficultly
 ducting
@@ -18407,6 +18406,7 @@ devonian
 decelerations
 dauncy
 duolog
+durst
 duologues
 doubtedly
 disembarkment
