@@ -1059,6 +1059,7 @@ bedizenment
 baioc
 blower
 begattal
+baccalaureat
 braciole
 baiocchi
 boxy
@@ -9675,7 +9676,6 @@ bulleting
 bisimine
 biggening
 breaches
-baccalaureat
 baglike
 bullish
 bryonia
