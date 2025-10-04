@@ -4718,7 +4718,6 @@ bedown
 bradding
 bedpans
 bries
-beeball
 besplit
 bedpost
 bluffed
@@ -16826,6 +16825,7 @@ blockhole
 buddleias
 brainstem
 bicarbonate
+beeball
 begari
 blindfolding
 bagasse
