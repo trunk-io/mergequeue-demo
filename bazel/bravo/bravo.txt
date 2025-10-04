@@ -1511,6 +1511,7 @@ bodyhood
 bersiamite
 bulbiform
 bouton
+boccia
 backsword
 ballastic
 ballata
@@ -2485,7 +2486,6 @@ beflum
 bedizen
 botaniser
 barghests
-boccia
 blueblack
 beslash
 blushingly
