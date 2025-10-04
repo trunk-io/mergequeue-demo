@@ -3318,7 +3318,6 @@ equipage
 exteroceptor
 equilibrium
 elohist
-editing
 em
 embarricado
 electorship
@@ -10953,6 +10952,7 @@ enridged
 epiclastic
 endopterygote
 electrodialitically
+editing
 editorializations
 elfin
 extund
