@@ -15931,7 +15931,6 @@ accretion
 aureateness
 antiqueness
 antiquing
-arciform
 arcadianly
 antiquation
 adnex
@@ -20138,6 +20137,7 @@ abash
 aluminiform
 airfield
 arose
+arciform
 ataxias
 angledog
 angulation
