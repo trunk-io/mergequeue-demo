@@ -7415,7 +7415,6 @@ betread
 barnier
 burglarproofed
 bathybius
-botrydium
 betrend
 braveries
 bacteriopurpurin
@@ -11302,6 +11301,7 @@ byelorussian
 barytophyllite
 bachelor
 blowlamp
+botrydium
 blown
 blowoff
 blowouts
