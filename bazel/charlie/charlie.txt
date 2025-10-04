@@ -1092,7 +1092,6 @@ calcinosis
 calciobiotite
 crownband
 calcioferrite
-ceratobranchial
 calcioscheelite
 calciovolborthite
 calciphylactic
@@ -7823,6 +7822,7 @@ coruscation
 choledochitis
 calculative
 coronatorial
+ceratobranchial
 cervicapra
 canafistulo
 cervicectomy
