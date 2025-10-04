@@ -2153,7 +2153,6 @@ emboss
 electrographic
 exedrae
 eastling
-esthesia
 epicenters
 epistome
 expanded
@@ -6491,6 +6490,7 @@ emiction
 endothelioma
 endited
 entelechies
+esthesia
 engorging
 epidermophytosis
 erythorbate
