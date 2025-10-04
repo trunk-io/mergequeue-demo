@@ -2520,7 +2520,6 @@ eirenicon
 essaying
 embassies
 elysian
-electropathy
 ecchondrosis
 electrocutioner
 ebulus
@@ -4697,6 +4696,7 @@ epencephalon
 elucubration
 elator
 enclosures
+electropathy
 elench
 exuberantness
 emprent
