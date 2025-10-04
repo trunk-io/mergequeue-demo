@@ -13262,7 +13262,6 @@ cyclicalness
 cyclide
 carthorse
 creamery
-cubeb
 cyclindroid
 calomel
 characterized
@@ -17337,6 +17336,7 @@ coannexes
 coannihilate
 cobol
 clarions
+cubeb
 churrigueresque
 coapparition
 coappear
