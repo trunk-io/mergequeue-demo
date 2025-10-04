@@ -4607,6 +4607,7 @@ briquetted
 buildable
 barlows
 bedford
+breathes
 bedframes
 broomed
 backbar
@@ -15013,7 +15014,6 @@ breathe
 bravuraish
 blennophlogisma
 bakerite
-breathes
 barbarisms
 bandeau
 boarstaff
