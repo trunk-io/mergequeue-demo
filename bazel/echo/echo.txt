@@ -9012,7 +9012,6 @@ egests
 ephesine
 emlen
 endothermic
-eigenfrequency
 exocyclic
 equiglacial
 episcenium
@@ -9715,6 +9714,7 @@ emerick
 enneahedron
 ectogenesis
 enrobing
+eigenfrequency
 eucharist
 exfoliatory
 erythronium
