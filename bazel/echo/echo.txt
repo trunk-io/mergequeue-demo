@@ -2227,7 +2227,6 @@ enbloc
 endolymph
 excretal
 eger
-encased
 ester
 equality
 enleagued
@@ -10699,6 +10698,7 @@ emacerate
 emblazer
 euhyostylic
 eosine
+encased
 eukairite
 evangelistics
 eaver
