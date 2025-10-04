@@ -10058,7 +10058,6 @@ attackman
 astral
 antasthmatic
 amblystegite
-amblystoma
 australianism
 androconium
 aeolidae
@@ -19485,6 +19484,7 @@ abjure
 amphoric
 ametrope
 aftercourse
+amblystoma
 achromatism
 arglebargled
 anthelix
