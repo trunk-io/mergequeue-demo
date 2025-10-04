@@ -1077,7 +1077,6 @@ emplaster
 embeddable
 epistolic
 elective
-edification
 exfigure
 earock
 evaluates
@@ -10064,6 +10063,7 @@ englishing
 escharine
 ethenes
 ethenoid
+edification
 evangeliary
 ethenol
 ensorcelize
