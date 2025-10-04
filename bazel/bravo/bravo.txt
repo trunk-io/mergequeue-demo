@@ -2950,6 +2950,7 @@ beforested
 burrel
 barroom
 barruly
+bullarium
 bedumb
 barsac
 backhatch
@@ -6827,7 +6828,6 @@ bioacoustics
 basigenous
 broiders
 bertrum
-bullarium
 beachy
 broadsided
 ber
