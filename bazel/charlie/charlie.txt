@@ -2253,6 +2253,7 @@ cookeys
 canalatura
 completer
 cromorne
+cirrate
 canalboat
 charales
 canale
@@ -14487,7 +14488,6 @@ caddoan
 cirques
 conditionate
 cananaean
-cirrate
 compounds
 cirratulidae
 cortian
