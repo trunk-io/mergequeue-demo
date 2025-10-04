@@ -28000,7 +28000,6 @@ craftly
 croucher
 charactonym
 craftsmanship
-craftsmaster
 cistophori
 craftspeople
 concubinaries
@@ -29627,6 +29626,7 @@ computerlike
 croakers
 croaky
 combated
+craftsmaster
 cebine
 croakier
 croakily
