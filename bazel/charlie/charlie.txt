@@ -7991,6 +7991,7 @@ chablis
 coelarium
 crannog
 clergies
+closets
 chabouk
 crankshaft
 chabuk
@@ -23351,7 +23352,6 @@ clarksville
 ceiled
 coumarin
 cliquishness
-closets
 consultive
 consulto
 consultor
