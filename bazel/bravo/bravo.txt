@@ -6829,7 +6829,6 @@ bioacoustics
 basigenous
 broiders
 bertrum
-bullarium
 beachy
 broadsided
 ber
@@ -15222,6 +15221,7 @@ blancs
 barbiturate
 backslash
 batwa
+bullarium
 bribing
 bellowsmaker
 breastplough
