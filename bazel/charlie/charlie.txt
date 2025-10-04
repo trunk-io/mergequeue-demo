@@ -2729,6 +2729,7 @@ cereless
 cannibalization
 cannibalized
 chimps
+containerized
 cluttering
 cannibalizing
 coelomes
@@ -17689,7 +17690,6 @@ cocher
 colonopexy
 cochero
 cochief
-containerized
 cochleae
 cochlear
 colorifics
