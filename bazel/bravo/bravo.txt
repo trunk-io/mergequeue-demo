@@ -772,7 +772,6 @@ beltmaking
 begod
 browniness
 bldr
-blautok
 baetulus
 boothose
 batrachophobia
@@ -17676,6 +17675,7 @@ barbettes
 biotoxin
 bookkeeper
 burkundauze
+blautok
 berlines
 bridegod
 burkundaz
