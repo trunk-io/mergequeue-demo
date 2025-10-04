@@ -9467,6 +9467,7 @@ bedirties
 brewhouses
 bourride
 birky
+bureaucrats
 birkremite
 blastematic
 boldine
@@ -18126,7 +18127,6 @@ bloops
 bloodlettings
 buskin
 butcherer
-bureaucrats
 boll
 ballyrag
 bistouries
