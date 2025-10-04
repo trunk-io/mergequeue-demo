@@ -5941,7 +5941,6 @@ bionomy
 broads
 belute
 bhungini
-belonoid
 belvedere
 bluewood
 belvedered
@@ -11385,6 +11384,7 @@ bluebottle
 bingies
 badinaged
 build
+belonoid
 bylina
 bibbed
 bibio
