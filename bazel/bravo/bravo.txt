@@ -3227,7 +3227,6 @@ burnover
 bolted
 basinal
 broader
-boniform
 bivinyl
 briscola
 blacklegism
@@ -7586,6 +7585,7 @@ brainworker
 banagos
 bulrush
 beweeper
+boniform
 bangling
 beneficent
 bombilate
