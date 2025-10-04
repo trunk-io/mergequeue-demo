@@ -2718,7 +2718,6 @@ beeflower
 bm
 bicolored
 backtalk
-bioplasm
 bonneting
 bukeyef
 barology
@@ -15471,6 +15470,7 @@ braata
 bereave
 bullfighter
 buteo
+bioplasm
 bono
 benetted
 bludgeoner
