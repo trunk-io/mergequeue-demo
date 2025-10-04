@@ -5985,6 +5985,7 @@ epistles
 edgemaker
 ecumenopolis
 escroll
+enkindled
 endognath
 extinctions
 eolith
@@ -7823,7 +7824,6 @@ epeirid
 experimentation
 epileny
 endopeptidase
-enkindled
 exotospore
 entomeric
 embace
