@@ -7006,7 +7006,6 @@ besmooth
 besmooths
 bleeders
 bigoniac
-barricades
 basilian
 bacteritic
 besmudge
@@ -7951,6 +7950,7 @@ biblus
 banate
 bryologies
 balistraria
+barricades
 borborygmi
 bodymaker
 billing
