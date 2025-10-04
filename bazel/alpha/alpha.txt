@@ -5510,6 +5510,7 @@ aftersound
 arthropomata
 anhele
 amphitriaene
+amputating
 autosuggestive
 astrocytomata
 acetylaminobenzene
@@ -11416,7 +11417,6 @@ angiograph
 asteriated
 agoniada
 amputates
-amputating
 amputation
 acetobacter
 aboding
