@@ -544,7 +544,6 @@ dealerships
 dalton
 denomination
 dermaskeleton
-dama
 damageability
 disodic
 damageably
@@ -5511,6 +5510,7 @@ dissolubility
 deadest
 deoxidize
 deoxygenated
+dama
 depaints
 divestitures
 deoxyribonucleotide
