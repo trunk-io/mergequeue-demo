@@ -8071,7 +8071,6 @@ ceroxylon
 capitulum
 chaferies
 chafers
-caranx
 chafes
 chafewax
 chimaeras
@@ -8988,6 +8987,7 @@ cortex
 chariot
 carcerate
 companioned
+caranx
 continuo
 charioting
 chariotman
