@@ -19760,6 +19760,7 @@ combatant
 cimbalom
 combaters
 combating
+countercry
 combative
 combativeness
 citizenship
@@ -26784,7 +26785,6 @@ counterconditioning
 calabaza
 countercoupe
 countercourant
-countercry
 countercriticism
 countercultural
 counterculture
