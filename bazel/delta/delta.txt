@@ -11480,7 +11480,6 @@ discolored
 doest
 defalcations
 deads
-discolorment
 destabilization
 discolouring
 disconnectiveness
@@ -12526,6 +12525,7 @@ dicotyledonary
 disinfectants
 dreg
 disinfected
+discolorment
 deceivers
 denaturizer
 dispractice
