@@ -10062,7 +10062,6 @@ ensorcelize
 ebb
 erythrosin
 exophoria
-explosives
 elytroid
 endolaryngeal
 evirate
@@ -11593,6 +11592,7 @@ edeology
 echinus
 exactors
 enterophthisis
+explosives
 electrophone
 equimomental
 elasmobranch
