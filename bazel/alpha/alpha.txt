@@ -17396,7 +17396,6 @@ afret
 apothecial
 annullate
 apothecium
-arbitrement
 applot
 airship
 athyris
@@ -17983,6 +17982,7 @@ angioleucitis
 afeard
 aprickle
 acetones
+arbitrement
 autorail
 apricot
 achaemenidae
