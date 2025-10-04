@@ -6644,7 +6644,6 @@ cecums
 cecutiency
 cedar
 cedary
-conveyable
 convolvement
 cedars
 cedarwood
@@ -25711,6 +25710,7 @@ contiguate
 cliency
 correligionist
 convertibly
+conveyable
 cytolysis
 correllations
 corrente
