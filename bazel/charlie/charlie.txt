@@ -17981,7 +17981,6 @@ coeff
 copperplate
 coefficients
 coelacanth
-coelacanthidae
 coelacanthous
 coelar
 coelastraceous
@@ -21791,6 +21790,7 @@ condolingly
 contracture
 collarbones
 crabbed
+coelacanthidae
 cacaesthesia
 condominiums
 cyanoethylate
