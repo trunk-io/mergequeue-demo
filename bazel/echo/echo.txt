@@ -6317,7 +6317,6 @@ embars
 enshrinements
 electrotyper
 ephebe
-earthward
 epitrochlear
 emulsor
 euskarian
@@ -10733,6 +10732,7 @@ ephemerae
 elevated
 electrometallurgical
 endospore
+earthward
 enclaret
 echeneidae
 enterocholecystostomy

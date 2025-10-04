@@ -10569,6 +10569,7 @@ dbrn
 diacrisis
 diplococcemia
 disleaf
+desugared
 digammate
 dashiki
 denote
@@ -10818,7 +10819,6 @@ departing
 defuzed
 directors
 directorships
-desugared
 dapples
 deificatory
 direful
