@@ -15923,7 +15923,6 @@ contentness
 chirrupper
 cleaver
 cleavers
-coremaker
 clamb
 cleche
 capacitance
@@ -25363,6 +25362,7 @@ corndodger
 cornea
 corneal
 corneas
+coremaker
 cheddaring
 countergirded
 cornelia
