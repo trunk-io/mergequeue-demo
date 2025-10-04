@@ -146,7 +146,6 @@ cablegrams
 cistaceae
 clinopyroxene
 cablelaid
-cableless
 cablelike
 cerberic
 chryseis
@@ -27143,6 +27142,7 @@ carpent
 counterscarp
 counterscoff
 counterscrutiny
+cableless
 cancelation
 cuticular
 colophane
