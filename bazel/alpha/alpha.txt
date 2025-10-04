@@ -1523,7 +1523,6 @@ appoggiature
 anopsia
 adorn
 accompliceship
-assoin
 assamites
 allotting
 accomplisher
@@ -6685,6 +6684,7 @@ acream
 airbrained
 airbrasive
 airbrick
+assoin
 adipocerous
 adopt
 abrazo
