@@ -2094,6 +2094,7 @@ bantu
 bandon
 bewield
 botte
+bivalve
 blandfordia
 botrychium
 backup
@@ -18309,7 +18310,6 @@ basaltoid
 borealis
 broadshare
 bhajan
-bivalve
 buttoners
 buttonholder
 bedel
