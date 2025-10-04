@@ -6719,7 +6719,6 @@ darkroom
 duopod
 deescalated
 deacidification
-denotational
 dissentism
 defatigated
 duendes
@@ -14843,6 +14842,7 @@ doctorfishes
 diethylenediamine
 doctorial
 disadjust
+denotational
 dissymmetrically
 doctorially
 doctoring
