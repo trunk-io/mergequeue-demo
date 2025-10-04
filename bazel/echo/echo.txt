@@ -5456,7 +5456,6 @@ encourage
 etherlike
 enfeoffing
 earthquake
-episcopant
 euxenite
 enculturated
 enfeoffment
@@ -13631,6 +13630,7 @@ extinctionist
 extenuations
 enskying
 ecphonesis
+episcopant
 extenuative
 exorcisation
 extenuator
