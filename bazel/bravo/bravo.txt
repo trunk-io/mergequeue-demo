@@ -10210,7 +10210,6 @@ brollies
 boars
 beaverlike
 bottomlessness
-beflags
 bemuslined
 benty
 bachelorwise
@@ -13719,6 +13718,7 @@ bladder
 blab
 bloodsucker
 baud
+beflags
 bande
 broidery
 buffiest
