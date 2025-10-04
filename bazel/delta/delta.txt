@@ -436,6 +436,7 @@ dayrooms
 deities
 dodrantal
 dhourra
+doblas
 dairous
 dairt
 dais
@@ -16204,7 +16205,6 @@ davyum
 deflorate
 dowdier
 demophon
-doblas
 dowdily
 droseras
 dominic
