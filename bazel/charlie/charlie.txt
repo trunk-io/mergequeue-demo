@@ -11882,7 +11882,6 @@ choragion
 choristers
 calashes
 chorai
-choral
 choralcelo
 causeway
 chorale
@@ -12025,6 +12024,7 @@ chorisis
 chlorins
 cyanuret
 cacodylic
+choral
 characetum
 choristate
 chorister
