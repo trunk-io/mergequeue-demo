@@ -2647,7 +2647,6 @@ brither
 birdcage
 becoward
 bascules
-balmlike
 barnabas
 bales
 barnaby
@@ -15543,6 +15542,7 @@ balaghaut
 byliners
 badly
 bestreak
+balmlike
 bromidic
 beclothing
 bionts
