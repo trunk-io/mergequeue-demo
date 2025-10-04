@@ -3584,7 +3584,6 @@ defunction
 deul
 dislimb
 diethylamine
-defunctionalize
 defusion
 demidigested
 deformalize
@@ -13649,6 +13648,7 @@ dissimilars
 demythologise
 dorize
 dequantitate
+defunctionalize
 diedral
 dissimilate
 depletion
