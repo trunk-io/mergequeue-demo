@@ -3369,7 +3369,6 @@ embers
 eunuch
 epees
 erthen
-epochally
 exing
 eclipse
 enshelter
@@ -7693,6 +7692,7 @@ entrepots
 embosom
 exchanger
 equispatial
+epochally
 exotisms
 easternmost
 embolite
