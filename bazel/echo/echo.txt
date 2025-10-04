@@ -1383,7 +1383,6 @@ essenced
 endpiece
 entodermal
 epipodialia
-entoretina
 erythrocytolytic
 espoused
 ethnicon
@@ -7170,6 +7169,7 @@ encase
 electrohydraulically
 ectomeres
 elaeococca
+entoretina
 equinecessary
 eupolidean
 ells
