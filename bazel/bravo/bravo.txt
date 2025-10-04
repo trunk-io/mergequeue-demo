@@ -1985,6 +1985,7 @@ bankcard
 bethought
 banky
 banknote
+barkeepers
 bristly
 biophysicist
 banknotes
@@ -4261,7 +4262,6 @@ bebrush
 broilers
 below
 bowtie
-barkeepers
 bushwood
 blubbers
 bushbodies
