@@ -5962,7 +5962,6 @@ bemangle
 bemar
 bouncingly
 bevaring
-burblers
 bemask
 brownistic
 bacillar
@@ -7618,6 +7617,7 @@ barracks
 beechy
 blockhead
 beeyard
+burblers
 brog
 beworn
 bullocks
