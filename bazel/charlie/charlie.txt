@@ -4574,7 +4574,6 @@ caroba
 caroch
 caroche
 counterartillery
-closings
 cyclarthrsis
 carolan
 caroled
@@ -10375,6 +10374,7 @@ coryneum
 chicories
 chicot
 chronaxy
+closings
 chicqued
 chicquer
 chicquest
