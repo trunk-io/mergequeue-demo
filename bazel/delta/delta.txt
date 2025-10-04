@@ -1051,6 +1051,7 @@ diplohedral
 dishes
 diacodium
 directive
+dignify
 dutra
 darner
 diaka
@@ -16519,7 +16520,6 @@ decollation
 decorticating
 dodderer
 dithiol
-dignify
 distrix
 diagrammatic
 demoralise
