@@ -1971,7 +1971,6 @@ discostate
 dislodged
 debuted
 debuting
-droddum
 doto
 demulce
 diced
@@ -8190,6 +8189,7 @@ depart
 diadic
 dasyure
 demurrer
+droddum
 decouples
 dyadics
 diadkokinesia
