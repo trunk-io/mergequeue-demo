@@ -4581,7 +4581,6 @@ erythrocytes
 epidermophyton
 echinoderm
 exdelicto
-evolve
 ethnogenies
 eremiteship
 enchoric
@@ -6869,6 +6868,7 @@ entopic
 endiablee
 elling
 evocations
+evolve
 engrails
 entoplasm
 estreats
