@@ -1507,7 +1507,6 @@ beeherd
 bodyhood
 bersiamite
 bulbiform
-bdl
 bouton
 backsword
 ballastic
@@ -1765,6 +1764,7 @@ buzzy
 brimming
 bacteriaceous
 beglads
+bdl
 bardiness
 banak
 bemuse
