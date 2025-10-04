@@ -2046,7 +2046,6 @@ bannerline
 bannerole
 blossomry
 bronchus
-bcf
 blesses
 bannerols
 bannisters
@@ -11405,6 +11404,7 @@ bylina
 bloedite
 bibbed
 bibio
+bcf
 bluecoated
 becquerelite
 berettas
