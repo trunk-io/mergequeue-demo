@@ -773,7 +773,6 @@ blackout
 becker
 building
 baedekerian
-baeria
 baetyl
 beltmaking
 begod
@@ -4971,6 +4970,7 @@ beefers
 bombycilla
 beerpull
 beers
+baeria
 bellovaci
 beest
 blowers
