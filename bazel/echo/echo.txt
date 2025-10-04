@@ -5256,7 +5256,6 @@ exerts
 extraparietal
 exosepsis
 expatriations
-endocline
 epicrystalline
 encoring
 endosteomata
@@ -7287,6 +7286,7 @@ exemplariness
 eelshop
 ephah
 enact
+endocline
 electrooptics
 escaping
 epanisognathism
