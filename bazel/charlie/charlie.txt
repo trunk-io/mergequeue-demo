@@ -4650,7 +4650,6 @@ coverture
 carousals
 cabmen
 centrospermae
-carouse
 caroused
 carp
 carpaine
@@ -12699,6 +12698,7 @@ canioned
 cargued
 chuckingly
 chuckle
+carouse
 chucklehead
 calmly
 conjugateness
