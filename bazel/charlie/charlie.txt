@@ -6600,7 +6600,6 @@ cebidae
 chlorophyllan
 contributors
 cebil
-ceboids
 chondritis
 ceratitic
 creesh
@@ -23624,6 +23623,7 @@ continued
 continuedness
 continuer
 cytostome
+ceboids
 continuers
 continuing
 corseleted
