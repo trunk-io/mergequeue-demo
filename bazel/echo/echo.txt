@@ -2899,6 +2899,7 @@ equivocalities
 encephalopsychesis
 electrothermometer
 extraovate
+editable
 eliminable
 expurgative
 eradiation
@@ -13721,7 +13722,6 @@ epitrochoidal
 ectosphere
 extincting
 enterostomies
-editable
 epicalyxes
 encephalomeningitis
 enjoiners
