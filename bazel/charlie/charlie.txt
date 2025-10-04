@@ -4994,6 +4994,7 @@ competer
 crofterization
 carvage
 carval
+clk
 carve
 cannabinol
 carvene
@@ -16442,7 +16443,6 @@ cliv
 clivers
 clivis
 clivus
-clk
 clo
 cloaca
 cloacae
