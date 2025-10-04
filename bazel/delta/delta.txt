@@ -6081,6 +6081,7 @@ drumlike
 deprecations
 digest
 dolls
+dentalize
 demembration
 dm
 deselecting
@@ -12695,7 +12696,6 @@ diffrangibility
 disjointure
 darnel
 disepalous
-dentalize
 dishmaker
 dogger
 desexualize
