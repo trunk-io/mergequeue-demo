@@ -1188,7 +1188,6 @@ defrauder
 datafile
 dunts
 dillydallying
-datagrams
 doormat
 demibrassart
 devilhood
@@ -3096,6 +3095,7 @@ dichlamydeous
 defaillance
 defaitiste
 defalcated
+datagrams
 diethyltryptamine
 digraphs
 describable
