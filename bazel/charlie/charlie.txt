@@ -7176,6 +7176,7 @@ centred
 caisse
 centref
 centreless
+cupping
 centrepiece
 canephoroe
 centrer
@@ -8980,7 +8981,6 @@ clements
 chargeably
 chargeant
 charged
-cupping
 chargee
 cataphasia
 chargeful
