@@ -2468,6 +2468,7 @@ candidness
 candidnesses
 crawlie
 cantorial
+cleithral
 countermands
 candies
 candying
@@ -17040,7 +17041,6 @@ clutch
 clutched
 clutches
 clutchy
-cleithral
 crowhopper
 centrex
 clerestories
