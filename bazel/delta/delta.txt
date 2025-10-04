@@ -5240,6 +5240,7 @@ dyings
 doghole
 decephalization
 dogfoot
+dogmeat
 deathly
 diaheliotropic
 detruncating
@@ -9636,7 +9637,6 @@ disencumbers
 dartsman
 drazel
 driftpins
-dogmeat
 diddering
 druse
 diguanide
