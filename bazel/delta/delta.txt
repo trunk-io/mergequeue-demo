@@ -9305,7 +9305,6 @@ deobstruent
 downtrend
 dietic
 decolorant
-dtset
 diplomat
 dietotherapy
 dietotoxic
@@ -13886,6 +13885,7 @@ disbelievingly
 distichous
 distil
 derisive
+dtset
 dropsied
 distyle
 demiurgic
