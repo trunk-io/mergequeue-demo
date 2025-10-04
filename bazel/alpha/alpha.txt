@@ -9048,6 +9048,7 @@ archdioceses
 allower
 authorizations
 abanic
+authorize
 alochia
 acylamido
 arcubos
@@ -12597,7 +12598,6 @@ anesthesimeter
 acetoarsenite
 angiotasis
 anesthesiologies
-authorize
 archrascal
 anhemolytic
 anesthetization
