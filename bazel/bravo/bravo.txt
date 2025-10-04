@@ -8399,7 +8399,6 @@ bicarpellate
 bija
 bijasal
 bijections
-bijective
 bijou
 bhandar
 banning
@@ -12728,6 +12727,7 @@ bulbine
 burlecue
 bieennia
 boogum
+bijective
 bourd
 bolshevism
 blunderheaded
