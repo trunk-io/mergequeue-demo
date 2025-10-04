@@ -13247,7 +13247,6 @@ cyclesmith
 castoridae
 crookbilled
 cannonproof
-cyclic
 cyclical
 cappie
 cyclizing
@@ -25649,6 +25648,7 @@ corporeity
 crankier
 conicities
 carapo
+cyclic
 corporeous
 corporify
 chapterful
