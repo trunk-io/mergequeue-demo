@@ -2891,7 +2891,6 @@ eligibility
 epistasy
 eligibles
 entrecotes
-excoct
 equipede
 elbowchair
 enjoining
@@ -10632,6 +10631,7 @@ entwine
 excitory
 endocytosis
 exarchy
+excoct
 ethel
 exponence
 estragon
