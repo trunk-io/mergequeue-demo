@@ -1353,7 +1353,6 @@ blithen
 baldcrown
 bardily
 balded
-balder
 baldfaced
 bebed
 bolloxing
@@ -12530,6 +12529,7 @@ bluish
 blaspheming
 broadness
 broncholith
+balder
 bacquet
 bilberries
 boneshaker
