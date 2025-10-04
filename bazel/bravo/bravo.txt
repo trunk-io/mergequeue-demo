@@ -1555,7 +1555,6 @@ beatinest
 basilica
 beyerite
 ballistician
-brachioganoidei
 ballflower
 bifurcate
 beseeches
@@ -17709,6 +17708,7 @@ burlet
 butterfly
 biotically
 brachioganoid
+brachioganoidei
 bumblekite
 banbury
 behove
