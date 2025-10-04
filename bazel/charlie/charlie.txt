@@ -1521,7 +1521,6 @@ cynanche
 chemostat
 callisto
 cesar
-callithrix
 collegiant
 corruptibilities
 cellarwoman
@@ -15716,6 +15715,7 @@ circumambulatory
 chastely
 candidature
 clausula
+callithrix
 chiasmodontid
 cirrigrade
 clausule
