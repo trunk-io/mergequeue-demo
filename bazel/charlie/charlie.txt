@@ -6487,7 +6487,6 @@ cavey
 chromoscope
 cavekeeper
 cavelet
-confiner
 cambodia
 cavelike
 cavemen
@@ -27897,6 +27896,7 @@ comeatable
 calotin
 conquians
 crabut
+confiner
 crabweed
 coreid
 crabwise
