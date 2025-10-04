@@ -7645,6 +7645,7 @@ deutzia
 deuzan
 dispost
 discernible
+disalignment
 drou
 doublewidth
 darking
@@ -18650,7 +18651,6 @@ dutymonger
 deactivations
 degreaser
 deodorizer
-disalignment
 decasyllable
 denunciatively
 disforest
