@@ -2092,7 +2092,6 @@ bibulosities
 bantu
 bandon
 bewield
-botte
 bivalve
 blandfordia
 botrychium
@@ -17804,6 +17803,7 @@ breakback
 burroweed
 burrows
 benevolent
+botte
 burrstone
 biolite
 bude
