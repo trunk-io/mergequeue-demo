@@ -4877,7 +4877,6 @@ bloomage
 backspeer
 bomarea
 beechwood
-bright
 bourbons
 belaud
 blackeyes
@@ -8701,6 +8700,7 @@ birching
 branners
 bimana
 bunters
+bright
 bimanal
 binoxalate
 birthless
