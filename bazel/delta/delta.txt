@@ -2381,7 +2381,6 @@ diceboard
 disguisements
 diplontic
 dismantlement
-dayakker
 deciduity
 daver
 deciduoma
@@ -3879,6 +3878,7 @@ disassimilation
 dichroiscope
 diatropic
 dyspnoea
+dayakker
 deionize
 degraduation
 dividedly
