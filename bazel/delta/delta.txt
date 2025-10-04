@@ -6082,7 +6082,6 @@ deprecations
 digest
 dolls
 demembration
-dm
 deselecting
 dromaeus
 demolitionary
@@ -14396,6 +14395,7 @@ divellent
 downstage
 dispireme
 diminuendos
+dm
 disoxygenate
 debussy
 distensible

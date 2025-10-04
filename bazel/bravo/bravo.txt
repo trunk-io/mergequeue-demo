@@ -10510,7 +10510,6 @@ brubu
 bashlik
 blastoporal
 bepun
-blastosphere
 balanus
 bandit
 bromal
@@ -11524,6 +11523,7 @@ belton
 bromthymol
 budder
 blufter
+blastosphere
 bluggy
 bispore
 baume
