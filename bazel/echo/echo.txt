@@ -5256,7 +5256,6 @@ exerts
 extraparietal
 exosepsis
 expatriations
-endocline
 epicrystalline
 encoring
 endosteomata
@@ -9138,6 +9137,7 @@ episplenitis
 exumbrella
 esrog
 ermanrich
+endocline
 endotheca
 entailer
 ermiline
