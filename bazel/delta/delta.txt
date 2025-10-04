@@ -6566,6 +6566,7 @@ dircaean
 dynel
 deerstalker
 descension
+dump
 descensionist
 donor
 dragonfishes
@@ -18151,7 +18152,6 @@ devote
 disavowable
 digress
 diskery
-dump
 disreputably
 discutient
 dineuric
