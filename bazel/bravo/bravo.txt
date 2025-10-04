@@ -2813,7 +2813,6 @@ bravest
 barotraumas
 behooves
 barotropic
-bothrium
 barouche
 barouchette
 bozzetto
@@ -9190,6 +9189,7 @@ bruted
 banksides
 biotins
 basics
+bothrium
 beefhead
 biogeographer
 biotypes
