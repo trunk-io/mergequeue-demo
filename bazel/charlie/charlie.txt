@@ -2478,7 +2478,6 @@ candiru
 candite
 candytuft
 curryfavel
-candyweed
 candle
 coehorn
 candleball
@@ -27761,6 +27760,7 @@ cowries
 cephalomancy
 calina
 cowroid
+candyweed
 crescentic
 catbrier
 corkscrews
