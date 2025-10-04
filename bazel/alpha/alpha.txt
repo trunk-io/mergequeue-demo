@@ -6917,6 +6917,7 @@ allophyle
 assisters
 airts
 asteraceae
+anemobiagraph
 aitutakian
 algerine
 aphorizer
@@ -12494,7 +12495,6 @@ amylophosphoric
 apasttra
 adipogenic
 auxotox
-anemobiagraph
 anemochord
 anemochore
 anaboly
