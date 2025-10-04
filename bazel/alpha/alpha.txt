@@ -775,7 +775,6 @@ abridgers
 abridgments
 abris
 alabandine
-acarus
 abroach
 aerostatical
 allicient
@@ -25161,6 +25160,7 @@ annulate
 astromancer
 alliaria
 allamotti
+acarus
 axletree
 autopotent
 apophylaxis
