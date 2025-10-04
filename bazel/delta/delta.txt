@@ -6740,7 +6740,6 @@ dilatations
 dactylis
 dioptres
 defoliation
-desoxyribonucleoprotein
 desesperance
 desexualized
 deformed
@@ -10497,6 +10496,7 @@ diphtheric
 denticeti
 disarraying
 dishonesties
+desoxyribonucleoprotein
 diphtherotoxin
 drivescrew
 diphthongally
