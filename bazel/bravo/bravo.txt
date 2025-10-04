@@ -12829,7 +12829,6 @@ belladonna
 bookstand
 blemisher
 bookstores
-bowleg
 biforked
 bigaroon
 bordage
@@ -16511,6 +16510,7 @@ buckra
 bearbaiter
 bricker
 borasque
+bowleg
 braggest
 bruskly
 bruskness
