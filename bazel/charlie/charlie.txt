@@ -6876,7 +6876,6 @@ circularizers
 celtiberian
 cacidrosis
 celtidaceae
-celtiform
 celtis
 celtism
 celtium
@@ -8536,6 +8535,7 @@ chanceful
 cadrans
 chancefulness
 chancey
+celtiform
 chanceled
 conrail
 cardiacea
