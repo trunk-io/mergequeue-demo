@@ -1721,6 +1721,7 @@ electric
 eer
 expertize
 extg
+electromuscular
 episiotomy
 embattle
 efficacy
@@ -10888,7 +10889,6 @@ endarchy
 esthete
 enmist
 eventerate
-electromuscular
 eastlander
 eanlings
 easternize
