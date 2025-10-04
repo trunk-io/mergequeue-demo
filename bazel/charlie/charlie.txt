@@ -19551,7 +19551,6 @@ colourist
 colourless
 ceruleum
 colourman
-colpenchyma
 closet
 colpindach
 canzonets
@@ -26022,6 +26021,7 @@ cantiga
 corvus
 commissars
 cosaque
+colpenchyma
 coppled
 coscet
 chn
