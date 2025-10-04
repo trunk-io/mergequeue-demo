@@ -2795,7 +2795,6 @@ bulkiest
 blowze
 baudery
 beclap
-barothermograph
 barothermohygrograph
 barotrauma
 bulgurs
@@ -15137,6 +15136,7 @@ bretesse
 bretschneideraceae
 banjuke
 bebops
+barothermograph
 bibber
 brett
 brachymetropic
