@@ -7396,7 +7396,6 @@ albitite
 affricate
 acutiator
 anguilla
-angulare
 antimoniferous
 arpanet
 anthobiology
@@ -8609,6 +8608,7 @@ arabic
 allegiant
 astronautically
 anhydrous
+angulare
 apoharmine
 aqueduct
 axopodia
