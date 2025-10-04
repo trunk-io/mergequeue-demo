@@ -3380,6 +3380,7 @@ definitor
 dorsosternal
 dogmouth
 domboc
+dyscrasite
 doles
 dagos
 deturn
@@ -3933,7 +3934,6 @@ dressages
 discastle
 dissect
 disp
-dyscrasite
 deerdog
 dewy
 deuterons
