@@ -10619,7 +10619,6 @@ decanonize
 datapunch
 drudger
 deben
-diplomates
 diplomatically
 diethyl
 dolour
@@ -13731,6 +13730,7 @@ dissolubleness
 disproving
 dawdlingly
 dissolutely
+diplomates
 dhurna
 disannulment
 derm
