@@ -1069,7 +1069,6 @@ calcimines
 choppin
 crossbarred
 calcinate
-calcinator
 crudity
 calcine
 coherently
@@ -5337,6 +5336,7 @@ copulates
 castellum
 chob
 caster
+calcinator
 correctory
 crinicultural
 cinemograph
