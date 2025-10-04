@@ -2622,7 +2622,6 @@ bilge
 brutalness
 backfield
 bimensal
-bellying
 bable
 bribeable
 barling
@@ -10278,6 +10277,7 @@ bliaut
 ballsy
 blacktongue
 bedless
+bellying
 booklore
 benzoquinoline
 blacktops
