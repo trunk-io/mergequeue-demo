@@ -4094,7 +4094,6 @@ crosstree
 chancellor
 cardinalities
 cardinalship
-cardings
 cardioarterial
 cardiocarpum
 cardiocele
@@ -18956,6 +18955,7 @@ colitic
 colitises
 colitoxemia
 colyum
+cardings
 climbs
 clepsydrae
 coliuria
