@@ -5883,7 +5883,6 @@ braking
 belock
 beloeilite
 belomancy
-belonephobia
 belonger
 bagonet
 biased
@@ -10011,6 +10010,7 @@ bield
 biventral
 broody
 brool
+belonephobia
 bn
 baroscopical
 bargainor
