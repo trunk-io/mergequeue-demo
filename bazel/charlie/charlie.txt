@@ -5201,7 +5201,6 @@ casqued
 cushat
 casquet
 casquetel
-colemouse
 cassabas
 cassabully
 cultist
@@ -20400,6 +20399,7 @@ clerks
 cembalon
 commutant
 commutated
+colemouse
 commutation
 conning
 commutatively
