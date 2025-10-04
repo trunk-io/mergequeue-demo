@@ -19733,6 +19733,7 @@ cohesion
 chlordan
 comanches
 comandantes
+constabularies
 comandanti
 cutis
 catocala
@@ -23159,7 +23160,6 @@ chkalik
 corymbs
 constablewick
 constabular
-constabularies
 comminute
 coccolithophoridae
 constantan
