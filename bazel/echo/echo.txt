@@ -572,7 +572,6 @@ estancia
 emblematize
 examine
 echoing
-exfiltration
 epigeal
 enhydros
 epeisodion
@@ -9167,6 +9166,7 @@ eirenic
 essenic
 erodes
 exterminatory
+exfiltration
 extradition
 enslavement
 enginelike
