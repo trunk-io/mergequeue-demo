@@ -4089,6 +4089,7 @@ cardiomegalia
 caffa
 clerihew
 cardinalitian
+christening
 cubed
 crosstree
 chancellor
@@ -12293,7 +12294,6 @@ christen
 christendie
 christener
 christeners
-christening
 christens
 christhood
 carburator
