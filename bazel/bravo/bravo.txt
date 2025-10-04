@@ -6878,7 +6878,6 @@ baldwin
 benkulen
 bearship
 buicks
-bioluminescent
 bescourge
 baboos
 buckeroos
@@ -12934,6 +12933,7 @@ boophilus
 bedsheet
 banyoro
 bacciform
+bioluminescent
 boorishness
 bulldog
 bertrandite
