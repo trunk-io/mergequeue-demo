@@ -1344,6 +1344,7 @@ daunton
 duinhewassel
 dauphine
 dauphines
+disulfide
 drooping
 drawboard
 drapable
@@ -14133,7 +14134,6 @@ ducker
 disulfid
 derris
 diazotizable
-disulfide
 decession
 disanimate
 desacralize
