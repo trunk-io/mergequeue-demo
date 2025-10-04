@@ -2397,6 +2397,7 @@ cyanol
 centgener
 cancha
 canchalagua
+conchologize
 cropsickness
 cancion
 cancionero
@@ -30825,7 +30826,6 @@ cullas
 carroty
 cytotechnology
 cochleary
-conchologize
 conjurors
 cullers
 cullet
