@@ -9118,7 +9118,6 @@ bullfrog
 boylikeness
 bioscopy
 benab
-bioscopic
 bioastronautical
 bedecorate
 biosensor
@@ -11529,6 +11528,7 @@ bluggy
 bispore
 bethwack
 bombload
+bioscopic
 blumes
 benighting
 brutal

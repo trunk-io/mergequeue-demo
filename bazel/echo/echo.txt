@@ -1299,7 +1299,6 @@ equip
 equilibristat
 enclog
 effectuated
-effectuating
 effervesced
 exuberate
 effectuous
@@ -2522,6 +2521,7 @@ eirenicon
 essaying
 embassies
 elysian
+effectuating
 electropathy
 ecchondrosis
 electrocutioner
