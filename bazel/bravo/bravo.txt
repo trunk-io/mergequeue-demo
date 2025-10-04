@@ -4162,7 +4162,6 @@ barometric
 bigener
 brusquer
 bonging
-becater
 bonged
 blasties
 barquest
@@ -17868,6 +17867,7 @@ bus
 bine
 busbar
 busbars
+becater
 bused
 burling
 brisks
