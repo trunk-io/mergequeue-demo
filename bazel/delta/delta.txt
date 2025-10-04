@@ -7950,6 +7950,7 @@ disjoin
 dodge
 degrease
 discommon
+disillusionize
 disrump
 diplodocus
 dismemberer
@@ -17608,7 +17609,6 @@ discolichen
 ducktails
 dsects
 desmodium
-disillusionize
 disannulled
 dinners
 dsname
