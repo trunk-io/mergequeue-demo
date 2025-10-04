@@ -12788,7 +12788,6 @@ backbiter
 blacklegging
 baronry
 begut
-bookseller
 barter
 bucorvinae
 bioelectric
@@ -16380,6 +16379,7 @@ belligerence
 basil
 buzzardly
 brulzies
+bookseller
 biloculate
 brumbie
 blepharoncus
