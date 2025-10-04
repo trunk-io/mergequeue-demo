@@ -46,7 +46,6 @@ enzymes
 expender
 enzyms
 excites
-exciton
 earns
 electroretinograph
 eremite
@@ -7615,6 +7614,7 @@ equinal
 enemylike
 epithalamus
 enringed
+exciton
 ectocrine
 espece
 epicuticle
