@@ -5534,7 +5534,6 @@ bangiales
 burled
 beja
 broadloom
-bejant
 bloodwit
 blintz
 bejel
@@ -18257,6 +18256,7 @@ bottlenecks
 bepat
 bete
 backtrace
+bejant
 bivouacs
 buttermaker
 backflip
