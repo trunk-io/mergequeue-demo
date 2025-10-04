@@ -7150,7 +7150,6 @@ aethrioscope
 atomical
 airworthiness
 aridnesses
-alacran
 automatic
 antiroll
 alacrious
@@ -20398,6 +20397,7 @@ askip
 aquifers
 autooxidation
 apothgm
+alacran
 airparks
 azeotrope
 alefzero
