@@ -562,7 +562,6 @@ convokes
 colloque
 confort
 caduac
-cruiseway
 commilitant
 catalineta
 caducean
@@ -26307,6 +26306,7 @@ cabalas
 crusader
 costious
 cosmolining
+cruiseway
 costipulator
 corticoline
 canli
