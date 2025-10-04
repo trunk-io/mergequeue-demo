@@ -4139,7 +4139,6 @@ cardiopath
 cardiopathic
 cardiophrenia
 capette
-chloanthite
 calthrop
 cardiopulmonary
 cardiorespiratory
@@ -23156,6 +23155,7 @@ corymbs
 constablewick
 constabular
 constabularies
+chloanthite
 comminute
 coccolithophoridae
 constantan
