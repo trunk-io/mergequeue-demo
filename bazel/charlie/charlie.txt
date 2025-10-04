@@ -7367,7 +7367,6 @@ chevelure
 cephalodium
 cephalofacial
 cephalogram
-cephaloid
 culminates
 cuticles
 cephalology
@@ -12424,6 +12423,7 @@ chromatophilic
 changemaker
 chromatophilous
 chromatophobia
+cephaloid
 chromatophore
 carpel
 chromatophoric
