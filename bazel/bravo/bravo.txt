@@ -10477,7 +10477,6 @@ blastemic
 bopyrid
 blaster
 blastid
-beeman
 blasting
 borolanite
 blastocele
@@ -12676,6 +12675,7 @@ bronchocele
 bonteboks
 beatniks
 bagels
+beeman
 baguets
 beleaguerment
 bulged
