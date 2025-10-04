@@ -849,6 +849,7 @@ bagful
 botulinus
 baggagemaster
 bedamning
+buffalofish
 baggager
 benzidin
 benzalcohol
@@ -16862,7 +16863,6 @@ bacterioid
 bicolligate
 buffable
 buffalo
-buffalofish
 buffaloing
 biflagellate
 buffball
