@@ -3093,7 +3093,6 @@ exclamative
 epigonousepigons
 entheasm
 eryx
-elongation
 edict
 epiplastral
 eom
@@ -3617,6 +3616,7 @@ electrodentistry
 emaciated
 erythrons
 everse
+elongation
 everywheres
 entrancer
 envenom
