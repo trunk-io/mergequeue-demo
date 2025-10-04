@@ -5443,7 +5443,6 @@ casuals
 casualty
 casuariiformes
 chloramide
-casuarina
 cantraips
 casuarius
 celeomorph
@@ -16568,6 +16567,7 @@ cuneonavicular
 calendar
 coinheritance
 crabit
+casuarina
 correlative
 clogmaking
 clogwheel
