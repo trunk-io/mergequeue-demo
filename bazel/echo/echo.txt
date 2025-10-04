@@ -7861,7 +7861,6 @@ entomophaga
 eurystomatous
 emitter
 experiment
-eatery
 endosmosis
 exudates
 exptl
@@ -10071,6 +10070,7 @@ ethenoid
 edification
 evangeliary
 ethenol
+eatery
 ensorcelize
 ebb
 erythrosin
