@@ -12840,7 +12840,6 @@ bigaroon
 bordage
 bucolic
 bullfice
-baskerville
 bookwards
 byronite
 blankard
@@ -16132,6 +16131,7 @@ ballonets
 brook
 brooke
 bullwhip
+baskerville
 bounteous
 babiana
 brumalia
