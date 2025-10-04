@@ -2056,7 +2056,6 @@ birthmarks
 bannock
 bilboquet
 bannocks
-boilinglike
 bivittate
 banovina
 banquet
@@ -2620,6 +2619,7 @@ basilinna
 boneache
 buckstall
 bescour
+boilinglike
 befriend
 bogyisms
 barbitals

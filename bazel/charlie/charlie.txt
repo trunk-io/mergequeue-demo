@@ -18001,7 +18001,6 @@ copperplate
 coefficients
 coelacanth
 coelacanthidae
-coelacanthous
 coelar
 coelastraceous
 canonics
@@ -29649,6 +29648,7 @@ croape
 cephaleuros
 croat
 carbogelatin
+coelacanthous
 chimars
 croatan
 cyclopedic
