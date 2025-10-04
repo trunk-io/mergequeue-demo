@@ -1135,7 +1135,6 @@ edplot
 edrioasteroidea
 exite
 edriophthalmatous
-educand
 educatability
 eident
 educatable
@@ -8697,6 +8696,7 @@ equivelocity
 encrotchet
 exteriorized
 exuperable
+educand
 extermination
 eulogising
 endangering
