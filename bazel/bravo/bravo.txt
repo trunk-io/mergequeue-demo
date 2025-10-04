@@ -2561,7 +2561,6 @@ bridgelike
 bandaged
 barocco
 barkary
-befilch
 barkbound
 betterments
 barkcutter
@@ -9092,6 +9091,7 @@ bearbaiting
 bolometer
 bombus
 biopoiesis
+befilch
 bonzery
 basking
 bolloxed
