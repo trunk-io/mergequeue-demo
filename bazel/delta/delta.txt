@@ -15239,6 +15239,7 @@ depreciated
 defamers
 dolisie
 dolite
+diagnostics
 dolium
 dicolic
 darogha
@@ -16641,7 +16642,6 @@ dawdle
 dissaved
 dinkum
 drainfield
-diagnostics
 disvelop
 drainman
 disgross
