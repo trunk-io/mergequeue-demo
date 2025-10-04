@@ -11984,7 +11984,6 @@ disenchant
 dowd
 disenchantments
 depluming
-difforme
 disencharm
 database
 drip
@@ -18145,6 +18144,7 @@ delphinidae
 donators
 dater
 disintegrous
+difforme
 dive
 dishearten
 devote
