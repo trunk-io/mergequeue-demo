@@ -792,7 +792,6 @@ emmers
 epispadias
 edaphically
 excamber
-endopeptidase
 euglenidae
 ectypal
 ectype
@@ -3853,6 +3852,7 @@ expugnable
 earthbound
 endosymbiosis
 emolumental
+endopeptidase
 extemporiser
 evader
 enstate
