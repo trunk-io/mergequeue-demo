@@ -7508,7 +7508,6 @@ biserrate
 booteries
 bestowage
 beveil
-bardism
 belayer
 beveller
 bookbinder
@@ -10310,6 +10309,7 @@ beleaguerer
 bosporian
 bladewise
 baluchithere
+bardism
 bisme
 blennostasis
 blae
