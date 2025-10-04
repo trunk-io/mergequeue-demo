@@ -3845,7 +3845,6 @@ beforesaid
 basifacial
 bawneen
 bawra
-barklyite
 bawsint
 bawsunt
 balsamy
@@ -10922,6 +10921,7 @@ biorbital
 bombers
 blindstories
 brede
+barklyite
 blindweed
 blindworm
 backscratcher
