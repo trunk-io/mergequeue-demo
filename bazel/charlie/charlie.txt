@@ -11000,7 +11000,6 @@ consonantize
 chiropodial
 chiropodic
 chiropodical
-caphite
 cavascope
 canvaslike
 convictively
@@ -13144,6 +13143,7 @@ cybernion
 cibol
 catharpin
 conjugacy
+caphite
 cibola
 cibols
 columnea
