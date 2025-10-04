@@ -5514,7 +5514,6 @@ dilutors
 durion
 deoxidation
 deoxidative
-dibbles
 deoxidisation
 dsnames
 dissolubility
@@ -14042,6 +14041,7 @@ dishorner
 dragging
 dextrotropous
 decommissioning
+dibbles
 dyspepsies
 dacoiting
 draughtman
