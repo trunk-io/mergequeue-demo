@@ -3732,7 +3732,6 @@ bauble
 bandwagons
 baublery
 baubo
-bauch
 bondoc
 baboon
 bazzite
@@ -16103,6 +16102,7 @@ bedsock
 bialis
 bratchet
 brooder
+bauch
 broodiest
 binomial
 broodling
