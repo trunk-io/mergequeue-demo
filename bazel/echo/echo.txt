@@ -987,7 +987,6 @@ explosibility
 escobedo
 embalmed
 expendible
-encapsules
 euthanasic
 equilibriate
 eo
@@ -4303,6 +4302,7 @@ enbrave
 elenctical
 eggheadedness
 embar
+encapsules
 egotize
 eruptively
 electromechanical
