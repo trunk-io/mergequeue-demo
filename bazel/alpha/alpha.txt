@@ -6096,7 +6096,6 @@ autochrome
 astrolabes
 arseniuretted
 atophan
-aglypha
 algorithms
 aglossia
 alkoxide
@@ -13141,6 +13140,7 @@ anim
 anima
 animable
 archaeopteris
+aglypha
 animacule
 almuten
 anomodont
