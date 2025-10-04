@@ -3322,6 +3322,7 @@ enc
 eavedropper
 embark
 epichorial
+eruptions
 embarkations
 epitomize
 embitterments
@@ -12031,7 +12032,6 @@ expurgatorial
 exomphalus
 excortication
 eschewals
-eruptions
 epanaleptic
 expediate
 evzone
