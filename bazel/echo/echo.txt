@@ -4770,6 +4770,7 @@ encourages
 embusy
 effortfully
 ensalada
+errordump
 euripides
 eucatropine
 enlaced
@@ -13913,7 +13914,6 @@ exotropia
 empathy
 epimerizing
 exorcized
-errordump
 ecphorable
 enjambement
 emigrative
