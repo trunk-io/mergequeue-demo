@@ -3806,6 +3806,7 @@ entomotomy
 electrotonus
 extraboldface
 evendown
+extollingly
 exterminating
 eminent
 eminencies
@@ -12060,7 +12061,6 @@ epigrammatarian
 expressor
 easels
 emblazonry
-extollingly
 erepsin
 exploit
 evacue
