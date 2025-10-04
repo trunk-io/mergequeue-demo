@@ -6084,6 +6084,7 @@ deprecations
 digest
 dolls
 demembration
+dm
 deselecting
 dromaeus
 demolitionary
@@ -14685,7 +14686,6 @@ dks
 dlvy
 diademed
 deburse
-dm
 derailed
 drayman
 divid
