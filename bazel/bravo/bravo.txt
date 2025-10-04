@@ -9845,7 +9845,6 @@ beamy
 brassica
 biters
 billed
-bullyable
 bagmen
 barbing
 brands
@@ -10459,6 +10458,7 @@ blasphemed
 blasphemes
 blasphemies
 blasphemous
+bullyable
 blasphemousness
 bismarckian
 blastemal
