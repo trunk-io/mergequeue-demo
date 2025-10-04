@@ -2234,7 +2234,6 @@ drongo
 deftest
 dreint
 drch
-dartre
 danes
 dishelm
 deceit
@@ -17159,6 +17158,7 @@ dynamics
 dansants
 daidle
 decachord
+dartre
 duotriacontane
 dreary
 decorums
