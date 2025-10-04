@@ -2473,7 +2473,6 @@ countermands
 candies
 candying
 consuetudinary
-candymaker
 cardiophobe
 candymaking
 candiru
@@ -10567,6 +10566,7 @@ chill
 cyclanthaceous
 chilla
 cerebric
+candymaker
 contort
 conter
 carports
