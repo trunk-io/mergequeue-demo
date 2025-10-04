@@ -2803,7 +2803,6 @@ erzahler
 epitheliomuscular
 elevenses
 eleventeenth
-eleventh
 excitation
 emplaning
 elevons
@@ -5342,6 +5341,7 @@ enfirm
 encheason
 eaglelike
 esthetology
+eleventh
 endure
 endurer
 earthmen
