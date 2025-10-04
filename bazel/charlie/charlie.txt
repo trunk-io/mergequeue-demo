@@ -10018,7 +10018,6 @@ cosmotron
 collectables
 cherry
 cherryblossom
-cherried
 cumbu
 canna
 compactedly
@@ -21942,6 +21941,7 @@ conferences
 conferential
 conferral
 capability
+cherried
 creodont
 conferred
 conferrence
