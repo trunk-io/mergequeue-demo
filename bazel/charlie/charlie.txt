@@ -6719,7 +6719,6 @@ celeb
 capicha
 celebrant
 celebrants
-celebrate
 comiakin
 celebratedly
 celebrater
@@ -25644,6 +25643,7 @@ carceral
 corporeally
 cravenhearted
 corporeals
+celebrate
 cob
 corporeity
 crankier
