@@ -14858,6 +14858,7 @@ cis
 copremia
 cytoarchitectural
 confidences
+coning
 cytoblastema
 cytoblastemal
 caseless
@@ -22498,7 +22499,6 @@ conimene
 ceric
 calends
 conines
-coning
 cosiest
 circumduction
 conins
