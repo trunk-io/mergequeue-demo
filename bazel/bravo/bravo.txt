@@ -9765,7 +9765,6 @@ beside
 bryophyte
 boatie
 bishoped
-byssoid
 buckskin
 bedragglement
 bissonata
@@ -16677,6 +16676,7 @@ bisons
 blacking
 brevicipitid
 buchanite
+byssoid
 bucharest
 banket
 buchloe
