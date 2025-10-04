@@ -5613,6 +5613,7 @@ dossmen
 draftable
 dynamometry
 depended
+deltic
 dolichopellic
 desensitizes
 dependingly
@@ -8785,7 +8786,6 @@ diazin
 drayman
 death
 droners
-deltic
 dialoguer
 deuterodome
 diazins
