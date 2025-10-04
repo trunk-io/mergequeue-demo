@@ -2601,7 +2601,6 @@ botanise
 barkless
 battening
 bandusia
-barkometer
 batrachite
 beeth
 bakeshops
@@ -11182,6 +11181,7 @@ bumelia
 brutalised
 bloodwite
 bailee
+barkometer
 bryologist
 bushgoat
 bugfish
