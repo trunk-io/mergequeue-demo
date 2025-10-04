@@ -4623,7 +4623,6 @@ bankcards
 bhikhari
 briquetted
 buildable
-barlows
 bedford
 breathes
 bedframes
@@ -11589,6 +11588,7 @@ blushed
 banga
 bandannas
 blushfully
+barlows
 birdlimed
 borophenol
 blushy
