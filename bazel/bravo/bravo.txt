@@ -1005,7 +1005,6 @@ barfs
 bailable
 boordly
 badigeon
-baile
 basqued
 blizzards
 bailers
@@ -5295,6 +5294,7 @@ beginning
 bemirement
 begird
 broadsheet
+baile
 bundlerooted
 bournes
 begirds
