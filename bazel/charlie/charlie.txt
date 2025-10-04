@@ -1599,7 +1599,6 @@ conveyor
 calmecac
 cyathophylloid
 courtrooms
-collectibles
 calmed
 cylindraceous
 crureus
@@ -17601,6 +17600,7 @@ coccaceous
 coccal
 calpulli
 conducible
+collectibles
 coccerin
 corr
 coccic
