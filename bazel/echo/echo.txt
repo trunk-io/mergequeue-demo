@@ -4040,7 +4040,6 @@ electrorefine
 emplecton
 exuberancy
 electrovalence
-enteromere
 employe
 estado
 etamin
@@ -12950,6 +12949,7 @@ enzym
 encephalopyosis
 erminette
 evicke
+enteromere
 emotion
 exanthema
 ensnarls
