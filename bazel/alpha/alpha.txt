@@ -11955,7 +11955,6 @@ atpoints
 abduction
 airdromes
 assapan
-anaptotic
 araliaephyllum
 anteopercle
 anarcestes
@@ -23230,6 +23229,7 @@ aliped
 attracter
 alveolation
 acale
+anaptotic
 asterias
 antship
 amid
