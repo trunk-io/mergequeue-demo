@@ -11494,7 +11494,6 @@ bundlers
 basophilia
 bearance
 begemming
-bedoctor
 blintze
 berapt
 billposter
@@ -14539,6 +14538,7 @@ braky
 boatyards
 banyan
 betray
+bedoctor
 brakie
 blastophitic
 bramble
