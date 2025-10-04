@@ -4100,7 +4100,6 @@ cubed
 crosstree
 chancellor
 cardinalities
-cardinally
 cardinalship
 cardings
 cardioarterial
@@ -5621,6 +5620,7 @@ coedited
 catamarenan
 chickenhearted
 catamiting
+cardinally
 cordaitean
 catamount
 catan
