@@ -3938,7 +3938,6 @@ beacons
 buoyancy
 beedi
 beadeye
-beader
 bellmaker
 barnhardtite
 baalitical
@@ -16753,6 +16752,7 @@ blowcase
 breithauptite
 brilliantly
 biospheres
+beader
 ballyhack
 buckras
 bawdstrot
