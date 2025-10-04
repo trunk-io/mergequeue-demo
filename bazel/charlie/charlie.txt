@@ -7347,7 +7347,6 @@ cephalodymus
 cephalodiscid
 cephalodiscida
 cephalodiscus
-coumbite
 curtains
 chevelure
 cephalodium
@@ -28416,6 +28415,7 @@ crazed
 crazedly
 crazy
 crazycat
+coumbite
 certainly
 craziest
 conferment
