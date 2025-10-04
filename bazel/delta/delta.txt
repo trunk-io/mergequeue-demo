@@ -9501,7 +9501,6 @@ dozener
 digeneous
 decubitus
 deuce
-digenetic
 digenetica
 digue
 dolmas
@@ -11036,6 +11035,7 @@ diasystem
 disaligned
 deoxidization
 dodona
+digenetic
 doorframe
 disallow
 displaying
