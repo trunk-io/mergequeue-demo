@@ -4880,6 +4880,7 @@ electrocorticogram
 equinia
 engraphic
 exencephalia
+exsects
 ebonises
 envelopers
 exiguous
@@ -10140,7 +10141,6 @@ eyedropper
 elacolite
 exertion
 expressness
-exsects
 eleutherian
 endocarpoid
 elodeaceae
