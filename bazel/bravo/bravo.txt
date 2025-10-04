@@ -8922,6 +8922,7 @@ biocidal
 biocide
 bookcases
 bioclimatic
+battak
 bioclimatician
 bioclimatology
 bathwater
@@ -16883,7 +16884,6 @@ blowback
 blighties
 birdcalls
 buzzer
-battak
 billage
 butut
 betas
