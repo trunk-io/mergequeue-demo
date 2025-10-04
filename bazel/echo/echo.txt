@@ -3322,7 +3322,6 @@ ep
 exteroceptor
 equilibrium
 elohist
-em
 embarricado
 electorship
 embarring
@@ -10642,6 +10641,7 @@ ecrasite
 expeditate
 entwine
 excitory
+em
 endocytosis
 exarchy
 excoct
