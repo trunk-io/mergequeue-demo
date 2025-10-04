@@ -3006,6 +3006,7 @@ ballrooms
 barflies
 borts
 branglement
+barehanded
 burgesses
 bartizans
 becarpets
@@ -13801,7 +13802,6 @@ beachfront
 boches
 bouto
 butterwright
-barehanded
 bandlet
 buccaned
 bedmaker
