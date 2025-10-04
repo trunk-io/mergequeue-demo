@@ -13000,7 +13000,6 @@ collects
 casel
 circumhorizontal
 catamenial
-continentality
 convertive
 cyanides
 clothes
@@ -27015,6 +27014,7 @@ counterobligation
 counteroffensive
 chevet
 counteroffer
+continentality
 counteropening
 counteropponent
 culotte
