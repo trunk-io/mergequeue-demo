@@ -479,7 +479,6 @@ backspacer
 blechnum
 battik
 benzoates
-backspaces
 blepharocera
 butteries
 beestings
@@ -9437,6 +9436,7 @@ brattach
 bathman
 balustrades
 bloodalley
+backspaces
 benedictus
 bridegroom
 begettal
