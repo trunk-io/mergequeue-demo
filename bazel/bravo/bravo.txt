@@ -2631,6 +2631,7 @@ bribeable
 barling
 broadsword
 bluestone
+barretter
 bertholletia
 barghest
 breechloader
@@ -4229,7 +4230,6 @@ bebay
 bogotana
 bestialism
 beballed
-barretter
 bebang
 bebathe
 bebeerus
