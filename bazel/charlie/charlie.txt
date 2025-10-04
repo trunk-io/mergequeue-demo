@@ -2530,6 +2530,7 @@ codlins
 caromed
 chemicopharmaceutical
 conners
+careworn
 candlewicks
 candlewright
 candling
@@ -4246,7 +4247,6 @@ cleanlier
 comfiest
 carets
 caretta
-careworn
 concorporation
 carex
 cottages
