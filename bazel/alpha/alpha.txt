@@ -19618,7 +19618,6 @@ apterium
 aridest
 affluency
 aridian
-agnomens
 aridity
 analogies
 aridities
@@ -25285,6 +25284,7 @@ apiaceae
 allthorn
 anomalipod
 asymmetrical
+agnomens
 abamp
 archetype
 afterworking
