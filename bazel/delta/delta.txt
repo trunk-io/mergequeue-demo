@@ -2484,6 +2484,7 @@ deckhand
 dovekies
 duckwing
 dourines
+detectable
 deckle
 disslander
 dulls
@@ -11724,7 +11725,6 @@ discradle
 deprivation
 dockhands
 disaffects
-detectable
 demissness
 dactylologies
 dimane
