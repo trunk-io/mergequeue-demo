@@ -8566,7 +8566,6 @@ bunting
 bedder
 bradycardia
 billabong
-billage
 brumes
 barricading
 beshawled
@@ -16875,6 +16874,7 @@ blighties
 birdcalls
 buzzer
 battak
+billage
 butut
 betas
 balkline
