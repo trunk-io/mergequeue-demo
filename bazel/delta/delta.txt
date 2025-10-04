@@ -14191,6 +14191,7 @@ dysurias
 diverticular
 deals
 disusage
+dicyclic
 dynamoscope
 deathful
 disuse
@@ -16857,7 +16858,6 @@ defortify
 decanically
 deaired
 ddt
-dicyclic
 diiambus
 dataria
 drona
