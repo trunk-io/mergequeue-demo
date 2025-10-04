@@ -2615,7 +2615,6 @@ bable
 bribeable
 barling
 broadsword
-bortz
 bluestone
 bertholletia
 barghest
@@ -17980,6 +17979,7 @@ bagirmi
 biblos
 betties
 brigued
+bortz
 bulldust
 bedpan
 breakups
