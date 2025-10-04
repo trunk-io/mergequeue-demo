@@ -14394,7 +14394,6 @@ brahmanize
 bracers
 brahmapootra
 borehole
-bumf
 baits
 brahmin
 behowl
@@ -16953,6 +16952,7 @@ bereaver
 brickwork
 buggers
 buggy
+bumf
 bakshi
 bluestockingish
 buggier
