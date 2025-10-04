@@ -2705,7 +2705,6 @@ elementalistic
 extrathoracic
 elementalize
 ephori
-elementaloid
 emperil
 essang
 encoronate
@@ -13396,6 +13395,7 @@ ems
 enthrong
 express
 extralinguistic
+elementaloid
 eudaemonical
 empire
 earlship
