@@ -792,6 +792,7 @@ ectype
 entities
 eserin
 everliving
+esophagotome
 enwrite
 egritude
 erythrinidae
@@ -9568,7 +9569,6 @@ evoked
 esophagopathy
 esophagoplasty
 esophagoscopy
-esophagotome
 endodermal
 elflock
 eremacausis
