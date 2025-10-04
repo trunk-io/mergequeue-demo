@@ -8190,7 +8190,6 @@ epistolarian
 elderhood
 escribe
 epopoeia
-eulogize
 enatant
 epistolised
 eure
@@ -9150,6 +9149,7 @@ epiloguize
 ectoenzyme
 env
 ectocinerea
+eulogize
 encolor
 eschar
 erode
