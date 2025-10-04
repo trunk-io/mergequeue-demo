@@ -8468,7 +8468,6 @@ banqueteering
 biff
 baignet
 bilbo
-bandsawed
 bleachyard
 bilcock
 bellehood
@@ -13891,6 +13890,7 @@ baseplate
 brachychronic
 bramblebush
 blabberer
+bandsawed
 benjamite
 butters
 biocides
