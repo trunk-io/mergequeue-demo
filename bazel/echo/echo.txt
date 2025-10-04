@@ -7168,7 +7168,6 @@ enderon
 excentricity
 ensues
 erythropoietic
-electrotropic
 epichoric
 ephemeromorphic
 exudate
@@ -10137,6 +10136,7 @@ encroaching
 emeraldine
 etherially
 eyedropper
+electrotropic
 elacolite
 exertion
 expressness
