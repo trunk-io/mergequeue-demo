@@ -9254,7 +9254,6 @@ chateaugray
 chateaus
 chateaux
 chatelain
-cordmaker
 crocoisite
 chatelaines
 chemotherapists
@@ -14743,6 +14742,7 @@ colonic
 cistus
 citable
 cairns
+cordmaker
 citadel
 calcarium
 cital
