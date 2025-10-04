@@ -507,6 +507,7 @@ evenhandedness
 emballonurid
 echappe
 echea
+extrusible
 examinator
 echelle
 exhibitant
@@ -10096,7 +10097,6 @@ euphausiacea
 ethereality
 epiboly
 earthlike
-extrusible
 echolalia
 endorses
 economist
