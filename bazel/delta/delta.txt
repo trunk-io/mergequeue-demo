@@ -5734,6 +5734,7 @@ dipl
 disrobe
 dentelliere
 deplaning
+demonomancy
 doliolum
 disobligation
 dawdled
@@ -17654,7 +17655,6 @@ defenestrating
 decare
 disapprovingly
 dystopia
-demonomancy
 disanimal
 dimerisms
 dualizes
