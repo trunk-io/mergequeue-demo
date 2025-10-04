@@ -1856,7 +1856,6 @@ epurate
 eyrant
 eyepiece
 experience
-erasability
 errata
 enarm
 equigranular
@@ -11511,6 +11510,7 @@ ensilaging
 erethizon
 exteriorize
 encamped
+erasability
 endites
 evernia
 equipartisan
