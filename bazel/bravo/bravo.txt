@@ -12165,7 +12165,6 @@ brahminic
 baedekers
 bisdiapason
 bonesets
-boldnesses
 burbots
 boldo
 benzofluorene
@@ -17359,6 +17358,7 @@ brontotherium
 boxier
 birdseed
 biosyntheses
+boldnesses
 bargained
 blackjacked
 brennage
