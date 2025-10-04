@@ -2149,7 +2149,6 @@ esthesia
 epicenters
 epistome
 expanded
-eldermen
 expeditionist
 elders
 enumerating
@@ -13507,6 +13506,7 @@ embolimeal
 extrafloral
 exscriptural
 execrating
+eldermen
 extemporarily
 exscutellate
 eutaxie
