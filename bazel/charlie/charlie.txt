@@ -3992,7 +3992,6 @@ carcinomatosis
 carpetweed
 cholers
 cornhusk
-carcinomatous
 carcinomorphic
 cholericness
 carcinophagous
@@ -28787,6 +28786,7 @@ constringe
 crepes
 coincides
 crepy
+carcinomatous
 crepiest
 creping
 crepis
