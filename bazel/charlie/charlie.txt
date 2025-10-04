@@ -8961,6 +8961,7 @@ combmaker
 charge
 chargeable
 ciphertext
+colorism
 collective
 clements
 chargeably
@@ -27503,7 +27504,6 @@ cheongsam
 coal
 cobwebbed
 chimers
-colorism
 cathisma
 clangful
 chadri
