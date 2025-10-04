@@ -600,7 +600,6 @@ bacteriaceae
 blooddrops
 bacteriaemia
 bacterially
-bacterioblast
 brooched
 baggyrinkle
 beethoven
@@ -6090,6 +6089,7 @@ benefits
 benchful
 benchman
 benchmark
+bacterioblast
 baryecoia
 bacteriologic
 burnout
