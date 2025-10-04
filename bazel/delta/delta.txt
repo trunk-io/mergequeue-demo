@@ -11216,6 +11216,7 @@ diacle
 depredator
 domesticability
 dangler
+default
 decrescendos
 dissyllabification
 devastavit
@@ -11770,7 +11771,6 @@ denaturing
 deoxidising
 discrested
 disjunctions
-default
 dined
 dermutation
 discretion
