@@ -6750,7 +6750,6 @@ droplight
 decadianome
 drawarm
 dipneedle
-danders
 deregulates
 deserving
 diorite
@@ -14914,6 +14913,7 @@ delphocurarine
 destuffing
 dodecane
 disciplelike
+danders
 dodecapartite
 dodecaphonic
 demibastion
