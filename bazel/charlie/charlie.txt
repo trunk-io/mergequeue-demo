@@ -17152,7 +17152,6 @@ cully
 coachwright
 coact
 coaction
-coactive
 coactively
 clubwoman
 coacts
@@ -25800,6 +25799,7 @@ corrode
 corrie
 chemicodynamic
 copremic
+coactive
 corroders
 cneoraceae
 creepingly
