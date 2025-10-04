@@ -2020,6 +2020,7 @@ babylonia
 backwards
 bemock
 boshvarks
+basidiophore
 betraise
 basilissa
 banksian
@@ -9030,7 +9031,6 @@ biomes
 beanlike
 breedy
 beavery
-basidiophore
 babelike
 besmuts
 biometries
