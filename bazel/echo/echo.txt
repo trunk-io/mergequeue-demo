@@ -2718,7 +2718,6 @@ emblemize
 emp
 extrusions
 evergreenite
-exchangeably
 equangular
 explorations
 elytrous
@@ -10863,6 +10862,7 @@ euphemize
 eyebeam
 eucarida
 euxine
+exchangeably
 eyewashes
 eyeful
 edea
