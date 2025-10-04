@@ -15306,7 +15306,6 @@ claiver
 crucigerous
 ceromancy
 claywares
-clayweed
 caam
 colours
 chlorphenol
@@ -17859,6 +17858,7 @@ coddler
 calculous
 coddlers
 coddles
+clayweed
 codebreaker
 codebtor
 codebtors
