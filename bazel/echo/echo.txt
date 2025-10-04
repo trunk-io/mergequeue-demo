@@ -1575,7 +1575,6 @@ exscind
 epigrammatized
 elutriator
 egotized
-exonuclease
 erpetologist
 egracias
 erizo
@@ -10628,6 +10627,7 @@ euergetes
 epimyth
 embryotrophe
 eunuchs
+exonuclease
 embryoctonic
 enarbor
 eugeny
