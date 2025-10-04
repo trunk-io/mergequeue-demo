@@ -1035,7 +1035,6 @@ exadversum
 experimentor
 etchareottine
 excisable
-endoskeleton
 eqpt
 experimentalist
 estivates
@@ -11608,6 +11607,7 @@ exaction
 electrohydraulic
 eleusinian
 extremely
+endoskeleton
 eluviation
 endopolyploid
 exactness
