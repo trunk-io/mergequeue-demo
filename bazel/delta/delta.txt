@@ -1139,7 +1139,6 @@ depaint
 diau
 dasyatis
 dire
-dieb
 dizaine
 dainchas
 distractingly
@@ -17313,6 +17312,7 @@ dronage
 discovenant
 dronepipe
 dipole
+dieb
 deduct
 devolvement
 drony
