@@ -3834,6 +3834,7 @@ boutonnieres
 boreal
 bawl
 bevelment
+blindman
 bawled
 bawler
 bawly
@@ -7102,7 +7103,6 @@ bethylid
 beclouding
 bespeckled
 benzoyls
-blindman
 bespectacled
 beefless
 besped
