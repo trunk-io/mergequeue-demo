@@ -5179,6 +5179,7 @@ excrementitial
 euphonium
 eridanid
 endopods
+endopleural
 eccentric
 endoproctous
 endopterygota
@@ -10668,7 +10669,6 @@ exitus
 enswathe
 earthborn
 ensigning
-endopleural
 erebus
 euglenoid
 evenworthy
