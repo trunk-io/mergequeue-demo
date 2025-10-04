@@ -4715,7 +4715,6 @@ ammonolyze
 aerate
 anthracitic
 ablactating
-aerating
 albespine
 astrometeorological
 aery
@@ -23012,6 +23011,7 @@ attacus
 avoidant
 attagen
 apologete
+aerating
 aldine
 acop
 antiliberalness
