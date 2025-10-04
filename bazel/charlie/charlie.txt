@@ -560,6 +560,7 @@ cadres
 ciconiiform
 councilors
 convokes
+chainplate
 colloque
 confort
 caduac
@@ -24066,7 +24067,6 @@ conventionary
 conventioneers
 countercoup
 conventioner
-chainplate
 conventionize
 clearstories
 copperworks
