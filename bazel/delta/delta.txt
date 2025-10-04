@@ -6539,7 +6539,6 @@ dactylioglyph
 disbark
 desamidase
 desands
-desc
 descale
 declericalize
 downrightly
@@ -15007,6 +15006,7 @@ domestics
 dogberry
 dogberryism
 dubbeh
+desc
 dandriff
 directrixes
 dogboat
