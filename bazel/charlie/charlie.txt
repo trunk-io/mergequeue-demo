@@ -3000,7 +3000,6 @@ cantoral
 cantoria
 cardsharps
 calabooses
-crystallographic
 cantoris
 cantors
 cerebrational
@@ -26419,6 +26418,7 @@ cotenure
 concaved
 cinderlike
 coterie
+crystallographic
 ciminite
 concavities
 centipoise
