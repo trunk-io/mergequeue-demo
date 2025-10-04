@@ -788,7 +788,6 @@ baffies
 bouteria
 bibliotist
 bacalao
-bandster
 bafflement
 baklawa
 bonnetmen
@@ -9813,6 +9812,7 @@ bartender
 brokenhearted
 boos
 brigandish
+bandster
 bisubstituted
 bisubstitution
 bisulfate
