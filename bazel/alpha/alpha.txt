@@ -9833,7 +9833,6 @@ antiautolysin
 antiamboceptor
 alkermes
 angleworm
-aponogeton
 arx
 agmas
 availers
@@ -11722,6 +11721,7 @@ audible
 aphrodisian
 avowance
 anagrammatic
+aponogeton
 aerophyte
 anagrammatically
 annuation
