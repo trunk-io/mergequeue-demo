@@ -2334,7 +2334,6 @@ anachronously
 alpenhorns
 acierate
 acierated
-acierates
 abbreviatory
 autolimnetic
 acieration
@@ -7595,6 +7594,7 @@ alchemists
 achoke
 appale
 almida
+acierates
 abidi
 animala
 alchemized
