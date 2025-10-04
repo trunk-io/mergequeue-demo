@@ -3741,6 +3741,7 @@ esthetical
 emparl
 ethnohistorical
 epidemy
+elychnious
 emended
 englishwoman
 ecu
@@ -12628,7 +12629,6 @@ enterogram
 expunges
 enuretic
 enkolpion
-elychnious
 excogitate
 endeavors
 echo
