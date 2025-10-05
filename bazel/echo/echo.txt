@@ -2182,7 +2182,6 @@ electrics
 edibleness
 emboss
 electrographic
-exedrae
 eastling
 esthesia
 epicenters
@@ -7907,6 +7906,7 @@ entoolitic
 exordia
 epimandibular
 ethopoeia
+exedrae
 enthrone
 epimanikia
 epigean
