@@ -2072,7 +2072,6 @@ exciseman
 ectethmoid
 elastica
 extrapolator
-elastically
 edenite
 emberiza
 excitors
@@ -3686,6 +3685,7 @@ eriophyes
 evacuee
 eyelast
 eolipile
+elastically
 eulogizing
 etuvee
 eloped
