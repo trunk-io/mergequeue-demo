@@ -7760,7 +7760,6 @@ avulsions
 affenpinscher
 academias
 aurae
-aglow
 aghast
 aldoheptose
 astony
@@ -18021,6 +18020,7 @@ altamira
 aright
 apronstring
 alanins
+aglow
 adular
 amphigenetic
 anabaptistically
