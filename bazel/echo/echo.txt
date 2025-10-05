@@ -5922,7 +5922,6 @@ estheria
 empresario
 estafa
 exigence
-electrodesiccate
 electricalness
 eschalot
 enkolpia
@@ -10476,6 +10475,7 @@ effigy
 exemplifications
 ecbolic
 electrometry
+electrodesiccate
 effusing
 entreatingly
 euhemerising
