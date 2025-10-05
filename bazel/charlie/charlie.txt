@@ -2182,7 +2182,6 @@ coronofacial
 cretinizing
 campstool
 camptonite
-camptosorus
 chromatic
 campward
 chametz
@@ -17180,6 +17179,7 @@ chrononomy
 coagulability
 cymrite
 coagulated
+camptosorus
 coagulates
 clients
 cowhearted

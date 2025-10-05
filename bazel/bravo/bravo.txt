@@ -9509,7 +9509,6 @@ bipunctal
 bores
 barhops
 byrnie
-biotope
 battlefront
 bisulphide
 brittling
@@ -14221,6 +14220,7 @@ bracked
 brackened
 buckboard
 blacken
+biotope
 bilifaction
 beadleship
 belgophile
