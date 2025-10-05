@@ -8544,7 +8544,6 @@ chancellorships
 capillaire
 calathidium
 chancels
-chancemen
 corance
 conoscente
 chancery
@@ -12695,6 +12694,7 @@ cyanastrum
 curches
 clonothrix
 chucklers
+chancemen
 cotise
 chuckles
 chiavetta
