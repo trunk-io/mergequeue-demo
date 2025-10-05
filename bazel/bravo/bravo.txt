@@ -2992,7 +2992,6 @@ beckons
 brimmers
 beachhead
 bsf
-biome
 bartonella
 backswordsman
 bookbinderies
@@ -8278,6 +8277,7 @@ bigamist
 billheads
 bigamize
 boyars
+biome
 broadsided
 betafite
 balaenid
