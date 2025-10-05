@@ -9187,6 +9187,7 @@ env
 ectocinerea
 encolor
 eschar
+etageres
 erode
 eosinophilic
 erodent
@@ -12115,7 +12116,6 @@ energise
 elasticin
 exuviating
 exploits
-etageres
 engore
 entincture
 egally
