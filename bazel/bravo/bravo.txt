@@ -9130,7 +9130,6 @@ boylikeness
 bioscopy
 benab
 bioscopic
-bioastronautical
 bedecorate
 biosensor
 bearishness
@@ -10245,6 +10244,7 @@ betattering
 buri
 boyd
 bitternut
+bioastronautical
 breakpoints
 boehmenism
 beparse
