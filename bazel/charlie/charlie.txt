@@ -27318,7 +27318,6 @@ countrywoman
 circumradius
 countrywomen
 chymification
-countship
 coupage
 coupe
 couped
@@ -29944,6 +29943,7 @@ coheads
 crosshand
 cogwheel
 caneton
+countship
 canavali
 charivariing
 coadjutator
