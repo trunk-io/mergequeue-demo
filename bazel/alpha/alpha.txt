@@ -1043,7 +1043,6 @@ aftershaft
 auscultatory
 absurdly
 abt
-abterminal
 allay
 androgen
 allegiance
@@ -9967,6 +9966,7 @@ autoregressive
 ambergris
 amal
 antimonarchical
+abterminal
 agarwal
 astrachan
 aequoreal
