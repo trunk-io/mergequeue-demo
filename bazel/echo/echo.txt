@@ -3334,7 +3334,6 @@ embassy
 excerpter
 eustomatous
 equivocated
-episyllogism
 epigrammatic
 exogamous
 edeotomy
@@ -7420,6 +7419,7 @@ escobadura
 eskimoized
 ephemeridae
 egesting
+episyllogism
 ephemeroptera
 eigne
 extrafocal
