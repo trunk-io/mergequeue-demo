@@ -3336,7 +3336,6 @@ embassy
 excerpter
 eustomatous
 equivocated
-episyllogism
 epigrammatic
 exogamous
 edeotomy
@@ -5615,6 +5614,7 @@ extravagantes
 electrorefining
 ergotaminine
 electropuncturing
+episyllogism
 engilding
 empirism
 euphuistical
