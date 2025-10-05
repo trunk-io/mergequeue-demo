@@ -5233,7 +5233,6 @@ arenicolor
 atangle
 anachorism
 armageddon
-autognosis
 agnathostomata
 aimable
 adherents
@@ -12905,6 +12904,7 @@ anglicisation
 authored
 avocat
 apolysin
+autognosis
 apneumatosis
 allineate
 aditio
