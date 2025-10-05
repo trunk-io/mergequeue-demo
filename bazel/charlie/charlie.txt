@@ -2981,7 +2981,6 @@ cortege
 colander
 cantonal
 cantonalism
-crapelike
 cantoner
 cantoning
 cantonize
@@ -11979,6 +11978,7 @@ chorioallantoic
 chorioallantoid
 chorioallantois
 centrifugation
+crapelike
 cornbread
 counterculturist
 choriocarcinomas
