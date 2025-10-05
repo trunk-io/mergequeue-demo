@@ -141,7 +141,6 @@ boolian
 beatnik
 bourne
 banister
-biocoenosis
 boojum
 beeheaded
 beachcomb
@@ -6402,6 +6401,7 @@ benzoylated
 becuna
 benzoylation
 benzoinated
+biocoenosis
 borize
 booboisie
 brazens
