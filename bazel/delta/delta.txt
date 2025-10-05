@@ -3793,7 +3793,6 @@ deicing
 desilverizer
 dismutation
 dissevered
-deafness
 decommissions
 docilely
 devilkin
@@ -8694,6 +8693,7 @@ druid
 dismayed
 dolesomely
 disputers
+deafness
 dehumanized
 diastoles
 dignitas
