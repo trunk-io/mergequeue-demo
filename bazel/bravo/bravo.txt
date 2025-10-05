@@ -7581,7 +7581,6 @@ begiggle
 barnacle
 bewhisker
 begall
-biplicate
 benday
 boosterism
 boxful
@@ -9609,6 +9608,7 @@ bumbledom
 blastomata
 biscutate
 biogen
+biplicate
 bloodripeness
 binary
 bicapsular
