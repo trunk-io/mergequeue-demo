@@ -8821,6 +8821,7 @@ administered
 allocator
 amidist
 apocynum
+autoanticomplement
 asyntrophy
 anglicist
 allocatur
@@ -24473,7 +24474,6 @@ aetosaurian
 autosuppression
 allorrhythmic
 appendiculariidae
-autoanticomplement
 anterograde
 autotetraploid
 appellatively
