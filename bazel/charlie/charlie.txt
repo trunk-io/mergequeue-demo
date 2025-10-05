@@ -18979,6 +18979,7 @@ circination
 clothworker
 collaborator
 collaborators
+centrosymmetric
 closehauled
 cosigner
 coexistency
@@ -25511,7 +25512,6 @@ coroll
 cartooning
 corollary
 clenchers
-centrosymmetric
 chastens
 contradictions
 corollarial
