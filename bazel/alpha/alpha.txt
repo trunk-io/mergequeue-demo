@@ -4965,7 +4965,6 @@ aerophysics
 alkylogen
 anile
 addax
-assessory
 aerophobic
 asgmt
 arrode
@@ -9382,6 +9381,7 @@ aerarian
 arculite
 atonalism
 assessorial
+assessory
 agricultures
 adigranth
 armgaunt
