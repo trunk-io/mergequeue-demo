@@ -1766,7 +1766,6 @@ bivial
 beslime
 bullose
 bialystoker
-bufflehorn
 bandaging
 bowlin
 bandaid
@@ -18135,6 +18134,7 @@ breedings
 bromates
 butenyl
 betutor
+bufflehorn
 babuina
 buteonine
 bleachground
