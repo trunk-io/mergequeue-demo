@@ -5664,6 +5664,7 @@ episyllogism
 engilding
 empirism
 euphuistical
+evoked
 equivocatory
 exulceratory
 exploding
@@ -9618,7 +9619,6 @@ ergs
 epistolize
 emotionalized
 eupomatiaceae
-evoked
 erechtites
 esophagopathy
 esophagoplasty
