@@ -12,7 +12,6 @@ cabaho
 cabal
 condylarthrous
 colored
-cryptostoma
 chevance
 chaenomeles
 cows
@@ -8187,6 +8186,7 @@ cellarous
 chalastogastra
 crakes
 celestinian
+cryptostoma
 cummers
 chalazian
 cranely
