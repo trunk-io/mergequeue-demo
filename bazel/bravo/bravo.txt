@@ -7084,6 +7084,7 @@ batara
 bannerette
 briquetting
 bloodworthy
+bonspell
 bespeak
 bodyless
 biggings
@@ -12664,7 +12665,6 @@ billposting
 braccate
 bakshaish
 butterbough
-bonspell
 buttresses
 bonspiel
 boruca
