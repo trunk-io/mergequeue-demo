@@ -4453,6 +4453,7 @@ becroak
 bedead
 becross
 bordman
+bureaucratist
 bureaucratism
 becrowd
 becrowded
@@ -6889,7 +6890,6 @@ blibe
 bruchid
 bacteririum
 benignity
-bureaucratist
 baldwin
 benkulen
 bearship
