@@ -14854,7 +14854,6 @@ cis
 copremia
 cytoarchitectural
 confidences
-coning
 cytoblastema
 cytoblastemal
 caseless
@@ -20425,6 +20424,7 @@ comolecule
 carbonite
 comourn
 corycavamine
+coning
 cybister
 comox
 cistae
