@@ -1475,6 +1475,7 @@ cantation
 callbacks
 callboy
 callboys
+consonate
 called
 concave
 callers
@@ -23058,7 +23059,6 @@ collapsibility
 conscriptive
 circumarticular
 cutty
-consonate
 consonous
 coemption
 callused
