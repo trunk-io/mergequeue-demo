@@ -3495,7 +3495,6 @@ deformation
 deflections
 delete
 dohter
-deformations
 debus
 dandily
 downfold
@@ -5119,6 +5118,7 @@ dendrohyrax
 deneutralization
 dacryoadenalgia
 dendrolater
+deformations
 desexes
 detect
 dendrology
