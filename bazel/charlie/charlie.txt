@@ -15253,7 +15253,6 @@ catamneses
 centipede
 conforms
 cade
-curtailments
 clairseach
 caplan
 carpetwork
@@ -25406,6 +25405,7 @@ catarrhine
 countersiege
 cornflower
 cornflowers
+curtailments
 corngrower
 cornhole
 crabhole
