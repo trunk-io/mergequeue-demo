@@ -6714,7 +6714,6 @@ enaliosaurian
 elaborator
 exhibits
 eta
-encounterable
 enthusiastly
 emydosaurian
 emmarvel
@@ -13724,6 +13723,7 @@ etaballi
 encyrtidae
 ellipsograph
 ectoenzym
+encounterable
 enzyme
 ectoplasm
 extipulate
