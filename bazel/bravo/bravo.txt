@@ -4109,6 +4109,7 @@ brawled
 beastlike
 bodywise
 bengalic
+berime
 buoyantness
 brickwall
 boilable
@@ -12411,7 +12412,6 @@ burritos
 bowsprit
 boreas
 bab
-berime
 band
 bandlimit
 brigades
