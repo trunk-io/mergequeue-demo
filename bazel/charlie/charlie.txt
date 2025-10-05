@@ -14345,7 +14345,6 @@ circumpose
 condite
 circumquaque
 circumradii
-circumradius
 circumradiuses
 charitable
 claver
@@ -27322,6 +27321,7 @@ coalboxes
 countryside
 countryward
 countrywoman
+circumradius
 countrywomen
 chymification
 countship
