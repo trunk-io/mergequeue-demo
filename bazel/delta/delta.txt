@@ -1924,7 +1924,6 @@ disedify
 deadhouse
 divinatory
 disyllabism
-deburr
 divulgatory
 decanally
 debused
@@ -4727,6 +4726,7 @@ dotlet
 democracy
 dentirostrate
 diploneural
+deburr
 decagram
 diethylaminoethanol
 doctorlike
