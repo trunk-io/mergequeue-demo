@@ -2579,6 +2579,7 @@ amorph
 archturncoat
 aerographic
 adffrozen
+allothimorph
 arsenite
 aciliate
 anastomoses
@@ -8996,7 +8997,6 @@ allotee
 agamogony
 allothigenetically
 antebellum
-allothimorph
 amphisbaenae
 akee
 astrakanite
