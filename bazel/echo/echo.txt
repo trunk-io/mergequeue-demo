@@ -1911,7 +1911,6 @@ empathically
 enthelmintha
 endict
 epitrophic
-exarchateship
 elementalist
 erdvark
 elishah
@@ -8352,6 +8351,7 @@ epitra
 emissile
 emu
 epitrachelia
+exarchateship
 epitria
 estrum
 expugn
