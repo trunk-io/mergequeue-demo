@@ -5972,7 +5972,6 @@ confessionaries
 cathodal
 cathode
 comique
-cathodes
 cuckstool
 cathodograph
 conductibility
@@ -27620,6 +27619,7 @@ covisit
 charioteership
 covisitor
 conventicler
+cathodes
 covite
 covolume
 catchpennies
