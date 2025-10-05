@@ -5801,6 +5801,7 @@ cestodaria
 crinose
 currish
 categorise
+collator
 canisters
 categorised
 chansonnier
@@ -20281,7 +20282,6 @@ communalizer
 carbophilous
 chorographies
 communed
-collator
 chemopallidectomy
 cashiers
 compatibles
