@@ -2252,7 +2252,6 @@ electrizable
 electrization
 excavated
 epicotyl
-economite
 encrypting
 embrasured
 exemplary
@@ -5732,6 +5731,7 @@ entification
 enfoldings
 emulatory
 efficace
+economite
 electrovalency
 etheling
 emlen
