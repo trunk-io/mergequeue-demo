@@ -5082,7 +5082,6 @@ ammocetes
 airplane
 aphrolite
 ashy
-arf
 adenitises
 anend
 aetat
@@ -15566,6 +15565,7 @@ antinucleons
 apiary
 additur
 antozone
+arf
 ampullaria
 amygdalitis
 acetars
