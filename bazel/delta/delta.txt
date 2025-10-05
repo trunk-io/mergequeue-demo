@@ -10616,7 +10616,6 @@ diplophase
 daftness
 downfalling
 dolorous
-difficultness
 deviously
 duncery
 demurrals
@@ -15752,6 +15751,7 @@ digallic
 dornic
 deletive
 datival
+difficultness
 doorkeeper
 dornock
 diffugient
