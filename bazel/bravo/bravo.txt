@@ -747,7 +747,6 @@ blackout
 building
 baedekerian
 baeria
-baetyl
 beltmaking
 begod
 browniness
@@ -3358,6 +3357,7 @@ besieges
 bookshop
 bastardizes
 bastardliness
+baetyl
 bullfoot
 biophysically
 brulzies
