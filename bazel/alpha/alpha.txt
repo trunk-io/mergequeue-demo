@@ -9403,7 +9403,6 @@ anticathode
 altaian
 aetian
 administrations
-adherency
 aitesis
 amasty
 altar
@@ -13674,6 +13673,7 @@ akehorne
 ampollosity
 assizer
 aprendiz
+adherency
 antituberculous
 ascigerous
 anticum
