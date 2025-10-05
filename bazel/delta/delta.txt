@@ -1263,7 +1263,6 @@ dreamlore
 dimouts
 dunster
 danthonia
-demilegato
 dusted
 diazoic
 datives
@@ -11680,6 +11679,7 @@ disengirdle
 donjon
 dioptrics
 diagramed
+demilegato
 dehumanised
 discountable
 distastes
