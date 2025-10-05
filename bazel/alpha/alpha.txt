@@ -8168,7 +8168,6 @@ amora
 alternativo
 apophatic
 ambalam
-autocatalepsy
 apatheia
 antiquer
 adermia
@@ -15062,6 +15061,7 @@ ated
 athena
 antieducation
 antieducational
+autocatalepsy
 acetyliodide
 archaising
 antieducationalist
