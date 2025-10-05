@@ -3512,7 +3512,6 @@ capturable
 catechized
 capture
 captured
-captures
 capturing
 curricular
 capuched
@@ -14876,6 +14875,7 @@ cytogeny
 cornsack
 cytogenic
 cahill
+captures
 cytoglobin
 corselette
 citoyenne
