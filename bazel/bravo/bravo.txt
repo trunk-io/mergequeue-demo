@@ -2475,7 +2475,6 @@ bhut
 bough
 bedark
 brachyoura
-barge
 bergere
 bargelike
 beet
@@ -4594,6 +4593,7 @@ bedehouses
 bedemen
 bens
 boeing
+barge
 basigamy
 buxus
 bombshells
