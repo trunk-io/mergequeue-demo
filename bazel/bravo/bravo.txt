@@ -13006,7 +13006,6 @@ boots
 bottoms
 blouson
 bittersweet
-boottop
 burgherdom
 bushelage
 barythymia
@@ -13311,6 +13310,7 @@ bedstaff
 bokard
 brune
 bowler
+boottop
 befoolment
 bosniac
 bucketfuls
