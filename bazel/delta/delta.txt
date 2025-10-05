@@ -10529,7 +10529,6 @@ diacrisis
 dondaine
 diplococcemia
 disleaf
-desugared
 digammate
 dashiki
 denote
@@ -11593,6 +11592,7 @@ denser
 discursative
 discommune
 denominates
+desugared
 disburgeon
 divell
 discordable
