@@ -3148,7 +3148,6 @@ aluminotype
 aweather
 asterism
 actives
-aphacia
 amoristic
 acrostical
 assailability
@@ -19645,6 +19644,7 @@ apothem
 anastomosing
 anaerobism
 auklet
+aphacia
 apothecaryship
 anthracomartus
 aplastic
