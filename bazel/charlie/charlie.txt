@@ -3689,6 +3689,7 @@ coroparelcysis
 chetty
 caravans
 caravansary
+corrosives
 caravansaries
 caravanserai
 chromoxylography
@@ -25846,7 +25847,6 @@ coeltera
 corrosived
 chase
 contrapone
-corrosives
 chironomy
 calcars
 corrosivity
