@@ -8413,7 +8413,6 @@ chameleonlike
 cantilena
 cultrirostral
 comstockery
-chamfer
 chamfers
 chamfrain
 calvaria
@@ -17026,6 +17025,7 @@ caprylin
 cornroot
 coperose
 coachfellow
+chamfer
 caelian
 coachy
 coaching
