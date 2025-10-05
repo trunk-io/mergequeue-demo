@@ -10210,6 +10210,7 @@ boussingaultite
 blackguard
 bos
 beelzebub
+buckshee
 benzenyl
 blackguardry
 beseechers
@@ -12403,7 +12404,6 @@ bab
 berime
 band
 bandlimit
-buckshee
 brigades
 bieberite
 biskop
