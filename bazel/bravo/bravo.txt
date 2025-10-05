@@ -3507,7 +3507,6 @@ bathymetrical
 bathing
 bastinadoes
 bridgekeeper
-bailiery
 balon
 baygall
 barricade
@@ -17584,6 +17583,7 @@ bouses
 bespill
 burgall
 burial
+bailiery
 bromo
 bakepan
 burganet
