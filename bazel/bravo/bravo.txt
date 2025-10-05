@@ -2492,7 +2492,6 @@ bottonhook
 becloaked
 barguest
 barguests
-buzylene
 baria
 bedouse
 beflowers
@@ -15972,6 +15971,7 @@ bronchadenitis
 bimetallistic
 banderoling
 balsamical
+buzylene
 bilaciniate
 butcher
 brooding
