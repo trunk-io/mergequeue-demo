@@ -1773,7 +1773,6 @@ actionless
 ashet
 autopathy
 agalloch
-antipathist
 aceldamas
 anthracomancy
 acellular
@@ -16928,6 +16927,7 @@ aplasia
 acarinosis
 areally
 antiphysic
+antipathist
 axion
 allotters
 announcement
