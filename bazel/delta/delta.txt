@@ -5787,6 +5787,7 @@ dirties
 draughts
 depolished
 deaconed
+dominates
 depolishes
 depoliticized
 depoliticizes
@@ -14921,7 +14922,6 @@ dichromat
 deoxidizes
 disponing
 digammas
-dominates
 descrying
 dracontine
 dumbbells
