@@ -9074,7 +9074,6 @@ erythroneocytosis
 eucaryotic
 equitangential
 expulse
-exponential
 equipollent
 epicolic
 edgewise
@@ -13751,6 +13750,7 @@ encloak
 exosperm
 enregistry
 epiphyllum
+exponential
 endurability
 entea
 extispicious
