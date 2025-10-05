@@ -6863,6 +6863,7 @@ anaerobion
 aventine
 airview
 angakoks
+appl
 acidulates
 airway
 aflutter
@@ -17654,7 +17655,6 @@ agathology
 aludra
 adonizing
 apelet
-appl
 applanate
 attempted
 archibald
