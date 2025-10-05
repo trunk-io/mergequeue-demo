@@ -3824,6 +3824,7 @@ boutonnieres
 boreal
 bawl
 bevelment
+butlery
 bawled
 bawler
 bawly
@@ -18174,7 +18175,6 @@ bricky
 benamidar
 bitterwort
 bechern
-butlery
 belief
 butleries
 belfast
