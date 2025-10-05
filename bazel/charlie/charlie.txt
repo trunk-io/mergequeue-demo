@@ -12061,6 +12061,7 @@ cymbalo
 cedrin
 clansman
 casula
+cyclophorus
 chose
 chophouses
 comoedia
@@ -25827,7 +25828,6 @@ corrodier
 corrodies
 couvade
 cetene
-cyclophorus
 cepa
 cofound
 corrosibleness
