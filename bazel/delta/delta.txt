@@ -4364,7 +4364,6 @@ daphnaceae
 demeter
 dhoti
 demarcations
-dyadic
 demarcatordemarcators
 deprogramming
 disks
@@ -5762,6 +5761,7 @@ depolarizers
 deliberating
 debater
 duree
+dyadic
 disjoint
 decasualizing
 depolish
