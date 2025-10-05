@@ -1195,7 +1195,6 @@ disemprison
 datasetname
 dithers
 datcha
-disparison
 dibber
 disclamation
 demiassignation
@@ -16696,6 +16695,7 @@ drape
 discretionally
 disharmonized
 damndests
+disparison
 dorbugs
 decourse
 draperied
