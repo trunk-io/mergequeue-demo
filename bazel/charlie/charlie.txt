@@ -9854,7 +9854,6 @@ chemophysiology
 chemoprophyalctic
 cycle
 cadet
-chemoprophylactic
 cruiser
 chaetopterin
 coaxer
@@ -24662,6 +24661,7 @@ cauqui
 coplotter
 chinoidine
 counterpaly
+chemoprophylactic
 copolar
 conjure
 cryaesthesia
