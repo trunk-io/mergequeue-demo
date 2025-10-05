@@ -816,7 +816,6 @@ electrolyser
 enorthotrope
 electrotypist
 enstool
-elong
 eyebrows
 ectodermosis
 ennuyante
@@ -8608,6 +8607,7 @@ equimodal
 eunomia
 espantoon
 encirclements
+elong
 erythrogonium
 externals
 erineum
