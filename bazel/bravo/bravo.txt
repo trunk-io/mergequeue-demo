@@ -5879,7 +5879,6 @@ bretons
 butterbur
 bellwether
 bellwort
-braking
 belock
 beloeilite
 belomancy
@@ -7679,6 +7678,7 @@ biplace
 bezanty
 bureaucratical
 breeches
+braking
 brassiness
 battledored
 bargain
