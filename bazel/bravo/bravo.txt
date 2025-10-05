@@ -1477,7 +1477,6 @@ ballades
 bacteremia
 broncobusters
 borstal
-bistable
 berglet
 booked
 bedsick
@@ -11454,6 +11453,7 @@ bluepoints
 brothier
 breakax
 blancmange
+bistable
 blazingly
 bluesy
 bluesman
