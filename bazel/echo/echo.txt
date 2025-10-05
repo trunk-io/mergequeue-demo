@@ -1058,7 +1058,6 @@ envergure
 exostotic
 edible
 embase
-endothelial
 emplaster
 epistolic
 elective
@@ -7116,6 +7115,7 @@ earing
 exoner
 envoyship
 envolume
+endothelial
 explanate
 efflagitate
 enwall
