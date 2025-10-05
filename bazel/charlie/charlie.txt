@@ -15368,7 +15368,6 @@ cousins
 campings
 chinookan
 collogues
-clangours
 clangs
 conquests
 critter
@@ -20314,6 +20313,7 @@ communicate
 czarinian
 convertibles
 cousinly
+clangours
 communicating
 communication
 cellulolytic
