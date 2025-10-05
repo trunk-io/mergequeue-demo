@@ -4327,6 +4327,7 @@ endenizen
 extispices
 enthymeme
 e
+elenchus
 espacement
 encaptive
 entomion
@@ -11481,7 +11482,6 @@ extypal
 explanation
 extraburghal
 emesidae
-elenchus
 encodement
 embrittled
 endoparasitism
