@@ -2945,7 +2945,6 @@ broadcasters
 barrios
 boulevard
 barrister
-bootless
 banda
 botts
 beforested
@@ -4056,6 +4055,7 @@ beelbow
 beardfishes
 beswarms
 botulinum
+bootless
 beardy
 blanchimeter
 bearding
