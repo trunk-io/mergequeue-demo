@@ -6343,7 +6343,6 @@ beedom
 backswept
 benzalethylamine
 benzalphenylhydrazone
-beaconwise
 benzamide
 benzoxate
 badgerbrush
@@ -7451,6 +7450,7 @@ bodybuild
 bebeerine
 bifidities
 bargeese
+beaconwise
 bickiron
 betters
 bestraddled
