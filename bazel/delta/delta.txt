@@ -5687,7 +5687,6 @@ decorates
 depilitant
 dermatine
 damayanti
-dolichosoma
 dipl
 disrobe
 dentelliere
@@ -17777,6 +17776,7 @@ ducs
 determents
 disaggregate
 diluents
+dolichosoma
 dhunchee
 dislodge
 dermatobia
