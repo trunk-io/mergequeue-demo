@@ -5984,6 +5984,7 @@ banket
 bossier
 brewis
 blephillia
+bordage
 bruises
 bitterbark
 beme
@@ -12832,7 +12833,6 @@ bookstores
 bowleg
 beneficiaire
 bigaroon
-bordage
 bucolic
 bullfice
 bookwards
