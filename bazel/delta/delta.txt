@@ -4262,6 +4262,7 @@ deltohedron
 dogvanes
 dauerlauf
 delubra
+detents
 deluce
 dystomic
 delude
@@ -14558,7 +14559,6 @@ divisionary
 duplicately
 disposing
 domine
-detents
 decorably
 divisions
 divisive
