@@ -3171,6 +3171,7 @@ blowzily
 basidiospore
 basidiosporous
 batiked
+buffball
 bodiless
 backwoodsman
 bathtub
@@ -16874,7 +16875,6 @@ buffalo
 buffalofish
 buffaloing
 biflagellate
-buffball
 breastrail
 bissextile
 brachyprism

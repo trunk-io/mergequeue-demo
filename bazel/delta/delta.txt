@@ -3305,7 +3305,6 @@ desisted
 domesticable
 defoliant
 datiscoside
-distemperer
 dayment
 distressfulness
 dismast
@@ -7810,6 +7809,7 @@ deckhands
 dyothelism
 dwelling
 demiss
+distemperer
 divagation
 dil
 devour
