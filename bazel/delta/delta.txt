@@ -2241,7 +2241,6 @@ departmental
 deflex
 domineerer
 dustbox
-determinative
 decelerates
 demioctagonal
 dentolabial
@@ -4447,6 +4446,7 @@ delftware
 demerit
 demiluster
 damoetas
+determinative
 disabuse
 demersal
 drones
