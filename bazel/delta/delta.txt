@@ -2331,7 +2331,6 @@ decerebrate
 dustup
 demeriting
 determinant
-dummied
 denouement
 dysodile
 decertation
@@ -5463,6 +5462,7 @@ doss
 deordination
 deorganization
 deistic
+dummied
 defectible
 deorganize
 deregister
