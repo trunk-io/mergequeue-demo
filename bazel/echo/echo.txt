@@ -2480,7 +2480,6 @@ eminency
 eatable
 electrometallurgist
 emptiable
-electrometer
 euhemerizing
 exstrophy
 extremes
@@ -6170,6 +6169,7 @@ enounced
 esophagostenosis
 eardrops
 eburnated
+electrometer
 exoculating
 endamaged
 extrovertively
