@@ -3306,7 +3306,6 @@ emphase
 embargoes
 endocrinologist
 ectodactylism
-enc
 epidosite
 ensiling
 eavedropper
@@ -13362,6 +13361,7 @@ enfonce
 excretive
 electroculture
 estating
+enc
 emotionalising
 ethnogeographically
 extravagating
