@@ -9052,7 +9052,6 @@ extravascular
 ellipsometer
 epipastic
 erythrocytoschisis
-erythrodermia
 embryogony
 ectasia
 equivocations
@@ -11632,6 +11631,7 @@ etherion
 ecoid
 entoplastic
 exaggeratively
+erythrodermia
 ereptase
 effluence
 electromer
