@@ -7318,6 +7318,7 @@ baseboards
 bali
 betelgeuse
 betell
+balkanized
 bambuba
 bizonal
 breve
@@ -8588,7 +8589,6 @@ bionergy
 billfishes
 bradypode
 bellflower
-balkanized
 bhuts
 bastionary
 bearskin
