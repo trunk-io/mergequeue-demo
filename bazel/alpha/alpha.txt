@@ -1433,7 +1433,6 @@ acciaccaturas
 accidented
 atypicality
 accidential
-angletwitch
 amphidiscophora
 append
 ambisyllabic
@@ -22314,6 +22313,7 @@ astrogeology
 astrogeologist
 anthodia
 ariadne
+angletwitch
 antipode
 anniversaries
 astroglia
