@@ -5860,6 +5860,7 @@ buckbrush
 baronship
 banatite
 broch
+bibliotheque
 bellmanship
 benjamin
 briners
@@ -7952,7 +7953,6 @@ bibliopolist
 befall
 bibliosoph
 bibliothecarian
-bibliotheque
 bungalows
 batoka
 butic
