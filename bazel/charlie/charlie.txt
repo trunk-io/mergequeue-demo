@@ -16250,7 +16250,6 @@ childermas
 constringency
 clinoid
 clinology
-clinometer
 clinometry
 clinometric
 cantos
@@ -22757,6 +22756,7 @@ coemptio
 capper
 consecrative
 columnarized
+clinometer
 camisole
 caligraphy
 conscience
