@@ -648,6 +648,7 @@ baculus
 badaga
 badarian
 biorgan
+boyce
 bumbarge
 behav
 boregat
@@ -13956,7 +13957,6 @@ bitbrace
 boloball
 bowleggedness
 bowles
-boyce
 bowlful
 bergamasca
 bowly
