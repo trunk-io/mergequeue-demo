@@ -15436,7 +15436,6 @@ dacus
 domn
 dermatoglyphic
 ductule
-diphthongising
 deoxyribonucleic
 dopehead
 dope
@@ -15947,6 +15946,7 @@ dumfounds
 dotterels
 dynamicity
 domesticity
+diphthongising
 ducato
 delice
 discourages
