@@ -16118,7 +16118,6 @@ cliche
 cliches
 click
 clicked
-clicker
 cults
 corneitis
 clickers
@@ -28283,6 +28282,7 @@ crashing
 crashingly
 crashproof
 crashworthiness
+clicker
 colmars
 communitarian
 changable
