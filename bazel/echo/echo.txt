@@ -6504,7 +6504,6 @@ emotionist
 epilepsy
 extratension
 endurant
-ended
 entangled
 entangledness
 erudit
@@ -13440,6 +13439,7 @@ endome
 expropriate
 endpapers
 epitomization
+ended
 endothelium
 enzymolysis
 energism
