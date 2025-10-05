@@ -228,7 +228,6 @@ dissimilation
 dojos
 daftest
 donees
-daftness
 descending
 dinnertime
 dorsula
@@ -10660,6 +10659,7 @@ detritus
 delisting
 diplonts
 diplophase
+daftness
 downfalling
 difficultness
 deviously
