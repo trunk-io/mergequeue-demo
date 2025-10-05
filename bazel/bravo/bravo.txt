@@ -9854,7 +9854,6 @@ beamy
 brassica
 biters
 billed
-bagmen
 barbing
 begums
 bites
@@ -12113,6 +12112,7 @@ boatmaster
 bulbilla
 boites
 baltetei
+bagmen
 balladier
 baccalaureate
 bokhara
