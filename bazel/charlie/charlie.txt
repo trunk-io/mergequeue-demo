@@ -14793,7 +14793,6 @@ coenamor
 coccinellid
 cocinero
 cubti
-cityness
 cotyle
 citynesses
 chinantecs
@@ -18169,6 +18168,7 @@ coequals
 coequate
 centerward
 chincha
+cityness
 counterpunch
 chinbone
 chairless
