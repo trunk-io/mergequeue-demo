@@ -3814,7 +3814,6 @@ equivote
 euryalae
 entomotomy
 electrotonus
-extraboldface
 extollingly
 exterminating
 eminent
@@ -7480,6 +7479,7 @@ ephor
 ekphory
 euda
 ephraimite
+extraboldface
 exocoetidae
 economize
 extensively
