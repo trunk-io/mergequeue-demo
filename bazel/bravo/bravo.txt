@@ -8719,7 +8719,6 @@ booklike
 borborygmies
 buffe
 bearcat
-bushbeater
 bozine
 balladlike
 barrett
@@ -12519,6 +12518,7 @@ boned
 bonefish
 barcarolle
 bibliophobe
+bushbeater
 biennially
 brakier
 bursar
