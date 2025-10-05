@@ -6789,7 +6789,6 @@ emotes
 exoticism
 exalted
 entombs
-eviscerator
 emptins
 ensheathe
 entrepreneuse
@@ -10799,6 +10798,7 @@ expurgatory
 ethide
 enkennel
 electrotherapist
+eviscerator
 erinose
 euchroite
 euphemizer
