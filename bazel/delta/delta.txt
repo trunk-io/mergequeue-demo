@@ -308,7 +308,6 @@ directories
 daybeacon
 dealbate
 daybed
-decriminalized
 devchar
 dhurnas
 disembowelment
@@ -10615,6 +10614,7 @@ diplomatist
 diplomatists
 domer
 discogastrula
+decriminalized
 diplomatology
 diauli
 decompressing
