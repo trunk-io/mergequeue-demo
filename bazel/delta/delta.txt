@@ -2844,6 +2844,7 @@ droppage
 didn
 decurion
 dispensatories
+diagrammer
 deprived
 diorthosis
 deathling
@@ -8258,7 +8259,6 @@ diagram
 debugger
 drahthaar
 demobilize
-diagrammer
 disadvantageously
 dependancy
 dynamiting
