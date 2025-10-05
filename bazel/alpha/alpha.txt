@@ -6765,7 +6765,6 @@ airfoils
 airglow
 arteriopathy
 apterygidae
-alane
 anitrogenous
 airglows
 amniochorial
@@ -7977,6 +7976,7 @@ agnatically
 aprilis
 addoom
 alew
+alane
 awaiter
 alewives
 alexander
