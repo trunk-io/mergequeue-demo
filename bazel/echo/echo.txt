@@ -6447,7 +6447,6 @@ excludable
 estimative
 ephemeric
 englishes
-entail
 enfonced
 egomaniacal
 endeavored
@@ -13334,6 +13333,7 @@ extrared
 epimyocardium
 excircle
 exponent
+entail
 educated
 exotospore
 exponentiates

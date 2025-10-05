@@ -9834,6 +9834,7 @@ agmas
 availers
 ambivalence
 antepreterit
+anour
 amarillo
 amphigen
 antiboxing
@@ -13886,7 +13887,6 @@ affix
 atomically
 andrarchy
 accompanied
-anour
 attern
 acquiescer
 antilibration
