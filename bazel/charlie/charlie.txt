@@ -3079,6 +3079,7 @@ capataces
 capataz
 cleidoic
 capcase
+chromule
 celotomy
 cooption
 connexion
@@ -6635,7 +6636,6 @@ cleanness
 cedillas
 cedis
 cosheath
-chromule
 conglution
 cedrela
 cocamine
