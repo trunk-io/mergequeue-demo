@@ -1331,7 +1331,6 @@ antlers
 acaulescent
 avows
 abaters
-acc
 accable
 accel
 accelerable
@@ -21867,6 +21866,7 @@ avenalin
 androphobia
 assythment
 ataxy
+acc
 assize
 abacot
 anthramin
