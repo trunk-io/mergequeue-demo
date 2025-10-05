@@ -5003,7 +5003,6 @@ demultiplexers
 disroot
 desexing
 deposed
-dinamode
 decussion
 draped
 dacoited
@@ -14620,6 +14619,7 @@ devs
 divort
 dietarily
 desulfovibrio
+dinamode
 disillusionary
 defecter
 diarrheas
