@@ -3108,7 +3108,6 @@ eloinment
 eloins
 embody
 ecliptic
-enumerator
 enskyed
 epirrheme
 embryotome
@@ -4935,6 +4934,7 @@ endellionite
 eucephalous
 electrocorticogram
 equinia
+enumerator
 enshrining
 engraphic
 exencephalia
