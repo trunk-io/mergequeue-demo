@@ -6470,7 +6470,6 @@ ai
 anomura
 acrogynae
 araeometer
-amphiphloic
 antecessor
 analogist
 athbash
@@ -11321,6 +11320,7 @@ agrope
 amphithecia
 amoyese
 aregenerative
+amphiphloic
 atrophied
 amendableness
 amphithecium
