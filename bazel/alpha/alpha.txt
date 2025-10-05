@@ -25,7 +25,6 @@ ab
 aethogen
 anaphoric
 artemon
-assort
 abac
 ahuehuete
 anticourt
@@ -3204,6 +3203,7 @@ automobility
 ampullated
 anagramming
 anthemia
+assort
 acraze
 alpenhorn
 accountant
