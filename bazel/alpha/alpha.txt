@@ -5215,7 +5215,6 @@ annoyers
 affixation
 alcogene
 affixed
-anatomisation
 andantinos
 archpolitician
 affixes
@@ -19414,6 +19413,7 @@ atavistic
 argentometer
 argillaceous
 amoeboidism
+anatomisation
 aroides
 antillean
 argentometry
