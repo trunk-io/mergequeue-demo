@@ -12339,7 +12339,6 @@ bridging
 bombardments
 bombline
 bowdrill
-bruskest
 beriming
 bullbat
 bestink
@@ -16661,6 +16660,7 @@ bowmaker
 blackarm
 battleship
 beanpole
+bruskest
 bejewelled
 brawls
 boyardom
