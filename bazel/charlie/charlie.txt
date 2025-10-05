@@ -7293,7 +7293,6 @@ cephalins
 cephalism
 cabalic
 caprine
-cephalization
 cephaloauricular
 cephalobranchiata
 chelicera
@@ -25205,6 +25204,7 @@ clocking
 corymbiate
 corymbiated
 craylet
+cephalization
 coachlet
 corymblike
 culturization
