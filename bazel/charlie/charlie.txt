@@ -24631,7 +24631,6 @@ couturier
 copious
 copiousness
 cloners
-copyread
 coarsest
 copyreader
 copyreaders
@@ -29347,6 +29346,7 @@ compilatory
 caried
 centeses
 custody
+copyread
 calyciform
 cryptogram
 cryptogrammatic
