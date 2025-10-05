@@ -1456,7 +1456,6 @@ dollardom
 dories
 dispulp
 dazement
-deckhouses
 dejeuners
 dazes
 dazy
@@ -8453,6 +8452,7 @@ diamides
 descanter
 deesis
 diaminogen
+deckhouses
 downset
 disrecommendation
 directionize
