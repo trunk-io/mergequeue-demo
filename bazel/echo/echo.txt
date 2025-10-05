@@ -6339,7 +6339,6 @@ epitrochlear
 emulsor
 euskarian
 elaboration
-enrobed
 emulsic
 epist
 enunciator
@@ -8144,6 +8143,7 @@ expirant
 exsertion
 earsh
 eviscerates
+enrobed
 exuded
 exsheath
 esquired
