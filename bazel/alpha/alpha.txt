@@ -420,7 +420,6 @@ amour
 aulacodus
 antidomestic
 abies
-abyes
 aseismic
 albahaca
 anoine
@@ -16733,6 +16732,7 @@ atopic
 anemosis
 alopecist
 aphorismer
+abyes
 antagonists
 acanthopore
 aphorismos
