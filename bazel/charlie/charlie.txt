@@ -19033,7 +19033,6 @@ craniometric
 combattant
 collembola
 car
-collembole
 cokernut
 collembolous
 checkweighman
@@ -28467,6 +28466,7 @@ cowherbs
 cindery
 creance
 chabot
+collembole
 creancer
 carpintero
 creant
