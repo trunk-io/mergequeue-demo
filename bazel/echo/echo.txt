@@ -2078,7 +2078,6 @@ emma
 embrothelled
 exostoses
 emblematist
-enclosable
 epilimnia
 enterolysis
 elasmothere
@@ -2479,6 +2478,7 @@ epitomisation
 eulytite
 exoskeleton
 eviration
+enclosable
 eternity
 electrolytically
 envaye
