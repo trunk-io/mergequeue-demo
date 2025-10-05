@@ -5343,6 +5343,7 @@ copulates
 castellum
 chob
 caster
+communicators
 correctory
 crinicultural
 corncob
@@ -20313,7 +20314,6 @@ countrie
 cercospora
 command
 communicatory
-communicators
 communionable
 cornrows
 caracoled
