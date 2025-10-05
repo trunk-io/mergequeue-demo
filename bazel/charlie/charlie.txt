@@ -5520,7 +5520,6 @@ convection
 coulometer
 catadioptrical
 catadioptrics
-chantment
 catadrome
 chlorophaeite
 catadupe
@@ -31546,6 +31545,7 @@ coffeecake
 colognes
 cursorius
 culled
+chantment
 conjobble
 chirres
 cyriological
