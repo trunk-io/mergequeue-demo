@@ -11257,6 +11257,7 @@ disburse
 disillusionist
 deictic
 duckpins
+doxastic
 decolorimeter
 definability
 deaness
@@ -16397,7 +16398,6 @@ drawcansir
 draggletailedness
 doxa
 diapsidan
-doxastic
 doxasticon
 dioscorea
 doxie
