@@ -1373,6 +1373,7 @@ esterlin
 epitasis
 essenced
 endpiece
+epithet
 entodermal
 epipodialia
 erythrocytolytic
@@ -2606,7 +2607,6 @@ ejurate
 epitomizing
 ensurer
 ergodicity
-epithet
 electrosurgery
 enventual
 electronervous
