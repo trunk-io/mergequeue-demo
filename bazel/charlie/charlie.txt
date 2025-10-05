@@ -15627,7 +15627,6 @@ coplanarity
 classbook
 classed
 castigation
-cyclicism
 classers
 classfellow
 classy
@@ -20700,6 +20699,7 @@ complementary
 carty
 complementariness
 complementarity
+cyclicism
 complementative
 complemented
 carotin
