@@ -1711,7 +1711,6 @@ eer
 expertize
 extg
 electromuscular
-episiotomy
 embattle
 efficacy
 engulfs
@@ -13994,6 +13993,7 @@ entemple
 extraposition
 electrolytic
 extrapunitive
+episiotomy
 equinity
 eryopid
 eustacy
