@@ -6448,6 +6448,7 @@ bergamiol
 backcloth
 barangay
 buttercups
+bibliog
 biternate
 benzothiofuran
 benzothiophene
@@ -12899,7 +12900,6 @@ bulger
 barracuda
 boon
 boondogglers
-bibliog
 blipped
 boondoggling
 banishers
