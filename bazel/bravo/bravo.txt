@@ -3178,6 +3178,7 @@ beknave
 banners
 baclava
 bravish
+brandiron
 blowzily
 basidiospore
 basidiosporous
@@ -14639,7 +14640,6 @@ belong
 bryophyta
 blatterer
 branding
-brandiron
 bacchanalias
 brachycome
 billhooks
