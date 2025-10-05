@@ -5094,7 +5094,6 @@ boundedness
 beflag
 barkevikite
 bamboo
-bullnecked
 binits
 basilicon
 beflagged
@@ -16843,6 +16842,7 @@ beholds
 berycoidean
 bellerophontidae
 baconer
+bullnecked
 baccare
 burnsides
 beseecher
