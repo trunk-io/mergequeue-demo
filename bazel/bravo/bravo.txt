@@ -1012,7 +1012,6 @@ busway
 bustiest
 bacteroides
 boyaus
-basanite
 bersil
 boroughmaster
 bridler
@@ -5733,6 +5732,7 @@ bikram
 bebeast
 bemuzzles
 boilingly
+basanite
 beliefless
 badman
 blackhearted
