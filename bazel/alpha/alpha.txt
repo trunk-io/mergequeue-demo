@@ -9504,6 +9504,7 @@ audiotapes
 atremata
 annul
 accise
+assume
 altissimo
 agnuses
 alkalized
@@ -21954,7 +21955,6 @@ acromonogrammatic
 azodicarboxylic
 accessor
 avantgarde
-assume
 archibuteo
 araneidal
 apophis
