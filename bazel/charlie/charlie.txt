@@ -13491,7 +13491,6 @@ cloying
 cilia
 cloakedly
 ciliate
-ciliated
 ciliately
 coolish
 ciliates
@@ -16732,6 +16731,7 @@ conveyances
 clove
 cytological
 catoblepas
+ciliated
 caduciaries
 crankish
 calorescent
