@@ -4838,7 +4838,6 @@ endamoebas
 endamoebidae
 expertised
 elytroptosis
-eyeless
 endarteteria
 endbrains
 epipodite
@@ -7315,6 +7314,7 @@ enolize
 exemplariness
 eelshop
 ephah
+eyeless
 enact
 escaping
 epanisognathism
