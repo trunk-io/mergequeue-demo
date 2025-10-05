@@ -744,6 +744,7 @@ badland
 buba
 bat
 brushcut
+birn
 badmouthed
 badmouths
 breakfasters
@@ -9500,7 +9501,6 @@ banya
 bipunctal
 bores
 barhops
-birn
 byrnie
 biotope
 battlefront
