@@ -8779,7 +8779,6 @@ bosc
 beagling
 behests
 boatshop
-barycentre
 broadpiece
 binal
 bromopikrin
@@ -14092,6 +14091,7 @@ backbenchers
 bracery
 belialist
 barriguda
+barycentre
 braceros
 backtrick
 butcherbroom
