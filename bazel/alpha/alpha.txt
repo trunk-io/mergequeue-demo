@@ -3580,7 +3580,6 @@ akhundzada
 adenomycosis
 adenomyofibroma
 afterdated
-alvite
 adenomyxosarcoma
 aldrins
 adenoneural
@@ -8677,6 +8676,7 @@ arrhythmous
 apocalyptic
 animize
 arthritic
+alvite
 aldide
 ankylotome
 allergin
