@@ -6814,7 +6814,6 @@ datatype
 detestably
 diathermic
 desilvers
-devitrification
 demultiplex
 diskos
 daeva
@@ -11184,6 +11183,7 @@ dani
 durangite
 diarchic
 decemjugate
+devitrification
 dollhouse
 disbelieved
 disproportions
