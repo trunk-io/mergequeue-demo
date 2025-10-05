@@ -5832,6 +5832,7 @@ emphases
 enhalo
 enchorial
 epistolar
+edicule
 explees
 ecarinate
 exaggerativeness
@@ -12894,7 +12895,6 @@ expatriate
 enplane
 expatriating
 extradoses
-edicule
 endoubt
 explant
 enthusiastic
