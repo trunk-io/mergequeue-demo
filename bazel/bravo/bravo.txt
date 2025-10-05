@@ -3709,7 +3709,6 @@ bowstringed
 beachwear
 bourdis
 bourreau
-batture
 bielded
 barasingha
 blackening
@@ -4064,6 +4063,7 @@ beards
 birthroot
 boehmenist
 bastardly
+batture
 bombazette
 bedrenched
 bras
