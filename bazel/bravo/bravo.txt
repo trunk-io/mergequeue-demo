@@ -3652,7 +3652,6 @@ batterie
 breck
 bewearies
 batterman
-bullockman
 bindlet
 baylike
 batty
@@ -10457,6 +10456,7 @@ blarnid
 bayoneteer
 bhutan
 blason
+bullockman
 blasphemed
 blasphemes
 blasphemies
