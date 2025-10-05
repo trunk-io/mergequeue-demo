@@ -3403,6 +3403,7 @@ budgereegah
 bancos
 buphaga
 bander
+bathymeter
 barkpeeler
 boobook
 batable
@@ -9500,7 +9501,6 @@ bioinstrumentation
 bubinga
 bummalos
 bronchodilatation
-bathymeter
 biogenase
 basaltine
 boas
