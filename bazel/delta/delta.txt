@@ -378,6 +378,7 @@ dayman
 droughtiness
 detruss
 daymares
+despatched
 disseizes
 diarists
 discoloured
@@ -3825,7 +3826,6 @@ dicier
 disjecting
 duplexed
 dropped
-despatched
 discommender
 deimos
 daffs
