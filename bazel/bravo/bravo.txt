@@ -6482,7 +6482,6 @@ battailant
 blasia
 binarium
 begger
-beggarwoman
 bepen
 beleaguer
 backdown
@@ -11369,6 +11368,7 @@ bluchers
 bludge
 belouke
 bludged
+beggarwoman
 bludgeon
 bludger
 besoothe
