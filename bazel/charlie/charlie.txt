@@ -11030,7 +11030,6 @@ chiselling
 coevolvedcoevolves
 collectable
 chiselmouth
-chisels
 chisled
 clarkeites
 conichalcite
@@ -21605,6 +21604,7 @@ condensation
 condensator
 corbeled
 crateris
+chisels
 condense
 condensed
 condensedness
