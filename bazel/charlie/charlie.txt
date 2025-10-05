@@ -2251,7 +2251,6 @@ canal
 cookeys
 canalatura
 cryptocarya
-completer
 cromorne
 cirrate
 canalboat
@@ -26392,6 +26391,7 @@ columnizing
 collisional
 carnary
 coswearer
+completer
 cot
 cotabulate
 carya
