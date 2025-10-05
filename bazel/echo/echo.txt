@@ -2188,7 +2188,6 @@ epistome
 expanded
 expeditionist
 elders
-enumerating
 eldersisterly
 encrisp
 effigiated
@@ -6807,6 +6806,7 @@ epicranial
 emotes
 exoticism
 exalted
+enumerating
 entombs
 eviscerator
 emptins
