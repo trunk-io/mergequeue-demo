@@ -3718,7 +3718,6 @@ bacterian
 blastomeric
 batwing
 baysmelt
-beswitch
 bioenvironmental
 betatrons
 batwomen
@@ -8101,6 +8100,7 @@ barky
 biddability
 biddably
 benedict
+beswitch
 boread
 bendaying
 beshrew
