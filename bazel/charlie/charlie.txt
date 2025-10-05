@@ -5286,6 +5286,7 @@ cassumunar
 cellarers
 cast
 castable
+cotabulate
 castalian
 castalides
 calycanth
@@ -26392,7 +26393,6 @@ collisional
 carnary
 coswearer
 cot
-cotabulate
 carya
 cotarius
 calander
