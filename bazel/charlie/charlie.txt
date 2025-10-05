@@ -14630,6 +14630,7 @@ confederations
 cystolith
 caduca
 cystolithiasis
+corseting
 cystoma
 cystomas
 corpusculum
@@ -25916,7 +25917,6 @@ conocephalus
 corsetier
 corsetiere
 conicalness
-corseting
 ciliferous
 corsetry
 corsets
