@@ -3395,7 +3395,6 @@ embers
 eunuch
 epees
 erthen
-exing
 eclipse
 enshelter
 elaeothesium
@@ -6140,6 +6139,7 @@ enoint
 enterological
 exactitude
 enolic
+exing
 enolizable
 explicableness
 execrated
