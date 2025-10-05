@@ -848,6 +848,7 @@ coamiable
 couverte
 convictable
 cairngorum
+colander
 cays
 caissons
 caite
@@ -2981,7 +2982,6 @@ cantling
 canto
 confederatism
 cortege
-colander
 cantonal
 cantonalism
 cantoner
