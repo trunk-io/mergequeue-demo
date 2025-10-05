@@ -1426,7 +1426,6 @@ archenemy
 atka
 adsignification
 accessorize
-accessors
 astrometric
 acciaccaturas
 accidented
@@ -10729,6 +10728,7 @@ archegay
 attitudinize
 atwitter
 antiphthisical
+accessors
 ataraxic
 arditi
 anatripsology
