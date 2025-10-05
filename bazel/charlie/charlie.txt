@@ -6643,6 +6643,7 @@ ceders
 copepods
 cottiers
 cedilla
+cleanness
 cedillas
 cedis
 cosheath
@@ -9729,7 +9730,6 @@ cymbal
 cheirology
 ciconiidae
 colloidal
-cleanness
 cheiropod
 cheiropody
 churchgoer
