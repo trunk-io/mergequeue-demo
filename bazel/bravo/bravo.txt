@@ -2604,7 +2604,6 @@ battened
 barlafummil
 biopsychologist
 broadener
-barleycorn
 bournonite
 bilge
 brutalness
@@ -10236,6 +10235,7 @@ buri
 boyd
 bitternut
 bioastronautical
+barleycorn
 breakpoints
 boehmenism
 beparse
