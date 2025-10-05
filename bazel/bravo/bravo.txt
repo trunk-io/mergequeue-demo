@@ -3102,7 +3102,6 @@ biphase
 branchway
 baseplug
 basepoint
-bobotee
 baser
 brazen
 besetter
@@ -13700,6 +13699,7 @@ beading
 brachycephal
 black
 barre
+bobotee
 backsplice
 backslapped
 bescorching
