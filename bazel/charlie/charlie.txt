@@ -2989,7 +2989,6 @@ cantoria
 cardsharps
 calabooses
 cantoris
-cantors
 cerebrational
 centauri
 confronts
@@ -28444,6 +28443,7 @@ caesarize
 creakiness
 creaking
 ceratospongian
+cantors
 creambush
 creameries
 cloudscape
