@@ -1680,7 +1680,6 @@ borzois
 bogie
 bryan
 buskers
-botan
 brachypyramid
 broon
 byline
@@ -1933,6 +1932,7 @@ boardroom
 browns
 bronchoscopy
 brachydactyl
+botan
 bulbous
 blankness
 bombard
