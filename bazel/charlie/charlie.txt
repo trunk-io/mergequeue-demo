@@ -2350,7 +2350,6 @@ canceler
 cancellable
 contrasters
 cyprinidae
-cancellarius
 conessine
 chinois
 corynite
@@ -18597,6 +18596,7 @@ coiffed
 caustics
 clavers
 coiffeurs
+cancellarius
 coiffures
 coiffuring
 coifing
