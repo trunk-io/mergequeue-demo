@@ -14741,7 +14741,6 @@ cookery
 cite
 citer
 cites
-cronus
 citharas
 citharexylum
 citharist
@@ -30852,6 +30851,7 @@ chorist
 cyclotomy
 culmination
 covalence
+cronus
 culming
 culms
 cavesson
