@@ -1796,7 +1796,6 @@ bindings
 brigading
 banders
 broadlings
-barkinji
 bandfile
 bandfiled
 bandh
@@ -6087,6 +6086,7 @@ bauxite
 barragon
 bamoth
 berkovets
+barkinji
 benefits
 benchful
 benchman
