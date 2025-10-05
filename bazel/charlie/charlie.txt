@@ -7325,7 +7325,6 @@ cephaloclast
 cephalocone
 cephalodia
 cephalodymus
-cephalodiscid
 cephalodiscida
 cephalodiscus
 curtains
@@ -20175,6 +20174,7 @@ colove
 commiserations
 callicebus
 commissary
+cephalodiscid
 canham
 cleverly
 coccidiomorpha
