@@ -23415,7 +23415,6 @@ cleistothecium
 contagions
 cabrettas
 contagious
-contagiousness
 contagium
 contain
 contained
@@ -26644,6 +26643,7 @@ coalers
 coumaphos
 coumara
 coumaran
+contagiousness
 coumaric
 celluloided
 circumvent
