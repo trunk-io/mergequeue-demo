@@ -5824,6 +5824,7 @@ dowel
 divestible
 deficit
 dislimns
+doghouse
 dislodgement
 deposits
 dulcitol
@@ -15053,7 +15054,6 @@ dorlot
 dungeons
 doghead
 deletion
-doghouse
 dogie
 doglegs
 dicycle
