@@ -15892,7 +15892,6 @@ dosser
 dosseret
 diluvions
 dulcian
-dagesh
 dempster
 dosses
 dossy
@@ -17607,6 +17606,7 @@ dilogy
 disacknowledge
 defalcator
 delivered
+dagesh
 diclinism
 delatinize
 dagame
