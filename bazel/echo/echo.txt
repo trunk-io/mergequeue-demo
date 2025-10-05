@@ -5737,6 +5737,7 @@ empressements
 epigraphy
 eparchean
 expressions
+ephemeris
 enneahedral
 extirp
 englut
@@ -12689,7 +12690,6 @@ eumycete
 epigenous
 enthelminthes
 embryography
-ephemeris
 exceeds
 exorbitation
 eloah
