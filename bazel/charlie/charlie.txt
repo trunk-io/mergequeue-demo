@@ -11213,7 +11213,6 @@ chlorenchyma
 chlorguanide
 chlorhexidine
 chlorhydric
-chloriamb
 chloriambus
 chlorid
 chicanos
@@ -14697,6 +14696,7 @@ cited
 coprophiliac
 cystospore
 cystostomies
+chloriamb
 chamberlet
 catilinarian
 cystotome
