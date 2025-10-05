@@ -12037,6 +12037,7 @@ chaunters
 champlev
 choruses
 chorusing
+consumeless
 chanceries
 crisp
 countermachination
@@ -23320,7 +23321,6 @@ consumating
 cosmopolitical
 consume
 consumedly
-consumeless
 corkiness
 consumer
 cassandra
