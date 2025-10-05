@@ -16928,7 +16928,6 @@ clupeids
 creatureliness
 classis
 caviar
-clupien
 culturine
 cenotaphs
 choledochoplasty
@@ -26628,6 +26627,7 @@ coulombmeter
 coding
 coulter
 coulterneb
+clupien
 circumscription
 coulthard
 concorder
