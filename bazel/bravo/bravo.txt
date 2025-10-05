@@ -2522,6 +2522,7 @@ bs
 begster
 birk
 backlists
+bouses
 brownism
 brained
 burghalpenny
@@ -17564,7 +17565,6 @@ bobble
 bascule
 broadacre
 bothrops
-bouses
 bespill
 burgall
 burial
