@@ -2773,7 +2773,6 @@ brownnoser
 bookends
 body
 barosinusitus
-balldress
 burghmaster
 barosmin
 backwashed
@@ -14713,6 +14712,7 @@ baned
 brasils
 brasque
 bloc
+balldress
 bullwhack
 basilar
 brassard
