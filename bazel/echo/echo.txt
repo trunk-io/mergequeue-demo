@@ -3818,7 +3818,6 @@ endexine
 emitting
 entamebas
 electropathic
-echocardiogram
 exogamic
 emmetropy
 eosinophil
@@ -11963,6 +11962,7 @@ everyone
 enterfeat
 exampleship
 essentials
+echocardiogram
 eigenspace
 escorted
 electioneerer
