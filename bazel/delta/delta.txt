@@ -4119,6 +4119,7 @@ dihybrid
 darogah
 disreason
 delimitating
+daishiki
 delimitation
 delimiter
 deviational
@@ -15481,7 +15482,6 @@ don
 dona
 danker
 donack
-daishiki
 dorothea
 dailiness
 defibrillate
