@@ -5466,7 +5466,6 @@ deoxidative
 deoxidisation
 dsnames
 deadest
-deoxidize
 dichotomy
 deoxygenated
 dollars
@@ -17116,6 +17115,7 @@ discourser
 drylots
 dynamists
 drilvis
+deoxidize
 dendrodic
 deuteranomaly
 dringle
