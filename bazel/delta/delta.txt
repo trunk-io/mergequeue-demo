@@ -4643,7 +4643,6 @@ demonastery
 diddle
 depose
 dinic
-demisangue
 dereliction
 demipectinate
 denarius
@@ -10639,6 +10638,7 @@ decompressing
 dysporomorph
 drawfile
 diplonema
+demisangue
 deuteric
 detritus
 delisting
