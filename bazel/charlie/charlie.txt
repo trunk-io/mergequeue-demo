@@ -4182,6 +4182,7 @@ cuboidal
 cadetcy
 cared
 conversant
+covariance
 careens
 career
 careered
@@ -28328,7 +28329,6 @@ craterless
 chasmic
 craterlet
 craterlike
-covariance
 cheepily
 copywise
 cratinean
