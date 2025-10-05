@@ -11065,7 +11065,6 @@ chitinoid
 cowgirl
 churnstaff
 chitins
-chitlin
 chitling
 chitlings
 cowbirds
@@ -20893,6 +20892,7 @@ comprehender
 coolamon
 carnivallike
 chaenactis
+chitlin
 comedos
 comprehense
 comprehensibility
