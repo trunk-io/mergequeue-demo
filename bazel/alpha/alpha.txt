@@ -14352,7 +14352,6 @@ altitudes
 alces
 agpaite
 antholite
-anthology
 angico
 anthologised
 adephagia
@@ -24542,6 +24541,7 @@ autourine
 autovalet
 autovalve
 autovivisection
+anthology
 apologal
 autoxidation
 autoxidator
