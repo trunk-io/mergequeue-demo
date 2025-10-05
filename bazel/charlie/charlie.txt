@@ -10536,6 +10536,7 @@ conter
 carports
 chiller
 confessionary
+chakram
 comino
 callable
 chucklesome
@@ -17686,7 +17687,6 @@ cockade
 colour
 colonisation
 christianization
-chakram
 connecting
 cockades
 canorously
