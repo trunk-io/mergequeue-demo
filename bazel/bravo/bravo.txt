@@ -12351,6 +12351,7 @@ buglers
 bandurrias
 bourout
 basiliscus
+bugged
 bezzi
 bluebeard
 biophor
@@ -14174,7 +14175,6 @@ blot
 babbage
 bittock
 bumblebeefishes
-bugged
 beghard
 butsudan
 brighteyes
