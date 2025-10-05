@@ -574,7 +574,6 @@ cadres
 ciconiiform
 councilors
 convokes
-colloque
 confort
 caduac
 commilitant
@@ -27193,6 +27192,7 @@ chunder
 countersunken
 cava
 chrotta
+colloque
 countersway
 countersworn
 countertack
