@@ -12771,6 +12771,7 @@ bookishness
 boxty
 breviate
 barrenwort
+barogram
 beaux
 barging
 ballant
@@ -16294,7 +16295,6 @@ brassate
 benim
 bluegum
 browst
-barogram
 brickmaker
 bromoketone
 brinjaul
