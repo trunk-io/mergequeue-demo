@@ -3656,7 +3656,6 @@ contumacity
 capping
 cognates
 carapacic
-carapax
 climacterial
 coachable
 carbonadoes
@@ -27278,6 +27277,7 @@ counterworking
 committee
 carminative
 cirropodous
+carapax
 counting
 clothespress
 caurale
