@@ -8675,7 +8675,6 @@ elastometry
 enhallow
 electroencephalograph
 equisided
-equisignal
 erethitic
 epigaeous
 extradicting
@@ -12292,6 +12291,7 @@ excepable
 eaning
 extispicy
 enthroned
+equisignal
 evectant
 exertionless
 estuate
