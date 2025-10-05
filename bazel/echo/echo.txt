@@ -3092,7 +3092,6 @@ eloinment
 eloins
 embody
 ecliptic
-enumerator
 enskyed
 epirrheme
 embryotome
@@ -13286,6 +13285,7 @@ exploitatory
 evokers
 endocrinopath
 episcopy
+enumerator
 expiscate
 emaciation
 exploiting
