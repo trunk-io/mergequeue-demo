@@ -9148,6 +9148,7 @@ chaseable
 chased
 chases
 chasm
+cockpit
 cotonia
 chasma
 chasmed
@@ -16305,7 +16306,6 @@ cytome
 cliques
 collocalia
 cliquy
-cockpit
 croucher
 creasol
 cliquiest
