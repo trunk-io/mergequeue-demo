@@ -2329,7 +2329,6 @@ anachronously
 alpenhorns
 acierate
 acierated
-acierates
 abbreviatory
 autolimnetic
 acieration
@@ -3916,6 +3915,7 @@ apartness
 adjutory
 adjutrix
 ambassage
+acierates
 adlet
 ameba
 adlumia
