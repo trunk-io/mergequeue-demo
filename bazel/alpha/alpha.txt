@@ -752,7 +752,6 @@ abreacts
 aepyornis
 abusive
 abreast
-arkansite
 auxofluor
 abreed
 ammono
@@ -14883,6 +14882,7 @@ amoeboid
 airstrip
 anticommerciality
 academus
+arkansite
 antiprelate
 ashless
 armsful
