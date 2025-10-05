@@ -14026,7 +14026,6 @@ boxing
 boxmaker
 boxman
 boxroom
-basaltware
 bromatium
 bacteriofluorescin
 balkingly
@@ -14908,6 +14907,7 @@ bungled
 breadnuts
 breadroot
 breadstitch
+basaltware
 blankbook
 burnet
 blackwork
