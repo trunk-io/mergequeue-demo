@@ -10903,6 +10903,7 @@ encephalocoele
 epibaterium
 euktolite
 enamel
+exit
 enchondrosis
 euphoriant
 eaglewood
@@ -12511,7 +12512,6 @@ electrofusion
 extant
 embarcation
 epistemological
-exit
 eranist
 extinction
 enherit
