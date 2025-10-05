@@ -11650,6 +11650,7 @@ eiffel
 extract
 explanator
 endocarditis
+emes
 enforcive
 exalting
 extortionist
@@ -14040,7 +14041,6 @@ education
 enthelminthic
 extrathermodynamic
 equationism
-emes
 excitonic
 encampment
 es
