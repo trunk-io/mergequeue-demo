@@ -887,6 +887,7 @@ enteritidis
 endosteum
 ectoblastic
 echinoids
+echimys
 encapsulating
 electrotonic
 emplaces
@@ -2505,7 +2506,6 @@ ecad
 electrons
 encyclopaedian
 electroanalysis
-echimys
 entrenched
 expectorative
 entertainable
