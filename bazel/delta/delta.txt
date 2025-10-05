@@ -2091,6 +2091,7 @@ decamethonium
 decametric
 decan
 decanal
+detruncating
 disaster
 dominator
 decancellated
@@ -5177,7 +5178,6 @@ decephalization
 dogfoot
 deathly
 diaheliotropic
-detruncating
 diazoamino
 destructors
 denitrifying

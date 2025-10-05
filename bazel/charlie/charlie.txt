@@ -4798,6 +4798,7 @@ carragheenin
 carrat
 cortinate
 carrel
+consignificator
 curveting
 carrell
 carrells
@@ -22950,7 +22951,6 @@ countersalient
 consignificant
 consignification
 consignificative
-consignificator
 consignifying
 cylindroidal
 causse
