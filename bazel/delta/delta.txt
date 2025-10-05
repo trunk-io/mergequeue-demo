@@ -15250,6 +15250,7 @@ dissociate
 dialuric
 dingmaul
 disbursal
+dwarf
 demipriest
 distinctify
 doggies
@@ -17462,7 +17463,6 @@ delomorphous
 disheartened
 drudged
 depict
-dwarf
 drudgers
 detainers
 drudges
