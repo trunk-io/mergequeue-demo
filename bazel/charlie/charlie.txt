@@ -3011,7 +3011,6 @@ cantrip
 cantus
 cantuta
 cantwise
-canula
 canulas
 chthonophagy
 comatic
@@ -14601,6 +14600,7 @@ candescent
 cystiferous
 counterbranch
 cenobite
+canula
 cyath
 cystiform
 clockmutch
