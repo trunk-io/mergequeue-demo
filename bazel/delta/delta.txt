@@ -9389,7 +9389,6 @@ diffusers
 daggers
 deglazes
 disenthralment
-diffuses
 duckish
 decolorized
 diamin
@@ -11960,6 +11959,7 @@ differen
 disenchant
 dowd
 disenchantments
+diffuses
 depluming
 disencharm
 database
