@@ -1737,6 +1737,7 @@ bechtler
 blocklike
 backwall
 bromohydrin
+blattoid
 blennocystitis
 becobweb
 bizardite
@@ -10595,7 +10596,6 @@ bransle
 blatting
 blattodea
 bee
-blattoid
 brinny
 balistarius
 boresomely
