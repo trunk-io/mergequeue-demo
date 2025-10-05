@@ -3665,7 +3665,6 @@ baldly
 barotraumata
 bronteon
 battlefronts
-bringall
 brucella
 basocyte
 barrace
@@ -11477,6 +11476,7 @@ bivious
 barytones
 bluetit
 bluffly
+bringall
 buttermaking
 bullhoof
 bibliopolical
