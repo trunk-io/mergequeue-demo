@@ -4801,6 +4801,7 @@ esteemable
 encumbrance
 extrabureau
 english
+entrustment
 experted
 evolves
 esophagogastroscopy
@@ -6979,7 +6980,6 @@ euphonize
 eburnation
 emote
 entrapping
-entrustment
 electrolithotrity
 eurygaea
 exocoetus
