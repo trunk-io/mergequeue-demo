@@ -10283,7 +10283,6 @@ biofeedback
 bedaggle
 bellweather
 bulldogs
-biborate
 belly
 blacksmithing
 biochemy
@@ -17281,6 +17280,7 @@ bumbo
 bestench
 bumclock
 batling
+biborate
 benomyls
 boltings
 beryline
