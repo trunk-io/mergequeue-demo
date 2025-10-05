@@ -4057,7 +4057,6 @@ blearedness
 betoil
 bakerite
 becrawled
-biassing
 ballistics
 baroclinicity
 blamableness
@@ -6712,6 +6711,7 @@ burghs
 babbles
 boblet
 blowzier
+biassing
 bergh
 brachiata
 boonless
