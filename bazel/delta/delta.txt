@@ -3940,6 +3940,7 @@ dynamoneure
 delayable
 demes
 delayer
+disembarks
 delayful
 dunlap
 deluder
@@ -11929,7 +11930,6 @@ dietetical
 disembarking
 denominationally
 disbloom
-disembarks
 dentifrices
 degum
 decrease
