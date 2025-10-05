@@ -8925,7 +8925,6 @@ charette
 censers
 chemisms
 chargable
-combmaker
 charge
 chargeable
 ciphertext
@@ -16357,6 +16356,7 @@ christadelphianism
 clistothecium
 chastening
 clit
+combmaker
 cornland
 clitch
 clite
