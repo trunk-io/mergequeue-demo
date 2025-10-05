@@ -5503,7 +5503,6 @@ catacorolla
 catacoustics
 catacromyodian
 ceratothecal
-cardiological
 catacumba
 catadicrotic
 cronie
@@ -15874,6 +15873,7 @@ cleat
 cleated
 cleats
 cyclonologist
+cardiological
 cheilitis
 copetitioner
 cleavable
