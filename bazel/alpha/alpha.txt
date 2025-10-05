@@ -9959,7 +9959,6 @@ autoincrement
 aby
 ambeer
 ambeers
-agentival
 amber
 anathemas
 analogues
@@ -18802,6 +18801,7 @@ arianist
 archexorcist
 alien
 apprize
+agentival
 aroma
 abounds
 archlecher
