@@ -7225,7 +7225,6 @@ bestiary
 backdating
 byelorussia
 bur
-bestiarist
 bestirs
 befriz
 bestock
@@ -12317,6 +12316,7 @@ brownback
 bombinae
 backwardly
 boltwork
+bestiarist
 bailieship
 bolus
 burked
