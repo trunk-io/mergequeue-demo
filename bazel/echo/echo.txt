@@ -2263,7 +2263,6 @@ exemplary
 electroacoustic
 electroacoustical
 elfkin
-electroacoustics
 enthetic
 exundation
 electroanalytic
@@ -6583,6 +6582,7 @@ excitator
 empyreumata
 enantiomeric
 encraty
+electroacoustics
 elephantlike
 enzymologies
 enterohydrocele
