@@ -2907,7 +2907,6 @@ boules
 brassavola
 barrelwise
 barren
-barretor
 billowed
 bonus
 beath
@@ -17582,6 +17581,7 @@ burgall
 burial
 bailiery
 bromo
+barretor
 bakepan
 burganet
 balante
