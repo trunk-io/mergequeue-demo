@@ -7808,6 +7808,7 @@ demiss
 divagation
 dil
 devour
+diabolarch
 dorsad
 devourer
 devourers
@@ -17754,7 +17755,6 @@ ducklings
 duckmeat
 duckpin
 desalinate
-diabolarch
 dower
 dermatological
 demographies
