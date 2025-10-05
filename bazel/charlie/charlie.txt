@@ -10850,7 +10850,6 @@ chippendale
 chemiatrist
 chippered
 cleidoic
-counterstimulation
 cardosanto
 countermeasures
 cahuy
@@ -16381,6 +16380,7 @@ clivers
 clivis
 clivus
 clk
+counterstimulation
 clo
 cloacae
 cryptanalyzed
