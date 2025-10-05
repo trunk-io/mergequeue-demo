@@ -3945,7 +3945,6 @@ correctify
 carcinemia
 carcinogenesis
 carcinogenic
-curaris
 carcinoid
 cyclicality
 compartmental
@@ -13755,6 +13754,7 @@ cincture
 cytidine
 cinctured
 cinder
+curaris
 cnemapophysis
 committer
 cindering
