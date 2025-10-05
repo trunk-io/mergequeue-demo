@@ -7309,7 +7309,6 @@ caprine
 cephalization
 cephaloauricular
 cephalobranchiata
-chelicera
 cerusites
 choregy
 carneys
@@ -7534,6 +7533,7 @@ cercopithecus
 cimbri
 cercosporella
 canalisation
+chelicera
 cercus
 cerdonian
 carrus
