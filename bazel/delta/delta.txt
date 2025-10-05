@@ -2122,6 +2122,7 @@ downtime
 disturbs
 diosmosis
 decantist
+diapaused
 deadpay
 decaffeinated
 decapitates
@@ -9820,7 +9821,6 @@ digesters
 dumetose
 dillydally
 decaying
-diapaused
 discanonize
 debcle
 dillymen
