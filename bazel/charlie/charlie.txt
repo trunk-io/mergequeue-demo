@@ -4731,7 +4731,6 @@ carpoidea
 chalcidid
 carpolith
 confides
-clitellus
 carpology
 corrosibility
 corynocarpaceae
@@ -22916,6 +22915,7 @@ conserved
 conserver
 conservers
 colposcope
+clitellus
 circuitry
 collated
 councilist
