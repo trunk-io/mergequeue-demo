@@ -10289,7 +10289,6 @@ benevolist
 bocaccio
 blacksnake
 baneful
-bliaut
 ballsy
 blacktongue
 bonedry
@@ -17596,6 +17595,7 @@ brightwork
 bervie
 betacismus
 brushball
+bliaut
 bemol
 batwoman
 burgeon
