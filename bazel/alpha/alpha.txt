@@ -3118,7 +3118,6 @@ action
 albiflorous
 autogyros
 aerodyne
-allotrophic
 abnormalcies
 ascensiontide
 androphorous
@@ -12448,6 +12447,7 @@ anelectrotonus
 arduinite
 assart
 anilic
+allotrophic
 aboves
 autolithographer
 astatizing
