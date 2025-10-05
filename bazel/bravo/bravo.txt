@@ -2631,7 +2631,6 @@ broadsword
 bluestone
 barretter
 bertholletia
-barghest
 breechloader
 backlins
 berrugate
@@ -16077,6 +16076,7 @@ banalize
 bishoprics
 bronk
 boxwallah
+barghest
 burgullian
 brontides
 bordun
