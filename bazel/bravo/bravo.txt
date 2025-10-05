@@ -4108,7 +4108,6 @@ buoyantness
 brickwall
 boilable
 beastlily
-barrow
 bradypus
 beastling
 bullswool
@@ -5841,6 +5840,7 @@ broch
 bellmanship
 benjamin
 briners
+barrow
 buttstock
 bellota
 bidactyle
