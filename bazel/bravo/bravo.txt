@@ -3496,6 +3496,7 @@ bathylithic
 bipinnaria
 blah
 besmooth
+barraging
 bathymetry
 bathymetrical
 bathing
@@ -7863,7 +7864,6 @@ bismuthite
 bibliomane
 bams
 bibliomania
-barraging
 buxerries
 bawds
 biker
