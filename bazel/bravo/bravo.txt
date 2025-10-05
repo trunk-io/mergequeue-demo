@@ -2033,6 +2033,7 @@ bannerols
 bannisters
 bannock
 bilboquet
+blunges
 bannocks
 boilinglike
 bivittate
@@ -8914,7 +8915,6 @@ beylic
 biddings
 bandoras
 biocycle
-blunges
 biocycles
 biocide
 bookcases
