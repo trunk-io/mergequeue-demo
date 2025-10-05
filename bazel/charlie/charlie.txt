@@ -8237,7 +8237,6 @@ chalcocite
 christianomastix
 chalcogen
 chalcogenide
-coenaculum
 comas
 chalcography
 caucho
@@ -18195,6 +18194,7 @@ coerced
 controversion
 combust
 cresols
+coenaculum
 clarifications
 condylarth
 calendry
