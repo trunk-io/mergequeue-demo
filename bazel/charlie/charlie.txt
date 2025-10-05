@@ -955,7 +955,6 @@ convoluted
 caddle
 carara
 calaminaris
-counterdistinct
 callipygian
 calamine
 calamines
@@ -5071,6 +5070,7 @@ collectivity
 circumrenal
 casebox
 cased
+counterdistinct
 cisatlantic
 casefy
 counterenamel
