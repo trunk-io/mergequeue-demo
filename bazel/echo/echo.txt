@@ -505,7 +505,6 @@ estate
 entosphenal
 endonucleolus
 evocate
-electrophorus
 elaborated
 eching
 echinidan
@@ -11791,6 +11790,7 @@ exencephalus
 euconic
 excandescent
 explemental
+electrophorus
 erythrochroic
 errs
 endocrinopathy
