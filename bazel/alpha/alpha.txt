@@ -18091,7 +18091,6 @@ aquanauts
 abdicated
 agerasia
 archaeologer
-anemoscope
 akey
 annoyment
 allegator
@@ -20012,6 +20011,7 @@ acle
 armourbearer
 acidosis
 adossed
+anemoscope
 affrays
 armoured
 abiogenist
