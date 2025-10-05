@@ -666,6 +666,7 @@ bencher
 bombardo
 breathable
 bregma
+bouts
 banjo
 betimber
 bathtubs
@@ -4567,7 +4568,6 @@ blader
 blindingly
 bolognan
 boanerges
-bouts
 beddingroll
 boastful
 bubble
