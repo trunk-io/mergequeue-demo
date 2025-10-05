@@ -4983,6 +4983,7 @@ areal
 aeroscepsy
 anything
 amanitas
+absorbed
 aurum
 amalaka
 albacores
@@ -13123,7 +13124,6 @@ abseiled
 almsgiving
 advoke
 abiders
-absorbed
 anim
 anima
 animable
