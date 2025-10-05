@@ -17330,7 +17330,6 @@ crispens
 coarsening
 coarsens
 coarticulate
-coarticulation
 claylike
 companionways
 contratempo
@@ -25596,6 +25595,7 @@ corpn
 corpora
 coign
 corporacy
+coarticulation
 corporacies
 corporalcy
 corporale
