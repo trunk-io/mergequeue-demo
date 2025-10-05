@@ -3573,7 +3573,6 @@ carabus
 carack
 caracks
 caracoa
-clubroot
 cumanagoto
 curtaxe
 caracol
@@ -28166,6 +28165,7 @@ custards
 cleistotcia
 calibrations
 championship
+clubroot
 capronyl
 craniometrist
 craniopathic
