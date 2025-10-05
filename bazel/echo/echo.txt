@@ -6624,7 +6624,6 @@ excern
 epibatus
 eyas
 extraduction
-enthalpies
 eppy
 existents
 enterorrhaphy
@@ -8646,6 +8645,7 @@ earth
 epiglottides
 ewing
 enfin
+enthalpies
 evangelists
 ensteel
 equiperiodic
