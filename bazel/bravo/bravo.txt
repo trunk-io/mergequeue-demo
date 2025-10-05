@@ -1794,7 +1794,6 @@ brassage
 banderole
 bindings
 brigading
-banders
 broadlings
 bandfile
 bandfiled
@@ -5841,6 +5840,7 @@ balopticon
 banquo
 bachel
 buckbrush
+banders
 baronship
 banatite
 broch
