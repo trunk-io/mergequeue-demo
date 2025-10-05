@@ -9873,7 +9873,6 @@ chemosmotic
 consumptible
 calpacks
 clays
-calic
 cameograph
 catalogic
 chronobiology
@@ -13641,6 +13640,7 @@ calcaneonavicular
 cymiferous
 cymlin
 cymlings
+calic
 cymlins
 clinty
 cnemidophorus
