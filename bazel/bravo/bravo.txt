@@ -6241,6 +6241,7 @@ binzuru
 bound
 bridgeway
 batell
+bothria
 boletus
 basket
 benjamins
@@ -11791,7 +11792,6 @@ bobstays
 berreaving
 bobtail
 bobtailed
-bothria
 bobwhites
 bleachhouse
 becoom
