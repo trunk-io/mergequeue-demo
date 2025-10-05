@@ -657,7 +657,6 @@ damosel
 drachms
 decuries
 decapitalize
-decalogue
 dissemblies
 distrusted
 dukely
@@ -14553,6 +14552,7 @@ domine
 detents
 decorably
 divisions
+decalogue
 divisive
 divisively
 develope
