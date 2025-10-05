@@ -2365,6 +2365,7 @@ besmirch
 backflowing
 burgees
 brotherhood
+bricks
 bards
 bardship
 backaching
@@ -5812,7 +5813,6 @@ beaproned
 beleaps
 bldg
 butchering
-bricks
 bellicism
 beyonds
 balinger
