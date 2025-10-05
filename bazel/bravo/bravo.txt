@@ -9635,6 +9635,7 @@ bimastism
 barb
 bibliognost
 butin
+borrows
 bongs
 beckoners
 bullshot
@@ -12571,7 +12572,6 @@ benchy
 bongoes
 bongoist
 bypast
-borrows
 bannimus
 beaus
 bedposts
