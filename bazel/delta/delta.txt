@@ -3111,6 +3111,7 @@ defeature
 daribah
 dilate
 discharges
+disrank
 desertless
 dunnock
 deflocculated
@@ -7670,7 +7671,6 @@ deemed
 difform
 deviated
 disenthronement
-disrank
 deviately
 dramatical
 depredable
