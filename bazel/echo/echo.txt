@@ -9406,7 +9406,6 @@ excisions
 eighths
 eucti
 eulogistic
-escalloped
 ethylates
 excerptible
 escalope
@@ -10323,6 +10322,7 @@ ephorate
 electuaries
 exosmic
 encyclopaedical
+escalloped
 embrawn
 euryte
 exchanges
