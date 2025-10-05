@@ -12632,7 +12632,6 @@ banksides
 burette
 butylamine
 browbound
-bonnwis
 bonorum
 bisector
 blacklister
@@ -16866,6 +16865,7 @@ bromidrosis
 besin
 brumbee
 bacterioid
+bonnwis
 bicolligate
 biopsychical
 buffable
