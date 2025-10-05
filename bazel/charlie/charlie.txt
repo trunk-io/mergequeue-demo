@@ -3382,7 +3382,6 @@ canyon
 caprifig
 constructionally
 caprifole
-caprifoliaceae
 caprifolium
 cincinnatia
 capriform
@@ -11053,6 +11052,7 @@ chirurgeonly
 chirurgery
 chis
 chiseled
+caprifoliaceae
 curuba
 chiseler
 cheapens
