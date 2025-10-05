@@ -1051,7 +1051,6 @@ chitinocalcareous
 calceolaria
 calceolate
 cowhide
-calceus
 challengable
 clausilia
 costoclavicular
@@ -15457,6 +15456,7 @@ covenantor
 claosaurus
 corona
 clapboard
+calceus
 caenolestes
 clapboarding
 cleidomastoid
