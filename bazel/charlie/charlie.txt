@@ -10070,7 +10070,6 @@ chessner
 chessom
 claves
 chesstree
-chillier
 cerias
 chest
 curing
@@ -13524,6 +13523,7 @@ cylinders
 carling
 cleaned
 cylindrella
+chillier
 cylindrelloid
 cryptographic
 cylindric
