@@ -10843,7 +10843,6 @@ decerebrize
 diruption
 dereference
 deployed
-disable
 denazify
 denunciation
 dashed
@@ -11320,6 +11319,7 @@ dupondius
 depuration
 drawhorse
 disciples
+disable
 discipling
 desucration
 disciplining
