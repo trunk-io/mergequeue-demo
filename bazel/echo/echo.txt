@@ -1372,7 +1372,6 @@ epitasis
 essenced
 endpiece
 epithet
-entodermal
 epipodialia
 erythrocytolytic
 espoused
@@ -12912,6 +12911,7 @@ epistemophilia
 ecologist
 embryologies
 entotic
+entodermal
 epitonion
 enhardy
 expectancies
