@@ -22058,6 +22058,7 @@ confirms
 ceraunite
 cynebot
 confiscate
+chemistries
 countertrend
 confesses
 crois
@@ -27364,7 +27365,6 @@ courap
 courbaril
 cinquains
 courbe
-chemistries
 clanjamfrey
 courbette
 courbettes
