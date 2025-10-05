@@ -5101,7 +5101,6 @@ emforth
 endocrines
 endocrinic
 enterocoel
-entogenous
 ecdysones
 enteroptotic
 extrudability
@@ -9144,6 +9143,7 @@ electroencephalographic
 enterograph
 ethinyl
 escalloniaceae
+entogenous
 expt
 ecraseurs
 escrowee
