@@ -10370,7 +10370,6 @@ chief
 chiefery
 cyatholith
 cervalet
-concentrates
 conveyorizer
 chiefish
 chieftain
@@ -30371,6 +30370,7 @@ chocolatier
 crusade
 chops
 civilities
+concentrates
 consanguinean
 centralization
 cataphysic
