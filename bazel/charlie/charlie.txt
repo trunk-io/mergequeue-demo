@@ -3005,7 +3005,6 @@ curlyheads
 capitonidae
 centrales
 cantrip
-cantus
 cantuta
 cantwise
 canula
@@ -22810,6 +22809,7 @@ cordwainery
 cytology
 cartway
 catnapped
+cantus
 caffeine
 cotyledonoid
 chelonid
