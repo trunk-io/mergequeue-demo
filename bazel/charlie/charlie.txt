@@ -3084,7 +3084,6 @@ caparisoning
 cicutoxin
 capataces
 capataz
-capcase
 celotomy
 cooption
 connexion
@@ -30455,6 +30454,7 @@ cadelle
 cantaloupe
 csch
 csect
+capcase
 cpu
 cholecystectomies
 csmp
