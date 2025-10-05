@@ -1429,7 +1429,6 @@ calyptratae
 calyptriform
 calyptrimorphous
 coracoscapular
-ceriornis
 carnosin
 calisayas
 clave
@@ -14993,6 +14992,7 @@ cytotaxonomically
 circumcrescent
 covillea
 clavation
+ceriornis
 commixt
 cytotechnologist
 chirologist
