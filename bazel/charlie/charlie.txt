@@ -3425,6 +3425,7 @@ crunt
 cabalistical
 chordotonal
 capsizing
+caps
 capsomere
 capsomers
 capstan
@@ -16542,7 +16543,6 @@ clonal
 cloned
 cloner
 clanning
-caps
 collateralize
 contraparallelogram
 complicities
