@@ -2586,7 +2586,6 @@ balistarii
 belostoma
 broncs
 bloody
-buttonhook
 bravery
 beduchess
 bescoundrel
@@ -16013,6 +16012,7 @@ bronchoegophony
 bronchogenic
 bushwhack
 burgheristh
+buttonhook
 bashed
 bearer
 bemourn
