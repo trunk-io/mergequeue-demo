@@ -5754,7 +5754,6 @@ biophysics
 beaverroot
 bellbinder
 budgeree
-biocellate
 bilobiate
 bufo
 bellbird
@@ -12219,6 +12218,7 @@ broomcorn
 brimstone
 bollock
 brachiate
+biocellate
 browsick
 beginner
 bolloxes
