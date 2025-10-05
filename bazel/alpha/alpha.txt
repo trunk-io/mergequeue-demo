@@ -19160,6 +19160,7 @@ arthropoda
 antlion
 amphiumidae
 ammelide
+arider
 arctan
 arctation
 attendances
@@ -19629,7 +19630,6 @@ aricin
 archichlamydeous
 adhesions
 audivision
-arider
 apterium
 aridest
 agrarian
