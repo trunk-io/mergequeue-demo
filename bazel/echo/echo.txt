@@ -2939,7 +2939,6 @@ epidotes
 elytrorhagia
 elytrotomy
 emeer
-elix
 eggfish
 epistolatory
 elixir
@@ -10596,6 +10595,7 @@ epipactis
 epimysium
 event
 exodium
+elix
 elaterid
 eudaimonia
 everydeal
