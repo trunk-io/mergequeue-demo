@@ -4299,6 +4299,7 @@ dermatopathology
 dysbarism
 dysarthria
 delver
+doublewidth
 dibbed
 despises
 demasculinise
@@ -8629,7 +8630,6 @@ diarticular
 dunderheadedness
 dias
 depertible
-doublewidth
 dermatographia
 downstream
 diaschisis
