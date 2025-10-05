@@ -20497,6 +20497,7 @@ composition
 compartments
 celticist
 compass
+crane
 compassability
 compassable
 cotham
@@ -28098,7 +28099,6 @@ callitrichidae
 crandallite
 cuspidine
 coastwise
-crane
 carolean
 craned
 cichoriaceae
