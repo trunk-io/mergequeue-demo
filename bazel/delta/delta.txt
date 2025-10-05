@@ -792,6 +792,7 @@ deckhead
 discomycete
 daneweed
 daneweeds
+doughman
 detections
 dangerously
 deduced
@@ -8458,7 +8459,6 @@ declassify
 dunites
 desiringly
 denigrating
-doughman
 diurons
 diamorphine
 digladiated
