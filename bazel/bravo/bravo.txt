@@ -5368,6 +5368,7 @@ besoothement
 begowk
 begowned
 blacktops
+blackest
 buyable
 begray
 blurred
@@ -12995,7 +12996,6 @@ bootlessness
 bluefish
 bootlicking
 burins
-blackest
 boho
 bouquiniste
 bladderweed
