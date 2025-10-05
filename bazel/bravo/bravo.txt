@@ -6554,7 +6554,6 @@ bequalm
 bioblast
 bklr
 bequeathed
-bruges
 blooping
 biokinetics
 buccal
@@ -10259,6 +10258,7 @@ benty
 bachelorwise
 blackjack
 balladier
+bruges
 britany
 blackjacks
 bureaux
