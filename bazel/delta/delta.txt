@@ -8426,7 +8426,6 @@ dialog
 dialogers
 dysacousia
 droplet
-deflater
 devide
 deconcentrator
 deported
@@ -15791,6 +15790,7 @@ drypoints
 dorr
 dermatophytic
 doomage
+deflater
 deflorations
 dorsa
 dentiparous
