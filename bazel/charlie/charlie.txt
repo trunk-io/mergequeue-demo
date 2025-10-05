@@ -7548,7 +7548,6 @@ cereals
 chariotry
 calystegia
 cerebellifugal
-cowan
 cerebellocortex
 cerebellorubral
 cerebellum
@@ -19643,6 +19642,7 @@ columnarian
 caulophyllum
 calamaries
 columnate
+cowan
 clasmatosis
 centimolar
 cupseed
