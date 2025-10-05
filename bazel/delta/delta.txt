@@ -7362,7 +7362,6 @@ deselect
 discount
 distemperance
 demoniacally
-demiadult
 departmentization
 distributions
 detonating
@@ -12906,6 +12905,7 @@ desmosome
 dicephalous
 dainful
 demons
+demiadult
 dosimetrician
 differers
 demetallize
