@@ -2750,7 +2750,6 @@ buboed
 boatloading
 bookies
 bucks
-bookit
 been
 burro
 bezique
@@ -6506,6 +6505,7 @@ boltropes
 bronchopneumonic
 bephrase
 brachiopodist
+bookit
 bepicture
 bugology
 boundaries
