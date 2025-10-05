@@ -7726,6 +7726,7 @@ defuse
 deprint
 darwinism
 devilfish
+dissipativity
 decelerators
 devily
 detail
@@ -16027,7 +16028,6 @@ digitiform
 doddies
 donator
 decoyman
-dissipativity
 dumped
 doppia
 drent
