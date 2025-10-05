@@ -1894,6 +1894,7 @@ bandsman
 brigands
 boronia
 beseechment
+burbler
 bocaccios
 bagnio
 balances
@@ -12146,7 +12147,6 @@ boldhearted
 beclip
 beg
 beloid
-burbler
 blackmail
 brahminic
 baedekers
