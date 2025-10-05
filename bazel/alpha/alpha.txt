@@ -9855,7 +9855,6 @@ availers
 ambivalence
 antepreterit
 amarillo
-amphigen
 antiboxing
 anamniote
 ateuchus
@@ -24305,6 +24304,7 @@ amblycephalidae
 anorgana
 arroyuelo
 autoxeny
+amphigen
 antipacifism
 anachronical
 autonegation
