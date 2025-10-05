@@ -15675,7 +15675,6 @@ broacher
 broaches
 burgundies
 baraithas
-batterable
 buffone
 barrenest
 boatel
@@ -15958,6 +15957,7 @@ bromoauric
 brazilianite
 bromoil
 broaching
+batterable
 bruising
 bromomania
 bopper
