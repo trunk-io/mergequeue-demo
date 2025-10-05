@@ -13759,7 +13759,6 @@ dissour
 disenshroud
 desugaring
 degression
-damndests
 dangering
 decoke
 demonstrability
@@ -16707,6 +16706,7 @@ disciplinary
 drape
 discretionally
 disharmonized
+damndests
 dorbugs
 decourse
 dolichocephaly
