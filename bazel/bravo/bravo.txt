@@ -11243,7 +11243,6 @@ blotchiness
 biggish
 buckeye
 beaker
-bodkinwise
 batterfang
 beaverwood
 brazenness
@@ -16646,6 +16645,7 @@ benevolentness
 buccanned
 bent
 blastogeny
+bodkinwise
 bilaminated
 buccin
 biometry
