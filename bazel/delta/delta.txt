@@ -3101,6 +3101,7 @@ disestablisher
 disbodied
 demihuman
 destructibleness
+diacrisis
 desoxyribose
 dotty
 defamy
@@ -10583,7 +10584,6 @@ diplocephalus
 drearisomeness
 dysaphia
 dbrn
-diacrisis
 diplococcemia
 disleaf
 desugared
