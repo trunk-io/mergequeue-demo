@@ -9162,7 +9162,6 @@ charwomen
 chaseable
 chased
 chases
-chasm
 cotonia
 chasma
 chasmed
@@ -27511,6 +27510,7 @@ chelicerae
 curtailer
 covariable
 cathartical
+chasm
 chasteners
 cheongsam
 coal
