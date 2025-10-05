@@ -1534,6 +1534,7 @@ electroretinographic
 endocardia
 enmity
 ethnogenist
+equipt
 egalitarian
 excised
 eglomise
@@ -13313,7 +13314,6 @@ ethylating
 exorcisms
 enclitics
 explosiveness
-equipt
 electromyograph
 echoer
 elusively
