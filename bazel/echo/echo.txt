@@ -838,6 +838,7 @@ eddic
 entourages
 emicant
 ejective
+extern
 eigenfunction
 electrocution
 entailed
@@ -2939,7 +2940,6 @@ enfield
 eleatic
 extine
 enthean
-extern
 eliot
 eliphalet
 elbowroom
