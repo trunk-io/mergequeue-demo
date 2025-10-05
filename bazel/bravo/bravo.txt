@@ -2512,7 +2512,6 @@ baggy
 bariatrician
 banderilla
 baric
-barycenter
 bemused
 bamboozlement
 barid
@@ -3088,6 +3087,7 @@ betokener
 baselessly
 baselevel
 biradiate
+barycenter
 barish
 barrelhouses
 boswellize
