@@ -7202,7 +7202,6 @@ denotations
 disinfecter
 detar
 detassel
-detat
 diastrophism
 defoliating
 dictyogenous
@@ -17783,6 +17782,7 @@ ductwork
 duculinae
 dictyosome
 duplicidentata
+detat
 decurve
 duddery
 drakelet
