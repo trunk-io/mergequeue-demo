@@ -4681,6 +4681,7 @@ coragio
 counterearth
 colubrid
 ciboria
+chemoresistance
 concertment
 catchall
 chigetais
@@ -9861,7 +9862,6 @@ chemoreceptor
 cryptographers
 crystallisation
 chemoreflex
-chemoresistance
 compelling
 chemoserotherapy
 chemosynthesis
