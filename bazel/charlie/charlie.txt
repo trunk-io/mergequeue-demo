@@ -2996,6 +2996,7 @@ cantonize
 colectomy
 countergager
 cantoral
+cryosurgical
 cantoria
 cardsharps
 calabooses
@@ -29232,7 +29233,6 @@ cryostase
 cryostat
 cryosurgery
 cryptogamia
-cryosurgical
 crenelating
 colluvia
 coaming
