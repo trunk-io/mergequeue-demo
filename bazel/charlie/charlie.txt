@@ -11866,7 +11866,6 @@ choplogical
 choregi
 cryptomonad
 candider
-chopper
 choppers
 circumflect
 choppier
@@ -14352,6 +14351,7 @@ clodder
 calcographic
 cassoni
 circummundane
+chopper
 circummure
 circummuring
 convolving
