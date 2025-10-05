@@ -6465,6 +6465,7 @@ eskars
 eyeflap
 encroachment
 elaborative
+explications
 encasement
 ensorceled
 encephalometer
@@ -13041,7 +13042,6 @@ err
 epoxying
 expressionable
 enteromegaly
-explications
 ende
 esteros
 electability
