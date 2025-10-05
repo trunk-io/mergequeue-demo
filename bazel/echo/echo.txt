@@ -2947,7 +2947,6 @@ elixiviate
 epidiorthosis
 emblemology
 epiphenomenal
-edgrow
 esophagoscope
 exportability
 everich
@@ -5484,6 +5483,7 @@ emphasize
 enucleator
 endostome
 evocators
+edgrow
 eugenists
 evulsion
 enfiled
