@@ -2519,6 +2519,7 @@ endocritic
 edna
 eminency
 eatable
+equipped
 electrometallurgist
 emptiable
 electrometer
@@ -12578,7 +12579,6 @@ equatoreal
 eyah
 exodic
 embryogeny
-equipped
 encincturing
 emblazoning
 essancia
