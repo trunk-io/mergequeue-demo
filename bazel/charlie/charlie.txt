@@ -6055,6 +6055,7 @@ catlins
 craftsperson
 cryptoporticus
 canephroi
+croisette
 caupones
 cantharidizing
 cumene
@@ -29725,7 +29726,6 @@ croisee
 coetanean
 cookmaid
 croises
-croisette
 croissant
 cryptobranchiate
 camino
