@@ -8198,7 +8198,6 @@ byeworkman
 buntlines
 besqueeze
 bifaces
-bifara
 bedress
 bergmannite
 bootleger
@@ -16449,6 +16448,7 @@ butt
 bladesmith
 betrace
 bioassayed
+bifara
 bethroot
 balletomanes
 botas
