@@ -1955,7 +1955,6 @@ bronchocele
 bandcutter
 bhaiachara
 baryte
-banisher
 banishing
 banishment
 banyuls
@@ -6279,6 +6278,7 @@ bensall
 barbigerous
 bejeling
 boodled
+banisher
 blossom
 bluffness
 bruiser
