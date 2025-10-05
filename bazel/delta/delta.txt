@@ -5496,6 +5496,7 @@ dilutors
 durion
 deoxidation
 deoxidative
+desilt
 deoxidisation
 dsnames
 dissolubility
@@ -7926,7 +7927,6 @@ daggled
 dewlike
 deworming
 deworms
-desilt
 disponer
 dexiotropous
 dewrot
