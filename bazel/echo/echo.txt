@@ -10043,6 +10043,7 @@ extradict
 enrols
 emotiomuscular
 electrode
+enascent
 eurhythmical
 engrasp
 endew
@@ -10279,7 +10280,6 @@ ethiodide
 excluded
 epilogist
 enspangle
-enascent
 epidemiological
 effodientia
 elasticizer
