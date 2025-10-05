@@ -7619,6 +7619,7 @@ barracks
 blockhead
 beeyard
 brog
+bovids
 beworn
 bullocks
 borne
@@ -13166,7 +13167,6 @@ bornane
 backhanding
 borneol
 brachyceral
-bovids
 borning
 bornite
 baksheesh
