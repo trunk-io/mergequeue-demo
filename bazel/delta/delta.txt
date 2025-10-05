@@ -2540,6 +2540,7 @@ disrest
 disleafing
 dimmed
 dynasty
+discoursing
 declines
 directrices
 declivent
@@ -11687,7 +11688,6 @@ dangerful
 doorstone
 diastasis
 discourses
-discoursing
 drostden
 distritbute
 disclaim
