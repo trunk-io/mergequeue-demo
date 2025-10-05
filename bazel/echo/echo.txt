@@ -2373,7 +2373,6 @@ exponentials
 energist
 electrodeposition
 electrodes
-etherization
 elotherium
 electrodiagnosis
 esterling
@@ -6601,6 +6600,7 @@ exhaustibility
 ecospecies
 enterocoela
 eructed
+etherization
 eulachan
 eliminatory
 enunciable
