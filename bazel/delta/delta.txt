@@ -12917,7 +12917,6 @@ discriminability
 disfavourer
 decomplex
 disorderer
-daughterkin
 dullhead
 disordering
 distributionist
@@ -17826,6 +17825,7 @@ dueled
 deathday
 duelers
 decocted
+daughterkin
 duelist
 duelistic
 dosimeter
