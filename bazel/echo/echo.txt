@@ -1985,7 +1985,6 @@ electrograph
 eldin
 echoencephalography
 elaic
-enteroplegia
 elaioplast
 elamite
 elamitish
@@ -5929,6 +5928,7 @@ epimorpha
 ejections
 electropotential
 exhortative
+enteroplegia
 erosion
 experienced
 ejects
