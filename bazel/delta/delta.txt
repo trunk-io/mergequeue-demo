@@ -6010,7 +6010,6 @@ douglas
 dragons
 diopside
 delictus
-demeanour
 deed
 durezza
 depsides
@@ -16308,6 +16307,7 @@ dispeace
 downriver
 defended
 duskiness
+demeanour
 downshift
 downshifted
 downshore
