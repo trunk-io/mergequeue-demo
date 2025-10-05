@@ -523,7 +523,6 @@ bombsights
 backstroke
 bicentennial
 buddhist
-backstromite
 boart
 bu
 backtender
@@ -16081,6 +16080,7 @@ burgullian
 brontides
 bordun
 backsplicing
+backstromite
 bromeliaceae
 bielby
 bilboa
