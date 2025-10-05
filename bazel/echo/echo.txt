@@ -5732,6 +5732,7 @@ excl
 englobe
 empressements
 epigraphy
+eparchean
 expressions
 enneahedral
 extirp
@@ -6843,7 +6844,6 @@ enstatolite
 exaugurate
 expectative
 engle
-eparchean
 entomophila
 encolumn
 elapids
