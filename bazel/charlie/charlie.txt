@@ -9904,7 +9904,6 @@ chemotherapeutically
 campanulales
 cretinism
 chemotherapeutics
-chemotherapy
 calqued
 chemotherapist
 countersignatures
@@ -25601,6 +25600,7 @@ corporals
 cytostatically
 citronellic
 corporalship
+chemotherapy
 corporas
 corporate
 christenmas
