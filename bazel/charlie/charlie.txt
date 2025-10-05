@@ -6618,6 +6618,7 @@ cecums
 cecutiency
 cedar
 cedary
+corp
 convolvement
 cedars
 cedarwood
@@ -25586,7 +25587,6 @@ corotomy
 commemorized
 coroutines
 clericum
-corp
 corpn
 corpora
 coign
