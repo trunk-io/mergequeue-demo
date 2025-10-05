@@ -4922,7 +4922,6 @@ endeavour
 endamaging
 ericeticolous
 exilable
-emulsifiable
 embole
 expertly
 entopical
@@ -5709,6 +5708,7 @@ enolases
 elementality
 extolled
 exition
+emulsifiable
 enteroanastomosis
 engiscope
 ephorus
