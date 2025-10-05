@@ -8095,7 +8095,6 @@ bewormed
 boing
 bulk
 burrobrush
-bootle
 besprinkling
 bid
 biddability
@@ -15829,6 +15828,7 @@ bulletin
 brokages
 begohm
 banande
+bootle
 baksheeshes
 blastophthoria
 bemires
