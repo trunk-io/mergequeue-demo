@@ -8550,7 +8550,6 @@ extraparenchymal
 equiaxed
 edificable
 eburnification
-enharmonic
 extracorporeal
 endothermically
 electrodialitic
@@ -9129,6 +9128,7 @@ edgewise
 encanker
 electroencephalographic
 ethinyl
+enharmonic
 escalloniaceae
 emigrate
 expt
