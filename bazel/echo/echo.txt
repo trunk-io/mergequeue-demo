@@ -443,7 +443,6 @@ enanthesis
 evector
 ecclesia
 eudiometrical
-enumerable
 encratite
 eucommia
 ecclesiarch
@@ -13423,6 +13422,7 @@ embruted
 expressio
 exploring
 expressional
+enumerable
 erupted
 eikones
 excitingly
