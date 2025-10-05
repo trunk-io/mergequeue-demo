@@ -2045,7 +2045,6 @@ bronchus
 blesses
 bannerols
 bannisters
-birthmarks
 bannock
 bilboquet
 bannocks
@@ -14144,6 +14143,7 @@ baumhauerite
 brandify
 bitts
 bald
+birthmarks
 bombycidae
 boffin
 brachydont
