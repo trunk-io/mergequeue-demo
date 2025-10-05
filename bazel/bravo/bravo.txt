@@ -5055,6 +5055,7 @@ bilingual
 balefire
 buffo
 blazoner
+bastard
 biocatalyst
 befezzed
 broiderer
@@ -14930,7 +14931,6 @@ breakfast
 biconic
 buffetings
 breakfasted
-bastard
 budgetary
 breakfronts
 bylaws
