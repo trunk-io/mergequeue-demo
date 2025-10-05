@@ -1122,7 +1122,6 @@ economizers
 estuaries
 eutomous
 endosternite
-enterograph
 edoni
 entrochite
 edplot
@@ -9124,6 +9123,7 @@ epicolic
 edgewise
 encanker
 electroencephalographic
+enterograph
 ethinyl
 escalloniaceae
 emigrate
