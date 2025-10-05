@@ -1906,7 +1906,6 @@ boreus
 bandsawn
 bandsman
 brigands
-bandstand
 boronia
 beseechment
 bocaccios
@@ -11423,6 +11422,7 @@ barmkin
 bluegrass
 brownian
 bekko
+bandstand
 bestrut
 boxthorn
 buffeter
