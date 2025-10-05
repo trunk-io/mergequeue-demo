@@ -5284,7 +5284,6 @@ exophagous
 evidentness
 encharm
 epiphyte
-ectoethmoid
 exasperation
 embarrassing
 endosteoma
@@ -10611,6 +10610,7 @@ epinephelidae
 ejam
 exigenter
 enmoss
+ectoethmoid
 excavate
 endozoa
 eques
