@@ -9631,7 +9631,6 @@ exhumer
 endoblast
 encense
 epigaster
-entangleable
 enchanter
 equipper
 entia
@@ -11904,6 +11903,7 @@ emirs
 ensilages
 exauthorize
 endurance
+entangleable
 electrocauteries
 epithecate
 enarthroses
