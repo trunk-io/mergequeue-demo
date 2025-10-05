@@ -2630,7 +2630,6 @@ delinquents
 decenniad
 decompensations
 dasylirion
-doorkeeper
 decompiler
 decomposable
 diceman
@@ -15767,6 +15766,7 @@ dornic
 deletive
 dornick
 datival
+doorkeeper
 dornock
 diffugient
 dumka
