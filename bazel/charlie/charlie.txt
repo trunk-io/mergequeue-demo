@@ -20722,7 +20722,6 @@ completories
 chartermaster
 complex
 complexation
-crenation
 complexedness
 complexer
 complexes
@@ -30784,6 +30783,7 @@ culerage
 christmastide
 childbeds
 chousing
+crenation
 culett
 climatologic
 cycloganoidei
