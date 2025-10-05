@@ -1716,7 +1716,6 @@ blends
 baltimore
 baluba
 berogue
-baluch
 broquery
 boneheads
 baronnes
@@ -5485,6 +5484,7 @@ bacterioprotein
 backiebird
 behoved
 basting
+baluch
 behoves
 behoving
 babbitts
