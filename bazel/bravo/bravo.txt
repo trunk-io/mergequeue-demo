@@ -7277,7 +7277,6 @@ bequests
 bibiru
 broddle
 blanked
-betake
 blastemata
 buckshees
 betakes
@@ -12444,6 +12443,7 @@ bigotries
 brum
 bassariscus
 buckram
+betake
 bowknot
 blindless
 bonbonnieres
