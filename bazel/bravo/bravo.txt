@@ -861,6 +861,7 @@ biophysiological
 belowdecks
 bunions
 bakeries
+busway
 bookland
 bdellotomy
 bowstaff
@@ -998,7 +999,6 @@ bollards
 bailieries
 botargos
 biogeographic
-busway
 bustiest
 bacteroides
 boyaus
