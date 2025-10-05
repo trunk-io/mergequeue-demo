@@ -3500,6 +3500,7 @@ berceaunette
 bathylithic
 bipinnaria
 blah
+besmooth
 bathymetry
 bathymetrical
 bathing
@@ -7012,7 +7013,6 @@ besmirchers
 bactris
 baphomet
 billethead
-besmooth
 besmooths
 bleeders
 bigoniac
