@@ -5846,7 +5846,6 @@ bellyman
 biogenetical
 beanstalks
 banquo
-bachel
 buckbrush
 baronship
 banatite
@@ -12984,6 +12983,7 @@ bureaucratic
 breviloquence
 bungaloid
 brouette
+bachel
 boleros
 berthold
 boardinghouses
