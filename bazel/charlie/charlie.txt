@@ -2729,7 +2729,6 @@ cannetille
 claviers
 concealable
 cereless
-cannibalization
 cannibalized
 chimps
 cluttering
@@ -11838,6 +11837,7 @@ choplogic
 clepe
 choplogical
 choregi
+cannibalization
 cryptomonad
 candider
 choppers
