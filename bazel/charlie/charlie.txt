@@ -15716,7 +15716,6 @@ clavicorn
 clavicornes
 clavicotomy
 clavicular
-clavicularium
 claviculate
 chambertin
 chrysohermidin
@@ -19993,6 +19992,7 @@ caudata
 commark
 croupal
 coinheres
+clavicularium
 conjectural
 class
 commassation
