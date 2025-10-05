@@ -15080,7 +15080,6 @@ barraters
 breedable
 borderies
 biochemics
-bendlet
 breeder
 breakneck
 breeders
@@ -18279,6 +18278,7 @@ broadaxe
 boulimy
 buttgenbachite
 bolimba
+bendlet
 boomeranging
 burrowing
 bepile
