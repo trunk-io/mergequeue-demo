@@ -8044,7 +8044,6 @@ chaetopodan
 chaetopterus
 chaetosoma
 chaetosomidae
-compacting
 chaetotactic
 calculus
 chaetura
@@ -9488,6 +9487,7 @@ checkerbelly
 centrolepidaceous
 captious
 checkerbellies
+compacting
 checkerberry
 checkerberries
 checkerbloom
