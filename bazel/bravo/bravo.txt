@@ -4881,6 +4881,7 @@ burrowstown
 beef
 battled
 beefalo
+beamlet
 biznaga
 beefaloes
 basketweaving
@@ -16253,7 +16254,6 @@ brownies
 bricklining
 beluga
 browniest
-beamlet
 bindwith
 bahuts
 bottomland
