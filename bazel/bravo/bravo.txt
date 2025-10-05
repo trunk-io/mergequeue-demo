@@ -3510,6 +3510,7 @@ bathymetrical
 bathing
 bastinadoes
 bridgekeeper
+bestrow
 balon
 baygall
 barricade
@@ -3802,7 +3803,6 @@ branniest
 bawdier
 bawdies
 belicoseness
-bestrow
 bricklaying
 backaches
 belvidere
