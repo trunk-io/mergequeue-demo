@@ -1734,7 +1734,6 @@ equivalences
 encompasser
 enable
 epityphlon
-estimates
 entresse
 elliott
 enisled
@@ -3509,6 +3508,7 @@ euchlaena
 extratarsal
 embossed
 espials
+estimates
 exorcizement
 enbibe
 embossing
