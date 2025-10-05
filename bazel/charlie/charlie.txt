@@ -11253,7 +11253,6 @@ chesterbed
 ceresin
 chlormethane
 chantier
-chapstick
 chrysidella
 chloroacetone
 childe
@@ -31637,6 +31636,7 @@ curviserial
 conred
 curvital
 curvities
+chapstick
 cracidae
 cantare
 circumambulating
