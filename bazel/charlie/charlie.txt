@@ -5008,7 +5008,6 @@ chimu
 cytozoon
 carvestrene
 carving
-curses
 carvings
 carvoeira
 carvoepra
@@ -18573,6 +18572,7 @@ compartmentally
 coigny
 coequalize
 coyish
+curses
 coleseeds
 chrometophobia
 coyishness
