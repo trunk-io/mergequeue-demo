@@ -7067,7 +7067,6 @@ calendared
 centile
 cendre
 centiles
-caudatum
 counterdecision
 catamited
 clunker
@@ -20595,6 +20594,7 @@ cherishable
 compensator
 compensatory
 cotillions
+caudatum
 compensators
 compenser
 compere
