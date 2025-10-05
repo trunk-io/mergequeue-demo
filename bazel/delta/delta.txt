@@ -9544,7 +9544,6 @@ deuteromycetes
 dep
 dolous
 decelerator
-dynamogeny
 dialysers
 demiurge
 dights
@@ -16226,6 +16225,7 @@ daff
 densitometer
 dowitchers
 determinedness
+dynamogeny
 decidability
 dulat
 dares
