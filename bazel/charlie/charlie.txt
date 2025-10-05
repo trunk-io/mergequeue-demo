@@ -7528,7 +7528,6 @@ cercocebus
 cercolabes
 cercomonad
 cercomonadidae
-cercopid
 cercopithecid
 contracting
 cercopithecidae
@@ -10682,6 +10681,7 @@ confide
 cholinesterase
 chiminage
 chimla
+cercopid
 chimleys
 cynicalness
 cutlass
