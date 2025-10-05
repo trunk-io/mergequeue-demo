@@ -9082,7 +9082,6 @@ boredoms
 bionditional
 bionics
 bionomic
-backswordman
 batton
 bionomically
 bionomies
@@ -10146,6 +10145,7 @@ blabbermouth
 blabbermouths
 blabbers
 blabbing
+backswordman
 blabmouth
 beamish
 behave
