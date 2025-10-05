@@ -4386,6 +4386,7 @@ bulkiness
 beclogs
 bretonian
 bilabials
+bivalence
 beclothe
 banting
 bonasus
@@ -9977,7 +9978,6 @@ bilinguality
 bridleman
 burbles
 biases
-bivalence
 blethering
 battlefield
 byelaw
