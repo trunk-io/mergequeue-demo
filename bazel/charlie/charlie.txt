@@ -2371,7 +2371,6 @@ contrasters
 cyprinidae
 cancellarius
 conessine
-corynite
 crumber
 cremnophobia
 charitableness
@@ -13010,6 +13009,7 @@ crates
 cyanoguanidine
 cyanometer
 chimneys
+corynite
 camaile
 chiasmatypy
 curateship
