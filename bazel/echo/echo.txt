@@ -3328,7 +3328,6 @@ electroimpulse
 eremopteris
 euplexoptera
 ethologists
-estimator
 effectless
 equivocally
 electrophysicist
@@ -4440,6 +4439,7 @@ elsewhat
 encephaloid
 enforcing
 exterminator
+estimator
 euphemization
 encephalomas
 encephalomeningocele
