@@ -2760,7 +2760,6 @@ barrowman
 baramin
 bassets
 baudrons
-bowlers
 behaviourally
 bemoult
 baronries
@@ -10755,6 +10754,7 @@ bossship
 blatancy
 buildup
 baramika
+bowlers
 birdbrained
 bethuel
 baldberry
