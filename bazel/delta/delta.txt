@@ -2392,7 +2392,6 @@ doodads
 dispelled
 doucepere
 decima
-decimalism
 dueling
 decimalist
 decimalization
@@ -13822,6 +13821,7 @@ dignifies
 dissunder
 deflexible
 dhourra
+decimalism
 deerskin
 dialogistically
 demurral
