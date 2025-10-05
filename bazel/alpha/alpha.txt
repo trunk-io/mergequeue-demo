@@ -3731,7 +3731,6 @@ adeniform
 archicytula
 adiaphon
 abdaria
-aeromancy
 anasarcous
 anthelices
 aichmophobia
@@ -25031,6 +25030,7 @@ aerodynamics
 apocopes
 awoken
 awols
+aeromancy
 abscissions
 archistome
 absinthian
