@@ -3996,6 +3996,7 @@ branches
 bannerets
 battements
 becolme
+bombardments
 blindball
 benetnasch
 biscot
@@ -12319,7 +12320,6 @@ bullwhacker
 betrayer
 bramantesque
 bridging
-bombardments
 bombline
 bowdrill
 beriming
