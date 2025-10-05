@@ -13804,7 +13804,6 @@ anticreep
 anoplonemertini
 aphelenchus
 academial
-acerola
 anoplotherioid
 anoplotherium
 awned
@@ -22106,6 +22105,7 @@ archeology
 asthenies
 asthenophobia
 anguid
+acerola
 aerobranchia
 antistater
 anschauung
