@@ -2617,6 +2617,7 @@ broadsword
 bluestone
 barretter
 bertholletia
+belyingly
 beclowns
 barghest
 breechloader
@@ -15572,7 +15573,6 @@ bdelloida
 barraclade
 braggadocio
 bryozoon
-belyingly
 birdwise
 bilbos
 barometer
