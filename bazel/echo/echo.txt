@@ -1152,7 +1152,6 @@ enscroll
 entertainers
 ensweep
 educational
-extratracheal
 estimation
 eroded
 echopraxia
@@ -6796,6 +6795,7 @@ entoil
 entoils
 embroscopic
 entom
+extratracheal
 enclaved
 extender
 episternalia
