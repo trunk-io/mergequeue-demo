@@ -8913,7 +8913,6 @@ bandoras
 biocycle
 blunges
 biocycles
-biocidal
 biocide
 bookcases
 bioclimatic
@@ -13389,6 +13388,7 @@ bridgeman
 botcheries
 botcherly
 bedfellows
+biocidal
 botchy
 botchily
 beriberi
