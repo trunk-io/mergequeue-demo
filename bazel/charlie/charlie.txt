@@ -21342,7 +21342,6 @@ caparison
 computed
 conchs
 conchubar
-cryptonymic
 coplots
 conchuela
 concierge
@@ -31529,6 +31528,7 @@ cursive
 conveyal
 cursives
 clerkage
+cryptonymic
 chorused
 chromosomes
 cursorary
