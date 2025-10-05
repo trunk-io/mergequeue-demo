@@ -3461,7 +3461,6 @@ blubberous
 bumbass
 birdcall
 batched
-batcher
 bogging
 bitterhearted
 bateau
@@ -12672,6 +12671,7 @@ baguets
 beleaguerment
 bulged
 brasero
+batcher
 basinlike
 bellware
 bonxie
