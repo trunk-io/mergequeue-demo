@@ -1852,7 +1852,6 @@ acertannin
 acervate
 acervation
 acervative
-acervulus
 atropins
 acescent
 athlothete
@@ -8489,6 +8488,7 @@ alkanol
 alkaphrah
 alkapton
 antisimoniacal
+acervulus
 armorist
 archimage
 ascent
