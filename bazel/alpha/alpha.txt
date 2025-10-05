@@ -3042,6 +3042,7 @@ avour
 alumnus
 autochton
 actinomycete
+antisymmetric
 allogeneity
 agglutogenic
 analcime
@@ -10293,7 +10294,6 @@ adiaphorous
 atlantodidymus
 aquafer
 antithetically
-antisymmetric
 anesthesiometer
 aerohydrotherapy
 angulinerved
