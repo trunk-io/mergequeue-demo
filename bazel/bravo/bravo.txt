@@ -5781,7 +5781,6 @@ bathyhyperesthesia
 becrawling
 bedlamic
 bombyliidae
-batfish
 bonasa
 bellhouse
 belli
@@ -13831,6 +13830,7 @@ broncholemmitis
 bedlam
 bogs
 boatful
+batfish
 bovld
 beatas
 brontide
