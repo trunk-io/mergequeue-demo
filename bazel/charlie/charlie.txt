@@ -3092,7 +3092,6 @@ cristatella
 cape
 chequerboard
 capeadores
-capel
 capelan
 capelans
 capelin
@@ -17474,6 +17473,7 @@ cobblerfish
 cobblerism
 cobblers
 cobblership
+capel
 cobblestone
 clepsydras
 cobblestoned
