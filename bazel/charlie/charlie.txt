@@ -11175,6 +11175,7 @@ cherisher
 clumper
 chizz
 chizzel
+confiscatable
 chkfile
 chladnite
 chondrite
@@ -22078,7 +22079,6 @@ confirmor
 canastas
 confirms
 ceraunite
-confiscatable
 cynebot
 confiscate
 countertrend
