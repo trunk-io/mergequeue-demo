@@ -1303,6 +1303,7 @@ barrowcoat
 brod
 botrylle
 backdrops
+barking
 borderlands
 bremely
 balbusard
@@ -2586,7 +2587,6 @@ basicity
 bankera
 borassus
 bilges
-barking
 botanise
 barkless
 battening
