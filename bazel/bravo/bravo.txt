@@ -5769,7 +5769,6 @@ ballhausplatz
 bentstar
 beblubbered
 buoyancies
-behint
 bywalker
 bigthatch
 bountihead
@@ -12694,6 +12693,7 @@ belluine
 bushgoats
 baronies
 bewrite
+behint
 beaklike
 bloodlessly
 bewrayed
