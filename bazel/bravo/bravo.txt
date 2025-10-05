@@ -5607,6 +5607,7 @@ borons
 beknighted
 ballistite
 beknotted
+buffer
 burrio
 brassicaceous
 basophile
@@ -9262,7 +9263,6 @@ bushelmen
 bunolophodont
 bobbinwork
 bipartisanship
-buffer
 belitter
 benzophthalazine
 belavendered
