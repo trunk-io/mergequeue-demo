@@ -2410,6 +2410,7 @@ ellipsoids
 enstatite
 electrogasdynamics
 empanelment
+encapsuling
 electrohemostasis
 embodied
 ebony
@@ -4316,7 +4317,6 @@ encapsuled
 estimators
 enure
 effectively
-encapsuling
 encaptivate
 essence
 eternized
