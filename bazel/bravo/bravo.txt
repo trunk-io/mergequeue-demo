@@ -2798,7 +2798,6 @@ bravest
 barotraumas
 behooves
 bradydactylia
-barotropic
 barouche
 barouchette
 bozzetto
@@ -15298,6 +15297,7 @@ blueblaw
 bitted
 bestrewed
 baching
+barotropic
 bridesmaid
 buttonbush
 bridesmaids
