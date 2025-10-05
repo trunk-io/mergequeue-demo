@@ -807,7 +807,6 @@ elaeagnus
 eucharistic
 erratums
 ectocoelic
-eosinophil
 ectocommensal
 ectocondylar
 endophytic
@@ -3811,6 +3810,7 @@ electropathic
 echocardiogram
 exogamic
 emmetropy
+eosinophil
 everted
 emmetropic
 equationally
