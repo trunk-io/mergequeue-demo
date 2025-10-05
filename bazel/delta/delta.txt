@@ -5735,7 +5735,6 @@ deplorabilia
 deplorability
 deplorableness
 disrepair
-deplore
 disposes
 dodrans
 deemer
@@ -8956,6 +8955,7 @@ draughtsman
 disannulment
 dimensions
 discriminators
+deplore
 demeore
 dasya
 diolefin
