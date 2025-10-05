@@ -8031,7 +8031,6 @@ buttstrapping
 bicircular
 bitemporal
 beedged
-byname
 bick
 brainwashes
 bicycler
@@ -16368,6 +16367,7 @@ balalaikas
 brewing
 beglerbeglik
 bijection
+byname
 broadways
 biliary
 bieldy
