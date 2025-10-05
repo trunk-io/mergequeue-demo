@@ -1968,7 +1968,6 @@ camiknickers
 charter
 cosmodrome
 camilla
-chariotlike
 camillus
 camion
 camions
@@ -19116,6 +19115,7 @@ collinses
 circumterraneous
 cristate
 chaptrel
+chariotlike
 collinsite
 chalaco
 collinsonia
