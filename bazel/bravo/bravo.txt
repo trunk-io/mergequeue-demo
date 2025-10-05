@@ -4967,6 +4967,7 @@ bitsy
 blackland
 bumpoff
 banterer
+bejan
 beefers
 bombycilla
 beerpull
@@ -15329,7 +15330,6 @@ bridgebuilder
 brakemen
 bridgehead
 bridgemaking
-bejan
 bridgemaster
 bridger
 befrumple
