@@ -24493,7 +24493,6 @@ copa
 copable
 carrs
 coeliac
-contractibleness
 claquer
 creammaking
 copaene
@@ -28475,6 +28474,7 @@ cowherbs
 cindery
 creance
 chabot
+contractibleness
 creancer
 carpintero
 creant
