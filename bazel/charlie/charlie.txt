@@ -7831,7 +7831,6 @@ cervicodynia
 cervicofacial
 cervicolabial
 cooeyed
-cervicomuscular
 cerviconasal
 cholelithotripsy
 cribrous
@@ -31296,6 +31295,7 @@ curby
 crumblier
 curbings
 cotonam
+cervicomuscular
 curbline
 curbs
 curbside
