@@ -2310,7 +2310,6 @@ canalizes
 canalizing
 charmers
 canalla
-canalled
 canallers
 canals
 cylindrocellular
@@ -17930,6 +17929,7 @@ coef
 chromosphere
 contractibility
 coeff
+canalled
 copperplate
 coefficients
 coelacanth
