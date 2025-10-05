@@ -4332,7 +4332,6 @@ bravers
 bunyip
 byworks
 backswing
-bally
 beaconed
 barstool
 brise
@@ -16754,6 +16753,7 @@ befallen
 buckled
 bebilya
 buckleless
+bally
 baklavas
 bleached
 brattice
