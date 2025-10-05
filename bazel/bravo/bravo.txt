@@ -7922,6 +7922,7 @@ bibliopole
 birdieback
 brusher
 beclasp
+bursty
 boschbok
 butein
 blennorrhagia
@@ -17845,7 +17846,6 @@ burst
 booksellers
 burster
 blutwurst
-bursty
 basural
 blotch
 barabara
