@@ -5732,7 +5732,6 @@ deplorability
 deplorableness
 disrepair
 deplore
-deplorer
 disposes
 dodrans
 deemer
@@ -14139,6 +14138,7 @@ demasculinize
 daywork
 deringer
 dunair
+deplorer
 disunify
 drawtube
 disorientates
