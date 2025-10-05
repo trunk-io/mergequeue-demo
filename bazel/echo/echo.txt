@@ -7600,7 +7600,6 @@ elixirs
 enhungered
 extrabold
 electrophoridae
-epicoracoid
 exocrine
 epilobiaceae
 ellachick
@@ -11609,6 +11608,7 @@ electivity
 exaction
 eleusinian
 extremely
+epicoracoid
 endoskeleton
 eluviation
 endopolyploid
