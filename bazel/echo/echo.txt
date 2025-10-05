@@ -4834,7 +4834,6 @@ endamebae
 equiv
 eveck
 extradictable
-endamoebas
 endamoebidae
 expertised
 elytroptosis
@@ -12950,6 +12949,7 @@ entice
 expertise
 expectorant
 expectorate
+endamoebas
 expectorated
 enneahedria
 exculpate
