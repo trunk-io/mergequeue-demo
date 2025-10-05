@@ -10844,6 +10844,7 @@ digit
 dynameter
 darkest
 distant
+detuned
 dumpies
 dimerized
 displays
@@ -13255,7 +13256,6 @@ deco
 decrees
 dispossession
 damascus
-detuned
 dinomys
 deodar
 dogfish
