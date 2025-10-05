@@ -2487,7 +2487,6 @@ eminency
 eatable
 electrometallurgist
 emptiable
-electrometer
 euhemerizing
 exstrophy
 extremes
@@ -10084,6 +10083,7 @@ eyot
 envenoming
 enzymatically
 encephalographically
+electrometer
 entitlement
 ethanolamine
 equidense
