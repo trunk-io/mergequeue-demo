@@ -398,7 +398,6 @@ disturbant
 daimyos
 drinkers
 daimiote
-defension
 deployable
 disembargoing
 dimmet
@@ -12297,6 +12296,7 @@ defiledness
 disenchanted
 delicacies
 debarks
+defension
 danais
 doublegear
 dogface
