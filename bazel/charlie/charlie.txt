@@ -7802,7 +7802,6 @@ cervicispinal
 cervicitis
 cervicoauricular
 chippable
-cervicobasilar
 cervicobregmatic
 cobitis
 cervicobuccal
@@ -17699,6 +17698,7 @@ cardinalfish
 cochlite
 cerate
 cochlospermaceae
+cervicobasilar
 coffeeleaf
 cochlospermum
 catatoniac
