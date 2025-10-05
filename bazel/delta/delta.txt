@@ -532,7 +532,6 @@ damageability
 disodic
 damageably
 detonatable
-damaged
 doxographical
 detort
 damageous
@@ -11653,6 +11652,7 @@ discordant
 dipetalous
 discordantness
 distributution
+damaged
 discorded
 discordous
 dotishness
