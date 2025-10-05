@@ -6628,7 +6628,6 @@ copepods
 cottiers
 cedilla
 cedillas
-ceding
 cedis
 cosheath
 chromule
@@ -16691,6 +16690,7 @@ carts
 consonantalized
 clotty
 clotting
+ceding
 characterful
 cloture
 clotured

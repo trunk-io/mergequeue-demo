@@ -5210,7 +5210,6 @@ esterellite
 enchest
 engrafting
 ecmnesia
-endorsable
 entopterygoid
 etymologer
 excerpt
@@ -6769,6 +6768,7 @@ entom
 enclaved
 extender
 episternalia
+endorsable
 evocativeness
 ectosarcs
 enl
