@@ -1957,7 +1957,6 @@ charter
 cosmodrome
 camilla
 chariotlike
-cacholong
 camillus
 camion
 camions
@@ -8598,6 +8597,7 @@ cynosural
 curtness
 complementaries
 cohesionless
+cacholong
 changelessness
 changelings
 changement
