@@ -11345,6 +11345,7 @@ anonymous
 abaff
 affectless
 ascham
+alkalisable
 amphora
 archswindler
 amphorae
@@ -16069,7 +16070,6 @@ antishipping
 antisialagogue
 antisideric
 assedat
-alkalisable
 antisymmetry
 anthophobia
 annulling
