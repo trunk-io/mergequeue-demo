@@ -9755,6 +9755,7 @@ eddo
 enneahedron
 ectogenesis
 ennead
+extrorsal
 enrobing
 eigenfrequency
 eucharist
@@ -10042,7 +10043,6 @@ electrode
 eurhythmical
 engrasp
 endew
-extrorsal
 electrodiagnostic
 euphemistic
 expellable
