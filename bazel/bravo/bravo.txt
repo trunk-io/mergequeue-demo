@@ -1080,7 +1080,6 @@ betrayals
 bedimmed
 boatload
 brindled
-brewmaster
 brasilete
 bargestone
 breakwind
@@ -7057,6 +7056,7 @@ bitterly
 babeship
 besot
 bepreach
+brewmaster
 boodh
 backhoes
 boothian
