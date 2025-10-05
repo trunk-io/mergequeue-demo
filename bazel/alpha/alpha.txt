@@ -5741,7 +5741,6 @@ ahoy
 auxetics
 agatized
 animis
-agatizing
 agatoid
 asperula
 admirability
@@ -12979,6 +12978,7 @@ anguishes
 adjuvants
 albs
 antipriming
+agatizing
 axine
 alhenna
 actuating
