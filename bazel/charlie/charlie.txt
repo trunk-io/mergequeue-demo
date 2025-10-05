@@ -11,6 +11,7 @@ complanate
 cabaho
 cabal
 condylarthrous
+colored
 cryptostoma
 chevance
 chaenomeles
@@ -3112,7 +3113,6 @@ closemouth
 caper
 capercaillie
 chaulmoogric
-colored
 capercut
 combustibles
 citify
