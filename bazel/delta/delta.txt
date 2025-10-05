@@ -2547,7 +2547,6 @@ disrest
 dimmed
 dynasty
 declines
-directrices
 declivent
 declivity
 deanthropomorphize
@@ -13637,6 +13636,7 @@ distractedness
 dolce
 drang
 dividuous
+directrices
 demiliterate
 def
 dissimilars
