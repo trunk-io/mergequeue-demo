@@ -884,7 +884,6 @@ aider
 anelastic
 aures
 autoactivation
-amylon
 absis
 ambivalency
 abrahamic
@@ -22076,6 +22075,7 @@ asterophyllite
 asterophyllites
 alcids
 agnathous
+amylon
 airily
 antidromic
 antistat
