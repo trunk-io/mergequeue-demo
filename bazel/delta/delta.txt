@@ -9426,7 +9426,6 @@ decolorized
 diamin
 diffusible
 doup
-diffusibleness
 diffusing
 diestrus
 dereling
@@ -15001,6 +15000,7 @@ disdub
 dueler
 dogfennel
 darabukka
+diffusibleness
 discernibly
 dogfights
 diagrammatically
