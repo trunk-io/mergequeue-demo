@@ -3970,6 +3970,7 @@ broadcasting
 begetters
 beadworks
 baetuli
+bistroic
 boilermaking
 butcheries
 beaked
@@ -12599,7 +12600,6 @@ booklists
 bonita
 basilidan
 bonitary
-bistroic
 bonitarian
 bonity
 bullhide
