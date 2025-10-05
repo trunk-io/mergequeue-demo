@@ -10340,7 +10340,6 @@ engines
 enthuses
 elkoshite
 ethnozoology
-ethography
 etherify
 erythematous
 entropion
@@ -11783,6 +11782,7 @@ edges
 eulogization
 extromit
 excalceate
+ethography
 eagres
 excalceation
 excalibur
