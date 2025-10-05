@@ -651,7 +651,6 @@ brioche
 bicorne
 bombo
 biannual
-begall
 bronchiolitis
 bathyesthesia
 boiseries
@@ -7588,6 +7587,7 @@ bloodripe
 begiggle
 barnacle
 bewhisker
+begall
 biplicate
 benday
 boosterism
