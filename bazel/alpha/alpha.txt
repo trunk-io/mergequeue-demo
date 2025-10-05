@@ -5471,7 +5471,6 @@ afterplanting
 afterreckoning
 assemblywoman
 articulare
-albarello
 andiroba
 anemogram
 alumna
@@ -12372,6 +12371,7 @@ autoradiograph
 andrographis
 andromache
 ahuatle
+albarello
 andromaque
 arborizes
 andromeda
