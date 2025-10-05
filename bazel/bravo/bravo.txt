@@ -732,7 +732,6 @@ birt
 badious
 betrays
 betterer
-bellybutton
 badland
 buba
 bat
@@ -11167,6 +11166,7 @@ bawley
 brachypnea
 bisection
 bloodstream
+bellybutton
 butylation
 bloodstreams
 bolivars
