@@ -8933,7 +8933,6 @@ barbarousness
 becrippling
 biocoenotic
 baidarkas
-biodegradability
 biodegradable
 blackbreast
 becassocked
@@ -9360,6 +9359,7 @@ boation
 brines
 birdbaths
 boatbill
+biodegradability
 broomroot
 backbit
 blethers
