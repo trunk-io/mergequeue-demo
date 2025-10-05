@@ -5254,7 +5254,6 @@ begass
 backspacing
 bockeret
 bracken
-brabble
 bellicose
 brailled
 bitless
@@ -10992,6 +10991,7 @@ bookcase
 blissom
 blockman
 balden
+brabble
 bestows
 buxomer
 bistriate
