@@ -10279,6 +10279,7 @@ baneful
 bliaut
 ballsy
 blacktongue
+bonedry
 bedless
 booklore
 benzoquinoline
@@ -12526,7 +12527,6 @@ bone
 bellworts
 bejaundice
 boned
-bonedry
 bonefish
 barcarolle
 biennially
