@@ -4342,6 +4342,7 @@ bioxalate
 beldam
 bravers
 bunyip
+brick
 byworks
 beaconed
 brise
@@ -15227,7 +15228,6 @@ brushman
 bryce
 babi
 bibulous
-brick
 brickbat
 buttonholed
 bodyweight
