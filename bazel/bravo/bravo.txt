@@ -11676,7 +11676,6 @@ blepharocarcinoma
 boatage
 barspoon
 boatbuilding
-boathook
 boathouse
 backbends
 boffos
@@ -15911,6 +15910,7 @@ bryozoa
 biphasic
 bromes
 buttonholer
+boathook
 brahminee
 berg
 bacteriologists
