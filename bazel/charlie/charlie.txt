@@ -3078,7 +3078,6 @@ chalker
 clone
 capanna
 capanne
-caparison
 caparisoned
 caparisoning
 cicutoxin
@@ -21336,6 +21335,7 @@ conchometer
 conchospiral
 cowboys
 conchostraca
+caparison
 computed
 conchs
 conchubar
