@@ -2639,7 +2639,6 @@ enduros
 electrotherapy
 electrotheraputic
 emyds
-electrothermal
 ephippial
 emulsoidal
 exploiture
@@ -9479,6 +9478,7 @@ eczematoid
 earworm
 escout
 equipondious
+electrothermal
 eelgrasses
 eva
 escry
