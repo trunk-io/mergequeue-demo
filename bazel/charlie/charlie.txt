@@ -2804,6 +2804,7 @@ condiddled
 communitorium
 canonicate
 countercharge
+cipherer
 croconic
 cornbin
 contermine
@@ -14024,7 +14025,6 @@ covenants
 cypher
 causeur
 cyphered
-cipherer
 cipherhood
 ciphering
 ciphertexts
