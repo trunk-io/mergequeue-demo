@@ -2841,7 +2841,6 @@ canoodles
 counsinhood
 canopy
 copesman
-canopid
 canopied
 clarigate
 corticated
@@ -26472,6 +26471,7 @@ calligraph
 corymbosely
 chorography
 crowbars
+canopid
 calli
 cotqueans
 chorine
