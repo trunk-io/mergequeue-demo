@@ -9912,6 +9912,7 @@ beasties
 blandiloquous
 besmirches
 bitstone
+blotched
 blackthorn
 bitter
 bitterbloom
@@ -17299,7 +17300,6 @@ bobs
 bumfuzzle
 baubles
 bumicky
-blotched
 bonification
 burseed
 berretta
