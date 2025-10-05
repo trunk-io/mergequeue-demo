@@ -3480,7 +3480,6 @@ carnivorousness
 chemicked
 concordat
 captandum
-captate
 colation
 captation
 caption
@@ -12076,6 +12075,7 @@ coigns
 choused
 cyanogenesis
 chousers
+captate
 choush
 configurationist
 cavaleros
