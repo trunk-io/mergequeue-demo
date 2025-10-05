@@ -2523,7 +2523,6 @@ candlewright
 candling
 cynically
 candollea
-candolleaceae
 catan
 candolleaceous
 carangid
@@ -29831,6 +29830,7 @@ crop
 carniolan
 crophead
 cytomitome
+candolleaceae
 coinsures
 claviger
 carpellate
