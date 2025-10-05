@@ -2889,7 +2889,6 @@ bathometry
 barrelet
 bummie
 bookend
-batuque
 botanical
 bundies
 beachheads
@@ -11608,6 +11607,7 @@ boa
 butternut
 blanda
 brushite
+batuque
 budgeted
 boanergism
 board
