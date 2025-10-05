@@ -11595,7 +11595,6 @@ cholecystography
 cholecystokinin
 cholecystolithiasis
 cholecystostomy
-cholecystotomy
 cholecystotomies
 choledochal
 copybooks
@@ -19613,6 +19612,7 @@ colonizing
 columbine
 covin
 climactic
+cholecystotomy
 crocky
 creedbound
 copesetic
