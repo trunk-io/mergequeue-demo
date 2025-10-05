@@ -2443,6 +2443,7 @@ balaklava
 basinerved
 blast
 behaved
+booleys
 blashy
 bibliophilism
 binotic
@@ -12834,7 +12835,6 @@ blankard
 bookworm
 bookwright
 booleans
-booleys
 booly
 betatters
 book
