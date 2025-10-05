@@ -8271,7 +8271,6 @@ disputableness
 disinvest
 diagonal
 decasemic
-diagonalizable
 diagonalization
 diagnosing
 dandyprat
@@ -16740,6 +16739,7 @@ disseminule
 draughtsmanship
 drave
 devilishly
+diagonalizable
 demodicidae
 demiflouncing
 diplasic
