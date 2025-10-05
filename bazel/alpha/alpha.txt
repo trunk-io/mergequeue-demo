@@ -2939,7 +2939,6 @@ actin
 actinautography
 actinautographic
 actine
-abscission
 actinenchyma
 aeciotelium
 acting
@@ -23669,6 +23668,7 @@ amioidei
 auriculocranial
 aegyrite
 apios
+abscission
 anyhow
 amperometer
 auriferous
