@@ -9051,7 +9051,6 @@ cobberer
 charm
 charmed
 charmedly
-coax
 charmel
 charmfully
 cervantist
@@ -19091,6 +19090,7 @@ checkweighman
 collenchyme
 collencyte
 colleri
+coax
 collery
 cofferlike
 cutweed
