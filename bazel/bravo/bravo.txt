@@ -8099,7 +8099,6 @@ bewormed
 boing
 bulk
 burrobrush
-bootle
 besprinkling
 bid
 barky
@@ -15828,6 +15827,7 @@ bulletin
 brokages
 begohm
 banande
+bootle
 baksheeshes
 blastophthoria
 bemires
