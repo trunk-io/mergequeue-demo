@@ -2491,7 +2491,6 @@ chaloth
 confraternities
 choosable
 candlelighting
-cohusband
 circumcinct
 candlemaker
 candlemaking
@@ -25198,6 +25197,7 @@ cornels
 calorics
 corycavidine
 corydalin
+cohusband
 carps
 corydine
 consolate
