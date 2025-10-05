@@ -16636,7 +16636,6 @@ diagnostics
 disvelop
 drainman
 disgross
-downsman
 daiva
 drogoman
 dharmakaya
@@ -17421,6 +17420,7 @@ drouthier
 darnings
 definitude
 datums
+downsman
 downtimes
 deflexibility
 dobies
