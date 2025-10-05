@@ -715,7 +715,6 @@ dopester
 diatom
 deadmelt
 danceability
-danceable
 demoniacs
 danced
 debauchment
@@ -2228,6 +2227,7 @@ dartre
 danes
 dishelm
 deceit
+danceable
 deceitfulness
 deodorants
 debase
