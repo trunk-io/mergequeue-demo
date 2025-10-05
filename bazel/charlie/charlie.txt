@@ -8196,6 +8196,7 @@ chairmanships
 checkoff
 chairmender
 cottontop
+chashitsu
 chairpersons
 canon
 chairway
@@ -9181,7 +9182,6 @@ charwomen
 chaseable
 chased
 chases
-chashitsu
 chasm
 cotonia
 chasma
