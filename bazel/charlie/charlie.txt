@@ -3665,7 +3665,6 @@ carapidae
 cineastes
 clawlike
 carapine
-canvasback
 cucumaria
 cheneaux
 carat
@@ -10672,6 +10671,7 @@ curtelace
 chimb
 culicide
 cuts
+canvasback
 crosscourt
 claustrophobe
 cotylophora
