@@ -8974,6 +8974,7 @@ cortex
 chariot
 carcerate
 companioned
+commonplacer
 caranx
 continuo
 charioting
@@ -12811,7 +12812,6 @@ canasta
 corporosity
 calorite
 calcitonin
-commonplacer
 cytometer
 crackback
 counterbid
