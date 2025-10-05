@@ -3875,6 +3875,7 @@ dissect
 disp
 deerdog
 dewy
+documentation
 deuterons
 damone
 dinobryon
@@ -11412,7 +11413,6 @@ dollar
 deoccidentalize
 discoactine
 dottled
-documentation
 diallages
 deedeed
 discerned
