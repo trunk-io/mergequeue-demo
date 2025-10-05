@@ -3554,6 +3554,7 @@ cappy
 colorist
 chauri
 carabine
+characterology
 carabiner
 carabineros
 claik
@@ -8891,7 +8892,6 @@ characterization
 characterizing
 characterless
 characterlessness
-characterology
 coffle
 crosshead
 confirming
