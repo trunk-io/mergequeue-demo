@@ -9501,7 +9501,6 @@ acanthi
 aftergrowth
 affliction
 ambassiate
-acanthad
 alticamelus
 altify
 aprosopous
@@ -18159,6 +18158,7 @@ armorials
 amours
 ammiral
 aquilian
+acanthad
 alberca
 agtbasic
 anticontagiously
