@@ -4268,6 +4268,7 @@ equinovarus
 electrolyzer
 encephalosclerosis
 embraceor
+eject
 enantioses
 endoplastule
 euornithes
@@ -7985,7 +7986,6 @@ ease
 esocataphoria
 enstatitic
 evident
-eject
 ecumenacy
 enthronizing
 ecclesioclastic
