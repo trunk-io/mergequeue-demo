@@ -2667,6 +2667,7 @@ carriable
 cankereat
 cankered
 codders
+caudotibialis
 cephalosporium
 cording
 catostomus
@@ -9853,7 +9854,6 @@ computist
 chemiculture
 chemigraphy
 chemigraphic
-caudotibialis
 chemiloon
 congregants
 chemiluminescence
