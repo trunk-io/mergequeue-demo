@@ -3511,7 +3511,6 @@ capture
 captured
 capturing
 curricular
-capuched
 chortler
 counterbase
 conacaste
@@ -3920,6 +3919,7 @@ carcajou
 carcajous
 carcanet
 carcanetted
+capuched
 carcases
 crueler
 carcass
