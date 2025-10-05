@@ -3956,7 +3956,6 @@ curaris
 carcinoid
 cyclicality
 compartmental
-coenzymatically
 crystalloluminescence
 carcinolysin
 cycadiform
@@ -22621,6 +22620,7 @@ connectively
 clavichordists
 convallariaceous
 catholicate
+coenzymatically
 connector
 connectors
 camellus
