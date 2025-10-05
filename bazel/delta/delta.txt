@@ -1749,7 +1749,6 @@ deathtrap
 devocalization
 drof
 deathward
-dikaryon
 ductility
 docent
 downlier
@@ -7515,6 +7514,7 @@ desulfurized
 disenchain
 dittos
 dearnesses
+dikaryon
 daemonology
 distils
 disrupting
