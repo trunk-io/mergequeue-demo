@@ -658,6 +658,7 @@ alderfly
 anser
 aborted
 aborticide
+annullate
 abortient
 anacardic
 antirust
@@ -17393,7 +17394,6 @@ archosyrinx
 alkalamide
 afret
 apothecial
-annullate
 apothecium
 applot
 airship
