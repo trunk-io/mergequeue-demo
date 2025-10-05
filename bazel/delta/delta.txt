@@ -16346,6 +16346,7 @@ dispersal
 drainable
 downstate
 dolmens
+decrials
 defilade
 downstrokes
 downtake
@@ -16727,7 +16728,6 @@ draughtier
 decastylos
 darg
 dragsmen
-decrials
 disleafed
 disseminule
 draughtsmanship
