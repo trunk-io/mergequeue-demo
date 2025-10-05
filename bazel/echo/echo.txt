@@ -5444,7 +5444,6 @@ exorciser
 enfeeble
 esmeralda
 enfeeblements
-emmarbling
 earwort
 equidistantial
 evertors
@@ -13275,6 +13274,7 @@ exploded
 empierce
 endophragm
 enterobiasis
+emmarbling
 estranger
 ethylsulphuric
 englishable
