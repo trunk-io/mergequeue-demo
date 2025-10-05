@@ -3067,7 +3067,6 @@ defamations
 defamatory
 dipygus
 diseaseful
-dentated
 dislade
 defamed
 digressing
@@ -16279,6 +16278,7 @@ diabrosis
 degenerescent
 downless
 decator
+dentated
 downlink
 discharacter
 downloading
