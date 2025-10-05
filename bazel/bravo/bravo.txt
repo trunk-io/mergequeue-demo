@@ -1884,7 +1884,6 @@ benzoxycamphor
 basilicae
 bandyball
 beforetime
-bandsawn
 bandsman
 brigands
 boronia
@@ -15256,6 +15255,7 @@ bricklayer
 bricklayers
 bummery
 brickle
+bandsawn
 bulbospinal
 bricklike
 blennoid
