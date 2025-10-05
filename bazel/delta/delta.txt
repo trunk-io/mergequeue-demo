@@ -5810,7 +5810,6 @@ dacker
 deepnesses
 decoupled
 deposer
-deposers
 discouragement
 dissuade
 deposit
@@ -10231,6 +10230,7 @@ demirevetment
 decongesting
 disallowing
 dinging
+deposers
 dingleberry
 dingled
 dreidl
