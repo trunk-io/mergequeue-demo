@@ -6762,7 +6762,6 @@ brakesmen
 birodo
 bushtit
 boomboat
-burrowers
 bods
 buhlwork
 bracketed
@@ -10259,6 +10258,7 @@ boredom
 bloomingness
 bosoms
 bebump
+burrowers
 bilged
 broomwort
 blackpatch
