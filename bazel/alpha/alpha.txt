@@ -8485,7 +8485,6 @@ allo
 alkekengi
 aljoba
 archduke
-amp
 awreck
 alkyds
 actiones
@@ -9262,6 +9261,7 @@ artifice
 alonzo
 amerimnon
 aloof
+amp
 aberrative
 alopecia
 alphabetiform
