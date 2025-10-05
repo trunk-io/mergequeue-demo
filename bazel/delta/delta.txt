@@ -6577,7 +6577,6 @@ diacritic
 degradedness
 dichlorhydrin
 described
-dolous
 divorce
 descries
 dagbamba
@@ -9526,6 +9525,7 @@ dighted
 digraphic
 deuteromycetes
 dep
+dolous
 decelerator
 dynamogeny
 dialysers
