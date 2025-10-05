@@ -1960,7 +1960,6 @@ discostate
 dislodged
 debuted
 debuting
-doto
 demulce
 diced
 drover
@@ -8973,6 +8972,7 @@ dicynodontia
 diclinous
 dasyproctine
 disquisitional
+doto
 deraigns
 dodecuplet
 dicodeine
