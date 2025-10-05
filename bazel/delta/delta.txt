@@ -9254,6 +9254,7 @@ diesters
 drawbridge
 diestrums
 disambiguations
+doability
 daikering
 diurne
 dietaries
@@ -13350,7 +13351,6 @@ discanting
 doublehorned
 dehydrogenised
 disunited
-doability
 djinn
 disquisitorial
 doylt
