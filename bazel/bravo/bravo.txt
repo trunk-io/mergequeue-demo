@@ -3881,7 +3881,6 @@ bocstaff
 brickbats
 bdelloura
 bassette
-behelp
 bdellovibrio
 brushbird
 butanes
@@ -7828,6 +7827,7 @@ birdling
 bibbler
 blooms
 borazon
+behelp
 bajri
 broose
 balneography
