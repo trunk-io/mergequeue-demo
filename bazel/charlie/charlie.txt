@@ -10416,7 +10416,6 @@ consorts
 chigoes
 chih
 capsomer
-conquered
 coryphaena
 courtiery
 chihfu
@@ -12744,6 +12743,7 @@ clarini
 chulpa
 cabassou
 chultun
+conquered
 copyism
 crankily
 chum
