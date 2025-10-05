@@ -6795,7 +6795,6 @@ cerinthian
 cowshard
 capless
 cella
-cognition
 cellarage
 cellared
 chamoix
@@ -14831,6 +14830,7 @@ celebrates
 clysmian
 cladodontid
 cytioderm
+cognition
 cityscapes
 cytisine
 couriers
