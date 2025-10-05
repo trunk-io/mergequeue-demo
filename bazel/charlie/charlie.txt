@@ -7296,7 +7296,6 @@ cephalaspis
 cocoonery
 condurrite
 cephalate
-cephalhematoma
 coracovertebral
 cephalic
 chequering
@@ -11655,6 +11654,7 @@ choleras
 civilising
 cervelases
 choleriform
+cephalhematoma
 closest
 cholerigenous
 chelicerate
