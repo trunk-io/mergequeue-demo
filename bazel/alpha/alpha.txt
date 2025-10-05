@@ -6485,7 +6485,6 @@ astronaut
 aidman
 apothecal
 aids
-afterripening
 arbalestre
 apocarpous
 aiel
@@ -16837,6 +16836,7 @@ adscripts
 apiculus
 aloud
 apiece
+afterripening
 annelida
 assortment
 antienthusiast
