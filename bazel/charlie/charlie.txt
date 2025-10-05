@@ -4804,6 +4804,7 @@ cetaceous
 carry
 carriageable
 carriageful
+cabas
 carriages
 crosstie
 carriagesmith
@@ -7721,7 +7722,6 @@ ceroplastics
 cyanocrystallin
 cerosin
 chastises
-cabas
 cerotin
 chorogi
 cerotypes
