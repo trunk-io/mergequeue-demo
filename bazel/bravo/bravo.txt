@@ -1907,7 +1907,6 @@ bandsawn
 bandsman
 brigands
 boronia
-beseechment
 bocaccios
 bagnio
 balances
@@ -7802,6 +7801,7 @@ bwanas
 ballasts
 bubbler
 belemnoidea
+beseechment
 burrow
 biauricular
 behold
