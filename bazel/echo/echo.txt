@@ -6644,7 +6644,6 @@ equerries
 enkindler
 electromotiv
 enterosepsis
-enterotome
 enterotoxemia
 elaenia
 echinoderes
@@ -9716,6 +9715,7 @@ embargo
 empyrical
 eunicidae
 enmeshes
+enterotome
 exponentiating
 essayed
 exhaustivity
