@@ -13938,7 +13938,6 @@ bastiment
 breached
 bilious
 begirdled
-bedrite
 bowings
 barkentine
 blad
@@ -15355,6 +15354,7 @@ belknap
 barbita
 bridgetin
 ballplayers
+bedrite
 bondmaid
 benzidine
 beefily
