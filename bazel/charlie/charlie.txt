@@ -1435,7 +1435,6 @@ cheapener
 calyptratae
 calyptriform
 calyptrimorphous
-coracoscapular
 carnosin
 calisayas
 clave
@@ -2045,6 +2044,7 @@ candlelit
 conli
 clotheshorses
 colostric
+coracoscapular
 campana
 campane
 campanella
