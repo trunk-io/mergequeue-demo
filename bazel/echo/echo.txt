@@ -5871,7 +5871,6 @@ expend
 enhaemospore
 epiplastron
 emphases
-enhalo
 epistolar
 edicule
 explees
@@ -6603,6 +6602,7 @@ eliminatory
 enunciable
 endlessness
 eastwardly
+enhalo
 epaleaceous
 easterliness
 enteroepiplocele
