@@ -1066,7 +1066,6 @@ embase
 endothelial
 emplaster
 epistolic
-elective
 exfigure
 earock
 edificatory
@@ -6166,6 +6165,7 @@ exterritorialize
 evviva
 enoint
 enterological
+elective
 exactitude
 enolic
 enolizable

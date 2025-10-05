@@ -13610,7 +13610,6 @@ bouffant
 bratina
 botulin
 bumpiness
-bouffon
 baisakh
 bremeness
 bopster
@@ -15367,6 +15366,7 @@ brandyman
 bridie
 bridle
 bridled
+bouffon
 blackpot
 bridlers
 ballerine
