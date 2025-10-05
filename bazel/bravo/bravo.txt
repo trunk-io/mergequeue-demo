@@ -5781,7 +5781,6 @@ bombyliidae
 batfish
 bonasa
 bellhouse
-belli
 buckstone
 bellyache
 biremes
@@ -7924,6 +7923,7 @@ boschbok
 butein
 blennorrhagia
 bucoliast
+belli
 boolya
 bibliothecae
 billetty
