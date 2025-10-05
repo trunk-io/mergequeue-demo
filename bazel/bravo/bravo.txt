@@ -2802,7 +2802,6 @@ baudery
 beclap
 barothermohygrograph
 barotrauma
-bulgurs
 bravest
 barotraumas
 behooves
@@ -15144,6 +15143,7 @@ brettice
 bifistular
 betty
 blisterweed
+bulgurs
 bradawl
 breva
 burbs
