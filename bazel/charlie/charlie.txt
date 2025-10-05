@@ -4996,7 +4996,6 @@ copaibic
 carvership
 chimu
 cytozoon
-carves
 carvestrene
 carving
 curses
@@ -24229,6 +24228,7 @@ crinoidal
 convoluting
 convolution
 covens
+carves
 convolutive
 convolve
 cringingly
