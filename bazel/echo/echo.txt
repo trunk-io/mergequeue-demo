@@ -7072,7 +7072,6 @@ earthshock
 ectosphenotic
 engaud
 enfranchisable
-enemy
 entices
 excogitable
 endosarc
@@ -8836,6 +8835,7 @@ espier
 ee
 endeavouring
 eyecups
+enemy
 excursively
 ergometric
 embossers
