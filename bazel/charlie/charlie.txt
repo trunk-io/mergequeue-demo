@@ -6925,7 +6925,6 @@ characterical
 cemeterial
 ceratinous
 culm
-caruage
 cenaculum
 cloglike
 cenation
@@ -10130,6 +10129,7 @@ compagnie
 chevener
 cheventayn
 cheverel
+caruage
 carcassed
 cheveret
 contaminates
