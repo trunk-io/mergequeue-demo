@@ -2804,7 +2804,6 @@ barotrauma
 bulgurs
 bravest
 barotraumas
-behooves
 barotropic
 barouche
 barouchette
@@ -10171,6 +10170,7 @@ blackener
 billette
 blackens
 bakalei
+behooves
 blacketeer
 blackfeet
 brakeage
