@@ -7794,7 +7794,6 @@ cervicispinal
 cervicitis
 cervicoauricular
 chippable
-cervicobregmatic
 cobitis
 cervicobuccal
 cervicodynia
@@ -25645,6 +25644,7 @@ carapo
 corporeous
 corporify
 chapterful
+cervicobregmatic
 corporification
 corps
 chondriocont
