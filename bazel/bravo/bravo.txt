@@ -6452,7 +6452,6 @@ benzotrichloride
 bolection
 benzoxyacetic
 blanchers
-bromated
 brache
 beltcourse
 bulldogged
@@ -9605,6 +9604,7 @@ believable
 bealing
 bisected
 bandlimits
+bromated
 bisectors
 bisectrices
 busybodyness
