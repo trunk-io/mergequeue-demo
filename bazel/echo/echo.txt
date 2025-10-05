@@ -787,7 +787,6 @@ edaphically
 excamber
 euglenidae
 ectypal
-ectype
 entities
 eserin
 everliving
@@ -1113,6 +1112,7 @@ editorialization
 elsa
 endothecal
 ecphory
+ectype
 expunction
 enclosed
 emblematising
