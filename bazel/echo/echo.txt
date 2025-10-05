@@ -5049,7 +5049,6 @@ emforth
 endocrines
 endocrinic
 enterocoel
-emergencies
 entogenous
 ecdysones
 enteroptotic
@@ -11983,6 +11982,7 @@ escutellate
 exacinate
 eagre
 effectuality
+emergencies
 esconson
 enforceability
 etheostomoid
