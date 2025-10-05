@@ -1767,6 +1767,7 @@ beslime
 bullose
 bialystoker
 bandaging
+beisance
 bowlin
 bandaid
 bergschrund
@@ -5529,7 +5530,6 @@ belzebub
 begnawn
 blotted
 bitterbush
-beisance
 bouvier
 bangiales
 burled
