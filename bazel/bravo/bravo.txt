@@ -4131,7 +4131,6 @@ barrow
 bradypus
 beastling
 bullswool
-beastlings
 beastman
 beastship
 balzarine
@@ -11310,6 +11309,7 @@ bleachability
 beeishness
 boneyard
 biologism
+beastlings
 bipunctate
 barney
 bargeman
