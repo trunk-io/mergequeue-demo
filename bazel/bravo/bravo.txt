@@ -1494,6 +1494,7 @@ bersiamite
 bulbiform
 bouton
 backsword
+beforehandedness
 ballata
 brunetteness
 berri
@@ -7518,7 +7519,6 @@ bestower
 bogwood
 betaine
 bufonidae
-beforehandedness
 businessman
 bevillain
 befell
