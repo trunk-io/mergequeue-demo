@@ -1749,6 +1749,7 @@ dairies
 dumble
 deathtime
 diphenan
+divergencies
 deathtrap
 devocalization
 drof
@@ -13474,7 +13475,6 @@ datum
 disruptor
 duodial
 dada
-divergencies
 decagon
 demology
 depotentiation
