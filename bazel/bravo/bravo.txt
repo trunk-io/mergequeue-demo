@@ -12423,7 +12423,6 @@ burritos
 bowsprit
 boreas
 bab
-band
 bandlimit
 brigades
 bieberite
@@ -15176,6 +15175,7 @@ bogier
 baw
 baldicoot
 bronchotyphoid
+band
 brewership
 brewhouse
 blackwashing
