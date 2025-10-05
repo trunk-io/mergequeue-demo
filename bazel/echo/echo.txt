@@ -5369,7 +5369,6 @@ enfester
 exportation
 ed
 example
-elsewhither
 enrollees
 electronvolt
 endowment
@@ -12490,6 +12489,7 @@ etymologized
 enframement
 emissaria
 enneacontahedron
+elsewhither
 exist
 elucidating
 esne
