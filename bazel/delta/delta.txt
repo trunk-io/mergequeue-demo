@@ -1046,7 +1046,6 @@ destandardize
 diplohedral
 dishes
 directive
-dutra
 darner
 diaka
 devoiced
@@ -9653,6 +9652,7 @@ dowing
 dihybridism
 dihybrids
 disfunctions
+dutra
 drizzle
 dupers
 dihydrochloride
