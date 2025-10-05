@@ -11842,6 +11842,7 @@ causeway
 chorale
 carmagnoles
 chorales
+compered
 comradery
 concio
 cassapanca
@@ -20584,7 +20585,6 @@ cotillions
 caudatum
 compensators
 compere
-compered
 cumulous
 compering
 compert
