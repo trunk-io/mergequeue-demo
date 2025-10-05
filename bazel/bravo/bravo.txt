@@ -12475,7 +12475,6 @@ boii
 bogum
 brisbane
 bonfire
-blit
 biphenyl
 bending
 buller
@@ -12824,6 +12823,7 @@ bookwards
 byronite
 blankard
 bookworm
+blit
 bookwright
 booleans
 booly
