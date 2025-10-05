@@ -7219,7 +7219,6 @@ bur
 bestiarist
 bestirs
 befriz
-bestock
 bestow
 bestowment
 burgee
@@ -8575,6 +8574,7 @@ billeted
 bilabe
 boweries
 bankrider
+bestock
 borderside
 billets
 brainlike
