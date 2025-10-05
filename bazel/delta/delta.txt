@@ -5426,6 +5426,7 @@ disc
 denuder
 dermolysis
 douched
+dryrot
 dialysation
 dissonant
 denaturiser
@@ -13455,7 +13456,6 @@ douzaine
 danseur
 debi
 disrobes
-dryrot
 decrassify
 destroys
 diducing
