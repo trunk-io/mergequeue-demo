@@ -9949,7 +9949,6 @@ allowedly
 ambary
 autotheater
 ambaris
-ambas
 ambassade
 alerion
 antiman
@@ -11325,6 +11324,7 @@ amphora
 archswindler
 amphorae
 acrostichoid
+ambas
 acrospiring
 alohas
 apiator
