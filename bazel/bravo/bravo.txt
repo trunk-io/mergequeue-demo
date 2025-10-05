@@ -885,6 +885,7 @@ bdellotomy
 bowstaff
 balletic
 bagpipers
+boarish
 bardiglio
 bismarine
 boscage
@@ -13314,7 +13315,6 @@ bedstaff
 bokard
 brune
 bowler
-boarish
 befoolment
 bosniac
 bucketfuls
