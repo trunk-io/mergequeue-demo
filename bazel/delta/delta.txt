@@ -2876,6 +2876,7 @@ decwriter
 deltoid
 divia
 dashel
+disjunctions
 divide
 duodecimomos
 dedicant
@@ -11787,7 +11788,6 @@ debellate
 denaturing
 deoxidising
 discrested
-disjunctions
 default
 dined
 dropforger
