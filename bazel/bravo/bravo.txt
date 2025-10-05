@@ -1544,7 +1544,6 @@ belat
 bandobust
 ballised
 biradial
-banatite
 binate
 ballista
 boilermaker
@@ -5842,6 +5841,7 @@ banquo
 bachel
 buckbrush
 baronship
+banatite
 broch
 bellmanship
 benjamin
