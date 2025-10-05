@@ -919,6 +919,7 @@ absolvatory
 absolve
 absolvent
 arteriotome
+apod
 azote
 absolving
 absolvitor
@@ -2196,7 +2197,6 @@ aphotaxis
 atwind
 anticentralism
 achroiocythaemia
-apod
 autoptic
 assessably
 arseno
