@@ -4578,7 +4578,6 @@ abjunctive
 aecidiospore
 aglare
 acetometer
-acoemetic
 anastomotic
 aecioteliospore
 alans
@@ -20451,6 +20450,7 @@ anglicize
 achrodextrin
 audacities
 addy
+acoemetic
 airflow
 avision
 anamneses
