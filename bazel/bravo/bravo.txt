@@ -9032,6 +9032,7 @@ bossisms
 bewailers
 boulangist
 boreable
+biomes
 bummerish
 brattles
 bulrushlike
@@ -9062,7 +9063,6 @@ biomedicine
 bodgery
 bashing
 buddhistical
-biomes
 beanlike
 breedy
 beavery
