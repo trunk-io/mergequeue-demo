@@ -10504,7 +10504,6 @@ dipleurulas
 disbowels
 dig
 demipagan
-ddname
 derate
 doorsills
 diploblastic
@@ -12838,6 +12837,7 @@ doomsters
 decreeable
 demerited
 dromond
+ddname
 disappointingly
 dismissals
 dismissed
