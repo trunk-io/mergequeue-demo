@@ -6319,7 +6319,6 @@ candelas
 coheaded
 cumberlandite
 counterargue
-cestos
 cephala
 cetiosauria
 caus
@@ -13253,6 +13252,7 @@ cyclobutane
 constableship
 coefficient
 cholecystopexy
+cestos
 carapacial
 culminating
 cyclocephaly
