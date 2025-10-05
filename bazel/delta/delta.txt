@@ -13644,7 +13644,6 @@ demiliterate
 def
 dissimilars
 demythologise
-dorize
 dequantitate
 defunctionalize
 diedral
@@ -13739,6 +13738,7 @@ disproval
 diatoms
 doll
 dissolubleness
+dorize
 disproving
 dawdlingly
 dissolutely
