@@ -1026,7 +1026,6 @@ boyaus
 basanite
 bersil
 boroughmaster
-bailiwick
 bridler
 benzothiopyran
 brasswork
@@ -4698,6 +4697,7 @@ bibliogenesis
 bedewing
 beice
 bedlamize
+bailiwick
 blennorrhinia
 bedlamized
 bedlamizing
