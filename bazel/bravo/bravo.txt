@@ -1978,6 +1978,7 @@ basilateral
 biquartz
 bidactyl
 bloodstones
+birded
 bankcard
 bethought
 banknote
@@ -9391,7 +9392,6 @@ beau
 bluebush
 byte
 butter
-birded
 bisectrix
 birdfarm
 bahawder
