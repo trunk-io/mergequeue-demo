@@ -2317,6 +2317,7 @@ entomere
 exhaustable
 empoisonment
 endeavor
+eternal
 exudence
 egoistic
 exergonic
@@ -3795,7 +3796,6 @@ executers
 endodontic
 emigration
 equivote
-eternal
 euryalae
 entomotomy
 electrotonus
