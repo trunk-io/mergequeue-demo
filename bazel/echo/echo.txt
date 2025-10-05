@@ -5945,7 +5945,6 @@ epimorpha
 ejections
 electropotential
 exhortative
-enteroplegia
 erosion
 experienced
 ejects
@@ -13604,6 +13603,7 @@ extensions
 eggcup
 expansometer
 embalming
+enteroplegia
 empeo
 extramental
 elongating
