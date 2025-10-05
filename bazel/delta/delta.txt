@@ -4259,6 +4259,7 @@ donna
 deltohedron
 dogvanes
 dauerlauf
+debenzolize
 delubra
 deluce
 dystomic
@@ -9502,7 +9503,6 @@ dittography
 declinature
 decapoda
 diastataxic
-debenzolize
 disregard
 desiliconize
 decide
