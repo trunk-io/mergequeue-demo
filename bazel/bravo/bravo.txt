@@ -11256,7 +11256,6 @@ borghalpenny
 barberries
 bespeaker
 bisilicate
-blotty
 buckets
 barmskin
 bopyridae
@@ -11399,6 +11398,7 @@ bluebill
 bustic
 berairou
 blousy
+blotty
 bitingness
 blancher
 blueblood
