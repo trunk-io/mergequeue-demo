@@ -8921,7 +8921,6 @@ censers
 chemisms
 chargable
 combmaker
-charge
 chargeable
 ciphertext
 colorism
@@ -19437,6 +19436,7 @@ conges
 colorisms
 cystous
 coloristically
+charge
 cadded
 comer
 crosscrosslet
