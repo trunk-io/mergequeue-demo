@@ -5862,7 +5862,6 @@ enhaemospore
 epiplastron
 emphases
 enhalo
-enchorial
 epistolar
 edicule
 explees
@@ -12595,6 +12594,7 @@ enterobacterial
 eventail
 ephete
 existentialistic
+enchorial
 edelweisses
 eupad
 epidemiology
