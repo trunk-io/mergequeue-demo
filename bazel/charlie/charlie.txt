@@ -24719,7 +24719,6 @@ corimelaena
 countree
 crescentoid
 copperskin
-ciderist
 coppersmithing
 copperware
 copperwing
@@ -29187,6 +29186,7 @@ cryoconite
 cryogeny
 callidity
 cryogenic
+ciderist
 cradleside
 cryogenics
 catwalks
