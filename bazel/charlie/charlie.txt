@@ -4926,7 +4926,6 @@ cartography
 cypseli
 cartographic
 cartographical
-cartographically
 cry
 circulet
 carton
@@ -10077,6 +10076,7 @@ curing
 chesterfield
 chesterfieldian
 copulatively
+cartographically
 covariant
 chestfuls
 chesty
