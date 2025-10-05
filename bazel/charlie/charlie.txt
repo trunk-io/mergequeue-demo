@@ -3412,7 +3412,6 @@ craniovertebral
 capsella
 choleric
 coalitionist
-capshore
 capsian
 cuca
 collectress
@@ -9856,6 +9855,7 @@ chemokinetic
 chemolysis
 cicero
 chemolyze
+capshore
 correspondentially
 compluvia
 conquinamine
