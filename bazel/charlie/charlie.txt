@@ -2878,7 +2878,6 @@ cacaos
 cantabile
 clothesmonger
 chalcis
-cantabrian
 cantabrigian
 cantalever
 cantaliver
@@ -9083,6 +9082,7 @@ calyceraceous
 charqui
 crab
 canelike
+cantabrian
 christly
 camerated
 charr
