@@ -2619,6 +2619,7 @@ broadsword
 bluestone
 barretter
 bertholletia
+beclowns
 barghest
 breechloader
 backlins
@@ -11449,7 +11450,6 @@ bemuffle
 ballroom
 bellboys
 butyraldehyde
-beclowns
 bareka
 barad
 babuma
