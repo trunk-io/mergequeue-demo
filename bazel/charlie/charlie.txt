@@ -4846,7 +4846,6 @@ competed
 colleagued
 carrotiest
 carrotin
-carrotweed
 corporation
 canonization
 clomben
@@ -6813,6 +6812,7 @@ constative
 counterbalance
 cellose
 cells
+carrotweed
 cellucotton
 coadunative
 chirkest
