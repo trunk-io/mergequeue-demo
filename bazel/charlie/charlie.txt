@@ -13541,7 +13541,6 @@ collectedly
 cocaine
 cylindrograph
 compilers
-chisel
 comitiva
 cylindroid
 caudillos
@@ -26461,6 +26460,7 @@ cotorment
 cotoro
 cavernously
 continuancy
+chisel
 civilizing
 curve
 covets
