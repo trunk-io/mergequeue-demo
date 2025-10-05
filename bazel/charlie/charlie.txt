@@ -1122,7 +1122,6 @@ culturology
 calcsinter
 chinnam
 cranioclasis
-calcspars
 chenopod
 cotwal
 chlamydophore
@@ -15947,6 +15946,7 @@ clemence
 centibar
 contineu
 commeasuring
+calcspars
 carpogonia
 clemencies
 clement
