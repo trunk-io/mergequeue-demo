@@ -9385,7 +9385,6 @@ bluebush
 byte
 butter
 birded
-bisectrix
 birdfarm
 bahawder
 bimah
@@ -13100,6 +13099,7 @@ bowgrace
 bonder
 borofluoric
 bedrop
+bisectrix
 braggartry
 bulder
 bordroom
