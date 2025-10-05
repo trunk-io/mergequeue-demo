@@ -6985,6 +6985,7 @@ bellis
 borele
 bepistoled
 besides
+bodykins
 besiege
 barrico
 besiegers
@@ -11877,7 +11878,6 @@ bodied
 becrowding
 boucan
 bidri
-bodykins
 bodilize
 bahuvrihi
 barbedness
