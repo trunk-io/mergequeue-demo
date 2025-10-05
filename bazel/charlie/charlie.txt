@@ -11385,7 +11385,6 @@ chloropalladates
 chloropalladic
 chlorophenol
 charangos
-chlorophenothane
 countermission
 confirm
 cestuy
@@ -20832,6 +20831,7 @@ canted
 complots
 complotter
 complotting
+chlorophenothane
 complutensian
 cartelized
 coeducate
