@@ -1871,7 +1871,6 @@ bandanas
 bergama
 bediademed
 breviped
-barken
 bandoleer
 burlesquely
 bandoleers
@@ -3332,6 +3331,7 @@ baculum
 benzilic
 bassan
 bassanite
+barken
 biotechnics
 bassetta
 blockbuster
