@@ -9211,6 +9211,7 @@ biotypes
 bevomit
 boubou
 biotites
+betassel
 bromcamphor
 bodywork
 bruja
@@ -9462,7 +9463,6 @@ begeck
 backblocks
 bacteriostat
 babishly
-betassel
 bovate
 bookholder
 bulimulidae
