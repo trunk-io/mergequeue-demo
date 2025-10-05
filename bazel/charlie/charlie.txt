@@ -10918,7 +10918,6 @@ crudites
 coalition
 cicatrixes
 chiromantis
-chirometer
 chiromys
 chalcioecus
 chironym
@@ -31424,6 +31423,7 @@ curledness
 cestracion
 chondrules
 curler
+chirometer
 canoed
 curlews
 caddied
