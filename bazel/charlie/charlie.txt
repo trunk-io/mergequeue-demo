@@ -3922,7 +3922,6 @@ cruster
 chrysophilite
 carburometer
 chinee
-carcajou
 carcajous
 carcanet
 carcanetted
@@ -16249,6 +16248,7 @@ canterer
 clipboard
 clipboards
 clypeastridea
+carcajou
 clypeastrina
 clypeastroid
 casette
