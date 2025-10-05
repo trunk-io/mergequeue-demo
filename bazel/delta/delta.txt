@@ -8460,7 +8460,6 @@ directionize
 diamins
 draconitic
 downgrades
-diamondback
 diamondbacked
 debaucher
 declassify
@@ -12490,6 +12489,7 @@ devisee
 demurring
 disyllabized
 discontinuations
+diamondback
 disconform
 disdeceive
 decimalize
