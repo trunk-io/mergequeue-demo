@@ -245,6 +245,7 @@ excluders
 elbow
 evensong
 ejido
+escapable
 eulamellibranchia
 emendately
 emasculators
@@ -4760,7 +4761,6 @@ errordump
 euripides
 eucatropine
 enslavers
-escapable
 epidermatoid
 embryogenetic
 engraven
