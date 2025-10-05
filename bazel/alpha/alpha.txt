@@ -12089,7 +12089,6 @@ anatomize
 anatomizer
 aristae
 advisiveness
-anatopism
 antiphlogistic
 agomphious
 anatoxins
@@ -17637,6 +17636,7 @@ antiagglutination
 atomicity
 apostlehood
 appestats
+anatopism
 appetence
 anodynous
 appetibleness
