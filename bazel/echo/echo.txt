@@ -1704,7 +1704,6 @@ engler
 electric
 eer
 expertize
-extg
 electromuscular
 episiotomy
 embattle
@@ -10455,6 +10454,7 @@ electrodialytic
 eversive
 etypic
 extraneity
+extg
 ectocyst
 ensheath
 eschews
