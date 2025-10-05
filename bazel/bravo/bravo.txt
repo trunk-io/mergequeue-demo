@@ -2701,6 +2701,7 @@ beltline
 byrrus
 backset
 bismutoplagionite
+balopticon
 barolo
 beeflower
 bm
@@ -5842,7 +5843,6 @@ bellylike
 bellyman
 biogenetical
 beanstalks
-balopticon
 banquo
 bachel
 buckbrush
