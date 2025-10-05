@@ -12640,7 +12640,6 @@ bonnwis
 bonorum
 bisector
 blacklister
-bagatelle
 balker
 brainchild
 brigantine
@@ -17731,6 +17730,7 @@ bott
 baaskaap
 bookrest
 burnfire
+bagatelle
 baskonize
 buckeens
 burnish
