@@ -6071,7 +6071,6 @@ divorces
 deucalion
 duplicident
 drumlike
-deprecations
 digest
 dolls
 demembration
@@ -6532,6 +6531,7 @@ disqualification
 delignated
 disomatous
 descendent
+deprecations
 diadromous
 dudish
 dispositionally
