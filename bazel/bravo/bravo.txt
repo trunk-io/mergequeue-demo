@@ -5930,6 +5930,7 @@ belter
 buyouts
 ballistic
 bemadam
+biologics
 bestrowing
 beltie
 boogerman
@@ -9025,7 +9026,6 @@ bludgeoneer
 boroughmongery
 benzazide
 bitting
-biologics
 busybodyish
 biologist
 bondminder
