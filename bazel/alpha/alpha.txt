@@ -2321,7 +2321,6 @@ amenity
 acidulate
 areometer
 acidulated
-aluminic
 alphabetiser
 acidulously
 antistimulant
@@ -9578,6 +9577,7 @@ arachnoid
 aquaemanale
 abridges
 appendiculate
+aluminic
 abacaxi
 aluminide
 amarvel
