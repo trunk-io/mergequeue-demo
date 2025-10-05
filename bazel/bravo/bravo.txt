@@ -14942,6 +14942,7 @@ breaking
 busera
 barkeep
 breakings
+balkline
 bovicide
 breaklist
 buttercup
@@ -16889,7 +16890,6 @@ buzzer
 billage
 butut
 betas
-balkline
 biomaterial
 beam
 bigger
