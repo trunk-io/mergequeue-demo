@@ -9865,6 +9865,7 @@ chemoresistance
 compelling
 chemoserotherapy
 chemosynthesis
+certainest
 chemosynthetic
 chemosmoses
 chemosmotic
@@ -22499,7 +22500,6 @@ counterargument
 conjoin
 cottonwood
 cerebrosis
-certainest
 chignoned
 conjoinedly
 claviole
