@@ -4128,7 +4128,6 @@ acrostichic
 armorers
 agists
 archy
-adulce
 arquebusier
 amalgamable
 analyzer
@@ -14470,6 +14469,7 @@ argutation
 anthropoid
 anthropoidean
 anthropolatry
+adulce
 alloxantin
 anthropolite
 awareness
