@@ -326,7 +326,6 @@ daybooks
 daphne
 diapalma
 deplace
-donary
 deckman
 disreputed
 dwarfism
@@ -3283,6 +3282,7 @@ deionizes
 donated
 definiens
 derencephalocele
+donary
 diduction
 desertrice
 decigram
