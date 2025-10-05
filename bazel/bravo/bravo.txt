@@ -6639,7 +6639,6 @@ broods
 bergamasche
 billboards
 bergamask
-bergamo
 beezers
 battel
 bergaptene
@@ -12732,6 +12731,7 @@ beknottedly
 boondoggled
 bielectrolysis
 bloatedness
+bergamo
 bowedness
 besilver
 botcher
