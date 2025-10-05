@@ -2557,6 +2557,7 @@ bowable
 bears
 bridgelike
 bandaged
+bellon
 barocco
 barkary
 barkbound
@@ -6477,7 +6478,6 @@ broached
 burge
 backdate
 balotade
-bellon
 bepatched
 bettergates
 bailo
