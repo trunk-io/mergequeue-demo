@@ -203,7 +203,6 @@ debitumenize
 daemons
 daemonurgist
 dak
-dibranchious
 deemstership
 dysgenic
 demipronation
@@ -2759,6 +2758,7 @@ dop
 dorsalward
 disharmonize
 decremeter
+dibranchious
 dicyemida
 deadishness
 droughty
