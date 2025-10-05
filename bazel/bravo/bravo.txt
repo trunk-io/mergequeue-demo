@@ -11051,6 +11051,7 @@ brassia
 barbequed
 breading
 bottleholder
+bristling
 blk
 birri
 bromin
@@ -17623,7 +17624,6 @@ brabblement
 borwort
 begs
 brandished
-bristling
 burgherage
 bellyer
 burghers
