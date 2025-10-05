@@ -3417,6 +3417,7 @@ eunuch
 epees
 erthen
 exing
+exceptionality
 eclipse
 enshelter
 elaeothesium
@@ -5683,7 +5684,6 @@ evoked
 equivocatory
 exulceratory
 exploding
-exceptionality
 exophthalmic
 engined
 esthetes
