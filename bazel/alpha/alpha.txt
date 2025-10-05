@@ -4568,6 +4568,7 @@ acoemetic
 antichronical
 anastomotic
 aecioteliospore
+aphodus
 alans
 aedeagi
 aedeagus
@@ -10008,7 +10009,6 @@ appenage
 arbutes
 acenesthesia
 automaticity
-aphodus
 abounded
 arboreal
 appel
