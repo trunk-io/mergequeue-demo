@@ -4280,7 +4280,6 @@ campulitropal
 cargoes
 chenopodiaceae
 carhop
-carhops
 contorted
 caryatid
 caryatidal
@@ -7481,6 +7480,7 @@ consentaneously
 ceratohyoid
 ceratonia
 cardamoms
+carhops
 chlorophyl
 ceria
 ceratophyllaceous
