@@ -1003,7 +1003,6 @@ bringer
 bushwhacked
 barfs
 bailable
-boordly
 badigeon
 basqued
 blizzards
@@ -13971,6 +13970,7 @@ bowshot
 bulbaceous
 bowshots
 bombarder
+boordly
 backstopped
 backhauled
 busier
