@@ -2342,6 +2342,7 @@ crowberry
 cogs
 companator
 chinbones
+chumpy
 canarian
 conyza
 cohobates
@@ -31118,7 +31119,6 @@ collogen
 characterizable
 crystalliferous
 chocolates
-chumpy
 counternotice
 cunnilinctus
 cunnilinguism
