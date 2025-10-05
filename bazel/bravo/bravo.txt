@@ -1915,7 +1915,6 @@ balances
 bandstring
 bathymetric
 brandishes
-baahling
 beeway
 benchwarmer
 beworms
@@ -15422,6 +15421,7 @@ brigadier
 birdcatching
 bewigged
 bey
+baahling
 brigandine
 bandhu
 barbarianism
