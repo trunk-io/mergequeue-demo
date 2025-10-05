@@ -7962,7 +7962,6 @@ addoom
 alew
 awaiter
 alewives
-askarel
 alexander
 alexandria
 anemometry
@@ -16522,6 +16521,7 @@ androphorum
 antivenom
 apargia
 apart
+askarel
 abantes
 abusee
 anableps
