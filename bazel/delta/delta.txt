@@ -1906,7 +1906,6 @@ diphthongisation
 dacryd
 deferments
 desire
-durocs
 deblocking
 dawsonite
 deaccession
@@ -8220,6 +8219,7 @@ diaglyphic
 dargo
 desmopelmous
 diascordium
+durocs
 dell
 davainea
 ductus
