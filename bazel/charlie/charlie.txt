@@ -8462,7 +8462,6 @@ chamfering
 characterstring
 champaka
 conducts
-collophore
 clubridden
 champaks
 cholines
@@ -25335,6 +25334,7 @@ cainitic
 chaplainship
 cornbole
 cornbottle
+collophore
 conformers
 clistocarp
 commemorating
