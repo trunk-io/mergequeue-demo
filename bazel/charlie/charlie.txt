@@ -10701,7 +10701,6 @@ collinearity
 communicates
 calx
 chinamen
-chemisorb
 canoeing
 cottontail
 confectionaries
@@ -25774,6 +25773,7 @@ citrines
 chatta
 compote
 coronal
+chemisorb
 cleruch
 corrigibly
 chirming
