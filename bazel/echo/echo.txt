@@ -4692,7 +4692,6 @@ entryway
 electrowin
 enterogastrone
 electroshock
-endoangiitis
 eyelets
 exalbuminose
 echinidea
@@ -12448,6 +12447,7 @@ epicondylic
 enneadic
 emprosthotonus
 electrifying
+endoangiitis
 exocoelar
 enomania
 erythropia
