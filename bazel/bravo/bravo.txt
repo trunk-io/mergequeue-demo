@@ -3320,7 +3320,6 @@ bassalia
 babassus
 bootable
 brythonic
-baculum
 benzilic
 bassan
 bassanite
@@ -17291,6 +17290,7 @@ batling
 benomyls
 boltings
 bathflower
+baculum
 bakula
 bushie
 braguette
