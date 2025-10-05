@@ -9341,7 +9341,6 @@ devastator
 despouse
 dressers
 differenced
-destroyable
 differentiability
 disloign
 differentiae
@@ -17625,6 +17624,7 @@ decare
 disapprovingly
 dystopia
 disanimal
+destroyable
 diaphoretics
 dimerisms
 domiciliating
