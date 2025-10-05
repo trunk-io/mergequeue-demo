@@ -4130,7 +4130,6 @@ apoapsis
 acrostichic
 armorers
 agists
-acclimatable
 archy
 adulce
 arquebusier
@@ -13942,6 +13941,7 @@ antheroid
 antae
 averil
 antaean
+acclimatable
 antaeus
 asperates
 archelogy
