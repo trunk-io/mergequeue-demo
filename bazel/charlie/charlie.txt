@@ -2401,7 +2401,6 @@ cropsickness
 cancion
 cancionero
 canciones
-cancri
 charivaried
 coacervation
 cancrid
@@ -13821,6 +13820,7 @@ cubbyholes
 cinema
 churchwards
 congealer
+cancri
 cinemactic
 commonweals
 cinemagoer
