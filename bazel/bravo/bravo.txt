@@ -2042,7 +2042,6 @@ barefooted
 bannat
 baulky
 blusters
-bannerline
 bannerole
 blossomry
 bronchus
@@ -11948,6 +11947,7 @@ bataleur
 brulyies
 boerhavia
 becrown
+bannerline
 boethian
 brackmard
 balsamodendron
