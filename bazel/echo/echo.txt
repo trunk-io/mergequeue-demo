@@ -2922,7 +2922,6 @@ ectopia
 elymus
 enfield
 eleatic
-evaluate
 extine
 extern
 eliot
@@ -9329,6 +9328,7 @@ ericaceous
 enticeful
 eventuation
 espieglerie
+evaluate
 entelechy
 electroori
 erucivorous
