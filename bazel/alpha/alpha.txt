@@ -1551,6 +1551,7 @@ amalg
 accordion
 ande
 alcade
+amissible
 accordionists
 algedonic
 andalusian
@@ -8371,7 +8372,6 @@ aloofly
 antiferroelectric
 alite
 animistic
-amissible
 afghan
 ainee
 astrakhan
