@@ -797,7 +797,6 @@ detections
 deduced
 deflator
 desperately
-demireps
 dangerousness
 distention
 dangle
@@ -6851,6 +6850,7 @@ disfranchisers
 donataries
 desmine
 dipeptide
+demireps
 dibbling
 degenerates
 demetrian
