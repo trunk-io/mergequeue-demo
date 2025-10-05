@@ -11854,7 +11854,6 @@ bickerer
 barfly
 bodybending
 bodybuilder
-betrinket
 boringly
 bard
 briareus
@@ -13367,6 +13366,7 @@ badmen
 bluffy
 botched
 botchedly
+betrinket
 bukat
 bridgeman
 botcheries
