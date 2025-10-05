@@ -2547,6 +2547,7 @@ barytocelestite
 barytone
 barytons
 busing
+busbar
 bowable
 bears
 bridgelike
@@ -17855,7 +17856,6 @@ ballistocardiogram
 bridewell
 bus
 bine
-busbar
 busbars
 bused
 burling
