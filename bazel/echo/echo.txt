@@ -1293,7 +1293,6 @@ effects
 enlarge
 equip
 equilibristat
-enclog
 effectuated
 effectuating
 effervesced
@@ -3561,6 +3560,7 @@ enriching
 expositive
 emotionalised
 elatinaceous
+enclog
 elaeocarpaceous
 ecocidal
 embread
