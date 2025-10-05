@@ -7186,6 +7186,7 @@ backjoint
 bessemerize
 bessemerized
 besses
+byepath
 bessie
 bestad
 biarticulated
@@ -17115,7 +17116,6 @@ bulldozing
 beduck
 bullet
 bulleted
-byepath
 bequeather
 brenthis
 bulletheadedness
