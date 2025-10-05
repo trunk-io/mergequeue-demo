@@ -13638,7 +13638,6 @@ dissimilars
 demythologise
 dorize
 dequantitate
-defunctionalize
 diedral
 dissimilate
 depletion
@@ -17523,6 +17522,7 @@ dactyls
 drumlins
 doughfoot
 daikon
+defunctionalize
 dentifrice
 dorsiferous
 diciest
