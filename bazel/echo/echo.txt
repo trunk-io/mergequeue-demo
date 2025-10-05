@@ -8550,7 +8550,6 @@ encompassing
 ergatomorph
 equid
 equidimensional
-equidist
 essancias
 eyebolts
 eumerogenesis
@@ -12459,6 +12458,7 @@ exhaust
 exasperated
 eximidus
 eximious
+equidist
 ense
 etiogenic
 eluviates
