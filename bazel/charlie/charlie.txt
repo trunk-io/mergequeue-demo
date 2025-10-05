@@ -514,7 +514,6 @@ cades
 ceremoniary
 chainmaking
 circiter
-cadet
 canonize
 counterreply
 crammel
@@ -9861,6 +9860,7 @@ clamp
 chemophysiology
 chemoprophyalctic
 cycle
+cadet
 chemoprophylactic
 cruiser
 chaetopterin
