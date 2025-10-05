@@ -2026,7 +2026,6 @@ campagne
 conli
 clotheshorses
 campaigners
-campaigns
 colostric
 campana
 campane
@@ -9627,6 +9626,7 @@ cheerleading
 cystorrhaphy
 cyathaspis
 correcting
+campaigns
 copyists
 caingua
 calcipexy
