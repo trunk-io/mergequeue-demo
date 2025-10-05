@@ -9278,7 +9278,6 @@ exceptions
 erron
 electrotellurograph
 eurylaimus
-externalist
 embosk
 expositional
 error
@@ -11252,6 +11251,7 @@ elbowboard
 evaporating
 eviscerating
 endoarteritis
+externalist
 exoderms
 excursing
 endue
