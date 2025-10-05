@@ -4629,7 +4629,6 @@ bedframes
 broomed
 backbar
 busaos
-balayeuse
 bedgoer
 baniwa
 bradded
@@ -8771,6 +8770,7 @@ bedrown
 bungo
 beezer
 brachiotomy
+balayeuse
 betuckered
 bulginess
 berghaan
