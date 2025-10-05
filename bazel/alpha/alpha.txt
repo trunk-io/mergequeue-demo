@@ -9389,7 +9389,6 @@ adherency
 aitesis
 amasty
 altar
-allodies
 altarpieces
 armbone
 anemones
@@ -20635,6 +20634,7 @@ apraxias
 autoradiogram
 aquamanalia
 antigravitationally
+allodies
 anserous
 arthrosis
 aeromagnetic
