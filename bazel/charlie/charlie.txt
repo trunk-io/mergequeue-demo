@@ -7222,7 +7222,6 @@ centroids
 cyanophilous
 conte
 centromere
-centromeric
 centronote
 champing
 centropomidae
@@ -17472,6 +17471,7 @@ cupbearer
 cobaea
 corbeil
 cobalamin
+centromeric
 comb
 cobalt
 cobaltamine
