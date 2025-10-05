@@ -19524,7 +19524,6 @@ chromogenetic
 colpoptosis
 colporrhagia
 colporrhaphy
-colporrhexis
 cleistothecia
 colportage
 colporter
@@ -30741,6 +30740,7 @@ cuirassed
 catachrestical
 cuirasses
 cuirassier
+colporrhexis
 commonplacely
 cuish
 curveball
