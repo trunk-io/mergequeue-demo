@@ -7520,6 +7520,7 @@ edaphic
 eczematosis
 espiglerie
 exocarp
+exocoelom
 experienceable
 epicede
 exion
@@ -9017,7 +9018,6 @@ erythemal
 enterokinesia
 enormious
 exodromy
-exocoelom
 erythemas
 eves
 egomism
