@@ -5696,7 +5696,6 @@ expressions
 enneahedral
 envelopment
 extirp
-excusator
 evaporitic
 englut
 emhpasizing
@@ -11603,6 +11602,7 @@ epitaphical
 emigrants
 exacting
 emydian
+excusator
 equiponderancy
 euphoniousness
 electivity
