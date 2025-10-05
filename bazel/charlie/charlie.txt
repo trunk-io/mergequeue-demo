@@ -2557,7 +2557,6 @@ censuses
 cyclotrons
 cane
 cd
-corneum
 cliffing
 canebrake
 cardioschisis
@@ -29963,6 +29962,7 @@ castra
 coelenterata
 cuculidae
 crosslight
+corneum
 crosslike
 carbosilicate
 crossline
