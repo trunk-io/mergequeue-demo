@@ -7604,7 +7604,6 @@ chargers
 calathisci
 calcarated
 cerebrospinal
-chaetotaxy
 cevadilline
 cerebrospinant
 cerebrosuria
@@ -26433,6 +26432,7 @@ coticed
 coruscate
 colleter
 clou
+chaetotaxy
 coticing
 camister
 cotidal
