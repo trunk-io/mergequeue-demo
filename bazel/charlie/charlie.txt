@@ -9482,7 +9482,6 @@ communizing
 checkage
 checkback
 checkbite
-checkbits
 checkbook
 chachalaca
 cableways
@@ -14571,6 +14570,7 @@ cistercian
 choppy
 cistercianism
 cisternae
+checkbits
 cariocas
 cornier
 compactions
