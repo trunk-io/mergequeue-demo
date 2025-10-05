@@ -27562,7 +27562,6 @@ covenanter
 cameroon
 coventrate
 coventry
-coroplast
 creaturehood
 cover
 containable
@@ -29270,6 +29269,7 @@ cryptanalyzing
 cryptarch
 cryptarchy
 composure
+coroplast
 caracols
 crypteroniaceae
 cryptical
