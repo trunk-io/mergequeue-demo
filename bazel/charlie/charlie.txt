@@ -2461,7 +2461,6 @@ cantorial
 cleithral
 countermands
 candies
-candying
 consuetudinary
 cardiophobe
 candymaking
@@ -9261,6 +9260,7 @@ cryonic
 carol
 cocceianism
 chatterboxes
+candying
 chattered
 chalehs
 chincapin
