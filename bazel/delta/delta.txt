@@ -6473,7 +6473,6 @@ departmentalising
 decadenza
 dactylioglyph
 disbark
-desamidase
 desc
 descale
 declericalize
@@ -12744,6 +12743,7 @@ doily
 disloyal
 dotardly
 drawfiling
+desamidase
 donative
 disloyalty
 doored
