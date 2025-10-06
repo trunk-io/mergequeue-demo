@@ -8125,7 +8125,6 @@ andorran
 aliases
 acemetae
 aurantiaceous
-anthracotic
 afft
 anight
 algorab
@@ -16357,6 +16356,7 @@ anuran
 arctoidea
 argyrosomus
 apulmonic
+anthracotic
 aglauros
 anvilling
 anvilsmith
