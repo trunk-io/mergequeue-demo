@@ -12639,6 +12639,7 @@ backlist
 beverages
 bonnnes
 banksides
+bdellidae
 burette
 browbound
 bonorum
@@ -16177,7 +16178,6 @@ breccia
 boltstrake
 breves
 boughless
-bdellidae
 balklines
 beanweed
 bloomeria
