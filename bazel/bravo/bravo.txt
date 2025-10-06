@@ -15550,7 +15550,6 @@ blase
 briony
 bisso
 bitwise
-babesiosis
 bimas
 beadlet
 baloney
@@ -16764,6 +16763,7 @@ baklavas
 bleached
 brattice
 bodycheck
+babesiosis
 benchmarks
 bucklers
 belsire
