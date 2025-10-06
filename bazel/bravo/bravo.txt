@@ -4021,7 +4021,6 @@ brighteners
 bedaubed
 bronteum
 beamroom
-baragnosis
 blitzkrieged
 bantlings
 brickred
@@ -16941,6 +16940,7 @@ brahm
 bugbane
 beaume
 beneficially
+baragnosis
 bimetallists
 bugbearish
 buyides
