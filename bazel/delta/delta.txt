@@ -325,6 +325,7 @@ daybooks
 daphne
 diapalma
 deplace
+decanter
 deckman
 disreputed
 dwarfism
@@ -6845,7 +6846,6 @@ drollist
 drydenism
 desoxalate
 dichromasy
-decanter
 demasculinisation
 dimiss
 diasyrm
