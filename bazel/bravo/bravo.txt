@@ -5779,6 +5779,7 @@ bufo
 bellbird
 bonier
 bellboy
+benzothiodiazole
 bulbochaete
 bood
 bourtree
@@ -6461,7 +6462,6 @@ blowup
 benzothiazine
 benzothiazoline
 badlands
-benzothiodiazole
 bandarlog
 bergamiol
 backcloth
