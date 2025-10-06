@@ -131,7 +131,6 @@ cpt
 cabinetworker
 calcimining
 cabinetworking
-crafter
 cabio
 costotransverse
 cabiria
@@ -4334,6 +4333,7 @@ corrivality
 consummation
 crisper
 counterslope
+crafter
 crum
 componentry
 caricologist
