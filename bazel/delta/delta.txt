@@ -4501,6 +4501,7 @@ demies
 dosimetric
 demifigure
 decentres
+doomage
 disinflated
 demigauntlet
 decussis
@@ -15721,7 +15722,6 @@ diphthongalize
 drypoints
 dorr
 dermatophytic
-doomage
 deflorations
 dorsa
 dentiparous
