@@ -1136,6 +1136,7 @@ eident
 educatable
 educatedness
 electrolyzable
+electrodepositable
 eudiometric
 engraphically
 educates
@@ -5162,7 +5163,6 @@ ergotize
 eparchy
 esterification
 equipluve
-electrodepositable
 epistrophic
 endomitosis
 endomorphy
