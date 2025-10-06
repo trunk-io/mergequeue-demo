@@ -7737,7 +7737,6 @@ beblot
 bespangles
 britten
 bathyscaphe
-bravoite
 buxerry
 bhikshu
 brakehand
@@ -13607,6 +13606,7 @@ blacklists
 bougie
 brookiest
 botry
+bravoite
 benefaction
 boulanger
 bouldered
