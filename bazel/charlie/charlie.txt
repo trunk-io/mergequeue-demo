@@ -23740,7 +23740,6 @@ carrosserie
 contrafissura
 contrafissure
 contraflexure
-cruciform
 contragredience
 contragredient
 certes
@@ -25032,6 +25031,7 @@ conventing
 cordiality
 cordialities
 crimini
+cruciform
 coelanaglyphic
 cnibophore
 cheskeys
