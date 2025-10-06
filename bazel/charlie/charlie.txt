@@ -11279,7 +11279,6 @@ clachans
 chalcophanite
 chloroformic
 cubica
-chloroforming
 chromicizing
 chloroformization
 chloroforms
@@ -29722,6 +29721,7 @@ crofts
 covering
 croyden
 croydon
+chloroforming
 croiik
 croyl
 chromogram
