@@ -16645,7 +16645,6 @@ codesign
 clamberer
 cirrus
 clothesline
-clothesman
 crypts
 cheerful
 carbamoyl
@@ -19430,6 +19429,7 @@ colorimetrics
 chemmy
 colorimetrist
 coelectron
+clothesman
 chace
 carinthian
 chrysobalanaceae
