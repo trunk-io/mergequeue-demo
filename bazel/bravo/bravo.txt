@@ -3005,7 +3005,6 @@ bellows
 biobibliographical
 baruria
 brazier
-barvel
 beduin
 brainwashing
 babelize
@@ -8322,6 +8321,7 @@ bureaucratically
 bigeminum
 blobbing
 beswink
+barvel
 buvette
 billie
 bebotch
