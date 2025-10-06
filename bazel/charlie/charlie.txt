@@ -3325,6 +3325,7 @@ celsius
 carrots
 capote
 capouches
+cellarous
 crypted
 capparis
 crapple
@@ -8197,7 +8198,6 @@ chakobu
 carpentry
 cloudage
 complection
-cellarous
 chalastogastra
 crakes
 celestinian
