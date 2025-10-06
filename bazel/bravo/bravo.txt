@@ -3496,6 +3496,7 @@ balon
 baygall
 barricade
 brushy
+borers
 beclamor
 burny
 binaries
@@ -13122,7 +13123,6 @@ boreiad
 bannister
 boodleism
 borel
-borers
 bowlmaker
 browse
 branders
