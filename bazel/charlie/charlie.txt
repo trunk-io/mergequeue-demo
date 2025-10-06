@@ -7591,7 +7591,6 @@ cerebri
 cerebricity
 czar
 cerebriformly
-censerless
 carambola
 carus
 codiaceae
@@ -8257,6 +8256,7 @@ chalcocite
 christianomastix
 chalcogen
 chalcogenide
+censerless
 comas
 chalcography
 caucho
