@@ -369,7 +369,6 @@ daylights
 deprival
 deutomalar
 desalters
-dayman
 droughtiness
 detruss
 daymares
@@ -13457,6 +13456,7 @@ demeritorious
 disquisitive
 disrelishable
 dissentment
+dayman
 dactylopius
 dissemination
 dantonist
