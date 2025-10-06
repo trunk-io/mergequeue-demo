@@ -9658,6 +9658,7 @@ editchar
 espino
 erythroplastid
 evilsayer
+extolling
 enhancements
 elkhounds
 exsec
@@ -13763,7 +13764,6 @@ eternalness
 edestosaurus
 epiphysary
 ecorch
-extolling
 extolls
 electrophysicist
 equuleus
