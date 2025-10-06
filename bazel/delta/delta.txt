@@ -497,6 +497,7 @@ dalibarda
 dismantler
 draggers
 dalle
+disallowableness
 desmotropic
 dentata
 dividing
@@ -4378,7 +4379,6 @@ dizening
 drawk
 demeanor
 draffier
-disallowableness
 daintify
 defogging
 demeanored
