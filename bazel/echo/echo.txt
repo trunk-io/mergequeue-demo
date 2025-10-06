@@ -2298,7 +2298,6 @@ exemplary
 electroacoustic
 electroacoustical
 enthetic
-electroanalytic
 eavesdrop
 entrapper
 electroballistics
@@ -7700,6 +7699,7 @@ equidensity
 excriminate
 execrably
 ephapse
+electroanalytic
 earshot
 everyness
 euthytatic
