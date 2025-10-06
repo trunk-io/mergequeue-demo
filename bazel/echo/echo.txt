@@ -2446,6 +2446,7 @@ electrogasdynamics
 empanelment
 easter
 encapsuling
+evacuate
 encyclopedize
 exchangeable
 electrohemostasis
@@ -3414,7 +3415,6 @@ enteropneustan
 embed
 estheticism
 embelic
-evacuate
 embellisher
 earlish
 enchained
