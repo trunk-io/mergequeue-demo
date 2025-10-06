@@ -1201,7 +1201,6 @@ dreggier
 daystars
 datebook
 dilacerated
-dipneustal
 dibstones
 disembarkation
 defecating
@@ -15611,6 +15610,7 @@ drawknot
 dogstone
 desi
 docile
+dipneustal
 dunce
 derivative
 dartrose
