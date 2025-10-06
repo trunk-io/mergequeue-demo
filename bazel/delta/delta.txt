@@ -3343,7 +3343,6 @@ diacetyl
 demonography
 decarboxylase
 decolorisation
-dob
 dubiously
 decompensate
 disadorn
@@ -15603,6 +15602,7 @@ demobilisation
 disprofit
 determine
 dopchick
+dob
 demonstrator
 discased
 discovert
