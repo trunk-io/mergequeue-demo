@@ -1916,7 +1916,6 @@ boardroom
 bronchoscopy
 brachydactyl
 botan
-bulbous
 beachheads
 blankness
 bombard
@@ -10004,6 +10003,7 @@ broma
 byelaw
 biland
 betrap
+bulbous
 bergerette
 balustraded
 besauce
