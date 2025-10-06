@@ -10715,7 +10715,6 @@ enseated
 ericolin
 epigynous
 ephydra
-ephemerae
 electrometallurgical
 endospore
 earthward
@@ -11283,6 +11282,7 @@ exine
 extenders
 exercises
 exotropic
+ephemerae
 evenforth
 eruciform
 emanatively
