@@ -2148,7 +2148,6 @@ camphorweed
 camphorwood
 cotan
 completions
-conference
 campi
 campy
 camels
@@ -30114,6 +30113,7 @@ crocodilus
 comptrol
 cephalophorous
 chordoid
+conference
 crowder
 codium
 cmdg
