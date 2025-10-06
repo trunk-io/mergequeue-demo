@@ -17802,6 +17802,7 @@ blankets
 burrows
 bowdichia
 benevolent
+ballat
 burrstone
 biolite
 bude
@@ -18386,7 +18387,6 @@ barwares
 buzzerphone
 buzzier
 burghermaster
-ballat
 bilinite
 behowl
 buzzies
