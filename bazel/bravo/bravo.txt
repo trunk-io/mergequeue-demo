@@ -6052,7 +6052,6 @@ blacktail
 beknottedness
 briefing
 brachycephalization
-bemuddlement
 bemuddles
 beamer
 bugbear
@@ -8272,6 +8271,7 @@ bodhi
 bovarysm
 bigamies
 bigamist
+bemuddlement
 bigamize
 boyars
 broadsided
