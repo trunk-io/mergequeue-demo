@@ -14919,6 +14919,7 @@ breakfronts
 bylaws
 breaking
 busera
+boundable
 barkeep
 breakings
 balkline
@@ -17887,7 +17888,6 @@ busheled
 bourse
 beauship
 bivium
-boundable
 bushelers
 bescurvy
 bartering
