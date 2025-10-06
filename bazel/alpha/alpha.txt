@@ -5774,6 +5774,7 @@ acetylized
 ageings
 archiannelida
 anabantidae
+autoecy
 antlid
 angara
 asdic
@@ -22913,7 +22914,6 @@ atrypa
 alongshore
 acanthodea
 asquat
-autoecy
 aegises
 aorist
 aspiration
