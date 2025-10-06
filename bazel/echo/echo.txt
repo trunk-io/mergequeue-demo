@@ -4248,6 +4248,7 @@ emit
 expediencies
 enamorado
 enamorato
+endocytosis
 endodontia
 endleaves
 extraordinariness
@@ -10610,7 +10611,6 @@ expeditate
 emp
 entwine
 excitory
-endocytosis
 exarchy
 excoct
 ethel
