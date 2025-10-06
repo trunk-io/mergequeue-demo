@@ -4009,7 +4009,6 @@ coelevate
 cholericness
 counterproductively
 carcinophagous
-carcinopolypus
 carcinosarcoma
 coloreds
 chloralide
@@ -21740,6 +21739,7 @@ cervicoaxillary
 creasing
 condiment
 condimentary
+carcinopolypus
 citatum
 cinerarias
 cloths
