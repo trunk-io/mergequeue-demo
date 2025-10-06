@@ -12482,7 +12482,6 @@ capacitances
 chromosomally
 condensate
 cornercap
-chromospheric
 colytic
 committitur
 cadjan
@@ -29481,6 +29480,7 @@ crisset
 cryst
 crystaling
 commentatorially
+chromospheric
 collocation
 cantharis
 civilizade
