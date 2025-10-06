@@ -3831,7 +3831,6 @@ dawning
 deathfully
 deirid
 deis
-deisidaimonia
 disquieting
 dizzardly
 deism
@@ -8542,6 +8541,7 @@ diary
 disputacity
 diaglyph
 disimprove
+deisidaimonia
 diarist
 decarchy
 diarrhoeal
