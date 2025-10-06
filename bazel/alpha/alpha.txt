@@ -3140,7 +3140,6 @@ aluminotype
 aweather
 asterism
 amoristic
-acrostical
 assailability
 allogenic
 aid
@@ -14727,6 +14726,7 @@ anticatalyst
 anticatalytic
 apodous
 afernan
+acrostical
 antiblack
 anticaustic
 affreighter
