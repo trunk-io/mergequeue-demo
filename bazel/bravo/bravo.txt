@@ -12053,7 +12053,6 @@ bidders
 braula
 bidigitate
 bromeliad
-bothriums
 bunkhouse
 biogens
 bohora
@@ -18172,6 +18171,7 @@ bricky
 bitterwort
 bechern
 belief
+bothriums
 butleries
 belfast
 butlerlike
