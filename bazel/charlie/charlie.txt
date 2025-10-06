@@ -11737,7 +11737,6 @@ chukkas
 chondromyxosarcoma
 captan
 chondromucoid
-chondroplast
 centronucleus
 crystall
 consonantally
@@ -20663,6 +20662,7 @@ complaintiveness
 complaints
 chakazi
 cirrhous
+chondroplast
 complaisant
 cartulary
 cankerworms
