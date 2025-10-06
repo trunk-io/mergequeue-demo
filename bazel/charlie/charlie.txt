@@ -7721,6 +7721,7 @@ cadbait
 chemiluminescent
 coinhering
 charkhas
+coderived
 capromys
 ceroplasty
 ceroplastic
@@ -17858,7 +17859,6 @@ coder
 counterponderate
 crible
 comprehended
-coderived
 coders
 codes
 chromoprotein
