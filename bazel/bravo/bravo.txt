@@ -1864,7 +1864,6 @@ butterlike
 bandora
 biotechs
 brevipen
-bandore
 baselard
 buckwheat
 balsa
@@ -11809,6 +11808,7 @@ backed
 bioelectrogenesis
 bobstays
 berreaving
+bandore
 bobtail
 bobtailed
 bobwhites
