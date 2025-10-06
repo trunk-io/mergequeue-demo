@@ -9770,7 +9770,6 @@ benched
 bacchante
 brethel
 byssal
-bigam
 brachiocephalic
 brachyura
 boniface
@@ -14609,6 +14608,7 @@ belong
 bryophyta
 blatterer
 branding
+bigam
 bacchanalias
 brachycome
 billhooks
