@@ -6877,6 +6877,7 @@ evaporable
 equipments
 embelif
 emergencies
+embossman
 executions
 eucalyn
 epitrchelia
@@ -10206,7 +10207,6 @@ emoter
 ethicoreligious
 elytriform
 excitator
-embossman
 eutectoid
 etesian
 ensure
