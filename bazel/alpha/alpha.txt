@@ -8082,6 +8082,7 @@ algal
 anolytes
 archanthropine
 algarroba
+abase
 atrioporal
 alcabala
 athetesis
@@ -8895,7 +8896,6 @@ anaglyptical
 acanthoma
 allodiality
 antrustion
-abase
 adenodiastasis
 aspirate
 amphistomoid
