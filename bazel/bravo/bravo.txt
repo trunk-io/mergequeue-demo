@@ -4004,6 +4004,7 @@ beamman
 bskt
 brighteners
 bedaubed
+beholdable
 bronteum
 beamroom
 blitzkrieged
@@ -6092,7 +6093,6 @@ balatronic
 biochemistries
 bunkerage
 benasty
-beholdable
 bedrift
 barbouillage
 buccinidae
