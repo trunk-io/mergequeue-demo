@@ -4268,6 +4268,7 @@ deerfly
 delved
 dermatopathology
 dysbarism
+digitigrade
 dysarthria
 delver
 doublewidth
@@ -14455,7 +14456,6 @@ dividend
 dividends
 dividendus
 divident
-digitigrade
 decertification
 deemster
 dromograph
