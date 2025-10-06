@@ -4054,7 +4054,6 @@ beelbow
 beardfishes
 beswarms
 botulinum
-bootless
 bearding
 beards
 birthroot
@@ -13153,6 +13152,7 @@ bleachability
 bleedings
 bornane
 backhanding
+bootless
 borneol
 brachyceral
 borning
