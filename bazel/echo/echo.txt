@@ -1366,7 +1366,6 @@ endpiece
 epithet
 epipodialia
 erythrocytolytic
-espoused
 ethnicon
 exaggeratory
 execratory
@@ -3961,6 +3960,7 @@ each
 eternize
 exultancy
 enveigle
+espoused
 epibiotic
 effloresce
 enray
