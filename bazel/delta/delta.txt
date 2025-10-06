@@ -4670,6 +4670,7 @@ decking
 derealization
 dipmeter
 dematerialisation
+detach
 drifting
 deliquesce
 disheveling
@@ -7676,7 +7677,6 @@ deintellectualize
 defoliage
 devise
 dayton
-detach
 diplotegia
 defeasance
 devised
