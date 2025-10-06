@@ -7258,6 +7258,7 @@ briary
 blades
 beveled
 bituminised
+bas
 balearic
 bravado
 barquentine
@@ -10714,7 +10715,6 @@ bleaunt
 bleb
 bleck
 bled
-bas
 bethreaten
 bleeped
 bleeps
