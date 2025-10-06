@@ -5123,7 +5123,6 @@ emforth
 endocrines
 endocrinic
 electropoion
-enterocoel
 ecdysones
 extrudability
 edificed
@@ -8818,6 +8817,7 @@ euphonised
 executory
 ensellure
 enamines
+enterocoel
 etruscans
 esteems
 elegious
