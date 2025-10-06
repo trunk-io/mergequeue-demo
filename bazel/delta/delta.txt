@@ -3493,7 +3493,6 @@ drawbeam
 duffies
 dissheathe
 diminishable
-defuze
 desmarestiaceous
 dissociative
 diachaenium
@@ -8427,6 +8426,7 @@ detouring
 dianetics
 divider
 didactically
+defuze
 dianilid
 disembocation
 dislikeness
