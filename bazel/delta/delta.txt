@@ -2479,7 +2479,6 @@ dorn
 disjudication
 declass
 dweller
-declassification
 derringer
 diachrony
 declassifies
@@ -5866,6 +5865,7 @@ doolee
 dumpers
 dishcloths
 diamonding
+declassification
 decompression
 demultiplexed
 dishling
