@@ -3458,6 +3458,7 @@ bombonne
 beclamored
 broadax
 batete
+biplanar
 brabbling
 bps
 blue
@@ -17246,7 +17247,6 @@ bullwhipped
 barnacles
 broadwives
 bromindigo
-biplanar
 bridesmaiding
 bullwhipping
 bullwort
