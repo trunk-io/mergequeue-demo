@@ -4247,6 +4247,7 @@ chemosensitivities
 covenant
 characteristic
 coauthored
+cochlearia
 cashel
 careless
 carelessly
@@ -5837,7 +5838,6 @@ canisters
 categorised
 chansonnier
 cultivated
-cochlearia
 cuemanship
 churly
 cleaves
