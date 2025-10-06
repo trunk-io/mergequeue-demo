@@ -5554,6 +5554,7 @@ arms
 axbreaker
 autotoxis
 austromancy
+agrarianly
 alloiometry
 acoelomatous
 agade
@@ -6228,7 +6229,6 @@ adjectively
 annularity
 animative
 almuce
-agrarianly
 angarep
 agrauleum
 amylosynthesis
