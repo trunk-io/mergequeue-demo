@@ -4311,7 +4311,6 @@ evacuates
 enations
 exocarp
 euripos
-engraulis
 enbrave
 emanatism
 embar
@@ -6856,6 +6855,7 @@ ethically
 exotics
 ellipsoidal
 endangered
+engraulis
 entomostraca
 electrum
 endamageable
