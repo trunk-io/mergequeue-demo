@@ -2919,7 +2919,6 @@ elicits
 epihydrinic
 episcopalian
 elides
-electrotropism
 europiums
 epistoler
 ekronite
@@ -8638,6 +8637,7 @@ enterovirus
 emergently
 exclusivist
 encup
+electrotropism
 equinate
 estival
 enameller
