@@ -5313,6 +5313,7 @@ everglades
 exophagous
 evidentness
 encharm
+exclusions
 epiphyte
 exasperation
 embarrassing
@@ -7127,7 +7128,6 @@ embryomata
 ensophic
 epicyesis
 eild
-exclusions
 exurban
 eudaemonism
 everyday
