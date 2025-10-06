@@ -1185,6 +1185,7 @@ datasetname
 dithers
 datcha
 dibber
+demirep
 disclamation
 demiassignation
 dhow
@@ -8818,7 +8819,6 @@ distomiasis
 dicasteries
 dicastic
 dysmenorrhea
-demirep
 diccon
 daimio
 dolabre
