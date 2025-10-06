@@ -757,7 +757,6 @@ blackout
 building
 baedekerian
 baeria
-beltmaking
 begod
 browniness
 bldr
@@ -8094,6 +8093,7 @@ bartend
 biguanide
 belligerents
 branchstand
+beltmaking
 bicornuate
 bicornute
 belleeks
