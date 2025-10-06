@@ -3885,7 +3885,6 @@ earthbound
 endosymbiosis
 emolumental
 entame
-endopeptidase
 extemporiser
 evader
 enstate
@@ -4954,6 +4953,7 @@ endemicity
 echopractic
 eyelike
 electrofused
+endopeptidase
 endoderm
 endemism
 encastrement
