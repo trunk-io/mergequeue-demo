@@ -3492,6 +3492,7 @@ bathylithic
 bipinnaria
 blah
 besmooth
+blowgun
 barraging
 bathymetry
 bathymetrical
@@ -10893,7 +10894,6 @@ baroscopic
 bloodlike
 blastomycetic
 billtong
-blowgun
 bagmaker
 bestowing
 bribetaker
