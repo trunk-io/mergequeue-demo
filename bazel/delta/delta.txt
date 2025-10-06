@@ -3324,7 +3324,6 @@ disconfirmed
 damnum
 dero
 defleas
-deflect
 dichotomic
 disinhuming
 darer
@@ -6054,6 +6053,7 @@ dehache
 dryads
 discepting
 dactyliographic
+deflect
 der
 dunbird
 deboites
