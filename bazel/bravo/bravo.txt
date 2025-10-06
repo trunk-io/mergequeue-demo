@@ -5884,7 +5884,6 @@ benedicks
 begaudy
 bellweed
 bretons
-butterbur
 bellwether
 bellwort
 ballpoint
@@ -10943,6 +10942,7 @@ blesbuck
 beamers
 blinkards
 bowses
+butterbur
 basto
 basta
 beaneries
