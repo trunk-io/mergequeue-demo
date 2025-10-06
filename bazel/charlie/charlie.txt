@@ -10935,7 +10935,6 @@ cabret
 chestier
 crudites
 coalition
-cicatrixes
 chiromantis
 chiromys
 chalcioecus
@@ -14076,6 +14075,7 @@ cypressed
 conure
 cervicovaginal
 cyprid
+cicatrixes
 cyprididae
 cypridina
 caucasoid
