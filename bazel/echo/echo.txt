@@ -5369,7 +5369,6 @@ ed
 example
 enrollees
 electronvolt
-endowment
 ectene
 elamp
 excantation
@@ -6593,6 +6592,7 @@ enhalo
 epaleaceous
 easterliness
 enteroepiplocele
+endowment
 endospermous
 ermining
 enterogenous
