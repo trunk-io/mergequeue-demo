@@ -9792,6 +9792,7 @@ curua
 chelingas
 chelingos
 cheliped
+crossbelt
 chelys
 cydon
 cheloids
@@ -29908,7 +29909,6 @@ callow
 crossbeam
 crossbeams
 cosmorganic
-crossbelt
 clodknocker
 collectability
 crossbill
