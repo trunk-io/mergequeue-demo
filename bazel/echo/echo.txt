@@ -2937,7 +2937,6 @@ eligibility
 epistasy
 eligibles
 entrecotes
-exoclinal
 elbowchair
 enjoining
 equivocalities
@@ -5152,6 +5151,7 @@ erava
 essonite
 exceedingness
 elephants
+exoclinal
 ergotist
 electrostatic
 epicist
