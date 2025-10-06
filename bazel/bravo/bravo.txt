@@ -712,7 +712,6 @@ bandsawing
 badges
 beknight
 benchership
-badging
 bilbi
 buddhism
 banksman
@@ -9772,6 +9771,7 @@ byssal
 brachiocephalic
 brachyura
 boniface
+badging
 bissellia
 bissextus
 bullbats
