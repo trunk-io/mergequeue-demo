@@ -2535,7 +2535,6 @@ baritenor
 barberry
 beziques
 bedevils
-barytocelestite
 barytone
 barytons
 busing
@@ -3917,6 +3916,7 @@ believer
 bola
 beacons
 beedi
+barytocelestite
 beadeye
 bellmaker
 balatong
