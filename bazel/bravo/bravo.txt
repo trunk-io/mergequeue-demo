@@ -2032,6 +2032,7 @@ bannerols
 bannisters
 bannock
 bilboquet
+bathyal
 blunges
 bannocks
 boilinglike
@@ -11140,7 +11141,6 @@ bashawship
 balmiest
 bromoform
 basitting
-bathyal
 blockship
 blodite
 betongue
