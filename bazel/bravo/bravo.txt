@@ -545,6 +545,7 @@ boomerang
 bacon
 baubee
 babbly
+budling
 bumaloe
 balisaur
 bishopric
@@ -1155,7 +1156,6 @@ blennostatic
 bakeress
 beleaguered
 bootloader
-budling
 bakerly
 bakerlike
 bipinnatisected
