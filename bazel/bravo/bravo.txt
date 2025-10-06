@@ -3808,7 +3808,6 @@ bawdrics
 borderlander
 bimonthly
 bardish
-bagwork
 boutonnieres
 boreal
 bawl
@@ -14660,6 +14659,7 @@ buffware
 ballistocardiogram
 brasenia
 braseros
+bagwork
 backspin
 boswellism
 brash
