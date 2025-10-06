@@ -5114,6 +5114,7 @@ binits
 basilicon
 beflagged
 benzalacetone
+blinky
 bael
 bronchoplegia
 broidering
@@ -9225,7 +9226,6 @@ bromcamphor
 bodywork
 bruja
 biotome
-blinky
 brothered
 bruiting
 biol
