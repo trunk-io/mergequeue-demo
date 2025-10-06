@@ -1471,7 +1471,6 @@ delint
 deacetylating
 doarium
 deathbeds
-deaconate
 delphinoidea
 downer
 discourager
@@ -3305,6 +3304,7 @@ deflating
 discommend
 drumslade
 dispersonate
+deaconate
 dedolomitizing
 diversifolious
 doit
