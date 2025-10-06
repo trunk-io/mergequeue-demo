@@ -5721,7 +5721,6 @@ cordelling
 cakebread
 catching
 cannon
-cultivatability
 cowpock
 catchline
 catchphrase
@@ -9135,6 +9134,7 @@ churchlier
 conversationize
 chartulae
 cartoned
+cultivatability
 caravanist
 coalface
 chartularies
