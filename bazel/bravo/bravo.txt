@@ -771,7 +771,6 @@ blake
 baffies
 buglosses
 bibliotist
-beloved
 bacalao
 ballisticians
 bandster
@@ -13209,6 +13208,7 @@ borzoi
 brigue
 bender
 boulter
+beloved
 begemmed
 boulevardize
 bewit
