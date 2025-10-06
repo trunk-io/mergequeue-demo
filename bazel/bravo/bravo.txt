@@ -2987,7 +2987,6 @@ bartends
 burthened
 berede
 baggywrinkle
-boogyman
 blechnoid
 barters
 brujo
@@ -6146,6 +6145,7 @@ bendwise
 bedframes
 begay
 balaneutics
+boogyman
 benedicta
 broughta
 borean
