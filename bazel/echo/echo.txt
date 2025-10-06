@@ -5734,6 +5734,7 @@ expressions
 ephemeris
 enneahedral
 extirp
+exchangeability
 englut
 emhpasizing
 epitenon
@@ -9754,7 +9755,6 @@ easterner
 ensured
 eightballs
 eumelanin
-exchangeability
 earringed
 embitterment
 embracive
