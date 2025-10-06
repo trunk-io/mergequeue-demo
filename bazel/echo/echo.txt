@@ -3202,7 +3202,6 @@ elude
 eludes
 exaltedly
 eludible
-eluding
 enswathes
 ensorcel
 eluents
@@ -4448,6 +4447,7 @@ erythrophagous
 encephalitic
 executively
 emulators
+eluding
 encephalographic
 epicurean
 entrainer
