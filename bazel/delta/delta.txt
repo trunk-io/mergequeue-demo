@@ -2487,7 +2487,6 @@ disjudication
 declass
 dweller
 derringer
-diachrony
 declassifies
 diplophonic
 dematerialize
@@ -8544,6 +8543,7 @@ dialyses
 diary
 disputacity
 diaglyph
+diachrony
 disimprove
 deisidaimonia
 diarist
