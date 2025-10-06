@@ -7155,6 +7155,7 @@ demultiplexing
 detainee
 detaining
 denotations
+doneness
 disinfecter
 detar
 detassel
@@ -9476,7 +9477,6 @@ dispergator
 diathermanous
 digitated
 demissly
-doneness
 digitigradism
 digitinerved
 dilutes
