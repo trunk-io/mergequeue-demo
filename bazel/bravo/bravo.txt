@@ -6748,7 +6748,6 @@ broomstaff
 blitter
 balaamitical
 brontosaurus
-berloque
 berm
 bixa
 berme
@@ -10864,6 +10863,7 @@ beheads
 blew
 bodilessness
 bosquets
+berloque
 batekes
 bongrace
 biolith
