@@ -11605,7 +11605,6 @@ cholesteatomatous
 cholestene
 cholesteremia
 cleidohyoid
-charoset
 chowdered
 clethra
 columbanian
@@ -12297,6 +12296,7 @@ chromatically
 carcinogen
 chromatician
 chromaticness
+charoset
 chromatid
 conuses
 chromatin
