@@ -7973,6 +7973,7 @@ alcoholmeter
 amethyst
 afetal
 aspirators
+abandoned
 alawi
 akvavits
 argasid
@@ -17205,7 +17206,6 @@ adoxa
 artillerymen
 assortative
 apomixes
-abandoned
 almira
 aqua
 archimago
