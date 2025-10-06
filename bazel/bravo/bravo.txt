@@ -576,7 +576,6 @@ bounds
 baconize
 baconweed
 bierkeller
-bonjour
 backstaff
 bricoles
 bandolerismo
@@ -17288,6 +17287,7 @@ bobs
 bumfuzzle
 baubles
 bumicky
+bonjour
 bonification
 burseed
 berretta
