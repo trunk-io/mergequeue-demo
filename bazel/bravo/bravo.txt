@@ -6350,6 +6350,7 @@ blockhouses
 blimp
 blastie
 backgrounds
+banat
 binderies
 bentonite
 bents
@@ -14236,7 +14237,6 @@ balushai
 burlier
 brackish
 bacteriological
-banat
 byrls
 bedquilt
 bushwife
