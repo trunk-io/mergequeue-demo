@@ -1863,7 +1863,6 @@ brockle
 barblet
 bana
 bandor
-babkas
 bilewhit
 brothe
 butterlike
@@ -12509,6 +12508,7 @@ bone
 bellworts
 bejaundice
 bedesman
+babkas
 boned
 bonefish
 barcarolle
