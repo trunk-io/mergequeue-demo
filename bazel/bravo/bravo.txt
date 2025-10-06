@@ -4024,7 +4024,6 @@ bantlings
 brickred
 boldness
 begottenness
-brooked
 beancod
 bumpkins
 beaner
@@ -6100,6 +6099,7 @@ barragon
 bamoth
 berkovets
 barkinji
+brooked
 benefits
 benchful
 benchman
