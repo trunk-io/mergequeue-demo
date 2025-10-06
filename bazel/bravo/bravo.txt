@@ -4616,7 +4616,6 @@ breviconic
 bankcards
 bookward
 bhikhari
-briquetted
 buildable
 bedford
 broomed
@@ -11980,6 +11979,7 @@ boggier
 bayou
 befuddle
 bills
+briquetted
 bogginess
 boggle
 blastemas
