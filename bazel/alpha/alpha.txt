@@ -947,6 +947,7 @@ allelotropy
 ancestries
 algific
 azeotropic
+alloclasite
 accend
 ancestor
 adulterately
@@ -5432,7 +5433,6 @@ afterfruits
 abstractedness
 afterglow
 angiostegnosis
-alloclasite
 attend
 areolation
 acetonylidene
