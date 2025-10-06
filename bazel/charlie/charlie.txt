@@ -2559,6 +2559,7 @@ cd
 cliffing
 canebrake
 cardioschisis
+corkiness
 cementmaking
 canebrakes
 cowskins
@@ -23329,7 +23330,6 @@ consumating
 consume
 consumedly
 consumeless
-corkiness
 consumer
 cassandra
 consumerist
