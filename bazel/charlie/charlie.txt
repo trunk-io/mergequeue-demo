@@ -508,7 +508,6 @@ calendaric
 cadences
 cadencies
 casitas
-choosableness
 cadenette
 corregidores
 crumbers
@@ -2608,6 +2607,7 @@ canfield
 counterstatement
 canfields
 cantillating
+choosableness
 canfuls
 candlewood
 cangan
