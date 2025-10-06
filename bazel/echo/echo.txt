@@ -3365,7 +3365,6 @@ embarkations
 epitomize
 embitterments
 embarks
-equipage
 ep
 exteroceptor
 equilibrium
@@ -11258,6 +11257,7 @@ eozoic
 exorcistical
 evea
 enolization
+equipage
 eolienne
 eveless
 eleutherophyllous
