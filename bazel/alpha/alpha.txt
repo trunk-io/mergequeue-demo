@@ -5199,7 +5199,6 @@ affinities
 allgood
 aeroneurosis
 affinitive
-affirmable
 asiaticism
 antic
 aglee
@@ -21632,6 +21631,7 @@ apotracheal
 azoeosin
 anthropidae
 arnotto
+affirmable
 amount
 areek
 assassinations
