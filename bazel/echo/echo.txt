@@ -437,7 +437,6 @@ erythrocytorrhexis
 ecclesia
 eudiometrical
 eucommia
-erbia
 ergatandry
 ecclesiarch
 ecclesiarchy
@@ -12903,6 +12902,7 @@ enzym
 embryulcia
 elaborative
 encephalopyosis
+erbia
 evicke
 emotion
 exanthema
