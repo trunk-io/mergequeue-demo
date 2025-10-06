@@ -5896,7 +5896,6 @@ depressurize
 disentraced
 dere
 defeatee
-diacritics
 depreter
 decimus
 depriment
@@ -13959,6 +13958,7 @@ distractively
 decorability
 disparadise
 disporum
+diacritics
 daddled
 dunned
 desulphurate
