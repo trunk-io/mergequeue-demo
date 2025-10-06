@@ -2046,7 +2046,6 @@ bladeless
 bulker
 botoyan
 bornan
-bakelize
 bakerdom
 bronchostomy
 besetment
@@ -10216,6 +10215,7 @@ barnstormed
 benj
 bosker
 breechcloth
+bakelize
 birdnester
 bignoniaceae
 briards
