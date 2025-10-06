@@ -4542,7 +4542,6 @@ afterspeech
 archididascalos
 advocating
 advocative
-affectedness
 anaclete
 aftosa
 agee
@@ -24307,6 +24306,7 @@ amblycephalidae
 anorgana
 autoxeny
 amphigen
+affectedness
 antipacifism
 anachronical
 autonegation
