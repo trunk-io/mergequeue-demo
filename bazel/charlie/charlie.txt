@@ -3380,7 +3380,6 @@ chariots
 caprylic
 cymene
 caprylyl
-coat
 caprylone
 chivarro
 chlorophylligerous
@@ -23139,6 +23138,7 @@ constantan
 constantine
 constantinian
 cephidae
+coat
 catechumenate
 canvassed
 clavier
