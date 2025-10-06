@@ -501,7 +501,6 @@ biotypology
 broadway
 besiclometer
 blackacre
-biogenesis
 bier
 begulf
 backstops
@@ -6684,6 +6683,7 @@ bergy
 bergylt
 berginization
 branchipodidae
+biogenesis
 bean
 brittlewood
 baseheartedness
