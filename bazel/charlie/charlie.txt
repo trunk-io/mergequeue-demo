@@ -20430,7 +20430,6 @@ citterns
 crumbliness
 compadre
 conjurison
-compadres
 compage
 clouting
 compagnies
@@ -30960,6 +30959,7 @@ culvers
 culverwort
 cum
 cants
+compadres
 cumay
 confirmand
 currack
