@@ -6810,7 +6810,6 @@ canadine
 cellaress
 chanceable
 caudal
-cellarmen
 cellars
 cellblock
 celled
@@ -10656,6 +10655,7 @@ conflation
 ctenophorous
 chymics
 columboid
+cellarmen
 crazes
 cholerophobia
 counteractive
