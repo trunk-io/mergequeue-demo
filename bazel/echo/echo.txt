@@ -5275,7 +5275,6 @@ eradicators
 estafa
 egeran
 endoskeletons
-endosmic
 evaders
 ethenyl
 emendicate
@@ -11566,6 +11565,7 @@ elasmobranch
 eluviums
 elanus
 electromechanics
+endosmic
 exaestuate
 entozoologically
 exochorion
