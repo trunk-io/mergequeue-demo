@@ -5893,6 +5893,7 @@ butterbur
 bellwether
 bellwort
 belock
+ballpoint
 belomancy
 belonger
 bagonet
@@ -7621,7 +7622,6 @@ boughed
 bewitcher
 butlerdom
 beswitch
-ballpoint
 bocoy
 bryological
 boons
