@@ -8409,6 +8409,7 @@ becalmment
 bredi
 biplanal
 bikeway
+bugged
 bedirter
 bikie
 bailpiece
@@ -12324,7 +12325,6 @@ buglers
 bandurrias
 bourout
 basiliscus
-bugged
 bezzi
 bluebeard
 biophor
