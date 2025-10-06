@@ -8540,7 +8540,6 @@ ethnogeny
 equestrian
 eugenie
 exceptant
-extraparenchymal
 equiaxed
 edificable
 eburnification
@@ -13582,6 +13581,7 @@ expurgates
 electroacoustically
 empedoclean
 emersions
+extraparenchymal
 effossion
 electrotheraputics
 epiphytically
