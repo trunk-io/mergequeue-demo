@@ -5980,7 +5980,6 @@ bemangle
 bemar
 bouncingly
 bevaring
-bemask
 begulfing
 bacillar
 bricktop
@@ -10394,6 +10393,7 @@ bookdom
 bullism
 bowk
 backwoodser
+bemask
 brawer
 blandishing
 blandishments
