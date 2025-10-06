@@ -15200,7 +15200,6 @@ arcadings
 atsara
 acquirer
 antigraph
-acetimetry
 attraction
 aerotactic
 antigravitate
@@ -20709,6 +20708,7 @@ anamnesis
 articulations
 accorded
 arctangent
+acetimetry
 anteroventrally
 amis
 almonry
