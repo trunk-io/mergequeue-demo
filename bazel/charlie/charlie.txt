@@ -11407,6 +11407,7 @@ carib
 chemotroph
 chlorpicrin
 chlorpromazine
+candlebox
 ciboule
 chlorsalol
 confetto
@@ -24554,7 +24555,6 @@ clampdown
 copastor
 councillor
 copastors
-candlebox
 copatentee
 copatriot
 christianizer
