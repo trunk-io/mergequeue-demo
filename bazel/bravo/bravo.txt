@@ -5937,7 +5937,6 @@ basque
 berber
 biggety
 beltane
-bagh
 bimetalic
 belter
 buyouts
@@ -9641,6 +9640,7 @@ beloeilite
 bummer
 babirussa
 bonete
+bagh
 brince
 baptists
 betravel
