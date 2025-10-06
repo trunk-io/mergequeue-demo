@@ -8604,6 +8604,7 @@ bioactivity
 brickset
 bailout
 branchial
+benzol
 belatedly
 beechwoods
 beeswinged
@@ -8864,7 +8865,6 @@ brittonic
 buginvillaea
 brontology
 barfed
-benzol
 balsamiferous
 braeface
 bittier
