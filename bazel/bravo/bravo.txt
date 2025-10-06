@@ -2642,7 +2642,6 @@ blackcock
 barmcloth
 brither
 birdcage
-becoward
 bascules
 barnabas
 bales
@@ -4300,6 +4299,7 @@ bursts
 bechanced
 becharmed
 bellic
+becoward
 birefringent
 bellona
 blackseed
