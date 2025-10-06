@@ -7411,6 +7411,7 @@ cotterite
 ceramicite
 cylindrenchyma
 catdom
+cytophagous
 ceramics
 cledge
 ceramographic
@@ -14898,7 +14899,6 @@ crucibles
 cotemporane
 chancewise
 cytophagic
-cytophagous
 cytopharynx
 coldturkey
 coprozoic
