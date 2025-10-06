@@ -1630,7 +1630,6 @@ eidos
 euphuized
 ethylenes
 epiphloedal
-electrotaxis
 entitative
 endostylar
 enter
@@ -10062,6 +10061,7 @@ ethanediol
 epigramme
 erianthus
 ethanedithiol
+electrotaxis
 excludability
 erythrophyllin
 emulge
