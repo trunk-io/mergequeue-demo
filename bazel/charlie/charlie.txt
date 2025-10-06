@@ -3713,6 +3713,7 @@ caravel
 cliffier
 confuse
 caravels
+compounder
 cosen
 caraway
 caraways
@@ -20900,7 +20901,6 @@ compounded
 cotarnin
 colicine
 carbonyls
-compounder
 comprachico
 comprachicos
 comprador
