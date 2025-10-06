@@ -3981,7 +3981,6 @@ correctify
 carcinemia
 carcinogenesis
 carcinogenic
-conspecifics
 curaris
 cyclicality
 compartmental
@@ -9004,6 +9003,7 @@ cryptal
 charisma
 charismata
 contagiosity
+conspecifics
 chokecherry
 consuete
 contravention
