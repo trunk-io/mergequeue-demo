@@ -1758,7 +1758,6 @@ bandaging
 beisance
 bowlin
 bargeboard
-bandaid
 bergschrund
 bandala
 bandanaed
@@ -8896,6 +8895,7 @@ bioblastic
 backwoodsiness
 bilipyrrhin
 biocenology
+bandaid
 brontolith
 barium
 blankmindedness
