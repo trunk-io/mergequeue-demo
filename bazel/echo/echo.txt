@@ -5729,7 +5729,6 @@ exterritoriality
 eulogias
 embrittle
 ediles
-excl
 englobe
 empressements
 epigraphy
@@ -11297,6 +11296,7 @@ exotropic
 evenforth
 eruciform
 emanatively
+excl
 eathly
 epicureans
 endocrin
