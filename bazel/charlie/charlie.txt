@@ -26006,7 +26006,6 @@ colonization
 corviser
 corvo
 chamade
-corvoid
 corvorant
 cantiga
 corvus
@@ -28389,6 +28388,7 @@ crawdad
 crawdads
 collector
 crawfishing
+corvoid
 corviform
 crawl
 crawled
