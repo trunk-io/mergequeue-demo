@@ -7381,7 +7381,6 @@ eponymy
 earthmoving
 epembryonic
 eyres
-epencephala
 electrosurgery
 embittering
 emprise
@@ -9831,6 +9830,7 @@ enaction
 extreat
 esth
 estherian
+epencephala
 ecbatic
 esthesiogen
 eperotesis
