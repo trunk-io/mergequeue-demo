@@ -15097,7 +15097,6 @@ clabbering
 clayware
 clabbers
 cumbent
-cloth
 clabularium
 clach
 choragy
@@ -25412,6 +25411,7 @@ cornhouse
 cornhusker
 concertati
 cajaputs
+cloth
 chamades
 cornhusking
 coulombic
