@@ -4820,6 +4820,7 @@ carriageway
 carryall
 carrick
 carrycot
+crossflower
 chromatoplasm
 carried
 carryed
@@ -29942,7 +29943,6 @@ crossfired
 craniodidymus
 crossfish
 crossflow
-crossflower
 compatibleness
 crossfoot
 crosshackle
