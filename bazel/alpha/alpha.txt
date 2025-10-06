@@ -8544,7 +8544,6 @@ alkool
 alkoxy
 acervately
 analytical
-alkoxyl
 antilogism
 acrophonies
 antipollution
@@ -15244,6 +15243,7 @@ antigravitate
 alleviator
 apostates
 awalim
+alkoxyl
 antigravitation
 antigravity
 antigrowth
