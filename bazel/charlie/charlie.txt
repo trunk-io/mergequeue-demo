@@ -17406,7 +17406,6 @@ cupbearer
 cobaea
 calcaire
 corbeil
-cobalamin
 centromeric
 comb
 cobalt
@@ -19433,6 +19432,7 @@ colorimeter
 colorimetrically
 colorimetrics
 chemmy
+cobalamin
 colorimetrist
 coelectron
 clothesman
