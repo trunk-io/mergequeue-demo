@@ -125,7 +125,6 @@ codshead
 cabinetmaking
 charruan
 capacitated
-cabinetted
 chordophone
 clitelline
 cpt
@@ -15005,6 +15004,7 @@ calceolately
 citrometer
 citron
 cenobium
+cabinetted
 carbonium
 citronalis
 comparison
