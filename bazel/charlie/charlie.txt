@@ -6796,7 +6796,6 @@ chanceable
 caudal
 cellarmen
 cellars
-chirologies
 cellblock
 celled
 centennium
@@ -31525,6 +31524,7 @@ conveyal
 cursives
 clerkage
 cryptonymic
+chirologies
 chorused
 chromosomes
 cursorary
