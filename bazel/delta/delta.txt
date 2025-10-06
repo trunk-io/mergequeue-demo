@@ -3857,7 +3857,6 @@ dissect
 deerdog
 dewy
 documentation
-deuterons
 damone
 dinobryon
 deprogrammed
@@ -6401,6 +6400,7 @@ daringness
 decolored
 dackering
 deplumation
+deuterons
 daddy
 dragomanic
 drawknife
