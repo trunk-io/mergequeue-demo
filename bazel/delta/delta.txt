@@ -5277,7 +5277,6 @@ distitle
 dirged
 defiant
 donis
-decnet
 dolor
 descanting
 discussive
@@ -15688,6 +15687,7 @@ deoxyribose
 disbuds
 doris
 dicht
+decnet
 disported
 drubbly
 dicyanine
