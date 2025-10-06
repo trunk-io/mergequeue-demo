@@ -930,7 +930,6 @@ emanatory
 exeresis
 eigenvalue
 ecuadorian
-eucyclic
 ecumenicism
 expulser
 ecus
@@ -6622,6 +6621,7 @@ escalates
 earnie
 eperlan
 evertile
+eucyclic
 engramme
 escambron
 enteroischiocele
