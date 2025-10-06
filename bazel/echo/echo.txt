@@ -11760,6 +11760,7 @@ erinite
 enlace
 excave
 extancy
+extensions
 electrostenolysis
 elutes
 exceeded
@@ -13602,7 +13603,6 @@ extensibility
 eposes
 epilemma
 ermelin
-extensions
 eggcup
 expansometer
 embalming
