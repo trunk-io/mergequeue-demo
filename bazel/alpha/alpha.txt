@@ -6475,7 +6475,6 @@ anomura
 acrogynae
 araeometer
 anteceded
-antecessor
 analogist
 athbash
 admedial
@@ -9310,6 +9309,7 @@ amerimnon
 aloof
 anarthrously
 amp
+antecessor
 alopecia
 alphabetiform
 antibacterial
