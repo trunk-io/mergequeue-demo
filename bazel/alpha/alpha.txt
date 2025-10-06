@@ -8404,6 +8404,7 @@ afterloss
 antilipoid
 aljamia
 amurca
+abyss
 atfalati
 attested
 adod
@@ -16396,7 +16397,6 @@ allophones
 ardito
 accentuality
 astrally
-abyss
 antonymous
 asaddle
 altica
