@@ -23069,7 +23069,6 @@ consommes
 chama
 consonancy
 consonant
-cq
 consonantalize
 coralligena
 consonantic
@@ -31489,6 +31488,7 @@ currier
 chirivita
 curryfavour
 campstools
+cq
 curriing
 curricla
 currijong
