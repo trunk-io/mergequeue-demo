@@ -3767,7 +3767,6 @@ epilogs
 estonia
 emeers
 emend
-exscribe
 epistolizing
 electroplax
 ethene
@@ -6621,6 +6620,7 @@ enzymologies
 enterohydrocele
 ecstatical
 evictee
+exscribe
 electrodentistry
 expending
 exurbs
