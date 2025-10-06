@@ -4265,7 +4265,6 @@ delved
 dermatopathology
 dysbarism
 digitigrade
-dysarthria
 delver
 doublewidth
 despises
@@ -5638,6 +5637,7 @@ depilatories
 decerniture
 delineation
 decorates
+dysarthria
 depilitant
 dermatine
 damayanti
