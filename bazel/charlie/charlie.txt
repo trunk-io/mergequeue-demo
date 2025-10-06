@@ -10055,7 +10055,6 @@ chesoun
 catharping
 collab
 chipchap
-chessdom
 chesser
 cabinda
 chesses
@@ -30155,6 +30154,7 @@ crownet
 cantilevering
 crownets
 caprinic
+chessdom
 crownlike
 cuminol
 crownmaker

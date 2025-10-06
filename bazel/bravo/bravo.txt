@@ -1769,6 +1769,7 @@ bialystoker
 bandaging
 beisance
 bowlin
+bargeboard
 bandaid
 bergschrund
 bandala
@@ -6705,7 +6706,6 @@ boneshave
 bodegon
 beribanded
 birdy
-bargeboard
 brig
 barbarious
 beriberis
