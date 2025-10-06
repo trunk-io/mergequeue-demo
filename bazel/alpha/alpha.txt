@@ -2352,7 +2352,6 @@ acetoveratrone
 acinaciform
 amorism
 adipoid
-acinar
 aruke
 almistry
 aulostomus
@@ -16488,6 +16487,7 @@ akaniaceae
 autodiffusion
 apolarity
 apaid
+acinar
 allochetia
 asonant
 arpeggios
