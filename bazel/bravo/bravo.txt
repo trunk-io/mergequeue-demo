@@ -10209,7 +10209,6 @@ bitreadle
 boussingaultite
 blackguard
 bos
-beelzebub
 buckshee
 benzenyl
 blackguardry
@@ -11105,6 +11104,7 @@ broil
 blere
 bandgap
 blockmaker
+beelzebub
 bimmeler
 beladle
 bashawship
