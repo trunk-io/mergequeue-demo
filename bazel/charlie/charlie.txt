@@ -4962,7 +4962,6 @@ cartogram
 cartography
 cypseli
 cartographic
-cartographical
 cry
 circulet
 carton
@@ -15096,6 +15095,7 @@ civitan
 cuffless
 coxalgic
 civitas
+cartographical
 civite
 caridomorpha
 chinchasuyu
