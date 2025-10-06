@@ -3290,7 +3290,6 @@ deprecated
 dilatant
 depurge
 deliriate
-diastem
 desisted
 domesticable
 defoliant
@@ -16525,6 +16524,7 @@ denar
 drivebolt
 daza
 draft
+diastem
 denuclearizing
 dragee
 disputed
