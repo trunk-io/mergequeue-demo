@@ -3703,7 +3703,6 @@ bielded
 barasingha
 buncombe
 bimarine
-basialveolar
 breakermen
 bobflies
 battute
@@ -14470,6 +14469,7 @@ beent
 bowralite
 burkha
 banqueters
+basialveolar
 bursal
 buttonhole
 brainwave
