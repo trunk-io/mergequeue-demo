@@ -371,7 +371,6 @@ background
 briseis
 backhand
 beggardom
-backhandedness
 brinjarry
 balkily
 brewery
@@ -1978,6 +1977,7 @@ bidactyl
 bloodstones
 birded
 bankcard
+backhandedness
 bethought
 banknote
 bristly
