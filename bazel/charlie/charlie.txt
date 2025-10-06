@@ -16736,7 +16736,6 @@ cloverleaves
 cloverley
 cycadophyte
 cloverroot
-catarrhina
 comitatus
 clovewort
 castling
@@ -20374,6 +20373,7 @@ commute
 catoquina
 cacography
 charadrioid
+catarrhina
 condolement
 commuters
 commutes
