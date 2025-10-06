@@ -5287,7 +5287,6 @@ admonitions
 achromatise
 azophenetole
 afforested
-afforesting
 arabitol
 adenoneure
 affrayers
@@ -11225,6 +11224,7 @@ auspiciously
 ascorbate
 algebar
 amphigories
+afforesting
 appenders
 alestake
 allthing
