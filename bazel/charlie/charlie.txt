@@ -8189,6 +8189,7 @@ checkoff
 chairmender
 cottontop
 chashitsu
+curdler
 chairpersons
 cuissen
 chairway
@@ -14435,7 +14436,6 @@ clicky
 circumvest
 circumvoisin
 circumvolution
-curdler
 circumvolve
 circumvolved
 circumzenithal
