@@ -1096,7 +1096,6 @@ calciobiotite
 crownband
 calcioferrite
 ceratobranchial
-calcioscheelite
 calciovolborthite
 calciphylactic
 calciphylaxis
@@ -1566,6 +1565,7 @@ conductimetric
 coloss
 calloused
 callouses
+calcioscheelite
 contraprogressist
 chronostichon
 cyanidine
