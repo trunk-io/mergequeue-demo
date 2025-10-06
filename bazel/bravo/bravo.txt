@@ -8076,7 +8076,6 @@ bicultural
 broodiness
 biometrics
 breacher
-bellypinch
 breathing
 blowhole
 borshts
@@ -10124,6 +10123,7 @@ backswordman
 blabmouth
 beamish
 behave
+bellypinch
 blackamoors
 blair
 befrets
