@@ -3656,7 +3656,6 @@ anlaute
 adenotome
 adenous
 adeona
-alinotum
 attenuative
 argoan
 amies
@@ -18930,6 +18929,7 @@ azogallein
 anutraminosa
 acrosticheae
 astrophysical
+alinotum
 astucity
 androginous
 arborise
