@@ -8152,7 +8152,6 @@ chainlike
 confrontal
 chainmaker
 chiropodist
-chainman
 chainmen
 cultists
 campanulaceous
@@ -16001,6 +16000,7 @@ covado
 creepered
 cleromancy
 canniness
+chainman
 clerstory
 clansmen
 cyamelid
