@@ -6361,6 +6361,7 @@ benzalethylamine
 benzalphenylhydrazone
 ballet
 benzamide
+bicephalic
 benzoxate
 badgerbrush
 benzamine
@@ -7056,7 +7057,6 @@ bowingly
 balnea
 bludgeons
 brothel
-bicephalic
 balsamous
 bibbling
 blepharedema
