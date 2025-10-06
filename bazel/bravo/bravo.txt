@@ -1980,7 +1980,6 @@ bidactyl
 bloodstones
 birded
 bankcard
-bethought
 banknote
 bristly
 biophysicist
@@ -14682,6 +14681,7 @@ brash
 brasher
 brashiest
 bunches
+bethought
 brashiness
 blepharoadenitis
 bookplates
