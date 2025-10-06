@@ -5562,7 +5562,6 @@ agapae
 arms
 axbreaker
 autotoxis
-austromancy
 alloiometry
 acoelomatous
 agade
@@ -11222,6 +11221,7 @@ artworks
 annual
 anchory
 atchison
+austromancy
 ahem
 amphimictic
 arcking
