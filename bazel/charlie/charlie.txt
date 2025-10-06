@@ -8787,7 +8787,6 @@ clothesbasket
 corrugators
 cuppa
 crips
-chapote
 crambid
 collimators
 cave
@@ -14875,6 +14874,7 @@ cytolist
 cytolytic
 chian
 cytologic
+chapote
 cytologically
 cylindriform
 cussedness
