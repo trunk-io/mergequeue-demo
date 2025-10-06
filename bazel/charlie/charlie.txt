@@ -9493,6 +9493,7 @@ clavola
 checkers
 cabbalah
 carpodacus
+centerboards
 cardanic
 capos
 checkhook
@@ -30592,7 +30593,6 @@ cuboid
 caldera
 cellarette
 catspaws
-centerboards
 cuboides
 casanovas
 cuboids
