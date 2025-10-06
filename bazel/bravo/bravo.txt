@@ -11681,7 +11681,6 @@ biggin
 bosket
 blepharocarcinoma
 boatage
-barspoon
 boatbuilding
 boathouse
 backbends
@@ -16833,6 +16832,7 @@ bunkhouses
 blockhole
 buddleias
 brainstem
+barspoon
 bicarbonate
 begari
 bagasse
