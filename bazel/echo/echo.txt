@@ -1062,7 +1062,6 @@ embase
 endothelial
 emplaster
 epistolic
-elective
 earock
 edificatory
 ethenoidal
@@ -4662,6 +4661,7 @@ encyclopedic
 entoderm
 envenomization
 ebauche
+elective
 erpetology
 exacerbating
 ecphova
