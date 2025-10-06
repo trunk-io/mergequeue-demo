@@ -7195,7 +7195,6 @@ euphonym
 ensample
 evenlight
 empaper
-epigonus
 eyeletter
 ejidos
 enderon
@@ -10734,6 +10733,7 @@ exercitant
 extemporaneity
 erythrogenesis
 examiners
+epigonus
 effector
 encompass
 embryomas
