@@ -2345,7 +2345,6 @@ deciliter
 druidry
 doodads
 dispelled
-doucepere
 decima
 decimalism
 dueling
@@ -4958,6 +4957,7 @@ deposed
 decussion
 draped
 dacoited
+doucepere
 dealfish
 dist
 delustered
