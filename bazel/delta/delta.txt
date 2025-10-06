@@ -2099,7 +2099,6 @@ denaro
 decanting
 digitized
 diabolology
-drawspan
 downtime
 disturbs
 diosmosis
@@ -10035,6 +10034,7 @@ dynamitard
 dynamitic
 dowve
 denitrify
+drawspan
 diana
 dermatosclerosis
 diocoel
