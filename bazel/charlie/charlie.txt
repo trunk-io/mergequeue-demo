@@ -2652,7 +2652,6 @@ clingfish
 capo
 canker
 cankerberry
-cankerbird
 ctenodus
 corbie
 carriable
@@ -9305,6 +9304,7 @@ chaus
 cabbalistical
 cataian
 concessions
+cankerbird
 cyclamin
 constatory
 canaliculization
