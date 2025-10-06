@@ -403,7 +403,6 @@ esoneural
 enchased
 exposits
 ebulliometer
-exacerbation
 ergometer
 ebullioscopic
 eviscerations
@@ -1154,6 +1153,7 @@ enscroll
 entertainers
 ensweep
 educational
+exacerbation
 estimation
 eroded
 echopraxia
