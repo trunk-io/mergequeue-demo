@@ -2532,6 +2532,7 @@ busing
 busbar
 bowable
 bears
+boeing
 bridgelike
 bandaged
 bellon
@@ -4586,7 +4587,6 @@ bullrushes
 bedplate
 bedemen
 bens
-boeing
 barge
 basigamy
 basiglandular
