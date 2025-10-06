@@ -4888,7 +4888,6 @@ extrabureau
 english
 evolves
 escortment
-esophagogastroscopy
 emplacements
 ephyrula
 excysted
@@ -11315,6 +11314,7 @@ erpetoichthys
 escaladed
 extrinsical
 eden
+esophagogastroscopy
 exodontics
 embanking
 eventualize
