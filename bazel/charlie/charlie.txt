@@ -7636,7 +7636,6 @@ centralizer
 covent
 circue
 correlatable
-confinements
 ceremony
 ceremonial
 chiquero
@@ -17273,6 +17272,7 @@ corpulency
 coalless
 coalmouse
 commentaries
+confinements
 counterdrain
 calliopean
 calve
