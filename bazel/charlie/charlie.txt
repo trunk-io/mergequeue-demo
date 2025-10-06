@@ -26605,7 +26605,6 @@ couldn
 couldst
 coulee
 coulees
-coulie
 coulisses
 couloir
 copperas
@@ -28396,6 +28395,7 @@ contributing
 chalicotherium
 crawlers
 crawlier
+coulie
 crawliest
 crawlsome
 crawlspace
