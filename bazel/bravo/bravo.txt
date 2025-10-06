@@ -2371,7 +2371,6 @@ biocoenoses
 blastular
 bronteana
 bardulph
-berigora
 bagpipes
 benzamido
 baze
@@ -4680,6 +4679,7 @@ bedkey
 bugweed
 bandpass
 braved
+berigora
 brownwort
 bevel
 bedlamised
