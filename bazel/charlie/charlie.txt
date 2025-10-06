@@ -4703,7 +4703,6 @@ choenix
 carpetbags
 coragio
 counterearth
-colubrid
 ciboria
 chemoresistance
 concertment
@@ -16331,6 +16330,7 @@ crenelates
 cliquishly
 cliquism
 czardases
+colubrid
 circumspectness
 clisere
 cullibility
