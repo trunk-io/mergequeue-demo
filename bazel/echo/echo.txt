@@ -7251,7 +7251,6 @@ elapinae
 eurythermous
 eutaxitic
 eulogises
-euktolite
 extradoses
 eorhyolite
 eos
@@ -11712,6 +11711,7 @@ elaphrium
 entodermal
 enqueues
 euryon
+euktolite
 exaudi
 esselen
 exaun
