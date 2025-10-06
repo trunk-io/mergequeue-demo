@@ -2896,6 +2896,7 @@ battalias
 bigeyes
 bennettitaceous
 barrets
+brewhouse
 blindeyes
 blobby
 bedrivel
@@ -15154,7 +15155,6 @@ baldicoot
 bronchotyphoid
 band
 brewership
-brewhouse
 bonesetting
 blackwashing
 blockaderunning
