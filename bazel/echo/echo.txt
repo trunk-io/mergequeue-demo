@@ -5704,7 +5704,6 @@ episyllogism
 engilding
 empirism
 euphuistical
-embryogenic
 evoked
 equivocatory
 exulceratory
@@ -6153,6 +6152,7 @@ enneandrian
 ecaudata
 etherealizing
 equiparant
+embryogenic
 eschatologist
 empyromancy
 enneandrous
