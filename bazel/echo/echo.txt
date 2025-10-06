@@ -647,6 +647,7 @@ ectoskeleton
 eucryphia
 egoist
 ebriated
+encrypt
 ettercap
 emesis
 electic
@@ -8843,7 +8844,6 @@ egyptologic
 entozoology
 espressivo
 eyeservant
-encrypt
 extrastapedial
 emptive
 enterocystoma
