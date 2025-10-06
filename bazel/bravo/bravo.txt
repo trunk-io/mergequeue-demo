@@ -3836,6 +3836,7 @@ brachyskelic
 bullaria
 boughten
 bazars
+bugbears
 brockage
 bazooka
 blunge
@@ -11811,7 +11812,6 @@ boccarella
 bodings
 bobsleding
 bocce
-bugbears
 beefheaded
 boilerhouse
 beared
