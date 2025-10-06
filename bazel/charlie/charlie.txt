@@ -2570,7 +2570,6 @@ cane
 cliffing
 canebrake
 cardioschisis
-corkiness
 cementmaking
 canebrakes
 cowskins
@@ -13821,6 +13820,7 @@ carrageen
 cochromatography
 cinematically
 cinematograph
+corkiness
 cinematography
 clarenceuxship
 caving
