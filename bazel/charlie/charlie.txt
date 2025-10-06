@@ -733,7 +733,6 @@ capacitations
 crimpiness
 corners
 cages
-colonelship
 cagester
 crowdedly
 cogrediency
@@ -15348,6 +15347,7 @@ critter
 calluses
 chronographical
 chalcotript
+colonelship
 clanjamphrey
 clank
 clanked
