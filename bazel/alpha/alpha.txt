@@ -6485,7 +6485,6 @@ auksinu
 awk
 achirite
 anomiidae
-athenaea
 astronaut
 aidman
 apothecal
@@ -14182,6 +14181,7 @@ affections
 amani
 antepectus
 animalish
+athenaea
 agatine
 anaces
 anthroponomical
