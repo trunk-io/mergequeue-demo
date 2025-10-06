@@ -6152,6 +6152,7 @@ bytes
 benedictionary
 bucolical
 briolet
+blas
 bromoiodid
 burnish
 benedictions
@@ -15438,7 +15439,6 @@ biscotin
 bandannaed
 bertha
 bechauffeur
-blas
 brigous
 bichir
 babajaga
