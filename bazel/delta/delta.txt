@@ -1187,7 +1187,6 @@ disemprison
 datasetname
 dithers
 datcha
-dibber
 disclamation
 demiassignation
 dhow
@@ -14380,6 +14379,7 @@ dhoul
 deindividuate
 discos
 dambose
+dibber
 doctus
 depreciatory
 diversory
