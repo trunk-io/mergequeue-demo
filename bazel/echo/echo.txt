@@ -9540,7 +9540,6 @@ electroviscous
 exacted
 evacuees
 eyesalve
-endosmotic
 embryulci
 enchytraeidae
 ethic
@@ -10603,6 +10602,7 @@ equivalencies
 epinephrine
 eyeteeth
 empurpling
+endosmotic
 excusingly
 extratribal
 eastlake
