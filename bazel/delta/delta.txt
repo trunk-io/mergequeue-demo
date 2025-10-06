@@ -5811,6 +5811,7 @@ dispraise
 disconcert
 deprecative
 dissolvable
+delibate
 deprecator
 deprecatory
 deoxidised
@@ -6686,7 +6687,6 @@ didunculus
 date
 designatum
 designedness
-delibate
 designment
 destitutely
 dewar
