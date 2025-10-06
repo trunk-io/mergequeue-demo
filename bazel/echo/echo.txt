@@ -1380,6 +1380,7 @@ endpiece
 epithet
 epipodialia
 erythrocytolytic
+endosiphuncle
 espoused
 ethnicon
 exaggeratory
@@ -4728,7 +4729,6 @@ episporium
 elementary
 effulgent
 exemplificator
-endosiphuncle
 emeerates
 enfigure
 exhorting
