@@ -9921,7 +9921,6 @@ chequebook
 croup
 corbeilles
 chequer
-chequered
 chequers
 creosoted
 chalukya
@@ -21361,6 +21360,7 @@ coassession
 chaperoning
 clast
 cupped
+chequered
 conciliabulum
 conciliarism
 conciliarly
