@@ -18975,7 +18975,6 @@ colladas
 canon
 crematoria
 collage
-collagenase
 collagenic
 collagenous
 cardholder
@@ -21141,6 +21140,7 @@ conalbumin
 conamarin
 communard
 cramoisie
+collagenase
 cornfed
 conand
 connivence
