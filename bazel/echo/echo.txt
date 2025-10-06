@@ -1132,7 +1132,6 @@ edrioasteroidea
 exite
 edriophthalmatous
 educand
-educatability
 eident
 educatable
 educatedness
@@ -4643,6 +4642,7 @@ electrochemically
 enwoman
 encyclopediacal
 eremital
+educatability
 eustyle
 exceptionability
 emplacement
