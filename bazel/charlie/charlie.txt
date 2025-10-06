@@ -7158,6 +7158,7 @@ centred
 caisse
 chernozem
 centreless
+coffered
 cupping
 centrepiece
 canephoroe
@@ -27370,7 +27371,6 @@ courbaril
 cinquains
 courbe
 clanjamfrey
-coffered
 courbette
 courbettes
 carcaneted
