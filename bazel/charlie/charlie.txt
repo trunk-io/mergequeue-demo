@@ -15937,6 +15937,7 @@ clergyable
 cotoneaster
 clergylike
 cyclos
+cling
 cabildos
 clergion
 clergywoman
@@ -26389,7 +26390,6 @@ corruption
 chrysanilin
 coted
 clarinda
-cling
 cans
 cotele
 curlers
