@@ -1057,7 +1057,6 @@ darters
 dartled
 dedecorate
 diaschistic
-dummy
 defuses
 defender
 dartling
@@ -15556,6 +15555,7 @@ doorless
 debord
 disrobing
 destinate
+dummy
 doormaid
 dietist
 doormaker
