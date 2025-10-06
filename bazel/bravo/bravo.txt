@@ -8450,6 +8450,7 @@ bocage
 balolo
 bilaminar
 blart
+balancewise
 burblier
 bemusement
 boogeyman
@@ -10971,7 +10972,6 @@ begrudgingly
 blinker
 bubingas
 bootyless
-balancewise
 bougee
 bitterful
 barretors
