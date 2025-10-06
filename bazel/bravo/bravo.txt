@@ -4057,7 +4057,6 @@ botulinum
 bootless
 bearding
 beards
-bevel
 birthroot
 boehmenist
 bastardly
@@ -4678,6 +4677,7 @@ bugweed
 bandpass
 braved
 brownwort
+bevel
 bedlamised
 bottlers
 bungalow
