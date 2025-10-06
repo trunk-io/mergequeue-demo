@@ -2825,6 +2825,7 @@ communitorium
 canonicate
 countercharge
 cipherer
+chupak
 croconic
 cornbin
 contermine
@@ -21931,7 +21932,6 @@ capability
 cherried
 creodont
 conferred
-chupak
 conferrence
 cornerbind
 camalig
