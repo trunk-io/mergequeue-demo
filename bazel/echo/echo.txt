@@ -5408,7 +5408,6 @@ enrollees
 electronvolt
 enrolled
 endowment
-ectene
 elamp
 excantation
 earthtongue
@@ -11627,6 +11626,7 @@ eschewer
 enscrolled
 endochrome
 equivocacies
+ectene
 evadible
 ethoxyls
 exotism
