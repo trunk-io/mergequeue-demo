@@ -1817,7 +1817,6 @@ declaratory
 dopesheet
 dorsale
 dorsiventrally
-deblaterate
 defenser
 deblock
 disappointer
@@ -4913,6 +4912,7 @@ demote
 demoted
 dorhawks
 daphnean
+deblaterate
 demotes
 disomus
 dogsled
