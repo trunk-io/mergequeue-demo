@@ -4879,6 +4879,7 @@ epicele
 eggers
 encumbrance
 eelblenny
+endemiology
 extrabureau
 english
 evolves
@@ -11839,7 +11840,6 @@ expurgation
 ephidrosis
 excerebration
 extraphysical
-endemiology
 euascomycetes
 epistolographic
 eudaemonistically
