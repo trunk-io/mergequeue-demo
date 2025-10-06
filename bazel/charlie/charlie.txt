@@ -9799,7 +9799,6 @@ curua
 chelingas
 chelingos
 cheliped
-crossbelt
 chelys
 cydon
 cheloids
@@ -13882,6 +13881,7 @@ clodhead
 cingalese
 cracowe
 cortinae
+crossbelt
 cynghanedd
 catalysis
 crystalligerous
