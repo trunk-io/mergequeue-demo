@@ -19315,6 +19315,7 @@ colonisable
 clinid
 clancular
 consumingness
+coelomate
 colletside
 colonise
 chautauqua
@@ -20760,7 +20761,6 @@ complicacy
 ceramiaceae
 cyanidrosis
 complicant
-coelomate
 complicate
 complicated
 colent
