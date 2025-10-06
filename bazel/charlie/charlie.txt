@@ -8392,7 +8392,6 @@ colloquist
 calyciferous
 cpl
 comport
-chambrays
 chambranle
 caressive
 confected
@@ -29922,6 +29921,7 @@ crossbow
 cibation
 clogwheel
 crossbows
+chambrays
 culgee
 cladoselache
 crossbreds
