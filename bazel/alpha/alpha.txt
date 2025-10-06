@@ -20944,7 +20944,6 @@ amortisseur
 aranzada
 ascendancy
 amsel
-ascendence
 arthrocele
 atimon
 avenant
@@ -25277,6 +25276,7 @@ azines
 antapices
 azlon
 anorthophyre
+ascendence
 ambrosin
 abstracters
 argyropelecus
