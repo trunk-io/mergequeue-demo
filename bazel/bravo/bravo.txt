@@ -6857,7 +6857,6 @@ bitnet
 batten
 bismuthinite
 bedare
-berthed
 birdeye
 berther
 bradypodoid
@@ -7717,6 +7716,7 @@ bouchette
 backfilling
 bezzo
 bhabar
+berthed
 belemnites
 blaine
 bacchanalization
