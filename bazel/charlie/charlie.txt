@@ -19539,7 +19539,6 @@ consistences
 convenientness
 colpoplasty
 chromogenetic
-colpoptosis
 colporrhagia
 colporrhaphy
 cleistothecia
@@ -27296,6 +27295,7 @@ closelipped
 caravanner
 counterpoles
 crucifige
+colpoptosis
 crebrity
 colopuncture
 cassique
