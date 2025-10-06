@@ -7309,7 +7309,6 @@ cephalization
 cephaloauricular
 cephalobranchiata
 chelicera
-cerusites
 choregy
 carneys
 confidentiary
@@ -19979,6 +19978,7 @@ corbeling
 commandeers
 chromolithographer
 coenenchyme
+cerusites
 commandery
 commanding
 changeover
