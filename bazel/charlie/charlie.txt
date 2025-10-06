@@ -12647,7 +12647,6 @@ candlepin
 coalbin
 chubby
 cayuco
-cimier
 colorless
 cteninidia
 conducing
@@ -18197,6 +18196,7 @@ carapache
 coerected
 coerecting
 cancerin
+cimier
 counterleague
 cutset
 chancelry
