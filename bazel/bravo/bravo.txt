@@ -8124,7 +8124,6 @@ binocularity
 beslubber
 bruxisms
 besieging
-bidiagonal
 bidimensional
 believeth
 bosset
@@ -16162,6 +16161,7 @@ ban
 bloodstain
 breccia
 boltstrake
+bidiagonal
 breves
 boughless
 balklines
