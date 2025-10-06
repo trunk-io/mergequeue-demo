@@ -1202,7 +1202,6 @@ datebook
 dilacerated
 dipneustal
 dibstones
-damped
 disembarkation
 defecating
 dogtrotted
@@ -14344,6 +14343,7 @@ durdenite
 divarication
 dolicholus
 dn
+damped
 divaricator
 deplumes
 divast
