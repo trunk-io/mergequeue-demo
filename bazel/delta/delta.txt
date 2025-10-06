@@ -9190,6 +9190,7 @@ drawcard
 drys
 dossils
 demidoctor
+deadtongue
 dionaea
 diencephala
 displaceability
@@ -11690,7 +11691,6 @@ diplococcoid
 dollarleaf
 delabialize
 duny
-deadtongue
 dosserets
 deinodon
 discriminating
