@@ -2829,7 +2829,6 @@ erythrocatalysis
 epedaphic
 electroosmosis
 elder
-endoskeleton
 epitympa
 effable
 eleutherophobia
@@ -14142,6 +14141,7 @@ ephemerality
 enseraph
 effervescence
 emulates
+endoskeleton
 enlard
 entocuneiform
 excussion
