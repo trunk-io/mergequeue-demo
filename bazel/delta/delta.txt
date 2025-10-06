@@ -394,6 +394,7 @@ daimiote
 deployable
 disembargoing
 dimmet
+dissavs
 daimons
 decandrous
 ditches
@@ -13455,7 +13456,6 @@ deticks
 disproperty
 demonomy
 drugger
-dissavs
 drumbeater
 dissceptered
 dislike
