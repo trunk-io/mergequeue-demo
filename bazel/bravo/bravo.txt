@@ -7627,6 +7627,7 @@ boons
 bewitchingness
 bewitchment
 baobabs
+booklice
 bewizard
 booths
 blandished
@@ -11238,7 +11239,6 @@ bloopers
 burls
 begumming
 baseplug
-booklice
 blooth
 blosmy
 butled
