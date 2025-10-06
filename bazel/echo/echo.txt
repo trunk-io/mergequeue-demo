@@ -791,7 +791,6 @@ engraver
 erratums
 ectocoelic
 ectocommensal
-engolden
 ectocondylar
 endophytic
 efficient
@@ -7381,6 +7380,7 @@ eyres
 epencephala
 electrosurgery
 embittering
+engolden
 emprise
 elatcha
 ethidene
