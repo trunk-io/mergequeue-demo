@@ -10260,7 +10260,6 @@ bureaux
 bootstraps
 brownness
 blackleg
-blacklegged
 battlers
 betattering
 buri
@@ -16500,6 +16499,7 @@ buckra
 bearbaiter
 bricker
 borasque
+blacklegged
 braggest
 bruskness
 bozal
