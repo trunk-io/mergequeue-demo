@@ -6921,7 +6921,6 @@ beggarman
 beseech
 bescreening
 beseige
-bescribble
 botchers
 bescutcheon
 bondservant
@@ -12124,6 +12123,7 @@ bosey
 bedell
 birne
 bradycardic
+bescribble
 biglenoid
 bolboxalis
 bediapers
