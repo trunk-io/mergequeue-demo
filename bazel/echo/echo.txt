@@ -4919,6 +4919,7 @@ extradictable
 endamoebas
 endamoebidae
 expertised
+exclude
 elytroptosis
 epithets
 eyeless
@@ -8952,7 +8953,6 @@ exteroceptive
 erythematic
 endogenesis
 endoplasm
-exclude
 ericas
 ericetal
 exothecium
