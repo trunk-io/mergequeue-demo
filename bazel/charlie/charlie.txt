@@ -14724,7 +14724,6 @@ cistus
 clothier
 citable
 cairns
-cordmaker
 calcarium
 cital
 countersynod
@@ -24811,6 +24810,7 @@ contriturate
 cheechakos
 coroscopy
 coffeeweed
+cordmaker
 clamoured
 coservant
 cohobates
