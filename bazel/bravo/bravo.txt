@@ -4877,6 +4877,7 @@ blab
 broadhead
 backspeer
 bomarea
+bullsnake
 beechwood
 bright
 belaud
@@ -5835,7 +5836,6 @@ balinger
 bellicist
 bromometry
 boxcar
-bullsnake
 bikeways
 baulkiest
 banded
