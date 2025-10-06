@@ -215,7 +215,6 @@ bradyesthesia
 biotechnics
 banditries
 beslimed
-brainpower
 biofog
 blaring
 bandicoot
@@ -3971,6 +3970,7 @@ butcheries
 beaked
 beakerman
 bellite
+brainpower
 beakermen
 bishopdom
 bechirp
