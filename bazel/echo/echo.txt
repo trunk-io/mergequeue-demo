@@ -5204,7 +5204,6 @@ epidotes
 empathizing
 endosalpingitis
 endolymphatic
-ectobatic
 eskers
 expirer
 ergotize
@@ -12311,6 +12310,7 @@ eryon
 eddyroot
 exhaustiveness
 earlock
+ectobatic
 elegances
 exceptiveness
 electrotonicity
