@@ -5769,7 +5769,6 @@ dowel
 divestible
 deficit
 dislimns
-doghouse
 dislodgement
 deposits
 dulcitol
@@ -12405,6 +12404,7 @@ disyllabized
 discontinuations
 dogfennel
 diamondback
+doghouse
 disconform
 disdeceive
 decimalize
