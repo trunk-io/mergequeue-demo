@@ -8890,7 +8890,6 @@ binomials
 blackbody
 blunthead
 bikinied
-bombycids
 bedchamber
 bible
 bejewels
@@ -14412,6 +14411,7 @@ blacktopped
 brayette
 blanches
 brailles
+bombycids
 blolly
 birdcraft
 bockey
