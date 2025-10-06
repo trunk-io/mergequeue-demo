@@ -2450,7 +2450,6 @@ dryest
 declaim
 dichorisandra
 declining
-declaimer
 dilaters
 dendrochronology
 drysaltery
@@ -6761,6 +6760,7 @@ docklands
 duricrust
 diaconate
 dingoes
+declaimer
 depressibility
 desize
 decompositional
