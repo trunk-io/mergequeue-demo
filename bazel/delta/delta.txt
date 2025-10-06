@@ -1705,7 +1705,6 @@ deaths
 dhaura
 dialiness
 deathsman
-declinedness
 discrepating
 dumble
 deathtime
@@ -6905,6 +6904,7 @@ dorcas
 dispatcher
 despisableness
 downfalls
+declinedness
 dumfounderment
 despiser
 darb
