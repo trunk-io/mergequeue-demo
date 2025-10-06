@@ -7709,7 +7709,6 @@ emergents
 englify
 enslaved
 exactment
-ensure
 emendable
 entelam
 exoergic
@@ -10209,6 +10208,7 @@ elytriform
 embossman
 eutectoid
 etesian
+ensure
 epanodos
 eulachon
 exantlate
