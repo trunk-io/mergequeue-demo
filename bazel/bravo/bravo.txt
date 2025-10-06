@@ -3899,7 +3899,6 @@ bawtie
 bestsellers
 behavers
 bespy
-beaching
 beachman
 buenas
 berchta
@@ -6120,6 +6119,7 @@ burnets
 bendee
 buries
 brumstone
+beaching
 bibliographical
 barbiturates
 bendees
