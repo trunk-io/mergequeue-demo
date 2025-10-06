@@ -1231,7 +1231,6 @@ backropes
 bardie
 balanceable
 buckskinned
-baryonic
 bluejays
 boreades
 boater
@@ -7534,6 +7533,7 @@ bebothered
 businessman
 bevillain
 brachigerous
+baryonic
 befell
 beatless
 borism
