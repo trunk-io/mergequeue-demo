@@ -2556,7 +2556,6 @@ camphires
 censuses
 cyclotrons
 cane
-cd
 cliffing
 canebrake
 cardioschisis
@@ -10293,6 +10292,7 @@ chicken
 chainsmen
 chartographist
 chickenberry
+cd
 counterpole
 citoyens
 chickenbreasted
