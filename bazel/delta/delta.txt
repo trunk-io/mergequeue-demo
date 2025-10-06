@@ -3379,6 +3379,7 @@ duelists
 damp
 defluent
 dragoon
+delegated
 debyes
 dictyoxylon
 dawdling
@@ -3700,7 +3701,6 @@ depot
 droplike
 domitic
 duboisine
-delegated
 disprove
 dehydrate
 dehkan
