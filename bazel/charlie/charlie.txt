@@ -15191,7 +15191,6 @@ condecent
 crumbled
 clag
 clagged
-claggy
 claggum
 cantala
 commandries
@@ -31247,6 +31246,7 @@ curaghs
 cimeliarch
 coenospecific
 curarines
+claggy
 crossbanded
 curarization
 chattily
