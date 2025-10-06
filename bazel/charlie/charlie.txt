@@ -3984,6 +3984,7 @@ correctify
 carcinemia
 carcinogenesis
 carcinogenic
+conspecifics
 curaris
 carcinoid
 cyclicality
@@ -5238,7 +5239,6 @@ crawthumper
 cokeman
 creatrix
 conditioners
-conspecifics
 cassandras
 cassare
 coachwood
