@@ -6210,7 +6210,6 @@ authorized
 agrammatologia
 allocate
 annattos
-ahab
 americaward
 agraphic
 aylet
@@ -15425,6 +15424,7 @@ aspectual
 armine
 asparkle
 antimodern
+ahab
 autosymbiontic
 antimodernistic
 arbalister
