@@ -8230,7 +8230,6 @@ charvet
 chalcanth
 copernicus
 chalcedony
-cusconine
 calabrasella
 chalcedonyx
 chalchuite
@@ -8915,6 +8914,7 @@ crutches
 caramboled
 charcoaly
 collecting
+cusconine
 charcoaling
 cryptologic
 cystomata
