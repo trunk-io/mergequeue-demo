@@ -4076,6 +4076,7 @@ botulinum
 bootless
 bearding
 beards
+bevel
 birthroot
 boehmenist
 bastardly
@@ -10706,7 +10707,6 @@ bewash
 belt
 bonebreaker
 blearyeyedness
-bevel
 begarnish
 blearing
 blearness
