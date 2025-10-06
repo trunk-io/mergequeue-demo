@@ -630,7 +630,6 @@ caenozoic
 chera
 cero
 caeomas
-clara
 cataclasis
 centauridium
 coynye
@@ -3254,6 +3253,7 @@ chromatographic
 colourability
 calcino
 capitulate
+clara
 communicableness
 capitulates
 capitulator
