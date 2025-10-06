@@ -1884,7 +1884,6 @@ benzoxycamphor
 basilicae
 bandyball
 beforetime
-bandsawn
 bandsman
 brigands
 boronia
@@ -9941,6 +9940,7 @@ bassinets
 biffin
 bitterer
 broth
+bandsawn
 banba
 babasco
 bitterheartedness
