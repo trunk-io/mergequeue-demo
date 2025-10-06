@@ -4715,6 +4715,7 @@ expensed
 encircle
 embrowned
 emittent
+erase
 elds
 elocutive
 entryway
@@ -8548,7 +8549,6 @@ epichoristic
 equative
 electre
 epigeous
-erase
 equatorward
 enteroceptor
 equiponderancy
