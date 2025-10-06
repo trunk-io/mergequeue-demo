@@ -7109,7 +7109,6 @@ batara
 bannerette
 briquetting
 bloodworthy
-bonspell
 bespeak
 bodyless
 biggings
@@ -14491,6 +14490,7 @@ businesslike
 blackbeetle
 bingee
 bathochromic
+bonspell
 breeds
 beent
 bowralite
