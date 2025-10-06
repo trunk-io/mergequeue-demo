@@ -2652,7 +2652,6 @@ crookedbacked
 clingfish
 capo
 canker
-cankerberry
 ctenodus
 corbie
 carriable
@@ -26918,6 +26917,7 @@ counterimpulse
 counterindented
 counterindication
 countermining
+cankerberry
 counterinfluence
 counterinsurgency
 counterinterest
