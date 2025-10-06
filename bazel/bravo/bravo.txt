@@ -12492,7 +12492,6 @@ bondship
 bondslave
 bondsman
 blueys
-braeman
 burgeoned
 bondsmen
 bonify
@@ -14424,6 +14423,7 @@ brewers
 blaw
 brucines
 beacon
+braeman
 braining
 baken
 brothellike
