@@ -10640,7 +10640,6 @@ defogger
 diprotic
 dianoialogy
 daughter
-descriptions
 driftages
 dat
 dezaley
@@ -11040,6 +11039,7 @@ diaphanous
 deaconesses
 disattune
 dumose
+descriptions
 defiling
 diplomacy
 dysautonomia
