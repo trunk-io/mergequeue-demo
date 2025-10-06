@@ -2693,7 +2693,6 @@ disoperation
 decorum
 diamber
 declinatory
-dubitative
 dirige
 daddies
 depasture
@@ -13591,6 +13590,7 @@ def
 dissimilars
 diplumbic
 demythologise
+dubitative
 dorize
 dequantitate
 diedral
