@@ -632,6 +632,7 @@ commentarial
 clavicytherium
 caenozoic
 chera
+catalecta
 cero
 caeomas
 cataclasis
@@ -3401,7 +3402,6 @@ calcifying
 chinwood
 caprin
 crassness
-catalecta
 caprioles
 capriote
 capriped
