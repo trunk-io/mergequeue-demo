@@ -518,6 +518,7 @@ babies
 betrayment
 backveld
 beden
+bantered
 beech
 biosterin
 bayok
@@ -12371,7 +12372,6 @@ babaylan
 buckpot
 beeregar
 brandle
-bantered
 bombycine
 bagpiper
 blacky
