@@ -3307,7 +3307,6 @@ defis
 deflagrable
 dialling
 distressedness
-decolor
 disrestore
 dynagraph
 dithionate
@@ -13385,6 +13384,7 @@ decrassify
 destroys
 diducing
 daubry
+decolor
 disrooted
 diabetogenic
 dissertated
