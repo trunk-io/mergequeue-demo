@@ -22076,7 +22076,6 @@ asterolepis
 accordature
 allayment
 amphibichnite
-adamantoblast
 asterophyllite
 asterophyllites
 alcids
@@ -22399,6 +22398,7 @@ apathy
 apyrase
 anteal
 autolysate
+adamantoblast
 acetylphenylhydrazine
 abscondence
 arduously
