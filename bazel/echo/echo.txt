@@ -11415,7 +11415,6 @@ evince
 evincible
 elegancies
 epicurean
-elastometer
 esthesis
 enforced
 encheiria
@@ -14053,6 +14052,7 @@ es
 extravagance
 extravertive
 enterolith
+elastometer
 extravagances
 enchantingly
 euemerism
