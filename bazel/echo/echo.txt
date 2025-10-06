@@ -4331,6 +4331,7 @@ elenctical
 embar
 egotize
 eruptively
+evictor
 electromechanical
 encadre
 ender
@@ -11401,7 +11402,6 @@ emigrative
 emboldens
 eleocharis
 escarbuncle
-evictor
 evidence
 emusive
 evidences
