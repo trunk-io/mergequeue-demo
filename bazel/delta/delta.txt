@@ -9200,7 +9200,6 @@ drawcard
 drys
 dossils
 demidoctor
-dionaea
 diencephala
 displaceability
 dier
@@ -9644,6 +9643,7 @@ deinoceras
 dilactic
 dilactone
 dilamination
+dionaea
 dilaniate
 dribbling
 della
