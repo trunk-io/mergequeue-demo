@@ -3438,6 +3438,7 @@ droopiness
 deform
 diasters
 doughmaker
+dimout
 deformability
 delvers
 deformable
@@ -12893,7 +12894,6 @@ disorganised
 deuteranopia
 designers
 despisal
-dimout
 dauntless
 depredicate
 darya
