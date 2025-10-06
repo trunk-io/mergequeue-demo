@@ -9591,7 +9591,6 @@ bellmaking
 barbacoan
 basten
 birdmouthed
-basidium
 belays
 bisayan
 barvell
@@ -14923,6 +14922,7 @@ barkeep
 breakings
 balkline
 bovicide
+basidium
 breaklist
 bosques
 buttercup
