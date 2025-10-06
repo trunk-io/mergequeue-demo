@@ -4839,7 +4839,6 @@ carryall
 carrick
 carrycot
 crossflower
-chromatoplasm
 carried
 carryed
 carrier
@@ -20067,6 +20066,7 @@ commendations
 charlotte
 capiturlary
 circularizations
+chromatoplasm
 captiously
 curwillet
 commender
