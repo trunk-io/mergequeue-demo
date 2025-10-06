@@ -5056,7 +5056,6 @@ casavi
 coestate
 chemoprophylaxis
 cascable
-cascadable
 cascade
 crankous
 coupes
@@ -11418,6 +11417,7 @@ chronicler
 cockpaddle
 crunchiness
 chutes
+cascadable
 cyrenaicism
 chytridium
 chylified
