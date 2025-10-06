@@ -12400,6 +12400,7 @@ bieberite
 biskop
 baskets
 bourgade
+bugdom
 bornyl
 bonnocks
 bomble
@@ -16952,7 +16953,6 @@ buyides
 burdened
 buttons
 bacterid
-bugdom
 bugeyes
 baddy
 brittleness
