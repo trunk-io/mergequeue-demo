@@ -4294,7 +4294,6 @@ bechanced
 becharmed
 bellic
 becoward
-birefringent
 bellona
 blackseed
 barges
@@ -10970,6 +10969,7 @@ blackamoor
 beshiver
 bumps
 beetler
+birefringent
 biloquist
 biclinia
 bepraise
