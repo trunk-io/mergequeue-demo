@@ -6767,7 +6767,6 @@ electrocutions
 enemied
 endoderms
 ergon
-extramural
 entire
 encydlopaedic
 enjoys
@@ -13131,6 +13130,7 @@ excubitorium
 emulsoids
 erogate
 evenglow
+extramural
 existlessness
 ewer
 elucid
