@@ -3986,6 +3986,7 @@ battleship
 bom
 bakeoven
 banditti
+bund
 barebones
 bulanda
 beeve
@@ -12022,7 +12023,6 @@ breadboards
 bimillenary
 bel
 brother
-bund
 bogued
 bogus
 bohairic
