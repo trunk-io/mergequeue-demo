@@ -11909,6 +11909,7 @@ befouled
 brent
 bustards
 banks
+belsire
 boatlip
 boehmite
 borgh
@@ -16766,7 +16767,6 @@ brattice
 bodycheck
 benchmarks
 bucklers
-belsire
 bucko
 buckoes
 bargoose
