@@ -5459,7 +5459,6 @@ disuniters
 damnable
 dolley
 durion
-deoxidation
 deoxidative
 deoxidisation
 dsnames
@@ -12308,6 +12307,7 @@ dragomen
 dishabituated
 demographical
 dishable
+deoxidation
 debitable
 deforce
 diaphonies
