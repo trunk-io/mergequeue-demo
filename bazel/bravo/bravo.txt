@@ -7993,7 +7993,6 @@ bardier
 battler
 bedlight
 berhyming
-barbes
 bee
 bichloride
 bichord
@@ -17380,6 +17379,7 @@ blanketer
 bittern
 bungarum
 bagman
+barbes
 basiotribe
 bonelessness
 breviary
