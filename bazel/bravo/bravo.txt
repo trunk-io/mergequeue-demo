@@ -3412,6 +3412,7 @@ beaverboard
 bitterworm
 batarde
 batatas
+borrowable
 batavi
 ballan
 buzzsaw
@@ -9391,7 +9392,6 @@ balanoglossida
 behaver
 brinish
 brockets
-borrowable
 baleless
 blirt
 bonniness
