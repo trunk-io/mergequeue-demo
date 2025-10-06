@@ -3319,7 +3319,6 @@ aircrews
 antiperiodic
 assertors
 adapid
-apolytikion
 archaise
 apeman
 autotransplant
@@ -24811,6 +24810,7 @@ avilement
 anay
 agrypniai
 algolagny
+apolytikion
 anxious
 amerinds
 amusive
