@@ -3282,7 +3282,6 @@ cognominate
 caponiers
 canicide
 cavilling
-cotyledon
 concavely
 calabash
 caponise
@@ -14568,6 +14567,7 @@ cariocas
 cornier
 compactions
 compotier
+cotyledon
 cystic
 conchoidal
 cysticercosis
