@@ -13781,7 +13781,6 @@ convoke
 chlamydomonas
 cubbyholes
 congealer
-cancri
 commonweals
 crackerberries
 cinemagoer
@@ -19759,6 +19758,7 @@ combat
 combatable
 chroma
 cixiidae
+cancri
 concurs
 combatant
 cimbalom
