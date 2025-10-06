@@ -9218,7 +9218,6 @@ edam
 ecclesiastry
 ethnarch
 effusion
-embound
 epikleses
 empannel
 equestrianship
@@ -9860,6 +9859,7 @@ equivalency
 encodes
 epidemical
 encephalomyelitis
+embound
 eosines
 encave
 electrotelethermometer
