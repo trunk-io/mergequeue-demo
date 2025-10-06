@@ -3088,7 +3088,6 @@ capcase
 chromule
 celotomy
 cooption
-connexion
 cristatella
 cape
 chequerboard
@@ -25463,6 +25462,7 @@ curlew
 cornpipe
 cohert
 cornrick
+connexion
 candlefishes
 cornrow
 cornstalks
