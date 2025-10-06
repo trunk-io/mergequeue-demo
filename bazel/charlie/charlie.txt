@@ -7316,7 +7316,6 @@ computus
 coudee
 cephalaspis
 cocoonery
-cephalate
 coracovertebral
 cephalic
 chequering
@@ -12613,6 +12612,7 @@ coalbox
 chefrinia
 chronophotography
 chronoscopic
+cephalate
 chronoscopically
 cheesier
 cloghead
