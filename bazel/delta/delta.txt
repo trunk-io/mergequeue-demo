@@ -1704,7 +1704,6 @@ deathrates
 deaths
 dhaura
 dialiness
-deathsman
 discrepating
 dumble
 deathtime
@@ -9297,6 +9296,7 @@ difficileness
 difficilitate
 dignosle
 druxiness
+deathsman
 dewinesses
 doucely
 drooling
