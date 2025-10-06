@@ -2492,7 +2492,6 @@ baric
 barid
 bronchostenosis
 boanthropy
-bereaving
 burgus
 barye
 bois
@@ -5202,6 +5201,7 @@ blahlaut
 blockout
 benignly
 blasphemously
+bereaving
 bounces
 bandage
 buggered
