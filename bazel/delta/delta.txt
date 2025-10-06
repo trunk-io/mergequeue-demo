@@ -5805,7 +5805,6 @@ deprecatory
 deoxidised
 desensitization
 degradingness
-dregless
 dirk
 depreciable
 depreciate
@@ -7199,6 +7198,7 @@ disarrest
 deteriorating
 definement
 deterioration
+dregless
 data
 dear
 diamondlike
