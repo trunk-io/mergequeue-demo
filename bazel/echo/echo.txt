@@ -3881,7 +3881,6 @@ embryoniferous
 enalid
 enteroptosis
 eosinlike
-examinability
 epiglottis
 endexine
 emitting
@@ -10795,6 +10794,7 @@ exemplars
 earlobes
 engystomatidae
 exomorphism
+examinability
 eupnoeas
 engine
 electrocuting
