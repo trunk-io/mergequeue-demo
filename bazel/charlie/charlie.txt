@@ -22094,6 +22094,7 @@ comparts
 confix
 confixing
 carf
+catatonics
 conflagration
 conflagrations
 climatologists
@@ -26430,7 +26431,6 @@ cotyledonary
 catalyzing
 cotyledons
 cotylopubic
-catatonics
 catharism
 criminalist
 cotylosacral
