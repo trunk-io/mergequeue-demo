@@ -5848,7 +5848,6 @@ damage
 dingman
 dispender
 danicism
-depressibilities
 dextrose
 disputant
 depressingly
@@ -15659,6 +15658,7 @@ dorbel
 defeatist
 diadermic
 disentrain
+depressibilities
 deipotent
 demonesses
 doria
