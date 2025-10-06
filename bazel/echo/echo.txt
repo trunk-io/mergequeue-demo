@@ -4313,6 +4313,7 @@ engraulis
 enbrave
 emanatism
 embar
+enneahedral
 egotize
 eruptively
 electromechanical
@@ -5745,7 +5746,6 @@ epigraphy
 eparchean
 expressions
 ephemeris
-enneahedral
 extirp
 exchangeability
 englut
