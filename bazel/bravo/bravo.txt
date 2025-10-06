@@ -2981,6 +2981,7 @@ bsf
 biome
 bartonella
 backswordsman
+bugwort
 bookbinderies
 bartree
 banish
@@ -16975,7 +16976,6 @@ bugout
 bugs
 balloonation
 bagsful
-bugwort
 bracon
 banca
 biographic
