@@ -997,7 +997,6 @@ buxeous
 bringer
 bushwhacked
 barfs
-bailable
 basqued
 blizzards
 bailers
@@ -12254,6 +12253,7 @@ bolshevist
 bolshevistic
 biopoesis
 bolshevize
+bailable
 bilboas
 bloodybones
 bolshevized
