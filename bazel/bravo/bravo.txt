@@ -5617,7 +5617,6 @@ biotype
 buzzes
 beknow
 blimpishly
-bel
 behoovingly
 basinasal
 bela
@@ -12048,6 +12047,7 @@ buckers
 bacchical
 bombastry
 bimillenary
+bel
 brother
 bund
 bogued
