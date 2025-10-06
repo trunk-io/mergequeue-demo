@@ -3988,7 +3988,6 @@ carcinogenesis
 carcinogenic
 conspecifics
 curaris
-carcinoid
 cyclicality
 compartmental
 coenzymatically
@@ -6773,6 +6772,7 @@ celialgia
 celibacy
 contrivancy
 costard
+carcinoid
 celibatic
 conducent
 celibatist
