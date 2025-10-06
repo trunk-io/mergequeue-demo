@@ -2481,6 +2481,7 @@ confronters
 candiru
 candite
 candytuft
+consol
 curryfavel
 candle
 coehorn
@@ -11945,7 +11946,6 @@ choric
 chorines
 collunarium
 counterproof
-consol
 cachina
 chorioallantoic
 chorioallantoid

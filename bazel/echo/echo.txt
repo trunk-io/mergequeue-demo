@@ -3892,7 +3892,6 @@ entamebas
 echocardiogram
 exogamic
 ekhimi
-emmetropy
 eosinophil
 everted
 eclogites
@@ -11450,6 +11449,7 @@ explanation
 endurability
 extraburghal
 encodement
+emmetropy
 embrittled
 endoparasitism
 epitrochlea
