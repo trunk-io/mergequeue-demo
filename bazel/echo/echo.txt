@@ -2174,7 +2174,6 @@ engrapple
 edibleness
 emboss
 electrographic
-eastling
 esthesia
 epicenters
 epistome
@@ -2304,6 +2303,7 @@ euphuistic
 explorational
 exauguration
 eyewinker
+eastling
 explosive
 electrochemistry
 excrete
