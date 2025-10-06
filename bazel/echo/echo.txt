@@ -10018,6 +10018,7 @@ euptelea
 eternalised
 enweb
 extradict
+encodings
 enrols
 emotiomuscular
 electrode
@@ -12705,7 +12706,6 @@ erythroxylum
 eyesights
 erwinia
 employable
-encodings
 elasmobranchiate
 enmask
 eavesdropper
