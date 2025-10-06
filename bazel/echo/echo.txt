@@ -3157,7 +3157,6 @@ emmeleia
 emission
 emboscata
 extruding
-embioptera
 endomorphic
 errability
 extruders
@@ -8646,6 +8645,7 @@ ethrogs
 ektexine
 elfishness
 equipages
+embioptera
 etherialism
 expositions
 enchesoun
