@@ -500,7 +500,6 @@ bombsights
 backstroke
 bicentennial
 buddhist
-boart
 bu
 backtender
 blatchang
@@ -8980,6 +8979,7 @@ bocal
 billons
 bioecological
 bounty
+boart
 bioelectrical
 bigamous
 byliner
