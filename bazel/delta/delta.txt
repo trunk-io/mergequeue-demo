@@ -789,7 +789,6 @@ druggery
 deckhead
 discomycete
 daneweed
-daneweeds
 doughman
 detections
 deduced
@@ -3545,6 +3544,7 @@ distain
 dinornithiformes
 defs
 drivehead
+daneweeds
 desulphurizer
 diagrammatize
 dicta
