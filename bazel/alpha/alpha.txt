@@ -4840,7 +4840,6 @@ amaranthine
 annotation
 auslaut
 antecoxal
-antipedal
 airbill
 aerodrome
 amidopyrine
@@ -6006,6 +6005,7 @@ agents
 antinationalism
 allamanda
 aretalogy
+antipedal
 agit
 allothigene
 agitability
