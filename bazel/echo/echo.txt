@@ -3767,6 +3767,7 @@ enrich
 emended
 englishwoman
 ecu
+escheatable
 emending
 edility
 extraofficial
@@ -12422,7 +12423,6 @@ exilarchate
 effulgences
 ethicality
 escalading
-escheatable
 ecardines
 emblazonry
 exanthem
