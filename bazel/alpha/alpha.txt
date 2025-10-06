@@ -8663,7 +8663,6 @@ alleys
 amylophosphate
 aspirata
 automatonlike
-antihidrotic
 alchitran
 abled
 alleyways
@@ -22370,6 +22369,7 @@ astriction
 afternoon
 astrologistic
 advancers
+antihidrotic
 astrometeorology
 aforenamed
 alertly
