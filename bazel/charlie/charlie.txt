@@ -11625,7 +11625,6 @@ chowdered
 clethra
 columbanian
 cholesterinic
-cholesterol
 cholesterolemia
 cholesteroluria
 choletelin
@@ -15535,6 +15534,7 @@ cormlike
 clasmatocyte
 ccoya
 clasmatocytic
+cholesterol
 cuitle
 clasped
 cinevariety
