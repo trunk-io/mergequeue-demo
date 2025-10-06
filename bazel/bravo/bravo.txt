@@ -14510,7 +14510,6 @@ baby
 brakeroot
 breechless
 boatyards
-banyan
 bedoctor
 brushback
 brakie
@@ -15645,6 +15644,7 @@ baroneting
 bipacks
 bezette
 buskle
+banyan
 belder
 branchage
 briza
