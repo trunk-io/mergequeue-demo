@@ -5900,6 +5900,7 @@ butterbur
 bellwether
 bellwort
 belock
+befilch
 ballpoint
 belomancy
 belonger
@@ -9102,7 +9103,6 @@ bunching
 bearbaiting
 bombus
 biopoiesis
-befilch
 bonzery
 basking
 biopotential
