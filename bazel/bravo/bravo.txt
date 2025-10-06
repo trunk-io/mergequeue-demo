@@ -4133,7 +4133,6 @@ boxboards
 beat
 benches
 beatae
-beatee
 bleery
 buccaneerish
 beaters
@@ -16730,6 +16729,7 @@ belait
 bimethyls
 bardlet
 borosilicate
+beatee
 bubblelike
 bucketmaking
 basketfuls
