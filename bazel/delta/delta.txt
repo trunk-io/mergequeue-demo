@@ -166,7 +166,6 @@ drawstring
 depasturable
 discriminably
 dissatisfying
-dado
 drugstore
 dillydallying
 doltishly
@@ -13245,6 +13244,7 @@ dispurse
 distillate
 daintier
 datism
+dado
 dustpoint
 dispurvey
 disputability
