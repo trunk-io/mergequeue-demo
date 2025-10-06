@@ -2425,7 +2425,6 @@ basenjis
 booleys
 blashy
 bibliophilism
-binotic
 bigram
 bottom
 bonducs
@@ -11563,6 +11562,7 @@ blameworthiness
 buckaroos
 blunket
 blunt
+binotic
 befuddlements
 botanized
 bilateralness
