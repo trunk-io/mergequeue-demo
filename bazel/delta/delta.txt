@@ -5706,7 +5706,6 @@ depolarizers
 deliberating
 debater
 dethyroidism
-dix
 duree
 dyadic
 disjoint
@@ -16825,6 +16824,7 @@ ddt
 dicyclic
 diiambus
 dataria
+dix
 drona
 doxologizing
 dumbs
