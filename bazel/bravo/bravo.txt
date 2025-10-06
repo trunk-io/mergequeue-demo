@@ -1866,7 +1866,6 @@ barblet
 bana
 bandor
 babkas
-bilewhit
 brothe
 butterlike
 bandora
@@ -8150,6 +8149,7 @@ barble
 befouls
 biding
 bidirectional
+bilewhit
 biophagy
 bellicosities
 beliefs
