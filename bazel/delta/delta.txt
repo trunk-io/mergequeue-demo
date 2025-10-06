@@ -15423,7 +15423,6 @@ dacus
 domn
 dermatoglyphic
 ductule
-deoxyribonucleic
 dopehead
 dope
 dompteuse
@@ -18183,6 +18182,7 @@ dermataneuria
 decener
 dubiosities
 desmitis
+deoxyribonucleic
 dundasite
 didascalar
 downfallen
