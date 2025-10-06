@@ -6364,6 +6364,7 @@ beedom
 backswept
 benzalethylamine
 benzalphenylhydrazone
+ballet
 benzamide
 benzoxate
 badgerbrush
@@ -17628,7 +17629,6 @@ blay
 beslimes
 bunchflower
 burgoyne
-ballet
 burgomasters
 bullfighting
 bhakta
