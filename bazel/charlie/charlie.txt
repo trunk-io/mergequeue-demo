@@ -1132,7 +1132,6 @@ calcsinter
 chinnam
 cranioclasis
 calcspars
-chenopod
 cotwal
 chlamydophore
 crunches
@@ -30514,6 +30513,7 @@ crossfiring
 cubicovariant
 corozos
 chinchona
+chenopod
 cubane
 chapon
 cubangle
