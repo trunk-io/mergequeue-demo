@@ -2696,7 +2696,6 @@ bismutoplagionite
 balopticon
 barolo
 beeflower
-bm
 bicolored
 backtalk
 bonneting
@@ -13825,6 +13824,7 @@ bedlam
 bogs
 boatful
 bosselation
+bm
 bovld
 beatas
 brontide
