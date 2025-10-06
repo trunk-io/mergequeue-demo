@@ -1008,7 +1008,6 @@ calathus
 calatrava
 calavance
 calbroben
-calcaire
 calcanea
 chimpanzee
 calcanean
@@ -17401,6 +17400,7 @@ contline
 cryophilic
 cupbearer
 cobaea
+calcaire
 corbeil
 cobalamin
 centromeric
