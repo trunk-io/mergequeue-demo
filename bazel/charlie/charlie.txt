@@ -15408,7 +15408,6 @@ cryptostegia
 carvy
 cyprinodontidae
 claosaurus
-corona
 clapboard
 caenolestes
 clapboarding
@@ -24133,6 +24132,7 @@ converters
 convertibility
 chude
 convertingness
+corona
 cocowort
 caulker
 conclavist
