@@ -4762,7 +4762,6 @@ cressier
 carpophyte
 chrismal
 companions
-covariables
 carpopodite
 carpopoditic
 carved
@@ -28868,6 +28867,7 @@ comte
 cretaceously
 cretacic
 cretan
+covariables
 cymotrichy
 cretefaction
 callisection
