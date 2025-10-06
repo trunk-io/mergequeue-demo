@@ -1586,7 +1586,6 @@ egressed
 egresses
 expounded
 extrasensorial
-egromancy
 encarpi
 endearingly
 embattles
@@ -13267,6 +13266,7 @@ emaciation
 exploiting
 ethnologic
 entozoological
+egromancy
 exploratively
 explorement
 esprise
