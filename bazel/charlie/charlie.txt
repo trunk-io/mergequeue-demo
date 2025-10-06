@@ -4897,6 +4897,7 @@ corporation
 canonization
 clomben
 carrotwood
+collegial
 carrousel
 circumfused
 carrousels
@@ -30650,7 +30651,6 @@ concinnous
 cucumariidae
 cucumber
 calcular
-collegial
 chymotrypsin
 carrot
 cucupha
