@@ -3938,7 +3938,6 @@ beadlehood
 besiegement
 beadmen
 beneventana
-barometrograph
 beads
 builds
 barcelonas
@@ -15352,6 +15351,7 @@ bursa
 brotel
 byrewards
 belknap
+barometrograph
 barbita
 bridgetin
 ballplayers
