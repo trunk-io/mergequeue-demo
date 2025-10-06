@@ -21504,6 +21504,7 @@ circumundulation
 concordance
 concordancer
 capped
+corporals
 commands
 curliewurly
 cardiophobia
@@ -25604,7 +25605,6 @@ corporality
 cristivomer
 colugos
 corporalities
-corporals
 cytostatically
 citronellic
 corporalship
