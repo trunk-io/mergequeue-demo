@@ -5138,6 +5138,7 @@ antihuman
 anticommunist
 amydon
 architectural
+artificer
 autochanger
 apyrexia
 amortise
@@ -21059,7 +21060,6 @@ ascribable
 auscultate
 acclaimed
 ascribe
-artificer
 adrenaline
 ascriptions
 abuttal
