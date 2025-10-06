@@ -3503,7 +3503,6 @@ binaries
 bilobate
 battleground
 berkeleyite
-bien
 bathysophical
 bathysphere
 betrample
@@ -13782,6 +13781,7 @@ besmudging
 biophysicochemical
 boutons
 barrelful
+bien
 backwardly
 bouvardia
 buffers
