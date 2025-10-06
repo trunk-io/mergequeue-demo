@@ -475,6 +475,7 @@ cadaster
 clacked
 cadasters
 cadastres
+cotransubstantiate
 cadaver
 cadaverin
 cadaverous
@@ -26471,7 +26472,6 @@ cohesions
 cotransduction
 cotransfuse
 cotranslator
-cotransubstantiate
 commiserable
 cystocarp
 cotrine
