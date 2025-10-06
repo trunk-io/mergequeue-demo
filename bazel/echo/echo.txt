@@ -3403,7 +3403,6 @@ exteriors
 enteropneustan
 embed
 embelic
-equaled
 evacuate
 eventide
 embellisher
@@ -5742,6 +5741,7 @@ exterritoriality
 eulogias
 embreach
 embrittle
+equaled
 ediles
 excl
 englobe
