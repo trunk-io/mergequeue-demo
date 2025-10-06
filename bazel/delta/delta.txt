@@ -3280,7 +3280,6 @@ darksum
 definitise
 deprecated
 dilatant
-depurge
 deliriate
 desisted
 domesticable
@@ -11617,6 +11616,7 @@ disprobabilization
 discourteousness
 demisang
 discoach
+depurge
 demoralise
 discoverable
 decarboxylate
