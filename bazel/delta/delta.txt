@@ -3332,7 +3332,6 @@ deflectionize
 dampnesses
 domal
 diamante
-diacetyl
 demonography
 decarboxylase
 decolorisation
@@ -15472,6 +15471,7 @@ disimitation
 derobe
 designators
 dement
+diacetyl
 dewanny
 disuniformity
 dodos
