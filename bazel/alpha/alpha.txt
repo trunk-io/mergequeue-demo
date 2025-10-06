@@ -3965,7 +3965,6 @@ acronymize
 aphaeresis
 absorb
 acetaldehyde
-admerveylle
 aphasia
 accusator
 assignat
@@ -7451,6 +7450,7 @@ assortments
 albumenising
 albumenization
 anticeremonious
+admerveylle
 agrilus
 aerophoto
 albumenoid
