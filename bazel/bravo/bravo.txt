@@ -7110,7 +7110,6 @@ briquetting
 bloodworthy
 bespeak
 bodyless
-biggings
 bimorphs
 bushing
 bespeaking
@@ -15455,6 +15454,7 @@ besmear
 botheration
 bevy
 brigsail
+biggings
 babblative
 bousing
 brontograph
