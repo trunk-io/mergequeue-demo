@@ -12325,6 +12325,7 @@ diplophyte
 dishelms
 durability
 disherited
+disarmer
 diminutal
 divet
 defibrillator
@@ -14887,7 +14888,6 @@ destiny
 dreamfully
 decoloriser
 dermatoid
-disarmer
 doeling
 doctors
 doer
