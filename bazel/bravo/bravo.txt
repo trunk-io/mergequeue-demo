@@ -1057,7 +1057,6 @@ bayonets
 benzhydroxamic
 benefactors
 bovaristic
-blksize
 backword
 blepharelcosis
 bayong
@@ -10929,6 +10928,7 @@ baldness
 butterbush
 blindfoldedness
 birched
+blksize
 bemoon
 bogglish
 blinding
