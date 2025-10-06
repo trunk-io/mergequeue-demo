@@ -4521,6 +4521,7 @@ acuity
 advisees
 accedence
 advisement
+ahwal
 agba
 altimeters
 access
@@ -12851,7 +12852,6 @@ awardable
 acantha
 authentication
 angiotonic
-ahwal
 abjunction
 angulous
 awanting
