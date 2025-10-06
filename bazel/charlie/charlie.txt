@@ -3955,7 +3955,6 @@ carcinogenesis
 carcinogenic
 curaris
 carcinoid
-cyclicality
 compartmental
 coenzymatically
 crystalloluminescence
@@ -17492,6 +17491,7 @@ coboundless
 cobourg
 cueca
 coinitial
+cyclicality
 cobridgehead
 chrysostomic
 cardielcosis
