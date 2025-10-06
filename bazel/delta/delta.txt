@@ -3457,7 +3457,6 @@ deforse
 diplomatic
 dinitrotoluene
 deprivate
-defrayable
 disaccharides
 dismissable
 doucin
@@ -8394,6 +8393,7 @@ dispatchers
 diametral
 diametric
 demisavage
+defrayable
 diamide
 diamides
 deesis
