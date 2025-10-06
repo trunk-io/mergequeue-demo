@@ -2698,7 +2698,6 @@ beeflower
 bm
 bicolored
 backtalk
-bonneting
 bukeyef
 barology
 barolong
@@ -11710,6 +11709,7 @@ belace
 bankerdom
 beigy
 boatmanship
+bonneting
 boatmen
 boatsetter
 bisymmetric
