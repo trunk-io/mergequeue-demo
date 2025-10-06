@@ -11249,7 +11249,6 @@ ancestresses
 audads
 acknowledge
 arenose
-amphiploidy
 allotter
 alephzero
 aphaniptera
@@ -23636,6 +23635,7 @@ alleles
 avelonge
 arables
 aureocasidium
+amphiploidy
 abjuratory
 aureoled
 aromatites
