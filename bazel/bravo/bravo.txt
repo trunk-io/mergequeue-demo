@@ -3302,6 +3302,7 @@ babassus
 bootable
 brythonic
 brogueries
+beflag
 baculum
 benzilic
 bassan
@@ -5108,7 +5109,6 @@ blazoning
 befittingness
 boundedness
 betatter
-beflag
 barkevikite
 bamboo
 binits
