@@ -3290,6 +3290,7 @@ disregards
 definitions
 darksum
 definitise
+deprecated
 dilatant
 depurge
 deliriate
@@ -16571,7 +16572,6 @@ deifiers
 darkhearted
 didelph
 dragonflies
-deprecated
 didelphian
 dragonhood
 deveins
