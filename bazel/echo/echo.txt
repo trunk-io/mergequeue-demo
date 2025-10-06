@@ -2303,7 +2303,6 @@ eavesdrop
 entrapper
 electroballistics
 emetatrophia
-encrypted
 elocation
 effulge
 exsected
@@ -2904,6 +2903,7 @@ electroretinograph
 echoes
 elicitor
 expiational
+encrypted
 equivalvular
 entocele
 enricher
