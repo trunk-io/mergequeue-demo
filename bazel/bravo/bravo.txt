@@ -1794,7 +1794,6 @@ bandfile
 bandfiled
 bandh
 backhanded
-brython
 birken
 betted
 bandhook
@@ -3945,6 +3944,7 @@ begetters
 beadworks
 baetuli
 bistroic
+brython
 boilermaking
 butcheries
 beaked
