@@ -7308,7 +7308,6 @@ exception
 engrainer
 extremital
 exodromic
-epalpebrate
 engrege
 euphemian
 essenian
@@ -7638,6 +7637,7 @@ evade
 elapse
 enid
 eoliths
+epalpebrate
 epiparodos
 epicortical
 enterococcal
