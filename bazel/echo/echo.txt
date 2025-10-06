@@ -785,6 +785,7 @@ ectypography
 entrecote
 equations
 enslaver
+excursionary
 elastics
 etude
 enquire
@@ -10522,7 +10523,6 @@ ensurers
 esoanhydride
 escudo
 equational
-excursionary
 eckehart
 ethmose
 euphonon
