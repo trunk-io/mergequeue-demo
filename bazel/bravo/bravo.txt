@@ -1840,7 +1840,6 @@ biotypic
 bolometer
 benitoite
 bergama
-bediademed
 breviped
 bandoleer
 ballatoon
@@ -15818,6 +15817,7 @@ bimester
 blueprinting
 broiled
 bastide
+bediademed
 blare
 beshame
 birthdays
