@@ -4613,6 +4613,7 @@ bens
 boeing
 barge
 basigamy
+basiglandular
 buxus
 bombshells
 bedevilling
@@ -11003,7 +11004,6 @@ backpiece
 bighorn
 blinkingly
 brabbles
-basiglandular
 batel
 bilharzic
 blintzes
