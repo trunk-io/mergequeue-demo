@@ -2194,6 +2194,7 @@ dosages
 drongo
 deftest
 divulse
+drinking
 dreint
 drch
 dartre
@@ -16631,7 +16632,6 @@ dignosce
 dedecoration
 duodiode
 disjasket
-drinking
 despondent
 doruck
 diablo
