@@ -9536,6 +9536,7 @@ doubloons
 dignities
 drunks
 dignotion
+dtset
 dependants
 dyslexias
 digonal
@@ -13842,7 +13843,6 @@ dimerous
 distichous
 distil
 derisive
-dtset
 dropsied
 distyle
 demiurgic
