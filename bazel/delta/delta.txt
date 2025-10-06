@@ -4629,7 +4629,6 @@ diddle
 depose
 dinic
 dereliction
-denarius
 diswench
 demiscible
 dicebox
@@ -17600,6 +17599,7 @@ dualize
 defenestrating
 decare
 dealated
+denarius
 disapprovingly
 dystopia
 disanimal
