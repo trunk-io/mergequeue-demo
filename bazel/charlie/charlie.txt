@@ -5307,7 +5307,6 @@ cellarers
 cast
 castable
 castalian
-castalides
 calycanth
 cardiopuncture
 cupreine
@@ -9742,6 +9741,7 @@ collisions
 chelicer
 complied
 cysts
+castalides
 chelide
 csardas
 cowheart
