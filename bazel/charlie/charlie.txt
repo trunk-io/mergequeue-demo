@@ -5084,7 +5084,6 @@ cased
 cisatlantic
 casefy
 counterenamel
-compeller
 caseharden
 capsaicin
 callosity
@@ -20452,6 +20451,7 @@ companied
 cembalist
 corncracker
 companying
+compeller
 counterstatute
 convergescence
 clusterberry
