@@ -3376,7 +3376,6 @@ electorship
 embarring
 encomy
 elaeocarpus
-elementoid
 enteraden
 ethnarchy
 enosises
@@ -4690,6 +4689,7 @@ entryway
 electrowin
 enterogastrone
 electroshock
+elementoid
 eyelets
 exalbuminose
 echinidea
