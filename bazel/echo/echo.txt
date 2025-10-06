@@ -4875,7 +4875,6 @@ encroacher
 enterogram
 exponentiations
 elemental
-eglomerate
 explete
 enjamb
 encroachments
@@ -5211,6 +5210,7 @@ expirer
 ergotize
 eparchy
 esterification
+eglomerate
 equipluve
 electrodepositable
 epistrophic
