@@ -7610,7 +7610,6 @@ carduaceous
 cerebrometer
 cerebron
 cerebronic
-cerebroparietal
 cerebropedal
 cudgerie
 coppy
@@ -13957,6 +13956,7 @@ chalicotherioid
 cynoclept
 cynocrambaceous
 cynodictis
+cerebroparietal
 cinofoil
 cynogenealogy
 canonistic
