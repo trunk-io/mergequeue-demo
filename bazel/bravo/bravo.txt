@@ -3654,7 +3654,6 @@ brightest
 batting
 battings
 battledores
-bywork
 baldly
 barotraumata
 bronteon
@@ -7535,6 +7534,7 @@ bogwood
 betaine
 barret
 bufonidae
+bywork
 beforehandedness
 bacteriophagy
 bebothered
