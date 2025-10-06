@@ -1610,6 +1610,7 @@ barbuts
 blandiloquious
 bogtrot
 bullpen
+becrowd
 bengali
 ballstock
 ballup
@@ -4455,7 +4456,6 @@ becross
 bordman
 bureaucratist
 billows
-becrowd
 becrowded
 burstwort
 billeting
