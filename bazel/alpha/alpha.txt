@@ -19246,6 +19246,7 @@ august
 airbuses
 amphibola
 alodium
+attery
 areic
 arena
 avale
@@ -19918,7 +19919,6 @@ adeptest
 acquereur
 armied
 armies
-attery
 axstone
 acetylurea
 ambonite
