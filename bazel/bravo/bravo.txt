@@ -17799,7 +17799,6 @@ breakback
 burroweed
 blankets
 burrows
-bowdichia
 benevolent
 ballat
 burrstone
@@ -17968,6 +17967,7 @@ basilosauridae
 busied
 bakehouse
 bagirmi
+bowdichia
 boyism
 biblos
 betties
