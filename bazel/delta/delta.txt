@@ -5908,7 +5908,6 @@ depreter
 decimus
 depriment
 disorderedness
-deprivable
 draughtsmen
 desirously
 degrader
@@ -13163,6 +13162,7 @@ demoralizer
 droopily
 dispoint
 defensively
+deprivable
 dahms
 disponent
 durango
