@@ -3939,7 +3939,6 @@ eternize
 exultancy
 entophyte
 enveigle
-estus
 epibiotic
 effloresce
 enray
@@ -4329,6 +4328,7 @@ exclam
 embolomerous
 encage
 erythraean
+estus
 emancipator
 etypically
 expansively
