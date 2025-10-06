@@ -5772,6 +5772,7 @@ expressions
 ephemeris
 extirp
 exchangeability
+evocation
 englut
 emhpasizing
 epitenon
@@ -11061,7 +11062,6 @@ everly
 exclaimer
 enskied
 eutropous
-evocation
 entanglingly
 euxenites
 enjambments
