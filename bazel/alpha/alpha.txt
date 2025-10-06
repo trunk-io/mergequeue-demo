@@ -5415,7 +5415,6 @@ awlworts
 autostandardization
 allocating
 aftercost
-aftercrop
 aftercure
 affrontment
 afterdays
@@ -9883,6 +9882,7 @@ accite
 anchistea
 artilleryman
 amarity
+aftercrop
 accentuate
 accouterments
 amaritude
