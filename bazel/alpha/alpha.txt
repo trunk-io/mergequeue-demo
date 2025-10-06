@@ -5490,7 +5490,6 @@ afterpast
 afterplanting
 afterreckoning
 assemblywoman
-articulare
 andiroba
 anemogram
 alumna
@@ -9287,6 +9286,7 @@ ashfall
 anthropomantist
 aniellidae
 adradial
+articulare
 ateba
 aloysius
 analyser
