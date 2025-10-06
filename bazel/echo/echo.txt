@@ -1250,7 +1250,6 @@ encircler
 enclasped
 eassel
 enteroid
-epeus
 epichil
 epyllia
 encuirassed
@@ -9789,6 +9788,7 @@ exponentiate
 eustace
 embog
 espaliering
+epeus
 emprosthotonos
 ebracteolate
 escapade
