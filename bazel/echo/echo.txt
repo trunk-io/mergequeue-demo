@@ -838,7 +838,6 @@ ejective
 extern
 eigenfunction
 electrocution
-entailed
 ectoparasite
 edaciously
 effort
@@ -4616,6 +4615,7 @@ eremiteship
 ekoi
 exuberance
 entablement
+entailed
 exodromy
 energico
 euphoniad
