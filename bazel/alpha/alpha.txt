@@ -6726,6 +6726,7 @@ amulets
 advised
 aorta
 aircraftswoman
+appenditious
 aircraftwoman
 appleringie
 astipulation
@@ -12585,7 +12586,6 @@ awnlike
 annelidian
 antidoron
 aliya
-appenditious
 anconei
 aeropleustic
 anatomising
