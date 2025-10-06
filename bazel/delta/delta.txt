@@ -12328,7 +12328,6 @@ drybrush
 desecate
 disheriting
 deforms
-dishevelled
 dishevelling
 diothelism
 doeskins
@@ -13595,6 +13594,7 @@ disjoins
 degases
 diachronicness
 debark
+dishevelled
 dissymmetric
 degender
 dampy
