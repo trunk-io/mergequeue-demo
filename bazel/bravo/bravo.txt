@@ -13178,7 +13178,6 @@ bornites
 bornitic
 baryglossia
 borofluohydric
-boroglycerine
 borohydride
 bilgy
 branchiopulmonata
@@ -17279,6 +17278,7 @@ bumbling
 bumbo
 bumclock
 batling
+boroglycerine
 benomyls
 brandishing
 boltings
