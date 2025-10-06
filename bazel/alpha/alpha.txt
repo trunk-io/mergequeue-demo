@@ -12554,6 +12554,7 @@ augurers
 anemotropism
 apatosaurus
 aggregatae
+apronstring
 abkar
 anthribid
 actinotrocha
@@ -18061,7 +18062,6 @@ aproctous
 aproneer
 altamira
 aright
-apronstring
 alanins
 aglow
 adular
