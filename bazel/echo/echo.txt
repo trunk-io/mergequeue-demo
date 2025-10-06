@@ -502,7 +502,6 @@ enchantments
 exhibitant
 eosinophilia
 electrosurgeries
-estate
 entosphenal
 endonucleolus
 evocate
@@ -12742,6 +12741,7 @@ epicystotomy
 exonerators
 exoterical
 epicranium
+estate
 elytroposis
 eructating
 ethnics
