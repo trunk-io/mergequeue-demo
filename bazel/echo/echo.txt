@@ -442,7 +442,6 @@ erbia
 ergatandry
 ecclesiarch
 ecclesiarchy
-ecclesiast
 encephalomata
 extratellurian
 ectadenia
@@ -9504,6 +9503,7 @@ essences
 evangelistically
 endearingness
 evenhead
+ecclesiast
 entrust
 eventless
 eugenesis
