@@ -11841,7 +11841,6 @@ choral
 choralcelo
 causeway
 carmagnoles
-chorales
 comradery
 concio
 cassapanca
@@ -30044,6 +30043,7 @@ confutation
 crotesco
 cooptive
 csw
+chorales
 cannoned
 chirothesia
 consulated
