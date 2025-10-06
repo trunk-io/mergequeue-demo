@@ -4577,7 +4577,6 @@ carnivoral
 carnivore
 carnivorism
 cordialness
-cavalcading
 cyanea
 chutnee
 colorationally
@@ -17720,6 +17719,7 @@ cockade
 colour
 colonisation
 christianization
+cavalcading
 connecting
 cockades
 canorously
