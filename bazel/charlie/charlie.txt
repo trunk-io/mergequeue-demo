@@ -4599,7 +4599,6 @@ circlers
 canescene
 chronisotherm
 cangenet
-caryotin
 cutleria
 caroline
 camisado
@@ -9535,6 +9534,7 @@ computational
 checks
 chapatty
 cholesteatoma
+caryotin
 christina
 crushes
 checkstring
