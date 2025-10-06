@@ -982,6 +982,7 @@ edaphosaurus
 explosibility
 escobedo
 extensimeter
+empyrosis
 embalmed
 expendible
 euthanasic
@@ -9585,7 +9586,6 @@ emplacing
 exequy
 emulator
 enterohemorrhage
-empyrosis
 esophagalgia
 enrollee
 excur
