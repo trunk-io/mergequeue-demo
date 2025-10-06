@@ -15419,6 +15419,7 @@ brigadier
 birdcatching
 bewigged
 bey
+brominate
 baahling
 brigandine
 bandhu
@@ -15920,7 +15921,6 @@ brinie
 bibliographer
 baulea
 biasedly
-brominate
 bene
 barbarism
 broadband
