@@ -4064,6 +4064,7 @@ bananaquit
 bicompact
 blackfishes
 bodysurfs
+becloaks
 backet
 beelbow
 beardfishes
@@ -4397,7 +4398,6 @@ bdrm
 begloom
 befleas
 belchers
-becloaks
 blackfriars
 belligerently
 batule
