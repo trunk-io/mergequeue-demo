@@ -1608,7 +1608,6 @@ ballup
 ballweed
 brehon
 balmarcodes
-balmawhapple
 baromotor
 bimodality
 burton
@@ -10600,6 +10599,7 @@ bereft
 bohemia
 bugeyed
 bethumb
+balmawhapple
 bandel
 blaunner
 bein
