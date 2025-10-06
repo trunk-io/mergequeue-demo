@@ -2000,7 +2000,6 @@ buffoonesque
 bicollaterality
 billycan
 bankrolled
-bankrolling
 bankrupt
 bynin
 burl
@@ -12073,6 +12072,7 @@ bombarded
 bohunk
 branta
 broadwayite
+bankrolling
 blusteration
 bootstrapped
 bohunks
