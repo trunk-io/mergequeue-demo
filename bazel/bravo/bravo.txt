@@ -7574,6 +7574,7 @@ bandolier
 beloam
 begirding
 bewary
+boomkin
 barnbrack
 beweary
 bissext
@@ -12846,7 +12847,6 @@ boomingly
 beamwork
 blatherskite
 betalk
-boomkin
 bibliophobia
 bolters
 bokom
