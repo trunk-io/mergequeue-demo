@@ -317,6 +317,7 @@ daybill
 disinteress
 domiciling
 dourine
+degreeless
 daybooks
 daphne
 diapalma
@@ -18637,7 +18638,6 @@ dollarwise
 desightment
 dutching
 dagbane
-degreeless
 duty
 dutiability
 disdains
