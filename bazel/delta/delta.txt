@@ -13844,7 +13844,6 @@ distillator
 dsect
 deflagrations
 devitrify
-distillery
 deboite
 dynamogeneses
 deodand
@@ -15233,6 +15232,7 @@ derries
 dose
 dryfarmer
 dispensate
+distillery
 dumpty
 dolomitize
 dwamish
