@@ -14732,6 +14732,7 @@ citatory
 canvassers
 cookery
 cite
+consultor
 citer
 cites
 citharas
@@ -23336,7 +23337,6 @@ cliquishness
 closets
 consultive
 consulto
-consultor
 consults
 consumated
 clerkhood
