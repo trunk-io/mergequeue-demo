@@ -5856,7 +5856,6 @@ banquo
 bethorns
 buckbrush
 baronship
-banatite
 broch
 bibliotheque
 bellmanship
@@ -15326,6 +15325,7 @@ bicarinate
 blennioidea
 bolomen
 burseraceous
+banatite
 biscot
 bewitchingly
 bohawn
