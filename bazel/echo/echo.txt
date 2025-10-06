@@ -1253,7 +1253,6 @@ eq
 eeriness
 epithalamion
 encircler
-endogenesis
 enclasped
 eassel
 enteroid
@@ -8951,6 +8950,7 @@ epiphanous
 eteoclus
 exteroceptive
 erythematic
+endogenesis
 endoplasm
 exclude
 ericas
