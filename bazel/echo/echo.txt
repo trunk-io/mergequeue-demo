@@ -794,6 +794,7 @@ ectypography
 entrecote
 equations
 enslaver
+elastics
 etude
 enquire
 elaeagnus
@@ -1967,7 +1968,6 @@ euthamia
 edacity
 epop
 exteriorate
-elastics
 economizing
 embarricado
 epigastriocele
