@@ -7483,7 +7483,6 @@ crenula
 covercle
 cytogenetical
 ceratoglossal
-ceratohyal
 consentaneously
 ceratohyoid
 ceratonia
@@ -13219,6 +13218,7 @@ cycles
 castoridae
 crookbilled
 cyclic
+ceratohyal
 chaplainry
 cyclical
 cyclizing
