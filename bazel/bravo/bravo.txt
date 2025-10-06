@@ -2607,6 +2607,7 @@ bable
 bribeable
 basketball
 barling
+besonnet
 broadsword
 bluestone
 barretter
@@ -18153,7 +18154,6 @@ benching
 butyn
 botanicas
 bacillicide
-besonnet
 bannerless
 begets
 bosses
