@@ -6454,7 +6454,6 @@ bergamiol
 backcloth
 barangay
 buttercups
-biternate
 benzothiofuran
 benzothiophene
 benzotrichloride
@@ -16705,6 +16704,7 @@ bokmakierie
 buckberry
 boily
 bebaron
+biternate
 bovey
 buckboards
 bloodspiller
