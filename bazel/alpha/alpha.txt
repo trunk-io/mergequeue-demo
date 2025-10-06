@@ -6774,6 +6774,7 @@ airfoil
 allemontite
 antispermotoxin
 aminopyrine
+antipopular
 airfoils
 airglow
 arteriopathy
@@ -12025,7 +12026,6 @@ acubens
 armagnac
 aljama
 anarthrosis
-antipopular
 anarthrousness
 assassinate
 avionics
