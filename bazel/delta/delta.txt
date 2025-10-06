@@ -10998,7 +10998,6 @@ determinateness
 disapprovals
 disapproves
 disillusioned
-demonetisation
 deink
 decentness
 disarmed
@@ -15640,6 +15639,7 @@ demot
 disespouse
 dopping
 doppio
+demonetisation
 debouchment
 dactyloscopy
 diagnostically
