@@ -5824,7 +5824,6 @@ categorise
 collator
 canisters
 categorised
-chansonnier
 cultivated
 cochlearia
 cuemanship
@@ -13283,6 +13282,7 @@ capercailzie
 cesura
 cheatee
 cycloids
+chansonnier
 candlewasting
 comprehending
 cyclolysis
