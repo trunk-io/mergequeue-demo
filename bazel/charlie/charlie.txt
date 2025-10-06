@@ -3190,6 +3190,7 @@ casques
 carpophyl
 capitalizing
 calvadoses
+closable
 capitalness
 capitan
 capitasti
@@ -16576,7 +16577,6 @@ cloques
 cathodically
 cimaroon
 clos
-closable
 closeable
 closecross
 closed
