@@ -1962,6 +1962,7 @@ bandcutter
 bhaiachara
 baryte
 banisher
+bioastronautical
 banishing
 banishment
 banyuls
@@ -10275,7 +10276,6 @@ betattering
 buri
 boyd
 bitternut
-bioastronautical
 barleycorn
 breakpoints
 boehmenism
