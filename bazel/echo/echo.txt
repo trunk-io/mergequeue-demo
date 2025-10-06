@@ -1921,7 +1921,6 @@ equicurve
 emigates
 electo
 endothermal
-enabled
 essenical
 ejected
 eupatorine
@@ -11951,6 +11950,7 @@ enamelled
 epidialogue
 exclusivity
 effluents
+enabled
 exteriorized
 excogitator
 engrossingly
