@@ -6658,6 +6658,7 @@ ceders
 copepods
 cottiers
 cedilla
+cuorin
 cleanness
 cedillas
 cedis
@@ -9311,7 +9312,6 @@ cordite
 chaucerian
 creditableness
 chauchat
-cuorin
 chaudfroid
 chauffage
 chauffer
