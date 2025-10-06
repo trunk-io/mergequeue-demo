@@ -3134,7 +3134,6 @@ elongation
 ectomesoblast
 edict
 epiplastral
-eom
 emmarble
 erythropsin
 elaborate
@@ -7485,6 +7484,7 @@ extensively
 ephrathite
 enhearse
 eastmost
+eom
 epoxides
 electrosynthesis
 ethylate
