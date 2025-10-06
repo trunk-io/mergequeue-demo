@@ -6632,7 +6632,6 @@ construability
 carders
 cecrops
 cecum
-cecums
 cecutiency
 cedar
 cedary
@@ -19336,6 +19335,7 @@ colonist
 colonizable
 colonize
 comminating
+cecums
 courted
 colonizers
 chordomesoderm
