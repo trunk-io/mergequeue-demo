@@ -3054,7 +3054,6 @@ bedspring
 birdlime
 baseburner
 basecourt
-baselevel
 biradiate
 barycenter
 barish
@@ -4124,6 +4123,7 @@ beastling
 bullswool
 byrlady
 beastman
+baselevel
 beastship
 balzarine
 bundists
