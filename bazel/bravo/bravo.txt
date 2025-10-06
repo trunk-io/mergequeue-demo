@@ -2277,7 +2277,6 @@ biasways
 breloque
 barbicel
 bespice
-bemitred
 barbicels
 bathonian
 bateaux
@@ -5282,6 +5281,7 @@ backspacing
 bockeret
 bronzer
 bracken
+bemitred
 brabble
 brailled
 bitless
