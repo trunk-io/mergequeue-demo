@@ -3453,6 +3453,7 @@ byroads
 bonagh
 batfishes
 biri
+belemnid
 bondholder
 barlow
 batfowl
@@ -15651,7 +15652,6 @@ barrenest
 boatel
 bg
 burred
-belemnid
 broadcast
 broadcaster
 barbadian
