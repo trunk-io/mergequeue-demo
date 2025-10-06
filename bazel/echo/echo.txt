@@ -445,7 +445,6 @@ erbia
 ergatandry
 ecclesiarch
 ecclesiarchy
-emcee
 ecclesiast
 encephalomata
 extratellurian
@@ -6795,6 +6794,7 @@ ethnogenic
 endosperm
 emmenology
 emotes
+emcee
 exoticism
 exalted
 enumerating
