@@ -6250,7 +6250,6 @@ covertness
 caudofemoral
 caudolateral
 chamkanni
-curstness
 centetidae
 countershout
 cauk
@@ -9174,6 +9173,7 @@ chasm
 cotonia
 chasma
 chasmed
+curstness
 caddy
 clypeolate
 chasmogamous
