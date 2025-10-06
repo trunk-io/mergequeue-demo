@@ -5794,7 +5794,6 @@ afterbrain
 anthropomorphise
 automatin
 assientist
-autocoid
 acrocoracoid
 agenesis
 agenetic
@@ -22287,6 +22286,7 @@ androseme
 astrochemistry
 astrocytomas
 asecretory
+autocoid
 aplanat
 avifaunally
 astrodiagnosis
