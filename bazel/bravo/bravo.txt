@@ -3511,6 +3511,7 @@ bigmouths
 bathythermograph
 bathkol
 bipartite
+boardinghouse
 bathmat
 boomed
 bathmats
@@ -11619,7 +11620,6 @@ boanergism
 board
 boarded
 besmudged
-boardinghouse
 bodyplate
 boardings
 bespit
