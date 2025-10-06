@@ -11919,7 +11919,6 @@ chorial
 cilician
 choriamb
 choriambic
-chorometry
 cooperant
 coaggregated
 confarreate
@@ -21439,6 +21438,7 @@ correa
 cicadidae
 concludingly
 chiococcine
+chorometry
 clerkly
 corvinas
 conclusible
