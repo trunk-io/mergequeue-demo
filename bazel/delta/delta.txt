@@ -1250,7 +1250,6 @@ diazoic
 datives
 deplane
 dianilide
-desmids
 datolitic
 dunfish
 denari
@@ -10228,6 +10227,7 @@ dioctahedral
 dioctophyme
 deave
 defaulting
+desmids
 dioecy
 demurred
 dioecian
