@@ -1711,7 +1711,6 @@ decad
 dundees
 deathrates
 dopamines
-deaths
 dhaura
 dialiness
 deathsman
@@ -7882,6 +7881,7 @@ dextranase
 doublelunged
 disallowable
 dexamethasone
+deaths
 downsteepy
 deduct
 decimeters
