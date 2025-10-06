@@ -649,7 +649,6 @@ boiseries
 baculoid
 bifilar
 bushmanship
-baculus
 badaga
 badarian
 biorgan
@@ -12051,6 +12050,7 @@ buckers
 bacchical
 bombastry
 bimillenary
+baculus
 brother
 bund
 bogued
