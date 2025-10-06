@@ -5366,7 +5366,6 @@ esthesiometer
 enfester
 exportation
 ed
-example
 enrollees
 electronvolt
 endowment
@@ -11957,6 +11956,7 @@ effluents
 excogitator
 engrossingly
 electros
+example
 extraembryonic
 eclating
 explodes
