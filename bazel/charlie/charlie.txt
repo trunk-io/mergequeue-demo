@@ -7175,6 +7175,7 @@ clinoaxis
 cpo
 clewed
 centred
+counteraction
 caisse
 chernozem
 centreless
@@ -26697,7 +26698,6 @@ costrels
 chessart
 chanfrons
 compilation
-counteraction
 calamumi
 compatibly
 contendere
