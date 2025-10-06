@@ -372,7 +372,6 @@ dayman
 droughtiness
 detruss
 daymares
-disseizes
 diarists
 discoloured
 daymark
@@ -1241,6 +1240,7 @@ datisi
 dative
 dreamlore
 dimouts
+disseizes
 dunster
 danthonia
 diagnostication
