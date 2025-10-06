@@ -3133,7 +3133,6 @@ edict
 epiplastral
 emmarble
 erythropsin
-elaborate
 epicurishly
 evinced
 electrocratic
@@ -13742,6 +13741,7 @@ enki
 extispex
 effusely
 exodontist
+elaborate
 excerptor
 ethnize
 expungement
