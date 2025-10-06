@@ -4125,6 +4125,7 @@ cariogenic
 comd
 cerebellums
 cardiologist
+chiplet
 cardiologists
 cardiomegaly
 creature
@@ -10815,7 +10816,6 @@ cinnoline
 chip
 chipchop
 chipewyan
-chiplet
 curiosity
 chipmunk
 claviharp
