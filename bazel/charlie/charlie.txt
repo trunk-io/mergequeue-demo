@@ -17328,7 +17328,6 @@ chrysolite
 coast
 cardel
 copycat
-cg
 cohabitant
 coastguardman
 contemplator
@@ -23707,6 +23706,7 @@ contractly
 contractor
 cowls
 contracts
+cg
 contractu
 crosshauling
 centrefold
