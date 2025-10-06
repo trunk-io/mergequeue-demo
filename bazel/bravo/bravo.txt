@@ -3385,7 +3385,6 @@ boughpot
 bef
 bastite
 brushfire
-basto
 baguios
 bibliolatrous
 banuyo
@@ -10952,6 +10951,7 @@ blesbuck
 beamers
 blinkards
 bowses
+basto
 basta
 beaneries
 buddhic
