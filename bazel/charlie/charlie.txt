@@ -13114,7 +13114,6 @@ cooner
 crossbowman
 cotys
 cairene
-capitols
 catstone
 cycadofilices
 cycadophyta
@@ -16564,6 +16563,7 @@ colasciones
 circut
 carangus
 clonus
+capitols
 cloof
 chymaqueous
 chemicoluminescence
