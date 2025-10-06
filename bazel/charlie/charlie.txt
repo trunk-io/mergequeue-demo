@@ -4230,7 +4230,6 @@ covenant
 characteristic
 coauthored
 cashel
-cursillo
 careless
 carelessly
 carelessness
@@ -19121,6 +19120,7 @@ cristate
 chaptrel
 chariotlike
 collinsite
+cursillo
 chalaco
 collinsonia
 colliquable
