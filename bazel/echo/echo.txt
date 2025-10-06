@@ -3058,7 +3058,6 @@ epigram
 exudations
 ejectives
 echograph
-elocutionary
 eximiousness
 epifaunae
 eyewash
@@ -13051,6 +13050,7 @@ exampling
 extensionality
 ergology
 ergonovine
+elocutionary
 entophyte
 echopraxia
 extracystic
