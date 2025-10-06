@@ -8519,7 +8519,6 @@ extratorrid
 excarnate
 ethmoiditis
 egrimonle
-epiphysis
 entertainment
 elain
 epiguanine
@@ -12909,6 +12908,7 @@ exanthema
 ensnarls
 entice
 expertise
+epiphysis
 expectorant
 expectorate
 expectorated
