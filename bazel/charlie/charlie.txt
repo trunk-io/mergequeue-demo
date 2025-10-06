@@ -1836,6 +1836,7 @@ crampet
 containers
 cologne
 cotwin
+chumpy
 calicoed
 causans
 chickling
@@ -2345,7 +2346,6 @@ crowberry
 cogs
 companator
 chinbones
-chumpy
 canarian
 conyza
 canarine
