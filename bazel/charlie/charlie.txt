@@ -27196,7 +27196,6 @@ chunder
 countersunken
 cava
 chrotta
-countersway
 countersworn
 countertack
 countertally
@@ -28835,6 +28834,7 @@ carline
 cresorcinol
 cryogenies
 ctg
+countersway
 cresoxy
 cloyed
 concumbency
