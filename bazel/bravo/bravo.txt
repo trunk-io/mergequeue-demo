@@ -9615,6 +9615,7 @@ bisected
 bandlimits
 bromated
 bisectors
+burrowed
 bisectrices
 busybodyness
 birlinn
@@ -17313,7 +17314,6 @@ bumming
 balladic
 bummler
 barberite
-burrowed
 braillewriter
 blobber
 beechier
