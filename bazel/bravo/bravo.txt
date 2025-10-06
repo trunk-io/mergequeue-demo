@@ -5925,7 +5925,6 @@ basque
 berber
 biggety
 beltane
-belauding
 bagh
 bimetalic
 brevicaudate
@@ -10314,6 +10313,7 @@ bosporian
 brambleberry
 bladewise
 baluchithere
+belauding
 blennostasis
 bestudding
 blaeberries
