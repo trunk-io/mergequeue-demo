@@ -14627,7 +14627,6 @@ cystigerous
 cystignathidae
 cystignathine
 criminology
-cystis
 circulates
 cystitides
 cystitis
@@ -25601,6 +25600,7 @@ corporacy
 coarticulation
 corporacies
 corporalcy
+cystis
 corporale
 corporalism
 corporality
