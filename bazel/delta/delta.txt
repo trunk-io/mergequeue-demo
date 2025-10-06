@@ -1159,7 +1159,6 @@ dreggish
 datably
 demoiselles
 defrauder
-datafile
 dunts
 doloriferous
 daphni
@@ -8127,6 +8126,7 @@ dasyure
 demurrer
 droddum
 dyadics
+datafile
 diadkokinesia
 diadochi
 deflesh
