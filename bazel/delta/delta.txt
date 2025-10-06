@@ -2530,7 +2530,6 @@ drudgery
 decode
 deoxygenation
 didrachma
-decodon
 diswarrened
 dahomeyan
 dirndl
@@ -8084,6 +8083,7 @@ damselhood
 duple
 deprecate
 disload
+decodon
 drapeability
 didodecahedral
 desertful
