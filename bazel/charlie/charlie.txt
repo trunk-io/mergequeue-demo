@@ -3755,7 +3755,6 @@ captress
 ciconia
 carbasus
 chloroethylene
-carbazic
 carbazylic
 chlorpikrin
 cheerios
@@ -16545,6 +16544,7 @@ cloisterwise
 cloistral
 caules
 concoagulation
+carbazic
 cloit
 chamisos
 cloke
