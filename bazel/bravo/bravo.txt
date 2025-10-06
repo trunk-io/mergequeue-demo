@@ -10962,7 +10962,6 @@ bumps
 beetler
 biloquist
 biclinia
-bepraise
 bossship
 barth
 bourrees
@@ -16260,6 +16259,7 @@ berycine
 bilithon
 braillist
 blimy
+bepraise
 bandboxy
 balladeer
 blackit
