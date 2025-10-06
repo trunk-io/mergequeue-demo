@@ -6849,6 +6849,7 @@ endangered
 entomostraca
 electrum
 endamageable
+examined
 eudemonist
 ectocardia
 evaporable
@@ -9482,7 +9483,6 @@ eva
 escry
 escribientes
 escrime
-examined
 ecstasy
 erosivity
 epiphanising
