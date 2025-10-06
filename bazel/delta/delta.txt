@@ -6185,7 +6185,6 @@ dotter
 derma
 dispells
 dermabrasion
-dithyramb
 detectors
 dipsades
 disbenchment
@@ -14162,6 +14161,7 @@ daboia
 disvisage
 disyoked
 disulfoxid
+dithyramb
 derange
 doublet
 disvisor
