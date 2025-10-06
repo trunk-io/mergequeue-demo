@@ -1589,6 +1589,7 @@ ballots
 ballottement
 backlotter
 baronage
+beworn
 bedeafen
 bloodhound
 boycotter
@@ -7638,7 +7639,6 @@ boliviano
 beeyard
 brog
 bovids
-beworn
 bullocks
 borne
 behearse
