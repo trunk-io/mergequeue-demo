@@ -561,7 +561,6 @@ emblematize
 embubble
 esthetophore
 equicrural
-epigeal
 enhydros
 epeisodion
 echometer
@@ -2620,6 +2619,7 @@ expressiveness
 emptional
 eiry
 ethnocentrism
+epigeal
 electrosmosis
 epihippus
 entocoelic
