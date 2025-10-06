@@ -1285,7 +1285,6 @@ balaos
 baroquely
 barbed
 balat
-bostryx
 bloodbeat
 bingey
 belying
@@ -12733,6 +12732,7 @@ behaviour
 blastophthoric
 bibliographically
 bowet
+bostryx
 booker
 boatkeeper
 bailsmen
