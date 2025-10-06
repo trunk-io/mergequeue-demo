@@ -5429,7 +5429,6 @@ almoning
 adjudicators
 awlworts
 autostandardization
-allocating
 aftercost
 aftercure
 affrontment
@@ -19938,6 +19937,7 @@ assurge
 armilla
 armillae
 annually
+allocating
 armillary
 aposelene
 annist
