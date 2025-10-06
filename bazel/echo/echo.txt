@@ -3123,7 +3123,6 @@ ecliptic
 enskyed
 epirrheme
 embryotome
-epidermidalization
 erythrochaete
 essayer
 exclamative
@@ -12143,6 +12142,7 @@ entrechats
 emanated
 elementalism
 echiurida
+epidermidalization
 emerized
 embrave
 execratively
