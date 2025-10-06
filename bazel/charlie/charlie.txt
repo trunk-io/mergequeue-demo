@@ -3079,7 +3079,6 @@ chequerboard
 capeadores
 capel
 capelan
-capelans
 capelin
 cornette
 capeline
@@ -27136,6 +27135,7 @@ counterscalloped
 cockadoodledoo
 carpent
 counterscarp
+capelans
 counterscoff
 counterscrutiny
 cancelation
