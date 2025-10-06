@@ -15427,7 +15427,6 @@ dacus
 domn
 dermatoglyphic
 ductule
-deoxyribonucleic
 dopehead
 dope
 dompteuse
@@ -16760,6 +16759,7 @@ dopamine
 dominee
 demurely
 decurtate
+deoxyribonucleic
 daniglacial
 dhamma
 databases
