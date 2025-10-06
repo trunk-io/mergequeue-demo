@@ -11325,7 +11325,6 @@ barse
 baith
 blackguards
 bluest
-bespoused
 blowsier
 blowtorches
 bossiness
@@ -15004,6 +15003,7 @@ boatfalls
 boatly
 breccias
 brecciated
+bespoused
 bool
 beglerbeglic
 brechams
