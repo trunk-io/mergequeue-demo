@@ -5414,7 +5414,6 @@ afterdays
 archology
 augrim
 afterdate
-antifoam
 acknowledgements
 amadou
 adipomata
@@ -7440,6 +7439,7 @@ albuginitis
 album
 argufies
 aviatress
+antifoam
 admittee
 albumeniizer
 albumenisation
