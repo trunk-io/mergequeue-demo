@@ -1899,6 +1899,7 @@ bocaccios
 bagnio
 balances
 bandstring
+burlesk
 bathymetric
 brandishes
 beeway
@@ -12781,7 +12782,6 @@ banzais
 bearess
 bookmobiles
 baroni
-burlesk
 bookpress
 bookracks
 blacklegging
