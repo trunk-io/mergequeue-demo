@@ -4445,7 +4445,6 @@ becross
 bordman
 bureaucratist
 billows
-bureaucratism
 becrowd
 becrowded
 burstwort
@@ -16334,6 +16333,7 @@ blowlamp
 bruised
 backtrack
 bock
+bureaucratism
 bollworms
 biovular
 broadswords
