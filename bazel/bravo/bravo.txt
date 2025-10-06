@@ -6994,7 +6994,6 @@ besiege
 barrico
 besiegers
 bedeman
-beslave
 bushbashing
 bouffe
 brownistic
@@ -15493,6 +15492,7 @@ brindisi
 brenda
 bultey
 beignet
+beslave
 bihai
 bans
 bondless
