@@ -1106,7 +1106,6 @@ amatrice
 advocatrice
 anythingarianism
 automat
-asymptotic
 abutilon
 abutment
 articulant
@@ -24322,6 +24321,7 @@ archduchess
 alkalometry
 alliteral
 allochroic
+asymptotic
 aeromotor
 autonomize
 ascaridia
