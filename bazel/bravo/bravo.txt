@@ -6471,7 +6471,6 @@ blowup
 benzothiazine
 benzothiazoline
 badlands
-bitripartite
 benzothiodiazole
 bergamiol
 backcloth
@@ -10000,6 +9999,7 @@ breakfasts
 bituminate
 bituminising
 bituminized
+bitripartite
 burnbeat
 bucktail
 bedivere
