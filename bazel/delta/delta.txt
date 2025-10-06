@@ -10146,7 +10146,6 @@ dissembler
 drillability
 dispassioned
 deripia
-declarable
 demirevetment
 decongesting
 disallowing
@@ -17411,6 +17410,7 @@ drownd
 dipleurogenesis
 diaphonical
 drowning
+declarable
 drowses
 drowsier
 dumous
