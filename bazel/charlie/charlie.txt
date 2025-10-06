@@ -5871,7 +5871,6 @@ catenation
 catenative
 content
 capomo
-compositorial
 catenoid
 catenulate
 cacozyme
@@ -25212,6 +25211,7 @@ corydine
 creese
 consolate
 corylaceae
+compositorial
 corylaceous
 contraprop
 chenopodiales
