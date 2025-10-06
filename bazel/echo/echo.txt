@@ -1386,7 +1386,6 @@ epitasis
 essenced
 endpiece
 epithet
-entodermal
 epipodialia
 erythrocytolytic
 espoused
@@ -4029,6 +4028,7 @@ equitant
 electroextraction
 egotistical
 eugenical
+entodermal
 electrotonize
 endoceratitic
 entries
