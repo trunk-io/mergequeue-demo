@@ -1030,7 +1030,6 @@ aftershaft
 auscultatory
 absurdly
 abt
-abterminal
 abridged
 anniv
 allay
@@ -19348,6 +19347,7 @@ aho
 arthrobranchia
 altercative
 arithmetics
+abterminal
 acridities
 argals
 arrayer
