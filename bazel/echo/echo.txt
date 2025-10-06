@@ -5372,6 +5372,7 @@ exportation
 ed
 enrollees
 electronvolt
+enrolled
 endowment
 ectene
 elamp
@@ -6270,7 +6271,6 @@ embastioned
 eyeholes
 empoririums
 enrolle
-enrolled
 eolotropic
 extraorbitally
 efformative
