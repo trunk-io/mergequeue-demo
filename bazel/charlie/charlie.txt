@@ -5224,6 +5224,7 @@ cultist
 custodiam
 crwth
 cassady
+clochard
 champacs
 cassan
 chefdom
@@ -13620,7 +13621,6 @@ cymbalon
 crotyl
 cubicles
 cymbid
-clochard
 cymbidium
 catchpollery
 copartner
