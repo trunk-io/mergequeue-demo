@@ -9096,7 +9096,6 @@ extrality
 extravascular
 ellipsometer
 epipastic
-enlivened
 erythrocytoschisis
 embryogony
 ectasia
@@ -12506,6 +12505,7 @@ electrostatics
 exocoelum
 evection
 equiped
+enlivened
 electioneered
 epifascial
 empresa
