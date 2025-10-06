@@ -18921,7 +18921,6 @@ colinear
 chelodina
 chadars
 cabins
-colinearity
 cypselus
 colinus
 carolina
@@ -28660,6 +28659,7 @@ cavillation
 cornball
 counterreconnaissance
 cremaster
+colinearity
 cyanogenesis
 calendarian
 cremasterial
