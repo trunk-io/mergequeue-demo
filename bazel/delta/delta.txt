@@ -5355,7 +5355,6 @@ disorganize
 dillydally
 deyhouse
 delicatesse
-deconvolution
 dreidls
 distiller
 denudant
@@ -8067,6 +8066,7 @@ disembodied
 diacetin
 damager
 duroquinone
+deconvolution
 descenders
 diaplexal
 dromiacea
