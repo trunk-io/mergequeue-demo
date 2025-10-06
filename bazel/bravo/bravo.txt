@@ -1587,7 +1587,6 @@ ballotist
 ballots
 ballottement
 backlotter
-baronage
 bedeafen
 bloodhound
 boycotter
@@ -15879,6 +15878,7 @@ bluebreast
 bromaurate
 bromauric
 ballottable
+baronage
 bumboats
 bowwort
 bluntly
