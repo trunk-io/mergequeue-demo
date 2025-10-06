@@ -786,7 +786,6 @@ dovecote
 danegelds
 dungeon
 druggery
-deckhead
 discomycete
 daneweed
 doughman
@@ -4065,6 +4064,7 @@ despicably
 divaricate
 domestication
 delightfulness
+deckhead
 dook
 discant
 delightingly
