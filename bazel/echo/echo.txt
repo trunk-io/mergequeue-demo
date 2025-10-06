@@ -4782,7 +4782,6 @@ excusatory
 encode
 extrait
 encoded
-encoding
 effectivity
 exogeny
 electroionic
@@ -6975,6 +6974,7 @@ eponym
 empeoplement
 effecting
 even
+encoding
 eighteenmo
 estmark
 etherified
