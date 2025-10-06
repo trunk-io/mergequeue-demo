@@ -3675,7 +3675,6 @@ dermoid
 disentangled
 desmepithelium
 devisable
-deviability
 dehydrogenisation
 dehydrogenized
 dehydroretinol
@@ -6862,6 +6861,7 @@ delirous
 drunken
 despairful
 doctrinism
+deviability
 diplegia
 diarthroses
 dunamis
