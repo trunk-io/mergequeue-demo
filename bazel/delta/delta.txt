@@ -1250,6 +1250,7 @@ datisi
 dative
 dreamlore
 dimouts
+dispensator
 disseizes
 dunster
 danthonia
@@ -2867,7 +2868,6 @@ dediticiancy
 dedogmatize
 dedolation
 dotingness
-dispensator
 diegesis
 diplasiasmus
 digastric
