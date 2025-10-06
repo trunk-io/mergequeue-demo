@@ -1830,7 +1830,6 @@ exempting
 epidiorite
 eigenvectors
 encystments
-errabund
 elaterin
 equitemporal
 expeller
@@ -8591,6 +8590,7 @@ equilibrant
 epistroma
 emender
 encyclopaedia
+errabund
 enframe
 electrodynamometer
 exprobratory
