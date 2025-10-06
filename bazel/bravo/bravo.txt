@@ -8749,7 +8749,6 @@ backberand
 bimaxillary
 bobsleigh
 bracketted
-basibranchial
 besoothes
 briolettes
 bromopnea
@@ -12574,6 +12573,7 @@ bananas
 befavor
 brunizems
 banians
+basibranchial
 boardwalk
 bowker
 bonewort
