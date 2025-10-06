@@ -5700,6 +5700,7 @@ depoh
 decd
 disli
 depolarization
+disimprove
 dernly
 depolarize
 decalcifier
@@ -8541,7 +8542,6 @@ dialyses
 diary
 disputacity
 diaglyph
-disimprove
 diarist
 decarchy
 diarrhoeal
