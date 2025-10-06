@@ -1605,7 +1605,6 @@ bengali
 ballstock
 ballup
 ballweed
-brehon
 balmarcodes
 baromotor
 bimodality
@@ -8821,6 +8820,7 @@ brining
 bingo
 bingos
 bounden
+brehon
 bedsitter
 besets
 bini
