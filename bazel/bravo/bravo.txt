@@ -12745,7 +12745,6 @@ bowedness
 blanche
 besilver
 botcher
-biaswise
 bear
 bungarus
 benchless
@@ -14380,6 +14379,7 @@ baits
 brahmin
 bougee
 boxkeeper
+biaswise
 banging
 burnable
 bembecidae
