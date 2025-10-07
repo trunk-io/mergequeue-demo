@@ -5379,6 +5379,7 @@ betels
 binder
 beglue
 beerage
+bandworm
 begnaw
 balmy
 bult
@@ -5703,7 +5704,6 @@ belayed
 bowssen
 boer
 beshow
-bandworm
 buettneriaceae
 barony
 bromhidrosis
