@@ -2658,7 +2658,6 @@ diachylon
 decorable
 delectable
 duetto
-decorate
 decorating
 diplophonia
 daukin
@@ -16596,6 +16595,7 @@ dimorphs
 dragoonable
 dirt
 decahedral
+decorate
 dynamometrical
 denunciable
 dragrope
