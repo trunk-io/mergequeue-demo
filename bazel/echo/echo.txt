@@ -1272,7 +1272,6 @@ elengeness
 effects
 enlarge
 equip
-equilibristat
 effectuated
 effectuating
 effervesced
@@ -10889,6 +10888,7 @@ embrittlement
 euproctis
 endophasia
 excluder
+equilibristat
 estufa
 eunuch
 eupsychics
