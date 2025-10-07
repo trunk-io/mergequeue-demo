@@ -2520,6 +2520,7 @@ eatable
 equipped
 electrometallurgist
 emptiable
+elding
 electrometer
 euhemerizing
 exstrophy
@@ -5456,7 +5457,6 @@ eunuchize
 energeticalness
 enterprising
 exclusionist
-elding
 energetics
 energeticness
 epacrid
