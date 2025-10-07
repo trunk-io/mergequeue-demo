@@ -4273,7 +4273,6 @@ carfare
 carfares
 cassie
 carfloat
-coater
 centralia
 carfuffle
 cartoning
@@ -12126,6 +12125,7 @@ courageous
 chrestomathies
 consimilarity
 chimere
+coater
 circuitousness
 colostrous
 chria
