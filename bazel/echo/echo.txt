@@ -4713,6 +4713,7 @@ enterogastrone
 electroshock
 eyelets
 exalbuminose
+ebricty
 echinidea
 extradicting
 encist
@@ -9250,7 +9251,6 @@ eyer
 embosk
 esopgi
 error
-ebricty
 endoscope
 epicyte
 euchologia
