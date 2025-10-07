@@ -10939,7 +10939,6 @@ baldness
 butterbush
 blindfoldedness
 birched
-blksize
 bemoon
 bogglish
 blinding
@@ -17385,6 +17384,7 @@ beneplacity
 baptisia
 bogledom
 bloodmobiles
+blksize
 bolden
 bylawman
 bunger
