@@ -2824,6 +2824,7 @@ contermine
 canonised
 canoniser
 cephalothoraces
+cmdg
 cotorture
 coambassador
 crinid
@@ -30109,7 +30110,6 @@ cephalophorous
 chordoid
 crowder
 codium
-cmdg
 crowdies
 confecture
 crowding
