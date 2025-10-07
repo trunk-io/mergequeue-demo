@@ -4520,7 +4520,6 @@ catapults
 carbine
 cephalogenesis
 colluvies
-churchshot
 climatius
 complimentarity
 cathedratica
@@ -10878,6 +10877,7 @@ cobishop
 cising
 cryptogamian
 cometic
+churchshot
 chloralose
 cowslip
 canzoni
