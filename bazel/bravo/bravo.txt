@@ -2552,7 +2552,6 @@ bears
 boeing
 bairnlier
 bridgelike
-bandaged
 bellon
 barocco
 barkbound
@@ -5278,6 +5277,7 @@ bourignian
 backspacing
 blubbered
 bockeret
+bandaged
 bronzer
 bracken
 bemitred
