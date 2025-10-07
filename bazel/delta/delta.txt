@@ -2766,7 +2766,6 @@ decastellate
 defame
 draggle
 decrypt
-decryption
 dasyus
 decrowning
 desiring
@@ -15623,6 +15622,7 @@ derivative
 dartrose
 defatted
 dismortgage
+decryption
 decollator
 dorsabdominally
 duodial
