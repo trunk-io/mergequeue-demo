@@ -7301,6 +7301,7 @@ buttwood
 baseboards
 betell
 bambuba
+bus
 bizonal
 breve
 blastier
@@ -17860,7 +17861,6 @@ bardocucullus
 burundians
 bridewell
 balers
-bus
 bine
 busbars
 bused
