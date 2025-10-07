@@ -10997,7 +10997,6 @@ byerlite
 batement
 benchmar
 backpiece
-bighorn
 blinkingly
 blady
 batel
@@ -16964,6 +16963,7 @@ bugeyes
 baddy
 brittleness
 bowse
+bighorn
 bereaver
 brickwork
 buggers
