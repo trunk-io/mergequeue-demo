@@ -10506,7 +10506,6 @@ bopyrid
 blaster
 blastid
 bejade
-blasting
 birdshot
 borolanite
 blastocele
@@ -14541,6 +14540,7 @@ boatyards
 bedoctor
 brushback
 brakie
+blasting
 blastophitic
 bramble
 boser
