@@ -1866,7 +1866,6 @@ cartonnage
 cirrocumulus
 cambricleaf
 colobus
-curs
 clerk
 cambridge
 compotor
@@ -19163,6 +19162,7 @@ collyrium
 cedes
 creates
 cystocyte
+curs
 collisive
 cunningest
 caracoler
