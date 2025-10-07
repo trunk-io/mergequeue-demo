@@ -3543,6 +3543,7 @@ bathometer
 blockmaking
 bathool
 boomkins
+beliefs
 bestar
 bathophobia
 biocoenose
@@ -8106,7 +8107,6 @@ biding
 bidirectional
 biophagy
 bellicosities
-beliefs
 bania
 boltonias
 boathouses
