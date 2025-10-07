@@ -6515,6 +6515,7 @@ canmaker
 cavilers
 cavilingly
 craftsmen
+countermands
 cryosurgeon
 ceraunogram
 capuan
@@ -10809,7 +10810,6 @@ clowring
 chinologist
 chronical
 cremations
-countermands
 chinones
 chinook
 clavicylinder
