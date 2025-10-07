@@ -11866,6 +11866,7 @@ buttonless
 bickerer
 barfly
 bullfoot
+baleful
 bodybuilder
 betrinket
 boringly
@@ -17279,7 +17280,6 @@ benedictive
 bumbles
 bootlaces
 bumbling
-baleful
 bumbo
 bumclock
 batling
