@@ -245,7 +245,6 @@ eulamellibranchia
 emendately
 edaphodont
 emasculators
-equisegmented
 easylike
 eerisome
 easted
@@ -9642,6 +9641,7 @@ epicycles
 espy
 earhead
 endaortic
+equisegmented
 espial
 electrocoagulation
 eradiates
