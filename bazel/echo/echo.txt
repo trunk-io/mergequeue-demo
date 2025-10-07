@@ -620,7 +620,6 @@ epicolic
 excide
 eclogic
 extraocular
-eclogite
 eucryptite
 etruscology
 enigmata
@@ -7234,6 +7233,7 @@ erysipelothrix
 elapinae
 eurythermous
 eutaxitic
+eclogite
 eulogises
 extradoses
 eorhyolite
