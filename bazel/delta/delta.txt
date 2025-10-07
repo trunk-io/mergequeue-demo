@@ -6101,7 +6101,6 @@ dissector
 derbend
 debauch
 dermobranchia
-derecho
 disrespectability
 dereferenced
 dereferencing
@@ -13170,6 +13169,7 @@ decohesion
 disposedness
 disposement
 dislocator
+derecho
 dispositional
 dispositioned
 disharmonical
