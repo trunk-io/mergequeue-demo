@@ -764,7 +764,6 @@ bicetyl
 biometrical
 bethorn
 blackout
-building
 baedekerian
 baeria
 begod
@@ -7610,6 +7609,7 @@ blockhead
 boliviano
 beeyard
 brog
+building
 bovids
 beworn
 brigantes
