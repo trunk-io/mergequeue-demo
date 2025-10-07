@@ -2302,6 +2302,7 @@ ashing
 amuse
 anthotropism
 amenity
+anorthoscope
 acidulate
 areometer
 acidulated
@@ -24258,7 +24259,6 @@ autocollimate
 autology
 abying
 allowableness
-anorthoscope
 aggrandizements
 aramus
 accuracy
