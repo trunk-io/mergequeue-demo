@@ -2146,6 +2146,7 @@ candlers
 clerkliest
 camporee
 camphorone
+checksums
 camphorweed
 camphorwood
 cotan
@@ -11068,7 +11069,6 @@ chitimacha
 cormophyta
 chitimachan
 compends
-checksums
 chitinoid
 cowgirl
 churnstaff
