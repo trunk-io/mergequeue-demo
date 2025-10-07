@@ -16484,7 +16484,6 @@ clockmaker
 clockwatcher
 clockwise
 clockworked
-carthamin
 chaldron
 creepage
 copacetic
@@ -28854,6 +28853,7 @@ cringingness
 cresset
 colima
 collimated
+carthamin
 consignificant
 craggier
 cressets
