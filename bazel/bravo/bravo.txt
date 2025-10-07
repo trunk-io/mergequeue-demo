@@ -9351,7 +9351,6 @@ birchers
 birchwood
 bindweb
 barcaroles
-bayal
 belgian
 bara
 bespeed
@@ -9629,6 +9628,7 @@ bicapsular
 believable
 bealing
 bisected
+bayal
 bandlimits
 bromated
 bisectors
