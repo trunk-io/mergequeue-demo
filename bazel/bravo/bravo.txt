@@ -373,7 +373,6 @@ boydom
 breaststroke
 balldress
 briseis
-backhand
 beggardom
 brinjarry
 balkily
@@ -13592,6 +13591,7 @@ barkpeel
 baizing
 bougainvilliidae
 bite
+backhand
 bitangential
 borane
 bouge
