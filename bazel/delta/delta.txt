@@ -3745,7 +3745,6 @@ dieretic
 deicers
 defacingly
 deicides
-deicing
 dismutation
 dissevered
 docilely
@@ -8587,6 +8586,7 @@ diascope
 domed
 distracted
 didactyl
+deicing
 dyassic
 delousing
 divulgate
