@@ -10134,6 +10134,7 @@ bestuds
 bosun
 blabbermouth
 blabbermouths
+blindfolds
 blabbers
 burglars
 blabbing
@@ -10880,7 +10881,6 @@ bonhomme
 brancardier
 beheads
 blew
-blindfolds
 bodilessness
 bosquets
 batekes
