@@ -11238,6 +11238,7 @@ chlorides
 comblike
 cirriferous
 crumhorn
+cannoneers
 covers
 chloridic
 chlorimeter
@@ -19178,7 +19179,6 @@ cord
 comp
 crystallographer
 cauked
-cannoneers
 cartomancy
 collocating
 convolutional
