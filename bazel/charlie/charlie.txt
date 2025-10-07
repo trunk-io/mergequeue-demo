@@ -3920,7 +3920,6 @@ corset
 capra
 chaconne
 carburetors
-carburets
 cuffer
 cosponsored
 cataphracta
@@ -15234,6 +15233,7 @@ clagged
 claggum
 cantala
 commandries
+carburets
 chonchina
 cetraric
 contangos
