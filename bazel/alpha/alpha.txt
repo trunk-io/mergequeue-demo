@@ -10889,7 +10889,6 @@ assumes
 amidship
 altaltissimo
 atafter
-abel
 amoebaea
 alipata
 aillt
@@ -23930,6 +23929,7 @@ alphabetology
 atonicity
 authigenous
 ascones
+abel
 athyroid
 anisocotyly
 aix
