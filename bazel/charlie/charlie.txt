@@ -2045,7 +2045,6 @@ coracoscapular
 campana
 campane
 campanella
-coadjuvancy
 cecils
 comdg
 crunchier
@@ -6634,6 +6633,7 @@ contractedness
 convolvement
 cedars
 cedarwood
+coadjuvancy
 chrobat
 ceded
 ceders
