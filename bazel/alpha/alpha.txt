@@ -1724,7 +1724,6 @@ asphyxies
 acromyotonus
 aromata
 acleistocardia
-agglutinogen
 anemia
 apochromatic
 acedy
@@ -13774,6 +13773,7 @@ anophthalmos
 anopia
 ating
 altimeter
+agglutinogen
 autosomatognostic
 alpenstocker
 audiogram
