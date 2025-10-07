@@ -5712,6 +5712,7 @@ depolish
 davened
 dirties
 draughts
+diadrom
 depolished
 deaconed
 dominates
@@ -16478,7 +16479,6 @@ devest
 dadder
 dynamogenic
 dalasis
-diadrom
 dismissory
 detachers
 deoculate
