@@ -7175,6 +7175,7 @@ empaper
 eyeletter
 ejidos
 enderon
+estrum
 excentricity
 ensues
 erythropoietic
@@ -8353,7 +8354,6 @@ emissile
 epitrachelia
 exarchateship
 epitria
-estrum
 expugn
 exceedable
 earplug
