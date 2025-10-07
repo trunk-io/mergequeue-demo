@@ -8663,7 +8663,6 @@ defeminize
 diatomist
 dot
 doohinkus
-debadge
 dexes
 demimonk
 decime
@@ -16342,6 +16341,7 @@ demiwolf
 draggletailedness
 diapsidan
 doxastic
+debadge
 doxasticon
 dioscorea
 doxie
