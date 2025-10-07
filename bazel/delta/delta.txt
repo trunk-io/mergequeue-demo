@@ -302,6 +302,7 @@ directories
 daybeacon
 desertedly
 daybed
+disoperation
 decriminalized
 dueled
 devchar
@@ -2692,7 +2693,6 @@ debasing
 demonic
 duarchies
 dysfunctioning
-disoperation
 decorum
 darkful
 diamber
