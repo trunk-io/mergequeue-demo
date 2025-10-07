@@ -4851,7 +4851,6 @@ dishmonger
 discage
 depletable
 diluting
-dialogist
 demonologer
 demonology
 demonologically
@@ -10882,6 +10881,7 @@ duoliteral
 discongruity
 durindana
 disagreements
+dialogist
 disrelation
 discircumspection
 disagreing
