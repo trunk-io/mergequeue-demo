@@ -360,7 +360,6 @@ enleaf
 exaltment
 evacuants
 exalte
-extinguisher
 estrepement
 embouchment
 ensear
@@ -2971,6 +2970,7 @@ eliminable
 ergophobic
 eradiation
 eliminate
+extinguisher
 enolize
 embind
 explait
