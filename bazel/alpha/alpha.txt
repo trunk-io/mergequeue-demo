@@ -2968,7 +2968,6 @@ antifoaming
 alalunga
 actinocrinite
 actinodielectric
-actinoelectrically
 alodially
 antigenic
 axwise
@@ -11442,6 +11441,7 @@ alkines
 autonomic
 anime
 amrit
+actinoelectrically
 accoutres
 anywheres
 associations
