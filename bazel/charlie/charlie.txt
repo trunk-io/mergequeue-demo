@@ -15810,7 +15810,6 @@ cleansers
 cynosura
 cleanskin
 cleanskins
-cleanup
 chelaship
 commoves
 colonized
@@ -20022,6 +20021,7 @@ commanding
 changeover
 calkins
 centripetence
+cleanup
 commandingly
 commandingness
 commandite
