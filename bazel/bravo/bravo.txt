@@ -13644,7 +13644,6 @@ botry
 benefaction
 boulanger
 bouldered
-bevatrons
 blisteringly
 bradylexia
 boulderhead
@@ -18380,6 +18379,7 @@ beylical
 batikulin
 breeze
 beasts
+bevatrons
 bluebook
 balaustre
 byronics
