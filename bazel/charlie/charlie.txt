@@ -8245,7 +8245,6 @@ conjurer
 caird
 chalcidoid
 conocarp
-chalcocite
 christianomastix
 chalcogen
 chalcogenide
@@ -12750,6 +12749,7 @@ chalta
 carlist
 cajava
 complices
+chalcocite
 chukchi
 chukka
 coxopodite
