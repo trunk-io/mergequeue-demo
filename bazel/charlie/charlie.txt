@@ -12082,7 +12082,6 @@ cedrin
 clansman
 casula
 cyclophorus
-chose
 chophouses
 comoedia
 convalesces
@@ -12621,6 +12620,7 @@ circumventable
 continently
 circularize
 coalmonger
+chose
 chronologies
 coalternative
 curries
