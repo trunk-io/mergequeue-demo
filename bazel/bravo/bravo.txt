@@ -5924,6 +5924,7 @@ bowden
 boxhauled
 backswordmen
 batswing
+bulblike
 bagge
 blitzkrieg
 blennophobia
@@ -8341,7 +8342,6 @@ bartramian
 bigheartedness
 biblists
 benedictionale
-bulblike
 basin
 bradoon
 burys
