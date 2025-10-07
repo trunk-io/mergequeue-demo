@@ -19409,7 +19409,6 @@ creational
 chinchier
 colorableness
 curratow
-clothing
 collied
 coloradan
 collies
@@ -30733,6 +30732,7 @@ cumberers
 commandeered
 cuisine
 coaxingly
+clothing
 chicles
 castelet
 carunculous
