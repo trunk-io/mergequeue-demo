@@ -5954,7 +5954,6 @@ drumroll
 djinni
 diobols
 dalis
-denizen
 dodgy
 demonetization
 disapprove
@@ -14649,6 +14648,7 @@ dignified
 dissyllabizing
 deign
 damageable
+denizen
 djin
 daywrit
 disrespondency
