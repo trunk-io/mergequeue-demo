@@ -2672,7 +2672,6 @@ enduros
 electrotherapy
 emyds
 epirot
-emulsoidal
 exploiture
 elongations
 embryotic
@@ -13723,6 +13722,7 @@ euphorbia
 ellipses
 extinctor
 ententophil
+emulsoidal
 etaballi
 encyrtidae
 ectoenzym
