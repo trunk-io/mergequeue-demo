@@ -2988,6 +2988,7 @@ dyschiria
 dentaria
 dittany
 distributing
+destructible
 digitise
 defacer
 duskier
@@ -4233,7 +4234,6 @@ disputatious
 delthyrial
 disilane
 debruising
-destructible
 dineros
 danseuses
 donna
