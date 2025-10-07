@@ -2550,7 +2550,6 @@ barytone
 barytons
 busing
 busbar
-bowable
 bears
 boeing
 bairnlier
@@ -13224,6 +13223,7 @@ borzoi
 brigue
 bender
 boulter
+bowable
 begemmed
 boulevardize
 bewit
