@@ -11364,7 +11364,6 @@ ambulacral
 aitkenite
 aircrewman
 aurine
-antonina
 agonistarch
 amphigaean
 asperite
@@ -22759,6 +22758,7 @@ atmo
 atmocausis
 atmoclastic
 acturience
+antonina
 asgd
 albizias
 acrawl
