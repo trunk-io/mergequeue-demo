@@ -4113,7 +4113,6 @@ cardiocele
 chevronelly
 cardiocirrhosis
 cardioclasis
-complanar
 cacuminate
 consubsistency
 cardiodilator
@@ -13101,6 +13100,7 @@ cyclorrhapha
 cyberneticist
 cybernion
 cibol
+complanar
 catharpin
 conjugacy
 caphite
