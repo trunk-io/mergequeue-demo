@@ -1105,6 +1105,7 @@ editorships
 encrown
 expilator
 estuaries
+equiprobability
 eutomous
 endosternite
 edoni
@@ -10545,7 +10546,6 @@ extravasated
 ecdyson
 enterritoriality
 eavesdroppers
-equiprobability
 exchangee
 emblematically
 encryption
