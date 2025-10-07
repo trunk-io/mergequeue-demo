@@ -3374,7 +3374,6 @@ embark
 epichorial
 embarkations
 epitomize
-embitterments
 embarks
 equipage
 ep
@@ -4763,6 +4762,7 @@ exogenae
 epiphenomenalist
 establishments
 epineural
+embitterments
 euthyneural
 exploratory
 extracardial
