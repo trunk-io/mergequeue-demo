@@ -493,7 +493,6 @@ abjunct
 antipoints
 arundinaria
 autopneumatic
-assonantal
 agomphiasis
 amphineurous
 abjurations
@@ -6103,6 +6102,7 @@ antichresis
 autodidact
 agnoete
 agrah
+assonantal
 agnoite
 averseness
 alco
