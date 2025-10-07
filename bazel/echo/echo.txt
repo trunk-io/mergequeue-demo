@@ -5534,6 +5534,7 @@ enfeoffing
 entheasm
 earthquake
 enamellar
+entoil
 euxenite
 enculturated
 endymal
@@ -6792,7 +6793,6 @@ exsection
 enrooted
 epipany
 expiatist
-entoil
 entoils
 embroscopic
 expendable
