@@ -3907,7 +3907,6 @@ entame
 endopeptidase
 extemporiser
 evader
-enstate
 equidiurnal
 embalms
 epiblasts
@@ -11743,6 +11742,7 @@ expenders
 encolpion
 entoproctous
 excaudate
+enstate
 excavator
 erinite
 enlace
