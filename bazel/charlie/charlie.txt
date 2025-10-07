@@ -18461,6 +18461,7 @@ chaotical
 cogway
 cerite
 cogweel
+consumerist
 cogweels
 cogwood
 cohabitancy
@@ -23343,7 +23344,6 @@ consume
 consumedly
 consumeless
 cassandra
-consumerist
 consumes
 cantefable
 chromize
