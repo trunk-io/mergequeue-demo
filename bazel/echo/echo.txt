@@ -3907,7 +3907,6 @@ entame
 endopeptidase
 extemporiser
 evader
-enstate
 equidiurnal
 embalms
 epiblasts
@@ -11642,6 +11641,7 @@ ericetum
 excorticating
 exappendiculate
 eximious
+enstate
 exarate
 expurge
 elvan
