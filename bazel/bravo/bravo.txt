@@ -1490,6 +1490,7 @@ ballas
 baronetised
 blacktopping
 bodyhood
+barde
 bersiamite
 bouton
 backsword
@@ -2344,7 +2345,6 @@ barcoo
 bemoisten
 besplash
 bardcraft
-barde
 beleve
 buckhorn
 branchling
