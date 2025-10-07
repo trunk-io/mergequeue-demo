@@ -12404,7 +12404,6 @@ cnidophobia
 culebra
 chromatopsia
 chromatoptometer
-chromatoptometry
 couch
 chromatoscopy
 circumduct
@@ -24133,6 +24132,7 @@ croatian
 catoptrics
 commiserator
 chomper
+chromatoptometry
 conversusi
 chylocele
 cagily
