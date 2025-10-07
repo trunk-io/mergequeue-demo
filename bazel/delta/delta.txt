@@ -537,6 +537,7 @@ damageability
 disodic
 damageably
 detonatable
+dar
 doxographical
 detort
 damageous
@@ -10376,7 +10377,6 @@ diospyros
 despend
 dominance
 disconsonant
-dar
 ditcher
 dug
 dogmatic
