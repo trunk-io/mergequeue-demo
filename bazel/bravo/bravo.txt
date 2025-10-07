@@ -6114,6 +6114,7 @@ barricader
 biomasses
 bend
 bub
+bucktoothed
 burnets
 bendee
 buries
@@ -16794,7 +16795,6 @@ bedfoot
 burly
 bucktooth
 bronchovesicular
-bucktoothed
 bucku
 boodie
 buckwheatlike
