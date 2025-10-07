@@ -310,6 +310,7 @@ daybeacon
 desertedly
 daybed
 decriminalized
+dueled
 devchar
 dhurnas
 discontinues
@@ -17828,7 +17829,6 @@ dels
 doctrine
 diagnosticians
 dishmaking
-dueled
 deathday
 duelers
 decocted

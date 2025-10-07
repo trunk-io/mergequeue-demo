@@ -10879,7 +10879,6 @@ bosquets
 berloque
 batekes
 bongrace
-biolith
 blickie
 blickies
 britskas
@@ -16210,6 +16209,7 @@ brailed
 backswimmer
 bebed
 blowdown
+biolith
 barbudo
 bilbie
 bacillicidic
