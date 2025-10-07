@@ -6487,6 +6487,7 @@ astronaut
 aidman
 apothecal
 aids
+arithmancy
 afterripening
 arbalestre
 apocarpous
@@ -19775,7 +19776,6 @@ alfuro
 ambatch
 antefixa
 antinihilistic
-arithmancy
 agenesias
 arithmetic
 autophthalmoscope
