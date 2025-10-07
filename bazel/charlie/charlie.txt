@@ -7036,7 +7036,6 @@ checkrail
 carraway
 cack
 centennial
-centennially
 cursaro
 corroborant
 centennials
@@ -15347,6 +15346,7 @@ congous
 clamourous
 characterizations
 checkrow
+centennially
 clamoursome
 clamped
 clamps
