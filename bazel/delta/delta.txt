@@ -16192,7 +16192,6 @@ disemployed
 dowsets
 downlinks
 daff
-densitometer
 determinedness
 dulat
 deprecating
@@ -17665,6 +17664,7 @@ dwarves
 deuteroelastose
 dynamism
 degradable
+densitometer
 decaffeinating
 disinvestiture
 dubber
