@@ -1789,7 +1789,6 @@ broadlings
 bandfile
 bandfiled
 bandh
-backhanded
 birken
 bemisted
 bandhook
@@ -13423,6 +13422,7 @@ buffoonery
 buzziest
 brumous
 blasted
+backhanded
 backshift
 bluenoses
 billsticker
