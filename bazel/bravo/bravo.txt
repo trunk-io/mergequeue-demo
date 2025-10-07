@@ -9011,7 +9011,6 @@ busybodyish
 biologist
 bondminder
 blaunner
-bedstands
 bewhite
 brender
 biomathematics
@@ -11312,6 +11311,7 @@ backlashes
 bepress
 boomiest
 boccale
+bedstands
 bullshits
 butling
 bronchoesophagoscopy
