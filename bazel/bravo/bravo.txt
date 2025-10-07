@@ -17443,6 +17443,7 @@ bunkers
 beard
 burler
 balsawood
+basipoditic
 bewearying
 boltspreet
 becloaked
@@ -17546,7 +17547,6 @@ benzotetrazine
 burdensome
 burdigalian
 barbera
-basipoditic
 blowpoint
 barology
 burds
