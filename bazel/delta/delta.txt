@@ -653,6 +653,7 @@ dusenwind
 ditroite
 deejay
 damon
+deprecator
 damosel
 drachms
 decuries
@@ -5789,7 +5790,6 @@ disconcert
 deprecative
 dissolvable
 delibate
-deprecator
 deprecatory
 deoxidised
 desensitization
