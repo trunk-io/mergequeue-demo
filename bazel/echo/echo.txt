@@ -918,7 +918,6 @@ ecus
 epeeists
 epimeritic
 entailments
-emanator
 euchrone
 eodiscid
 erythroblastotic
@@ -10490,6 +10489,7 @@ ethmose
 euphonon
 equips
 esprits
+emanator
 elpidite
 euphroes
 elixation
