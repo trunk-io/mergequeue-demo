@@ -8552,6 +8552,7 @@ enharmonic
 extracorporeal
 endothermically
 electrodialitic
+exact
 equicontinuous
 eyebar
 encompassing
@@ -9793,7 +9794,6 @@ ethnolinguistic
 eyalet
 enamelware
 elenchtical
-exact
 endangeitis
 evolvulus
 expurgator
