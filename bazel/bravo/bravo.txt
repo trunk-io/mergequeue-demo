@@ -3406,7 +3406,6 @@ boobook
 batable
 bracket
 brimmed
-berzeliite
 batad
 barbascoes
 barrages
@@ -6297,6 +6296,7 @@ benomyl
 backspread
 benorth
 benefact
+berzeliite
 bicycloheptane
 bensall
 barbigerous
