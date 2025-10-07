@@ -4507,7 +4507,6 @@ bestrided
 becursed
 babesia
 burglarious
-balmoral
 bolk
 benevolency
 becurses
@@ -8384,6 +8383,7 @@ babu
 brachygraphic
 byhand
 bija
+balmoral
 bijasal
 bijections
 bibliophilic
