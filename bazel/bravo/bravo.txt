@@ -2997,6 +2997,7 @@ biostatistic
 bsf
 biome
 bartonella
+barkantine
 backswordsman
 bookbinderies
 bartree
@@ -17769,7 +17770,6 @@ blockheadishness
 broodless
 birdberry
 blepharoadenoma
-barkantine
 bottommost
 basyl
 burping
