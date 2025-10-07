@@ -4149,7 +4149,6 @@ chiplet
 cardiologists
 cardiomegaly
 creature
-cardiomelanosis
 cobras
 contradivide
 cardiometer
@@ -6795,6 +6794,7 @@ clearway
 coetaneousness
 celioparacentesis
 cerinthian
+cardiomelanosis
 cowshard
 carpellate
 crocheter
