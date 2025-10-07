@@ -4516,6 +4516,7 @@ altimeters
 access
 ambolic
 antepasts
+archidome
 adviser
 antiphonal
 agrostographic
@@ -9126,7 +9127,6 @@ anemometric
 anticorrosiveness
 aspergillum
 allwhere
-archidome
 accipitres
 applejack
 allwork
