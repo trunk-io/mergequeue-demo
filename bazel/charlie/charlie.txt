@@ -945,6 +945,7 @@ convoluted
 caddle
 counterdistinct
 callipygian
+confix
 calamine
 calamines
 cypseline
@@ -22123,7 +22124,6 @@ chapellage
 confiteor
 confiture
 comparts
-confix
 confixing
 carf
 catatonics
