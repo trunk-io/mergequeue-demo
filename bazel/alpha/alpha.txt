@@ -2942,6 +2942,7 @@ anopias
 austerest
 alisma
 argot
+astroid
 aumaga
 adrenolytic
 actinoblast
@@ -17602,7 +17603,6 @@ appendorontgenography
 antheximeter
 auxanology
 appendotome
-astroid
 adjoining
 annet
 assailment
