@@ -4234,6 +4234,7 @@ anisomelus
 adrenocortical
 antesignanus
 antlike
+antiforeign
 afterstain
 abluted
 anthracolithic
@@ -17290,7 +17291,6 @@ actors
 alimentally
 aluminosity
 autocollimator
-antiforeign
 autotherapeutic
 apostatically
 acquisible
