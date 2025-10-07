@@ -7089,7 +7089,6 @@ endergonic
 emboliform
 enverdure
 earthshock
-ectosphenotic
 engaud
 enfranchisable
 entices
@@ -12490,6 +12489,7 @@ epsomite
 exocline
 ethion
 exocoele
+ectosphenotic
 exocoelic
 epicardium
 electrostatics
