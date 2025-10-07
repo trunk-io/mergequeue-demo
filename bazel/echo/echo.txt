@@ -4808,7 +4808,6 @@ etymologize
 executioners
 eventides
 encolour
-equilibrator
 electromyography
 embosks
 entypies
@@ -10559,6 +10558,7 @@ exchangee
 emblematically
 encryption
 electrocardiographic
+equilibrator
 epipactis
 epimysium
 exodium
