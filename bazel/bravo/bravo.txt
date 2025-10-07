@@ -3698,7 +3698,6 @@ batts
 blowpipe
 barytocalcite
 befouler
-bistro
 blasty
 biologese
 bloodbird
@@ -6512,6 +6511,7 @@ behavior
 bumbled
 bewrayment
 blowiness
+bistro
 bepimpling
 backbreaking
 bepray
