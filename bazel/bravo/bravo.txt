@@ -2550,6 +2550,7 @@ barytons
 busing
 busbar
 bears
+buffbar
 boeing
 bairnlier
 bridgelike
@@ -13291,7 +13292,6 @@ benzalaniline
 bolti
 barysphere
 backpacker
-buffbar
 broadest
 bogomil
 barebacked
