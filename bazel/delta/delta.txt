@@ -532,6 +532,7 @@ ditted
 dermaskeleton
 dama
 damageability
+deregister
 disodic
 damageably
 detonatable
@@ -5415,7 +5416,6 @@ dizzier
 dummied
 defectible
 deorganize
-deregister
 daydreaming
 duneland
 dantonesque
