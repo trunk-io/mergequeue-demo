@@ -7360,6 +7360,7 @@ brevifoliate
 bethump
 bego
 brazilin
+battleships
 bombous
 bricklining
 bleb
@@ -11142,7 +11143,6 @@ blond
 brazing
 benzazine
 broiler
-battleships
 bemedalled
 bathochromy
 byard
