@@ -3396,6 +3396,7 @@ barkpeeler
 boobook
 batable
 bracket
+brimmed
 berzeliite
 batad
 barbascoes
@@ -5144,7 +5145,6 @@ bounceback
 beguile
 bankers
 batoid
-brimmed
 bloodthirstiness
 baubling
 bimorphemic
