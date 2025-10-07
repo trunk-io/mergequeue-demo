@@ -6898,7 +6898,6 @@ beggarman
 beseech
 bescreening
 beseige
-bescribble
 bescutcheon
 bondservant
 basalia
@@ -13119,6 +13118,7 @@ barf
 blizzard
 bored
 burdash
+bescribble
 bannister
 boodleism
 borel
