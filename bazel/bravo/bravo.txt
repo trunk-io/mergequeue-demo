@@ -2596,6 +2596,7 @@ buckstall
 berating
 befriend
 barbitals
+builtin
 bodicemaker
 biopsychologist
 broadener
@@ -14532,7 +14533,6 @@ brakeless
 brakeload
 boatie
 bemotto
-builtin
 baby
 brakeroot
 breechless
