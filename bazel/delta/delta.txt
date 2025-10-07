@@ -1739,6 +1739,7 @@ diphenan
 deathtrap
 devocalization
 drof
+deimos
 deathward
 ductility
 dakhini
@@ -3784,7 +3785,6 @@ duplexed
 dropped
 despatched
 discommender
-deimos
 daffs
 deceptive
 dangerfully
