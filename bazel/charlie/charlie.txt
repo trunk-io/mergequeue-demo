@@ -6833,7 +6833,6 @@ cathodofluorescence
 celloidin
 counterbalance
 cellose
-cells
 carrotweed
 cellucotton
 coregent
@@ -25143,6 +25142,7 @@ chlorospinel
 coresonant
 convento
 chincher
+cells
 corespondent
 cystoflagellate
 catarrhally
