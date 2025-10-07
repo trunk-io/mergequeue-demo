@@ -437,6 +437,7 @@ bewrought
 backscatter
 backscattered
 backscattering
+bacterioprotein
 borecole
 basename
 brushless
@@ -5511,7 +5512,6 @@ baronets
 behoovefulness
 barrier
 behooving
-bacterioprotein
 backiebird
 behoved
 basting
