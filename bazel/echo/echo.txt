@@ -4452,7 +4452,6 @@ enterons
 estimator
 euphemization
 epipterygoid
-encephalomeningocele
 endoerythrocytic
 embryonate
 ephemerid
@@ -9778,6 +9777,7 @@ egocentricity
 elixirs
 equiomnipotent
 entodermic
+encephalomeningocele
 engin
 enslumber
 exannulate
