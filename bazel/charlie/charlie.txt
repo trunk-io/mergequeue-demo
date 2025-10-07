@@ -3809,7 +3809,6 @@ cleavability
 carbonade
 ceratite
 carbonarist
-carbonatation
 carbonating
 carbonation
 courbaril
@@ -13412,6 +13411,7 @@ croshabell
 cyclostomatous
 cyclostomes
 cedent
+carbonatation
 cyclothymiac
 cocci
 czarists
