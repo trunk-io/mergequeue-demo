@@ -785,7 +785,6 @@ elation
 engraver
 erratums
 ectocoelic
-ectocommensal
 engolden
 ectocondylar
 endophytic
@@ -7296,6 +7295,7 @@ exodromic
 engrege
 euphemian
 essenian
+ectocommensal
 ecole
 eurypylous
 exemplariness
