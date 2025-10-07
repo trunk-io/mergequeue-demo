@@ -7361,7 +7361,6 @@ dearworthiness
 destructibility
 detractions
 deductibility
-detrainment
 detraque
 detrect
 detrench
@@ -15023,6 +15022,7 @@ derive
 doggrel
 dogget
 dottrels
+detrainment
 dialin
 dorlot
 dungeons
