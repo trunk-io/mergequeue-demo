@@ -11275,7 +11275,6 @@ blotchiness
 biggish
 buckeye
 beaker
-beaverwood
 brazenness
 bracts
 borghalpenny
@@ -16443,6 +16442,7 @@ boroughs
 baccalaureate
 banditry
 botanising
+beaverwood
 bromellite
 boneen
 barque
