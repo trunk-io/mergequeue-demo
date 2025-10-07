@@ -3968,7 +3968,6 @@ crotalinae
 campanian
 carcharhinus
 carcharias
-cerotene
 carchariid
 colob
 clerisy
@@ -15847,6 +15846,7 @@ clyer
 cerealian
 cribrosity
 clearsighted
+cerotene
 civil
 carludovica
 coprostasia
