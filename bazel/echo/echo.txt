@@ -9963,7 +9963,6 @@ eternalised
 enweb
 extradict
 encodings
-embolismic
 epithalamus
 enrols
 emotiomuscular
@@ -10515,6 +10514,7 @@ educate
 ectrodactylia
 engracing
 eyeleting
+embolismic
 enlief
 eryops
 egoizer
