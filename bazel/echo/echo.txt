@@ -4810,6 +4810,7 @@ encompassment
 embira
 embolon
 ethologic
+euclidean
 enfever
 elapsoidea
 excitive
@@ -6288,7 +6289,6 @@ eumycetes
 embowed
 enrut
 epicycloid
-euclidean
 epidermatous
 ens
 embelia
