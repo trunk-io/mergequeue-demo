@@ -5484,7 +5484,6 @@ claim
 counterwrite
 congaing
 catachreses
-catachresis
 catachrestic
 cercariae
 condemner
@@ -7242,6 +7241,7 @@ catarinite
 cryptococcal
 cohobated
 christianize
+catachresis
 centuple
 clematises
 centuples
