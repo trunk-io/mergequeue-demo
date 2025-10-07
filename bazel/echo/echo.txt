@@ -9934,6 +9934,7 @@ erythromelalgia
 enneastylos
 entonement
 entreatment
+enabled
 esurient
 everblooming
 enouncing
@@ -11931,7 +11932,6 @@ elsin
 epidialogue
 exclusivity
 effluents
-enabled
 exteriorized
 excogitator
 engrossingly
