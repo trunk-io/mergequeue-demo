@@ -227,7 +227,6 @@ drukpa
 drybrush
 dissimilation
 dojos
-daftest
 descending
 dinnertime
 dorsula
@@ -9181,6 +9180,7 @@ daroga
 dwt
 diedric
 deuteromorphic
+daftest
 doomer
 dodonian
 damoisel
