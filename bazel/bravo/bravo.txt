@@ -9737,7 +9737,6 @@ bumblefoot
 bromids
 birchbark
 bandeaux
-bismuthide
 bethanked
 bonnyish
 beneficing
@@ -10532,6 +10531,7 @@ bandit
 bromal
 belligerent
 bandboxical
+bismuthide
 badasses
 bloodguiltiness
 blastula
