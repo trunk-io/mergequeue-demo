@@ -15413,7 +15413,6 @@ clansfolk
 cheki
 churchgrith
 clitelliferous
-circinus
 clanship
 chiricahua
 camelhair
@@ -30050,6 +30049,7 @@ crotonyl
 crotonization
 chitchat
 corrump
+circinus
 crotons
 crotophaga
 crottal
