@@ -11268,6 +11268,7 @@ cuspate
 clipsheets
 chlorinator
 chicote
+curr
 counterion
 chloritic
 carlie
@@ -27805,7 +27806,6 @@ curatorship
 convolutedness
 capsuliferous
 calceiform
-curr
 calvarial
 coxankylometer
 cenotaph
