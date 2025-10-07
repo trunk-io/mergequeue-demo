@@ -10636,7 +10636,6 @@ experimental
 euglenoid
 evenworthy
 enfeeblement
-extraction
 ecossaise
 etiquet
 endfile
@@ -11820,6 +11819,7 @@ emends
 eightfoil
 emerged
 endothecial
+extraction
 epispinal
 expectation
 enfeoffed
