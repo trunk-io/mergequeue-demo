@@ -3707,7 +3707,6 @@ elinvar
 elumbated
 erugation
 electroendosmotic
-echiuroidea
 exanthematous
 eriophyes
 evacuee
@@ -5741,6 +5740,7 @@ embossments
 esophagomalacia
 eddying
 endozoic
+echiuroidea
 exalter
 endues
 execrableness
