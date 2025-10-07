@@ -28785,7 +28785,6 @@ compendiary
 crepuscular
 chylific
 cavitate
-chafer
 catenary
 cres
 cresc
@@ -31599,6 +31598,7 @@ curvature
 carposporangial
 chattanoogan
 crosstail
+chafer
 clingstone
 constructed
 curvedly
