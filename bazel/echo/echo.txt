@@ -5267,7 +5267,6 @@ editors
 ecumenicity
 erewhile
 emeril
-eskimoid
 equity
 enchest
 engrafting
@@ -8428,6 +8427,7 @@ eprise
 eumerogenetic
 eker
 expressionistic
+eskimoid
 eventide
 epsom
 excisor
