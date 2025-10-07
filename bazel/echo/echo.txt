@@ -2699,7 +2699,6 @@ ecumenically
 electrotypy
 earwigged
 esquamulose
-electrovalent
 electrowinning
 ectocarpaceae
 extraparliamentary
@@ -3369,6 +3368,7 @@ exacters
 emphase
 ethal
 elymi
+electrovalent
 embargoes
 ectodactylism
 epidosite
