@@ -2490,6 +2490,7 @@ candlelight
 candlelighter
 chaloth
 confraternities
+capitol
 choosable
 candlelighting
 cohusband
@@ -3221,7 +3222,6 @@ capitle
 cerebrum
 compenetrate
 corns
-capitol
 crayfishing
 cymaphen
 capitolian
