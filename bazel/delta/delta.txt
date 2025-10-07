@@ -7157,7 +7157,6 @@ detainee
 detaining
 denotations
 disinfecter
-detar
 detassel
 detat
 diastrophism
@@ -9363,6 +9362,7 @@ diffrangible
 diestrous
 dissoluble
 diffusate
+detar
 discussing
 dipnoous
 duplicator
