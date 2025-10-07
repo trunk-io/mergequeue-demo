@@ -4075,7 +4075,6 @@ ecardinal
 eupnea
 electrorefine
 exuberancy
-electrovalence
 employe
 enties
 estado
@@ -10371,6 +10370,7 @@ eleolite
 exorbitance
 expounder
 entresalle
+electrovalence
 empeirema
 escrol
 epicrates
