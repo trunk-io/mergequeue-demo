@@ -842,6 +842,7 @@ baggager
 benzidin
 benzalcohol
 baggala
+bogach
 borderlight
 bijouterie
 baggara
@@ -11969,7 +11970,6 @@ baronesses
 bilio
 betutored
 basinasial
-bogach
 brezhnev
 becrush
 butler
