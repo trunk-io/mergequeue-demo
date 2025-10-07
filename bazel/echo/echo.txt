@@ -5523,7 +5523,6 @@ exorciser
 enfeeble
 esmeralda
 earwort
-equidistantial
 exoterics
 enfeebles
 envapour
@@ -12364,6 +12363,7 @@ epenthesis
 exhaustion
 esquire
 evacuative
+equidistantial
 enlimn
 exhumatory
 elitisms
