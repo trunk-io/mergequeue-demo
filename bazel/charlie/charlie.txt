@@ -4547,7 +4547,6 @@ coccostean
 cotoxo
 clapperdudgeon
 carnied
-carnifex
 carnifexes
 cationic
 carnification
@@ -19877,6 +19876,7 @@ combustive
 combusts
 catapulting
 ceraunics
+carnifex
 come
 comebacker
 connaught
