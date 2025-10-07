@@ -2447,7 +2447,6 @@ blens
 blacklisting
 bifunctional
 bechalked
-bruting
 bandelet
 barfish
 bargainable
@@ -5875,6 +5874,7 @@ bibliotheque
 benjamin
 briners
 buttstock
+bruting
 bellota
 bidactyle
 beefs
