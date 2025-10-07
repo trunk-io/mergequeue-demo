@@ -1121,6 +1121,7 @@ edriophthalmatous
 educand
 exsculp
 educatability
+equivalency
 eident
 educatable
 educatedness
@@ -9845,7 +9846,6 @@ elementarily
 endothermous
 etherializing
 epistler
-equivalency
 encodes
 epidemical
 encephalomyelitis
