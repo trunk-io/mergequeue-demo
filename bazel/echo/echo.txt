@@ -3918,7 +3918,6 @@ emotioned
 emolument
 elevator
 emotivity
-equipment
 enragedness
 exorability
 epitases
@@ -11591,6 +11590,7 @@ eurypterid
 epinard
 emerse
 expunge
+equipment
 elaboratory
 engild
 epicrises
