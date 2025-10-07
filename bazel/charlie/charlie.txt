@@ -7810,7 +7810,6 @@ cervicispinal
 cervicitis
 cervicoauricular
 chippable
-cervicobregmatic
 cobitis
 cervicobuccal
 cervicodynia
@@ -31644,6 +31643,7 @@ carduelis
 calibre
 contentiously
 conscripttion
+cervicobregmatic
 curvulate
 cuscohygrin
 cuscohygrine
