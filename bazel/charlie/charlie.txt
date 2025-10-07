@@ -8844,7 +8844,6 @@ characins
 charity
 charact
 cutouts
-charactered
 capitalist
 costocoracoid
 concordat
@@ -15187,6 +15186,7 @@ cladonioid
 catalyst
 chainbreak
 cladophoraceous
+charactered
 clunk
 cladoptosis
 copilots
