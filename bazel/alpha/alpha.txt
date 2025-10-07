@@ -7529,7 +7529,6 @@ ascidiform
 aswoon
 adytta
 abrine
-apus
 aphelion
 australopithecine
 antiaggression
@@ -17122,6 +17121,7 @@ alignments
 abadejo
 anticonservatively
 anthropol
+apus
 alodian
 amnigenia
 apperceptively
