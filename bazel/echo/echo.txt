@@ -3185,6 +3185,7 @@ extruding
 endomorphic
 errability
 extruders
+energistic
 epiparasite
 else
 enrive
@@ -12618,7 +12619,6 @@ etoffe
 exonian
 elmer
 eelware
-energistic
 everbearer
 exonym
 epicoracohumeral
