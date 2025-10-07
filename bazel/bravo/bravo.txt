@@ -3674,7 +3674,6 @@ biannually
 buhr
 biham
 battlesome
-brigantes
 bylining
 bimestrial
 battlestead
@@ -7635,6 +7634,7 @@ beeyard
 brog
 bovids
 beworn
+brigantes
 bullocks
 barbre
 borne
