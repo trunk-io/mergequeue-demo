@@ -1769,6 +1769,7 @@ beisance
 bowlin
 beleaped
 bergschrund
+beaverpelt
 bandala
 bandanaed
 breadroot
@@ -3512,7 +3513,6 @@ bathing
 bastinadoes
 bridgekeeper
 ballotage
-beaverpelt
 bestrow
 balon
 baygall
