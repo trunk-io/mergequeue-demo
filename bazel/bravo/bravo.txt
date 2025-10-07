@@ -1780,7 +1780,6 @@ battlepiece
 bollito
 belladonna
 bullary
-betula
 bancus
 bearfoot
 babirusas
@@ -3428,6 +3427,7 @@ batatas
 borrowable
 batavi
 ballan
+betula
 buzzsaw
 besmudge
 bonducnut
