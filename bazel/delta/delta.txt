@@ -1190,6 +1190,7 @@ dithers
 datcha
 dibber
 demirep
+dissolveability
 disclamation
 deuteroconid
 demiassignation
@@ -12412,7 +12413,6 @@ disillusive
 diametrically
 didactylous
 demodulations
-dissolveability
 dualization
 disimpark
 disimprison
