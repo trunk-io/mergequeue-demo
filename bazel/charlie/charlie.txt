@@ -14382,6 +14382,7 @@ clavierist
 circumpose
 condite
 circumquaque
+connectible
 cyanidation
 circumradii
 circumradiuses
@@ -22654,7 +22655,6 @@ connected
 connectedly
 connecter
 confabbed
-connectible
 connectibly
 chamferer
 connecticut
