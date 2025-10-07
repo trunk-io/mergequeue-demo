@@ -6575,7 +6575,6 @@ bowkail
 bookkeeping
 banisters
 ballader
-birdshot
 brustled
 bouldery
 becolor
@@ -10493,6 +10492,7 @@ blaster
 blastid
 bejade
 blasting
+birdshot
 borolanite
 blastocele
 boomers
