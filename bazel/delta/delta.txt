@@ -7395,6 +7395,7 @@ defrosts
 dich
 djellab
 distillation
+depigment
 dilutors
 diversification
 decempedal
@@ -8156,7 +8157,6 @@ datafile
 diadkokinesia
 diadochi
 deflesh
-depigment
 dados
 disspreading
 diadochy
