@@ -1865,7 +1865,6 @@ equatability
 eutechnics
 elapsed
 endamage
-eightball
 eir
 electrodialyses
 eclat
@@ -4113,6 +4112,7 @@ externum
 escortee
 encaustes
 exporter
+eightball
 elaeosia
 epistrophy
 eyeroot
