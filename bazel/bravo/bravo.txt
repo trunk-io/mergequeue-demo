@@ -4597,7 +4597,6 @@ broadenings
 bedplate
 bens
 barge
-basigamy
 basiglandular
 beggable
 bombshells
@@ -4901,6 +4900,7 @@ bongos
 bebelted
 backchat
 bamboozle
+basigamy
 beefeaters
 barkentines
 bract
