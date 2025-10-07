@@ -2231,7 +2231,6 @@ epiploic
 excessive
 easer
 eutectic
-euchroic
 esophagogastrostomy
 etuis
 exploitive
@@ -7237,6 +7236,7 @@ emulsification
 evenwise
 excurrent
 exsector
+euchroic
 echoless
 excisemen
 electrocatalytic
