@@ -5803,6 +5803,7 @@ derails
 diachoresis
 demeaning
 dimensible
+directrix
 distances
 dispraise
 disconcert
@@ -13214,7 +13215,6 @@ disprofitable
 disproofs
 disk
 dishevelments
-directrix
 disproportional
 disparities
 dossety
