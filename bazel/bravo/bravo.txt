@@ -10755,7 +10755,6 @@ bestill
 blendwater
 bowpots
 blackies
-bastionet
 besaiel
 bibl
 belap
@@ -13061,6 +13060,7 @@ baptismally
 birefracting
 boraginaceous
 bugger
+bastionet
 braveries
 brainsickly
 beveil
