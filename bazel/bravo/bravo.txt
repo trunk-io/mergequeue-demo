@@ -1581,7 +1581,6 @@ ballotist
 ballots
 ballottement
 backlotter
-baronage
 bedeafen
 bloodhound
 boycotter
@@ -10398,6 +10397,7 @@ backwoodser
 bemask
 brawer
 blandishing
+baronage
 blandishments
 boweryish
 bogberries
