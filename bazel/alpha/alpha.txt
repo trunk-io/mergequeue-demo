@@ -4951,7 +4951,6 @@ angularness
 aahed
 accentuable
 accersitor
-aerodontalgia
 agister
 albatross
 avigate
@@ -9558,6 +9557,7 @@ altogetherness
 altoist
 altos
 altostratus
+aerodontalgia
 amphicarpia
 axenic
 anticlericalist
