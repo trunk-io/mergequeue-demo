@@ -946,7 +946,6 @@ convoluted
 caddle
 counterdistinct
 callipygian
-confix
 calamine
 calamines
 cypseline
@@ -16324,6 +16323,7 @@ crabmeat
 clipt
 clique
 censorable
+confix
 clags
 cliqued
 clavodeltoideus
