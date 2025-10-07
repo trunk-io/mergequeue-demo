@@ -646,6 +646,7 @@ bisk
 brisk
 babua
 bellbine
+binocle
 brioche
 bicorne
 bombo
@@ -13271,7 +13272,6 @@ breatheableness
 bosonic
 birl
 barbels
-binocle
 blunk
 besugar
 bile
