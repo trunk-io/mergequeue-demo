@@ -14155,7 +14155,6 @@ circuits
 clochan
 cardioneural
 capsulize
-circulant
 circular
 colistins
 cabinlike
@@ -17742,6 +17741,7 @@ cocoyam
 counterchanging
 cocomat
 coconnection
+circulant
 coconsciously
 coconsciousness
 confirmingly
