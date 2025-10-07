@@ -658,7 +658,6 @@ babylonia
 bathyesthesia
 boiseries
 baculoid
-bifilar
 bushmanship
 baculus
 badaga
@@ -7796,6 +7795,7 @@ birdseyes
 beshrouds
 bazaars
 bicephalous
+bifilar
 biface
 bandersnatch
 brandify
