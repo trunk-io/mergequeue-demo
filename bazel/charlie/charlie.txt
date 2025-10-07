@@ -86,6 +86,7 @@ cubics
 cabby
 cabbie
 crenelate
+caret
 cabbies
 cabbled
 canvases
@@ -4259,7 +4260,6 @@ cachinnation
 chainwork
 caressively
 carest
-caret
 commerce
 caretaker
 caretakers
