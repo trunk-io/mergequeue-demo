@@ -6311,6 +6311,7 @@ animate
 atty
 agriot
 argan
+actuate
 agriotypidae
 avianization
 anticonductor
@@ -22995,7 +22996,6 @@ axhammered
 audaciousness
 alasas
 attacheship
-actuate
 astriferous
 antitrope
 alcazava
