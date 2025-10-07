@@ -15708,7 +15708,6 @@ dormers
 dormette
 dormeuse
 dialectical
-dormice
 dormilona
 dormitive
 dormitories
@@ -17503,6 +17502,7 @@ drumlins
 doughfoot
 defunctionalize
 dentifrice
+dormice
 derust
 dorsiferous
 diciest
