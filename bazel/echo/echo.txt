@@ -3863,7 +3863,6 @@ euryalae
 entomotomy
 electrotonus
 ethoxy
-extraboldface
 extollingly
 exterminating
 eminent
@@ -13575,6 +13574,7 @@ exceptive
 extending
 enalite
 ears
+extraboldface
 eclating
 entangled
 ethnomusicologically
