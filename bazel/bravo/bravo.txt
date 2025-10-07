@@ -3161,7 +3161,6 @@ bravish
 brandiron
 blowzily
 basidiospore
-basidiosporous
 biprism
 blastoid
 balaphon
@@ -9051,6 +9050,7 @@ batton
 bionomically
 bionomies
 beckie
+basidiosporous
 ballonet
 booky
 boulevardier
