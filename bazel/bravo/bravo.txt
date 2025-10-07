@@ -2927,6 +2927,7 @@ barrios
 boulevard
 barrister
 banda
+battlement
 botts
 beforested
 burrel
@@ -5631,7 +5632,6 @@ backsaws
 bumbard
 bombloads
 blankit
-battlement
 blepharal
 begorrah
 beheadlined
