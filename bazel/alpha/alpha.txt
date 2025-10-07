@@ -499,6 +499,7 @@ abjurations
 archfoe
 analepsy
 axolemma
+ammobium
 amreetas
 abjurer
 atopite
@@ -24621,7 +24622,6 @@ antimachine
 apollyon
 azolitmin
 attentive
-ammobium
 acetamido
 affixment
 arbitrarily
