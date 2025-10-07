@@ -8572,7 +8572,6 @@ endemics
 emender
 ethos
 emissive
-encyclopaedia
 exodontic
 errabund
 electrodynamometer
@@ -14111,6 +14110,7 @@ exposers
 espadrille
 extremist
 epideictic
+encyclopaedia
 earbash
 extrorse
 endarch
