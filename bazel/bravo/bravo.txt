@@ -8501,7 +8501,6 @@ backbar
 boresight
 barkle
 backcross
-bannerer
 bilingually
 bilinguar
 bostangi
@@ -8665,6 +8664,7 @@ burrawang
 basins
 bilobed
 biloculina
+bannerer
 bistros
 bumbaze
 bidiurnal
