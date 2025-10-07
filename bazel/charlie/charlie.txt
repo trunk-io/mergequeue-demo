@@ -10352,6 +10352,7 @@ coenesthesis
 chamberfellow
 chantries
 chico
+cytoclastic
 coryneum
 chicories
 chicot
@@ -14860,7 +14861,6 @@ cytochrome
 cytocyst
 cytoclasis
 caluptra
-cytoclastic
 crioboly
 choroidal
 cytoderm
