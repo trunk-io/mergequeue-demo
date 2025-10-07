@@ -1510,7 +1510,6 @@ bucorvus
 ballets
 brevetcy
 blowtube
-ballgame
 berley
 ballhooter
 balli
@@ -3712,6 +3711,7 @@ barasingha
 buncombe
 bultow
 basialveolar
+ballgame
 breakermen
 bobflies
 battute
