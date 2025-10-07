@@ -3726,6 +3726,7 @@ burratine
 bacterian
 blastomeric
 batwing
+broadcast
 baysmelt
 bioenvironmental
 betatrons
@@ -15671,7 +15672,6 @@ boatel
 bg
 burred
 belemnid
-broadcast
 broadcaster
 barbadian
 bullyragging
