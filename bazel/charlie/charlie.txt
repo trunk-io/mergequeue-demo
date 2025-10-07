@@ -21545,7 +21545,6 @@ commands
 curliewurly
 cap
 cardiophobia
-concordances
 cantalas
 concordancy
 classifically
@@ -23670,6 +23669,7 @@ contour
 contoured
 copestone
 commendatorily
+concordances
 cleping
 cuvettes
 courteous
