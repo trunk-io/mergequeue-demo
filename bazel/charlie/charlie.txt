@@ -3215,7 +3215,6 @@ coquin
 carpophyl
 capitalizing
 calvadoses
-capitalness
 capitan
 cannular
 capitasti
@@ -16903,6 +16902,7 @@ cionocranian
 cluck
 cyclas
 clucked
+capitalness
 cusp
 consul
 crotonbug
