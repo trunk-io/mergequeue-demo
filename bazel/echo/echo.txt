@@ -319,7 +319,6 @@ ephesians
 edaphosaurus
 exequy
 estops
-enturret
 ewers
 enchilada
 eagerer
@@ -10635,6 +10634,7 @@ erebus
 experimental
 euglenoid
 evenworthy
+enturret
 enfeeblement
 ecossaise
 etiquet
