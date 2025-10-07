@@ -10230,7 +10230,6 @@ chiasmatic
 chiasmatype
 counterformula
 clockings
-chiasmic
 cleruchic
 chiasms
 coset
@@ -24702,6 +24701,7 @@ corollaceous
 cola
 chickell
 coerects
+chiasmic
 cute
 corage
 carpospore
