@@ -1371,7 +1371,6 @@ epitasis
 essenced
 endpiece
 epithet
-epipodialia
 erythrocytolytic
 ethnicon
 exaggeratory
@@ -1833,6 +1832,7 @@ expiator
 equitemporal
 expeller
 eremology
+epipodialia
 elicit
 enarthrodial
 eila
