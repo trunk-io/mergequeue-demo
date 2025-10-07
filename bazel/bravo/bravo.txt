@@ -14486,7 +14486,6 @@ blandness
 behammer
 brainteaser
 brainward
-ballistae
 brow
 birdshots
 blitum
@@ -16519,6 +16518,7 @@ brusure
 bentang
 broadleaves
 bandies
+ballistae
 bivalent
 bluntie
 branchlike
