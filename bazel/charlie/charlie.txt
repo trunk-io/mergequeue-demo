@@ -7980,6 +7980,7 @@ cervicolingual
 cucullately
 conciousness
 confessing
+chiasmatype
 crystalliform
 clottedness
 coelarium
@@ -10220,7 +10221,6 @@ chiasmas
 chiasmata
 cystoscopy
 chiasmatic
-chiasmatype
 counterformula
 clockings
 cleruchic
