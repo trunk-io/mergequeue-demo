@@ -4082,7 +4082,6 @@ bongoes
 bras
 broozled
 brachycera
-bordered
 bearfoots
 bearhug
 babirousa
@@ -8283,6 +8282,7 @@ broadsided
 balaenid
 bigamizing
 burstiness
+bordered
 brachydodromous
 bream
 byganging
