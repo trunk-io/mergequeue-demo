@@ -4903,6 +4903,7 @@ endameba
 endamebae
 equiv
 eveck
+errsyn
 extradictable
 endamoebas
 endamoebidae
@@ -10159,7 +10160,6 @@ escargotieres
 ecotypically
 engrossedly
 ethicals
-errsyn
 electrophysiological
 esperantic
 esophagomycosis
