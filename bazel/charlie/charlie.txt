@@ -9424,7 +9424,6 @@ commelina
 ctenophoral
 cavetti
 cartsale
-collencytal
 chloralize
 chazzenim
 consition
@@ -16393,6 +16392,7 @@ cliv
 clivis
 camaca
 clivus
+collencytal
 clk
 clo
 cloacae
