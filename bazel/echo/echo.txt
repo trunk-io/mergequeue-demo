@@ -4887,6 +4887,7 @@ encumbrance
 eelblenny
 endemiology
 extrabureau
+epenthetic
 english
 evolves
 enantiosis
@@ -13422,7 +13423,6 @@ energism
 embargoed
 expropriator
 evaginate
-epenthetic
 electrolyse
 electricalize
 emf
