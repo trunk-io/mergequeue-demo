@@ -5921,6 +5921,7 @@ boxhauled
 backswordmen
 batswing
 bulblike
+basing
 bagge
 blitzkrieg
 blennophobia
@@ -15804,7 +15805,6 @@ becaps
 biscuitmaker
 beauing
 backstrokes
-basing
 backhandedly
 besonio
 bimester
