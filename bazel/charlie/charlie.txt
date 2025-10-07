@@ -846,6 +846,7 @@ combinators
 caissons
 caite
 caitif
+circean
 charque
 chroococcus
 caitiffs
@@ -14158,7 +14159,6 @@ capivi
 corpuscle
 circe
 centry
-circean
 circensian
 coryneform
 circinate
