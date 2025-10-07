@@ -9657,7 +9657,6 @@ bongs
 beckoners
 bullshot
 birdbander
-bishari
 byblis
 benward
 bothridia
@@ -13730,6 +13729,7 @@ bloodguilty
 barathrum
 bourdons
 bourg
+bishari
 beckoned
 befoolable
 bimucronate
