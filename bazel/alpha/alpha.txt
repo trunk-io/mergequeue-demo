@@ -5241,7 +5241,6 @@ archpolitician
 affixes
 albizia
 agraphia
-arenicolor
 atangle
 anachorism
 armageddon
@@ -10287,6 +10286,7 @@ autumns
 ahimsa
 asculae
 arrangements
+arenicolor
 amendment
 amendments
 anadems
