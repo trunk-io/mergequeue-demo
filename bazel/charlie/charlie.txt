@@ -16866,6 +16866,7 @@ casebooks
 clubs
 converting
 clubstart
+channeled
 chunked
 carpogonium
 clubweed
@@ -17363,7 +17364,6 @@ constipated
 couscouses
 coastlines
 cutleress
-channeled
 churchmaster
 coatdress
 coated
