@@ -1169,6 +1169,7 @@ doormat
 demibrassart
 devilhood
 diggable
+disvulnerability
 datana
 disculpatory
 discounting
@@ -15815,7 +15816,6 @@ dorty
 doko
 daikers
 drainspout
-disvulnerability
 deadpanning
 dosed
 deiseal
