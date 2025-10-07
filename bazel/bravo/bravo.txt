@@ -362,6 +362,7 @@ biblicoliterary
 backer
 bangala
 betorn
+bullet
 beerpull
 brushes
 backfills
@@ -11897,7 +11898,6 @@ bullocker
 barylite
 bouteselle
 benthamism
-bullet
 bodyworks
 bodkin
 bodkins
