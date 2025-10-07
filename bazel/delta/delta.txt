@@ -4267,7 +4267,6 @@ dermatopathology
 dysbarism
 digitigrade
 delver
-doublewidth
 despises
 demasculinise
 divisors
@@ -13486,6 +13485,7 @@ dismeasurable
 dactylar
 deuterotoky
 diplomacies
+doublewidth
 dissentiously
 demicritic
 drawnet
