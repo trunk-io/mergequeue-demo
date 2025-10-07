@@ -4722,6 +4722,7 @@ devi
 disremember
 dotlet
 democracy
+dims
 dentirostrate
 diploneural
 decagram
@@ -15869,7 +15870,6 @@ dowless
 deradenoncus
 dossier
 dormition
-dims
 distileries
 dunkadoo
 decamerous
