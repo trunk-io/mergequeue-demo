@@ -2018,7 +2018,6 @@ banksian
 bypaths
 boatsmanship
 bribe
-barreleye
 ballproof
 bumbaste
 brine
@@ -15763,6 +15762,7 @@ blush
 balisier
 brock
 bombsight
+barreleye
 bryonies
 brideknot
 bulletin
