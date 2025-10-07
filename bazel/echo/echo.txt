@@ -544,7 +544,6 @@ emblematize
 epididymite
 embubble
 esthetophore
-equicrural
 enhydros
 epeisodion
 echometer
@@ -5628,6 +5627,7 @@ epitrachelion
 ephestia
 epacme
 enravished
+equicrural
 electromeric
 epulation
 ensisternum
