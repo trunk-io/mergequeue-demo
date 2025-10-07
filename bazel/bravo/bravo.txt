@@ -3000,6 +3000,7 @@ biome
 bartonella
 backswordsman
 bookbinderies
+biostratigraphy
 bartree
 banish
 beetmister
@@ -6478,7 +6479,6 @@ benzoxyacetic
 blanchers
 brache
 beltcourse
-biostratigraphy
 borderings
 beothukan
 bulwarking
