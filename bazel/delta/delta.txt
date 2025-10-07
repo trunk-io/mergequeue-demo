@@ -2504,7 +2504,6 @@ dapperling
 dorsocephalic
 dextrin
 declensionally
-declensions
 decretist
 declimatize
 driblets
@@ -15733,6 +15732,7 @@ drypoints
 dorr
 dermatophytic
 deflorations
+declensions
 dorsa
 disseise
 dentiparous
