@@ -6302,7 +6302,6 @@ benomyl
 backspread
 benorth
 benefact
-bicycloheptane
 bensall
 barbigerous
 boodled
@@ -14542,6 +14541,7 @@ bonetail
 bran
 blockhouses
 bodier
+bicycloheptane
 brancard
 bepinch
 briarroot
