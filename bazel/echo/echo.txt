@@ -4350,6 +4350,7 @@ embar
 enneahedral
 egotize
 electromechanical
+efs
 encadre
 ender
 embiidae
@@ -12251,7 +12252,6 @@ epochal
 ethylin
 elvanitic
 effront
-efs
 eulogizers
 erythroglucin
 examplar
