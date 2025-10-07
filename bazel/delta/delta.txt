@@ -1475,6 +1475,7 @@ definiendum
 drovers
 deformers
 diazines
+disannuller
 defraudment
 delinquence
 delint
@@ -10929,7 +10930,6 @@ disbeliefs
 deliberations
 disanimation
 dastur
-disannuller
 disentanglements
 dietary
 dolefullest
