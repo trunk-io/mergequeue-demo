@@ -4711,7 +4711,6 @@ entryway
 electrowin
 enterogastrone
 electroshock
-eyelets
 exalbuminose
 echinidea
 extradicting
@@ -6193,6 +6192,7 @@ euphemist
 eradiation
 eyewater
 enostosis
+eyelets
 elisions
 evillest
 erugatory
