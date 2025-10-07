@@ -563,7 +563,6 @@ babus
 babbly
 bination
 bumaloe
-baluster
 balisaur
 bishopric
 breaths
@@ -4152,6 +4151,7 @@ batholite
 beatitude
 bestially
 backchain
+baluster
 bellmen
 bigener
 brusquer
