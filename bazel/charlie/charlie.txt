@@ -12610,7 +12610,6 @@ cercle
 cafetiere
 chronologizing
 chronomantic
-clodpate
 chronometer
 crom
 citolers
@@ -29573,6 +29572,7 @@ creolin
 criterions
 crith
 cordery
+clodpate
 crithidia
 critic
 criticality
