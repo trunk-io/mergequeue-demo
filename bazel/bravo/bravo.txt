@@ -5643,6 +5643,7 @@ bonnering
 bewigs
 beaujolais
 barleysick
+biophor
 barbitone
 businessmen
 bardes
@@ -12357,7 +12358,6 @@ basiliscus
 bugged
 bezzi
 bluebeard
-biophor
 beldame
 beld
 bioethic
