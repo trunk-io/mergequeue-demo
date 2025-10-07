@@ -4970,6 +4970,7 @@ conserving
 cassettes
 cartouche
 centref
+chasm
 childbirths
 curmudgeon
 cust
@@ -9168,7 +9169,6 @@ charwomen
 chaseable
 chased
 chases
-chasm
 cotonia
 chasma
 chasmed
