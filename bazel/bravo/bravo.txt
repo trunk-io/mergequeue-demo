@@ -5523,7 +5523,6 @@ bobol
 bindi
 boxed
 baconian
-bardic
 beelines
 bitterweed
 breastmark
@@ -15628,6 +15627,7 @@ britain
 blunnen
 biting
 bullaces
+bardic
 british
 barwood
 blandishingly
