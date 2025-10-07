@@ -4242,7 +4242,6 @@ anthropomorphically
 animating
 audiologist
 antrophore
-agrimotor
 adrenotropic
 acrobats
 anteporticos
@@ -6700,6 +6699,7 @@ askewness
 antibias
 axometer
 arid
+agrimotor
 activation
 afterbeat
 aircraftmen
