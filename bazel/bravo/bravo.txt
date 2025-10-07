@@ -2637,7 +2637,6 @@ barmcloth
 brither
 birdcage
 bascules
-barnabas
 bales
 barnaby
 besnivel
@@ -14156,6 +14155,7 @@ brachistocephaly
 braggadocios
 boloed
 brass
+barnabas
 brachistochrone
 brachistochronous
 beaver
