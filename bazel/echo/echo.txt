@@ -1311,7 +1311,6 @@ ebcdic
 extirpationist
 ethylated
 enopla
-exemplupla
 epidermolysis
 eucalyptol
 endogenae
@@ -6999,6 +6998,7 @@ ebulliometry
 employee
 emim
 entrepreneur
+exemplupla
 enrobers
 entrer
 endometrium
