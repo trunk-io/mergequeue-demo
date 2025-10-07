@@ -3707,7 +3707,6 @@ biologese
 bloodbird
 beachwear
 bourdis
-batture
 bielded
 barasingha
 buncombe
@@ -8185,6 +8184,7 @@ balkier
 beswarming
 bhava
 byeworkman
+batture
 besqueeze
 bifaces
 bedress
