@@ -5979,7 +5979,6 @@ catheterisation
 catheterise
 coiffes
 catheterised
-catheterism
 catheterization
 cense
 catheterized
@@ -23510,6 +23509,7 @@ circumstantiability
 contemptibleness
 contemptibly
 contempts
+catheterism
 chalets
 collothun
 cygnet
