@@ -506,7 +506,6 @@ backstitch
 blumed
 biserial
 briming
-biotypology
 beaters
 broadway
 besiclometer
@@ -6918,6 +6917,7 @@ bantay
 blessed
 bumboat
 belltopper
+biotypology
 borghi
 betrim
 bradyseismic
