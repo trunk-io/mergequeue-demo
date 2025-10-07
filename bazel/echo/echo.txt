@@ -153,6 +153,7 @@ emigate
 eucleid
 eelbobber
 expiring
+exon
 expressive
 egret
 embryogenesis
@@ -3493,7 +3494,6 @@ ennuye
 escort
 eclipsing
 embourgeoisement
-exon
 eelcake
 epilogized
 explementary
