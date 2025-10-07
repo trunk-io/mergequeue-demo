@@ -5518,7 +5518,6 @@ esmeralda
 enfeeblements
 earwort
 equidistantial
-evertors
 exoterics
 enfeebles
 envapour
@@ -6872,6 +6871,7 @@ engraulis
 entomostraca
 electrum
 endamageable
+evertors
 eudemonist
 equuleus
 ectocardia
