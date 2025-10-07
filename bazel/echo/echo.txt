@@ -5527,7 +5527,6 @@ equiponderance
 evaporite
 encourage
 etherlike
-enfeoffing
 entheasm
 earthquake
 enamellar
@@ -5542,6 +5541,7 @@ expandability
 episcopality
 ectothermic
 endoergic
+enfeoffing
 eerinesses
 euxanthone
 emphasized
