@@ -7767,7 +7767,6 @@ epigee
 escapism
 ejectors
 eaves
-enantiomeric
 endaze
 electromagnetize
 extrudable
@@ -9407,6 +9406,7 @@ epipodium
 endosmoses
 escarteled
 escharotic
+enantiomeric
 enfeoff
 eschatological
 enaliosauria
