@@ -8151,7 +8151,6 @@ endogenies
 extinctive
 eupatridae
 extemporal
-enddamaging
 exemptionist
 equidominant
 eremitish
@@ -10626,6 +10625,7 @@ endfile
 embryol
 excusable
 eely
+enddamaging
 emulsionize
 eugonic
 eggheaded
