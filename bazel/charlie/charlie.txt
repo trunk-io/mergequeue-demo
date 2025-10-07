@@ -2509,7 +2509,6 @@ chemist
 cerevis
 candler
 candlerent
-concealed
 curiara
 chitra
 casework
@@ -9959,6 +9958,7 @@ cajuputs
 chequebook
 croup
 corbeilles
+concealed
 chequer
 chequers
 creosoted
