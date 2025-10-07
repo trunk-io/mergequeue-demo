@@ -9212,6 +9212,7 @@ edam
 ecclesiastry
 ethnarch
 effusion
+entrees
 embound
 empannel
 equestrianship
@@ -10171,7 +10172,6 @@ eidolism
 enrichment
 emigrations
 emptores
-entrees
 evensongs
 ethicoaesthetic
 ethicopolitical
