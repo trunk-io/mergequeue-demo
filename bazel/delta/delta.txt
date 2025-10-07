@@ -1310,6 +1310,7 @@ draftsperson
 diphthongization
 dompt
 damagement
+decomposability
 deceptory
 dart
 discerners
@@ -7396,7 +7397,6 @@ delim
 demobbing
 diazonium
 deturpate
-decomposability
 demurity
 dopster
 diaconal
