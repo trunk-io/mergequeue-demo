@@ -2554,6 +2554,7 @@ cane
 cliffing
 canebrake
 cardioschisis
+chorded
 cementmaking
 canebrakes
 cowskins
@@ -11876,7 +11877,6 @@ chordamesodermal
 chordamesodermic
 comparableness
 chordate
-chorded
 chordee
 cst
 coreligionist
