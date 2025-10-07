@@ -2490,6 +2490,7 @@ candlelight
 candlelighter
 chaloth
 confraternities
+celebs
 choosable
 candlelighting
 cohusband
@@ -6736,7 +6737,6 @@ celebrity
 cresotic
 ciscos
 cribbages
-celebs
 celemin
 celemines
 celery
