@@ -13856,7 +13856,6 @@ cysticercoid
 carcinophobia
 cinenchyma
 concreate
-controllable
 cinene
 cineol
 creeky
@@ -16427,6 +16426,7 @@ clk
 clo
 cloacae
 cryptanalyzed
+controllable
 cornetists
 cloacaline
 cents
