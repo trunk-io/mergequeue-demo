@@ -1384,7 +1384,6 @@ baled
 bobance
 battable
 balefires
-barmbrack
 balefully
 branned
 brideman
@@ -2671,6 +2670,7 @@ barnman
 braconids
 blurbs
 brawlier
+barmbrack
 barnstormer
 barnstorming
 borages
