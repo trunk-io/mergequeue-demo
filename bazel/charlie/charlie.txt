@@ -13463,7 +13463,6 @@ calamistral
 cyesis
 cif
 countergage
-camerawork
 cig
 cigarette
 cystenchyma
@@ -15751,6 +15750,7 @@ clavolet
 chapel
 clawed
 cubbishly
+camerawork
 clawers
 clawing
 colobium
