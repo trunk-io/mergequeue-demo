@@ -9129,6 +9129,7 @@ demilitarizing
 dy
 dido
 diaglyptic
+drepanoid
 didodecahedron
 didonia
 dihexahedron
@@ -12363,7 +12364,6 @@ doorstep
 dorking
 defrosted
 disciplined
-drepanoid
 dermatomycosis
 decerned
 desulfurate
