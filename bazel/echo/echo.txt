@@ -6677,7 +6677,6 @@ enterotoxication
 enlight
 exdie
 edificial
-elaidinic
 eclipser
 enspirit
 esterellite
@@ -8420,6 +8419,7 @@ empididae
 enfolden
 epitomes
 experimently
+elaidinic
 epoxyed
 epoxies
 euvrou
