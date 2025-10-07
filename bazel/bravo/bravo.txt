@@ -2484,7 +2484,6 @@ bldg
 blushingly
 bassetite
 bottonhook
-becloaked
 barguest
 barguests
 baria
@@ -17445,6 +17444,7 @@ burler
 balsawood
 bewearying
 boltspreet
+becloaked
 bandwork
 buffi
 boccies
