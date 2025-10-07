@@ -29,18 +29,18 @@ jobs:
           repository: trunk-io/mergequeue-tool
           latest: true
           tarBall: true
-          preRelease: false
+          preRelease: true
           extract: true
 
       - name: run mq
         id: edits
-        run: ./mq generate
+        run: ./mq generate --gh-token=${{ secrets.ELI_MQ_PAT }} --gh-token=${{ secrets.PAT_MQ }}
         env:
-          GH_TOKEN: ${{ secrets.ELI_MQ_PAT }}
+          TRUNK_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
 
       - name: run mq
         if: always()
         id: clean
-        run: ./mq housekeeping
+        run: ./mq housekeeping --gh-token=${{ secrets.ELI_MQ_PAT }}
         env:
-          GH_TOKEN: ${{ secrets.ELI_MQ_PAT }}
+          TRUNK_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
