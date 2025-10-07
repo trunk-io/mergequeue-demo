@@ -5900,6 +5900,7 @@ bared
 belonging
 basisphenoid
 bailiffship
+bejade
 bearherd
 belongs
 besoul
@@ -10505,7 +10506,6 @@ blastemic
 bopyrid
 blaster
 blastid
-bejade
 blasting
 birdshot
 borolanite
