@@ -4770,7 +4770,6 @@ accords
 avicennism
 aegagropilae
 acrasida
-agglutinates
 acaridea
 aqueous
 ashlered
@@ -19437,6 +19436,7 @@ afterstate
 armature
 athwartwise
 augurial
+agglutinates
 argents
 adventive
 acidophile
