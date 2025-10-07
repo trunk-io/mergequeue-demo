@@ -8024,6 +8024,7 @@ disables
 dhundia
 dibatag
 disembowelled
+dtset
 drawable
 dhurra
 deedbote
@@ -13844,7 +13845,6 @@ dephased
 dimerous
 ditremidae
 distichous
-dtset
 deafnesses
 dropsied
 distyle
