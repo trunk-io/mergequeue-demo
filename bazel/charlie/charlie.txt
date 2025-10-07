@@ -6044,6 +6044,7 @@ cleg
 chards
 cyanide
 catholyte
+coenunuri
 cathouse
 carryable
 cathouses
@@ -18163,7 +18164,6 @@ coenthrone
 copopsia
 colatorium
 consumer
-coenunuri
 coleochaetaceae
 coequal
 coteful
