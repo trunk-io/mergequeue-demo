@@ -6691,6 +6691,7 @@ enterotoxication
 enlight
 exdie
 edificial
+elaidinic
 eclipser
 enspirit
 esterellite
@@ -8122,7 +8123,6 @@ earmuffs
 exuding
 expulsions
 entosphere
-elaidinic
 episcopature
 eczemas
 emarcid
