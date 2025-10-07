@@ -3483,7 +3483,6 @@ defunction
 duke
 deul
 diethylamine
-defusion
 diploidy
 demidigested
 darkskin
@@ -8295,6 +8294,7 @@ disseminate
 depredation
 disvouch
 dustlessness
+defusion
 dearborn
 decigrams
 doricize
