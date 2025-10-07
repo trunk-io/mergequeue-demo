@@ -858,7 +858,6 @@ cayugan
 codesigns
 colicky
 cayugas
-cayuse
 colessee
 cayuses
 chaffed
@@ -1517,6 +1516,7 @@ crystal
 calliphorid
 celosia
 calcrete
+cayuse
 calliphoridae
 calliphorine
 callipygous
