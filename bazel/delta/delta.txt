@@ -2522,6 +2522,7 @@ disleafing
 dimmed
 dynasty
 declines
+deflagrations
 directrices
 declivent
 declivity
@@ -13852,7 +13853,6 @@ diervilla
 dokhma
 distillator
 dsect
-deflagrations
 devitrify
 deboite
 dynamogeneses
