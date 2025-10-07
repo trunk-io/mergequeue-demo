@@ -6409,7 +6409,6 @@ download
 disbark
 desc
 descale
-declericalize
 drassidae
 diseuses
 downrightly
@@ -16422,6 +16421,7 @@ daffling
 defrosting
 divulges
 dracin
+declericalize
 definienda
 damaskin
 desexed
