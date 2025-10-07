@@ -13194,7 +13194,6 @@ buckshees
 boosts
 baston
 barnstorms
-boselaphus
 blaoners
 blackboy
 bosh
@@ -16884,6 +16883,7 @@ buffalofish
 buffaloing
 biflagellate
 buffball
+boselaphus
 breastrail
 bissextile
 brachyprism
