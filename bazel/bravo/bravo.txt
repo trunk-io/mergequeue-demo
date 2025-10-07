@@ -7216,7 +7216,6 @@ blennocele
 befriz
 bestow
 briquettes
-bestowment
 burgee
 briary
 bituminised
@@ -7664,6 +7663,7 @@ belgrade
 bargemen
 becloaking
 brahmany
+bestowment
 blackflies
 biocenotic
 bezils
