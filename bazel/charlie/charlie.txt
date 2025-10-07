@@ -2787,6 +2787,7 @@ curvilineal
 crispening
 cordal
 chebeck
+cantred
 cannulae
 cannulate
 circumscribe
@@ -25887,7 +25888,6 @@ corruptive
 corruptively
 coprinae
 corruptly
-cantred
 corruptor
 cadency
 calomel
