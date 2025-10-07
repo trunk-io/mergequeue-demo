@@ -4830,6 +4830,7 @@ cityscapes
 crakes
 carri
 cetaceous
+causse
 carry
 carriageable
 carriageful
@@ -23005,7 +23006,6 @@ consignificative
 consignificator
 consignifying
 cylindroidal
-causse
 consignments
 consiliary
 consilience
