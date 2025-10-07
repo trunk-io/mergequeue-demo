@@ -4883,7 +4883,6 @@ encumbrance
 eelblenny
 endemiology
 extrabureau
-epenthetic
 english
 evolves
 enantiosis
@@ -5972,6 +5971,7 @@ eschalot
 enkolpia
 engineries
 eructates
+epenthetic
 embolomerism
 erme
 enjoinment
