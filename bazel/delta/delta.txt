@@ -768,7 +768,6 @@ decoyer
 dandizette
 deescalates
 dayflies
-decasyllabic
 duvetyne
 destains
 disproven
@@ -10955,6 +10954,7 @@ disanchor
 disbeliefs
 deliberations
 disanimation
+decasyllabic
 dastur
 disentanglements
 dietary
