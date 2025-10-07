@@ -8136,7 +8136,6 @@ coronographic
 ceroxylon
 craspedon
 cheilostomata
-chainlike
 confrontal
 chainmaker
 chiropodist
@@ -31566,6 +31565,7 @@ curteous
 curter
 curtesies
 curtilage
+chainlike
 counterpuncher
 curtlax
 curtsied
