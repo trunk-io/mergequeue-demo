@@ -4769,6 +4769,7 @@ electro
 exponible
 exogenae
 establishments
+epineural
 euthyneural
 exploratory
 extracardial
@@ -8048,7 +8049,6 @@ enviably
 ektodynamorphic
 endamebic
 earthworks
-epineural
 exosporal
 exquisitive
 empeopled
