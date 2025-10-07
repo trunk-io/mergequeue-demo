@@ -4378,7 +4378,6 @@ confidentiality
 carillonneur
 cityish
 carillonning
-carillons
 carinae
 carinal
 cavum
@@ -25680,6 +25679,7 @@ colombian
 confinedness
 completed
 corpuscularity
+carillons
 corpuscule
 chairlift
 corradial
