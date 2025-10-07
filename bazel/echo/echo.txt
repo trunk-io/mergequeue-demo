@@ -8687,7 +8687,6 @@ ejecta
 endostyle
 epicoeliac
 epulotic
-equiprobably
 equiproportional
 equiproportionality
 egocentrism
@@ -13517,6 +13516,7 @@ essart
 elementalist
 ethnological
 embowment
+equiprobably
 exsolving
 eclairissement
 egeria
