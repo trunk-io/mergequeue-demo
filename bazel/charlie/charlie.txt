@@ -12653,7 +12653,6 @@ catechisation
 chronotropic
 countable
 ciceroni
-collocution
 cheney
 chilidium
 chronotropism
@@ -16638,6 +16637,7 @@ closable
 closeable
 closecross
 closed
+collocution
 circumsolar
 closefistedly
 chandelier
