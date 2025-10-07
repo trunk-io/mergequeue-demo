@@ -19633,7 +19633,6 @@ abas
 agrarian
 affluency
 aridian
-afrown
 agnomens
 aridity
 analogies
@@ -23286,6 +23285,7 @@ adjudicator
 apteryges
 autoimmunizing
 anolyte
+afrown
 astrodynamic
 avulse
 atua
