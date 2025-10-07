@@ -578,7 +578,6 @@ birdie
 bibliolatry
 burgau
 bowfins
-bounds
 baconize
 baconweed
 bierkeller
@@ -2050,6 +2049,7 @@ bead
 bundist
 blindish
 banqueting
+bounds
 buddhistic
 besteer
 bladeless
