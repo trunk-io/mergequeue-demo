@@ -11106,7 +11106,6 @@ borborygmic
 billeter
 broil
 blere
-bandgap
 blockmaker
 beelzebub
 bimmeler
@@ -15308,6 +15307,7 @@ birdwitted
 bridewort
 beghard
 bridge
+bandgap
 budtime
 bespectacled
 bridgebuilder
