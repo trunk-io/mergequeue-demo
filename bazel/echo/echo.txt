@@ -1932,7 +1932,6 @@ erupt
 epinette
 empathically
 endict
-elementalist
 erdvark
 elishah
 exaltation
@@ -13517,6 +13516,7 @@ engravers
 elucidate
 equalizing
 essart
+elementalist
 ethnological
 embowment
 exsolving
