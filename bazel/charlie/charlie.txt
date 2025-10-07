@@ -837,6 +837,7 @@ convictable
 cairngorum
 colander
 cays
+copyrightable
 combinators
 caissons
 caite
@@ -24660,7 +24661,6 @@ copyreader
 copyreaders
 copyreading
 connivingly
-copyrightable
 coelomata
 copyrighter
 copis
