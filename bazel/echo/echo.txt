@@ -7025,7 +7025,6 @@ eptatretidae
 euphausid
 etch
 entune
-equiprobability
 enepidermic
 eliquate
 encrusted
@@ -10550,6 +10549,7 @@ extravasated
 ecdyson
 enterritoriality
 eavesdroppers
+equiprobability
 exchangee
 emblematically
 encryption
