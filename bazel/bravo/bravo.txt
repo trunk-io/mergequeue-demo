@@ -2581,7 +2581,6 @@ basicity
 billon
 bankera
 bilges
-barkless
 battening
 biaxal
 bandusia
@@ -12222,6 +12221,7 @@ bolewort
 baklawas
 bastiles
 baying
+barkless
 bacterioscopist
 benzodiazine
 beige
