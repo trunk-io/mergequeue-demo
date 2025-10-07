@@ -2997,7 +2997,6 @@ dithyramb
 defaces
 doctrines
 diable
-defacing
 defacto
 defaillance
 defaitiste
@@ -15426,6 +15425,7 @@ dompteuse
 doms
 dictatory
 don
+defacing
 dona
 danker
 donatives
