@@ -4145,6 +4145,7 @@ comd
 cerebellums
 cardiologist
 chiplet
+cicelies
 cardiologists
 cardiomegaly
 creature
@@ -13159,7 +13160,6 @@ cicatrization
 cott
 cicatrizer
 cicatrizing
-cicelies
 ciceronage
 crystallizability
 ciceronian
