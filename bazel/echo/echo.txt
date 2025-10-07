@@ -3213,7 +3213,6 @@ eurous
 extraschool
 eluctate
 elude
-eludes
 exaltedly
 eludible
 ensorcel
@@ -4464,6 +4463,7 @@ ephemerid
 entothorax
 etherialize
 easement
+eludes
 entalent
 enrange
 erythromycin
