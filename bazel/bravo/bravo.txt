@@ -4010,6 +4010,7 @@ beamman
 brighteners
 bedaubed
 beholdable
+biblicality
 bronteum
 beamroom
 blitzkrieged
@@ -7843,7 +7844,6 @@ bohmite
 biblical
 bels
 benamed
-biblicality
 biblicism
 blastomycetous
 biblicopsychological
