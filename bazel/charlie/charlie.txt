@@ -2472,7 +2472,6 @@ candidness
 candidnesses
 crawlie
 cleithral
-countermands
 candies
 consuetudinary
 candymaking
@@ -10814,6 +10813,7 @@ clowring
 chinologist
 chronical
 cremations
+countermands
 chinones
 chinook
 clavicylinder
