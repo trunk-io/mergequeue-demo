@@ -3445,7 +3445,6 @@ deprivate
 disaccharides
 dismissable
 doucin
-defrayers
 defraying
 dother
 desaturate
@@ -6557,6 +6556,7 @@ denumerative
 dipentene
 decipherable
 digested
+defrayers
 deselected
 disassociable
 disinfecting
