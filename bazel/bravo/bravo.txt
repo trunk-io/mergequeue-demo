@@ -710,7 +710,6 @@ bumped
 badgerer
 booking
 bacteriophage
-banana
 bevined
 balada
 boyish
@@ -9344,6 +9343,7 @@ bolster
 ballyrags
 bloodletter
 birchers
+banana
 birchwood
 bindweb
 barcaroles
