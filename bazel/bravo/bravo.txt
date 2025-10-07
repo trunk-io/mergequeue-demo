@@ -1769,7 +1769,6 @@ bandaging
 beisance
 bowlin
 beleaped
-bargeboard
 bergschrund
 bandala
 bandanaed
@@ -17904,6 +17903,7 @@ blend
 bernoo
 bushfighting
 backslider
+bargeboard
 blackfellow
 bushgrass
 bowered
