@@ -1760,6 +1760,7 @@ blepharoplast
 bivial
 beslime
 bullose
+brushable
 bialystoker
 bandaging
 beisance
@@ -8354,7 +8355,6 @@ borophenol
 bumble
 blickeys
 bioflavinoid
-brushable
 blackfellows
 bemuddled
 brulot
