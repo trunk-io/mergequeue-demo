@@ -10707,7 +10707,6 @@ enemying
 expiry
 eumenides
 ekphoria
-examine
 eumerism
 embosses
 euspongia
@@ -14074,6 +14073,7 @@ emendation
 ecardine
 etymography
 extremeness
+examine
 extremis
 effeminate
 evolutionistically
