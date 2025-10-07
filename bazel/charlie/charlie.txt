@@ -10374,7 +10374,6 @@ cares
 chief
 chiefery
 cyatholith
-cervalet
 conveyorizer
 chiefish
 chieftain
@@ -30237,6 +30236,7 @@ crudded
 convivialize
 carree
 cereuses
+cervalet
 coregonus
 clinicopathologic
 crunk
