@@ -2793,7 +2793,6 @@ cannulae
 cannulate
 circumscribe
 cursitor
-cannulating
 chinafish
 colius
 canoeist
@@ -30383,6 +30382,7 @@ coastways
 canonicalizing
 catalog
 cancerating
+cannulating
 coresidual
 collectivistic
 calmierer
