@@ -5614,7 +5614,6 @@ bouleuterion
 borons
 beknighted
 ballistite
-beknotted
 buffer
 burrio
 beleaps
@@ -7711,6 +7710,7 @@ bugre
 bagleaves
 bulbotuber
 bhaktimarga
+beknotted
 boomy
 behavioral
 bhangi
