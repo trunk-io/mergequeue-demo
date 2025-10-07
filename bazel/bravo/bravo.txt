@@ -4670,7 +4670,6 @@ bedims
 banshies
 boubas
 beekmantown
-bedkey
 bugweed
 bandpass
 braved
@@ -5476,6 +5475,7 @@ beachward
 bulletmaking
 blubbery
 boardmanship
+bedkey
 buddh
 beauteousness
 beetling
