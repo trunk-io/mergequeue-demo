@@ -1864,7 +1864,6 @@ endamage
 eir
 eclat
 exegetic
-elutor
 epurate
 eyrant
 eyepiece
@@ -3177,6 +3176,7 @@ emboscata
 extruding
 endomorphic
 errability
+elutor
 extruders
 energistic
 epiparasite
