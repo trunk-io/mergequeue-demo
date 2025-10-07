@@ -9725,7 +9725,6 @@ bellybutton
 bourette
 bismite
 bonav
-bankrupcy
 bismuthal
 bumblefoot
 bromids
@@ -10202,6 +10201,7 @@ backlogs
 bufferrers
 beroida
 begrime
+bankrupcy
 badgering
 binghi
 broomy
