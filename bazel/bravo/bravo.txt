@@ -2340,7 +2340,6 @@ belabors
 barcoo
 bemoisten
 besplash
-bardcraft
 beleve
 buckhorn
 branchling
@@ -13298,6 +13297,7 @@ barebacked
 birdyback
 bobac
 bedstaff
+bardcraft
 bokard
 brune
 bowler
