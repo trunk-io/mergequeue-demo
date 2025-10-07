@@ -2396,6 +2396,7 @@ anaerobe
 acetylmethylcarbinol
 aclidian
 acmaeidae
+antifungal
 acmatic
 antilepton
 acme
@@ -2850,7 +2851,6 @@ acid
 acropolitan
 asthenope
 abmho
-antifungal
 afterlight
 acarologist
 availableness
