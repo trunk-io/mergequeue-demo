@@ -5135,7 +5135,6 @@ decephalization
 dogfoot
 deathly
 diaheliotropic
-detruncating
 destructors
 denitrifying
 dropshot
@@ -13706,6 +13705,7 @@ disspread
 disstate
 dissuaded
 djagoong
+detruncating
 delayed
 dalteen
 dissuades
