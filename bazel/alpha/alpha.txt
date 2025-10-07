@@ -266,6 +266,7 @@ aeroacoustic
 ailuro
 addison
 adrenocorticotropic
+atterminal
 antihypochondriac
 appunctuation
 attester
@@ -3227,7 +3228,6 @@ aedine
 axal
 autohemorrhage
 acutilobate
-atterminal
 archibenthos
 antiantienzyme
 anisogamic
