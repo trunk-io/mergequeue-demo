@@ -2592,7 +2592,6 @@ eras
 exempla
 embryonated
 electrophrenic
-electrophoric
 electroplater
 ethnohistorically
 extermining
@@ -8928,6 +8927,7 @@ exteroceptive
 endogenesis
 endoplasm
 ericas
+electrophoric
 ericetal
 exothecium
 emotiomotor
