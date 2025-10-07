@@ -3724,7 +3724,6 @@ bielded
 barasingha
 buncombe
 bultow
-basialveolar
 ballgame
 breakermen
 bobflies
@@ -12490,6 +12489,7 @@ brules
 bobstay
 bicapitate
 backcast
+basialveolar
 bonbons
 belvederes
 barker
