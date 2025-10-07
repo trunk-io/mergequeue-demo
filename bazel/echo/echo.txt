@@ -3138,7 +3138,6 @@ ecliptic
 enskyed
 equalised
 epirrheme
-embryotome
 epidermidalization
 erythrochaete
 essayer
@@ -10947,6 +10946,7 @@ etacist
 eutaxies
 ellipsis
 eurycephalic
+embryotome
 experimentor
 epiglot
 enridged
