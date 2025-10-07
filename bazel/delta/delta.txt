@@ -396,7 +396,6 @@ daimiote
 deployable
 disembargoing
 dimmet
-daimons
 decandrous
 ditches
 daynet
@@ -8322,6 +8321,7 @@ dobbins
 darwinize
 dependantly
 diploe
+daimons
 digestant
 defervesce
 disniche
