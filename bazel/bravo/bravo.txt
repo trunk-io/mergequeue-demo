@@ -2279,7 +2279,6 @@ biasways
 breloque
 barbicel
 bespice
-barbicels
 bathonian
 bateaux
 barbierite
@@ -12597,6 +12596,7 @@ bonhomies
 boni
 bony
 burtonize
+barbicels
 boniata
 basipterygium
 bloodshot
