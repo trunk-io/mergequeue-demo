@@ -4694,7 +4694,6 @@ bookman
 benediction
 bourrelet
 betitle
-badmash
 bienseance
 bursula
 basseted
@@ -15949,6 +15948,7 @@ bowel
 bromoauric
 brazilianite
 bethwack
+badmash
 bromoil
 broaching
 bruising
