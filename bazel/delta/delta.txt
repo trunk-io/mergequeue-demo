@@ -1618,7 +1618,6 @@ domify
 diablery
 deeper
 daundered
-deallocate
 deobstruct
 devotional
 dactylozooid
@@ -16690,6 +16689,7 @@ dicey
 disclaimer
 displicence
 dreich
+deallocate
 disauthorize
 dolina
 disconcerted
