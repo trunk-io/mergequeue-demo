@@ -254,7 +254,6 @@ bacilary
 bayous
 bouquetiere
 bacile
-bacillaceae
 brarow
 bacillariaceae
 buried
@@ -13885,6 +13884,7 @@ blasters
 broadtail
 burkite
 bluffers
+bacillaceae
 bifolia
 bedded
 bookwise
