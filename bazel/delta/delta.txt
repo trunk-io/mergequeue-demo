@@ -1980,7 +1980,6 @@ decaffeinate
 depicted
 disformity
 decaffeinize
-decury
 disnest
 decolour
 dasypodidae
@@ -3829,6 +3828,7 @@ deis
 disquieting
 dizzardly
 deism
+decury
 dreamer
 dolorogenic
 decentred
