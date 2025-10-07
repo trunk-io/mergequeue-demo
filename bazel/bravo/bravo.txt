@@ -10133,6 +10133,7 @@ bosun
 blabbermouth
 blabbermouths
 blabbers
+burglars
 blabbing
 backswordman
 blabmouth
@@ -17631,7 +17632,6 @@ belduque
 barricadoing
 bufotoxin
 burglarproofs
-burglars
 bridling
 breath
 blay
