@@ -3080,6 +3080,7 @@ acquest
 allometric
 adornment
 automaker
+appast
 actinopteri
 acromia
 atrabile
@@ -15313,7 +15314,6 @@ antimasque
 achievability
 antimasquer
 afterstrain
-appast
 aequorin
 aquerne
 archcorrupter
