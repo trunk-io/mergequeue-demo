@@ -1604,6 +1604,7 @@ engrams
 eichhornia
 estoppel
 eide
+exsiccator
 excepter
 embrasured
 encephalomas
@@ -7804,7 +7805,6 @@ epidermal
 eudist
 eccentrate
 epiglottitis
-exsiccator
 elegiambic
 enervators
 estoppal
