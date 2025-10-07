@@ -1030,6 +1030,7 @@ dishes
 directive
 dutra
 darner
+daintiness
 diaka
 devoiced
 decolours
@@ -3331,7 +3332,6 @@ devilizing
 deflector
 diastereoisomer
 divisibilities
-daintiness
 devitrifying
 dysgenics
 dungy
