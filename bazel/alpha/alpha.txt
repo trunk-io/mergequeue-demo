@@ -7495,6 +7495,7 @@ albuminometer
 arc
 adenomata
 alepot
+arytenoid
 alloplasm
 albuminoscope
 anonyms
@@ -10227,7 +10228,6 @@ axiate
 ameboidism
 acrobacies
 amedeo
-arytenoid
 anemophile
 ameiosis
 angiolymphitis
