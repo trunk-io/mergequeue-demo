@@ -4635,6 +4635,7 @@ dicebox
 denticulate
 demise
 demised
+digitation
 depas
 decken
 drysalter
@@ -8226,7 +8227,6 @@ demobilize
 disadvantageously
 dependancy
 dehumidifier
-digitation
 doombook
 decolonize
 deys
