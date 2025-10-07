@@ -3119,7 +3119,6 @@ dislevelment
 descanter
 dulcineas
 deracine
-desiccators
 deinotherium
 disappoint
 dimensionality
@@ -5316,6 +5315,7 @@ disblame
 dragade
 daraf
 diaphoretic
+desiccators
 displaced
 dentical
 denticle
