@@ -371,7 +371,6 @@ daylights
 deprival
 deutomalar
 desalters
-droughtiness
 detruss
 diarists
 discoloured
@@ -13191,6 +13190,7 @@ distillates
 dispraising
 dentiloquist
 dispraisingly
+droughtiness
 diversion
 dole
 disprince
