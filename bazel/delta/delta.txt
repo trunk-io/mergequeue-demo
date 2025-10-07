@@ -3508,7 +3508,6 @@ disguise
 desilverize
 debunker
 degass
-degassed
 disintegrated
 displumed
 disappears
@@ -7249,6 +7248,7 @@ douceurs
 diathermal
 determined
 dextropedal
+degassed
 daubiest
 diabolical
 diphenylenimide
