@@ -813,7 +813,6 @@ event
 encorbelment
 emraud
 englobement
-equijacent
 expedited
 eddic
 entourages
@@ -12636,6 +12635,7 @@ extol
 excrescency
 englishman
 energizer
+equijacent
 exorable
 epicyclical
 esophagotomy
