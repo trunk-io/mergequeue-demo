@@ -9561,6 +9561,7 @@ diguanide
 derives
 driftfishes
 deadline
+delimiters
 dihalogen
 drayed
 decius
@@ -9725,7 +9726,6 @@ drizzlingly
 disulfoxide
 devaster
 dilettanti
-delimiters
 decriminalizing
 dentolingual
 dilettantist
