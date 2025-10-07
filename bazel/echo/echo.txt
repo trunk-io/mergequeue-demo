@@ -1543,7 +1543,6 @@ eucaines
 eff
 estampage
 emissaries
-endosiphon
 estopped
 echevaria
 engineers
@@ -4994,6 +4993,7 @@ exiguous
 exsectile
 essentia
 endotys
+endosiphon
 economist
 etherial
 enschedule
