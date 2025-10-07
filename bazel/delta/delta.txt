@@ -2612,6 +2612,7 @@ decompress
 disorder
 decompresses
 demiplacate
+dragshoe
 dogies
 duckies
 dcollet
@@ -3956,7 +3957,6 @@ devitalise
 deputized
 dedignation
 delictual
-dragshoe
 distributivity
 distritbutes
 delectus
