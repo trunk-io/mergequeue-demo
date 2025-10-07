@@ -10480,7 +10480,6 @@ bodingly
 breakneck
 brimborium
 blottier
-bastion
 boatlike
 blarneys
 bridgetree
@@ -17806,6 +17805,7 @@ bijugular
 blankets
 burrows
 benevolent
+bastion
 ballat
 burrstone
 biolite
