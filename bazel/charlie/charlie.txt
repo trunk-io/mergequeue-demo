@@ -1272,7 +1272,6 @@ calfling
 calfskin
 creatural
 calgary
-caliban
 clairaudient
 cunea
 calaverite
@@ -10028,6 +10027,7 @@ chiam
 cherub
 codex
 christener
+caliban
 cyanites
 candlebomb
 chanoyu
