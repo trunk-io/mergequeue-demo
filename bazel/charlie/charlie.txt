@@ -4271,7 +4271,6 @@ carex
 carfare
 carfares
 cassie
-carfloat
 coater
 centralia
 carfuffle
@@ -25401,6 +25400,7 @@ crabhole
 cornhouse
 cornhusker
 concertati
+carfloat
 cajaputs
 cloth
 chamades
