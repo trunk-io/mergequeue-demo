@@ -4366,6 +4366,7 @@ brise
 bonairness
 bagne
 berserk
+bedeafens
 bounties
 breakwater
 bullshit
@@ -10483,7 +10484,6 @@ blares
 boongary
 bodingly
 brimborium
-bedeafens
 blottier
 bastion
 boatlike
