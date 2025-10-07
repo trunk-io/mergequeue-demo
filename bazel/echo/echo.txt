@@ -3512,7 +3512,6 @@ excludes
 exhibit
 elod
 enured
-estampede
 enfollow
 embolectomy
 examiningly
@@ -10625,6 +10624,7 @@ euglenoid
 evenworthy
 enturret
 enfeeblement
+estampede
 ecossaise
 etiquet
 endfile
