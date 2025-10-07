@@ -6232,6 +6232,7 @@ baffy
 bumblebomb
 breathless
 benet
+bricked
 brazas
 beneventan
 bibliography
@@ -6600,7 +6601,6 @@ breastrope
 bout
 biohazard
 berberid
-bricked
 busking
 bundoc
 bedevilled
