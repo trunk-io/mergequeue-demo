@@ -5091,6 +5091,7 @@ deoxyribose
 detect
 dinetic
 dendrology
+demerge
 dola
 daubes
 dendrologous
@@ -18459,7 +18460,6 @@ dactylograph
 diagometer
 disulphuret
 dints
-demerge
 distrusts
 duplicious
 disenchanter
