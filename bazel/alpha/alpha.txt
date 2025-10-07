@@ -3104,7 +3104,6 @@ action
 antecaecal
 albiflorous
 aiwan
-autogyros
 ascendible
 aerodyne
 abnormalcies
@@ -3847,6 +3846,7 @@ adjoints
 apieces
 allurance
 adjudgment
+autogyros
 acute
 agglutinin
 afterthought
