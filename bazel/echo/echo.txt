@@ -6359,7 +6359,6 @@ embars
 emboldening
 enshrinements
 ephebe
-epitrochlear
 ecrus
 emulsor
 embrocation
@@ -10155,6 +10154,7 @@ emptores
 evensongs
 ethicoaesthetic
 ethicopolitical
+epitrochlear
 emoter
 ethicoreligious
 elytriform
