@@ -9640,7 +9640,6 @@ borrows
 bongs
 beckoners
 bullshot
-bisglyoxaline
 birdbander
 bishari
 byblis
@@ -10240,6 +10239,7 @@ bootstraps
 brownness
 battlers
 betattering
+bisglyoxaline
 buri
 boyd
 bitternut
