@@ -8807,6 +8807,7 @@ definable
 duftery
 defiguration
 draglines
+depends
 dibranchiata
 dovens
 dibstone
@@ -9307,7 +9308,6 @@ diglots
 devastator
 drainermen
 despouse
-depends
 droning
 dressers
 differenced
