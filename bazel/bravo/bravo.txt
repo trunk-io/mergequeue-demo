@@ -3418,7 +3418,6 @@ biennium
 biosis
 beaverboard
 bitterworm
-batarde
 batatas
 borrowable
 batavi
@@ -5147,6 +5146,7 @@ batoid
 bloodthirstiness
 baubling
 bimorphemic
+batarde
 banco
 befools
 budworm
