@@ -663,7 +663,6 @@ bushmanship
 baculus
 badaga
 badarian
-bedarkening
 biorgan
 bumbarge
 behav
@@ -1151,6 +1150,7 @@ bajocco
 byes
 bajra
 beards
+bedarkening
 beltmen
 bajree
 balsams
