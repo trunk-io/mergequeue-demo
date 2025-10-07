@@ -1888,6 +1888,7 @@ bandyball
 beforetime
 bandsman
 brigands
+bepraisement
 boronia
 beseechment
 burbler
@@ -15666,7 +15667,6 @@ bacteriologist
 beakerful
 bundlet
 burningly
-bepraisement
 blockier
 broadeners
 bewearied
