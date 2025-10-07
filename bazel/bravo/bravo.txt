@@ -196,6 +196,7 @@ bipartition
 balneum
 bandido
 bitt
+borderlight
 baccated
 bacchanalian
 bacchanals
@@ -843,7 +844,6 @@ benzidin
 benzalcohol
 baggala
 bogach
-borderlight
 bijouterie
 baggara
 beseechingly
