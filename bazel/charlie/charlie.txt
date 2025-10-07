@@ -16026,7 +16026,6 @@ covado
 creepered
 cleromancy
 canniness
-chainman
 clerstory
 clansmen
 cyamelid
@@ -20120,6 +20119,7 @@ cheweler
 chrysomyia
 cocorico
 commendation
+chainman
 connarite
 capaciousness
 cobhouse
