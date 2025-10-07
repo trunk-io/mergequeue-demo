@@ -11037,7 +11037,6 @@ chisellike
 chiselling
 coevolvedcoevolves
 collectable
-chiselmouth
 chisels
 chisled
 clarkeites
@@ -13834,6 +13833,7 @@ cinematography
 clarenceuxship
 caving
 culpably
+chiselmouth
 chkfil
 confounding
 curvation
