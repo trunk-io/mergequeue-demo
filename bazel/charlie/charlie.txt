@@ -4838,7 +4838,6 @@ compense
 carryout
 calciferol
 calyptro
-carryouts
 crosshatched
 carritches
 carriwitchet
@@ -10184,6 +10183,7 @@ chomping
 cheatableness
 collectioner
 categories
+carryouts
 craniofacial
 chewinks
 ciceronians
