@@ -90,7 +90,6 @@ cabbies
 cabbled
 canvases
 cabbler
-chars
 cabdriving
 corydora
 cabecudo
@@ -7743,6 +7742,7 @@ centiares
 certainness
 cynipoidea
 cormorant
+chars
 cetin
 certainty
 certhia
