@@ -4256,7 +4256,6 @@ characteristic
 coauthored
 cochlearia
 cashel
-careless
 carelessly
 carelessness
 careme
@@ -29578,6 +29577,7 @@ critic
 criticality
 criticalness
 coendured
+careless
 colophonist
 criticaster
 criticasterism
