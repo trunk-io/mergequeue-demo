@@ -5056,6 +5056,7 @@ describing
 disenabling
 dendrocygna
 dedimus
+diapaused
 detainer
 downhearted
 droukit
@@ -9748,7 +9749,6 @@ dishorner
 digesters
 dumetose
 decaying
-diapaused
 debcle
 dillymen
 doorstops
