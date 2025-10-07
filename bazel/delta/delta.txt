@@ -6696,7 +6696,6 @@ date
 designatum
 designedness
 designment
-dewar
 designer
 designful
 designfully
@@ -15038,6 +15037,7 @@ deashes
 deboshed
 disheartens
 dufrenite
+dewar
 delicti
 dedicative
 dumping
