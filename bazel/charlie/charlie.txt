@@ -1778,7 +1778,6 @@ coniosis
 crosspatches
 camails
 calzada
-camaka
 camaldolese
 camaldolesian
 camaldule
@@ -9112,6 +9111,7 @@ charshaf
 charsingha
 centriole
 container
+camaka
 charta
 coasters
 chartable
