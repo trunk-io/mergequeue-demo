@@ -8664,6 +8664,7 @@ deprocedured
 defocusses
 deescalations
 disert
+disbenching
 douceur
 dunning
 dispersity
@@ -11092,7 +11093,6 @@ disbenched
 decenniad
 dispauperize
 decorticated
-disbenching
 decarbonylation
 doxological
 digitigrada
