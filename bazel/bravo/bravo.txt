@@ -7608,7 +7608,6 @@ bewitchment
 baobabs
 booklice
 bewizard
-booths
 blandished
 bracketing
 barracks
@@ -18086,6 +18085,7 @@ baseballdom
 beroll
 broodier
 bastnaesite
+booths
 booklet
 buccally
 boatsman
