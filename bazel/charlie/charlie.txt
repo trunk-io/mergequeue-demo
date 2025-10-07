@@ -4958,7 +4958,6 @@ columbia
 cartogram
 cartography
 cypseli
-cartographic
 cry
 circulet
 cornific
@@ -25094,6 +25093,7 @@ conglutinate
 craftmanship
 circumgestation
 costiferous
+cartographic
 celotex
 corduroying
 carsten
