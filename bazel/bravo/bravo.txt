@@ -2996,7 +2996,6 @@ biostatistic
 bsf
 biome
 bartonella
-barkantine
 backswordsman
 bookbinderies
 bartree
@@ -4167,6 +4166,7 @@ belittling
 bunchily
 buddhology
 btu
+barkantine
 blackwasher
 beaumont
 belostomatidae
