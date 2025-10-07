@@ -4270,7 +4270,6 @@ emit
 expediencies
 enamorato
 endocytosis
-endodontia
 endleaves
 extraordinariness
 endotheliotoxin
@@ -10832,6 +10831,7 @@ euphemistically
 euphemize
 epistatic
 eucarida
+endodontia
 euxine
 eyewashes
 epifaunas
