@@ -7644,7 +7644,6 @@ enterostasis
 epicrasis
 equinal
 enemylike
-epithalamus
 enringed
 empair
 exciton
@@ -9968,6 +9967,7 @@ enweb
 extradict
 encodings
 embolismic
+epithalamus
 enrols
 emotiomuscular
 electrode
