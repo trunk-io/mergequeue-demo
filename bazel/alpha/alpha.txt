@@ -5573,7 +5573,6 @@ anteriorly
 appressorium
 acajous
 amygdale
-avocative
 affrayed
 annunciative
 alligations
@@ -6113,6 +6112,7 @@ assonantal
 agnoite
 averseness
 alco
+avocative
 agnosia
 agnotozoic
 agnus
