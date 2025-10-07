@@ -5764,7 +5764,6 @@ dismarshall
 discanter
 disauthentic
 disubstitution
-dowel
 divestible
 deficit
 dislimns
@@ -15970,6 +15969,7 @@ downsize
 dredged
 decrepitude
 direct
+dowel
 denumberment
 daimioate
 demos
