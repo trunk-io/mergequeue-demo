@@ -1778,7 +1778,6 @@ battlepiece
 bollito
 belladonna
 bullary
-barricos
 betula
 bancus
 bearfoot
@@ -9506,6 +9505,7 @@ batata
 bummalos
 bronchodilatation
 bathymeter
+barricos
 biogenase
 basaltine
 boas
