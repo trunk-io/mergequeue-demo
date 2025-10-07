@@ -3924,7 +3924,6 @@ apartness
 adjutory
 adjutrix
 ambassage
-acierates
 ameba
 adlumia
 alphatoluic
@@ -4757,6 +4756,7 @@ assn
 asamblea
 aconites
 acquisition
+acierates
 aerobiologist
 autocross
 attorneyism
