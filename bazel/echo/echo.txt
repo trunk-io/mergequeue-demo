@@ -4866,7 +4866,6 @@ ephedraceae
 enterogram
 elemental
 explete
-enjamb
 epitaxic
 encroachingly
 encrustation
@@ -5513,6 +5512,7 @@ englute
 experimentalism
 episporangium
 enamelwork
+enjamb
 exorciser
 enfeeble
 esmeralda
