@@ -2998,7 +2998,6 @@ doctrines
 diable
 defacing
 defacto
-dereferences
 defaillance
 defaitiste
 defalcated
@@ -14615,6 +14614,7 @@ djerib
 demonolatrous
 djersa
 dschubba
+dereferences
 dignified
 deign
 damageable
