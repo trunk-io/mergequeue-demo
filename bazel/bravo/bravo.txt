@@ -846,7 +846,6 @@ baggager
 benzidin
 benzalcohol
 baggala
-bogach
 borderlight
 bijouterie
 baggara
@@ -13354,6 +13353,7 @@ botanizes
 bilimbing
 bulbless
 beadeyes
+bogach
 balsamed
 boffos
 bishoprics
