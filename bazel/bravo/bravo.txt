@@ -3413,6 +3413,7 @@ biennium
 biosis
 beaverboard
 bitterworm
+bougee
 batarde
 batatas
 borrowable
@@ -10977,7 +10978,6 @@ blinker
 bubingas
 bootyless
 balancewise
-bougee
 bitterful
 barretors
 blowhards
