@@ -4247,7 +4247,6 @@ carelessly
 carelessness
 careme
 carer
-chyometer
 capsulotome
 cir
 captainries
@@ -15636,6 +15635,7 @@ clathrarian
 clathrate
 choose
 clathrinidae
+chyometer
 clathroid
 clathrose
 cranes
