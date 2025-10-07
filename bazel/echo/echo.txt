@@ -1238,7 +1238,6 @@ epithalamion
 encircler
 enclasped
 eassel
-enteroid
 epeus
 epichil
 epyllia
@@ -13720,6 +13719,7 @@ ententophil
 etaballi
 encyrtidae
 ectoenzym
+enteroid
 encounterable
 enzyme
 ectoplasm
