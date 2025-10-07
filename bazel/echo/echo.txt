@@ -3745,6 +3745,7 @@ examinees
 embusk
 encrypts
 enrollments
+endospore
 epistemolog
 efforce
 embussing
@@ -10680,7 +10681,6 @@ ephydra
 ephemerae
 equalizers
 electrometallurgical
-endospore
 earthward
 enclaret
 echeneidae
