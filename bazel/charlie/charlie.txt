@@ -11056,7 +11056,6 @@ cowgirl
 churnstaff
 chitins
 chitling
-chitlings
 candours
 carloads
 calamus
@@ -16955,6 +16954,7 @@ culturine
 cenotaphs
 cattiness
 choledochoplasty
+chitlings
 consols
 cluricaune
 clusia
