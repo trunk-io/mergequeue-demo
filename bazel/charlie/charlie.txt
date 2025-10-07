@@ -3012,7 +3012,6 @@ comatic
 cyclostomidae
 coppersmith
 chickasaws
-canun
 canvas
 chaffinches
 chiasmodon
@@ -11648,6 +11647,7 @@ chowdered
 clethra
 columbanian
 cholesterinic
+canun
 cholesterol
 cholesterolemia
 cholesteroluria
