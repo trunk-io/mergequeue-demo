@@ -1247,6 +1247,7 @@ effect
 egoize
 electropism
 euonymy
+enmove
 enslaving
 enjoin
 eclair
@@ -6102,7 +6103,6 @@ enmeshment
 ethicizes
 educe
 ensulphur
-enmove
 emusified
 enneagonal
 effigy
