@@ -14754,7 +14754,6 @@ adelops
 aequi
 anticyclone
 anticyclones
-anticyclonically
 acanth
 aisles
 aubaine
@@ -22603,6 +22602,7 @@ azygospore
 assentors
 acylates
 atheriogaean
+anticyclonically
 atheris
 antipatriotic
 augur
