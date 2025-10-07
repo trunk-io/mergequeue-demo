@@ -11549,7 +11549,6 @@ cubism
 cholate
 chamberer
 cholates
-coordinatory
 crafting
 chold
 choleate
@@ -16558,6 +16557,7 @@ cloit
 chamisos
 cloke
 cutaway
+coordinatory
 conniver
 corbies
 cartelization
