@@ -6870,6 +6870,7 @@ evaporable
 equipments
 embelif
 emergencies
+excavators
 embossman
 executions
 eucalyn
@@ -10191,7 +10192,6 @@ epanorthosis
 experiences
 embedded
 enantobiosis
-excavators
 epistolist
 ecphorization
 esponton
