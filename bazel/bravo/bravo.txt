@@ -1914,7 +1914,6 @@ bange
 boardroom
 bronchoscopy
 botan
-blankness
 bombard
 beamless
 bluebell
@@ -17027,6 +17026,7 @@ bulby
 buckskins
 bulbier
 batrachoid
+blankness
 bacteriotoxin
 buscarle
 bulbiest
