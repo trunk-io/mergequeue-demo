@@ -5440,7 +5440,6 @@ casualty
 casuariiformes
 chloramide
 casuarius
-chamaecyparis
 crunode
 casuistess
 conchobor
@@ -20880,6 +20879,7 @@ crocodilian
 componential
 challoth
 components
+chamaecyparis
 compony
 comportable
 comported
