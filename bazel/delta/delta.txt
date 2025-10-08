@@ -2209,7 +2209,6 @@ dreint
 drch
 dartre
 danes
-deceit
 danceable
 deceitfulness
 disgust
@@ -10107,6 +10106,7 @@ dimoric
 dauerschlaf
 distinguishability
 dynamometamorphic
+deceit
 disseverance
 dirls
 dimension
