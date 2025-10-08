@@ -8030,6 +8030,7 @@ disrobers
 datasets
 dentex
 durbachite
+doradidae
 developpes
 decidable
 deperdit
@@ -17952,7 +17953,6 @@ dissectors
 dunking
 dukedoms
 dissentients
-doradidae
 dukkeripen
 decoct
 dipeptid
