@@ -8026,7 +8026,6 @@ beachiest
 biconnected
 bloodthirstiest
 boildown
-brutes
 bastonite
 barnburner
 brawned
@@ -15445,6 +15444,7 @@ botheration
 bevy
 brigsail
 barabara
+brutes
 biggings
 bousing
 brontograph
