@@ -6345,6 +6345,7 @@ ephebe
 exhumation
 ecrus
 emulsor
+encounterer
 embrocation
 euskarian
 elaboration
@@ -9088,7 +9089,6 @@ etruscan
 empt
 ephetic
 erythrocytolysin
-encounterer
 empeirema
 exacerbescent
 erythrosis
