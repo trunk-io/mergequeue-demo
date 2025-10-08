@@ -6435,6 +6435,7 @@ bergamiol
 backcloth
 barangay
 bestayed
+bon
 bravery
 buttercups
 biternate
@@ -12451,7 +12452,6 @@ beguilers
 begoud
 barratries
 beloveds
-bon
 branchiness
 beths
 bonifaces
