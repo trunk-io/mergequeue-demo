@@ -14524,6 +14524,7 @@ builtin
 baby
 brakeroot
 breechless
+bingle
 boatyards
 balneotherapeutics
 bedoctor
@@ -18170,7 +18171,6 @@ brouillon
 boonless
 boteroll
 botchwork
-bingle
 blastopore
 behead
 biodegradation
