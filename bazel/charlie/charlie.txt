@@ -4913,6 +4913,7 @@ cartobibliography
 columbia
 cartogram
 cartography
+circulin
 cypseli
 cry
 cornific
@@ -25307,7 +25308,6 @@ concetto
 coardent
 cormidium
 concolour
-circulin
 cormous
 challa
 corn
