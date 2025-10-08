@@ -2368,6 +2368,7 @@ dispelled
 doucepere
 decima
 decimalism
+demifigure
 dueling
 doxies
 decimalist
@@ -4505,7 +4506,6 @@ deputies
 dispersoid
 demies
 dosimetric
-demifigure
 deoxidisation
 decentres
 doomage
