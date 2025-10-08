@@ -6166,7 +6166,6 @@ caubeen
 chaetognath
 caesura
 coky
-compoundable
 cauboge
 caucasians
 caucasic
@@ -18536,6 +18535,7 @@ cuproplumbite
 cohens
 coherence
 cataractal
+compoundable
 coherent
 circuminsular
 coggie
