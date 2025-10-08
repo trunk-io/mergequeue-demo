@@ -11947,6 +11947,7 @@ annuary
 ambassadors
 abbasid
 australopithecus
+ambulate
 anapterygota
 anaptychus
 atpoints
@@ -19461,7 +19462,6 @@ angel
 angiolipoma
 archpall
 aecium
-ambulate
 adjustable
 amygdalolith
 automonstration
