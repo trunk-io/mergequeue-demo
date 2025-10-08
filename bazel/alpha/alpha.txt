@@ -14642,7 +14642,6 @@ assaultable
 anticalcimine
 anticalculous
 apokatastasis
-apiculturist
 annexure
 avos
 aliyoth
@@ -22754,6 +22753,7 @@ atmo
 atmocausis
 atmoclastic
 acturience
+apiculturist
 asgd
 actinophryan
 albizias
