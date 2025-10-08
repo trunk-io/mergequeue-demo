@@ -1008,7 +1008,6 @@ bailers
 brees
 bunglings
 birdshot
-bailiaries
 bargainwise
 bollards
 biotites
@@ -9931,6 +9930,7 @@ bitstone
 blotched
 blackthorn
 bitterbloom
+bailiaries
 bitterbur
 ballooning
 bucconasal
