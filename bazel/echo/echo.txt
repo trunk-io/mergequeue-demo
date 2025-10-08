@@ -24,6 +24,7 @@ escapement
 entotic
 ethmofrontal
 exungulate
+encumbrance
 elderling
 eagrass
 elopes
@@ -4861,7 +4862,6 @@ equatorwards
 electrodialyzer
 englishly
 epicele
-encumbrance
 eelblenny
 endemiology
 extrabureau
