@@ -14215,7 +14215,6 @@ circumambiency
 checkwriter
 circumambient
 cuttable
-compose
 cuisinier
 culinary
 circumambulator
@@ -21852,6 +21851,7 @@ cremaillere
 cacodorous
 cheatable
 caracul
+compose
 cobless
 cutization
 culmy
