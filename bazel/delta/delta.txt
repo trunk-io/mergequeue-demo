@@ -1381,6 +1381,7 @@ digitals
 delis
 disconnecting
 deviating
+deterministic
 desipient
 diligentia
 dueful
@@ -7277,7 +7278,6 @@ deutonephron
 determiner
 dunnest
 dielec
-deterministic
 dollbeer
 dreariment
 demonetizing
