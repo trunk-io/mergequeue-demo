@@ -3997,7 +3997,6 @@ bearcats
 beamman
 brighteners
 bedaubed
-beholdable
 bronteum
 beamroom
 blitzkrieged
@@ -12515,6 +12514,7 @@ bogum
 brisbane
 bonfire
 bemail
+beholdable
 biphenyl
 buller
 barrettes
