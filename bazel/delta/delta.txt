@@ -5560,6 +5560,7 @@ depeopled
 drawcut
 duffel
 drooly
+descendability
 determiners
 detering
 diamine
@@ -15332,7 +15333,6 @@ dugongidae
 destroyed
 druggets
 debunk
-descendability
 domba
 decocts
 disbogue
