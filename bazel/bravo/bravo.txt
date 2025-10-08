@@ -17140,7 +17140,6 @@ burghmote
 basilinna
 breadseller
 bacteric
-bulletproofing
 blowhard
 bulletwood
 bifold
@@ -18257,6 +18256,7 @@ bepat
 bete
 backtrace
 bivouacs
+bulletproofing
 buttermaker
 bootblacks
 buttermilk
