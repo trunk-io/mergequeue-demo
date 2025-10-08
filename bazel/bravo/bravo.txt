@@ -6271,7 +6271,6 @@ buttonholder
 blastogenesis
 barracking
 bubas
-brush
 braceleted
 bimodulus
 bigeminated
@@ -11534,6 +11533,7 @@ beliked
 blossomless
 bluetongue
 bisontine
+brush
 bedmates
 bluetop
 berths
