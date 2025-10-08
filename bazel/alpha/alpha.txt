@@ -7073,7 +7073,6 @@ aethrioscope
 atomical
 airworthiness
 aridnesses
-automatic
 antiroll
 alacrious
 alacrity
@@ -24554,6 +24553,7 @@ acroconidium
 asthmatic
 aquila
 anoncillo
+automatic
 aoristic
 adramelech
 auxesis
