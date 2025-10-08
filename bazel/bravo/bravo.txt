@@ -3441,6 +3441,7 @@ bogging
 bielectrolysis
 bitterhearted
 bateau
+bolus
 bateleur
 barbered
 bowerwoman
@@ -12334,7 +12335,6 @@ brownback
 bunko
 bombinae
 boltwork
-bolus
 burked
 bomb
 bedrel
