@@ -2846,7 +2846,6 @@ cacaos
 cantabile
 clothesmonger
 cantalever
-cantaliver
 cackled
 cantaloup
 careerer
@@ -9973,6 +9972,7 @@ cherenkov
 cump
 cherish
 crawfishes
+cantaliver
 chymic
 chiastic
 creamcup
