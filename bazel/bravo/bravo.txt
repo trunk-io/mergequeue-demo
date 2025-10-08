@@ -11649,7 +11649,6 @@ bengals
 befog
 behindsight
 bounced
-bighorns
 bibliothecarial
 badgeman
 boa
@@ -11664,6 +11663,7 @@ board
 boarded
 besmudged
 bodyplate
+bighorns
 bestseller
 boardings
 bespit
