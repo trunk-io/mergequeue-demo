@@ -6301,7 +6301,6 @@ afro
 anthoceros
 aestuate
 agromyzid
-approbate
 agromyzidae
 alamos
 agronome
@@ -14844,6 +14843,7 @@ adiathermic
 aktistetae
 aromatizer
 affectate
+approbate
 amapondo
 antisepticised
 amoeboid
