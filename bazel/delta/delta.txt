@@ -10232,7 +10232,6 @@ diploids
 daddle
 dorsoventrally
 disple
-deeply
 deutoxide
 dissembler
 drillability
@@ -13030,6 +13029,7 @@ decanol
 deaconry
 darnels
 drew
+deeply
 drakestone
 diastematic
 dispatch
