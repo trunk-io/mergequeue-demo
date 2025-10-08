@@ -3785,7 +3785,6 @@ carbomethoxyl
 channelization
 carbona
 carbonaceous
-cleavability
 ceratite
 carbonarist
 carbonating
@@ -18003,6 +18002,7 @@ cystirrhea
 coelococcus
 coelom
 coeloma
+cleavability
 copalchi
 conservatrix
 calydon
