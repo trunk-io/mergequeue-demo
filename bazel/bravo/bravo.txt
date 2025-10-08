@@ -4718,7 +4718,6 @@ bypasses
 bedrabbling
 bauds
 bogway
-bedrails
 behaviorist
 binnacle
 barnlike
@@ -10709,6 +10708,7 @@ broken
 backflow
 bishopscap
 barbells
+bedrails
 buist
 bede
 breastworks
