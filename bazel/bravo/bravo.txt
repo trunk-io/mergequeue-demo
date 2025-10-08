@@ -8421,7 +8421,6 @@ bloodworm
 buccinator
 biogenous
 blackwood
-burp
 bedarkened
 bookmen
 bilalo
@@ -10688,6 +10687,7 @@ bleachable
 bouderie
 beworrying
 becloud
+burp
 bleachfield
 braye
 boardy
