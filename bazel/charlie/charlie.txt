@@ -4791,7 +4791,6 @@ cetaceous
 causse
 carry
 carriageable
-carriageful
 cabas
 carriages
 crosstie
@@ -16538,6 +16537,7 @@ cuneonavicular
 coinheritance
 crabit
 casuarina
+carriageful
 correlative
 clogmaking
 canners
