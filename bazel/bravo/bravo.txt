@@ -11660,7 +11660,6 @@ boanergism
 board
 boarded
 besmudged
-boardinghouse
 bodyplate
 bestseller
 boardings
@@ -12315,6 +12314,7 @@ blueleg
 biasses
 boltcutter
 bongar
+boardinghouse
 boltheading
 boltin
 bridgewater
