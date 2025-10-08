@@ -306,6 +306,7 @@ cacicus
 camote
 coreopsis
 cacimbo
+cons
 cacimbos
 caciques
 combusted
@@ -3432,7 +3433,6 @@ capstan
 capstans
 capstone
 capsula
-cons
 capsular
 capsulation
 congresswomen
