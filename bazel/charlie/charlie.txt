@@ -899,7 +899,6 @@ caky
 clientelage
 cajeputol
 consecration
-cols
 compunctionless
 caking
 chazzanut
@@ -8633,6 +8632,7 @@ clericality
 channeling
 clubbish
 channelize
+cols
 crayons
 channelized
 cannaceae
