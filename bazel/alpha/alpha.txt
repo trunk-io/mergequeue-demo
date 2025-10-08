@@ -14217,7 +14217,6 @@ ambidextrousness
 antesternum
 auriscope
 antetemple
-antetypes
 antevert
 anteverting
 accountable
@@ -24588,6 +24587,7 @@ amoebiform
 auxinic
 attensity
 acadia
+antetypes
 angekkok
 aluniferous
 acceded
