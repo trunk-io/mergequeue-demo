@@ -4164,6 +4164,7 @@ beautifier
 bishopbird
 banff
 blowball
+bequeathable
 bellhanging
 berbamine
 blattariae
@@ -17469,7 +17470,6 @@ bunoselenodont
 boomage
 blacklisted
 bareboned
-bequeathable
 bigeminy
 brigued
 bridles
