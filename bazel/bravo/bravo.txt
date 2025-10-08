@@ -5852,7 +5852,6 @@ banquo
 bethorns
 buckbrush
 baronship
-broch
 bibliotheque
 benjamin
 briners
@@ -10481,6 +10480,7 @@ biogeographer
 barytostrontianite
 blaoner
 burinist
+broch
 bribery
 bestriding
 blares

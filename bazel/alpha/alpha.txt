@@ -1410,6 +1410,7 @@ atheling
 affixable
 aeronautics
 anadicrotic
+atriopore
 acost
 apses
 azotite
@@ -19727,7 +19728,6 @@ annuity
 astromantic
 anthropodus
 ancle
-atriopore
 anticivilian
 appurtenance
 alkalinise
