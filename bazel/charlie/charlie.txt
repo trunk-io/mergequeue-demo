@@ -1835,7 +1835,6 @@ civvies
 cuttoe
 coscinomancy
 cambium
-croupier
 cessionee
 crimble
 corbinas
@@ -10507,6 +10506,7 @@ calemes
 charlocks
 chiliastic
 chiliasts
+croupier
 chilicote
 chilidogs
 cundite
