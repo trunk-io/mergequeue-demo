@@ -15425,7 +15425,6 @@ ciconiform
 clappe
 clapper
 clapperclaw
-cloragen
 clappered
 chitchatting
 chromatophilia
@@ -19610,6 +19609,7 @@ capabilities
 columbaria
 columbarium
 clours
+cloragen
 crocodility
 columbate
 columbeion
