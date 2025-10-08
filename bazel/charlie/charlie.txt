@@ -4266,7 +4266,6 @@ caretta
 careworn
 concorporation
 carex
-carfare
 carfares
 cassie
 coater
@@ -27876,6 +27875,7 @@ compinge
 confuters
 craal
 cytoreticulum
+carfare
 craaling
 courtezanship
 crabbedness
