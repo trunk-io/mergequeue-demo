@@ -2488,7 +2488,6 @@ botaniser
 barghests
 boccia
 blueblack
-bldg
 blushingly
 bassetite
 bottonhook
@@ -11032,6 +11031,7 @@ blissom
 blockman
 balden
 bestows
+bldg
 bistriate
 baclin
 battledored
