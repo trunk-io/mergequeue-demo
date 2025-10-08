@@ -6967,7 +6967,6 @@ bodykins
 besiege
 barrico
 besiegers
-bedeman
 bushbashing
 brownistic
 bestrid
@@ -8716,6 +8715,7 @@ benthal
 booklike
 borborygmies
 buffe
+bedeman
 bulldoggishness
 bearcat
 bozine
