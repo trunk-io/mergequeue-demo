@@ -5362,6 +5362,7 @@ embost
 ezra
 exacta
 embroidered
+extractible
 endymion
 evicted
 ef
@@ -11681,7 +11682,6 @@ epirrhematic
 expatiative
 etiolation
 eponymism
-extractible
 eulogies
 equiproducing
 elecive
