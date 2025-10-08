@@ -6310,7 +6310,6 @@ betime
 blimp
 blastie
 binderies
-bentonite
 bents
 benumbed
 benumbingly
@@ -9959,6 +9958,7 @@ buhl
 biotite
 breakthrough
 burroweed
+bentonite
 bitterroot
 basiation
 backfall
