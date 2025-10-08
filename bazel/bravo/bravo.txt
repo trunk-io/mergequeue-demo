@@ -5905,7 +5905,6 @@ bisnagas
 belostomidae
 belotte
 bowden
-boxhauled
 backswordmen
 batswing
 bulblike
@@ -10625,6 +10624,7 @@ baptisteries
 blatiform
 biotelemetric
 biffies
+boxhauled
 blats
 butyrone
 beflatter
