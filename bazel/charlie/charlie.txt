@@ -15429,7 +15429,6 @@ consultatively
 cyprinodontidae
 claosaurus
 clapboard
-caenolestes
 clapboarding
 cleidomastoid
 choleuria
@@ -22577,6 +22576,7 @@ cardiorenal
 cobra
 cronish
 collingly
+caenolestes
 conjugales
 cie
 cv
