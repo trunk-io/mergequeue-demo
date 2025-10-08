@@ -796,7 +796,6 @@ deflator
 distention
 dangle
 disorient
-danglers
 deniable
 dearths
 disannex
@@ -17405,6 +17404,7 @@ dropwise
 drainers
 debile
 dropwort
+danglers
 damlike
 deracinated
 duvetyns
