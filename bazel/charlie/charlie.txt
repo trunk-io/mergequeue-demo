@@ -2009,7 +2009,6 @@ competitioner
 companionize
 chandlery
 collapsar
-camoufleur
 chests
 cosherer
 camp
@@ -14365,6 +14364,7 @@ calotin
 circumsail
 calochortus
 cremationism
+camoufleur
 cask
 connectivity
 circumducing
