@@ -5392,7 +5392,6 @@ esthesiometer
 enfester
 exportation
 ed
-enrollees
 electronvolt
 enrolled
 endowment
@@ -5757,6 +5756,7 @@ embrittle
 equaled
 ediles
 excl
+enrollees
 epigraphy
 electromagnetic
 eparchean
