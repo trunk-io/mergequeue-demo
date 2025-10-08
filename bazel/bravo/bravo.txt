@@ -4232,7 +4232,6 @@ bowtie
 barkeepers
 banstickle
 bushwood
-buttonbur
 bushbodies
 blastomycin
 balkan
@@ -14272,6 +14271,7 @@ biomechanics
 bradyphrasia
 beermaker
 bruised
+buttonbur
 bonally
 bartered
 ballocks
