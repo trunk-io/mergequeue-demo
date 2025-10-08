@@ -5464,6 +5464,7 @@ ablate
 almagests
 anapanapa
 aftershocks
+amper
 arietta
 aphakia
 astylospongia
@@ -15879,7 +15880,6 @@ acyloxymethane
 ammi
 athel
 accessorius
-amper
 acetonuria
 arapunga
 archines
