@@ -4957,7 +4957,6 @@ enstamp
 entropium
 enchanted
 enravish
-extradialectal
 euphemising
 endellionite
 eucephalous
@@ -13551,6 +13550,7 @@ eisegesis
 endoperidium
 edriophthalmian
 ethnol
+extradialectal
 exarteritis
 epexegesis
 estrous
