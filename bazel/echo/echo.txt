@@ -1430,7 +1430,6 @@ enantiomorphism
 erringly
 educatee
 embroilments
-entailment
 efts
 ecphractic
 egad
@@ -5658,6 +5657,7 @@ eppie
 extraventricular
 easinesses
 episcopalism
+entailment
 egotisticalness
 equisetic
 emerson
