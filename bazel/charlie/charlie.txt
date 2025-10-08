@@ -15315,7 +15315,6 @@ chaining
 clamcracker
 crabfish
 clame
-coastal
 clothbound
 cheeseboard
 clamflat
@@ -28969,6 +28968,7 @@ cribose
 cribrate
 cribriform
 cribriformity
+coastal
 convertaplane
 cimbal
 calvus
