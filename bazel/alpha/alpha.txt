@@ -770,7 +770,6 @@ abroach
 aerostatical
 abrocome
 abrogable
-abrogate
 automan
 adherence
 allergies
@@ -18575,6 +18574,7 @@ acalepha
 averaged
 anhungry
 alexipharmical
+abrogate
 agnize
 antidotally
 ainoi
