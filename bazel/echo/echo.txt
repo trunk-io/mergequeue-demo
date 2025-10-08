@@ -4998,6 +4998,7 @@ essentialities
 equalizers
 evaluation
 encamp
+exponentiation
 etouffe
 ellick
 epithelioblastoma
@@ -13131,7 +13132,6 @@ ensilate
 endostracal
 echinopsine
 expiration
-exponentiation
 electromotor
 exfoliation
 epanaleptic
