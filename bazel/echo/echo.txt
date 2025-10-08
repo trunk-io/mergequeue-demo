@@ -5130,6 +5130,7 @@ ectosphenoid
 expression
 euplotid
 endodontology
+eartag
 exemptible
 enneagynous
 enlister
@@ -11981,7 +11982,6 @@ exploit
 evacue
 elaidate
 editress
-eartag
 eched
 electromagnet
 effervescing
