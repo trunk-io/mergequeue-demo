@@ -1720,7 +1720,6 @@ calvados
 componental
 calvaire
 cordage
-calvary
 caffeate
 countergarrison
 curagh
@@ -26491,6 +26490,7 @@ cottoner
 carpetlayer
 calcination
 crockeries
+calvary
 cottonization
 cavaliered
 cottonize
