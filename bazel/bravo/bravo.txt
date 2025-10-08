@@ -3990,7 +3990,6 @@ bedolt
 branches
 bannerets
 backfriend
-battements
 becolme
 blindball
 benetnasch
@@ -17029,6 +17028,7 @@ buscarle
 bulbiest
 buettneria
 boltmaking
+battements
 boulle
 biacetyl
 biochore
