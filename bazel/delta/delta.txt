@@ -3861,7 +3861,6 @@ documentation
 damone
 dinobryon
 deprogrammed
-deixis
 daphnite
 dissolves
 desilicated
@@ -15511,6 +15510,7 @@ designators
 dement
 diacetyl
 dewanny
+deixis
 disuniformity
 dodos
 donk
