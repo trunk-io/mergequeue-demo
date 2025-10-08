@@ -9718,7 +9718,6 @@ cimex
 chromotype
 cheiranthus
 cheirogaleus
-cheirography
 cheirolin
 chevying
 cymbal
@@ -15564,6 +15563,7 @@ clashes
 cochlospermaceous
 censures
 clashing
+cheirography
 clashingly
 coost
 cormlike
