@@ -2550,7 +2550,6 @@ dromograph
 decoat
 demulcent
 demiquaver
-dashes
 dablet
 donating
 dispersions
@@ -17672,6 +17671,7 @@ derate
 demidevil
 deignous
 dynamometer
+dashes
 dwarves
 deuteroelastose
 dynamism
