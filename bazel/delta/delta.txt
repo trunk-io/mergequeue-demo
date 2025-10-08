@@ -12545,6 +12545,7 @@ demagnetizable
 depend
 diffractions
 deliberators
+doghead
 defies
 divertible
 devilfishes
@@ -15076,7 +15077,6 @@ dottrels
 dialin
 dorlot
 dungeons
-doghead
 deletion
 doglegs
 dicycle
