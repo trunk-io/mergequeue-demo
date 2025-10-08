@@ -2991,6 +2991,7 @@ burgesses
 bartizans
 burrobrush
 bushfire
+boracium
 boomtown
 boller
 beigel
@@ -3859,7 +3860,6 @@ blurping
 boistously
 bronchitis
 bombproof
-boracium
 buttonholes
 baste
 beslash
