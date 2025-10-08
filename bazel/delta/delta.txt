@@ -1185,6 +1185,7 @@ datary
 dataries
 disemprison
 datasetname
+desilt
 dithers
 datcha
 dibber
@@ -7886,7 +7887,6 @@ dewlike
 deworming
 deworms
 diffusional
-desilt
 disponer
 dewrot
 dacelo
