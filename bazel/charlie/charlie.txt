@@ -9564,7 +9564,6 @@ colonial
 closeted
 checkwork
 cosmologist
-checkwriter
 concurrence
 cacidrosis
 cheddar
@@ -14202,6 +14201,7 @@ circulus
 cryptorrhesis
 cavaedium
 circumambiency
+checkwriter
 circumambient
 circumambulate
 cuttable
