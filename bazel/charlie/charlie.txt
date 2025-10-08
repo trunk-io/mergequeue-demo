@@ -3798,7 +3798,6 @@ carbonade
 ceratite
 carbonarist
 carbonating
-carbonation
 courbaril
 copywriter
 combings
@@ -13683,6 +13682,7 @@ ciliophora
 carlet
 cyanometry
 cynareous
+carbonation
 cynaroid
 chromatical
 cinch
