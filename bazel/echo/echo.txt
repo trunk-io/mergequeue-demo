@@ -6852,7 +6852,6 @@ engraulis
 entomostraca
 electrum
 endamageable
-evertors
 eudemonist
 equuleus
 ectocardia
@@ -13058,6 +13057,7 @@ emboweling
 encore
 encarpuspi
 entosarc
+evertors
 exampling
 extensionality
 ergology
