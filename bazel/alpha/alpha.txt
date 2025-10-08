@@ -550,7 +550,6 @@ abn
 abnormities
 akroterial
 arteriographic
-adunc
 anthropomancy
 accoutred
 agenes
@@ -6215,6 +6214,7 @@ amphithyra
 analgesia
 albanians
 amphicribral
+adunc
 axils
 anergia
 alit
