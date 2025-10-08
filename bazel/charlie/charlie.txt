@@ -2569,6 +2569,7 @@ cornstarch
 composes
 caravanserial
 crowbill
+complementally
 cottonee
 cobbers
 chimp
@@ -22434,7 +22435,6 @@ clustery
 claviform
 congressionalist
 corolla
-complementally
 congressionist
 coradicate
 cribbiting
