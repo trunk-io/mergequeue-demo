@@ -2602,7 +2602,6 @@ digne
 dogwatches
 decompoundable
 diffractional
-decompress
 disorder
 decompresses
 dragshoe
@@ -13198,6 +13197,7 @@ disposedness
 disposement
 dislocator
 derecho
+decompress
 dispositional
 dispositioned
 disharmonical
