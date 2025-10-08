@@ -3073,7 +3073,6 @@ baseburner
 basecourt
 biradiate
 barycenter
-barish
 barrelhouses
 broody
 basella
@@ -11136,6 +11135,7 @@ boiler
 bedwarfed
 baldpate
 benegro
+barish
 byres
 bavaroy
 brazilette
