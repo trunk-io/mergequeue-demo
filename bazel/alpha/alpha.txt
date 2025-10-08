@@ -1138,7 +1138,6 @@ aphacic
 ascidians
 algaeological
 acaleph
-acalephoid
 anaclastic
 acalyculate
 asterixis
@@ -5523,6 +5522,7 @@ antilopinae
 agapae
 albinotic
 arms
+acalephoid
 axbreaker
 autotoxis
 alloiometry
