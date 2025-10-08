@@ -5468,7 +5468,6 @@ deadest
 deoxygenated
 dollars
 depaints
-dendritically
 deoxyribonucleotide
 dogtrot
 dolichos
@@ -17737,6 +17736,7 @@ ducaton
 dependency
 dewiness
 duchan
+dendritically
 diagraph
 descriptively
 dorsigrade
