@@ -6108,7 +6108,6 @@ bendees
 blanch
 bonnes
 buyout
-bailment
 bisson
 beni
 behusband
@@ -11991,6 +11990,7 @@ bold
 bimeby
 basilysis
 buttled
+bailment
 beswarmed
 botonn
 bogart
