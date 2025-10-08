@@ -1962,7 +1962,6 @@ discostate
 dislodged
 debuted
 debuting
-demulce
 desmotropy
 diced
 drover
@@ -15848,6 +15847,7 @@ drawplate
 disincrease
 despiting
 dorsosacral
+demulce
 dorsothoracic
 diablotin
 discoursed
