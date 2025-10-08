@@ -10969,7 +10969,6 @@ blackamoor
 beshiver
 bumps
 beetler
-biloquist
 biclinia
 bossship
 barth
@@ -11364,6 +11363,7 @@ barse
 blackguards
 bluest
 bloviate
+biloquist
 blowsier
 blowtorches
 bossiness
