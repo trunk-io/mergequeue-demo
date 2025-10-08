@@ -11474,7 +11474,6 @@ blaseness
 barmkin
 bekko
 brachia
-bandstand
 bestrut
 banewort
 boxthorn
@@ -12430,6 +12429,7 @@ boreas
 buckhounds
 bab
 biquadrate
+bandstand
 bandlimit
 brigades
 bourre
