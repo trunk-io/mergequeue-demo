@@ -6862,7 +6862,6 @@ allophyle
 assisters
 airts
 assorted
-asteraceae
 anemobiagraph
 aitutakian
 algerine
@@ -8756,6 +8755,7 @@ arsenophenylglycin
 aftermath
 arienzo
 ameland
+asteraceae
 ancestral
 astrology
 aristocrat
