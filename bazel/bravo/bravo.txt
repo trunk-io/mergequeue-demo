@@ -1306,7 +1306,6 @@ basketing
 bigheartedly
 blea
 bandwagon
-bobbles
 bethlehem
 bleeping
 bookdealer
@@ -9000,6 +8999,7 @@ biomes
 bummerish
 brattles
 bulrushlike
+bobbles
 biolinguistics
 bulges
 biolyses
