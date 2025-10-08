@@ -3781,7 +3781,6 @@ avertive
 affaire
 arboriculture
 allheals
-arthrosyrinx
 abuttal
 affect
 alphorns
@@ -6044,6 +6043,7 @@ astraea
 ann
 analogal
 aglyphodont
+arthrosyrinx
 aroph
 aquarial
 antiinstitutionalist
