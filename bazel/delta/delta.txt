@@ -8503,7 +8503,6 @@ descriptives
 didacts
 diabolatry
 dempster
-diaphanometric
 devours
 dicyemata
 daimonion
@@ -14675,6 +14674,7 @@ denizen
 djin
 daywrit
 disrespondency
+diaphanometric
 delate
 dowers
 dieted
