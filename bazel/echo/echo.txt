@@ -5818,7 +5818,6 @@ eggroll
 etalage
 endogamous
 exsiccate
-extradomestic
 exocoetus
 endocarditic
 exhortingly
@@ -9416,6 +9415,7 @@ escrime
 examined
 ecstasy
 erosivity
+extradomestic
 escript
 everness
 escritoire
