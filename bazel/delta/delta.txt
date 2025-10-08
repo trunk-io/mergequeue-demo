@@ -381,7 +381,6 @@ desalters
 detruss
 discoloured
 decimate
-daymark
 doupion
 daimiate
 danebrog
@@ -16760,6 +16759,7 @@ dungeoner
 dragomanish
 damia
 declamation
+daymark
 dayboy
 dravidic
 drightin
