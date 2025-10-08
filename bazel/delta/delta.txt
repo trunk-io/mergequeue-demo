@@ -4138,7 +4138,6 @@ delimiter
 departments
 diplomyelia
 deline
-dissoluteness
 drivelled
 dorsicolumn
 devadasi
@@ -5486,6 +5485,7 @@ digging
 doze
 darlingly
 demimondaine
+dissoluteness
 diplacusis
 dismark
 dedication
