@@ -2613,6 +2613,7 @@ basketball
 barling
 broadsword
 backblocks
+burdenless
 bluestone
 barretter
 bardelle
@@ -17544,7 +17545,6 @@ bedsock
 biograph
 bisexualism
 bitrochanteric
-burdenless
 beddable
 burdenous
 bleep
