@@ -3304,6 +3304,7 @@ decelerators
 domesticable
 defoliant
 delegatus
+disendows
 decasyllable
 distemperer
 distressfulness
@@ -11990,7 +11991,6 @@ dubitancy
 dagoes
 dalasi
 desmodus
-disendows
 devanagari
 doated
 demonkind
