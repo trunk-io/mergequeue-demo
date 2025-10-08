@@ -3639,7 +3639,6 @@ embosking
 embryologist
 enambush
 embryonic
-elec
 extraterritorials
 engrasp
 effluvium
@@ -8272,6 +8271,7 @@ elastases
 enchannel
 emulating
 expedientist
+elec
 essentialize
 electromagnetically
 epitheme
