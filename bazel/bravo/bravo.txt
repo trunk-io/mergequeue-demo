@@ -6012,7 +6012,6 @@ baho
 ballasting
 blanquillos
 balarama
-bilabial
 bemocking
 bestarve
 bimillenium
@@ -12508,6 +12507,7 @@ beak
 befoulier
 botryopteris
 bawhorse
+bilabial
 bondmen
 bullyrock
 bookroom
