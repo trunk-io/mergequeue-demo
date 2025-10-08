@@ -3617,6 +3617,7 @@ degraded
 degradement
 dozing
 drugged
+disguiser
 depsid
 disrupt
 dapedium
@@ -9228,7 +9229,6 @@ diehard
 disdainly
 diehards
 dieyerie
-disguiser
 darksomeness
 desirous
 dentinoma
