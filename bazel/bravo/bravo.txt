@@ -605,7 +605,6 @@ brin
 bedunch
 bemingle
 bacteriolyze
-bacteriology
 bayberry
 broadening
 brachycephali
@@ -10334,6 +10333,7 @@ brutalising
 bathythermogram
 bunkerman
 beets
+bacteriology
 benevolist
 bocaccio
 blacksnake
