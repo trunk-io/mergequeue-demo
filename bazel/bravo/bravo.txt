@@ -2789,6 +2789,7 @@ barothermohygrograph
 barotrauma
 bulgurs
 bravest
+bapistery
 blk
 behooves
 bradydactylia
@@ -15402,7 +15403,6 @@ bombastic
 birthstone
 brigaded
 boxbush
-bapistery
 blondine
 bojo
 bider
