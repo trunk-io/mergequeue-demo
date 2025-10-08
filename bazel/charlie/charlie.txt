@@ -6914,7 +6914,6 @@ campshot
 coaugment
 calorimetric
 cementatory
-chlorobromomethane
 curvirostres
 charros
 cementification
@@ -28875,6 +28874,7 @@ creticism
 coturnix
 cretics
 cretify
+chlorobromomethane
 cavalla
 communitary
 cadastre
