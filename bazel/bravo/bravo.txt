@@ -11879,7 +11879,6 @@ barriers
 buttonless
 bout
 bickerer
-barfly
 bullfoot
 baleful
 bromizer
@@ -16490,6 +16489,7 @@ beeped
 blacklegged
 braggest
 bruskness
+barfly
 bozal
 breathableness
 bats
