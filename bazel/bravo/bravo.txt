@@ -2703,7 +2703,6 @@ barolo
 bubblier
 beeflower
 bm
-bicolored
 backtalk
 bonneting
 bukeyef
@@ -6342,6 +6341,7 @@ bortz
 benzamine
 billbroking
 barrer
+bicolored
 boxboard
 bestowed
 bibs
