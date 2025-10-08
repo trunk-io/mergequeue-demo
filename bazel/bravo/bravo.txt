@@ -6773,7 +6773,6 @@ berry
 banshee
 bioassays
 bedscrew
-boteler
 bumpier
 busulfan
 busying
@@ -16406,6 +16405,7 @@ bedehouses
 bufagin
 bluejay
 brunelliaceae
+boteler
 bicuculline
 biscayen
 boches
