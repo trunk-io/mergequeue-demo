@@ -8610,7 +8610,6 @@ exterior
 excretions
 emote
 ethrogs
-ektexine
 elfishness
 equipages
 embioptera
@@ -8772,6 +8771,7 @@ enterocoel
 etruscans
 esteems
 elegious
+ektexine
 erat
 eyewort
 elabor
