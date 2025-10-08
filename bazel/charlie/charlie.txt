@@ -3404,7 +3404,6 @@ capsizing
 caps
 capsomere
 capsomers
-capstan
 capstans
 capstone
 capsula
@@ -27210,6 +27209,7 @@ countertreason
 clattertrap
 catholicus
 confessors
+capstan
 copolymerizations
 countertruth
 chelas
