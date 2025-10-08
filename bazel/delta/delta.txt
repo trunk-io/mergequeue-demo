@@ -3004,7 +3004,6 @@ drainages
 doctrines
 descendentalist
 diable
-defacto
 defaitiste
 defalcated
 denazification
@@ -10634,6 +10633,7 @@ detritus
 delisting
 diplonts
 diplophase
+defacto
 daftness
 downfalling
 dolorous
