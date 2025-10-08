@@ -15680,6 +15680,7 @@ clausula
 chiasmodontid
 companionability
 clausule
+compos
 caporals
 croighle
 claut
@@ -20875,7 +20876,6 @@ concurred
 capacitors
 conspissate
 contentedness
-compos
 crotalus
 coerce
 caudodorsal
