@@ -5973,7 +5973,6 @@ ancillary
 axunge
 aceturic
 anteversion
-astream
 arquebusier
 addisonian
 astronomical
@@ -11836,6 +11835,7 @@ anticommercialist
 analphabete
 abecedarians
 alcotate
+astream
 angelus
 awink
 ariolate
