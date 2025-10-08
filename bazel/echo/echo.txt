@@ -4468,6 +4468,7 @@ euphony
 epagoge
 endshake
 erica
+elfish
 enrol
 escuela
 expanders
@@ -14117,7 +14118,6 @@ extrorse
 endarch
 espiritual
 evokes
-elfish
 eucalypt
 existentialize
 emphatic
