@@ -9118,7 +9118,6 @@ disweapon
 derisory
 dropsies
 debit
-doffs
 dewcup
 deconcentrator
 deaconship
@@ -13198,6 +13197,7 @@ derecho
 dispositional
 dispositioned
 disharmonical
+doffs
 disputableness
 distractive
 dispositions
