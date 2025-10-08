@@ -9353,7 +9353,6 @@ adigranth
 armgaunt
 armamentarium
 alpieu
-amazonstone
 aced
 alpinia
 alquier
@@ -20872,6 +20871,7 @@ arnold
 avowe
 araneids
 alveolar
+amazonstone
 ailuropoda
 approaching
 asbestoidal
