@@ -7766,7 +7766,6 @@ decile
 daylighted
 diplospondylic
 desmarestia
-dioecism
 darktown
 devolving
 devon
@@ -8607,6 +8606,7 @@ debugging
 distilment
 dialyses
 diary
+dioecism
 disputacity
 diaglyph
 diachrony
