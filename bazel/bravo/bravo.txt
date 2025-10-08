@@ -2662,7 +2662,6 @@ basnet
 bestuur
 bourr
 barnyard
-beastings
 balandrana
 bottomries
 batch
@@ -11135,6 +11134,7 @@ billeter
 broil
 blere
 blockmaker
+beastings
 beelzebub
 bimmeler
 beladle
