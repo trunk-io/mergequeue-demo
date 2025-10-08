@@ -752,7 +752,6 @@ badious
 betterer
 badland
 bat
-brushcut
 birn
 badmouths
 breakfasters
@@ -16664,6 +16663,7 @@ barrowist
 bachelors
 buccogingival
 boother
+brushcut
 brember
 balza
 bucconinae
