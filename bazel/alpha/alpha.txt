@@ -5469,6 +5469,7 @@ astylospongia
 aftersound
 arthropomata
 astounded
+adenoids
 amphitriaene
 autosuggestive
 astrocytomata
@@ -7923,7 +7924,6 @@ aluco
 augural
 appliers
 alcoholmeter
-adenoids
 amethyst
 afetal
 anophthalmia
