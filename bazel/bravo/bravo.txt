@@ -10690,6 +10690,7 @@ bowllike
 branchiosaurus
 bluebutton
 beakier
+boteroll
 ballfield
 beltmaker
 boweling
@@ -18167,7 +18168,6 @@ bouillabaisse
 butyrometric
 brouillon
 boonless
-boteroll
 botchwork
 bingle
 blastopore
