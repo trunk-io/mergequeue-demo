@@ -135,7 +135,6 @@ brimmer
 brabantine
 burelle
 boast
-bourne
 banister
 boojum
 beeheaded
@@ -4217,6 +4216,7 @@ bewitchery
 bisect
 bulkheads
 benincasa
+bourne
 beblooding
 brickset
 bebloods

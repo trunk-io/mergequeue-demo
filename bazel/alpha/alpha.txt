@@ -4446,6 +4446,7 @@ albertina
 antimythic
 acipenseres
 accumulable
+authenticatable
 adversities
 advertence
 apagoge
@@ -9832,7 +9833,6 @@ antiae
 anamnionata
 asphodelus
 axion
-authenticatable
 armeriaceae
 aregeneratory
 amassette
