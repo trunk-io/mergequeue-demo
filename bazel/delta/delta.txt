@@ -1740,7 +1740,6 @@ diphenan
 deathtrap
 devocalization
 drof
-deimos
 deathward
 ductility
 dakhini
@@ -11981,6 +11980,7 @@ duikerbuck
 doby
 defiances
 disenclose
+deimos
 daint
 deashed
 dehisces
