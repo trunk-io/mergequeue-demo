@@ -3011,7 +3011,6 @@ defaces
 doctrines
 diable
 defacto
-defaillance
 defaitiste
 defalcated
 datagrams
@@ -14065,6 +14064,7 @@ dolomites
 debauchery
 dingy
 displace
+defaillance
 deciduitis
 distritos
 debitor
