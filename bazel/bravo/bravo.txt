@@ -3673,7 +3673,6 @@ biham
 battlesome
 bodysuits
 bylining
-bimestrial
 battlestead
 battlewagon
 bendays
@@ -15855,6 +15854,7 @@ bulldust
 barrows
 basts
 besomer
+bimestrial
 baikerinite
 blackguardize
 beelol
