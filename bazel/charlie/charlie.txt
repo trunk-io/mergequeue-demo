@@ -20723,6 +20723,7 @@ complect
 clerihews
 collapsible
 carty
+colorize
 complementariness
 complementarity
 cyclicism
@@ -31858,7 +31859,6 @@ cutline
 continually
 currycombed
 cutlings
-colorize
 cutoff
 consortion
 cutout
