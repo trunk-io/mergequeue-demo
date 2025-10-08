@@ -2341,6 +2341,7 @@ belabors
 barcoo
 bemoisten
 besplash
+bladesmith
 bardcraft
 beleve
 buckhorn
@@ -16448,7 +16449,6 @@ benzdioxtriazine
 babblement
 bounderish
 butt
-bladesmith
 bioassayed
 bifara
 balletomanes
