@@ -12531,7 +12531,6 @@ bullyrock
 bookroom
 bawdrick
 bivaulted
-bondship
 bondslave
 bondsman
 bondsmen
@@ -17942,6 +17941,7 @@ bushwack
 breaching
 biologists
 bonewood
+bondship
 ballhawk
 boothose
 bathybic
