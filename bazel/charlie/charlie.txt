@@ -4668,7 +4668,6 @@ contested
 codpitchings
 collages
 caballeria
-carpeting
 carpetlayer
 carpetmaking
 clubability
@@ -25895,6 +25894,7 @@ cloudier
 comforter
 corseque
 contralti
+carpeting
 climax
 chloe
 cuneoscaphoid
