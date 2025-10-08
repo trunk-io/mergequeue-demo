@@ -6726,6 +6726,7 @@ bogtrotting
 badmouth
 biked
 brawler
+burgeon
 bucketfull
 bionic
 bluethroat
@@ -17601,7 +17602,6 @@ betacismus
 brushball
 bemol
 batwoman
-burgeon
 bastillion
 bromomethane
 barbel
