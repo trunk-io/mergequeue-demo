@@ -16980,7 +16980,6 @@ clupeid
 clupeids
 creatureliness
 classis
-caviar
 culturine
 cenotaphs
 cattiness
@@ -18065,6 +18064,7 @@ calmy
 cheesy
 coempted
 coempting
+caviar
 cytogeneticist
 chaffingly
 coemptor
