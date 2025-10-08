@@ -10161,6 +10161,7 @@ barytic
 bewhiskered
 blabbering
 bosun
+blurrier
 blabbermouth
 blabbermouths
 blabbers
@@ -11604,7 +11605,6 @@ busses
 budless
 beatifying
 beauteously
-blurrier
 blurriness
 ballader
 bloodlust
