@@ -1086,6 +1086,7 @@ cytherea
 calciner
 chomer
 clepes
+connexity
 clamworm
 columella
 calcinosis
@@ -7366,7 +7367,6 @@ cephalometric
 clysis
 cephalonasal
 chalcographist
-connexity
 cephalopathy
 coolheadedness
 cephalopharyngeal
