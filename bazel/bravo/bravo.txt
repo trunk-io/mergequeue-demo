@@ -720,7 +720,6 @@ badges
 brachyphyllum
 beknight
 benchership
-badging
 bilbi
 buddhism
 banksman
@@ -14002,6 +14001,7 @@ bungos
 byspell
 bargelli
 brussel
+badging
 boxcars
 bishopful
 barwing
