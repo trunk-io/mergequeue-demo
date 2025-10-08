@@ -6661,7 +6661,6 @@ epiphragm
 excyst
 equerries
 enterosepsis
-enterotoxemia
 elaenia
 enterotoxication
 enlight
@@ -7879,6 +7878,7 @@ endotheliomas
 ethopoeia
 exedrae
 enthrone
+enterotoxemia
 epigean
 entreater
 expounds
