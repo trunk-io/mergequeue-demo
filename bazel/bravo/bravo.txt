@@ -2999,7 +2999,6 @@ boomtown
 boller
 beigel
 belee
-beckons
 bravoite
 brimmers
 beachhead
@@ -4754,6 +4753,7 @@ bombardman
 bedrooms
 basuto
 bugling
+beckons
 bruckle
 bedrowse
 bandicoots
