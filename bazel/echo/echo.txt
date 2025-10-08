@@ -3200,7 +3200,6 @@ eludible
 ensorcel
 eluents
 elul
-epidemic
 enclitical
 encephalotomy
 enormous
@@ -10603,6 +10602,7 @@ enddamaging
 eugonic
 eggheaded
 endolymphic
+epidemic
 ends
 engarment
 eugubine
