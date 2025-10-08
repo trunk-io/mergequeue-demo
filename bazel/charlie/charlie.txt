@@ -3408,7 +3408,6 @@ capsomere
 capsomers
 capstans
 capstone
-capsula
 capsular
 capsulation
 congresswomen
@@ -18624,6 +18623,7 @@ coiler
 coeducational
 conclusum
 coin
+capsula
 cephalopod
 cooperativeness
 communicator
