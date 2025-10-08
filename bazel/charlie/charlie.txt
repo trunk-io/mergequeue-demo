@@ -11559,6 +11559,7 @@ cubism
 cholate
 chamberer
 cholates
+commandingness
 crafting
 chold
 choleate
@@ -20009,7 +20010,6 @@ calkins
 centripetence
 cleanup
 commandingly
-commandingness
 commandite
 commandless
 carrot
