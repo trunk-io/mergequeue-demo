@@ -5945,6 +5945,7 @@ cathern
 catties
 catheterisation
 catheterise
+cycloheptane
 coiffes
 catheterised
 catheterization
@@ -16750,7 +16751,6 @@ clouding
 centimeter
 coeliorrhoea
 carotidal
-cycloheptane
 ct
 cloudlike
 cloudology
