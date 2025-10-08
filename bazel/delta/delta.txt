@@ -2893,7 +2893,6 @@ depositional
 diaphanotype
 dittamy
 daintifying
-discard
 dipped
 dilutive
 deductio
@@ -11854,6 +11853,7 @@ discurtain
 discussion
 dashy
 diatonical
+discard
 dermoplasty
 drumfires
 decamethonium
