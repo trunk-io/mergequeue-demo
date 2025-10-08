@@ -12635,7 +12635,6 @@ breba
 bonne
 bubbly
 bonnet
-brachelytra
 babylonians
 bonnethead
 bedway
@@ -14590,6 +14589,7 @@ branchiopod
 barbarians
 belozenged
 branchiopoda
+brachelytra
 branner
 bonding
 belugite
