@@ -31,7 +31,6 @@ clypeate
 caslon
 communer
 coimplicant
-courier
 caball
 caballer
 corrosiving
@@ -28685,6 +28684,7 @@ contraindicate
 crena
 cough
 crenae
+courier
 clival
 couveuse
 cousinly
