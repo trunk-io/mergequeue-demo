@@ -4192,7 +4192,6 @@ amole
 amphisilidae
 adrenochrome
 anisomelus
-adrenocortical
 antesignanus
 antlike
 antiforeign
@@ -12025,6 +12024,7 @@ autodestruction
 abstractors
 alveus
 antjar
+adrenocortical
 apar
 anastasimon
 anise
