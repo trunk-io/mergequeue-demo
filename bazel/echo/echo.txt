@@ -5518,7 +5518,6 @@ effectful
 equiponderance
 evaporite
 encourage
-etherlike
 enfeoffing
 entheasm
 earthquake
@@ -5990,6 +5989,7 @@ exhaustlessly
 ectodermoidal
 encamped
 emptor
+etherlike
 endobiotic
 enkidu
 enterospasm
