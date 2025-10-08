@@ -4181,6 +4181,7 @@ episcleral
 examinant
 envelopes
 emulsion
+ectopia
 exopathic
 esotrope
 emulsions
@@ -10477,7 +10478,6 @@ egocentristic
 exit
 englobing
 expediente
-ectopia
 etherizes
 elvanite
 echoized
