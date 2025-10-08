@@ -4754,6 +4754,7 @@ basuto
 bugling
 beckons
 bruckle
+bardier
 bedrowse
 bandicoots
 bedrugged
@@ -16564,7 +16565,6 @@ backpointers
 brahminism
 bsh
 butyrochloral
-bardier
 bollixing
 bioinstrument
 brasier
