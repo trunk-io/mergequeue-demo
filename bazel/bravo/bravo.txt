@@ -815,7 +815,6 @@ baffs
 becomingly
 broughtas
 baft
-bigate
 buoyages
 baldrics
 benzenoid
@@ -5648,6 +5647,7 @@ bathrobe
 busheller
 blowpipes
 bravas
+bigate
 bytime
 bearskins
 busks
