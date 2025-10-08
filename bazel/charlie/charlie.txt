@@ -1995,7 +1995,6 @@ coburgess
 churchreeve
 commended
 camouflage
-camouflageable
 camouflager
 contradictorily
 camouflagers
@@ -9224,6 +9223,7 @@ curricling
 chatchkes
 chondrogenous
 chateaugray
+camouflageable
 cardiologies
 chateaux
 chatelain
