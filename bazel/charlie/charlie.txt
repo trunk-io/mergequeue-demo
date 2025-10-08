@@ -1850,7 +1850,6 @@ cubiculum
 cirrocumulus
 cambricleaf
 colobus
-curs
 clerk
 cambridge
 compotor
@@ -31301,6 +31300,7 @@ catmint
 corypha
 curelessness
 curer
+curs
 coadjument
 clubber
 cinchonicine
