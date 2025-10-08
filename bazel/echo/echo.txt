@@ -2447,7 +2447,6 @@ eleve
 ephas
 ellipsoids
 electrogasdynamics
-energistic
 empanelment
 easter
 encapsuling
@@ -2965,6 +2964,7 @@ extine
 extrospection
 eliot
 extund
+energistic
 eliphalet
 elbowroom
 electing
