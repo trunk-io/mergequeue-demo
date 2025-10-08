@@ -3280,7 +3280,6 @@ deprostrate
 disregards
 duplification
 definitions
-darksum
 definitise
 deprecated
 dilatant
@@ -7655,6 +7654,7 @@ dealerdom
 deviled
 demonically
 duits
+darksum
 dismembrate
 defrocked
 dovehouse
