@@ -5313,7 +5313,6 @@ athrocytosis
 ahchoo
 afresca
 acinous
-apothecaries
 alkalizable
 aspout
 anthomania
@@ -7476,6 +7475,7 @@ alchemister
 actomyosin
 abrasives
 albums
+apothecaries
 agreations
 adversary
 alburn
