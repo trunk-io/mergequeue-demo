@@ -10831,7 +10831,6 @@ cinnoline
 chip
 chipchop
 chinsing
-crosshackle
 chipewyan
 curiosity
 chipmunk
@@ -25951,6 +25950,7 @@ corton
 cacoeconomy
 convolute
 colley
+crosshackle
 coruco
 coruscates
 chlamydoselachus
