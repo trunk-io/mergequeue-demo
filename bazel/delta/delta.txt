@@ -3975,7 +3975,6 @@ defamation
 doorsill
 delegates
 delegateship
-dialing
 dipteros
 diathermancy
 daphnetin
@@ -16732,6 +16731,7 @@ drastic
 dirtfarmer
 dratchell
 decoction
+dialing
 drownded
 discomfortable
 dratting
