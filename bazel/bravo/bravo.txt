@@ -2570,7 +2570,6 @@ batman
 balistarii
 broncs
 bloody
-bravery
 beduchess
 bescoundrel
 bonzes
@@ -6440,6 +6439,7 @@ bergamiol
 backcloth
 barangay
 bestayed
+bravery
 buttercups
 biternate
 benzothiofuran
