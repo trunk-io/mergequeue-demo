@@ -5597,7 +5597,6 @@ bedframe
 basilican
 bewreak
 bekiss
-batteryman
 bignoniad
 bekissed
 bekisses
@@ -13128,6 +13127,7 @@ bored
 burdash
 bescribble
 bannister
+batteryman
 boodleism
 borel
 bowlmaker
