@@ -903,7 +903,6 @@ equates
 enwomb
 emanatory
 exeresis
-eigenvalue
 ecuadorian
 eucyclic
 expulser
@@ -6570,6 +6569,7 @@ embololalia
 excubittoria
 equiponderant
 excluding
+eigenvalue
 evolate
 epicondylian
 estovers
