@@ -961,7 +961,6 @@ eo
 enterocinetic
 endearments
 external
-equisetales
 eparterial
 esophageal
 epichilium
@@ -3928,6 +3927,7 @@ exilarch
 embroglio
 empale
 extraspherical
+equisetales
 eyepit
 ealdorman
 empall
