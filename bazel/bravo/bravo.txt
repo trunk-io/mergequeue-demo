@@ -3498,7 +3498,6 @@ blackwashing
 barricade
 brushy
 borers
-beclamor
 burny
 battleground
 biorhythm
@@ -12506,6 +12505,7 @@ bogum
 brisbane
 bonfire
 bemail
+beclamor
 beholdable
 biphenyl
 buller
