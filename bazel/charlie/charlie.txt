@@ -17013,7 +17013,6 @@ cattier
 cathedra
 crassis
 cheepy
-cest
 cluttery
 clutterment
 corundophilite
@@ -24398,6 +24397,7 @@ changable
 calyculus
 carbonic
 cooncans
+cest
 checkweigher
 coonhound
 coony
