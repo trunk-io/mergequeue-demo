@@ -10454,6 +10454,7 @@ breaker
 blanketlike
 bemantle
 brimborion
+bowdrill
 brache
 bhoot
 blacklists
@@ -12356,7 +12357,6 @@ bullwhacker
 betrayer
 bombardments
 bombline
-bowdrill
 bullbat
 bestink
 bombast
