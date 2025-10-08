@@ -9536,7 +9536,6 @@ checklist
 consuming
 checkman
 congruencies
-checkmate
 checkmating
 celioncus
 cautioning
@@ -13608,6 +13607,7 @@ cymballing
 cimbaloms
 cymbalon
 crotyl
+checkmate
 cubicles
 cymbid
 cymbidium
