@@ -2116,6 +2116,7 @@ elastivity
 enemy
 eleusine
 externat
+electrophorus
 emperish
 electroblasting
 eugranitic
@@ -11690,7 +11691,6 @@ esophagectasia
 euconic
 excandescent
 explemental
-electrophorus
 erythrochroic
 errs
 endocrinopathy
