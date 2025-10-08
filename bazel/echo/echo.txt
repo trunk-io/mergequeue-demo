@@ -8954,7 +8954,6 @@ exophthalmos
 excusing
 erythemal
 enormious
-exocoelom
 endonuclease
 eves
 egomism
@@ -13043,6 +13042,7 @@ entosarc
 evertors
 exampling
 extensionality
+exocoelom
 ergonovine
 elocutionary
 echopraxia
