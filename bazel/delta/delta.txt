@@ -3279,6 +3279,7 @@ deprecated
 dilatant
 deliriate
 desisted
+decelerators
 domesticable
 defoliant
 delegatus
@@ -7650,7 +7651,6 @@ darwinism
 divisa
 devilfish
 dissipativity
-decelerators
 devily
 detail
 deeded
