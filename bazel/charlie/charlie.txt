@@ -5633,6 +5633,7 @@ capone
 cynosarges
 charlie
 catarrhous
+consume
 catarrhs
 coburgher
 catasetum
@@ -23341,7 +23342,6 @@ consults
 consumated
 clerkhood
 consumating
-consume
 consumedly
 consumeless
 cassandra
