@@ -3600,6 +3600,7 @@ allheal
 anachoret
 autometry
 alimenting
+agmas
 aurulent
 attempre
 antiopium
@@ -9828,7 +9829,6 @@ antiamboceptor
 alkermes
 angleworm
 arx
-agmas
 availers
 ambivalence
 antepreterit
