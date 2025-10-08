@@ -1736,7 +1736,6 @@ embankments
 estall
 egrid
 encompasser
-enable
 emplastic
 entresse
 emendandum
@@ -10255,6 +10254,7 @@ eared
 elliptical
 estoile
 ecumenistic
+enable
 earthed
 endorsement
 ethnologically
