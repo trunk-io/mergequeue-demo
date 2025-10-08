@@ -133,7 +133,6 @@ brimmer
 brabantine
 burelle
 boast
-boolian
 bourne
 banister
 boojum
@@ -17065,6 +17064,7 @@ bardiness
 bewrapping
 bulge
 bedaubs
+boolian
 boyhood
 bersim
 birkie
