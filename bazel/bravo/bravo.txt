@@ -1124,7 +1124,6 @@ baiters
 beclothes
 bricktimber
 banqueter
-bridges
 ballard
 baittle
 boxiness
@@ -12862,6 +12861,7 @@ brasses
 bookbinders
 bourignonist
 banyai
+bridges
 burstone
 braiding
 barrelhouse
