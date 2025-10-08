@@ -1574,6 +1574,7 @@ argenteum
 adreno
 arpeggiando
 alleluja
+aggregator
 anapsidan
 archpresbyter
 accreditations
@@ -10833,7 +10834,6 @@ atheistically
 angiport
 ammonoidea
 aerocartography
-aggregator
 assemblage
 adjectitious
 archeological
