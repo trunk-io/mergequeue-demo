@@ -5707,6 +5707,7 @@ depolish
 davened
 dirties
 draughts
+dusun
 diadrom
 depolished
 disapprover
@@ -18643,7 +18644,6 @@ dustuk
 decimalising
 dustups
 digitus
-dusun
 dollarwise
 desightment
 dagbane
