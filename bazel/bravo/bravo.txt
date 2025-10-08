@@ -4505,7 +4505,6 @@ becurses
 basommatophorous
 blowbys
 balefire
-befogged
 beglamour
 bienness
 bater
@@ -12454,6 +12453,7 @@ bawls
 bombardelle
 bomi
 beguilers
+befogged
 begoud
 barratries
 beloveds
