@@ -5404,6 +5404,7 @@ endseal
 egretta
 enfirm
 encheason
+extra
 eaglelike
 epepophysis
 erikite
@@ -11913,7 +11914,6 @@ empaneled
 erroneous
 essie
 episcias
-extra
 entackle
 evalue
 exarticulate
