@@ -7658,7 +7658,6 @@ cotangent
 cerialia
 cerianthidae
 colchicia
-calculable
 cerillo
 cellulous
 ceriman
@@ -14739,6 +14738,7 @@ citatory
 canvassers
 cookery
 cite
+calculable
 consultor
 citer
 cites
