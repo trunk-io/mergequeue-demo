@@ -10247,6 +10247,7 @@ autodecremented
 aggenerate
 astor
 autoincremented
+affricates
 adc
 aestive
 alumine
@@ -18497,7 +18498,6 @@ atomistical
 animalillio
 arcature
 animalculum
-affricates
 aposteriori
 alienicola
 arcatures
