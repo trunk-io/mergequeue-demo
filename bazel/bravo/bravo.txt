@@ -1835,7 +1835,6 @@ bougeron
 betrail
 bretwaldadom
 balant
-bedrel
 bewitchedness
 booked
 blastoff
@@ -12334,6 +12333,7 @@ bailieship
 bolus
 burked
 bomb
+bedrel
 barratrous
 bombace
 busheling
