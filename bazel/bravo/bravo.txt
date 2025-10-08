@@ -2910,7 +2910,6 @@ blobby
 bedrivel
 barricaded
 beltian
-benedicts
 boongary
 barricadoes
 brainsick
@@ -14007,6 +14006,7 @@ blackboys
 bleed
 brussels
 bullring
+benedicts
 brierberry
 boxhauling
 blaeberry
