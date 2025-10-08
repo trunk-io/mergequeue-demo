@@ -9517,7 +9517,6 @@ clavola
 checkers
 carpodacus
 cardanic
-capos
 checkhook
 checky
 circularising
@@ -16928,6 +16927,7 @@ cheyney
 charca
 clumber
 clump
+capos
 ccid
 contemper
 caline
