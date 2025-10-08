@@ -5659,7 +5659,6 @@ desterilized
 dialysed
 dowcet
 depleteable
-detruncated
 decapodan
 ducape
 daftlike
@@ -16732,6 +16731,7 @@ deallocate
 disauthorize
 dolina
 disconcerted
+detruncated
 disciplinary
 drape
 discretionally
