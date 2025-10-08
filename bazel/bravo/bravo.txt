@@ -1840,7 +1840,6 @@ blastoff
 buffets
 bushcraft
 breadwinners
-bandmaster
 bryaceae
 bando
 besieger
@@ -12821,6 +12820,7 @@ bookselling
 bescreened
 boloney
 betoyan
+bandmaster
 bonanza
 brouze
 bakutu
