@@ -24350,7 +24350,6 @@ coenospecies
 cookshops
 cards
 cookstove
-colligible
 contumacies
 coreveler
 circumflex
@@ -29099,6 +29098,7 @@ cohanim
 cutset
 chloryl
 crinatory
+colligible
 cyesiology
 cringeling
 cringes
