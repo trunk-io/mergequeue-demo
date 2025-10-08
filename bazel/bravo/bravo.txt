@@ -6969,7 +6969,6 @@ bepistoled
 besides
 bodykins
 besiege
-barrico
 besiegers
 bushbashing
 brownistic
@@ -15490,6 +15489,7 @@ buteo
 bioplasm
 bono
 benetted
+barrico
 bifurcations
 battledoring
 brilliancies
