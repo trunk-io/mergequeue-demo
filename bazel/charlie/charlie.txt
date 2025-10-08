@@ -6563,7 +6563,6 @@ calcivorous
 cesspool
 cicadidae
 coronis
-cosmonaut
 chondriomite
 cearin
 cognoscible
@@ -8257,6 +8256,7 @@ clawker
 chalcomenite
 chalcone
 chalcopyrite
+cosmonaut
 chalcosiderite
 chalcosine
 crocodilite
