@@ -691,7 +691,6 @@ bade
 badness
 baff
 besogne
-bulimoid
 blueish
 broadbill
 bernie
@@ -6342,6 +6341,7 @@ benzalethylamine
 benzalphenylhydrazone
 blast
 ballet
+bulimoid
 benzamide
 badgerbrush
 bortz
