@@ -10360,6 +10360,7 @@ dependencies
 diagrammers
 ditton
 diopter
+devises
 diopters
 decumary
 disporting
@@ -13642,7 +13643,6 @@ dishevelled
 dissymmetric
 degender
 dampy
-devises
 dossals
 disturbances
 decretorily
