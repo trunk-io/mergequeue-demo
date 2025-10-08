@@ -2335,7 +2335,6 @@ aggrate
 antistock
 aedes
 agrologies
-acipenseroid
 asmile
 antilipase
 apantesis
@@ -13789,6 +13788,7 @@ anvasser
 admonish
 anorchia
 anglicisms
+acipenseroid
 aghlabite
 anorectal
 aikane
