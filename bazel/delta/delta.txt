@@ -1019,6 +1019,7 @@ disulfuret
 difficulty
 daybooks
 dialogues
+deals
 dumfounding
 dinnerly
 divorcer
@@ -14196,7 +14197,6 @@ difficultly
 dysurias
 diverticular
 dolly
-deals
 disusage
 dynamoscope
 deathful
