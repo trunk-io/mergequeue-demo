@@ -2613,7 +2613,6 @@ epigeal
 effected
 electrosmosis
 epihippus
-entocoelic
 exes
 episcopicide
 excelling
@@ -9322,6 +9321,7 @@ effecter
 enoch
 exostome
 endball
+entocoelic
 emphyteusis
 epilimnionia
 educable
