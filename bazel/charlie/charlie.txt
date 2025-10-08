@@ -18501,7 +18501,6 @@ coharmonize
 cohead
 celiorrhea
 coheading
-claviature
 cassate
 cursor
 cepheus
@@ -18849,6 +18848,7 @@ caddishly
 colectomies
 cacogenics
 colegislator
+claviature
 coalfish
 conodonts
 consumptivity
