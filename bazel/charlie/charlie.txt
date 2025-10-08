@@ -4140,7 +4140,6 @@ creature
 cobras
 contradivide
 cardiometer
-cardiometric
 cardiomyomalacia
 cardiomyopathy
 captived
@@ -11017,6 +11016,7 @@ cyclospondylous
 chirr
 cocoa
 chirre
+cardiometric
 carbides
 chirrs
 cliched
