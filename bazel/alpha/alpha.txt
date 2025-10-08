@@ -2004,6 +2004,7 @@ aboardage
 archways
 artemisin
 anammonid
+apprenticement
 artize
 abbeystede
 aboveboard
@@ -17846,7 +17847,6 @@ apprentice
 aramids
 angia
 apprenticehood
-apprenticement
 agnostic
 acinacity
 appressed
