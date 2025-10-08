@@ -4197,7 +4197,6 @@ cardoon
 cardophagus
 clearwing
 carbamido
-carnet
 chiron
 crunt
 coloboma
@@ -9327,6 +9326,7 @@ couvert
 contriteness
 cerris
 chauk
+carnet
 contusioned
 castrate
 chullo
