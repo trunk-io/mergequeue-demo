@@ -678,7 +678,6 @@ britches
 batholithic
 banjo
 betimber
-birdshot
 bathtubs
 baddies
 boral
@@ -1005,6 +1004,7 @@ blizzards
 bailers
 brees
 bunglings
+birdshot
 bailiaries
 bargainwise
 bollards
