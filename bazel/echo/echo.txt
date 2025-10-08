@@ -1184,6 +1184,7 @@ entranceway
 ensheathes
 extraditable
 ecorche
+exceptional
 eyoty
 eblis
 eleonorite
@@ -11941,7 +11942,6 @@ enforcible
 existentialistically
 elflike
 exotoxins
-exceptional
 expurgatorial
 erythrasma
 epilogize
