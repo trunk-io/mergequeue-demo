@@ -11559,7 +11559,6 @@ cholate
 chamberer
 cholates
 commandingness
-crafting
 chold
 choleate
 couchee
@@ -29480,6 +29479,7 @@ civilizade
 crystallin
 crystallisability
 caramel
+crafting
 correctedness
 cueist
 cerographic
