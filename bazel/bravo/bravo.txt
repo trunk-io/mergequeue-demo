@@ -3498,7 +3498,6 @@ blonds
 berceaunette
 bipinnaria
 blah
-besmooth
 barraging
 bathymetry
 bathymetrical
@@ -12912,6 +12911,7 @@ blipped
 boondoggling
 banishers
 boonfellow
+besmooth
 blattered
 blaewort
 behorror
