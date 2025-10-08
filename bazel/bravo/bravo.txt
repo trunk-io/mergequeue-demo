@@ -811,7 +811,6 @@ benzenoid
 biochron
 bagasses
 boohoos
-buckwasher
 bravura
 backband
 budget
@@ -9591,6 +9590,7 @@ biggies
 budorcas
 breeching
 bisantler
+buckwasher
 bytes
 bothridium
 burucha
