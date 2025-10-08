@@ -14143,6 +14143,7 @@ birefraction
 birthmarks
 bombycidae
 brachydont
+base
 brachydontism
 brachyfacial
 burgul
@@ -17778,7 +17779,6 @@ buzzle
 blepharoblennorrhea
 boletes
 bicarbs
-base
 becker
 biophagism
 baseless
