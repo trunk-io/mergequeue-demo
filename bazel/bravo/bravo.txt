@@ -1785,6 +1785,7 @@ brassage
 banderole
 bindings
 brigading
+blere
 banders
 broadlings
 bandfile
@@ -11139,7 +11140,6 @@ brittonic
 borborygmic
 billeter
 broil
-blere
 blockmaker
 beastings
 beelzebub
