@@ -5008,6 +5008,7 @@ booklouse
 bloodletting
 blackness
 breakwaters
+badgeman
 balanoid
 beetles
 brompicrin
@@ -11638,7 +11639,6 @@ befog
 behindsight
 bounced
 bibliothecarial
-badgeman
 boa
 butternut
 blanda
