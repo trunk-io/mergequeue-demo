@@ -6187,7 +6187,6 @@ eltime
 executable
 exoculated
 exhortator
-exsequatur
 enorn
 eradiating
 euphemist
@@ -13453,6 +13452,7 @@ equipollence
 ethnocentricity
 enantiotropy
 embassador
+exsequatur
 eolopile
 epilepsia
 ectosteal
