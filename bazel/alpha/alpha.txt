@@ -1500,7 +1500,6 @@ accordancy
 agglutinoid
 adventureful
 anthema
-angoras
 accorder
 accordingly
 amalg
@@ -16423,6 +16422,7 @@ apache
 attained
 achenes
 apelike
+angoras
 apadana
 astronautic
 apaesthetize
