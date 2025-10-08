@@ -11678,7 +11678,6 @@ aftersend
 anaesthesiology
 abeltree
 austrian
-aruspex
 adamsite
 avoke
 annoyance
@@ -19846,6 +19845,7 @@ antagonizes
 auxilium
 archerfish
 arsphenamine
+aruspex
 adnexed
 armatures
 armband
