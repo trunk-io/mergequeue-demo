@@ -3726,7 +3726,6 @@ ballgame
 breakermen
 bobflies
 bacterian
-batwing
 broadcast
 baysmelt
 bioenvironmental
@@ -17303,6 +17302,7 @@ bumbo
 bumclock
 batling
 brandishing
+batwing
 boltings
 beryline
 bushie
