@@ -6103,7 +6103,6 @@ cattail
 cestos
 cattails
 cattaloes
-cattalos
 chocalho
 cyaniding
 crottels
@@ -14337,6 +14336,7 @@ ciliectomy
 circumpallial
 constrained
 crosspieces
+cattalos
 circumparallelogram
 convexed
 crone
