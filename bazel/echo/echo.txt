@@ -7388,6 +7388,7 @@ etalon
 effectiveness
 emotionally
 entrancing
+emplace
 eternalizing
 entozoologist
 elevato
@@ -10382,7 +10383,6 @@ entrike
 epionychium
 erythron
 epispadia
-emplace
 entomostracan
 enologies
 errorist
