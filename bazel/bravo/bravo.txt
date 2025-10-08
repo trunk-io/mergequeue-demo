@@ -6975,7 +6975,6 @@ besiegers
 bedeman
 bushbashing
 brownistic
-bedsite
 bestrid
 beslobber
 bellical
@@ -12238,6 +12237,7 @@ brevis
 bufflehead
 broomcorn
 brimstone
+bedsite
 bollock
 brachiate
 browsick
