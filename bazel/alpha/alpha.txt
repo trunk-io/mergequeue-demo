@@ -3160,7 +3160,6 @@ approximants
 appoggiaturas
 aviary
 acerbity
-acuities
 antizymic
 archfire
 automobility
@@ -6807,6 +6806,7 @@ agraphias
 archdivine
 atropic
 androecium
+acuities
 alcoholization
 amalgamatize
 aistopoda
