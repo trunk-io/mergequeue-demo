@@ -1614,7 +1614,6 @@ balmarcodes
 baromotor
 bimodality
 burton
-boko
 balmonies
 bloodroot
 brack
@@ -12719,6 +12718,7 @@ basilary
 blackfigured
 braccia
 boogeymen
+boko
 brahmanical
 buhrs
 bec
