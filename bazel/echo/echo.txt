@@ -10463,6 +10463,7 @@ eucopepoda
 eucosmidae
 extravaganzas
 ecstasis
+exit
 englobing
 expediente
 ectopia
@@ -10808,7 +10809,6 @@ enterokinase
 encephalocoele
 epibaterium
 enamel
-exit
 eaglewood
 extroversively
 exteriorize
