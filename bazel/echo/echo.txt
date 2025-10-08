@@ -2449,6 +2449,7 @@ eleve
 ephas
 ellipsoids
 electrogasdynamics
+energistic
 empanelment
 easter
 encapsuling
@@ -3177,7 +3178,6 @@ endomorphic
 errability
 elutor
 extruders
-energistic
 epiparasite
 else
 enrive
