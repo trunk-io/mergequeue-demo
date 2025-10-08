@@ -1552,7 +1552,6 @@ enthuses
 erizo
 epiblastic
 egressed
-egresses
 emplacement
 expounded
 encarpi
@@ -2334,6 +2333,7 @@ endovenous
 emoluments
 entomere
 exhaustable
+egresses
 endeavor
 eternal
 eudaemonize
