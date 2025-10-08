@@ -4492,7 +4492,6 @@ bestrided
 becursed
 burglarious
 balmoral
-bolk
 benevolency
 becurses
 basommatophorous
@@ -13969,6 +13968,7 @@ baptizee
 bowsman
 bows
 breastplough
+bolk
 bowsaw
 bombs
 benzopyran
