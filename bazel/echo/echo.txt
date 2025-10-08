@@ -9175,7 +9175,6 @@ edam
 ecclesiastry
 ethnarch
 effusion
-epigrams
 entrees
 embound
 empannel
@@ -12068,6 +12067,7 @@ engraving
 emphase
 epanaphora
 expectably
+epigrams
 equulei
 enkolpia
 erotomania
