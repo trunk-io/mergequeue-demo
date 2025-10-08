@@ -6310,6 +6310,7 @@ bagfuls
 benthonic
 bevors
 benthoscope
+banderlog
 benthoses
 bacteriolysin
 betime
@@ -9183,7 +9184,6 @@ baske
 bubbybush
 buckone
 barotropy
-banderlog
 behalf
 buoyance
 benzpinacone
