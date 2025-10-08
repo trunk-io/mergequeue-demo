@@ -7549,7 +7549,6 @@ brainworker
 banagos
 bulrush
 beweeper
-beneficent
 bombilate
 brujos
 bastardize
@@ -13509,6 +13508,7 @@ bleeding
 brahma
 bobo
 belches
+beneficent
 bottleman
 bulse
 blenchingly
