@@ -3283,7 +3283,6 @@ basketwork
 baskish
 basnat
 bronchobuster
-ballfield
 baseball
 bejabbers
 basoid
@@ -10679,6 +10678,7 @@ bowllike
 branchiosaurus
 bluebutton
 beakier
+ballfield
 beltmaker
 boweling
 bleachable
