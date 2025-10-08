@@ -5162,6 +5162,7 @@ estampage
 encumbered
 electrostatic
 epicist
+exhumation
 embrake
 eastings
 electroballistician
@@ -6349,7 +6350,6 @@ embars
 emboldening
 enshrinements
 ephebe
-exhumation
 ecrus
 emulsor
 encounterer
