@@ -5245,7 +5245,6 @@ azophenetole
 afforested
 arabitol
 adenoneure
-affrayers
 anormal
 acetylenogen
 affraying
@@ -10656,6 +10655,7 @@ ashlaring
 alert
 aerosporin
 assembly
+affrayers
 analities
 aminopeptidase
 aminopherase
