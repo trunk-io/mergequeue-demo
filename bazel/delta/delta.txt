@@ -5638,7 +5638,6 @@ disrobe
 dentelliere
 deplaning
 demonomancy
-doliolum
 disobligation
 discontinuor
 dawdled
@@ -13023,6 +13022,7 @@ deutocarbonate
 displicency
 diastyle
 disapproves
+doliolum
 detrain
 develed
 dispensatress
