@@ -3262,7 +3262,6 @@ beings
 broggerite
 behen
 bole
-baffleplate
 batikuling
 basketware
 bluecoat
@@ -8257,6 +8256,7 @@ bovarysm
 bigamies
 bigamist
 bemuddlement
+baffleplate
 briefer
 bigamize
 bathorse
