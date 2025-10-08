@@ -9541,7 +9541,6 @@ epistolize
 emotionalized
 erechtites
 esophagopathy
-esophagoplasty
 esophagoscopy
 exhumation
 endodermal
@@ -12611,6 +12610,7 @@ ejaculative
 erythrocytolysis
 essoign
 explosive
+esophagoplasty
 etoffe
 eremitism
 exonian
