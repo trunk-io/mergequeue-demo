@@ -3161,7 +3161,6 @@ exceptionableness
 emboscata
 extruding
 endomorphic
-errability
 elutor
 extruders
 epiparasite
@@ -7773,6 +7772,7 @@ encrinoid
 erythrophore
 epigonism
 etching
+errability
 euconjugatae
 epigonium
 ebbing
