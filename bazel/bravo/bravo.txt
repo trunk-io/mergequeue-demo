@@ -1015,6 +1015,7 @@ bargainwise
 bollards
 biotites
 bailieries
+bacteric
 botargos
 biogeographic
 busway
@@ -17139,7 +17140,6 @@ behooves
 burghmote
 basilinna
 breadseller
-bacteric
 blowhard
 bulletwood
 bifold
