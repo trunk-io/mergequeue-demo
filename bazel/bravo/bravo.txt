@@ -1609,7 +1609,6 @@ bengali
 ballstock
 ballup
 ballweed
-balmarcodes
 baromotor
 bimodality
 burton
@@ -5888,6 +5887,7 @@ belonging
 basisphenoid
 bearherd
 billeters
+balmarcodes
 belongs
 besoul
 bicameral
