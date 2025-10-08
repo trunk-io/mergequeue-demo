@@ -13294,7 +13294,6 @@ cataloguer
 chemiatry
 cohitre
 cycloid
-coalternation
 conjugateness
 cycloidean
 coalshed
@@ -30980,6 +30979,7 @@ collators
 chromobacterium
 cytochylema
 cumenyl
+coalternation
 countersconce
 coerces
 coumalin
