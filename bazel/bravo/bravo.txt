@@ -3512,7 +3512,6 @@ binaries
 battleground
 berkeleyite
 bien
-balanophora
 bathysophical
 bathysphere
 betrample
@@ -15314,6 +15313,7 @@ being
 birdwitted
 bridewort
 beghard
+balanophora
 bridge
 bandgap
 budtime
