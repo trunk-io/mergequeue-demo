@@ -20728,7 +20728,6 @@ complect
 clerihews
 collapsible
 carty
-complementariness
 complementarity
 cyclicism
 complementative
@@ -26981,6 +26980,7 @@ counterobjection
 counterobligation
 counteroffensive
 chevet
+complementariness
 counteropening
 counteropponent
 consuetitude
