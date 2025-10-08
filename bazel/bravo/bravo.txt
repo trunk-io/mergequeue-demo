@@ -5655,7 +5655,6 @@ beldams
 bacchar
 bilify
 belderroot
-borehole
 bisymmetrical
 bodgie
 beleapt
@@ -16898,6 +16897,7 @@ betas
 burnewin
 biomaterial
 buffing
+borehole
 breards
 breekums
 buffont
