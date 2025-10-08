@@ -6259,7 +6259,6 @@ camize
 caulicle
 caulicole
 castrated
-caulicolous
 customed
 crassulaceae
 cauliform
@@ -9336,6 +9335,7 @@ chartometer
 chaunted
 carbamide
 chaunter
+caulicolous
 couplement
 capillaritis
 chablis
