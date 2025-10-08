@@ -8890,6 +8890,7 @@ bedchamber
 beslimed
 bible
 bejewels
+beakers
 blurs
 bedeck
 boilerman
@@ -11963,7 +11964,6 @@ becrown
 boethian
 brackmard
 bacaba
-beakers
 balsamodendron
 bottlenest
 bunds
