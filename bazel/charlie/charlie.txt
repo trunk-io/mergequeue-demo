@@ -2321,7 +2321,6 @@ companator
 chinbones
 chumpy
 canarian
-conyza
 canarine
 chitarrone
 cenote
@@ -8241,6 +8240,7 @@ clawker
 chalcomenite
 chalcone
 chalcopyrite
+conyza
 cosmonaut
 chalcosiderite
 crocodilite
