@@ -6868,6 +6868,7 @@ cloze
 cashbox
 cajuputol
 celt
+circumpolygon
 clockkeeper
 celtiberi
 circularizers
@@ -22373,7 +22374,6 @@ cheeps
 chirper
 congolese
 coincline
-circumpolygon
 congoleum
 congou
 coessentialness
