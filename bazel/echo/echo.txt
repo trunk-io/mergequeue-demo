@@ -4868,6 +4868,7 @@ english
 evolves
 enantiosis
 elementoid
+edictum
 escortment
 emplacements
 ephyrula
@@ -11662,7 +11663,6 @@ erostrate
 epiphytous
 empirical
 elaphrium
-edictum
 enqueues
 euryon
 euktolite
