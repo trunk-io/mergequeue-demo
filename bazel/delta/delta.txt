@@ -3535,6 +3535,7 @@ dinornithiformes
 defs
 daneweeds
 desulphurizer
+demultiplexer
 diagrammatize
 dicta
 diodont
@@ -4981,7 +4982,6 @@ desirable
 dogmatisation
 distinguish
 derk
-demultiplexer
 disensoul
 demultiplexers
 disroot
