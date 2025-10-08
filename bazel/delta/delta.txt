@@ -3477,7 +3477,6 @@ defunction
 duke
 deul
 diethylamine
-diploidy
 demidigested
 darkskin
 dingles
@@ -4858,6 +4857,7 @@ detickers
 durableness
 departs
 dartingness
+diploidy
 ductile
 declive
 demonises
