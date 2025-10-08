@@ -6963,7 +6963,6 @@ basad
 bebrine
 beshrivel
 beshroud
-bensil
 borlase
 bookboard
 burnished
@@ -12243,6 +12242,7 @@ bolly
 beretta
 besit
 brevis
+bensil
 bufflehead
 broomcorn
 brimstone
