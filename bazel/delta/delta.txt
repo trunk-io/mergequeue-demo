@@ -3261,7 +3261,6 @@ diduction
 dredger
 desertrice
 decigram
-decapitalization
 distrait
 dyingly
 definiteness
@@ -15674,6 +15673,7 @@ dorsabdominally
 duodial
 dardanarius
 deans
+decapitalization
 detractiveness
 dumpiness
 desalinizes
