@@ -14051,7 +14051,6 @@ antechambers
 apeek
 accomodate
 africans
-arborization
 aortoptosia
 altazimuth
 antiprism
@@ -23869,6 +23868,7 @@ angwantibo
 anisostichus
 allumine
 andoke
+arborization
 angustate
 autarkist
 autechoscope
