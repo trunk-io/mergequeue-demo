@@ -5530,6 +5530,7 @@ astragalomancy
 actinula
 aminoaciduria
 asquare
+available
 anteriorly
 appressorium
 acajous
@@ -18573,7 +18574,6 @@ agly
 algalia
 achernar
 acalepha
-available
 averaged
 anhungry
 alexipharmical
