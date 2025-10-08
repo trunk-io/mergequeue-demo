@@ -2686,6 +2686,7 @@ backward
 boylas
 beltline
 byrrus
+bathymeter
 backset
 bismutoplagionite
 balopticon
@@ -9508,7 +9509,6 @@ bubinga
 batata
 bronchodilatation
 bletonism
-bathymeter
 barricos
 biogenase
 basaltine
