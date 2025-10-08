@@ -4741,7 +4741,6 @@ blockboard
 balliage
 beefwoods
 blear
-barrener
 backdate
 bracker
 brett
@@ -17015,6 +17014,7 @@ betailor
 basseting
 brassworks
 babylonic
+barrener
 bedouse
 bulb
 berwick
