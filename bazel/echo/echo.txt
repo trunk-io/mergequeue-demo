@@ -865,7 +865,6 @@ erodability
 entrench
 echinoids
 encapsulating
-electrotonic
 essera
 emplaces
 exsecant
@@ -6607,6 +6606,7 @@ each
 evictee
 electrodentistry
 echinocaris
+electrotonic
 expending
 entrapper
 exurbs
