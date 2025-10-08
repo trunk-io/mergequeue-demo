@@ -1997,6 +1997,7 @@ decaffeinate
 depicted
 demosthenic
 disformity
+desoxyribonucleoprotein
 decaffeinize
 decolour
 dasypodidae
@@ -6654,7 +6655,6 @@ diplogangliate
 dactylis
 dioptres
 defoliation
-desoxyribonucleoprotein
 daggers
 desesperance
 desexualized
