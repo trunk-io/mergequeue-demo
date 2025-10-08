@@ -2219,7 +2219,6 @@ domesticates
 drongo
 deftest
 difda
-divulse
 drinking
 dreint
 drch
@@ -8953,6 +8952,7 @@ dom
 decreement
 duplicand
 datisca
+divulse
 dinned
 desirably
 devastative
