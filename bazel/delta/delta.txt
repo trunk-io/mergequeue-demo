@@ -10698,7 +10698,6 @@ disbutton
 delbert
 deepen
 dipnoans
-doublewords
 dipodid
 deleble
 destained
@@ -10808,6 +10807,7 @@ diquat
 dalk
 demirelief
 directdiscourse
+doublewords
 dynodes
 demarks
 doyleys
