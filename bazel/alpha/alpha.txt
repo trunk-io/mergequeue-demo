@@ -8167,6 +8167,7 @@ algorithmic
 abstertion
 arn
 antifeudalism
+anticks
 antependium
 alhambra
 asteria
@@ -21334,7 +21335,6 @@ abscond
 adurent
 asoak
 asoka
-anticks
 ankyloblepharon
 asper
 aaron
