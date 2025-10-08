@@ -6037,7 +6037,6 @@ catlins
 craftsperson
 cryptoporticus
 canephroi
-croisette
 caupones
 cantharidizing
 cumene
@@ -31224,6 +31223,7 @@ curaghs
 cimeliarch
 coenospecific
 curarines
+croisette
 claggy
 crossbanded
 curarization
