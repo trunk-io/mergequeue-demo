@@ -11753,7 +11753,6 @@ consonantalizing
 chondrocranial
 circuitous
 calcanean
-chondrodystrophy
 chondrodystrophia
 couthest
 connubiate
@@ -29794,6 +29793,7 @@ commons
 cyprid
 crookedly
 crookedness
+chondrodystrophy
 crookery
 crookesite
 crookheaded
