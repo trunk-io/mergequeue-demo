@@ -2842,6 +2842,7 @@ chancroid
 connectionless
 crayfish
 cantabank
+coelomate
 chimaeroidei
 cranching
 canonic
@@ -19366,7 +19367,6 @@ colonisability
 colonisable
 clinid
 clancular
-coelomate
 colletside
 colonise
 chautauqua
