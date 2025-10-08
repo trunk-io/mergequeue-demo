@@ -774,6 +774,7 @@ eucharistic
 engraver
 erratums
 ectocoelic
+eyebolt
 engolden
 ectocondylar
 endophytic
@@ -12089,7 +12090,6 @@ embrasuring
 elem
 entablements
 execute
-eyebolt
 expy
 envisions
 extrazodiacal
