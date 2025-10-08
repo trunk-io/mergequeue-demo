@@ -10083,6 +10083,7 @@ claves
 chesstree
 cerias
 chest
+consists
 cidaris
 curing
 currock
@@ -18776,7 +18777,6 @@ colacobiotic
 consummations
 convertors
 congo
-consists
 collocative
 caxton
 colane
