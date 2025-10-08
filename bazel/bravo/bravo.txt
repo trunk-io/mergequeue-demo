@@ -3463,7 +3463,6 @@ barlow
 batfowl
 batfowled
 bassists
-bestore
 baulky
 bulbocavernosus
 brookites
@@ -13119,6 +13118,7 @@ bungwall
 beriber
 benadryl
 bowgrace
+bestore
 bonder
 borofluoric
 bogusness
