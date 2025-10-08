@@ -5806,7 +5806,6 @@ dispraise
 disconcert
 deprecative
 dissolvable
-delibate
 deprecatory
 desensitization
 degradingness
@@ -9698,6 +9697,7 @@ demimentoniere
 dodecahedron
 daytimes
 diogenes
+delibate
 distillations
 durometer
 decennary
