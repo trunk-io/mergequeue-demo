@@ -3711,7 +3711,6 @@ broadcast
 baysmelt
 bioenvironmental
 betatrons
-batwomen
 breakout
 beetlestock
 batz
@@ -6479,6 +6478,7 @@ bradenhead
 beleaguer
 bello
 bepepper
+batwomen
 bitnet
 booting
 bephilter
