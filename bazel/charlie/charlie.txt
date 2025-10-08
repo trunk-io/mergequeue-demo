@@ -2025,7 +2025,6 @@ candlelit
 conli
 clotheshorses
 colostric
-coracoscapular
 campana
 campane
 campanella
@@ -10273,6 +10272,7 @@ carmines
 conusance
 cultismo
 compleated
+coracoscapular
 chicago
 caffling
 campanulated
