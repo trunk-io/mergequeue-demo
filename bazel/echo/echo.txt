@@ -3907,6 +3907,7 @@ excludable
 extended
 equipment
 enragedness
+ectocranial
 exorability
 epitases
 estreating
@@ -10319,7 +10320,6 @@ electrovalence
 escrol
 epicrates
 excreted
-ectocranial
 ecblastpsis
 expense
 exintine
