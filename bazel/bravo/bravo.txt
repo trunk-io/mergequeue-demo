@@ -17448,7 +17448,6 @@ blackouts
 bunsenite
 bunkermen
 bitume
-bunkers
 beard
 burler
 balsawood
@@ -17796,6 +17795,7 @@ banjoists
 buoyances
 breakback
 bankera
+bunkers
 bemingling
 bijugular
 blankets
