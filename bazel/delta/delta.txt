@@ -8136,7 +8136,6 @@ defade
 deathworm
 diaconica
 dragooning
-disables
 deputable
 dactylic
 drabbets
@@ -18228,6 +18227,7 @@ dunelike
 doeglic
 darzee
 deputative
+disables
 dasycladaceae
 dhoolies
 deterging
