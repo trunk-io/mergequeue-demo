@@ -5796,7 +5796,6 @@ batfish
 bothnic
 bonasa
 bellhouse
-belli
 buckstone
 bellyache
 below
@@ -6787,6 +6786,7 @@ blighia
 barytosulphate
 bookery
 berserker
+belli
 brittles
 bin
 berserks
