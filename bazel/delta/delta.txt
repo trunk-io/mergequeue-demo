@@ -7102,7 +7102,6 @@ dinotheriidae
 desulfurizer
 desulfurizing
 depictor
-desulfurs
 drumlike
 desulphur
 delatorian
@@ -8742,6 +8741,7 @@ defeat
 dequeen
 diazoalkane
 depeter
+desulfurs
 dragonkind
 diestruses
 deftness
