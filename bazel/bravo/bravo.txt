@@ -4534,7 +4534,6 @@ besuit
 borborus
 ballywack
 bedaubing
-bloodstone
 blacktop
 belial
 biddelian
@@ -13613,6 +13612,7 @@ beggarlice
 brunel
 biquarterly
 barhop
+bloodstone
 bouffant
 bullyragged
 bratina
