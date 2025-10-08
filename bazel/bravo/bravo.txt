@@ -13556,7 +13556,6 @@ bafflers
 bonders
 basementward
 bagroom
-breastfeeding
 bioxide
 blacksmiths
 becomes
@@ -16257,6 +16256,7 @@ bilithon
 braillist
 bedighting
 bepraise
+breastfeeding
 bandboxy
 battailous
 balladeer
