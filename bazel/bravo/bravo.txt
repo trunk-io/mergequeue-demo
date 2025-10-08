@@ -3072,6 +3072,7 @@ barrelhouses
 broody
 basella
 brothels
+bolsterer
 breakouts
 beallach
 bouvier
@@ -9684,7 +9685,6 @@ baptists
 betravel
 bishopling
 bethank
-bolsterer
 beduck
 bennets
 barberish
