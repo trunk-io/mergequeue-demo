@@ -765,7 +765,6 @@ baedekerian
 baeria
 begod
 browniness
-bldr
 brisque
 baetulus
 batrachophobia
@@ -5189,6 +5188,7 @@ belis
 beadhouse
 bracteal
 badgerly
+bldr
 bugan
 barragan
 blastodisk
