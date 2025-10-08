@@ -4365,7 +4365,6 @@ besieged
 balm
 begirdles
 barger
-brandering
 balau
 budapest
 biont
@@ -15745,6 +15744,7 @@ brocatels
 bumblepuppy
 briber
 billionths
+brandering
 baptist
 bleaches
 bangkoks
