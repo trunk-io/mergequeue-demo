@@ -7879,7 +7879,6 @@ cessor
 cesspipe
 cesspit
 cesspits
-cinchonia
 carey
 contrastment
 cesspools
@@ -24332,6 +24331,7 @@ conjury
 cookroom
 corrigenda
 concentrate
+cinchonia
 caverning
 cookshop
 coenospecies
