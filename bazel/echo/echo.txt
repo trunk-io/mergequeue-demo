@@ -875,7 +875,6 @@ ecbasis
 exclaimed
 equipping
 expenditor
-electrophoretic
 ectropion
 epiphanise
 epilogues
@@ -13725,6 +13724,7 @@ eucaryote
 etaballi
 encyrtidae
 ectoenzym
+electrophoretic
 enteroid
 encounterable
 enzyme
