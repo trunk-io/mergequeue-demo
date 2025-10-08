@@ -3369,7 +3369,6 @@ ensiling
 eavedropper
 embark
 epichorial
-embarkations
 epitomize
 embarks
 equipage
@@ -4944,6 +4943,7 @@ ecliptics
 estrada
 exotropism
 emulatress
+embarkations
 excathedral
 endeavour
 endamaging
