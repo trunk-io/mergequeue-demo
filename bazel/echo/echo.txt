@@ -1738,7 +1738,6 @@ egrid
 encompasser
 enable
 emplastic
-epityphlon
 entresse
 emendandum
 eremitic
@@ -8242,6 +8241,7 @@ eskimoic
 earthy
 effulgence
 excitometabolic
+epityphlon
 essonites
 exsolving
 ensorceling
