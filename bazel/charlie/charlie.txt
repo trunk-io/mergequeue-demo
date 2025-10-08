@@ -4521,7 +4521,6 @@ carnivoral
 claught
 carnivore
 carnivorism
-cordialness
 cyanea
 chutnee
 conchylium
@@ -15727,6 +15726,7 @@ contraction
 clavicle
 clavicles
 cannas
+cordialness
 colopexy
 cladautoicous
 clavicorn
