@@ -907,7 +907,6 @@ ascidioida
 absolutize
 argify
 absolvatory
-absolve
 absolvent
 arteriotome
 apod
@@ -21218,6 +21217,7 @@ asiatically
 achromasia
 appraisable
 apocarps
+absolve
 ambassadorial
 adela
 actinocrinus
