@@ -10941,7 +10941,6 @@ chestier
 crudites
 coalition
 cicatrixes
-chiromantis
 chiromys
 chalcioecus
 chironym
@@ -27526,6 +27525,7 @@ cosmorama
 cocas
 couthiest
 canephoros
+chiromantis
 covenance
 cammed
 covenantal
