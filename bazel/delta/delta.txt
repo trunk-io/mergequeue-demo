@@ -9122,7 +9122,6 @@ disweapon
 derisory
 dropsies
 debit
-doffs
 dewcup
 deconcentrator
 deaconship
@@ -13202,6 +13201,7 @@ decompress
 dispositional
 dispositioned
 disharmonical
+doffs
 disputableness
 distractive
 dispositions
