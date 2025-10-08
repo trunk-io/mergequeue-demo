@@ -2774,7 +2774,6 @@ buffaloback
 batster
 bedarken
 bruta
-biquadrate
 bionomical
 beglitter
 barotaxy
@@ -12417,6 +12416,7 @@ braless
 boreas
 buckhounds
 bab
+biquadrate
 bandlimit
 brigades
 bourre
