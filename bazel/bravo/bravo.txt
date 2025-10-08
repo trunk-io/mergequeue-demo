@@ -2912,7 +2912,6 @@ blobby
 bedrivel
 barricaded
 beltian
-boongary
 barricadoes
 brainsick
 bemazed
@@ -7666,6 +7665,7 @@ beslings
 barani
 breechclout
 bereareft
+boongary
 bewall
 bouchette
 backfilling
