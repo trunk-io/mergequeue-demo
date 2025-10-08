@@ -902,7 +902,6 @@ ascidioida
 absolutize
 argify
 absolvatory
-absolve
 absolvent
 arteriotome
 apod
@@ -24207,6 +24206,7 @@ autographer
 ammoreslinol
 alkylation
 analysed
+absolve
 amiral
 autoheader
 anemologic
