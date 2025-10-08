@@ -10769,6 +10769,7 @@ bowpots
 blackies
 besaiel
 bibl
+bunks
 belap
 blenk
 beefy
@@ -12593,7 +12594,6 @@ blackballed
 burseeds
 bonhomies
 boni
-bunks
 bony
 burtonize
 barbicels
