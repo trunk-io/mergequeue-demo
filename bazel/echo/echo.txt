@@ -1423,6 +1423,7 @@ except
 epics
 edificator
 endosiphonate
+embusqu
 exorbitation
 eutrophication
 entasias
@@ -14167,7 +14168,6 @@ eurithermophilic
 eriobotrya
 ependymoma
 eagless
-embusqu
 expiscated
 ensilaged
 exuberated
