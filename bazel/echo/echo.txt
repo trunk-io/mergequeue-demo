@@ -4936,6 +4936,7 @@ excathedral
 endeavour
 endamaging
 ericeticolous
+eaglewood
 exilable
 embole
 edificable
@@ -10804,7 +10805,6 @@ encephalocoele
 epibaterium
 enamel
 elengeness
-eaglewood
 exteriorize
 euphotide
 epicanthi
