@@ -15732,6 +15732,7 @@ chemics
 clavicythetheria
 clavicittern
 contraction
+castuli
 clavicle
 clavicles
 cannas
@@ -22627,7 +22628,6 @@ concredit
 conkers
 complexion
 commonness
-castuli
 colorrhaphy
 conking
 conn
