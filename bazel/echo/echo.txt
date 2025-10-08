@@ -4965,7 +4965,6 @@ exsectile
 essentia
 endotys
 endosiphon
-economist
 etherial
 enschedule
 exomphalous
@@ -6071,6 +6070,7 @@ enlodge
 estuary
 endocystitis
 enlumine
+economist
 exudative
 ergoplasm
 excommunicant
