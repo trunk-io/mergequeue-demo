@@ -253,6 +253,7 @@ downtowner
 duckweeds
 deepmost
 daggling
+decollating
 dragman
 decahedra
 daghesh
@@ -6712,7 +6713,6 @@ dispand
 dribbed
 doubly
 dreng
-decollating
 destructory
 deceased
 dihedral
