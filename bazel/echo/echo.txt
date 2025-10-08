@@ -1521,7 +1521,6 @@ embuia
 eucaines
 epicure
 eff
-estampage
 emissaries
 estopped
 echevaria
@@ -5153,6 +5152,7 @@ encyclic
 erava
 essonite
 ergotist
+estampage
 electrostatic
 epicist
 eastings
