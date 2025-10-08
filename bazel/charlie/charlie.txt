@@ -10849,6 +10849,7 @@ cinnoline
 chip
 chipchop
 chinsing
+crosshackle
 chipewyan
 curiosity
 chipmunk
@@ -29922,7 +29923,6 @@ crossfired
 craniodidymus
 crossfish
 crossfoot
-crosshackle
 chordamesoderm
 coheads
 cogwheel
