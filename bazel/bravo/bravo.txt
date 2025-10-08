@@ -12372,7 +12372,6 @@ buglers
 bandurrias
 bourout
 basiliscus
-bugged
 bluebeard
 beldame
 beld
@@ -13834,6 +13833,7 @@ buffet
 blesseder
 broncholemmitis
 bedlam
+bugged
 bogs
 boatful
 bosselation
