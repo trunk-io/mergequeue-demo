@@ -1959,7 +1959,6 @@ bronchocele
 bandcutter
 bhaiachara
 bottlemaking
-banisher
 bioastronautical
 bemoaning
 banishing
@@ -9246,6 +9245,7 @@ britisher
 boroughmonger
 biped
 bipedal
+banisher
 blunderheadedness
 bipedality
 baiginet
