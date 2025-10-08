@@ -2116,7 +2116,6 @@ diabolology
 drawspan
 downtime
 disturbs
-diosmosis
 decantist
 deadpay
 decaffeinated
@@ -15681,6 +15680,7 @@ demonetisation
 debouchment
 dactyloscopy
 diagnostically
+diosmosis
 depositories
 divaporation
 deflorate
