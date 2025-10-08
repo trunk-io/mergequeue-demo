@@ -2888,7 +2888,6 @@ brighid
 beslab
 broad
 barrelled
-billfish
 barrelmaker
 boules
 brassavola
@@ -7102,6 +7101,7 @@ bespouse
 booties
 backstick
 backsets
+billfish
 brashest
 bespray
 ballute
