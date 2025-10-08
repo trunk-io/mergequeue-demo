@@ -2479,7 +2479,6 @@ dehumidify
 distingue
 dorn
 disjudication
-declass
 disjasket
 dweller
 derringer
@@ -7428,6 +7427,7 @@ deturpate
 demurity
 dopster
 diaconal
+declass
 dizenment
 deuces
 detested
