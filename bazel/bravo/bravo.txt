@@ -3010,7 +3010,6 @@ bsf
 biome
 bartonella
 barkantine
-backswordsman
 bookbinderies
 bartree
 banish
@@ -4397,6 +4396,7 @@ becloak
 bereavement
 becoiffed
 bulkiness
+backswordsman
 beclogs
 bretonian
 bilabials
