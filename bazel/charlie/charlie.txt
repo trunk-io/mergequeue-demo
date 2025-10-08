@@ -1862,6 +1862,7 @@ cuir
 calumnia
 cambric
 cartonnage
+cubiculum
 cirrocumulus
 cambricleaf
 colobus
@@ -9552,7 +9553,6 @@ checksumming
 chasid
 castro
 chromogenous
-cubiculum
 capacitively
 checkweighmen
 colonial
