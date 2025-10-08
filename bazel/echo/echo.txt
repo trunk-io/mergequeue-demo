@@ -2369,7 +2369,6 @@ envelopments
 ethnotechnics
 eyliad
 elderly
-energist
 electrodeposition
 entrepreneurship
 electrodes
@@ -7351,6 +7350,7 @@ enstool
 extollment
 everywhither
 entoplasm
+energist
 earthmoving
 easters
 epembryonic
