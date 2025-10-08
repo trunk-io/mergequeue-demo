@@ -21505,7 +21505,6 @@ chemicalize
 cementlike
 cyetic
 calybite
-caseful
 candelabrums
 congestions
 concoct
@@ -25216,6 +25215,7 @@ corymbiate
 corymbiated
 craylet
 coachlet
+caseful
 corymblike
 culturization
 corymbose
