@@ -5513,7 +5513,6 @@ entheasm
 earthquake
 enamellar
 entoil
-excipular
 euxenite
 enculturated
 exosmoses
@@ -12046,6 +12045,7 @@ ellipse
 edgemaking
 ecoclimate
 econometrical
+excipular
 epipelagic
 echocardiogram
 emigres
