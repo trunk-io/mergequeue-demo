@@ -3155,6 +3155,7 @@ drool
 disaccord
 defenceable
 desexing
+docked
 dirty
 dekle
 defencive
@@ -15616,7 +15617,6 @@ doorhead
 doorknob
 debord
 disrobing
-docked
 dummy
 dipperful
 daintified
