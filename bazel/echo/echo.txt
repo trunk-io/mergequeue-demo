@@ -1099,6 +1099,7 @@ expilator
 edestin
 estuaries
 eutomous
+extraboldface
 ephemerid
 endosternite
 edoni
@@ -13574,7 +13575,6 @@ extendedly
 exceptive
 extending
 ears
-extraboldface
 eclating
 entangled
 ethnomusicologically
