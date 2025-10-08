@@ -8346,7 +8346,6 @@ blowpoint
 buzukis
 beatster
 benzocoumaran
-bignou
 burrawang
 betask
 brasswork
@@ -9463,6 +9462,7 @@ bravers
 breechloading
 bedlids
 botanicas
+bignou
 begeck
 blintz
 bacteriostat
