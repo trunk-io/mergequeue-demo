@@ -5495,7 +5495,6 @@ exterminate
 effectful
 equiponderance
 evaporite
-encourage
 enfeoffing
 entheasm
 earthquake
@@ -5597,6 +5596,7 @@ embarrasses
 epicritic
 enforth
 edentates
+encourage
 epiploon
 ensnarers
 exhibitorial
