@@ -4019,7 +4019,6 @@ eutherian
 ethylbenzene
 ecthymata
 ectotheca
-erythrocyte
 euthymy
 equitant
 electroextraction
@@ -7868,6 +7867,7 @@ expired
 eidola
 eulogia
 eclampsia
+erythrocyte
 exfigure
 enclavement
 excoriable
