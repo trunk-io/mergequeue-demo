@@ -3912,7 +3912,6 @@ extraspherical
 eyepit
 ealdorman
 empall
-excurvation
 elihu
 empanelling
 estrogenicity
@@ -10077,6 +10076,7 @@ exacerbations
 equus
 embowing
 escheve
+excurvation
 exheredation
 estheses
 exemplifier
