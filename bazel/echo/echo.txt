@@ -2440,6 +2440,7 @@ entente
 euphrosyne
 epiploce
 escapement
+excyst
 endows
 eleve
 ephas
@@ -6670,7 +6671,6 @@ eppy
 existents
 enneapetalous
 epiphragm
-excyst
 equerries
 enterosepsis
 enterotoxemia
