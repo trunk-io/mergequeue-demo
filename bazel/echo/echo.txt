@@ -6357,7 +6357,6 @@ emulsic
 epist
 enunciator
 eluvivia
-elapid
 ejido
 ebcd
 eulachons
@@ -13244,6 +13243,7 @@ eryopsid
 ethereal
 exploded
 empierce
+elapid
 endophragm
 estranger
 ethylsulphuric
