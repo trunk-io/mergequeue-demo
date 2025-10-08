@@ -9094,7 +9094,6 @@ canadianization
 charras
 charred
 caricatures
-cimeter
 charrette
 consenescence
 charrier
@@ -11831,6 +11830,7 @@ cooperage
 chopstick
 cakes
 cultch
+cimeter
 childre
 cagn
 choragi
