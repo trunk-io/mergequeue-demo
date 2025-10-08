@@ -2493,7 +2493,6 @@ eatable
 equipped
 electrometallurgist
 emptiable
-elding
 electrometer
 euhemerizing
 exstrophy
@@ -3655,6 +3654,7 @@ educations
 elements
 esthesioblast
 emmenagogic
+elding
 embryotega
 etherialise
 embryotegae
