@@ -8417,7 +8417,6 @@ antilog
 anthraxylon
 albicore
 avogram
-arrangeable
 alkalinuria
 autodepolymerization
 apotheosizing
@@ -9134,6 +9133,7 @@ acrocarpi
 abide
 abscise
 ambrose
+arrangeable
 allomerous
 ardeae
 almice
