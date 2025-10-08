@@ -4454,7 +4454,6 @@ carmot
 carn
 carnacian
 chortling
-carnages
 casamarca
 carnalite
 culverin
@@ -31240,6 +31239,7 @@ curate
 curates
 curatess
 curation
+carnages
 cutworks
 curative
 curatorium
