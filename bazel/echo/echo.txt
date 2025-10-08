@@ -6786,7 +6786,6 @@ emotes
 emcee
 exoticism
 exalted
-ectopistes
 enumerating
 entombs
 eviscerator
@@ -11853,6 +11852,7 @@ ergates
 embryonally
 epically
 extropical
+ectopistes
 excitosecretory
 emits
 enamouring
