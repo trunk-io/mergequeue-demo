@@ -4606,6 +4606,7 @@ entailed
 exodromy
 energico
 euphoniad
+ensure
 electrothermometer
 exomphalos
 erotica
@@ -10126,7 +10127,6 @@ excitator
 eutectoid
 etesian
 enframing
-ensure
 epanodos
 eulachon
 exantlate

@@ -2337,7 +2337,6 @@ bilertinned
 buffed
 barcella
 biopic
-barcelona
 boxwork
 blip
 barcone
@@ -16461,6 +16460,7 @@ biblist
 bluenoser
 blarney
 bloodshotten
+barcelona
 blanched
 bendys
 brumal
