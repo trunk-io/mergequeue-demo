@@ -5898,7 +5898,6 @@ condottieri
 cathay
 cathayan
 cathar
-countersense
 cathari
 coronachs
 catharina
@@ -24648,6 +24647,7 @@ clum
 coplanarities
 copleased
 coplot
+countersense
 comoquer
 cauqui
 coplotter
