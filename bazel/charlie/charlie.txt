@@ -2263,7 +2263,6 @@ completer
 cromorne
 cirrate
 canalboat
-charales
 canale
 canaled
 cobs
@@ -2630,6 +2629,7 @@ chidingness
 canidia
 carbonylation
 chargedness
+charales
 cardiatrophia
 canikins
 cephalocereus
