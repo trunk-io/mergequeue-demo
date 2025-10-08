@@ -484,7 +484,6 @@ decistere
 darkled
 distilling
 dustblu
-disrupter
 dusts
 drupes
 dieldrins
@@ -1937,6 +1936,7 @@ disyllabism
 deburr
 decanally
 debused
+disrupter
 doohickey
 debusing
 danger
