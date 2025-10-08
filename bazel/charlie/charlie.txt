@@ -8452,7 +8452,6 @@ citellus
 crookeder
 confiscator
 choribi
-cuttable
 chamoisette
 cumbers
 chamoisite
@@ -14201,6 +14200,7 @@ cavaedium
 circumambiency
 circumambient
 circumambulate
+cuttable
 compose
 cuisinier
 culinary
