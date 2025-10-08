@@ -5319,6 +5319,7 @@ exosepsis
 expatriations
 endocline
 ensnow
+excludable
 enwingly
 endeavoring
 elephantous
@@ -6466,7 +6467,6 @@ eurythmics
 epimere
 erubescence
 escutcheon
-excludable
 estimative
 excavatorial
 ephemeric
