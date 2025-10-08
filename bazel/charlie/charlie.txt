@@ -10668,7 +10668,6 @@ clacket
 cholinesterase
 chiminage
 chimla
-cercopid
 chimleys
 cynicalness
 cutlass
@@ -24205,6 +24204,7 @@ concertantes
 colleterial
 claught
 compost
+cercopid
 convocations
 convocative
 convocator
