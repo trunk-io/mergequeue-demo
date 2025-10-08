@@ -13696,6 +13696,7 @@ externs
 elong
 exhaustedness
 elocular
+enumerated
 environs
 elementarity
 epicarid
