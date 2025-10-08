@@ -10159,7 +10159,6 @@ bosun
 blabbermouth
 blabbermouths
 blabbers
-burglars
 blabbing
 backswordman
 blabmouth
@@ -10727,6 +10726,7 @@ bichlorides
 bewash
 belt
 bonebreaker
+burglars
 blearyeyedness
 begarnish
 blearing
