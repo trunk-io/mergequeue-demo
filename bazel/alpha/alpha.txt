@@ -8088,7 +8088,6 @@ andorran
 aliases
 aurantiaceous
 anthracotic
-afft
 anight
 algorab
 arbith
@@ -12060,6 +12059,7 @@ anatase
 acquisitions
 actinostome
 adjustment
+afft
 atloid
 anatases
 acerbityacerose

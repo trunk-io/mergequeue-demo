@@ -1075,7 +1075,6 @@ barless
 bloodnoun
 buxine
 barbone
-bordermark
 bairnish
 bairnly
 branky
@@ -3018,6 +3017,7 @@ bedding
 baruch
 bitten
 baryon
+bordermark
 briery
 bivalence
 bellows
