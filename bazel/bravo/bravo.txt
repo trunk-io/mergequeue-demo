@@ -387,7 +387,6 @@ balkily
 brewery
 bovarist
 backhaul
-backhoe
 backhooker
 bemoans
 backhouses
@@ -1193,6 +1192,7 @@ blackshirt
 bakshishes
 benedick
 bouzouki
+backhoe
 bediaper
 barathron
 befuddlers
