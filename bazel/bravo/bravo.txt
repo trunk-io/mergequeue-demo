@@ -3695,7 +3695,6 @@ befouler
 blasty
 bloodbird
 beachwear
-bourdis
 batture
 bielded
 barasingha
@@ -7790,6 +7789,7 @@ bazaars
 bicephalous
 brasil
 bifilar
+bourdis
 biface
 bandersnatch
 brandify
