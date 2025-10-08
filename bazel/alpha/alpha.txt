@@ -11341,7 +11341,6 @@ aitkenite
 aircrewman
 aurine
 antonina
-agonistarch
 amphigaean
 asperite
 anhydridization
@@ -12669,6 +12668,7 @@ aeronomist
 arpeggiation
 annus
 angela
+agonistarch
 ausformed
 ameliorated
 alliterator
