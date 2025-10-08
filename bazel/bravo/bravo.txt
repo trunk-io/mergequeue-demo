@@ -9697,7 +9697,6 @@ barberish
 bindle
 bishopstool
 bishopweed
-bobbinets
 bandaite
 bestir
 benison
@@ -10362,6 +10361,7 @@ bladderet
 bladderlike
 bladderwort
 blading
+bobbinets
 beleaguerer
 bellmaker
 bosporian

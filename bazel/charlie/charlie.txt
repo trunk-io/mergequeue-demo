@@ -3397,7 +3397,6 @@ craniovertebral
 capsella
 choleric
 coalitionist
-capshore
 capsian
 cuca
 challah
@@ -13614,6 +13613,7 @@ cimbrian
 cimbric
 connect
 canalised
+capshore
 cyme
 cimelium
 crista
