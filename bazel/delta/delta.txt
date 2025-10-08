@@ -2365,7 +2365,6 @@ doable
 decylic
 drouth
 dorsiparous
-deciliter
 druidry
 doodads
 dispelled
@@ -9601,6 +9600,7 @@ diaconicum
 driftpins
 dogmeat
 diddering
+deciliter
 diguanide
 derives
 driftfishes
