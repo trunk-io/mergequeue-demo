@@ -3984,6 +3984,7 @@ bom
 bakeoven
 banditti
 barebones
+bombycinous
 bulanda
 beeve
 bedrock
@@ -10430,7 +10431,6 @@ besnows
 behovely
 biggest
 bramantip
-bombycinous
 bootholder
 balsamo
 blackmails
