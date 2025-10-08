@@ -3499,7 +3499,6 @@ diethylamine
 demidigested
 darkskin
 dingles
-dermatotome
 drawbeam
 duffies
 dissheathe
@@ -4555,6 +4554,7 @@ demijambe
 discriminant
 dukhobor
 dynastically
+dermatotome
 demilawyer
 diwans
 demilitarisation
