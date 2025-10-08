@@ -791,7 +791,6 @@ electrodiagnoses
 elsholtzia
 extensity
 ephebeibeia
-effacer
 ephemeran
 enumeration
 event
@@ -4639,6 +4638,7 @@ emmet
 ebauche
 elastomers
 erpetology
+effacer
 ecphova
 elogy
 epiphytal
