@@ -5585,6 +5585,7 @@ beknighted
 ballistite
 buffer
 burrio
+beginger
 beleaps
 basophile
 biotype
@@ -8205,7 +8206,6 @@ benchfellow
 bimahs
 bangers
 bakings
-beginger
 bifluoride
 balanocele
 berith
