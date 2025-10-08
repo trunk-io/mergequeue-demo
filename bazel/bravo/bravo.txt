@@ -12301,7 +12301,6 @@ brake
 briefless
 byssiferous
 bolt
-boltage
 blueleg
 biasses
 boltcutter
@@ -14808,6 +14807,7 @@ basketmaker
 bahamas
 bipolar
 bradycrotic
+boltage
 braves
 bowdlerizes
 bravi
