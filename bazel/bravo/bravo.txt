@@ -2906,6 +2906,7 @@ barrelmaker
 boules
 brassavola
 barrelwise
+benzoxate
 barren
 billowed
 bonus
@@ -6350,7 +6351,6 @@ benzalethylamine
 benzalphenylhydrazone
 ballet
 benzamide
-benzoxate
 badgerbrush
 bortz
 benzamine
