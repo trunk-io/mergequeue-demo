@@ -4859,7 +4859,6 @@ broadhead
 bomarea
 bullsnake
 beechwood
-bejumble
 bright
 baskets
 belaud
@@ -10257,6 +10256,7 @@ beaverlike
 bottomlessness
 bemuslined
 bityite
+bejumble
 benty
 bachelorwise
 blackjack
