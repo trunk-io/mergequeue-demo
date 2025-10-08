@@ -3959,7 +3959,6 @@ brython
 boilermaking
 begladding
 butcheries
-beaked
 beakerman
 bellite
 brainpower
@@ -5460,6 +5459,7 @@ barnacled
 baviere
 balai
 borderland
+beaked
 bonhommie
 broll
 bandying
