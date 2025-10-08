@@ -8161,6 +8161,7 @@ datafile
 diadkokinesia
 diadochi
 deflesh
+dualizes
 dados
 disspreading
 diadochy
@@ -17638,7 +17639,6 @@ destroyable
 diaphoretics
 dimerisms
 domiciliating
-dualizes
 dualmutef
 dualogue
 dacelonine
