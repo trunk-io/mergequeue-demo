@@ -11948,6 +11948,7 @@ choriamb
 choriambic
 cooperant
 coaggregated
+callisection
 choriambus
 choric
 chorines
@@ -28871,7 +28872,6 @@ cretaceously
 cretan
 covariables
 cretefaction
-callisection
 canulates
 creticism
 coturnix
