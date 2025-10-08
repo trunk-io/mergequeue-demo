@@ -5936,7 +5936,6 @@ circumflexes
 cathect
 chordata
 cowyard
-cathected
 cathection
 cathects
 conjoint
@@ -19910,6 +19909,7 @@ cometary
 cryobiology
 cometaria
 cabulla
+cathected
 cocineras
 cometlike
 cometography
