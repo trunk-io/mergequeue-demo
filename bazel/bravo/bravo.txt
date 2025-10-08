@@ -6256,6 +6256,7 @@ bosporus
 bassaris
 buttonholder
 blastogenesis
+boniness
 barracking
 bubas
 brush
@@ -7818,7 +7819,6 @@ bibi
 bonneted
 bluegrass
 baptistry
-boniness
 basketmaking
 bunchier
 bunn
