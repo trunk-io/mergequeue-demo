@@ -2038,7 +2038,6 @@ bronchus
 blesses
 bannerols
 bannisters
-bannock
 bilboquet
 bathyal
 blunges
@@ -4731,6 +4730,7 @@ belast
 burglarizes
 barque
 balminess
+bannock
 birdbrain
 bibracteate
 billfold
