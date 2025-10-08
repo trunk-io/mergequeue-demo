@@ -7301,7 +7301,6 @@ boatels
 bootstrap
 bethink
 boatswain
-bunglers
 balaenoptera
 bocklogged
 biochemistry
@@ -9913,6 +9912,7 @@ banderols
 baldpated
 bitmap
 buccaneering
+bunglers
 bunking
 brooches
 benzantialdoxime
