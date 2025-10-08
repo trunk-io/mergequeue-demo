@@ -2976,7 +2976,6 @@ confronts
 cantraip
 cantraps
 chaine
-chares
 curlyheads
 chalcidiform
 capitonidae
@@ -15368,6 +15367,7 @@ critturs
 coexist
 clangingly
 corticoefferent
+chares
 corridored
 cookish
 clangors
