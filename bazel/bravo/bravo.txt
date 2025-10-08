@@ -13966,7 +13966,6 @@ bacalaos
 baptizee
 bowsman
 bows
-becard
 breastplough
 bowsaw
 bombs
@@ -14006,6 +14005,7 @@ boxcars
 bishopful
 barwing
 billete
+becard
 balases
 bedlamps
 bowsie
