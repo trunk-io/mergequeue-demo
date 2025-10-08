@@ -1814,6 +1814,7 @@ containers
 cologne
 cotwin
 calicoed
+coverlet
 causans
 chickling
 cyanophil
@@ -8677,7 +8678,6 @@ confabulation
 chantry
 chanukah
 chaori
-coverlet
 credibilities
 chaotic
 coccoid
