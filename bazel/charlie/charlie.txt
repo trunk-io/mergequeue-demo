@@ -3278,6 +3278,7 @@ clef
 caponata
 chloroacetic
 cultuses
+confused
 caponette
 caponiere
 cytulae
@@ -17865,7 +17866,6 @@ chrestomathy
 cachaemia
 codheaded
 codiales
-confused
 chlamys
 camas
 codicils
