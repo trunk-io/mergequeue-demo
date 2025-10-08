@@ -980,7 +980,6 @@ caprelline
 cormorants
 calappidae
 coker
-calas
 colourtype
 cohoba
 calascione
@@ -24784,6 +24783,7 @@ copsy
 copter
 cyclomania
 copters
+calas
 choriomas
 concert
 coprostasis
