@@ -4114,7 +4114,6 @@ armorers
 amens
 agists
 archy
-arquebusier
 amalgamable
 advocatrix
 analyzer
@@ -5961,6 +5960,7 @@ axunge
 aceturic
 anteversion
 astream
+arquebusier
 addisonian
 astronomical
 alcornoque
