@@ -10976,6 +10976,7 @@ biorbital
 bombers
 bestorm
 blindstories
+bouse
 brede
 blindworm
 bywoner
@@ -13777,7 +13778,6 @@ bdellostomidae
 bulimiac
 bookplate
 buffy
-bouse
 bullcart
 boused
 balija
