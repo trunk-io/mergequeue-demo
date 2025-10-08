@@ -989,7 +989,6 @@ calathi
 chamberlainship
 calathiform
 calathos
-capsulated
 cher
 compression
 calatrava
@@ -3434,6 +3433,7 @@ capsulogenous
 cataphyllum
 capsulolenticular
 capsulopupillary
+capsulated
 cochlearifoliate
 chromospheres
 cycloplegia
