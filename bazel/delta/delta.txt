@@ -2603,7 +2603,6 @@ decommission
 decommissioned
 dozers
 destroys
-deepens
 discernably
 decompensating
 densifying
@@ -10566,6 +10565,7 @@ decrowns
 denote
 dislikes
 decompensates
+deepens
 disequilibrium
 diatomaceous
 domiciliary
