@@ -1991,7 +1991,6 @@ bethought
 banknote
 bristly
 biophysicist
-banknotes
 brasserie
 boomster
 brandsolder
@@ -4465,6 +4464,7 @@ becrusting
 bhakti
 bastardization
 becudgeling
+banknotes
 bae
 bandolero
 banditism
