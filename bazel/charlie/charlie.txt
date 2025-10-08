@@ -4858,6 +4858,7 @@ carsickness
 clash
 caviteno
 carrottop
+coelector
 carstone
 cart
 culture
@@ -17964,7 +17965,6 @@ coelebogyne
 coelect
 cystonephrosis
 coelection
-coelector
 cloacean
 cattle
 cephalomyitis
