@@ -8184,7 +8184,6 @@ disempower
 dasyure
 demurrer
 droddum
-dyadics
 datafile
 diadkokinesia
 diadochi
@@ -9651,6 +9650,7 @@ destructs
 derogatorily
 dissight
 dipoles
+dyadics
 deciatine
 dentiloquy
 disparity
