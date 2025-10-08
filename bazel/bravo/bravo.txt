@@ -1188,7 +1188,6 @@ beds
 bittersweetness
 buxbaumia
 baldachined
-beeswaxes
 blackshirt
 bakshishes
 benedick
@@ -17074,6 +17073,7 @@ broomtail
 bayman
 braces
 bulimus
+beeswaxes
 baler
 binoxide
 blephara
