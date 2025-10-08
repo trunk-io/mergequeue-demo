@@ -4999,7 +4999,6 @@ chimu
 cytozoon
 carvestrene
 carving
-carvings
 carvoeira
 carvoepra
 carwash
@@ -20282,6 +20281,7 @@ chalcolite
 crewelwork
 charivan
 commodiousness
+carvings
 conrad
 commodity
 chaetochloa
