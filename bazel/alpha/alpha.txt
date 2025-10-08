@@ -2277,7 +2277,6 @@ anthotropism
 amenity
 anorthoscope
 acidulate
-areometer
 acidulated
 alphabetiser
 acidulously
@@ -7286,6 +7285,7 @@ apnoea
 analogizing
 amebicidal
 acetylating
+areometer
 alveolonasal
 allness
 aeonic
