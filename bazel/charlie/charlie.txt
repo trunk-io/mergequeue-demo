@@ -8251,7 +8251,6 @@ chalcone
 chalcopyrite
 cosmonaut
 chalcosiderite
-chalcosine
 crocodilite
 coween
 calamity
@@ -11792,6 +11791,7 @@ crouse
 coasted
 cameoing
 chairmaned
+chalcosine
 contents
 concausal
 crenic
