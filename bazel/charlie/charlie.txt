@@ -7730,7 +7730,6 @@ certifiability
 categorematic
 cellarway
 certifiable
-certificate
 certificated
 certificates
 ceraunia
@@ -14873,6 +14872,7 @@ citoles
 club
 counterglow
 cytolist
+certificate
 cytolytic
 chian
 caci
