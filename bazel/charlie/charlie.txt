@@ -4659,7 +4659,6 @@ codpitchings
 collages
 caballeria
 carpeting
-carpetlayer
 carpetmaking
 clubability
 captivation
@@ -26491,6 +26490,7 @@ cotton
 chumpishness
 cogitantly
 cottoner
+carpetlayer
 calcination
 crockeries
 cottonization
