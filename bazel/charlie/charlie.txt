@@ -5287,7 +5287,6 @@ choosing
 cast
 castable
 castalian
-calycanth
 cardiopuncture
 cupreine
 chertier
@@ -28018,6 +28017,7 @@ canopy
 criticsm
 conditory
 cyclostomi
+calycanth
 careen
 caprid
 craniopuncture
