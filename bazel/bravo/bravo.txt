@@ -3531,6 +3531,7 @@ bathometer
 blockmaking
 bathool
 boomkins
+barres
 bathophobia
 biocoenose
 bathrobes
@@ -9847,7 +9848,6 @@ borg
 blackfishing
 bewitching
 barleymow
-barres
 brachypleural
 bedimpled
 bartender
