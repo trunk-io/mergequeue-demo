@@ -1955,7 +1955,6 @@ baning
 bronchocele
 bandcutter
 bhaiachara
-baryte
 bottlemaking
 banisher
 bioastronautical
@@ -14523,6 +14522,7 @@ bodikin
 bananist
 brakeless
 brakeload
+baryte
 boatie
 bemotto
 builtin
