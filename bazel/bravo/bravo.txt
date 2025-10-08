@@ -1271,6 +1271,7 @@ bate
 bankfull
 beeherd
 bootleggers
+bipersonal
 blinter
 balanta
 bescorn
@@ -17427,7 +17428,6 @@ bunk
 begrudged
 becoming
 belinurus
-bipersonal
 bodingly
 belier
 bytownite
