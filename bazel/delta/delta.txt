@@ -534,6 +534,7 @@ dermaskeleton
 dama
 damageability
 deregister
+diskos
 disodic
 damageably
 detonatable
@@ -6727,7 +6728,6 @@ detestably
 diathermic
 desilvers
 demultiplex
-diskos
 daeva
 deregulationize
 discontinues
