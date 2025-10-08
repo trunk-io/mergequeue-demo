@@ -2908,7 +2908,6 @@ barrelled
 barrelmaker
 boules
 brassavola
-barrelwise
 benzoxate
 barren
 bowyang
@@ -17081,6 +17080,7 @@ breakables
 bioplast
 buggess
 bethinks
+barrelwise
 bulimy
 bulimias
 barracker
