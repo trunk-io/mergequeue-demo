@@ -902,6 +902,7 @@ chemotactically
 cakewalking
 cosmolabe
 carnotite
+cdf
 caky
 clientelage
 cajeputol
@@ -6554,7 +6555,6 @@ custodial
 caic
 charcuterie
 calamitoid
-cdf
 cheroot
 cdg
 cdr
