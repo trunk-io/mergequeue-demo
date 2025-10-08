@@ -17353,7 +17353,6 @@ crownland
 chemigraph
 cimline
 coassist
-coassistant
 calumniation
 cupola
 caulosarc
@@ -22768,6 +22767,7 @@ conoscopic
 conplane
 counterevidence
 cryosphere
+coassistant
 corv
 churchiest
 conquerer
