@@ -5671,6 +5671,7 @@ bacchar
 bilify
 belderroot
 borehole
+bisymmetrical
 bodgie
 beleapt
 bureaus
@@ -9316,7 +9317,6 @@ blockader
 browbeater
 biplane
 bobolink
-bisymmetrical
 biplanes
 bonavist
 birdwomen
