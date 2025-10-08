@@ -4636,7 +4636,6 @@ coverture
 carousals
 centrospermae
 carouse
-caroused
 catstane
 carp
 carpaine
@@ -4692,6 +4691,7 @@ clubability
 captivation
 carpets
 chant
+caroused
 concolorous
 carpetweb
 change
