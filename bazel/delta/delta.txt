@@ -3282,7 +3282,6 @@ deprecated
 dilatant
 deliriate
 desisted
-domesticable
 defoliant
 delegatus
 datiscoside
@@ -12400,6 +12399,7 @@ dishwasher
 dishwashers
 distemperature
 disgospelize
+domesticable
 dishwashings
 dibromobenzene
 doglegged
