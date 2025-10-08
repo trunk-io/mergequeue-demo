@@ -12529,7 +12529,6 @@ bondslave
 bondsman
 bondsmen
 bonify
-burgled
 bdls
 boolies
 betaines
@@ -15545,6 +15544,7 @@ beardlike
 bargeload
 brioches
 blase
+burgled
 briony
 bitwise
 babesiosis
