@@ -1043,7 +1043,6 @@ braggish
 bailiwicks
 bolete
 babyhouse
-buzzards
 bailors
 bestraddle
 barnage
@@ -15785,6 +15784,7 @@ byssus
 brodie
 boffs
 bicolor
+buzzards
 brogue
 bloodstroke
 becaps
