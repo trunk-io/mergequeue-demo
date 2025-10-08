@@ -6957,7 +6957,6 @@ barrico
 besiegers
 bushbashing
 brownistic
-bestrid
 beslobber
 bellical
 bugle
@@ -8924,6 +8923,7 @@ bandoras
 biocycles
 biocide
 breekless
+bestrid
 bookcases
 bioclimatic
 battak
