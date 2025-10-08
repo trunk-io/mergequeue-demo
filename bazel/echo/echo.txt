@@ -6891,7 +6891,6 @@ engrails
 endoskeletons
 equipoising
 editorially
-exiled
 elliptic
 experimentarian
 eudora
@@ -11491,6 +11490,7 @@ exacter
 emigrants
 eschewed
 electrolier
+exiled
 equipaga
 exacting
 excusator
