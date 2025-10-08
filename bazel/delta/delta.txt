@@ -4753,7 +4753,6 @@ demob
 detonize
 devi
 disremember
-dotlet
 democracy
 dims
 dentirostrate
@@ -12516,6 +12515,7 @@ digonous
 deplores
 diezeugmenon
 dyscrased
+dotlet
 departmentization
 dungier
 dacryocystotomy
