@@ -4390,7 +4390,6 @@ bulkiness
 backswordsman
 beclogs
 bretonian
-bilabials
 beclothe
 banting
 bonasus
@@ -15941,6 +15940,7 @@ barwise
 basified
 blockheadedness
 bajury
+bilabials
 bowel
 brazilianite
 bethwack
