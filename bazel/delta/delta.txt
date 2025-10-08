@@ -3606,7 +3606,6 @@ debacles
 degorge
 drought
 doneness
-degraded
 degradement
 dozing
 depsid
@@ -12552,6 +12551,7 @@ disintegrators
 dextrer
 disintegrity
 disinter
+degraded
 depositaries
 dyotheletian
 disinterestedly
