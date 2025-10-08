@@ -15223,7 +15223,6 @@ commandries
 carburets
 chonchina
 cetraric
-contangos
 claibornian
 construal
 commanderies
@@ -30073,6 +30072,7 @@ crousely
 caucho
 croustade
 curriculum
+contangos
 cabbagewood
 crout
 cumbersomely
