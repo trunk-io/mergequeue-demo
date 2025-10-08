@@ -2589,6 +2589,7 @@ cornstarch
 composes
 caravanserial
 crowbill
+cottonee
 cobbers
 chimp
 canework
@@ -4740,7 +4741,6 @@ carpology
 corrosibility
 corynocarpaceae
 calicular
-cottonee
 carpometacarpal
 carpometacarpus
 carpompi
