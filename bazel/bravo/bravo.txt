@@ -1648,6 +1648,7 @@ brasiers
 balneotherapia
 bestock
 berdaches
+binaries
 bates
 bunty
 backpedal
@@ -3516,7 +3517,6 @@ brushy
 borers
 beclamor
 burny
-binaries
 battleground
 berkeleyite
 bien
