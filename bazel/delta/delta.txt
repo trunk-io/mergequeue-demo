@@ -6169,6 +6169,7 @@ disvaluation
 dermatonosus
 deles
 dotter
+disbanded
 derma
 dispells
 dermabrasion
@@ -17565,7 +17566,6 @@ diplocephalus
 drupel
 deoxidator
 decouple
-disbanded
 drupeole
 detacher
 domineerer
