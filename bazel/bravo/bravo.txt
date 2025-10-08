@@ -6080,7 +6080,6 @@ benchful
 benchman
 benchmark
 bacterioblast
-bacteriologic
 burnout
 bruskly
 briggsian
@@ -14032,6 +14031,7 @@ boxtop
 backachy
 blastman
 bluecup
+bacteriologic
 bolometrically
 bensel
 bozo
