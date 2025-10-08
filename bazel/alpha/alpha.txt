@@ -12473,7 +12473,6 @@ arccosine
 aleyard
 apasttra
 adipogenic
-auxotox
 anemochord
 acipenser
 anaboly
@@ -12755,6 +12754,7 @@ anviltop
 aerobating
 aubergine
 autoinoculable
+auxotox
 angiodermatitis
 asyle
 angiodiascopy
