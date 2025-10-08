@@ -5147,6 +5147,7 @@ extrapolate
 endoenzyme
 elytrorrhaphy
 equiponderation
+eryops
 epicarp
 empoisoned
 encyclic
@@ -10483,7 +10484,6 @@ engracing
 eyeleting
 embolismic
 enlief
-eryops
 egoizer
 excitingly
 eucrite
