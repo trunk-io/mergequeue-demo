@@ -5591,7 +5591,6 @@ bouleuterion
 borons
 beknighted
 ballistite
-buffer
 burrio
 beleaps
 brassicaceous
@@ -6254,6 +6253,7 @@ block
 beveling
 bookism
 basifier
+buffer
 blindfish
 battalions
 burkers
