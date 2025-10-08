@@ -3364,7 +3364,6 @@ epidosite
 ensiling
 eavedropper
 embark
-epichorial
 embarkations
 epitomize
 embarks
@@ -8414,6 +8413,7 @@ expressionistic
 eskimoid
 eventide
 epsom
+epichorial
 excisor
 entryways
 entrants
