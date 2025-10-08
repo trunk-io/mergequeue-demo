@@ -1771,6 +1771,7 @@ beleaped
 bergschrund
 beaverpelt
 bandala
+buba
 bandanaed
 breadroot
 bowdlerize
@@ -7563,7 +7564,6 @@ brakeages
 bewhiten
 beggarly
 branchless
-buba
 breed
 bewidow
 bulldozers
