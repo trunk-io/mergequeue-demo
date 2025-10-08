@@ -8995,7 +8995,6 @@ bossisms
 bewailers
 boulangist
 boreable
-biomes
 bummerish
 brattles
 bulrushlike
@@ -18154,6 +18153,7 @@ boschvark
 boogie
 bunco
 benching
+biomes
 butyn
 bacillicide
 besonnet
