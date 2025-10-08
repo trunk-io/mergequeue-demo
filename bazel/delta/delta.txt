@@ -10948,6 +10948,7 @@ diasystem
 demolish
 demand
 disaligned
+daguerreotypic
 deoxidization
 digenetic
 doorframe
@@ -11833,7 +11834,6 @@ delicatessens
 deathblow
 dehypnotized
 decumbency
-daguerreotypic
 disdein
 dardani
 dephlegmate
