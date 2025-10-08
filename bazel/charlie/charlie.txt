@@ -3074,7 +3074,6 @@ cooption
 cristatella
 cape
 chequerboard
-capeadores
 capel
 capelan
 colonoscopy
@@ -10505,6 +10504,7 @@ chileanization
 chileans
 chicnesses
 cirrhose
+capeadores
 chiles
 chyles
 chiliads
