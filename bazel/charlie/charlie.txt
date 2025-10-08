@@ -4914,7 +4914,6 @@ cartogram
 cartography
 cypseli
 cry
-circulet
 cornific
 carton
 cartoner
@@ -23244,6 +23243,7 @@ cajon
 clerestory
 cataractine
 cabernets
+circulet
 constructibility
 constructible
 construction
