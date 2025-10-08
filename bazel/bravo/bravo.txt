@@ -2983,6 +2983,7 @@ burrobrush
 bushfire
 boracium
 boomtown
+bolt
 boller
 beigel
 belee
@@ -12307,7 +12308,6 @@ button
 brake
 briefless
 byssiferous
-bolt
 blueleg
 biasses
 boltcutter
