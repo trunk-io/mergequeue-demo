@@ -8861,7 +8861,6 @@ columnize
 columbaries
 chanted
 clodbreaker
-cuniform
 contemplature
 characteristically
 characteristicalness
@@ -23676,6 +23675,7 @@ conjecturally
 contraceptive
 consultancy
 capmakers
+cuniform
 cuplike
 countableness
 contracyclical
