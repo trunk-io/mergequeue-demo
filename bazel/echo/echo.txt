@@ -936,7 +936,6 @@ electrophysiology
 excrementary
 ethmovomerine
 edaphon
-electrogenic
 epopoeist
 excel
 etamin
@@ -10996,6 +10995,7 @@ entity
 etymons
 epitomatory
 ecuelle
+electrogenic
 egotizing
 epexegetical
 evacuations
