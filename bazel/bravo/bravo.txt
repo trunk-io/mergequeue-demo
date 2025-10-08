@@ -4302,6 +4302,7 @@ bellona
 blackseed
 barges
 bromhydric
+barricados
 blockishness
 beche
 bankshall
@@ -14705,7 +14706,6 @@ brulyie
 bibliomancy
 barmaids
 balletically
-barricados
 bogle
 brasilins
 bever
