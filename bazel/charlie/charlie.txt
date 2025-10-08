@@ -2764,7 +2764,6 @@ canoeist
 canoeload
 canoes
 cardiogenesis
-cryptoanalyst
 cukes
 completes
 canoewood
@@ -21319,6 +21318,7 @@ concertato
 concertatos
 cusinero
 concerted
+cryptoanalyst
 concertedness
 cicatrose
 curtseys
