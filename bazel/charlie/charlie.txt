@@ -213,7 +213,6 @@ cabresto
 cabrestos
 cabreuva
 cotillage
-carpological
 cabrilla
 cabrillas
 cabs
@@ -716,6 +715,7 @@ causations
 cleaning
 capacitations
 crimpiness
+carpological
 corners
 cages
 cagester
