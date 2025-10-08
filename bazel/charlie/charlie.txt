@@ -16203,7 +16203,6 @@ cullible
 clinandrdria
 chaulmoograte
 capitana
-chromatocyte
 circuities
 clinched
 cynics
@@ -30423,6 +30422,7 @@ cadelle
 cantaloupe
 csch
 csect
+chromatocyte
 cpu
 cholecystectomies
 csmp
