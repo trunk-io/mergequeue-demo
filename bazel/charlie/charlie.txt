@@ -11510,6 +11510,7 @@ compester
 castra
 cottage
 chokedamp
+chn
 chokeys
 camerata
 coahuiltecan
@@ -25994,7 +25995,6 @@ cantiga
 corvus
 commissars
 cosaque
-chn
 cose
 capsized
 creatorrhea
