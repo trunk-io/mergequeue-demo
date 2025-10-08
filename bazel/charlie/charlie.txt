@@ -4781,7 +4781,6 @@ coyure
 cityscapes
 crakes
 carri
-cetaceous
 causse
 carry
 carriageable
@@ -18091,6 +18090,7 @@ convector
 cephalosporin
 communality
 capouch
+cetaceous
 cherty
 coenesthesia
 coenflame
