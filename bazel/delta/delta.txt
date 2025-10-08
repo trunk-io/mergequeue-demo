@@ -4771,6 +4771,7 @@ dynode
 darwin
 denaturization
 dpt
+diapirs
 dilated
 dismasts
 detours
@@ -11318,7 +11319,6 @@ dumpcart
 deuterogenesis
 dissatisfy
 drumbler
-diapirs
 denying
 daggerproof
 dugdug
