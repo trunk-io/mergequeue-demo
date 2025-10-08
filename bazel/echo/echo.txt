@@ -10445,7 +10445,6 @@ ethmose
 euphonon
 equips
 esprits
-emanator
 elpidite
 elixation
 eastlin
@@ -12543,6 +12542,7 @@ englante
 erythrina
 eclegme
 exogen
+emanator
 exercent
 eunuchoid
 earldom
