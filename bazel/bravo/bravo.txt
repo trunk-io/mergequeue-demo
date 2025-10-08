@@ -447,7 +447,6 @@ bichrome
 bushwas
 bowstringed
 bewrought
-backscatter
 backscattered
 backscattering
 bacterioprotein
@@ -9076,6 +9075,7 @@ biophilous
 biophysic
 biophysiography
 bleary
+backscatter
 bromopikrin
 behearse
 balibuntal
