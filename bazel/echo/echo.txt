@@ -2215,6 +2215,7 @@ encyclopedian
 eisteddfodau
 epauletted
 electress
+elderman
 epiploic
 excessive
 eutectic
@@ -5497,7 +5498,6 @@ environ
 embowered
 ejaculates
 encircles
-elderman
 enervating
 elritch
 equidivision
