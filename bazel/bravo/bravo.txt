@@ -3972,7 +3972,6 @@ burglarproofing
 buchu
 brutify
 battleship
-bom
 bakeoven
 banditti
 barebones
@@ -11245,6 +11244,7 @@ bairns
 bumelia
 brutalised
 bloodwite
+bom
 bologna
 bailee
 barkometer
