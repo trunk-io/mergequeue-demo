@@ -2587,6 +2587,7 @@ decolors
 daric
 decolouration
 dipterad
+dfault
 daedalean
 denunciated
 dogmatism
@@ -10412,7 +10413,6 @@ diotic
 dyewood
 debutantes
 dioxan
-dfault
 deejays
 denitrifier
 doldrum
