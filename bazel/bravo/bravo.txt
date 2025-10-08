@@ -5698,6 +5698,7 @@ briggs
 bombasine
 bagataway
 bora
+bnf
 butterback
 bausond
 bonytail
@@ -13579,7 +13580,6 @@ boondoggle
 besplatter
 botulisms
 bullsucker
-bnf
 bilgiest
 butcherdom
 befoam
