@@ -5532,7 +5532,6 @@ astragalomancy
 actinula
 aminoaciduria
 asquare
-available
 anteriorly
 appressorium
 acajous
@@ -10731,6 +10730,7 @@ amyroot
 amirs
 archegay
 accessors
+available
 ataraxic
 arditi
 anatripsology
