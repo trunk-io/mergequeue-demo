@@ -2807,7 +2807,6 @@ catapult
 carboxyhemoglobin
 comitium
 cetorhinoid
-canonizer
 canonizes
 canonry
 crossways
@@ -5834,6 +5833,7 @@ catenating
 catenation
 catenative
 content
+canonizer
 capomo
 catenoid
 catenulate
