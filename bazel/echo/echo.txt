@@ -6848,7 +6848,6 @@ equipments
 embelif
 emergencies
 excavators
-embossman
 eucalyn
 epitrchelia
 elutriation
@@ -12702,6 +12701,7 @@ epicranium
 estate
 elytroposis
 eructating
+embossman
 ethnics
 emboite
 epitheton
