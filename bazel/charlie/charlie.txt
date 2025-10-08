@@ -11265,6 +11265,7 @@ chantier
 chloroacetone
 childe
 contaminants
+calamined
 conservation
 chloroamide
 chloroamine
@@ -25330,7 +25331,6 @@ clistocarp
 circumfusile
 commemorating
 corncakes
-calamined
 corncobs
 condores
 cams
