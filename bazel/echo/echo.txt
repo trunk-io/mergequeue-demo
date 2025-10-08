@@ -7624,7 +7624,6 @@ encell
 embannered
 elegiambic
 epicrasis
-equinal
 evestar
 enemylike
 enringed
@@ -11501,6 +11500,7 @@ exactors
 equimomental
 elasmobranch
 eluviums
+equinal
 elanus
 electromechanics
 endosmic
