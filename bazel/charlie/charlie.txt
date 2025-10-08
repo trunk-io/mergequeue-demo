@@ -9126,7 +9126,6 @@ charterhouse
 chartering
 charterism
 charterless
-charters
 cursitate
 cryptograms
 cryptoprocta
@@ -17529,6 +17528,7 @@ corporealization
 centavos
 cooree
 convicted
+charters
 couplers
 coca
 curf
