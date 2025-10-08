@@ -3445,7 +3445,6 @@ doughmaker
 defensible
 dimout
 deformability
-delvers
 deformable
 darkey
 dibbing
@@ -10610,6 +10609,7 @@ dolven
 doorboy
 diplomaing
 decanonize
+delvers
 datapunch
 drudger
 deben
