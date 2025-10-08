@@ -2773,6 +2773,7 @@ canoeload
 canoes
 cardiogenesis
 cukes
+cyclops
 completes
 canoewood
 coincident
@@ -12024,7 +12025,6 @@ coheres
 choromanic
 cajolers
 chorook
-cyclops
 chorous
 chort
 chortle
