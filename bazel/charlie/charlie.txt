@@ -7500,7 +7500,6 @@ cytococcus
 coprophagist
 cimicidae
 ceratostomella
-cheliceral
 ceratotheca
 chondrocostal
 cypridinidae
@@ -9617,6 +9616,7 @@ cyathaspis
 correcting
 campaigns
 copyists
+cheliceral
 caingua
 cobaltite
 calcipexy
