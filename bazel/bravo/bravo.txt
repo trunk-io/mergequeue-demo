@@ -10119,6 +10119,7 @@ byzantine
 brasser
 bismillah
 bilander
+botling
 brigantine
 bizarreness
 bradynosus
@@ -13440,7 +13441,6 @@ bothway
 burgle
 bunched
 byth
-botling
 berried
 brumaire
 botone
