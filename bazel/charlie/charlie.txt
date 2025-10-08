@@ -2220,7 +2220,6 @@ centaurus
 corresponds
 canadite
 carlin
-companion
 casbah
 celtdom
 coquina
@@ -24264,6 +24263,7 @@ cerebrovascular
 convulsion
 conjugates
 conjuncture
+companion
 const
 cerebritis
 culminal
