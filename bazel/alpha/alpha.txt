@@ -17722,7 +17722,6 @@ applications
 artotype
 applicative
 applicatively
-applicatory
 applicators
 appliedly
 afterdischarge
@@ -21477,6 +21476,7 @@ alcedinidae
 arsino
 azimine
 asphyxiator
+applicatory
 anhalamine
 alterity
 abrades
