@@ -23,7 +23,6 @@ arrogations
 alcoholysis
 ab
 aethogen
-anaphoric
 artemon
 aftereye
 assort
@@ -3145,6 +3144,7 @@ allophylus
 autogeny
 audient
 assident
+anaphoric
 adventure
 advertisee
 abstersion
