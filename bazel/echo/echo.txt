@@ -9918,7 +9918,6 @@ epinician
 euptelea
 eternalised
 enweb
-extradict
 encodings
 epithalamus
 enrols
@@ -12489,6 +12488,7 @@ epitonium
 ectocinereal
 endostoma
 echidnidae
+extradict
 etheostoma
 ethnical
 effectualness
