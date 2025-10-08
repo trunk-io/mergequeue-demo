@@ -6467,7 +6467,6 @@ englishes
 entail
 enfonced
 egomaniacal
-endeavored
 epodic
 essayists
 entails
@@ -6911,6 +6910,7 @@ earwig
 extracivically
 entrainment
 engorged
+endeavored
 entrains
 emissaryship
 exorbitant
