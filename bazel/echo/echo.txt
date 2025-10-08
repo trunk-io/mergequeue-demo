@@ -2323,7 +2323,6 @@ egba
 equiprobable
 electrocolloidal
 embrocated
-enigma
 endovenous
 emoluments
 entomere
@@ -5222,6 +5221,7 @@ euphuizing
 earhole
 extension
 eponymic
+enigma
 esphresis
 euphonium
 eridanid
