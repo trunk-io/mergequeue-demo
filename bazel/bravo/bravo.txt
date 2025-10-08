@@ -4928,7 +4928,6 @@ balls
 barmier
 bactritoid
 beneplacito
-bray
 bellmouth
 bolases
 brilliantine
@@ -10437,6 +10436,7 @@ behovely
 bootholder
 balsamo
 blackmails
+bray
 blander
 bouton
 bookdom
