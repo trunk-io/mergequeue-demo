@@ -7455,6 +7455,7 @@ demurity
 dopster
 declass
 dizenment
+deplaceable
 deuces
 detested
 divvy
@@ -12062,7 +12063,6 @@ drepanaspis
 disentombment
 disclaimers
 daubries
-deplaceable
 disentrail
 dojiggy
 disentrancing
