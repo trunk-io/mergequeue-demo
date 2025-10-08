@@ -5160,6 +5160,7 @@ affies
 alphitomancy
 affile
 affiliating
+arabis
 apery
 attackable
 anapterygotous
@@ -23342,7 +23343,6 @@ antedating
 alopecoid
 accountrement
 aerogen
-arabis
 asmolder
 alabamide
 ameliorate
