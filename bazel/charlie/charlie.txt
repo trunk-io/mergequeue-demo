@@ -19400,6 +19400,7 @@ checkstone
 cellulolytic
 color
 creational
+crociate
 chinchier
 curratow
 clothing
@@ -29639,7 +29640,6 @@ clodded
 counterpotency
 croci
 criminaldom
-crociate
 crocidura
 connecter
 crock
