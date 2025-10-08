@@ -1905,6 +1905,7 @@ balances
 bandstring
 burlesk
 bathymetric
+bastions
 brandishes
 beeway
 benchwarmer
@@ -3380,7 +3381,6 @@ bastinado
 bastings
 blendure
 blepharopyorrhea
-bastions
 boughpot
 bef
 bastite
