@@ -4505,7 +4505,6 @@ basommatophorous
 blowbys
 balefire
 befogged
-beglamour
 bienness
 bater
 bracozzo
@@ -14302,6 +14301,7 @@ brainsickness
 byword
 boarding
 bulblet
+beglamour
 bronchiogenic
 brochidodromous
 bemuse
