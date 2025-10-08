@@ -3900,6 +3900,7 @@ emotioned
 emolument
 elevator
 emotivity
+excludable
 equipment
 enragedness
 exorability
@@ -5312,7 +5313,6 @@ exosepsis
 expatriations
 endocline
 ensnow
-excludable
 enwingly
 endeavoring
 elephantous
