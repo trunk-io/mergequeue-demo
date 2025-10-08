@@ -3919,7 +3919,6 @@ delayable
 demes
 delayer
 disembarks
-delayful
 deluder
 donzel
 dooli
@@ -11082,6 +11081,7 @@ disattune
 dumose
 defiling
 diplomacy
+delayful
 dropsical
 duodenectomy
 dysautonomia
