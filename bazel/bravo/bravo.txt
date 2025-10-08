@@ -3678,7 +3678,6 @@ battlewagon
 bendays
 bronchiectasis
 burling
-bovver
 bibliothque
 barranca
 bemist
@@ -17398,6 +17397,7 @@ bogledom
 bloodmobiles
 blksize
 bolden
+bovver
 bylawman
 bunger
 bromeigon
