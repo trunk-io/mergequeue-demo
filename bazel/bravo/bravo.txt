@@ -8572,6 +8572,7 @@ borderside
 billets
 brainlike
 bouviers
+boehmites
 bewreath
 brauneberger
 brachysm
@@ -12787,7 +12788,6 @@ booker
 boatkeeper
 bailsmen
 biometric
-boehmites
 bookhood
 bloodhounds
 belamcanda
