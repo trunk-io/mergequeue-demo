@@ -1248,6 +1248,7 @@ esthetics
 exopeptidase
 effective
 euryphagous
+equiprobabilism
 evaporated
 epimachinae
 exec
@@ -2962,7 +2963,6 @@ embind
 explait
 eremurus
 emony
-equiprobabilism
 exoterically
 eleatic
 efflorescing
