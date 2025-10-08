@@ -10108,6 +10108,7 @@ claves
 chesstree
 cerias
 chest
+cidaris
 curing
 currock
 chesterfield
@@ -13445,7 +13446,6 @@ confessionalist
 classifications
 cid
 chair
-cidaris
 cheatrie
 carbolating
 cymols
