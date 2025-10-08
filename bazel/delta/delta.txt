@@ -9257,6 +9257,7 @@ drawbridge
 diestrums
 disambiguations
 doability
+dosed
 daikering
 diurne
 disploding
@@ -15866,7 +15867,6 @@ doko
 daikers
 drainspout
 deadpanning
-dosed
 deiseal
 duckers
 delighting
