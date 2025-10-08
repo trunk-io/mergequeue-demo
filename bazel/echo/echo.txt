@@ -11050,6 +11050,7 @@ expunger
 enteromegalia
 entosterna
 eradiated
+ergal
 evangeliarium
 enalyron
 esteem
@@ -14030,7 +14031,6 @@ enthelminthic
 extrathermodynamic
 equationism
 excitonic
-ergal
 exactor
 encampment
 es
