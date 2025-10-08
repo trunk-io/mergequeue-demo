@@ -6705,7 +6705,6 @@ berlin
 brechan
 brontotherium
 bimotored
-bismuthine
 broomstaff
 blitter
 balaamitical
@@ -9502,6 +9501,7 @@ barricos
 biogenase
 basaltine
 boas
+bismuthine
 bemedaled
 bashes
 brit
