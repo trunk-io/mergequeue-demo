@@ -9008,7 +9008,6 @@ biomes
 bummerish
 brattles
 bulrushlike
-barsom
 bobbles
 biolinguistics
 bulges
@@ -9567,6 +9566,7 @@ bacteria
 besaint
 brontides
 banality
+barsom
 birthnight
 babblative
 biblioclast
