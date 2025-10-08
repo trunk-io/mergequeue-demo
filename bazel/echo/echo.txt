@@ -3369,7 +3369,6 @@ electorship
 embarring
 elaeocarpus
 echinid
-elementoid
 enteraden
 ethnarchy
 emetophobia
@@ -4863,6 +4862,7 @@ epenthetic
 english
 evolves
 enantiosis
+elementoid
 escortment
 emplacements
 ephyrula
