@@ -632,6 +632,7 @@ cataclasis
 centauridium
 coynye
 callate
+cmdg
 caesarean
 caesareans
 campagnol
@@ -2813,7 +2814,6 @@ contermine
 canonised
 canoniser
 cephalothoraces
-cmdg
 cotorture
 coambassador
 crinid
