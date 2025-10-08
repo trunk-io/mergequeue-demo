@@ -10952,6 +10952,7 @@ burnup
 biggity
 beleper
 bowling
+beothuk
 bindable
 bassan
 boxball
@@ -13452,7 +13453,6 @@ billsticker
 bandoleered
 bothriocephalus
 bisulc
-beothuk
 boltant
 bothway
 burgle
