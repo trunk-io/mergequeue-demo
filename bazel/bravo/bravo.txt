@@ -2803,7 +2803,6 @@ bapistery
 blk
 behooves
 bradydactylia
-barouche
 barouchette
 bozzetto
 bioecologic
@@ -10833,6 +10832,7 @@ brutalise
 blepharism
 brosse
 bradford
+barouche
 bitstalk
 bricole
 blesmol
