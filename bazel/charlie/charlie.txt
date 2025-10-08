@@ -7050,6 +7050,7 @@ centerboard
 centerer
 centerfold
 compania
+clinginess
 coofs
 chelators
 colonus
@@ -16229,7 +16230,6 @@ cline
 caudexes
 contravenes
 clingy
-clinginess
 cuit
 craniopagus
 clingingly
