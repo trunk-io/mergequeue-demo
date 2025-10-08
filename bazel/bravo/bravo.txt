@@ -9935,7 +9935,6 @@ beasties
 blandiloquous
 besmirches
 bail
-bitstone
 blotched
 blackthorn
 bitterbloom
@@ -12449,6 +12448,7 @@ boombox
 beget
 bluishness
 bedizening
+bitstone
 bryophytes
 bergeres
 beele
