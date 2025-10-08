@@ -6504,7 +6504,6 @@ dircaean
 dother
 dynel
 deerstalker
-dowdy
 descension
 dump
 donor
@@ -16616,6 +16615,7 @@ dugal
 disharmonic
 deuteranomalous
 decompile
+dowdy
 disclaims
 damnously
 dissimilated
