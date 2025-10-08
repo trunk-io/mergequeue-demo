@@ -5296,7 +5296,6 @@ cast
 castable
 castalian
 calycanth
-cardiopuncture
 cupreine
 chertier
 conjuncts
@@ -15520,6 +15519,7 @@ cenosite
 curdles
 chloridella
 clarionet
+cardiopuncture
 clarioning
 curage
 costata
