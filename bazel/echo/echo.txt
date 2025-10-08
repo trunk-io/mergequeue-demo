@@ -2483,7 +2483,6 @@ eparcuale
 epitomisation
 eulytite
 exoskeleton
-enclosable
 eternity
 electrolytically
 envaye
@@ -5406,6 +5405,7 @@ enfavor
 endrudge
 extraretinal
 electromyograph
+enclosable
 endseal
 egretta
 enfirm
