@@ -9324,7 +9324,6 @@ byproducts
 blackguardism
 beadles
 biprong
-befit
 bleezy
 bobsled
 bewet
@@ -17222,6 +17221,7 @@ bahut
 biform
 borzicactus
 bullpoll
+befit
 bemirror
 brontoscopy
 bullpup
