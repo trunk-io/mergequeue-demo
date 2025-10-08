@@ -6654,6 +6654,7 @@ droplight
 decadianome
 drawarm
 dipneedle
+diselectrification
 deregulates
 deserving
 doorsills
@@ -16976,7 +16977,6 @@ dernier
 dullness
 downcurve
 dredgeful
-diselectrification
 dithery
 dredgers
 discreet
