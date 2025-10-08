@@ -13186,7 +13186,6 @@ clearskins
 chuting
 cichlid
 cichlidae
-colocynthin
 cichorium
 chints
 cicisbeo
@@ -30333,6 +30332,7 @@ cobbier
 callose
 celsitude
 crura
+colocynthin
 complexionably
 coleopttera
 crural
