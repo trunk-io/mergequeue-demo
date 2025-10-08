@@ -5648,6 +5648,7 @@ dialysed
 disposit
 dowcet
 depleteable
+detruncated
 decapodan
 ducape
 daftlike
@@ -14513,7 +14514,6 @@ diameter
 diformin
 damaging
 democritean
-detruncated
 disintegratory
 divinability
 detachably
