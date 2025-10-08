@@ -4675,7 +4675,6 @@ emittent
 erase
 entryway
 electrowin
-enterogastrone
 electroshock
 eyelets
 exalbuminose
@@ -13461,6 +13460,7 @@ eolopile
 epilepsia
 ectosteal
 expressible
+enterogastrone
 erotology
 ensteel
 exteriorization
