@@ -5131,7 +5131,6 @@ cocentric
 chenopodium
 cashiering
 creen
-cashierment
 cashkeeper
 crows
 corrading
@@ -15300,6 +15299,7 @@ clamant
 circumnavigatory
 clamaroo
 clamatory
+cashierment
 cartooned
 clutterer
 cricks
