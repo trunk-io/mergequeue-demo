@@ -6143,7 +6143,6 @@ benedictions
 bathflower
 blenniiform
 bayonet
-barograph
 betide
 babite
 barquette
@@ -14535,6 +14534,7 @@ brakeless
 brakeload
 boatie
 bemotto
+barograph
 builtin
 baby
 brakeroot
