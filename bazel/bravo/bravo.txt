@@ -9004,6 +9004,7 @@ biomes
 bummerish
 brattles
 bulrushlike
+barsom
 bobbles
 biolinguistics
 bulges
@@ -15175,7 +15176,6 @@ bullionless
 bryanism
 briar
 bigential
-barsom
 buttonball
 briard
 burying
