@@ -4448,7 +4448,6 @@ carloading
 combatants
 cuchulainn
 cogways
-circumference
 carlot
 carls
 cavorters
@@ -26163,6 +26162,7 @@ cosmopolises
 cosmopolitan
 cosmopolitanisation
 coastline
+circumference
 counterbrace
 caesardom
 cosmopolitanise
