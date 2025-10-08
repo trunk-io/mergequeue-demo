@@ -7474,6 +7474,7 @@ desulfurized
 dittos
 dikaryon
 disobedient
+doublewidth
 daemonology
 dermonosology
 dissolved
@@ -13537,7 +13538,6 @@ dismeasurable
 dactylar
 dalesfolk
 diplomacies
-doublewidth
 dissentiously
 demicritic
 drawnet
