@@ -4824,7 +4824,6 @@ epipodia
 eria
 englished
 ectothermic
-ectobronchium
 encranial
 expectorator
 embattling
@@ -9285,6 +9284,7 @@ epaulet
 encolden
 erudition
 epileptology
+ectobronchium
 erinys
 evulse
 eurythmic
