@@ -520,7 +520,6 @@ emblematize
 epididymite
 embubble
 esthetophore
-enhydros
 epeisodion
 echometer
 endostitis
@@ -12639,6 +12638,7 @@ epigenous
 enthelminthes
 enlevement
 embryography
+enhydros
 exceeds
 eloah
 epidemiologically
