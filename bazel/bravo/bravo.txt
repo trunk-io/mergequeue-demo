@@ -2500,7 +2500,6 @@ bottonhook
 barguest
 barguests
 baria
-bedouse
 beflowers
 bariatrician
 banderilla
@@ -17024,6 +17023,7 @@ betailor
 basseting
 brassworks
 babylonic
+bedouse
 bulb
 berwick
 behears
