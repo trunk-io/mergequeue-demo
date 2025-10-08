@@ -3983,7 +3983,6 @@ bedolt
 branches
 bannerets
 backfriend
-battements
 becolme
 blindball
 benetnasch
@@ -6042,6 +6041,7 @@ belswagger
 brainless
 ben
 bittersweetly
+battements
 biostatistics
 bacao
 bibliophage
