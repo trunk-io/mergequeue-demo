@@ -2645,7 +2645,6 @@ chimpanzees
 corbie
 caveator
 carriable
-cankereat
 cankered
 cephalosporium
 cording
@@ -6363,6 +6362,7 @@ cauterism
 carafe
 claritude
 cauterization
+cankereat
 conchfish
 cauterizer
 cauterizes
