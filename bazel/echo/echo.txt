@@ -2273,7 +2273,6 @@ enteropneusta
 evangelicalness
 electrizable
 electrization
-extinct
 epicotyl
 encrypting
 enhort
@@ -4824,6 +4823,7 @@ eria
 englished
 ectothermic
 encranial
+extinct
 expectorator
 embattling
 encaptivate
