@@ -3246,6 +3246,7 @@ basiradial
 boyce
 bacterioscopic
 basirostral
+bioinstrument
 basiscopic
 bacterial
 balaic
@@ -16572,7 +16573,6 @@ bsh
 butyrochloral
 bardier
 bollixing
-bioinstrument
 brasier
 bt
 btry
