@@ -5754,7 +5754,6 @@ ephemeris
 extirp
 exchangeability
 evocation
-emotionless
 englut
 emhpasizing
 epitenon
@@ -9924,6 +9923,7 @@ euptelea
 eternalised
 enweb
 encodings
+emotionless
 epithalamus
 enrols
 enukki
