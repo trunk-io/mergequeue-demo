@@ -6915,6 +6915,7 @@ cementatory
 chlorobromomethane
 curvirostres
 charros
+clr
 cementification
 cyborgs
 capelet
@@ -24491,7 +24492,6 @@ copaene
 copaiba
 copaifera
 copaiva
-clr
 courtliness
 capitatum
 cockscombs
