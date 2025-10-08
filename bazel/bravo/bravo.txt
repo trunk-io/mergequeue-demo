@@ -3884,6 +3884,7 @@ bostonite
 blackpatch
 beachcombers
 beachdrops
+bringers
 bumpiest
 bisulphate
 bucephalus
@@ -15517,7 +15518,6 @@ balloonfish
 brinehouse
 bombardment
 bakery
-bringers
 bodega
 beknights
 bringeth
