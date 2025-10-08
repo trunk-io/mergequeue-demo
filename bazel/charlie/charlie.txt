@@ -8151,7 +8151,6 @@ cheilostomata
 confrontal
 chainmaker
 chiropodist
-chainmen
 cultists
 campanulaceous
 coelastrum
@@ -14444,6 +14443,7 @@ cirratulidae
 cortian
 costmary
 consolations
+chainmen
 cirrhose
 cipolins
 cirri
