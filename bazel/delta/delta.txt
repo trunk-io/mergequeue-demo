@@ -1953,7 +1953,6 @@ discostate
 dislodged
 debuted
 debuting
-desmotropy
 diced
 drover
 demyelinate
@@ -13629,6 +13628,7 @@ dossals
 disturbances
 decretorily
 dorad
+desmotropy
 dayak
 danseurs
 deprome
