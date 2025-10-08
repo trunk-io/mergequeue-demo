@@ -14564,7 +14564,6 @@ cissus
 clarkeite
 cankerwort
 chamoised
-checkrows
 costers
 cayuga
 cyst
@@ -19617,6 +19616,7 @@ colubrine
 chasseurs
 conflictingly
 clarsach
+checkrows
 colubroid
 choanocytal
 colugo
