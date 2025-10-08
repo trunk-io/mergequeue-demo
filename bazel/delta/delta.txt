@@ -1023,6 +1023,7 @@ dozily
 disseises
 dharmasutra
 disulfuret
+difficulty
 daybooks
 dialogues
 dumfounding
@@ -1609,7 +1610,6 @@ disfranchising
 disburse
 despisingly
 deliverable
-difficulty
 disbudding
 denudated
 desiccatory
