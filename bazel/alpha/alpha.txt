@@ -3873,7 +3873,6 @@ adjutant
 acicularity
 angiocholecystitis
 adjutator
-adjute
 adjutor
 anthologizer
 aith
@@ -5185,6 +5184,7 @@ arabizes
 anagalactic
 affirmably
 aplysia
+adjute
 alarbus
 achaetous
 ameen
