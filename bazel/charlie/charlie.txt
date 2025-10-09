@@ -11326,7 +11326,6 @@ cradlers
 caurus
 chloroethene
 chlorofluorocarbon
-chlorofluoromethane
 crystallochemical
 cocreated
 ceylanite
@@ -20038,6 +20037,7 @@ commandeers
 chromolithographer
 coenenchyme
 cerusites
+chlorofluoromethane
 commandery
 commanding
 changeover
