@@ -12418,7 +12418,6 @@ biquadrate
 bandstand
 bandlimit
 brigades
-bourre
 bieberite
 biskop
 bourgade
@@ -16791,6 +16790,7 @@ bucku
 begster
 buckwheats
 bucolically
+bourre
 bucolicism
 bonaci
 ballett
