@@ -3411,7 +3411,6 @@ bogging
 bielectrolysis
 bitterhearted
 bateau
-bolus
 bateleur
 barbered
 bowerwoman
@@ -10095,6 +10094,7 @@ baboosh
 brownist
 boxfish
 breadnut
+bolus
 butties
 blabbered
 besee
