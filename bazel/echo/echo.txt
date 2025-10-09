@@ -2509,7 +2509,6 @@ empaling
 equipped
 electrometallurgist
 emptiable
-electrometer
 euhemerizing
 exstrophy
 extremes
@@ -8391,6 +8390,7 @@ enjeopardy
 exenterating
 eurytropic
 earthmove
+electrometer
 etherealized
 eponymus
 elkhorn
