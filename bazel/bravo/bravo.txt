@@ -6883,7 +6883,6 @@ breediness
 belleek
 beggarman
 beseech
-bescreening
 beseige
 bescutcheon
 bondservant
@@ -9673,6 +9672,7 @@ bebrush
 bishop
 beloeilite
 bummer
+bescreening
 babirussa
 bounded
 bonete
