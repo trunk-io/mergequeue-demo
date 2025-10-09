@@ -1849,6 +1849,7 @@ airplot
 acetals
 acetamidin
 anticult
+asor
 autopotamic
 arrector
 ashkoko
@@ -5145,7 +5146,6 @@ ankerite
 ampulated
 animadversion
 adenoidectomy
-asor
 angakok
 antiexpansionism
 abstentions
