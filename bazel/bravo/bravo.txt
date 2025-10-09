@@ -2746,7 +2746,6 @@ behaviourally
 bemoult
 beswitch
 bodybending
-bowsprits
 bisetose
 butchered
 barites
@@ -8400,6 +8399,7 @@ blackwood
 bedarkened
 bookmen
 bilalo
+bowsprits
 bacony
 bilamellate
 beaverette
