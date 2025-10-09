@@ -2535,7 +2535,6 @@ arbusterin
 archturncoat
 aerographic
 adffrozen
-allothimorph
 arsenite
 anastomoses
 avine
@@ -23703,6 +23702,7 @@ antisilverite
 acuductor
 almonage
 algorism
+allothimorph
 auriflamme
 agrionid
 aurigerous
