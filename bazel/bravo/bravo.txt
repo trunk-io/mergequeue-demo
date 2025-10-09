@@ -15306,7 +15306,6 @@ bagdi
 bernese
 ballplayers
 bondmaid
-boltsmith
 benzidine
 beefily
 biffs
@@ -16122,6 +16121,7 @@ bited
 biologic
 beauclerk
 bullyable
+boltsmith
 butterhead
 broomiest
 bulletins
