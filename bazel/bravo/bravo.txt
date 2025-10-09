@@ -5442,7 +5442,6 @@ bilabiate
 behavioural
 biweeklies
 biparietal
-brisling
 bedirtied
 barnacled
 baviere
@@ -15701,6 +15700,7 @@ broadsides
 breakfront
 broadspread
 boeotia
+brisling
 beadles
 bradley
 bonbo
