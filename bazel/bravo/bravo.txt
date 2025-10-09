@@ -10309,7 +10309,6 @@ buttonhook
 buckaroos
 bellweather
 bulldogs
-biborate
 biochemy
 boltel
 beastdom
@@ -16638,6 +16637,7 @@ buccaneer
 boid
 benasty
 blijver
+biborate
 buccaning
 blepharophyma
 blastogeny
