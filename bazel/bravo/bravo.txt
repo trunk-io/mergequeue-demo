@@ -1259,6 +1259,7 @@ bookselling
 benzopyranyl
 banned
 butyrinase
+bloomless
 beclouds
 bawdyhouses
 broderie
@@ -14503,7 +14504,6 @@ bousoukis
 bathyspheres
 babying
 buffoons
-bloomless
 birdsall
 bodikin
 bananist
