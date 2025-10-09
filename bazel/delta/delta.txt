@@ -4858,6 +4858,7 @@ diplopods
 desubstantiate
 dangerousness
 doolfu
+dmod
 dermatome
 dictyosiphonaceous
 dishonest
@@ -8921,7 +8922,6 @@ diploe
 defiatory
 digladiating
 decongest
-dmod
 downdraught
 dieing
 disconnect
