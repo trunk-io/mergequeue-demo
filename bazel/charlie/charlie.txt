@@ -19408,7 +19408,6 @@ cellulolytic
 color
 creational
 curratow
-clothing
 collied
 coloradan
 collies
@@ -30712,6 +30711,7 @@ cumberers
 commandeered
 cuisine
 coaxingly
+clothing
 chicles
 clinohumite
 castelet
