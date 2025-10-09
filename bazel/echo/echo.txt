@@ -2901,7 +2901,6 @@ epistomal
 etwas
 egyptian
 earl
-echolocation
 etchings
 eyl
 epistasy
@@ -4932,6 +4931,7 @@ expunged
 enneastylos
 ectodermic
 exonym
+echolocation
 emulsifiers
 enchanters
 enduringly
