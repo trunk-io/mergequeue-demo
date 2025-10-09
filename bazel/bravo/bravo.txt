@@ -7358,7 +7358,6 @@ bepaper
 boatings
 belgians
 betread
-burglarproofed
 bathybius
 bileve
 barometers
@@ -18055,6 +18054,7 @@ bragged
 baptizable
 beefwood
 bullrings
+burglarproofed
 bourgs
 bustler
 bustlers
