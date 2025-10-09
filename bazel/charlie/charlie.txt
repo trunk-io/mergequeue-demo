@@ -20602,7 +20602,6 @@ clouts
 chlorider
 compatriotic
 conundrum
-compatriots
 compd
 cusparia
 carnose
@@ -20751,6 +20750,7 @@ camleted
 comart
 complementoid
 cyanin
+compatriots
 cooperations
 curvous
 completement
