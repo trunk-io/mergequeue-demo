@@ -5525,7 +5525,6 @@ earthquake
 epoptic
 enamellar
 entoil
-euxenite
 enculturated
 exosmoses
 endymal
@@ -11152,6 +11151,7 @@ eutaxy
 eikonogen
 evaporates
 edp
+euxenite
 euciliate
 elbowboard
 evaporating
