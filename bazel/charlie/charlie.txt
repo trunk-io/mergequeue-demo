@@ -2202,7 +2202,6 @@ camshachle
 countershear
 camstane
 camelry
-caval
 camstone
 conjugator
 camus
@@ -4411,6 +4410,7 @@ cercariform
 chamoising
 clitellum
 carissa
+caval
 choralist
 complimental
 campshedding
