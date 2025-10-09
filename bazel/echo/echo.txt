@@ -5450,6 +5450,7 @@ euhemerism
 energeia
 emblematicalness
 electrobath
+enterclose
 energesis
 exocycloida
 energetic
@@ -12755,7 +12756,6 @@ egotheism
 exsert
 expandedly
 epipubis
-enterclose
 engrace
 endsheet
 extralite
