@@ -13112,6 +13112,7 @@ bowlmaker
 browse
 belfry
 buffeting
+bandidos
 barstool
 bicorporal
 bobbling
@@ -17678,7 +17679,6 @@ brodyaga
 boxiest
 balancement
 birgus
-bandidos
 blackfin
 boomlets
 blowess
