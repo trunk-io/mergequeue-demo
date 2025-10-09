@@ -13538,7 +13538,6 @@ bafflers
 bonders
 basementward
 bagroom
-breastfeeding
 bioxide
 blacksmiths
 bubas
@@ -16253,6 +16252,7 @@ bilithon
 braillist
 bedighting
 bepraise
+breastfeeding
 bandboxy
 battailous
 balladeer
