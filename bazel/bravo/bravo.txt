@@ -1574,6 +1574,7 @@ ballotist
 ballots
 ballottement
 backlotter
+blight
 bloodhound
 boycotter
 bident
@@ -17520,7 +17521,6 @@ boyishly
 backspeir
 beflower
 burbolt
-blight
 beerishly
 biognosis
 bullragged
