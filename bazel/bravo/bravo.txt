@@ -2586,6 +2586,7 @@ berating
 befriend
 backstitches
 barbitals
+builtin
 bodicemaker
 biopsychologist
 broadener
@@ -14501,7 +14502,6 @@ brakeload
 baryte
 boatie
 bemotto
-builtin
 baby
 brakeroot
 breechless
