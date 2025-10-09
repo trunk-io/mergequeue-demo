@@ -1858,7 +1858,6 @@ cirrocumulus
 cambricleaf
 colobus
 curs
-clerk
 cambridge
 compotor
 catostomidae
@@ -25150,6 +25149,7 @@ chemosurgical
 calcspar
 chylomicron
 corelational
+clerk
 corelative
 convulsible
 consolation
