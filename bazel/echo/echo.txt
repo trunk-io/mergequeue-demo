@@ -82,6 +82,7 @@ enumerate
 embroche
 electrodialysis
 earpick
+exr
 epergne
 earpiece
 earreach
@@ -14003,7 +14004,6 @@ escheating
 etymon
 egoisms
 electromotive
-exr
 enthrallingly
 enteroclisis
 extractorship
