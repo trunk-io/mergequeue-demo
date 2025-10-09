@@ -1096,7 +1096,6 @@ edriophthalmatous
 educand
 exsculp
 educatability
-equivalency
 eident
 educatable
 educatedness
@@ -5612,6 +5611,7 @@ escoba
 equalling
 episarcine
 enlisters
+equivalency
 egalitarianism
 edifier
 enodally
