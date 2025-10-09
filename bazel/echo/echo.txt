@@ -5303,6 +5303,7 @@ encharm
 exclusions
 epiphyte
 embeds
+exstemporal
 exasperation
 embarrassing
 endosteoma
@@ -8602,7 +8603,6 @@ externals
 erineum
 eurythermal
 enveil
-exstemporal
 emollience
 evolutionary
 endophytal
