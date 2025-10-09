@@ -1942,7 +1942,6 @@ bipolarity
 begoniaceous
 bundt
 bandlimiting
-biotopes
 bissonata
 bulrushy
 bys
@@ -4819,6 +4818,7 @@ belaced
 berean
 bedunced
 benames
+biotopes
 bargehouse
 briefings
 billionism
