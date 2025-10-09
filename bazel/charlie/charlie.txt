@@ -4810,7 +4810,6 @@ carri
 causse
 carry
 carriageable
-carriages
 crosstie
 carriagesmith
 cinchonicin
@@ -18922,6 +18921,7 @@ colicins
 corvisor
 cytogene
 colicwort
+carriages
 constraints
 cranial
 cervelliere
