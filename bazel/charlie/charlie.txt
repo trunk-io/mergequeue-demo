@@ -2004,7 +2004,6 @@ companionship
 competitioner
 cabs
 companionize
-chandlery
 collapsar
 chests
 cosherer
@@ -13370,6 +13369,7 @@ consonantly
 coulomb
 curatize
 cycloscope
+chandlery
 cycloserine
 cyclosis
 colortype
