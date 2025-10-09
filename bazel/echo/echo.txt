@@ -11031,6 +11031,7 @@ enteromegalia
 entosterna
 eradiated
 evangeliarium
+epitapher
 enalyron
 esteem
 ex
@@ -11757,7 +11758,6 @@ estolide
 emerged
 extraction
 epispinal
-epitapher
 enfeoffed
 epiphyllous
 enragement
