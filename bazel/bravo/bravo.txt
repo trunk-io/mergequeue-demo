@@ -5953,7 +5953,6 @@ bemadden
 bemiring
 burrs
 bandlimited
-bilamellar
 becobweb
 blippers
 bemists
@@ -16685,6 +16684,7 @@ burros
 bromocyanogen
 brindles
 beslave
+bilamellar
 buchnerite
 balconette
 buck
