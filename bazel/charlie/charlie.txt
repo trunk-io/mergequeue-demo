@@ -20556,6 +20556,7 @@ compartments
 celticist
 compass
 crane
+cortez
 compassability
 codable
 combats
@@ -22644,7 +22645,6 @@ cosech
 connaturalness
 carroon
 connature
-cortez
 calumniatory
 connectable
 connected
