@@ -12397,7 +12397,6 @@ changemaker
 circumcircle
 chromatophilous
 chromatophobia
-cephaloid
 chromatophore
 carpel
 chromatophoric
@@ -18311,6 +18310,7 @@ capsuligerous
 chalcographer
 coffinmaking
 coffins
+cephaloid
 coffled
 coarbitrator
 coffling
