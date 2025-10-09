@@ -1253,7 +1253,6 @@ enlarge
 equip
 effectuated
 effectuating
-exuberate
 effectuous
 epigastrical
 eelcatcher
@@ -9667,6 +9666,7 @@ electrocardiography
 ecphorization
 enmeshes
 enterotome
+exuberate
 everywhen
 exponentiating
 expediate
