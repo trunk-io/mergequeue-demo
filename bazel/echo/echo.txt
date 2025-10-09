@@ -3926,7 +3926,6 @@ excludable
 extended
 equipment
 enragedness
-ectocranial
 epitases
 estreating
 exilarch
@@ -10435,6 +10434,7 @@ expiscator
 exsanguinating
 extravagantly
 energiser
+ectocranial
 epistolized
 emanative
 endoskeleton
