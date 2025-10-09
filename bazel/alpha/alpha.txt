@@ -604,7 +604,6 @@ awl
 antiputrescent
 apostoile
 aphasic
-auditoria
 amphiphithyra
 algol
 alunite
@@ -11445,6 +11444,7 @@ almanac
 arundinaceous
 agoniada
 amputates
+auditoria
 amputating
 altered
 acetobacter
