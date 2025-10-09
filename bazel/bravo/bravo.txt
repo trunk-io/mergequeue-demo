@@ -7212,6 +7212,7 @@ bestow
 bevined
 boutre
 briquettes
+bathroom
 burgee
 byp
 briary
@@ -9358,7 +9359,6 @@ belgian
 bara
 berne
 bondager
-bathroom
 billing
 bucklered
 burningly
