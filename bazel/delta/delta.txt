@@ -14626,7 +14626,6 @@ dispensing
 dihedrals
 delineator
 dryfarm
-diatomine
 disinfeudation
 dialogised
 decomposition
@@ -14888,6 +14887,7 @@ delinition
 disgraces
 drysalteries
 decumbently
+diatomine
 denigratory
 dedolomitize
 document
