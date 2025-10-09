@@ -895,7 +895,6 @@ bardiglio
 bismarine
 boscage
 bearberry
-bundocks
 bysmalith
 bolstered
 berryless
@@ -10292,6 +10291,7 @@ biofeedback
 bedaggle
 buttonhook
 buckaroos
+bundocks
 bellweather
 bulldogs
 biochemy
