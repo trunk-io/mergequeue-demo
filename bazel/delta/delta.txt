@@ -3171,6 +3171,7 @@ disobeyed
 dioscurian
 disassembling
 deadwood
+disstate
 danli
 dealbation
 demyelination
@@ -14230,7 +14231,6 @@ diverticular
 dolly
 disusage
 dynamoscope
-disstate
 disuse
 deertongue
 doggrelize
