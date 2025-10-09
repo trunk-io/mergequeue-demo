@@ -7483,7 +7483,6 @@ ceratoduses
 crenula
 covercle
 ceratoglossal
-ceratohyal
 collodionize
 consentaneously
 ceratohyoid
@@ -24921,6 +24920,7 @@ crepitation
 coracoradialis
 conveyers
 corial
+ceratohyal
 chamoisette
 comous
 counterprotest
