@@ -4566,7 +4566,6 @@ aediculae
 anaesthesiologist
 aphidiinae
 absey
-anamorphose
 alorcinic
 aedicule
 adject
@@ -17516,6 +17515,7 @@ agamospore
 ahistorical
 acetylize
 actinoidea
+anamorphose
 anthramin
 apparat
 apparats
