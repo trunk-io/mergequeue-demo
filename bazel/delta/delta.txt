@@ -3296,7 +3296,6 @@ deprecated
 dilatant
 deliriate
 desisted
-decelerators
 domesticable
 defoliant
 delegatus
@@ -7734,6 +7733,7 @@ devise
 diplotegia
 devised
 denicotinized
+decelerators
 disastimeter
 disconnection
 disinflation
