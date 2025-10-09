@@ -3505,7 +3505,6 @@ barricade
 brushy
 borers
 burny
-battleground
 biorhythm
 berkeleyite
 bien
@@ -10678,6 +10677,7 @@ beakier
 boteroll
 ballfield
 beltmaker
+battleground
 boweling
 bleachable
 bouderie
