@@ -9163,7 +9163,6 @@ chartulae
 cartoned
 caravanist
 coalface
-chartularies
 citrene
 caned
 charwoman
@@ -22825,6 +22824,7 @@ conscienceless
 commiserate
 condivision
 commandants
+chartularies
 cydippid
 consciences
 cirrous
