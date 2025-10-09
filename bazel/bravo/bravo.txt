@@ -5013,7 +5013,6 @@ bathoses
 befist
 bodrage
 blueline
-bluecaps
 buccolingual
 brightens
 braised
@@ -15508,6 +15507,7 @@ bargeload
 brioches
 besmiled
 blase
+bluecaps
 burgled
 briony
 bitwise
