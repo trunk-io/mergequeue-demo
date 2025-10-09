@@ -3796,6 +3796,7 @@ ecu
 epoist
 escheatable
 enduro
+extime
 emending
 edility
 ecotypic
@@ -8783,7 +8784,6 @@ etherized
 endothecium
 eurylaimi
 expedients
-extime
 enterozoan
 echeloot
 eventuations
