@@ -5769,7 +5769,6 @@ circumspective
 catechismal
 catechistic
 catechists
-catechization
 creatin
 catechizer
 chainer
@@ -30834,6 +30833,7 @@ consentful
 compromissary
 circumferent
 cantut
+catechization
 cabdriver
 culottism
 cytodieresis
