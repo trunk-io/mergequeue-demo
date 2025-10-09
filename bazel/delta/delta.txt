@@ -8632,7 +8632,6 @@ doormaking
 dewan
 driller
 dispunitive
-donatio
 diapophysis
 dooms
 decigramme
@@ -11547,6 +11546,7 @@ decatoic
 doum
 dedanim
 defervesced
+donatio
 discommodiously
 downton
 discommodities
