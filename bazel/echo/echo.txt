@@ -2749,6 +2749,7 @@ expeditions
 elementalize
 ephori
 engineless
+endoskeleton
 essaylet
 elementaloid
 enactable
@@ -10422,7 +10423,6 @@ energiser
 ectocranial
 epistolized
 emanative
-endoskeleton
 estates
 etiologies
 ergosterol
