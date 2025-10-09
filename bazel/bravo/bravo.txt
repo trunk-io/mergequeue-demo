@@ -3342,7 +3342,6 @@ botanizer
 basswood
 becoward
 botflies
-burghership
 brelaw
 bedsores
 blushing
@@ -4859,6 +4858,7 @@ bradystalsis
 beechen
 breakstone
 bawneen
+burghership
 bloomage
 blab
 broadhead
