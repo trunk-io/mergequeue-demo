@@ -4888,7 +4888,6 @@ ergatandromorph
 errorless
 electrotyping
 equatorwards
-electrodialyzer
 engilds
 epicele
 eelblenny
@@ -10983,6 +10982,7 @@ evacuant
 eighteenmos
 eskimo
 episome
+electrodialyzer
 executing
 earthdrake
 ephorates
