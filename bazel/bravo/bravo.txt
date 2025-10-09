@@ -4312,7 +4312,6 @@ bovenland
 bisiliac
 buffalofishes
 briskness
-bathman
 bishopless
 burbly
 bakeboard
@@ -6933,6 +6932,7 @@ besides
 bodykins
 besiege
 besiegers
+bathman
 bushbashing
 brownistic
 beslobber
