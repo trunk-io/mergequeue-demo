@@ -4176,7 +4176,6 @@ episcleral
 embryogony
 examinant
 envelopes
-emulsion
 expandible
 ectopia
 esotrope
@@ -9123,6 +9122,7 @@ expand
 epiclastic
 extrasolar
 etiolating
+emulsion
 episplenitis
 exumbrella
 esrog
