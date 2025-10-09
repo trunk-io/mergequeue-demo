@@ -2554,6 +2554,7 @@ busbar
 boeing
 bairnlier
 bridgelike
+buddage
 bellon
 barocco
 barkbound
@@ -5052,7 +5053,6 @@ befilmed
 bahutu
 befilth
 bathoses
-buddage
 befist
 bringer
 bodrage
