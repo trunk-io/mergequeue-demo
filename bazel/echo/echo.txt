@@ -6844,7 +6844,6 @@ evaporable
 equipments
 embelif
 emergencies
-excavators
 exiguity
 embossman
 eucalyn
@@ -9870,6 +9869,7 @@ epigrammatism
 emphasis
 estragole
 extersive
+excavators
 epharmonic
 epimerized
 epilithic
