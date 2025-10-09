@@ -4650,7 +4650,6 @@ exceptionability
 ectotropic
 epirogenic
 encyclopedic
-entoderm
 elaeococca
 envenomization
 emmet
@@ -10106,6 +10105,7 @@ etherifies
 execration
 embryoscope
 ectoentad
+entoderm
 ethernet
 escrowed
 escargotieres
