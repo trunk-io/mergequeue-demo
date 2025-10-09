@@ -1500,6 +1500,7 @@ boread
 barde
 bersiamite
 backsword
+boshvarks
 ballata
 burry
 brunetteness
@@ -2006,7 +2007,6 @@ bankrupting
 backwards
 buchanite
 bemock
-boshvarks
 baiocco
 basidiophore
 betraise

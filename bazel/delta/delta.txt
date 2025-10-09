@@ -6510,7 +6510,6 @@ dynel
 deerstalker
 descension
 dump
-donor
 dragonfishes
 diestruses
 dyscrase
@@ -6586,6 +6585,7 @@ dunting
 demythologizes
 dampen
 dithematic
+donor
 disinhabit
 dowfart
 denuclearize
