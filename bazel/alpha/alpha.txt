@@ -916,7 +916,6 @@ akinesis
 argify
 aidance
 absolvatory
-absolve
 absolvent
 arteriotome
 apod
@@ -24207,6 +24206,7 @@ ammoreslinol
 allopathy
 alkylation
 analysed
+absolve
 amiral
 autoheader
 anemologic
