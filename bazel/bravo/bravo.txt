@@ -1587,7 +1587,6 @@ ballotist
 ballots
 ballottement
 backlotter
-bedeafen
 bloodhound
 boycotter
 bident
@@ -5513,6 +5512,7 @@ billywix
 bescour
 boort
 bloviates
+bedeafen
 boatswains
 bawty
 beethovian
