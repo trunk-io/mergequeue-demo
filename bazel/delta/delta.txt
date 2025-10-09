@@ -11062,6 +11062,7 @@ disanchor
 disbeliefs
 doyenne
 deliberations
+discussible
 diaphragmatic
 dastur
 disentanglements
@@ -11322,7 +11323,6 @@ disgeneric
 discumb
 discerner
 delegalize
-discussible
 dingdonging
 dudaim
 deftly
