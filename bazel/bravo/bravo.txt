@@ -2909,6 +2909,7 @@ barricoes
 biuniqueness
 bagreef
 barrigudos
+bannerless
 barrikin
 barriness
 broadcasters
@@ -18158,7 +18159,6 @@ bum
 butyn
 bacillicide
 besonnet
-bannerless
 begrett
 begets
 bosses
