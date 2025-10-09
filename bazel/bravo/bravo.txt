@@ -3631,6 +3631,7 @@ bootees
 batty
 barny
 battier
+babelike
 brightest
 batting
 battings
@@ -9013,7 +9014,6 @@ breedy
 bedeaf
 bacteriodiagnosis
 beavery
-babelike
 besmuts
 biometries
 bion
