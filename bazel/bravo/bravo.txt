@@ -2985,7 +2985,6 @@ branglement
 burgesses
 bartizans
 burrobrush
-bushfire
 boracium
 boomtown
 bolt
@@ -15052,6 +15051,7 @@ biochemics
 breeder
 bepillared
 boilersmith
+bushfire
 brachyceric
 befetter
 betiding
