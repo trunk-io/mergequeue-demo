@@ -9609,6 +9609,7 @@ embody
 ethane
 eschele
 editchar
+explode
 espino
 evilsayer
 enclosing
@@ -10489,7 +10490,6 @@ eudaemon
 enteroceptor
 eolopile
 extraordinaries
-explode
 erotylidae
 euchres
 enlargedness
