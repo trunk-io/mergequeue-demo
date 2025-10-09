@@ -8078,7 +8078,6 @@ binucleate
 bimolecularly
 befouls
 biding
-bidirectional
 biophagy
 bellicosities
 burgau
@@ -12901,6 +12900,7 @@ boong
 bearwood
 boophilus
 bedsheet
+bidirectional
 banyoro
 bacciform
 boorishness
