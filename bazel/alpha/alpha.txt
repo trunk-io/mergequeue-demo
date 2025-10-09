@@ -1659,7 +1659,6 @@ anchorman
 authentications
 acapnias
 affranchisement
-acockbill
 avirulence
 alkalimeter
 aknow
@@ -7713,6 +7712,7 @@ antimetathesis
 ailment
 alfirk
 authenticate
+acockbill
 aldermanlike
 adonized
 aplustria
