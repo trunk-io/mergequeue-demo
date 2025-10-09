@@ -15341,6 +15341,7 @@ belows
 boundary
 brandyman
 bridie
+bonspells
 bridle
 bridled
 bridlers
@@ -18289,7 +18290,6 @@ boroughwide
 backwashing
 buttinski
 backstroked
-bonspells
 bromomethane
 bride
 bryozoan
