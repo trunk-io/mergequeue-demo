@@ -9976,7 +9976,6 @@ croup
 corbeilles
 concealed
 chequer
-chequers
 creosoted
 chequerwork
 chequin
@@ -15792,6 +15791,7 @@ cleaded
 corin
 chandelled
 confectioneries
+chequers
 clean
 chloramine
 clambers
