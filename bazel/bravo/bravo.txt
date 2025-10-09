@@ -4032,6 +4032,7 @@ ballistics
 baroclinicity
 blamableness
 bananaquit
+berrettas
 bicompact
 blackfishes
 bryozoum
@@ -6769,7 +6770,6 @@ berreaves
 burghermaster
 berret
 bribed
-berrettas
 bloodred
 bufonid
 berry
