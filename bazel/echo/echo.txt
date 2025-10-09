@@ -4803,7 +4803,6 @@ excipient
 eriophorum
 ethanedial
 encompassment
-embira
 ethologic
 euclidean
 enfever
@@ -8877,6 +8876,7 @@ embitter
 emeroids
 eragrostis
 electrophori
+embira
 elapsed
 electrize
 empiecement
