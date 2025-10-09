@@ -2745,7 +2745,6 @@ adiathermal
 acrometer
 astronomy
 armorproof
-archostenosis
 autocamping
 acromicria
 antimeres
@@ -13673,6 +13672,7 @@ anubin
 anodonta
 aureoling
 acumination
+archostenosis
 automa
 abolition
 annuler
