@@ -28451,6 +28451,7 @@ cutpurses
 cotarnine
 chiefling
 castagnole
+crioceratite
 creams
 carburetter
 creance
@@ -29148,7 +29149,6 @@ cryobiologist
 criobolium
 coilers
 coelacanthini
-crioceratite
 carboxyl
 cinefaction
 chirruping
