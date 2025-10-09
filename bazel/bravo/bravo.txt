@@ -707,6 +707,7 @@ baddies
 boral
 bade
 badness
+booklice
 baff
 besogne
 blueish
@@ -7601,7 +7602,6 @@ bocoy
 bryological
 bewitchment
 baobabs
-booklice
 bewizard
 blandished
 bracketing
