@@ -4979,7 +4979,6 @@ aggro
 argo
 aerotechnical
 antimonic
-aerotherapeutics
 attainting
 afterwash
 arised
@@ -19183,6 +19182,7 @@ ammunition
 arenarious
 atuami
 areasoner
+aerotherapeutics
 areawide
 anomiacea
 apanaged
