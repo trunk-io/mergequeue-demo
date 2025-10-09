@@ -4160,7 +4160,6 @@ bingo
 bequeathable
 bellhanging
 berbamine
-blattariae
 boruca
 barest
 blatherskite
@@ -11730,6 +11729,7 @@ bobbinite
 bobbish
 bais
 bobcats
+blattariae
 bifacial
 binmen
 beboss
