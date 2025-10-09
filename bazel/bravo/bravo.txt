@@ -9900,6 +9900,7 @@ blandiloquous
 besmirches
 bail
 blotched
+bnf
 bitterbloom
 bailiaries
 bitterbur
@@ -13548,7 +13549,6 @@ boxtree
 boondoggle
 besplatter
 botulisms
-bnf
 bilgiest
 butcherdom
 befoam
