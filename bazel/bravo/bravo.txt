@@ -1789,7 +1789,6 @@ brigading
 blere
 banders
 broadlings
-bandfile
 bandfiled
 bandh
 backhanded
@@ -2751,6 +2750,7 @@ backfill
 baroqueness
 blonder
 brazee
+bandfile
 barmie
 bronchiloquy
 brownnoser
