@@ -7629,7 +7629,6 @@ encell
 embannered
 elegiambic
 epicrasis
-evestar
 enemylike
 enringed
 empair
@@ -9490,6 +9489,7 @@ entelodon
 earthworm
 englutting
 eluated
+evestar
 eserine
 erwin
 electropyrometer
