@@ -12204,7 +12204,6 @@ chiasmal
 clinches
 chinotto
 clangula
-chaoticness
 chironomy
 chrysoberyl
 chrysobull
@@ -16027,6 +16026,7 @@ contact
 connach
 crossbirth
 cracked
+chaoticness
 cluppe
 cardroom
 clerum
