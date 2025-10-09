@@ -1657,6 +1657,7 @@ calotermes
 canap
 calothrix
 chelates
+compurgator
 captains
 comprovincial
 calotype
@@ -26083,7 +26084,6 @@ characterizer
 chasuble
 cornfield
 cosymmedian
-compurgator
 cosinage
 cosiness
 clathrus
