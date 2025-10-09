@@ -15838,7 +15838,6 @@ chappaul
 cleansers
 cellarmen
 cynosura
-cleanskin
 cleanskins
 chelaship
 commoves
@@ -16332,6 +16331,7 @@ clypeastrina
 clypeastroid
 conspicuous
 caraco
+cleanskin
 clypeated
 clypeiform
 clypeola
