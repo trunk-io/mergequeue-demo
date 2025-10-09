@@ -5305,7 +5305,6 @@ bandwidth
 beclog
 begloze
 busti
-baidar
 breviers
 betels
 binder
@@ -15874,6 +15873,7 @@ biospheres
 bossboy
 basan
 bopyridian
+baidar
 botchers
 brisked
 bankrupture
