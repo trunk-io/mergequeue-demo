@@ -3254,7 +3254,6 @@ arcanum
 areg
 adamantean
 abacination
-anisodactylous
 antipolyneuritic
 adamantness
 archery
@@ -15593,6 +15592,7 @@ affrightfully
 aissor
 antiorthodoxy
 antioxidants
+anisodactylous
 auscultoscope
 aeolididae
 autolith
