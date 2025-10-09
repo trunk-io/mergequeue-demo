@@ -17411,7 +17411,6 @@ coatrack
 coatrooms
 coats
 coattend
-cajeta
 coattending
 conductivities
 cytoparaplastin
@@ -27639,6 +27638,7 @@ charioteership
 conventicler
 cathodes
 covite
+cajeta
 covolume
 crepis
 chronophotographic
