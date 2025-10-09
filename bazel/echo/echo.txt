@@ -4199,6 +4199,7 @@ escutcheons
 electrodispersive
 extrasensorial
 episcleral
+embryogony
 examinant
 envelopes
 emulsion
@@ -9067,7 +9068,6 @@ extravascular
 erythrodextrin
 epipastic
 erythrocytoschisis
-embryogony
 ectasia
 extracarpal
 equipollentness
