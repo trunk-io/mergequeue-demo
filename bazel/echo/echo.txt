@@ -6875,7 +6875,6 @@ endiablee
 elling
 engrails
 endoskeletons
-equipoising
 experimentarian
 eudora
 enzone
@@ -9293,6 +9292,7 @@ eductive
 erucivorous
 eikons
 extendability
+equipoising
 electroform
 escaper
 expertized
