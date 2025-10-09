@@ -6086,7 +6086,6 @@ bends
 bedframes
 begay
 balaneutics
-benedicta
 broughta
 belicoseness
 borean
@@ -6538,6 +6537,7 @@ becolor
 beriming
 birminghamize
 berated
+benedicta
 bushful
 breakaway
 buckwash
