@@ -2814,7 +2814,6 @@ aquas
 acid
 acropolitan
 asthenope
-abmho
 afterlight
 aigrette
 acarologist
@@ -11718,6 +11717,7 @@ anagrammatism
 anagrammatizing
 agatine
 acopyrine
+abmho
 ancylostome
 atheriogaea
 autopore
