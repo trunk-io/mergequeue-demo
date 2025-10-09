@@ -5335,6 +5335,7 @@ baidar
 breviers
 betels
 binder
+brachistochrone
 beglue
 bandworm
 begnaw
@@ -14165,7 +14166,6 @@ budged
 braggadocios
 boloed
 brass
-brachistochrone
 brachistochronous
 beaver
 brachystomatous
