@@ -1399,7 +1399,6 @@ bobance
 battable
 blatter
 balefires
-balefully
 branned
 brideman
 bamboozled
@@ -7332,6 +7331,7 @@ bethorning
 besneer
 buffcoat
 blanketmaking
+balefully
 basest
 befogs
 basidorsal
