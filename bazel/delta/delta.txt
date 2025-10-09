@@ -8360,7 +8360,6 @@ disk
 disruptable
 denunciated
 dioestrum
-duchies
 debye
 dosis
 dialed
@@ -13549,6 +13548,7 @@ disseason
 denaturalizing
 domiciling
 disseat
+duchies
 donnism
 deviceful
 drey
