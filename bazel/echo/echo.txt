@@ -6853,6 +6853,7 @@ extraconstellated
 entomophthorales
 evergreens
 entopic
+enc
 enddamage
 endiablee
 elling
@@ -13310,7 +13311,6 @@ estating
 equiponderancy
 exorcized
 exposed
-enc
 enanthematous
 ethnogeographically
 extravagating
