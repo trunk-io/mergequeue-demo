@@ -1790,6 +1790,7 @@ broadlings
 bandfiled
 bandh
 backhanded
+ballotage
 birken
 bemisted
 bandhook
@@ -3455,7 +3456,6 @@ bathymetrical
 bathing
 bastinadoes
 bridgekeeper
-ballotage
 beaning
 bestrow
 balon
