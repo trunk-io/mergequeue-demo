@@ -5076,7 +5076,6 @@ denaturants
 dueller
 decretorian
 diminishingturns
-denaturise
 dialectology
 definientia
 dextrogyrate
@@ -17426,6 +17425,7 @@ diazoimido
 deflex
 drostdy
 dory
+denaturise
 diabaterial
 dishmop
 dysergia
