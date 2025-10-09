@@ -14658,6 +14658,7 @@ dropheads
 developmentary
 dogies
 decupling
+dognap
 discouraged
 dietal
 deskill
@@ -17956,7 +17957,6 @@ descriers
 dora
 deuterotype
 dialysation
-dognap
 disangularize
 deafening
 dietitian
