@@ -8955,7 +8955,6 @@ chemisms
 chargable
 combmaker
 chargeable
-ciphertext
 colorism
 collective
 clements
@@ -20044,6 +20043,7 @@ commandos
 commandry
 cachinnated
 caudata
+ciphertext
 choreutic
 commark
 croupal
