@@ -5589,6 +5589,7 @@ agalma
 antipeptone
 ardea
 agalwoods
+airfoil
 allseeds
 adulter
 agamemnon
@@ -6727,7 +6728,6 @@ achilleid
 abutment
 ajoure
 allantoic
-airfoil
 allemontite
 antispermotoxin
 aminopyrine
