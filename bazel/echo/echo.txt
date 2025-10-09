@@ -7615,7 +7615,6 @@ encell
 embannered
 elegiambic
 exterminator
-epicrasis
 enemylike
 enringed
 empair
@@ -13931,6 +13930,7 @@ enomania
 enface
 extinguishable
 eupepticity
+epicrasis
 echinacea
 eosin
 endosteal
