@@ -6764,6 +6764,7 @@ bundlers
 beaut
 barytosulphate
 bookery
+bolivianos
 berserker
 brittles
 bin
@@ -11961,7 +11962,6 @@ belch
 bawke
 belast
 beltlines
-bolivianos
 backlit
 boggard
 blindfoldly
