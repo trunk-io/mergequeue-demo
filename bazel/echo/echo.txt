@@ -4681,6 +4681,7 @@ expensed
 encircle
 embrowned
 emittent
+earthmove
 erase
 entryway
 electrowin
@@ -8381,7 +8382,6 @@ eldorado
 enjeopardy
 exenterating
 eurytropic
-earthmove
 electrometer
 etherealized
 eponymus
