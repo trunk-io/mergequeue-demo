@@ -761,7 +761,6 @@ badiner
 badinerie
 birt
 badious
-betterer
 badland
 bat
 brushcut
@@ -1185,6 +1184,7 @@ botanomancy
 bodywise
 bakeress
 beleaguered
+betterer
 bootloader
 bakerly
 bakerlike
