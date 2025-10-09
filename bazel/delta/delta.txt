@@ -3080,6 +3080,7 @@ dorsiventrally
 dislady
 degenerated
 defeated
+deprecations
 downs
 dependently
 depotentiation
@@ -6475,7 +6476,6 @@ delignated
 disomatous
 dammars
 descendent
-deprecations
 diadromous
 dudish
 dissevering
