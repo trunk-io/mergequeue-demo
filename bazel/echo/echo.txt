@@ -3914,7 +3914,6 @@ elevator
 emotivity
 excludable
 extended
-equipment
 enragedness
 epitases
 estreating
@@ -4419,6 +4418,7 @@ entrainer
 euploeinae
 episematic
 erigeron
+equipment
 enamelling
 entasis
 ebonises
