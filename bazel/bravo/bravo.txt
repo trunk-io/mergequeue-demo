@@ -7205,6 +7205,7 @@ bandsmen
 bagginess
 bestiary
 backdating
+bandgap
 byelorussia
 bur
 bestiarist
@@ -15298,7 +15299,6 @@ bridewort
 beghard
 balanophora
 bridge
-bandgap
 budtime
 bespectacled
 bridgebuilder
