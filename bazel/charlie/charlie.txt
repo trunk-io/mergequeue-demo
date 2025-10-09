@@ -3251,7 +3251,6 @@ confederal
 celli
 convicts
 chaufers
-coughweed
 capoc
 calver
 capocchia
@@ -3785,6 +3784,7 @@ carboluria
 carbomethene
 carbomethoxy
 carbomethoxyl
+coughweed
 channelization
 carbona
 carbonaceous
