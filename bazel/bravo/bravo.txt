@@ -6902,7 +6902,6 @@ baselessness
 betta
 books
 bahai
-bagheli
 biatomic
 backgrounds
 balky
@@ -18169,6 +18168,7 @@ brinehouse
 butyrometer
 barrio
 bilipyrrhin
+bagheli
 bouillabaisse
 balwarra
 butyrometric
