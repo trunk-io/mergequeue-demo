@@ -3257,6 +3257,7 @@ bronchobuster
 bejabbers
 basoid
 blennoma
+banditti
 bayberries
 bellote
 bren
@@ -3944,7 +3945,6 @@ buchu
 berri
 brutify
 bakeoven
-banditti
 barebones
 bulanda
 beeve
