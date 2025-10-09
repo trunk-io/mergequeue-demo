@@ -1143,7 +1143,6 @@ earthwall
 eatableness
 endoplastular
 equvalent
-equicaloric
 exdelicto
 embattles
 exalbuminous
@@ -8591,6 +8590,7 @@ eurythermal
 enveil
 emollience
 evolutionary
+equicaloric
 endophytal
 exudate
 ecphrasis
