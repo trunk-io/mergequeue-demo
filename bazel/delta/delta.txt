@@ -5140,6 +5140,7 @@ dasyurid
 denizenship
 decastyle
 dolmen
+digestibleness
 deathling
 dendrophilous
 disproportionableness
@@ -9526,7 +9527,6 @@ digenite
 digerent
 dereistically
 detester
-digestibleness
 digestibly
 drawk
 deeryard
