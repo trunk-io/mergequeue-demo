@@ -9332,7 +9332,6 @@ banana
 birchwood
 bindweb
 barcaroles
-bu
 bayal
 belgian
 bara
@@ -12802,6 +12801,7 @@ brouze
 bakutu
 brutifying
 bostrychid
+bu
 bookstall
 bloodguilt
 beseemed
