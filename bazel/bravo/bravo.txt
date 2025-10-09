@@ -11913,7 +11913,6 @@ banks
 belsire
 bruckle
 boehmite
-borgh
 beild
 balladwise
 blackpoll
@@ -18244,6 +18243,7 @@ butterflower
 bleinerite
 bugproof
 backstop
+borgh
 batik
 beside
 bungmaker
