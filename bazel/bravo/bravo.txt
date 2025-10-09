@@ -8899,7 +8899,6 @@ breekless
 bestrid
 bookcases
 bioclimatic
-bioclimatician
 bioclimatology
 bathwater
 blabber
@@ -14900,6 +14899,7 @@ babooism
 bobberies
 broachers
 bugologist
+bioclimatician
 bayoneted
 breakweather
 brain
