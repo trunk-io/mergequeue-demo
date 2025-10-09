@@ -2488,7 +2488,6 @@ bottonhook
 barguest
 barguests
 baria
-beflowers
 bariatrician
 banderilla
 baric
@@ -16841,6 +16840,7 @@ budgerow
 bowdlerizer
 belonged
 brainwork
+beflowers
 budgeter
 beholds
 berycoidean
