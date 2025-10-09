@@ -2223,7 +2223,6 @@ electress
 elderman
 epiploic
 excessive
-eutectic
 esophagogastrostomy
 etuis
 estherian
@@ -3572,6 +3571,7 @@ escopette
 excriminate
 escobilla
 euchlaena
+eutectic
 embossed
 evildoers
 espials
