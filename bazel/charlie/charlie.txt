@@ -6381,7 +6381,6 @@ collision
 cauterising
 cloudland
 cauterism
-carafe
 claritude
 cauterization
 conchfish
@@ -26630,6 +26629,7 @@ coumara
 coumaran
 coumaric
 celluloided
+carafe
 circumvent
 coumarilic
 carcassless
