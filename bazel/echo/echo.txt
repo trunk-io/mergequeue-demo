@@ -8144,7 +8144,6 @@ epistases
 extrinsicality
 enhancers
 electroforming
-extrusive
 extraprovincial
 electromagnetist
 entera
@@ -10131,6 +10130,7 @@ evansite
 estocada
 epanorthosis
 eudemonism
+extrusive
 experiences
 embedded
 enantobiosis
