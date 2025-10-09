@@ -1032,7 +1032,6 @@ bargainwise
 bollards
 biotites
 bailieries
-bacteric
 botargos
 biogeographic
 busway
@@ -12684,6 +12683,7 @@ bagels
 blanquette
 baneberries
 baguets
+bacteric
 beleaguerment
 bulged
 brasero
