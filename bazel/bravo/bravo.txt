@@ -5442,6 +5442,7 @@ beaked
 bonhommie
 broll
 bandying
+becompass
 bandura
 birny
 brasen
@@ -17823,7 +17824,6 @@ blypes
 bursaries
 bursars
 bluewing
-becompass
 belord
 brocade
 blathering
