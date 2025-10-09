@@ -4991,7 +4991,6 @@ devastators
 demounts
 dempsters
 deaerate
-demolisher
 demulcents
 demulsibility
 designlessness
@@ -12324,6 +12323,7 @@ desynchronize
 diphosphate
 diaconia
 delineates
+demolisher
 dante
 dullsome
 dextrotropic
