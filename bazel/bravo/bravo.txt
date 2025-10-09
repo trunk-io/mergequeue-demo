@@ -13937,6 +13937,7 @@ bacalaos
 barndoor
 baptizee
 bowsman
+buttonmould
 bows
 breastplough
 bolk
@@ -15551,7 +15552,6 @@ baleise
 bumpology
 bargh
 buttonhold
-buttonmould
 becarpets
 broadcasted
 bluehead
