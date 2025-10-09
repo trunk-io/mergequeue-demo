@@ -3047,7 +3047,6 @@ brakesmen
 baseburner
 basecourt
 biradiate
-barycenter
 barrelhouses
 basella
 brothels
@@ -13982,6 +13981,7 @@ brussels
 bullring
 benedicts
 brierberry
+barycenter
 boxhauling
 blaeberry
 boxhauls
