@@ -5376,7 +5376,6 @@ buyable
 begray
 blurred
 bromobenzene
-barbarisation
 bunyan
 bluetops
 bacillariales
@@ -5407,6 +5406,7 @@ beneficence
 begrudge
 benzil
 boggishness
+barbarisation
 begruntle
 biographical
 beadiness
