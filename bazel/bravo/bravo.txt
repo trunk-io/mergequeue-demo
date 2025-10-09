@@ -2322,7 +2322,6 @@ byplays
 bullpout
 buffed
 barcella
-barcelona
 boxwork
 blip
 bacillemia
@@ -3180,6 +3179,7 @@ blash
 birder
 beguilement
 bigmitt
+barcelona
 binormal
 beffroy
 burnover
