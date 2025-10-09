@@ -14420,7 +14420,6 @@ arvos
 atechny
 agranuloplastic
 apozymase
-anthranone
 argentite
 amizilis
 anthratriol
@@ -24801,6 +24800,7 @@ antihumanism
 acidometry
 adsignification
 amphisbaenidae
+anthranone
 ambling
 ailments
 abrader
