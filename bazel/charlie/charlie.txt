@@ -227,7 +227,6 @@ crabmeat
 cacas
 cacatuidae
 cacatuinae
-coactions
 currency
 cacciatora
 cadaveric
@@ -30769,6 +30768,7 @@ culicoides
 commendador
 culinarian
 condenser
+coactions
 creamed
 conservatorship
 cull
