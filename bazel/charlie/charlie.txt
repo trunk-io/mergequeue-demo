@@ -3969,6 +3969,7 @@ carcinemia
 carcinogenesis
 carcinogenic
 curaris
+cursors
 cyclicality
 compartmental
 coenzymatically
@@ -28254,7 +28255,6 @@ colloidal
 crashed
 cube
 confronting
-cursors
 crasher
 crashers
 crashes
