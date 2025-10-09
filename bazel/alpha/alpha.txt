@@ -4338,6 +4338,7 @@ analgesidae
 atmometry
 anecdotal
 attenuant
+aerobe
 alenge
 abdicate
 adust
@@ -10299,7 +10300,6 @@ acoelomi
 autompne
 amentiform
 anhelous
-aerobe
 aments
 agrostological
 adeling
