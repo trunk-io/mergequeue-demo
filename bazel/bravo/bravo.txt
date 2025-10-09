@@ -3940,7 +3940,6 @@ brutify
 bakeoven
 banditti
 barebones
-bombycinous
 bulanda
 beeve
 bedrock
@@ -7280,6 +7279,7 @@ bethankit
 beeswing
 backstays
 bromobenzyl
+bombycinous
 badgir
 bushbuck
 biologics
