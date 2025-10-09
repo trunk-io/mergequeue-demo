@@ -8565,7 +8565,6 @@ endemics
 ethos
 emydes
 emissive
-exodontic
 electrodynamometer
 exprobratory
 englue
@@ -8697,6 +8696,7 @@ enhallow
 electroencephalograph
 entophytal
 eurhythmy
+exodontic
 equisided
 equisignal
 ephemeridae
