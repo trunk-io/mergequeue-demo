@@ -2927,7 +2927,6 @@ bajree
 bioassay
 blarneyer
 betulaceae
-barstools
 besiren
 bart
 bartended
@@ -12824,6 +12823,7 @@ book
 borocarbide
 blepharospath
 brasses
+barstools
 bookbinders
 bourignonist
 banyai
