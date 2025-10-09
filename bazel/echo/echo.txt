@@ -9486,7 +9486,6 @@ eugenesis
 everyway
 epimorphism
 endosmometer
-envois
 exigible
 ellops
 euphemizing
@@ -13253,6 +13252,7 @@ electrometallurgy
 epergnes
 extravaginal
 electroceramic
+envois
 explosimeter
 exembryonate
 ethylating
