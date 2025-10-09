@@ -8696,7 +8696,6 @@ allergists
 aquarium
 adeuism
 allophore
-anastigmat
 anconad
 amorite
 amygdaloncus
@@ -10629,6 +10628,7 @@ arthroplasty
 araneous
 academie
 argentarius
+anastigmat
 arrhythmy
 angiomyosarcoma
 agamae
