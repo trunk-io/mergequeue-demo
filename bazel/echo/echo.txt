@@ -5530,6 +5530,7 @@ evaporite
 enfeoffing
 entheasm
 earthquake
+epoptic
 enamellar
 entoil
 euxenite
@@ -13077,7 +13078,6 @@ evangelary
 extollation
 effluxion
 embolomycotic
-epoptic
 enfolded
 experimenting
 experimentist
