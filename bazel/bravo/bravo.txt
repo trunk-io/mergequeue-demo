@@ -1651,7 +1651,6 @@ balunda
 biaxial
 balneotherapy
 brasiers
-balneotherapia
 bestock
 berdaches
 binaries
@@ -16932,6 +16931,7 @@ baseman
 beamier
 backsheesh
 biconcavity
+balneotherapia
 buzukia
 bugaboo
 butyrousness
