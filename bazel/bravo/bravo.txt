@@ -702,6 +702,7 @@ bade
 badness
 booklice
 baff
+bewield
 besogne
 blueish
 broadbill
@@ -2083,7 +2084,6 @@ brither
 benefactrix
 bibulosities
 banky
-bewield
 botte
 bivalve
 begetter
