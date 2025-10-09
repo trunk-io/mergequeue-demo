@@ -8303,7 +8303,6 @@ alined
 acanthial
 anarthria
 arolium
-anaxial
 acerber
 arado
 antlerite
@@ -17833,6 +17832,7 @@ aerologies
 anaclisis
 aroar
 awaste
+anaxial
 aceship
 andamento
 algraphy
