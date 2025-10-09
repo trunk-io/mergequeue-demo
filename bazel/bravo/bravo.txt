@@ -1622,7 +1622,6 @@ bengali
 ballstock
 ballup
 ballweed
-baromotor
 bimodality
 burton
 becrampon
@@ -7474,6 +7473,7 @@ barbecued
 betumbled
 bourgeon
 balconied
+baromotor
 bowne
 besant
 burtree
