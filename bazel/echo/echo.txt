@@ -2452,7 +2452,6 @@ entente
 euphrosyne
 epiploce
 escapement
-excyst
 endows
 epionynychia
 eleve
@@ -10841,6 +10840,7 @@ engravings
 enteropexy
 embrittlement
 euproctis
+excyst
 endophasia
 excluder
 equilibristat
