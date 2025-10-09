@@ -1882,6 +1882,7 @@ animallike
 anoscope
 auxometer
 aitiology
+absorbs
 alabastos
 aristological
 acclimatement
@@ -7401,7 +7402,6 @@ allonge
 assault
 aconitia
 arrhinia
-absorbs
 antiresonance
 aluminising
 achromic
