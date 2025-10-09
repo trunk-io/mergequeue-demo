@@ -14526,7 +14526,6 @@ cirsectomies
 cirsoid
 cirsophthalmia
 completable
-cirsotomy
 cirsotomies
 cirterion
 cyrtoceras
@@ -29697,6 +29696,7 @@ commonwealths
 croissants
 crocuses
 chronogrammatist
+cirsotomy
 crocuta
 citromyces
 coordinations
