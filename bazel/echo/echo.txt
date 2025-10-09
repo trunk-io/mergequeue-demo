@@ -4842,6 +4842,7 @@ ejectors
 enslavers
 epidermatoid
 engraven
+energized
 epipodia
 eria
 englished
@@ -10948,7 +10949,6 @@ edo
 egoity
 encraal
 erythrolysin
-energized
 enumerated
 eccentricities
 expiate
