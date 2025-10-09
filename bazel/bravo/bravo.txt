@@ -5560,7 +5560,6 @@ bignoniad
 bekissed
 bekisses
 bouleuterion
-borons
 bedip
 beknighted
 ballistite
@@ -12348,6 +12347,7 @@ bugged
 bluebeard
 beldame
 beld
+borons
 bioethic
 baillie
 boskets
