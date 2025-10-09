@@ -9850,7 +9850,6 @@ boardly
 bitartrate
 brogues
 biteable
-begin
 bongo
 burps
 broadcloth
@@ -10038,6 +10037,7 @@ bifidity
 ballistic
 buttermouth
 bivoluminous
+begin
 bactericide
 broguing
 beglobed
