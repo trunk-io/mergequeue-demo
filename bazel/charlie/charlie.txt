@@ -13069,7 +13069,6 @@ conclave
 countrypeople
 connivent
 cyathophyllum
-cyathos
 cibarial
 cibaries
 conyrine
@@ -25101,6 +25100,7 @@ confidente
 chordoid
 chlorinate
 coreidae
+cyathos
 californians
 chetif
 canty
