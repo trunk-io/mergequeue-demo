@@ -2285,6 +2285,7 @@ anthotropism
 amenity
 anorthoscope
 acidulate
+adjacency
 acidulated
 alphabetiser
 acidulously
@@ -19530,7 +19531,6 @@ accede
 antichristianism
 armado
 aristotelian
-adjacency
 asperated
 ariana
 actinobacillus
