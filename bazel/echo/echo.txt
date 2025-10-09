@@ -2110,7 +2110,6 @@ empery
 extraorbital
 ephemerons
 eruptives
-empicture
 engarde
 eurycephalous
 eucommia
@@ -3309,6 +3308,7 @@ endamages
 epileptic
 eelback
 evildoing
+empicture
 elaeodendron
 erythrin
 equiangular
