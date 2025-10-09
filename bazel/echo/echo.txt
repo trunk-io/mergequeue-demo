@@ -800,7 +800,6 @@ extern
 eigenfunction
 electrocution
 eugenic
-ectoparasite
 edaciously
 escroll
 eaglelike
@@ -5029,6 +5028,7 @@ elapsing
 endite
 expanders
 entraps
+ectoparasite
 ergastic
 emodin
 eclairs
