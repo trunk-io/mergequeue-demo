@@ -8485,7 +8485,6 @@ blksize
 bafflingly
 baronne
 binitarian
-balada
 birch
 butyryl
 bearhound
@@ -12594,6 +12593,7 @@ brocage
 bemocks
 bonk
 begrudging
+balada
 bagpiping
 bonne
 breba
