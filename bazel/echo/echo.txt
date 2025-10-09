@@ -1334,7 +1334,6 @@ effluences
 esterlin
 elastases
 epitasis
-endpiece
 epithet
 eddy
 evenfalls
@@ -11273,6 +11272,7 @@ extensors
 expansional
 epileptogenous
 exsputory
+endpiece
 everydayness
 enjoiner
 essayist
