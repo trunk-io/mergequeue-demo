@@ -308,7 +308,6 @@ enchilada
 eagerer
 easterling
 extravagation
-electrolyzability
 eaten
 eighty
 electrodynamic
@@ -6598,6 +6597,7 @@ encraty
 electroacoustics
 elephantlike
 eleventh
+electrolyzability
 expectorations
 enzymologies
 enterohydrocele
