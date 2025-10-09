@@ -2673,6 +2673,7 @@ bosser
 blurbs
 brawlier
 barmbrack
+basileus
 barnstormer
 borderside
 barnstorming
@@ -17753,7 +17754,6 @@ biobibliography
 burnwood
 barbaresque
 brainchildren
-basileus
 browsage
 blastocoelic
 bravadoes
