@@ -5795,7 +5795,6 @@ dismarshall
 discanter
 disauthentic
 disubstitution
-divestible
 deficit
 defacements
 demiurgus
@@ -15611,6 +15610,7 @@ dispersoidology
 donum
 dried
 disseminated
+divestible
 deciares
 deputed
 doubt
