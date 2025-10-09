@@ -2798,6 +2798,7 @@ explicans
 enaluron
 elephantiasis
 entreated
+extract
 eliza
 europhium
 eudeve
@@ -11536,7 +11537,6 @@ enfolding
 eventualities
 exterritorial
 eiffel
-extract
 endocarditis
 episcopalianize
 emes
