@@ -3043,7 +3043,6 @@ benic
 bestness
 bealach
 barques
-butylene
 basculation
 bulbils
 blindfold
@@ -13507,6 +13506,7 @@ burgs
 broilery
 beer
 bought
+butylene
 bleeding
 brahma
 bobo
