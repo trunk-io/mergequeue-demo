@@ -1882,6 +1882,7 @@ bandyball
 beforetime
 beatifies
 bandsman
+bespawl
 brigands
 bepraisement
 beseechment
@@ -18230,7 +18231,6 @@ breakax
 bushwhacks
 bottlelike
 botching
-bespawl
 blubberingly
 brokage
 butterfishes
