@@ -1637,7 +1637,6 @@ estop
 enharden
 enthalpy
 exindusiate
-electrolyses
 experimented
 erminee
 emended
@@ -4434,6 +4433,7 @@ etherialize
 easement
 eludes
 erythromycin
+electrolyses
 erucin
 electrobrasser
 enolase
