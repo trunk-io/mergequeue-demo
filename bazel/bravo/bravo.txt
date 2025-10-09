@@ -10579,7 +10579,6 @@ boltheader
 browman
 bespake
 buduma
-blattid
 bulwand
 buyers
 bantams
@@ -11250,6 +11249,7 @@ barmskin
 bepommel
 buoyance
 bopyridae
+blattid
 blitzed
 bemired
 beatably
