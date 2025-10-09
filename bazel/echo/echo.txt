@@ -789,7 +789,6 @@ extensity
 ephebeibeia
 effacer
 ephemeran
-enumeration
 event
 encorbelment
 emraud
@@ -6168,6 +6167,7 @@ entocondyloid
 endrins
 explicability
 evocator
+enumeration
 exosmosis
 ettling
 edeoscopy
