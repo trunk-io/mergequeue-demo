@@ -5522,7 +5522,6 @@ entheasm
 earthquake
 enamellar
 entoil
-euxenite
 enculturated
 exosmoses
 electrophotographic
@@ -11129,6 +11128,7 @@ ectoplasy
 eutaxy
 eikonogen
 edp
+euxenite
 euciliate
 elbowboard
 engrammes
