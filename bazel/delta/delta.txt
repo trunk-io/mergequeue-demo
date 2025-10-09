@@ -4436,6 +4436,7 @@ disassembled
 diploids
 dementation
 dementholize
+defang
 debted
 draftings
 disseated
@@ -9105,7 +9106,6 @@ dictyoid
 disparage
 doodab
 dynamiting
-defang
 dermatophobia
 defigure
 doctrinarity
