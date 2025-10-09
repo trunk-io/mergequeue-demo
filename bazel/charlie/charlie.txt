@@ -2482,7 +2482,6 @@ candlelight
 candlelighter
 chaloth
 confraternities
-celebs
 choosable
 candlelighting
 cohusband
@@ -21207,6 +21206,7 @@ concause
 concavity
 corrupter
 contemptuous
+celebs
 calpul
 concealedly
 commonweals
