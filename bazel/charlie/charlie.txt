@@ -7053,7 +7053,6 @@ continuant
 compania
 clinginess
 coofs
-chelators
 colonus
 circaea
 camuses
@@ -14227,6 +14226,7 @@ concentricity
 catatonia
 circulus
 cryptorrhesis
+chelators
 cavaedium
 circumambiency
 checkwriter
