@@ -5525,7 +5525,6 @@ benefactive
 bartletts
 bratwurst
 belzebub
-blotted
 bangiales
 burled
 beja
@@ -18337,6 +18336,7 @@ brewst
 botherheaded
 boss
 beshadowed
+blotted
 bescratch
 buddler
 buttonwood
