@@ -4483,6 +4483,7 @@ bacteriostatic
 balimbing
 broodmare
 betroth
+botched
 bushbody
 ballplayer
 briskets
@@ -13354,7 +13355,6 @@ boga
 beetlestone
 badmen
 bluffy
-botched
 botchedly
 burweeds
 bukat
