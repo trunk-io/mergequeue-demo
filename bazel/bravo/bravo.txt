@@ -2064,7 +2064,6 @@ bosomer
 buddhist
 bidstand
 bantam
-bantamize
 bismar
 blowzing
 biliverdic
@@ -18124,6 +18123,7 @@ ballyrag
 bistouries
 bootboy
 belaying
+bantamize
 butchery
 backstabbing
 bedfordshire
