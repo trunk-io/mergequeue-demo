@@ -4096,7 +4096,6 @@ curie
 cardinalis
 closehearted
 cichlids
-cardinality
 clinocephalic
 coruscative
 concupy
@@ -25316,6 +25315,7 @@ corkage
 cocreates
 corkages
 corkboard
+cardinality
 conventionalized
 chachapuya
 corker
