@@ -1798,7 +1798,6 @@ bearfoot
 babirusas
 backstabber
 bandelette
-banderma
 brassage
 banderole
 bindings
@@ -9427,6 +9426,7 @@ butterflying
 beadwork
 brimse
 basidial
+banderma
 biomicroscopy
 boastless
 bumbershoot
