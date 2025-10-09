@@ -4552,7 +4552,6 @@ buccula
 bedchair
 bedchairs
 brachelytrous
-bedcovers
 barbarian
 barodynamics
 blader
@@ -12877,6 +12876,7 @@ baa
 bararite
 boomslang
 boomslange
+bedcovers
 bacchuslike
 busuuti
 bacterins
