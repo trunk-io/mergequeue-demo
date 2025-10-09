@@ -3783,7 +3783,6 @@ affaire
 arboriculture
 allheals
 abuttal
-affect
 alphorns
 adjectional
 annulment
@@ -22163,6 +22162,7 @@ alumstone
 apostolos
 antalkalis
 anhydromyelia
+affect
 apatornis
 arhythmia
 antipersonnel
