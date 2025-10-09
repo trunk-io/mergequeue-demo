@@ -87,7 +87,6 @@ cubics
 cabby
 cabbie
 crenelate
-caret
 cabbies
 cabbled
 canvases
@@ -12924,6 +12923,7 @@ copiers
 clavus
 colorblindness
 cucullus
+caret
 clodpolls
 chromobacterieae
 critism
