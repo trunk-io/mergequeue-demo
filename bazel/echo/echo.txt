@@ -2115,7 +2115,6 @@ effluve
 enemy
 eleusine
 externat
-electrophorus
 emperish
 electroblasting
 eugranitic
@@ -10240,6 +10239,7 @@ embrawn
 euryte
 ecphasis
 exchanges
+electrophorus
 edibles
 exasperated
 exporting
