@@ -4375,7 +4375,6 @@ becloak
 bereavement
 becoiffed
 bulkiness
-backswordsman
 beclogs
 bretonian
 bilabials
@@ -13916,6 +13915,7 @@ bowie
 baized
 balr
 buchite
+backswordsman
 beadiest
 bowyer
 bejape
