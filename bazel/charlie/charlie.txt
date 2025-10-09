@@ -6028,6 +6028,7 @@ coenunuri
 carobs
 cathouse
 carryable
+chisel
 cathouses
 crownling
 cathryn
@@ -13540,7 +13541,6 @@ cylindrodendrite
 collectedly
 cocaine
 cylindrograph
-chisel
 cylindroid
 caudillos
 cylindrometric
