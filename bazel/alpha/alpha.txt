@@ -6644,6 +6644,7 @@ aptitudes
 addlings
 adsmith
 alcohol
+aglucon
 ainus
 anonang
 arachnidial
@@ -18137,7 +18138,6 @@ avanturine
 alcaptonuria
 alboin
 amable
-aglucon
 asconoid
 aquifoliaceous
 amiable
