@@ -15418,7 +15418,6 @@ clansfolk
 cheki
 churchgrith
 clitelliferous
-clanship
 chiricahua
 camelhair
 chimpanzee
@@ -27875,6 +27874,7 @@ compinge
 confuters
 craal
 cytoreticulum
+clanship
 carfare
 craaling
 courtezanship
