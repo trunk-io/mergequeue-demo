@@ -2934,7 +2934,6 @@ buckeroos
 bajree
 bioassay
 blarneyer
-betulaceae
 besiren
 bart
 bartended
@@ -14502,6 +14501,7 @@ boatie
 bemotto
 builtin
 baby
+betulaceae
 brakeroot
 breechless
 bingle
