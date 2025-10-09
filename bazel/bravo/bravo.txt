@@ -7968,6 +7968,7 @@ battler
 bedlight
 bee
 bichloride
+befavour
 bichord
 borazons
 bichos
@@ -17083,7 +17084,6 @@ bulkier
 bulkily
 bialy
 blackcap
-befavour
 blamingly
 beachlamar
 bridebed
