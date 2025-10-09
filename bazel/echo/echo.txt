@@ -894,7 +894,6 @@ etceteras
 ecorticate
 ecttypal
 exeresis
-eigenvalue
 ecuadorian
 eucyclic
 expulser
@@ -6539,6 +6538,7 @@ enquicken
 excubittoria
 equiponderant
 excluding
+eigenvalue
 evolate
 epicondylian
 estovers
