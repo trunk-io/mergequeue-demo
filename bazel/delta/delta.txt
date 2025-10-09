@@ -7829,7 +7829,6 @@ dwelling
 demiss
 devour
 diabolarch
-dorsad
 devourer
 discourseless
 doers
@@ -11413,6 +11412,7 @@ doubtous
 dialkylic
 dissimilar
 dd
+dorsad
 doting
 disclosure
 doge
