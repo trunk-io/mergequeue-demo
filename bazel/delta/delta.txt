@@ -8475,7 +8475,6 @@ deckhouses
 dustcart
 downset
 disrecommendation
-directionize
 diamins
 downgrades
 debaucher
@@ -11530,6 +11529,7 @@ dextrinase
 devoirs
 detective
 dcolletage
+directionize
 diphosphothiamine
 discounter
 dal
