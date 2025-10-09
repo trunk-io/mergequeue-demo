@@ -1373,7 +1373,6 @@ ethiopian
 emunct
 entosthoblast
 epipleural
-etaerio
 enfarce
 enclasp
 effraction
@@ -10334,6 +10333,7 @@ eviscerated
 enate
 exotoxin
 ectocondyle
+etaerio
 exemplify
 excitomotory
 evangelisation
