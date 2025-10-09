@@ -1038,7 +1038,6 @@ diplohedral
 dishes
 directive
 dealfish
-dunkirk
 daintiness
 divisibleness
 diaka
@@ -1438,6 +1437,7 @@ dollardom
 dukedoms
 dories
 dispulp
+dunkirk
 dejeuners
 dazes
 dazy
