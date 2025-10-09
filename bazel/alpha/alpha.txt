@@ -8899,7 +8899,6 @@ aurigid
 averager
 aerobiologic
 anastatus
-allomorphism
 allomorphite
 appestat
 allonym
@@ -9214,6 +9213,7 @@ another
 alodialty
 atelier
 atomics
+allomorphism
 acarines
 aphony
 axofugal
