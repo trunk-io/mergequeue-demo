@@ -7849,7 +7849,6 @@ bibitory
 brob
 beacher
 bumfs
-bohmite
 biblical
 bels
 benamed
@@ -14605,6 +14604,7 @@ bernicle
 branchman
 bovine
 brandenburger
+bohmite
 brandenburgh
 barff
 brandy
