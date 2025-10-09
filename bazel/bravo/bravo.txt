@@ -1019,6 +1019,7 @@ bunglings
 birdshot
 bargainwise
 bollards
+bobsleds
 biotites
 bailieries
 botargos
@@ -4596,7 +4597,6 @@ bedimple
 bolide
 bluegown
 bagasse
-bobsleds
 bilobe
 brides
 bonito
