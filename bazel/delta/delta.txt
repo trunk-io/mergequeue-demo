@@ -11207,7 +11207,6 @@ disbowelled
 disbranch
 disbranched
 dangler
-decrescendos
 departmentally
 deformedly
 dissyllabification
@@ -15078,6 +15077,7 @@ doggoning
 detant
 deify
 distributor
+decrescendos
 derive
 doggrel
 dogget
