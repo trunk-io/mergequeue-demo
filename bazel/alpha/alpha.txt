@@ -1329,7 +1329,6 @@ annealers
 aspersed
 aeolina
 affrontive
-accelerative
 annunciates
 aqueducts
 atmospherical
@@ -12552,6 +12551,7 @@ apatosaurus
 aggregatae
 apronstring
 abkar
+accelerative
 anthribid
 actinotrocha
 archidiaconal
