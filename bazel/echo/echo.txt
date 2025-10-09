@@ -4200,6 +4200,7 @@ episcleral
 examinant
 envelopes
 emulsion
+expandible
 ectopia
 exopathic
 esotrope
@@ -12777,7 +12778,6 @@ epacmaic
 engaol
 enkraal
 extorting
-expandible
 editions
 envenoms
 ensheaths
