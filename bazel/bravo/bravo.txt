@@ -4324,6 +4324,7 @@ baroscopical
 benny
 bushwhacker
 bullseye
+berceau
 beclaw
 besieged
 begirdles
@@ -15758,7 +15759,6 @@ bloodstroke
 becaps
 biscuitmaker
 beauing
-berceau
 basing
 backhandedly
 besonio
