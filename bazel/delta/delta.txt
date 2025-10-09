@@ -1366,7 +1366,6 @@ dispraiser
 dactylopodite
 discomfits
 digitals
-deforested
 disconnecting
 deviating
 deterministic
@@ -11656,6 +11655,7 @@ damsite
 downturn
 denser
 discursative
+deforested
 discommune
 discernible
 denominates
