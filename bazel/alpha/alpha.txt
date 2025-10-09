@@ -3605,7 +3605,6 @@ allheal
 amyloclastic
 anachoret
 autometry
-alimenting
 agmas
 austenitize
 aurulent
@@ -4105,6 +4104,7 @@ armorers
 amens
 attributer
 archy
+alimenting
 amalgamable
 advocatrix
 analyzer
