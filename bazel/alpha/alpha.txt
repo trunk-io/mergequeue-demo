@@ -4560,6 +4560,7 @@ aediculae
 anaesthesiologist
 aphidiinae
 absey
+anamorphose
 alorcinic
 aedicule
 adject
@@ -11559,7 +11560,6 @@ alchem
 aminotransferase
 adiate
 arising
-anamorphose
 abranchial
 atechnic
 androdioecism

@@ -550,7 +550,6 @@ extractable
 extispices
 eclamptic
 efficacious
-ecstatics
 extollers
 ephemerides
 equation
@@ -6046,6 +6045,7 @@ eloigning
 exocone
 exchanger
 equationally
+ecstatics
 epifauna
 experimentation
 epirrhema
