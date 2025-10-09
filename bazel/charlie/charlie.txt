@@ -4728,7 +4728,6 @@ cowlings
 carpoidea
 chalcidid
 carpolith
-confides
 carpology
 corrosibility
 corynocarpaceae
@@ -12068,6 +12067,7 @@ clansman
 chass
 casula
 cyclophorus
+confides
 chophouses
 comoedia
 convalesces
