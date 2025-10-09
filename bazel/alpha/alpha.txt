@@ -4802,7 +4802,6 @@ annotation
 auslaut
 antecoxal
 airbill
-aerodrome
 amidopyrine
 aerodromes
 aphanozygous
@@ -6049,6 +6048,7 @@ aspartokinase
 androclinium
 actinoneuritis
 autochrome
+aerodrome
 astrolabes
 arseniuretted
 atry
