@@ -6902,7 +6902,6 @@ dimiss
 diasyrm
 diffusimeter
 desoxyribonucleic
-dialled
 disoccupied
 despair
 delirous
@@ -12714,6 +12713,7 @@ divel
 describe
 dialysing
 decodings
+dialled
 deployment
 dolabriform
 dikamali
