@@ -9536,6 +9536,7 @@ cautioning
 circumferences
 checkpoint
 checkpointed
+chiastic
 checkpointing
 combmaking
 checkpoints
@@ -9972,7 +9973,6 @@ cherish
 crawfishes
 cantaliver
 chymic
-chiastic
 creamcup
 cherishment
 chermes
