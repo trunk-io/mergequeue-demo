@@ -6750,7 +6750,6 @@ bloodred
 bufonid
 berry
 banshee
-bioassays
 bedscrew
 bumpier
 busulfan
@@ -14973,6 +14972,7 @@ bedgoer
 begun
 beatrice
 bastioned
+bioassays
 backplanes
 brassicas
 baklawas
