@@ -7943,7 +7943,6 @@ dextran
 doublelunged
 disallowable
 disfigured
-deaths
 downsteepy
 deduct
 dartos
@@ -14549,6 +14548,7 @@ deesis
 deemster
 darabukka
 diwani
+deaths
 durr
 defusing
 dracma
