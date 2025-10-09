@@ -4890,7 +4890,6 @@ epicele
 eelblenny
 endemiology
 extrabureau
-epenthetic
 english
 evolves
 enantiosis
@@ -9079,6 +9078,7 @@ electroencephalographic
 enterograph
 ethinyl
 escalloniaceae
+epenthetic
 egotism
 entogenous
 efformative
