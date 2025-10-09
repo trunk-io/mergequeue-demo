@@ -6606,6 +6606,7 @@ decipherable
 deselected
 disinfecting
 deadborn
+decipherability
 duddie
 desiccants
 dichotomised
@@ -9614,7 +9615,6 @@ departisanize
 dignitary
 dislustered
 dignitarian
-decipherability
 dhangar
 draggiest
 disproportionably
