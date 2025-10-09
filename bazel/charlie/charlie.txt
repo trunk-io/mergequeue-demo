@@ -216,7 +216,6 @@ cotillage
 cubiform
 cabrilla
 cabrillas
-cabs
 cabstands
 cabuya
 cabureiba
@@ -2007,6 +2006,7 @@ citicorp
 coincidence
 companionship
 competitioner
+cabs
 companionize
 chandlery
 collapsar
