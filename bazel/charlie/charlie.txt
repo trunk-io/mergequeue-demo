@@ -7049,7 +7049,6 @@ centerable
 cutup
 clangorous
 centerboard
-centerer
 centerfold
 continuant
 compania
@@ -21555,6 +21554,7 @@ curliewurly
 cap
 cantalas
 classifically
+centerer
 crescent
 cytology
 carpidium
