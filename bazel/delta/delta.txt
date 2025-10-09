@@ -2231,7 +2231,6 @@ dungeonlike
 damnificatus
 drummed
 deceiving
-defuzes
 desultorious
 departmental
 dustbox
@@ -5824,6 +5823,7 @@ dentil
 duplet
 depots
 deprave
+defuzes
 disanagrammatize
 depravedness
 desertless
