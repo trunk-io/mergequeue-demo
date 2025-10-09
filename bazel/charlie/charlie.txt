@@ -16637,6 +16637,7 @@ closable
 closeable
 closecross
 closed
+congeable
 caffiaceous
 collocution
 cognisant
@@ -27286,7 +27287,6 @@ curtal
 countryfiedness
 countryfolk
 closewing
-congeable
 countrymen
 curator
 calico
