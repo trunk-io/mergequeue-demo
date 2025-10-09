@@ -6191,7 +6191,6 @@ executable
 everting
 exoculated
 exhortator
-enorn
 eradiating
 euphemist
 eradiation
@@ -10712,6 +10711,7 @@ empacket
 eupatorium
 ethnobiology
 eupatrids
+enorn
 eluent
 epistoma
 engystomatidae
