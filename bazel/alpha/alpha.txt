@@ -4711,7 +4711,6 @@ attercop
 antiparabemata
 adglutinate
 aeriform
-azygous
 aspide
 anemoscope
 ankylurethria
@@ -7813,6 +7812,7 @@ arlene
 actinodrome
 angiospermae
 aspises
+azygous
 arctitude
 alectoromancy
 archoverseer
