@@ -6764,6 +6764,7 @@ adapting
 archaeocyathus
 anisometropia
 androcyte
+arctan
 asseverates
 aesculapian
 aristolochiales
@@ -19117,7 +19118,6 @@ antlion
 antipsoric
 amphiumidae
 ammelide
-arctan
 arctation
 abnegation
 attendances
