@@ -8149,7 +8149,6 @@ champs
 counteractions
 coronographic
 ceroxylon
-craspedon
 cheilostomata
 chainmaker
 commentative
@@ -28257,6 +28256,7 @@ craping
 crapper
 chrysopoetic
 crappy
+craspedon
 contrarotation
 compoundness
 cathode
