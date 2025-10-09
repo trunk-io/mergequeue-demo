@@ -7686,7 +7686,6 @@ cerionidae
 cerise
 clubroots
 cerithiidae
-cerithium
 ceriums
 corambis
 chloroplatinite
@@ -23498,6 +23497,7 @@ culpatory
 congregator
 contentedly
 contenting
+cerithium
 circuting
 crashing
 caphs
