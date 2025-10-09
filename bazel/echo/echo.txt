@@ -6953,7 +6953,6 @@ eager
 entreats
 eponym
 empeoplement
-even
 encoding
 eighteenmo
 estmark
@@ -12944,6 +12943,7 @@ epopee
 endochondral
 espiegle
 embryonal
+even
 encyclopaedize
 encaustic
 entastic
