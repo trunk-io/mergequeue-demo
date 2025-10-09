@@ -2967,6 +2967,7 @@ branglement
 burgesses
 bartizans
 burrobrush
+bioluminescence
 boracium
 brittling
 blighia
@@ -6371,7 +6372,6 @@ behedge
 benzophenothiazine
 benzophloroglucinol
 baculi
-bioluminescence
 bedazzled
 benedight
 breakup
