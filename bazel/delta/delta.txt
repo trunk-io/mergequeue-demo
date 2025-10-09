@@ -3502,6 +3502,7 @@ dingles
 drawbeam
 duffies
 dissheathe
+diageotropism
 diminishable
 defuze
 dissimilarity
@@ -7270,7 +7271,6 @@ determinated
 dishelming
 driftwood
 drownding
-diageotropism
 davy
 denegate
 diallagoid
