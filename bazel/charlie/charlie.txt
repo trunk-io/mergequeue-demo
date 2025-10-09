@@ -3743,6 +3743,7 @@ cor
 clouters
 carbineer
 chowchows
+carburetor
 carbines
 carbinols
 corytuberine
@@ -3891,7 +3892,6 @@ carbureted
 carburetest
 carburetion
 conformational
-carburetor
 cornily
 corset
 capra
