@@ -1432,6 +1432,7 @@ affixable
 aeronautics
 anadicrotic
 atriopore
+antifouler
 acost
 apses
 azotite
@@ -17119,7 +17120,6 @@ aphanite
 apostolic
 archvillain
 apokrea
-antifouler
 authenticly
 anacid
 adduction
