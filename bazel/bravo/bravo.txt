@@ -12025,6 +12025,7 @@ breadboards
 bel
 brother
 bund
+brickel
 bogued
 bogus
 bohairic
@@ -15187,7 +15188,6 @@ brunizem
 ballistocardiography
 billhook
 boroglyceride
-brickel
 bun
 berk
 beshame
