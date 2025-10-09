@@ -3862,6 +3862,7 @@ dissect
 deemphasis
 deerdog
 documentation
+damosels
 damone
 dinobryon
 deprogrammed
@@ -15254,7 +15255,6 @@ disfigurements
 depreciated
 dolium
 diplopia
-damosels
 deading
 dicolic
 dicotyledonary
