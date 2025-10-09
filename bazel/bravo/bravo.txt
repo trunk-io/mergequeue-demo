@@ -3229,7 +3229,6 @@ baratheas
 brume
 believe
 brisant
-basiradial
 boyce
 bacterioscopic
 basirostral
@@ -6225,6 +6224,7 @@ block
 blackarm
 beveling
 basifier
+basiradial
 blindfish
 battalions
 burkers
