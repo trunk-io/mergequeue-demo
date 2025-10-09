@@ -5478,6 +5478,7 @@ commorancy
 catabolin
 catabolite
 corsepresent
+checkbits
 catabolized
 claim
 curwhibble
@@ -14597,7 +14598,6 @@ cistercian
 choppy
 cistercianism
 cisternae
-checkbits
 chronologic
 cariocas
 cornier
