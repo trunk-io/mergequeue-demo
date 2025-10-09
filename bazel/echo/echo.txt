@@ -1253,7 +1253,6 @@ enlarge
 equip
 effectuated
 effectuating
-effervesced
 exuberate
 effectuous
 epigastrical
@@ -1457,6 +1456,7 @@ egestion
 eusporangiate
 eyeable
 electriferous
+effervesced
 ethmoid
 editorializing
 empodium
