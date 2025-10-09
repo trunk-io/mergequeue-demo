@@ -720,7 +720,6 @@ antibubonic
 abrash
 abrasing
 autoserum
-autogyro
 acanthocereus
 alphonsism
 antiqued
@@ -5789,6 +5788,7 @@ asexually
 autoinfection
 adactylous
 absence
+autogyro
 ager
 actinocrinidae
 anlia
