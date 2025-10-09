@@ -6558,7 +6558,6 @@ charcuterie
 calamitoid
 cheroot
 cdg
-cdr
 calcivorous
 cesspool
 cicadidae
@@ -19592,6 +19591,7 @@ colstaff
 coups
 crosiers
 congresswoman
+cdr
 coltishly
 calicos
 coltoria
