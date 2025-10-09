@@ -5927,6 +5927,7 @@ depreter
 decimus
 depriment
 dewal
+damndests
 disorderedness
 decalcify
 draughtsmen
@@ -16769,7 +16770,6 @@ disciplinary
 discretionally
 disharmonized
 dichloroacetic
-damndests
 disparison
 dorbugs
 decourse
