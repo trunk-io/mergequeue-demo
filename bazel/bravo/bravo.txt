@@ -3869,7 +3869,6 @@ beaconless
 bergeret
 bicycles
 beslur
-believer
 bola
 beedi
 beadeye
@@ -7681,6 +7680,7 @@ beblot
 bespangles
 britten
 bathyscaphe
+believer
 buxerry
 bhikshu
 brakehand
