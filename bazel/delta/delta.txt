@@ -2512,7 +2512,6 @@ declasses
 dehumidify
 distingue
 dorn
-disjudication
 disjasket
 dweller
 derringer
@@ -3895,6 +3894,7 @@ doggerelize
 discommunity
 decares
 designating
+disjudication
 dekameters
 decrepity
 dermopathic
