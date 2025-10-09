@@ -395,7 +395,6 @@ bushman
 bawlers
 balkily
 brewery
-bovarist
 backhaul
 backhooker
 bemoans
@@ -8961,6 +8960,7 @@ bronx
 bacteriotropin
 bezetta
 backspace
+bovarist
 bohemias
 biogeographical
 battlements
