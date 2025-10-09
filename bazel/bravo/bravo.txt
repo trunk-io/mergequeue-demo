@@ -2638,6 +2638,7 @@ backbit
 barmcloth
 brither
 birdcage
+bullae
 bascules
 bales
 barnaby
@@ -11574,7 +11575,6 @@ bundestag
 butteriest
 barotaxis
 birthday
-bullae
 blunger
 berrypicker
 betorcinol
