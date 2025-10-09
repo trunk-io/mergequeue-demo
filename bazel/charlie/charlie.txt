@@ -4653,7 +4653,6 @@ carpenters
 charlock
 carpet
 causticity
-carpetbag
 cacopharyngia
 carpetbaggery
 cyathi
@@ -16310,6 +16309,7 @@ clypeastrina
 clypeastroid
 conspicuous
 caraco
+carpetbag
 cleanskin
 clypeated
 clypeiform
