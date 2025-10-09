@@ -478,7 +478,6 @@ blechnum
 battik
 benzoates
 beerage
-bequeathed
 backspaces
 benchland
 burseraceae
@@ -17222,6 +17221,7 @@ besprizorni
 bothros
 bathylith
 bulls
+bequeathed
 backspacefile
 brodee
 bullated
