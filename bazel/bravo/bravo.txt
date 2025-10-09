@@ -7241,7 +7241,6 @@ bottier
 birde
 barnstormers
 brazera
-bedecked
 bennetweed
 borides
 betel
@@ -13675,6 +13674,7 @@ blurry
 bridgepot
 bounder
 blest
+bedecked
 blowup
 baxter
 burladero
