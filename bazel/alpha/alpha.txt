@@ -13800,7 +13800,6 @@ attenuates
 anopla
 antitabloid
 apprehended
-anticreep
 anoplonemertini
 aphelenchus
 antisoporific
@@ -18565,6 +18564,7 @@ aetiology
 archaeopterygiformes
 alkalescent
 arcs
+anticreep
 aggregating
 asyndetons
 archaeostoma
