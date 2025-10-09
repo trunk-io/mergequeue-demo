@@ -8804,6 +8804,7 @@ dital
 disrank
 dansant
 dictations
+drone
 diffident
 digitation
 daibutsu
@@ -16677,7 +16678,6 @@ debiteuse
 dragstaff
 decolonizes
 drumbeats
-drone
 dilettantes
 demisovereign
 drayage

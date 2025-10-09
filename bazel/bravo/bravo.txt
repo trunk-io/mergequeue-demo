@@ -1900,7 +1900,6 @@ bepraisement
 beseechment
 burbler
 bocaccios
-bagnio
 ballone
 balances
 bandstring
@@ -6677,6 +6676,7 @@ budgers
 beriberis
 berycid
 brehonia
+bagnio
 berycidae
 bituberculate
 boltonite
