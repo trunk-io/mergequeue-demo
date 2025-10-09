@@ -1087,7 +1087,6 @@ edestin
 estuaries
 eutomous
 extraboldface
-ephemerid
 endosternite
 edoni
 entrochite
@@ -12538,6 +12537,7 @@ eclegme
 exogen
 emanator
 exercent
+ephemerid
 eunuchoid
 earldom
 esophagostomy
