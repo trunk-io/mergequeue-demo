@@ -1485,7 +1485,6 @@ electroanesthesia
 electrobioscopy
 easies
 estre
-excandescence
 exhale
 explained
 evestar
@@ -9845,6 +9844,7 @@ executes
 estivating
 euhedral
 ectrodactylous
+excandescence
 eyeletting
 epideictical
 esterization
