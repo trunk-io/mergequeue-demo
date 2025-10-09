@@ -5951,7 +5951,6 @@ cutcha
 cathedrated
 cathedratic
 commodious
-cathedraticum
 cathepsin
 cathern
 catties
@@ -17126,6 +17125,7 @@ campement
 calculagraph
 covotary
 commonweal
+cathedraticum
 controvertible
 chuvashes
 coemptional
