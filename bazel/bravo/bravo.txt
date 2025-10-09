@@ -855,6 +855,7 @@ bountifulness
 bossies
 bullwhips
 baggier
+baleys
 baggings
 battlegrounds
 blindling
@@ -12570,7 +12571,6 @@ bathoflore
 balsamroot
 boughs
 brails
-baleys
 brontogram
 bacharach
 bacubert
