@@ -10336,7 +10336,6 @@ ballsy
 blacktongue
 bonedry
 bedless
-booklore
 buchmanite
 bajada
 bromination
@@ -16476,6 +16475,7 @@ beecher
 buddle
 blennotorrhea
 butches
+booklore
 burrhel
 bookstand
 basicities
