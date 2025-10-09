@@ -2290,6 +2290,7 @@ bellehood
 babakoto
 betrayers
 bourignianism
+buyable
 brim
 burdensome
 braggart
@@ -5367,7 +5368,6 @@ begowk
 begowned
 blacktops
 baptizes
-buyable
 begray
 blurred
 bromobenzene
