@@ -627,7 +627,6 @@ enspell
 exculpations
 equidistant
 enode
-exposited
 equalable
 embryographer
 embraciveg
@@ -1560,6 +1559,7 @@ expounded
 ew
 endearingly
 eh
+exposited
 eheu
 estivates
 episomes
