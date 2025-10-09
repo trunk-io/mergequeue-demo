@@ -2380,6 +2380,7 @@ druidry
 dispelled
 decima
 decimalism
+demifigure
 dueling
 doxies
 disputative
@@ -4542,7 +4543,6 @@ deterred
 dispersoid
 demies
 dosimetric
-demifigure
 deoxidisation
 decentres
 doomage
