@@ -3866,7 +3866,6 @@ enalid
 enteroptosis
 eosinlike
 epiglottis
-endexine
 emitting
 entamebas
 explores
@@ -6278,6 +6277,7 @@ enharmonically
 earnful
 eumycetes
 ecophysiology
+endexine
 embowed
 enrut
 epicycloid
