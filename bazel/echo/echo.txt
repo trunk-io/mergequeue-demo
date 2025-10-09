@@ -4959,7 +4959,6 @@ ecliptics
 estrada
 emulatress
 embarkations
-excathedral
 endeavour
 endamaging
 ericeticolous
@@ -12540,6 +12539,7 @@ englante
 erythrina
 eclegme
 exogen
+excathedral
 emanator
 exercent
 ephemerid
