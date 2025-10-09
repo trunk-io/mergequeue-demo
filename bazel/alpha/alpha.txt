@@ -792,6 +792,7 @@ acoustician
 aircoach
 arrogance
 archpilferer
+ancille
 ankerites
 abaisse
 abrook
@@ -11911,7 +11912,6 @@ ashstone
 anaphe
 annotatory
 accidental
-ancille
 anaphylactically
 apostrophal
 asymptotes
