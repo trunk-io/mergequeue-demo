@@ -1148,7 +1148,6 @@ boxer
 bajocco
 byes
 bajra
-beards
 bedarkening
 beltmen
 balsams
@@ -8613,6 +8612,7 @@ bali
 burleycue
 balmacaan
 bryales
+beards
 benzo
 billman
 balneae
