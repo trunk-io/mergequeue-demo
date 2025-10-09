@@ -7947,7 +7947,6 @@ doublelunged
 disallowable
 dexamethasone
 disfigured
-deaths
 downsteepy
 deduct
 dartos
@@ -14551,6 +14550,7 @@ deesis
 deemster
 darabukka
 diwani
+deaths
 durr
 defusing
 dracma
