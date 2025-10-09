@@ -2129,6 +2129,7 @@ checksums
 camphorweed
 cinchonaceae
 camphorwood
+cretion
 cotan
 completions
 conference
@@ -3486,7 +3487,6 @@ captioned
 convenably
 captiousness
 captivance
-cretion
 chemotherapist
 chaired
 colostral
