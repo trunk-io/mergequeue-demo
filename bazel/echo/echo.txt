@@ -1960,6 +1960,7 @@ entitlement
 equivocated
 exophoric
 escheatment
+exopod
 experienceless
 eryngo
 endecha
@@ -5198,7 +5199,6 @@ eparchy
 esterification
 eglomerate
 electrodepositable
-exopod
 epistrophic
 elk
 endomitosis
