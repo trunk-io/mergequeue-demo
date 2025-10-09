@@ -13570,7 +13570,6 @@ colament
 coercivity
 cort
 calorisator
-cymaphyte
 cymaphytic
 cymaphytism
 cymar
@@ -15584,6 +15583,7 @@ cuitle
 clasped
 cinevariety
 clasper
+cymaphyte
 claspers
 claspt
 classable
