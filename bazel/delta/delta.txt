@@ -2309,7 +2309,6 @@ dinichthyid
 delineable
 dustup
 dialectologist
-determinant
 denouement
 downshifts
 dysodile
@@ -18475,6 +18474,7 @@ dumbledore
 dogsbody
 duplicators
 duncehood
+determinant
 downbye
 dactylograph
 diagometer
