@@ -6863,6 +6863,7 @@ equipments
 embelif
 emergencies
 excavators
+exiguity
 embossman
 eucalyn
 epitrchelia
@@ -12014,7 +12015,6 @@ entincture
 electroanalysis
 elision
 elasmobranchian
-exiguity
 encashing
 exhibitable
 ebionite
