@@ -1436,7 +1436,6 @@ counterservice
 cystidicolous
 callais
 callaloo
-caviares
 callants
 chanciest
 clausular
@@ -11606,6 +11605,7 @@ cholecystokinin
 cholecystolithiasis
 cholecystostomy
 choledochal
+caviares
 coexisted
 copybooks
 crazier
