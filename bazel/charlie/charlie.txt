@@ -4884,6 +4884,7 @@ counterstimulus
 carted
 curtalax
 cleavers
+conky
 cartel
 chondriosomes
 cokelike
@@ -14982,7 +14983,6 @@ cerebroganglion
 cytotaxis
 creosols
 cytotaxonomy
-conky
 chromatoplasm
 claudius
 countersurprise
