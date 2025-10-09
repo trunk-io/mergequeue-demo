@@ -788,6 +788,7 @@ effacer
 ephemeran
 event
 encorbelment
+engrandizement
 emraud
 englobement
 expedited
@@ -5827,7 +5828,6 @@ elkhounds
 enhydris
 ebrillade
 enculturation
-engrandizement
 examinative
 elates
 embranchment
