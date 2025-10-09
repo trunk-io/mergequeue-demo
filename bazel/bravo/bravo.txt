@@ -4405,7 +4405,6 @@ billows
 bullragged
 becrowded
 burstwort
-billeting
 bidi
 bumptiously
 buffering
@@ -5959,6 +5958,7 @@ bauxitic
 bowenite
 boiling
 bradyphasia
+billeting
 baho
 ballasting
 blanquillos
