@@ -1800,7 +1800,6 @@ backstabber
 bandelette
 brassage
 banderole
-bindings
 brigading
 blere
 banders
@@ -11211,6 +11210,7 @@ bisection
 bloodstream
 balkanize
 butylation
+bindings
 bloodstreams
 bolivars
 boastive
