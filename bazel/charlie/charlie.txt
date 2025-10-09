@@ -6267,7 +6267,6 @@ customed
 crassulaceae
 conche
 caulinar
-ceroplast
 caulis
 caulivorous
 choanosomal
@@ -8758,6 +8757,7 @@ chapelries
 cinerins
 chapels
 chapelward
+ceroplast
 chaperno
 chaperonage
 crotaphic
