@@ -5439,7 +5439,6 @@ euhemerism
 energeia
 emblematicalness
 electrobath
-enterclose
 energesis
 exocycloida
 energetic
@@ -13447,6 +13446,7 @@ ethnocentricity
 enantiotropy
 embassador
 exsequatur
+enterclose
 eolopile
 epilepsia
 ectosteal
