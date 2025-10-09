@@ -1768,7 +1768,6 @@ bullose
 brushable
 bialystoker
 bandaging
-beisance
 bowlin
 beleaped
 beaverpelt
@@ -15351,6 +15350,7 @@ blisterwort
 bohorok
 boatman
 brieflessly
+beisance
 briefness
 barometrically
 bleeds
