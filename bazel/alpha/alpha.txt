@@ -8989,6 +8989,7 @@ albumose
 aragonspath
 aefauld
 anserin
+armored
 argonne
 ailanthus
 arecain
@@ -12610,7 +12611,6 @@ amenuse
 ambushment
 auchlet
 annexitis
-armored
 afternose
 alcedo
 astropecten
