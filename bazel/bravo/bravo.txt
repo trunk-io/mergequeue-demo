@@ -4470,6 +4470,7 @@ braconids
 blatancies
 breeding
 bothersomely
+biocides
 ballahoo
 berrybush
 bedamned
@@ -13851,7 +13852,6 @@ bramblebush
 bandsawed
 benjamite
 butters
-biocides
 bleachery
 bowdlerizing
 begazing
