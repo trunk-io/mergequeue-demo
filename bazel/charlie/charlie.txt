@@ -21389,7 +21389,6 @@ conchoids
 conchol
 caritas
 conchometer
-conchospiral
 cowboys
 caparison
 computed
@@ -24825,6 +24824,7 @@ commers
 coordinatory
 corneagen
 cystomorphous
+conchospiral
 consumate
 clairschacher
 cyanomethemoglobin
