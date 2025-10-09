@@ -3615,7 +3615,6 @@ degraded
 degradement
 dozing
 drugged
-disguiser
 depsid
 disrupt
 dapedium
@@ -18528,6 +18527,7 @@ downcast
 donned
 divorced
 duraspinalis
+disguiser
 durations
 downgrading
 durative
