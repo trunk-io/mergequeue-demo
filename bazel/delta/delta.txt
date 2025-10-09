@@ -791,7 +791,6 @@ deferrers
 delusters
 dovecote
 danegelds
-dungeon
 druggery
 discomycete
 diffract
@@ -8758,6 +8757,7 @@ diastase
 din
 domelike
 destinal
+dungeon
 denaturalisation
 diadoche
 dunked
