@@ -3461,7 +3461,6 @@ controled
 collybia
 captaincy
 captaincies
-captainry
 cobblers
 commissaries
 condensational
@@ -10866,6 +10865,7 @@ chippewas
 chippy
 cising
 churchshot
+captainry
 chloralose
 cowslip
 canzoni
