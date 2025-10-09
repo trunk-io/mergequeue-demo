@@ -3562,7 +3562,6 @@ caraboid
 carabus
 carack
 caracks
-caracoa
 cumanagoto
 curtaxe
 caracol
@@ -20309,6 +20308,7 @@ commorancies
 chachalakas
 commorse
 costeen
+caracoa
 commorth
 campulitropous
 commot
