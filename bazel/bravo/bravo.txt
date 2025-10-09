@@ -5326,7 +5326,6 @@ beglide
 benzalhydrazine
 bor
 blacksmithing
-barneys
 beglooms
 bandwidth
 beclog
@@ -8904,6 +8903,7 @@ burgess
 boffola
 bromvogel
 balsamine
+barneys
 boeotian
 bonedog
 bathyorographical
