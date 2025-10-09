@@ -289,6 +289,7 @@ appunctuation
 attester
 aphydrotropism
 aulete
+aer
 als
 axiomatic
 affrontingness
@@ -6666,7 +6667,6 @@ agglutination
 aptitudes
 addlings
 adsmith
-aer
 alcohol
 aglucon
 ainus
