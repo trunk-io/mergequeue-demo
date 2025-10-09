@@ -4454,7 +4454,6 @@ burglarious
 balmoral
 benevolency
 bellrags
-becurses
 basommatophorous
 blowbys
 balefire
@@ -12469,6 +12468,7 @@ bemail
 beclamor
 beholdable
 begoud
+becurses
 biphenyl
 burdens
 bronzewing
