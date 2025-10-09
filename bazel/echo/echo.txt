@@ -3049,7 +3049,6 @@ electrothermostat
 eyestring
 ellenyard
 escribed
-equilater
 emetia
 ellfish
 enhydra
@@ -9617,6 +9616,7 @@ evilnesses
 embody
 ethane
 eschele
+equilater
 editchar
 espino
 evilsayer
