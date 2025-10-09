@@ -2570,7 +2570,6 @@ bovarism
 basicity
 billon
 begreen
-bilges
 barkless
 battening
 biaxal
@@ -7056,6 +7055,7 @@ bedwards
 bumaree
 ballroom
 blastocyte
+bilges
 biblioclasm
 brescian
 bepen
