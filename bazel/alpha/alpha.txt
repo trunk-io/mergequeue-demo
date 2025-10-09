@@ -6415,6 +6415,7 @@ amaranthoid
 ahom
 autonephrectomy
 ahriman
+abscised
 ablare
 amblychromatic
 arthogram
@@ -17561,7 +17562,6 @@ ascii
 alienees
 appendicectomy
 assoilzie
-abscised
 agonostomus
 aulostomi
 acrobatic
