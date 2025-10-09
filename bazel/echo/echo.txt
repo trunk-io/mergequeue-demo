@@ -4787,7 +4787,6 @@ encode
 extrait
 encoded
 effectivity
-exogeny
 etymologize
 eventides
 encolour
@@ -13277,6 +13276,7 @@ ephoralty
 etymologised
 extrared
 ephebes
+exogeny
 excircle
 exsertion
 extraordinary
