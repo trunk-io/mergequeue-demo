@@ -8168,7 +8168,6 @@ chairmans
 chondroclasis
 chairmanship
 congrid
-chairmanships
 checkoff
 chairmender
 cottontop
@@ -25347,6 +25346,7 @@ corncrib
 centripetal
 corncrusher
 cheesier
+chairmanships
 coldbloodedness
 corncutter
 corndodger
