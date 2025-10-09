@@ -5419,6 +5419,7 @@ esthesiometer
 enfester
 exportation
 ed
+eikons
 electronvolt
 enrolled
 endowment
@@ -9299,7 +9300,6 @@ extricating
 entelechy
 eductive
 erucivorous
-eikons
 extendability
 equipoising
 electroform
