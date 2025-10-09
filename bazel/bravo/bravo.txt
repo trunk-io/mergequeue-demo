@@ -589,7 +589,6 @@ birdie
 bibliolatry
 burgau
 bowfins
-bounds
 baconize
 basipterygial
 baconweed
@@ -7911,6 +7910,7 @@ basset
 brusk
 bealtine
 barricaders
+bounds
 bargoose
 bottles
 brogued
