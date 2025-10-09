@@ -20053,7 +20053,6 @@ chinaware
 crouchmas
 commandoes
 ceraunomancy
-commandoman
 canfieldite
 commandos
 commandry
@@ -29810,6 +29809,7 @@ crool
 counterambush
 croon
 crooned
+commandoman
 confusability
 caliperer
 conveyorization
