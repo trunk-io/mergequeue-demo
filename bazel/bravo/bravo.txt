@@ -3974,7 +3974,6 @@ biographist
 burglarproofing
 buchu
 brutify
-battleship
 bakeoven
 banditti
 barebones
@@ -14760,6 +14759,7 @@ britannic
 bullwork
 braunite
 bonbonniere
+battleship
 bacteriotherapeutic
 blende
 braunites
