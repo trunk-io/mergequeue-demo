@@ -2996,6 +2996,7 @@ bsf
 biome
 bartonella
 bookbinderies
+boglet
 bartree
 banish
 bliest
@@ -12020,7 +12021,6 @@ budgerigah
 belauder
 bytalk
 bogled
-boglet
 beckelite
 bolts
 benzoquinone
