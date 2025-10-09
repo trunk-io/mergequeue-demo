@@ -6074,7 +6074,6 @@ aglossia
 alkoxide
 agriology
 aside
-achondrite
 advenient
 allethrin
 amoreuxia
@@ -19833,6 +19832,7 @@ acrodermatitis
 autochthonous
 alteratively
 autoskeleton
+achondrite
 apterium
 antigalactic
 attachable
