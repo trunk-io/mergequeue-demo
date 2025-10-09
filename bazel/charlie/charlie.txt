@@ -30038,7 +30038,6 @@ crouchant
 crouchback
 crouched
 crouches
-chiming
 crouchie
 cutins
 cacothesis
@@ -30195,6 +30194,7 @@ cornuses
 chondroglossus
 crucifixions
 cyanemia
+chiming
 craftily
 cogences
 cruciformity
