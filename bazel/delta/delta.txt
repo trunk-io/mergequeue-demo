@@ -3384,7 +3384,6 @@ dictyoxylon
 dawdling
 doigte
 dang
-drawstring
 dropperful
 defoamed
 diacetylmorphine
@@ -6790,6 +6789,7 @@ dietzeite
 desiredly
 distruster
 disintrench
+drawstring
 daub
 drachma
 dihedrons
