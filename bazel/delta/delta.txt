@@ -1535,7 +1535,6 @@ darknesses
 dewlap
 denominant
 deadheartedly
-deadheartedness
 deady
 decoic
 dominancy
@@ -3066,6 +3065,7 @@ dawe
 defamy
 delegating
 desmoneme
+deadheartedness
 discerpibleness
 disability
 defaulted
