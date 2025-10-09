@@ -2984,6 +2984,7 @@ burgesses
 bartizans
 burrobrush
 boracium
+blighia
 boomtown
 bolt
 boller
@@ -6785,7 +6786,6 @@ boolya
 boogiewoogie
 bundlers
 beaut
-blighia
 barytosulphate
 bookery
 berserker
