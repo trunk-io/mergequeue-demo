@@ -1500,7 +1500,6 @@ bodyhood
 boread
 barde
 bersiamite
-backsword
 ballata
 burry
 brunetteness
@@ -2725,6 +2724,7 @@ buboed
 boatloading
 bucks
 bezique
+backsword
 bitonal
 baronetize
 brunets
