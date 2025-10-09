@@ -5763,7 +5763,6 @@ bebatter
 buckstone
 below
 butlerism
-bandstop
 boffos
 bathmic
 broiderer
@@ -17562,6 +17561,7 @@ burdigalian
 barbera
 barology
 burds
+bandstop
 botanomancy
 bungtown
 beware
