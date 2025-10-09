@@ -7685,6 +7685,7 @@ bouchette
 backfilling
 bezzo
 bhabar
+bywalk
 berthed
 belemnites
 blaine
@@ -13194,7 +13195,6 @@ bube
 busings
 brucite
 borosalicylic
-bywalk
 borotungstate
 briareus
 bacteriotrypsin
