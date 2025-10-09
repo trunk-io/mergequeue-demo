@@ -910,7 +910,6 @@ euchrone
 emission
 eodiscid
 erythroblastotic
-encephalopathy
 eudiagnostic
 ethmolachrymal
 euharmonic
@@ -10553,6 +10552,7 @@ excreter
 epimyth
 embryotrophe
 eugeny
+encephalopathy
 enforcement
 ecrasite
 enchantments
