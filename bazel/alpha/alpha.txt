@@ -6421,6 +6421,7 @@ atresy
 amebula
 ahir
 armour
+angularize
 acharne
 amalings
 ariole
@@ -19514,7 +19515,6 @@ animatograph
 alimentative
 ariadne
 adscendent
-angularize
 andouille
 aposporic
 anklets
