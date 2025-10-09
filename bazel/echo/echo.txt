@@ -6837,7 +6837,6 @@ epicondylic
 exotics
 entomeric
 ellipsoidal
-engraulis
 entomostraca
 electrum
 endamageable
@@ -13638,6 +13637,7 @@ eupepsy
 evanishes
 evader
 espec
+engraulis
 excludible
 erepsin
 elopidae
