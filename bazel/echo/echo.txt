@@ -6731,6 +6731,7 @@ electrums
 enfroward
 exsection
 enrooted
+entryways
 epipany
 expiatist
 entoils
@@ -8410,7 +8411,6 @@ expressionistic
 eventide
 epsom
 excisor
-entryways
 entrants
 equivalences
 enregiment
