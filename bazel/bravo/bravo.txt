@@ -1780,7 +1780,6 @@ bandaging
 beisance
 bowlin
 beleaped
-bergschrund
 beaverpelt
 bandala
 betted
@@ -8498,6 +8497,7 @@ bunging
 balsameaceae
 beaches
 bemusk
+bergschrund
 backbar
 bulgiest
 boresight
