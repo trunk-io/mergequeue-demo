@@ -3793,7 +3793,6 @@ avertive
 arboriculture
 allheals
 aerogeologist
-abuttal
 alphorns
 adjectional
 annulment
@@ -21532,6 +21531,7 @@ aspidomancy
 autosled
 aspidospermine
 acyrology
+abuttal
 autophagia
 aphrodisiacal
 anteprandial
