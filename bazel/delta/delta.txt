@@ -9223,7 +9223,6 @@ dyeability
 drunkenly
 demilance
 devilman
-ditriglyph
 dusterman
 duffadar
 delaine
@@ -10281,6 +10280,7 @@ decoys
 dissolutionist
 depute
 daughtership
+ditriglyph
 dehgan
 decimetre
 dekadarchy
