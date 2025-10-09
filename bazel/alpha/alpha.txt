@@ -10272,7 +10272,6 @@ anacrusis
 allice
 autodecremented
 aggenerate
-astor
 autoincremented
 affricates
 adc
@@ -14003,6 +14002,7 @@ areopagitica
 antalkaline
 antimystic
 administer
+astor
 antepartum
 avowably
 actressy
