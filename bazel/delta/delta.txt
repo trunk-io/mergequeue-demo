@@ -793,6 +793,7 @@ detections
 deduced
 deflator
 distention
+dimorphic
 dangle
 disorient
 deniable
@@ -1980,7 +1981,6 @@ decadrachma
 decadrachmae
 dumbed
 dourer
-dimorphic
 desugars
 decaedron
 dibbuk
