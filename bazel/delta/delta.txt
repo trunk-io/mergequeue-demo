@@ -8226,7 +8226,6 @@ disempower
 dasyure
 demurrer
 droddum
-datafile
 diadkokinesia
 diadochi
 deflesh
@@ -9515,6 +9514,7 @@ deuce
 digenetica
 dialog
 digue
+datafile
 daydreamers
 desilicate
 deducibleness
