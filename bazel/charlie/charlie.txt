@@ -4818,7 +4818,6 @@ carrier
 contrefort
 carryings
 carriole
-carrioles
 carryon
 combretaceous
 carrions
@@ -14072,6 +14071,7 @@ collars
 cephalhydrocele
 cypraeoid
 cypre
+carrioles
 cypress
 courtesanry
 corslet
