@@ -17028,7 +17028,6 @@ corundophilite
 composer
 cm
 coinclude
-chm
 cmd
 cml
 cofferdams
@@ -29815,6 +29814,7 @@ commandoman
 confusability
 caliperer
 conveyorization
+chm
 compoing
 crooners
 chervonets
