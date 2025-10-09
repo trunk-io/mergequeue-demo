@@ -4237,7 +4237,6 @@ broilers
 barkcutter
 bowtie
 barkeepers
-banstickle
 bushwood
 bushbodies
 blastomycin
@@ -16912,6 +16911,7 @@ burhead
 bichromatic
 buffoonish
 bungle
+banstickle
 baret
 bookbinder
 buckism
