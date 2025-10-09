@@ -995,7 +995,6 @@ compression
 calatrava
 calbroben
 calcanea
-chimpanzee
 cosmopolite
 calcaneoastragaloid
 calcaneoplantar
@@ -15411,6 +15410,7 @@ clitelliferous
 clanship
 chiricahua
 camelhair
+chimpanzee
 curnie
 cyanole
 characteristics
