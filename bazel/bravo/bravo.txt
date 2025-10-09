@@ -8149,6 +8149,7 @@ boone
 bolsons
 bluebuck
 bown
+bombardelle
 binds
 byplace
 baryes
@@ -12410,7 +12411,6 @@ beele
 battlefront
 bombora
 bawls
-bombardelle
 bomi
 beguilers
 barratries
