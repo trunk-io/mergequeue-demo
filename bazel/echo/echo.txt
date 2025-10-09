@@ -5400,7 +5400,6 @@ engirdles
 epulis
 esthesiometer
 enfester
-exportation
 ed
 eikons
 electronvolt
@@ -10454,6 +10453,7 @@ ectrodactylia
 electropower
 engracing
 eyeleting
+exportation
 embolismic
 enlief
 eryops
