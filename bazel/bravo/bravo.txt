@@ -735,6 +735,7 @@ bow
 banksman
 bifrost
 badiaga
+banderoled
 breathy
 boneshaw
 bowlegged
@@ -16603,7 +16604,6 @@ bareboats
 burratine
 bubbletop
 bahisti
-banderoled
 bubblish
 butanones
 banaba
