@@ -15272,6 +15272,7 @@ covenable
 claypans
 clair
 clairaudience
+corrupting
 countertug
 claire
 corban
@@ -25851,7 +25852,6 @@ churnmilk
 cubages
 catecholamine
 clawback
-corrupting
 cedric
 coolant
 cimicid
