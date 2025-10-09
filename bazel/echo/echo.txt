@@ -1486,6 +1486,7 @@ earthwork
 ewer
 elutriate
 effigiation
+evaluation
 eggnog
 enation
 esprise
@@ -5029,7 +5030,6 @@ equivocally
 essentialities
 equalizers
 epibatholithic
-evaluation
 encamp
 exponentiation
 epithelioblastoma
