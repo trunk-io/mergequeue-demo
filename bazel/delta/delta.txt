@@ -3454,6 +3454,7 @@ deaccessions
 delete
 dohter
 debus
+drowsiness
 dandily
 daffery
 downfold
@@ -4574,7 +4575,6 @@ dermatotome
 demilawyer
 diwans
 demilitarisation
-drowsiness
 demilitarising
 drawtubes
 demilitarization
