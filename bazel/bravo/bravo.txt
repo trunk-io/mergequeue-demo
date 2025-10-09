@@ -674,7 +674,6 @@ boiseries
 baculoid
 bushmanship
 baculus
-badaga
 badarian
 biorgan
 bumbarge
@@ -14960,6 +14959,7 @@ buccina
 bellatrix
 birthy
 barleybreak
+badaga
 breastplates
 bulking
 beliefful
