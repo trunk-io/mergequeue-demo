@@ -3497,6 +3497,7 @@ adenoacanthoma
 adenocarcinoma
 adenocarcinomas
 adenocarcinomata
+armoured
 adenochondroma
 accouterment
 amassed
@@ -19997,7 +19998,6 @@ armourbearer
 acidosis
 adossed
 affrays
-armoured
 abiogenist
 antipatriarchal
 andrographolide
