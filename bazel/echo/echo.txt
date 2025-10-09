@@ -1340,6 +1340,7 @@ esterlin
 epitasis
 endpiece
 epithet
+eddy
 evenfalls
 erythrocytolytic
 ethnicon
@@ -5801,7 +5802,6 @@ electroencephalograms
 educated
 eumenorrhea
 embraces
-eddy
 estampedero
 engrammic
 echinochloa
