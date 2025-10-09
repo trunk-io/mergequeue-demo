@@ -5417,7 +5417,6 @@ enclosable
 endseal
 egretta
 enfirm
-encheason
 extra
 epepophysis
 elliptic
@@ -6438,6 +6437,7 @@ ediya
 echinostoma
 editorializers
 equiglacial
+encheason
 eobionts
 eudalene
 edental
