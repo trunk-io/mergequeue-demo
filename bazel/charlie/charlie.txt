@@ -4693,6 +4693,7 @@ codpitchings
 collages
 caballeria
 carpeting
+chromolith
 carpetmaking
 clubability
 captivation
@@ -12494,7 +12495,6 @@ chromoleucite
 chromolipoid
 clayen
 clarioned
-chromolith
 cluff
 chromolithic
 chromolithography
