@@ -3302,7 +3302,6 @@ babassus
 bootable
 brythonic
 bariatrics
-beflag
 baculum
 benzilic
 bicyclism
@@ -8223,6 +8222,7 @@ berith
 birsy
 bb
 brainstormer
+beflag
 balagan
 bullfist
 brothership
