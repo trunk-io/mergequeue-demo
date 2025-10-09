@@ -1127,6 +1127,7 @@ bigwig
 burette
 bucellas
 bountree
+bilobular
 bairnwort
 besmears
 bushwa
@@ -4826,7 +4827,6 @@ baudekins
 by
 banged
 beltwise
-bilobular
 bandcase
 batamote
 bullyragging
