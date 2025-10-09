@@ -1905,7 +1905,6 @@ bocaccios
 ballone
 balances
 bandstring
-burlesk
 bathymetric
 bastions
 brandishes
@@ -11588,6 +11587,7 @@ befuddlements
 botanized
 brownshirt
 brevilingual
+burlesk
 bocedization
 blup
 barbs
