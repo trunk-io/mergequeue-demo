@@ -2760,6 +2760,7 @@ beswitch
 bodybending
 baronries
 bowsprits
+bisetose
 butchered
 barites
 bridleless
@@ -7524,7 +7525,6 @@ besmoothing
 blades
 bevomiting
 beefs
-bisetose
 bread
 bluenosed
 beefburger
