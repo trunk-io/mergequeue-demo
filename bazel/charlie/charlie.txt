@@ -1879,7 +1879,6 @@ consubstantiation
 curvate
 chiliarchy
 camelopards
-constant
 camelopardus
 cloghad
 counterflashing
@@ -17065,6 +17064,7 @@ coconsecrator
 conventually
 chaster
 caprylin
+constant
 cornroot
 coperose
 coachfellow
