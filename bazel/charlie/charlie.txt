@@ -14743,7 +14743,6 @@ consultor
 citer
 cites
 citharexylum
-citharist
 coesite
 cygnets
 citharoedi
@@ -23538,6 +23537,7 @@ crocketing
 cultirostres
 campus
 creepie
+citharist
 chalk
 contextually
 contextural
