@@ -837,7 +837,6 @@ convictable
 cairngorum
 colander
 cays
-copyrightable
 combinators
 caite
 caitif
@@ -11712,6 +11711,7 @@ cocomats
 columbian
 counterdistinction
 curdiest
+copyrightable
 chondrify
 cygnine
 chondrilla
