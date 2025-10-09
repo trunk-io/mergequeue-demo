@@ -1391,7 +1391,6 @@ embrowd
 endothermic
 esloign
 eurythermic
-enoplion
 enterocholecystostomy
 egocentrically
 electrometric
@@ -7877,6 +7876,7 @@ epinikion
 euphonous
 epilogical
 entomophaga
+enoplion
 emitter
 experiment
 exophagous
