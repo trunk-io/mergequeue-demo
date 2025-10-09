@@ -5513,6 +5513,7 @@ convection
 coulometer
 catadioptrical
 catadioptrics
+condign
 catadrome
 chlorophaeite
 catadupe
@@ -14776,7 +14777,6 @@ comber
 citherns
 cithren
 ctenocyst
-condign
 citybuster
 cardiarctia
 chichipate
