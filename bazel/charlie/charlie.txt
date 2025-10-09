@@ -15593,7 +15593,6 @@ coplanarity
 classbook
 classed
 castigation
-circumboreal
 classers
 chiromant
 classfellow
@@ -25298,6 +25297,7 @@ cocreates
 corkages
 corkboard
 cardinality
+circumboreal
 conventionalized
 chachapuya
 corker
