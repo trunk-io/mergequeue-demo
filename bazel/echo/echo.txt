@@ -2952,6 +2952,7 @@ eligibility
 eligibles
 entrecotes
 encoronet
+eemis
 exoclinal
 elbowchair
 enjoining
@@ -10198,7 +10199,6 @@ ethylamine
 elapses
 eightsome
 ecoles
-eemis
 epidemial
 expecters
 epigastrium
