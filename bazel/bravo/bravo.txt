@@ -12372,7 +12372,6 @@ billboard
 bombycine
 bagpiper
 blacky
-burlap
 baptizer
 bluefins
 beggiatoaceae
@@ -14281,6 +14280,7 @@ branchiosaur
 bobber
 bechamels
 bouillon
+burlap
 burion
 blastogranitic
 beslimes
