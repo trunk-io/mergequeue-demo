@@ -5615,7 +5615,6 @@ eirene
 extrovert
 esmayle
 epitrachelion
-ephestia
 epacme
 enravished
 equicrural
@@ -11483,6 +11482,7 @@ equipaga
 exacting
 euphoniousness
 exaction
+ephestia
 epigenetic
 eleusinian
 escot
