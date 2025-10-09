@@ -8910,7 +8910,6 @@ breekless
 bestrid
 bookcases
 bioclimatic
-battak
 bioclimatician
 bioclimatology
 bathwater
@@ -17129,6 +17128,7 @@ basinasial
 bulletining
 batches
 buoyancy
+battak
 balsamy
 batterable
 basecoat
