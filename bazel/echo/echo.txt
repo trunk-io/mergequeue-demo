@@ -4785,7 +4785,6 @@ eucalyptography
 encode
 extrait
 encoded
-etymologize
 eventides
 encolour
 electromyography
@@ -9269,6 +9268,7 @@ extendability
 equipoising
 electroform
 escaper
+etymologize
 expertized
 eructative
 encup
