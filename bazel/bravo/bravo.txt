@@ -1637,6 +1637,7 @@ brasiers
 bestock
 berdaches
 binaries
+bogwoods
 bates
 bunty
 backpedal
@@ -7860,7 +7861,6 @@ biker
 bibliomanist
 bellypiece
 brokerage
-bogwoods
 bibliopegy
 bituminisation
 browser
