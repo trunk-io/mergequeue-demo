@@ -4651,7 +4651,6 @@ charlock
 carpet
 causticity
 carpetbag
-carpetbagger
 cacopharyngia
 carpetbaggery
 cyathi
@@ -17783,6 +17782,7 @@ coconuts
 cocoon
 cocooneries
 crimeless
+carpetbagger
 creagh
 caved
 cauliculus
