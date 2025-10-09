@@ -19845,7 +19845,6 @@ classifiers
 contemplance
 condottiere
 cloudburst
-clackers
 combines
 combining
 cornua
@@ -25293,6 +25292,7 @@ coryphaei
 coryphaenoididae
 compearance
 confucians
+clackers
 coryphee
 cabobs
 coryphene
