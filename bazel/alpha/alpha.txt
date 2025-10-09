@@ -12221,7 +12221,6 @@ arcades
 asiatican
 autoplastic
 amblypoda
-angelot
 archcupbearer
 apama
 aquatint
@@ -25169,6 +25168,7 @@ alliaria
 allamotti
 axletree
 apophylaxis
+angelot
 axman
 axodendrite
 axogamy
