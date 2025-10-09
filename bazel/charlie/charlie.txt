@@ -6026,6 +6026,7 @@ chards
 cyanide
 catholyte
 coenunuri
+carobs
 cathouse
 carryable
 cathouses
@@ -28314,7 +28315,6 @@ crating
 cratometer
 centares
 cratometry
-carobs
 cratons
 cohos
 craunches
