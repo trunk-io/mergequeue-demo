@@ -10260,6 +10260,7 @@ ellagic
 eloign
 ellipsograph
 elytra
+extends
 ethnopsychology
 engines
 elkoshite
@@ -13574,7 +13575,6 @@ enteropneust
 epochally
 exopterygotic
 exaggeration
-extends
 extensibility
 encardion
 eposes
