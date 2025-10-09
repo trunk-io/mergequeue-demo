@@ -4803,7 +4803,6 @@ carriageable
 crosstie
 carriagesmith
 cinchonicin
-carriageway
 carryall
 carrick
 carrycot
@@ -18484,6 +18483,7 @@ crosslet
 corebel
 cajou
 camerate
+carriageway
 coheirs
 coheirship
 cestraciont
