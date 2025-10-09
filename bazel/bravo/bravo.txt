@@ -2694,6 +2694,7 @@ backie
 bardiest
 backwasher
 bombax
+balancer
 bandi
 boroughship
 beachside
@@ -8001,7 +8002,6 @@ basihyoid
 biconcave
 bidder
 biconically
-balancer
 boccaro
 beachiest
 biconnected
