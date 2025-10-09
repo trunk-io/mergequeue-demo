@@ -4198,7 +4198,6 @@ envelopes
 emulsion
 expandible
 ectopia
-exopathic
 esotrope
 emulsions
 emacerated
@@ -7398,6 +7397,7 @@ enterocystoma
 epistrophe
 ecphorize
 engrailment
+exopathic
 expressionlessly
 elaterite
 exhibitor
