@@ -16866,7 +16866,6 @@ correctant
 caravanned
 clubhauled
 classics
-clubhauls
 clubhouses
 clubionidae
 clubland
@@ -22264,6 +22263,7 @@ counterrate
 contraband
 connusable
 canoeing
+clubhauls
 cashierer
 campanularian
 choicer
