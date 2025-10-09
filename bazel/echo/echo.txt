@@ -1669,6 +1669,7 @@ eyelash
 exsomatic
 ejuration
 eliding
+explicating
 eyelessness
 epikia
 exert
@@ -11435,7 +11436,6 @@ elegize
 enchiridion
 eumenes
 electrothermotic
-explicating
 egress
 enmeshing
 eloquential
