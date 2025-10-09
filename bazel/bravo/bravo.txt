@@ -3059,7 +3059,6 @@ baseburner
 basecourt
 biradiate
 barrelhouses
-basella
 brothels
 breakouts
 beallach
@@ -5839,6 +5838,7 @@ benedicks
 begaudy
 bellweed
 bretons
+basella
 breathlessly
 butterbur
 bathythermograph
