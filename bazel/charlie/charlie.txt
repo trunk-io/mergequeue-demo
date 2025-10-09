@@ -5944,7 +5944,6 @@ cathartolinum
 circumflexes
 cathect
 cowyard
-cathection
 conjoint
 catagmatic
 cathedralesque
@@ -18930,6 +18929,7 @@ colossus
 concretional
 crocked
 colistin
+cathection
 coypou
 chromatone
 crinoidea
