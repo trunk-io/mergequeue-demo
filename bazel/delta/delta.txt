@@ -2209,7 +2209,6 @@ depositation
 droschken
 domesticates
 drongo
-deftest
 difda
 divulse
 dreint
@@ -5458,6 +5457,7 @@ dissipates
 deoxycorticosterone
 deafens
 dismounting
+deftest
 dolite
 dioptidae
 disuniters
