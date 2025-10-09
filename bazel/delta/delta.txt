@@ -10370,7 +10370,6 @@ discounts
 demurrers
 dependencies
 ditton
-diopter
 diopters
 decumary
 disporting
@@ -10862,6 +10861,7 @@ dumpies
 displays
 depthen
 dirgelike
+diopter
 docketed
 dirgeman
 demons
