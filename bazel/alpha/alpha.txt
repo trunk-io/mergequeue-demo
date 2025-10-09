@@ -3313,7 +3313,6 @@ adaptometer
 assagais
 antihelix
 adcons
-auscultascope
 alaunt
 ameboid
 alectoropodes
@@ -24750,6 +24749,7 @@ astrometer
 almacantar
 abbotnullius
 aves
+auscultascope
 antibodies
 amreeta
 avesta
