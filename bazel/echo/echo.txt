@@ -6600,7 +6600,6 @@ enhalo
 engineman
 elevatory
 enteroepiplocele
-endospermous
 ermining
 enterogenous
 eclosions
@@ -9867,6 +9866,7 @@ embolisms
 ennoblement
 estradiol
 eumycete
+endospermous
 empanel
 electrothermics
 epigrammatism
