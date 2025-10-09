@@ -5166,7 +5166,6 @@ equiponderation
 epicarp
 empoisoned
 encyclic
-erava
 essonite
 ergotist
 estampage
@@ -6666,6 +6665,7 @@ ended
 equerries
 enterosepsis
 enterotoxemia
+erava
 elaenia
 enterotoxication
 enlight
