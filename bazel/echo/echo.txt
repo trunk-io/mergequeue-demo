@@ -3371,7 +3371,6 @@ exacters
 ethal
 elymi
 electrovalent
-embargoes
 ectodactylism
 epidosite
 exploration
@@ -4581,6 +4580,7 @@ epithalamic
 etherolate
 enchytraeid
 enchytraeus
+embargoes
 ephedra
 enchodontid
 eigne
