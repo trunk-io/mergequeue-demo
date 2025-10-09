@@ -1088,7 +1088,6 @@ bloodnoun
 breaths
 bairnish
 bairnly
-branky
 barkstone
 bedimmed
 brindled
@@ -12508,6 +12507,7 @@ betaines
 bondstone
 bestows
 burntness
+branky
 bather
 bagpiped
 bone
