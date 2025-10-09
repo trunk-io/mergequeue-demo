@@ -5883,7 +5883,6 @@ extractor
 edicule
 exonarthex
 eryngium
-ethnobotanic
 explees
 ecarinate
 exaggerativeness
@@ -10426,6 +10425,7 @@ entrymen
 eucharitidae
 ebbets
 everywhereness
+ethnobotanic
 entrapping
 epidemiographist
 exothermal
