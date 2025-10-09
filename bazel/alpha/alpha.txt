@@ -4101,6 +4101,7 @@ armorers
 amens
 attributer
 archy
+angelfish
 amalgamable
 advocatrix
 analyzer
@@ -15886,7 +15887,6 @@ arcadianly
 antiquation
 adrostal
 antanaclasis
-angelfish
 autoloading
 aponeurositis
 antirachitically
