@@ -6344,7 +6344,6 @@ embrocation
 euskarian
 elaboration
 epist
-enunciator
 ejido
 eulachons
 ensemble
@@ -12962,6 +12961,7 @@ expeditely
 expediter
 enunciates
 exotropic
+enunciator
 expeditiously
 enjoyable
 elans
