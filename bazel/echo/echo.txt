@@ -2461,6 +2461,7 @@ evacuate
 exchangeable
 electrohemostasis
 exchangite
+endoubt
 embodied
 ebony
 empasma
@@ -12820,7 +12821,6 @@ enplane
 ergastoplasmic
 entozoology
 embowelment
-endoubt
 epil
 epicentral
 escalado
