@@ -4526,7 +4526,6 @@ coccidology
 colonisationist
 colonel
 catalufas
-cornett
 cnidocell
 carniform
 chukar
@@ -10098,6 +10097,7 @@ chesstree
 cerias
 chest
 consists
+cornett
 cidaris
 curing
 currock
