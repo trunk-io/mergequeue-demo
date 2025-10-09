@@ -15997,7 +15997,6 @@ barhopped
 bibionidae
 biglot
 bronchoplasty
-bronchorrhaphy
 bronchorrhea
 bronchos
 bemurmurs
@@ -16646,6 +16645,7 @@ bucco
 butte
 bavius
 brickle
+bronchorrhaphy
 brainlessly
 bruising
 barrowist
