@@ -1989,6 +1989,7 @@ bicollaterality
 billycan
 bankrolled
 bankrupt
+blessed
 bynin
 burl
 boatyard
@@ -6883,7 +6884,6 @@ besetters
 brasen
 brachyuran
 bantay
-blessed
 bumboat
 belltopper
 biotypology
