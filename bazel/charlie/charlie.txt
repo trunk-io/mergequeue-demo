@@ -212,7 +212,6 @@ clientry
 classicalities
 cabrestos
 cabreuva
-cotillage
 cubiform
 cabrilla
 cabrillas
@@ -23101,6 +23100,7 @@ consonantized
 cannibalizes
 cogware
 consonants
+cotillage
 chemosensitivities
 clinograph
 collapsibility
