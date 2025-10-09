@@ -2992,7 +2992,6 @@ biostatistic
 bsf
 biome
 bartonella
-barkantine
 bookbinderies
 bartree
 banish
@@ -14081,6 +14080,7 @@ blubbering
 bowerly
 brachialis
 barkers
+barkantine
 blindstory
 borreria
 believed
