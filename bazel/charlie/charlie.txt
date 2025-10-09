@@ -2436,7 +2436,6 @@ cretacic
 candidates
 candidatures
 candide
-chausse
 churls
 candidiasis
 candidness
@@ -9578,6 +9577,7 @@ checkstring
 checksum
 construct
 checksumming
+chausse
 chasid
 castro
 chromogenous
