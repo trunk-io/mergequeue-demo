@@ -6635,7 +6635,6 @@ equerries
 enterosepsis
 enterotoxemia
 erava
-elaenia
 enterotoxication
 enlight
 exdie
@@ -9813,6 +9812,7 @@ eerily
 exponents
 euphonise
 exilian
+elaenia
 estimations
 erythrodegenerative
 exhaustively
