@@ -6914,7 +6914,6 @@ campshot
 coaugment
 calorimetric
 cementatory
-chlorobromomethane
 curvirostres
 charros
 chevalier
@@ -9112,6 +9111,7 @@ charred
 caricatures
 cimeter
 charrette
+chlorobromomethane
 consenescence
 charrier
 charriest
