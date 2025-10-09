@@ -2513,7 +2513,6 @@ burghalpenny
 bloodberry
 bardel
 blackly
-beclog
 bridgeman
 barylalia
 barilla
@@ -5335,6 +5334,7 @@ blacksmithing
 barneys
 beglooms
 bandwidth
+beclog
 begloze
 busti
 bultell
