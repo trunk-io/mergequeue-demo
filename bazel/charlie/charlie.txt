@@ -9218,6 +9218,7 @@ chastities
 chockstone
 chasubled
 caduciary
+closewing
 cooper
 chumble
 cheiropterygium
@@ -27291,7 +27292,6 @@ countrifiedness
 curtal
 countryfiedness
 countryfolk
-closewing
 countrymen
 curator
 calico
