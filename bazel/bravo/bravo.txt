@@ -1410,7 +1410,6 @@ beardy
 batoneer
 bouffants
 bops
-bedazzled
 bilch
 bedye
 brankier
@@ -6411,6 +6410,7 @@ benzophenothiazine
 benzophloroglucinol
 baculi
 bioluminescence
+bedazzled
 benedight
 breakup
 banqueters
