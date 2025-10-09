@@ -6682,7 +6682,6 @@ conflated
 caelum
 ceil
 clamoring
-ceilidhe
 connexivum
 contraste
 ceilingwards
@@ -25318,6 +25317,7 @@ conicein
 corklike
 corkline
 calendars
+ceilidhe
 corks
 corkscrew
 consonantize
