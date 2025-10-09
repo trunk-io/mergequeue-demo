@@ -5486,6 +5486,7 @@ catabolite
 corsepresent
 checkbits
 catabolized
+camphols
 claim
 curwhibble
 counterwrite
@@ -27788,7 +27789,6 @@ carpometacarpi
 coxa
 caryophylleous
 cuttlefishes
-camphols
 cupronickel
 cervid
 crowdie
