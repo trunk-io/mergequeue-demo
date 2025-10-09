@@ -2406,7 +2406,6 @@ epitrope
 enstatite
 ethanol
 electrogalvanization
-earlobes
 epithelioma
 eleoptene
 effoliate
@@ -8701,6 +8700,7 @@ entophytal
 eurhythmy
 exodontic
 equisided
+earlobes
 equisignal
 ephemeridae
 emulsifies
