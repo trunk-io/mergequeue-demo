@@ -5302,7 +5302,6 @@ cast
 castable
 castalian
 cardiopuncture
-cupreine
 chertier
 castane
 castanea
@@ -25680,6 +25679,7 @@ corpuscularian
 colombian
 confinedness
 completed
+cupreine
 corpuscularity
 carillons
 corpuscule
