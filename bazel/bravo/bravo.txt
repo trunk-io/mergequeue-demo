@@ -10949,7 +10949,6 @@ beetler
 biclinia
 bossship
 barth
-belter
 bourrees
 bairagi
 blinkard
@@ -13932,6 +13931,7 @@ baptizee
 bowsman
 buttonmould
 bows
+belter
 breastplough
 blocage
 bolk
