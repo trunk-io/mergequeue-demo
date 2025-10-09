@@ -9893,7 +9893,6 @@ bromals
 burnsian
 banderols
 baldpated
-bitmap
 buccaneering
 bunglers
 bunking
@@ -13493,6 +13492,7 @@ bitterbrush
 bottlemaker
 burgs
 broilery
+bitmap
 beer
 bought
 bleeding
