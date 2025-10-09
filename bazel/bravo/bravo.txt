@@ -4290,7 +4290,6 @@ brick
 byworks
 beaconed
 brise
-beaters
 bribeworthy
 bagne
 berserk
@@ -11570,6 +11569,7 @@ bumblebeefish
 ballismus
 byronism
 bulkin
+beaters
 bulbocapnin
 besort
 bloodier
