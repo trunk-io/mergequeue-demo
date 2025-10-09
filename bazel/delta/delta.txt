@@ -429,6 +429,7 @@ deckle
 deepwater
 daunder
 dayrooms
+degummer
 deities
 dodrantal
 doblas
@@ -18543,7 +18544,6 @@ deponer
 durbars
 dialists
 dissonate
-degummer
 dured
 decollated
 deducement
