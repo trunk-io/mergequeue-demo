@@ -2988,6 +2988,7 @@ biome
 bartonella
 bookbinderies
 boglet
+beltless
 bartree
 banish
 bliest
@@ -5892,7 +5893,6 @@ bedroom
 bangalay
 benumbing
 battiness
-beltless
 biauriculate
 bawdily
 bronchioles
