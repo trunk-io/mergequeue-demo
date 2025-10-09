@@ -8242,7 +8242,6 @@ chalchuite
 chalcidian
 conjurer
 caird
-chalcidoid
 conocarp
 christianomastix
 chalcogen
@@ -20595,6 +20594,7 @@ compatibility
 compatibilities
 coralist
 cainism
+chalcidoid
 caustic
 condors
 compatible
