@@ -1464,6 +1464,7 @@ encrinoid
 eggfruit
 electroanesthesia
 electrobioscopy
+efreet
 easies
 estre
 exhale
@@ -2090,7 +2091,6 @@ evolution
 equably
 ennuis
 embroil
-efreet
 elastivity
 effluve
 enemy
