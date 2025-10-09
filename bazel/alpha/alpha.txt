@@ -2745,6 +2745,7 @@ attunement
 anguishously
 adiathermal
 acrometer
+astronomy
 armorproof
 archostenosis
 autocamping
@@ -22383,7 +22384,6 @@ astronavigator
 alphabetizing
 anodynic
 astronomer
-astronomy
 aeschynomene
 aphototropism
 aristotelism
