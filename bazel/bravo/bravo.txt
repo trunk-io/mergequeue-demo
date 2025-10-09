@@ -2963,6 +2963,7 @@ burgesses
 bartizans
 burrobrush
 boracium
+brittling
 blighia
 boomtown
 bolt
@@ -9491,7 +9492,6 @@ bores
 barhops
 byrnie
 bisulphide
-brittling
 babingtonite
 biron
 byronesque
