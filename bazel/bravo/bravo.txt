@@ -3482,7 +3482,6 @@ bipartite
 bullfice
 bathmat
 boomed
-bathmats
 background
 basion
 bicipital
@@ -11807,6 +11806,7 @@ bioresearch
 bloodiness
 bethel
 bare
+bathmats
 batiks
 bod
 barebone
