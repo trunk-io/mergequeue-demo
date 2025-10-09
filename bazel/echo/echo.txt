@@ -10237,6 +10237,7 @@ euryte
 ecphasis
 exchanges
 electrophorus
+extragastric
 edibles
 exasperated
 exporting
@@ -13877,7 +13878,6 @@ environments
 enviers
 espied
 embryoid
-extragastric
 empressment
 epilimnial
 equiaxial
