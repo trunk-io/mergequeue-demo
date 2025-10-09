@@ -4081,7 +4081,6 @@ bengalic
 berime
 buoyantness
 beeweed
-brickwall
 boilable
 beastlily
 barrow
@@ -18144,6 +18143,7 @@ biddable
 bendable
 bedward
 biffins
+brickwall
 bardie
 begarlanded
 boundly
