@@ -1927,6 +1927,7 @@ equicurve
 esocyclic
 extrude
 emigates
+exoticity
 electo
 endothermal
 essenical
@@ -3551,7 +3552,6 @@ extol
 effecters
 eudipleural
 entocone
-exoticity
 exquisitely
 enervator
 exceeder
