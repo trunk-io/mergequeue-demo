@@ -7045,6 +7045,7 @@ clangorous
 centerboard
 centerer
 centerfold
+continuant
 compania
 clinginess
 coofs
@@ -20901,7 +20902,6 @@ composite
 condyloma
 composited
 cephalodymia
-continuant
 composites
 compositional
 cacoepist
