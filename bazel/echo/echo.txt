@@ -1082,7 +1082,6 @@ estuaries
 eutomous
 extraboldface
 endosternite
-edoni
 entrochite
 edplot
 edeomania
@@ -13926,6 +13925,7 @@ ephemeromorph
 exaggeratedly
 extrudes
 emballonurine
+edoni
 enomania
 enface
 extinguishable
