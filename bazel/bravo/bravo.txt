@@ -4880,7 +4880,6 @@ balls
 barmier
 bactritoid
 beneplacito
-bellmouth
 bolases
 bitten
 brilliantine
@@ -14735,6 +14734,7 @@ bowlings
 butyric
 brauna
 britannic
+bellmouth
 braunite
 bonbonniere
 battleship
