@@ -8725,6 +8725,7 @@ crepine
 chaparral
 cytoblast
 curiality
+collides
 cored
 chaparrals
 chaparraz
@@ -29282,7 +29283,6 @@ chondroma
 cutlas
 choices
 capeworks
-collides
 ciphered
 calibrate
 cryptobranchus
