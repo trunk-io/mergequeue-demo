@@ -6510,6 +6510,7 @@ disomatous
 dammars
 diadromous
 dudish
+deprecation
 dissevering
 disennoble
 dactylogram
@@ -12149,7 +12150,6 @@ doolie
 duckiest
 doubleheaders
 doubles
-deprecation
 denitrificant
 dungannonite
 desand
