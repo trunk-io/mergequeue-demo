@@ -4667,7 +4667,6 @@ dipterologist
 denticulate
 demise
 demised
-digitation
 depas
 decken
 drysalter
@@ -8807,6 +8806,7 @@ disrank
 dansant
 dictations
 diffident
+digitation
 daibutsu
 diazoimide
 dhoti
