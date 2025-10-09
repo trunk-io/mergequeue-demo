@@ -830,7 +830,6 @@ broughtas
 baft
 bellyache
 buoyages
-baldrics
 benzenoid
 biochron
 bagasses
@@ -10866,6 +10865,7 @@ bandstands
 blick
 bullbeggar
 boughpots
+baldrics
 bulldogger
 bellicosely
 bugbeardom
