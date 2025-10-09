@@ -6304,7 +6304,6 @@ bevors
 benthoscope
 benthoses
 bacteriolysin
-betime
 blimp
 blastie
 binderies
@@ -18422,5 +18421,6 @@ buttonweed
 biozone
 bxs
 balloonfishes
+betime
 bached
 bewest
