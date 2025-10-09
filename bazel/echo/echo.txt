@@ -8532,7 +8532,6 @@ exceptant
 equiaxed
 eburnification
 elatives
-enharmonic
 extracorporeal
 endothermically
 electrodialitic
@@ -12643,6 +12642,7 @@ equivoque
 eriophyid
 embarge
 ephemerally
+enharmonic
 euchologies
 enfetters
 elucid
