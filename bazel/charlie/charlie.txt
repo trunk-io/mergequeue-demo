@@ -24911,7 +24911,6 @@ coracomorph
 cecostomy
 coracomorphae
 chrysopoeia
-coracopectoral
 coracoprocoracoid
 crepitation
 coracoradialis
@@ -29354,6 +29353,7 @@ correctionalist
 cryptographal
 certiorating
 cryptoheresy
+coracopectoral
 cryptoheretic
 cryptolith
 cryptology
