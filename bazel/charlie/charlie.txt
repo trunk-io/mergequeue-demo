@@ -9034,7 +9034,6 @@ colloq
 charities
 condition
 caridoid
-cloaks
 comus
 comparability
 charking
@@ -13244,6 +13243,7 @@ concha
 coulometric
 cindered
 convenable
+cloaks
 cyanite
 cutlers
 crossrail
