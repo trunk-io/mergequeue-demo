@@ -4664,6 +4664,7 @@ carpetbags
 coragio
 counterearth
 ciboria
+celoms
 chemoresistance
 concertment
 catchall
@@ -14288,7 +14289,6 @@ corosif
 circumgyrate
 circumgyratory
 counterstruggle
-celoms
 circumintestinal
 circumitineration
 circumjacence
