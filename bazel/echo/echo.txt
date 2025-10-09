@@ -7836,7 +7836,6 @@ elixirs
 exuccous
 eidola
 electrocoating
-eclampsia
 erythrocyte
 exfigure
 enclavement
@@ -10575,6 +10574,7 @@ etiquet
 endfile
 eschalots
 embryol
+eclampsia
 excusable
 eely
 eugonic
