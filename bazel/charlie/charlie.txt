@@ -2481,7 +2481,6 @@ candlelighting
 cohusband
 circumcinct
 candlemaker
-candlemaking
 candlemas
 crewel
 childproof
@@ -17702,6 +17701,7 @@ cochlite
 cerate
 cochlospermaceae
 cervicobasilar
+candlemaking
 cochlospermum
 catatoniac
 cochon
