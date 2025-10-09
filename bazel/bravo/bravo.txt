@@ -1053,7 +1053,6 @@ bpi
 brushet
 bedizenment
 blower
-begattal
 braciole
 buzzerphone
 bibliomanian
@@ -11480,6 +11479,7 @@ breadness
 beliked
 beatitudes
 bluetongue
+begattal
 bestness
 bedmates
 bluetop

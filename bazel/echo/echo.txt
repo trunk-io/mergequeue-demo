@@ -5163,7 +5163,6 @@ essonite
 electrocorticogram
 ergotist
 estampage
-electrostatic
 epicist
 exhumation
 eastings
@@ -13794,6 +13793,7 @@ extratropical
 extracerebral
 embolo
 elucidative
+electrostatic
 epithelilia
 entapophysial
 estriate
