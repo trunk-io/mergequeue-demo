@@ -14043,6 +14043,7 @@ cyphella
 covenants
 cypher
 causeur
+combinatorially
 cyphered
 ciphering
 ciphertexts
@@ -19819,7 +19820,6 @@ combinative
 counterrotating
 combinator
 combinatorial
-combinatorially
 combined
 ctene
 concertinas
