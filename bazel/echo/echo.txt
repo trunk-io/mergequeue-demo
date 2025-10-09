@@ -7126,7 +7126,6 @@ ecclesiasticus
 eyedness
 ecthymatous
 eclectic
-externalness
 eriophyidae
 epimanikia
 electrocutional
@@ -12456,6 +12455,7 @@ electrostatics
 exocoelum
 evection
 equiped
+externalness
 exostema
 enlivened
 electioneered
