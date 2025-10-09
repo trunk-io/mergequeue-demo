@@ -5599,7 +5599,6 @@ agalwoods
 airfoil
 allseeds
 adulter
-agamete
 angulates
 asheries
 appointments
@@ -13616,6 +13615,7 @@ anticker
 aloneness
 annunciating
 aerated
+agamete
 assurate
 agnatha
 automatism
