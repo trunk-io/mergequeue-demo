@@ -2674,7 +2674,6 @@ brawlier
 barmbrack
 barnstormer
 borderside
-barnstorming
 brutalisation
 buoyantly
 bienne
@@ -16717,6 +16716,7 @@ bloodspiller
 busker
 boneshaker
 borax
+barnstorming
 blocage
 banquetings
 buckeen
