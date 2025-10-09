@@ -4665,7 +4665,6 @@ demiscible
 dipterologist
 denticulate
 demise
-demised
 depas
 decken
 drysalter
@@ -14492,6 +14491,7 @@ diverters
 disillusionized
 defaulter
 daising
+demised
 dropping
 denies
 dindymene
