@@ -1387,7 +1387,6 @@ befret
 bombastically
 balmily
 boun
-balestra
 beardy
 bandon
 batoneer
@@ -10635,6 +10634,7 @@ beltmaker
 battleground
 boweling
 bleachable
+balestra
 bouderie
 beblooding
 beworrying
