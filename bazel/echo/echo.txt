@@ -3192,7 +3192,6 @@ emboscata
 endomorphic
 elutor
 extruders
-epiparasite
 exhibitionist
 enrive
 esteeming
@@ -8656,6 +8655,7 @@ endophyllous
 evasively
 erotical
 ejecta
+epiparasite
 electrolytic
 endostyle
 epicoeliac
