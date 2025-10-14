@@ -2162,7 +2162,6 @@ endaze
 exogenetic
 eupotamic
 enclisis
-expect
 emphraxis
 epimyocardial
 eths
@@ -12056,6 +12055,7 @@ entrechats
 embayment
 eluvivia
 emanated
+expect
 elementalism
 echiurida
 emerized
