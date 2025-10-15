@@ -3711,7 +3711,6 @@ burrow
 bruised
 bugging
 baure
-botonny
 bautta
 balsamically
 blistery
@@ -9587,6 +9586,7 @@ believable
 bealing
 bandlimits
 bromated
+botonny
 bisectors
 bisectrices
 busybodyness
