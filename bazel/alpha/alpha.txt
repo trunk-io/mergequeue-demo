@@ -2340,7 +2340,6 @@ atweel
 aeromancer
 acinetae
 alternity
-antihemisphere
 aquilia
 abided
 anomalocephalus
@@ -25252,6 +25251,7 @@ azerbaijani
 azerbaijanian
 agrology
 antitax
+antihemisphere
 afrogaean
 anticous
 arguable
