@@ -2615,7 +2615,6 @@ belligerents
 backbit
 barmcloth
 birdcage
-bullae
 bascules
 bales
 barnaby
@@ -3561,6 +3560,7 @@ baboot
 booboo
 bhut
 batsman
+bullae
 besetting
 bayadeer
 bejel
