@@ -3543,7 +3543,6 @@ caraboa
 caaba
 cinques
 caraboid
-carabus
 carack
 caracks
 caracoa
@@ -8606,6 +8605,7 @@ ceratiidae
 campilan
 coheritor
 composit
+carabus
 corcopali
 cotuit
 changedale
