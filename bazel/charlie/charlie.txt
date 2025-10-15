@@ -8200,6 +8200,7 @@ coral
 callower
 cli
 chakobu
+crescendos
 carpentry
 cloudage
 complection
@@ -28763,7 +28764,6 @@ cavitate
 catenary
 cresc
 crescendo
-crescendos
 cynocrambe
 cumbent
 countersinking
