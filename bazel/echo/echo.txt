@@ -9239,7 +9239,6 @@ exopt
 endoperidial
 evaporator
 etchers
-electroreceptive
 eumorphous
 etrog
 erthly
@@ -13326,6 +13325,7 @@ eruction
 ergasterion
 exposes
 endogen
+electroreceptive
 enrichers
 esophagopathy
 exsanguinity
