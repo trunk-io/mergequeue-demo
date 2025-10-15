@@ -1434,6 +1434,7 @@ brier
 barras
 buttressed
 beeches
+boose
 barbules
 backboards
 ball
@@ -2703,7 +2704,6 @@ byssi
 benzins
 brazenfaced
 becapping
-boose
 buboed
 boatloading
 bucks
