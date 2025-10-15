@@ -12139,7 +12139,6 @@ brahminic
 britchel
 bisdiapason
 brachistocephalic
-bonesets
 boldnesses
 burbots
 boldo
@@ -14498,6 +14497,7 @@ bbls
 britannic
 breeks
 bimonthlies
+bonesets
 breezelike
 bratchet
 braystone
