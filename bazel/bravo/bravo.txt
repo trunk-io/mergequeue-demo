@@ -5934,7 +5934,6 @@ busybodies
 bemadden
 bemiring
 burrs
-bandlimited
 becobweb
 blippers
 bemists
@@ -12701,6 +12700,7 @@ brawlsome
 bullbird
 bestraddling
 booger
+bandlimited
 brochures
 bullyragger
 bronchoconstrictor
