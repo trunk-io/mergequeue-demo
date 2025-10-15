@@ -1132,7 +1132,6 @@ battlement
 baftah
 boxer
 bajocco
-byes
 bajra
 bedarkening
 beltmen
@@ -11424,6 +11423,7 @@ bubbled
 bekko
 brachia
 bestrut
+byes
 banewort
 boxthorn
 buffeter
