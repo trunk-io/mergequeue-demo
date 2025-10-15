@@ -4791,7 +4791,6 @@ carrick
 carrycot
 crossflower
 carried
-carryed
 carrier
 contrefort
 carryings
@@ -28722,6 +28721,7 @@ cassythaceae
 crenulation
 creodonta
 creodonts
+carryed
 conative
 creole
 creolism
