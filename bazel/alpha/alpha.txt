@@ -4541,7 +4541,6 @@ apish
 aurigal
 aes
 adwesch
-assistance
 ati
 acacias
 afrogaea
@@ -11657,6 +11656,7 @@ advertise
 aubin
 achamoth
 agars
+assistance
 anachronistic
 anachronize
 anemochoric
