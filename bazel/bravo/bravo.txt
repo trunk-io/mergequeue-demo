@@ -2586,6 +2586,7 @@ bumpy
 basketball
 barling
 broadsword
+beryl
 backblocks
 burdenless
 bluestone
@@ -16732,7 +16733,6 @@ beatee
 bilixanthin
 blithehearted
 bishopship
-beryl
 bopping
 basilisk
 bilaan
