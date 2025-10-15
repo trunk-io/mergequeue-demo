@@ -5882,6 +5882,7 @@ belts
 barih
 baculites
 bicaudal
+brachistocephalous
 burs
 beautifiers
 bloodspilling
@@ -17839,7 +17840,6 @@ bursars
 bluewing
 belord
 brocade
-brachistocephalous
 blushless
 bursitis
 bestialise
