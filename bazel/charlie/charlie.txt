@@ -1516,7 +1516,6 @@ chemostat
 callisto
 cesar
 callithrix
-collegiant
 corruptibilities
 clatterer
 cellarwoman
@@ -4495,6 +4494,7 @@ cotoxo
 clapperdudgeon
 carnied
 carnifexes
+collegiant
 carp
 cationic
 carnification
