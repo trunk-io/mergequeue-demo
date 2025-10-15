@@ -8483,7 +8483,6 @@ acinetina
 astrochemist
 alkanol
 alkaphrah
-alkapton
 antisimoniacal
 armorist
 archimage
@@ -24345,6 +24344,7 @@ autophotoelectric
 acridone
 armisonant
 antiperistatic
+alkapton
 autopilot
 anotus
 ascomycete
