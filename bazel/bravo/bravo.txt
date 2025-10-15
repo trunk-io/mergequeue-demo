@@ -14911,7 +14911,6 @@ boundable
 barkeep
 bovicide
 basidium
-breaklist
 buttercup
 byssolite
 breakpoint
@@ -17237,6 +17236,7 @@ beavered
 bulbus
 bullskin
 bullsticker
+breaklist
 basementward
 bacquet
 ballyhooer
