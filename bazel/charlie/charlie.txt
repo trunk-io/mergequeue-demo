@@ -7235,7 +7235,6 @@ cylinderer
 centrums
 cancrizans
 centum
-colorcaster
 catarinite
 croatian
 cofeatures
@@ -8294,6 +8293,7 @@ chalky
 chalkiest
 canapes
 chalkiness
+colorcaster
 chalklike
 chalkline
 chantage
