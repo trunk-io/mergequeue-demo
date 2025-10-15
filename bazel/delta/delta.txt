@@ -3642,7 +3642,6 @@ drought
 doneness
 degraded
 drongo
-degradement
 dozing
 drugged
 depsid
@@ -10193,6 +10192,7 @@ dislustring
 disjoin
 dynamos
 dadoing
+degradement
 diagraphics
 drubbed
 disenfranchise
