@@ -11047,7 +11047,6 @@ admixtures
 amounters
 androgonium
 arrestment
-allocaffeine
 amouli
 abatic
 anthokyan
@@ -19849,6 +19848,7 @@ auguration
 anhydridize
 astrocyte
 aminolytic
+allocaffeine
 antepast
 asiatize
 acrodermatitis
