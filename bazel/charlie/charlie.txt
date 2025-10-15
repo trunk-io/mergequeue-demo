@@ -6887,7 +6887,6 @@ celtiberian
 celtidaceae
 celtiform
 celtism
-celtium
 cantoon
 cotyla
 clockroom
@@ -14096,6 +14095,7 @@ cyrano
 compend
 chump
 chocked
+celtium
 cookwares
 coprah
 crocodile
