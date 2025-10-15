@@ -5856,7 +5856,6 @@ extractor
 edicule
 exonarthex
 expansum
-estrogen
 eryngium
 ethnobotanic
 explees
@@ -7501,6 +7500,7 @@ ependyma
 emmenia
 embordering
 endomysium
+estrogen
 endings
 electrocapillarity
 equivalently
