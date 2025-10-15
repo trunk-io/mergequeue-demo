@@ -325,7 +325,6 @@ diffusible
 drunkometer
 degreeless
 daphne
-diapalma
 deplace
 deckman
 disreputed
@@ -8696,6 +8695,7 @@ domed
 disally
 distracted
 didactyl
+diapalma
 deicing
 dyassic
 drumbling
