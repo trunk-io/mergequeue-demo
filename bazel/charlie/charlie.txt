@@ -3489,6 +3489,7 @@ cataphonic
 calvarias
 combre
 captor
+cloner
 capturable
 capture
 captured
@@ -16573,7 +16574,6 @@ curlicuing
 clomp
 clomps
 chitose
-cloner
 clanning
 collateralize
 contraparallelogram
