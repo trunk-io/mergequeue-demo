@@ -3518,7 +3518,6 @@ akenbold
 adenylic
 avichi
 adenization
-adenoacanthoma
 adenocarcinoma
 adenocarcinomas
 adenocarcinomata
@@ -17831,6 +17830,7 @@ arri
 antheridiophore
 appointment
 alburnous
+adenoacanthoma
 arabize
 autosuggestible
 antanandro
