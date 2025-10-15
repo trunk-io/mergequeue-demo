@@ -896,7 +896,6 @@ etceteras
 ecorticate
 ecttypal
 exeresis
-eigenvalue
 ecuadorian
 eucyclic
 expulser
@@ -3105,6 +3104,7 @@ endorphin
 enmew
 entombment
 eyefuls
+eigenvalue
 elodeas
 epitome
 extorter
