@@ -10721,7 +10721,6 @@ bowpots
 blackies
 besaiel
 bibl
-belap
 blenk
 beefy
 backsetting
@@ -15049,6 +15048,7 @@ bepillared
 boilersmith
 bushfire
 brachyceric
+belap
 beldams
 befetter
 betiding
