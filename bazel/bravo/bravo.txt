@@ -2612,6 +2612,7 @@ barmaster
 brideweed
 bergalith
 belligerents
+babbool
 backbit
 barmcloth
 birdcage
@@ -15596,7 +15597,6 @@ bute
 blastospheric
 bristlelike
 burnoose
-babbool
 bonairly
 brassidic
 blunnen
