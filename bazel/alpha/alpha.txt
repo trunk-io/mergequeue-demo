@@ -5800,7 +5800,6 @@ adrenomedullary
 adendric
 anthomedusae
 agenesis
-agenetic
 agenize
 alchera
 anoxemia
@@ -9552,6 +9551,7 @@ autophyllogeny
 altoist
 altos
 altostratus
+agenetic
 aerodontalgia
 amphicarpia
 axenic
