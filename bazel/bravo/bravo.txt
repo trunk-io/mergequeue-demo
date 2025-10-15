@@ -5844,6 +5844,7 @@ bullions
 brazed
 barns
 blisses
+bayesian
 bisnagas
 belostomidae
 belotte
@@ -6660,7 +6661,6 @@ barpost
 berkelium
 bedull
 bouleversement
-bayesian
 berlin
 biomass
 brechan
