@@ -1241,7 +1241,6 @@ blacklight
 blathers
 bescent
 bradycinesia
-blateness
 booby
 bedbug
 bundeli
@@ -12388,6 +12387,7 @@ bab
 bandstand
 bandlimit
 brigades
+blateness
 bieberite
 biskop
 bourgade
