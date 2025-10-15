@@ -11277,7 +11277,6 @@ definitively
 dogstail
 deictic
 duckpins
-decolorimeter
 demophon
 definability
 deposure
@@ -15100,6 +15099,7 @@ detant
 deify
 distributor
 decrescendos
+decolorimeter
 derive
 doggrel
 dogget
