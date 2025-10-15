@@ -6845,6 +6845,7 @@ breediness
 belleek
 beggarman
 beseech
+biding
 beseige
 bescutcheon
 bondservant
@@ -8049,7 +8050,6 @@ believeth
 binucleate
 bimolecularly
 befouls
-biding
 bidirectional
 baggy
 biophagy
