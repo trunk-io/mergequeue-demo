@@ -11962,6 +11962,7 @@ dolerites
 deepfreezing
 dicetyl
 depthing
+deterministically
 doorba
 defeise
 dramatizes
@@ -17889,7 +17890,6 @@ dovyalis
 decimeter
 disgrace
 dextrally
-deterministically
 daunted
 dramatised
 durance
