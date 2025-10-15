@@ -4487,7 +4487,6 @@ bomble
 besuit
 borborus
 ballywack
-bloodstone
 bristlecone
 blacktop
 belial
@@ -17264,6 +17263,7 @@ bundoc
 borsch
 biltongs
 bulwarked
+bloodstone
 blanketers
 bestar
 bocca
