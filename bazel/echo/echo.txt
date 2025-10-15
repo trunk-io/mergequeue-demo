@@ -4193,7 +4193,6 @@ envelopes
 emulsion
 ectopia
 esotrope
-emulsions
 emacerated
 ecderonic
 esophoric
@@ -7654,6 +7653,7 @@ execrably
 empoisoner
 endoplastron
 ephapse
+emulsions
 enlength
 expostulates
 everyness
