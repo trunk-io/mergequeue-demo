@@ -6773,6 +6773,7 @@ dodecatyl
 demipauldron
 dirtboard
 douane
+desecrates
 datatype
 decagramme
 deposita
@@ -7171,7 +7172,6 @@ desulfurizer
 desulfurizing
 depictor
 desulfurs
-desecrates
 desulphur
 desulphurised
 dollyman
