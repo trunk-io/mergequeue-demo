@@ -13107,7 +13107,6 @@ cicatrice
 comm
 colocolo
 cicatrices
-cicatricle
 copastorate
 cicatricule
 calcanei
@@ -18434,6 +18433,7 @@ chokey
 carboxylate
 chasmy
 comprest
+cicatricle
 cultivated
 crystalloblastic
 centrale
