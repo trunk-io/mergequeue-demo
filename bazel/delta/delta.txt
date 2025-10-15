@@ -442,6 +442,7 @@ degummer
 deities
 dodrantal
 degausses
+displumed
 doblas
 dairous
 dairt
@@ -3548,7 +3549,6 @@ desilverize
 degass
 degenerationist
 disintegrated
-displumed
 disappears
 degaussing
 doghood
