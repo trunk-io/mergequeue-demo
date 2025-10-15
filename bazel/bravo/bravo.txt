@@ -1223,7 +1223,6 @@ balander
 bleaberry
 bookselling
 benzopyranyl
-banned
 butyrinase
 bloomless
 beclouds
@@ -13362,6 +13361,7 @@ bonanza
 babblingly
 brassicaceae
 bloodthirsty
+banned
 bootlace
 bracery
 botanist
