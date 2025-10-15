@@ -1249,7 +1249,6 @@ enlarge
 equip
 effectuated
 effectuating
-effectuous
 epigastrical
 enterorrhea
 eelcatcher
@@ -11868,6 +11867,7 @@ enamelled
 elsin
 exanguin
 epidialogue
+effectuous
 exclusivity
 effluents
 enabled
