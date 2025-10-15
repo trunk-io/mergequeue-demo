@@ -6612,7 +6612,6 @@ berginization
 branchipodidae
 brittlewood
 bergman
-bergs
 boneshave
 bodegon
 beribanded
@@ -15761,6 +15760,7 @@ brocolis
 breechblock
 batholiths
 broderer
+bergs
 brownistical
 bilateralistic
 bestrewed
