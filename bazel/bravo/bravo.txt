@@ -6616,7 +6616,6 @@ bergs
 boneshave
 bodegon
 beribanded
-basis
 birdy
 brig
 barbarious
@@ -11875,6 +11874,7 @@ bergerette
 bypath
 bejazz
 bended
+basis
 brassworker
 bodonid
 bromic
