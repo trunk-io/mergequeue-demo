@@ -14604,7 +14604,6 @@ cosmopolicy
 cogswellia
 cystogenesis
 cystogram
-cystoid
 clypei
 clotheslines
 cystoidea
@@ -27643,6 +27642,7 @@ collided
 coolheaded
 chamfered
 croquette
+cystoid
 cowbanes
 corticosteroid
 cowberry
