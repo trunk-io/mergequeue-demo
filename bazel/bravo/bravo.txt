@@ -6206,6 +6206,7 @@ basiradial
 blindfish
 bezetta
 battalions
+bedsonias
 burkers
 bagnette
 bedarken
@@ -13679,7 +13680,6 @@ boult
 bethuel
 burnside
 bungarum
-bedsonias
 brine
 bereaven
 bemuddle
