@@ -21485,7 +21485,6 @@ concocter
 concoctions
 conspectuity
 capitaldom
-cloaking
 concoctive
 choco
 crowfoot
@@ -25910,6 +25909,7 @@ checkrein
 coeternally
 cortication
 cortices
+cloaking
 corticiferous
 contending
 cordula
