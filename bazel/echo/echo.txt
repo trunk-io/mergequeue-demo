@@ -5408,6 +5408,7 @@ enclosable
 endseal
 egretta
 enfirm
+emplastrum
 extra
 epepophysis
 evaporations
@@ -14107,7 +14108,6 @@ enrolment
 eryon
 epeiric
 earstones
-emplastrum
 evittate
 embracing
 elingued
