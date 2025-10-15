@@ -9836,7 +9836,6 @@ brogues
 biteable
 begin
 bongo
-burps
 broadcloth
 biteche
 barrels
@@ -15627,6 +15626,7 @@ burut
 broncholith
 barrenest
 bg
+burps
 beneficiated
 burred
 belemnid
