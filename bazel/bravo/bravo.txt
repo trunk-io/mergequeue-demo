@@ -704,7 +704,6 @@ bewield
 besogne
 blueish
 broadbill
-brevipennate
 baign
 bogyland
 bielding
@@ -15116,6 +15115,7 @@ bradawl
 breva
 buckshots
 burbs
+brevipennate
 breveting
 betraying
 bulldozers
