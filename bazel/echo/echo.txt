@@ -350,7 +350,6 @@ electrepeter
 educ
 exoneural
 eusteles
-elenchus
 encapsuled
 explicantia
 existless
@@ -4487,6 +4486,7 @@ endshake
 elfish
 eslabon
 escuela
+elenchus
 enodation
 excoction
 encephalola
