@@ -11160,6 +11160,7 @@ chizz
 chizzel
 confiscatable
 chkfile
+carpetlayer
 chladnite
 chondrite
 churlishly
@@ -26510,7 +26511,6 @@ cotton
 chumpishness
 cogitantly
 cottoner
-carpetlayer
 calcination
 crockeries
 calvary
