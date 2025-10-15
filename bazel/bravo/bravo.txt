@@ -1434,7 +1434,6 @@ brier
 barras
 buttressed
 beeches
-barbules
 backboards
 ball
 ballad
@@ -3318,6 +3317,7 @@ befooled
 bemixing
 bellonion
 biophysically
+barbules
 brulzies
 burghmaster
 beweeps
