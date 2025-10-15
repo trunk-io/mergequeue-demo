@@ -4334,7 +4334,6 @@ caterva
 caricologist
 cowlstaff
 casting
-curtainless
 cropplecrown
 crestfish
 caridean
@@ -6573,6 +6572,7 @@ coronis
 chondriomite
 cognoscible
 curucui
+curtainless
 cryogenically
 carditic
 countertrespass
