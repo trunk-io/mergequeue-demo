@@ -3705,6 +3705,7 @@ bequeaths
 behight
 broccoli
 bakelite
+bungaloid
 boarfishes
 burrow
 bruised
@@ -12605,7 +12606,6 @@ bushpig
 bonnibel
 blurts
 bibbers
-bungaloid
 budlike
 batter
 bristlemouths
