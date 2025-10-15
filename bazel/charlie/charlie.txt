@@ -13794,7 +13794,6 @@ cinephone
 cellarer
 crawfish
 cutworm
-cinephotomicrography
 catalina
 convoy
 cineradiography
@@ -30519,6 +30518,7 @@ cubes
 chattering
 chayotes
 chlamydosaurus
+cinephotomicrography
 cubical
 catonic
 colloquialist
