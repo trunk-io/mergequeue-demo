@@ -9965,7 +9965,6 @@ acidoid
 abayah
 atticomastoid
 ambary
-autotheater
 ambaris
 ambassade
 antiman
@@ -19420,6 +19419,7 @@ aromaticity
 affrighter
 apiin
 amban
+autotheater
 appealed
 aflush
 applaud
