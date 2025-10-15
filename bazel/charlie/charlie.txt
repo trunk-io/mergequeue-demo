@@ -9830,7 +9830,6 @@ chemiotaxic
 cognoscenti
 carvone
 chemiotaxis
-chemiotropic
 chemiotropism
 chemise
 crinet
@@ -12539,6 +12538,7 @@ chromotropism
 ciders
 cicatrizer
 chromoxylograph
+chemiotropic
 chron
 cloam
 caplets
