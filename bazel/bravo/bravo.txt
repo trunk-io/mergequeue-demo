@@ -5042,6 +5042,7 @@ bureaucrat
 bashed
 bosques
 beflea
+bowie
 bozo
 bombable
 belching
@@ -13911,7 +13912,6 @@ bryozoans
 barleybird
 biduous
 bang
-bowie
 baized
 balr
 buchite
