@@ -9005,7 +9005,6 @@ barbershop
 biontic
 buhr
 batino
-boldface
 butine
 biophilous
 biophysic
@@ -15699,6 +15698,7 @@ broadsides
 breakfront
 broadspread
 boeotia
+boldface
 brisling
 beadles
 bradley
