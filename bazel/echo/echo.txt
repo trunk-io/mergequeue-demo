@@ -675,6 +675,7 @@ exuvium
 ecotype
 epicerastic
 ecotypes
+extols
 explosively
 epigeic
 eutaxie
@@ -13686,7 +13687,6 @@ epitonic
 epiplasm
 equiaxe
 extoll
-extols
 epionychium
 exceptio
 eyeservant
