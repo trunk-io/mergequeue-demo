@@ -1602,7 +1602,6 @@ calmnesses
 coemployee
 contraceptives
 calodaemon
-calodemon
 calodemonial
 calogram
 cycasins
@@ -9475,6 +9474,7 @@ cableman
 chebec
 chebecs
 coregonoid
+calodemon
 chebel
 chebog
 chibouque
