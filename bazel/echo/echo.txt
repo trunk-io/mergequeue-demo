@@ -9806,6 +9806,7 @@ estimations
 erythrodegenerative
 exhaustively
 enterochromaffin
+exocoelic
 emmensite
 elaterium
 ephedrin
@@ -12435,7 +12436,6 @@ exocline
 ethylenes
 ethion
 exocoele
-exocoelic
 electrostatics
 exocoelum
 evection
