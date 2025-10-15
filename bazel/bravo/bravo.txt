@@ -385,7 +385,6 @@ brushes
 babhan
 bequeath
 brontolite
-bradypepsy
 bdelloid
 basichromatinic
 backframe
@@ -6356,6 +6355,7 @@ benzoglycolic
 boubous
 benzoylated
 becuna
+bradypepsy
 benzoylation
 benzoinated
 biocoenosis
