@@ -3424,7 +3424,6 @@ beroidae
 barlow
 batfowl
 batfowled
-bestore
 baulky
 bulbocavernosus
 bestraddled
@@ -11715,6 +11714,7 @@ bahnung
 bladdery
 bumkins
 befop
+bestore
 bocconia
 bobfloat
 bedazzlement
