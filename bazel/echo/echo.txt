@@ -4883,7 +4883,6 @@ endemiology
 extrabureau
 english
 exacerbations
-evolves
 enantiosis
 elementoid
 escortment
@@ -12720,6 +12719,7 @@ eulamellibranchia
 ericineous
 electroirrigation
 exotoxic
+evolves
 eclosions
 enlarger
 endocrinologist
