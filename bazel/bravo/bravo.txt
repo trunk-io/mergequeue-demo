@@ -5292,7 +5292,6 @@ bor
 blacksmithing
 beglooms
 bandwidth
-begloze
 busti
 breviers
 betels
@@ -10831,6 +10830,7 @@ bigbloom
 billmen
 blepharotomy
 behooved
+begloze
 blesboks
 babblers
 blessedness
