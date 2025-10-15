@@ -7305,7 +7305,6 @@ arthritical
 aftersound
 agapemonite
 alberttype
-albescent
 asherah
 achromat
 ablepharia
@@ -13078,6 +13077,7 @@ angelophany
 affronty
 allmouths
 affronting
+albescent
 arati
 abkhas
 anicut
