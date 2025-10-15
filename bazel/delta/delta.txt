@@ -411,6 +411,7 @@ daimiote
 determents
 deployable
 disembargoing
+dockhands
 dimmet
 decandrous
 ditches
@@ -11761,7 +11762,6 @@ decancellation
 desidious
 dodoes
 discradle
-dockhands
 disaffects
 dactylologies
 deorganization
