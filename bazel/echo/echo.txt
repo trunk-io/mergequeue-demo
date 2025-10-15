@@ -4183,7 +4183,6 @@ embryogony
 examinant
 envelopes
 emulsion
-expandible
 ectopia
 esotrope
 emulsions
@@ -10703,6 +10702,7 @@ energising
 engirdled
 echini
 exponentiates
+expandible
 exurbia
 embassiate
 esselenian
