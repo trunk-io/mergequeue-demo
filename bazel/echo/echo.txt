@@ -2898,7 +2898,6 @@ endurer
 engysseismology
 evitate
 evaporatively
-eigenfrequency
 ecstasies
 electroretinograph
 echoes
@@ -11322,6 +11321,7 @@ electromyogram
 emendate
 engouled
 elegiacal
+eigenfrequency
 evincible
 elegancies
 esthesis
