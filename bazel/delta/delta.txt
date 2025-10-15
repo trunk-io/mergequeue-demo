@@ -4477,7 +4477,6 @@ depravities
 demesnes
 declarers
 disintricate
-disentitle
 dingey
 dermatophagus
 deranger
@@ -8344,6 +8343,7 @@ duim
 darkishness
 damoclean
 distinctional
+disentitle
 dockmaster
 dialectician
 dual
