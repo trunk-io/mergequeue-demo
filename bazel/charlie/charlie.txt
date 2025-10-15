@@ -12409,7 +12409,6 @@ cladodium
 chequerwise
 cystostomy
 chromidae
-chromide
 chiffchaff
 confessarius
 chromides
@@ -23144,6 +23143,7 @@ constitutes
 cephidae
 coat
 coliforms
+chromide
 catechumenate
 cerumniparous
 canvassed
