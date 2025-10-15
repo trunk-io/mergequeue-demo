@@ -4120,6 +4120,7 @@ batetela
 beauti
 blackberries
 beauty
+beparse
 brachyphalangia
 bararite
 bracing
@@ -10226,7 +10227,6 @@ bitternut
 brisket
 barleycorn
 breakpoints
-beparse
 brainer
 beclamour
 banian
