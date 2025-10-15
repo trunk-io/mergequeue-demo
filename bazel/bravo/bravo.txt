@@ -1640,7 +1640,6 @@ bedcord
 binaries
 bogwoods
 bates
-bunty
 backpedal
 boondoggler
 bedumbing
@@ -9111,6 +9110,7 @@ buzzardlike
 bradyauxetic
 bletting
 banc
+bunty
 babyhoods
 bandyman
 brightsomeness
