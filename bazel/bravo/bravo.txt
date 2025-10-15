@@ -8727,7 +8727,6 @@ broker
 binding
 baumier
 bookkeep
-brents
 bandhor
 bekissing
 basoche
@@ -9028,6 +9027,7 @@ bombus
 basking
 biopotential
 beeswax
+brents
 biopsy
 bailliage
 byssaceous
