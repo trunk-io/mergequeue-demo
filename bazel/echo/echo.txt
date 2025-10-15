@@ -2149,7 +2149,6 @@ electioneering
 endocyclic
 elcaja
 eriocaulon
-exactly
 ethynes
 estriche
 erythemic
@@ -9325,6 +9324,7 @@ erlking
 erythrolitmin
 exclusiveness
 etherean
+exactly
 ettle
 ebdomade
 evelyn
