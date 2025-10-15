@@ -2897,6 +2897,7 @@ bedrivel
 barricaded
 beltian
 barricadoes
+barbecues
 brainsick
 bemazed
 bolthole
@@ -10767,7 +10768,6 @@ bleachman
 backhauling
 bairnie
 blandishes
-barbecues
 brags
 blennosis
 basimesostasis
