@@ -1384,7 +1384,6 @@ emunct
 entosthoblast
 epipleural
 enfarce
-enclasp
 effraction
 embrowd
 endothermic
@@ -4302,6 +4301,7 @@ enarched
 extrascholastic
 enarme
 epidia
+enclasp
 electroamalgamation
 emydea
 encrust
