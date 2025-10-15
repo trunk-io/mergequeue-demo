@@ -3971,7 +3971,6 @@ beans
 beanstalk
 begrain
 bakalai
-bestiaries
 benzamino
 benzofuroquinoxaline
 blearedness
@@ -17001,6 +17000,7 @@ bespeakable
 beshivering
 boltless
 bootheel
+bestiaries
 betailor
 basseting
 babylonic
