@@ -10486,7 +10486,6 @@ diphenoxylate
 diphysite
 deadeye
 damask
-discolith
 deplete
 disestablishing
 diaphany
@@ -18244,6 +18243,7 @@ darzee
 deputative
 disables
 deterging
+discolith
 distorter
 dungarees
 doghearted
