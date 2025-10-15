@@ -257,6 +257,7 @@ bowlines
 bellwine
 bluecap
 bugseed
+betrayed
 bootmaking
 bombardiers
 belleter
@@ -7343,7 +7344,6 @@ bronchomycosis
 bechancing
 bombesin
 bradshaw
-betrayed
 bequeathment
 boxmaking
 bimarginate
