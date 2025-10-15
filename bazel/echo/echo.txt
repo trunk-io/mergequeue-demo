@@ -3555,7 +3555,6 @@ exequies
 eudipleural
 exquisitely
 enervator
-equoid
 epigoneion
 elastically
 ensafe
@@ -12633,6 +12632,7 @@ elsewise
 epidiascope
 enterosyphilis
 exortion
+equoid
 episodal
 embase
 endocentric
