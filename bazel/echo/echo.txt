@@ -4808,7 +4808,6 @@ epaulets
 excitive
 encoronal
 epact
-encountered
 enterostasis
 encountering
 equilibrate
@@ -11431,6 +11430,7 @@ exacerbating
 euhemerising
 emagram
 expulses
+encountered
 enddamaged
 exactable
 extemporising
