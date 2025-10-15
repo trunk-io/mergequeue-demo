@@ -7575,7 +7575,6 @@ euryale
 extrabold
 exocrine
 extramorainic
-enid
 eoliths
 epicortical
 enterococcal
@@ -8604,6 +8603,7 @@ emote
 ethrogs
 ektexine
 equipages
+enid
 embioptera
 etherialism
 expositions
