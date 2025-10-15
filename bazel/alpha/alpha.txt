@@ -2033,7 +2033,6 @@ ache
 abrogated
 acheat
 academy
-actuation
 aboardage
 archways
 artemisin
@@ -7354,6 +7353,7 @@ amvis
 albines
 apostrophised
 aperistalsis
+actuation
 albiness
 autarchically
 adipose
