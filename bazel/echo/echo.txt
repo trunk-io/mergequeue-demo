@@ -310,6 +310,7 @@ exalt
 exequy
 ecca
 estops
+enchantments
 ewers
 enchilada
 eluted
@@ -12988,7 +12989,6 @@ eagerness
 exited
 encephalometric
 emerizing
-enchantments
 electorate
 epidermose
 ethanolysis
