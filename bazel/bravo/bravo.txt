@@ -7125,6 +7125,7 @@ bestay
 bowknots
 burleys
 bricoles
+besoothe
 bennies
 bestatued
 bijous
@@ -11342,7 +11343,6 @@ bludge
 belouke
 bludged
 bludgeon
-besoothe
 bambusa
 brattice
 benmost
