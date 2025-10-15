@@ -1730,7 +1730,6 @@ episcopate
 enable
 emplastic
 entresse
-emendandum
 effete
 exampled
 exenteration
@@ -3779,6 +3778,7 @@ emerald
 electrometry
 euphroe
 emerge
+emendandum
 elocutionary
 erythroid
 escamotage
