@@ -3172,7 +3172,6 @@ ectomesoblast
 edict
 epiplastral
 emmarble
-embourgeoisement
 epicurishly
 electrocratic
 eichbergite
@@ -5685,6 +5684,7 @@ empirism
 euphuistical
 evoked
 equivocatory
+embourgeoisement
 exulceratory
 engined
 esthetes
