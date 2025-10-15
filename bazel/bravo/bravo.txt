@@ -6163,7 +6163,6 @@ bakeshops
 bargestone
 berengelite
 bengalese
-batavian
 bastardizations
 bengola
 bemonster
@@ -7558,6 +7557,7 @@ bryological
 bewitchment
 bloating
 baobabs
+batavian
 bewizard
 blandished
 barracks
