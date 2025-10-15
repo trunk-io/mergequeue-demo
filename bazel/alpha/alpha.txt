@@ -9433,7 +9433,6 @@ anemones
 antipathic
 amblingly
 alter
-alterable
 alterably
 acceptingly
 arietation
@@ -12872,6 +12871,7 @@ acantha
 authentication
 angiotonic
 angulous
+alterable
 awanting
 awork
 attainders
