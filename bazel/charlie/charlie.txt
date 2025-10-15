@@ -2913,7 +2913,6 @@ cakile
 cardamums
 chare
 chamberlains
-capsulae
 cuthbert
 contradistinction
 cantholysis
@@ -17881,6 +17880,7 @@ celebrations
 codifiers
 codifies
 cue
+capsulae
 codifying
 codilla
 cephid
