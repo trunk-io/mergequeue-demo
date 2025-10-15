@@ -2947,7 +2947,6 @@ borts
 branglement
 burgesses
 bartizans
-burrobrush
 bioluminescence
 boracium
 brittling
@@ -9678,6 +9677,7 @@ bisks
 bleat
 boulder
 baltimorean
+burrobrush
 biogen
 blueprint
 becrawled
