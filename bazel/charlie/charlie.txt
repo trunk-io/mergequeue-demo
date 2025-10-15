@@ -3717,7 +3717,6 @@ civilist
 carbazole
 carbeen
 carbene
-cantorian
 carbide
 cytoblastematous
 carbyl
@@ -21346,6 +21345,7 @@ conch
 countenance
 celiitis
 claviol
+cantorian
 conchometry
 cogitated
 coterminously
