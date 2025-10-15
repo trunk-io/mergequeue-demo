@@ -8297,6 +8297,7 @@ chalklike
 chalkline
 chantage
 canacuas
+coequal
 columnated
 colotomy
 cohered
@@ -18141,7 +18142,6 @@ coenthrone
 copopsia
 consumer
 coleochaetaceae
-coequal
 coteful
 campman
 coequalness
