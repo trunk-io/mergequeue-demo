@@ -1418,6 +1418,7 @@ amphidiscophora
 append
 ambisyllabic
 agorot
+annumerate
 argosy
 aglet
 accipient
@@ -13627,7 +13628,6 @@ aahs
 apostasis
 anat
 annuls
-annumerate
 audiometry
 anticovenanting
 antitoxin
