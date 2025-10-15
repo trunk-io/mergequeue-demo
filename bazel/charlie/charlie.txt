@@ -10200,7 +10200,6 @@ chyack
 chianti
 chiao
 clamehewit
-capsicum
 chiapanec
 chiapanecan
 chamomilla
@@ -29334,6 +29333,7 @@ copyread
 calyciform
 cryptogram
 cadouk
+capsicum
 cribbing
 correctionalist
 cryptographal
