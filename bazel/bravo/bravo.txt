@@ -1762,7 +1762,6 @@ brushable
 bialystoker
 bandaging
 bowlin
-beleaped
 beaverpelt
 bandala
 bindingness
@@ -17641,6 +17640,7 @@ bhakta
 bedmaker
 bisexual
 blethering
+beleaped
 bridegrooms
 brackets
 bathypelagic
