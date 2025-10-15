@@ -2956,7 +2956,6 @@ cantoning
 cantonize
 countergager
 cantoral
-cryosurgical
 cantoria
 cardsharps
 cantoris
@@ -26633,6 +26632,7 @@ corder
 copepoda
 chlorimeter
 coked
+cryosurgical
 councils
 cozener
 coude
