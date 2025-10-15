@@ -1301,6 +1301,7 @@ bethlehem
 bleeping
 bookdealer
 bioplastic
+baned
 bojo
 balboas
 barrowcoat
@@ -7220,7 +7221,6 @@ betag
 bolstering
 begild
 based
-baned
 bothies
 bubbliest
 bluejack
