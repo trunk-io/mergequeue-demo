@@ -4283,6 +4283,7 @@ berserk
 bedeafens
 birdmouthed
 beachmaster
+bidiagonal
 befilth
 breakwater
 bullshit
@@ -5180,7 +5181,6 @@ bughouses
 ballistophobia
 bumpkinet
 beggarhood
-bidiagonal
 befurbelowed
 befurred
 boarhound
