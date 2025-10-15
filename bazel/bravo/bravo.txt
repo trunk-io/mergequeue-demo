@@ -4613,7 +4613,6 @@ beekmantown
 baitfish
 bandpass
 braved
-berigora
 brownwort
 bevel
 biogenesis
@@ -10535,6 +10534,7 @@ boyhoods
 blamability
 bonks
 bibless
+berigora
 backrushes
 backlash
 blatch
