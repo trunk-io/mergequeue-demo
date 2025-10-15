@@ -4281,7 +4281,6 @@ deltohedron
 dogvanes
 daedalian
 dauerlauf
-debenzolize
 delubra
 deluce
 delude
@@ -5967,6 +5966,7 @@ depeculate
 demihague
 deprogrammings
 dropforged
+debenzolize
 demisphere
 drawling
 disaffectedly
