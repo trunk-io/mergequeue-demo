@@ -3382,7 +3382,6 @@ electrochemistry
 ep
 exteroceptor
 equilibrium
-elohist
 embrake
 em
 exercitorian
@@ -9210,6 +9209,7 @@ errhines
 extraclassroom
 evaniidae
 exceptions
+elohist
 erron
 euphemizer
 ethnomusicological
