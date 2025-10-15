@@ -3038,7 +3038,6 @@ basecourt
 biradiate
 bled
 barrelhouses
-brothels
 breakouts
 beallach
 bouvier
@@ -7350,6 +7349,7 @@ bimarginate
 bedgown
 blastomycetic
 bepaper
+brothels
 boatings
 belgians
 betread
