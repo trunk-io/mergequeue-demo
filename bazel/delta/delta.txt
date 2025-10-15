@@ -5075,7 +5075,6 @@ denaturants
 dueller
 decretorian
 diminishingturns
-dialectology
 definientia
 dextrogyrate
 dispeaceful
@@ -18504,6 +18503,7 @@ dyschronous
 dacryoma
 dupper
 denat
+dialectology
 dirca
 defenestrated
 durably
