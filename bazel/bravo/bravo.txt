@@ -1540,7 +1540,6 @@ basalt
 benzanilide
 bootlegged
 bursati
-beam
 blackleg
 baudronses
 benzalazine
@@ -8216,6 +8215,7 @@ bose
 bigarades
 blanda
 budgie
+beam
 bigaroon
 bellowing
 butterflyfish
