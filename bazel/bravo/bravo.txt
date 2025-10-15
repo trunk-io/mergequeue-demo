@@ -1980,7 +1980,6 @@ bloodstones
 birded
 braccio
 bankcard
-backhandedness
 bethought
 bejewelled
 banknote
@@ -7081,6 +7080,7 @@ backstick
 backsets
 bilobed
 billfish
+backhandedness
 brashest
 bespray
 ballute
