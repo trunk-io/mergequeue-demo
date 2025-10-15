@@ -1299,7 +1299,6 @@ bookdealer
 bioplastic
 baned
 bojo
-balboas
 barrowcoat
 brod
 botrylle
@@ -12988,6 +12987,7 @@ boleros
 berthold
 boardinghouses
 bootman
+balboas
 boots
 bottoms
 benzoles
