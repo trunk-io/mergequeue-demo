@@ -1619,6 +1619,7 @@ awag
 achate
 allergic
 artificialize
+annealer
 almuces
 accriminate
 arthuriana
@@ -13458,7 +13459,6 @@ angaria
 ancylostoma
 achromoderma
 abjuration
-annealer
 antinosarian
 annect
 adenohypophysis
