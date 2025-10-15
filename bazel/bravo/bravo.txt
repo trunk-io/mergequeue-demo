@@ -5821,7 +5821,6 @@ butterbur
 bathythermograph
 bellwether
 bellwort
-ballpoint
 belonger
 biased
 bronchophonic
@@ -11779,6 +11778,7 @@ bodings
 bobsleding
 boxfishes
 bocce
+ballpoint
 bugbears
 backfilled
 beefheaded
