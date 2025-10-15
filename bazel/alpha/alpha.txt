@@ -1407,7 +1407,6 @@ alg
 audiometers
 atka
 autoinoculable
-aeciospore
 accessorize
 astrometric
 acciaccaturas
@@ -20994,6 +20993,7 @@ animatistic
 asperggilla
 ascertains
 ascendant
+aeciospore
 ascescency
 aerosteam
 almshouse
