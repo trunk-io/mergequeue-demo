@@ -6666,7 +6666,6 @@ agglutination
 aptitudes
 addlings
 adsmith
-alcohol
 aglucon
 ainus
 atebrin
@@ -16173,6 +16172,7 @@ animator
 antibug
 alterman
 acroliths
+alcohol
 antapex
 awheel
 azafran
