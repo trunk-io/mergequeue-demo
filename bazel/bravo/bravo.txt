@@ -4867,7 +4867,6 @@ betrayals
 burgware
 bumblings
 balls
-bandel
 barmier
 bactritoid
 beneplacito
@@ -9436,6 +9435,7 @@ bedlids
 botanicas
 blintz
 bacteriostat
+bandel
 babishly
 batrachiate
 bookholder
