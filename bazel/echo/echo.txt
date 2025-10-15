@@ -2468,7 +2468,6 @@ empasma
 exairesis
 electroing
 electrokinetic
-epicanthic
 exterminative
 electrokinetics
 electroless
@@ -8962,6 +8961,7 @@ ebcasc
 explicability
 edentulate
 excarnation
+epicanthic
 expressionism
 erept
 epizooties
