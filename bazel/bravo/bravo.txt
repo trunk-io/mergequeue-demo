@@ -9000,7 +9000,6 @@ boulevardier
 bringal
 bitentaculate
 busheler
-barbershop
 biontic
 buhr
 batino
@@ -14848,6 +14847,7 @@ bedflower
 billycock
 baulks
 backwaters
+barbershop
 boaters
 biopyribole
 badaxe
