@@ -320,7 +320,6 @@ daybill
 disinteress
 dourine
 dihydroergotamine
-diffusible
 drunkometer
 demesnial
 degreeless
@@ -12193,6 +12192,7 @@ duskingtide
 dha
 disfavoured
 dagomba
+diffusible
 declensional
 decertifying
 dejections
