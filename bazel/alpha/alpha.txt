@@ -2185,7 +2185,6 @@ acetophenine
 acrestaff
 achromatising
 ampullula
-achromatization
 achromatize
 arctalian
 achromatope
@@ -9348,6 +9347,7 @@ areole
 alphas
 alpheus
 awave
+achromatization
 auca
 affaite
 alphyl
