@@ -7263,7 +7263,6 @@ albarco
 anticor
 ashur
 aionial
-alanyl
 albarelli
 aniline
 armadilla
@@ -25404,6 +25403,7 @@ ateeter
 azoology
 antiparagraphic
 abfarad
+alanyl
 antiradiant
 antidogmatical
 azurmalachite
