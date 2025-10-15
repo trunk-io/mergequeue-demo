@@ -2896,7 +2896,6 @@ bedrivel
 barricaded
 beltian
 barricadoes
-barbecues
 brainsick
 bemazed
 bolthole
@@ -3605,6 +3604,7 @@ bootees
 batty
 barny
 battier
+barbecues
 babelike
 brightest
 batting
