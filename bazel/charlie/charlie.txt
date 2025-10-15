@@ -9126,7 +9126,6 @@ charsingha
 centriole
 container
 camaka
-charta
 coasters
 chartable
 charterer
@@ -23945,6 +23944,7 @@ chromatrope
 cacological
 cautio
 convalescence
+charta
 convalescently
 convalescents
 calavance
