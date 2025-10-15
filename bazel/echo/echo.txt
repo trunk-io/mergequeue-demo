@@ -9555,7 +9555,6 @@ enlarging
 espadon
 enkindler
 encense
-equipper
 esparsette
 enravishment
 euroclydon
@@ -9940,6 +9939,7 @@ epilepsies
 erke
 ectropium
 everwhich
+equipper
 electroplaque
 ethanediol
 epigramme
