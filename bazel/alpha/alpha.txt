@@ -1618,7 +1618,6 @@ awag
 achate
 allergic
 artificialize
-annealer
 almuces
 accriminate
 arthuriana
@@ -24071,6 +24070,7 @@ autocollimators
 agglomerate
 anchormen
 amidoaldehyde
+annealer
 ashiness
 antipolitics
 autocombustion
