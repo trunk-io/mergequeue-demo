@@ -8202,6 +8202,7 @@ cli
 chakobu
 carpentry
 cloudage
+catfaces
 complection
 chalastogastra
 celestinian
@@ -22900,7 +22901,6 @@ conservancy
 coutelle
 conservant
 conservate
-catfaces
 circumcise
 combustibly
 conservational
