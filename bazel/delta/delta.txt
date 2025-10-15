@@ -819,7 +819,6 @@ directivity
 deriv
 ditchbank
 dragsawing
-desynonymization
 dashwheel
 duplicitas
 desands
@@ -6255,6 +6254,7 @@ disprize
 deprecates
 didymolite
 dodecanesian
+desynonymization
 deploringly
 dermoosseous
 durn
