@@ -6533,7 +6533,6 @@ dialectic
 dircaean
 dother
 dynel
-deerstalker
 descension
 dump
 donor
@@ -9558,6 +9557,7 @@ digesting
 dural
 deuteranomalous
 digestiveness
+deerstalker
 dipteroi
 dominee
 domically
