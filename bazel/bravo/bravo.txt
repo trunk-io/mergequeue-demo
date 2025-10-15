@@ -2486,7 +2486,6 @@ barid
 bronchostenosis
 boanthropy
 burgus
-barye
 bois
 barcolongo
 boyla
@@ -2968,6 +2967,7 @@ beigel
 belee
 bravoite
 brimmers
+barye
 baubee
 beachhead
 biostatistic
