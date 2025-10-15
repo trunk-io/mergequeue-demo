@@ -157,7 +157,6 @@ bethylidae
 booklores
 babloh
 bottleneck
-bulleting
 baboonery
 baetylic
 basicerite
@@ -12440,6 +12439,7 @@ bakeout
 bosselated
 betsimisaraka
 brules
+bulleting
 bobstay
 ballotist
 bacteroid
