@@ -23548,7 +23548,6 @@ cattleship
 cageman
 cloky
 californite
-contignation
 contiguity
 continentaler
 continentalize
@@ -30932,6 +30931,7 @@ cumay
 confirmand
 currack
 cumal
+contignation
 cytozoic
 cumaphyte
 cotyttia
