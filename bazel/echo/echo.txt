@@ -1662,7 +1662,6 @@ etouffe
 exsomatic
 eliding
 explicating
-eyelessness
 epikia
 exert
 ethnomusicology
@@ -12709,6 +12708,7 @@ echoic
 emendated
 ephectic
 esd
+eyelessness
 episcopal
 exoticness
 expo
