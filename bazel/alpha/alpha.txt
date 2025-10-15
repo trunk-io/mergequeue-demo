@@ -2829,6 +2829,7 @@ astrol
 antings
 aquas
 acid
+alacrity
 acropolitan
 asthenope
 afterlight
@@ -7119,7 +7120,6 @@ airworthiness
 aridnesses
 antiroll
 alacrious
-alacrity
 almsgiving
 anomalies
 antica
