@@ -1539,7 +1539,6 @@ beseeches
 basalt
 benzanilide
 bootlegged
-bursati
 blackleg
 baudronses
 benzalazine
@@ -12812,6 +12811,7 @@ bookworm
 blit
 bookwright
 booleans
+bursati
 boloman
 booly
 betatters
