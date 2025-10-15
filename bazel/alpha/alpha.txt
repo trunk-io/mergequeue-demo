@@ -3921,7 +3921,6 @@ anthus
 acronymize
 add
 aphaeresis
-absorb
 aphasia
 accusator
 assignat
@@ -18731,6 +18730,7 @@ adepts
 airdrops
 angioneoplasm
 anagrammatism
+absorb
 algates
 archenia
 antemingent
