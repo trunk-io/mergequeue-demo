@@ -7963,7 +7963,6 @@ cf
 cfd
 ch
 cha
-colloquized
 catchweed
 cheiropterygium
 cholecalciferol
@@ -21046,6 +21045,7 @@ compunct
 crassilingual
 compunction
 curvedness
+colloquized
 consolidate
 cyanean
 crofterize
