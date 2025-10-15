@@ -5796,7 +5796,6 @@ collator
 canisters
 categorised
 chansonnier
-cuemanship
 churly
 cleaves
 categorization
@@ -27307,6 +27306,7 @@ cassique
 countrification
 complies
 countrified
+cuemanship
 countrifiedness
 curtal
 countryfiedness
