@@ -5869,7 +5869,6 @@ constructable
 corelysis
 chivy
 catfacing
-catfalls
 catfight
 creeled
 concubine
@@ -11568,6 +11567,7 @@ confarreate
 cholecystic
 criticisms
 cestoid
+catfalls
 cholecystitis
 cozies
 caramels
