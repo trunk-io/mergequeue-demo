@@ -2077,6 +2077,7 @@ bantering
 baresma
 bisso
 batfowling
+boldface
 betangle
 brither
 benefactrix
@@ -9005,7 +9006,6 @@ barbershop
 biontic
 buhr
 batino
-boldface
 butine
 biophilous
 biophysic
