@@ -1308,7 +1308,6 @@ acaudate
 adtevac
 algesia
 atomized
-abnormal
 acaulescence
 antlers
 acaulescent
@@ -24292,6 +24291,7 @@ automechanical
 axostyle
 automechanism
 aurichalcite
+abnormal
 archipelagic
 autometric
 armillated
