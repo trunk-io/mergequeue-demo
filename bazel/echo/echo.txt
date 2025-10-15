@@ -11015,6 +11015,7 @@ expunger
 enteromegalia
 entosterna
 eradiated
+epicotyledonary
 evangeliarium
 epitapher
 enalyron
@@ -12549,7 +12550,6 @@ enosist
 erotogenic
 erases
 enterer
-epicotyledonary
 exonerate
 enhancements
 encephalotomies
