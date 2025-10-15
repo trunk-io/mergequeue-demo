@@ -5150,7 +5150,6 @@ epicarp
 encyclic
 essonite
 electrocorticogram
-ergotist
 estampage
 electrostatic
 epicist
@@ -6141,6 +6140,7 @@ enumeration
 exosmosis
 ettling
 edeoscopy
+ergotist
 experting
 ennobling
 eplot
