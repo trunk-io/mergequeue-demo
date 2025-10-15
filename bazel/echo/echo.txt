@@ -5179,7 +5179,6 @@ epiphysary
 euchite
 eggeater
 endogenous
-enframe
 enlistment
 endoglobular
 enterocyst
@@ -12062,6 +12061,7 @@ elem
 entablements
 execute
 expy
+enframe
 envisions
 extrazodiacal
 economise
