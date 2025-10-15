@@ -4056,7 +4056,6 @@ bradypus
 bullswool
 byrlady
 beastman
-baselevel
 beastship
 balzarine
 boxboards
@@ -4953,6 +4952,7 @@ badgeman
 balanoid
 beetles
 brompicrin
+baselevel
 buoying
 bhunder
 beetlike
