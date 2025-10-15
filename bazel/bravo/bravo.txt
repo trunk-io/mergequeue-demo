@@ -1781,6 +1781,7 @@ babirusas
 backstabber
 bandelette
 brassage
+benzoic
 banderole
 brigading
 blere
@@ -2612,7 +2613,6 @@ barmaster
 brideweed
 bergalith
 belligerents
-benzoic
 backbit
 barmcloth
 birdcage
