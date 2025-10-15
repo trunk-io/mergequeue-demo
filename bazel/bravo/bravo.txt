@@ -844,6 +844,7 @@ benzidin
 benzalcohol
 baggala
 bogach
+burdensome
 broiden
 bijouterie
 baggara
@@ -2284,7 +2285,6 @@ betrayers
 bourignianism
 buyable
 brim
-burdensome
 biotins
 braggart
 basophil
