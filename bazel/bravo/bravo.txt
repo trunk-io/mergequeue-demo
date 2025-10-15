@@ -2264,7 +2264,6 @@ baobab
 biasways
 breloque
 barbicel
-bespice
 bathonian
 bateaux
 barbierite
@@ -17480,6 +17479,7 @@ bowkail
 blacknob
 buphthalmum
 buplever
+bespice
 buprestidae
 backspins
 boodles
