@@ -15558,7 +15558,6 @@ classable
 coplanarity
 classbook
 classed
-castigation
 circumboreal
 classers
 chiromant
@@ -23326,6 +23325,7 @@ closets
 consultive
 consulto
 connellite
+castigation
 consults
 consumated
 clerkhood
