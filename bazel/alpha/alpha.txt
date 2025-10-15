@@ -311,7 +311,6 @@ archegoniatae
 advise
 antiworld
 allegro
-anteverted
 archmonarch
 afforcement
 atropines
@@ -8924,6 +8923,7 @@ appestat
 allonym
 alongst
 aerator
+anteverted
 allonymously
 allonyms
 allonomous
