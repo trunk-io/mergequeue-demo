@@ -3388,6 +3388,7 @@ epichorial
 embarks
 equipage
 electrochemistry
+exarticulation
 ep
 exteroceptor
 equilibrium
@@ -12171,7 +12172,6 @@ enhydrous
 effortless
 exhausted
 effront
-exarticulation
 eulogizers
 erythroglucin
 elytrin
