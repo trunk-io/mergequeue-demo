@@ -674,7 +674,6 @@ exceptioner
 exuvium
 ecotype
 epicerastic
-ecotypes
 extols
 explosively
 epigeic
@@ -2864,6 +2863,7 @@ extraparochially
 expirer
 ethmophysal
 entrancingly
+ecotypes
 enthrall
 erzahler
 evaluators
