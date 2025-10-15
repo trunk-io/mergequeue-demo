@@ -4361,6 +4361,7 @@ egypt
 escaped
 eoith
 emicate
+endplay
 echards
 erudit
 edifices
@@ -8184,7 +8185,6 @@ eventration
 elysee
 epitactic
 engirt
-endplay
 emotive
 epizootiologically
 executionist
