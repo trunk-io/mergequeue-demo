@@ -12041,7 +12041,6 @@ disencharm
 database
 drip
 duikerbuck
-defiances
 deimos
 daint
 delf
@@ -12661,6 +12660,7 @@ deditician
 despairs
 defoamers
 downmost
+defiances
 dermoskeletal
 dragoness
 diplantidian
