@@ -6284,7 +6284,6 @@ benzalethylamine
 blast
 bitterwort
 ballet
-bulimoid
 benzamide
 biestings
 badgerbrush
@@ -12142,6 +12141,7 @@ brachistocephalic
 bonesets
 boldnesses
 burbots
+bulimoid
 boldo
 benzofluorene
 baruria
