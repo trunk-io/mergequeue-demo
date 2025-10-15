@@ -7358,7 +7358,6 @@ befreeze
 bearhide
 besmirched
 batrachia
-buboes
 bhadon
 beating
 betterment
@@ -8139,6 +8138,7 @@ boring
 bemat
 bleaty
 borrow
+buboes
 biflex
 benchfellow
 bangers
