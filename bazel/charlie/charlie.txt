@@ -6670,7 +6670,6 @@ cosmography
 compound
 continuous
 coathangers
-colligation
 ceinture
 ceyx
 ceja
@@ -22525,6 +22524,7 @@ continuance
 chromolysis
 counterargument
 conjoin
+colligation
 cottonwood
 cerebrosis
 chignoned
