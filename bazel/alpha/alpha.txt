@@ -5153,7 +5153,6 @@ allosyndetic
 affiants
 arsmetik
 affidation
-allegiare
 alabastrums
 ais
 allegorists
@@ -8322,6 +8321,7 @@ abridger
 analepses
 avertin
 anoestrus
+allegiare
 aporia
 anonymuncule
 ammonal
