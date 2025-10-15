@@ -12484,7 +12484,6 @@ bondmaids
 beak
 befoulier
 botryopteris
-bawhorse
 boldu
 bilabial
 bondmen
@@ -12772,6 +12771,7 @@ boardable
 baguet
 banzais
 bearess
+bawhorse
 bookmobiles
 baroni
 bookpress
