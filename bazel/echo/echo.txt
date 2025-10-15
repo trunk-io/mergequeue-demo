@@ -5969,7 +5969,6 @@ excise
 etchimin
 electromyographical
 ejections
-electropotential
 excud
 exhortative
 enteroplegia
@@ -12559,6 +12558,7 @@ exonerate
 enhancements
 encephalotomies
 euclase
+electropotential
 enigmatist
 enfevered
 essays
