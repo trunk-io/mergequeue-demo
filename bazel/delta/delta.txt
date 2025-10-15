@@ -5494,7 +5494,6 @@ duotones
 depaints
 dendritically
 dihalid
-deoxyribonucleotide
 dauncy
 dogtrot
 dolichos
@@ -16830,6 +16829,7 @@ dissenters
 dialogize
 dreeing
 difficult
+deoxyribonucleotide
 domicil
 devex
 dididae
