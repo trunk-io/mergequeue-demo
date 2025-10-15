@@ -1544,6 +1544,7 @@ andalusite
 ancilla
 antefact
 accoucheur
+alerion
 arclength
 aristol
 accountably
@@ -9965,7 +9966,6 @@ ambary
 autotheater
 ambaris
 ambassade
-alerion
 antiman
 angelology
 asseveratingly
