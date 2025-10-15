@@ -3645,6 +3645,7 @@ degraded
 drongo
 degradement
 dozing
+destructor
 drugged
 depsid
 disrupt
@@ -12867,7 +12868,6 @@ dermographic
 dunnages
 devotionally
 dominial
-destructor
 dribblets
 democratization
 desaminase
