@@ -9493,7 +9493,6 @@ check
 communizing
 checkage
 checkback
-checkbook
 cryptobatholithic
 cableways
 collop
@@ -18895,6 +18894,7 @@ coquillage
 copulates
 coarcted
 colymbriformes
+checkbook
 congii
 colymbus
 choroid
