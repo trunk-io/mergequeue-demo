@@ -1018,7 +1018,6 @@ biogeographic
 busway
 bustiest
 bacteroides
-boyaus
 butty
 bersil
 bepimple
@@ -5089,6 +5088,7 @@ bemeaned
 baffled
 becket
 billable
+boyaus
 boxholder
 bourrasque
 bootmaker
