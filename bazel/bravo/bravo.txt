@@ -4047,7 +4047,6 @@ beeweed
 boilable
 beastlily
 barrow
-bradypus
 bullswool
 byrlady
 beastman
@@ -8820,6 +8819,7 @@ basson
 blackbody
 blunthead
 bikinied
+bradypus
 bedchamber
 beslimed
 bible
