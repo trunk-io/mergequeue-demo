@@ -3417,7 +3417,6 @@ defoil
 dehydrogenization
 dorsobranchiata
 defoliants
-disrate
 defoliate
 drippier
 digynia
@@ -4627,6 +4626,7 @@ dolichocrany
 diprismatic
 detected
 drainless
+disrate
 decretal
 demiox
 disenthrall
