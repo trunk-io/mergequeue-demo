@@ -3424,7 +3424,6 @@ bromes
 batfishes
 biri
 beroidae
-barlow
 batfowl
 batfowled
 bestore
@@ -8397,6 +8396,7 @@ billions
 bundu
 bostonians
 bilby
+barlow
 busier
 banqueteering
 biff
