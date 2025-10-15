@@ -12322,6 +12322,7 @@ charoset
 chromatid
 confluxibility
 conuses
+coexclusive
 chromatin
 cryptoproselyte
 counterprocess
@@ -22023,7 +22024,6 @@ confidingness
 configural
 canteens
 counterestablishment
-coexclusive
 chorgi
 clinohedrite
 configurating
