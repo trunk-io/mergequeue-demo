@@ -1568,6 +1568,7 @@ diminute
 diplomata
 disposition
 determinatively
+decius
 dool
 delighted
 desitive
@@ -9683,7 +9684,6 @@ deadline
 delimiters
 dihalogen
 drayed
-decius
 dentately
 dirked
 dihedron
