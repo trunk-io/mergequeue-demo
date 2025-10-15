@@ -590,6 +590,7 @@ envier
 espingole
 escadrille
 eudiometry
+exchangeability
 erratic
 eclogic
 extraocular
@@ -5756,7 +5757,6 @@ expressions
 ephemeris
 extirp
 engs
-exchangeability
 evocation
 emotionless
 englut
