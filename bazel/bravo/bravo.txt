@@ -12313,6 +12313,7 @@ betrayer
 bombardments
 bombline
 bullbat
+brank
 bestink
 bombast
 bandurrias
@@ -14634,7 +14635,6 @@ booth
 bemourn
 boletuses
 brangled
-brank
 branks
 bronchi
 brankursine
