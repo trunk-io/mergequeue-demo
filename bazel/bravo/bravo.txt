@@ -238,7 +238,6 @@ bryum
 baffle
 baris
 bach
-bibliograph
 betonica
 bastinadoed
 bactrites
@@ -4847,6 +4846,7 @@ besoothed
 busser
 balkers
 brilliancies
+bibliograph
 burrgrailer
 bergamot
 bacteraemia
