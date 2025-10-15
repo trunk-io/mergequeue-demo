@@ -5431,7 +5431,6 @@ decontrol
 deschampsia
 diplomatics
 deuteric
-disc
 denuder
 dermolysis
 dissonant
@@ -17278,6 +17277,7 @@ dissatisfied
 droit
 dauner
 discern
+disc
 defectoscope
 deniers
 deaccession
