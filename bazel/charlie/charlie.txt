@@ -12804,7 +12804,6 @@ cecile
 canasta
 corporosity
 calorite
-calcitonin
 cytometer
 crackback
 counterbid
@@ -25599,6 +25598,7 @@ corporalship
 corporas
 corporate
 calamariaceae
+calcitonin
 corporately
 countergift
 clamminess
