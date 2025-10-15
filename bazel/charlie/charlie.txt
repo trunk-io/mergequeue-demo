@@ -5707,7 +5707,6 @@ cultivatability
 cowpock
 catchline
 catchphrase
-catchpole
 camiknickers
 cynoscion
 commation
@@ -30139,6 +30138,7 @@ crownment
 clavolae
 complementing
 cresol
+catchpole
 cryptoscope
 crownpiece
 crotyl
