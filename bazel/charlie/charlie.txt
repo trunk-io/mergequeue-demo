@@ -3412,7 +3412,6 @@ cabalistical
 capsizing
 caps
 capsomere
-capsomers
 capstans
 capstone
 capsular
@@ -13647,6 +13646,7 @@ concentus
 crotonic
 ciliophora
 carlet
+capsomers
 cyanometry
 cynareous
 carbonation
