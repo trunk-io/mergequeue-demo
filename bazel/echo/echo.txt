@@ -1383,7 +1383,6 @@ ethiopian
 emunct
 entosthoblast
 epipleural
-enfarce
 enclasp
 effraction
 embrowd
@@ -13175,6 +13174,7 @@ enterectomies
 easel
 ertebolle
 ecocidal
+enfarce
 extuberate
 entomological
 equiliria
