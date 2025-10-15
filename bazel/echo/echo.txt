@@ -7188,7 +7188,6 @@ emplane
 eurythermous
 eutaxitic
 extradoses
-eorhyolite
 eos
 examples
 etonian
@@ -12410,6 +12409,7 @@ encarpium
 extinction
 echinodorus
 enherit
+eorhyolite
 esothyropexy
 excusers
 endopleura
