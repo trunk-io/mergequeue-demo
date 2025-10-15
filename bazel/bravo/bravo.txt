@@ -3301,7 +3301,6 @@ botanizer
 basswood
 becoward
 botflies
-brelaw
 bedsores
 blushing
 biotech
@@ -15011,6 +15010,7 @@ batteried
 barberry
 breccias
 brecciated
+brelaw
 bespoused
 butterbill
 beglerbeglic
