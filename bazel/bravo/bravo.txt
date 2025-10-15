@@ -13537,7 +13537,6 @@ bradyseismism
 bottomchrome
 bonders
 bungarus
-basementward
 bagroom
 bioxide
 blacksmiths
@@ -17235,6 +17234,7 @@ beavered
 bulbus
 bullskin
 bullsticker
+basementward
 bacquet
 ballyhooer
 beachcomber
