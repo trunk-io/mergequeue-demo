@@ -2108,7 +2108,6 @@ chromatodysopia
 context
 culverineer
 canonicate
-circaetus
 contemnor
 camphorated
 camphorates
@@ -8053,6 +8052,7 @@ crumples
 chaetopod
 cirrated
 chaetopodan
+circaetus
 chaetopterus
 chaetosoma
 chaetosomidae
