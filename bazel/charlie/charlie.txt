@@ -5846,7 +5846,6 @@ caterbrawl
 catercorner
 curiousest
 catercornered
-catercornerways
 coholder
 chainplate
 cartbote
@@ -28252,6 +28251,7 @@ crashers
 crashes
 conventically
 curtseying
+catercornerways
 crashingly
 crashworthiness
 coccyges
