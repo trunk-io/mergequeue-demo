@@ -21515,6 +21515,7 @@ concordance
 concordancer
 commands
 curliewurly
+correctable
 cap
 cantalas
 classifically
@@ -25667,7 +25668,6 @@ corradiate
 corradiated
 correality
 caught
-correctable
 corrected
 chronometers
 caveae
