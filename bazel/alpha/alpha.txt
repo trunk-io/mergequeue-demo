@@ -840,7 +840,6 @@ aphronia
 antisterility
 achievements
 antepaschal
-abscissas
 auscult
 anam
 ayne
@@ -17850,6 +17849,7 @@ ammonification
 alpujarra
 actinometricy
 algedo
+abscissas
 arteriolith
 agyieus
 apppetible
