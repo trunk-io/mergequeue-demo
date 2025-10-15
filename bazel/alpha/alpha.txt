@@ -8620,7 +8620,6 @@ annuation
 anhydrous
 ambash
 apoharmine
-anorthose
 aqueduct
 axopodia
 amblystoma
@@ -12124,6 +12123,7 @@ amidstream
 anatifer
 azorubine
 appeared
+anorthose
 ammonitoidea
 avowry
 aerobacter
