@@ -7977,7 +7977,6 @@ boildown
 brutes
 bastonite
 brawned
-browband
 bicorn
 backhander
 buckbeans
@@ -12609,6 +12608,7 @@ bungaloid
 budlike
 batter
 bristlemouths
+browband
 branchiostegite
 berberry
 beholder
