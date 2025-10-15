@@ -5612,7 +5612,6 @@ agalma
 antipeptone
 ardea
 agalwoods
-airfoil
 allseeds
 adulter
 angulates
@@ -14926,6 +14925,7 @@ accomplisht
 anticommunistical
 anticommunistically
 anticomplement
+airfoil
 adenographic
 arthropterous
 annulled
