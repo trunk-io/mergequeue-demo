@@ -4747,7 +4747,6 @@ electrology
 exogens
 embarrass
 eyren
-existent
 ethylic
 endocytotic
 exodos
@@ -5855,6 +5854,7 @@ expend
 excuseless
 enterohelcosis
 enhaemospore
+existent
 epiplastron
 exuviability
 epistolar
