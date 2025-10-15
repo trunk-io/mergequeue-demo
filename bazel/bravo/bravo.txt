@@ -1885,6 +1885,7 @@ bepraisement
 beseechment
 burbler
 bocaccios
+benefice
 ballone
 balances
 bandstring
@@ -8112,7 +8113,6 @@ bivalvian
 browpost
 biens
 bientt
-benefice
 bayaderes
 baccies
 bindweb
