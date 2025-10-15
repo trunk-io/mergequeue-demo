@@ -8618,6 +8618,7 @@ enmeshment
 eggcrate
 equipedal
 elihu
+equiped
 endofaradism
 enormity
 endotheliomyoma
@@ -12437,7 +12438,6 @@ exocoelic
 electrostatics
 exocoelum
 evection
-equiped
 externalness
 exostema
 enlivened
