@@ -1237,7 +1237,6 @@ burgomaster
 bari
 boldoine
 begum
-bogeyman
 bicycled
 bags
 blathers
@@ -9380,6 +9379,7 @@ birdglue
 bygone
 bisulfid
 bucky
+bogeyman
 birdhouse
 bullety
 briniest
