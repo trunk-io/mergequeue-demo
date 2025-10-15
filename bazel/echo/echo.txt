@@ -7454,7 +7454,6 @@ echiuroid
 escalier
 enzootic
 endungeon
-eaceworm
 eudaimonism
 encolpia
 eatanswill
@@ -8604,6 +8603,7 @@ emote
 ethrogs
 ektexine
 equipages
+eaceworm
 embioptera
 etherialism
 expositions
