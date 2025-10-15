@@ -3819,6 +3819,7 @@ bocstaff
 brickbats
 bdelloura
 bassette
+behang
 bdellovibrio
 brushbird
 butanes
@@ -12297,7 +12298,6 @@ bomb
 bedrel
 barratrous
 busheling
-behang
 bartsia
 baptistery
 bioscientist
