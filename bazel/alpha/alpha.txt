@@ -3856,7 +3856,6 @@ adjuration
 amidine
 aisling
 autocar
-adjured
 adjurer
 alveoli
 aspersorium
@@ -9484,6 +9483,7 @@ albuminurophobia
 amos
 anticoagulan
 attitudiniser
+adjured
 acmaea
 amomis
 aradid
