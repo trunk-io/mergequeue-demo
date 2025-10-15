@@ -13504,6 +13504,7 @@ cylindrograph
 chisel
 cylindroid
 caudillos
+characterizer
 cylindrometric
 carceration
 cardioclasia
@@ -26068,7 +26069,6 @@ cosily
 choleinic
 crashproof
 collibert
-characterizer
 chasuble
 cornfield
 cosymmedian
