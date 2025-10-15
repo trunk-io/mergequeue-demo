@@ -7560,7 +7560,6 @@ cerebellifugal
 cerebellocortex
 cerebellorubral
 calibrations
-cerebellum
 creator
 cleidarthritis
 cerebral
@@ -24251,6 +24250,7 @@ convulse
 convulsedly
 compulsiveness
 circuity
+cerebellum
 chewinks
 chorion
 choky
