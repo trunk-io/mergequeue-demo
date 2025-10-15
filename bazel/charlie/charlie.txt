@@ -17522,7 +17522,6 @@ coburg
 cobweb
 cerion
 corporealization
-centavos
 cooree
 convicted
 covisitor
@@ -22639,6 +22638,7 @@ calumniatory
 connectable
 connected
 connectedly
+centavos
 confabbed
 connectibly
 chamferer
