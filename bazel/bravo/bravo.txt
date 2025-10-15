@@ -7648,6 +7648,7 @@ berthed
 belemnites
 blaine
 bacchanalization
+blurb
 boulle
 bivouacking
 bookrack
@@ -10835,7 +10836,6 @@ blesboks
 babblers
 blessedness
 bodicemaker
-blurb
 blessingly
 buffered
 bhikku
