@@ -9572,7 +9572,6 @@ checkstring
 checksum
 construct
 checksumming
-chausse
 chasid
 castro
 chromogenous
@@ -15473,6 +15472,7 @@ claret
 ciceronianist
 chloralization
 cheerio
+chausse
 cacosplanchnia
 countersank
 coppas
