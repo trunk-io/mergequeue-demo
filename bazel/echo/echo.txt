@@ -4993,7 +4993,6 @@ exchangee
 essentia
 echolalia
 endotys
-endosiphon
 etherial
 enschedule
 exomphalous
@@ -14145,6 +14144,7 @@ epitaphic
 expandability
 epicism
 extrachromosomal
+endosiphon
 encomium
 expromission
 ensate
