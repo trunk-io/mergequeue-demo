@@ -7025,6 +7025,7 @@ bricklaying
 briquetting
 bloodworthy
 bespeak
+banisher
 bodyless
 bimorphs
 bushing
@@ -9201,7 +9202,6 @@ besmutting
 boroughmonger
 biped
 bipedal
-banisher
 blunderheadedness
 bipedality
 baiginet
