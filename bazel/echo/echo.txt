@@ -2126,7 +2126,6 @@ epicaridea
 ephemerons
 embryogeny
 eruptives
-empicture
 engarde
 eurycephalous
 eucommia
@@ -4587,6 +4586,7 @@ enajim
 eminence
 estated
 ejectives
+empicture
 erythroxyline
 endarchies
 epimerase
