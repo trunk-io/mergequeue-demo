@@ -6898,6 +6898,7 @@ eomecon
 entreats
 eponym
 empeoplement
+enoplion
 encoding
 eighteenmo
 estmark
@@ -7842,7 +7843,6 @@ euphonous
 epilogical
 entomophaga
 echinital
-enoplion
 emitter
 experiment
 earthnuts
