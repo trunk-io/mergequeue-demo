@@ -5978,7 +5978,6 @@ baselines
 brachycephalization
 bemuddles
 bewrapt
-beamer
 bugbear
 bemuddling
 bemurmur
@@ -15559,6 +15558,7 @@ bilbos
 bijoux
 beeman
 barometer
+beamer
 beltis
 barbacan
 balun

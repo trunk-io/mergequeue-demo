@@ -7628,6 +7628,7 @@ centralizer
 correlatable
 confinements
 ceremony
+circumrotated
 ceremonial
 chiquero
 coccygean
@@ -28907,7 +28908,6 @@ cutwal
 crewman
 crewmanship
 crewmen
-circumrotated
 crewneck
 capsheaf
 conocuneus
