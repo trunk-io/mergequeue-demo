@@ -2960,7 +2960,6 @@ bioluminescence
 boracium
 brittling
 blighia
-boomtown
 bolt
 boller
 beigel
@@ -13614,6 +13613,7 @@ bestare
 bouffon
 bedoyo
 baisakh
+boomtown
 bremeness
 bopster
 baizing
