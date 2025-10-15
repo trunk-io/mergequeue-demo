@@ -1793,7 +1793,6 @@ backhanded
 ballotage
 birken
 bemisted
-bandhook
 babyhood
 bonehead
 bandicoy
@@ -5569,6 +5568,7 @@ begorrah
 beheadlined
 bonnering
 buskins
+bandhook
 bewigs
 beaujolais
 barleysick
