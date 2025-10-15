@@ -3783,7 +3783,6 @@ autotypes
 availing
 abdominoscope
 arriage
-apposition
 adiposuria
 attracting
 auspicated
@@ -3875,6 +3874,7 @@ antimerging
 axial
 anthophilous
 antitank
+apposition
 antiochianism
 agrafes
 avidya
