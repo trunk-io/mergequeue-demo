@@ -1768,7 +1768,6 @@ clericalists
 countergabble
 cucuy
 chairmen
-carrys
 caman
 chylifaction
 carucal
@@ -30785,6 +30784,7 @@ conjurors
 cullers
 cullet
 carload
+carrys
 crabmill
 chemiculture
 commerciable
