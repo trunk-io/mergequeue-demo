@@ -5618,7 +5618,6 @@ agalwoods
 airfoil
 allseeds
 adulter
-angulates
 asheries
 appointments
 abomas
@@ -8953,6 +8952,7 @@ allopathically
 allopathist
 anchylosed
 adherences
+angulates
 apprized
 airflows
 asci
