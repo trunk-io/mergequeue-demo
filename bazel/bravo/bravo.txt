@@ -12555,7 +12555,6 @@ bedposts
 blackballed
 burseeds
 bonhomies
-boni
 bunks
 bony
 battlefronts
@@ -17131,6 +17130,7 @@ basilinna
 breadseller
 blowhard
 bulletwood
+boni
 bifold
 baymen
 brosy
