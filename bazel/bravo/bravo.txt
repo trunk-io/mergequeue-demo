@@ -7859,7 +7859,6 @@ basset
 brusk
 bealtine
 barricaders
-bounds
 bargoose
 bottles
 brogued
@@ -11581,6 +11580,7 @@ bedew
 basilicalike
 ballones
 blusterously
+bounds
 bengals
 befog
 behindsight
