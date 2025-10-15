@@ -330,7 +330,6 @@ deplace
 deckman
 disreputed
 dwarfism
-dichogamous
 daiquiris
 dirigo
 dodecatylic
@@ -1651,6 +1650,7 @@ datemark
 densen
 deamination
 deaminize
+dichogamous
 diction
 dialings
 demark

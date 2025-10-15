@@ -6390,6 +6390,7 @@ bandarlog
 backcloth
 barangay
 bestayed
+boiler
 bravery
 beprank
 buttercups
@@ -11078,7 +11079,6 @@ bidet
 blanking
 blockaded
 bruet
-boiler
 bedwarfed
 baldpate
 benegro
