@@ -1182,7 +1182,6 @@ doormat
 demibrassart
 decerebrate
 devilhood
-diggable
 disvulnerability
 datana
 disculpatory
@@ -4051,6 +4050,7 @@ darwinians
 demonry
 describer
 deaspiration
+diggable
 deforest
 deperdition
 desperance
