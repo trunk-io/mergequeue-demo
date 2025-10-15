@@ -3948,6 +3948,7 @@ brighteners
 bedaubed
 bronteum
 bakerless
+bondstone
 beamroom
 blitzkrieged
 bantlings
@@ -12493,7 +12494,6 @@ bonify
 bdls
 boolies
 betaines
-bondstone
 bestows
 burntness
 bather
