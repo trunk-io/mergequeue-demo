@@ -3774,7 +3774,6 @@ ecotypic
 elaterin
 extraofficial
 emerald
-electrometry
 euphroe
 emerge
 emendandum
@@ -12381,6 +12380,7 @@ empetrum
 eremacausis
 electrochemist
 effare
+electrometry
 evasions
 erythrean
 emulative
