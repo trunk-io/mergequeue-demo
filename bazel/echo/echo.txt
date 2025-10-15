@@ -4188,6 +4188,7 @@ episcleral
 embryogony
 examinant
 envelopes
+extrusory
 emulsion
 ectopia
 esotrope
@@ -13591,7 +13592,6 @@ extenuates
 exgorgitation
 excelente
 emeralds
-extrusory
 equilibrative
 electrobus
 extinctionist
