@@ -9527,7 +9527,6 @@ esophagometer
 ergs
 epistolize
 erechtites
-esophagopathy
 esophagoplasty
 esophagoscopy
 endodermal
@@ -13325,6 +13324,7 @@ ergasterion
 exposes
 endogen
 enrichers
+esophagopathy
 exsanguinity
 epinikian
 electrocapillary
