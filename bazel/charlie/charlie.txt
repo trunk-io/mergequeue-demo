@@ -22111,6 +22111,7 @@ conflicted
 corsage
 continuum
 citations
+control
 conflicting
 conflictive
 conflictless
@@ -23863,7 +23864,6 @@ cinchonology
 contriver
 caimitillo
 contrives
-control
 controling
 controller
 churner
