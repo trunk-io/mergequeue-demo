@@ -3911,6 +3911,7 @@ detesters
 dejects
 dejecture
 dejeuner
+drometer
 dekadrachm
 dundees
 dekagramme
@@ -17003,7 +17004,6 @@ dree
 dreepy
 designees
 dayan
-drometer
 drencher
 dictyosiphonaceae
 degradational
