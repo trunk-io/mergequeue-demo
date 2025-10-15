@@ -23018,7 +23018,6 @@ consistorian
 consistories
 cetraria
 consitutional
-corniculum
 chili
 coracoids
 compline
@@ -30040,6 +30039,7 @@ crottle
 crouch
 crouchant
 crouchback
+corniculum
 crouched
 crouches
 crouchie
