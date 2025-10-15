@@ -8826,6 +8826,7 @@ bible
 bejewels
 beakers
 blurs
+blotches
 bannet
 bedeck
 boilerman
@@ -17360,7 +17361,6 @@ bunchiness
 buncoing
 berthing
 brucellas
-blotches
 ballam
 bourtrees
 bearpaw
