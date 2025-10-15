@@ -3874,7 +3874,6 @@ carburetant
 carbureted
 carburetest
 carburetion
-conformational
 corset
 capra
 commaing
@@ -6079,6 +6078,7 @@ catstitcher
 calcitreation
 cineraria
 countershafting
+conformational
 coassisting
 chronocrator
 catsups
