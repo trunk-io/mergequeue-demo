@@ -6770,7 +6770,6 @@ dihedral
 doricism
 demireps
 dodecatyl
-demipauldron
 dirtboard
 douane
 datatype
@@ -11167,6 +11166,7 @@ disattune
 dumose
 defiling
 diplomacy
+demipauldron
 discharacter
 delayful
 dropsical
