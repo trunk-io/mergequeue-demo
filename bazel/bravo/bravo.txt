@@ -10806,7 +10806,6 @@ birthrate
 balow
 bandstands
 blick
-bullbeggar
 baldrics
 bulldogger
 bellicosely
@@ -12359,6 +12358,7 @@ bibacious
 berteroa
 baalshem
 bobfly
+bullbeggar
 blow
 bedraggle
 bebog
