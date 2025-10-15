@@ -4594,7 +4594,6 @@ bacteriotoxic
 biospeleology
 birlings
 bedimple
-bolide
 bluegown
 bagasse
 bobsleds
@@ -6425,6 +6424,7 @@ byrlawmen
 battailant
 blasia
 binarium
+bolide
 begger
 blemmyes
 buccolabial
