@@ -2541,6 +2541,7 @@ byronist
 briers
 breastwork
 blancmanger
+brandishing
 batman
 balistarii
 broncs
@@ -17284,7 +17285,6 @@ bumbo
 bumclock
 batling
 brandy
-brandishing
 batwing
 boltings
 beryline
