@@ -2045,6 +2045,7 @@ anammonid
 apprenticement
 artize
 abbeystede
+autognosis
 aboveboard
 anapsid
 atelic
@@ -12911,7 +12912,6 @@ authored
 advertent
 avocat
 apolysin
-autognosis
 apneumatosis
 arimaspian
 aditio
