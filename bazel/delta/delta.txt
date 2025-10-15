@@ -8181,6 +8181,7 @@ deferrization
 diachronic
 dobra
 daer
+dispell
 dynamomorphic
 diacid
 didynamian
@@ -15525,7 +15526,6 @@ drag
 decongestants
 decimeters
 dawn
-dispell
 deja
 deflagrated
 dealers
