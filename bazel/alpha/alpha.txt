@@ -3612,7 +3612,6 @@ alphabetist
 allheal
 amyloclastic
 anachoret
-autometry
 alimenting
 agmas
 austenitize
@@ -20391,6 +20390,7 @@ atomology
 aminoazobenzene
 antirationally
 aeolistic
+autometry
 adventry
 arrows
 arroz
