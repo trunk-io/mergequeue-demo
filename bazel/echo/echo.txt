@@ -3728,7 +3728,6 @@ explat
 evehood
 embull
 examinees
-embusk
 encrypts
 enrollments
 endospore
@@ -12590,6 +12589,7 @@ encyclopaedial
 embryogenetic
 exopterygotism
 egoistry
+embusk
 englishman
 extolls
 equijacent
