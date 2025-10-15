@@ -6931,7 +6931,6 @@ bodykins
 besiege
 besiegers
 bushbashing
-brownistic
 beslobber
 bellical
 bugle
@@ -10687,6 +10686,7 @@ bluejoint
 bantin
 bimillenary
 barretry
+brownistic
 bename
 bejesus
 bipunctual
