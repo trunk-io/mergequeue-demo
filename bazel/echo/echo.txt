@@ -5393,7 +5393,6 @@ endovaccination
 ecclesial
 east
 engirdles
-epulis
 esthesiometer
 enfester
 exportation
@@ -11402,6 +11401,7 @@ enchiridion
 eumenes
 electrothermotic
 egress
+epulis
 eloquential
 evolver
 equiponderating
