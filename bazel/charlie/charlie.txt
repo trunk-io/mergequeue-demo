@@ -26669,6 +26669,7 @@ counted
 colics
 coalyards
 coredeeming
+cretonne
 cyrenian
 carbazine
 consensus
@@ -28871,7 +28872,6 @@ combinatory
 cretism
 canalise
 cretize
-cretonne
 collogue
 calfdozer
 classmate
