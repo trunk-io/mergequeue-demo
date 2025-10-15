@@ -6764,7 +6764,6 @@ apterygidae
 anitrogenous
 allothigene
 amniochorial
-adapting
 archaeocyathus
 anisometropia
 androcyte
@@ -15376,6 +15375,7 @@ ardish
 antheridium
 amniotes
 angelocracy
+adapting
 antimediaevally
 antimedical
 axonolipa
