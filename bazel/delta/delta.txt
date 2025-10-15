@@ -11964,6 +11964,7 @@ diseases
 dolerites
 deepfreezing
 dicetyl
+defats
 depthing
 deterministically
 doorba
@@ -16268,7 +16269,6 @@ dialector
 deerskins
 dizens
 develops
-defats
 dejected
 demoralizes
 dowery
