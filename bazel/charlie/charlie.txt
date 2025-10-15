@@ -11149,7 +11149,6 @@ clumper
 chizz
 chizzel
 confiscatable
-chkfile
 carpetlayer
 chladnite
 chondrite
@@ -28753,6 +28752,7 @@ cephaloplegia
 civetone
 crepon
 canters
+chkfile
 chemosorb
 compendiary
 crepuscular
