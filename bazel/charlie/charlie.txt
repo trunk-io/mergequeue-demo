@@ -3988,7 +3988,6 @@ cardamum
 cardanol
 chymist
 crissum
-cardcases
 creatureling
 coxswaining
 cardia
@@ -18183,6 +18182,7 @@ cimier
 counterleague
 chancelry
 coesites
+cardcases
 conversional
 carburize
 coglorious

@@ -4690,6 +4690,7 @@ encircle
 emittent
 earthmove
 erase
+engystomatidae
 entryway
 electrowin
 electroshock
@@ -8628,7 +8629,6 @@ encharge
 episcleritis
 erbium
 edomitish
-engystomatidae
 empaistic
 engrave
 earth
