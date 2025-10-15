@@ -11912,6 +11912,7 @@ calculabilities
 crestfallenness
 cerites
 cosmochemistry
+crossable
 chatelainry
 choreoid
 crocidolite
@@ -30611,7 +30612,6 @@ cuculiformes
 cephaloclasia
 coleopteral
 coronel
-crossable
 carbinyl
 contravened
 chilidog
