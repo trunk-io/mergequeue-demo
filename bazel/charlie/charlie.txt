@@ -8941,7 +8941,6 @@ chargable
 combmaker
 chargeable
 colorism
-collective
 clements
 chargeably
 chargeant
@@ -22745,6 +22744,7 @@ cotterel
 columnizes
 conoscopic
 conplane
+collective
 counterevidence
 cryosphere
 coassistant
