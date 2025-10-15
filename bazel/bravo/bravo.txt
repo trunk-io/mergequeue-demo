@@ -6292,6 +6292,7 @@ bortz
 benzamine
 billbroking
 barrer
+borne
 boxboard
 bestowed
 bibs
@@ -7571,7 +7572,6 @@ brigantes
 buckstay
 bullocks
 barbre
-borne
 bordereaux
 brakiest
 bungfull
