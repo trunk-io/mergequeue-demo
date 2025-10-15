@@ -6283,7 +6283,6 @@ backswept
 benzalethylamine
 blast
 bitterwort
-ballet
 bulimoid
 benzamide
 biestings
@@ -10154,6 +10153,7 @@ backcomb
 blackcod
 batidaceae
 bowings
+ballet
 blues
 blackdamp
 billette
