@@ -11236,7 +11236,6 @@ bracts
 butles
 borghalpenny
 bespeaker
-bisilicate
 barmskin
 bepommel
 buoyance
@@ -15555,6 +15554,7 @@ bluenoser
 birdwise
 bilbos
 bijoux
+bisilicate
 beeman
 barometer
 beltis
