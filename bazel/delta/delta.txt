@@ -3513,6 +3513,7 @@ defunction
 duke
 deul
 diethylamine
+duplicand
 demidigested
 darkskin
 dingles
@@ -9006,7 +9007,6 @@ dimethoxymethane
 dinomys
 desperacy
 dom
-duplicand
 datisca
 dinned
 desirably
