@@ -1100,6 +1100,7 @@ educand
 exsculp
 educatability
 eident
+energism
 educatable
 educatedness
 electrolyzable
@@ -13397,7 +13398,6 @@ elbuck
 endothelium
 endamoeba
 enzymolysis
-energism
 embargoed
 expropriator
 evaginate
