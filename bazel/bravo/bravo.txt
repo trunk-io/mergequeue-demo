@@ -2565,7 +2565,6 @@ besotter
 beshrivel
 bell
 bettine
-batrachite
 boneache
 botcherly
 buckstall
@@ -7676,6 +7675,7 @@ bullan
 breakover
 boarship
 brocard
+batrachite
 bowstave
 bludgeoned
 bhishti
