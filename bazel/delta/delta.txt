@@ -8775,6 +8775,7 @@ din
 domelike
 destinal
 dungeon
+drillman
 denaturalisation
 diadoche
 dunked
@@ -17163,7 +17164,6 @@ dematerialise
 darrein
 dipygi
 decarbonizing
-drillman
 drillable
 druthers
 discourser
