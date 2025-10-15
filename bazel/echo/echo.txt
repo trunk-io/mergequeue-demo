@@ -1255,6 +1255,7 @@ equip
 effectuated
 effectuating
 effectuous
+ensignship
 epigastrical
 enterorrhea
 eelcatcher
@@ -13838,7 +13839,6 @@ empaled
 excurvation
 extractibility
 epidendric
-ensignship
 entirely
 embrase
 economical
