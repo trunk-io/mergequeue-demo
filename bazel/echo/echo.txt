@@ -3340,7 +3340,6 @@ epigrammatical
 eightballs
 embadomonas
 ephymnium
-eats
 embain
 emys
 echinus
@@ -6708,6 +6707,7 @@ enemied
 ergon
 entire
 enjoys
+eats
 eurydice
 epimedium
 extinguishing
