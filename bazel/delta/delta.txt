@@ -10407,6 +10407,7 @@ dependencies
 ditton
 diopters
 disemployed
+decachord
 decumary
 disporting
 dioptometer
@@ -17186,7 +17187,6 @@ didrachmal
 dentolabial
 divagate
 dynamics
-decachord
 deposer
 duotriacontane
 decorums
