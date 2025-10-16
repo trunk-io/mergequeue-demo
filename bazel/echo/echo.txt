@@ -2371,7 +2371,6 @@ electromagnet
 extrasensuous
 embiid
 etherin
-events
 entrail
 eisteddfod
 essayical
@@ -5993,6 +5992,7 @@ eurus
 empiry
 eyrie
 exhortatively
+events
 endosarcs
 expire
 ere
