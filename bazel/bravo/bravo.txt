@@ -1387,7 +1387,6 @@ bops
 bilch
 bedye
 bohunk
-brankier
 bight
 biliment
 balibago
@@ -3596,6 +3595,7 @@ baylike
 bootees
 batty
 barny
+brankier
 battier
 barbecues
 babelike
