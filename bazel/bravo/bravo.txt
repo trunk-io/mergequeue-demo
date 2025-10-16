@@ -7548,6 +7548,7 @@ bryological
 bewitchment
 bloating
 baobabs
+barleducs
 bewizard
 barracks
 blockhead
@@ -16335,7 +16336,6 @@ blowlamp
 backtrack
 bureaucratism
 bollworms
-barleducs
 biovular
 backband
 beetmister
