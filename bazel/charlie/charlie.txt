@@ -9214,7 +9214,6 @@ cheering
 chastity
 chastities
 chockstone
-closewing
 cooper
 chumble
 categorize
@@ -15735,6 +15734,7 @@ clavolet
 chapel
 clawed
 camerawork
+closewing
 cobenignity
 clawing
 colobium
