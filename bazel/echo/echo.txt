@@ -4422,7 +4422,6 @@ entrainer
 euploeinae
 episematic
 erigeron
-equipment
 enamelling
 entasis
 ebonises
@@ -10829,6 +10828,7 @@ eutaxies
 embryotome
 experimentor
 excur
+equipment
 escarps
 exorate
 enridged
