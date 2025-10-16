@@ -12579,7 +12579,6 @@ cafetiere
 christianization
 chronologizing
 chronomantic
-chronometer
 crom
 citolers
 climatologic
@@ -26633,6 +26632,7 @@ chocolatiere
 councilman
 conjunctionally
 carbomycin
+chronometer
 cognise
 corder
 copepoda
