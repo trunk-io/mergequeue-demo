@@ -5170,7 +5170,6 @@ exhumation
 eastings
 electroballistician
 ectal
-extensionless
 epiphysary
 euchite
 eggeater
@@ -6911,6 +6910,7 @@ emetically
 epanorthoses
 exosculation
 energies
+extensionless
 engulf
 eneas
 envenomation
