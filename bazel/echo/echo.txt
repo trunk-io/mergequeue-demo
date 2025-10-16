@@ -2806,7 +2806,6 @@ evg
 environment
 ergotization
 exoterics
-extraembryonic
 explicans
 enaluron
 entreated
@@ -5244,6 +5243,7 @@ endopods
 electrotechnology
 endoproctous
 eponge
+extraembryonic
 exudatory
 embonpoint
 exceptious
