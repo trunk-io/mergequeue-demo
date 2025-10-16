@@ -5286,7 +5286,6 @@ bottlehead
 begloze
 busti
 breviers
-betels
 binder
 brachistochrone
 bandworm
@@ -13055,6 +13054,7 @@ bastionet
 braveries
 bursters
 beveil
+betels
 buhlbuhl
 befingering
 brazilite
