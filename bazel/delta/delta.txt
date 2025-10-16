@@ -3182,6 +3182,7 @@ drool
 dramatising
 defenceable
 desexing
+detonatability
 docked
 dirty
 dekle
@@ -10366,7 +10367,6 @@ decrepid
 dyspathetic
 denitrator
 diospyros
-detonatability
 dialist
 doctorization
 definition
