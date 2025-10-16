@@ -2945,6 +2945,7 @@ boracium
 brittling
 blighia
 bolt
+blintzes
 boller
 beigel
 belee
@@ -10958,7 +10959,6 @@ backpiece
 batel
 bilharzic
 biblioklept
-blintzes
 billowy
 blips
 bliss
