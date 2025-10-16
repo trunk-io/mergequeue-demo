@@ -827,6 +827,7 @@ buoyages
 bls
 benzenoid
 biochron
+bettor
 bagasses
 bravura
 budget
@@ -7410,7 +7411,6 @@ bettonga
 bsh
 bitterest
 boarship
-bettor
 baryta
 barbaric
 betulin
