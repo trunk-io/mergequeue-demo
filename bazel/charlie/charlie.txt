@@ -3669,7 +3669,6 @@ caravans
 caravansary
 caravansaries
 caravanserai
-chromoxylography
 companeros
 cookhouse
 cliffier
@@ -14085,6 +14084,7 @@ circinate
 coxcombs
 canopic
 counterapproach
+chromoxylography
 calvity
 chattery
 cattie
