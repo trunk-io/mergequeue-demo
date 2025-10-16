@@ -6254,6 +6254,7 @@ barbar
 bagfuls
 benthonic
 bevors
+barytostrontianite
 benthoscope
 benthoses
 bretwalda
@@ -10424,7 +10425,6 @@ boghole
 burdon
 boyards
 biogeographer
-barytostrontianite
 blaoner
 burinist
 bribery
