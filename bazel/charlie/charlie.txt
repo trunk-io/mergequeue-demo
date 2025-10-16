@@ -840,6 +840,7 @@ combinators
 caite
 caitif
 circean
+copilots
 charque
 chroococcus
 conjuncts
@@ -12663,7 +12664,6 @@ cogovernment
 chandler
 congenitally
 cabbagelike
-copilots
 counterinterpretation
 cuneate
 countermarch
