@@ -701,6 +701,7 @@ badness
 booklice
 baff
 bewield
+burgraves
 besogne
 blueish
 broadbill
@@ -17620,7 +17621,6 @@ brandished
 bristling
 bellyer
 burghers
-burgraves
 bowdlerized
 boehmeria
 burring
