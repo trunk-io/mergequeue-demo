@@ -3445,7 +3445,6 @@ defoil
 dehydrogenization
 dorsobranchiata
 defoliants
-defoliate
 drippier
 digynia
 debilitant
@@ -6198,6 +6197,7 @@ displanted
 denaturizer
 dreyfusism
 democratic
+defoliate
 derfly
 declarer
 deric
