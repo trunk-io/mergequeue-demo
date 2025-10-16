@@ -12792,7 +12792,6 @@ bawty
 bowlder
 bookworm
 blit
-bookwright
 booleans
 boloman
 booly
@@ -15474,6 +15473,7 @@ bigothero
 blandest
 brigatry
 brokerly
+bookwright
 brongniardite
 blazon
 bonniness
