@@ -5295,7 +5295,6 @@ breviers
 betels
 binder
 brachistochrone
-beglue
 bandworm
 begnaw
 balmy
@@ -12810,6 +12809,7 @@ barstools
 bookbinders
 bourignonist
 banyai
+beglue
 bridges
 burstone
 braiding
