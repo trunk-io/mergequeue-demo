@@ -8685,6 +8685,7 @@ befogging
 battish
 benches
 bimodule
+barff
 barberries
 betafite
 buckeroo
@@ -14601,7 +14602,6 @@ branchman
 bovine
 bohmite
 brandenburgh
-barff
 bedright
 banshees
 bambos
