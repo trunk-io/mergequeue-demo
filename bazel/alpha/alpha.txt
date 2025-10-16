@@ -4819,7 +4819,6 @@ allopurinol
 apitpat
 axioms
 amaranthine
-annotation
 auslaut
 antecoxal
 airbill
@@ -21975,6 +21974,7 @@ abody
 anticonscience
 alternat
 accademia
+annotation
 amerceable
 alaternus
 antiserumsera
