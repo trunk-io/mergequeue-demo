@@ -1916,7 +1916,6 @@ bespatters
 bibionid
 brooklike
 bezzi
-birefringence
 bangled
 beleave
 bobcoat
@@ -18384,6 +18383,7 @@ bordrage
 bepaint
 bespatter
 barkentines
+birefringence
 buzz
 buzzard
 breeze
