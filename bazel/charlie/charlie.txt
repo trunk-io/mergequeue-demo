@@ -11574,7 +11574,6 @@ cognisability
 citizens
 colonialization
 cholecystogram
-castral
 cholecystography
 cholecystokinin
 cholecystolithiasis
@@ -17612,6 +17611,7 @@ cut
 capitoul
 coccobacilli
 cayennes
+castral
 cynipid
 canicule
 coccogone
