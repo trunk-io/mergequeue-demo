@@ -2776,6 +2776,7 @@ baudery
 barothermohygrograph
 barotrauma
 bulgurs
+beltane
 bravest
 bapistery
 blk
@@ -5860,7 +5861,6 @@ basque
 berber
 beebread
 biggety
-beltane
 basqued
 boread
 bimetalic
