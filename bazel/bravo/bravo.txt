@@ -895,6 +895,7 @@ bannered
 bumperette
 bazookaman
 bravely
+betrayer
 borago
 balneal
 bidarkas
@@ -12290,7 +12291,6 @@ behaviours
 blumea
 bubal
 blindweed
-betrayer
 bombardments
 bombline
 bullbat
