@@ -10638,6 +10638,7 @@ crosscourt
 claustrophobe
 claimsmen
 calliope
+coaggregate
 conglomerated
 cervicorn
 chimbly
@@ -17158,7 +17159,6 @@ customary
 countermount
 copelidine
 coagents
-coaggregate
 coaggregation
 cladophoraceae
 cicerones
