@@ -19603,7 +19603,6 @@ caretaker
 connaraceous
 columban
 cradletime
-capabilities
 columbaria
 columbarium
 clours
@@ -25675,6 +25674,7 @@ complainingness
 correctest
 correctible
 cubicly
+capabilities
 correctioner
 conformities
 correctively
