@@ -9358,6 +9358,7 @@ dossils
 disespouse
 demidoctor
 diencephala
+diplocardiac
 dochmii
 dieresis
 demented
@@ -10591,7 +10592,6 @@ dimpling
 demiking
 dauw
 diffusion
-diplocardiac
 dackers
 dicrotic
 discoidea
