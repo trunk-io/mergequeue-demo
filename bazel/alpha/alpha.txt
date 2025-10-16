@@ -7402,7 +7402,6 @@ albizzias
 auxotroph
 amarant
 atwin
-afford
 albatros
 almadie
 albolith
@@ -21910,6 +21909,7 @@ archgunner
 auspicy
 avenalin
 archispermae
+afford
 androphobia
 assythment
 ataxy
