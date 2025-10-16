@@ -3641,7 +3641,6 @@ degorge
 drought
 doneness
 degraded
-drongo
 degradement
 dozing
 destructor
@@ -8290,6 +8289,7 @@ diagonalizable
 diagonalization
 disappointment
 dargsman
+drongo
 depreciant
 difunctional
 dandyprat
