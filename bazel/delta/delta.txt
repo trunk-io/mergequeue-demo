@@ -1054,6 +1054,7 @@ directive
 dealfish
 dunkirk
 daintiness
+divort
 divisibleness
 diaka
 devoiced
@@ -7200,7 +7201,6 @@ differentness
 deacetylation
 dermatologies
 detaching
-divort
 diemaking
 dotting
 diacoca
