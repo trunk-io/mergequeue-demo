@@ -16871,7 +16871,6 @@ cantilated
 cluck
 cyclas
 clucked
-capitalness
 consul
 crotonbug
 cousinries
@@ -26382,6 +26381,7 @@ concavities
 centipoise
 coterminousness
 cotes
+capitalness
 cerenkov
 cothon
 cothurn
