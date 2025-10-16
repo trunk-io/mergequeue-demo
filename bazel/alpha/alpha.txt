@@ -15654,7 +15654,6 @@ aeolididae
 autolith
 amarin
 alderling
-alehoof
 atrazine
 appeasements
 armoury
@@ -21796,6 +21795,7 @@ alister
 apsidally
 assertress
 anticoagulin
+alehoof
 annunciator
 asserts
 assertum
