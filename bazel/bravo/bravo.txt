@@ -3375,7 +3375,6 @@ biosis
 bitterworm
 bougee
 batarde
-batatas
 borrowable
 batavi
 ballan
@@ -15100,6 +15099,7 @@ bret
 bretschneideraceae
 bemoat
 banjuke
+batatas
 barothermograph
 bibber
 blay
