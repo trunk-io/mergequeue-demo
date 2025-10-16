@@ -1432,6 +1432,7 @@ boroglycerate
 brier
 barras
 buttressed
+blandished
 beeches
 barbules
 backboards
@@ -7550,7 +7551,6 @@ bewitchment
 bloating
 baobabs
 bewizard
-blandished
 barracks
 blockhead
 boliviano
