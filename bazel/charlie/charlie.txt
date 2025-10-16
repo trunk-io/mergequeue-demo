@@ -2005,6 +2005,7 @@ chests
 cosherer
 camp
 campa
+cionoptosis
 campagi
 coquettes
 counteraverment
@@ -27940,7 +27941,6 @@ coelostat
 coinage
 coenobium
 correal
-cionoptosis
 crawful
 crackerjacks
 crackers
