@@ -409,6 +409,7 @@ becrust
 beggardom
 breezed
 bushman
+birthplaces
 bawlers
 balkily
 brewery
@@ -9522,7 +9523,6 @@ birthnight
 babblative
 biblioclast
 bibliographically
-birthplaces
 bioelectricity
 birthright
 boffo
