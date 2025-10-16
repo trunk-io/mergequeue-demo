@@ -8387,7 +8387,6 @@ bruchus
 bilbo
 bool
 bleachyard
-bilcock
 bildar
 bilder
 bilders
@@ -10872,6 +10871,7 @@ britishers
 blimey
 blent
 bauhinia
+bilcock
 blattiform
 beclasped
 budgeters
