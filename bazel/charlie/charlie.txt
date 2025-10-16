@@ -23306,7 +23306,6 @@ captors
 chapelmaster
 clutching
 carminate
-consultable
 cgm
 coronet
 carbora
@@ -28745,6 +28744,7 @@ cleanish
 creophagia
 campions
 casasia
+consultable
 curran
 creosotes
 cocircularity
