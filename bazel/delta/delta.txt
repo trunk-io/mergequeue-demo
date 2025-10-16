@@ -6550,6 +6550,7 @@ dother
 dynel
 deerstalker
 descension
+devourers
 dump
 donor
 dragonfishes
@@ -13475,7 +13476,6 @@ dought
 despairer
 drawglove
 disregardant
-devourers
 disregarded
 disregardfulness
 disregarding
