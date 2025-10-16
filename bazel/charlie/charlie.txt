@@ -19600,7 +19600,6 @@ checkrows
 colubroid
 camletine
 choanocytal
-colugo
 canaliculi
 carbanil
 carburating
@@ -28375,6 +28374,7 @@ crawl
 crawled
 crawley
 chaptalized
+colugo
 cierzos
 contributing
 chalicotherium
