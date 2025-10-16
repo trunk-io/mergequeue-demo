@@ -4203,6 +4203,7 @@ effluxes
 evertebrata
 ecliptically
 extoller
+epiplastron
 embolon
 enteropathogenic
 elohim
@@ -5853,7 +5854,6 @@ expend
 excuseless
 enhaemospore
 existent
-epiplastron
 exuviability
 epistolar
 extractor
