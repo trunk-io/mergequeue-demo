@@ -6916,7 +6916,6 @@ basad
 bebrine
 bobs
 beshroud
-borlase
 burnished
 boder
 bundook
@@ -12841,6 +12840,7 @@ bolters
 bokom
 baseboard
 burglary
+borlase
 basiliscine
 blink
 barnabite
