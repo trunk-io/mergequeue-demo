@@ -3236,7 +3236,6 @@ caplins
 capmaking
 combatter
 capnodium
-clipping
 creaker
 colonizes
 capnomancy
@@ -15861,6 +15860,7 @@ cleeking
 chronomancy
 cleft
 calms
+clipping
 chamal
 cadaverize
 cleidocostal
