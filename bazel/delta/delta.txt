@@ -540,6 +540,7 @@ dovelike
 ditted
 dama
 damageability
+determinedness
 deregister
 diskos
 driveboat
@@ -9787,7 +9788,6 @@ dungbred
 diageotropy
 deinoceras
 dilactic
-determinedness
 desiderating
 dilactone
 dilamination
