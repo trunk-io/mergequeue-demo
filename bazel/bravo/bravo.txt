@@ -9844,7 +9844,6 @@ billed
 barbing
 bites
 bebat
-billbeetle
 beryx
 bluelegs
 backswording
@@ -10028,6 +10027,7 @@ barn
 bushranger
 battuto
 braziletto
+billbeetle
 benefiter
 bisected
 bibliophobia
