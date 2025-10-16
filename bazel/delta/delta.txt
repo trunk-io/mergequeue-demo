@@ -6812,7 +6812,6 @@ drawstring
 daub
 drachma
 dihedrons
-ductilimeter
 diminuendos
 desirousness
 drily
@@ -14168,6 +14167,7 @@ dominican
 deflorescence
 divestitive
 dendroid
+ductilimeter
 dictionally
 desmans
 discontinuation
