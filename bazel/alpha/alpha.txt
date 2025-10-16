@@ -4743,6 +4743,7 @@ addleheaded
 aerobatics
 aerobia
 assn
+augends
 asamblea
 aconites
 acquisition
@@ -23482,7 +23483,6 @@ adversity
 asparamic
 alme
 anoraks
-augends
 amortize
 auger
 appulses
