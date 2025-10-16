@@ -691,6 +691,7 @@ bencher
 bombardo
 breathable
 bregma
+bleaberry
 bouts
 biacetylene
 britches
@@ -1221,7 +1222,6 @@ bluejays
 boronic
 boreades
 balander
-bleaberry
 bookselling
 benzopyranyl
 banned
