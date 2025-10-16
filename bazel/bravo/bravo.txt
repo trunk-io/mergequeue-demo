@@ -1796,7 +1796,6 @@ bandhook
 babyhood
 bonehead
 bandicoy
-bultong
 baronetizing
 bardship
 bairnlier
@@ -17527,6 +17526,7 @@ burbot
 burdalone
 bleak
 bilbi
+bultong
 brawlers
 bibitory
 bosporan
