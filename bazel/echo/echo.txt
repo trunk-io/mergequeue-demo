@@ -9856,7 +9856,6 @@ estrif
 estrin
 eluders
 endoceras
-englishize
 encapsule
 electrosurgically
 epagogic
@@ -10323,6 +10322,7 @@ ericius
 exalate
 elance
 elytrum
+englishize
 exoerythrocytic
 etiquette
 entocranial
