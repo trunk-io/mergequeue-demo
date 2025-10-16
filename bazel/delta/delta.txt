@@ -3418,6 +3418,7 @@ duelists
 defluent
 dragoon
 delegated
+democracy
 debyes
 dictyoxylon
 dawdling
@@ -4785,7 +4786,6 @@ dativogerundial
 disremember
 deregulates
 dotlet
-democracy
 diphosphothiamine
 dims
 dentirostrate
