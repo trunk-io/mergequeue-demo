@@ -3656,7 +3656,6 @@ bobflies
 bacterian
 broadcast
 baysmelt
-bioenvironmental
 betatrons
 breakout
 beetlestock
@@ -5060,6 +5059,7 @@ batoid
 bloodthirstiness
 baubling
 bimorphemic
+bioenvironmental
 backtenter
 banco
 befools
