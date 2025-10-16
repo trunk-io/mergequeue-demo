@@ -8639,6 +8639,7 @@ ewing
 extrascriptural
 enthalpies
 etatisme
+enumerable
 ebullioscope
 equiperiodic
 equipoise
@@ -13372,7 +13373,6 @@ excitatory
 espadrilles
 embruted
 embolemia
-enumerable
 ektexines
 expressionlessness
 emollescence
