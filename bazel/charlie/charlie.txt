@@ -8254,7 +8254,6 @@ caltraps
 canadianisms
 chalcus
 chaldean
-chiver
 caucused
 caricetum
 contravariant
@@ -14472,6 +14471,7 @@ ciruela
 cosets
 cholecystnephrostomy
 customhouses
+chiver
 cirurgian
 cycloaddition
 cyrus
