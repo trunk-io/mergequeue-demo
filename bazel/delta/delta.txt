@@ -3518,7 +3518,6 @@ defunction
 duke
 deul
 diethylamine
-duplicand
 demidigested
 darkskin
 dingles
@@ -7548,6 +7547,7 @@ designee
 declaimed
 dominators
 deuterocanonical
+duplicand
 discobolus
 decatizer
 deuterogamy
