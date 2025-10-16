@@ -3950,6 +3950,7 @@ brighteners
 bedaubed
 bronteum
 bakerless
+beatnik
 beamroom
 blitzkrieged
 bantlings
@@ -12505,7 +12506,6 @@ bonuses
 benignant
 blankeel
 bonelessly
-beatnik
 bacteriotoxin
 breviate
 bodger
