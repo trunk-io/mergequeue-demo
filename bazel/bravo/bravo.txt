@@ -2353,7 +2353,6 @@ bards
 backaching
 biocoenoses
 bronteana
-bardulph
 biglenoid
 bagpipes
 benzamido
@@ -12356,6 +12355,7 @@ bedraggle
 bebog
 brimful
 broideries
+bardulph
 blini
 bathyplankton
 blameful
