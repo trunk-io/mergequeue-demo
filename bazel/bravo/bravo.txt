@@ -11234,7 +11234,6 @@ beaker
 brazenness
 bracts
 butles
-borghalpenny
 bespeaker
 bisilicate
 barmskin
@@ -12517,6 +12516,7 @@ backbeat
 bananas
 backchain
 banians
+borghalpenny
 bechirp
 basibranchial
 backfills
