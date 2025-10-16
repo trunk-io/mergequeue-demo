@@ -4894,7 +4894,6 @@ etymologies
 endameba
 equiv
 eveck
-errsyn
 endamoebas
 expertised
 exclude
@@ -14042,6 +14041,7 @@ earsore
 extraequilibrium
 extravagances
 etymologized
+errsyn
 enchantingly
 euemerism
 eschew
