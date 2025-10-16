@@ -9711,6 +9711,7 @@ balusters
 bisnaga
 beaufort
 bathybian
+batteries
 bisporous
 bolsterers
 beadrolls
@@ -12244,7 +12245,6 @@ boltmaker
 biopsies
 blee
 baldric
-batteries
 bombaster
 belace
 brogans
