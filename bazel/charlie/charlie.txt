@@ -8599,7 +8599,6 @@ chrysidella
 ceratiidae
 campilan
 coheritor
-composit
 carabus
 corcopali
 cotuit
@@ -26444,6 +26443,7 @@ clog
 confectiones
 chinos
 cotqueans
+composit
 courbache
 cottonwoods
 cohesions
