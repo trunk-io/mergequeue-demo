@@ -5101,7 +5101,6 @@ epixylous
 eulerian
 epilogic
 eobiont
-evaluable
 exmeridian
 estray
 edentulous
@@ -6620,6 +6619,7 @@ ended
 equerries
 enterosepsis
 enterotoxemia
+evaluable
 erava
 enterotoxication
 enlight
