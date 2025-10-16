@@ -11985,7 +11985,6 @@ brauronian
 buntings
 bipack
 bromeosin
-beswarmed
 bogong
 bacterium
 bugseeds
@@ -14412,6 +14411,7 @@ birdcraft
 bockey
 bursiform
 bonebinder
+beswarmed
 broche
 brimmimg
 barbican
