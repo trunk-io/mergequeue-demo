@@ -5342,7 +5342,6 @@ begrimes
 betrample
 begrimmed
 bragite
-bot
 botels
 baileys
 brachycardia
@@ -9318,6 +9317,7 @@ bracted
 banana
 birchwood
 bindweb
+bot
 barcaroles
 bayal
 belgian
