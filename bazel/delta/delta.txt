@@ -2095,7 +2095,6 @@ doses
 digitizer
 decadents
 dynasts
-dissyllabism
 dockside
 defenseman
 dioxane
@@ -10398,6 +10397,7 @@ diphthongic
 decisive
 ding
 detruck
+dissyllabism
 discounts
 demurrers
 dependencies
