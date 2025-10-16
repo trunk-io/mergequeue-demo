@@ -5816,7 +5816,6 @@ basella
 breathlessly
 butterbur
 bathythermograph
-bellwether
 bellwort
 ballpoint
 belonger
@@ -15353,6 +15352,7 @@ bordelaise
 belowground
 bustards
 blurt
+bellwether
 boneless
 boomier
 budukha

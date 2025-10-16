@@ -6584,7 +6584,6 @@ eperlan
 engramme
 escambron
 epidermal
-ecchymotic
 emergency
 evangelistarium
 enlacement
@@ -10296,6 +10295,7 @@ empoisonment
 endomyces
 electrochronometer
 eviscerated
+ecchymotic
 enate
 exotoxin
 ectocondyle
