@@ -3175,7 +3175,6 @@ ectomesoblast
 edict
 epiplastral
 emmarble
-embourgeoisement
 epicurishly
 electrocratic
 eichbergite
@@ -12809,6 +12808,7 @@ epil
 escalado
 eparchies
 eyespot
+embourgeoisement
 emboites
 encatarrhaphy
 expatriatism
