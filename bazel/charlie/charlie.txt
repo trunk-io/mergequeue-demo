@@ -3550,7 +3550,6 @@ caracks
 caracoa
 cumanagoto
 curtaxe
-caracol
 caracoling
 caracolite
 caracolled
@@ -7326,6 +7325,7 @@ cephalodiscida
 chevelure
 choreiform
 cephalodium
+caracol
 cephalofacial
 cephalogram
 cirrhosis
