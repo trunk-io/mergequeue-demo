@@ -9109,7 +9109,6 @@ cloamer
 charshaf
 charsingha
 centriole
-container
 camaka
 coasters
 chartable
@@ -27370,6 +27369,7 @@ cinquains
 courbe
 clanjamfrey
 coffered
+container
 courbette
 courbettes
 chequy
