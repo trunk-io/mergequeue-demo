@@ -3674,7 +3674,6 @@ caravansaries
 caravanserai
 chromoxylography
 companeros
-caravel
 cookhouse
 cliffier
 confuse
@@ -23205,6 +23204,7 @@ coteller
 constrainedness
 chores
 choiak
+caravel
 coiffure
 constrainingly
 cubbyhole
