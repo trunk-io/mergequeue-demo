@@ -619,7 +619,6 @@ enspell
 exculpations
 equidistant
 enode
-equalable
 embryographer
 embraciveg
 externalizes
@@ -9906,6 +9905,7 @@ eyeletting
 endew
 expellable
 ethanal
+equalable
 esoterical
 ephydriad
 evirtuate
