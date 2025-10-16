@@ -4902,7 +4902,6 @@ expertised
 exclude
 elytroptosis
 epithets
-exserts
 eyeless
 emanationist
 erotogeneses
@@ -13135,6 +13134,7 @@ expressibility
 empower
 empressement
 effusiometer
+exserts
 enchainment
 encopresis
 endnotes

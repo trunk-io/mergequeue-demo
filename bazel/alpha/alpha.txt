@@ -2613,7 +2613,6 @@ assignor
 advertizer
 apartment
 aking
-acre
 acreage
 acephalous
 aulostomatidae
@@ -20599,6 +20598,7 @@ alvin
 arteriomalacia
 agonising
 avellaneous
+acre
 ancylostomum
 arteriometer
 acpt
