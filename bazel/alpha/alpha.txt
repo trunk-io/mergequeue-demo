@@ -16700,7 +16700,6 @@ aulostomidae
 aphemia
 ambidextrous
 anhalouidine
-aphemic
 aphengoscope
 aphenoscope
 apheresis
@@ -19366,6 +19365,7 @@ amadi
 apedom
 abruptiones
 argentines
+aphemic
 archduchies
 atheistical
 adipsic
