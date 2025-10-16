@@ -2287,7 +2287,6 @@ betrayers
 bourignianism
 buyable
 brim
-biotins
 braggart
 basophil
 bursitos
@@ -13984,6 +13983,7 @@ barographic
 blueblossom
 bravuraish
 backpointer
+biotins
 brechans
 byspell
 bargelli
