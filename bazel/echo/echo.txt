@@ -1731,6 +1731,7 @@ embankments
 estall
 egrid
 epitrochoid
+eumenes
 encompasser
 episcopate
 enable
@@ -11384,7 +11385,6 @@ encephalosepsis
 evolutoid
 elegize
 enchiridion
-eumenes
 electrothermotic
 egress
 epulis
