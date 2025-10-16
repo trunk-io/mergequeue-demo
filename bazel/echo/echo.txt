@@ -8592,7 +8592,6 @@ educed
 epilogate
 exterior
 excretions
-emote
 ethrogs
 ektexine
 equipages
@@ -14148,6 +14147,7 @@ expandability
 epicism
 extrachromosomal
 endosiphon
+emote
 encomium
 expromission
 ensate
