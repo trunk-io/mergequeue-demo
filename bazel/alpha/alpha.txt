@@ -19216,7 +19216,6 @@ aeroballistics
 aerosiderolite
 adventurish
 aquiculture
-abortionist
 absciss
 alterant
 amphipneust
@@ -20105,6 +20104,7 @@ altair
 arnusian
 aro
 attributal
+abortionist
 aroast
 antivenom
 azophenyl
