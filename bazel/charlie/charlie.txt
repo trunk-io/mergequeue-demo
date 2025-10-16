@@ -9799,7 +9799,6 @@ chemicoastrological
 chemicobiologic
 collocates
 chemicoluminescent
-chemicomineralogical
 carcinogenicity
 chemicophysical
 ciliary
@@ -17711,6 +17710,7 @@ cheery
 contentless
 comoid
 charmeuse
+chemicomineralogical
 cockaigne
 cockal
 carboloy
