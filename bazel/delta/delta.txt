@@ -1639,7 +1639,6 @@ disanimation
 diablery
 deeper
 daundered
-deobstruct
 diffarreation
 devotional
 dactylozooid
@@ -3078,6 +3077,7 @@ demonophobia
 disbodied
 demihuman
 diaphane
+deobstruct
 destructibleness
 desoxyribose
 dotty
