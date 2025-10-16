@@ -12864,7 +12864,6 @@ eggers
 emotion
 exanthema
 ensnarls
-entice
 excedent
 epiphysis
 expectorant
@@ -12931,6 +12930,7 @@ eupepsias
 extravagant
 ec
 electrodiagnostic
+entice
 esophagectomy
 entocornea
 excerp
