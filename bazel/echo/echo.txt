@@ -5117,7 +5117,6 @@ ennia
 edificate
 elegits
 ember
-elaeoblast
 ectosphere
 erinaceous
 ersar
@@ -8693,6 +8692,7 @@ evulgation
 extempore
 effs
 equivalved
+elaeoblast
 entombing
 errata
 equivelocity
