@@ -2111,7 +2111,6 @@ embroil
 elastivity
 effluve
 encinillo
-enemy
 eleusine
 externat
 emperish
@@ -5076,6 +5075,7 @@ everywhere
 eglandulous
 esparcet
 exemplum
+enemy
 epos
 ecteron
 endoappendicitis
