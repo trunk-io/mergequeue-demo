@@ -1990,6 +1990,7 @@ banknote
 bristly
 brasserie
 boomster
+bluggy
 brandsolder
 bromocyanide
 buffoonesque
@@ -11507,7 +11508,6 @@ baja
 bromthymol
 blankish
 blufter
-bluggy
 baume
 bombload
 bousouki
