@@ -4913,7 +4913,6 @@ centref
 chasm
 curmudgeon
 cust
-costrel
 chiclero
 cephalically
 canalman
@@ -19595,6 +19594,7 @@ colpoperineoplasty
 colpoperineorrhaphy
 caledonian
 casimires
+costrel
 consistences
 convenientness
 chromogenetic
