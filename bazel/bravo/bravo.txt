@@ -11413,7 +11413,6 @@ boot
 bashkir
 bearwort
 boisterousness
-biocoenotic
 besmokes
 bolometric
 beaproned
@@ -15051,6 +15050,7 @@ barberry
 bohora
 breccias
 brecciated
+biocoenotic
 bespoused
 butterbill
 beglerbeglic
