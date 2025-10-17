@@ -841,7 +841,6 @@ antisterility
 achievements
 antepaschal
 abscissas
-auscult
 anam
 ayne
 astrogonic
@@ -15621,6 +15620,7 @@ arenulous
 anticlinoria
 astronomically
 abusable
+auscult
 aphidicide
 alcedininae
 albify
