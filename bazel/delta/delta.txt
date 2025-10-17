@@ -6566,7 +6566,6 @@ devourers
 dump
 donor
 dragonfishes
-diestruses
 dyscrase
 despert
 delitescent
@@ -14904,6 +14903,7 @@ drysalteries
 decumbently
 dedolomitize
 document
+diestruses
 documentable
 deist
 dominate
