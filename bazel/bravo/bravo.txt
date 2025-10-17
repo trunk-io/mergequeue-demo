@@ -8075,7 +8075,6 @@ baggy
 bellicosities
 burgau
 beliefs
-bania
 boltonias
 boathouses
 bountith
@@ -12474,6 +12473,7 @@ begoud
 becurses
 biphenyl
 burdens
+bania
 bronzewing
 buller
 barrettes
