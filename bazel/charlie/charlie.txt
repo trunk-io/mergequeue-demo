@@ -7513,7 +7513,6 @@ crankled
 cercarial
 cercarian
 cilices
-corpuscular
 conferment
 cerci
 charpais
@@ -29186,6 +29185,7 @@ catwalks
 clauster
 cryological
 cryometry
+corpuscular
 consonantise
 cocashweed
 coquina
