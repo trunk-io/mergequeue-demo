@@ -5799,7 +5799,6 @@ baronship
 bibliotheque
 benjamin
 buttstock
-bruting
 bood
 bellota
 bidactyle
@@ -13589,6 +13588,7 @@ bangboard
 bottu
 baloney
 botulinuses
+bruting
 bridal
 boggles
 bevelled
