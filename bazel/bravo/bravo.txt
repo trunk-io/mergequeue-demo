@@ -3658,7 +3658,6 @@ baller
 bloodbird
 bucconasal
 beachwear
-benthos
 batture
 bielded
 barasingha
@@ -6693,6 +6692,7 @@ brontosaurus
 berm
 bixa
 berme
+benthos
 blit
 bossiest
 breadwinning
