@@ -9504,6 +9504,7 @@ aftergrowth
 affliction
 ambassiate
 alticamelus
+avirulent
 aprosopous
 antiparasitical
 afforcing
@@ -17582,7 +17583,6 @@ appellation
 apesthetize
 adducible
 assertable
-avirulent
 antagonizing
 alca
 adient
