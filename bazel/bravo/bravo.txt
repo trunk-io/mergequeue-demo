@@ -5830,7 +5830,6 @@ basisphenoid
 billeters
 balmarcodes
 burlesquer
-belongs
 besoul
 bicameral
 berob
@@ -12759,6 +12758,7 @@ biometrician
 balsamous
 bunyoro
 begarie
+belongs
 baggage
 balabos
 boardable
