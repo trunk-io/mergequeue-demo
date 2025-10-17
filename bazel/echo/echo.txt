@@ -2410,6 +2410,7 @@ editorialize
 emboweller
 epidemiologies
 ecanda
+exch
 epitrope
 electrogalvanization
 epithelioma
@@ -10618,7 +10619,6 @@ executrixship
 epizeuxis
 etrier
 eulimidae
-exch
 epicoela
 entopopliteal
 epicycloidal
