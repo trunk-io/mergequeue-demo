@@ -2710,7 +2710,6 @@ connecter
 counterforce
 castrametation
 cyclorama
-cannelons
 cannelure
 clatsop
 colts
@@ -23533,6 +23532,7 @@ congregator
 contentedly
 contenting
 cerithium
+cannelons
 caphs
 contention
 checke
