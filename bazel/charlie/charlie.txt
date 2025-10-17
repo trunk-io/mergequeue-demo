@@ -5518,6 +5518,7 @@ cyclopean
 cabalassou
 calotermitidae
 chawl
+crossopt
 cassinoid
 cholecystoduodenostomy
 careerism
@@ -29970,7 +29971,6 @@ counterplot
 corneum
 carbosilicate
 crosslink
-crossopt
 carposporangia
 chromonema
 contrahent
