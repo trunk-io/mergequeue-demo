@@ -4550,6 +4550,7 @@ decayed
 desilverized
 divulsor
 defence
+detax
 dullbrained
 deceptions
 disconcord
@@ -4622,7 +4623,6 @@ demilustre
 demiman
 decenniums
 disaffectionate
-detax
 depopulations
 dungyard
 drazel
