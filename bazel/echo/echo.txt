@@ -4212,7 +4212,6 @@ effluxes
 evertebrata
 ecliptically
 extoller
-epiplastron
 embolon
 enteropathogenic
 elohim
@@ -8319,6 +8318,7 @@ eruginous
 embolies
 everylike
 epibolism
+epiplastron
 epitomized
 exploitable
 echiurus
