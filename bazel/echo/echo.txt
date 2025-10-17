@@ -572,6 +572,7 @@ envier
 entermise
 espingole
 escadrille
+enroots
 eudiometry
 erratic
 eclogic
@@ -8106,7 +8107,6 @@ endocranium
 excalfaction
 episiotomies
 episkeletal
-enroots
 exemplifiers
 ethnicity
 endocrinologies
