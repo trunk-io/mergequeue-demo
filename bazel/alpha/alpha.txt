@@ -773,6 +773,7 @@ abridgments
 anatifa
 alabandine
 acarus
+absent
 aerostatical
 abrocome
 abrogable
@@ -16697,7 +16698,6 @@ aphenoscope
 apheresis
 apheses
 afoul
-absent
 agoraphobia
 asaphidae
 antiformant
