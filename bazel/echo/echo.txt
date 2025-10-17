@@ -1574,7 +1574,6 @@ extendlessness
 engrams
 exhortations
 eide
-exsiccator
 excepter
 epiblema
 enthral
@@ -5948,6 +5947,7 @@ enjail
 esoethmoiditis
 ectomere
 encumbrancer
+exsiccator
 excluders
 eulachan
 ellipsis
