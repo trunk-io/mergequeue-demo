@@ -4824,6 +4824,7 @@ dynode
 darwin
 decephalization
 denaturization
+differ
 diapirs
 dilated
 detours
@@ -18559,7 +18560,6 @@ darbs
 dantesque
 dayment
 durians
-differ
 deorsumvergence
 disembowelling
 desmidiaceae
