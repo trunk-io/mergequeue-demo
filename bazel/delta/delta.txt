@@ -4684,7 +4684,6 @@ demirilievo
 deflea
 demonastery
 diddle
-dinic
 dereliction
 dilatingly
 demonish
@@ -5521,6 +5520,7 @@ deoxyribonucleotide
 dogtrot
 dolichos
 digging
+dinic
 doze
 darlingly
 dermatography
