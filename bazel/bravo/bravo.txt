@@ -6183,7 +6183,6 @@ bandalore
 benighter
 bunkhouses
 beldam
-breedling
 benisons
 bombay
 benitier
@@ -18086,6 +18085,7 @@ beshout
 brabbler
 berthierite
 blazing
+breedling
 benedictus
 brigantia
 betusked
