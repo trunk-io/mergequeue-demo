@@ -3410,7 +3410,6 @@ bovista
 bouchal
 bombonne
 broadax
-batete
 beggarwoman
 bps
 byroads
@@ -15724,6 +15723,7 @@ butterier
 brocatello
 basilian
 brocatels
+batete
 briber
 billionths
 brandering
