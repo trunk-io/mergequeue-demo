@@ -1494,6 +1494,7 @@ caselessly
 crystal
 calliphorid
 cartularies
+chocolatey
 celosia
 calcrete
 cayuse
@@ -12942,7 +12943,6 @@ conveyability
 competible
 cyanhydrin
 citrean
-chocolatey
 cyanic
 cyanid
 chromocytometer
