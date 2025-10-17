@@ -6800,6 +6800,7 @@ exotics
 entomeric
 ellipsoidal
 entomostraca
+eelbobber
 electrum
 eudemonist
 equuleus
@@ -12582,7 +12583,6 @@ erythrocytolysis
 essoign
 explosive
 earthiest
-eelbobber
 etoffe
 eremitism
 exonian
