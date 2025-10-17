@@ -1298,7 +1298,6 @@ counterservice
 cathartin
 calycifloral
 cascabels
-calyciflorate
 caliciform
 calycinal
 cany
@@ -4676,6 +4675,7 @@ carpophalangeal
 chrismal
 companions
 carpopodite
+calyciflorate
 caliche
 carpopoditic
 celtologist
