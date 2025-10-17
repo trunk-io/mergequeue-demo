@@ -8354,6 +8354,7 @@ claroes
 clavicytherium
 challiho
 conjunctures
+checkpoint
 challihos
 coercend
 chatino
@@ -9559,7 +9560,6 @@ checkmating
 celioncus
 cautioning
 circumferences
-checkpoint
 checkpointed
 chiastic
 checkpointing
