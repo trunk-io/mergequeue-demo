@@ -13040,7 +13040,6 @@ conclave
 countrypeople
 connivent
 cyathophyllum
-cyathos
 cibarial
 cibaries
 conyrine
@@ -17511,6 +17510,7 @@ callous
 catechins
 colp
 corporationer
+cyathos
 choucroute
 cobia
 cobiron
