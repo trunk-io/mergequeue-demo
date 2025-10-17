@@ -8750,6 +8750,7 @@ chapbook
 caconym
 chape
 coelomatic
+cicindelid
 cobriform
 chapeled
 chivarees
@@ -27169,7 +27170,6 @@ cwt
 carnalizing
 crowstick
 counterriposte
-cicindelid
 counterroll
 crotchety
 cirsomphalos
