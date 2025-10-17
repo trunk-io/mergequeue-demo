@@ -3517,7 +3517,6 @@ ekes
 esthetology
 epepophysial
 emanent
-endogenic
 embordered
 excludes
 exhibit
@@ -12500,6 +12499,7 @@ esox
 enterobacterial
 eventail
 extrametaphysical
+endogenic
 ephete
 existentialistic
 endamageable
