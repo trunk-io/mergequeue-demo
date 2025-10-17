@@ -787,7 +787,6 @@ ephebeibeia
 effacer
 enaliosaur
 ephemeran
-event
 encorbelment
 engrandizement
 emraud
@@ -12550,6 +12549,7 @@ exsects
 encephaloma
 elzevir
 enregistry
+event
 ensporia
 epirhizous
 epiural
