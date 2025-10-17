@@ -2330,6 +2330,7 @@ bladesmith
 bardcraft
 beleve
 buckhorn
+blowpoint
 branchling
 bobtails
 bardesanite
@@ -8276,7 +8277,6 @@ breechcloths
 bromins
 broadsided
 backet
-blowpoint
 buzukis
 bellman
 beautydom
