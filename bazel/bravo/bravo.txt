@@ -2664,7 +2664,6 @@ boylas
 bathymeter
 backset
 bismutoplagionite
-balopticon
 barolo
 beeflower
 bm
@@ -7140,6 +7139,7 @@ bandolier
 bloodied
 barefoot
 babylonism
+balopticon
 besra
 bullyboys
 bleatingly
