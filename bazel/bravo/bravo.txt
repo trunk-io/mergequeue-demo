@@ -1535,7 +1535,6 @@ basilica
 bajonado
 birdhouses
 bunchbacked
-birthplace
 beyerite
 bemuddy
 ballistician
@@ -14891,6 +14890,7 @@ boaters
 biopyribole
 badaxe
 bepaints
+birthplace
 beefishness
 breadearning
 bleats
