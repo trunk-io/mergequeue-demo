@@ -3850,6 +3850,7 @@ beaconless
 bergeret
 bicycles
 beslur
+boloing
 bola
 beedi
 beadeye
@@ -5083,7 +5084,6 @@ badgered
 bezels
 beforeness
 bridaler
-boloing
 bemeaned
 baffled
 becket
