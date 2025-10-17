@@ -5489,7 +5489,6 @@ encashment
 excellency
 episporangium
 encyclopaedia
-enjamb
 exorciser
 enfeeble
 eightscore
@@ -13305,6 +13304,7 @@ epris
 egyptize
 embiotocid
 entreatment
+enjamb
 enrichingly
 epiblastema
 elian
