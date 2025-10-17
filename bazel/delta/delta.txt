@@ -4258,7 +4258,6 @@ dibbers
 doorjamb
 dragboat
 dogcart
-dynamograph
 dyslogy
 debtors
 detd
@@ -8675,6 +8674,7 @@ disappointer
 direr
 deuterovitellose
 diaphragmatically
+dynamograph
 demonship
 derout
 dimercury
