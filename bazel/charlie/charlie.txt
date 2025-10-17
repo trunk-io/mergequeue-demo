@@ -5934,7 +5934,6 @@ cathepsin
 catties
 catheterisation
 catheterise
-cycloheptane
 coiffes
 catheterised
 catheterization
@@ -8778,6 +8777,7 @@ cinerins
 chapels
 craal
 chapelward
+cycloheptane
 ceroplast
 chaperno
 chaperonage
