@@ -12145,7 +12145,6 @@ ascescent
 arthrocele
 amtracks
 anatomization
-anatomize
 anatomizer
 aristae
 arapaho
@@ -18004,6 +18003,7 @@ abakas
 arteriophlebotomy
 approximation
 actuated
+anatomize
 analysis
 armagnacs
 ancle
