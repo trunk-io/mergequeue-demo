@@ -4400,6 +4400,7 @@ billows
 bullragged
 becrowded
 bunton
+biodegradability
 bluenoser
 burstwort
 bewitchery
@@ -9370,7 +9371,6 @@ bass
 bescours
 boation
 birdbaths
-biodegradability
 brunel
 blethers
 budding
