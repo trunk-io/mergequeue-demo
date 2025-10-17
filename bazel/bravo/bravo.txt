@@ -2522,6 +2522,7 @@ brickle
 barytons
 busing
 bauxitite
+besnowed
 busbar
 boeing
 barkantine
@@ -13600,7 +13601,6 @@ bilgier
 ballutes
 bembex
 bepainted
-besnowed
 boats
 beatermen
 bambuk
