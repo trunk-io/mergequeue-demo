@@ -4816,6 +4816,7 @@ beechen
 breakstone
 bawneen
 burghership
+bidri
 bloomage
 blab
 broadhead
@@ -11861,7 +11862,6 @@ believing
 bodied
 becrowding
 boehmenism
-bidri
 binaurally
 bodilize
 barbedness
