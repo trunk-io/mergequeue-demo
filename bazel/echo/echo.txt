@@ -7754,7 +7754,6 @@ eudist
 eccentrate
 epiglottitis
 encrustant
-ecarinate
 estoppal
 exarchate
 epigonic
@@ -11934,6 +11933,7 @@ exla
 eggshells
 endued
 epigrammatarian
+ecarinate
 expressor
 easels
 exploit
