@@ -12516,7 +12516,6 @@ congelation
 countergauger
 cavalrymen
 complaints
-charmer
 coachmaking
 chrysorin
 cardioplasty
@@ -14214,6 +14213,7 @@ conception
 conite
 cistophori
 cornpipe
+charmer
 callityped
 choleic
 calyptrogen
