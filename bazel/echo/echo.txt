@@ -5517,7 +5517,6 @@ evaporite
 enfeoffing
 entheasm
 earthquake
-entoil
 euxenite
 enculturated
 exosmoses
@@ -9559,6 +9558,7 @@ esophagometer
 ergs
 epistolize
 erechtites
+entoil
 esophagoplasty
 esophagoscopy
 endodermal
