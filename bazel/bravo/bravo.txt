@@ -2631,7 +2631,6 @@ balandrana
 bottomries
 blautok
 blood
-batch
 beadflush
 baron
 bemaul
@@ -11488,6 +11487,7 @@ bicorned
 blancmange
 blazingly
 buttonholer
+batch
 bisulfite
 bromisms
 bluestems
