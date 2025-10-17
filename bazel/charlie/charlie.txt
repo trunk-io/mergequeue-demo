@@ -8849,6 +8849,7 @@ chaptalize
 clamshell
 carapaxes
 cymbalaria
+cremocarp
 chapteral
 chapterhouse
 consortship
@@ -25599,7 +25600,6 @@ coronilla
 coronion
 coronium
 couchee
-cremocarp
 catenates
 cerebriform
 corpsbruder
