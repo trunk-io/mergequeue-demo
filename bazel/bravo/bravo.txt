@@ -2652,7 +2652,6 @@ barodynamic
 barognosis
 bubastite
 boylas
-beltline
 bathymeter
 backset
 bismutoplagionite
@@ -15478,6 +15477,7 @@ bicone
 binominous
 banderol
 brighid
+beltline
 bronchotome
 braata
 bereave
