@@ -5853,6 +5853,7 @@ disestablishes
 dentil
 duplet
 depots
+decachord
 deprave
 defuzes
 disanagrammatize
@@ -10427,7 +10428,6 @@ dependencies
 ditton
 diopters
 disemployed
-decachord
 decumary
 disporting
 drolushness
