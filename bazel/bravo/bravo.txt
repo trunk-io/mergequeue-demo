@@ -1888,6 +1888,7 @@ brigands
 bepraisement
 beseechment
 burbler
+bowed
 bocaccios
 benefice
 ballone
@@ -17913,7 +17914,6 @@ blackfellow
 bushgrass
 bowered
 bushy
-bowed
 bitty
 backflash
 bispore
