@@ -12080,7 +12080,6 @@ apparelment
 ausu
 antitragicus
 assailer
-agglomeration
 anastrophia
 arrowplate
 assails
@@ -19254,6 +19253,7 @@ arenites
 ambaries
 alpiniaceae
 arenoid
+agglomeration
 amakebe
 antinomians
 australis
