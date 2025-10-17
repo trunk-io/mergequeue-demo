@@ -6572,7 +6572,6 @@ battakhin
 berdash
 bibliogenesis
 bahur
-booming
 birotation
 broquineer
 bramblebush
@@ -12503,6 +12502,7 @@ boned
 bonefish
 byeworkman
 belloot
+booming
 barcarolle
 bibliophobe
 bulldoggedness
