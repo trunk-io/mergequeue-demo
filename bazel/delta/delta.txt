@@ -6793,7 +6793,6 @@ dihedral
 doricism
 demireps
 dodecatyl
-disedge
 dirtboard
 douane
 datatype
@@ -10002,6 +10001,7 @@ divergences
 destinations
 damyankee
 dug
+disedge
 dipodies
 delitescence
 demipriest
