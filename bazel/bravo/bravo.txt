@@ -1760,7 +1760,6 @@ brazening
 bancha
 bordered
 blepharoplast
-beslime
 bullose
 brushable
 bialystoker
@@ -6687,6 +6686,7 @@ brontotherium
 bimotored
 bismuthine
 broomstaff
+beslime
 biostatics
 blitter
 balaamitical
