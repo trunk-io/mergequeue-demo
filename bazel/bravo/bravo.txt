@@ -2647,7 +2647,6 @@ bemaul
 barnman
 bosser
 brawlier
-basileus
 barnstormer
 borderside
 brutalisation
@@ -17461,6 +17460,7 @@ bareboned
 bigeminy
 brigued
 bridles
+basileus
 biltongue
 begrutch
 browns
