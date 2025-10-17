@@ -3591,7 +3591,6 @@ batteners
 bucketmaker
 bedesmen
 breck
-bewearies
 batterman
 bullockman
 bindlet
@@ -9075,6 +9074,7 @@ blankminded
 bosjesman
 bullfrog
 bodiced
+bewearies
 bioscopy
 bioscopic
 bedecorate
