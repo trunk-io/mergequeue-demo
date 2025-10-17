@@ -10498,7 +10498,6 @@ dominance
 dar
 ditcher
 demiracle
-dogmatic
 diodon
 deda
 delace
@@ -13550,6 +13549,7 @@ differentiates
 ducal
 disattaint
 denaturized
+dogmatic
 dolesome
 diocletian
 dichotomy
