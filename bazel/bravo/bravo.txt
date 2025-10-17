@@ -821,7 +821,6 @@ bushelbasket
 bafflingness
 beclothes
 bogomil
-borolanite
 bellmaster
 begriming
 bedene
@@ -11967,6 +11966,7 @@ buttled
 bagpod
 bashlyks
 bailment
+borolanite
 bogart
 backboneless
 broughams
