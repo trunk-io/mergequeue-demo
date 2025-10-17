@@ -5481,6 +5481,7 @@ alights
 ablate
 almagests
 anapanapa
+astrologian
 aftershocks
 arietta
 astylospongia
@@ -20577,7 +20578,6 @@ autohexaploid
 avicennia
 apparens
 ascribes
-astrologian
 aplite
 asg
 athapaskan
