@@ -2547,6 +2547,7 @@ buddage
 bellon
 barocco
 barkbound
+boardable
 betterments
 bunglesome
 byronist
@@ -12775,7 +12776,6 @@ begarie
 belongs
 baggage
 balabos
-boardable
 baguet
 blathery
 brisker
