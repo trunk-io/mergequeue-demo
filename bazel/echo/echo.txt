@@ -1732,7 +1732,6 @@ embankments
 estall
 egrid
 epitrochoid
-eumenes
 encompasser
 episcopate
 enable
@@ -4737,6 +4736,7 @@ ericaceae
 enclaves
 entrepreneurs
 echelons
+eumenes
 engineeringly
 ebulliently
 errancies
