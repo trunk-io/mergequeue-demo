@@ -710,7 +710,6 @@ dingus
 diatom
 deadmelt
 divell
-deoxyribonucleic
 douras
 danceability
 demoniacs
@@ -7638,6 +7637,7 @@ drou
 denticate
 darking
 darwinistic
+deoxyribonucleic
 dequeuing
 duodenoscopy
 deval
