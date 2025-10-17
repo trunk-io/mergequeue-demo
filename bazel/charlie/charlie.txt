@@ -1638,6 +1638,7 @@ calorimetry
 chamisal
 calorimetrically
 calorist
+codable
 colouring
 calorizing
 cawing
@@ -20561,7 +20562,6 @@ celticist
 compass
 crane
 compassability
-codable
 combats
 chebule
 compassable
