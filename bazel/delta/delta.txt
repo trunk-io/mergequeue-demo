@@ -1059,6 +1059,7 @@ directive
 dealfish
 dampproof
 dunkirk
+duchy
 daintiness
 divort
 divisibleness
@@ -8616,7 +8617,6 @@ diet
 doumaist
 despoticly
 diaper
-duchy
 dethrone
 dos
 descriptives
