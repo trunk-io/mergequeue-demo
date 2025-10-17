@@ -5706,7 +5706,6 @@ bungler
 biliation
 buddhahood
 baldhead
-beetlehead
 beshouted
 biophysics
 blackjacks
@@ -6354,6 +6353,7 @@ batholith
 benzodiazole
 burdener
 benzofuran
+beetlehead
 benzofuryl
 beekeepers
 belgium
