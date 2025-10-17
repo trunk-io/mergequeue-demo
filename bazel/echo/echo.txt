@@ -1079,7 +1079,6 @@ expilator
 encephalotome
 estuaries
 eutomous
-extraboldface
 endosternite
 entrochite
 edplot
@@ -3044,6 +3043,7 @@ epidermis
 essentialness
 elkuma
 elkwood
+extraboldface
 ethicizing
 estab
 extersive
