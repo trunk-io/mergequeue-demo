@@ -6889,7 +6889,6 @@ companies
 cembalos
 caecostomy
 cement
-coenocyte
 cementation
 chats
 campshot
@@ -27450,6 +27449,7 @@ courtesan
 citriculturist
 compot
 courtesanship
+coenocyte
 coplowing
 courtesies
 cassoni
