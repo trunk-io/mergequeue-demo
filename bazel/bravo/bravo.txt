@@ -12390,7 +12390,6 @@ bergeres
 battlefront
 bombora
 bombardelle
-bomi
 beguilers
 barratries
 bonifaces
@@ -15321,6 +15320,7 @@ bursa
 brotel
 bivane
 belknap
+bomi
 barometrograph
 bourran
 barbita
