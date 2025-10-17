@@ -1893,7 +1893,6 @@ benefice
 ballone
 balances
 bandstring
-bathymetric
 batteling
 bastions
 brandishes
@@ -9456,6 +9455,7 @@ brichette
 balanophora
 bovidae
 brewer
+bathymetric
 birectangular
 battels
 billycans
