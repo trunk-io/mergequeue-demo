@@ -2446,6 +2446,7 @@ confronters
 calochortaceae
 candiru
 candite
+corselet
 candytuft
 curryfavel
 concrescences
@@ -18585,7 +18586,6 @@ cohunes
 catnache
 cedule
 combiner
-corselet
 cankerflower
 contrantiscion
 caryocaraceous
