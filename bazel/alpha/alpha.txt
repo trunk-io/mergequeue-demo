@@ -20607,7 +20607,6 @@ aqueduct
 aptychus
 airfreight
 alloxy
-antifeudalization
 adds
 arteriostenosis
 acrography
@@ -20747,6 +20746,7 @@ amaranthus
 anamnesis
 assate
 auramin
+antifeudalization
 accorded
 arctangent
 artophoria
