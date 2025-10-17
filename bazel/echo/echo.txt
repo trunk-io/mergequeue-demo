@@ -8083,7 +8083,6 @@ eczemas
 extends
 emarcid
 endobatholithic
-ephippium
 engyscope
 episcopized
 epistolary
@@ -10796,6 +10795,7 @@ editorializer
 entoblastic
 estruation
 eupolyzoan
+ephippium
 epithelioid
 envoy
 epidermatic
