@@ -8648,7 +8648,6 @@ enthalpies
 etatisme
 enumerable
 ebullioscope
-equiperiodic
 equipoise
 estrone
 eye
@@ -12013,6 +12012,7 @@ equilibrial
 endotheca
 expositorily
 entomologising
+equiperiodic
 extortionate
 erubescent
 enfrenzy
