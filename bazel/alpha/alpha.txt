@@ -291,6 +291,7 @@ appunctuation
 attester
 aphydrotropism
 aulete
+ambitions
 aer
 als
 axiomatic
@@ -18988,7 +18989,6 @@ absinthin
 archleveler
 allele
 apatetic
-ambitions
 answer
 adigei
 asialia
