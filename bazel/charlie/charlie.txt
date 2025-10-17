@@ -10316,7 +10316,6 @@ cd
 counterpole
 citoyens
 chickened
-crosspoints
 creatural
 calabar
 caulerpaceous
@@ -21088,6 +21087,7 @@ cypsela
 compunct
 crassilingual
 compunction
+crosspoints
 centifolious
 curvedness
 colloquized
