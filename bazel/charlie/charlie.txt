@@ -11254,7 +11254,6 @@ chloride
 crocodiloid
 carination
 calderon
-crusty
 ceca
 cokery
 coppery
@@ -28506,6 +28505,7 @@ creatic
 codlin
 catelectrotonic
 creatinephosphoric
+crusty
 concurrency
 cetologist
 caroler
