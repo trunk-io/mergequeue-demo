@@ -4639,7 +4639,6 @@ comelier
 carpetbaggism
 commas
 choenix
-carpetbags
 coragio
 counterearth
 ciboria
@@ -23602,6 +23601,7 @@ caffeines
 cattleship
 cageman
 cloky
+carpetbags
 californite
 cratinean
 contignation
