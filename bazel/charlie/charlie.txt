@@ -16434,6 +16434,7 @@ congregates
 clk
 clo
 charterist
+copatentee
 complotter
 cryptanalyzed
 cornetists
@@ -24573,7 +24574,6 @@ clampdown
 copastor
 councillor
 copastors
-copatentee
 copatriot
 christianizer
 copatroness
