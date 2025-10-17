@@ -10112,7 +10112,6 @@ ensure
 epanodos
 eulachon
 exantlate
-electrocautery
 exitus
 elopers
 epihyal
@@ -12835,6 +12834,7 @@ ecologist
 embryologies
 enhardy
 expectancies
+electrocautery
 euripupi
 examines
 erythrol
