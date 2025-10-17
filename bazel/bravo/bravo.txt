@@ -5895,7 +5895,6 @@ bionomy
 broads
 belvedere
 bluewood
-benetting
 belvedered
 barothermohygrogram
 bouldering
@@ -14351,6 +14350,7 @@ blacklist
 brahmana
 bounciness
 boite
+benetting
 bathysmal
 bibliothecaire
 basilidian
