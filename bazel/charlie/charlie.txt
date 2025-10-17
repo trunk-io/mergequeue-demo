@@ -19248,7 +19248,6 @@ collotypic
 clay
 cosmetic
 collum
-collun
 couthe
 commissionaire
 collunaria
@@ -31383,6 +31382,7 @@ cartridges
 curiosa
 crusaded
 cowhorn
+collun
 cynhyena
 carya
 cremona
