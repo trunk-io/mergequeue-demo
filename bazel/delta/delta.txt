@@ -4227,7 +4227,6 @@ dandified
 dermoreaction
 dretch
 demarcate
-decrement
 dibbers
 doorjamb
 dragboat
@@ -18350,6 +18349,7 @@ deerstand
 dismark
 djakarta
 dischargeable
+decrement
 distinguee
 dots
 demonstrant
