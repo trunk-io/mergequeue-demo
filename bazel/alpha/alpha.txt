@@ -5722,7 +5722,6 @@ agate
 appal
 aviation
 accounters
-analyticity
 abranchiata
 aeroduct
 abilene
@@ -16384,6 +16383,7 @@ alectrionidae
 abidingly
 anatomicophysiologic
 atheroma
+analyticity
 articulated
 arccosine
 assiduities
