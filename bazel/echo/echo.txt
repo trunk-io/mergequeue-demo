@@ -6748,7 +6748,6 @@ ectosarcs
 eburna
 enl
 endosperm
-emotes
 emcee
 exoticism
 exalted
@@ -12913,6 +12912,7 @@ enchiladas
 engrossment
 eusthenopteron
 epidymides
+emotes
 entomophthorous
 eclogite
 exempted
