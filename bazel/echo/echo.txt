@@ -6804,7 +6804,6 @@ electrum
 eudemonist
 equuleus
 ectocardia
-exon
 evaporable
 equipments
 edulcorating
@@ -13070,6 +13069,7 @@ experimenters
 evangelary
 essenism
 extermine
+exon
 embolomycotic
 enfolded
 experimenting
