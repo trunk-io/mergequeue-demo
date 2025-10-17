@@ -15168,7 +15168,6 @@ bunodont
 byeworker
 boar
 brewages
-basipterygoid
 bogier
 bitters
 baldicoot
@@ -17969,6 +17968,7 @@ biblos
 betties
 bronco
 boastfulness
+basipterygoid
 breakups
 bemba
 bobachee
