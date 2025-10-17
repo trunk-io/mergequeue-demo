@@ -1073,6 +1073,7 @@ edplot
 exite
 edriophthalmatous
 educand
+etheostominae
 exsculp
 educatability
 eident
@@ -11060,7 +11061,6 @@ electroretinograph
 enworthy
 edeitis
 evolvent
-etheostominae
 erased
 expromissor
 epichlorohydrin
