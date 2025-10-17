@@ -6742,6 +6742,7 @@ augment
 asyllabic
 aydendron
 aglipayan
+adure
 alpenstocks
 azodiphenyl
 abutment
@@ -18467,7 +18468,6 @@ anhedral
 abject
 anallagmatis
 averaging
-adure
 afdecho
 arborizing
 apiararies
