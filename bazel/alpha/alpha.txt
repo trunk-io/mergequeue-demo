@@ -5288,7 +5288,6 @@ anapnometer
 acidaemia
 anergias
 akela
-adenose
 affronts
 affuse
 assail
@@ -5580,6 +5579,7 @@ againbuy
 apicad
 argusfish
 anallagmatic
+adenose
 awned
 argentinian
 argilliferous
