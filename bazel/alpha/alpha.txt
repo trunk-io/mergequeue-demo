@@ -258,6 +258,7 @@ abolish
 actinoids
 anthracemia
 anticreeper
+agama
 alkalescence
 altarpiece
 abdications
@@ -7614,7 +7615,6 @@ airmails
 astint
 acroleins
 antisepticist
-agama
 alcoholism
 apportionate
 alcyonacean
