@@ -3186,6 +3186,7 @@ defend
 defendable
 dainties
 dikast
+discumber
 dolmenic
 disobeyed
 demonist
@@ -5230,7 +5231,6 @@ deyhouse
 didepside
 deputy
 disconanthae
-discumber
 diplococcus
 duellistic
 diskography
