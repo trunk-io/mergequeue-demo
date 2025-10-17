@@ -3157,7 +3157,6 @@ enterochirurgia
 expressman
 eleut
 epirrheme
-exclamative
 elongation
 egbert
 erythematic
@@ -5484,6 +5483,7 @@ enervation
 enfaces
 ectoproct
 etape
+exclamative
 encashment
 excellency
 episporangium
