@@ -4508,7 +4508,6 @@ alphabetism
 advisors
 abrasive
 alchemist
-afficionado
 aground
 advocated
 afterspeech
@@ -23099,6 +23098,7 @@ avodires
 aftermass
 acceptive
 aizle
+afficionado
 acephalan
 arils
 acaridae
