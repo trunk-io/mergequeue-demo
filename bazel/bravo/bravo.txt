@@ -3663,7 +3663,6 @@ baysmelt
 betatrons
 breakout
 beetlestock
-batz
 bestubble
 batzen
 blundering
@@ -8802,6 +8801,7 @@ burletta
 barfed
 braeface
 bittier
+batz
 brushiness
 bristle
 bilimbi
