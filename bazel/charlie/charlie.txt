@@ -1151,6 +1151,7 @@ catalpas
 corol
 calculatory
 calculators
+canonicalize
 chorically
 causationist
 chuprassy
@@ -28705,7 +28706,6 @@ cellblocks
 carbolic
 clarisse
 consequentially
-canonicalize
 charpoy
 currying
 coloniser
