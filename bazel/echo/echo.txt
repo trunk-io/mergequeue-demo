@@ -6070,7 +6070,6 @@ encina
 examens
 erastus
 erminites
-elvet
 extremum
 etwite
 epicauta
@@ -11797,6 +11796,7 @@ excited
 enormity
 eulytin
 essentiality
+elvet
 etymologicon
 embassage
 electrogilding
