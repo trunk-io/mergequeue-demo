@@ -1022,7 +1022,6 @@ blizzards
 brees
 bunglings
 bourtrees
-birdshot
 bargainwise
 bollards
 biotites
@@ -6702,6 +6701,7 @@ bathe
 bargees
 brith
 bubonoceze
+birdshot
 bourgeoisify
 bagaudae
 babhan
