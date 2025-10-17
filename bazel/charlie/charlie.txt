@@ -18234,7 +18234,6 @@ configures
 clothlike
 coestablishment
 cervulus
-coeternal
 cassaba
 coeternity
 coeval
@@ -24312,6 +24311,7 @@ circuity
 clothing
 cerebellum
 chorion
+coeternal
 choky
 childlier
 concocted
