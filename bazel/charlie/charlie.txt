@@ -21241,6 +21241,7 @@ collationer
 concenter
 concentering
 compasses
+copula
 concolor
 catchlight
 conversative
@@ -24822,7 +24823,6 @@ coprostasis
 cabbing
 colchicum
 crystallizable
-copula
 contriturate
 coroscopy
 coffeeweed
