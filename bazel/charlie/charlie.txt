@@ -6656,7 +6656,6 @@ consignified
 chandrakhi
 chard
 ceibo
-conflated
 ceil
 clamoring
 ceilidhe
@@ -7627,6 +7626,7 @@ catfooted
 cucuyo
 coiffing
 curettes
+conflated
 centralizer
 correlatable
 confinements
