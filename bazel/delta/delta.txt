@@ -857,7 +857,6 @@ donsky
 deputies
 doormaker
 delignate
-decrements
 despotism
 droud
 dealer
@@ -6312,6 +6311,7 @@ durn
 disarming
 decarboxylation
 degenerescence
+decrements
 dispersement
 duppies
 decreation
