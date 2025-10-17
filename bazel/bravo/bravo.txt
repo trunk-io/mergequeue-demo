@@ -9091,6 +9091,7 @@ bios
 blunderbuss
 bars
 baseliner
+breviradiate
 bismanol
 blastocoel
 bespring
@@ -15163,7 +15164,6 @@ berlina
 baalist
 bacterioid
 breviloquent
-breviradiate
 blithely
 broadleaf
 bodice
