@@ -6790,6 +6790,7 @@ disedge
 dirtboard
 douane
 datatype
+dewinesses
 deposita
 detestably
 diathermic
@@ -9490,7 +9491,6 @@ difficileness
 difficilitate
 dignosle
 druxiness
-dewinesses
 doucely
 drooling
 demonstrance
