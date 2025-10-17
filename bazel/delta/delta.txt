@@ -5014,6 +5014,7 @@ dusserah
 derricks
 demountable
 devastators
+demijohn
 dryerman
 dammit
 demounts
@@ -5410,7 +5411,6 @@ denotationally
 dipppier
 dryrot
 dentinalgia
-demijohn
 donnees
 disgruntle
 dawned
