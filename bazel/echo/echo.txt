@@ -665,7 +665,6 @@ exceptioner
 extrapolates
 exuvium
 ecotype
-epicerastic
 ecotypes
 extols
 explosively
@@ -8001,6 +8000,7 @@ enteroscopy
 eschynite
 eclipsises
 expositor
+epicerastic
 err
 ethylenically
 echeneidid
