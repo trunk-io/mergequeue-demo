@@ -5640,7 +5640,6 @@ chested
 ching
 chlored
 chalkotheke
-counsellable
 chorioids
 communionist
 catastases
@@ -7754,6 +7753,7 @@ chars
 certainty
 certhia
 certifiability
+counsellable
 categorematic
 cellarway
 chammying
