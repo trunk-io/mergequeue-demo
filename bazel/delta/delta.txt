@@ -3329,7 +3329,6 @@ dismast
 doubloon
 denims
 dishful
-dianthuses
 dandriffy
 danewort
 dorsosternal
@@ -12651,6 +12650,7 @@ degasifier
 disinterment
 depilous
 dimyary
+dianthuses
 demigorge
 disinters
 deditician
