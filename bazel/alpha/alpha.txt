@@ -1396,7 +1396,6 @@ aurichalcum
 alg
 audiometers
 atka
-autoinoculable
 aeciospore
 accessorize
 astrometric
@@ -15637,6 +15636,7 @@ astronomically
 abusable
 auscult
 aphidicide
+autoinoculable
 alcedininae
 albify
 affrightfully
