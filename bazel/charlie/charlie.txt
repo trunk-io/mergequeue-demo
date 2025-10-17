@@ -14523,7 +14523,6 @@ clefs
 chang
 cissus
 cavicornia
-clarkeite
 cankerwort
 chamoised
 costers
@@ -23537,6 +23536,7 @@ contex
 creep
 catochus
 contexts
+clarkeite
 contextualize
 cosmetical
 crocketing
