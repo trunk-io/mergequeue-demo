@@ -912,6 +912,7 @@ borago
 balneal
 bidarkas
 bowet
+borderers
 bevenom
 beseemingly
 bagwig
@@ -5055,7 +5056,6 @@ bombable
 belching
 birchen
 bottomrying
-borderers
 bunrakus
 booley
 beflecked
