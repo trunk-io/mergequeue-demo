@@ -4634,6 +4634,7 @@ depopulations
 dungyard
 drazel
 disproportionality
+dudelsack
 demimondain
 dumbfounding
 doghouse
@@ -16026,7 +16027,6 @@ deliverable
 dotterels
 dynamicity
 domesticity
-dudelsack
 diphthongising
 discourages
 dottier
