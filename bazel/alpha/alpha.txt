@@ -5588,7 +5588,6 @@ ardea
 agalwoods
 allseeds
 adulter
-asheries
 appointments
 abomas
 aphrasia
@@ -8738,6 +8737,7 @@ aleurons
 accentuable
 antiketogen
 arbutin
+asheries
 angustifolious
 alliciency
 autopoint
