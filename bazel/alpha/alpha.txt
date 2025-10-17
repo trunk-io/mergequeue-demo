@@ -6675,7 +6675,6 @@ achromatophilia
 androeccia
 airbills
 airboat
-aures
 airboats
 anomal
 acarology
@@ -22257,6 +22256,7 @@ attachment
 abjoint
 actinosoma
 ailuropus
+aures
 aerocurve
 arpeggiated
 amercer
