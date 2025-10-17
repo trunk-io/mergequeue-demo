@@ -3654,6 +3654,7 @@ blasty
 baller
 bloodbird
 beachwear
+benthos
 batture
 bielded
 barasingha
@@ -6256,7 +6257,6 @@ batatilla
 briefs
 becassine
 beardom
-benthos
 braver
 brachycatalectic
 barkey
