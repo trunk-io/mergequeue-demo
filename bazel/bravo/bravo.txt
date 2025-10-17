@@ -3439,7 +3439,6 @@ blonds
 berceaunette
 bipinnaria
 barraging
-bathymetry
 bathymetrical
 bathing
 bastinadoes
@@ -5485,6 +5484,7 @@ beyondness
 bluestone
 bicycle
 baryton
+bathymetry
 bimbisara
 bronchopneumonic
 bromethylene
