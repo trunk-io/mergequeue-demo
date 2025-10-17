@@ -11321,7 +11321,6 @@ drivers
 dalliers
 drainageway
 decrypted
-discardment
 disquietudes
 discards
 discarnate
@@ -11983,6 +11982,7 @@ disembarked
 decemstriate
 deoxygenize
 dactylose
+discardment
 demipomada
 demephitize
 duskish
