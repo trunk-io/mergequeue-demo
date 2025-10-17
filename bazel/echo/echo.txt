@@ -4223,7 +4223,6 @@ en
 epicarides
 ejectment
 epicenter
-exothermic
 entangle
 extracurricular
 enflowered
@@ -12937,6 +12936,7 @@ embossable
 eupepsias
 extravagant
 ec
+exothermic
 electrodiagnostic
 esophagectomy
 entocornea
