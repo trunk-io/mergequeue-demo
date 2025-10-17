@@ -2343,7 +2343,6 @@ asswaged
 atweel
 aeromancer
 acinetae
-alternity
 antihemisphere
 aquilia
 anomalocephalus
@@ -4121,6 +4120,7 @@ adjutage
 actuators
 adopted
 adital
+alternity
 archonship
 adoption
 apprised
