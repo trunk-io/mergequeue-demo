@@ -2363,7 +2363,6 @@ bards
 backaching
 biocoenoses
 bronteana
-biglenoid
 bagpipes
 benzamido
 bushrope
@@ -6123,6 +6122,7 @@ beneficial
 beneficialness
 buba
 brogueful
+biglenoid
 broma
 butteriness
 bloodthirsting
