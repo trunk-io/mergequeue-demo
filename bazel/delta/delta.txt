@@ -1144,7 +1144,6 @@ devex
 dolichocephaly
 diau
 disrobers
-denormalized
 dire
 dizaine
 dainchas
@@ -16022,6 +16021,7 @@ discourages
 dottier
 drilled
 dimberdamber
+denormalized
 decennal
 devolutionary
 diastrophe
