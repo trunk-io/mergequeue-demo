@@ -6212,7 +6212,6 @@ ceile
 clappering
 coronograph
 chatteration
-caudofemoral
 circumhorizontal
 copepodous
 caudolateral
@@ -21118,6 +21117,7 @@ coomy
 computer
 computerese
 cesarevitch
+caudofemoral
 computerise
 computerization
 computerizes
