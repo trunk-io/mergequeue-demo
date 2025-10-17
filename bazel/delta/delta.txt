@@ -3648,6 +3648,7 @@ destructor
 drugged
 depsid
 disrupt
+depolarizer
 dapedium
 deploredness
 decimalisation
@@ -9413,7 +9414,6 @@ diabolo
 disemic
 dyes
 discrowned
-depolarizer
 dispunishable
 damfoolish
 diastataxy
