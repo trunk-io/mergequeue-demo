@@ -1577,7 +1577,6 @@ deadish
 diminute
 deirdre
 diplomata
-disposition
 determinatively
 dipteraceae
 dool
@@ -7453,6 +7452,7 @@ deliberation
 disks
 dragoonage
 divertingness
+disposition
 decess
 detracting
 docetism
