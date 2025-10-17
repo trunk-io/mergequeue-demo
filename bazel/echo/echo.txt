@@ -2147,6 +2147,7 @@ electioneering
 endocyclic
 elcaja
 eriocaulon
+equisignal
 ethynes
 estriche
 erythemic
@@ -8698,7 +8699,6 @@ ennoblment
 exodontic
 equisided
 earlobes
-equisignal
 ephemeridae
 emulsifies
 endonuclear
