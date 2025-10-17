@@ -6797,6 +6797,7 @@ cello
 chambermaid
 celloid
 cupels
+clavicor
 colubrids
 cathodofluorescence
 celloidin
@@ -11690,7 +11691,6 @@ cockpit
 chirrups
 costumist
 cholum
-clavicor
 cyanophyceous
 cladistic
 casanovas
