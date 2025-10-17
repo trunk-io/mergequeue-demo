@@ -10846,7 +10846,6 @@ dipterocarpus
 dropseed
 dependent
 depasturation
-denominator
 dotterel
 diver
 dislimb
@@ -15708,6 +15707,7 @@ dogstone
 desi
 dispergate
 disformity
+denominator
 docile
 derivative
 dentatosinuate
