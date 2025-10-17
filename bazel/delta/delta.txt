@@ -2698,7 +2698,6 @@ decorator
 deliberated
 dissembling
 dihalide
-decore
 decorist
 demilancer
 durrie
@@ -5123,6 +5122,7 @@ disenabling
 dendrocygna
 diapaused
 detainer
+decore
 droukit
 dissipated
 disterr
