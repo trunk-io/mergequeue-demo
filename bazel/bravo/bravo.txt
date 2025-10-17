@@ -9772,7 +9772,6 @@ bankbook
 box
 bioenergetics
 bedouinism
-bidenticulate
 bassoonist
 benab
 birdnester
@@ -10377,6 +10376,7 @@ behovely
 bootholder
 battledore
 balsamo
+bidenticulate
 boatlip
 blackmails
 bray
