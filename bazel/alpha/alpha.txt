@@ -5187,6 +5187,7 @@ affixes
 albizia
 agraphia
 atangle
+antinormality
 anachorism
 aforetime
 armageddon
@@ -15582,7 +15583,6 @@ apoplexy
 apagogue
 aggravable
 acoustics
-antinormality
 acroparesthesia
 archsatrap
 arianrhod
