@@ -8846,7 +8846,6 @@ blunthead
 bedchamber
 beslimed
 bible
-bejewels
 beakers
 blurs
 bannet
@@ -9232,6 +9231,7 @@ bipedality
 baiginet
 bipeltate
 bipennate
+bejewels
 branchling
 barring
 blenching
