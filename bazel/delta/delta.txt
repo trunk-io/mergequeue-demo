@@ -360,6 +360,7 @@ dimorph
 debel
 dummyweed
 discharges
+dentelliere
 deporture
 deltaite
 damier
@@ -5696,7 +5697,6 @@ depilitant
 dermatine
 dipl
 disrobe
-dentelliere
 deplaning
 deflower
 disobligation
