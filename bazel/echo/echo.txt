@@ -362,7 +362,6 @@ eosinic
 electret
 electrolysed
 embayed
-entoplastic
 ebriose
 embryonary
 expends
@@ -3945,6 +3944,7 @@ exultancy
 euphausiidae
 electrophysicist
 emplaning
+entoplastic
 ejaculation
 engramme
 enveigle
