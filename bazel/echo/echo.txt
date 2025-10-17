@@ -11813,6 +11813,7 @@ eulytin
 essentiality
 etymologicon
 embassage
+electrogilding
 elidible
 escadrilles
 eusynchite
@@ -12396,7 +12397,6 @@ enframement
 enneacontahedron
 exist
 esne
-electrogilding
 encephalospinal
 electrooptical
 enumerably
