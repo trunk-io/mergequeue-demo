@@ -1867,7 +1867,6 @@ bandor
 babkas
 bilewhit
 brothe
-butterlike
 bandora
 biotechs
 begar
@@ -12331,6 +12330,7 @@ basiliscus
 bugged
 bluebeard
 bioreaction
+butterlike
 beld
 borons
 bioethic
