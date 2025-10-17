@@ -5544,7 +5544,6 @@ bekissed
 bekisses
 bouleuterion
 bedip
-beknighted
 ballistite
 buffer
 burrio
@@ -14456,6 +14455,7 @@ braincraft
 buckish
 befan
 brainge
+beknighted
 beepers
 broomrape
 bishydroxycoumarin
