@@ -2940,7 +2940,6 @@ centauri
 cantraip
 cantraps
 chaine
-curlyheads
 chalcidiform
 capitonidae
 cannat
@@ -19690,6 +19689,7 @@ crinkleroot
 crystaled
 conder
 cedens
+curlyheads
 claypan
 campmaster
 columner
