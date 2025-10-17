@@ -13283,6 +13283,7 @@ baston
 barnstorms
 blackboy
 bosh
+basecoat
 bristletail
 brawest
 boshbok
@@ -17152,7 +17153,6 @@ buoyancy
 battak
 balsamy
 batterable
-basecoat
 bulletlike
 behooves
 burghmote
