@@ -1565,7 +1565,6 @@ engrams
 exhortations
 epiblema
 enthral
-encephalomas
 epacrid
 epicanthic
 eulogization
@@ -13328,6 +13327,7 @@ ergasterion
 exposes
 endogen
 esophagopathy
+encephalomas
 exsanguinity
 epinikian
 electrocapillary
