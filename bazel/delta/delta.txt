@@ -3186,6 +3186,7 @@ defenceable
 desexing
 detonatability
 docked
+dropline
 dirty
 dekle
 declinograph
@@ -4948,7 +4949,6 @@ dishmonger
 discage
 depletable
 digitising
-dropline
 defoggers
 densitometers
 demonomist
