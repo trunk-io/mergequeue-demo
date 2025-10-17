@@ -11523,7 +11523,6 @@ abhorrency
 aflatoxin
 ascospore
 amosite
-absorbable
 antipuritan
 asse
 approachabl
@@ -23966,6 +23965,7 @@ acrology
 ashot
 auget
 autoagglutinating
+absorbable
 aragonitic
 autoanalytic
 accidence
