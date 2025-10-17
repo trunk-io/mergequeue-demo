@@ -520,7 +520,6 @@ emporia
 evzones
 eurypharynx
 epidesmine
-elegance
 ectepicondylar
 elytrostenosis
 eclaircissement
@@ -559,6 +558,7 @@ esophagocele
 egall
 enterococci
 exprobration
+elegance
 epigonos
 extracondensed
 erred
