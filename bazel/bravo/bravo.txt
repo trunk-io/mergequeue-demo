@@ -7526,7 +7526,6 @@ buffont
 bricked
 belverdian
 bowmen
-bilicyanin
 barbudos
 blueys
 brobdingnag
@@ -14096,6 +14095,7 @@ berust
 bioclimatological
 birdcatcher
 bicostate
+bilicyanin
 browallia
 brigandism
 bestudded
