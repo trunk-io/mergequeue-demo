@@ -2163,6 +2163,7 @@ bowfront
 bast
 blousons
 bridgebote
+bishopscap
 barbarianizing
 bulgar
 bandog
@@ -10666,7 +10667,6 @@ brochant
 boothite
 broken
 backflow
-bishopscap
 barbells
 bedrails
 buist
