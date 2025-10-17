@@ -7851,7 +7851,6 @@ bermes
 bullhoof
 bongoists
 bouffe
-bareheaded
 blowpit
 blockhouse
 byron
@@ -13592,6 +13591,7 @@ blundered
 blancard
 bepart
 biochemistries
+bareheaded
 bielid
 bichromate
 bouchon
