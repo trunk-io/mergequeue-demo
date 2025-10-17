@@ -12160,6 +12160,7 @@ evacuators
 enbloc
 expose
 equimultiple
+expeded
 extramarginal
 exercising
 equimolecular
@@ -12907,7 +12908,6 @@ electrosynthetic
 exhaustingly
 epiphyseal
 euploids
-expeded
 efflate
 enchiladas
 engrossment
