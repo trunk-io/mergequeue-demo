@@ -6713,6 +6713,7 @@ achates
 airdrome
 algetic
 analysands
+austrium
 accosts
 angulus
 adsorb
@@ -23194,7 +23195,6 @@ appertise
 abyssinia
 adiposity
 attests
-austrium
 apomecometry
 auriphrygiate
 alkalize
