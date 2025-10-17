@@ -1049,7 +1049,6 @@ destandardize
 directive
 dealfish
 dampproof
-dunkirk
 duchy
 daintiness
 divort
@@ -5625,6 +5624,7 @@ depersonalise
 dephlogisticated
 depersonalising
 discipled
+dunkirk
 deflated
 dentatocrenate
 dermestid
