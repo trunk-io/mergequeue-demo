@@ -2124,6 +2124,7 @@ completions
 commutes
 conference
 campi
+celeriac
 campy
 camels
 ceramicite
@@ -16256,7 +16257,6 @@ canzonas
 cardiamorphia
 clinographic
 chlamydosporic
-celeriac
 crewcut
 compagination
 cochal
