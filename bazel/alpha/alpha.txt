@@ -7496,6 +7496,7 @@ archhost
 antibiotically
 autocamp
 appellatived
+apices
 acraspeda
 albuminous
 albumoid
@@ -13812,7 +13813,6 @@ aeolian
 anonymity
 anonymously
 assistive
-apices
 anophele
 anopheles
 anophelinae
