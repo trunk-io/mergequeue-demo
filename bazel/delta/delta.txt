@@ -6937,7 +6937,6 @@ desoxyribonucleic
 disoccupied
 despair
 drearfully
-dorrbeetle
 drabnesses
 delirous
 despairful
@@ -12830,6 +12829,7 @@ dismayable
 digraph
 dismayfully
 doubty
+dorrbeetle
 diploes
 disjunctively
 dialogs
