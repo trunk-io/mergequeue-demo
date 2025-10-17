@@ -8689,7 +8689,6 @@ bloat
 barmen
 babbage
 bimillionaire
-befogging
 battish
 benches
 bimodule
@@ -17691,6 +17690,7 @@ bichromated
 benamidar
 belletrists
 bringela
+befogging
 biotoxin
 bookkeeper
 berlines
