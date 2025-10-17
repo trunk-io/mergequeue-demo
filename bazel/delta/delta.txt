@@ -2548,7 +2548,6 @@ distress
 dewar
 disrest
 diswont
-disleafing
 dimmed
 dynasty
 declines
@@ -13631,6 +13630,7 @@ dissertational
 dissertative
 diphasic
 damme
+disleafing
 disparple
 disservice
 disgustedness
