@@ -8393,7 +8393,6 @@ centroid
 cataleptic
 chamberleted
 chimneys
-countergauge
 camanchaca
 chambers
 chambioa
@@ -25528,6 +25527,7 @@ corodiastasis
 convicting
 corodies
 cephaelis
+countergauge
 coroll
 cartooning
 chastens
