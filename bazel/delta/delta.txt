@@ -2626,7 +2626,6 @@ dipterad
 dfault
 daedalean
 decempeda
-decolourizer
 dumpcarts
 dinglebird
 declarative
@@ -5676,6 +5675,7 @@ divinises
 debe
 dtset
 depigmentate
+decolourizer
 depigmentize
 deipnosophism
 devilized
