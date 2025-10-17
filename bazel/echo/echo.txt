@@ -4171,7 +4171,6 @@ escutcheons
 enrail
 electrodispersive
 extrasensorial
-episcleral
 embryogony
 examinant
 envelopes
@@ -4804,6 +4803,7 @@ eth
 eudaimonist
 embrangle
 empathy
+episcleral
 encomiastically
 eriophorum
 ethanedial
