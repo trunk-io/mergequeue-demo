@@ -27943,6 +27943,7 @@ comeatable
 crabut
 confiner
 coreid
+counters
 crabwise
 crabwood
 corms
@@ -29493,7 +29494,6 @@ cubbyhouse
 creatines
 contraposaune
 circuiter
-counters
 crystallites
 crystallization
 crystallize
