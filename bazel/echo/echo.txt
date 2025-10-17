@@ -2500,7 +2500,6 @@ enchanter
 embrail
 exsolved
 efficaciousness
-edna
 eminency
 eatable
 empaling
@@ -6624,6 +6623,7 @@ extraduction
 eppy
 erupted
 elektra
+edna
 existents
 epiphragm
 ended
