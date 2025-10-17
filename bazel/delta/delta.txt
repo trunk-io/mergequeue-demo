@@ -4442,6 +4442,7 @@ dementholize
 dude
 defang
 debted
+drinkability
 draftings
 disseated
 dentalizing
@@ -15959,7 +15960,6 @@ distileries
 dunkadoo
 digressionary
 decamerous
-drinkability
 disengagement
 drizzliest
 disambiguating
