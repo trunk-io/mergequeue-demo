@@ -2811,7 +2811,6 @@ bridebowl
 broadaxe
 bibulously
 bossdoms
-bacchanalize
 becut
 boskage
 barrage
@@ -15309,6 +15308,7 @@ budtime
 bridgebuilder
 brakemen
 bromoketone
+bacchanalize
 bridgemaking
 bridger
 bicarinate
