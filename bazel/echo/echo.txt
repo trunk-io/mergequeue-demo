@@ -4642,6 +4642,7 @@ exfoliative
 electroengrave
 escapologist
 eremital
+extends
 eustyle
 exceptionability
 epirogenic
@@ -8081,7 +8082,6 @@ expulsions
 entosphere
 episcopature
 eczemas
-extends
 engerminate
 embacle
 emarcid
