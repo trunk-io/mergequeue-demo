@@ -1126,7 +1126,6 @@ calcography
 calcsinter
 cimelia
 chinnam
-cranioclasis
 calcspars
 chenopod
 cotwal
@@ -3410,6 +3409,7 @@ cabalistical
 capsizing
 caps
 capsomere
+cranioclasis
 capsomers
 capstans
 capstone
