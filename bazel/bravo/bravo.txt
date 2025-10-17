@@ -6185,7 +6185,6 @@ benighter
 bunkhouses
 beldam
 breedling
-benin
 benisons
 bombay
 benitier
@@ -17897,6 +17896,7 @@ bourse
 bedaub
 busyworks
 bushelers
+benin
 bescurvy
 bartering
 bolshies
