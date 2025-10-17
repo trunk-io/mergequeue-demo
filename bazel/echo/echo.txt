@@ -1897,7 +1897,6 @@ eurasia
 equicurve
 esocyclic
 extrude
-emigates
 exoticity
 endothermal
 engaud
@@ -13137,6 +13136,7 @@ electrogenesis
 elections
 enterophthisis
 earthworms
+emigates
 exterritorially
 expressivity
 enmist
