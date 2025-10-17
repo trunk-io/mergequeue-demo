@@ -3651,7 +3651,6 @@ clawlike
 carapine
 cucumaria
 cheneaux
-carat
 chymified
 colonels
 computability
@@ -16998,6 +16997,7 @@ creatureliness
 classis
 caviar
 culturine
+carat
 cenotaphs
 choledochoplasty
 chitlings
