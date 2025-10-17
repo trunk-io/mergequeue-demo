@@ -10541,7 +10541,6 @@ balking
 bepun
 blastosphere
 bandit
-bromal
 bakeries
 belligerent
 bismuthide
@@ -13995,6 +13994,7 @@ bunko
 baptizee
 bowsman
 buttonmould
+bromal
 bows
 belter
 breastplough
