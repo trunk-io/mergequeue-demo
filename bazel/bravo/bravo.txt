@@ -819,7 +819,6 @@ belone
 beblister
 batteuse
 bonnyclabber
-bushelbasket
 bafflingness
 beclothes
 bogomil
@@ -5792,6 +5791,7 @@ bibliotheque
 benjamin
 buttstock
 bruting
+bushelbasket
 bood
 bellota
 bidactyle
