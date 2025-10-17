@@ -6291,6 +6291,7 @@ eloquent
 etnas
 efforts
 eval
+extravasation
 emporium
 errite
 euchred
@@ -11705,7 +11706,6 @@ ellinge
 eosophobia
 enlumine
 epistemophiliac
-extravasation
 emulsionize
 ethylenediamine
 emotivism
