@@ -12752,6 +12752,7 @@ behaviour
 biofog
 blastophthoric
 baculite
+biwa
 bostryx
 booker
 boatkeeper
@@ -15297,7 +15298,6 @@ baybush
 bridemaid
 barytone
 blackie
-biwa
 beach
 brecken
 backjaw
