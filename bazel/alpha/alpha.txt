@@ -4588,6 +4588,7 @@ aediles
 airbursts
 accompanier
 annealed
+awave
 anemopathy
 abiliment
 ammonias
@@ -9358,7 +9359,6 @@ algoristic
 areole
 alphas
 alpheus
-awave
 achromatization
 auca
 affaite
