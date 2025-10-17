@@ -4824,6 +4824,7 @@ corporation
 caridomorpha
 clomben
 carrotwood
+colleter
 collegial
 carrousel
 circumfused
@@ -26416,7 +26417,6 @@ cuerda
 cothurnus
 coticed
 coruscate
-colleter
 clou
 cruller
 chaetotaxy
