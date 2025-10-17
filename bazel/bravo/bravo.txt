@@ -3521,6 +3521,7 @@ boatowner
 brevirostral
 boise
 boloneys
+bowyers
 brantle
 breadman
 byrlakin
@@ -10893,7 +10894,6 @@ baffing
 bardesanist
 balate
 barathra
-bowyers
 bletilla
 bashalick
 blets
