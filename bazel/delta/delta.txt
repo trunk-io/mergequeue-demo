@@ -1752,6 +1752,7 @@ deathsman
 discrepating
 dumble
 deathtime
+delineate
 deathtrap
 devocalization
 drof
@@ -8199,7 +8200,6 @@ divulgers
 disventure
 deisin
 dispireme
-delineate
 deknight
 decatyl
 diazoaminobenzene
