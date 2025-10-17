@@ -28777,7 +28777,6 @@ chemosorb
 compendiary
 crepuscular
 coremium
-cuir
 cavitate
 catenary
 cresc
@@ -29464,6 +29463,7 @@ cryptophyte
 concentual
 carcinolytic
 crispiest
+cuir
 crispin
 culicidal
 crispine
