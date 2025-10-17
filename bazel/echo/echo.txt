@@ -6500,7 +6500,6 @@ encysted
 enteradenological
 epsilon
 elshin
-ensures
 epizooties
 emmett
 emerods
@@ -11715,6 +11714,7 @@ enviroment
 ennoble
 eumeromorphic
 earlobe
+ensures
 entrepot
 erections
 enormousness
