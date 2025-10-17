@@ -2562,7 +2562,6 @@ barkless
 battening
 biaxal
 bandusia
-babs
 besotter
 bell
 bettine
@@ -5824,6 +5823,7 @@ begaudy
 bellweed
 bretons
 basella
+babs
 breathlessly
 butterbur
 bathythermograph
