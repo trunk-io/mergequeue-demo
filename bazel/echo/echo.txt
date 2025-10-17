@@ -607,6 +607,7 @@ electioneerer
 ened
 ennage
 encharging
+earthed
 eromania
 encephalolith
 enspell
@@ -10233,7 +10234,6 @@ elvers
 ergosterin
 eared
 elliptical
-earthed
 endorsement
 epiprecoracoid
 eadi
