@@ -1077,6 +1077,7 @@ bairdi
 beneficency
 bypassed
 backfiring
+brigading
 brevetted
 bransolder
 braggery
@@ -1787,7 +1788,6 @@ bandelette
 brassage
 benzoic
 banderole
-brigading
 blere
 banders
 boviform
