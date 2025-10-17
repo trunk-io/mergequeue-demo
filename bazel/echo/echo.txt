@@ -837,7 +837,6 @@ enteritidis
 entrez
 endosteum
 elated
-erodability
 epiploon
 entrench
 echinoids
@@ -10121,6 +10120,7 @@ emigrations
 equatoreal
 emptores
 excystment
+erodability
 evensongs
 ethicoaesthetic
 ethicoreligious
