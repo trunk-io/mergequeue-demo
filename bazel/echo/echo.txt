@@ -945,7 +945,6 @@ erythremomelalgia
 eo
 enterocinetic
 endearments
-external
 eparterial
 esophageal
 epiphora
@@ -13436,6 +13435,7 @@ ephesian
 enterclose
 epilepsia
 ectosteal
+external
 expressible
 ensilages
 enterogastrone
