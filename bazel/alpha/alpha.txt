@@ -3838,7 +3838,6 @@ adjuration
 amidine
 aisling
 autocar
-adjured
 adjurer
 alveoli
 aspersorium
@@ -9469,6 +9468,7 @@ anisidin
 austerlitz
 asininely
 antitrismus
+adjured
 anglos
 armisonous
 axifera
