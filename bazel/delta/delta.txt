@@ -2090,7 +2090,6 @@ digitizer
 decadents
 dockside
 defenseman
-dioxane
 doline
 diapasm
 daunts
@@ -11202,6 +11201,7 @@ disposed
 distressful
 dissatisfactoriness
 dichromic
+dioxane
 depopulate
 demilitarize
 disbarring
