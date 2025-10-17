@@ -10504,6 +10504,7 @@ diphysite
 deadeye
 damask
 discolith
+demogenic
 deplete
 disestablishing
 diaphany
@@ -13292,7 +13293,6 @@ disdainfully
 dash
 disconformable
 denude
-demogenic
 dispeopling
 disgracer
 drunks
