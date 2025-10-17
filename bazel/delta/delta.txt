@@ -9277,7 +9277,6 @@ demilitarizing
 dy
 dido
 diaglyptic
-drepanoid
 didodecahedron
 didonia
 dihexahedron
@@ -13853,6 +13852,7 @@ deflexible
 dhourra
 dialogistically
 disinterest
+drepanoid
 descure
 demurral
 duodenostomy
