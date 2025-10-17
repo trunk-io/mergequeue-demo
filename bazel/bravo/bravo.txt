@@ -8871,7 +8871,6 @@ bioclimatic
 bioclimatology
 bathwater
 blabber
-bussed
 berryman
 baronies
 bioclimatologist
@@ -12222,6 +12221,7 @@ bullfights
 balms
 bolshevist
 bolshevistic
+bussed
 biopoesis
 bailable
 bilboas
