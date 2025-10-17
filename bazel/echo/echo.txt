@@ -5484,6 +5484,7 @@ enfaces
 ectoproct
 etape
 exclamative
+endeign
 encashment
 excellency
 episporangium
@@ -7425,7 +7426,6 @@ ebenaceae
 emarginating
 envenomous
 equisurface
-endeign
 eugenia
 expediences
 eternized
