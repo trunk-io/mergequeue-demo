@@ -13310,7 +13310,6 @@ baromacrometer
 bossed
 budge
 boiled
-bears
 bolti
 barysphere
 bise
@@ -14443,6 +14442,7 @@ brimmimg
 barbican
 bettors
 brachiferous
+bears
 bestriding
 blastomycosis
 beseeches
