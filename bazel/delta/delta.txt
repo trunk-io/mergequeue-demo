@@ -3461,7 +3461,6 @@ deformability
 deformable
 darkey
 dibbing
-deformation
 dappledness
 devourable
 delundung
@@ -6831,6 +6830,7 @@ duricrust
 diaconate
 delibate
 declaimer
+deformation
 disgustfulness
 depressibility
 desize
