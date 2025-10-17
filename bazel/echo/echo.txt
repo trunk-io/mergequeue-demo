@@ -1330,7 +1330,6 @@ elastases
 epitasis
 endpiece
 epithet
-eddy
 erythroclastic
 evenfalls
 erythrocytolytic
@@ -5797,6 +5796,7 @@ encloser
 erodium
 environing
 elephant
+eddy
 electroencephalograms
 educated
 eumenorrhea
