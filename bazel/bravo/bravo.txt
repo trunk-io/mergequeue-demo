@@ -2288,7 +2288,6 @@ bellehood
 babakoto
 betrayers
 boing
-buyable
 brim
 braggart
 basophil
@@ -8275,6 +8274,7 @@ boschveld
 benson
 belard
 breechcloths
+buyable
 bromins
 broadsided
 backet
