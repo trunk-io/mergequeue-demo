@@ -14056,7 +14056,6 @@ carrioles
 courtesanry
 corslet
 cistuses
-clivus
 cypressed
 conure
 contented
@@ -26566,6 +26565,7 @@ cocopans
 conjecturable
 churnings
 coucal
+clivus
 couchancy
 crisply
 couchant
