@@ -2179,7 +2179,6 @@ batiste
 busthead
 bowfront
 bast
-blousons
 bishopscap
 becursed
 barbarianizing
@@ -14759,6 +14758,7 @@ belili
 breviaries
 blier
 beswarm
+blousons
 brasslike
 baignoire
 bourgeoning
