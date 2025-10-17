@@ -5540,7 +5540,6 @@ albinotic
 arms
 acalephoid
 axbreaker
-alitrunk
 autotoxis
 alloiometry
 acoelomatous
@@ -18433,6 +18432,7 @@ arrhenoid
 aluminographic
 arboreous
 antlike
+alitrunk
 azalea
 assassinating
 aggrandiser
