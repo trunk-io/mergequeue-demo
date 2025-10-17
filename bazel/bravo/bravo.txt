@@ -2967,7 +2967,6 @@ beachhead
 biostatistic
 bsf
 biome
-bartonella
 bookbinderies
 boglet
 beltless
@@ -7833,6 +7832,7 @@ buckwagon
 blanketry
 bastardisation
 bluepoints
+bartonella
 bibliophagous
 bombola
 befuddlement
