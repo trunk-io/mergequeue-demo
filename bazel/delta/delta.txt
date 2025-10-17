@@ -819,7 +819,6 @@ detections
 deduced
 distention
 dimorphic
-dangle
 disorient
 deniable
 diffusedly
@@ -7323,6 +7322,7 @@ diphthongia
 determinated
 dishelming
 drownding
+dangle
 davy
 denegate
 damans
