@@ -2588,7 +2588,6 @@ barling
 broadsword
 backblocks
 burdenless
-bluestone
 barretter
 bardelle
 bertholletia
@@ -5472,6 +5471,7 @@ boort
 bloviates
 beethovian
 beyondness
+bluestone
 bicycle
 baryton
 bimbisara
