@@ -8137,7 +8137,6 @@ bergmannite
 bootleger
 birimose
 bogtrotter
-biflabellate
 blubberers
 biochemic
 babushka
@@ -8400,6 +8399,7 @@ bool
 bleachyard
 bildar
 bilder
+biflabellate
 bilders
 brahmanize
 bework
