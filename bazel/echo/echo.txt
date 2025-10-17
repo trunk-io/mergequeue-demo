@@ -4694,7 +4694,6 @@ emittent
 earthmove
 erase
 entryway
-electrowin
 electroshock
 eyelets
 exalbuminose
@@ -6441,6 +6440,7 @@ endodontium
 equators
 exacerbatingly
 egocentric
+electrowin
 export
 ephelis
 epimere
