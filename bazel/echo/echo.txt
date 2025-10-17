@@ -1499,7 +1499,6 @@ epinasty
 envigor
 enterokinesia
 elytropolypus
-epigraphic
 exophasic
 enterokinetic
 embracer
@@ -12382,6 +12381,7 @@ everywheres
 embarrel
 engramma
 empetrum
+epigraphic
 eremacausis
 electrochemist
 evasions
