@@ -6689,7 +6689,6 @@ berlin
 biomass
 brechan
 brontotherium
-bimotored
 bismuthine
 broomstaff
 beslime
@@ -7320,6 +7319,7 @@ bootstrap
 bethink
 balaenoptera
 bocklogged
+bimotored
 biochemistry
 bullidae
 brave
