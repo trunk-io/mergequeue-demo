@@ -4017,7 +4017,6 @@ delegates
 delegateship
 dipteros
 diadems
-drop
 diathermancy
 dirten
 dianoetical
@@ -9167,6 +9166,7 @@ decerebrated
 dicotyls
 dewlapped
 distortive
+drop
 dicots
 dimedone
 danda
