@@ -4960,7 +4960,6 @@ bottling
 bloodletting
 blackness
 breakwaters
-badgeman
 balanoid
 beetles
 brompicrin
@@ -17155,6 +17154,7 @@ burghmote
 basilinna
 breadseller
 blowhard
+badgeman
 bulletwood
 baymen
 brosy
