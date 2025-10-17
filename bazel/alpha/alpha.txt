@@ -7506,7 +7506,6 @@ alchemister
 actomyosin
 abrasives
 albums
-apothecaries
 agreations
 adversary
 amidothiazole
@@ -10208,6 +10207,7 @@ antheriform
 alumins
 ashweed
 alcoholist
+apothecaries
 axifugal
 annihilator
 antitropous
