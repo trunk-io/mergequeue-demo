@@ -10983,6 +10983,7 @@ bughead
 blissom
 blockman
 balden
+bonorum
 battery
 bldg
 battledored
@@ -12600,7 +12601,6 @@ bonnnes
 banksides
 bdellidae
 baysmelts
-bonorum
 birching
 bisector
 bossship
