@@ -6464,6 +6464,7 @@ ahom
 autonephrectomy
 ahriman
 abscised
+anchylosed
 ablare
 amblychromatic
 arthogram
@@ -8965,7 +8966,6 @@ anobiidae
 acidifiant
 allopathically
 allopathist
-anchylosed
 adherences
 angulates
 apprized
