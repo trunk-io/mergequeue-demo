@@ -4431,6 +4431,7 @@ carnacian
 casamarca
 carnalite
 culverin
+couloir
 complotment
 carnalize
 crookesite
@@ -26613,7 +26614,6 @@ couldn
 coulee
 coulees
 coulisses
-couloir
 copperas
 checkerboarded
 cornbird
