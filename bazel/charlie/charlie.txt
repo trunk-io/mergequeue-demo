@@ -8046,7 +8046,6 @@ cityscape
 chirpingly
 crumples
 chaetopod
-cirrated
 chaetopterus
 chaetosoma
 chaetosomidae
@@ -18709,6 +18708,7 @@ cointensity
 caoba
 caup
 cointer
+cirrated
 calcanei
 cointerest
 cointerred
