@@ -5774,6 +5774,7 @@ bardings
 bellyful
 booksy
 bestrews
+bibulosity
 boor
 brachering
 barbermonger
@@ -7080,7 +7081,6 @@ bathygraphic
 buffability
 brushups
 bonhomous
-bibulosity
 barterers
 bastardies
 beatrix
