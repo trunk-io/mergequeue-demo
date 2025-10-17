@@ -11446,7 +11446,6 @@ enterocyst
 elve
 emagram
 expulses
-enddamaged
 exactable
 extemporising
 erubescite
@@ -11851,6 +11850,7 @@ excavational
 extrabulbar
 enscrolls
 experimentalists
+enddamaged
 elmier
 everyone
 essentials
