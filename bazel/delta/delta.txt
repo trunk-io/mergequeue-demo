@@ -1251,7 +1251,6 @@ dating
 doggie
 diglyceride
 depolishes
-detonability
 demises
 draftee
 devaluation
@@ -6425,6 +6424,7 @@ despond
 duodenojejunostomy
 deoxygenation
 dalan
+detonability
 deliberates
 derogate
 denuclearization
