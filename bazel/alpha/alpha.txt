@@ -6128,7 +6128,6 @@ ascendency
 acetnaphthalide
 adiadochokinesia
 appetition
-amyluria
 aegerian
 aerolitics
 aquiver
@@ -8984,6 +8983,7 @@ anchor
 acetylbiuret
 antiphrastic
 allotypes
+amyluria
 ammi
 allotypy
 antiutilitarian
