@@ -6352,7 +6352,6 @@ allotments
 aleucaemic
 agrologic
 anthoceros
-aestuate
 agromyzid
 agromyzidae
 alamos
@@ -20527,6 +20526,7 @@ awakens
 autosymnoia
 anaerophyte
 acquiescency
+aestuate
 artemisium
 antiskidding
 acholia
