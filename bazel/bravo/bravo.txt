@@ -707,6 +707,7 @@ baff
 bewield
 besogne
 blueish
+batan
 broadbill
 baign
 bogyland
@@ -7066,7 +7067,6 @@ becalmed
 bespell
 bespend
 blameable
-batan
 buckeens
 bonking
 boltonia
