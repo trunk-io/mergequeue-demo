@@ -14711,7 +14711,6 @@ collations
 calyxes
 cystourethrography
 cistron
-cistronic
 cistrons
 chickies
 cephalous
@@ -25747,6 +25746,7 @@ cathedrae
 chloridized
 curlings
 countertripping
+cistronic
 chimbe
 champa
 crabapple
