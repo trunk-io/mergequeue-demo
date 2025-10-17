@@ -1393,7 +1393,6 @@ bops
 bilch
 bedye
 bohunk
-brankier
 bight
 biliment
 balibago
@@ -7999,6 +7998,7 @@ bowery
 bochur
 bicornous
 bravoes
+brankier
 brandi
 booklift
 bartend
