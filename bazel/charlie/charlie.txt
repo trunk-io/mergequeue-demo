@@ -1823,7 +1823,6 @@ cambresine
 calumnia
 cambric
 cartonnage
-cubiculum
 cirrocumulus
 cambricleaf
 colobus
@@ -25769,6 +25768,7 @@ cloyne
 conspiringly
 choirboy
 corriedale
+cubiculum
 courantoes
 corrige
 compurgatorial
