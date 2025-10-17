@@ -2118,7 +2118,6 @@ culverineer
 canonicate
 contemnor
 camphorated
-camphorates
 camphoryl
 camphoroyl
 clerkliest
@@ -7497,6 +7496,7 @@ ceratopteridaceae
 carnac
 capron
 cleuch
+camphorates
 chorioepithelioma
 ceratopteris
 contemplators
