@@ -10283,6 +10283,7 @@ amides
 anacrusis
 autodecremented
 aggenerate
+anemochoric
 astor
 autoincremented
 affricates
@@ -11688,7 +11689,6 @@ agars
 anachronistic
 astrophotometer
 anachronize
-anemochoric
 anacatadidymus
 abstractness
 attain
