@@ -1986,7 +1986,6 @@ bejewelled
 banknote
 bristly
 brasserie
-boomster
 bluggy
 brandsolder
 bromocyanide
@@ -15601,6 +15600,7 @@ bute
 bristlelike
 burnoose
 babbool
+boomster
 bonairly
 brassidic
 berinse
