@@ -372,7 +372,6 @@ architectures
 aberrancy
 aberrants
 athyroidism
-acraturesis
 areological
 aloha
 anemotaxis
@@ -22241,6 +22240,7 @@ alehouse
 aphthic
 adeption
 amphinesian
+acraturesis
 anthracometer
 autosporic
 amphiboline
