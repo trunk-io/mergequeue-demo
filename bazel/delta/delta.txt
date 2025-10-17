@@ -2620,7 +2620,6 @@ decreers
 decommission
 decommissioned
 dozers
-destroys
 discernably
 decompensating
 densifying
@@ -6162,6 +6161,7 @@ deader
 daggly
 diphtheroid
 dijudicant
+destroys
 domite
 deflator
 duperies
