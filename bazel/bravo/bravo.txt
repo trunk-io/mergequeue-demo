@@ -1891,6 +1891,7 @@ ballone
 balances
 bandstring
 bathymetric
+batteling
 bastions
 brandishes
 beeway
@@ -3586,7 +3587,6 @@ bacchanalism
 bucketful
 belfather
 brassieres
-batteling
 battement
 balladising
 batteners
