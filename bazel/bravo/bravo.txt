@@ -1098,7 +1098,6 @@ bromvoel
 bank
 banquets
 benzopyrene
-borates
 botete
 bigwig
 burette
@@ -12911,6 +12910,7 @@ battle
 bromizes
 bookishly
 biblicolegal
+borates
 burdenable
 bruin
 babka
