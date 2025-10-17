@@ -6831,6 +6831,7 @@ cathodofluorescence
 celloidin
 counterbalance
 cellose
+chapped
 cellucotton
 coregent
 coadunative
@@ -21324,7 +21325,6 @@ carved
 cooky
 concertante
 chinwag
-chapped
 concertation
 counter
 concertato
