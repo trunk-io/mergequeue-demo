@@ -4397,7 +4397,6 @@ dying
 dromed
 dietetics
 dehydrochlorinate
-deciduate
 disenthroning
 disinclose
 delitous
@@ -8860,6 +8859,7 @@ dialoguer
 discipular
 duncify
 dulcifying
+deciduate
 divisor
 declarators
 defeat
