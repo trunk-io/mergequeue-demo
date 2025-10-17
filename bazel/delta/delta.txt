@@ -10434,6 +10434,7 @@ demurrers
 dependencies
 ditton
 diopters
+diseur
 disemployed
 decumary
 disporting
@@ -17223,7 +17224,6 @@ dureresque
 deuteragonist
 dissocial
 deuteromycetes
-diseur
 disqualified
 declamator
 dentinasal
