@@ -6342,7 +6342,6 @@ emulsor
 entoconid
 encounterer
 euskarian
-elaboration
 epist
 enunciator
 ejido
@@ -7471,6 +7470,7 @@ echiuroid
 escalier
 elementalistically
 enzootic
+elaboration
 endungeon
 eaceworm
 eudaimonism
