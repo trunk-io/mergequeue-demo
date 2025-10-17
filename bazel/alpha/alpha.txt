@@ -11405,6 +11405,7 @@ ampler
 ailerons
 amplest
 azorite
+anisotropies
 antityphoid
 amplexicauline
 adversion
@@ -18557,7 +18558,6 @@ aegisthus
 arecales
 alleluia
 aftershine
-anisotropies
 apocentricity
 astarte
 audits
