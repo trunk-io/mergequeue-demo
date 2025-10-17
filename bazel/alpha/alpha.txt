@@ -4283,7 +4283,6 @@ adlet
 archdukes
 alhandal
 alguifou
-automacy
 acrisia
 aulder
 acheron
@@ -5384,6 +5383,7 @@ augrim
 afterdate
 acknowledgements
 amadou
+automacy
 adipomata
 aerolith
 anticyclolysis
