@@ -1867,6 +1867,7 @@ begar
 brevipen
 broch
 briguing
+bathrobe
 bandore
 baselard
 brandish
@@ -5601,7 +5602,6 @@ balt
 buccobranchial
 brocks
 billyer
-bathrobe
 busheller
 bigate
 busks
