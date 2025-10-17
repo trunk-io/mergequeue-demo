@@ -11928,6 +11928,7 @@ butler
 barographs
 bold
 bimeby
+brakeage
 basilysis
 buttled
 bagpod
@@ -15078,7 +15079,6 @@ bouviers
 bowdlerise
 bogatyr
 bulgers
-brakeage
 breeziness
 barbarising
 biseptate
