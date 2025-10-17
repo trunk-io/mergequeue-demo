@@ -21381,7 +21381,6 @@ allotriuria
 atabeg
 asleep
 asmack
-abscond
 adurent
 asoak
 asoka
@@ -24535,6 +24534,7 @@ autoxidation
 arguments
 autoxidator
 accepted
+abscond
 antihelices
 advice
 amphisarca
