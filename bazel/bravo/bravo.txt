@@ -12653,7 +12653,6 @@ besprinkled
 baneberries
 baguets
 batoka
-bacteric
 buckthorn
 bartram
 beleaguerment
@@ -18100,6 +18099,7 @@ blazing
 benedictus
 buttoner
 brigantia
+bacteric
 betusked
 butanoic
 butanol
