@@ -4526,7 +4526,6 @@ commonsensible
 cryonics
 carob
 celeb
-caroba
 caroch
 caroche
 counterartillery
@@ -24077,6 +24076,7 @@ convents
 converge
 cuspal
 coexchangeable
+caroba
 criminous
 continuer
 codfisheries
