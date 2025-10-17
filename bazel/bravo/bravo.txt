@@ -5831,7 +5831,6 @@ babs
 breathlessly
 butterbur
 bathythermograph
-bellwether
 bellwort
 ballpoint
 belonger
@@ -15400,6 +15399,7 @@ belowground
 bustards
 boucle
 blurt
+bellwether
 boneless
 boomier
 budukha
