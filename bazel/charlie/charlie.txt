@@ -5067,6 +5067,7 @@ counterparallel
 cashableness
 cashaws
 caracoli
+clawhammer
 chalcedonous
 carida
 contek
@@ -31209,7 +31210,6 @@ commonplace
 coque
 concitizen
 craniopathy
-clawhammer
 chesoun
 cura
 curability
