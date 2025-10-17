@@ -16879,7 +16879,6 @@ clubfisted
 clubfoot
 clubfooted
 castellany
-clubhand
 couth
 cerebralgia
 clubhaul
@@ -25624,6 +25623,7 @@ coroutines
 clericum
 corpn
 corpora
+clubhand
 coign
 corporacy
 crackled
