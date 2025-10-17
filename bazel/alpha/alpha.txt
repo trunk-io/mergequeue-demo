@@ -4584,7 +4584,6 @@ almirah
 alignments
 athamantin
 artistry
-automaton
 ambulacriform
 aefaldy
 ambitioned
@@ -6952,6 +6951,7 @@ anticoagulator
 annulata
 amicable
 akawai
+automaton
 acrogenic
 appraisingly
 aletris
