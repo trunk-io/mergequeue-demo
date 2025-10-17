@@ -1369,7 +1369,6 @@ daftar
 demobilization
 diobolons
 dia
-disenchantment
 detergible
 devaporate
 deslime
@@ -16864,6 +16863,7 @@ duplicando
 dorab
 durian
 dendrodus
+disenchantment
 downright
 dermatozoonosis
 darklings
