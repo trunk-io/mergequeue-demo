@@ -12320,7 +12320,6 @@ bacteriophagic
 bathycurrent
 behaviours
 blumea
-bubal
 blindweed
 bombardments
 bombline
@@ -12914,6 +12913,7 @@ bimillenniums
 brisure
 browning
 bacchiac
+bubal
 banneret
 bipartisanship
 bkpt
