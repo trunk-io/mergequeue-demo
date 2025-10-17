@@ -1898,7 +1898,6 @@ batteling
 bastions
 brandishes
 beeway
-benchwarmer
 beworms
 bacillicidal
 baneberry
@@ -6177,6 +6176,7 @@ bemonster
 batikuling
 boilers
 bipartient
+benchwarmer
 baldoquin
 benight
 blepharophimosis
