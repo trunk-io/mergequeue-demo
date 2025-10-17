@@ -10850,7 +10850,6 @@ denominator
 dotterel
 diver
 dislimb
-disposal
 diquat
 disdiaclastic
 dalk
@@ -15378,6 +15377,7 @@ debunk
 descendability
 dislike
 domba
+disposal
 decocts
 disbogue
 damoiselle
