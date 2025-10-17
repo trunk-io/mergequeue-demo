@@ -2092,6 +2092,7 @@ decadents
 dulses
 dockside
 decuples
+deadlocking
 defenseman
 dioxane
 doline
@@ -7097,7 +7098,6 @@ deli
 datapac
 deign
 doodad
-deadlocking
 dialyzator
 dumby
 defoliations
