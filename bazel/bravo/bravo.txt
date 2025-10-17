@@ -12428,7 +12428,6 @@ berberins
 bless
 bloodstained
 braes
-bondar
 bonderize
 backswing
 bonderman
@@ -16742,6 +16741,7 @@ bakwiri
 bespotted
 babelish
 bucklum
+bondar
 bluffness
 besa
 balloting
