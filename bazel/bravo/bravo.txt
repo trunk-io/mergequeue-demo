@@ -13150,7 +13150,6 @@ belve
 bonhomme
 bulbilis
 bregmatic
-bilging
 belonite
 borith
 blatherskites
@@ -17739,6 +17738,7 @@ bejabers
 buchonite
 benempt
 billian
+bilging
 blendor
 bott
 burnfire
