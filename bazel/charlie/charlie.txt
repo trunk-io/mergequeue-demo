@@ -15668,7 +15668,6 @@ clauses
 coauthor
 coattends
 craniotympanic
-compresses
 cartilaginification
 clausthalite
 claustral
@@ -16301,6 +16300,7 @@ clypeated
 clypeiform
 clypeola
 clypeolar
+compresses
 canelos
 clipped
 clippers
