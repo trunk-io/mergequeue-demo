@@ -2027,7 +2027,6 @@ achatinidae
 act
 ache
 attourne
-abrogated
 acheat
 academy
 actuation
@@ -21805,6 +21804,7 @@ agricultural
 adiantiform
 anoxemias
 alfoncino
+abrogated
 acrochordon
 afternote
 alister
