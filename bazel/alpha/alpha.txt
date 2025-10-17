@@ -5345,7 +5345,6 @@ antis
 actable
 afteract
 asepticize
-appetitive
 aphizog
 afterlife
 atbash
@@ -6486,6 +6485,7 @@ arithmancy
 afterripening
 arbalestre
 apocarpous
+appetitive
 aiel
 aias
 astragals
