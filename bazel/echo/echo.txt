@@ -3154,7 +3154,6 @@ expressman
 eleut
 epirrheme
 exclamative
-epigonousepigons
 elongation
 egbert
 erythematic
@@ -3805,6 +3804,7 @@ emeute
 engrieve
 emersed
 eophyte
+epigonousepigons
 estivator
 endoaortitis
 emesa
