@@ -4905,6 +4905,7 @@ cypseli
 cry
 cornific
 carton
+configured
 cartoner
 cartonful
 caverned
@@ -25104,7 +25105,6 @@ crucifyfied
 comade
 cordlike
 cyclocoelous
-configured
 cordobas
 collectivise
 cordon
