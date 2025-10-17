@@ -3658,7 +3658,6 @@ bultow
 ballgame
 breakermen
 bobflies
-bacterian
 broadcast
 baysmelt
 betatrons
@@ -6736,6 +6735,7 @@ berry
 banshee
 biramose
 bedscrew
+bacterian
 bumpier
 busulfan
 ballast
