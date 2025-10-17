@@ -534,7 +534,6 @@ backstreet
 battues
 bombsights
 bicentennial
-borborygmus
 backtender
 buskers
 blatchang
@@ -1614,6 +1613,7 @@ besoms
 balmorals
 bedticks
 bathless
+borborygmus
 bated
 bummery
 bistorta
