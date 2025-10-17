@@ -6836,6 +6836,7 @@ entopic
 enc
 enddamage
 endiablee
+ether
 elling
 endoskeletons
 epiblastic
@@ -10006,7 +10007,6 @@ evirate
 erthling
 ecb
 electrophoresed
-ether
 elasticum
 essoins
 entering
