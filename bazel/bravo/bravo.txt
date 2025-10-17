@@ -2764,7 +2764,6 @@ barotrauma
 bulgurs
 beltane
 bravest
-bapistery
 blk
 barouchette
 bozzetto
@@ -12896,6 +12895,7 @@ bulger
 briza
 barracuda
 basidiolichenes
+bapistery
 bibliog
 blipped
 boondoggling
