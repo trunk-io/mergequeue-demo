@@ -11710,7 +11710,6 @@ excels
 endothecia
 ecbole
 eutechnic
-extrathecal
 ellinge
 eosophobia
 enlumine
@@ -13002,6 +13001,7 @@ emerizing
 enchantments
 electorate
 epidermose
+extrathecal
 ethanolysis
 epidermomycosis
 estragole
