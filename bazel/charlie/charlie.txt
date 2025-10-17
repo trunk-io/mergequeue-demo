@@ -17967,7 +17967,6 @@ coeff
 copperplate
 coefficients
 coelacanth
-coelacanthidae
 coelacanthous
 coelar
 coelastraceous
@@ -31072,6 +31071,7 @@ cunenei
 clinologic
 coue
 combs
+coelacanthidae
 cubehead
 cunette
 choanite
