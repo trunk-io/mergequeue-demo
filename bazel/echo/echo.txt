@@ -4816,7 +4816,6 @@ epact
 encountered
 euphyllite
 enterostasis
-encountering
 equilibrate
 ecize
 exhalate
@@ -13954,6 +13953,7 @@ exsuperance
 evocations
 enchalice
 ensigncy
+encountering
 erythrocarpous
 epinicial
 eulachans
