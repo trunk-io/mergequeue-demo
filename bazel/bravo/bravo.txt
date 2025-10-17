@@ -8355,7 +8355,6 @@ bijou
 bhandar
 bathylimnetic
 brassic
-blennorrhagic
 boltholes
 burbankian
 becost
@@ -15668,6 +15667,7 @@ belate
 bonnetieres
 bonitoes
 bromeliaceous
+blennorrhagic
 bacteriologist
 beakerful
 bundlet
