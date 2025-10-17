@@ -1402,6 +1402,7 @@ autoinoculable
 aeciospore
 accessorize
 astrometric
+angularize
 acciaccaturas
 atypicality
 accidential
@@ -6429,7 +6430,6 @@ atresy
 amebula
 ahir
 armour
-angularize
 acharne
 amalings
 abductores
