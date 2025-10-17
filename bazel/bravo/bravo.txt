@@ -2178,6 +2178,7 @@ batiste
 busthead
 bowfront
 bast
+bartholomite
 blousons
 bishopscap
 becursed
@@ -2276,7 +2277,6 @@ breakability
 broadswords
 bagger
 benshea
-bartholomite
 burundi
 blackheads
 blameably
