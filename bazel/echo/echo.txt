@@ -3432,7 +3432,6 @@ embers
 epees
 epitaphize
 exing
-exceptionality
 eclipse
 escorial
 enshelter
@@ -3921,6 +3920,7 @@ epitases
 estreating
 exilarch
 embroglio
+exceptionality
 extraspherical
 equisetales
 eventides
