@@ -10009,7 +10009,6 @@ doctrinable
 doek
 dace
 dilaceration
-dimensioning
 decimates
 designate
 diphenyl
@@ -15374,6 +15373,7 @@ descendability
 diminutiveness
 dislike
 domba
+dimensioning
 disposal
 decocts
 disbogue
