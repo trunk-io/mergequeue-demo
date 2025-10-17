@@ -2270,6 +2270,7 @@ bournonite
 brimfullness
 braggers
 breakability
+broadswords
 bagger
 benshea
 bartholomite
@@ -16384,7 +16385,6 @@ backband
 beetmister
 boors
 barrenwort
-broadswords
 blossombill
 bad
 briskened
