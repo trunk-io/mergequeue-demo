@@ -5404,7 +5404,6 @@ enclosable
 endseal
 enfirm
 epopee
-extra
 epepophysis
 evaporations
 elliptic
@@ -13490,6 +13489,7 @@ electroharmonic
 eateries
 extraforaneous
 exsibilation
+extra
 evadable
 explicableness
 etymology
