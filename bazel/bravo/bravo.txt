@@ -9457,6 +9457,7 @@ brushoff
 bedirties
 brewhouses
 bourride
+bromonaphthalene
 birky
 birkremite
 boldine
@@ -15377,7 +15378,6 @@ bleeds
 bedstaves
 bierstuben
 biotaxy
-bromonaphthalene
 boggiest
 beefiness
 blaeness
