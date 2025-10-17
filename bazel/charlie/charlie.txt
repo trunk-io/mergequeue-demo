@@ -2467,6 +2467,7 @@ candleholder
 candlelight
 candlelighter
 chaloth
+choroti
 confraternities
 choosable
 candlelighting
@@ -28054,7 +28055,6 @@ coltish
 cinnamenyl
 comedic
 coxarthritis
-choroti
 controversal
 crajuru
 celebret
