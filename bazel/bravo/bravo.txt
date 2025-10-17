@@ -4126,7 +4126,6 @@ bishopbird
 blowball
 bingo
 bequeathable
-bellhanging
 berbamine
 barest
 blatherskite
@@ -12455,6 +12454,7 @@ bilabial
 bondmen
 bullyrock
 bookroom
+bellhanging
 bawdrick
 bivaulted
 bondslave
