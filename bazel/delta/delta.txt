@@ -2545,6 +2545,7 @@ distress
 demisheath
 dewar
 disrest
+diabology
 diswont
 dimmed
 dynasty
@@ -3886,7 +3887,6 @@ deism
 dreamer
 dolorogenic
 decentred
-diabology
 disacidify
 deistical
 dressages
