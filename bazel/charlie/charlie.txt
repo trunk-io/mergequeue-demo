@@ -16975,7 +16975,6 @@ culturine
 cenotaphs
 choledochoplasty
 chitlings
-consols
 cluricaune
 clusia
 clusiaceae
@@ -30219,6 +30218,7 @@ cogue
 caddises
 cystomyoma
 carbonising
+consols
 ceramist
 cerotype
 cornuses
