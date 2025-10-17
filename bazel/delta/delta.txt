@@ -438,6 +438,7 @@ degummer
 deities
 dodrantal
 degausses
+disconjure
 doblas
 dairt
 demonstrations
@@ -11577,7 +11578,6 @@ disconformities
 drupal
 depredate
 deutschemark
-disconjure
 dishwashing
 dustfall
 dermococcus
