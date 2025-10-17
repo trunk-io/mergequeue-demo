@@ -5878,6 +5878,7 @@ deliberators
 degradingness
 dirk
 depreciable
+duplicand
 depreciate
 drawlers
 deponents
@@ -7552,7 +7553,6 @@ designee
 declaimed
 dominators
 deuterocanonical
-duplicand
 deceases
 discobolus
 decatizer
