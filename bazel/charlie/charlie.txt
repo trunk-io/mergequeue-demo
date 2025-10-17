@@ -2801,7 +2801,6 @@ croconic
 cornbin
 contermine
 canonised
-canoniser
 cephalothoraces
 cotorture
 coambassador
@@ -21282,6 +21281,7 @@ churchmen
 contrasted
 cricoidectomy
 cospecific
+canoniser
 conceptualize
 coenenchym
 crosses
