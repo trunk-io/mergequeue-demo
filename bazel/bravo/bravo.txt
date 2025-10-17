@@ -3887,7 +3887,6 @@ besiegement
 beadmen
 beef
 beneventana
-beads
 builds
 barcelonas
 bockerel
@@ -10962,6 +10961,7 @@ bowses
 basta
 beaneries
 beckets
+beads
 bergamots
 begrudgingly
 bitripartite
