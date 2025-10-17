@@ -251,7 +251,6 @@ abbreviates
 abc
 archphilosopher
 adverse
-argling
 abdat
 argil
 apocryphon
@@ -11595,6 +11594,7 @@ anabolize
 ambulacrum
 autolytus
 alodiary
+argling
 addlebrained
 anacampsis
 assumptive
