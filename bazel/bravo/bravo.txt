@@ -4493,6 +4493,7 @@ bankable
 bomble
 besuit
 borborus
+behalves
 ballywack
 bloodstone
 bristlecone
@@ -16303,7 +16304,6 @@ biennial
 brr
 bullhead
 brrr
-behalves
 brannier
 barrington
 brotherless
