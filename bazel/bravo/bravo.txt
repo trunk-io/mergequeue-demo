@@ -7544,7 +7544,6 @@ belverdian
 bowmen
 barbudos
 blueys
-brobdingnag
 butterbump
 bedewoman
 bombacaceae
@@ -14775,6 +14774,7 @@ barytas
 bridemaiden
 brickliner
 boosted
+brobdingnag
 blunderer
 beggarweed
 brainfag
