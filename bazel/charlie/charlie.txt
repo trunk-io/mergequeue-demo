@@ -13352,7 +13352,6 @@ coulomb
 curatize
 chandlery
 cycloserine
-colortype
 cuppas
 cyclosporeae
 calyptras
@@ -31689,6 +31688,7 @@ cocozelle
 chiromancy
 cuspides
 chondromyxoma
+colortype
 cesuras
 carbuncled
 cotyloid
