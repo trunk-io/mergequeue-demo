@@ -8755,7 +8755,6 @@ bandhor
 bekissing
 basoche
 bual
-brewer
 bindweed
 benzal
 blin
@@ -9451,6 +9450,7 @@ begettal
 brichette
 balanophora
 bovidae
+brewer
 birectangular
 battels
 billycans
