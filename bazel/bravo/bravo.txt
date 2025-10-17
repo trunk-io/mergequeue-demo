@@ -743,7 +743,6 @@ banksman
 bifrost
 badiaga
 banderoled
-breathy
 boiler
 boneshaw
 bowlegged
@@ -12279,6 +12278,7 @@ barratrous
 busheling
 bartsia
 baptistery
+breathy
 bioscientist
 brillante
 beaugregory
