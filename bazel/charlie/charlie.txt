@@ -8250,6 +8250,7 @@ clawker
 chalcomenite
 chalcopyrite
 conyza
+chytridium
 cosmonaut
 chalcosiderite
 crocodilite
@@ -11461,7 +11462,6 @@ chutes
 counselling
 cascadable
 cyrenaicism
-chytridium
 coals
 cellist
 carib
