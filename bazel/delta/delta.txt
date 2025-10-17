@@ -5784,6 +5784,7 @@ dirties
 delists
 draughts
 dusun
+dialect
 diadrom
 debars
 downwardly
@@ -8385,7 +8386,6 @@ despeed
 duskly
 dg
 denierage
-dialect
 decolourized
 dargah
 demoded
