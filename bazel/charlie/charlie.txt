@@ -1651,7 +1651,6 @@ colouring
 calorizing
 cawing
 calosoma
-calotermes
 canap
 chelates
 compurgator
@@ -17034,6 +17033,7 @@ cathedra
 crassis
 cluttery
 clutterment
+calotermes
 consecratedness
 corundophilite
 composer
