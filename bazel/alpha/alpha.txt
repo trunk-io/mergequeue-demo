@@ -2600,7 +2600,6 @@ antimedical
 apartment
 aking
 acre
-acreage
 assuaged
 acephalous
 aulostomatidae
@@ -23729,6 +23728,7 @@ atrepsy
 aurums
 avifaunistic
 alopecurus
+acreage
 adzes
 academic
 agad
