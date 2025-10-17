@@ -9004,7 +9004,6 @@ egression
 erythroblast
 evertor
 erythroblastic
-emparl
 ejector
 enstar
 epithumetic
@@ -11253,6 +11252,7 @@ ekka
 epiperipheral
 endolemma
 excursion
+emparl
 evese
 elided
 evetide
