@@ -5189,6 +5189,7 @@ boxberries
 beswitch
 beleaguers
 boatloader
+backswordsman
 billheads
 bughouses
 ballistophobia
@@ -13943,7 +13944,6 @@ bowie
 baized
 balr
 buchite
-backswordsman
 beadiest
 bejape
 braireau
