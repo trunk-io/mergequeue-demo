@@ -6820,7 +6820,6 @@ dietzeite
 desiredly
 distruster
 disintrench
-drawstring
 daub
 ductilimeter
 diminuendos
@@ -14436,6 +14435,7 @@ devaunt
 downstair
 doctrix
 demeaned
+drawstring
 dicast
 definitional
 dielytra
