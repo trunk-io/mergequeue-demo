@@ -2475,7 +2475,6 @@ chemist
 cerevis
 candler
 cytoblastemal
-candlerent
 curiara
 chitra
 chirograph
@@ -3871,6 +3870,7 @@ carbungi
 campanilla
 cardiograms
 continuancy
+candlerent
 caraguata
 coadventurer
 carburetant
