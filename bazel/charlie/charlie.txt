@@ -4911,7 +4911,6 @@ cassettes
 centref
 chasm
 curmudgeon
-cust
 costrel
 chiclero
 cephalically
@@ -7567,6 +7566,7 @@ cerebellifugal
 cerebellocortex
 cerebellorubral
 calibrations
+cust
 creator
 cleidarthritis
 cerebral
