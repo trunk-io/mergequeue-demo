@@ -11821,7 +11821,6 @@ blastophoral
 bioresearch
 bethel
 bare
-bathmats
 batiks
 bod
 barebone
@@ -14931,6 +14930,7 @@ burning
 bushmaking
 breakers
 banally
+bathmats
 bedstock
 bosnian
 biconic
