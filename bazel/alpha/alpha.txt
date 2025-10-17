@@ -2793,7 +2793,6 @@ antipestilence
 airway
 acedy
 acronymic
-acronomy
 argel
 apium
 azaleas
@@ -10517,6 +10516,7 @@ amidoplast
 albumenized
 amaryllid
 abjunction
+acronomy
 appointed
 amidoplastid
 approximator
