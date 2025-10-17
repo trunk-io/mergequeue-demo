@@ -8721,6 +8721,7 @@ confabulation
 chantry
 chanukah
 credibilities
+cheque
 chaotic
 coccoid
 catastaltic
@@ -29174,7 +29175,6 @@ cinefaction
 chirruping
 corrup
 conferree
-cheque
 cotillons
 cryogeny
 callidity
