@@ -292,7 +292,6 @@ appunctuation
 attester
 aphydrotropism
 aulete
-ambitions
 aer
 als
 axiomatic
@@ -6490,6 +6489,7 @@ arbalestre
 apocarpous
 aiel
 aias
+ambitions
 aligerous
 antibaryon
 approbator
