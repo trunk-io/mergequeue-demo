@@ -5447,6 +5447,7 @@ checkbits
 catabolized
 camphols
 claim
+checkmate
 curwhibble
 cardboard
 counterwrite
@@ -18246,7 +18247,6 @@ catchment
 catenaries
 coextends
 chessboards
-checkmate
 coextent
 castrating
 cofane
