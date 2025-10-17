@@ -5172,6 +5172,7 @@ cassicus
 cassidid
 cassididae
 capistrate
+calcimeter
 cassidulina
 cassiduloid
 charterage
@@ -24903,7 +24904,6 @@ coryzas
 coracle
 coracobrachial
 coraciidae
-calcimeter
 coracobrachialis
 cahow
 cosheries
