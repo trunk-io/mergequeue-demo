@@ -440,7 +440,6 @@ deckle
 daunder
 dayrooms
 degummer
-deities
 dodrantal
 degausses
 disconjure
@@ -5860,6 +5859,7 @@ debating
 diamidogen
 deafforest
 destrier
+deities
 disestablishes
 dentil
 duplet
