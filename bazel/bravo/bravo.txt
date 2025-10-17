@@ -1056,7 +1056,6 @@ bodiment
 bpi
 bending
 brushet
-bedizenment
 blower
 begattal
 braciole
@@ -1881,6 +1880,7 @@ bremsstrahlung
 bugwort
 bandyball
 beforetime
+bedizenment
 beatifies
 bandsman
 brigands
