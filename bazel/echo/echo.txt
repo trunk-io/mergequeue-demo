@@ -7505,6 +7505,7 @@ endings
 electrocapillarity
 evaporation
 equivalently
+enclitics
 enterocoelous
 extrapoetical
 extravertive
@@ -12674,7 +12675,6 @@ exostra
 edificant
 ethnolinguist
 engraves
-enclitics
 exoteric
 engineered
 exoterica
