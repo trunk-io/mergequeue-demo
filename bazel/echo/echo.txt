@@ -2496,6 +2496,7 @@ equipped
 edibility
 electrometallurgist
 emptiable
+exor
 euhemerizing
 exstrophy
 exaggerative
@@ -8621,7 +8622,6 @@ exclusivist
 electrotropism
 equinate
 estival
-exor
 east
 estimably
 encowl
