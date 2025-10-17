@@ -2234,7 +2234,6 @@ cryptocarya
 completer
 cromorne
 canalboat
-charales
 canale
 canaled
 cobs
@@ -4393,6 +4392,7 @@ carlylean
 chiromantical
 carlylian
 consignation
+charales
 carlino
 carlins
 coccigenic
