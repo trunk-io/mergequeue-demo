@@ -1161,7 +1161,6 @@ balneologist
 bullcomber
 beleaguered
 betterer
-bootloader
 bakerly
 bipinnatisected
 bavary
@@ -6601,6 +6600,7 @@ brangler
 bankbooks
 belies
 balancers
+bootloader
 blepharospasm
 biunity
 banquettes
