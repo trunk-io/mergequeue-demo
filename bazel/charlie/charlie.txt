@@ -3476,7 +3476,6 @@ captor
 capturable
 capture
 captured
-capturing
 complexionally
 chortler
 counterbase
@@ -20509,6 +20508,7 @@ connie
 cytogenetics
 cranioscopist
 companied
+capturing
 cembalist
 corncracker
 counterstatute
