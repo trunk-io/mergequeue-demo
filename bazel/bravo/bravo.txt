@@ -2861,6 +2861,7 @@ broad
 barrelled
 barrelmaker
 brassavola
+beraunite
 benzoxate
 barren
 bowyang
@@ -16658,7 +16659,6 @@ biborate
 buccaning
 blepharophyma
 blastogeny
-beraunite
 buccin
 bowllike
 biometry
