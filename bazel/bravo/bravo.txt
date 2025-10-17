@@ -6234,7 +6234,6 @@ boatwise
 bassaris
 buttonholder
 barracking
-brush
 braceleted
 boonies
 bimodulus
@@ -15903,6 +15902,7 @@ berberidaceae
 ballottable
 bumboats
 bowwort
+brush
 bluntly
 bindingly
 beno
