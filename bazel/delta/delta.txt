@@ -9037,7 +9037,6 @@ dialyzer
 distributiveness
 dichasium
 deash
-dictyophora
 deific
 disillusionised
 damagingly
@@ -16759,6 +16758,7 @@ diswood
 drastic
 disunion
 divagates
+dictyophora
 dirtfarmer
 decoction
 dialing
