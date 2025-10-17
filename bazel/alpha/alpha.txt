@@ -14117,6 +14117,7 @@ aortoptosia
 altazimuth
 antiprism
 antechoirs
+adjunctive
 adambulacral
 airplaned
 abditive
@@ -17390,7 +17391,6 @@ ampuls
 allowanced
 acetylsalol
 amassments
-adjunctive
 avoirdupois
 apostrophied
 askew
