@@ -412,6 +412,7 @@ error
 epidermidalization
 ectasia
 exoculation
+enterococcal
 electroresection
 estevin
 eosaurus
@@ -7603,7 +7604,6 @@ exocrine
 enid
 eoliths
 epicortical
-enterococcal
 esere
 enterogastritis
 epicotyls
