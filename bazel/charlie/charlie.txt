@@ -8455,6 +8455,7 @@ calcydon
 citellus
 crookeder
 cook
+chemosensitive
 confiscator
 chrismon
 choribi
@@ -14031,7 +14032,6 @@ climatometer
 catstitch
 cippus
 confirmative
-chemosensitive
 cecca
 charier
 chamacoco
