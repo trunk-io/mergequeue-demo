@@ -11584,6 +11584,7 @@ cholecystogram
 cholecystography
 cholecystokinin
 cholecystolithiasis
+comptrol
 cholecystostomy
 choledochal
 chironomus
@@ -30109,7 +30110,6 @@ carnivores
 circumambiencies
 cheson
 crocodilus
-comptrol
 cephalophorous
 crowder
 crowdies
