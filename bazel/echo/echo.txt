@@ -409,6 +409,7 @@ extraneous
 endoconidium
 extorsion
 expenditure
+error
 epidermidalization
 exoculation
 electroresection
@@ -9237,7 +9238,6 @@ eyer
 embosk
 esopgi
 electrophoretically
-error
 endoscope
 enfranchiser
 epicyte
