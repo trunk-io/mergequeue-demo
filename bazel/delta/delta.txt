@@ -1651,7 +1651,6 @@ diablery
 deeper
 diapnoe
 daundered
-deobstruct
 diffarreation
 devotional
 daunter
@@ -3084,6 +3083,7 @@ drahthaar
 disbodied
 demihuman
 diaphane
+deobstruct
 destructibleness
 desoxyribose
 dotty
