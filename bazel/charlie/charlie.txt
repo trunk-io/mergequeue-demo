@@ -9902,6 +9902,7 @@ chemosmotic
 consumptible
 clays
 cresamine
+centerwise
 cohanims
 chronobiology
 contributary
@@ -13345,7 +13346,6 @@ cycloplegic
 coccolithophorid
 cyclopteridae
 compensational
-centerwise
 compactification
 czarist
 cyclopterous
