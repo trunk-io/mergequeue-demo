@@ -4783,6 +4783,7 @@ crosstie
 carriagesmith
 cinchonicin
 carryall
+coleopteroid
 carrick
 carrycot
 crossflower
@@ -10890,7 +10891,6 @@ chipmunk
 claviharp
 chadri
 chipolata
-coleopteroid
 chippendale
 classicizing
 chippered
