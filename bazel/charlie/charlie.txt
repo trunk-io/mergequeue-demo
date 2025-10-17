@@ -3279,7 +3279,6 @@ celsius
 cuchan
 carrots
 capote
-capouches
 cellarous
 crypted
 capparis
@@ -27867,6 +27866,7 @@ coquitos
 coxes
 chondrogeny
 coxite
+capouches
 coxitis
 containerboard
 compressure
