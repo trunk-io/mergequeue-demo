@@ -4795,6 +4795,7 @@ chimlas
 calciferol
 calyptro
 carryouts
+crewmen
 crosshatched
 carritches
 carriwitchet
@@ -28928,7 +28929,6 @@ crewing
 cutwal
 crewman
 crewmanship
-crewmen
 circumrotated
 crewneck
 capsheaf
