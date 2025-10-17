@@ -1575,7 +1575,6 @@ engrams
 exhortations
 eide
 exsiccator
-excepter
 epiblema
 enthral
 encephalomas
@@ -4661,6 +4660,7 @@ equulei
 epiphytal
 emma
 epichristian
+excepter
 esguard
 everybody
 empathize
