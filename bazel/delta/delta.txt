@@ -15026,6 +15026,7 @@ deprogram
 dogear
 dogears
 dogedom
+disownable
 diptote
 dipppy
 dustproof
@@ -18532,7 +18533,6 @@ downgrading
 durative
 dustwoman
 decolonisation
-disownable
 degger
 distortional
 dissilition
