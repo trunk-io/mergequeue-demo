@@ -8665,7 +8665,6 @@ channelure
 cestus
 chronoscope
 chansonette
-commissionaire
 chansonnette
 chansonniers
 chantey
@@ -19249,6 +19248,7 @@ cosmetic
 collum
 collun
 couthe
+commissionaire
 collunaria
 conceptism
 conjugatae
