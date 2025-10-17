@@ -11058,7 +11058,6 @@ defiers
 deboistness
 diasystem
 demolish
-demand
 disabuse
 disaligned
 dissocialize
@@ -17432,6 +17431,7 @@ downsman
 downtimes
 dobies
 drivepipe
+demand
 dipropyl
 dietzeite
 dereism
