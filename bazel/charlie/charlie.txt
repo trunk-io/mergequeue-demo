@@ -3243,7 +3243,6 @@ cirripede
 cotters
 cowgram
 chimbleys
-connivant
 confederal
 celli
 convicts
@@ -17150,6 +17149,7 @@ cryptogenetic
 coadunite
 coadventured
 coadventuring
+connivant
 coadvice
 coaffirmation
 coafforest
