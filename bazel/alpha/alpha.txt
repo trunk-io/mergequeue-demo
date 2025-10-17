@@ -4699,7 +4699,6 @@ aneroids
 acutifoliate
 aerifies
 amphodelite
-anisole
 arthrodiran
 antiparabemata
 adglutinate
@@ -13535,6 +13534,7 @@ autostethoscope
 actuator
 arneb
 autotropism
+anisole
 armigeri
 abaser
 airmass
