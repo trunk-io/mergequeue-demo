@@ -4278,7 +4278,6 @@ delthyrial
 disilane
 debruising
 donna
-deltohedron
 dogvanes
 daedalian
 dauerlauf
@@ -8143,6 +8142,7 @@ drawable
 dhurra
 dihydride
 deedbote
+deltohedron
 detrimentalness
 daphnoid
 disherited
