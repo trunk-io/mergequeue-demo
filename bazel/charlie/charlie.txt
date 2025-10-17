@@ -25831,7 +25831,6 @@ corrosives
 calcars
 corrosivity
 chemasthenia
-chacra
 cytomorphology
 concetto
 colophonate
@@ -27666,6 +27665,7 @@ cowages
 cowardice
 croquignole
 cowardish
+chacra
 cannibalistic
 cencerro
 cowardly
