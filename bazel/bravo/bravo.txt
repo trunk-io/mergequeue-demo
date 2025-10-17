@@ -3990,6 +3990,7 @@ baisemain
 bakerite
 banning
 biassing
+branchstand
 bloomerism
 beseem
 baroclinicity
@@ -7980,7 +7981,6 @@ booklift
 bartend
 beginner
 biguanide
-branchstand
 bonzer
 beltmaking
 bicornute
