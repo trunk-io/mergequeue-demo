@@ -9584,6 +9584,7 @@ editchar
 explode
 eurytherm
 espino
+ensilate
 evilsayer
 epiglottiditis
 exsec
@@ -13108,7 +13109,6 @@ extramural
 elsehow
 eggnogs
 existlessness
-ensilate
 expiration
 evolutionists
 exfoliation
