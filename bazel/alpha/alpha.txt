@@ -6717,6 +6717,7 @@ anta
 airdate
 afterband
 acetylglycin
+achates
 airdrome
 algetic
 analysands
@@ -17349,7 +17350,6 @@ airlock
 annoys
 avolation
 anaesthetic
-achates
 antiradicals
 aequoreal
 arctogaea
