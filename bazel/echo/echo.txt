@@ -10328,7 +10328,6 @@ entomion
 endomyces
 electrochronometer
 eviscerated
-ecchymotic
 enate
 exotoxin
 ectocondyle
@@ -12391,6 +12390,7 @@ everywheres
 embarrel
 engramma
 empetrum
+ecchymotic
 epigraphic
 eremacausis
 electrochemist
