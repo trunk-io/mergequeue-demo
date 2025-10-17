@@ -1763,6 +1763,7 @@ beslime
 bullose
 brushable
 bialystoker
+bannets
 bandaging
 bowlin
 beaverpelt
@@ -12170,7 +12171,6 @@ burbots
 boldo
 benzofluorene
 baruria
-bannets
 basti
 bannition
 boldos
