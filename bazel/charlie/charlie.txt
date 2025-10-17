@@ -5746,7 +5746,6 @@ chace
 category
 choledoch
 cinurous
-categorial
 chieftainship
 cylindrocephalic
 categoric
@@ -27421,6 +27420,7 @@ coursers
 courses
 coursing
 courtage
+categorial
 chuppoth
 centiliter
 courtal
