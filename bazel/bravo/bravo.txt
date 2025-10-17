@@ -5074,6 +5074,7 @@ before
 biotic
 borings
 biblicist
+bindle
 broadside
 beggarer
 brahmanic
@@ -9644,7 +9645,6 @@ bolsterer
 beduck
 bennets
 barberish
-bindle
 bishopstool
 bishopweed
 bandaite
