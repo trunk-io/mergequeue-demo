@@ -5159,7 +5159,6 @@ cassata
 clodding
 cassation
 caveats
-cassegrain
 chromomeric
 congressist
 cassegrainian
@@ -6604,6 +6603,7 @@ convolvement
 cedars
 cedarwood
 coadjuvancy
+cassegrain
 creply
 chrobat
 ceded
