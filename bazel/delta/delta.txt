@@ -1141,7 +1141,6 @@ devex
 dolichocephaly
 diau
 disrobers
-dasyatis
 denormalized
 dire
 dizaine
@@ -6274,6 +6273,7 @@ distrainer
 delicense
 dezincation
 dim
+dasyatis
 dermatolysis
 dort
 duchesnea
