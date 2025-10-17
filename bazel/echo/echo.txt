@@ -2257,7 +2257,6 @@ endleaves
 enteropneusta
 electrizable
 ethonomic
-electrization
 epicotyl
 encrypting
 enhort
@@ -13724,6 +13723,7 @@ encounterable
 epigonism
 ectoplasm
 extipulate
+electrization
 emberizine
 emigre
 entelluses
