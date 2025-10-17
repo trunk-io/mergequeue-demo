@@ -10555,7 +10555,6 @@ cadastral
 chiller
 confessionary
 chakram
-comino
 chemicophysiological
 callable
 chestnut
@@ -16289,6 +16288,7 @@ clypeastridea
 carcajou
 clypeastrina
 conspicuous
+comino
 caraco
 carpetbag
 cleanskin
