@@ -3409,7 +3409,6 @@ enteraden
 ethnarchy
 ethions
 emetophobia
-eumorphic
 enfacing
 euclidian
 epionychia
@@ -4405,6 +4404,7 @@ endostosis
 eringoes
 enneadianome
 euro
+eumorphic
 enhunger
 ezekiel
 exposal
