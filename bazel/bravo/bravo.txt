@@ -8300,6 +8300,7 @@ bist
 bankside
 bloodier
 barrio
+bitstalk
 biserially
 boschveld
 benson
@@ -10837,7 +10838,6 @@ blepharism
 brosse
 bradford
 barouche
-bitstalk
 bulkish
 bricole
 blesmol
