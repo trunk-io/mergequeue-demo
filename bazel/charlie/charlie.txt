@@ -3514,7 +3514,6 @@ cobnuts
 colorist
 chauri
 carabine
-characterology
 cohelpership
 carabiner
 carabineros
@@ -20433,6 +20432,7 @@ commutant
 commutated
 colemouse
 corpusculous
+characterology
 commutation
 commutatively
 codeine
