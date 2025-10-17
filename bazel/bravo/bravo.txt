@@ -1394,7 +1394,6 @@ beflags
 bouffants
 bande
 bops
-bilch
 bedye
 bohunk
 bight
@@ -5683,6 +5682,7 @@ belike
 bet
 bogeying
 bribes
+bilch
 bernicles
 belime
 barrator
