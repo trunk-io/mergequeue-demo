@@ -1954,6 +1954,7 @@ bindweeds
 banishing
 brotan
 bloomers
+batamote
 banishment
 banyuls
 baniva
@@ -4796,7 +4797,6 @@ by
 banged
 beltwise
 bandcase
-batamote
 bullyragging
 bourkha
 benzoxycamphor
