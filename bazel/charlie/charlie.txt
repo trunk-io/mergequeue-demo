@@ -10641,7 +10641,6 @@ canvasback
 contributes
 crosscourt
 claustrophobe
-claimsmen
 calliope
 coaggregate
 conglomerated
@@ -21375,6 +21374,7 @@ countenance
 celiitis
 claviol
 conchometry
+claimsmen
 cogitated
 couponed
 conchae
