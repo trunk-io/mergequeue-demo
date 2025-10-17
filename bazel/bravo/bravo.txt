@@ -143,7 +143,6 @@ brimmer
 belay
 biternate
 brabantine
-burelle
 bourne
 banister
 boojum
@@ -5555,6 +5554,7 @@ buffer
 burrio
 beleaps
 basophile
+burelle
 biotype
 buzzes
 beknow
