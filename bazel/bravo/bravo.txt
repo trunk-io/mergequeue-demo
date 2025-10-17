@@ -10279,7 +10279,6 @@ biofeedback
 berries
 bedaggle
 buttonhook
-buckaroos
 bundocks
 bellweather
 bulldogs
@@ -13019,6 +13018,7 @@ berthold
 boardinghouses
 bootman
 balboas
+buckaroos
 boots
 bottoms
 bittersweet
