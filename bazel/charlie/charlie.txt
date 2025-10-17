@@ -5571,7 +5571,6 @@ cordaitean
 catamount
 concentre
 clarified
-catanadromous
 camphorwood
 catapasm
 chalkpit
@@ -15864,6 +15863,7 @@ cleavable
 cleavage
 crassities
 cleavages
+catanadromous
 cleaveful
 cleavelandite
 contentness
