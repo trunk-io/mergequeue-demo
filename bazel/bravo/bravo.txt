@@ -5188,7 +5188,6 @@ boatloader
 backswordsman
 billheads
 bughouses
-ballistophobia
 beggarhood
 bidiagonal
 befurbelowed
@@ -18057,6 +18056,7 @@ bennettites
 benzoin
 braconniere
 betoken
+ballistophobia
 bragged
 baptizable
 beefwood
