@@ -142,7 +142,6 @@ brimmer
 belay
 biternate
 brabantine
-ballsy
 burelle
 bourne
 banister
@@ -5275,6 +5274,7 @@ begirt
 buffoonism
 bacilliculture
 bogies
+ballsy
 blatant
 bensail
 burka
