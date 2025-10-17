@@ -2304,7 +2304,6 @@ bibliographers
 bubbletops
 barbotine
 banig
-benzonaphthol
 biolysis
 belligerency
 bajocian
@@ -6383,6 +6382,7 @@ baculi
 bedazzled
 benedight
 breakup
+benzonaphthol
 bibliophagic
 bravadoed
 benzopyrazolone
