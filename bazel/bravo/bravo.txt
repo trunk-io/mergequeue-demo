@@ -3932,7 +3932,6 @@ berri
 brutify
 bakeoven
 banditti
-barebones
 bubonic
 bulanda
 beeve
@@ -12645,6 +12644,7 @@ blackballer
 billowier
 billposting
 braccate
+barebones
 basal
 biconvexity
 bakshaish
