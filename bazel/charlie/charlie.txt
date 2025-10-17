@@ -5162,7 +5162,6 @@ cultist
 custodiam
 crwth
 cassady
-clochard
 champacs
 codium
 carrow
@@ -13942,6 +13941,7 @@ computerize
 cynomorium
 campal
 coalesces
+clochard
 cynomorphic
 caber
 chloroanemia
