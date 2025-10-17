@@ -3487,6 +3487,7 @@ bathool
 boomkins
 barres
 bathophobia
+biofog
 biocoenose
 bathrobes
 batholiths
@@ -12737,7 +12738,6 @@ blackboards
 brennschluss
 babydom
 behaviour
-biofog
 blastophthoric
 baculite
 biwa
