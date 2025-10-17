@@ -4114,7 +4114,6 @@ apicula
 agalwood
 acinuni
 adjutage
-adopted
 adital
 alternity
 archonship
@@ -5266,6 +5265,7 @@ autogiro
 alcyoniform
 afikomen
 agons
+adopted
 arawakan
 argans
 axillas
