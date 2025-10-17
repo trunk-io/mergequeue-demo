@@ -5699,6 +5699,7 @@ cannon
 cultivatability
 cowpock
 catchline
+choribi
 catchphrase
 catchpole
 camiknickers
@@ -8467,7 +8468,6 @@ cuproplumbite
 chemosensitive
 confiscator
 chrismon
-choribi
 cumbers
 chinner
 chamoisite
