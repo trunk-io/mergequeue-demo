@@ -1497,7 +1497,6 @@ agglutinoid
 adventureful
 accorder
 antimetabolite
-accordion
 ande
 albert
 alcade
@@ -20640,6 +20639,7 @@ actionability
 assimulate
 abstractor
 arrased
+accordion
 afterswarm
 amphigouris
 avail
