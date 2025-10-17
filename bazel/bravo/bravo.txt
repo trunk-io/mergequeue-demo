@@ -3666,7 +3666,6 @@ breakout
 beetlestock
 batz
 bestubble
-biosynthesize
 batzen
 blundering
 brujas
@@ -8692,6 +8691,7 @@ baulked
 berendo
 biuniquely
 bemixt
+biosynthesize
 bradycardia
 bimotors
 bosc
