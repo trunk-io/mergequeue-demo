@@ -11762,7 +11762,6 @@ anaglyptographic
 aswash
 aquarian
 armorbearer
-acheer
 andromed
 acacatechin
 actium
@@ -22374,6 +22373,7 @@ astrogeologist
 adeem
 angletwitch
 antipode
+acheer
 anniversaries
 astroglia
 actify
