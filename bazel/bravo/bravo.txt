@@ -12999,7 +12999,6 @@ baryphonic
 basilisks
 bikhaconitine
 botocudo
-basipterygoid
 breathability
 bewinged
 boozes
@@ -15146,6 +15145,7 @@ bunodont
 byeworker
 boar
 brewages
+basipterygoid
 bogier
 bitters
 baldicoot
