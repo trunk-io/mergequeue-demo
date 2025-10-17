@@ -7292,7 +7292,6 @@ crisis
 cepaceous
 cepe
 cepes
-civ
 chatchkas
 conchitis
 clincher
@@ -10866,6 +10865,7 @@ chamecephalus
 chionodoxa
 circumcising
 controvertibility
+civ
 centropomus
 cinnoline
 chip
