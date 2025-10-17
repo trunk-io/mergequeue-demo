@@ -2721,7 +2721,6 @@ endosteomas
 ensiling
 eyne
 euthytropic
-epiclesis
 eleidin
 encarpi
 entomolegist
@@ -11797,6 +11796,7 @@ excited
 enormity
 eulytin
 essentiality
+epiclesis
 etymologicon
 embassage
 electrogilding
