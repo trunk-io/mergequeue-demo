@@ -3700,6 +3700,7 @@ dictic
 diam
 disrupts
 dinumeration
+dipsos
 duplicident
 depose
 disaltern
@@ -9902,7 +9903,6 @@ dextrinize
 dolomitising
 daiva
 dysoxidize
-dipsos
 dermatocyst
 dillesk
 denumerable
