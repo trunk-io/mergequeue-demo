@@ -8417,6 +8417,7 @@ disk
 disruptable
 domajig
 denunciated
+diffusion
 dioestrum
 duchies
 debye
@@ -10603,7 +10604,6 @@ declination
 dimpling
 demiking
 dauw
-diffusion
 dackers
 dicrotic
 discoidea
