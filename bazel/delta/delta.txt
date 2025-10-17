@@ -2392,7 +2392,6 @@ defrosting
 dino
 dewclaw
 dubitante
-diceboard
 diplontic
 disfavourable
 diploidion
@@ -14613,6 +14612,7 @@ divisive
 dryops
 deuteroelastose
 divisively
+diceboard
 demilune
 develope
 diffractively
