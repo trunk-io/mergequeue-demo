@@ -2645,7 +2645,6 @@ baron
 bemaul
 barnman
 bosser
-blurbs
 brawlier
 basileus
 barnstormer
@@ -14885,6 +14884,7 @@ basaltware
 blankbook
 burnet
 begorra
+blurbs
 bechalking
 bungos
 bazar
