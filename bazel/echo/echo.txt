@@ -5178,7 +5178,6 @@ estampage
 electrostatic
 epicist
 eyewitnesses
-exhumation
 eastings
 electroballistician
 ectal
@@ -9074,6 +9073,7 @@ electroencephalographic
 enterograph
 escorting
 endochorionic
+exhumation
 ethinyl
 escalloniaceae
 epenthetic
