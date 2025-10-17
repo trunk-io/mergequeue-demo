@@ -1243,7 +1243,6 @@ burgomaster
 bari
 boldoine
 begum
-bags
 blacklight
 blathers
 bescent
@@ -2891,6 +2890,7 @@ blobby
 blastogenic
 bedrivel
 barricaded
+bags
 beltian
 barricadoes
 bezzo
