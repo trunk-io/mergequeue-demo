@@ -1050,7 +1050,6 @@ dharmasutra
 disulfuret
 difficulty
 daybooks
-dialogues
 deals
 dumfounding
 dinnerly
@@ -14575,6 +14574,7 @@ dummered
 doughty
 democritean
 diastatic
+dialogues
 divinability
 detachably
 disseize
