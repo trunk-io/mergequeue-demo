@@ -3918,6 +3918,7 @@ brutify
 bakeoven
 banditti
 barebones
+bubonic
 bulanda
 beeve
 bedrock
@@ -14870,7 +14871,6 @@ burgheress
 budders
 brigous
 brazil
-bubonic
 bilgewater
 baronages
 bacchant
