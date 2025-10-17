@@ -3683,7 +3683,6 @@ elinvar
 elumbated
 erugation
 electroendosmotic
-exede
 echiuroidea
 exanthematous
 eriophyes
@@ -12155,6 +12154,7 @@ expose
 equimultiple
 expeded
 extramarginal
+exede
 exercising
 equimolecular
 eradicates
