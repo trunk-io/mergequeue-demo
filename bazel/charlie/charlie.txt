@@ -2204,6 +2204,7 @@ cinerama
 colatorium
 cytopahgous
 canakin
+collating
 canakins
 clonk
 cookeys
@@ -20995,7 +20996,6 @@ compressively
 carnivaler
 compressometer
 compressors
-collating
 chambering
 casseroles
 comprise
