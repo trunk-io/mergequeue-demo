@@ -3905,7 +3905,6 @@ dressages
 discastle
 dissect
 deemphasis
-deerdog
 documentation
 damone
 dinobryon
@@ -5603,6 +5602,7 @@ dynamometry
 decisionmake
 depended
 danknesses
+deerdog
 dolichopellic
 desensitizes
 dependingly
