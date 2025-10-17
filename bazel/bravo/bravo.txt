@@ -2874,6 +2874,7 @@ broad
 barrelled
 barrelmaker
 boules
+billfolds
 brassavola
 benzoxate
 barren
@@ -8520,7 +8521,6 @@ biocentric
 boutre
 bastionary
 bearskin
-billfolds
 bedunced
 ballaton
 briquette
