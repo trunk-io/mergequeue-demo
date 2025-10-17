@@ -11665,6 +11665,7 @@ cotangents
 cequi
 cardiopneumatic
 cholla
+crossable
 cryogen
 criniger
 chollas
@@ -11921,7 +11922,6 @@ choreographing
 calculabilities
 cerites
 cosmochemistry
-crossable
 chatelainry
 choreoid
 crocidolite
