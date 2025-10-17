@@ -12089,7 +12089,6 @@ extrapleural
 ecchymose
 ecclesiolater
 epanalepsis
-entempest
 exocyclica
 enki
 executress
@@ -13401,6 +13400,7 @@ enzymolysis
 energism
 embargoed
 expropriator
+entempest
 evaginate
 electrolyse
 electricalize
