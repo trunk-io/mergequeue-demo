@@ -2503,6 +2503,7 @@ eminency
 eatable
 empaling
 equipped
+edibility
 electrometallurgist
 emptiable
 euhemerizing
@@ -12580,7 +12581,6 @@ erythrocytolysis
 essoign
 explosive
 eelbobber
-edibility
 etoffe
 eremitism
 exonian
