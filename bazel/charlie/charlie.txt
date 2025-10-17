@@ -4148,6 +4148,7 @@ cardophagus
 clearwing
 carbamido
 chiron
+computation
 concreting
 crunt
 carabideous
@@ -17992,7 +17993,6 @@ cymraeg
 cholesteric
 chololith
 captiving
-computation
 ciborium
 centrosymmetric
 circumvolving
