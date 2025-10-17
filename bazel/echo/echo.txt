@@ -5616,6 +5616,7 @@ enforth
 exhumate
 edentates
 eryngos
+expandible
 excursuses
 exterminatrix
 eupatory
@@ -10704,7 +10705,6 @@ entosternum
 energising
 echini
 exponentiates
-expandible
 exurbia
 embassiate
 enamines
