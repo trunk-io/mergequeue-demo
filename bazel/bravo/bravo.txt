@@ -8305,7 +8305,6 @@ burrawang
 betask
 brasswork
 bimetallist
-baritonal
 brittle
 begorry
 binocle
@@ -12748,6 +12747,7 @@ baculite
 biwa
 bostryx
 booker
+baritonal
 boatkeeper
 bailsmen
 biometric
