@@ -9803,7 +9803,6 @@ chemick
 chemicker
 chemicoastrological
 chemicobiologic
-collocates
 chemicoluminescent
 carcinogenicity
 chemicophysical
@@ -12293,6 +12292,7 @@ christmasing
 christocentric
 christogram
 christolatry
+collocates
 condylura
 christological
 corseted
