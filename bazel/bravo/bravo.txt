@@ -10667,7 +10667,6 @@ biodynamics
 bouquet
 barbaresque
 barras
-bowllike
 branchiosaurus
 bouto
 beakier
@@ -16672,6 +16671,7 @@ blepharophyma
 blastogeny
 beraunite
 buccin
+bowllike
 biometry
 berascals
 botryogen
