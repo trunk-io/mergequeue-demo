@@ -1775,7 +1775,6 @@ chairmen
 carrys
 carucal
 cercelee
-camara
 camaraderie
 camarasaurus
 chopped
@@ -4827,6 +4826,7 @@ carrousels
 chaetodontid
 corallinaceae
 carses
+camara
 cubistic
 cogitable
 carsickness
