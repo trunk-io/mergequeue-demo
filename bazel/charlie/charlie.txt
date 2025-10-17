@@ -5166,6 +5166,7 @@ cultist
 custodiam
 crwth
 cassady
+charonian
 champacs
 codium
 carrow
@@ -30781,7 +30782,6 @@ chillumchee
 culicifuge
 culicinae
 cursed
-charonian
 columbite
 chiffon
 culicoides
