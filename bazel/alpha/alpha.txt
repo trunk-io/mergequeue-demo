@@ -9130,7 +9130,6 @@ annal
 abhorring
 akebi
 arusha
-alisp
 aristogenetic
 anemometric
 acanthodii
@@ -22774,6 +22773,7 @@ apropos
 acned
 adenophthalmia
 arad
+alisp
 autonegation
 atma
 anteposition
