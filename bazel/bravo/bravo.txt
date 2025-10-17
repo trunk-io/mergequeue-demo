@@ -5124,7 +5124,6 @@ backfield
 blahlaut
 blockout
 benignly
-bulkage
 blasphemously
 bowwows
 batonnier
@@ -9524,6 +9523,7 @@ blemishes
 buzzer
 barristership
 bagonet
+bulkage
 banff
 birdbanding
 bhavan
