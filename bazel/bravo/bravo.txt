@@ -10431,6 +10431,7 @@ blanketlike
 bemantle
 brimborion
 bowdrill
+battleship
 brothel
 bedriveled
 bibliophilistic
@@ -14806,7 +14807,6 @@ brauna
 bellmouth
 braunite
 bonbonniere
-battleship
 bacteriotherapeutic
 blende
 billa
