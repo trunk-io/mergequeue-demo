@@ -10604,6 +10604,7 @@ bourbon
 baptisteries
 biotelemetric
 bungwall
+bear
 biffies
 boxhauled
 blats
@@ -12740,7 +12741,6 @@ bowedness
 beparch
 blanche
 botcher
-bear
 benchless
 beetling
 baianism
