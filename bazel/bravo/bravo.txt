@@ -3421,7 +3421,6 @@ biri
 beroidae
 barlow
 batfowl
-batfowled
 bestore
 baulky
 bulbocavernosus
@@ -11466,6 +11465,7 @@ bestrut
 banewort
 boxthorn
 buffeter
+batfowled
 bagplant
 bluejacket
 bighead
