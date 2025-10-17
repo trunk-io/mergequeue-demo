@@ -3285,7 +3285,6 @@ bealtuinn
 blockades
 bittor
 bursae
-botanizer
 boxings
 basswood
 becoward
@@ -11703,6 +11702,7 @@ benders
 beneficience
 boattail
 bosks
+botanizer
 boatward
 breezy
 boatwright
