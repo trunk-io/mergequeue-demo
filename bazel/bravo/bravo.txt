@@ -461,6 +461,7 @@ bushwas
 bowstringed
 bewrought
 backscatter
+bathometry
 backscattered
 backscattering
 bacterioprotein
@@ -10007,7 +10008,6 @@ bivariant
 binodous
 barer
 brahmic
-bathometry
 bogan
 berbery
 barrenness
