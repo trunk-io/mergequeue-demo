@@ -5045,7 +5045,6 @@ endite
 encumbrous
 ethanol
 expanders
-entraps
 ergastic
 emodin
 eclairs
@@ -13667,6 +13666,7 @@ epitaxy
 edits
 ephebes
 exotisms
+entraps
 epiplasm
 equiaxe
 extoll
