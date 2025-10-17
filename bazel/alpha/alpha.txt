@@ -12034,7 +12034,6 @@ avionics
 archaeological
 antiwaste
 anas
-awd
 amplifiable
 anasa
 araphostic
@@ -24939,6 +24938,7 @@ acidnesses
 alioth
 afterpiece
 awarded
+awd
 antilogarithmic
 axmaker
 awarders
