@@ -5663,7 +5663,6 @@ entailment
 egotisticalness
 equisetic
 emerson
-expurgator
 encysting
 exameter
 elroquite
@@ -10906,6 +10905,7 @@ enforced
 epiphenomenally
 edo
 encraal
+expurgator
 erythrolysin
 evaluations
 enumerated
