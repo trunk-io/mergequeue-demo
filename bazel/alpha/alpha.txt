@@ -5343,7 +5343,6 @@ antis
 actable
 afteract
 asepticize
-aphizog
 afterlife
 atbash
 afterbirth
@@ -20000,6 +19999,7 @@ armoracia
 ampoules
 amblyopsidae
 aslope
+aphizog
 assumingness
 alastors
 anthriscus
