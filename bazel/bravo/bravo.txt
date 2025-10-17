@@ -2783,7 +2783,6 @@ barouni
 baroxyton
 beguilements
 battledores
-bioscopies
 branchiopodous
 bitterbump
 barbery
@@ -10065,6 +10064,7 @@ bixin
 blackfoot
 bummock
 blenders
+bioscopies
 byzantine
 bismillah
 bilander
