@@ -4515,7 +4515,6 @@ carnivorism
 cyanea
 conchylium
 colorationally
-carnosine
 clinkstone
 carnous
 carns
@@ -8741,6 +8740,7 @@ chapeled
 chivarees
 concion
 convalescency
+carnosine
 crenelle
 chapelgoing
 cockpits
