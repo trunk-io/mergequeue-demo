@@ -8286,6 +8286,7 @@ anchorages
 anteprohibition
 argolet
 aldhafara
+apolousis
 acetabularia
 abesse
 anelectrode
@@ -17199,7 +17200,6 @@ appreciates
 authenticator
 affile
 apologue
-apolousis
 apolune
 aerographies
 ajog
