@@ -3540,6 +3540,7 @@ eyeball
 extreme
 exteriorised
 extendable
+evaporability
 eumerogenesis
 epicyclic
 enripen
@@ -11106,7 +11107,6 @@ epoxying
 epilobe
 exterrestrial
 excursively
-evaporability
 excising
 estamin
 eutaxy
