@@ -6347,7 +6347,6 @@ claritude
 cauterization
 conchfish
 cauterizer
-cauterizes
 chorometry
 caution
 couve
@@ -10199,6 +10198,7 @@ counterstatant
 celerity
 cuticularize
 crease
+cauterizes
 chg
 chi
 codworm
