@@ -3379,7 +3379,6 @@ ectodactylism
 externum
 epidosite
 exploration
-epichorial
 embarks
 equipage
 electrochemistry
@@ -6556,6 +6555,7 @@ enteroepiplocele
 ermining
 eclosions
 evected
+epichorial
 excommunication
 epileptical
 eimer
