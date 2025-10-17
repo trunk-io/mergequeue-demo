@@ -2954,7 +2954,6 @@ bolt
 beansetter
 blintzes
 boller
-beigel
 bravoite
 barye
 baubee
@@ -4089,6 +4088,7 @@ bethump
 beachier
 buccaneer
 becater
+beigel
 bovinities
 bordeaux
 bonged
