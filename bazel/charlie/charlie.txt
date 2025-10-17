@@ -6419,7 +6419,6 @@ counterpropaganda
 crossbolt
 cavalryman
 crinigerous
-cavalrymen
 carbazide
 coryl
 coasting
@@ -12506,6 +12505,7 @@ chromoplast
 caustification
 congelation
 countergauger
+cavalrymen
 complaints
 charmer
 coachmaking
