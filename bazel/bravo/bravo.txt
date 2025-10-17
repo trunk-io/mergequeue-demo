@@ -2838,6 +2838,7 @@ berakes
 borboridae
 badinage
 barrater
+bailiary
 becrawls
 barreled
 botryolite
@@ -11618,7 +11619,6 @@ barche
 binucleated
 balloter
 basigynium
-bailiary
 boarwood
 boaster
 boastfully
