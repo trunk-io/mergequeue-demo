@@ -5585,6 +5585,7 @@ appointments
 abomas
 aphrasia
 abattue
+allocator
 apprehend
 awakenment
 articularly
@@ -9530,7 +9531,6 @@ aworth
 altruist
 altisonant
 amphidetic
-allocator
 aspersors
 altruists
 anchusins
