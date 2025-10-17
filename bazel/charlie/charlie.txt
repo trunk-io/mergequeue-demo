@@ -2980,7 +2980,6 @@ cyclostomidae
 coppersmith
 chickasaws
 canun
-canvas
 chaffinches
 calanid
 chiasmodon
@@ -26934,6 +26933,7 @@ coraciiformes
 counterhaft
 commensurableness
 chumar
+canvas
 counterhypothesis
 cabalic
 corflambo
