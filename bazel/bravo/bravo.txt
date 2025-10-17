@@ -2338,7 +2338,6 @@ bardcraft
 beleve
 buckhorn
 blowpoint
-branchling
 bobtails
 bardesanite
 bardess
@@ -9224,6 +9223,7 @@ bipedality
 baiginet
 bipeltate
 bipennate
+branchling
 barring
 blenching
 basenet
