@@ -2650,7 +2650,6 @@ barognosis
 bubastite
 boylas
 beltline
-byrrus
 bathymeter
 backset
 bismutoplagionite
@@ -13840,6 +13839,7 @@ bucrnia
 boutons
 bermudian
 barrelful
+byrrus
 backwardly
 bouvardia
 buffers
