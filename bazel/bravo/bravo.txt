@@ -1390,6 +1390,7 @@ boun
 beardy
 bandon
 batoneer
+beflags
 bouffants
 bande
 bops
@@ -13722,7 +13723,6 @@ bices
 bladder
 bloodsucker
 baud
-beflags
 bricksetter
 buffiest
 bielenite
