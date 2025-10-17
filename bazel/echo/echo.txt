@@ -526,6 +526,7 @@ evzones
 eurypharynx
 epidesmine
 elegance
+ectepicondylar
 ectromelia
 elytrostenosis
 eclaircissement
@@ -1783,7 +1784,6 @@ erinize
 emenders
 extemporizing
 ellenyard
-ectepicondylar
 engobe
 eudemony
 empaneling
