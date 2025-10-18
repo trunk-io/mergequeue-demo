@@ -541,7 +541,6 @@ denomination
 dovelike
 ditted
 dama
-damageability
 deisms
 determinedness
 deregister
@@ -6425,6 +6424,7 @@ depravedness
 dinoceratid
 diaglyphic
 diglottic
+damageability
 destoolment
 deminatured
 dustmen
