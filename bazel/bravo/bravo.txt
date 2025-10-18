@@ -828,7 +828,6 @@ buoyages
 bonbonnieres
 bls
 benzenoid
-biochron
 budget
 begoniaceae
 bronchioli
@@ -2794,6 +2793,7 @@ brushlessness
 bicep
 birchman
 barrad
+biochron
 bistipuled
 bridebowl
 bibulously
