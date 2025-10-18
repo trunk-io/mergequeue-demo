@@ -366,6 +366,7 @@ architectures
 aberrancy
 assayers
 aberrants
+afterform
 athyroidism
 aloha
 anemotaxis
@@ -15262,7 +15263,6 @@ atsara
 acquirer
 antigraph
 attraction
-afterform
 aerotactic
 antigravitate
 antirealistic
