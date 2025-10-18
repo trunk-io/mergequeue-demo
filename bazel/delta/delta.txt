@@ -10439,6 +10439,7 @@ demurrers
 dependencies
 ditton
 diopters
+diligentness
 diseur
 decumary
 drolushness
@@ -13309,7 +13310,6 @@ decor
 declares
 daygoing
 danseuses
-diligentness
 drachmae
 disprizes
 disprofitable
