@@ -14516,7 +14516,6 @@ dampness
 deaths
 defalcations
 decerebration
-defusing
 dracma
 doddypoll
 decadianome
@@ -17280,6 +17279,7 @@ dagassa
 dimorphisms
 degenerate
 desulfuring
+defusing
 diagnostics
 developpe
 dromon
