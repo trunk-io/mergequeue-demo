@@ -2046,7 +2046,6 @@ chemoreceptor
 cerebropsychosis
 cheekpiece
 conservators
-congeals
 compromisable
 campanulatae
 certificated
@@ -11188,6 +11187,7 @@ chloragogue
 chloral
 chloralformamide
 chemiluminescence
+congeals
 cupelling
 comburimeter
 camarade
