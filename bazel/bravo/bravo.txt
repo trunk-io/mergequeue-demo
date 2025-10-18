@@ -4235,7 +4235,6 @@ beclang
 burbark
 benzotrifuran
 becircled
-boers
 bawdric
 bredbergite
 bostanji
@@ -12258,6 +12257,7 @@ belace
 boltrope
 begrave
 barbarea
+boers
 budgeteer
 brunetness
 burgall
