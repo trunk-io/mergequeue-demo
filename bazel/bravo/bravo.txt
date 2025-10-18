@@ -5045,7 +5045,6 @@ before
 biotic
 bishopless
 borings
-biblicist
 brahmanic
 badgered
 bezels
@@ -12481,6 +12480,7 @@ booming
 barcarolle
 bibliophobe
 burbles
+biblicist
 bedder
 biennially
 brakier
