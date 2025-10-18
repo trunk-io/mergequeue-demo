@@ -3344,7 +3344,6 @@ ephymnium
 echinus
 epanthous
 euphonym
-extranormal
 eupatoriaceous
 encroachments
 escalated
@@ -5869,6 +5868,7 @@ eld
 epicardial
 exterminable
 encompasses
+extranormal
 expend
 elding
 excuseless
