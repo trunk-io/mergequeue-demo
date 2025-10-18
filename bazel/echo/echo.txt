@@ -1884,6 +1884,7 @@ eastland
 extensions
 ensorcels
 equivocator
+entoretina
 echard
 extrabranchial
 empight
@@ -5360,7 +5361,6 @@ ecclesial
 engirdles
 epitimesis
 esthesiometer
-entoretina
 enfester
 embatholithic
 eikons
