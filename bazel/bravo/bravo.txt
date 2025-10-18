@@ -4287,7 +4287,6 @@ bushwhacker
 bullseye
 berceau
 bioherms
-beclaw
 bunoselenodont
 barger
 balau
@@ -12135,6 +12134,7 @@ beclip
 beg
 beeishness
 baradari
+beclaw
 bostal
 beloid
 brahminic
