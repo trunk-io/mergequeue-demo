@@ -10195,6 +10195,7 @@ expecters
 epigastrium
 ebionize
 electronegativity
+elsin
 ethmopalatal
 erythrophyll
 evitation
@@ -11881,7 +11882,6 @@ eruditionist
 etheostomoid
 eisteddfods
 enamelled
-elsin
 endomorphic
 exanguin
 epidialogue
