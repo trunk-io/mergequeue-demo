@@ -4121,7 +4121,6 @@ bishopbird
 blowball
 bingo
 bequeathable
-berbamine
 barest
 burman
 bryophytic
@@ -9224,6 +9223,7 @@ biped
 bipedal
 banisher
 bolshevize
+berbamine
 blunderheadedness
 bipedality
 baiginet
