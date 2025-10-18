@@ -5004,6 +5004,7 @@ dips
 demosthenean
 deckels
 drabbletail
+discriminator
 diamondwise
 drivescrew
 diobols
@@ -11814,7 +11815,6 @@ discriminatively
 disjected
 despatch
 dalmatic
-discriminator
 depletory
 delightless
 delayers
