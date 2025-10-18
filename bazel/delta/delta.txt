@@ -1333,7 +1333,6 @@ dauphine
 dauphines
 drooping
 drawboard
-drapable
 dauri
 dorter
 demobilised
@@ -9679,6 +9678,7 @@ diploids
 desulphurise
 digitizes
 digitizing
+drapable
 decimosexto
 downthrow
 downcry
