@@ -5872,7 +5872,6 @@ epistolar
 extractor
 edicule
 exonarthex
-expansum
 estrogen
 extravagancies
 eryngium
@@ -12297,6 +12296,7 @@ electropult
 epapillate
 elengely
 embolic
+expansum
 enwind
 ea
 exigently
