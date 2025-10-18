@@ -7317,7 +7317,6 @@ choreiform
 cephalodium
 caracol
 cephalofacial
-cephalogram
 cirrhosis
 cuticles
 compliments
@@ -13845,6 +13844,7 @@ cortinae
 crossbelt
 cynghanedd
 catalysis
+cephalogram
 crystalligerous
 cingle
 crocking
