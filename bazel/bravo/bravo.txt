@@ -1681,7 +1681,6 @@ bombyxes
 bulge
 bibliokelpt
 boozify
-bicircular
 balthasar
 belgas
 blends
@@ -9592,6 +9591,7 @@ bahuts
 bealing
 bandlimits
 bromated
+bicircular
 botonny
 bostonian
 bellhop
