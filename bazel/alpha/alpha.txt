@@ -6041,7 +6041,6 @@ androclinium
 actinoneuritis
 alpacas
 anthony
-achromatopsy
 autochrome
 aerodrome
 astrolabes
@@ -16053,6 +16052,7 @@ auto
 aminoacetic
 africa
 amphichrom
+achromatopsy
 acrosphacelus
 antiseismic
 antiselene
