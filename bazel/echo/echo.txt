@@ -1078,6 +1078,7 @@ electrolyzable
 epistropheus
 espaliered
 egrimony
+endplate
 ergoism
 ecart
 emender
@@ -8557,7 +8558,6 @@ eelpouts
 epigrammatising
 euhages
 encheat
-endplate
 espavel
 equielliptical
 equilateral
