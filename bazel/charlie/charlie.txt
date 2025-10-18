@@ -12033,7 +12033,6 @@ chaunters
 champlev
 choruses
 chanceries
-crisp
 corbula
 crusca
 caliches
@@ -20014,6 +20013,7 @@ clogmaking
 comitje
 chunters
 checkpointed
+crisp
 coml
 chantage
 conjugating
