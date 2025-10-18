@@ -10657,7 +10657,6 @@ dipleurule
 dispend
 disesteemed
 demothball
-diamondbacked
 dependable
 debouched
 detectable
@@ -15682,6 +15681,7 @@ dochmius
 dipsades
 dogbolt
 demoniacal
+diamondbacked
 dopier
 drawknot
 didactive
