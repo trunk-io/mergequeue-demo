@@ -1190,7 +1190,6 @@ externalize
 exumbrellar
 effect
 exeat
-egoize
 electropism
 euonymy
 enmove
@@ -12544,6 +12543,7 @@ exsects
 enterprise
 elzevir
 enregistry
+egoize
 event
 ensporia
 epirhizous
