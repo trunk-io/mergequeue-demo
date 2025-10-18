@@ -306,6 +306,7 @@ equichangeable
 eluted
 eagerer
 easterling
+ewest
 extravagation
 eaten
 eighty
@@ -4559,7 +4560,6 @@ endoabdominal
 ergodicity
 eulogical
 empyreumatical
-ewest
 esthesis
 endlessly
 ectostosis
