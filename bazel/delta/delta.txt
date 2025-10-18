@@ -710,7 +710,6 @@ dopester
 dillweed
 dingus
 diatom
-deadmelt
 douras
 danceability
 danced
@@ -8763,6 +8762,7 @@ disoxygenate
 domnei
 dyarchies
 disjunctor
+deadmelt
 debugging
 distilment
 diary
