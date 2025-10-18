@@ -10215,7 +10215,6 @@ cystoscopy
 chiasmatic
 counterformula
 clockings
-cleruchic
 coset
 chiasmus
 coeline
@@ -29378,6 +29377,7 @@ convolutions
 counterrefer
 cryptonema
 coronated
+cleruchic
 chaparejos
 concernedness
 cryptonemiales
