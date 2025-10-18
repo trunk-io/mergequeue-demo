@@ -670,7 +670,6 @@ exuvium
 ecotype
 erythrine
 ephphatha
-ecotypes
 extols
 explosively
 epigeic
@@ -3796,6 +3795,7 @@ economiser
 expectable
 errantries
 enflagellate
+ecotypes
 egalitarians
 euskaldun
 embeam
