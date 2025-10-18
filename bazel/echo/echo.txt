@@ -5756,7 +5756,6 @@ electrolyzing
 encyrtid
 epizoicide
 engraining
-expellant
 enwoven
 enneahedral
 embusqu
@@ -10191,6 +10190,7 @@ euryte
 ecphasis
 exchanges
 electrophorus
+expellant
 extras
 edibles
 exasperated
