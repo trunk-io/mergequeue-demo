@@ -2569,6 +2569,7 @@ distress
 demisheath
 dewar
 disrest
+dere
 dutcher
 diabology
 diswont
@@ -5976,7 +5977,6 @@ deviants
 ductule
 depressurize
 detainingly
-dere
 defeatee
 dockside
 depreter
