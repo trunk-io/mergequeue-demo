@@ -1875,7 +1875,6 @@ extensions
 ensorcels
 equivocator
 echard
-extraperitoneal
 empight
 ethnobotanist
 ecstatically
@@ -13520,6 +13519,7 @@ edaphosauria
 earlike
 expositorial
 elasticate
+extraperitoneal
 echidnas
 entrusting
 euryaleae
