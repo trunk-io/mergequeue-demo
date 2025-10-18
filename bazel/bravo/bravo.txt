@@ -4292,6 +4292,7 @@ burrhead
 bartering
 bunyas
 bebeerin
+bemurmurs
 bennettitales
 balaghaut
 besagne
@@ -16052,7 +16053,6 @@ bronchoplasty
 bronchorrhaphy
 bronchorrhea
 bronchos
-bemurmurs
 bludgeoner
 bronchoscopic
 barr
