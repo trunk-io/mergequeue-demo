@@ -2038,7 +2038,6 @@ babai
 bannat
 blusters
 bannerline
-bannerole
 bivalents
 bebuttoned
 brisances
@@ -16102,6 +16101,7 @@ befamilied
 blather
 bridehood
 biotech
+bannerole
 belvidere
 brabblers
 brats
