@@ -3718,7 +3718,6 @@ carbolics
 cicindela
 centricity
 carbolising
-carbolize
 carbolizes
 cricked
 caladium
@@ -13165,6 +13164,7 @@ cyclecars
 coexpire
 causals
 crosspatch
+carbolize
 cyclers
 cowherbs
 cycles
