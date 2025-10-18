@@ -1071,7 +1071,6 @@ cytherea
 calciner
 chomer
 clepes
-connexity
 clamworm
 columella
 cloudship
@@ -6903,6 +6902,7 @@ culm
 caruage
 cenaculum
 cloglike
+connexity
 culvert
 chrismale
 coumarane
