@@ -13502,6 +13502,7 @@ boxwork
 bonspiels
 brett
 bridestake
+buttonlike
 beton
 balconies
 barosmin
@@ -18192,7 +18193,6 @@ botryoidally
 bocher
 boffo
 boardwalk
-buttonlike
 butolism
 beltway
 bibliokleptomaniac
