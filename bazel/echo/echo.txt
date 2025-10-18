@@ -5002,7 +5002,6 @@ edificative
 endexine
 evap
 epichindrotic
-elapsing
 endite
 erthly
 encumbrous
@@ -6662,6 +6661,7 @@ enwombs
 ergots
 erythraemia
 emerit
+elapsing
 evacuation
 epiclike
 elaborator
