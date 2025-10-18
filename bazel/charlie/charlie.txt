@@ -4471,7 +4471,6 @@ carnivorism
 cyanea
 conchylium
 colorationally
-clinkstone
 carnous
 carns
 chamaecistus
@@ -25134,6 +25133,7 @@ calamite
 calangay
 courtlet
 coregnancy
+clinkstone
 cilioflagellata
 counterbalancing
 coregnant
