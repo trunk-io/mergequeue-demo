@@ -3325,6 +3325,7 @@ embarks
 equipage
 electrochemistry
 ep
+euryalae
 exteroceptor
 exampling
 equilibrium
@@ -11265,7 +11266,6 @@ expurgator
 excitatory
 epidemiographist
 explanatory
-euryalae
 edificed
 eyebridled
 eyelessness
