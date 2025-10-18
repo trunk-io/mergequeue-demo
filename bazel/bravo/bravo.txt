@@ -9427,7 +9427,6 @@ bathymetric
 birectangular
 battels
 boominess
-billycans
 bajochi
 boroughs
 bracteole
@@ -13416,6 +13415,7 @@ bulkage
 blinger
 bothy
 beatings
+billycans
 buckbush
 brownish
 basivertebral
