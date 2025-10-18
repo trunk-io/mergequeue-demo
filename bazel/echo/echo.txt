@@ -3594,6 +3594,7 @@ edgewise
 extraterritorials
 engrasp
 entrainer
+empoisoning
 epicenes
 effluvium
 elegy
@@ -9687,7 +9688,6 @@ evaporates
 emrode
 estaminet
 emittance
-empoisoning
 exergue
 emunctories
 empiric
