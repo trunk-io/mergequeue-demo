@@ -3855,7 +3855,6 @@ earl
 emamelware
 earthbound
 endosymbiosis
-entame
 endopeptidase
 extradosed
 extemporiser
@@ -4194,6 +4193,7 @@ electrophysiologic
 empanels
 enactor
 encomia
+entame
 embrued
 endarterial
 epimerize
