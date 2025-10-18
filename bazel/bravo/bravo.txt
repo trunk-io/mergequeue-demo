@@ -13627,7 +13627,6 @@ bullarium
 backhand
 buz
 bitangential
-borane
 boloroot
 bouge
 brighella
@@ -17221,6 +17220,7 @@ backslap
 bothros
 bathylith
 bequeathed
+borane
 brodee
 bullated
 benchboard
