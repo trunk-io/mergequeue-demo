@@ -4872,6 +4872,7 @@ burgware
 brumalia
 bumblings
 balls
+boggart
 bandel
 barmier
 bactritoid
@@ -6753,7 +6754,6 @@ bookery
 bain
 berserker
 bin
-boggart
 berserks
 barnumize
 begroan
