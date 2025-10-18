@@ -2453,6 +2453,7 @@ episome
 equipped
 erythrocytolysis
 edibility
+encrypted
 electrometallurgist
 emptiable
 exor
@@ -2864,7 +2865,6 @@ echoes
 effluxion
 elicitor
 expiational
-encrypted
 escalating
 ergology
 expiative
