@@ -10439,7 +10439,6 @@ dependencies
 ditton
 diopters
 diseur
-disemployed
 decumary
 drolushness
 diorthosis
@@ -18478,6 +18477,7 @@ didder
 duality
 duplicitously
 dogmatised
+disemployed
 diatonic
 downby
 dol
