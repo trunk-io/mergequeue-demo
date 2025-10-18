@@ -11375,7 +11375,6 @@ extypal
 ensepulchered
 explanation
 endurability
-extraburghal
 eyecup
 embrittled
 engirding
@@ -13350,6 +13349,7 @@ erichthoid
 essentialize
 electrotechnics
 exits
+extraburghal
 epiderma
 euchlaena
 entomophila
