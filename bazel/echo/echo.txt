@@ -2672,7 +2672,6 @@ edicts
 ecocide
 envy
 excuderunt
-erythema
 evanescently
 enzyme
 endosteomas
@@ -7874,6 +7873,7 @@ extralegally
 eelfish
 eatery
 excommunicable
+erythema
 enunciative
 endosmosis
 evangelizes
