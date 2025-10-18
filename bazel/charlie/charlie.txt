@@ -14697,7 +14697,6 @@ cystoradiography
 cairo
 cystosarcoma
 chirognostic
-cyanogenetic
 conglomerated
 crestings
 cariole
@@ -25375,6 +25374,7 @@ chickabiddy
 cornballs
 cornberry
 cornbind
+cyanogenetic
 checkerboards
 cricking
 chromoisomerism
