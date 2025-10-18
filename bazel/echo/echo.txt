@@ -600,6 +600,7 @@ ennage
 encharging
 earthed
 eromania
+electrizer
 encephalolith
 enspell
 exculpations
@@ -8346,7 +8347,6 @@ exchange
 espial
 endrudge
 epochism
-electrizer
 egyptianize
 evolutility
 electroindustrial
