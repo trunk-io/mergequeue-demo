@@ -5915,7 +5915,6 @@ enhypostatize
 encrinoidea
 enameloma
 encoffin
-erythroxylon
 enhuile
 extoled
 escuage
@@ -5944,6 +5943,7 @@ emendatory
 enfield
 empannel
 epiderms
+erythroxylon
 enisles
 echinoderidae
 enisling
