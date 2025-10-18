@@ -1509,7 +1509,6 @@ biradial
 borborygmus
 ballista
 burkites
-besprinkle
 boilermaker
 bodier
 basketlike
@@ -3642,6 +3641,7 @@ blasty
 bloodbird
 bucconasal
 beachwear
+besprinkle
 batture
 bielded
 brilliantwise
