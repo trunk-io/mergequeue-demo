@@ -5254,6 +5254,7 @@ comforter
 chimerical
 castellanies
 castellans
+checkman
 cubododecahedral
 cinerararia
 cyanates
@@ -9526,7 +9527,6 @@ crosiers
 checkless
 checklist
 consuming
-checkman
 congruencies
 checkmating
 celioncus
