@@ -2632,6 +2632,7 @@ decreers
 decommission
 decommissioned
 dozers
+drunkard
 decompensating
 densifying
 decompensations
@@ -5686,7 +5687,6 @@ died
 disking
 divinises
 debe
-drunkard
 dtset
 depigmentate
 decolourizer
