@@ -9606,7 +9606,6 @@ eschele
 editchar
 explode
 exstipulate
-eurytherm
 espino
 ensilate
 evilsayer
@@ -12958,6 +12957,7 @@ ebauchoir
 expeditating
 elite
 expediter
+eurytherm
 enunciates
 expeditiously
 elans
