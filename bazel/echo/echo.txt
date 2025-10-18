@@ -3454,7 +3454,6 @@ electrothermancy
 emblazes
 evelight
 endophyte
-emblazoner
 emblazonments
 embrocation
 execrators
@@ -9724,6 +9723,7 @@ entrusts
 extensory
 expenthesis
 electroplate
+emblazoner
 endodontist
 estable
 ervils
