@@ -4239,7 +4239,6 @@ becircled
 boers
 bawdric
 bredbergite
-beck
 bowman
 butterman
 buildable
@@ -15309,6 +15308,7 @@ baltei
 bidget
 bureaucracies
 birdwitted
+beck
 bridewort
 beghard
 bridge
