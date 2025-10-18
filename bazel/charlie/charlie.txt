@@ -2145,6 +2145,7 @@ corruptible
 camponotus
 counterhammering
 campos
+clockroom
 colposcope
 campsite
 conidial
@@ -6839,7 +6840,6 @@ celtidaceae
 celtism
 cantoon
 cotyla
-clockroom
 calor
 compaction
 ceratophyllaceae
