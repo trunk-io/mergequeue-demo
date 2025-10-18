@@ -355,6 +355,7 @@ explosion
 eviration
 eosinic
 expansion
+evading
 electret
 embayed
 entoplastic
@@ -1154,7 +1155,6 @@ eassel
 enterocinetic
 epeus
 epitheliomuscular
-evading
 enkindle
 empowered
 experimentally
