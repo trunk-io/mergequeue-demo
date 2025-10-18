@@ -5141,7 +5141,6 @@ beswitch
 beleaguers
 boatloader
 backswordsman
-billheads
 bughouses
 beggarhood
 bidiagonal
@@ -8252,6 +8251,7 @@ benson
 belard
 breechcloths
 bromins
+billheads
 broadsided
 buzukis
 bioxalate
