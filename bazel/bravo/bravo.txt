@@ -1740,7 +1740,6 @@ bullose
 brushable
 bialystoker
 befrill
-bannets
 bowlin
 beaverpelt
 bankruptlike
@@ -7875,6 +7874,7 @@ bursty
 boschbok
 butein
 blennorrhagia
+bannets
 billetty
 bibliopolist
 begass
