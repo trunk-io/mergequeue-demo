@@ -10488,7 +10488,6 @@ biologistic
 betelnuts
 bepastured
 baizes
-banderols
 battles
 bridgewards
 backcourt
@@ -17607,6 +17606,7 @@ balante
 broadhorn
 benzidins
 bacteriophages
+banderols
 bervie
 bemol
 bastillion
