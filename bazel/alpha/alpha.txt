@@ -14014,6 +14014,7 @@ aerostation
 assemblages
 amblyrhynchus
 attractors
+alomancy
 algist
 alas
 admonishment
@@ -24049,7 +24050,6 @@ acanthomas
 alack
 alphabetizing
 atrenne
-alomancy
 athyridae
 arsmetrike
 abattises
