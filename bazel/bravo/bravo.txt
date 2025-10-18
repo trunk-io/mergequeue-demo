@@ -4750,7 +4750,6 @@ bewrapped
 bioelectronics
 boresight
 barbette
-bedur
 beaded
 bathes
 bedwarfing
@@ -14366,6 +14365,7 @@ bagnet
 banging
 barricading
 burnable
+bedur
 brahminists
 billety
 bedrugs
