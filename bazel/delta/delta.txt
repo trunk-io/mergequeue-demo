@@ -555,7 +555,6 @@ detonatable
 duotype
 damageous
 distrustful
-ditheisms
 dumpled
 donk
 damalic
@@ -1802,6 +1801,7 @@ duped
 debilitate
 dioon
 debases
+ditheisms
 doggoned
 disemboguing
 disannuls
