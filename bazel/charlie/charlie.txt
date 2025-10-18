@@ -3527,7 +3527,6 @@ churning
 caracolling
 caracora
 caracore
-caract
 caradoc
 carafes
 censors
@@ -11082,6 +11081,7 @@ cadence
 chitosamine
 chorioid
 cicurate
+caract
 chandelle
 chloridation
 cyclopite
