@@ -8263,7 +8263,6 @@ boschveld
 benson
 belard
 breechcloths
-buyable
 bromins
 broadsided
 buzukis
@@ -9162,6 +9161,7 @@ black
 beauetry
 bevels
 brimfulness
+buyable
 bifaces
 balladical
 bicolorous
