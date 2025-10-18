@@ -7220,7 +7220,6 @@ bube
 broodier
 birde
 barnstormers
-bedecked
 bennetweed
 betel
 buttwood
@@ -10278,6 +10277,7 @@ baneful
 bliaut
 blacktongue
 bebaron
+bedecked
 bedless
 buchmanite
 bajada
