@@ -11573,7 +11573,6 @@ citizens
 colonialization
 cholecystography
 cholecystokinin
-cholecystolithiasis
 comptrol
 cholecystostomy
 choledochal
@@ -31401,6 +31400,7 @@ curlycues
 cycladic
 curlike
 chieve
+cholecystolithiasis
 credentialism
 curlily
 chord
