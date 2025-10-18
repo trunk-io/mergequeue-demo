@@ -1752,6 +1752,7 @@ dimethoxy
 deathsman
 discrepating
 dumble
+dauerschlaf
 deathtime
 delineate
 deathtrap
@@ -10214,7 +10215,6 @@ deerstalkers
 dynamogenesis
 dauphins
 dimoric
-dauerschlaf
 daturas
 documentary
 detraining
