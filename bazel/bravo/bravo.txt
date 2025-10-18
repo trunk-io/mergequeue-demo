@@ -9660,6 +9660,7 @@ baccalaureat
 baglike
 bryonia
 bushland
+bimedial
 bisymmetry
 burring
 bankrolling
@@ -17074,7 +17075,6 @@ breakables
 babaylanes
 buggess
 bethinks
-bimedial
 bulimy
 bulimias
 bookbinding
