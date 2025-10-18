@@ -24570,6 +24570,7 @@ copartnership
 collectivities
 chronodeik
 caprificator
+curability
 counterquarterly
 countermotion
 clampdown
@@ -31189,7 +31190,6 @@ concitizen
 craniopathy
 chesoun
 cura
-curability
 correctness
 curableness
 chirometer
