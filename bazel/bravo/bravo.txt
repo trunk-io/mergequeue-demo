@@ -10652,7 +10652,6 @@ beakier
 bonace
 boteroll
 ballfield
-beltmaker
 birettas
 battleground
 boweling
@@ -10920,6 +10919,7 @@ boobyism
 baldness
 brevi
 butterbush
+beltmaker
 butterers
 blindfoldedness
 birched
