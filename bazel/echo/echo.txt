@@ -8613,6 +8613,7 @@ ektexine
 equipages
 embioptera
 expositions
+endogenic
 enchesoun
 esthesiometry
 equiparation
@@ -12471,7 +12472,6 @@ esox
 enterobacterial
 eventail
 extrametaphysical
-endogenic
 ephete
 existentialistic
 endamageable
