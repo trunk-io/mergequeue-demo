@@ -2444,7 +2444,6 @@ bhava
 bough
 blissfulness
 bedark
-blind
 bergere
 beauish
 bobber
@@ -5441,6 +5440,7 @@ broomballer
 bewares
 bagatine
 bourreau
+blind
 bemurmured
 bartletts
 belonged
