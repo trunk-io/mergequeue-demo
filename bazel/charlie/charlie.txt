@@ -6588,7 +6588,6 @@ chrobat
 ceded
 ceders
 copepods
-cottiers
 cedilla
 cuorin
 cedillas
@@ -7646,6 +7645,7 @@ cerionidae
 cerise
 cerithiidae
 ceriums
+cottiers
 corambis
 chloroplatinite
 cermet
