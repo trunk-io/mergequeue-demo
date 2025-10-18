@@ -2871,6 +2871,7 @@ blindeyes
 blobby
 blastogenic
 bedrivel
+bicornute
 barricaded
 bags
 beltian
@@ -7979,7 +7980,6 @@ beginner
 biguanide
 bonzer
 beltmaking
-bicornute
 bromide
 beewise
 belleeks
