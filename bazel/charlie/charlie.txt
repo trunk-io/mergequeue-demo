@@ -9537,7 +9537,6 @@ celioncus
 cautioning
 circumferences
 cupseed
-checkpointed
 chiastic
 checkpointing
 combmaking
@@ -20009,6 +20008,7 @@ catadromous
 clogmaking
 comitje
 chunters
+checkpointed
 coml
 chantage
 conjugating
