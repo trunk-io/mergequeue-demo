@@ -2158,7 +2158,6 @@ alcahest
 autoelectronic
 acalycine
 affronte
-achromatisation
 autoxidizer
 abseiling
 armoried
@@ -9900,6 +9899,7 @@ awakable
 athletics
 airiferous
 apperceptive
+achromatisation
 averil
 agnatic
 asperness
