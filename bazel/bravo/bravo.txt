@@ -2435,7 +2435,6 @@ blens
 blacklisting
 bifunctional
 bechalked
-bandelet
 baryons
 birsle
 barfish
@@ -5119,6 +5118,7 @@ bugan
 bigheaded
 bidet
 barragan
+bandelet
 bypasser
 blinking
 beleed
