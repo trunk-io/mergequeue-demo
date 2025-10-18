@@ -10453,6 +10453,7 @@ bastion
 boatlike
 blarneys
 bridgetree
+barber
 backpacks
 blowth
 bedung
@@ -12816,7 +12817,6 @@ bourignonist
 beglue
 barmybrained
 bridges
-barber
 burstone
 braiding
 barrelhouse

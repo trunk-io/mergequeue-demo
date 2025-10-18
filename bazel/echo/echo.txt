@@ -11111,7 +11111,6 @@ equipartisan
 earstone
 ejidos
 escritoires
-evaporimeter
 erineum
 ethynes
 emetines
@@ -13146,6 +13145,7 @@ explanting
 eschewing
 exploring
 ecologies
+evaporimeter
 eclipsation
 explorate
 epispastic
