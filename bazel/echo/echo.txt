@@ -5919,6 +5919,7 @@ exsiccator
 excluders
 eulachan
 ellipsis
+exotic
 enjoyably
 emphyteusis
 ethrog
@@ -7323,7 +7324,6 @@ episcopable
 escheats
 epeiric
 epigrammatically
-exotic
 epenthesize
 emblematise
 ethnologer
