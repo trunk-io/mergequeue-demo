@@ -18145,7 +18145,6 @@ choirs
 cucumber
 creirgist
 coenobiar
-cissoid
 coenobioid
 cuspidine
 conicoid
@@ -24464,6 +24463,7 @@ contradictious
 coolung
 coolweed
 coom
+cissoid
 clumbers
 cystidium
 candent
