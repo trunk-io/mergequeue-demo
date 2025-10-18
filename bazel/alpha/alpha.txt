@@ -13851,7 +13851,6 @@ armied
 aphelenchus
 antisoporific
 anoplotherioid
-anoplotherium
 amahuaca
 allemande
 aspidosperma
@@ -16689,6 +16688,7 @@ attidae
 arbitration
 auriculidae
 anticivic
+anoplotherium
 anthroxan
 alula
 ablatival
