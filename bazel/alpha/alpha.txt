@@ -493,7 +493,6 @@ atlantean
 algebraist
 ahypnia
 abjugate
-asynchronous
 abjunct
 arundinaria
 autopneumatic
@@ -21972,6 +21971,7 @@ accademia
 akvavits
 annotation
 amerceable
+asynchronous
 alaternus
 antiserumsera
 aminolipin
