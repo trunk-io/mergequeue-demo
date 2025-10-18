@@ -3453,7 +3453,6 @@ abreaction
 aggies
 aerodynamicist
 archknave
-anthemwise
 adion
 airbrush
 aortographic
@@ -7020,6 +7019,7 @@ androides
 akkadian
 akkadist
 aetheogam
+anthemwise
 atheistic
 albin
 anteaters
