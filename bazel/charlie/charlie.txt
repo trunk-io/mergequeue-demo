@@ -10205,7 +10205,6 @@ codworm
 coussinet
 cripple
 chill
-chia
 chiack
 chyack
 chianti
@@ -18354,6 +18353,7 @@ clobbers
 coggers
 cuspate
 cogitate
+chia
 combed
 cogglety
 culdee
