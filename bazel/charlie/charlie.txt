@@ -25401,7 +25401,6 @@ coidentity
 cadlock
 chaplainship
 cornbole
-cornbottle
 cyclop
 collophore
 clistocarp
@@ -25489,6 +25488,7 @@ crabhole
 cornhouse
 concertati
 carfloat
+cornbottle
 cajaputs
 cloth
 cabernet
