@@ -2624,7 +2624,6 @@ daric
 dibbling
 decolouration
 dowily
-dfault
 daedalean
 decempeda
 dumpcarts
@@ -14765,6 +14764,7 @@ decarbonize
 discords
 dartlike
 divinable
+dfault
 dissolubility
 deplaster
 discutable
