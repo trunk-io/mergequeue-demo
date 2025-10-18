@@ -13441,7 +13441,6 @@ bothriocephalus
 bisulc
 blur
 beothuk
-boltant
 bothway
 boloed
 burgle
@@ -13590,6 +13589,7 @@ byssogenous
 baccae
 balmonies
 branchiform
+boltant
 blundered
 blancard
 bepart
