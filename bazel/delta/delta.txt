@@ -9046,7 +9046,6 @@ dyewoods
 deerkill
 dimeride
 daunomycin
-drawout
 dyads
 diploe
 defiatory
@@ -11383,6 +11382,7 @@ deodands
 dowhacky
 devoter
 dichotomistic
+drawout
 duodenocystostomy
 duramater
 driveaway
