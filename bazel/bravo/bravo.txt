@@ -5007,7 +5007,6 @@ buceros
 bashed
 basion
 beflea
-bozo
 blowfish
 bombable
 belching
@@ -7222,6 +7221,7 @@ broombush
 betag
 bolstering
 based
+bozo
 bothies
 bacchus
 blanked
