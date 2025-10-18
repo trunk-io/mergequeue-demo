@@ -3695,6 +3695,7 @@ bombinate
 baul
 biformed
 burgeoning
+blatterer
 besmeared
 bequeaths
 behight
@@ -14629,7 +14630,6 @@ bedright
 banshees
 bambos
 belong
-blatterer
 branding
 behooped
 buckeroo
