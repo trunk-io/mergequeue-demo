@@ -4874,7 +4874,6 @@ cartobibliography
 columbia
 catallum
 cartogram
-cartography
 circulin
 cypseli
 cry
@@ -19673,6 +19672,7 @@ cocreditor
 cowan
 clasmatosis
 centimolar
+cartography
 chalybes
 cutinising
 crispated
