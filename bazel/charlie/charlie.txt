@@ -9497,7 +9497,6 @@ checkbook
 champ
 cryptobatholithic
 cableways
-champer
 chaetites
 checkbooks
 checker
@@ -22305,6 +22304,7 @@ chargeship
 convictism
 congealableness
 counterrate
+champer
 contraband
 connusable
 clubhauls
