@@ -538,7 +538,6 @@ equalist
 extollers
 ephemerides
 equation
-epoxidize
 enwrapped
 etymonic
 empiricist
@@ -3611,6 +3610,7 @@ educations
 exhalatory
 elimination
 echelette
+epoxidize
 emulsor
 evirate
 enravishingly
