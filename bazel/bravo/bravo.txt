@@ -6896,7 +6896,6 @@ besides
 bodykins
 bergschrund
 besiege
-besiegers
 bugle
 bagwoman
 braird
@@ -16971,6 +16970,7 @@ bong
 bacteriuria
 backwoodsy
 berkovtsi
+besiegers
 besmooth
 basiliscan
 bugleweed
