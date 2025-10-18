@@ -2950,6 +2950,7 @@ bookbinderies
 boglet
 beltless
 bartree
+booteries
 banish
 bliest
 burlesks
@@ -5205,7 +5206,6 @@ bushfires
 bigot
 burrier
 beggarlike
-booteries
 bullom
 brimless
 balanophore
