@@ -1357,6 +1357,7 @@ bents
 baldmoney
 bellwaver
 bale
+bemuslined
 bbl
 babassu
 boracic
@@ -10218,7 +10219,6 @@ boars
 blowen
 benchman
 beaverlike
-bemuslined
 bejumble
 benty
 blackjack
