@@ -4650,6 +4650,7 @@ decretal
 diapason
 demiox
 disenthrall
+diaphones
 dribbled
 dejecting
 dendral
@@ -14254,7 +14255,6 @@ dyspathy
 dithyrambus
 dominicker
 disparately
-diaphones
 dytiscus
 delphinus
 diadermic
