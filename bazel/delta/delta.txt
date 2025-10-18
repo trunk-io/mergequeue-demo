@@ -3336,7 +3336,6 @@ doubloon
 dishful
 dandriffy
 danewort
-dorsosternal
 dihelios
 daggar
 dogmouth
@@ -3481,6 +3480,7 @@ deflections
 deaccessions
 delete
 diparentum
+dorsosternal
 debus
 daffery
 decaffeinates
