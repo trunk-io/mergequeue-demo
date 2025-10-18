@@ -4752,7 +4752,6 @@ eucalyptography
 encode
 extrait
 encoded
-encolour
 electromyography
 embosks
 essancia
@@ -9826,6 +9825,7 @@ exprimable
 envier
 exordize
 endoss
+encolour
 euphuists
 ectotrophic
 excrementitiously
