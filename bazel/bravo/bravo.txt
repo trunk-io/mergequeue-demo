@@ -2395,7 +2395,6 @@ balaklava
 bishophood
 behaved
 basenjis
-booleys
 blashy
 basis
 binotic
@@ -6502,6 +6501,7 @@ berberi
 blockiest
 bogtrotter
 breastrope
+booleys
 baboonroot
 biohazard
 berberid
