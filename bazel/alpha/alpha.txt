@@ -9897,6 +9897,7 @@ assumer
 attaint
 alloquial
 acoelomata
+awakable
 athletics
 airiferous
 apperceptive
@@ -24944,7 +24945,6 @@ acheck
 awaiting
 anaphoras
 awaitlala
-awakable
 apetaloid
 adulticide
 algometer
