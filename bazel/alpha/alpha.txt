@@ -279,6 +279,7 @@ arbalists
 avignonese
 appunctuation
 anopheline
+arcade
 aphydrotropism
 aulete
 aphanite
@@ -7220,7 +7221,6 @@ antiope
 annexationist
 antilevelling
 autoreinfusion
-arcade
 abasgi
 alforjas
 adoptant
