@@ -4452,7 +4452,6 @@ bellrags
 basommatophorous
 balefire
 befogged
-beglamour
 bienness
 bater
 bracozzo
@@ -11715,6 +11714,7 @@ bobby
 brainily
 beamlike
 barillas
+beglamour
 burlily
 beslaved
 bewimple
