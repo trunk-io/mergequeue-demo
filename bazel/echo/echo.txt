@@ -1473,7 +1473,6 @@ exophasic
 enterokinetic
 eluviation
 evomit
-endocardia
 enterointestinal
 erythrismal
 essentia
@@ -1815,6 +1814,7 @@ enlister
 evaporitic
 endopericarditis
 einkorn
+endocardia
 equatability
 exegetic
 etherical
