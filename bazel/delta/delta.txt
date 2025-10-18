@@ -1180,7 +1180,6 @@ demibrassart
 devilhood
 diggable
 dribblers
-disvulnerability
 datana
 disculpatory
 deneutralization
@@ -17741,6 +17740,7 @@ doughmen
 dossing
 deprecatingly
 discommode
+disvulnerability
 duckblind
 deaconries
 decennium
