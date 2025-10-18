@@ -11662,6 +11662,7 @@ cotangents
 cequi
 cardiopneumatic
 cholla
+clairsentient
 crossable
 cryogen
 criniger
@@ -28214,7 +28215,6 @@ cranker
 cullis
 crankiness
 conversableness
-clairsentient
 cranking
 contiguities
 cleptobiosis
