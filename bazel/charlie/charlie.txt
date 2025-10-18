@@ -1285,7 +1285,6 @@ crochets
 caliburno
 curet
 calycanthin
-cantador
 carious
 cryptogrammatist
 chaucer
@@ -18326,6 +18325,7 @@ coff
 consoled
 capitulum
 capsuligerous
+cantador
 cauliflorous
 chalcographer
 coffinmaking
