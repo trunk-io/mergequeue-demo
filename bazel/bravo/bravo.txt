@@ -4464,7 +4464,6 @@ broodmare
 betroth
 botched
 bushbody
-ballplayer
 briskets
 benzoylglycine
 bridlewise
@@ -10285,6 +10284,7 @@ bayonets
 blurbs
 beanweed
 bumwood
+ballplayer
 blennuria
 bepimples
 blacktree
