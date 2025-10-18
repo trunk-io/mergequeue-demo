@@ -2630,7 +2630,6 @@ bienne
 bloodstanch
 barodynamic
 barognosis
-bubastite
 boylas
 bathymeter
 backset
@@ -11499,6 +11498,7 @@ boomlet
 behaves
 baja
 bromthymol
+bubastite
 blankish
 blufter
 baume
