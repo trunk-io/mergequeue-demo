@@ -18243,6 +18243,7 @@ counterstratagem
 configures
 clothlike
 coestablishment
+conquistador
 cervulus
 cassaba
 coeternity
@@ -18805,7 +18806,6 @@ colate
 canaliculation
 cyclopia
 caddicefly
-conquistador
 colatitude
 colazione
 chondroxiphoid
