@@ -9478,7 +9478,6 @@ ellops
 euphemizing
 exorcistical
 entelodon
-expelled
 euplexoptera
 englutting
 eluated
@@ -12431,6 +12430,7 @@ exocoele
 exocoelic
 electrostatics
 exocoelum
+expelled
 evection
 equiped
 externalness
