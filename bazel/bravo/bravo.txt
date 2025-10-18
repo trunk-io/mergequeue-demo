@@ -2514,7 +2514,6 @@ byronize
 brickle
 banande
 barytons
-bauxitite
 besnowed
 busbar
 boeing
@@ -9321,6 +9320,7 @@ brendice
 balsamorrhiza
 berkshire
 beforehand
+bauxitite
 besmother
 bass
 bescours
