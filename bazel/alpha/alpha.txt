@@ -1030,6 +1030,7 @@ appar
 abterminal
 abridged
 anniv
+almerian
 allay
 allegiance
 abthainrie
@@ -20534,7 +20535,6 @@ avision
 anamneses
 arrojadite
 atamans
-almerian
 adaptively
 agarum
 androgynies
