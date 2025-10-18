@@ -1372,7 +1372,6 @@ emblemist
 effused
 extracystic
 elasmobranchii
-epiprecoracoid
 elbowchair
 explanatorily
 ensphered
@@ -13322,6 +13321,7 @@ eruction
 ergasterion
 exposes
 endogen
+epiprecoracoid
 elengely
 esophagopathy
 exsanguinity
