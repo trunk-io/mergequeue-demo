@@ -2228,7 +2228,6 @@ enhort
 evacuating
 epigraphist
 exemplary
-eumenidae
 electroacoustic
 electroacoustical
 emmenagogic
@@ -11179,6 +11178,7 @@ enfetter
 endosclerite
 endocrin
 exalters
+eumenidae
 effectuation
 export
 expensefulness
