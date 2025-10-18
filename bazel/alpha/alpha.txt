@@ -5498,7 +5498,6 @@ arms
 acalephoid
 axbreaker
 autotoxis
-alloiometry
 acoelomatous
 agade
 anchoretic
@@ -5665,6 +5664,7 @@ autocoder
 advocacy
 appraised
 aphodian
+alloiometry
 arteriotrepsis
 antireservationist
 agaricine
