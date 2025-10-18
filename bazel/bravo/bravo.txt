@@ -4686,7 +4686,6 @@ basal
 backstair
 barnlike
 beatille
-bedral
 bedraped
 bassa
 bedread
@@ -7434,6 +7433,7 @@ bicameral
 bebait
 briefest
 beingless
+bedral
 breasted
 barbarianized
 bailies
