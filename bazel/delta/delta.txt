@@ -2467,7 +2467,6 @@ dangling
 decyne
 drydenian
 diaeresis
-dimedon
 depencil
 dippable
 dissentious
@@ -5980,6 +5979,7 @@ dere
 defeatee
 dockside
 depreter
+dimedon
 decimus
 depriment
 disorderedness
