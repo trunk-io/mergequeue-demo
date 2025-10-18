@@ -561,7 +561,6 @@ backtracking
 backtracks
 backveld
 beden
-bantered
 bracky
 beech
 biosterin
@@ -7997,6 +7996,7 @@ brattie
 broodiness
 breacher
 breathing
+bantered
 blowhole
 bioherms
 burnishes
