@@ -1566,7 +1566,6 @@ bhajan
 benight
 backlotter
 blight
-boycotter
 busts
 beachcombers
 bident
@@ -8443,6 +8442,7 @@ blksize
 bafflingly
 byplays
 baronne
+boycotter
 buggiest
 birch
 butyryl
