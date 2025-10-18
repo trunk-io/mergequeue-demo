@@ -7934,7 +7934,6 @@ did
 diffused
 dermestes
 dumortierite
-diamylose
 disseminations
 diplogenic
 diplonephridia
@@ -17355,6 +17354,7 @@ dammar
 demidog
 dequeue
 darioles
+diamylose
 dimorphous
 disinfestation
 dystaxias
