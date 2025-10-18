@@ -1030,6 +1030,7 @@ drillmasters
 demultiplexer
 divergence
 despumated
+dysluite
 darklier
 doruck
 distains
@@ -12791,7 +12792,6 @@ dcb
 dissensions
 derepression
 dipware
-dysluite
 disappearer
 disaffirmative
 delectate
