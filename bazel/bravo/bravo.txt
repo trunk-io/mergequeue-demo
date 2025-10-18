@@ -870,7 +870,6 @@ bossies
 bullwhips
 baggier
 baggings
-battlegrounds
 blindling
 bitter
 bushlands
@@ -6087,6 +6086,7 @@ bilbies
 blushful
 bedclothing
 boodle
+battlegrounds
 borotungstate
 braziers
 bacteriologies
