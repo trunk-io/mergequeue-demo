@@ -16294,7 +16294,6 @@ caraco
 carpetbag
 cleanskin
 clypeated
-clypeiform
 clypeola
 clypeolar
 compresses
@@ -23208,6 +23207,7 @@ constituencies
 catvine
 cantillated
 criticizable
+clypeiform
 constituents
 cadbote
 counterworking
