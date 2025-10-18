@@ -5165,6 +5165,7 @@ embossment
 epigastrial
 euryalida
 ebullient
+enqueued
 exospores
 epidotes
 eagrass
@@ -8302,7 +8303,6 @@ exhibitor
 exoneration
 earthmen
 edwardsiidae
-enqueued
 eupractic
 elixir
 engle
