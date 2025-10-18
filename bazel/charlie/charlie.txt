@@ -12598,7 +12598,6 @@ circumventable
 circularize
 coalmonger
 chose
-coalternative
 caudices
 chantecler
 christianization
@@ -25685,6 +25684,7 @@ corporeally
 cravenhearted
 corporeals
 celebrate
+coalternative
 ceremonially
 corporeity
 crankier
