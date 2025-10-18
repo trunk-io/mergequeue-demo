@@ -3921,7 +3921,6 @@ downhaul
 dressages
 discastle
 dissect
-documentation
 deonerate
 damone
 dilutent
@@ -17620,6 +17619,7 @@ defalcator
 delivered
 dagesh
 delatinize
+documentation
 dermoplasty
 dagame
 daddles
