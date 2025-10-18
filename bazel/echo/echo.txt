@@ -978,7 +978,6 @@ epigramme
 entune
 epitympanic
 embulk
-edgeboned
 eringos
 embankment
 eponymy
@@ -6438,6 +6437,7 @@ expediente
 etching
 etiologically
 endotrachelitis
+edgeboned
 embowerment
 embalmer
 exudation
