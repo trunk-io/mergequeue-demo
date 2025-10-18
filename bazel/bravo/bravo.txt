@@ -1101,7 +1101,6 @@ banquets
 bonnetieres
 benzopyrene
 bigwig
-burette
 bountree
 bilobular
 bairnwort
@@ -10331,6 +10330,7 @@ balers
 blahs
 blithemeat
 blueback
+burette
 bucketing
 broomball
 blagueur
