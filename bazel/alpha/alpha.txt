@@ -4263,7 +4263,6 @@ aphanozygous
 acrisia
 aulder
 atavus
-atmograph
 aptitudinal
 agathism
 amanist
@@ -6469,6 +6468,7 @@ amphigamae
 assigners
 accumulation
 awk
+atmograph
 asterolepis
 achirite
 anomiidae
