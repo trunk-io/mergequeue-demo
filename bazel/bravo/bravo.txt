@@ -6718,7 +6718,6 @@ burghermaster
 berret
 bribed
 berry
-banshee
 bedscrew
 bacterian
 bumpier
@@ -11881,6 +11880,7 @@ bended
 brassworker
 bodonid
 bromic
+banshee
 brachiation
 bailout
 barming
