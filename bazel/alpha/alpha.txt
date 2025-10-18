@@ -11778,7 +11778,6 @@ amigo
 appraisal
 achree
 anaglyph
-anaglyptographic
 aswash
 aquarian
 armorbearer
@@ -21518,6 +21517,7 @@ amarantite
 archrepresentative
 asphyxiation
 assaut
+anaglyptographic
 alcedinidae
 azimine
 asphyxiator
