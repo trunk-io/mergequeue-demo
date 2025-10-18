@@ -6747,7 +6747,6 @@ asaphus
 allose
 airfoils
 anodynes
-airglow
 arteriopathy
 apterygidae
 anitrogenous
@@ -19062,6 +19061,7 @@ ammocoete
 archpastor
 alkalised
 adenin
+airglow
 anthophyte
 assyrianize
 absolutely
