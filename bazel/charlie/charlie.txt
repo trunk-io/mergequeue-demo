@@ -6757,6 +6757,7 @@ chromicizing
 canadine
 cellaress
 cellars
+corvoid
 cellblock
 celled
 concentrativeness
@@ -28381,7 +28382,6 @@ crawdad
 collector
 crawfishing
 capitalization
-corvoid
 corviform
 cull
 corbie
