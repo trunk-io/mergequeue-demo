@@ -2084,7 +2084,6 @@ epeisodia
 eland
 embryologists
 extraorbital
-ephemerons
 embryogeny
 eruptives
 empicture
@@ -3516,6 +3515,7 @@ extendable
 evaporability
 eumerogenesis
 epicyclic
+ephemerons
 enripen
 entrefer
 ensmall
