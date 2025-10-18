@@ -4314,7 +4314,6 @@ efs
 ender
 embiidae
 emptied
-exclam
 enteroischiocele
 encage
 estus
@@ -12073,6 +12072,7 @@ ensigns
 epineural
 epiphanizing
 elevener
+exclam
 erodable
 enterotome
 eichwaldite
