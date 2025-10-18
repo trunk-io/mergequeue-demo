@@ -4260,7 +4260,6 @@ caricaceae
 caricaceous
 carcinology
 cattleya
-caricatura
 crosshand
 cochlitis
 cyclus
@@ -19903,6 +19902,7 @@ claye
 chelydridae
 custards
 comedo
+caricatura
 cassareep
 comely
 comendite
