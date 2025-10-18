@@ -10845,6 +10845,7 @@ collagens
 cupules
 chlordane
 chiolite
+compearance
 chionablepsia
 chionaspis
 chamecephalus
@@ -25327,7 +25328,6 @@ cputime
 coraveca
 coryphaei
 coryphaenoididae
-compearance
 confucians
 commerce
 clackers
