@@ -2613,7 +2613,6 @@ caveator
 carriable
 cankereat
 cankered
-cephalosporium
 catostomus
 cankerfret
 calcemia
@@ -12607,6 +12606,7 @@ carapaces
 chaussees
 choppily
 chronons
+cephalosporium
 coalbox
 chefrinia
 chronoscopically
