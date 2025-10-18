@@ -520,7 +520,6 @@ brab
 biserial
 briming
 broadway
-besiclometer
 bcd
 bier
 brackishness
@@ -3508,6 +3507,7 @@ boxfuls
 boloneys
 bowyers
 brantle
+besiclometer
 breadman
 byrlakin
 bloodflower
