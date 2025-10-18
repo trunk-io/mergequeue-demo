@@ -3455,7 +3455,6 @@ electrothermancy
 emblazes
 evelight
 endophyte
-emblazoner
 emblazonments
 effete
 embrocation
@@ -9727,6 +9726,7 @@ entrusts
 extensory
 expenthesis
 electroplate
+emblazoner
 endodontist
 estable
 ervils
