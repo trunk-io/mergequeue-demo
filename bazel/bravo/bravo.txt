@@ -5173,6 +5173,7 @@ bracken
 brabble
 brailled
 belatticed
+bellylike
 beggaries
 bicornuate
 butterpaste
@@ -5718,7 +5719,6 @@ brachering
 beclouds
 barbermonger
 boozily
-bellylike
 biogenetical
 beanstalks
 banquo
