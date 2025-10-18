@@ -5398,7 +5398,6 @@ eviction
 electrobath
 epigne
 energesis
-epidia
 exocycloida
 expletives
 exacinate
@@ -14210,6 +14209,7 @@ expired
 euphuized
 employability
 epithelium
+epidia
 electrokinetic
 excurvated
 equidistance
