@@ -28746,7 +28746,6 @@ compendiary
 crepuscular
 coremium
 constraints
-cavitate
 catenary
 cresc
 crescendo
@@ -30075,6 +30074,7 @@ carnivores
 circumambiencies
 cheson
 cephalophorous
+cavitate
 crowder
 crowdies
 confecture
