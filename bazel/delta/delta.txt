@@ -3651,6 +3651,7 @@ destructor
 drugged
 depsid
 disrupt
+drylot
 depolarizer
 drawcard
 dapedium
@@ -4203,7 +4204,6 @@ dolling
 delirium
 dreikanters
 distingu
-drylot
 doctrinization
 dynastinae
 disherit
