@@ -4921,7 +4921,6 @@ crofterization
 carvage
 carval
 chlorosilicate
-carve
 cannabinol
 cutlasses
 carvene
@@ -10290,6 +10289,7 @@ chichevache
 chapleted
 chichicaste
 cinderlike
+carve
 chichimec
 chichipe
 carvyl
