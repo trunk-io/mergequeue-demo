@@ -6250,7 +6250,6 @@ endoergic
 ecophysiology
 enrut
 epicycloid
-epidermatous
 ens
 embelia
 elenchtic
@@ -13717,6 +13716,7 @@ ethnish
 entwisting
 electrophoretic
 embryonic
+epidermatous
 electrocautery
 encounterable
 epigonism
