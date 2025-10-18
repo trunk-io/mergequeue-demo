@@ -6605,7 +6605,6 @@ curviness
 cryptographer
 cosheath
 conglution
-chandelles
 cedrela
 cocamine
 cedry
@@ -31237,6 +31236,7 @@ curates
 compile
 cliffside
 curatess
+chandelles
 curation
 cutworks
 curative
