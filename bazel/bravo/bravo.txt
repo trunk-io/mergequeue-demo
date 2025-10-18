@@ -12665,6 +12665,7 @@ boobish
 bigheads
 bedash
 breechcloth
+bedclothes
 busying
 beguin
 basilary
@@ -15274,7 +15275,6 @@ beveler
 bumkin
 bridelope
 boardman
-bedclothes
 baybush
 bridemaid
 barytone
