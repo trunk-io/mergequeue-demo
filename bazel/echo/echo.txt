@@ -9941,6 +9941,7 @@ eclat
 entities
 equidense
 emptiers
+equiponderancy
 esterifies
 enzyms
 erratas
@@ -13280,7 +13281,6 @@ extollation
 executrix
 enfonce
 excretive
-equiponderancy
 exorcized
 exposed
 ethnogeographically
