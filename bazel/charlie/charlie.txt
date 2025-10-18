@@ -13650,7 +13650,6 @@ crosslike
 caddisflies
 cutlases
 concentus
-crotonic
 ciliophora
 carlet
 cyanometry
@@ -26953,6 +26952,7 @@ circumambience
 calcifugous
 counterimagination
 counterimpulse
+crotonic
 counterindented
 counterindication
 countermining
