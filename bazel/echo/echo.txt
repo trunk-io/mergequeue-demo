@@ -3584,7 +3584,6 @@ electriferous
 econ
 envassal
 extenuates
-envenom
 elliptograph
 embryological
 excessive
@@ -13619,6 +13618,7 @@ essentialism
 erratum
 enfoil
 elephanticide
+envenom
 exanthems
 eupepsy
 evanishes
