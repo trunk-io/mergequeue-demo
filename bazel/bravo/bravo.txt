@@ -7041,7 +7041,6 @@ besped
 beaugregories
 babblish
 becalmed
-bespell
 bespend
 blameable
 buckeens
@@ -17066,6 +17065,7 @@ bespoken
 bure
 bhil
 buddhic
+bespell
 baaing
 beblubber
 bestuds
