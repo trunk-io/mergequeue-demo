@@ -237,7 +237,6 @@ epitheton
 excitableness
 euphon
 endocortex
-elaeosaccharum
 emir
 eastabout
 enwwoven
@@ -11232,6 +11231,7 @@ excitatory
 epidemiographist
 explanatory
 edificed
+elaeosaccharum
 eyebridled
 eyelessness
 excitons
