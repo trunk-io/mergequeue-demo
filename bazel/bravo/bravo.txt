@@ -9072,7 +9072,6 @@ biorhythmicity
 bacteriophagia
 bios
 blunderbuss
-bars
 baseliner
 breviradiate
 bismanol
@@ -11977,6 +11976,7 @@ bawke
 beweeper
 belast
 beele
+bars
 beltlines
 boggier
 blackwort
