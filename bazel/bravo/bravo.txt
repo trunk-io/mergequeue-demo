@@ -8807,7 +8807,6 @@ blunthead
 bedchamber
 beslimed
 bible
-bejewels
 beakers
 beadeyes
 bannet
@@ -10419,6 +10418,7 @@ byssus
 burgrave
 birdbrains
 byreman
+bejewels
 burlecue
 breaker
 blanketlike
