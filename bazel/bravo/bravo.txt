@@ -3479,7 +3479,6 @@ bullfice
 bathmat
 boomed
 background
-basion
 bicipital
 begins
 banker
@@ -5051,6 +5050,7 @@ beflannel
 bureaucrat
 buceros
 bashed
+basion
 beflea
 bozo
 bombable
