@@ -3660,7 +3660,6 @@ baysmelt
 betatrons
 breakout
 beetlestock
-borzicactus
 battened
 batzen
 blundering
@@ -8706,6 +8705,7 @@ baronet
 birotatory
 bower
 baptizers
+borzicactus
 broker
 binding
 baumier
