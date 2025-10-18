@@ -7912,7 +7912,6 @@ desmacyte
 dwelling
 demiss
 devour
-diabolarch
 dorsad
 devourer
 discourseless
@@ -16919,6 +16918,7 @@ disgenic
 dipladenia
 discriminations
 demoralized
+diabolarch
 displacing
 displaceability
 disentwining
