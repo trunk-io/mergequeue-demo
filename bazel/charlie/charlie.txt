@@ -9842,7 +9842,6 @@ chemiotaxic
 cognoscenti
 carvone
 chemiotaxis
-chemiotropic
 chemiotropism
 chemise
 crinet
@@ -19261,6 +19260,7 @@ concealing
 concinnities
 collutoria
 cafeteria
+chemiotropic
 cholecystojejunostomy
 collutorium
 cembalo
