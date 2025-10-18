@@ -3274,7 +3274,6 @@ entrap
 emanativ
 endhand
 exilable
-eventime
 enwreath
 efface
 epiphanized
@@ -5476,6 +5475,7 @@ esmeralda
 earwort
 electrocutes
 enfeebles
+eventime
 epigrammatised
 eleazar
 exterminate
