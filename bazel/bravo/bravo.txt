@@ -2624,6 +2624,7 @@ backbit
 barmcloth
 birdcage
 bullae
+brazilite
 bascules
 bales
 besnivel
@@ -13081,7 +13082,6 @@ beveil
 betels
 buhlbuhl
 befingering
-brazilite
 backadation
 butterroot
 broider
