@@ -6748,6 +6748,7 @@ cellblock
 celled
 concentrativeness
 cellepore
+cotterel
 cellfalcicula
 celliform
 cladocerous
@@ -22820,7 +22821,6 @@ circar
 conorhinus
 cyananthrol
 childbear
-cotterel
 columnizes
 conoscopic
 collective
