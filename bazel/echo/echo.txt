@@ -2424,7 +2424,6 @@ expiates
 exsolved
 efficaciousness
 eminency
-eatable
 empaling
 equipped
 erythrocytolysis
@@ -5509,6 +5508,7 @@ encephalitis
 euphuist
 ectognatha
 elaeopten
+eatable
 enfold
 extroitive
 enneagon
