@@ -4980,6 +4980,7 @@ dipneumones
 dehiscing
 demonstrationist
 drumstick
+destructible
 devilwise
 discrepancy
 dramatize
@@ -16171,7 +16172,6 @@ deceit
 diplozoon
 drimys
 dyewood
-destructible
 deterration
 denaturisation
 disfrocked
