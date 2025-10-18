@@ -6855,7 +6855,6 @@ declimatize
 deformation
 disgustfulness
 depressibility
-desize
 dappling
 desklike
 diphrelatic
@@ -9528,6 +9527,7 @@ differentiability
 disloign
 detenebrate
 dunker
+desize
 dissimilatory
 droner
 deliquescing
