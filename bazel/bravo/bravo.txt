@@ -1643,7 +1643,6 @@ biaxial
 balneotherapy
 boudin
 buchanan
-brasiers
 berdaches
 bedcord
 binaries
@@ -6872,6 +6871,7 @@ biatomic
 backgrounds
 baiocchi
 balky
+brasiers
 brainwater
 bonnive
 beshivered
