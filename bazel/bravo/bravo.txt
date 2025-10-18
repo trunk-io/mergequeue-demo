@@ -4040,7 +4040,6 @@ buttonholing
 brawled
 beastlike
 bengalic
-behead
 bemadam
 berime
 buoyantness
@@ -17429,6 +17428,7 @@ bulker
 beshield
 bunk
 bore
+behead
 begrudged
 belinurus
 bodingly
