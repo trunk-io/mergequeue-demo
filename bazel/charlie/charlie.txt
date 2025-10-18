@@ -18493,7 +18493,6 @@ chondrosarcoma
 centrosymmetrical
 crosslet
 corebel
-caumatic
 cajou
 camerate
 carriageway
@@ -21422,6 +21421,7 @@ codiscoverer
 conchuela
 concierge
 concile
+caumatic
 conciliable
 chaperoning
 clast
