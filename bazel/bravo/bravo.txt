@@ -2960,6 +2960,7 @@ blackballs
 brahman
 barwal
 bannack
+bipartible
 bowers
 betweens
 bejazz
@@ -3889,7 +3890,6 @@ birring
 brainpower
 bishopdom
 backmost
-bipartible
 bummalos
 bailiffry
 bunraku
