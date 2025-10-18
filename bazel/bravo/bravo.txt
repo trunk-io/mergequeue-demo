@@ -266,7 +266,6 @@ betrayed
 bootmaking
 bombardiers
 bacilary
-bayous
 bookrest
 blunk
 bouquetiere
@@ -4591,6 +4590,7 @@ bonito
 bicetyl
 busywork
 bryanthus
+bayous
 boubas
 beekmantown
 baitfish
