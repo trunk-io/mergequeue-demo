@@ -5036,6 +5036,7 @@ bombable
 belching
 benzenyl
 bottomrying
+beaten
 bunrakus
 booley
 beflecked
@@ -9881,7 +9882,6 @@ bitheism
 bathhouse
 barramundas
 bascology
-beaten
 brompicrin
 bromals
 burnsian
