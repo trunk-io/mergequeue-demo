@@ -3101,7 +3101,6 @@ endorsable
 ectomesoblast
 edict
 episcotister
-epiplastral
 escalates
 emmarble
 epicurishly
@@ -8806,6 +8805,7 @@ encephalomyelitic
 ensilage
 euorthoptera
 exiler
+epiplastral
 echinuliform
 emaciated
 ethiop
