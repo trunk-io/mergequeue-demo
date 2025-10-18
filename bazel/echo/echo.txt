@@ -4651,7 +4651,6 @@ exhumers
 exactress
 expensed
 encircle
-emittent
 earthmove
 erase
 entryway
@@ -11022,6 +11021,7 @@ electropuncture
 everbearing
 exergues
 enclear
+emittent
 embarcadero
 erector
 eclated
