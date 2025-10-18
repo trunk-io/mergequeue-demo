@@ -355,7 +355,6 @@ eriphyle
 explosion
 eosinic
 electret
-electrolysed
 embayed
 entoplastic
 ebriose
@@ -7651,6 +7650,7 @@ encephalomalaxis
 ectatic
 epidemiologic
 emulsified
+electrolysed
 euthenist
 epistolizable
 ean
