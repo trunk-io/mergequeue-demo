@@ -6098,6 +6098,7 @@ ecaudata
 experienceable
 equiparant
 embryogenic
+emove
 exegetes
 empyromancy
 eerock
@@ -9042,7 +9043,6 @@ exported
 erlking
 embracers
 estral
-emove
 enfatico
 embolus
 eta
