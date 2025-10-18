@@ -3698,7 +3698,6 @@ dicoumarol
 didact
 disscepter
 dehydrogenate
-distillable
 dermoid
 desmepithelium
 devisable
@@ -11162,6 +11161,7 @@ dosain
 disattune
 dumose
 defiling
+distillable
 diplomacy
 dropsical
 duodenectomy
