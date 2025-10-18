@@ -9183,7 +9183,6 @@ charwomen
 chaseable
 conscientiously
 chased
-chases
 cotonia
 chasma
 chasmed
@@ -29711,6 +29710,7 @@ censuring
 cainozoic
 capped
 crofts
+chases
 croyden
 croydon
 cutinization
