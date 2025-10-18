@@ -16145,6 +16145,7 @@ dextrocerebral
 doughy
 diprotodon
 domesticability
+description
 deemed
 dromic
 derabbinize
@@ -16283,7 +16284,6 @@ dares
 diplarthrism
 decanters
 dishouse
-description
 digs
 devitalizes
 destuff
