@@ -11652,7 +11652,6 @@ beneficience
 boattail
 bosks
 botanizer
-boatward
 breezy
 boatwright
 belitter
@@ -14152,6 +14151,7 @@ breviary
 burgul
 baring
 barytine
+boatward
 bromoaurate
 brachygraphical
 brachyhieric
