@@ -3900,7 +3900,6 @@ empall
 estrogenicity
 enfamish
 ental
-emparchment
 enruin
 encountering
 embarrassingly
@@ -13253,6 +13252,7 @@ epidemical
 exegetics
 echoer
 eggfish
+emparchment
 extraparenchymal
 encoring
 encomendero
