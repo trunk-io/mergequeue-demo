@@ -10232,7 +10232,6 @@ chiasmatic
 counterformula
 clockings
 cleruchic
-chiasms
 coset
 chiasmus
 coeline
@@ -23777,6 +23776,7 @@ contraindicant
 clobberer
 ciliospinal
 contraindicated
+chiasms
 camouflaged
 compunctious
 contraindications
