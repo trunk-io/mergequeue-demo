@@ -10510,7 +10510,6 @@ calemes
 collinearity
 charlocks
 chiliastic
-chiliasts
 croupier
 chilicote
 cundite
@@ -19847,6 +19846,7 @@ combure
 concluding
 cransier
 comburendo
+chiliasts
 comburent
 comburgess
 cochleitis
