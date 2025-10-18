@@ -5527,7 +5527,6 @@ bewreak
 bekiss
 bignoniad
 bekissed
-bekisses
 bouleuterion
 bedip
 ballistite
@@ -12635,6 +12634,7 @@ buttresses
 bonspiel
 beer
 blauwbok
+bekisses
 begladding
 bonteboks
 bagels
