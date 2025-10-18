@@ -11933,6 +11933,7 @@ counterproof
 consol
 cachina
 crouche
+currying
 chorioallantoic
 chorioallantois
 chlorate
@@ -28706,7 +28707,6 @@ carbolic
 clarisse
 consequentially
 charpoy
-currying
 coloniser
 candlewicking
 canonises
