@@ -7289,6 +7289,7 @@ detecter
 discrepancries
 detecters
 decertify
+deplume
 disrump
 delictus
 dominos
@@ -17496,7 +17497,6 @@ dalaga
 drumhead
 dynamiter
 drumliest
-deplume
 dolittle
 decongestive
 drumline
