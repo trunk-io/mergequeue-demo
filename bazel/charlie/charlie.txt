@@ -5656,7 +5656,6 @@ cannon
 cultivatability
 cowpock
 catchline
-choribi
 catchphrase
 catchpole
 camiknickers
@@ -14286,6 +14285,7 @@ circummure
 circummuring
 caped
 convolving
+choribi
 caranda
 circumnavigable
 choristoneura
