@@ -763,7 +763,6 @@ elegances
 engraver
 endoenzyme
 erratums
-ectocoelic
 eyebolt
 engolden
 engagements
@@ -12606,6 +12605,7 @@ episodal
 embase
 ethicalism
 endocentric
+ectocoelic
 enginery
 exosmotic
 erotize
