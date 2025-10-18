@@ -10308,7 +10308,6 @@ eliminates
 elaboratory
 entresalle
 electrovalence
-escrol
 epicrates
 esotery
 ecblastpsis
@@ -10681,6 +10680,7 @@ ellick
 erinose
 emanation
 electroconvulsive
+escrol
 empexa
 erective
 eventfulness
