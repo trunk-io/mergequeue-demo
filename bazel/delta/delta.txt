@@ -5710,6 +5710,7 @@ depilitant
 dermatine
 dipl
 disrobe
+debeaker
 deplaning
 deflower
 disobligation
@@ -15566,7 +15567,6 @@ diazoles
 decorticator
 diplomat
 donovan
-debeaker
 deltahedron
 disappointedly
 dispersoidology
