@@ -7105,7 +7105,6 @@ aethrioscope
 atomical
 airworthiness
 aridnesses
-antiroll
 alacrious
 alacrity
 almsgiving
@@ -22778,6 +22777,7 @@ agitational
 albiculi
 ately
 apropos
+antiroll
 acned
 adenophthalmia
 arad
