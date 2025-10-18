@@ -5424,6 +5424,7 @@ bogginess
 bluestone
 bicycle
 baryton
+boater
 bathymetry
 bimbisara
 bronchopneumonic
@@ -9945,7 +9946,6 @@ bentonite
 bitterroot
 basiation
 bentincks
-boater
 bent
 brooch
 beatificate
