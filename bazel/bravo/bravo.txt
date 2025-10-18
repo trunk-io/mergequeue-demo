@@ -12632,7 +12632,6 @@ barebones
 biconvexity
 bakshaish
 buttresses
-buckshot
 bonspiel
 beer
 blauwbok
@@ -14070,6 +14069,7 @@ belligerence
 brummagem
 bairnliness
 batting
+buckshot
 batonist
 borborygm
 bawrel
