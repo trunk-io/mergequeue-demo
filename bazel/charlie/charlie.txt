@@ -6432,7 +6432,6 @@ cavelike
 cavemen
 cavernal
 cavernlike
-cavernoma
 cavernulous
 circummured
 chochos
@@ -27361,6 +27360,7 @@ capeline
 churchliness
 cassine
 cetological
+cavernoma
 chartophylacia
 coalboxes
 countryside
