@@ -15407,7 +15407,6 @@ colonelship
 clanked
 caracter
 creative
-coldfinch
 clankingly
 cornfloor
 clankless
@@ -24383,6 +24382,7 @@ cookie
 crossness
 cookishly
 colloquia
+coldfinch
 convert
 cellocut
 choana
