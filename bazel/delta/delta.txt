@@ -911,7 +911,6 @@ deplanes
 demideity
 danio
 dentiferous
-decl
 dokimastic
 deconcentrated
 dactylic
@@ -18467,6 +18466,7 @@ duncehood
 determinant
 downbye
 dactylograph
+decl
 discursive
 dodd
 dints
