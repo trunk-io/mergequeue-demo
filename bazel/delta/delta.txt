@@ -274,7 +274,6 @@ degermed
 dishpanful
 disabled
 daguerreotyping
-digitonin
 descendent
 docken
 debugged
@@ -5360,6 +5359,7 @@ doless
 demivolte
 donzella
 dollmaker
+digitonin
 deferral
 dedenda
 dentate
