@@ -4527,7 +4527,6 @@ disallowable
 devalorize
 diplophonia
 dietarily
-disallowed
 developmentist
 dysphoric
 diaspora
@@ -18419,6 +18418,7 @@ dandled
 daubreite
 dimorphite
 dacryoblenorrhea
+disallowed
 desmid
 diptera
 dunitic
