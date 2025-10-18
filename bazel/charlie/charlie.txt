@@ -8024,7 +8024,6 @@ chaetopterus
 cricketlike
 chaetosoma
 chaetosomidae
-calculus
 chaetura
 chafe
 caressant
@@ -22161,6 +22160,7 @@ calcinize
 cyanines
 conflexure
 circumlental
+calculus
 conflict
 conflicted
 corsage
