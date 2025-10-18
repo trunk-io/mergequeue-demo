@@ -5594,6 +5594,7 @@ equatorial
 epicritic
 enforth
 exosperm
+extradict
 exhumate
 enduringness
 edentates
@@ -12444,7 +12445,6 @@ electrometry
 electrocutions
 echidnidae
 exosporal
-extradict
 etheostoma
 ethnical
 effectualness
