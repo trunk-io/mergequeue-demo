@@ -10410,6 +10410,7 @@ blanketlike
 bemantle
 brimborion
 bowdrill
+bespectacled
 battleship
 brothel
 bedriveled
@@ -16609,7 +16610,6 @@ bracingness
 bubales
 blueheads
 bubals
-bespectacled
 bragget
 bathochrome
 bubastid
