@@ -21260,6 +21260,7 @@ compasses
 copula
 concolor
 catchlight
+comport
 conversative
 concentrated
 childward
@@ -30445,7 +30446,6 @@ crosnes
 ctenoplana
 conidiiferous
 cto
-comport
 cosession
 charcuteries
 carrageenin
