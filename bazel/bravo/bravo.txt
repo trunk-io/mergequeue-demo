@@ -13190,7 +13190,6 @@ borrasca
 bins
 b
 blennothorax
-blephariglottis
 bedgown
 bandoliered
 bibliothecae
@@ -16776,6 +16775,7 @@ bespotted
 bucklum
 bondar
 bluffness
+blephariglottis
 besa
 balloting
 buddled
