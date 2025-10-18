@@ -8627,6 +8627,7 @@ changes
 changuina
 channel
 coendou
+counterformula
 channeling
 clubbish
 channelize
@@ -10227,7 +10228,6 @@ chiasmata
 cornelius
 cystoscopy
 chiasmatic
-counterformula
 clockings
 coset
 cochlite
