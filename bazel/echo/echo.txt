@@ -12222,6 +12222,7 @@ evene
 eddyroot
 elev
 exhaustiveness
+evaluator
 ecrus
 earlock
 ectobatic
@@ -13207,7 +13208,6 @@ effectiveness
 educive
 endotoxoid
 ecdysial
-evaluator
 explicits
 electroscopic
 eurylaimidae
