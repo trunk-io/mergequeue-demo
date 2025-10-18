@@ -462,7 +462,6 @@ bowstringed
 bewrought
 backscatter
 bathometry
-backscattered
 backscattering
 bacterioprotein
 borecole
@@ -8354,6 +8353,7 @@ bocage
 balolo
 bilaminar
 blart
+backscattered
 bandh
 beesting
 blooms
