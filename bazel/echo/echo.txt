@@ -2943,7 +2943,6 @@ equivocalities
 encephalopsychesis
 eliminable
 ergophobic
-ergograph
 eliminate
 extinguisher
 embind
@@ -14173,6 +14172,7 @@ enrapt
 ethmopalatine
 extubation
 engouee
+ergograph
 enfettered
 eriobotrya
 ependymoma
