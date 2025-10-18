@@ -14619,7 +14619,6 @@ dicyema
 dispensing
 dihedrals
 dryfarm
-diatomine
 duckboat
 disinfeudation
 dialogised
@@ -17112,6 +17111,7 @@ ducture
 divulging
 demon
 drifters
+diatomine
 duramen
 depositary
 dissembled
