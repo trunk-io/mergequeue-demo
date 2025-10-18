@@ -1521,6 +1521,7 @@ biradial
 borborygmus
 ballista
 burkites
+bubo
 besprinkle
 boilermaker
 bodier
@@ -16304,7 +16305,6 @@ brassy
 betweenbrain
 befalls
 boffin
-bubo
 bemajesty
 bluenesses
 bolthead
