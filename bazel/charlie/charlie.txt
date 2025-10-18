@@ -10217,6 +10217,7 @@ counterformula
 clockings
 cleruchic
 coset
+cochlite
 chiasmus
 coeline
 curacao
@@ -17711,7 +17712,6 @@ conducingly
 calque
 cobaltocyanide
 cochliodus
-cochlite
 coleuses
 cerate
 cochlospermaceae
