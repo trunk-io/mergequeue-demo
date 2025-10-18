@@ -8551,7 +8551,6 @@ exect
 eelpouts
 epigrammatising
 encefalon
-eumorphic
 examen
 euhages
 encheat
@@ -10118,6 +10117,7 @@ excystment
 erodability
 evensongs
 ethicoaesthetic
+eumorphic
 ethicoreligious
 eutectoid
 etesian
