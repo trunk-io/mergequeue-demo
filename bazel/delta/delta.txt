@@ -8107,6 +8107,7 @@ dryfoot
 dispermous
 defenestration
 dispersion
+durabilities
 deltiology
 diswashing
 dumbhead
@@ -9548,7 +9549,6 @@ debordment
 decrete
 disgustingness
 dauting
-durabilities
 diffrangible
 diestrous
 descrier
