@@ -2859,6 +2859,7 @@ disyllabizing
 discodactyl
 digram
 decussoria
+demophoon
 decwriter
 deltoid
 dimethylamine
@@ -16359,7 +16360,6 @@ downshift
 decide
 downshifted
 downshore
-demophoon
 drammage
 diplomate
 dephlegmatize
