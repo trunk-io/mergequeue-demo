@@ -11773,6 +11773,7 @@ alban
 aframerican
 amigo
 appraisal
+adjacence
 achree
 apochromat
 anaglyph
@@ -15659,7 +15660,6 @@ arianistical
 appraises
 antiskepticism
 antipacifistic
-adjacence
 antipacifists
 antipapism
 apocarpies
