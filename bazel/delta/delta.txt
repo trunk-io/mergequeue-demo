@@ -4646,7 +4646,6 @@ decretal
 diapason
 demiox
 disenthrall
-derotremata
 dribbled
 dejecting
 dendral
@@ -9297,6 +9296,7 @@ digestiveness
 disgallant
 dialogical
 desobligeant
+derotremata
 dichoptic
 disard
 derisory
