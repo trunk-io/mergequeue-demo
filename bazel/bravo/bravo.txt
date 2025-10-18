@@ -3875,7 +3875,6 @@ builds
 bockerel
 bladderweed
 besquib
-boathouse
 beardlike
 bathoses
 bullish
@@ -13988,6 +13987,7 @@ bowshots
 bombarder
 boordly
 billback
+boathouse
 ballyragged
 bubos
 bowstring
