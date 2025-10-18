@@ -1069,7 +1069,6 @@ caxon
 cowheel
 calcimined
 calciminer
-calcimines
 crossbarred
 calcinate
 calcinator
@@ -4738,6 +4737,7 @@ carri
 causse
 carry
 carriageable
+calcimines
 crosstie
 carriagesmith
 cinchonicin
