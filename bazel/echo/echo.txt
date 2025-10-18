@@ -7307,7 +7307,6 @@ epeeist
 encorpore
 embue
 edgar
-exstipulate
 ebullitions
 ersatzes
 endent
@@ -9611,6 +9610,7 @@ ethane
 eschele
 editchar
 explode
+exstipulate
 eurytherm
 espino
 ensilate
