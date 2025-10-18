@@ -3902,7 +3902,6 @@ curaris
 co
 cursors
 cyclicality
-compartmental
 coenzymatically
 crystalloluminescence
 coherers
@@ -29423,6 +29422,7 @@ cannele
 cryptozygosity
 cryptozygous
 capitalizers
+compartmental
 covisit
 crozle
 chanter
