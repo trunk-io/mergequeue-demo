@@ -12544,6 +12544,7 @@ edaphology
 escaroles
 echo
 exsects
+enterprise
 elzevir
 enregistry
 event
@@ -13703,7 +13704,6 @@ eschewed
 euphemised
 excitoglandular
 ectogenous
-enterprise
 electrocardiographs
 editable
 ephydrid
