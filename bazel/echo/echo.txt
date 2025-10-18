@@ -298,7 +298,6 @@ equichangeable
 eagerer
 easterling
 ewest
-extravagation
 eaten
 eighty
 eyra
@@ -2722,6 +2721,7 @@ endorsing
 elasmothere
 executions
 ensnarling
+extravagation
 ersh
 enwallow
 elenchize
