@@ -2149,6 +2149,7 @@ counterclaiming
 camponotus
 counterhammering
 campos
+colposcope
 campsite
 conidial
 campsites
@@ -22976,7 +22977,6 @@ carpings
 conserver
 cafardise
 conservers
-colposcope
 circuitry
 consy
 chlorophyllose
