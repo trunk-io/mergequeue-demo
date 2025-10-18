@@ -14371,7 +14371,6 @@ baits
 brahmin
 boxkeeper
 bagnet
-biaswise
 banging
 barricading
 burnable
@@ -15379,6 +15378,7 @@ bandylegged
 blisterwort
 brieflessly
 beisance
+biaswise
 briefness
 bulletproof
 bleeds
