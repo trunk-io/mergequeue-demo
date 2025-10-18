@@ -2139,6 +2139,7 @@ dispensers
 denaro
 decanting
 dactyloid
+drawstop
 distil
 digitized
 diabolology
@@ -2921,7 +2922,6 @@ diligentia
 dowf
 deducibility
 dihalo
-drawstop
 deducted
 despiciency
 debunking
