@@ -8174,6 +8174,7 @@ allophonic
 arn
 anticks
 alhambra
+academize
 asteria
 assentive
 anglify
@@ -13748,7 +13749,6 @@ askings
 auletes
 austere
 anointment
-academize
 anointments
 articulation
 allopathetically
