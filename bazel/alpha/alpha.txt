@@ -4122,7 +4122,6 @@ anaesthesia
 aduncity
 ados
 algerian
-atrophiated
 autaesthesy
 ameban
 apoplexies
@@ -20325,6 +20324,7 @@ alerter
 antagonisable
 airwash
 aldeament
+atrophiated
 antiinsurrectionists
 archdeaconate
 acetolysis
