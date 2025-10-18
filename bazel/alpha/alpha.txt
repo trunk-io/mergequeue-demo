@@ -1870,6 +1870,7 @@ animallike
 anoscope
 attempre
 auxometer
+autoboat
 absorbs
 alabastos
 aristological
@@ -2554,7 +2555,6 @@ anthogenous
 archipallial
 adicity
 amidoaldehyde
-autoboat
 alangine
 aflare
 asarh
