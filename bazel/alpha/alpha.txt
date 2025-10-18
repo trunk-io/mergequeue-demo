@@ -9665,7 +9665,6 @@ aduncated
 alveololabial
 airan
 alveololingual
-alveolosubnasal
 antagonising
 archelon
 astrolater
@@ -11136,6 +11135,7 @@ acampsia
 articulating
 astringently
 asharasi
+alveolosubnasal
 antihydropin
 abase
 abthanage
