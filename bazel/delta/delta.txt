@@ -12565,7 +12565,6 @@ doorkeep
 disinfectants
 dreg
 decimestrial
-disinfected
 dispractice
 deflux
 dyscrased
@@ -14699,6 +14698,7 @@ demonstrably
 dowers
 disagrees
 djuka
+disinfected
 diaskeuast
 disenrol
 duddle
