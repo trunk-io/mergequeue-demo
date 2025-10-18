@@ -5927,7 +5927,6 @@ durwaun
 despots
 drago
 didine
-deforester
 daylights
 dryopians
 devotions
@@ -8400,6 +8399,7 @@ dg
 denierage
 decolourized
 dargah
+deforester
 demoded
 disprince
 daffled
