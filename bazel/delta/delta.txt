@@ -10644,7 +10644,6 @@ decrowns
 declare
 denote
 dislikes
-decompensates
 deepens
 deoculate
 diatomaceous
@@ -14000,6 +13999,7 @@ depuration
 duppa
 dimethyldiketone
 dime
+decompensates
 disseise
 drammach
 declination
