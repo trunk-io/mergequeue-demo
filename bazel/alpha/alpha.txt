@@ -4704,7 +4704,6 @@ abortuses
 archlute
 aeroboat
 acropathy
-arteriae
 aerocamera
 acta
 ackmen
@@ -21874,6 +21873,7 @@ azotea
 autotype
 alternanthera
 autocondensation
+arteriae
 assyriology
 analyst
 arilli
