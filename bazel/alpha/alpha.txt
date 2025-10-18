@@ -6487,7 +6487,6 @@ arithmancy
 afterripening
 arbalestre
 apocarpous
-appetitive
 aiel
 aias
 agapeti
@@ -14272,6 +14271,7 @@ antergic
 autodetector
 aguamiel
 anterioyancer
+appetitive
 acetyls
 alkylbenzenesulfonate
 antennal
