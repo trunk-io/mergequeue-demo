@@ -6096,7 +6096,6 @@ bedclothing
 boodle
 battlegrounds
 bebreech
-borotungstate
 braziers
 bacteriologies
 bretesse
@@ -10610,6 +10609,7 @@ bantams
 bachelorize
 borderside
 bihari
+borotungstate
 btise
 brockish
 buccellarius
