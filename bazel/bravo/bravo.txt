@@ -8377,7 +8377,6 @@ bool
 bewall
 bleachyard
 bildar
-bilder
 biflabellate
 bilders
 brahmanize
@@ -17196,6 +17195,7 @@ brachialgia
 biorhythmic
 brachydodrome
 blachong
+bilder
 blanketing
 brambling
 barkstone
