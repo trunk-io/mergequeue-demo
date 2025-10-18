@@ -4129,7 +4129,6 @@ chervante
 corrodiary
 chapbooks
 cornein
-cardo
 cardona
 cannaled
 cardoncillo
@@ -7090,6 +7089,7 @@ centos
 chalkone
 chilotomy
 choroidocyclitis
+cardo
 coruscant
 cheatable
 centrad
