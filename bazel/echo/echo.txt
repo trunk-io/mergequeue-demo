@@ -5818,7 +5818,6 @@ eucharis
 eld
 epicardial
 ecru
-extranormal
 expend
 escarp
 elding
@@ -12495,6 +12494,7 @@ ensporia
 epirhizous
 epiural
 enquired
+extranormal
 epitheliomata
 embryographic
 evection
