@@ -2913,7 +2913,6 @@ extund
 energy
 eliphalet
 elbowroom
-electing
 exarchist
 equiangle
 eviscerate
@@ -4846,6 +4845,7 @@ eugenesic
 errorless
 electrotyping
 equatorwards
+electing
 estately
 epicele
 endemiology
