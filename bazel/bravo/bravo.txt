@@ -4278,7 +4278,6 @@ buffalofishes
 briskness
 breakthroughs
 bathman
-bishopless
 blossomry
 betterment
 bakeboard
@@ -5053,6 +5052,7 @@ budworm
 basifies
 before
 biotic
+bishopless
 borings
 biblicist
 bindle
