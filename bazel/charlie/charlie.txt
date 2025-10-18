@@ -17384,7 +17384,6 @@ coarsens
 caunus
 claylike
 contratempo
-coassert
 contagia
 clupea
 caravelle
@@ -20830,6 +20829,7 @@ chinamaniac
 coendidae
 campodea
 counterspy
+coassert
 compliment
 cricketings
 concealer
