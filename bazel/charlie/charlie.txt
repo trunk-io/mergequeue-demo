@@ -8038,7 +8038,6 @@ confessionist
 chaetopterus
 chaetosoma
 chaetosomidae
-chaetotactic
 calculus
 chaetura
 chafe
@@ -12653,6 +12652,7 @@ chuckfarthing
 chuckhole
 canvassy
 corolliform
+chaetotactic
 chuckie
 cowpunch
 conspiratorially
