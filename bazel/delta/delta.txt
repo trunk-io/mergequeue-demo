@@ -1260,7 +1260,6 @@ dreamlore
 dimouts
 disseizes
 dunster
-demilegato
 dusted
 duckers
 deplane
@@ -16239,6 +16238,7 @@ dioptidae
 deerskins
 dizens
 develops
+demilegato
 dejected
 demoralizes
 dowering
