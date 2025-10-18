@@ -5980,7 +5980,6 @@ accouters
 anes
 agitate
 agitated
-actor
 antirobin
 alimented
 alkalisation
@@ -16858,6 +16857,7 @@ apiculi
 achromatiaceae
 acanthocarpous
 archplunderer
+actor
 agrionia
 albricias
 adarbitrium
