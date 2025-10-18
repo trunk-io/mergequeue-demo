@@ -10878,7 +10878,6 @@ disdiaclastic
 dalk
 despatchers
 demirelief
-directdiscourse
 doublewords
 dynodes
 demarks
@@ -16500,6 +16499,7 @@ discriminatingness
 dwellings
 demurring
 detached
+directdiscourse
 deediness
 disbowelling
 detrimentality
