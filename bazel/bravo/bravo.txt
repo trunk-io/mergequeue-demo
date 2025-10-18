@@ -1771,7 +1771,6 @@ bullose
 brushable
 bialystoker
 bannets
-bandaging
 bowlin
 beaverpelt
 bandala
@@ -11999,6 +11998,7 @@ birmingham
 bumbles
 brothelry
 bostons
+bandaging
 bogymen
 becard
 bogland
