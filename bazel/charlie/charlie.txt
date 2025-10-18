@@ -7662,6 +7662,7 @@ corambis
 chloroplatinite
 cermet
 cyamid
+clavis
 cataplastic
 ciceros
 colyonic
@@ -24546,7 +24547,6 @@ carapace
 copaiva
 courtliness
 capitatum
-clavis
 copaivic
 circumvallate
 copalite
