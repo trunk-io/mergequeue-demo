@@ -1383,6 +1383,7 @@ except
 endoparasitic
 epics
 exorbitation
+enarm
 eutrophication
 entasias
 eprosy
@@ -1816,7 +1817,6 @@ envisaging
 ensuring
 excellently
 entellus
-enarm
 enigmatography
 equigranular
 execrable
