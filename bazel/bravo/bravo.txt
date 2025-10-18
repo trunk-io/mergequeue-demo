@@ -9435,6 +9435,7 @@ brewer
 bathymetric
 birectangular
 battels
+boominess
 billycans
 bajochi
 boroughs
@@ -12832,7 +12833,6 @@ brahmanism
 bandana
 becurse
 bongos
-boominess
 backlog
 blousiest
 biphenyls
