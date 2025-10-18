@@ -2131,7 +2131,6 @@ achondritic
 achondroplasia
 asthenology
 anagraph
-achorion
 achillodynia
 ashmolean
 acyclically
@@ -5821,6 +5820,7 @@ aerobiological
 ampullate
 anticonscriptive
 assay
+achorion
 agglomerated
 anartismos
 arenaceous
