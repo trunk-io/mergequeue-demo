@@ -473,7 +473,6 @@ cartages
 caractacus
 chladnite
 cancelable
-coleopterous
 convertend
 cacur
 cad
@@ -14200,6 +14199,7 @@ circumambiency
 checkwriter
 coweringly
 cuttable
+coleopterous
 cuisinier
 culinary
 chirker
