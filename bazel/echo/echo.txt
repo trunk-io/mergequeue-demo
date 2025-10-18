@@ -5458,7 +5458,6 @@ electron
 ejectamenta
 euscaro
 egging
-elasmosaurus
 eccentrics
 extratympanic
 embowered
@@ -9625,6 +9624,7 @@ evilsayer
 epiglottiditis
 exsec
 edhs
+elasmosaurus
 enhalos
 envied
 eclipsable
