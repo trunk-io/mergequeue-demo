@@ -4132,7 +4132,6 @@ burgh
 bebless
 budukha
 botulin
-bryonin
 berhyming
 baldish
 bisect
@@ -18054,6 +18053,7 @@ braconniere
 betoken
 baptizable
 beefwood
+bryonin
 bullrings
 bourgs
 bustler
