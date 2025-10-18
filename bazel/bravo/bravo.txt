@@ -15474,7 +15474,6 @@ beltline
 bronchotome
 braata
 bereave
-buteo
 bioplasm
 bookworm
 bono
@@ -17220,6 +17219,7 @@ bathylith
 bequeathed
 brodee
 bullated
+buteo
 benchboard
 bifistular
 bronchopneumonia
