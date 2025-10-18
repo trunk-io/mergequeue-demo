@@ -10371,7 +10371,6 @@ chief
 chokra
 chiefery
 cyatholith
-conveyorizer
 chiefish
 chieftain
 chieftaincy
@@ -26266,6 +26265,7 @@ cossack
 coequality
 conform
 crustification
+conveyorizer
 cossaean
 cabrit
 cosse
