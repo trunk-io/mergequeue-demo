@@ -4515,7 +4515,6 @@ allotropical
 ayes
 allusively
 apish
-aurigal
 aes
 adwesch
 assistance
@@ -12705,6 +12704,7 @@ ashler
 atoning
 advene
 anfractuose
+aurigal
 andranatomy
 anfractuosity
 appreciatively
