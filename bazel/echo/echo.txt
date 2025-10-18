@@ -6531,7 +6531,6 @@ electroacoustics
 elephantlike
 enolic
 earshell
-ellipse
 expectorations
 enzymologies
 enterohydrocele
@@ -12332,6 +12331,7 @@ emprosthotonus
 electrifying
 endoangiitis
 erythropia
+ellipse
 ense
 enhancive
 etiogenic
