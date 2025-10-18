@@ -718,6 +718,7 @@ bewield
 besogne
 blueish
 burnishers
+bartending
 broadbill
 banderol
 baign
@@ -2925,7 +2926,6 @@ boist
 birretta
 bartenders
 benzene
-bartending
 bulbiferous
 bartends
 burthened
