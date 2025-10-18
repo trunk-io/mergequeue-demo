@@ -2159,7 +2159,6 @@ bezel
 bloodthirst
 batiste
 busthead
-bowfront
 bast
 bartholomite
 blousons
@@ -6001,6 +6000,7 @@ bulbel
 belted
 barricader
 biomasses
+bowfront
 bend
 bub
 breastpin
