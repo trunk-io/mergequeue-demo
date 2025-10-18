@@ -4680,6 +4680,7 @@ blockboard
 balliage
 beefwoods
 blear
+bate
 backdate
 bidialectal
 bracker
@@ -14465,7 +14466,6 @@ blastulas
 bournes
 bevy
 beehouse
-bate
 burgage
 backlands
 belieffulness
