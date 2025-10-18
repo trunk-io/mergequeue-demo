@@ -7325,7 +7325,6 @@ bibliographic
 bys
 basinal
 borocaine
-bootikins
 beautifications
 bungey
 boluses
@@ -18223,6 +18222,7 @@ bandages
 breakax
 bushwhacks
 bottlelike
+bootikins
 bespawl
 bescoured
 broiderer
