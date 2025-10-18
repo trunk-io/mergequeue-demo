@@ -4144,7 +4144,6 @@ cardophagus
 clearwing
 carbamido
 chiron
-crunt
 carabideous
 cassumunar
 cardsharping
@@ -28772,6 +28771,7 @@ counterrevolution
 cussing
 crescentader
 countercross
+crunt
 cleaving
 cogitant
 crescented
