@@ -4570,6 +4570,7 @@ carpalia
 carpals
 camelopardel
 chela
+calamondin
 carpathian
 creekfish
 chorographical
@@ -5702,7 +5703,6 @@ catechists
 creatin
 catechizer
 chainer
-calamondin
 cojoin
 catechizes
 conveyors
