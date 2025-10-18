@@ -431,7 +431,6 @@ erigible
 engravement
 eyebright
 effeminated
-encounterable
 electrocute
 eagres
 echappe
@@ -12504,6 +12503,7 @@ epitheliomata
 embryographic
 evection
 eukairite
+encounterable
 enrapture
 erases
 enterer
