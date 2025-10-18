@@ -4546,7 +4546,6 @@ airbursts
 axanthopsia
 autoreduction
 accompanier
-annealed
 awave
 anemopathy
 abiliment
@@ -7003,6 +7002,7 @@ aktiebolag
 annonce
 alvina
 adventry
+annealed
 aberrational
 autophotometry
 acetylene
