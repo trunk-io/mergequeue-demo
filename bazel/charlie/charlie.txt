@@ -10095,7 +10095,6 @@ chesser
 cabinda
 concentrator
 chessylite
-cemeteries
 chessist
 carmelitess
 chirimen
@@ -22501,6 +22500,7 @@ copy
 conidium
 crashing
 conifer
+cemeteries
 cassinian
 consequentialness
 coniferin
