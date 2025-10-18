@@ -4219,7 +4219,6 @@ beccaficos
 beerbibber
 bechanced
 bellic
-birefringent
 bellona
 barges
 bromhydric
@@ -12925,6 +12924,7 @@ beastdom
 bruin
 babka
 battuto
+birefringent
 bouffante
 bonnetman
 branchiosauria
