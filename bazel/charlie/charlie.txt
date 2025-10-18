@@ -9389,6 +9389,7 @@ chump
 chaw
 chawbacon
 chawdron
+control
 cytitis
 chawers
 chawia
@@ -23918,7 +23919,6 @@ closures
 contriver
 caimitillo
 contrives
-control
 controller
 controlless
 compositeness
