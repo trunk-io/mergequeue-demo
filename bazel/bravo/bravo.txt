@@ -3110,6 +3110,7 @@ biprism
 blastoid
 beckoner
 benvenuto
+boom
 bodiless
 bathtub
 bipontine
@@ -16597,7 +16598,6 @@ blepharophthalmia
 bacule
 backpointers
 butyrochloral
-boom
 bardier
 bt
 btry
