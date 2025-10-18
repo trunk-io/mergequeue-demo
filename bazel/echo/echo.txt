@@ -3381,7 +3381,6 @@ ectophyte
 embers
 epees
 expiating
-exing
 elicitory
 ensnarer
 exorcist
@@ -7467,6 +7466,7 @@ eucrasite
 enfeeblements
 evg
 ectoprocta
+exing
 edaphic
 emigated
 equivocality
