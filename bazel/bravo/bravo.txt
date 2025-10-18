@@ -7309,6 +7309,7 @@ barhopping
 boomdas
 beeline
 beneceptor
+branchiostegite
 billiards
 beylic
 briny
@@ -12594,7 +12595,6 @@ bibbers
 bungaloid
 budlike
 bristlemouths
-branchiostegite
 berberry
 beholder
 backlist
