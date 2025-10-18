@@ -1505,7 +1505,6 @@ clatterer
 cellarwoman
 callithumpian
 chapeaux
-collectivist
 cystitome
 crenitic
 cartographer
@@ -19592,6 +19591,7 @@ crocodiles
 colstaff
 coups
 congresswoman
+collectivist
 cdr
 coltishly
 calicos
