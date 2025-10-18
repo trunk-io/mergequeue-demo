@@ -2105,6 +2105,7 @@ cotan
 completions
 commutes
 conference
+chinkapin
 campi
 celeriac
 campy
@@ -15102,7 +15103,6 @@ civory
 civvy
 clobbering
 cocksfoot
-chinkapin
 cater
 cixo
 congenially
