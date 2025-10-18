@@ -2440,6 +2440,7 @@ corporeal
 chaldaical
 candleholder
 confisk
+carbonisable
 candlelight
 candlelighter
 chaloth
@@ -3785,7 +3786,6 @@ criminalness
 characterisation
 concomitance
 crankles
-carbonisable
 carbonise
 clarets
 cyclammonium
