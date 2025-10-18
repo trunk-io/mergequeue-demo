@@ -232,7 +232,6 @@ emperil
 extrametropolitan
 epitheton
 excitableness
-embolden
 euphon
 endocortex
 elaeosaccharum
@@ -1050,6 +1049,7 @@ encephalotome
 estuaries
 endocranium
 endosternite
+embolden
 entrochite
 erogenous
 edplot
