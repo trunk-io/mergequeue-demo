@@ -13486,6 +13486,7 @@ bleaty
 benes
 backfields
 blueprints
+barratry
 basementless
 bargaining
 bricklike
@@ -13917,7 +13918,6 @@ bluffers
 bacillaceae
 bedded
 bookwise
-barratry
 babysit
 baas
 burettes
