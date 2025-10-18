@@ -5382,6 +5382,7 @@ disinsection
 disblame
 dragade
 daraf
+doorlike
 dacryocystosyringotomy
 diaphoretic
 dupla
@@ -12057,7 +12058,6 @@ discous
 discontinuity
 demonstrable
 dahabeah
-doorlike
 drumble
 delirant
 demantoid
