@@ -1237,6 +1237,7 @@ chusite
 cicadid
 centenier
 cinquecentism
+ciphered
 calendas
 comodo
 cryptobranchia
@@ -29269,7 +29270,6 @@ clambakes
 chondroma
 cutlas
 choices
-ciphered
 calibrate
 cryptobranchus
 coniospermous
