@@ -1393,7 +1393,6 @@ dactylopodite
 discomfits
 digitals
 disconnecting
-deterministic
 dueful
 desultorily
 dryster
@@ -11002,6 +11001,7 @@ disacknowledgement
 dachs
 dole
 drupe
+deterministic
 drank
 dexterously
 deuterocone
