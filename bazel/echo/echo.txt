@@ -535,7 +535,6 @@ expurgate
 embryoferous
 extractable
 exoterics
-extispices
 equalist
 extollers
 epodic
@@ -9340,6 +9339,7 @@ excludingly
 expanded
 enaliosauria
 ethonone
+extispices
 ejector
 exhibited
 exogamy
