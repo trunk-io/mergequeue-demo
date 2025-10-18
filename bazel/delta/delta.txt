@@ -440,7 +440,6 @@ deckle
 daunder
 dayrooms
 degummer
-dodrantal
 debonair
 degausses
 disconjure
@@ -11629,6 +11628,7 @@ discharger
 deportable
 dentatosetaceous
 dimetallic
+dodrantal
 deployment
 discontents
 derringer
