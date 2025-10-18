@@ -3386,7 +3386,6 @@ embers
 epees
 expiating
 exing
-eclipse
 elicitory
 ensnarer
 exorcist
@@ -8462,6 +8461,7 @@ echoers
 emporte
 elodeaceae
 earthliest
+eclipse
 effluvivia
 estheriidae
 ecchymosis
