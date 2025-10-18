@@ -1380,6 +1380,7 @@ except
 endoparasitic
 epics
 exorbitation
+equalable
 eutrophication
 entasias
 eprosy
@@ -9891,7 +9892,6 @@ eurhythmical
 eyeletting
 endew
 ethanal
-equalable
 ephydriad
 evirtuate
 eternalize
