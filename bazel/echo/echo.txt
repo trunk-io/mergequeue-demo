@@ -5250,7 +5250,6 @@ extension
 eponymic
 enigma
 extravasated
-euphonium
 ethnohistoric
 endopods
 electrotechnology
@@ -8517,6 +8516,7 @@ evangelized
 easts
 empight
 equative
+euphonium
 enrobed
 economised
 electre
