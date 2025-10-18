@@ -7427,6 +7427,7 @@ evasive
 epidiascopic
 escamoteur
 effluency
+extrabold
 ergophile
 ekphory
 eutocia
@@ -7591,7 +7592,6 @@ effusion
 ensconce
 enhungered
 euryale
-extrabold
 exocrine
 enid
 eoliths
