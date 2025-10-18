@@ -2835,7 +2835,6 @@ birdlet
 blackguard
 bummie
 bensil
-botanical
 bagatelles
 backsides
 bundies
@@ -4756,6 +4755,7 @@ brandenburgs
 befoolment
 beclap
 bloomfell
+botanical
 bedunce
 bulkily
 bactericides
