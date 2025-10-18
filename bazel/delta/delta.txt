@@ -924,7 +924,6 @@ dobbins
 deserts
 dipnoi
 dendroeca
-dismantle
 densus
 decapsulate
 dermapostasis
@@ -16505,6 +16504,7 @@ detached
 deediness
 disbowelling
 detrimentality
+dismantle
 dendrolagus
 dradge
 dangleberries
