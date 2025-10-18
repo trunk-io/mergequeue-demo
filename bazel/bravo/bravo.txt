@@ -7089,7 +7089,6 @@ bogfern
 bachelorism
 bandolier
 bloodied
-barefoot
 babylonism
 balopticon
 besra
@@ -16255,6 +16254,7 @@ burdened
 barks
 bearcats
 breadbox
+barefoot
 brinie
 brought
 benumbment
