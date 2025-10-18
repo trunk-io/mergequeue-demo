@@ -1444,7 +1444,6 @@ breastbeam
 brownweed
 bodaciously
 backrope
-barbarian
 balibuntl
 beggar
 bidarka
@@ -13580,6 +13579,7 @@ babble
 bookend
 billiken
 beseek
+barbarian
 boxtree
 boondoggle
 besplatter
