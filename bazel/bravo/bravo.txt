@@ -2584,6 +2584,7 @@ bribeable
 bumpy
 barling
 broadsword
+bannition
 backblocks
 burdenless
 barretter
@@ -14283,7 +14284,6 @@ butterer
 brawlys
 birls
 blessedest
-bannition
 bonaght
 brandenburg
 brocades
