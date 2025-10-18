@@ -6172,6 +6172,7 @@ actaea
 apographical
 artificial
 auxographic
+appestats
 alimental
 agral
 adiposities
@@ -17698,7 +17699,6 @@ adjutrice
 antiagglutination
 atomicity
 apostlehood
-appestats
 anodynous
 accrease
 appetiser
