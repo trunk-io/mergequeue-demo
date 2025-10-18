@@ -3606,7 +3606,6 @@ entrainer
 epicenes
 effluvium
 elegy
-endevil
 excommune
 electropathology
 egghot
@@ -13879,6 +13878,7 @@ empressment
 eisegesis
 ensuant
 enfortune
+endevil
 extirpates
 elations
 engineer
