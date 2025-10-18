@@ -209,6 +209,7 @@ bandy
 bipartition
 bandido
 bitt
+bubble
 borderlight
 bacchanalian
 bacchanals
@@ -4486,7 +4487,6 @@ blader
 bolognan
 beddingroll
 boastful
-bubble
 bitstock
 believed
 broomwood
