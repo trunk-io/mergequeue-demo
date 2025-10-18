@@ -7931,6 +7931,7 @@ dingbat
 dotchin
 dalcassian
 did
+diffused
 dermestes
 dumortierite
 diamylose
@@ -8781,7 +8782,6 @@ demissionary
 dias
 dermatographia
 downstream
-diffused
 dysoxidizable
 dilative
 diascope
