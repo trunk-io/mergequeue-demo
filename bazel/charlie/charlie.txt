@@ -17924,7 +17924,6 @@ cue
 capsulae
 codifying
 codilla
-cephid
 codille
 codirected
 codirecting
@@ -30383,6 +30382,7 @@ crustated
 confixed
 crooking
 contesters
+cephid
 crusted
 clocks
 crustier
