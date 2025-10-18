@@ -2305,6 +2305,7 @@ bemoisten
 besplash
 bladesmith
 bardcraft
+bloomeria
 beleve
 buckhorn
 brahmanical
@@ -16192,7 +16193,6 @@ bloodstain
 boltstrake
 breves
 balklines
-bloomeria
 brotheler
 beurre
 bulla
