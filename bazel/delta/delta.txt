@@ -2553,6 +2553,7 @@ distress
 demisheath
 dewar
 disrest
+dutcher
 diabology
 diswont
 dimmed
@@ -14351,7 +14352,6 @@ disillusionment
 disperato
 dittoes
 delimitizing
-dutcher
 depths
 dauntingness
 divaricator
