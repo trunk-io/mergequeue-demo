@@ -14080,7 +14080,6 @@ alborak
 ante
 anteambulate
 anecdotage
-anteater
 albright
 akroterion
 achronychous
@@ -15319,6 +15318,7 @@ aspace
 accessory
 astrometrical
 arteries
+anteater
 aceratosis
 anhydrotic
 attitudinal
