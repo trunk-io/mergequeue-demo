@@ -1913,7 +1913,6 @@ bigeminate
 bipolarity
 begoniaceous
 blossomy
-bandlimiting
 bissonata
 bilbi
 basketwood
@@ -7367,6 +7366,7 @@ bodybuild
 bargeese
 beaconwise
 bala
+bandlimiting
 bequote
 bladderwrack
 bumpee
