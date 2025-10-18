@@ -5561,6 +5561,7 @@ egosyntonic
 europe
 epistemology
 elysium
+elapsed
 esophoria
 encroach
 enveloping
@@ -8864,7 +8865,6 @@ elaterid
 eragrostis
 electrophori
 embira
-elapsed
 electrize
 empiecement
 enzygotic
