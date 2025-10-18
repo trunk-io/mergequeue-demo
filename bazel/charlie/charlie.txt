@@ -5990,6 +5990,7 @@ candify
 catlike
 comma
 catling
+contests
 catlings
 catlins
 corer
@@ -29907,7 +29908,6 @@ chekist
 compositing
 catarrhed
 crossbreeding
-contests
 cameralism
 crosscutting
 crosse
