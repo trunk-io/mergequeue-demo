@@ -3656,6 +3656,7 @@ elinvar
 emended
 erugation
 electroendosmotic
+endosporia
 echiuroidea
 exanthematous
 eriophyes
@@ -6346,7 +6347,6 @@ eosins
 existentially
 exodontics
 earwiggy
-endosporia
 endgame
 elative
 earthling
