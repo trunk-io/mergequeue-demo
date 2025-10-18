@@ -13559,7 +13559,6 @@ coguarantor
 cymbalist
 cascabel
 cymbalists
-cymballed
 cymballing
 cimbaloms
 cymbalon
@@ -24310,6 +24309,7 @@ circuity
 clothing
 cerebellum
 chorion
+cymballed
 coeternal
 choky
 childlier
