@@ -3364,6 +3364,7 @@ besmudge
 bryon
 bilsteds
 bonducnut
+barkometer
 bagnes
 biscuiting
 bugeye
@@ -11203,7 +11204,6 @@ bloodwite
 baffler
 bologna
 bailee
-barkometer
 bugfish
 bromizing
 brummer
