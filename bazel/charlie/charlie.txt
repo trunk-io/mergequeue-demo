@@ -8465,7 +8465,6 @@ champagnized
 chloridized
 cesurae
 champak
-chamfering
 characterstring
 champaka
 conducts
@@ -11278,6 +11277,7 @@ cuttlebone
 chloroaurite
 catawbas
 chlorobenzene
+chamfering
 centripetency
 cougars
 chlorochromates
