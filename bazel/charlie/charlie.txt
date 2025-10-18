@@ -4940,7 +4940,6 @@ catalyte
 coonskin
 carvestrene
 carving
-carvings
 carvoepra
 carwash
 clamatorial
@@ -6718,6 +6717,7 @@ caruncle
 celestify
 celestina
 congestion
+carvings
 celestite
 crampfishes
 cysticercoidal
