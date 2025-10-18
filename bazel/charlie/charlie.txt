@@ -10343,6 +10343,7 @@ coryneum
 chicories
 chronaxy
 crypticness
+currencies
 closings
 chicqued
 chicquer
@@ -22182,7 +22183,6 @@ conformability
 conformably
 crowbell
 conformal
-currencies
 calmant
 chassis
 countreeman
