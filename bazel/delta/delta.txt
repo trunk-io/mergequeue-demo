@@ -5810,7 +5810,6 @@ dirties
 datiscetin
 delists
 draughts
-dusun
 dialect
 diadrom
 debars
@@ -6593,6 +6592,7 @@ decarbonizer
 dyspnoea
 devocalise
 dubash
+dusun
 defecated
 descant
 descort
