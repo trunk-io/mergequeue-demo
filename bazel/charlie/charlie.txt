@@ -19341,6 +19341,7 @@ clockhouse
 chromidial
 colonials
 colonical
+craftless
 critically
 colonies
 cytokinetic
@@ -25933,7 +25934,6 @@ conocephalus
 choloscopy
 ciliferous
 corsetry
-craftless
 corsets
 chopboat
 carillonneurs
