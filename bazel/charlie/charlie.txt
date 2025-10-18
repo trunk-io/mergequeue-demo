@@ -6980,7 +6980,6 @@ checkline
 centauries
 constructure
 centauromachy
-chetverik
 constringent
 circumparallelogram
 cheap
@@ -12538,6 +12537,7 @@ cloam
 caplets
 cacothes
 concurrences
+chetverik
 concubitus
 cappadocian
 chronic
