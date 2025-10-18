@@ -696,7 +696,6 @@ batholithic
 banjo
 betimber
 brickmaker
-boral
 bade
 badness
 booklice
@@ -12017,6 +12016,7 @@ bel
 bund
 bogued
 bogus
+boral
 bohairic
 barosinusitis
 bottled
