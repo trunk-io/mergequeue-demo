@@ -2166,7 +2166,6 @@ bast
 bartholomite
 blousons
 bishopscap
-becursed
 bulgar
 bandog
 blarny
@@ -5853,6 +5852,7 @@ bronchioles
 bestripe
 beltman
 belts
+becursed
 buffa
 barih
 baculites
