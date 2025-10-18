@@ -2525,7 +2525,6 @@ barocco
 barkbound
 boardable
 betterments
-bunglesome
 byronist
 briers
 breastwork
@@ -11170,6 +11169,7 @@ balloters
 beneme
 brawler
 bribee
+bunglesome
 beliquors
 bunning
 bottomlessly
