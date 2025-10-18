@@ -75,6 +75,7 @@ electrodialysis
 earpick
 exr
 earpiece
+endocarps
 earreach
 extradictable
 exoticist
@@ -1816,7 +1817,6 @@ extracellularly
 equivocatingly
 euonymin
 eudesmol
-endocarps
 enlister
 evaporitic
 endopericarditis
