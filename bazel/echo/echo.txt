@@ -4791,7 +4791,6 @@ euclidean
 exossate
 excitive
 euphyllite
-enterostasis
 equilibrate
 emoloa
 eyases
@@ -10615,6 +10614,7 @@ embread
 enureses
 evanesces
 elastance
+enterostasis
 ethide
 encephalodialysis
 erastus
