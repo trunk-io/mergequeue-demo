@@ -5035,6 +5035,7 @@ bozo
 bombable
 belching
 birchen
+benzenyl
 bottomrying
 bunrakus
 booley
@@ -7956,7 +7957,6 @@ biconically
 beachiest
 biconnected
 bloodthirstiest
-benzenyl
 brutes
 bastonite
 brawned
