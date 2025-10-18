@@ -4316,7 +4316,6 @@ bullseye
 berceau
 beclaw
 bunoselenodont
-besieged
 barger
 balau
 budapest
@@ -5258,6 +5257,7 @@ bogies
 ballsy
 blatant
 bensail
+besieged
 behew
 brahmaic
 beglerbegluc
