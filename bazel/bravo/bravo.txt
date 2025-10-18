@@ -4682,7 +4682,6 @@ bits
 barathea
 bronzy
 biordinal
-biconditional
 budgetful
 bhat
 babite
@@ -6988,6 +6987,7 @@ bludgeons
 bicephalic
 bloomy
 barway
+biconditional
 barrelling
 boustrophedon
 beadledom
