@@ -2287,7 +2287,6 @@ cogs
 companator
 chumpy
 canarine
-chitarrone
 cenote
 crystograph
 coordinateness
@@ -18481,6 +18480,7 @@ centrale
 cograil
 cuneiformist
 conjecture
+chitarrone
 chilipepper
 cithers
 chaogenous
