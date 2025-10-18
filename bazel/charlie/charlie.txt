@@ -2868,7 +2868,6 @@ cantharic
 cantharidae
 cake
 cantharidate
-cantharides
 chloroma
 cantharidian
 cycloacetylene
@@ -8735,6 +8734,7 @@ chivarees
 concion
 convalescency
 carnosine
+cantharides
 crenelle
 chapelgoing
 cockpits
