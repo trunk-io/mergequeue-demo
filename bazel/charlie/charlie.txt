@@ -14737,7 +14737,6 @@ colonic
 cistus
 clothier
 citable
-calcarium
 cital
 countersynod
 cytase
@@ -27550,6 +27549,7 @@ covalences
 copals
 criminological
 coriander
+calcarium
 corallike
 chukkars
 carberry
