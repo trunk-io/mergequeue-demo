@@ -16363,7 +16363,6 @@ choking
 camphane
 chainlet
 cytome
-cliques
 collocalia
 ciliate
 caufle
@@ -31241,6 +31240,7 @@ curatess
 curation
 cutworks
 curative
+cliques
 curatorium
 carabid
 coagula
