@@ -8826,7 +8826,6 @@ bioblastic
 backwoodsiness
 bandaid
 blackface
-basilosaurus
 brontolith
 barium
 biocenosis
@@ -14965,6 +14964,7 @@ beglic
 byssuses
 bloodtest
 brooders
+basilosaurus
 bruiters
 bura
 bibliomaniac
