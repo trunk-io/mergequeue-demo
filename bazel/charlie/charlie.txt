@@ -13540,7 +13540,6 @@ contours
 cyma
 companionable
 catacrotic
-cerumen
 cymae
 cholanthrene
 cimaise
@@ -27977,6 +27976,7 @@ crackly
 cracklier
 cumbraite
 copperplated
+cerumen
 capillation
 claithes
 clockface
