@@ -4816,7 +4816,6 @@ enslavers
 engraven
 epipodia
 ectothermic
-eradicant
 extrafine
 encranial
 extinct
@@ -9560,6 +9559,7 @@ efficiency
 excursion
 epiphenomenal
 esurine
+eradicant
 espadon
 eyeteeth
 enkindler
