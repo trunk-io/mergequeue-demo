@@ -855,7 +855,6 @@ epistatic
 epicier
 easternism
 electrodissolution
-ergatandromorphic
 effatum
 ectrosyndactyly
 epotation
@@ -12926,6 +12925,7 @@ efflate
 enchiladas
 erudit
 eructative
+ergatandromorphic
 epidymides
 emotes
 entomophthorous
