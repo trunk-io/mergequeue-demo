@@ -10644,7 +10644,6 @@ chimeral
 chanteys
 chimeric
 cheyenne
-calci
 cavies
 chimes
 chymes
@@ -30408,6 +30407,7 @@ csch
 csect
 chromatocyte
 cpu
+calci
 cholecystectomies
 csmp
 crimpled
