@@ -9485,7 +9485,6 @@ aspidate
 antimale
 appealing
 acanthi
-aftergrowth
 affliction
 alticamelus
 avirulent
@@ -15713,6 +15712,7 @@ amarelles
 atractaspis
 antthrush
 arylamine
+aftergrowth
 antipastos
 absfarad
 antiphonally
