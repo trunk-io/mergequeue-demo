@@ -5732,6 +5732,7 @@ categoric
 cartons
 clayware
 coliidae
+cachinnate
 clavecin
 cataphasia
 cachinnator
@@ -27881,7 +27882,6 @@ cylindromata
 cassandra
 contrepartie
 cozeier
-cachinnate
 cozenages
 cozened
 cozeners
