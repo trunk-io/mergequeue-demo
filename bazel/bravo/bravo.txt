@@ -10857,6 +10857,7 @@ ban
 blurb
 blessingly
 bonnibel
+barebacked
 buffered
 bhikku
 banished
@@ -13297,7 +13298,6 @@ bicorporate
 blazoning
 bawsunt
 broadest
-barebacked
 birdyback
 bobac
 besand
