@@ -5265,7 +5265,6 @@ bazaar
 button
 balanoblennorrhea
 bivium
-bedeafened
 bolk
 batboys
 begrimer
@@ -9727,6 +9726,7 @@ bismite
 bonav
 bishoping
 bismuthal
+bedeafened
 besprinkles
 bromids
 birdcalls
