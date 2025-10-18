@@ -6153,6 +6153,7 @@ beveling
 basifier
 basiradial
 blindfish
+brachylogies
 bezetta
 battalions
 burkers
@@ -8438,7 +8439,6 @@ blksize
 bafflingly
 byplays
 baronne
-brachylogies
 buggiest
 birch
 butyryl
