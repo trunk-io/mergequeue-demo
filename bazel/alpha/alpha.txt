@@ -10119,6 +10119,7 @@ accidentalist
 antozone
 adultlike
 alluvial
+afteroar
 ale
 ambrain
 aranga
@@ -19676,7 +19677,6 @@ anonymous
 anastomosing
 anaerobism
 auklet
-afteroar
 antiprestidigitation
 assortments
 aphacia
