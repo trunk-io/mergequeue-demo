@@ -6078,7 +6078,6 @@ banjoist
 battlegrounds
 bebreech
 braziers
-bretesse
 blanker
 burgessdom
 beaconed
@@ -14213,6 +14212,7 @@ belemnitidae
 biscot
 brachium
 biod
+bretesse
 buriable
 bezant
 bracingly
