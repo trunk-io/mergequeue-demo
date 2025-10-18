@@ -6150,6 +6150,7 @@ eltime
 endromis
 expediencies
 epeidia
+expositors
 executable
 everting
 explosions
@@ -9416,7 +9417,6 @@ et
 entresols
 escrow
 escrowing
-expositors
 esculents
 enroll
 essences
