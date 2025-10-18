@@ -1332,6 +1332,7 @@ cycasin
 chifforobes
 californian
 completive
+centerless
 cypseline
 comrade
 chelonian
@@ -28474,7 +28475,6 @@ cutpurses
 chiefling
 castagnole
 creams
-centerless
 carburetter
 creance
 contractibleness
