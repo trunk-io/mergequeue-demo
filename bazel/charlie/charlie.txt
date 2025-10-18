@@ -19281,6 +19281,7 @@ cookeite
 chiquest
 colocated
 clogmaker
+cusping
 connectibility
 colocynth
 connections
@@ -31699,7 +31700,6 @@ carnaria
 climate
 charadrii
 cephalopodan
-cusping
 cur
 cuspis
 chita
