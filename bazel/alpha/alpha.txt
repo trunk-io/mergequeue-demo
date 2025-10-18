@@ -4535,7 +4535,6 @@ aediculae
 anaesthesiologist
 aphidiinae
 absey
-anamorphose
 alorcinic
 aedicule
 alimenation
@@ -12512,6 +12511,7 @@ adelphi
 acknowledges
 allah
 achene
+anamorphose
 anelasticity
 asphaltite
 antirationalism
