@@ -1355,7 +1355,6 @@ equalised
 emeline
 ergonomic
 ethiopian
-emunct
 entosthoblast
 epipleural
 enfarce
@@ -5257,6 +5256,7 @@ eponge
 exudatory
 embonpoint
 equilibriate
+emunct
 eyen
 exfiguration
 embryotrophy
