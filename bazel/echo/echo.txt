@@ -4524,6 +4524,7 @@ escalade
 executors
 erethizontidae
 enchannel
+ensemble
 echevin
 excommunicative
 entrapped
@@ -6298,7 +6299,6 @@ equipage
 empt
 enunciator
 ejido
-ensemble
 examples
 enamorato
 enhat
