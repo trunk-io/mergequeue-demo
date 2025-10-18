@@ -3521,6 +3521,7 @@ epigrammatized
 enskies
 embetter
 encore
+encenter
 exemplifies
 emulable
 epitomically
@@ -6148,7 +6149,6 @@ enmarbled
 eltime
 endromis
 expediencies
-encenter
 epeidia
 executable
 everting
