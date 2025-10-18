@@ -15419,6 +15419,7 @@ brigadier
 birdcatching
 bewigged
 blinis
+benzothiofuran
 bey
 baahling
 barbarianism
@@ -17089,7 +17090,6 @@ bookbinding
 blankety
 barracker
 butterburr
-benzothiofuran
 bitterwood
 bayman
 blackacre
