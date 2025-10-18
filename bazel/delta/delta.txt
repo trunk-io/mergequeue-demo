@@ -3083,6 +3083,7 @@ devises
 disbodied
 demihuman
 diaphane
+dictyoxylon
 dapson
 deobstruct
 destructibleness
@@ -3425,7 +3426,6 @@ dragoon
 delegated
 democracy
 debyes
-dictyoxylon
 dawdling
 doigte
 dang
