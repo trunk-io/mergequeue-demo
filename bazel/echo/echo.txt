@@ -428,6 +428,7 @@ erigible
 engravement
 eyebright
 effeminated
+encounterable
 electrocute
 eagres
 echappe
@@ -13717,7 +13718,6 @@ entwisting
 electrophoretic
 embryonic
 electrocautery
-encounterable
 epigonism
 ectoplasm
 extipulate
