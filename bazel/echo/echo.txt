@@ -4818,6 +4818,7 @@ epact
 encountered
 euphyllite
 enterostasis
+encomiendas
 equilibrate
 emoloa
 ecize
@@ -10781,7 +10782,6 @@ emoluments
 elengeness
 exteriorize
 euphotide
-encomiendas
 exactions
 euphues
 entombed
