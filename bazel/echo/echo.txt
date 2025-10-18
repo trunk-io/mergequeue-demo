@@ -5403,7 +5403,6 @@ emblematicalness
 eviction
 electrobath
 epigne
-epipleural
 energesis
 epidia
 exocycloida
@@ -9623,6 +9622,7 @@ enworthed
 epikleses
 essay
 epistomata
+epipleural
 embargo
 empyrical
 emmensite
