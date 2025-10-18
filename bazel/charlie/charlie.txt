@@ -11417,7 +11417,6 @@ choanate
 choanephora
 cystopyelography
 clamant
-choanocyte
 cotta
 cueca
 codesigns
@@ -26417,6 +26416,7 @@ crystallographic
 concavities
 centipoise
 coterminousness
+choanocyte
 cotes
 capitalness
 cerenkov
