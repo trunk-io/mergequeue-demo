@@ -11894,6 +11894,7 @@ bodkins
 boardlike
 bergerette
 bypath
+benefactor
 bejazz
 bended
 brassworker
@@ -16576,7 +16577,6 @@ beakermen
 brachydactyl
 bisellium
 bangtailed
-benefactor
 belaites
 bequeathal
 bishops
