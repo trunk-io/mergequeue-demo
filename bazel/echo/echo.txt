@@ -263,6 +263,7 @@ elf
 extrema
 exclamations
 eq
+evolves
 eirenarch
 excitement
 enlist
@@ -4847,7 +4848,6 @@ eludes
 extrabureau
 english
 exacerbations
-evolves
 enantiosis
 examinees
 escortment
