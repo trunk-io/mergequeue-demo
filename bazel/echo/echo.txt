@@ -621,6 +621,7 @@ exody
 enplanement
 expediteness
 eschaunge
+electrophoretogram
 entier
 ensnare
 escudo
@@ -1091,7 +1092,6 @@ epimeric
 ergotinine
 enshrouding
 encyclopedically
-electrophoretogram
 epitrite
 edwardean
 encarpus
