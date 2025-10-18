@@ -12432,7 +12432,6 @@ diplophyte
 dehydrofreeze
 dishelms
 durability
-displeased
 disarmer
 divet
 dalai
@@ -14742,6 +14741,7 @@ droopier
 docimasia
 dentilated
 deaired
+displeased
 dishumour
 docious
 decarbonize
