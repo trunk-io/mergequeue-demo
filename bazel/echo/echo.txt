@@ -350,6 +350,7 @@ endocardium
 eriphyle
 explosion
 eosinic
+expansion
 electret
 embayed
 entoplastic
@@ -1501,7 +1502,6 @@ existences
 emotions
 elodea
 egomaniacally
-expansion
 exscind
 excitations
 exonuclease
