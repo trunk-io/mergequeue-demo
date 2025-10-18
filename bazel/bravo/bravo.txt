@@ -8698,7 +8698,6 @@ behests
 boatshop
 barycentre
 binal
-borrelomycetaceae
 bedrown
 brachinus
 bardolater
@@ -12105,6 +12104,7 @@ bogeys
 bifocals
 bioplasmic
 bookplate
+borrelomycetaceae
 bolag
 bedell
 beggaring
