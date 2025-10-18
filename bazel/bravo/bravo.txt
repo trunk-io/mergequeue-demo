@@ -3725,6 +3725,7 @@ birses
 baccilla
 bavette
 brushlike
+belfry
 bitte
 bulldogism
 bishoplike
@@ -13122,7 +13123,6 @@ borel
 berkowitz
 bowlmaker
 browse
-belfry
 barostat
 buffeting
 brotula
