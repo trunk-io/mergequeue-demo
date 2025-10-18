@@ -5731,6 +5731,7 @@ depilitant
 dermatine
 dipl
 disrobe
+debeaker
 deplaning
 deflower
 disobligation
@@ -15590,7 +15591,6 @@ discriminatingly
 decorticator
 diplomat
 donovan
-debeaker
 deltahedron
 deuterodome
 dustrag
