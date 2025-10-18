@@ -355,6 +355,7 @@ epexegesis
 endocardium
 eriphyle
 explosion
+eviration
 eosinic
 expansion
 electret
@@ -6081,7 +6082,6 @@ echinostomiasis
 enneagonal
 effigy
 etymologizable
-eviration
 epaulement
 empyreal
 expediate
