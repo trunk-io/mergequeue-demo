@@ -5525,7 +5525,6 @@ endangered
 enamelwork
 esquirearchy
 evaporite
-enfeoffing
 entheasm
 earthquake
 euxenite
@@ -9337,6 +9336,7 @@ effecter
 enoch
 exostome
 endball
+enfeoffing
 educable
 ellipse
 escalades
