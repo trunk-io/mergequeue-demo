@@ -15994,7 +15994,6 @@ cobstone
 clerkdom
 clerkery
 clerkess
-comprint
 carcinosis
 cerecloths
 chlorocarbon
@@ -27499,6 +27498,7 @@ calendaring
 cajuputene
 cousinage
 corral
+comprint
 coffeehoused
 clake
 chivalrousness
