@@ -5313,7 +5313,6 @@ arabic
 alts
 appendectomies
 aralie
-acaroid
 athrill
 auspiciously
 amidol
@@ -12392,6 +12391,7 @@ acclamation
 anemias
 andria
 axwise
+acaroid
 athreptic
 aplacophorous
 aymoro
