@@ -3422,7 +3422,6 @@ emblazers
 espriella
 electrothermancy
 evelight
-endophyte
 emblazonments
 effete
 embrocation
@@ -11960,6 +11959,7 @@ epiphonemas
 exocrinologies
 epanaphora
 expectably
+endophyte
 enkolpia
 endometrium
 excogitation
