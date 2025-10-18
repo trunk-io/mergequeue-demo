@@ -17730,7 +17730,6 @@ cordages
 cocitizen
 cocitizenship
 cockade
-colour
 colonisation
 cavalcading
 conga
@@ -26647,6 +26646,7 @@ coumarilic
 carcassless
 coumarins
 civilisable
+colour
 carioling
 crumbles
 coumarone
