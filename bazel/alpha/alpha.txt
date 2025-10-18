@@ -5938,6 +5938,7 @@ aghori
 allottee
 apardon
 acrolein
+astrean
 anfeeld
 alcyonoid
 apiarian
@@ -7610,7 +7611,6 @@ alchemists
 achoke
 appale
 almida
-astrean
 animala
 alchemized
 autotropic
