@@ -2325,6 +2325,7 @@ bladesmith
 bardcraft
 beleve
 buckhorn
+brahmanical
 blowpoint
 broilingly
 bardesanite
@@ -12693,7 +12694,6 @@ bari
 bokharan
 boogeymen
 boko
-brahmanical
 bassly
 bec
 bestraddling
