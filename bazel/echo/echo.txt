@@ -1076,6 +1076,7 @@ educand
 etheostominae
 exsculp
 educatability
+enfeebles
 epileptics
 eident
 educatable
@@ -5516,7 +5517,6 @@ eightscore
 extrados
 esmeralda
 earwort
-enfeebles
 epigrammatised
 eleazar
 exterminate
