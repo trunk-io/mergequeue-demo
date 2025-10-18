@@ -11340,6 +11340,7 @@ dimmable
 drivers
 dalliers
 drainageway
+downwardness
 decrypted
 discards
 delegation
@@ -11953,7 +11954,6 @@ decalescence
 disease
 discomfited
 defectively
-downwardness
 drifted
 drawn
 deductile
