@@ -4815,7 +4815,6 @@ bombacaceae
 brilliancies
 bergamot
 borism
-bradyesthesia
 bacteraemia
 betanaphthol
 bowser
@@ -6563,6 +6562,7 @@ bankbooks
 belies
 balancers
 bootloader
+bradyesthesia
 blepharospasm
 biunity
 broadside
