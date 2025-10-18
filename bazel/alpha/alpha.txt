@@ -2652,6 +2652,7 @@ acroatic
 antirusts
 accrescendo
 around
+astor
 alighted
 aizoon
 anticancer
@@ -10271,7 +10272,6 @@ anacrusis
 autodecremented
 anthropomorphist
 aggenerate
-astor
 autoincremented
 affricates
 adc
