@@ -566,7 +566,6 @@ abn
 abnormities
 akroterial
 aspasia
-arteriographic
 anthropomancy
 accoutred
 agenes
@@ -20960,6 +20959,7 @@ ascendancy
 antitheology
 antiphonary
 amsel
+arteriographic
 ascendence
 atimon
 arbitrament
