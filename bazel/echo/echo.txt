@@ -1074,6 +1074,7 @@ electrolyzable
 epistropheus
 espaliered
 egrimony
+endplate
 ergoism
 ecart
 emender
@@ -8555,7 +8556,6 @@ eumorphic
 examen
 euhages
 encheat
-endplate
 espavel
 equielliptical
 equilateral
