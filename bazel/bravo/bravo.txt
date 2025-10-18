@@ -9836,7 +9836,6 @@ bioinstrumentation
 barleymow
 brachypleural
 bartender
-bigeyes
 boddle
 blastomycete
 backlogging
@@ -10612,6 +10611,7 @@ bister
 berlinize
 brined
 blackberry
+bigeyes
 blatting
 brinny
 balistarius
