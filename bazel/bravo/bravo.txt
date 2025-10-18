@@ -5774,6 +5774,7 @@ bullions
 baggies
 brazed
 barns
+bondmaids
 blisses
 bayesian
 bisnagas
@@ -12452,7 +12453,6 @@ barrettes
 burthensome
 bedraggles
 bisymmetrically
-bondmaids
 brutality
 beak
 befoulier
