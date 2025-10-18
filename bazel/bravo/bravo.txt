@@ -243,7 +243,6 @@ baffle
 baris
 bibliograph
 betonica
-bastinadoed
 bactrites
 betrothed
 bisimine
@@ -1772,6 +1771,7 @@ blere
 boviform
 broadlings
 blateness
+bastinadoed
 bandfiled
 backhanded
 ballotage
