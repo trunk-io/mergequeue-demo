@@ -2502,6 +2502,7 @@ araneids
 aspirers
 autor
 archiblast
+astatized
 amorph
 archturncoat
 arterializing
@@ -5865,7 +5866,6 @@ attainability
 appetit
 astragalonavicular
 aneurism
-astatized
 adaptive
 arteriodiastasis
 antelude
