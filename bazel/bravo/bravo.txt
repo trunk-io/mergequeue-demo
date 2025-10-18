@@ -4684,7 +4684,6 @@ binnacle
 backstair
 barnlike
 beatille
-barky
 bedral
 bedraped
 bassa
@@ -15026,6 +15025,7 @@ blennophlogisma
 becurl
 bewrayed
 bandeau
+barky
 baxterian
 blote
 blams
