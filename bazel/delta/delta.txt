@@ -15956,7 +15956,6 @@ debarkation
 digammated
 dossel
 dossels
-datacell
 drench
 doltish
 daying
@@ -17296,6 +17295,7 @@ dipole
 dagger
 diazotate
 dieb
+datacell
 desophisticate
 demureness
 devolvement
