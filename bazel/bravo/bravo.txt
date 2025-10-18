@@ -301,7 +301,6 @@ bonhommie
 bedfellow
 bandstand
 banagos
-billholder
 bullsnake
 bacillarieae
 brabblingly
@@ -11962,6 +11961,7 @@ bimeby
 brakeage
 basilysis
 buttled
+billholder
 bagpod
 bashlyks
 bailment
