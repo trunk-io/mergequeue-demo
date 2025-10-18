@@ -2437,6 +2437,7 @@ disallows
 deceived
 drowned
 disaffiliation
+dividendus
 dane
 depurative
 decimals
@@ -10322,7 +10323,6 @@ dorty
 diversify
 dingleberry
 dimpled
-dividendus
 decemvirs
 dings
 delusion
