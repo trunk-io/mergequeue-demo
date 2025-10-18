@@ -3127,7 +3127,6 @@ dipsas
 dinosaurs
 defect
 donnee
-digitaliform
 degusting
 detin
 decelerometer
@@ -9455,6 +9454,7 @@ dioptases
 dismarketed
 dulcimore
 disney
+digitaliform
 decartelized
 drudgism
 defilading
