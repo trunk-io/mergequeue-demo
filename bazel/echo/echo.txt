@@ -12380,7 +12380,6 @@ enneacontahedron
 exist
 esne
 encephalospinal
-electrooptical
 excoecaria
 encephalomeric
 enzymology
@@ -13974,6 +13973,7 @@ equalising
 eternally
 enhazard
 encampment
+electrooptical
 erythromania
 excreters
 euglenidae
