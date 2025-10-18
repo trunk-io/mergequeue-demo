@@ -7071,7 +7071,6 @@ akule
 appalto
 aveniform
 alipteria
-antifungin
 anguis
 aurorean
 animation
@@ -22424,6 +22423,7 @@ access
 aristocratically
 arctically
 astrometry
+antifungin
 agric
 animalising
 apollinian
