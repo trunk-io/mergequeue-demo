@@ -6700,7 +6700,6 @@ berry
 bedscrew
 bacterian
 bumpier
-ballast
 berrichonne
 barrabkie
 bradbury
@@ -8388,6 +8387,7 @@ bloaters
 bruang
 bilianic
 boreism
+ballast
 bonnier
 biliferous
 bowerlike
