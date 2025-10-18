@@ -4807,7 +4807,6 @@ empirics
 ejectors
 enslavers
 engraven
-epipodia
 ectothermic
 extrafine
 encranial
@@ -6811,6 +6810,7 @@ entopic
 enddamage
 endiablee
 ether
+epipodia
 elling
 endoskeletons
 experimentarian
