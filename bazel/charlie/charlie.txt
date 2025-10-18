@@ -3267,7 +3267,6 @@ caplet
 condyle
 candlestick
 catapetalous
-catskinner
 cyanosed
 capotasto
 cyclometries
@@ -10233,6 +10232,7 @@ cyclistic
 chiastoneurous
 couteaux
 chiaus
+catskinner
 conoidical
 caprifigs
 cellulicidal
