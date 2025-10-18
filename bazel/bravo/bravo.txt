@@ -3447,7 +3447,6 @@ bigmouths
 baronesses
 bianchi
 bathkol
-bipartite
 bullfice
 bathmat
 boomed
@@ -5298,6 +5297,7 @@ burling
 brahmachari
 briquets
 babelic
+bipartite
 blastomycotic
 begummed
 baptize
