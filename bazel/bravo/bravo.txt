@@ -4489,7 +4489,6 @@ birdlimed
 beshouting
 blighters
 bookward
-bankable
 bomble
 besuit
 borborus
@@ -10005,6 +10004,7 @@ bikes
 betokener
 brian
 brigantinebrigantines
+bankable
 bituminous
 beryllate
 bilinguality
