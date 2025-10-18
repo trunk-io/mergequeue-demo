@@ -3462,7 +3462,6 @@ airbrush
 aortographic
 antimonite
 adelphian
-adelphic
 adipsous
 azole
 aleak
@@ -16144,6 +16143,7 @@ allusion
 alloys
 allotheria
 antisine
+adelphic
 alcedines
 antiskeptic
 agoniada
