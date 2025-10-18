@@ -621,6 +621,7 @@ exody
 enplanement
 expediteness
 eschaunge
+entier
 ensnare
 escudo
 enlighteners
@@ -5212,7 +5213,6 @@ endoneurium
 edify
 equestrianism
 equinely
-entier
 encinder
 endoparasitica
 exquisitively
