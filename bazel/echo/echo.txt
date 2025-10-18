@@ -3190,6 +3190,7 @@ endamage
 encephalalgia
 esophagospasm
 elution
+encephalometric
 embliss
 esthesiometric
 entocuniform
@@ -12188,7 +12189,6 @@ epistasis
 ephebeion
 encephalology
 enforce
-encephalometric
 epineurium
 everyhow
 ervenholder
