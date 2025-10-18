@@ -2868,7 +2868,6 @@ barrelled
 balmawhapple
 barrelmaker
 brassavola
-beraunite
 benzoxate
 barren
 bowyang
@@ -17718,6 +17717,7 @@ butterfly
 baidarka
 brachioganoid
 brachioganoidei
+beraunite
 behove
 bismosol
 burlington
