@@ -3341,7 +3341,6 @@ addibility
 aphoruridae
 avertiment
 antiaesthetic
-anthropomorphist
 akasa
 antiquarianism
 antiknocks
@@ -10271,6 +10270,7 @@ algins
 amides
 anacrusis
 autodecremented
+anthropomorphist
 aggenerate
 astor
 autoincremented
