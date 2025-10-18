@@ -8295,6 +8295,7 @@ diluvia
 denationalized
 duple
 deprecate
+decorators
 diamb
 disload
 drapeability
@@ -14240,7 +14241,6 @@ deoppilation
 depravers
 defoliator
 disarrange
-decorators
 deviationist
 diagrammatician
 deviances
