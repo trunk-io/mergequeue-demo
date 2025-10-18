@@ -5102,7 +5102,6 @@ ennia
 estate
 edificate
 elegits
-ember
 erythrosinophile
 edaphically
 ectosphere
@@ -13138,6 +13137,7 @@ epistolatory
 eschewing
 exploring
 ecologies
+ember
 evaporimeter
 eclipsation
 explorate
