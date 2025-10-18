@@ -2556,6 +2556,7 @@ befriend
 bilge
 brutalness
 bable
+boltsmith
 bribeable
 bumpy
 barling
@@ -16155,7 +16156,6 @@ blattered
 bateful
 biologic
 beauclerk
-boltsmith
 butterhead
 bulletins
 bosomy
