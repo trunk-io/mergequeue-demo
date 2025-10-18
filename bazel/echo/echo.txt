@@ -1723,6 +1723,7 @@ exdie
 electrocataphoretic
 episepalous
 emanium
+ericetum
 entelodont
 exostrae
 exophthalmus
@@ -11582,7 +11583,6 @@ espace
 esquireship
 enneasemic
 electrograph
-ericetum
 excorticating
 eximious
 ensweep
