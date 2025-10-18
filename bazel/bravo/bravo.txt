@@ -6904,7 +6904,6 @@ bodykins
 bergschrund
 besiege
 besiegers
-bellical
 bugle
 bagwoman
 braird
@@ -16054,6 +16053,7 @@ bronchoscopic
 barr
 beefer
 bullamacow
+bellical
 beltcourse
 benempted
 bristles
