@@ -11729,7 +11729,6 @@ defeit
 deckhead
 dolite
 discountinuous
-disarticulator
 doven
 dismayed
 discour
@@ -17325,6 +17324,7 @@ dropcloth
 dropforge
 dopehead
 drophead
+disarticulator
 disentrammel
 deterrently
 deficiencies
