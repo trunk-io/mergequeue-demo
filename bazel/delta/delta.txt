@@ -12507,7 +12507,6 @@ disoccupying
 dashing
 disquarter
 degrain
-disidentify
 deracinate
 dassent
 desume
@@ -16769,6 +16768,7 @@ dravidic
 developed
 dishonored
 dravite
+disidentify
 dongon
 disreputation
 dicranaceae
