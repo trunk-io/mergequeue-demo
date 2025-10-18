@@ -687,7 +687,6 @@ breadfruits
 britches
 bitterbush
 batholithic
-banjo
 betimber
 brickmaker
 bade
@@ -17604,6 +17603,7 @@ bailiery
 bromo
 brawny
 bakepan
+banjo
 bribe
 balante
 broadhorn
