@@ -8989,7 +8989,6 @@ buhr
 batino
 boldface
 butine
-biophysic
 biophysiography
 broadaxes
 boneheaded
@@ -16591,6 +16590,7 @@ batonga
 bedumbed
 blepharophthalmia
 bacule
+biophysic
 backpointers
 butyrochloral
 bardier
