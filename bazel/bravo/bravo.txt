@@ -1509,7 +1509,6 @@ biradial
 borborygmus
 ballista
 burkites
-bubo
 besprinkle
 boilermaker
 bodier
@@ -7704,6 +7703,7 @@ belemnoidea
 broomy
 biauricular
 backhouse
+bubo
 backyards
 began
 benzophenazine
