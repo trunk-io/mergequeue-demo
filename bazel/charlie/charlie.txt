@@ -10549,6 +10549,7 @@ carports
 cadastral
 chiller
 confessionary
+cyprina
 chakram
 chemicophysiological
 callable
@@ -13258,7 +13259,6 @@ cycloheximide
 cataloguer
 chemiatry
 cycloid
-cyprina
 coalternation
 conjugateness
 cycloidean
