@@ -5994,6 +5994,7 @@ comma
 catling
 catlings
 catlins
+corer
 craftsperson
 cryptoporticus
 canephroi
@@ -25192,7 +25193,6 @@ connotes
 chirotherium
 coinstantaneous
 corequisite
-corer
 corers
 codeinas
 cores
