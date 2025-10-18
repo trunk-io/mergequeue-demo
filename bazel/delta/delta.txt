@@ -3185,7 +3185,6 @@ dramatising
 desexing
 detonatability
 docked
-dropline
 dirty
 dekle
 declinograph
@@ -15612,6 +15611,7 @@ diemakers
 drying
 duumviri
 deviable
+dropline
 doomed
 disconnections
 doomsayer
