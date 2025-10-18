@@ -6709,7 +6709,6 @@ bulkhead
 berrier
 bladygrass
 barleducs
-boolya
 boogiewoogie
 breadstitch
 beaut
@@ -9457,6 +9456,7 @@ brewhouses
 bourride
 bromonaphthalene
 birky
+boolya
 birkremite
 boldine
 botonee
