@@ -1016,7 +1016,6 @@ anacamptics
 appar
 abterminal
 abridged
-anniv
 almerian
 alogian
 agates
@@ -14801,6 +14800,7 @@ archer
 abnormalise
 archpublican
 afterproof
+anniv
 antieducational
 alebench
 acetylcyanide
