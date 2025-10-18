@@ -7610,7 +7610,6 @@ barani
 breechclout
 boweled
 boongary
-bewall
 backfilling
 bhabar
 bywalk
@@ -8364,6 +8363,7 @@ bruchus
 bilbo
 bromobenzene
 bool
+bewall
 bleachyard
 bildar
 bilder
