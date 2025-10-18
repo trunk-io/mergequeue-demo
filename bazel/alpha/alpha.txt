@@ -16026,7 +16026,6 @@ acinaceous
 antisacerdotalist
 antisaloon
 adapt
-abstractive
 astringe
 antiscale
 apostrophe
@@ -23328,6 +23327,7 @@ acerin
 aglossa
 aubusson
 accusingly
+abstractive
 azido
 anisocratic
 aucaner
