@@ -1993,6 +1993,7 @@ electrocystoscope
 endotheliomata
 emblematology
 encrustation
+endocytosis
 evitate
 ependymary
 enhaunt
@@ -4207,7 +4208,6 @@ erne
 eluder
 electromedical
 enamels
-endocytosis
 enrages
 evocatively
 egal
