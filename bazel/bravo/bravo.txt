@@ -4350,7 +4350,6 @@ becrowded
 bunton
 bogles
 bahut
-burstwort
 backspier
 bewitchery
 bolographically
@@ -17370,6 +17369,7 @@ bistable
 ballywrack
 brennage
 bundle
+burstwort
 boardmen
 badged
 bipaliidae
