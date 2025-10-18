@@ -13354,6 +13354,7 @@ brassicaceae
 bloodthirsty
 bootlace
 botanist
+beltis
 botanize
 bingeys
 brushmen
@@ -15568,7 +15569,6 @@ bijoux
 beeman
 blindage
 barometer
-beltis
 blastid
 barbacan
 balun
