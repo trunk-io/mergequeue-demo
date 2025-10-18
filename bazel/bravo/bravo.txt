@@ -10652,6 +10652,7 @@ ballfield
 birettas
 battleground
 boweling
+beefeater
 balestra
 beblooding
 bioecologies
@@ -14235,7 +14236,6 @@ bushwife
 biverb
 bilingualism
 beneficeless
-beefeater
 bestowal
 baikerite
 bractlets
