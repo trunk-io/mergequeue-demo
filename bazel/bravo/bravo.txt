@@ -4933,7 +4933,6 @@ belaboring
 bottling
 bloodletting
 blackness
-breakwaters
 balanoid
 beetles
 baselevel
@@ -9882,6 +9881,7 @@ bunglers
 bunking
 brooches
 benzantialdoxime
+breakwaters
 bitmapped
 bicalvous
 blemisher
