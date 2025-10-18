@@ -13286,7 +13286,6 @@ bossed
 budge
 boiled
 bolti
-barysphere
 bise
 ballons
 barmbrack
@@ -13788,6 +13787,7 @@ bouser
 brunswick
 barras
 bircher
+barysphere
 blearily
 benzothiophene
 besoothed
