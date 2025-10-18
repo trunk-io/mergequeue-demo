@@ -4013,6 +4013,7 @@ barrow
 bullswool
 byrlady
 bronchostomies
+belight
 betray
 beastman
 beastship
@@ -16206,7 +16207,6 @@ bushwhackers
 bogy
 bulgier
 bobfloat
-belight
 boeotic
 ballard
 begnawed
