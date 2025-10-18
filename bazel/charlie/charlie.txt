@@ -814,6 +814,7 @@ casinet
 clydesdale
 cislunar
 couteau
+chevesne
 cainish
 chordeiles
 cainite
@@ -17963,7 +17964,6 @@ calathian
 citola
 codpieces
 childbirth
-chevesne
 chistka
 capparis
 cephalanthus
