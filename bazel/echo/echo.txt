@@ -3356,6 +3356,7 @@ equipage
 electrochemistry
 ep
 exteroceptor
+exampling
 equilibrium
 embrake
 endolysin
@@ -13040,7 +13041,6 @@ ecdysone
 everse
 entosarc
 evertors
-exampling
 extensionality
 engagee
 exocoelom
