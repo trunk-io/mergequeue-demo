@@ -3377,6 +3377,7 @@ ep
 exteroceptor
 equilibrium
 embrake
+endolysin
 epimerised
 em
 exercitorian
@@ -6070,7 +6071,6 @@ enlinkment
 entheate
 earwigs
 emphasise
-endolysin
 epicurize
 erythrozyme
 eaves
