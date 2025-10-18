@@ -4603,7 +4603,6 @@ epitoniidae
 electrochemically
 endless
 exfoliative
-electroengrave
 epiboulangerite
 eremital
 extends
@@ -12077,6 +12076,7 @@ enveil
 eliminations
 entelechial
 embrighten
+electroengrave
 expiation
 explorations
 exenterate
