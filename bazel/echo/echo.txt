@@ -6633,7 +6633,6 @@ escutcheon
 eon
 eastmost
 epicoracoid
-epithecal
 emunge
 entertake
 exstill
@@ -12927,6 +12926,7 @@ exserted
 exothermic
 electrophrenic
 electrodiagnostic
+epithecal
 esophagectomy
 entocornea
 excerp
