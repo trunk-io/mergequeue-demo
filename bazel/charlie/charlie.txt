@@ -13594,7 +13594,6 @@ cimbric
 canalised
 capshore
 cyme
-cimelium
 crista
 coproite
 chiffer
@@ -28938,6 +28937,7 @@ cellager
 chromaffinic
 colloquialism
 cathedraled
+cimelium
 cribbed
 compensating
 campanili
