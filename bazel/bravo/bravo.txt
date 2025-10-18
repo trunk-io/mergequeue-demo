@@ -743,6 +743,7 @@ bestowage
 buddhism
 backspacefile
 bow
+bobtails
 banksman
 bifrost
 badiaga
@@ -2320,7 +2321,6 @@ bardcraft
 beleve
 buckhorn
 blowpoint
-bobtails
 broilingly
 bardesanite
 bardess
