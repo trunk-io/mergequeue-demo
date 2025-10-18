@@ -4546,7 +4546,6 @@ clostridium
 carneol
 cursoria
 chemicophysics
-catguts
 chinas
 coped
 coalescent
@@ -11614,6 +11613,7 @@ cooks
 conking
 cholera
 counterround
+catguts
 circumjacent
 civilising
 cervelases
