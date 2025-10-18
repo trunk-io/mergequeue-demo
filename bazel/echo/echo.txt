@@ -4639,6 +4639,7 @@ enciphering
 enderon
 excepted
 estacade
+epithem
 eulogism
 elegantly
 engrosses
@@ -8445,7 +8446,6 @@ equal
 equalises
 erectness
 ephah
-epithem
 electrodesiccation
 eoghanacht
 erythrochroism
