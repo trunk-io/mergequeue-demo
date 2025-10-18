@@ -8675,7 +8675,6 @@ babbage
 bimillionaire
 battish
 benches
-bimodule
 barff
 barberries
 baulked
@@ -15607,6 +15606,7 @@ biting
 bullaces
 babools
 batfish
+bimodule
 boundlessly
 britishism
 benjy
