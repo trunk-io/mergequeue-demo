@@ -4036,7 +4036,6 @@ bronchostomies
 beastman
 beastship
 balzarine
-babacoote
 becall
 beatae
 bashlyk
@@ -18099,6 +18098,7 @@ betusked
 bulkheaded
 butanoic
 butanol
+babacoote
 benzaldoxime
 bombinating
 bergander
