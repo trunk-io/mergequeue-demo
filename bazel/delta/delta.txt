@@ -1455,6 +1455,7 @@ dukedoms
 dories
 dispulp
 dejeuners
+demilitarize
 dazes
 dazy
 distritbuting
@@ -11207,7 +11208,6 @@ disposed
 distressful
 dissatisfactoriness
 dichromic
-demilitarize
 disbarring
 disbase
 dominant
