@@ -806,6 +806,7 @@ achievements
 antepaschal
 abscissas
 anam
+afforestable
 ayne
 astrogonic
 alcalde
@@ -9081,7 +9082,6 @@ assise
 aquamanilia
 ankylose
 antheses
-afforestable
 aleph
 adenalgy
 alaska
