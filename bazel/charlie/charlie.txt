@@ -7460,7 +7460,6 @@ chastened
 ceratostomataceae
 candlewaster
 cavalieres
-cimicidae
 ceratostomella
 ceratotheca
 chondrocostal
@@ -12661,6 +12660,7 @@ cumaceous
 cerusite
 coached
 cottier
+cimicidae
 cyanastrum
 curches
 chucklers
