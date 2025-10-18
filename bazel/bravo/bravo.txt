@@ -3676,6 +3676,7 @@ betatrons
 breakout
 beetlestock
 borzicactus
+battened
 bestubble
 batzen
 blundering
@@ -9856,7 +9857,6 @@ blastomycete
 boos
 boudoiresque
 brigandish
-battened
 bowdlerism
 bisulfate
 berth
