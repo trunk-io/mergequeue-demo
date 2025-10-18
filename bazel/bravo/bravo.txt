@@ -13495,6 +13495,7 @@ bricklike
 barbell
 brightsome
 balaustine
+bunkery
 bytownitite
 belowstairs
 baith
@@ -16051,7 +16052,6 @@ bronchohemorrhagia
 boatwoman
 badgerbrush
 blamelessness
-bunkery
 bambuseae
 barhopped
 bibionidae
