@@ -2285,7 +2285,6 @@ betrayers
 brassware
 boing
 brim
-braggart
 basophil
 barboy
 batocrinus
@@ -10834,6 +10833,7 @@ bulldoggy
 blepharostenosis
 betoya
 billmen
+braggart
 behooved
 blesboks
 babblers
