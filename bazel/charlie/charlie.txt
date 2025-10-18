@@ -1494,6 +1494,7 @@ camarillas
 chemostat
 callisto
 cesar
+civility
 callithrix
 collegiant
 corruptibilities
@@ -7232,7 +7233,6 @@ carousels
 corbies
 centuplicate
 centuplicating
-civility
 compacture
 covering
 chucking
