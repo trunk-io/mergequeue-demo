@@ -5859,7 +5859,6 @@ bemangle
 bemar
 bevaring
 broth
-bacillar
 bricktop
 banket
 bossier
@@ -15371,6 +15370,7 @@ bridlers
 ballerine
 bridoons
 blanched
+bacillar
 bersagliere
 bordelaise
 bearers
