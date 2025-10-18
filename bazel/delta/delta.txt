@@ -2552,6 +2552,7 @@ dorn
 disjasket
 dweller
 derringer
+dosed
 dobl
 dentalization
 dematerialize
@@ -9445,7 +9446,6 @@ disambiguations
 digitaria
 defecating
 doability
-dosed
 daikering
 diurne
 dendrohyrax
