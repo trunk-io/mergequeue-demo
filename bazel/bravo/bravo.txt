@@ -11999,6 +11999,7 @@ bumbles
 brothelry
 bostons
 bogymen
+becard
 bogland
 budgerigah
 bytalk
@@ -14019,7 +14020,6 @@ backstopped
 bishopful
 barwing
 billete
-becard
 balases
 brads
 bedlamps
