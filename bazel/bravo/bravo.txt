@@ -2023,6 +2023,7 @@ bannerline
 bivalents
 bebuttoned
 brokery
+beknot
 brisances
 bronchus
 blesses
@@ -11177,7 +11178,6 @@ beeves
 broomtail
 blindages
 boisseaux
-beknot
 basebred
 bitewings
 breveted
