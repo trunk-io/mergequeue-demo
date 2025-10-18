@@ -10809,7 +10809,6 @@ exuded
 epilogist
 experimentor
 excur
-equipment
 escarps
 entreat
 exorate
@@ -13230,6 +13229,7 @@ explorer
 epicheirema
 erumpent
 ethnogenist
+equipment
 elaeometer
 electrometallurgy
 epergnes
