@@ -6229,7 +6229,6 @@ bedrocks
 benthonic
 benthoscope
 benthoses
-bretwalda
 bacteriolysin
 blastie
 binderies
@@ -14415,6 +14414,7 @@ bafflements
 bowpin
 busticate
 basswoods
+bretwalda
 blacktopped
 blanches
 bombycids
