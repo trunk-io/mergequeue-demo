@@ -579,7 +579,6 @@ enroots
 esoterist
 eudiometry
 erratic
-eclogic
 extraocular
 eucryptite
 etruscology
@@ -9379,6 +9378,7 @@ erudite
 ecesis
 exiture
 excellences
+eclogic
 escartelly
 eam
 existimation
