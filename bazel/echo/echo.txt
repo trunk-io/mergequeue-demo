@@ -295,7 +295,6 @@ estops
 ewers
 enchilada
 equichangeable
-eluted
 eagerer
 easterling
 ewest
@@ -5025,6 +5024,7 @@ eastlins
 endangerer
 exhibitant
 expositoriness
+eluted
 elatrometer
 enlace
 endophragmal
