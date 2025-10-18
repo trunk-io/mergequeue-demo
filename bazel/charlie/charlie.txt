@@ -11751,7 +11751,6 @@ chondroitic
 chondromatous
 chondromyces
 cissoids
-chondromyxosarcoma
 captan
 chondromucoid
 centronucleus
@@ -22545,6 +22544,7 @@ colobin
 canterbury
 coniine
 coextensive
+chondromyxosarcoma
 coniines
 conylene
 conrey
