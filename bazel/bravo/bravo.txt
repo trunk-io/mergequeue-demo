@@ -741,7 +741,6 @@ banksman
 bifrost
 badiaga
 banderoled
-boiler
 boneshaw
 bowlegged
 bannerman
@@ -883,6 +882,7 @@ bardiglio
 boscage
 bysmalith
 berryless
+boiler
 boothage
 biopsychic
 bequirtle
