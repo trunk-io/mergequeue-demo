@@ -424,6 +424,7 @@ eccrinology
 echinocereus
 ensoul
 enregistered
+evaporability
 edifiers
 ebullioscopic
 entoplastron
@@ -3492,7 +3493,6 @@ eyeball
 extreme
 endearingness
 extendable
-evaporability
 epicyclic
 ephemerons
 enripen
