@@ -2554,7 +2554,6 @@ dorn
 disjasket
 dweller
 dosed
-dobl
 dentalization
 dematerialize
 daubed
@@ -8164,6 +8163,7 @@ disilicic
 disheritment
 dehypnotizing
 descaled
+dobl
 domoid
 dhooras
 dolphin
