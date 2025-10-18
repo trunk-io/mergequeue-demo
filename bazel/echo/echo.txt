@@ -6096,7 +6096,6 @@ ecaudata
 experienceable
 equiparant
 embryogenic
-emove
 exegetes
 empyromancy
 eerock
@@ -13551,6 +13550,7 @@ extending
 enframed
 emblazon
 evidence
+emove
 entomologised
 eclating
 entangled
