@@ -15606,7 +15606,6 @@ adeps
 apiary
 avogadrite
 antepileptic
-additur
 astromancer
 arf
 ampullaria
@@ -21115,6 +21114,7 @@ asea
 anemious
 arduous
 adventual
+additur
 amenableness
 ambleocarpus
 appreciably
