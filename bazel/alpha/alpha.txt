@@ -372,7 +372,6 @@ architectures
 aberrancy
 aberrants
 athyroidism
-areological
 aloha
 anemotaxis
 alpines
@@ -10633,6 +10632,7 @@ anteromedian
 ammonals
 assoin
 arborolater
+areological
 anathematiser
 alodium
 antithesize
