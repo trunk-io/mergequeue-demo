@@ -2438,7 +2438,6 @@ candleholder
 confisk
 carbonisable
 candlelight
-candlelighter
 chaloth
 choroti
 confraternities
@@ -23255,6 +23254,7 @@ constitutionary
 constitutions
 calker
 cowpath
+candlelighter
 clayweed
 constitutor
 crucifixion
