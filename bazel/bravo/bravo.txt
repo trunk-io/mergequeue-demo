@@ -9059,7 +9059,6 @@ bosjesman
 bullfrog
 bodiced
 bioscopy
-bioscopic
 bedecorate
 biosensor
 branchipus
@@ -15486,6 +15485,7 @@ battledoring
 bagged
 beheading
 begrimming
+bioscopic
 brills
 bigothero
 blandest
