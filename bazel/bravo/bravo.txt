@@ -6872,7 +6872,6 @@ biotypology
 bradyseismic
 bareboat
 barbarous
-burlet
 begrudges
 balmony
 bowls
@@ -16551,6 +16550,7 @@ brutalized
 bootlicked
 bloman
 burgeoned
+burlet
 bucentur
 bebopper
 blanc
