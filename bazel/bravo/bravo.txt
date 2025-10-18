@@ -10290,7 +10290,6 @@ biofeedback
 berries
 buttonhook
 bundocks
-bellweather
 bulldogs
 boltel
 beastdom
@@ -12793,6 +12792,7 @@ bullneck
 biparous
 bontequagga
 booksellerism
+bellweather
 belton
 bloody
 banderilleros
