@@ -1344,6 +1344,7 @@ diatomin
 deworm
 devilfish
 demolitions
+delay
 demonization
 disna
 depressure
@@ -15040,7 +15041,6 @@ demulsify
 demigriffin
 depravity
 dendrodont
-delay
 dimply
 deallocates
 demonographies
