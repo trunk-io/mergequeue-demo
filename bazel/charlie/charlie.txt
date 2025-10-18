@@ -6765,6 +6765,7 @@ celloid
 cupels
 clavicor
 colubrids
+conformed
 cathodofluorescence
 celloidin
 chapped
@@ -22207,7 +22208,6 @@ chrysis
 canoe
 contrair
 conformator
-conformed
 chorten
 clinged
 conformer
