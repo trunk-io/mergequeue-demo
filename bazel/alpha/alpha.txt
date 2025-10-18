@@ -2723,7 +2723,6 @@ adiathermal
 acrometer
 astronomy
 acerbityacerose
-armorproof
 autocamping
 acromicria
 antimeres
@@ -14984,6 +14983,7 @@ alcali
 aromadendrin
 autoecholalia
 antinomist
+armorproof
 anticonventional
 assiento
 alley
