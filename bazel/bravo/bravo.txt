@@ -4269,7 +4269,6 @@ bylina
 brick
 bluehead
 byworks
-beaconed
 bribeworthy
 brigaded
 bagne
@@ -6108,6 +6107,7 @@ braziers
 bacteriologies
 bretesse
 blanker
+beaconed
 butternose
 bullaries
 befinger
