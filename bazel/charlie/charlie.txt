@@ -3396,7 +3396,6 @@ cognizers
 cheloniid
 cestoids
 crutched
-capsuliform
 coverup
 capsuling
 charminger
@@ -10112,6 +10111,7 @@ carmelitess
 chirimen
 crois
 cryogens
+capsuliform
 chessner
 chessom
 claves
