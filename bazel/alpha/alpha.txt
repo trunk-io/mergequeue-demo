@@ -1278,7 +1278,6 @@ animadverting
 apochromatic
 algesia
 atomized
-abnormal
 acaulescence
 antlers
 acaulescent
@@ -5610,6 +5609,7 @@ aerodromics
 agricultor
 aripple
 argillocalcareous
+abnormal
 ambergrease
 alidades
 ambilian
