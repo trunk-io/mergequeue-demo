@@ -5395,6 +5395,7 @@ dorsimesal
 disinsection
 disblame
 dragade
+deprecation
 daraf
 doorlike
 dacryocystosyringotomy
@@ -6535,7 +6536,6 @@ doorframe
 diadromous
 demonomy
 dudish
-deprecation
 disennoble
 dactylogram
 demounted
