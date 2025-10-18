@@ -3408,6 +3408,7 @@ cheloniid
 cestoids
 crutched
 coverup
+contiguous
 capsuling
 charminger
 clamer
@@ -5791,7 +5792,6 @@ catenoid
 catenulate
 cacozyme
 capuli
-contiguous
 caedmonic
 cubistically
 counterprove
