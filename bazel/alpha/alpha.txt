@@ -4327,7 +4327,6 @@ aflagellar
 abdicate
 adust
 adustion
-artisanry
 arrivistes
 aulos
 arsonite
@@ -20258,6 +20257,7 @@ anilic
 absolver
 alcove
 anthologies
+artisanry
 actuary
 assignability
 archaeopteryx
