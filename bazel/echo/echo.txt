@@ -6346,7 +6346,6 @@ epicardiac
 eurafrican
 eucryphia
 escape
-emulate
 ensconcing
 enemas
 electrosynthesis
@@ -11947,6 +11946,7 @@ escapologist
 eg
 extratympanic
 epicnemial
+emulate
 electroencephalogram
 eskualdun
 epural
