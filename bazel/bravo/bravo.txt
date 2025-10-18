@@ -4238,6 +4238,7 @@ becircled
 boers
 bawdric
 bredbergite
+bostanji
 bowman
 butterman
 buildable
@@ -9980,7 +9981,6 @@ bedstring
 bedrivelling
 blowby
 bridleman
-bostanji
 bituminoid
 brackens
 becushioned
