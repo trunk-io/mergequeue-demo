@@ -12822,7 +12822,6 @@ chessboard
 churchgoers
 churchy
 churchyard
-crawlways
 cysticercerci
 cemeterial
 churchyards
@@ -13163,6 +13162,7 @@ cicisbeo
 casuists
 cryogenic
 chromometer
+crawlways
 clavichordist
 cypruses
 coconscious
