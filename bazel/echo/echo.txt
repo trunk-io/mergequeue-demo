@@ -4193,7 +4193,6 @@ evolutions
 egranulose
 encoignure
 enterable
-exempts
 esture
 electrophysiologic
 empanels
@@ -6415,6 +6414,7 @@ exconjugant
 evanescence
 epibenthic
 epilepsy
+exempts
 effodientia
 extratension
 erythrulose
