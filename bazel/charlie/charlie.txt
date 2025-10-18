@@ -5672,6 +5672,7 @@ catchpoll
 catchpolling
 contribute
 catchweight
+caretaker
 catchword
 centuplicated
 counterinsurgents
@@ -19614,7 +19615,6 @@ canaliculi
 carburating
 columbaceous
 columbae
-caretaker
 connaraceous
 columban
 cradletime
