@@ -6734,7 +6734,6 @@ azodiphenyl
 abutment
 autonavigator
 ajoure
-allantoic
 allemontite
 antispermotoxin
 aminopyrine
@@ -10484,6 +10483,7 @@ antileft
 animal
 antithetical
 adscript
+allantoic
 autolysis
 amidins
 arret
