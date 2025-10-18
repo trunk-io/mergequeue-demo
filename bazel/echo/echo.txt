@@ -1070,7 +1070,6 @@ eident
 educatable
 educatedness
 electrolyzable
-eudiometric
 epistropheus
 espaliered
 egrimony
@@ -2579,6 +2578,7 @@ encrusted
 elver
 ensouls
 emptional
+eudiometric
 eiry
 ethnocentrism
 emication
