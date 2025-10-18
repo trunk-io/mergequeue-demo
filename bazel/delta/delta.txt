@@ -4642,7 +4642,6 @@ depopulations
 dungyard
 drazel
 disproportionality
-demimondain
 dumbfounding
 doghouse
 dupes
@@ -12610,6 +12609,7 @@ donate
 drifts
 dispositionally
 dissheathed
+demimondain
 diametrical
 dorsoventral
 derailer
