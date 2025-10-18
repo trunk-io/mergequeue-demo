@@ -1947,7 +1947,6 @@ engrid
 eggshell
 eyelashes
 estimated
-exsiccated
 existential
 exauthorizeexc
 encarnalized
@@ -5452,6 +5451,7 @@ erythroxylon
 electrorefine
 enfacing
 enervating
+exsiccated
 elritch
 equidivision
 everting
