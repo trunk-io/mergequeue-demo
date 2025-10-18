@@ -5787,6 +5787,7 @@ catercorner
 catercornerways
 coholder
 chainplate
+crushable
 cartbote
 cortically
 catered
@@ -31122,7 +31123,6 @@ cavities
 cupman
 conches
 cupolaed
-crushable
 cupolaing
 cupolaman
 cupolar
