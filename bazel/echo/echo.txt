@@ -6822,7 +6822,6 @@ enacts
 entrances
 exam
 etherialisation
-entourage
 enounces
 entrain
 enantiomorphy
@@ -10621,6 +10620,7 @@ euspongia
 englify
 enchodontidae
 endosporic
+entourage
 embrectomy
 elaborating
 erysiphe
