@@ -6817,7 +6817,6 @@ cuddly
 confidant
 conscientiousness
 curares
-chat
 cytologist
 cellulofibrous
 confabbing
@@ -22439,6 +22438,7 @@ caterwauling
 congregationalism
 corpulent
 conopophagidae
+chat
 cosmogony
 congregationalist
 circumnavigated
