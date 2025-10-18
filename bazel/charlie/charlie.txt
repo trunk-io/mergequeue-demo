@@ -14534,7 +14534,6 @@ congrue
 crossbowmen
 covine
 cubbishness
-corved
 compassionless
 chuffier
 cissoidal
@@ -26586,6 +26585,7 @@ coucal
 clivus
 couchancy
 crisply
+corved
 couchant
 couths
 clothesmen
