@@ -3973,6 +3973,7 @@ admittance
 admittatur
 avalanches
 aiders
+assert
 ardoise
 ampliation
 aedoeagi
@@ -21764,7 +21765,6 @@ acategorical
 alacreatinin
 asseour
 acutely
-assert
 anonymities
 acroasis
 aphorized
