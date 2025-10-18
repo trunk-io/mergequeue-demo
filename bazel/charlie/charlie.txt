@@ -11076,7 +11076,6 @@ compends
 chitinoid
 cist
 cowgirl
-churnstaff
 chitins
 chitling
 candours
@@ -17999,6 +17998,7 @@ cholesteric
 chololith
 clearway
 captiving
+churnstaff
 computation
 colliquate
 chiaroscuros
