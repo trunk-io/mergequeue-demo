@@ -4957,7 +4957,6 @@ balanoid
 beetles
 baselevel
 buoying
-beetlike
 beetrave
 bronzings
 bubale
@@ -6004,6 +6003,7 @@ bdft
 becowarded
 brock
 bookishness
+beetlike
 balatronic
 bunkerage
 bedrift
