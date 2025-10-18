@@ -2226,7 +2226,6 @@ carthaginian
 canaler
 collodium
 cullage
-chemisorptive
 cytoplasmically
 chimeres
 caprone
@@ -21557,6 +21556,7 @@ commands
 curliewurly
 cap
 cantalas
+chemisorptive
 cycadaceae
 classifically
 centerer
