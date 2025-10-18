@@ -17968,6 +17968,7 @@ crude
 coef
 coeff
 copperplate
+civilization
 coefficients
 cartellist
 coelacanth
@@ -28051,7 +28052,6 @@ conditory
 cyclostomi
 calycanth
 colpoplasty
-civilization
 caprid
 craniopuncture
 cachexia
