@@ -737,7 +737,6 @@ bifrost
 badiaga
 brandsolder
 banderoled
-boiler
 boneshaw
 bowlegged
 bannerman
@@ -875,6 +874,7 @@ boscage
 balantidiosis
 bysmalith
 berryless
+boiler
 boothage
 biopsychic
 bequirtle
