@@ -6559,6 +6559,7 @@ balancers
 bootloader
 blepharospasm
 biunity
+broadside
 banquettes
 butterwright
 boxwood
@@ -7525,7 +7526,6 @@ bituminizing
 bewitched
 bougee
 butlerdom
-broadside
 bocoy
 bryological
 bsh
