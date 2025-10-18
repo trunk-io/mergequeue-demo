@@ -3114,7 +3114,6 @@ doorbell
 disordinance
 daydreams
 daunton
-dorsiventrally
 degenerated
 defeated
 downs
@@ -18496,6 +18495,7 @@ diamagnetic
 dipterous
 deep
 dislocation
+dorsiventrally
 dupped
 dyschronous
 dynamomorphic
