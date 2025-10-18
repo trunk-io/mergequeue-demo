@@ -1482,7 +1482,6 @@ copopoda
 crystal
 calliphorid
 cartularies
-chocolatey
 celosia
 calcrete
 cayuse
@@ -8742,6 +8741,7 @@ cockpits
 chapelize
 cataplasia
 chirpier
+chocolatey
 cryptovolcanic
 castlewards
 chapellany
