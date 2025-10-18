@@ -2746,7 +2746,6 @@ bulkiest
 blowze
 barothermohygrograph
 barotrauma
-bulgurs
 beltane
 bravest
 blk
@@ -11025,6 +11024,7 @@ becuffed
 bebite
 bobbling
 bailieries
+bulgurs
 brava
 bootstrapping
 bombardmen
