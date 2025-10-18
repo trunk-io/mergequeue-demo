@@ -11840,7 +11840,6 @@ bury
 boards
 bisquette
 buttes
-bepity
 bankrupt
 brashes
 barriers
@@ -12182,6 +12181,7 @@ bloomkin
 bolero
 bivoltine
 bai
+bepity
 befrilled
 bedriddenness
 boarishness
