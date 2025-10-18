@@ -2303,7 +2303,6 @@ dismastment
 deepish
 decemvirship
 decayer
-depurator
 decennial
 digenesis
 depreciation
@@ -7077,6 +7076,7 @@ diffusimeter
 despoils
 diversiflorous
 deedbox
+depurator
 deface
 despondence
 difunctional

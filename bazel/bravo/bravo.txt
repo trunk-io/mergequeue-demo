@@ -529,6 +529,7 @@ biserial
 briming
 broadway
 besiclometer
+bcd
 bier
 brackishness
 backstops
@@ -16110,7 +16111,6 @@ brightens
 barmfel
 bashful
 brassylic
-bcd
 bullionism
 blitzbuggy
 bourtree
