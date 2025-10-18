@@ -9781,7 +9781,6 @@ extramental
 elementarily
 enchest
 endothermous
-entincture
 etherializing
 emblazonment
 encodes
@@ -11807,6 +11806,7 @@ eriocaulaceae
 ephod
 escutellate
 eegrass
+entincture
 equitemporaneous
 ethnologists
 eleemosinar
