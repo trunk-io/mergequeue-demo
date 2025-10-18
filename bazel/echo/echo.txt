@@ -5046,7 +5046,6 @@ eelback
 enemy
 epos
 eleventh
-ecteron
 everydeal
 excipula
 epicrisis
@@ -8882,6 +8881,7 @@ electrometallurgical
 enspheres
 extranidal
 electrootiatrics
+ecteron
 epiphanies
 eudaemonist
 ebullience
