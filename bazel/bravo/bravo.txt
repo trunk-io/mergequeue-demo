@@ -4014,7 +4014,6 @@ bowbells
 buttonholing
 beastlike
 bengalic
-bemadam
 berime
 buoyantness
 beeweed
@@ -8811,6 +8810,7 @@ bioastronautics
 barbeau
 biobibliographer
 bioblastic
+bemadam
 backwoodsiness
 bandaid
 blackface
