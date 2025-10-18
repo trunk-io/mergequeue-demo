@@ -9830,6 +9830,7 @@ chemicoastrological
 chemicobiologic
 chemicoluminescent
 carcinogenicity
+cobweb
 chemicophysical
 ciliary
 carcases
@@ -17536,7 +17537,6 @@ comeling
 cardielcosis
 chimneyhead
 coburg
-cobweb
 cerion
 corporealization
 cooree
