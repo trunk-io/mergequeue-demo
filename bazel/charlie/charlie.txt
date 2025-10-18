@@ -15589,7 +15589,6 @@ clasper
 claspers
 claspt
 classable
-coplanarity
 classed
 castigation
 circumboreal
@@ -30907,6 +30906,7 @@ cardinalitial
 caroid
 corroboreeing
 cacatua
+coplanarity
 conceits
 cakemaking
 chloroform
