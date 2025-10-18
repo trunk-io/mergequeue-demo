@@ -4218,7 +4218,6 @@ bredbergite
 bostanji
 bowman
 butterman
-buildable
 brickier
 becking
 blandiloquous
@@ -7175,6 +7174,7 @@ bestrewment
 bestrewn
 basses
 banishing
+buildable
 bactericidal
 blandation
 blueberry
