@@ -10674,7 +10674,6 @@ aminization
 anatomicosurgical
 arthroplasty
 araneous
-argentarius
 anastigmat
 arrhythmy
 angiomyosarcoma
@@ -19255,6 +19254,7 @@ arenicolous
 arenilitic
 antifeudalism
 accretal
+argentarius
 arenites
 ambaries
 alpiniaceae
