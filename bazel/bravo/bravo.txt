@@ -5295,7 +5295,6 @@ benzoline
 besoothement
 begowned
 blacktops
-barters
 beevish
 begray
 blurred
@@ -14590,6 +14589,7 @@ branchiae
 bradyglossia
 belabour
 branchicolous
+barters
 ballsiest
 blizz
 baddeleyite
