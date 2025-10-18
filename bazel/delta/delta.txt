@@ -1478,6 +1478,7 @@ dingbats
 definiendum
 deformers
 diazines
+disaltern
 disannuller
 defraudment
 delinquence
@@ -3708,7 +3709,6 @@ dipsos
 displat
 duplicident
 depose
-disaltern
 dehydrocorticosterone
 dicoumarol
 didact
