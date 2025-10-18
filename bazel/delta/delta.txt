@@ -274,6 +274,7 @@ dishpanful
 disabled
 daguerreotyping
 digitonin
+descendent
 docken
 debugged
 dazzlers
@@ -8295,7 +8296,6 @@ deathworm
 diaconica
 dilute
 deputable
-descendent
 drabbets
 diabolise
 disprison
