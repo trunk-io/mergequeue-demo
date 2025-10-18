@@ -1453,6 +1453,7 @@ bereavers
 bumblepuppy
 batrachophagous
 ballads
+byspell
 barbigerous
 balete
 bloodmonger
@@ -13994,7 +13995,6 @@ blueblossom
 bravuraish
 backpointer
 brechans
-byspell
 bargelli
 barmkin
 brussel
