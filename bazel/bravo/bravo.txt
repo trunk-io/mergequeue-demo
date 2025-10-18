@@ -4505,6 +4505,7 @@ bombshells
 bedevilling
 bargee
 bescarf
+beacon
 bokark
 betsileos
 bedewed
@@ -15026,7 +15027,6 @@ bohora
 breccias
 biocoenotic
 butterbill
-beacon
 beglerbeglic
 bimasty
 brechams
