@@ -3915,7 +3915,6 @@ beakless
 beaks
 byously
 biographist
-burglarproofing
 berri
 brutify
 banditti
@@ -12542,6 +12541,7 @@ buff
 bonfires
 bongoist
 bannimus
+burglarproofing
 beaus
 bedposts
 blackballed
