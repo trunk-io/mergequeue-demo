@@ -3902,6 +3902,7 @@ brasquing
 baleens
 beadworks
 bistroic
+bidirectionally
 brython
 boilermaking
 beakerman
@@ -15291,7 +15292,6 @@ bridewain
 barreleyes
 braided
 balarao
-bidirectionally
 blimy
 bahiaite
 baldnesses
