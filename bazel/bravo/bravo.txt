@@ -15249,7 +15249,6 @@ branchiostegal
 beglerbeg
 bricklayer
 bricklayers
-bowwort
 buccolingual
 bulbospinal
 blennoid
@@ -16860,6 +16859,7 @@ brainstem
 blackplate
 blackfire
 barspoon
+bowwort
 bicarbonate
 budgeter
 beholds
