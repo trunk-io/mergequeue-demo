@@ -2574,6 +2574,7 @@ bribeable
 bumpy
 barling
 broadsword
+bismuthite
 bannition
 backblocks
 burdenless
@@ -11156,7 +11157,6 @@ brachypnea
 blatherskite
 besprinkler
 bisection
-bismuthite
 bloodstream
 boisseau
 balkanize
