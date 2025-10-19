@@ -1338,7 +1338,6 @@ empathic
 exist
 elopement
 epochs
-extogenous
 emportment
 etherification
 exacta
@@ -8139,6 +8138,7 @@ epitaphian
 eulogy
 embolium
 excystation
+extogenous
 epitaphs
 eggheads
 engineering
