@@ -5003,7 +5003,6 @@ elatrometer
 endophragmal
 epicenity
 espada
-endlichite
 excipulaceae
 enhedge
 endarterectomy
@@ -10515,6 +10514,7 @@ entitative
 ectopatagium
 engarment
 eugubine
+endlichite
 endoradiosonde
 endexines
 emda
