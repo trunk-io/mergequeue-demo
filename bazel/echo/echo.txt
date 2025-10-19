@@ -2469,6 +2469,7 @@ electronically
 ecad
 encyclopaedian
 ephebos
+electrum
 experimentation
 excesses
 exion
@@ -6710,7 +6711,6 @@ extensibility
 entomeric
 eparterial
 ellipsoidal
-electrum
 eudemonist
 endlessly
 expenditures
