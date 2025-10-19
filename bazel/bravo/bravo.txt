@@ -3569,7 +3569,6 @@ battement
 bonding
 barbeled
 breck
-batterman
 blairmorite
 broils
 bindlet
@@ -10795,6 +10794,7 @@ backstretches
 bullragging
 beshlik
 blennogenous
+batterman
 branchiostegal
 bedriveling
 buglosses
