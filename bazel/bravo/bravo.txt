@@ -4775,7 +4775,6 @@ benefaction
 bilharzic
 bullition
 bubukle
-berust
 beebee
 biophysical
 balneation
@@ -15436,6 +15435,7 @@ beloid
 brigadier
 blinis
 benzothiofuran
+berust
 bey
 baahling
 barbarianism
