@@ -4546,7 +4546,6 @@ embargoes
 extrastapedial
 enchodontid
 enchondrosis
-endoabdominal
 ergodicity
 empyreumatical
 esthesis
@@ -12855,6 +12854,7 @@ espousals
 epoch
 enanthematous
 eulogistic
+endoabdominal
 emeroids
 epimeride
 epistemonic
