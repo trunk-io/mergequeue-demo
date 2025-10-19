@@ -7300,7 +7300,6 @@ brevifoliate
 brazilin
 brazening
 bitterhead
-battleships
 bombous
 bumblebee
 bys
@@ -13643,6 +13642,7 @@ barhop
 bouffant
 barwal
 broodless
+battleships
 bratina
 bumpiness
 bespottedness
