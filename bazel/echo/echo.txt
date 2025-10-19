@@ -1895,6 +1895,7 @@ endoclinal
 exorcisory
 encyclopedist
 estipulate
+enc
 esthetician
 econometrist
 edward
@@ -5518,7 +5519,6 @@ eggwhisk
 episarcine
 ethenes
 enlisters
-enc
 equivalency
 expos
 evincible
