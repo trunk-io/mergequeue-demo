@@ -7216,6 +7216,7 @@ besiegement
 boundable
 berkeley
 better
+bytownite
 bedazzles
 broombush
 betag
@@ -17432,7 +17433,6 @@ belinurus
 bretwaldaship
 belier
 breakup
-bytownite
 byerite
 bushbaby
 borsht
