@@ -9561,7 +9561,6 @@ cupseed
 chiastic
 checkpointing
 combmaking
-checkpoints
 circumspective
 clabbered
 crabber
@@ -11977,6 +11976,7 @@ chorioidocyclitis
 corsacs
 chorioidoiritis
 catcalling
+checkpoints
 celioscope
 casaque
 choriomata
