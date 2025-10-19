@@ -1130,7 +1130,6 @@ accenting
 artist
 abolishers
 airshed
-aphacic
 amniote
 ascidians
 acaleph
@@ -8763,6 +8762,7 @@ abogado
 asteraceae
 ancestral
 astrology
+aphacic
 altercative
 abuilding
 alliterate
