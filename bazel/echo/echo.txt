@@ -6971,7 +6971,6 @@ extrapolar
 elapids
 eusebian
 encamps
-embright
 enlisted
 episternum
 emodins
@@ -12231,6 +12230,7 @@ evocate
 emulsible
 enwrap
 essenced
+embright
 equispatial
 excretitious
 endosarc
