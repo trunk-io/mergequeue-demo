@@ -3006,7 +3006,6 @@ denuding
 devall
 dermoskeletal
 detailist
-deescalate
 deeses
 depauperation
 deemphasize
@@ -6517,6 +6516,7 @@ desc
 descale
 drassidae
 downrightly
+deescalate
 dentinoblast
 dismail
 dereism
