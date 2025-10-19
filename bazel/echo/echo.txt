@@ -4507,7 +4507,6 @@ embitter
 extrospect
 esperantism
 equanimous
-evidently
 endosarcode
 ethnolinguistics
 echinops
@@ -4576,6 +4575,7 @@ exterminable
 enlargeable
 ebcdic
 enfranchised
+evidently
 entires
 estrado
 epidemics
