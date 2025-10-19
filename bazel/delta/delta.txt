@@ -2358,6 +2358,7 @@ dialectologist
 denouement
 downshifts
 disappointments
+deterministically
 disinfecting
 deflexed
 disklike
@@ -11969,7 +11970,6 @@ detonation
 diseases
 deepfreezing
 depthing
-deterministically
 doorba
 defeise
 domes
