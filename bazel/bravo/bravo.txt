@@ -4763,7 +4763,6 @@ benefaction
 bilharzic
 bullition
 bubukle
-berust
 beebee
 biophysical
 balneation
@@ -14460,6 +14459,7 @@ beswarmed
 burglarproof
 broche
 brimmimg
+berust
 barbican
 brachiferous
 bestriding
