@@ -948,6 +948,7 @@ daroga
 downgrowth
 dist
 discontinued
+disciple
 devilwood
 diligence
 decerp
@@ -1271,7 +1272,6 @@ dobsons
 dinitro
 duckery
 drevel
-disciple
 duplify
 doctrines
 dogate
