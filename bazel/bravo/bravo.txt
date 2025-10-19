@@ -171,7 +171,6 @@ bepiece
 brakesman
 bashara
 bethylidae
-booklores
 baboonery
 baetylic
 bertholletia
@@ -404,6 +403,7 @@ bellyache
 brontolite
 bdelloid
 backgammon
+booklores
 barbarical
 boydom
 biomorphic
