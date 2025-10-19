@@ -211,7 +211,6 @@ bandy
 bipartition
 brython
 bogeyed
-bandido
 bitt
 bubble
 bluffness
@@ -10620,6 +10619,7 @@ blats
 butyrone
 beflatter
 bogey
+bandido
 bonging
 biostrome
 bladdery
