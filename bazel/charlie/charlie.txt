@@ -1869,6 +1869,7 @@ constant
 camelopardus
 cloghad
 counterflashing
+cymulose
 camelus
 castalia
 camembert
@@ -4713,7 +4714,6 @@ coffea
 carr
 coation
 chorology
-cymulose
 craunching
 cagier
 cycling
