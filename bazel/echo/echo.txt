@@ -4115,7 +4115,6 @@ exampleship
 equidiagonal
 epithecia
 escutcheons
-enrail
 electrodispersive
 equimolar
 extrasensorial
@@ -12780,6 +12779,7 @@ echeloning
 expectancy
 enswathement
 esuriently
+enrail
 estrus
 eweries
 endotherm
