@@ -2672,7 +2672,6 @@ enzyme
 endosteomas
 ensanguined
 ensiling
-eyne
 euthytropic
 eleidin
 encarpi
@@ -4069,6 +4068,7 @@ exsiccate
 encycl
 eyelid
 epaulets
+eyne
 equilibrating
 elephantiasis
 epimer
