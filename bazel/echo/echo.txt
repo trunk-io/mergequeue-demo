@@ -3706,6 +3706,7 @@ electrolyzer
 evilhearted
 epitympanum
 expiratory
+ecderonic
 eridanid
 emirship
 etched
@@ -8616,7 +8617,6 @@ endofaradism
 endotheliomyoma
 ethicist
 enchondromas
-ecderonic
 endoceras
 embarcation
 erbium
