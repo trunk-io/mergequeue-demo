@@ -4591,6 +4591,7 @@ dispersoid
 dosimetric
 deprecated
 demifigure
+diminishments
 dieresis
 decentres
 doomage
@@ -16208,7 +16209,6 @@ dekametre
 discordantly
 disconsolacy
 disappreciate
-diminishments
 doo
 devisal
 doublette

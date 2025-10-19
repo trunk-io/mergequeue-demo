@@ -1517,6 +1517,7 @@ celestialize
 chairmanned
 callop
 canaut
+correspondency
 camphorate
 cancerwort
 cutcher
@@ -25753,7 +25754,6 @@ coghle
 correspondences
 calamints
 claustrophobia
-correspondency
 correspondent
 chichipate
 chromogene
