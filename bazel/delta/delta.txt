@@ -2034,6 +2034,7 @@ damageableness
 dumpage
 dianthus
 dominical
+decontaminating
 disincorporation
 dolichosaurus
 downhanging
@@ -6122,7 +6123,6 @@ disguisedly
 dipsacus
 declass
 derelicts
-decontaminating
 doorpiece
 dysphemized
 downtrod
