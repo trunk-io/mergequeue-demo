@@ -1596,7 +1596,6 @@ anomies
 amberfishes
 arx
 aseptol
-articulators
 australia
 acescent
 abyssus
@@ -24024,6 +24023,7 @@ antilogarithms
 aftertrial
 aperispermic
 autoceptive
+articulators
 atmosphere
 admonitorily
 apostatised
