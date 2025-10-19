@@ -8683,6 +8683,7 @@ aquarium
 anconad
 amorite
 alleve
+apostleships
 amphimictic
 alleviate
 aread
@@ -17418,7 +17419,6 @@ autotransfusion
 aine
 anigh
 abominating
-apostleships
 assemblers
 aptyalia
 allaeanthus
