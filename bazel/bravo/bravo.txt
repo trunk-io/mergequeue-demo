@@ -12407,7 +12407,6 @@ biskop
 bourgade
 bornyl
 bracteal
-bookplates
 batuque
 bathala
 bookboard
@@ -17959,6 +17958,7 @@ beastling
 busybody
 busybodyism
 bract
+bookplates
 brachystochrone
 basilosauridae
 biarticulated
