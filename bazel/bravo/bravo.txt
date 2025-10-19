@@ -6233,7 +6233,6 @@ bigheads
 bustles
 bagfuls
 birlinn
-bevors
 brittles
 bedrocks
 benthonic
@@ -10279,6 +10278,7 @@ barleycorn
 breakpoints
 brainer
 beclamour
+bevors
 banian
 bowstaff
 blackneck
