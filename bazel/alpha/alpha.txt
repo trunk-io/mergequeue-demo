@@ -12052,7 +12052,6 @@ alternatives
 autocratical
 agoranome
 abduced
-autodestruction
 abstractors
 apar
 anise
@@ -24513,6 +24512,7 @@ apis
 alur
 asterospondylous
 assertively
+autodestruction
 anthropomorphously
 autorotate
 adaunt
