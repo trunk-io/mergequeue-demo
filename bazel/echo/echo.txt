@@ -1630,7 +1630,6 @@ elaborators
 engoue
 eminently
 eumoirous
-emule
 episomally
 ennoic
 electrolithotrity
@@ -12923,6 +12922,7 @@ epicranium
 extranormal
 ec
 exserted
+emule
 exothermic
 electrophrenic
 electrodiagnostic
