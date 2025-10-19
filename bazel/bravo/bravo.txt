@@ -2430,7 +2430,6 @@ beared
 bough
 barre
 blissfulness
-bedark
 bergere
 beauish
 bobber
@@ -17543,6 +17542,7 @@ burbot
 bananalander
 bitreadle
 burdalone
+bedark
 bleak
 brawlers
 blackfishing
