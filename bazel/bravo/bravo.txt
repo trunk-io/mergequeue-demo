@@ -7337,7 +7337,6 @@ botrycymose
 birdbath
 barleybreak
 boothes
-barhopping
 boomdas
 beeline
 beneceptor
@@ -9629,6 +9628,7 @@ biscayan
 bubbled
 beehead
 blurb
+barhopping
 brassiere
 biscayanism
 bimetals
