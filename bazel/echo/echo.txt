@@ -5370,7 +5370,6 @@ expedientist
 epibaterium
 epepophysis
 ensheathing
-evaporations
 eat
 embarrassed
 etypic
@@ -12519,6 +12518,7 @@ epitheliomata
 embryographic
 evection
 eukairite
+evaporations
 encounterable
 encyst
 enrapture
