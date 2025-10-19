@@ -2498,7 +2498,6 @@ eparchs
 explicit
 embryology
 evangeliser
-extropical
 ecthetically
 eyers
 enceint
@@ -10407,6 +10406,7 @@ extraordinaries
 erotylidae
 euchres
 endopelvic
+extropical
 ecbolics
 enlargedness
 elegist
