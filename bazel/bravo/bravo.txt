@@ -12876,7 +12876,6 @@ baseboard
 borlase
 benzocaine
 basiliscine
-blink
 brachystegia
 betokener
 barnabite
@@ -16108,6 +16107,7 @@ banteringly
 bielby
 bodo
 bauge
+blink
 befamilied
 bridehood
 bannerole
