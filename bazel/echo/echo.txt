@@ -8546,7 +8546,6 @@ enterovirus
 edhs
 ethnol
 eyedropperful
-electrotropism
 expectance
 equinate
 estival
@@ -8679,6 +8678,7 @@ eathly
 equipotentiality
 expansure
 extensionist
+electrotropism
 enround
 encheer
 enstore
