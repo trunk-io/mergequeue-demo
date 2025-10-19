@@ -1392,6 +1392,7 @@ atheling
 acrab
 affixable
 arctia
+acervatim
 aeronautics
 anadicrotic
 atriopore
@@ -14990,7 +14991,6 @@ adenographic
 arthropterous
 annulled
 amidohexose
-acervatim
 alewife
 auricularis
 anadrom
