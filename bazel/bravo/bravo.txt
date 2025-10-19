@@ -11824,7 +11824,6 @@ bullishly
 bioresearch
 batiks
 bod
-barebone
 bodach
 brushy
 bursts
@@ -13182,6 +13181,7 @@ boone
 bowdlerizer
 bkbndr
 bleachability
+barebone
 bouldered
 backhanding
 bootless
