@@ -2783,6 +2783,7 @@ debunk
 disleafed
 desparple
 decried
+diagnostics
 doughnuts
 druery
 deerflys
@@ -17289,7 +17290,6 @@ degenerate
 deadwood
 desulfuring
 defusing
-diagnostics
 developpe
 diacetin
 defoul
