@@ -5101,7 +5101,6 @@ castings
 casparian
 convertors
 caspian
-casque
 casqued
 cushat
 casquetel
@@ -12264,6 +12263,7 @@ careener
 christianopaganism
 chrysamphora
 cryptographically
+casque
 christians
 crossweed
 conjugated
