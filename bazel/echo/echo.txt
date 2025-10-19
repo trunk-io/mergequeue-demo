@@ -5392,6 +5392,7 @@ economy
 epigne
 endomycetaceae
 energesis
+ersatz
 everness
 epidia
 exocycloida
@@ -11376,7 +11377,6 @@ extraditable
 effaced
 enringed
 earcockle
-ersatz
 enfurrow
 eavesdropping
 exclosure
