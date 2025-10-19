@@ -242,7 +242,6 @@ baffle
 baris
 bibliograph
 betonica
-bactrites
 betrothed
 bisimine
 bathyanesthesia
@@ -3917,6 +3916,7 @@ beanery
 bakupari
 beanfeast
 bibiri
+bactrites
 bachelry
 bisellia
 beriberic
