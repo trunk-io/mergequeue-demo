@@ -1537,7 +1537,6 @@ barogram
 boud
 boyarism
 barbells
-butyrous
 burr
 bramble
 ballottement
@@ -6699,6 +6698,7 @@ beehives
 bylander
 brisking
 brike
+butyrous
 betimes
 bracteiform
 befool
