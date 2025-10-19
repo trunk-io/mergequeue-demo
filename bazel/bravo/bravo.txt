@@ -4497,7 +4497,6 @@ bombshells
 bescarf
 beacon
 brat
-basiparaplastin
 bokark
 betsileos
 bedewed
@@ -4726,6 +4725,7 @@ bedunce
 bulkily
 bactericides
 biosociology
+basiparaplastin
 bustard
 berean
 benames
