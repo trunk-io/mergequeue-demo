@@ -4327,7 +4327,6 @@ conelrads
 centerpieces
 cornhusker
 caritative
-carity
 caritive
 chlorcosane
 circumfusion
@@ -9316,6 +9315,7 @@ chauffeured
 cestoids
 crankplate
 chauffeurship
+carity
 chauffeuse
 challenges
 couvert
