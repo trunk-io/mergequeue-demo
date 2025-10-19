@@ -2644,7 +2644,6 @@ decommission
 decommissioned
 dozers
 drunkard
-decompensating
 densifying
 demagnetizable
 dramatizations
@@ -11525,6 +11524,7 @@ doomster
 discerned
 damnably
 dislocates
+decompensating
 dognapped
 dewflower
 divulgator
