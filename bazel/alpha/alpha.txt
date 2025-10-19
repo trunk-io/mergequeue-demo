@@ -8652,7 +8652,6 @@ anemology
 arghoul
 ancyrene
 allelic
-amental
 avowe
 abnormally
 allelomorphic
@@ -9941,6 +9940,7 @@ abandonee
 archbuilder
 abdication
 authorling
+amental
 airlocks
 anatomicopathological
 alienator
