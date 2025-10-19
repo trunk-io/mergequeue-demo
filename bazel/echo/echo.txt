@@ -6025,6 +6025,7 @@ end
 enlinkment
 entheate
 earwigs
+exploring
 emphasise
 endemisms
 erythrozyme
@@ -13143,7 +13144,6 @@ explanted
 explanting
 epistolatory
 eschewing
-exploring
 ecologies
 evaporimeter
 eclipsation
