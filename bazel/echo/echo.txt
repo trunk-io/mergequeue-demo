@@ -4231,7 +4231,6 @@ eastness
 enantiomorph
 enlure
 ectosarcs
-encephalosclerosis
 evincing
 endoplastule
 eleotrid
@@ -9201,6 +9200,7 @@ edgrew
 eductive
 extendability
 equipoising
+encephalosclerosis
 electroform
 escaper
 expertized
