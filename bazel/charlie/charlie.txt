@@ -7832,7 +7832,6 @@ catadrome
 castaway
 cessor
 cesspipe
-cesspit
 cesspits
 contrastment
 cesspools
@@ -31062,6 +31061,7 @@ characterizable
 crystalliferous
 chocolates
 constitutor
+cesspit
 chantepleure
 counternotice
 cunnilinctus
