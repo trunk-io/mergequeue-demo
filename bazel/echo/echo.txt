@@ -91,7 +91,6 @@ expatriate
 euripi
 eurypterus
 enigmatized
-endosmosic
 empest
 erosionist
 elocutioner
@@ -2723,6 +2722,7 @@ elementalize
 engagedness
 ephori
 endoskeleton
+endosmosic
 essaylet
 equicohesive
 elementaloid
