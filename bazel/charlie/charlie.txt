@@ -5664,7 +5664,6 @@ cynoscion
 consomme
 commation
 catchpoll
-catchpolling
 contribute
 catchweight
 caretaker
@@ -18668,6 +18667,7 @@ coachability
 coindicant
 coiner
 comparograph
+catchpolling
 casement
 cadaverousness
 comicotragic
