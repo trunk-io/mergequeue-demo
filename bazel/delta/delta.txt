@@ -14530,7 +14530,6 @@ deliration
 divisural
 dicyema
 dispensing
-dihedrals
 dryfarm
 dialogised
 decomposition
@@ -16152,6 +16151,7 @@ doulocracy
 douma
 disquisitor
 didynamy
+dihedrals
 doggonedest
 dingee
 douping
