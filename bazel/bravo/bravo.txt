@@ -4829,7 +4829,6 @@ beekeeping
 beennut
 bacteriotherapy
 bonework
-burgware
 bumblings
 balls
 boggart
@@ -17879,6 +17878,7 @@ bombe
 bush
 banlieu
 blotchier
+burgware
 bushbucks
 bearbush
 bacilluria
