@@ -3467,7 +3467,6 @@ butterbush
 boozer
 bootikin
 butchers
-baptistery
 blockmaking
 bathool
 boomkins
@@ -17139,6 +17138,7 @@ beseeming
 bimarine
 bullfighters
 beglare
+baptistery
 blocs
 bolly
 bater
