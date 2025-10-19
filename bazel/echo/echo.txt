@@ -8815,7 +8815,6 @@ extruded
 evidenced
 eremitical
 exilement
-endocardial
 enameled
 ecclesiarch
 enshadow
@@ -11275,6 +11274,7 @@ exocoelar
 epipsychidion
 erysipelatous
 evited
+endocardial
 epiphytical
 expeditor
 endosteitis
