@@ -2465,7 +2465,6 @@ drawbores
 dangling
 decyne
 drydenian
-diaeresis
 depencil
 dippable
 dissentious
@@ -13627,6 +13626,7 @@ dissyllabised
 deconsecration
 dorsomedian
 dedications
+diaeresis
 diademed
 dissemblingly
 drang
