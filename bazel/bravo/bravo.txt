@@ -1325,7 +1325,6 @@ bestore
 balsaminaceous
 bardily
 balded
-bushelled
 balder
 bloodstock
 bandleader
@@ -13879,6 +13878,7 @@ brunion
 bowbent
 bowditch
 buttermaker
+bushelled
 bodoni
 buffetings
 breadfruit
