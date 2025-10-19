@@ -3397,6 +3397,7 @@ capsizing
 caps
 capsomere
 cranioclasis
+cuttlefish
 capsomers
 capstans
 capstone
@@ -14756,7 +14757,6 @@ cite
 calculable
 consultor
 cubicular
-cuttlefish
 citer
 cites
 citharexylum
