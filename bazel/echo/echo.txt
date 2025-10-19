@@ -4583,7 +4583,6 @@ extends
 endoceratitic
 ended
 eustyle
-ecphasis
 exceptionability
 epirogenic
 encyclopedic
@@ -6232,6 +6231,7 @@ enfacement
 emberiza
 entwined
 ensiled
+ecphasis
 ethically
 ensile
 ectophytic
