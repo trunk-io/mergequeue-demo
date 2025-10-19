@@ -4247,6 +4247,7 @@ caricaceae
 caricaceous
 carcinology
 cattleya
+conf
 crosshand
 cochlitis
 cyclus
@@ -21904,7 +21905,6 @@ centimes
 caimans
 cones
 conestoga
-conf
 chalcophile
 cosmopolitanisation
 counterpose
