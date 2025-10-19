@@ -4256,7 +4256,6 @@ bozo
 bioherms
 bucranium
 beclaw
-bunoselenodont
 barger
 bracteose
 balau
@@ -9678,6 +9677,7 @@ bebrush
 bishop
 beloeilite
 bummer
+bunoselenodont
 babirussa
 boughpots
 bookie
