@@ -12508,7 +12508,6 @@ explat
 epirhizous
 epiural
 enquired
-extranormal
 epitheliomata
 embryographic
 evection
@@ -12915,6 +12914,7 @@ eupepsias
 extravagant
 epiopticon
 epicranium
+extranormal
 ec
 exserted
 exothermic
