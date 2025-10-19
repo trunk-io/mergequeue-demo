@@ -250,6 +250,7 @@ abolish
 actinoids
 anthracemia
 anticreeper
+auriga
 agama
 alkalescence
 altarpiece
@@ -4281,7 +4282,6 @@ arteria
 alcuinian
 antitypes
 adulterine
-auriga
 adulterize
 atomiferous
 acastus
