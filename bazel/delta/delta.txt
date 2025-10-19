@@ -3216,6 +3216,7 @@ docked
 dropline
 dirty
 dekle
+distrouser
 declinograph
 dances
 defencive
@@ -11439,7 +11440,6 @@ deserted
 disciplinarily
 danism
 disciplinate
-distrouser
 disciplinatory
 dupondius
 drawhorse
