@@ -2109,6 +2109,7 @@ earphone
 epiloia
 extroversion
 equisignal
+electroharmonic
 erythemic
 emblem
 exopterygota
@@ -7850,7 +7851,6 @@ engl
 expectative
 elohimic
 erogenetic
-electroharmonic
 ecdysiast
 eightsman
 evangels
