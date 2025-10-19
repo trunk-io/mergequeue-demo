@@ -1716,7 +1716,6 @@ emenders
 emissitious
 extemporizing
 empaneling
-encephalophyma
 eurypterida
 expurgative
 explicatory
@@ -2672,6 +2671,7 @@ endow
 enzyme
 endosteomas
 ensanguined
+encephalophyma
 erucivorous
 ensiling
 euthytropic
