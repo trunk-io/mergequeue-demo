@@ -2574,7 +2574,6 @@ bicrons
 barghest
 bracketwise
 breechloader
-berascaled
 backlins
 berrugate
 bornean
@@ -18254,6 +18253,7 @@ bleinerite
 bugproof
 backstop
 bepainting
+berascaled
 batik
 beside
 bungmaker
