@@ -4055,7 +4055,6 @@ encallow
 ensilate
 eriglossate
 eurhythmics
-escalations
 electroimpulse
 emporial
 emphasizing
@@ -4205,6 +4204,7 @@ epimerize
 epimers
 exinanition
 erne
+escalations
 eluder
 ellfish
 electromedical
