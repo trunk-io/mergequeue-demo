@@ -13832,6 +13832,7 @@ anonymously
 assistive
 anophele
 anopheles
+amang
 anophelinae
 ambsaces
 atlantic
@@ -21545,7 +21546,6 @@ anguilloid
 aspy
 actinozoan
 acoine
-amang
 assummon
 antiparalytic
 aspics
