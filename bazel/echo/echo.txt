@@ -6562,7 +6562,6 @@ enscrolled
 epiphragm
 enterosepsis
 enterotoxemia
-evaluable
 ethion
 edulcoration
 enterotoxication
@@ -8514,6 +8513,7 @@ ethos
 emydes
 exprobratory
 empuzzle
+evaluable
 excommunicant
 englue
 ephorate
