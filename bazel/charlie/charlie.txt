@@ -4870,7 +4870,6 @@ cartmaking
 cartobibliography
 columbia
 catallum
-cartogram
 circulin
 cypseli
 cry
@@ -8367,6 +8366,7 @@ colonopathy
 chamberlainry
 chutneys
 clavicittern
+cartogram
 chronostichon
 chrysolophus
 crossworder
