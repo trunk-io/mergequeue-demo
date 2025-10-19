@@ -5937,7 +5937,6 @@ deconvolution
 diachoresis
 demeaning
 dimensible
-directrix
 distances
 dispraise
 deprecative
@@ -17089,6 +17088,7 @@ drierman
 drift
 dipnoid
 diazotization
+directrix
 dhoty
 deficient
 detachableness
