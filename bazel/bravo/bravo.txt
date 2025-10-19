@@ -4567,6 +4567,7 @@ blackthorn
 bonito
 bicetyl
 busywork
+berry
 boilingly
 boilerhouse
 bryanthus
@@ -6708,7 +6709,6 @@ burghermaster
 berret
 baleen
 baptizable
-berry
 bayamos
 bedscrew
 bacterian
