@@ -3041,7 +3041,6 @@ ectopatagia
 eccentricity
 etheriidae
 enmew
-eigenvalue
 elodeas
 epitome
 entrancing
@@ -8100,6 +8099,7 @@ epistena
 eyeberry
 entirety
 episternal
+eigenvalue
 endleaf
 embodies
 envois
