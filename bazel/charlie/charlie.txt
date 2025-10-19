@@ -944,6 +944,7 @@ convoluted
 caddle
 counterdistinct
 callipygian
+countervair
 calamine
 calamines
 colombina
@@ -2903,7 +2904,6 @@ cardamums
 covillea
 chare
 contradistinction
-countervair
 capriole
 concierges
 cryptocleidus
