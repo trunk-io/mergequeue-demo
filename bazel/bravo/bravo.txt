@@ -1868,7 +1868,6 @@ bastions
 brandishes
 beeway
 beworms
-bacillicidal
 baller
 bennets
 baneberry
@@ -6781,6 +6780,7 @@ ber
 beruffed
 brusqueness
 bilic
+bacillicidal
 bronc
 blotters
 bummaree
