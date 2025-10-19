@@ -2610,7 +2610,6 @@ barmcloth
 birdcage
 balthasar
 bullae
-bascules
 brigsail
 bales
 bubblingly
@@ -6998,6 +6997,7 @@ bloomy
 barway
 biconditional
 boustrophedon
+bascules
 beadledom
 belletrist
 besoot
