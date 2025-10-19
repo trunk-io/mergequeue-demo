@@ -6208,6 +6208,7 @@ braver
 bugbanes
 bodger
 barkey
+blowtorches
 beys
 bigheads
 bustles
@@ -11345,7 +11346,6 @@ bluest
 bloviate
 blowsier
 beworried
-blowtorches
 bossiness
 blowzy
 barylite
