@@ -10295,6 +10295,7 @@ burgonets
 blennorrhoea
 brainstorm
 boolean
+bulleting
 brushball
 biofeedback
 berries
@@ -13558,7 +13559,6 @@ bangalay
 bifrost
 bagroom
 blacksmiths
-bulleting
 bullhorn
 bubas
 becomes
