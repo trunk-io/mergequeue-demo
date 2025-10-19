@@ -4436,7 +4436,6 @@ blighters
 bomble
 besuit
 borborus
-behalves
 bloodstone
 bristlecone
 blacktop
@@ -6013,6 +6012,7 @@ beni
 behusband
 bends
 bedframes
+behalves
 begay
 biotitic
 balaneutics
