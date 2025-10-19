@@ -5003,7 +5003,6 @@ basion
 beflea
 blowfish
 bombable
-belching
 benzenyl
 bottomrying
 bunrakus
@@ -5031,6 +5030,7 @@ backtenter
 banco
 befools
 budworm
+belching
 before
 bradyauxetically
 basos
