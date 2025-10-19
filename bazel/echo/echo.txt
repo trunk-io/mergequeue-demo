@@ -2399,7 +2399,6 @@ externize
 enew
 escobilla
 electrogram
-endorsements
 engrainedly
 entente
 euphrosyne
@@ -12282,6 +12281,7 @@ elkesaite
 epigone
 enlimn
 exhumatory
+endorsements
 elflike
 encipherer
 educabilian
