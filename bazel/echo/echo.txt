@@ -6578,6 +6578,7 @@ enterosepsis
 enterotoxemia
 enhorror
 evaluable
+ethion
 edulcoration
 enterotoxication
 enlight
@@ -12398,7 +12399,6 @@ earthpeas
 epsomite
 embryophore
 ethylenes
-ethion
 exocoele
 exocoelic
 eulima
