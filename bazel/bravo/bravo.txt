@@ -833,7 +833,6 @@ bewrayers
 bedamning
 bobbysoxer
 baggager
-benign
 bandoleered
 bedsprings
 benzalcohol
@@ -978,6 +977,7 @@ bleedings
 brichen
 bp
 bluet
+benign
 bronchiocrisis
 brotherred
 barlows
