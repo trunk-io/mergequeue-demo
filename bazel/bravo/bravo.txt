@@ -3895,7 +3895,6 @@ branches
 bannerets
 blindball
 bathycolpian
-bibliographic
 benetnasch
 babbie
 beamman
@@ -14901,6 +14900,7 @@ blashy
 bridgemaster
 buckles
 biotical
+bibliographic
 brazilian
 billycock
 backwaters
