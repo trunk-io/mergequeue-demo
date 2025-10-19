@@ -2860,6 +2860,7 @@ blindeyes
 blobby
 blastogenic
 bedrivel
+betelgeuse
 barricaded
 beltian
 barricadoes
@@ -7137,7 +7138,6 @@ bennies
 bijous
 beagling
 bouquetin
-betelgeuse
 bannerwise
 boran
 boffins
