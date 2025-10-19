@@ -1225,6 +1225,7 @@ endogenae
 echelon
 extrasterile
 equips
+elasmobranch
 expressionist
 epithecium
 erythroxylaceae
@@ -10642,7 +10643,6 @@ entrenchments
 exceeding
 envenoming
 enantiomorphous
-elasmobranch
 ettirone
 erdvark
 epicotyleal
