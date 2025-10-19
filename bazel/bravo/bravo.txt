@@ -11839,6 +11839,7 @@ boards
 bailo
 bisquette
 buttes
+bouvardia
 bankrupt
 barriers
 besmile
@@ -13850,7 +13851,6 @@ bookcase
 besmudging
 bucrnia
 byrrus
-bouvardia
 buffers
 bannut
 bouw
