@@ -4552,7 +4552,6 @@ dominator
 decayed
 desilverized
 divulsor
-defence
 detax
 dullbrained
 decomposers
@@ -16820,6 +16819,7 @@ dighted
 dudler
 decelerations
 displaced
+defence
 dividers
 deuteride
 discoursing
