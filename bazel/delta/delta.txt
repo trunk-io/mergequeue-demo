@@ -4544,7 +4544,6 @@ diffusedness
 dislink
 deradelphus
 demibob
-demibuckram
 dysprosium
 dkl
 declassee
@@ -8546,6 +8545,7 @@ defoamers
 dived
 dotes
 dialysable
+demibuckram
 deecodder
 dorobo
 delignated
