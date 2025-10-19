@@ -10772,7 +10772,6 @@ barrelet
 barrators
 burial
 benzidin
-biotas
 bestill
 bowpots
 besaiel
@@ -17563,6 +17562,7 @@ belloot
 balut
 beddable
 burdenous
+biotas
 botanise
 butties
 bleep
