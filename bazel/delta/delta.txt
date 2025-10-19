@@ -4577,6 +4577,7 @@ disbeliefs
 deterred
 dispersoid
 dosimetric
+deprecated
 demifigure
 decentres
 doomage
@@ -5811,7 +5812,6 @@ dirties
 datiscetin
 delists
 draughts
-deprecated
 dialect
 diadrom
 demioctagonal
