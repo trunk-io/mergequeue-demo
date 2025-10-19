@@ -845,7 +845,6 @@ ewelease
 epicier
 easternism
 electrodissolution
-example
 ectrosyndactyly
 epotation
 enwinds
@@ -3305,6 +3304,7 @@ extrathoracic
 elymi
 electrovalent
 ectodactylism
+example
 externum
 exploration
 embarks
