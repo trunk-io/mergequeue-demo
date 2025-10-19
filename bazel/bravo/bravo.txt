@@ -7370,6 +7370,7 @@ burblers
 bodybuild
 bargeese
 beaconwise
+bowable
 bala
 belite
 bandlimiting
@@ -8770,7 +8771,6 @@ beastliness
 biotechnology
 begummed
 bumpered
-bowable
 bolar
 bondman
 binnogue
