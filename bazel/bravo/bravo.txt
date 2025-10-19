@@ -3096,6 +3096,7 @@ brightsomeness
 bravish
 blindness
 balaenicipites
+bandpass
 biprism
 blastoid
 beckoner
@@ -4572,7 +4573,6 @@ boettner
 boubas
 beekmantown
 baitfish
-bandpass
 braved
 bevel
 biddulphiaceae
