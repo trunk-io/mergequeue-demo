@@ -3335,7 +3335,6 @@ definitions
 documents
 dizygous
 definitise
-deprecated
 dilatant
 deliriate
 desisted
@@ -5810,6 +5809,7 @@ dirties
 datiscetin
 delists
 draughts
+deprecated
 dialect
 diadrom
 demioctagonal
