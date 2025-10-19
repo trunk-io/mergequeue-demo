@@ -4991,7 +4991,6 @@ endophragmal
 epicenity
 espada
 endlichite
-eructate
 excipulaceae
 enhedge
 endarterectomy
@@ -10828,6 +10827,7 @@ erased
 encardion
 edo
 encraal
+eructate
 elisor
 episodic
 enumerated
