@@ -9964,7 +9964,6 @@ cascado
 consumable
 colocasia
 catacombic
-chloropsia
 chiro
 chenopods
 choristoma
@@ -29326,6 +29325,7 @@ collarets
 coracopectoral
 cryptoheretic
 cardiemphraxia
+chloropsia
 cryptolith
 callas
 consubstantiality
