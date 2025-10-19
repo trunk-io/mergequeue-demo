@@ -1642,7 +1642,6 @@ echites
 epitaxis
 endomorph
 extemporize
-embankments
 estall
 egrid
 epitrochoid
@@ -6139,6 +6138,7 @@ evenhand
 excepter
 exception
 enrapts
+embankments
 ethynyl
 endophyllaceae
 exulate
