@@ -5400,7 +5400,6 @@ amazona
 archetypal
 aplacophora
 androtauric
-amomum
 amatorian
 aphidians
 atavism
@@ -11275,6 +11274,7 @@ antequalm
 afforesting
 ango
 autocephaly
+amomum
 appenders
 alestake
 allthing
