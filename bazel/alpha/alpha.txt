@@ -4372,6 +4372,7 @@ ancillas
 atelopodia
 annullable
 allmouths
+antibacteriolytic
 abrotin
 adventurous
 adventurousness
@@ -14715,7 +14716,6 @@ amygdalaceous
 akemboll
 arachnidium
 armholes
-antibacteriolytic
 attaches
 antiautolysin
 antiballooner
