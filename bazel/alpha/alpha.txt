@@ -12572,7 +12572,6 @@ apatosaurus
 aggregatae
 apronstring
 abkar
-anthribid
 actinotrocha
 archidiaconal
 aidable
@@ -15037,6 +15036,7 @@ asthenic
 antidactyl
 apache
 astoundment
+anthribid
 armstrong
 androids
 auroras
