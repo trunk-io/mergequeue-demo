@@ -7918,7 +7918,6 @@ everwho
 ealdormen
 expulsing
 ethnogeographer
-epigrammatizer
 endome
 enology
 ehlite
@@ -8045,6 +8044,7 @@ enfollow
 evelong
 estadio
 excorticate
+epigrammatizer
 exulting
 escalops
 emeries
