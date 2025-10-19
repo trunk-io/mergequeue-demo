@@ -1732,7 +1732,6 @@ banak
 banal
 bransle
 bananivorous
-benignant
 becharm
 bancha
 bordered
@@ -9900,6 +9899,7 @@ bisulfate
 berth
 binocular
 bromatology
+benignant
 bitable
 bohemia
 brunch
