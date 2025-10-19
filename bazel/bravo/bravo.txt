@@ -1980,6 +1980,7 @@ bankcard
 backhandedness
 bethought
 bejewelled
+bicursal
 banknote
 bromes
 bristly
@@ -10978,7 +10979,6 @@ bootyless
 balancewise
 barretors
 blowhards
-bicursal
 benzotoluide
 blustered
 birdsong
