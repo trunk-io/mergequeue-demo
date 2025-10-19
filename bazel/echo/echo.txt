@@ -2939,7 +2939,6 @@ evolutionistic
 eyeliners
 experimentator
 enjoy
-exclude
 etwite
 eventuations
 extrapolative
@@ -5285,6 +5284,7 @@ esthesioblast
 emarginate
 evangelising
 extradotal
+exclude
 emesidae
 eczema
 elfwort
