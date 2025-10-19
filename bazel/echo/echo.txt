@@ -3311,7 +3311,6 @@ ep
 euryalae
 exteroceptor
 exampling
-equilibrium
 embrake
 endolysin
 epimerised
@@ -10584,6 +10583,7 @@ expiry
 equitangential
 euphonious
 euspongia
+equilibrium
 englify
 epithyme
 enchodontidae
