@@ -969,7 +969,6 @@ embulk
 eringos
 embankment
 eponymy
-endocarditis
 excitonutrient
 enantiotropic
 euphemism
@@ -4177,6 +4176,7 @@ enactor
 encomia
 entame
 embrued
+endocarditis
 endarterial
 epimerize
 epimers
