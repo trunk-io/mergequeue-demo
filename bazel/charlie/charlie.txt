@@ -15407,7 +15407,6 @@ chaldaic
 cassiri
 chloropia
 clannishness
-clansfolk
 cheki
 churchgrith
 clitelliferous
@@ -22668,6 +22667,7 @@ conjuration
 carbolineum
 conjured
 compromised
+clansfolk
 canel
 championlike
 conjures
