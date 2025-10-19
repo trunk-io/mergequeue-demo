@@ -7851,7 +7851,6 @@ catadrome
 castaway
 cessor
 cesspipe
-cesspits
 contrastment
 cesspools
 cineraceous
@@ -31847,6 +31846,7 @@ cloggy
 carvacryl
 cammas
 cushitic
+cesspits
 chaffered
 childed
 cataloging
