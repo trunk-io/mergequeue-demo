@@ -12168,7 +12168,6 @@ benightedly
 banefully
 botch
 begob
-boldfaced
 boldhearted
 beclip
 beg
@@ -17074,6 +17073,7 @@ bayman
 blackacre
 biotechnologies
 binoxide
+boldfaced
 blephara
 bulkheading
 bergy
