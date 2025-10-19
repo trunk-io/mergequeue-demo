@@ -7833,7 +7833,6 @@ cessor
 cesspipe
 cesspit
 cesspits
-carey
 contrastment
 cesspools
 cineraceous
@@ -29292,6 +29291,7 @@ choisya
 cryptodouble
 cryptogam
 cockadoodledoo
+carey
 campanula
 carbazin
 collock
