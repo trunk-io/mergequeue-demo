@@ -2299,6 +2299,7 @@ barbwire
 barbwires
 bullpout
 buffed
+blackcoat
 blip
 belabors
 barcoo
@@ -8358,7 +8359,6 @@ bromite
 bedirter
 bailpiece
 becry
-blackcoat
 bloodworm
 buccinator
 bestubble
