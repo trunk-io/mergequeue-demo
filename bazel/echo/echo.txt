@@ -5088,7 +5088,6 @@ ersar
 epipolic
 endocrinic
 ergs
-electropoion
 ecdysones
 ependytes
 extrudability
@@ -9920,6 +9919,7 @@ escapism
 epidiorite
 evangeliary
 escobita
+electropoion
 ethenol
 ebb
 erythrosin
