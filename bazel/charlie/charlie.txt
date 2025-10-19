@@ -20,7 +20,6 @@ corkmaking
 catkin
 colporrhaphy
 cabaletta
-cestas
 clivis
 cardplaying
 chertiest
@@ -24739,6 +24738,7 @@ constructionism
 copperheadism
 commentary
 christie
+cestas
 copperize
 colter
 copens
