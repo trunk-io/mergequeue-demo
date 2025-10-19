@@ -7478,7 +7478,6 @@ candlewaster
 cavalieres
 countersale
 ceratostomella
-ceratotheca
 chondrocostal
 controllably
 clergyman
@@ -13160,6 +13159,7 @@ cloudlessness
 chiaroscuro
 clon
 ciceronianisms
+ceratotheca
 compellability
 colluviums
 clavellate
