@@ -7800,7 +7800,6 @@ cruisers
 calcinable
 chinned
 cesious
-cesium
 cesiums
 cespititious
 cacothesis
@@ -28429,6 +28428,7 @@ creamerymen
 creamiest
 campylodrome
 cortical
+cesium
 colourific
 creaming
 caponization
