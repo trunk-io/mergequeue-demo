@@ -103,6 +103,7 @@ apiocrinite
 animism
 awm
 apsis
+airglow
 adamantine
 atlee
 antibiotic
@@ -6750,7 +6751,6 @@ aminopyrine
 allose
 anoraks
 anodynes
-airglow
 arteriopathy
 apterygidae
 autisms
