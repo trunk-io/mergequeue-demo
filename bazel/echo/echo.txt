@@ -2979,6 +2979,7 @@ escarped
 empressement
 ectoplastic
 eyeshade
+eructation
 electroballistic
 encyclical
 eyestalk
@@ -10139,7 +10140,6 @@ extras
 edibles
 exasperated
 elaterids
-eructation
 ecclesiasticize
 eclecticist
 evonymuses
