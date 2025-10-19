@@ -11210,6 +11210,7 @@ achievement
 anoplura
 amatorious
 antispace
+armband
 alantol
 ailantine
 animotheism
@@ -19949,7 +19950,6 @@ auxilium
 archerfish
 adnexed
 armatures
-armband
 anargyroi
 albation
 ammines
