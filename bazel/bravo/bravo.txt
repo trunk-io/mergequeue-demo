@@ -4994,7 +4994,6 @@ bentwood
 beflannel
 bureaucrat
 buceros
-basion
 beflea
 blowfish
 basicranial
@@ -14401,6 +14400,7 @@ brahmin
 boxkeeper
 bagnet
 banging
+basion
 barricading
 begat
 benadryl
