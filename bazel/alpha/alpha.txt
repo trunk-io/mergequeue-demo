@@ -6460,6 +6460,7 @@ aids
 arithmancy
 afterripening
 arbalestre
+azygomatous
 apocarpous
 aiel
 aias
@@ -21623,7 +21624,6 @@ ananym
 abashedness
 asprout
 aforesaid
-azygomatous
 adenemphraxis
 asramas
 aquincubitalism
