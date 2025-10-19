@@ -1350,6 +1350,7 @@ bbl
 boracic
 bredi
 behither
+bombardelle
 befire
 blastular
 baled
@@ -12421,7 +12422,6 @@ battute
 battlefront
 blears
 bombora
-bombardelle
 beguilers
 barratries
 bonifaces
