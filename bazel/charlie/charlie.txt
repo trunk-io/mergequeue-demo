@@ -26703,7 +26703,6 @@ chessart
 chanfrons
 compilation
 carbonadoed
-compatibly
 crosshairs
 cestracion
 chilognatha
@@ -31258,6 +31257,7 @@ curbstone
 curcas
 cardiophobia
 curch
+compatibly
 criterium
 cacogastric
 curculionidae
