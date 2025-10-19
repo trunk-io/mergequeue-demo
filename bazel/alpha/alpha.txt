@@ -10779,7 +10779,6 @@ anagrammatised
 amlet
 amlong
 amoralism
-annalist
 anticapitalist
 apothecary
 aportoise
@@ -14574,6 +14573,7 @@ axialities
 amphicrania
 atheromata
 arthrodic
+annalist
 atlantomastoid
 abuseful
 anthropopathy
