@@ -7456,6 +7456,7 @@ discounting
 demilunes
 deselect
 discount
+dorsi
 decenyl
 deresinate
 deducible
@@ -15818,7 +15819,6 @@ detrusor
 dorsalgia
 doxantha
 dreparnaudia
-dorsi
 dorsibranchiata
 distinctor
 didymitis
