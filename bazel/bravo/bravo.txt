@@ -10493,7 +10493,6 @@ brimborium
 blottier
 bastion
 boatlike
-blarneys
 barber
 backpacks
 bedung
@@ -17768,6 +17767,7 @@ bliny
 bleaker
 beckons
 balminess
+blarneys
 babism
 baggyrinkle
 blaubok
