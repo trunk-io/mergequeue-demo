@@ -6794,7 +6794,6 @@ corvoid
 cellblock
 celled
 concentrativeness
-cellepore
 cotterel
 cellfalcicula
 celliform
@@ -23997,6 +23996,7 @@ cleidorrhexis
 crewelist
 clawer
 chromophyl
+cellepore
 chics
 choosier
 convective
