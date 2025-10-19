@@ -1744,7 +1744,6 @@ brushable
 bialystoker
 befrill
 bowlin
-beaverpelt
 bankruptlike
 bowdlerize
 bundled
@@ -12336,6 +12335,7 @@ boskets
 boterol
 boltspreet
 bombasticness
+beaverpelt
 baluchitheria
 blackgums
 beray
