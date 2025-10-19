@@ -7262,6 +7262,7 @@ detaching
 demography
 diemaking
 dotting
+doppelkummel
 disbogue
 detaches
 dasypeltis
@@ -18301,7 +18302,6 @@ duffle
 danaan
 densimeter
 dropforger
-doppelkummel
 disobstruct
 dunpickle
 duenna
