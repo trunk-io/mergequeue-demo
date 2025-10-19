@@ -232,7 +232,6 @@ ellachick
 enthusiast
 enbaissing
 emissaries
-enfile
 enwreathed
 equaeval
 enclitic
@@ -7167,6 +7166,7 @@ etherealize
 evanesced
 eimeria
 ecartes
+enfile
 ejuration
 encushion
 epagomenae
