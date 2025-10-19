@@ -5789,6 +5789,7 @@ babi
 backboard
 blitzkrieg
 blennophobia
+bluing
 basque
 berber
 beebread
@@ -10667,7 +10668,6 @@ bajulate
 bridgeheads
 brahmanhood
 bicepses
-bluing
 belemnite
 balked
 biodynamics
