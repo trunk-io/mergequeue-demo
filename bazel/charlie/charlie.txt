@@ -4394,7 +4394,6 @@ counteropening
 combing
 ceriphs
 carmine
-crafting
 courie
 comales
 corollifloral
@@ -10957,6 +10956,7 @@ cachexy
 cantabrian
 coastwaiter
 cymblings
+crafting
 conidae
 chirographers
 crl
