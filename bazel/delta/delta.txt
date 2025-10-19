@@ -3155,7 +3155,6 @@ dinosaurs
 defect
 degusting
 detin
-decelerometer
 dezincified
 disbelieved
 dissimulative
@@ -11761,6 +11760,7 @@ ditto
 dodoes
 delegant
 dikaryophytic
+decelerometer
 diffluence
 dyspeptic
 discradle
