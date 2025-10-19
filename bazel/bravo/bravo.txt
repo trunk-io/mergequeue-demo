@@ -11917,7 +11917,6 @@ bench
 bigness
 bortzes
 bagwomen
-battleplane
 belinuridae
 bodysurfer
 bouillons
@@ -17213,6 +17212,7 @@ bullpoll
 brainwashers
 bemirror
 brontoscopy
+battleplane
 ballon
 bilin
 bothridiums
