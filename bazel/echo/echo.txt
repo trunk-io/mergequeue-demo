@@ -11922,7 +11922,6 @@ ebonite
 embowing
 eg
 enterobiasis
-extratympanic
 equilibrates
 epicnemial
 emulate
@@ -12100,6 +12099,7 @@ exodermal
 enflames
 erythrocytoschisis
 exturb
+extratympanic
 emcee
 enveil
 eryhtrism
