@@ -1965,6 +1965,7 @@ bridegod
 bloodstones
 birded
 braccio
+bequeathment
 bankcard
 backhandedness
 bethought
@@ -8435,7 +8436,6 @@ begall
 bullyable
 bidry
 bibliotheke
-bequeathment
 brigadiership
 bunging
 balsameaceae
