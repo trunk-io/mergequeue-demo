@@ -2821,6 +2821,7 @@ bandit
 borboridae
 blossoms
 barrater
+bananaquit
 becrawls
 beggiatoaceae
 blemmyes
@@ -3944,7 +3945,6 @@ bloomerism
 baroclinicity
 baguet
 brokerages
-bananaquit
 bonilass
 berrettas
 blackfishes
