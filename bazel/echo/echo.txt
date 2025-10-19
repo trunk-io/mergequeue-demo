@@ -2911,7 +2911,6 @@ elbowroom
 exarchist
 ebcasc
 equiangle
-eviscerate
 errantia
 elisha
 epicolic
@@ -9404,6 +9403,7 @@ electroviscous
 endosepsis
 eggy
 exacted
+eviscerate
 electrophoridae
 evacuees
 eurygaea
