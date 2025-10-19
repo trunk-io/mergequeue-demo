@@ -4206,6 +4206,7 @@ carfares
 caterers
 cassie
 cations
+cuproid
 coater
 centralia
 carfuffle
@@ -31497,7 +31498,6 @@ corticate
 charadriidae
 cadastres
 cancellations
-cuproid
 cognominally
 cursorily
 cursoriness
