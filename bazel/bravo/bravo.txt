@@ -4113,6 +4113,7 @@ brickset
 bebloods
 bucked
 basurale
+balearica
 blessing
 bonewort
 baroscope
@@ -10390,7 +10391,6 @@ billot
 boschveld
 brainlessness
 bedsteads
-balearica
 bamboozlers
 boil
 bristling
