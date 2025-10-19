@@ -2407,6 +2407,7 @@ basis
 binotic
 burnings
 bigram
+botryomycoma
 bottom
 baragouin
 bonducs
@@ -9724,7 +9725,6 @@ birthrates
 bowstrings
 borate
 barbascos
-botryomycoma
 buggeries
 backwrap
 bisync
