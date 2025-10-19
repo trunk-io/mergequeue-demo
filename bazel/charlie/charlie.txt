@@ -10133,6 +10133,7 @@ cheval
 centeredness
 codamin
 combinatorially
+condensing
 checking
 cystencyte
 chevaliers
@@ -11548,7 +11549,6 @@ chold
 choleate
 crotchets
 cholecystectomy
-condensing
 cingulum
 coraciiform
 captacula
