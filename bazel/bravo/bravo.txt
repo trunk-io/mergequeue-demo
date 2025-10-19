@@ -7972,7 +7972,6 @@ bewray
 basihyoid
 biconcave
 breenge
-biconnected
 bloodthirstiest
 brutes
 bastonite
@@ -10709,6 +10708,7 @@ bosque
 bergall
 bleakness
 broussonetia
+biconnected
 browd
 biuret
 bewash
