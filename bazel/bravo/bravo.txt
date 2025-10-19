@@ -3393,6 +3393,7 @@ bps
 byroads
 bals
 bonagh
+becater
 backworm
 bemeet
 backhaul
@@ -4041,7 +4042,6 @@ bedrabbling
 beachier
 buccaneer
 belder
-becater
 beigel
 buoyages
 bovinities
