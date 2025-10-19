@@ -5763,6 +5763,7 @@ electrolyzation
 enforces
 eccl
 enfeeblish
+exactness
 electrotechnician
 epicarpal
 egritude
@@ -11407,7 +11408,6 @@ evangeline
 epitomical
 epigenetic
 eleusinian
-exactness
 exactors
 equimomental
 evaluations
