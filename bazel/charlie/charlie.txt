@@ -2125,7 +2125,6 @@ campi
 celeriac
 campy
 camels
-ceramicite
 campier
 campignian
 cruciate
@@ -9945,6 +9944,7 @@ controls
 carices
 chemotherapeutical
 chemotherapeutically
+ceramicite
 casse
 clericality
 compossibility
