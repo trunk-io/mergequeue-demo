@@ -5252,7 +5252,6 @@ bandless
 bazaar
 button
 balanoblennorrhea
-bivium
 bolk
 batboys
 begrimer
@@ -12861,6 +12860,7 @@ batcher
 betalk
 borofluorin
 boloing
+bivium
 bullfrogs
 bolters
 bokom
