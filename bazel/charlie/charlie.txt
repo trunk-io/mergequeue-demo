@@ -22205,7 +22205,6 @@ conformations
 chrysis
 canoe
 contrair
-conformator
 conformed
 chorten
 clinged
@@ -31943,6 +31942,7 @@ czarina
 cinnamonic
 capturers
 creaturely
+conformator
 churchlike
 cariama
 czarish
