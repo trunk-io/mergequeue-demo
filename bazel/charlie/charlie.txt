@@ -3269,7 +3269,6 @@ choicest
 chronographically
 celsius
 cuchan
-carrots
 capote
 cellarous
 crypted
@@ -11174,6 +11173,7 @@ chloragogue
 chloral
 chloralformamide
 chemiluminescence
+carrots
 congeals
 cupelling
 comburimeter
