@@ -212,6 +212,7 @@ begripe
 bandy
 bipartition
 brython
+bogeyed
 bandido
 bitt
 bubble
@@ -476,7 +477,6 @@ backsite
 breadboard
 brumalia
 ballate
-bogeyed
 blaeberries
 bizant
 begod
