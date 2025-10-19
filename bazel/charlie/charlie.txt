@@ -18515,6 +18515,7 @@ centrosymmetrical
 crosslet
 corebel
 cajou
+caryopses
 camerate
 carriageway
 coheirs
@@ -31790,7 +31791,6 @@ cabal
 concavely
 coons
 cypriotes
-caryopses
 celom
 cumshaws
 cutcherry
