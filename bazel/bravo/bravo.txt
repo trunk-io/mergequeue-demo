@@ -724,7 +724,6 @@ buddhism
 buzzard
 backspacefile
 bow
-bobtails
 banksman
 badiaga
 brandsolder
@@ -7272,6 +7271,7 @@ buyback
 bernie
 boatels
 bootstrap
+bobtails
 bethink
 balaenoptera
 bocklogged
