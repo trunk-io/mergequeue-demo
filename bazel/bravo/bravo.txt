@@ -3460,7 +3460,6 @@ bromellite
 bathkol
 bullfice
 bathmat
-boomed
 background
 bicipital
 begins
@@ -3741,6 +3740,7 @@ bugsha
 breakwind
 bepretty
 botchily
+boomed
 brierroot
 braggadocio
 bawra
