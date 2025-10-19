@@ -14162,7 +14162,6 @@ archegonium
 arborization
 altazimuth
 adjunctive
-adambulacral
 airplaned
 abditive
 ahungry
@@ -16738,6 +16737,7 @@ aphemia
 ambidextrous
 anhalouidine
 aphengoscope
+adambulacral
 aphenoscope
 apheresis
 afoul
