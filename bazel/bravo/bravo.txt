@@ -3881,7 +3881,6 @@ beaks
 byously
 biographist
 berri
-brutify
 berloque
 banditti
 bubonic
@@ -4461,6 +4460,7 @@ bhoosa
 bilker
 bedazzlingly
 beckon
+brutify
 boyardom
 burse
 biggishness
