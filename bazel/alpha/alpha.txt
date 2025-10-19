@@ -10793,6 +10793,7 @@ arkwright
 ammo
 arthropod
 ammocoetes
+anviling
 agglutinated
 acephalocyst
 albumoses
@@ -14881,7 +14882,6 @@ according
 avers
 ahmadi
 allwork
-anviling
 anglicanisms
 antichamber
 andvari
