@@ -7616,7 +7616,6 @@ extrusory
 exciton
 ectocrine
 espece
-exinanite
 expediter
 epicuticle
 estrus
@@ -9424,6 +9423,7 @@ essences
 encephalometer
 evangelistically
 exhalations
+exinanite
 esurience
 eventless
 eudiometer
