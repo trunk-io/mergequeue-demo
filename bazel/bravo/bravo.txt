@@ -5747,6 +5747,7 @@ blackman
 benedicks
 bellweed
 bretons
+bescribble
 biaxillary
 basella
 babs
@@ -13140,7 +13141,6 @@ balling
 barf
 blizzard
 bored
-bescribble
 bulbule
 businessese
 borel
