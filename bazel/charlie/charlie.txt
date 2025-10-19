@@ -3491,7 +3491,6 @@ checkle
 carrack
 chrisoms
 carabidan
-carabidoid
 clavecinist
 chromophotographic
 cobnuts
@@ -18905,6 +18904,7 @@ colicines
 colicins
 corvisor
 cytogene
+carabidoid
 carriages
 cranial
 cervelliere
