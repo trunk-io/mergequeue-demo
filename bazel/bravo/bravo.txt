@@ -2812,6 +2812,7 @@ bandit
 blossoms
 barrater
 bananaquit
+bacillar
 becrawls
 beggiatoaceae
 blemmyes
@@ -5871,7 +5872,6 @@ bemangle
 bemar
 bevaring
 bulletheaded
-bacillar
 buaze
 bossier
 brewis
