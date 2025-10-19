@@ -14710,7 +14710,6 @@ coquelicot
 cystoplegia
 cystopteris
 cricetids
-cromlechs
 cystoptosis
 cravers
 cystoradiography
@@ -27835,6 +27834,7 @@ coquitos
 chondrogeny
 coxite
 capouches
+cromlechs
 coxitis
 containerboard
 compressure
