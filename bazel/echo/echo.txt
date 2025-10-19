@@ -5925,7 +5925,6 @@ eureka
 enzymosis
 encumbrancer
 exsiccator
-excluders
 eulachan
 ellipsis
 exotic
@@ -8404,6 +8403,7 @@ escarmouche
 electrophotometry
 epileptoid
 ergatandrous
+excluders
 endangers
 encampments
 excitonic
