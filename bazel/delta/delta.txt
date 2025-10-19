@@ -1477,7 +1477,6 @@ deathbeds
 dynastes
 demonographer
 delphinoidea
-donors
 dismal
 defrays
 dropseed
@@ -15587,6 +15586,7 @@ deputed
 doubt
 depeople
 divelled
+donors
 donzels
 debriding
 doob
