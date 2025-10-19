@@ -7762,7 +7762,6 @@ cervicobuccal
 cervicodynia
 crooks
 cervicofacial
-cervicolabial
 crayonstone
 cornered
 cautiones
@@ -10937,6 +10936,7 @@ chirography
 cenogenesis
 chevronel
 chitinogenous
+cervicolabial
 caulome
 chirographical
 chirolas
