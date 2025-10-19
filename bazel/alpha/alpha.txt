@@ -4516,6 +4516,7 @@ anastomotic
 aecioteliospore
 aphodus
 aedeagi
+armory
 aediculae
 anaesthesiologist
 augurer
@@ -5450,7 +5451,6 @@ annotators
 afterturn
 aburagiri
 antilogistic
-armory
 autophoby
 autopsying
 archiater
