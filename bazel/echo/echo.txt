@@ -1175,7 +1175,6 @@ endocardiac
 eparcuale
 esthetics
 exopeptidase
-exhume
 effective
 exec
 exhilaratory
@@ -9496,6 +9495,7 @@ ensearch
 esp
 expulsion
 ethanethial
+exhume
 explainable
 efficiency
 excursion
