@@ -3606,7 +3606,6 @@ endosporia
 echiuroidea
 exanthematous
 eriophyes
-extendible
 ensepulchre
 ennuyee
 etuvee
@@ -7814,6 +7813,7 @@ echinital
 equiliria
 emitter
 experiment
+extendible
 earthnuts
 epicanthus
 exophagous
