@@ -5670,6 +5670,7 @@ elpasolite
 eugeosynclinal
 enteroscope
 empoisons
+excitants
 educabilia
 eupyrchroite
 exhalant
@@ -7291,7 +7292,6 @@ epiblasts
 elaeodochon
 eyres
 epencephala
-excitants
 echidnae
 emprise
 elatcha
