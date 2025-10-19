@@ -10519,7 +10519,6 @@ bemaster
 bopyrid
 blaster
 beet
-bejade
 blasting
 blastocele
 bithynian
@@ -17202,6 +17201,7 @@ blanketing
 brambling
 barkstone
 buttery
+bejade
 beduins
 biform
 bullpoll
