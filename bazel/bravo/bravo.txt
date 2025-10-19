@@ -12805,7 +12805,6 @@ bellweather
 belton
 bloody
 banderilleros
-betoyan
 bandmaster
 bakutu
 bostrychid
@@ -13075,6 +13074,7 @@ bority
 beleaguer
 bullwhack
 barbarously
+betoyan
 bombarde
 bibles
 bummerish
