@@ -4731,7 +4731,6 @@ avoset
 antecedents
 autoinduction
 anaphrodisia
-aplanospore
 aerodermectasia
 anxious
 aerodynamical
@@ -15803,6 +15802,7 @@ antipatriarchy
 antipatriot
 ampasimenite
 adenogenous
+aplanospore
 amphipoda
 antimechanization
 auntish
