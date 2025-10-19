@@ -7340,7 +7340,6 @@ carsick
 crusher
 camoca
 clavichord
-coffeecup
 calisthenics
 cephalopodous
 corporatist
@@ -30345,6 +30344,7 @@ canonicalizing
 catalog
 cannulating
 coresidual
+coffeecup
 collectivistic
 canaba
 calmierer
