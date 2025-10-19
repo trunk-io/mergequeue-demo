@@ -121,7 +121,6 @@ adopts
 aflatus
 abatage
 abate
-abated
 aldopentose
 autoregulatory
 abating
@@ -6513,6 +6512,7 @@ aralkylated
 adenomeningeal
 atoned
 ascertainment
+abated
 attendees
 aymaran
 astatizer
