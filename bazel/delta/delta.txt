@@ -4403,6 +4403,7 @@ dandically
 domineers
 doublehandedly
 dismisses
+depleteable
 distrainee
 desmoma
 dhauri
@@ -5771,7 +5772,6 @@ doeuvre
 decisteres
 diazotype
 dowcet
-depleteable
 ducape
 daftlike
 delineable
