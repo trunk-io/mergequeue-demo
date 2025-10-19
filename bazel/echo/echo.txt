@@ -5719,7 +5719,6 @@ entete
 endogonidium
 ensisternum
 embreach
-ephemeric
 equus
 epistomian
 embrittle
@@ -12665,6 +12664,7 @@ edger
 expositor
 empyesis
 evaporometer
+ephemeric
 editorships
 evangelicity
 edgeways
