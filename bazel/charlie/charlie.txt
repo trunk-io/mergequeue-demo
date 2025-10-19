@@ -2127,7 +2127,6 @@ camponotus
 counterhammering
 campos
 clockroom
-colposcope
 campsite
 conidial
 campsites
@@ -19975,6 +19974,7 @@ cabots
 comitatensian
 collectives
 clayish
+colposcope
 comity
 chiastoneury
 comitia
