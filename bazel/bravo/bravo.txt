@@ -585,6 +585,7 @@ birdie
 bowfins
 blazonment
 baconize
+bidiagonal
 bedsore
 basipterygial
 baconweed
@@ -5142,7 +5143,6 @@ boatloader
 backswordsman
 bughouses
 beggarhood
-bidiagonal
 befurred
 boarhound
 blackstrap
