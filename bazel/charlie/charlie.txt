@@ -4964,7 +4964,6 @@ casave
 chromopsia
 casavi
 coestate
-chemoprophylaxis
 carvene
 cascable
 cascade
@@ -30153,6 +30152,7 @@ clary
 courge
 copperproof
 crucian
+chemoprophylaxis
 chokidar
 crucians
 cruciately
