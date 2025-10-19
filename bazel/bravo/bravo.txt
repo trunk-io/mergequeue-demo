@@ -10526,6 +10526,7 @@ brickfielder
 baroque
 backsword
 brahminee
+beamlet
 blastocoele
 boiko
 bioscientist
@@ -16274,7 +16275,6 @@ birdlore
 browniest
 baroto
 baht
-beamlet
 bisognio
 bottomland
 bescurvy
