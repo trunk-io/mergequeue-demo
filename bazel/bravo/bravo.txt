@@ -4983,7 +4983,6 @@ binits
 basilicon
 beflagged
 benzalacetone
-bacteriopurpurin
 bronchoplegia
 beflagging
 babery
@@ -16656,6 +16655,7 @@ boled
 bosker
 beanpole
 bonism
+bacteriopurpurin
 bruskest
 berchemia
 bradypus
