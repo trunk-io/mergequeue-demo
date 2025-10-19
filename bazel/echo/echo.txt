@@ -2337,7 +2337,6 @@ etymologised
 electrotelethermometer
 eustace
 exterminist
-exsecant
 escritoire
 erses
 enstool
@@ -7817,6 +7816,7 @@ exordia
 epimandibular
 equational
 epiglottidean
+exsecant
 endotheliomas
 ethopoeia
 enthrone
