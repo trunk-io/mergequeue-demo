@@ -2051,6 +2051,7 @@ encinillo
 eleusine
 externat
 emperish
+ensampler
 electroblasting
 eugranitic
 emporiria
@@ -9691,7 +9692,6 @@ eyalet
 explicanda
 enamelware
 evolvulus
-ensampler
 ebbman
 equiomnipotent
 extensity
