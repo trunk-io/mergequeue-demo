@@ -476,6 +476,7 @@ backsite
 breadboard
 brumalia
 ballate
+banderoled
 blaeberries
 bizant
 begod
@@ -732,7 +733,6 @@ bow
 banksman
 badiaga
 brandsolder
-banderoled
 boiler
 boneshaw
 bowlegged
