@@ -6678,6 +6678,7 @@ anmia
 askewness
 antibias
 aoife
+alkalinity
 axometer
 arid
 agrimotor
@@ -15812,7 +15813,6 @@ azymite
 aspiculous
 antimellin
 antidynamic
-alkalinity
 antiphilosophies
 anticonformities
 antiphona
