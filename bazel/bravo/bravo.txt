@@ -3510,7 +3510,6 @@ brantle
 breadman
 byrlakin
 bloodflower
-boots
 beastly
 bandana
 blobbier
@@ -10477,6 +10476,7 @@ bhoot
 bitmapped
 brisement
 bookings
+boots
 bougainvillaea
 broodling
 baidya
