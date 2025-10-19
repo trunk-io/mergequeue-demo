@@ -334,7 +334,6 @@ egoists
 endopleuritic
 estive
 epexegesis
-endocardium
 eriphyle
 explosion
 eviration
@@ -1967,6 +1966,7 @@ enterocinesia
 epithecicia
 extravasation
 enmeshment
+endocardium
 earthworm
 elaphurus
 ethologically
