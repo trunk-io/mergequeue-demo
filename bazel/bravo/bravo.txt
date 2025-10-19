@@ -5953,7 +5953,6 @@ bunkerage
 bedrift
 borana
 buccinidae
-binauricular
 butomaceous
 barragon
 bamoth
@@ -15999,6 +15998,7 @@ blub
 bayish
 blackwater
 bearding
+binauricular
 bullheaded
 bethrall
 bronchoblennorrhea
