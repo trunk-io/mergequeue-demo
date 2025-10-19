@@ -9682,7 +9682,6 @@ chevre
 convocate
 cottars
 cheetul
-casse
 cheezit
 chef
 chefs
@@ -9921,6 +9920,7 @@ controls
 carices
 chemotherapeutical
 chemotherapeutically
+casse
 clericality
 compossibility
 campanulales
