@@ -10669,6 +10669,7 @@ bouto
 beakier
 bonace
 boteroll
+bonism
 ballfield
 birettas
 battleground
@@ -16654,7 +16655,6 @@ boled
 bosker
 beanpole
 bison
-bonism
 bacteriopurpurin
 bruskest
 berchemia
