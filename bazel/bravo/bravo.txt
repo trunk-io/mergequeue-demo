@@ -2639,7 +2639,6 @@ bosser
 boomtowns
 barnstormer
 bannack
-brutalisation
 bounced
 bonnyclabber
 buoyantly
@@ -15692,6 +15691,7 @@ boh
 bluster
 barabbas
 bewildered
+brutalisation
 baggily
 bedog
 being
