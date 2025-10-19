@@ -7954,7 +7954,6 @@ chiasmatype
 crystalliform
 clottedness
 conquians
-crannog
 chromosphere
 clergies
 coordinating
@@ -13435,6 +13434,7 @@ cydonium
 cierge
 cierzo
 courb
+crannog
 calamistral
 cif
 countergage
