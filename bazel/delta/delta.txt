@@ -4255,6 +4255,7 @@ dandified
 dermoreaction
 dretch
 demarcate
+deselected
 dibbers
 doorjamb
 dragboat
@@ -6684,7 +6685,6 @@ drapery
 demodulate
 decipherable
 diipenates
-deselected
 diplopic
 deadborn
 decipherability
