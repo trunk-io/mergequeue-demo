@@ -13077,6 +13077,7 @@ drawers
 deathlike
 dispatched
 drubber
+dosseret
 deciduoma
 discocarpium
 daulias
@@ -15924,7 +15925,6 @@ dorsabdominal
 decapodiform
 dosser
 demisovereign
-dosseret
 diluvions
 dosses
 davit
