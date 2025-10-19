@@ -3606,7 +3606,6 @@ bylining
 battlestead
 battlewagon
 barkbound
-bendays
 barvell
 bibliothque
 barranca
@@ -13214,6 +13213,7 @@ biseriate
 blowproof
 bonnetiere
 borracha
+bendays
 bestowals
 borrasca
 b
