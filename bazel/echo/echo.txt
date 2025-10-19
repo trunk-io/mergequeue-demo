@@ -1950,7 +1950,6 @@ ellagate
 explosimeter
 edificant
 elanet
-endurable
 enantiopathia
 entomotaxy
 extravenate
@@ -7874,6 +7873,7 @@ enzymes
 echelle
 energumenon
 evocatrix
+endurable
 extraverted
 exundation
 ernestine
