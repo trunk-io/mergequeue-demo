@@ -6932,6 +6932,7 @@ bigoniac
 barricades
 boldos
 bestiarist
+bunkhouse
 bole
 bacteritic
 brasseys
@@ -12056,7 +12057,6 @@ braula
 bidigitate
 bromeliad
 bothriums
-bunkhouse
 blackener
 bebop
 bombarded
