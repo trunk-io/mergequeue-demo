@@ -4932,7 +4932,6 @@ carvership
 cryotherapy
 chimu
 cothouse
-catalyte
 coonskin
 carvestrene
 carving
@@ -13246,6 +13245,7 @@ carburising
 crossbencher
 cytostroma
 climbable
+catalyte
 courtierism
 cyclogenesis
 conduplicate
