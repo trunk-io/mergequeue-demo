@@ -6921,7 +6921,6 @@ bergschrund
 besiege
 bullaria
 bagwoman
-braird
 besluit
 bridgebuilding
 biarchy
@@ -10003,6 +10002,7 @@ barrer
 belomancy
 broguery
 brodyagi
+braird
 blockish
 barosma
 basileis
