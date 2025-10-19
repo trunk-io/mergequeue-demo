@@ -9962,6 +9962,7 @@ baa
 beasties
 besmirches
 bail
+bombardelle
 bromizer
 bnf
 bitterbloom
@@ -12426,7 +12427,6 @@ battute
 battlefront
 blears
 bombora
-bombardelle
 beguilers
 barratries
 bribeless
