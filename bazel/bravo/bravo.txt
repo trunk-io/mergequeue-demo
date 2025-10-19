@@ -4647,7 +4647,6 @@ bypasses
 bauds
 bogway
 bleariest
-binnacle
 basal
 barnlike
 beatille
@@ -8702,6 +8701,7 @@ benches
 beguines
 barff
 baulked
+binnacle
 berendo
 biuniquely
 bemixt
