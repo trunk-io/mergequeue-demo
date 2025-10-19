@@ -7366,6 +7366,7 @@ bact
 befreeze
 bellwethers
 bipartizan
+barracoon
 besmirched
 batrachia
 buboes
@@ -12664,7 +12665,6 @@ bouzouki
 bellware
 bonxie
 buffy
-barracoon
 baroreceptor
 bealach
 bibulus
