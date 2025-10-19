@@ -278,7 +278,6 @@ edaphosaurus
 eyeliner
 embarkations
 exalt
-exequy
 exceeded
 ethionamide
 ecca
@@ -6100,6 +6099,7 @@ eltime
 endromis
 expediencies
 epeidia
+exequy
 endolithic
 executable
 everting
