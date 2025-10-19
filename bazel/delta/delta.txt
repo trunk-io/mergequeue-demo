@@ -5071,7 +5071,6 @@ diphtherial
 demountability
 dusserah
 derricks
-devastators
 demijohn
 deduit
 dryerman
@@ -15034,6 +15033,7 @@ dads
 derive
 doggrel
 dogget
+devastators
 dottrels
 dialin
 decumani
