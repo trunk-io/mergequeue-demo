@@ -2062,7 +2062,6 @@ eugranitic
 epeisodia
 eland
 epiphyseal
-ensilver
 embryologists
 extraorbital
 embryogeny
@@ -2971,6 +2970,7 @@ extraboldface
 epilate
 ethicizing
 extersive
+ensilver
 evolvements
 equipoises
 electrothermostat
