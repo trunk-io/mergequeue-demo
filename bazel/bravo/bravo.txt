@@ -536,6 +536,7 @@ basementward
 bombsights
 bicentennial
 backtender
+boryl
 buskers
 blatchang
 blennioid
@@ -16403,7 +16404,6 @@ bins
 biloculate
 bangup
 barrel
-boryl
 barricoes
 bezette
 bearability
