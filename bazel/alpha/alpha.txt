@@ -4543,7 +4543,6 @@ awave
 anemopathy
 abiliment
 ammonias
-antievolution
 atomerg
 accessorii
 aedilian
@@ -7949,6 +7948,7 @@ antimoralist
 autopsy
 aletocyte
 aftertask
+antievolution
 aluco
 augural
 appliers
