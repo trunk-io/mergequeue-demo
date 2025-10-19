@@ -4556,7 +4556,6 @@ euonymous
 entailed
 exodromy
 euphoniad
-electrothermometer
 elute
 emphatically
 eurymus
@@ -8501,6 +8500,7 @@ enghle
 enchyma
 epentheses
 epistroma
+electrothermometer
 endemics
 endosteoma
 escalloniaceae
