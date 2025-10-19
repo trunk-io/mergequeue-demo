@@ -3172,7 +3172,6 @@ canteen
 colleterium
 chancriform
 capitle
-cerebrum
 coffeewood
 chamades
 compenetrate
@@ -12395,6 +12394,7 @@ carronade
 carolers
 chromidium
 cezannesque
+cerebrum
 cowage
 cymes
 cretonnes
