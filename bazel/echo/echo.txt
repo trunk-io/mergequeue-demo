@@ -1362,7 +1362,6 @@ entasias
 espiegleries
 eprosy
 efl
-emanator
 ephyrula
 efoliose
 elenchtical
@@ -11888,6 +11887,7 @@ exoculated
 epiplectic
 emblazing
 exacerbated
+emanator
 eubacterium
 eclosion
 encipher
