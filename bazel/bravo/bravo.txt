@@ -2328,6 +2328,7 @@ besplash
 bladesmith
 blahlaut
 bardcraft
+boucherize
 bloomeria
 beleve
 buckhorn
@@ -16518,7 +16519,6 @@ bargello
 bulbomedullary
 biennale
 benzotetrazole
-boucherize
 bhaktis
 brusure
 bentang
