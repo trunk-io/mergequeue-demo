@@ -3138,7 +3138,6 @@ binormal
 beffroy
 burnover
 brabbles
-bolted
 betafite
 broader
 boniform
@@ -14017,6 +14016,7 @@ boordly
 billback
 boathouse
 ballyragged
+bolted
 bubos
 breachy
 bowstring
