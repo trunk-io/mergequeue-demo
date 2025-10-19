@@ -994,7 +994,6 @@ educes
 eriosoma
 evodia
 endoconidia
-eumycetic
 excreting
 eterne
 epichlorohydrin
@@ -7576,6 +7575,7 @@ exciton
 ectocrine
 espece
 expediter
+eumycetic
 epicuticle
 estrus
 epicuticular
