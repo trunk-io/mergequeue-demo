@@ -8820,6 +8820,7 @@ befriendment
 buckets
 basson
 blunthead
+bulten
 bedchamber
 beslimed
 bible
@@ -9471,7 +9472,6 @@ bionomies
 bromuret
 balustrades
 brager
-bulten
 bloodalley
 bridegroom
 bovidae
