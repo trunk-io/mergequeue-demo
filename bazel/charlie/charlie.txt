@@ -4814,7 +4814,6 @@ conky
 cartel
 clover
 chondriosomes
-cokelike
 condylion
 chirp
 cesarean
@@ -5974,6 +5973,7 @@ chortlers
 cathouse
 carryable
 cathouses
+cokelike
 crownling
 cathryn
 cathud
