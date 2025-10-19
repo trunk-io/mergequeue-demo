@@ -12296,6 +12296,7 @@ boltmaker
 blee
 berede
 baldric
+bono
 boltrope
 begrave
 barbarea
@@ -15494,7 +15495,6 @@ braata
 bereave
 bioplasm
 bookworm
-bono
 ballots
 benetted
 bazaars
