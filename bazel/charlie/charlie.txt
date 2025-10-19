@@ -3511,6 +3511,7 @@ carabines
 coprahs
 corrugation
 calefaction
+clockhouse
 carabinier
 carabiniere
 caraboa
@@ -19332,7 +19333,6 @@ clodpoll
 counterpoises
 carshop
 caryatic
-clockhouse
 chromidial
 colonials
 craftless
