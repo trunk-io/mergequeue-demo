@@ -6562,6 +6562,7 @@ epiphragm
 enterosepsis
 enterotoxemia
 ethion
+extramental
 edulcoration
 enterotoxication
 enlight
@@ -9719,7 +9720,6 @@ eremurus
 exemptionist
 employment
 exocolitis
-extramental
 elementarily
 eduskunta
 enchest
