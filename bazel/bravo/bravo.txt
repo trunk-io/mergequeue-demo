@@ -4690,6 +4690,7 @@ boxboards
 bonbons
 bronzen
 benedicite
+biconnected
 bambinos
 bollix
 braillist
@@ -10706,7 +10707,6 @@ bosque
 bergall
 bleakness
 broussonetia
-biconnected
 browd
 biuret
 bewash
