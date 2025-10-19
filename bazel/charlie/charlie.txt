@@ -9162,6 +9162,7 @@ cerianthid
 chartroom
 commonefaction
 charts
+confluent
 chontal
 corroborate
 coppice
@@ -15106,7 +15107,6 @@ carney
 coenobitism
 civilness
 coastward
-confluent
 conveneries
 civism
 civisms
