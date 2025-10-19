@@ -2513,6 +2513,7 @@ bidentate
 beltir
 bisonant
 baritenor
+beaconless
 bedevils
 brickle
 banande
@@ -3807,7 +3808,6 @@ benefitting
 bivittate
 bakery
 biblist
-beaconless
 bicycles
 beslur
 brachygnathia
