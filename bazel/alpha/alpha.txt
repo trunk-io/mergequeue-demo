@@ -6359,6 +6359,7 @@ assapanic
 aggregations
 admirals
 alarm
+apprise
 acetyliodide
 archbotcher
 aguirage
@@ -21998,7 +21999,6 @@ apoplexious
 anakinetomer
 arguteness
 antiphagocytic
-apprise
 arterin
 aquameter
 aldazin
