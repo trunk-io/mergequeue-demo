@@ -11935,7 +11935,6 @@ counterproof
 consol
 cachina
 crouche
-currying
 chorioallantoic
 chorioallantois
 curtation
@@ -25340,6 +25339,7 @@ callosity
 city
 corkers
 corkier
+currying
 chirking
 chedlock
 cervelats
