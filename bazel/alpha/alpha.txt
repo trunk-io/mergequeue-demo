@@ -5567,6 +5567,7 @@ actinons
 allegheny
 answers
 afunction
+anointers
 aftersound
 adiadokokinesia
 agalma
@@ -14963,7 +14964,6 @@ antihypophora
 abassi
 anticlimax
 albatas
-anointers
 amphigouri
 alkenes
 anticlockwise
