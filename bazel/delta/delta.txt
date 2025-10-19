@@ -8524,7 +8524,6 @@ dialysability
 deviate
 degomme
 damagers
-defensative
 diastolic
 dianthera
 desex
@@ -9455,6 +9454,7 @@ dollface
 disseat
 divined
 dyeline
+defensative
 discoplacental
 dislegitimate
 drys
