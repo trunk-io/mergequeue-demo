@@ -616,7 +616,6 @@ cliqueiest
 caedmonian
 coffrets
 cabossed
-caelometer
 corkscrewing
 coeloma
 cooking
@@ -16530,6 +16529,7 @@ caves
 cloddily
 clodhoppers
 curettage
+caelometer
 clodhopping
 caracoling
 clodlet
