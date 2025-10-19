@@ -12099,7 +12099,6 @@ electrodialyses
 exodermal
 enflames
 erythrocytoschisis
-exturb
 emcee
 enveil
 eryhtrism
@@ -12917,6 +12916,7 @@ encystation
 expellent
 exility
 exogenae
+exturb
 euploeinae
 enjoins
 equivoke
