@@ -730,7 +730,6 @@ demonologer
 davening
 dancing
 disthrone
-distriction
 dictagraph
 dodging
 dander
@@ -1757,6 +1756,7 @@ downed
 decad
 deathrates
 dimethoxy
+distriction
 deathsman
 discrepating
 dumble
