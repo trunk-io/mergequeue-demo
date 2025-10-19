@@ -3048,7 +3048,6 @@ cape
 chequerboard
 capeadores
 capelan
-colonoscopy
 cornette
 chondrocele
 capelins
@@ -4409,6 +4408,7 @@ catapults
 carbine
 cephalogenesis
 contributes
+colonoscopy
 capillarity
 colluvies
 criance
