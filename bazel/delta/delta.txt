@@ -11349,6 +11349,7 @@ drivers
 dalliers
 drainageway
 downwardness
+dcor
 decrypted
 discards
 delegation
@@ -14854,7 +14855,6 @@ documentations
 domiciliation
 downbear
 discourseless
-dcor
 draconin
 disharmonious
 documents
