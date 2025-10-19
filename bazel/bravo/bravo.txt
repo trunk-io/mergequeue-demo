@@ -6224,6 +6224,7 @@ barkey
 beys
 bustles
 bagfuls
+birlinn
 bevors
 brittles
 bedrocks
@@ -9652,7 +9653,6 @@ bellhop
 bisectors
 bisectrices
 busybodyness
-birlinn
 bouts
 biosynthetically
 beltline
