@@ -1585,6 +1585,7 @@ ballstock
 brachysm
 ballup
 ballweed
+balun
 bimodality
 burton
 becrampon
@@ -15575,7 +15576,6 @@ blindage
 barometer
 blastid
 barbacan
-balun
 busk
 brises
 barramundi
