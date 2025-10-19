@@ -3656,7 +3656,6 @@ autosender
 agranulocytosis
 antimonial
 autothaumaturgist
-adiagnostic
 asymmetries
 amictus
 arctium
@@ -22040,6 +22039,7 @@ adawlut
 atrium
 anaematosis
 achromacyte
+adiagnostic
 aullay
 aceraceous
 allottery
