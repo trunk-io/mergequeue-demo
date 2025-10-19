@@ -3322,7 +3322,6 @@ bastings
 bibliotaphe
 blendure
 becombed
-bef
 butyn
 bastite
 brushfire
@@ -12156,6 +12155,7 @@ bostrychoid
 blastulas
 bucolics
 burkundaz
+bef
 benightedly
 banefully
 botch
