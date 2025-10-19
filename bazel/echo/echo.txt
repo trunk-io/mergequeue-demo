@@ -661,6 +661,7 @@ exuvium
 ecotype
 electrocolloidal
 erythrine
+exscind
 explosively
 enmanche
 epigeic
@@ -1477,7 +1478,6 @@ emotions
 erroneous
 elodea
 egomaniacally
-exscind
 epiphany
 embryonically
 ethmoturbinate
