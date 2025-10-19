@@ -7667,7 +7667,6 @@ buffball
 burglaries
 brachysclereid
 bheestie
-bathyscaphe
 believer
 buonamano
 bhikshu
@@ -12347,6 +12346,7 @@ bacchantic
 bibacious
 berteroa
 baalshem
+bathyscaphe
 bobfly
 blow
 bedraggle
