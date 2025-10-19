@@ -8106,7 +8106,6 @@ coronographic
 ceroxylon
 cheilostomata
 chainmaker
-commentative
 chiropodist
 clutterer
 chainmen
@@ -30980,6 +30979,7 @@ checkwriter
 cyclones
 couplings
 coplotter
+commentative
 computerized
 cerebrate
 colossuswise
