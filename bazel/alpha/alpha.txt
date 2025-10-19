@@ -4046,7 +4046,6 @@ argillite
 accusator
 abristle
 aerograph
-agname
 aspredo
 archfriend
 arterialise
@@ -19382,6 +19381,7 @@ aho
 arithmetics
 ambiens
 acridities
+agname
 angariation
 appellable
 aeronef
