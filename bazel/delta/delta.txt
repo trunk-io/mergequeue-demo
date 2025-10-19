@@ -278,7 +278,6 @@ defrauders
 dishpanful
 disabled
 daguerreotyping
-descendent
 docken
 debugged
 dazzlers
@@ -3700,6 +3699,7 @@ degust
 degusted
 dregginess
 dehair
+descendent
 deplumation
 disesteem
 defiantly
