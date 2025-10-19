@@ -1640,6 +1640,7 @@ diapnoe
 daundered
 devotional
 daunter
+durabilities
 darkhaired
 dealkylate
 deerhair
@@ -8127,7 +8128,6 @@ dryfoot
 dispermous
 defenestration
 dispersion
-durabilities
 deltiology
 diswashing
 dumbhead
