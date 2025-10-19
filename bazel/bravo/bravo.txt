@@ -12702,6 +12702,7 @@ bari
 bokharan
 boogeymen
 boko
+barotropic
 bassly
 bec
 bestraddling
@@ -15295,7 +15296,6 @@ bulrush
 bitted
 biffed
 baching
-barotropic
 bridesmaid
 bridesmen
 baybolt
