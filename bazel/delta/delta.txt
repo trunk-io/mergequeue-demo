@@ -4807,7 +4807,6 @@ deftness
 detach
 deergrass
 dervishlike
-drifting
 datch
 defences
 detractingly
@@ -9117,6 +9116,7 @@ divining
 dialyzer
 deific
 demoralisation
+drifting
 daggling
 damagingly
 departition
