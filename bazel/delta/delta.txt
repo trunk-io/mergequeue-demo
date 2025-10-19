@@ -721,7 +721,6 @@ demonologer
 davening
 dancing
 disthrone
-dictagraph
 dodging
 dander
 deifical
@@ -2652,6 +2651,7 @@ docimasies
 decomposing
 digne
 decarbonizing
+dictagraph
 dogwatches
 deliberativeness
 decompoundable
