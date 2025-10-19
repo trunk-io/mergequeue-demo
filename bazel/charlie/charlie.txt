@@ -2448,7 +2448,6 @@ crinid
 candlenut
 coccule
 candlepins
-chemist
 cerevis
 candler
 cytoblastemal
@@ -26884,6 +26883,7 @@ caliphal
 chronologist
 carniferous
 conspiratory
+chemist
 cocainised
 clydeside
 crankness
