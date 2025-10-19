@@ -1209,7 +1209,6 @@ exclaims
 eruptivity
 encapsuling
 evasional
-ebcdic
 extirpationist
 ethylated
 extrasyllabic
@@ -4542,6 +4541,7 @@ eavedrop
 ectases
 exterminable
 enlargeable
+ebcdic
 enfranchised
 entires
 estrado
