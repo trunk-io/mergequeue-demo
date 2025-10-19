@@ -2845,7 +2845,6 @@ dunnock
 decus
 decuss
 decussate
-duplicable
 deans
 discodactyl
 digram
@@ -12030,6 +12029,7 @@ depluming
 disencharm
 database
 drip
+duplicable
 duikerbuck
 deimos
 daint
