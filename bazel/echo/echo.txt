@@ -5605,7 +5605,6 @@ erechtheus
 enterocoele
 eppie
 epiblastema
-extraventricular
 easinesses
 entailment
 equisetic
@@ -9899,6 +9898,7 @@ epilepsies
 epipastic
 espinel
 everwhich
+extraventricular
 ethanediol
 ewe
 enterocentesis
