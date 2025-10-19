@@ -8013,7 +8013,6 @@ clanks
 chaetetidae
 capillitium
 cocytean
-chaetodon
 cera
 chaetodont
 chaetognatha
@@ -29728,6 +29727,7 @@ caprimulgine
 corvina
 cutterman
 cacophonically
+chaetodon
 cromster
 countermissile
 creosol
