@@ -4056,7 +4056,6 @@ adjag
 apoapsis
 acocotl
 acalyptrate
-acrostichic
 aeration
 acrobacy
 anaesthesis
@@ -6235,6 +6234,7 @@ aview
 autarkik
 afterbody
 antonymies
+acrostichic
 anticipate
 agreeingly
 adamantoma
