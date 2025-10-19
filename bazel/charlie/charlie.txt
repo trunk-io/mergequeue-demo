@@ -11192,7 +11192,6 @@ cheliform
 cogito
 cherisher
 chizzel
-confiscatable
 chkfile
 carpetlayer
 chondrite
@@ -17647,6 +17646,7 @@ cynipid
 conscribe
 concyclically
 coccoidal
+confiscatable
 coccolite
 copraemic
 calabashes
