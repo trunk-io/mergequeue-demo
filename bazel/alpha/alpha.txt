@@ -730,7 +730,6 @@ airlock
 alop
 adynamic
 abreed
-ammono
 asimmer
 anchylosing
 adjurations
@@ -11760,6 +11759,7 @@ acclamator
 amygdaloidal
 acrocentric
 anagogics
+ammono
 anaerobiosis
 anaerobium
 apogeotropic
