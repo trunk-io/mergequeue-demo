@@ -684,6 +684,7 @@ badness
 booklice
 backtracking
 baff
+boomlet
 bewield
 besogne
 blueish
@@ -11537,7 +11538,6 @@ befretted
 begged
 brisks
 branchiostegan
-boomlet
 behaves
 baja
 bromthymol
