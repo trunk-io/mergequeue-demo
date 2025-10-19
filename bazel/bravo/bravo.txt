@@ -1862,7 +1862,6 @@ bremsstrahlung
 beforetime
 bedizenment
 beatifies
-bandsman
 breeders
 boardmen
 brigands
@@ -11916,6 +11915,7 @@ bypath
 balandra
 blueprinter
 bended
+bandsman
 brassworker
 bailout
 barming
