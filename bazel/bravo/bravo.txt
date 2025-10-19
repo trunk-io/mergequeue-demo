@@ -2389,7 +2389,6 @@ boatbills
 bromelin
 beggiatoa
 barandos
-beastbane
 bathochromatism
 balaklava
 bishophood
@@ -9667,6 +9666,7 @@ bishoplet
 blindedly
 barb
 brachia
+beastbane
 bibliognost
 borrows
 ballas
