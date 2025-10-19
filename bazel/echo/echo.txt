@@ -6580,6 +6580,7 @@ enterosepsis
 enterotoxemia
 enhorror
 evaluable
+ethion
 edulcoration
 enterotoxication
 enlight
@@ -12399,7 +12400,6 @@ epsomite
 exocline
 embryophore
 ethylenes
-ethion
 exocoele
 exocoelic
 eulima
