@@ -10095,7 +10095,6 @@ clothesbrush
 chimney
 catharping
 collab
-customize
 comdg
 chipchap
 chesser
@@ -10379,6 +10378,7 @@ cares
 chief
 chokra
 chiefery
+customize
 cyatholith
 chiefish
 chieftaincy
