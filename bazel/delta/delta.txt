@@ -909,7 +909,6 @@ disintegrant
 dor
 deserts
 dipnoi
-dolerophanite
 dendroeca
 decapsulate
 dermapostasis
@@ -5536,6 +5535,7 @@ drainfield
 dantonesque
 deorsum
 disgross
+dolerophanite
 deepener
 deossification
 deuterostomatous
