@@ -3639,6 +3639,7 @@ elfkin
 ejects
 elinvar
 emended
+exul
 erugation
 electroendosmotic
 endosporia
@@ -14200,7 +14201,6 @@ excercise
 exudes
 especially
 endotoxic
-exul
 equalled
 epitomist
 endearance
