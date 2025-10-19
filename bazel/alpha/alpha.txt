@@ -3507,7 +3507,6 @@ advecting
 aro
 acrook
 aspersor
-asyndeton
 abbaye
 adenomyofibroma
 afterdated
@@ -18285,6 +18284,7 @@ aeroscope
 allogeneous
 acquitment
 adherescent
+asyndeton
 araby
 accessarily
 appreciation
