@@ -3990,7 +3990,6 @@ entangler
 euonymus
 exospores
 embanks
-endomitotic
 enclasping
 endotheliocyte
 empodia
@@ -4726,6 +4725,7 @@ esterling
 exhales
 eucrite
 expletively
+endomitotic
 exuberantness
 epigonus
 emigree
