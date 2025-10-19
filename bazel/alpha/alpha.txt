@@ -8467,6 +8467,7 @@ affixer
 alkahest
 antispasis
 aguinaldos
+appulsive
 acinetina
 astrochemist
 alkanol
@@ -11517,7 +11518,6 @@ amusement
 artificership
 alpestrine
 amusements
-appulsive
 aquascutum
 autohypnosis
 ambuscados
