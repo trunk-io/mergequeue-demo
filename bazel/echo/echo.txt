@@ -5794,6 +5794,7 @@ excitate
 epistolar
 extractor
 edicule
+entrain
 exonarthex
 educator
 eulamellibranchia
@@ -6794,7 +6795,6 @@ epigon
 exam
 etherialisation
 enounces
-entrain
 enantiomorphy
 elicitate
 exoculate
