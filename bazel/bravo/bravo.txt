@@ -4992,7 +4992,6 @@ bentwood
 beflannel
 bureaucrat
 buceros
-bashed
 basion
 beflea
 blowfish
@@ -14212,6 +14211,7 @@ bequeathing
 benzaminic
 broadsiding
 bezonian
+bashed
 budged
 brachistochronous
 beaver
