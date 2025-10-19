@@ -1349,6 +1349,7 @@ explanatorily
 ensphered
 except
 exocline
+evicting
 epics
 exorbitation
 equalable
@@ -7011,7 +7012,6 @@ engouement
 earnestly
 engrailed
 entailer
-evicting
 eng
 epistyles
 eighteen
