@@ -21107,7 +21107,6 @@ copyholds
 conceptaculum
 connexional
 computably
-computations
 coomy
 computer
 computerese
@@ -21387,6 +21386,7 @@ conchometry
 claimsmen
 cogitated
 contratabular
+computations
 captress
 couponed
 conchae
