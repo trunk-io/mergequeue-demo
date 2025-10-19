@@ -3682,7 +3682,6 @@ adiation
 adib
 ametabola
 alentours
-amplitudes
 agalenidae
 algicide
 accosting
@@ -4058,6 +4057,7 @@ acubens
 acupuncturing
 adjag
 apoapsis
+amplitudes
 acocotl
 acalyptrate
 aeration
