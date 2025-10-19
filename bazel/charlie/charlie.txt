@@ -3840,6 +3840,7 @@ carburetion
 conformational
 corset
 commaing
+comvia
 chaconne
 candelabra
 cuffer
@@ -24644,7 +24645,6 @@ crepitus
 copyfitter
 cynomorpha
 canterburies
-comvia
 copygraph
 contemporised
 cosmati
