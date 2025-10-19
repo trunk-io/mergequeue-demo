@@ -1546,7 +1546,6 @@ blackeye
 biotelemetry
 balloonflower
 barcone
-balloonish
 burghs
 biloquist
 brot
@@ -1589,6 +1588,7 @@ becrowd
 bengali
 ballstock
 brachysm
+balloonish
 ballup
 ballweed
 balun
