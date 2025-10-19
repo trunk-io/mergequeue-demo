@@ -6531,6 +6531,7 @@ advertisable
 antigorite
 aftertimes
 achromatised
+awakable
 agrestian
 ailed
 aileron
@@ -9859,7 +9860,6 @@ antiknocks
 attaint
 annapolis
 acoelomata
-awakable
 athletics
 airiferous
 axseed
