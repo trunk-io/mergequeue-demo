@@ -1923,6 +1923,7 @@ ektenes
 endmatcher
 execeptional
 epithymetical
+eigenvector
 enlargement
 emotionable
 earths
@@ -5905,7 +5906,6 @@ electrosherardizing
 encrisp
 enteromesenteric
 empowers
-eigenvector
 ejections
 electropotential
 excud
