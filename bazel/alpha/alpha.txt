@@ -3971,7 +3971,6 @@ amphibiology
 archsewer
 archimagus
 abundant
-asap
 abomasal
 adless
 asidehand
@@ -9813,6 +9812,7 @@ autotherapy
 anamnionata
 alaster
 asphodelus
+asap
 axion
 authenticatable
 armeriaceae
