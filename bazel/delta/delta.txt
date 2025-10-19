@@ -5180,6 +5180,7 @@ deformations
 detect
 dinetic
 dendrology
+dentals
 demerge
 dola
 daubes
@@ -17926,7 +17927,6 @@ determinism
 desisting
 duftite
 disamenity
-dentals
 dugento
 daggy
 devouress
