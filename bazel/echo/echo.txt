@@ -4725,7 +4725,6 @@ euthyneural
 erect
 exploratory
 extracardial
-extend
 erectility
 elucubration
 elench
@@ -11323,6 +11322,7 @@ emerging
 evolutionism
 emissive
 endotheloid
+extend
 eructs
 exsanguinous
 eagerly
