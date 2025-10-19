@@ -4142,7 +4142,6 @@ exampleship
 equidiagonal
 epithecia
 escutcheons
-electrodispersive
 emerick
 equimolar
 extrasensorial
@@ -14125,6 +14124,7 @@ enfants
 estats
 epiphyses
 essenwood
+electrodispersive
 educed
 egards
 earstones
