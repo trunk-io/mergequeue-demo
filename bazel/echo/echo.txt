@@ -5740,7 +5740,6 @@ embusqu
 ekaha
 electrolyzation
 enforces
-eccl
 enfeeblish
 exactness
 electrotechnician
@@ -6947,6 +6946,7 @@ endergonic
 endamebic
 earthshock
 enfranchisable
+eccl
 enfatico
 extraspinal
 entices
