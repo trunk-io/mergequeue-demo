@@ -8550,7 +8550,6 @@ endosteoma
 escalloniaceae
 ethos
 emydes
-emissive
 exprobratory
 empuzzle
 equivaliant
@@ -11321,6 +11320,7 @@ emerging
 endomesoderm
 evolutionism
 epithecate
+emissive
 enverdure
 endotheloid
 eructs
