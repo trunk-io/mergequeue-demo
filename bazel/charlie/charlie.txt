@@ -10408,6 +10408,7 @@ castles
 chiffony
 citizenries
 chiffoniers
+creepier
 concentrative
 charter
 curatives
@@ -29931,7 +29932,6 @@ carillons
 coinheritance
 canadianize
 cammocky
-creepier
 crosstown
 carcinologist
 conductorial
