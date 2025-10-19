@@ -454,7 +454,6 @@ bushgoats
 bidcock
 behap
 bichrome
-bushwas
 bowstringed
 bewrought
 backscatter
@@ -2926,6 +2925,7 @@ bioethic
 blighia
 bolt
 beansetter
+bushwas
 blintzes
 boller
 bravoite
