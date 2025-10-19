@@ -1166,6 +1166,7 @@ demolition
 demanders
 detestable
 drad
+disconfirm
 disjunction
 dishboard
 disturn
@@ -12798,7 +12799,6 @@ dunches
 demisable
 dinornithes
 doudle
-disconfirm
 dismayable
 decorament
 digraph
