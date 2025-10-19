@@ -8580,6 +8580,7 @@ baselike
 backfold
 byelaw
 boating
+bullpoll
 balcone
 bubalis
 behear
@@ -17207,7 +17208,6 @@ barkstone
 buttery
 beduins
 biform
-bullpoll
 brainwashers
 bemirror
 brontoscopy
