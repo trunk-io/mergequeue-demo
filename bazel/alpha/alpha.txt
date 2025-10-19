@@ -14658,6 +14658,7 @@ autopsist
 answering
 alveolite
 abaculi
+appmt
 atmolyzer
 anesthetics
 antidiphtherin
@@ -18751,7 +18752,6 @@ aruspices
 apostrophise
 archcritic
 amblyopia
-appmt
 arthrosterigma
 animations
 archdeaconries
