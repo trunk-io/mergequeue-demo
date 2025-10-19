@@ -19355,6 +19355,7 @@ aphyllose
 alabastrons
 arete
 anklebones
+adoptative
 automatist
 asellate
 antimechanist
@@ -25124,7 +25125,6 @@ antimonarchists
 argumentation
 apothegms
 assess
-adoptative
 acutiplantar
 acidimeter
 anisotropy
