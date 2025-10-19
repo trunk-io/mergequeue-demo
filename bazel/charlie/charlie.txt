@@ -1007,6 +1007,7 @@ coassistant
 coessential
 coisns
 calcaneum
+cdr
 caman
 comparatives
 charabanc
@@ -19577,7 +19578,6 @@ coups
 commodatary
 congresswoman
 collectivist
-cdr
 coltishly
 calicos
 cytoblastemic
