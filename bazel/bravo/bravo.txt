@@ -3362,6 +3362,7 @@ bovovaccination
 borrowable
 batavi
 brahmins
+bearer
 betula
 besmudge
 bryon
@@ -16035,7 +16036,6 @@ bushwhack
 bakhtiari
 bathybic
 burgheristh
-bearer
 blooming
 bronchohemorrhagia
 boatwoman
