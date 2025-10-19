@@ -15723,7 +15723,6 @@ beamwork
 breakfront
 broadspread
 boeotia
-backbar
 brisling
 beadles
 bonbo
@@ -16160,6 +16159,7 @@ beriberi
 breathful
 brothers
 barrulet
+backbar
 blattered
 bateful
 biologic
