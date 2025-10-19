@@ -1066,7 +1066,6 @@ caxon
 comatulid
 cowheel
 calcimined
-calciminer
 calcimines
 crossbarred
 calcinate
@@ -10134,6 +10133,7 @@ chessner
 chessom
 claves
 chesstree
+calciminer
 cerias
 chest
 consists
