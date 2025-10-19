@@ -807,7 +807,6 @@ beblister
 batteuse
 bystanders
 bonnyclabber
-beclothes
 bogomil
 bellmaster
 begriming
@@ -6975,6 +6974,7 @@ breviradiate
 besnowing
 besognier
 bainie
+beclothes
 bewhistle
 besoil
 benny
