@@ -1139,6 +1139,7 @@ eassel
 enterocinetic
 epeus
 epitheliomuscular
+enzymes
 enkindle
 electroacoustics
 experimentally
@@ -7875,7 +7876,6 @@ elucidate
 eyebath
 embrangled
 embergeese
-enzymes
 echelle
 energumenon
 evocatrix
