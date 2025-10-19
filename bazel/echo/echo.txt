@@ -2675,6 +2675,7 @@ endow
 enzyme
 endosteomas
 ensanguined
+erucivorous
 ensiling
 euthytropic
 eleidin
@@ -9202,7 +9203,6 @@ expansions
 edeotomy
 edgrew
 eductive
-erucivorous
 extendability
 equipoising
 electroform
