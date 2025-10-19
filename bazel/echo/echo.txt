@@ -8935,6 +8935,7 @@ epizoite
 exporters
 ergastoplasm
 emprosthotonic
+endosmic
 erythropsin
 eremochaeta
 empress
@@ -11403,7 +11404,6 @@ evaluations
 eluviums
 equinal
 electromechanics
-endosmic
 extrarhythmical
 ensorcelize
 ettled
