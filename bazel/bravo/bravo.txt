@@ -4498,6 +4498,7 @@ bedub
 bombshells
 bescarf
 beacon
+brat
 basiparaplastin
 bokark
 betsileos
@@ -14769,7 +14770,6 @@ baignoire
 bourgeoning
 brast
 bayonetted
-brat
 briolet
 bernard
 brutter
