@@ -3331,7 +3331,6 @@ donary
 diduction
 dredger
 decigram
-decapitalization
 deprostrate
 disregards
 dehumanise
@@ -7812,6 +7811,7 @@ detail
 deeded
 dab
 darshana
+decapitalization
 discoursers
 duplexer
 ditrigonally
