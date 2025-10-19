@@ -1039,6 +1039,7 @@ devoiced
 disembellish
 divagated
 decolours
+dentonasal
 dewooled
 decarch
 deadlocked
@@ -15835,7 +15836,6 @@ distinctor
 didymitis
 dramm
 dorsicornu
-dentonasal
 dorsiduct
 datura
 doctrinate
