@@ -4729,7 +4729,6 @@ carobs
 carri
 causse
 carry
-carriageable
 crosstie
 carriagesmith
 cinchonicin
@@ -22404,6 +22403,7 @@ cycas
 curiums
 conglobed
 conglobes
+carriageable
 calzoons
 conglomerating
 citrines
