@@ -4512,7 +4512,6 @@ embargoes
 encarnadine
 extrastapedial
 enchodontid
-enchondrosis
 ergodicity
 empyreumatical
 esthesis
@@ -4856,6 +4855,7 @@ entropy
 eyelight
 estruses
 electroergometer
+enchondrosis
 echolalic
 experimentalism
 ensures
