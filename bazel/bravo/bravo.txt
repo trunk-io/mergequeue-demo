@@ -2722,7 +2722,6 @@ baroqueness
 blonder
 blaff
 brazee
-bandfile
 barmie
 bronchiloquy
 bookends
@@ -17307,6 +17306,7 @@ bandies
 burgee
 bistetrazole
 bugala
+bandfile
 bummack
 bleachers
 bushlet
