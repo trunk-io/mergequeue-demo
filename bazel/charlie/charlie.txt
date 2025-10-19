@@ -15922,7 +15922,6 @@ clonos
 chronomancy
 cleft
 calms
-clipping
 caricographer
 chamal
 cadaverize
@@ -16665,6 +16664,7 @@ clops
 cantref
 carrocci
 chinchilla
+clipping
 cloque
 crescendos
 comptonite
