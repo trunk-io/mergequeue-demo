@@ -1723,7 +1723,6 @@ balanops
 brahmi
 buzzy
 birthnight
-bhp
 brigade
 beglads
 bereason
@@ -8852,6 +8851,7 @@ backwoodsiness
 bandaid
 blackface
 brontolith
+bhp
 barium
 biocenosis
 bali
