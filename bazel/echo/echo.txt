@@ -7209,7 +7209,6 @@ exile
 embruing
 ephydra
 euchlorhydria
-equiaxial
 etiolates
 esters
 epithalamial
@@ -8867,6 +8866,7 @@ explorative
 electrophonic
 extinguishers
 exudative
+equiaxial
 eidolon
 endothoracic
 epiphytology
