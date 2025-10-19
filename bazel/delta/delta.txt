@@ -4241,7 +4241,6 @@ dretch
 demarcate
 dibbers
 doorjamb
-downwardly
 dragboat
 dogcart
 dynamograph
@@ -5791,6 +5790,7 @@ dernly
 distempering
 decalcifier
 dextrorsal
+downwardly
 downstroke
 downloads
 depolarizers
