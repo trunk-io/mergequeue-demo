@@ -17428,7 +17428,6 @@ cantrips
 coattestator
 chimps
 coatless
-coattesting
 coaudience
 counterirritation
 condiddle
@@ -30356,6 +30355,7 @@ celadon
 crustaceologist
 cosmical
 chronometrical
+coattesting
 comices
 cattishness
 continuateness
