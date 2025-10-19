@@ -9239,6 +9239,7 @@ biped
 bipedal
 banisher
 bolshevize
+bluejackets
 berbamine
 blunderheadedness
 bipedality
@@ -16258,7 +16259,6 @@ befogging
 browless
 balonea
 baritones
-bluejackets
 brainish
 browned
 bednighted
