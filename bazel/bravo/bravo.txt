@@ -2576,6 +2576,7 @@ bumpy
 broadsword
 bismuthite
 bannition
+bitewing
 burdenless
 barretter
 bardelle
@@ -6613,7 +6614,6 @@ bibliophagist
 burbly
 boltonite
 bardee
-bitewing
 boshbok
 bemixes
 beryllonate
