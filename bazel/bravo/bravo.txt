@@ -4954,7 +4954,6 @@ bodrage
 braised
 berberia
 bikkurim
-bandwidths
 bechase
 busto
 beneficiary
@@ -9734,6 +9733,7 @@ buggeries
 backwrap
 bisync
 bauera
+bandwidths
 branchiocardiac
 beacher
 bisks
