@@ -6587,6 +6587,7 @@ boblet
 beflout
 bedstand
 bimane
+bispore
 beefing
 blocks
 bakshishing
@@ -17915,7 +17916,6 @@ blackfellow
 birdnester
 bushy
 backflash
-bispore
 biomechanics
 bractless
 bombproof
