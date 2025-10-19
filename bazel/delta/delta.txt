@@ -6892,7 +6892,6 @@ dockworker
 disobliger
 distance
 desmanthus
-dismissible
 dogwoods
 deficits
 deflationist
@@ -15576,6 +15575,7 @@ discourses
 diazoles
 decorticator
 diplomat
+dismissible
 donovan
 debeaker
 deltahedron
