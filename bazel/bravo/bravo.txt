@@ -12737,6 +12737,7 @@ bagre
 bordures
 bricked
 bubbles
+breeds
 bulbine
 bijective
 bookrests
@@ -14527,7 +14528,6 @@ bonspell
 badju
 bomos
 beveller
-breeds
 basaltiform
 bipod
 burkha
