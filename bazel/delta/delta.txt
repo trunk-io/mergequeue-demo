@@ -7707,6 +7707,7 @@ deadcenter
 deadweight
 dumpy
 discatter
+demons
 durandarte
 devalues
 devas
@@ -10960,7 +10961,6 @@ desorbed
 drinker
 diopter
 dredged
-demons
 dumbstricken
 disprobabilize
 dotant
