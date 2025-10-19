@@ -1959,7 +1959,6 @@ belongings
 biggies
 basilateral
 backwoods
-barrelling
 biquartz
 bidactyl
 burundians
@@ -14984,6 +14983,7 @@ bitthead
 bravas
 benzenediazonium
 brack
+barrelling
 belchers
 beglic
 byssuses
