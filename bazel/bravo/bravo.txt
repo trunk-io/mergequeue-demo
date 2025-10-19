@@ -9987,7 +9987,6 @@ bigbloom
 boltage
 bitterness
 boiguacu
-bardling
 brochettes
 buhl
 burroweed
@@ -17608,6 +17607,7 @@ bakepan
 banjo
 bribe
 balante
+bardling
 broadhorn
 benzidins
 bacteriophages
