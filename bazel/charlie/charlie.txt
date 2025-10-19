@@ -4626,7 +4626,6 @@ codpitchings
 collages
 caballeria
 carpeting
-chromolith
 carpetmaking
 clubability
 colters
@@ -13299,6 +13298,7 @@ chrysarobin
 cavalcades
 couchers
 clipperman
+chromolith
 cyclometric
 cyclone
 cyclonic
