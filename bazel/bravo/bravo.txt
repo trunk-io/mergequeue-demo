@@ -207,6 +207,7 @@ bristleless
 begripe
 bandy
 bipartition
+brython
 bandido
 bitt
 bubble
@@ -3872,7 +3873,6 @@ beadworks
 baioc
 bistroic
 bidirectionally
-brython
 boilermaking
 beakerman
 birring
