@@ -11900,7 +11900,6 @@ chordamesodermal
 chordamesodermic
 calembour
 chordate
-chorded
 compounding
 cst
 circumferentor
@@ -23238,6 +23237,7 @@ candlelighter
 crucifixion
 carvels
 caudotibialis
+chorded
 cellaring
 corticipetally
 coteller
