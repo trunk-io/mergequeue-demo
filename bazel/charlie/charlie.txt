@@ -8751,7 +8751,6 @@ colonises
 chapelry
 carnivorously
 combflower
-chapelries
 cinerins
 chapels
 craal
@@ -9102,6 +9101,7 @@ charriest
 cooeys
 carpetbagism
 clankety
+chapelries
 cicatrize
 chylocaulous
 cloamer
