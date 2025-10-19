@@ -4459,6 +4459,7 @@ dementholize
 defang
 debted
 drinkability
+doutous
 draftings
 dentalizing
 dropkicks
@@ -15540,7 +15541,6 @@ deixis
 disuniformity
 dispersions
 dodos
-doutous
 darkener
 donkeyman
 discoactine
