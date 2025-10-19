@@ -1960,6 +1960,7 @@ belongings
 biggies
 basilateral
 backwoods
+barrelling
 biquartz
 bidactyl
 burundians
@@ -6987,7 +6988,6 @@ bicephalic
 bloomy
 barway
 biconditional
-barrelling
 boustrophedon
 beadledom
 belletrist
