@@ -4620,7 +4620,6 @@ erasers
 exhumers
 exactress
 expensed
-encircle
 earthmove
 erase
 entryway
@@ -8439,6 +8438,7 @@ economised
 electre
 electivism
 exonerates
+encircle
 extbook
 echinology
 egoism
