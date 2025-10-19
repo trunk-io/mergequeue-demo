@@ -5110,7 +5110,6 @@ estampage
 electrostatic
 epicist
 eyewitnesses
-eastings
 electroballistician
 emulsibility
 ectal
@@ -9169,6 +9168,7 @@ essentials
 embosk
 esopgi
 enteradenological
+eastings
 enfranchiser
 epicyte
 euchologia
