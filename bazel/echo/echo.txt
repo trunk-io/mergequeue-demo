@@ -4929,7 +4929,6 @@ elicitation
 enumerator
 enshrining
 extensum
-epistyle
 engraphic
 escuela
 externalised
@@ -9566,6 +9565,7 @@ epikleses
 essay
 epistomata
 epipleural
+epistyle
 embargo
 elephancy
 empyrical
