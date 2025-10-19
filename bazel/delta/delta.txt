@@ -4583,6 +4583,7 @@ dispersoid
 dosimetric
 deprecated
 demifigure
+dieresis
 decentres
 doomage
 disinflated
@@ -14787,7 +14788,6 @@ doctorally
 dumontite
 diplanetic
 dichas
-dieresis
 doctorial
 deterging
 downfall
