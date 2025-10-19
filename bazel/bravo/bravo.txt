@@ -2622,7 +2622,6 @@ bemaul
 barnman
 bosser
 boomtowns
-brawlier
 barnstormer
 bannack
 brutalisation
@@ -17256,6 +17255,7 @@ bullsticker
 bacquet
 bulimic
 beachcomber
+brawlier
 boucles
 bullweed
 bullwhipped
