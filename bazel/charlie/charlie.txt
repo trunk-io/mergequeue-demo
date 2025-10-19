@@ -900,6 +900,7 @@ cosmolabe
 carnotite
 cdf
 caky
+cinerama
 clientelage
 cardioptosis
 consecration
@@ -2213,7 +2214,6 @@ concertgoer
 canaille
 cymoid
 commonwealth
-cinerama
 colatorium
 conopophagidae
 cytopahgous
