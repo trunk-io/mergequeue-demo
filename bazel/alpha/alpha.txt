@@ -24861,7 +24861,6 @@ asterikos
 aggregational
 apothems
 ablach
-avoider
 acquiring
 ascribing
 acknowing
@@ -25334,6 +25333,7 @@ atheological
 albinoism
 azoic
 ameliorations
+avoider
 azoles
 azolla
 aegirinolite
