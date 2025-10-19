@@ -2519,7 +2519,6 @@ bridgelike
 buddage
 bellon
 barocco
-barkbound
 boardable
 betterments
 byronist
@@ -3607,6 +3606,7 @@ bodysuits
 bylining
 battlestead
 battlewagon
+barkbound
 bendays
 barvell
 bibliothque
