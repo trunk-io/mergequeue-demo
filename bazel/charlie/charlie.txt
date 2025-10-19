@@ -3890,7 +3890,6 @@ carcinogenesis
 carcinogenic
 curaris
 co
-cursors
 cyclicality
 crystalloluminescence
 coherers
@@ -7310,6 +7309,7 @@ cephalofacial
 cirrhosis
 cuticles
 compliments
+cursors
 cephalology
 cryolites
 coquettishness
