@@ -8568,7 +8568,6 @@ endogenic
 esthesiometry
 eucalypts
 equiparation
-electrophoresis
 epedaphic
 eikon
 epipoditic
@@ -12227,6 +12226,7 @@ echinostome
 existence
 exorcisement
 electroirrigation
+electrophoresis
 epileptogenic
 extracanonical
 exhibitions
