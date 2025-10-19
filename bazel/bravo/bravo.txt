@@ -6215,7 +6215,6 @@ beys
 bigheads
 bustles
 bagfuls
-broguing
 birlinn
 bevors
 brittles
@@ -10510,6 +10509,7 @@ blastocele
 bithynian
 brickfielder
 baroque
+broguing
 backsword
 brahminee
 beamlet
