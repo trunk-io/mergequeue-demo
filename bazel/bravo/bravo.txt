@@ -4337,6 +4337,7 @@ bedights
 broadthroat
 bufidin
 barkcutter
+bioluminescent
 becrippled
 beneficent
 blurbist
@@ -5685,7 +5686,6 @@ bathmic
 bombination
 blanketflower
 blastophaga
-bioluminescent
 bellyached
 bellyacher
 bebeerus
