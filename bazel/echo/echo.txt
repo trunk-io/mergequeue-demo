@@ -5428,7 +5428,6 @@ entheos
 encake
 epiglottal
 enervation
-exclamative
 endoceratite
 encashment
 excellency
@@ -6874,6 +6873,7 @@ echinoderma
 euphenics
 elaborated
 enflowering
+exclamative
 euphausid
 epivalve
 engining
