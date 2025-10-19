@@ -4592,7 +4592,6 @@ doorstone
 destruction
 dethronable
 downface
-divulsed
 demidistance
 deifying
 disbeliefs
@@ -15774,6 +15773,7 @@ doctress
 dizygotic
 dorbel
 dithioic
+divulsed
 declinate
 deproceduring
 divulgences
