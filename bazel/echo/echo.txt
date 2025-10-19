@@ -3302,7 +3302,6 @@ exopterygote
 emigate
 ethal
 extrathoracic
-elymi
 electrovalent
 ectodactylism
 example
@@ -4751,6 +4750,7 @@ eyases
 elicit
 ecize
 exhalate
+elymi
 ergotized
 eucharistized
 emigrate
