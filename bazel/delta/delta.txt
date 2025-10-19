@@ -4574,6 +4574,7 @@ durocs
 drinkableness
 doorstone
 destruction
+dethronable
 downface
 divulsed
 demidistance
@@ -13562,7 +13563,6 @@ drowse
 dollfish
 dismeasurable
 dalesfolk
-dethronable
 disbarment
 drawnet
 dosadh
