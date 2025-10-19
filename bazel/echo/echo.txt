@@ -7546,6 +7546,7 @@ epicotyls
 expecting
 enhancement
 estrual
+exhaustivity
 erethistic
 extrasomatic
 encell
@@ -9568,7 +9569,6 @@ ecphorization
 eccyesis
 everywhen
 exponentiating
-exhaustivity
 embain
 extraorganismal
 eucrasia
