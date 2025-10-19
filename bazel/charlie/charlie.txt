@@ -3646,7 +3646,6 @@ clamourer
 crackbrained
 cheeses
 caravans
-caravansary
 contoured
 caravansaries
 caravanserai
@@ -25922,6 +25921,7 @@ choloscopy
 ciliferous
 corsetry
 corsets
+caravansary
 chopboat
 carillonneurs
 corsican
