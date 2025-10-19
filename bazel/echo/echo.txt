@@ -3029,7 +3029,6 @@ etta
 educe
 equiform
 embillow
-elliptic
 empennage
 epicalyces
 eclamptic
@@ -12299,6 +12298,7 @@ epitheliolysis
 eclectics
 enclosure
 emotionalism
+elliptic
 edginesses
 evzone
 explicator
