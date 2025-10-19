@@ -1015,7 +1015,6 @@ abt
 antebrachial
 ayont
 arbitrating
-anacamptics
 appar
 abterminal
 abridged
@@ -6046,6 +6045,7 @@ algorithms
 aglossia
 agriology
 aside
+anacamptics
 achondrite
 advenient
 asia
