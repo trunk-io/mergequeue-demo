@@ -7780,7 +7780,6 @@ cervicitis
 cervicoauricular
 chippable
 cervicobregmatic
-cervicobuccal
 cervicodynia
 crooks
 cervicofacial
@@ -13348,6 +13347,7 @@ caucho
 craniocerebral
 curvated
 cancan
+cervicobuccal
 crackerberry
 cycloplegic
 coccolithophorid
