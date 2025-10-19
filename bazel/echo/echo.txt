@@ -8549,7 +8549,6 @@ edhs
 ethnol
 eyedropperful
 electrotropism
-expectance
 equinate
 estival
 east
@@ -10233,6 +10232,7 @@ exposes
 etymic
 erical
 echeneid
+expectance
 educative
 extricate
 entomion
