@@ -3619,7 +3619,6 @@ bylining
 battlestead
 battlewagon
 barkbound
-barvell
 bibliothque
 barranca
 bemist
@@ -12140,6 +12139,7 @@ bogeys
 bifocals
 bioplasmic
 bolag
+barvell
 bedell
 besoothement
 beggaring
