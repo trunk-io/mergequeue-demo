@@ -13781,7 +13781,6 @@ bailiff
 bastinades
 bearwoods
 beechiest
-barreler
 bundweed
 bullydom
 bonailie
@@ -16721,6 +16720,7 @@ brackened
 buffalofish
 bovey
 buckboards
+barreler
 bloodspiller
 barnstorming
 buckeen
