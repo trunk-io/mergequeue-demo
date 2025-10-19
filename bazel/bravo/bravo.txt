@@ -5851,6 +5851,7 @@ brahmsian
 bemangle
 bemar
 bevaring
+bulletheaded
 bacillar
 bossier
 brewis
@@ -14993,7 +14994,6 @@ butterflylike
 baking
 birth
 booms
-bulletheaded
 bitthead
 bravas
 benzenediazonium
