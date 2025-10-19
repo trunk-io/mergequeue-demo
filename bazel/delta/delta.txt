@@ -3846,7 +3846,6 @@ deallocations
 diaporesis
 draughthouse
 debilitates
-dsr
 diwan
 durani
 denigrative
@@ -7916,6 +7915,7 @@ doodlebug
 diadochite
 denaturised
 dinge
+dsr
 discographies
 devolves
 duelled
