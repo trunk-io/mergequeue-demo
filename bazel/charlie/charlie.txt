@@ -4363,6 +4363,7 @@ cystomatous
 circumscriptions
 call
 carmalum
+counteropening
 combing
 ceriphs
 carmine
@@ -27041,7 +27042,6 @@ counterobjection
 counterobligation
 counteroffensive
 chevet
-counteropening
 counteropponent
 consuetitude
 circumcenter
