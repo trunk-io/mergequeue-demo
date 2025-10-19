@@ -4230,7 +4230,6 @@ berserk
 bedeafens
 birdmouthed
 beachmaster
-breakwater
 burrhead
 bartering
 bunyas
@@ -16843,6 +16842,7 @@ beholds
 berycoidean
 bellerophontidae
 blabberer
+breakwater
 baconer
 braces
 betas
