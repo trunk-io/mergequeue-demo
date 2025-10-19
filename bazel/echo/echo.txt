@@ -1571,7 +1571,6 @@ echolocate
 endogenicity
 envision
 employ
-erythroplastid
 embrutes
 embolite
 equiangularity
@@ -2407,6 +2406,7 @@ epiploce
 electroless
 energizing
 exsecants
+erythroplastid
 extranational
 expansivity
 ektexines
