@@ -4407,7 +4407,6 @@ encephalographic
 epicurean
 epitasis
 episematic
-erigeron
 enamelling
 entasis
 eidouranion
@@ -8757,6 +8756,7 @@ erat
 elation
 eyewort
 elabor
+erigeron
 enteradenographic
 entoproct
 erd
