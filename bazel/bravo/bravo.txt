@@ -8583,7 +8583,6 @@ billow
 bimorph
 bema
 brassarts
-beardtongue
 bucerotinae
 bemusing
 bobet
@@ -11279,6 +11278,7 @@ bespeaker
 bisilicate
 bowknots
 barmskin
+beardtongue
 buoyance
 bopyridae
 bemired
