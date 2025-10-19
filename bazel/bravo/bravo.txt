@@ -7671,7 +7671,6 @@ balanophora
 backstone
 burglaries
 bheestie
-believer
 buonamano
 bhikshu
 brakehand
@@ -15184,6 +15183,7 @@ baalist
 bacterioid
 breviloquent
 blithely
+believer
 broadleaf
 bodice
 brocked
