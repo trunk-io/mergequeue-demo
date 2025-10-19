@@ -14877,7 +14877,6 @@ botany
 bioscientific
 brazenfacedness
 bonyfish
-biodegraded
 brows
 blamable
 bombycid
@@ -15125,6 +15124,7 @@ befetter
 betiding
 bicuspidal
 bandaka
+biodegraded
 beautifying
 belime
 breenger
