@@ -1031,7 +1031,6 @@ dampproof
 duchy
 daintiness
 divort
-divisibleness
 devoiced
 disembellish
 divagated
@@ -7388,6 +7387,7 @@ disglorify
 deckings
 demurrant
 deliberator
+divisibleness
 dipterygian
 depleted
 durene
