@@ -8421,7 +8421,6 @@ bounceable
 bilifuscin
 bastiment
 bywords
-birthday
 begall
 bullyable
 bidry
@@ -10051,6 +10050,7 @@ bruzz
 barterer
 besauce
 broadacre
+birthday
 bespew
 bronzes
 blattidae
