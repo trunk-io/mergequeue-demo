@@ -4312,6 +4312,7 @@ echards
 elenchical
 earthmaking
 edifices
+estampede
 exalts
 espials
 econometrically
@@ -10496,7 +10497,6 @@ endopleural
 euglenoid
 evenworthy
 enturret
-estampede
 etiquet
 edgeling
 endfile
