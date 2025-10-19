@@ -6792,7 +6792,6 @@ endiablee
 ether
 epipodia
 elling
-endoskeletons
 experimentarian
 eudora
 evaluates
@@ -8416,6 +8415,7 @@ erasures
 excommunion
 epuration
 exaltate
+endoskeletons
 ensilate
 elucidation
 effectual
