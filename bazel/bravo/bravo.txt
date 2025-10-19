@@ -4226,6 +4226,7 @@ bedeafens
 birdmouthed
 beachmaster
 burrhead
+bushfighter
 bartering
 bunyas
 bourdis
@@ -15841,7 +15842,6 @@ brokenheartedly
 buddha
 beaconing
 broking
-bushfighter
 brainwash
 booleys
 batler
