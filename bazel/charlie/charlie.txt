@@ -61,6 +61,7 @@ cornbell
 congest
 cabbageworm
 corrosion
+corses
 chromonemata
 creeping
 cuttages
@@ -5390,7 +5391,6 @@ centuries
 cataclysmal
 clumpst
 cataclysmatist
-corses
 coboss
 catacomb
 crowboot
