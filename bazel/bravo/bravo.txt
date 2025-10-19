@@ -4566,7 +4566,6 @@ bagasse
 bilobe
 basically
 blackthorn
-bonito
 bicetyl
 busywork
 berry
@@ -10887,6 +10886,7 @@ bletilla
 bashalick
 blets
 bacteriophagy
+bonito
 barbule
 bedwell
 brancardier
