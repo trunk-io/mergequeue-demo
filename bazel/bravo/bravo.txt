@@ -6818,7 +6818,6 @@ blypes
 bruchid
 bacteririum
 brecciating
-benignity
 bearship
 buicks
 baboos
@@ -11649,6 +11648,7 @@ behest
 boatbuilding
 brooklynite
 bellhanger
+benignity
 berend
 boucan
 boatless
