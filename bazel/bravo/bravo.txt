@@ -4821,7 +4821,6 @@ bursters
 bandel
 barmier
 bactritoid
-beneplacito
 bilcock
 bitten
 brilliantine
@@ -16183,6 +16182,7 @@ billowing
 botryomycotic
 bellicose
 blesser
+beneplacito
 boatload
 bros
 bontee
