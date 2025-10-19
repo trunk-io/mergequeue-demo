@@ -3446,6 +3446,7 @@ bianchi
 bromellite
 bathkol
 bullfice
+bromide
 bathmat
 background
 bicipital
@@ -7980,7 +7981,6 @@ biguanide
 bonzer
 beltmaking
 bicornute
-bromide
 beewise
 belleeks
 balimbing
