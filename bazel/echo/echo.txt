@@ -6566,7 +6566,6 @@ epiphragm
 ended
 enterosepsis
 enterotoxemia
-enhorror
 evaluable
 ethion
 edulcoration
@@ -7265,6 +7264,7 @@ epencephalons
 erythrosinophile
 electoral
 exhedrae
+enhorror
 entasia
 ectomorphism
 exsanguineous
