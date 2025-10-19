@@ -4810,7 +4810,6 @@ bacteraemia
 betanaphthol
 bowser
 beekeeping
-beelzebul
 beennut
 bacteriotherapy
 bonework
@@ -15099,6 +15098,7 @@ biosatellite
 barraters
 breedable
 bikram
+beelzebul
 biochemics
 breeder
 bepillared
