@@ -2626,6 +2626,7 @@ beadflush
 bemaul
 barnman
 bosser
+boomtowns
 brawlier
 barnstormer
 bannack
@@ -12895,7 +12896,6 @@ besought
 boswellize
 binoculate
 beefcake
-boomtowns
 bulger
 barracuda
 basidiolichenes
