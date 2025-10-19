@@ -1992,7 +1992,6 @@ coincidence
 charismata
 companionship
 cabs
-companionize
 collapsar
 chests
 cosherer
@@ -7509,6 +7508,7 @@ cercarial
 cercarian
 cilices
 corpuscular
+companionize
 conferment
 cerci
 charpais
