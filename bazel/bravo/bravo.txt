@@ -4236,7 +4236,6 @@ bovenland
 buffalofishes
 briskness
 breakthroughs
-bathman
 blossomry
 betterment
 bonzian
@@ -13926,6 +13925,7 @@ beguileful
 blasters
 broadtail
 burkite
+bathman
 bedrowse
 balkish
 berycoidei
