@@ -4855,7 +4855,6 @@ ditchwater
 diethylaminoethanol
 durables
 douar
-demiglobe
 digonous
 dishevelled
 darwinite
@@ -9895,6 +9894,7 @@ deobstruent
 dionaea
 deadlock
 dilaniate
+demiglobe
 dulcetly
 doodah
 delphacidae
