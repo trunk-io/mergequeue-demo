@@ -692,7 +692,6 @@ apprizers
 anywhereness
 arteriolosclerosis
 abrachia
-apodematal
 arteriopressor
 athwartships
 apathetically
@@ -6209,6 +6208,7 @@ asymmetry
 angarep
 agrauleum
 amylosynthesis
+apodematal
 alterants
 apetaly
 agreation
