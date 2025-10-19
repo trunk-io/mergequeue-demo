@@ -1762,7 +1762,6 @@ dauerschlaf
 deathtime
 delineate
 deathtrap
-devocalization
 drof
 deathward
 downlier
@@ -5329,6 +5328,7 @@ disincrustion
 disecondary
 delly
 densify
+devocalization
 dosa
 distrusted
 devitalisation
