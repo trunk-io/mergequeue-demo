@@ -11796,7 +11796,6 @@ chondroitic
 chondromatous
 chondromyces
 cholecyanine
-cissoids
 captan
 chondromucoid
 centronucleus
@@ -26681,6 +26680,7 @@ calycoideous
 counselee
 counsellor
 chilopodan
+cissoids
 corbels
 caryophyllene
 chumming
