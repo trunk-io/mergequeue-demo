@@ -8430,6 +8430,7 @@ bavardage
 batak
 beleaf
 baginda
+bounceable
 bilifuscin
 bastiment
 bywords
@@ -8598,7 +8599,6 @@ ballcarrier
 baselike
 backfold
 byelaw
-bounceable
 boating
 breakback
 balcone
