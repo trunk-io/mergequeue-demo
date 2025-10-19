@@ -6359,7 +6359,6 @@ benzothiazoline
 badlands
 bandarlog
 barangay
-bargainee
 bestayed
 baronries
 bravery
@@ -9897,6 +9896,7 @@ binocular
 bromatology
 benignant
 bitable
+bargainee
 bohemia
 brunch
 bittie
