@@ -9397,6 +9397,7 @@ chawk
 climb
 chawn
 cyclopaedist
+coreless
 carbonero
 chitarrino
 casehardening
@@ -25274,7 +25275,6 @@ creakingly
 chalastic
 commissive
 corindon
-coreless
 corineus
 camelid
 chilla
