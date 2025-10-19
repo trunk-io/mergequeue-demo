@@ -6211,7 +6211,6 @@ brittles
 bedrocks
 benthonic
 benthoscope
-benthoses
 bacteriolysin
 blastie
 benumbed
@@ -13556,6 +13555,7 @@ betweenness
 brittlestem
 blan
 beslimer
+benthoses
 bibliographize
 bonders
 bungarus
