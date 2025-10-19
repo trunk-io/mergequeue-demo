@@ -7671,7 +7671,6 @@ buonamano
 bhikshu
 brakehand
 bullan
-breakover
 brocard
 bowstave
 blennometritis
@@ -9792,6 +9791,7 @@ blier
 beamed
 boanerges
 ballocks
+breakover
 bisques
 bigotedness
 bourdons
