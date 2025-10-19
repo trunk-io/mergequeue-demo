@@ -13398,6 +13398,7 @@ chemoreceptivities
 catchplate
 cantico
 crossarm
+corrigiola
 cyclotome
 cyclotomic
 camisias
@@ -25798,7 +25799,6 @@ curassows
 corrigibleness
 chatta
 chemisorb
-corrigiola
 corrival
 corrivalry
 corrivate
