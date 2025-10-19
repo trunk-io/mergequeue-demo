@@ -600,6 +600,7 @@ enchronicle
 estriche
 electrotrephine
 electioneerer
+entailments
 ennage
 encharging
 earthed
@@ -874,7 +875,6 @@ encyclopaedically
 ecus
 eminencies
 epimeritic
-entailments
 euchrone
 emission
 eodiscid
