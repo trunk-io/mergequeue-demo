@@ -3698,7 +3698,6 @@ enrich
 encumbrances
 ecu
 epoist
-escheatable
 enduro
 eelworms
 ecclesiologic
@@ -4366,6 +4365,7 @@ eneclann
 encastre
 eledone
 eserines
+escheatable
 expurgating
 entozoal
 exfodiate
