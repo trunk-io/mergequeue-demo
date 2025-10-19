@@ -1590,7 +1590,6 @@ eyelash
 eliding
 explicating
 encyclopaedical
-extrapleural
 epikia
 evulge
 exert
@@ -11647,6 +11646,7 @@ emotivism
 ecphorias
 ectocelic
 eyewashes
+extrapleural
 epenla
 enviroment
 eradications
