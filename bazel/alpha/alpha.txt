@@ -9343,7 +9343,6 @@ acting
 adamitic
 alsweill
 anoesis
-arccos
 antically
 anticathode
 aetian
@@ -24271,6 +24270,7 @@ autoloader
 amorously
 affecters
 alternatively
+arccos
 autocollimate
 abying
 anticipators
