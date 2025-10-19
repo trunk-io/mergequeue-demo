@@ -4087,7 +4087,6 @@ cardiomyomalacia
 cardiomyopathy
 cardioncus
 cardionecrosis
-cannibal
 cardioneurosis
 cardiophrenia
 capette
@@ -19882,6 +19881,7 @@ comedical
 coupling
 coagulate
 cankerworms
+cannibal
 chronometer
 codrus
 crooksided
