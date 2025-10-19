@@ -4846,7 +4846,6 @@ emplacements
 enterocoelic
 enmeshments
 emirs
-endable
 endameba
 euhyostyly
 eveck
@@ -13600,6 +13599,7 @@ emeralds
 elderling
 equilibrative
 electrobus
+endable
 esiphonal
 extinctionist
 erythrophleine
