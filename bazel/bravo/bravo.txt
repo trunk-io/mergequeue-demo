@@ -11372,6 +11372,7 @@ beworried
 blowtorches
 bossiness
 blowzy
+barylite
 blamed
 briscola
 beadrow
@@ -14857,7 +14858,6 @@ bonyfish
 brazer
 biodegraded
 brows
-barylite
 bawd
 blamable
 bombycid
