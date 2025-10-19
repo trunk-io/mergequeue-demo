@@ -4091,6 +4091,7 @@ creature
 cobras
 contradivide
 cardiometer
+cripple
 cardiomyomalacia
 cardiomyopathy
 cardioncus
@@ -10201,7 +10202,6 @@ cauterizes
 chg
 chi
 codworm
-cripple
 chill
 chiack
 costophrenic
