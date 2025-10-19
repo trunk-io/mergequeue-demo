@@ -4121,7 +4121,6 @@ botulin
 berhyming
 baldish
 bisect
-bathymetrical
 bulkheads
 brickset
 bebloods
@@ -14776,6 +14775,7 @@ brassard
 bearing
 brins
 busmen
+bathymetrical
 brasse
 brassey
 basketful
