@@ -3686,7 +3686,6 @@ carbaryls
 ciconia
 carbasus
 carbazylic
-chlorpikrin
 civilist
 carbazole
 carbeen
@@ -11477,6 +11476,7 @@ cystopyelography
 cotta
 cueca
 codesigns
+chlorpikrin
 choanophorous
 canonist
 choanosome
