@@ -9136,7 +9136,6 @@ electrosurgeries
 erasions
 ethylhydrocupreine
 eyestrain
-etymons
 edition
 eliasite
 eequinoctium
@@ -10253,6 +10252,7 @@ elan
 evangelisation
 enfin
 emoters
+etymons
 ejecta
 emanatory
 edenic
