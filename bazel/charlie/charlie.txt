@@ -19205,7 +19205,6 @@ collarbone
 citylike
 colloider
 coalsheds
-colloidochemical
 cattan
 collophanite
 colloquial
@@ -27161,6 +27160,7 @@ cauterize
 codiaceous
 checkable
 chlorides
+colloidochemical
 cwt
 crowstick
 counterroll
