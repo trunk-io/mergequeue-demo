@@ -2548,7 +2548,6 @@ bilges
 begster
 barkless
 batfowler
-battening
 biaxal
 bandusia
 besotter
@@ -2620,6 +2619,7 @@ balandrana
 blamableness
 bottomries
 blood
+battening
 beadflush
 bemaul
 barnman
