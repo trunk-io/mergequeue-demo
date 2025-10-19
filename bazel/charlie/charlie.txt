@@ -800,7 +800,6 @@ cislunar
 couteau
 chevesne
 cainish
-chordeiles
 cainite
 charbroils
 confrontation
@@ -10054,6 +10053,7 @@ composers
 chap
 chaenactis
 cherubim
+chordeiles
 carbonylic
 cherubimic
 causes
