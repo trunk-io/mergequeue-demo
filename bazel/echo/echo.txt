@@ -10137,7 +10137,6 @@ expecters
 epigastrium
 ebionize
 electronegativity
-elsin
 ethmopalatal
 erythrophyll
 euphrates
@@ -12461,6 +12460,7 @@ euergetes
 exotery
 esox
 enterobacterial
+elsin
 eventail
 extrametaphysical
 ephete
