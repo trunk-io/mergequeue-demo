@@ -6601,6 +6601,7 @@ cervantite
 canthectomy
 cecidiologist
 cecidomyiidae
+checkpointing
 cecitis
 cecomorphic
 cozie
@@ -9567,7 +9568,6 @@ cautioning
 circumferences
 cupseed
 chiastic
-checkpointing
 combmaking
 circumspective
 clabbered
