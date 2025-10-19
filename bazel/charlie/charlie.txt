@@ -5770,7 +5770,6 @@ cavalryman
 catenarian
 colpohysterotomy
 copiousness
-catenate
 carreton
 crooisite
 catenating
@@ -17369,6 +17368,7 @@ cradleside
 coarrangement
 chording
 constrains
+catenate
 cranched
 coarsened
 canonizations
