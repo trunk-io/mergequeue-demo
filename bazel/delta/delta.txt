@@ -435,7 +435,6 @@ dayrooms
 degummer
 debonair
 degausses
-disconjure
 doblas
 dairt
 demonstrations
@@ -2625,6 +2624,7 @@ dupping
 decreers
 decommission
 decommissioned
+disconjure
 dozers
 drunkard
 decompensating
