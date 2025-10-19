@@ -3663,7 +3663,6 @@ bonded
 bombinate
 baul
 biformed
-burgeoning
 blatterer
 bequeaths
 behight
@@ -8072,6 +8071,7 @@ brachydactylic
 burstones
 bespreading
 bludged
+burgeoning
 bunglingly
 bivalencies
 beeping
