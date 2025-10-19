@@ -695,6 +695,7 @@ bartending
 banderol
 besliming
 baign
+baler
 bielding
 blossomhead
 buccate
@@ -6508,7 +6509,6 @@ berberid
 busking
 bedevilled
 buoyant
-baler
 bahima
 berberidaceous
 berberis
