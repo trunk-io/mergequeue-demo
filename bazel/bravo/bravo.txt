@@ -4197,6 +4197,7 @@ becircled
 bardy
 bawdric
 beehives
+bowfront
 bredbergite
 bostanji
 bowman
@@ -5980,7 +5981,6 @@ belted
 bonneter
 barricader
 biomasses
-bowfront
 bub
 breastpin
 bendee
