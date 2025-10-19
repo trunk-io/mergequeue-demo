@@ -6563,6 +6563,7 @@ birthroot
 barbers
 boninesses
 biz
+befoulment
 boche
 brigetty
 bursate
@@ -11810,7 +11811,6 @@ batons
 bulgaria
 bouquets
 birches
-befoulment
 boccarella
 bodings
 bowled
