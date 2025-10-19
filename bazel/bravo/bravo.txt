@@ -2563,7 +2563,6 @@ bable
 boltsmith
 bribeable
 bumpy
-barling
 broadsword
 bismuthite
 bannition
@@ -8539,6 +8538,7 @@ babungera
 billies
 bucolic
 baldacchino
+barling
 behind
 bushbeater
 biotics
