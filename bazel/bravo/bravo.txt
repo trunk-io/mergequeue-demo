@@ -8889,7 +8889,6 @@ breathier
 boches
 bookcases
 bioclimatic
-beseechingness
 bioclimatology
 bathwater
 blabber
@@ -18105,6 +18104,7 @@ blazing
 bourkha
 benedictus
 befitted
+beseechingness
 bardocucullus
 brigantia
 betusked
