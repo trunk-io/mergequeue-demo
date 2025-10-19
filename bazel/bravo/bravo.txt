@@ -1375,7 +1375,6 @@ batoneer
 beflags
 bouffants
 bigaroon
-bande
 bops
 bedye
 bohunk
@@ -11381,6 +11380,7 @@ botanists
 bailiary
 becrimed
 briskly
+bande
 bendingly
 bloodthirster
 beguiled
