@@ -3327,7 +3327,6 @@ example
 externum
 exploration
 embarks
-electrochemistry
 ezod
 ep
 euryalae
@@ -5998,6 +5997,7 @@ epimanikia
 examens
 erminites
 extremum
+electrochemistry
 epicauta
 eucarida
 effulging
