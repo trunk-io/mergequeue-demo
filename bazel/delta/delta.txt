@@ -8463,6 +8463,7 @@ dyable
 despeed
 discipline
 depreciable
+diacritic
 duskly
 denierage
 decolourized
@@ -8514,7 +8515,6 @@ disruptable
 decarburisation
 domajig
 dopy
-diacritic
 denunciated
 diffusion
 depressions
