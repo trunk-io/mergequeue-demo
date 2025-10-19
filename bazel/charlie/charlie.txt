@@ -6909,7 +6909,6 @@ charros
 chevalier
 clr
 cementification
-cyborgs
 capelet
 cyberneticists
 coloroto
@@ -12544,6 +12543,7 @@ calendarist
 cycadofilicinean
 caligo
 chromotropism
+cyborgs
 ciders
 cicatrizer
 chromoxylograph
