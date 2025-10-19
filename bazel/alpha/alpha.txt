@@ -13834,7 +13834,6 @@ anophele
 anopheles
 anophelinae
 ambsaces
-atlantic
 anaptyctic
 anophthalmos
 anopia
@@ -21047,6 +21046,7 @@ arsmetrik
 amorphophyte
 asclepidoid
 argus
+atlantic
 angiohypertonia
 archcheater
 adamant
