@@ -5829,7 +5829,6 @@ epicardial
 ecru
 expend
 escarp
-elding
 enhaemospore
 existent
 exuviability
@@ -13257,6 +13256,7 @@ epithelioblastoma
 epidemical
 echoer
 eggfish
+elding
 emparchment
 extraparenchymal
 encoring
