@@ -989,6 +989,7 @@ bushwhacked
 billeted
 barfs
 blizzards
+benevolentness
 brees
 berrylike
 bunglings
@@ -9104,7 +9105,6 @@ birds
 bushwhacking
 betask
 bistournage
-benevolentness
 beloam
 bromol
 bicalcarate
