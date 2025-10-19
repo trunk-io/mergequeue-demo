@@ -5326,7 +5326,6 @@ engraver
 endovaccination
 esthesiogen
 ecclesial
-engirdles
 expostulation
 epitimesis
 esthesiometer
@@ -6032,6 +6031,7 @@ equinovarus
 extemporizes
 epigenesis
 enfoldment
+engirdles
 emusified
 effigy
 etymologizable
