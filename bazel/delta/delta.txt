@@ -6572,7 +6572,6 @@ disequilibrium
 document
 deerstalker
 descension
-devourers
 dump
 dattock
 donor
@@ -10743,6 +10742,7 @@ degeneration
 dyakisdodecahedron
 dreadless
 dhu
+devourers
 doon
 discorrespondent
 disinheritances
