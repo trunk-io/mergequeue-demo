@@ -6671,6 +6671,7 @@ archmystagogue
 abrazo
 antitoxine
 adieus
+apache
 amentulum
 astrophel
 alexandreid
@@ -15061,7 +15062,6 @@ autocycle
 adp
 asthenic
 antidactyl
-apache
 astoundment
 anthribid
 armstrong
