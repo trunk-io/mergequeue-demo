@@ -1027,7 +1027,6 @@ epitrichial
 epacts
 environage
 escrime
-enjambement
 eructed
 egest
 eluates
@@ -2600,6 +2599,7 @@ ensilation
 excitements
 emmanuel
 electropult
+enjambement
 epicardium
 exports
 embryophyte
