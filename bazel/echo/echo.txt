@@ -6652,6 +6652,7 @@ epimedium
 entitle
 entitling
 expenders
+egol
 epicranial
 entocalcaneal
 ernesse
@@ -8524,7 +8525,6 @@ epitheloid
 exhumating
 exploiter
 ethid
-egol
 entreaty
 extraliminal
 eighteens
