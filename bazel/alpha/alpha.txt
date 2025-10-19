@@ -11282,6 +11282,7 @@ alestake
 allthing
 artworks
 annual
+activator
 arthrobranchia
 atchison
 austromancy
@@ -17272,7 +17273,6 @@ aponeurotic
 antivirus
 asceses
 anadipsia
-activator
 anhysteretic
 aponic
 airtimes
