@@ -10570,7 +10570,6 @@ confessionary
 cyprina
 chakram
 chemicophysiological
-callable
 chestnut
 corporational
 cotwist
@@ -22403,6 +22402,7 @@ conglomerating
 citrines
 cornbird
 coendure
+callable
 cordy
 conglutinant
 crossopodia
