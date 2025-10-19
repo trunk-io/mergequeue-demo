@@ -5103,7 +5103,6 @@ extrapolate
 epicarp
 encyclic
 essonite
-electrocorticogram
 embracive
 exhalants
 estampage
@@ -11563,6 +11562,7 @@ equipotential
 exorcises
 excur
 erostrate
+electrocorticogram
 empirical
 eristically
 elaphrium
