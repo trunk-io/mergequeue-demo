@@ -5162,7 +5162,6 @@ desensitizers
 dumpfile
 dendraspis
 doomwatcher
-daler
 doughface
 delightsome
 declivity
@@ -12422,6 +12421,7 @@ dexiotropism
 dishcloth
 dayberry
 disheart
+daler
 dowered
 disassembly
 dimeters
