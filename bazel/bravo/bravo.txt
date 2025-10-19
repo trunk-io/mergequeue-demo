@@ -1378,6 +1378,7 @@ bops
 bedye
 bohunk
 backyard
+breechclout
 bight
 biliment
 balibago
@@ -7643,7 +7644,6 @@ brachydactylous
 beslings
 bespirit
 barani
-breechclout
 boweled
 boongary
 bhabar
