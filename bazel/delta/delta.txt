@@ -3987,7 +3987,6 @@ dynamoneure
 delayable
 demes
 diptyca
-delayer
 diductively
 demolishment
 deluder
@@ -13569,6 +13568,7 @@ disilicane
 drugless
 dilation
 decimally
+delayer
 drowse
 dollfish
 dismeasurable
