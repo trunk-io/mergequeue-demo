@@ -12017,7 +12017,6 @@ corbula
 crusca
 caliches
 chockler
-chorusmaster
 chorussed
 chorusses
 cathedralic
@@ -26281,6 +26280,7 @@ confectionery
 coindication
 costectomies
 chummery
+chorusmaster
 costed
 coinmaker
 consolement
