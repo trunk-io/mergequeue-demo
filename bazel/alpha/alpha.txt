@@ -4960,7 +4960,6 @@ agacant
 ampul
 anaerobian
 afrikander
-acclivity
 adjuvant
 argo
 antimonic
@@ -9437,6 +9436,7 @@ allegate
 achier
 amastia
 amaze
+acclivity
 adiaphoral
 assumptiousness
 alternatingly
