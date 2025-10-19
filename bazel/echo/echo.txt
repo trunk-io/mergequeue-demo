@@ -1844,6 +1844,7 @@ equicurve
 esocyclic
 extrude
 exoticity
+entamoebiasis
 endothermal
 essenical
 ergonovine
@@ -5318,7 +5319,6 @@ elegante
 extractible
 empathizing
 evicted
-entamoebiasis
 ef
 entanglingly
 empyreum
