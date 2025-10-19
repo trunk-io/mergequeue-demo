@@ -257,7 +257,6 @@ bootes
 betrace
 brassards
 benighten
-bespelled
 belamour
 bowlines
 bellwine
@@ -8461,6 +8460,7 @@ bostangi
 billed
 balks
 bridehead
+bespelled
 bawdiest
 bimana
 byliny
