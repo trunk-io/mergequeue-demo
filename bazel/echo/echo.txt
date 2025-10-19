@@ -6735,7 +6735,6 @@ equipments
 edulcorating
 estrous
 emergencies
-effacing
 exiguity
 exsecting
 elsewhat
@@ -8991,6 +8990,7 @@ echoencephalography
 experient
 eudaemons
 ericophyte
+effacing
 erythroneocytosis
 eucaryotic
 eyewear
