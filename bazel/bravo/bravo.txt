@@ -2922,7 +2922,6 @@ burrobrush
 boracium
 butcheries
 bodhisattva
-bioethic
 blighia
 bolt
 beansetter
@@ -4600,6 +4599,7 @@ bedlamitish
 bimaculated
 bion
 burree
+bioethic
 beice
 backslid
 bedlamize
