@@ -5446,7 +5446,6 @@ effectful
 endangered
 enamelwork
 esquirearchy
-evaporite
 entheasm
 earthquake
 euxenite
@@ -6491,6 +6490,7 @@ excuseless
 encraty
 elephantlike
 enolic
+evaporite
 excrementary
 earshell
 expectorations
