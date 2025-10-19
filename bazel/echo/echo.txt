@@ -10569,7 +10569,6 @@ englify
 epithyme
 enchodontidae
 endosporic
-embrectomy
 elaborating
 erysiphe
 esterases
@@ -11512,6 +11511,7 @@ exceeder
 experimenting
 eclectic
 expurge
+embrectomy
 egyptianization
 etape
 epigastria
