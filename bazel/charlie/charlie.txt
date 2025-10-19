@@ -5426,7 +5426,6 @@ convection
 coulometer
 catadioptrical
 carmel
-cautery
 catadioptrics
 condign
 cripplers
@@ -17574,6 +17573,7 @@ curiae
 chibcha
 cocause
 cocautioner
+cautery
 cuarto
 cubitocarpal
 coccaceae
