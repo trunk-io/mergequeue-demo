@@ -19964,7 +19964,6 @@ chrysopa
 comid
 comida
 caudillo
-comiferous
 coming
 conched
 comings
@@ -29917,6 +29916,7 @@ coadjutator
 crosshatching
 chipper
 crossings
+comiferous
 crossite
 crosslegs
 consortiums
