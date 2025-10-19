@@ -6526,7 +6526,6 @@ berberi
 blockiest
 bogtrotter
 breastrope
-booleys
 baboonroot
 biohazard
 berberid
@@ -15849,6 +15848,7 @@ beaconing
 broking
 bushfighter
 brainwash
+booleys
 batler
 bulletless
 battiks
