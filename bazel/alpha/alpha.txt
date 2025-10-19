@@ -1541,7 +1541,6 @@ alchemise
 amphipodous
 amianthiform
 aistopodes
-astrophyton
 awan
 argenteum
 arpeggiando
@@ -13713,6 +13712,7 @@ aurore
 automation
 apopetalous
 acrophonically
+astrophyton
 amoles
 ascertainably
 associatory
