@@ -1863,7 +1863,6 @@ embreastment
 equicurve
 esocyclic
 extrude
-exoticity
 entamoebiasis
 exterminated
 endothermal
@@ -3286,6 +3285,7 @@ ensignry
 epileptic
 ectasis
 errantry
+exoticity
 equiponderate
 evildoing
 elderberry
