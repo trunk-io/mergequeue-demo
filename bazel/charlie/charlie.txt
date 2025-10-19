@@ -6623,6 +6623,7 @@ copepods
 cedilla
 cornbell
 cuorin
+churchified
 churchwardenize
 cedillas
 cedis
@@ -12833,7 +12834,6 @@ churchyard
 cysticercerci
 cemeterial
 churchyards
-churchified
 crabbedly
 cognisance
 chauth
