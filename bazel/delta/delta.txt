@@ -12247,6 +12247,7 @@ desmotropic
 disbandment
 disseats
 doors
+derms
 donatories
 depel
 digresser
@@ -17857,7 +17858,6 @@ dunciad
 disacknowledgements
 duopoly
 dayflowers
-derms
 demoralizingly
 driller
 docible
