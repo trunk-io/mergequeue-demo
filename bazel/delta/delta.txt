@@ -8961,7 +8961,6 @@ dispersity
 diatomist
 dot
 doohinkus
-dexes
 demimonk
 decime
 dishwiping
@@ -17635,6 +17634,7 @@ destroyable
 diaphoretics
 dimerisms
 disbarments
+dexes
 domiciliating
 deisin
 dingled
