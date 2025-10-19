@@ -5447,6 +5447,7 @@ bontebucks
 blancmanges
 beamers
 blackeners
+blindless
 brassbound
 bejuggle
 beclamored
@@ -7675,7 +7676,6 @@ buonamano
 bhikshu
 brakehand
 bullan
-blindless
 brocard
 bowstave
 blennometritis
