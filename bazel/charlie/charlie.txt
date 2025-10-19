@@ -2640,7 +2640,6 @@ caveator
 cadasters
 carriable
 clicked
-cankereat
 cankered
 crossbreeds
 catostomus
@@ -18865,6 +18864,7 @@ chronologies
 confest
 consumptivity
 coleochaetaceous
+cankereat
 coleophoridae
 coaptation
 cardiotoxic
