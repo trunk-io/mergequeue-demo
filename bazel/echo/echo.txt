@@ -5971,7 +5971,6 @@ epanorthosis
 epimanikia
 examens
 erminites
-elvet
 extremum
 epicauta
 eucarida
@@ -6134,6 +6133,7 @@ esophagomycosis
 ethylenoid
 enrichener
 exotism
+elvet
 eruptiveness
 examinee
 embloom
