@@ -2452,6 +2452,7 @@ allochlorophyll
 aglycons
 anoxic
 aircheck
+alegar
 amelcorn
 acroterteria
 anaktoron
@@ -11413,7 +11414,6 @@ adenographer
 accersition
 antilife
 adducible
-alegar
 autocollimator
 anglewise
 ametoecious
