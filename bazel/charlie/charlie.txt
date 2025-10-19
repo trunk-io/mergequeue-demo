@@ -11706,7 +11706,6 @@ cholla
 clairsentient
 crossable
 cryogen
-chollas
 chameleonize
 claries
 corruptness
@@ -29187,6 +29186,7 @@ catrigged
 cryostase
 cryostat
 cryosurgery
+chollas
 cryptogamia
 concurs
 cobaltammine
