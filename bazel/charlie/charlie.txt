@@ -6229,7 +6229,6 @@ customed
 crassulaceae
 conche
 caulinar
-caulis
 caulivorous
 choanosomal
 caulkers
@@ -9499,6 +9498,7 @@ check
 communizing
 checkage
 checkbook
+caulis
 champ
 cryptobatholithic
 cableways
