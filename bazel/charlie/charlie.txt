@@ -2540,6 +2540,7 @@ careys
 cardioschisis
 chlamydomonas
 caterans
+compensability
 cryptocrystallization
 choirmasters
 columnar
@@ -7164,7 +7165,6 @@ containedly
 centricae
 centrically
 cacospermia
-compensability
 concise
 corruptest
 clamors
