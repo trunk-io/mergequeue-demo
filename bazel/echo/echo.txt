@@ -4208,6 +4208,7 @@ escalations
 eluder
 ellfish
 electromedical
+eval
 enamels
 evocatively
 egal
@@ -6201,7 +6202,6 @@ enzymically
 ens
 ecce
 enkidu
-eval
 emporium
 errite
 emotionalize
