@@ -5441,7 +5441,6 @@ electrocutes
 electrophorus
 enfeebles
 effude
-eventime
 epigrammatised
 eleazar
 exterminate
@@ -12268,6 +12267,7 @@ esquire
 elkhound
 ectoplacenta
 esophagean
+eventime
 elkesaite
 epigone
 enlimn
