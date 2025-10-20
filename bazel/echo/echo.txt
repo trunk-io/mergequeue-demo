@@ -1910,7 +1910,6 @@ enc
 esthetician
 econometrist
 edward
-exophoric
 esloign
 exposing
 escheatment
@@ -3305,6 +3304,7 @@ erythrosiderite
 elenge
 eyry
 eremic
+exophoric
 exopodite
 enrace
 easternly
