@@ -12424,7 +12424,6 @@ chiffchaff
 confessarius
 compatriot
 carronade
-carolers
 chromidium
 cerebrum
 cowage
@@ -26089,6 +26088,7 @@ cornetter
 corrosiveness
 curiosi
 convallariaceae
+carolers
 counterfix
 cotemporarily
 christiad
