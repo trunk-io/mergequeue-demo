@@ -3490,6 +3490,7 @@ counterbase
 cladonioid
 cuddle
 conglomerations
+cubage
 coparent
 capulet
 caputium
@@ -19539,7 +19540,6 @@ colourers
 caveated
 cereza
 catchland
-cubage
 circuitmen
 calendering
 coloury
