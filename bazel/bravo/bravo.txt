@@ -2628,7 +2628,6 @@ bemaul
 barnman
 bosser
 boomtowns
-barnstormer
 bannack
 bounced
 bonnyclabber
@@ -3519,6 +3518,7 @@ brantle
 breadman
 byrlakin
 bloodflower
+barnstormer
 beastly
 bandana
 blobbier
