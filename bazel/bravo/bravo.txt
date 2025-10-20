@@ -2728,6 +2728,7 @@ brownouts
 bicompact
 backfill
 brookside
+burgamot
 beldams
 baroqueness
 blonder
@@ -14486,7 +14487,6 @@ braining
 braggadocianism
 braiders
 brothellike
-burgamot
 blocked
 bigaroons
 bakeboard
