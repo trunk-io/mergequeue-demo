@@ -9464,7 +9464,6 @@ afrikaans
 agremens
 auchenium
 acnodal
-aor
 antiluetin
 applicatory
 austerlitz
@@ -21982,6 +21981,7 @@ aforementioned
 addeem
 associateship
 asmalte
+aor
 alkalinize
 apices
 ambagious
