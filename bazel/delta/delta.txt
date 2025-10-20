@@ -576,7 +576,6 @@ denominationalize
 dermatocyst
 div
 dover
-dominants
 digenea
 disturber
 downweight
@@ -3694,6 +3693,7 @@ dissent
 douching
 degust
 degusted
+dominants
 dregginess
 drouking
 dehair
