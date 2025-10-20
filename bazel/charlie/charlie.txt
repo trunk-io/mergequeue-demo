@@ -1764,6 +1764,7 @@ chicanes
 calzada
 camaldolese
 camaldolesian
+cryptarch
 campestral
 camaldule
 complecting
@@ -29230,7 +29231,6 @@ cothamore
 conopodium
 capybara
 campephagine
-cryptarch
 composure
 cardiosphygmogram
 caracols
