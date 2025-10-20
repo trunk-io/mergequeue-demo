@@ -1161,7 +1161,6 @@ externalize
 expandible
 exumbrellar
 effect
-exeat
 electropism
 euonymy
 enmove
@@ -4295,6 +4294,7 @@ embar
 exemplified
 eo
 emancipations
+exeat
 exploitative
 entapophysis
 egotize
