@@ -9283,6 +9283,7 @@ cavern
 carpophyll
 commissioner
 chatons
+crabgrass
 conveyer
 cytogenesis
 cobloaf
@@ -27924,7 +27925,6 @@ caproic
 chivied
 canchas
 craber
-crabgrass
 couve
 crablet
 crablike
