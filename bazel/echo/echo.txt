@@ -4666,7 +4666,6 @@ exhumers
 exactress
 expensed
 earthmove
-erase
 entryway
 electroshock
 eyelets
@@ -10765,6 +10764,7 @@ estrildine
 eutaxies
 embryotome
 exuded
+erase
 epilogist
 experimentor
 excur
