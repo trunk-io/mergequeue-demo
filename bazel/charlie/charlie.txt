@@ -2217,7 +2217,6 @@ conceivers
 canafistola
 crackliest
 concertgoer
-canaille
 cymoid
 commonwealth
 colatorium
@@ -8664,6 +8663,7 @@ cenation
 chansonnette
 chansonniers
 chantey
+canaille
 carborundum
 counterlighted
 compatibility
