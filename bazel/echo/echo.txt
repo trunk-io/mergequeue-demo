@@ -5093,7 +5093,6 @@ ergs
 ecdysones
 ependytes
 extrudability
-ecphore
 emanant
 endodontically
 ectosphenoid
@@ -5899,6 +5898,7 @@ emforth
 enneateric
 edition
 endamoebidae
+ecphore
 exigence
 electricalness
 erme
