@@ -7572,7 +7572,6 @@ extrusory
 exciton
 ectocrine
 excriminate
-espece
 expediter
 eumycetic
 electrophori
@@ -8499,6 +8498,7 @@ evanid
 ethid
 entreaty
 extraliminal
+espece
 eighteens
 equilibriums
 encirclements
