@@ -376,6 +376,7 @@ barostat
 beplaster
 boiloffs
 botein
+beamed
 bilsted
 bairns
 bourree
@@ -7455,7 +7456,6 @@ bestower
 bromoauric
 betaine
 bufonidae
-beamed
 businessman
 begoggled
 begeck

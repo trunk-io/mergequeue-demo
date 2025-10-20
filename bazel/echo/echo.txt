@@ -4417,7 +4417,6 @@ euchysiderite
 elong
 enwoman
 eryon
-excludes
 ensient
 etiophyllin
 enticeable
@@ -11873,6 +11872,7 @@ enfonced
 eched
 echimys
 effervescing
+excludes
 epicerebral
 extrality
 electral
