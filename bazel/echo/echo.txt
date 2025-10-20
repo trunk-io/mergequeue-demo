@@ -1863,7 +1863,6 @@ envenomed
 embreastment
 equicurve
 esocyclic
-extrude
 entamoebiasis
 exterminated
 endothermal
@@ -11348,6 +11347,7 @@ enchiridion
 electrothermotic
 endorsation
 eloquential
+extrude
 emeried
 evolver
 equiponderance
