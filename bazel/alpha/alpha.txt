@@ -1364,7 +1364,6 @@ accidential
 antiquarianly
 amphidiscophora
 append
-ambisyllabic
 agorot
 asperifoliae
 argosy
@@ -5580,6 +5579,7 @@ agalma
 antipeptone
 agalwoods
 adulter
+ambisyllabic
 asheries
 ammonolytic
 appointments
