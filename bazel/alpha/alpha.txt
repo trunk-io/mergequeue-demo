@@ -2731,7 +2731,6 @@ appulses
 ariettes
 adinida
 acromphalus
-absit
 anglomane
 airsheet
 abiuret
@@ -13641,6 +13640,7 @@ assonant
 ageratums
 azygobranchiate
 aguilt
+absit
 arcate
 astroscopy
 antimaterialistic
