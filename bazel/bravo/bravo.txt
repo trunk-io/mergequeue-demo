@@ -2460,7 +2460,6 @@ blattariae
 blister
 bregmate
 biberon
-brattles
 beruffled
 belibel
 bromoethylene
@@ -12757,6 +12756,7 @@ benchless
 beetling
 babydom
 behaviour
+brattles
 blastophthoric
 bostryx
 booker
