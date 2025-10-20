@@ -3467,6 +3467,7 @@ defoliants
 drippier
 debilitant
 drowningly
+disownable
 diapered
 dichroscope
 decelerating
@@ -14953,7 +14954,6 @@ downcastly
 dogear
 dogears
 dogedom
-disownable
 diptote
 dispetal
 dysoxidizable
