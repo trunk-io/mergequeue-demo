@@ -951,7 +951,6 @@ aggregable
 acrocyanosis
 anthomyiidae
 alvah
-armyworm
 anthropopathic
 amassable
 aulacomniaceae
@@ -4905,6 +4904,7 @@ anthozoon
 avigate
 allographic
 arborean
+armyworm
 adenoviral
 abv
 adobos
