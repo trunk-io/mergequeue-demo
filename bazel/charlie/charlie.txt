@@ -19345,6 +19345,7 @@ colonisable
 clinid
 coelomate
 colletside
+cordons
 colonise
 colonist
 colonize
@@ -25129,7 +25130,6 @@ cleading
 cordoned
 cordoning
 chere
-cordons
 conglutinate
 craftmanship
 circumgestation
