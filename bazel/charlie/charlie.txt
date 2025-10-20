@@ -5569,6 +5569,7 @@ cavina
 catapleiite
 crenel
 cozen
+cobblestone
 conveyorized
 catapulted
 cowing
@@ -17500,7 +17501,6 @@ cobbled
 cobblerfish
 cobblerism
 cobblership
-cobblestone
 clepsydras
 classicize
 cobblestoned
