@@ -2488,7 +2488,6 @@ allocated
 auxoflore
 anonyma
 anthema
-apiaries
 agonizer
 allot
 antescript
@@ -24124,6 +24123,7 @@ atlantosaurus
 acquires
 amoraim
 autocratrix
+apiaries
 auxograph
 acarian
 aglimmer
