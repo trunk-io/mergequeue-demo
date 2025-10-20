@@ -1563,7 +1563,6 @@ boud
 boyarism
 barbells
 burr
-bramble
 ballottement
 bhajan
 backlotter
@@ -3739,6 +3738,7 @@ breakwind
 bepretty
 botchily
 boomed
+bramble
 brierroot
 braggadocio
 bawra
