@@ -1295,6 +1295,7 @@ dompt
 dummel
 debouches
 damagement
+disdains
 decomposability
 deceptory
 dart
@@ -6771,7 +6772,6 @@ designedness
 designment
 demiurgism
 dillyman
-disdains
 demimillionaire
 docilely
 disinheriting
