@@ -2785,7 +2785,6 @@ chit
 cukes
 cyclops
 completes
-canoewood
 coincident
 canoing
 carnauba
@@ -12423,6 +12422,7 @@ chiffchaff
 confessarius
 compatriot
 carronade
+canoewood
 carolers
 chromidium
 cerebrum
