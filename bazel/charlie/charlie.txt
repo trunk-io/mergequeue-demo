@@ -5668,6 +5668,7 @@ catchpoll
 contribute
 catchweight
 caretaker
+carnivores
 catchword
 centuplicated
 counterinsurgents
@@ -30093,7 +30094,6 @@ completement
 chinchier
 columbo
 condescendingly
-carnivores
 circumambiencies
 cephalophorous
 cavitate
