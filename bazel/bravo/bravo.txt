@@ -402,7 +402,6 @@ brushes
 bowerly
 bequeath
 bellyache
-bdelloid
 backgammon
 booklores
 barbarical
@@ -6092,6 +6091,7 @@ boomers
 banjoist
 braziers
 blanker
+bdelloid
 burgessdom
 bianco
 beaconed
