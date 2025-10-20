@@ -220,7 +220,6 @@ bogeyed
 bitt
 bubble
 bluffness
-borderlight
 bacchanalian
 banners
 bacchanals
@@ -12392,6 +12391,7 @@ biskop
 bourgade
 bornyl
 bracteal
+borderlight
 bookplates
 batuque
 bookboard
