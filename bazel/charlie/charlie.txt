@@ -6617,7 +6617,6 @@ cedars
 cerambycid
 coadjuvancy
 cassegrain
-creply
 chrobat
 ceded
 ceders
@@ -25973,6 +25972,7 @@ ceintures
 corticotrophin
 curtsying
 collaborativeness
+creply
 cinerary
 cortina
 catogene
