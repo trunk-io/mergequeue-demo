@@ -7534,7 +7534,6 @@ buffont
 befall
 belverdian
 bowmen
-barbudos
 butterbump
 bounder
 bdellouridae
@@ -15237,6 +15236,7 @@ beforementioned
 briarean
 bronziest
 bottomer
+barbudos
 bhar
 borates
 bribable
