@@ -1867,7 +1867,6 @@ burbler
 bowed
 bocaccios
 benefice
-ballone
 balances
 bandstring
 batteling
@@ -8384,6 +8383,7 @@ bilianic
 boreism
 ballast
 bonnier
+ballone
 biliferous
 bowerlike
 baptises
