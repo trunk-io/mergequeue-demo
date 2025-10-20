@@ -6455,7 +6455,6 @@ chromoscope
 cornbread
 caudation
 cavekeeper
-complementizer
 cairds
 celluloid
 cavelet
@@ -29879,6 +29878,7 @@ cycloscope
 comfortability
 crose
 croset
+complementizer
 carnalism
 crosiered
 capsumin
