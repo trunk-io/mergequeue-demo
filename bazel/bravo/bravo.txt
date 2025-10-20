@@ -2799,7 +2799,6 @@ beprank
 bracero
 bilocation
 broadcasts
-bandagist
 blastophore
 bandit
 blossoms
@@ -10269,6 +10268,7 @@ banian
 bowstaff
 blackneck
 blurs
+bandagist
 bibliological
 boredom
 bota
