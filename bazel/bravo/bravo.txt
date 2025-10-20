@@ -11532,7 +11532,6 @@ behaves
 baja
 bromthymol
 bubastite
-blankish
 blufter
 baume
 benzenoid
@@ -17862,6 +17861,7 @@ blutwurst
 blotch
 boorga
 burtonization
+blankish
 bhungini
 beached
 bridewell
