@@ -4733,7 +4733,6 @@ endocytotic
 exodos
 eparchs
 equidifferent
-exsuction
 electro
 electrotheraputic
 exponible
@@ -7069,6 +7068,7 @@ emporiria
 enterectomy
 electrotropic
 eucrites
+exsuction
 epichoric
 eveline
 equimolecular
