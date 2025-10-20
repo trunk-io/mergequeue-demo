@@ -378,7 +378,6 @@ abominations
 argasidae
 aerophone
 acephalina
-architectures
 assayers
 aberrants
 auditotoria
@@ -1167,6 +1166,7 @@ alabastoi
 acoasma
 admissibly
 apostrophal
+architectures
 aurorae
 afforest
 amidst
