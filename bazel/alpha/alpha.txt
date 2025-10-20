@@ -13787,7 +13787,6 @@ automa
 acetyl
 annuler
 anomalogonatae
-augitic
 abandonable
 abys
 anodos
@@ -16678,6 +16677,7 @@ alleger
 acetylcholinesterase
 achromatopsia
 allergen
+augitic
 astrobiology
 antihylist
 automolite
