@@ -6676,7 +6676,6 @@ annoyances
 appealability
 arrived
 achromatophilia
-asyndeta
 androeccia
 abbreviatory
 airbills
@@ -9796,6 +9795,7 @@ alloploidy
 auriscalp
 attractiveness
 antiquary
+asyndeta
 atar
 amarantaceae
 attornment
