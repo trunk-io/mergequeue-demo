@@ -4399,6 +4399,7 @@ dc
 dishonourableness
 degradand
 demarcates
+designator
 demarcation
 daphnaceae
 dulseman
@@ -8153,7 +8154,6 @@ defs
 diploplacular
 desucration
 dinaphthyl
-designator
 destroyer
 daftardar
 diarial
