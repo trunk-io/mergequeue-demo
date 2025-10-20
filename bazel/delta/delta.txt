@@ -4683,7 +4683,6 @@ disrate
 decretal
 diapason
 ducky
-demiox
 disenthrall
 diaphones
 diplocardia
@@ -10480,6 +10479,7 @@ dioptometer
 deoxidized
 dermutation
 disnature
+demiox
 deputes
 dizzyingly
 drownds
