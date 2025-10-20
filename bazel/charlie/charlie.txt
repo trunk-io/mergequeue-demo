@@ -6785,7 +6785,6 @@ cellaress
 calamus
 culmen
 cellars
-churrus
 counterservice
 corvoid
 cellblock
@@ -11388,6 +11387,7 @@ curably
 cooptative
 charcia
 chaneled
+churrus
 custodianship
 capful
 cystorrhagia
