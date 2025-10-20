@@ -7898,6 +7898,7 @@ artlike
 arenas
 argle
 aedile
+authenticator
 aquilino
 attributive
 a
@@ -17294,7 +17295,6 @@ amyotrophy
 anhistous
 alumin
 appreciates
-authenticator
 aphrodisia
 affile
 anemious
