@@ -872,6 +872,7 @@ bequirtle
 bannered
 bumperette
 bazookaman
+brickly
 bravely
 balneal
 bidarkas
@@ -13060,7 +13061,6 @@ bedimplies
 bonder
 barmaid
 ballium
-brickly
 brideless
 barcas
 beplumed
