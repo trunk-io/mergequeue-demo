@@ -1455,7 +1455,6 @@ bacteremia
 borstal
 berglet
 ballism
-bedsick
 blague
 bacteriotropic
 balladism
@@ -9829,6 +9828,7 @@ bartlemy
 betell
 blimpishness
 bedridden
+bedsick
 bridgehead
 backrun
 brassicaceous
