@@ -1840,7 +1840,6 @@ examinability
 euploidy
 embossment
 entomofauna
-eurystheus
 erasing
 examines
 englishing
@@ -6127,6 +6126,7 @@ emulable
 endocarpoid
 endocervical
 esophagostenosis
+eurystheus
 employability
 eardrops
 eclogue
