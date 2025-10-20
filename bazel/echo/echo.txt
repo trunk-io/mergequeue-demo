@@ -7001,6 +7001,7 @@ electromyographic
 embden
 enthusing
 educationese
+encryption
 enwomb
 ecclesiasticus
 erythrolysin
@@ -10633,7 +10634,6 @@ energising
 echini
 exponentiates
 enclog
-encryption
 eradiate
 espiglerie
 epithelia
