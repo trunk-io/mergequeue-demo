@@ -1930,6 +1930,7 @@ crepes
 crankpin
 clobbering
 consolers
+catadioptrics
 camion
 camions
 camisa
@@ -5419,7 +5420,6 @@ convection
 coulometer
 catadioptrical
 carmel
-catadioptrics
 condign
 cripplers
 convally
