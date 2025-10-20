@@ -1101,6 +1101,7 @@ endogenous
 electrocutioner
 emetics
 eme
+electrophotometer
 erigenia
 enneastyle
 exedent
@@ -3448,7 +3449,6 @@ exolete
 etcetera
 eunomianism
 elytriform
-electrophotometer
 enhaloes
 epistemophilic
 effulges
