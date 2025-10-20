@@ -591,7 +591,6 @@ abode
 archbishoprics
 axis
 autoeducation
-anthroponomics
 axlike
 anticipator
 aedeagus
@@ -10742,6 +10741,7 @@ auxiliar
 apprizing
 ambassadeur
 anticyclic
+anthroponomics
 astonished
 algodon
 atherinidae
