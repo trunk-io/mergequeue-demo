@@ -133,6 +133,7 @@ elflock
 examiner
 exiling
 emeras
+emulatory
 espresso
 exclamatively
 earthquaken
@@ -5718,7 +5719,6 @@ eglandulous
 excisions
 embraces
 epopees
-emulatory
 electrovalency
 etheling
 enounced
