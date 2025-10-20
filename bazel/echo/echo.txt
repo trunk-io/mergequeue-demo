@@ -3745,7 +3745,6 @@ englishize
 escamotage
 epiphyllum
 ejacula
-ethnos
 entresalle
 ethiodide
 eyespots
@@ -12595,6 +12594,7 @@ exceeds
 epidemiologically
 emotiovascular
 equivoque
+ethnos
 eriophyid
 ephemerally
 epirot
