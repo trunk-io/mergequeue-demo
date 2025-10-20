@@ -14907,6 +14907,7 @@ certificate
 caci
 confixing
 cytologic
+craniopathic
 chapote
 cytologically
 cylindriform
@@ -28185,7 +28186,6 @@ craniom
 cateran
 clubroot
 coburgher
-craniopathic
 cranioschisis
 checkup
 cranioscopy
