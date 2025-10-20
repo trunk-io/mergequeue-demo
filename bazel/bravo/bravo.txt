@@ -9169,7 +9169,6 @@ basics
 beflag
 brutisms
 biotypes
-banderillero
 bevomit
 boubou
 bumblingly
@@ -13641,6 +13640,7 @@ brighella
 bioscopes
 banca
 bacchian
+banderillero
 barie
 bibliokleptomania
 baroco
