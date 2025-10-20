@@ -1865,6 +1865,7 @@ equicurve
 esocyclic
 extrude
 entamoebiasis
+extrapolative
 exterminated
 endothermal
 essenical
@@ -2943,7 +2944,6 @@ experimentator
 enjoy
 etwite
 eventuations
-extrapolative
 eyoty
 entireties
 elytrorhagia
