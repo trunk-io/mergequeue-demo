@@ -2692,7 +2692,6 @@ demetallize
 deedful
 describable
 dassy
-decorator
 deliberated
 dihalide
 dumdums
@@ -4885,6 +4884,7 @@ demodulating
 detruncated
 datasetname
 dextrotropic
+decorator
 debenture
 dystocias
 dialyzes
