@@ -5771,7 +5771,6 @@ bellwort
 bogglish
 ballpoint
 belonger
-biased
 bared
 bonnocks
 bee
@@ -17119,6 +17118,7 @@ bearder
 bioethics
 beatably
 bignonias
+biased
 blinkering
 bulldogging
 bulgarian
