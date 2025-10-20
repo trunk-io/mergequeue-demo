@@ -9955,7 +9955,6 @@ controls
 carices
 chemotherapeutical
 chemotherapeutically
-ceramicite
 casse
 clericality
 compossibility
@@ -28637,6 +28636,7 @@ chiefdom
 cavillation
 chunter
 counterreconnaissance
+ceramicite
 cremaster
 colinearity
 cyanogenesis
