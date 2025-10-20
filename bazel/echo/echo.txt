@@ -3955,7 +3955,6 @@ elegies
 enamorment
 expurgated
 empyemic
-ellipsoid
 enamourment
 ephemeran
 empiercement
@@ -5506,6 +5505,7 @@ embodiment
 enterodynia
 evibrate
 ethmoids
+ellipsoid
 esculic
 eopaleozoic
 emigratory
