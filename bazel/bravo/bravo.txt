@@ -5873,6 +5873,7 @@ bevaring
 bulletheaded
 buaze
 bossier
+buttonweed
 bimilllennia
 brewis
 betask
@@ -18431,7 +18432,6 @@ bespake
 baulk
 bahoo
 bagwash
-buttonweed
 bxs
 balloonfishes
 bivector
