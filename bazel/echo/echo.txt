@@ -8573,7 +8573,6 @@ entomophily
 enthalpies
 etatisme
 endemiology
-enumerable
 equipoise
 estrone
 eye
@@ -9149,6 +9148,7 @@ empathizing
 ergotization
 essentials
 embosk
+enumerable
 esopgi
 enteradenological
 eastings
