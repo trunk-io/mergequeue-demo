@@ -4313,7 +4313,6 @@ encounters
 environmentally
 expectorate
 escapees
-evocation
 encanthis
 ensigncies
 emetins
@@ -10372,6 +10371,7 @@ epihippus
 edacity
 egocentristic
 exit
+evocation
 elvanite
 egged
 enterpriseless
