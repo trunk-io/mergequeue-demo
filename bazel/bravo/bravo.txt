@@ -2570,7 +2570,6 @@ bribeable
 bumpy
 broadsword
 bismuthite
-bannition
 bitewing
 burdenless
 barretter
@@ -12421,6 +12420,7 @@ bonacis
 blackish
 berakot
 brisker
+bannition
 bisinuation
 badigeon
 bonapartism
