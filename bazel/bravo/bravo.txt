@@ -7602,7 +7602,6 @@ bankroller
 ballistics
 biscuitroot
 blastaea
-battler
 bahar
 bairnteem
 bourgeoisitic
@@ -12486,6 +12485,7 @@ balbutiate
 bullyrock
 bellybuttons
 bookroom
+battler
 bellhanging
 bawdrick
 bivalent
