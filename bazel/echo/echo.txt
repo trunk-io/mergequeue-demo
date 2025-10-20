@@ -1662,7 +1662,6 @@ echites
 encapsulating
 epitaxis
 endomorph
-extemporize
 enamber
 embankments
 estall
@@ -10879,6 +10878,7 @@ empierce
 euxenites
 enjambments
 eighteenmos
+extemporize
 effigurate
 erysipelous
 eskimo
