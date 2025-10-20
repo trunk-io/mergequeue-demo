@@ -10541,7 +10541,6 @@ absorptiometer
 amidoplastid
 approximator
 alkalify
-amids
 att
 adat
 anathemize
@@ -13591,6 +13590,7 @@ autostethoscope
 actuator
 avocet
 arneb
+amids
 autotropism
 anisole
 armigeri
