@@ -405,6 +405,7 @@ bellyache
 bdelloid
 backgammon
 booklores
+bool
 barbarical
 boydom
 biomorphic
@@ -8368,7 +8369,6 @@ baignet
 bloodcurdling
 bruchus
 bromobenzene
-bool
 bewall
 bildar
 brahmanize
