@@ -4754,6 +4754,7 @@ carrick
 carrycot
 carried
 carryed
+chopfallen
 contrefort
 carryings
 cozy
@@ -26967,7 +26968,6 @@ celestify
 contam
 catted
 causationist
-chopfallen
 catalatic
 conjunctiveness
 cartonniers
