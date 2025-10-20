@@ -5783,6 +5783,7 @@ bullions
 baggies
 brazed
 barns
+burfish
 blisses
 bayesian
 bisnagas
@@ -8107,7 +8108,6 @@ biens
 baccies
 baselessness
 bindweb
-burfish
 bethabara
 broid
 bleb
