@@ -6046,7 +6046,6 @@ auramine
 angioplasty
 areometric
 alligatorfishes
-appointment
 afterstretch
 arthropathology
 actinoneuritis
@@ -18658,6 +18657,7 @@ archaeographical
 aegisthus
 alleluia
 aftershine
+appointment
 apocentricity
 astarte
 audits
