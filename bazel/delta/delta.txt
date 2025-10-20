@@ -3209,6 +3209,7 @@ dogmatist
 docked
 dropline
 dirty
+disarticulator
 dekle
 distrouser
 declinograph
@@ -17340,7 +17341,6 @@ dropberry
 dropcloth
 dropforge
 drophead
-disarticulator
 disentrammel
 deterrently
 disembody
