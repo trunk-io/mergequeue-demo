@@ -1501,7 +1501,6 @@ corruptibilities
 clatterer
 cellarwoman
 callithumpian
-chapeaux
 cystitome
 crenitic
 cartographer
@@ -26090,6 +26089,7 @@ cubbies
 chowderheadedness
 chants
 cithara
+chapeaux
 capling
 cosigning
 circuli
