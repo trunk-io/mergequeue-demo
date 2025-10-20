@@ -10280,7 +10280,6 @@ boolean
 bulleting
 biofeedback
 berries
-buttonhook
 bundocks
 boltel
 botargo
@@ -11188,6 +11187,7 @@ bellow
 beneme
 brawler
 bribee
+buttonhook
 bunglesome
 beliquors
 bunning
