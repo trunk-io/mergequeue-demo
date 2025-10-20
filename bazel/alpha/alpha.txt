@@ -5582,6 +5582,7 @@ aphrasia
 achitophel
 arder
 allocator
+affrighter
 apprehend
 alcayde
 ara
@@ -19489,7 +19490,6 @@ areaway
 apperceive
 ascribe
 asterales
-affrighter
 apiin
 avenolith
 articulant
