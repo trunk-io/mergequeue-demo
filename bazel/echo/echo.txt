@@ -1585,7 +1585,6 @@ employ
 embrutes
 embolite
 expiscation
-equiangularity
 endangium
 expulsatory
 enfold
@@ -4820,6 +4819,7 @@ encranial
 extinct
 expectorator
 ew
+equiangularity
 embattling
 erythritol
 encaptivate
