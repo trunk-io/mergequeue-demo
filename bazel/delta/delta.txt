@@ -9033,6 +9033,7 @@ draglines
 depends
 destructibleness
 dewclawed
+dismemberment
 docile
 dilutely
 dibranchiata
@@ -14541,7 +14542,6 @@ decomposition
 demiurgus
 dentalman
 deoxyribonucleoprotein
-dismemberment
 distylar
 dups
 denotive
