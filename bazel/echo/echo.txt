@@ -5591,7 +5591,6 @@ entailment
 equisetic
 epigrammatical
 emerson
-encysting
 epural
 exameter
 eohippus
@@ -6367,6 +6366,7 @@ entocuneiform
 elegances
 egocentric
 ephelis
+encysting
 epimere
 erubescence
 eidently
