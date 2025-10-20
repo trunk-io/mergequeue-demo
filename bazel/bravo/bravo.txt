@@ -4257,6 +4257,7 @@ blowhole
 birdseeds
 breechloading
 blacklegging
+binoculars
 brachycerous
 bromating
 bogard
@@ -8888,7 +8889,6 @@ bounty
 boart
 bioelectrical
 bigamous
-binoculars
 broadener
 blushed
 bash
