@@ -6207,6 +6207,7 @@ briefs
 bonnive
 budbreak
 becassine
+bower
 beardom
 braver
 bugbanes
@@ -8701,7 +8702,6 @@ begazing
 baronet
 birotatory
 barton
-bower
 borzicactus
 benzhydroxamic
 binding
