@@ -1667,7 +1667,6 @@ enamber
 embankments
 estall
 egrid
-epitrochoid
 encompasser
 enable
 epitonium
@@ -11344,6 +11343,7 @@ encephalosepsis
 excreting
 elegize
 encipherments
+epitrochoid
 enchiridion
 electrothermotic
 endorsation
