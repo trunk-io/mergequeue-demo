@@ -6850,6 +6850,7 @@ appertained
 airspace
 acidified
 addable
+angiometer
 anorthopia
 attributes
 anterin
@@ -12245,7 +12246,6 @@ amphiscii
 attrist
 antisepsin
 allelotropy
-angiometer
 awest
 altruism
 annealing

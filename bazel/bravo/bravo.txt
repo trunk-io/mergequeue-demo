@@ -8364,6 +8364,7 @@ blastide
 bocage
 balolo
 bilaminar
+begobs
 blart
 backscattered
 bandh
@@ -9815,7 +9816,6 @@ bissextus
 bullbats
 blisters
 bombylious
-begobs
 bumfuzzle
 barleduc
 botticellian
