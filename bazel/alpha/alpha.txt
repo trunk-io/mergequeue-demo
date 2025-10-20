@@ -4513,7 +4513,6 @@ armory
 aediculae
 anaesthesiologist
 augurer
-aphidiinae
 absey
 alorcinic
 alimenation
@@ -6592,6 +6591,7 @@ autocatalysis
 autonavigators
 athericerous
 ambitionless
+aphidiinae
 autographometer
 ampelitic
 actinometers
