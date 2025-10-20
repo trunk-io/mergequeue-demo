@@ -8799,7 +8799,6 @@ extruded
 evidenced
 eremitical
 exilement
-enameled
 ecclesiarch
 enshadow
 emplunge
@@ -11626,6 +11625,7 @@ equilocation
 emptyhearted
 electrostenolysis
 emollient
+enameled
 elutes
 exarate
 eucre
