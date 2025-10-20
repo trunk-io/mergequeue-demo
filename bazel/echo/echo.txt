@@ -2682,7 +2682,6 @@ edicts
 envy
 excuderunt
 erythema
-endow
 enzyme
 endosteomas
 ensanguined
@@ -12012,6 +12011,7 @@ endoneurial
 entocranial
 epineural
 edged
+endow
 endrins
 entorganism
 electroculture
