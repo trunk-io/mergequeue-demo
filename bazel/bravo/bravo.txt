@@ -2564,7 +2564,6 @@ berating
 befriend
 bilge
 brutalness
-breviature
 bable
 boltsmith
 bleated
@@ -8199,6 +8198,7 @@ baffleplate
 briefer
 bathorse
 burstiness
+breviature
 brachydodromous
 bodyweight
 bream
