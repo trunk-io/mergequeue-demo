@@ -20104,7 +20104,6 @@ clinopyramid
 coppers
 caball
 commender
-craftsman
 commending
 cadette
 cyanamide
@@ -23382,6 +23381,7 @@ canopic
 corrasive
 consumptions
 choletherapy
+craftsman
 culrage
 canell
 consumptively
