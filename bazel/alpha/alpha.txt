@@ -913,7 +913,6 @@ antitonic
 almondlike
 azeotropic
 alloclasite
-accend
 aestivate
 adulterately
 antimystically
@@ -14373,6 +14372,7 @@ anterosuperior
 alterius
 antesternum
 auriscope
+accend
 antetemple
 antevert
 anteverting
