@@ -9880,7 +9880,6 @@ berth
 binocular
 bromatology
 benignant
-bitable
 bargainee
 bohemia
 brunch
@@ -14263,6 +14262,7 @@ baikerite
 brazes
 betwixen
 bractlets
+bitable
 bedwarmer
 bugseed
 brines
