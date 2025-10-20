@@ -4238,6 +4238,7 @@ bedeafens
 birdmouthed
 beachmaster
 burrhead
+bitis
 bushfighter
 bartering
 bunyas
@@ -8110,7 +8111,6 @@ beblooded
 bown
 byplace
 baryes
-bitis
 beworry
 brunfelsia
 baccar
