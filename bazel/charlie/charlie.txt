@@ -4104,7 +4104,6 @@ celts
 carilloneur
 catso
 capsulectomy
-csects
 capite
 cinel
 crackless
@@ -9928,6 +9927,7 @@ consumptible
 clays
 cresamine
 centerwise
+csects
 chronobiology
 contributary
 chemosorption
