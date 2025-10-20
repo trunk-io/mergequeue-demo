@@ -521,7 +521,6 @@ brab
 biserial
 briming
 broadway
-besiclometer
 bedumb
 bcd
 bier
@@ -16801,6 +16800,7 @@ biassedly
 beggarweed
 beefish
 blinder
+besiclometer
 boldfaces
 bucrane
 bromised
