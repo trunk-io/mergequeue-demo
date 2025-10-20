@@ -1391,7 +1391,6 @@ bugler
 boroughmaster
 bathtubful
 bathrooms
-balinghasay
 balistes
 baffeta
 balistid
@@ -3074,6 +3073,7 @@ baloneys
 byland
 blastozooid
 bromelia
+balinghasay
 boohooing
 basidigital
 barrigudo
