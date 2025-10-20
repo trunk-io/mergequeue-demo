@@ -6089,7 +6089,6 @@ boodle
 buffing
 boomers
 banjoist
-battlegrounds
 braziers
 blanker
 burgessdom
@@ -6983,6 +6982,7 @@ biconditional
 bluffy
 boustrophedon
 bascules
+battlegrounds
 beadledom
 belletrist
 besoot
