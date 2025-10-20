@@ -9029,6 +9029,7 @@ dehorners
 dentile
 drung
 diffractions
+dkm
 draglines
 depends
 destructibleness
@@ -12426,7 +12427,6 @@ decempartite
 dispeace
 diagnosticating
 demulceate
-dkm
 didymiums
 disadvance
 diphosphid
