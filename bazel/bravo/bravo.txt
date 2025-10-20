@@ -10765,7 +10765,6 @@ befreeze
 boutell
 barrelet
 barrators
-burial
 benzidin
 bestill
 bowpots
@@ -14296,6 +14295,7 @@ beadlet
 bradyseism
 byroniana
 bradysphygmia
+burial
 broaching
 bolsheviks
 brawlys
