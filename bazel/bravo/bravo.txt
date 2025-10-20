@@ -2851,6 +2851,7 @@ beath
 barrets
 brewhouse
 blindeyes
+behenic
 blobby
 blastogenic
 bedrivel
@@ -5342,7 +5343,6 @@ buffalos
 backtrail
 bendability
 bricky
-behenic
 backboneless
 boarspear
 bediademed
