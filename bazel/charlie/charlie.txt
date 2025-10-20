@@ -10225,7 +10225,6 @@ cuticularize
 crease
 cauterizes
 chg
-chi
 codworm
 chill
 chiack
@@ -11701,6 +11700,7 @@ cholla
 clairsentient
 crossable
 cryogen
+chi
 chollas
 chameleonize
 claries
