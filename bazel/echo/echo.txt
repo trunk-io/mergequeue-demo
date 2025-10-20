@@ -6838,6 +6838,7 @@ enclose
 eomecon
 entreats
 eponym
+edition
 empeoplement
 encoding
 eighteenmo
@@ -9110,7 +9111,6 @@ electrosurgeries
 erasions
 ethylhydrocupreine
 eyestrain
-edition
 eliasite
 eequinoctium
 entrapments
