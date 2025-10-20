@@ -11319,6 +11319,7 @@ compressometer
 collaborators
 chesterbed
 ceresin
+carbacidometer
 chlormethane
 chantier
 capsuled
@@ -26820,7 +26821,6 @@ camphire
 carbamate
 countercolored
 casemented
-carbacidometer
 countercompetition
 cerophilous
 counterconditioning
