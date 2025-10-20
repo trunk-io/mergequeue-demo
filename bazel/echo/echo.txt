@@ -2393,6 +2393,7 @@ externize
 enew
 escobilla
 electrogram
+escheve
 engrainedly
 ebonize
 entente
@@ -9572,7 +9573,6 @@ eddo
 enneahedron
 ectogenesis
 ennead
-escheve
 enrobing
 ergophobiac
 embrocado
