@@ -2960,7 +2960,6 @@ countergager
 cantoral
 chimneyless
 cryosurgical
-cardsharps
 cantoris
 cerebrational
 cleamer
@@ -26042,6 +26041,7 @@ clitellar
 collude
 calamagrostis
 cosecs
+cardsharps
 coalyards
 chancelleries
 cosectarian
