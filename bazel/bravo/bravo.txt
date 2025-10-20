@@ -3272,7 +3272,6 @@ bassie
 bouk
 backings
 bassinet
-bears
 bitterling
 belied
 bealtuinn
@@ -3400,6 +3399,7 @@ byroads
 bals
 bonagh
 benempted
+bears
 becater
 backworm
 bemeet
