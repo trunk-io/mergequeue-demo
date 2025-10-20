@@ -8626,6 +8626,7 @@ equities
 equivalenced
 equivalent
 engrossed
+equiprobability
 epha
 evangelised
 equivalved
@@ -10402,7 +10403,6 @@ echinostomatidae
 elegist
 ecdyson
 enterritoriality
-equiprobability
 expeditious
 evites
 electrocardiographic

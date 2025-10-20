@@ -12053,7 +12053,6 @@ database
 drip
 duplicable
 duikerbuck
-deimos
 daint
 delf
 deashed
@@ -12367,6 +12366,7 @@ dumbfounderment
 deglut
 dorsobranchiata
 deme
+deimos
 dhooley
 diferrion
 darlingtonia
