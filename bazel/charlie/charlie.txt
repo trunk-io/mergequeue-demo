@@ -190,6 +190,7 @@ carven
 cabre
 chevied
 catproof
+ceilingwards
 criminated
 chutzpas
 chalked
@@ -6662,7 +6663,6 @@ ceil
 clamoring
 campa
 connexivum
-ceilingwards
 celtophobia
 ceilometer
 ceylonite
