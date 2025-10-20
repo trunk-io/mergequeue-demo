@@ -1856,7 +1856,6 @@ eton
 euhemerized
 excite
 erodes
-encoder
 evertebral
 envenomed
 embreastment
@@ -10256,6 +10255,7 @@ exerting
 emotionize
 emplume
 endointoxication
+encoder
 eversive
 exogeny
 exampleless
