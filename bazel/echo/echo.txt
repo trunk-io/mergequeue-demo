@@ -4666,7 +4666,6 @@ exhumers
 exactress
 expensed
 earthmove
-entryway
 electroshock
 eyelets
 extradicting
@@ -12916,6 +12915,7 @@ exempted
 endochondral
 enchants
 even
+entryway
 encyclopaedize
 experimentarian
 enwingly
