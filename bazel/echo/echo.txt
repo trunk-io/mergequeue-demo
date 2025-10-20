@@ -2710,6 +2710,7 @@ elementalistic
 entoblast
 expeditions
 epexegeses
+ensures
 endostracum
 elementalize
 engagedness
@@ -4886,7 +4887,6 @@ electroergometer
 enchondrosis
 echolalic
 experimentalism
-ensures
 emporetic
 encephalotome
 eurytomid
