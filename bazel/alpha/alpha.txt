@@ -10275,7 +10275,6 @@ amides
 anacrusis
 ambassy
 autodecremented
-anthropomorphist
 aggenerate
 autoincremented
 affricates
@@ -15373,6 +15372,7 @@ adossee
 acumination
 aidless
 anthropotheistic
+anthropomorphist
 adenoidal
 achromatium
 abranchialism
