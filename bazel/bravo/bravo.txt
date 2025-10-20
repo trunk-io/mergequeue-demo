@@ -2620,6 +2620,7 @@ blood
 battening
 beadflush
 bemaul
+badasses
 barnman
 bosser
 boomtowns
@@ -10539,7 +10540,6 @@ balking
 blastosphere
 bakeries
 belligerent
-badasses
 bloodguiltiness
 bunion
 bungles
