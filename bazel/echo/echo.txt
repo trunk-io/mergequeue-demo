@@ -11305,7 +11305,6 @@ ensepulchered
 explanation
 endurability
 eyecup
-embrittled
 engirding
 enstatite
 exsector
@@ -12875,6 +12874,7 @@ epistemonic
 eben
 expunges
 epacridaceae
+embrittled
 empyocele
 embowel
 emulsoids
