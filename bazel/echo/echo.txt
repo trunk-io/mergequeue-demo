@@ -1890,7 +1890,6 @@ equals
 eastland
 extensions
 ensorcels
-equivocator
 entoretina
 echard
 extrabranchial
@@ -2873,6 +2872,7 @@ elicitor
 escalating
 edulcorate
 ergology
+equivocator
 evejar
 entocele
 enricher

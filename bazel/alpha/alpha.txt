@@ -5788,7 +5788,6 @@ autoinfection
 ataman
 adactylous
 absence
-autogyro
 ager
 avitic
 armless
@@ -24573,6 +24572,7 @@ amused
 atropa
 aogiri
 aloesol
+autogyro
 autumn
 autunites
 acroconidium
