@@ -3100,7 +3100,6 @@ expediente
 excused
 ethnozoology
 exorcise
-enterochirurgia
 electionary
 expressman
 eleut
@@ -5882,6 +5881,7 @@ espousage
 enisles
 echinoderidae
 enjail
+enterochirurgia
 esoethmoiditis
 echappee
 enzymosis
