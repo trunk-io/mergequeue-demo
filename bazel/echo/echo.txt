@@ -1976,7 +1976,6 @@ exhalant
 endurable
 enantiopathia
 entomotaxy
-extravenate
 eprouvette
 embalm
 extracultural
@@ -13453,6 +13452,7 @@ embalmed
 emetomorphine
 eider
 etruscologist
+extravenate
 endocarpal
 epigrapher
 equipollence
