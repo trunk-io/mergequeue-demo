@@ -5172,6 +5172,7 @@ bijections
 biogeochemistry
 bettergates
 byssin
+bioreaction
 bushfires
 bigot
 burrier
@@ -12325,7 +12326,6 @@ barbedness
 basiliscus
 bugged
 bluebeard
-bioreaction
 butterlike
 beld
 borons
