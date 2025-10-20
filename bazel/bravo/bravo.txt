@@ -1993,7 +1993,6 @@ bankrolled
 bynin
 boatyard
 bankruptism
-bogglebo
 bravadoism
 bikeways
 badnesses
@@ -6685,6 +6684,7 @@ benamed
 bernacle
 billet
 batties
+bogglebo
 bernardine
 boudoirs
 borzoi
