@@ -2814,6 +2814,7 @@ basify
 birdlet
 blackguard
 bummie
+blackstrap
 bensil
 bagatelles
 bundies
@@ -5139,7 +5140,6 @@ bughouses
 beggarhood
 befurred
 boarhound
-blackstrap
 bangalow
 blanky
 boarcite
