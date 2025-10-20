@@ -6096,6 +6096,7 @@ braziers
 blanker
 burgessdom
 bianco
+bondman
 beaconed
 bullaries
 befinger
@@ -8769,7 +8770,6 @@ biotechnology
 begummed
 bumpered
 bolar
-bondman
 binnogue
 beclamors
 blinding
