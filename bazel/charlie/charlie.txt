@@ -1899,6 +1899,7 @@ condor
 craniostosis
 camerae
 camels
+corymbiated
 crusaders
 curbless
 cranioclasm
@@ -25278,7 +25279,6 @@ cads
 cyanicide
 cyriological
 corymbiate
-corymbiated
 ceratoblast
 craylet
 coachlet
