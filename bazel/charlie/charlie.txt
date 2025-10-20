@@ -11690,7 +11690,6 @@ cleidohyoid
 columbanian
 cymtia
 cholesterinic
-cholesterol
 cholesterolemia
 cholesteroluria
 choletelin
@@ -30787,6 +30786,7 @@ cinereous
 cartop
 chordates
 chapper
+cholesterol
 complex
 cunctatury
 casaquin

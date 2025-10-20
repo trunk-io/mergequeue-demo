@@ -2154,7 +2154,6 @@ disjeune
 decapitation
 disassemble
 disownment
-del
 ditheistic
 deuteropathy
 disembodiment
@@ -4258,6 +4257,7 @@ dibbers
 doorjamb
 dragboat
 dogcart
+del
 dynamograph
 dyslogy
 debtors
