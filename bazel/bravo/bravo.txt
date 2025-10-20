@@ -10977,7 +10977,6 @@ birdsong
 bitwise
 blinkers
 burrawang
-brighid
 batement
 benchmar
 batel
@@ -16510,6 +16509,7 @@ birdfarms
 bunnia
 blastodermatic
 bricker
+brighid
 beetles
 borasque
 barksome
