@@ -12358,7 +12358,6 @@ empetrum
 ecchymotic
 epigraphic
 epsilon
-exopterygotic
 equivocally
 eremacausis
 extraprovincial
@@ -12964,6 +12963,7 @@ exquisite
 elater
 elissa
 exposable
+exopterygotic
 evapotranspiration
 epitoxoid
 enslave
