@@ -795,7 +795,6 @@ englishism
 ectoparasitica
 endsweep
 economically
-endship
 elle
 excipient
 ectocondylar
@@ -2999,6 +2998,7 @@ endothermically
 endarterium
 escarped
 empressement
+endship
 eucnemidae
 ectoplastic
 eructation
