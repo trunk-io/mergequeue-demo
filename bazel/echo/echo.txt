@@ -1058,7 +1058,6 @@ eident
 estoppel
 electrochemist
 educatable
-educatedness
 electrolyzable
 epistropheus
 espaliered
@@ -6968,6 +6967,7 @@ entrecote
 endocolitis
 envisage
 ecphonema
+educatedness
 extrapolar
 elapids
 eusebian
