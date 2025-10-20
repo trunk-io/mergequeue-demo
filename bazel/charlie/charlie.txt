@@ -3418,7 +3418,6 @@ capsulitis
 capsulizing
 cabman
 capsulogenous
-cataphyllum
 cleruchial
 capucine
 cuculine
@@ -31187,6 +31186,7 @@ carlines
 czar
 crosslets
 croissante
+cataphyllum
 carditic
 cupule
 convertible
