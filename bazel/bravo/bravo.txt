@@ -11239,7 +11239,6 @@ brassic
 bottlenose
 boxen
 benefit
-blenniid
 bloopers
 boulter
 blooth
@@ -11631,6 +11630,7 @@ brushite
 budgeted
 balkline
 board
+blenniid
 backbrand
 bodyplate
 bighorns
