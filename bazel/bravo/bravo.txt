@@ -5730,6 +5730,7 @@ basat
 buckbrush
 baltheus
 beflower
+bhikku
 baronship
 buttstock
 bruting
@@ -10872,7 +10873,6 @@ bodicemaker
 ban
 blessingly
 buffered
-bhikku
 broods
 bulletheadedness
 bathic
