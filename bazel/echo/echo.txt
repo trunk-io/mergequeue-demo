@@ -5796,6 +5796,7 @@ eucharis
 eld
 epicardial
 ecru
+encolumn
 expend
 escarp
 enhaemospore
@@ -6722,7 +6723,6 @@ evaluated
 entomologized
 edgeshot
 enstatolite
-encolumn
 ebricty
 ethenyl
 esthesiography
