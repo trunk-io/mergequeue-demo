@@ -4540,6 +4540,7 @@ edges
 epithalamic
 etherolate
 equiatomic
+electrostatic
 elsewhere
 eelbobber
 enchytraeid
@@ -5117,7 +5118,6 @@ essonite
 embracive
 exhalants
 estampage
-electrostatic
 epicist
 electroballistician
 emulsibility
