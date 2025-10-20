@@ -17822,7 +17822,6 @@ baryphony
 bunkers
 bijugular
 burrows
-bradsot
 burrstone
 biolite
 bude
@@ -17954,6 +17953,7 @@ bonewood
 bulter
 been
 besets
+bradsot
 betinge
 bondship
 ballhawk
