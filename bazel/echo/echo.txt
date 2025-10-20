@@ -3665,7 +3665,6 @@ evehood
 ebriously
 exradius
 embusk
-exp
 equalised
 enrollments
 empresario
@@ -8979,6 +8978,7 @@ ethinyl
 errhines
 epenthetic
 episodial
+exp
 enqueue
 efformative
 eclipsis
