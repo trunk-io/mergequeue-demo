@@ -6218,6 +6218,7 @@ derestrict
 disputations
 derf
 denaturizer
+deaccessioned
 democratic
 defoliate
 discriminant
@@ -8089,7 +8090,6 @@ discuren
 disbanded
 domesticize
 dezymotize
-deaccessioned
 drawsheet
 dingee
 desmachyme
