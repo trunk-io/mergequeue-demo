@@ -5752,7 +5752,6 @@ christabel
 categorise
 collator
 canisters
-categorised
 chansonnier
 cuemanship
 churly
@@ -22101,6 +22100,7 @@ configured
 confining
 confinity
 confirmability
+categorised
 caprocks
 californicus
 clitoromaniac
