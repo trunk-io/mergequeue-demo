@@ -7944,7 +7944,6 @@ expandibility
 enhort
 erasmus
 enkindling
-extrudable
 esters
 esculapian
 entrenched
@@ -12528,6 +12527,7 @@ ensporia
 epirhizous
 engilding
 epiural
+extrudable
 epitheliomata
 embryographic
 evection
