@@ -2205,7 +2205,6 @@ disenchain
 decommissions
 dragees
 dragonets
-decartelization
 designers
 daftberry
 dimple
@@ -18186,6 +18185,7 @@ dwarfy
 dispersedelement
 disconcertion
 dilettante
+decartelization
 diamagnet
 duncical
 depender

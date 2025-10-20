@@ -3000,7 +3000,6 @@ batea
 baseburner
 biradiate
 bled
-barrelhouses
 breakouts
 bulanda
 bouvier
@@ -16070,6 +16069,7 @@ bandicoots
 balletomane
 barcaroles
 bassetted
+barrelhouses
 brachycephalies
 belucki
 bozos
