@@ -3638,7 +3638,6 @@ ejects
 elinvar
 exul
 erugation
-electroendosmotic
 endosporia
 echiuroidea
 exanthematous
@@ -7568,6 +7567,7 @@ epiphanised
 eager
 embannered
 ecumene
+electroendosmotic
 elementoid
 embryulcus
 elegiambic
