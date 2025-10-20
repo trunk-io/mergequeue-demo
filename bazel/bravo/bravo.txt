@@ -2170,6 +2170,7 @@ bismite
 bandog
 blarny
 barbarically
+berskin
 burgles
 barbarised
 breakstone
@@ -6731,7 +6732,6 @@ bathygraphic
 barnumize
 begroan
 bullionism
-berskin
 balize
 blackens
 bromomania
