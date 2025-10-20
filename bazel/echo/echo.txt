@@ -5893,6 +5893,7 @@ expanding
 epilated
 emforth
 enneateric
+edition
 endamoebidae
 exigence
 electricalness
@@ -6829,7 +6830,6 @@ enclose
 eomecon
 entreats
 eponym
-edition
 empeoplement
 encoding
 eighteenmo
