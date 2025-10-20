@@ -2420,6 +2420,7 @@ billbugs
 bucchero
 bantayan
 beckoning
+boss
 burian
 barberite
 bewet
@@ -18355,7 +18356,6 @@ bombardon
 brewst
 barramundis
 bluebreast
-boss
 beefs
 beshadowed
 blotted
