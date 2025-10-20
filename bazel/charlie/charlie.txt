@@ -27937,7 +27937,6 @@ comeatable
 confiner
 coreid
 counters
-crabwise
 crabwood
 corms
 craccus
@@ -29409,6 +29408,7 @@ cymoidium
 cannele
 cryptozygosity
 cryptozygous
+crabwise
 capitalizers
 compartmental
 coda
