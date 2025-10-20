@@ -2563,7 +2563,6 @@ buckstall
 berating
 befriend
 bilge
-brutalness
 breviature
 bable
 boltsmith
@@ -7555,6 +7554,7 @@ bolded
 bougee
 butlerdom
 blowout
+brutalness
 bocoy
 bryological
 benignly
