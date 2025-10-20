@@ -12832,6 +12832,7 @@ churchcraft
 churches
 chondrocranium
 churchful
+conchoids
 clatters
 cavilled
 chevroned
@@ -21423,7 +21424,6 @@ conversance
 cooperation
 caerphilly
 counterblow
-conchoids
 conchol
 caritas
 counteracting
