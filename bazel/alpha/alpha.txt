@@ -5579,6 +5579,7 @@ afunction
 anointers
 aftersound
 adiadokokinesia
+ablepsy
 agalma
 antipeptone
 agalwoods
@@ -24364,7 +24365,6 @@ actiniform
 autophon
 autopoisonous
 alginuresis
-ablepsy
 anthodium
 antiaristocracies
 acrasins
