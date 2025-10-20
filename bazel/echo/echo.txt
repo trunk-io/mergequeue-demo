@@ -1051,6 +1051,7 @@ educatability
 epileptics
 eident
 estoppel
+electrochemist
 educatable
 educatedness
 electrolyzable
@@ -12360,7 +12361,6 @@ epsilon
 eremacausis
 extraprovincial
 extrajudicial
-electrochemist
 erythrean
 ebracteolate
 emulative
