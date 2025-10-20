@@ -1740,6 +1740,7 @@ delineate
 deathtrap
 drof
 deathward
+didynamic
 downlier
 diopsidic
 disomic
@@ -9357,7 +9358,6 @@ didym
 daffle
 defuses
 dulias
-didynamic
 distinguishment
 dyspepsy
 desmopathy
