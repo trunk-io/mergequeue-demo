@@ -4009,6 +4009,7 @@ delayable
 demes
 diptyca
 demolishment
+dysprosium
 deluder
 donzel
 dismantler
@@ -4533,7 +4534,6 @@ dislink
 deradelphus
 demibob
 dulcely
-dysprosium
 dkl
 declassee
 duomachy
