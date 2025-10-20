@@ -7114,7 +7114,6 @@ ascenders
 aethrioscope
 atomical
 airworthiness
-alacrious
 alacrity
 almsgiving
 archgenethliac
@@ -17873,6 +17872,7 @@ acronyctous
 autoproteolysis
 applications
 artotype
+alacrious
 applicative
 applicatively
 applicators
