@@ -6468,7 +6468,6 @@ accumulation
 awk
 audubonistic
 asterolepis
-achirite
 anomiidae
 astronaut
 areca
@@ -13149,6 +13148,7 @@ arithmeticians
 amical
 await
 accumb
+achirite
 adenocarcinomata
 anno
 alloxuraemia
