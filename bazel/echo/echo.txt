@@ -4767,7 +4767,6 @@ entypies
 eth
 eudaimonist
 embrangle
-empathy
 episcleral
 eriophorum
 ethanedial
@@ -8155,6 +8154,7 @@ earthwards
 electropuncturation
 endognathion
 epistemic
+empathy
 electromagnetical
 endoral
 erythrocytic
