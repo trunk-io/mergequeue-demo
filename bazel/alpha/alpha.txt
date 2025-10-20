@@ -3477,7 +3477,6 @@ adenodermia
 artemisic
 amerces
 alnage
-apotheces
 arrha
 aggelation
 autoelevation
@@ -18576,6 +18575,7 @@ afro
 arbour
 astr
 arboured
+apotheces
 appends
 apprehension
 antitangent
