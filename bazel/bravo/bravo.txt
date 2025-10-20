@@ -6577,6 +6577,7 @@ bladelet
 benchers
 bergamo
 beezers
+bivariant
 boblet
 beflout
 bedstand
@@ -10041,7 +10042,6 @@ bivalency
 bawdy
 ballottine
 bangos
-bivariant
 binodous
 barer
 bogan
