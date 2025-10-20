@@ -15303,7 +15303,6 @@ clame
 clothbound
 cheeseboard
 carcinosarcoma
-clamflat
 chivalry
 capricornus
 clamjamfery
@@ -22683,6 +22682,7 @@ cryptanalysis
 cosech
 connaturalness
 carroon
+clamflat
 connature
 columnized
 cortez
