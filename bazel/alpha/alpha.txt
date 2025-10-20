@@ -4971,7 +4971,6 @@ ahi
 aparavidya
 abandoner
 acanthopanax
-aerotropism
 allantois
 aerugo
 alliancer
@@ -24100,6 +24099,7 @@ aspheric
 autocollimators
 agglomerate
 anchormen
+aerotropism
 ashiness
 antipolitics
 abandum
