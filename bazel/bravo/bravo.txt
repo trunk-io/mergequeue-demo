@@ -7942,7 +7942,6 @@ budder
 bicoloured
 biogenic
 bewray
-basihyoid
 biconcave
 breenge
 badrans
@@ -12797,6 +12796,7 @@ bronzing
 bookpress
 bookracks
 bibliotaphic
+basihyoid
 barter
 blackmail
 bioelectric
