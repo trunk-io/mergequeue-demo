@@ -694,7 +694,6 @@ bewield
 besogne
 blueish
 burnishers
-bartending
 banderol
 baign
 baler
@@ -4855,6 +4854,7 @@ bitsy
 bepale
 basenesses
 backstroked
+bartending
 bankrupting
 barbequed
 bunder
