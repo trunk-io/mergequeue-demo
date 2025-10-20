@@ -13508,6 +13508,7 @@ belowstairs
 blunts
 buncombes
 bibliotheca
+bourgeons
 boxwork
 behoves
 bonspiels
@@ -13780,7 +13781,6 @@ bacterid
 blackness
 bourgeoisie
 bornane
-bourgeons
 brashly
 bursiculate
 barbulate
