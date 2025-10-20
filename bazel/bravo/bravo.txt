@@ -3888,7 +3888,6 @@ branches
 bannerets
 bassanite
 blindball
-bathycolpian
 benetnasch
 babbie
 beamman
@@ -4110,6 +4109,7 @@ blossomless
 bebang
 burgh
 budukha
+bathycolpian
 botulin
 berhyming
 baldish
