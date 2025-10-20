@@ -1828,6 +1828,7 @@ cambresine
 calumnia
 collectorate
 cambric
+chelonia
 cartonnage
 cirrocumulus
 cambricleaf
@@ -9818,7 +9819,6 @@ corbiestep
 cydon
 cheloids
 cutinizing
-chelonia
 chyliform
 contrails
 countermeasure
