@@ -2642,6 +2642,7 @@ clingfish
 capo
 crowhop
 circuting
+cultivability
 canker
 contumacy
 ctenodus
@@ -11565,7 +11566,6 @@ chokerman
 chalones
 cardiomalacia
 chatteringly
-cultivability
 chokers
 cottidae
 crinoid
