@@ -6347,6 +6347,7 @@ antiedemic
 aux
 anergy
 attempering
+adterminal
 appenzell
 anglophilic
 affiliable
@@ -13214,7 +13215,6 @@ arched
 animalistic
 apersee
 anosmia
-adterminal
 arcocentrous
 atrophy
 anticipatory
