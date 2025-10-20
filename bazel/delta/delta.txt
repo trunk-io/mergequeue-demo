@@ -4372,7 +4372,6 @@ dichastasis
 distortable
 defendable
 diseducate
-demal
 dripless
 deathlessly
 deer
@@ -15301,6 +15300,7 @@ deboning
 decant
 devance
 domains
+demal
 discrowning
 deinodon
 doweral
