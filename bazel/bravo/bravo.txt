@@ -9453,7 +9453,6 @@ bovidae
 betrayment
 bercelet
 bathymetric
-birectangular
 battels
 boominess
 befoolment
@@ -17868,6 +17867,7 @@ barbicanage
 burster
 bawler
 blutwurst
+birectangular
 blotch
 boorga
 burtonization
