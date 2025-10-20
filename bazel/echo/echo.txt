@@ -8805,7 +8805,6 @@ ecclesiarch
 enshadow
 erugate
 emplunge
-exclusions
 electrochronograph
 ergonomically
 eteoclus
@@ -8891,6 +8890,7 @@ erythric
 embryos
 equally
 expounding
+exclusions
 epistatic
 electroplater
 erythrite
