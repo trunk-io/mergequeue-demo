@@ -5377,6 +5377,7 @@ colic
 conductances
 cellar
 cathodoluminescence
+coleophora
 casus
 cat
 clanks
@@ -9098,7 +9099,6 @@ culturalist
 charontas
 cardplayer
 crowstep
-coleophora
 cryptologic
 charoses
 chemitype
