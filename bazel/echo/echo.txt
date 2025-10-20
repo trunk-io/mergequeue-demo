@@ -4056,7 +4056,6 @@ encallow
 ensilate
 eriglossate
 eurhythmics
-electroimpulse
 emporial
 emphasizing
 emporeutic
@@ -8885,6 +8884,7 @@ etypic
 epitaphial
 effund
 equisetum
+electroimpulse
 erythric
 embryos
 equally
