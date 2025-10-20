@@ -3506,7 +3506,6 @@ boxfuls
 boloneys
 bowyers
 brantle
-berber
 breadman
 byrlakin
 bloodflower
@@ -6079,6 +6078,7 @@ becalmed
 betrothment
 butteriness
 bloodthirsting
+berber
 bethflower
 blackhead
 bearm
