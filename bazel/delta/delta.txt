@@ -6951,7 +6951,6 @@ drollist
 dichromasy
 demasculinisation
 diasyrm
-desoxyribonucleic
 disoccupied
 despair
 dolent
@@ -18231,6 +18230,7 @@ dipody
 darts
 disrepute
 debussed
+desoxyribonucleic
 dungiest
 disapprobative
 dippy
