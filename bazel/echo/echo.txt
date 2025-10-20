@@ -1055,6 +1055,7 @@ eident
 estoppel
 electrochemist
 educatable
+entrainment
 electrolyzable
 epistropheus
 espaliered
@@ -6804,7 +6805,6 @@ equitriangular
 entomophilous
 embrowning
 excessman
-entrainment
 epimenidean
 endeavored
 endotracheal
