@@ -2571,6 +2571,7 @@ broadsword
 bismuthite
 bitewing
 burdenless
+bioethic
 barretter
 bardelle
 belyingly
@@ -4601,7 +4602,6 @@ bimaculated
 bion
 bernese
 burree
-bioethic
 beice
 backslid
 bailiwick
