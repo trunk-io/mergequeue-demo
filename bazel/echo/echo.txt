@@ -1180,6 +1180,7 @@ entogenous
 efficiencies
 endocardiac
 exosmoses
+electrophoretic
 eparcuale
 esthetics
 exopeptidase
@@ -13733,7 +13734,6 @@ entocoel
 etaballi
 ethnish
 entwisting
-electrophoretic
 embryonic
 exsiccated
 epidermatous
