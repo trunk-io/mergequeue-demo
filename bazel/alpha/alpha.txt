@@ -11792,7 +11792,6 @@ alagau
 andromorphous
 aframerican
 amigo
-alibi
 achree
 apochromat
 anaglyph
@@ -20938,6 +20937,7 @@ antidetonant
 academist
 adendritic
 acipenseroidei
+alibi
 abusage
 avalvular
 atroscine
