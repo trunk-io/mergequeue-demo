@@ -6633,7 +6633,6 @@ copepods
 cedilla
 cornbell
 cuorin
-churchified
 churchwardenize
 cedillas
 cedis
@@ -7780,6 +7779,7 @@ capibara
 cichloid
 catfight
 commaterial
+churchified
 cerviciplex
 cervicispinal
 chilion
