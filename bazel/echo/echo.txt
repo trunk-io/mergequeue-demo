@@ -5156,7 +5156,6 @@ eglomerate
 elections
 exairesis
 electrodepositable
-exopod
 enami
 epistrophic
 elk
@@ -9630,6 +9629,7 @@ embarks
 emunctories
 empiric
 exomphalus
+exopod
 enucleating
 evolving
 elaphodus
