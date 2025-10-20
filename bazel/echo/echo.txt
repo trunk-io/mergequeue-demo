@@ -8833,7 +8833,6 @@ ectotherm
 euroaquilo
 elasmotherium
 emendating
-elide
 euonym
 emperor
 elementariness
@@ -11340,6 +11339,7 @@ emphatic
 ecesic
 electrochronometric
 electors
+elide
 encephalosepsis
 excreting
 elegize
