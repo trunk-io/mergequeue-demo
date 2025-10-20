@@ -1712,7 +1712,6 @@ calvados
 componental
 characterization
 calvaire
-cordage
 cia
 caffeate
 cyanophil
@@ -5150,6 +5149,7 @@ coachwood
 cassata
 clodding
 cassation
+cordage
 celarent
 confraternity
 caveats
