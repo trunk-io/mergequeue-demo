@@ -632,7 +632,6 @@ edictal
 eschaunge
 electrophoretogram
 entier
-ensnare
 enlock
 escudo
 enkennel
@@ -10152,6 +10151,7 @@ elytra
 elaeagnus
 ethnopsychology
 expedientist
+ensnare
 engines
 elkoshite
 eldrich
