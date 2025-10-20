@@ -1178,7 +1178,6 @@ dithers
 datcha
 dibber
 diedral
-demirep
 divinifying
 disimpark
 dissolveability
@@ -3337,6 +3336,7 @@ dilatant
 deliriate
 desisted
 domesticable
+demirep
 delegatus
 decasyllable
 distemperer
