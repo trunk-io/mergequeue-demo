@@ -6539,7 +6539,6 @@ coper
 caxtonian
 cazimi
 croceine
-crossability
 colliquament
 cazique
 cb
@@ -17163,6 +17162,7 @@ copiable
 chlorodizing
 cobalamin
 campement
+crossability
 covotary
 carrizo
 cathedraticum
