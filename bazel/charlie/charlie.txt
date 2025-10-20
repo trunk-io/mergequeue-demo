@@ -3963,6 +3963,7 @@ crissum
 cardcases
 creatureling
 coxswaining
+cyclism
 cardia
 camilla
 chromocentral
@@ -13213,7 +13214,6 @@ choired
 cubeb
 characterized
 capcase
-cyclism
 celiac
 choanoflagellida
 charlatanries
