@@ -3831,7 +3831,6 @@ eels
 eyespot
 enalid
 ecstasize
-enteroptosis
 eosinlike
 egence
 exactly
@@ -13275,6 +13274,7 @@ envisages
 exorbitance
 eldern
 embryous
+enteroptosis
 epithelioblastoma
 epidemical
 echoer
