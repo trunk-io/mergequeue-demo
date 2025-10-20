@@ -582,6 +582,7 @@ disturber
 downweight
 dented
 decipium
+dampcourse
 datana
 dansy
 drawboy
@@ -4507,7 +4508,6 @@ disillusioning
 dorsers
 divelling
 diammine
-dampcourse
 dripple
 didelphyidae
 demethylate
