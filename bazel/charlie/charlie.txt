@@ -5410,7 +5410,6 @@ coboss
 catacomb
 crowboot
 cpm
-catacombs
 catacorner
 catacorolla
 codeines
@@ -5899,6 +5898,7 @@ campership
 cathedratic
 commodious
 cathepsin
+catacombs
 cebatha
 catties
 catheterisation
