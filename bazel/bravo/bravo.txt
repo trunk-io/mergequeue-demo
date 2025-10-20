@@ -6091,7 +6091,6 @@ buffing
 boomers
 banjoist
 braziers
-blanker
 burgessdom
 bianco
 beaconed
@@ -13496,6 +13495,7 @@ benes
 backfields
 blueprints
 barratry
+blanker
 basementless
 bargaining
 bovines
