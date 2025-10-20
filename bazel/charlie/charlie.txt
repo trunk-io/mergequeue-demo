@@ -4898,7 +4898,6 @@ cartwheeler
 consolan
 calistheneum
 colophonist
-cartwhip
 cimex
 carucage
 carucarius
@@ -24587,6 +24586,7 @@ chronodeik
 cahnite
 canonizes
 curability
+cartwhip
 countermotion
 clampdown
 councillor
