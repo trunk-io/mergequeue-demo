@@ -2706,7 +2706,6 @@ euthytatic
 equangular
 extrapelvic
 electrodeposition
-equipartition
 electrothanatosis
 epidiplosis
 eductions
@@ -12953,6 +12952,7 @@ euge
 expellees
 enframing
 ecuelle
+equipartition
 elaidic
 eddied
 eulogic
