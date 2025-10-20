@@ -14238,6 +14238,7 @@ ditriglyphic
 digraphic
 delating
 dragropes
+discontinual
 desireable
 dict
 destrudo
@@ -16853,7 +16854,6 @@ diligences
 denationalisation
 dorestane
 demonography
-discontinual
 determinativeness
 discharity
 dolour
