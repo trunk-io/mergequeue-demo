@@ -2370,7 +2370,6 @@ emboweller
 encomiologic
 epidemiologies
 ecanda
-exch
 epitrope
 electrogalvanization
 etruscology
@@ -4523,6 +4522,7 @@ extraphenomenal
 embryophagous
 elengeness
 eguttulate
+exch
 enlivened
 erythrogenesis
 eulogies
