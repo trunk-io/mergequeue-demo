@@ -2708,7 +2708,6 @@ biome
 boastfulness
 balladizing
 blotchiest
-barrowman
 bescorn
 bonze
 baudrons
@@ -11595,6 +11594,7 @@ bad
 burgouts
 begut
 byronism
+barrowman
 bulkin
 balalaika
 besort
