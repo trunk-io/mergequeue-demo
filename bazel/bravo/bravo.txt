@@ -2570,6 +2570,7 @@ bable
 boltsmith
 bleated
 bribeable
+bacteriolysin
 bumpy
 broadsword
 bismuthite
@@ -6229,7 +6230,6 @@ bedrocks
 benthonic
 benthoscope
 benthoses
-bacteriolysin
 blastie
 benumbed
 basilweed
