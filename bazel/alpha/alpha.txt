@@ -14413,6 +14413,7 @@ alcaid
 autopoloist
 apair
 anilino
+antifoggant
 aucuba
 anthemis
 aeroyacht
@@ -16823,7 +16824,6 @@ anaphora
 assonanced
 acardite
 amps
-antifoggant
 aphidivorous
 aphidlion
 aphodi
