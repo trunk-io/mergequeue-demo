@@ -6162,7 +6162,6 @@ copromisor
 chinantecan
 cauch
 cauchillo
-chester
 concatenation
 cipaye
 cauda
@@ -15394,6 +15393,7 @@ collected
 copps
 clangors
 cappella
+chester
 clangour
 clangoured
 chiliadron
