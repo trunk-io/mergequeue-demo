@@ -1970,7 +1970,6 @@ edificant
 exhalant
 endurable
 enriching
-enantiopathia
 entomotaxy
 eprouvette
 embalm
@@ -12450,6 +12449,7 @@ emblazonry
 ethnical
 effectualness
 expatiater
+enantiopathia
 engs
 ensuite
 elumbated
