@@ -4351,7 +4351,6 @@ adores
 arnicas
 advancement
 amphioxus
-advancing
 aliency
 advantage
 agaricus
@@ -13285,6 +13284,7 @@ aphorism
 anthropomorphisms
 apogaic
 animuses
+advancing
 apprenticeship
 adrowse
 amiles
