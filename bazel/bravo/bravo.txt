@@ -2851,7 +2851,6 @@ blobby
 blastogenic
 bedrivel
 betelgeuse
-barricaded
 beltian
 barricadoes
 banyai
@@ -4663,6 +4662,7 @@ bestiarian
 bracker
 bacterioscopically
 brolga
+barricaded
 bedrizzle
 baphometic
 buckhounds
