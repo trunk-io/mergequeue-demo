@@ -8276,6 +8276,7 @@ culch
 catholicized
 chantress
 courtyard
+creedalist
 crustaceology
 counterimitate
 crustation
@@ -27008,7 +27009,6 @@ contemner
 certhiidae
 cantholysis
 countship
-creedalist
 countermanding
 countermanifestoes
 countfish
