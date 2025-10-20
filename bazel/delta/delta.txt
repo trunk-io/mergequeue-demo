@@ -4586,7 +4586,6 @@ dosimetric
 deprecated
 demifigure
 dieresis
-decentres
 doomage
 disinflated
 demigauntlet
@@ -9184,6 +9183,7 @@ decursion
 dormmice
 disturbing
 disannulment
+decentres
 diabological
 dihelium
 demeore
