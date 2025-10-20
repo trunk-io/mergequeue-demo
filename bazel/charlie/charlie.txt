@@ -10136,6 +10136,7 @@ claves
 chesstree
 calciminer
 cerias
+countermoving
 chest
 consists
 cornett
@@ -19736,7 +19737,6 @@ comandra
 capetown
 cheir
 caparisons
-countermoving
 comate
 countlessly
 comates
