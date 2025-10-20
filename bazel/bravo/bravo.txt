@@ -3389,7 +3389,6 @@ bateleur
 barbered
 boho
 bowerwoman
-beggarwoman
 bibliothetic
 bugbite
 bps
@@ -8108,6 +8107,7 @@ beatable
 bluebuck
 beblooded
 bown
+beggarwoman
 byplace
 baryes
 bitis
