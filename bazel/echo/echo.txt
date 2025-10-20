@@ -3493,7 +3493,6 @@ ephemerons
 enripen
 entrefer
 eastlake
-ensmall
 enamorato
 egyptianism
 eudipleural
@@ -6238,6 +6237,7 @@ exteriorising
 ety
 extrinsicality
 ebbed
+ensmall
 enlistment
 embars
 enshrinements
