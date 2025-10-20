@@ -1870,6 +1870,7 @@ benefice
 ballone
 balances
 bandstring
+boroughlet
 batteling
 bastions
 brandishes
@@ -12588,7 +12589,6 @@ babe
 bullhide
 branchiosaurus
 bilharziosis
-boroughlet
 bonnering
 brocage
 bemocks
