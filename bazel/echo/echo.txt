@@ -11763,7 +11763,6 @@ ensheaths
 episode
 excreation
 enations
-exclamatory
 empires
 enceintes
 erroneously
@@ -12825,6 +12824,7 @@ electrotyped
 engraulis
 enhaloing
 erythrophage
+exclamatory
 emissaryship
 enfevering
 eleaticism
