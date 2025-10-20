@@ -5292,6 +5292,7 @@ babelic
 bipartite
 blastomycotic
 boosting
+bayamo
 bedin
 beshine
 bathochromic
@@ -16711,7 +16712,6 @@ buchnerite
 balconette
 buck
 bondages
-bayamo
 blaring
 broses
 breadstuff
