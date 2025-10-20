@@ -11113,7 +11113,6 @@ bashawship
 birthbed
 blockship
 bromogelatin
-barrooms
 brickwork
 benzdioxdiazine
 blackbush
@@ -14139,6 +14138,7 @@ bilicyanin
 browallia
 bestudded
 bedravel
+barrooms
 buhrstone
 brattier
 blessedly
