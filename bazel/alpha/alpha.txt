@@ -1171,7 +1171,6 @@ aurorae
 afforest
 amidst
 apoidea
-adelocodonic
 anchietea
 ametabolic
 autodyne
@@ -8891,6 +8890,7 @@ alpist
 abiology
 aniente
 axonometry
+adelocodonic
 advisories
 archae
 antoninianus
