@@ -460,7 +460,6 @@ bowstringed
 bewrought
 backscatter
 bathometry
-backscattering
 bacterioprotein
 borecole
 brangler
@@ -9006,6 +9005,7 @@ butine
 basting
 biophysiography
 broadaxes
+backscattering
 boneheaded
 bergaptene
 bleary
