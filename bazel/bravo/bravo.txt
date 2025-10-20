@@ -6641,7 +6641,6 @@ bedull
 bouleversement
 berlin
 biomass
-brontotherium
 bismuthine
 broomstaff
 beslime
@@ -8694,6 +8693,7 @@ barycentre
 binal
 borrelomycetaceae
 bedrown
+brontotherium
 brachinus
 bardolater
 bungo
