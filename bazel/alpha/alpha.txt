@@ -17516,7 +17516,6 @@ actos
 applot
 archpriest
 airship
-amblypoda
 alemana
 antiarchi
 anglophilia
@@ -18704,6 +18703,7 @@ alulet
 atrichic
 adjudge
 abcoulomb
+amblypoda
 archaizer
 archaizing
 agonista
