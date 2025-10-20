@@ -6054,7 +6054,6 @@ chamfrons
 catstitcher
 cineraria
 countershafting
-coassisting
 chronocrator
 catsups
 chasmogamy
@@ -27755,6 +27754,7 @@ cowl
 citrin
 cowleeching
 cuppy
+coassisting
 convected
 columbate
 chivage
