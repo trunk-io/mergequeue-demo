@@ -8540,7 +8540,6 @@ ektexine
 equipages
 expositions
 endogenic
-esthesiometry
 eucalypts
 equiparation
 electrophoresis
@@ -8863,6 +8862,7 @@ egotists
 each
 encystments
 engagers
+esthesiometry
 enchantery
 edeomania
 edentulate
