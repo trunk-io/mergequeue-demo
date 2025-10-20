@@ -1039,6 +1039,7 @@ boogymen
 bakeshop
 befleaing
 brakes
+brewer
 bpi
 bending
 brotuliform
@@ -9459,7 +9460,6 @@ bloodalley
 bridegroom
 bovidae
 betrayment
-brewer
 bercelet
 bathymetric
 birectangular
