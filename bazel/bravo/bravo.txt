@@ -5407,7 +5407,6 @@ bogginess
 bluestone
 bicycle
 baryton
-boater
 bobsledded
 bathymetry
 broomballer
@@ -18073,6 +18072,7 @@ bachel
 braconniere
 betoken
 beefwood
+boater
 boxholder
 bryonin
 bullrings
