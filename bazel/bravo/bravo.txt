@@ -7687,6 +7687,7 @@ biznagas
 banchi
 bhutanese
 bembex
+brisling
 babylonian
 backward
 biacid
@@ -15725,7 +15726,6 @@ broadsides
 beamwork
 breakfront
 boeotia
-brisling
 bushveld
 beadles
 bonbo
