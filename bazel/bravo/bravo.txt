@@ -2818,7 +2818,6 @@ bensil
 bagatelles
 bundies
 bonanza
-betitle
 bokard
 boyau
 bureaucratize
@@ -9557,6 +9556,7 @@ barsom
 babblative
 boulanger
 bibliographically
+betitle
 bioelectricity
 birthright
 besweatered
