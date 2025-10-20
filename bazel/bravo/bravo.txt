@@ -13527,7 +13527,6 @@ blisterwort
 bushiness
 bulse
 ballyrag
-bullets
 brayer
 brickcroft
 brachytic
@@ -14875,6 +14874,7 @@ brazil
 bilgewater
 besses
 baronages
+bullets
 bacchant
 bushland
 beetroot
