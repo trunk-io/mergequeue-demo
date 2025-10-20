@@ -6770,7 +6770,6 @@ chancres
 chondroskeleton
 cubhood
 clos
-cerianthoid
 chamidae
 cannisters
 championed
@@ -16110,6 +16109,7 @@ cults
 colitoxemia
 ceremonials
 corneitis
+cerianthoid
 clickers
 cosigns
 crews
