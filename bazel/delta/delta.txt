@@ -2613,7 +2613,6 @@ decoloring
 duplicately
 dinornithid
 decadist
-dilatational
 decolorising
 dentalised
 decolors
@@ -7138,6 +7137,7 @@ droppage
 dermophyte
 dotations
 dimmers
+dilatational
 disincentive
 dromaeus
 decretion
