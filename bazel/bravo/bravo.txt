@@ -12280,7 +12280,6 @@ borderland
 boltmaker
 blee
 berede
-baldric
 bono
 boltrope
 begrave
@@ -15126,6 +15125,7 @@ belime
 breenger
 breezeway
 blayk
+baldric
 barrelhead
 bilboes
 breezeways
