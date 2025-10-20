@@ -584,7 +584,6 @@ enroots
 esoterist
 extraocular
 ethicals
-etruscology
 enigmata
 eundem
 emasculative
@@ -2378,6 +2377,7 @@ ecanda
 exch
 epitrope
 electrogalvanization
+etruscology
 effoliate
 endocrinotherapy
 effranchisement
