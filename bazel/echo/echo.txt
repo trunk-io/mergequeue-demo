@@ -1876,6 +1876,7 @@ endict
 exaltation
 ebrious
 excerpted
+excerptible
 electrologists
 ejectively
 exacuate
@@ -4774,7 +4775,6 @@ eriophorum
 ethanedial
 encompassment
 enshade
-excerptible
 entohyal
 euclidean
 exossate
