@@ -2501,6 +2501,7 @@ dermahemia
 declaim
 disliked
 detonable
+declassing
 draughter
 droil
 disnatured
@@ -8470,7 +8471,6 @@ disponee
 daemonies
 dognaper
 disintegrates
-declassing
 disk
 discobolus
 disinteress
