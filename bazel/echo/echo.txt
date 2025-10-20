@@ -4841,7 +4841,6 @@ epidermoid
 epitaxic
 elepaio
 ecumenopolis
-exoperidium
 ecchymoses
 erin
 encomimiums
@@ -7738,6 +7737,7 @@ executioner
 exencephalous
 eductor
 extroverted
+exoperidium
 eruca
 erose
 ensurance
