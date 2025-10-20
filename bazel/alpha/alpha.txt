@@ -13804,7 +13804,6 @@ auletes
 austere
 anointment
 academize
-anointments
 articulation
 agnostus
 aunt
@@ -23333,6 +23332,7 @@ avulse
 ame
 alcoved
 atule
+anointments
 absurdist
 affrighting
 arteriomalacia
