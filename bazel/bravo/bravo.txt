@@ -8355,7 +8355,6 @@ boogeyman
 barging
 bilati
 burberry
-barrelhead
 betrail
 billions
 bundu
@@ -15126,6 +15125,7 @@ belime
 breenger
 breezeway
 blayk
+barrelhead
 bilboes
 breezeways
 bowdlerise
