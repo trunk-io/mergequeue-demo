@@ -3514,6 +3514,7 @@ boxfuls
 boloneys
 bowyers
 brantle
+berber
 breadman
 byrlakin
 bloodflower
@@ -5796,7 +5797,6 @@ blitzkrieg
 blennophobia
 bluing
 basque
-berber
 beebread
 biggety
 basqued
