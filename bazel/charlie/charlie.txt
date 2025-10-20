@@ -2065,7 +2065,6 @@ callat
 cardamons
 captivator
 cheewink
-chemoreceptor
 cheekpiece
 corridas
 conservators
@@ -24861,6 +24860,7 @@ concert
 corectome
 coprostasis
 chalk
+chemoreceptor
 cabbing
 cogitators
 colchicum
