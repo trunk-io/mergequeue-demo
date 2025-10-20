@@ -7101,7 +7101,6 @@ aviatrixes
 acrimony
 anticoagulant
 amphiboly
-acromegalic
 autokinesis
 aurigation
 axon
@@ -10409,6 +10408,7 @@ astraeidae
 antiatom
 absurdum
 addling
+acromegalic
 aculeolus
 ascogone
 antierosive
