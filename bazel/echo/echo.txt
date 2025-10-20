@@ -1776,6 +1776,7 @@ earlier
 exdie
 elementals
 eila
+explants
 evenoo
 eileen
 euskara
@@ -10754,7 +10755,6 @@ epichirema
 ecologically
 endways
 erminee
-explants
 electrokinematics
 endeared
 equibalanced
