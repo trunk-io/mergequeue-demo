@@ -299,6 +299,7 @@ eaten
 eighty
 eyra
 eesome
+endmatcher
 embull
 enclaret
 ebullition
@@ -1929,7 +1930,6 @@ eudiometry
 endocrine
 erroneousness
 ektenes
-endmatcher
 execeptional
 epithymetical
 eigenvector
