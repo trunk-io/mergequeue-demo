@@ -8729,7 +8729,6 @@ antennifer
 alliance
 aurorium
 anschluss
-anomic
 alliancing
 alliant
 acryl
@@ -9954,6 +9953,7 @@ arracacha
 akebia
 almoravides
 allovers
+anomic
 amazons
 amantillo
 acetoxyphthalide
