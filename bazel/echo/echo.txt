@@ -7491,7 +7491,6 @@ entablements
 epichorion
 extracranial
 endomitosis
-extragalactic
 epiglottis
 esthesiology
 epicyemate
@@ -12245,6 +12244,7 @@ erythrocytometer
 euchroic
 endosomes
 exoneretur
+extragalactic
 envisionment
 experts
 equiformal
