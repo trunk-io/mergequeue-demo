@@ -836,7 +836,6 @@ clubhands
 curtlax
 chamaephyte
 cairned
-copperheads
 crackrope
 coamiable
 couverte
@@ -6010,6 +6009,7 @@ catlings
 catlins
 corer
 chloroamide
+copperheads
 craftsperson
 cryptoporticus
 caupones
