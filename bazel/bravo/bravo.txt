@@ -404,7 +404,6 @@ bequeath
 bellyache
 bdelloid
 backgammon
-booklores
 barbarical
 boydom
 biomorphic
@@ -13628,6 +13627,7 @@ binaural
 braker
 blearier
 ballutes
+booklores
 beatermen
 billionth
 beggarlice

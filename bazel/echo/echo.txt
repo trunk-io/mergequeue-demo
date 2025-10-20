@@ -6250,6 +6250,7 @@ euskarian
 equipage
 empt
 examples
+exempted
 ensouls
 enhat
 evanition
@@ -12912,7 +12913,6 @@ eructative
 ergatandromorphic
 epidymides
 entomophthorous
-exempted
 endochondral
 enchants
 even
