@@ -2229,7 +2229,6 @@ canalatura
 cryptocarya
 completer
 cromorne
-canalboat
 canale
 canaled
 cobs
@@ -25589,6 +25588,7 @@ coronetty
 coronagraphic
 coronilla
 coronion
+canalboat
 cuartillo
 coronium
 couchee
