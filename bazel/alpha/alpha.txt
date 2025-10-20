@@ -12410,7 +12410,6 @@ andrite
 acervuli
 arthral
 androcephalous
-arthrotome
 androcephalum
 ankoli
 agapornis
@@ -18368,6 +18367,7 @@ autotimer
 aristarch
 adulators
 adespoton
+arthrotome
 arage
 antidemocrat
 arsenite
