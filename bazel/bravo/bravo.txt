@@ -874,7 +874,6 @@ bannered
 bumperette
 bazookaman
 bravely
-betrayer
 balneal
 bidarkas
 bowet
@@ -4951,6 +4950,7 @@ bassnesses
 buffo
 backhauled
 blazoner
+betrayer
 biopic
 bastard
 befezzed
