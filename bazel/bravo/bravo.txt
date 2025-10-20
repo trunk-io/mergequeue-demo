@@ -2350,7 +2350,6 @@ brie
 bamboula
 bastardisation
 bronteana
-bushiness
 bagpipes
 benzamido
 bushrope
@@ -13521,6 +13520,7 @@ barbotte
 bitmap
 brahma
 blisterwort
+bushiness
 bulse
 ballyrag
 bullets
