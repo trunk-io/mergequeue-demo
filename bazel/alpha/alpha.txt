@@ -5419,7 +5419,6 @@ affret
 arank
 allergins
 achtehalber
-aptenodytes
 auxotox
 arenicola
 actinocrinid
@@ -14537,6 +14536,7 @@ antelopes
 assagai
 atechny
 anthophyta
+aptenodytes
 argentite
 amizilis
 anthratriol
