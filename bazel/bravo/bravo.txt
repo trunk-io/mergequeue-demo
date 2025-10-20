@@ -1229,7 +1229,6 @@ bundts
 blockboard
 bookselling
 benzopyranyl
-banned
 butyrinase
 bloomless
 bawdyhouses
@@ -11100,6 +11099,7 @@ bioral
 brittonic
 borborygmic
 broil
+banned
 butcherous
 bollies
 beastings
