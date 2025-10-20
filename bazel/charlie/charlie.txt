@@ -3518,6 +3518,7 @@ calefaction
 clockhouse
 ceased
 carabinier
+cilia
 carabiniere
 caraboa
 caaba
@@ -13481,7 +13482,6 @@ cartesianism
 cladocera
 corsetless
 cloying
-cilia
 cloakedly
 counterpoising
 cofactors
