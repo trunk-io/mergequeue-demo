@@ -1736,7 +1736,6 @@ dauerschlaf
 deathtime
 delineate
 deathtrap
-drof
 deathward
 downlier
 diopsidic
@@ -7472,6 +7471,7 @@ discouragedly
 detrainment
 dillue
 desulphurise
+drof
 detrench
 despairingly
 disserviceableness
