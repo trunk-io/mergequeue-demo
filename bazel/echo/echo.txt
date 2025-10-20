@@ -472,7 +472,6 @@ equalities
 encrimson
 echinomys
 erythemas
-enterococcus
 echos
 erica
 enterocolitis
@@ -7793,6 +7792,7 @@ entosternite
 elixirs
 exuccous
 eidola
+enterococcus
 electrocoating
 eclampsia
 exceptor
