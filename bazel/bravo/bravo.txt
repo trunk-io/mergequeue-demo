@@ -5731,7 +5731,6 @@ buckbrush
 baltheus
 beflower
 baronship
-buttstock
 bruting
 bescreening
 bushelbasket
@@ -10658,6 +10657,7 @@ balked
 biodynamics
 barbaresque
 bouto
+buttstock
 beakier
 bonace
 boteroll
