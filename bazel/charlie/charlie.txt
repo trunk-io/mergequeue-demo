@@ -4102,7 +4102,6 @@ cripple
 cardiomyomalacia
 cardiomyopathy
 cardioncus
-cardionecrosis
 cardioneurosis
 cardiophrenia
 capette
@@ -14760,6 +14759,7 @@ cheapskate
 citational
 calixtus
 codeword
+cardionecrosis
 canvassers
 cookery
 currieries
