@@ -4230,7 +4230,6 @@ bylina
 brick
 byworks
 bribeworthy
-brigaded
 beche
 bagne
 burka
@@ -16878,6 +16877,7 @@ borderless
 beccaccia
 bioecology
 beausire
+brigaded
 breastfast
 baillonella
 blighties
