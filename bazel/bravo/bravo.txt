@@ -2524,7 +2524,6 @@ buddage
 brahmanist
 bellon
 barocco
-boardable
 betterments
 byronist
 briers
@@ -10133,6 +10132,7 @@ braggle
 besee
 barytic
 bribegiver
+boardable
 bewhiskered
 blabbering
 bosun
