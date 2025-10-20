@@ -633,6 +633,7 @@ entier
 ensnare
 enlock
 escudo
+enkennel
 enlighteners
 enerve
 educt
@@ -7869,7 +7870,6 @@ eirack
 eversion
 ervum
 endamage
-enkennel
 entreating
 epineuneuria
 epineuria
