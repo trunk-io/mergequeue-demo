@@ -3664,6 +3664,7 @@ destructor
 drugged
 depsid
 disrupt
+didactic
 drylot
 dishonorably
 decempedate
@@ -8344,7 +8345,6 @@ disspreading
 decarboxylate
 diadochy
 damasked
-didactic
 disassociable
 dislikable
 diorism
