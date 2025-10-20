@@ -897,7 +897,6 @@ entraps
 extempore
 esoterics
 exhumes
-expanse
 excavatory
 entablement
 epizootic
@@ -7546,6 +7545,7 @@ effusion
 enkolpia
 engerminate
 enhungered
+expanse
 euryale
 exocrine
 eoliths
