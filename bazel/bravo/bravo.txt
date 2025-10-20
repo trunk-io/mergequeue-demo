@@ -12550,7 +12550,6 @@ batis
 bets
 buff
 bonfires
-bongoist
 bannimus
 beaus
 bedposts
@@ -14399,6 +14398,7 @@ benzoquinone
 bovoid
 bugseed
 baggara
+bongoist
 backrush
 binomen
 bucca
