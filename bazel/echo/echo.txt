@@ -534,7 +534,6 @@ expurgate
 eyewitness
 envolume
 embryoferous
-extractable
 exoterics
 equalist
 extollers
@@ -7579,6 +7578,7 @@ ectocrine
 excriminate
 expediter
 eumycetic
+extractable
 electrophori
 epicuticle
 estrus
