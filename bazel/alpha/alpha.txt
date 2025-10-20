@@ -2954,6 +2954,7 @@ actinomycestal
 arcus
 alumnus
 autochton
+anteceded
 actinomycete
 allicin
 ashtray
@@ -6455,7 +6456,6 @@ acrologism
 analogice
 araeometer
 acts
-anteceded
 analogist
 athbash
 admedial
