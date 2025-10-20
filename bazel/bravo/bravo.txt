@@ -451,7 +451,6 @@ backpack
 bulimiform
 bragite
 bit
-briner
 bays
 bristler
 brownshirt
@@ -3732,6 +3731,7 @@ boxy
 butlery
 bank
 betaxed
+briner
 bugsha
 breakwind
 bepretty
