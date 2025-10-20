@@ -5007,6 +5007,7 @@ beflea
 bratchet
 blowfish
 basicranial
+barebone
 bombable
 benzenyl
 bottomrying
@@ -13189,7 +13190,6 @@ bowdlerizer
 bkbndr
 boardroom
 bleachability
-barebone
 bouldered
 backhanding
 bootless
