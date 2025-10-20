@@ -4769,6 +4769,7 @@ bedwarfing
 bigotty
 benefaction
 bilharzic
+basename
 bullition
 bubukle
 berust
@@ -8554,7 +8555,6 @@ brassarts
 bucerotinae
 bemusing
 bobet
-basename
 boughpot
 billowiest
 busied
