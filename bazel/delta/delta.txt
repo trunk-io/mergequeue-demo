@@ -1151,6 +1151,7 @@ dunts
 doloriferous
 doormat
 demibrassart
+distrainor
 devilhood
 diggable
 dribblers
@@ -3237,7 +3238,6 @@ disfranchise
 dealbation
 demyelination
 disembarkations
-distrainor
 depicting
 discussed
 defendant
