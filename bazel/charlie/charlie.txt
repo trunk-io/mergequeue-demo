@@ -6908,7 +6908,6 @@ claudicate
 cementmaker
 catapan
 cementoblast
-cementoma
 cements
 cemetaries
 cemetery
@@ -30132,6 +30131,7 @@ cuminol
 cryptanalyst
 corystoid
 crownment
+cementoma
 complementing
 cresol
 cryptoscope
