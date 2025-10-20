@@ -2769,6 +2769,7 @@ canoeist
 canoeload
 chimakuan
 coryphaeus
+coast
 canoes
 cowcatcher
 cardiogenesis
@@ -17388,7 +17389,6 @@ crystallic
 codol
 coassuming
 chrysolite
-coast
 concubinarian
 columellate
 copycat
