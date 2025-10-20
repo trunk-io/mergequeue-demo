@@ -2859,6 +2859,7 @@ decwriter
 dibromid
 dopier
 dimethylamine
+duster
 divia
 divide
 dichotic
@@ -8692,7 +8693,6 @@ discounted
 delphin
 didynamous
 dwarflike
-duster
 dealkylation
 dispensableness
 desilvering
