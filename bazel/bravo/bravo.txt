@@ -3506,7 +3506,6 @@ boxfuls
 boloneys
 bowyers
 brantle
-berber
 breadman
 byrlakin
 bloodflower
@@ -12983,6 +12982,7 @@ belue
 bargir
 brigades
 byrled
+berber
 bobsledders
 bleachman
 berlinite
