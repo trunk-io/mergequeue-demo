@@ -7319,7 +7319,6 @@ chiloma
 choreiform
 cephalodium
 caracol
-corolline
 cephalofacial
 cirrhosis
 cuticles
@@ -8807,6 +8806,7 @@ crambid
 colinephritis
 calamansi
 cyanosis
+corolline
 curets
 capelin
 cave
