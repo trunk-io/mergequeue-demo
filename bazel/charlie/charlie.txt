@@ -4932,6 +4932,7 @@ califs
 carwash
 chider
 carzey
+corpn
 casablanca
 collencytal
 clamorer
@@ -25608,7 +25609,6 @@ coroutines
 cavae
 clericum
 canoeing
-corpn
 corpora
 clubhand
 coign
