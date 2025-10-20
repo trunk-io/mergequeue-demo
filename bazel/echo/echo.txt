@@ -5337,7 +5337,6 @@ esthesiogen
 expostulation
 epitimesis
 esthesiometer
-enfester
 eikons
 electronvolt
 ectene
@@ -6569,6 +6568,7 @@ egolatrous
 ectromelic
 elecives
 epeirogeny
+enfester
 extraduction
 enclavement
 erupted
