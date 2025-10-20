@@ -2323,7 +2323,6 @@ enterprise
 epilimnion
 electrics
 enshield
-edda
 exucontian
 ethnogeographer
 echinochrome
@@ -5091,6 +5090,7 @@ epipolic
 endocrinic
 ergs
 ecdysones
+edda
 ependytes
 extrudability
 ecphore
