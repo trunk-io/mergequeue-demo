@@ -8683,7 +8683,6 @@ benches
 beguines
 barff
 baulked
-binnacle
 berendo
 biuniquely
 bemixt
@@ -14374,6 +14373,7 @@ bunting
 babuls
 backstab
 bianchite
+binnacle
 blender
 blepharydatis
 bye
