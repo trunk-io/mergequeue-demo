@@ -401,7 +401,6 @@ brushes
 bowerly
 bequeath
 bellyache
-brontolite
 bdelloid
 backgammon
 booklores
@@ -4371,6 +4370,7 @@ bumptiously
 buffering
 botulism
 branched
+brontolite
 borwort
 brutifies
 bacillariaceous
