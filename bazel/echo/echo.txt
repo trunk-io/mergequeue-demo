@@ -2923,7 +2923,6 @@ energy
 eliphalet
 elbowroom
 exarchist
-ebcasc
 equiangle
 errantia
 elisha
@@ -5339,6 +5338,7 @@ esthesiometer
 enfester
 eikons
 electronvolt
+ebcasc
 ectene
 ebulus
 extinguishes
