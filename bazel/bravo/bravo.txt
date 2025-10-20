@@ -15637,6 +15637,7 @@ busyness
 boza
 brittany
 baroneting
+barreler
 bipacks
 buskle
 boxbush
@@ -16717,7 +16718,6 @@ buckberry
 buffalofish
 bovey
 buckboards
-barreler
 bloodspiller
 barnstorming
 buckeen
