@@ -135,7 +135,6 @@ alloxy
 advanced
 amine
 atracheate
-antiatoms
 asystematic
 apocrustic
 arecaidine
@@ -8910,6 +8909,7 @@ allonym
 alongst
 aerator
 allonymously
+antiatoms
 allonyms
 affettuosos
 allonomous
