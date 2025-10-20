@@ -13888,7 +13888,6 @@ ambsaces
 anaptyctic
 adjunctly
 anophthalmos
-anopia
 ating
 altimeter
 alpenstocker
@@ -21445,6 +21444,7 @@ antinoise
 aaron
 airplane
 apesthetize
+anopia
 autopilots
 albocinereous
 allorrhyhmia
