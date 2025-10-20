@@ -5878,7 +5878,6 @@ dismarshall
 deads
 dahabiya
 dognapping
-disauthentic
 disgustful
 dalmatic
 disubstitution
@@ -18588,6 +18587,7 @@ derri
 durry
 duomos
 durrin
+disauthentic
 demegoric
 depeach
 darbyite
