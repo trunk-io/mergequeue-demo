@@ -7203,7 +7203,6 @@ depictor
 dissidence
 desulfurs
 diplarthrous
-desulphur
 desulphurised
 drou
 dynel
@@ -15439,6 +15438,7 @@ diswit
 demibarrel
 denumerant
 drawnness
+desulphur
 decourt
 derivations
 downbye
