@@ -4699,7 +4699,6 @@ coyotillos
 countermaneuver
 cloudiness
 completion
-carport
 chibouk
 continuity
 catalase
@@ -6070,6 +6069,7 @@ catsups
 chasmogamy
 childhood
 cattail
+carport
 cattails
 cattaloes
 chocalho
