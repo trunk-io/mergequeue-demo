@@ -6570,7 +6570,6 @@ enclavement
 erupted
 elektra
 exegetics
-exomphalus
 eyebar
 existents
 enscrolled
@@ -9618,6 +9617,7 @@ eightball
 embarks
 emunctories
 empiric
+exomphalus
 enucleating
 evolving
 elaphodus
