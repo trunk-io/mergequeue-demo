@@ -7929,6 +7929,7 @@ alerta
 antibromic
 alps
 antiserum
+astronautic
 antiroyal
 ancylocladus
 arsenoxide
@@ -23570,7 +23571,6 @@ alphos
 antebridal
 auloi
 anathem
-astronautic
 adductive
 acromegaly
 associating
