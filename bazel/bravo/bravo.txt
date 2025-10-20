@@ -12413,7 +12413,6 @@ battute
 battlefront
 blears
 bombora
-beguilers
 barratries
 bribeless
 bonifaces
@@ -17634,6 +17633,7 @@ barristers
 brutalization
 bepowder
 briefed
+beguilers
 bakers
 bellypinch
 baw
