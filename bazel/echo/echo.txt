@@ -3333,7 +3333,6 @@ ectodactylism
 example
 externum
 exploration
-embarks
 ezod
 ep
 euryalae
@@ -9639,6 +9638,7 @@ enthral
 empoisoning
 exergue
 eightball
+embarks
 emunctories
 empiric
 enucleating
