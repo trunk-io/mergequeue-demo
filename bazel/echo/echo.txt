@@ -4815,7 +4815,6 @@ enslavers
 electrogilt
 engraven
 extrafine
-entozoa
 encranial
 extinct
 expectorator
@@ -13243,6 +13242,7 @@ explorement
 educating
 eminences
 explorer
+entozoa
 elegiacally
 epicheirema
 eureka
