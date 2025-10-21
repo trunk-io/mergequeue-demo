@@ -7501,6 +7501,7 @@ befall
 belverdian
 bowmen
 bounder
+bonnetmen
 bellyflaught
 bashlyk
 bedewoman
@@ -14817,7 +14818,6 @@ bockeret
 bakemeats
 bludger
 biostatistics
-bonnetmen
 bipolar
 bardier
 bundlerooted
