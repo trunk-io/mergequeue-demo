@@ -3884,7 +3884,6 @@ carcinogenic
 curaris
 co
 cyclicality
-crystalloluminescence
 coherers
 carcinolysin
 cycadiform
@@ -6392,6 +6391,7 @@ cavdia
 celebrating
 cyanogenic
 campanulariae
+crystalloluminescence
 chiquitan
 choaty
 caveators
