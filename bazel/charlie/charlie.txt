@@ -9823,7 +9823,6 @@ ceylon
 caudate
 chelinga
 chelingas
-chelingos
 corbiestep
 cydon
 cheloids
@@ -25162,6 +25161,7 @@ concredit
 coredeemer
 cerniture
 chatterers
+chelingos
 coree
 cubelet
 crackbrain
