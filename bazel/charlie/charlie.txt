@@ -15937,7 +15937,6 @@ chiripa
 coronal
 cleistocarp
 cornwall
-cleistogeny
 cullage
 cilicism
 cannabinaceae
@@ -22105,6 +22104,7 @@ comradeliness
 chlorellaceae
 configured
 confining
+cleistogeny
 confinity
 confirmability
 categorised
