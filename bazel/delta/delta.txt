@@ -2054,7 +2054,6 @@ diurnal
 daikered
 devotion
 ditchside
-drabbler
 donaries
 dizened
 delicto
@@ -7343,6 +7342,7 @@ definement
 democraw
 data
 despatches
+drabbler
 docquet
 demiurgical
 dodgasted
