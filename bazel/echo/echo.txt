@@ -5882,7 +5882,6 @@ electrometallurgy
 eruc
 erythrose
 ellebore
-emptiness
 embound
 epicondylitis
 expectorates
@@ -6613,6 +6612,7 @@ estuosity
 equilibriria
 endamnify
 exploitations
+emptiness
 epistles
 entosclerite
 etherialise
