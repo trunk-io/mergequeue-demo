@@ -5830,7 +5830,6 @@ eld
 epicardial
 ecru
 expend
-escarp
 enhaemospore
 existent
 exuviability
@@ -8690,6 +8689,7 @@ enround
 enstore
 electrovalently
 eserin
+escarp
 excreta
 electrobath
 ethnobiological
