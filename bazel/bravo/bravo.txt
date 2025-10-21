@@ -321,7 +321,6 @@ bumps
 burrknot
 bocardo
 brumbies
-bittersweets
 bespeed
 blitzed
 bs
@@ -13538,6 +13537,7 @@ biometricist
 bubastid
 bevelled
 butadiene
+bittersweets
 bullfice
 braggartry
 bookend
