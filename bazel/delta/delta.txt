@@ -1666,6 +1666,7 @@ deul
 daw
 dipsy
 datemark
+dorsocaudal
 dimanganion
 densen
 deamination
@@ -12607,7 +12608,6 @@ dacryolith
 debarbarization
 divot
 dec
-dorsocaudal
 depend
 disuses
 divertible
