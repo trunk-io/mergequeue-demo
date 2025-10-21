@@ -6472,7 +6472,6 @@ battledores
 bechtler
 blooping
 bestiaries
-bostonian
 bobooti
 batonga
 buccal
@@ -7414,6 +7413,7 @@ bandyman
 bath
 burhinus
 botcheries
+bostonian
 bankeress
 backwardation
 bathed
