@@ -2329,7 +2329,6 @@ beholders
 becalms
 beworship
 borneol
-bardlike
 becowards
 betowel
 bespate
@@ -5325,6 +5324,7 @@ burweeds
 blusteringly
 baltimore
 bhisties
+bardlike
 bemixed
 bedways
 blinkered
