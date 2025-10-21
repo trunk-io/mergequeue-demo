@@ -6982,7 +6982,6 @@ bespeaking
 bondon
 bluejacks
 binned
-bitripartite
 bedwards
 bumaree
 ballroom
@@ -17619,6 +17618,7 @@ benefitted
 begs
 bristol
 burghers
+bitripartite
 burgraves
 bowdlerized
 boehmeria
