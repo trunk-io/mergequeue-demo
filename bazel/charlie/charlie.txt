@@ -8382,6 +8382,7 @@ crystallitic
 charismas
 crankism
 chamecephalous
+corequisite
 cannibals
 chameleon
 cultrirostral
@@ -25226,7 +25227,6 @@ chirotherium
 coinstantaneous
 cancerism
 categorising
-corequisite
 corers
 codeinas
 cores
