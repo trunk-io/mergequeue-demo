@@ -8778,7 +8778,6 @@ barest
 blunks
 burgess
 breaker
-beparse
 buddhistical
 boffola
 bouncy
@@ -13540,6 +13539,7 @@ bookend
 beseek
 besplatter
 bilgiest
+beparse
 butcherdom
 befoam
 brigittine
