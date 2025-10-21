@@ -6444,6 +6444,7 @@ comestible
 cambodia
 cavelike
 cavemen
+choicier
 cybernetical
 cavernal
 cavernlike
@@ -22765,7 +22766,6 @@ camass
 connived
 chromochalcography
 connives
-choicier
 captance
 concausal
 caliper
