@@ -8821,6 +8821,7 @@ boches
 bioclimatic
 bioclimatology
 bathwater
+bartisan
 blabber
 bern
 begowk
@@ -14465,7 +14466,6 @@ broadsheet
 bacteriogenous
 baronies
 brainstems
-bartisan
 beeswaxes
 blushingly
 buckrams
