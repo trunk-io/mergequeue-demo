@@ -5308,7 +5308,6 @@ esthesioblast
 emarginate
 evangelising
 extradotal
-exclude
 emesidae
 energised
 eczema
@@ -11660,6 +11659,7 @@ excellence
 ecu
 eutechnic
 eosophobia
+exclude
 edulcorator
 epistemophiliac
 ethylenediamine
