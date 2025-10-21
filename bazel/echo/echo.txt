@@ -1344,7 +1344,6 @@ epics
 equalable
 eutrophication
 entasias
-efl
 efoliose
 estrogenicity
 elenchtical
@@ -9332,6 +9331,7 @@ ephahs
 enterobacterium
 exorability
 embanked
+efl
 eremitish
 epilamellar
 echometer
