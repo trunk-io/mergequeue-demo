@@ -1551,7 +1551,6 @@ colonialise
 castrato
 cowgrass
 contraprogressist
-cultivable
 castor
 callousness
 cretinization
@@ -29982,6 +29981,7 @@ copses
 crosslink
 carposporangia
 chromonema
+cultivable
 contrahent
 curmurging
 chokebore
