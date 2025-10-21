@@ -1024,7 +1024,6 @@ coassistant
 coessential
 coisns
 calcaneum
-cdr
 caman
 comparatives
 charabanc
@@ -28340,6 +28339,7 @@ crasher
 crashers
 cultellation
 crashes
+cdr
 curtseying
 crashworthiness
 coccyges
