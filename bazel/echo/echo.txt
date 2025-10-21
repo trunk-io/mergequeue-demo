@@ -3595,7 +3595,6 @@ entrainer
 epicenes
 effluvium
 elegy
-excommune
 ephererist
 electropathology
 edelweisses
@@ -11233,6 +11232,7 @@ extrafascicular
 ectonephridium
 expulsions
 ectocuneiform
+excommune
 effulgences
 epilobium
 elasticizes
