@@ -13464,7 +13464,6 @@ defamers
 demo
 disulfoxid
 datasets
-deeps
 dermatophony
 desperate
 dissyllabic
@@ -15877,6 +15876,7 @@ droplet
 disacquaint
 dulceness
 disconsolate
+deeps
 drover
 dhurry
 depressible
