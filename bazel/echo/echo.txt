@@ -1148,6 +1148,7 @@ executors
 effect
 exeat
 electropism
+egoisticalness
 euonymy
 ebony
 enmove
@@ -1454,7 +1455,6 @@ escroll
 epitendineum
 echevaria
 ecclesiastics
-egoisticalness
 effronteries
 existences
 emotions
