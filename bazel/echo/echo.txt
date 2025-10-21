@@ -3683,7 +3683,6 @@ empresario
 etouffe
 efforce
 embussing
-ebullate
 emceeing
 esquiline
 echafaudage
@@ -10653,6 +10652,7 @@ extruct
 enrol
 enchase
 exceeding
+ebullate
 envenoming
 enantiomorphous
 ettirone
