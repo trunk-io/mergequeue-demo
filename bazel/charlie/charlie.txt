@@ -19272,7 +19272,6 @@ clogmaker
 cusping
 connectibility
 colocynth
-connections
 ceviches
 centurist
 claqueur
@@ -31637,6 +31636,7 @@ camera
 counterpillar
 conred
 curvities
+connections
 curstness
 cadastration
 contemplator
