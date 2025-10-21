@@ -5832,7 +5832,6 @@ extractor
 eulalia
 edicule
 entrain
-exonarthex
 eulamellibranchia
 estrogen
 extravagancies
@@ -9685,6 +9684,7 @@ eleomargaric
 ecbatic
 embouchement
 ealderman
+exonarthex
 elucidated
 epulo
 enragedly
