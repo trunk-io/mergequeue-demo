@@ -1901,7 +1901,6 @@ beret
 beleave
 bibionid
 bezzi
-bangled
 boult
 bobcoat
 bias
@@ -10747,6 +10746,7 @@ bleaunt
 bellbine
 beshame
 burh
+bangled
 bleck
 broomiest
 broken
