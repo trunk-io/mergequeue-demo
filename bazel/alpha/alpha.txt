@@ -7133,6 +7133,7 @@ ascenders
 aethrioscope
 atomical
 apostaxis
+avanters
 airworthiness
 acclimatation
 alacrity
@@ -19968,7 +19969,6 @@ acosmistic
 armchair
 acetabular
 arrah
-avanters
 athel
 admissions
 abashing
