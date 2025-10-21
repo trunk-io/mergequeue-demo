@@ -5970,7 +5970,6 @@ breakweather
 beetlike
 bunkerage
 bedrift
-borana
 buccinidae
 barragon
 bamoth
@@ -14271,6 +14270,7 @@ bespot
 bauhinias
 barehead
 batters
+borana
 beachier
 buhls
 boutiques
