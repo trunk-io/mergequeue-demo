@@ -3017,6 +3017,7 @@ atlases
 acquest
 allometric
 automaker
+afars
 afterbreast
 actinopteri
 alamonti
@@ -13296,7 +13297,6 @@ assailant
 antisophistication
 apoplectically
 anisal
-afars
 anisocercal
 afunctional
 autohemolytic
