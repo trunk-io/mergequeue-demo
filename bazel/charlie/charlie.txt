@@ -7649,7 +7649,6 @@ corambis
 chloroplatinite
 cermet
 clavis
-cataplastic
 ciceros
 colyonic
 cephalocercal
@@ -21346,6 +21345,7 @@ catberry
 cusinero
 concerted
 cryptoanalyst
+cataplastic
 concertedness
 curtseys
 concertini
