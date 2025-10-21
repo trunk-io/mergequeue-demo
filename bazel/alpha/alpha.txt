@@ -2584,7 +2584,6 @@ arghan
 acridophagus
 arrgt
 aerocartograph
-artifact
 acriflavin
 alepidote
 aggrege
@@ -22500,6 +22499,7 @@ antinicotine
 apathy
 apyrase
 autolysate
+artifact
 abscondence
 aerobee
 aculeate
