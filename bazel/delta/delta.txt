@@ -7303,6 +7303,7 @@ detecters
 decertify
 deplume
 dominos
+dysacousis
 damnation
 dandiacal
 damnified
@@ -17162,7 +17163,6 @@ divagate
 dynamics
 deposer
 decomposure
-dysacousis
 dacoiting
 decorums
 diurnule
