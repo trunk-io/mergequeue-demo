@@ -2754,7 +2754,6 @@ courtroll
 cyrtandraceae
 coulure
 corniche
-cephalacanthus
 ciliograde
 crispening
 chebeck
@@ -4819,6 +4818,7 @@ consanguineal
 cosmolining
 clowneries
 castellano
+cephalacanthus
 copr
 cartelist
 craspedon
