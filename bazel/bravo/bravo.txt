@@ -1530,7 +1530,6 @@ brot
 barogram
 boud
 boyarism
-barbells
 bucrane
 burr
 ballottement
@@ -11105,6 +11104,7 @@ baric
 boshvarks
 bolography
 buckler
+barbells
 bloodlusting
 bowdichia
 bipenniform
