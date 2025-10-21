@@ -7694,7 +7694,6 @@ bifilar
 brewers
 bandersnatch
 brandify
-bark
 bibacity
 belauds
 blanco
@@ -15644,6 +15643,7 @@ broadcaster
 brainsick
 belate
 bonitoes
+bark
 blennorrhagic
 blepharedema
 beakerful
