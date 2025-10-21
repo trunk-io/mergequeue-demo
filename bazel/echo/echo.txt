@@ -3865,7 +3865,6 @@ ethnogenist
 erogenesis
 earl
 earthbound
-entomotomist
 endosymbiosis
 endopeptidase
 eumeromorph
@@ -6629,6 +6628,7 @@ epirogeny
 epoophoron
 exurb
 elocular
+entomotomist
 euphorically
 earthenware
 eternalised
