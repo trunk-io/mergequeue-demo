@@ -3898,6 +3898,7 @@ brighteners
 balky
 brinks
 bedaubed
+bordures
 bronteum
 beamroom
 bantlings
@@ -12720,7 +12721,6 @@ blurted
 bookbind
 boogies
 bagre
-bordures
 bricked
 bubbles
 breeds
