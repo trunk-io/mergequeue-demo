@@ -7110,6 +7110,7 @@ cardo
 coruscant
 cheatable
 centrad
+checkweigher
 central
 cobblery
 circumpentagon
@@ -24487,7 +24488,6 @@ carbonic
 convertiplane
 cooncans
 cest
-checkweigher
 coony
 carnify
 coonier
