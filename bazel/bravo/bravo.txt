@@ -7552,6 +7552,7 @@ beeyard
 building
 barking
 bovids
+bevilled
 bookfold
 beworn
 brigantes
@@ -17708,7 +17709,6 @@ backstay
 betaken
 benzaldehyde
 baileys
-bevilled
 benzamino
 binh
 beparody
