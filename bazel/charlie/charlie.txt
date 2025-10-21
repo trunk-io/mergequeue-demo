@@ -9509,7 +9509,6 @@ capes
 checkage
 checkbook
 caulis
-champ
 cryptobatholithic
 cableways
 champer
@@ -10056,6 +10055,7 @@ characterist
 chanoyu
 cacomixle
 chauffeuring
+champ
 cherubic
 chowder
 caribisi
