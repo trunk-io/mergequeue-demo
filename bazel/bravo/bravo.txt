@@ -3595,6 +3595,7 @@ bylining
 battlestead
 battlewagon
 barkbound
+bathybic
 barranca
 bemist
 blackboard
@@ -14553,7 +14554,6 @@ brushback
 beast
 blastophitic
 boser
-bathybic
 bestuur
 balanophorin
 benzoazurine
