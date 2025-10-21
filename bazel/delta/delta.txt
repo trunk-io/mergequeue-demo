@@ -7354,7 +7354,6 @@ disilicid
 disorientation
 disembed
 dolmas
-disseized
 disturbor
 damageous
 disfavorer
@@ -10167,6 +10166,7 @@ decopperize
 diminisher
 daler
 dwarfed
+disseized
 dipsomania
 diminishment
 dawnward
