@@ -788,7 +788,6 @@ englishism
 ectoparasitica
 endsweep
 economically
-endship
 elle
 excipient
 ectocondylar
@@ -11358,6 +11357,7 @@ encephalosepsis
 excreting
 eave
 elegize
+endship
 encipherments
 enchiridion
 electrothermotic
