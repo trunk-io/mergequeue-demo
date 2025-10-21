@@ -2183,7 +2183,6 @@ counterhammering
 campos
 campsite
 conidial
-campsites
 cosmism
 campstool
 camptonite
@@ -29119,6 +29118,7 @@ closuring
 curbable
 chloryl
 cyesiology
+campsites
 cringeling
 conciliarism
 cringes
