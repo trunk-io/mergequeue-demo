@@ -4486,6 +4486,7 @@ evangelicals
 elasticity
 enchancement
 earshots
+encounterable
 electrocoating
 ecblastpsis
 exosmic
@@ -12503,7 +12504,6 @@ eductive
 evection
 eukairite
 evilspeaker
-encounterable
 encyst
 enterer
 eelboat
