@@ -130,7 +130,6 @@ endosiphuncle
 eneid
 enticer
 epiploitis
-elflock
 eaux
 examiner
 exiling
@@ -10765,6 +10764,7 @@ electrokinematics
 endeared
 equibalanced
 elementary
+elflock
 embowelling
 eoiths
 estrildine
