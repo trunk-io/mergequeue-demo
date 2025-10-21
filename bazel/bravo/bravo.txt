@@ -1325,6 +1325,7 @@ bathylite
 belander
 bucktail
 butylate
+batheable
 baldakin
 beryllosis
 baldcrown
@@ -17192,7 +17193,6 @@ biogens
 bassi
 brantail
 biomagnetic
-batheable
 brachialgia
 biorhythmic
 brachydodrome
