@@ -2769,7 +2769,6 @@ chebeck
 cannulate
 circumscribe
 cursitor
-canoeload
 colius
 canoeist
 chimakuan
@@ -20770,6 +20769,7 @@ cavu
 complexionless
 cahuapana
 coryphodon
+canoeload
 calculation
 complexive
 condensates
