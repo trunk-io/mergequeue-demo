@@ -5068,6 +5068,7 @@ diobols
 degraders
 dioeciopolygamous
 drainman
+dominus
 discase
 dodecasyllabic
 demote
@@ -10742,7 +10743,6 @@ despairfulness
 documented
 decoctible
 desirers
-dominus
 dispensative
 dringle
 doorplates
