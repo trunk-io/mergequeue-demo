@@ -4772,6 +4772,7 @@ depas
 dragrope
 decken
 drysalter
+denominations
 durio
 disguisedness
 demisemitone
@@ -8288,7 +8289,6 @@ dobzhansky
 disventure
 detainer
 dispireme
-denominations
 deknight
 decatyl
 debell
