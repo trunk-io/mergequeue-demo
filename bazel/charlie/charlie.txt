@@ -28068,6 +28068,7 @@ craftly
 center
 charactonym
 craftsmaster
+chinese
 craftspeople
 capersome
 crag
@@ -30579,7 +30580,6 @@ cuboids
 cubomedusan
 cubometatarsal
 cubonavicular
-chinese
 chouanize
 chromoparous
 coercionist
