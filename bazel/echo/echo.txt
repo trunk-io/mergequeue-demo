@@ -9309,7 +9309,6 @@ eggbeater
 euchred
 erudite
 ecesis
-eclogic
 existimation
 ethnogeny
 ephahs
@@ -9837,6 +9836,7 @@ emotiomuscular
 eurhythmical
 eyeletting
 emove
+eclogic
 endew
 ethanal
 encephalothlipsis
