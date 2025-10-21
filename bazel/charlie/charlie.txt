@@ -1251,7 +1251,6 @@ coolabah
 cyprian
 cerulignone
 calepin
-chugalug
 cupressinoxylon
 concursus
 cementin
@@ -9151,6 +9150,7 @@ commonefaction
 charts
 confluent
 chontal
+chugalug
 corroborate
 coppice
 conjurations
