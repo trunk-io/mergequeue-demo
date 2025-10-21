@@ -8133,7 +8133,6 @@ epitaphian
 eulogy
 embolium
 excystation
-extogenous
 epitaphs
 engineering
 escalators
@@ -13918,6 +13917,7 @@ enterozoic
 episodes
 extraneousness
 ethoxyl
+extogenous
 extravillar
 emplanes
 eyeglass
