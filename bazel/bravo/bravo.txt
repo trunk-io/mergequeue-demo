@@ -8301,7 +8301,6 @@ beadlery
 beryllia
 babu
 basiliscan
-byhand
 bodleian
 bijou
 babbit
@@ -12481,6 +12480,7 @@ balbutiate
 bullyrock
 bradykinetic
 bellybuttons
+byhand
 bookroom
 battler
 bullshitted
