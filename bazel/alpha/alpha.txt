@@ -1558,6 +1558,7 @@ academus
 augustan
 ampelite
 assoc
+audiometries
 android
 aldermanship
 accretes
@@ -8843,7 +8844,6 @@ assumable
 autotoxaemia
 alexines
 archplotter
-audiometries
 arachnitis
 allusions
 adaptionism
