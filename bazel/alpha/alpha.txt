@@ -5217,7 +5217,6 @@ anchoret
 avoir
 anisopod
 agglutinable
-abp
 affrightedly
 acarpellous
 anticensorship
@@ -20996,6 +20995,7 @@ averrable
 amytal
 appertains
 abysmal
+abp
 alarmisms
 allotropous
 aupaka
