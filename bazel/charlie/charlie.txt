@@ -9323,7 +9323,6 @@ cenobe
 chauffer
 chauffeured
 cestoids
-crankplate
 carity
 challenges
 couvert
@@ -29947,6 +29946,7 @@ crossbreds
 coxal
 chekist
 compositing
+crankplate
 catarrhed
 crossbreeding
 cameralism
