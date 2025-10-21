@@ -15442,6 +15442,7 @@ brigadier
 blinis
 benzothiofuran
 bey
+brimfull
 baahling
 barbarianism
 brigantines
@@ -17172,7 +17173,6 @@ bouchal
 bim
 bullies
 bintangor
-brimfull
 belgrade
 bullion
 balkanization
