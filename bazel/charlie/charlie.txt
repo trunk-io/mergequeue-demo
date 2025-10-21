@@ -3439,7 +3439,6 @@ chromospheres
 chorusing
 cerrial
 cuirie
-capsulorrhaphy
 cassiopeid
 confix
 constriction
@@ -5658,6 +5657,7 @@ consomme
 commation
 catchpoll
 contribute
+capsulorrhaphy
 catchweight
 caretaker
 catchword
