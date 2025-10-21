@@ -7911,7 +7911,6 @@ cetology
 copepodan
 cetomorpha
 cumular
-castrum
 contractible
 clarissimo
 celiomyalgia
@@ -23836,6 +23835,7 @@ contraregularity
 cumulation
 cleruchies
 covary
+castrum
 centrifugalise
 centrisciform
 conductimeter
