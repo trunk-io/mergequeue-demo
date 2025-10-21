@@ -17859,6 +17859,7 @@ bastile
 barbicanage
 burster
 bawler
+bvt
 blutwurst
 blotch
 boorga
@@ -18426,7 +18427,6 @@ bagreef
 beflowered
 beaveries
 bulgari
-bvt
 bespake
 baulk
 bahoo
