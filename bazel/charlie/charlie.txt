@@ -7813,7 +7813,6 @@ cesarians
 cruisers
 calcinable
 chinned
-cesious
 choreman
 cesiums
 cespititious
@@ -15241,6 +15240,7 @@ crewet
 claimed
 claimer
 consumables
+cesious
 claimers
 circumfluence
 cytogenetically
