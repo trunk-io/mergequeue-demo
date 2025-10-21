@@ -3898,7 +3898,6 @@ anaudia
 achaemenid
 assignat
 adnominal
-amphidiploid
 aleurones
 aubain
 adjunctively
@@ -14614,6 +14613,7 @@ armourbearer
 airbus
 aphototropic
 auxanometer
+amphidiploid
 avowed
 allheals
 anthropomorphised
