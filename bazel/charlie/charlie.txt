@@ -10986,7 +10986,6 @@ clattery
 coalition
 cicatrixes
 chiromys
-chalcioecus
 chironym
 caecum
 chironomid
@@ -20232,6 +20231,7 @@ commit
 commits
 calycoid
 cycasins
+chalcioecus
 chutist
 catabasion
 committed
