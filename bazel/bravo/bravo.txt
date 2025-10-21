@@ -7990,7 +7990,6 @@ bimolecularly
 beset
 barrowful
 befouls
-bidirectional
 baggy
 bellicosities
 bret
@@ -17940,6 +17939,7 @@ besets
 bilimbing
 ballhawk
 banished
+bidirectional
 boothose
 basemen
 barkle
