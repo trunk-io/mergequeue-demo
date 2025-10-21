@@ -10943,6 +10943,7 @@ cymblings
 crafting
 conidae
 commutations
+cicada
 citrines
 chirographers
 crl
@@ -11699,7 +11700,6 @@ coccobaccilli
 casques
 cholones
 cholophein
-cicada
 cushier
 cholterheaded
 cozing
