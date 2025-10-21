@@ -2784,7 +2784,6 @@ enveloper
 etholide
 exmoor
 erioglaucine
-enterotoxin
 evince
 erythrocatalysis
 elks
@@ -5771,6 +5770,7 @@ enounced
 edestan
 electromagnetist
 eelery
+enterotoxin
 enterotoxemia
 enterobiliary
 esotrope
