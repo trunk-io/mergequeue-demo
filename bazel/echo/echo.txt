@@ -4158,7 +4158,6 @@ examinant
 envelopes
 emulsion
 ectopia
-esotrope
 elaeoptene
 emulsions
 esophoric
@@ -5759,6 +5758,7 @@ edestan
 electromagnetist
 eelery
 enterotoxemia
+esotrope
 elves
 emlen
 expiations
