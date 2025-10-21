@@ -17787,7 +17787,6 @@ cibarium
 croton
 chasing
 cocoas
-cocobolas
 cocobolos
 cocoyam
 chapelet
@@ -26425,6 +26424,7 @@ cheechakos
 crystallographic
 concavities
 centipoise
+cocobolas
 coterminousness
 choanocyte
 cerenkov
