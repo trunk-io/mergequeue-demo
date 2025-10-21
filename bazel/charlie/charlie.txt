@@ -7475,6 +7475,7 @@ chint
 cercopithecus
 condylos
 cebalrai
+counterbore
 cimbri
 canalisation
 chloraemia
@@ -26842,7 +26843,6 @@ cascrome
 counterborder
 cipolin
 canap
-counterbore
 commos
 culling
 counterbored
