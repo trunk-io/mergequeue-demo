@@ -8735,6 +8735,7 @@ discoloring
 daggletailed
 drumfire
 disappeared
+deflagrated
 draggletailed
 diapente
 disgusted
@@ -15483,7 +15484,6 @@ decimeters
 decarburise
 dawn
 deja
-deflagrated
 ducklings
 doable
 dealers
