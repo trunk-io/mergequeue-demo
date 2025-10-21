@@ -5759,7 +5759,6 @@ drawnet
 dermatine
 disrobe
 deplaning
-deflower
 disemboguing
 dysmerism
 divineress
@@ -9725,6 +9724,7 @@ dubious
 dijudicant
 disappropriate
 decapods
+deflower
 dabuh
 diovular
 dadaist
