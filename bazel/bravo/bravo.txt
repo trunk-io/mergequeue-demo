@@ -4209,7 +4209,6 @@ bredbergite
 boars
 benettle
 bostanji
-bowman
 butterman
 buildable
 brickier
@@ -16517,6 +16516,7 @@ beclown
 bentang
 broadleaves
 ballistae
+bowman
 basellaceous
 bluntie
 breviped
