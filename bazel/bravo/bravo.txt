@@ -5114,6 +5114,7 @@ bch
 backtrace
 busier
 baldwin
+beslime
 barometric
 bournless
 befringes
@@ -6646,7 +6647,6 @@ biomass
 bismuthine
 broomstaff
 barruly
-beslime
 blitter
 balaamitical
 boagane
