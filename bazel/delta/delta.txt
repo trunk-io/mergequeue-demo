@@ -10561,7 +10561,6 @@ distringas
 dioxid
 disfavors
 djibouti
-depletable
 dioxime
 decoyers
 dockland
@@ -12260,6 +12259,7 @@ desmotropic
 disseats
 doors
 derms
+depletable
 donatories
 depel
 digresser
