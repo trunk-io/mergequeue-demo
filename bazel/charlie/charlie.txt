@@ -10305,7 +10305,6 @@ clinometrical
 cadus
 chicken
 chartographist
-chordal
 cd
 counterpole
 coinfinite
@@ -18678,6 +18677,7 @@ chromatographically
 chappie
 coinheritor
 cronies
+chordal
 cleft
 campaigners
 calade
