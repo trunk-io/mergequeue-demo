@@ -377,6 +377,7 @@ archesporium
 alleyways
 ashling
 acetary
+anthers
 approx
 abominations
 argasidae
@@ -11647,7 +11648,6 @@ anabiotic
 alchem
 aminotransferase
 actinomycese
-anthers
 arising
 atechnic
 arango
