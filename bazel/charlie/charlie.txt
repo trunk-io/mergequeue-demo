@@ -11824,6 +11824,7 @@ cobblestones
 chooser
 choosers
 chronotropic
+carbocer
 chop
 chopa
 chalcids
@@ -28975,7 +28976,6 @@ conocuneus
 crikey
 cryable
 cotans
-carbocer
 camacey
 choriambs
 criant
