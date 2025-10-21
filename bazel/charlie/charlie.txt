@@ -12449,6 +12449,7 @@ cardiometry
 chromoisomeric
 chromoleucite
 chromolipoid
+crystalloid
 clayen
 clarioned
 chromolithography
@@ -29550,7 +29551,6 @@ confliction
 cynanchum
 cloak
 crystallography
-crystalloid
 cocceian
 choragium
 coolheadedly
