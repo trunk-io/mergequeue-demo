@@ -1848,7 +1848,6 @@ esocyclic
 extrude
 entamoebiasis
 endothermal
-essenical
 ergonovine
 excitably
 erupt
@@ -10280,6 +10279,7 @@ ectocyst
 egotism
 ensheath
 exogastritis
+essenical
 epigrammatizing
 ethereality
 electroionic
