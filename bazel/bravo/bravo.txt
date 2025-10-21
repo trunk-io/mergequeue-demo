@@ -6009,7 +6009,6 @@ biomasses
 bub
 breastpin
 bendee
-ballottable
 beaching
 bepierce
 bendees
@@ -18299,6 +18298,7 @@ beveto
 bluebutton
 biurate
 buras
+ballottable
 brickmason
 bobeche
 butterworker
