@@ -1339,7 +1339,6 @@ cycasin
 chifforobes
 civitas
 californian
-completive
 centerless
 cypseline
 comrade
@@ -6653,6 +6652,7 @@ conjurement
 cynopithecidae
 chazans
 cedrol
+completive
 corticiform
 cannibalized
 cherte
