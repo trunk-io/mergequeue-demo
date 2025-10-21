@@ -10492,7 +10492,6 @@ barytostrontianite
 bordarius
 blaoner
 burinist
-blares
 breakneck
 brimborium
 blottier
@@ -12792,6 +12791,7 @@ biasses
 bosset
 bruce
 biometrician
+blares
 boastfulness
 bocca
 bunyoro
