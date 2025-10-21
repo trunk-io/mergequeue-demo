@@ -3830,6 +3830,7 @@ exiguity
 empididae
 endplates
 explicitly
+edam
 ensuable
 eleutherian
 electrothermally
@@ -9081,7 +9082,6 @@ exultance
 empery
 epitaxially
 estuarine
-edam
 ecclesiastry
 ethnarch
 echidna
