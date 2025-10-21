@@ -3995,7 +3995,6 @@ betels
 byrlady
 bronchostomies
 beastman
-beastship
 barbets
 birthy
 balzarine
@@ -11724,6 +11723,7 @@ basidiomycetous
 bucket
 braincase
 biga
+beastship
 bravura
 bonaire
 bear
