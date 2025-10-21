@@ -5093,6 +5093,7 @@ amarillos
 affectivity
 affectum
 ankerite
+antipersonnel
 ampulated
 animadversion
 arpen
@@ -16335,7 +16336,6 @@ aptitude
 aspire
 autosomal
 alidad
-antipersonnel
 axweed
 atactiform
 antitrade
