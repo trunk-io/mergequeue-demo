@@ -4907,7 +4907,6 @@ carucate
 cylices
 caruncles
 carunculae
-caruncular
 cantankerous
 cyaphenine
 cohue
@@ -13488,6 +13487,7 @@ cistern
 ciliform
 centipede
 ciliiferous
+caruncular
 cylinder
 cylinders
 cholesterinuria
