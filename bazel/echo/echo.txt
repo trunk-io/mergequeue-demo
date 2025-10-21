@@ -10357,6 +10357,7 @@ endboard
 extrinsicalness
 exodus
 ethmose
+extruct
 euphonon
 enukki
 esprits
@@ -10638,7 +10639,6 @@ epithelia
 extraessentially
 endostomata
 eluviates
-extruct
 enrol
 enchase
 exceeding
