@@ -3331,7 +3331,6 @@ bastinado
 buggymen
 bastings
 bedsock
-bibliotaphe
 blendure
 butyn
 begift
@@ -6456,6 +6455,7 @@ bistro
 backbreaking
 bugwort
 bepray
+bibliotaphe
 bombyx
 ballplatz
 boondoggled
