@@ -2129,6 +2129,7 @@ defenseman
 dioxane
 drats
 doline
+despeed
 delight
 diapasm
 demulsifying
@@ -8441,7 +8442,6 @@ disrober
 dipteral
 diporpa
 dyable
-despeed
 discipline
 depreciable
 duskly
