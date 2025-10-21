@@ -11636,7 +11636,6 @@ balloter
 babblative
 basigynium
 burel
-boarwood
 boaster
 boastfully
 bombardo
@@ -12437,6 +12436,7 @@ bond
 bauxite
 beforetime
 bucks
+boarwood
 bless
 bakeware
 bloodstained
