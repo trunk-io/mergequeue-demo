@@ -12770,6 +12770,7 @@ bevy
 belongs
 baggage
 bullpup
+benefactory
 balabos
 blathery
 banzais
@@ -15734,7 +15735,6 @@ butterier
 brocatello
 bloodstains
 basilian
-benefactory
 batete
 briber
 billionths
