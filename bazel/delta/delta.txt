@@ -13019,6 +13019,7 @@ dialogs
 draught
 decempennate
 downing
+deny
 dilettanteish
 displaceable
 drumbling
@@ -16837,7 +16838,6 @@ daubs
 deuteride
 discoursing
 decrew
-deny
 dineutron
 digamies
 dishonorary
