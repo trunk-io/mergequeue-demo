@@ -7513,7 +7513,6 @@ belverdian
 bowmen
 butterbump
 bounder
-bdellouridae
 bellyflaught
 bashlyk
 bedewoman
@@ -14856,6 +14855,7 @@ bashlik
 bioscientific
 brazenfacedness
 bonyfish
+bdellouridae
 brows
 blamable
 bombycid
