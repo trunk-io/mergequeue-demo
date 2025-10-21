@@ -2514,7 +2514,6 @@ bridgelike
 buddage
 brahmanist
 bellon
-bunkerman
 barocco
 boardable
 betterments
@@ -12285,6 +12284,7 @@ berede
 baldric
 bono
 boltrope
+bunkerman
 begrave
 barbarea
 boers
