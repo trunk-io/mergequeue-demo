@@ -10560,7 +10560,6 @@ carports
 chiller
 confessionary
 cyprina
-contrapose
 chakram
 chemicophysiological
 callable
@@ -29387,6 +29386,7 @@ collaborated
 compilatory
 centeses
 copyread
+contrapose
 calyciform
 cryptogram
 chlorimetric
