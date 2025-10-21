@@ -9958,7 +9958,6 @@ bankable
 barbeled
 backset
 beryllate
-bilinguality
 brad
 bivious
 betrap
@@ -17379,6 +17378,7 @@ bounciest
 bunger
 bewig
 bejeled
+bilinguality
 baud
 bungling
 bullit
