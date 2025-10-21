@@ -5768,7 +5768,6 @@ brasswork
 barbuts
 belonging
 billeters
-balmarcodes
 beadier
 bigwig
 berob
@@ -16913,6 +16912,7 @@ brahm
 barefit
 bevomits
 bugbane
+balmarcodes
 beaume
 bigwigged
 beneficially
