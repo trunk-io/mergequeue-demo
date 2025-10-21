@@ -13505,7 +13505,6 @@ benes
 backfields
 blueprints
 barratry
-basementless
 bargaining
 bovines
 belvederes
@@ -16404,6 +16403,7 @@ bemire
 backarrow
 binturong
 bromos
+basementless
 branchy
 balalaikas
 breaststroke
