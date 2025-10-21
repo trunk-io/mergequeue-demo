@@ -301,7 +301,6 @@ awaken
 amissing
 angiothlipsis
 arditi
-abducens
 atonic
 animated
 apothece
@@ -7927,6 +7926,7 @@ allectory
 alembicated
 aburton
 achordata
+abducens
 alen
 alkaloidal
 agreeable
