@@ -6701,7 +6701,6 @@ expiatist
 edificing
 entoils
 erodes
-espec
 ethnologist
 entom
 extender
@@ -12022,6 +12021,7 @@ egis
 eidolic
 eliminant
 equid
+espec
 estovers
 electivity
 edgrow
