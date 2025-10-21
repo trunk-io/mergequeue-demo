@@ -10275,7 +10275,6 @@ burgonets
 blennorrhoea
 brainstorm
 boolean
-bulleting
 biofeedback
 berries
 buttonhook
@@ -12623,6 +12622,7 @@ billowier
 billposting
 braccate
 barebones
+bulleting
 bakshaish
 bawble
 bonspiel
