@@ -3275,7 +3275,6 @@ endamages
 enfume
 enring
 ensignry
-epileptic
 ectasis
 errantry
 exoticity
@@ -3870,6 +3869,7 @@ extraspherical
 equisetales
 elevatingly
 endosmos
+epileptic
 eneugh
 eventides
 euglandina
