@@ -5072,7 +5072,6 @@ drainman
 discase
 dodecasyllabic
 demote
-determinator
 demoted
 dogmatiser
 dictatory
@@ -12394,6 +12393,7 @@ dinamode
 dinos
 diploblastic
 dishabille
+determinator
 demonolatrous
 direction
 damselfly
