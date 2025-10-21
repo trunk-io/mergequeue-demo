@@ -8771,6 +8771,7 @@ cinerins
 chapels
 craal
 chapelward
+coolers
 cycloheptane
 ceroplast
 chaperno
@@ -24446,7 +24447,6 @@ cirsotome
 cathodegraph
 coolen
 cooler
-coolers
 caviling
 connectional
 climber
