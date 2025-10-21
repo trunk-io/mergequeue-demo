@@ -6846,6 +6846,7 @@ equestrians
 employee
 euphemy
 eyebath
+enabled
 emusifying
 eudeve
 erlkings
@@ -11813,7 +11814,6 @@ exasperatingly
 exanguin
 epidialogue
 exclusivity
-enabled
 efficience
 exteriorized
 excogitator
