@@ -10399,6 +10399,7 @@ budded
 bullshot
 balisaurs
 beneath
+batel
 befriz
 ballist
 brays
@@ -10973,7 +10974,6 @@ burrawang
 brighid
 batement
 benchmar
-batel
 biblioklept
 backfiller
 billowy
