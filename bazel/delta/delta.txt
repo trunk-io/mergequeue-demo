@@ -3865,6 +3865,7 @@ deallocations
 diaporesis
 debilitates
 diwan
+drawglove
 durani
 denigrative
 dreidels
@@ -13465,7 +13466,6 @@ dwarves
 digitalis
 demiglace
 dought
-drawglove
 disregarding
 diselenid
 deforests
