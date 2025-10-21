@@ -2493,6 +2493,7 @@ bathroot
 bootie
 backframe
 bluebottles
+banterer
 bearleap
 babiroussa
 bochism
@@ -6445,7 +6446,6 @@ bequalm
 blazed
 blackwasher
 bioblast
-banterer
 birthstool
 battledores
 bechtler
