@@ -1291,6 +1291,7 @@ bojo
 burlers
 beakful
 barrowcoat
+berm
 bruisewort
 brod
 baltei
@@ -6644,7 +6645,6 @@ blitter
 balaamitical
 boagane
 brontosaurus
-berm
 bixa
 bedevilling
 berme
