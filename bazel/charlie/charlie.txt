@@ -1293,7 +1293,6 @@ catakinomeric
 calyces
 cathartin
 calycifloral
-caliciform
 calycinal
 calycine
 capitulatory
@@ -27105,6 +27104,7 @@ countermoved
 casebound
 counterjudging
 codebooks
+caliciform
 compliers
 ceratopteridaceous
 coronally
