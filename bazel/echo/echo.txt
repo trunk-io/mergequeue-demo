@@ -1042,7 +1042,6 @@ eident
 electrochemist
 educatable
 electrolyzable
-epistropheus
 espaliered
 egrimony
 evolutional
@@ -4112,6 +4111,7 @@ enticements
 electroetching
 excruciatingness
 exocataphoria
+epistropheus
 enhusk
 enwound
 extratheistic
