@@ -13111,6 +13111,7 @@ bombsight
 balling
 barf
 blizzard
+bated
 bored
 businessese
 buster
@@ -14268,7 +14269,6 @@ brocades
 beckiron
 bugweed
 biographize
-bated
 burkundauze
 boarding
 blennogenic
