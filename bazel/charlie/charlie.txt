@@ -850,7 +850,6 @@ compilable
 copybook
 counteragent
 clubhands
-curtlax
 cairned
 copperheads
 crackrope
@@ -17745,6 +17744,7 @@ catodont
 circles
 citric
 cocitizen
+curtlax
 contrepartie
 cocitizenship
 cockade
