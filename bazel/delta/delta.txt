@@ -8207,7 +8207,6 @@ daybreaks
 dialuric
 dhundia
 disembowelled
-drawable
 dhurra
 deedbote
 deltohedron
@@ -13336,6 +13335,7 @@ disprizes
 disprofitable
 dactylioglyphy
 duplicative
+drawable
 disproportional
 duplexing
 dinghy
