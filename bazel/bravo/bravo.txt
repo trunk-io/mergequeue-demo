@@ -6458,6 +6458,7 @@ battledores
 bechtler
 blooping
 bestiaries
+bostonian
 bobooti
 batonga
 buccal
@@ -9625,7 +9626,6 @@ bandman
 bromated
 bicircular
 botonny
-bostonian
 bellhop
 bisectors
 bisectrices
