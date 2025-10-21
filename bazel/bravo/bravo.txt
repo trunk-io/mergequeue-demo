@@ -5336,7 +5336,6 @@ ballaster
 budgerigar
 batteners
 bootid
-bookish
 bensel
 bombax
 behoof
@@ -17858,6 +17857,7 @@ bused
 boleweed
 befire
 bibliopoly
+bookish
 bestselling
 bibliograph
 brawns
