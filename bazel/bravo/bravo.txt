@@ -5314,7 +5314,6 @@ becompass
 brains
 barothermogram
 bandura
-biopoiesis
 behavioural
 becket
 bluestockingish
@@ -18094,6 +18093,7 @@ bebog
 becharmed
 bastnaesite
 booklet
+biopoiesis
 buccally
 boatsman
 barrancos
