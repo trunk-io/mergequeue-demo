@@ -5365,7 +5365,6 @@ expostulation
 epitimesis
 esthesiometer
 enfester
-eikons
 electronvolt
 ectene
 ebulus
@@ -7112,6 +7111,7 @@ electropercussive
 edification
 encephalon
 elve
+eikons
 enguard
 effervesce
 economese
