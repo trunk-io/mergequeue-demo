@@ -3542,6 +3542,7 @@ bhut
 batsman
 barile
 besetting
+bessel
 benzophenol
 bloater
 bunsen
@@ -12613,7 +12614,6 @@ bonnnes
 banksides
 bdellidae
 bianca
-bessel
 baysmelts
 bassetting
 birching
