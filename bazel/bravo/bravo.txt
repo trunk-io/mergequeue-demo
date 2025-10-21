@@ -3120,7 +3120,6 @@ bedouin
 boons
 backoff
 blackbine
-basking
 basilics
 blash
 birder
@@ -10571,6 +10570,7 @@ beambird
 blautok
 bedstaff
 bespangle
+basking
 bilirubin
 basters
 bagger
