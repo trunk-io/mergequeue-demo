@@ -687,7 +687,6 @@ bumpkinly
 britches
 batholithic
 betimber
-brickmaker
 bade
 badness
 booklice
@@ -13826,6 +13825,7 @@ buffers
 bannut
 butle
 bushmaker
+brickmaker
 baltimorite
 bunks
 burgout
