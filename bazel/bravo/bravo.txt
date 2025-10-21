@@ -10779,6 +10779,7 @@ bandstands
 blick
 bullbeggar
 brasser
+bugproof
 baldrics
 beautifier
 bulldogger
@@ -18260,7 +18261,6 @@ bioclimatologies
 bystreets
 butterflower
 bleinerite
-bugproof
 backstop
 bepainting
 brechtian
