@@ -1752,7 +1752,6 @@ ballotage
 birken
 bingee
 bemisted
-bandhook
 babyhood
 bonehead
 bukshee
@@ -14725,6 +14724,7 @@ blungers
 bolder
 balboa
 brachering
+bandhook
 brassard
 bearing
 brins
