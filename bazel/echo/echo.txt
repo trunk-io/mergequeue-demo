@@ -9413,7 +9413,6 @@ electrophoridae
 evacuees
 eurygaea
 eyesalve
-endosmotic
 enchytraeidae
 exigences
 ethic
@@ -9981,6 +9980,7 @@ enfeebling
 eurycephalic
 ebulliometer
 explicans
+endosmotic
 epiplopexy
 ecuadorian
 ectocommensal
