@@ -7133,6 +7133,7 @@ adlegiare
 ascenders
 aethrioscope
 atomical
+apostaxis
 airworthiness
 acclimatation
 alacrity
@@ -22191,7 +22192,6 @@ acidheads
 admonitor
 adenosclerosis
 acanthine
-apostaxis
 adenocancroid
 asteroid
 aerognosy
