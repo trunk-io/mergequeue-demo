@@ -295,6 +295,7 @@ equichangeable
 easterling
 ewest
 envire
+enshell
 eighty
 eyra
 epimorphism
@@ -6962,7 +6963,6 @@ ergodic
 ethmophysal
 earthfast
 eyeopener
-enshell
 euphemous
 exuvial
 exegete
