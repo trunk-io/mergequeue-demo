@@ -4712,7 +4712,6 @@ dispensive
 disrate
 decretal
 diapason
-ducky
 disenthrall
 diaphones
 diplocardia
@@ -18465,6 +18464,7 @@ disquisiting
 duplication
 dumbledore
 dogsbody
+ducky
 duncehood
 discouragement
 determinant
