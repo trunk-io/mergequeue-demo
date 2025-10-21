@@ -12388,7 +12388,6 @@ circumcircle
 contiguate
 chromatophilous
 chromatophobia
-chromatophore
 carpel
 chromatophoric
 cnidophobia
@@ -25487,6 +25486,7 @@ conductor
 coulombic
 chemotherapeutics
 cornice
+chromatophore
 creatinuria
 costodiaphragmatic
 compulsive
