@@ -8220,7 +8220,6 @@ clawker
 checks
 complaisant
 chalcomenite
-chalcopyrite
 cervicorn
 chytridium
 cosmonaut
@@ -18386,6 +18385,7 @@ contrarevolutionary
 cerotate
 chololith
 cognati
+chalcopyrite
 curlier
 crepitacula
 churchless
