@@ -7132,7 +7132,6 @@ adlegiare
 ascenders
 aethrioscope
 atomical
-apostaxis
 airworthiness
 acclimatation
 alacrity
@@ -7412,6 +7411,7 @@ astaticism
 antimoniferous
 acephalous
 arpanet
+apostaxis
 anthrarufin
 albizzias
 alphosises
