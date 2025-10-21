@@ -9036,7 +9036,6 @@ bespring
 bluebook
 bos
 bestrows
-biliary
 bigeye
 ballpark
 blankminded
@@ -18253,6 +18252,7 @@ bandages
 breakax
 bushwhacks
 bottlelike
+biliary
 bespawl
 blubberingly
 bilabial
