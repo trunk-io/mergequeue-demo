@@ -4998,7 +4998,6 @@ esthesia
 euaster
 edificative
 ephyrula
-evap
 ecdysis
 epichindrotic
 endite
@@ -5145,6 +5144,7 @@ effigiate
 endoglobular
 eirene
 eleme
+evap
 encalendar
 encyclopedize
 existibility
