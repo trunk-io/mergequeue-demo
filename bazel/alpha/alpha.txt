@@ -563,7 +563,6 @@ aclys
 arbitratrix
 atalanta
 actualize
-activate
 ablude
 abluent
 afterend
@@ -13828,6 +13827,7 @@ antilogous
 aglets
 adolescency
 ananas
+activate
 afterwhile
 andor
 asiatic
