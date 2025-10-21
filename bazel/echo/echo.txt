@@ -10101,6 +10101,7 @@ expecters
 energetistic
 epigastrium
 ebionize
+estrogenic
 electronegativity
 ethmopalatal
 erythrophyll
@@ -14175,7 +14176,6 @@ extrachromosomal
 endosiphon
 emote
 encomium
-estrogenic
 eurous
 ensate
 escrod
