@@ -2012,7 +2012,6 @@ badnesses
 buchanite
 blastematic
 bemock
-boshvarks
 betraise
 branniness
 basilissa
@@ -3036,6 +3035,7 @@ brevet
 bleakest
 burghemot
 bronchography
+boshvarks
 branchway
 bechalking
 biophagy
