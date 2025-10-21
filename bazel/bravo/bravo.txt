@@ -10596,7 +10596,6 @@ bourbon
 baptisteries
 bluffest
 bungwall
-bear
 buns
 biffies
 boxhauled
@@ -11716,6 +11715,7 @@ braincase
 biga
 bravura
 bonaire
+bear
 brainily
 beamlike
 barillas
