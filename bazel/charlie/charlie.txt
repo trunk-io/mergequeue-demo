@@ -1282,7 +1282,6 @@ cionotome
 cutiduris
 callithump
 caliber
-calibers
 colunar
 calibrated
 calibrater
@@ -19831,6 +19830,7 @@ cephalochordate
 circumstantial
 contoid
 considered
+calibers
 chontalan
 chryselephantine
 curstful
