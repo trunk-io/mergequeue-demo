@@ -4085,7 +4085,6 @@ bronchopathy
 blowball
 becramp
 bequeathable
-barest
 burman
 bryophytic
 burgonet
@@ -8830,6 +8829,7 @@ barium
 biocenosis
 bali
 bhakti
+barest
 blunks
 bailey
 burgess
