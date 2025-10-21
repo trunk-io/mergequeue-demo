@@ -1663,7 +1663,6 @@ biplanal
 belgas
 blends
 bestowable
-baluba
 blithefully
 baluch
 broquery
@@ -4744,6 +4743,7 @@ bleakish
 bewrapped
 bioelectronics
 boresight
+baluba
 bedwarfing
 bigotty
 benefaction
