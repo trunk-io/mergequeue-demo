@@ -6949,7 +6949,6 @@ cavort
 chickened
 coolies
 caudocephalad
-collembola
 centaur
 corydora
 cantoned
@@ -22395,6 +22394,7 @@ cornbird
 coendure
 cordy
 crossopodia
+collembola
 cells
 codlings
 congoes
