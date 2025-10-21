@@ -6001,7 +6001,6 @@ bacterioblast
 bacteriologic
 baser
 briggsian
-brachydomatic
 behooveful
 bouderie
 balneologic
@@ -16337,6 +16336,7 @@ busbies
 balsamer
 bulldozers
 bode
+brachydomatic
 brachylogy
 botherheaded
 bronchographic
