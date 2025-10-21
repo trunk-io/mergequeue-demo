@@ -6172,7 +6172,6 @@ bonks
 benefactorship
 becasse
 block
-blackarm
 beveling
 basifier
 basiradial
@@ -17770,6 +17769,7 @@ begazed
 burnishing
 barbarianized
 burnoosed
+blackarm
 brazilwood
 bedebt
 bilharzia
