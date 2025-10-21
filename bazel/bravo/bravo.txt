@@ -10946,7 +10946,6 @@ blindstories
 brede
 bookishness
 barkpeel
-blindworm
 backstamp
 blackamoor
 beshiver
@@ -13649,6 +13648,7 @@ beatermen
 beggarlice
 biquarterly
 barhop
+blindworm
 barwal
 broodless
 berake
