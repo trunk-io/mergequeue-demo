@@ -8798,7 +8798,6 @@ bestrid
 breathier
 boches
 bioclimatic
-bioclimatology
 bathwater
 blabber
 bern
@@ -14711,6 +14710,7 @@ blackishness
 bettergates
 blackmailing
 bitterhearted
+bioclimatology
 bibliomancy
 ballatoon
 balut
