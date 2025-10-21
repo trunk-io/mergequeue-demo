@@ -5622,6 +5622,7 @@ aliseptal
 acetum
 absenters
 accessaries
+afrikaans
 agistator
 anviled
 accursed
@@ -13396,7 +13397,6 @@ anemonol
 antagonised
 allergia
 afterstorm
-afrikaans
 ankyloproctia
 anubis
 agunah
