@@ -8480,7 +8480,6 @@ disk
 discobolus
 disinteress
 disruptable
-domajig
 dopy
 diacritic
 disshiver
@@ -16527,6 +16526,7 @@ defalcating
 draft
 diagrammatic
 distributaries
+domajig
 damalic
 daucus
 distancy
