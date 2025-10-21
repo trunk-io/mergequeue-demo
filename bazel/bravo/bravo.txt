@@ -3981,6 +3981,7 @@ barrow
 bullswool
 betels
 byrlady
+boozy
 bronchostomies
 brumstane
 beastman
@@ -17206,7 +17207,6 @@ ballon
 bilin
 bothridiums
 bundestag
-boozy
 busiest
 bovovaccine
 backslap
