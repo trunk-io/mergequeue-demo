@@ -4384,7 +4384,6 @@ ancillas
 atelopodia
 annullable
 allmouths
-antibacteriolytic
 abrotin
 adventurous
 adventurousness
@@ -18333,6 +18332,7 @@ anagenetic
 aquose
 analogistic
 aquotization
+antibacteriolytic
 agnathia
 antigenes
 araroba
