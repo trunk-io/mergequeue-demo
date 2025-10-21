@@ -15732,7 +15732,6 @@ clausula
 chiasmodontid
 cardel
 companionability
-clausule
 compares
 compos
 caporals
@@ -26819,6 +26818,7 @@ counterbuff
 countercathexis
 counterchanged
 calcomp
+clausule
 countersmile
 cirriform
 counterclaims
