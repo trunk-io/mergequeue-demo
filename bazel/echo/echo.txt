@@ -5305,7 +5305,6 @@ emissivity
 endamebiasis
 egers
 estrums
-earthtongue
 emeroid
 eelfare
 elateridae
@@ -9456,6 +9455,7 @@ epistolize
 entoil
 exciting
 esophagoplasty
+earthtongue
 esophagoscopy
 enface
 evener
