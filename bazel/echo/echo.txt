@@ -6605,7 +6605,6 @@ epiphragm
 ethion
 extramental
 edulcoration
-enterotoxication
 esprove
 enlight
 epiphanous
@@ -9031,6 +9030,7 @@ etiolating
 engagedly
 episplenitis
 ephemerid
+enterotoxication
 exumbrella
 elastics
 exencephalic
