@@ -3840,7 +3840,6 @@ earl
 earthbound
 endosymbiosis
 excrementitious
-endopeptidase
 eumeromorph
 extradosed
 enstate
@@ -7588,6 +7587,7 @@ embannered
 ecumene
 electroendosmotic
 ergometer
+endopeptidase
 embryulcus
 exterminator
 enemylike
