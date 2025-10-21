@@ -1389,7 +1389,6 @@ bedye
 bohunk
 backyard
 breechclout
-bight
 biliment
 bandspreading
 bundahish
@@ -5296,6 +5295,7 @@ bucorvinae
 bottlenecks
 bothrium
 burhel
+bight
 burling
 briquets
 babelic
