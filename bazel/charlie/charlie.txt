@@ -6247,6 +6247,7 @@ crassulaceae
 conche
 caulinar
 caulivorous
+cyamid
 choanosomal
 caulkers
 callosomarginal
@@ -7661,7 +7662,6 @@ cottiers
 corambis
 chloroplatinite
 cermet
-cyamid
 clavis
 cataplastic
 ciceros
