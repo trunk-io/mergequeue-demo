@@ -3679,6 +3679,7 @@ dozing
 destructor
 drugged
 depsid
+doubleheaders
 disrupt
 divans
 didactic
@@ -12186,7 +12187,6 @@ dissever
 doolie
 dictatress
 duckiest
-doubleheaders
 driftless
 dayflies
 dyaus
