@@ -9003,7 +9003,6 @@ bismanol
 bespring
 bluebook
 bos
-bestrows
 bigeye
 ballpark
 blankminded
@@ -10452,6 +10451,7 @@ bioscientist
 boreiad
 bairn
 blastodisc
+bestrows
 browbound
 blatjang
 brythonic
