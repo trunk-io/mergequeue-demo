@@ -1391,7 +1391,6 @@ anadicrotic
 atriopore
 antifouler
 antimask
-acost
 akrabattine
 aegagrus
 aboideau
@@ -7901,6 +7900,7 @@ a
 abuses
 autem
 affodill
+acost
 angelito
 allectory
 antilogy
