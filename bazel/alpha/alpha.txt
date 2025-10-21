@@ -5237,7 +5237,6 @@ acidaemia
 anergias
 akela
 affronts
-affuse
 assail
 affusion
 anapnea
@@ -11257,6 +11256,7 @@ audacities
 aitchless
 autological
 adapted
+affuse
 antiprostate
 abusion
 amphigastrium
