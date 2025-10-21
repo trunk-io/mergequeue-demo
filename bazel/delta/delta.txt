@@ -1747,7 +1747,6 @@ dauerschlaf
 deathtime
 delineate
 deathtrap
-deathward
 deutobromide
 didynamic
 downlier
@@ -6991,6 +6990,7 @@ dipterocarpaceous
 diacids
 diarthroses
 deictic
+deathward
 dunamis
 demonstratively
 detoxifying
