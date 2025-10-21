@@ -1866,7 +1866,6 @@ animallike
 anatreptic
 attempre
 auxometer
-autoboat
 alabastos
 aristological
 aldide
@@ -15363,6 +15362,7 @@ azulejo
 antihierarchy
 acumination
 aidless
+autoboat
 anthropotheistic
 anthropomorphist
 adenoidal
