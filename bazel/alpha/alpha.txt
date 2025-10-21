@@ -1566,7 +1566,6 @@ academus
 augustan
 ampelite
 assoc
-android
 aldermanship
 accretes
 albuminorrhea
@@ -14466,6 +14465,7 @@ adumbrations
 anthocerote
 aquariiums
 airns
+android
 attrap
 anthochlorine
 apabhramsa
