@@ -369,6 +369,7 @@ dimorph
 dummyweed
 discharges
 disemploy
+diazotype
 driftlet
 deporture
 deltaite
@@ -5756,7 +5757,6 @@ drugger
 derays
 doeuvre
 decisteres
-diazotype
 dowcet
 ducape
 daftlike
