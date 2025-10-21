@@ -2541,6 +2541,7 @@ cryptocrystallization
 choirmasters
 columnar
 cyamelide
+casekeeper
 castile
 canela
 canelas
@@ -29889,7 +29890,6 @@ calastic
 crops
 cropshin
 cropweed
-casekeeper
 cytons
 coster
 croquets
