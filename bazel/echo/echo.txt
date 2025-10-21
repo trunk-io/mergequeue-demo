@@ -2666,6 +2666,7 @@ estus
 euphonical
 edentate
 emetic
+elfwort
 engorge
 epotation
 extubate
@@ -5293,7 +5294,6 @@ extradotal
 exclude
 emesidae
 eczema
-elfwort
 etiological
 ecostate
 emissivity
