@@ -7728,6 +7728,7 @@ diadochokinesis
 directrixes
 devaul
 deprecators
+dismissible
 dehorter
 delubrum
 dastardly
@@ -15547,7 +15548,6 @@ dittander
 discourses
 diazoles
 diversiform
-dismissible
 donovan
 debeaker
 deltahedron
