@@ -3687,6 +3687,7 @@ destructor
 drugged
 depsid
 disrupt
+divans
 didactic
 drylot
 dishonorably
@@ -13838,7 +13839,6 @@ dartrous
 dropsonde
 distater
 dozener
-divans
 diverse
 differency
 dermatophobia
