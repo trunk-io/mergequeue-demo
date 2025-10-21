@@ -3513,6 +3513,7 @@ adermin
 armoire
 autojuggernaut
 apologies
+automaton
 apikoros
 almswomen
 antefixa
@@ -6983,7 +6984,6 @@ anticoagulator
 annulata
 amicable
 audings
-automaton
 ausgespielt
 appraisingly
 aletris
