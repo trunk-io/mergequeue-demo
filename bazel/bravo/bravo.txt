@@ -8639,7 +8639,6 @@ bosc
 behests
 boatshop
 barycentre
-binal
 borrelomycetaceae
 bedrown
 brontotherium
@@ -13684,6 +13683,7 @@ buriti
 brine
 bloodred
 breakup
+binal
 bouncier
 bromodeoxyuridine
 blite
