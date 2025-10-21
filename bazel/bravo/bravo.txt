@@ -1231,7 +1231,6 @@ berbers
 bombed
 bittocks
 burgomaster
-blacklight
 blathers
 brimming
 bescent
@@ -9580,6 +9579,7 @@ borders
 burucha
 baronetized
 bundt
+blacklight
 byrlawmen
 bechalk
 biscayan
