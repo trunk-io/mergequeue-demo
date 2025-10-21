@@ -18013,7 +18013,6 @@ churnstaff
 computation
 colliquate
 chiaroscuros
-ciborium
 centrosymmetric
 catakinetomer
 coelentera
@@ -21231,6 +21230,7 @@ crystallose
 conceiting
 clunk
 curtnesses
+ciborium
 cromorna
 cyclotron
 crebrisulcate
