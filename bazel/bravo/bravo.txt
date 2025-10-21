@@ -9355,7 +9355,6 @@ budding
 blackneb
 belonid
 behaver
-bungfull
 beau
 bluebush
 banque
@@ -12608,6 +12607,7 @@ backlist
 blacklegs
 beverages
 bourreau
+bungfull
 bonnnes
 banksides
 bdellidae
