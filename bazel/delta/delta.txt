@@ -9371,7 +9371,6 @@ divers
 disloyalty
 domiciliar
 dross
-daedalous
 dehorned
 drabbing
 disalike
@@ -15973,6 +15972,7 @@ disambiguating
 defrosts
 dzungar
 doubleword
+daedalous
 damaging
 depicts
 disinvestment
