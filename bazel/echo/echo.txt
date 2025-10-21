@@ -7292,7 +7292,6 @@ ectypes
 encloses
 eloge
 entoplasm
-embroidered
 epembryonic
 epiblasts
 elaeodochon
@@ -11280,6 +11279,7 @@ emulgens
 enlistees
 exaggeratedness
 entia
+embroidered
 electromyogram
 eigenfrequency
 epees
