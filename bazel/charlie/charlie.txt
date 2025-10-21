@@ -4487,7 +4487,6 @@ capitalness
 coendidae
 claught
 carnivore
-carnivorism
 cyanea
 conchylium
 colorationally
@@ -4806,6 +4805,7 @@ caviteno
 carrottop
 coelector
 cart
+carnivorism
 culture
 cartable
 canastas
