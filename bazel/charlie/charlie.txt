@@ -20222,7 +20222,6 @@ cephalodiscid
 coccidiomorpha
 commission
 commissional
-commissioned
 cantatory
 catella
 choenix
@@ -26911,6 +26910,7 @@ candleholder
 counterfactual
 catatonic
 chloragen
+commissioned
 counterfactually
 captivately
 counterfeitly
