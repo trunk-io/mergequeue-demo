@@ -1038,7 +1038,6 @@ decolours
 dentonasal
 dewooled
 deadlocked
-dacryocystorhinostomy
 depositions
 deoxyribonuclease
 doctorbird
@@ -5466,6 +5465,7 @@ deprecation
 daraf
 dacryocystosyringotomy
 dipetalous
+dacryocystorhinostomy
 donec
 desiccators
 dimyarian
