@@ -5740,7 +5740,6 @@ categorically
 crinose
 christabel
 categorise
-collator
 canisters
 chansonnier
 cuemanship
@@ -9365,6 +9364,7 @@ chaulmaugra
 cherub
 chuddah
 cowerer
+collator
 calamospermae
 chaulmoogra
 cytodendrite
