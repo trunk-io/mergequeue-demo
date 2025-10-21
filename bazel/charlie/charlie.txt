@@ -10402,6 +10402,7 @@ cahoots
 cares
 chief
 chokra
+creep
 chiefery
 customize
 cyatholith
@@ -23576,7 +23577,6 @@ chinquapin
 cypraeid
 contextive
 contex
-creep
 catochus
 cynopodous
 clarkeite
