@@ -8155,6 +8155,7 @@ brombenzyl
 backsaw
 bismutite
 berthage
+buffable
 biformity
 bifront
 bracked
@@ -16866,7 +16867,6 @@ brumbee
 bonnwis
 bagani
 biopsychical
-buffable
 bayoneteer
 buffalo
 blarneyed
