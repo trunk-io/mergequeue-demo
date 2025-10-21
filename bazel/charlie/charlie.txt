@@ -4004,6 +4004,7 @@ calc
 concessionaries
 cricetus
 caserne
+chrysaor
 calamiform
 choyaroot
 corporator
@@ -27342,7 +27343,6 @@ cangler
 clothespress
 caurale
 countinghouse
-chrysaor
 conflagrating
 cerebellopontine
 circumclusion
