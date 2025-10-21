@@ -242,7 +242,6 @@ adverse
 appendicectomy
 abdat
 argil
-anthotropism
 apocryphon
 anthesterion
 aleikoum
@@ -12465,6 +12464,7 @@ aromal
 admeasured
 aldoxime
 antipyryl
+anthotropism
 accomplishing
 autodecrement
 amenty
