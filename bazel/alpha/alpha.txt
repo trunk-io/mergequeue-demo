@@ -5030,7 +5030,6 @@ algorithmic
 antonym
 aether
 advected
-ahrimanian
 attal
 agacella
 auguste
@@ -24089,6 +24088,7 @@ abloom
 antiepiscopist
 allegorise
 assaulter
+ahrimanian
 avalanche
 auriculas
 adroitest
