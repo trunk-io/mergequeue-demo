@@ -5500,6 +5500,7 @@ bookbinderies
 bela
 balance
 bioscope
+bolded
 belash
 backsaws
 blankit
@@ -7548,7 +7549,6 @@ bourr
 bewitched
 beslow
 bloodthirstiest
-bolded
 bougee
 butlerdom
 blowout
