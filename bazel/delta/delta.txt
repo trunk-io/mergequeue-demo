@@ -1441,7 +1441,6 @@ determinations
 dazzler
 disillusions
 digestor
-drillable
 descenders
 damnification
 diametric
@@ -1681,6 +1680,7 @@ draconites
 dynamically
 decrementless
 driftland
+drillable
 doctorlike
 dehumanisation
 damfool
