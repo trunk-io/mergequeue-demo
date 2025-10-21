@@ -5784,7 +5784,6 @@ bogglish
 ballpoint
 belonger
 biased
-bared
 bonnocks
 bee
 barbuts
@@ -14205,6 +14204,7 @@ beperiwigged
 brankiest
 bilingual
 brachystomatous
+bared
 brachystomous
 burion
 buckwheat
