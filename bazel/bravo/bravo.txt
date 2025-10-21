@@ -2842,7 +2842,6 @@ bonus
 byproduct
 beath
 barrets
-brewhouse
 blindeyes
 behenic
 blobby
@@ -6212,6 +6211,7 @@ bonnive
 budbreak
 becassine
 beardom
+brewhouse
 braver
 bugbanes
 bodger
