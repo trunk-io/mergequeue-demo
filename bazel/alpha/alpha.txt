@@ -366,6 +366,7 @@ alleyways
 ashling
 acetary
 anthers
+acetars
 approx
 abominations
 argasidae
@@ -15703,7 +15704,6 @@ asaprol
 arf
 ampullaria
 amygdalitis
-acetars
 aecidial
 annullation
 aristologist
