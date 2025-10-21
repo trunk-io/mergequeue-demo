@@ -3642,7 +3642,6 @@ bumfs
 bobflies
 broadcast
 baysmelt
-betatrons
 breakout
 beetlestock
 battened
@@ -5724,6 +5723,7 @@ boor
 barbermonger
 boozily
 bellylike
+betatrons
 bowyang
 bifistular
 bourlaw
