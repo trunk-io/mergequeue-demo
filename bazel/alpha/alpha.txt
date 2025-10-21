@@ -6196,7 +6196,6 @@ americanitis
 actaea
 apographical
 artificial
-auxographic
 appestats
 alimental
 agral
@@ -7787,6 +7786,7 @@ aldoheptose
 abidingness
 astony
 arapaima
+auxographic
 anogenic
 abiotic
 aldoketene
