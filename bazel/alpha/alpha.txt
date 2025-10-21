@@ -6485,6 +6485,7 @@ assigners
 antifire
 accumulation
 awk
+axometric
 audubonistic
 asterolepis
 achirite
@@ -10182,7 +10183,6 @@ appetize
 apexing
 ambsace
 apocopic
-axometric
 apoikia
 anagennesis
 airsome
