@@ -2144,6 +2144,7 @@ campier
 campignian
 cruciate
 ctimo
+cv
 campylite
 campylometer
 clericals
@@ -12454,7 +12455,6 @@ chromoisomer
 checkrows
 cardiometry
 chromoisomeric
-cv
 chromoleucite
 chromolipoid
 clayen
