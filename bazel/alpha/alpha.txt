@@ -8661,7 +8661,6 @@ anemology
 albeston
 arghoul
 ancyrene
-allelic
 avowe
 abnormally
 allelomorphic
@@ -16777,6 +16776,7 @@ aphasiacs
 avouchers
 autophone
 antioxygenating
+allelic
 averse
 abreacts
 abietene
