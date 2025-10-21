@@ -5558,6 +5558,7 @@ ethenes
 enlisters
 equivalency
 expos
+extendability
 evincible
 exptl
 enodally
@@ -9203,7 +9204,6 @@ expansions
 edeotomy
 edgrew
 eductive
-extendability
 encephalosclerosis
 electroform
 escaper
