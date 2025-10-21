@@ -7437,7 +7437,6 @@ endungeon
 eaceworm
 encolpia
 eatanswill
-elkslip
 eulamellibranch
 ekhimi
 eremitish
@@ -13567,6 +13566,7 @@ electroencephalographical
 exhaust
 exarteritis
 eremuri
+elkslip
 erianthus
 eburin
 empiecement
