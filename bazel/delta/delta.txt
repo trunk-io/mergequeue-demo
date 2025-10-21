@@ -2125,7 +2125,6 @@ deadlocking
 dryable
 dreck
 divinator
-defenseman
 drats
 doline
 despeed
@@ -15525,6 +15524,7 @@ disuniformity
 dispersions
 dodos
 discoactine
+defenseman
 draffman
 doleritic
 draegerman
