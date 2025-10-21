@@ -3337,6 +3337,7 @@ euryalae
 exteroceptor
 excerpt
 exampling
+exsomatic
 extraessential
 embrake
 ephebe
@@ -7124,7 +7125,6 @@ entepicondylar
 emporiria
 enterectomy
 electrotropic
-exsomatic
 eucrites
 epichoric
 eveline
