@@ -3201,7 +3201,6 @@ begluc
 bushmasters
 billiken
 boukit
-boolya
 byordinary
 brakeroot
 basophilic
@@ -12465,6 +12464,7 @@ brutality
 bedangled
 beak
 befoulier
+boolya
 battalion
 botryopteris
 breastbones
