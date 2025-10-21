@@ -6379,7 +6379,6 @@ duellist
 deluminize
 dil
 deathsmen
-debatter
 drossy
 dial
 dendrolatry
@@ -18398,6 +18397,7 @@ disfurniture
 detrusive
 dissimilation
 derout
+debatter
 digmeat
 deceptiously
 duolog
