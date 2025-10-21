@@ -2307,6 +2307,7 @@ byss
 blackcoat
 blip
 belabors
+bringer
 bemoisten
 besplash
 bladesmith
@@ -2562,7 +2563,6 @@ bacteriolysin
 bromohydrate
 bumpy
 broadsword
-bringer
 barbers
 bismuthite
 bitewing
