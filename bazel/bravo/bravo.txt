@@ -797,6 +797,7 @@ blake
 bourdis
 blowse
 backbone
+biunique
 bibliotist
 bacalao
 brandied
@@ -6059,7 +6060,6 @@ bernardina
 bayonet
 barograph
 betide
-biunique
 bolshevizing
 ballhawks
 bounteously
