@@ -9453,7 +9453,6 @@ brewhouses
 bourride
 birkremite
 boldine
-botonee
 begrease
 befuddled
 bamboozlement
@@ -14361,6 +14360,7 @@ bedplate
 brasier
 braked
 bermudas
+botonee
 baits
 boxkeeper
 bagnet
