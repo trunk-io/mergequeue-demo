@@ -12363,6 +12363,7 @@ donates
 disquantity
 demolisher
 deflesh
+dynamogeneses
 dante
 dormy
 domesticated
@@ -13906,7 +13907,6 @@ dropman
 disallowances
 devitrify
 deboite
-dynamogeneses
 dynamometric
 drowner
 deodand
