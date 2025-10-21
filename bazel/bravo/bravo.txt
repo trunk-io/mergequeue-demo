@@ -8848,7 +8848,6 @@ breekless
 bestrid
 breathier
 boches
-bookcases
 bioclimatic
 bioclimatology
 bathwater
@@ -12595,6 +12594,7 @@ bonk
 begrudging
 balada
 baronetage
+bookcases
 breaststroker
 bagpiping
 backwinded
