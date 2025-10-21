@@ -3957,6 +3957,7 @@ bulk
 bath
 bengalic
 bridebowl
+bepranked
 berime
 boilable
 bronchiospasm
@@ -16354,7 +16355,6 @@ batonistic
 blowlamp
 backtrack
 bureaucratism
-bepranked
 bollworms
 biognosis
 backband
