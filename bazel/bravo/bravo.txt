@@ -11585,7 +11585,6 @@ bass
 balalaika
 besort
 bossage
-banga
 bandannas
 bestain
 brightness
@@ -12803,6 +12802,7 @@ booksellerism
 bellweather
 belton
 banderilleros
+banga
 bandmaster
 bakutu
 bostrychid
