@@ -17534,7 +17534,6 @@ archosyrinx
 afret
 annullate
 apothecium
-actos
 applot
 archpriest
 airship
@@ -25089,6 +25088,7 @@ almah
 antelation
 agreers
 aspidiotus
+actos
 antiegoistic
 anaesthetist
 amalgamist
