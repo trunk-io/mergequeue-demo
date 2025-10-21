@@ -8248,6 +8248,7 @@ belard
 breechcloths
 bromins
 billheads
+barotropic
 broadsided
 buzukis
 bedriddenness
@@ -12700,7 +12701,6 @@ borocalcite
 bari
 bokharan
 boko
-barotropic
 bassly
 bec
 bestraddling
