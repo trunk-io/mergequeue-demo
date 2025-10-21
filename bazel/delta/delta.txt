@@ -3495,7 +3495,6 @@ droopiness
 dealkylate
 dispose
 doughmaker
-dimout
 deformability
 dodonaea
 deformable
@@ -14965,6 +14964,7 @@ dispetal
 dysoxidizable
 dipppy
 drawling
+dimout
 dustproof
 dominick
 doctoress
