@@ -15754,7 +15754,6 @@ ascyrum
 arthromeric
 ahoy
 anaglyptic
-afb
 almanacs
 albahaca
 afterfriend
@@ -24251,6 +24250,7 @@ autoalarm
 autoinfusion
 ambash
 annulets
+afb
 aldermanries
 archantiquary
 aristotelean
