@@ -2311,6 +2311,7 @@ blip
 belabors
 bemoisten
 besplash
+bordage
 bladesmith
 blahlaut
 bardcraft
@@ -5890,7 +5891,6 @@ brewis
 betask
 blephillia
 blushet
-bordage
 brattiness
 betaking
 bitterbark
