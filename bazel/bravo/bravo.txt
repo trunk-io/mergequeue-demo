@@ -10557,7 +10557,6 @@ bracery
 bargeboard
 boldoine
 brevicaudate
-blastula
 barretries
 beatify
 brawling
@@ -12526,6 +12525,7 @@ bridgebote
 begrim
 booming
 barcarolle
+blastula
 bibliophobe
 bedder
 biennially
