@@ -2969,7 +2969,6 @@ essentialness
 elkuma
 entracte
 exitus
-elkwood
 extraboldface
 epilate
 epiglottiditis
@@ -9158,6 +9157,7 @@ entomologizing
 ethnomusicological
 empathizing
 ergotization
+elkwood
 essentials
 embosk
 esopgi
