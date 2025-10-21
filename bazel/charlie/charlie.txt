@@ -4854,6 +4854,7 @@ cartouche
 cystocyte
 cartilagines
 cartilaginoid
+conics
 cartels
 carting
 coulometry
@@ -15981,7 +15982,6 @@ clepsydra
 contorniate
 cleptobioses
 coenaculum
-conics
 corporateness
 crumhorn
 cancroids
