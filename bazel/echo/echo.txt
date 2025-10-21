@@ -2887,7 +2887,6 @@ equivocalities
 embira
 euphonetic
 encephalopsychesis
-ejectives
 eliminable
 ensphering
 ergophobic
@@ -4543,6 +4542,7 @@ eulogies
 eucryphiaceae
 exsiccative
 epistolean
+ejectives
 eburnean
 escalade
 erethizontidae
