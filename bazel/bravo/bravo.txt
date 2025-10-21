@@ -721,7 +721,6 @@ boyish
 barathron
 bolter
 berzeliite
-badgerlike
 brennschluss
 babiches
 blackleg
@@ -10071,6 +10070,7 @@ boxfish
 bolus
 blabbered
 braggle
+badgerlike
 besee
 baillonella
 barytic
