@@ -2373,7 +2373,6 @@ derat
 denizens
 despicability
 didna
-disseizin
 decan
 divinest
 dorbeetle
@@ -7874,6 +7873,7 @@ decompiler
 detenues
 disanimate
 digger
+disseizin
 dinichthyid
 deuterium
 defoliage
