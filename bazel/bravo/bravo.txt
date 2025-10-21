@@ -700,7 +700,6 @@ baff
 boomlet
 bewield
 besogne
-blueish
 burnishers
 bartending
 banderol
@@ -14506,6 +14505,7 @@ badju
 bagaudae
 bomos
 beveller
+blueish
 basaltiform
 bipod
 burkha
