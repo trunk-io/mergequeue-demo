@@ -4082,6 +4082,7 @@ baldish
 bisect
 bulkheads
 brickset
+basementless
 bebloods
 bucked
 basurale
@@ -16386,7 +16387,6 @@ bemire
 backarrow
 binturong
 bromos
-basementless
 baldness
 branchy
 balalaikas
