@@ -572,7 +572,6 @@ epigrammatize
 ephraimitic
 enfeeble
 eugenetic
-enfeeblements
 encaged
 eubasidii
 escadrille
@@ -7646,6 +7645,7 @@ ecarinate
 embreathe
 equidensity
 enlink
+enfeeblements
 emollience
 empoisoner
 ephapse
