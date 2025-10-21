@@ -5046,6 +5046,7 @@ dipso
 daphnean
 denigration
 demotes
+deallocate
 demarking
 daylong
 doggedly
@@ -11526,7 +11527,6 @@ dissuasive
 dipleural
 dottily
 diamyl
-deallocate
 digredience
 depolarisation
 diagnosticate
