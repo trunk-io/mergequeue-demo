@@ -4619,7 +4619,6 @@ dosimetric
 deprecated
 demifigure
 dieresis
-decentres
 doomage
 disinflated
 demigauntlet
@@ -14869,6 +14868,7 @@ dentaliums
 desiccates
 disapostle
 diphenylmethane
+decentres
 disagreements
 dodecapartite
 dodecaphonic
