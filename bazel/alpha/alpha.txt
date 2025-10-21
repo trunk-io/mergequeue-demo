@@ -13605,7 +13605,6 @@ afterrake
 armada
 acropodia
 ampalea
-amputated
 acrity
 anagrams
 astrospectral
@@ -18174,6 +18173,7 @@ agentship
 alpid
 abdominally
 aphrodisiac
+amputated
 adawn
 allophylic
 allatrate
