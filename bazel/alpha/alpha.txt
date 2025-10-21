@@ -6823,7 +6823,6 @@ aumous
 aquiculturist
 aeromarine
 autotelic
-absentness
 airiness
 allelopathy
 arest
@@ -22982,6 +22981,7 @@ assertory
 apothegmatic
 atria
 atalayas
+absentness
 acephalism
 amicicide
 aphidozer
