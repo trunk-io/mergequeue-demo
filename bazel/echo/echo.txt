@@ -3006,6 +3006,7 @@ elm
 engender
 extracurriculum
 emitters
+epagomenal
 electrothermostat
 epochal
 estive
@@ -6778,7 +6779,6 @@ electroretinogram
 epic
 endarchy
 enraptured
-epagomenal
 epideistic
 emballonurid
 euscaro
