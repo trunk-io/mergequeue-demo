@@ -1125,6 +1125,7 @@ eassel
 enterocinetic
 epitheliomuscular
 enzymes
+etch
 enkindle
 electroacoustics
 experimentally
@@ -6914,7 +6915,6 @@ exclamative
 epivalve
 ericophyte
 engining
-etch
 enrolment
 epibenthos
 enepidermic
