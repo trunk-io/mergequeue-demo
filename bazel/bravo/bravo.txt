@@ -4083,6 +4083,7 @@ baldish
 bisect
 bulkheads
 brickset
+barmkin
 basementless
 bebloods
 bucked
@@ -13982,7 +13983,6 @@ barographic
 blueblossom
 brechans
 byspell
-barmkin
 badging
 boxcars
 backstopped
