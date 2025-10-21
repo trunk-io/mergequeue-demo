@@ -5136,7 +5136,6 @@ endocrinic
 ergs
 ecdysones
 ependytes
-extrudability
 ecphore
 emanant
 endodontically
@@ -10731,6 +10730,7 @@ endophasia
 excluder
 equilibristat
 enthusiasm
+extrudability
 enterography
 encreel
 eremites
