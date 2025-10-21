@@ -2468,7 +2468,6 @@ equipped
 erythrocytolysis
 eccentrically
 edibility
-encrypted
 electrometallurgist
 epithecate
 egglike
@@ -6984,6 +6983,7 @@ encore
 euphratean
 effluvia
 ecclesiologist
+encrypted
 egyptologic
 exobasidiaceae
 explanate
