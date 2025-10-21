@@ -10807,7 +10807,6 @@ acrite
 anacard
 ammo
 administrants
-arthropod
 ammocoetes
 anviling
 agglutinated
@@ -18791,6 +18790,7 @@ anisandrous
 atoneness
 aristas
 amphibolic
+arthropod
 adorally
 arizonian
 aplobasalt
