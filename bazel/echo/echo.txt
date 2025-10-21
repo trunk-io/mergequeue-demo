@@ -2508,7 +2508,6 @@ earshot
 explicit
 epicedian
 evangeliser
-ecthetically
 enceint
 evangelistaries
 enterpriser
@@ -5631,6 +5630,7 @@ eppie
 epiblastema
 easinesses
 entailment
+ecthetically
 equisetic
 epigrammatical
 emerson
