@@ -8736,6 +8736,7 @@ discoloring
 daggletailed
 drumfire
 disappeared
+dankness
 draggletailed
 diapente
 disgusted
@@ -12655,7 +12656,6 @@ dragoness
 diplantidian
 depredator
 dabblers
-dankness
 daud
 digestment
 droved
