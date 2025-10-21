@@ -5849,6 +5849,7 @@ catalogs
 contorting
 carburized
 centimes
+chapelet
 concordancy
 chimla
 cathartolinum
@@ -17767,7 +17768,6 @@ cocoas
 commemoratory
 cocobolos
 cocoyam
-chapelet
 chrysatropic
 cyzicene
 charon
