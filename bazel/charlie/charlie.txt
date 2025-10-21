@@ -3413,7 +3413,6 @@ capsomers
 capstans
 capstone
 confabulate
-capsular
 capsulation
 collegatary
 chainomatic
@@ -11712,6 +11711,7 @@ clairsentient
 crossable
 cryogen
 chi
+capsular
 chollas
 chameleonize
 claries
