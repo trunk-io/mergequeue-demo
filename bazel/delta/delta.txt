@@ -13004,6 +13004,7 @@ detrusion
 desilicify
 deconsecrating
 dispergation
+diastyle
 dae
 dialogs
 draught
@@ -13118,7 +13119,6 @@ discostate
 drops
 deutocarbonate
 dihydroxyacetone
-diastyle
 decatholicize
 dagaba
 defension
