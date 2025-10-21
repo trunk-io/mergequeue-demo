@@ -4564,6 +4564,7 @@ electrostatic
 elsewhere
 eelbobber
 enchytraeid
+ether
 enchytraeus
 enteria
 excavated
@@ -6818,7 +6819,6 @@ envious
 electromyographically
 evergreens
 enddamage
-ether
 epipodia
 episome
 elling
