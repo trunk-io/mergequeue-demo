@@ -3356,7 +3356,6 @@ biennium
 biosis
 bitterworm
 bovovaccination
-borrowable
 batavi
 brahmins
 bearer
@@ -14993,6 +14992,7 @@ brack
 belchers
 beglic
 byssuses
+borrowable
 brooders
 bura
 bedeafening
