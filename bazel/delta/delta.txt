@@ -1307,7 +1307,6 @@ diphthongization
 dompt
 dummel
 debouches
-damagement
 decomposability
 deceptory
 dart
@@ -3866,6 +3865,7 @@ detests
 defaces
 distinguished
 dewata
+damagement
 devilkin
 defiers
 divergently
