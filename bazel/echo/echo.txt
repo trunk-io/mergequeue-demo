@@ -10793,7 +10793,6 @@ encyclopaedic
 eventful
 exteriorness
 excipuliform
-exornate
 emolliate
 enteroclysis
 embrasure
@@ -12661,6 +12660,7 @@ ecliptics
 empyesis
 ethnogeographer
 electrophoresing
+exornate
 evaporometer
 ephemeric
 evangelicity
