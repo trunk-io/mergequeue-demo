@@ -5151,7 +5151,6 @@ affinities
 allgood
 antinous
 astragals
-aeroneurosis
 affinitive
 asiaticism
 antic
@@ -18717,6 +18716,7 @@ archaic
 afghani
 arroyuelo
 agly
+aeroneurosis
 averaged
 anhungry
 alexipharmical
