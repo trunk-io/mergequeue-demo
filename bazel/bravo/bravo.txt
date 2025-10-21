@@ -7681,7 +7681,6 @@ bradyglossia
 bivouac
 bhistie
 bhokra
-bryozoans
 biggie
 bhungi
 bersil
@@ -12509,6 +12508,7 @@ bather
 bluejay
 bagpiped
 bone
+bryozoans
 bellworts
 bejaundice
 bedesman
