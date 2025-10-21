@@ -12485,7 +12485,6 @@ antonio
 arrivals
 autostradas
 argante
-agalloch
 amphidesmous
 anvilled
 androsporangium
@@ -25186,6 +25185,7 @@ acacin
 apophylaxis
 angelot
 axman
+agalloch
 axodendrite
 advisy
 arrand
