@@ -4923,7 +4923,6 @@ baselevel
 buoying
 blancher
 beetrave
-bosn
 beakiron
 beetroots
 bosporus
@@ -18075,6 +18074,7 @@ bourgs
 bustler
 bustlingly
 brazens
+bosn
 bateaux
 bughouse
 bority
