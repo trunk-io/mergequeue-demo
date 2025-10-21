@@ -1610,7 +1610,6 @@ bedticks
 bathless
 bummery
 bestraught
-bemoaner
 brigid
 blusher
 buqsha
@@ -11753,6 +11752,7 @@ bedecks
 berascal
 breakthroughes
 buxine
+bemoaner
 backshift
 biology
 bookseller
