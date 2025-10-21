@@ -8678,6 +8678,7 @@ downset
 disrecommendation
 diamins
 downgrades
+dissipating
 debaucher
 disscepter
 disworship
@@ -10813,7 +10814,6 @@ doodlesack
 divisibilities
 danainae
 derfly
-dissipating
 derivable
 diolefine
 dogman
