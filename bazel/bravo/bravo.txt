@@ -1938,6 +1938,7 @@ brindled
 brochantite
 bullhead
 begetting
+bandwidths
 blithering
 betain
 bibbling
@@ -9723,7 +9724,6 @@ bowstrings
 borate
 barbascos
 bisync
-bandwidths
 branchiocardiac
 bisks
 bleat
