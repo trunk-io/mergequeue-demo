@@ -5430,7 +5430,6 @@ disinsection
 deprecation
 daraf
 dacryocystosyringotomy
-diaphoretic
 dipetalous
 donec
 dupla
@@ -11658,6 +11657,7 @@ debride
 dolciano
 dehorting
 disposable
+diaphoretic
 disintensify
 divinister
 discriminantal
