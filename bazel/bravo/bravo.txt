@@ -27,6 +27,7 @@ bezoar
 berline
 bulbul
 blufter
+babbly
 barbara
 broomwort
 bidar
@@ -574,7 +575,6 @@ boomerang
 barragan
 bacon
 babus
-babbly
 big
 bicornuous
 balisaur
