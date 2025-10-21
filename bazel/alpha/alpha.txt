@@ -3415,7 +3415,6 @@ accidentals
 altitudinarian
 afaced
 antikinase
-anadromous
 arabesquely
 abdominogenital
 azedarac
@@ -21999,6 +21998,7 @@ aor
 alkalinize
 apices
 ambagious
+anadromous
 acerbophobia
 aroon
 anecdotist
