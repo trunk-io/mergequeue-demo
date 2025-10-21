@@ -6709,7 +6709,6 @@ asyndeta
 androeccia
 abbreviatory
 airbills
-airboat
 airboats
 acrasiales
 acarology
@@ -15527,6 +15526,7 @@ affluentness
 anywhere
 assemblee
 askance
+airboat
 anhaline
 abomasusi
 antidiffuser
