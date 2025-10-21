@@ -10888,7 +10888,6 @@ avouchment
 amniocentesis
 attendance
 atheism
-aorists
 assailants
 agname
 accouchements
@@ -20660,6 +20659,7 @@ aplite
 asg
 alienors
 acrocera
+aorists
 anthozoan
 admov
 arteriocapillary
