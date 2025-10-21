@@ -10271,6 +10271,7 @@ bevors
 banian
 bowstaff
 blackneck
+bargelli
 blurs
 bandagist
 bibliological
@@ -14026,7 +14027,6 @@ blueblossom
 backpointer
 brechans
 byspell
-bargelli
 barmkin
 badging
 boxcars
