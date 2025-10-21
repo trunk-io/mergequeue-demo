@@ -10299,7 +10299,6 @@ bromination
 bayonets
 blurbs
 beanweed
-ballplayer
 blennuria
 braceros
 befleaed
@@ -11433,6 +11432,7 @@ benacus
 blabs
 bescrawl
 burhinidae
+ballplayer
 blaseness
 bestrut
 banewort
