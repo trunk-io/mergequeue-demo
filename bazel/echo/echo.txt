@@ -4966,6 +4966,7 @@ engraphic
 escuela
 externalised
 encapsules
+eam
 exsectile
 exchangee
 empiristic
@@ -9315,7 +9316,6 @@ euchred
 erudite
 ecesis
 eclogic
-eam
 existimation
 ethnogeny
 ephahs
