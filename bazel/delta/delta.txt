@@ -10507,7 +10507,6 @@ dependencies
 defis
 demipomada
 dichotomies
-downtown
 diopters
 doctorization
 diseur
@@ -11538,6 +11537,7 @@ depredationist
 danzon
 demultiplex
 dreamful
+downtown
 danziger
 devisings
 disagree
