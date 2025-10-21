@@ -3378,7 +3378,6 @@ bowerwoman
 beggarwoman
 bugbite
 bps
-bagging
 battering
 byronesque
 byroads
@@ -15066,6 +15065,7 @@ balsam
 bemusedly
 brendan
 bobbinite
+bagging
 bovinely
 biosatellite
 barraters
