@@ -4499,7 +4499,6 @@ americanisms
 andesitic
 aecidiospore
 aglare
-asepses
 acetometer
 agin
 acoemetic
@@ -6128,6 +6127,7 @@ appetition
 aegerian
 aerolitics
 aquiver
+asepses
 amphitrichous
 abacaxi
 antiprecipitin
