@@ -5135,7 +5135,6 @@ euplotid
 endodontology
 exemptible
 elt
-enterolobium
 exonerating
 ecotone
 earthnut
@@ -9509,6 +9508,7 @@ expressmen
 euphemising
 embody
 embryogenesis
+enterolobium
 eschele
 editchar
 explode
