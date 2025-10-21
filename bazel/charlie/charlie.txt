@@ -8929,7 +8929,6 @@ courses
 colourize
 cirrate
 coformulator
-closterium
 chared
 consultation
 cortaro
@@ -20539,6 +20538,7 @@ copolymerization
 compartmentalization
 celliferous
 compartmentalizing
+closterium
 comfiture
 chrysenic
 compartmented
