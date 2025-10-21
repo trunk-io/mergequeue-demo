@@ -4594,6 +4594,7 @@ desmic
 durocs
 drinkableness
 doorstone
+dereferences
 dribblement
 destruction
 dethronable
@@ -14622,7 +14623,6 @@ djersa
 desecration
 deepest
 dotant
-dereferences
 dignified
 dissyllabizing
 damageable
