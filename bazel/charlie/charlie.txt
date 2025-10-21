@@ -11265,7 +11265,6 @@ chlorination
 clipsheets
 chlorinator
 curr
-cuplike
 counterion
 chloritic
 corncob
@@ -23048,6 +23047,7 @@ cerebrocardiac
 chunam
 consideringly
 considers
+cuplike
 consign
 citydom
 consignatary
