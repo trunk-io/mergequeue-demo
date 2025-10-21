@@ -2268,7 +2268,6 @@ ballerina
 benchboard
 baobab
 bagpod
-biasways
 breloque
 barbicel
 barbierite
@@ -14300,6 +14299,7 @@ broaching
 bolsheviks
 brawlys
 birls
+biasways
 blessedest
 blindfoldedness
 brocades
