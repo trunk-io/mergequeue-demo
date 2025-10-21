@@ -289,7 +289,6 @@ equichangeable
 easterling
 ewest
 envire
-eaten
 eighty
 eyra
 eesome
@@ -2809,6 +2808,7 @@ evaluators
 exemplariness
 elevenses
 ethiopia
+eaten
 eleventeenth
 entomologies
 elevons
