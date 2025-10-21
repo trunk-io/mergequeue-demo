@@ -10972,7 +10972,6 @@ doodler
 dumpings
 displays
 defiles
-desorbed
 drinker
 diopter
 dredged
@@ -15836,6 +15835,7 @@ dorsicornu
 dorsiduct
 depositional
 datura
+desorbed
 doctrinate
 daphnad
 defectum
