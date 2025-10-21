@@ -12141,7 +12141,6 @@ ascescent
 arthrocele
 alined
 amtracks
-anatomization
 anatomizer
 armenians
 aristae
@@ -13681,6 +13680,7 @@ appropriament
 aahs
 adduce
 autohemolysis
+anatomization
 annuls
 anticovenanting
 acanthite
