@@ -6136,7 +6136,6 @@ exequy
 endolithic
 everting
 explosions
-exhortator
 euphemist
 estrangle
 exclamation
@@ -6485,6 +6484,7 @@ eucharist
 exhaustlessly
 ebonised
 etcher
+exhortator
 enterocleisis
 electropotential
 entreasure
