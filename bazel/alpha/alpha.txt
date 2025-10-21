@@ -1919,6 +1919,7 @@ archetto
 affinite
 angulatosinuous
 agogic
+addr
 accepts
 antimasonic
 armorial
@@ -4601,7 +4602,6 @@ astrionics
 aphidolysin
 azazel
 abelicea
-addr
 askile
 arteriorenal
 acroterion
