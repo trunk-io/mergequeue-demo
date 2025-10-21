@@ -1802,6 +1802,7 @@ basinets
 bonaci
 bascunan
 bewend
+bicyclical
 battutos
 brabant
 barracudas
@@ -11516,7 +11517,6 @@ bravos
 bolloxed
 brushup
 bedamn
-bicyclical
 basophilia
 bearance
 biocycles
