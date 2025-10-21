@@ -2962,7 +2962,6 @@ enterprised
 essentialness
 elkuma
 entracte
-exitus
 extraboldface
 elric
 epilate
@@ -5385,6 +5384,7 @@ evangelic
 extractant
 envisaged
 excantation
+exitus
 ecart
 encashed
 exclaves
