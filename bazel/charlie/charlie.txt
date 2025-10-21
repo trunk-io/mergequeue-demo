@@ -2758,7 +2758,6 @@ cursitor
 colius
 canoeist
 chimakuan
-coryphaeus
 coast
 canoes
 cowcatcher
@@ -23655,6 +23654,7 @@ climature
 coati
 chancelled
 chloranemia
+coryphaeus
 chihfu
 coumara
 conviviality
