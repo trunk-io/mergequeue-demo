@@ -6435,7 +6435,6 @@ defeating
 detonability
 derogate
 denuclearization
-derogates
 dephase
 deceivableness
 derogator
@@ -8661,6 +8660,7 @@ deckhouses
 disvaluing
 duc
 dustcart
+derogates
 downset
 disrecommendation
 diamins
