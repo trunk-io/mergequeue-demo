@@ -11332,7 +11332,6 @@ calciform
 colymbriformes
 caurus
 chloroethene
-chlorofluorocarbon
 crambus
 chlorofluoromethane
 cecils
@@ -12755,6 +12754,7 @@ convertibleness
 chumps
 chromophor
 chums
+chlorofluorocarbon
 cruth
 chumship
 cursillo
