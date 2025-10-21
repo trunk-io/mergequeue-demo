@@ -5111,6 +5111,7 @@ bandeng
 backswordsman
 bughouses
 beggarhood
+ballonette
 befurred
 boarhound
 blackstrap
@@ -10775,7 +10776,6 @@ barouche
 bulkish
 bluebonnet
 bricole
-ballonette
 blesmol
 brynza
 batyphone
