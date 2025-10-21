@@ -7540,7 +7540,6 @@ beeyard
 building
 barking
 bovids
-bevilled
 bookfold
 beworn
 brigantes
@@ -13165,6 +13164,7 @@ blatherskites
 biscuitlike
 beholden
 bunchiest
+bevilled
 boone
 bowdlerizer
 bkbndr
