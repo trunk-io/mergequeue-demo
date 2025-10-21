@@ -6970,7 +6970,6 @@ exegete
 easting
 enunciated
 evoker
-enfolding
 epicorolline
 emblemed
 enfoeffment
@@ -8537,6 +8536,7 @@ equicaloric
 embryoid
 endophytal
 empoverish
+enfolding
 elaphebolion
 enervous
 enwisen
