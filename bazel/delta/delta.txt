@@ -2465,6 +2465,7 @@ disallows
 deceived
 denunciation
 drowned
+deposit
 disfigures
 dane
 desmohemoblast
@@ -5893,7 +5894,6 @@ dwarfs
 demoralized
 dissuade
 dunce
-deposit
 drape
 dacian
 digressively
