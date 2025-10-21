@@ -721,7 +721,6 @@ beastliest
 bumped
 belaboured
 badgerer
-britannian
 batwing
 booking
 bacteriophage
@@ -8396,6 +8395,7 @@ bromobenzene
 bool
 bewall
 bildar
+britannian
 brahmanize
 brob
 butterflyfish
