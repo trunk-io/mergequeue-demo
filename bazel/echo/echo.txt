@@ -870,7 +870,6 @@ epidote
 encyclopaedically
 eminencies
 encephalosis
-euchrone
 emission
 eodiscid
 erythroblastotic
@@ -10174,6 +10173,7 @@ exiler
 engines
 elkoshite
 eldrich
+euchrone
 eremian
 edemata
 eliminatory
