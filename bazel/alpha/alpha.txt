@@ -4484,7 +4484,6 @@ ailurophobic
 advisors
 alchemist
 aground
-afterspeech
 aziminobenzene
 advocative
 amati
@@ -23549,6 +23548,7 @@ adiaphorous
 anteroposteriorly
 auguring
 aquarter
+afterspeech
 associativeness
 achroma
 amicus
