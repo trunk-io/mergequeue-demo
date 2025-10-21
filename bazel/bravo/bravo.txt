@@ -760,7 +760,6 @@ bespecklement
 badinerie
 badious
 bat
-brushcut
 bambuco
 birn
 bolster
@@ -16039,6 +16038,7 @@ beltcourse
 bearbind
 bronchoscopist
 backbear
+brushcut
 bronchotomy
 biasness
 biverbal
