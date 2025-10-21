@@ -587,7 +587,6 @@ denominationalize
 dermatocyst
 div
 dutra
-dover
 digenea
 degassers
 dishallucination
@@ -15242,6 +15241,7 @@ downfield
 drawoff
 disintegrators
 draughthouse
+dover
 dealbuminize
 diplomats
 dekabrist
