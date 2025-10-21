@@ -2425,7 +2425,6 @@ adnescent
 acana
 archaeostomata
 allochlorophyll
-aglycons
 anoxic
 aircheck
 aflame
@@ -6928,6 +6927,7 @@ aitutakian
 algerine
 accentually
 afear
+aglycons
 aphorizer
 aglycone
 ayubite
