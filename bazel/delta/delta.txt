@@ -3700,6 +3700,7 @@ dozing
 destructor
 drugged
 depsid
+dendrolite
 deniers
 doubleheaders
 dextrine
@@ -11748,7 +11749,6 @@ dispowder
 delicatesse
 drollish
 dealable
-dendrolite
 duply
 disaproned
 disauthorize
