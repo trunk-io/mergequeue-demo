@@ -2958,7 +2958,6 @@ cyclostomidae
 coppersmith
 canun
 crc
-crudes
 chiasmodon
 cycadeous
 ciminite
@@ -5415,6 +5414,7 @@ cylindromatous
 convallamarin
 competitory
 catalepsis
+crudes
 clamative
 catalexis
 contentful
