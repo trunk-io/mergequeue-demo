@@ -1560,6 +1560,7 @@ embrutes
 embolite
 embalmers
 equiangularity
+erased
 endangium
 expulsatory
 enfold
@@ -8380,7 +8381,6 @@ equalises
 erectness
 ephah
 eoghanacht
-erased
 erythrochroism
 embuia
 ethnarchies
