@@ -2329,6 +2329,7 @@ crambly
 correlatively
 canc
 canceled
+clockwise
 canceler
 cockaigne
 cancellable
@@ -16516,7 +16517,6 @@ cuon
 cicatrose
 clockmaker
 clockwatcher
-clockwise
 cohesive
 clockworked
 chalets
