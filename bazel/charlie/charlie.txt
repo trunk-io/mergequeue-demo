@@ -4203,7 +4203,6 @@ careworn
 concorporation
 carex
 chine
-carfares
 caterers
 cassie
 cations
@@ -5417,6 +5416,7 @@ cpm
 catacorner
 catacorolla
 codeines
+carfares
 ceratothecal
 catacumba
 catadicrotic
