@@ -5745,7 +5745,6 @@ canisters
 chansonnier
 cuemanship
 churly
-categorization
 categorized
 copatron
 categorizer
@@ -12924,6 +12923,7 @@ chuttie
 chutzpa
 chutzpanik
 crystallised
+categorization
 cyan
 conspires
 chyazic
