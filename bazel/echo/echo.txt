@@ -6840,7 +6840,6 @@ exam
 etherialisation
 enounces
 enantiomorphy
-elicitate
 exoculate
 equitriangular
 entomophilous
@@ -10534,6 +10533,7 @@ epicycle
 eastlin
 ericolin
 expellable
+elicitate
 eucarpous
 ephemerae
 endarch
