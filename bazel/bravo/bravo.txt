@@ -4980,6 +4980,7 @@ basicranial
 bombable
 benzenyl
 bottomrying
+burp
 bunrakus
 behaviored
 brads
@@ -7955,7 +7956,6 @@ burnishes
 bazars
 beefishness
 betelnut
-burp
 billeting
 blotchy
 bribery
