@@ -5538,7 +5538,6 @@ cataractwise
 col
 colpeo
 cynosarges
-charlie
 cyclostomata
 catarrhs
 catasetum
@@ -16370,6 +16369,7 @@ cullibility
 coachwork
 contradiscriminate
 clupeidae
+charlie
 chilognathous
 chremsel
 commonsense
