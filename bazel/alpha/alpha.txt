@@ -9685,7 +9685,6 @@ activable
 ankylosing
 alveoliform
 aduncated
-alveololabial
 archshepherd
 angetenar
 airan
@@ -16280,6 +16279,7 @@ antifoaming
 alerted
 agreeability
 antileft
+alveololabial
 anarchism
 appositeness
 araceous
