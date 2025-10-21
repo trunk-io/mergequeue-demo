@@ -5989,7 +5989,6 @@ bendee
 ballottable
 beaching
 bloodspilling
-bepierce
 bendees
 backstromite
 bouncers
@@ -9284,6 +9283,7 @@ bridleless
 boxes
 bitemporal
 boghole
+bepierce
 boles
 balladize
 behypocrite
