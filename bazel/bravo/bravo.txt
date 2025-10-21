@@ -5021,7 +5021,6 @@ bootmaker
 benignantly
 befouling
 bazookas
-bowsprit
 befraught
 belemnites
 befreight
@@ -7174,6 +7173,7 @@ berkeley
 better
 bytownite
 bedazzles
+bowsprit
 broombush
 betag
 blameableness
