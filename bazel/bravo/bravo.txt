@@ -2744,6 +2744,7 @@ bubbleless
 book
 ballgowns
 bulkiest
+beetroots
 blowze
 barothermohygrograph
 brassworker
@@ -4875,7 +4876,6 @@ bacterid
 blancher
 beetrave
 beakiron
-beetroots
 bosporus
 blithebread
 bask
