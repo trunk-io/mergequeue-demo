@@ -12424,7 +12424,6 @@ ankoli
 agapornis
 androclclinia
 arthrogastra
-anisotropic
 angka
 atrabilaire
 annotinous
@@ -20811,6 +20810,7 @@ assate
 arctangent
 artophoria
 argonne
+anisotropic
 amis
 acquainting
 abelonian
