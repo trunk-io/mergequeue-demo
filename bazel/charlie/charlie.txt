@@ -10370,7 +10370,6 @@ currencies
 closings
 chicqued
 chicquer
-cooperite
 carlylese
 chicquing
 churchier
@@ -14029,6 +14028,7 @@ crummy
 covenants
 cypher
 cyphered
+cooperite
 ciphering
 ciphertexts
 cyphonism
