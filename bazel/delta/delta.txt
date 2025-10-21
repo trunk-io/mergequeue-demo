@@ -12320,7 +12320,6 @@ disambiguated
 dermatoptic
 diaereses
 deathshot
-disfurniture
 descartes
 dossiere
 disincarceration
@@ -18385,6 +18384,7 @@ defeatist
 delinquent
 disco
 dobbed
+disfurniture
 detrusive
 dissimilation
 derout
