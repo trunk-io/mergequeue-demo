@@ -13499,6 +13499,7 @@ cylinders
 cholesterinuria
 conniption
 cleaned
+clade
 cylindrella
 chillier
 cylindrelloid
@@ -13841,7 +13842,6 @@ credence
 clons
 cineration
 contradicter
-clade
 cholecystis
 cinerator
 circumrotation
