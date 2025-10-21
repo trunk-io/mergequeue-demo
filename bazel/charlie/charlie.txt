@@ -10844,7 +10844,6 @@ cutoffs
 capivi
 chaperons
 caryocaraceae
-corin
 cystal
 caulomer
 creancer
@@ -30853,6 +30852,7 @@ coralflower
 colonizations
 circumambulated
 chechako
+corin
 cultisms
 chalcidicum
 circumpolar
