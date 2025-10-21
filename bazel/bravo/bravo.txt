@@ -2250,7 +2250,6 @@ bebops
 boraginaceae
 bubaline
 brands
-blunted
 braggers
 bijasal
 broadswords
@@ -7945,6 +7944,7 @@ balimbing
 bort
 bicrural
 bygane
+blunted
 blastoporic
 bicultural
 brattie
