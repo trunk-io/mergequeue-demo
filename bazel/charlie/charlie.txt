@@ -18769,7 +18769,6 @@ cojudge
 chrisma
 cabot
 corelation
-cofeature
 cannonade
 carbanion
 conglobation
@@ -30511,6 +30510,7 @@ cubera
 cure
 charonic
 cubes
+cofeature
 chattering
 cubical
 corsetiere
