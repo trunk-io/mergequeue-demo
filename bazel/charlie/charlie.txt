@@ -5793,7 +5793,6 @@ caedmonic
 cubistically
 caterbrawl
 catercorner
-catercornerways
 coholder
 crushable
 cartbote
@@ -9540,6 +9539,7 @@ clydesider
 checkerbellies
 compacting
 concealing
+catercornerways
 checkerberry
 checkerberries
 coursing
