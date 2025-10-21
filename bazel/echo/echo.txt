@@ -953,6 +953,7 @@ exadversum
 excisable
 easterly
 eqpt
+electrodynamics
 eonian
 experimentalist
 exheredate
@@ -13815,7 +13816,6 @@ enfasten
 elucidative
 entapophysial
 equiarticulate
-electrodynamics
 extracivic
 erepsins
 encarditis
