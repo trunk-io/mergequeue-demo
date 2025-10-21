@@ -7481,7 +7481,6 @@ cercidiphyllaceae
 canisiana
 cercolabes
 cercomonadidae
-cercopithecid
 cercopithecidae
 cunning
 chronography
@@ -26568,6 +26567,7 @@ cunninghamia
 clotheshorse
 camatina
 camomile
+cercopithecid
 cataclysmic
 causatum
 chattermag
