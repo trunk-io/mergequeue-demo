@@ -956,7 +956,6 @@ caddle
 counterdistinct
 callipygian
 countervair
-calamine
 calamines
 colombina
 condensaries
@@ -31251,6 +31250,7 @@ chandelles
 curation
 cutworks
 cliques
+calamine
 curatorium
 carabid
 coagula
