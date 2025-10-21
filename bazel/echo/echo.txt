@@ -7755,7 +7755,6 @@ eductor
 extroverted
 eruca
 erose
-expected
 ensurance
 electra
 entogastric
@@ -13511,6 +13510,7 @@ embolimeal
 elastins
 excalibur
 encave
+expected
 extrafloral
 epitenon
 electroendosmosis
