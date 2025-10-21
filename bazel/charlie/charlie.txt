@@ -3380,7 +3380,6 @@ cubitoplantar
 chinwood
 chancery
 capriote
-capriped
 capripede
 caducecaducean
 capris
@@ -6033,6 +6032,7 @@ ceratitidae
 coakum
 catstick
 chyliferous
+capriped
 concubitancy
 ciderkin
 carvacrol
