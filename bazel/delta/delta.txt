@@ -292,7 +292,6 @@ dazzlers
 doliolidae
 donatory
 dicranum
-deplorers
 daitya
 deworm
 dogtrot
@@ -9074,6 +9073,7 @@ destructibleness
 dewclawed
 dilutely
 dovens
+deplorers
 dibstone
 delirate
 decomposable
