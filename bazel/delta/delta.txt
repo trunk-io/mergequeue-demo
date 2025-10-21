@@ -4608,7 +4608,6 @@ dethronable
 downface
 demidistance
 deifying
-disbeliefs
 deterred
 dispersoid
 dosimetric
@@ -5954,6 +5953,7 @@ devotions
 deforceor
 dado
 dipropargyl
+disbeliefs
 dooryards
 devolve
 defaitisme
