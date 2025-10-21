@@ -3205,7 +3205,6 @@ arcanum
 areg
 adamantean
 ashlers
-abacination
 anisodactylous
 antipolyneuritic
 anastate
@@ -6600,6 +6599,7 @@ adders
 acerbas
 acarol
 anotto
+abacination
 advects
 asboline
 autosign
