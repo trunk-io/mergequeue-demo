@@ -3272,7 +3272,6 @@ coderives
 collodion
 contrasty
 caponizer
-caponizing
 caponniere
 clonicotonic
 cheesiness
@@ -26188,6 +26187,7 @@ cosmopolises
 chairpersons
 coastline
 compressible
+caponizing
 coffer
 circumference
 counterbrace
