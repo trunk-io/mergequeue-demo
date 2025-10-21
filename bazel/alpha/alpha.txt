@@ -3282,7 +3282,6 @@ armlocks
 adcons
 agriculturer
 alaunt
-ameboid
 alectoropodes
 anchorer
 antipredeterminant
@@ -22451,6 +22450,7 @@ autopsies
 aspartyl
 anisogametes
 arteriovenous
+ameboid
 arabella
 aflat
 alephs
