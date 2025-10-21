@@ -2700,7 +2700,6 @@ demetallize
 deedful
 describable
 dassy
-decorator
 deliberated
 dihalide
 dumdums
@@ -17425,6 +17424,7 @@ delphacid
 diluter
 diego
 drouthier
+decorator
 darnings
 deports
 debasedness
