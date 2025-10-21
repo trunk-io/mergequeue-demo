@@ -8793,7 +8793,6 @@ duellos
 deutovum
 dewan
 divulgate
-doxastic
 donatio
 dokimastic
 doruck
@@ -14581,6 +14580,7 @@ dillydallies
 doomsters
 diminuted
 divulger
+doxastic
 dianodal
 derisible
 doomstead
