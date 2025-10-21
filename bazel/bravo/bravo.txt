@@ -4222,6 +4222,7 @@ beehives
 bowfront
 bredbergite
 boars
+benettle
 bostanji
 bowman
 butterman
@@ -14711,7 +14712,6 @@ bitterns
 baptizer
 brantails
 beachheads
-benettle
 bicyclo
 bedsit
 bauera
