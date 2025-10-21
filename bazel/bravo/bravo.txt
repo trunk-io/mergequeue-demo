@@ -12002,6 +12002,7 @@ birmingham
 borzicactus
 brothelry
 bostons
+batterdock
 bandaging
 bogymen
 bogland
@@ -18373,7 +18374,6 @@ buttresslike
 babassu
 bulbs
 bolita
-batterdock
 braw
 buttwoman
 barleybrake
