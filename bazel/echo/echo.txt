@@ -3572,7 +3572,6 @@ exterritorial
 eyeservice
 everyday
 epigrammatist
-eschar
 endura
 energumen
 eubteria
@@ -11615,6 +11614,7 @@ efflorescent
 empale
 enwombing
 expatiative
+eschar
 etiolation
 elecive
 excalceate
