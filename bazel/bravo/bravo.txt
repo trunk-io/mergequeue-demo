@@ -4223,6 +4223,7 @@ bowfront
 bredbergite
 boars
 bostanji
+businesslike
 bowman
 butterman
 buildable
@@ -12422,7 +12423,6 @@ beckelite
 bons
 begrutch
 blockheadish
-businesslike
 bests
 bi
 bakeout
