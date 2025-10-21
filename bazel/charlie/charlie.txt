@@ -7918,6 +7918,7 @@ cismontane
 cfd
 columned
 cyclotrimethylenetrinitramine
+calcomp
 cha
 catchweed
 chincha
@@ -26836,7 +26837,6 @@ confutable
 counterbuff
 countercathexis
 counterchanged
-calcomp
 clausule
 countersmile
 cirriform
