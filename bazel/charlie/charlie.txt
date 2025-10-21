@@ -6855,6 +6855,7 @@ celotomies
 cashbox
 cajuputol
 celt
+chemistries
 circumpolygon
 clockkeeper
 circularizers
@@ -22135,7 +22136,6 @@ corsy
 confirms
 ceraunite
 cocainization
-chemistries
 confesses
 convolvulin
 chookies
