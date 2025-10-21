@@ -2402,6 +2402,7 @@ busies
 blens
 blacklisting
 bifunctional
+beltis
 bechalked
 baryons
 barfish
@@ -13367,7 +13368,6 @@ brassicaceae
 bootlace
 botanist
 byroad
-beltis
 botanize
 brushmen
 boswellizing
