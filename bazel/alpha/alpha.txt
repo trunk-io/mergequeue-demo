@@ -17627,6 +17627,7 @@ appanagist
 altitude
 athort
 astrographic
+assyriology
 aerostatics
 appendicocaecostomy
 accommodation
@@ -21942,7 +21943,6 @@ advoyer
 alternanthera
 autocondensation
 arteriae
-assyriology
 analyst
 arilli
 aspergilla
