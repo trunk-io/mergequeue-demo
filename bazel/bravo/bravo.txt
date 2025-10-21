@@ -3635,6 +3635,7 @@ breakermen
 broadcast
 baysmelt
 breakout
+brachiocyllosis
 beetlestock
 battened
 basquine
@@ -14794,7 +14795,6 @@ bacury
 beribbon
 biblioclasm
 boysenberries
-brachiocyllosis
 botryllidae
 blending
 bathochrome
