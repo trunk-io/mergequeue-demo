@@ -7301,7 +7301,6 @@ deadheads
 detainee
 deseasonalize
 detaining
-denotations
 disinfecter
 denouement
 detar
@@ -12669,6 +12668,7 @@ dirtfarmer
 depersonalized
 drubbings
 discerptibleness
+denotations
 discourage
 disengagedness
 detrains
