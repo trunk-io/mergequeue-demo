@@ -1849,7 +1849,6 @@ brigands
 bepraisement
 beseechment
 burbler
-bowed
 bocaccios
 benefice
 ballone
@@ -12735,6 +12734,7 @@ booker
 baritonal
 boatkeeper
 bailsmen
+bowed
 biometric
 bookhood
 bloodhounds
