@@ -1463,7 +1463,6 @@ botas
 baronetised
 bodyhood
 bakairi
-bersiamite
 bibi
 ballata
 byword
@@ -9566,6 +9565,7 @@ bearings
 backfills
 brickfield
 buskined
+bersiamite
 bacteriosolvent
 bedismal
 beneficently
