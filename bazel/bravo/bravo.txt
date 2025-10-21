@@ -6566,7 +6566,6 @@ broadside
 banquettes
 butterwright
 boxwood
-bytime
 baptizement
 bergamasche
 broddle
@@ -13163,6 +13162,7 @@ beaneries
 baalath
 bilbi
 bodyguard
+bytime
 bastinaded
 brachydactylism
 beerbelly
