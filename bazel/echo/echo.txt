@@ -12042,7 +12042,6 @@ equid
 estovers
 electivity
 edgrow
-enchalice
 eagless
 eoside
 enmity
@@ -12798,6 +12797,7 @@ eburnian
 euripupi
 etheostomidae
 erythrol
+enchalice
 enterostomy
 engramme
 endosulfan
