@@ -1337,7 +1337,6 @@ exestuate
 explanatorily
 ectosomal
 except
-exocline
 evicting
 epics
 equalable
@@ -10737,6 +10736,7 @@ elaboration
 equivocalness
 echiurid
 engrapple
+exocline
 engravings
 enteropexy
 embrittlement
