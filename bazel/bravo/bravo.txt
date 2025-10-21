@@ -1616,6 +1616,7 @@ boudin
 benisons
 beswim
 brasiers
+binomen
 berdaches
 brookflower
 bedcord
@@ -14389,7 +14390,6 @@ bovoid
 baggara
 bongoist
 backrush
-binomen
 bucca
 bauhinia
 bosky
