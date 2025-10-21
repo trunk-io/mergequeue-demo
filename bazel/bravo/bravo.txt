@@ -2576,6 +2576,7 @@ bacteriolysin
 bumpy
 broadsword
 bringer
+barbers
 bismuthite
 bitewing
 burdenless
@@ -6550,7 +6551,6 @@ boanbura
 birthroot
 babacoote
 bucktails
-barbers
 boninesses
 biz
 befoulment
