@@ -7989,7 +7989,6 @@ appliers
 akim
 alcoholmeter
 atlantoaxial
-amethyst
 afetal
 anophthalmia
 aspirators
@@ -16308,6 +16307,7 @@ acroliths
 alcohol
 achroiocythemia
 antapex
+amethyst
 awheel
 azafran
 agelaius
