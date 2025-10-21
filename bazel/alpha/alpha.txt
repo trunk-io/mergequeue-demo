@@ -1641,6 +1641,7 @@ authentications
 alacriously
 acapnias
 alternance
+anes
 affranchisement
 accidented
 acockbill
@@ -5985,7 +5986,6 @@ acheron
 agit
 agitability
 accouters
-anes
 agitate
 agitated
 alkalisation
