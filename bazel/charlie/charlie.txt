@@ -6982,6 +6982,7 @@ checkline
 codons
 centauries
 constructure
+compasser
 centauromachy
 constringent
 circumparallelogram
@@ -27668,7 +27669,6 @@ choffer
 climacium
 chieftaincies
 covetously
-compasser
 covibration
 curiosos
 calycanthaceous
