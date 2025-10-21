@@ -4820,7 +4820,6 @@ blackland
 bumpoff
 bugs
 bejan
-bombycilla
 belait
 beers
 byously
@@ -6116,6 +6115,7 @@ benefactorship
 becasse
 block
 beveling
+bombycilla
 basifier
 basiradial
 blindfish
