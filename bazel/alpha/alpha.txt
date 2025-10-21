@@ -11004,7 +11004,6 @@ archhead
 accent
 altify
 acyanoblepsia
-arcsine
 amoritic
 antireligionist
 acuesthesia
@@ -17931,6 +17930,7 @@ asak
 ascaridol
 alisphenoid
 astigmatically
+arcsine
 atheneums
 apocarpy
 antiaris
