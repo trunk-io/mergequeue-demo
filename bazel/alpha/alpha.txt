@@ -17534,6 +17534,7 @@ archpriest
 airship
 alemana
 antiarchi
+avenging
 anaemic
 asynchronism
 arle
@@ -24351,7 +24352,6 @@ autopelagic
 amabel
 andrarchy
 ascendent
-avenging
 autophagous
 autophytic
 altimetry
