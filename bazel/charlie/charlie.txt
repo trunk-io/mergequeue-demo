@@ -2467,6 +2467,7 @@ confraternities
 choosable
 candlelighting
 cohusband
+canalised
 circumcinct
 candlemaker
 candlemas
@@ -13564,7 +13565,6 @@ cachoeira
 calyptrogyne
 cote
 cimbrian
-canalised
 caprifoliaceae
 capshore
 cyme
