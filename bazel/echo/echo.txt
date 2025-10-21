@@ -4658,7 +4658,6 @@ epichristian
 esguard
 empathize
 esthematology
-encephalomata
 etrogs
 electroencephalographs
 evade
@@ -11457,6 +11456,7 @@ emmy
 excavator
 eiffel
 embryonary
+encephalomata
 extract
 emes
 enforcive
