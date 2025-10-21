@@ -6030,7 +6030,6 @@ emparchment
 eunicid
 eaves
 expedience
-eupneas
 emboitement
 erbia
 entremets
@@ -10231,6 +10230,7 @@ earthlike
 earphones
 ethrogim
 eringo
+eupneas
 enterorrhaphy
 endothelium
 echeneid
