@@ -8163,7 +8163,6 @@ defs
 diploplacular
 desucration
 dinaphthyl
-designator
 destroyer
 daftardar
 diarial
@@ -11450,6 +11449,7 @@ dispress
 drives
 denaturation
 dschubba
+designator
 dogging
 disavowment
 dishfuls
