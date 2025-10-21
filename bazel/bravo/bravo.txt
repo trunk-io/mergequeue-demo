@@ -13471,6 +13471,7 @@ bisulc
 blur
 beothuk
 boltant
+bodoni
 bothway
 banqueters
 boloed
@@ -13887,7 +13888,6 @@ bowditch
 buttermaker
 bushelled
 bisellia
-bodoni
 bronchia
 bowdlerisation
 bizarres
