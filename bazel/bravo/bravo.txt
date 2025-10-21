@@ -6232,6 +6232,7 @@ bhindi
 below
 battens
 badon
+boundure
 bocce
 bergut
 biblists
@@ -9473,7 +9474,6 @@ bedirties
 brewhouses
 bourride
 birkremite
-boundure
 boldine
 botonee
 begrease
