@@ -706,7 +706,6 @@ burnishers
 bartending
 banderol
 baign
-baler
 bielding
 blossomhead
 buccate
@@ -13517,6 +13516,7 @@ brett
 beton
 brainsickly
 backtracker
+baler
 bottlebrush
 blacklegism
 bobsleding
