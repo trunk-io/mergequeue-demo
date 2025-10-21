@@ -2720,6 +2720,7 @@ brownouts
 bicompact
 backfill
 brookside
+borrowing
 burgamot
 beldams
 baroqueness
@@ -16310,7 +16311,6 @@ bolthead
 birthmark
 buses
 boomtown
-borrowing
 browntail
 beflour
 badinages
