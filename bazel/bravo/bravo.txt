@@ -9599,6 +9599,7 @@ beadle
 bimetals
 bearings
 backfills
+brickfield
 buskined
 bacteriosolvent
 bufflehorn
@@ -17520,7 +17521,6 @@ blueweeds
 blamefulness
 battlefields
 bloodcurdler
-brickfield
 bacitracin
 bootlicking
 blemish
