@@ -5646,7 +5646,6 @@ entailment
 ecthetically
 equisetic
 epigrammatical
-emerson
 evolvent
 epural
 exameter
@@ -12585,6 +12584,7 @@ ergotaminine
 eavesdropper
 electrotherapy
 embira
+emerson
 effluvial
 electrosynthetic
 easternly
