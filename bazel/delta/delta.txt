@@ -1750,7 +1750,6 @@ diversional
 dumble
 dauerschlaf
 deathtime
-delineate
 deathtrap
 deutobromide
 didynamic
@@ -4095,6 +4094,7 @@ dorrs
 dilator
 duration
 dahlsten
+delineate
 disorganizers
 duetting
 dispiteous
