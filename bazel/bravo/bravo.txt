@@ -3873,7 +3873,6 @@ branches
 bannerets
 bassanite
 blindball
-bathycolpian
 benetnasch
 babbie
 beamman
@@ -17599,6 +17598,7 @@ borough
 brawny
 bakepan
 blubberhead
+bathycolpian
 bribe
 balante
 bardling
