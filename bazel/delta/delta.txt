@@ -8462,7 +8462,6 @@ droob
 dammara
 defocus
 diagraphs
-detestableness
 declines
 downway
 disrober
@@ -11722,6 +11721,7 @@ diezeugmenon
 dobrao
 discernible
 desugared
+detestableness
 delocalise
 dodo
 deforcing
