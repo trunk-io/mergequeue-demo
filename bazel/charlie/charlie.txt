@@ -7002,7 +7002,6 @@ cretoria
 centering
 cactoid
 comminatory
-centermost
 centerpiece
 craizey
 cerebrosclerosis
@@ -10251,6 +10250,7 @@ cyclistic
 chiastoneurous
 couteaux
 chiaus
+centermost
 caprifigs
 cellulicidal
 canniest
