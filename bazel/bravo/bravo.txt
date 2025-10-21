@@ -2796,7 +2796,6 @@ blemmyes
 beachcomb
 barreled
 bondholding
-basify
 barostat
 birdlet
 blackguard
@@ -15078,6 +15077,7 @@ buncal
 belap
 befetter
 betiding
+basify
 bicuspidal
 bandaka
 biodegraded
