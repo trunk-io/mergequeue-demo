@@ -9828,7 +9828,6 @@ caudate
 chelinga
 chelingas
 chelingos
-cheliped
 corbiestep
 cydon
 cheloids
@@ -20883,6 +20882,7 @@ coercement
 cordierite
 cenotaphs
 cymation
+cheliped
 cacafuego
 concurred
 capacitors
