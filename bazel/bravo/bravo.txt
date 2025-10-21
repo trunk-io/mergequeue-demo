@@ -2928,7 +2928,6 @@ blowth
 biostatistic
 bordereau
 bsf
-boglet
 beltless
 bartree
 banish
@@ -10150,6 +10149,7 @@ behave
 bellypinch
 banqueteer
 bilker
+boglet
 befrets
 brinsell
 beldames
