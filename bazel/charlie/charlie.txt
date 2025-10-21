@@ -15599,6 +15599,7 @@ continentalist
 classifiable
 cyphella
 chapitral
+cedre
 cryonic
 crustaceous
 creeper
@@ -17939,7 +17940,6 @@ coguardian
 codominant
 combes
 cornulites
-cedre
 calathian
 citola
 codpieces
