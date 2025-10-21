@@ -1637,6 +1637,7 @@ calorimeters
 calorimetry
 chamisal
 calorimetrically
+caschrom
 culicines
 calorist
 codable
@@ -9333,7 +9334,6 @@ crankplate
 carity
 challenges
 couvert
-caschrom
 chg
 cerris
 chauk
