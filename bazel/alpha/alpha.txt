@@ -12983,7 +12983,6 @@ archprototype
 amninia
 authored
 advertent
-avocat
 apolysin
 autognosis
 award
@@ -20217,6 +20216,7 @@ aromatical
 ardeb
 arthrodesis
 anita
+avocat
 angiocarpous
 auxobody
 adesmy
