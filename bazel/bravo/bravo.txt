@@ -1378,7 +1378,6 @@ beflags
 bouffants
 bigaroon
 bops
-bedye
 bohunk
 backyard
 breechclout
@@ -4958,6 +4957,7 @@ blanketweed
 bassnesses
 buffo
 backhauled
+bedye
 blistery
 blazoner
 betrayer
