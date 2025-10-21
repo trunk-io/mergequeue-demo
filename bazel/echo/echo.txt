@@ -7153,7 +7153,6 @@ eonism
 erysipelothrix
 esrogim
 extradoses
-electrotelegraphic
 eorhyolite
 eos
 epitria
@@ -11455,6 +11454,7 @@ epiphragmal
 emmy
 excavator
 eiffel
+electrotelegraphic
 embryonary
 extract
 emes
