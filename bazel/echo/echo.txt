@@ -5835,6 +5835,7 @@ essayers
 elect
 eucharis
 eld
+exine
 epicardial
 ecru
 expend
@@ -11140,7 +11141,6 @@ eyeballed
 evenest
 ennobled
 energetic
-exine
 esc
 extenders
 erogeneity
