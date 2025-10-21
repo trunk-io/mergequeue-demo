@@ -10246,7 +10246,6 @@ brainer
 beclamour
 bevors
 banian
-bowstaff
 blackneck
 bargelli
 blurs
@@ -11715,6 +11714,7 @@ beastship
 bravura
 bonaire
 bear
+bowstaff
 brainily
 beamlike
 barillas
