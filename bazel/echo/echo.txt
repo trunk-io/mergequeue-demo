@@ -3610,6 +3610,7 @@ epitheca
 educations
 exhalatory
 elimination
+endosepsis
 edestin
 echelette
 emulsor
@@ -9402,7 +9403,6 @@ entocondyle
 erithacus
 euryzygous
 electroviscous
-endosepsis
 electrostereotype
 eggy
 electrophoridae
