@@ -5490,6 +5490,7 @@ ballistite
 buffer
 burrio
 basophile
+becurry
 benzoins
 burelle
 biotype
@@ -8245,7 +8246,6 @@ biliate
 binominal
 beribboned
 bepuff
-becurry
 bawled
 bahisti
 burrheaded
