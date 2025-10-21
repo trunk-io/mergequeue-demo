@@ -1950,7 +1950,6 @@ crepes
 crankpin
 clobbering
 consolers
-catadioptrics
 camion
 camions
 camisa
@@ -7412,6 +7411,7 @@ coincidentally
 cerasein
 chouser
 cythera
+catadioptrics
 conciliatory
 cerata
 commerced
