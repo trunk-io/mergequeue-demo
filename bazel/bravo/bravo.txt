@@ -4675,6 +4675,7 @@ buckhounds
 baculums
 beastlings
 burriest
+banksmen
 bedroll
 bombardman
 bedrooms
@@ -8222,7 +8223,6 @@ burgaudine
 buvette
 brazenly
 billie
-banksmen
 baburd
 beanbags
 biontic
