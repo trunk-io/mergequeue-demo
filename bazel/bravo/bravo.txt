@@ -319,7 +319,6 @@ bumps
 burrknot
 bocardo
 brumbies
-bandos
 bittersweets
 bespeed
 blitzed
@@ -13919,6 +13918,7 @@ biduous
 bang
 brainstorms
 bowie
+bandos
 baized
 berengelite
 bauxites
