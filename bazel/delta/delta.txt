@@ -5950,7 +5950,6 @@ dado
 dooryards
 devolve
 defaitisme
-disembed
 depressed
 damage
 dingman
@@ -7333,6 +7332,7 @@ dromaeognathae
 detractress
 disilicid
 disorientation
+disembed
 dolmas
 disseized
 disturbor
