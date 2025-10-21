@@ -12545,7 +12545,6 @@ buff
 bonfires
 bannimus
 beaus
-bedposts
 biniou
 blackballed
 billboards
@@ -16285,6 +16284,7 @@ betweenbrain
 broll
 boffin
 bemajesty
+bedposts
 babyhouse
 bolthead
 birthmark
