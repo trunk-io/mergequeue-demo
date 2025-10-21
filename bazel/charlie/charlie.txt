@@ -1527,6 +1527,7 @@ cancerwort
 cutcher
 corrobboree
 callosal
+completions
 crafts
 calloses
 callosities
@@ -2119,7 +2120,6 @@ cretion
 chlorococcales
 califates
 cotan
-completions
 commutes
 conference
 chackchiuma
