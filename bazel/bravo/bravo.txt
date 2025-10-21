@@ -587,7 +587,6 @@ baconize
 bidiagonal
 bulblet
 bedsore
-basipterygial
 baconweed
 bierkeller
 browner
@@ -8133,6 +8132,7 @@ blurb
 bifurcated
 bishareen
 bifurcately
+basipterygial
 blueball
 behorn
 basketry
