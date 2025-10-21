@@ -1387,6 +1387,7 @@ expolish
 entomophthoraceous
 eggfruit
 evaluate
+edplot
 efreet
 etherized
 effare
@@ -1755,7 +1756,6 @@ elementals
 evenoo
 eileen
 euskara
-edplot
 elephants
 ensanguine
 earnful
