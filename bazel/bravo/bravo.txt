@@ -10722,7 +10722,6 @@ bewash
 bunchflower
 belt
 bonebreaker
-burglars
 blearyeyedness
 begarnish
 beento
@@ -15589,6 +15588,7 @@ beeman
 blindage
 barometer
 blastid
+burglars
 barbacan
 busk
 birdsall
