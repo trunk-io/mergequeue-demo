@@ -10119,6 +10119,7 @@ cryogens
 copihues
 capsuliform
 chessner
+chirogale
 chessom
 chesstree
 calciminer
@@ -21793,7 +21794,6 @@ crosa
 camphoric
 counteractant
 commy
-chirogale
 criminatory
 crackling
 christianlike
