@@ -1016,7 +1016,6 @@ ectype
 employless
 expunction
 enclosed
-exurbia
 elephantic
 easefulness
 estuaries
@@ -6529,6 +6528,7 @@ evolate
 esperantidist
 enseam
 exhaustibility
+exurbia
 endlessness
 embroiled
 expatiate
