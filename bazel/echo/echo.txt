@@ -6027,6 +6027,7 @@ exceed
 erythroderma
 epanorthosis
 epimanikia
+epinikion
 examens
 erminites
 extremum
@@ -7823,7 +7824,6 @@ eumenidean
 exophthalmos
 enchytrae
 epanaphora
-epinikion
 egilops
 eructates
 euphonous
