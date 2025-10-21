@@ -86,7 +86,6 @@ abatement
 abalone
 abalones
 astogeny
-anaudia
 abama
 aneling
 aquanaut
@@ -3870,6 +3869,7 @@ aluconinae
 afforced
 aphaeresis
 aphasia
+anaudia
 achaemenid
 assignat
 adnominal
