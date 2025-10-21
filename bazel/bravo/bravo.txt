@@ -11335,6 +11335,7 @@ barney
 bargeman
 blackguards
 bluest
+boffs
 berger
 bloviate
 blowsier
@@ -15815,7 +15816,6 @@ boldin
 blendes
 bogged
 brodie
-boffs
 bicolor
 boccia
 brogue
