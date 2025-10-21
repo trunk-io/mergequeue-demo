@@ -3701,6 +3701,7 @@ dozing
 destructor
 drugged
 depsid
+deniers
 doubleheaders
 dextrine
 disrupt
@@ -17238,7 +17239,6 @@ droit
 discern
 disc
 defectoscope
-deniers
 deaccession
 decanol
 dipodic
