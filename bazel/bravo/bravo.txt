@@ -11893,6 +11893,7 @@ baselike
 blackpoll
 bathmism
 boussingaultia
+beholder
 blitzing
 boyce
 blatancy
@@ -12581,7 +12582,6 @@ bungaloid
 bristlemouths
 bistratose
 berberry
-beholder
 backlist
 blacklegs
 beverages
