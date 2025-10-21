@@ -12844,6 +12844,7 @@ burstone
 braiding
 barrelhouse
 broigne
+boite
 breachful
 bitbrace
 boomable
@@ -14341,7 +14342,6 @@ bye
 bluebead
 brahmana
 bounciness
-boite
 benetting
 bathysmal
 bibliothecaire
