@@ -2879,7 +2879,6 @@ eligibles
 encoronet
 eemis
 equivocalities
-euphonetic
 encephalopsychesis
 eliminable
 ensphering
@@ -10205,6 +10204,7 @@ envenomization
 exhance
 epiphanize
 electropositive
+euphonetic
 excruciation
 endocrinous
 elapses
