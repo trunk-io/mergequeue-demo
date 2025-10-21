@@ -8638,6 +8638,7 @@ bosc
 behests
 boatshop
 barycentre
+billing
 borrelomycetaceae
 bedrown
 brontotherium
@@ -9297,7 +9298,6 @@ belgian
 berne
 belswagger
 blanketry
-billing
 burningly
 bluefish
 beryl
