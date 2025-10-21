@@ -13497,7 +13497,6 @@ cylindrella
 chillier
 cylindrelloid
 cryptographic
-colligative
 cylindric
 cylindrically
 cylindricity
@@ -23202,6 +23201,7 @@ constantness
 capricorn
 chuddahs
 cynosures
+colligative
 coetaneousness
 cibophobiafood
 chamberletted
