@@ -2791,6 +2791,7 @@ beprank
 bilocation
 broadcasts
 blastophore
+biunivocal
 bandit
 barrater
 bacillar
@@ -8348,7 +8349,6 @@ bastinadoing
 bavardage
 batak
 baginda
-biunivocal
 bounceable
 bilifuscin
 bastiment
