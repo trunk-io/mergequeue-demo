@@ -8687,7 +8687,6 @@ behests
 boatshop
 barycentre
 binal
-borrelomycetaceae
 bedrown
 brontotherium
 bardolater
@@ -17134,6 +17133,7 @@ bemete
 buoyancy
 battak
 balsamy
+borrelomycetaceae
 batterable
 blowhard
 biggy
