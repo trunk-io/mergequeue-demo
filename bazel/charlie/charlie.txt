@@ -12567,6 +12567,7 @@ cenospecifically
 cray
 chronograph
 chronographer
+crophead
 crosslap
 cauterizing
 colloquializer
@@ -28871,7 +28872,6 @@ conjugality
 coeloms
 cresyl
 cresyls
-crophead
 characterologically
 corianders
 cornucopian
