@@ -8937,7 +8937,6 @@ admiralships
 amurca
 awrist
 algerians
-affranchising
 aidmen
 annelids
 apospory
@@ -23477,6 +23476,7 @@ ashwort
 acumen
 abelmosks
 agatoid
+affranchising
 arbitrager
 agnail
 anguilla
