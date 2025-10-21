@@ -2591,6 +2591,7 @@ barmaster
 belligerents
 backbit
 barmcloth
+badgerly
 birdcage
 balthasar
 bullae
@@ -5056,7 +5057,6 @@ boltlike
 brighteyes
 balladism
 brimful
-badgerly
 bugan
 bandelet
 bypasser
