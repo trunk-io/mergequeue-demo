@@ -2997,7 +2997,6 @@ canvasser
 carretera
 canzona
 crickety
-canzones
 codeina
 canzonet
 canvass
@@ -12508,6 +12507,7 @@ childage
 cladodes
 colistins
 clinchers
+canzones
 contrived
 chromophobic
 cardiagraph
