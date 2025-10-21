@@ -964,7 +964,6 @@ eponymy
 excitonutrient
 electrooptic
 enantiotropic
-euphemism
 evang
 envyingly
 ead
@@ -3235,6 +3234,7 @@ ecchymosed
 eugenols
 elapidae
 embryulculci
+euphemism
 effeminization
 exhibitively
 enjoyers
