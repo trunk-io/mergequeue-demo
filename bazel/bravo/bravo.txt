@@ -4271,6 +4271,7 @@ bilabials
 bittacle
 ballproof
 balanced
+bursula
 beclothe
 banting
 bonasus
@@ -4587,7 +4588,6 @@ bookman
 boatel
 benediction
 bourrelet
-bursula
 beladied
 barabora
 becrusts
