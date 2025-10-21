@@ -7599,7 +7599,6 @@ extrusory
 exciton
 ectocrine
 excriminate
-eumycetic
 eloper
 electrophori
 eradicates
@@ -12738,6 +12737,7 @@ enkraal
 emulousness
 extorting
 ensisternum
+eumycetic
 editions
 envenoms
 effusive
