@@ -8829,7 +8829,6 @@ canoeman
 carapaxes
 cymbalaria
 cremocarp
-chapteral
 chapterhouse
 consortship
 chapters
@@ -29444,6 +29443,7 @@ coldcock
 custos
 cryptos
 cryptosplenetic
+chapteral
 cryptostome
 cryptous
 cryptovalence
