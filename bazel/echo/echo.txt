@@ -1840,6 +1840,7 @@ embreastment
 equicurve
 esocyclic
 extrude
+extracurial
 entamoebiasis
 endothermal
 excitably
@@ -7776,7 +7777,6 @@ eunuchised
 endolaryngeal
 eyrer
 extracorporeal
-extracurial
 escalope
 endocrinal
 engraftation
