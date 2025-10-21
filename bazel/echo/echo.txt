@@ -405,7 +405,6 @@ entodermal
 expenditure
 epidermidalization
 ectasia
-exoculation
 enmoss
 epeirogenic
 enterococcal
@@ -5133,6 +5132,7 @@ exonerations
 expression
 entombed
 euplotid
+exoculation
 endodontology
 exemptible
 elt
