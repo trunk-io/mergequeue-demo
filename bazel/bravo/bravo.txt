@@ -1625,7 +1625,6 @@ beswim
 brasiers
 berdaches
 brookflower
-bedcord
 binaries
 bepistoled
 bibliopegy
@@ -12960,6 +12959,7 @@ bump
 brutishly
 bantery
 blooped
+bedcord
 bhandari
 bronchiostenosis
 bootery
