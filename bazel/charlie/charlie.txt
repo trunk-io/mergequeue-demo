@@ -8112,7 +8112,6 @@ campanulaceous
 coelastrum
 capetian
 cosmorama
-cosenator
 carbohemoglobin
 cleanups
 circuitable
@@ -19416,6 +19415,7 @@ colorants
 colorate
 chouse
 calciphobe
+cosenator
 chatelain
 chichituna
 capilli
