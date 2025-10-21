@@ -4744,7 +4744,6 @@ entertainingness
 exogens
 embarrass
 ethylic
-endocytotic
 exodos
 eparchs
 equidifferent
@@ -6807,6 +6806,7 @@ entoprocta
 entoptically
 evendown
 extrorsal
+endocytotic
 erotica
 enswathing
 entosternal
