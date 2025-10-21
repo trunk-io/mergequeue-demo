@@ -240,6 +240,7 @@ abolish
 actinoids
 anthracemia
 anterioyancer
+anteroposteriorly
 anticreeper
 auriga
 agama
@@ -23537,7 +23538,6 @@ ascham
 allophane
 augure
 adiaphorous
-anteroposteriorly
 auguring
 aquarter
 afterspeech
