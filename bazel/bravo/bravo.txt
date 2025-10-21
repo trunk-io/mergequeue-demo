@@ -10563,6 +10563,7 @@ browman
 buduma
 blattid
 bulwand
+bloodthirster
 buyers
 blacksmithing
 bachelorize
@@ -11324,7 +11325,6 @@ becrimed
 bande
 bandicoy
 bendingly
-bloodthirster
 battlements
 beguiled
 bedstraw
