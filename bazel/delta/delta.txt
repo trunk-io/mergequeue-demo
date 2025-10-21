@@ -4110,7 +4110,6 @@ doorsill
 delegates
 dipteros
 diadems
-diathermancy
 dirian
 dirten
 dianoetical
@@ -4235,6 +4234,7 @@ decodes
 divested
 dankish
 delineature
+diathermancy
 delinquency
 despeche
 divorceable
