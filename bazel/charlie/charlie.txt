@@ -4275,6 +4275,7 @@ cowlstaff
 coreciprocal
 casting
 cropplecrown
+conquerment
 compunctive
 crestfish
 carisa
@@ -29127,7 +29128,6 @@ conscribed
 criminously
 calamar
 capitoul
-conquerment
 copilot
 contortion
 coraciae
