@@ -10936,7 +10936,6 @@ adrenals
 alb
 aladinist
 akinetic
-adipsia
 aminoacetone
 autolyze
 androgynia
@@ -12454,6 +12453,7 @@ autodecrement
 amenty
 armer
 arrivals
+adipsia
 autostradas
 argante
 amphidesmous
