@@ -2960,6 +2960,7 @@ elkuma
 entracte
 exitus
 extraboldface
+elric
 epilate
 epiglottiditis
 electrize
@@ -13538,7 +13539,6 @@ etymology
 ebonites
 elementalist
 equiprobably
-elric
 eulogias
 elohistic
 egeria
