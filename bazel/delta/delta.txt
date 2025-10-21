@@ -3226,7 +3226,6 @@ defend
 dainties
 dikast
 discumber
-dolmenic
 disobeyed
 dragbolt
 disassembling
@@ -6762,6 +6761,7 @@ dacron
 desist
 didunculus
 date
+dolmenic
 deadheadism
 degage
 designedness
