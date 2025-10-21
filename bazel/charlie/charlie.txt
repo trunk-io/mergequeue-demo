@@ -10138,7 +10138,6 @@ copihues
 capsuliform
 chessner
 chessom
-claves
 chesstree
 calciminer
 cerias
@@ -25692,6 +25691,7 @@ corporification
 coveralled
 corps
 chondriocont
+claves
 cheesier
 credenciveness
 corpses
