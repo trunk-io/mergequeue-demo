@@ -2226,6 +2226,7 @@ equicostate
 enneasemic
 eucalyptian
 embryological
+extensile
 encrypting
 exothermal
 evacuating
@@ -7650,7 +7651,6 @@ enfeeblements
 emollience
 empoisoner
 ephapse
-extensile
 epidermical
 eternisation
 epigaster
