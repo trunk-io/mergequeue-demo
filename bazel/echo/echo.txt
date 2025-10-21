@@ -2979,6 +2979,7 @@ equilater
 envineyard
 esau
 endothermically
+errordump
 endarterium
 escarped
 empressement
@@ -9945,7 +9946,6 @@ edile
 exophasia
 enrich
 enfolds
-errordump
 esca
 extratropical
 extranormal
