@@ -6235,7 +6235,6 @@ crassulaceae
 conche
 caulinar
 caulivorous
-cyamid
 choanosomal
 caulkers
 callosomarginal
@@ -25503,6 +25502,7 @@ chaft
 cornigerous
 cacotrophia
 conies
+cyamid
 cactus
 catches
 consignable
