@@ -7028,7 +7028,6 @@ aktiebolag
 annonce
 adventry
 annealed
-aberrational
 autophotometry
 alfilerilla
 awards
@@ -24432,6 +24431,7 @@ autos
 attractance
 astutious
 authorities
+aberrational
 americanese
 annaline
 aftereffect
