@@ -3754,6 +3754,7 @@ englishize
 escamotage
 epiphyllum
 ejacula
+exostosed
 entresalle
 ethiodide
 eyespots
@@ -10160,7 +10161,6 @@ elvers
 ergosterin
 enmagazine
 epithetize
-exostosed
 extratabular
 eared
 emboldening
