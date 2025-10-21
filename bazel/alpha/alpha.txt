@@ -105,7 +105,6 @@ animism
 awm
 apsis
 airglow
-adamantine
 atlee
 antibiotic
 appraisals
@@ -22738,6 +22737,7 @@ aglethead
 agkistrodon
 arthrology
 alkalies
+adamantine
 antipot
 araneina
 acreable
