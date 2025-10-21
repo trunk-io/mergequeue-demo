@@ -11904,6 +11904,7 @@ chordate
 compounding
 cst
 circumferentor
+cyclometrical
 chordotomy
 caviare
 chorea
@@ -26424,7 +26425,6 @@ clinics
 cothurn
 coextend
 cuerda
-cyclometrical
 cothurnus
 coticed
 colleter
