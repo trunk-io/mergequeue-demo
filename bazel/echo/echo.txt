@@ -1047,7 +1047,6 @@ expansiveness
 educatability
 epileptics
 eident
-estoppel
 electrochemist
 educatable
 electrolyzable
@@ -12921,6 +12920,7 @@ embus
 entastic
 entoptoscope
 enharbor
+estoppel
 evaded
 endamask
 epiopticon
