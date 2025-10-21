@@ -2936,7 +2936,6 @@ cantonize
 countergager
 cantoral
 chimneyless
-cryosurgical
 cardsharps
 cantoris
 cerebrational
@@ -12971,6 +12970,7 @@ cauldron
 coadjutant
 crepitating
 copyrighted
+cryosurgical
 clothify
 confineless
 cyanocobalamin
