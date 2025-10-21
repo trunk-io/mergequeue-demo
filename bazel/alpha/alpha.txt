@@ -6239,7 +6239,6 @@ asymmetry
 angarep
 acrotic
 agrauleum
-amylosynthesis
 apodematal
 alterants
 apetaly
@@ -8369,6 +8368,7 @@ asperifoliate
 antecloset
 abridger
 avertin
+amylosynthesis
 antilepsis
 anoestrus
 allod
