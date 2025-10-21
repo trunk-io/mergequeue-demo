@@ -245,7 +245,6 @@ anticreeper
 auriga
 agama
 alkalescence
-altarpiece
 admirers
 ailuroidea
 apios
@@ -8063,6 +8062,7 @@ ambusher
 aesthetic
 alrune
 achilleid
+altarpiece
 axis
 arithmetically
 airscapes
