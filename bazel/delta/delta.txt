@@ -5253,7 +5253,6 @@ decarburation
 denierer
 daikon
 drencher
-denigrated
 decani
 dietine
 discinct
@@ -14726,6 +14725,7 @@ divinable
 dfault
 dissolubility
 ditchdown
+denigrated
 deplaster
 discutable
 docker
