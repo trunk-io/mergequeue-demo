@@ -2566,6 +2566,7 @@ bribeable
 bacteriolysin
 bumpy
 broadsword
+bringer
 bismuthite
 bitewing
 burdenless
@@ -16076,7 +16077,6 @@ bassetted
 brachycephalies
 belucki
 bozos
-bringer
 babylonize
 bathometer
 basifiers
