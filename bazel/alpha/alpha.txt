@@ -13436,7 +13436,6 @@ archmarshal
 ankylotic
 airpark
 agrostographic
-annotated
 aetolian
 alcoholizing
 antiship
@@ -14508,6 +14507,7 @@ antefixes
 antitypy
 auspicate
 aberrating
+annotated
 arraigning
 acrobatholithic
 alveus
