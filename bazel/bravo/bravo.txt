@@ -9472,6 +9472,7 @@ bedirties
 brewhouses
 bourride
 birkremite
+boundure
 boldine
 botonee
 begrease
@@ -12598,7 +12599,6 @@ bubbly
 bonnet
 bonnethead
 bedway
-boundure
 bonnetlike
 bushpig
 blurts
