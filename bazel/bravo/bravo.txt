@@ -408,6 +408,7 @@ backgammon
 booklores
 barbarical
 boydom
+bogglebo
 biomorphic
 balldress
 briseis
@@ -6679,7 +6680,6 @@ benamed
 bernacle
 billet
 batties
-bogglebo
 bernardine
 borzoi
 blithen
