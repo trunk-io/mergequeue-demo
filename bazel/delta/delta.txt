@@ -5826,7 +5826,6 @@ dialect
 demioctagonal
 debars
 depolished
-disapprover
 diploptera
 deaconed
 depoliticized
@@ -9551,6 +9550,7 @@ desirer
 dedolence
 disorchard
 dynamiter
+disapprover
 domainal
 distend
 derailment
