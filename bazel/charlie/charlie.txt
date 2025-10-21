@@ -11085,7 +11085,6 @@ calligraphers
 calorify
 cradlemaking
 chiseling
-capmaker
 chamar
 chiseller
 chiselly
@@ -30756,6 +30755,7 @@ chiffon
 choiceness
 commendador
 cleanings
+capmaker
 conservatorship
 clockcase
 consarned
