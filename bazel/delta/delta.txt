@@ -7460,7 +7460,6 @@ discounting
 demilunes
 deselect
 domiciled
-dialyze
 discount
 decenyl
 deresinate
@@ -14509,6 +14508,7 @@ divisions
 debateful
 dipchick
 declivate
+dialyze
 degradedness
 dors
 deratization
