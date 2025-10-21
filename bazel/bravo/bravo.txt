@@ -2317,7 +2317,6 @@ bladesmith
 blahlaut
 bardcraft
 boucherize
-bloomeria
 buckhorn
 brahmanical
 blowpoint
@@ -11363,6 +11362,7 @@ bludgeon
 brattice
 botanists
 bailiary
+bloomeria
 becrimed
 briskly
 bande
