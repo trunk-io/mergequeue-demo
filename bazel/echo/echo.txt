@@ -6645,6 +6645,7 @@ emerit
 elapsing
 evacuation
 epiclike
+equipment
 elaborator
 espigle
 exhibits
@@ -13253,7 +13254,6 @@ eureka
 earclip
 erumpent
 ethopoetic
-equipment
 elaeometer
 ectropion
 enhemospore
