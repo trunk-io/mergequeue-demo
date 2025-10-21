@@ -587,7 +587,6 @@ baconize
 bidiagonal
 bulblet
 bedsore
-basipterygial
 baconweed
 bierkeller
 browner
@@ -14225,6 +14224,7 @@ bugseed
 brines
 bradawls
 brombenzamide
+basipterygial
 bryanite
 bespot
 bauhinias
