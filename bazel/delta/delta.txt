@@ -2683,6 +2683,7 @@ deliberativeness
 decompoundable
 definitor
 decident
+dlvy
 diffractional
 disorder
 divisible
@@ -10919,7 +10920,6 @@ disquisition
 doeg
 doubtsome
 doublers
-dlvy
 draw
 debarkations
 deportee
