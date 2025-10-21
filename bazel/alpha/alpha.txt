@@ -4075,7 +4075,6 @@ adjag
 apoapsis
 amplitudes
 acocotl
-acalyptrate
 aeration
 acrobacy
 anaesthesis
@@ -22532,6 +22531,7 @@ azlon
 anchoretish
 anoas
 anaesthetics
+acalyptrate
 ataiyal
 arcsin
 abampere
