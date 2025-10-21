@@ -4003,7 +4003,6 @@ ballooner
 beatitude
 baluster
 brettice
-bellmen
 bethump
 bedrabbling
 buccaneer
@@ -11495,6 +11494,7 @@ biocycles
 basidiophore
 broma
 banqueter
+bellmen
 blintze
 bluffable
 bialveolar
