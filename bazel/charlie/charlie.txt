@@ -6755,7 +6755,6 @@ chieftainry
 carpellate
 crocheter
 capless
-cella
 chowders
 cellarage
 cellared
@@ -18702,6 +18701,7 @@ correctives
 chasselas
 coining
 climatotherapeutics
+cella
 cellulose
 catallactics
 chesil
