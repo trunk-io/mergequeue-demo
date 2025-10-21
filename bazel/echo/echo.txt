@@ -9663,7 +9663,6 @@ enamelware
 ensampler
 ebbman
 equiomnipotent
-egbo
 encephalomeningocele
 exannulate
 extrauterine
@@ -14060,6 +14059,7 @@ elastometer
 emulsifiers
 echinoid
 ethmolith
+egbo
 ejectamenta
 emery
 extracorporeally
