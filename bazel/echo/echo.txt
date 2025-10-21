@@ -8512,7 +8512,6 @@ eleuin
 ephorate
 epitheloid
 exhumating
-exploiter
 evanid
 ethid
 entreaty
@@ -12280,6 +12279,7 @@ exfiltrate
 electrolysing
 engendering
 enthronization
+exploiter
 enstatitite
 epiparasite
 epitheliolysis
