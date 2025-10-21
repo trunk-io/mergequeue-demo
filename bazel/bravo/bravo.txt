@@ -5055,6 +5055,7 @@ bootmaker
 benignantly
 befouling
 bazookas
+bowsprit
 befraught
 belemnites
 befreight
@@ -12373,7 +12374,6 @@ beanshooter
 burmese
 birdhood
 beplaided
-bowsprit
 badan
 braless
 boreas
