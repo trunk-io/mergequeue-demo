@@ -740,7 +740,6 @@ brandsolder
 boiler
 boneshaw
 bowlegged
-beaverboard
 brittling
 bezzle
 blanquillos
@@ -6611,6 +6610,7 @@ boniness
 bibliophagist
 burbly
 boltonite
+beaverboard
 bubingas
 bardee
 boshbok
