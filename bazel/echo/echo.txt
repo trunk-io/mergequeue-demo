@@ -3802,7 +3802,6 @@ espressos
 epharmony
 eternish
 exterminating
-eminent
 echiniform
 enamored
 expressionless
@@ -9092,6 +9091,7 @@ erpetoichthys
 epigrams
 entrees
 equestrianship
+eminent
 entertained
 extremer
 etheric
