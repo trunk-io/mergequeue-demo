@@ -1036,7 +1036,6 @@ educatability
 epileptics
 eident
 electrochemist
-educatable
 electrolyzable
 espaliered
 egrimony
@@ -7155,6 +7154,7 @@ eardropper
 ephelcystic
 electrocatalytic
 ejaculator
+educatable
 eonism
 erysipelothrix
 esrogim
