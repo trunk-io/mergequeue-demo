@@ -4226,6 +4226,7 @@ bawdric
 beehives
 bowfront
 bredbergite
+boars
 bostanji
 bowman
 butterman
@@ -10244,7 +10245,6 @@ bordereaux
 bullseye
 bipalium
 boronic
-boars
 benchman
 beaverlike
 bejumble
