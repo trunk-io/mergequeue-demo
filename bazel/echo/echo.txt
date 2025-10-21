@@ -4767,6 +4767,7 @@ exsuction
 electro
 electrotheraputic
 exponible
+elastance
 establishments
 endophytous
 electroshocks
@@ -10574,7 +10575,6 @@ embread
 enureses
 echelon
 evanesces
-elastance
 enterostasis
 ethide
 encephalodialysis
