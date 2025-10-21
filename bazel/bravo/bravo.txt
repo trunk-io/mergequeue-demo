@@ -4616,7 +4616,6 @@ bed
 benzalphenylhydrazone
 bannerol
 blawort
-boltmaking
 botchers
 bedribble
 ballets
@@ -6879,6 +6878,7 @@ budgerow
 bigoniac
 barricades
 boldos
+boltmaking
 bestiarist
 bunkhouse
 bole
