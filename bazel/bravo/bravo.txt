@@ -5759,7 +5759,6 @@ blackman
 benedicks
 bellweed
 bretons
-bescribble
 biaxillary
 basella
 babs
@@ -5791,6 +5790,7 @@ baggies
 brazed
 barns
 burfish
+bescribble
 blisses
 bayesian
 bisnagas
