@@ -1990,7 +1990,6 @@ bankruptism
 bravadoism
 bikeways
 badnesses
-buchanite
 blastematic
 bemock
 betraise
@@ -7183,6 +7182,7 @@ bescreens
 besully
 befret
 beswelter
+buchanite
 benevolist
 besiegement
 boundable
