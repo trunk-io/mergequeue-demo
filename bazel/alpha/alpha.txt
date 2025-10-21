@@ -9988,7 +9988,6 @@ anthropoidal
 autoincrement
 amber
 aerohydropathy
-autoregressive
 ambergris
 amal
 aguishness
@@ -11627,6 +11626,7 @@ atechnic
 arango
 agible
 alcoholysis
+autoregressive
 antisupernatural
 antiprotease
 apathus
