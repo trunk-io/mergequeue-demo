@@ -7800,7 +7800,6 @@ corpore
 cession
 chain
 clapotis
-catadrome
 castaway
 cessor
 continuate
@@ -10478,6 +10477,7 @@ childcrowing
 cables
 cyclopite
 clamours
+catadrome
 conservational
 cunni
 cauline
