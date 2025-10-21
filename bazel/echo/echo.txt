@@ -2360,7 +2360,6 @@ epidemiologies
 ecanda
 exch
 epitrope
-electrogalvanization
 etruscology
 effoliate
 endocrinotherapy
@@ -13333,6 +13332,7 @@ extraenteric
 eruction
 ergasterion
 earthquakes
+electrogalvanization
 endogen
 epiprecoracoid
 ervum
