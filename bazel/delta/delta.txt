@@ -4287,7 +4287,6 @@ dibbers
 doorjamb
 dragboat
 dogcart
-dynamograph
 dyslogy
 debtors
 doeskin
@@ -4941,6 +4940,7 @@ dementedness
 dorneck
 disputativeness
 descendentalism
+dynamograph
 detournement
 dermatalgia
 distasting
