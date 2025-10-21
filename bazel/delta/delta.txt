@@ -8334,7 +8334,6 @@ duellists
 damselhood
 diluvia
 duple
-deprecate
 decorators
 diamb
 disload
@@ -17663,6 +17662,7 @@ deprisure
 degustation
 dextropinene
 duarch
+deprecate
 decine
 denaturalization
 detacwable
