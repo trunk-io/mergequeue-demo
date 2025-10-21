@@ -1991,7 +1991,6 @@ emblematology
 epanorthidae
 encrustation
 ergophile
-endocytosis
 enddamaging
 evitate
 ependymary
@@ -7825,6 +7824,7 @@ echinital
 equiliria
 emitter
 experiment
+endocytosis
 extendible
 earthnuts
 enetophobia
