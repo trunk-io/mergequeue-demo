@@ -5459,7 +5459,6 @@ emball
 endoplasmic
 erethizon
 exauthorize
-electron
 extrameridian
 egging
 eleutheromaniac
@@ -12847,6 +12846,7 @@ epimeride
 ecdysone
 epistemonic
 eben
+electron
 expunges
 epacridaceae
 empyocele
