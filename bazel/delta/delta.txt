@@ -1238,6 +1238,7 @@ drivelers
 daterman
 devourers
 dates
+dispell
 doctorize
 deoxygenate
 dating
@@ -16339,7 +16340,6 @@ drawnwork
 defaulted
 druggeries
 dite
-dispell
 doorways
 dicoelous
 deputatively
