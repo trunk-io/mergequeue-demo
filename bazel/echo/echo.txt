@@ -2820,6 +2820,7 @@ englander
 echoism
 emprosthotonus
 emandibulate
+exteroceptive
 eparchate
 elfinwood
 edgemaking
@@ -8824,7 +8825,6 @@ exclusions
 electrochronograph
 ergonomically
 eteoclus
-exteroceptive
 encharging
 euemerism
 erotical
