@@ -2160,7 +2160,6 @@ bandog
 blarny
 barbarically
 burgles
-barbarised
 breakstone
 boisterous
 bronstrops
@@ -17923,6 +17922,7 @@ bedevil
 bearbine
 benzimidazole
 bioclean
+barbarised
 bushongo
 bangle
 bacteriohemolysin
