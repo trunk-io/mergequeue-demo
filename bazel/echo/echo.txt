@@ -1245,7 +1245,6 @@ exterous
 endowing
 encincture
 edaphosaurus
-ericoid
 erythrism
 epistasy
 electrothermic
@@ -3100,6 +3099,7 @@ erythematic
 endorsable
 ectomesoblast
 edict
+ericoid
 escalates
 emmarble
 electrocratic
