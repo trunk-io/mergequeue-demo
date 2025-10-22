@@ -9140,7 +9140,6 @@ coelozoic
 cusparia
 cephalochorda
 chartless
-chartographic
 calciphobous
 cinemelodrama
 circue
@@ -26027,6 +26026,7 @@ cortina
 catogene
 cortinarius
 chimb
+chartographic
 chaffiness
 cytophilic
 cortisol
