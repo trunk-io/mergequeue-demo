@@ -4426,6 +4426,7 @@ enarthrodia
 entasis
 eidouranion
 euchysiderite
+enneagon
 enwoman
 eryon
 excludes
@@ -5529,7 +5530,6 @@ eatable
 electroballistics
 elaborates
 eadish
-enneagon
 ebeneous
 excitovascular
 ecotonal
