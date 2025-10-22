@@ -2716,7 +2716,6 @@ brownouts
 bicompact
 backfill
 brookside
-borrowing
 burgamot
 backword
 beldams
@@ -15716,6 +15715,7 @@ becrimes
 boneache
 brocardic
 buoyancies
+borrowing
 bramantesque
 brocatelle
 boxman
