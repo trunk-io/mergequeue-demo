@@ -1650,7 +1650,6 @@ culicines
 calorist
 codable
 colouring
-calorizing
 cawing
 calosoma
 crassamentum
@@ -4947,6 +4946,7 @@ ceramals
 casas
 circumtonsillar
 colisepsis
+calorizing
 cerianthus
 casate
 chupatty
