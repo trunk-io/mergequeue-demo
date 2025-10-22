@@ -1892,7 +1892,6 @@ constant
 cloghad
 counterflashing
 cymulose
-camelus
 cormorant
 castalia
 camembert
@@ -7781,6 +7780,7 @@ choreman
 cesiums
 cespititious
 cacothesis
+camelus
 circumgyrate
 corectomy
 coercion
