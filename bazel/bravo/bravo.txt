@@ -6562,6 +6562,7 @@ bismuthine
 biographies
 broomstaff
 backspaced
+buffcoat
 barruly
 blitter
 balaamitical
@@ -7226,7 +7227,6 @@ bassness
 bethorning
 besneer
 bemused
-buffcoat
 basest
 befogs
 brazers
