@@ -9153,7 +9153,6 @@ chartroom
 commonefaction
 charts
 confluent
-chontal
 chugalug
 corroborate
 coppice
@@ -12204,6 +12203,7 @@ charases
 chrysopal
 chrysopee
 cuitled
+chontal
 chrysophilist
 chrysophyte
 chromonemic
