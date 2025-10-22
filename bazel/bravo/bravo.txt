@@ -3557,7 +3557,6 @@ blushiness
 bushier
 bluegrass
 bodysuits
-battlestead
 battlewagon
 barkbound
 bathybic
@@ -5305,6 +5304,7 @@ bechamel
 bonce
 bispinous
 ballaster
+battlestead
 budgerigar
 batteners
 bootid
