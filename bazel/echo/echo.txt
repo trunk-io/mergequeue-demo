@@ -2943,6 +2943,7 @@ epimorpha
 equip
 ebraick
 eurybenthic
+enchytraeid
 equerries
 exonym
 endowers
@@ -4583,7 +4584,6 @@ ephesine
 electrostatic
 elsewhere
 eelbobber
-enchytraeid
 ether
 enchytraeus
 enteria
