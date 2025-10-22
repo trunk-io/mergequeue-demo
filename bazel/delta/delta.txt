@@ -10729,7 +10729,6 @@ debriefed
 disbalancement
 dimension
 dipleurule
-dognapped
 dispend
 disesteemed
 demothball
@@ -13566,6 +13565,7 @@ defterdar
 deputation
 disperse
 dayman
+dognapped
 disinthrall
 decremented
 dissemination
