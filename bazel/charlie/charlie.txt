@@ -6748,7 +6748,6 @@ crom
 carnivalesque
 canadine
 cellaress
-calamus
 culmen
 cellars
 counterservice
@@ -15537,6 +15536,7 @@ clarsech
 connections
 chemotaxonomically
 chittering
+calamus
 cuggermugger
 clavelize
 clart
