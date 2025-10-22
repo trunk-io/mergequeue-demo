@@ -9658,7 +9658,6 @@ ebbman
 equiomnipotent
 egbo
 encephalomeningocele
-extrauterine
 enamelless
 electrotypy
 eyr
@@ -12194,6 +12193,7 @@ etchimin
 evocate
 emulsible
 enwrap
+extrauterine
 essenced
 equispatial
 excretitious
