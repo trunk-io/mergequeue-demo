@@ -7137,7 +7137,6 @@ ascenders
 aethrioscope
 atomical
 apostaxis
-avanters
 airworthiness
 alacrity
 almsgiving
@@ -15242,6 +15241,7 @@ ammonical
 anticynically
 ardebs
 antifat
+avanters
 amil
 allwhere
 antitoxin
