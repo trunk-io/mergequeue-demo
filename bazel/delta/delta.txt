@@ -1668,7 +1668,6 @@ dialogued
 deul
 daw
 dipsy
-datemark
 dorsocaudal
 dimanganion
 densen
@@ -4666,6 +4665,7 @@ dogeless
 duplicando
 disoriented
 demilitarizes
+datemark
 deflectional
 desmology
 despotical
