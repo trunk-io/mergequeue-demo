@@ -2162,6 +2162,7 @@ bronzings
 busthead
 bast
 bartholomite
+bandman
 blousons
 bishopscap
 bulgar
@@ -9534,7 +9535,6 @@ binary
 bicapsular
 bahuts
 bandlimits
-bandman
 bromated
 bicircular
 bacchanalianism
