@@ -3237,7 +3237,6 @@ bassie
 bouk
 backings
 bassinet
-bears
 bitterling
 belied
 bealtuinn
@@ -5305,6 +5304,7 @@ bispinous
 ballaster
 battlestead
 budgerigar
+bears
 batteners
 bootid
 bensel
