@@ -3432,7 +3432,6 @@ baronesses
 bianchi
 bromellite
 bathkol
-bromide
 bathmat
 background
 bicipital
@@ -17572,6 +17571,7 @@ burets
 budges
 blowfishes
 bradoons
+bromide
 bumboatwoman
 bascule
 bantings
