@@ -3348,6 +3348,7 @@ blankness
 bogging
 bateau
 booly
+bosuns
 bateleur
 barbered
 boho
@@ -10668,7 +10669,6 @@ baning
 bookbind
 bookdom
 biocenology
-bosuns
 banksias
 bodegones
 bibliophile
