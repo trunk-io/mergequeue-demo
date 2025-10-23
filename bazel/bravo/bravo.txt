@@ -10479,6 +10479,7 @@ banderma
 boychick
 blankets
 baygall
+bricklike
 blossomed
 brotany
 briton
@@ -13437,7 +13438,6 @@ bovines
 belvederes
 bastardisation
 boused
-bricklike
 barbell
 bigarade
 brightsome
