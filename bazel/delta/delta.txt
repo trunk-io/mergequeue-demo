@@ -5,6 +5,7 @@ dissemblers
 duadic
 disincarnation
 diffluent
+data
 draftproof
 disseizes
 digitalizing
@@ -7349,7 +7350,6 @@ displeasureably
 diethanolamine
 definement
 doucine
-data
 despatches
 drabbler
 docquet
