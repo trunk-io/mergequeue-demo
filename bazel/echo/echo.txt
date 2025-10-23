@@ -5943,6 +5943,7 @@ enzymosis
 exsiccator
 eateries
 eulachan
+enameled
 ellipsis
 exhausted
 exotic
@@ -11604,7 +11605,6 @@ erinite
 extancy
 emptyhearted
 electrostenolysis
-enameled
 elutes
 exarate
 eucre
