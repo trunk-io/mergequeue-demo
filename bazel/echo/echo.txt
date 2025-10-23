@@ -2556,6 +2556,7 @@ exes
 enquiries
 electrotonize
 electrosteel
+epicede
 equable
 entomb
 eli
@@ -7438,7 +7439,6 @@ eastward
 endosarcous
 extracted
 enanthem
-epicede
 eques
 expanses
 eskuara
