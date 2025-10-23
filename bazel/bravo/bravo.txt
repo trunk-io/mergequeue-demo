@@ -1296,6 +1296,7 @@ bighting
 baldachin
 bolthole
 beheira
+bopped
 bhunder
 bowllike
 brauronia
@@ -12987,7 +12988,6 @@ boatbill
 bataleur
 begin
 backcountry
-bopped
 bombastical
 bailli
 baited
