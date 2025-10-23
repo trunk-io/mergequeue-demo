@@ -2096,7 +2096,6 @@ breccia
 bursectomy
 beadroll
 butterless
-bedman
 bandsaw
 bulling
 blindstorey
@@ -3209,6 +3208,7 @@ balanoplasty
 begluc
 bushmasters
 billiken
+bedman
 boukit
 byordinary
 brakeroot
