@@ -8271,7 +8271,6 @@ bullyrag
 bannerfish
 bemask
 believability
-bauchle
 bikers
 backsettler
 begulf
@@ -13396,6 +13395,7 @@ bisulc
 blur
 beothuk
 boltant
+bauchle
 bodoni
 bothway
 banqueters
