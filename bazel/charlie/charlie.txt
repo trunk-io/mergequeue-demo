@@ -10999,7 +10999,6 @@ contraposita
 corp
 chiroptera
 chiropterygian
-caboclo
 chiropterite
 chiros
 chirospasm
@@ -24682,6 +24681,7 @@ copperas
 chiloplasty
 cod
 crawlerize
+caboclo
 cakehouse
 circulariser
 chloridella
