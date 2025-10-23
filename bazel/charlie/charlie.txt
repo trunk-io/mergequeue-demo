@@ -5002,7 +5002,6 @@ casebox
 cisatlantic
 casefy
 counterenamel
-compeller
 collinsonia
 capsaicin
 candida
@@ -27344,6 +27343,7 @@ counterthreat
 caracole
 countertime
 calcines
+compeller
 codon
 cooter
 classisms
