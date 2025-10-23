@@ -3381,7 +3381,6 @@ bechirp
 beachmen
 burgages
 brahmanists
-berseems
 bred
 binode
 browsick
@@ -5115,6 +5114,7 @@ brailled
 belatticed
 ballota
 beggaries
+berseems
 bradawl
 bicornuate
 bullism
