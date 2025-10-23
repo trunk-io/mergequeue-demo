@@ -3769,7 +3769,6 @@ duplicident
 depose
 dehydrocorticosterone
 dicoumarol
-didact
 dehydrogenate
 desmepithelium
 devisable
@@ -6625,6 +6624,7 @@ descant
 descort
 dulcimer
 destructibility
+didact
 differentiators
 densely
 dolorimetry
