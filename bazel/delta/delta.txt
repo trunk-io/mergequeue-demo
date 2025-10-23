@@ -1850,7 +1850,6 @@ debitum
 drillmasters
 dispeller
 dealfish
-decorable
 diagredium
 dorsale
 deblaterate
@@ -3488,6 +3487,7 @@ dittology
 drogh
 dibbler
 dihydronaphthalene
+decorable
 dysmeromorphic
 dehydrogenization
 defoliants
