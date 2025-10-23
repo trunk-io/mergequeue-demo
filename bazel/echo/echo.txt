@@ -5392,7 +5392,6 @@ engraver
 endovaccination
 esthesiogen
 eyebolts
-epitimesis
 enfester
 electronvolt
 ectene
@@ -9424,6 +9423,7 @@ endocrinology
 escapeless
 emigrated
 eyelike
+epitimesis
 electroscopes
 electrohemostasis
 euryalidan
