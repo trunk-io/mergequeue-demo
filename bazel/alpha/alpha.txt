@@ -4131,7 +4131,6 @@ apoplexies
 appetiser
 anisaldoxime
 alexias
-autoelectrolysis
 alright
 artou
 apaturia
@@ -6109,6 +6108,7 @@ antichresis
 autodidact
 agnoete
 agnoite
+autoelectrolysis
 acari
 alco
 ammonoidean
