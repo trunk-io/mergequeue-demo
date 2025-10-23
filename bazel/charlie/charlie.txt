@@ -10369,7 +10369,6 @@ chief
 chokra
 creep
 chiefery
-customize
 cyatholith
 chiefish
 chieftaincy
@@ -21576,6 +21575,7 @@ crescent
 chambre
 cytology
 cankerworm
+customize
 concordatory
 crookback
 chinchiness
