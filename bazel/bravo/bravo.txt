@@ -2062,6 +2062,7 @@ bishoprics
 betangle
 brither
 benefactrix
+blackpatch
 buries
 bums
 bibulosities
@@ -3750,7 +3751,6 @@ befoul
 barbeiro
 boneflower
 beaminess
-blackpatch
 blady
 beachdrops
 bibbler
