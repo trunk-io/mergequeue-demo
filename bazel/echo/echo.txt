@@ -2730,6 +2730,7 @@ elasmothere
 etiquettical
 extempory
 executions
+ebcdic
 ensnarling
 extravagation
 esterified
@@ -4621,7 +4622,6 @@ enright
 eavedrop
 ectases
 enlargeable
-ebcdic
 enfranchised
 evidently
 elevatory
