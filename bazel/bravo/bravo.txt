@@ -8072,7 +8072,6 @@ bergmannite
 bootleger
 biochemic
 bellman
-blowtorch
 balmier
 biflagelate
 budgero
@@ -17770,6 +17769,7 @@ boilerman
 blepharoadenoma
 bottommost
 betattered
+blowtorch
 burrbark
 balaenoid
 bluesides
