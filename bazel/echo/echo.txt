@@ -3562,7 +3562,6 @@ erelong
 epilatory
 epikouros
 equability
-emoted
 eel
 eluviate
 eirack
@@ -7461,6 +7460,7 @@ eaceworm
 encolpia
 eatanswill
 eulamellibranch
+emoted
 ekhimi
 exospheric
 epicardia
