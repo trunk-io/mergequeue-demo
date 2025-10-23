@@ -214,7 +214,6 @@ diel
 dakoity
 deed
 decontamination
-dromons
 daemony
 dikamalli
 diffusely
@@ -3134,6 +3133,7 @@ disordinance
 daydreams
 dulcor
 diagrammatize
+dromons
 daunton
 displanted
 degenerated
