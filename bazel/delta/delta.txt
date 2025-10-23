@@ -590,7 +590,6 @@ decipium
 dampcourse
 datana
 dansy
-drawboy
 dicentrin
 disanoint
 delated
@@ -4599,6 +4598,7 @@ doxologies
 diplomyelia
 dominants
 dorsobranchiata
+drawboy
 densus
 danubian
 domanial
