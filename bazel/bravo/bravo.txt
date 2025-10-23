@@ -6861,7 +6861,6 @@ baphomet
 bulies
 budgerow
 bigoniac
-barricades
 boldos
 boltmaking
 bestiarist
@@ -16687,6 +16686,7 @@ baptising
 bondages
 bayamo
 blaring
+barricades
 broquineer
 broses
 breadstuff
