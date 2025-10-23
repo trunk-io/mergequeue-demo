@@ -3937,6 +3937,7 @@ card
 cionotomy
 circumscriptions
 chevreuil
+conative
 covido
 canossa
 candolleaceae
@@ -28781,7 +28782,6 @@ cadger
 cassythaceae
 crenulation
 creodonta
-conative
 creole
 creolism
 creolite
