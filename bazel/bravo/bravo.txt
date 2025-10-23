@@ -2318,6 +2318,7 @@ belabors
 bringer
 bemoisten
 besplash
+bourre
 bladesmith
 blahlaut
 bardcraft
@@ -6461,7 +6462,6 @@ berberidaceous
 berberis
 buddhology
 bournous
-bourre
 burrito
 boopic
 berdache
