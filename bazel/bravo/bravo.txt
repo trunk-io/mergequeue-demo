@@ -9084,7 +9084,6 @@ basics
 beflag
 brutisms
 biotypes
-bevomit
 boubou
 bumblingly
 bitterly
@@ -12412,6 +12411,7 @@ bopster
 buller
 barrettes
 burthensome
+bevomit
 bisymmetrically
 brutality
 bedangled
