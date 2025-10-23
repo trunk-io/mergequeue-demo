@@ -5188,6 +5188,7 @@ desensitizers
 dumpfile
 disinfection
 dendraspis
+drownings
 doomwatcher
 delightsome
 declivity
@@ -17830,7 +17831,6 @@ dudism
 defrosters
 disulfate
 dev
-drownings
 dhava
 dreadlessness
 delineated
