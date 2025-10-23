@@ -3805,7 +3805,6 @@ baioc
 brontosaurus
 brittany
 bubonidae
-bidirectionally
 beakerman
 birring
 brainpower
@@ -9168,6 +9167,7 @@ brashy
 bipinnatipartite
 bipinnatisect
 bushing
+bidirectionally
 bronchotomist
 balsamiferous
 bricklayer
