@@ -9956,7 +9956,6 @@ bioresearch
 broadacre
 bespew
 bronzes
-blattidae
 barege
 beamsmen
 britten
@@ -11227,6 +11226,7 @@ bufferrers
 biophysicist
 brachistocephali
 beach
+blattidae
 bisexually
 basks
 bloodhound
