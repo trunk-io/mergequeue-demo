@@ -7084,7 +7084,6 @@ apostrophied
 apocrine
 arthrozoa
 abietineous
-adnate
 atomists
 aetosaurus
 anarthrosis
@@ -11742,6 +11741,7 @@ adages
 autoignition
 acclamator
 aphislion
+adnate
 acrocentric
 anaerobiosis
 anaerobium
