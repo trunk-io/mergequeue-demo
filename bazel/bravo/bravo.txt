@@ -691,6 +691,7 @@ breakaxe
 baff
 boomlet
 bewield
+brief
 besogne
 burnishers
 bartending
@@ -6406,7 +6407,6 @@ binate
 bellwether
 bulgarians
 brilliancy
-brief
 bushelful
 balsamorrhiza
 behindsight
