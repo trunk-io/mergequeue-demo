@@ -3327,7 +3327,6 @@ ethal
 extrathoracic
 electrovalent
 ectodactylism
-example
 externum
 exploration
 ezod
@@ -4753,6 +4752,7 @@ elaborately
 engelmann
 ermines
 equilobate
+example
 ejido
 echelons
 eumenes
