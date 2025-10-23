@@ -2594,7 +2594,6 @@ demisheath
 disrest
 dutcher
 diabology
-diswont
 deanthropomorphize
 decahedral
 discreditable
@@ -9250,6 +9249,7 @@ drachmae
 dicynodontia
 disquisitional
 doto
+diswont
 deraigns
 dosimetry
 dicodeine
