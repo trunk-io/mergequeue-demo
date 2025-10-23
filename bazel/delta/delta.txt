@@ -7731,7 +7731,6 @@ dird
 diapsida
 dandruff
 dismantled
-doctorless
 deckedout
 drabber
 dockyard
@@ -11295,6 +11294,7 @@ demesnes
 dollhouse
 dodecagon
 downbend
+doctorless
 doglegged
 disbelievers
 ducatoon
