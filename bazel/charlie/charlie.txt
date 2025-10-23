@@ -17356,7 +17356,6 @@ canonizations
 colorbearer
 coarsening
 coarsens
-caunus
 contratempo
 contagia
 clupea
@@ -30382,6 +30381,7 @@ cawny
 cannet
 chlorine
 cowpokes
+caunus
 chievance
 capita
 coss
