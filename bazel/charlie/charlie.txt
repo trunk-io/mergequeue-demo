@@ -853,7 +853,6 @@ chartography
 compilable
 copybook
 counteragent
-clubhands
 cairned
 copperheads
 crackrope
@@ -9225,6 +9224,7 @@ cruciferous
 ceduous
 chasty
 chastise
+clubhands
 corpulencies
 chastiser
 clapperboard
