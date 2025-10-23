@@ -6698,7 +6698,6 @@ eats
 entitle
 entitling
 expenders
-egol
 epicranial
 exploder
 entocarotid
@@ -10453,6 +10452,7 @@ eduskunta
 emp
 embryography
 eclaircissement
+egol
 economizers
 esurient
 exarchy
