@@ -3853,7 +3853,6 @@ enstate
 explida
 expositorial
 equidistance
-equidiurnal
 esterify
 exploitage
 eventuate
@@ -5781,6 +5780,7 @@ edestan
 expone
 electromagnetist
 eelery
+equidiurnal
 enterotoxin
 enterotoxemia
 enterobiliary
