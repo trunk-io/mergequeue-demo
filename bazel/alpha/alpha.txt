@@ -801,6 +801,7 @@ alerce
 abscissas
 anam
 afforestable
+adopt
 ayne
 astrogonic
 alcalde
@@ -6722,7 +6723,6 @@ alligations
 airbrasive
 adipocerous
 aculeata
-adopt
 archmystagogue
 awapuhi
 annuent
