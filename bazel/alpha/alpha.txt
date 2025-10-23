@@ -5035,7 +5035,6 @@ arak
 aweto
 algorithmic
 antonym
-aether
 advected
 attal
 agacella
@@ -11658,6 +11657,7 @@ anacanthine
 arbitry
 approach
 associator
+aether
 anlages
 agariciform
 asport
