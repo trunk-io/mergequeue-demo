@@ -1380,7 +1380,6 @@ bugler
 boroughmaster
 bathrooms
 blockheaded
-balinghasay
 balistes
 baffeta
 balistid
@@ -9188,6 +9187,7 @@ bathukolpic
 barysilite
 bemoaningly
 brownie
+balinghasay
 bushelwoman
 blockader
 beefily
