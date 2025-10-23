@@ -2478,7 +2478,6 @@ confraternities
 choosable
 candlelighting
 cohusband
-canalised
 circumcinct
 candlemaker
 candlemas
@@ -10902,6 +10901,7 @@ cordeliere
 cowslip
 chippier
 cheng
+canalised
 chippiest
 chippings
 castaneous
