@@ -1398,6 +1398,7 @@ boyarisms
 barnard
 blighter
 barit
+bookie
 barbes
 breastbeam
 brownweed
@@ -9591,7 +9592,6 @@ babirussa
 boughpots
 biff
 bemadden
-bookie
 bounded
 biomicroscopies
 brince
