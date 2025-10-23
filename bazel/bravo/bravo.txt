@@ -3711,6 +3711,7 @@ bargemen
 brunches
 backstabbed
 brockage
+beverages
 bazooka
 banner
 blunge
@@ -12559,7 +12560,6 @@ bistratose
 berberry
 backlist
 blacklegs
-beverages
 bourreau
 bungfull
 bonnnes
