@@ -2432,7 +2432,6 @@ enwombed
 excedent
 embryonated
 emphase
-extraplanetary
 erythroblastosis
 enchanter
 exsolved
@@ -10945,6 +10944,7 @@ ethmomaxillary
 eurocentric
 exertions
 expilation
+extraplanetary
 epeeist
 empurpled
 emmarbled
