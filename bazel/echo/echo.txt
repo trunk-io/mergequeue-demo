@@ -1120,7 +1120,6 @@ eassel
 enterocinetic
 epitheliomuscular
 enzymes
-etch
 enkindle
 electroacoustics
 experimentally
@@ -8730,6 +8729,7 @@ erigeron
 entourage
 enteradenographic
 erd
+etch
 eyehook
 eagers
 echinologist
