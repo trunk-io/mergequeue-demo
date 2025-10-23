@@ -10296,6 +10296,7 @@ autodecremented
 aggenerate
 autoincremented
 affricates
+autonym
 adc
 aestive
 antiparliamentarian
@@ -20506,7 +20507,6 @@ affirmed
 arsenites
 afley
 arthrodynic
-autonym
 andreaeales
 assuagable
 arcuation
