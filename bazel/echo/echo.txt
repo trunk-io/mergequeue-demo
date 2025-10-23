@@ -6992,6 +6992,7 @@ eleutherodactylus
 enflame
 enaliosaur
 expetible
+envineyard
 endergonic
 endamebic
 earthshock
@@ -14181,7 +14182,6 @@ eurous
 ensate
 ethicality
 escrod
-envineyard
 encamping
 equisized
 exilarchate
