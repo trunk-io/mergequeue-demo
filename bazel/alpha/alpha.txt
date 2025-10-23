@@ -3288,6 +3288,7 @@ adaptometer
 apolar
 antihelix
 armlocks
+attackman
 adcons
 agriculturer
 alaunt
@@ -18436,7 +18437,6 @@ amphitruo
 aploperistomatous
 avourneen
 aramidae
-attackman
 araneoidea
 ambitiously
 autoecious
