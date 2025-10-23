@@ -11829,7 +11829,6 @@ bruit
 bodkin
 bodkins
 battening
-boardlike
 bypath
 balandra
 brachystegia
@@ -12453,6 +12452,7 @@ bellworts
 bejaundice
 bedesman
 breakless
+boardlike
 boned
 bousing
 bloodleaf
