@@ -1712,7 +1712,6 @@ beglads
 botryolite
 bereason
 berms
-bdl
 banak
 banal
 bransle
@@ -5405,6 +5404,7 @@ beveled
 bontebucks
 blancmanges
 beamers
+bdl
 blackeners
 brassbound
 beclamored
