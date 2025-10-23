@@ -5768,7 +5768,6 @@ catercorner
 catercornerways
 coholder
 crushable
-cankerroot
 cartbote
 cortically
 caterer
@@ -27842,6 +27841,7 @@ cyul
 counterwave
 cacographical
 collingual
+cankerroot
 cytidines
 cowpoxes
 consortium
