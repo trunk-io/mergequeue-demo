@@ -4297,7 +4297,6 @@ deselected
 dibbers
 doorjamb
 dragboat
-dogcart
 dyslogy
 doubtably
 debtors
@@ -9326,6 +9325,7 @@ doctrinarity
 dorsoabdominal
 dioptric
 doled
+dogcart
 directrices
 despiritualization
 dipl
