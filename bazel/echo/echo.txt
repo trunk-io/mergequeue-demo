@@ -10939,7 +10939,6 @@ engines
 extatic
 evanescible
 eloise
-endopleurite
 endoscopic
 exostotic
 ethmomaxillary
@@ -13301,6 +13300,7 @@ encyclopaedias
 enhamper
 enfaces
 extollation
+endopleurite
 executrix
 enteromyiasis
 enfonce
