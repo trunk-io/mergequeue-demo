@@ -11647,7 +11647,6 @@ bucket
 braincase
 biga
 beastship
-bravura
 bonaire
 bear
 bowstaff
@@ -14441,6 +14440,7 @@ beeswaxes
 blushingly
 bushbody
 buckrams
+bravura
 broken
 blousier
 buoyantness
