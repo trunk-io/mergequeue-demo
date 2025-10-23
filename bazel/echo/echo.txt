@@ -1484,7 +1484,6 @@ excipule
 epanthous
 expatriation
 enfuddle
-explicitness
 encatarrhaphy
 endamoebae
 epiplexis
@@ -5150,6 +5149,7 @@ ecphore
 emanant
 endodontically
 ectosphenoid
+explicitness
 exonerations
 expression
 entombed
