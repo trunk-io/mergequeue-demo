@@ -4619,7 +4619,6 @@ collages
 ceratopsid
 caballeria
 carpeting
-carpetmaking
 clubability
 colters
 captivation
@@ -13926,6 +13925,7 @@ chamkanni
 canterburianism
 cariri
 coinsures
+carpetmaking
 calombigas
 cubitometacarpal
 criminalities
