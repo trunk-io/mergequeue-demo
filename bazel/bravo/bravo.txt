@@ -4791,6 +4791,7 @@ bumblings
 boggart
 bursters
 barbudos
+berycoidean
 bandel
 barmier
 bactritoid
@@ -13085,7 +13086,6 @@ bated
 bored
 businessese
 buster
-berycoidean
 borel
 berkowitz
 bowlmaker
