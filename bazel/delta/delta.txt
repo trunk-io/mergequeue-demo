@@ -4583,7 +4583,6 @@ destruction
 dethronable
 downface
 demidistance
-deifying
 deterred
 dispersoid
 dosimetric
@@ -5956,6 +5955,7 @@ dormantly
 dineros
 dimyaria
 disputant
+deifying
 depressingly
 divelled
 datchas
