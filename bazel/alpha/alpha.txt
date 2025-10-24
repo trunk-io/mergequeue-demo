@@ -4335,7 +4335,6 @@ affirmable
 attributer
 acromiothoracic
 alenge
-assonantic
 ages
 arthrodymic
 anoegenetic
@@ -24817,6 +24816,7 @@ agnition
 animalivore
 algolagny
 apolytikion
+assonantic
 araneida
 amusive
 allegros
