@@ -3631,7 +3631,6 @@ ejects
 elinvar
 embrowning
 exul
-eolian
 erugation
 endosporia
 echiuroidea
@@ -11771,6 +11770,7 @@ enwwove
 enaliosaurian
 estivage
 excrementitial
+eolian
 epifocal
 epigrammatise
 espiglerie
