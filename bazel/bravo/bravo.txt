@@ -730,7 +730,6 @@ backspacefile
 bow
 banksman
 badiaga
-brandsolder
 boiler
 boneshaw
 bowlegged
@@ -9300,6 +9299,7 @@ birdfarm
 boondock
 blankmindedness
 bimah
+brandsolder
 bethlehemite
 britannia
 borofluoride
