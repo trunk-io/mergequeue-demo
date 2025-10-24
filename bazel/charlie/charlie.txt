@@ -16704,7 +16704,6 @@ clupeoid
 chilopods
 cinnamonwood
 conglomerator
-closure
 confused
 carboxylated
 coinmates
@@ -17738,6 +17737,7 @@ cockade
 colour
 colonisation
 cavalcading
+closure
 conga
 classless
 connecting
