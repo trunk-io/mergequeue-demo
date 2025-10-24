@@ -3710,7 +3710,6 @@ cephalothoraxes
 corrosibleness
 carbohydrate
 cardiotrophia
-crinel
 cysticarpic
 chalkier
 cliquy
@@ -21934,6 +21933,7 @@ caryopteris
 confabulator
 cassian
 curuba
+crinel
 colet
 cosines
 calfs
