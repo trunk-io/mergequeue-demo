@@ -493,6 +493,7 @@ brontosauri
 blechnum
 blockhead
 blushwort
+barnacles
 backspaces
 benchland
 burseraceae
@@ -8879,7 +8880,6 @@ bulges
 biolyses
 body
 basiophitic
-barnacles
 bouleverse
 beneficium
 boroughmongery
