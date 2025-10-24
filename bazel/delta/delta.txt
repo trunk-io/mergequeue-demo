@@ -12386,7 +12386,6 @@ determinator
 direction
 damselfly
 degomme
-dinomic
 divast
 despairer
 dye
@@ -17054,6 +17053,7 @@ discolor
 dilatedness
 dermapterous
 dogship
+dinomic
 decaspermal
 disgarnish
 disaggregated
