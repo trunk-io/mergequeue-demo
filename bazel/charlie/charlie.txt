@@ -11650,6 +11650,7 @@ cokey
 capitatim
 coaxation
 cholelith
+curses
 chassignite
 coembody
 canonship
@@ -18573,7 +18574,6 @@ compartmentally
 civilite
 coigny
 coyish
-curses
 cedarbird
 coleseeds
 chainette
