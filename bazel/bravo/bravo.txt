@@ -8061,6 +8061,7 @@ bai
 bounding
 blackstick
 bewinter
+beaconing
 bestore
 barat
 burrer
@@ -15878,7 +15879,6 @@ brokenheartedly
 brandise
 bonneting
 buddha
-beaconing
 broking
 batler
 bulletless
