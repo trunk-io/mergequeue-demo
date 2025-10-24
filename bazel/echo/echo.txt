@@ -5176,7 +5176,6 @@ eglomerate
 exairesis
 exopod
 epinikian
-epistrophic
 euflavine
 eschoppe
 endanger
@@ -12591,6 +12590,7 @@ effusing
 explat
 endoproct
 endere
+epistrophic
 endoparasitism
 ethicize
 eurycerotidae
