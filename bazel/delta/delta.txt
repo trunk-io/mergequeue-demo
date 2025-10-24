@@ -4570,7 +4570,6 @@ demifigure
 dieresis
 disinflated
 decussis
-dendrite
 dropax
 dioptrate
 defenestrated
@@ -6565,6 +6564,7 @@ dump
 donor
 dragonfishes
 dyscrase
+dendrite
 despert
 defensing
 dragomanate
