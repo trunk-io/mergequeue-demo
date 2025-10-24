@@ -7438,7 +7438,6 @@ chelonin
 ceratodidae
 ceratoduses
 crenula
-covercle
 ceratoglossal
 caresses
 ceratohyoid
@@ -27859,6 +27858,7 @@ collingual
 cankerroot
 cytidines
 cowpoxes
+covercle
 consortium
 chuprassi
 cowry
