@@ -1363,7 +1363,6 @@ espingole
 encumbrances
 enameller
 encyclical
-employe
 externization
 effervesced
 enlace
@@ -2001,6 +2000,7 @@ enddamaging
 evitate
 entocoelic
 enhaunt
+employe
 emblemized
 entomotomy
 everts
