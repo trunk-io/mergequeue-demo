@@ -5265,7 +5265,6 @@ bequote
 balsamina
 baviere
 bisexed
-betrothal
 balai
 bandying
 becompass
@@ -7907,6 +7906,7 @@ bowery
 bochur
 berrigan
 biotelemetric
+betrothal
 bogotana
 buhrs
 bicornous
