@@ -9855,7 +9855,6 @@ entities
 equiponderancy
 enzyms
 erratas
-escharine
 express
 ethenoid
 eichwaldite
@@ -13764,6 +13763,7 @@ erugos
 evansite
 exegesist
 entea
+escharine
 extractively
 enteropathy
 edestosaurus
