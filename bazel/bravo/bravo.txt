@@ -11296,7 +11296,6 @@ boneyard
 barney
 bargeman
 bluest
-boffs
 berger
 bloviate
 blowsier
@@ -17214,6 +17213,7 @@ bronchopneumonia
 bungarus
 bronzed
 babbishly
+boffs
 becut
 britishly
 backbenchers
