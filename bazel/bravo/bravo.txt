@@ -904,6 +904,7 @@ baker
 balloons
 bezantee
 badarrah
+buffaloes
 brumby
 ballastage
 bahadur
@@ -5070,7 +5071,6 @@ biotrons
 befringe
 bully
 backhoes
-buffaloes
 branchiata
 barquentine
 bacillemia
