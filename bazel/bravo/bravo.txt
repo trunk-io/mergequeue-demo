@@ -11142,6 +11142,7 @@ beadrolls
 boff
 batterfang
 bolsterer
+bastile
 baudery
 bacteroidal
 birle
@@ -17839,7 +17840,6 @@ brushpopper
 benzbitriazole
 binds
 brewises
-bastile
 barbicanage
 bewrays
 burster
