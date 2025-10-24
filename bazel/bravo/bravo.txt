@@ -2762,6 +2762,7 @@ bld
 bubbleless
 book
 ballgowns
+beeregar
 bulkiest
 beetroots
 blowze
@@ -12310,7 +12311,6 @@ burnouts
 backarrows
 braves
 burier
-beeregar
 borderers
 brandle
 billboard
