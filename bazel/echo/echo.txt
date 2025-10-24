@@ -5238,7 +5238,6 @@ evenhandedness
 eradicators
 estafa
 executer
-else
 encroached
 enamelwork
 excoriator
@@ -8866,6 +8865,7 @@ elettaria
 eole
 elytroid
 electable
+else
 ensorcell
 ebon
 elytroclasia
