@@ -5085,6 +5085,7 @@ beleaguers
 boatloader
 bandeng
 backswordsman
+borreria
 bughouses
 beggarhood
 ballonette
@@ -8246,7 +8247,6 @@ borak
 bihydrazine
 bowels
 breast
-borreria
 beadlery
 beryllia
 babu
