@@ -8931,6 +8931,7 @@ crutches
 courses
 colourize
 cirrate
+collop
 closterium
 chared
 camelopardel
@@ -13838,7 +13839,6 @@ catalina
 ciliata
 cineradiography
 caulk
-collop
 chopa
 credence
 clons

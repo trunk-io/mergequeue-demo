@@ -576,7 +576,6 @@ disturber
 downweight
 decipium
 dampcourse
-datana
 deuteropathic
 dansy
 dissect
@@ -13175,6 +13174,7 @@ disannexation
 dolorimetry
 decolorise
 dynastid
+datana
 delaminate
 dicyanodiamide
 downstage
