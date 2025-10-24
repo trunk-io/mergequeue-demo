@@ -12098,7 +12098,6 @@ autoreflection
 argify
 anatases
 alchemize
-actor
 antambulacral
 allotropism
 appels
@@ -12487,6 +12486,7 @@ alectoridine
 acroterial
 antioxidants
 actaeonidae
+actor
 atrophic
 acetalize
 apomorphin
