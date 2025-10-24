@@ -2572,7 +2572,6 @@ bribeable
 bacteriolysin
 bumpy
 broadsword
-barbers
 bismuthite
 bitewing
 burdenless
@@ -17228,6 +17227,7 @@ bullsticker
 blandished
 bacquet
 bulimic
+barbers
 beachcomber
 brawlier
 bullweed
