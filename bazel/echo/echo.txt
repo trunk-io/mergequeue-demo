@@ -2001,6 +2001,7 @@ enddamaging
 evitate
 entocoelic
 enhaunt
+edicule
 emblemized
 entomotomy
 everts
@@ -5832,7 +5833,6 @@ excitate
 epistolar
 extractor
 eulalia
-edicule
 extravagancies
 eryngium
 esthesiogeny
