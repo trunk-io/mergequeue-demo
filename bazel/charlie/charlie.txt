@@ -14060,7 +14060,6 @@ cypraeiform
 cephalhydrocele
 caponiere
 cypre
-circa
 carrioles
 corslet
 corpse
@@ -25467,6 +25466,7 @@ coruscates
 condores
 cadlock
 cardcase
+circa
 cams
 corncrake
 corncrib
