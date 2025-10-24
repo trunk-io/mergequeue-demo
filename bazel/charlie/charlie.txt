@@ -10357,6 +10357,7 @@ chico
 coryneum
 crypticness
 currencies
+carryover
 closings
 carnivorous
 creamed
@@ -29181,7 +29182,6 @@ coolies
 communally
 countervailing
 catalyze
-carryover
 crinkled
 corchorus
 conventionalizes
