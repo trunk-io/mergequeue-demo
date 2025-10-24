@@ -8722,7 +8722,6 @@ bristle
 bickerer
 bescourge
 befriendment
-blunthead
 bulten
 bien
 bedchamber
@@ -12983,6 +12982,7 @@ baryphonic
 basilisks
 butylates
 baetulus
+blunthead
 bourout
 botocudo
 benighter
