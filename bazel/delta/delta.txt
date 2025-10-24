@@ -6964,6 +6964,7 @@ diaper
 drollist
 dichromasy
 diasyrm
+dipteron
 disoccupied
 despair
 dolent
@@ -14211,7 +14212,6 @@ deathwards
 discretely
 deaving
 dub
-dipteron
 dandlers
 decangular
 diluendo
