@@ -5085,6 +5085,7 @@ boatloader
 bandeng
 backswordsman
 bughouses
+balaenid
 beggarhood
 ballonette
 befurred
@@ -18207,7 +18208,6 @@ berceuses
 bimahs
 butleries
 brigadiers
-balaenid
 breaghe
 bothriocephalus
 bellowers
