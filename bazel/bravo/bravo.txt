@@ -4568,6 +4568,7 @@ bde
 blennorrhinia
 butlers
 barid
+banditry
 bookman
 boatel
 benediction
@@ -12283,7 +12284,6 @@ blanquette
 boutons
 barbedness
 basiliscus
-banditry
 bugged
 bluebeard
 bioreaction
