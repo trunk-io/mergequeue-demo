@@ -2210,6 +2210,7 @@ bitwise
 barbatimao
 bunjara
 betorcin
+basecoat
 blockier
 backpacking
 bracketing
@@ -13193,7 +13194,6 @@ barnstorms
 blackboy
 bosh
 beefers
-basecoat
 backtracking
 bristletail
 brawest
