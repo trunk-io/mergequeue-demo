@@ -5014,7 +5014,6 @@ dominus
 discase
 dodecasyllabic
 demote
-demoted
 dogmatiser
 dictatory
 dipso
@@ -5313,6 +5312,7 @@ discriminoid
 daviely
 deslime
 dialogistic
+demoted
 desinential
 disincrustion
 dharmakaya
