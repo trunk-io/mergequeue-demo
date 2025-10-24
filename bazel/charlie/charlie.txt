@@ -16043,7 +16043,6 @@ courtyard
 consularity
 calottes
 cobstone
-clerkdom
 clerkery
 clerkess
 carcinosis
@@ -20181,6 +20180,7 @@ chry
 centralize
 convolutional
 cystogenous
+clerkdom
 clarabella
 cometology
 commerge
