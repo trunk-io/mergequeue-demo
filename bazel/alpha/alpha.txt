@@ -4820,7 +4820,6 @@ abranchian
 alluvivia
 apterygogenea
 androgametangium
-alkanet
 archengineer
 aeroides
 aribin
@@ -11225,6 +11224,7 @@ amphid
 aunthoods
 atherogenic
 auxoamylase
+alkanet
 assoil
 astrosphere
 anglophil
