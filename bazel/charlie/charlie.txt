@@ -6634,7 +6634,6 @@ ceders
 copepods
 cedilla
 cornbell
-cuorin
 churchwardenize
 cedillas
 cedis
@@ -7912,6 +7911,7 @@ cetylic
 cumquat
 corona
 caquet
+cuorin
 chaetangium
 cetiosaurian
 cetology
