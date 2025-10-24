@@ -8651,7 +8651,6 @@ chansonniers
 chantey
 canaille
 carborundum
-counterlighted
 compatibility
 corrigiolaceae
 contignate
@@ -25423,6 +25422,7 @@ challa
 corn
 cornaceae
 chaetophorous
+counterlighted
 canari
 cornada
 ceorlish
