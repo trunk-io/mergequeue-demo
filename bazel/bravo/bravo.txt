@@ -4807,6 +4807,7 @@ bonework
 bumblings
 boggart
 bursters
+berstel
 barbudos
 berycoidean
 bandel
@@ -15144,7 +15145,6 @@ bolognese
 batatas
 bacteriform
 barothermograph
-berstel
 backarrow
 biradiated
 blastospheric
