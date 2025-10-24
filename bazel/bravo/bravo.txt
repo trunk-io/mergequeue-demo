@@ -3600,7 +3600,6 @@ breakout
 brachiocyllosis
 beetlestock
 bhd
-battened
 bowdrill
 basquine
 botulinuses
@@ -12313,6 +12312,7 @@ bombing
 beautifies
 bracioles
 braincraft
+battened
 blepharochalasis
 bituminize
 backcourtman
