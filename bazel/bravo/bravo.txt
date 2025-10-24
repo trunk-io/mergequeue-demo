@@ -5760,6 +5760,7 @@ bhoots
 bullions
 baggies
 barukhzy
+besmuts
 bellyer
 brazed
 barns
@@ -12774,7 +12775,6 @@ blushes
 bookstall
 bridehouse
 bloodguilt
-besmuts
 beseemed
 bittiest
 ballot
