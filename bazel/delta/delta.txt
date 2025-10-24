@@ -10480,7 +10480,6 @@ dependencies
 defis
 demipomada
 dichotomies
-diopters
 delations
 doctorization
 diseur
@@ -12905,6 +12904,7 @@ daddling
 dismortgaging
 diachyma
 defy
+diopters
 deviator
 dermaptera
 deliquescent
