@@ -15417,6 +15417,7 @@ cuerpo
 clapboarding
 cleidomastoid
 childrenite
+chimneylike
 clapcake
 crimble
 coran
@@ -19766,7 +19767,6 @@ chrysanthemum
 crokinole
 carbone
 commixed
-chimneylike
 combinability
 consulting
 coronaled
