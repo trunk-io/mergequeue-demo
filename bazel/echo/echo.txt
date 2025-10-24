@@ -1248,6 +1248,7 @@ encincture
 edaphosaurus
 erythrism
 epistasy
+eosphorite
 electrothermic
 exorcizer
 esterlin
@@ -3286,7 +3287,6 @@ ectasis
 errantry
 exoticity
 equiponderate
-eosphorite
 evildoing
 elderberry
 elytrous
