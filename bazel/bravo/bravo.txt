@@ -9261,7 +9261,6 @@ bloodletter
 brahmoism
 banana
 birchwood
-bindweb
 bendell
 bot
 bayal
@@ -14541,6 +14540,7 @@ branchicolous
 blizz
 baddeleyite
 branchiferous
+bindweb
 bejewel
 bouffants
 barkeeper
