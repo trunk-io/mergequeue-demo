@@ -5778,7 +5778,6 @@ expellant
 enneahedral
 embusqu
 ekaha
-enforces
 exiledom
 erroneous
 eccl
@@ -10688,6 +10687,7 @@ enteropexy
 embrittlement
 euproctis
 endexine
+enforces
 englifier
 endophasia
 excluder
