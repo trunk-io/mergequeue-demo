@@ -11867,7 +11867,6 @@ authority
 accidency
 amarantine
 alban
-arithmetical
 analphabet
 anticommercialist
 abecedarians
@@ -15326,6 +15325,7 @@ acquirer
 anchtherium
 antigraph
 attraction
+arithmetical
 aerotactic
 asinego
 antigravitate
