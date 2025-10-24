@@ -1848,7 +1848,6 @@ acetamidin
 agremens
 anodynic
 atheris
-anticult
 antiasthmatic
 affraying
 ashkoko
@@ -7890,6 +7889,7 @@ anthemia
 attester
 apologetical
 alveola
+anticult
 ancestrial
 antiarin
 ataxias
