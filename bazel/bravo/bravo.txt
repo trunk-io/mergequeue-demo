@@ -5373,6 +5373,7 @@ bicycle
 baryton
 boater
 bobsledded
+barnyards
 bathymetry
 broomballer
 bewares
@@ -15914,7 +15915,6 @@ beblood
 bankers
 bracero
 baulea
-barnyards
 bids
 biasedly
 beglide
