@@ -71,7 +71,6 @@ earpick
 exclaimers
 extractible
 exr
-equid
 excoct
 earpiece
 exogen
@@ -7925,6 +7924,7 @@ eriodendron
 ether
 extoled
 emmer
+equid
 estado
 epiplocele
 ekistics

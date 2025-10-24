@@ -3406,7 +3406,6 @@ alist
 ajari
 aigialosaur
 asperses
-asthenopic
 amiidae
 actinocarp
 archchief
@@ -13737,6 +13736,7 @@ apholate
 ak
 aeolic
 aminobenzene
+asthenopic
 arranged
 artemia
 asok
