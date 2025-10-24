@@ -14589,7 +14589,6 @@ atheromata
 annalist
 atlantomastoid
 anthropopathy
-anabolism
 altiplanicie
 angiectopia
 anthropography
@@ -22088,6 +22087,7 @@ archrogue
 anarch
 apoplexious
 anakinetomer
+anabolism
 antherine
 arguteness
 aldane
