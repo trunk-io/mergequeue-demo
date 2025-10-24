@@ -11803,6 +11803,7 @@ analemmas
 amentias
 aconitum
 ambystoma
+arctic
 anencephalotrophia
 aivr
 apricots
@@ -18560,7 +18561,6 @@ adon
 afterwale
 apprizement
 abomine
-arctic
 amnion
 antihistamine
 alter
