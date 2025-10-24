@@ -440,6 +440,7 @@ dipstick
 deckle
 daunder
 dayrooms
+disincrust
 debonair
 degausses
 dome
@@ -7991,7 +7992,6 @@ duyker
 daggled
 dewlike
 debamboozle
-disincrust
 dirks
 dravida
 devalued
