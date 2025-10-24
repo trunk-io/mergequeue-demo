@@ -7995,7 +7995,6 @@ brutelike
 boletes
 bruscus
 basidigitale
-brachydactylic
 burstones
 brutalisation
 bespreading
@@ -17423,6 +17422,7 @@ boisseaux
 bunker
 burnies
 bluebird
+brachydactylic
 bifurcations
 bragged
 bedtimes
