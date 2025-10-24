@@ -8495,7 +8495,6 @@ billowiest
 ballcarrier
 bacaba
 backfold
-byelaw
 boating
 bullpoll
 balcone
@@ -14714,6 +14713,7 @@ bathymetrical
 brasse
 boultel
 brassey
+byelaw
 basketful
 brans
 belcher
