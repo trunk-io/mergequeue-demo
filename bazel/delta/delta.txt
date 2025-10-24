@@ -2864,7 +2864,6 @@ digram
 decussoria
 disassociates
 demophoon
-decwriter
 dibromid
 dopier
 divia
@@ -11843,6 +11842,7 @@ dichogamy
 diverges
 dupes
 dicht
+decwriter
 dehydrogenise
 douziemes
 diomedes
