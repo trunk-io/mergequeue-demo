@@ -5086,7 +5086,6 @@ epilogic
 enscene
 eobiont
 evertile
-evanishment
 electrophotometry
 echinospermum
 eudemonistically
@@ -11405,6 +11404,7 @@ eiffel
 electrotelegraphic
 embryonary
 encephalomata
+evanishment
 extract
 emes
 emanatist
