@@ -9743,6 +9743,7 @@ apostrophes
 amperage
 attended
 autoxidizer
+afterdischarge
 agentry
 awakened
 asserta
@@ -12662,7 +12663,6 @@ arithmomania
 anticonservatively
 anticrisis
 allocution
-afterdischarge
 abamperes
 apoplectoid
 alisier
