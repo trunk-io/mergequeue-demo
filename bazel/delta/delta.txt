@@ -1966,7 +1966,6 @@ disroost
 damageableness
 dumpage
 dukhobor
-dianthus
 desideration
 dunbird
 dominical
@@ -17785,6 +17784,7 @@ defame
 drearisome
 drawer
 disaggregate
+dianthus
 dolichosoma
 detractions
 dodecaphonically
