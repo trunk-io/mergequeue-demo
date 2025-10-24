@@ -8734,7 +8734,6 @@ codify
 cyclothurus
 chapbook
 caconym
-chape
 coprosma
 coelomatic
 cicindelid
@@ -30205,6 +30204,7 @@ chokidar
 cruciately
 cytogamy
 costopulmonary
+chape
 coccidae
 crucible
 comose
