@@ -720,7 +720,6 @@ badgerer
 britannian
 batwing
 booking
-bacteriophage
 biggened
 boyish
 barathron
@@ -4443,6 +4442,7 @@ bespy
 bolognan
 beddingroll
 beroidae
+bacteriophage
 bitstock
 boracite
 brahmsite
