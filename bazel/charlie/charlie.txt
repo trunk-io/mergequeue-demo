@@ -14781,7 +14781,6 @@ citer
 cites
 chernozem
 citharexylum
-cystathionine
 cygnets
 citronella
 citharoedi
@@ -31711,6 +31710,7 @@ climate
 careeners
 charadrii
 cur
+cystathionine
 cuspis
 cusps
 cuspule
