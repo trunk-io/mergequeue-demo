@@ -11177,7 +11177,6 @@ chivw
 cloner
 cheliform
 cherisher
-chizzel
 chkfile
 carpetlayer
 chondrite
@@ -26536,6 +26535,7 @@ cecilia
 cotransduction
 cotransfuse
 commiserable
+chizzel
 cutset
 clochards
 crowner
