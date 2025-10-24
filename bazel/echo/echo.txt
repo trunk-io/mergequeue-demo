@@ -11966,7 +11966,6 @@ eremology
 expellee
 emceed
 engarb
-endoneurial
 entocranial
 epineural
 edged
@@ -12349,6 +12348,7 @@ encapsules
 earthpeas
 epsomite
 electropolish
+endoneurial
 embryophore
 exocoele
 expedite
