@@ -2166,7 +2166,6 @@ blousons
 bishopscap
 bulgar
 bismite
-bandog
 blarny
 barbarically
 burnsides
@@ -13990,6 +13989,7 @@ bluffing
 bewitch
 blastman
 bolometrically
+bandog
 bonesetter
 brontops
 bismuthic
