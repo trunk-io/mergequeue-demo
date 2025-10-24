@@ -10470,6 +10470,7 @@ diphthongic
 dissipable
 delicti
 decisive
+disrupted
 ding
 detruck
 dysfunction
@@ -18344,7 +18345,6 @@ demiowl
 duffer
 discordance
 divestitures
-disrupted
 diarrhea
 disquieter
 duodecimole
