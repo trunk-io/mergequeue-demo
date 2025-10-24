@@ -9845,7 +9845,6 @@ amapa
 alloploidy
 auriscalp
 antigalactic
-attractiveness
 antiquary
 ambrettolide
 amarantaceae
@@ -19555,6 +19554,7 @@ apneumonous
 aelurophobe
 atherosclerotic
 abaisance
+attractiveness
 ammoniate
 airtightness
 across
