@@ -614,7 +614,6 @@ cadwell
 cinerarium
 caracal
 caffled
-cardcase
 councilwomen
 caecally
 combwright
@@ -25460,6 +25459,7 @@ corncobs
 coruscates
 condores
 cadlock
+cardcase
 cams
 corncrake
 corncrib
