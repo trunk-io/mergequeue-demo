@@ -3691,7 +3691,6 @@ bawdies
 boarded
 backaches
 bellyband
-bedaggered
 bosch
 bonspell
 bullpouts
@@ -4204,6 +4203,7 @@ bioseston
 berserk
 bindle
 beachmaster
+bedaggered
 burrhead
 badgemen
 bashalick
