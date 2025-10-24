@@ -3845,6 +3845,7 @@ branches
 bannerets
 bestraddled
 bassanite
+bandstop
 blindball
 beamman
 brighteners
@@ -17553,7 +17554,6 @@ braillist
 barology
 burds
 bryaceous
-bandstop
 bullier
 bridgeless
 beware
