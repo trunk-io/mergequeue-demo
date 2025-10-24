@@ -7397,6 +7397,7 @@ embosses
 escalier
 encamp
 evg
+electrothermotic
 exedral
 entitule
 examinant
@@ -11286,7 +11287,6 @@ elegize
 endship
 encipherments
 enchiridion
-electrothermotic
 erectopatent
 eequinoctium
 emeried
