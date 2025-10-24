@@ -3207,7 +3207,6 @@ daffiest
 deuterostome
 dentation
 dogmatist
-docked
 dropline
 deuterodome
 dirty
@@ -9163,6 +9162,7 @@ drapability
 deplumate
 demographic
 dail
+docked
 distritbuting
 dispunct
 dionysiacally
