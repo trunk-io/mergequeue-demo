@@ -9105,6 +9105,7 @@ dialyzer
 deific
 desmocyte
 deescalating
+divisive
 daggling
 damagingly
 departition
@@ -14527,7 +14528,6 @@ degradedness
 dors
 dendrophile
 deratization
-divisive
 dauding
 dryops
 demilune
