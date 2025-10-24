@@ -10971,7 +10971,6 @@ cymblings
 crafting
 conidae
 commutations
-cicada
 citrines
 chirographers
 crl
@@ -26605,6 +26604,7 @@ cavaliered
 cottonmouths
 cottonocracy
 cunninghamia
+cicada
 clotheshorse
 camatina
 camomile
