@@ -6828,6 +6828,7 @@ bundook
 bolivarite
 backstretch
 bodykins
+bypast
 bergschrund
 besiege
 budger
@@ -10727,7 +10728,6 @@ blennosis
 basimesostasis
 bogeyman
 beclart
-bypast
 becarpet
 bureaucracy
 blepharophyma
