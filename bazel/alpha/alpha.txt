@@ -9753,6 +9753,7 @@ amperage
 attended
 autoxidizer
 afterdischarge
+alcoholizing
 agentry
 awakened
 asserta
@@ -13406,7 +13407,6 @@ airpark
 agrostographic
 assumpsit
 aetolian
-alcoholizing
 antiship
 antiliturgist
 anyplace
