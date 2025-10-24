@@ -3367,7 +3367,6 @@ compriest
 cubitoplantar
 chinwood
 capriote
-capripede
 caducecaducean
 capris
 convoking
@@ -15060,6 +15059,7 @@ civicism
 civicisms
 civics
 congees
+capripede
 civie
 contractively
 checkless
