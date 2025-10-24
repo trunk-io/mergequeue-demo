@@ -2457,7 +2457,6 @@ equipped
 erythrocytolysis
 eccentrically
 edibility
-eremital
 encrypted
 electrometallurgist
 egglike
@@ -6549,6 +6548,7 @@ epicanthi
 elleck
 egolatrous
 elecives
+eremital
 exfoliative
 epeirogeny
 extraduction
