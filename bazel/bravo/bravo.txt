@@ -1549,7 +1549,6 @@ bucrane
 burr
 ballottement
 bhajan
-backlotter
 blight
 backplanes
 busts
@@ -10292,6 +10291,7 @@ braceros
 blightbird
 ballahou
 blackweed
+backlotter
 bridesman
 brass
 bassalian
