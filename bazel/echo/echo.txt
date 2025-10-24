@@ -1039,7 +1039,6 @@ escheator
 educatability
 epileptics
 eident
-electrochemist
 electrolyzable
 espaliered
 egrimony
@@ -6815,6 +6814,7 @@ eutychian
 excommunications
 eurhodol
 entrancement
+electrochemist
 emblazer
 exhalant
 etypically
