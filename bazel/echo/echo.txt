@@ -10482,7 +10482,6 @@ expiries
 ends
 enascent
 excluders
-entitative
 engarment
 eugubine
 ethchlorvynol
@@ -13205,6 +13204,7 @@ eleemosynar
 enjoiner
 extralinguistically
 estreated
+entitative
 entitlement
 emboil
 epicurishly
