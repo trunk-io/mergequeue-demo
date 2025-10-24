@@ -5118,6 +5118,7 @@ acrosporous
 attackable
 aventurin
 attestive
+antiflash
 anapterygotous
 accueil
 alligation
@@ -15803,7 +15804,6 @@ antigun
 annuitant
 april
 acrydium
-antiflash
 antipatriarchy
 antipatriot
 ampasimenite
