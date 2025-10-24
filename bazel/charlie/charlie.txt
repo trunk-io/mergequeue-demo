@@ -3903,7 +3903,6 @@ carcinomatosis
 caninus
 cholers
 cornhusk
-carcinomorphic
 cutoff
 cholericness
 condylomas
@@ -28838,6 +28837,7 @@ crescents
 crescentwise
 crescively
 cooried
+carcinomorphic
 cantino
 cimicoid
 cresegol
