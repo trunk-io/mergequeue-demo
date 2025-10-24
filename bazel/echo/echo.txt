@@ -3328,6 +3328,7 @@ externum
 exploration
 ep
 euryalae
+enwreath
 exteroceptor
 excerpt
 exampling
@@ -12489,7 +12490,6 @@ ejaculative
 earthiest
 epenthesis
 etoffe
-enwreath
 eremitism
 exonian
 escribe
