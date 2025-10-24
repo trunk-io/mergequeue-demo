@@ -5375,6 +5375,7 @@ cathodoluminescence
 casus
 cat
 clanks
+commander
 curatorial
 contos
 catabases
@@ -14417,7 +14418,6 @@ creant
 circumzenithal
 circus
 correspondents
-commander
 commeasured
 connaturalize
 chilostomatous
