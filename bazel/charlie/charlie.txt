@@ -14291,7 +14291,6 @@ celoms
 circumintestinal
 clapboard
 circumitineration
-circumjacence
 capework
 craftworker
 circumjacency
@@ -23917,6 +23916,7 @@ cattyman
 cylindrometric
 callusing
 choller
+circumjacence
 cinquain
 coggle
 contributories
