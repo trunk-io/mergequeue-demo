@@ -3694,7 +3694,6 @@ cineole
 carbimide
 carapacho
 cenacle
-cor
 counterforce
 clouters
 carbineer
@@ -24897,6 +24896,7 @@ charlemagne
 choriomas
 concert
 corectome
+cor
 coprostasis
 chalk
 cabbing
