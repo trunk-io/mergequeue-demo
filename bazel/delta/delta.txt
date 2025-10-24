@@ -4735,7 +4735,6 @@ demise
 depas
 diaeresis
 drysalter
-denominations
 disguisedness
 demisemitone
 dislodging
@@ -13419,6 +13418,7 @@ dehydrogenised
 dyophysitism
 depression
 deepfrozen
+denominations
 dephlegm
 deevey
 deglaciation
