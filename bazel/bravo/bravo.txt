@@ -3855,6 +3855,7 @@ beneficences
 balky
 bubbybush
 brinks
+burrower
 bedaubed
 bordures
 bronteum
@@ -14488,7 +14489,6 @@ bally
 birdman
 beckie
 becivet
-burrower
 bbls
 britannic
 borings
