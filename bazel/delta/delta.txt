@@ -4775,7 +4775,6 @@ dehumidifying
 dorsoventrad
 dobermans
 dutching
-dispels
 dustheap
 disfriar
 demiurgeous
@@ -9125,6 +9124,7 @@ deplumate
 demographic
 dail
 docked
+dispels
 distritbuting
 dispunct
 dionysiacally
