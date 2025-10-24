@@ -2485,7 +2485,6 @@ backscraper
 brio
 batboy
 bathroot
-bootie
 bloodthirsting
 bluebottles
 banterer
@@ -16106,6 +16105,7 @@ babiana
 bibs
 booleys
 birr
+bootie
 bluebook
 benzophosphinic
 bukshi
