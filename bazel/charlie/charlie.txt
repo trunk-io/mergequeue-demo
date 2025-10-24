@@ -1104,7 +1104,6 @@ centesimos
 consumpt
 creophagist
 circumlocutionist
-calcigenous
 caxon
 comatulid
 cowheel
@@ -31485,6 +31484,7 @@ cosmothetic
 coassistance
 curse
 cursement
+calcigenous
 calciferous
 cutaneous
 cestida
