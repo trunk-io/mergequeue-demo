@@ -2606,6 +2606,7 @@ asphyxia
 arquebus
 azelfafage
 anacid
+allowed
 arghan
 acridophagus
 arabine
@@ -10452,7 +10453,6 @@ aegagropiles
 armourers
 appredicate
 ada
-allowed
 asexualizing
 amalgamation
 aw
