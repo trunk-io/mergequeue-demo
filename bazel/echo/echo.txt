@@ -2749,7 +2749,6 @@ ebcdic
 ensnarling
 extravagation
 ersh
-endomysial
 enwallow
 ecthlipsis
 eophytic
@@ -5889,6 +5888,7 @@ eldfather
 enigmas
 eugenicists
 enschedule
+endomysial
 enigmatographer
 endosperm
 expatriations
