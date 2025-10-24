@@ -2190,7 +2190,6 @@ campsite
 conidial
 cosmism
 campstool
-camptonite
 chromatic
 contraptions
 campward
@@ -11002,6 +11001,7 @@ churchgo
 cassique
 caligrapher
 chiropodial
+camptonite
 chiropodic
 cavascope
 cebine
