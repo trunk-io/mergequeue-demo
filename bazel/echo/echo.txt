@@ -4764,6 +4764,7 @@ exodos
 eparchs
 exsuction
 electro
+eireannach
 electrotheraputic
 exponible
 elastance
@@ -7707,7 +7708,6 @@ elbower
 enfatico
 ephebeubea
 ecphoria
-eireannach
 extincts
 executioner
 exencephalous
