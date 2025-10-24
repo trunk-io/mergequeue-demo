@@ -142,6 +142,7 @@ babyolatry
 bagio
 biriani
 bedside
+bugproof
 bilboa
 bourtrees
 bullroarer
@@ -10807,7 +10808,6 @@ bandstands
 blick
 bullbeggar
 brasser
-bugproof
 baldrics
 beautifier
 bulldogger
