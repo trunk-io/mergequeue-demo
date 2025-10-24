@@ -3831,6 +3831,7 @@ banditti
 bubonic
 birdshot
 beeve
+batting
 bedrock
 beamhouse
 brainwashjng
@@ -14017,7 +14018,6 @@ bossdoms
 bongrace
 blobs
 bairnliness
-batting
 buckshot
 batonist
 ballistocardiograph
