@@ -3499,7 +3499,6 @@ derailleurs
 deflections
 deaccessions
 delete
-diparentum
 dorsosternal
 displodes
 dole
@@ -16381,6 +16380,7 @@ downtake
 dumfounder
 desiatin
 dewret
+diparentum
 deciders
 denumberment
 delayage
