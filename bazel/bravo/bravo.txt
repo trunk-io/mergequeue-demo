@@ -2489,6 +2489,7 @@ brio
 batboy
 bathroot
 bootie
+bloodthirsting
 bluebottles
 banterer
 bearleap
@@ -6031,7 +6032,6 @@ becalmed
 barathea
 betrothment
 butteriness
-bloodthirsting
 bailiffry
 bethflower
 blackhead
