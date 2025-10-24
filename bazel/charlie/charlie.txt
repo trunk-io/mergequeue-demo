@@ -17476,7 +17476,6 @@ cobblestone
 clepsydras
 classicize
 cobblestoned
-cycloidotrope
 chokeweed
 cobbling
 cylindering
@@ -26061,6 +26060,7 @@ centralest
 corvine
 capillaire
 cancerous
+cycloidotrope
 coinspire
 corviser
 corvo
