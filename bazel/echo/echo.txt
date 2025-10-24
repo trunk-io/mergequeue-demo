@@ -8133,7 +8133,6 @@ easing
 energized
 essoined
 emma
-emulating
 epitheme
 exterraneous
 equinecessary
@@ -10560,6 +10559,7 @@ enchase
 exceeding
 excentral
 ebullate
+emulating
 evaporate
 enantiomorphous
 ettirone
