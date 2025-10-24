@@ -5318,7 +5318,6 @@ ensurers
 elegante
 ethnic
 empathizing
-evicted
 empyreum
 epigoni
 emotional
@@ -12689,6 +12688,7 @@ enkraal
 emulousness
 extorting
 ensisternum
+evicted
 ecstatical
 eumycetic
 editions
