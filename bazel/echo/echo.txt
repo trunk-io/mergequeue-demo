@@ -6164,7 +6164,6 @@ ecstatica
 evenhand
 espressos
 exter
-exception
 episynthetic
 endochrome
 enrapts
@@ -10853,6 +10852,7 @@ erke
 exiguousness
 edaciousness
 egyptologist
+exception
 errorful
 excitedly
 entozoic
