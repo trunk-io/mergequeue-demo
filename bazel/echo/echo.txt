@@ -8647,7 +8647,6 @@ ecospecies
 epithalamia
 extensionist
 enround
-enstore
 electrovalently
 escarp
 excreta
@@ -12652,6 +12651,7 @@ expansive
 epilogize
 epizooty
 envault
+enstore
 echolocation
 extradict
 ecraseur
