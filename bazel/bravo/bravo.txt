@@ -2729,6 +2729,7 @@ blennenteria
 backfill
 brookside
 burgamot
+banksman
 backword
 baroqueness
 blonder
@@ -13986,7 +13987,6 @@ benedicts
 barycenter
 beseecher
 boxhauls
-banksman
 booksellerish
 boon
 betailor
