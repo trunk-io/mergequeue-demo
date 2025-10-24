@@ -7788,6 +7788,7 @@ bouffe
 blockhouse
 byron
 bealtine
+baculite
 bournonite
 bedticking
 bounds
@@ -11420,7 +11421,6 @@ besomer
 backwinding
 blooddrops
 bushgoats
-baculite
 bundts
 boatheader
 brothier
