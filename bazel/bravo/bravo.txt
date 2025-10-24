@@ -9446,7 +9446,6 @@ benedict
 belowstairs
 bestialized
 bores
-barhops
 bessemerized
 bogway
 bifolia
@@ -17356,6 +17355,7 @@ balklines
 blickie
 billabong
 bundle
+barhops
 burstwort
 bontok
 badged
