@@ -10570,7 +10570,6 @@ departures
 diastral
 downward
 detenant
-deliberalization
 dusk
 deejays
 dispelled
@@ -16723,6 +16722,7 @@ disserts
 discretionally
 dugento
 disharmonized
+deliberalization
 destaining
 datism
 daliance
