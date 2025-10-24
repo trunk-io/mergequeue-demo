@@ -6874,7 +6874,6 @@ epinephelus
 engoument
 echinoderma
 endoceratitic
-exclamative
 engining
 engineer
 enrolment
@@ -12759,6 +12758,7 @@ erythrol
 engramme
 english
 endosulfan
+exclamative
 ellerian
 engraulis
 erythrophage
