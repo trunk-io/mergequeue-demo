@@ -4018,6 +4018,7 @@ effectuality
 eftest
 expectoration
 easeled
+endpoints
 empiricalness
 esquimau
 excrementous
@@ -9042,7 +9043,6 @@ entrant
 encolumn
 explosiveness
 exospore
-endpoints
 extirpate
 equivoluminal
 embolomerous
