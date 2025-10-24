@@ -966,6 +966,7 @@ boat
 brent
 balnea
 bellows
+benthonic
 blackband
 buttonmold
 bouleuteria
@@ -6170,7 +6171,6 @@ birlinn
 batrachophagous
 brittles
 bedrocks
-benthonic
 besnowing
 benthoscope
 benthoses
