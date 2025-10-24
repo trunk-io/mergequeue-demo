@@ -14383,6 +14383,7 @@ collapsed
 circumsinous
 clubmen
 collow
+closable
 cocciferous
 carousel
 castanospermum
@@ -16679,7 +16680,6 @@ cloque
 crescendos
 cathodically
 coloppe
-closable
 closeable
 casaques
 colobium
