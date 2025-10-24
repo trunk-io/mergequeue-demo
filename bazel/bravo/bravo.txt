@@ -10546,6 +10546,7 @@ blatted
 boltheader
 browman
 buduma
+beryciform
 blattid
 bloodthirster
 blacksmithing
@@ -13662,7 +13663,6 @@ boundless
 barricaders
 bearers
 beats
-beryciform
 bicolorous
 bespurred
 birsy
