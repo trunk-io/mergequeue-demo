@@ -12584,7 +12584,6 @@ externize
 elapinae
 enamor
 enaena
-epoxy
 embryo
 emptio
 exoteric
@@ -13273,6 +13272,7 @@ enfaces
 extollation
 endopleurite
 executrix
+epoxy
 enfonce
 elasmosaur
 exorcized
