@@ -1495,6 +1495,7 @@ biradial
 borborygmus
 basipodite
 beguiler
+bactrian
 ballista
 burkites
 boilermaker
@@ -10291,7 +10292,6 @@ beshower
 beauism
 bogart
 backbends
-bactrian
 balers
 blahs
 blueback
