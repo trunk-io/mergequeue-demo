@@ -4659,7 +4659,6 @@ boxboards
 bonbons
 beslings
 bronzen
-bakal
 benedicite
 biconnected
 bambinos
@@ -10070,6 +10069,7 @@ blabbers
 blabbing
 blackmailers
 becroak
+bakal
 bombidae
 balebos
 blabmouth
