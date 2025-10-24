@@ -1402,6 +1402,7 @@ boyarisms
 barnard
 blighter
 barit
+biolite
 bookie
 barbes
 breastbeam
@@ -17808,7 +17809,6 @@ bijugular
 burrows
 bradsot
 burrstone
-biolite
 bude
 blepharoceridae
 baetuli
