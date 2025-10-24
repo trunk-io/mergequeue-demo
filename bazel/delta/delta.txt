@@ -13232,7 +13232,6 @@ displants
 disbark
 discs
 danios
-doupioni
 demoness
 dismasting
 drukpa
@@ -17841,6 +17840,7 @@ deathrate
 dowery
 demurred
 decapitating
+doupioni
 disciferous
 dusked
 decentration
