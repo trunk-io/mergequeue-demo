@@ -319,7 +319,6 @@ epitra
 epitaphless
 esopus
 eartab
-eavedropping
 equipedal
 eyestone
 embioptera
@@ -4264,6 +4263,7 @@ exothermous
 equipping
 enucleate
 epiphloedic
+eavedropping
 elutriator
 enquire
 eyeful
