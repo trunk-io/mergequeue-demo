@@ -2939,7 +2939,6 @@ cantoral
 chimneyless
 cardsharps
 cantoris
-cleamer
 centauri
 cantraip
 cantraps
@@ -22627,6 +22626,7 @@ chocolatiere
 cageot
 continuance
 casearia
+cleamer
 counterargument
 compoed
 conjoin
