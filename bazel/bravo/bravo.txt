@@ -4627,7 +4627,6 @@ beastlings
 braggartism
 banksmen
 bucoliast
-bedroll
 bombardman
 bedrooms
 bettering
@@ -15641,6 +15640,7 @@ backhandedly
 bodenbenderite
 brockets
 ballisticians
+bedroll
 bosey
 busyness
 boza
