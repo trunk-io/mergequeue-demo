@@ -2851,7 +2851,6 @@ benzoxate
 barren
 bolloxes
 biophysically
-bonus
 byproduct
 barrets
 blindeyes
@@ -15704,6 +15703,7 @@ broadeners
 boree
 benzoate
 burtree
+bonus
 bacteriosis
 belgians
 bisulcated
