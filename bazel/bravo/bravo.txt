@@ -725,7 +725,6 @@ bestowage
 bongo
 backspacefile
 bow
-banksman
 badiaga
 boiler
 boneshaw
@@ -13978,6 +13977,7 @@ benedicts
 barycenter
 beseecher
 boxhauls
+banksman
 booksellerish
 boon
 betailor
