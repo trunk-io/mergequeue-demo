@@ -5649,7 +5649,6 @@ euploid
 exacted
 epibenthic
 enquirer
-edge
 embayed
 electropuncturing
 exterminations
@@ -7579,6 +7578,7 @@ eradicates
 examplar
 estrus
 epicystotomy
+edge
 epicuticular
 exopterygotous
 exuviation
