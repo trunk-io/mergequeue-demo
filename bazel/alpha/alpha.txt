@@ -6760,7 +6760,6 @@ abrazitic
 askewness
 antibias
 aoife
-axometer
 arid
 agrimotor
 activation
@@ -9925,6 +9924,7 @@ aor
 antiknocks
 autumn
 acoelomata
+axometer
 adulterates
 ariel
 antianthropocentric
