@@ -3041,7 +3041,6 @@ different
 duels
 disbodied
 demihuman
-diaphane
 dictyoxylon
 dekko
 dapson
@@ -5514,6 +5513,7 @@ downwind
 dragnet
 deadest
 duotones
+diaphane
 depaints
 dacoited
 dihalid
