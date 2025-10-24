@@ -6564,6 +6564,7 @@ anthropic
 aulacodus
 allomorphite
 ankylosaurus
+arthromere
 adenomeningeal
 angolar
 atoned
@@ -21831,7 +21832,6 @@ autodecrements
 anomalopteryx
 allopathic
 agete
-arthromere
 axwise
 amadavats
 allayers
