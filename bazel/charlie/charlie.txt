@@ -5212,6 +5212,7 @@ choosing
 castable
 castalian
 cardiopuncture
+comptonite
 cupreine
 chertier
 castane
@@ -29503,7 +29504,6 @@ civilizade
 crystallin
 crystallisability
 correctedness
-comptonite
 cubbyhouse
 creatines
 circuiter
