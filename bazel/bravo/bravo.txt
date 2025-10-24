@@ -7405,7 +7405,6 @@ burses
 biscuit
 balsamweed
 barrelmaking
-bestower
 bromoauric
 betaine
 beamed
@@ -14952,6 +14951,7 @@ bravas
 boothes
 benzenediazonium
 brack
+bestower
 beglic
 byssuses
 borrowable
