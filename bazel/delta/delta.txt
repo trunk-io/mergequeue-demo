@@ -1239,7 +1239,6 @@ daterman
 devourers
 dates
 dispell
-doctorize
 deoxygenate
 dating
 diglyceride
@@ -14538,6 +14537,7 @@ desalinize
 dactylosternal
 divergenge
 deliration
+doctorize
 dicyema
 dispensing
 dryfarm
