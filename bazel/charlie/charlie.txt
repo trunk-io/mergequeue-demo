@@ -16703,7 +16703,6 @@ campoo
 chan
 criers
 clupeoid
-coccidae
 chilopods
 cinnamonwood
 conglomerator
@@ -30201,6 +30200,7 @@ chokidar
 cruciately
 cytogamy
 costopulmonary
+coccidae
 crucible
 comose
 credulousness
