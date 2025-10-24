@@ -15001,7 +15001,6 @@ ceriornis
 commixt
 cytotechnologist
 chirologist
-csc
 colorbreed
 clumpy
 copsy
@@ -15218,6 +15217,7 @@ cladus
 claes
 criminosis
 crumbled
+csc
 clagged
 claggum
 cantala
