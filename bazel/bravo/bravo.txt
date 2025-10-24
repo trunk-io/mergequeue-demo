@@ -4254,6 +4254,7 @@ bittacle
 ballproof
 balanced
 bursula
+bigness
 beclothe
 banting
 bonasus
@@ -11838,7 +11839,6 @@ baalite
 betters
 brahmins
 bench
-bigness
 bortzes
 bagwomen
 belinuridae
