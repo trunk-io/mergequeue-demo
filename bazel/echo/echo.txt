@@ -12650,6 +12650,7 @@ envault
 enstore
 echolocation
 extradict
+evader
 ecraseur
 erogeny
 erotomaniac
@@ -14029,7 +14030,6 @@ endopodite
 equaller
 emargination
 electrochemical
-evader
 euphuistical
 extraordinary
 electromotive
