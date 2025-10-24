@@ -4514,6 +4514,7 @@ acoemetic
 antichronical
 anastomotic
 aphodus
+azocyclic
 aedeagi
 armory
 aediculae
@@ -7331,7 +7332,6 @@ amynodont
 albificative
 adenectomies
 ascendance
-azocyclic
 autopathography
 apnoea
 aluminic
