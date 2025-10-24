@@ -4587,7 +4587,6 @@ dosimetric
 deprecated
 demifigure
 dieresis
-doomage
 disinflated
 decussis
 dendrite
@@ -11249,6 +11248,7 @@ deducement
 delegations
 depopulative
 diffusibility
+doomage
 dosain
 disattune
 distillable
