@@ -10644,6 +10644,7 @@ boteroll
 beguilement
 bonism
 ballfield
+boon
 birettas
 battleground
 boweling
@@ -14003,7 +14004,6 @@ binturong
 barycenter
 boxhauls
 booksellerish
-boon
 betailor
 butterfishes
 boxroom
