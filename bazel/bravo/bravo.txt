@@ -2284,7 +2284,6 @@ bluetick
 blackthorn
 basirhinal
 bellehood
-betrayers
 boing
 brim
 baptistries
@@ -12119,6 +12118,7 @@ browsability
 bogomile
 bonitary
 balaamite
+betrayers
 bandmaster
 beadsmen
 blameful
