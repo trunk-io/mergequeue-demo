@@ -3110,7 +3110,6 @@ euripupi
 eerily
 erythraean
 elogium
-encephalolith
 eyer
 eclecticism
 eulysite
@@ -8677,6 +8676,7 @@ engl
 equidistantial
 eutectics
 epapillate
+encephalolith
 ethnoflora
 exitus
 enervators
