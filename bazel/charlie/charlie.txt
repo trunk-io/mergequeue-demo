@@ -2464,7 +2464,6 @@ canalise
 centroidal
 candle
 coehorn
-coalless
 chibrit
 candleberries
 capnoides
@@ -26477,6 +26476,7 @@ cotenants
 cotenure
 concaved
 cankereat
+coalless
 cheechakos
 crystallographic
 concavities
