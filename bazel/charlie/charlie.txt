@@ -5054,7 +5054,6 @@ cookish
 cashableness
 cashaws
 caracoli
-clawhammer
 chalcedonous
 carida
 chloritize
@@ -24298,6 +24297,7 @@ churching
 convives
 convallaria
 chylosis
+clawhammer
 coenenchymatous
 convocating
 cetane
