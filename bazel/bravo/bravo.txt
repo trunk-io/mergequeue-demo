@@ -4611,7 +4611,6 @@ bed
 benzalphenylhydrazone
 bannerol
 blawort
-botchers
 bedribble
 branchiopallial
 beefwoods
@@ -5284,6 +5283,7 @@ buffalos
 bricky
 boarspear
 bacteriocyte
+botchers
 bediademed
 burweeds
 blusteringly
