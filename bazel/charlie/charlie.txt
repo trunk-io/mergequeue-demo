@@ -4868,7 +4868,6 @@ cartmaking
 cartobibliography
 columbia
 catallum
-circulin
 cypseli
 cry
 cartoner
@@ -24649,6 +24648,7 @@ coetaneously
 copehan
 copelata
 copemate
+circulin
 copending
 colonialist
 cryptograms
