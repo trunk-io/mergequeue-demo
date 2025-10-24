@@ -3172,7 +3172,6 @@ befits
 babbler
 braceros
 basions
-bistros
 boggled
 bombiccite
 bacteriol
@@ -12761,6 +12760,7 @@ bevy
 belongs
 baggage
 blowzy
+bistros
 bullpup
 benefactory
 blathery
