@@ -5151,7 +5151,6 @@ exhalants
 estampage
 epicist
 electroballistician
-emulsibility
 enterospasm
 euchite
 eelpouts
@@ -10181,6 +10180,7 @@ eidolology
 ejaculatory
 ethoxyethane
 expdt
+emulsibility
 eyeblink
 ethylin
 excursioner
