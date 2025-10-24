@@ -3188,7 +3188,6 @@ blindages
 barbershops
 bellote
 bren
-bethanks
 bringed
 beshrouds
 boerhavia
@@ -8850,6 +8849,7 @@ biogeographical
 bahur
 biogeographically
 biographers
+bethanks
 boulangist
 blackware
 bobbles
