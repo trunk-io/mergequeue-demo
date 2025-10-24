@@ -11304,7 +11304,6 @@ allthing
 artworks
 annual
 aquilegia
-antagony
 arthrobranchia
 atchison
 austromancy
@@ -15721,6 +15720,7 @@ arianrhod
 antinucleons
 adeps
 agnes
+antagony
 apiary
 avogadrite
 astromancer
