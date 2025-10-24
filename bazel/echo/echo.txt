@@ -1377,7 +1377,6 @@ enhydros
 eggfruit
 eccentring
 evaluate
-edplot
 efreet
 etherized
 effare
@@ -7533,6 +7532,7 @@ effusion
 enkolpia
 equipoise
 engerminate
+edplot
 enhungered
 euryale
 exocrine
