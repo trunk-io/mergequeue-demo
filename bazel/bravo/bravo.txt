@@ -1826,7 +1826,6 @@ beballed
 biotechs
 beeflower
 begar
-brevipen
 broch
 bystanders
 briguing
@@ -6847,6 +6846,7 @@ bagasses
 bethels
 by
 bookward
+brevipen
 bundling
 borderism
 bewelter
