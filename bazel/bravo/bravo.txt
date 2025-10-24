@@ -1362,7 +1362,6 @@ bemuslined
 bbl
 boracic
 bredi
-behither
 blastular
 barytes
 blennothorax
@@ -2816,6 +2815,7 @@ bilocation
 broadcasts
 blastophore
 biunivocal
+behither
 bandit
 barrater
 bacillar
