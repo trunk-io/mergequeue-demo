@@ -5861,7 +5861,6 @@ bourses
 bereavements
 beladying
 blitzkrieg
-ballasting
 bemocking
 banns
 bestarve
@@ -16545,6 +16544,7 @@ burlet
 bucentur
 blanc
 beuncled
+ballasting
 blotto
 blepharosymphysis
 blastemas
