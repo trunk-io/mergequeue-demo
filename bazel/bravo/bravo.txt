@@ -488,7 +488,6 @@ brumalia
 butterbough
 ballate
 blaeberries
-bizant
 begod
 brenthis
 bousoukia
@@ -13590,6 +13589,7 @@ battleships
 bumpiness
 bespottedness
 blere
+bizant
 bezpopovets
 bestare
 bouffon
