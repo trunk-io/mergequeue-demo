@@ -4680,6 +4680,7 @@ epiboulangerite
 extends
 ended
 eustyle
+earwort
 electrolyzability
 exceptionability
 equinus
@@ -5477,7 +5478,6 @@ encyclopaedia
 eightscore
 enantioses
 esmeralda
-earwort
 ecarinate
 electrophorus
 effude
