@@ -3012,7 +3012,6 @@ backcloth
 basepoint
 blam
 brazen
-breakthrough
 biddie
 bicaudate
 brisure
@@ -16308,6 +16307,7 @@ bibliographers
 bulldozers
 brachydomatic
 brachylogy
+breakthrough
 bifidity
 botherheaded
 brucellae
