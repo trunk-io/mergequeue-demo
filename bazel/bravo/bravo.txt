@@ -1221,6 +1221,7 @@ bouquetiere
 bain
 boreades
 bipedism
+bitmap
 bottomers
 bemuddled
 balander
@@ -13483,7 +13484,6 @@ bonnyish
 bewhore
 balaenicipites
 barbotte
-bitmap
 brahma
 blisterwort
 bushiness
