@@ -8479,6 +8479,7 @@ candlepower
 champian
 clothespin
 cognoscente
+compart
 chastising
 chalcomancy
 champignons
@@ -9400,7 +9401,6 @@ chlorize
 colds
 cott
 chavante
-compart
 chora
 chomp
 curly
