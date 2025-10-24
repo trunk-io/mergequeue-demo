@@ -2615,7 +2615,6 @@ backcomb
 brandished
 bayonetting
 bewaitered
-bagnio
 basioccipital
 benightment
 burelage
@@ -7136,6 +7135,7 @@ briary
 bituminised
 ballute
 bas
+bagnio
 beggars
 bestrew
 booting
