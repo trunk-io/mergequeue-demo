@@ -5190,7 +5190,6 @@ busti
 binder
 brachistochrone
 butylation
-bicuspid
 begnaw
 balmy
 begone
@@ -15606,6 +15605,7 @@ beisance
 beant
 bijoux
 beeman
+bicuspid
 barometer
 blastid
 burglars
