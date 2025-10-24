@@ -6626,7 +6626,6 @@ begazes
 balkiness
 bromegrass
 breakaway
-berret
 baleen
 blowen
 bayamos
@@ -15151,6 +15150,7 @@ believing
 balter
 bunya
 blatherer
+berret
 babbools
 bibliophilist
 barotraumas
