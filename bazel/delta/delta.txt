@@ -3352,7 +3352,6 @@ deck
 dependantly
 datiscaceae
 drifts
-diastereoisomer
 dioestrus
 dragsman
 dimethylhydrazine
@@ -9224,6 +9223,7 @@ denoting
 dameworts
 decke
 dabbers
+diastereoisomer
 doping
 dichromasy
 damningness
