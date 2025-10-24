@@ -8802,7 +8802,6 @@ boches
 bioclimatic
 bathwater
 blabber
-bern
 beshouted
 begowk
 bumpingly
@@ -14235,6 +14234,7 @@ briarberry
 biotome
 bumfs
 bertram
+bern
 besliming
 bawbee
 biparietal
