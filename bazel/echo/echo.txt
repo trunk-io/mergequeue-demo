@@ -3152,6 +3152,7 @@ entirities
 extralegal
 emboscata
 elutor
+electrovalent
 extruders
 eroded
 endodontic
@@ -3338,7 +3339,6 @@ embittering
 eath
 ethologists
 ethal
-electrovalent
 ectodactylism
 externum
 ep
