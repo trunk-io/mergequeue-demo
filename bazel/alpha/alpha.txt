@@ -9758,7 +9758,6 @@ amperage
 attended
 autoxidizer
 agentry
-arcae
 awakened
 asserta
 amalic
@@ -15898,6 +15897,7 @@ aluta
 allianced
 antistatic
 antipolygamy
+arcae
 arcula
 askesis
 aeolus
