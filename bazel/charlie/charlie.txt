@@ -7509,7 +7509,6 @@ chuncho
 cereals
 chinaberries
 clammyweed
-crawly
 chariotry
 cuneiform
 cogged
@@ -23711,6 +23710,7 @@ caboose
 cater
 contortedly
 centumviral
+crawly
 commissionating
 chronothermometer
 craft
