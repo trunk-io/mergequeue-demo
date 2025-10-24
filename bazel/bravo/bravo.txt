@@ -1850,6 +1850,7 @@ boardmen
 brigands
 bepraisement
 beseechment
+beerishly
 bocaccios
 benefice
 balances
@@ -5189,7 +5190,6 @@ beside
 blithesome
 bandless
 bazaar
-beerishly
 bullose
 boxcars
 button
