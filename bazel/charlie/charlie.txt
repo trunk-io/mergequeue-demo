@@ -7180,7 +7180,6 @@ cups
 cathedralesque
 centriscoid
 centriscus
-chalices
 creddock
 capacitates
 comite
@@ -31916,6 +31915,7 @@ carosse
 cephalomancy
 concours
 chilkat
+chalices
 climacus
 carcased
 cutwater
