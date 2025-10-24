@@ -12059,6 +12059,7 @@ apophysial
 autoreflection
 anatases
 alchemize
+actor
 antambulacral
 allotropism
 appels
@@ -16949,7 +16950,6 @@ alberich
 archplunderer
 apparelled
 archconsoler
-actor
 alveole
 agrionia
 albricias
