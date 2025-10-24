@@ -3664,6 +3664,7 @@ cooperationist
 copunctal
 confusingly
 clavated
+checkstring
 cephalomenia
 claustrophilia
 clocher
@@ -9582,7 +9583,6 @@ cholesteatoma
 christina
 checkpoints
 crushes
-checkstring
 checksum
 construct
 checksumming
