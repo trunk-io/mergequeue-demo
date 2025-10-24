@@ -843,7 +843,6 @@ aider
 anelastic
 autoactivation
 almsmen
-absis
 abrahamic
 allophanic
 absistos
@@ -5969,6 +5968,7 @@ assonantly
 antrophose
 assais
 aesthetics
+absis
 aortoptosis
 aginner
 arthriticine
