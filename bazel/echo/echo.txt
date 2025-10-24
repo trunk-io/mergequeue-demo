@@ -5746,7 +5746,6 @@ electromagnetist
 eelery
 equidiurnal
 enterotoxin
-enterotoxemia
 enterobiliary
 elves
 emlen
@@ -13131,6 +13130,7 @@ epiphytism
 endotheliocyte
 eternize
 ell
+enterotoxemia
 etherization
 expensing
 enlightenedness
