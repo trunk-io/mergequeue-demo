@@ -6342,7 +6342,6 @@ externate
 endorsers
 editorializers
 eliciting
-essence
 endocarps
 equiglacial
 encheason
@@ -11237,6 +11236,7 @@ ethnogeographic
 endocardial
 epiphytical
 expeditor
+essence
 easters
 endosteitis
 edital
