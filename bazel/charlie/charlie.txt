@@ -4065,7 +4065,6 @@ contagioned
 cymric
 counterdifficulty
 comd
-caroaches
 chivachee
 cerebellums
 cardiologist
@@ -8243,6 +8242,7 @@ checks
 complaisant
 chalcomenite
 chytridium
+caroaches
 cosmonaut
 chalcosiderite
 crocodilite
