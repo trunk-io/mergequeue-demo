@@ -10413,6 +10413,7 @@ antierosive
 antshrike
 anchorets
 ametropia
+amperages
 acinetan
 adventure
 attunely
@@ -17640,7 +17641,6 @@ actinoidea
 anthramin
 apparat
 apparats
-amperages
 aeolina
 apparency
 anoxyscope
