@@ -20797,7 +20797,6 @@ canoeload
 calculation
 condensates
 chrematist
-culverin
 chefdoms
 conteur
 cerebropontile
@@ -29174,6 +29173,7 @@ cohanim
 camboose
 closuring
 curbable
+culverin
 cyesiology
 campsites
 cringeling
