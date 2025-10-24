@@ -11082,6 +11082,7 @@ bauk
 besouth
 bemole
 baric
+ballatoon
 boshvarks
 bolography
 buckler
@@ -14700,7 +14701,6 @@ blackmailing
 bitterhearted
 bioclimatology
 bibliomancy
-ballatoon
 balut
 barmaids
 balletically
