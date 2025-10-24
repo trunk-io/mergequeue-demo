@@ -10458,7 +10458,6 @@ dukeship
 desmids
 discoglossoid
 dighting
-discriminator
 dysmerogenetic
 disportive
 daintith
@@ -18656,6 +18655,7 @@ deviants
 desightment
 despecification
 dactyliographic
+discriminator
 dewdropper
 dagbane
 deled
