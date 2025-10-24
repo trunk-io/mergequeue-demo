@@ -7268,7 +7268,6 @@ exaltations
 enterodelous
 ectypes
 eloge
-entoplasm
 epembryonic
 epiblasts
 elaeodochon
@@ -8507,6 +8506,7 @@ extraliminal
 espece
 enfranchisable
 evolutionary
+entoplasm
 ethnogeny
 equicaloric
 embryoid
