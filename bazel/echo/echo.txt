@@ -4669,7 +4669,6 @@ exhumers
 entertaining
 exactress
 expensed
-earthmove
 entryway
 etherealised
 electroshock
@@ -4755,6 +4754,7 @@ elastance
 establishments
 endophytous
 electroshocks
+earthmove
 euthyneural
 erect
 exploratory
