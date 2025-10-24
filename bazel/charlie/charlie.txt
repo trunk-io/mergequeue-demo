@@ -11668,7 +11668,6 @@ cholesterinic
 cholesterol
 cholesterolemia
 cholesteroluria
-ctenophoric
 correlations
 crunchers
 chymes
@@ -12015,6 +12014,7 @@ choromanic
 chorous
 chort
 cytologist
+ctenophoric
 chalone
 chondrodite
 cheating
