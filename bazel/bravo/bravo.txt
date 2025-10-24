@@ -2464,7 +2464,6 @@ bottonhook
 bah
 barguest
 blusterer
-barguests
 bariatrician
 borsch
 banderilla
@@ -15715,6 +15714,7 @@ buoyancies
 borrowing
 bramantesque
 brocatelle
+barguests
 boxman
 beowulf
 breastweed
