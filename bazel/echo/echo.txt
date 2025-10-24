@@ -1253,6 +1253,7 @@ edaphosaurus
 excubitoria
 erythrism
 epistasy
+example
 eosphorite
 electrothermic
 exorcizer
@@ -4729,7 +4730,6 @@ elaborately
 engelmann
 ermines
 equilobate
-example
 ejido
 echelons
 eumenes
