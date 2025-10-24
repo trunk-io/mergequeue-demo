@@ -2513,7 +2513,6 @@ apiaries
 agonizer
 antescript
 alroot
-antidivorce
 acquirement
 animalhood
 aegophony
@@ -12861,6 +12860,7 @@ armorwise
 authorised
 autotomizing
 adsorbate
+antidivorce
 arrtez
 adry
 azimin
