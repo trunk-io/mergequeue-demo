@@ -23632,6 +23632,7 @@ cattleship
 cloky
 carpetbags
 chalder
+coinspire
 crocidolite
 cursen
 californite
@@ -26056,7 +26057,6 @@ corvine
 capillaire
 cancerous
 cycloidotrope
-coinspire
 corviser
 corvo
 chamade
