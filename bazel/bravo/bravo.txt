@@ -4213,7 +4213,6 @@ bindle
 beachmaster
 bedaggered
 burrhead
-badgemen
 bashalick
 bushfighter
 bartering
@@ -18181,6 +18180,7 @@ besonnet
 battling
 bannerless
 bloodstroke
+badgemen
 begrett
 begets
 bosses
