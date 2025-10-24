@@ -1803,7 +1803,6 @@ drillmasters
 dispeller
 dealfish
 diagredium
-dumpish
 dorsale
 dipleiodoscope
 deblock
@@ -4877,6 +4876,7 @@ dase
 defogged
 dichroous
 dorsocentral
+dumpish
 deair
 dadouchos
 drouks
