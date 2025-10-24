@@ -11266,7 +11266,6 @@ evokers
 ensepulchered
 explanation
 erratically
-endurability
 escapable
 eyecup
 embrittled
@@ -13941,6 +13940,7 @@ extinguishable
 encirclement
 eccyclema
 episterna
+endurability
 eternalness
 elands
 emus
