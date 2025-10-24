@@ -17354,6 +17354,7 @@ canonizations
 coarsening
 coarsens
 caunus
+chirping
 contratempo
 contagia
 clupea
@@ -24174,7 +24175,6 @@ campaigning
 cosmopathic
 cookies
 cypria
-chirping
 completory
 catoptrics
 crunchiest
