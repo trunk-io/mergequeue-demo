@@ -580,6 +580,7 @@ bundles
 buccaned
 blackbine
 balanorrhagia
+bawtie
 blessers
 badineur
 birdie
@@ -1681,7 +1682,6 @@ bluebonnets
 br
 brachman
 burdie
-bawtie
 branchiopneustic
 bemocked
 bashless
