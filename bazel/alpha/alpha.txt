@@ -11950,7 +11950,6 @@ annotatory
 accidental
 ancille
 alkoranic
-anaphylatoxin
 acron
 angioparesis
 airproof
@@ -21422,6 +21421,7 @@ alids
 autojigger
 asymtotic
 asymtotically
+anaphylatoxin
 anomalure
 antecardium
 apicitis
