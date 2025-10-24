@@ -1586,7 +1586,6 @@ diacritical
 desuetude
 durr
 deafmuteness
-dodecastylos
 doylies
 deairing
 daks
@@ -11599,6 +11598,7 @@ dynasties
 demarch
 discoverer
 dismounts
+dodecastylos
 derivationist
 dustour
 douanes

@@ -3422,6 +3422,7 @@ banders
 bigmouths
 baronesses
 bianchi
+broomcorn
 bromellite
 bathkol
 bathmat
@@ -12163,7 +12164,6 @@ befamine
 boatable
 besit
 brevis
-broomcorn
 bedsite
 brakemen
 bacteroid
