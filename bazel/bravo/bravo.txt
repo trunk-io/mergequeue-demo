@@ -5335,7 +5335,6 @@ baggager
 balconet
 beshag
 baronets
-barrier
 behooving
 brit
 behoved
@@ -13557,6 +13556,7 @@ billowed
 biochemistries
 beturbaned
 bareheaded
+barrier
 bichromate
 bouchon
 baseband
