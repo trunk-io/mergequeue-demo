@@ -2242,7 +2242,6 @@ canakin
 collating
 canakins
 clonk
-ctn
 cursively
 clarinets
 canalatura
@@ -6458,6 +6457,7 @@ cavetto
 carpophalangeal
 chayotes
 choplogic
+ctn
 cavie
 cannonballing
 cavyyard
