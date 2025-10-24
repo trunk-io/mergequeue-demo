@@ -1624,7 +1624,6 @@ egrid
 epitrochoid
 endosporous
 egomanias
-encompasser
 enable
 epitonium
 exampled
@@ -3696,6 +3695,7 @@ enwing
 extracolumella
 eminently
 employing
+encompasser
 exercisable
 electrized
 electrolyzer
