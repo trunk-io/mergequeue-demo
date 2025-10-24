@@ -11688,7 +11688,6 @@ cholla
 clairsentient
 crossable
 cryogen
-chi
 capsular
 chollas
 claries
@@ -21550,6 +21549,7 @@ chilostomata
 counterplotting
 charlatanism
 carburated
+chi
 conconscious
 confuting
 cirratulus
