@@ -1851,6 +1851,7 @@ ballone
 balances
 bandstring
 batteling
+bagasses
 brandishes
 beeway
 beworms
@@ -6842,7 +6843,6 @@ besluit
 bridgebuilding
 bairnie
 biarchy
-bagasses
 bethels
 by
 bookward
