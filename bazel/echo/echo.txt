@@ -956,7 +956,6 @@ eqpt
 electrodynamics
 eonian
 experimentalist
-exheredate
 entune
 epitympanic
 embulk
@@ -9128,6 +9127,7 @@ entrapments
 endoradiosonde
 epitheca
 epididymovasostomy
+exheredate
 encomiastic
 electrotechnic
 epitaphize
