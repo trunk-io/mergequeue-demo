@@ -3782,7 +3782,6 @@ deadpanner
 dewfall
 derotremate
 diachaenium
-dak
 deprogrammed
 dropling
 doctrinate
@@ -16490,6 +16489,7 @@ deerstand
 dagobas
 dandies
 deleting
+dak
 disnumber
 demoting
 disarrangements
