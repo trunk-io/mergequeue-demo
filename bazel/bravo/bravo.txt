@@ -2827,6 +2827,7 @@ basify
 barostat
 birdlet
 blackguard
+benzocaine
 bummie
 bensil
 bonanza
@@ -12852,7 +12853,6 @@ bullfrogs
 bokom
 baseboard
 borlase
-benzocaine
 basiliscine
 babools
 burglarizes
