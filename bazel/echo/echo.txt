@@ -3520,7 +3520,6 @@ elastically
 exhaling
 enforcer
 estang
-endemicity
 egregious
 endoplastular
 encratite
@@ -4642,6 +4641,7 @@ estrado
 eudaimonism
 epidemics
 echinoderm
+endemicity
 eternities
 egalitarian
 ethnogenies
