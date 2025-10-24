@@ -324,7 +324,6 @@ eartab
 eatables
 eavedropping
 equipedal
-enchased
 eyestone
 embioptera
 edging
@@ -9862,6 +9861,7 @@ erratas
 express
 ethenoid
 eichwaldite
+enchased
 emprize
 efferous
 evaporations
