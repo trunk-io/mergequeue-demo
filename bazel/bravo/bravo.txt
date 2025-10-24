@@ -7396,7 +7396,6 @@ briquettes
 burses
 biscuit
 balsamweed
-bourbons
 barrelmaking
 bestower
 bromoauric
@@ -17819,6 +17818,7 @@ beardfish
 boras
 bottomried
 bambini
+bourbons
 bundobust
 bursary
 buglet
