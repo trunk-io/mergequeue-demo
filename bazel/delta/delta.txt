@@ -4569,6 +4569,7 @@ dosimetric
 deprecated
 demifigure
 dieresis
+docimasy
 disinflated
 decussis
 dendrite
@@ -13862,7 +13863,6 @@ distemperoid
 decagram
 dissentiate
 distending
-docimasy
 distinctify
 dermatopathophobia
 drowns
