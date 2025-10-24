@@ -401,7 +401,6 @@ daymark
 dentinal
 dinophilea
 diodia
-dextrotropous
 doupion
 dysmerogenesis
 droopily
@@ -554,6 +553,7 @@ dorsoventrality
 delectability
 denaturiser
 driving
+dextrotropous
 diplosis
 devocate
 dyebeck
