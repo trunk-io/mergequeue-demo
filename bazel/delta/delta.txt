@@ -4741,7 +4741,6 @@ denticulate
 demise
 depas
 dragrope
-decken
 diaeresis
 drysalter
 denominations
@@ -18491,6 +18490,7 @@ diatonic
 downby
 dol
 dendrochronologically
+decken
 dappling
 dogbody
 distinctive
