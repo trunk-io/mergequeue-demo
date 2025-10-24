@@ -627,6 +627,7 @@ bipack
 betime
 bash
 bigwigs
+bored
 braches
 brinier
 boozehound
@@ -13095,7 +13096,6 @@ bibiru
 bombsight
 balling
 bated
-bored
 businessese
 buster
 borel
