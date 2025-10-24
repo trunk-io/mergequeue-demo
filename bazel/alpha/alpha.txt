@@ -7152,7 +7152,6 @@ alamannic
 accoll
 anepigraphic
 accresce
-airfoils
 adoxies
 alamode
 accusatives
@@ -12242,6 +12241,7 @@ accordions
 alignment
 argumentatively
 abhor
+airfoils
 arcades
 autoplastic
 assister
