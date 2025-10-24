@@ -3413,6 +3413,7 @@ banders
 bigmouths
 bianchi
 broomcorn
+barkentine
 beswarms
 bromellite
 bathkol
@@ -16920,7 +16921,6 @@ busking
 begladded
 bighorn
 brainlike
-barkentine
 buggers
 buggier
 boxiana
