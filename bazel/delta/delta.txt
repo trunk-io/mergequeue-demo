@@ -2624,6 +2624,7 @@ decempeda
 dumpcarts
 declarative
 dupping
+depopulative
 decreers
 donjons
 decommission
@@ -11226,7 +11227,6 @@ dolerin
 defrayals
 deducement
 delegations
-depopulative
 diffusibility
 doomage
 dosain
