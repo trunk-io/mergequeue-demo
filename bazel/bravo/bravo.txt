@@ -3342,7 +3342,6 @@ baptize
 bedpost
 backfield
 bonellia
-baffling
 bandala
 blockaderunning
 bepuffed
@@ -6496,6 +6495,7 @@ bicolourous
 brainstorming
 bribable
 bookful
+baffling
 berenice
 beresite
 bankbooks
