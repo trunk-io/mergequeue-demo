@@ -1873,7 +1873,6 @@ balances
 bandstring
 batteling
 bagasses
-brandishes
 beeway
 beworms
 baller
@@ -8703,6 +8702,7 @@ brehon
 bandon
 busheler
 braes
+brandishes
 border
 beslabber
 beraking
