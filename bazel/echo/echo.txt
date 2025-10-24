@@ -2422,6 +2422,7 @@ exoskeleton
 encircled
 ey
 elided
+estamp
 entrochus
 enhypostasia
 electronics
@@ -5792,7 +5793,6 @@ ethiops
 egregiously
 eurythermous
 eagerest
-estamp
 ejaculate
 etrogim
 extracarpal
