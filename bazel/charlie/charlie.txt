@@ -20762,6 +20762,7 @@ completories
 chartermaster
 complexation
 complexedness
+crystallizable
 complexes
 cresselle
 conforbably
@@ -24905,7 +24906,6 @@ chalk
 cabbing
 cogitators
 colchicum
-crystallizable
 concertantes
 contriturate
 coroscopy
