@@ -2805,6 +2805,7 @@ bilocation
 broadcasts
 blastophore
 biunivocal
+bombarding
 bandit
 barrater
 bacillar
@@ -15274,7 +15275,6 @@ bromals
 bronchocele
 braided
 balarao
-bombarding
 blimy
 balat
 bahiaite
