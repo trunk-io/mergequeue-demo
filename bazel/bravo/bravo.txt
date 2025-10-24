@@ -2095,7 +2095,6 @@ bicyanide
 breccia
 bursectomy
 beadroll
-butterless
 bandsaw
 bulling
 blindstorey
@@ -3226,6 +3225,7 @@ boreable
 bakshish
 bassy
 backfatter
+butterless
 bufferrer
 bureau
 backhauls
