@@ -4250,7 +4250,6 @@ bilabials
 bittacle
 ballproof
 balanced
-bursula
 bigness
 beclothe
 banting
@@ -4779,6 +4778,7 @@ bergamot
 bajada
 bacteraemia
 betanaphthol
+bursula
 bowser
 beennut
 bacteriotherapy
