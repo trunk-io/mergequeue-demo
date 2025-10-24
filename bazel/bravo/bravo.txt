@@ -12309,7 +12309,6 @@ broideries
 bardulph
 blini
 bursarial
-bathyplankton
 bombing
 beautifies
 braincraft
@@ -13794,6 +13793,7 @@ bushmaker
 brickmaker
 baltimorite
 burgout
+bathyplankton
 beneficing
 besmirching
 bannermen
