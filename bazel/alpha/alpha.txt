@@ -1120,7 +1120,6 @@ anisodactyle
 antimask
 antechoirs
 autotypes
-anticar
 amorphic
 absorbability
 actinian
@@ -10280,6 +10279,7 @@ antitobacconist
 afterguard
 alsophila
 amen
+anticar
 anspessade
 ablock
 ammonocarbonic
