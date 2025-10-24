@@ -17529,7 +17529,6 @@ apothecium
 applot
 archpriest
 airship
-alemana
 antiarchi
 avenging
 anaemic
@@ -23675,6 +23674,7 @@ auntre
 averages
 achlorophyllous
 asterisms
+alemana
 aiglet
 angiomatous
 alleviates
