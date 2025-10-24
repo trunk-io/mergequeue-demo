@@ -854,6 +854,7 @@ cislunar
 couteau
 chilomata
 chevesne
+counteractions
 cainish
 cainite
 charbroils
@@ -12919,7 +12920,6 @@ chuted
 chromatometer
 cosmogonist
 chutists
-counteractions
 celeries
 caqueteuse
 cawquaw
