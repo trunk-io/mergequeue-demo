@@ -2619,7 +2619,6 @@ acridophagus
 arabine
 arrgt
 aerocartograph
-artifact
 alepidote
 aggrege
 annuisance
@@ -11071,6 +11070,7 @@ amblyacousia
 agorot
 autometamorphosis
 adeption
+artifact
 addossed
 anthophorous
 ascare
