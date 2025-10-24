@@ -1852,7 +1852,6 @@ ballone
 balances
 bandstring
 batteling
-bastions
 brandishes
 beeway
 beworms
@@ -17030,6 +17029,7 @@ brooches
 beslings
 boardmanship
 buttonball
+bastions
 bareboat
 bag
 brouille
