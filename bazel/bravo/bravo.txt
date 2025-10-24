@@ -3103,7 +3103,6 @@ boons
 basilics
 backus
 blash
-birder
 backlasher
 bigmitt
 beflecking
@@ -12389,6 +12388,7 @@ beforetime
 bucks
 boarwood
 beggarlike
+birder
 baldric
 bless
 basculation
