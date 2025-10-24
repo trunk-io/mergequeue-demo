@@ -7764,6 +7764,7 @@ bams
 bx
 barbettes
 bandoleers
+beamier
 bathylithic
 biker
 bulldogs
@@ -15891,7 +15892,6 @@ ballock
 braggite
 bromeikon
 brainsickness
-beamier
 boddhisattva
 bdellid
 barlafummil
