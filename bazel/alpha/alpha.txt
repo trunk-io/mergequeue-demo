@@ -2660,7 +2660,6 @@ anticancer
 assumptiveness
 arcadic
 aesculus
-alphanumerical
 arloup
 abirritative
 alarms
@@ -15953,6 +15952,7 @@ apophysis
 anathematise
 arable
 antrotomy
+alphanumerical
 alliterations
 americanization
 actine
