@@ -2432,7 +2432,6 @@ dividant
 degustate
 drawbores
 deadline
-dangling
 daws
 decyne
 depencil
@@ -5811,6 +5810,7 @@ desolated
 discide
 dialect
 depolished
+dangling
 diploptera
 deaconed
 delusory
