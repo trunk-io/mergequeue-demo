@@ -962,7 +962,6 @@ enchylematous
 excisable
 eupnoeas
 easterly
-eqpt
 electrodynamics
 eonian
 experimentalist
@@ -2205,6 +2204,7 @@ eternizes
 episcopizing
 expert
 edictally
+eqpt
 ectromelia
 exhumed
 enteropneusta
