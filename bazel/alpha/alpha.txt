@@ -10859,6 +10859,7 @@ astrictiveness
 arsenopyrite
 atrip
 apparentement
+agtbasic
 assized
 auchenia
 autecologist
@@ -18317,7 +18318,6 @@ acanthad
 adjoint
 antiprofiteering
 archaeologer
-agtbasic
 aeromechanic
 almost
 attaste
