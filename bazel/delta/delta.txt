@@ -4335,7 +4335,6 @@ dishwatery
 delved
 dialectically
 dermatopathology
-digitigrade
 dipylon
 dumpcart
 draconis
@@ -14081,6 +14080,7 @@ dilater
 depressive
 destroying
 deltarium
+digitigrade
 discursativeness
 descendents
 decarhinus
