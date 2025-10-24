@@ -5378,7 +5378,6 @@ catabolite
 checkbits
 catabolized
 camphols
-claim
 cypris
 cardboard
 counterwrite
@@ -18753,6 +18752,7 @@ chawer
 cautiously
 calinut
 cokewold
+claim
 crystallology
 colaborer
 carbethoxy
