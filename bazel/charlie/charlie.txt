@@ -2059,7 +2059,6 @@ cannons
 campanistic
 colpoptosis
 charquid
-cmd
 cryotrons
 courtezanship
 campanologer
@@ -3476,6 +3475,7 @@ cioppino
 customizing
 coprocessors
 charadriiform
+cmd
 carabaos
 carabeen
 carabidae
