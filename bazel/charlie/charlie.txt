@@ -3474,6 +3474,7 @@ coprocessors
 charadriiform
 cmd
 carabaos
+colocates
 carabidae
 carrack
 cotinga
@@ -22837,7 +22838,6 @@ connotative
 connotatively
 connote
 connoting
-colocates
 connubiality
 carless
 cerographical
