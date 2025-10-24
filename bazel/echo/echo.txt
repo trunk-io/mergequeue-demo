@@ -889,6 +889,7 @@ eucyclic
 eremitic
 epidote
 encyclopaedically
+eccentricity
 experimently
 eminencies
 encephalosis
@@ -3076,7 +3077,6 @@ eclamptic
 encomiums
 ezod
 ectopatagia
-eccentricity
 enmew
 eigenvalue
 elodeas
