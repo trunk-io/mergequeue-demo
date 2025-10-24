@@ -9474,7 +9474,6 @@ axifera
 atamascos
 antesunrise
 abbandono
-archetype
 arachnoidea
 altezza
 antireform
@@ -13809,6 +13808,7 @@ alliage
 arthrocarcinoma
 anomaluridae
 antisceptic
+archetype
 admixt
 advertizing
 ankylodontia
