@@ -3205,6 +3205,7 @@ bayoneteer
 base
 biracialism
 bluecoat
+bungaloid
 baskish
 bletheration
 basnat
@@ -12566,7 +12567,6 @@ backups
 balada
 brands
 bedye
-bungaloid
 baronetage
 bookcases
 bagpiping
