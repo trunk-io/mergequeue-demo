@@ -2134,7 +2134,6 @@ achromatope
 aneared
 antigenicity
 aeon
-achromatophile
 apologizes
 aptest
 achromatosis
@@ -14827,6 +14826,7 @@ anticardiac
 anticarious
 anticatalase
 arrythmically
+achromatophile
 adverbialize
 adonic
 armorially
