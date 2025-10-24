@@ -7292,7 +7292,6 @@ depsides
 dorsimesal
 detar
 detat
-detecter
 discrepancries
 detecters
 decertify
@@ -9163,6 +9162,7 @@ deicides
 dentinal
 diademing
 disregardable
+detecter
 decurrency
 doctored
 disselboom
