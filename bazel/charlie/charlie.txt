@@ -9337,7 +9337,6 @@ chatters
 chatti
 carbohydrates
 chimneyed
-churnmilk
 crankcase
 cytoanalyzer
 collodionize
@@ -16361,6 +16360,7 @@ choking
 camphane
 chainlet
 cytome
+churnmilk
 collocalia
 ciliate
 caufle
