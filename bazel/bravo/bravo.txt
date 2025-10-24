@@ -1287,6 +1287,7 @@ basketing
 blea
 bioplastic
 baned
+breakfront
 bojo
 burlers
 beakful
@@ -15748,7 +15749,6 @@ botanophile
 brickbatted
 broadsides
 beamwork
-breakfront
 baseman
 bricking
 boeotia
