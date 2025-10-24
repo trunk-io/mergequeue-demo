@@ -9642,6 +9642,7 @@ eucharistized
 enchest
 ectotheca
 endothermous
+eburine
 epiphyseolysis
 etherializing
 emblazonment
@@ -11636,7 +11637,6 @@ evisceration
 encyclopaediac
 estolide
 eternality
-eburine
 exothermically
 empusa
 emerged
