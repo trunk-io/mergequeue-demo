@@ -7259,6 +7259,7 @@ alethoscope
 antecedency
 arzava
 asphalting
+apronstring
 ambage
 anagenetical
 astert
@@ -12573,7 +12574,6 @@ apatosaurus
 aqueously
 aggregatae
 anemony
-apronstring
 actinotrocha
 archidiaconal
 aidable
