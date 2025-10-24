@@ -3961,7 +3961,6 @@ bowbells
 buttonholing
 bulk
 bath
-bengalic
 bridebowl
 bepranked
 berime
@@ -13404,6 +13403,7 @@ bothway
 banqueters
 boloed
 brakesmen
+bengalic
 balefully
 balachan
 buckramed
