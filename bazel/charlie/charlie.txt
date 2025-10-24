@@ -1196,7 +1196,6 @@ celluloses
 calculuses
 chorines
 confinity
-callipered
 caldaria
 calderas
 casuistic
@@ -19401,6 +19400,7 @@ checkstone
 cellulolytic
 color
 creational
+callipered
 curratow
 collied
 cynthian
