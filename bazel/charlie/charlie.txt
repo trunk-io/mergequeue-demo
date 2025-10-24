@@ -9375,6 +9375,7 @@ collocations
 credential
 chaute
 carrotage
+circumradius
 coppra
 cobias
 ceramic
@@ -27446,7 +27447,6 @@ coalboxes
 countryside
 countryward
 countrywoman
-circumradius
 caenogenesis
 chamosite
 communisation
