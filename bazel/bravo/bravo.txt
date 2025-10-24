@@ -1821,7 +1821,6 @@ bana
 bandor
 buffoonery
 babkas
-backpointer
 bilewhit
 balance
 backblocks
@@ -11133,6 +11132,7 @@ bodge
 barramunda
 basebred
 bitewings
+backpointer
 batched
 brutalised
 bloodwite
