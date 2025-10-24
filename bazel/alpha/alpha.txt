@@ -577,6 +577,7 @@ archbishoprics
 autoeducation
 argentarius
 axlike
+affectible
 anticipator
 apostoile
 amphiphithyra
@@ -8716,7 +8717,6 @@ amphithecium
 adelomorphous
 agueproof
 acetabulous
-affectible
 alleviating
 agreement
 alleviatingly
