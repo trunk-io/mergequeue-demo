@@ -6528,7 +6528,6 @@ bergylt
 biozone
 brachiocrural
 baghla
-brittlewood
 bergs
 beribanded
 barbarious
@@ -12960,6 +12959,7 @@ burins
 brucite
 bailor
 blackest
+brittlewood
 bromindigo
 bouquiniste
 berliners
