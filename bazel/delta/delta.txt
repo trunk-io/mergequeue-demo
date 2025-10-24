@@ -1298,6 +1298,7 @@ dividuous
 dipentine
 dactyliography
 diploid
+depthwise
 diphthongization
 dompt
 dummel
@@ -9033,7 +9034,6 @@ deplorers
 dibstone
 delirate
 decomposable
-depthwise
 dibutyrin
 dolentissimo
 disproperty
