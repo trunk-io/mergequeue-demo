@@ -17357,7 +17357,6 @@ constrains
 cranched
 coarsened
 canonizations
-colorbearer
 coarsening
 coarsens
 caunus
@@ -31336,6 +31335,7 @@ colophany
 curia
 chintzes
 clinodiagonal
+colorbearer
 complotting
 cobwebbing
 curiage
