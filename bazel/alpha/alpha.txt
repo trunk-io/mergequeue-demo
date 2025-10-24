@@ -1826,7 +1826,6 @@ acmispon
 awave
 aldosteronism
 albococcus
-austenite
 apparition
 atheromas
 aplodiorite
@@ -20510,6 +20509,7 @@ anisogeny
 amalg
 antimoralistic
 ail
+austenite
 anthropopsychism
 arithromania
 arcuses
