@@ -11073,6 +11073,7 @@ bauk
 besouth
 bemole
 baric
+bemitered
 ballatoon
 boshvarks
 bolography
@@ -17150,7 +17151,6 @@ biannually
 benthic
 brontides
 busky
-bemitered
 beydom
 barmen
 bouchal
