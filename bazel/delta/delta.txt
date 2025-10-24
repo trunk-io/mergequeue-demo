@@ -5220,6 +5220,7 @@ dendrologists
 dispel
 dunk
 disconfirmation
+disowning
 dustin
 dublin
 dilettanist
@@ -10653,7 +10654,6 @@ dig
 dollish
 dopers
 diplexer
-disowning
 dispersonate
 disaffect
 dimpling
