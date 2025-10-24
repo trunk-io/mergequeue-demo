@@ -4943,6 +4943,7 @@ cryotherapy
 chimu
 castle
 crossed
+checkrooms
 cothouse
 chatterboxes
 coonskin
@@ -30001,7 +30002,6 @@ crosswise
 cerebrology
 calcspar
 coreometer
-checkrooms
 ctr
 confessionally
 coccygotomy
