@@ -9859,7 +9859,6 @@ debarration
 ditting
 dungbred
 diactinic
-descriptions
 dhaw
 diageotropy
 desiderating
@@ -18660,6 +18659,7 @@ dewdropper
 dagbane
 deled
 dressmaker
+descriptions
 downcomer
 disemburden
 dutied
