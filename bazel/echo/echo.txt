@@ -5546,7 +5546,6 @@ equatorial
 ensafe
 epicritic
 exosperm
-extradict
 exhumate
 epitrchelia
 edentates
@@ -12644,6 +12643,7 @@ epilogize
 epizooty
 envault
 echolocation
+extradict
 ecraseur
 erogeny
 erotomaniac
