@@ -9990,6 +9990,7 @@ bactericide
 beglobed
 bouilli
 byway
+bacteriorhodopsin
 birders
 bushranger
 browis
@@ -10688,7 +10689,6 @@ bibl
 blipping
 breeze
 backsetting
-bacteriorhodopsin
 buzzwig
 borneols
 bobwhite
