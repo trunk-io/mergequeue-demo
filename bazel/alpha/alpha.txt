@@ -3296,7 +3296,6 @@ adcons
 agriculturer
 alaunt
 alectoropodes
-anchorer
 antipredeterminant
 azotite
 ackey
@@ -14090,6 +14089,7 @@ accruals
 amtrack
 adagy
 adnascence
+anchorer
 actualising
 albarello
 aligns
