@@ -578,7 +578,6 @@ babus
 battements
 big
 bicornuous
-balisaur
 bitume
 backshish
 bishopric
@@ -7053,6 +7052,7 @@ bedcap
 bessie
 butyl
 bahut
+balisaur
 bacteriemia
 bierstube
 bestay
