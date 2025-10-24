@@ -2488,7 +2488,6 @@ executor
 exposure
 epitomising
 embossable
-ecad
 electrum
 emballonurine
 evangelical
@@ -11664,6 +11663,7 @@ encumberment
 equiprobabilism
 expective
 extemporary
+ecad
 euprepia
 equiradical
 essancias
