@@ -1401,6 +1401,7 @@ diffusor
 drips
 deadpay
 disendower
+deltahedron
 determinations
 dazzler
 disillusions
@@ -15571,7 +15572,6 @@ diazoles
 diversiform
 donovan
 debeaker
-deltahedron
 dietted
 dispersoidology
 donum
