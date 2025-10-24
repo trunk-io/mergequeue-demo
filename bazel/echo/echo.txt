@@ -3799,7 +3799,6 @@ enemy
 epiphytic
 emic
 externalising
-emulsifier
 entwists
 enterologic
 eights
@@ -12341,6 +12340,7 @@ embryophore
 exocoele
 expedite
 expediment
+emulsifier
 exocoelic
 elotherium
 eulima
