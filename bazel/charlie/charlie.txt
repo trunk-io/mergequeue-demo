@@ -9937,7 +9937,6 @@ collocatory
 construe
 chemotaxonomic
 controls
-carices
 chemotherapeutical
 chemotherapeutically
 ceramicite
@@ -10143,6 +10142,7 @@ chestfuls
 collaudation
 chestnuts
 chet
+carices
 canoodler
 carotidean
 ceonocyte
