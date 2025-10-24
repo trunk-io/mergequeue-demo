@@ -1215,7 +1215,6 @@ charry
 cephalopterus
 cystorrhea
 calebite
-cartographic
 calebites
 calculations
 cedrine
@@ -22829,6 +22828,7 @@ cube
 canalized
 cribbing
 connotation
+cartographic
 capitols
 covenably
 chiru
