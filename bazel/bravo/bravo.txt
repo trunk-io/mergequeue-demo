@@ -600,6 +600,7 @@ boilersmith
 bidiagonal
 bulblet
 bedsore
+brewhouse
 burbler
 baconweed
 browner
@@ -6163,7 +6164,6 @@ binnacles
 benshi
 budbreak
 becassine
-brewhouse
 baulkier
 braver
 bugbanes
