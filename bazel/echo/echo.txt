@@ -5570,7 +5570,6 @@ enlisters
 equivalency
 expos
 extendability
-evincible
 exptl
 ecstasis
 enodally
@@ -8347,6 +8346,7 @@ exacting
 etiquet
 epigrammatism
 edestin
+evincible
 eleutheromorph
 entranced
 embroglios
