@@ -7929,6 +7929,7 @@ alps
 antiserum
 astronautic
 azox
+availability
 antiroyal
 ancylocladus
 arsenoxide
@@ -21204,7 +21205,6 @@ adequateness
 armigeri
 aseity
 arette
-availability
 agrammatical
 arteriosympathectomy
 anti
