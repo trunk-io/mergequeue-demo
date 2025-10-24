@@ -4202,6 +4202,7 @@ bindle
 beachmaster
 burrhead
 badgemen
+bashalick
 bushfighter
 bartering
 bunyas
@@ -10826,7 +10827,6 @@ bathic
 braconidae
 behoovefully
 bletilla
-bashalick
 banjuke
 blets
 bacteriophagy
