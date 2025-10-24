@@ -10814,6 +10814,7 @@ cowbell
 cofane
 chromatologies
 chalkcutter
+chesterbed
 chorisos
 castigatories
 cephalotaceae
@@ -11315,7 +11316,6 @@ cryptostomata
 cynocephalus
 compressometer
 collaborators
-chesterbed
 ceresin
 chlormethane
 compulsive
