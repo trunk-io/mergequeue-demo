@@ -4216,6 +4216,7 @@ bergomask
 byzantian
 broguish
 brissotine
+bomarea
 bovenland
 buffalofishes
 briskness
@@ -4751,7 +4752,6 @@ bloomage
 blab
 broadhead
 bloodshotten
-bomarea
 boxtop
 bright
 babysitting
