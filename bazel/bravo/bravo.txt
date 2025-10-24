@@ -32,6 +32,7 @@ bulbul
 blufter
 babbly
 barbara
+boardable
 broomwort
 bidar
 barroom
@@ -2512,7 +2513,6 @@ buddage
 brahmanist
 bellon
 barocco
-boardable
 betterments
 butyrolactone
 borele
