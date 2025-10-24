@@ -1786,7 +1786,6 @@ bandiness
 basinets
 bonaci
 bewend
-bicyclical
 battutos
 brabant
 bubby
@@ -9396,6 +9395,7 @@ brewhouses
 besmirchers
 bourride
 begrease
+bicyclical
 befuddled
 bamboozlement
 biometer
