@@ -3873,7 +3873,6 @@ basifacial
 babillard
 beans
 bacillite
-benzofuroquinoxaline
 bushie
 blarnid
 banning
@@ -7502,6 +7501,7 @@ bewitchment
 bloating
 baobabs
 bewizard
+benzofuroquinoxaline
 barracks
 boliviano
 baywoods
