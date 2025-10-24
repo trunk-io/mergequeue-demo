@@ -3220,7 +3220,6 @@ celli
 convicts
 counterwall
 chaufers
-capoc
 curred
 calver
 chairmaker
@@ -21794,6 +21793,7 @@ cloths
 cheiromegaly
 conditionable
 conditionalism
+capoc
 conchal
 culturology
 churner
