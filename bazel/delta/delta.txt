@@ -1157,6 +1157,7 @@ disinvolve
 dorippid
 demivirgin
 demolition
+desoxyribonucleic
 detestable
 dispraised
 drad
@@ -3667,7 +3668,6 @@ dd
 dalteen
 doneness
 dover
-desoxyribonucleic
 degradement
 dozing
 destructor
