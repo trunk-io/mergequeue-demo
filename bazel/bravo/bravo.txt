@@ -958,6 +958,7 @@ bellows
 blackband
 buttonmold
 bouleuteria
+bowwoman
 biose
 besayle
 brigand
@@ -2174,7 +2175,6 @@ barbarities
 buffeting
 blowflies
 benchmar
-bowwoman
 bolimba
 bibliothque
 barbarized
