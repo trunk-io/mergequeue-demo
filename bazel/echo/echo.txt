@@ -5153,7 +5153,6 @@ endocrinic
 ergs
 ecdysones
 ependytes
-ecphore
 emanant
 endodontically
 exciseman
@@ -11753,6 +11752,7 @@ exceptional
 empty
 esrogim
 expurgatorial
+ecphore
 eccrisis
 enallage
 extinction
