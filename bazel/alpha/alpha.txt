@@ -795,6 +795,7 @@ alerce
 abscissas
 anam
 afforestable
+astrologistic
 adopt
 ayne
 astrogonic
@@ -12284,7 +12285,6 @@ asterin
 anythingarian
 archaical
 advantaged
-astrologistic
 antigravitation
 alimentic
 anidrosis
