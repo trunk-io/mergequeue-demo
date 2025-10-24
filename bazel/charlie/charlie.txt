@@ -5816,6 +5816,7 @@ crinklier
 constructable
 catfacing
 catfalls
+coinmate
 creeled
 concubine
 catfish
@@ -30522,7 +30523,6 @@ cubanite
 cubatory
 contraclockwise
 cubby
-coinmate
 cubbyu
 coquita
 cameoed
