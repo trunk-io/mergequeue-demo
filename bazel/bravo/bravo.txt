@@ -13980,6 +13980,7 @@ bowtell
 blockades
 barographic
 blueblossom
+bromus
 brechans
 byspell
 bunrakus
@@ -16003,7 +16004,6 @@ burgled
 bathroomed
 blattering
 buccinidae
-bromus
 bronchadenitis
 banderoling
 basidia
