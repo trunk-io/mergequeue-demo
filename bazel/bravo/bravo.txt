@@ -1810,6 +1810,7 @@ bitumen
 backflip
 bergama
 bandoleer
+battering
 burlesquely
 bysmalith
 bumping
@@ -3366,7 +3367,6 @@ bowerwoman
 beggarwoman
 bugbite
 bps
-battering
 byronesque
 byroads
 bals
