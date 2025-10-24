@@ -3194,7 +3194,6 @@ dir
 deadlocked
 disruly
 dayside
-destigmatizing
 dislimb
 defenselessness
 dismarry
@@ -8741,6 +8740,7 @@ deadmelt
 debugging
 dorad
 douglas
+destigmatizing
 diocesans
 distilment
 detonative
