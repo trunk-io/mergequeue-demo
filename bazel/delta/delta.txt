@@ -4751,6 +4751,7 @@ demise
 depas
 dragrope
 decken
+diaeresis
 drysalter
 denominations
 durio
@@ -13662,7 +13663,6 @@ designations
 discriminatorily
 dorsomedian
 dedications
-diaeresis
 dissemblingly
 drang
 dopant
