@@ -3672,6 +3672,7 @@ counterforce
 clouters
 carbineer
 chowchows
+categorem
 carburetor
 carbines
 countertenors
@@ -11404,7 +11405,6 @@ cunjer
 compassless
 chloromethane
 chlorometry
-categorem
 curricula
 chilicote
 cosustain
