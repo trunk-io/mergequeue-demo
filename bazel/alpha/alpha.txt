@@ -639,6 +639,7 @@ aerogel
 abort
 alderfly
 anser
+aurify
 aborted
 abortient
 assuring
@@ -16030,7 +16031,6 @@ arcadianly
 amelification
 adrostal
 antanaclasis
-aurify
 angelfish
 aquifer
 autoloading
