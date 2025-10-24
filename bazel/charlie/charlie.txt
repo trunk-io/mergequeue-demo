@@ -3489,7 +3489,6 @@ charadriiform
 carabaos
 carabeen
 carabidae
-checkle
 carrack
 cotinga
 carabidan
@@ -31640,6 +31639,7 @@ counterpillar
 conred
 curvities
 curstness
+checkle
 cadastration
 cystophore
 copycats
