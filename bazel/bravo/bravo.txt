@@ -164,7 +164,6 @@ bioelectrogenesis
 breaklist
 belay
 beudantite
-brabantine
 bourne
 banister
 bananivorous
@@ -2603,6 +2602,7 @@ baluchistan
 barm
 bedim
 bouillon
+brabantine
 benthal
 barmaster
 belligerents
