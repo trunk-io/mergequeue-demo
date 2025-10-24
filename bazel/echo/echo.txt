@@ -6162,7 +6162,6 @@ epigeal
 estimators
 eidology
 electrofishing
-entozoans
 ecstatica
 evenhand
 espressos
@@ -9408,6 +9407,7 @@ exosporal
 encased
 ensearch
 esp
+entozoans
 exhume
 embelin
 epiglottides
