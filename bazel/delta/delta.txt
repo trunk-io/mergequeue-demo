@@ -9374,7 +9374,6 @@ dexamethasone
 debit
 dewcup
 damara
-descriptions
 disunified
 dendrophil
 deconcentrator
@@ -9902,6 +9901,7 @@ debarration
 ditting
 dungbred
 diactinic
+descriptions
 dhaw
 diageotropy
 deinoceras
