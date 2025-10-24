@@ -6504,7 +6504,6 @@ arithmancy
 arecain
 afterripening
 arbalestre
-azygomatous
 apocarpous
 aiel
 aias
@@ -20805,6 +20804,7 @@ amimia
 annal
 algonquian
 adipocere
+azygomatous
 argonauta
 antirabic
 anamnesis
