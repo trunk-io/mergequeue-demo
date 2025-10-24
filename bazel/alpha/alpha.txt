@@ -97,7 +97,6 @@ androecial
 antipriestcraft
 abaptiston
 altaid
-abstractness
 acknow
 abasers
 altaian
@@ -21974,6 +21973,7 @@ autre
 averring
 adducts
 adelarthra
+abstractness
 adnex
 amylophosphate
 afterguns
