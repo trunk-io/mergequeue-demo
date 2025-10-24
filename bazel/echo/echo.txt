@@ -1844,7 +1844,6 @@ envenomed
 embreastment
 eolation
 equicurve
-esocyclic
 extensivity
 extrude
 extracurial
@@ -10648,6 +10647,7 @@ exocline
 engravings
 enteropexy
 embrittlement
+esocyclic
 euproctis
 endexine
 eclectic
