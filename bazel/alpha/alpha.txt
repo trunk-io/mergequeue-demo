@@ -7067,7 +7067,6 @@ aktiebolag
 annonce
 adventry
 annealed
-autophotometry
 alfilerilla
 awards
 anoxaemic
@@ -11626,6 +11625,7 @@ ambit
 angiograph
 anality
 angiomalacia
+autophotometry
 artfully
 advertisement
 areawide
