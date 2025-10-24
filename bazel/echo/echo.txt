@@ -3462,6 +3462,7 @@ electroplaque
 explementary
 ekes
 epepophysial
+equal
 embordered
 exhibit
 embryous
@@ -8640,7 +8641,6 @@ ensemble
 esthetic
 eurytopic
 enfeebler
-equal
 eluate
 eluents
 emailed
