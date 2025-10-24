@@ -3844,7 +3844,6 @@ adjutant
 adjutator
 adjutor
 anisometropic
-australasian
 aith
 audace
 admonishes
@@ -4412,6 +4411,7 @@ antherid
 adverseness
 apnoeas
 allegorized
+aliturgical
 anaphoral
 alcyone
 artesonados
@@ -11815,6 +11815,7 @@ academes
 analcimite
 amyloidoses
 analagous
+australasian
 arsenicate
 asemic
 andronicus
@@ -22015,7 +22016,6 @@ acerbophobia
 aroon
 abbrev
 acopyrin
-aliturgical
 absenting
 admitters
 aphthoid
