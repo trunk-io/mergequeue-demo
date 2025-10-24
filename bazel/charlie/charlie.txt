@@ -25373,7 +25373,6 @@ charms
 christ
 corium
 challengable
-churchwarden
 calderium
 coryza
 cork
@@ -26972,6 +26971,7 @@ corniness
 chronologist
 carniferous
 conspiratory
+churchwarden
 chemist
 crocker
 cerin
