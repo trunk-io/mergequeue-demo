@@ -4191,7 +4191,6 @@ decreaseless
 doorkeep
 demain
 draghound
-deprecatively
 dihybrid
 darogah
 dilemma
@@ -14219,6 +14218,7 @@ dub
 dandlers
 decangular
 diluendo
+deprecatively
 drenching
 disconsolance
 dunkling
