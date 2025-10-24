@@ -3897,7 +3897,6 @@ berrettas
 blackfishes
 bentgrass
 birde
-baseman
 blowline
 baptisin
 bodysurfs
@@ -15706,6 +15705,7 @@ brickbatted
 broadsides
 beamwork
 breakfront
+baseman
 boeotia
 brisling
 bushveld
