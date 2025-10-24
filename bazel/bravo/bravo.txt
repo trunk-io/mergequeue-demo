@@ -10604,6 +10604,7 @@ ballfield
 birettas
 battleground
 boweling
+babingtonite
 bryophyte
 buccinatory
 beefeater
@@ -14524,7 +14525,6 @@ beround
 beadlike
 bororo
 broader
-babingtonite
 bonetail
 birt
 bewailers
