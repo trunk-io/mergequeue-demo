@@ -2910,6 +2910,7 @@ digastric
 dens
 dampnesses
 disconsideration
+defix
 donal
 deguelia
 dowf
@@ -12339,7 +12340,6 @@ dysgonic
 dataflow
 dubbers
 deactivated
-defix
 decastere
 disavouch
 disqualifies
