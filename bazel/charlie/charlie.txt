@@ -4612,6 +4612,7 @@ competencies
 cyanocobalamin
 chant
 cephaloplegic
+cropshin
 concolorous
 carpetweb
 crissal
@@ -29881,7 +29882,6 @@ cropping
 curt
 calastic
 crops
-cropshin
 cropweed
 cytons
 cosmologists
