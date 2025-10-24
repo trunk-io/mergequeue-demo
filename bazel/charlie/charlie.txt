@@ -12448,7 +12448,6 @@ cranemanship
 chromoisomer
 checkrows
 cardiometry
-chromoisomeric
 chromoleucite
 crystalloid
 clayen
@@ -25035,6 +25034,7 @@ corallic
 clerical
 congroid
 coralliform
+chromoisomeric
 configurationism
 carlylesque
 cobreathe
