@@ -8485,7 +8485,6 @@ clothespin
 cognoscente
 chastising
 chalcomancy
-compulsions
 champignons
 contractation
 cryohydric
@@ -20652,6 +20651,7 @@ chitose
 caruncula
 compiled
 covassal
+compulsions
 cathartidae
 cyathiform
 carditis
