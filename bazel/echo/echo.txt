@@ -10441,7 +10441,6 @@ euripidean
 evenworthy
 eveque
 enturret
-endfile
 eschalots
 epipubes
 eastermost
@@ -13518,6 +13517,7 @@ exsibilation
 elfship
 extra
 evadable
+endfile
 explicableness
 etymology
 ebonites
