@@ -631,7 +631,6 @@ elasticin
 electrotrephine
 electioneerer
 extrastomachal
-entailments
 ennage
 earthed
 eromania
@@ -9401,6 +9400,7 @@ electrican
 eigenvalues
 especialness
 eyebrows
+entailments
 executively
 exsurgent
 epicycles
