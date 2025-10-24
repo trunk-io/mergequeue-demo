@@ -166,6 +166,7 @@ bourne
 banister
 bananivorous
 beauseant
+bandmaster
 boojum
 bepiece
 brakesman
@@ -12152,7 +12153,6 @@ biophysiologist
 bonitary
 balaamite
 betrayers
-bandmaster
 beadsmen
 blameful
 bibliopolic
