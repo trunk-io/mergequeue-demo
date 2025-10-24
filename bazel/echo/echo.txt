@@ -1241,6 +1241,7 @@ emasculators
 endowing
 encincture
 edaphosaurus
+endostracal
 excubitoria
 erythrism
 epistasy
@@ -12515,7 +12516,6 @@ entrained
 energies
 eperva
 elmer
-endostracal
 engraulidae
 ecumenicist
 epicoracohumeral
