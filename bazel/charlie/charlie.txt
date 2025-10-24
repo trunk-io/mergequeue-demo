@@ -15497,7 +15497,6 @@ countersank
 carks
 coppas
 cantors
-cantons
 copsewooded
 contradistinct
 claribel
@@ -30747,6 +30746,7 @@ culches
 cubbishly
 companion
 christmastide
+cantons
 canephoroi
 containerization
 crenation
