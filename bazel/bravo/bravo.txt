@@ -3653,7 +3653,6 @@ boarfishes
 burrow
 bitterbrush
 bruised
-baure
 bandores
 burghmote
 beaverkin
@@ -13233,6 +13232,7 @@ breathes
 boustrophedonic
 boskier
 boggier
+baure
 barters
 boasters
 barbudo
