@@ -11671,7 +11671,6 @@ cholesterinic
 cholesterol
 cholesterolemia
 cholesteroluria
-choletelin
 ctenophoric
 correlations
 crunchers
@@ -15863,6 +15862,7 @@ chinookan
 cutaway
 clears
 chagrinning
+choletelin
 clyer
 cribrosity
 cerotene
