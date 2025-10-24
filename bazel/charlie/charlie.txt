@@ -9037,6 +9037,7 @@ colloq
 charities
 condition
 caridoid
+cliques
 comus
 comparability
 cavings
@@ -31240,7 +31241,6 @@ compile
 chandelles
 curation
 cutworks
-cliques
 calamine
 curatorium
 costumiere
