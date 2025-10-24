@@ -3647,7 +3647,6 @@ burrow
 bitterbrush
 bruised
 bandores
-burghmote
 beaverkin
 bulgur
 bucklandite
@@ -13533,6 +13532,7 @@ beseek
 besplatter
 bilgiest
 ballads
+burghmote
 beparse
 bladderseed
 butcherdom
