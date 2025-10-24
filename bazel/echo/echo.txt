@@ -5552,7 +5552,6 @@ embryocardia
 equicrural
 epulation
 enfort
-etiogenic
 election
 endoneurium
 equatorial
@@ -6768,6 +6767,7 @@ enddamage
 epipodia
 episome
 elling
+etiogenic
 eudora
 epaule
 erminois
