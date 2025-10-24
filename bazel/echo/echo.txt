@@ -4570,7 +4570,6 @@ enteria
 excavated
 encarnadine
 eben
-enchodontid
 eyelid
 extraneousness
 ergodicity
@@ -10348,6 +10347,7 @@ extropical
 ecbolics
 enlargedness
 ewerer
+enchodontid
 equiprobability
 expeditious
 evites
