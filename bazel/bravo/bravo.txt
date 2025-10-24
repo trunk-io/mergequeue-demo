@@ -9280,7 +9280,6 @@ besmother
 beastling
 boation
 birdbaths
-budding
 blackneb
 behaver
 beau
@@ -12092,6 +12091,7 @@ beclip
 beg
 beeishness
 biberon
+budding
 buhr
 bakerlike
 baradari
