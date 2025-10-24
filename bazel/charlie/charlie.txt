@@ -5811,6 +5811,7 @@ condottieri
 creatinephosphoric
 cathay
 cathayan
+cowson
 chelem
 carromed
 cathar
@@ -27857,7 +27858,6 @@ crosshair
 countercommand
 cotyle
 cairba
-cowson
 cowsucker
 cowtown
 cox
