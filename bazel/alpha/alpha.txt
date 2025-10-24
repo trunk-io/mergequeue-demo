@@ -2299,6 +2299,7 @@ aedes
 agrologies
 anomalocephalus
 asmile
+afaint
 apantesis
 antismut
 atrypoid
@@ -9444,7 +9445,6 @@ alternate
 allivalite
 asserve
 arteriomotor
-afaint
 antum
 armpits
 afflictingly
