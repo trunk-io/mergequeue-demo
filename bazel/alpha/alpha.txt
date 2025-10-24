@@ -7130,7 +7130,6 @@ antennas
 adlegiare
 ascenders
 aethrioscope
-atomical
 apostaxis
 airworthiness
 alacrity
@@ -22364,6 +22363,7 @@ arpeggiated
 amercer
 absonous
 anelectrotonic
+atomical
 amorphy
 accused
 apollinarianism
