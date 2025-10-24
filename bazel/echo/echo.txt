@@ -3139,6 +3139,7 @@ eggberries
 entirities
 extralegal
 emboscata
+eloignment
 elutor
 extruders
 endodontic
@@ -3883,7 +3884,6 @@ euclase
 enorm
 eyepit
 euhemerising
-eloignment
 eugenol
 extimulate
 endomastoiditis
