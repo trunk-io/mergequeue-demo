@@ -7461,6 +7461,7 @@ airworthier
 aerogenous
 argentometric
 alimentation
+antimeres
 atis
 anatman
 anhinga
@@ -19589,7 +19590,6 @@ archsynagogue
 archaism
 affirmably
 actinonema
-antimeres
 ambitious
 amylon
 adamantoblast
