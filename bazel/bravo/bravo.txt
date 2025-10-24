@@ -3187,7 +3187,6 @@ basoid
 blennoma
 bayberries
 blindages
-barbershops
 bellote
 bren
 bringed
@@ -15916,6 +15915,7 @@ bestar
 bushland
 blepharoncus
 boathook
+barbershops
 bispinose
 bindoree
 bar
