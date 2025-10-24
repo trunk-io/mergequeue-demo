@@ -1034,7 +1034,6 @@ bolete
 batterman
 bailors
 bestraddle
-barnage
 berkeleian
 bakeshop
 befleaing
@@ -4396,6 +4395,7 @@ bridlewise
 bezante
 birdlimed
 becram
+barnage
 beshouting
 blighters
 besuit
