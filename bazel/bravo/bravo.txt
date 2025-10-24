@@ -701,6 +701,7 @@ baign
 bielding
 blossomhead
 bugout
+blindage
 bisie
 buccate
 binful
@@ -15570,7 +15571,6 @@ beisance
 beant
 bijoux
 beeman
-blindage
 barometer
 blastid
 burglars
