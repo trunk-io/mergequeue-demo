@@ -7382,7 +7382,6 @@ disglorify
 deckings
 dissyllable
 demurrant
-deliberator
 divisibleness
 doulce
 dragade
@@ -17701,6 +17700,7 @@ denounce
 dodger
 devaluing
 disintegrationist
+deliberator
 defrayers
 dicyemata
 dialectic
