@@ -697,7 +697,6 @@ breakaxe
 boomlet
 billard
 bopyrid
-bewield
 brief
 besogne
 burnishers
@@ -1540,6 +1539,7 @@ bemingling
 bearbaiting
 benevolentness
 backstrokes
+bewield
 blackeye
 boilerful
 balloonflower
