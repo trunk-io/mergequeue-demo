@@ -3344,7 +3344,6 @@ bedpost
 backfield
 bonellia
 baffling
-botaurus
 bandala
 blockaderunning
 bepuffed
@@ -6374,6 +6373,7 @@ bistro
 backbreaking
 bugwort
 bibliotaphe
+botaurus
 bombyx
 bulkage
 bifurcous
