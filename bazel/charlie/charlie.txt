@@ -7563,6 +7563,7 @@ cerebron
 cholecystenterostomy
 curacy
 crustate
+cryostat
 cerebronic
 cerebropedal
 cudgerie
@@ -29250,7 +29251,6 @@ cowinners
 carlins
 criosphinxes
 catrigged
-cryostat
 cryosurgery
 cryptogamia
 cleeks
