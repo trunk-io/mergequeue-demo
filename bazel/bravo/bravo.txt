@@ -693,6 +693,7 @@ bopyrid
 bewield
 brief
 besogne
+brazer
 burnishers
 bartending
 banderol
@@ -4412,7 +4413,6 @@ bourg
 bolivares
 basements
 biometrics
-brazer
 banters
 bezetta
 bhoosa
