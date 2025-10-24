@@ -1548,7 +1548,6 @@ burghs
 biloquist
 brot
 barogram
-boyarism
 bettas
 bucrane
 burr
@@ -4533,6 +4532,7 @@ bentonite
 bhumij
 birlings
 bedimple
+boyarism
 buttstock
 bluegown
 bilobe
