@@ -4518,6 +4518,7 @@ cytoproct
 cochlea
 clition
 cystidicolous
+counterion
 capitella
 counterrevolutions
 chiv
@@ -11281,7 +11282,6 @@ chlorination
 clipsheets
 chlorinator
 curr
-counterion
 chloritic
 corncob
 childbed
