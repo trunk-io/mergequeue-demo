@@ -4195,6 +4195,7 @@ bindle
 bedeafens
 beachmaster
 burrhead
+badgemen
 bushfighter
 bartering
 bunyas
@@ -18050,7 +18051,6 @@ bugled
 bustle
 bryozoum
 bogier
-badgemen
 balconet
 bronzesmith
 boskages
