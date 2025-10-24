@@ -573,7 +573,6 @@ eugenetic
 encaged
 eubasidii
 enroots
-extraocular
 everbearer
 ethicals
 enigmata
@@ -9476,6 +9475,7 @@ eliminates
 embody
 embosoming
 embryogenesis
+extraocular
 enterolobium
 eschele
 editchar
