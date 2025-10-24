@@ -2939,7 +2939,6 @@ baizes
 biobibliographical
 babelize
 backtrackers
-blindstitch
 beslave
 battel
 bimetal
@@ -17120,6 +17119,7 @@ battak
 balsamy
 bors
 batterable
+blindstitch
 blowhard
 biggy
 bulletwood
