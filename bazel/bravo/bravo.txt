@@ -1376,7 +1376,6 @@ beardy
 batoneer
 broiled
 bigaroon
-bops
 bohunk
 burleycue
 bournes
@@ -11585,6 +11584,7 @@ bloat
 bluetop
 budgeted
 balkline
+bops
 board
 blenniid
 backbrand
