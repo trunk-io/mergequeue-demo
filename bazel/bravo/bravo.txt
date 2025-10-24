@@ -4825,7 +4825,6 @@ baddishness
 birdsnest
 babbled
 birdbaths
-bilinguist
 balds
 boomkins
 bunglings
@@ -7631,6 +7630,7 @@ bivouac
 beadworks
 bhistie
 bhokra
+bilinguist
 bersil
 boliche
 bimotor
