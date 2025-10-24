@@ -10941,7 +10941,6 @@ blissom
 birthbed
 bonorum
 boroughship
-bolstered
 battledored
 breathing
 botryomycosis
@@ -13109,6 +13108,7 @@ borel
 bowlmaker
 browse
 belfry
+bolstered
 bakuba
 biodyne
 balsams
