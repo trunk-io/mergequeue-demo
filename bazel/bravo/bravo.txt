@@ -12211,6 +12211,7 @@ burlesk
 blindfolding
 brake
 boltcutter
+baccilla
 bongar
 boltheading
 boltin
@@ -15706,7 +15707,6 @@ bewitchments
 botanophile
 brickbatted
 broadsides
-baccilla
 beamwork
 breakfront
 boeotia
