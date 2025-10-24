@@ -6780,7 +6780,6 @@ celloid
 cupels
 clavicor
 colubrids
-cleidohyoid
 cathodofluorescence
 chapped
 cellucotton
@@ -16938,6 +16937,7 @@ condonable
 cometoid
 cypselae
 cyrilla
+cleidohyoid
 coquetted
 clathrulate
 clucky
