@@ -3365,6 +3365,7 @@ exsomatic
 extraessential
 embrake
 ephebe
+epee
 elabor
 expounds
 exercitorian
@@ -10009,7 +10010,6 @@ enlute
 ethynes
 epicondyle
 enteromycosis
-epee
 espaliers
 emenders
 estacade
