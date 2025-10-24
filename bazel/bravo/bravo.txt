@@ -7313,7 +7313,6 @@ bedeviling
 barberries
 bodybuild
 bowable
-bala
 belite
 bandlimiting
 bladderwrack
@@ -17854,6 +17853,7 @@ blutwurst
 blotch
 boorga
 buckjump
+bala
 burtonization
 blankish
 beached
