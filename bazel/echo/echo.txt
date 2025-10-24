@@ -2446,7 +2446,6 @@ exposures
 europeward
 ergothioneine
 eleutheropetalous
-ex
 equipped
 erythrocytolysis
 eccentrically
@@ -3997,6 +3996,7 @@ exolve
 eupnea
 erotetic
 ext
+ex
 enties
 embellishment
 essentialization
