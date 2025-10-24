@@ -3821,7 +3821,6 @@ depreciation
 dipcoat
 decondition
 deification
-devchar
 drisheen
 delfs
 dimmit
@@ -18464,6 +18463,7 @@ drossless
 disputatiously
 dazzlement
 disquisiting
+devchar
 dumbledore
 dogsbody
 ducky
