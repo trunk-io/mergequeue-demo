@@ -11253,6 +11253,7 @@ beshackle
 baseborn
 blowing
 blowings
+barbering
 buttonhold
 bastioned
 butyral
@@ -15687,7 +15688,6 @@ broadish
 babool
 batiking
 bands
-barbering
 battarism
 bentiness
 blithers
