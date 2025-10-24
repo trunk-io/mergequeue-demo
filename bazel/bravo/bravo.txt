@@ -4060,7 +4060,6 @@ bebang
 burgh
 botulin
 berhyming
-baldish
 bisect
 bulkheads
 brickset
@@ -7557,6 +7556,7 @@ ballistics
 biscuitroot
 bahar
 blades
+baldish
 bourgeoisitic
 breakfronts
 benzoates
