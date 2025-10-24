@@ -11939,7 +11939,6 @@ crwths
 cilician
 captainries
 choriamb
-choriambic
 curdy
 cooperant
 coaggregated
@@ -15863,6 +15862,7 @@ circumsphere
 clearminded
 cushiest
 corydine
+choriambic
 condescendence
 casuist
 calcium
