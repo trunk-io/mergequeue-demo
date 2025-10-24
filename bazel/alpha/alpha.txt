@@ -9043,6 +9043,7 @@ alberttype
 adipogenous
 anthesis
 architect
+acromial
 asci
 adiposis
 adhesivemeter
@@ -24004,7 +24005,6 @@ athyroid
 aix
 affaires
 arabizing
-acromial
 antonomasy
 acontias
 averin
