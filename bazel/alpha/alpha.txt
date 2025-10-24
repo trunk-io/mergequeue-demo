@@ -3960,7 +3960,6 @@ antislip
 amputator
 admissibility
 azoxybenzoic
-aphanomyces
 argusianus
 aerarium
 alcae
@@ -4678,6 +4677,7 @@ autoepigraph
 arousable
 affuse
 anemoscope
+aphanomyces
 accomplishable
 afterpast
 ankylurethria
