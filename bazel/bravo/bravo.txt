@@ -3078,6 +3078,7 @@ barotactic
 breadth
 bousoukis
 bioaccumulation
+biquadratic
 bizes
 bodstick
 baclava
@@ -11164,7 +11165,6 @@ bowsie
 bayadeer
 brummer
 bisulphide
-biquadratic
 baluster
 bluecaps
 bolstering
