@@ -2406,6 +2406,7 @@ bonducs
 busies
 blens
 blacklisting
+borrelia
 bifunctional
 bechalked
 baryons
@@ -10166,7 +10167,6 @@ bacteriophagous
 battue
 backwashes
 becurses
-borrelia
 beadiest
 bernoo
 blunderings
