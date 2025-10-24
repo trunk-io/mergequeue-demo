@@ -795,6 +795,7 @@ abscissas
 anam
 afforestable
 adopt
+antimensia
 ayne
 astrogonic
 alcalde
@@ -9996,7 +9997,6 @@ ambicoloration
 abiogenous
 alfenide
 apoplasmodial
-antimensia
 angiosis
 antiprostatic
 anthocephalous
