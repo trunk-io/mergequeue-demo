@@ -2365,6 +2365,7 @@ bankrolls
 blindfolded
 bishopless
 bursas
+brassidic
 bullhead
 bareknuckle
 beaumont
@@ -6988,7 +6989,6 @@ bradford
 backstick
 backsets
 billfish
-brassidic
 brashest
 bogieman
 befooling
