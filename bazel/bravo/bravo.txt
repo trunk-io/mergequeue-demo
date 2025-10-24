@@ -3612,7 +3612,6 @@ batzen
 brujas
 breaststroker
 bauble
-biplane
 bandwagons
 beadswomen
 bambacciata
@@ -5735,6 +5734,7 @@ butterbur
 bellwort
 bowgrace
 ballpoint
+biplane
 belonger
 biased
 bonnocks
