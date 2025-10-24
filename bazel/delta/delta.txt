@@ -2591,6 +2591,7 @@ demagnetizer
 decadist
 dunlop
 dilatational
+danite
 damnosa
 decolorising
 decolors
@@ -7563,7 +7564,6 @@ delire
 della
 delves
 demarcator
-danite
 dikaryon
 drillers
 doublewidth
