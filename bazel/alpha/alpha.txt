@@ -5113,6 +5113,7 @@ apsid
 avidities
 augites
 affies
+abase
 alphitomancy
 affiliating
 apery
@@ -11160,7 +11161,6 @@ astringently
 asharasi
 alveolosubnasal
 antihydropin
-abase
 adjoiner
 abthanage
 amphibians
