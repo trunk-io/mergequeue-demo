@@ -5577,7 +5577,6 @@ aphrasia
 achitophel
 arder
 allocator
-affrighter
 apprehend
 anomy
 alcayde
@@ -17355,6 +17354,7 @@ aviator
 apolusis
 auntship
 arecaidin
+affrighter
 apometabolic
 aquatints
 athletocracy
