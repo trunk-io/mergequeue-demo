@@ -1529,7 +1529,6 @@ cynanche
 camarillas
 chemostat
 coequate
-callisto
 cesar
 civility
 callithrix
@@ -16229,6 +16228,7 @@ cellos
 celiolymph
 climaxing
 consequence
+callisto
 cytotrophoblastic
 conchometry
 cairns
