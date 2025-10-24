@@ -587,6 +587,7 @@ boilersmith
 bidiagonal
 bulblet
 bedsore
+burbler
 baconweed
 bierkeller
 browner
@@ -1847,7 +1848,6 @@ boardmen
 brigands
 bepraisement
 beseechment
-burbler
 bocaccios
 benefice
 ballone
