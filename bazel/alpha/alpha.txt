@@ -9998,7 +9998,6 @@ allotypes
 abiogenous
 alfenide
 apoplasmodial
-antimensia
 angiosis
 antiprostatic
 anthocephalous
@@ -16614,6 +16613,7 @@ andvari
 auksinai
 apay
 autodiffusion
+antimensia
 apolarity
 appalachia
 anallantoidea
