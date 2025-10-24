@@ -2348,6 +2348,7 @@ emboweller
 epidemiologies
 ecanda
 exch
+enclaved
 etamin
 epitrope
 ephor
@@ -5125,7 +5126,6 @@ emiction
 evangelistship
 electroosmotic
 exemplificative
-enclaved
 euphorbiaceae
 encyclic
 essonite
