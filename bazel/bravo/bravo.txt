@@ -2010,6 +2010,7 @@ babai
 bannat
 bannerline
 bivalents
+baroswitch
 belitter
 bebuttoned
 brokery
@@ -7614,7 +7615,6 @@ behavioral
 befrounce
 bhangi
 balanophora
-baroswitch
 belgrade
 bleachground
 backlog
