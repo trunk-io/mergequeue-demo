@@ -9392,7 +9392,6 @@ enterococci
 enkindler
 exhalents
 encense
-equipper
 ethereous
 espartos
 eulogiums
@@ -10007,6 +10006,7 @@ electronography
 enneandrian
 exomorphic
 exposedness
+equipper
 enlute
 ethynes
 epicondyle
