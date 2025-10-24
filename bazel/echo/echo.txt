@@ -9150,7 +9150,6 @@ edrioasteroid
 exon
 endamoebic
 exopt
-endoperidial
 etchers
 eucephalous
 electroreceptive
@@ -12373,6 +12372,7 @@ escout
 electrocutions
 epipodium
 echidnidae
+endoperidial
 erinose
 etheostoma
 entophytic
