@@ -2113,6 +2113,7 @@ encipher
 endocytic
 erwinia
 entification
+equality
 empassion
 electant
 enghosted
@@ -9587,7 +9588,6 @@ embog
 essayish
 extrados
 eisegetical
-equality
 espaliering
 eppy
 explicable
