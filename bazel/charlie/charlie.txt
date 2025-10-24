@@ -3376,7 +3376,6 @@ caps
 cutgrasses
 cerebrose
 cranioclasis
-cuttlefish
 capsomers
 capstans
 capstone
@@ -12337,6 +12336,7 @@ cavernous
 chromatician
 cryostase
 cyclohexyl
+cuttlefish
 charoset
 chromatid
 comminative
