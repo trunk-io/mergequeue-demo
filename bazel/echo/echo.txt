@@ -5093,7 +5093,6 @@ elbows
 ectromelic
 engrains
 enfurrow
-exemptile
 explanator
 eardrums
 englut
@@ -9893,6 +9892,7 @@ euplocomi
 enodation
 endoarteritis
 edile
+exemptile
 exophasia
 enrich
 enfolds
