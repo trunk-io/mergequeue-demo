@@ -2847,6 +2847,7 @@ broad
 barrelled
 balmawhapple
 barrelmaker
+bleater
 brassavola
 benzoxate
 barren
@@ -15682,7 +15683,6 @@ burut
 broncholith
 barrenest
 bg
-bleater
 beclouds
 broadcaster
 brainsick
