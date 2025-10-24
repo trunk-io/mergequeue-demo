@@ -2614,7 +2614,6 @@ anacid
 allowed
 arghan
 acridophagus
-arabine
 arrgt
 aerocartograph
 alepidote
@@ -5666,6 +5665,7 @@ azeotropism
 auriculariaceae
 architricline
 antiphysicalness
+arabine
 agapemonist
 agateware
 asepticized
