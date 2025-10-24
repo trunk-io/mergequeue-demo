@@ -1328,6 +1328,7 @@ evicting
 epics
 equalable
 eutrophication
+entrechats
 entasias
 efoliose
 estrogenicity
@@ -11924,7 +11925,6 @@ evolvement
 excogitation
 elevation
 ense
-entrechats
 extradialectal
 expressionless
 embayment
