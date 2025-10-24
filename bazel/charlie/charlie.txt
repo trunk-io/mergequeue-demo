@@ -2540,6 +2540,7 @@ cling
 cachets
 censuses
 cyclotrons
+chiseling
 cane
 cliffing
 canebrake
@@ -11068,7 +11069,6 @@ cheapens
 calligraphers
 calorify
 cradlemaking
-chiseling
 chamar
 chiseller
 chisellike
