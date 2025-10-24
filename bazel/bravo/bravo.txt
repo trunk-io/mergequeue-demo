@@ -12557,7 +12557,6 @@ bookcases
 bagpiping
 backwinded
 breba
-bubbly
 bonnet
 bonnethead
 bedway
@@ -14374,6 +14373,7 @@ bridgeboard
 butein
 braies
 brakemaker
+bubbly
 budging
 brunt
 bucksaw
