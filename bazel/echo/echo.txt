@@ -9714,7 +9714,6 @@ electrothermics
 encumbrance
 emphasis
 evacuee
-excavators
 epharmonic
 expendables
 epizoites
@@ -13569,6 +13568,7 @@ experientially
 excommunication
 extorsively
 expurgates
+excavators
 eyewaters
 etherialization
 entocyst
