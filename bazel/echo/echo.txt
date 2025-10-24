@@ -5370,7 +5370,6 @@ engraver
 endovaccination
 esthesiogen
 eyebolts
-enfester
 electronvolt
 ectene
 ebulus
@@ -11503,6 +11502,7 @@ elations
 energeticist
 erodability
 electrotest
+enfester
 egomism
 exponential
 extracorpuscular
