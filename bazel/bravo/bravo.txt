@@ -592,6 +592,7 @@ bawtie
 blessers
 badineur
 birdie
+brevis
 blazonment
 baconize
 befogs
@@ -12192,7 +12193,6 @@ bellhanger
 befamine
 boatable
 besit
-brevis
 bedsite
 brakemen
 bacteroid
