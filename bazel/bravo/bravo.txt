@@ -3203,7 +3203,6 @@ bossiness
 basiphobia
 boarfish
 befilth
-bootable
 bankerdom
 bariatrics
 baculum
@@ -12051,6 +12050,7 @@ bulbilla
 baltetei
 bonelike
 butacaine
+bootable
 blastings
 bagmen
 bumpology
