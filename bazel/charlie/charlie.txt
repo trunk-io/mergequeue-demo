@@ -2753,7 +2753,6 @@ caricature
 coinable
 cladrastis
 cootfoot
-cynthian
 cannonier
 cannonries
 cyclophosphamide
@@ -19398,6 +19397,7 @@ color
 creational
 curratow
 collied
+cynthian
 coloradan
 collies
 colorado
