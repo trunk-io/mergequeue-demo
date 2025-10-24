@@ -194,6 +194,7 @@ caumatic
 choriocapillaris
 corporal
 congelifract
+clipped
 continentals
 cytisus
 catasarka
@@ -16339,7 +16340,6 @@ clypeola
 clypeolar
 compresses
 canelos
-clipped
 cavendish
 convenes
 culprit
