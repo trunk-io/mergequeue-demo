@@ -4043,7 +4043,6 @@ blendwater
 bowyangs
 biopsychology
 beaverskin
-brimmers
 barchan
 boodleize
 beckett
@@ -12569,6 +12568,7 @@ bagpiping
 backwinded
 breba
 bonnet
+brimmers
 bonnethead
 bedway
 blurts
