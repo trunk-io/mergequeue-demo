@@ -9305,7 +9305,6 @@ brahmoism
 banana
 birchwood
 bendell
-bot
 bayal
 belgian
 berne
@@ -13965,6 +13964,7 @@ bubos
 breachy
 bowstring
 bataan
+bot
 bowtell
 blockades
 barographic
