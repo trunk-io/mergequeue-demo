@@ -2913,6 +2913,7 @@ entertissue
 elysee
 electrocautery
 eligibles
+epauliere
 evagation
 encoronet
 equidifferent
@@ -6820,7 +6821,6 @@ electromotion
 ecthlipses
 exocannibalism
 erethisia
-epauliere
 embryophyta
 enclose
 eomecon
