@@ -9080,7 +9080,6 @@ biramose
 basics
 beflag
 brutisms
-biotypes
 boubou
 bumblingly
 bromcamphor
@@ -14802,6 +14801,7 @@ bitangent
 branchiostomous
 baetzner
 bimastoid
+biotypes
 bloodsuckers
 bigged
 blastule
