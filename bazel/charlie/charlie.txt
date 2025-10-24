@@ -10127,7 +10127,6 @@ chirogale
 chessom
 chesstree
 calciminer
-chest
 consists
 cornett
 cidaris
@@ -23971,6 +23970,7 @@ contrives
 controller
 cynoidea
 controlless
+chest
 compositeness
 catechize
 cauterized
