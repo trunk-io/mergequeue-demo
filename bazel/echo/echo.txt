@@ -3941,7 +3941,6 @@ encasserole
 etymologise
 eventilate
 ectotherm
-erasure
 eloiner
 embryon
 elaine
@@ -10329,6 +10328,7 @@ enchodontid
 equiprobability
 expeditious
 evites
+erasure
 electrocardiographic
 embalmment
 equilibrator
