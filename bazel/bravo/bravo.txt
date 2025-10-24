@@ -710,7 +710,6 @@ badgerer
 britannian
 batwing
 booking
-biggened
 boyish
 barathron
 bolter
@@ -10356,6 +10355,7 @@ bayeta
 ballooned
 bullrush
 beltene
+biggened
 bailwood
 byssus
 burgrave
