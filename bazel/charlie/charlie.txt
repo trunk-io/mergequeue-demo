@@ -4944,6 +4944,7 @@ citywards
 colat
 casanova
 ceramals
+chalets
 casas
 circumtonsillar
 colisepsis
@@ -16526,7 +16527,6 @@ crucially
 cuon
 cicatrose
 cohesive
-chalets
 creepage
 cloddier
 centerpunch
