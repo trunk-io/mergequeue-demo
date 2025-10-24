@@ -11648,7 +11648,6 @@ chassignite
 coembody
 cholelithiasis
 canonship
-conchotome
 cholelithotomy
 clavicular
 chesterfields
@@ -19646,6 +19645,7 @@ celosias
 columellia
 columnal
 chlorion
+conchotome
 camphors
 conceptacle
 columnarian
