@@ -7390,7 +7390,6 @@ berhymed
 burd
 boron
 barcarole
-belayer
 bendayed
 buzzbomb
 biathlon
@@ -16129,6 +16128,7 @@ brood
 broodiest
 blackfriars
 binomial
+belayer
 babroot
 bemuddle
 breakpoint
