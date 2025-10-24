@@ -17545,6 +17545,7 @@ annullate
 acromiocoracoid
 apothecium
 applot
+aristocratic
 archpriest
 airship
 antiarchi
@@ -24907,7 +24908,6 @@ amuletic
 alliterativeness
 acquitted
 aceologic
-aristocratic
 assisi
 abilitable
 absterged
