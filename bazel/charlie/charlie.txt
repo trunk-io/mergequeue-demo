@@ -24809,7 +24809,6 @@ coppices
 clocksmith
 comingle
 charkhana
-canyons
 carver
 cleverish
 cell
@@ -29215,6 +29214,7 @@ criobolium
 coilers
 crioceratite
 csect
+canyons
 conferree
 cotillons
 cryogeny
