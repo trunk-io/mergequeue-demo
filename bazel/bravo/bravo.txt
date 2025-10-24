@@ -3369,6 +3369,7 @@ battering
 byronesque
 byroads
 bals
+barrel
 bonagh
 benempted
 becater
@@ -15893,7 +15894,6 @@ ballock
 braggite
 bromeikon
 brainsickness
-barrel
 boddhisattva
 bdellid
 barlafummil
