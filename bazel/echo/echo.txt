@@ -5345,6 +5345,7 @@ emissivity
 endamebiasis
 epigean
 estrums
+embrittlement
 earthtongue
 emeroid
 elateridae
@@ -10649,7 +10650,6 @@ engrapple
 exocline
 engravings
 enteropexy
-embrittlement
 esocyclic
 euproctis
 endexine
