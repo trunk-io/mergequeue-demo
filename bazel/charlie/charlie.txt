@@ -4955,7 +4955,6 @@ crossed
 checkrooms
 cothouse
 chatterboxes
-coonskin
 carvestrene
 carving
 carvoepra
@@ -13354,6 +13353,7 @@ chikara
 comme
 counterpointe
 chiragrical
+coonskin
 checkrail
 cohabit
 cloakmaking
