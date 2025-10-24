@@ -15128,6 +15128,7 @@ bacteriform
 barothermograph
 berstel
 blurrer
+backarrow
 biradiated
 blastospheric
 bargander
@@ -16399,7 +16400,6 @@ bicepses
 brujeria
 boohooed
 bemire
-backarrow
 binturong
 bromos
 baldness
