@@ -5971,7 +5971,6 @@ exchanger
 epifauna
 excursionists
 enlightenment
-end
 enablers
 enscrolls
 enlinkment
@@ -12091,6 +12090,7 @@ evase
 exululate
 externalistic
 ectrodactyly
+end
 euxine
 estoppage
 exhibitors
