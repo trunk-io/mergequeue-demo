@@ -6169,7 +6169,6 @@ beys
 bontee
 bigheads
 bustles
-bagfuls
 burnished
 birlinn
 batrachophagous
@@ -16152,6 +16151,7 @@ buzzards
 bowled
 brink
 broomstraw
+bagfuls
 bromometrically
 botryomycotic
 bellicose
