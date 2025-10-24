@@ -10908,7 +10908,6 @@ bewept
 bottlebird
 blinkards
 bowses
-blepharostat
 births
 basta
 bereaver
@@ -13329,6 +13328,7 @@ botanies
 barefooted
 beatus
 becroak
+blepharostat
 bombernickel
 brassicaceae
 bootlace
