@@ -381,7 +381,6 @@ architectures
 assayers
 aberrants
 auditotoria
-afterform
 aloha
 anemotaxis
 alpines
@@ -23654,6 +23653,7 @@ avogadro
 allegories
 andaqui
 alif
+afterform
 ahind
 antistrumatic
 antapoplectic
