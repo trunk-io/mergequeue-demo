@@ -2581,6 +2581,7 @@ decadist
 dunlop
 dilatational
 danite
+doomage
 damnosa
 decolors
 drowte
@@ -11204,7 +11205,6 @@ defrayals
 deducement
 delegations
 diffusibility
-doomage
 dosain
 disattune
 distillable
