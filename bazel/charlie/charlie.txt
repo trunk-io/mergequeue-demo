@@ -9991,7 +9991,6 @@ cascado
 consumable
 colocasia
 catacombic
-chiro
 chenopods
 choristoma
 cajuputs
@@ -26097,6 +26096,7 @@ conducive
 chalicotheriid
 clitellar
 collude
+chiro
 calamagrostis
 cephalization
 cosecs
