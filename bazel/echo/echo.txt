@@ -73,6 +73,7 @@ equid
 excoct
 earpiece
 exogen
+eavesdroppers
 earreach
 enclaret
 eyestrings
@@ -5064,7 +5065,6 @@ exoner
 eucarpic
 elbows
 ectromelic
-eavesdroppers
 engrains
 enfurrow
 exemptile
