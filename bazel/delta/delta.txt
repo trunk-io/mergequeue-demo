@@ -2726,7 +2726,6 @@ douse
 dislikelihood
 decresc
 dependancy
-disimprovement
 dupion
 damnum
 demetricize
@@ -16544,6 +16543,7 @@ duodrama
 daucus
 distancy
 dashier
+disimprovement
 desireful
 dorsi
 delectations
