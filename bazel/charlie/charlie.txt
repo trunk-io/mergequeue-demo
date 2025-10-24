@@ -5786,6 +5786,7 @@ caedmonic
 caterbrawl
 catercorner
 catercornerways
+condemnations
 coholder
 crushable
 cartbote
@@ -11609,7 +11610,6 @@ clavatin
 copybooks
 crazier
 cadenzas
-condemnations
 conformate
 collectorship
 choledocholithotripsy
