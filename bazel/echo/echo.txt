@@ -8510,7 +8510,6 @@ espece
 enfranchisable
 evolutionary
 entoplasm
-ethnogeny
 equicaloric
 embryoid
 endophytal
@@ -12895,6 +12894,7 @@ evaded
 endamask
 epistolization
 epiopticon
+ethnogeny
 engross
 envelopes
 epicranium
