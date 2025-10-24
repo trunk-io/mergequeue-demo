@@ -11301,7 +11301,6 @@ bande
 burroweed
 bandicoy
 bendingly
-battlements
 beguiled
 bedstraw
 brassiest
@@ -16091,6 +16090,7 @@ bashful
 backwoodsman
 baratheas
 blitzbuggy
+battlements
 brutally
 barkened
 bouillon
