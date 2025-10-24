@@ -686,6 +686,7 @@ booklice
 breakaxe
 boomlet
 billard
+bopyrid
 bewield
 brief
 besogne
@@ -10421,7 +10422,6 @@ bhutan
 blasphemies
 blasphemousness
 bemaster
-bopyrid
 blaster
 blasting
 blastocele
