@@ -16368,7 +16368,6 @@ cruiseway
 condistillation
 cornflag
 clipse
-clipt
 clique
 censorable
 clags
@@ -17880,6 +17879,7 @@ cadjan
 cunjah
 cress
 counterlit
+clipt
 codelinquency
 cedrat
 crypta
