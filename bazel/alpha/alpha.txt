@@ -2000,7 +2000,6 @@ academy
 actuation
 archways
 artemisin
-anammonid
 apprenticement
 abbeystede
 anticynical
@@ -7850,6 +7849,7 @@ azygous
 adolphus
 archoverseer
 algebraic
+anammonid
 alectoropodous
 auxiliatory
 apparatchik
