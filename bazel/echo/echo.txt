@@ -909,7 +909,6 @@ empathy
 edaphon
 electioneer
 ebionitic
-excel
 enquiring
 explosibility
 escobedo
@@ -3655,6 +3654,7 @@ extrication
 emulsive
 evocativeness
 elemong
+excel
 extraterrene
 effluviate
 enterocleisis
