@@ -7270,7 +7270,6 @@ denotations
 disinfecter
 depsides
 dorsimesal
-detar
 detat
 discrepancries
 detecters
@@ -14036,6 +14035,7 @@ degerm
 decinormal
 defensiveness
 dampening
+detar
 deltoidei
 djinny
 docosane
