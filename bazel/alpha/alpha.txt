@@ -2600,7 +2600,6 @@ ailuroidea
 ambiguousness
 anabantidae
 alismoid
-allochiral
 alibility
 acridinium
 acridity
@@ -12760,6 +12759,7 @@ amphogenic
 atake
 adjudges
 activity
+allochiral
 aerosiderolite
 akroter
 ankylosis
