@@ -9126,7 +9126,6 @@ britisher
 besmutting
 boroughmonger
 barundi
-biped
 became
 bulldoggy
 banisher
@@ -10405,6 +10404,7 @@ bancos
 burdon
 bellerophontidae
 biaxially
+biped
 biogeographer
 bioblastic
 barytostrontianite
