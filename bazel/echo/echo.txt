@@ -1025,6 +1025,7 @@ ectype
 employless
 expunction
 enclosed
+enforcing
 elephantic
 easefulness
 elections
@@ -2541,7 +2542,6 @@ economize
 extermining
 ebullioscope
 electrosynthetically
-enforcing
 electropsychrometer
 euphemiously
 electrodeless
