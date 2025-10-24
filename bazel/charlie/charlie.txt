@@ -3734,7 +3734,6 @@ coaudience
 coeducational
 ceratite
 courbaril
-cypris
 coinsure
 charades
 complementer
@@ -5393,6 +5392,7 @@ checkbits
 catabolized
 camphols
 claim
+cypris
 cardboard
 counterwrite
 congaing
