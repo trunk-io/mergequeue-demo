@@ -838,7 +838,6 @@ casinet
 capouch
 chymified
 clydesdale
-cislunar
 couteau
 chilomata
 chevesne
@@ -28251,6 +28250,7 @@ cateran
 chavel
 clubroot
 coburgher
+cislunar
 cranioschisis
 checkup
 cranioscopy
