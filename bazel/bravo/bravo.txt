@@ -686,7 +686,6 @@ breathable
 bumpkinly
 britches
 batholithic
-bade
 badness
 booklice
 breakaxe
@@ -9222,6 +9221,7 @@ bluenosed
 bispinous
 bipyridyl
 balewort
+bade
 bombora
 barysilite
 bemoaningly
