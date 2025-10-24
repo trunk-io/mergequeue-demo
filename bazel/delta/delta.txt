@@ -3849,6 +3849,7 @@ depreciation
 dipcoat
 decondition
 deification
+devchar
 drisheen
 delfs
 dimmit
@@ -13529,7 +13530,6 @@ discigerous
 demology
 dissatisfactions
 desynapsis
-devchar
 diffusional
 denudational
 destain
