@@ -7788,6 +7788,7 @@ deboners
 debits
 dipicrate
 doggoned
+defaulted
 darksum
 dona
 dismembrate
@@ -16337,7 +16338,6 @@ duet
 dysanalyte
 defile
 drawnwork
-defaulted
 druggeries
 dite
 doorways
