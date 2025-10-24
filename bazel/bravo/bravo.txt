@@ -3419,7 +3419,6 @@ background
 blackberry
 barkiest
 begins
-butanols
 butterbush
 boozer
 bootikin
@@ -10696,6 +10695,7 @@ backsetting
 buzzwig
 borneols
 bobwhite
+butanols
 biti
 band
 balian
