@@ -6648,7 +6648,6 @@ enjoys
 eats
 entitle
 entitling
-expenders
 exploder
 entocarotid
 excursionist
@@ -7611,6 +7610,7 @@ elderly
 enteroplasty
 emmarbling
 emergent
+expenders
 epichile
 exactment
 emendable
