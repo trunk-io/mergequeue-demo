@@ -12986,7 +12986,6 @@ cyanoderma
 chrysanthemin
 cantrap
 carayan
-cobitis
 corycavine
 corniform
 cogracious
@@ -13811,6 +13810,7 @@ crataegus
 cysticercoid
 cutgrass
 cutis
+cobitis
 chrysoprase
 coaggregation
 cineol
