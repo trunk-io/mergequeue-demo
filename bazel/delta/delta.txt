@@ -9447,6 +9447,7 @@ deadhand
 diplocoria
 dampen
 duckstone
+dognapped
 deifications
 deindividualization
 dornic
@@ -13579,7 +13580,6 @@ defterdar
 deputation
 disperse
 dayman
-dognapped
 disinthrall
 decremented
 dissemination
