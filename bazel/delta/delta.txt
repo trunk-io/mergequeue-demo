@@ -9296,7 +9296,6 @@ dochter
 depickle
 debated
 dewaterer
-daimones
 decapsulate
 damie
 dovekeys
@@ -17157,6 +17156,7 @@ deacons
 druidic
 discourser
 drylots
+daimones
 devocalising
 dialogging
 deuteranomaly
