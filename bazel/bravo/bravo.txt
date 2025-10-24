@@ -3142,7 +3142,6 @@ beday
 brabbles
 boniform
 bis
-bipedal
 baggit
 banditries
 bolbanac
@@ -7717,6 +7716,7 @@ began
 benzophenazine
 bocasine
 bicephalous
+bipedal
 besoin
 buchnera
 bacca
