@@ -2277,6 +2277,7 @@ eardrop
 extrusile
 excandescent
 evergreenery
+exine
 enantiomorphism
 effs
 epithi
@@ -5830,7 +5831,6 @@ elect
 eucharis
 exonerator
 eld
-exine
 epicardial
 enteroviral
 ecru
