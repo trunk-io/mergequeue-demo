@@ -7431,7 +7431,6 @@ eyeglance
 encharge
 endungeon
 expendable
-eaceworm
 eatanswill
 eulamellibranch
 emoted
@@ -7536,6 +7535,7 @@ espying
 effusion
 enkolpia
 engerminate
+eaceworm
 edplot
 enhungered
 exocrine
