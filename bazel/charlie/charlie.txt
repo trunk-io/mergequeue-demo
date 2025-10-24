@@ -8855,7 +8855,6 @@ characins
 cityish
 charact
 cutouts
-calais
 commonable
 capitalist
 costocoracoid
@@ -29927,6 +29926,7 @@ crossbow
 cibation
 crossbows
 chambrays
+calais
 crewe
 culgee
 crossbreds
