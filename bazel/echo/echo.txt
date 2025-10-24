@@ -71,6 +71,7 @@ exr
 equid
 excoct
 earpiece
+exogen
 earreach
 enclaret
 eyestrings
@@ -12429,7 +12430,6 @@ enthroning
 englante
 ecclesiast
 enclothe
-exogen
 exercent
 earldom
 excites
