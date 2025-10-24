@@ -9161,7 +9161,6 @@ cerebra
 chartophylacium
 chartreux
 condensance
-cerianthid
 commonefaction
 charts
 confluent
@@ -24952,6 +24951,7 @@ colourfast
 coquicken
 contumax
 coquille
+cerianthid
 crosstied
 corrade
 conductivity
