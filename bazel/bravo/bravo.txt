@@ -3460,7 +3460,6 @@ boloneys
 bemists
 bowyers
 brantle
-berber
 breadman
 byrlakin
 bloodflower
@@ -7361,6 +7360,7 @@ barbecued
 betumbled
 bourgeon
 bifidities
+berber
 baromotor
 bearbaiter
 bowne
