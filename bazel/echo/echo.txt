@@ -1672,7 +1672,6 @@ elem
 ennuyante
 enneagons
 eudaemons
-entelodont
 exostrae
 ectoprocta
 exophthalmus
@@ -4718,6 +4717,7 @@ enciphering
 excepted
 ecardinal
 emigrations
+entelodont
 eddying
 enlightener
 engrosses
