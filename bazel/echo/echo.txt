@@ -10466,7 +10466,6 @@ electronarcosis
 expiries
 ends
 enascent
-enstate
 excluders
 engarment
 eugubine
@@ -11854,6 +11853,7 @@ effume
 euchlorophyceae
 evidential
 encashing
+enstate
 eg
 emulate
 epigonic
