@@ -3982,6 +3982,7 @@ console
 centaurian
 cuttings
 congenetic
+criteria
 cardialgia
 calla
 chromoscopy
@@ -29582,7 +29583,6 @@ curtain
 carbonnieux
 crit
 capone
-criteria
 cryptogamous
 chorological
 capacitances
