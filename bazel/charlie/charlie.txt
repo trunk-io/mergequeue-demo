@@ -3277,7 +3277,6 @@ crusta
 cuchan
 chullo
 capote
-crypted
 crapple
 codamine
 clayer
@@ -26873,6 +26872,7 @@ conducent
 counterbrand
 consonantalize
 confutable
+crypted
 counterbuff
 countercathexis
 counterchanged
