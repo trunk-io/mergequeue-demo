@@ -11524,7 +11524,6 @@ elohist
 esemplasy
 esperance
 eponychium
-ecthesis
 entomolite
 exsertion
 epiphylaxis
@@ -13610,6 +13609,7 @@ exgorgitation
 excelente
 electrostenolytic
 equilibrative
+ecthesis
 endofaradism
 ethylenes
 electrobus
