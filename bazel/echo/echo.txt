@@ -1345,6 +1345,7 @@ enslaver
 experted
 ettarre
 espingole
+encumbrances
 enameller
 encyclical
 employe
@@ -3707,7 +3708,6 @@ enchodontoid
 erept
 ethoxide
 endoceratidae
-encumbrances
 expounder
 epoist
 escheatable
