@@ -1877,7 +1877,6 @@ exterminatrix
 endoclinal
 encyclopedist
 estipulate
-enc
 ecphrasis
 estrin
 enrapting
@@ -3796,6 +3795,7 @@ epicauta
 ethoxy
 ecchondrotome
 epharmony
+enc
 eternish
 exterminating
 echiniform
