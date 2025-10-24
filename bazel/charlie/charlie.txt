@@ -8124,7 +8124,6 @@ chainmen
 cultists
 campanulaceous
 coelastrum
-capetian
 cosmorama
 carbohemoglobin
 cleanups
@@ -27476,6 +27475,7 @@ chymification
 coupage
 couped
 cicrumspections
+capetian
 cocus
 cholecystorrhaphy
 cyclometer
