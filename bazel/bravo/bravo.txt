@@ -4592,6 +4592,7 @@ ballistae
 barid
 banditry
 boatel
+buoyant
 benediction
 bourrelet
 beladied
@@ -6476,7 +6477,6 @@ bogtrotter
 breastrope
 baboonroot
 biohazard
-buoyant
 bahima
 berberidaceous
 berberis
