@@ -322,7 +322,6 @@ epitra
 epitaphless
 esopus
 eartab
-eatables
 eavedropping
 equipedal
 eyestone
@@ -3361,6 +3360,7 @@ euryalae
 enwreath
 expertized
 exteroceptor
+eatables
 exsomatic
 extraessential
 embrake
