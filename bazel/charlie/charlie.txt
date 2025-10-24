@@ -1323,7 +1323,6 @@ calyces
 cathartin
 calycifloral
 calycinal
-calycine
 calycled
 curveted
 cardiopathy
@@ -2547,6 +2546,7 @@ cardioschisis
 caterans
 canephoros
 cryptocrystallization
+calycine
 choirmasters
 columnar
 cyamelide
