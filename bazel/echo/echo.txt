@@ -765,7 +765,6 @@ equiponderation
 engolden
 evejar
 emanators
-envapor
 endophytic
 electrolyser
 extenuated
@@ -1380,6 +1379,7 @@ endoscope
 explicatory
 elasticized
 earthwork
+envapor
 ewer
 eppes
 elutriate
