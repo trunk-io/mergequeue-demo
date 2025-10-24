@@ -3911,7 +3911,6 @@ bonilass
 bookmonger
 berrettas
 blackfishes
-bryozoum
 bentgrass
 birde
 baseman
@@ -18050,6 +18049,7 @@ birdcatching
 barmote
 bugled
 bustle
+bryozoum
 bogier
 badgemen
 bronzesmith
