@@ -4880,6 +4880,7 @@ buoying
 bacterid
 blancher
 beetrave
+boatful
 beakiron
 bosporus
 blithebread
@@ -16746,7 +16747,6 @@ bikie
 buri
 bistriate
 basilica
-boatful
 bulbonuclear
 befallen
 beneficiated
