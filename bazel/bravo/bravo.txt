@@ -6179,7 +6179,6 @@ brittles
 bedrocks
 benthonic
 besnowing
-benthoscope
 blastie
 benumbed
 basilweed
@@ -10712,6 +10711,7 @@ bleeps
 batonne
 blintz
 bellower
+benthoscope
 blepharoplegia
 baning
 bookbind
