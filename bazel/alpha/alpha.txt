@@ -9759,7 +9759,6 @@ afterdischarge
 alcoholizing
 agentry
 awakened
-asserta
 amalic
 accommodationist
 amamau
@@ -14571,6 +14570,7 @@ azothionium
 appreciated
 anorchia
 antipharisaic
+asserta
 answerer
 adalat
 achromatized
