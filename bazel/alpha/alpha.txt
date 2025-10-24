@@ -13944,7 +13944,6 @@ addlepatedness
 agrace
 artamidae
 apocrustic
-angstrom
 autopista
 anoscopy
 arrythmical
@@ -19310,6 +19309,7 @@ airbuses
 alicoche
 aril
 areic
+angstrom
 aquiform
 amphisbaena
 arborize
