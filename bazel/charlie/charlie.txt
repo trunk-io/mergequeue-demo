@@ -9034,7 +9034,6 @@ camuse
 carpetmonger
 colloq
 charities
-condition
 caridoid
 cliques
 comus
@@ -10938,6 +10937,7 @@ cyathus
 chlorotrifluoroethylene
 chirms
 curious
+condition
 crumena
 conventioner
 chirogymnast
