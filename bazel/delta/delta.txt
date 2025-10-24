@@ -13552,6 +13552,7 @@ decus
 dissaving
 defenser
 dollies
+decreed
 drawbridge
 deticks
 dislustre
@@ -18034,7 +18035,6 @@ drawlink
 dilemmatically
 downhills
 deadworks
-decreed
 dogeships
 disruptively
 delectableness
