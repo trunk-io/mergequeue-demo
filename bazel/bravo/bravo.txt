@@ -1588,7 +1588,6 @@ bedticks
 bathless
 brigid
 blusher
-bisector
 buqsha
 breediness
 bassa
@@ -10370,6 +10369,7 @@ branners
 bemantle
 brimborion
 basecourt
+bisector
 bowdrill
 bespectacled
 battleship
