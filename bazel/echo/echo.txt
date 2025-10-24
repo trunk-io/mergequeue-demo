@@ -2739,7 +2739,6 @@ elasmothere
 etiquettical
 extempory
 executions
-ebcdic
 ensnarling
 extravagation
 ersh
@@ -12822,6 +12821,7 @@ exsanguine
 enneahedria
 espousals
 epoch
+ebcdic
 enanthematous
 emeroids
 epimeride
