@@ -3721,6 +3721,7 @@ beverages
 bazooka
 banner
 blunge
+briarwood
 buxaceous
 bezazzes
 becafico
@@ -15491,7 +15492,6 @@ bopyrus
 brokerly
 bookwright
 brongniardite
-briarwood
 blazon
 bonniness
 brodeglass
