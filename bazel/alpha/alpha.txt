@@ -1744,6 +1744,7 @@ advertizable
 avgas
 acephali
 argusfishes
+autodynes
 afterage
 agglutinations
 assoilment
@@ -13565,7 +13566,6 @@ aerospace
 annicut
 astucious
 anchylosis
-autodynes
 annidalin
 aepyornis
 annie
