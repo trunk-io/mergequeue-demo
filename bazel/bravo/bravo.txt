@@ -6284,6 +6284,7 @@ bastinading
 bankrupts
 bardic
 billhooks
+bulletlike
 betrample
 bucketer
 botanises
@@ -18092,7 +18093,6 @@ bringsel
 bearskins
 but
 bebog
-bulletlike
 becharmed
 brandy
 bastnaesite
