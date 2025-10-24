@@ -1516,7 +1516,6 @@ beguiler
 bactrian
 ballista
 burkites
-boilermaker
 bys
 basketlike
 bajonado
@@ -7909,6 +7908,7 @@ brewage
 bushido
 bivalvular
 bangling
+boilermaker
 bonnetiere
 brique
 bacterioscopy
