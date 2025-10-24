@@ -7780,7 +7780,6 @@ entosternum
 eumenidean
 exophthalmos
 epanaphora
-epinikion
 execration
 egilops
 euclid
@@ -10781,6 +10780,7 @@ editorials
 erases
 emarginately
 enterrologist
+epinikion
 establish
 econometer
 eurobin
