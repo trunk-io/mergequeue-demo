@@ -4475,7 +4475,6 @@ bombshells
 bezonian
 beuniformed
 bescarf
-beacon
 brat
 bokark
 buckle
@@ -8254,6 +8253,7 @@ benson
 belard
 bromins
 billheads
+beacon
 barotropic
 buzukis
 bioelectrogenesis
