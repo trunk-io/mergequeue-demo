@@ -7082,6 +7082,7 @@ elevations
 esplanades
 electropercussive
 edification
+echinostome
 encephalon
 elve
 eikons
@@ -12176,7 +12177,6 @@ everydayness
 enamorate
 enemies
 epiphegus
-echinostome
 exorcisement
 emmetropy
 epileptogenic
