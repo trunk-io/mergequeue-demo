@@ -1331,7 +1331,6 @@ bankmen
 balsaminaceous
 bardily
 balded
-balder
 bloodstock
 bandleader
 beyonds
@@ -11960,6 +11959,7 @@ bogland
 brauneria
 budgerigah
 burble
+balder
 bytalk
 bogled
 bolivian
