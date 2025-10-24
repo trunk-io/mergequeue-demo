@@ -2118,7 +2118,6 @@ boundness
 baboen
 burbolt
 benzpyrene
-bonds
 barcelonas
 balloting
 bobsledder
@@ -3065,6 +3064,7 @@ baloneys
 byland
 blastozooid
 bromelia
+bonds
 basidigital
 barrigudo
 barotactic
