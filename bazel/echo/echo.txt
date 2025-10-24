@@ -7726,7 +7726,6 @@ embellishment
 expound
 erse
 eryopsid
-epeirid
 entombing
 embolism
 enfranchise
@@ -12609,6 +12608,7 @@ enchanters
 expositor
 ecliptics
 epivalve
+epeirid
 empyesis
 ethnogeographer
 electrophoresing
