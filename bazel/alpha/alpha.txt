@@ -2227,7 +2227,6 @@ amenity
 anorthoscope
 acidulate
 adjacency
-abominated
 amontillados
 acidulously
 antistimulant
@@ -13334,6 +13333,7 @@ acheilous
 amlacra
 apathism
 amissness
+abominated
 aliquid
 anaesthetic
 antalgics
