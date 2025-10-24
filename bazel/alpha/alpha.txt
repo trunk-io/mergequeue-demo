@@ -12309,7 +12309,6 @@ aas
 angiogram
 amotions
 angakut
-anding
 acutilingual
 almanner
 andirin
@@ -14359,6 +14358,7 @@ aeromancy
 anterosuperior
 alterius
 antesternum
+anding
 auriscope
 antetemple
 anteverting
