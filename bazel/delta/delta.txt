@@ -5018,7 +5018,6 @@ dramshop
 dissolvable
 dips
 demosthenean
-deckels
 drabbletail
 dehydroffrozen
 drivescrew
@@ -6814,6 +6813,7 @@ deirid
 dockyard
 dragsmen
 datatype
+deckels
 disjointedness
 dewinesses
 detestably
