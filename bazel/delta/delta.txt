@@ -17382,6 +17382,7 @@ duvetyns
 dodecafid
 dieback
 deuterons
+destroyable
 disinclines
 drosophilas
 developoid
@@ -17606,7 +17607,6 @@ dealated
 disapprovingly
 dystopia
 doughfeet
-destroyable
 diaphoretics
 delphinine
 doarium
