@@ -10771,7 +10771,6 @@ bugproof
 baldrics
 beautifier
 bulldogger
-bugbeardom
 batlike
 blepharomelasma
 barracoutas
@@ -16529,6 +16528,7 @@ blepharosymphysis
 blastemas
 belion
 bracioles
+bugbeardom
 babul
 bedraping
 bearward
