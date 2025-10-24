@@ -4318,6 +4318,7 @@ elemi
 enarched
 enarme
 encephalomyelopathy
+emydes
 epimerized
 emydea
 equilibriums
@@ -13699,7 +13700,6 @@ extraprovincial
 echinopsine
 exfoliative
 extrasomatic
-emydes
 epicoelia
 epilaryngeal
 esteemed
