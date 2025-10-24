@@ -5382,6 +5382,7 @@ clanks
 commander
 curatorial
 contos
+conscribe
 catabases
 cockroach
 cosmographer
@@ -17629,7 +17630,6 @@ coccobacilli
 cayennes
 castral
 cynipid
-conscribe
 concyclically
 coccoidal
 confiscatable
