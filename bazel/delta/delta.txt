@@ -3704,7 +3704,6 @@ diomedea
 dipsos
 displat
 duplicident
-dehydrocorticosterone
 dicoumarol
 didact
 dressage
@@ -5714,6 +5713,7 @@ drunkly
 derays
 decisteres
 dowcet
+dehydrocorticosterone
 ducape
 daftlike
 delineable
