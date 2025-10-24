@@ -1850,7 +1850,6 @@ beseechment
 burbler
 bocaccios
 benefice
-ballone
 balances
 bandstring
 batteling
@@ -14881,6 +14880,7 @@ begorra
 besmoothed
 boodler
 blanketmaking
+ballone
 bungos
 bazar
 blued
