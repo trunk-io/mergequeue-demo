@@ -685,7 +685,6 @@ bade
 badness
 booklice
 breakaxe
-baff
 boomlet
 bewield
 brief
@@ -18082,6 +18081,7 @@ barish
 bethumb
 bathed
 bagass
+baff
 boxfishes
 buroo
 birlers
