@@ -66,6 +66,7 @@ earpick
 exclaimers
 extractible
 exr
+equid
 excoct
 earpiece
 earreach
@@ -11982,7 +11983,6 @@ ethaldehyde
 epididymite
 eidolic
 eliminant
-equid
 espec
 estovers
 expediency
