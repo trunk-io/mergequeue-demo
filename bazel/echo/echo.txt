@@ -3174,7 +3174,6 @@ eggberries
 entirities
 extralegal
 elutor
-electrovalent
 extruders
 eroded
 endodontic
@@ -13563,6 +13562,7 @@ equipped
 ergatandry
 excommunication
 extorsively
+electrovalent
 expurgates
 excavators
 eyewaters

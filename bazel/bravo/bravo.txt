@@ -2201,7 +2201,6 @@ benchmar
 bolimba
 barleducs
 bibliothque
-barbarized
 beleaping
 bugseed
 bluesman
@@ -6314,6 +6313,7 @@ betrample
 bucketer
 botanises
 bedlamer
+barbarized
 billycan
 benzothiazine
 bufotenine
