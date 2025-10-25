@@ -1097,6 +1097,7 @@ dunts
 doloriferous
 doormat
 devilhood
+doit
 diggable
 dribblers
 demagogically
@@ -17463,7 +17464,6 @@ dendroidea
 demonstrate
 drawability
 decoded
-doit
 doitrified
 differencingly
 drugs
