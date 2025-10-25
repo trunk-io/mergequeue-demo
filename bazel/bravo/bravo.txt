@@ -2788,6 +2788,7 @@ beguilements
 battues
 boundary
 branchiopodous
+bookit
 bitterbump
 balantidial
 ballers
@@ -6361,7 +6362,6 @@ buckskin
 battleward
 bephrase
 bartholomew
-bookit
 bepicture
 buckstone
 bisons
