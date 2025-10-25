@@ -18632,6 +18632,7 @@ curves
 coachability
 coiner
 comparograph
+candela
 catchpolling
 casement
 chaetites
@@ -24960,7 +24961,6 @@ copulae
 crotching
 copularium
 compoing
-candela
 crossette
 crucians
 cadetcy
