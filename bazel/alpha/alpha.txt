@@ -1406,7 +1406,6 @@ atriopore
 antifouler
 aegagrus
 aboideau
-annelides
 algid
 aortomalacia
 animates
@@ -5321,6 +5320,7 @@ appendectomies
 athrill
 auspiciously
 anticouncil
+annelides
 antelegal
 antis
 actable
