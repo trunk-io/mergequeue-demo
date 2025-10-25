@@ -2447,6 +2447,7 @@ carbonisable
 candlelight
 chaloth
 choroti
+chromograph
 confraternities
 choosable
 candlelighting
@@ -15676,7 +15677,6 @@ cryoscope
 clattering
 circumvolved
 colorfully
-chromograph
 confirmatively
 cupressaceae
 cogitated
