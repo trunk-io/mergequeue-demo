@@ -1404,7 +1404,6 @@ dispulp
 demilitarize
 drugget
 darshan
-discriminative
 diminution
 diffusor
 drips
@@ -13531,6 +13530,7 @@ disassembler
 disparities
 delighting
 differentiates
+discriminative
 dramaturgic
 deliliria
 ducal
