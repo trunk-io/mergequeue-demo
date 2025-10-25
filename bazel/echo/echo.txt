@@ -1118,7 +1118,6 @@ emetics
 eme
 electrophotometer
 erigenia
-enneastyle
 exedent
 eudendrium
 endgame
@@ -7203,6 +7202,7 @@ explodent
 endosome
 epitonium
 evenlong
+enneastyle
 eons
 enchyma
 explicability
