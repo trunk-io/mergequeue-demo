@@ -1642,6 +1642,7 @@ ebriety
 escalloping
 electrophysiologic
 escallops
+electrostriction
 encapsulating
 eyepiece
 epitaxis
@@ -8015,7 +8016,6 @@ eggbeaters
 estadio
 excorticate
 exulting
-electrostriction
 emeries
 elytrous
 eeler
