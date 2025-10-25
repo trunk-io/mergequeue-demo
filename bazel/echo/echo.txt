@@ -3359,7 +3359,6 @@ exteroceptor
 exsomatic
 extraessential
 embrake
-ephebe
 epee
 elabor
 expounds
@@ -12841,6 +12840,7 @@ equigranular
 ereption
 empt
 ears
+ephebe
 enhances
 evidenced
 equilibratory
