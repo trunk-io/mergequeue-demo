@@ -21598,7 +21598,6 @@ coart
 centerer
 crescent
 cytology
-cankerworm
 customize
 concordatory
 crookback
@@ -28771,6 +28770,7 @@ consultable
 caravanning
 curran
 cummin
+cankerworm
 crandallite
 creosotes
 cocircularity
