@@ -6220,6 +6220,7 @@ bricklay
 bassing
 baggie
 bromin
+brewers
 barfly
 ballbuster
 begalling
@@ -7729,7 +7730,6 @@ bicephalous
 besoin
 buchnera
 bacca
-brewers
 bandersnatch
 bibacity
 blanco
