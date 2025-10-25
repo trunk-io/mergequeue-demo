@@ -12276,7 +12276,6 @@ enneacontahedron
 eyeline
 edeagra
 extoolitic
-excrete
 entete
 euphroe
 earthshaker
@@ -13446,6 +13445,7 @@ enterclose
 enfeebles
 exceptiveness
 ectosteal
+excrete
 electrolysed
 easers
 eskimoid
