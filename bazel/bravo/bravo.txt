@@ -6590,7 +6590,6 @@ biomass
 bistort
 bismuthine
 biographies
-broomstaff
 backspaced
 buffcoat
 belliferous
@@ -15568,6 +15567,7 @@ bookwright
 brongniardite
 blazon
 brodeglass
+broomstaff
 bulak
 berhyme
 braggishly
