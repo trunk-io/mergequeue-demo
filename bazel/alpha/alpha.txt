@@ -2229,7 +2229,6 @@ anthinae
 albuminiform
 ansi
 aul
-aweband
 amuse
 amenity
 anorthoscope
@@ -24997,6 +24996,7 @@ acarina
 atomist
 amphophil
 aedine
+aweband
 affidavit
 aliptes
 asking
