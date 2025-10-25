@@ -1147,6 +1147,7 @@ enzymes
 experimentally
 evanesced
 entraining
+explainableness
 expedientist
 ejulate
 embowelled
@@ -7331,7 +7332,6 @@ escheats
 epigrammatically
 epenthesize
 evildoer
-explainableness
 esloign
 elaiosome
 entrough
