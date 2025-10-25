@@ -1114,6 +1114,7 @@ coherently
 cytherea
 calciner
 capacify
+cypseline
 chomer
 clepes
 clamworm
@@ -1350,7 +1351,6 @@ calender
 civitas
 californian
 centerless
-cypseline
 comrade
 chelonian
 caliginous
