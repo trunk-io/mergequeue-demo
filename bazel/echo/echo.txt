@@ -6865,7 +6865,6 @@ emission
 entrainment
 endotracheal
 emboldener
-enbloc
 eutychian
 eurhodol
 electrochemist
@@ -10194,6 +10193,7 @@ excud
 emplume
 educables
 enneagon
+enbloc
 embryoniform
 exogeny
 exampleless
