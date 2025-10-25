@@ -5495,7 +5495,6 @@ eccoprotic
 elenchus
 embliss
 edeodynia
-epidotic
 entocyemate
 evincive
 encyclopaedical
@@ -8211,6 +8210,7 @@ echograph
 engrafts
 ecartes
 escoba
+epidotic
 eccentrically
 enterokinesia
 eardrum
