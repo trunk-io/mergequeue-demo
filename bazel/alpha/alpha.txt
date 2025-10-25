@@ -5036,7 +5036,6 @@ antihuman
 amydon
 architectural
 acetabula
-artificer
 abuna
 amortise
 arabesks
@@ -9395,6 +9394,7 @@ ammonium
 alquier
 andi
 accumulates
+artificer
 avshar
 adenophore
 amulet
