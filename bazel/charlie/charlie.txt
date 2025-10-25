@@ -12522,7 +12522,6 @@ caustification
 carrageen
 cavalrymen
 colport
-chifferobe
 crestless
 coachmaking
 chrysorin
@@ -28795,6 +28794,7 @@ caravanning
 curran
 cummin
 cankerworm
+chifferobe
 crandallite
 creosotes
 cocircularity
