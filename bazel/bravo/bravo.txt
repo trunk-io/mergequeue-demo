@@ -1209,6 +1209,7 @@ burman
 backropes
 bouquetiere
 bain
+bellum
 boreades
 bipedism
 bitmap
@@ -14247,7 +14248,6 @@ bepommel
 bestowal
 baikerite
 brazes
-bellum
 betwixen
 bractlets
 bugseed
