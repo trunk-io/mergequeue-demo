@@ -9710,7 +9710,6 @@ der
 doggle
 duodenoenterostomy
 digitron
-diadochokinetic
 dorsoventrally
 discontinuations
 dowsing
@@ -10474,6 +10473,7 @@ diphthongic
 delicti
 decisive
 detruck
+diadochokinetic
 dysfunction
 definitised
 dissyllabism
