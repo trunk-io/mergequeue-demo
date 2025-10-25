@@ -3184,6 +3184,7 @@ defend
 dainties
 dikast
 defrayment
+dragboat
 discumber
 deformed
 disobeyed
@@ -4272,7 +4273,6 @@ discloud
 deselected
 dibbers
 defiances
-dragboat
 dyslogy
 doubtably
 debtors
