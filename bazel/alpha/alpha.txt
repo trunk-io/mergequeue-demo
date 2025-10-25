@@ -1836,7 +1836,6 @@ allochthonous
 assizer
 accordaturas
 acmispon
-awave
 aldosteronism
 albococcus
 apparition
@@ -18376,6 +18375,7 @@ abstinent
 anacolutha
 aorist
 antiperistalsis
+awave
 anaglyphics
 arabist
 arclength
