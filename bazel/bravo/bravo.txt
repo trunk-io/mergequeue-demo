@@ -2585,6 +2585,7 @@ bumpy
 broadsword
 bismuthite
 beydom
+birefraction
 bitewing
 burdenless
 bedell
@@ -14148,7 +14149,6 @@ besmoke
 biscayen
 brachydome
 banes
-birefraction
 baptistic
 bombycidae
 brachydont
