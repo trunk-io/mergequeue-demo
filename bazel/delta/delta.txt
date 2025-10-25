@@ -4646,7 +4646,6 @@ dermatotome
 diwans
 dah
 dustyfoot
-drawtubes
 demilitarization
 disintegrable
 diagrams
@@ -5224,6 +5223,7 @@ didromy
 disparts
 dolldom
 decastyle
+drawtubes
 defuzing
 digestibleness
 diphtheroid
