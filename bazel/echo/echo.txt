@@ -1685,7 +1685,6 @@ embrocado
 exogamy
 enantiomeric
 ethnological
-exognathite
 essede
 epimorphic
 essoiner
@@ -12526,6 +12525,7 @@ erythroxylum
 elasmobranchiate
 ecclesiasticus
 eryngo
+exognathite
 entassment
 exculpation
 ergotaminine
