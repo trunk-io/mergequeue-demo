@@ -12876,7 +12876,6 @@ beclap
 boomslang
 bindable
 beekeeping
-bacterins
 besleeve
 barracan
 bonfire
@@ -13006,6 +13005,7 @@ bellis
 ballistocardiogram
 because
 bangwaketsi
+bacterins
 bookbinding
 burgherdom
 bushelage
