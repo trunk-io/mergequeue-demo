@@ -1591,6 +1591,7 @@ exaggerates
 excentricity
 eleventhly
 excuses
+enherit
 epilogue
 ensnaring
 elkwood
@@ -12296,7 +12297,6 @@ eranist
 encephaloscope
 endemical
 echinodorus
-enherit
 emeership
 ethide
 exopeptidase
