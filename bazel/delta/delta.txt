@@ -1726,7 +1726,6 @@ downed
 decad
 deathrates
 distriction
-deathsman
 diversional
 dumble
 dauerschlaf
@@ -6897,6 +6896,7 @@ deskman
 decamerous
 desks
 detested
+deathsman
 demonolatry
 desubstantiate
 dentelliere
