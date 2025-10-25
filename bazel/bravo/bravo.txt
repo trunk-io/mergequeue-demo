@@ -7937,7 +7937,6 @@ balza
 bicolors
 bicoloured
 basihyoid
-biblike
 badrans
 bastonite
 bustlers
@@ -13662,6 +13661,7 @@ buzzword
 borane
 bouge
 betacaine
+biblike
 brighella
 bioscopes
 banderillero
