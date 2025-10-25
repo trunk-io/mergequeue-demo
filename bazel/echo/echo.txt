@@ -7157,7 +7157,6 @@ ephelcystic
 eonism
 erysipelothrix
 eorhyolite
-extraparenchymal
 elytriform
 embroilments
 estrade
@@ -11280,6 +11279,7 @@ evolver
 electromagnets
 earthmover
 ectolecithal
+extraparenchymal
 endoskeletal
 engrossingness
 effervescible
