@@ -6984,7 +6984,6 @@ drollist
 diasyrm
 dipteron
 disoccupied
-despair
 dolent
 doctrinism
 deviability
@@ -10721,6 +10720,7 @@ decasyllabon
 dolven
 doebird
 dimerized
+despair
 dogget
 decisional
 diplomaing
