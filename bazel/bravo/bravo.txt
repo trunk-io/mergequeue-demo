@@ -301,7 +301,6 @@ bevesselled
 beacons
 ballottines
 bacilli
-botonnee
 boschbok
 banaba
 bldg
@@ -10499,6 +10498,7 @@ brythonic
 backwash
 bakestone
 biologistic
+botonnee
 breakables
 betelnuts
 bepastured
