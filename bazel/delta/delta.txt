@@ -5990,7 +5990,6 @@ dockside
 dismountable
 disorderedness
 degrader
-deceiver
 dados
 denigrative
 dobbers
@@ -9689,6 +9688,7 @@ dermatitis
 desegregation
 doghouses
 der
+deceiver
 doggle
 duodenoenterostomy
 digitron
