@@ -389,6 +389,7 @@ barnyards
 brookites
 brasserie
 builds
+battologist
 buckteeth
 banishments
 bonassus
@@ -2821,7 +2822,6 @@ bheesty
 barrage
 banger
 beflagged
-battologist
 boomy
 bolsterwork
 bodybuilders
