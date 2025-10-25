@@ -5862,7 +5862,6 @@ bemocking
 banns
 bestarve
 bimillenium
-bedpad
 brusquer
 bogwood
 bowhead
@@ -6074,6 +6073,7 @@ binzuru
 batches
 bucorvus
 breakback
+bedpad
 back
 bathyspheres
 bhangs
