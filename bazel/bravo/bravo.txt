@@ -3709,7 +3709,6 @@ brushlike
 blotty
 bishoplike
 bulldoze
-bassi
 bavian
 becudgelled
 botryoid
@@ -6878,6 +6877,7 @@ bigoniac
 boldos
 boltmaking
 bole
+bassi
 brasseys
 boomiest
 brachypinacoidal
