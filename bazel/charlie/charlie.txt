@@ -5448,7 +5448,6 @@ class
 crossopt
 cassinoid
 cholinesterase
-cord
 cothurnian
 cholecystoduodenostomy
 celtologue
@@ -15080,6 +15079,7 @@ circumambages
 coenobitism
 civilness
 coastward
+cord
 communicatory
 conveneries
 civism
