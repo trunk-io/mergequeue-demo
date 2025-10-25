@@ -10315,7 +10315,6 @@ ceilings
 clinometrical
 cadus
 chartographist
-counterpole
 coinfinite
 citoyens
 compurgatory
@@ -18684,6 +18683,7 @@ cella
 cellulose
 catallactics
 cinchonize
+counterpole
 chesil
 centrolinead
 coaged
