@@ -3060,7 +3060,6 @@ extracurriculum
 emitters
 epagomenal
 entonic
-electrothermostat
 epochal
 estive
 erective
@@ -8356,6 +8355,7 @@ electrocatalytic
 ern
 enablement
 eunomia
+electrothermostat
 emetically
 eretrian
 enterobiasis
