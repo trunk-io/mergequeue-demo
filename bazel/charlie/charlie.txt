@@ -2037,6 +2037,7 @@ chicayote
 casha
 consigner
 casseroled
+clover
 casher
 cultic
 cannons
@@ -4780,7 +4781,6 @@ communer
 cleavers
 conky
 cartel
-clover
 chondriosomes
 condylion
 chirp
