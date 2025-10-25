@@ -5400,7 +5400,6 @@ engraver
 endovaccination
 excerp
 esthesiogen
-eyebolts
 electronvolt
 ectene
 ebulus
@@ -7552,6 +7551,7 @@ exordiums
 enoughs
 extrusory
 echoized
+eyebolts
 exciton
 ectocrine
 excriminate
