@@ -3299,7 +3299,6 @@ battalion
 brandrith
 besieges
 bookshop
-baetyl
 bluegills
 boatings
 broncholithiasis
@@ -7994,6 +7993,7 @@ boxes
 bucketfull
 boastful
 bidden
+baetyl
 barrowist
 buttal
 bided
