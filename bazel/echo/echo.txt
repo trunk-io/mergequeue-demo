@@ -1561,7 +1561,6 @@ etherlike
 epicenter
 exosporous
 epineolithic
-enunciator
 enologist
 echolocate
 endogenicity
@@ -12286,6 +12285,7 @@ extoolitic
 euphroe
 earthshaker
 espave
+enunciator
 esonarthex
 extortionateness
 enameler
