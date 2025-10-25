@@ -893,7 +893,6 @@ buffaloes
 basifier
 ballastage
 brownism
-beverage
 bangladesh
 bounteous
 bandlessness
@@ -2676,6 +2675,7 @@ blanched
 barcarole
 bestials
 bromohydrate
+beverage
 bromvoel
 bordello
 bucketman
