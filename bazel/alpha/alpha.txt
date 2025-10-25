@@ -10847,6 +10847,7 @@ affreighter
 alleyway
 arkwright
 acrite
+antelopian
 architectonically
 anacard
 ammo
@@ -24168,7 +24169,6 @@ aeries
 adnexitis
 anabaena
 atmiatrics
-antelopian
 albolite
 albitical
 affectate
