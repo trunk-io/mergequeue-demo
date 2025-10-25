@@ -13949,7 +13949,6 @@ bombsights
 bromothymol
 boutell
 bromobenzyl
-bathypelagic
 badian
 bulgy
 bouncily
@@ -15628,6 +15627,7 @@ barful
 betrayers
 besmiled
 bredstitch
+bathypelagic
 bryony
 brangling
 brooklike
