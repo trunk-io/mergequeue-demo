@@ -2332,7 +2332,6 @@ corynite
 canceller
 civitan
 chelaship
-cuirassed
 cymbidium
 cancellus
 culicine
@@ -13583,6 +13582,7 @@ cedarn
 coguarantor
 coli
 cascabel
+cuirassed
 cymbalists
 cymbalon
 cumshaw
