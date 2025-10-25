@@ -1598,7 +1598,6 @@ electromobile
 excuses
 enherit
 epilogue
-ensnaring
 elkwood
 euphyllopoda
 evestar
@@ -13054,6 +13053,7 @@ encyclopediacal
 enantiomorphic
 episioplasty
 essentiality
+ensnaring
 elution
 ecotopic
 enchainments
