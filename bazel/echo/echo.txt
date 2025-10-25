@@ -2005,7 +2005,6 @@ electrocystoscope
 emeriti
 enterocyst
 endotheliomata
-emblematology
 embays
 encrustation
 ergophile
@@ -9252,6 +9251,7 @@ epilamellar
 echometer
 escopeta
 evulgate
+emblematology
 enameling
 eloine
 ectogenic
