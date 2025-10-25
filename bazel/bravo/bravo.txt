@@ -2968,7 +2968,6 @@ bordereau
 bsf
 bloodlike
 boglet
-beltless
 bartree
 buckleya
 banish
@@ -16174,6 +16173,7 @@ bullfights
 babiana
 bibs
 booleys
+beltless
 birr
 bootie
 bluebook
