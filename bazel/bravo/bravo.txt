@@ -1500,6 +1500,7 @@ bromhydrate
 blown
 benmost
 backsword
+baryon
 bornite
 brujas
 benzophenoxazine
@@ -14641,7 +14642,6 @@ brandenburgh
 brickliner
 bedright
 belong
-baryon
 behooped
 begiggle
 buckeroo
