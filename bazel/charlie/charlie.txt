@@ -8857,7 +8857,6 @@ cuya
 cenospecific
 cogman
 characins
-cityish
 charact
 cutouts
 commonable
@@ -29057,6 +29056,7 @@ crossbench
 crosse
 cheilotomy
 covariant
+cityish
 cricoid
 canarsee
 clergylike
