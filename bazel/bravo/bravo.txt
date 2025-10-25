@@ -2556,7 +2556,6 @@ briers
 breastwork
 boiko
 brackmard
-batman
 broncs
 byestreet
 bescoundrel
@@ -13350,6 +13349,7 @@ bucentaur
 bello
 botanies
 barefooted
+batman
 beatus
 becroak
 blepharostat
