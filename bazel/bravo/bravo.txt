@@ -7065,7 +7065,6 @@ bothropic
 beknots
 bandolier
 bloodied
-balopticon
 bezzo
 besra
 brutes
@@ -10715,6 +10714,7 @@ blearyeyedness
 begarnish
 beento
 buddhism
+balopticon
 bantin
 bobachee
 banqueted
