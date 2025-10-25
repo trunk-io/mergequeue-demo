@@ -8392,7 +8392,6 @@ chronostichon
 chrysolophus
 crossworder
 chilli
-centroid
 capricornid
 culrage
 cataleptic
@@ -27901,6 +27900,7 @@ corv
 cupronickel
 clof
 crowdie
+centroid
 coxae
 closely
 coeloscope
