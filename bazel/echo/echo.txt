@@ -10995,7 +10995,6 @@ enrank
 equipartisan
 earstone
 elementoid
-engarde
 enigmatical
 exiguously
 emetines
@@ -13331,6 +13330,7 @@ enthrong
 edgeless
 eudaemonical
 enslaves
+engarde
 eaglets
 electret
 enfavor
