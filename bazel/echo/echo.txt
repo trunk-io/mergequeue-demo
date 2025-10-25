@@ -4462,6 +4462,7 @@ expositive
 equalization
 encephalographic
 elargement
+electrotest
 electrolyte
 epitasis
 episematic
@@ -11446,7 +11447,6 @@ electrotelethermometer
 elations
 energeticist
 erodability
-electrotest
 evacuated
 enfester
 egomism
