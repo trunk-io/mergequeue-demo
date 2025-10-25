@@ -223,6 +223,7 @@ begripe
 ballard
 bandy
 bipartition
+beamers
 brython
 bitt
 bubble
@@ -11990,7 +11991,6 @@ batistes
 boggler
 barograms
 balcone
-beamers
 boggling
 biguttulate
 bessarabian
