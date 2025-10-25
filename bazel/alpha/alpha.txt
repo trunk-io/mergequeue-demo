@@ -2240,6 +2240,7 @@ aweband
 amuse
 amenity
 anorthoscope
+antiferroelectric
 acidulate
 adjacency
 amontillados
@@ -2711,7 +2712,6 @@ aphthong
 accidies
 anthropical
 aminobenzine
-antiferroelectric
 achaemenidae
 antimoralism
 avelonge
