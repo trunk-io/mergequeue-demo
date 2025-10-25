@@ -5226,7 +5226,6 @@ anthracia
 agnosticism
 amylum
 anchoret
-avoir
 anisopod
 affrightedly
 acarpellous
@@ -10505,6 +10504,7 @@ auxosubstance
 ataman
 anterointernal
 antireactive
+avoir
 amphithect
 apicolysis
 atrophoderma
