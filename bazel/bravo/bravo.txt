@@ -1897,7 +1897,6 @@ beleave
 bibionid
 bezzi
 brl
-boult
 bobcoat
 bias
 bookdom
@@ -9861,6 +9860,7 @@ bromatology
 benignant
 bitable
 blair
+boult
 bohemia
 balsamea
 brasen
