@@ -5108,6 +5108,7 @@ beleaguers
 boatloader
 backswordsman
 bughouses
+biologistic
 balaenid
 beggarhood
 bribri
@@ -10473,7 +10474,6 @@ blatjang
 brythonic
 backwash
 bakestone
-biologistic
 botonnee
 breakables
 breadwinner
