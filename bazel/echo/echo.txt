@@ -1555,7 +1555,6 @@ epicenter
 exosporous
 epineolithic
 enologist
-echolocate
 electrolysis
 endogenicity
 enophthalmus
@@ -3252,6 +3251,7 @@ erik
 estrayed
 essorant
 ermitophobia
+echolocate
 eutaxite
 evocation
 epiphyte
