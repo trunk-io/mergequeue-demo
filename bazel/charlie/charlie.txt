@@ -14759,7 +14759,6 @@ cites
 chernozem
 creekfish
 citharexylum
-cystathionine
 cygnets
 citronella
 citharoedi
@@ -31697,6 +31696,7 @@ cantatas
 climate
 careeners
 cur
+cystathionine
 cuspis
 cusps
 cuspule
