@@ -529,7 +529,6 @@ biserial
 brunonia
 briming
 befezzed
-bcd
 balatron
 bier
 brackishness
@@ -14055,6 +14054,7 @@ bewitch
 baseplate
 bolometrically
 bandog
+bcd
 bonesetter
 bismuthic
 balustrade
