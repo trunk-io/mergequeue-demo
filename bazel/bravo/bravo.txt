@@ -4661,7 +4661,6 @@ bits
 bawsint
 benzodiazole
 bronzy
-bhat
 babite
 bollox
 brandywine
@@ -4725,6 +4724,7 @@ benames
 bibliopegistical
 biotopes
 briefings
+bhat
 billionism
 bipinnated
 bastarda
