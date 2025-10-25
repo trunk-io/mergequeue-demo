@@ -3726,7 +3726,6 @@ dehydrogenate
 diaporesis
 desmepithelium
 devisable
-dethronable
 dehydrogenisation
 dehydrogenized
 demicaponier
@@ -16201,6 +16200,7 @@ derth
 deregulated
 drimys
 dyewood
+dethronable
 deterration
 denaturisation
 dextrinous
