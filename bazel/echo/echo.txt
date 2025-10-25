@@ -3626,7 +3626,6 @@ encephalomas
 ecballium
 etiotropic
 encephalophyma
-exterritorial
 eyeservice
 everyday
 erythroglucin
@@ -10948,6 +10947,7 @@ extradictionary
 eglandular
 electroretinograph
 epidictical
+exterritorial
 enworthy
 edeitis
 extracellular
