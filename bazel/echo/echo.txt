@@ -2992,7 +2992,6 @@ eccentric
 equerries
 exonym
 echinorhynchus
-epidiorthosis
 engraffing
 esophagoscope
 eyecup
@@ -7432,6 +7431,7 @@ epithelia
 enumeration
 elderhood
 erenow
+epidiorthosis
 eucrasite
 enfeoffs
 exing
