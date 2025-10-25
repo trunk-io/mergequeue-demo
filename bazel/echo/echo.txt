@@ -2955,6 +2955,7 @@ ebcasc
 equiangle
 epicolic
 east
+epigrammatizer
 entire
 emotionalization
 epuration
@@ -8005,7 +8006,6 @@ enfollow
 eggbeaters
 estadio
 excorticate
-epigrammatizer
 exulting
 emeries
 eeler
