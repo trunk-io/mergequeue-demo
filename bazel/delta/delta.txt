@@ -394,6 +394,7 @@ diptychon
 daimiel
 durdenite
 daimyo
+dragrope
 dihydrated
 daimios
 daimyos
@@ -11987,7 +11988,6 @@ descries
 disbloom
 dentifrices
 degum
-dragrope
 dimensuration
 diesels
 diarian
