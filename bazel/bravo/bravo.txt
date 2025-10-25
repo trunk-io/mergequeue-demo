@@ -3384,6 +3384,7 @@ byroads
 bals
 barrel
 bonagh
+beerocracy
 benempted
 becater
 benchful
@@ -5707,7 +5708,6 @@ bellota
 bepaid
 bidactyle
 bandogs
-beerocracy
 butcherly
 bargainer
 burghal
