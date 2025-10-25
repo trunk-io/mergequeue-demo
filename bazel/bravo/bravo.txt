@@ -4176,6 +4176,7 @@ bushelful
 becheck
 bechic
 barres
+berapt
 brownier
 broommaking
 bechignoned
@@ -17638,7 +17639,6 @@ bitripartite
 burgraves
 bowdlerized
 boehmeria
-berapt
 bannisters
 bulldozes
 bismuthate
