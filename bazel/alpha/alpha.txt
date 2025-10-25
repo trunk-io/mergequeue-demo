@@ -9795,6 +9795,7 @@ amperage
 attended
 autoxidizer
 afterdischarge
+asbolite
 alcoholizing
 agentry
 awakened
@@ -24351,7 +24352,6 @@ allocthonous
 anorgana
 autoxeny
 antipacifism
-asbolite
 alphabetics
 albrecht
 archduchess
