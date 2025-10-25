@@ -423,7 +423,6 @@ biomorphic
 balldress
 beknotting
 briseis
-becrust
 bindingness
 beggardom
 bushman
@@ -7214,6 +7213,7 @@ betel
 baseboards
 bilked
 bambuba
+becrust
 bizonal
 breve
 blastier
