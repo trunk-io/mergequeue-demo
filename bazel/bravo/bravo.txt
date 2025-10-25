@@ -130,7 +130,6 @@ bident
 bewrathed
 bocces
 burlies
-bchs
 balu
 brookite
 brachycephales
@@ -3219,6 +3218,7 @@ bletheration
 basnat
 basoid
 blennoma
+bchs
 bayberries
 blindages
 bellote
