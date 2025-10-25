@@ -1863,6 +1863,7 @@ cartonnage
 cambricleaf
 colobus
 curs
+carpetmonger
 campstools
 cambridge
 chaumer
@@ -9015,7 +9016,6 @@ charisms
 corposant
 charisticary
 coquettish
-carpetmonger
 colloq
 charities
 caridoid
