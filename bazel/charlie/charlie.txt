@@ -18217,6 +18217,7 @@ configures
 closefitting
 clothlike
 changefulness
+concretor
 coestablishment
 cooperativeness
 cassaba
@@ -21642,7 +21643,6 @@ covertness
 crosstrack
 concretive
 concurso
-concretor
 caulotaxis
 cupuliform
 college
