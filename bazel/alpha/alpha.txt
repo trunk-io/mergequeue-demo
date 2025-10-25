@@ -4905,6 +4905,7 @@ atterrate
 addax
 aerophobic
 acinus
+aulostomid
 asgmt
 alutaceous
 apron
@@ -14223,7 +14224,6 @@ ahungry
 anthypophora
 aedilities
 antirumor
-aulostomid
 autorotation
 acceders
 ajonjoli
