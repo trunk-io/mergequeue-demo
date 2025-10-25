@@ -1590,6 +1590,7 @@ courtrooms
 collectibles
 calmed
 coscet
+collisive
 copperize
 cylindraceous
 curcuddoch
@@ -3323,7 +3324,6 @@ coumarous
 cynebot
 capsizal
 commissioned
-collisive
 cabalistical
 capsizing
 carter
