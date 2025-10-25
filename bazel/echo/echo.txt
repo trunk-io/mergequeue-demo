@@ -3381,6 +3381,7 @@ enmities
 embarring
 endoderms
 ectrodactylism
+entrails
 extremuma
 encaged
 ethnarchy
@@ -12408,7 +12409,6 @@ estrangle
 erosiveness
 endamageable
 expanding
-entrails
 enchorial
 egis
 escrime
