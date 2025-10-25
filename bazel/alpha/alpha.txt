@@ -10086,7 +10086,6 @@ asaphic
 astur
 avesta
 anazoturia
-allergology
 amblygonite
 assafetida
 ambulacra
@@ -15420,6 +15419,7 @@ antilift
 aramitess
 aggregator
 altschin
+allergology
 antilysin
 alives
 albumin
