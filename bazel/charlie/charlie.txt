@@ -28893,7 +28893,6 @@ character
 cantharus
 catnapers
 cteniform
-cleanable
 cassena
 countertail
 coralbush
@@ -29351,6 +29350,7 @@ cair
 caudaite
 calcify
 carosella
+cleanable
 circulators
 counterdemonstration
 cryptodirous
