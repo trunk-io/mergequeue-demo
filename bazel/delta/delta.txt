@@ -5975,6 +5975,7 @@ dhurrie
 defeatee
 dockside
 disorderedness
+darted
 degrader
 deceiver
 dorsimeson
@@ -7141,7 +7142,6 @@ disoccluded
 diomedeidae
 disherits
 disvalues
-darted
 didynamia
 dioxids
 daygoing
