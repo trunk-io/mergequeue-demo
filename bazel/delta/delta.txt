@@ -5597,7 +5597,6 @@ daiquiri
 dialectologer
 depicture
 dissentient
-directexamination
 dinnery
 dortiship
 delphinoid
@@ -6564,6 +6563,7 @@ dreamtime
 disqualification
 doorframe
 disembocation
+directexamination
 dishful
 disennoble
 demounted
