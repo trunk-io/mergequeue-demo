@@ -5984,7 +5984,6 @@ bonnes
 brothered
 biolith
 beni
-behusband
 bends
 bedframes
 bodleian
@@ -9972,6 +9971,7 @@ branchage
 buntings
 bulls
 balausta
+behusband
 bedstring
 blowby
 biscuitry
