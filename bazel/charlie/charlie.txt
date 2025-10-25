@@ -4258,7 +4258,6 @@ cephalotus
 chantant
 convenient
 cruces
-captacula
 claustral
 carillonning
 capitoulate
@@ -23455,6 +23454,7 @@ consumptives
 cerias
 consute
 coadaptation
+captacula
 cabmen
 coalhole
 corrades
