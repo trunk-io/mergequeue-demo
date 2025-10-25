@@ -1666,6 +1666,7 @@ blasthole
 boucles
 beneplacit
 basongo
+bichromatic
 become
 belight
 biobibliographies
@@ -16891,7 +16892,6 @@ boehmite
 burnewin
 biomaterial
 burhead
-bichromatic
 banstickle
 bacillus
 bathyorographical
