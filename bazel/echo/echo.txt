@@ -7510,7 +7510,6 @@ ecstaticize
 euphonym
 extolment
 espinos
-epipelagic
 editresses
 efflorescency
 enfeoffing
@@ -10909,6 +10908,7 @@ eprise
 electropuncture
 emittent
 embarcadero
+epipelagic
 endotoxoid
 erector
 ergotine
