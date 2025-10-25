@@ -6622,7 +6622,6 @@ bardolatry
 bushtit
 boomboat
 bailo
-becovet
 bods
 buhlwork
 bracketed
@@ -14764,6 +14763,7 @@ bourgeoning
 bayonetted
 briolet
 bernard
+becovet
 brutter
 barytas
 biocentric
