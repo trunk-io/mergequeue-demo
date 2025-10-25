@@ -4635,6 +4635,7 @@ ephesine
 electrostatic
 escocheon
 elsewhere
+evaporations
 eelbobber
 enchytraeus
 enteria
@@ -13039,7 +13040,6 @@ episioplasty
 essentiality
 elution
 ecotopic
-evaporations
 enchainments
 elains
 epitoke
