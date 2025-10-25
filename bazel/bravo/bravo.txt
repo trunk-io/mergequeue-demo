@@ -3253,7 +3253,6 @@ bald
 bottle
 bluebill
 bonelessness
-boreable
 breastweed
 bakshish
 brewed
@@ -12660,6 +12659,7 @@ buckthorn
 balloonfishes
 brogueful
 bloke
+boreable
 bartram
 basaltine
 bumpsy
