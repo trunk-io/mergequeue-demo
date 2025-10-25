@@ -10353,7 +10353,6 @@ chico
 coryneum
 crypticness
 currencies
-carryover
 closings
 carnivorous
 creamed
@@ -20897,6 +20896,7 @@ circleting
 carded
 crummable
 coercement
+carryover
 cordierite
 cenotaphs
 cymation
