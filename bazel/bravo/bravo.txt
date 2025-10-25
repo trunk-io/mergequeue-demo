@@ -3622,7 +3622,6 @@ brownweed
 blowpipe
 bluejays
 befouler
-beshear
 bregmata
 beachwear
 bradypodidae
@@ -8403,6 +8402,7 @@ bostangi
 billed
 balks
 beteach
+beshear
 bridehead
 byliny
 bergman
