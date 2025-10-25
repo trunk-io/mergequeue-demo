@@ -2145,7 +2145,6 @@ entification
 equality
 empassion
 epeisodia
-encompass
 ethnal
 epicleses
 entranceway
@@ -4014,6 +4013,7 @@ elytron
 economese
 excruciator
 enters
+encompass
 erythrocytes
 exopoditic
 exported
