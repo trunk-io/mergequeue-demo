@@ -5488,7 +5488,6 @@ eten
 eleazar
 exterminate
 effectful
-endangered
 entheasm
 earthquake
 euxenite
@@ -8226,6 +8225,7 @@ extraparliamentary
 econometrics
 expropriable
 estable
+endangered
 encrownment
 emotionist
 epagomenae
