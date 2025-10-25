@@ -2029,7 +2029,6 @@ backgeared
 babai
 bannat
 bannerline
-bivalents
 baroswitch
 belitter
 brokery
@@ -9815,6 +9814,7 @@ bargains
 brachium
 beatific
 boddle
+bivalents
 bookwork
 brilliolette
 brigandish
