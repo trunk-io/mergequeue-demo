@@ -2595,7 +2595,6 @@ decommission
 decommissioned
 dozers
 densifying
-demagnetizable
 decurvature
 dispersibility
 diver
@@ -13491,6 +13490,7 @@ degrade
 duridine
 disroof
 depiction
+demagnetizable
 disrooting
 dowress
 deepwater
