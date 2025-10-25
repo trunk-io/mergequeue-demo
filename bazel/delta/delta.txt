@@ -1576,7 +1576,6 @@ devised
 dermoossification
 dunkirker
 doko
-diacritical
 dapping
 desuetude
 durr
@@ -17011,6 +17010,7 @@ demorage
 diptychs
 doodia
 dreepy
+diacritical
 diadrome
 designees
 defilement
