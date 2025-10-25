@@ -14544,7 +14544,6 @@ bostons
 bingle
 boatyards
 balneotherapeutics
-bedoctor
 bractlet
 beerily
 brushback
@@ -17956,6 +17955,7 @@ barkle
 bedot
 bodgery
 betso
+bedoctor
 bloomier
 banzai
 betear
