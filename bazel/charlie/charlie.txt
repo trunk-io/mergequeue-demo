@@ -3222,7 +3222,6 @@ cheesiness
 chromatogram
 capper
 capons
-caporal
 curtain
 cerasus
 ceratinous
@@ -5771,6 +5770,7 @@ conveyors
 coholder
 crushable
 cartbote
+caporal
 cortically
 coreopsis
 couter
