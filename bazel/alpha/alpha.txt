@@ -12046,6 +12046,7 @@ aljama
 anarthrousness
 antibubonic
 assassinate
+allheals
 avionics
 archaeological
 anas
@@ -14578,7 +14579,6 @@ aerodromes
 amphidiploid
 astrier
 avowed
-allheals
 anthropomorphised
 admass
 archiprelatical
