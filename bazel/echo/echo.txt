@@ -9846,7 +9846,6 @@ enrich
 enfolds
 esca
 encampments
-extratropical
 envolume
 extranormal
 endorses
@@ -12194,6 +12193,7 @@ everywoman
 equally
 exfiltrate
 exploiter
+extratropical
 exaggerator
 epiparasite
 eponychium
