@@ -2211,6 +2211,7 @@ bashes
 blowflies
 benchmar
 bolimba
+baalim
 barleducs
 bibliothque
 beleaping
@@ -15304,7 +15305,6 @@ bridals
 brimstonewort
 biomedicine
 bowe
-baalim
 bacteriologist
 bioptic
 blooddrop
