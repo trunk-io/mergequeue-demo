@@ -820,6 +820,7 @@ brambliest
 bewrayers
 bedsprings
 barites
+bkg
 brined
 benzalcohol
 boon
@@ -10098,7 +10099,6 @@ barrancos
 butties
 bunkload
 bk
-bkg
 bullition
 backsey
 besmutted
