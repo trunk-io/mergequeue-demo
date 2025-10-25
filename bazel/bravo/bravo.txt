@@ -3586,7 +3586,6 @@ bootless
 bookstore
 basocyte
 barrace
-bodgie
 boffos
 boffolas
 blushiness
@@ -6735,6 +6734,7 @@ birota
 brewer
 brechites
 boo
+bodgie
 baktun
 boltings
 botrytises
