@@ -414,7 +414,6 @@ binotic
 bdelloid
 barbarism
 backgammon
-booklores
 barbarical
 boydom
 bogglebo
@@ -13665,6 +13664,7 @@ bromides
 beknived
 blennemesis
 beclouding
+booklores
 baccillum
 bungarum
 billeted
