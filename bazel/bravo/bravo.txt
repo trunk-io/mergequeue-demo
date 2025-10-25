@@ -717,6 +717,7 @@ bongo
 balat
 brink
 bow
+biniou
 badiaga
 boiler
 boneshaw
@@ -12552,7 +12553,6 @@ bactrites
 bonfires
 bannimus
 beaus
-biniou
 blackballed
 billboards
 bobsledder
