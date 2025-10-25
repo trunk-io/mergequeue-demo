@@ -442,6 +442,7 @@ extensors
 engrandizement
 embouchement
 electrocute
+electrophone
 eagres
 exhale
 echappe
@@ -4644,7 +4645,6 @@ electorally
 emergences
 electrodynamics
 empyreuma
-electrophone
 elisha
 etherolate
 equiatomic
