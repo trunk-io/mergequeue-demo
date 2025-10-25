@@ -9689,7 +9689,6 @@ ciceronianize
 codman
 cheetul
 cheezit
-chef
 chefs
 chlordiazepoxide
 chego
@@ -29353,6 +29352,7 @@ clime
 cryptodynamic
 concentus
 cryohydrate
+chef
 cair
 caudaite
 calcify
