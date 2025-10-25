@@ -6894,6 +6894,7 @@ electromedical
 eyebath
 endotheliomas
 enabled
+erotism
 eudeve
 eroteme
 ethyne
@@ -13560,7 +13561,6 @@ etceteras
 excavates
 epiglottic
 eyepieces
-erotism
 engorging
 enstatolite
 expectorant
