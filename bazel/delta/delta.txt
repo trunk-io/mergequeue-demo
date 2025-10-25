@@ -3469,6 +3469,7 @@ deaccessions
 delete
 danes
 dorsosternal
+dorsicollar
 displodes
 dole
 debus
@@ -13207,7 +13208,6 @@ damasks
 dichocarpism
 downsinking
 druidism
-dorsicollar
 domic
 dannock
 downier
