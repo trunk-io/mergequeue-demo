@@ -8245,7 +8245,6 @@ bromins
 billheads
 beacon
 barotropic
-buzukis
 bioelectrogenesis
 bedriddenness
 bioxalate
@@ -8516,6 +8515,7 @@ ballcarrier
 bacaba
 backfold
 bullpoll
+buzukis
 bubalis
 bagasse
 brimstony
