@@ -223,7 +223,6 @@ begripe
 ballard
 bandy
 bipartition
-beamers
 brython
 bitt
 bubble
@@ -11554,6 +11553,7 @@ bathos
 balladries
 blesse
 burntweed
+beamers
 burgality
 buckayro
 bermudas
