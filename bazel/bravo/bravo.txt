@@ -2594,6 +2594,7 @@ bacteriolysin
 bumpy
 broadsword
 bismuthite
+beydom
 bitewing
 burdenless
 bedell
@@ -17166,7 +17167,6 @@ biannually
 benthic
 brontides
 busky
-beydom
 barmen
 bim
 bullion
