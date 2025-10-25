@@ -2057,6 +2057,7 @@ eleusine
 enthelminthes
 externat
 emperish
+excluded
 eland
 embryologists
 embryogeny
@@ -9988,7 +9989,6 @@ eikonogen
 excoriations
 engirdled
 eably
-excluded
 erick
 ephydridae
 etymologist
