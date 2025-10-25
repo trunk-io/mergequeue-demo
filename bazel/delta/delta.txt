@@ -10028,6 +10028,7 @@ disweapon
 dobe
 dogfaces
 daydawn
+dicyanid
 demurring
 demibastioned
 ducting
@@ -16449,7 +16450,6 @@ dr
 democratist
 draba
 daphnetin
-dicyanid
 daemon
 drabant
 decurionate
