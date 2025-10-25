@@ -1648,7 +1648,6 @@ endosporous
 egomanias
 erythremia
 enable
-epitonium
 exampled
 eminence
 exenteration
@@ -7200,6 +7199,7 @@ empolder
 epa
 explodent
 endosome
+epitonium
 evenlong
 eons
 enchyma
