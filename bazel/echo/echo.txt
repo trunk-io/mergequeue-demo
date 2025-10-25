@@ -5186,7 +5186,6 @@ executed
 epipolic
 endocrinic
 ergs
-ecdysones
 ependytes
 emanant
 endodontically
@@ -9162,6 +9161,7 @@ eophyton
 europa
 earable
 ephemeron
+ecdysones
 espringal
 encanker
 emane
