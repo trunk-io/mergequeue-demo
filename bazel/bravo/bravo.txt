@@ -3441,7 +3441,6 @@ bescorching
 bestrow
 balon
 bromogelatin
-buddies
 barricade
 borers
 biorhythm
@@ -10252,6 +10251,7 @@ boredom
 bota
 braced
 brelan
+buddies
 blondish
 burgonets
 blennorrhoea
