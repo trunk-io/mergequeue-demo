@@ -171,7 +171,6 @@ breaklist
 basters
 belay
 bourne
-becolme
 banister
 beauseant
 bracingly
@@ -11106,6 +11105,7 @@ backscratcher
 buffoonish
 byzants
 batten
+becolme
 basilican
 blanca
 brominating
