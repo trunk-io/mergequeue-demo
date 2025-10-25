@@ -8521,7 +8521,6 @@ eikon
 estray
 epiphytes
 ethnobiological
-encephalous
 ethicist
 evaluators
 enchondromas
@@ -9613,6 +9612,7 @@ enchest
 epinaos
 endothermous
 evangelistaries
+encephalous
 eburine
 epiphyseolysis
 etherializing
