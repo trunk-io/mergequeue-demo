@@ -4028,7 +4028,6 @@ beadlike
 beamless
 bundy
 bushhammer
-bakerite
 bulkheads
 beaufet
 belittling
@@ -6223,6 +6222,7 @@ beakhead
 benzanthrone
 bricklay
 bassing
+bakerite
 baggie
 bromin
 brewers
