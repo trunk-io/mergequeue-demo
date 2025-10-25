@@ -7386,7 +7386,6 @@ escalier
 encamp
 evg
 electrothermotic
-exedral
 entitule
 examinant
 eolipiles
@@ -12707,6 +12706,7 @@ epistylar
 estates
 erythropenia
 erodible
+exedral
 ethinyls
 eyrir
 esses
