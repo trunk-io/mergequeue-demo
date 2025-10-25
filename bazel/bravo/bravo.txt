@@ -2018,7 +2018,6 @@ bannerline
 bivalents
 baroswitch
 belitter
-bebuttoned
 brokery
 beknot
 brisances
@@ -12146,6 +12145,7 @@ biberon
 barrelwise
 budding
 buhr
+bebuttoned
 bakerlike
 baradari
 bostal
