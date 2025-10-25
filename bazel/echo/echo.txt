@@ -3726,7 +3726,6 @@ electrolyzer
 evilhearted
 endurer
 elevatedness
-electant
 epitympanum
 emirship
 exuberance
@@ -13243,6 +13242,7 @@ extraparenchymal
 encoring
 encomendero
 explanations
+electant
 easygoingness
 enact
 earlyish
