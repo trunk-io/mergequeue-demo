@@ -11543,7 +11543,6 @@ chokeys
 camerata
 choker
 capotastos
-coredeemed
 cenobitical
 corial
 clipsheet
@@ -19675,6 +19674,7 @@ chondrosarcomas
 corpuscles
 cymbocephalic
 curate
+coredeemed
 chaetopodous
 cyphella
 camelot
