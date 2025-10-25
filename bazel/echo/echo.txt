@@ -641,6 +641,7 @@ equidistant
 embox
 enode
 equestrienne
+electricity
 elseways
 encrusting
 exsibilate
@@ -13835,7 +13836,6 @@ extracloacal
 emplanement
 ergatocracy
 excerebrate
-electricity
 eustathian
 eupeptically
 eclegma
