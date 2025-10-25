@@ -2565,6 +2565,7 @@ evector
 enchannel
 enquiries
 encephalosepsis
+enstore
 electrotonize
 equable
 entomb
@@ -12643,7 +12644,6 @@ expansive
 epilogize
 epizooty
 envault
-enstore
 echolocation
 extradict
 evader
