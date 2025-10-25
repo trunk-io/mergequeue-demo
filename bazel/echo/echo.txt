@@ -1915,7 +1915,6 @@ enterfeat
 exigible
 epigastriocele
 epitritic
-endoclinal
 encyclopedist
 estipulate
 ecphrasis
@@ -4129,6 +4128,7 @@ exstill
 euphorbiaceous
 emusify
 equiconvex
+endoclinal
 exla
 encallow
 ensilate
