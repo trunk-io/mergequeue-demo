@@ -2600,7 +2600,6 @@ embryophyte
 extraperiodic
 extendibility
 engenderment
-erasable
 euchloric
 endobatholithic
 evzone
@@ -12212,6 +12211,7 @@ episomes
 externally
 erythropsia
 embound
+erasable
 erotized
 eldritch
 entone
