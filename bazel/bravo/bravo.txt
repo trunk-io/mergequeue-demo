@@ -13701,7 +13701,6 @@ beclouding
 booklores
 baccillum
 bungarum
-billeted
 bedsonias
 brine
 breakup
@@ -15248,6 +15247,7 @@ brinjarry
 beback
 buceros
 boullework
+billeted
 barnier
 briard
 blocs
