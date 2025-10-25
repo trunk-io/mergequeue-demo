@@ -2206,6 +2206,7 @@ barbarities
 buffeting
 bossiness
 bashes
+browser
 batterman
 blowflies
 benchmar
@@ -8387,7 +8388,6 @@ beclog
 bothriocidaris
 best
 bilinguar
-browser
 bostangi
 billed
 balks
