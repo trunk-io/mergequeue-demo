@@ -1282,6 +1282,7 @@ eosphorite
 electrothermic
 exorcizer
 esterlin
+exponency
 electroanalytical
 endpiece
 epicyclic
@@ -8748,7 +8749,6 @@ enations
 ergotoxine
 essive
 embroilment
-exponency
 estrepe
 enspheres
 extranidal
