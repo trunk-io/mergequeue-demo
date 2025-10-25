@@ -1847,6 +1847,7 @@ chemosphere
 cliffed
 claviceps
 cambouis
+chromatologies
 clonked
 chlorophoenicite
 cuvy
@@ -10805,7 +10806,6 @@ convito
 cheapos
 cowbell
 cofane
-chromatologies
 chalkcutter
 chesterbed
 chorisos
