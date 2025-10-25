@@ -6476,7 +6476,6 @@ betons
 biopsies
 bal
 boanbura
-birthroot
 babacoote
 bucktails
 bedawee
@@ -14461,6 +14460,7 @@ balbutiate
 briquet
 bonebinder
 bellicist
+birthroot
 brachiferous
 bestriding
 barothermohygrogram
