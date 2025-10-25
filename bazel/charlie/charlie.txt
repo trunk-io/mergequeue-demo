@@ -15395,6 +15395,7 @@ campings
 collogues
 conquests
 chapstick
+chapleted
 critter
 calluses
 cooner
@@ -15823,7 +15824,6 @@ cellists
 charitableness
 cleanse
 charadrius
-chapleted
 centrarchidae
 chappaul
 cleansers
