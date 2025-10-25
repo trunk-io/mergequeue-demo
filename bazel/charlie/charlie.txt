@@ -17362,6 +17362,7 @@ chemigraph
 cimline
 coassist
 calumniation
+cartularies
 comprehended
 coassume
 crystallic
@@ -27533,7 +27534,6 @@ courtepy
 courter
 cafeneh
 curites
-cartularies
 centenier
 citriculturist
 courtesanship
