@@ -2739,7 +2739,6 @@ cursitor
 colius
 canoeist
 chimakuan
-coast
 canoes
 cowcatcher
 cardiogenesis
@@ -9061,6 +9060,7 @@ comitiva
 coreductase
 charmel
 cervantist
+coast
 charmless
 claiborne
 charmonium
