@@ -25517,6 +25517,7 @@ cogweel
 carfloat
 cajaputs
 cloth
+cupule
 cabernet
 cornhusking
 chemotherapeutics
@@ -31185,7 +31186,6 @@ crosslets
 croissante
 councilman
 carditic
-cupule
 convertible
 criniparous
 ceratophyte
