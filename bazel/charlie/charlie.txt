@@ -2835,7 +2835,6 @@ cyrtograph
 corsetless
 curling
 craw
-cantharic
 cantharidae
 creativeness
 chloroma
@@ -4753,6 +4752,7 @@ corporation
 caridomorpha
 communicably
 cementation
+cantharic
 carrousel
 circumfused
 carrousels
