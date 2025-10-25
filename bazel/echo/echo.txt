@@ -3047,6 +3047,7 @@ elm
 extracurriculum
 emitters
 epagomenal
+entonic
 electrothermostat
 epochal
 estive
@@ -8698,7 +8699,6 @@ ergatocrat
 electrocatalysis
 ethnopsychological
 embryonally
-entonic
 econometrical
 ethenoidal
 eogaea
