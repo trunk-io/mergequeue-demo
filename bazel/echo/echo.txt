@@ -6603,6 +6603,7 @@ edicts
 emplastration
 essart
 emunge
+equisetaceae
 equilibrant
 embossers
 eskimo
@@ -10222,7 +10223,6 @@ etwee
 euthyroid
 extremity
 euboean
-equisetaceae
 epididymal
 eurylaimoid
 emerita
