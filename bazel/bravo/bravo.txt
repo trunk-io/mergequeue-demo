@@ -14139,7 +14139,6 @@ beslipper
 bl
 barfs
 bouquets
-brimful
 bebusy
 besetter
 blesboks
@@ -17990,6 +17989,7 @@ bryologist
 bleeze
 barracked
 bind
+brimful
 bootmaking
 bonnock
 ballyragging
