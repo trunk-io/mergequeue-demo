@@ -5449,7 +5449,6 @@ emptiers
 ecology
 extravagantness
 embarrassed
-endwise
 empetraceae
 exhibiting
 exospheres
@@ -9407,6 +9406,7 @@ euascomycetes
 exciters
 extraocular
 eupad
+endwise
 explode
 exstipulate
 espino
