@@ -3677,7 +3677,6 @@ bakelite
 boarfishes
 burrow
 bitterbrush
-bruised
 bandores
 beaverkin
 bulgur
@@ -5150,6 +5149,7 @@ berseems
 bradawl
 bunking
 bicornuate
+bruised
 bullism
 butterpaste
 brummagen
