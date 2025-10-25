@@ -8951,7 +8951,6 @@ archdetective
 absences
 agonia
 acetylbenzene
-afflicts
 ates
 ambles
 advisy
@@ -11048,6 +11047,7 @@ archecentric
 aquiclude
 adelphophagy
 armorician
+afflicts
 anticritic
 autotrophic
 amygdalinic
