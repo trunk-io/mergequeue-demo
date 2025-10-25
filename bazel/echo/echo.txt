@@ -1364,7 +1364,6 @@ eutrophication
 entasias
 efoliose
 estrogenicity
-extrathermodynamic
 efts
 ecphractic
 eddy
@@ -7390,6 +7389,7 @@ escalier
 encamp
 evg
 electrothermotic
+extrathermodynamic
 entitule
 examinant
 eolipiles
