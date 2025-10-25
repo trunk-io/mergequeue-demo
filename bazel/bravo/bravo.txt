@@ -3401,6 +3401,7 @@ bals
 barrel
 bonagh
 beerocracy
+bulak
 benempted
 becater
 benchful
@@ -15574,7 +15575,6 @@ brongniardite
 blazon
 brodeglass
 broomstaff
-bulak
 berhyme
 braggishly
 bevvy
