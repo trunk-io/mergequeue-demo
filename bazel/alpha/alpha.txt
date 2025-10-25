@@ -2225,7 +2225,6 @@ albuminiform
 ansi
 aul
 aweband
-amuse
 amenity
 amphichrome
 anorthoscope
@@ -8383,6 +8382,7 @@ ammonal
 antileak
 abecedarium
 ahum
+amuse
 amarelle
 aliquant
 adamas
