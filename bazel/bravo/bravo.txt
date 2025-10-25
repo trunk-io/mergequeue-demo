@@ -4002,7 +4002,6 @@ boozy
 brumstane
 beastman
 ber
-barbets
 birthy
 balzarine
 beatae
@@ -13786,6 +13785,7 @@ boosts
 belowstairs
 budorcas
 besprinkled
+barbets
 bullcart
 brachycnemic
 blanketlike
