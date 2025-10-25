@@ -2340,7 +2340,6 @@ ennoblers
 exhaustion
 excretory
 embiid
-entrail
 elegancies
 espouser
 eisteddfod
@@ -11944,6 +11943,7 @@ epigraph
 exacter
 expellee
 emceed
+entrail
 engarb
 entocranial
 epineural
