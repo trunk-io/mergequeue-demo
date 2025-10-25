@@ -11974,7 +11974,6 @@ broommaker
 bloomiest
 brainsick
 bogeymen
-behav
 biggening
 barrio
 belch
@@ -15623,6 +15622,7 @@ behallow
 byliners
 bereshith
 bestreak
+behav
 betakes
 balmlike
 beforetimes
