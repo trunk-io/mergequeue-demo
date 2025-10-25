@@ -5691,6 +5691,7 @@ easinesses
 entailment
 ecthetically
 evolvent
+evolving
 epural
 emicate
 exameter
@@ -9561,7 +9562,6 @@ exomphalus
 equity
 enucleating
 epical
-evolving
 elaphodus
 emboli
 econometrician
