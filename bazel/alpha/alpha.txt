@@ -3265,7 +3265,6 @@ accidentals
 abietinic
 amiably
 anagrams
-alpinely
 ao
 aphicidal
 armill
@@ -6459,6 +6458,7 @@ alcyonaria
 ahaunch
 actinostomal
 accidentally
+alpinely
 ahey
 attenuating
 anacalypsis
