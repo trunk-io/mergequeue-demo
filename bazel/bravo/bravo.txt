@@ -9588,7 +9588,6 @@ bruteness
 barolong
 bratina
 billetwood
-binary
 biomagnetism
 biosystematic
 brawls
@@ -10386,6 +10385,7 @@ bromocyanid
 betise
 blockhouse
 backhand
+binary
 barrelage
 bleat
 boston
