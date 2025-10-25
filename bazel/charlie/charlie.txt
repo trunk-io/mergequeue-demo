@@ -9026,6 +9026,7 @@ carpetmonger
 colloq
 charities
 caridoid
+chaperon
 cliques
 comus
 comparability
@@ -18961,7 +18962,6 @@ carina
 crapped
 collatee
 curari
-chaperon
 coactions
 collateralized
 clinohedral
