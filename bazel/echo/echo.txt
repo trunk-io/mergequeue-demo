@@ -5010,7 +5010,6 @@ extensum
 engraphic
 escuela
 externalised
-exsectile
 exchangee
 extendible
 eon
@@ -9632,6 +9631,7 @@ elaenia
 enneahedrons
 erythrodegenerative
 erode
+exsectile
 excise
 epistolized
 exhaustively
