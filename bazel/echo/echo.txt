@@ -4493,7 +4493,6 @@ excludes
 ensient
 enatant
 etiophyllin
-enticeable
 epipterygoid
 entrec
 enforth
@@ -9291,6 +9290,7 @@ exhalations
 entertained
 esurience
 eventless
+enticeable
 eophyte
 eudiometer
 embolize
