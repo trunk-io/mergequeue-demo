@@ -6746,6 +6746,7 @@ clos
 chamidae
 cannisters
 championed
+cephalotaxus
 cyanometer
 cerinthian
 chieftainry
@@ -7355,7 +7356,6 @@ corbovinum
 cephalosome
 chrysaline
 cacological
-cephalotaxus
 conscripts
 collabent
 caciqueship
