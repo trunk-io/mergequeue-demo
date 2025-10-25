@@ -2523,7 +2523,6 @@ explicit
 epicedian
 evangeliser
 epimysia
-enceint
 evangelistaries
 enterpriser
 equiponderated
@@ -10488,6 +10487,7 @@ equitangential
 equilibrium
 emanated
 enfolding
+enceint
 englify
 epithyme
 enhaloes
