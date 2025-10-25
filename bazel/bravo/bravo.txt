@@ -10986,7 +10986,6 @@ bingeys
 bunchberries
 bughead
 blissom
-bonorum
 boroughship
 battledored
 breathing
@@ -17224,6 +17223,7 @@ boffs
 bletherskate
 becut
 britishly
+bonorum
 bungy
 bookling
 bullskin
