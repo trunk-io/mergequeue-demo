@@ -4313,6 +4313,7 @@ analgesidae
 attenuant
 anthomania
 azobenzol
+avg
 aerobe
 analphabete
 astronomien
@@ -15410,7 +15411,6 @@ administratively
 assibilated
 agathosma
 ackee
-avg
 angriest
 aymara
 alarming
