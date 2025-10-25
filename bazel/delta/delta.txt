@@ -3891,7 +3891,6 @@ dourade
 disagreeables
 dogleg
 dulcinea
-demountable
 disfiguring
 decameron
 deemphasize
@@ -17476,6 +17475,7 @@ disshroud
 deposal
 deplaceable
 dermovaccine
+demountable
 disfaith
 detoxified
 demonstrate
