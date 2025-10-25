@@ -6609,7 +6609,6 @@ cervulus
 cedars
 cerambycid
 coadjuvancy
-cassegrain
 chrobat
 ceded
 ceders
@@ -24849,6 +24848,7 @@ censured
 catholicisation
 chummies
 coprisoner
+cassegrain
 catpiece
 coparcener
 cardioplegia
