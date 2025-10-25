@@ -2122,7 +2122,6 @@ disannul
 disassemble
 desiccation
 disownment
-del
 ditheistic
 disembodiment
 dacoities
@@ -13567,6 +13566,7 @@ denunciant
 deparliament
 disilicane
 drugless
+del
 droplets
 dichlorhydrin
 disillusion
