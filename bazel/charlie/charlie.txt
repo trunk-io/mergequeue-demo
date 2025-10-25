@@ -8224,6 +8224,7 @@ conspecies
 cometographical
 charvet
 couches
+collapsable
 counternatural
 copernicus
 cofounder
@@ -20375,7 +20376,6 @@ courantoes
 controling
 communiques
 cackle
-collapsable
 crepusculum
 councilist
 communise
