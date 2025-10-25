@@ -5715,7 +5715,6 @@ bedlight
 brachyural
 butterbur
 bellwort
-bowgrace
 ballpoint
 bethumps
 biplane
@@ -16652,6 +16651,7 @@ botryogen
 bedecking
 burgware
 bilophodont
+bowgrace
 bessemerizing
 banjuke
 boombox
