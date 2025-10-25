@@ -8000,7 +8000,6 @@ crimsony
 countermovement
 chantepleure
 caprine
-codirectional
 chacte
 chad
 cywydd
@@ -21931,6 +21930,7 @@ conquering
 coneys
 comeback
 chronological
+codirectional
 crossbanding
 conelrad
 cyanogens
