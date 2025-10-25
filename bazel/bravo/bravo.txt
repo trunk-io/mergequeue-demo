@@ -169,7 +169,6 @@ bashfulness
 breaklist
 basters
 belay
-beudantite
 bourne
 becolme
 banister
@@ -5741,6 +5740,7 @@ ballpoint
 bethumps
 biplane
 biased
+beudantite
 bonnocks
 bee
 brasswork
