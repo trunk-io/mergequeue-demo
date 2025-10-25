@@ -3029,7 +3029,6 @@ escorts
 essentialness
 elkuma
 entracte
-extraboldface
 epilate
 epiglottiditis
 electrize
@@ -12630,6 +12629,7 @@ evangelicity
 edgeways
 encyclopaedism
 executiveship
+extraboldface
 etrurian
 enflowered
 elephantoid
