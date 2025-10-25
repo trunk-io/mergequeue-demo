@@ -7345,7 +7345,6 @@ alstroemeria
 additives
 aircrew
 apparatuses
-allegorizer
 alum
 anthecologist
 albedometer
@@ -19589,6 +19588,7 @@ aglauros
 archsynagogue
 archaism
 affirmably
+allegorizer
 actinonema
 anthrarufin
 ambitious
