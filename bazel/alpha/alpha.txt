@@ -4527,7 +4527,6 @@ aedeagi
 armory
 aediculae
 anaesthesiologist
-augurer
 absey
 alorcinic
 alimenation
@@ -24019,6 +24018,7 @@ additionally
 accidence
 alpinesque
 aeolotropic
+augurer
 amouret
 antarchistic
 anisopleurous
