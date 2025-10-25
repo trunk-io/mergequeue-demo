@@ -4720,7 +4720,6 @@ callusing
 cinchonicin
 coleopteroid
 carrick
-carrycot
 carried
 carryed
 campi
@@ -8474,6 +8473,7 @@ champagnized
 chloridized
 cesurae
 champak
+carrycot
 characterstring
 cuss
 clubridden
