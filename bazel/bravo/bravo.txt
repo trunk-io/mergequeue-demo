@@ -1584,7 +1584,6 @@ bloodfin
 branchiostegite
 bedrabbled
 briarberry
-ballant
 budwood
 bima
 beadings
@@ -11888,6 +11887,7 @@ bod
 begaud
 bromonaphthalene
 belows
+ballant
 babel
 benthopelagic
 biplicity
