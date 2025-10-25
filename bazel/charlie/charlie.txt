@@ -12462,6 +12462,7 @@ chromoisomer
 checkrows
 cardiometry
 chromoleucite
+corps
 crystalloid
 clayen
 clarioned
@@ -25734,7 +25735,6 @@ chapterful
 corporification
 cupidities
 coveralled
-corps
 chondriocont
 claves
 cheesier
