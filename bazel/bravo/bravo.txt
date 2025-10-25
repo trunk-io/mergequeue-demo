@@ -11796,6 +11796,7 @@ berun
 bemoaner
 backshift
 biology
+blackamoor
 bookseller
 bahamas
 bloodcurdling
@@ -16895,7 +16896,6 @@ bathyorographical
 bondfolk
 balladist
 blush
-blackamoor
 bludgeons
 bookbinder
 benchwork
