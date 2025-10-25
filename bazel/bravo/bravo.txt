@@ -532,7 +532,6 @@ backstops
 backstrapped
 backstreet
 boulangism
-basementward
 borating
 backtender
 banderol
@@ -11168,6 +11167,7 @@ bodge
 basebred
 batched
 bribable
+basementward
 brutalised
 bloodwite
 baffler
