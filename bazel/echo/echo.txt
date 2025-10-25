@@ -3475,7 +3475,6 @@ equal
 eteoclus
 embordered
 exhibit
-embryous
 evaporates
 elod
 ethel
@@ -11328,6 +11327,7 @@ egesta
 evapotranspiration
 exactas
 enshelter
+embryous
 engirded
 emigrants
 exiled
