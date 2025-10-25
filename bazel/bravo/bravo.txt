@@ -960,7 +960,6 @@ bookman
 blond
 boat
 brent
-balnea
 bellows
 blackband
 buttonmold
@@ -13417,6 +13416,7 @@ banghy
 bikinied
 bluenoses
 bestead
+balnea
 blur
 blighters
 beothuk
