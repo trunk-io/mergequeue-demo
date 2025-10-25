@@ -16535,7 +16535,6 @@ chiselly
 chocking
 cloghaun
 chawbuck
-cardhouse
 cuneonavicular
 crabit
 crithomancy
@@ -17720,6 +17719,7 @@ colonisation
 cavalcading
 closure
 conga
+cardhouse
 classless
 connecting
 cockades
