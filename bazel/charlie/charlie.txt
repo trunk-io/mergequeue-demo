@@ -7488,7 +7488,6 @@ cerci
 cercidiphyllaceae
 confessorship
 canisiana
-cercolabes
 cercomonadidae
 cercopithecidae
 cunning
@@ -16740,6 +16739,7 @@ casthouse
 counseling
 clothespresses
 cire
+cercolabes
 clothings
 corked
 chinch
