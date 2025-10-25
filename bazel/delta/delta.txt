@@ -2665,6 +2665,7 @@ desmon
 decurves
 dojo
 diachylon
+diastereoisomer
 duetto
 dihydroxytoluene
 dunning
@@ -9247,7 +9248,6 @@ denoting
 dameworts
 decke
 dabbers
-diastereoisomer
 doping
 dichromasy
 damningness
