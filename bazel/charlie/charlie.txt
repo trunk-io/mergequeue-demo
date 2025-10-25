@@ -5553,7 +5553,6 @@ croconate
 children
 cataractwise
 col
-colpeo
 cynosarges
 cyclostomata
 catarrhs
@@ -26791,6 +26790,7 @@ coronobasilar
 chorioepitheliomas
 counseled
 calycoideous
+colpeo
 counselee
 counsellor
 chilopodan
