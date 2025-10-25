@@ -7319,6 +7319,7 @@ butyls
 bowsaw
 bechancing
 blackguards
+bazars
 befluster
 boxmaking
 biogeography
@@ -7978,7 +7979,6 @@ beadeyes
 breacher
 bantered
 berrettas
-bazars
 betelnut
 billeting
 blotchy
