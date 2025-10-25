@@ -15461,7 +15461,6 @@ bombastic
 birthstone
 byrewards
 bandelette
-beddings
 bleeding
 blondine
 bider
@@ -16490,6 +16489,7 @@ bettermost
 baddy
 bedrench
 bushed
+beddings
 bemurmuring
 brainache
 bindweed
