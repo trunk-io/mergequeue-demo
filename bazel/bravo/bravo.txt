@@ -6118,7 +6118,6 @@ boatwise
 bassaris
 batikulin
 buttonholder
-barracking
 brandon
 breadnut
 blosmy
@@ -15282,6 +15281,7 @@ bushes
 betire
 borehole
 beevish
+barracking
 burls
 brothe
 backchain
