@@ -2379,7 +2379,6 @@ epidemiologies
 ecanda
 exch
 exclusions
-enclaved
 etamin
 epitrope
 ephor
@@ -6981,6 +6980,7 @@ enunciable
 exorcists
 eradication
 encore
+enclaved
 enplane
 effluvia
 egyptologic
