@@ -666,7 +666,6 @@ electrophoretogram
 entier
 enlock
 escudo
-enkennel
 enlighteners
 educt
 electrodissolution
@@ -10898,6 +10897,7 @@ exogenous
 emblematise
 embouchure
 egad
+enkennel
 embryectomy
 estats
 enalyron
