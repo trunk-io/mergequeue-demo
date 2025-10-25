@@ -247,6 +247,7 @@ branks
 bestirred
 bade
 bloodmobile
+battel
 beleaguerer
 biddies
 blastplate
@@ -2984,7 +2985,6 @@ babelize
 bopping
 backtrackers
 beslave
-battel
 bimetal
 bryales
 brahman
