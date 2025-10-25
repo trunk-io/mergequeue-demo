@@ -8924,6 +8924,7 @@ charbroiled
 cyclosilicate
 colorcast
 counterattacking
+coeff
 crenelet
 crutches
 courses
@@ -17952,7 +17953,6 @@ coeducationalize
 characterological
 crude
 coef
-coeff
 copperplate
 celeomorph
 carob
