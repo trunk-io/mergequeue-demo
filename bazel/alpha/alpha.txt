@@ -9072,6 +9072,7 @@ alberttype
 adipogenous
 anthesis
 architect
+anemometric
 acromial
 asci
 adiposis
@@ -13459,7 +13460,6 @@ abreacted
 arvo
 addendum
 australorp
-anemometric
 amandin
 altarage
 archbeacon
