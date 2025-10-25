@@ -6144,7 +6144,6 @@ binnacles
 benshi
 budbreak
 becassine
-brewhouse
 baulkier
 bugbanes
 barkey
@@ -12630,6 +12629,7 @@ bankside
 baffles
 bonteboks
 bagels
+brewhouse
 bethylidae
 beryx
 baguets
