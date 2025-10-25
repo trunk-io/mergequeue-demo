@@ -1549,6 +1549,7 @@ bewield
 blackeye
 boilerful
 balloonflower
+benempt
 barcone
 burghs
 biloquist
@@ -15283,7 +15284,6 @@ buss
 brickbatting
 bumbles
 baru
-benempt
 brunizem
 bronzers
 barfed
