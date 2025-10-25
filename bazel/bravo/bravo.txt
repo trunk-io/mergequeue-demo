@@ -1104,6 +1104,7 @@ bivalvia
 beefhead
 busto
 badland
+bhd
 bricktimber
 backslider
 bullyism
@@ -3641,7 +3642,6 @@ baysmelt
 breakout
 brachiocyllosis
 beetlestock
-bhd
 bowdrill
 basquine
 blinked
