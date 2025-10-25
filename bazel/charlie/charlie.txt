@@ -3888,7 +3888,6 @@ cutoff
 cholericness
 condylomas
 copygraphed
-card
 cionotomy
 circumscriptions
 chevreuil
@@ -14593,6 +14592,7 @@ cistercian
 chronologic
 cinematographical
 cariocas
+card
 cavina
 cornier
 compactions
