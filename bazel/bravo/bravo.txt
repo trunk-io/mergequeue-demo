@@ -3679,6 +3679,7 @@ bescorched
 beerish
 bitis
 breastplough
+ban
 bonded
 biformed
 briskly
@@ -10831,7 +10832,6 @@ babblers
 botany
 bodicemaker
 bouillons
-ban
 bahisti
 buffered
 broods
