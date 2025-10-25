@@ -1561,6 +1561,7 @@ epicenter
 exosporous
 epineolithic
 enunciator
+evaporometer
 enologist
 echolocate
 endogenicity
@@ -12615,7 +12616,6 @@ epeirid
 empyesis
 ethnogeographer
 electrophoresing
-evaporometer
 ephemeric
 evangelicity
 edgeways
