@@ -1285,7 +1285,6 @@ calibrated
 calibrater
 coachwhip
 crossfall
-calibrating
 cantred
 coulage
 catha
@@ -2733,6 +2732,7 @@ ciliograde
 crispening
 cannulate
 circumscribe
+calibrating
 cursitor
 colius
 canoeist
