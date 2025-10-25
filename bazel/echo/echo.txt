@@ -554,7 +554,6 @@ enhunger
 extricates
 eyewitness
 eplot
-envolume
 eclipsed
 embryoferous
 endonucleolus
@@ -9852,6 +9851,7 @@ enfolds
 esca
 encampments
 extratropical
+envolume
 extranormal
 endorses
 elytrorrhagia
