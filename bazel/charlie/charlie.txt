@@ -6758,7 +6758,6 @@ culmen
 cellars
 counterservice
 corvoid
-cellblock
 criminate
 calypsos
 celled
@@ -12232,6 +12231,7 @@ cecotomy
 contractedness
 corrigible
 cheerleader
+cellblock
 carpentered
 castalides
 cataclysms
