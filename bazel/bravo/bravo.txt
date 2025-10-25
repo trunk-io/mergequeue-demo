@@ -1406,7 +1406,6 @@ boyarisms
 barnard
 balancewise
 blighter
-barit
 biolite
 bookie
 barbes
@@ -5506,6 +5505,7 @@ blenchingly
 boyishly
 blotlessness
 belgard
+barit
 barrack
 blastocoel
 beater
