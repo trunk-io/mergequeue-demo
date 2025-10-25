@@ -3105,7 +3105,6 @@ agricultures
 alvus
 australopithecinae
 afterworking
-antipathogen
 aurist
 artocarpaceae
 affronter
@@ -15769,6 +15768,7 @@ afb
 almanacs
 albahaca
 afterfriend
+antipathogen
 anaxone
 alewives
 animized
