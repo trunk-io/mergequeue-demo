@@ -6631,7 +6631,6 @@ aeroelasticity
 aftertimes
 amalgamated
 achaetous
-awakable
 agrestian
 ailed
 aileron
@@ -19653,6 +19652,7 @@ antimodel
 autoslip
 anaseismic
 alloxyproteic
+awakable
 assuming
 abeigh
 adverb
