@@ -1360,6 +1360,7 @@ deprest
 disparagingly
 dermaskeleton
 disseizee
+diffusivity
 dwindle
 dop
 deems
@@ -15596,7 +15597,6 @@ diasters
 drivehead
 devoutly
 disillude
-diffusivity
 disordinated
 deuteromyosinose
 dynamic
