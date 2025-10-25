@@ -225,7 +225,6 @@ bedewer
 begripe
 ballard
 bandy
-bipartition
 brython
 bitt
 bubble
@@ -6003,6 +6002,7 @@ bounteously
 bowling
 blackheartedness
 blessedness
+bipartition
 binny
 biggonet
 bleaters
