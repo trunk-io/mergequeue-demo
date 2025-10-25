@@ -8368,6 +8368,7 @@ ern
 enablement
 eunomia
 electrothermostat
+electrics
 emetically
 enterobiasis
 expressio
@@ -8556,7 +8557,6 @@ epifocal
 earlike
 esquired
 evangelistic
-electrics
 endostyle
 euchymous
 eyeshine
