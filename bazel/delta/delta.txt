@@ -1270,7 +1270,6 @@ depthwise
 diphthongization
 dompt
 dummel
-debouches
 demonstrated
 duplicate
 dart
@@ -15528,6 +15527,7 @@ doms
 didacticity
 diamines
 dur
+debouches
 donack
 dorothea
 doublehandedness
