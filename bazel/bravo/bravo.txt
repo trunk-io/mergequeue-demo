@@ -962,7 +962,6 @@ boat
 brent
 balnea
 bellows
-blackband
 buttonmold
 bouleuteria
 bowwoman
@@ -6387,6 +6386,7 @@ bugwort
 bibliotaphe
 bombyx
 bulkage
+blackband
 bestick
 ballplatz
 bedirt
