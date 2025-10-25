@@ -2314,6 +2314,7 @@ barbwire
 barbwires
 bullpout
 buffed
+bestrows
 bureaucratized
 bouvier
 byss
@@ -10492,7 +10493,6 @@ barotaxy
 boreiad
 bairn
 blastodisc
-bestrows
 browbound
 blatjang
 brythonic
