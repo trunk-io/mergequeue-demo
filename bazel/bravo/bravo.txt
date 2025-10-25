@@ -6387,7 +6387,6 @@ bugwort
 bibliotaphe
 bombyx
 bulkage
-blackband
 bestick
 ballplatz
 bedirt
@@ -14628,6 +14627,7 @@ bessera
 belugite
 bagleaves
 bepraiser
+blackband
 boilerplate
 bromidrosiphobia
 branchiostomid
