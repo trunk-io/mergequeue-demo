@@ -11364,6 +11364,7 @@ ecoid
 exophthalmic
 engaud
 elevational
+emplace
 effluence
 erythrocytoschisis
 ectoproct
@@ -11840,7 +11841,6 @@ epichoric
 effectual
 ectodermosis
 eructance
-emplace
 eluated
 energise
 etageres
