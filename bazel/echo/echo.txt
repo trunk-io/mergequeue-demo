@@ -2434,7 +2434,6 @@ ektexines
 ergatogyne
 embryopathology
 exoskeleton
-encircled
 ey
 elided
 estamp
@@ -7859,6 +7858,7 @@ eparchial
 excalation
 electrobiology
 enactive
+encircled
 echafaudage
 entertainingly
 euxanthate
