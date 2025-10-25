@@ -2219,7 +2219,6 @@ eco
 endolymph
 excretal
 electroing
-endopathic
 episiocele
 emption
 enunciative
@@ -9701,6 +9700,7 @@ estrif
 eskar
 erie
 equiproportional
+endopathic
 encapsule
 endotheliotoxin
 entonement
