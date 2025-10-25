@@ -5268,6 +5268,7 @@ electromagnetize
 excathedral
 enantiobiosis
 externes
+exptl
 exhortation
 excommunicate
 electrically
@@ -5571,7 +5572,6 @@ equivalency
 expos
 extendability
 evincible
-exptl
 ecstasis
 enodally
 egret
