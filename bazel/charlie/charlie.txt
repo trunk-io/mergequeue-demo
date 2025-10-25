@@ -7561,7 +7561,6 @@ crustate
 cryostat
 cerebronic
 cerebropedal
-cudgerie
 cytosome
 centiar
 codewords
@@ -25915,6 +25914,7 @@ coeltera
 corrosived
 contrapone
 corrosives
+cudgerie
 calcars
 chemasthenia
 cytomorphology
