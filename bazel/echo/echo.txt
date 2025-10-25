@@ -3152,6 +3152,7 @@ edict
 escalates
 emmarble
 electrocratic
+eucrasy
 eichbergite
 elemong
 endoskeletons
@@ -4958,7 +4959,6 @@ examinees
 escortment
 eyedropper
 emirs
-eucrasy
 endameba
 erns
 euhyostyly
