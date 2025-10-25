@@ -3695,6 +3695,7 @@ ejects
 enfoul
 elinvar
 exul
+elses
 echiuroidea
 exanthematous
 enneastylar
@@ -7764,7 +7765,6 @@ electroendosmotic
 enterococcus
 eclampsia
 exfigure
-elses
 edified
 energist
 entosternum
