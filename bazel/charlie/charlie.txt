@@ -8919,7 +8919,6 @@ courses
 colourize
 cirrate
 collop
-closterium
 chared
 camelopardel
 cortaro
@@ -26901,6 +26900,7 @@ counterbarrage
 checkmark
 cars
 counterbend
+closterium
 ctenodipterini
 cascrome
 cipolin
