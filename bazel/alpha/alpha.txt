@@ -6742,7 +6742,6 @@ apache
 amentulum
 astrophel
 alexandreid
-aborting
 anmia
 abrazitic
 askewness
@@ -24649,6 +24648,7 @@ aulu
 auxilytic
 auxotrophy
 aggros
+aborting
 agedly
 alveolars
 addled
