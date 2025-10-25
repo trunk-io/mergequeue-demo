@@ -10580,6 +10580,7 @@ bogey
 blenheim
 bandido
 bonging
+bold
 biostrome
 bungerly
 blatted
@@ -11949,7 +11950,6 @@ bilio
 banshie
 butler
 barographs
-bold
 bimeby
 brachycephalies
 basilysis
