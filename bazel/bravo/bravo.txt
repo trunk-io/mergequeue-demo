@@ -1375,7 +1375,6 @@ bohunk
 burleycue
 bournes
 backyard
-breechclout
 biliment
 bandspreading
 biosis
@@ -9925,6 +9924,7 @@ bent
 belomancy
 broguery
 baltheus
+breechclout
 buffoonesque
 brodyagi
 braird
