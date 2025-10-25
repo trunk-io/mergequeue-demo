@@ -8304,6 +8304,7 @@ bathylimnetic
 becost
 buyouts
 bannerfish
+bianca
 biblicist
 bemask
 backsettler
@@ -12622,7 +12623,6 @@ backlist
 blacklegs
 bourreau
 bungfull
-bianca
 berm
 baysmelts
 blooey
