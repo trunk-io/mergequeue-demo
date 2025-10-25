@@ -3812,7 +3812,6 @@ banksides
 byzant
 beadeye
 breastplates
-benote
 brinjal
 boatly
 baalitical
@@ -6715,6 +6714,7 @@ buckland
 boonless
 bellowsman
 biocatalytic
+benote
 blad
 bidet
 bellona
