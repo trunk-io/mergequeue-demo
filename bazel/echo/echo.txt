@@ -1097,7 +1097,6 @@ emetics
 eme
 electrophotometer
 erigenia
-enneastyle
 exedent
 eudendrium
 endgame
@@ -7149,6 +7148,7 @@ enodal
 explodent
 endosome
 evenlong
+enneastyle
 eons
 explicability
 exoascaceae
