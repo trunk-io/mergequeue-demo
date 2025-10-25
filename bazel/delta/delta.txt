@@ -3741,6 +3741,7 @@ dehydrogenate
 diaporesis
 desmepithelium
 devisable
+dethronable
 dehydrogenisation
 dehydrogenized
 demicaponier
@@ -15373,7 +15374,6 @@ duodenate
 demal
 discrowning
 deinodon
-dethronable
 disanoint
 doweral
 dalle
