@@ -9741,7 +9741,6 @@ brawling
 barrelsful
 breastbone
 bedaggle
-bethanked
 buildup
 barbell
 bassos
@@ -15795,6 +15794,7 @@ barguests
 boxman
 beowulf
 beefin
+bethanked
 brogh
 bobbled
 bartramia
