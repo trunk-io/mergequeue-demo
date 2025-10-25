@@ -320,7 +320,6 @@ bikeway
 bumps
 burrknot
 bocardo
-brumbies
 bespeed
 blitzed
 blote
@@ -8948,6 +8947,7 @@ bespecked
 bija
 blackfisher
 bullhorns
+brumbies
 broadaxes
 backscattering
 bergaptene
