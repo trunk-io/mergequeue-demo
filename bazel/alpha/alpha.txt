@@ -11936,7 +11936,6 @@ abduce
 amarantine
 analphabet
 anticommercialist
-abecedarians
 astream
 archchaplain
 angelus
@@ -18373,6 +18372,7 @@ aorist
 antiperistalsis
 awave
 anaglyphics
+abecedarians
 arabist
 arclength
 araca
