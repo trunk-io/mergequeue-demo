@@ -10975,7 +10975,6 @@ coastwaiter
 cymblings
 crafting
 conidae
-commutations
 citrines
 chirographers
 crl
@@ -17391,6 +17390,7 @@ coastguardman
 cystidia
 coastguardsman
 crunches
+commutations
 cacheted
 cruder
 climatography
