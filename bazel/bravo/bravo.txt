@@ -8326,7 +8326,6 @@ beggaress
 baignet
 bruchus
 bromobenzene
-bool
 bewall
 bildar
 brahmanize
@@ -13706,6 +13705,7 @@ blite
 brainworker
 bedazzle
 bankruptly
+bool
 burritos
 bridgepot
 bumpier
