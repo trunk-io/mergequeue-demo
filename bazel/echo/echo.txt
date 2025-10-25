@@ -8674,7 +8674,6 @@ epigraphy
 endolemma
 endarteritis
 erianthus
-elasticity
 epilachna
 equiprobabilist
 efforts
@@ -10341,6 +10340,7 @@ enterons
 enchants
 exult
 extraprostatic
+elasticity
 epithetically
 englute
 ectoethmoid
