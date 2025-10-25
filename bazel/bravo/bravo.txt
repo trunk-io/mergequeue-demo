@@ -7635,6 +7635,7 @@ bullan
 bertram
 brocard
 burans
+bodge
 bowstave
 biobibliography
 barbaric
@@ -11176,7 +11177,6 @@ beeves
 broomtail
 bauble
 blimbing
-bodge
 basebred
 batched
 bribable
