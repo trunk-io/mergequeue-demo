@@ -17643,7 +17643,6 @@ atterminement
 artisanry
 allotypic
 audiogenic
-assistless
 aftercast
 appanagist
 altitude
@@ -19658,6 +19657,7 @@ adverb
 autocytolysis
 antipyretics
 alphecca
+assistless
 almightily
 amylogenic
 affirmative
