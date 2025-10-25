@@ -6395,7 +6395,6 @@ bibliotaphe
 botaurus
 bombyx
 bulkage
-bifurcous
 bestick
 ballplatz
 bedirt
@@ -13568,6 +13567,7 @@ boucharde
 biscotin
 bankfull
 brierroot
+bifurcous
 bleachers
 blitzkrieged
 breather
