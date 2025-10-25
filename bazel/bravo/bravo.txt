@@ -10281,7 +10281,6 @@ bellyfulls
 birdieback
 billian
 bliaut
-blacktongue
 bedecked
 bromocresol
 buchmanite
@@ -17086,6 +17085,7 @@ binoxide
 blephara
 bulkheading
 bulky
+blacktongue
 bulkier
 bialy
 bevatron
