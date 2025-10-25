@@ -17365,7 +17365,6 @@ contagia
 clupea
 caravelle
 camphorphorone
-clownish
 chemigraph
 cimline
 coassist
@@ -19394,6 +19393,7 @@ checkstone
 cellulolytic
 color
 creational
+clownish
 callipered
 curratow
 collied
