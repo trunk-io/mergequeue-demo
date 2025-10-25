@@ -19535,7 +19535,6 @@ charas
 colosso
 culverineer
 contiguity
-chemises
 consultants
 corrupted
 compositous
@@ -20213,6 +20212,7 @@ commination
 curches
 crawlway
 canewise
+chemises
 cloddish
 commingled
 chrysochloris
