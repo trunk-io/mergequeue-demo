@@ -596,6 +596,7 @@ boilersmith
 bidiagonal
 bulblet
 bedsore
+bloomage
 burbler
 baconweed
 browner
@@ -4746,7 +4747,6 @@ beechen
 bawneen
 bitstone
 bidri
-bloomage
 blab
 bloodshotten
 bomarea
