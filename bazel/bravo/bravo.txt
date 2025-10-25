@@ -420,7 +420,6 @@ biomorphic
 balldress
 beknotting
 briseis
-bindingness
 beggardom
 bushman
 brewery
@@ -12975,6 +12974,7 @@ brigades
 byrled
 bobsledders
 bleachman
+bindingness
 berlinite
 biquadrate
 bizygomatic
