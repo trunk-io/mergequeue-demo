@@ -3478,7 +3478,6 @@ bornites
 biofog
 bathrobes
 brothy
-berdaches
 bradypeptic
 backpacking
 babas
@@ -15815,6 +15814,7 @@ byrri
 baraithas
 butterier
 brocatello
+berdaches
 betulinol
 basilian
 burdocks
