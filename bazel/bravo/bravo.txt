@@ -6387,7 +6387,6 @@ bistro
 backbreaking
 bugwort
 bibliotaphe
-bombyx
 bulkage
 blackband
 bestick
@@ -14410,6 +14409,7 @@ bices
 botargos
 broadaxe
 bimaxillary
+bombyx
 bacterization
 bilamellated
 bethel
