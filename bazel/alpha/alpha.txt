@@ -3940,6 +3940,7 @@ antinarcotics
 aspatia
 argentarii
 alae
+aulostoma
 administratrices
 aliculae
 apayao
@@ -20625,7 +20626,6 @@ apparentation
 aedicule
 antilipase
 acoelomous
-aulostoma
 alazor
 appenditious
 adiathermanous
