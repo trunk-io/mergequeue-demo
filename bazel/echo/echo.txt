@@ -4493,7 +4493,6 @@ elargement
 electrotest
 electrolyte
 epitasis
-episematic
 engiscope
 enarthrodia
 entasis
@@ -5470,6 +5469,7 @@ exospheres
 executable
 espec
 enthralment
+episematic
 encraal
 evensongs
 electropower
