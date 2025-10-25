@@ -6858,6 +6858,7 @@ cashbox
 cajuputol
 celt
 circumpolygon
+clairschacher
 clockkeeper
 circularizers
 custodia
@@ -24980,7 +24981,6 @@ copus
 corneagen
 cystomorphous
 consumate
-clairschacher
 cliqued
 cartmaker
 cimcumvention
