@@ -4638,7 +4638,6 @@ carpocephalum
 caryotins
 carpogam
 cowlings
-carpoidea
 conveth
 cembalos
 condensative
@@ -22852,6 +22851,7 @@ cystenchyma
 calcinize
 centaurid
 cascading
+carpoidea
 connotations
 connotative
 connotatively
