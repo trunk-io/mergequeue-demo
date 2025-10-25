@@ -13844,7 +13844,6 @@ commoderate
 clodhead
 cingalese
 cracowe
-cortinae
 cephaleuros
 crossbelt
 cynghanedd
@@ -22677,6 +22676,7 @@ corny
 creepages
 conjoints
 comboy
+cortinae
 courager
 cycledom
 concatenator
