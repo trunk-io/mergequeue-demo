@@ -648,7 +648,6 @@ abort
 alderfly
 anser
 aurify
-aborted
 abortient
 assuring
 albuminometry
@@ -11319,6 +11318,7 @@ arcuation
 amphigene
 antiadiaphorist
 aphrodision
+aborted
 autosymbiontic
 arkite
 ascorbate
