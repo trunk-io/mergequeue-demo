@@ -10808,6 +10808,7 @@ bavin
 benu
 birthrate
 biacromial
+bacillary
 bombardon
 bandstands
 blick
@@ -16643,7 +16644,6 @@ befavour
 braveness
 bedmakers
 bigmouthed
-bacillary
 biddelian
 bracings
 benzoquinoline
