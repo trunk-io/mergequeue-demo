@@ -3751,6 +3751,7 @@ bedlamp
 breadline
 bookbindery
 boughten
+burrito
 bargemen
 boning
 brunches
@@ -6468,7 +6469,6 @@ bahima
 berberidaceous
 berberis
 bournous
-burrito
 bioengineering
 baselines
 boopic
