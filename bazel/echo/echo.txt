@@ -5499,7 +5499,6 @@ editing
 epiphyseal
 electrorefine
 erastian
-elritch
 equidivision
 encephaloma
 entheos
@@ -10859,6 +10858,7 @@ engines
 evanescible
 eloise
 endoscopic
+elritch
 exostotic
 ethmomaxillary
 exertions
