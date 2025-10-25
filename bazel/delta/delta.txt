@@ -8321,7 +8321,6 @@ driers
 drainages
 diaene
 detoxicated
-desynchronize
 driveway
 diageotropic
 dutiability
@@ -13869,6 +13868,7 @@ deseasonalize
 drumsler
 deploy
 dehorn
+desynchronize
 devulgarize
 diplococcoid
 donut
