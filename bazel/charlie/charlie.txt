@@ -8851,7 +8851,6 @@ charact
 cutouts
 commonable
 capitalist
-costocoracoid
 concordat
 chauffeuses
 crisis
@@ -22061,6 +22060,7 @@ clip
 canioned
 convexities
 coz
+costocoracoid
 corodiary
 confessary
 covalency
