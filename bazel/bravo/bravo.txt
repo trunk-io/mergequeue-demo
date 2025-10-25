@@ -8775,7 +8775,6 @@ bandaid
 brigittine
 bhp
 barium
-biocenosis
 bali
 bloodcurdling
 bestrowed
@@ -15217,6 +15216,7 @@ burg
 beanball
 brevity
 barricaded
+biocenosis
 brevities
 bunodont
 benshee
