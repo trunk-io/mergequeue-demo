@@ -3293,7 +3293,6 @@ aposaturnium
 assayed
 adaptometer
 apolar
-antihelix
 armlocks
 aphthartodocetae
 attackman
@@ -11414,6 +11413,7 @@ arabinose
 apx
 alhet
 ahsan
+antihelix
 agrope
 amniota
 autodigestive
