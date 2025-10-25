@@ -11761,6 +11761,7 @@ bilith
 bolivias
 bobbish
 bobcats
+blacksmith
 bifacial
 bosporan
 binmen
@@ -12606,7 +12607,6 @@ bedewoman
 butternose
 bemocks
 burrs
-blacksmith
 bonk
 begrudging
 backups
