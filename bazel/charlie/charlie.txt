@@ -3185,6 +3185,7 @@ celli
 counterwall
 chiefer
 chaufers
+coring
 curred
 calver
 chairmaker
@@ -24144,7 +24145,6 @@ copperworks
 contraflow
 cerous
 corneocalcareous
-coring
 cutify
 conventions
 convents
