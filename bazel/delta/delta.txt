@@ -10068,6 +10068,7 @@ dumba
 diversipedate
 driveline
 deorsumversion
+discontiguous
 deflect
 dharani
 dekaparsec
@@ -14633,7 +14634,6 @@ djebels
 deferens
 dilemite
 dweeble
-discontiguous
 dampest
 durian
 dook
