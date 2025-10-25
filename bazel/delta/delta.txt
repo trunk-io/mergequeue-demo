@@ -8092,7 +8092,6 @@ dft
 dialects
 dinks
 disguster
-dithyrambs
 diminishing
 dora
 discoveries
@@ -14331,6 +14330,7 @@ dosimetries
 dichorisandra
 decorticator
 deceleron
+dithyrambs
 desulfurate
 drillmaster
 doradidae
