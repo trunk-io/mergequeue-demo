@@ -12098,6 +12098,7 @@ evene
 exhaustiveness
 evaluator
 ectobatic
+equiform
 eternization
 eisodic
 electrolyze
@@ -13924,7 +13925,6 @@ episodes
 ethoxyl
 extogenous
 emplanes
-equiform
 eyeglass
 enduement
 exhalants
