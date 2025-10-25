@@ -5721,7 +5721,6 @@ canisters
 cuemanship
 churly
 categorized
-caducities
 copatron
 categorizer
 crouching
@@ -20286,6 +20285,7 @@ catheti
 cert
 cremorne
 coping
+caducities
 collaborative
 chrysolitic
 commonage
