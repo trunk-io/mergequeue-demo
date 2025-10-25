@@ -4419,7 +4419,6 @@ elenchical
 earthmaking
 edifices
 estampede
-eulamellibranchia
 exalts
 espials
 emphlysis
@@ -8347,6 +8346,7 @@ eclipse
 exsufflicate
 equatable
 extypal
+eulamellibranchia
 extinguishant
 exsputory
 extradicted
