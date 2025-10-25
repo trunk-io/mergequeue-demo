@@ -5455,6 +5455,7 @@ crinkles
 calotermitidae
 cyanide
 chawl
+class
 crossopt
 cassinoid
 cord
@@ -20061,7 +20062,6 @@ croupal
 coboundless
 coinheres
 conjectural
-class
 commassation
 cavernously
 conspurcate
