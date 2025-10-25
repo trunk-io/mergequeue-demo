@@ -6839,7 +6839,6 @@ datatype
 deckels
 disjointedness
 dewinesses
-dimensionally
 dioceses
 deregulationize
 drakonite
@@ -8073,6 +8072,7 @@ dialects
 dinks
 disguster
 diminishing
+dimensionally
 dora
 decafid
 deoxidizes
