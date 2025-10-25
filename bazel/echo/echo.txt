@@ -3206,7 +3206,6 @@ extralegal
 elutor
 extruders
 eroded
-endodontic
 extravertively
 ephedrins
 englyn
@@ -5852,6 +5851,7 @@ earwigging
 emulsifying
 elytroplastic
 epigeum
+endodontic
 enthrones
 electroscission
 ecclesiological
