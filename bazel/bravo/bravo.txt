@@ -3260,7 +3260,6 @@ bufferrer
 bureau
 backhauls
 beatification
-backswordman
 brassbounder
 blanch
 beachcomb
@@ -9809,6 +9808,7 @@ backrun
 buffeter
 bankbook
 balloen
+backswordman
 balladic
 brassish
 bathukolpic
