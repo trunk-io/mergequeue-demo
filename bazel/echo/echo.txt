@@ -3203,6 +3203,7 @@ extramission
 ebb
 entendre
 eluant
+epoche
 exculpative
 engendure
 ecphory
@@ -11010,7 +11011,6 @@ equibiradiate
 endue
 eutopian
 ethynylation
-epoche
 exorbitate
 enuresises
 ecurie

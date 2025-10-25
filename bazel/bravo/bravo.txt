@@ -7546,7 +7546,6 @@ bewizard
 beknight
 benzofuroquinoxaline
 barracks
-boliviano
 baywoods
 beeyard
 building
@@ -16018,6 +16017,7 @@ bajury
 badmash
 bopper
 beekeeper
+boliviano
 bucrania
 bewitchments
 bulbier
