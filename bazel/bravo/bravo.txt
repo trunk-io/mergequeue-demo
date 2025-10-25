@@ -4932,7 +4932,6 @@ blunder
 bitumen
 bushgoat
 bikkurim
-braconid
 busily
 bour
 bechase
@@ -6281,6 +6280,7 @@ bankrupts
 bardic
 billhooks
 bulletlike
+braconid
 betrample
 bucketer
 bedlamer
