@@ -3462,7 +3462,6 @@ bathophobia
 blennenteritis
 briefing
 bedroom
-bioethics
 biofog
 bathrobes
 brothy
@@ -14642,6 +14641,7 @@ blackband
 boilerplate
 bromidrosiphobia
 branchiostomid
+bioethics
 brandyball
 blunderful
 bancales
