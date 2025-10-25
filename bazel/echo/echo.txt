@@ -1295,6 +1295,7 @@ entity
 eyrie
 ergotinine
 eyelast
+entities
 electromagnetic
 erythraeidae
 electrovection
@@ -9782,7 +9783,6 @@ exceptious
 entrust
 encephalographically
 establismentarianism
-entities
 equiponderancy
 enzyms
 erratas
