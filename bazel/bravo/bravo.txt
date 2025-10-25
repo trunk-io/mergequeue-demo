@@ -1817,6 +1817,7 @@ bolometer
 benitoite
 bitumen
 backflip
+bootstrap
 bergama
 bandoleer
 burlesquely
@@ -7249,7 +7250,6 @@ bigly
 blarney
 bernie
 brachycranic
-bootstrap
 brackens
 beatifically
 bethink
