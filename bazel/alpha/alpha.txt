@@ -2229,6 +2229,7 @@ aul
 aweband
 amuse
 amenity
+amphichrome
 anorthoscope
 antiferroelectric
 acidulate
@@ -14885,7 +14886,6 @@ antieducational
 alebench
 apparance
 acetylcyanide
-amphichrome
 advolution
 aborter
 acquiesce
