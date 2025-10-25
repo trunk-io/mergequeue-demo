@@ -292,7 +292,6 @@ epichindrotic
 epos
 effeminisation
 evenhead
-ewers
 enchilada
 equichangeable
 ewest
@@ -1303,6 +1302,7 @@ entities
 electromagnetic
 erythraeidae
 electrovection
+ewers
 ethmosphenoid
 erythroscope
 eucgia
