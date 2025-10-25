@@ -6260,7 +6260,6 @@ enisle
 exudate
 emptor
 euskarian
-equipage
 eveck
 electrocontractility
 emberiza
@@ -13795,6 +13794,7 @@ extorts
 externe
 ebricty
 elaeopten
+equipage
 encoffin
 esparto
 endophragm
