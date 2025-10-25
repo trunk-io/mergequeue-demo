@@ -885,7 +885,6 @@ bettor
 bescutcheon
 bestsellers
 bagwig
-bagwigged
 birdclapper
 begarlanded
 buzzsaw
@@ -8825,6 +8824,7 @@ bumbailiffship
 becassocked
 bondager
 beleap
+bagwigged
 bundlings
 builders
 balneology
