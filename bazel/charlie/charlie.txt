@@ -13143,7 +13143,6 @@ cycases
 counterscale
 cicatrice
 conclusions
-chaprassi
 coronofrontal
 colocolo
 cicatricule
@@ -16576,6 +16575,7 @@ cloisonless
 chancering
 cloisonne
 caelum
+chaprassi
 charco
 chimneypot
 convival
