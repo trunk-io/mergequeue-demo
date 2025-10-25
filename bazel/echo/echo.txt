@@ -1367,7 +1367,6 @@ entoglossal
 epithelioid
 euchologies
 exestuate
-ectosomal
 except
 evicting
 epics
@@ -4711,6 +4710,7 @@ ended
 eustyle
 earwort
 electrolyzability
+ectosomal
 exceptionability
 episiotomies
 equinus
