@@ -2514,7 +2514,6 @@ bedplates
 boyer
 backlists
 brained
-burghalpenny
 bardel
 boothite
 bridgeman
@@ -16287,6 +16286,7 @@ badgeless
 bogfern
 browless
 balonea
+burghalpenny
 baritones
 brainish
 browned
