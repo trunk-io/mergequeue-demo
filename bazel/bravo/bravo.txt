@@ -9809,7 +9809,6 @@ biochemist
 bigfoot
 burglarized
 buhrmill
-banqueted
 baraka
 bisters
 baidak
@@ -10697,6 +10696,7 @@ barbicans
 blearness
 bowpin
 bantin
+banqueted
 barretry
 bassets
 bename
