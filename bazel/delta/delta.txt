@@ -1102,6 +1102,7 @@ doormat
 devilhood
 doit
 diggable
+dosseret
 dribblers
 demagogically
 deneutralization
@@ -13076,7 +13077,6 @@ deathlike
 dispatched
 dissolutions
 drubber
-dosseret
 deciduoma
 disgospel
 discocarpium
