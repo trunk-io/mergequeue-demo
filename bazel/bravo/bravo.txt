@@ -2832,7 +2832,6 @@ beprank
 bilocation
 broadcasts
 blastophore
-biunivocal
 behither
 bandit
 barrater
@@ -12233,6 +12232,7 @@ blanketed
 boyar
 basilicalike
 bloedite
+biunivocal
 batteryman
 backhanded
 balsamroot
