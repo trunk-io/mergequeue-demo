@@ -260,6 +260,7 @@ endorsers
 exclamations
 eq
 epiphanies
+enfold
 evolves
 equalizing
 eirenarch
@@ -1574,7 +1575,6 @@ exercising
 embalmers
 equiangularity
 expulsatory
-enfold
 empory
 electre
 exhibitive
