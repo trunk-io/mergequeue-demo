@@ -4626,7 +4626,6 @@ demihake
 dentiroster
 descender
 dungyard
-devastated
 dullsville
 doorways
 dermatotome
@@ -8450,6 +8449,7 @@ deciliter
 domajig
 dopy
 diacritic
+devastated
 disshiver
 dogproof
 denunciated
