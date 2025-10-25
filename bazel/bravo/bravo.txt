@@ -2657,7 +2657,6 @@ bannack
 beadhouses
 bounced
 bonewood
-bristly
 bonnyclabber
 bienne
 bloodstanch
@@ -14607,6 +14606,7 @@ bombace
 bronchotomist
 bibliogony
 bolivar
+bristly
 bottomless
 burnishment
 baiocco

@@ -5203,7 +5203,6 @@ cellarers
 choosing
 castable
 castalian
-cardiopuncture
 comptonite
 cupreine
 chertier
@@ -14469,6 +14468,7 @@ commonsensical
 cronet
 crosstoes
 conditionate
+cardiopuncture
 campanella
 cananaean
 centerpiece
