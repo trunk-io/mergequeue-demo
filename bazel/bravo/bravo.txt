@@ -2488,7 +2488,6 @@ bardash
 briskets
 blattariae
 brazilins
-beruffled
 belibel
 bathochromatic
 breek
@@ -11359,6 +11358,7 @@ boot
 bacteroides
 blok
 besmokes
+beruffled
 bolometric
 beaproned
 benzazimide
