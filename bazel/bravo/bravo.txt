@@ -430,7 +430,6 @@ biomorphic
 balldress
 beknotting
 briseis
-beggardom
 bushman
 brewery
 biblically
@@ -2602,6 +2601,7 @@ beclowns
 believingly
 bubbling
 bicrons
+beggardom
 bogberry
 barghest
 baccara
