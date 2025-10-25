@@ -6589,6 +6589,7 @@ descension
 dump
 donor
 dragonfishes
+dewatered
 dyscrase
 dendrite
 despert
@@ -7928,7 +7929,6 @@ defoam
 depress
 displacing
 droughtiness
-dewatered
 devastate
 diamantiferous
 dewaters
