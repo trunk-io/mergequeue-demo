@@ -4882,7 +4882,6 @@ calistheneum
 colophonist
 cartwhip
 cimex
-carucage
 carucarius
 carucate
 cylices
@@ -9675,6 +9674,7 @@ confocally
 cheesecloth
 cheeselip
 champerties
+carucage
 couched
 cheesemongery
 cheesemongering
