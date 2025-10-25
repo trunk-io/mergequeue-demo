@@ -2654,7 +2654,6 @@ bandless
 bosser
 boomtowns
 bezaleel
-bannack
 beadhouses
 bounced
 bonewood
@@ -6784,6 +6783,7 @@ bulbocapnin
 begrudges
 balmony
 bowls
+bannack
 branchiosaurian
 briolette
 benzoyls
