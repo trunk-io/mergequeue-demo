@@ -7503,6 +7503,7 @@ cereals
 chinaberries
 clammyweed
 crawly
+crabstick
 chariotry
 cuneiform
 cogged
@@ -28019,7 +28020,6 @@ crablike
 crabman
 caradoc
 crabs
-crabstick
 comeatable
 confiner
 coreid
