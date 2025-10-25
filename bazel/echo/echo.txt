@@ -2384,7 +2384,6 @@ exch
 exclusions
 etamin
 epitrope
-ephor
 etruscology
 effoliate
 endocrinotherapy
@@ -13839,6 +13838,7 @@ eupeptically
 eclegma
 epicheiremata
 equidifferent
+ephor
 exploits
 extracostal
 eelpot
