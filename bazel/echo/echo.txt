@@ -3572,7 +3572,6 @@ ectocuniform
 enoplan
 epicele
 eutychianism
-electromechanics
 enskies
 encenter
 exemplifies
@@ -4491,6 +4490,7 @@ electrotest
 electrolyte
 epitasis
 engiscope
+electromechanics
 enarthrodia
 entasis
 euchysiderite
