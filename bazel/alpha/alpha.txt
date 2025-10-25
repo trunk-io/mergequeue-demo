@@ -4548,7 +4548,6 @@ abbreviators
 akinesic
 almury
 alterant
-aseptically
 assoils
 alliterational
 alignments
@@ -11999,6 +11998,7 @@ abbasid
 australopithecus
 averager
 abrasiometer
+aseptically
 ambulate
 anapterygota
 atpoints
