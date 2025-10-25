@@ -7623,7 +7623,6 @@ coes
 cotangent
 cerialia
 coralwort
-countersigning
 colchicia
 cerillo
 cerimans
@@ -25292,6 +25291,7 @@ canonries
 cablelike
 cereus
 chlorophyllaceous
+countersigning
 chastise
 corge
 curculionist
