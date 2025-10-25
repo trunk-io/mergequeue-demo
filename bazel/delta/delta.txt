@@ -9112,7 +9112,6 @@ dated
 distantness
 ductings
 dichroitic
-dihexahedral
 deoxygenization
 depictive
 divertise
@@ -14985,6 +14984,7 @@ deodand
 defogs
 dogears
 dogedom
+dihexahedral
 disobediently
 disownable
 dorsiflexor
