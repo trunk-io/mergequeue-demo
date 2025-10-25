@@ -21554,7 +21554,6 @@ conclusionally
 conclusive
 conclusively
 criterion
-chemicalize
 cementlike
 countable
 concoct
@@ -31685,6 +31684,7 @@ cusped
 comonomer
 cocozelle
 chiromancy
+chemicalize
 comradery
 cuspides
 chondromyxoma
