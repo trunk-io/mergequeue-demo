@@ -2737,6 +2737,7 @@ decresc
 dependancy
 dupion
 damnum
+diswont
 demetricize
 dishonour
 deservedly
@@ -9154,7 +9155,6 @@ dicing
 drachmae
 dicynodontia
 doto
-diswont
 deraigns
 dosimetry
 dicodeine
