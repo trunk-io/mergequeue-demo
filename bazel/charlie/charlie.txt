@@ -872,6 +872,7 @@ cairngorum
 cays
 combinators
 caite
+counterconversion
 caitif
 chrysophanic
 circean
@@ -13452,7 +13453,6 @@ cig
 cigarettes
 chromatype
 cigarfish
-counterconversion
 craspedum
 cottar
 curfewed
