@@ -5087,6 +5087,7 @@ affectivity
 affectum
 ankerite
 antipersonnel
+administrant
 ampulated
 arpen
 affiliation
@@ -18219,7 +18220,6 @@ acherontic
 accounsel
 aerostatic
 apulian
-administrant
 arthrorrhagia
 attesters
 avellano
