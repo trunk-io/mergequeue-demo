@@ -4837,7 +4837,6 @@ emeers
 exodos
 eparchs
 electro
-eireannach
 electrotheraputic
 exponible
 elastance
@@ -8942,6 +8941,7 @@ ecraseurs
 extusion
 ectopic
 elapid
+eireannach
 etching
 ephors
 ethnobotanical
