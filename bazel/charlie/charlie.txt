@@ -11827,7 +11827,6 @@ contents
 comprizable
 cobblestones
 chooser
-choosers
 chronotropic
 carbocer
 chop
@@ -20702,6 +20701,7 @@ circuiteer
 complainants
 conjugative
 complained
+choosers
 confusticate
 cruse
 coatracks
