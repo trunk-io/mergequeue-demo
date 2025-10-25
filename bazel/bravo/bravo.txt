@@ -3496,6 +3496,7 @@ bemists
 bickerers
 bowyers
 biont
+buffalos
 brantle
 breadman
 byrlakin
@@ -5282,7 +5283,6 @@ bulletmaking
 blubbery
 beauteousness
 behemoths
-buffalos
 bricky
 boarspear
 betowel
