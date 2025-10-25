@@ -271,7 +271,6 @@ appunctuation
 anopheline
 arcade
 aphydrotropism
-aulete
 aphanite
 amateurishness
 axiomatic
@@ -21894,6 +21893,7 @@ armipotent
 actuarial
 amess
 advowson
+aulete
 assiege
 acrologic
 aetiophyllin
