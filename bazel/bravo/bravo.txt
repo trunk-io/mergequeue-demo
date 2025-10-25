@@ -10250,6 +10250,7 @@ boweled
 bureaux
 battlers
 bucketmaker
+bookshelf
 bogsucker
 bitternut
 brisket
@@ -12710,7 +12711,6 @@ beguin
 basilary
 belotte
 bepimpling
-bookshelf
 borocalcite
 bari
 bokharan
