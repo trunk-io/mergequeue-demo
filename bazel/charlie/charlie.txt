@@ -19770,7 +19770,6 @@ combat
 combatable
 chroma
 cixiidae
-combatant
 cimbalom
 chrysaniline
 cribbings
@@ -22874,6 +22873,7 @@ carpoidea
 connotations
 connotative
 connotatively
+combatant
 connote
 connoting
 connubiality
