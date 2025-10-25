@@ -17661,7 +17661,6 @@ aftercast
 appanagist
 altitude
 athort
-astrographic
 assyriology
 aerostatics
 appendicocaecostomy
@@ -23000,6 +22999,7 @@ autocoherer
 antipneumococcic
 ambidexterous
 appositional
+astrographic
 advocaat
 amanitopsis
 aiolis
