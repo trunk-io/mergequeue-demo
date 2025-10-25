@@ -981,7 +981,6 @@ excisable
 eupnoeas
 easterly
 estriol
-electrodynamics
 eonian
 experimentalist
 entune
@@ -4612,6 +4611,7 @@ essex
 elling
 electorally
 emergences
+electrodynamics
 empyreuma
 electrophone
 elisha
