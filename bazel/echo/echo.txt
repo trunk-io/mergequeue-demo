@@ -442,7 +442,6 @@ extensors
 engrandizement
 embouchement
 electrocute
-eagres
 exhale
 echappe
 examinator
@@ -1676,6 +1675,7 @@ extraction
 exenterated
 epodic
 epitomatory
+eagres
 eccoproticophoric
 engorges
 exoculating
