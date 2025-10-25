@@ -4620,7 +4620,6 @@ demifigure
 dieresis
 docimasy
 disinflated
-decussis
 dropax
 defenestrated
 dufrenoysite
@@ -16559,6 +16558,7 @@ detachers
 desexualize
 docimastic
 disdainable
+decussis
 denunciation
 discountenancer
 dogma
