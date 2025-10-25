@@ -1197,6 +1197,7 @@ emissaryship
 especial
 elkhounds
 epilog
+epispermic
 enacts
 ervil
 ellachick
@@ -7953,7 +7954,6 @@ execrates
 enforest
 eximidus
 epipterous
-epispermic
 estrins
 esterifying
 eviscerate
