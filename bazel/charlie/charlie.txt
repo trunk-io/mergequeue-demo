@@ -13118,7 +13118,6 @@ cycadophyta
 craniograph
 cyanochroic
 climbingfishes
-catchable
 cycases
 counterscale
 cicatrice
@@ -26795,6 +26794,7 @@ crotalaria
 cotranslator
 counteracted
 coseismal
+catchable
 concernancy
 currishly
 controversialism
