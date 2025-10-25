@@ -7086,6 +7086,7 @@ bacteriemia
 bestay
 burleys
 beast
+bows
 boghole
 ballader
 besoothe
@@ -13982,7 +13983,6 @@ ballerinas
 baptizee
 bromal
 bimbil
-bows
 belter
 basset
 bloodletting
