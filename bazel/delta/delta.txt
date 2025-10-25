@@ -7593,6 +7593,7 @@ declaimed
 dominators
 deuterocanonical
 drepanium
+decessor
 defective
 decatizer
 dijudication
@@ -12393,7 +12394,6 @@ delobranchiata
 drolls
 demagogues
 dishabituated
-decessor
 demographical
 didinium
 deleteriousness
