@@ -10280,7 +10280,6 @@ electropower
 exostosis
 extrathoracic
 expungement
-enlief
 empair
 electroendosmose
 exordium
@@ -13155,6 +13154,7 @@ enserf
 echinostomiasis
 enticeful
 epileptoid
+enlief
 endorsees
 endobronchitis
 exotropia
