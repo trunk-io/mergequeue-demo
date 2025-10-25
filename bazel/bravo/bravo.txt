@@ -3863,6 +3863,7 @@ blunderbuss
 backmost
 bobsleds
 babion
+biperforate
 beakless
 beaks
 bienniums
@@ -17987,7 +17988,6 @@ berrypicking
 blobbiest
 burntly
 bryologist
-biperforate
 bleeze
 barracked
 bind
