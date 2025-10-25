@@ -1274,7 +1274,6 @@ bluff
 blea
 bioplastic
 baned
-bojo
 burlers
 beakful
 barrowcoat
@@ -8429,6 +8428,7 @@ bugger
 birch
 bromlite
 brotherton
+bojo
 blockage
 bearhound
 bawl
