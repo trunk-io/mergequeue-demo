@@ -3682,7 +3682,6 @@ chucker
 cephalothoraxes
 corrosibleness
 cardiotrophia
-cysticarpic
 chalkier
 cliquy
 channelized
@@ -3723,6 +3722,7 @@ carbonemia
 carbonide
 colpocele
 clipper
+cysticarpic
 cyclonology
 conicle
 cribbers
