@@ -1979,6 +1979,7 @@ bahuvrihi
 bankcard
 bethought
 bejewelled
+bouldered
 bicursal
 banknote
 bromes
@@ -13190,7 +13191,6 @@ bkbndr
 boardroom
 bedabbles
 barebone
-bouldered
 bejumbled
 backhanding
 baksheesh
