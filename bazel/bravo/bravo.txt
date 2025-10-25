@@ -4580,7 +4580,6 @@ bethinking
 bde
 blennorrhinia
 butlers
-ballistae
 banditry
 boatel
 buoyant
@@ -10275,6 +10274,7 @@ bedecked
 bromocresol
 buchmanite
 brontops
+ballistae
 bromination
 bayonets
 blurbs
