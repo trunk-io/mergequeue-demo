@@ -13480,6 +13480,7 @@ bricklike
 bladdery
 brightsome
 balaustine
+basidiospore
 bytownitite
 blunts
 butyryl
@@ -16053,7 +16054,6 @@ bumbee
 bhavan
 birdlike
 bungee
-basidiospore
 bufotenin
 bellying
 byeworkman
