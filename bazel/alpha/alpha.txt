@@ -22227,7 +22227,6 @@ assorters
 albertist
 archeology
 antiscale
-asthenies
 asthenophobia
 anguid
 antilemic
@@ -23392,6 +23391,7 @@ acheat
 appere
 asceticism
 asymmetrically
+asthenies
 albuminolysis
 adamantoma
 atrichous
