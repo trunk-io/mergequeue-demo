@@ -3704,7 +3704,6 @@ exp
 enrollments
 empresario
 etouffe
-efforce
 embussing
 emceeing
 esquiline
@@ -5837,6 +5836,7 @@ enteropneust
 emblemizing
 epigynum
 elect
+efforce
 eucharis
 exonerator
 eld
