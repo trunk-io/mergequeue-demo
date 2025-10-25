@@ -2282,7 +2282,6 @@ acinic
 atocha
 adjurors
 aggrate
-antistock
 aedes
 agrologies
 anomalocephalus
@@ -21863,6 +21862,7 @@ adverbiation
 algophagous
 apposite
 appetibility
+antistock
 auguries
 assessed
 assessment
