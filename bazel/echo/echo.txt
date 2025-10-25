@@ -2369,6 +2369,7 @@ ensignship
 encolden
 enfrai
 extoll
+enchantments
 encumbering
 emboweller
 epidemiologies
@@ -12955,7 +12956,6 @@ erotogenic
 elastase
 encephalonarcosis
 elegist
-enchantments
 ecphonesis
 epigastraeum
 edaphodont
