@@ -10736,7 +10736,6 @@ banyoro
 bedouin
 befreeze
 bachelry
-boutell
 barrelet
 barrators
 bowpots
@@ -13932,6 +13931,7 @@ bedemen
 buchite
 bombsights
 bromothymol
+boutell
 bromobenzyl
 bathypelagic
 bulgy
