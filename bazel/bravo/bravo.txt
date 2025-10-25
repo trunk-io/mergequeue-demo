@@ -864,7 +864,6 @@ breviaries
 bushelbasket
 bedposts
 boothage
-biopsychic
 biserrate
 bihai
 bannered
@@ -14492,6 +14491,7 @@ bushbody
 broadswords
 benzazide
 bravura
+biopsychic
 broken
 blousier
 blackfriars
