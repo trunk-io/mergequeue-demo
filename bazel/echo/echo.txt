@@ -2392,6 +2392,7 @@ exclusions
 etamin
 epitrope
 etruscology
+electroacoustically
 effoliate
 endocrinotherapy
 effranchisement
@@ -13589,7 +13590,6 @@ eyewaters
 etherialization
 entangled
 entocyst
-electroacoustically
 errantia
 empedoclean
 ermining
