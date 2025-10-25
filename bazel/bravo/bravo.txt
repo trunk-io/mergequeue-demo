@@ -2578,7 +2578,6 @@ brutalness
 bable
 boltsmith
 bleated
-bribeable
 bacteriolysin
 bumpy
 broadsword
@@ -3169,6 +3168,7 @@ bewhig
 begartered
 binal
 borealis
+bribeable
 butylic
 bookcraft
 bedrugging
