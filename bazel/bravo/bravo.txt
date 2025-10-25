@@ -7577,7 +7577,6 @@ boychicks
 buts
 bowdlerised
 brickwall
-ballistics
 biscuitroot
 bahar
 blades
@@ -11166,6 +11165,7 @@ balloters
 brunts
 bellow
 beneme
+ballistics
 brawler
 bribee
 bunglesome
