@@ -11593,7 +11593,6 @@ electric
 epifaunal
 eumeromorphic
 ensample
-evalue
 encolure
 entomologise
 epanisognathous
@@ -14129,6 +14128,7 @@ enfants
 epiphyses
 euphoric
 essenwood
+evalue
 educed
 egards
 earstones
