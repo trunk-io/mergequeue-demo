@@ -1193,7 +1193,6 @@ deceptitious
 dormin
 durgah
 drivelers
-daterman
 devourers
 dates
 dispell
@@ -6213,6 +6212,7 @@ declarer
 deric
 dawpate
 dissociability
+daterman
 documentations
 dratted
 dittograph
