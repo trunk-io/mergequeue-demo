@@ -730,6 +730,7 @@ diselenide
 demagnetisable
 destructors
 dialysable
+dangs
 draughtsmen
 depatriate
 deadflat
@@ -9895,7 +9896,6 @@ dilatants
 dodecahedron
 distillations
 durometer
-dangs
 doyleys
 dangleberry
 doormaking
