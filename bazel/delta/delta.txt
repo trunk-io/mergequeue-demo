@@ -3371,7 +3371,6 @@ demythologise
 drinkable
 digestibility
 diglot
-disjointness
 deciduousness
 deuterogelatose
 deliverables
@@ -15330,6 +15329,7 @@ doand
 dolphinfish
 diamorphosis
 diadkokinesia
+disjointness
 dolphins
 debarment
 dirhem
