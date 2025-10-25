@@ -12690,7 +12690,6 @@ bedash
 breechcloth
 brace
 beardless
-bebloom
 bestand
 bedclothes
 busying
@@ -17848,6 +17847,7 @@ barbicanage
 bewrays
 barbeque
 burster
+bebloom
 betray
 bvt
 blutwurst
