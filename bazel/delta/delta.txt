@@ -3192,7 +3192,6 @@ dragboat
 discumber
 deformed
 disobeyed
-dingy
 danli
 deambulatories
 disembarkations
@@ -15407,6 +15406,7 @@ disposal
 decocts
 doits
 deaspirate
+dingy
 distilleries
 denarinarii
 domesdays
