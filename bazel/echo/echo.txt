@@ -4708,7 +4708,6 @@ explains
 extroversive
 enfeature
 executorial
-experimenter
 elaphe
 ectromelic
 endosmotic
@@ -6727,6 +6726,7 @@ embryonic
 enjoys
 eats
 entitle
+experimenter
 exploder
 entocarotid
 excursionist
