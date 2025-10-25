@@ -14966,7 +14966,6 @@ bedels
 barytosulphate
 biconcavity
 backpacked
-basidium
 bindheimite
 buttercup
 belowdecks
@@ -15059,6 +15058,7 @@ bancha
 breathe
 blennophlogisma
 beglew
+basidium
 brachyure
 beleper
 breathiness
