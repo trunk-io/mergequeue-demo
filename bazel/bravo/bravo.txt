@@ -6122,7 +6122,6 @@ boatwise
 bassaris
 batikulin
 buttonholder
-barracking
 brandon
 blosmy
 bookmaker
@@ -15284,6 +15283,7 @@ bushes
 betire
 borehole
 beevish
+barracking
 burls
 brothe
 backchain
