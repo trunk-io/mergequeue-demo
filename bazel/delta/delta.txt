@@ -3515,6 +3515,7 @@ damaging
 diminishable
 devolatilisation
 digitising
+decrease
 duramater
 defuze
 diva
@@ -11976,7 +11977,6 @@ descries
 disbloom
 dentifrices
 degum
-decrease
 dragrope
 dimensuration
 diesels
