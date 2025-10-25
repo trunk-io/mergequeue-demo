@@ -7796,6 +7796,7 @@ bx
 barbettes
 bandoleers
 bathylithic
+beaverlike
 biker
 bulldogs
 blindish
@@ -10226,7 +10227,6 @@ bipalium
 boronic
 bedread
 benchman
-beaverlike
 bejumble
 benty
 broadax
