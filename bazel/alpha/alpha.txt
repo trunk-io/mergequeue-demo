@@ -4420,6 +4420,7 @@ advertence
 aired
 apagoge
 aerobatics
+anears
 alehouses
 aegopodium
 abrotine
@@ -19578,7 +19579,6 @@ ambitious
 amylon
 adamantoblast
 adoniram
-anears
 antedawn
 avoiders
 attainer
