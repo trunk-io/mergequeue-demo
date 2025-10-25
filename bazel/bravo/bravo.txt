@@ -10462,7 +10462,6 @@ biaxially
 biped
 biogeographer
 bioblastic
-bordarius
 blaoner
 burinist
 breakneck
@@ -13205,6 +13204,7 @@ borrasca
 b
 bitypic
 befile
+bordarius
 bedgown
 borrower
 bubales
