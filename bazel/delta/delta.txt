@@ -1108,6 +1108,7 @@ doloriferous
 doormat
 devilhood
 doit
+dorsolum
 diggable
 dosseret
 dribblers
@@ -1725,7 +1726,6 @@ debacle
 disregardfully
 dulcetness
 dreadfulness
-dorsolum
 dentine
 decongest
 disowned
