@@ -1983,7 +1983,6 @@ act
 academy
 actuation
 archways
-apprenticement
 abbeystede
 anticynical
 anathemas
@@ -6552,6 +6551,7 @@ ambagiosity
 ambitions
 adlerian
 albi
+apprenticement
 anesthyl
 argyrose
 autunian
