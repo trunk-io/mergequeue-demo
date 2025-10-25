@@ -8363,6 +8363,7 @@ enablement
 eunomia
 electrothermostat
 electrics
+endosmoses
 emetically
 enterobiasis
 expressio
@@ -9194,7 +9195,6 @@ enflagellation
 egency
 etalon
 extrabuccal
-endosmoses
 emarginula
 egeria
 enoplion
