@@ -10696,7 +10696,6 @@ derv
 debriefed
 diesinker
 disbalancement
-dimension
 debellation
 dipleurule
 disesteemed
@@ -14179,6 +14178,7 @@ depurated
 dramatists
 dicer
 dreidl
+dimension
 diverticle
 doublet
 disvisor
