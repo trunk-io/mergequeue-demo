@@ -12502,6 +12502,7 @@ carrageen
 cavalrymen
 colport
 chifferobe
+cornrow
 crestless
 coachmaking
 chrysorin
@@ -21200,7 +21201,6 @@ charleston
 crawler
 centralisation
 cuckoopint
-cornrow
 cunnings
 cycloheptanone
 carcerist
