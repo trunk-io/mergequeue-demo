@@ -8521,7 +8521,6 @@ bawdship
 betake
 baronizing
 benzoline
-bonuses
 billow
 bimorph
 bundestag
@@ -12678,6 +12677,7 @@ bloke
 boreable
 bartram
 basaltine
+bonuses
 bumpsy
 bachelorwise
 blindless
