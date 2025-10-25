@@ -7410,6 +7410,7 @@ embosses
 escalier
 encamp
 electrothermotic
+elance
 extrathermodynamic
 entitule
 examinant
@@ -8238,7 +8239,6 @@ exorcisers
 excludible
 ensculpture
 epitomes
-elance
 elaidinic
 ethnobiology
 endophasic
