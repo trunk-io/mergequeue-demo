@@ -6767,7 +6767,6 @@ evergreens
 enlister
 enddamage
 epipodia
-episome
 etiogenic
 eudora
 epaule
@@ -10192,6 +10191,7 @@ establisher
 ergative
 extraphysiological
 endosteally
+episome
 erses
 emunct
 enqueues
