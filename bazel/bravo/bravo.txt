@@ -824,6 +824,7 @@ bewrayers
 bedsprings
 brined
 benzalcohol
+boon
 baggala
 beckets
 beshouts
@@ -10635,7 +10636,6 @@ boteroll
 beguilement
 bonism
 ballfield
-boon
 birettas
 battleground
 boweling
