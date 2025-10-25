@@ -6461,6 +6461,7 @@ choplogic
 ctn
 cavie
 cannonballing
+capetown
 cavyyard
 caviled
 carotin
@@ -19753,7 +19754,6 @@ catocala
 cinematics
 chawan
 comandra
-capetown
 caparisons
 countermoving
 comate
