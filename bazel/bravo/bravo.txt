@@ -550,6 +550,7 @@ baudrons
 backtracks
 bunt
 backveld
+beans
 beden
 beech
 bayok
@@ -3911,7 +3912,6 @@ basifacial
 bicentennials
 babillard
 beretta
-beans
 bacillite
 bushie
 blarnid
