@@ -722,6 +722,7 @@ allurements
 airlock
 anisado
 alop
+antistock
 adynamic
 aluminish
 abreed
@@ -2293,7 +2294,6 @@ acinic
 atocha
 adjurors
 aggrate
-antistock
 aedes
 agrologies
 anomalocephalus

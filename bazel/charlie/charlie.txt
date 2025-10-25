@@ -15418,7 +15418,6 @@ caudicle
 cyprinodontidae
 cuerpo
 clapboarding
-cleidomastoid
 childrenite
 chimneylike
 clapcake
@@ -18425,6 +18424,7 @@ cerite
 consumerist
 continuums
 cogweels
+cleidomastoid
 cogwood
 chucky
 cohabitancy
