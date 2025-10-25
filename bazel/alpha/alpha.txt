@@ -7323,6 +7323,7 @@ aberrometer
 alstroemeria
 additives
 aircrew
+applotment
 apparatuses
 alum
 anthecologist
@@ -17923,7 +17924,6 @@ applosion
 adroop
 atmospherically
 antiegotistical
-applotment
 asphyxiate
 aratinga
 aurifex
