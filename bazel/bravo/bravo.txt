@@ -1824,7 +1824,6 @@ beride
 bandanas
 bolometer
 benitoite
-bitumen
 backflip
 bootstrap
 bergama
@@ -4946,6 +4945,7 @@ bodrage
 braised
 berberia
 blunder
+bitumen
 bushgoat
 bikkurim
 braconid
