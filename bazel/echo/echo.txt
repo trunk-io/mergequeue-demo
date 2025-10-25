@@ -4495,7 +4495,6 @@ enforth
 entothorax
 etherialize
 easement
-euphemistic
 edentata
 epapophysial
 electrolyses
@@ -5973,6 +5972,7 @@ enclaret
 epoxide
 endocoelar
 eff
+euphemistic
 entomologic
 electromyographical
 empowers
