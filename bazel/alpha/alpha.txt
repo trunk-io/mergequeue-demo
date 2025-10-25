@@ -6236,7 +6236,6 @@ agrammatica
 anoplocephalic
 alingual
 assuefaction
-agrammatism
 antestature
 adenoblast
 aune
@@ -6904,6 +6903,7 @@ anorthopia
 attributes
 anterin
 agonistically
+agrammatism
 attributive
 agglomerator
 alanyls
