@@ -2866,6 +2866,7 @@ anargyros
 ammunition
 aeq
 automatizes
+abstractors
 awnings
 ancistroid
 augusta
@@ -12086,7 +12087,6 @@ adverted
 anthropogeography
 alternatives
 abduced
-abstractors
 apar
 anise
 abichite
