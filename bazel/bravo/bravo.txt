@@ -4584,7 +4584,6 @@ bde
 blennorrhinia
 butlers
 ballistae
-barid
 banditry
 boatel
 buoyant
@@ -16255,6 +16254,7 @@ bracked
 blearing
 bazooka
 behn
+barid
 bottomries
 blinders
 butterflies
