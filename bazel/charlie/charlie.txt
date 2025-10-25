@@ -3158,7 +3158,6 @@ counterthrust
 crayfishing
 cymaphen
 capitolian
-capitoline
 counselor
 capitolium
 capitula
@@ -22425,6 +22424,7 @@ changos
 conglobe
 curiums
 conglobed
+capitoline
 conglobes
 calzoons
 conglomerating
