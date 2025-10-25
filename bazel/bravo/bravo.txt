@@ -4451,7 +4451,6 @@ babylonians
 bedtick
 buccula
 bogyland
-bedchair
 bedchairs
 brachelytrous
 blader
@@ -13366,6 +13365,7 @@ bombernickel
 brassicaceae
 bucculae
 bootlace
+bedchair
 byroad
 beltis
 botanize
