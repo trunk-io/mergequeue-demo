@@ -2663,7 +2663,6 @@ bonnyclabber
 bienne
 bloodstanch
 barodynamic
-barognosis
 boylas
 bathymeter
 bismutoplagionite
@@ -8559,6 +8558,7 @@ bespreads
 blockwood
 britzkas
 bethroot
+barognosis
 bimanal
 binoxalate
 brimless
