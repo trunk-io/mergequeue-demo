@@ -4745,7 +4745,6 @@ denticulate
 demise
 depas
 ditolyl
-diaeresis
 drysalter
 disguisedness
 dislodging
@@ -15454,6 +15453,7 @@ domiciliated
 dermatologist
 desipience
 dunnaged
+diaeresis
 dumpings
 devility
 detectivism
