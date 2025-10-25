@@ -8812,7 +8812,6 @@ builders
 balneology
 biodynamical
 bridoon
-bocal
 billons
 bounty
 boart
@@ -9317,6 +9316,7 @@ byte
 befavor
 bisectrix
 belga
+bocal
 birdfarm
 boondock
 blankmindedness
