@@ -2853,6 +2853,7 @@ beslab
 broad
 barrelled
 balmawhapple
+brevit
 barrelmaker
 bleater
 brassavola
@@ -13391,7 +13392,6 @@ brutalisation
 besnows
 barometry
 bradyphagia
-brevit
 bothersome
 bothered
 baffing
