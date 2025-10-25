@@ -1726,7 +1726,6 @@ carnies
 curagh
 corynebacteria
 cyanized
-centry
 conal
 contrive
 cithern
@@ -31807,6 +31806,7 @@ cutdowns
 cimeliarch
 coalescency
 cantdog
+centry
 covellite
 conscriptive
 catostomid
