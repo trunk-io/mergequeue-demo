@@ -1005,6 +1005,7 @@ contrafocal
 cormorants
 colocola
 colourtype
+chronotropic
 cohoba
 calascione
 cucullate
@@ -11835,7 +11836,6 @@ contents
 comprizable
 cobblestones
 chooser
-chronotropic
 carbocer
 chop
 chalcids
