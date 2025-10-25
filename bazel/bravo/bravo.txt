@@ -2571,7 +2571,6 @@ bacteriolysin
 bumpy
 broadsword
 bismuthite
-beydom
 bitewing
 burdenless
 bedell
@@ -5734,6 +5733,7 @@ billeters
 bigwig
 berob
 beshiver
+beydom
 bhoots
 bullions
 barukhzy
