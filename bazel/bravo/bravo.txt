@@ -5312,7 +5312,6 @@ boithrin
 bechamel
 ballaster
 battlestead
-budgerigar
 batteners
 bootid
 bombax
@@ -12520,6 +12519,7 @@ begowned
 bidarkees
 brattishing
 bluish
+budgerigar
 bungtown
 benzylpenicillin
 bumtrap
