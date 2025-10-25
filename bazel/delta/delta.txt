@@ -5934,7 +5934,6 @@ disbeliefs
 dooryards
 dispersal
 defaitisme
-depressed
 damage
 dingman
 dragster
@@ -16568,6 +16567,7 @@ docimastic
 disdainable
 decussis
 denunciation
+depressed
 discountenancer
 dogma
 dehydrofreezing
