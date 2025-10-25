@@ -3514,7 +3514,6 @@ armoire
 autojuggernaut
 apologies
 automaton
-apikoros
 alca
 altos
 autophobia
@@ -19888,6 +19887,7 @@ antsy
 arkansawyer
 alodial
 acylase
+apikoros
 antifouling
 abjudged
 atterr
