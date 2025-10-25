@@ -5289,7 +5289,6 @@ bequote
 balsamina
 baviere
 bisexed
-balai
 bandying
 becompass
 brains
@@ -11824,6 +11823,7 @@ barriers
 besmile
 bullfoot
 betrinket
+balai
 brunella
 bolases
 bootlegging
