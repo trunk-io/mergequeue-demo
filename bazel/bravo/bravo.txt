@@ -5289,6 +5289,7 @@ behemoths
 buffalos
 bricky
 boarspear
+betowel
 bacteriocyte
 babbie
 burweeds
@@ -9427,7 +9428,6 @@ bespatterment
 bubinga
 batata
 bibio
-betowel
 bronchodilatation
 bletonism
 barricos
