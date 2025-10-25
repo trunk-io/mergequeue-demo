@@ -4866,6 +4866,7 @@ earthmove
 euthyneural
 erect
 exploratory
+epidemy
 erectility
 excurse
 elench
@@ -13243,7 +13244,6 @@ emigrated
 emendicate
 ethylating
 exorcisms
-epidemy
 encauma
 electrify
 endometry
