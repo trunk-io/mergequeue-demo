@@ -980,7 +980,6 @@ electrodynamics
 eonian
 experimentalist
 entune
-embulk
 eringos
 euboic
 embankment
@@ -8517,6 +8516,7 @@ enchondromas
 endoceras
 erbium
 engystomatidae
+embulk
 eupyrene
 espy
 earth
