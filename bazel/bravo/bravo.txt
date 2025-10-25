@@ -6955,6 +6955,7 @@ brumby
 boatmen
 bezzant
 bricklaying
+behaviours
 briquetting
 bonally
 bespeak
@@ -12315,7 +12316,6 @@ bacteriophagic
 bekick
 budgets
 brainwashes
-behaviours
 borated
 blumea
 blindweed
