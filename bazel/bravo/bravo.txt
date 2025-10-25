@@ -1930,6 +1930,7 @@ bindweeds
 brujos
 bloomers
 brachial
+barbola
 bumbling
 begrutten
 batamote
@@ -5091,7 +5092,6 @@ battu
 boppist
 balloonery
 burly
-barbola
 bieennia
 burdensome
 beswitch
