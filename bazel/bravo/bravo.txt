@@ -12494,6 +12494,7 @@ breakless
 boardlike
 boned
 bousing
+briar
 befogging
 bloodleaf
 blocklayer
@@ -15242,7 +15243,6 @@ beswarming
 bornan
 beback
 buceros
-briar
 boullework
 barnier
 briard
