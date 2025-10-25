@@ -11337,7 +11337,6 @@ chariots
 chloroamine
 counselled
 cuttlebone
-chloroaurite
 collegia
 catawbas
 chlorobenzene
@@ -20812,6 +20811,7 @@ compliances
 compliancy
 compliant
 compiling
+chloroaurite
 consciencewise
 cutlings
 ceremonious
