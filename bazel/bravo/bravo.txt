@@ -3901,6 +3901,7 @@ bronteum
 branchings
 brakeman
 beamroom
+barnaby
 baghouse
 bantlings
 brickred
@@ -14651,7 +14652,6 @@ belong
 begiggle
 buckeroo
 bacchanalias
-barnaby
 buggyman
 boethusian
 borwort
