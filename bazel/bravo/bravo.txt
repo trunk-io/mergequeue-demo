@@ -4843,6 +4843,7 @@ bunder
 bonesets
 blackland
 bumpoff
+bartend
 bugs
 barlafumble
 biogenesis
@@ -12848,7 +12849,6 @@ bottega
 borohydride
 bicyclical
 brasses
-bartend
 brainpans
 blackishness
 barbeled
