@@ -26390,7 +26390,6 @@ consequency
 causational
 cistvaen
 costoabdominal
-costoapical
 cholemia
 cathartic
 colistins
@@ -30722,6 +30721,7 @@ conter
 culavamsa
 cytoparaplastin
 coolwort
+costoapical
 cuirassier
 classical
 cocoonery
