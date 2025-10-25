@@ -2573,7 +2573,6 @@ bicycler
 barkless
 broody
 batfowler
-biaxal
 besotter
 bell
 bettine
@@ -6251,6 +6250,7 @@ borize
 blockbusters
 basichromatic
 biostatic
+biaxal
 boonfellow
 boob
 beamy
