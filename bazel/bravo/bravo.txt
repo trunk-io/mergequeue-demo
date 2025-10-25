@@ -34,6 +34,7 @@ barbara
 boardable
 bronchoconstrictor
 broomwort
+beseech
 bidar
 bisaltae
 barroom
@@ -4265,7 +4266,6 @@ biscuits
 beala
 batavian
 bierbalk
-beseech
 bolt
 behemothic
 bulkiness
