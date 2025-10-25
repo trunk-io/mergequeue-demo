@@ -1860,7 +1860,6 @@ collectorate
 cambric
 chelonia
 cartonnage
-cirrocumulus
 cambricleaf
 colobus
 curs
@@ -5648,6 +5647,7 @@ catchweight
 caretaker
 catchword
 centuplicated
+cirrocumulus
 counterinsurgents
 catclaw
 catachrestically
