@@ -5956,6 +5956,7 @@ chortlers
 chaplet
 cathouse
 carryable
+cellarer
 cathouses
 cokelike
 crownling
@@ -13821,7 +13822,6 @@ cineoles
 cinephone
 catechize
 concubinal
-cellarer
 countrify
 complicacies
 crawfish
