@@ -3289,7 +3289,6 @@ attackman
 adcons
 agriculturer
 acocotl
-alaunt
 alectoropodes
 antipredeterminant
 azotite
@@ -4920,6 +4919,7 @@ aggrandizes
 argh
 argas
 astrogony
+alaunt
 antihierarchy
 antiganting
 antiliquor
