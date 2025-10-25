@@ -3598,7 +3598,6 @@ barrace
 boffos
 boffolas
 blushiness
-braininess
 bluegrass
 bodysuits
 battlewagon
@@ -8197,6 +8196,7 @@ biotechnology
 baldly
 buvette
 brazenly
+braininess
 baioc
 baburd
 beanbags
