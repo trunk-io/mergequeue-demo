@@ -1110,7 +1110,6 @@ bestubbled
 bajocco
 byes
 bedstaves
-begirdles
 bajra
 bedarkening
 bestrown
@@ -8201,6 +8200,7 @@ byzantinism
 bonspell
 boughpot
 bloater
+begirdles
 bioactivity
 biggie
 beauclerc
