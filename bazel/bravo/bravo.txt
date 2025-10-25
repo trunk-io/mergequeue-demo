@@ -11391,7 +11391,6 @@ beguiled
 bedstraw
 bibliopoly
 brules
-bobolinks
 bown
 boot
 bacteroides
@@ -13263,6 +13262,7 @@ beefers
 backtracking
 bristletail
 brawest
+bobolinks
 boshes
 bivouaced
 boneshaker
