@@ -677,7 +677,6 @@ batholithic
 badness
 booklice
 breakaxe
-boomlet
 billard
 bopyrid
 brief
@@ -12359,6 +12358,7 @@ bathyscaphe
 balao
 blastemata
 blow
+boomlet
 bacteriodiagnosis
 broideries
 bardulph
