@@ -6777,7 +6777,6 @@ enchantress
 expergefaction
 efph
 exesion
-esociform
 equus
 entrancingly
 electrometeor
@@ -10772,6 +10771,7 @@ enchasing
 endimanche
 exigent
 enditing
+esociform
 enumerations
 etas
 equestrianize
