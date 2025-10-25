@@ -14091,6 +14091,7 @@ caponiere
 cypre
 carrioles
 corslet
+conamed
 corpse
 cistuses
 cypressed
@@ -14374,7 +14375,6 @@ cyanidation
 crinanite
 cevadilla
 coolidge
-conamed
 charmlessly
 cutpurse
 citicism
