@@ -3786,7 +3786,6 @@ continuancy
 candlerent
 caraguata
 carburetant
-carbureted
 carburetion
 compsothlypidae
 conformational
@@ -26307,6 +26306,7 @@ cohitre
 cyanobenzene
 consolidated
 chrysididae
+carbureted
 cystophthisis
 compone
 clinchingness
