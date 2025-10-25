@@ -6611,7 +6611,6 @@ cedilla
 cornbell
 churchwardenize
 cedillas
-curviness
 cryptographer
 cosheath
 conglution
@@ -14000,6 +13999,7 @@ cinquecentist
 coalfishes
 coquetries
 canada
+curviness
 cinquefoil
 corsie
 corporature
