@@ -1779,7 +1779,6 @@ chairmen
 carrys
 carucal
 cercelee
-chopped
 chivaring
 camarin
 carboras
@@ -29980,6 +29979,7 @@ coinheritance
 canadianize
 cammocky
 cricket
+chopped
 coparcenary
 cacam
 cetid
