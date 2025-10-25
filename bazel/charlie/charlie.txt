@@ -7223,7 +7223,6 @@ cylinderer
 castellatus
 cementum
 centrums
-cancrizans
 centum
 catarinite
 cofeatures
@@ -18184,6 +18183,7 @@ copyfitting
 coequates
 coerced
 combust
+cancrizans
 cresols
 clarifications
 calendry
