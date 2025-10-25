@@ -6608,7 +6608,6 @@ convolvement
 contaminating
 cervulus
 cedars
-cerambycid
 coadjuvancy
 cowpokes
 chrobat
@@ -22295,6 +22294,7 @@ confounds
 convalesced
 clams
 cepter
+cerambycid
 centrutra
 cystectasy
 chinwag
