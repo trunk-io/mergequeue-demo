@@ -11437,7 +11437,6 @@ dupondius
 demijohns
 disable
 discipling
-depopulator
 dietaries
 documenters
 dispraising
@@ -14294,6 +14293,7 @@ deglamorize
 dicastery
 desolation
 dogbush
+depopulator
 disillusionment
 disperato
 dittoes
