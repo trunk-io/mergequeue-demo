@@ -4611,6 +4611,7 @@ descender
 dungyard
 devastated
 dullsville
+doorways
 dermatotome
 diwans
 dah
@@ -16386,7 +16387,6 @@ defile
 drawnwork
 druggeries
 dite
-doorways
 dicoelous
 deputatively
 dermatographic
