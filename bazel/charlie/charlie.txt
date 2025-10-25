@@ -19065,7 +19065,6 @@ castigations
 coralla
 chase
 combattant
-collembole
 cokernut
 collembolous
 conciliabulum
@@ -28078,6 +28077,7 @@ cracking
 crackings
 contracyclical
 cepolidae
+collembole
 crackles
 coniferae
 crackly
