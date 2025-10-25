@@ -3233,7 +3233,6 @@ electrification
 erik
 essorant
 ermitophobia
-echolocate
 eutaxite
 evocation
 epiphyte
@@ -11401,6 +11400,7 @@ eavesdropping
 epizoa
 exalting
 entomic
+echolocate
 edger
 extortionist
 episcopalian
