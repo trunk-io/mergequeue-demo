@@ -1737,7 +1737,6 @@ extractive
 encephalin
 extraepiphyseal
 eightling
-extemporal
 episodically
 eightpenny
 euler
@@ -6141,6 +6140,7 @@ ecdysone
 expectorate
 exoduses
 egoistic
+extemporal
 enigmatology
 efficacity
 encroacher
