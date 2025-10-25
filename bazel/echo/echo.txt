@@ -3190,6 +3190,7 @@ eggberries
 endocyemate
 electrotitration
 entirities
+entoptically
 extralegal
 elutor
 extruders
@@ -7031,7 +7032,6 @@ engouement
 earnestly
 estocs
 entailer
-entoptically
 epidiascopic
 eng
 epoptic
