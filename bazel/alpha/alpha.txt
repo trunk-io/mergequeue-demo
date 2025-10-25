@@ -1535,6 +1535,7 @@ allaying
 auscultoscope
 antenarial
 aeraria
+abstriction
 accrescence
 atavic
 antidotal
@@ -11722,7 +11723,6 @@ antenor
 alarbus
 amphitryon
 asphaltic
-abstriction
 artillery
 antitragi
 arrayal
