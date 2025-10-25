@@ -5362,6 +5362,7 @@ bathymetry
 broomballer
 bagatine
 blenniiform
+bandoline
 bilanders
 blind
 becrimed
@@ -11186,7 +11187,6 @@ bisulphide
 baluster
 bluecaps
 bolstering
-bandoline
 belched
 besing
 baptist
