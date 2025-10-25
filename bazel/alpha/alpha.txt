@@ -4706,7 +4706,6 @@ adorns
 aspalax
 ampule
 abortuses
-archlute
 acropodium
 aeroboat
 alkaline
@@ -21529,6 +21528,7 @@ aryballoid
 atomatic
 aloysia
 aedoeology
+archlute
 arusha
 avys
 axillary
