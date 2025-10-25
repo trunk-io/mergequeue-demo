@@ -8416,7 +8416,6 @@ biopsic
 bafaro
 beakier
 breathability
-balantidium
 bromhidrosis
 bleareye
 blksize
@@ -10088,6 +10087,7 @@ bescours
 bizel
 brings
 backfired
+balantidium
 backwatered
 bowldering
 bisabol
