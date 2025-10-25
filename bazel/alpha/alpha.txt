@@ -2839,7 +2839,6 @@ agelast
 antilacrosser
 asylums
 afforestment
-automorphic
 actaeon
 aileen
 amylolysis
@@ -4618,6 +4617,7 @@ alkalizes
 agastric
 amadous
 american
+automorphic
 astatines
 antimysticism
 aleutians
