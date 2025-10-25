@@ -3465,7 +3465,6 @@ blennenteritis
 briefing
 bedroom
 bioethics
-bornites
 biofog
 bathrobes
 brothy
@@ -7859,6 +7858,7 @@ bibliopolist
 bibliothecarian
 belongings
 bearwoods
+bornites
 bungalows
 baseline
 biophysicist
