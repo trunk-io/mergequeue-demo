@@ -3464,6 +3464,7 @@ exappendiculate
 engrave
 enteron
 elusiveness
+endrins
 euryhaline
 ectromelian
 emissi
@@ -11951,7 +11952,6 @@ engarb
 entocranial
 epineural
 edged
-endrins
 expirate
 entorganism
 electroculture
