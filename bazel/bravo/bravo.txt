@@ -11953,7 +11953,6 @@ bailment
 billot
 borolanite
 broughams
-bathvillite
 bogbeans
 bantus
 ballonet
@@ -15271,6 +15270,7 @@ bribees
 briberies
 bacchar
 besmudged
+bathvillite
 backslash
 bribing
 bellowsmaker
