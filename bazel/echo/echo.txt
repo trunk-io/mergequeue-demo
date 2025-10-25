@@ -10309,7 +10309,6 @@ enlargedness
 ewerer
 endostomata
 enchodontid
-equiprobability
 expeditious
 evites
 echopractic
@@ -11433,6 +11432,7 @@ encl
 excorticating
 eximious
 ensweep
+equiprobability
 empaler
 enform
 experimenting
