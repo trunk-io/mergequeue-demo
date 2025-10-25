@@ -18455,7 +18455,6 @@ clericalize
 chondrosarcoma
 centrosymmetrical
 crosslet
-cytotropism
 corebel
 chorister
 cajou
@@ -20470,6 +20469,7 @@ citterns
 compressional
 commercializing
 compagnies
+cytotropism
 condonative
 clappe
 concamerate
