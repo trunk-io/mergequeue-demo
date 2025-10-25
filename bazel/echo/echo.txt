@@ -69,7 +69,6 @@ enmeshed
 earpick
 exclaimers
 extractible
-exr
 excoct
 earpiece
 exogen
@@ -14182,6 +14181,7 @@ expandability
 enfilade
 excavator
 extrachromosomal
+exr
 emote
 encomium
 estrogenic
