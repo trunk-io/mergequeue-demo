@@ -2088,7 +2088,6 @@ enrib
 eventuates
 eviscerates
 electioneering
-endocyclic
 elcaja
 efflorescence
 eriocaulon
@@ -8550,6 +8549,7 @@ experiencible
 eastwardly
 extensure
 empocket
+endocyclic
 excelsin
 encommon
 entotympanic
