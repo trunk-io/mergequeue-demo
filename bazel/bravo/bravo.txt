@@ -3310,7 +3310,6 @@ battalion
 brandrith
 besieges
 bookshop
-baetyl
 bluegills
 boatings
 bellonion
@@ -12291,6 +12290,7 @@ brillante
 beaugregory
 benzyl
 bootee
+baetyl
 benzophenanthroline
 bacteriophagic
 bekick
