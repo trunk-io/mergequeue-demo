@@ -2795,7 +2795,6 @@ encephalotomy
 enterotomy
 eleutherios
 enveloper
-excise
 etholide
 exmoor
 evince
@@ -13452,6 +13451,7 @@ eskimoid
 enaction
 external
 extensibleness
+excise
 ensilages
 enterogastrone
 emerant
