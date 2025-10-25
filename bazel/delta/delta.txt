@@ -396,7 +396,6 @@ durdenite
 daimyo
 dragrope
 dihydrated
-daimios
 daimyos
 drinkers
 dumpies
@@ -6840,6 +6839,7 @@ dispossess
 dihedral
 dodecatyl
 despond
+daimios
 dirtboard
 diselectrify
 deirid
