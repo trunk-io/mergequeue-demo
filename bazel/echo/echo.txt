@@ -3929,6 +3929,7 @@ eumenidae
 enif
 exilarch
 endure
+emulating
 editorializations
 endrudge
 enactments
@@ -10554,7 +10555,6 @@ enrol
 effuse
 elydoric
 ebullate
-emulating
 evaporate
 enantiomorphous
 ettirone
