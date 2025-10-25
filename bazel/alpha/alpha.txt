@@ -8658,7 +8658,6 @@ antibishop
 agametes
 accorders
 androsphinx
-adeliza
 anastomosis
 ambiences
 accidencies
@@ -12113,6 +12112,7 @@ assails
 activital
 acquisitions
 amorphi
+adeliza
 antiviral
 apophysial
 autoreflection
