@@ -5239,7 +5239,6 @@ caused
 crippler
 conand
 chammy
-checkman
 cubododecahedral
 cinerararia
 cyanates
@@ -18169,6 +18168,7 @@ campman
 chopping
 conformant
 contourne
+checkman
 coequals
 cinematographically
 consensual
