@@ -5316,7 +5316,6 @@ bechamel
 ballaster
 battlestead
 budgerigar
-bears
 batteners
 bootid
 bombax
@@ -7827,6 +7826,7 @@ beclasp
 broadleaves
 bursty
 bastonet
+bears
 bannets
 billetty
 beeping
