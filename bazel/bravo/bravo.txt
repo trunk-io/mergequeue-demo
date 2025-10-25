@@ -2577,6 +2577,7 @@ bacteriolysin
 bumpy
 broadsword
 bismuthite
+berrypicking
 beydom
 bitewing
 burdenless
@@ -17982,7 +17983,6 @@ boread
 bobsleded
 baxterian
 budgerygah
-berrypicking
 blobbiest
 burntly
 bryologist
