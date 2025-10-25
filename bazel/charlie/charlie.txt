@@ -27040,6 +27040,7 @@ cudava
 choppers
 chilopod
 choux
+coloniser
 counterfeits
 counterfire
 counterflange
@@ -28760,7 +28761,6 @@ crotches
 carbolic
 charpoy
 cytolymph
-coloniser
 candlewicking
 canonises
 crannoger
