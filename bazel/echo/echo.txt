@@ -5767,7 +5767,6 @@ exothermicity
 eelery
 equidiurnal
 enterotoxin
-enterobiliary
 elves
 emlen
 expiations
@@ -12250,6 +12249,7 @@ enseat
 enucleated
 exuvia
 expirator
+enterobiliary
 emissions
 evertebrate
 embarrassments
