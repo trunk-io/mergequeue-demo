@@ -12370,7 +12370,6 @@ disinterment
 dinos
 dishabille
 determinator
-direction
 damselfly
 degomme
 divast
@@ -15355,6 +15354,7 @@ doand
 dolphinfish
 diamorphosis
 diadkokinesia
+direction
 disjointness
 dolphins
 debarment
