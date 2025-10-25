@@ -5738,7 +5738,6 @@ bowgrace
 ballpoint
 bethumps
 biplane
-belonger
 biased
 bonnocks
 bee
@@ -11156,6 +11155,7 @@ boff
 batterfang
 bolsterer
 bastile
+belonger
 baudery
 bacteroidal
 birle
