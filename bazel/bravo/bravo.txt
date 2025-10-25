@@ -6391,7 +6391,6 @@ bistro
 backbreaking
 bugwort
 bibliotaphe
-botaurus
 bombyx
 bulkage
 bestick
@@ -11651,6 +11650,7 @@ brants
 brahminist
 bemoil
 beginning
+botaurus
 begemmed
 bouchette
 bipolarize
