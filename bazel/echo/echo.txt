@@ -1652,6 +1652,7 @@ enable
 exampled
 eminence
 exenteration
+emote
 encephalasthenia
 earplugs
 embog
@@ -14178,7 +14179,6 @@ enfilade
 excavator
 extrachromosomal
 exr
-emote
 encomium
 estrogenic
 eurous
