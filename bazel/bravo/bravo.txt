@@ -3443,6 +3443,7 @@ beswarms
 bromellite
 bathkol
 bathmat
+bonity
 befringe
 background
 blackberry
@@ -4084,7 +4085,6 @@ basurale
 balearica
 blessing
 bullshots
-bonity
 bonewort
 baroscope
 backwood
