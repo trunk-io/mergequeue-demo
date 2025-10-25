@@ -10813,6 +10813,7 @@ bandstands
 blick
 bullbeggar
 brasser
+bibliograph
 baldrics
 beautifier
 bulldogger
@@ -17868,7 +17869,6 @@ boleweed
 befire
 bookish
 bestselling
-bibliograph
 brawns
 bobotie
 braehead
