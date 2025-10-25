@@ -670,7 +670,6 @@ biorgan
 badass
 botonn
 bathyscaphes
-breathable
 bumpkinly
 britches
 batholithic
@@ -14367,6 +14366,7 @@ backstab
 betrayal
 bagfuls
 bivalved
+breathable
 blueings
 binnacle
 basketware
