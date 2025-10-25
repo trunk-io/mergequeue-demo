@@ -11545,7 +11545,6 @@ aponogetonaceae
 angolans
 anteoperculum
 amt
-amtman
 adactyl
 assecurator
 allentato
@@ -25214,6 +25213,7 @@ affectus
 analogized
 amadelphous
 astrand
+amtman
 awarn
 amphorae
 anticlactic
