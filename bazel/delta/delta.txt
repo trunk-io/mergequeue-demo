@@ -3201,7 +3201,6 @@ dragboat
 discumber
 deformed
 disobeyed
-disassembling
 dingy
 danli
 deambulatories
@@ -3875,6 +3874,7 @@ daleswoman
 dicier
 doxologized
 dropped
+disassembling
 desalinization
 deportation
 diplanar
