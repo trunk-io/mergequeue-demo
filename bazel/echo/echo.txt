@@ -6371,6 +6371,7 @@ electrosynthesis
 enharbour
 execute
 ebonizes
+endamaged
 embark
 exorbital
 extralinguistic
@@ -13642,7 +13643,6 @@ earners
 eisenberg
 enhaemospore
 endokaryogamy
-endamaged
 emitted
 emphasizing
 empeoplement
