@@ -1603,7 +1603,6 @@ exaggerates
 excentricity
 electromobile
 excuses
-enherit
 epilogue
 elkwood
 euphyllopoda
@@ -3612,6 +3611,7 @@ emblements
 edenite
 emerges
 erucin
+enherit
 epiplankton
 ergate
 enthetic
