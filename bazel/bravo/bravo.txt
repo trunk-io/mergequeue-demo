@@ -3014,6 +3014,7 @@ bulbils
 baggara
 boarskin
 blindfold
+barflies
 bibliothec
 benzedrine
 blurting
@@ -4510,7 +4511,6 @@ bradded
 buoy
 blowback
 bedress
-barflies
 borrowers
 besmiling
 becall
