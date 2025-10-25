@@ -2221,7 +2221,6 @@ amphichrome
 anorthoscope
 antiferroelectric
 acidulate
-adjacency
 amontillados
 acidulously
 antistimulant
@@ -24678,6 +24677,7 @@ aphoriser
 avalent
 ammonites
 accomplis
+adjacency
 avaram
 amygdaliferous
 amontillado
