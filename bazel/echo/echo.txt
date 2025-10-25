@@ -5198,7 +5198,6 @@ esperantidist
 ectosphere
 elemin
 executed
-epipolic
 esoterical
 endocrinic
 ergs
@@ -5723,6 +5722,7 @@ executing
 emulsify
 eulogised
 expeditate
+epipolic
 endophyllous
 enolases
 escots
