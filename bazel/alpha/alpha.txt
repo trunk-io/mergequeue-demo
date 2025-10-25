@@ -340,6 +340,7 @@ abecedarian
 afterdeal
 agua
 arriere
+apr
 ardisia
 alnus
 acapulco
@@ -8999,7 +9000,6 @@ adlumidin
 antisemite
 avijja
 annale
-apr
 afterburner
 assimilator
 acetous
