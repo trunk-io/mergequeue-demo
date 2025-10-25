@@ -10400,7 +10400,6 @@ blauboks
 beltway
 bejewels
 burlecue
-bomber
 bonkers
 branners
 bemantle
@@ -14790,6 +14789,7 @@ bayonetted
 briolet
 bernard
 becovet
+bomber
 brutter
 barytas
 biocentric
