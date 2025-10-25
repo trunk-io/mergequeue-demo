@@ -3007,6 +3007,7 @@ cape
 cohelper
 chequerboard
 capeadores
+coinclination
 capelan
 colonoscopy
 centifolious
@@ -28044,7 +28045,6 @@ cult
 coterie
 courantes
 conveyorization
-coinclination
 cyclonically
 coelostat
 coinage
