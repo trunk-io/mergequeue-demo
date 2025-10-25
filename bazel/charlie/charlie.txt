@@ -11688,6 +11688,7 @@ cholla
 clairsentient
 crossable
 cryogen
+crimpy
 capsular
 chollas
 claries
@@ -24177,7 +24178,6 @@ conversation
 conversationable
 coactor
 cottonbush
-crimpy
 chiragra
 conversationism
 conversazione
