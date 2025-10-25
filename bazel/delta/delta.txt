@@ -6348,6 +6348,7 @@ doomfulness
 declivous
 dt
 duellist
+delicate
 dil
 deathsmen
 drossy
@@ -13363,7 +13364,6 @@ dissoul
 dacrydium
 dioecian
 dataset
-delicate
 disfeature
 disputer
 definitising
