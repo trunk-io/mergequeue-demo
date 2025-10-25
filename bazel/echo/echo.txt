@@ -2945,7 +2945,6 @@ entrancement
 exposure
 energy
 emerize
-emboly
 eliphalet
 eviction
 elbowroom
@@ -5709,6 +5708,7 @@ explicits
 enlisted
 electrorefining
 expunging
+emboly
 exacted
 epibenthic
 enquirer
