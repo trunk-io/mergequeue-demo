@@ -6860,6 +6860,7 @@ cityscapes
 celtization
 cardiorrhexis
 camis
+counterpoles
 camarera
 clocklike
 celtuce
@@ -7819,7 +7820,6 @@ carbureter
 cahot
 catamiting
 cessible
-counterpoles
 continentalism
 corpore
 cession
