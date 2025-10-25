@@ -7620,7 +7620,6 @@ bleachground
 backlog
 burglaries
 bodiment
-buonamano
 bhikshu
 brakehand
 bullan
@@ -17547,6 +17546,7 @@ biotas
 brown
 buccinum
 bleep
+buonamano
 bulbocapnine
 batrachophobia
 bistipuled
