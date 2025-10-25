@@ -3811,7 +3811,6 @@ botulisms
 blockbuster
 bifid
 bistriazole
-bowshot
 bego
 brachytypous
 beadlehood
@@ -11336,6 +11335,7 @@ breadseller
 bandanaed
 bedstands
 butling
+bowshot
 buckeye
 betterment
 bronchoesophagoscopy
