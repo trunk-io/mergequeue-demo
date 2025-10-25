@@ -2747,7 +2747,6 @@ baggager
 brazee
 barque
 barmie
-bronchiloquy
 bookends
 bannerlike
 battute
@@ -13837,6 +13836,7 @@ buffers
 bannut
 butle
 brickmaker
+bronchiloquy
 baltimorite
 bathyplankton
 beneficing
