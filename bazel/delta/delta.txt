@@ -6000,6 +6000,7 @@ dhurrie
 defeatee
 disassociation
 dockside
+dismountable
 disorderedness
 degrader
 deceiver
@@ -7545,7 +7546,6 @@ dosain
 desoxymorphine
 dustee
 deidealize
-dismountable
 defaulting
 duodiode
 demnition
