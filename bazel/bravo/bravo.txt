@@ -1486,6 +1486,7 @@ biangulate
 bestseller
 berley
 biosphere
+breathing
 bearer
 balli
 brassworks
@@ -10973,7 +10974,6 @@ blissom
 bonorum
 boroughship
 battledored
-breathing
 botryomycosis
 blepharocera
 brogans
