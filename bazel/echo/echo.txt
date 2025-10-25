@@ -7818,7 +7818,6 @@ epimeron
 extrapolation
 extol
 erosive
-enriched
 eversion
 electrography
 endamage
@@ -14034,6 +14033,7 @@ eventualities
 enthrallingly
 efl
 embryonate
+enriched
 elocutionist
 esterase
 ensaffron
