@@ -10832,7 +10832,6 @@ ammo
 administrants
 ammocoetes
 anviling
-agglutinated
 albumoses
 ataxinomic
 asphalts
@@ -17116,6 +17115,7 @@ amalgamations
 adamances
 agglutinoid
 agush
+agglutinated
 articulant
 align
 algologically
