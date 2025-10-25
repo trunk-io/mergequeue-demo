@@ -5097,6 +5097,7 @@ beswitch
 beleaguers
 boatloader
 backswordsman
+batteuse
 bughouses
 biologistic
 balaenid
@@ -15591,7 +15592,6 @@ biochemical
 berthing
 baddest
 bifollicular
-batteuse
 bekilted
 brindisi
 bultey
