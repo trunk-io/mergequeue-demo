@@ -14451,7 +14451,6 @@ campanella
 cananaean
 centerpiece
 cirratulidae
-coelect
 costmary
 consolations
 cirri
@@ -21484,6 +21483,7 @@ coheading
 concierge
 copperah
 concile
+coelect
 conciliable
 chaperoning
 clast
