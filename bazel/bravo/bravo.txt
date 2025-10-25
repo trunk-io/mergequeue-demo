@@ -1855,7 +1855,6 @@ breeder
 broch
 bystanders
 briguing
-bathrobe
 balsa
 bandrol
 befuddles
@@ -16359,6 +16358,7 @@ boarship
 breakthrough
 bifidity
 botherheaded
+bathrobe
 begazing
 boris
 brucellae
