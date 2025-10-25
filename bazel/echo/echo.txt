@@ -4467,7 +4467,6 @@ enarthrodia
 entasis
 eidouranion
 euchysiderite
-enneagon
 enwoman
 eryon
 excludes
@@ -10186,6 +10185,7 @@ emotionize
 excud
 emplume
 educables
+enneagon
 embryoniform
 exogeny
 exampleless
