@@ -8685,6 +8685,7 @@ disburse
 devours
 daimonion
 drabbet
+downtowner
 druses
 distrix
 distalia
@@ -8773,7 +8774,6 @@ disgregate
 disimprove
 diarist
 dumby
-downtowner
 deflocculating
 disapproves
 dongola
