@@ -8974,6 +8974,7 @@ bareboats
 bitumens
 bonspells
 beshivers
+belier
 babeship
 berginize
 backsight
@@ -11117,7 +11118,6 @@ bemole
 baric
 bacillarieae
 bemitered
-belier
 ballatoon
 boshvarks
 bolography
