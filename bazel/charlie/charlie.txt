@@ -3717,7 +3717,6 @@ clept
 chewbark
 colloquialisms
 communistery
-confederacies
 catline
 circuitmen
 consultively
@@ -23611,6 +23610,7 @@ contemptuously
 cruelty
 cochleate
 characterial
+confederacies
 choices
 clogginess
 comptoir
