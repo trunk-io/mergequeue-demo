@@ -5867,7 +5867,6 @@ bowhead
 bablah
 besputter
 brambled
-bungled
 bergerette
 brey
 bemartyr
@@ -8474,6 +8473,7 @@ bryales
 blackeyes
 benzo
 bonhomies
+bungled
 billman
 brimly
 balneae
