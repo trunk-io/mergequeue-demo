@@ -3427,6 +3427,7 @@ barricade
 borers
 biorhythm
 berkeleyite
+boomable
 bessemerize
 blueberries
 bathysophical
@@ -12865,7 +12866,6 @@ broigne
 boite
 breachful
 bitbrace
-boomable
 boomah
 backadation
 beamishly
