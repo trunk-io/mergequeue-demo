@@ -8054,7 +8054,6 @@ bounding
 blackstick
 bewinter
 beaconing
-bestore
 barat
 burrer
 blimpish
@@ -10447,6 +10446,7 @@ borid
 bioscientist
 boce
 bullfinch
+bestore
 barbital
 bryozoon
 biune
