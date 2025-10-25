@@ -7930,6 +7930,7 @@ depopulating
 defoam
 depress
 displacing
+droughtiness
 dewatered
 devastate
 diamantiferous
@@ -16587,7 +16588,6 @@ diathermies
 driftway
 demicannon
 desirable
-droughtiness
 devitalization
 degging
 dogmeat
