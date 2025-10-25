@@ -2947,6 +2947,7 @@ energy
 emerize
 emboly
 eliphalet
+eviction
 elbowroom
 exarchist
 ebcasc
@@ -8702,7 +8703,6 @@ electrohydraulic
 ephemeral
 ergometric
 euphorbia
-eviction
 enamber
 erewhiles
 excurvated
