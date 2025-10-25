@@ -2165,6 +2165,7 @@ disblame
 diffusors
 disinflating
 doubts
+duenesses
 disenchain
 decommissions
 dragees
@@ -17881,7 +17882,6 @@ deperms
 dinkey
 detonates
 duenas
-duenesses
 dischevel
 disserted
 dedicating
