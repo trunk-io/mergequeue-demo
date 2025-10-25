@@ -5803,7 +5803,6 @@ belts
 boozers
 bescratch
 becursed
-bakingly
 buffa
 bifistular
 barih
@@ -7719,6 +7718,7 @@ broomy
 biauricular
 baseness
 backyards
+bakingly
 bookwise
 began
 benzophenazine
