@@ -2811,6 +2811,7 @@ encephalotomy
 enterotomy
 eleutherios
 enveloper
+excise
 etholide
 exmoor
 evince
@@ -9633,7 +9634,6 @@ enneahedrons
 erythrodegenerative
 erode
 exsectile
-excise
 epistolized
 exhaustively
 education
