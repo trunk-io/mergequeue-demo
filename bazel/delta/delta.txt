@@ -9840,7 +9840,6 @@ ditting
 dreggy
 dungbred
 diactinic
-descriptions
 dhaw
 diageotropy
 desiderating
@@ -18655,6 +18654,7 @@ dewdropper
 dermatotherapy
 deled
 dressmaker
+descriptions
 downcomer
 doeskins
 directoire
