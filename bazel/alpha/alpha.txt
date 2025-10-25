@@ -1045,6 +1045,7 @@ anjan
 anilities
 attila
 abelmoschus
+autosome
 augustus
 aproneer
 angary
@@ -10648,7 +10649,6 @@ asemasia
 arthrochondritis
 azides
 athetoid
-autosome
 anticnemion
 autoassimilation
 arroya
