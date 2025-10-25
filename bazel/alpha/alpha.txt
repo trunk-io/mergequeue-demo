@@ -673,7 +673,6 @@ afebrile
 apocope
 acumens
 aphanipterous
-alginate
 annotates
 archidiaceae
 ambitendent
@@ -16182,6 +16181,7 @@ altrose
 achete
 anathema
 atom
+alginate
 autodialed
 attestors
 advection
