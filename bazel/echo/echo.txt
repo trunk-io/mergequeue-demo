@@ -6497,7 +6497,6 @@ electrohorticulture
 endleaves
 elderman
 excluding
-edelweiss
 evolate
 enseam
 ectobronchium
@@ -14224,6 +14223,7 @@ ewound
 eranthis
 ectosome
 expired
+edelweiss
 exocoelom
 encopreses
 exurge
