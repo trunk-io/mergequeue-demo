@@ -1681,6 +1681,7 @@ biplanal
 belgas
 bestowable
 brawnier
+bertin
 blithefully
 baluch
 broquery
@@ -6391,7 +6392,6 @@ bacteriostasis
 barpost
 botherer
 blazed
-bertin
 blackwasher
 bioblast
 balor
