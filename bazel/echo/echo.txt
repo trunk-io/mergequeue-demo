@@ -1258,7 +1258,6 @@ extraoral
 extrinsicalness
 epitonic
 emendations
-electroshock
 excogitable
 epizoon
 erepsins
@@ -9602,6 +9601,7 @@ eumitotic
 exonarthex
 eclipsis
 endomorphic
+electroshock
 elucidated
 enragedly
 enweaving
