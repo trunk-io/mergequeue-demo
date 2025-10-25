@@ -3866,7 +3866,6 @@ berloque
 banditti
 brachygnathia
 bubonic
-birdshot
 beeve
 batting
 bedrock
@@ -17586,6 +17585,7 @@ blennoid
 bradoons
 bumboatwoman
 bascule
+birdshot
 bantings
 bothrops
 baikalite
