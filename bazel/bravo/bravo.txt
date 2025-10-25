@@ -1120,6 +1120,7 @@ boxer
 bajocco
 byes
 bedstaves
+begirdles
 bajra
 bedarkening
 bestrown
@@ -2766,7 +2767,6 @@ backword
 baroqueness
 blonder
 baggager
-begirdles
 brazee
 barque
 barmie
