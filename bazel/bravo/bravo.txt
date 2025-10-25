@@ -16144,7 +16144,6 @@ brightens
 barmfel
 brevirostrines
 barnstormed
-bashful
 backwoodsman
 blitzbuggy
 battlements
@@ -17603,6 +17602,7 @@ bestream
 bailiery
 bandarlog
 bilge
+bashful
 bespin
 borough
 bakepan
