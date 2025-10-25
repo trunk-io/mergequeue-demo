@@ -516,7 +516,6 @@ amreetas
 abjurer
 astrild
 athrocyte
-animable
 abjurers
 amba
 alabarch
@@ -7612,6 +7611,7 @@ acrologies
 alleviates
 antimechanization
 alcatras
+animable
 antimonide
 antifederalist
 abetting
