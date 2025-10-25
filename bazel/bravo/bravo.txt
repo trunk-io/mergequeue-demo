@@ -3799,7 +3799,6 @@ beslur
 bola
 beedi
 banksides
-byzant
 beadeye
 breastplates
 brinjal
@@ -13603,6 +13602,7 @@ buncher
 balmonies
 biometrically
 bite
+byzant
 blancard
 bepart
 backstabber
