@@ -7341,7 +7341,6 @@ disglorify
 deckings
 dissyllable
 demurrant
-divisibleness
 doulce
 dragade
 dromicia
@@ -17981,6 +17980,7 @@ dropforging
 dendrobates
 dislodgeable
 dinnerless
+divisibleness
 dysmenorrhea
 disesteemer
 decaudation
