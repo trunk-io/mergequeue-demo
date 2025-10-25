@@ -6657,7 +6657,6 @@ elapsing
 evacuation
 epiclike
 erumpent
-equipment
 elaborator
 espigle
 exhibits
@@ -9158,6 +9157,7 @@ encheck
 experienced
 expectedly
 earock
+equipment
 excess
 enneatical
 emplaned
