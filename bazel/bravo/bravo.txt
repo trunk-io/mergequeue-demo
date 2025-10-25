@@ -2542,7 +2542,6 @@ bidentate
 beltir
 bisonant
 baritenor
-beaconless
 bedevils
 barytons
 besnowed
@@ -13016,6 +13015,7 @@ bittersweet
 boehmites
 bellis
 ballistocardiogram
+beaconless
 because
 bangwaketsi
 bacterins
