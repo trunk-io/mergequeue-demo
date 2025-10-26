@@ -6285,7 +6285,6 @@ beamy
 banderillero
 benzonitrile
 bitanhol
-benzophenothiazine
 belam
 bandolero
 broncs
@@ -9081,6 +9080,7 @@ behavior
 bombacaceae
 bootlegger
 bodiced
+benzophenothiazine
 bourrasque
 blesboks
 bedecorate
