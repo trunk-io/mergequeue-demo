@@ -2744,7 +2744,6 @@ eyebolt
 exclaimer
 equivocally
 exhilarated
-exhort
 eliza
 epitheliomas
 elegant
@@ -12060,6 +12059,7 @@ earable
 erma
 entomology
 electrodialyses
+exhort
 ecrevisse
 exfetation
 exodermal
