@@ -6541,7 +6541,6 @@ biunity
 broadside
 banquettes
 butterwright
-boxwood
 bergamasche
 broddle
 buffoon
@@ -10745,6 +10744,7 @@ batonne
 boondocker
 blintz
 bellower
+boxwood
 blepharoplegia
 baning
 bookbind
