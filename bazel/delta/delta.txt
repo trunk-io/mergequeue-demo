@@ -1688,7 +1688,6 @@ deadened
 decoding
 dephlegmated
 declass
-decipolar
 defaulter
 decidendi
 demipique
@@ -3585,6 +3584,7 @@ destituting
 diplegia
 disdained
 daijo
+decipolar
 depredations
 decarburising
 dewily
