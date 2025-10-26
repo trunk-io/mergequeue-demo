@@ -17045,7 +17045,6 @@ bag
 bronchium
 brouille
 boolian
-bersim
 birkie
 bucolic
 breastplate
@@ -17873,6 +17872,7 @@ bombe
 bush
 beavers
 blotchier
+bersim
 bearbush
 bacilluria
 boats
