@@ -12419,7 +12419,6 @@ bigotries
 bassariscus
 bridgework
 berceuse
-bowknot
 betokens
 braking
 beigel
@@ -12744,6 +12743,7 @@ bobbins
 breeds
 beigy
 bijective
+bowknot
 bookrests
 bdelloura
 banishes
