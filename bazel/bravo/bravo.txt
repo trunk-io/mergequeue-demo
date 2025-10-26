@@ -2151,6 +2151,7 @@ bulreedy
 bementite
 befuddlement
 bority
+breakable
 boschboks
 bullionless
 besmirches
@@ -9022,7 +9023,6 @@ bandbox
 beeswax
 bifilar
 brents
-breakable
 boscage
 bislings
 biopsy
