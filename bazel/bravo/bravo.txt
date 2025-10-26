@@ -1867,7 +1867,6 @@ bocaccios
 benefice
 balances
 bruta
-bandstring
 batteling
 bagasses
 beeway
@@ -3891,6 +3890,7 @@ banditti
 brachygnathia
 bubonic
 beeve
+bandstring
 batting
 bedrock
 brainwashjng
