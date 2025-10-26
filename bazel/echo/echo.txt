@@ -12776,7 +12776,6 @@ erythrol
 engramme
 english
 endosulfan
-exclamative
 ellerian
 engraulis
 esoterize
@@ -14125,6 +14124,7 @@ euphoric
 essenwood
 esthetophore
 evalue
+exclamative
 educed
 egards
 earstones
