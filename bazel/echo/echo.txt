@@ -4340,6 +4340,7 @@ eastness
 enantiomorph
 eleotrid
 eyesore
+enguard
 epistolary
 elemi
 enarched
@@ -7141,7 +7142,6 @@ echinostome
 encephalon
 elve
 eikons
-enguard
 effervesce
 encouragingly
 extravasation
