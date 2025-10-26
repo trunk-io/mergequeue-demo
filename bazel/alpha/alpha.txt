@@ -2987,7 +2987,6 @@ armaturing
 atlases
 acquest
 allometric
-abidi
 automaker
 afars
 afterbreast
@@ -10828,6 +10827,7 @@ anacard
 ammo
 archdeaconry
 administrants
+abidi
 ammocoetes
 albumoses
 asphalts
