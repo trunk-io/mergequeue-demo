@@ -2645,7 +2645,6 @@ depth
 desmon
 denotation
 decurves
-dojo
 diachylon
 diastereoisomer
 duetto
@@ -10347,6 +10346,7 @@ draperies
 demimentoniere
 driftpins
 disagreer
+dojo
 dualizing
 deepens
 dorsalgia
