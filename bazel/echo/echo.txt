@@ -1388,6 +1388,7 @@ endeign
 emissaria
 escars
 electrocutes
+evacuator
 emeline
 excrementitial
 enslaver
@@ -4396,7 +4397,6 @@ effectively
 endenizen
 ensigned
 ensorcerize
-evacuator
 espacement
 execrableness
 enkolpia
