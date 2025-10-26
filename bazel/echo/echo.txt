@@ -2643,7 +2643,6 @@ endow
 ephydriad
 enzyme
 ecstatics
-endosteomas
 echinosphaerites
 ecuelling
 elaphurine
@@ -4010,6 +4009,7 @@ exopoditic
 exported
 extradictionary
 epihydrinic
+endosteomas
 earsore
 epiphysitis
 echoless
