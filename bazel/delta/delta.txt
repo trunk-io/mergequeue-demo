@@ -4636,6 +4636,7 @@ descender
 dungyard
 dullsville
 doorways
+diagraphs
 diwans
 dah
 dependent
@@ -12807,7 +12808,6 @@ decolour
 demodulator
 deraign
 dislove
-diagraphs
 decolonised
 decarboxylating
 dipware
