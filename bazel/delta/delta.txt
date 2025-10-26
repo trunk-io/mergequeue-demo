@@ -8071,6 +8071,7 @@ disallowing
 decibar
 dimensive
 dunstone
+declensional
 daemonic
 dimwittedness
 demimark
@@ -12197,7 +12198,6 @@ deviousness
 deltas
 diffusible
 dawen
-declensional
 decertifying
 dapperest
 drapes
