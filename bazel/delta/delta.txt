@@ -199,7 +199,6 @@ decipherer
 diel
 dakoity
 dacryolith
-deed
 decontamination
 daemony
 dikamalli
@@ -1223,6 +1222,7 @@ dates
 dispell
 deoxygenate
 dating
+deed
 dioicously
 diglyceride
 depolishes
