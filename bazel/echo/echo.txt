@@ -5965,6 +5965,7 @@ eleme
 exhausted
 exotic
 exscissor
+enterocoel
 exiture
 exhorts
 entodermal
@@ -8644,7 +8645,6 @@ electroindustrial
 erika
 equestrial
 extrapituitary
-enterocoel
 enchondroma
 eulophid
 enthuse
