@@ -3467,6 +3467,7 @@ banders
 bigmouths
 brinksmanship
 bianchi
+badinages
 broomcorn
 barkentine
 beswarms
@@ -16309,7 +16310,6 @@ bolthead
 buses
 boomtown
 browntail
-badinages
 bound
 biblicistic
 barebacked
