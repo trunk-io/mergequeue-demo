@@ -3982,7 +3982,6 @@ albedo
 asuri
 adaptional
 areito
-apparation
 astigmat
 alcantara
 anenterous
@@ -11209,6 +11208,7 @@ allothigenous
 ahull
 aspherical
 aerologists
+apparation
 arborous
 asterozoa
 amphibolitic
