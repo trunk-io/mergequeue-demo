@@ -9196,7 +9196,6 @@ blusht
 black
 beauetry
 bevels
-buyable
 blackplate
 brontolite
 bostrychoidal
@@ -14677,6 +14676,7 @@ belshazzar
 buttocked
 bounces
 bavary
+buyable
 branchful
 bimotors
 bastinado
