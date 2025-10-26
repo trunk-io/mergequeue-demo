@@ -3893,7 +3893,6 @@ centenary
 cardamum
 chymist
 cardcases
-creatureling
 cardia
 caeremoniarius
 coliforms
@@ -6557,6 +6556,7 @@ couldna
 clow
 cataleptically
 chylemia
+creatureling
 caloyers
 cebid
 coning
