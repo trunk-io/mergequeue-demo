@@ -17692,6 +17692,7 @@ chest
 comparting
 checklist
 cerate
+carnassial
 cervicobasilar
 candlemaking
 clerkhood
@@ -19898,7 +19899,6 @@ carphosiderite
 caingang
 carbones
 cecidomyian
-carnassial
 cragsman
 comfily
 contriteness
