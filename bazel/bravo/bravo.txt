@@ -1987,6 +1987,7 @@ bankcard
 bethought
 bejewelled
 bouldered
+biscotin
 bicursal
 banknote
 bromes
@@ -13578,7 +13579,6 @@ bushwood
 boding
 befortune
 boucharde
-biscotin
 bankfull
 brierroot
 blanketing
