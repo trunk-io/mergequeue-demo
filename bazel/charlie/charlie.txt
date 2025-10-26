@@ -1846,6 +1846,7 @@ coburghership
 chelonia
 cartonnage
 cambricleaf
+curbstone
 colobus
 curs
 cassinian
@@ -31250,7 +31251,6 @@ curbline
 connivancy
 curbs
 cephalism
-curbstone
 calciphyre
 curcas
 cardiophobia
