@@ -887,7 +887,6 @@ begarlanded
 buzzsaw
 bullfighter
 beloved
-bescorch
 beaverpelt
 brigued
 baker
@@ -17225,6 +17224,7 @@ bookling
 bullskin
 bullsticker
 blandished
+bescorch
 bacquet
 bulimic
 barbers
