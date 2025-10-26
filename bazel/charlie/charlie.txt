@@ -19739,6 +19739,7 @@ countermining
 constants
 clostridia
 cormogen
+coarct
 camarilla
 copintank
 chemisorption
@@ -26877,7 +26878,6 @@ constitutioner
 cognominal
 condominate
 cammock
-coarct
 cronied
 cynegild
 colloquized
