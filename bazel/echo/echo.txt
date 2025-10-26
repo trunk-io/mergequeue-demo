@@ -639,6 +639,7 @@ equidistant
 embox
 enode
 equestrienne
+emblements
 electricity
 egoistry
 elseways
@@ -3583,7 +3584,6 @@ eloigners
 extemporising
 electrocardiographs
 eupepsies
-emblements
 ephydrid
 edenite
 erucin
