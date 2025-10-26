@@ -609,6 +609,7 @@ destines
 ditetrahedral
 disturbant
 dempne
+dihydric
 discord
 derbukka
 denaturize
@@ -11771,7 +11772,6 @@ diffluence
 denver
 disaffects
 dactylologies
-dihydric
 dimane
 drabbles
 dhoti
