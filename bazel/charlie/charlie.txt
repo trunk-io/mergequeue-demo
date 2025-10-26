@@ -25162,7 +25162,6 @@ commendatories
 cestodes
 coleorhiza
 carnivora
-chiasmic
 corraded
 cordel
 cliffhang
@@ -25275,6 +25274,7 @@ cow
 cuarta
 crestfallenly
 caboched
+chiasmic
 clientry
 coretomy
 choanoflagellate
