@@ -1210,6 +1210,7 @@ bitmap
 boils
 bottomers
 bucket
+beclose
 bemuddled
 balander
 blockboard
@@ -6920,7 +6921,6 @@ blite
 bebled
 boma
 bugling
-beclose
 bulborectal
 blackleggery
 breviary
