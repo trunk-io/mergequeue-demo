@@ -717,6 +717,7 @@ badges
 bestowage
 balat
 brink
+bimillennium
 bow
 bethreaten
 biniou
@@ -2395,7 +2396,6 @@ bloodthirster
 bonuses
 betoss
 businesses
-bimillennium
 begun
 bondsman
 basilicas
