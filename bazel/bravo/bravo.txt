@@ -3930,6 +3930,7 @@ bonilass
 bookmonger
 blackfishes
 bondslave
+bearskins
 bentgrass
 baptisin
 becloaks
@@ -18085,7 +18086,6 @@ balloonfish
 brachtmema
 briguer
 bringsel
-bearskins
 but
 bebog
 becharmed
