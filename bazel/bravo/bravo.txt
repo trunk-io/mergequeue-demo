@@ -9941,6 +9941,7 @@ branchlike
 belomancy
 britannic
 broguery
+bricoles
 baltheus
 bewake
 breechclout
@@ -11708,7 +11709,6 @@ bolide
 blindfast
 bespatters
 brawled
-bricoles
 bosks
 bianca
 boatwright
