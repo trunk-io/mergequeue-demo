@@ -18764,7 +18764,6 @@ carcases
 crepitacula
 clavilux
 choleokinase
-colas
 colascioni
 cooperia
 colate
@@ -19062,6 +19061,7 @@ clank
 colorcasts
 confutative
 chastenment
+colas
 cresorcin
 crownmaker
 crocket
