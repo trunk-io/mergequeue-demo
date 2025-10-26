@@ -6679,7 +6679,6 @@ dwellers
 denticular
 dabchick
 desecrater
-desalt
 deaconhood
 decart
 duckfooted
@@ -18567,6 +18566,7 @@ delists
 duction
 deorsumvergence
 downlying
+desalt
 dominator
 domba
 drumlins
