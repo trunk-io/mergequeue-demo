@@ -4234,7 +4234,6 @@ bindle
 beachmaster
 bedaggered
 burrhead
-belonging
 bashalick
 beheader
 bushfighter
@@ -9673,6 +9672,7 @@ babirussa
 biff
 bonnier
 bemadden
+belonging
 bounded
 buildable
 biomicroscopies
