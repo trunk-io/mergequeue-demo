@@ -2968,7 +2968,6 @@ bordereau
 bsf
 balsamodendron
 bloodlike
-boglet
 bartree
 buckleya
 banish
@@ -3474,6 +3473,7 @@ bathmat
 bonity
 background
 blackberry
+boglet
 begins
 boozer
 bootikin
