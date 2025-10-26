@@ -2344,7 +2344,6 @@ extoll
 enchantments
 encumbering
 emboweller
-eudemonistically
 ecanda
 exch
 exclusions
@@ -10681,6 +10680,7 @@ englifier
 excluder
 equilibristat
 extrudability
+eudemonistically
 enterography
 encreel
 enlightener
