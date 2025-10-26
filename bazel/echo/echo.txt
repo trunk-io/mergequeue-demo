@@ -3237,6 +3237,7 @@ envelopment
 entrecotes
 epiparodos
 expo
+embusy
 ensandal
 exoerythrocytic
 essentialize
@@ -4311,7 +4312,6 @@ eagles
 enhancements
 emulatory
 euthycomic
-embusy
 espichellite
 etioporphyrin
 estranging
