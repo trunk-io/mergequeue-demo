@@ -3061,7 +3061,6 @@ engravers
 ezod
 ectopatagia
 eccentricity
-eigenvalue
 epitome
 empaestic
 entoloma
@@ -7480,6 +7479,7 @@ ephphatha
 elutriating
 ecphonema
 entablements
+eigenvalue
 erudite
 epichorion
 endomitosis
