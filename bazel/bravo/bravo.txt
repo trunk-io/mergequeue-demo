@@ -1922,7 +1922,6 @@ brujos
 blackhearted
 bloomers
 barbola
-bent
 bumbling
 begrutten
 bargoose
@@ -4213,6 +4212,7 @@ bostanji
 brawling
 brickier
 becking
+bent
 blandiloquous
 balitao
 bylina
