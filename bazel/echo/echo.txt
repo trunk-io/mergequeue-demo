@@ -2935,7 +2935,6 @@ epigrammatizer
 entire
 emotionalization
 epuration
-endowments
 erythroblastotic
 evaginated
 estragon
@@ -13683,6 +13682,7 @@ ethically
 endothermic
 eupepsy
 ethylenation
+endowments
 explore
 esogastritis
 erostrate
