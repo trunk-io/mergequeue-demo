@@ -578,7 +578,6 @@ battements
 big
 bodyworks
 bicornuous
-bitume
 backshish
 bishopric
 bundles
@@ -1496,6 +1495,7 @@ biosphere
 bearer
 balli
 brassworks
+bitume
 bedizenment
 braziers
 batholitic
