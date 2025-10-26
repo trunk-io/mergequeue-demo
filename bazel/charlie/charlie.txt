@@ -5774,7 +5774,6 @@ copras
 chesterfields
 condescendence
 caterpillared
-caterpillarlike
 consequent
 circumquaque
 caters
@@ -20353,6 +20352,7 @@ communicable
 cosheries
 chansons
 communicant
+caterpillarlike
 convertibles
 capnomor
 clangours
