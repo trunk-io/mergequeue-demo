@@ -5911,7 +5911,6 @@ depots
 decachord
 disanagrammatize
 devilet
-dragonfly
 decently
 devotary
 discasing
@@ -14041,6 +14040,7 @@ disaffirmative
 diacritics
 downingia
 demiurge
+dragonfly
 downspout
 daddled
 darksum
