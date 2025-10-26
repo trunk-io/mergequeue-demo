@@ -5901,6 +5901,7 @@ bibliography
 biventer
 breakings
 blockheadish
+boatlip
 battledores
 bluejacks
 brachycephalization
@@ -10382,7 +10383,6 @@ boguing
 bootholder
 bidenticulate
 basos
-boatlip
 blackmails
 brock
 boasting
