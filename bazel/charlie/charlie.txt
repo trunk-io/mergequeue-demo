@@ -3898,7 +3898,6 @@ cardamum
 chymist
 cardcases
 creatureling
-coxswaining
 cardia
 caeremoniarius
 coliforms
@@ -16279,6 +16278,7 @@ cymol
 carvol
 chafewax
 circovarian
+coxswaining
 constrainment
 curvilinear
 culvertage
