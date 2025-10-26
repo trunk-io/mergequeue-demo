@@ -1661,7 +1661,6 @@ erythremia
 enable
 exampled
 eminence
-exenteration
 emote
 encephalasthenia
 earplugs
@@ -6476,6 +6475,7 @@ edgeboned
 embowerment
 estop
 endymal
+exenteration
 epistyles
 embalmer
 equilocation

@@ -23444,6 +23444,7 @@ consume
 consumes
 cantefable
 cuboid
+cleanhandedness
 consumingly
 consummated
 cereless
@@ -28269,7 +28270,6 @@ canette
 chimerism
 craniotome
 cameos
-cleanhandedness
 citynesses
 cosigner
 cornwallis
