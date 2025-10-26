@@ -2168,7 +2168,6 @@ barrico
 beeps
 bougainvillaeas
 baaed
-basilard
 bacula
 brast
 barbaloin
@@ -6639,6 +6638,7 @@ benamed
 bernacle
 bluesides
 berakes
+basilard
 batties
 borzoi
 blithen
