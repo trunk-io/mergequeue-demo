@@ -2149,6 +2149,7 @@ eugenist
 enteromere
 ephoi
 embryony
+established
 enthalpy
 endothecate
 eyelashes
@@ -8305,7 +8306,6 @@ exhalable
 enthetic
 eth
 ephah
-established
 electroanesthesia
 eoghanacht
 embuia

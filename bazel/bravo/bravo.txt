@@ -1375,7 +1375,6 @@ bemuddle
 bournes
 biliment
 biosis
-beacon
 bundahish
 brayers
 broiler
@@ -12346,6 +12345,7 @@ breakfasting
 bombillas
 bibacious
 banisterine
+beacon
 berteroa
 baalshem
 bathyscaphe
