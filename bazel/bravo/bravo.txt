@@ -2038,6 +2038,7 @@ bowpot
 brickbats
 behammer
 bathyal
+bluebonnet
 blunges
 boilinglike
 banovina
@@ -10812,7 +10813,6 @@ boottopping
 benzosulfimide
 barouche
 bulkish
-bluebonnet
 bricole
 braggardism
 blesmol
