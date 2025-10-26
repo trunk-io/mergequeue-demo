@@ -1653,7 +1653,6 @@ erythremia
 enable
 exampled
 eminence
-emote
 encephalasthenia
 embog
 enculturate
@@ -9363,6 +9362,7 @@ eyebree
 esophagitis
 elytropolypus
 euchromosome
+emote
 ecb
 epistoma
 ends
