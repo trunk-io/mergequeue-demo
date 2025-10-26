@@ -6124,6 +6124,7 @@ autoelectrolysis
 adamantoid
 acari
 aseptolin
+aku
 albizzias
 alco
 anywise
@@ -10531,7 +10532,6 @@ autecisms
 anguille
 amide
 avives
-aku
 aconuresis
 antithetical
 adscript
