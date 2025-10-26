@@ -4856,6 +4856,7 @@ acetylbenzoic
 achromatization
 assumptions
 alchemic
+averaging
 arachnean
 angularness
 accersitor
@@ -13779,7 +13780,6 @@ artemia
 asok
 aestivates
 ampollosity
-averaging
 antituberculous
 arthron
 ascigerous
