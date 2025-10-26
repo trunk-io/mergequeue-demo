@@ -6345,7 +6345,6 @@ cauterising
 cloudland
 cypridinoid
 conchfish
-cauterizer
 chorometry
 caution
 cerebromedullary
@@ -23330,6 +23329,7 @@ coelomic
 creeler
 constringing
 cajon
+cauterizer
 clerestory
 cataractine
 circulet
