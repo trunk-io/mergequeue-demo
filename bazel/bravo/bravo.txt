@@ -12668,7 +12668,6 @@ bloodguiltless
 bouviers
 burgesses
 beauship
-brittlewort
 bypassing
 bucare
 beerage
@@ -18039,6 +18038,7 @@ birdcatching
 barmote
 bugled
 bustle
+brittlewort
 bryozoum
 bogier
 burls
