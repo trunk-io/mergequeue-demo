@@ -10860,7 +10860,6 @@ arsenopyrite
 atrip
 apparentement
 agtbasic
-assized
 auchenia
 autecologist
 ammodytidae
@@ -24156,6 +24155,7 @@ acarian
 aglimmer
 aliner
 acerber
+assized
 antioptimistical
 attractile
 aviador
