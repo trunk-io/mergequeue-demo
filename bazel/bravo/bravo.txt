@@ -6184,7 +6184,6 @@ beakhead
 bricklay
 bassing
 bakerite
-baggie
 bromin
 brewers
 barfly
@@ -7991,6 +7990,7 @@ booths
 breaking
 beshrew
 barkpeeling
+baggie
 biplosion
 binous
 bailage
