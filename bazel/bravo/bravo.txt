@@ -8267,7 +8267,6 @@ benson
 bromins
 billheads
 beacon
-barotropic
 bioelectrogenesis
 bedriddenness
 beautydom
@@ -17865,6 +17864,7 @@ brawns
 bobotie
 braehead
 birde
+barotropic
 bamboozling
 belock
 bombe
