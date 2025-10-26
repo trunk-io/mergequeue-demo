@@ -5386,6 +5386,7 @@ deglory
 downslip
 datos
 danainae
+dorsoventral
 defrocks
 dojos
 dzungar
@@ -16057,7 +16058,6 @@ devolutionary
 diphtheritis
 draff
 diazide
-dorsoventral
 dehumanize
 direct
 demos
