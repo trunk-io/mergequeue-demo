@@ -6891,6 +6891,7 @@ budgerow
 bigoniac
 boldos
 boltmaking
+baalite
 bole
 bassi
 brasseys
@@ -11935,7 +11936,6 @@ bathhouses
 bothriums
 boilers
 beleaguerment
-baalite
 betters
 brahmins
 bench
