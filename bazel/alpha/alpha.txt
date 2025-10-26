@@ -7464,7 +7464,6 @@ airworthier
 aerogenous
 argentometric
 alimentation
-antimeres
 atis
 anatman
 anhinga
@@ -16605,6 +16604,7 @@ antilogy
 aggregative
 anthracin
 aortomalaxis
+antimeres
 abastral
 alkaptonuria
 allayed
