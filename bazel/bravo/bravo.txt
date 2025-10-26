@@ -4481,6 +4481,7 @@ bifold
 bombshells
 bezonian
 bescarf
+bindable
 brat
 bokark
 buckle
@@ -12883,7 +12884,6 @@ blizzardous
 beclap
 boomslang
 beechen
-bindable
 brachiated
 beekeeping
 barracan
