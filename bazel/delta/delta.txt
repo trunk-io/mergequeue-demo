@@ -1404,6 +1404,7 @@ decoder
 dosing
 dyspnoeic
 dehydrant
+doted
 decanery
 dillydally
 deltation
@@ -14533,7 +14534,6 @@ deux
 dangles
 dentical
 dispost
-doted
 devesting
 diastatic
 derrick
