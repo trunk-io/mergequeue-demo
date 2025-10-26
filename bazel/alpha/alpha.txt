@@ -8941,7 +8941,6 @@ asemia
 archdetective
 agonia
 afflicts
-ambidexter
 ates
 ambles
 advisy
@@ -11695,6 +11694,7 @@ agminated
 andreaeaceae
 arctia
 amictus
+ambidexter
 amblyocarpous
 amphiploidy
 amygdules
