@@ -3013,7 +3013,6 @@ baggara
 baleens
 boarskin
 blindfold
-barflies
 bibliothec
 broadleaf
 benzedrine
@@ -14842,6 +14841,7 @@ bacury
 baldpatedness
 beribbon
 bards
+barflies
 biblioclasm
 bicornute
 boysenberries
