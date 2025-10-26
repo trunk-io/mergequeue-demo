@@ -274,6 +274,7 @@ canula
 covenable
 coden
 cesure
+conform
 coberger
 comatose
 conchoid
@@ -18983,7 +18984,6 @@ collect
 cryptogrammatic
 capillariomotor
 certify
-conform
 cedrene
 countercultures
 calciphile
