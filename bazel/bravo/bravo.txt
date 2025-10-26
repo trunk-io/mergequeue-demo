@@ -8713,6 +8713,7 @@ birotatory
 barton
 bower
 binding
+buffs
 bacteriochlorophyll
 baumier
 basoche
@@ -16890,7 +16891,6 @@ boehmite
 blush
 bookbinder
 benchwork
-buffs
 backspacing
 blurring
 bellweather
