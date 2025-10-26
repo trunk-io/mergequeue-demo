@@ -1933,7 +1933,6 @@ braille
 beacher
 bitless
 brujos
-bloomers
 barbola
 bumbling
 begrutten
@@ -2870,6 +2869,7 @@ bullbats
 betrough
 beslab
 blubberers
+bloomers
 broad
 balkan
 balmawhapple
