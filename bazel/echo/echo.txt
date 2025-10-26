@@ -154,7 +154,6 @@ excurvature
 energetics
 electant
 esthiomene
-enchair
 expatriation
 earthman
 endites
@@ -9738,6 +9737,7 @@ endotheliotoxin
 entonement
 entelechial
 ecorticate
+enchair
 echoencephalography
 emmetropia
 ephedrine
