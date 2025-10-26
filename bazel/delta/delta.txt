@@ -7603,7 +7603,6 @@ despectant
 deckel
 designee
 declaimed
-dominators
 duke
 downpipe
 deuterocanonical
@@ -13950,6 +13949,7 @@ dysnomy
 diocese
 deviative
 dodecastylos
+dominators
 decemfid
 dogwatch
 dure
