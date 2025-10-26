@@ -4476,7 +4476,6 @@ electrotest
 electrolyte
 epitasis
 engiscope
-electromechanics
 enarthrodia
 entasis
 epicanthus
@@ -6511,6 +6510,7 @@ exactiveness
 electrets
 endeictic
 exploitatory
+electromechanics
 exceptionable
 exede
 espied
