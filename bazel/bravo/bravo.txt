@@ -8859,6 +8859,7 @@ breathier
 boches
 baragouinish
 bioclimatic
+biglandular
 brushpopper
 blabber
 beshouted
@@ -11263,7 +11264,6 @@ burnside
 blights
 bastaard
 blockheads
-biglandular
 bassorin
 beheadal
 binucleolate
