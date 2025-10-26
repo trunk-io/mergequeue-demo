@@ -8350,6 +8350,7 @@ buyouts
 bannerfish
 bardier
 blanch
+brythonic
 biblicist
 bemask
 backsettler
@@ -17437,7 +17438,6 @@ bareboned
 brotherly
 bigeminy
 beauism
-brythonic
 bouchee
 bionomies
 burseraceous
