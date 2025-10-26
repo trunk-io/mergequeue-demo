@@ -1271,6 +1271,7 @@ dactyliography
 dogies
 doubles
 diploid
+devanagari
 dichotomized
 drago
 depthwise
@@ -12050,7 +12051,6 @@ deprivals
 dipsetic
 dhauri
 dalasi
-devanagari
 diphenol
 descendants
 dipppiest
