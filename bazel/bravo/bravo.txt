@@ -5731,6 +5731,7 @@ bowgrace
 ballpoint
 bethumps
 biplane
+buffier
 biased
 beudantite
 bonnocks
@@ -11282,7 +11283,6 @@ bearcoot
 balcony
 batrachoplasty
 balistidae
-buffier
 bertrand
 blottto
 bedevilment
