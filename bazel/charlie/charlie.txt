@@ -18979,7 +18979,6 @@ cerotypes
 collates
 collation
 compromisers
-collative
 chorotega
 cairned
 cyclothure
@@ -25910,6 +25909,7 @@ clammer
 couvade
 cetene
 cofound
+collative
 coeltera
 corrosived
 contrapone
