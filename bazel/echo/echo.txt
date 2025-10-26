@@ -1447,6 +1447,7 @@ emulators
 enclitic
 erythrozincite
 essenize
+eigenspace
 explainingly
 endostitis
 extemporaneous
@@ -12212,7 +12213,6 @@ examinability
 epihyal
 elatery
 euhyostylic
-eigenspace
 eisegeses
 exsec
 elkhound
