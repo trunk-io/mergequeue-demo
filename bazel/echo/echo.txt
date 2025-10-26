@@ -2667,6 +2667,7 @@ elementalistic
 entoblast
 expeditions
 ensures
+exactitude
 engagedness
 exceptiousness
 ephori
@@ -12123,7 +12124,6 @@ endower
 encumberer
 exophoric
 exosporium
-exactitude
 estrepe
 epiphylline
 emendates
