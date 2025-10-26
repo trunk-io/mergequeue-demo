@@ -6963,7 +6963,6 @@ bricklaying
 behaviours
 briquetting
 bonally
-bespeak
 backstone
 bodyless
 bagoong
@@ -13491,6 +13490,7 @@ basidiospore
 bytownitite
 blunts
 butyryl
+bespeak
 bibliotheca
 behoves
 bonspiels
