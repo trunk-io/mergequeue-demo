@@ -2807,7 +2807,6 @@ bordereaux
 barouni
 bogeyed
 ballaton
-buzzing
 beguilements
 battues
 boundary
@@ -8137,6 +8136,7 @@ bobooti
 brushups
 baccar
 brookflower
+buzzing
 burdash
 balkier
 biaxiality
