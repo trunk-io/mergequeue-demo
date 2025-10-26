@@ -6894,6 +6894,7 @@ besiege
 blunderingly
 bagwoman
 besluit
+bedchair
 bridgebuilding
 bairnie
 biarchy
@@ -13366,7 +13367,6 @@ browband
 bucculae
 berhymed
 boarfish
-bedchair
 byroad
 beltis
 botanize
