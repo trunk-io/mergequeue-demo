@@ -7019,7 +7019,6 @@ catocalid
 changed
 chantages
 caisson
-cranker
 cowpunch
 cutup
 candescently
@@ -8711,6 +8710,7 @@ clayweed
 contemnor
 corevolve
 cinenegative
+cranker
 chapapote
 casehardened
 cassican
