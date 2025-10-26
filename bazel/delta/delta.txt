@@ -607,7 +607,6 @@ dediticiancy
 dyakisdodecahedron
 dryadic
 destines
-ditetrahedral
 disturbant
 dempne
 dihydric
@@ -9896,6 +9895,7 @@ descriptions
 dhaw
 diageotropy
 desiderating
+ditetrahedral
 dilamination
 dispensers
 dogmen
