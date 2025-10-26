@@ -16544,7 +16544,6 @@ dak
 disnumber
 demoting
 disarrangements
-detrudes
 demurity
 dasypodidae
 dracontites
@@ -16943,6 +16942,7 @@ drona
 denaturalized
 dikdiks
 dodecagonal
+detrudes
 diploblastic
 disentailment
 disseating
