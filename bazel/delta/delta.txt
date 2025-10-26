@@ -3555,7 +3555,6 @@ dissheathe
 dossy
 damaging
 diminishable
-devolatilisation
 digitising
 decrease
 duramater
@@ -7339,6 +7338,7 @@ discomfit
 decliner
 daymares
 delph
+devolatilisation
 dopesters
 devadasi
 disarrest
