@@ -7182,7 +7182,6 @@ berlin
 besiegement
 boundable
 berkeley
-better
 bytownite
 bowsprit
 betag
@@ -17655,6 +17654,7 @@ beblubbered
 buriels
 bambini
 buccogingival
+better
 brainstem
 blackbelly
 becursing
