@@ -895,7 +895,6 @@ excussion
 event
 epiglot
 epoxied
-epoxidize
 embosk
 extrasacerdotal
 enkindle
@@ -6296,6 +6295,7 @@ extramental
 euryclea
 elongated
 extravasating
+epoxidize
 enquiry
 enchurch
 exogonium
