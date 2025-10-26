@@ -2798,7 +2798,6 @@ bovinity
 boule
 brassworker
 barotrauma
-beltane
 bravest
 bitreadle
 bozzetto
@@ -6768,6 +6767,7 @@ boltings
 brachycephalic
 buckland
 boonless
+beltane
 biocatalytic
 benote
 blad
