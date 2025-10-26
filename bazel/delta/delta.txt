@@ -13012,7 +13012,6 @@ dandify
 disgusts
 disorderer
 deactivating
-desynonymization
 decane
 dorsicolumn
 dials
@@ -14084,6 +14083,7 @@ dumpoke
 disrespectable
 dinkeys
 downcastness
+desynonymization
 distribute
 dispace
 decretum
