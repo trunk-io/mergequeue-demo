@@ -2283,7 +2283,6 @@ amphithyron
 adversely
 achillea
 araks
-acropore
 anhydremic
 achloropsia
 armatoli
@@ -6742,6 +6741,7 @@ aeromaechanic
 acidurias
 agglutination
 aptitudes
+acropore
 apsis
 aglucon
 ainus
