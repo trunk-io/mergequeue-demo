@@ -3220,7 +3220,6 @@ bungaloid
 baskish
 bletheration
 basnat
-basoid
 bchs
 bayberries
 blindages
@@ -14979,6 +14978,7 @@ bedels
 barytosulphate
 biconcavity
 backpacked
+basoid
 bindheimite
 buttercup
 belowdecks
