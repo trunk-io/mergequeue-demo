@@ -3967,6 +3967,7 @@ burden
 bepranked
 boilable
 bronchiospasm
+becolor
 biles
 bracking
 barrow
@@ -6427,7 +6428,6 @@ banisters
 brustled
 befurbelowed
 bouldery
-becolor
 birminghamize
 bonnets
 bumbarge
