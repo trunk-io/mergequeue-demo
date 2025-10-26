@@ -665,7 +665,6 @@ bathyscaphes
 bumpkinly
 britches
 batholithic
-bugger
 badness
 booklice
 breakaxe
@@ -15289,6 +15288,7 @@ bouch
 boroglyceride
 blueweeds
 bedarken
+bugger
 bristlewort
 bustling
 bun
