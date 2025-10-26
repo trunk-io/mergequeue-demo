@@ -5420,7 +5420,6 @@ amalgamatize
 annotators
 afterturn
 aburagiri
-antilogistic
 autophoby
 alumbloom
 archiater
@@ -15148,6 +15147,7 @@ aristocracies
 anticlimactical
 azotises
 achtel
+antilogistic
 apsidal
 adnexal
 antirachitically
