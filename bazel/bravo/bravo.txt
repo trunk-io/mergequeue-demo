@@ -6100,7 +6100,6 @@ bannet
 brist
 barongs
 biogeochemical
-bacillogenous
 byth
 bethorn
 bielid
@@ -12282,6 +12281,7 @@ bologna
 banderillas
 braza
 buddles
+bacillogenous
 bibliotist
 boldly
 blindly
