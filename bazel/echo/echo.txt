@@ -2973,7 +2973,6 @@ exonym
 elder
 echinorhynchus
 engraffing
-esophagoscope
 eyecup
 epistoma
 eremic
@@ -6726,6 +6725,7 @@ erythrophyll
 eundem
 enemied
 ergon
+esophagoscope
 expatiation
 empeoplement
 embryonic
