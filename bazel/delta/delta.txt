@@ -6576,6 +6576,7 @@ democratian
 deers
 dispossesses
 descendable
+dequeue
 dewclaws
 dif
 dumous
@@ -17647,7 +17648,6 @@ denaturalization
 dammaret
 datil
 dinophilea
-dequeue
 deave
 dilatometry
 dogging
