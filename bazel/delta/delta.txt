@@ -7199,6 +7199,7 @@ diagnostic
 disinheritable
 dhotee
 destructions
+dels
 dasein
 dispositor
 distritbute
@@ -17814,7 +17815,6 @@ diagnosis
 dysesthetic
 downcried
 devitalize
-dels
 donatist
 diagnosticians
 deathrate
