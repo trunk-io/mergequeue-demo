@@ -11380,7 +11380,6 @@ blaze
 bludge
 brideknot
 backlit
-bludgeon
 bluefin
 brattice
 bailiary
@@ -13984,6 +13983,7 @@ befeather
 barndoor
 ballerinas
 bromal
+bludgeon
 bimbil
 belter
 basset

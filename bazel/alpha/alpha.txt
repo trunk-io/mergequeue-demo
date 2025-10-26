@@ -5335,6 +5335,7 @@ attitudinize
 analyzer
 aywhere
 archology
+archdeacons
 afterdate
 attorned
 alcoran
@@ -25351,7 +25352,6 @@ albines
 avahi
 amban
 additiment
-archdeacons
 aldermanic
 ancile
 acylation
