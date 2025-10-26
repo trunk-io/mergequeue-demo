@@ -5553,7 +5553,6 @@ dolichos
 departisanize
 dimout
 display
-digging
 doze
 drunkard
 disvantage
@@ -17733,6 +17732,7 @@ delft
 deathfulness
 deltohedra
 derailed
+digging
 degradingly
 donga
 dottily
