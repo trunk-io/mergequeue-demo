@@ -5972,7 +5972,6 @@ enjail
 exsiccator
 eulachan
 eleme
-enameled
 exhausted
 exotic
 exscissor
@@ -11251,6 +11250,7 @@ evenblush
 electropoion
 evocating
 echeneidoid
+enameled
 emusive
 equivoluminal
 evibrate
