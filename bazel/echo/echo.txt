@@ -2614,6 +2614,7 @@ emaceration
 estaminets
 estus
 emetic
+esselen
 elfwort
 epotation
 existible
@@ -11571,7 +11572,6 @@ euktolite
 entelam
 elementish
 enlife
-esselen
 elaioleucite
 exaun
 exaltative
