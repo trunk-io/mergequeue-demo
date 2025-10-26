@@ -5895,7 +5895,6 @@ bracker
 bibliography
 biventer
 breakings
-beknottedness
 blockheadish
 battledores
 bluejacks
@@ -15446,6 +15445,7 @@ besmooths
 betacism
 brieflessly
 biaswise
+beknottedness
 boarders
 brandiron
 bulletproof
