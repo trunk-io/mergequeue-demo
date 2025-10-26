@@ -1088,6 +1088,7 @@ elicitation
 edaphosaurid
 escobadura
 echelle
+evocators
 enshrouding
 empoisoning
 epitrite
@@ -4764,7 +4765,6 @@ ectoplasmatic
 equinoxes
 exponentially
 evened
-evocators
 enghle
 eighth
 elders
