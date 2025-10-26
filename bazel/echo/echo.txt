@@ -1310,6 +1310,7 @@ entity
 eyrie
 ergotinine
 eyelast
+edward
 entities
 electromagnetic
 electrovection
@@ -1903,7 +1904,6 @@ ecphrasis
 estrin
 enrapting
 econometrist
-edward
 epiphora
 exposing
 eranthis
