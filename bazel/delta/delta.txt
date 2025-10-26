@@ -6574,7 +6574,6 @@ democratian
 deers
 dispossesses
 descendable
-dequeue
 dewclaws
 dif
 dumous
@@ -13138,6 +13137,7 @@ decaliters
 deathlike
 dispatched
 duodecagon
+dequeue
 didactician
 dissolutions
 drubber
