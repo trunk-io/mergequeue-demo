@@ -7601,6 +7601,7 @@ colima
 crustalogical
 catfooted
 cucuyo
+coroutine
 centralizer
 cotitular
 correlatable
@@ -20008,7 +20009,6 @@ curchef
 champagne
 calkins
 centripetence
-coroutine
 cogitative
 cleanup
 commandingly
