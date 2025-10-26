@@ -1268,7 +1268,6 @@ extraequilibrium
 edaphosaurus
 effigy
 endostracal
-eds
 excubitoria
 epistasy
 electrothermic
@@ -14125,6 +14124,7 @@ euphoric
 essenwood
 esthetophore
 epigaeous
+eds
 evalue
 epeirogenically
 exclamative
