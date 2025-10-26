@@ -10948,7 +10948,6 @@ delectus
 despatchers
 demirelief
 directdiscourse
-doublewords
 dynodes
 demarks
 directer
@@ -14370,6 +14369,7 @@ discontinuer
 disrealize
 delicense
 discreditable
+doublewords
 disquisite
 demicadence
 digestiveness
