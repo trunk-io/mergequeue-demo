@@ -6329,6 +6329,7 @@ baronries
 barrelfuls
 buttercups
 borstal
+boundedly
 benight
 bizcacha
 bolection
@@ -9379,7 +9380,6 @@ banque
 balms
 billethead
 bulbously
-boundedly
 biotins
 byte
 befavor
