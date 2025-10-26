@@ -5116,7 +5116,6 @@ biologistic
 balaenid
 beggarhood
 bribri
-bogledom
 befurred
 boarhound
 blackstrap
@@ -9807,6 +9806,7 @@ barfed
 bullflower
 bimahs
 bemouth
+bogledom
 bestuds
 biblos
 bushers
