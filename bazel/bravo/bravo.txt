@@ -10405,6 +10405,7 @@ biggened
 beyliks
 backsaws
 bailwood
+billeted
 burroweed
 byssus
 birdbrains
@@ -15256,7 +15257,6 @@ brinjarry
 beback
 buceros
 boullework
-billeted
 barnier
 blocs
 bivalvous
