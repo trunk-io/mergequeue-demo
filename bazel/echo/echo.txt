@@ -5510,7 +5510,6 @@ erastian
 equidivision
 encephaloma
 entheos
-eubacteriales
 epiglottal
 enervation
 endoceratite
@@ -8066,6 +8065,7 @@ externship
 epistaxis
 epistena
 eyeberry
+eubacteriales
 entirety
 epistemic
 envois
