@@ -1853,7 +1853,6 @@ extremest
 emhpasizing
 electrofishing
 entrer
-encoder
 equitriangular
 envenomed
 eolation
@@ -4115,6 +4114,7 @@ endospermic
 epicalyxes
 experimentize
 emetin
+encoder
 emporeutic
 eyewink
 ethynyls
