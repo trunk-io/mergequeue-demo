@@ -6866,7 +6866,6 @@ entrances
 epigon
 exam
 etatisme
-enantiomorphy
 exoculate
 eburnated
 excessman
@@ -11713,6 +11712,7 @@ epically
 electroluminescent
 earrings
 eschel
+enantiomorphy
 endosomes
 emits
 enamouring
