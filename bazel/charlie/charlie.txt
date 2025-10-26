@@ -19743,6 +19743,7 @@ countermining
 constants
 clostridia
 cormogen
+cornic
 coarct
 camarilla
 copintank
@@ -30806,7 +30807,6 @@ continuation
 chorist
 coppra
 cyclotomy
-cornic
 cora
 covalence
 cronus
