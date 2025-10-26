@@ -5223,6 +5223,7 @@ biographical
 blocky
 brainwasher
 birdwatch
+biocoenosis
 bratstva
 broodling
 bizones
@@ -6972,7 +6973,6 @@ ballroom
 broil
 blastocyte
 brachyglossal
-biocoenosis
 brulzies
 basidiomycetes
 briza
