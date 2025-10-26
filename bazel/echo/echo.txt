@@ -3596,7 +3596,6 @@ emerges
 erucin
 enherit
 epiplankton
-ergate
 enthetic
 eteocretes
 erelong
@@ -9416,6 +9415,7 @@ exsurgent
 epicycles
 enheart
 ectrosyndactyly
+ergate
 euonymin
 enqueued
 ectropionization
