@@ -2891,7 +2891,6 @@ dotingness
 dextrocardial
 driftman
 diegesis
-diplasiasmus
 dipnoous
 doffer
 dens
@@ -11462,6 +11461,7 @@ denaturation
 designator
 daystar
 ds
+diplasiasmus
 distressfully
 disavowment
 diddler
