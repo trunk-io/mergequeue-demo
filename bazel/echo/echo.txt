@@ -638,6 +638,7 @@ equidistant
 enode
 equestrienne
 emblements
+extrusible
 electricity
 egoistry
 elseways
@@ -6158,7 +6159,6 @@ extrapolator
 expertising
 emersonianism
 enniche
-extrusible
 escapingly
 exequatur
 encephalopsychesis
