@@ -8018,7 +8018,6 @@ eggbeaters
 estadio
 excorticate
 emeries
-elytrous
 eeler
 eldred
 epicuticle
@@ -8731,6 +8730,7 @@ extravagating
 earlobe
 ecstatic
 elaterid
+elytrous
 epicranius
 epicoeloma
 excandescency
