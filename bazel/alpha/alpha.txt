@@ -3382,6 +3382,7 @@ amalgamator
 afferently
 aggeration
 arboloco
+antenumber
 aponeurotic
 attain
 alist
@@ -13923,7 +13924,6 @@ allicins
 anvasser
 anticyclones
 admonish
-antenumber
 anglicisms
 acipenseroid
 aikane
