@@ -6423,7 +6423,6 @@ cairds
 cavelet
 comestible
 cambodia
-cavelike
 cephalosporin
 cavemen
 cyanuret
@@ -9898,6 +9897,7 @@ corelates
 chemotactic
 clartiest
 choochoo
+cavelike
 curarize
 conventionalizing
 cambrel
