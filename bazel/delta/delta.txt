@@ -3192,7 +3192,6 @@ defend
 dainties
 dikast
 defrayment
-dragboat
 discumber
 deformed
 disobeyed
@@ -3319,6 +3318,7 @@ devils
 dancettee
 doles
 dictative
+dragboat
 diastomatic
 deltic
 depend
