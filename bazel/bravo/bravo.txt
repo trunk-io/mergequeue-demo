@@ -2777,7 +2777,6 @@ beetroots
 blowze
 bovinity
 boule
-barothermohygrograph
 brassworker
 barotrauma
 beltane
@@ -18336,6 +18335,7 @@ barenecked
 brune
 bogtrotting
 bacchantes
+barothermohygrograph
 basaltoid
 bield
 bronchitic
