@@ -7325,7 +7325,6 @@ alstroemeria
 additives
 aircrew
 applotment
-apparatuses
 alum
 anthecologist
 albedometer
@@ -15162,6 +15161,7 @@ antihierarchies
 actinotherapy
 antienthusiastic
 annunciate
+apparatuses
 antienthusiastically
 austroasiatic
 adminiculation
