@@ -2767,6 +2767,7 @@ eunicid
 exsiccated
 ectoloph
 emasculator
+evolutionary
 encephalotomy
 enterotomy
 eleutherios
@@ -8473,7 +8474,6 @@ epitheloid
 exhumating
 espece
 enfranchisable
-evolutionary
 epizootiology
 embryoid
 endophytal
