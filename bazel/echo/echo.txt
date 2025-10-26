@@ -432,7 +432,6 @@ electrocute
 exhale
 echappe
 examinator
-est
 etheling
 ethnogeographical
 earlship
@@ -4809,6 +4808,7 @@ entertainingness
 embarrass
 emphatic
 ecthymata
+est
 ethylic
 emeers
 excheat
