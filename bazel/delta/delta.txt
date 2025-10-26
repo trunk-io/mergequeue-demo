@@ -1283,7 +1283,6 @@ devanagari
 dichotomized
 dyslectic
 doorway
-drago
 depthwise
 diphthongization
 dompt
@@ -13484,6 +13483,7 @@ dishcloths
 deuced
 dumbness
 deflexed
+drago
 delusionary
 dais
 decolourize
