@@ -4866,7 +4866,6 @@ entypies
 embrangle
 exemplification
 episcleral
-extraposition
 extraclassroom
 evenhandedly
 engloom
@@ -5635,6 +5634,7 @@ embowels
 enfort
 election
 endoneurium
+extraposition
 equatorial
 ensafe
 epicritic
