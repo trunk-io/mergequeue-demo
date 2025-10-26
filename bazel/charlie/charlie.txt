@@ -8803,7 +8803,6 @@ crips
 companionway
 crambid
 curets
-cave
 cosmonautics
 crosstree
 crystallised
@@ -15596,6 +15595,7 @@ continentalist
 confessionalist
 classifiable
 chapitral
+cave
 cryonic
 crustaceous
 creeper
