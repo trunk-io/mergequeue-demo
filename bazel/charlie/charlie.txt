@@ -15526,7 +15526,6 @@ connections
 chemotaxonomically
 chittering
 calamus
-classman
 cuggermugger
 clavelize
 clart
@@ -27793,6 +27792,7 @@ cowbane
 collided
 chamfered
 coins
+classman
 corticosteroid
 circumplect
 cowbind
