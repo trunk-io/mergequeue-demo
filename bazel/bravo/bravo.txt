@@ -5775,7 +5775,6 @@ blueish
 billsticker
 beaumontia
 basketwork
-bare
 belting
 besmircher
 biorbital
@@ -8378,6 +8377,7 @@ batak
 bounceable
 bilifuscin
 bywords
+bare
 beethovenish
 bullyable
 brigadiership
