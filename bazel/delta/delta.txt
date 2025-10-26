@@ -3557,6 +3557,7 @@ dissheathe
 dossy
 damaging
 diminishable
+dehusk
 digitising
 decrease
 disjointness
@@ -10445,7 +10446,6 @@ dative
 didacts
 dink
 doling
-dehusk
 drummock
 devoicing
 delitescency
