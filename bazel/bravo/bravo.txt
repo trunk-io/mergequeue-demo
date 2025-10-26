@@ -423,6 +423,7 @@ brewis
 bequeath
 begird
 bellyache
+bold
 bdelloid
 barbarism
 barbarical
@@ -10613,7 +10614,6 @@ bogey
 blenheim
 bandido
 bonging
-bold
 biostrome
 blatted
 boltheader

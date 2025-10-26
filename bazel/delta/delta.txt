@@ -7077,6 +7077,7 @@ dispatcher
 dehydrogenising
 demitone
 devastator
+digesters
 dogtrotted
 dihely
 downfalls
@@ -10031,7 +10032,6 @@ deicer
 dimensional
 draughtswoman
 didacticism
-digesters
 dsnames
 districted
 dx
