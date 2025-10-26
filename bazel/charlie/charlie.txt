@@ -3702,7 +3702,6 @@ cribbers
 caribal
 clept
 chewbark
-colloquialisms
 communistery
 catline
 circuitmen
@@ -12117,6 +12116,7 @@ chreotechnics
 chewink
 chazan
 configuration
+colloquialisms
 cubans
 cyclonoscope
 citriculture
