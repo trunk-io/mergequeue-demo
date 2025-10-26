@@ -7500,6 +7500,7 @@ cerci
 cercidiphyllaceae
 confessorship
 chrysopee
+command
 canisiana
 cercomonadidae
 cercopithecidae
@@ -20363,7 +20364,6 @@ communicating
 countrie
 cercospora
 capsheaf
-command
 contentedly
 chemospheric
 corrosible
