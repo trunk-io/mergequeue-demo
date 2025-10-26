@@ -3396,7 +3396,6 @@ cataphonic
 calvarias
 combre
 captor
-capture
 captured
 colophonium
 complexionally
@@ -31637,6 +31636,7 @@ cotypes
 cevenol
 carnage
 crunching
+capture
 cervicodorsal
 chords
 calibre
