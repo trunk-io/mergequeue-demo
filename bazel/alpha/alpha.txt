@@ -3226,6 +3226,7 @@ argentol
 absoluter
 ankou
 aliased
+afterroll
 aflare
 allegorize
 atmologist
@@ -15836,7 +15837,6 @@ aegirine
 archiblast
 aviolite
 anisopodal
-afterroll
 angraecum
 aurin
 azymite
