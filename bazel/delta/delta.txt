@@ -3953,6 +3953,7 @@ diradiation
 damine
 desmatippus
 defence
+detestation
 discabinet
 deism
 dreamer
@@ -7419,7 +7420,6 @@ disunions
 dapper
 decremental
 decreet
-detestation
 deterrable
 desexing
 decomponent
