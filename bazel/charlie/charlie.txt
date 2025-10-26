@@ -7073,7 +7073,6 @@ caliculus
 causer
 centimetre
 cullion
-centimos
 centipedes
 centiplume
 columelliaceae
@@ -11655,6 +11654,7 @@ conking
 cardinalfish
 counterround
 catguts
+centimos
 circumjacent
 calathi
 codebreaker
