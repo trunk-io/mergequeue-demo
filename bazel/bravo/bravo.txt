@@ -597,7 +597,6 @@ bcf
 brassware
 baconize
 boilersmith
-bidiagonal
 bulblet
 bloomage
 baconweed
@@ -6442,6 +6441,7 @@ balsamorrhiza
 bucketmaking
 bratticing
 blenniiformes
+bidiagonal
 berakah
 bleating
 blastophaga
