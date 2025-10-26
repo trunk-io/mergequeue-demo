@@ -6696,7 +6696,6 @@ dockize
 displayer
 documentor
 deportations
-diaskeuasis
 dextrose
 dunting
 dentello
@@ -11591,6 +11590,7 @@ diuretic
 disincline
 dinghies
 doum
+diaskeuasis
 dicycly
 defervesced
 demicylindrical
