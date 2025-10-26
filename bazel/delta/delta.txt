@@ -10079,7 +10079,6 @@ dearnesses
 dupioni
 drawdown
 disweapon
-dogfaces
 daydawn
 dicyanid
 demurring
@@ -10773,6 +10772,7 @@ doorplates
 devaul
 deselect
 dungy
+dogfaces
 displume
 ditchdigging
 dreadlocks
