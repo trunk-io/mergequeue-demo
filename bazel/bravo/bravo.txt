@@ -1435,6 +1435,7 @@ brier
 buttressed
 batfowls
 bipacks
+bimedial
 barbules
 bais
 backboards
@@ -17246,7 +17247,6 @@ bootlaces
 batching
 bumclock
 batling
-bimedial
 beryline
 bohireen
 brauronian
