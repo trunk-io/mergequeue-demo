@@ -3516,7 +3516,6 @@ bemists
 bowyers
 biont
 buffalos
-brainpans
 brantle
 behaving
 bloodflower
@@ -17017,6 +17016,7 @@ bhil
 blasphemer
 blepharotomy
 buddhic
+brainpans
 broomroot
 brideship
 bespell
