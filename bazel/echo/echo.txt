@@ -4487,6 +4487,7 @@ excludes
 enatant
 etiophyllin
 epipterygoid
+epithumetic
 exchanging
 ennobled
 entrec
@@ -8873,7 +8874,6 @@ eyewinker
 enterogram
 evertor
 enstar
-epithumetic
 experiences
 euchring
 euphonia
