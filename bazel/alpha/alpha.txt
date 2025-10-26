@@ -4466,7 +4466,6 @@ anthinae
 azans
 azocyclic
 aedeagi
-armory
 aediculae
 anaesthesiologist
 augurer
@@ -10137,6 +10136,7 @@ ambrite
 ambrosiaceae
 asbestiform
 abductions
+armory
 assistantships
 auletic
 aerides
