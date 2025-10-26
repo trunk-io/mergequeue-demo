@@ -6542,6 +6542,7 @@ buttals
 bedstand
 baddies
 bispore
+barabbas
 bassetta
 bed
 beefing
@@ -15744,7 +15745,6 @@ bosoming
 bruges
 branchiness
 bluster
-barabbas
 bewildered
 biguanide
 bloomsbury
