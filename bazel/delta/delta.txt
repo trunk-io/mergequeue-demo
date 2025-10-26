@@ -1296,6 +1296,7 @@ dogies
 doubles
 diploid
 devanagari
+dialecticism
 dichotomized
 dyslectic
 doorway
@@ -8589,7 +8590,6 @@ desulfur
 decolorize
 dicerion
 deliver
-dialecticism
 dolia
 dilogical
 diabetophobia
