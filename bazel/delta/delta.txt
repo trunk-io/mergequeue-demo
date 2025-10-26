@@ -1160,7 +1160,6 @@ disimpark
 dadding
 dissolveability
 defoliage
-demiassignation
 dolichocephali
 dynamitically
 dreissensia
@@ -17259,6 +17258,7 @@ disc
 defectoscope
 deaccession
 decanol
+demiassignation
 decelerometer
 dipodic
 dotted
