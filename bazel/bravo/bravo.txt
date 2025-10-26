@@ -1730,6 +1730,7 @@ brideman
 birthnight
 brigade
 bidget
+bot
 biddable
 bejabers
 bereason
@@ -14038,7 +14039,6 @@ boatyard
 berain
 breachy
 bataan
-bot
 bowtell
 blockades
 barographic
