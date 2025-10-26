@@ -5665,7 +5665,6 @@ exturb
 esophagogastrostomy
 excessive
 eudemons
-exsanguious
 electrotheraputical
 euphemistical
 erechtheus
@@ -14168,6 +14167,7 @@ equivocation
 entireties
 endoscope
 evertors
+exsanguious
 exendospermic
 emborder
 experience
