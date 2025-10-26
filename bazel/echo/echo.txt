@@ -5418,6 +5418,7 @@ excitomotion
 excerp
 esthesiogen
 electronvolt
+emulsin
 ectene
 encomiendas
 ebulus
@@ -10698,7 +10699,6 @@ existential
 embryotome
 epiphloeum
 entoproct
-emulsin
 evaluating
 epilogist
 equisetic
