@@ -4285,7 +4285,6 @@ bilabials
 bittacle
 ballproof
 balanced
-bigness
 beclothe
 banting
 blagueur
@@ -11563,6 +11562,7 @@ bangia
 basilics
 buttstrap
 bastinade
+bigness
 bumaloe
 bedizened
 butteriest
