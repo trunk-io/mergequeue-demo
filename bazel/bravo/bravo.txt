@@ -825,6 +825,7 @@ boon
 baggala
 beckets
 beshouts
+badmash
 broiden
 bijouterie
 bellyfulls
@@ -16014,7 +16015,6 @@ buchmanism
 basified
 blockheadedness
 bajury
-badmash
 bopper
 beekeeper
 bucrania
