@@ -7810,7 +7810,6 @@ escharoid
 epimeron
 extrapolation
 extol
-erosive
 eversion
 electrography
 endamage
@@ -12165,6 +12164,7 @@ epencephalon
 elaborator
 epistasis
 epistolarily
+erosive
 embryoniferous
 ergotin
 eupepticism
