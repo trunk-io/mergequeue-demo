@@ -8940,6 +8940,7 @@ advisories
 atmometric
 archae
 antoninianus
+automower
 alcoholizable
 abysses
 anastatus
@@ -17682,7 +17683,6 @@ alkaliferous
 anthraxolite
 adullam
 appealingly
-automower
 aestuation
 androgenetic
 autourine
