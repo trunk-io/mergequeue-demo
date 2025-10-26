@@ -2905,7 +2905,6 @@ clippers
 cantonize
 countergager
 cantoral
-chimneyless
 cardsharps
 cantoris
 centauri
@@ -7727,6 +7726,7 @@ cerulean
 cosubject
 complaisantly
 cerulein
+chimneyless
 cabildos
 ceruleolactite
 colubrinae
