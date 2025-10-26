@@ -4414,7 +4414,6 @@ enregister
 embedded
 entom
 epirogeny
-episiorrhagia
 epicentrums
 erythrean
 epiphanising
@@ -9445,6 +9444,7 @@ encrusting
 endwise
 explode
 elaborators
+episiorrhagia
 exstipulate
 espino
 elasmosaurus
