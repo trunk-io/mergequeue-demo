@@ -10872,7 +10872,6 @@ anacard
 ammo
 administrants
 ammocoetes
-anviling
 albumoses
 ataxinomic
 asphalts
@@ -15966,6 +15965,7 @@ ascertainer
 armors
 applenut
 ausubos
+anviling
 artabe
 ambrosiaceous
 albuminiparous
