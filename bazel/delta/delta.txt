@@ -1128,7 +1128,6 @@ doloriferous
 doormat
 devilhood
 doit
-diggable
 dosseret
 dribblers
 demagogically
@@ -17923,6 +17922,7 @@ disdiaclasis
 distilland
 decollete
 discomfortableness
+diggable
 dusks
 dacryops
 differenced
