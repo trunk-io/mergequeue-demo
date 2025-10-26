@@ -2303,6 +2303,7 @@ epidotization
 extravehicular
 enlay
 ethylthioether
+extends
 elects
 emplacement
 emusifies
@@ -4690,7 +4691,6 @@ exarch
 endless
 exacerbations
 eanling
-extends
 ended
 eustyle
 exhilaratory
