@@ -5461,7 +5461,6 @@ epidia
 expwy
 entrepreneuse
 enfevers
-expletives
 exponentials
 explosionist
 erythronium
@@ -7869,6 +7868,7 @@ ethine
 epidemy
 electrothermometer
 expilate
+expletives
 elshin
 expectorating
 emoloa
