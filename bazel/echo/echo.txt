@@ -8541,7 +8541,6 @@ enthalpies
 exlex
 escallonia
 endemiology
-eledone
 enumerable
 estrone
 eye
@@ -10599,6 +10598,7 @@ epidemical
 expositional
 enemy
 elongation
+eledone
 edema
 elephantic
 ebonies
