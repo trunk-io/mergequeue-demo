@@ -17673,6 +17673,7 @@ coleuses
 chest
 comparting
 checklist
+crypta
 cerate
 carnassial
 cervicobasilar
@@ -17851,7 +17852,6 @@ cress
 counterlit
 clipt
 cedrat
-crypta
 codens
 catholicise
 cathop
