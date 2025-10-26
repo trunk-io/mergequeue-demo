@@ -9820,7 +9820,6 @@ carcinogens
 chyliform
 countermeasure
 cheloniidae
-cunit
 codfishes
 chemehuevi
 chemical
@@ -21256,6 +21255,7 @@ clunk
 ctenidium
 curtnesses
 ciborium
+cunit
 cyclotron
 crebrisulcate
 caudate
