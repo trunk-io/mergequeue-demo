@@ -2162,7 +2162,6 @@ campos
 campsite
 conidial
 cosmism
-campstool
 chromatic
 contraptions
 campward
@@ -9577,6 +9576,7 @@ cupeling
 cheeney
 cheep
 cheeped
+campstool
 cheeper
 capernaite
 cheepier
