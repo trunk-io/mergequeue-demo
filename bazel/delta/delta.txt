@@ -3486,7 +3486,6 @@ defines
 deaccessions
 delete
 deperition
-danes
 dorsosternal
 deerherd
 dorsicollar
@@ -6642,6 +6641,7 @@ dave
 dubash
 desire
 derotrema
+danes
 discernibleness
 defecated
 descant
