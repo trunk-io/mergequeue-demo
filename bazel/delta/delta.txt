@@ -6055,7 +6055,6 @@ dubiousness
 decompile
 datelines
 diaphoretics
-downgraded
 disapprove
 disambiguation
 dissented
@@ -17419,6 +17418,7 @@ drachma
 dysprosia
 dulcets
 denumerant
+downgraded
 dove
 drowsihead
 diarian
