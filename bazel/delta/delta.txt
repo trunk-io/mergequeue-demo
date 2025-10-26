@@ -2088,7 +2088,6 @@ decandria
 dmod
 donis
 duramatral
-dressline
 decanes
 diabolify
 doolees
@@ -11651,6 +11650,7 @@ derringer
 dambonite
 dugouts
 depulse
+dressline
 dihydronaphthalene
 diatrymiformes
 discontinuee
