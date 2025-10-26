@@ -4746,6 +4746,7 @@ bdellium
 baudekins
 bethwine
 banged
+birefringence
 britzska
 bedrid
 benzoxycamphor
@@ -7791,7 +7792,6 @@ buchnera
 bandersnatch
 bibacity
 blanco
-birefringence
 besanctify
 bibbing
 borrachio
