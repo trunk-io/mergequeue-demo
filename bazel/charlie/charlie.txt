@@ -6437,7 +6437,6 @@ cabecudo
 complementizer
 cairds
 cavelet
-comestible
 cambodia
 cephalosporin
 castorized
@@ -15315,6 +15314,7 @@ chines
 corgis
 clamour
 contune
+comestible
 contrabass
 citizeness
 cordant
