@@ -2398,7 +2398,6 @@ exsecants
 erythrocytoblast
 erythroplastid
 extranational
-ergatogyne
 embryopathology
 ey
 elided
@@ -3616,6 +3615,7 @@ enacture
 elric
 electriferous
 econ
+ergatogyne
 expenseful
 extrapolated
 equilibrations
