@@ -8736,7 +8736,6 @@ bilayer
 bluebirds
 bronchopneumonic
 bagging
-boldfacing
 barboy
 brecia
 brining
@@ -9709,6 +9708,7 @@ beguine
 bladderpod
 backslaps
 bringall
+boldfacing
 bitmapped
 bismuthal
 bedeafened
