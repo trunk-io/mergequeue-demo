@@ -3782,7 +3782,6 @@ desmose
 dearn
 daylit
 dreadful
-determinative
 distributable
 dihedrons
 dytiscidae
@@ -6963,6 +6962,7 @@ dat
 darwinist
 dowieite
 docimastical
+determinative
 desmopathology
 disequality
 diaphanometry
