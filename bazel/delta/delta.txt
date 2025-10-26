@@ -2796,7 +2796,6 @@ delisted
 deuterogenic
 dcor
 degassers
-dpt
 dichas
 divinail
 downtreading
@@ -3524,6 +3523,7 @@ detriment
 developedness
 defunct
 duplications
+dpt
 despatched
 diminutivize
 deadcenter
