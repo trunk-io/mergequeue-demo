@@ -7487,6 +7487,7 @@ dragoonage
 decade
 decess
 downgrade
+dal
 diplomatic
 disnaturalization
 ductible
@@ -11591,7 +11592,6 @@ dcolletage
 deathworm
 deflects
 discounter
-dal
 dobbins
 disavowing
 dunger
