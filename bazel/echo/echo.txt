@@ -6703,7 +6703,6 @@ emerit
 elapsing
 evacuation
 erumpent
-elaborator
 espigle
 exhibits
 everywhere
@@ -12150,6 +12149,7 @@ estamene
 encirclements
 embryophagous
 epencephalon
+elaborator
 epistasis
 epistolarily
 embryoniferous
