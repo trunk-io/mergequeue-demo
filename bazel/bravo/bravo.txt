@@ -8856,6 +8856,7 @@ brionine
 breathier
 baragouinish
 bioclimatic
+bolis
 biglandular
 brushpopper
 blabber
@@ -11667,7 +11668,6 @@ brunonian
 boardwalks
 bemoat
 bridgeward
-bolis
 besonio
 becoresh
 barche
