@@ -16220,6 +16220,7 @@ answerers
 ambilogy
 autodialled
 antimedicative
+auspice
 angiotasis
 achaemenidae
 aldebaranium
@@ -23825,7 +23826,6 @@ aus
 acetifier
 algaecide
 athrong
-auspice
 authenticated
 antiblackism
 aaronic
