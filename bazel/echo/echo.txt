@@ -2403,7 +2403,6 @@ empasma
 exhorting
 extinguishers
 ethnicism
-electroless
 exsecants
 erythrocytoblast
 erythroplastid
@@ -5188,6 +5187,7 @@ expression
 endophagous
 entombed
 euplotid
+electroless
 endodontology
 elt
 effluvious
