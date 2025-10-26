@@ -19045,6 +19045,7 @@ castigations
 coralla
 chase
 combattant
+cudgeller
 cokernut
 collembolous
 collencyte
@@ -25946,7 +25947,6 @@ chalcis
 corruptive
 circummuring
 comitium
-cudgeller
 corruptively
 coprinae
 choledochotomy
