@@ -13627,7 +13627,6 @@ blindworm
 barwal
 broodless
 bovista
-battleships
 bumpiness
 bibliogenesis
 bombs
@@ -16712,6 +16711,7 @@ beady
 bahay
 buffalofish
 bovey
+battleships
 buckeen
 broiling
 boothale
