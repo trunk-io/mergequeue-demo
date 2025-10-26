@@ -11104,7 +11104,6 @@ basaltic
 blockship
 byronic
 barrooms
-brickwork
 brushwork
 benzdioxdiazine
 blackbush
@@ -15624,6 +15623,7 @@ bryony
 brangling
 brooklike
 bavius
+brickwork
 beziques
 bigemina
 biedermeier
