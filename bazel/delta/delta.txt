@@ -6864,7 +6864,6 @@ dragsmen
 datatype
 deckels
 dewinesses
-deregulationize
 drakonite
 displeasured
 discontinues
@@ -13727,6 +13726,7 @@ devolvements
 daubing
 divests
 dissever
+deregulationize
 disproval
 diatoms
 dawdlingly
