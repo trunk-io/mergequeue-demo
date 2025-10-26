@@ -6305,6 +6305,7 @@ bronzelike
 bastinading
 bankrupts
 bardic
+bandlimit
 billhooks
 boarded
 bulletlike
@@ -12369,7 +12370,6 @@ braless
 biuniqueness
 boundure
 biotical
-bandlimit
 bieberite
 balneotechnics
 bornyl
