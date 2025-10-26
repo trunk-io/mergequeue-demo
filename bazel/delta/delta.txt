@@ -3467,7 +3467,6 @@ diol
 downtimes
 delundung
 derailleurs
-deflections
 defines
 deaccessions
 delete
@@ -16194,6 +16193,7 @@ definish
 disamenity
 discoursively
 declaratively
+deflections
 demoted
 deckpipe
 devourer
