@@ -257,7 +257,6 @@ doubleprecision
 deteriorates
 deleerit
 dragman
-deleter
 decahedra
 drinking
 deratizing
@@ -5890,6 +5889,7 @@ depopulation
 deposits
 dulcitol
 dogtail
+deleter
 debating
 didder
 diamidogen
