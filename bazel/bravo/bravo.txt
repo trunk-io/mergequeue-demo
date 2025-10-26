@@ -5210,6 +5210,7 @@ begloze
 busti
 binder
 brachistochrone
+backening
 begnaw
 balmy
 braca
@@ -13958,7 +13959,6 @@ breached
 brainge
 begirdled
 bedrite
-backening
 blaewort
 beroe
 bisque
