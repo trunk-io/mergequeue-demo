@@ -4558,7 +4558,6 @@ anthradiol
 advocatory
 archvampire
 auntlier
-aetheling
 avails
 alphard
 armful
@@ -17641,6 +17640,7 @@ altitude
 athort
 aerostatics
 amorphic
+aetheling
 appendicocaecostomy
 antecedent
 accommodation
