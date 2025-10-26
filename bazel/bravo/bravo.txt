@@ -10415,7 +10415,6 @@ burroweed
 bailwood
 billeted
 byssus
-birdbrains
 buchanite
 blauboks
 biologies
@@ -17210,6 +17209,7 @@ bescorch
 bioelectrogenesis
 bacquet
 bulimic
+birdbrains
 befrill
 benjamin
 beachcomber
