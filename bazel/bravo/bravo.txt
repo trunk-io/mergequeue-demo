@@ -3661,7 +3661,6 @@ bauch
 barbacoan
 backspace
 bondoc
-bulgaric
 betatron
 bookmakers
 beaniest
@@ -17075,6 +17074,7 @@ blizzards
 boroughlet
 batoneer
 burgherage
+bulgaric
 bacin
 basti
 boomslange
