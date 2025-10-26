@@ -8442,6 +8442,7 @@ chamfers
 conservationist
 coindicant
 caerphilly
+chondromucoid
 calvaria
 crawberry
 cradock
@@ -11806,7 +11807,6 @@ chondromyces
 cholecyanine
 captan
 consternating
-chondromucoid
 contraregular
 centronucleus
 cytoma
