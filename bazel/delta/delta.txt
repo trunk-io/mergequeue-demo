@@ -1714,6 +1714,7 @@ dauerschlaf
 deathtime
 deathtrap
 deutobromide
+dotlike
 didynamic
 diopsidic
 dexamethasone
@@ -15081,7 +15082,6 @@ divulgater
 depravity
 dimply
 demonographies
-dotlike
 done
 distinguisher
 depressurize
