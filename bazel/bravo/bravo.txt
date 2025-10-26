@@ -2692,7 +2692,6 @@ bromohydrate
 beverage
 bromvoel
 brightly
-bordello
 bucketman
 bearnaise
 billbug
@@ -6050,6 +6049,7 @@ beerily
 becalmed
 betrothment
 bepress
+bordello
 bailiffry
 bethflower
 blackhead
