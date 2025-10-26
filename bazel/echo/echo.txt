@@ -6387,7 +6387,6 @@ engages
 eligible
 elsewhen
 expeditionary
-endocannibalism
 epithetician
 endamagement
 eleutherozoa
@@ -7264,6 +7263,7 @@ errabund
 ensheathes
 eloins
 enterohemorrhage
+endocannibalism
 encaenia
 electrophonic
 emasculations
