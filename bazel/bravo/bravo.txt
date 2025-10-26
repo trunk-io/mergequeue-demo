@@ -5172,6 +5172,7 @@ bogies
 blatant
 brawny
 bensail
+barbula
 bypaths
 bothroi
 biltong
@@ -18239,7 +18240,6 @@ bugaboo
 buonamani
 buts
 begats
-barbula
 barbiturate
 brooder
 backened
