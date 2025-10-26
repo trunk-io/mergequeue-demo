@@ -6822,6 +6822,7 @@ edeoscopy
 egad
 eucti
 euscaro
+erodable
 electrochemical
 euselachii
 evitable
@@ -11004,7 +11005,6 @@ estrapade
 electronic
 exampleship
 excarnificate
-erodable
 earings
 elvers
 expensefully
