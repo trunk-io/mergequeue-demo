@@ -13655,7 +13655,6 @@ babelish
 baizing
 brachydont
 bullarium
-buzzword
 borane
 bouge
 betacaine
@@ -15085,6 +15084,7 @@ balsamine
 brissotin
 breathingly
 bituminate
+buzzword
 becry
 bohora
 breccias
