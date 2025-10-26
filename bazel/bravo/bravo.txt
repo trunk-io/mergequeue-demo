@@ -6307,7 +6307,6 @@ bigamic
 barangay
 baronries
 bravery
-bedighted
 barrelfuls
 buttercups
 borstal
@@ -14380,6 +14379,7 @@ breathable
 botonny
 blueings
 binnacle
+bedighted
 basketware
 breaghe
 barras
