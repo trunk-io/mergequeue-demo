@@ -7217,6 +7217,7 @@ blowie
 bemock
 biforine
 belick
+bombsights
 bubblies
 bobotee
 beleapt
@@ -13944,7 +13945,6 @@ bauxites
 bedemen
 bushgoat
 buchite
-bombsights
 bulkheading
 bromothymol
 boutell
