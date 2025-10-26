@@ -467,7 +467,6 @@ balayeuse
 branchings
 belook
 betipple
-bituminize
 begunk
 balladized
 befilleted
@@ -1511,6 +1510,7 @@ backsword
 baryon
 bornite
 brujas
+bituminize
 bacchanal
 besticking
 balita
