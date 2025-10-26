@@ -5587,7 +5587,6 @@ denotement
 drow
 disarranged
 deploying
-doorbrand
 determent
 doa
 dhai
@@ -11785,6 +11784,7 @@ dockman
 diplomacies
 disharmonise
 diplocaulescent
+doorbrand
 desidious
 dowf
 ditto
