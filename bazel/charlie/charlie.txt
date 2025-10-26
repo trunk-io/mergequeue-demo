@@ -5697,7 +5697,6 @@ categoric
 cartons
 chlamydobacteriaceous
 coliidae
-clavecin
 centric
 cremes
 cheyenne
@@ -19417,6 +19416,7 @@ cherubin
 cytioderma
 colorants
 colorate
+clavecin
 chouse
 cardiant
 calciphobe
