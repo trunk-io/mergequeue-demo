@@ -4764,7 +4764,6 @@ bushless
 bleakish
 bioelectronics
 bobsled
-boresight
 bedwarfing
 bulgaria
 benefaction
@@ -15850,6 +15849,7 @@ bestamp
 blackmailed
 breechblock
 brahminists
+boresight
 brownistical
 bestrewed
 benighting
