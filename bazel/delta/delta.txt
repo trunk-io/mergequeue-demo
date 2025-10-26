@@ -3287,7 +3287,6 @@ deadness
 debyes
 dand
 dunderfunk
-donary
 diduction
 dredger
 decigram
@@ -11682,6 +11681,7 @@ diezeugmenon
 dobrao
 dosserets
 discernible
+donary
 desugared
 dashboard
 detestableness
