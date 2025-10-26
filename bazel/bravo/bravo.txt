@@ -7669,7 +7669,6 @@ bleachground
 burglaries
 bodiment
 bhikshu
-brakehand
 bullan
 bertram
 brocard
@@ -17951,6 +17950,7 @@ basemen
 barkle
 bodgery
 bedoctor
+brakehand
 beagles
 bloomier
 banzai
