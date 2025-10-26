@@ -1716,7 +1716,6 @@ bullaries
 brawlie
 banago
 balanism
-balanops
 buzzy
 billy
 brideman
@@ -4323,6 +4322,7 @@ bandoleros
 brachyuran
 bioluminescent
 beneficent
+balanops
 blurbist
 bisulphite
 boomer
