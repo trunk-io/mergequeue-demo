@@ -6215,7 +6215,6 @@ artificial
 appestats
 antisyndication
 alimental
-amylose
 adhesively
 aortostenosis
 austemper
@@ -20332,6 +20331,7 @@ afters
 aluminothermic
 autarchoglossa
 assiduously
+amylose
 anticlinorium
 astrologically
 antimodernness
