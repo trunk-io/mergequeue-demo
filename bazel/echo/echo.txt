@@ -4151,7 +4151,6 @@ engleim
 ejectable
 ensue
 europeanization
-enumerability
 englishhood
 encycl
 electrotherapeutist
@@ -11701,6 +11700,7 @@ epicedial
 esmeraldan
 enumerating
 ergmeter
+enumerability
 epidermous
 extroverted
 eulogists
