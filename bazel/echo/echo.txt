@@ -5699,6 +5699,7 @@ extrameridian
 emolument
 elutions
 enrolls
+elasticities
 eccyesis
 embryonal
 enlisted
@@ -11853,7 +11854,6 @@ essancia
 evacue
 encina
 enfamish
-elasticities
 excommunicant
 enological
 excepts
