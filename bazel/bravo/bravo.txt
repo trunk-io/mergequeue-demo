@@ -3378,6 +3378,7 @@ bosuns
 barbered
 boho
 bowerwoman
+bivariant
 bailees
 beggarwoman
 beneplacito
@@ -6501,7 +6502,6 @@ beldame
 benchers
 bergamo
 beezers
-bivariant
 beflout
 bedstand
 bispore
