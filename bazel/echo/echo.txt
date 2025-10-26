@@ -5036,7 +5036,6 @@ eyr
 evades
 extendible
 endotys
-equianharmonic
 emeus
 emphases
 enterochlorophyll
@@ -13975,6 +13974,7 @@ exsuperate
 easefully
 edibility
 enchodus
+equianharmonic
 embossable
 etherifying
 encounters
