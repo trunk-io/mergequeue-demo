@@ -4623,7 +4623,6 @@ besped
 benumbed
 becarve
 bowstrung
-beeball
 burrower
 broadtail
 bluffed
@@ -4689,6 +4688,7 @@ beng
 bronzen
 benedicite
 biconnected
+beeball
 bambinos
 bikh
 bewidow
