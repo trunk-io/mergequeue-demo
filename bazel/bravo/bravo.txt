@@ -387,7 +387,6 @@ battleful
 belays
 beltie
 baga
-bathychrome
 barnyards
 brookites
 brasserie
@@ -8971,6 +8970,7 @@ bovate
 bayete
 bryophyte
 becurtained
+bathychrome
 barnabas
 bradyseismism
 bilbo
