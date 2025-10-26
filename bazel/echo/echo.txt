@@ -6444,7 +6444,6 @@ erian
 equilibrious
 evigilation
 endoblast
-exfiltration
 embruing
 euglenoidina
 extratorrid
@@ -13846,6 +13845,7 @@ elucidative
 equiarticulate
 epicly
 en
+exfiltration
 encarditis
 emplanement
 ergatocracy
