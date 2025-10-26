@@ -3072,7 +3072,6 @@ brevet
 bleakest
 branchway
 biophagy
-basepoint
 blam
 brazen
 butle
@@ -14735,6 +14734,7 @@ burrhel
 backstair
 backspin
 bawley
+basepoint
 brash
 buffe
 brashiest
