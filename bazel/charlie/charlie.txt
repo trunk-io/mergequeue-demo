@@ -2483,7 +2483,6 @@ camize
 candlewright
 candling
 carangid
-cephalodiscus
 cording
 charley
 chewie
@@ -27038,6 +27037,7 @@ coshery
 contraindicative
 cudava
 choppers
+cephalodiscus
 chilopod
 choux
 coloniser
