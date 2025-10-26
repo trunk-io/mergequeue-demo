@@ -198,6 +198,7 @@ decipherer
 diel
 desmohemoblast
 dakoity
+dacryolith
 deed
 decontamination
 daemony
@@ -12597,7 +12598,6 @@ dormy
 dazzlers
 dracocephalum
 disinflationary
-dacryolith
 debarbarization
 divot
 dec
