@@ -14972,7 +14972,6 @@ convergences
 cannonball
 cytotactic
 chare
-cytotaxis
 conestoga
 chalukya
 cycadlike
@@ -27763,6 +27762,7 @@ caterwauled
 covillager
 censes
 cordial
+cytotaxis
 carapus
 covinous
 cathodes
