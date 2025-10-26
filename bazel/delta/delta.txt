@@ -6877,7 +6877,6 @@ daimios
 dirtboard
 diselectrify
 decarchy
-deirid
 dockyard
 dragsmen
 datatype
@@ -7231,6 +7230,7 @@ debussyanize
 debouchment
 dipleura
 despiting
+deirid
 decennaries
 dentalmen
 dispensate
