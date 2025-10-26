@@ -4521,7 +4521,6 @@ abbreviators
 akinesic
 almury
 adaptorial
-alterant
 assoils
 alliterational
 alignments
@@ -11355,6 +11354,7 @@ archdefender
 antiusurious
 antipasti
 alpiniaceae
+alterant
 acclaimer
 azophenine
 anacamptometer
