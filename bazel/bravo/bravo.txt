@@ -8233,7 +8233,6 @@ beclouded
 briefer
 bathorse
 bjorne
-biohazard
 bursar
 bawler
 bandeaux
@@ -17265,6 +17264,7 @@ barrels
 berretta
 bidding
 bateman
+biohazard
 battledore
 bellicosely
 bugala
