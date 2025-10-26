@@ -7568,6 +7568,7 @@ bsh
 bathymetrically
 baobabs
 bewizard
+bakeout
 beknight
 benzofuroquinoxaline
 barracks
@@ -12952,7 +12953,6 @@ bookishly
 balloonfishes
 bradyseismic
 burdenable
-bakeout
 bruin
 battuto
 birefringent
