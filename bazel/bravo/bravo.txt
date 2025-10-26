@@ -2777,6 +2777,7 @@ bionomical
 ban
 bld
 bubbleless
+beaverite
 book
 ballgowns
 boundness
@@ -11365,7 +11366,6 @@ balbriggan
 bind
 bengaline
 bestialising
-beaverite
 blaze
 bludge
 brideknot
