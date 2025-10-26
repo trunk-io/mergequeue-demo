@@ -6886,6 +6886,7 @@ cementatory
 curvirostres
 compatibles
 charros
+curbed
 chevalier
 claires
 clr
@@ -11368,7 +11369,6 @@ checkroom
 coneine
 coopted
 condenseries
-curbed
 convulsible
 coenotypic
 cruche
