@@ -25548,7 +25548,6 @@ coccagee
 cogweel
 carfloat
 cajaputs
-cloth
 cupule
 cabernet
 cornhusking
@@ -30895,6 +30894,7 @@ cepa
 corvorant
 copaljocote
 cardinalitial
+cloth
 caroid
 corroboreeing
 carport
