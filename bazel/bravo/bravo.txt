@@ -14061,7 +14061,6 @@ bolometrically
 bandog
 buckplate
 bcd
-bonesetter
 bismuthic
 balustrade
 bastardized
@@ -18416,6 +18415,7 @@ bepaint
 bituminise
 becumber
 bridgetin
+bonesetter
 bustic
 blepharitis
 buzz
