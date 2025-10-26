@@ -1579,6 +1579,7 @@ electre
 episodic
 exhibitive
 empathize
+expositions
 encephalic
 excoriable
 epigonous
@@ -8506,7 +8507,6 @@ equipages
 extent
 extrinsicality
 epistylis
-expositions
 endogenic
 equiparation
 electrophoresis
