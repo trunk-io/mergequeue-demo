@@ -7084,6 +7084,7 @@ estocs
 entailer
 epidiascopic
 eng
+evelong
 exonerate
 epoptic
 earthshine
@@ -13272,7 +13273,6 @@ emigrated
 emendicate
 ethylating
 encauma
-evelong
 electrify
 equibalanced
 exorbitance
