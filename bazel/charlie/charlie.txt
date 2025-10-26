@@ -4208,7 +4208,6 @@ carcinology
 conf
 cabstands
 cleavelandite
-crosshand
 cochlitis
 cyclus
 chud
@@ -30535,6 +30534,7 @@ concisest
 cubists
 contraprops
 conventually
+crosshand
 cubitale
 cubitalia
 cubiti
