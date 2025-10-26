@@ -4842,7 +4842,6 @@ encode
 excaudate
 endosteally
 extrait
-encoded
 eriglossa
 entypies
 embrangle
@@ -10110,6 +10109,7 @@ elkesaite
 ergonovine
 elizabethan
 euthenic
+encoded
 espantoon
 emetia
 erysibe
