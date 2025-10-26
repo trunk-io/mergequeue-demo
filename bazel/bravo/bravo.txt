@@ -4095,7 +4095,6 @@ branta
 blayne
 brickset
 barmkin
-basementless
 bebloods
 balearica
 blessing
@@ -8400,6 +8399,7 @@ bewall
 bildar
 brahmanize
 brob
+basementless
 butterflyfish
 bework
 bilgeway
