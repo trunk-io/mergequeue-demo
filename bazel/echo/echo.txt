@@ -4416,7 +4416,6 @@ enchylema
 echards
 elenchical
 earthmaking
-edifices
 estampede
 exalts
 espials
@@ -7218,6 +7217,7 @@ etherealize
 exterminators
 eimeria
 electrometer
+edifices
 ejuration
 entach
 elaeometer
