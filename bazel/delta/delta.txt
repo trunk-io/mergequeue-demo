@@ -11777,7 +11777,6 @@ deferrize
 diaconicon
 duosecant
 diluvium
-discoverable
 dracontic
 dared
 dorsalis
@@ -13342,6 +13341,7 @@ doryphoros
 decalcification
 dermatoheteroplasty
 disputableness
+discoverable
 diplotaxis
 disgallant
 disoccupation
