@@ -2807,7 +2807,6 @@ bihalve
 bordereaux
 barouni
 bogeyed
-ballaton
 beguilements
 battues
 boundary
@@ -10834,6 +10833,7 @@ birthrate
 baguet
 biacromial
 bacillary
+ballaton
 braunite
 bombardon
 bandstands
