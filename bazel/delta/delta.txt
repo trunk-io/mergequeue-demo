@@ -6380,7 +6380,6 @@ dt
 duellist
 dil
 deathsmen
-drossy
 dial
 distensibilities
 dinkier
@@ -8567,6 +8566,7 @@ dangerful
 defervesce
 dichotomise
 dialysis
+drossy
 disseminates
 dogface
 davy
