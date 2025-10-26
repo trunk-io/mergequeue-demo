@@ -5549,7 +5549,6 @@ cynosarges
 cyclostomata
 catarrhs
 catasetum
-chested
 ching
 camases
 chalkotheke
@@ -5605,6 +5604,7 @@ catched
 curvation
 catcher
 coccidioides
+chested
 cleam
 concretions
 cachinnator
