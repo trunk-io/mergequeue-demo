@@ -6504,6 +6504,7 @@ benchers
 bergamo
 beezers
 beflout
+buttals
 bedstand
 bispore
 bassetta
@@ -10908,7 +10909,6 @@ bedunced
 batonga
 boxball
 bombesins
-buttals
 ba
 benumbingly
 bonang
