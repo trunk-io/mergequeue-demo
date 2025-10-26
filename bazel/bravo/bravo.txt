@@ -5138,6 +5138,7 @@ bandaged
 bracken
 balmacaan
 ballota
+blurbs
 breviature
 bedwarfs
 beggaries
@@ -10295,7 +10296,6 @@ ballistae
 bourbonian
 bromination
 bayonets
-blurbs
 beanweed
 blennuria
 besmuts
