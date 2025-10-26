@@ -2818,6 +2818,7 @@ colourableness
 celling
 counterseal
 centinormal
+colocates
 concaulescence
 chalice
 currawong
@@ -3424,7 +3425,6 @@ coprocessors
 charadriiform
 cmd
 carabaos
-colocates
 carabidae
 carrack
 cotinga
