@@ -3848,6 +3848,7 @@ curaris
 co
 cyclicality
 coherers
+cobias
 carcinolysin
 caponniere
 cycadiform
@@ -9346,7 +9347,6 @@ collocations
 chaute
 carrotage
 circumradius
-cobias
 ceramic
 cartograph
 chauvin
