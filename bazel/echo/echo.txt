@@ -7800,7 +7800,6 @@ epimeron
 extrapolation
 extol
 eversion
-electrography
 endamage
 epineuneuria
 epigraphs
@@ -12255,6 +12254,7 @@ entomophaga
 eventide
 episomes
 externally
+electrography
 exhilarative
 embound
 erasable
