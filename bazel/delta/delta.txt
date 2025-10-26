@@ -6349,7 +6349,6 @@ doubleword
 dauntingness
 dekameter
 defeminise
-damndests
 dorsointestinal
 dullsome
 delphinid
@@ -8748,6 +8747,7 @@ dimercury
 dynameter
 diamonds
 dived
+damndests
 divergement
 diaconal
 duellos
