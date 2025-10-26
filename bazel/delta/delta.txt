@@ -3740,7 +3740,6 @@ dragonroot
 diomedea
 dipsos
 displat
-duplicident
 dicoumarol
 didact
 dressage
@@ -16852,6 +16851,7 @@ dantomania
 dineutron
 defamy
 dowerless
+duplicident
 dolls
 dressmaking
 demagnification
