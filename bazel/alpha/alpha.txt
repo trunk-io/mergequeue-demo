@@ -2819,7 +2819,6 @@ argentry
 augusta
 azotes
 antidogmatic
-antiheroism
 adjutorious
 actless
 abondance
@@ -17215,6 +17214,7 @@ admissibleness
 anaerobiotically
 arow
 ammophilous
+antiheroism
 aldimine
 apogaeic
 azoisobutyronitrile
