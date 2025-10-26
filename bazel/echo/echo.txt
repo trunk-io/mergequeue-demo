@@ -6870,7 +6870,6 @@ entrances
 epigon
 exam
 etatisme
-exoculate
 eburnated
 excessman
 emission
@@ -8458,6 +8457,7 @@ espece
 enfranchisable
 epizootiology
 embryoid
+exoculate
 endophytal
 edgebone
 existentialist
