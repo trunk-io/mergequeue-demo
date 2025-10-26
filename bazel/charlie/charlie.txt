@@ -18400,7 +18400,6 @@ changeling
 chelidonian
 castelli
 cognoscitive
-cognovit
 caniniform
 craftier
 companionably
@@ -29256,6 +29255,7 @@ corpulences
 coaming
 cyclospermous
 cryotron
+cognovit
 ceilers
 cicerone
 candlewaster
