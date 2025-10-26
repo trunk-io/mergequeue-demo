@@ -5071,7 +5071,6 @@ adhesives
 amarillos
 affectivity
 affectum
-ankerite
 antipersonnel
 administrant
 ampulated
@@ -14141,6 +14140,7 @@ acrawl
 ante
 anteambulate
 anecdotage
+ankerite
 alphatoluic
 albright
 advertized
