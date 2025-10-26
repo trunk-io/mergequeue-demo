@@ -2828,6 +2828,7 @@ banger
 beflagged
 boomy
 bolsterwork
+bathymetry
 bodybuilders
 bowle
 beprank
@@ -5376,7 +5377,6 @@ baryton
 boater
 bilocular
 bobsledded
-bathymetry
 broomballer
 blenniiform
 bandoline
