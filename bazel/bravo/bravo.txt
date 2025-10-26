@@ -13546,6 +13546,7 @@ boozes
 blacksmiths
 bullhorn
 bubas
+brachiopod
 becomes
 breaded
 bookshelves
@@ -17159,7 +17160,6 @@ benzoylformic
 boba
 bodonid
 baromacrometer
-brachiopod
 bailiffwick
 blazonry
 boggin
