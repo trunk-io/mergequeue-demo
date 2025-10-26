@@ -4638,6 +4638,7 @@ bedpans
 besped
 benumbed
 becarve
+bowstrung
 beeball
 burrower
 broadtail
@@ -9634,7 +9635,6 @@ badaxe
 babbittess
 behindhand
 biosynthetically
-bowstrung
 bitubercular
 biquadrantal
 backflap
