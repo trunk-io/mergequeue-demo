@@ -7668,7 +7668,6 @@ catholiciser
 cottiers
 corambis
 chloroplatinite
-cermet
 clavis
 convival
 ciceros
@@ -17746,6 +17745,7 @@ cibarium
 croton
 chasing
 cows
+cermet
 cocoas
 commemoratory
 cocobolos
