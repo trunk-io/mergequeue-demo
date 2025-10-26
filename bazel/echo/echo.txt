@@ -1093,6 +1093,7 @@ edaphosaurid
 escobadura
 echelle
 enshrouding
+empoisoning
 epitrite
 encarpus
 edwin
@@ -9568,7 +9569,6 @@ estaminet
 elliptically
 emittance
 enthral
-empoisoning
 ellagitannin
 engluts
 exomphalus
