@@ -3280,6 +3280,7 @@ balas
 billette
 barken
 batholite
+bonewort
 bushelfuls
 bemuzzling
 bald
@@ -4100,7 +4101,6 @@ bebloods
 balearica
 blessing
 bullshots
-bonewort
 ballonnes
 baroscope
 backwood
