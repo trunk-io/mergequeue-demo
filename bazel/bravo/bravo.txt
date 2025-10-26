@@ -4859,6 +4859,7 @@ bonesets
 blackland
 bartend
 bugs
+brachiopode
 biogenesis
 belait
 beers
@@ -9211,7 +9212,6 @@ bolshevize
 berbamine
 bipedality
 beguile
-brachiopode
 baiginet
 berycine
 bipeltate
