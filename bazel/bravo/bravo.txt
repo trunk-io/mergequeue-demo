@@ -6212,7 +6212,6 @@ boxty
 bellyfish
 bahuma
 browntop
-barytones
 burgher
 bescoured
 begums
@@ -17013,6 +17012,7 @@ bhil
 blasphemer
 blepharotomy
 buddhic
+barytones
 brainpans
 broomroot
 brideship
