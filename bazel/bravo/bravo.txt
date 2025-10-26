@@ -8024,6 +8024,7 @@ beliefs
 boathouses
 blastodisk
 bidree
+brands
 batwoman
 buffet
 biplace
@@ -12597,7 +12598,6 @@ begrudging
 backups
 balada
 blizzardy
-brands
 bedye
 baronetage
 bagpiping
