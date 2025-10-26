@@ -1472,7 +1472,6 @@ biosphere
 bearer
 balli
 brassworks
-bugeye
 bedizenment
 braziers
 batholitic
@@ -4020,6 +4019,7 @@ bibasic
 bicycled
 bowyang
 babbitt
+bugeye
 bluchers
 bristlier
 bilgier
