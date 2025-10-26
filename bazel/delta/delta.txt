@@ -5382,7 +5382,6 @@ dispoint
 defat
 diatomaceoid
 delectate
-dialyze
 detinue
 draffish
 duodenogram
@@ -14313,6 +14312,7 @@ disembark
 dexterity
 diswarren
 darren
+dialyze
 deils
 digger
 directorships
