@@ -13186,7 +13186,6 @@ dispeople
 deprivative
 declivities
 datives
-demersed
 detractory
 dichloramine
 dusack
@@ -15008,6 +15007,7 @@ directoral
 deodand
 defogs
 dogears
+demersed
 dihexahedral
 disobediently
 disownable
