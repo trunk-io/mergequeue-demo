@@ -8021,6 +8021,7 @@ exemplifiers
 ethnicity
 evangelium
 excalate
+editchar
 exolution
 earscrew
 encephalothlipsis
@@ -11354,7 +11355,6 @@ exaction
 evangeline
 epitomical
 ephebeum
-editchar
 emundation
 epigenetic
 emancipatress
