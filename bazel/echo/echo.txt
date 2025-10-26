@@ -1953,7 +1953,6 @@ earthstar
 echini
 engrid
 escalators
-ectopia
 estimated
 exauthorizeexc
 exsheath
@@ -11484,6 +11483,7 @@ equiprobability
 empaler
 enform
 experimenting
+ectopia
 expurge
 egyptianization
 etape
