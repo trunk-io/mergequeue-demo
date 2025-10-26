@@ -9188,7 +9188,6 @@ condition
 cruciality
 chassepots
 cymagraph
-chalcotrichite
 chiarooscurist
 clinometric
 chapeling
@@ -19483,6 +19482,7 @@ cystous
 crouche
 charge
 cadded
+chalcotrichite
 canikins
 comer
 cheaping
