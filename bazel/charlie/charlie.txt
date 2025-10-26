@@ -6087,7 +6087,6 @@ cafenet
 camoodi
 canvasado
 cruxes
-cont
 cowherd
 cattlefold
 chatellany
@@ -25344,6 +25343,7 @@ crushed
 corinthes
 costlessness
 calchas
+cont
 cinerama
 copis
 corinthianize
