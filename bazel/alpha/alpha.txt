@@ -5089,7 +5089,6 @@ affies
 abase
 alphitomancy
 affiliating
-apery
 anglophiliac
 acrosporous
 allineate
@@ -18598,6 +18597,7 @@ afro
 arbour
 astr
 arboured
+apery
 appends
 authoritatively
 apprehension
