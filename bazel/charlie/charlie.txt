@@ -19870,7 +19870,6 @@ coupling
 coagulate
 canopied
 cankerworms
-cannibal
 chronometer
 codrus
 coit
@@ -30601,6 +30600,7 @@ cucujus
 coldblood
 calfkill
 chamberwoman
+cannibal
 collimating
 callityped
 cushioned
