@@ -5415,7 +5415,6 @@ daters
 deionized
 descanting
 decentre
-deconsider
 derived
 delphocurarine
 deifier
@@ -10787,6 +10786,7 @@ dasya
 drawfile
 demisangue
 difformity
+deconsider
 domoid
 dwarf
 diplonts
