@@ -3089,7 +3089,6 @@ dromons
 daunton
 displanted
 degenerated
-dependently
 disintegrations
 desiderata
 depotentiation
@@ -11507,6 +11506,7 @@ debug
 doeling
 decentred
 dicaryophase
+dependently
 decarbonized
 drumbeat
 dottard
