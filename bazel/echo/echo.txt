@@ -1387,7 +1387,6 @@ emissaria
 escars
 electrocutes
 excrementitial
-extracalendar
 enslaver
 experted
 espingole
@@ -10933,6 +10932,7 @@ eprise
 electropuncture
 emittent
 embarcadero
+extracalendar
 epipelagic
 endotoxoid
 erector
