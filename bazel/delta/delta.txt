@@ -3486,6 +3486,7 @@ deflections
 defines
 deaccessions
 delete
+deperition
 danes
 dorsosternal
 deerherd
@@ -9479,7 +9480,6 @@ depredatory
 derelict
 dilacerating
 dismettled
-deperition
 dismerit
 drosophilidae
 deadhand
