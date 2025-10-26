@@ -1862,7 +1862,6 @@ boardmen
 brigands
 bepraisement
 beseechment
-beerishly
 bocaccios
 benefice
 balances
@@ -6653,6 +6652,7 @@ biddie
 blowen
 brunets
 bayamos
+beerishly
 blunk
 burrbark
 browns
