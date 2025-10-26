@@ -5363,7 +5363,6 @@ catabolite
 checkbits
 catabolized
 camphols
-cypris
 cardboard
 cosin
 counterwrite
@@ -14862,6 +14861,7 @@ coziest
 covin
 campoo
 correspond
+cypris
 compesce
 colins
 carbon
