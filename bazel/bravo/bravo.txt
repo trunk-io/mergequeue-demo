@@ -8332,6 +8332,7 @@ becost
 bilberry
 buyouts
 bannerfish
+bardier
 blanch
 biblicist
 bemask
@@ -14868,7 +14869,6 @@ bockeret
 biostatistics
 bonnetmen
 bartends
-bardier
 bundlerooted
 bowdlerizes
 bravi
