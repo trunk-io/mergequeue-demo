@@ -1370,6 +1370,7 @@ burleycue
 bournes
 biliment
 biosis
+beacon
 bundahish
 brayers
 broiler
@@ -8273,7 +8274,6 @@ bootjacks
 benson
 bromins
 billheads
-beacon
 bioelectrogenesis
 bedriddenness
 beautydom
