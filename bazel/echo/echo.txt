@@ -4254,7 +4254,6 @@ edifice
 eutaenia
 enthronements
 epitheton
-experimentation
 egyptology
 evolutions
 equaling
@@ -12608,6 +12607,7 @@ ectally
 eavesdropper
 electrotherapy
 embira
+experimentation
 eneuch
 electrovalence
 enticingness
