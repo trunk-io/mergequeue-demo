@@ -3051,7 +3051,6 @@ basihyal
 bulletined
 betrayals
 betrumpet
-bkgd
 basenji
 blackgum
 brevet
@@ -6320,6 +6319,7 @@ borstal
 benight
 bizcacha
 bolection
+bkgd
 benzoxyacetic
 blanchers
 bogmire
