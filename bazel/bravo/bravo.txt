@@ -2383,6 +2383,7 @@ balant
 bawdrics
 breechesflower
 bynames
+bonuses
 betoss
 businesses
 bimillennium
@@ -12667,7 +12668,6 @@ blouson
 boreable
 bartram
 basaltine
-bonuses
 bumpsy
 bachelorwise
 blindless
