@@ -6148,6 +6148,7 @@ epalpate
 ecaudata
 exfoliated
 experienceable
+eluents
 energetistic
 escadrilles
 equiparant
@@ -8620,7 +8621,6 @@ eurytopic
 ephemerides
 enfeebler
 eluate
-eluents
 emailed
 enumerably
 epithetic
