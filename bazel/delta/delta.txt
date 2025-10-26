@@ -4633,7 +4633,6 @@ descender
 dungyard
 dullsville
 doorways
-dermatotome
 diwans
 dah
 dustyfoot
@@ -12246,6 +12245,7 @@ dingo
 delightfully
 donatories
 diethylamide
+dermatotome
 derail
 drawfiling
 diastataxic
