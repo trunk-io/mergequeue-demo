@@ -850,6 +850,7 @@ disamis
 determinantal
 downslide
 dovecot
+dorsoanterior
 denticule
 dashpots
 dewitt
@@ -7613,7 +7614,6 @@ daunt
 defectionist
 despectant
 deckel
-dorsoanterior
 designee
 declaimed
 dominators
