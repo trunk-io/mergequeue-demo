@@ -1385,7 +1385,6 @@ broiler
 budger
 bugler
 boroughmaster
-bandwork
 bathrooms
 balinghasay
 braces
@@ -13896,6 +13895,7 @@ beefsteaks
 beeches
 busbar
 biggishness
+bandwork
 bullgine
 biocoenoses
 behaviourist
