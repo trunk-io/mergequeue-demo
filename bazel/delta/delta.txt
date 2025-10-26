@@ -5237,7 +5237,6 @@ dolldom
 decastyle
 drawtubes
 defuzing
-digestibleness
 diphtheroid
 deathling
 dodecylene
@@ -9521,6 +9520,7 @@ depressomotor
 distomian
 desmorrhexis
 dieses
+digestibleness
 dodecamerous
 donatress
 diestrums
