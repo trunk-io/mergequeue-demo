@@ -389,7 +389,6 @@ assayers
 aberrants
 aloha
 anemotaxis
-antimonid
 ambrein
 alpines
 arsenide
@@ -19630,6 +19629,7 @@ acetonyl
 accipitrine
 askapart
 antimeric
+antimonid
 attuning
 ambiparous
 affenspalte
