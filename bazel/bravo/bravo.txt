@@ -7092,7 +7092,6 @@ beast
 bows
 boghole
 bennies
-bouquetin
 bustles
 botching
 botanomancy
@@ -10161,6 +10160,7 @@ binning
 bachel
 backslidingness
 bloodings
+bouquetin
 blarneying
 beefish
 bilixanthin
