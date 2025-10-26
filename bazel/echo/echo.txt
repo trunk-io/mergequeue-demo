@@ -9050,7 +9050,6 @@ endoradiosonde
 epitheca
 encl
 episcia
-epididymovasostomy
 elaterite
 epithermal
 exheredate
@@ -9347,6 +9346,7 @@ euryalean
 electrohemostasis
 euryalidan
 endoappendicitis
+epididymovasostomy
 epitheliums
 extrapolate
 erlking
