@@ -3467,7 +3467,6 @@ brahman
 broomcorn
 barkentine
 beswarms
-bromellite
 bathkol
 bathmat
 bonity
@@ -16768,6 +16767,7 @@ baselevel
 brilliantly
 bellhop
 bulbous
+bromellite
 botrychium
 bawdstrot
 bagpipe
