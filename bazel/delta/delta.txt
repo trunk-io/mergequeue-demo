@@ -13681,6 +13681,7 @@ dopant
 def
 disman
 diabases
+donum
 dorize
 diseasedness
 disavaunce
@@ -15616,7 +15617,6 @@ diversiform
 donovan
 debeaker
 dispersoidology
-donum
 distich
 digitally
 depauperize
