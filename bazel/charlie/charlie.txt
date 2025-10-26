@@ -11074,7 +11074,6 @@ compends
 chitinoid
 cist
 converging
-chitins
 chitling
 candours
 carloads
@@ -14322,6 +14321,7 @@ convexed
 circumplicate
 circumplication
 clavierist
+chitins
 circumpose
 carbethoxyl
 condite

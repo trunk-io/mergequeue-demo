@@ -4836,7 +4836,6 @@ bonesets
 blackland
 bartend
 bugs
-barlafumble
 biogenesis
 belait
 beers
@@ -11416,6 +11415,7 @@ bywalking
 biciliated
 bakhtiari
 britzka
+barlafumble
 borboridae
 bingies
 basoko
