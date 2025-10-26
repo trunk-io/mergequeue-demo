@@ -6691,7 +6691,6 @@ aerials
 anthdia
 accredits
 acropolis
-ambar
 antidecalogue
 antiegotist
 alluvials
@@ -24661,6 +24660,7 @@ alders
 adiphenine
 algometer
 amygdalus
+ambar
 abater
 aulu
 auxilytic
