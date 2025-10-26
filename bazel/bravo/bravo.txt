@@ -777,6 +777,7 @@ blips
 blake
 bourdis
 blowse
+briefing
 backbone
 biunique
 bacalao
@@ -3470,7 +3471,6 @@ bathool
 blindest
 bathophobia
 blennenteritis
-briefing
 bedroom
 brachypyramid
 biofog
