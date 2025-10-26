@@ -6103,7 +6103,6 @@ baldoquin
 beldam
 benitier
 binzuru
-batches
 bucorvus
 breakback
 bedpad
@@ -7601,6 +7600,7 @@ badgerweed
 bemeaned
 borer
 blankbook
+batches
 borne
 brazenness
 brakiest
