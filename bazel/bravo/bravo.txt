@@ -1239,6 +1239,7 @@ bombed
 beadle
 bittocks
 burgomaster
+barrace
 blathers
 basses
 butlerdom
@@ -3615,7 +3616,6 @@ bootless
 bookstore
 bargains
 basocyte
-barrace
 boffos
 boffolas
 blushiness
