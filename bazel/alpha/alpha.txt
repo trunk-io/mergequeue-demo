@@ -1123,7 +1123,6 @@ anisodactyle
 antimask
 antechoirs
 autotypes
-amorphic
 absorbability
 actinian
 amoret
@@ -17657,6 +17656,7 @@ altitude
 athort
 assyriology
 aerostatics
+amorphic
 appendicocaecostomy
 antecedent
 accommodation
