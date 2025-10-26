@@ -9231,7 +9231,6 @@ chastiser
 clapperboard
 cheering
 crepine
-chockstone
 cooper
 correctible
 cheerios
@@ -19558,6 +19557,7 @@ certhia
 cytocide
 castigative
 colpitises
+chockstone
 colpohyperplasia
 colpoperineoplasty
 combinant
