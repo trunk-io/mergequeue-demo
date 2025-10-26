@@ -4858,6 +4858,7 @@ bioenergetics
 bitsy
 basenesses
 bullberry
+beswarm
 barbequed
 bunder
 bonesets
@@ -8597,7 +8598,6 @@ brimstony
 basins
 biloculina
 bannerer
-beswarm
 bursaries
 bidiurnal
 brinkless
