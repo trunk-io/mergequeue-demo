@@ -4053,7 +4053,6 @@ cardioncus
 cardionecrosis
 cardioneurosis
 cardiophrenia
-copiability
 ciceronianists
 chloanthite
 conflicts
@@ -22207,6 +22206,7 @@ chassis
 crosstalk
 cataclasmic
 conformationally
+copiability
 conformations
 chrysis
 canoe
