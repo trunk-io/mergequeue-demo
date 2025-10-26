@@ -8477,7 +8477,6 @@ deglutitory
 disruptable
 deciliter
 dopy
-diacritic
 devastated
 disshiver
 dendrophagous
@@ -15318,6 +15317,7 @@ downfield
 drawoff
 draughthouse
 dealbuminize
+diacritic
 detain
 diplomats
 disquisitive
