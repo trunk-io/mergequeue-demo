@@ -1227,7 +1227,6 @@ bawdyhouses
 broderie
 bassarid
 bimastic
-bombed
 beadle
 bittocks
 burgomaster
@@ -5880,6 +5879,7 @@ bartended
 beme
 ballised
 bimillennia
+bombed
 bonitas
 bucconasal
 blackbirding
