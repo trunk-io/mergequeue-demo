@@ -8930,7 +8930,6 @@ coeff
 crenelet
 crutches
 courses
-colourize
 cirrate
 collop
 chared
@@ -27441,6 +27440,7 @@ calorizes
 currentwise
 cicada
 chinchy
+colourize
 counterwitness
 ceboids
 counterworker
