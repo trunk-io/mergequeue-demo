@@ -11763,7 +11763,6 @@ blacksmith
 bifacial
 bosporan
 binmen
-basanite
 bumbershoot
 barbarization
 bigarreau
@@ -15391,6 +15390,7 @@ beghard
 boutre
 bridge
 bap
+basanite
 beaverkill
 bram
 budtime
