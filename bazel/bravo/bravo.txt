@@ -4659,6 +4659,7 @@ babite
 bollox
 brandywine
 breechloading
+borg
 bussu
 bemirrorment
 birthbed
@@ -9824,7 +9825,6 @@ basiating
 bystreet
 bursectomy
 boughed
-borg
 bioinstrumentation
 blackballer
 banker
