@@ -12235,7 +12235,6 @@ beaut
 borsholder
 bloodying
 bellhanger
-boatable
 besit
 bedsite
 bacteroid
@@ -18388,6 +18387,7 @@ bibbery
 bepelt
 brachycera
 buxbaumiaceae
+boatable
 billitonite
 bisecting
 benzothiopyran
