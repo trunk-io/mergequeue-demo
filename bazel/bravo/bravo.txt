@@ -3922,6 +3922,7 @@ brokerages
 bonilass
 bookmonger
 blackfishes
+bondslave
 bentgrass
 baptisin
 becloaks
@@ -12490,7 +12491,6 @@ bivalent
 bivaulted
 bungfu
 bhang
-bondslave
 boulework
 bipartition
 bonify
