@@ -3549,6 +3549,7 @@ damaging
 diminishable
 digitising
 decrease
+disjointness
 dumontia
 duramater
 defuze
@@ -15361,7 +15362,6 @@ doand
 dolphinfish
 diadkokinesia
 direction
-disjointness
 disinterestedly
 dolphins
 dirhem
