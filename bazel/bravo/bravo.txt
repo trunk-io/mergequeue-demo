@@ -2808,7 +2808,6 @@ bristlelike
 bihalve
 bordereaux
 barouni
-bogeyed
 beguilements
 battues
 boundary
@@ -13346,6 +13345,7 @@ bowge
 blennies
 blindball
 bihourly
+bogeyed
 boregat
 betoil
 barbes
