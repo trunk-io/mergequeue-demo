@@ -9194,6 +9194,7 @@ defeatists
 dun
 detache
 dispossession
+deadhouse
 disregardable
 detecter
 decurrency
@@ -17262,7 +17263,6 @@ drafts
 doug
 divellent
 distinguishably
-deadhouse
 defension
 drollishness
 donees
