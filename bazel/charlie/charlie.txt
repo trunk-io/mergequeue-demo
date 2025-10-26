@@ -11695,7 +11695,6 @@ clairsentient
 crossable
 cryogen
 crimpy
-capsular
 chollas
 claries
 cholo
@@ -27838,6 +27837,7 @@ coordinately
 cascaras
 cowl
 cowleeching
+capsular
 cuppy
 couhage
 centesimation
