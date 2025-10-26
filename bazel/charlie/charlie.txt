@@ -3735,6 +3735,7 @@ cluck
 campshot
 cenanthous
 clownship
+compensation
 charmfulness
 carbonization
 carbonized
@@ -24402,7 +24403,6 @@ chaqueta
 cryosel
 cashew
 convulsions
-compensation
 columnization
 cosmocratic
 conative
