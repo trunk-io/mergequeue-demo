@@ -12780,7 +12780,6 @@ chumship
 corporealness
 cursillo
 chumships
-clinkstone
 coleworts
 clonism
 coinhering
@@ -14439,6 +14438,7 @@ cronet
 crosstoes
 conditionate
 cardiopuncture
+clinkstone
 campanella
 cananaean
 centerpiece
