@@ -2065,7 +2065,6 @@ chromogram
 citharas
 callat
 cheewink
-chemoreceptor
 cheekpiece
 corridas
 conservators
@@ -9071,6 +9070,7 @@ crowstep
 coleophora
 crystalline
 chronocrator
+chemoreceptor
 cryptologic
 cryptesthesia
 charoses
