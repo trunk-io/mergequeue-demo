@@ -4207,7 +4207,6 @@ emulsifiers
 erases
 electrodispersive
 eryngoes
-endoconidium
 embryogony
 elaeoptene
 eighths
@@ -9089,6 +9088,7 @@ epicarp
 epoxide
 existentially
 ergotization
+endoconidium
 excusers
 elegits
 extraperitoneal
