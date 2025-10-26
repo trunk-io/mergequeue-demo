@@ -12255,6 +12255,7 @@ emotes
 everblooming
 elne
 emissarium
+equisetums
 expressways
 emphasizes
 engelmanni
@@ -13573,7 +13574,6 @@ eyepieces
 engorging
 enstatolite
 expectorant
-equisetums
 electrooptical
 electrochronographic
 enambush
