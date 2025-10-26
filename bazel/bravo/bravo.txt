@@ -782,6 +782,7 @@ boxers
 bantering
 blips
 blake
+bandwidth
 bourdis
 blowse
 briefing
@@ -5597,7 +5598,6 @@ bellacoola
 brecht
 bedaff
 bungler
-bandwidth
 biliation
 blanching
 bebrush
