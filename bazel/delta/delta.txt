@@ -5801,7 +5801,6 @@ diseurs
 disoccupy
 decd
 digenic
-deflection
 domify
 darbies
 dernly
@@ -11505,6 +11504,7 @@ distinctness
 debug
 doeling
 decentred
+deflection
 dicaryophase
 dependently
 decarbonized
