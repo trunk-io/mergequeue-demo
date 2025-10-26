@@ -5412,6 +5412,7 @@ beja
 broadloom
 burghemot
 buckhound
+buzzle
 bloodwit
 beglerbey
 brawly
@@ -17782,7 +17783,6 @@ brumaire
 botanizes
 boxmaker
 bpi
-buzzle
 backfilling
 budlike
 boweled
