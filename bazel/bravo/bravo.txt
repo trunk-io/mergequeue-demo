@@ -3265,7 +3265,6 @@ boules
 basophilic
 brinks
 basiphobia
-beworms
 befilth
 bankerdom
 bariatrics
@@ -8586,6 +8585,7 @@ bobet
 beachside
 basename
 burlap
+beworms
 ballcarrier
 bacaba
 backfold
