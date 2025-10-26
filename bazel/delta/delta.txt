@@ -198,7 +198,6 @@ decipherer
 diel
 desmohemoblast
 dakoity
-deed
 decontamination
 daemony
 dikamalli
@@ -2587,6 +2586,7 @@ doomage
 decolors
 drowte
 dulse
+deed
 daric
 dibbling
 decolouration
