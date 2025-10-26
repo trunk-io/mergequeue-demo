@@ -4667,6 +4667,7 @@ bawsint
 benzodiazole
 bronzy
 babite
+bedstring
 bollox
 brandywine
 breechloading
@@ -9979,7 +9980,6 @@ branchage
 buntings
 balausta
 behusband
-bedstring
 blowby
 brook
 bowsprits
