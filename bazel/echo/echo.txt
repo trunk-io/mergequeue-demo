@@ -1504,6 +1504,7 @@ epenetic
 expirant
 extrusion
 elate
+encircled
 erythrasma
 escalin
 extendlessness
@@ -7854,7 +7855,6 @@ excalation
 electrobiology
 evermo
 enactive
-encircled
 echafaudage
 entertainingly
 euxanthate
