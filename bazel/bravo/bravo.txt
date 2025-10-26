@@ -13277,7 +13277,6 @@ backyarder
 battered
 bushwhacker
 blenny
-battlewise
 brakemaker
 bifer
 boskopoid
@@ -18020,6 +18019,7 @@ bridging
 butane
 basipterygial
 buffeter
+battlewise
 bussing
 bussock
 bringdown
