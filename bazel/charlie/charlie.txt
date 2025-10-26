@@ -8593,7 +8593,6 @@ chandlers
 carrion
 crier
 circumadjacent
-chandui
 campagna
 centiares
 ceraunoscope
@@ -9502,6 +9501,7 @@ comprehensor
 callityping
 communizing
 clamorous
+chandui
 capes
 checkbook
 caulis
