@@ -2996,6 +2996,7 @@ cape
 cohelper
 chequerboard
 capeadores
+cuttlebone
 coinclination
 capelan
 colonoscopy
@@ -11324,7 +11325,6 @@ contaminants
 chariots
 chloroamine
 counselled
-cuttlebone
 catawbas
 chlorobenzene
 centripetency
