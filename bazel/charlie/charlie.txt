@@ -8982,7 +8982,6 @@ coproduction
 chariest
 cephalochordata
 crewelwork
-curdle
 charing
 cortex
 chariot
@@ -28439,6 +28438,7 @@ combats
 clanned
 cole
 curtailment
+curdle
 claspers
 commoditable
 curators
