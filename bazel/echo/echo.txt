@@ -8205,6 +8205,7 @@ equipaga
 enterograph
 ecartes
 escoba
+edges
 epidotic
 eccentrically
 eardrum
@@ -14219,7 +14220,6 @@ elasticum
 esophagogastrostomy
 enhelm
 equalled
-edges
 epitomist
 endearance
 essentiate
