@@ -2719,7 +2719,6 @@ ebcdic
 ensnarling
 extravagation
 ersh
-enwallow
 ecthlipsis
 encroachments
 eophytic
@@ -9630,6 +9629,7 @@ exoticism
 eucharistized
 enchest
 epinaos
+enwallow
 endothermous
 evangelistaries
 encephalous
