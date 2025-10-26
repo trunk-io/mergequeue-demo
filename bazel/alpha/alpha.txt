@@ -14606,7 +14606,6 @@ armourbearer
 airbus
 aphototropic
 animalize
-aerodromes
 accessioning
 amphidiploid
 astrier
@@ -21006,6 +21005,7 @@ ans
 ascarids
 auricula
 ascellus
+aerodromes
 advertised
 abaissed
 ammonitiferous
