@@ -2972,6 +2972,7 @@ biostatistic
 bordereau
 bsf
 balsamodendron
+berendo
 bloodlike
 bartree
 buckleya
@@ -8695,7 +8696,6 @@ beguines
 barff
 bursary
 baulked
-berendo
 biuniquely
 bemixt
 bedquilt
