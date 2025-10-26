@@ -6730,6 +6730,7 @@ embryonic
 enjoys
 eats
 entitle
+exopterygote
 experimenter
 exploder
 entocarotid
@@ -10254,7 +10255,6 @@ expertise
 extraphysiological
 episome
 erses
-exopterygote
 edictally
 emotionalizing
 entomostracan
