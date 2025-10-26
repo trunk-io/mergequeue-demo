@@ -3826,7 +3826,6 @@ banksides
 beadeye
 brinjal
 boatly
-bathygraphic
 baalitical
 buttling
 bullalaria
@@ -11522,6 +11521,7 @@ borassus
 branchipodidae
 breadness
 byerlite
+bathygraphic
 beatitudes
 blah
 bestness
