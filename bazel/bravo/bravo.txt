@@ -3876,6 +3876,7 @@ branches
 bannerets
 bestraddled
 bassanite
+barways
 blindball
 beamman
 barrelled
@@ -11659,7 +11660,6 @@ burdock
 bodilessness
 boanerges
 bewigging
-barways
 billposter
 bedrapes
 breccial
