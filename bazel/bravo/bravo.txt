@@ -597,7 +597,6 @@ baconize
 boilersmith
 bidiagonal
 bulblet
-bedsore
 bloomage
 burbler
 baconweed
@@ -11914,6 +11913,7 @@ bodkins
 battening
 bethlehemite
 bailee
+bedsore
 barwise
 bloodshedder
 bellicosity
