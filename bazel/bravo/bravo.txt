@@ -9808,7 +9808,6 @@ balwarra
 beltcourse
 benj
 backrun
-buffeter
 bankbook
 balloen
 backswordman
@@ -18020,6 +18019,7 @@ bacis
 bridging
 butane
 basipterygial
+buffeter
 bussing
 bussock
 bringdown
