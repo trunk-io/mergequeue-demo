@@ -4274,7 +4274,6 @@ bolt
 behemothic
 bulkiness
 batfowl
-biosynthesize
 beclogs
 baffy
 bigamously
@@ -9238,6 +9237,7 @@ batussi
 barretors
 bayong
 boatbuilder
+biosynthesize
 bukh
 buccan
 brashy
