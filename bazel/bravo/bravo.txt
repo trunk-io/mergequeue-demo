@@ -590,7 +590,6 @@ bawtie
 badineur
 bcf
 brassware
-birdie
 baconize
 boilersmith
 bidiagonal
@@ -11893,6 +11892,7 @@ bundled
 brinjarries
 bod
 begaud
+birdie
 bromonaphthalene
 belows
 ballant
