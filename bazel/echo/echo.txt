@@ -4478,6 +4478,7 @@ excludes
 enatant
 etiophyllin
 epipterygoid
+energies
 epithumetic
 exchanging
 ennobled
@@ -12537,7 +12538,6 @@ exonian
 elusoriness
 escribe
 entrained
-energies
 eperva
 elmer
 especialness
