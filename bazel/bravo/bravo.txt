@@ -1393,7 +1393,6 @@ balancewise
 blighter
 biolite
 bookie
-barbes
 breastbeam
 bucephalus
 bottlefuls
@@ -13348,6 +13347,7 @@ bihourly
 boregat
 burgees
 betoil
+barbes
 bootjack
 barbarize
 broadmouth
