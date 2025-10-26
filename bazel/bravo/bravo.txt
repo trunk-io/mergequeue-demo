@@ -4725,7 +4725,6 @@ benames
 bibliopegistical
 biotopes
 briefings
-bhat
 billionism
 bipinnated
 bdellium
@@ -5732,6 +5731,7 @@ biaxillary
 bromid
 basella
 babs
+bhat
 barbigerous
 bedlight
 brachyural
