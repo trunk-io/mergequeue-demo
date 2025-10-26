@@ -9688,6 +9688,7 @@ alerion
 anorganic
 antiferromagnet
 acutiator
+anaerobe
 antherozoid
 antinaturalistic
 alkitran
@@ -24728,7 +24729,6 @@ anhemolytic
 adversaria
 aubade
 aflagellar
-anaerobe
 anteflected
 alnaschar
 apolline
