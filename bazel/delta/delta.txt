@@ -1814,7 +1814,6 @@ dipleiodoscope
 deblock
 dijudicate
 discursiveness
-diabolus
 dissimulation
 duennadom
 datura
@@ -10776,6 +10775,7 @@ distillation
 datapunch
 deben
 daphnis
+diabolus
 disentangling
 deedholder
 dinantian
