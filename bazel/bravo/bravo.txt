@@ -3880,7 +3880,6 @@ bannerets
 bestraddled
 bassanite
 barways
-blindball
 beamman
 barrelled
 brighteners
@@ -13346,6 +13345,7 @@ biophysiological
 blastomycin
 bowge
 blennies
+blindball
 bihourly
 boregat
 burgees
