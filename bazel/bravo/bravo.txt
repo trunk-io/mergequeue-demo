@@ -2651,7 +2651,6 @@ barbers
 barnman
 bowdlerised
 bathymeter
-bandless
 boomtowns
 bezaleel
 beadhouses
@@ -15202,6 +15201,7 @@ blisterweed
 bemadamed
 bobbery
 bothnian
+bandless
 betraying
 believing
 bunya
