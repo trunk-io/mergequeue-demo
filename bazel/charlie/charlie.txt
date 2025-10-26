@@ -5765,6 +5765,7 @@ conveyors
 coholder
 churchill
 crushable
+competes
 cartbote
 cortically
 coreopsis
@@ -8822,7 +8823,6 @@ chautauqua
 cantle
 crystallogenetic
 coviello
-competes
 cosmopolitic
 chitons
 coenobitic
