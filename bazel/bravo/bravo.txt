@@ -2342,6 +2342,7 @@ bandhor
 blackcoat
 bemusk
 blip
+barlow
 bringer
 bemoisten
 besplash
@@ -3421,7 +3422,6 @@ bemeet
 backhaul
 batfishes
 bahuvrihis
-barlow
 bankshall
 besnivel
 blueness
