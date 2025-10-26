@@ -3949,7 +3949,6 @@ epithamia
 eudoxian
 encasserole
 eventilate
-ellfish
 ectotherm
 eloiner
 embryon
@@ -6277,6 +6276,7 @@ eleventh
 endocrinologic
 epidemically
 elephantiases
+ellfish
 enharmonically
 endoergic
 ecophysiology
