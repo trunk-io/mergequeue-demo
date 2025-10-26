@@ -430,6 +430,7 @@ bierstubes
 boerdom
 boydom
 bogglebo
+bohmite
 balldress
 beknotting
 briseis
@@ -5622,7 +5623,6 @@ blanching
 bebrush
 bedad
 burroughs
-bohmite
 bouleversement
 bedamn
 baul
