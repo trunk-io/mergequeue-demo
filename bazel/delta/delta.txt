@@ -1279,6 +1279,7 @@ doubles
 diploid
 devanagari
 dichotomized
+doorway
 drago
 depthwise
 diphthongization
@@ -16145,7 +16146,6 @@ dossel
 diadermic
 disavouch
 deflectors
-doorway
 dignification
 devolatilized
 decathlon
