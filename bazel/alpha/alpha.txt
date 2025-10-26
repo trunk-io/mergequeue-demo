@@ -278,7 +278,6 @@ avignonese
 appunctuation
 argenol
 anopheline
-arcade
 aphydrotropism
 aphanite
 amateurishness
@@ -4418,6 +4417,7 @@ astalk
 altering
 alfaqui
 assaut
+arcade
 acuity
 articulatorily
 astronaut
