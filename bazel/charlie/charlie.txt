@@ -7847,7 +7847,6 @@ corpore
 cession
 collectarium
 clapotis
-castaway
 cessor
 cordiality
 continuate
@@ -26486,6 +26485,7 @@ centipedal
 cotch
 coengage
 convolvulus
+castaway
 criticise
 coted
 chesteine
