@@ -5777,7 +5777,6 @@ anno
 animalia
 antagonization
 amphioxididae
-antihypnotic
 anisocarpic
 atrabilarious
 astragal
@@ -7112,6 +7111,7 @@ akre
 aluminiferous
 avens
 acrita
+antihypnotic
 akrochordite
 apostrophied
 apocrine
