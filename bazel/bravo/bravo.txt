@@ -1209,7 +1209,6 @@ backcap
 burman
 backropes
 bouquetiere
-bain
 bellum
 boreades
 bipedism
@@ -5839,6 +5838,7 @@ bastardise
 butty
 bemar
 biwa
+bain
 bevaring
 baldhead
 bulletheaded
