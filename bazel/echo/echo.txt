@@ -4361,6 +4361,7 @@ egotize
 embassador
 estella
 efs
+externs
 exurbs
 ecosphere
 errable
@@ -13709,7 +13710,6 @@ essentially
 equiaxe
 extemporised
 exceptio
-externs
 endleaf
 erioglaucine
 exograph
