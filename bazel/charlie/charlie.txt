@@ -9916,7 +9916,6 @@ chemotaxonomic
 controls
 carices
 chemotherapeutical
-chemotherapeutically
 ceramicite
 casse
 carping
@@ -11069,6 +11068,7 @@ candleshine
 complicated
 chuckled
 chitarroni
+chemotherapeutically
 clitoris
 coalize
 chitimachan
