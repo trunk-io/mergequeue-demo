@@ -11322,7 +11322,6 @@ blowballs
 breadseller
 bandanaed
 bedstands
-butling
 bowshot
 buckeye
 betterment
@@ -13664,6 +13663,7 @@ baizing
 bullarium
 buzzword
 borane
+butling
 bouge
 betacaine
 biblike
