@@ -665,7 +665,6 @@ aspern
 amylodextrin
 animalier
 anthood
-absorbency
 alphabets
 audiometrically
 agenes
@@ -12730,6 +12729,7 @@ antegrade
 ahrendahronon
 aparejo
 alecithal
+absorbency
 alphonsine
 azoxyanisole
 aphorise
