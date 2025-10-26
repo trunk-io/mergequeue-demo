@@ -22,7 +22,6 @@ entotic
 escapado
 ellipsometer
 ethmofrontal
-embarked
 ephippium
 epicedium
 eigenvector
@@ -11517,6 +11516,7 @@ euphemian
 egomism
 extracorpuscular
 earliness
+embarked
 escheat
 etherical
 eversporting
