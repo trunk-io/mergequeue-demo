@@ -1208,7 +1208,6 @@ bipedism
 bemuzzled
 bitmap
 boils
-bottomers
 bucket
 beclose
 bemuddled
@@ -2710,6 +2709,7 @@ bop
 binucleated
 brazenfaced
 becapping
+bottomers
 boose
 buboed
 brinishness
