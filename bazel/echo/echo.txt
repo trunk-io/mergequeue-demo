@@ -4097,7 +4097,6 @@ emusify
 equiconvex
 endoclinal
 exla
-encallow
 ensilate
 elkdom
 elected
@@ -6577,6 +6576,7 @@ exponentiates
 equicellular
 engineman
 extratribal
+encallow
 entericoid
 encradle
 eclosions
