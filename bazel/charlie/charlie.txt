@@ -33,7 +33,6 @@ collectibles
 candleberries
 comatula
 churchreeve
-captain
 combings
 cardiae
 cryptoscopy
@@ -10897,6 +10896,7 @@ cryptozonia
 contortioned
 chiralgia
 contiguousness
+captain
 combustibleness
 catchpoled
 causson
