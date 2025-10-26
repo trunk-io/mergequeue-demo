@@ -2544,7 +2544,6 @@ exoderms
 engines
 effluvias
 enzymology
-encrusted
 envelop
 euphonies
 eudiometric
@@ -4855,6 +4854,7 @@ exoskeleton
 epigonus
 eyelid
 emblazons
+encrusted
 edgeway
 excusatory
 exorbitantly
