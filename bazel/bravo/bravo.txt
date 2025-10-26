@@ -1572,6 +1572,7 @@ ballottement
 bhajan
 buckjump
 blight
+beetrave
 backplanes
 busts
 beachcombers
@@ -4894,7 +4895,6 @@ barbequing
 buoying
 bacterid
 blancher
-beetrave
 boatful
 bosporus
 blithebread
