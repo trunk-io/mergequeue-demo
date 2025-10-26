@@ -12470,7 +12470,6 @@ autostradas
 argante
 amphidesmous
 androsporangium
-apodeictic
 anakinesis
 angara
 ambiances
@@ -22644,6 +22643,7 @@ aberdonian
 alpeen
 animality
 adenyl
+apodeictic
 autochemical
 accusor
 amebous
