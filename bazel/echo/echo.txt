@@ -2371,7 +2371,6 @@ extoll
 enchantments
 encumbering
 emboweller
-electrodialyze
 eudemonistically
 ecanda
 exch
@@ -10906,6 +10905,7 @@ estradiol
 eyestone
 epitomator
 elamitic
+electrodialyze
 endoparasitism
 ereptase
 echinodermatous
