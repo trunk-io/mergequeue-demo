@@ -1380,7 +1380,6 @@ edh
 eutrophication
 entasias
 efoliose
-estrogenicity
 efts
 ecphractic
 eddy
@@ -5346,6 +5345,7 @@ ensnow
 epicedia
 encydlopaedic
 efractory
+estrogenicity
 externalistic
 excreted
 eudaemonistic
