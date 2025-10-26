@@ -1341,7 +1341,6 @@ bilestone
 bandager
 braise
 barracudas
-bilocular
 bushgrass
 ballparks
 blurredly
@@ -5360,6 +5359,7 @@ basils
 bicycle
 baryton
 boater
+bilocular
 bobsledded
 bathymetry
 broomballer
