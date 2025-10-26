@@ -3907,7 +3907,6 @@ excursion
 enfork
 engraphy
 embolimeal
-ephebos
 eumenidae
 enif
 exilarch
@@ -9961,6 +9960,7 @@ eulachon
 externalisation
 emeutes
 eikonology
+ephebos
 effacer
 electrophrenic
 eolopile
