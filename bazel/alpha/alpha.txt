@@ -1401,7 +1401,6 @@ albugines
 agrote
 antiorthodoxly
 acrab
-affixable
 aeronautics
 anadicrotic
 atriopore
@@ -22774,6 +22773,7 @@ amianthus
 autoagglutination
 amphichroic
 analyzable
+affixable
 alkahestical
 astrion
 absinthism
