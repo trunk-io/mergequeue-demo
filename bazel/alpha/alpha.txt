@@ -4649,7 +4649,6 @@ awkly
 amaryllis
 axoneuron
 acquisition
-acierates
 aerobiologist
 alcheringa
 acmaesthesia
@@ -8532,6 +8531,7 @@ anarcestes
 anthoid
 allosaur
 allo
+acierates
 anatinae
 aljoba
 awreck
