@@ -7658,7 +7658,6 @@ bradyglossia
 bacteriopathology
 bivouac
 beadworks
-bhistie
 bhokra
 bilinguist
 bersil
@@ -12470,6 +12469,7 @@ beryllonite
 basaltware
 bondmen
 bregma
+bhistie
 babylonia
 bradykinetic
 bronchography
