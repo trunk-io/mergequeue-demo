@@ -5666,7 +5666,6 @@ enterocoele
 eppie
 ensnarers
 equicaloric
-entailment
 evolvent
 epural
 emicate
@@ -14011,6 +14010,7 @@ euphemisation
 evinces
 epiploon
 etheriform
+entailment
 enzooty
 enlargeableness
 epistolised
