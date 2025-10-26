@@ -2537,6 +2537,7 @@ entreatable
 etherion
 evictor
 enventual
+elative
 esophagism
 ensilation
 enjambement
@@ -8209,7 +8210,6 @@ edemic
 episememe
 evangelian
 electrologist
-elative
 egocentricity
 enrollees
 eulachans
