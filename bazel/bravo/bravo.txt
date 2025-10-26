@@ -12018,6 +12018,7 @@ borzicactus
 brothelry
 batterdock
 blowpit
+blencorn
 bandaging
 bitting
 bogland
@@ -13318,7 +13319,6 @@ bosthoon
 bullshit
 bootstraps
 bake
-blencorn
 burglar
 burushaski
 bouche
