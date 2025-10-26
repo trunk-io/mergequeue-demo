@@ -1496,6 +1496,7 @@ disp
 disshadow
 dubbings
 dardanium
+delimit
 darraign
 diglucoside
 decontaminations
@@ -16353,7 +16354,6 @@ distributively
 dendrodont
 dalesmen
 dasyurus
-delimit
 doubleleaf
 dentated
 dolichopodous
