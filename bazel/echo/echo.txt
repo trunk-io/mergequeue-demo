@@ -1652,6 +1652,7 @@ eminence
 emote
 encephalasthenia
 embog
+enchasten
 enculturate
 exchequers
 enfranch
@@ -7108,7 +7109,6 @@ econometric
 electrophoric
 embue
 epimerite
-enchasten
 error
 extramural
 enthymematic
