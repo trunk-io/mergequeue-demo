@@ -2711,7 +2711,6 @@ expeditions
 ensures
 engagedness
 exceptiousness
-envolupen
 ephori
 endosmosic
 engrapple
@@ -12663,6 +12662,7 @@ elephantoid
 eptatretidae
 expending
 esparsette
+envolupen
 embittered
 eunuchising
 epilogize
