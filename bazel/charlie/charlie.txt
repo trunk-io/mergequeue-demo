@@ -7586,6 +7586,7 @@ cookable
 cholecystenterostomy
 curacy
 crustate
+chokes
 cryostat
 cerebronic
 cerebropedal
@@ -14465,7 +14466,6 @@ capsulociliary
 caseine
 cryptostegia
 cirrostomi
-chokes
 citharoedus
 coxofemoral
 cardioclasis
