@@ -1367,6 +1367,7 @@ except
 evicting
 epics
 equalable
+equations
 eutrophication
 entasias
 eyespots
@@ -8125,7 +8126,6 @@ exsolving
 entoptic
 eusuchia
 easted
-equations
 exhibiter
 enciphers
 euhemerize
