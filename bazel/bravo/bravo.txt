@@ -1877,6 +1877,7 @@ borders
 blowguns
 bareka
 bolshy
+biostatic
 boti
 bernice
 blooie
@@ -6280,7 +6281,6 @@ benzoylation
 borize
 blockbusters
 basichromatic
-biostatic
 biaxal
 boonfellow
 boob
