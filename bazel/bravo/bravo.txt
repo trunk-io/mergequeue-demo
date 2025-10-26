@@ -508,7 +508,6 @@ bacillemia
 bloodshed
 blockhead
 blushwort
-barnacles
 backspaces
 brotan
 benchland
@@ -7462,6 +7461,7 @@ baromotor
 bipod
 bearbaiter
 bowne
+barnacles
 besant
 bufonidae
 bretesse
