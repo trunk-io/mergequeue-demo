@@ -13270,6 +13270,7 @@ distomatidae
 druther
 deserted
 donsy
+disclass
 diphthongs
 dunged
 dysfunctions
@@ -15398,7 +15399,6 @@ distilleries
 denarinarii
 domesdays
 dattock
-disclass
 domesticality
 destroys
 dementate
