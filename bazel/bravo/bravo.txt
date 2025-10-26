@@ -10706,7 +10706,6 @@ bethwack
 bipunctual
 braccae
 blazoned
-bleaunt
 bellbine
 beshame
 borable
@@ -13283,6 +13282,7 @@ blenny
 battlewise
 bifer
 boskopoid
+bleaunt
 baldest
 bromisms
 benignancies
