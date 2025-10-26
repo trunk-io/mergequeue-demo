@@ -1568,7 +1568,6 @@ enneacontahedron
 euchlorine
 enologist
 electrolysis
-endogenicity
 enchiridia
 embrutes
 exercising
@@ -11549,6 +11548,7 @@ esperance
 edificator
 entomolite
 etesians
+endogenicity
 entomeric
 erosional
 energids
