@@ -2477,6 +2477,7 @@ conners
 candlewicks
 coir
 cephalograph
+camize
 candlewright
 candling
 carangid
@@ -3561,7 +3562,6 @@ colonels
 cutlets
 coconspirator
 caratch
-camize
 chaffseed
 cresylite
 carates
