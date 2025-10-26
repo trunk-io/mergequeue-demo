@@ -1425,7 +1425,6 @@ estre
 explicatory
 elasticized
 embrute
-earthwork
 envapor
 eppes
 elutriate
@@ -9122,6 +9121,7 @@ exon
 execrators
 endamoebic
 exopt
+earthwork
 etchers
 eluding
 ellipses
