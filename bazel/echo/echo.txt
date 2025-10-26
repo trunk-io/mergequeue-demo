@@ -2937,7 +2937,6 @@ ebcasc
 epicolic
 enrages
 east
-epigrammatizer
 entire
 emotionalization
 epuration
@@ -9485,6 +9484,7 @@ endognathion
 exciding
 emmensite
 equimolar
+epigrammatizer
 elbowpiece
 exhaustedly
 equiprobable
