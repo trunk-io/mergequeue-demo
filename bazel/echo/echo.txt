@@ -2233,7 +2233,6 @@ eqpt
 ectromelia
 exhumed
 eperua
-epicotyl
 even
 eucalyptian
 embryological
@@ -9885,6 +9884,7 @@ enrich
 enfolds
 esca
 encampments
+epicotyl
 envolume
 extranormal
 educts
