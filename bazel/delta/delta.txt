@@ -5356,6 +5356,7 @@ densimetric
 downslip
 datos
 danainae
+desoxyribonucleoprotein
 dorsoventral
 defrocks
 dojos
@@ -17409,7 +17410,6 @@ dextroamphetamine
 dinned
 dewcap
 disinteresting
-desoxyribonucleoprotein
 dissight
 desulfurized
 drowses
