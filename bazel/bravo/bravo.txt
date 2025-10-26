@@ -3517,7 +3517,6 @@ brainpans
 brantle
 behaving
 bloodflower
-batta
 barnstormer
 bandana
 bijugous
@@ -12861,6 +12860,7 @@ bumblebee
 biblical
 barrelhouse
 broigne
+batta
 boite
 breachful
 bitbrace
