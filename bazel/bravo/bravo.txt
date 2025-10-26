@@ -841,7 +841,6 @@ badmash
 broiden
 bijouterie
 bellyfulls
-bullwhips
 bloomer
 baggings
 blindling
@@ -17532,6 +17531,7 @@ burdenous
 briticism
 brown
 buccinum
+bullwhips
 bleep
 buonamano
 bulbocapnine
