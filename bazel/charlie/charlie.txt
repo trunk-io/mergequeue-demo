@@ -10501,7 +10501,6 @@ curries
 chyles
 chiliahedron
 converter
-commuting
 coarticulation
 compellably
 cordelier
@@ -15359,6 +15358,7 @@ copps
 clangors
 clangour
 cousins
+commuting
 collateral
 capsian
 custodiam
