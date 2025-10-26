@@ -8463,7 +8463,6 @@ beaded
 brumes
 biller
 burthens
-burgoyne
 bongo
 begirdle
 backtrace
@@ -13436,6 +13435,7 @@ blur
 blighters
 beothuk
 blepharitic
+burgoyne
 boltant
 bauchle
 bovinely
