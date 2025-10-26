@@ -9038,6 +9038,7 @@ doomsayer
 deputize
 downswing
 dehydromucic
+desugaring
 distannic
 dacoits
 dicasteries
@@ -17135,7 +17136,6 @@ disloyalty
 duresses
 delhi
 dispartment
-desugaring
 draggletail
 drift
 dipnoid
