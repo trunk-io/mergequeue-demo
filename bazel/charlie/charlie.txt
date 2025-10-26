@@ -3790,6 +3790,7 @@ caserios
 carburettor
 cervicohumeral
 carburised
+convertors
 catskin
 carburiser
 cerulescent
@@ -5079,7 +5080,6 @@ casking
 caspar
 caddised
 castings
-convertors
 codding
 cranet
 crowbell
