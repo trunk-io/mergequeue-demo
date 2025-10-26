@@ -114,7 +114,6 @@ bori
 burgwere
 baldachins
 balafo
-bypaths
 billingsgate
 begut
 bollandist
@@ -5166,6 +5165,7 @@ ballsy
 blatant
 brawny
 bensail
+bypaths
 behew
 bothroi
 biltong
