@@ -4341,7 +4341,6 @@ beslash
 bloodmonger
 bamboo
 biodynamic
-basicities
 bastardliness
 bonder
 bedights
@@ -6668,6 +6667,7 @@ bylander
 bluejoint
 brisking
 brike
+basicities
 butyrous
 betimes
 befool
