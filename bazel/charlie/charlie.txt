@@ -18872,7 +18872,6 @@ catalos
 conferrers
 contemporaries
 codeins
-colicines
 colicins
 cytogene
 carabidoid
@@ -19766,6 +19765,7 @@ combat
 combatable
 chroma
 cixiidae
+colicines
 cimbalom
 chrysaniline
 cribbings
