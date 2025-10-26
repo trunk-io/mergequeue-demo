@@ -2585,6 +2585,7 @@ bicrons
 beggardom
 bogberry
 barghest
+biogas
 baccara
 bracketwise
 beachier
@@ -7318,7 +7319,6 @@ bazars
 befluster
 boxmaking
 biogeography
-biogas
 bimarginate
 bepaper
 brothels
