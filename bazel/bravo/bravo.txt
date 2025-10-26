@@ -1931,7 +1931,6 @@ braille
 beacher
 bitless
 brujos
-bloomers
 barbola
 bumbling
 begrutten
@@ -2867,6 +2866,7 @@ barstools
 betrough
 beslab
 blubberers
+bloomers
 broad
 balkan
 balmawhapple
