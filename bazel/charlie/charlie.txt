@@ -9737,7 +9737,6 @@ cheirolin
 cajun
 ciconiidae
 cheiropod
-clavial
 cracca
 cichoriaceae
 chekan
@@ -28432,6 +28431,7 @@ cravenly
 catodon
 cloop
 croaker
+clavial
 craver
 campholytic
 coelacanthoid
