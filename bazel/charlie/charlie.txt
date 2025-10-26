@@ -3263,7 +3263,6 @@ carmanians
 cutbank
 capric
 cates
-capriccio
 climatographical
 compiler
 copulable
@@ -30021,6 +30020,7 @@ columned
 carnotite
 crouch
 crouchback
+capriccio
 collineation
 correctiveness
 calices
