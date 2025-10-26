@@ -258,7 +258,6 @@ endorsers
 exclamations
 eq
 epiphanies
-enfold
 evolves
 equalizing
 eirenarch
@@ -13967,6 +13966,7 @@ exulcerated
 esthesioneurosis
 entopic
 echinus
+enfold
 enomaniac
 effluvial
 exsuperate
