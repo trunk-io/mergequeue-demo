@@ -8519,6 +8519,7 @@ equipages
 extent
 extrinsicality
 epistylis
+enneadic
 endogenic
 equiparation
 electrophoresis
@@ -12292,7 +12293,6 @@ expirator
 enterobiliary
 emissions
 evertebrate
-enneadic
 endoangiitis
 enhancive
 exultet
