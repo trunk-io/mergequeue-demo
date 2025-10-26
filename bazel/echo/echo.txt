@@ -4273,7 +4273,6 @@ exuperable
 entresse
 epimerize
 expert
-epimers
 exinanition
 episkeletal
 enterocele
@@ -12503,6 +12502,7 @@ ericophyte
 eductive
 evection
 eukairite
+epimers
 evilspeaker
 enterer
 ethicizing
