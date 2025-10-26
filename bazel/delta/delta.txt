@@ -4616,7 +4616,6 @@ demifigure
 dieresis
 docimasy
 disinflated
-dropax
 defenestrated
 dufrenoysite
 dissyllabize
@@ -4801,6 +4800,7 @@ decking
 daphnid
 decasualised
 describers
+dropax
 duplicity
 dipmeter
 devoutlessness
