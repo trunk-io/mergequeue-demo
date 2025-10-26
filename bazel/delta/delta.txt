@@ -6872,7 +6872,6 @@ dockyard
 dragsmen
 datatype
 deckels
-disjointedness
 dewinesses
 dioceses
 deregulationize
@@ -12658,6 +12657,7 @@ decrepid
 despairs
 defenseless
 discipliner
+disjointedness
 declinatory
 dorididae
 downmost
