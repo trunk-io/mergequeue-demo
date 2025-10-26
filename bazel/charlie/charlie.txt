@@ -5760,6 +5760,7 @@ catercornerways
 condemnations
 conveyors
 coholder
+churchill
 crushable
 cartbote
 cortically
@@ -20626,7 +20627,6 @@ coremia
 coelacanthidae
 charcoaly
 cageyness
-churchill
 cardamons
 compensates
 cerrero
