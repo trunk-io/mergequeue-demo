@@ -1855,7 +1855,6 @@ delicacies
 deformable
 debar
 dicier
-demonastery
 dowsers
 deriver
 dowdies
@@ -8038,6 +8037,7 @@ defrost
 discost
 delawarean
 deblaterate
+demonastery
 dogeships
 droppy
 diphycercy
