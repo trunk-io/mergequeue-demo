@@ -177,7 +177,6 @@ enologies
 exoticalness
 epistolarian
 escrows
-entanglements
 eluvium
 eminences
 emeline
@@ -4361,6 +4360,7 @@ externality
 euripos
 embar
 eo
+entanglements
 errorless
 emancipations
 exploitative
