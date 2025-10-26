@@ -1923,6 +1923,7 @@ bycoket
 braille
 beacher
 bitless
+bostrychoid
 brujos
 barbola
 bumbling
@@ -12147,7 +12148,6 @@ bulbar
 brooks
 bldr
 babblings
-bostrychoid
 bucolics
 burkundaz
 banefully
