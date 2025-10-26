@@ -12840,6 +12840,7 @@ clatters
 cavilled
 chevroned
 chessboard
+combs
 churchgoers
 churchy
 churchyard
@@ -18867,7 +18868,6 @@ contemporaries
 codeins
 colicines
 colicins
-combs
 cytogene
 carabidoid
 carriages
