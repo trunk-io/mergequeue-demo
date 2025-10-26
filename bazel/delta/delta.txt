@@ -1286,6 +1286,7 @@ doubles
 diploid
 devanagari
 dichotomized
+dyslectic
 doorway
 drago
 depthwise
@@ -8373,7 +8374,6 @@ dissuasions
 dornick
 dehydrotestosterone
 drinkless
-dyslectic
 draggletailedly
 didymate
 dispopularize
