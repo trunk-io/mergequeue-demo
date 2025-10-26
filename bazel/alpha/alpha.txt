@@ -2194,6 +2194,7 @@ amenity
 amphichrome
 anorthoscope
 antiferroelectric
+arkwright
 acidulate
 amontillados
 acidulously
@@ -10850,7 +10851,6 @@ advocacies
 affreighter
 apothecal
 alleyway
-arkwright
 acrite
 antelopian
 anacard
