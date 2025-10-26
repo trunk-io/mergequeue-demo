@@ -1753,7 +1753,6 @@ entomologist
 evanesced
 enddamaged
 elegiacs
-eidos
 eavesdropped
 earworm
 extracultural
@@ -12584,6 +12583,7 @@ erythroxylum
 elasmobranchiate
 ecclesiasticus
 eugenics
+eidos
 eryngo
 exognathite
 entassment
