@@ -25,6 +25,7 @@ ethmofrontal
 embarked
 ephippium
 epicedium
+eigenvector
 electrizing
 emergent
 elopes
@@ -1932,7 +1933,6 @@ endmatcher
 execeptional
 epithymetical
 ecardines
-eigenvector
 emotionable
 earths
 expansure
