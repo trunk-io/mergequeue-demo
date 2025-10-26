@@ -11103,7 +11103,6 @@ airframe
 alderman
 aquifers
 amiloun
-altarwise
 amphitheater
 astian
 archaized
@@ -22253,6 +22252,7 @@ axhammered
 advisal
 adhaka
 alfreda
+altarwise
 acapnial
 alkalometry
 asthmatoid
