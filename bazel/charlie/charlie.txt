@@ -2784,7 +2784,6 @@ canopus
 chauvin
 clearers
 canreply
-cubi
 canso
 cansos
 congenialize
@@ -24401,6 +24400,7 @@ citigradae
 const
 culminal
 castile
+cubi
 craniotopography
 carcanets
 capito
