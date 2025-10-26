@@ -14559,7 +14559,6 @@ barbless
 bankera
 bemotto
 bimodality
-builtin
 baby
 bogomilian
 breechless
@@ -15451,6 +15450,7 @@ beatles
 bierstuben
 bear
 biotaxy
+builtin
 bombonne
 breastmark
 beadflush
