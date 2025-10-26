@@ -7522,7 +7522,6 @@ cinemelodrama
 chinaberries
 crabstick
 chariotry
-cuneiform
 cogged
 calystegia
 cerebellifugal
@@ -12585,6 +12584,7 @@ chimer
 crocuta
 craddy
 chronique
+cuneiform
 cytost
 calandra
 chronocyclegraph
