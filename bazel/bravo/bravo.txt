@@ -9765,7 +9765,6 @@ backsetting
 battels
 bescatter
 betokening
-benched
 blowcase
 bacchante
 bronc
@@ -16564,6 +16563,7 @@ bifoil
 bucentur
 blanc
 beuncled
+benched
 ballasting
 blotto
 blastemas
