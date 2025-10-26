@@ -6783,7 +6783,6 @@ cinemograph
 contempt
 continua
 centi
-cellmates
 carburometer
 colen
 cochleleae
@@ -8253,6 +8252,7 @@ consultantship
 comas
 countershock
 counterstrike
+cellmates
 convokes
 chalcographical
 coadunation
