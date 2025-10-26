@@ -3494,6 +3494,7 @@ blebs
 boatowner
 buprestis
 bonework
+benthoscope
 brainchild
 bundt
 boxfuls
@@ -10724,7 +10725,6 @@ batonne
 boondocker
 blintz
 bellower
-benthoscope
 blepharoplegia
 baning
 bookbind
