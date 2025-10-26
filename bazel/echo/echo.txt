@@ -4852,7 +4852,6 @@ excaudate
 endosteally
 extrait
 eriglossa
-entypies
 embrangle
 exemplification
 episcleral
@@ -8509,6 +8508,7 @@ extent
 extrinsicality
 epistylis
 equiparation
+entypies
 electrophoresis
 epedaphic
 ectocondyloid
