@@ -11647,6 +11647,7 @@ discontents
 deadlatch
 derringer
 dambonite
+dugouts
 depulse
 dihydronaphthalene
 diatrymiformes
@@ -16673,7 +16674,6 @@ dugongidae
 dirt
 duros
 dynamometrical
-dugouts
 dognapers
 depleting
 ducats
