@@ -10991,7 +10991,6 @@ congrio
 caviars
 colonitis
 contraposita
-corp
 chiroptera
 coral
 chiropterygian
@@ -17351,6 +17350,7 @@ caracore
 codol
 capsumin
 calced
+corp
 calpacked
 conjoint
 cystolithic
