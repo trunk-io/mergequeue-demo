@@ -8776,6 +8776,7 @@ bingos
 brehon
 bandon
 busheler
+boshes
 braes
 brandishes
 beslabber
@@ -13259,7 +13260,6 @@ backtracking
 bristletail
 begartered
 brawest
-boshes
 bivouaced
 bersagliere
 boneshaker
