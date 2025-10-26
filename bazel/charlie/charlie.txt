@@ -3204,7 +3204,6 @@ chirruping
 christening
 calesa
 commissariat
-cabstands
 coderives
 contrasty
 caponizer
@@ -4211,6 +4210,7 @@ counterindentation
 caricaceae
 carcinology
 conf
+cabstands
 cleavelandite
 crosshand
 cochlitis
