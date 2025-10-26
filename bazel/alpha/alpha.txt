@@ -1636,7 +1636,6 @@ ambiguously
 analogic
 army
 acculturize
-accum
 accumbent
 anomie
 accuses
@@ -11648,6 +11647,7 @@ advocacy
 advisor
 aper
 abiegh
+accum
 antipedobaptism
 anabolize
 anile
