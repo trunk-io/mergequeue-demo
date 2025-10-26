@@ -7804,7 +7804,6 @@ escharoid
 epimeron
 extrapolation
 extol
-eversion
 endamage
 epineuneuria
 epigraphs
@@ -13062,6 +13061,7 @@ exaggeratory
 eucryphiaceous
 eyestring
 expels
+eversion
 extensionality
 evaluated
 econometrics
