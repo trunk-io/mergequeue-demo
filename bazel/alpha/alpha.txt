@@ -747,7 +747,6 @@ adsorbate
 autostrada
 abubble
 aegipan
-allatrate
 archimorula
 autogiros
 afterdrain
@@ -6570,6 +6569,7 @@ avoid
 azarole
 aphroditeum
 anthonomus
+allatrate
 awfuller
 actinomycotic
 aiglets
