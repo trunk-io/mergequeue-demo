@@ -848,6 +848,7 @@ deve
 drivel
 decahydrate
 diatomaceae
+dendromecon
 disamis
 determinantal
 downslide
@@ -18427,7 +18428,6 @@ disallowed
 desmid
 dunitic
 desiccants
-dendromecon
 devonian
 dacryosyrinx
 dasyprocta
