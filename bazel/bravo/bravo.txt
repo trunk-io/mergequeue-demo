@@ -8436,7 +8436,6 @@ bastinadoing
 bavardage
 batak
 busiest
-bounceable
 bilifuscin
 bellical
 bywords
@@ -8635,6 +8634,7 @@ bide
 bodysurf
 blanketers
 bicornes
+bounceable
 backberand
 bedfellow
 bullbird
