@@ -2293,7 +2293,6 @@ dorsothoracic
 dendrogaean
 dirigibles
 decentering
-deactivation
 dichastic
 dicotyles
 diaka
@@ -12829,6 +12828,7 @@ decolour
 demodulator
 deraign
 decolonised
+deactivation
 decarboxylating
 dipware
 diluters
