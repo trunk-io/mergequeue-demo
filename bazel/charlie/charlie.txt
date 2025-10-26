@@ -9567,7 +9567,6 @@ checkpoints
 corvisor
 crushes
 checksum
-construct
 checksumming
 chasid
 clutching
@@ -24605,6 +24604,7 @@ cootie
 confragose
 coprinus
 calcaneoastragalar
+construct
 chackling
 corbans
 comephorous
