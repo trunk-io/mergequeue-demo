@@ -1389,6 +1389,7 @@ brayers
 broiler
 bugler
 boroughmaster
+bandwork
 bathrooms
 balinghasay
 biomass
@@ -17429,7 +17430,6 @@ bewearying
 becloaked
 belatticed
 begary
-bandwork
 blackbuck
 buffi
 barograms
