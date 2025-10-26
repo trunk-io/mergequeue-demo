@@ -8207,7 +8207,6 @@ arn
 anticks
 asteria
 aftershave
-anglify
 adjugate
 astigmia
 alias
@@ -20160,6 +20159,7 @@ alleger
 aristate
 antagonized
 appropriately
+anglify
 anathematism
 aesthesis
 antimonious
