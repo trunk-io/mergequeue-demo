@@ -8734,7 +8734,6 @@ baronet
 birotatory
 barton
 bower
-binding
 buffs
 baumier
 basoche
@@ -13922,6 +13921,7 @@ bedded
 bubblers
 bromius
 boorish
+binding
 brambly
 burettes
 boiloff
