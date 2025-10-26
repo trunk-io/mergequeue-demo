@@ -13711,6 +13711,7 @@ beknived
 barchan
 blennemesis
 beclouding
+barracking
 booklores
 bombes
 baccillum
@@ -15323,7 +15324,6 @@ bushes
 betire
 borehole
 beevish
-barracking
 brothe
 backchain
 butterwort
