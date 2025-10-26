@@ -5822,7 +5822,6 @@ billings
 bestripe
 beltman
 boozers
-bescratch
 becursed
 bifistular
 boys
@@ -10382,6 +10381,7 @@ belostomatidae
 binary
 bleat
 boston
+bescratch
 bimalar
 beode
 bluenoser
