@@ -7440,7 +7440,6 @@ equilibrate
 eatanswill
 eulamellibranch
 epiboulangerite
-emoted
 elrage
 exospheric
 electrohydraulically
@@ -8421,6 +8420,7 @@ endokaryogamy
 elucidating
 ergatomorph
 excruciated
+emoted
 efflux
 eviller
 electrostatic
