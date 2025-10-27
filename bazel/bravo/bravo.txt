@@ -5850,6 +5850,7 @@ bosslet
 bassist
 bemaddened
 bondman
+buggyman
 bawds
 bullan
 bedumbing
@@ -14634,7 +14635,6 @@ brickliner
 belong
 buckeroo
 bacchanalias
-buggyman
 boethusian
 borwort
 bieldy
