@@ -11334,7 +11334,6 @@ clipsheets
 chlorinator
 curr
 chloritic
-corncob
 childbed
 continuities
 chlorinates
@@ -25405,6 +25404,7 @@ cardinality
 conventionalized
 chachapuya
 coypu
+corncob
 charque
 cornets
 comprehend
