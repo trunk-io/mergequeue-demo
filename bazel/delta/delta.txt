@@ -447,6 +447,7 @@ dispread
 dumbledore
 daunder
 dayrooms
+defogs
 disincrust
 dessert
 dome
@@ -14999,7 +15000,6 @@ demarcators
 destiny
 directoral
 deodand
-defogs
 dogears
 disfranchise
 dihexahedral
