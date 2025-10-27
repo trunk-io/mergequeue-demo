@@ -2883,6 +2883,7 @@ eligibles
 epauliere
 euhemerism
 extend
+enseated
 eukairite
 evagation
 epimorphic
@@ -10507,7 +10508,6 @@ eridanid
 exorbitant
 entamoebic
 epicycloidal
-enseated
 ericolin
 expellable
 elicitate
