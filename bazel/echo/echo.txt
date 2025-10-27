@@ -99,7 +99,6 @@ empest
 eosate
 embelic
 endothelia
-endosarcode
 earworms
 entomostraca
 earthmoving
@@ -10273,6 +10272,7 @@ endoscopes
 economy
 enterfeat
 esthesias
+endosarcode
 earlock
 elytrum
 eluctation
