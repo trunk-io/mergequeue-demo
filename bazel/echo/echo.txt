@@ -6134,7 +6134,6 @@ erump
 els
 emblematic
 environmental
-electromagnetist
 epanorthosis
 epideictic
 examens
@@ -14081,6 +14080,7 @@ envisages
 expressless
 encoffinment
 exhilarate
+electromagnetist
 egbert
 eral
 ethnol
