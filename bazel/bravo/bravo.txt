@@ -2096,7 +2096,6 @@ bishoprics
 benefactrix
 blackpatch
 buckie
-beanfield
 built
 bribees
 banky
@@ -11382,6 +11381,7 @@ bibliopoly
 bobolinks
 bown
 boot
+beanfield
 bacteroides
 blok
 boycotted
