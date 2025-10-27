@@ -2791,7 +2791,6 @@ ban
 bld
 bubbleless
 beaverite
-book
 ballgowns
 boundness
 beeregar
@@ -8684,6 +8683,7 @@ brainache
 bowdlerize
 batboys
 buttle
+book
 blears
 belection
 becurl
