@@ -1310,6 +1310,7 @@ dogies
 doubles
 diploid
 devanagari
+debitrix
 dialecticism
 dichotomized
 dyslectic
@@ -4907,7 +4908,6 @@ dorsocentral
 dumpish
 deair
 dolerite
-debitrix
 dichotomist
 detentive
 dadouchos
