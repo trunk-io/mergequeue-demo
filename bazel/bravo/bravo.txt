@@ -5115,7 +5115,6 @@ bughouses
 balaenid
 beggarhood
 befurred
-boarhound
 blackstrap
 blemishing
 balneary
@@ -12783,6 +12782,7 @@ breathtaking
 biometrician
 blares
 bullseye
+boarhound
 boastfulness
 ballhooter
 bdle
