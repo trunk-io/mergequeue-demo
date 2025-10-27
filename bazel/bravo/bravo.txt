@@ -1497,7 +1497,6 @@ bearer
 balli
 brassworks
 bitume
-bedizenment
 braziers
 batholitic
 boloroot
@@ -11885,6 +11884,7 @@ biplicity
 bacchanalian
 bombardment
 bruskest
+bedizenment
 bromism
 bromometrical
 braggat
