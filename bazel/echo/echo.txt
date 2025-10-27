@@ -948,7 +948,6 @@ experimentalist
 entune
 echoist
 enamellers
-embulk
 emergent
 eringos
 euboic
@@ -9976,6 +9975,7 @@ exine
 evelight
 enscrolling
 etherialism
+embulk
 enlightenment
 enfolded
 extraburghal
