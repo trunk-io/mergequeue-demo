@@ -1051,7 +1051,6 @@ evocators
 enshrouding
 empoisoning
 epitrite
-encarpus
 edwin
 edacious
 eskimoes
@@ -1884,6 +1883,7 @@ exteriorly
 exdividend
 epigrammatist
 echoed
+encarpus
 ekasilicon
 exsanguinity
 epigastriocele
