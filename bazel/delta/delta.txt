@@ -322,7 +322,6 @@ directories
 disestablismentarianism
 diglots
 demonstratory
-dismissable
 ducks
 disenablement
 discolorment
@@ -14471,6 +14470,7 @@ dassie
 demobilized
 domicile
 demonologic
+dismissable
 divesture
 dawdler
 deliverer
