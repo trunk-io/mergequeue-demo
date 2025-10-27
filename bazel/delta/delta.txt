@@ -5686,7 +5686,6 @@ depigmentate
 drummers
 dispenses
 decolourizer
-drawhorse
 disquietudes
 dogberry
 deemie
@@ -12300,6 +12299,7 @@ dogfish
 desert
 depeopling
 disglut
+drawhorse
 doater
 dysgonic
 dataflow
