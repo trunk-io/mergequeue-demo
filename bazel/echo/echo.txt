@@ -641,7 +641,6 @@ enlock
 escudo
 enlighteners
 educt
-electrodissolution
 enharmonical
 email
 eglogue
@@ -999,6 +998,7 @@ enclosed
 enforcing
 extraorbitally
 elections
+electrodissolution
 ergonomic
 epigraphical
 embarrassments
