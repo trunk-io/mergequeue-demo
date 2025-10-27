@@ -4450,6 +4450,7 @@ dissimulator
 dismisses
 distrainee
 desmoma
+directness
 degradand
 demarcates
 demarcations
@@ -15917,7 +15918,6 @@ diablerie
 dol
 diwan
 denominationally
-directness
 dayglow
 devilism
 diester
