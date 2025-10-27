@@ -1614,6 +1614,7 @@ escargot
 expressman
 embattle
 efficacy
+eds
 electrosmosis
 electability
 ennoic
@@ -14131,7 +14132,6 @@ euphoric
 essenwood
 esthetophore
 epigaeous
-eds
 evalue
 epeirogenically
 exclamative
