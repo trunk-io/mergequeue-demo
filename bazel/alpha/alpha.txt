@@ -14588,7 +14588,6 @@ alcove
 affectable
 alchymies
 anthropotheist
-alveolite
 appmt
 atmolyzer
 antagonisation
@@ -19197,6 +19196,7 @@ adipopectic
 agistor
 accoladed
 archmugwump
+alveolite
 austerities
 arceuthobium
 apocenter
