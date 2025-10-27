@@ -5362,7 +5362,6 @@ beelines
 bilbos
 breakfasters
 backers
-briefly
 brevirostral
 billywix
 bryogenin
@@ -11384,6 +11383,7 @@ bedstraw
 bibliopoly
 bobolinks
 bown
+briefly
 boot
 beanfield
 bacteroides
