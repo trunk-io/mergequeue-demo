@@ -3110,7 +3110,6 @@ embassade
 equipoising
 elasmosaurus
 entopterygoid
-embargo
 echea
 ensuable
 earns
@@ -5485,6 +5484,7 @@ engirt
 energesis
 epidia
 entosphere
+embargo
 expwy
 exolve
 epistolean
