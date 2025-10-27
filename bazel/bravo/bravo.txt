@@ -8643,6 +8643,7 @@ butterflyer
 bide
 bodysurf
 blanketers
+bipartition
 bicornes
 bounceable
 backberand
@@ -12486,7 +12487,6 @@ boundedness
 bivaulted
 bhang
 boulework
-bipartition
 bonify
 betorcin
 bdls
