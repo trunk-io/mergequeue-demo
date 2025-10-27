@@ -8946,6 +8946,7 @@ charbroiled
 cyclosilicate
 colorcast
 coeff
+chass
 crenelet
 crutches
 courses
@@ -19299,7 +19300,6 @@ colon
 cogwheels
 colonaded
 colonate
-chass
 cholee
 colonelships
 conductorless
