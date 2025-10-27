@@ -5307,7 +5307,6 @@ analyzer
 aywhere
 archology
 archdeacons
-afterdate
 attorned
 alcoran
 antispasmodic
@@ -19997,6 +19996,7 @@ alamodality
 absurdest
 archegoniata
 astringent
+afterdate
 antanemic
 armistice
 acclimatizes
