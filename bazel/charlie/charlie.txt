@@ -4902,7 +4902,6 @@ calistheneum
 colophonist
 cartwhip
 cohanims
-cimex
 carucarius
 carucate
 cylices
@@ -29088,6 +29087,7 @@ casks
 comestibles
 crimper
 complexometric
+cimex
 czars
 crush
 clitellus
