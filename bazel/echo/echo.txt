@@ -2976,6 +2976,7 @@ equerries
 epicentre
 exonym
 elder
+endoergic
 echinorhynchus
 engraffing
 eyecup
@@ -6316,7 +6317,6 @@ epidemically
 elephantiases
 easting
 enharmonically
-endoergic
 ecophysiology
 enkidu
 eval
