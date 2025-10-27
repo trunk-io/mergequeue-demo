@@ -8603,7 +8603,6 @@ chandlers
 carrion
 crier
 circumadjacent
-chandui
 campagna
 centiares
 ceraunoscope
@@ -17816,6 +17815,7 @@ condemnate
 cockalan
 cocreate
 cocreating
+chandui
 corojo
 citation
 coralberry
