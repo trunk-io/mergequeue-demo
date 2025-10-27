@@ -1289,6 +1289,7 @@ eccrine
 entity
 eyrie
 ergotinine
+entalent
 eyelast
 edward
 entities
@@ -9076,7 +9077,6 @@ emigrations
 electrosurgeries
 eyestrain
 entrapments
-entalent
 exercitor
 endoradiosonde
 epitheca
