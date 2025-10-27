@@ -14087,6 +14087,7 @@ conamed
 corpse
 cistuses
 cartographies
+coerce
 cypressed
 conure
 contented
@@ -20948,7 +20949,6 @@ capacitors
 conspissate
 crotalus
 corespondents
-coerce
 conservations
 caudodorsal
 composant
