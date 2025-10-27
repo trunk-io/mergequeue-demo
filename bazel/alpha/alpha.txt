@@ -4161,6 +4161,7 @@ apposes
 adsorbent
 assassinist
 argentum
+afterpotential
 abadite
 ascription
 anaesthetizer
@@ -6115,7 +6116,6 @@ ago
 arms
 abhorrers
 analogism
-afterpotential
 achenodia
 ancipital
 autorhythmus
