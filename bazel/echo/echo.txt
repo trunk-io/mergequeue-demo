@@ -3891,6 +3891,7 @@ eudromias
 electrochronometer
 erinaceus
 equidistance
+echowise
 edgar
 eventuate
 elaborateness
@@ -6049,7 +6050,6 @@ eponymous
 enfin
 eximiously
 excessively
-echowise
 edginess
 efferents
 embraceably
