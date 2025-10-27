@@ -4379,7 +4379,6 @@ espringal
 estella
 efs
 externs
-exurbs
 ecosphere
 errable
 egested
@@ -13727,6 +13726,7 @@ excursionize
 ephebes
 exotisms
 ethylidene
+exurbs
 encomium
 equippers
 enamours
