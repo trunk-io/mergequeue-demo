@@ -6284,6 +6284,7 @@ dentin
 dispells
 detectors
 dermas
+druidic
 dermasurgery
 dermatotropic
 discursify
@@ -17165,7 +17166,6 @@ denization
 druthers
 digitoxose
 deacons
-druidic
 discourser
 drylots
 devocalising
