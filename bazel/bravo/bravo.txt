@@ -13426,7 +13426,6 @@ bestead
 blur
 blighters
 bloomkin
-beothuk
 brune
 burgoyne
 bauchle
@@ -17104,6 +17103,7 @@ bearder
 becudgeling
 beatably
 bonitos
+beothuk
 bebite
 blinkering
 bulgarian
