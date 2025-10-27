@@ -4484,7 +4484,6 @@ earthlier
 equate
 engiscope
 enarthrodia
-entasis
 epicanthus
 entailed
 euchysiderite
@@ -6643,6 +6642,7 @@ ecstasize
 enneagonal
 expectorations
 endaortic
+entasis
 enzymologies
 enterohydrocele
 epidermatoid
