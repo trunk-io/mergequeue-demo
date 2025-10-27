@@ -8597,7 +8597,6 @@ excelsin
 encommon
 entotympanic
 ex
-enchain
 eponymies
 entophytal
 encrinoidea
@@ -14037,6 +14036,7 @@ eventualities
 etheostominae
 enthrallingly
 efl
+enchain
 elocutionist
 exiguities
 esterase
