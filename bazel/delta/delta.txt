@@ -6580,7 +6580,6 @@ devotion
 dispossesses
 descendable
 dequeue
-dewclaws
 dif
 dumous
 depreciator
@@ -13397,6 +13396,7 @@ disincrustant
 discerns
 denting
 danegelt
+dewclaws
 daidly
 dodecaphonism
 dilettantist
