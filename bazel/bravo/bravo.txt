@@ -4279,7 +4279,6 @@ burros
 biophyte
 bierbalk
 bolt
-behemothic
 bulkiness
 batfowl
 beclogs
@@ -12711,6 +12710,7 @@ babirousa
 bandidos
 basicity
 blockheadishness
+behemothic
 bec
 brochures
 blurted
