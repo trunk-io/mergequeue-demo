@@ -27341,7 +27341,6 @@ counterstroke
 caddiced
 countersuit
 countersun
-chunder
 countersunken
 cava
 chrotta
@@ -29363,6 +29362,7 @@ cuban
 chirrupy
 cryptogamic
 cryptogamical
+chunder
 cryptogenic
 cass
 corrugations
