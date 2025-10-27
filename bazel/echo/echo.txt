@@ -2240,7 +2240,6 @@ evergreenery
 eddic
 effs
 echitamine
-epibenthic
 epithi
 elysian
 enduro
@@ -10141,6 +10140,7 @@ ecospecific
 exogens
 elegises
 ellipsograph
+epibenthic
 ethnopsychology
 extra
 eyases
