@@ -1562,7 +1562,6 @@ ampelite
 assoc
 aldermanship
 aecidial
-apometabolous
 agonothet
 awag
 anophthalmus
@@ -4768,6 +4767,7 @@ astrologer
 auxinic
 analogousness
 adead
+apometabolous
 araeostyle
 avery
 avail
