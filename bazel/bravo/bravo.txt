@@ -6311,7 +6311,6 @@ bankrupts
 bardic
 billhooks
 boarded
-bulletlike
 betrample
 barbarized
 benzothiazine
@@ -10617,6 +10616,7 @@ blats
 bewhore
 beflatter
 bogey
+bulletlike
 blenheim
 bandido
 bonging
