@@ -9476,6 +9476,7 @@ bathymetric
 blister
 boominess
 bowsman
+bepimples
 blennenteria
 berkshire
 belaites
@@ -12247,7 +12248,6 @@ bitsy
 binocs
 braystone
 blizzardly
-bepimples
 bolo
 bodword
 bicycling
