@@ -9325,7 +9325,6 @@ behaviourally
 bodger
 blasted
 bipods
-boatman
 bleaks
 benumbs
 behav
@@ -12077,6 +12076,7 @@ blockading
 bdrm
 bohemian
 bayoneting
+boatman
 battable
 buddh
 babble
