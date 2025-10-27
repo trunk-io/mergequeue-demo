@@ -15773,6 +15773,7 @@ contraption
 cannas
 copyholder
 cistron
+csect
 cordialness
 crankpins
 canephoros
@@ -29193,7 +29194,6 @@ cryobiological
 criobolium
 celestialness
 coilers
-csect
 canyons
 cotillons
 cryogeny
