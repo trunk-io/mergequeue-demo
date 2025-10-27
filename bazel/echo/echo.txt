@@ -246,7 +246,6 @@ erythematic
 endorsers
 exclamations
 enraged
-eq
 epiphanies
 evolves
 equalizing
@@ -637,7 +636,6 @@ edictal
 exorable
 eleusinion
 electrophoretogram
-encyc
 entier
 edestin
 enlock
@@ -3008,6 +3006,7 @@ eulogisation
 elaters
 epimer
 exclusivity
+endangium
 euspongia
 excrementous
 ella
@@ -5244,6 +5243,7 @@ ebenezer
 epidotes
 ecphrasis
 ethiopia
+eliot
 enmeshments
 ephemerous
 epigastrium
@@ -6514,6 +6514,7 @@ earthboard
 expensefulness
 epilepsy
 evilnesses
+epergne
 emenders
 excursionary
 encounter
@@ -7860,6 +7861,7 @@ encapsulate
 extrascripturality
 excoecaria
 elephas
+encyc
 elaboratory
 elbows
 estoppal
@@ -8098,7 +8100,6 @@ etiotropically
 electromotor
 europeanly
 euchlorophyceae
-endangium
 ecophobia
 explications
 endoubt
@@ -11791,7 +11792,6 @@ endocranium
 episcias
 exarticulate
 engorge
-eliot
 enmeshed
 excoriated
 epitympanum
@@ -11904,7 +11904,6 @@ excerpt
 electroanalysis
 elision
 encodement
-epergne
 ecumenicalism
 eugenols
 equilibrial
@@ -12244,6 +12243,7 @@ entranceway
 electromotograph
 erogenesis
 elflike
+eq
 einsteinium
 eastbound
 expurgating
