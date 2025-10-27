@@ -7278,7 +7278,6 @@ bagatelle
 ballistics
 birgus
 bevesseled
-barnstormers
 bennetweed
 betel
 baseboards
@@ -15213,6 +15212,7 @@ beswarming
 bornan
 brinjarry
 buceros
+barnstormers
 boullework
 blocs
 bivalvous
