@@ -12859,6 +12859,7 @@ chessboard
 combs
 churchgoers
 churchy
+ceroma
 churchyard
 cemeterial
 churchyards
@@ -18642,7 +18643,6 @@ coinfers
 cattleyak
 connateness
 collare
-ceroma
 caroused
 centrodesmose
 carmele
