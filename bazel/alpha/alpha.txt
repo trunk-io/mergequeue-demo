@@ -11705,7 +11705,6 @@ alarbus
 amphitryon
 asphaltic
 anematize
-artillery
 anoplanthus
 antitragi
 arrayal
@@ -19968,6 +19967,7 @@ aneurisms
 antiepithelial
 antivenom
 axiniform
+artillery
 allegiances
 autohemotherapy
 afforestation
