@@ -3645,7 +3645,6 @@ coassistance
 counterforce
 clouters
 carbineer
-categorem
 carburetor
 carbines
 countertenors
@@ -26260,6 +26259,7 @@ corned
 cosmopolitics
 cholecystectomy
 cosmopolitism
+categorem
 coplanarities
 collier
 cube
