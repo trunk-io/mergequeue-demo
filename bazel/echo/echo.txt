@@ -994,7 +994,6 @@ epanaphoral
 ephemerida
 etrenne
 exasper
-experimentator
 eructed
 eluates
 elayl
@@ -4713,6 +4712,7 @@ enchant
 exquisiteness
 eurymus
 explains
+experimentator
 extroversive
 enfeature
 executorial
