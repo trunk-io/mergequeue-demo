@@ -1349,7 +1349,6 @@ brachiocubital
 bellwaver
 bemuslined
 bbl
-boracic
 blastular
 barytes
 bioassaying
@@ -6415,6 +6414,7 @@ bugwort
 bemix
 bibliotaphe
 bombyx
+boracic
 bulkage
 brooky
 bestick

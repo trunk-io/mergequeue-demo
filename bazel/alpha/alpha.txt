@@ -501,6 +501,7 @@ abjurations
 abstractedness
 archfoe
 ammobium
+avellan
 amreetas
 amyosthenic
 abjurer
@@ -14616,7 +14617,6 @@ archaeologists
 atomics
 affixation
 acroterion
-avellan
 ascetical
 addedly
 arkansite
