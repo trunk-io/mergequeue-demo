@@ -219,6 +219,7 @@ brython
 bitt
 bubble
 bluffness
+basongo
 beworrying
 borderlight
 beefburgers
@@ -7313,7 +7314,6 @@ brave
 bobierrite
 bethorning
 breeziness
-basongo
 bromhidrosis
 ballat
 bezil
