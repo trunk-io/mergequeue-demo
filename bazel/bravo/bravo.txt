@@ -7609,7 +7609,6 @@ butat
 bedrocks
 basisphenoid
 bsh
-bathymetrically
 baobabs
 bewizard
 bakeout
@@ -12171,6 +12170,7 @@ bavette
 beeishness
 biberon
 barrelwise
+bathymetrically
 barred
 broker
 brusk
