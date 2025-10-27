@@ -1672,7 +1672,6 @@ deul
 daw
 dipsy
 datemark
-dorsocaudal
 dimanganion
 densen
 deamination
@@ -10735,6 +10734,7 @@ damming
 deoculate
 devolatilization
 distritbuting
+dorsocaudal
 deoxidate
 decayedness
 disgracious
