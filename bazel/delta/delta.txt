@@ -2575,6 +2575,7 @@ distractile
 drudgery
 drch
 dissensions
+diorism
 dirndl
 dhoolies
 dessertspoonfuls
@@ -10694,7 +10695,6 @@ duree
 defacements
 depectible
 docetically
-diorism
 descent
 decumbence
 desertful
