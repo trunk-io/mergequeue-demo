@@ -6217,6 +6217,7 @@ assuefaction
 antestature
 adenoblast
 aune
+anagenesis
 armigero
 activations
 americaward
@@ -10507,7 +10508,6 @@ allantoic
 acetonemia
 autolysis
 adventively
-anagenesis
 anallantoic
 allude
 amidoacetic
