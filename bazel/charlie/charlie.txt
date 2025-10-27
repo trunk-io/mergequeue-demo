@@ -2502,6 +2502,7 @@ cyclotrons
 chiseling
 cane
 cliffing
+cabbies
 canebrake
 careys
 cardioschisis
@@ -23849,7 +23850,6 @@ contrafissure
 contraflexure
 contragredience
 contragredient
-cabbies
 conceitedly
 chiasms
 convects

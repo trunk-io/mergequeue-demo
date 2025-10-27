@@ -1607,6 +1607,7 @@ embattle
 efficacy
 electrosmosis
 ennoic
+electrofusion
 electrolithotrity
 endopolyploidy
 erratical
@@ -12360,7 +12361,6 @@ economised
 eviscerations
 esonarthex
 enameler
-electrofusion
 ekphorias
 ebonige
 earths
