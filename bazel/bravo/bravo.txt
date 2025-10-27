@@ -8877,7 +8877,6 @@ breathier
 baragouinish
 bioclimatic
 bolis
-biglandular
 brushpopper
 blabber
 beshouted
@@ -12781,6 +12780,7 @@ bedumb
 batts
 blowzy
 bistros
+biglandular
 bunkery
 bullpup
 besmirched
