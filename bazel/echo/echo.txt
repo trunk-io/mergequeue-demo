@@ -1984,7 +1984,6 @@ electrocystoscope
 emeriti
 enterocyst
 echinid
-embays
 encrustation
 enworthed
 ergophile
@@ -13339,6 +13338,7 @@ efforce
 enrough
 erade
 elliptic
+embays
 encyclopaedias
 endocytotic
 extollation
