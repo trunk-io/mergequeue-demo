@@ -5451,6 +5451,7 @@ adarme
 avena
 atlatl
 antiwarlike
+antispast
 augustest
 acatastasia
 aceldama
@@ -22835,7 +22836,6 @@ archaeogeology
 athwartship
 ablating
 ahurewa
-antispast
 avicide
 aguroth
 arriccio
