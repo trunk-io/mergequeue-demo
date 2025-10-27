@@ -6377,7 +6377,6 @@ cypridinoid
 conchfish
 chorometry
 caution
-cerebromedullary
 calibogus
 cosinusoid
 canadol
@@ -9738,6 +9737,7 @@ charges
 cheilodipteridae
 conule
 calorimotor
+cerebromedullary
 critiquing
 chromesthesia
 cogitabundly
