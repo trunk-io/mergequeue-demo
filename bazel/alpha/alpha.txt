@@ -15046,7 +15046,6 @@ anticreeping
 anhydrite
 acker
 anticorrosive
-anteport
 accord
 atte
 asteroids
@@ -18230,6 +18229,7 @@ accumulate
 antidotically
 apoise
 appetitost
+anteport
 aquashow
 arthrodic
 aquarid
