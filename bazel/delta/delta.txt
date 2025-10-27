@@ -614,7 +614,6 @@ disrank
 devocalise
 disert
 dorsiventrality
-dodecaphonic
 ducdame
 daze
 dentalgia
@@ -8528,6 +8527,7 @@ dush
 diligence
 dystomous
 dehydrocorticosterone
+dodecaphonic
 deecodder
 domestically
 dogget
