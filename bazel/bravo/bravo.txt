@@ -10124,7 +10124,6 @@ bks
 butylenes
 burlesks
 boxfish
-bolus
 blabbered
 braggle
 badgerlike
@@ -13714,6 +13713,7 @@ brainworker
 bedazzle
 bankruptly
 bethuel
+bolus
 bool
 burritos
 bumpier
