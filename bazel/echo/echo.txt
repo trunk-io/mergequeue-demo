@@ -3293,7 +3293,6 @@ esoneural
 explored
 echelonment
 encephalotomy
-epitrichium
 emulations
 ennui
 estatesman
@@ -7679,6 +7678,7 @@ erased
 etherizer
 emeer
 excitative
+epitrichium
 eclogite
 epiplanktonic
 explicandum
