@@ -2156,7 +2156,6 @@ deinosaur
 dustcloth
 demiorbit
 dorrs
-dealfishes
 dorsula
 decarbonisation
 dissatisfactory
@@ -11052,6 +11051,7 @@ dookit
 dehydrogeniser
 doornail
 displumed
+dealfishes
 descensionist
 disprison
 defrayer
