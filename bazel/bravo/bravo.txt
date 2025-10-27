@@ -1494,6 +1494,7 @@ bioactivities
 berley
 bewared
 biosphere
+bierstuben
 bearer
 balli
 brassworks
@@ -15433,7 +15434,6 @@ boarders
 brandiron
 bulletproof
 beatles
-bierstuben
 bear
 builtin
 bombonne
