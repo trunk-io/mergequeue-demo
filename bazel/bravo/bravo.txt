@@ -1557,7 +1557,6 @@ blackeye
 beater
 balloonflower
 benempt
-barcone
 blahs
 burghs
 biloquist
@@ -15724,6 +15723,7 @@ bantling
 benzalhydrazine
 bonus
 bacteriosis
+barcone
 belgians
 bisulcated
 beethoven
