@@ -2679,7 +2679,6 @@ elementalistic
 entoblast
 expeditions
 ensures
-exactitude
 engagedness
 exceptiousness
 ephori
@@ -13965,6 +13964,7 @@ encratism
 endosteal
 elecampane
 exulcerated
+exactitude
 esthesioneurosis
 echinus
 effluvial
