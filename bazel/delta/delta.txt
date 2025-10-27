@@ -5369,7 +5369,6 @@ downslip
 datos
 danainae
 desoxyribonucleoprotein
-dorsoventral
 defrocks
 dojos
 defailance
@@ -11677,6 +11676,7 @@ designating
 deforcing
 disulphonate
 discordable
+dorsoventral
 deteriorative
 deregulating
 dependents
