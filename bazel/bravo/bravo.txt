@@ -2046,7 +2046,6 @@ bridgetree
 bestrid
 bowpot
 brickbats
-behammer
 bathyal
 bluebonnet
 blunges
@@ -11197,6 +11196,7 @@ bellow
 bushmaster
 brawler
 bribee
+behammer
 bunglesome
 bedfellows
 butcherless
