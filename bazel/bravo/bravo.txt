@@ -4678,7 +4678,6 @@ beslings
 beng
 bronzen
 benedicite
-biconnected
 beeball
 bambinos
 bikh
@@ -15803,6 +15802,7 @@ butterier
 brocatello
 berdaches
 basilian
+biconnected
 burdocks
 biternately
 batete
