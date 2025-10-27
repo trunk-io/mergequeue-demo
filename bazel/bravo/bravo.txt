@@ -14698,7 +14698,6 @@ begrutch
 battlement
 baptizer
 brantails
-bicyclo
 bedsit
 bauera
 bikers
@@ -16788,6 +16787,7 @@ bellhop
 balita
 bromellite
 botrychium
+bicyclo
 bawdstrot
 bagpipe
 beclasps
