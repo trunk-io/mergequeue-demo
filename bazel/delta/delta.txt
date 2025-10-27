@@ -864,7 +864,6 @@ drivel
 decahydrate
 diatomaceae
 disamis
-determinantal
 downslide
 dovecot
 dorsoanterior
@@ -6696,6 +6695,7 @@ dunting
 dentello
 depreciate
 demythologizes
+determinantal
 direness
 dryope
 dancalite
