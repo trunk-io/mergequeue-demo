@@ -2545,6 +2545,7 @@ entreatable
 etherion
 evictor
 enventual
+effervesce
 elative
 esophagism
 ensilation
@@ -8424,7 +8425,6 @@ effuviate
 equiaxed
 equicontinuous
 endotoxic
-effervesce
 extracloacal
 endokaryogamy
 elucidating
