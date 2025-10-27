@@ -5810,7 +5810,6 @@ beebread
 biggety
 beadiest
 beneficiaire
-benefactors
 baccilla
 beggiatoa
 bet
@@ -11884,6 +11883,7 @@ bod
 begaud
 birdie
 bromonaphthalene
+benefactors
 ballant
 babel
 benthopelagic
