@@ -25098,7 +25098,6 @@ cardiotomy
 cylinderlike
 condoled
 circumcincture
-componentwise
 combfishes
 crasis
 cottonian
@@ -30725,6 +30724,7 @@ cuirassier
 classical
 ceral
 chondrosin
+componentwise
 counterintrigue
 camooch
 cangle
