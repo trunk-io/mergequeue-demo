@@ -3248,7 +3248,6 @@ emarginate
 equivocations
 envelopment
 extemporaneously
-entrecotes
 expo
 embusy
 exoerythrocytic
@@ -7444,6 +7443,7 @@ entitule
 eolipiles
 epicoracoid
 eyeglance
+entrecotes
 encharge
 euchrone
 expendable
