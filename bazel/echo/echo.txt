@@ -6884,7 +6884,6 @@ evergreens
 enlister
 enddamage
 epipodia
-epaule
 erminois
 ensurer
 error
@@ -10213,6 +10212,7 @@ etherous
 entocoele
 educative
 extricate
+epaule
 entomion
 eigenstate
 exfoliative
