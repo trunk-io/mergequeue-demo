@@ -1635,7 +1635,6 @@ estivation
 eyepiece
 epitaxis
 embankments
-estall
 elains
 egrid
 epitrochoid
@@ -7603,6 +7602,7 @@ edge
 exopterygotous
 exuviation
 electrophorese
+estall
 erepsin
 embuskin
 enterprised
