@@ -4331,7 +4331,6 @@ enantiomorph
 eyesore
 epistolary
 elemi
-ethopoeia
 enarched
 enarme
 encephalomyelopathy
@@ -12280,6 +12279,7 @@ embound
 erasable
 erotized
 electrocapillarity
+ethopoeia
 eldritch
 entone
 enticement
