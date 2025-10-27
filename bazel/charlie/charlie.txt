@@ -13250,7 +13250,6 @@ cycles
 cyclically
 concretism
 chumble
-carthorse
 creamery
 cubeb
 characterized
@@ -29893,6 +29892,7 @@ cleverest
 coheads
 consult
 cogwheel
+carthorse
 caneton
 cabins
 coadjutator
