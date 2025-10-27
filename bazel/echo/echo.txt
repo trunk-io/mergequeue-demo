@@ -3553,7 +3553,6 @@ ectocuniform
 enoplan
 epicele
 enskies
-encenter
 exemplifies
 exoenzymic
 eleutheromania
@@ -8406,6 +8405,7 @@ euryhaline
 eurytropic
 electrocataphoretic
 energetistic
+encenter
 epencephalic
 enzone
 enantiopathy
