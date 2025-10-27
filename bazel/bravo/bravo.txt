@@ -10209,6 +10209,7 @@ backwashes
 becurses
 bernoo
 blunderings
+byelaw
 beforesaid
 bicipital
 blacketeer
@@ -14754,7 +14755,6 @@ brasse
 boultel
 bennis
 bephilter
-byelaw
 basketful
 balladier
 brans
