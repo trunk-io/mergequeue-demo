@@ -5542,7 +5542,6 @@ electrorefine
 erastian
 equidivision
 escolar
-ennoblement
 encephaloma
 entheos
 economise
@@ -6610,6 +6609,7 @@ epicycle
 exurbia
 epimorpha
 exedrae
+ennoblement
 elachistaceae
 exponentiates
 equicellular
