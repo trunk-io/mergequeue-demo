@@ -4754,7 +4754,6 @@ carryouts
 coachable
 crewmen
 crosshatched
-carritches
 coenomonoecism
 credulously
 colleagued
@@ -17833,6 +17832,7 @@ campbellism
 cameos
 coct
 cardholder
+carritches
 caimans
 coction
 combinatorics
