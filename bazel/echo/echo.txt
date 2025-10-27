@@ -2881,7 +2881,6 @@ episedia
 equal
 eligibles
 epauliere
-euhemerism
 extend
 enseated
 eukairite
@@ -6386,6 +6385,7 @@ ethaldehyde
 ecgonine
 eyemark
 ethnically
+euhemerism
 expertness
 erthling
 erysiphaceae
