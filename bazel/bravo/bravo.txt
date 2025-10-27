@@ -2894,6 +2894,7 @@ barren
 byproduct
 bagroom
 barrets
+bulgarians
 blindeyes
 britany
 blobby
@@ -6452,7 +6453,6 @@ babassu
 buckeyes
 bollock
 binate
-bulgarians
 bullyrag
 brilliancy
 balsamorrhiza
