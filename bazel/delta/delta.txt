@@ -2786,6 +2786,7 @@ depicters
 desynapsis
 drawlatch
 discarded
+decelerometer
 disenclose
 decastellate
 drossiest
@@ -17254,7 +17255,6 @@ deaccession
 decanol
 discerping
 demiassignation
-decelerometer
 dipodic
 dotted
 drolleries
