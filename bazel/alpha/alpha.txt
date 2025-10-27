@@ -1559,7 +1559,6 @@ adjourn
 arthralgic
 augustan
 ampelite
-assoc
 aldermanship
 aecidial
 apometabolous
@@ -1729,6 +1728,7 @@ amin
 avantage
 arteriotomy
 arseniosiderite
+assoc
 antiketogenesis
 actuators
 appliableness
