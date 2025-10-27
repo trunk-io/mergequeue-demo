@@ -2174,7 +2174,6 @@ decommissions
 dragees
 dragonets
 designers
-dandelion
 delivering
 deuniting
 demogorgon
@@ -13535,6 +13534,7 @@ delighting
 dorcas
 differentiates
 discriminative
+dandelion
 dramaturgic
 disdub
 ducal
