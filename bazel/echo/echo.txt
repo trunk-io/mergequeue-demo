@@ -10459,7 +10459,6 @@ evenworthy
 eveque
 endfile
 epipubes
-eastermost
 embryol
 englishry
 ethiopic
@@ -13746,6 +13745,7 @@ extrasomatic
 epicoelia
 estoc
 energise
+eastermost
 expressness
 extumescence
 evilly
