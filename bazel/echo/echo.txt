@@ -1537,6 +1537,7 @@ etherlike
 eruction
 epicenter
 euphemy
+entosphere
 exosporous
 enneacontahedron
 euchlorine
@@ -5494,7 +5495,6 @@ eschatocol
 epigne
 energesis
 epidia
-entosphere
 embargo
 expwy
 exolve
