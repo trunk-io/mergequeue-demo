@@ -2324,7 +2324,6 @@ expensed
 excoriate
 engrosser
 eident
-ebonist
 exsiccant
 expressiveness
 elastomers
@@ -13505,6 +13504,7 @@ enquarter
 encomimia
 ensteel
 eusol
+ebonist
 exponentiated
 erron
 eden
