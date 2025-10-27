@@ -2748,7 +2748,6 @@ enfolder
 embase
 eunicid
 exsiccated
-electrophysicist
 evolutionary
 enterotomy
 eleutherios
@@ -13308,6 +13307,7 @@ equibalanced
 exorbitance
 epithelioblastoma
 ecthymatous
+electrophysicist
 etiolate
 echoer
 eggfish
