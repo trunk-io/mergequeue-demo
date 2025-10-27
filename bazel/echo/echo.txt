@@ -1372,7 +1372,6 @@ eddy
 endeign
 emissaria
 escars
-excavating
 electrocutes
 evacuator
 emeline
@@ -11405,6 +11404,7 @@ ephebeum
 emundation
 emancipatress
 engineered
+excavating
 exactors
 evaluations
 elasmobranchian
