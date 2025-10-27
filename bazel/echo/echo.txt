@@ -1621,6 +1621,7 @@ embattle
 efficacy
 eds
 electrosmosis
+equispatial
 electability
 ennoic
 electrofusion
@@ -12205,7 +12206,6 @@ evaporite
 epimyth
 emulsible
 enwrap
-equispatial
 excretitious
 enemies
 epiphegus
