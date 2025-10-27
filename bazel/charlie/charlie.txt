@@ -4841,7 +4841,6 @@ crimeproof
 costars
 cavaliero
 crusile
-clown
 carters
 carthame
 cinnamate
@@ -6107,6 +6106,7 @@ cochairmanship
 centrifuging
 celiotomy
 coxswain
+clown
 clathraceous
 corrobori
 countercurrent
