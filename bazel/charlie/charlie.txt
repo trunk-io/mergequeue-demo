@@ -1501,7 +1501,6 @@ calliphoridae
 callisaurus
 callisteia
 callistephus
-cossid
 cenotaphic
 charactering
 cynanche
@@ -1950,6 +1949,7 @@ consolers
 camion
 camions
 conusee
+cossid
 coarsely
 caboceer
 clatch
