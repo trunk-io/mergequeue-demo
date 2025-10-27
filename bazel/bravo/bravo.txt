@@ -1438,6 +1438,7 @@ bipacks
 bimedial
 barbules
 bais
+badmouth
 blaugas
 backboards
 brighter
@@ -6643,7 +6644,6 @@ babhan
 baret
 boggart
 bossing
-badmouth
 balsamize
 bechalks
 beshrouding
