@@ -3356,7 +3356,6 @@ discoverers
 divines
 dawsonia
 dovefoot
-dithionate
 dosology
 disaccustom
 defected
@@ -14702,6 +14701,7 @@ detained
 diduce
 disbelieving
 doc
+dithionate
 dietaries
 decoagulate
 deskill
