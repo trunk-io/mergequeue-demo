@@ -2600,6 +2600,7 @@ believingly
 beggardom
 busynesses
 barghest
+biogas
 baccara
 beachier
 backlins
@@ -7380,7 +7381,6 @@ bazars
 bakeware
 boxmaking
 biogeography
-biogas
 bimarginate
 bearhide
 betread
