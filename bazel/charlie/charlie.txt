@@ -5641,6 +5641,7 @@ codfisheries
 cynoscion
 consomme
 commation
+chronique
 catchpoll
 capsulorrhaphy
 catchweight
@@ -12597,7 +12598,6 @@ chequeen
 chimer
 crocuta
 craddy
-chronique
 cuneiform
 cytost
 calandra
