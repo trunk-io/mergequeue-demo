@@ -2915,6 +2915,7 @@ countergager
 cantoral
 cardsharps
 centauri
+camisias
 cantraip
 cantraps
 coinsurance
@@ -13438,7 +13439,6 @@ catchplate
 cohibitive
 cavekeeper
 cyclotomic
-camisias
 cyclotomies
 conquassate
 coconino
