@@ -7017,7 +7017,6 @@ centauromachy
 constringent
 circumparallelogram
 choledochostomy
-cymbiform
 centennia
 controllable
 captionless
@@ -16883,6 +16882,7 @@ clubfoot
 counterplot
 credenda
 clubfooted
+cymbiform
 couth
 cerebralgia
 cacidrosis
