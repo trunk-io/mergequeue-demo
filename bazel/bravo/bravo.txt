@@ -2687,7 +2687,6 @@ bardiest
 besetters
 battens
 bard
-biologically
 balancer
 berninesque
 buttoned
@@ -3790,6 +3789,7 @@ beckoners
 brachistocephalous
 bibitory
 burster
+biologically
 befoul
 barbeiro
 bradypode
