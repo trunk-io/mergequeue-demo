@@ -19721,6 +19721,7 @@ assortments
 anatomists
 anthracomartus
 adlay
+annulate
 ambulating
 apickpack
 aluminite
@@ -22887,7 +22888,6 @@ apropos
 archaeol
 algoesthesiometer
 antiroll
-annulate
 ammonolyses
 acuclosure
 aristocraticness
