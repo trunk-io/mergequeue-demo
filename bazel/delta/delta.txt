@@ -6402,7 +6402,6 @@ dooputty
 dephlegmatory
 decree
 dilection
-dermatoneural
 damner
 dreint
 disboweled
@@ -10639,6 +10638,7 @@ damask
 discolith
 demogenic
 disaster
+dermatoneural
 deplete
 disobliging
 depraving
