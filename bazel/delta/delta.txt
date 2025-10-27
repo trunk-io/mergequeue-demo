@@ -270,6 +270,7 @@ dayshine
 decameters
 doubleprecision
 deteriorates
+disrepair
 deleerit
 dragman
 drinking
@@ -5761,7 +5762,6 @@ dupondii
 degerms
 dihydride
 deplorability
-disrepair
 dodrans
 drabbed
 dissimilarly
