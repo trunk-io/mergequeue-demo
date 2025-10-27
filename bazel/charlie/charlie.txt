@@ -1860,6 +1860,7 @@ cuvy
 cambresine
 collectorate
 coburghership
+craftmanship
 cartonnage
 cambricleaf
 curbstone
@@ -25206,7 +25207,6 @@ cleading
 cordoned
 cacotrophy
 conglutinate
-craftmanship
 circumgestation
 carton
 costiferous
