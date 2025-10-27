@@ -1719,7 +1719,6 @@ beeriest
 beeware
 blattoid
 begladding
-busyish
 bonifaces
 betangle
 bepurple
@@ -10972,6 +10971,7 @@ burrawang
 bivalve
 brighid
 batement
+busyish
 biblioklept
 backfiller
 bandh
