@@ -2961,6 +2961,7 @@ epicentre
 exonym
 elder
 endoergic
+expire
 echinorhynchus
 engraffing
 eyecup
@@ -13937,7 +13938,6 @@ etheria
 escherichia
 entrust
 ermanaric
-expire
 erringly
 educatable
 enantiomeric
