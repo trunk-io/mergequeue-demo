@@ -1311,6 +1311,7 @@ epenla
 entosthoblast
 enfarce
 enclasp
+emphasis
 electrotyper
 extraventricular
 entry
@@ -9719,7 +9720,6 @@ electrocoagulation
 epiderma
 epacridaceous
 encumbrance
-emphasis
 evacuee
 expendables
 epizoites
