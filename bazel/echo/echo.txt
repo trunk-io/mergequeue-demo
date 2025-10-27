@@ -9186,6 +9186,7 @@ ephemeron
 exoticity
 ecdysones
 extermining
+eavesdropper
 environs
 elope
 emane
@@ -12624,7 +12625,6 @@ ecclesiasticus
 eidos
 eryngo
 ectally
-eavesdropper
 electrotherapy
 embira
 experimentation
