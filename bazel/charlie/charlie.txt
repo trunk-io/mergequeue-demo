@@ -2452,6 +2452,7 @@ candlemaker
 candlemas
 chronothermal
 cruelness
+catabases
 childproof
 crownet
 canvasers
@@ -5376,7 +5377,6 @@ casus
 clanks
 commander
 curatorial
-catabases
 cockroach
 cosmographer
 catabasis
