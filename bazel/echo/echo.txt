@@ -3597,7 +3597,6 @@ enherit
 epiplankton
 eteocretes
 erelong
-equability
 epimorphism
 edibles
 earlet
@@ -9016,6 +9015,7 @@ encyclopedian
 enchannel
 eglamore
 epitaxially
+equability
 ethnarch
 euphoria
 echidna
