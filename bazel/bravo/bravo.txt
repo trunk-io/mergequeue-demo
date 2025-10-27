@@ -2323,7 +2323,6 @@ boing
 bazookaman
 baptistries
 basketries
-batocrinus
 bubbletops
 barterer
 brazilwood
@@ -12547,6 +12546,7 @@ bloodshot
 brails
 baleys
 brontogram
+batocrinus
 balalaika
 bacharach
 bonnyvis
