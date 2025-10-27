@@ -12368,7 +12368,6 @@ assembler
 archetypes
 andragogy
 athabascan
-apometaboly
 apiologies
 availabile
 artinesses
@@ -17802,6 +17801,7 @@ apically
 actinometer
 attempted
 anthrone
+apometaboly
 agglomerative
 amelanchier
 arthra
