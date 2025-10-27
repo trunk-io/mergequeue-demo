@@ -15607,7 +15607,6 @@ archbishopric
 avocation
 arche
 auricularia
-atlantosaurus
 astrosphere
 auscultates
 anaglypta
@@ -20595,6 +20594,7 @@ animadversions
 adjudgeable
 adipous
 augments
+atlantosaurus
 alkines
 aspiquee
 animala
