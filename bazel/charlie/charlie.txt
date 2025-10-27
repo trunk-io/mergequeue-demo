@@ -26,7 +26,6 @@ cineols
 causable
 corkboard
 chromas
-caballero
 caballo
 collectibles
 candleberries
@@ -14116,6 +14115,7 @@ coerce
 cypressed
 costiveness
 conure
+caballero
 contented
 crosswiseness
 cervicovaginal
