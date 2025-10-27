@@ -2838,7 +2838,6 @@ belltopperdom
 brocolis
 bilocation
 broadcasts
-blastophore
 behither
 bandit
 baneberries
@@ -14905,6 +14904,7 @@ bottomless
 basipterygoid
 belemnid
 bergy
+blastophore
 bibliographic
 birken
 bravadoed
