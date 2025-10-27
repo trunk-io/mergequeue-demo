@@ -2820,7 +2820,6 @@ beguilements
 battues
 boundary
 boehmenite
-branchiopodous
 bisquette
 blastule
 bookit
@@ -17025,6 +17024,7 @@ blasphemer
 blepharotomy
 buddhic
 barytones
+branchiopodous
 brainpans
 broomroot
 brideship
