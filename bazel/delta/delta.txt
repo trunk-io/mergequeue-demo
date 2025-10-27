@@ -10072,6 +10072,7 @@ disweapon
 dicyanid
 ducting
 dimastigate
+dermatoneural
 divergences
 diarsenide
 departmentalized
@@ -10642,7 +10643,6 @@ damask
 discolith
 demogenic
 disaster
-dermatoneural
 deplete
 disobliging
 depraving
