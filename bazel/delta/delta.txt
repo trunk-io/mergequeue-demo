@@ -1938,6 +1938,7 @@ detecter
 directional
 duggler
 dedans
+dysgenics
 downligging
 depetticoat
 droplets
@@ -10710,7 +10711,6 @@ ditchdigging
 dreadlocks
 desktop
 dissettle
-dysgenics
 decerebrize
 dechlorination
 deathwatches
