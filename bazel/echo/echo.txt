@@ -5060,7 +5060,6 @@ externalised
 exchangee
 eyr
 evades
-extendible
 endotys
 emeus
 emphases
@@ -12334,6 +12333,7 @@ engramma
 easts
 enterolith
 epsilon
+extendible
 endamebas
 endotheliolysin
 epitympanic
