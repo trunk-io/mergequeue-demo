@@ -387,6 +387,7 @@ blessings
 battleful
 brocatel
 belays
+bajan
 beltie
 baga
 barnyards
@@ -6836,7 +6837,6 @@ burger
 brownback
 biparasitic
 bushranger
-bajan
 beginners
 boldheartedness
 bedamp
