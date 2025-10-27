@@ -2329,6 +2329,7 @@ brahminic
 bluetick
 blackthorn
 bridale
+beadlet
 bellehood
 boing
 bazookaman
@@ -17808,7 +17809,6 @@ burrows
 bradsot
 burrstone
 bude
-beadlet
 blepharoceridae
 beardfish
 bullwort
