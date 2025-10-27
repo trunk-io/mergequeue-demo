@@ -5351,7 +5351,6 @@ bechamel
 ballaster
 battlestead
 bonefishes
-batteners
 bootid
 bombax
 bandusian
@@ -11061,6 +11060,7 @@ benzoylate
 barbated
 bidentalia
 blanking
+batteners
 billposting
 baldpate
 bestowing
