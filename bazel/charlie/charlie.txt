@@ -7012,7 +7012,6 @@ checkline
 corpuscularity
 codons
 constructure
-compasser
 centauromachy
 constringent
 circumparallelogram
@@ -19526,6 +19525,7 @@ carnic
 consecutiveness
 copopoda
 cerealose
+compasser
 coypou
 choirmaster
 cutose
