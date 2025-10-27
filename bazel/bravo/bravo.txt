@@ -5660,7 +5660,6 @@ bromometry
 boddagh
 borscht
 bitolyl
-boxcar
 banded
 barked
 bouillone
@@ -12142,6 +12141,7 @@ boatmaster
 bulbilla
 baltetei
 breadfruit
+boxcar
 bootable
 bumpology
 benztrioxazine
