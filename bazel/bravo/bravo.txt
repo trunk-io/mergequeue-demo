@@ -10189,7 +10189,6 @@ becurses
 bernoo
 blunderings
 beforesaid
-batidaceae
 bicipital
 blacketeer
 biophysic
@@ -17724,6 +17723,7 @@ brubru
 blattoidea
 bonifaces
 boilerplate
+batidaceae
 benzilic
 bobbin
 burned
