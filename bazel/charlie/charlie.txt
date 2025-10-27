@@ -6269,7 +6269,6 @@ captandum
 caupo
 cephala
 calvin
-cetiosauria
 caus
 carissa
 charadriiformes
@@ -27611,6 +27610,7 @@ coffeehoused
 cladoselache
 cogs
 cacothelin
+cetiosauria
 countercolored
 chivalrousness
 cacesthesis
