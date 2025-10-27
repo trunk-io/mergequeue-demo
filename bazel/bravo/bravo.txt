@@ -602,6 +602,7 @@ bulblet
 bedrugging
 bloomage
 baconweed
+bahadur
 browner
 bacteremic
 brooched
@@ -5633,7 +5634,6 @@ bellbird
 bonier
 bourbonesque
 bobstay
-bahadur
 bulbochaete
 burgau
 borghi
