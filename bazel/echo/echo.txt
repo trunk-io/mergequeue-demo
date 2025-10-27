@@ -5275,7 +5275,6 @@ ensample
 exposit
 essentialization
 encyclopaedist
-endsheet
 epeeists
 extubation
 embruting
@@ -8946,6 +8945,7 @@ elocutionize
 ecraseurs
 extusion
 ectopic
+endsheet
 elapid
 eireannach
 etching
