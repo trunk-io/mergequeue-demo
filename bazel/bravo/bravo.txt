@@ -2590,7 +2590,6 @@ broadsword
 bismuthite
 bitewing
 bedell
-bardelle
 belyingly
 bouncer
 bringing
@@ -5664,6 +5663,7 @@ barked
 bouillone
 boatmaster
 blackmailing
+bardelle
 blasty
 bosomed
 beshell
