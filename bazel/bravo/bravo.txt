@@ -7587,7 +7587,6 @@ buxomest
 buffont
 befall
 balmorals
-bowmen
 bounder
 bellyflaught
 bashlyk
@@ -8010,6 +8009,7 @@ beancod
 bicyclist
 brewage
 boilermaker
+bowmen
 bonnetiere
 bacterioscopy
 bogijiab
