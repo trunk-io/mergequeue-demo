@@ -2813,7 +2813,6 @@ beguilements
 battues
 boundary
 boehmenite
-bisquette
 blastule
 bookit
 bitterbump
@@ -15037,6 +15036,7 @@ bunk
 baselard
 beatrice
 bulimias
+bisquette
 bioassays
 bromelia
 ballium
