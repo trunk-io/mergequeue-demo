@@ -7240,7 +7240,6 @@ blowie
 bemock
 biforine
 belick
-bombsights
 bubblies
 bobotee
 beleapt
@@ -10091,6 +10090,7 @@ bizel
 brings
 backfired
 backwatered
+bombsights
 blackfins
 bowldering
 bisabol
