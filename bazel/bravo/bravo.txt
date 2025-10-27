@@ -10296,6 +10296,7 @@ brontops
 bromination
 bayonets
 beanweed
+blowtorch
 blennuria
 brayette
 besmuts
@@ -17772,7 +17773,6 @@ boilerman
 blepharoadenoma
 bottommost
 brucellae
-blowtorch
 beggarman
 bromochloromethane
 balaenoid
