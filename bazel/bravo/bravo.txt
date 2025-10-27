@@ -3427,7 +3427,6 @@ byronesque
 byroads
 basichromatinic
 bals
-barrel
 bonagh
 beerocracy
 blattariae
@@ -5404,6 +5403,7 @@ bandoline
 bodacious
 bilanders
 balaenoidean
+barrel
 blind
 becrimed
 bemurmured
