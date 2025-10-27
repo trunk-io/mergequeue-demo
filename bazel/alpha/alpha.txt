@@ -5095,6 +5095,7 @@ affinitive
 aglee
 aprendiz
 amuguis
+awrong
 anagalactic
 aplysia
 assisan
@@ -25119,7 +25120,6 @@ apricate
 ascaricidal
 acapnia
 alkylating
-awrong
 aspheterize
 axebreaker
 antoeci
