@@ -742,6 +742,7 @@ exhales
 enwrite
 enunciatively
 expander
+engarb
 elatine
 ethnomanic
 ergative
@@ -11999,7 +12000,6 @@ exacter
 expellee
 emceed
 elude
-engarb
 epineural
 expirate
 electroculture
