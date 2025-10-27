@@ -636,7 +636,6 @@ edictal
 exorable
 eleusinion
 electrophoretogram
-encyc
 entier
 edestin
 enlock
@@ -7858,6 +7857,7 @@ encapsulate
 extrascripturality
 excoecaria
 elephas
+encyc
 elaboratory
 elbows
 estoppal
