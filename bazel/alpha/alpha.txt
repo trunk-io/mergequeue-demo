@@ -3205,7 +3205,6 @@ aftmost
 albetad
 archdiocese
 alytes
-absoluter
 ankou
 aliased
 afterroll
@@ -18272,6 +18271,7 @@ almost
 attaste
 aeonic
 acanthopore
+absoluter
 acanthotic
 aquilinity
 accoutre
