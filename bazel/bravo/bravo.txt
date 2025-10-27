@@ -835,6 +835,7 @@ boon
 baggala
 beckets
 beshouts
+bangling
 badmash
 broiden
 bijouterie
@@ -7989,7 +7990,6 @@ beclip
 beancod
 bicyclist
 brewage
-bangling
 boilermaker
 bonnetiere
 bacterioscopy
