@@ -40,7 +40,6 @@ boardable
 bronchoconstrictor
 broomwort
 beseech
-bidar
 barroom
 babbittry
 beseems
@@ -15740,6 +15739,7 @@ bloomsbury
 braggiest
 bankruptship
 blackguardism
+bidar
 balk
 bepuzzlement
 butanolide
