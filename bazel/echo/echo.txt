@@ -3189,6 +3189,7 @@ errors
 exclusion
 entablature
 emperize
+epitomizer
 expectorator
 entertain
 ecclesiologic
@@ -4579,7 +4580,6 @@ embellished
 exercised
 enamorate
 epilated
-epitomizer
 externalism
 extendability
 echovirus
