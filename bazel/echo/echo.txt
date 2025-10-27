@@ -2747,7 +2747,6 @@ embase
 eunicid
 exsiccated
 electrophysicist
-emasculator
 evolutionary
 enterotomy
 eleutherios
@@ -9435,6 +9434,7 @@ encense
 espartos
 escambron
 entad
+emasculator
 epiphytotic
 eulogiums
 exiled
