@@ -15731,6 +15731,7 @@ drawknot
 didactive
 diamagnetometer
 dogstone
+datil
 dartlike
 disformity
 danebrog
@@ -17647,7 +17648,6 @@ dalmatians
 deprecate
 denaturalization
 dammaret
-datil
 dinophilea
 deave
 dilatometry
