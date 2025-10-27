@@ -2293,6 +2293,7 @@ extends
 elects
 exorcise
 emplacement
+eniac
 egocerus
 entrepreneurship
 epilimnion
@@ -6992,7 +6993,6 @@ extraperiosteal
 engineer
 enrolment
 enepidermic
-eniac
 entreaties
 estheses
 enhancive
