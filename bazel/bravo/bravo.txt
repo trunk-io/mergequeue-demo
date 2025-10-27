@@ -10521,7 +10521,6 @@ bishopship
 broadways
 benim
 bracery
-bargeboard
 boldoine
 beatify
 benniseed
@@ -11612,6 +11611,7 @@ bibliopegist
 breadnut
 botanophilist
 britzskas
+bargeboard
 besort
 bossage
 borderers
