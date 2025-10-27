@@ -1355,6 +1355,7 @@ epics
 equalable
 equations
 eutrophication
+entrecote
 eyespots
 efoliose
 efts
@@ -7058,7 +7059,6 @@ echt
 epitrichial
 edgiest
 edriophthalmous
-entrecote
 endocolitis
 educatedness
 elapids
