@@ -9246,7 +9246,6 @@ biblist
 bever
 backbiters
 batussi
-barretors
 bayong
 boatbuilder
 biosynthesize
@@ -10095,6 +10094,7 @@ bayadeers
 branchiostegidae
 bribegiver
 bewhiskered
+barretors
 bridecup
 bowfins
 bosun
