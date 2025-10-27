@@ -776,6 +776,7 @@ expertized
 extern
 eyne
 eusebian
+expurge
 ectoparasitica
 ergotisms
 elle
@@ -11504,7 +11505,6 @@ enform
 eupraxia
 experimenting
 ectopia
-expurge
 egyptianization
 etape
 eudorina
