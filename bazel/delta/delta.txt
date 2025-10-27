@@ -2517,6 +2517,7 @@ doby
 disaproned
 daywork
 dowless
+damageable
 dubbeh
 discriminatory
 defaultless
@@ -5437,7 +5438,6 @@ donnees
 dorsodynia
 demikindred
 displacency
-damageable
 dorsulum
 detray
 decarboxylize
