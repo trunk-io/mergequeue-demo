@@ -2359,7 +2359,6 @@ bemoisten
 besplash
 bunnies
 bourre
-bladesmith
 blahlaut
 bardcraft
 boucherize
@@ -11269,6 +11268,7 @@ bridgeable
 benzanilide
 burez
 blazes
+bladesmith
 blasts
 bygones
 bearcoot
