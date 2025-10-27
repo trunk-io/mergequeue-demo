@@ -6702,7 +6702,6 @@ banjore
 boatloader
 berthas
 bergfall
-bacchants
 boteler
 bismuthinite
 bookstand
@@ -15577,6 +15576,7 @@ brodeglass
 broomstaff
 berhyme
 braggishly
+bacchants
 barasingha
 bevvy
 baldachino
