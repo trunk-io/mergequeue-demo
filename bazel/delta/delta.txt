@@ -6956,6 +6956,7 @@ drammage
 desmine
 darking
 downcomes
+deicing
 dethrone
 discourteousness
 desmoids
@@ -8835,7 +8836,6 @@ domed
 distracted
 ditone
 diapalma
-deicing
 devoured
 dispersoidological
 dyassic
