@@ -15086,6 +15086,7 @@ countercondemnation
 civilises
 cipollino
 cogenial
+cleanable
 civilizable
 charabancer
 cps
@@ -29341,7 +29342,6 @@ cair
 caudaite
 calcify
 carosella
-cleanable
 circulators
 chymified
 counterdemonstration
