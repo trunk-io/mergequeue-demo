@@ -1359,7 +1359,6 @@ epics
 equalable
 equations
 eutrophication
-entasias
 eyespots
 efoliose
 efts
@@ -6771,6 +6770,7 @@ elvira
 epiperipheral
 empanelled
 enfaces
+entasias
 embryotegae
 ermit
 effusely
