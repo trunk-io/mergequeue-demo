@@ -3347,6 +3347,7 @@ bastilles
 buggymen
 bastings
 bedsock
+belzebub
 bomble
 blendure
 begift
@@ -13020,7 +13021,6 @@ blundering
 brended
 bused
 bestock
-belzebub
 befallen
 beaume
 blanco
