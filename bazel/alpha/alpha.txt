@@ -344,6 +344,7 @@ armomancy
 anisospore
 aspergillosis
 alsinaceae
+artotype
 abelian
 antepirrhema
 alebush
@@ -17870,7 +17871,6 @@ aerocharidae
 aleuron
 acronyctous
 autoproteolysis
-artotype
 applicative
 aworth
 applicatively
