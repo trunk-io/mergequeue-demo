@@ -5176,7 +5176,6 @@ ayapana
 acidaemia
 anergias
 akela
-assail
 affusion
 archidome
 afifi
@@ -11269,6 +11268,7 @@ armorplated
 asphalt
 alopathic
 angiolipoma
+assail
 amphidisc
 antisyphilitic
 akoluthia
