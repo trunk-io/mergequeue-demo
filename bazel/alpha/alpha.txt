@@ -15199,7 +15199,6 @@ acetylid
 aliasing
 antisynod
 acerata
-atelomyelia
 antiferromagnetism
 antifertility
 arcidae
@@ -20924,6 +20923,7 @@ avar
 assart
 aerosinusitis
 anomala
+atelomyelia
 agastache
 alveolonasal
 ameban
