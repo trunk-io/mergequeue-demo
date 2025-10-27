@@ -1352,7 +1352,6 @@ epics
 equalable
 equations
 eutrophication
-entrecote
 eyespots
 efoliose
 efts
@@ -12346,6 +12345,7 @@ extrajudicial
 ebracteolate
 essenis
 eolian
+entrecote
 emulative
 enigmatized
 edaphic
