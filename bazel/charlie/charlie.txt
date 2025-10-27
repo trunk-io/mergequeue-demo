@@ -2289,7 +2289,6 @@ crewelist
 coenesthesia
 cylindrocellular
 chromobacterieae
-cumin
 chaleh
 cephalopodan
 canangium
@@ -25796,6 +25795,7 @@ correctable
 corrected
 caveae
 circumhorizontal
+cumin
 complainingness
 cecomorphae
 castratory
