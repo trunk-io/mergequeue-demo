@@ -2657,6 +2657,7 @@ beadhouses
 bounced
 bonewood
 budding
+biphenol
 bonnyclabber
 bolshevist
 bloodstanch
@@ -4497,7 +4498,6 @@ bepun
 bedford
 bagwyn
 bailing
-biphenol
 basilar
 blocked
 babuism
