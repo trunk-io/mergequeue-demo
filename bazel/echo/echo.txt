@@ -1981,7 +1981,6 @@ enddamaging
 elucid
 enhaunt
 epizoites
-endogalvanism
 euploid
 edicule
 entomotomy
@@ -14057,6 +14056,7 @@ exactor
 exorciser
 exasperative
 explorable
+endogalvanism
 enduring
 emery
 extracorporeally
