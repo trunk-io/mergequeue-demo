@@ -6853,7 +6853,6 @@ epaenetic
 ectosteally
 endarchy
 esoterically
-equitably
 edeoscopy
 egad
 eucti
@@ -11475,6 +11474,7 @@ exobiology
 emily
 epicureanism
 equiv
+equitably
 ensilability
 eschewer
 englad
