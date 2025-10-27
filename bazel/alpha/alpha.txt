@@ -10173,6 +10173,7 @@ avulsion
 armenians
 alternating
 adzooks
+anaglyph
 alfarga
 ashangos
 analgia
@@ -11789,7 +11790,6 @@ aframerican
 antiscia
 achree
 apochromat
-anaglyph
 aswash
 armorbearer
 andromed
