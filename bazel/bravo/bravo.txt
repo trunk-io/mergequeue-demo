@@ -3700,7 +3700,6 @@ byrlawmen
 bequeaths
 broccoli
 bakelite
-burrow
 bitterbrush
 bandores
 beaverkin
@@ -18249,6 +18248,7 @@ backened
 bismarck
 brushiest
 balatronic
+burrow
 blissless
 busing
 bloop
