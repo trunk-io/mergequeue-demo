@@ -3476,7 +3476,6 @@ banders
 bigmouths
 brinksmanship
 bianchi
-badinages
 brahman
 broomcorn
 barkentine
@@ -5735,6 +5734,7 @@ bidactyle
 briton
 blately
 bargainer
+badinages
 berogue
 burghal
 beleed
