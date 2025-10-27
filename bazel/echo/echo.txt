@@ -7203,6 +7203,7 @@ er
 evenwise
 encipherer
 eskimoid
+enterograph
 eardropper
 ectomeric
 eorhyolite
@@ -8229,7 +8230,6 @@ echograph
 engrafts
 ennia
 equipaga
-enterograph
 ecartes
 escoba
 edges
