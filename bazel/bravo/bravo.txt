@@ -2047,7 +2047,6 @@ bridgetree
 bestrid
 bowpot
 brickbats
-bathyal
 bluebonnet
 blunges
 boilinglike
@@ -17068,6 +17067,7 @@ beflag
 biennial
 bayman
 blackacre
+bathyal
 besmell
 biotechnologies
 blephara
