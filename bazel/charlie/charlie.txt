@@ -12611,7 +12611,6 @@ chronographer
 crophead
 crowning
 cauterizing
-colloquializer
 circularize
 coalmonger
 censorate
@@ -16021,6 +16020,7 @@ coreid
 corallina
 centon
 clericism
+colloquializer
 clinching
 crepidoma
 carroll
