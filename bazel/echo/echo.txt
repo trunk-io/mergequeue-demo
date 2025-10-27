@@ -3686,6 +3686,7 @@ elaidinic
 echiuroidea
 exanthematous
 enneastylar
+episporium
 eriophyes
 eclogue
 ephemeral
@@ -7597,7 +7598,6 @@ eldmother
 enhancer
 electroballistics
 extruder
-episporium
 elastin
 entreater
 embittering
