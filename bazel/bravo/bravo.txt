@@ -2865,7 +2865,6 @@ basify
 barostat
 birdlet
 blackguard
-benzocaine
 bummie
 bonanza
 betitle
@@ -17841,6 +17840,7 @@ barbicanage
 bewrays
 barbeque
 betray
+benzocaine
 bvt
 blutwurst
 bala
