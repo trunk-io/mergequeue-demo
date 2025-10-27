@@ -3305,7 +3305,6 @@ akazga
 accountment
 algebar
 asphalt
-anapsid
 acetimeter
 addle
 arracacha
@@ -7611,6 +7610,7 @@ astint
 agoutis
 animosities
 antisepticist
+anapsid
 affret
 antecedency
 aviatrices
