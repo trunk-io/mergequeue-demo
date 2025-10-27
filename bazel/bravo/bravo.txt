@@ -2756,6 +2756,7 @@ brownouts
 bugloss
 bicompact
 backfill
+bojo
 brookside
 baphia
 bryozoa
@@ -8462,7 +8463,6 @@ buggiest
 birch
 bromlite
 brotherton
-bojo
 blockage
 bearhound
 bawl
