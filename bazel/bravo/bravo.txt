@@ -2030,6 +2030,7 @@ bannerline
 baroswitch
 belitter
 brokery
+bandfile
 brisances
 bellyaching
 blesses
@@ -4178,7 +4179,6 @@ bedikah
 bonanzas
 businesswomen
 bisects
-bandfile
 bandsawed
 beccaficoes
 bacterin
