@@ -8310,7 +8310,6 @@ disspreading
 decarboxylate
 diadochy
 damasked
-detect
 disassociable
 dislikable
 dealation
@@ -11693,6 +11692,7 @@ dependents
 dredged
 desirableness
 discordant
+detect
 dearly
 diosmosis
 duryodhana
