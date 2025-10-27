@@ -5070,6 +5070,7 @@ blacktail
 belis
 borts
 bridesmaids
+bandlimit
 bloodstains
 belles
 beanfest
@@ -6309,7 +6310,6 @@ bronzelike
 bastinading
 bankrupts
 bardic
-bandlimit
 billhooks
 boarded
 bulletlike
