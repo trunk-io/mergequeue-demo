@@ -6731,6 +6731,7 @@ arid
 adrenitis
 autopilot
 agrimotor
+assumes
 activation
 androcratic
 antient
@@ -17755,7 +17756,6 @@ afterfame
 aeriferous
 abby
 afrormosia
-assumes
 amoebas
 antiphonical
 almandite
