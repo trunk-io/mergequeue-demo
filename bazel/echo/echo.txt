@@ -3401,7 +3401,6 @@ exemplar
 edges
 expansibleness
 equestriennes
-equiparable
 enhorror
 exteriors
 erecter
@@ -12473,6 +12472,7 @@ egurgitating
 excussio
 exteroceptive
 euergetes
+equiparable
 enterobacterial
 enantiomeride
 elsin
