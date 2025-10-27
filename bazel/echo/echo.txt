@@ -2699,7 +2699,6 @@ evangelicism
 enjambed
 eon
 etiquettical
-extempory
 executions
 enervate
 ebcdic
@@ -10582,6 +10581,7 @@ enophthalmos
 estated
 explat
 energising
+extempory
 enclog
 encryption
 extraessentially
