@@ -5536,7 +5536,6 @@ entheos
 epiglottal
 enervation
 endoceratite
-encashment
 excellency
 encyclopaedia
 eightscore
@@ -12357,6 +12356,7 @@ earthshaker
 espave
 ecalcarate
 economised
+encashment
 eviscerations
 esonarthex
 enameler
