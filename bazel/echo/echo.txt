@@ -5702,6 +5702,7 @@ emolument
 elutions
 enrolls
 elasticities
+eccl
 eccyesis
 embryonal
 enlisted
@@ -5840,7 +5841,6 @@ epiclinal
 endomorphy
 exiledom
 erroneous
-eccl
 eyestalks
 edeotomy
 euchymous
