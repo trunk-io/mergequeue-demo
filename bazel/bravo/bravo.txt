@@ -2770,7 +2770,6 @@ backgammon
 barque
 barmie
 bookends
-bannerlike
 battute
 bedote
 barosinusitus
@@ -14457,6 +14456,7 @@ braiders
 bedog
 boist
 bakeboard
+bannerlike
 babbittian
 bisischiadic
 belieffulness
