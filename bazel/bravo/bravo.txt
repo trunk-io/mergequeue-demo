@@ -12843,7 +12843,6 @@ bessi
 burstone
 bumblebee
 biblical
-barrelhouse
 broigne
 batta
 boite
@@ -16503,6 +16502,7 @@ beauteous
 becreep
 bogard
 bombarder
+barrelhouse
 boobook
 birdfarms
 bunnia
