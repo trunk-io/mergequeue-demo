@@ -1414,6 +1414,7 @@ balancewise
 blighter
 biolite
 bookie
+banefulness
 breastbeam
 bottlefuls
 barbarian
@@ -8654,7 +8655,6 @@ backlashed
 brule
 bedels
 basseting
-banefulness
 basketmaking
 brainache
 bowdlerize
