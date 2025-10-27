@@ -10435,7 +10435,6 @@ coenesthesis
 chamberfellow
 chantries
 coryneum
-cajoleries
 crypticness
 currencies
 closings
@@ -30252,6 +30251,7 @@ cruised
 ceruleite
 conductility
 controllers
+cajoleries
 cruises
 cruising
 cruive
