@@ -3013,7 +3013,6 @@ carfares
 cape
 cardiopulmonary
 choledochoenterostomy
-cohelper
 chequerboard
 capeadores
 cuttlebone
@@ -16053,6 +16052,7 @@ capably
 courtyard
 consularity
 calottes
+cohelper
 cobstone
 contrefort
 clerkery
