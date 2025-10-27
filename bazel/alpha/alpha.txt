@@ -6722,6 +6722,7 @@ automatons
 alexandreid
 aborting
 anmia
+avarices
 abrazitic
 askewness
 antibias
@@ -16187,7 +16188,6 @@ achaemenidae
 aldebaranium
 antisocialist
 anemographic
-avarices
 annealer
 anticorset
 accessively
