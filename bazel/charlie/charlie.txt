@@ -6165,6 +6165,7 @@ cevian
 coagel
 cytherean
 cheveron
+coercion
 cassolette
 condoned
 carceration
@@ -7827,7 +7828,6 @@ cacothesis
 camelus
 circumgyrate
 csi
-coercion
 cheek
 coleochaetaceae
 chromatophore
