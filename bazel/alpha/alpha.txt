@@ -11330,7 +11330,6 @@ antired
 asrama
 angiocardiographic
 antipyretic
-antistalling
 amphiblastic
 amphiplatyan
 audads
@@ -21736,6 +21735,7 @@ autotoxemia
 attainably
 acclimatise
 audiotape
+antistalling
 anba
 arthrectomy
 angiotome
