@@ -1854,7 +1854,6 @@ bepraisement
 beseechment
 bocaccios
 benefice
-balances
 bruta
 batteling
 bagasses
@@ -15894,6 +15893,7 @@ bruang
 bemires
 bridally
 boomkins
+balances
 breakerman
 brulzie
 beadiness
