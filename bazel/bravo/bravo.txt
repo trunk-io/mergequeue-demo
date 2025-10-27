@@ -1210,7 +1210,6 @@ bellum
 boreades
 bipedism
 bemuzzled
-bitmap
 boils
 bucket
 beclose
@@ -11493,6 +11492,7 @@ bluestems
 bucephala
 baldacchino
 bastardice
+bitmap
 butyryls
 butylated
 beguiles
