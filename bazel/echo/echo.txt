@@ -2748,7 +2748,6 @@ elegant
 europhium
 eternize
 epaulette
-employable
 experienceable
 embase
 eyeballs
@@ -6541,6 +6540,7 @@ electromechanics
 exceptionable
 exede
 espied
+employable
 enosis
 escot
 eirene
