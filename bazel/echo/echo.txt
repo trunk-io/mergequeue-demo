@@ -2267,7 +2267,6 @@ eudaemonia
 endosteomata
 earstones
 excoriator
-enameloma
 enfleurage
 eikonogen
 epidotization
@@ -8093,6 +8092,7 @@ endangium
 ecophobia
 explications
 endoubt
+enameloma
 effossion
 equivalve
 empaestic
