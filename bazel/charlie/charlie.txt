@@ -2200,7 +2200,6 @@ catchwords
 counterlathing
 collaterality
 centaurus
-canadite
 carlin
 casbah
 credible
@@ -21595,6 +21594,7 @@ concoctions
 conspectuity
 cloaking
 concoctive
+canadite
 choco
 couthiest
 congius
