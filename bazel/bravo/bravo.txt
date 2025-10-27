@@ -10771,7 +10771,6 @@ bibl
 botchka
 bakongo
 blipping
-borneols
 bobwhite
 blastocele
 butanols
@@ -13840,6 +13839,7 @@ buffers
 bannut
 beanbags
 brickmaker
+borneols
 bronchiloquy
 bathyplankton
 beneficing
