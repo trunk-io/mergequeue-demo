@@ -3250,6 +3250,7 @@ adaptometer
 apolar
 armlocks
 attackman
+affix
 adcons
 agriculturer
 acocotl
@@ -13912,7 +13913,6 @@ ashir
 ascendible
 antilapsarian
 aragonite
-affix
 atomically
 alterne
 accompanied
