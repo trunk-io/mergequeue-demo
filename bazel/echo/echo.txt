@@ -3445,6 +3445,7 @@ engrave
 elusiveness
 enweb
 endrins
+erose
 ectromelian
 eggcup
 engle
@@ -7708,7 +7709,6 @@ eclat
 eductor
 europe
 electrionic
-erose
 ensurance
 electra
 ethonomic
