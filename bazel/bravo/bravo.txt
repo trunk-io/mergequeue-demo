@@ -4122,6 +4122,7 @@ blasting
 barotropy
 bellpulls
 brassylic
+bunkering
 bahera
 bountihead
 behooved
@@ -17398,7 +17399,6 @@ bragged
 bedtimes
 baize
 betrayed
-bunkering
 battologize
 burler
 brawlers
