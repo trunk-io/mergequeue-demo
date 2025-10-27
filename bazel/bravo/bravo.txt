@@ -6120,7 +6120,6 @@ breakback
 bedpad
 back
 bathyspheres
-bhangs
 batell
 broilers
 backslide
@@ -15161,6 +15160,7 @@ bolognese
 besmoke
 batatas
 brotula
+bhangs
 backarrow
 biradiated
 blastospheric
