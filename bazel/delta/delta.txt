@@ -3489,7 +3489,6 @@ devourable
 diol
 downtimes
 delundung
-derailleurs
 deflections
 defines
 deaccessions
@@ -14407,6 +14406,7 @@ dulcian
 divebomb
 dictator
 dovecots
+derailleurs
 daymark
 dogmatists
 disaugment
