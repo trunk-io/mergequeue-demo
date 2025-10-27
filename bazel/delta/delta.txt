@@ -1750,7 +1750,6 @@ dumbs
 deliverymen
 doesnt
 dysenteric
-decoctible
 downed
 decad
 deathrates
@@ -11883,6 +11882,7 @@ didactics
 decrescence
 deathliness
 donatively
+decoctible
 dreadnoughts
 didactically
 dropwort
