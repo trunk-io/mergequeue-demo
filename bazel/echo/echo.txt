@@ -2903,7 +2903,6 @@ emitters
 extund
 exposure
 energy
-emerize
 eliphalet
 eviction
 elbowroom
@@ -11180,6 +11179,7 @@ equals
 eatableness
 ecumenicism
 eudemonistical
+emerize
 euouae
 elitists
 esterizing
