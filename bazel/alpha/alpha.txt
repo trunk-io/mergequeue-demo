@@ -5100,7 +5100,6 @@ affixed
 ayin
 albizia
 alii
-agraphia
 antinormality
 anachorism
 aforetime
@@ -17895,6 +17894,7 @@ acutenaculum
 amphigonic
 adroop
 atmospherically
+agraphia
 antiegotistical
 aratinga
 aurifex
