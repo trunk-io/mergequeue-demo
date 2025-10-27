@@ -2625,6 +2625,7 @@ belligerents
 backbit
 barmcloth
 badgerly
+bookbinderies
 birdcage
 boltwork
 backside
@@ -5471,7 +5472,6 @@ bifilarly
 bullaries
 buzziest
 blepharadenitis
-bookbinderies
 bela
 bibliolatrous
 bolded
