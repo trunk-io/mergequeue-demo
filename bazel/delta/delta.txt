@@ -158,7 +158,6 @@ drawbench
 dendroeca
 demoness
 deanthropomorphism
-dealkylate
 draughtmanship
 deviascope
 davits
@@ -6858,6 +6857,7 @@ disarticulate
 deceased
 daimiate
 dismissing
+dealkylate
 discorder
 dispossess
 dodecatyl
