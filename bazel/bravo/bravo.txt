@@ -1727,7 +1727,6 @@ brideman
 birthnight
 brigade
 bidget
-bot
 biddable
 bejabers
 bereason
@@ -16454,6 +16453,7 @@ blackening
 brainache
 bindweed
 baccalaureate
+bot
 bab
 benzoflavine
 bambuseae
