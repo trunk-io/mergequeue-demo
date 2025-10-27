@@ -1734,7 +1734,6 @@ bimarine
 bruet
 banak
 bransle
-bordered
 balkiest
 brushable
 bemoan
@@ -13986,6 +13985,7 @@ basset
 bloodletting
 bannock
 buckety
+bordered
 biggah
 bollworm
 bowing
