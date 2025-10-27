@@ -1983,6 +1983,7 @@ enddamaging
 elucid
 enhaunt
 epizoites
+enterosepsis
 euploid
 edicule
 entomotomy
@@ -7137,7 +7138,6 @@ edomitish
 estampedero
 eddies
 ecumenic
-enterosepsis
 eavesdrip
 eigh
 esloign
