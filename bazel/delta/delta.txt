@@ -2602,7 +2602,6 @@ denarii
 dumpcarts
 depopulative
 decreers
-donjons
 decommission
 decommissioned
 dozers
@@ -12425,6 +12424,7 @@ defiance
 dotishness
 divagate
 decempartite
+donjons
 diffusimeter
 decries
 defaulters
