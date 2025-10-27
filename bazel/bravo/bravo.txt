@@ -5103,7 +5103,6 @@ beleaguers
 backswordsman
 batteuse
 bughouses
-biologistic
 balaenid
 beggarhood
 befurred
@@ -5475,6 +5474,7 @@ barbitone
 biflected
 belah
 bicarpellate
+biologistic
 brakeman
 banal
 balanophore
