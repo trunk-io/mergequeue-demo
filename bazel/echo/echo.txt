@@ -3579,7 +3579,6 @@ ectopterygoid
 escapement
 electrokinematics
 equivalents
-epitaxy
 enchodontidae
 ephraim
 embattlement
@@ -5925,6 +5924,7 @@ elasmosaur
 enteropneust
 eurindic
 emblemizing
+epitaxy
 educationary
 emeute
 epigynum
