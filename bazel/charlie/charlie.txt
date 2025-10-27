@@ -25403,7 +25403,6 @@ corkages
 cardinality
 conventionalized
 chachapuya
-cuarto
 coypu
 charque
 cornets
@@ -29918,6 +29917,7 @@ cuculidae
 copses
 crosslink
 carposporangia
+cuarto
 chromonema
 cultivable
 contrahent
