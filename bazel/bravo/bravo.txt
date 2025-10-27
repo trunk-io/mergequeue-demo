@@ -7712,7 +7712,6 @@ bivouac
 bhokra
 bilinguist
 bersil
-botanical
 boliche
 bushboy
 betask
@@ -9518,6 +9517,7 @@ baculus
 baldrick
 brachioradial
 bleating
+botanical
 bestraught
 bathyseism
 benedict
