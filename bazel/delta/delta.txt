@@ -1755,6 +1755,7 @@ decoctible
 downed
 decad
 deathrates
+dayal
 distriction
 diversional
 dauerschlaf
@@ -5133,7 +5134,6 @@ directed
 dewans
 didymia
 deashed
-dayal
 denominatively
 dys
 ditties
