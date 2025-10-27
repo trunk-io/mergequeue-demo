@@ -5564,7 +5564,6 @@ chondrectomy
 colthood
 cataracts
 children
-cataractwise
 col
 cynosarges
 convene
@@ -17961,6 +17960,7 @@ codirected
 codirecting
 casualism
 chanceless
+cataractwise
 codirector
 conycatcher
 commonish
