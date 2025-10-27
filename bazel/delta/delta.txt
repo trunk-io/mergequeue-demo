@@ -11676,7 +11676,6 @@ diezeugmenon
 dobrao
 dosserets
 discernible
-desugared
 dialogue
 dashboard
 detestableness
@@ -14077,6 +14076,7 @@ desynonymization
 distribute
 dispace
 decretum
+desugared
 decolorizer
 diastasimetry
 dyspareunia
