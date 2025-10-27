@@ -2276,7 +2276,6 @@ acknowledgers
 archwife
 ambulant
 acclinate
-adenocarcinomatous
 aramina
 acmatic
 atoxic
@@ -5424,6 +5423,7 @@ aldhafara
 anaptomorphidae
 abrastol
 adarme
+adenocarcinomatous
 avena
 atlatl
 antiwarlike
