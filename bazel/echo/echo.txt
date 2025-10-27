@@ -2973,7 +2973,6 @@ elder
 endoergic
 echinorhynchus
 engraffing
-eyecup
 epistoma
 eremic
 encephalomeningitis
@@ -11816,6 +11815,7 @@ esrogim
 eccrisis
 extromit
 enallage
+eyecup
 ensteep
 eurythmics
 electrosurgery
