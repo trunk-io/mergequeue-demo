@@ -17712,6 +17712,7 @@ chisellike
 chest
 comparting
 checklist
+caimans
 crypta
 cerate
 carnassial
@@ -17838,7 +17839,6 @@ coct
 cardholder
 clouters
 carritches
-caimans
 coction
 combinatorics
 clavichordist
