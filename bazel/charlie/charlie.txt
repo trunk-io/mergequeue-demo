@@ -2615,7 +2615,6 @@ carriable
 clicked
 catostomus
 calastic
-czarist
 chicness
 cankering
 clinopyroxene
@@ -3638,6 +3637,7 @@ chivalric
 cantorian
 carbide
 cytoblastematous
+czarist
 catchy
 cineole
 carapacho
