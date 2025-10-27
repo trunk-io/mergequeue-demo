@@ -6170,7 +6170,6 @@ cevian
 coagel
 cytherean
 cheveron
-coercion
 cassolette
 condoned
 carceration
@@ -12989,6 +12988,7 @@ circline
 cauldron
 coadjutant
 copyrighted
+coercion
 coquille
 cultigen
 cryosurgical
