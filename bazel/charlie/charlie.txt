@@ -4829,7 +4829,6 @@ cephalacanthus
 chartroom
 copr
 cartelist
-craspedon
 crimeproof
 costars
 cavaliero
@@ -5343,6 +5342,7 @@ charlatanries
 cultellation
 chapacura
 calin
+craspedon
 cassino
 crabbedness
 castrator
