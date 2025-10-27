@@ -353,6 +353,7 @@ demurest
 diallelon
 disjune
 disenrol
+drawspan
 dorsimedian
 dendrons
 disreputed
@@ -2111,7 +2112,6 @@ dactyloid
 distil
 digitized
 diabolology
-drawspan
 dadenhudd
 dextroduction
 downtime
