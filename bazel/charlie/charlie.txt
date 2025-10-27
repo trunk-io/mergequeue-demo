@@ -2481,7 +2481,6 @@ coir
 cephalograph
 camize
 candlewright
-candling
 carangid
 cording
 charley
@@ -8301,6 +8300,7 @@ crankest
 chlorococcaceae
 chalicothere
 chaetochloa
+candling
 chokebore
 calyculate
 collielike
