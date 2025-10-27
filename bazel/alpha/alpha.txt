@@ -7371,7 +7371,6 @@ appropinquity
 accompaniment
 antiphony
 agitations
-affricate
 apokrea
 antineoplastic
 ardeae
@@ -21644,6 +21643,7 @@ accreditation
 acridness
 aforesaid
 asramas
+affricate
 aquincubitalism
 anopubic
 ablute
