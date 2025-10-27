@@ -8606,7 +8606,6 @@ ceratiidae
 chopstick
 coheritor
 chylangioma
-carabus
 corcopali
 cupeller
 creirgist
@@ -25269,6 +25268,7 @@ codeinas
 coresonant
 cornfields
 corespondent
+carabus
 catarrhally
 communes
 candleholder
