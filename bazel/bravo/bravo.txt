@@ -5898,7 +5898,6 @@ bestarve
 bandits
 bimillenium
 brusquer
-batrachophagous
 bogwood
 bowhead
 bablah
@@ -7773,6 +7772,7 @@ brawlsome
 bwanas
 bedraped
 bubbler
+batrachophagous
 bobbiner
 bridegod
 bibracteate
