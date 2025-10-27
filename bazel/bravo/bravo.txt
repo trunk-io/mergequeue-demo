@@ -5333,7 +5333,6 @@ boithrin
 bechamel
 ballaster
 bakerlike
-battlestead
 bonefishes
 bootid
 bombax
@@ -11372,6 +11371,7 @@ bestialising
 bludge
 brideknot
 backlit
+battlestead
 brachiation
 bluefin
 brattice
