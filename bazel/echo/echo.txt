@@ -2209,7 +2209,6 @@ exothermal
 epigraphist
 electroacoustic
 epicrisis
-electroanalytic
 eskualdun
 equipollentness
 exsector
@@ -12156,6 +12155,7 @@ evene
 externalization
 evaluator
 enormities
+electroanalytic
 ectobatic
 equiform
 eternization
