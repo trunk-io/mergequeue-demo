@@ -1891,6 +1891,7 @@ bombard
 banjara
 bunton
 bioplasms
+blas
 beret
 bibionid
 bias
@@ -18435,7 +18436,6 @@ brachygrapher
 bushwhacked
 barratries
 ballistically
-blas
 bleeping
 broletto
 banderilleros
