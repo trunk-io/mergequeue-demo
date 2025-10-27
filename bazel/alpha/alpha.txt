@@ -13020,7 +13020,6 @@ achievement
 anamnia
 appearance
 accelerando
-astrer
 absorption
 argiopidae
 antilegalist
@@ -21624,6 +21623,7 @@ aspidobranchiata
 apophysate
 anatherum
 apteran
+astrer
 aspidochirota
 aspidospermine
 acyrology
