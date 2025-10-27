@@ -3515,7 +3515,6 @@ boloneys
 bemists
 bowyers
 biont
-buffalos
 brantle
 barleybreak
 bloodflower
@@ -5808,6 +5807,7 @@ bescratch
 becursed
 boys
 barih
+buffalos
 becuffed
 boldness
 bange
