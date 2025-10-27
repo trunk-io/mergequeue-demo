@@ -2721,7 +2721,6 @@ baboo
 brushproof
 biochemy
 bushwas
-barmfel
 barong
 biome
 baldmoney
@@ -3046,6 +3045,7 @@ baseburner
 bromegrass
 biradiate
 bermuda
+barmfel
 buttonhole
 breakouts
 beholder
