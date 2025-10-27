@@ -9186,7 +9186,6 @@ charts
 confluent
 chugalug
 corradiated
-corroborate
 coppice
 conjurations
 caulite
@@ -12458,6 +12457,7 @@ chromiole
 catechiser
 conduction
 callid
+corroborate
 chromitite
 conacre
 chromium
