@@ -3912,7 +3912,6 @@ bronchomotor
 banning
 biassing
 branchstand
-bloomerism
 balaenoid
 bur
 balbusard
@@ -4435,6 +4434,7 @@ blethers
 brisant
 bretelle
 bourg
+bloomerism
 bolivares
 biometrics
 brazer
