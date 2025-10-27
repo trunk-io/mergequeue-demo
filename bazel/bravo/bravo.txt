@@ -1726,6 +1726,7 @@ beeware
 blattoid
 begladding
 busyish
+bonifaces
 betangle
 bepurple
 brawlie
@@ -17731,7 +17732,6 @@ bordar
 boohoos
 brubru
 blattoidea
-bonifaces
 boilerplate
 batidaceae
 benzilic
