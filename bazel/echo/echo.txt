@@ -7429,7 +7429,6 @@ extrabold
 entwist
 euchlaena
 euda
-emboldens
 escalado
 efoveolate
 endosclerite
@@ -13165,6 +13164,7 @@ economising
 embrittling
 emigates
 earthpeas
+emboldens
 energumen
 evitation
 eastertide
