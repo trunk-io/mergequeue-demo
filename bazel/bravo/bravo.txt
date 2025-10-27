@@ -5762,6 +5762,7 @@ beudantite
 bonnocks
 bee
 brasswork
+beastlike
 barbuts
 blarneyer
 billeters
@@ -15807,7 +15808,6 @@ bins
 ballets
 bridgemen
 barbarisms
-beastlike
 baraithas
 butterier
 brocatello
