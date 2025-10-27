@@ -3574,7 +3574,6 @@ batsman
 barile
 besetting
 benzophenol
-bunsen
 branchery
 belouke
 balearian
@@ -6602,6 +6601,7 @@ balun
 bunks
 bedlids
 berkeleianism
+bunsen
 barba
 broached
 berkelium
