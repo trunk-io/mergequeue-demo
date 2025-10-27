@@ -11752,7 +11752,6 @@ eliminators
 extrafascicular
 empires
 enceintes
-extrabulbar
 everduring
 endospermous
 estang
@@ -12333,6 +12332,7 @@ etiologies
 exegesist
 engramma
 easts
+extrabulbar
 enterolith
 epsilon
 endamebas
