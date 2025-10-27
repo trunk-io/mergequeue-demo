@@ -10672,7 +10672,6 @@ chlorothiazide
 cardiatrophia
 cogon
 chimaphila
-cons
 chymase
 callaloos
 chlorpheniramine
@@ -29630,6 +29629,7 @@ chiselmouth
 cantabrian
 crockard
 chile
+cons
 convexedly
 chadar
 crockery
