@@ -20590,6 +20590,7 @@ cutline
 coomb
 curtaxe
 commandeered
+chassepot
 composition
 counterreplied
 compass
@@ -25872,7 +25873,6 @@ cloyne
 conspiringly
 corriedale
 cubiculum
-chassepot
 corrige
 compurgatorial
 chickenheartedness
