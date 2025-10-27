@@ -10829,7 +10829,6 @@ anacard
 ammo
 archdeaconry
 administrants
-abidi
 ammocoetes
 albumoses
 asphalts
@@ -25001,6 +25000,7 @@ accretionary
 awatch
 absents
 architective
+abidi
 awater
 antaranga
 apogamically
