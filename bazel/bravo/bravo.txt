@@ -7925,7 +7925,6 @@ backstitches
 beclasp
 broadleaves
 bursty
-bastonet
 bannets
 billetty
 beeping
@@ -10125,6 +10124,7 @@ bearishly
 bayadeers
 branchiostegidae
 bribegiver
+bastonet
 bewhiskered
 barretors
 bridecup
