@@ -4604,7 +4604,6 @@ developability
 downface
 demidistance
 decollated
-dosimetric
 deprecated
 demifigure
 dieresis
@@ -7074,6 +7073,7 @@ douter
 depriver
 deline
 disabilities
+dosimetric
 disciplinarians
 dyspneal
 dystrophies
