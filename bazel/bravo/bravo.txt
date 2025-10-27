@@ -9136,6 +9136,7 @@ birthless
 baske
 brisement
 betweentimes
+backarrows
 biofog
 banderlog
 beringed
@@ -14434,7 +14435,6 @@ bz
 blacktopped
 beeheaded
 beltwise
-backarrows
 bombycids
 bourbonian
 bacchanalianism
