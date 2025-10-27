@@ -8706,7 +8706,6 @@ basifies
 buggered
 bradycardia
 bivane
-bosc
 behests
 berairou
 barquette
@@ -12733,6 +12732,7 @@ bubbles
 bobbins
 brokages
 breeds
+bosc
 beigy
 bijective
 bowknot
