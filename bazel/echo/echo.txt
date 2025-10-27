@@ -2736,7 +2736,6 @@ eternize
 epaulette
 experienceable
 embase
-eyeballs
 eunicid
 exsiccated
 electrophysicist
@@ -3275,6 +3274,7 @@ etymologist
 endues
 encored
 embrue
+eyeballs
 enwombed
 explanatoriness
 earshell
