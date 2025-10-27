@@ -9990,6 +9990,7 @@ betrap
 befouled
 bottleneck
 barbershop
+bookshelves
 bimesters
 bifronted
 bills
@@ -13518,7 +13519,6 @@ bubas
 brachiopod
 becomes
 breaded
-bookshelves
 bottstick
 botulins
 backfills
