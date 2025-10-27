@@ -1460,6 +1460,7 @@ demilitarize
 database
 drugget
 darshan
+declarative
 diffusor
 drips
 dauntless
@@ -3650,7 +3651,6 @@ disponge
 deglutinating
 daubingly
 disgracive
-declarative
 detruncating
 diploic
 dispending
