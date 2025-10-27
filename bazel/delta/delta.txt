@@ -6561,7 +6561,6 @@ deers
 devotion
 dispossesses
 descendable
-dequeue
 dif
 dumous
 depreciator
@@ -8907,6 +8906,7 @@ doctordom
 diazeutic
 dextrinate
 dreamage
+dequeue
 delimitative
 djalmaite
 declassifications
