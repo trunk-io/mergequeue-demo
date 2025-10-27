@@ -10981,6 +10981,7 @@ brighid
 batement
 busyish
 biblioklept
+boort
 backfiller
 bandh
 billowy
@@ -16478,7 +16479,6 @@ bondstone
 bioprecipitation
 belduque
 bandyman
-boort
 bettermost
 bordun
 bowled
