@@ -8686,6 +8686,7 @@ discrownment
 divinations
 devolved
 diguanide
+dosserets
 deerwood
 daggletailed
 drumfire
@@ -11699,7 +11700,6 @@ defs
 domiciliate
 diezeugmenon
 dobrao
-dosserets
 discernible
 desugared
 dialogue
