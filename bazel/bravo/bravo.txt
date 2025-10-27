@@ -38,6 +38,7 @@ barbara
 brere
 boardable
 broomwort
+balr
 beseech
 barroom
 babbittry
@@ -7190,7 +7191,6 @@ boxinesses
 bandsmen
 bargham
 bromeliaceous
-balr
 bestiary
 bespeech
 brainwash
