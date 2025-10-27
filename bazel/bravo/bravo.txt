@@ -1233,7 +1233,6 @@ broderie
 brushball
 bassarid
 bimastic
-beadle
 bittocks
 burgomaster
 blathers
@@ -4029,6 +4028,7 @@ bushhammer
 bulkheads
 bowyang
 babbitt
+beadle
 bacteriotoxic
 bugeye
 bluchers
