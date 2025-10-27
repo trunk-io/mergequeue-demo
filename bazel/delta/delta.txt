@@ -3570,7 +3570,6 @@ diplopic
 duffies
 dissheathe
 dossy
-damaging
 diminishable
 digitising
 decrease
@@ -5831,6 +5830,7 @@ delusory
 dextrocerebral
 depones
 deponing
+damaging
 disproportions
 depopulates
 dribblet
