@@ -1923,6 +1923,7 @@ camerinidae
 camerist
 coelodont
 campanero
+cartesian
 cleped
 completion
 crampbit
@@ -2758,7 +2759,6 @@ canonicalizes
 circumventive
 cleanskin
 convolvulaceous
-cartesian
 coquitos
 cooperatively
 countercharge
