@@ -6754,7 +6754,6 @@ entitle
 experimenter
 exploder
 entocarotid
-excursionist
 esplanade
 encheer
 elvira
@@ -9138,6 +9137,7 @@ ebbets
 escribiente
 edrioasteroid
 exon
+excursionist
 execrators
 endamoebic
 exopt
