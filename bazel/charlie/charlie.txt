@@ -19785,7 +19785,6 @@ cortin
 combat
 combatable
 chroma
-cixiidae
 colicines
 cimbalom
 chrysaniline
@@ -25968,6 +25967,7 @@ cadency
 conjuncts
 coninidia
 conglutinative
+cixiidae
 chytridiaceae
 ciniphes
 chalcid
