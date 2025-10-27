@@ -2358,7 +2358,6 @@ babism
 bureaucratized
 bios
 byss
-bandhor
 blackcoat
 barlow
 bringer
@@ -15277,6 +15276,7 @@ breathes
 borehole
 beevish
 brothe
+bandhor
 backchain
 brushwood
 beglerbeg
