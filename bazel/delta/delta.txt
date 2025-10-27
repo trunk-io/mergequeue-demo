@@ -4922,7 +4922,6 @@ destroying
 dubious
 dependance
 dorsoepitrochlear
-dereferencing
 diaphragm
 disenslave
 due
@@ -17521,6 +17520,7 @@ disemploying
 daemones
 drums
 disgracement
+dereferencing
 discerning
 drunk
 declaimant
