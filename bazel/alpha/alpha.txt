@@ -922,6 +922,7 @@ aristos
 amynodont
 aesculapian
 allamoth
+altimeter
 algaesthesis
 abstainers
 angel
@@ -13818,7 +13819,6 @@ anophthalmos
 absorptance
 anopia
 ating
-altimeter
 asphyctic
 anisoptera
 armpit
