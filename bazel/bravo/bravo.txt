@@ -5434,7 +5434,6 @@ belatedness
 bicone
 bekinkinite
 bevomited
-batteaux
 becco
 bemuzzle
 bewreak
@@ -16610,6 +16609,7 @@ brickyard
 birchbark
 bester
 bots
+batteaux
 booter
 begruntle
 bracingness
