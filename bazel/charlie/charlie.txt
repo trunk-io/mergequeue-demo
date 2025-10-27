@@ -12996,7 +12996,6 @@ clothify
 cheka
 cyclotome
 conquerment
-confineless
 caracara
 circaetus
 commercium
@@ -24815,6 +24814,7 @@ commentary
 christie
 coroplastic
 cortlandtite
+confineless
 cestas
 copens
 coppersidesman
