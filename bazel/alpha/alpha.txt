@@ -2108,7 +2108,6 @@ argentarius
 amusing
 anchusa
 anticorn
-antiscorbutical
 aphelilia
 accident
 arcaded
@@ -3960,6 +3959,7 @@ aerodynamically
 actiniaria
 andorite
 antifouling
+antiscorbutical
 acclamation
 accompanable
 acroanesthesia
