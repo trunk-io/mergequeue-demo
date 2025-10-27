@@ -9112,7 +9112,6 @@ behavior
 beadhouse
 bombacaceae
 bootlegger
-benzophenothiazine
 bourrasque
 blesboks
 bedecorate
@@ -9670,6 +9669,7 @@ ballas
 bethel
 byblis
 baduhenna
+benzophenothiazine
 banal
 belostomidae
 byrlakin
