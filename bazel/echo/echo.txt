@@ -11749,6 +11749,7 @@ eliminators
 extrafascicular
 empires
 enceintes
+earcap
 extrabulbar
 everduring
 endospermous
@@ -13502,7 +13503,6 @@ electrocauterization
 extrasyllogistic
 ecclesiarchy
 epizoan
-earcap
 euphrosyne
 evenminded
 engrail
