@@ -1590,6 +1590,7 @@ battle
 beknown
 bearhugs
 barrulety
+bettergates
 baylet
 bloodfin
 branchiostegite
@@ -14730,7 +14731,6 @@ bourock
 both
 blankard
 backbites
-bettergates
 bitterhearted
 bioclimatology
 bibliomancy
