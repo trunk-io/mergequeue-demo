@@ -1628,7 +1628,6 @@ egomanias
 erythremia
 enable
 eminence
-emote
 embog
 enchasten
 enculturate
@@ -5689,6 +5688,7 @@ entomostracous
 elapse
 enaliosauria
 endoplastron
+emote
 ebenales
 exospores
 ealdorman
