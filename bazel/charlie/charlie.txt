@@ -1856,6 +1856,7 @@ curbstone
 colobus
 curs
 cassinian
+camauros
 carpetmonger
 campstools
 cambridge
@@ -27924,7 +27925,6 @@ crookneck
 coxcombic
 castlet
 chondrus
-camauros
 cukes
 catoquina
 compromitted
