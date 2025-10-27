@@ -4572,7 +4572,6 @@ colicystopyelitis
 carpalia
 cocash
 carpals
-chela
 calamondin
 carpathian
 chorographical
@@ -9217,6 +9216,7 @@ chasma
 catalatic
 chasmed
 caddy
+chela
 chasmophyte
 chasse
 conioselinum
