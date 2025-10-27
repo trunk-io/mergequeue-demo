@@ -2031,7 +2031,6 @@ excluded
 eland
 embryogeny
 escarole
-endorsable
 exclusionism
 earthkin
 essayed
@@ -9841,6 +9840,7 @@ exultancy
 enterocentesis
 electrotaxis
 eccritic
+endorsable
 enfire
 epipetalous
 erythrophyllin
