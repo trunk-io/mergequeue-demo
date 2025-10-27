@@ -10249,6 +10249,7 @@ enterfeat
 esthesias
 earlock
 elytrum
+eluctation
 excided
 etna
 evolve
@@ -11154,7 +11155,6 @@ emeraude
 effervescent
 eschatocol
 eyedrop
-eluctation
 empover
 equals
 eatableness
