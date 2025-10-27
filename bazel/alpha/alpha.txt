@@ -4420,7 +4420,6 @@ agnates
 arcadianly
 anacrogynae
 anthropological
-acatalectic
 anoia
 anaclasis
 arribadas
@@ -11506,6 +11505,7 @@ absumption
 acuaesthesia
 amputating
 altered
+acatalectic
 adj
 autofecundation
 agglomerations
