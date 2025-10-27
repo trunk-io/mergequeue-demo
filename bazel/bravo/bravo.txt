@@ -2629,6 +2629,7 @@ belligerents
 backbit
 barmcloth
 badgerly
+bourtree
 bookbinderies
 birdcage
 boltwork
@@ -10758,7 +10759,6 @@ bachelry
 barrelet
 bowpots
 besaiel
-bourtree
 bobowler
 bibl
 botchka
