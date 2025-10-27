@@ -4285,6 +4285,7 @@ ecotypes
 embolo
 endocarditis
 endarterial
+euphausia
 epauletted
 exuperable
 escadrille
@@ -5171,7 +5172,6 @@ eluvial
 egregiously
 enlarges
 ectozoan
-euphausia
 eponymist
 exanimation
 endognathal
