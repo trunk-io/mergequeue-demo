@@ -13243,7 +13243,6 @@ croziers
 coefficient
 crucifixes
 cepheid
-counterreflected
 clapnest
 cantaliver
 carapacial
@@ -16387,6 +16386,7 @@ covariance
 clabbering
 clysters
 circumvolute
+counterreflected
 clistothcia
 curtailed
 cascaded
