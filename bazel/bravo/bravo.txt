@@ -1884,6 +1884,7 @@ bibionid
 bias
 bookdom
 bushtits
+bureaucratic
 bacao
 bipolarity
 banakite
@@ -13740,7 +13741,6 @@ bloodstain
 bein
 balsamum
 baskets
-bureaucratic
 bronchocele
 berther
 brumous
