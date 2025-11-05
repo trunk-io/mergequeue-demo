@@ -6841,7 +6841,6 @@ diselectrify
 decarchy
 dockyard
 dragsmen
-datatype
 deckels
 dewinesses
 drakonite
@@ -10482,6 +10481,7 @@ dichotomies
 disinsulation
 diopters
 delations
+datatype
 doctorization
 diseur
 decumary

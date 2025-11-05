@@ -508,7 +508,6 @@ bacillemia
 bloodshed
 blockhead
 blushwort
-barnacles
 backspaces
 brotan
 blacksmiths
@@ -15428,6 +15427,7 @@ bustards
 blurt
 briquette
 boneless
+barnacles
 bandylegged
 birched
 besmooths
