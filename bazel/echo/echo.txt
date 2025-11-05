@@ -2333,7 +2333,6 @@ extoll
 enchantments
 encumbering
 euryalean
-emboweller
 ecanda
 exch
 exclusions
@@ -6620,6 +6619,7 @@ epimorpha
 exedrae
 ennoblement
 elachistaceae
+emboweller
 exponentiates
 equicellular
 engineman
