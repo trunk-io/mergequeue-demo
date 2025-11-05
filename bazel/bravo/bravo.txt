@@ -12747,7 +12747,6 @@ bookrests
 bdelloura
 banishes
 bagattino
-blanche
 brisa
 botcher
 batardeau
@@ -13845,6 +13844,7 @@ brickmaker
 borneols
 bronchiloquy
 bathyplankton
+blanche
 beneficing
 bannermen
 burhinus
