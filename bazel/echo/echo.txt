@@ -4855,7 +4855,6 @@ electropsychrometer
 electroshocks
 earthmove
 euthyneural
-erect
 excurse
 elench
 enserfed
@@ -9350,6 +9349,7 @@ entozoologist
 enduros
 enhungered
 embryotic
+erect
 ethic
 emasculated
 elastometer
