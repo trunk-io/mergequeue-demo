@@ -8371,7 +8371,6 @@ diagram
 debugger
 doombook
 dissolvable
-decolonize
 dramalogue
 dammara
 defocus
@@ -10137,6 +10136,7 @@ darkmans
 decamped
 disordered
 diurnule
+decolonize
 digladiate
 dodecastylar
 diazenithal
