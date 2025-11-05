@@ -7113,7 +7113,6 @@ exonerate
 epoptic
 earthshine
 epiphylaxis
-euglenaceae
 eriodendron
 elytrorrhaphy
 electrolytically
@@ -13001,6 +13000,7 @@ elaidic
 equipoise
 encarnalising
 ectromelia
+euglenaceae
 envoy
 endogenously
 expermentized
