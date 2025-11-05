@@ -7374,7 +7374,6 @@ determiner
 doorkeep
 dunnest
 dollbeer
-douma
 disenthrallment
 darting
 doxologizing
@@ -11371,6 +11370,7 @@ dinner
 dotards
 divertissant
 destruction
+douma
 drammer
 disinter
 diagnosticate
