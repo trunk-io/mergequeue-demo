@@ -5032,7 +5032,6 @@ bioscientist
 batonnier
 bluejack
 bloodsuckers
-blacktail
 buchanan
 beachless
 borts
@@ -12244,6 +12243,7 @@ blizzardly
 bepimples
 bolo
 bodword
+blacktail
 bicycling
 butterman
 beltman
