@@ -2787,7 +2787,6 @@ beetroots
 balanopsidales
 blowze
 bovinity
-boule
 brassworker
 barotrauma
 bulbaceous
@@ -13467,6 +13466,7 @@ blucher
 befringe
 beclothed
 bulrushlike
+boule
 benzo
 brew
 burlers
