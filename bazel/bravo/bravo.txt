@@ -10241,7 +10241,6 @@ blackguardry
 beseechers
 bollixing
 breadthriders
-baulking
 bimethyls
 babouche
 bimanual
@@ -16332,6 +16331,7 @@ betweenbrain
 broll
 bolthead
 buses
+baulking
 boomtown
 browntail
 bound
