@@ -5094,7 +5094,6 @@ expt
 evolvers
 energiatye
 essentialities
-exponentiation
 esophagoplication
 enarthroses
 exprobate
@@ -13973,6 +13972,7 @@ echinus
 effluvial
 exsuperate
 easefully
+exponentiation
 edibility
 enchodus
 equianharmonic
