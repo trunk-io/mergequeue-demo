@@ -1669,7 +1669,6 @@ bichromatic
 become
 belight
 biobibliographies
-bosn
 boise
 bruise
 bombyxes
@@ -12771,6 +12770,7 @@ bowed
 bookhood
 bloodhounds
 bursae
+bosn
 birdliming
 belly
 brujo
