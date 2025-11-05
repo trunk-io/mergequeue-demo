@@ -4835,7 +4835,6 @@ epilegomenon
 enlodgement
 exogastric
 exanthem
-enteromorpha
 ectogenous
 eremites
 equilin
@@ -8010,6 +8009,7 @@ excitabilities
 epistrophe
 eczemas
 exterous
+enteromorpha
 encipher
 encheason
 enchantingness
