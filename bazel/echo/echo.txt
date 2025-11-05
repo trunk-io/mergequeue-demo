@@ -10704,6 +10704,7 @@ englifier
 excluder
 equilibristat
 extrudability
+eulerian
 eudemonistically
 enterography
 encreel
@@ -11763,7 +11764,6 @@ edison
 epoxides
 eegrass
 ethnologists
-eulerian
 extrasocial
 eagre
 emplastra
