@@ -6845,7 +6845,6 @@ addable
 alphabetical
 anterin
 agrammatism
-attributive
 agglomerator
 arbutase
 attemperately
@@ -16527,6 +16526,7 @@ amandine
 aegagri
 alumel
 armigers
+attributive
 analogy
 amurcous
 adaptation
