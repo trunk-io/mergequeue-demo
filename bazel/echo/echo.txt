@@ -4295,6 +4295,7 @@ ecotypes
 embolo
 endocarditis
 endarterial
+exothermic
 euphausia
 epauletted
 exuperable
@@ -13465,7 +13466,6 @@ egresses
 enchanting
 easels
 encages
-exothermic
 everliving
 engrafts
 erupts
