@@ -7336,6 +7336,7 @@ complicacy
 comnenian
 cephalocentesis
 cephaloclast
+circulus
 cephalocone
 cephalodia
 cephalodymus
@@ -7478,7 +7479,6 @@ capsidae
 crinch
 chromatoid
 ceratophyta
-circulus
 charlatanic
 caneware
 ceratopteridaceae
