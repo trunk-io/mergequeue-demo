@@ -1961,7 +1961,6 @@ crepes
 crankpin
 cosec
 caudad
-clobbering
 consolers
 camion
 camions
@@ -7701,6 +7700,7 @@ cephalocercal
 crepuscle
 cermets
 commissar
+clobbering
 castillo
 christianogentilism
 codicology
