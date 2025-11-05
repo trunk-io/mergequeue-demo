@@ -1665,7 +1665,6 @@ ectoprocta
 exophthalmus
 extinguishing
 electroplate
-endothorax
 edificative
 explanate
 embrocado
@@ -6723,6 +6722,7 @@ edicts
 endoenteritis
 emunge
 equisetaceae
+endothorax
 equilibrant
 elasticum
 elaioleucite
