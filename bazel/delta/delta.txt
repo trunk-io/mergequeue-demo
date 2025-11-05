@@ -2184,6 +2184,7 @@ decommissions
 dragees
 dragonets
 designers
+dowers
 delivering
 deuniting
 demogorgon
@@ -2275,7 +2276,6 @@ disordeine
 disserviceable
 decemuiri
 deviceful
-dowers
 discourager
 dismastment
 deepish
