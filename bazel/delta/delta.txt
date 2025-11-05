@@ -4420,7 +4420,6 @@ dimercaprol
 distortable
 defendable
 dress
-despose
 diseducate
 didascalos
 dripless
@@ -9147,6 +9146,7 @@ dazement
 dematerialization
 dungas
 debrief
+despose
 defrayed
 donator
 deflow
