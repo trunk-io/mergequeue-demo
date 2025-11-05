@@ -6528,7 +6528,6 @@ departmentalising
 derider
 download
 draughtily
-desc
 drassidae
 dawsonite
 diphthongia
@@ -15129,6 +15128,7 @@ dolph
 deforces
 dogmatically
 dasyurine
+desc
 deliverability
 danube
 dequeues
