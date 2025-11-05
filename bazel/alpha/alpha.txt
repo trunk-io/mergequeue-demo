@@ -5006,7 +5006,6 @@ affective
 adhesives
 amarillos
 affectivity
-affectum
 ankerite
 antipersonnel
 administrant
@@ -23429,6 +23428,7 @@ asymmetrically
 albuminolysis
 adamantoma
 atrichous
+affectum
 anthropomorphically
 aubusson
 aminoazo
