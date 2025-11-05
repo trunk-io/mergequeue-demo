@@ -5244,6 +5244,7 @@ buffball
 bouilli
 barabra
 brigantia
+badian
 bienvenu
 baraca
 breakpoints
@@ -13960,7 +13961,6 @@ bulkheading
 bromothymol
 bromobenzyl
 bimanually
-badian
 bulgy
 bouncily
 bichromated
