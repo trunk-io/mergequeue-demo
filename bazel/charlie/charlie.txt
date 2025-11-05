@@ -1002,7 +1002,6 @@ countervair
 colombina
 condensaries
 calamint
-cableway
 cheesed
 coffeewood
 cash
@@ -6320,6 +6319,7 @@ chuser
 colossi
 causality
 causation
+cableway
 compatient
 clifts
 causator
