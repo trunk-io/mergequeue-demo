@@ -9755,7 +9755,6 @@ bedeafened
 buttonbush
 beneficed
 bumblingness
-backhandedness
 bowser
 blepharospath
 barnful
@@ -10146,6 +10145,7 @@ barretors
 bridecup
 bowfins
 bosun
+backhandedness
 broadest
 barrener
 bejabbers
