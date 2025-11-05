@@ -8480,7 +8480,6 @@ eam
 ephorate
 elaeagnus
 encyclopedical
-epitheloid
 exhumating
 espece
 epizootiology
@@ -10737,6 +10736,7 @@ elementoid
 everydeal
 encrownment
 existential
+epitheloid
 embryotome
 epiphloeum
 entoproct
