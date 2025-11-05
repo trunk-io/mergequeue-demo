@@ -3064,7 +3064,6 @@ engravers
 ezod
 enculturative
 ectopatagia
-exteriorness
 epitome
 entoloma
 enfeoffs
@@ -6452,6 +6451,7 @@ energizers
 electo
 eucryphiaceae
 ecophene
+exteriorness
 espousal
 excusingly
 externate
