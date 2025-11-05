@@ -302,7 +302,6 @@ engs
 elasmobranchiate
 equipage
 esopus
-eartab
 endopathic
 equipedal
 embioptera
@@ -2373,6 +2372,7 @@ epulary
 engrainedly
 entente
 embosser
+eartab
 enregistration
 eugenicist
 epionynychia
