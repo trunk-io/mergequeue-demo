@@ -12569,6 +12569,7 @@ bodykins
 bragite
 bobsledder
 buccaneer
+baldricks
 boni
 bucephalus
 bromacetanilide
@@ -15494,7 +15495,6 @@ broomwood
 braggadocian
 blurter
 brevete
-baldricks
 basicytoparaplastin
 bronchoadenitis
 bestride
