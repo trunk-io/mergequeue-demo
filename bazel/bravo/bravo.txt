@@ -2390,6 +2390,7 @@ bootie
 bondsman
 basilicas
 blameable
+boldos
 bouto
 bullnoses
 beshake
@@ -6912,7 +6913,6 @@ baseboard
 bactris
 budgerow
 bigoniac
-boldos
 boltmaking
 baalite
 bole
