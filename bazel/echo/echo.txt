@@ -1553,7 +1553,6 @@ enchiridia
 embrutes
 exercising
 embalmers
-equiangularity
 emblemized
 electre
 episodic
@@ -8758,6 +8757,7 @@ epicranius
 epicoeloma
 excandescency
 ergostat
+equiangularity
 evaporativity
 essenhout
 exuberancy
