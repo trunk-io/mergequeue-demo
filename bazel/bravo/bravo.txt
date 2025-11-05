@@ -8659,7 +8659,6 @@ bathycolpic
 bijous
 bosniak
 brabantine
-biflecnode
 bulldoggishness
 belaying
 blatti
@@ -13042,6 +13041,7 @@ bused
 bestock
 befallen
 beaume
+biflecnode
 blanco
 burnisher
 bimas
