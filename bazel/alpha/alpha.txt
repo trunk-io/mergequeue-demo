@@ -16750,7 +16750,6 @@ allelic
 abreacts
 abietene
 ambystomidae
-anthophagy
 ankh
 arbalestrier
 audacity
@@ -24710,6 +24709,7 @@ ascones
 anapneic
 astragalocalcaneal
 avengeful
+anthophagy
 antitragus
 araba
 arboraceous
