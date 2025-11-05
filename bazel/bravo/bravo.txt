@@ -7310,7 +7310,6 @@ balaenoptera
 biochemistry
 bullidae
 bobbling
-bignesses
 brave
 bobierrite
 bethorning
@@ -11884,6 +11883,7 @@ bostryx
 bayed
 bonspiel
 brassart
+bignesses
 bodied
 becrowding
 bodilize
