@@ -3163,7 +3163,6 @@ arcanum
 areg
 adamantean
 ashlers
-anisodactylous
 antipolyneuritic
 anastate
 adamantness
@@ -15208,6 +15207,7 @@ acetylid
 aliasing
 antisynod
 acerata
+anisodactylous
 antiferromagnetism
 antifertility
 arcidae
