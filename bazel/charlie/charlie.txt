@@ -3617,7 +3617,6 @@ contended
 caravansaries
 caravanserai
 companeros
-confuse
 coaxes
 compounder
 cosen
@@ -5383,6 +5382,7 @@ commander
 curatorial
 cockroach
 cosmographer
+confuse
 catabasis
 colinear
 coastguard
