@@ -4783,7 +4783,6 @@ corporation
 chintziness
 caridomorpha
 consumo
-communicably
 cementation
 carrousel
 circumfused
@@ -8196,6 +8195,7 @@ carbohemoglobin
 conhydrin
 consigning
 cleanups
+communicably
 circuitable
 cooers
 caveating
