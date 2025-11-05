@@ -376,7 +376,6 @@ botein
 bouillons
 businesslikeness
 blintzes
-beckons
 bairns
 bringela
 beseechingness
@@ -10272,6 +10271,7 @@ bundist
 barleycorn
 bucker
 beg
+beckons
 brainer
 bevors
 banian
