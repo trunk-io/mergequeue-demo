@@ -4474,7 +4474,6 @@ bombshells
 bezonian
 bescarf
 bindable
-bokark
 buckle
 betsileos
 blinger
@@ -8102,6 +8101,7 @@ bruscus
 burstones
 bespreading
 bucketfuls
+bokark
 bounteousness
 bystander
 bevillain
