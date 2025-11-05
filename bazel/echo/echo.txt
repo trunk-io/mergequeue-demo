@@ -8234,7 +8234,6 @@ edges
 epidotic
 eccentrically
 eardrum
-eradicate
 earthslide
 enthelmintha
 edemic
@@ -8646,6 +8645,7 @@ enfeebler
 enumerably
 epitympanic
 epithetic
+eradicate
 elides
 euphemise
 eradicated
