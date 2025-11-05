@@ -5745,7 +5745,6 @@ brasswork
 beastlike
 barbuts
 blarneyer
-billeters
 bigwig
 berob
 beshiver
@@ -18206,6 +18205,7 @@ battling
 birostrated
 bethesda
 bloodstroke
+billeters
 badgemen
 boa
 begrett
