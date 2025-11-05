@@ -217,6 +217,7 @@ ballard
 bandy
 brython
 bitt
+bayards
 bubble
 bluffness
 basongo
@@ -1199,7 +1200,6 @@ bravely
 baldheaded
 blackjacked
 balan
-bayards
 byes
 bittern
 backcap
