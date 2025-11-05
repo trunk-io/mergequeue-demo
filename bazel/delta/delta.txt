@@ -3359,7 +3359,6 @@ disaccustom
 defected
 deemphasizing
 demasculinize
-domicils
 denizening
 duckwife
 dolesome
@@ -17092,6 +17091,7 @@ dactyliographer
 dyscratic
 dribbles
 decompression
+domicils
 decarbonization
 disthroning
 divisory
