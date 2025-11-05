@@ -1478,7 +1478,6 @@ airgraph
 anticommercial
 andalusite
 ancilla
-allocochick
 antefact
 aspidobranchiate
 azotaemia
@@ -16447,6 +16446,7 @@ ack
 arguments
 ambulacrum
 amowt
+allocochick
 arlington
 antres
 agricolous
