@@ -6037,7 +6037,6 @@ becalmed
 betrothment
 bordello
 bailiffry
-bethflower
 blackhead
 blackout
 buttony
@@ -8583,6 +8582,7 @@ bitterheartedness
 bemusing
 bonsoir
 bursitis
+bethflower
 bookmaker
 beachside
 basename
