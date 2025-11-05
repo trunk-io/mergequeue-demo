@@ -2876,6 +2876,7 @@ benzoxate
 barren
 byproduct
 bagroom
+broommaker
 barrets
 bulgarians
 blindeyes
@@ -12001,7 +12002,6 @@ bathvillite
 bogbeans
 bantus
 ballonet
-broommaker
 bloomiest
 brainsick
 baryphonia
