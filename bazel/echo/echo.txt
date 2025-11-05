@@ -3140,7 +3140,6 @@ enterocystoma
 endoskeletons
 epiploic
 effacing
-emboss
 epicondylian
 embosomed
 equitangential
@@ -9489,6 +9488,7 @@ errantly
 elne
 endognathion
 exciding
+emboss
 emmensite
 equimolar
 epigrammatizer
