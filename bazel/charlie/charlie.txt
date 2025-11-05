@@ -876,7 +876,6 @@ clobber
 chivaree
 camogie
 compilable
-copybook
 copperheads
 crackrope
 coamiable
@@ -9422,6 +9421,7 @@ canham
 conusance
 colliquefaction
 coenocentrum
+copybook
 consummator
 collocations
 chaute
