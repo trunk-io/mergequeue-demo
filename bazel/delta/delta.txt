@@ -2847,6 +2847,7 @@ delfs
 descaled
 dikaryophase
 deuterosy
+dominator
 discodactyl
 diapophysis
 digram
@@ -18564,7 +18565,6 @@ delists
 duction
 deorsumvergence
 downlying
-dominator
 domba
 drumlins
 disembowelling
