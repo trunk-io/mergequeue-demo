@@ -262,7 +262,6 @@ departmentalize
 dudish
 dayshine
 decameters
-doubleprecision
 deteriorates
 disrepair
 dictums
@@ -14384,6 +14383,7 @@ duomachy
 deviling
 di
 divan
+doubleprecision
 daydreams
 diamonded
 denuders
