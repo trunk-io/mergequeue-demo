@@ -5462,7 +5462,6 @@ atopen
 acrodermatitis
 aurited
 abyssopelagic
-amygdales
 ambeers
 apiculation
 artisanal
@@ -20863,6 +20862,7 @@ antinial
 artophagous
 alkylates
 anticatalase
+amygdales
 audiometer
 avenine
 aligners
