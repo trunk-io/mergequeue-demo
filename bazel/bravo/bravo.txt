@@ -2819,7 +2819,6 @@ boehmenite
 blastule
 bookit
 bitterbump
-balantidial
 ballers
 bursted
 brontosaurs
@@ -6320,6 +6319,7 @@ barangay
 baronries
 bougainvillea
 buttercups
+balantidial
 borstal
 benight
 bullheadedness
