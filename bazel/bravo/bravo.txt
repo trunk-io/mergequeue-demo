@@ -3979,7 +3979,6 @@ boilable
 becolor
 biles
 bracking
-barrow
 bullswool
 betels
 boordly
@@ -11263,6 +11262,7 @@ broiderer
 bizonia
 brawliest
 bowfront
+barrow
 brotheler
 bestrapped
 bractea
