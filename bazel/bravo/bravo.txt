@@ -2208,6 +2208,7 @@ benchmar
 bolimba
 baalim
 barleducs
+bardesanist
 ballbuster
 bibliothque
 beleaping
@@ -12214,7 +12215,6 @@ bloodying
 bellhanger
 bedsite
 bacteroid
-bardesanist
 bedolt
 bluenesses
 buyouts
