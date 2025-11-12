@@ -12439,7 +12439,6 @@ beforetime
 bucks
 boarwood
 beggarlike
-birder
 baldric
 bawdier
 bless
@@ -13605,6 +13604,7 @@ brierroot
 blanketing
 bifurcous
 braggier
+birder
 bleachers
 booing
 blitzkrieged
