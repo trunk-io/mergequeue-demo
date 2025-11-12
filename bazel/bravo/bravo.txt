@@ -9656,7 +9656,6 @@ branchiura
 bibby
 bombardman
 bobs
-brigandine
 bonedry
 biseriately
 boughpots
@@ -10784,6 +10783,7 @@ barhal
 bedegar
 bandfish
 bristlebird
+brigandine
 balaclava
 behoovefulness
 benzanthracene
