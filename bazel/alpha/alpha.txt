@@ -11839,7 +11839,6 @@ analoga
 anaerobiont
 ankylomele
 antigod
-arthroses
 artier
 arghel
 abridge
@@ -15033,6 +15032,7 @@ acidy
 algate
 anociassociation
 albuminosis
+arthroses
 antidicomarian
 aletaster
 appulsion
