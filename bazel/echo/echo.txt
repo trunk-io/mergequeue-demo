@@ -2802,6 +2802,7 @@ enmarble
 emitter
 exteriorised
 electrotechnology
+estampede
 eileen
 erzahler
 epiplastron
@@ -4452,7 +4453,6 @@ endearing
 elenchical
 enraptured
 earthmaking
-estampede
 exalts
 espials
 emphlysis
