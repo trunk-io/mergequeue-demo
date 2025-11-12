@@ -7613,7 +7613,6 @@ beknight
 benzofuroquinoxaline
 barracks
 beeyard
-building
 barbute
 brevicomis
 biographically
@@ -15696,6 +15695,7 @@ bethumping
 brockets
 ballisticians
 barramundis
+building
 busyness
 boza
 baroneting
