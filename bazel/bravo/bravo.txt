@@ -2821,7 +2821,6 @@ barrage
 beflagged
 boomy
 bolsterwork
-bathymetry
 bodybuilders
 belltopperdom
 brocolis
@@ -15952,6 +15951,7 @@ berberidaceae
 bani
 basion
 biog
+bathymetry
 bluewoods
 boles
 bowstringing
