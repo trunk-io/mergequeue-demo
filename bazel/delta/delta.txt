@@ -763,6 +763,7 @@ destructors
 dialysable
 dangs
 deadflat
+dynamo
 dornock
 density
 dope
@@ -10232,7 +10233,6 @@ deganglionate
 dramatized
 deerflies
 disassimilative
-dynamo
 deliberation
 disinfectant
 dicey
