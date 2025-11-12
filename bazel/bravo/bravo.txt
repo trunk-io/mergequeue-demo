@@ -10840,7 +10840,6 @@ ballaton
 braunite
 bordured
 bombardon
-bandstands
 blick
 bullbeggar
 bibliograph
@@ -12026,6 +12025,7 @@ boatheader
 blowpit
 bryologies
 blencorn
+bandstands
 bandaging
 bitting
 bogland
