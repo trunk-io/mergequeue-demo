@@ -63,7 +63,7 @@ jobs:
           TEMP_FILE=$(mktemp)
           echo '${{ toJSON(github) }}' > $TEMP_FILE
           echo "::endgroup::"
-          ./mq upload-targets --github-json=$TEMP_FILE --gh-token=${{ secrets.ELI_MQ_PAT }} --trunk-token=${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+          ./mq upload-targets --github-json=$TEMP_FILE --gh-token=${{ secrets.ELI_MQ_PAT }} --trunk-token=${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
         env:
           TRUNK_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
