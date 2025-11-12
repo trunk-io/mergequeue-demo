@@ -3349,6 +3349,7 @@ bever
 bastilles
 buggymen
 bastings
+bodywear
 bedsock
 belzebub
 bomble
@@ -11887,7 +11888,6 @@ blanque
 bellowed
 besplit
 benzophenanthrazine
-bodywear
 bupleurum
 blickeys
 boatloads
