@@ -1292,6 +1292,7 @@ bluff
 blea
 bioplastic
 baned
+bandyball
 beakful
 barrowcoat
 bruisewort
@@ -6836,7 +6837,6 @@ belltopper
 balsams
 bluethroat
 bedumbed
-bandyball
 biotypology
 balbutient
 blearedness
