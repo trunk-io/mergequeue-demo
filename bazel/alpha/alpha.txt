@@ -511,7 +511,6 @@ appendage
 abdominoposterior
 abkhasian
 alphabetics
-aurigo
 autophytograph
 aestivation
 apocopation
@@ -9986,6 +9985,7 @@ acorned
 alforja
 amatungula
 automobiled
+aurigo
 antigovernmental
 apanteles
 algerines
