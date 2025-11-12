@@ -3346,6 +3346,7 @@ anteversion
 addressful
 adempt
 acromioscapular
+archprototype
 arousers
 amalgamator
 aortomalaxis
@@ -12882,7 +12883,6 @@ apportionment
 angulus
 anthrax
 anglicanism
-archprototype
 authored
 anaphorically
 aminoacetophenetidine
