@@ -3324,6 +3324,7 @@ defuse
 deflectable
 diagraphic
 dihelios
+downway
 divertibility
 daggar
 domboc
@@ -8377,7 +8378,6 @@ decolonize
 dramalogue
 dammara
 defocus
-downway
 dislady
 dipteral
 delicates
