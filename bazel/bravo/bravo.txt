@@ -2569,7 +2569,6 @@ besotter
 bell
 bettine
 batrachite
-badgeman
 buckstall
 berating
 befriend
@@ -10756,6 +10755,7 @@ banyoro
 bridlewise
 befreeze
 bachelry
+badgeman
 barrelet
 bowpots
 besaiel
