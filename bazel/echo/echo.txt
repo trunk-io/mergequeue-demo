@@ -5750,7 +5750,6 @@ enrolls
 elasticities
 eccl
 eccyesis
-embryonal
 enlisted
 extancy
 electrorefining
@@ -13405,6 +13404,7 @@ escapers
 enterocoelic
 electrodiagnosis
 evolutionarily
+embryonal
 epilogizing
 embruted
 endosporously
