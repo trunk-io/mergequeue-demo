@@ -5594,6 +5594,7 @@ bourbonesque
 bobstay
 bulbochaete
 burgau
+bandlimited
 borghi
 belled
 budling
@@ -17672,7 +17673,6 @@ backstays
 beluchi
 bantams
 balanceman
-bandlimited
 baltimorean
 buttresses
 bargainor
