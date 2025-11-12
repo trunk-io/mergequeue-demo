@@ -8745,6 +8745,7 @@ birotatory
 barton
 bower
 buffs
+begin
 baumier
 basoche
 bual
@@ -17635,7 +17636,6 @@ bervie
 bivocal
 bemol
 brumal
-begin
 bastillion
 butenes
 bepowder
