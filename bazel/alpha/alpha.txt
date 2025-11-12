@@ -3888,7 +3888,6 @@ admiralty
 amphoriskoi
 annam
 anomala
-amtman
 adjectivism
 admiralties
 anorthopia
@@ -5642,6 +5641,7 @@ autocoder
 allotropical
 anaphroditic
 anthropobiology
+amtman
 alloiometry
 anthropometer
 aurelian
