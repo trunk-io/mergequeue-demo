@@ -1452,7 +1452,6 @@ bivariate
 ballade
 barratrous
 boyos
-botulism
 backwoodser
 bacteremia
 berglet
@@ -13695,6 +13694,7 @@ barchan
 blennogenous
 blennemesis
 beclouding
+botulism
 barracking
 booklores
 bombes
