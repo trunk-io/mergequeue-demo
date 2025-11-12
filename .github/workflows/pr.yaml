@@ -19,7 +19,7 @@ jobs:
           repository: trunk-io/mergequeue-tool
           latest: true
           tarBall: true
-          preRelease: true
+          preRelease: false
           extract: true
 
       - name: Determine is_merge
@@ -37,6 +37,6 @@ jobs:
         # so we can simulate delay and flakiness
         if: steps.check_is_merge.outputs.on_merge == 'true'
         run: |
-          ./mq test-sim
+          ./mq test-sim --gh-token=${{ secrets.ELI_MQ_PAT }} --trunk-token=${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
         env:
           IS_MERGE: ${{ steps.check_is_merge.outputs.on_merge }}
