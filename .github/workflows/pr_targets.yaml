@@ -28,7 +28,7 @@ jobs:
       - name: get demo config
         id: get-demo-config
         run: |
-          output=$(./mq config)
+          output=$(./mq config --gh-token=${{ secrets.ELI_MQ_PAT }} --trunk-token=${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }})
           echo "$output" | jq -r '.mode'
           echo "mode=$(echo "$output" | jq -r '.mode')" >> $GITHUB_OUTPUT
           echo "build=$(echo "$output" | jq -r '.build')" >> $GITHUB_OUTPUT
