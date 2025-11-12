@@ -1388,7 +1388,6 @@ bathrooms
 balinghasay
 braces
 bogeying
-bindi
 bedust
 balistes
 balistid
@@ -15068,6 +15067,7 @@ breathiness
 bloodroot
 bullfoot
 bahaist
+bindi
 balsamine
 brissotin
 breathingly
