@@ -342,7 +342,6 @@ demurest
 diallelon
 disjune
 disenrol
-drawspan
 dorsimedian
 dendrons
 disreputed
@@ -6988,6 +6987,7 @@ drollist
 diasyrm
 dipteron
 disoccupied
+drawspan
 dolent
 demo
 deviability
