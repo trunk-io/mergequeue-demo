@@ -4799,6 +4799,7 @@ carrousel
 circumfused
 carrousels
 chaetodontid
+companionway
 corallinaceae
 crinites
 carses
@@ -8839,7 +8840,6 @@ chapless
 catalepsy
 cuppa
 crips
-companionway
 crambid
 curets
 cosmonautics
