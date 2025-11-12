@@ -1666,7 +1666,6 @@ exosphere
 exenterated
 epodic
 epitomatory
-encirclement
 eagres
 eccoproticophoric
 embranchment
@@ -5335,6 +5334,7 @@ enviroment
 editors
 exfigure
 ecumenicity
+encirclement
 engrafting
 ethicizes
 equestrianize
