@@ -10846,7 +10846,6 @@ bavin
 birthrate
 baguet
 biacromial
-bacillary
 ballaton
 braunite
 bordured
@@ -17496,6 +17495,7 @@ bisischiadic
 bloom
 baronages
 bulgurs
+bacillary
 bleachability
 babishly
 brambrack
