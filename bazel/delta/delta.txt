@@ -2196,6 +2196,7 @@ decommissions
 dragees
 dragonets
 dowers
+doublet
 delivering
 deuniting
 demogorgon
@@ -14196,7 +14197,6 @@ disguisable
 diddling
 depurated
 dramatists
-doublet
 disnew
 disvisor
 decriminalize
