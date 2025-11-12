@@ -3376,7 +3376,6 @@ barrages
 buys
 bigamy
 batekes
-betula
 behaver
 besmudge
 bilsteds
@@ -7089,6 +7088,7 @@ babies
 balladmonger
 braceleted
 blowy
+betula
 briskish
 brevipennate
 bagong
