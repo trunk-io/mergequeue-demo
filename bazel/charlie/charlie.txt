@@ -3495,7 +3495,6 @@ calefaction
 clockhouse
 ceased
 carabinier
-cilia
 carabiniere
 carbohydrate
 cinques
@@ -27913,6 +27912,7 @@ cephalomyitis
 colloquium
 carcerate
 cholents
+cilia
 curatorship
 calceiform
 counterannouncement
