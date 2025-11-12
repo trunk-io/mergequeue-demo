@@ -1847,7 +1847,6 @@ boardmen
 brigands
 bepraisement
 beseechment
-bradynosus
 bocaccios
 benefice
 bruta
@@ -10792,6 +10791,7 @@ biseptate
 brazening
 branchiostegal
 buglosses
+bradynosus
 backspierer
 bluebottle
 baramika
