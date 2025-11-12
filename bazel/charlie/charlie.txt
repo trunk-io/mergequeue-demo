@@ -19463,6 +19463,7 @@ collied
 cynthian
 collies
 cupbearer
+commandable
 colorado
 clackama
 colossochelys
@@ -20049,7 +20050,6 @@ coml
 chantage
 cosmati
 crossbowman
-commandable
 crandall
 commanded
 cyclones
