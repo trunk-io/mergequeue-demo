@@ -2751,6 +2751,7 @@ carefuller
 courtroll
 cyrtandraceae
 convoy
+checkroll
 coherald
 coulure
 corniche
@@ -9604,7 +9605,6 @@ couldn
 clubfellow
 cakey
 cirrated
-checkroll
 cumulant
 caffa
 cholesteatoma
