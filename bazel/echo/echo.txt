@@ -5696,7 +5696,6 @@ elaphe
 entomostracous
 elapse
 enaliosauria
-endoplastron
 emote
 ebenales
 exospores
@@ -13837,6 +13836,7 @@ erminette
 episyllogism
 epicly
 exfiltration
+endoplastron
 encarditis
 emplanement
 ergatocracy
