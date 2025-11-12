@@ -5547,7 +5547,6 @@ electroretinogram
 eleutheromaniac
 editing
 ectosteal
-epiphyseal
 electrorefine
 erastian
 equidivision
@@ -13306,6 +13305,7 @@ exorbitance
 epithelioblastoma
 ecthymatous
 electrophysicist
+epiphyseal
 etiolate
 echoer
 eggfish
