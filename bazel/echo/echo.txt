@@ -2004,7 +2004,6 @@ emeriti
 enterocyst
 echinid
 encrustation
-enworthed
 ergophile
 enddamaging
 enhaunt
@@ -3633,6 +3632,7 @@ encardion
 escry
 enlistment
 enguard
+enworthed
 entwisted
 eloigners
 extemporising
