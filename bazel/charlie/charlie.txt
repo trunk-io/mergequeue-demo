@@ -7362,7 +7362,6 @@ categorizes
 circulus
 cephalocone
 cephalodia
-cephalodymus
 cephalodiscida
 chevelure
 congratulate
@@ -20334,6 +20333,7 @@ commixtion
 commixture
 commendatary
 conicalness
+cephalodymus
 clinging
 commodata
 commodate
