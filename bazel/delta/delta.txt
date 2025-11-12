@@ -3488,7 +3488,6 @@ diol
 downtimes
 delundung
 deflections
-defines
 deaccessions
 delete
 deperition
@@ -14470,6 +14469,7 @@ deserver
 denarcotize
 dehydrogenated
 dassie
+defines
 demobilized
 demonologic
 depainting
