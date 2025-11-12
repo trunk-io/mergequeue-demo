@@ -1984,6 +1984,7 @@ coarsely
 caboceer
 clatch
 carboline
+checksumming
 clambake
 cogida
 cirrosely
@@ -9657,7 +9658,6 @@ corvisor
 cellulosed
 crushes
 construct
-checksumming
 chasid
 clutching
 castro
