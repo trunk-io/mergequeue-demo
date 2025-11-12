@@ -2340,6 +2340,7 @@ enchantments
 encumbering
 euryalean
 ecanda
+ensouls
 exch
 exclusions
 etamin
@@ -13370,7 +13371,6 @@ endogen
 enzootically
 elaeodendron
 electrocapillary
-ensouls
 extruded
 electrodialyzer
 electrotechnics
