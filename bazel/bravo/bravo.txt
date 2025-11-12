@@ -2182,7 +2182,6 @@ bronzings
 busthead
 bartholomite
 bulgar
-bismite
 blarny
 barbarically
 burnsides
@@ -5606,6 +5605,7 @@ bellbird
 bonier
 bourbonesque
 bobstay
+bismite
 bulbochaete
 burgau
 bandlimited
