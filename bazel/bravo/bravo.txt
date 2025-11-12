@@ -1700,6 +1700,7 @@ bocces
 ballistician
 bluebonnets
 br
+betel
 beknot
 baccaras
 brachman
@@ -7258,7 +7259,6 @@ ballistics
 birgus
 bevesseled
 bennetweed
-betel
 baseboards
 bilked
 bambuba
