@@ -27367,7 +27367,6 @@ carcasses
 cataspilite
 corroborative
 counterterm
-counterthought
 counterthreat
 caracole
 countertime
@@ -27410,6 +27409,7 @@ colutea
 constitutions
 cothurni
 countercurrentwise
+counterthought
 compositive
 coprocessor
 cunning
