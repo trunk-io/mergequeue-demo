@@ -316,7 +316,6 @@ belar
 bikeway
 burrknot
 bocardo
-blitzed
 blote
 bechalking
 bilberry
@@ -1998,6 +1997,7 @@ blastematic
 baccarats
 betraise
 branniness
+blitzed
 benzoylglycine
 basilissa
 bizarreness
