@@ -18292,7 +18292,6 @@ awave
 arsle
 argosine
 anaglyphics
-abecedarians
 araca
 accursing
 allegorization
@@ -23582,6 +23581,7 @@ agalaxy
 adiaphorous
 asset
 auguring
+abecedarians
 attercop
 afterspeech
 achroma
