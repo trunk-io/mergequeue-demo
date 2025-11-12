@@ -4089,6 +4089,7 @@ cymric
 counterdifficulty
 comd
 chivachee
+chromid
 cerebellums
 cardiologist
 chiplet
@@ -4548,7 +4549,6 @@ cariban
 caroteel
 cercomonad
 carotenes
-chromid
 commoney
 crpe
 comfort
