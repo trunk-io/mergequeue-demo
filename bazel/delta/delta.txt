@@ -1432,7 +1432,6 @@ depolymerize
 diplocoria
 desists
 delocalized
-dioptrometry
 dawkin
 deveining
 desocialize
@@ -14453,6 +14452,7 @@ decentralist
 disminion
 deprecators
 dragshoe
+dioptrometry
 desterilized
 discommodiously
 deftest
