@@ -4860,7 +4860,6 @@ bungle
 beteela
 bromidrosiphobia
 bom
-bedarkened
 bighead
 bandager
 bottling
@@ -9940,6 +9939,7 @@ blockers
 blockholer
 biffin
 bul
+bedarkened
 bloodwort
 bikeways
 bigbloom
