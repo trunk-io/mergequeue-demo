@@ -8266,6 +8266,7 @@ accuracies
 arado
 antlerite
 auxoflore
+audiometry
 armida
 astronomic
 amidocyanogen
@@ -18115,7 +18116,6 @@ artistess
 affectionate
 arace
 amortissement
-audiometry
 adret
 antipathic
 apteryla
