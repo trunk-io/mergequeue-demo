@@ -5935,7 +5935,6 @@ dilatometer
 dryopians
 devotions
 deforceor
-dado
 disbeliefs
 dooryards
 dispersal
@@ -9813,6 +9812,7 @@ dermatoplasty
 dyssynergy
 detonatable
 dieter
+dado
 debase
 diplegias
 demasts
