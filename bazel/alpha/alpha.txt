@@ -6495,7 +6495,6 @@ antimonarch
 artemisin
 angiosclerosis
 athyris
-ascry
 afikomen
 azotometer
 aflight
@@ -24557,6 +24556,7 @@ aerothermodynamic
 anormality
 antibreakage
 anteaters
+ascry
 assurable
 aurotellurite
 aetheric
