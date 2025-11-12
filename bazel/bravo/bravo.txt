@@ -5174,6 +5174,7 @@ blit
 bullose
 bolk
 bilharzial
+bifidity
 begrimer
 begrimes
 brattach
@@ -16356,7 +16357,6 @@ brachydomatic
 brachylogy
 boarship
 breakthrough
-bifidity
 bathrobe
 boris
 beneficient
