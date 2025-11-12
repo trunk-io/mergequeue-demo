@@ -7345,7 +7345,6 @@ aerobacteriology
 arcuses
 amarant
 alberta
-aromatic
 almadie
 albolith
 alectryon
@@ -16141,6 +16140,7 @@ acquittals
 associating
 alloys
 allotheria
+aromatic
 adelphic
 alcedines
 academia
