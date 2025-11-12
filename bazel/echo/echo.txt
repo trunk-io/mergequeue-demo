@@ -625,7 +625,6 @@ exculpations
 entrechats
 evilness
 equidistant
-enode
 equestrienne
 extrusible
 electricity
@@ -7649,6 +7648,7 @@ effacers
 eidolon
 enchainements
 escortee
+enode
 equestrian
 eddaic
 engulfment
