@@ -7225,7 +7225,6 @@ bipont
 backset
 besully
 bourree
-bindlet
 befret
 bounderishly
 beatster
@@ -17006,6 +17005,7 @@ burrfishes
 bonete
 badland
 brashiness
+bindlet
 bespell
 bigot
 but
