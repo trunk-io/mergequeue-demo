@@ -926,6 +926,7 @@ bijectively
 blueleg
 buckboards
 bottlehead
+brewers
 brooming
 beguard
 boric
@@ -6204,7 +6205,6 @@ bakerite
 butcherly
 baggie
 bromin
-brewers
 barfly
 begalling
 broodiness
