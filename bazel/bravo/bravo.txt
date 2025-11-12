@@ -5307,7 +5307,6 @@ bakerlike
 battlestead
 bashing
 bonefishes
-bootid
 bombax
 betowel
 bandusian
@@ -10013,6 +10012,7 @@ bivious
 burglarized
 betrap
 befouled
+bootid
 bottleneck
 barbershop
 bookshelves
