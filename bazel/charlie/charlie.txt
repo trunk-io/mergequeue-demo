@@ -9126,7 +9126,6 @@ cardplayer
 crowstep
 coleophora
 crystalline
-chronocrator
 comptometer
 colorbearer
 chemoreceptor
@@ -25955,6 +25954,7 @@ cattily
 connotation
 coasserter
 contretemps
+chronocrator
 cepe
 caracora
 cathexion
