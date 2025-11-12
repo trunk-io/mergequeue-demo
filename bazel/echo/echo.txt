@@ -426,7 +426,6 @@ embouchement
 endotropic
 electrocute
 evenhanded
-exhale
 echappe
 enigmata
 examinator
@@ -11682,6 +11681,7 @@ encarpium
 ermines
 exclusiveness
 endamaging
+exhale
 enaliornis
 expectance
 epispinal
