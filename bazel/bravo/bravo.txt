@@ -515,7 +515,6 @@ blockhead
 blushwort
 backspaces
 brotan
-blacksmiths
 benchland
 besquirt
 burseraceae
@@ -5540,6 +5539,7 @@ brahmanaspati
 boardy
 biases
 birchen
+blacksmiths
 bernicles
 banderilla
 butanal
