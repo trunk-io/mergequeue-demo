@@ -68,7 +68,6 @@ engraffed
 electrodialysis
 earpick
 exclaimers
-extractible
 excoct
 equilibrio
 engagee
@@ -6795,6 +6794,7 @@ enterocolitis
 exsection
 enrooted
 enharbour
+extractible
 epipany
 embryotroph
 expiatist
