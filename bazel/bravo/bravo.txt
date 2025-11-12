@@ -7262,6 +7262,7 @@ bagatelle
 ballistics
 birgus
 bevesseled
+blastophoral
 bennetweed
 betel
 baseboards
@@ -14876,7 +14877,6 @@ binomially
 behen
 benzylamine
 botanized
-blastophoral
 braxy
 bromlite
 braxies
