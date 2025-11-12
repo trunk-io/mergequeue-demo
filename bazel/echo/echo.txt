@@ -1141,7 +1141,6 @@ expedientist
 ejulate
 embowelled
 economized
-entoplasm
 evisceration
 externalize
 expandible
@@ -5067,6 +5066,7 @@ ericeticolous
 esquisse
 eudendrium
 enteroscope
+entoplasm
 entopical
 elfins
 edacities
