@@ -2716,6 +2716,7 @@ ebcdic
 ensnarling
 extravagation
 ersh
+endosarc
 ecthlipsis
 entredeux
 erelong
@@ -3530,7 +3531,6 @@ equinumerally
 eudipleural
 exquisitely
 enervator
-endosarc
 elderbrotherly
 evangelistary
 equoid
