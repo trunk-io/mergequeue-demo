@@ -4822,7 +4822,6 @@ bonesets
 barrelfuls
 bodiced
 blackland
-bartend
 bugs
 biogenesis
 belait
@@ -10379,6 +10378,7 @@ boschveld
 brainlessness
 bursitises
 bibliotherapy
+bartend
 boil
 bristling
 bon
