@@ -2171,6 +2171,7 @@ acts
 anthranoyl
 abuts
 acidosteophyte
+axal
 ansi
 aweband
 amenity
@@ -18933,7 +18934,6 @@ archipallium
 acclamatory
 antipill
 afrikanderism
-axal
 acetylaminobenzene
 auxoaction
 animalic
