@@ -5741,6 +5741,7 @@ bowgrace
 ballpoint
 biplane
 buffier
+besoms
 biased
 beudantite
 bonnocks
@@ -18424,7 +18425,6 @@ bepaint
 becumber
 bustic
 buzz
-besoms
 bulldozed
 bodonid
 bicentric
