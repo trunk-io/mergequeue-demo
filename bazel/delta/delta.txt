@@ -2786,7 +2786,6 @@ depicters
 desynapsis
 drawlatch
 discarded
-decelerometer
 disenclose
 drossiest
 discanonization
@@ -7610,6 +7609,7 @@ dental
 diachaenium
 dasyprocta
 detruncating
+decelerometer
 dutiful
 dorsel
 dragonade
