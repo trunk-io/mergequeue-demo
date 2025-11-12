@@ -1808,7 +1808,6 @@ basinets
 bewend
 battutos
 brabant
-basigenous
 betokened
 beachy
 begluc
@@ -10740,6 +10739,7 @@ bleeps
 batonne
 blintz
 bellower
+basigenous
 baning
 bookbind
 biocenology
