@@ -1854,6 +1854,7 @@ boardmen
 brigands
 bepraisement
 beseechment
+bradynosus
 bocaccios
 benefice
 bruta
@@ -3585,7 +3586,6 @@ bacchanalism
 bucketful
 brassieres
 battement
-bradynosus
 bosnian
 batty
 benzoperoxide
