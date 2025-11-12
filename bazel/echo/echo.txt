@@ -2952,7 +2952,6 @@ eliphalet
 eviction
 elbowroom
 exarchist
-ebcasc
 epicolic
 enrages
 east
@@ -12631,6 +12630,7 @@ esurine
 emulousness
 erebus
 expanses
+ebcasc
 ethicalism
 endocentric
 eaglestone
