@@ -10816,6 +10816,7 @@ bogeyman
 bounty
 bilskirnir
 bureaucracy
+bayok
 broggle
 bromate
 benaming
@@ -12252,7 +12253,6 @@ bichord
 bananalander
 backwrap
 burtree
-bayok
 biabo
 blindfolding
 boltcutter
