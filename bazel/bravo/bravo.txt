@@ -7277,7 +7277,6 @@ breve
 bidder
 borrowable
 blastier
-baldy
 bony
 businesslike
 bnf
@@ -17592,6 +17591,7 @@ burets
 berg
 busby
 blennoid
+baldy
 bradoons
 bt
 bascule
