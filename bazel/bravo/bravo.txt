@@ -13813,6 +13813,7 @@ belate
 brett
 blackroot
 barehanded
+boarskin
 brow
 biokinetics
 brachiate
@@ -15324,7 +15325,6 @@ bulkhead
 backjaw
 bisharin
 bulrush
-boarskin
 bitted
 burbled
 barnmen
