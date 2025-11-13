@@ -1658,7 +1658,6 @@ epitrochoid
 estuary
 endosporous
 erythremia
-enable
 eminence
 embog
 enchasten
@@ -4535,6 +4534,7 @@ enwoman
 ergotizing
 excludes
 entame
+enable
 exhalants
 epipterygoid
 energies
