@@ -5610,7 +5610,6 @@ children
 col
 cynosarges
 convene
-cyclostomata
 catarrhs
 catasetum
 camases
@@ -24168,6 +24167,7 @@ cantonal
 conventionally
 countercoup
 conventionize
+cyclostomata
 copperworks
 contraflow
 counteracting
