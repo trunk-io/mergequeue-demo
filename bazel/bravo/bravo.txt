@@ -5880,6 +5880,7 @@ bestarve
 bandits
 bimillenium
 brusquer
+baham
 bogwood
 bowhead
 bemartyr
@@ -16020,7 +16021,6 @@ bewitchments
 beginner
 baalize
 bulbier
-baham
 bewonder
 blandishing
 blackwasher
