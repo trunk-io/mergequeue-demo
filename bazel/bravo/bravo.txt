@@ -1851,6 +1851,7 @@ boardmen
 brigands
 bepraisement
 beseechment
+baria
 bocaccios
 benefice
 bruta
@@ -6947,7 +6948,6 @@ bacchides
 bombilla
 behaviorism
 bristliest
-baria
 borrowing
 bolloxing
 bay
