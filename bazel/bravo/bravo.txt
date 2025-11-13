@@ -508,7 +508,6 @@ balilla
 backsite
 breadboard
 biocontrol
-brumalia
 butterbough
 blaeberries
 battler
@@ -10959,6 +10958,7 @@ batement
 busyish
 biblioklept
 backfiller
+brumalia
 bandh
 bliss
 bashkir
