@@ -6347,6 +6347,7 @@ auryl
 accubitus
 aux
 anergy
+area
 attempering
 azyme
 azoturia
@@ -16673,7 +16674,6 @@ adhamant
 amylophagia
 achromatopsy
 abusious
-area
 animalculae
 adventures
 alphosis
