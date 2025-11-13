@@ -2569,6 +2569,7 @@ endemisms
 epibranchial
 enteroptosis
 electrooculogram
+exclusive
 exscinding
 etamines
 evadne
@@ -8385,7 +8386,6 @@ escobita
 enarch
 enkindler
 epigeous
-exclusive
 escrowee
 envies
 emulsifying
