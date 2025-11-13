@@ -1969,6 +1969,7 @@ exauthorizeexc
 exsheath
 encarnalized
 ellagate
+extradict
 explosimeter
 entocoelic
 eyeish
@@ -12711,7 +12712,6 @@ eunuchising
 epilogize
 epizooty
 enterocoele
-extradict
 evader
 erogeny
 expreme
