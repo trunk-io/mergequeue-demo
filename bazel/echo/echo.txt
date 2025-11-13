@@ -452,7 +452,6 @@ earmuffs
 eupittone
 exclaim
 ecliptic
-epithelioceptor
 espouser
 equilibrator
 entailable
@@ -1793,6 +1792,7 @@ exdie
 empiristic
 elementals
 evenoo
+epithelioceptor
 euskara
 eulogizes
 eruc
