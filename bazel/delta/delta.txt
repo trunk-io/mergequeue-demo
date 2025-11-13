@@ -1254,6 +1254,7 @@ duressor
 devourers
 dates
 dispell
+dialogizing
 deoxygenate
 deed
 dysphagia
@@ -8578,7 +8579,6 @@ dramatics
 dangerless
 dellaring
 depletions
-dialogizing
 demagogism
 derivate
 dreidel
