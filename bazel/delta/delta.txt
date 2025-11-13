@@ -9492,7 +9492,6 @@ disambiguations
 delocalised
 dematerialised
 digitaria
-doability
 disjoining
 door
 doves
@@ -15743,6 +15742,7 @@ disformity
 danebrog
 duodecimal
 dislustering
+doability
 derivative
 danae
 disjointedly
