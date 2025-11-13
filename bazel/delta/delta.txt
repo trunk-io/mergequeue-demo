@@ -5281,6 +5281,7 @@ discinct
 dragropes
 desulphurizing
 dibble
+decohere
 doodling
 dirge
 drooling
@@ -11569,7 +11570,6 @@ diabolisation
 duller
 disprivilege
 discomposedness
-decohere
 desmachymatous
 dubiocrystalline
 defensibility
