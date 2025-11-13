@@ -7927,6 +7927,7 @@ bannets
 billetty
 beeping
 bibliopolist
+bailer
 bibliothecarian
 belongings
 bearwoods
@@ -11410,7 +11411,6 @@ biosociological
 brewst
 bibliomanist
 berettas
-bailer
 bestialist
 bube
 birdnester
