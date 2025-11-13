@@ -1256,6 +1256,7 @@ expandedness
 endothys
 earthborn
 electrophobia
+ebcd
 epistyle
 epitaphian
 endowing
@@ -11754,7 +11755,6 @@ examined
 eburneous
 eruca
 eweries
-ebcd
 eggment
 endoplast
 edison
