@@ -8684,7 +8684,6 @@ deteriorate
 diageotropism
 decaffeinates
 disinfections
-dewaxed
 dedd
 dewbeam
 depudorate
@@ -13353,6 +13352,7 @@ demotics
 dogged
 demisemiquaver
 darat
+dewaxed
 decolorizing
 dactylioglyphy
 drawable
