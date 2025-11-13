@@ -9922,7 +9922,6 @@ allotypes
 abiogenous
 alfenide
 aleutian
-apoplasmodial
 angiosis
 antiprostatic
 anthocephalous
@@ -17142,6 +17141,7 @@ antiochian
 accolent
 ax
 axillant
+apoplasmodial
 actuates
 ardu
 adversaries
