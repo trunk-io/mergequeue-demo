@@ -4901,6 +4901,7 @@ endometry
 embryulci
 euclidean
 emptins
+endoscope
 effodientia
 exossate
 excitive
@@ -14171,7 +14172,6 @@ elenchtic
 endmost
 expalpate
 entireties
-endoscope
 evertors
 exsanguious
 elastivity
