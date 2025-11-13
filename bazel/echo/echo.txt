@@ -6782,7 +6782,6 @@ entitle
 experimenter
 exploder
 epizoicide
-entocarotid
 esplanade
 encheer
 elvira
@@ -11865,6 +11864,7 @@ excudate
 erosionist
 expugnable
 entwite
+entocarotid
 extinctions
 empasm
 eques
