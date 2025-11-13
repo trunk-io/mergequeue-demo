@@ -5507,7 +5507,6 @@ epidia
 embargo
 expwy
 exolve
-entrepreneuse
 enfevers
 expeditive
 exponentials
@@ -13332,6 +13331,7 @@ elliptic
 endocytotic
 extollation
 endopleurite
+entrepreneuse
 etrogim
 expectoration
 executrix
