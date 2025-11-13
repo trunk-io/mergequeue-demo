@@ -12954,7 +12954,6 @@ chessboard
 combs
 churchgoers
 churchy
-ceroma
 churchyard
 cemeterial
 churchyards
@@ -25558,6 +25557,7 @@ carrosserie
 chemotherapeutics
 cassocked
 cornice
+ceroma
 cooniest
 costodiaphragmatic
 curine
