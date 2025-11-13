@@ -7619,7 +7619,6 @@ endogenae
 epidermolysis
 estragole
 ejulation
-encephalomalaxis
 ectatic
 emanative
 equipendent
@@ -10168,6 +10167,7 @@ exiler
 ejaculative
 eminences
 eldrich
+encephalomalaxis
 edemata
 ethonone
 excusation
