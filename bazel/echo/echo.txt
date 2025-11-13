@@ -2963,7 +2963,6 @@ eliphalet
 eviction
 elbowroom
 exarchist
-ebcasc
 epicolic
 extensional
 enrages
@@ -7170,6 +7169,7 @@ edp
 ergoplasm
 ethnoses
 encephalophyma
+ebcasc
 embarrel
 estops
 equinia
