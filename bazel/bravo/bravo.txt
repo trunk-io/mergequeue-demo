@@ -4958,7 +4958,6 @@ bombable
 benzenyl
 bobtails
 burp
-behaviored
 barf
 ballsy
 bookless
@@ -11544,6 +11543,7 @@ butteriest
 billsticking
 batten
 branchman
+behaviored
 balladize
 bemurmurs
 blunger
