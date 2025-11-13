@@ -2170,6 +2170,7 @@ acidosteophyte
 axal
 ansi
 aweband
+adversus
 amenity
 amphichrome
 anorthoscope
@@ -7274,7 +7275,6 @@ antalkalis
 armigeros
 aubergistes
 antiparliamental
-adversus
 alarmists
 accountably
 adoringly
