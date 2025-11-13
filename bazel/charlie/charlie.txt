@@ -6544,6 +6544,7 @@ choplogic
 ctn
 cavie
 cannonballing
+ceriomyces
 cavyyard
 caviled
 carotin
@@ -13478,7 +13479,6 @@ coccolithophorid
 curatize
 crewless
 coaches
-ceriomyces
 cabinet
 cycloserine
 cuppas
