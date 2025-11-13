@@ -671,7 +671,6 @@ britches
 batholithic
 betons
 badness
-booklice
 breakaxe
 billard
 bopyrid
@@ -1706,6 +1705,7 @@ br
 betel
 beknot
 brachman
+booklice
 branchiopneustic
 brekky
 buggyman
