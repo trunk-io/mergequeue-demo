@@ -6272,6 +6272,7 @@ excited
 eardrops
 electromedical
 expertize
+exfiltrate
 equivalent
 experience
 essential
@@ -12255,7 +12256,6 @@ epeidia
 ecumenistic
 equally
 ensnarement
-exfiltrate
 exaggerator
 encolure
 epiparasite
