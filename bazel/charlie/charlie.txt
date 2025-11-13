@@ -15208,7 +15208,6 @@ cord
 communicatory
 conveneries
 civism
-civisms
 chagal
 curies
 chaetognathan
@@ -26343,6 +26342,7 @@ citoyen
 catachthonian
 cladocerans
 confectionery
+civisms
 caesareans
 chorusmaster
 constraints
