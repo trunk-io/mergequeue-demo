@@ -1126,6 +1126,7 @@ backbear
 baftah
 boxer
 bestubbled
+beshouted
 bajocco
 bedstaves
 bajra
@@ -8882,7 +8883,6 @@ bioclimatic
 bolis
 brushpopper
 blabber
-beshouted
 begowk
 bedrip
 bywork
