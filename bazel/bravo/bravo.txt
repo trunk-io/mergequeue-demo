@@ -7929,7 +7929,6 @@ bournless
 bannets
 billetty
 beeping
-bibliopolist
 bibliothecarian
 belongings
 bearwoods
@@ -12353,6 +12352,7 @@ blow
 boomlet
 bacteriodiagnosis
 broideries
+bibliopolist
 bagpiping
 bardulph
 blini

@@ -1016,6 +1016,7 @@ engraftment
 eschewance
 ectype
 employless
+endamaged
 expunction
 entrapment
 enclosed
@@ -5866,7 +5867,6 @@ esthesiometry
 enounced
 enstatolite
 edestan
-endamaged
 expone
 exothermicity
 emetia
