@@ -6998,6 +6998,7 @@ conumerous
 curvirostres
 compatibles
 cashbook
+consignatary
 charros
 curbed
 chevalier
@@ -23156,7 +23157,6 @@ consign
 counterquestion
 chirotherium
 communalise
-consignatary
 counterretreat
 chromosomic
 cruelest
