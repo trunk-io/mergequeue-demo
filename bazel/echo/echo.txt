@@ -2919,7 +2919,6 @@ extend
 enseated
 eukairite
 evagation
-epimorphic
 endoconidia
 epiphora
 eemis
@@ -4245,6 +4244,7 @@ encounterer
 enigmatization
 embroiders
 encyclopedias
+epimorphic
 exterminator
 eumeristic
 equidiagonal
