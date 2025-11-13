@@ -11035,7 +11035,6 @@ dogget
 deferred
 defluvium
 dookit
-disinfects
 dehydrogeniser
 doornail
 displumed
@@ -13055,6 +13054,7 @@ duotriode
 decurve
 downgoing
 dessa
+disinfects
 drogerman
 disparageable
 diabolised
