@@ -12330,7 +12330,6 @@ arthral
 areality
 androcephalous
 androcephalum
-adatom
 androclclinia
 arthrogastra
 anisotropic
@@ -25398,6 +25397,7 @@ adenoidectomies
 antitoxins
 ambilevous
 archimime
+adatom
 armours
 alethopteroid
 attachable
