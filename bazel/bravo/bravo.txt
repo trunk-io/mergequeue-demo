@@ -4761,7 +4761,6 @@ batad
 boshbok
 budgie
 borachio
-bearded
 bradytocia
 baxtone
 brownout
@@ -17473,6 +17472,7 @@ buntine
 baculoid
 bilges
 bundists
+bearded
 blufter
 bafaro
 boca
