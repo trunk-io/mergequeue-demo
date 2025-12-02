@@ -12957,6 +12957,7 @@ churchy
 churchyard
 cemeterial
 churchyards
+cambers
 cutling
 chauth
 churchite
@@ -21021,7 +21022,6 @@ cresoline
 contemner
 carpophyte
 compotationship
-cambers
 crooknecked
 chiropterygious
 compulsivity
