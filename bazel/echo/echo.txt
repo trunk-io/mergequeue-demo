@@ -1320,6 +1320,7 @@ enclasp
 emphasis
 electrotyper
 extraventricular
+enspell
 entry
 energesis
 estatesmen
@@ -8182,7 +8183,6 @@ endoperitonitis
 effronted
 embodying
 ektexines
-enspell
 electrothanasia
 effortlessness
 encumberingly
