@@ -6220,7 +6220,6 @@ bakerite
 butcherly
 baggie
 bromin
-barfly
 begalling
 broodiness
 boxty
@@ -17730,6 +17729,7 @@ bessel
 ballooners
 beeth
 boterol
+barfly
 butterfly
 blazonries
 boundedly
