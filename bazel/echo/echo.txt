@@ -2660,6 +2660,7 @@ estaminets
 emanium
 embryology
 estus
+echinologist
 emetic
 esselen
 elfwort
@@ -13197,7 +13198,6 @@ enterozoon
 exorcization
 entryman
 etruscologist
-echinologist
 evaporimeter
 embowers
 enfilading
