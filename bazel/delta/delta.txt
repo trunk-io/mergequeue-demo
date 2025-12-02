@@ -6810,7 +6810,6 @@ diatribes
 delaw
 definiens
 drawarm
-dermapteran
 debone
 doghead
 diptycas
@@ -15674,6 +15673,7 @@ decurions
 doray
 discardment
 deploration
+dermapteran
 devotionality
 desserts
 denitrification
