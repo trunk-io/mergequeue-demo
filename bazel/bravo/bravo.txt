@@ -5300,7 +5300,6 @@ bechamel
 ballaster
 bakerlike
 battlestead
-bashing
 bonefishes
 bootid
 bristling
@@ -18404,6 +18403,7 @@ bessemerize
 bepelt
 brachycera
 buxbaumiaceae
+bashing
 benzothiopyran
 borocarbide
 bint
