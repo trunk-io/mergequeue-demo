@@ -6664,7 +6664,6 @@ cecidomyiidae
 claucht
 coguardian
 carnegiea
-checkpointing
 cecomorphic
 cozie
 craninia
@@ -21685,6 +21684,7 @@ compartimento
 churrus
 concourse
 chromophotographic
+checkpointing
 cliqueless
 cussed
 comminution
