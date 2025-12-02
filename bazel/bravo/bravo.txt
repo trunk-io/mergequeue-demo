@@ -8880,7 +8880,6 @@ baragouinish
 bioclimatic
 bolis
 brushpopper
-blabber
 begowk
 bedrip
 bywork
@@ -16910,6 +16909,7 @@ bromoaurate
 baneberry
 brigaded
 blighties
+blabber
 beneighbored
 burnewin
 banstickle
