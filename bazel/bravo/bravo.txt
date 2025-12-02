@@ -1649,7 +1649,6 @@ blackball
 bates
 balche
 brabejum
-brachydiagonal
 babylonite
 belook
 beliefful
@@ -10678,6 +10677,7 @@ broussonetia
 brouette
 bewash
 belt
+brachydiagonal
 bonebreaker
 boxerism
 blearyeyedness
