@@ -505,6 +505,7 @@ debilitating
 decrement
 dieldrins
 damosel
+deforester
 dumpfile
 dubbin
 descamisados
@@ -8388,7 +8389,6 @@ disseizee
 denierage
 decurved
 demibastioned
-deforester
 deprogram
 demoded
 dermatoxerasia
