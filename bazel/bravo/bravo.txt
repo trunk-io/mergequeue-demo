@@ -1476,6 +1476,7 @@ bututs
 buffos
 bereavers
 bandstop
+bulleted
 bumblepuppy
 bowdlerization
 babylike
@@ -9741,7 +9742,6 @@ buffeter
 branchiopoda
 bathybian
 botulinus
-bulleted
 batteries
 baccae
 bigae
