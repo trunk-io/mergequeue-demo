@@ -3595,6 +3595,7 @@ bioluminescent
 bargains
 basocyte
 barrace
+broggle
 boffos
 boffolas
 ballonette
@@ -10797,7 +10798,6 @@ bogeyman
 bounty
 bilskirnir
 bureaucracy
-broggle
 bromate
 benaming
 brassie
