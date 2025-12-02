@@ -10497,7 +10497,6 @@ diether
 dependencies
 densitometric
 depreciators
-defis
 demipomada
 dichotomies
 disinsulation
@@ -11886,6 +11885,7 @@ dinophyceae
 demonship
 discommunity
 dumose
+defis
 debellator
 deuterate
 dour
