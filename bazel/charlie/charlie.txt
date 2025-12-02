@@ -1780,7 +1780,6 @@ campestral
 cerebratulus
 canvaslike
 camaldule
-chelicerae
 citoyenne
 citification
 coindwelling
@@ -10673,6 +10672,7 @@ chiliaedron
 containerizing
 caramelized
 condenser
+chelicerae
 comals
 cutler
 concretization
