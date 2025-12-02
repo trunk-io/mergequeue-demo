@@ -10796,7 +10796,6 @@ bogeyman
 bounty
 bilskirnir
 bureaucracy
-bayok
 broggle
 bromate
 benaming
@@ -15854,6 +15853,7 @@ benighting
 bitripinnatifid
 berberin
 bedrugs
+bayok
 boldin
 blendes
 bicolor
