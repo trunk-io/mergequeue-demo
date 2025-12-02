@@ -6120,6 +6120,7 @@ beveling
 basiradial
 backslid
 blindfish
+burliness
 buxerries
 beriming
 brachylogies
@@ -17152,7 +17153,6 @@ bolly
 breakbones
 bater
 briefcases
-burliness
 brimfully
 bungo
 baffeta
