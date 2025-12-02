@@ -7162,7 +7162,6 @@ boffins
 bullneck
 bottomry
 brevicaudate
-bedcover
 brassic
 burking
 brandish
@@ -11070,6 +11069,7 @@ bursera
 brid
 batton
 blacksmith
+bedcover
 bilirubinic
 besleeve
 bluestockingish
