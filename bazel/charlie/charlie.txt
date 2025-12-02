@@ -25497,7 +25497,6 @@ corncobs
 condores
 cadlock
 chacoli
-cardcase
 circa
 cams
 corncrake
@@ -31882,6 +31881,7 @@ cashable
 catagenesis
 collenchyma
 catamenia
+cardcase
 casuality
 cuttage
 crebricostate
