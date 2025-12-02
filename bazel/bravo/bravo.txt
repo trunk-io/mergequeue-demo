@@ -39,7 +39,6 @@ boardable
 broomwort
 beseech
 barroom
-babbittry
 backwraps
 beseems
 befriends
@@ -17924,6 +17923,7 @@ batmen
 bustee
 bypasses
 brachypterous
+babbittry
 bushfighting
 bylined
 bromite
