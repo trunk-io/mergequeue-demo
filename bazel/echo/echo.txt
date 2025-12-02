@@ -10875,7 +10875,6 @@ exports
 exigent
 enditing
 esociform
-enumerations
 etas
 exedra
 epitomised
@@ -11021,6 +11020,7 @@ epidendron
 encomiastical
 eisegetic
 etymologize
+enumerations
 euomphalus
 exanthematic
 epeirogenetic
