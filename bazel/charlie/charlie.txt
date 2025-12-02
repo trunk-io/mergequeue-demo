@@ -5398,7 +5398,6 @@ casus
 chalazia
 clanks
 commander
-curatorial
 cockroach
 cosmographer
 confuse
@@ -16820,6 +16819,7 @@ campanularia
 cloudful
 cyanus
 carts
+curatorial
 clotty
 clotting
 ceding
