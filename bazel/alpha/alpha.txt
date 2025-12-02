@@ -12363,6 +12363,7 @@ addleplot
 andromonoecism
 aligns
 aeciotelia
+armors
 algal
 allelvia
 arborolatry
@@ -15880,7 +15881,6 @@ anchorable
 amazingly
 appurtenances
 antiflux
-armors
 applenut
 ausubos
 anviling
