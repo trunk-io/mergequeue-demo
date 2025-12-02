@@ -12998,7 +12998,6 @@ convoys
 caid
 chlorophane
 catalogs
-cauligenous
 churn
 canvased
 catadrome
@@ -27347,6 +27346,7 @@ criminaloid
 cystoureteritis
 catching
 carburet
+cauligenous
 cryophyte
 countersleight
 countersnarl
