@@ -10491,7 +10491,6 @@ datatype
 doctorization
 diseur
 decumary
-diorthosis
 deburr
 defrosters
 diapositive
@@ -12632,6 +12631,7 @@ digestment
 despotes
 droved
 degeneracies
+diorthosis
 dockworker
 diplonema
 definable
