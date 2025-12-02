@@ -4849,6 +4849,7 @@ clowneries
 castellano
 cephalacanthus
 chartroom
+coracoids
 copr
 cartelist
 crimeproof
@@ -23212,7 +23213,6 @@ cheeseparing
 canaster
 chromicizing
 chokidar
-coracoids
 contestable
 compline
 calombo
