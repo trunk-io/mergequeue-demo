@@ -6949,7 +6949,6 @@ bebled
 boma
 blackleggery
 bagaudae
-beclothes
 besoil
 benny
 betiding
@@ -11185,6 +11184,7 @@ batched
 baba
 bribable
 brutalised
+beclothes
 bloodwite
 baffler
 boardinghouse
