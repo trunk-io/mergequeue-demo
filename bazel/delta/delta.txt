@@ -4939,6 +4939,7 @@ deflex
 demarcature
 destroying
 dubious
+discourteousness
 dependance
 dorsoepitrochlear
 diaphragm
@@ -6965,7 +6966,6 @@ donataries
 darking
 downcomes
 dethrone
-discourteousness
 draggier
 disproportionalness
 dat
