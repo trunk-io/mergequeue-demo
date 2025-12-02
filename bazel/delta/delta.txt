@@ -5396,6 +5396,7 @@ dorsoventral
 defrocks
 dojos
 defailance
+depth
 despicableness
 dispoint
 defat
@@ -8493,7 +8494,6 @@ dubiety
 diastolic
 desex
 disorb
-depth
 decoherence
 docoglossa
 dital
