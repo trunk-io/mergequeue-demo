@@ -1349,7 +1349,6 @@ babelike
 bankmen
 bardily
 balded
-bloodstock
 begladded
 brachiocephalic
 balneological
@@ -9753,6 +9752,7 @@ branchiopoda
 bathybian
 botulinus
 batteries
+bloodstock
 baccae
 bigae
 bolsterers
