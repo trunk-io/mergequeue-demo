@@ -1483,6 +1483,7 @@ bright
 blazoner
 bibi
 ballata
+boite
 bruchidae
 beferned
 byword
@@ -12843,7 +12844,6 @@ bumblebee
 biblical
 broigne
 batta
-boite
 beshield
 byplay
 bitbrace
