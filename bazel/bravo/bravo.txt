@@ -1570,6 +1570,7 @@ bursati
 baudronses
 business
 backcloth
+biplanar
 bearbaiting
 bewield
 blackeye
@@ -14857,7 +14858,6 @@ braxy
 bromlite
 biffy
 bioscientific
-biplanar
 brows
 biovular
 budders
