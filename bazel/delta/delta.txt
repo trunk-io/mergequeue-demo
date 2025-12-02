@@ -2805,7 +2805,6 @@ dhuti
 delisted
 dcor
 degassers
-dichas
 divinail
 darwan
 demising
@@ -15379,6 +15378,7 @@ dimensioning
 drier
 disposal
 dramatically
+dichas
 deaspirate
 demimonk
 dingy
