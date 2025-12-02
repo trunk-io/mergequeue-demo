@@ -2162,7 +2162,6 @@ beadwork
 backoff
 brinkmanship
 buildups
-brindles
 borderies
 blockade
 beshouting
@@ -16508,6 +16507,7 @@ byrling
 beecher
 bagpipes
 buddle
+brindles
 baraita
 blennotorrhea
 blast
