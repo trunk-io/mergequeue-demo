@@ -12682,7 +12682,6 @@ corindon
 canzone
 conspiring
 chronicling
-chronicon
 chequeen
 chimer
 crocuta
@@ -26384,6 +26383,7 @@ cowherb
 circumfer
 changeableness
 cumbent
+chronicon
 calliper
 characterlessness
 charivari
