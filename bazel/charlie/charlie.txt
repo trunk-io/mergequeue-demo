@@ -14479,7 +14479,6 @@ camphory
 circumsinous
 clubmen
 collow
-closable
 cocciferous
 carousel
 clapdish
@@ -26857,6 +26856,7 @@ coplotted
 collectivise
 counterintelligence
 caissons
+closable
 concamerated
 chromous
 counterexpostulation
