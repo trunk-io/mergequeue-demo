@@ -683,7 +683,6 @@ billard
 balletomania
 bopyrid
 brief
-besogne
 bartending
 buprestid
 bolshie
@@ -2408,6 +2407,7 @@ blusher
 bankrolls
 blindfolded
 bursas
+besogne
 beaverteen
 brassidic
 bedraggled
