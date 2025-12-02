@@ -3611,7 +3611,6 @@ blackboard
 bosnisch
 bothersomely
 boozed
-backbearing
 bathers
 blanky
 battologise
@@ -11122,6 +11121,7 @@ bemitered
 ballatoon
 bolography
 buckler
+backbearing
 barbells
 bushier
 blockheaded
