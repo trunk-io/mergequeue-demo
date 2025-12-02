@@ -6996,7 +6996,6 @@ beleft
 boothian
 brumby
 boatmen
-bezzant
 barretter
 bruskly
 bricklaying
@@ -8725,6 +8724,7 @@ bradycardia
 bivane
 behests
 berairou
+bezzant
 billing
 bellpull
 brontotherium
