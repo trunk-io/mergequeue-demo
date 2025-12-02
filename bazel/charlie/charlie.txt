@@ -10872,7 +10872,6 @@ cyclizes
 contracivil
 chauffeurs
 coppet
-cyclecars
 convincibility
 chieftainships
 coasts
@@ -15604,6 +15603,7 @@ campoody
 chlorates
 clarino
 cattle
+cyclecars
 clarionet
 clarioning
 curage
