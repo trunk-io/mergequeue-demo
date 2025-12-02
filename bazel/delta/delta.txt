@@ -8480,7 +8480,6 @@ disk
 dredgers
 dustlessness
 drybrained
-dedolomitize
 dialycarpous
 dogmata
 druses
@@ -17653,6 +17652,7 @@ duarchy
 dandering
 disjunct
 dubb
+dedolomitize
 drawbeam
 dwells
 defoil
