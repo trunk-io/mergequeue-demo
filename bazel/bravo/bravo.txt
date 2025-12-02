@@ -6061,7 +6061,6 @@ bespirit
 bol
 burgessdom
 bianco
-bajarigar
 beaconed
 biocoenose
 boarishly
@@ -8770,6 +8769,7 @@ brecia
 brining
 bingos
 brehon
+bajarigar
 bandon
 balaustre
 busheler
