@@ -2691,7 +2691,6 @@ appl
 abarthrosis
 academised
 annona
-alkine
 alloploidy
 absterge
 astre
@@ -4904,6 +4903,7 @@ ambulate
 aether
 animalising
 ataxophemia
+alkine
 archicoele
 abnegate
 acervuline
