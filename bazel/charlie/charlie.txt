@@ -9586,6 +9586,7 @@ cheats
 cableman
 construe
 chebec
+callable
 coregonoid
 chebel
 chibouque
@@ -10703,7 +10704,6 @@ confessionary
 ceraunics
 chakram
 chemicophysiological
-callable
 chestnut
 cotwist
 crank
