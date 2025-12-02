@@ -1367,6 +1367,7 @@ evicting
 epics
 equalable
 equations
+encyrtid
 eutrophication
 eyespots
 efoliose
@@ -5891,7 +5892,6 @@ emasculatory
 evangelicality
 electrolyzing
 engrossment
-encyrtid
 engraining
 emotionlessness
 expellant
