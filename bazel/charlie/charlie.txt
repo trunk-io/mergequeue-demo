@@ -5503,7 +5503,6 @@ crinkles
 calotermitidae
 chawl
 class
-crossopt
 cassinoid
 cholinesterase
 cholecystoduodenostomy
@@ -13489,6 +13488,7 @@ crewless
 coaches
 cabinet
 cycloserine
+crossopt
 cuppas
 cyclosporeae
 collocation

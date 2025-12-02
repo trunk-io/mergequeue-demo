@@ -2887,6 +2887,7 @@ bergeres
 broadbill
 backlighting
 bleymes
+bellyfish
 buzzes
 blakeite
 barrikin
@@ -7138,7 +7139,6 @@ butyl
 bluepoints
 bucrania
 birlie
-bellyfish
 botanomancy
 bestialising
 breaking
