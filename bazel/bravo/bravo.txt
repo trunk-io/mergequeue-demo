@@ -2297,7 +2297,6 @@ bonnetiere
 biltongue
 baobab
 bineweed
-bistratal
 bagpod
 breloque
 bedwarfed
@@ -12838,6 +12837,7 @@ blackishness
 barbeled
 bookbinders
 briers
+bistratal
 bookways
 barquantine
 brigandism
