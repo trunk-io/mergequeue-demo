@@ -1567,6 +1567,7 @@ backcloth
 bearbaiting
 bewield
 blackeye
+blastomyces
 beater
 botulin
 balloonflower
@@ -6395,7 +6396,6 @@ badinage
 bacchiuchii
 bridger
 bistort
-blastomyces
 basinal
 backage
 banxring
