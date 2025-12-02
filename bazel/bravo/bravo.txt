@@ -5737,7 +5737,6 @@ bonnocks
 bee
 brasswork
 beastlike
-barbuts
 blarneyer
 billeters
 bigwig
@@ -8405,6 +8404,7 @@ baignet
 bruchus
 buckaroos
 bromobenzene
+barbuts
 bewall
 bildar
 beflowers
