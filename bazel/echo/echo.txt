@@ -3762,7 +3762,6 @@ exocyclic
 evapotranspiration
 elkhorn
 experimentalize
-err
 escribing
 epigrammatical
 emancipation
@@ -13393,6 +13392,7 @@ excepts
 endarterium
 enthrong
 edgeless
+err
 eudaemonical
 exumbrella
 esne
