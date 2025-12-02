@@ -678,6 +678,7 @@ betons
 badness
 breakaxe
 billard
+balletomania
 bopyrid
 brief
 besogne
@@ -16004,7 +16005,6 @@ bohereen
 brominize
 brittler
 bemolt
-balletomania
 buchmanism
 bethlehemite
 belauds
