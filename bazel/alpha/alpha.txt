@@ -8159,6 +8159,7 @@ alkalis
 ar
 aguavina
 arfillite
+alchemies
 abstainment
 anthericum
 adorant
@@ -8640,7 +8641,6 @@ asteriated
 ankylotome
 ambulantes
 arianistic
-alchemies
 appendicalgia
 abaton
 allergists
