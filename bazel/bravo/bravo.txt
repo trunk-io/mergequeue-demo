@@ -38,6 +38,7 @@ brere
 boardable
 broomwort
 beseech
+berchemia
 barroom
 babbittry
 backwraps
@@ -1554,7 +1555,6 @@ beyerite
 bromous
 bettors
 bifurcate
-berchemia
 boxtree
 bird
 balladeroyal
