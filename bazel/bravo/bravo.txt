@@ -6277,7 +6277,6 @@ bespill
 bondmaids
 benzonitrile
 borh
-bitanhol
 belam
 bandolero
 broncs
@@ -16733,6 +16732,7 @@ bedizens
 bebouldered
 bolelia
 bloomeries
+bitanhol
 bacteriuria
 bokmakierie
 beady
