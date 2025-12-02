@@ -2910,7 +2910,6 @@ catholicos
 chalkstone
 canthuthi
 canticle
-challenger
 chapelward
 cartman
 cristispira
@@ -26081,6 +26080,7 @@ conveyability
 corviser
 corvo
 chamade
+challenger
 chests
 california
 cose
