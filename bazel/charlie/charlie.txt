@@ -2911,6 +2911,7 @@ catholicos
 chalkstone
 canthuthi
 canticle
+challenger
 chapelward
 cartman
 cristispira
@@ -8774,7 +8775,6 @@ cornual
 catastaltic
 chartophylaxes
 carnaptious
-challenger
 choli
 caruncle
 caules
