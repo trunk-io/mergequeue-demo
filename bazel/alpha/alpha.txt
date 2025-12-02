@@ -5798,7 +5798,6 @@ articulatory
 anils
 azocochineal
 aparejos
-acephalia
 arietate
 appellate
 annumerate
@@ -18544,6 +18543,7 @@ attainder
 aristogenesis
 adjusting
 archliar
+acephalia
 arcacea
 anniversary
 anaphoria
