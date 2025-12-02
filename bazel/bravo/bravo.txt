@@ -509,7 +509,6 @@ betowered
 backsite
 breadboard
 biocontrol
-butterbough
 blaeberries
 battler
 bori
@@ -7563,6 +7562,7 @@ branchless
 braillewriter
 breed
 bindings
+butterbough
 buxomest
 buffont
 befall
