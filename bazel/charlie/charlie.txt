@@ -5247,7 +5247,6 @@ choosing
 castable
 castalian
 comptonite
-chertier
 cymling
 castane
 castanea
@@ -23512,6 +23511,7 @@ chauve
 ceromez
 ctenostomata
 canopic
+chertier
 corrasive
 cocitizen
 consumptions
