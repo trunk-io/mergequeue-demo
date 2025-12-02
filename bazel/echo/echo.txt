@@ -2674,7 +2674,6 @@ exciple
 eccentricity
 esbay
 emys
-enwinds
 electroviscous
 elaidin
 escapist
@@ -6406,6 +6405,7 @@ enisle
 emptor
 evacuant
 epistasis
+enwinds
 euskarian
 electrocontractility
 eversible
