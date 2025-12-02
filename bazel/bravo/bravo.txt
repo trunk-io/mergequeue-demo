@@ -6514,7 +6514,6 @@ bankbooks
 belies
 bootloader
 blepharospasm
-biunity
 broadside
 banquettes
 butterwright
@@ -10853,6 +10852,7 @@ bronchocele
 braconidae
 botong
 behoovefully
+biunity
 beemaster
 bookcase
 bullaces
