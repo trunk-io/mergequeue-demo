@@ -2612,6 +2612,7 @@ dulse
 daric
 dibbling
 decolouration
+dismissing
 dowily
 denarii
 dumpcarts
@@ -6873,7 +6874,6 @@ diospyraceous
 disarticulate
 deceased
 daimiate
-dismissing
 dealkylate
 discorder
 dodecatyl
