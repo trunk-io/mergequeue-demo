@@ -1038,7 +1038,6 @@ anilities
 attila
 abelmoschus
 absenter
-autosome
 anaerobiotic
 augustus
 anaphrodisiac
@@ -8583,6 +8582,7 @@ anemology
 arghoul
 abstracters
 ancyrene
+autosome
 abnormally
 asexualization
 allelomorphic
