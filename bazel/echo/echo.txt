@@ -3970,6 +3970,7 @@ engastrimythic
 endosporium
 excludable
 erythrin
+extender
 excursion
 epidermoid
 enfork
@@ -10610,7 +10611,6 @@ evasible
 exoplasm
 ergastulum
 erichtoid
-extender
 endoprocta
 earnings
 epipactis
