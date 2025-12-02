@@ -14272,7 +14272,6 @@ collision
 cousiness
 circuit
 continues
-calefactor
 circuitman
 constitutionality
 chaffery
@@ -29816,6 +29815,7 @@ camphines
 crooksterned
 croftland
 crossway
+calefactor
 counterambush
 catalpas
 cruels
