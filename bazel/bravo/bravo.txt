@@ -747,7 +747,6 @@ burmese
 bat
 bilos
 byzantinesque
-bambuco
 bolster
 bargh
 blakeberyed
@@ -4386,6 +4385,7 @@ bees
 barysilite
 belder
 bedabble
+bambuco
 belatedly
 bolloxes
 bullous
