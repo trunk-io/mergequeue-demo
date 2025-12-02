@@ -14150,7 +14150,6 @@ bombycidae
 bibionidae
 bombesin
 brachyfacial
-baring
 bludged
 barytine
 bides
@@ -14755,6 +14754,7 @@ brins
 busmen
 bathymetrical
 blanquillos
+baring
 brasse
 boultel
 bennis
