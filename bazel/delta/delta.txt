@@ -1934,7 +1934,6 @@ demilitarised
 deontic
 desulfurs
 detecter
-directional
 duggler
 dedans
 downligging
@@ -11875,6 +11874,7 @@ demonship
 discommunity
 dumose
 defis
+directional
 debellator
 deuterate
 dour
