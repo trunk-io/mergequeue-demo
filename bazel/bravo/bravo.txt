@@ -1582,7 +1582,6 @@ ballottement
 bhajan
 buckjump
 blight
-brownstones
 beetrave
 backplanes
 busts
@@ -2606,6 +2605,7 @@ bemoanable
 benthal
 barmaster
 bertat
+brownstones
 belligerents
 backbit
 barmcloth
