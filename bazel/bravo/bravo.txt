@@ -3536,6 +3536,7 @@ backtrack
 batlon
 bisegment
 boyishness
+binal
 bilberries
 bartisans
 blanchimeter
@@ -15100,7 +15101,6 @@ breedable
 bikram
 blurrer
 botchily
-binal
 beelzebul
 biochemics
 bondminder
