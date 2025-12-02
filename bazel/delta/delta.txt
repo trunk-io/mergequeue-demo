@@ -4897,7 +4897,6 @@ dispair
 decodable
 druids
 duchess
-deboist
 daidlie
 donack
 dipnoans
@@ -15581,6 +15580,7 @@ diatheses
 disimbitter
 diplexer
 dock
+deboist
 definite
 distn
 dutchy
