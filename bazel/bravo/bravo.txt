@@ -4733,7 +4733,6 @@ beholden
 bicameralist
 bitstone
 bonnetman
-blab
 bomarea
 boxtop
 bulbomedullary
@@ -4866,6 +4865,7 @@ bedouse
 bootman
 baal
 billeter
+blab
 brackish
 batiked
 bohea
