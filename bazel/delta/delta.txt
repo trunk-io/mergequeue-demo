@@ -8852,6 +8852,7 @@ domestic
 dirl
 dimps
 depone
+dimensionless
 drawloom
 diapase
 delegative
@@ -12951,7 +12952,6 @@ derogation
 deniability
 directionalize
 donkeywork
-dimensionless
 diffractively
 disomatic
 distained
