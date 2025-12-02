@@ -1076,7 +1076,6 @@ earspool
 enterocentesis
 electrostenolytic
 educators
-endogenous
 electrocutioner
 ectozoans
 emetics
@@ -12922,6 +12921,7 @@ echard
 empyreans
 encephalometer
 establish
+endogenous
 expansivity
 etherialization
 exarticulation
