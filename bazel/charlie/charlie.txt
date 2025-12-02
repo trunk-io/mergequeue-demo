@@ -12916,6 +12916,7 @@ crooknecks
 chunk
 conditionalities
 concameration
+cunit
 constabulary
 citrulline
 cossacks
@@ -21328,7 +21329,6 @@ clunk
 ctenidium
 curtnesses
 ciborium
-cunit
 cyclotron
 cmdg
 comptness
