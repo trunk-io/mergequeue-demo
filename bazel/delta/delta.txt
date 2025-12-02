@@ -14153,7 +14153,6 @@ disusage
 dalaga
 depopulates
 dunair
-despumate
 diencephalons
 domesticized
 delignate
@@ -15287,6 +15286,7 @@ duplicator
 diluviums
 dethroned
 determinedness
+despumate
 disintegrate
 demythologising
 dispraisingly
