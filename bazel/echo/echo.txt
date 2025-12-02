@@ -1335,6 +1335,7 @@ exist
 etherification
 exhaustivity
 exploiting
+exploding
 expirations
 engaze
 epaxially
@@ -4373,7 +4374,6 @@ engagement
 ectoproctan
 escolar
 exudes
-exploding
 excursions
 easements
 ergatomorphism
