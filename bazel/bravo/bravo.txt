@@ -1039,7 +1039,6 @@ bandspreading
 bailors
 bestraddle
 berkeleian
-bakeshop
 befleaing
 brotuliform
 bogies
@@ -7707,6 +7706,7 @@ bertram
 brocard
 bodge
 bowstave
+bakeshop
 barbaric
 ballywack
 browache
