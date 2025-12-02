@@ -1364,7 +1364,6 @@ append
 aftermark
 argosy
 associateship
-agglomeration
 aglet
 acroliths
 apenteric
@@ -4806,6 +4805,7 @@ armyworm
 amatol
 adulterate
 ailuridae
+agglomeration
 arenae
 arabitol
 adenoviral
