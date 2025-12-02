@@ -1440,6 +1440,7 @@ alsmekill
 aeolsklavier
 accomplishments
 altigraph
+apotype
 accordancy
 adventureful
 alkaptone
@@ -18651,7 +18652,6 @@ archaizer
 archaizing
 agonista
 archangelica
-apotype
 achievers
 absinthiating
 axenic
