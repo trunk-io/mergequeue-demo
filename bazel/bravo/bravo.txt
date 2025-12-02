@@ -6406,6 +6406,7 @@ boxing
 backdate
 baloo
 bugwort
+barbershops
 bemix
 bibliotaphe
 bombyx
@@ -15967,7 +15968,6 @@ baith
 barcelona
 boathook
 banya
-barbershops
 bar
 backward
 bacteriologists
