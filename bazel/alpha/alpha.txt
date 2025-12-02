@@ -5158,7 +5158,6 @@ acidaemia
 anergias
 akela
 affusion
-archidome
 asklent
 autogiro
 agons
@@ -12315,6 +12314,7 @@ albitophyre
 anacreon
 aurorally
 anthotropic
+archidome
 appropre
 aspirins
 anemias
