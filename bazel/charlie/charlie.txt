@@ -1940,7 +1940,6 @@ camerist
 campanero
 cartesian
 cleped
-completion
 crampbit
 corvus
 coregency
@@ -19386,6 +19385,7 @@ chondrostei
 cutest
 cryptodira
 chirm
+completion
 choragi
 colonisable
 clinid
