@@ -1120,6 +1120,7 @@ dother
 debrided
 divinises
 dire
+diaeresis
 dissemblies
 dicotyledon
 duststorm
@@ -6253,7 +6254,6 @@ discriminant
 diplopodic
 declarer
 defensibly
-diaeresis
 deric
 dissociability
 dynamic
