@@ -2749,7 +2749,6 @@ boat
 brookside
 baphia
 bryozoa
-burgamot
 banksman
 baroqueness
 behenic
@@ -15877,6 +15876,7 @@ breadmaker
 beermaking
 bilamellate
 beaklike
+burgamot
 barotse
 bromian
 blindweed
