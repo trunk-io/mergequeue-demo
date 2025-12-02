@@ -4233,6 +4233,7 @@ bedaggered
 broon
 bashalick
 beheader
+bops
 bezette
 bushfighter
 bartering
@@ -6712,7 +6713,6 @@ baaskaap
 barnburner
 belamour
 bedare
-bops
 boomed
 bradypodoid
 benton
