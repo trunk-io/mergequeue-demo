@@ -5123,7 +5123,6 @@ evil
 encaenia
 emplastrum
 endenize
-eigenfrequency
 enringing
 expt
 epithalamus
@@ -9195,6 +9194,7 @@ employs
 evaporation
 enamelless
 electricize
+eigenfrequency
 epicureans
 evanescenrly
 eophyton
