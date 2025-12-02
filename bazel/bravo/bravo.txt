@@ -529,6 +529,7 @@ bachelor
 bimini
 bebar
 besom
+bitmap
 bulbophyllum
 beseeched
 barbitals
@@ -1223,7 +1224,6 @@ bellum
 boreades
 bipedism
 bemuzzled
-bitmap
 boils
 bucket
 beclose
