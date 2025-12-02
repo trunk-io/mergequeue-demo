@@ -1771,7 +1771,6 @@ deathrates
 dayal
 distriction
 diversional
-dauerschlaf
 deathtime
 deathtrap
 deutobromide
@@ -9297,6 +9296,7 @@ darkles
 doodab
 dynamiting
 deacidifying
+dauerschlaf
 dezincing
 doctrinarity
 dorsoabdominal
