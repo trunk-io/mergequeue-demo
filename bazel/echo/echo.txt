@@ -5525,7 +5525,6 @@ executable
 encouragements
 enthralment
 encraal
-evensongs
 electropower
 episplenitis
 externalizes
@@ -13385,6 +13384,7 @@ equisignal
 edda
 eggcupful
 expenses
+evensongs
 ellwand
 eelgrass
 elymus
