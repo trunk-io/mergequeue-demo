@@ -3517,7 +3517,6 @@ blebs
 boatowner
 buprestis
 bonework
-benthoscope
 brainchild
 bundt
 boloneys
@@ -11926,6 +11925,7 @@ barotaxis
 boyce
 bisaltae
 blatancy
+benthoscope
 buz
 basophilous
 burgomastership
