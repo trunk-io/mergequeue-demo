@@ -5813,6 +5813,7 @@ caterbrawl
 catercorner
 catercornerways
 condemnations
+currie
 conveyors
 coholder
 churchill
@@ -15983,7 +15984,6 @@ culpas
 cokie
 constable
 cachaca
-currie
 calamagrostis
 coenaculous
 cosurety
