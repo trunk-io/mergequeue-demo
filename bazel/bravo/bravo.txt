@@ -8446,7 +8446,6 @@ best
 bilinguar
 bostangi
 beteach
-bridehead
 bepaste
 byliny
 bergman
@@ -17757,6 +17756,7 @@ burned
 burner
 buchonite
 bough
+bridehead
 bott
 besmouch
 balaghat
