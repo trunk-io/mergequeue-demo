@@ -1492,6 +1492,7 @@ extendlessness
 engrams
 electrolyzer
 extraocular
+extracapsular
 exhortations
 enjambment
 empleomania
@@ -11935,7 +11936,6 @@ estrogens
 emigres
 ethician
 elasticizing
-extracapsular
 eggar
 ethenol
 eutrophic
