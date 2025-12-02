@@ -6507,7 +6507,6 @@ concrement
 courtesanry
 chromoscope
 cornbread
-caudation
 cabecudo
 complementizer
 cairds
@@ -25688,6 +25687,7 @@ canalboat
 cuartillo
 crisply
 cryptolunatic
+caudation
 couchee
 carabini
 constancy
