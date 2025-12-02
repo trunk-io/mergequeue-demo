@@ -9521,7 +9521,6 @@ conventionality
 cameleers
 controllability
 chazanut
-circularwise
 coruco
 cassia
 curtly
@@ -11907,6 +11906,7 @@ commitment
 chondrosarcomatous
 catoptrical
 cachunde
+circularwise
 copyman
 chondrostean
 chuet
