@@ -2579,7 +2579,6 @@ boltsmith
 bleated
 bacteriolysin
 bumpy
-broadsword
 bismuthite
 bitewing
 bedell
@@ -10673,6 +10672,7 @@ brochant
 bowknots
 bedrails
 bloodmobiles
+broadsword
 brennage
 buist
 biordinal
