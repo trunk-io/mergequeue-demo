@@ -4367,7 +4367,6 @@ demonology
 datakit
 dihedral
 discovers
-dioceses
 deletory
 dipterologist
 dissimilarity
@@ -7115,6 +7114,7 @@ dictum
 distillage
 deli
 doodad
+dioceses
 dharmas
 disheritment
 defoliations
