@@ -2548,7 +2548,6 @@ electrosensitive
 exinite
 elvishly
 erythrean
-exoderms
 engines
 enzymology
 encrusted
@@ -6913,6 +6912,7 @@ enddamage
 erminois
 ensurer
 epibatholithic
+exoderms
 error
 entoprocta
 eluders
