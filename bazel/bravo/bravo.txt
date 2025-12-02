@@ -3337,7 +3337,6 @@ blackgums
 belsire
 bespin
 berigora
-bastardry
 brahmins
 bizarrely
 baklava
@@ -14357,6 +14356,7 @@ bluewood
 backstab
 bourride
 betrayal
+bastardry
 bagfuls
 bivalved
 breathable
