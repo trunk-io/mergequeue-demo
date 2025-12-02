@@ -7063,7 +7063,6 @@ accusatives
 antimeson
 applesnits
 alexandrines
-ascidia
 alish
 anan
 aloofe
@@ -8672,6 +8671,7 @@ abature
 asswage
 archimandrite
 ata
+ascidia
 antrorse
 annulately
 abstentionist
