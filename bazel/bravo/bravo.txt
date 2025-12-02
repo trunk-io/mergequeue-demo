@@ -471,7 +471,6 @@ betipple
 begunk
 balladized
 befilleted
-bevatron
 batavi
 balloon
 backpack
@@ -10849,6 +10848,7 @@ buffered
 broods
 brouhahas
 bulletheadedness
+bevatron
 bagnio
 bronchocele
 braconidae
