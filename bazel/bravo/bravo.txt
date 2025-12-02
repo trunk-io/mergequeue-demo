@@ -3599,6 +3599,7 @@ bodysuits
 barkbound
 bathybic
 barranca
+bustier
 bemist
 blackboard
 bosnisch
@@ -16431,7 +16432,6 @@ byward
 bullescene
 buzzardly
 biloculate
-bustier
 batter
 bangup
 beasties
