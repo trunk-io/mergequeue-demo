@@ -3421,7 +3421,6 @@ byroads
 basichromatinic
 bals
 bonagh
-beerocracy
 boxfish
 blattariae
 bulak
@@ -8041,6 +8040,7 @@ bicultural
 brattie
 bestrut
 beadeyes
+beerocracy
 brakiest
 breacher
 bantered
