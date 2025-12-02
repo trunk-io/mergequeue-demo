@@ -5565,7 +5565,6 @@ electrorefine
 erastian
 equidivision
 encephaloma
-entheos
 economise
 epiglottal
 enervation
@@ -8458,6 +8457,7 @@ electrostatic
 endocarp
 eurytopicity
 enamoredness
+entheos
 exect
 ethmoids
 essera
