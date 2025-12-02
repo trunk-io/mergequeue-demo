@@ -5163,7 +5163,6 @@ broadsides
 baff
 bethumped
 bummle
-brandywine
 bumpers
 biweekly
 bedabbled
@@ -7874,6 +7873,7 @@ bendees
 billboards
 billheading
 bargee
+brandywine
 bassan
 birsit
 bedspreads
