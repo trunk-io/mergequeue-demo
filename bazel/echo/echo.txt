@@ -1332,7 +1332,6 @@ exist
 etherification
 exhaustivity
 exploiting
-exploding
 expirations
 engaze
 epaxially
@@ -8587,6 +8586,7 @@ episiostenosis
 erythrine
 ergastic
 eurythmy
+exploding
 electrodiagnostic
 effluvial
 estonian
