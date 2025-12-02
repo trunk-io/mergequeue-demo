@@ -1427,6 +1427,7 @@ emotion
 emulators
 enclitic
 electrochronometric
+etypical
 erythrozincite
 eigenspace
 endostitis
@@ -11209,7 +11210,6 @@ eelfish
 extrapopular
 expansional
 egotistic
-etypical
 extraformal
 enopla
 emeraude
