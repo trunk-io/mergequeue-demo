@@ -1943,7 +1943,6 @@ coolers
 circumstantiates
 camerinidae
 camerist
-coelodont
 campanero
 cartesian
 cleped
@@ -3372,6 +3371,7 @@ caps
 cerebrose
 compresses
 cranioclasis
+coelodont
 capsomers
 capstans
 colonize
