@@ -5637,7 +5637,6 @@ basing
 burseeds
 barracker
 becriming
-becard
 billowiness
 barbicans
 bemata
@@ -13003,6 +13002,7 @@ blundering
 brended
 bused
 bestock
+becard
 befallen
 beaume
 biflecnode
