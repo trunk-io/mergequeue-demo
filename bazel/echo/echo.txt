@@ -1487,7 +1487,6 @@ ekka
 elohimic
 extrusion
 elate
-encircled
 erythrasma
 epicrasis
 escalin
@@ -11957,6 +11956,7 @@ elemicin
 ectotropic
 entrepot
 erwin
+encircled
 exosmose
 evilsayer
 etiquettes
