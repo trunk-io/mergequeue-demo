@@ -10381,7 +10381,6 @@ cequi
 chiasmata
 chromatize
 cornelius
-coost
 cisterna
 cystoscopy
 confix
@@ -27519,6 +27518,7 @@ cyclometer
 cheilodipterus
 czarowitch
 clocker
+coost
 cleric
 chondrigenous
 calliope
