@@ -10994,7 +10994,6 @@ diathermometer
 desmotrope
 domajig
 dogget
-deferred
 defluvium
 dookit
 dash
@@ -15613,6 +15612,7 @@ dielectrical
 diffusibly
 duodenas
 dopas
+deferred
 dupla
 debordment
 demasculinise
