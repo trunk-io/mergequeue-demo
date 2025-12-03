@@ -2174,6 +2174,7 @@ abuts
 acidosteophyte
 axal
 ansi
+affectional
 aweband
 adversus
 amenity
@@ -10615,7 +10616,6 @@ arthroplasty
 araneous
 anastigmat
 arrhythmy
-affectional
 angiomyosarcoma
 archership
 aztecan
