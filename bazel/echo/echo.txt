@@ -5683,7 +5683,6 @@ emote
 ebenales
 ealdorman
 emanational
-exophagous
 elective
 enfree
 enchasers
@@ -12864,6 +12863,7 @@ excitron
 enseat
 episode
 ensuer
+exophagous
 erratum
 eudyptes
 equanimously
