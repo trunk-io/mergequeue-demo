@@ -5732,6 +5732,7 @@ buprestidae
 bellwort
 bowgrace
 ballpoint
+bevesseled
 biplane
 bismethyl
 buffier
@@ -7263,7 +7264,6 @@ bacilliform
 bilkis
 ballistics
 birgus
-bevesseled
 bennetweed
 bronk
 baseboards
