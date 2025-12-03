@@ -5322,7 +5322,6 @@ delftware
 divots
 daiva
 disconanthae
-deflagrability
 desired
 dutymonger
 decimal
@@ -6413,6 +6412,7 @@ dooputty
 dephlegmatory
 decree
 dilection
+deflagrability
 damner
 dreint
 disboweled
