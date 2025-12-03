@@ -3153,6 +3153,7 @@ eucrasy
 excircle
 eichbergite
 elemong
+epos
 enterocystoma
 endoskeletons
 epiploic
@@ -5770,7 +5771,6 @@ evening
 empanelled
 enteroanastomosis
 erythroxyline
-epos
 ephorus
 evagination
 elegiast
