@@ -2828,7 +2828,6 @@ elevenses
 eaten
 eleventeenth
 etymologisable
-effate
 eccles
 elfenfolk
 esseda
@@ -8619,6 +8618,7 @@ eastre
 euouae
 excavation
 eulogising
+effate
 endangering
 effume
 energize
