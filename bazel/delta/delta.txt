@@ -2007,6 +2007,7 @@ dayward
 dumpage
 deformability
 delicts
+diambic
 designado
 dukhobor
 desideration
@@ -8556,7 +8557,6 @@ dorsolateral
 diaguitas
 diathermize
 deration
-diambic
 dearworth
 decine
 drunker
