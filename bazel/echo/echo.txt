@@ -161,7 +161,6 @@ eyeliner
 erythritic
 electroencephalographic
 epitheliulia
-entocranial
 ergodicity
 exclaustration
 endocrinism
@@ -4702,6 +4701,7 @@ ersatz
 encushion
 endarchies
 electroencephalograms
+entocranial
 enteraden
 epimerase
 evocatory
