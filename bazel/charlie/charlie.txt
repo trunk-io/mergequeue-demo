@@ -12737,7 +12737,6 @@ caliches
 chronographer
 crophead
 cauterizing
-circularize
 coalmonger
 carrells
 contactant
@@ -28861,6 +28860,7 @@ credenzas
 cooried
 carcinomorphic
 cachespell
+circularize
 cuing
 cantino
 cimicoid
