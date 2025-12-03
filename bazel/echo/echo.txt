@@ -1271,7 +1271,6 @@ extranuclear
 emption
 explodable
 estheriidae
-equipping
 enfatico
 ethionamide
 ethiopian
@@ -5736,6 +5735,7 @@ enrolls
 elasticities
 eccl
 eccyesis
+equipping
 enlisted
 extancy
 electrorefining
