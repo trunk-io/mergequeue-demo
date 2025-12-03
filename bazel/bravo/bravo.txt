@@ -12444,7 +12444,6 @@ bauxite
 beforetime
 bucks
 boondoggler
-boarwood
 beggarlike
 baldric
 bawdier
@@ -18070,6 +18069,7 @@ beminstrel
 blepharoplast
 bronchiectasis
 bicentrically
+boarwood
 bennettites
 bittie
 bandore
