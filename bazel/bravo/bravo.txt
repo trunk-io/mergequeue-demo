@@ -1524,6 +1524,7 @@ bulbiform
 bromhydrate
 becloaked
 blown
+briarroot
 backsword
 baryon
 bornite
@@ -8747,7 +8748,6 @@ bovarism
 bindis
 bossism
 birding
-briarroot
 bumbled
 branchiopodan
 boosts
