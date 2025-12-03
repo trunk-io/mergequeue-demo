@@ -2610,7 +2610,6 @@ dumpcarts
 depopulative
 decreers
 decommission
-decommissioned
 decurvature
 dispersibility
 diver
@@ -14951,6 +14950,7 @@ dermatoid
 dhikr
 drearisomely
 doorcase
+decommissioned
 definiteness
 determinateness
 daun
