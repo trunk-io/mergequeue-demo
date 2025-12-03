@@ -765,6 +765,7 @@ boc
 bathometer
 burgrave
 bothering
+barkeepers
 beauxite
 bowwoman
 bopster
@@ -14426,7 +14427,6 @@ bonnets
 binomen
 bairagi
 baculum
-barkeepers
 bufotenine
 bucca
 bices
