@@ -10226,6 +10226,7 @@ composers
 chairless
 chap
 chaenactis
+coracohumeral
 cherubim
 canamo
 cellipetal
@@ -11792,7 +11793,6 @@ civilising
 choleriform
 corries
 conjugating
-coracohumeral
 concentering
 closest
 chelicerate

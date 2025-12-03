@@ -751,7 +751,6 @@ bat
 bilos
 byzantinesque
 bolster
-bargh
 blakeberyed
 berreaves
 bobeche
@@ -18435,6 +18434,7 @@ buzzier
 burnut
 bolero
 bedarkens
+bargh
 barret
 braidism
 bunkum
