@@ -3326,6 +3326,7 @@ domesticable
 dendrolagus
 demirep
 derailer
+dustcart
 downrightness
 defuse
 deflectable
@@ -8584,7 +8585,6 @@ depravation
 drabbing
 duc
 disintegrator
-dustcart
 doorcheek
 dezinc
 delilah
