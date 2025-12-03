@@ -6432,7 +6432,6 @@ bestick
 bartender
 ballplatz
 bedirt
-bacteriostasis
 barpost
 botherer
 bioblast
@@ -14646,6 +14645,7 @@ branchiostomid
 bour
 bioethics
 brandyball
+bacteriostasis
 bulrushes
 branchlet
 blues
