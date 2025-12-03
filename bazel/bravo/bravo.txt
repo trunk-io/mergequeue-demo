@@ -1516,6 +1516,7 @@ bierstuben
 bearer
 balli
 brassworks
+bamboos
 bitume
 braziers
 batholitic
@@ -14910,7 +14911,6 @@ belostoma
 boaters
 beledgered
 blockship
-bamboos
 beakermen
 butylation
 bepaints
