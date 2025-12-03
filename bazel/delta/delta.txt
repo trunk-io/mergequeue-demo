@@ -1639,7 +1639,6 @@ deairing
 daks
 demits
 dactyls
-dactylonomy
 discredits
 diskery
 dallies
@@ -9049,6 +9048,7 @@ dementis
 dulcianas
 dezinced
 desi
+dactylonomy
 dialyzer
 dissocial
 desmocyte
