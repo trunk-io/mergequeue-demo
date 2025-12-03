@@ -7864,7 +7864,6 @@ equivalencies
 elitism
 earthbound
 extrinsicate
-equidimensional
 encoronate
 epibole
 endopterygote
@@ -8600,6 +8599,7 @@ evected
 ethnotechnography
 entirities
 experiencible
+equidimensional
 extensure
 energizer
 ectomeres
