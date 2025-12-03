@@ -12635,6 +12635,7 @@ cavalrymen
 colport
 crestless
 coachmaking
+chronicled
 chrysorin
 cardioplasty
 cardiosphygmogram
@@ -12692,7 +12693,6 @@ crunkle
 caritative
 chronicle
 counterthrust
-chronicled
 corindon
 canzone
 conspiring
