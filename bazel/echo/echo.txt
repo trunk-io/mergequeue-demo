@@ -3433,7 +3433,6 @@ eloquent
 edges
 expansibleness
 equestriennes
-enhorror
 executing
 exteriors
 erecter
@@ -13093,6 +13092,7 @@ epidermomycosis
 eyestring
 expels
 eversion
+enhorror
 erecters
 evacue
 evaluated
