@@ -1702,7 +1702,6 @@ bertin
 broquery
 boneheads
 becollier
-bylawman
 bagh
 bisulfite
 bivvy
@@ -8966,6 +8965,7 @@ balneum
 body
 bouleverse
 beneficium
+bylawman
 boroughmongery
 bibliothecae
 baptizee
