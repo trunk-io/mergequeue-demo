@@ -1845,6 +1845,7 @@ dispeller
 diplonema
 dealfish
 diagredium
+disfeature
 dipleiodoscope
 deblock
 dijudicate
@@ -15853,7 +15854,6 @@ dialectical
 dormitive
 dimwits
 denegate
-disfeature
 dormouse
 dan
 durezza
