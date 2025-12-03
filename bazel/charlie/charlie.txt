@@ -4812,7 +4812,6 @@ cementation
 carrousel
 carrousels
 chaetodontid
-companionway
 corallinaceae
 crinites
 carses
@@ -26838,6 +26837,7 @@ concernancy
 currishly
 controversialism
 cytopathology
+companionway
 costrels
 coldblooded
 counterpendent
