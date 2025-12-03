@@ -2811,7 +2811,6 @@ effendi
 eileen
 erzahler
 epiplastron
-encircler
 expiate
 ecblastpsis
 exemplariness
@@ -8465,6 +8464,7 @@ ethos
 empuzzle
 englue
 eam
+encircler
 ephorate
 elaeagnus
 encyclopedical
