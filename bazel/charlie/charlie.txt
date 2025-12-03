@@ -4923,7 +4923,6 @@ crunches
 cartwheeler
 calash
 colophonist
-cartwhip
 cohanims
 carucarius
 carucate
@@ -8709,6 +8708,7 @@ ceratiidae
 chopstick
 coheritor
 chylangioma
+cartwhip
 corcopali
 cupeller
 creirgist
