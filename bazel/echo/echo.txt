@@ -1278,7 +1278,6 @@ enclasp
 emphasis
 eucharists
 electrotyper
-extraventricular
 enspell
 entry
 energesis
@@ -4179,6 +4178,7 @@ enchaser
 enlinked
 enuresis
 emancipated
+extraventricular
 enriches
 eloiner
 extremistic
