@@ -2003,7 +2003,6 @@ enterosepsis
 euploid
 edicule
 entomotomy
-everts
 excitableness
 etaerio
 equiprobabilist
@@ -6222,6 +6221,7 @@ entertake
 entameba
 emotiomuscular
 elem
+everts
 excusal
 empyromancy
 epituberculous
