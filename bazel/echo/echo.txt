@@ -9335,7 +9335,6 @@ essences
 edenic
 exhalations
 esurience
-electrothermics
 eventless
 eophyte
 ensepulcher
@@ -9540,6 +9539,7 @@ etua
 eumorphic
 envassal
 electant
+electrothermics
 everyplace
 ezan
 enfold
