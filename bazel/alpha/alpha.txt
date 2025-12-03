@@ -3246,7 +3246,6 @@ assayed
 adaptometer
 apolar
 attackman
-affix
 agriculturer
 acocotl
 alectoropodes
@@ -10939,6 +10938,7 @@ amirate
 avowal
 achterveld
 apotelesmatic
+affix
 araneid
 astuteness
 archdukes
