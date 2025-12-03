@@ -6545,7 +6545,6 @@ buffoon
 bilimbi
 birdfarm
 billiken
-bipunctal
 bergamask
 bladelet
 beldame
@@ -11015,6 +11014,7 @@ bufonite
 bookmark
 berhymed
 bioelectric
+bipunctal
 brillolette
 bleeder
 bobbie
