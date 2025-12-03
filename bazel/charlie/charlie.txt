@@ -2439,7 +2439,6 @@ confraternities
 choosable
 canthorrhaphy
 candlelighting
-cohusband
 circumcinct
 candlemaker
 candlemas
@@ -23636,6 +23635,7 @@ contemporaneousness
 contemptibility
 computability
 colubriformia
+cohusband
 chondri
 contemptible
 chalkosideric
