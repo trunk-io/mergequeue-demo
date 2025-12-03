@@ -4234,7 +4234,6 @@ bops
 bezette
 bushfighter
 bartering
-bunyas
 bebeerin
 busher
 ballpoints
@@ -18385,6 +18384,7 @@ blotted
 birthland
 bulbs
 brosy
+bunyas
 bolita
 bathoses
 batlan
