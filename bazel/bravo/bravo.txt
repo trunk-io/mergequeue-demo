@@ -2816,7 +2816,6 @@ bookit
 bitterbump
 ballers
 bursted
-brontosaurs
 bribeability
 bittor
 banquet
@@ -11383,6 +11382,7 @@ boot
 beanfield
 blok
 boycotted
+brontosaurs
 besmokes
 bramah
 beruffled
