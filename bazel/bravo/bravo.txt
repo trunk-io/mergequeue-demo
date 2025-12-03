@@ -3285,7 +3285,6 @@ balas
 billette
 barken
 baffling
-batholite
 bushelfuls
 bemuzzling
 boletic
@@ -7663,6 +7662,7 @@ bastinades
 bastardly
 bandle
 beseeches
+batholite
 bodken
 brineman
 brahmani
