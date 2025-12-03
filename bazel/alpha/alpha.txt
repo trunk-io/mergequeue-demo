@@ -7638,7 +7638,6 @@ accreditations
 ambrette
 apologs
 alderwomen
-armorial
 adjutory
 armatured
 askaris
@@ -20458,6 +20457,7 @@ alveoloclasia
 amatories
 aheight
 amate
+armorial
 alluviate
 antileptic
 andrena
