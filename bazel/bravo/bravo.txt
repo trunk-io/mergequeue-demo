@@ -328,6 +328,7 @@ bilberry
 bs
 briony
 burdensomeness
+battles
 basinerved
 beaune
 bufonid
@@ -10491,7 +10492,6 @@ bepastured
 bepart
 biteless
 beautifying
-battles
 brin
 backcourt
 bodhisat
