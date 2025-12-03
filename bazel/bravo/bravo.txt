@@ -600,7 +600,6 @@ bawtie
 badineur
 bcf
 brassware
-baconize
 boilersmith
 bulblet
 bedrugging
@@ -7146,6 +7145,7 @@ butyl
 bluepoints
 bucrania
 birlie
+baconize
 botanomancy
 balanophora
 bestialising
