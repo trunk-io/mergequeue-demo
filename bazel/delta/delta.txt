@@ -1468,6 +1468,7 @@ database
 drugget
 darshan
 declarative
+dentalium
 diffusor
 depositary
 diffiding
@@ -13498,7 +13499,6 @@ daubentoniidae
 deprevation
 divinisation
 dada
-dentalium
 deplasmolysis
 downcasts
 divergencies
