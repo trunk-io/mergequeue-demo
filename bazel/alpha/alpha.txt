@@ -1947,7 +1947,6 @@ archways
 abbeystede
 athlothetes
 anticynical
-atelic
 arterial
 atopic
 anaspides
@@ -12383,6 +12382,7 @@ antipyryl
 autodecrement
 autoionization
 autostradas
+atelic
 argante
 amphidesmous
 androsporangium
