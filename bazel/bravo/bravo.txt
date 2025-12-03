@@ -7939,6 +7939,7 @@ bibliothecarian
 belongings
 bearwoods
 bornites
+bushongo
 besour
 bungalows
 biophysicist
@@ -10074,7 +10075,6 @@ briar
 bloodthirstiness
 bummock
 britska
-bushongo
 botling
 brigantine
 bourignonism
