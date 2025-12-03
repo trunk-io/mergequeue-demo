@@ -4652,6 +4652,7 @@ decollated
 deprecated
 demifigure
 dieresis
+diolefin
 docimasy
 disinflated
 defenestrated
@@ -8501,7 +8502,6 @@ definitized
 dialystelic
 dzeren
 decompensatory
-diolefin
 disfiguration
 derby
 diplopodous
