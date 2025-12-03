@@ -9935,6 +9935,7 @@ brailing
 blockers
 biffin
 bul
+bequeathable
 bloodwort
 bigbloom
 backword
@@ -11370,7 +11371,6 @@ bluefin
 brattice
 betweenness
 bonitoes
-bequeathable
 bande
 behooped
 bandicoy
