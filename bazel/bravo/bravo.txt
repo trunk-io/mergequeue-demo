@@ -5681,7 +5681,6 @@ bellota
 banishment
 bidactyle
 briton
-blately
 bargainer
 badinages
 berogue
@@ -9595,6 +9594,7 @@ bisantler
 beladle
 bavian
 bytes
+blately
 blacklight
 barani
 bechalk
