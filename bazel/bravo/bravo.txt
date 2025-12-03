@@ -9013,7 +9013,6 @@ boiette
 byplays
 bionics
 bionomic
-baboons
 barbican
 barite
 bemantle
@@ -17297,6 +17296,7 @@ berretta
 bidding
 bateman
 branchellion
+baboons
 biohazard
 battledore
 bellicosely
