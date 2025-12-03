@@ -7462,6 +7462,7 @@ dragoonage
 decess
 downgrade
 diplomatic
+dispraising
 disnaturalization
 ductible
 donee
@@ -11436,7 +11437,6 @@ dupondius
 demijohns
 disable
 documenters
-dispraising
 discontentedly
 decadentism
 dastardy
