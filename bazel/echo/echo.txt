@@ -2772,6 +2772,7 @@ environment
 eyebolt
 endemicity
 exterminatress
+elucid
 escar
 estivate
 exclaimer
@@ -9098,7 +9099,6 @@ encl
 emolumentary
 episcia
 elaterite
-elucid
 electroform
 expends
 encrypt
