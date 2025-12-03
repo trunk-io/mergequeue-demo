@@ -4654,6 +4654,7 @@ demifigure
 dieresis
 diolefin
 docimasy
+diathermic
 disinflated
 defenestrated
 dufrenoysite
@@ -9102,7 +9103,6 @@ drierman
 dissympathy
 dimyaric
 droop
-diathermic
 dispunct
 dinitrile
 dankali
