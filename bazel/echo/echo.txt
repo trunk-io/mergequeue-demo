@@ -1040,7 +1040,6 @@ elicitation
 edaphosaurid
 escobadura
 etesian
-echelle
 evocators
 enshrouding
 empoisoning
@@ -1298,6 +1297,7 @@ egests
 endotheliomata
 excusableness
 exploitable
+echelle
 embarrased
 enchytrae
 epicene
