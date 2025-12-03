@@ -4578,6 +4578,7 @@ edema
 enchancement
 encounterable
 estang
+emersonian
 exosmic
 epopoeias
 emergently
@@ -10900,7 +10901,6 @@ everly
 englishize
 envisions
 exodontics
-emersonian
 eyeshade
 embryotrophy
 expend
