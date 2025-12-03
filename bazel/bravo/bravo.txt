@@ -15784,6 +15784,7 @@ breakfront
 baseman
 bohemium
 bricking
+boe
 boeotia
 brisling
 bushveld
@@ -16722,7 +16723,6 @@ bemuddles
 begroaning
 branchiate
 bifurcal
-boe
 bedizens
 bridal
 bebouldered
