@@ -6617,7 +6617,6 @@ benches
 bangalay
 boagane
 bromiodide
-bixa
 berme
 birdman
 balefulness
@@ -12620,6 +12619,7 @@ baysmelts
 brabagious
 bassetting
 blastomycete
+bixa
 bossship
 bentstar
 balker
