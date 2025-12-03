@@ -24590,6 +24590,7 @@ cableways
 canella
 changable
 calyculus
+collectivities
 counterscrutiny
 cest
 checkweigher
@@ -24691,7 +24692,6 @@ coparenary
 crystallising
 codeclination
 copartnership
-collectivities
 cahnite
 chemism
 coexchangeable
