@@ -8043,7 +8043,6 @@ carcase
 contangos
 cossets
 cerastium
-chaitya
 cevine
 consecrations
 civilizationally
@@ -30576,6 +30575,7 @@ cortexes
 cuboides
 cuboids
 cubometatarsal
+chaitya
 cubonavicular
 chouanize
 chromoparous
