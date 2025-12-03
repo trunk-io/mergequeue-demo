@@ -5693,7 +5693,6 @@ excursuses
 euphrasia
 eugubine
 elaphe
-entomostracous
 elapse
 enaliosauria
 emote
@@ -8151,6 +8150,7 @@ elaeagnaceae
 entrep
 essoined
 encyclopedize
+entomostracous
 ecchymosed
 exterraneous
 epitomator
