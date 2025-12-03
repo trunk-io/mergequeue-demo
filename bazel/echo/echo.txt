@@ -2070,7 +2070,6 @@ engystomatidae
 electroharmonic
 erythemic
 emblem
-ecchondrotome
 echinorhinidae
 englobe
 egyptians
@@ -9910,6 +9909,7 @@ electrotelegraphy
 enharmonical
 epitria
 endolaryngeal
+ecchondrotome
 evirate
 esophagotome
 elicited
