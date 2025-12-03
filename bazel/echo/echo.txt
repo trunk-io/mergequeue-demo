@@ -2934,7 +2934,6 @@ endoconidia
 epiphora
 eemis
 eliminable
-eliminate
 extinguisher
 emplacements
 euornithes
@@ -10657,6 +10656,7 @@ enclog
 encryption
 equalities
 excentric
+eliminate
 enrol
 effuse
 epigrammatise
