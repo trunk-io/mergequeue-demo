@@ -5934,7 +5934,6 @@ acheron
 agit
 accouters
 agennetic
-agitate
 agitated
 alkalisation
 amathophobia
@@ -25008,6 +25007,7 @@ acanthology
 aweel
 ardri
 almud
+agitate
 asyntrophy
 aeacides
 allosome
