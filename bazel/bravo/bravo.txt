@@ -7374,7 +7374,6 @@ biogeography
 biogas
 bimarginate
 bearhide
-betread
 bartholomewtide
 burnisher
 burglarproofed
@@ -17243,6 +17242,7 @@ biter
 bestseller
 bedkey
 bookplate
+betread
 blaws
 besotted
 bullwhipping
