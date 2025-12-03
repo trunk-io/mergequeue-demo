@@ -5073,6 +5073,7 @@ beswitch
 beleaguers
 backswordsman
 batteuse
+belatedness
 bughouses
 benzazide
 balaenid
@@ -10356,7 +10357,6 @@ benzophloroglucinol
 butterflyfishes
 bitmap
 bullit
-belatedness
 ben
 balsamical
 boschveld
