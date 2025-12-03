@@ -9860,6 +9860,7 @@ blastemata
 boult
 bohemia
 brasen
+bivector
 bewry
 bytalks
 byrthynsak
@@ -18455,6 +18456,5 @@ bahoo
 bagwash
 bxs
 busulfan
-bivector
 beplaided
 bewest
