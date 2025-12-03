@@ -6718,6 +6718,7 @@ backout
 banjore
 boatloader
 berthas
+bewinged
 bergfall
 boteler
 bismuthinite
@@ -16610,7 +16611,6 @@ booter
 babacoote
 begruntle
 bracingness
-bewinged
 biotechnics
 benightment
 bummler
