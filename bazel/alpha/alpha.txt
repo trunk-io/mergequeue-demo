@@ -1153,7 +1153,6 @@ aeroelastic
 acamar
 acanonical
 arew
-aeacus
 akia
 antiquum
 allentiac
@@ -14116,6 +14115,7 @@ antecourt
 apiin
 auxin
 azoprotein
+aeacus
 amebian
 amphisbaenic
 anaesthyl
