@@ -3827,7 +3827,6 @@ delocalize
 droplike
 dimerize
 dermatoskeleton
-daggerlike
 deludher
 diaminogene
 decalescent
@@ -14367,6 +14366,7 @@ declamando
 darwin
 denunciator
 deeds
+daggerlike
 diabolicalness
 demotists
 deadheaded
