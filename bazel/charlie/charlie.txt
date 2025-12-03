@@ -4914,7 +4914,6 @@ costrel
 canonist
 chiclero
 canalman
-cytolysin
 cartware
 confervoid
 coilsmith
@@ -14713,6 +14712,7 @@ cystigerous
 counterband
 cystignathine
 cutiduris
+cytolysin
 cryptococcal
 criminology
 cupeled
