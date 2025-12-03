@@ -2032,7 +2032,6 @@ blesses
 bucculatrix
 brachialis
 brickwall
-batrachium
 bouncingly
 brakehead
 bilertinned
@@ -5846,6 +5845,7 @@ brattiness
 beggarliness
 benab
 bartended
+batrachium
 bowtel
 beme
 ballised
