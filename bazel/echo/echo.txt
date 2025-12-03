@@ -2663,6 +2663,7 @@ extraspinal
 erythropoiesis
 enzyme
 ecstatics
+ellipses
 echinosphaerites
 elaphurine
 ensient
@@ -9172,7 +9173,6 @@ exopt
 earthwork
 etchers
 eluding
-ellipses
 edea
 embroiler
 etrog
