@@ -816,7 +816,6 @@ brevetcies
 beeweed
 baronetship
 baft
-beastishness
 bobol
 belaboring
 baggagemaster
@@ -3731,6 +3730,7 @@ braggadocio
 beisa
 blackpot
 beseem
+beastishness
 biloquist
 bedlamp
 breadline
