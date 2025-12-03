@@ -2054,6 +2054,7 @@ bowpot
 brickbats
 bluebonnet
 blunges
+bibliograph
 boilinglike
 banovina
 beano
@@ -10839,7 +10840,6 @@ bordured
 bombardon
 blick
 bullbeggar
-bibliograph
 becquerelite
 baldrics
 beautifier
