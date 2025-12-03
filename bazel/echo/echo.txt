@@ -1607,7 +1607,6 @@ efficacy
 eds
 electrosmosis
 equispatial
-electability
 ennoic
 electrofusion
 electrolithotrity
@@ -10780,6 +10779,7 @@ epiphloeum
 entoproct
 evaluating
 epistemology
+electability
 ensue
 epilogist
 equisetic
