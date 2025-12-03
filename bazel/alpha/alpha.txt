@@ -4488,7 +4488,6 @@ abbreviators
 adipocellulose
 akinesic
 almury
-adaptorial
 assoils
 alliterational
 ambitioned
@@ -20860,6 +20859,7 @@ aligners
 antidysuric
 allotype
 algarot
+adaptorial
 abulias
 annotative
 allegations

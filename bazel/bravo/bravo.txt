@@ -15738,7 +15738,6 @@ bantling
 busk
 benzalhydrazine
 bonus
-bacteriosis
 barcone
 bottleholder
 belgians
@@ -17932,6 +17931,7 @@ bromite
 boigid
 botryomycotic
 bitable
+bacteriosis
 blackfellow
 backflash
 beclown
