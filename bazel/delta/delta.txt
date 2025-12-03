@@ -13365,7 +13365,6 @@ defreeze
 desirers
 dataset
 dawk
-disfeature
 definitising
 defensively
 disincrustant
@@ -15846,6 +15845,7 @@ dialectical
 dormitive
 dimwits
 denegate
+disfeature
 dormouse
 dan
 durezza
