@@ -4723,7 +4723,6 @@ disrate
 dolioform
 decretal
 diaphones
-diplocardia
 dribbled
 deerstalkers
 dendral
@@ -8282,6 +8281,7 @@ diadelphous
 demimondaines
 deplorable
 datafile
+diplocardia
 diseaseful
 doleance
 drawled
