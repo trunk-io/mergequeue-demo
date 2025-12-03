@@ -2539,6 +2539,7 @@ daywork
 desulfur
 dowless
 damageable
+discommendableness
 dubbeh
 defaultless
 docetist
@@ -3867,7 +3868,6 @@ demonstrant
 deplumed
 dehumanising
 dehumidified
-discommendableness
 doveling
 disparpling
 deme
