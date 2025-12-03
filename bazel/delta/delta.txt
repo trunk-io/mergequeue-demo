@@ -4761,7 +4761,6 @@ dereliction
 dilatingly
 demonish
 dishonourable
-demiscible
 denticulate
 demise
 drugging
@@ -13629,6 +13628,7 @@ def
 doings
 duplication
 dolichosauri
+demiscible
 deemer
 disman
 diabases
