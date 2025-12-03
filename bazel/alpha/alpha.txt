@@ -12182,6 +12182,7 @@ avidities
 airometer
 assish
 addition
+ap
 anchorite
 archinfamy
 allergins
@@ -18733,7 +18734,6 @@ asclepius
 abjurement
 annulose
 algoristic
-ap
 atokous
 akasa
 aluminosis
