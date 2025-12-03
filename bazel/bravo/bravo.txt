@@ -7880,7 +7880,6 @@ buckwagon
 bailey
 botchery
 bartonella
-beryline
 bendees
 billboards
 billheading
@@ -9931,6 +9930,7 @@ branchlike
 betulites
 belomancy
 britannic
+beryline
 broguery
 bastardization
 behowling
