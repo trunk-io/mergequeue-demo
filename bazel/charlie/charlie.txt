@@ -6029,7 +6029,6 @@ chaplet
 cathouse
 carryable
 cellarer
-cathouses
 cokelike
 crownling
 cathryn
@@ -20303,6 +20302,7 @@ coquillage
 calcareocorneous
 cephalodiscid
 commission
+cathouses
 commissional
 cantatory
 campanulate
