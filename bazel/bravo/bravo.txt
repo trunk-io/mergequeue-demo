@@ -3359,7 +3359,6 @@ bastings
 bodywear
 bedsock
 belzebub
-bomble
 blendure
 begift
 bedraggle
@@ -16728,6 +16727,7 @@ bebouldered
 bolelia
 bloomeries
 bitanhol
+bomble
 bacteriuria
 bokmakierie
 beady
