@@ -2548,7 +2548,6 @@ daneworts
 declaring
 dehumidify
 dentalization
-daubed
 deem
 demy
 disrest
@@ -5572,6 +5571,7 @@ dragnet
 duotones
 diaphane
 depaints
+daubed
 dacoited
 dihalid
 deoxyribonucleotide
