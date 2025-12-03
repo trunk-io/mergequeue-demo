@@ -5844,6 +5844,7 @@ catfacing
 catfalls
 creeled
 concubine
+cherenkov
 confectioneries
 cumaean
 caucasus
@@ -7626,7 +7627,6 @@ creator
 concludent
 crackedness
 counterpoison
-cherenkov
 cardiopericarditis
 crotaliform
 cerebrated
