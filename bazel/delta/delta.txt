@@ -9769,7 +9769,6 @@ depositum
 deadrise
 depursement
 danceable
-diseases
 dexterous
 dryopithecus
 delineations
@@ -16716,6 +16715,7 @@ displicence
 disserts
 dachshund
 distream
+diseases
 deliberalization
 daikers
 daviesite
