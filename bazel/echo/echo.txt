@@ -3152,6 +3152,7 @@ excircle
 eichbergite
 elemong
 epos
+electrochemical
 enterocystoma
 endoskeletons
 epiploic
@@ -6876,7 +6877,6 @@ egad
 entemple
 euscaro
 erodable
-electrochemical
 euselachii
 eutectics
 evitable
