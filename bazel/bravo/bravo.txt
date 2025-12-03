@@ -10596,7 +10596,6 @@ bowly
 bourbon
 baptisteries
 bateau
-bicarbonate
 bungwall
 buns
 biffies
@@ -15464,6 +15463,7 @@ bluebush
 bey
 botherment
 biers
+bicarbonate
 barbarianism
 bietle
 bombards
