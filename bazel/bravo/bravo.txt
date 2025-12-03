@@ -4802,6 +4802,7 @@ bioenergetics
 bullberry
 beswarm
 barbequed
+bassa
 bunder
 bonesets
 barrelfuls
@@ -11393,7 +11394,6 @@ baresarks
 blankish
 bifurcating
 blastogenetic
-bassa
 botryoidal
 bywalking
 besnowing
