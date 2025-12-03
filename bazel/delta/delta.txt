@@ -4760,7 +4760,6 @@ diaphones
 dribbled
 deerstalkers
 dendral
-decode
 devotedness
 digraphically
 dactyliographer
@@ -14270,6 +14269,7 @@ dernier
 dyscrasing
 denazified
 dinotherian
+decode
 decamping
 decoupled
 detrital
