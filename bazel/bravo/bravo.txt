@@ -1333,7 +1333,6 @@ benefaction
 bowllike
 bloodthirsty
 befingered
-bathylite
 belander
 bunkums
 belee
@@ -12341,6 +12340,7 @@ baillie
 baluchitheria
 beray
 bedirty
+bathylite
 bridewell
 blocks
 burier
