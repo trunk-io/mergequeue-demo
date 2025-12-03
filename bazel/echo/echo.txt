@@ -5716,7 +5716,6 @@ enrolls
 elasticities
 eccl
 eccyesis
-equipping
 enlisted
 extancy
 eyn
@@ -7266,6 +7265,7 @@ edriophthalmian
 exsanguination
 enjewel
 engulf
+equipping
 exulceratory
 enterers
 entoire
