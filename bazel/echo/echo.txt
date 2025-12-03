@@ -875,6 +875,7 @@ excel
 explosibility
 eos
 endolumbar
+evapotranspiration
 englutting
 eelbobber
 escobedo
@@ -3732,7 +3733,6 @@ ecklein
 extrastomachal
 ephemeral
 exocyclic
-evapotranspiration
 elkhorn
 experimentalize
 epigrammatical
