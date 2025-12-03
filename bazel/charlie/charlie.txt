@@ -4344,6 +4344,7 @@ clitellum
 creeps
 collidin
 censers
+coppet
 cisternae
 choralist
 complimental
@@ -10884,7 +10885,6 @@ cognisability
 cyclizes
 contracivil
 chauffeurs
-coppet
 convincibility
 chieftainships
 coasts
