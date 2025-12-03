@@ -11657,6 +11657,7 @@ exoskeletal
 ecorch
 erythrosinophile
 examine
+eadi
 expires
 entastic
 encephalopyosis
@@ -13436,7 +13437,6 @@ energiser
 expressiveness
 equilibration
 effected
-eadi
 equatoreal
 ensheathed
 enterokinesia
