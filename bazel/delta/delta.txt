@@ -1458,7 +1458,6 @@ decongests
 durain
 decoder
 dosing
-dyspnoeic
 dehydrant
 doted
 dillydally
@@ -5465,6 +5464,7 @@ diapophyses
 dentiled
 dictated
 delivery
+dyspnoeic
 dissembly
 debarkation
 duddy
