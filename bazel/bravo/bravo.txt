@@ -1577,7 +1577,6 @@ biplanar
 bearbaiting
 bewield
 blackeye
-blastomyces
 beater
 botulin
 balloonflower
@@ -11610,6 +11609,7 @@ bad
 burgouts
 butterbox
 bhava
+blastomyces
 bewinter
 bulkin
 bass
