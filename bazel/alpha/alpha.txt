@@ -5365,7 +5365,6 @@ annotators
 afterturn
 aburagiri
 autophoby
-alumbloom
 archiater
 analemmata
 acrostichum
@@ -15482,6 +15481,7 @@ async
 aridge
 alumins
 alabastrum
+alumbloom
 apodia
 antrin
 alswith
