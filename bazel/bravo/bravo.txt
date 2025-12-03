@@ -5739,6 +5739,7 @@ buffier
 besoms
 biased
 beudantite
+breth
 bonnocks
 bee
 brasswork
@@ -7428,7 +7429,6 @@ burghmaster
 beingless
 biophotometer
 beswarmed
-breth
 breasted
 bivoltine
 beglitter
