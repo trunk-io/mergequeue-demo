@@ -1335,6 +1335,7 @@ depthwise
 diphthongization
 dompt
 detinet
+dispose
 disperser
 dummel
 demonstrated
@@ -3494,7 +3495,6 @@ disprobative
 droopiness
 dibase
 dittanies
-dispose
 diatonicism
 doughmaker
 diabolically
