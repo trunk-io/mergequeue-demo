@@ -4767,6 +4767,7 @@ albatross
 acetenyl
 aquaducts
 avigate
+awakable
 allographic
 arborean
 armyworm
@@ -19558,7 +19559,6 @@ antimodel
 autoslip
 anaseismic
 alloxyproteic
-awakable
 assuming
 abasedly
 autocytolysis
