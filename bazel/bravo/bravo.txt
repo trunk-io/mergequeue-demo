@@ -2796,7 +2796,6 @@ bilker
 buzzerphone
 blightbird
 blowers
-bientt
 buffaloback
 batster
 boundness
@@ -10709,6 +10708,7 @@ balopticon
 bromeliaceae
 bobachee
 betrothal
+bientt
 bubalis
 birdclapper
 barretry
