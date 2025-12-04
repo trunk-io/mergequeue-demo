@@ -12258,7 +12258,6 @@ chrysazol
 clownheal
 celadons
 chlorargyrite
-capitellum
 cycl
 counteradvantage
 cathodograph
@@ -25641,6 +25640,7 @@ coronion
 canalboat
 cuartillo
 crisply
+capitellum
 cryptolunatic
 caudation
 characteristically
