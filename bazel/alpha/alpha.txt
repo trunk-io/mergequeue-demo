@@ -6416,6 +6416,7 @@ aidman
 aids
 arithmancy
 afterripening
+alnagership
 apheretic
 antiattrition
 aliyas
@@ -11290,7 +11291,6 @@ apteria
 anatto
 androgenous
 autospore
-alnagership
 abaddon
 abjures
 archhouse
