@@ -1443,6 +1443,7 @@ biolite
 bookie
 banefulness
 breastbeam
+beastlings
 bottlefuls
 barbarian
 brewings
@@ -5046,7 +5047,6 @@ broadspread
 booksellers
 brecken
 bulletwood
-beastlings
 borderline
 brawner
 biotrons
