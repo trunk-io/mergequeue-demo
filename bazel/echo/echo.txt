@@ -7458,7 +7458,6 @@ epitomist
 extrathermodynamic
 entitule
 eolipiles
-endict
 epicoracoid
 eyeglance
 encharge
@@ -13567,6 +13566,7 @@ enrichments
 empeo
 eighthes
 emissivity
+endict
 enflames
 endeavouring
 encephalopathia
