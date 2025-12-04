@@ -6923,6 +6923,7 @@ calendars
 cellules
 cullets
 carracks
+charterist
 chrysobalanus
 cryptologist
 cellulin
@@ -16497,7 +16498,6 @@ claretian
 commissars
 congregates
 clk
-charterist
 copatentee
 colonialistic
 canoeman
