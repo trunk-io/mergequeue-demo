@@ -3213,7 +3213,6 @@ errors
 exclusion
 emperize
 epitomizer
-expectorator
 ecclesiologic
 extensimeter
 evertor
@@ -11692,6 +11691,7 @@ equiprobabilism
 expective
 extemporary
 ecad
+expectorator
 euprepia
 equiradical
 extemporally
