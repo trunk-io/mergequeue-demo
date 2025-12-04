@@ -898,6 +898,7 @@ ensurers
 ethnogeography
 eryopsid
 electrogenetic
+ellasar
 esthetician
 enciphered
 epigrammatizing
@@ -11065,7 +11066,6 @@ exhuming
 epilobe
 epithecial
 embolus
-ellasar
 esothyropexy
 extradite
 expose
