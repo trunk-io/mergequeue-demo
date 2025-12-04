@@ -12464,7 +12464,6 @@ deamidize
 decor
 dashes
 desecate
-dolci
 danceability
 document
 develed
@@ -17830,6 +17829,7 @@ dipterology
 disfrocked
 dimples
 doupioni
+dolci
 dusked
 defaulters
 deathday
