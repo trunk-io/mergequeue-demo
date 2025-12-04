@@ -3561,7 +3561,6 @@ anatomy
 aoudads
 aggregatory
 anticipant
-autothermy
 abreast
 adhesion
 adhesional
@@ -9394,6 +9393,7 @@ armadas
 antiparasitical
 afforcing
 antenna
+autothermy
 apicolysis
 altiloquence
 affabrous
