@@ -845,7 +845,6 @@ benevolences
 beshouts
 borage
 bangling
-badmash
 broiden
 bijouterie
 bellyfulls
@@ -1108,6 +1107,7 @@ bioscience
 barbone
 bagful
 balustrades
+badmash
 bunked
 butin
 bontequagga
