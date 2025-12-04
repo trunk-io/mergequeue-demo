@@ -6674,6 +6674,7 @@ berakes
 basilard
 batties
 becripple
+border
 bruiting
 bemoaner
 buttonholed
@@ -8340,7 +8341,6 @@ biocenotic
 brulot
 bosque
 bedims
-border
 benson
 billheads
 boden
