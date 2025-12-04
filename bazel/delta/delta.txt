@@ -10509,7 +10509,6 @@ disinsulation
 demurrages
 diopters
 delations
-datatype
 doctorization
 diseur
 decumary
@@ -11870,6 +11869,7 @@ dreadnoughts
 didactically
 dori
 domineered
+datatype
 diphenylamine
 darjeeling
 dialings
