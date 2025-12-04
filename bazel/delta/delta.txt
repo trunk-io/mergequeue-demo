@@ -1127,7 +1127,6 @@ devex
 displenish
 dolente
 dother
-diphthongally
 divinises
 dire
 diaeresis
@@ -9377,6 +9376,7 @@ disunified
 deconcentrator
 digress
 didicoy
+diphthongally
 diploma
 diploperistomic
 didym
