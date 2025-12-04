@@ -4251,7 +4251,6 @@ bezette
 bouleuterion
 bushfighter
 bartering
-bebeerin
 busher
 ballpoints
 brookite
@@ -7122,6 +7121,7 @@ buddy
 biforate
 barged
 bunty
+bebeerin
 buffoonishness
 berengena
 bassoonists
