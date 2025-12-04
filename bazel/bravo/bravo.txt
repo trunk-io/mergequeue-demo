@@ -2971,7 +2971,6 @@ bejuggle
 bumtrap
 bunkos
 boller
-boilery
 buccin
 bra
 belleter
@@ -4881,6 +4880,7 @@ bootman
 blankminded
 burl
 baal
+boilery
 billeter
 blab
 brackish
