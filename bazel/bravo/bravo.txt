@@ -10540,6 +10540,7 @@ borwort
 blankets
 brinies
 backstabber
+blipped
 baygall
 blossomed
 bowels
@@ -12949,7 +12950,6 @@ boscage
 bilabe
 bullheaded
 botony
-blipped
 bowlful
 blackhearted
 byordinary
