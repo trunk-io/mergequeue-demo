@@ -6587,7 +6587,6 @@ caw
 cawl
 cantabri
 clinanthia
-cholemia
 camused
 clake
 counterplotter
@@ -28245,6 +28244,7 @@ clubroot
 cranioschisis
 checkup
 cranioscopy
+cholemia
 campier
 canette
 chimerism
