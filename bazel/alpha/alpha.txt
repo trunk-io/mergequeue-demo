@@ -4756,7 +4756,6 @@ accersitor
 aberdavine
 armoires
 andia
-abyss
 agister
 algometrically
 assents
@@ -14943,6 +14942,7 @@ asteroids
 anises
 anticritical
 atmolysis
+abyss
 abrase
 amasty
 achor
