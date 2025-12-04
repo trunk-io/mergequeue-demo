@@ -9560,7 +9560,6 @@ accrescendi
 anaesthetization
 antipodal
 abreacting
-alveated
 alinota
 angstroms
 alma
@@ -17499,6 +17498,7 @@ absterges
 armillated
 antineurotoxin
 antiheroic
+alveated
 acromiocoracoid
 afrite
 apothecium
