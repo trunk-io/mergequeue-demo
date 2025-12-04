@@ -6338,6 +6338,7 @@ elne
 epikia
 extraspectral
 extramental
+enteromycosis
 erythroclastic
 euryclea
 extravasating
@@ -10083,7 +10084,6 @@ equipper
 enlute
 ethynes
 epicondyle
-enteromycosis
 entrymen
 espaliers
 exceedable
