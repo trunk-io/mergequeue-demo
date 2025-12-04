@@ -10891,6 +10891,7 @@ chieftainships
 coasts
 centgener
 calliandra
+chirres
 concertmeister
 centraxonia
 chinela
@@ -31489,7 +31490,6 @@ culled
 conjobble
 craniopharyngioma
 conjunctively
-chirres
 cystopyelonephritis
 crescentlike
 croakier
