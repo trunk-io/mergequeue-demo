@@ -9709,7 +9709,6 @@ columnarity
 cheeky
 cupeling
 cheeney
-cheep
 cheeped
 campstool
 cheeper
@@ -21158,6 +21157,7 @@ copyholds
 conceptaculum
 computably
 computer
+cheep
 computerese
 cesarevitch
 caudofemoral
