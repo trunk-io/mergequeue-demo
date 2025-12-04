@@ -2526,7 +2526,6 @@ elvis
 extragastric
 endemisms
 epibranchial
-enteroptosis
 electrooculogram
 exclusive
 exscinding
@@ -11642,6 +11641,7 @@ entangleable
 extort
 ecu
 eutechnic
+enteroptosis
 exclude
 exertions
 edulcorator
