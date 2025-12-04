@@ -6106,6 +6106,7 @@ entremets
 euectic
 emmenia
 emblematic
+exportable
 environmental
 epanorthosis
 epideictic
@@ -13199,7 +13200,6 @@ egesting
 epicurish
 enervating
 easel
-exportable
 exults
 extermine
 ecocidal
