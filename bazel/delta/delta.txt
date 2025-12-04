@@ -3336,7 +3336,6 @@ diduction
 dredger
 decigram
 dhyana
-dentilabial
 declinature
 deprostrate
 dicentras
@@ -5638,6 +5637,7 @@ davach
 drawbore
 duchesnea
 demulcents
+dentilabial
 degrees
 dedanim
 disillusionments
