@@ -6158,7 +6158,6 @@ boatwise
 buoyantness
 bassaris
 batikulin
-buttonholder
 bigeminated
 beatificate
 benorth
@@ -8667,6 +8666,7 @@ bide
 bodysurf
 blanketers
 bipartition
+buttonholder
 bicornes
 butle
 bounceable
