@@ -9034,7 +9034,6 @@ cyclosilicate
 colorcast
 coeff
 chass
-crenelet
 crutches
 courses
 cirrate
@@ -23672,6 +23671,7 @@ contesseration
 claude
 creekstuff
 cric
+crenelet
 costumes
 contestee
 chinquapin
