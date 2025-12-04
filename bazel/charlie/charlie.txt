@@ -2361,7 +2361,6 @@ chaplain
 chattingly
 cardiotonic
 cancerweed
-cyanol
 cleeked
 crystall
 cementwork
@@ -6155,6 +6154,7 @@ clathraceous
 corrobori
 countercurrent
 ciboule
+cyanol
 cirl
 cantonments
 cookshack
