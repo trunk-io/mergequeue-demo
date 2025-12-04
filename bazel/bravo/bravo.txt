@@ -604,6 +604,7 @@ bcf
 brassware
 boilersmith
 bulblet
+banishers
 bedrugging
 bloomage
 baconweed
@@ -11996,7 +11997,6 @@ billot
 broughams
 bonding
 bathvillite
-banishers
 bogbeans
 boeing
 bantus
