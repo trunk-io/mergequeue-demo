@@ -4845,7 +4845,6 @@ establishments
 endophytous
 eschewing
 electropsychrometer
-electroshocks
 earthmove
 euthyneural
 exitial
@@ -8428,6 +8427,7 @@ eurytopicity
 enamoredness
 entheos
 exect
+electroshocks
 essera
 enwood
 epigrammatising
