@@ -927,7 +927,6 @@ blastostylar
 blueleg
 buckboards
 bottlehead
-brewers
 brooming
 beguard
 boric
@@ -2035,6 +2034,7 @@ bilertinned
 bitterweed
 basidiophore
 boussingaultite
+brewers
 bilboquet
 bakerless
 banditti
