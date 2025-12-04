@@ -5415,7 +5415,6 @@ curatorial
 cockroach
 cosmographer
 confuse
-catabasis
 colinear
 coastguard
 canikins
@@ -10192,6 +10191,7 @@ cherrystones
 commitments
 circumstantial
 candlesticked
+catabasis
 canezou
 caprigenous
 campephagine
