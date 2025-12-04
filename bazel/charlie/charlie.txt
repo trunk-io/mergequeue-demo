@@ -17753,7 +17753,6 @@ checklist
 cuartilla
 caimans
 cerate
-carnassial
 cervicobasilar
 candlemaking
 clerkhood
@@ -28297,6 +28296,7 @@ conjuctiva
 celestine
 chainplate
 committent
+carnassial
 cimicide
 cosphered
 crusade
