@@ -2383,7 +2383,6 @@ angelico
 archaeostomata
 aquacultural
 anoxic
-aurally
 aircheck
 alegar
 amelcorn
@@ -6560,6 +6559,7 @@ athermancy
 arsenotherapy
 aigialosaurus
 apriline
+aurally
 autonephrotoxin
 apothegmatically
 alburnum
