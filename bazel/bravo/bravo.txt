@@ -2054,7 +2054,6 @@ bakerless
 banditti
 bowpot
 brickbats
-bluebonnet
 blunges
 bibliograph
 boilinglike
@@ -14011,6 +14010,7 @@ barndoor
 brents
 ballerinas
 bordereau
+bluebonnet
 bromal
 bludgeon
 bimbil
