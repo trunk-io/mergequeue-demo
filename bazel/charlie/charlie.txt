@@ -2944,6 +2944,7 @@ cantonize
 countergager
 cantoral
 cardsharps
+carillonneur
 centauri
 cantraip
 cantraps
@@ -28624,7 +28625,6 @@ credulity
 contractee
 confederations
 cardiosclerosis
-carillonneur
 cytodifferentiation
 credulities
 carabin
