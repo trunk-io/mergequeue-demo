@@ -1049,7 +1049,6 @@ brushet
 brutality
 begattal
 braciole
-bowwood
 bodiless
 bamangwato
 beneficently
@@ -8474,6 +8473,7 @@ bare
 beethovenish
 bunging
 bespurt
+bowwood
 byname
 bergalith
 bulgiest
