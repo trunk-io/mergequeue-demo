@@ -11270,7 +11270,6 @@ brawliest
 bagwigged
 bowfront
 barrow
-bestrapped
 bractea
 bespeaker
 bemisted
@@ -15304,6 +15303,7 @@ bedarken
 bugger
 bristlewort
 bustling
+bestrapped
 bagio
 bun
 baculites
