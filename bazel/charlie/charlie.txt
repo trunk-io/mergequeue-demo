@@ -24264,7 +24264,6 @@ cheapside
 convexly
 camise
 confecture
-caroms
 cavally
 couveuse
 clinodome
@@ -26763,6 +26762,7 @@ colpeo
 counselee
 counsellor
 chromatinic
+caroms
 chilopodan
 cissoids
 chumming
