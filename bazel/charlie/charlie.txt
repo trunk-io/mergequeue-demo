@@ -9973,7 +9973,6 @@ chemiotactic
 conspirator
 crankbird
 cometh
-carvone
 chemiotaxis
 chemiotropism
 chemise
@@ -13680,6 +13679,7 @@ cankered
 coguarantor
 coli
 cascabel
+carvone
 curiosities
 complexively
 cymbalists
