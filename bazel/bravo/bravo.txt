@@ -7822,7 +7822,6 @@ brustling
 basilica
 birdling
 broadswords
-breakfasts
 borazon
 behelp
 beclamors
@@ -8769,6 +8768,7 @@ bovarism
 bindis
 bossism
 bumbled
+breakfasts
 branchiopodan
 boosts
 brachiator
