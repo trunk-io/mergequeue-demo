@@ -2542,7 +2542,6 @@ declaim
 dementing
 dichlorvos
 detonable
-deciduous
 declassification
 dendrochronology
 doolies
@@ -9042,6 +9041,7 @@ decolourized
 dibutyrin
 dont
 disproperty
+deciduous
 dehydratase
 distraughtly
 deflexure
