@@ -243,6 +243,7 @@ erectness
 epikouros
 endorsers
 exclamations
+exul
 enraged
 epiphanies
 evolves
@@ -3708,7 +3709,6 @@ emplectite
 extrudes
 elinvar
 exacervation
-exul
 engrail
 ethmovomerine
 elaidinic
