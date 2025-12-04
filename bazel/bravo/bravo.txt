@@ -6821,6 +6821,7 @@ bug
 blasphemers
 bhungi
 backsliders
+badness
 brique
 bemingling
 braehead
@@ -16469,7 +16470,6 @@ baywood
 brunelliaceous
 brubu
 behorror
-badness
 battology
 brunistic
 bicyclic
