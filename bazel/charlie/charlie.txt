@@ -2945,7 +2945,6 @@ cantraip
 cantraps
 chaine
 crakes
-chalcidiform
 capitonidae
 centrales
 cantrip
@@ -8556,6 +8555,7 @@ corncutting
 calvaria
 cradock
 camshafts
+chalcidiform
 corrive
 conenchyma
 concussed
