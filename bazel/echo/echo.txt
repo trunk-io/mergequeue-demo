@@ -1972,6 +1972,7 @@ epiphragm
 emeriti
 enterocyst
 echinid
+ectosarcous
 ergophile
 enddamaging
 enhaunt
@@ -11405,7 +11406,6 @@ eponyms
 exacerbating
 ensiferi
 exactable
-ectosarcous
 exactas
 enshelter
 encashes
