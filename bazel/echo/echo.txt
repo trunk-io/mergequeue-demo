@@ -5665,6 +5665,7 @@ enaliosauria
 emote
 ebenales
 ealdorman
+echidnas
 emanational
 elective
 enfree
@@ -14064,7 +14065,6 @@ empyreumatic
 especially
 emergents
 enduring
-echidnas
 enolic
 estivates
 embalms
