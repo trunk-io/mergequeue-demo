@@ -4199,6 +4199,7 @@ enticements
 erythrochaete
 entrez
 electroetching
+electrocatalytic
 ectropionizing
 euge
 epistropheus
@@ -8341,7 +8342,6 @@ exertionless
 escuela
 epiglot
 exurb
-electrocatalytic
 enablement
 eunomia
 eurygnathous
