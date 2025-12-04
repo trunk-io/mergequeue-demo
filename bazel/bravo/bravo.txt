@@ -4966,7 +4966,6 @@ babirusa
 basicranial
 bookbinderies
 bde
-bombable
 bottlenecks
 benzenyl
 buret
@@ -7174,6 +7173,7 @@ butyl
 bluepoints
 bucrania
 birlie
+bombable
 baconize
 botanomancy
 balanophora
