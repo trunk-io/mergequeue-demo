@@ -2405,6 +2405,7 @@ balant
 bawdrics
 breechesflower
 bynames
+barrio
 bloodthirster
 bonuses
 bemocks
@@ -9514,7 +9515,6 @@ brownwort
 beneficial
 bigging
 brince
-barrio
 bullarium
 bespatterment
 batata
