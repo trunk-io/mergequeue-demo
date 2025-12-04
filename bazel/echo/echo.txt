@@ -8700,7 +8700,6 @@ equidistantial
 epapillate
 ethnoflora
 exitus
-epicentre
 entiris
 encephalomyelitic
 electros
@@ -11624,6 +11623,7 @@ elfkin
 eventration
 emptyhearted
 electrostenolysis
+epicentre
 ecrasite
 enanthesis
 exoskeletal
