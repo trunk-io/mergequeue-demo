@@ -12478,7 +12478,6 @@ decrepity
 diplophyte
 dehydrofreeze
 deafeningly
-detailedly
 durability
 drawbridges
 deferring
@@ -12961,6 +12960,7 @@ damnum
 displeasuring
 dustiness
 dvandva
+detailedly
 deprecatoriness
 dogsbodies
 disobliged
