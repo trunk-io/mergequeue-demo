@@ -7559,7 +7559,6 @@ crossbeam
 cimiciform
 coaters
 cercal
-cuprosilicon
 crater
 calelectricity
 cercaria
@@ -29413,6 +29412,7 @@ coldcock
 cryptos
 cryptosplenetic
 chapteral
+cuprosilicon
 cryptostome
 cryptous
 cryptovalence
