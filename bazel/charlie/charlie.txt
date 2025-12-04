@@ -5421,6 +5421,7 @@ checkbits
 catabolized
 camphols
 cheniller
+commandoman
 cardboard
 cosin
 counterwrite
@@ -29800,7 +29801,6 @@ counterambush
 catalpas
 corallin
 craniosacral
-commandoman
 chickory
 confusability
 comoquer
