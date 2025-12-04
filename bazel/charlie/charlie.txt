@@ -6028,7 +6028,6 @@ capetonian
 chortlers
 chaplet
 cathouse
-carryable
 cellarer
 cokelike
 crownling
@@ -14242,6 +14241,7 @@ circensian
 circinate
 clarifiers
 coxcombs
+carryable
 chattery
 cattie
 carom
