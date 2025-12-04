@@ -37,7 +37,6 @@ boardable
 broomwort
 beseech
 berchemia
-barroom
 backwraps
 bedford
 beseems
@@ -1702,6 +1701,7 @@ burgesses
 brazened
 boucles
 benzodiazole
+barroom
 bichromatic
 belight
 bruise
