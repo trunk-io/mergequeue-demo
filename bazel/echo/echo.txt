@@ -2907,6 +2907,7 @@ eemis
 eliminable
 extinguisher
 emplacements
+entomophaga
 endozoic
 euornithes
 empyemata
@@ -12246,7 +12247,6 @@ ependyme
 esox
 elias
 elementaloid
-entomophaga
 eventide
 episomes
 excrescential
