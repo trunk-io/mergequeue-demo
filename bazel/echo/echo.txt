@@ -6246,7 +6246,6 @@ endocarpoid
 equisufficiency
 endocervical
 evalue
-erasable
 excited
 eardrops
 electromedical
@@ -9622,6 +9621,7 @@ entrance
 enface
 egestive
 epimerizing
+erasable
 encephalomere
 exalbuminose
 elephantine
