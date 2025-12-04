@@ -869,6 +869,7 @@ eos
 endolumbar
 evapotranspiration
 effluviums
+escapable
 englutting
 eelbobber
 escobedo
@@ -11295,7 +11296,6 @@ ess
 enticingly
 evokers
 epithalamic
-escapable
 engirding
 eloping
 electro
