@@ -9245,6 +9245,7 @@ cicatrize
 corrump
 cone
 chromosphere
+choices
 camaka
 cowshot
 coasters
@@ -23606,7 +23607,6 @@ cruelty
 cohabit
 cochleate
 characterial
-choices
 clogginess
 comptoir
 cholecystocolotomy
