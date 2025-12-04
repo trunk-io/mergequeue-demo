@@ -8962,6 +8962,7 @@ birdie
 boulangist
 busbies
 blackware
+bootable
 bobbles
 biolinguistics
 bottlemaker
@@ -12146,7 +12147,6 @@ bulbilla
 blamelessness
 baltetei
 breadfruit
-bootable
 bumpology
 bolag
 besoothement
