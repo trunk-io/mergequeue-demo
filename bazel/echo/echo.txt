@@ -868,6 +868,7 @@ explosibility
 eos
 endolumbar
 evapotranspiration
+effluviums
 englutting
 eelbobber
 escobedo
@@ -1273,7 +1274,6 @@ enspell
 entry
 estatesmen
 epithalamium
-effluviums
 embrowd
 electroneutral
 erysipelas
