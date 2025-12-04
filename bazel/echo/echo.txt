@@ -2907,6 +2907,7 @@ eligibles
 euhemerism
 extend
 enseated
+epidermoid
 eukairite
 evagation
 endoconidia
@@ -3948,7 +3949,6 @@ excludable
 erythrin
 extender
 excursion
-epidermoid
 enfork
 engraphy
 eumenidae
