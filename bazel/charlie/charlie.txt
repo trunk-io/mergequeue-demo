@@ -8364,7 +8364,6 @@ chitinized
 coadunation
 circummuring
 clawker
-craniomaxillary
 checks
 cynodont
 complaisant
@@ -10400,6 +10399,7 @@ cisterna
 cystoscopy
 confix
 chymotrypsinogen
+craniomaxillary
 colonate
 coset
 cochlite
