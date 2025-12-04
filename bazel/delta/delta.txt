@@ -9122,6 +9122,7 @@ defalcation
 dissector
 deathlike
 dirigible
+dialogs
 distraining
 duce
 deidesheimer
@@ -14831,7 +14832,6 @@ deratizing
 downfall
 defibrillating
 diploidize
-dialogs
 diploetic
 dishling
 debouch
