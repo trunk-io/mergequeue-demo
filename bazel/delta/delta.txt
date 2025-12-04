@@ -11015,7 +11015,6 @@ desmotrope
 domajig
 dogget
 defluvium
-dookit
 dash
 dehydrogeniser
 doornail
@@ -12478,6 +12477,7 @@ discriminated
 dishonourer
 didn
 diamond
+dookit
 documented
 dereligion
 disunited
