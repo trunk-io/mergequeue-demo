@@ -1229,6 +1229,7 @@ extraequilibrium
 edaphosaurus
 endostracal
 effete
+exotospore
 epistasy
 exorcizer
 euphorbiaceae
@@ -13305,7 +13306,6 @@ ephoralty
 espadrille
 extrared
 epicalyces
-exotospore
 elkslip
 expresso
 embreathement
