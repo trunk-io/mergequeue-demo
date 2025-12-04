@@ -7551,6 +7551,7 @@ cerberus
 crossbeam
 cimiciform
 coaters
+cantara
 cercal
 crater
 calelectricity
@@ -12523,7 +12524,6 @@ corroborate
 chromitite
 conacre
 chromium
-cantara
 congoese
 cardanol
 cerebellitis
