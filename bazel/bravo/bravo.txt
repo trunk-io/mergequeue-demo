@@ -12543,6 +12543,7 @@ basifacial
 basinlike
 bousing
 befogging
+bywalker
 bloodleaf
 blocklayer
 bridgebote
@@ -14798,7 +14799,6 @@ baring
 brasse
 boultel
 bennis
-bywalker
 bephilter
 basketful
 beguess
