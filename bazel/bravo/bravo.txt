@@ -2644,6 +2644,7 @@ belligerents
 backbit
 benthic
 badgerly
+batteried
 bourtree
 birdcage
 boltwork
@@ -10810,7 +10811,6 @@ bimonthlies
 brasenia
 bogymen
 blossoming
-batteried
 blindstory
 believability
 blennosis
