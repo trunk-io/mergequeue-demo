@@ -4556,6 +4556,7 @@ ecumenics
 evacuants
 edema
 enchancement
+examination
 encounterable
 exuccous
 emersonian
@@ -8065,7 +8066,6 @@ ezba
 essay
 extropical
 efferently
-examination
 evzones
 egotist
 embargoing
