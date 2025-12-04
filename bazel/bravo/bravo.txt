@@ -5261,6 +5261,7 @@ barnacled
 blurs
 begrudgingly
 bequote
+bb
 balsamina
 baviere
 backlash
@@ -8342,7 +8343,6 @@ beehive
 burys
 borophenol
 bicrons
-bb
 blackfellows
 brogans
 barosma
