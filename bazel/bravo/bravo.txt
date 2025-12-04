@@ -6929,7 +6929,6 @@ bactris
 budgerow
 boltmaking
 beatless
-baalite
 bole
 berrichon
 blackman
@@ -18007,6 +18006,7 @@ birchwood
 bootmaking
 ballyragging
 bienseance
+baalite
 baltic
 bajochi
 brusquely
