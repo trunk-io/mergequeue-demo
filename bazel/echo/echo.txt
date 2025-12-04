@@ -6719,7 +6719,6 @@ estop
 espavel
 epitheliolytic
 endoenteritis
-emunge
 endothorax
 elasticum
 elaioleucite
@@ -13151,6 +13150,7 @@ ecclesiastical
 ear
 effectless
 electralize
+emunge
 enterophthisis
 economising
 embrittling
