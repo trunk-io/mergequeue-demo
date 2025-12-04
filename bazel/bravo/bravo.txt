@@ -12785,6 +12785,7 @@ biometrician
 blares
 bullseye
 boarhound
+boskages
 boastfulness
 bdle
 blowtorches
@@ -14533,7 +14534,6 @@ bayonet
 bauckiebird
 baryte
 beforesaid
-boskages
 barbless
 bankera
 berley
