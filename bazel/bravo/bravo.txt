@@ -5398,7 +5398,6 @@ banisher
 beveled
 bontebucks
 beshouted
-bdl
 blackeners
 bedazzles
 brassbound
@@ -17767,6 +17766,7 @@ bountifully
 burree
 bulgingly
 bookward
+bdl
 broadpiece
 becowarded
 biologese
