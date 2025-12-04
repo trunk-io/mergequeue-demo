@@ -304,6 +304,7 @@ beacons
 botanists
 barrelled
 betty
+begrown
 ballottines
 bacilli
 banaba
@@ -5186,7 +5187,6 @@ bescreens
 biweekly
 bedabbled
 besetment
-begrown
 begrudge
 benzil
 begrim
