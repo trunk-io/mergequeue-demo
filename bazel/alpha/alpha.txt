@@ -8539,7 +8539,6 @@ alleys
 automatonlike
 amygdalic
 antihidrotic
-appressorium
 antecloset
 apodoses
 altarlet
@@ -20895,6 +20894,7 @@ academist
 adendritic
 acipenseroidei
 alloxanate
+appressorium
 abusage
 atroscine
 apostolize
