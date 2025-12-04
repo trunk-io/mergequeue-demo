@@ -6103,7 +6103,6 @@ beetle
 boltant
 bannet
 bedeviled
-brist
 beclose
 brushups
 barongs
@@ -11844,6 +11843,7 @@ boresomeness
 backstring
 bisley
 backgame
+brist
 balteus
 batiks
 burrheadedness
