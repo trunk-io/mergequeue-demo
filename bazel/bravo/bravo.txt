@@ -731,6 +731,7 @@ badges
 beriberic
 bourbons
 bestowage
+blipping
 balat
 brink
 bumped
@@ -10765,7 +10766,6 @@ bibl
 botchka
 babools
 bakongo
-blipping
 bobwhite
 butanols
 balloonful
