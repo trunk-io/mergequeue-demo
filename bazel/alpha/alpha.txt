@@ -5199,6 +5199,7 @@ actable
 afteract
 afterlife
 atbash
+atrament
 afterbirth
 asphodels
 aventure
@@ -22978,7 +22979,6 @@ antimonarch
 alcades
 albatros
 algid
-atrament
 atramentous
 antitartaric
 atmiatry
