@@ -6593,6 +6593,7 @@ aptitudes
 acropore
 apsis
 aglucon
+alembic
 ainus
 alsbachite
 athetoid
@@ -20366,7 +20367,6 @@ astart
 archicleistogamy
 archdepredator
 accentuating
-alembic
 abbreviatable
 aconites
 arroyos
