@@ -7457,6 +7457,7 @@ bezzi
 brushoffs
 buckstone
 bebilya
+bathymetry
 bankeress
 barrett
 bethabara
@@ -15942,7 +15943,6 @@ bespatter
 berberidaceae
 basion
 biog
-bathymetry
 bluewoods
 boles
 bowstringing
