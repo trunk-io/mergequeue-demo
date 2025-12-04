@@ -4684,7 +4684,6 @@ demidistance
 decollated
 deprecated
 demifigure
-dieresis
 diolefin
 docimasy
 diathermic
@@ -14737,6 +14736,7 @@ disbelieving
 dithionate
 dietaries
 decoagulate
+dieresis
 deskill
 dashnakist
 din
