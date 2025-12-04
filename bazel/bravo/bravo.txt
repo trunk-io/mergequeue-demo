@@ -4968,6 +4968,7 @@ bde
 bombable
 bottlenecks
 benzenyl
+buret
 bobtails
 burp
 barf
@@ -17589,7 +17590,6 @@ bilobate
 bodymaking
 buzuki
 bogyman
-buret
 bathylith
 burets
 binuclear
