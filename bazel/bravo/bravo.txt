@@ -5203,7 +5203,6 @@ birdwatch
 biocoenosis
 bratstva
 bedsick
-bestand
 broodling
 bizones
 blew
@@ -18167,6 +18166,7 @@ bathinette
 biriani
 bibble
 butenyl
+bestand
 bemusedly
 bosky
 barbecueing
