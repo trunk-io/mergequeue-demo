@@ -9535,7 +9535,6 @@ bale
 barbouillage
 boardinghouses
 baccaceous
-bedplates
 bassoon
 blest
 busted
@@ -9741,6 +9740,7 @@ buttonbush
 beneficed
 bumblingness
 backhandedness
+bedplates
 bowser
 bankrupts
 blepharospath
