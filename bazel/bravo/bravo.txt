@@ -3619,7 +3619,6 @@ bookstore
 bioluminescent
 bargains
 basocyte
-barrace
 boffos
 ballonette
 braininess
@@ -13015,6 +13014,7 @@ berycoid
 bespecked
 bronchiostenosis
 birse
+barrace
 bludgeoned
 bleeders
 bishops
