@@ -1359,7 +1359,6 @@ append
 aftermark
 argosy
 associateship
-aglet
 acroliths
 apenteric
 amanitin
@@ -4211,6 +4210,7 @@ actinon
 aerobe
 analphabete
 ages
+aglet
 adenosine
 anthraflavic
 arthrodymic
