@@ -1256,7 +1256,6 @@ bawdyhouses
 broderie
 brushball
 bassarid
-bimastic
 bittocks
 burgomaster
 blathers
@@ -13062,6 +13061,7 @@ beaconless
 batavi
 breedling
 because
+bimastic
 bookbinding
 burgherdom
 blackings
