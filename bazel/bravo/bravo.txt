@@ -6432,7 +6432,6 @@ bandies
 backdate
 baloo
 bugwort
-barbershops
 bemix
 bibliotaphe
 bombyx
@@ -9238,6 +9237,7 @@ bellbinder
 blusht
 black
 beauetry
+barbershops
 battlemented
 bevels
 blackplate
