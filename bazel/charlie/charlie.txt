@@ -4603,7 +4603,6 @@ colent
 carpaine
 chondrinous
 chelingos
-cystoradiography
 colicystopyelitis
 carpalia
 cocash
@@ -5568,6 +5567,7 @@ choufleur
 catamarenan
 cynomolgus
 cordaitean
+cystoradiography
 catamount
 confinable
 colitoxemia
