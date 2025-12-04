@@ -3550,6 +3550,7 @@ auld
 aparejo
 attacking
 actinoscopy
+appast
 aquariist
 autotomise
 alligator
@@ -3644,7 +3645,6 @@ awardable
 anagrammatization
 antacrid
 affich
-appast
 allergin
 archiepiscopal
 antenatalitial
