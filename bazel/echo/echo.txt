@@ -4568,6 +4568,7 @@ evacuants
 edema
 enchancement
 encounterable
+exuccous
 emersonian
 exosmic
 epopoeias
@@ -7759,7 +7760,6 @@ embace
 extremeness
 electroencephalogram
 enoil
-exuccous
 eidola
 echinostomatidae
 evermore
