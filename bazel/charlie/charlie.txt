@@ -872,6 +872,7 @@ coadjudicator
 camphol
 clobber
 cataloguer
+chambrays
 chivaree
 camogie
 compilable
@@ -29845,7 +29846,6 @@ chelidon
 crumby
 crossbow
 cibation
-chambrays
 coree
 camletting
 calais
