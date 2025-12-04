@@ -8738,7 +8738,6 @@ ecchymoma
 epicoeloma
 excandescency
 ergostat
-equiangularity
 evaporativity
 essenhout
 exuberancy
@@ -11573,6 +11572,7 @@ erosional
 energids
 exauctorate
 exemplary
+equiangularity
 escurialize
 eristically
 esquires
