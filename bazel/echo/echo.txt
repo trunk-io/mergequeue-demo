@@ -2801,6 +2801,7 @@ exemplariness
 entoplasm
 euphon
 elevenses
+entifical
 eaten
 eccles
 elfenfolk
@@ -5657,7 +5658,6 @@ extirpatory
 excursuses
 euphrasia
 eugubine
-entifical
 epithalamiast
 elaphe
 entada
