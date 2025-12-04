@@ -1472,6 +1472,7 @@ depletes
 decongests
 durain
 decoder
+disbody
 dosing
 dehydrant
 danize
@@ -18092,7 +18093,6 @@ dreamiest
 daffiness
 dropline
 darg
-disbody
 dependence
 demarcature
 dezincking
