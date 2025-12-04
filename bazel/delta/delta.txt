@@ -3822,6 +3822,7 @@ displat
 dicoumarol
 didact
 dressage
+deallocate
 dehydrogenate
 diaporesis
 desmepithelium
@@ -13153,7 +13154,6 @@ datives
 detractory
 denasalized
 dispergated
-deallocate
 drumbledore
 dallied
 deruinate
