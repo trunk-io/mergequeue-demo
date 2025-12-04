@@ -11209,7 +11209,6 @@ basebred
 baba
 bribable
 brutalised
-beclothes
 bloodwite
 baffler
 boardinghouse
@@ -12789,6 +12788,7 @@ biasses
 beflagging
 bezzling
 bogart
+beclothes
 brachiofacial
 breathtaking
 biometrician
