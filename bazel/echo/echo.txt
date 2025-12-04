@@ -766,6 +766,7 @@ elle
 excipient
 ectocondylar
 equilucent
+elastase
 ejectee
 excercise
 eriophorum
@@ -4587,7 +4588,6 @@ equipages
 externalism
 extendability
 echovirus
-elastase
 enajim
 everywhereness
 essentia
