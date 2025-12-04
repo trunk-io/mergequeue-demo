@@ -4789,6 +4789,7 @@ cementation
 carrousel
 candlepins
 carrousels
+cupidone
 chaetodontid
 corallinaceae
 crinites
@@ -7349,7 +7350,6 @@ cassideous
 cholent
 conehead
 chlorimetry
-cupidone
 chaperoned
 clamper
 choroidoiritis
