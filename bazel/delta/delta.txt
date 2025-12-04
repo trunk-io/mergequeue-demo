@@ -6170,6 +6170,7 @@ destructible
 digest
 dogy
 dm
+deallocates
 diddles
 discharger
 doltishness
@@ -18125,7 +18126,6 @@ deanthropomorphic
 damone
 dispensaries
 dagswain
-deallocates
 deuteride
 divaricately
 diaphonic
