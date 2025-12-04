@@ -13311,6 +13311,7 @@ croziers
 coefficient
 crucifixes
 cepheid
+chatelaines
 clapnest
 corbeille
 carapacial
@@ -17783,7 +17784,6 @@ cockal
 carboloy
 carpocervical
 comaking
-chatelaines
 chemosmoic
 cofaster
 colonially
