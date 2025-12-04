@@ -628,6 +628,7 @@ denaturize
 deliver
 dartos
 drummy
+dipsas
 duellize
 dinoflagellata
 dropout
@@ -3182,7 +3183,6 @@ detainable
 distillate
 demanganization
 deflocculated
-dipsas
 dependantly
 deaneries
 diffusions
