@@ -5479,7 +5479,6 @@ answers
 afterdecks
 antiflattering
 aftersound
-agalma
 alkalize
 antioxidase
 agalwoods
@@ -8589,6 +8588,7 @@ antefixa
 argentous
 acetification
 autocollimators
+agalma
 allergenicity
 arrhythmous
 abouchement
