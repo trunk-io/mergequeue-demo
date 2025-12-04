@@ -4653,6 +4653,7 @@ dominants
 divinity
 drawboy
 danubian
+decagons
 demiman
 diphtherotoxin
 defused
@@ -9575,7 +9576,6 @@ depreciatoriness
 damnify
 disinfest
 diffusers
-decagons
 dumbbeller
 defraud
 diamin
