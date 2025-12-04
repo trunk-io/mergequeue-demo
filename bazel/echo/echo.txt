@@ -4223,7 +4223,6 @@ epimerism
 epanorthotic
 earthsmoke
 evergreen
-ellipse
 expressional
 elec
 encounterer
@@ -7420,6 +7419,7 @@ ectomorph
 echappe
 engineries
 esonarthex
+ellipse
 epitheliolysis
 empathized
 explorativeness
