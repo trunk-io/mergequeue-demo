@@ -766,6 +766,7 @@ destructors
 disherited
 dialysable
 dangs
+degression
 deadflat
 dynamo
 dornock
@@ -13757,7 +13758,6 @@ dermatomere
 druxy
 defaults
 dinning
-degression
 dicot
 dampy
 decriminalizes
