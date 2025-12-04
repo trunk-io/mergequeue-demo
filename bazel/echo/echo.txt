@@ -9917,7 +9917,6 @@ exophasia
 emptores
 enrich
 enfolds
-envolume
 extranormal
 educts
 electivity
@@ -13047,6 +13046,7 @@ exactest
 efficient
 erasement
 extractible
+envolume
 echeveria
 extemporizer
 euphemia
