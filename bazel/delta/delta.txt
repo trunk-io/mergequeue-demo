@@ -2566,7 +2566,6 @@ daneworts
 declaring
 daktylon
 dehumidify
-dentalization
 deem
 demy
 disrest
@@ -5823,6 +5822,7 @@ dipneumonous
 decastich
 dupondii
 demit
+dentalization
 degerms
 dihydride
 deplorability
