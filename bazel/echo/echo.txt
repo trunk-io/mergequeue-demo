@@ -793,7 +793,6 @@ ectozoa
 electioneer
 endgate
 esemplastic
-endocycle
 eventuality
 eigenvalue
 eumerogenesis
@@ -8949,6 +8948,7 @@ eireannach
 entangle
 ephors
 encipherments
+endocycle
 endocrinological
 exterritoriality
 ethnologic
