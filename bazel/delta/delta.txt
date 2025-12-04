@@ -2621,7 +2621,6 @@ demulce
 decoloring
 depositional
 dicier
-demagnetizer
 devolatilise
 decadist
 dunlop
@@ -11595,6 +11594,7 @@ deltalike
 duct
 diabolisation
 duller
+demagnetizer
 disprivilege
 discomposedness
 decohere
