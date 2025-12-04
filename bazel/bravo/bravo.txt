@@ -1327,6 +1327,7 @@ blea
 bioplastic
 baned
 bandyball
+baryglossia
 beakful
 barrowcoat
 bruisewort
@@ -18232,7 +18233,6 @@ busycon
 backdown
 billycan
 butsu
-baryglossia
 buonamani
 buts
 barbiturate
