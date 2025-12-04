@@ -2335,7 +2335,6 @@ encolden
 enfrai
 extoll
 enchantments
-encumbering
 euryalean
 ecanda
 eucrasia
@@ -5919,6 +5918,7 @@ exocardial
 effulgence
 epilabrum
 elongative
+encumbering
 etiologic
 exscinds
 embiodea
