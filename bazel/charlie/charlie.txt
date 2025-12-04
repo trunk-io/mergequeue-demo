@@ -12706,7 +12706,6 @@ coalmonger
 carrells
 contactant
 chondrosis
-censorate
 capitulating
 chantecler
 christianization
@@ -19304,6 +19303,7 @@ crimsonly
 cuprotungstite
 corbleu
 colon
+censorate
 colonaded
 colonate
 cholee
