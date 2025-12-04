@@ -3424,7 +3424,6 @@ belucki
 belts
 bowerwoman
 bivariant
-berdash
 beneplacito
 backwall
 banlieue
@@ -6929,6 +6928,7 @@ besluit
 bedchair
 bridgebuilding
 biarchy
+berdash
 bihai
 braving
 bigamized
