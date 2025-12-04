@@ -1226,6 +1226,7 @@ chambers
 curtalaxes
 condensary
 communitary
+carabinero
 chinampa
 calef
 craunched
@@ -13022,7 +13023,6 @@ chutzpanik
 categorization
 cyan
 chyazic
-carabinero
 cyaneous
 contrail
 choppiest
