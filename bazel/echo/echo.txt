@@ -2302,7 +2302,6 @@ extravehicular
 extends
 elects
 exorcise
-emplacement
 eniac
 egocerus
 enantiopathic
@@ -5273,6 +5272,7 @@ enframed
 empennages
 ergoism
 extravasated
+emplacement
 expelling
 early
 engram
