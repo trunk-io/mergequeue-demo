@@ -4189,6 +4189,7 @@ epiparodos
 englishhood
 electrotherapeutist
 enclear
+elatery
 exhaustiveness
 eulogies
 endorsement
@@ -12235,7 +12236,6 @@ exhumations
 eyer
 extrahepatic
 examinability
-elatery
 exemption
 extorsion
 eisegeses
