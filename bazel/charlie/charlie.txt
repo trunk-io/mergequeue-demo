@@ -9031,6 +9031,7 @@ charbroiled
 cyclosilicate
 colorcast
 coeff
+coccids
 chass
 crutches
 courses
@@ -17610,7 +17611,6 @@ causeuses
 concutient
 crusilee
 comparted
-coccids
 carburise
 cravatted
 coccygalgia
