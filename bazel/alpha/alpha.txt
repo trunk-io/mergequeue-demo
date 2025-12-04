@@ -10891,7 +10891,6 @@ archecentric
 aquiclude
 adelphophagy
 armorician
-autotrophic
 antihierarchically
 amygdalinic
 abdominoanterior
@@ -23608,6 +23607,7 @@ aumrie
 aias
 afterglows
 azygoses
+autotrophic
 allotelluric
 anathematically
 apothegmatize
