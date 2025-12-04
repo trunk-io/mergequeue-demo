@@ -2155,6 +2155,7 @@ babus
 backsets
 burgraves
 bulreedy
+bony
 bementite
 befuddlement
 blattered
@@ -7290,7 +7291,6 @@ breve
 bidder
 borrowable
 blastier
-bony
 businesslike
 bnf
 baron
