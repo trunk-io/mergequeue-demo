@@ -5658,7 +5658,6 @@ eryngos
 electrolier
 edwardsia
 extirpatory
-excursuses
 euphrasia
 eugubine
 epithalamiast
@@ -10418,6 +10417,7 @@ endeavor
 expeditious
 evites
 equispaced
+excursuses
 exuded
 erasure
 electrocardiographic
