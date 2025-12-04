@@ -5973,7 +5973,6 @@ atophan
 algorithms
 androclinium
 aside
-artifacts
 achondrite
 advenient
 asia
@@ -18491,6 +18490,7 @@ adrip
 aldrovanda
 auricyanhydric
 anecdotal
+artifacts
 anacephalaeosis
 acclaiming
 argentina
