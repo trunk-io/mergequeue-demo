@@ -2425,7 +2425,6 @@ crunodes
 colotyphoid
 corselet
 curryfavel
-canalise
 centroidal
 candle
 coehorn
@@ -21673,6 +21672,7 @@ crosstrack
 concurso
 caulotaxis
 cajones
+canalise
 contraregular
 college
 condemnor
