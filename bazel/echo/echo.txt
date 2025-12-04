@@ -517,6 +517,7 @@ expurgate
 enhunger
 eyewitness
 eplot
+elsewhere
 eclipsed
 ecotypically
 endonucleolus
@@ -4658,7 +4659,6 @@ equiatomic
 ephesine
 eumenes
 escutcheons
-elsewhere
 evaporations
 ectomorphy
 exscutellate
