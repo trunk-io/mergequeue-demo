@@ -3619,6 +3619,7 @@ digitising
 decrease
 dartman
 dumontia
+demeaned
 divus
 duramater
 defuze
@@ -14409,7 +14410,6 @@ digestiveness
 destitution
 deterger
 diachronically
-demeaned
 drawstring
 dragomanic
 dramaticism
