@@ -13355,7 +13355,6 @@ distillates
 dentiloquist
 dendric
 donatiaceae
-degauss
 doryline
 dottel
 deboise
@@ -17772,6 +17771,7 @@ duces
 dialled
 digraphs
 distensile
+degauss
 dismounted
 denotational
 declaims
