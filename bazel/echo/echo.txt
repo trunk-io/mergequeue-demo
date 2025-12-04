@@ -9348,6 +9348,7 @@ elliptical
 entocondyle
 exocycloida
 epilabra
+enshadow
 euryzygous
 electrostereotype
 enteradenology
@@ -11878,7 +11879,6 @@ extinctions
 eurithermophilic
 empasm
 eques
-enshadow
 epigraphy
 eel
 ethicalities
