@@ -5124,7 +5124,6 @@ episteme
 epicenity
 espada
 erubescite
-educationable
 elenctic
 ethenes
 enrage
@@ -6734,6 +6733,7 @@ espavel
 epitheliolytic
 essays
 endoenteritis
+educationable
 endothorax
 elasticum
 epistle
