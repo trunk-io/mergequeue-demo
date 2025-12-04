@@ -521,7 +521,6 @@ expurgate
 eident
 enhunger
 eyewitness
-enravishes
 enturret
 eplot
 eclipsed
@@ -12423,6 +12422,7 @@ ensuite
 elumbated
 eiry
 exonerations
+enravishes
 excitoglandular
 electrophore
 echinite
