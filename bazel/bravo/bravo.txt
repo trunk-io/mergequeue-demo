@@ -5033,7 +5033,6 @@ buchanan
 beachless
 borts
 bridesmaids
-bandlimit
 bloodstains
 belles
 beanfest
@@ -12324,6 +12323,7 @@ brillante
 beaugregory
 blowtorch
 bootee
+bandlimit
 bacteriophagic
 bekick
 biverb
