@@ -1936,6 +1936,7 @@ buildings
 bevelers
 believably
 betell
+bestripe
 backen
 becafico
 beestings
@@ -5798,7 +5799,6 @@ beturbaned
 beshriek
 bronchioles
 billings
-bestripe
 boozers
 becursed
 barih
