@@ -4704,7 +4704,6 @@ dentiroster
 descender
 devilize
 dungyard
-dullsville
 doorways
 diwans
 dah
@@ -10232,6 +10231,7 @@ denter
 dozier
 decertificaton
 delapsion
+dullsville
 delegalize
 detenu
 digoneutic
