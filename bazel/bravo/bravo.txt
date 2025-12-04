@@ -6945,7 +6945,6 @@ buffa
 baseboard
 bactris
 budgerow
-boltmaking
 beatless
 bole
 berrichon
@@ -14714,6 +14713,7 @@ bitterns
 blandiloquious
 begrutch
 battlement
+boltmaking
 baptizer
 brantails
 bauera
