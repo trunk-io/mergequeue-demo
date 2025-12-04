@@ -9338,7 +9338,6 @@ divers
 dross
 dustfall
 daedalous
-dehorned
 dissuadable
 disalike
 dextral
@@ -14899,6 +14898,7 @@ dynamogenous
 deintellectualization
 delphin
 deuteropathy
+dehorned
 dichroite
 duntle
 disorientates
