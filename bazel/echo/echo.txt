@@ -3885,7 +3885,6 @@ evasion
 elizabethan
 epiloguing
 exacerbation
-electrotonus
 excretion
 echiurus
 epicauta
@@ -10127,6 +10126,7 @@ empight
 eternalist
 endamoeba
 easterling
+electrotonus
 empolder
 enfeebled
 enmeshes
