@@ -1168,7 +1168,6 @@ battlefield
 barbicans
 blennostatic
 bedlamps
-booths
 bryonies
 boweries
 beleaguered
@@ -11585,6 +11584,7 @@ blesse
 baluchitherium
 beamers
 backwaters
+booths
 burgality
 buckayro
 bermudas
