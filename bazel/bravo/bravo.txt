@@ -2047,7 +2047,6 @@ brokery
 brisances
 blesses
 bucculatrix
-brickwall
 bouncingly
 bilertinned
 bitterweed
@@ -12409,6 +12408,7 @@ boosies
 bracteal
 bookplates
 briquette
+brickwall
 brushcut
 beget
 blazoners
