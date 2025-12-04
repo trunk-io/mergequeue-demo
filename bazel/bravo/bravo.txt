@@ -3500,6 +3500,7 @@ bathkol
 bathmat
 bonity
 blackberry
+boattail
 boglet
 bombardier
 begins
@@ -15089,7 +15090,6 @@ bohora
 backscatter
 breccias
 boomier
-boattail
 bronchoaspergillosis
 butterbill
 broadling
