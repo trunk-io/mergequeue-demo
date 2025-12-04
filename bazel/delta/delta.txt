@@ -3535,7 +3535,6 @@ downtimes
 delundung
 deflections
 deaccessions
-delete
 deperition
 deerherd
 dorsicollar
@@ -11631,6 +11630,7 @@ diasters
 disfavored
 deportable
 demagoguism
+delete
 dinoflagellate
 dimetallic
 dodrantal
