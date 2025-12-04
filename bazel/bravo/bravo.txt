@@ -5295,7 +5295,6 @@ ballaster
 bakerlike
 battlestead
 bootid
-bristling
 bombax
 betowel
 bandusian
@@ -17507,6 +17506,7 @@ blobbiness
 blurb
 bilaan
 begiggle
+bristling
 benevolence
 breading
 blamefulness
