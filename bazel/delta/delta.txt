@@ -6346,7 +6346,6 @@ demonomy
 dotter
 draconianism
 dentin
-detectors
 dermas
 druidic
 dermasurgery
@@ -15548,6 +15547,7 @@ debile
 danker
 ducklings
 decolourization
+detectors
 defunctionalization
 doable
 dyotheism
