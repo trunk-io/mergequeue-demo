@@ -6272,6 +6272,7 @@ curses
 chiasm
 combustively
 crossties
+condottiere
 constraining
 cubically
 cued
@@ -19834,7 +19835,6 @@ campcraft
 corrup
 cofferwork
 corejoice
-condottiere
 cloudburst
 caramelise
 carpentering
