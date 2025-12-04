@@ -9941,7 +9941,6 @@ brailing
 blockers
 biffin
 bul
-bequeathable
 bloodwort
 bromoiodism
 bigbloom
@@ -12368,6 +12367,7 @@ balsameaceae
 bibulosities
 blacky
 bribegiving
+bequeathable
 bombillas
 bibacious
 blowfly
