@@ -6156,7 +6156,6 @@ bagworm
 blastoderm
 bottegas
 boatwise
-buoyantness
 bassaris
 batikulin
 bigeminated
@@ -15972,6 +15971,7 @@ bar
 bacteriologists
 broggle
 branchman
+buoyantness
 bossboy
 bungee
 bakshishing
