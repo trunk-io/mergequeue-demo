@@ -1423,7 +1423,6 @@ bedaze
 boyarisms
 barnard
 byspell
-balancewise
 blighter
 biolite
 bookie
@@ -17276,6 +17275,7 @@ batling
 batrachoplasty
 behavers
 bohireen
+balancewise
 barreling
 bentang
 brauronian
