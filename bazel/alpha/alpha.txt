@@ -12492,7 +12492,6 @@ archons
 aleikoum
 autoloading
 androgyn
-antiexpansion
 apatosaurus
 aqueously
 attargul
@@ -25411,6 +25410,7 @@ adumbrates
 arrondissements
 altisonant
 abridgements
+antiexpansion
 anearing
 assayer
 ayuyu
