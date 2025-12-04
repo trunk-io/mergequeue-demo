@@ -8515,7 +8515,6 @@ chicquing
 calodemon
 chancroidal
 chambioa
-cardroom
 campshed
 colloquist
 cpl
@@ -17568,6 +17567,7 @@ contacts
 cerion
 comptrol
 corporealization
+cardroom
 crepidula
 catholici
 clobberer
