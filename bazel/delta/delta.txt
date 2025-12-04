@@ -7398,7 +7398,6 @@ dispone
 dicyclies
 disagreed
 discoloredness
-determiner
 doorkeep
 dunnest
 dollbeer
@@ -11831,6 +11830,7 @@ disemboweled
 delayers
 despoiler
 deferrals
+determiner
 divest
 darnedest
 dipterygian
