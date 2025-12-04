@@ -5537,6 +5537,7 @@ belike
 bribes
 boilerful
 boardy
+bavian
 biases
 birchen
 blacksmiths
@@ -9606,7 +9607,6 @@ binominous
 bounden
 bisantler
 beladle
-bavian
 bytes
 blately
 blacklight
