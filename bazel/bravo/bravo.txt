@@ -280,7 +280,6 @@ brarow
 bronchoscope
 bacillariaceae
 buried
-blotless
 balancedness
 bearwort
 bindi
@@ -1547,6 +1546,7 @@ biblioclast
 beguiler
 blanche
 bactrian
+blotless
 bradyspermatism
 ballista
 burkites
