@@ -5904,7 +5904,6 @@ enweaved
 egocentrism
 educationary
 emeute
-elect
 eucharis
 exonerator
 errancies
@@ -12507,6 +12506,7 @@ equivalents
 echo
 enregistry
 egoize
+elect
 entozoic
 ensporia
 epirhizous
