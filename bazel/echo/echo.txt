@@ -1972,6 +1972,7 @@ electrocystoscope
 epiphragm
 emeriti
 enterocyst
+exanthem
 echinid
 ectosarcous
 ergophile
@@ -4810,7 +4811,6 @@ epilegomenon
 enlodgement
 epipelagic
 exogastric
-exanthem
 ectogenous
 eremites
 equilin
