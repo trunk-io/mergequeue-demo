@@ -5769,7 +5769,6 @@ coleslaws
 churly
 categorized
 copatron
-categorizer
 crouching
 complementarity
 copplecrown
@@ -28340,6 +28339,7 @@ cowardy
 conferva
 champlain
 centuried
+categorizer
 crate
 crowfoots
 consolamentum
