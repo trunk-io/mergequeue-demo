@@ -2762,7 +2762,6 @@ backfill
 bojo
 boat
 brookside
-baculites
 baphia
 bryozoa
 banksman
@@ -15287,6 +15286,7 @@ bristlewort
 bustling
 bagio
 bun
+baculites
 basichromatin
 beweeper
 bonnyclabber
