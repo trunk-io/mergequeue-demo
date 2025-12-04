@@ -521,7 +521,6 @@ expurgate
 eident
 enhunger
 eyewitness
-enturret
 eplot
 eclipsed
 ecotypically
@@ -1581,6 +1580,7 @@ episcope
 excelsitude
 eudeve
 evestar
+enturret
 epidemiologically
 engler
 epeirogeny
