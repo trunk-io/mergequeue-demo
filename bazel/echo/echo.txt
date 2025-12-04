@@ -4579,7 +4579,6 @@ evacuants
 edema
 enchancement
 encounterable
-estang
 emersonian
 exosmic
 epopoeias
@@ -10835,6 +10834,7 @@ eastering
 emarginately
 ennuying
 emaciated
+estang
 eurobin
 englutted
 enfolders
