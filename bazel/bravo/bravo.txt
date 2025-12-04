@@ -54,6 +54,7 @@ bert
 besugo
 blowbys
 baton
+blattid
 bopyridae
 blazoning
 boskier
@@ -1623,7 +1624,6 @@ ballup
 bethought
 bandikai
 ballweed
-blattid
 baconist
 brainless
 boogies
