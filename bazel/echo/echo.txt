@@ -2810,7 +2810,6 @@ euphon
 excellencies
 elevenses
 eaten
-etymologisable
 eccles
 elfenfolk
 esseda
@@ -4799,6 +4798,7 @@ eighth
 elders
 eyeless
 euphues
+etymologisable
 eumycetic
 encysts
 eching
