@@ -8050,6 +8050,7 @@ cryoprobe
 caaba
 cityness
 crepis
+chooser
 cevitamic
 cfd
 cyclotrimethylenetrinitramine
@@ -11913,7 +11914,6 @@ contents
 comprizable
 cobblestones
 crare
-chooser
 cenote
 carbocer
 chop
