@@ -11790,6 +11790,7 @@ cholla
 crabmill
 clairsentient
 crossable
+comities
 cryogen
 chollas
 cholo
@@ -21937,7 +21938,6 @@ casiri
 columbin
 chatoyancy
 calycle
-comities
 condue
 chromatograph
 ceylanite
