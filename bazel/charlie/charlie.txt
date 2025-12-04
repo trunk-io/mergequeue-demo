@@ -7753,7 +7753,6 @@ catholiciser
 cottiers
 corambis
 chloroplatinite
-clavis
 convival
 ciceros
 craighle
@@ -9202,6 +9201,7 @@ chlorocarbon
 colleted
 charoses
 charoseth
+clavis
 curvaceous
 colluviums
 condylome
