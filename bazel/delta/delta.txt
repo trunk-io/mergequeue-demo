@@ -5830,6 +5830,7 @@ definitions
 dentiloquy
 distrainable
 darkle
+disallow
 directorates
 dialyzed
 despotic
@@ -11114,7 +11115,6 @@ demolish
 discontented
 disabuse
 digenetic
-disallow
 diamondbacked
 daintihood
 dieselized
