@@ -261,7 +261,6 @@ decameters
 deteriorates
 disrepair
 dictums
-disoperation
 deleerit
 dragman
 drinking
@@ -11971,6 +11970,7 @@ damned
 dentifrices
 douziemes
 degum
+disoperation
 diesels
 debussing
 defibrination
