@@ -3761,7 +3761,6 @@ drawcard
 dreamwhile
 dewrot
 dowset
-deft
 dicyandiamide
 discalced
 dorn
@@ -12794,6 +12793,7 @@ doubty
 determinatively
 diploes
 deponer
+deft
 drainageway
 diversifies
 dentagra
