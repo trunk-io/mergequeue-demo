@@ -4296,6 +4296,7 @@ escheat
 escadrille
 entresse
 epimerize
+electrocorticogram
 expert
 enterocele
 escalations
@@ -6683,7 +6684,6 @@ emergency
 enlacement
 enterate
 embouchures
-electrocorticogram
 equalize
 erythrocytes
 emptiable
