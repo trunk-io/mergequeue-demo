@@ -3638,7 +3638,6 @@ erucin
 enherit
 epiplankton
 eteocretes
-epimorphism
 edibles
 exculpative
 earlet
@@ -9466,6 +9465,7 @@ embryogenesis
 euascomycetes
 exciters
 entranced
+epimorphism
 emplastra
 endwise
 elaborators
