@@ -6786,7 +6786,6 @@ extispices
 encheer
 epiperipheral
 endogenously
-enfaces
 entasias
 embryotegae
 emblemed
@@ -9323,6 +9322,7 @@ escritorial
 et
 escrowing
 expedition
+enfaces
 enroll
 explicate
 essences
