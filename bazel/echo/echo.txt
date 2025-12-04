@@ -5645,6 +5645,7 @@ excursuses
 euphrasia
 eugubine
 entifical
+epithalamiast
 elaphe
 elapse
 enaliosauria
@@ -8799,7 +8800,6 @@ ellipsis
 ephemeric
 epikleses
 endothoracic
-epithalamiast
 elvish
 epiphytology
 emulsor
