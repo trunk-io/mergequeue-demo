@@ -11342,7 +11342,6 @@ barrelfish
 bowldery
 boottop
 boulimy
-bind
 brickish
 bengaline
 bludge
@@ -14497,6 +14496,7 @@ buckish
 bosom
 bishydroxycoumarin
 braining
+bind
 braggadocianism
 bromoaurates
 braiders
