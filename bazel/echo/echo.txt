@@ -1946,7 +1946,6 @@ explosimeter
 epizoicide
 eyeish
 endurable
-ectogeneous
 enriching
 exulcerate
 enantiopathia
@@ -4869,6 +4868,7 @@ erept
 excusatory
 exorbitantly
 encode
+ectogeneous
 excaudate
 exposition
 extrait
