@@ -17319,6 +17319,7 @@ cantation
 cellulated
 chars
 convictible
+counterapse
 cutout
 coreigner
 confederated
@@ -26847,7 +26848,6 @@ counteradvance
 caesura
 catagories
 counteralliance
-counterapse
 cheeps
 counterguerrilla
 capuchin
