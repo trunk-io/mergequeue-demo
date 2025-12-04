@@ -13089,7 +13089,6 @@ defeit
 drogoman
 dsect
 divine
-dict
 decemberish
 dolichostylous
 derelinquish
@@ -15469,6 +15468,7 @@ dropvie
 driveboat
 despotically
 diazobenzene
+dict
 daring
 demarcatordemarcators
 descendants
