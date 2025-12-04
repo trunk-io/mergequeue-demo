@@ -10590,6 +10590,7 @@ baptisteries
 bateau
 bungwall
 buns
+barwin
 biffies
 bowboy
 blats
@@ -13803,7 +13804,6 @@ bilin
 bonce
 blurrer
 batzen
-barwin
 blickey
 basidiosporous
 bourder
