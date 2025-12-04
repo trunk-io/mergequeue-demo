@@ -1862,7 +1862,6 @@ curbstone
 colobus
 curs
 cassinian
-camauros
 carpetmonger
 campstools
 cambridge
@@ -27907,6 +27906,7 @@ coxcombic
 ciconiae
 chondrus
 cukes
+camauros
 catoquina
 crotaline
 compromitted
