@@ -5439,7 +5439,6 @@ bregmatic
 becometh
 berliner
 baccalaureates
-biotype
 brooch
 behoovingly
 basinasal
@@ -18275,6 +18274,7 @@ bystreets
 balantidic
 browsed
 bepainting
+biotype
 buff
 boaster
 bloviated
