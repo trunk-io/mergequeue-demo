@@ -6143,6 +6143,7 @@ ciboule
 cyanol
 cirl
 cantonments
+cultivatable
 cookshack
 cucuy
 causationism
@@ -29559,7 +29560,6 @@ criticizers
 criticizing
 criticship
 cuttling
-cultivatable
 chopine
 critiqued
 countereffort
