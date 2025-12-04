@@ -875,6 +875,7 @@ confract
 coadjudicator
 camphol
 clobber
+cataloguer
 chivaree
 camogie
 compilable
@@ -5754,7 +5755,6 @@ centric
 crooch
 cessionary
 culprits
-cataloguer
 categorically
 crinose
 christabel
