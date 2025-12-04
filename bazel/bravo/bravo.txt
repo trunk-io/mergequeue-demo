@@ -3386,7 +3386,6 @@ bodywear
 bedsock
 belzebub
 blendure
-begift
 bedraggle
 bedazzling
 bello
@@ -14255,6 +14254,7 @@ bashers
 beflags
 bagganet
 barrenly
+begift
 blastoporal
 breunnerite
 bloomfell
