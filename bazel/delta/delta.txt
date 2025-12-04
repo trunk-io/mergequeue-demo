@@ -2572,7 +2572,6 @@ djakarta
 doby
 disaproned
 daywork
-desulfur
 dowless
 damageable
 discommendableness
@@ -4862,6 +4861,7 @@ dysgenesis
 demitranslucence
 daisied
 developmentary
+desulfur
 distrustingly
 dagbane
 dtd
