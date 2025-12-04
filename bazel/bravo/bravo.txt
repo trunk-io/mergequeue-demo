@@ -5339,6 +5339,7 @@ barrel
 blind
 bemurmured
 blastie
+bethylid
 blackjack
 burled
 beja
@@ -13724,7 +13725,6 @@ bankruptly
 bool
 burritos
 bumpier
-bethylid
 bloodstain
 bein
 balsamum
