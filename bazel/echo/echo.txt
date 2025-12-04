@@ -5483,7 +5483,6 @@ eschatocol
 epigne
 epidia
 embargo
-expwy
 exolve
 enfevers
 exponentials
@@ -9818,6 +9817,7 @@ embarking
 encodings
 embololalia
 eyeletting
+expwy
 efficacies
 elektra
 epistoma
