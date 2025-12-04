@@ -9456,7 +9456,6 @@ baisemain
 bessemer
 brevirostrate
 bullyrook
-blackguardize
 ballotade
 bavenite
 boulevardier
@@ -12252,6 +12251,7 @@ bodword
 blacktail
 bicycling
 butterman
+blackguardize
 beltman
 bodysurfed
 beams
