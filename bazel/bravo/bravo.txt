@@ -12273,7 +12273,6 @@ boneset
 bichord
 bugbears
 brawling
-bananalander
 blindfolding
 boltcutter
 booties
@@ -13879,6 +13878,7 @@ bathyplankton
 beneficing
 bannermen
 burhinus
+bananalander
 bismark
 bedevilling
 blesseder
