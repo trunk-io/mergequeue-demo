@@ -4806,7 +4806,6 @@ amanitas
 adequately
 anisogeny
 amebae
-abcissa
 antiparallel
 amalaka
 antinode
@@ -13384,6 +13383,7 @@ arawak
 asphyxial
 attractor
 astragalocentral
+abcissa
 artie
 alkanets
 aljama
