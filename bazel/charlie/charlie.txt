@@ -1583,7 +1583,6 @@ cinderella
 cistus
 corded
 corpulence
-clayey
 calls
 chaussures
 catoptric
@@ -11336,6 +11335,7 @@ cookbooks
 chlamydoselachidae
 carotic
 crawlspace
+clayey
 calfish
 chlamyses
 csnet
