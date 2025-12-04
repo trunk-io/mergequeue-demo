@@ -11171,7 +11171,6 @@ coral
 chiropterygian
 chemoses
 concolor
-caman
 caboclo
 chiros
 chirotherian
@@ -25835,6 +25834,7 @@ cytolysis
 corrente
 centigrado
 circumrotating
+caman
 coghle
 correspondences
 calamints
