@@ -8842,7 +8842,6 @@ chapbook
 caconym
 centauries
 coprosma
-coelomatic
 counterplease
 cicindelid
 cnemidophorus
@@ -23706,6 +23705,7 @@ cuirassed
 coccidioidomycosis
 cyclone
 corosif
+coelomatic
 californite
 cratinean
 contignation
