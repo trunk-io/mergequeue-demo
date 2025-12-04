@@ -1282,6 +1282,7 @@ enspell
 entry
 energesis
 estatesmen
+epithalamium
 effluviums
 embrowd
 electroneutral
@@ -13449,7 +13450,6 @@ extincteur
 euthanasy
 ethicals
 equalist
-epithalamium
 evanid
 emanent
 ethmophysal
