@@ -6601,7 +6601,6 @@ cazique
 cb
 cardol
 corporeous
-capabilities
 calamanco
 concresce
 cupmaker
@@ -8332,6 +8331,7 @@ cometographical
 charvet
 couches
 collapsable
+capabilities
 counternatural
 calabrasella
 chalcedonyx
