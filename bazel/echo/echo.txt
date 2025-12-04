@@ -801,6 +801,7 @@ ectozoa
 electioneer
 endgate
 esemplastic
+endocycle
 eventuality
 eigenvalue
 eumerogenesis
@@ -4725,7 +4726,6 @@ ellipsone
 exceptionability
 epitheliolysin
 expurgatory
-endocycle
 equinus
 enzootic
 eschatologically
