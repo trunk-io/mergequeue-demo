@@ -747,7 +747,6 @@ bixin
 branchiomeric
 bathylithic
 beetfly
-bechatter
 bingo
 badiner
 boxmaker
@@ -9049,6 +9048,7 @@ boldface
 bequeaths
 blacktree
 bushment
+bechatter
 balneologist
 broadaxes
 backscattering
