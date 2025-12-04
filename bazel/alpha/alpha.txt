@@ -7379,7 +7379,6 @@ albuminometer
 anorchi
 actuating
 alepot
-acanth
 athodyds
 agomensin
 atelier
@@ -16437,6 +16436,7 @@ amias
 astrocompass
 aphelinus
 argyrosomus
+acanth
 ailurophobia
 amphitheatric
 alcotate
