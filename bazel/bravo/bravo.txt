@@ -4124,7 +4124,6 @@ bunkering
 bombastic
 bannerole
 bountihead
-behooved
 bedeviling
 bipyramid
 blouselike
@@ -11810,6 +11809,7 @@ basyl
 berk
 bipods
 brangle
+behooved
 bibbling
 bloodshed
 backflip
