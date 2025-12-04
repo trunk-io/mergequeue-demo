@@ -1156,6 +1156,7 @@ battlefield
 barbicans
 blennostatic
 bedlamps
+booths
 bryonies
 boweries
 beleaguered
@@ -13679,7 +13680,6 @@ bobization
 bespotted
 basques
 braised
-booths
 b
 botry
 beshames
