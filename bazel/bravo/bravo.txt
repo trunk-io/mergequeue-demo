@@ -2860,7 +2860,6 @@ barostat
 biddableness
 blackguard
 bummie
-bonanza
 betitle
 bizz
 bacciferous
@@ -11818,6 +11817,7 @@ basyl
 berk
 bipods
 bibbling
+bonanza
 baronry
 bacillar
 bodegas
