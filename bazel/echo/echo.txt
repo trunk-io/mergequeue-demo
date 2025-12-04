@@ -4835,6 +4835,7 @@ electropsychrometer
 electroshocks
 earthmove
 euthyneural
+exitial
 excurse
 elench
 enserfed
@@ -9824,7 +9825,6 @@ emballonuridae
 etymologies
 egrets
 extraprostatic
-exitial
 embelin
 espinel
 ecologists
