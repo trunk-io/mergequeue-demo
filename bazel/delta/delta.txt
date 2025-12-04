@@ -13975,6 +13975,7 @@ dominators
 decemfid
 didynamies
 devoted
+destroyable
 dogwatch
 dure
 droguet
@@ -17375,7 +17376,6 @@ dipeptid
 dimethylanthranilate
 dealt
 designed
-destroyable
 disinclines
 diprotodan
 drearihead
