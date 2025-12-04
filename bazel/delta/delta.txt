@@ -7345,7 +7345,6 @@ decertify
 dishonourary
 decima
 damnified
-debentured
 dissembled
 demerse
 disfurnish
@@ -7888,6 +7887,7 @@ donship
 disabler
 dioramas
 decubiti
+debentured
 deviser
 duracine
 dollship
