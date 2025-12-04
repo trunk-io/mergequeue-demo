@@ -3223,6 +3223,7 @@ evitation
 essoin
 encampment
 encephalometric
+envois
 emeutes
 eumeromorph
 ethnotechnics
@@ -6685,7 +6686,6 @@ electrocorticogram
 equalize
 erythrocytes
 emptiable
-envois
 entrechat
 exsiccant
 enhydrous
