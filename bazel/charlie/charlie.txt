@@ -18683,7 +18683,6 @@ chasselas
 coining
 contains
 cella
-cellulose
 counterpole
 crowder
 chesil
@@ -26024,6 +26023,7 @@ cryptorchis
 corvillosum
 catholical
 crts
+cellulose
 careening
 centralest
 corvine
