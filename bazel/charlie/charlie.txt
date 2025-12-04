@@ -10734,7 +10734,6 @@ cenaculum
 cormus
 chilogrammo
 contract
-computernik
 conservatoire
 cimmerian
 corybantic
@@ -15555,6 +15554,7 @@ certification
 ceil
 compositing
 cephalodymia
+computernik
 crownband
 councillors
 contraindicating
