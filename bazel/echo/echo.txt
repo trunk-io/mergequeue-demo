@@ -1601,7 +1601,6 @@ ethanols
 electrosmosis
 equispatial
 ennoic
-electrofusion
 electrolithotrity
 endopolyploidy
 erratical
@@ -7327,6 +7326,7 @@ engulfed
 exhedrae
 emerging
 enterprise
+electrofusion
 entrochite
 embryoplastic
 enlarge
