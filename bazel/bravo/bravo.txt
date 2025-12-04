@@ -8669,7 +8669,6 @@ buttonholder
 bicornes
 butle
 bounceable
-backberand
 bedfellow
 bullbird
 bilithon
@@ -14126,6 +14125,7 @@ boltlike
 bracer
 beman
 bespice
+backberand
 beefalos
 blurters
 barbiton
