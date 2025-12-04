@@ -10322,7 +10322,6 @@ brontops
 bromination
 bayonets
 beanweed
-blowtorch
 bake
 brayette
 besmuts
@@ -12320,6 +12319,7 @@ bothie
 boneblack
 brillante
 beaugregory
+blowtorch
 bootee
 bacteriophagic
 bekick
