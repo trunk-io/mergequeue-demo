@@ -4787,7 +4787,6 @@ catfaces
 curiolofic
 coachable
 crewmen
-crosshatched
 coenomonoecism
 credulously
 colleagued
@@ -6387,6 +6386,7 @@ cedron
 chamaeleo
 causticly
 cloke
+crosshatched
 copperish
 counterexaggeration
 cumyl
