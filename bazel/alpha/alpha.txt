@@ -14407,6 +14407,7 @@ armourer
 anomodont
 anthoxanthum
 allies
+allergies
 anisocycle
 archicarp
 autostandardization
@@ -23330,7 +23331,6 @@ aplanatism
 allayer
 antiaggressionist
 alleviators
-allergies
 armageddonist
 adiation
 aliped
