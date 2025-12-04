@@ -6557,6 +6557,7 @@ bilimbi
 birdfarm
 billiken
 bergamask
+baser
 bladelet
 beldame
 benchers
@@ -10142,7 +10143,6 @@ beginnings
 behave
 bouffancy
 bellypinch
-baser
 bocconia
 brinsell
 botryolite
