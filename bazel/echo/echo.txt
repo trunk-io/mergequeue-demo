@@ -4284,7 +4284,6 @@ ecotypes
 embolo
 endarterial
 exothermic
-euphausia
 epauletted
 exuperable
 escheat
@@ -8622,6 +8621,7 @@ epithetic
 eradicate
 elides
 euphemise
+euphausia
 eradicated
 eugenic
 equilibrity
