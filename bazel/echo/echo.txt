@@ -4182,6 +4182,7 @@ ejectable
 epiparodos
 englishhood
 electrotherapeutist
+ecospecific
 enclear
 eulogies
 endorsement
@@ -10154,7 +10155,6 @@ echinomys
 euctical
 eskimo
 eyelight
-ecospecific
 ethonomic
 eloin
 elegises
