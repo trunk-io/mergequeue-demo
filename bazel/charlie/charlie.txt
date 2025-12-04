@@ -6604,6 +6604,7 @@ cazique
 cb
 cardol
 corporeous
+capabilities
 calamanco
 concresce
 cupmaker
@@ -12144,7 +12145,6 @@ chorussed
 chorusses
 choochoo
 cosmopolitanly
-capabilities
 cymbalo
 carisoprodol
 cedrin
