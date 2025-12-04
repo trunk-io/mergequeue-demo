@@ -2885,6 +2885,7 @@ brassavola
 benzoxate
 barren
 byproduct
+barrators
 bagroom
 broommaker
 barrets
@@ -7152,7 +7153,6 @@ babassus
 bromochlorophenol
 brushlet
 bintangor
-barrators
 backjoint
 beulah
 beant
