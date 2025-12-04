@@ -4764,7 +4764,6 @@ carryings
 cozy
 cocurricular
 carriole
-cardiazol
 chamberlainship
 conductance
 carryon
@@ -14100,6 +14099,7 @@ cinque
 coquetries
 curviness
 cinquefoil
+cardiazol
 corsie
 codons
 chaparral
