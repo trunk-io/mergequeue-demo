@@ -9848,7 +9848,6 @@ eccritic
 endorsable
 erythrophyllin
 emphasize
-elaidate
 exacts
 entries
 encolour
@@ -12369,6 +12368,7 @@ exhort
 enfranchising
 externat
 exclusory
+elaidate
 etymologicon
 examinatorial
 exormia
