@@ -1518,6 +1518,7 @@ bewared
 biosphere
 boucherize
 bierstuben
+beansetter
 bearer
 balli
 brassworks
@@ -14499,7 +14500,6 @@ baronies
 brainstems
 brokerly
 bartisan
-beansetter
 backhands
 beeswaxes
 blushingly
