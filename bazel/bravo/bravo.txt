@@ -10840,7 +10840,6 @@ bewith
 beleaf
 bavin
 birthrate
-baguet
 ballaton
 braunite
 bordured
@@ -13133,6 +13132,7 @@ butterroot
 bulletmaker
 broider
 boranes
+baguet
 bathwater
 bating
 benthoses
