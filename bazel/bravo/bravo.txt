@@ -283,7 +283,6 @@ bacile
 brarow
 bronchoscope
 bacillariaceae
-buried
 balancedness
 bearwort
 bindi
@@ -6333,6 +6332,7 @@ bluestem
 benzoquinoxaline
 backrushes
 burnettized
+buried
 brachinus
 biprism
 basilicate
