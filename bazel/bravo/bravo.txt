@@ -11624,6 +11624,7 @@ besort
 bossage
 brightness
 becroak
+besmoothing
 byordinar
 bedew
 bezesteen
@@ -14223,7 +14224,6 @@ brachiosaurus
 boycottage
 bicalvous
 britt
-besmoothing
 bequeathing
 birchism
 bucketfuls
