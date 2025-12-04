@@ -3379,7 +3379,6 @@ dictative
 dragboat
 dandlers
 dragaded
-depend
 dialling
 diverge
 dibranchiata
@@ -5638,6 +5637,7 @@ drunkard
 disvantage
 disjoins
 dissoluteness
+depend
 diplacusis
 dorsonasal
 dribble
