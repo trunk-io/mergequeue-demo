@@ -2547,6 +2547,7 @@ attenuations
 autonephrectomy
 agism
 asphyxia
+acipenseroid
 arquebus
 azelfafage
 allowed
@@ -13795,7 +13796,6 @@ anvasser
 anticyclones
 admonish
 anglicisms
-acipenseroid
 aikane
 araphostic
 arseniuret
