@@ -3289,7 +3289,6 @@ beekeeper
 butanolid
 brazier
 breakdowns
-biophor
 boulevards
 balas
 billette
@@ -12452,6 +12451,7 @@ beggarlike
 baldric
 bawdier
 bless
+biophor
 bechained
 bullsnake
 braids
