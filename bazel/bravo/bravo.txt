@@ -9058,6 +9058,7 @@ battiest
 bields
 bleary
 betony
+biaxial
 bromopikrin
 bookmobile
 backhauling
@@ -12624,7 +12625,6 @@ bedye
 baronetage
 backwinded
 bleeding
-biaxial
 bonnet
 brimmers
 bonnethead
