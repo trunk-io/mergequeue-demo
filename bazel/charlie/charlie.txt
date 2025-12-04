@@ -2280,7 +2280,6 @@ cribellum
 cochlospermum
 charshaf
 coiffured
-coenenchymata
 canalled
 coroneted
 cankerbird
@@ -3685,6 +3684,7 @@ catchy
 cineole
 carapacho
 cenacle
+coenenchymata
 coassistance
 counterforce
 carbines
