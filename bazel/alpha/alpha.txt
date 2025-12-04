@@ -6547,7 +6547,6 @@ assonanced
 aerials
 anthdia
 accredits
-acropolis
 antidecalogue
 antiegotist
 alluvials
@@ -16407,6 +16406,7 @@ appender
 aerugos
 agogics
 alkalosis
+acropolis
 aegicrania
 ack
 arguments
