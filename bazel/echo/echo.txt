@@ -1307,6 +1307,7 @@ empathic
 exist
 etherification
 exhaustivity
+engraff
 exploiting
 expirations
 epaxially
@@ -7648,7 +7649,6 @@ engulfment
 elegise
 educability
 euciliate
-engraff
 etherealized
 egad
 excitosecretory
