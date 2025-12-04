@@ -8391,7 +8391,6 @@ babbit
 boshvarks
 beback
 bavaroise
-bathylimnetic
 bannerfish
 bardier
 burgus
@@ -17895,6 +17894,7 @@ blotchier
 bersim
 bearbush
 bacilluria
+bathylimnetic
 boats
 battarism
 benighted
