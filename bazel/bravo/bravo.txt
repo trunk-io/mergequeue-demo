@@ -6456,6 +6456,7 @@ bidiagonal
 blastophaga
 balete
 beveler
+baphometic
 bohorok
 blastostyle
 bluegill
@@ -12849,7 +12850,6 @@ brauneberger
 beseemed
 beclamor
 birl
-baphometic
 bobadil
 bebeeru
 bemuddy
