@@ -11818,7 +11818,6 @@ clairsentient
 crossable
 cryogen
 chollas
-claries
 cholo
 classifier
 chaver
@@ -22769,6 +22768,7 @@ choleinic
 conjured
 conspicuousness
 compromised
+claries
 clansfolk
 clawed
 conjuring
