@@ -3647,7 +3647,6 @@ behowls
 byroad
 beheads
 broadcast
-baysmelt
 beetlestock
 basquine
 blinked
@@ -3702,6 +3701,7 @@ beaverkin
 bulgur
 bucklandite
 bebay
+baysmelt
 brogue
 bepepper
 bicker
