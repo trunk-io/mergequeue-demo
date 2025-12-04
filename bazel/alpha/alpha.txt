@@ -5995,7 +5995,6 @@ analphabet
 alcoholdom
 ancoly
 ampoules
-amirship
 agnel
 araracanga
 aphelia
@@ -10778,6 +10777,7 @@ alongside
 antilytic
 aboard
 anomalism
+amirship
 anticatalase
 adoptee
 antically
