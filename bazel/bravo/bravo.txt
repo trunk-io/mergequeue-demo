@@ -2694,7 +2694,6 @@ barcarole
 besmudged
 bestials
 bromohydrate
-beverage
 bromvoel
 brightly
 brachyuran
@@ -8425,6 +8424,7 @@ biophore
 boogeyman
 barging
 burberry
+beverage
 bathetic
 beseeching
 betrail
