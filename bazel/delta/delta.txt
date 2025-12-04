@@ -749,6 +749,7 @@ demagnetisable
 diadumenus
 dopehead
 destructors
+disherited
 dialysable
 dangs
 deadflat
@@ -8209,7 +8210,6 @@ disembowelled
 detorsion
 deltohedron
 daphnoid
-disherited
 dwarfling
 diose
 deject
