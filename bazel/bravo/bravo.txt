@@ -2883,7 +2883,6 @@ bleater
 buckishness
 brassavola
 benzoxate
-barren
 byproduct
 baru
 barrators
@@ -11160,6 +11159,7 @@ brassia
 bisection
 bilander
 birthed
+barren
 battakhin
 bindery
 biosome
