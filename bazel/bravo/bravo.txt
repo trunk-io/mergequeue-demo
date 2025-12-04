@@ -6562,6 +6562,7 @@ buttals
 bedstand
 baddies
 beefers
+blacktail
 barabbas
 bassetta
 bed
@@ -12254,7 +12255,6 @@ blizzardly
 bepimples
 bolo
 bodword
-blacktail
 bicycling
 butterman
 beltman
