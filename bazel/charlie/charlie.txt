@@ -9511,6 +9511,7 @@ cyptozoic
 chabasie
 clinia
 circumpentagon
+crossopt
 chanche
 cajeput
 canberra
@@ -25850,7 +25851,6 @@ cyathophylloid
 contratabular
 cicorees
 coffined
-crossopt
 corroborations
 coinmaking
 creedalism
