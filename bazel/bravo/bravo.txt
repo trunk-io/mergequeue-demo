@@ -2437,7 +2437,6 @@ barenesses
 brachygnathism
 bluesman
 bombarded
-barbels
 blooper
 baresark
 blunt
@@ -5969,6 +5968,7 @@ bskt
 bora
 bilewhit
 bastardizing
+barbels
 bourr
 bacterioblast
 bacteriologic
