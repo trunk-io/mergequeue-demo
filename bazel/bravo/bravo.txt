@@ -6002,7 +6002,6 @@ biomasses
 bub
 benzole
 bandurrias
-ballottable
 boccies
 bombinating
 bejuco
@@ -12929,6 +12928,7 @@ boomslang
 bigas
 beechen
 brachiated
+ballottable
 beekeeping
 brewer
 bloodsucking
