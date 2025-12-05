@@ -8010,6 +8010,7 @@ bicyclist
 brewage
 boilermaker
 bowmen
+barrows
 birdcall
 becuna
 buttstrapping
@@ -14036,7 +14037,6 @@ bankroll
 bardolph
 bacchanals
 baccalaurean
-barrows
 bushiness
 benzoates
 boronatrocalcite
