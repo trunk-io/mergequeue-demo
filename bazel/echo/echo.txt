@@ -1963,7 +1963,6 @@ echinozoa
 epiphragm
 emeriti
 enterocyst
-exanthem
 echinid
 ectosarcous
 ebbman
@@ -12742,6 +12741,7 @@ endorse
 effude
 emphyteutic
 expiscator
+exanthem
 elaphomyces
 enhearten
 emblematising
