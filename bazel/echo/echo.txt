@@ -6247,7 +6247,6 @@ expertize
 eternalist
 exfiltrate
 equivalent
-experience
 essential
 epigeal
 eidology
@@ -13710,6 +13709,7 @@ evinces
 endothermic
 ethylenation
 endowments
+experience
 elator
 enfamish
 explore
