@@ -1324,7 +1324,6 @@ dividuous
 dogies
 diencephalon
 doubles
-diploid
 devanagari
 dimity
 debitrix
@@ -17005,6 +17004,7 @@ dullard
 dyads
 drearness
 dystocias
+diploid
 disbury
 diadokokinesis
 decadation
