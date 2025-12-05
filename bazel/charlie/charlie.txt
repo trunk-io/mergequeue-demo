@@ -13295,7 +13295,6 @@ constableship
 croziers
 coefficient
 crucifixes
-cepheid
 chatelaines
 clapnest
 corbeille
@@ -25369,6 +25368,7 @@ caricaceae
 catlings
 chapt
 choller
+cepheid
 choledochectomy
 crenelates
 counterorator
