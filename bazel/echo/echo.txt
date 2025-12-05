@@ -7175,7 +7175,6 @@ escapers
 entrant
 elephantous
 evenwise
-encipherer
 epidemicalness
 eskimoid
 enterograph
@@ -9142,6 +9141,7 @@ executrix
 exon
 execrators
 endamoebic
+encipherer
 ephebes
 exopt
 earthwork
