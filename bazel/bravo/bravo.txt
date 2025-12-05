@@ -31,7 +31,6 @@ berline
 bulbul
 bringsel
 babbly
-brere
 boardable
 broomwort
 beseech
@@ -9639,6 +9638,7 @@ bromated
 bicircular
 bisectors
 boudoir
+brere
 bouts
 brethel
 bobwood
