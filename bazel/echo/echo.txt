@@ -7173,7 +7173,6 @@ esc
 ethnoses
 encephalophyma
 ebcasc
-enterovirus
 embarrel
 estops
 equinia
@@ -7285,6 +7284,7 @@ electrodiagnoses
 electromotiv
 equipollency
 estivated
+enterovirus
 enchased
 exile
 epitrochoidal
