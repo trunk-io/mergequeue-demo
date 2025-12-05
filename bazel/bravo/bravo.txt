@@ -4630,7 +4630,6 @@ battled
 besew
 beerbachite
 benzalphenylhydrazone
-blawort
 barnburner
 beefwoods
 bombast
@@ -9748,6 +9747,7 @@ beneficed
 backhandedness
 bedplates
 bowser
+blawort
 bankrupts
 blepharospath
 barnful
