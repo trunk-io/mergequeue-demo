@@ -3739,7 +3739,6 @@ aerostats
 autophthalmoscope
 anorexic
 afterthinker
-adjectival
 aumildar
 appulsive
 adjument
@@ -6135,6 +6134,7 @@ alimentariness
 activations
 americaward
 aylet
+adjectival
 architectonica
 airmobile
 azomethine
