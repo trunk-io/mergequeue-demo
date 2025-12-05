@@ -3109,7 +3109,6 @@ emusive
 excipule
 elasmosaurus
 entopterygoid
-enantioblastous
 echea
 ensuable
 earns
@@ -11462,6 +11461,7 @@ erythrocytoschisis
 emmy
 electrotelegraphic
 embryonary
+enantioblastous
 encephalomata
 enamelers
 endothrix
