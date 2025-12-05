@@ -11576,6 +11576,7 @@ agminated
 andreaeaceae
 acroterion
 arctia
+applicabilities
 amictus
 ambidexter
 amblyocarpous
@@ -24853,7 +24854,6 @@ antilift
 aba
 apelles
 antisi
-applicabilities
 anacharis
 antituberculous
 antiritualism
