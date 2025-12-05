@@ -2761,7 +2761,6 @@ bitten
 book
 brownouts
 bianca
-bugloss
 bicompact
 backfill
 bojo
@@ -5368,6 +5367,7 @@ bodacious
 bilder
 balaenoidean
 barrel
+bugloss
 blind
 bemurmured
 bethylid
