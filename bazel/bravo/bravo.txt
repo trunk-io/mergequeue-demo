@@ -1433,7 +1433,6 @@ byspell
 blighter
 biolite
 bookie
-banefulness
 breastbeam
 beastlings
 bottlefuls
@@ -6621,6 +6620,7 @@ bunsen
 barba
 broached
 bitterender
+banefulness
 bilocular
 bismuthine
 brairo
