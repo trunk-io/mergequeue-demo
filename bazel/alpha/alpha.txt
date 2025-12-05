@@ -2237,6 +2237,7 @@ anda
 axhead
 anomalocephalus
 asmile
+accentuator
 afaint
 apantesis
 antismut
@@ -17892,7 +17893,6 @@ archaeocyte
 awaste
 anaxial
 alkanol
-accentuator
 abductors
 ailments
 adviso
