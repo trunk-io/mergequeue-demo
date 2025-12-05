@@ -1854,7 +1854,6 @@ docmac
 doucely
 dispeller
 diplonema
-diagredium
 disfeature
 dipleiodoscope
 deblock
@@ -15065,6 +15064,7 @@ defibrinate
 dibbukim
 dithionous
 diaphtherin
+diagredium
 desubstantialize
 demulsify
 decanically
