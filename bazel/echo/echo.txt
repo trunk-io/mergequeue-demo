@@ -1676,7 +1676,6 @@ epaenetic
 emergers
 electroreduction
 enterpriseless
-endodontia
 emit
 emeses
 entomology
@@ -5333,6 +5332,7 @@ enamelwork
 eiders
 extraforaneous
 escudero
+endodontia
 evidentness
 encharm
 ester
