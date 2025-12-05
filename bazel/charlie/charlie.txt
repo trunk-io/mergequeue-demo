@@ -18675,7 +18675,6 @@ cryohydrate
 chasselas
 coining
 contains
-cella
 counterpole
 crowder
 chesil
@@ -25255,6 +25254,7 @@ cantaloupe
 corge
 coria
 coriamyrtin
+cella
 cavey
 capitularly
 chronomantic
