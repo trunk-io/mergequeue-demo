@@ -13656,6 +13656,7 @@ apotheces
 abandonable
 abys
 alcoholometric
+asthenope
 anodos
 aposporogony
 aphelion
@@ -13946,7 +13947,6 @@ affranchised
 adsorptive
 administer
 auditorial
-asthenope
 actressy
 absconder
 assistantship
