@@ -5437,7 +5437,6 @@ bignoniad
 burbs
 bribed
 ballistite
-buffer
 beccaccia
 basophile
 buboes
@@ -7050,6 +7049,7 @@ brachyglossal
 brulzies
 briza
 beforetimes
+buffer
 bullnecks
 birling
 bespeckle
