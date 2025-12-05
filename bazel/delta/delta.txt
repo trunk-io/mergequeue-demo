@@ -6082,7 +6082,6 @@ defecates
 dockside
 dismountable
 dereligionize
-disorderedness
 degrader
 deceiver
 dilapidated
@@ -8648,6 +8647,7 @@ drabbing
 duc
 disintegrator
 doorcheek
+disorderedness
 dezinc
 delilah
 downset
