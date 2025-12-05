@@ -3734,7 +3734,6 @@ bitangential
 baroni
 bardish
 bolter
-beatnik
 baryecoia
 biferous
 boyang
@@ -15524,6 +15523,7 @@ boundary
 baboot
 billback
 behove
+beatnik
 bandannaed
 balls
 busybodies
