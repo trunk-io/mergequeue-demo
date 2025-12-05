@@ -4871,7 +4871,6 @@ extrait
 exemplification
 episcleral
 extraposition
-extraclassroom
 eavesdropping
 ethicoaesthetic
 evenhandedly
@@ -7942,6 +7941,7 @@ epigastric
 electrogalvanize
 ell
 epitaxy
+extraclassroom
 extoled
 explorement
 encephalocele
