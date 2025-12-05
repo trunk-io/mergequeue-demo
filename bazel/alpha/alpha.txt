@@ -6592,7 +6592,6 @@ armangite
 aeromaechanic
 acidurias
 agglutination
-aptitudes
 acropore
 apsis
 aglucon
@@ -8212,6 +8211,7 @@ angelological
 aporia
 anonymuncule
 apasote
+aptitudes
 ammonal
 ahum
 antrin
