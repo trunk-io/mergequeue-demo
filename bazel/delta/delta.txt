@@ -4884,7 +4884,6 @@ dropax
 duplicity
 devoutlessness
 dewberries
-deallocation
 datch
 dyadics
 dimit
@@ -10492,6 +10491,7 @@ dukeship
 desmids
 discoglossoid
 dighting
+deallocation
 diabasic
 dysmerogenetic
 daintith
