@@ -1618,7 +1618,6 @@ epitaxis
 embankments
 elains
 epitrochoid
-estuary
 endosporous
 erythremia
 enchasten
@@ -12305,6 +12304,7 @@ embosture
 extratellurian
 extrasterile
 exciding
+estuary
 evilhearted
 escheve
 engrailment
