@@ -1673,7 +1673,6 @@ billeter
 beautyship
 bogie
 barble
-blanc
 butting
 branchiostege
 bryan
@@ -3714,6 +3713,7 @@ baghouse
 bishoplike
 bulldoze
 botryoid
+blanc
 browny
 bromocyanidation
 bennel
