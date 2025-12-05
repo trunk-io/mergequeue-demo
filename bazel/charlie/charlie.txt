@@ -2935,7 +2935,6 @@ carillonneur
 centauri
 cantraip
 cantraps
-chaine
 crakes
 capitonidae
 centrales
@@ -19291,6 +19290,7 @@ crabbier
 chenilles
 cryptarchy
 captains
+chaine
 choanoflagellate
 cobego
 circumventions
