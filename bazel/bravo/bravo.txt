@@ -31,7 +31,6 @@ blueheads
 berline
 bulbul
 bringsel
-babbly
 brere
 boardable
 broomwort
@@ -824,6 +823,7 @@ bewrayers
 blotchiness
 banago
 bkg
+babbly
 brined
 benzalcohol
 boon
