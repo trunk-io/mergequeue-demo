@@ -5260,7 +5260,6 @@ barnacled
 blurs
 begrudgingly
 bequote
-bb
 balsamina
 baviere
 backlash
@@ -7160,6 +7159,7 @@ butyl
 bluepoints
 bucrania
 birlie
+bb
 bombable
 baconize
 botanomancy
