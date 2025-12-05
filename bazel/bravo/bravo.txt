@@ -6485,7 +6485,6 @@ byronish
 birminghamize
 baaskaaps
 bumbarge
-bedside
 blastoff
 berakot
 berated
@@ -15594,6 +15593,7 @@ bughouse
 beseemliness
 bereaved
 bepuff
+bedside
 botrylle
 baboosh
 biochemical
