@@ -7254,7 +7254,6 @@ birdbaths
 besiegement
 boundable
 berkeley
-better
 bytownite
 bowsprit
 betag
@@ -16323,6 +16322,7 @@ boggles
 bestridden
 bepraise
 blueline
+better
 brats
 benjy
 burundi
