@@ -5748,7 +5748,6 @@ bellwort
 bowgrace
 ballpoint
 bevesseled
-biplane
 bismethyl
 brougham
 buffier
@@ -17771,6 +17770,7 @@ becowarded
 biologese
 behint
 bisetose
+biplane
 boccis
 bepaid
 bibliophagist
