@@ -449,7 +449,6 @@ deckle
 dispread
 daunder
 dayrooms
-defogs
 diversiform
 disincrust
 dessert
@@ -1432,6 +1431,7 @@ diplocoria
 desists
 delocalized
 deveining
+defogs
 desocialize
 disputants
 dawnlike
