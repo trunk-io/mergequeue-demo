@@ -5633,7 +5633,6 @@ enterogastrone
 election
 endoneurium
 excoct
-equatorial
 ensafe
 equilater
 exhumate
@@ -10155,6 +10154,7 @@ exilable
 erysibe
 eagle
 evovae
+equatorial
 ergosterin
 eurypharynx
 eared
