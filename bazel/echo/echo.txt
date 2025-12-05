@@ -2533,7 +2533,6 @@ entreatable
 erron
 enclosure
 epigraphically
-etherion
 effervesce
 electrometallurgist
 esophagism
@@ -6634,6 +6633,7 @@ enjoy
 epanorthidae
 esthesiology
 echoing
+etherion
 ecstasize
 expectorations
 endaortic
