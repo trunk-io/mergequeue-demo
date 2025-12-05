@@ -6354,7 +6354,6 @@ epacris
 embars
 enstatitic
 elmwood
-enisle
 emptor
 evacuant
 epistasis
@@ -13329,6 +13328,7 @@ efforce
 extremer
 ethanedial
 eponymic
+enisle
 enrough
 elliptic
 endocytotic
