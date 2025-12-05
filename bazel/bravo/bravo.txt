@@ -8387,7 +8387,6 @@ beback
 bones
 bavaroise
 bannerfish
-bardier
 burgus
 berlina
 bemask
@@ -17758,6 +17757,7 @@ boilerplate
 bounding
 batidaceae
 benzilic
+bardier
 bobbin
 burner
 bough
