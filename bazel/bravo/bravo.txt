@@ -2369,7 +2369,6 @@ blackcoat
 bringer
 bemoisten
 besplash
-bunnies
 blahlaut
 bardcraft
 brusquerie
@@ -13871,6 +13870,7 @@ bathyplankton
 beneficing
 bannermen
 burhinus
+bunnies
 bananalander
 bismark
 bedevilling
