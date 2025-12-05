@@ -814,7 +814,6 @@ engarrison
 ejector
 editorships
 epencephal
-emborder
 excommenge
 endenization
 excussion
@@ -6671,6 +6670,7 @@ euphone
 emergency
 enlacement
 enterate
+emborder
 embouchures
 equalize
 erythrocytes
