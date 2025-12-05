@@ -2588,6 +2588,7 @@ etoiles
 epigaea
 execution
 earwigged
+emparl
 electrometallurgy
 estimative
 expedients
@@ -11218,7 +11219,6 @@ ensaffron
 empurple
 emblic
 elissa
-emparl
 emblemize
 excuse
 elanus
