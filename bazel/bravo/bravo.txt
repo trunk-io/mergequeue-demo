@@ -6013,7 +6013,6 @@ biolith
 bloomsburian
 bisdimethylamino
 baldricked
-bedframes
 boars
 barkhan
 biotoxins
@@ -13491,6 +13490,7 @@ befringe
 brut
 bulrushlike
 boule
+bedframes
 beefin
 bubals
 brew
