@@ -5945,7 +5945,6 @@ alepole
 antiinstitutionalist
 asteriae
 ambit
-auramine
 allay
 aasvogels
 angioplasty
@@ -11502,6 +11501,7 @@ antiphrases
 amphigastrula
 arundinaria
 albication
+auramine
 anabathrum
 azygos
 allothigenetically
