@@ -2698,7 +2698,6 @@ encores
 echeneididae
 eight
 ecthyma
-evangelicism
 enjambed
 eon
 ebcdic
@@ -10449,6 +10448,7 @@ enumerates
 epithetically
 einsteinian
 englute
+evangelicism
 execrator
 ensilist
 equatable
