@@ -2988,7 +2988,6 @@ bsf
 bundt
 balsamodendron
 bloodlike
-bartree
 befoul
 buckleya
 banish
@@ -11078,6 +11077,7 @@ blanking
 bestowing
 babushka
 blizzards
+bartree
 bronchorrhea
 brassey
 bostonian
