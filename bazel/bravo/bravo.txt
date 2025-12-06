@@ -10836,7 +10836,6 @@ beleaf
 bavin
 becompliment
 birthrate
-ballaton
 braunite
 bordured
 bombardon
@@ -15615,6 +15614,7 @@ besnuff
 bathmotropic
 bodega
 bewormed
+ballaton
 biologics
 brakie
 beknights
