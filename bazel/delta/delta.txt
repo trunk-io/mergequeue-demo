@@ -3123,7 +3123,6 @@ dekko
 diatribe
 dochmiacal
 desoxyribose
-dotty
 decate
 disgraced
 drake
@@ -13003,6 +13002,7 @@ disconsider
 denticle
 dysphotic
 disorganised
+dotty
 decrypt
 downcurved
 desilicify
