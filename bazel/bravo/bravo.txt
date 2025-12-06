@@ -677,7 +677,6 @@ badarian
 badass
 bathyscaphes
 britches
-batholithic
 berossos
 betons
 breakaxe
@@ -16541,6 +16540,7 @@ bogard
 backcast
 barrelhouse
 bromcresol
+batholithic
 betweentimes
 bority
 butomus
