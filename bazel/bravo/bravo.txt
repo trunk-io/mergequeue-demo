@@ -6562,7 +6562,6 @@ buttals
 bedstand
 baddies
 beefers
-blacktail
 barabbas
 bassetta
 bed
@@ -14272,6 +14271,7 @@ bimillenial
 bucketfull
 bursicle
 bandogs
+blacktail
 bezant
 bactericholia
 basilidianism
