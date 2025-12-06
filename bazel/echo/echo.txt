@@ -2327,6 +2327,7 @@ enchantments
 euryalean
 ecanda
 eucrasia
+elute
 eosines
 ensouls
 exch
@@ -7351,7 +7352,6 @@ elaborately
 eternalizing
 esperantido
 elevato
-elute
 extracivic
 epigraph
 ecphorize
