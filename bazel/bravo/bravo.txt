@@ -9745,7 +9745,6 @@ boskiness
 bedaggle
 buildup
 barbell
-bassos
 burlaps
 brussels
 blellum
@@ -15462,6 +15461,7 @@ builtin
 bombonne
 breastmark
 baccate
+bassos
 brucella
 beglad
 blindstitch
