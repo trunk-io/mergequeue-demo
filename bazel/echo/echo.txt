@@ -12353,7 +12353,6 @@ endotrophi
 extraversion
 entete
 extract
-earthshaker
 espave
 enfoil
 ecalcarate
@@ -13009,6 +13008,7 @@ expellees
 eckehart
 elementarist
 enterritoriality
+earthshaker
 elaidic
 equipoise
 emitter
