@@ -781,7 +781,6 @@ exaggerated
 epopoeia
 esophagospasm
 explicative
-excursus
 emmetropia
 expulsed
 enantiotropy
@@ -12458,6 +12457,7 @@ electrophore
 echinite
 ecardine
 eumorphous
+excursus
 endpaper
 eranthemum
 esplees
