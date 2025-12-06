@@ -686,6 +686,7 @@ bopyrid
 brief
 bartending
 buprestid
+broeboe
 bolshie
 brogger
 bielding
@@ -13498,7 +13499,6 @@ brew
 burlers
 booty
 botryllus
-broeboe
 biogenetically
 bargehouse
 bebannered
