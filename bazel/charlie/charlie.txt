@@ -5812,7 +5812,6 @@ caedmonic
 caterbrawl
 catercorner
 catercornerways
-condemnations
 currie
 conveyors
 coholder
@@ -6182,6 +6181,7 @@ cicely
 cattleman
 cayuse
 clamshells
+condemnations
 concerts
 curvometer
 compsognathus
