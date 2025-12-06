@@ -836,7 +836,6 @@ boon
 brinny
 boxful
 beckets
-benevolences
 beshouts
 borage
 bangling
@@ -7863,6 +7862,7 @@ backing
 bekerchief
 backpackers
 biblicality
+benevolences
 bill
 beneficialness
 blastulation
