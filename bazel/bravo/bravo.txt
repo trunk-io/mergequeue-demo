@@ -9310,7 +9310,6 @@ bipyridyl
 blanketflower
 bushwack
 begoniaceae
-balewort
 benzamide
 blinder
 bestuck
@@ -13969,6 +13968,7 @@ bibliotaph
 biduous
 bellypiece
 bang
+balewort
 bandos
 bethwack
 breakwind
