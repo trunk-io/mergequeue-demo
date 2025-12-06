@@ -4415,7 +4415,6 @@ anthinae
 azans
 azocyclic
 aedeagi
-aediculae
 antimethod
 anaesthesiologist
 augurer
@@ -5431,6 +5430,7 @@ argilliferous
 amenorrheal
 ateuchi
 adiactinic
+aediculae
 acciaccaturas
 aristogenics
 aeolid
