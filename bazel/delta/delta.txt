@@ -10163,7 +10163,6 @@ deepnesses
 detoxication
 diggers
 dermises
-delver
 departed
 darkmans
 decamped
@@ -11865,6 +11864,7 @@ discruciate
 deiformity
 derivedly
 detruncation
+delver
 deceptiveness
 definitor
 doubtsome
