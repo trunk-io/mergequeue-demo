@@ -7315,6 +7315,7 @@ asthenology
 affiliating
 antalgesic
 aquaplaned
+averager
 agitprops
 archegonia
 appraisers
@@ -11894,7 +11895,6 @@ adnate
 acroesthesia
 abbasid
 ambilevous
-averager
 anaerobiosis
 abrasiometer
 aseptically
