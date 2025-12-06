@@ -2240,7 +2240,6 @@ antismut
 amishgo
 atrypoid
 annuloida
-arisaid
 allantoinase
 alloplasty
 aphacia
@@ -22148,6 +22147,7 @@ abjuring
 absconders
 astrophysics
 alphabetic
+arisaid
 applier
 akolouthia
 apotheosise
