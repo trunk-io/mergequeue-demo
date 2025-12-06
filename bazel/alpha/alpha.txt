@@ -4425,6 +4425,7 @@ accompanier
 autosuggestive
 anomalous
 anconas
+allophone
 abiliment
 ammonias
 atomerg
@@ -4881,7 +4882,6 @@ ashy
 arachnidial
 abrazos
 adenitises
-allophone
 assyntite
 azide
 anend
