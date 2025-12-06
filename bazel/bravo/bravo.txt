@@ -13669,7 +13669,6 @@ beatermen
 birt
 bels
 blindworm
-barwal
 broodless
 birdeye
 batz
@@ -17035,6 +17034,7 @@ berwick
 behears
 bushhammer
 berimes
+barwal
 belch
 berith
 berberia
