@@ -3614,6 +3614,7 @@ asiaticize
 asperate
 aspirata
 alamo
+augmenting
 astringing
 anisopterous
 ataxiameter
@@ -4718,7 +4719,6 @@ alexine
 ailanthus
 aquage
 archpresbytery
-augmenting
 aeronaut
 atriplex
 antanacathartic
