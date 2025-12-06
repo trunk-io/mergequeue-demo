@@ -10655,6 +10655,7 @@ bonace
 bonism
 ballfield
 birettas
+baldricks
 battleground
 babingtonite
 buccinatory
@@ -12593,7 +12594,6 @@ bodykins
 bragite
 bobsledder
 buccaneer
-baldricks
 boni
 bucephalus
 biplosive
