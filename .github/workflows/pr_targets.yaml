@@ -53,6 +53,8 @@ jobs:
         env:
           API_URL: https://api.trunk-staging.io:443/v1/setImpactedTargets
 
+      - name: Make sure mq is executable
+        run: chmod +x mq
       - name: named pr targets
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&

@@ -31,6 +31,8 @@ jobs:
           echo "on_merge=false" >> $GITHUB_OUTPUT
           fi
 
+      - name: Make sure mq is executable
+        run: chmod +x mq
       - name: run tests
         id: test
         # only actually run the test if we're on the merge branch

@@ -32,6 +32,9 @@ jobs:
           preRelease: false
           extract: true
 
+      - name: Make sure mq is executable
+        run: chmod +x mq
+
       - name: run mq
         id: edits
         run: ./mq generate --gh-token=${{ secrets.ELI_MQ_PAT }} --trunk-token=${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
