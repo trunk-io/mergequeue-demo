@@ -2651,7 +2651,7 @@ aretinian
 airfoils
 anguishously
 azoxy
-adiathermal
+adiathermal 1
 actinium
 atropous
 antialcoholist
