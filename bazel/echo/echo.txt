@@ -2877,7 +2877,7 @@ extend
 enseated
 epidermoid
 eukairite
-evagation
+evagation 1
 endoconidia
 epiphora
 enshelter
