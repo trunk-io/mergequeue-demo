@@ -4735,7 +4735,7 @@ exhilaratory
 electrolyzability
 ectosomal
 eucosmid
-extradictable
+extradictable 1
 ellipsone
 exceptionability
 expurgatory
