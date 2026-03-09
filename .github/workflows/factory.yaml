@@ -32,15 +32,22 @@ jobs:
           preRelease: false
           extract: true
 
+      - name: chmod mq
+        run: chmod +x ./mq
+
       - name: run mq
         id: edits
-        run: ./mq generate --gh-token=${{ secrets.ELI_MQ_PAT }} --trunk-token=${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
+        run:
+          ./mq generate --gh-token=${{ secrets.ELI_MQ_PAT }} --trunk-token=${{
+          secrets.TRUNK_STAGING_ORG_API_TOKEN }}
         env:
           TRUNK_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
 
       - name: run mq
         if: always()
         id: clean
-        run: ./mq housekeeping --gh-token=${{ secrets.ELI_MQ_PAT }} --trunk-token=${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
+        run:
+          ./mq housekeeping --gh-token=${{ secrets.ELI_MQ_PAT }} --trunk-token=${{
+          secrets.TRUNK_STAGING_ORG_API_TOKEN }}
         env:
           TRUNK_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
