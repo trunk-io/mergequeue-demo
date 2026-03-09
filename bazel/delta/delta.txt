@@ -3799,7 +3799,7 @@ dropforged
 dragonroot
 diomedea
 dipsos
-disquisit
+disquisit 1
 dermoreaction
 displat
 dicoumarol
