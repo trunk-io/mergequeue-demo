@@ -14469,7 +14469,7 @@ defines
 demobilized
 depainting
 dismissable
-divesture
+divesture 1
 dawdler
 deliverer
 doped
