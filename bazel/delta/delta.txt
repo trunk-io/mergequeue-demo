@@ -11616,7 +11616,7 @@ disconsolately
 deadbeat
 decimal
 dimness
-detailer
+detailer 1
 delayable
 dextrogyre
 decursive
