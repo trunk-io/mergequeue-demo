@@ -17378,7 +17378,7 @@ constrains
 cryptal
 chokey
 cropping
-clog
+clog 1
 coarsening
 coarsens
 chirping
