@@ -10987,7 +10987,7 @@ deindustrialize
 deduit
 drupetum
 dropsical
-dollops
+dollops 1
 dedifferentiate
 delusions
 disscepter
