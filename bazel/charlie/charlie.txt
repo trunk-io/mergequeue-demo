@@ -17400,7 +17400,7 @@ coassume
 crystallic
 caracore
 codol
-capsumin
+capsumin 1
 calced
 corp
 conjoint
