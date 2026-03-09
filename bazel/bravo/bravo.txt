@@ -18352,7 +18352,7 @@ bedunch
 brigous
 balsas
 bridgewall
-bedel
+bedel 1
 bashes
 bathala
 barky
