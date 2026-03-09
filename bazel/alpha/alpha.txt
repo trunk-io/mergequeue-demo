@@ -6581,7 +6581,7 @@ aeromaechanic
 acidurias
 agglutination
 acropore
-apsis
+apsis 1
 aglucon
 alembic
 ainus
