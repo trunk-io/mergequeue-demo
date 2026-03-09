@@ -17607,7 +17607,7 @@ dimiss
 diplomates
 disapprovingly
 delphinine
-doarium
+doarium 1
 dimerisms
 disacquaintance
 dexes
