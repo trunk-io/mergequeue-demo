@@ -15254,7 +15254,7 @@ accessory
 antepagment
 astrometrical
 arteries
-aceratosis
+aceratosis 1
 attitudinal
 airline
 administratively
