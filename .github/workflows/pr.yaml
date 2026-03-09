@@ -22,6 +22,9 @@ jobs:
           preRelease: false
           extract: true
 
+      - name: chmod mq
+        run: chmod +x ./mq
+
       - name: Determine is_merge
         id: check_is_merge
         run: |

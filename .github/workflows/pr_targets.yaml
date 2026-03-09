@@ -25,6 +25,9 @@ jobs:
           preRelease: false
           extract: true
 
+      - name: chmod mq
+        run: chmod +x ./mq
+
       - name: get demo config
         id: get-demo-config
         run: |
