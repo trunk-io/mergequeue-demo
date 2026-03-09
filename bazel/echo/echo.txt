@@ -2918,7 +2918,7 @@ emergently
 episiorrhaphy
 epicolic
 elvanitic
-extensional
+extensional 1
 enrages
 east
 emotionalization
