@@ -12743,7 +12743,7 @@ cannular
 chuckie
 chickweed
 caldron
-clockers
+clockers 1
 compressor
 calzone
 civilisational
