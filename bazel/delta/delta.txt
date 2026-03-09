@@ -2543,7 +2543,7 @@ drainboard
 deanship
 diverb
 dextrosazone
-decanted
+decanted 1
 disedify
 denitrated
 dephysicalize
