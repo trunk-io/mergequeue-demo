@@ -1645,7 +1645,7 @@ discontinuances
 deairing
 daks
 demits
-dactyls
+dactyls 1
 discredits
 diskery
 dallies
