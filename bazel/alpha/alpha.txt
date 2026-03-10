@@ -2978,7 +2978,7 @@ apocryphalist
 anterolateral
 anthropurgic
 armour
-aerifies
+aerifies 1
 athar
 abdominous
 acrimoniousness
