@@ -3179,7 +3179,7 @@ conspecific
 counterrestoration
 caprin
 cardoon
-cariosity
+cariosity 1
 cecidiology
 coalesced
 clockwatcher
