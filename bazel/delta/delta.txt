@@ -5451,7 +5451,7 @@ dojos
 defailance
 depth
 despicableness
-defat
+defat 1
 diatomaceoid
 delectate
 detinue
