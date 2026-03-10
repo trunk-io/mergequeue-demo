@@ -5935,7 +5935,7 @@ etchers
 eternizes
 expender
 electrometry
-encastage
+encastage 1
 elinguated
 electrosteel
 extensively
