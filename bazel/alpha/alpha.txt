@@ -16669,7 +16669,7 @@ avie
 antibrachial
 angle
 autoasphyxiation
-ambiguities
+ambiguities 1
 antiparticle
 anneloid
 angelin
