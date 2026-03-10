@@ -10521,7 +10521,7 @@ elenge
 excluders
 ethchlorvynol
 exendospermous
-elasticity
+elasticity 1
 endexines
 establismentarian
 entablatured
