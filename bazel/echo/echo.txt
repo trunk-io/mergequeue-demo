@@ -12625,7 +12625,7 @@ ehlite
 exceeds
 equivoque
 exdelicto
-epirot
+epirot 1
 epidermis
 enharmonic
 equinoctial
