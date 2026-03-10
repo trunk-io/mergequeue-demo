@@ -10486,7 +10486,7 @@ bicorporal
 barotaxy
 bairn
 blastodisc
-bubingas
+bubingas 1
 browbound
 backwash
 bakestone
