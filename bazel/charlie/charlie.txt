@@ -5509,7 +5509,7 @@ class
 cassinoid
 cholinesterase
 celtologue
-contortively
+contortively 1
 carcasing
 collarband
 catalyzer
