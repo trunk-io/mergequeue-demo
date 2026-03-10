@@ -10256,7 +10256,7 @@ chesstree
 calciminer
 cornett
 coudee
-cavillatory
+cavillatory 1
 cidaris
 curing
 cobaltamine
