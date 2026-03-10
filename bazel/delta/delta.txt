@@ -12816,7 +12816,7 @@ deft
 drainageway
 diversifies
 dentagra
-dories
+dories 1
 decumana
 dowry
 disobligingly
