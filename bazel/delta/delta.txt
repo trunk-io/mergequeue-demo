@@ -4687,7 +4687,7 @@ demifigure
 diolefin
 docimasy
 diathermic
-disinflated
+disinflated 1
 defenestrated
 dufrenoysite
 deoxidizers
