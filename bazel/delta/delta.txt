@@ -18382,7 +18382,7 @@ daggle
 departmentalizes
 declarers
 dishpan
-diehard
+diehard 1
 defiantly
 defunctive
 douc
