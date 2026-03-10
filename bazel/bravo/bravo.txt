@@ -12525,7 +12525,7 @@ bagpiped
 bone
 bryozoans
 bejaundice
-birdlore
+birdlore 1
 buddah
 buckoes
 blindstories
