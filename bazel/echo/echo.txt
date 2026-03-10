@@ -353,7 +353,7 @@ extance
 expertly
 empowered
 extravagate
-encolor
+encolor 1
 ecchondroma
 emits
 erythematous
