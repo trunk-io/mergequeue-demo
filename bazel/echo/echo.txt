@@ -1021,7 +1021,7 @@ exopathic
 esd
 endoerythrocytic
 epanaphoral
-effervesces
+effervesces 1
 esprove
 epimorphosis
 elicitation
