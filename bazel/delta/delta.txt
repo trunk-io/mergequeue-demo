@@ -9653,7 +9653,7 @@ droyl
 delayingly
 deuce
 dolomitization
-digenetica
+digenetica 1
 dialog
 daydreamers
 desilicate
