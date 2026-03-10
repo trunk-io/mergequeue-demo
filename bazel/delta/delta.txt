@@ -7267,7 +7267,7 @@ dreint
 diathesis
 depictor
 dissidence
-desulphur
+desulphur 1
 desulphurised
 droll
 dynel
