@@ -11024,7 +11024,7 @@ connascent
 calorigenic
 chloralose
 casehardening
-cordeliere
+cordeliere 1
 cowslip
 chippier
 cheng
