@@ -694,7 +694,7 @@ calcitrate
 corkwing
 choice
 cyanocitta
-congenialness
+congenialness 1
 compotor
 copesmate
 chain
