@@ -24606,7 +24606,7 @@ catercousin 1
 codebtor
 compendiums
 catechetic
-companyless
+companyless 1
 conspiratory
 clubbing
 corticin
