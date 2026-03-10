@@ -7685,7 +7685,7 @@ ethnicize
 epigonium
 empestic
 epitympa
-excuss
+excuss 1
 erma
 explicitly
 endopsychic
