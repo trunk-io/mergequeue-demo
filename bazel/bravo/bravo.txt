@@ -612,7 +612,7 @@ bedrugging 1
 bloomage
 baconweed
 bahadur
-browner
+browner 1
 bacteremic
 brooched
 breathableness
