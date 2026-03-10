@@ -1439,7 +1439,7 @@ barnard
 byspell
 blighter
 biolite
-bookie
+bookie 1
 breastbeam
 beastlings
 bottlefuls
