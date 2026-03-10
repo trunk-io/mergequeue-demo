@@ -7108,7 +7108,7 @@ electrophoric
 embue
 epimerite
 extramural
-enthymematic
+enthymematic 1
 empaper
 effund
 entepicondylar
