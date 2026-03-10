@@ -8241,7 +8241,7 @@ daybreaks
 damboard
 disgavelled
 dmarche
-delirious
+delirious 1
 decapodiform
 disembowelled
 detorsion
