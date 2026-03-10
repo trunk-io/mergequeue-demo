@@ -15760,7 +15760,7 @@ diazohydroxide
 depotentiate
 discompt
 defatted
-dumber
+dumber 1
 deil
 denouements
 dismortgage
