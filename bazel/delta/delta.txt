@@ -3581,7 +3581,7 @@ diem
 dogwood
 dihydroxysuccinic
 dogeys
-distempering
+distempering 1
 duvetyne
 discantus
 direfulness
