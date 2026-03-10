@@ -462,7 +462,7 @@ abortifacient
 aspect
 antimodernly
 avaricious
-antisplenetic
+antisplenetic 1
 alsikes
 amenty
 airworthiest
