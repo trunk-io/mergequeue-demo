@@ -261,7 +261,7 @@ appunctuation
 argenol
 anopheline
 aphydrotropism
-aphanite
+aphanite 1
 abris 1
 amateurishness
 atloid
