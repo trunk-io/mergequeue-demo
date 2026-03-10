@@ -2730,7 +2730,7 @@ comfreys
 countertack
 caltrap
 cladrastis
-costful
+costful 1
 cannonier
 cannonries
 carefuller
