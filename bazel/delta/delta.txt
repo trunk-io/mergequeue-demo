@@ -5497,7 +5497,7 @@ dialysepalous
 denizenize
 droukit
 droller
-deaconesses
+deaconesses 1
 damans
 disinsection
 deprecation
