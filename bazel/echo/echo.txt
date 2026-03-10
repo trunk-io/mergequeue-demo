@@ -2894,7 +2894,7 @@ empresa
 eomecon
 extraversively
 exceeded
-equisufficiency
+equisufficiency 1
 emeril
 essencing
 embind
