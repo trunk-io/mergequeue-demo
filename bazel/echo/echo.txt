@@ -3746,7 +3746,7 @@ ethene
 encover
 eucaine
 enweave
-eminently
+eminently 1
 encompasser
 exercisable
 electrized
