@@ -15660,7 +15660,7 @@ airman
 ascyrum
 arthromeric
 autecious
-anaglyptic
+anaglyptic 1
 afb
 auklet
 albahaca
