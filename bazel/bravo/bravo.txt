@@ -273,7 +273,7 @@ bandores
 borities
 bumblebomb
 bombardiers
-burdens
+burdens 1
 bacilary
 bookrest
 bacile
