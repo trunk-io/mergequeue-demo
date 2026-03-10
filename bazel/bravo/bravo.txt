@@ -4040,7 +4040,7 @@ boliviano
 blockiness
 bolograph
 bastiment
-bluestockingism
+bluestockingism 1
 betafite
 benedictively
 bundy
