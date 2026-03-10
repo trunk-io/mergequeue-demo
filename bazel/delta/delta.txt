@@ -3366,7 +3366,7 @@ digrediency
 draining
 dyscrasite
 dehumanizes
-donate
+donate 1
 discerpibility
 devils
 derringer
