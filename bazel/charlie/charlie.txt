@@ -16282,7 +16282,7 @@ coliform
 clinocephaly
 coassist
 cunctative
-canonicalness
+canonicalness 1
 cobrother
 cacoplastic
 cofunction
