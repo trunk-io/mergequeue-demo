@@ -9604,7 +9604,7 @@ endoute
 explicable
 electrogenesis
 epitaphic
-equivoke
+equivoke 1
 extemporaneousness
 envenoms
 estaminet
