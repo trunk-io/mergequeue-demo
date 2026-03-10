@@ -15512,7 +15512,7 @@ blackfish
 baronetcy
 baboos
 barocco
-bioacoustics
+bioacoustics 1
 brightsmith
 boatload 1
 ballistocardiographic
