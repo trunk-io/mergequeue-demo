@@ -1477,7 +1477,7 @@ enshielding
 ethology
 epanthous
 enfuddle
-excusive
+excusive 1
 epiplexis
 elboic
 edgebone
