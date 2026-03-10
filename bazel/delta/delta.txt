@@ -2983,7 +2983,7 @@ daredevilism
 dimerization
 dacitic
 diabolos
-discourageable
+discourageable 1
 demitasse
 disgracing
 discants
