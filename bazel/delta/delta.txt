@@ -2509,7 +2509,7 @@ decision
 divineness
 decisions
 diluting
-dotless
+dotless 1
 darkened
 deporte
 disendow
