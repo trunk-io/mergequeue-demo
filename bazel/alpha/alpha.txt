@@ -23773,7 +23773,7 @@ authorisable
 alivincular
 atrepsy
 aurums
-aknow
+aknow 1
 acreage
 adzes
 auscultation
