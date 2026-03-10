@@ -6820,7 +6820,7 @@ doigt
 disjointing
 desertification
 deserting
-defeminize
+defeminize 1
 deserve
 diophysite
 diethylstilbestrol
