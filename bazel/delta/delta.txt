@@ -10653,7 +10653,7 @@ dollishness
 duree
 defacements
 depectible
-descent
+descent 1
 decumbence
 desertful
 democrats
