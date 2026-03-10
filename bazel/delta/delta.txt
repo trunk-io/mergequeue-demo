@@ -4971,7 +4971,7 @@ demodulating
 datasetname
 debrominate
 draughted
-dextrotropic
+dextrotropic 1
 debenture
 disacidify
 dialyzes
