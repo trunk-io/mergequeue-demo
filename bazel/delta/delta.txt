@@ -5701,7 +5701,7 @@ demeanored
 distemperment
 despoil
 diel
-depeopled
+depeopled 1
 downbeats
 drawcut 1
 diatomales
