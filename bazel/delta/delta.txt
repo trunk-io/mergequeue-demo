@@ -5677,7 +5677,7 @@ dottled
 demitrain
 department
 demineralize
-dinge
+dinge 1
 downturned
 desiccate
 dualize
