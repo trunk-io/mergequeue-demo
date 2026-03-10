@@ -10501,7 +10501,7 @@ chantries
 coryneum
 crypticness
 crax
-currencies
+currencies 1
 closings
 comake
 carnivorous
