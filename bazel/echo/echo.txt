@@ -10099,7 +10099,7 @@ exerted
 erasability
 enoch
 electronegativity
-enough
+enough 1
 ecossaise
 extraparenchymal
 elephantiases
