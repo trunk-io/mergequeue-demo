@@ -13755,7 +13755,7 @@ aphelenchus
 aortography
 antisoporific
 anoplotherioid
-anoplotherium
+anoplotherium 1
 alabastrian
 awoken
 acetose
