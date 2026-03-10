@@ -9630,7 +9630,7 @@ dottels
 dredge
 delit
 disuniter
-deb
+deb 1
 delusional
 defaulters
 dn
