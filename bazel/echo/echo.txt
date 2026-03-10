@@ -6791,7 +6791,7 @@ ergophobic
 eatings
 electrified
 emporetic
-entophyte
+entophyte 1
 ectothermic
 estuaries
 escuages
