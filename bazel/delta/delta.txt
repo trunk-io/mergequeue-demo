@@ -897,7 +897,7 @@ danio
 domination
 deconcentrated
 dumble
-defectors
+defectors 1
 debitable
 distillmint
 danaine
