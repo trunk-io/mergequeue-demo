@@ -10565,7 +10565,7 @@ beambird
 bejape
 bedstaff
 bunkerage
-bespangle
+bespangle 1
 basking
 bluffs
 browbeats
