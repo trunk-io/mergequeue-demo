@@ -3309,7 +3309,7 @@ emove
 euhemerise
 electrophori
 emanativ
-endhand
+endhand 1
 elaeagnaceous
 expy
 ethel
