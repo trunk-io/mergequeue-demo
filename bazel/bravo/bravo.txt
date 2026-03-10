@@ -11889,7 +11889,7 @@ bostryx 1
 bedfellows
 bayed
 bonspiel
-bidget
+bidget 1
 brassart
 bignesses
 bodied
