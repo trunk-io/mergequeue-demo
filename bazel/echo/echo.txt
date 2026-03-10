@@ -13953,7 +13953,7 @@ euphonic
 espanoles
 expiration
 entera
-ephemeromorph
+ephemeromorph 1
 extratubal
 enomania
 extinguishable
