@@ -8520,7 +8520,7 @@ diagonality
 dovetailed
 despair
 dichotomization
-daunts
+daunts 1
 deviate
 dubiety
 diastolic
