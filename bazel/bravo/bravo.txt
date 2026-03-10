@@ -17174,7 +17174,7 @@ breakbones
 breadths
 bater
 briefcases
-bungo
+bungo 1
 baffeta
 bodeword
 buckwheater
