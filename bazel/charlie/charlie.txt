@@ -17093,7 +17093,7 @@ countersecurity
 casemaking
 coexplosion
 compulsion
-copastorate
+copastorate 1
 caponiser
 cupmate
 conoids
