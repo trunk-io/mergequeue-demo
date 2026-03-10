@@ -7379,7 +7379,7 @@ drosera
 destruct
 disillusionizing
 despatches
-diamagnetize
+diamagnetize 1
 dhobies
 deflective
 dimmy
