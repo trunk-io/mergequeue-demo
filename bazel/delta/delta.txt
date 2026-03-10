@@ -10712,7 +10712,7 @@ dogfaces
 ditchdigging
 dreadlocks 1
 dominated
-desktop
+desktop 1
 dissettle
 demeritoriously
 delineament
