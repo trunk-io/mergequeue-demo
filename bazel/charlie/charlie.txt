@@ -11942,7 +11942,7 @@ choppier
 choppiness
 caricous
 corralling
-clawers
+clawers 1
 claylike
 curvicostate
 cappadocian
