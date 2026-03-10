@@ -11367,7 +11367,7 @@ constuprate
 codomain
 chlordans
 clepsydra
-cardsharp
+cardsharp 1
 capelan
 cubiculo
 canoodle
