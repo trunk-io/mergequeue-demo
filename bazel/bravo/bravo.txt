@@ -1347,7 +1347,7 @@ bopped
 bhunder
 bellicose
 benefaction
-bristler
+bristler 1
 bowllike
 bombes
 bloodthirsty
