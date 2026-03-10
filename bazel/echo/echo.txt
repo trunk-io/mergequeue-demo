@@ -1716,7 +1716,7 @@ eavesdropped
 earworm
 euclidean
 evg
-equitemporal
+equitemporal 1
 evensong
 enumerators
 enacting
