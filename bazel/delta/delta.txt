@@ -14322,7 +14322,7 @@ declarable
 dint
 disconnect
 decimalizes
-disputacity
+disputacity 1
 dicastery
 debrided
 desolation
