@@ -8212,7 +8212,7 @@ depiedmontize
 dietetist
 dipterocecidium
 doggeries
-delve
+delve 1
 domett
 demological
 diecious
