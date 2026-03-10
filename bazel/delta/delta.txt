@@ -14959,7 +14959,7 @@ depredicate
 dhikr
 drearisomely
 doorcase
-decommissioned
+decommissioned 1
 definiteness
 determinateness
 daun
