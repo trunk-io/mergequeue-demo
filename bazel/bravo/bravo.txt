@@ -11885,7 +11885,7 @@ balai
 bergeret
 bionomy
 borsht
-bostryx
+bostryx 1
 bedfellows
 bayed
 bonspiel
