@@ -24407,7 +24407,7 @@ acupressure
 antidromous
 albocracy
 affrayer
-autoptically
+autoptically 1
 acneform
 anteposition
 asbestoid
