@@ -11182,7 +11182,7 @@ allthing
 artworks
 ambage
 atchison
-austromancy
+austromancy 1
 allophonic
 allomorphic
 adscripts
