@@ -9779,7 +9779,7 @@ armorer
 antepagmenta
 atticism
 aortopathy
-anaglyptics
+anaglyptics 1
 albany
 apexes
 airiferous
