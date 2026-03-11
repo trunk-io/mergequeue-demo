@@ -6807,7 +6807,7 @@ carcinoid
 cavaliership
 celibatic
 certificates
-conscionable
+conscionable 1
 copyfitter
 confinity
 cudbear
