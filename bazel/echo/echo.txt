@@ -3062,7 +3062,7 @@ enrollees
 equipostile
 elaborated
 evoke
-evaporated
+evaporated 1
 efecks
 elodes
 ecclesiasticalness
