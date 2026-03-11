@@ -17466,7 +17466,7 @@ architecture
 antinaturalist
 articular
 angetenar
-apostrophising
+apostrophising 1
 apostrophizing
 adducent
 araucarian
