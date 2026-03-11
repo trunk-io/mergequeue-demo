@@ -10900,7 +10900,7 @@ diobol
 delectus
 despatchers
 demirelief
-directdiscourse
+directdiscourse 1
 deripia
 desegregation
 dynodes 1
