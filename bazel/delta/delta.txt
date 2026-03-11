@@ -14084,7 +14084,7 @@ decolorizer
 diastasimetry
 dyspareunia
 domini
-dispensable
+dispensable 1
 dependancy
 developments
 dicoccous
