@@ -2528,7 +2528,7 @@ balkily 1
 bewake
 biuniqueness
 birdhood
-barcolongo
+barcolongo 1
 brogh
 biremes
 brickle
