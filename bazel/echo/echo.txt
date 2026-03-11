@@ -9665,7 +9665,7 @@ exoticism
 extrapolated
 enchest
 enwallow
-elaeopten
+elaeopten 1
 explicably
 endothermous
 evangelistaries 1
