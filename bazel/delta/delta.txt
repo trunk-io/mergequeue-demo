@@ -13154,7 +13154,7 @@ dinette
 divisorial
 decatholicize
 draughtier
-deferrable
+deferrable 1
 despiritualize
 dabbed
 dilation
