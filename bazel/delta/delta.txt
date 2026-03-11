@@ -1857,7 +1857,7 @@ doucely
 dispeller
 diplonema
 disfeature
-dipleiodoscope
+dipleiodoscope 1
 deblock
 dijudicate
 daringness
