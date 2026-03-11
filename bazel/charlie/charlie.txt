@@ -7960,7 +7960,7 @@ cessor
 cordiality
 casabas
 cesspipe
-cesspools
+cesspools 1
 conflagrations
 cineraceous
 culiciform
