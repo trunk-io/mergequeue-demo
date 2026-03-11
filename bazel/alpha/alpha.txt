@@ -9519,7 +9519,7 @@ antiferromagnet
 acutiator
 anaerobe
 antherozoid
-antinaturalistic
+antinaturalistic 1
 alkitran
 athetosis
 administrator
