@@ -2754,7 +2754,7 @@ dermoid
 dippiest
 dwell
 diffide
-diskindness
+diskindness 1
 dactylopatagium
 dominica
 dissipativity
