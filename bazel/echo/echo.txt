@@ -157,7 +157,7 @@ earthman
 ectoderm
 erythritic
 electroencephalographic
-ergodicity
+ergodicity 1
 exclaustration
 endocrinism
 encrustation
