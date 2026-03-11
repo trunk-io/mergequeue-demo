@@ -18192,7 +18192,7 @@ cretinous
 clarifications
 calendry
 coercers
-coercible
+coercible 1
 coercionary
 centurion
 coercitive
