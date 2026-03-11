@@ -13099,7 +13099,7 @@ eyestring
 expels
 enid
 eversion
-enhorror
+enhorror 1
 erecters
 evacue
 evaluated
