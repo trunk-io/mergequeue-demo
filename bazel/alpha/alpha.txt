@@ -2244,7 +2244,7 @@ annuloida
 allantoinase
 alloplasty
 aphacia
-anomurous
+anomurous 1
 acanthocephali
 actiniochrome
 antrums
