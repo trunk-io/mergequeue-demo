@@ -22175,7 +22175,7 @@ colicin
 confirmedness
 cestuses
 corticostriate
-cervoid
+cervoid 1
 cymagraph
 carbonari
 conines

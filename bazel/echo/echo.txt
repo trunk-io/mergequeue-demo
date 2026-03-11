@@ -10008,7 +10008,7 @@ envolupen
 equatorward
 engrosser
 epanodos
-exceptionably
+exceptionably 1
 expedientially 1
 eulachon
 externalisation
