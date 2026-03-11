@@ -11843,7 +11843,7 @@ delayers
 despoiler
 deferrals
 determiner
-divest
+divest 1
 darnedest
 dipterygian
 demarcation
