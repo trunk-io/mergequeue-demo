@@ -2792,7 +2792,7 @@ blowers
 buffaloback
 batster
 bonebinder
-bimetallic
+bimetallic 1
 braincap
 bionomical
 blowpoint
