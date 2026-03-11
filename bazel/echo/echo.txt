@@ -4055,7 +4055,7 @@ endosteomas
 earsore
 epiphysitis
 echoless
-excitor
+excitor 1
 easeled
 extendedness
 ethnodicy
