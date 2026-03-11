@@ -7442,7 +7442,7 @@ diddler
 decametric
 decorating
 decreet
-droopy
+droopy 1
 detestation
 deterrable
 dicyemata
