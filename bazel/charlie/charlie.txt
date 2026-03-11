@@ -3939,7 +3939,7 @@ calibrate
 candolleaceous
 carnauba
 calid
-chigger
+chigger 1
 corroborees
 cutcheries
 cableless
