@@ -27417,7 +27417,7 @@ cercocebus
 coupe
 curtailing
 chequers
-counterweight
+counterweight 1
 currentwise
 cicada
 chinchy
