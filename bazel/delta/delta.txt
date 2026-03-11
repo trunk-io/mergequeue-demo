@@ -1843,7 +1843,7 @@ debeak
 demonist
 doraskean
 dormy
-deployments
+deployments 1
 detachs
 defenders
 demesnial
