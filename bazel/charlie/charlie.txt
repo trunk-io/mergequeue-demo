@@ -4647,7 +4647,7 @@ carpetweb
 clothespin
 crissal
 change
-comeliest
+comeliest 1
 comediant
 ceiler
 cogredient
