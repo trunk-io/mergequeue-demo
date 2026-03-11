@@ -6654,7 +6654,7 @@ euphone
 emergency
 enlacement
 enterate
-emborder
+emborder 1
 embouchures
 equalize
 erythrocytes
