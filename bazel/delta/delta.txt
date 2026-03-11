@@ -1942,7 +1942,7 @@ debusing
 desulfurs
 detecter
 duggler
-downligging
+downligging 1
 depetticoat
 dybbukim
 dendrocolaptidae
