@@ -16815,7 +16815,7 @@ bellhop
 balita
 bromellite
 botrychium
-baryonic
+baryonic 1
 bawdstrot
 biscayan
 bagpipe
