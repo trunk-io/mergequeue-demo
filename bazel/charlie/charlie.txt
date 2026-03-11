@@ -9196,7 +9196,7 @@ cardplayer
 crowstep
 coleophora
 crystalline
-comptometer
+comptometer 1
 cystous
 colorbearer
 chemoreceptor
