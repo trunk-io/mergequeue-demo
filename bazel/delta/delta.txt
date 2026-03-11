@@ -3675,7 +3675,7 @@ degerming
 dolichocephal
 distancing
 dorsales 1
-discerptive
+discerptive 1
 deadly
 duckling
 demisuit
