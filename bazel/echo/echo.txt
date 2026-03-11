@@ -5409,7 +5409,7 @@ exospores
 emotional
 eccentrometer
 entomophobia
-estensible
+estensible 1
 ethnographical 1
 endothermy
 entophytous
