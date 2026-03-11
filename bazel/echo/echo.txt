@@ -6467,7 +6467,7 @@ extratorrid
 equators
 egrimony
 exotropia
-esculetin
+esculetin 1
 entocuneiform
 eunicidae
 exemplar
