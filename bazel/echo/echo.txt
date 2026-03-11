@@ -2438,7 +2438,7 @@ egomania
 expeditiously
 euhedral 1
 eupotamic
-enscroll
+enscroll 1
 extended
 economism
 etruria
