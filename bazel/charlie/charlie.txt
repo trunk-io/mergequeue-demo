@@ -3786,7 +3786,7 @@ clarets
 cyclammonium
 canister
 crescively
-chemosensitive
+chemosensitive 1
 cobishop
 countertranslation
 cluck
