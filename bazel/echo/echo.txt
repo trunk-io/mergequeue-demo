@@ -10493,7 +10493,7 @@ eclat
 epitrophic
 espousage
 electroamalgamation
-enswathe
+enswathe 1
 electroed
 emperess
 extrapolatory
