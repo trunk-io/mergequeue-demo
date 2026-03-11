@@ -3426,7 +3426,7 @@ elaphurus
 embers
 eyepoint
 expiating
-emerse
+emerse 1
 elicitory
 enscene
 endoplastule
