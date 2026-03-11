@@ -3929,7 +3929,7 @@ eudromias
 equaeval
 electrochronometer
 erinaceus
-echowise
+echowise 1
 edgar
 eventuate
 elaborateness
