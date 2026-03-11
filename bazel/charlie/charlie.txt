@@ -23190,7 +23190,7 @@ celsian
 craglike
 crookbill
 codman
-channelize
+channelize 1
 cognati
 celebrated
 consortial
