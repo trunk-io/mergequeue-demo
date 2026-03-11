@@ -17523,7 +17523,7 @@ dozent
 drooliest
 descriptors
 dipneustal
-detrude
+detrude 1
 dirtiest
 drossel
 detains
