@@ -9512,7 +9512,7 @@ epinikion
 emmensite
 equimolar
 epigrammatizer
-enlength
+enlength 1
 elbowpiece
 elater
 embrowned
