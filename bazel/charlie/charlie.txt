@@ -4497,7 +4497,7 @@ carnivore
 cyanea
 conchylium
 colorationally
-cotter
+cotter 1
 carnous
 chamaecistus
 concommitant
