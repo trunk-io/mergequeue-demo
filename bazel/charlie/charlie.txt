@@ -5616,7 +5616,7 @@ ceraunomancy
 catoptromancy
 capillus
 cronyism
-caprelline
+caprelline 1
 catastate
 catasterism
 catastrophal
