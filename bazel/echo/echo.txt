@@ -5686,7 +5686,7 @@ engelmannia
 edriophthalma 1
 emolument
 elutions
-enrolls
+enrolls 1
 elasticities
 eccl
 eccyesis
