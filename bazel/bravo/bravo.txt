@@ -5310,7 +5310,7 @@ blinkered
 bonnibel
 befrumple
 baized
-burglarproof
+burglarproof 1
 bars
 brutification
 bushiest
