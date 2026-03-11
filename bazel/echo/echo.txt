@@ -11880,7 +11880,7 @@ essancia
 enrobing
 encina
 enological
-exothermous
+exothermous 1
 educationalist
 excudate
 erosionist
