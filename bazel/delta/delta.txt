@@ -11540,7 +11540,7 @@ disconnectiveness
 disuniform
 dogly
 deducibleness
-descendance
+descendance 1
 demidoctor
 doth
 diplasion
