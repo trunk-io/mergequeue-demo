@@ -24322,7 +24322,7 @@ aurichalcite
 andaste
 archipelagic
 autometric
-associativity
+associativity 1
 amphigonous
 adoptive
 ahet
