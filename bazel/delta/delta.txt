@@ -15871,7 +15871,7 @@ deviled
 dutiable
 dialytic
 diphthongalize
-deepmouthed
+deepmouthed 1
 diascopy
 dopy
 domitable
