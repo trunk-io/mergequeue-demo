@@ -31656,7 +31656,7 @@ coth
 cushiness
 civitan
 cushing
-cardsharping
+cardsharping 1
 cushion
 cooncans
 captainship
