@@ -23899,7 +23899,7 @@ catface
 cantdogs
 crepehanger
 colognes
-cruelties
+cruelties 1
 contravalence
 crystograph
 cliffiest
