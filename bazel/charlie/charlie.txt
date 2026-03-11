@@ -5416,7 +5416,7 @@ commorancy
 catabolin
 catabolite
 checkbits
-catabolized
+catabolized 1
 camphols
 cheniller
 commandoman
