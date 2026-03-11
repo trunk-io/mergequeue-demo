@@ -8629,7 +8629,7 @@ brimstony
 bannerer
 bidiurnal
 brinkless
-bombic
+bombic 1
 bunce
 bedaubs
 bonedog
