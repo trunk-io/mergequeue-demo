@@ -2639,7 +2639,7 @@ decreers
 decommission
 decurvature
 dimeride
-dispersibility
+dispersibility 1
 diver
 disciflorous
 dimplement
