@@ -5996,7 +5996,7 @@ deflore
 debitor
 deviscerate
 despoilment
-decachord
+decachord 1
 disanagrammatize
 decently
 discasing
