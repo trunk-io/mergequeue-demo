@@ -8004,7 +8004,7 @@ disorders
 discourt
 dihydrogen
 dieri
-decreeable
+decreeable 1
 drawler
 doughier
 devoice
