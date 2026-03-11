@@ -9932,7 +9932,7 @@ exportability
 expilator
 emotiveness
 epulotic
-extranean
+extranean 1
 espalier
 erical
 enostosis
