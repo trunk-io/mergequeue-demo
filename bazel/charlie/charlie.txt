@@ -10000,7 +10000,7 @@ cruiser
 cobaltiferous
 coaxer
 cembali
-chemoreception
+chemoreception 1
 croutons
 chemoreceptivity
 cryptographers
