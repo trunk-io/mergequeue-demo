@@ -7566,7 +7566,7 @@ dobson
 dementie
 disembargoing
 devoto
-deturpate
+deturpate 1
 defect
 danziger
 dalar
