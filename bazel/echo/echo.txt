@@ -3268,7 +3268,7 @@ encrotchet
 earmarkings
 echeneidid
 exquisitive
-equilateral
+equilateral 1
 epigynies
 explait
 estrada
