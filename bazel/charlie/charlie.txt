@@ -9156,7 +9156,7 @@ cgs
 campanulate
 cyananthrol
 capitative
-ctrl
+ctrl 1
 charlene
 cadavers
 coveralls
