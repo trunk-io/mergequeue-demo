@@ -12668,7 +12668,7 @@ baffles
 bonteboks
 brewhouse
 bethylidae
-beryx
+beryx 1
 breton
 bespread
 billiardist
