@@ -6334,7 +6334,7 @@ diptote
 diachylum
 defigure
 dispensating
-disacquaint
+disacquaint 1
 dumdum
 decemvir
 draffier
