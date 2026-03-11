@@ -17684,7 +17684,7 @@ comptrollers
 collide
 cocculiferous
 cacesthesis
-cost
+cost 1
 coccus
 chalazogamy
 cottered
