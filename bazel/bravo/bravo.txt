@@ -530,7 +530,7 @@ bacillemia
 blockhead
 blushwort
 benefactor
-backspaces
+backspaces 1
 butlerlike
 brotan
 besquirt
