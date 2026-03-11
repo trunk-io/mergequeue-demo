@@ -5103,7 +5103,7 @@ asklent
 autogiro
 agons
 adopted
-apothegmatist
+apothegmatist 1
 admiring
 apocrenic
 abstractable
