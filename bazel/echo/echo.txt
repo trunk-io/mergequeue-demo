@@ -1384,7 +1384,7 @@ enclasp
 ellipticity
 elianic
 earplug
-excommunicatory
+excommunicatory 1
 eschew
 essoining
 enki
