@@ -5107,7 +5107,7 @@ eclairs
 eastlins
 extrahazardous 1
 endangerer
-expositoriness
+expositoriness 1
 expellers
 euchological
 entoolitic
