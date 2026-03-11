@@ -10757,7 +10757,7 @@ bureaucrats
 befreeze
 bachelry
 baret
-barrelet
+barrelet 1
 besaiel
 bobowler
 botchka
