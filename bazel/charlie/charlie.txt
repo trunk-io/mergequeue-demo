@@ -1857,7 +1857,7 @@ chromatologies
 clonked
 cropper
 cuvy
-collectorate
+collectorate 1
 coburghership
 craftmanship
 cartonnage
