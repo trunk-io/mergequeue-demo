@@ -7603,7 +7603,7 @@ canisiana
 cercomonadidae
 chronography
 chilly
-chint
+chint 1
 churchcraft
 colectomies
 condylos
