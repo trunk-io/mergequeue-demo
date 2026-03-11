@@ -5459,7 +5459,7 @@ emptiers
 ecology
 equalitarian
 eperlan
-extravagantness
+extravagantness 1
 exhibiting
 executable
 encouragements
