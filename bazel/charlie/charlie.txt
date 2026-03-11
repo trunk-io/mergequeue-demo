@@ -7095,7 +7095,7 @@ cantharidin
 cineast
 chlorotrifluoromethane
 checkline
-covings
+covings 1
 calcisponge
 corpuscularity
 constructure
