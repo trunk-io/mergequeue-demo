@@ -13346,7 +13346,7 @@ eighteenfold
 etrogim
 expectoration
 enfonce
-eclogic
+eclogic 1
 epicyclic
 emydosaurian
 empoisoner
