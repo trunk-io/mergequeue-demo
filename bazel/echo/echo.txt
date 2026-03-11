@@ -13939,7 +13939,7 @@ entrust
 enerve
 ermanaric
 educatable
-enantiomeric
+enantiomeric 1
 exarchate
 epopt
 enterozoic
