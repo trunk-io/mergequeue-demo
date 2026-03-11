@@ -17695,7 +17695,7 @@ drawgear
 dayanim
 dronishly
 duumvirs
-demurs
+demurs 1
 declutch
 drachmal
 dewatered
