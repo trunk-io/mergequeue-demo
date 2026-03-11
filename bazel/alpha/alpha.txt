@@ -17686,7 +17686,7 @@ anointer
 ampelographist
 appert
 antagonists
-addability
+addability 1
 arachnites
 arthropoda
 arriero
