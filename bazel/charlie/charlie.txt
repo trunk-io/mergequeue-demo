@@ -12709,7 +12709,7 @@ carapaces
 coexclusive
 crudities
 caging
-chronoscopically
+chronoscopically 1
 cystadenoma
 catechisation
 calculus
