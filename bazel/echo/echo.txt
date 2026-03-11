@@ -1385,7 +1385,7 @@ ellipticity
 elianic
 earplug
 excommunicatory 1
-eschew
+eschew 1
 essoining
 enki
 ephectic
