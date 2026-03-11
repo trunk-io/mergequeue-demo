@@ -29346,7 +29346,7 @@ corrugations
 compilatory
 centeses
 copyread
-contrapose
+contrapose 1
 calyciform
 cryptogram
 can
