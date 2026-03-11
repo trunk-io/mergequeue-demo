@@ -12540,7 +12540,7 @@ echo
 enregistry
 egoize
 elect
-entozoic
+entozoic 1
 ensporia
 epirhizous
 engilding
