@@ -4595,7 +4595,7 @@ duff
 dalibarda
 desmomyaria
 decreased
-dayless
+dayless 1
 differentiae
 demesgne
 diabetic
