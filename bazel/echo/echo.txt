@@ -5530,7 +5530,7 @@ earthquake
 enclosures
 euxenite
 ebbets
-eurasiatic
+eurasiatic 1
 escalier
 exfoliation
 electrophotographic
