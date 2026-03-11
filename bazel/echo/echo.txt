@@ -2687,7 +2687,7 @@ endosmosic
 engrapple
 exceptor
 enactor
-equicohesive
+equicohesive 1
 echinoderidae
 empalers
 erosible
