@@ -15965,7 +15965,7 @@ carpompi
 catamounts
 corncracker
 crimble
-clinal
+clinal 1
 comedown
 clematite
 centibar
