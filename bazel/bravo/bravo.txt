@@ -12536,7 +12536,7 @@ boned
 basifacial
 basinlike
 bousing
-befogging
+befogging 1
 bywalker
 bloodleaf
 blocklayer
