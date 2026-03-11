@@ -8351,7 +8351,7 @@ eelworm
 erythropoietin
 enorganic
 epimeres
-enhance
+enhance 1
 ectal
 enarched
 enduringly
