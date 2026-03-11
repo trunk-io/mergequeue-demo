@@ -3670,7 +3670,7 @@ epicenes
 enchantingly
 episcenium
 effusive
-ethologic
+ethologic 1
 extrafine
 elegy
 ephererist
