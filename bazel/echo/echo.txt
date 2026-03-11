@@ -11762,7 +11762,7 @@ eliminators
 empires
 enceintes
 earcap
-everduring
+everduring 1
 espace
 element
 exampling

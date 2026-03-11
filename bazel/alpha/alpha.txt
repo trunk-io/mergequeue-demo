@@ -3394,7 +3394,7 @@ abreaction
 amphitokal
 antimonite
 adipsous
-aural
+aural 1
 agrapha
 aleak
 ascendant
