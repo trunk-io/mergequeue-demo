@@ -15793,7 +15793,7 @@ chiseler
 clavicotomy
 carecloth
 covetously
-claviculate
+claviculate 1
 chambertin
 colloq
 chrysohermidin
