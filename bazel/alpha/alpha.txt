@@ -16242,7 +16242,7 @@ auth
 agrote
 anovulant
 aptitude
-autosomal
+autosomal 1
 ahaunch
 alidad
 aziola
