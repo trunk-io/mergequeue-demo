@@ -14351,7 +14351,7 @@ darwin
 denunciator
 deeds
 daggerlike
-diabolicalness
+diabolicalness 1
 demotists
 deadheaded
 devilkin
