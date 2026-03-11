@@ -5678,7 +5678,7 @@ cadences
 computerize
 cobblestone
 codfisheries
-cynoscion
+cynoscion 1
 consomme
 commation
 chronique
