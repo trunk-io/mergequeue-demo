@@ -10213,7 +10213,7 @@ disturbance
 dismission
 downwarp
 duchan
-diamondize
+diamondize 1
 discabinet
 deblai
 didelphoid
