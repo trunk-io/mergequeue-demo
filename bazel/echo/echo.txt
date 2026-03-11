@@ -9407,7 +9407,7 @@ equality
 ends
 elvet
 ensorceling
-entoil
+entoil 1
 eftsoon
 endlichite
 ellfish
