@@ -20778,7 +20778,7 @@ collut
 comm
 consistories
 cumulate
-clerkish
+clerkish 1
 cestode
 coalface
 commensurated
