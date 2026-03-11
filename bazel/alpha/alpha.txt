@@ -2512,7 +2512,7 @@ adipoid
 archelaus
 ammocoetid
 attapulgite
-accentors
+accentors 1
 acreman
 acclimatiser
 acanthurus
