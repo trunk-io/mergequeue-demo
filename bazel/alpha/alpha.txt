@@ -14619,7 +14619,7 @@ antiballooner
 antibalm
 arabesk
 aarrgh
-amphoras
+amphoras 1
 antismoking
 anaglyphic
 aurothiosulphate
