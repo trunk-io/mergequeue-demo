@@ -1618,7 +1618,7 @@ elains
 epitrochoid
 endosporous
 erythremia
-enchasten
+enchasten 1
 effectuating
 enculturate
 exchequers
