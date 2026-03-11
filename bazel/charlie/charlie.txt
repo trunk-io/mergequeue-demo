@@ -15368,7 +15368,7 @@ corgis
 comestible
 contrabass
 citizeness
-cordant
+cordant 1
 collembolan
 controversion
 coadmired
