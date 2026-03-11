@@ -5297,7 +5297,7 @@ dolldom
 diploptera
 disgruntlement
 discamp
-decastyle
+decastyle 1
 drawtubes
 defuzing
 diphtheroid
