@@ -11911,7 +11911,7 @@ begaud
 blandish
 bromonaphthalene
 brocatel
-ballant
+ballant 1
 babel
 benthopelagic
 biplicity
