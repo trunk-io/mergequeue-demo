@@ -14547,7 +14547,7 @@ coverable
 cappagh
 creach
 costalgia
-conscription
+conscription 1
 chilopod
 coralliferous
 commutuality
