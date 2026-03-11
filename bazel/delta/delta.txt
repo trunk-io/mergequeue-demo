@@ -4970,7 +4970,7 @@ dilated
 demodulating
 datasetname
 debrominate
-draughted
+draughted 1
 dextrotropic 1
 debenture
 disacidify
