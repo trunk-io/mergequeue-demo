@@ -5800,7 +5800,7 @@ edestan
 endamaged
 expone
 embezzler
-exothermicity
+exothermicity 1
 emetia
 elepaio
 eelery 1
