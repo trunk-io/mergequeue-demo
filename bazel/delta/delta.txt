@@ -3554,7 +3554,7 @@ dimetria
 duplicitous
 disregardance
 desaturate
-dentilation
+dentilation 1
 dilutee
 ditrigonal
 dumps
