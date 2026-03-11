@@ -14159,7 +14159,7 @@ depopulates
 dunair
 doftberry
 diencephalons
-domesticized
+domesticized 1
 delignate
 dolesman
 detents
