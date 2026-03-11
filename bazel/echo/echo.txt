@@ -12852,7 +12852,7 @@ exclamatory
 endurer
 exstemporaneous
 encaustically
-ericaceous
+ericaceous 1
 elisor
 embeddable
 emolumental
