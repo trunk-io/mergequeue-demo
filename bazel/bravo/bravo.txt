@@ -9636,7 +9636,7 @@ bicapsular
 bandlimits
 bromated
 bicircular
-bisectors
+bisectors 1
 boudoir
 bouts
 brethel
