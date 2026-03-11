@@ -2882,7 +2882,7 @@ broad
 brevit
 barrelmaker
 bleater
-buckishness
+buckishness 1
 brassavola
 benzoxate
 byproduct
