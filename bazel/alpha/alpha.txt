@@ -10373,7 +10373,7 @@ aromatically
 acusection
 adaptedness
 antechinomys
-autecisms
+autecisms 1
 anguille
 antineutral
 antihelminthic
