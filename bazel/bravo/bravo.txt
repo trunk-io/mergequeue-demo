@@ -11022,7 +11022,7 @@ burbot
 bufonite
 bookmark
 berhymed
-bioelectric
+bioelectric 1
 bipunctal
 brillolette
 bleeder
