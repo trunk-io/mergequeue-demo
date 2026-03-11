@@ -9383,7 +9383,7 @@ affliction
 aprosopous
 armadas
 antiparasitical
-afforcing
+afforcing 1
 antenna
 autothermy
 apicolysis
