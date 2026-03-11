@@ -20598,7 +20598,7 @@ arioso
 alchornea
 arterionecrosis
 aerical
-arteriostenosis
+arteriostenosis 1
 acrography
 anonaceous
 aglance
