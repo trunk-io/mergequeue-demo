@@ -6992,7 +6992,7 @@ dibhole
 deterrer
 dwarfism
 dislocation
-discoidal
+discoidal 1
 diabrotica
 defeat
 deinos
