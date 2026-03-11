@@ -16674,7 +16674,7 @@ derangements
 disaccomodate
 dolled
 digamists
-distorts
+distorts 1
 drained
 dwarfy
 digressionary
