@@ -5476,7 +5476,7 @@ civilisation
 chivalric
 cloyless
 chorditis
-channelling
+channelling 1
 clasped
 catakinetic
 choanocyte
