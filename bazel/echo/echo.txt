@@ -12216,7 +12216,7 @@ epiphegus
 exorcisement 1
 erasion
 epileptogenic
-extracanonical
+extracanonical 1
 exhibitions
 erythrocytometer
 euchroic
