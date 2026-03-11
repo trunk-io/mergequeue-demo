@@ -13735,7 +13735,7 @@ evocativeness
 extraorganismal
 experimentize
 egesta
-exotropism
+exotropism 1
 enamours
 essentially
 equiaxe
