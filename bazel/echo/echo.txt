@@ -977,7 +977,7 @@ engraftment
 eschewance
 ectype
 expunction
-entrapment
+entrapment 1
 enclosed
 extraorbitally
 elections
