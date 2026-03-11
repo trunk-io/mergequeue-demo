@@ -14161,7 +14161,7 @@ affections
 antepectus
 antirheumatic
 ackton
-amoebean
+amoebean 1
 angiodermatitis
 antiseptically
 animalish
