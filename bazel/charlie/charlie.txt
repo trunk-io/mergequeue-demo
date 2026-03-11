@@ -5901,7 +5901,7 @@ concordancy
 coronule
 chimla
 coelestial
-coolly
+coolly 1
 coopting
 cuteness
 circumflexes
