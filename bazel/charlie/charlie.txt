@@ -14781,7 +14781,7 @@ clothier
 citable
 countersynod
 chinchona
-calotypic
+calotypic 1
 cytase
 counterpropagandize
 chowchow
