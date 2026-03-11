@@ -11935,7 +11935,7 @@ doux
 delicatessens
 dipropellant
 deathblow
-disdein
+disdein 1
 deodoriser
 docket
 desorption
