@@ -5832,7 +5832,7 @@ enneahedral
 escalatory
 epilimnionia
 exanimate
-ekaha
+ekaha 1
 epiclinal
 exiledom
 exudate
