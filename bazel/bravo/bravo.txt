@@ -13056,7 +13056,7 @@ berliners
 bandage
 brewages
 breviloquence
-bans
+bans 1
 blundering
 bused
 becard
