@@ -6424,7 +6424,7 @@ defeminise
 dorsointestinal
 delphinid
 decoll
-degummed
+degummed 1
 distributedly
 disproportionate 1
 dispensed
