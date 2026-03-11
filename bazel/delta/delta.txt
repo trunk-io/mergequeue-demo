@@ -17708,7 +17708,7 @@ dovishness
 drunt
 dispossessed
 duchy
-dermestes
+dermestes 1
 demes
 dependency
 diolefine
