@@ -6570,7 +6570,7 @@ deferentially
 decenter
 dialing 1
 disencumbered
-dervishism
+dervishism 1
 des
 detinuit
 durante
