@@ -5703,7 +5703,7 @@ enuretic 1
 eau
 euplotid
 eugenically
-exhibit
+exhibit 1
 eugeosynclinal
 epimanikia
 ectental
