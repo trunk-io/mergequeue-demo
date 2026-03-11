@@ -7137,7 +7137,7 @@ depriver
 dogdoms
 deline
 dosimetric
-deiseal
+deiseal 1
 disciplinarians
 dyspneal
 dystrophies
