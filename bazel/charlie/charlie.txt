@@ -6619,7 +6619,7 @@ cognoscible
 curucui
 crackerberries
 carbonometer
-curtainless
+curtainless 1
 concordatum
 ceases
 ceasing
