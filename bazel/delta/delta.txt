@@ -7501,7 +7501,7 @@ directivity
 debark
 discommoded
 distressedness
-diapasonal
+diapasonal 1
 disks
 demobbed
 dedignation
