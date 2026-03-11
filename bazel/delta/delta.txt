@@ -5436,7 +5436,7 @@ dirigibility
 deoxygenating
 dimethylsulfoxide
 disannulling
-dispersonalize
+dispersonalize 1
 drupelets
 deaness
 deviascope
