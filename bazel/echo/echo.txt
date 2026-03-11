@@ -5628,7 +5628,7 @@ enterogastrone
 election
 endoneurium
 excoct
-ensafe
+ensafe 1
 equilater
 exhumate
 epitrchelia
