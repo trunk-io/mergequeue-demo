@@ -4560,7 +4560,7 @@ cercomonad
 carotenes
 compaction
 crpe
-comfort
+comfort 1
 chondromas
 clostridium
 carneol
