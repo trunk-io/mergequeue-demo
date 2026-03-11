@@ -2702,7 +2702,7 @@ eon
 ebcdic
 ensnarling
 etiam
-extravagation
+extravagation 1
 ersh
 etiquettical
 endosarc
