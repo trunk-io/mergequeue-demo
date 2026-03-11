@@ -10262,7 +10262,7 @@ agla
 agromyzid
 apiculus
 accelerometers
-ascertainableness
+ascertainableness 1
 arumlike
 amphicarpa
 acroaesthesia
