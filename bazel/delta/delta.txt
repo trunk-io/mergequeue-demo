@@ -350,7 +350,7 @@ disjune
 disenrol
 dorsimedian
 discepting
-dendrons
+dendrons 1
 destructivity
 distributaries
 diphthongising
