@@ -1055,7 +1055,7 @@ enhypostatize
 emma
 ecardinal
 enorm
-epizoic
+epizoic 1
 exsertion
 exteriorizing
 ethylidyne
