@@ -6013,7 +6013,7 @@ expedited
 enophthalmus
 ectodermoidal
 encamped
-endobiotic
+endobiotic 1
 escroll
 enlighteningly
 escopet
