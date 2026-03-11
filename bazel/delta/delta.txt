@@ -1951,7 +1951,7 @@ dragger
 durned
 disinfections
 dislodged
-denatures
+denatures 1
 delphacidae
 dimwitted
 detoured
