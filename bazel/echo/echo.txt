@@ -1395,7 +1395,7 @@ exoterically
 emotion
 enchoric
 emulators
-enclitic
+enclitic 1
 eprise
 electrochronometric
 eczematization
