@@ -5829,7 +5829,7 @@ dentiloquy
 distrainable
 darkle
 disallow
-directorates
+directorates 1
 dialyzed
 despotic
 drapeable
