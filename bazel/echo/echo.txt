@@ -13369,7 +13369,7 @@ endogen
 enzootically
 epiplasm
 elaeodendron
-electrocapillary
+electrocapillary 1
 extruded
 excommunicating
 electrodialyzer 1
