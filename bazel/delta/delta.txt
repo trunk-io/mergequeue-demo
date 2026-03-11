@@ -16459,7 +16459,7 @@ dislip
 dactylitic
 diaphorite
 dozzle
-degradedness
+degradedness 1
 decarboxylation
 decerning
 disharmonies
