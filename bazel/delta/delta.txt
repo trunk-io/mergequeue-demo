@@ -10817,7 +10817,7 @@ driftages
 delian
 departmentalization
 dragonlike
-dislocable
+dislocable 1
 defeminized
 delirifacient
 drusy 1
