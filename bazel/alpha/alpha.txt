@@ -627,7 +627,7 @@ amylometer
 aerophilous
 adiposes
 archfiends
-abort
+abort 1
 alderfly
 aworth
 archiblastic
