@@ -20586,7 +20586,7 @@ curtaxe
 commandeered
 chassepot
 counterreplied
-compass
+compass 1
 catalogues
 capibara
 concurrency
