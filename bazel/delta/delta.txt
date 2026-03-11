@@ -15132,7 +15132,7 @@ dasyurine
 desc
 deliverability
 danube
-dequeues
+dequeues 1
 dramatize
 disfrequent
 disseat
