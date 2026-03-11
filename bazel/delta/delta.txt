@@ -14282,7 +14282,7 @@ disinvolvement 1
 ditriglyphic
 dhamnoo
 decapitalize
-digraphic
+digraphic 1
 desireable
 destrudo
 deleted
