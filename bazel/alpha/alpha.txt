@@ -12642,7 +12642,7 @@ alcoholysis
 acetotoluidine
 allophonically
 astone
-absorptivity
+absorptivity 1
 antiquely
 autoepilation
 arced
