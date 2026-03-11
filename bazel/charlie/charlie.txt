@@ -14344,7 +14344,7 @@ capework
 craftworker
 circumjacency
 circumjovial
-confluxibleness
+confluxibleness 1
 confessionalism
 conundrumize
 circumlittoral
