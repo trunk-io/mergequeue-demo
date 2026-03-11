@@ -9956,7 +9956,7 @@ effluent
 emmove
 encloses
 enfeebling
-eosaurus
+eosaurus 1
 elenctical
 errantness
 ectocommensal
