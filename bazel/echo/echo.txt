@@ -9150,7 +9150,7 @@ expansions
 edgrew
 encatarrhaphy
 exponential
-encephalosclerosis
+encephalosclerosis 1
 extraplacental
 eroticization
 expulsory
