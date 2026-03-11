@@ -11785,7 +11785,7 @@ agapanthus
 aquatone
 antirust
 apotropaion
-affiancer
+affiancer 1
 androdioecious
 amentia
 adicity
