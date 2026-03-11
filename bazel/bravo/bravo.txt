@@ -13566,7 +13566,7 @@ bridestake
 blan
 beslimer
 batea
-boozes
+boozes 1
 bullhorn 1
 betterly
 bubas 1
