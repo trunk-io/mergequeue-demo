@@ -4513,7 +4513,7 @@ enable
 exhalants
 epipterygoid
 energies
-effortlessness
+effortlessness 1
 epithumetic
 entrec
 economics
