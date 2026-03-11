@@ -14807,7 +14807,7 @@ baignoire
 bayonetted
 briolet
 binman
-bernard
+bernard 1
 becovet
 brutter
 biocentric
