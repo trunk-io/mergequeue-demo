@@ -4199,7 +4199,7 @@ entrada
 equilibrating
 engarment
 eliminand
-enfeeblement
+enfeeblement 1
 enterology
 elytra
 excruciating
