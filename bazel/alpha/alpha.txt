@@ -781,7 +781,7 @@ appendicectomy
 abscissas
 acanthaceae
 anam
-afforestable
+afforestable 1
 astrologistic
 airlock
 adopt
