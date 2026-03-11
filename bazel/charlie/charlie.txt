@@ -4184,7 +4184,7 @@ covenant
 coauthored
 chaperonless
 cashel
-carelessly
+carelessly 1
 carelessness
 careme
 ciboria
