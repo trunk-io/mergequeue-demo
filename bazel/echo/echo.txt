@@ -531,7 +531,7 @@ equation
 egyptologist
 evelyn
 episcopise
-enwrapped
+enwrapped 1
 exigencies 1
 epigenetically
 enhat
