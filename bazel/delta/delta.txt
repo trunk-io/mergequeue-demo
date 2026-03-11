@@ -10459,7 +10459,7 @@ duodene
 deboned
 doddle
 divestment
-debility
+debility 1
 dicyclist
 deflagrate
 disenchants
