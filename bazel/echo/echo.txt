@@ -13739,7 +13739,7 @@ exotropism
 enamours
 essentially
 equiaxe
-endleaf
+endleaf 1
 entastic
 erioglaucine
 exograph
