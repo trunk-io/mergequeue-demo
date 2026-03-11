@@ -7758,7 +7758,7 @@ exiguous
 equilibria
 endosmosis
 ergometrine
-effectuality
+effectuality 1
 eyeground
 erythraea
 equipollently
