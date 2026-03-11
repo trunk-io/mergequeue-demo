@@ -12646,7 +12646,7 @@ absorptivity 1
 antiquely
 autoepilation
 arced
-athamaunte
+athamaunte 1
 aposporous
 arks
 age
