@@ -12520,7 +12520,7 @@ bridling
 bacteriophage
 bibulousness
 bourrees
-burntness
+burntness 1
 bagpiped
 bone
 bryozoans
