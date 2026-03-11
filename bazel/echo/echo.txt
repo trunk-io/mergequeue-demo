@@ -8172,7 +8172,7 @@ emblematical 1
 elix
 etherish
 espressivo
-eructative
+eructative 1
 eclipses
 ergot
 evanescing
