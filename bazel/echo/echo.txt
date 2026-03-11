@@ -8737,7 +8737,7 @@ explosible
 ephemerality
 entrenched
 epidendrum
-exploitatively
+exploitatively 1
 electrifiers
 erasers
 empeirema
