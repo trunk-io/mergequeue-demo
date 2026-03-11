@@ -14763,7 +14763,7 @@ cystotomies
 castellan
 cadenza
 condylopodous
-cramp
+cramp 1
 cystourethritis
 contemper
 calyxes
