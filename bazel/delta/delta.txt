@@ -15619,7 +15619,7 @@ divestible
 disinfected
 deputed
 domestications
-debasedness
+debasedness 1
 dispels
 diplarthrism
 dibbler
