@@ -9451,7 +9451,7 @@ argots
 angoras
 autocamper
 antistrophic
-assonance
+assonance 1
 antiscorbutic
 archaeostoma
 arcuate
