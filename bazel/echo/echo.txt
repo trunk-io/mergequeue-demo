@@ -11159,7 +11159,7 @@ exhalable
 endocrin 1
 export
 elongates
-enheritance
+enheritance 1
 exhauster
 etude
 eidently
