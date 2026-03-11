@@ -3899,7 +3899,7 @@ eluvium
 ectocyst
 encorbelment
 exoticity 1
-erenow
+erenow 1
 ecclesiologist
 exaltation
 epistemic
