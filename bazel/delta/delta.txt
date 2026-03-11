@@ -4594,7 +4594,7 @@ decolorisation
 duff
 dalibarda
 desmomyaria
-decreased
+decreased 1
 dayless 1
 differentiae
 demesgne
