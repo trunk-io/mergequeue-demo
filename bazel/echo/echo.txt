@@ -6896,7 +6896,7 @@ egyptian
 emboldener
 eradicate
 easels
-enbloc
+enbloc 1
 electrochemist
 elinguation
 electromotion
