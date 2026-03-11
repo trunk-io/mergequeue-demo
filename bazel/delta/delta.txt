@@ -2500,7 +2500,7 @@ dayflower
 dorsiferous
 diffractometer
 demasculinizing
-derisiveness
+derisiveness 1
 deanathematize
 divertedly
 deepening
