@@ -14638,7 +14638,7 @@ darnel
 devisceration
 defis 1
 disemboguement
-damners
+damners 1
 deforce
 djebels
 dirdums
