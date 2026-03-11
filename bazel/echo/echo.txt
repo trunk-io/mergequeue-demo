@@ -9071,7 +9071,7 @@ endoradiosonde
 epitheca
 encl
 emolumentary
-episcia
+episcia 1
 elaterite
 expends
 encompassing
