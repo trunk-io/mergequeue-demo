@@ -12754,7 +12754,7 @@ endorse
 effude
 emphyteutic
 expiscator
-exanthem
+exanthem 1
 elaphomyces
 enhearten
 emblematising
