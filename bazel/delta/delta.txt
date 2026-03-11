@@ -16601,7 +16601,7 @@ diathermies
 demicannon
 devitalization
 dogmeat
-disprison
+disprison 1
 dermic
 disroots
 discrediting
