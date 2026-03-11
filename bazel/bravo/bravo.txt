@@ -6548,7 +6548,7 @@ broadside
 banquettes
 butterwright
 boxwood
-bergamasche
+bergamasche 1
 broddle
 buffoon
 bilimbi
