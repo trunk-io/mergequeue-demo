@@ -8500,7 +8500,7 @@ etch
 egyptologic
 ektexine
 eleometer
-empyreal
+empyreal 1
 echoey
 extent
 extrinsicality
