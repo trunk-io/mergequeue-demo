@@ -15429,7 +15429,7 @@ clankless
 chaldaic
 copes
 chloropia
-clannishness
+clannishness 1
 cheki
 churchgrith
 clitelliferous
