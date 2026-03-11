@@ -18306,7 +18306,7 @@ dicarboxylate
 duffle 1
 dikaryon
 densimeter
-disobstruct
+disobstruct 1
 dunpickle
 degustation
 duluth
