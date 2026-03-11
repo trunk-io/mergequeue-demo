@@ -10637,7 +10637,7 @@ enclog
 encryption
 equalities
 excentric
-eliminate
+eliminate 1
 enrol
 excellence
 effuse
