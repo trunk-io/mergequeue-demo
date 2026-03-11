@@ -4890,7 +4890,7 @@ evaluative
 epiplastral
 epimerism
 ephebos
-emigrate
+emigrate 1
 execratory
 equiproducing
 elul
