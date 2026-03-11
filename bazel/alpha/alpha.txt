@@ -7878,7 +7878,7 @@ agamemnon
 aerophysicist
 anapaestically
 ankylopodia
-ambidexterity
+ambidexterity 1
 alfaquis
 aviators
 amiga
