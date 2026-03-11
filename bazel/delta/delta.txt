@@ -3120,7 +3120,7 @@ disarmers
 divergently
 disapprovals
 dekko
-diatribe
+diatribe 1
 dochmiacal
 desoxyribose
 decate
