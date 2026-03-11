@@ -19414,7 +19414,7 @@ color
 clownish
 callipered
 cardo
-ciceronic
+ciceronic 1
 curratow
 collied
 cynthian
