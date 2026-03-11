@@ -19213,7 +19213,7 @@ autolaryngoscopy
 aphonic
 antipatharia
 angara
-amative
+amative 1
 anagrammed 1
 astigmoscope
 arenilitic
