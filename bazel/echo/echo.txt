@@ -3418,7 +3418,7 @@ executing
 exteriors
 erecter
 exostoses
-equiparate
+equiparate 1
 elitisms
 enamor
 ethoses
