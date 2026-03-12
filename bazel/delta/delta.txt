@@ -2393,7 +2393,7 @@ dysesthesia
 drydenism
 disinteress
 doffs
-demoralised
+demoralised 1
 deteriorationist
 dropmeal
 dismisser
