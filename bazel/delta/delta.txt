@@ -16095,7 +16095,7 @@ declare
 dithioglycol
 disdar
 diapir
-dekagrams
+dekagrams 1
 ductless
 dehydrosparteine
 dispatches
