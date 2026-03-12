@@ -9886,7 +9886,7 @@ desentimentalize
 disown
 deadlock
 dilaniate 1
-demiglobe
+demiglobe 1
 dipneumones
 dulcetly
 demiculverin
