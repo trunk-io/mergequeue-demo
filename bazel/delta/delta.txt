@@ -6476,7 +6476,7 @@ disboweled
 dissenter
 distributer
 disseminating
-detectible
+detectible 1
 daltonism
 dichlamydeous
 diagrammatical
