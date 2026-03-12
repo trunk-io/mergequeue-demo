@@ -2569,7 +2569,7 @@ exponent
 ectrodactylia
 earthpea
 electrodepositable
-equilibration
+equilibration 1
 ecclesiography
 elongations
 esophagoscopy
