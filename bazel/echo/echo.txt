@@ -9334,7 +9334,7 @@ eudiometer
 embolize
 expatiatory
 esterifies
-endosmometer
+endosmometer 1
 eosinate
 estocada
 electorial
