@@ -4098,7 +4098,7 @@ adjoining
 ascupart
 adrowse 1
 antorbital
-antiburgher
+antiburgher 1
 apostemation
 apostoli
 anthropophagit
