@@ -10633,7 +10633,7 @@ estated
 energising
 endotoxin
 extempory
-enclog
+enclog 1
 encryption
 equalities
 excentric
