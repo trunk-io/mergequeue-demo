@@ -2905,7 +2905,7 @@ catholicos
 chalkstone
 canthuthi
 canticle
-chapelward
+chapelward 1
 cartman
 cozes
 caimitillo
