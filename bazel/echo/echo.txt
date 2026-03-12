@@ -10315,7 +10315,7 @@ expertise
 extraphysiological
 episome
 erses
-exopterygote
+exopterygote 1
 edictally
 exsolve
 emotionalizing
