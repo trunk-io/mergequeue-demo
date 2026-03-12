@@ -11282,7 +11282,7 @@ decompensate
 diapalma
 decoyer
 duelli
-disavowals
+disavowals 1
 demigrate
 decennal
 dispauperize
