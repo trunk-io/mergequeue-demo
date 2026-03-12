@@ -6249,7 +6249,7 @@ broodiness
 boxty 1
 bahuma
 browntop
-burgher
+burgher 1
 bescoured
 begums
 biblus
