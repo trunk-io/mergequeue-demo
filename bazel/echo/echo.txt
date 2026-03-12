@@ -10209,7 +10209,7 @@ errsyn
 edmund
 epomophorus
 ebonized
-edematose
+edematose 1
 equiponderation 1
 exophagy
 epitomization
