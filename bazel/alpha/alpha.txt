@@ -2496,7 +2496,7 @@ archmachine
 aminization
 asperse
 agapeic
-avalent
+avalent 1
 almaciga
 asystole
 antiphonic
