@@ -18186,7 +18186,7 @@ disyoked
 detectably
 dispersedelement
 disconcertion
-dissolve
+dissolve 1
 daisycutter
 dilettante
 diamagnet
