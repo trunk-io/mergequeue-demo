@@ -2259,7 +2259,7 @@ dollfaced 1
 dullbrained
 dimethylsulphoxide
 droschken
-dispromise
+dispromise 1
 dreams
 dissuit
 devaporation
