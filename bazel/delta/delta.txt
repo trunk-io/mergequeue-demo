@@ -5351,7 +5351,7 @@ desulphurizing
 dibble
 doodling
 dirge
-drooling
+drooling 1
 dyings
 diaspidine
 demivolts
