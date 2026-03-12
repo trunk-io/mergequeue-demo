@@ -2667,7 +2667,7 @@ erinaceous
 entamebas
 ensign
 emoluments
-exchangeably
+exchangeably 1
 euthytatic
 euryte
 eurithermophile
