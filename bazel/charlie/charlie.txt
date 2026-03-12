@@ -5633,7 +5633,7 @@ competitions
 coeloglossum
 chaplains
 countersignal
-claromontane
+claromontane 1
 crabbers
 cymelet
 catawampus
