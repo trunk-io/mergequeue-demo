@@ -597,7 +597,7 @@ beclothed
 bishopric 1
 bundles
 bregmata
-bloomkin
+bloomkin 1
 buccaned
 blackbine
 balanorrhagia
