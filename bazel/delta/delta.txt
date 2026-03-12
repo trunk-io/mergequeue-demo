@@ -15015,7 +15015,7 @@ deterrers
 denomination
 deepness 1
 disconfirm
-didrachmal
+didrachmal 1
 demirhumb
 demisemitone
 dendroidal
