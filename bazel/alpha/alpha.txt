@@ -1690,7 +1690,7 @@ avgas
 autodynes
 assoilment
 augmenters
-adumbratively
+adumbratively 1
 aerogels
 advertize
 amin
