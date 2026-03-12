@@ -31394,7 +31394,7 @@ cadew
 colback
 curmudgeonly
 curney
-curpin
+curpin 1
 clattered
 civilian
 cymblin
