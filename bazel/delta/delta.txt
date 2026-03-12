@@ -4316,7 +4316,7 @@ demonolatrously
 darklier
 dullification
 demonize
-deluminize
+deluminize 1
 desmography
 desmarestia
 decrepitude
