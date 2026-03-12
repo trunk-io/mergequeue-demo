@@ -938,7 +938,7 @@ exhumer 1
 eupolyzoan 1
 electronegative
 eternals
-epanalepsis
+epanalepsis 1
 electroshock
 epinastically
 extraregular
