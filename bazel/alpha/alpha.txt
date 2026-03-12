@@ -9737,7 +9737,7 @@ autotherapy
 alaster
 asphodelus
 authenticatable
-altaid
+altaid 1
 archisphere
 adhesivemeter
 ascolichen
