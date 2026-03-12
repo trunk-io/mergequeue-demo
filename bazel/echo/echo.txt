@@ -10276,7 +10276,7 @@ electrocatalysis
 eelblenny
 erectility
 estruate
-enfranchisable
+enfranchisable 1
 expect
 excave
 eosphorite
