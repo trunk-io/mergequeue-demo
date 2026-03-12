@@ -12760,7 +12760,7 @@ bijective
 bowknot
 bookrests
 bdelloura
-banishes
+banishes 1
 bathylimnetic
 bagattino
 brisa
