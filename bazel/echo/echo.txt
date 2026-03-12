@@ -13262,7 +13262,7 @@ eodevonian
 equipt
 ecologic
 estoc
-escribientes
+escribientes 1
 estreated
 engirdling
 eddo
