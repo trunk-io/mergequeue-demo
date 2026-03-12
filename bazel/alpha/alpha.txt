@@ -11730,7 +11730,7 @@ astringence
 anglish
 apricots
 aspirate
-autoincrements
+autoincrements 1
 anionically
 archcriminal
 analgetic
