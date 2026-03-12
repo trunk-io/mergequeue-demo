@@ -6894,7 +6894,7 @@ coemptionator
 chloroacetophenone
 carbonometry
 chlorguanide
-choosiness
+choosiness 1
 celloid
 cupels
 colubrids
