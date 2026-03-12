@@ -12786,7 +12786,7 @@ charnels
 chueta
 coulombmeter
 cannabinol
-canonizer
+canonizer 1
 chen
 crossfall
 classmanship
