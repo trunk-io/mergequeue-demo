@@ -20054,7 +20054,7 @@ affixes
 acrasieae
 apyonin
 alleger
-aristate
+aristate 1
 antagonized
 appropriately
 anglify
