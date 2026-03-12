@@ -2832,7 +2832,7 @@ eternise
 entomophthora
 extensive
 etwas
-euxanthic
+euxanthic 1
 emplecton
 extinguished
 enucleate
