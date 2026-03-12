@@ -14375,7 +14375,7 @@ conemaking
 crawleyroot
 champers
 cargos 1
-circumnavigates
+circumnavigates 1
 chalaze
 carotids
 criminal
