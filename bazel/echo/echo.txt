@@ -3953,7 +3953,7 @@ enif
 etherialize
 expurgatorial
 exilarch
-euphausiacea
+euphausiacea 1
 endure
 emulating
 entomophthorales
