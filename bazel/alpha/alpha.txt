@@ -5544,7 +5544,7 @@ annotine
 antistate
 arraigns
 ascrive
-apheliotropic
+apheliotropic 1
 authigenetic
 adderspit
 amant
