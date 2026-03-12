@@ -28924,7 +28924,7 @@ cineangiographic
 chorus
 cavalry
 chimed
-chordeiles
+chordeiles 1
 candareen
 campiest
 cyanophose
