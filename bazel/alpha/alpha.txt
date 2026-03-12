@@ -12489,7 +12489,7 @@ anaxagorean
 adage
 allround
 affects
-affably
+affably 1
 autotruck
 annelidian 1
 acroteric
