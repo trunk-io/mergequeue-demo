@@ -14890,7 +14890,7 @@ celebration
 calvish
 cytoblastema
 caseless
-colorimetric
+colorimetric 1
 corroborators
 conjecturableness
 chararas
