@@ -5846,7 +5846,7 @@ butty
 bemar
 behowl
 bain
-bipartite
+bipartite 1
 bevaring
 bulletheaded
 borderlands
