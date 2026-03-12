@@ -2900,7 +2900,7 @@ essencing
 embind
 estimably
 eluate
-entoconid
+entoconid 1
 encephalospinal
 excuseless
 emitters
