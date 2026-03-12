@@ -4923,7 +4923,7 @@ dims
 dustups
 disapprobative
 drawstrings
-dentirostrate
+dentirostrate 1
 degasification
 distinctions
 demonologic
