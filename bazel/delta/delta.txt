@@ -16677,7 +16677,7 @@ digamists
 distorts 1
 drained
 dwarfy
-digressionary
+digressionary 1
 dehydroretinol
 demilion
 degums
