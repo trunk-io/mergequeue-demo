@@ -7312,7 +7312,7 @@ epibatus 1
 epencephala
 etherized
 expiable
-enantiomorphously
+enantiomorphously 1
 exosepsis
 exocrine
 equicellular
