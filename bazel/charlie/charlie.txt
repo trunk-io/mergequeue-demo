@@ -20612,7 +20612,7 @@ clouts
 chlorider
 compatriotic
 continuist
-compd
+compd 1
 carnose
 cameroon
 conceptual
