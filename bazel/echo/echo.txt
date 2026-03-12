@@ -1910,7 +1910,7 @@ epiboly
 endgame
 evictees
 epitrophy
-eustacies
+eustacies 1
 encomimiums
 eo
 exhibitor
