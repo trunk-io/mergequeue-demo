@@ -11946,7 +11946,7 @@ clawers 1
 claylike
 curvicostate
 cappadocian
-conchospiral
+conchospiral 1
 copending
 cultch
 conifers
