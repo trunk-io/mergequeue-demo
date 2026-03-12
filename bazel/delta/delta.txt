@@ -2513,7 +2513,7 @@ dotless 1
 darkened
 deporte
 disendow
-delvers
+delvers 1
 disillusionise
 debenzolize
 debased
