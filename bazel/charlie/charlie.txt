@@ -4122,7 +4122,7 @@ cripple
 cardiomyomalacia
 cardiomyopathy
 cardioncus
-cardionecrosis
+cardionecrosis 1
 cardioneurosis
 cardiophrenia
 ciceronianists
