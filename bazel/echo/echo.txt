@@ -3428,7 +3428,7 @@ eyepoint
 expiating
 emerse 1
 elicitory
-enscene
+enscene 1
 endoplastule
 encloud
 ensnarer
