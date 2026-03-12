@@ -9011,7 +9011,7 @@ batoid 1
 bilbo
 burgling
 blackcap
-biometries
+biometries 1
 byon
 bountied
 besmoothed
