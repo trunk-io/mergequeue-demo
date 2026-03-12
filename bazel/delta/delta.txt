@@ -12976,7 +12976,7 @@ deceivability
 dainful
 deadliness
 democracy
-disfavourer
+disfavourer 1
 decodings
 dandify
 disgusts
