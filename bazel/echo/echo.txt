@@ -10051,7 +10051,7 @@ esugarization
 entrep
 encapsulates
 entered
-evectic
+evectic 1
 emphasise
 eryngium
 electrizer
