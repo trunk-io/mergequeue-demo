@@ -5002,7 +5002,7 @@ diaphragm
 disenslave
 due
 decalvation
-diamonded
+diamonded 1
 dogfights
 dementedness
 dar
