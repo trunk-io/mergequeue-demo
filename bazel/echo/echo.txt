@@ -424,7 +424,7 @@ erf 1
 echinococcosis 1
 extractiform
 estrangedness
-exasperates
+exasperates 1
 exclaim
 ecliptic
 equilibrator
