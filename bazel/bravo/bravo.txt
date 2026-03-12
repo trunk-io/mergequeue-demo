@@ -5613,7 +5613,7 @@ bandlimited
 belotte
 borghi 1
 bushwhack
-belled
+belled 1
 budling
 beneficience
 bibliophilism
