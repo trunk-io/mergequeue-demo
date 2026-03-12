@@ -14108,7 +14108,7 @@ distritos
 dispond
 dysfunctional
 daibutsu
-dukhn
+dukhn 1
 daggerbush
 disequalizer
 disfunctions
