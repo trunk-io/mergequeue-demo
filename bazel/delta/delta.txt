@@ -9235,7 +9235,7 @@ damfool
 decadenza
 defrauding
 daddles
-disowns
+disowns 1
 diemakers
 discurre
 dewlapped
