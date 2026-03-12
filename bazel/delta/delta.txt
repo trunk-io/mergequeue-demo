@@ -11942,7 +11942,7 @@ desorption
 dichromasia
 displacer
 dilative
-dishonorableness
+dishonorableness 1
 dropkicks
 disdodecahedroid
 dermad
