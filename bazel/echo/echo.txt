@@ -10677,7 +10677,7 @@ extravascular 1
 ensconces
 etacist
 eom
-exteriorize
+exteriorize 1
 ecchymosis
 enows
 euphotide
