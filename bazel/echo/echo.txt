@@ -3607,7 +3607,7 @@ enlargement
 encardion
 escry 1
 exorbitancy
-enlistment
+enlistment 1
 enguard
 entwisted
 eulerian
