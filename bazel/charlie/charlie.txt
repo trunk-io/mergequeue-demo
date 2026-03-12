@@ -2775,7 +2775,7 @@ canonicalization
 chout
 cum
 canonicalized
-circumventive
+circumventive 1
 cleanskin
 casthouse
 convolvulaceous 1
