@@ -2686,7 +2686,7 @@ episperm
 endosmosic
 engrapple
 exceptor
-enactor
+enactor 1
 equicohesive 1
 echinoderidae
 empalers
