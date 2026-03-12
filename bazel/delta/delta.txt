@@ -3977,7 +3977,7 @@ diestock
 diremption
 deficiency
 disappendancy
-defoams
+defoams 1
 dogedoms
 durationless
 decian
