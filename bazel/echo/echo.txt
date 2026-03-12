@@ -7292,7 +7292,7 @@ epicostal
 endoparasitic
 enlist
 elephanticide
-electrologic
+electrologic 1
 eyries
 embost
 ersatzes
