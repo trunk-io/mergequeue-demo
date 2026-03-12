@@ -18354,7 +18354,7 @@ balsas
 bridgewall
 bedel 1
 bashes
-bathala
+bathala 1
 barky
 bakemeats
 blotto
