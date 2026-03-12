@@ -1285,7 +1285,7 @@ duckery
 doctrines
 dogate
 desorb
-directest
+directest 1
 dovekey
 duplicature
 dilleniaceae
