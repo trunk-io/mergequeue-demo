@@ -6230,7 +6230,7 @@ creditably
 calanthe
 caudle
 caudles
-collectable
+collectable 1
 chickenberry
 coronograph
 chaldese
