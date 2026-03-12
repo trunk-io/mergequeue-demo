@@ -9195,7 +9195,7 @@ charontas
 cardplayer
 crowstep
 coleophora
-crystalline
+crystalline 1
 comptometer 1
 cystous
 colorbearer
