@@ -5893,7 +5893,7 @@ deletions
 discontents
 digitalic
 dungari
-dumbly
+dumbly 1
 dade
 denaro
 disjoint
