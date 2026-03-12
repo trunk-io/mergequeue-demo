@@ -23939,7 +23939,7 @@ alencons
 anguliferous
 acanthia
 anticatarrhal
-abstersive
+abstersive 1
 aneroids
 androcles
 authentic
