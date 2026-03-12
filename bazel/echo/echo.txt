@@ -10417,7 +10417,7 @@ estoppels
 exalt
 endeavor
 expeditious
-evites
+evites 1
 equispaced
 excursuses
 exuded
