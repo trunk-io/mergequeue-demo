@@ -7949,7 +7949,7 @@ disturb
 deckhands
 disgeneric 1
 dreepiness
-dyothelism
+dyothelism 1
 delirous 1
 didromies
 discussible
