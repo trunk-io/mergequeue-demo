@@ -25325,7 +25325,7 @@ agrarians 1
 aghanee
 avocate
 areroscope
-alnico
+alnico 1
 anklong
 anisopod
 averroist
