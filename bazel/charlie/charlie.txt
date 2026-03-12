@@ -15923,7 +15923,7 @@ chess
 comade
 cephaloid
 cow
-culpas
+culpas 1
 cokie
 constable
 cachaca
