@@ -21710,7 +21710,7 @@ aphetically
 annotation
 applosive 1
 amusedly
-affluent
+affluent 1
 aquanauts
 anachronismatical
 alchemical
