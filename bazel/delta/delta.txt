@@ -6804,7 +6804,7 @@ disfoliaged
 disapproved
 dipperful
 disgraded
-drisk
+drisk 1
 dolichoprosopic
 dissentism
 demodectic
