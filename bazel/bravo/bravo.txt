@@ -6100,7 +6100,7 @@ bespirit
 bol 1
 burgessdom
 bianco
-beaconed
+beaconed 1
 biocoenose
 boarishly
 balaklava
