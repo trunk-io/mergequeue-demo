@@ -4482,7 +4482,7 @@ colonel
 coldproof
 cephalanthous
 cnidocell
-carniform
+carniform 1
 chasubled
 cadbait
 calfbound
