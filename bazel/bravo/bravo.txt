@@ -10773,7 +10773,7 @@ berthage
 barhal
 bedegar
 bandfish
-bristlebird
+bristlebird 1
 brigandine
 backoff
 blattodea
