@@ -7308,7 +7308,7 @@ epembryonic
 enflesh
 elaeodochon
 exact
-epibatus
+epibatus 1
 epencephala
 etherized
 expiable
