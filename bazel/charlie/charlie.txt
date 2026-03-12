@@ -3792,7 +3792,7 @@ countertranslation
 cluck
 campshot
 cenanthous
-clownship
+clownship 1
 compensation
 charmfulness
 cremaillere
