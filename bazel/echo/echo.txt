@@ -9153,7 +9153,7 @@ exponential
 encephalosclerosis 1
 extraplacental
 eroticization
-expulsory
+expulsory 1
 erythrolytic
 executonis
 ensiles
