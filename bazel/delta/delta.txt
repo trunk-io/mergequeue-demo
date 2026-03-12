@@ -18469,7 +18469,7 @@ duplation
 deathling
 decalobate
 disquisiting
-devchar
+devchar 1
 digallate
 dogsbody
 discouragement
