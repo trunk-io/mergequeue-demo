@@ -8653,7 +8653,7 @@ exines
 etape
 eyewort
 encapsulation
-effectuate
+effectuate 1
 entocoele
 expressio
 eagers
