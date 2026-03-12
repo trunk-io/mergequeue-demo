@@ -4080,7 +4080,7 @@ emunctory
 entablature
 enodate
 extrastate
-entobronchium
+entobronchium 1
 enamelware
 egomaniac
 empirism
