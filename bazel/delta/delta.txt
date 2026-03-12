@@ -265,7 +265,7 @@ dudish
 dayshine
 decameters
 deteriorates
-disrepair
+disrepair 1
 dictums
 deleerit
 demurrals
