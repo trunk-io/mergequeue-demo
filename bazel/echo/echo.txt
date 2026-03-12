@@ -9593,7 +9593,7 @@ epiotic
 electrogilding 1
 elytriferous
 ectoglia
-eases
+eases 1
 eviscerator
 expressible
 espaliering 1
