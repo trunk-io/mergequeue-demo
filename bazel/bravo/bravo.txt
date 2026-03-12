@@ -2766,7 +2766,7 @@ bitten
 book
 brownouts
 bianca
-bicompact
+bicompact 1
 backfill
 bojo
 boat
