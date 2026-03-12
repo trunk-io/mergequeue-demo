@@ -746,7 +746,7 @@ euryhaline
 emraud
 enascent
 etchings
-enviable
+enviable 1
 echinodermata
 ethmosphenoid
 enveigle
