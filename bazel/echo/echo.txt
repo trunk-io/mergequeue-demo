@@ -9447,7 +9447,7 @@ espartos
 escambron
 entad
 emasculator
-epiphytotic
+epiphytotic 1
 eulogiums
 exiled
 endogastritis
