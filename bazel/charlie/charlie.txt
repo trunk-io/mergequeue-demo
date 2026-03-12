@@ -3031,7 +3031,7 @@ cuttlebone
 coinclination
 colonoscopy
 cardiorrheuma
-centifolious
+centifolious 1
 chekker
 convocator
 cryptomnesic
