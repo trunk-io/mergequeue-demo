@@ -13552,7 +13552,7 @@ entomofauna
 extrafloral
 envire
 epitenon
-electroendosmosis
+electroendosmosis 1
 eccentric
 extemporarily
 endowers
