@@ -20576,7 +20576,7 @@ compartmentalizing
 coccid
 comfiture
 contorted
-chrysenic
+chrysenic 1
 cryolites
 cuteys
 cauliferous
