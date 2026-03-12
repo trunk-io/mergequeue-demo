@@ -3850,7 +3850,7 @@ endolysin
 egocentricities
 ebracteate
 errantries
-efficiency
+efficiency 1
 endites
 enflagellate
 essoinee
