@@ -4925,7 +4925,7 @@ amydon
 architectural
 acetabula
 abuna
-amortise
+amortise 1
 arabesks
 amphitropal
 antinome
