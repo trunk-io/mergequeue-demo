@@ -9770,7 +9770,7 @@ encapsule
 endotheliotoxin
 entelechial
 enchair
-echoencephalography
+echoencephalography 1
 ephedrine
 entresol
 epistomal
