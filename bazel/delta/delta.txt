@@ -14374,7 +14374,7 @@ disseverment
 disquisite
 diploidy
 demicadence
-digestiveness
+digestiveness 1
 destitution
 dispositioned
 diamat
