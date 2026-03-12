@@ -13801,7 +13801,7 @@ apocatharsis
 apotropaically
 amatembu
 antecavern
-anchorwise
+anchorwise 1
 ablesse
 annihilating
 agonied
