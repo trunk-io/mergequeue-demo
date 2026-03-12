@@ -10300,7 +10300,7 @@ astraeidae
 aculeolus
 aradid
 antierosive
-antshrike
+antshrike 1
 ascidiozooid
 anchorets
 anathematise
