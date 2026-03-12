@@ -11464,7 +11464,7 @@ alternateness
 alpenhorn
 aproned
 amutter 1
-ambitendency
+ambitendency 1
 aly
 aperea
 angiograph
