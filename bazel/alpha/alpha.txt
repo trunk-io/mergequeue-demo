@@ -20932,7 +20932,7 @@ adure
 atimon
 aftercrop
 arbitrament
-ascends
+ascends 1
 anchoret
 aghas
 ascension
