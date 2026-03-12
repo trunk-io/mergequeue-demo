@@ -3942,7 +3942,7 @@ blackfishes
 bondslave
 bearskins
 bentgrass
-bourgeois
+bourgeois 1
 brainsick
 baptisin
 becloaks
