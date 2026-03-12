@@ -1229,7 +1229,7 @@ caledonia
 caffoy
 coobah
 chambers
-curtalaxes
+curtalaxes 1
 condensary
 communitary
 carabinero
