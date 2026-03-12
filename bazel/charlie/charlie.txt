@@ -2034,7 +2034,7 @@ collectivise
 cataclastic
 cyclist
 councillor
-choristate
+choristate 1
 cerecloths
 creosote
 campaniliform
