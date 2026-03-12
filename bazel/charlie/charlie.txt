@@ -12870,7 +12870,7 @@ corporealness
 colouration
 cursillo
 coexerted
-chumships
+chumships 1
 coleworts
 clonism
 coinhering
