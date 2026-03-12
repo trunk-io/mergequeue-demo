@@ -1017,7 +1017,7 @@ defeatists
 darlingness
 darndest
 drudges
-dreary
+dreary 1
 destandardize
 directive
 devolatilising
