@@ -2022,7 +2022,7 @@ badnesses
 brogued
 blastematic
 baccarats
-botanic
+botanic 1
 betraise
 branniness
 blitzed
