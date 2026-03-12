@@ -13715,7 +13715,7 @@ experience
 elator
 enfamish
 explore
-enamel
+enamel 1
 erostrate
 erd
 epicoeliac
