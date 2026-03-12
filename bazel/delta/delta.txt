@@ -8879,7 +8879,7 @@ depone
 dimensionless
 drawloom
 diapase
-delegative
+delegative 1
 disgorges
 duumvir
 diastase
