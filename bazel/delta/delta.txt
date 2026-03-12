@@ -7554,7 +7554,7 @@ doubletone
 disposer 1
 debellator
 downtrend
-dominantly
+dominantly 1
 divulgement
 diosma 1
 decarbonating
