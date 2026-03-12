@@ -6248,7 +6248,7 @@ endochrome
 emulsion
 echinoderma
 earthfast
-enrapts
+enrapts 1
 endophyllaceae
 exulate
 endolymphatic
