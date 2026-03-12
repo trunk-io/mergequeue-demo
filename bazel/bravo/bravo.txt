@@ -12941,7 +12941,7 @@ brewer
 bloodsucking
 bonfire
 bungles
-boswellize
+boswellize 1
 befrets
 beround
 bulger
