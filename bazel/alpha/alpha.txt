@@ -16942,7 +16942,7 @@ aglypha
 absolutization
 apionol
 aspiratae
-arteriospasm
+arteriospasm 1
 abrotin
 alloxans
 almocrebe
