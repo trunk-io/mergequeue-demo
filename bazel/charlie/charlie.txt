@@ -2842,7 +2842,7 @@ carlyleian
 chonicrite
 colourableness
 celling
-counterseal
+counterseal 1
 colocates
 concaulescence
 chalice
