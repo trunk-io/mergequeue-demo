@@ -16044,7 +16044,7 @@ carroll
 circummigrate
 commentaries
 census
-clerid
+clerid 1
 ceresin
 chicaning
 cosmozoans
