@@ -12573,7 +12573,7 @@ ecdemite
 exteriorise
 eelfare
 etiology
-epiphragmal
+epiphragmal 1
 exhume
 englishry
 emuls
