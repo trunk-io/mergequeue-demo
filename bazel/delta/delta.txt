@@ -9854,7 +9854,7 @@ dyssynergy
 dirgelike
 detonatable
 dieter
-decomposer
+decomposer 1
 debase
 dactylograph
 diplegias
