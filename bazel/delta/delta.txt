@@ -6565,7 +6565,7 @@ disturbers
 displicency
 decolorimeter
 dishtowels
-dazzler
+dazzler 1
 deferentially
 decenter
 dialing 1
