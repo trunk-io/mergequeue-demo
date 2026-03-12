@@ -13781,7 +13781,7 @@ entwisting
 electrophoretic
 excitations 1
 epitomically
-emollient
+emollient 1
 eucalyn
 existless
 endothecal
