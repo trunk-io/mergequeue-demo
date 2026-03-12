@@ -1119,7 +1119,7 @@ eurychoric
 entogenous
 emplaned
 exosmoses
-encephalasthenia
+encephalasthenia 1
 erroneously 1
 elegized
 enbrave
