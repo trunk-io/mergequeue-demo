@@ -4483,7 +4483,7 @@ dimercaprol
 dipartite
 distortable
 defendable
-dress
+dress 1
 duinhewassel
 diseducate
 didascalos
