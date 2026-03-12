@@ -7122,7 +7122,7 @@ epicritic
 equulei
 equimolecular
 egolatrous
-emulgens
+emulgens 1
 excepter
 excubant
 embezzling
