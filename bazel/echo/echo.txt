@@ -10650,7 +10650,7 @@ expositional
 enemy
 elongation
 eledone
-elephantic
+elephantic 1
 ebonies
 ecole
 electroetching
