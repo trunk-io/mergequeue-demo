@@ -11960,7 +11960,7 @@ emim
 exegetic
 entrepot
 erwin
-encircled
+encircled 1
 eche
 evilsayer
 etiquettes
