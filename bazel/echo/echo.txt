@@ -3041,7 +3041,7 @@ europeanism
 ensorcell 1
 exhumed
 enmarbling
-ebriosity
+ebriosity 1
 emerods
 embillow
 euchring
