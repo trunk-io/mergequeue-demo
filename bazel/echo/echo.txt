@@ -3605,7 +3605,7 @@ egeran
 ensheaths
 enlargement
 encardion
-escry
+escry 1
 exorbitancy
 enlistment
 enguard
