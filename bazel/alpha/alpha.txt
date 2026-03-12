@@ -9161,7 +9161,7 @@ asthenolith
 antu 1
 amplifications
 arsino
-aircraft
+aircraft 1
 accommodative
 ayahs
 antigun
