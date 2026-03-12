@@ -9674,7 +9674,7 @@ decline
 distinctor
 darken
 decenyl
-disillusionist
+disillusionist 1
 dreadnaught
 dockets
 digesting
