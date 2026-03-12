@@ -21976,7 +21976,7 @@ cots
 confection
 cheloid
 confectionary
-charioteer
+charioteer 1
 caretook
 chapter
 carbonigenous
