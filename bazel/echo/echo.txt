@@ -9768,7 +9768,7 @@ equiproportional
 etrier
 encapsule
 endotheliotoxin
-entelechial
+entelechial 1
 enchair
 echoencephalography 1
 ephedrine
