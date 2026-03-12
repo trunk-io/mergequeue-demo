@@ -11047,7 +11047,7 @@ analyses
 allocute
 anacanthous
 ahull
-aspherical
+aspherical 1
 anopsy
 aerologists
 apparation
