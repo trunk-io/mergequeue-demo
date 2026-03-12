@@ -1644,7 +1644,7 @@ deputative
 discontinuances
 deairing
 daks
-demits
+demits 1
 dactyls 1
 discredits
 diskery
