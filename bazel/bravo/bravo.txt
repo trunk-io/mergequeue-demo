@@ -8839,7 +8839,7 @@ bittier
 baddishness
 barrens 1
 brushiness
-bristle
+bristle 1
 bickerer
 bescourge
 beatniks
