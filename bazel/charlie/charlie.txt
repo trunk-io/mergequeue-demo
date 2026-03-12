@@ -21237,7 +21237,7 @@ complementaries
 concocts
 citrin
 chordacentrum
-catechisable
+catechisable 1
 counteroffensive
 canalicular
 ceramist
