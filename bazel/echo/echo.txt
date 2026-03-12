@@ -4710,7 +4710,7 @@ emulative
 eristics
 epithalamiums
 evangeliarium
-enchant
+enchant 1
 extradoses
 exquisiteness
 extraverted
