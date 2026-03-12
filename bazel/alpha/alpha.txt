@@ -16727,7 +16727,7 @@ aulostomidae 1
 ambidextrous
 aphengoscope
 atrophia
-adambulacral
+adambulacral 1
 april
 autarkikal
 anticommutative
