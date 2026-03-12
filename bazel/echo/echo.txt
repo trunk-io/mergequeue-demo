@@ -6702,7 +6702,7 @@ endoproct
 esteriferous
 exudative
 entosclerite
-encincture
+encincture 1
 echinopsine
 etherialise
 estop
