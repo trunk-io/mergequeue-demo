@@ -9172,7 +9172,7 @@ evaporation
 enamelless
 emblazon
 electricize
-eigenfrequency
+eigenfrequency 1
 evanescenrly
 elephas
 eophyton
