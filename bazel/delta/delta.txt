@@ -10140,7 +10140,7 @@ doozer
 deafnesses
 deuterotype
 dustour
-deoxidator
+deoxidator 1
 deodorisation
 dormitary
 discursus
