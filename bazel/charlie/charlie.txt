@@ -28600,7 +28600,7 @@ carnaria
 compote
 congruential
 commenda
-clemence
+clemence 1
 cosymmedian
 cotwal
 creditrix
