@@ -15200,7 +15200,7 @@ backarrow
 biradiated 2
 blastospheric
 bodiment
-blup
+blup 1
 bullyboys
 bothrenchyma
 bogomil
