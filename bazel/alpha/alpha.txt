@@ -13134,7 +13134,7 @@ afunctional
 autohemolytic
 aoul
 aggur
-aglycone
+aglycone 1
 anoli
 anonol
 adactylia
