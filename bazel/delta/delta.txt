@@ -5710,7 +5710,7 @@ determiners
 deuterate
 disciplining
 detering
-dynamoelectric
+dynamoelectric 1
 driftway
 demigorge 1
 dreggily
