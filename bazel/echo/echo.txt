@@ -13922,7 +13922,7 @@ enactors
 eisegesis 1
 endotys
 epibenthic
-extirpates
+extirpates 1
 echolalic
 emborders
 embogue
