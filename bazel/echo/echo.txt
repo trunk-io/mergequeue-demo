@@ -2876,7 +2876,7 @@ euhemerism
 extend
 enseated
 epidermoid
-eukairite
+eukairite 1
 evagation 1
 endoconidia
 epiphora
