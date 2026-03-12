@@ -11809,7 +11809,7 @@ endocranium
 episcias
 ethylate
 electrocution
-egregiousness
+egregiousness 1
 exarticulate
 engorge
 enmeshed
