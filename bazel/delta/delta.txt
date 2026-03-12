@@ -7628,7 +7628,7 @@ daunt
 defectionist
 dicruridae
 disjoinable
-despectant
+despectant 1
 dactyloscopy
 designee
 declaimed
