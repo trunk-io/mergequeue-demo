@@ -5621,7 +5621,7 @@ durion
 dumper
 darksomeness
 divell
-denotativeness
+denotativeness 1
 downwind
 dragnet
 duotones
