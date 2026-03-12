@@ -557,7 +557,7 @@ dartoid
 distrustful
 dining
 donk
-dextrorotation
+dextrorotation 1
 dipsaceous
 diaconate
 durnedest
