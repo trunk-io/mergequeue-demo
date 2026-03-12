@@ -9263,7 +9263,7 @@ disjoints
 defaitiste
 dicranaceous
 deoxycorticosterone
-disclass
+disclass 1
 disaffiliation
 difference
 diffractiveness
