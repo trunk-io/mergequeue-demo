@@ -10582,7 +10582,7 @@ epithyme
 enhaloes
 epidotization
 epipteric
-endosporic
+endosporic 1
 esterases
 encumber
 entryway
