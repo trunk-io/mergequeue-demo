@@ -11641,7 +11641,7 @@ expires
 encephalopyosis
 erythroblastic
 electrics
-exerts
+exerts 1
 educations
 ectogenetic
 embrown
