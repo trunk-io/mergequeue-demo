@@ -4440,7 +4440,7 @@ elevenths
 emphlysis
 econometrically
 excalcarate
-evaporate
+evaporate 1
 elod
 evodia
 entomologies
