@@ -6977,7 +6977,7 @@ diurnals 1
 dialyzate
 daltonian
 date
-deuterons
+deuterons 1
 daubery
 deles
 docile

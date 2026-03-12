@@ -11067,7 +11067,7 @@ emodins
 emu
 edelweiss
 exhuming
-epilobe
+epilobe 1
 epithecial
 embolus
 esothyropexy
