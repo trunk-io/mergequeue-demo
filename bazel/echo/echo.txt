@@ -10525,7 +10525,7 @@ elasticity 1
 endexines
 establismentarian
 entablatured
-elutriated
+elutriated 1
 eggcrate
 expletory
 encrease
