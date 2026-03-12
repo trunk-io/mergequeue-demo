@@ -15791,7 +15791,7 @@ canephoros
 cladautoicous
 chiseler
 clavicotomy
-carecloth
+carecloth 1
 covetously
 claviculate 1
 chambertin

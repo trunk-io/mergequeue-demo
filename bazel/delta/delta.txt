@@ -9402,7 +9402,7 @@ diminish
 dy
 dealbation
 dido 1
-diaglyptic
+diaglyptic 1
 drepanoid
 dipter
 dharma
