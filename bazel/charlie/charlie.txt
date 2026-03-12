@@ -8245,7 +8245,7 @@ chorasmian
 cithers 1
 churchwomen
 clamor
-cusie
+cusie 1
 chiropodist
 clutterer
 cultists
