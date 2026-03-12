@@ -4347,7 +4347,7 @@ derivation
 daleth
 dugouts
 dandified
-demarcate
+demarcate 1
 desperadoism 1
 discloud
 dyslogy
