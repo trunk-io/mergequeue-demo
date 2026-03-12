@@ -5572,7 +5572,7 @@ aegyrite 1
 adduceable
 ambocoelia
 agapetid
-autocoder
+autocoder 1
 allotropical
 anaphroditic
 anthropobiology
