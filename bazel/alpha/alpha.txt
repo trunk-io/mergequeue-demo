@@ -12285,7 +12285,7 @@ androcephalum
 ascan
 androclclinia
 arthrogastra
-anisotropic
+anisotropic 1
 angka
 atrabilaire
 antimalarial
