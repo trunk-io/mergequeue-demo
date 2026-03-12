@@ -14653,7 +14653,7 @@ classicalist
 casita
 cystiferous
 cenobite
-cyath
+cyath 1
 crosshackle
 cystiform
 canaanite
