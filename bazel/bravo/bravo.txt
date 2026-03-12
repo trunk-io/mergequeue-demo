@@ -13968,7 +13968,7 @@ bandos
 bethwack
 breakwind
 berengelite
-bauxites
+bauxites 1
 bakuninist
 bedemen
 bushgoat
