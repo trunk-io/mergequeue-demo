@@ -14964,7 +14964,7 @@ definiteness
 determinateness
 daun
 daekon
-dovecote
+dovecote 1
 dogana
 dizziness
 dolorifuge
