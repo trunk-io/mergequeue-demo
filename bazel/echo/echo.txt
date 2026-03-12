@@ -13349,7 +13349,7 @@ enfonce
 eclogic 1
 epicyclic 1
 emydosaurian
-empoisoner
+empoisoner 1
 exogenism
 enjoyableness
 excystation
