@@ -378,7 +378,7 @@ camus
 closecross
 combater
 candytuft
-counterresolution
+counterresolution 1
 chernozemic
 cosmeticize
 croisette
