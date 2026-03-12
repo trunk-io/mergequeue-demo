@@ -17081,7 +17081,7 @@ armoracia
 axonophora
 antiplanet
 asconoid
-absist
+absist 1
 alteza
 aminoanthraquinone
 aegean
