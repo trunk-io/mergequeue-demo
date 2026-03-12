@@ -18820,7 +18820,7 @@ alecost
 antitypic
 ajourise
 armourers
-arthrotyphoid
+arthrotyphoid 1
 acidulent
 appointee
 adjectivitis
