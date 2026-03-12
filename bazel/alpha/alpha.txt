@@ -19211,7 +19211,7 @@ assith
 algenib
 autolaryngoscopy
 aphonic
-antipatharia
+antipatharia 1
 angara
 amative 1
 anagrammed 1
