@@ -7061,7 +7061,7 @@ deictic
 dissociant
 demonstratively
 directions
-denyingly
+denyingly 1
 dubiously
 dehydrogenating
 dermatophytosis 1
