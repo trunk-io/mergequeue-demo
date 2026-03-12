@@ -9778,7 +9778,7 @@ battels
 bescatter
 beldams
 blowcase
-bronc
+bronc 1
 backtrail
 begalls
 blubberer
