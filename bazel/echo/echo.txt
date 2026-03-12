@@ -356,7 +356,7 @@ extravagate
 encolor 1
 ecchondroma
 emits
-erythematous
+erythematous 1
 excitability
 esculent
 ergatandrous
