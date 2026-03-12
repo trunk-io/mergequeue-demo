@@ -1422,7 +1422,7 @@ bogeying
 bruins
 bedust 1
 balistes
-balistid
+balistid 1
 beryllium
 bagpudding
 buckra
