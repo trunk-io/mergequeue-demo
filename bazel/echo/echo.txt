@@ -1759,7 +1759,7 @@ epiplanktonic
 eimak
 euglandina
 ephydriad
-errantia
+errantia 1
 eyl
 existed
 eloigner
