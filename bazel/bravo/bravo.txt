@@ -15196,7 +15196,7 @@ bolognese
 brotula
 bailiary
 bhangs
-backarrow
+backarrow 1
 biradiated 2
 blastospheric
 bodiment

@@ -10768,7 +10768,7 @@ delegati
 dard
 drabby
 doodlesack
-deceleration
+deceleration 1
 downbeat
 demele
 despisable
