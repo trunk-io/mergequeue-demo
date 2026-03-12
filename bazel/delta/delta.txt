@@ -6730,7 +6730,7 @@ daedal
 descrive
 dogfighting
 dominants
-dolmens
+dolmens 1
 dwellers
 deltoideus
 downslope
