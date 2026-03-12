@@ -17780,7 +17780,7 @@ applicableness
 afer
 aftereye
 asilid
-ambilaterality
+ambilaterality 1
 addressees
 acquittal
 acrocyst
