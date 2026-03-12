@@ -19277,7 +19277,7 @@ arete
 assert
 anklebones
 average
-allalinite
+allalinite 1
 aphrodisiomaniacal
 attackingly
 abovedeck
