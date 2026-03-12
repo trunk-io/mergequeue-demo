@@ -1516,7 +1516,7 @@ callisaurus
 candlestickward
 callisteia
 callistephus
-cossid
+cossid 1
 cenotaphic
 charactering
 cynanche
