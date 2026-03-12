@@ -11153,7 +11153,7 @@ chemoses
 concolor
 caman
 caboclo
-chiros
+chiros 1
 chirotherian
 caenogaea
 cypseliformes
