@@ -10568,7 +10568,7 @@ bunkerage
 bespangle 1
 basking
 bluffs
-browbeats
+browbeats 1
 bogwort
 blathered
 bigg
