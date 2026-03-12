@@ -2503,7 +2503,7 @@ euphonies
 earthshaking
 epenthesis
 egressive
-eightball
+eightball 1
 ecstrophy 1
 eulogizing
 endorsing
