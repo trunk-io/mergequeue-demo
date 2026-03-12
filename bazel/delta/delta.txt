@@ -10311,7 +10311,7 @@ dodder
 dripless
 dacryolin
 destalinization
-dimities
+dimities 1
 desugar
 disthrall
 diverts
