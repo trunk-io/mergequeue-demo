@@ -8910,7 +8910,7 @@ epistatic
 entanglement
 eucaryotic
 eyewear
-equipollent
+equipollent 1
 ectocornea
 ephippial
 encinal
