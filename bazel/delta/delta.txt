@@ -2013,7 +2013,7 @@ diverberate
 divulgating
 dayward
 dumpage
-deformability
+deformability 1
 delicts
 diambic
 designado
