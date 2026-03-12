@@ -9620,7 +9620,7 @@ elateroid
 elaphodus
 emboli
 entrance
-enface
+enface 1
 egestive
 epimerizing
 erasable
