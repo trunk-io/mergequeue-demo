@@ -12462,7 +12462,7 @@ excursus
 endpaper
 eranthemum
 esplees
-exodic
+exodic 1
 effervescingly
 espieglerie
 erade
