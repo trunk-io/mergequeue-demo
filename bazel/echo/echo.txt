@@ -4754,7 +4754,7 @@ eventides
 estrus
 enrange 1
 emergencies
-endearment
+endearment 1
 eliasite
 electrosurgically
 emyd
