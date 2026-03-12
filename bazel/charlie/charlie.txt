@@ -4913,7 +4913,7 @@ carucarius
 carucate
 cylices
 carunculae
-chunkhead
+chunkhead 1
 crowbars
 cyaphenine
 cohue 1
