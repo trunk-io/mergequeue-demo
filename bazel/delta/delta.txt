@@ -17276,7 +17276,7 @@ diagnose
 diskless
 declimatize
 dan
-dinged
+dinged 1
 dromoi
 dibasicity
 dandyish
