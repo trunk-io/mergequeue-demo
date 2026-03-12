@@ -3718,7 +3718,7 @@ brushlike
 bryophytic
 baghouse
 bishoplike
-bulldoze
+bulldoze 1
 botryoid
 blanc
 browny
