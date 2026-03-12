@@ -5697,7 +5697,7 @@ decaesarize
 dentalism
 downdale
 danknesses
-demeanored
+demeanored 1
 distemperment
 despoil
 diel
