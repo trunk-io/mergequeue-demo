@@ -17021,7 +17021,7 @@ baigneuses
 bigot
 bannerette
 but
-bordure
+bordure 1
 bist
 bespeakable
 beshadows
