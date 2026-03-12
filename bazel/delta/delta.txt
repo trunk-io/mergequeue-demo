@@ -8172,7 +8172,7 @@ denaries
 defecate
 degausses
 delineatory
-driftpin
+driftpin 1
 diospyros
 disparple 1
 doliidae
