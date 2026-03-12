@@ -13472,7 +13472,7 @@ bodoni
 blackmailer
 banqueters
 boloed
-bengalic
+bengalic 1
 balachan
 buckramed
 bacterioscopic
