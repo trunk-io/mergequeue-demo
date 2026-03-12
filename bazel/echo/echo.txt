@@ -6387,7 +6387,7 @@ euphemism
 encrypts
 extramarginal
 electrosynthesis
-exudatory
+exudatory 1
 execute
 ebonizes
 embark
