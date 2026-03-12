@@ -1649,7 +1649,7 @@ cozened
 calorifier
 chamisal
 caschrom
-calorist
+calorist 1
 codable
 cawing
 confiteor
