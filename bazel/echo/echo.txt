@@ -13347,7 +13347,7 @@ etrogim
 expectoration
 enfonce
 eclogic 1
-epicyclic
+epicyclic 1
 emydosaurian
 empoisoner
 exogenism
