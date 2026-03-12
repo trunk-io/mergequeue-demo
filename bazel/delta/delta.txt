@@ -5849,7 +5849,7 @@ datival
 debonaire
 dindymene
 duckweeds
-dipneumonous
+dipneumonous 1
 decastich
 dupondii
 demit
