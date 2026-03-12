@@ -15900,7 +15900,7 @@ dorsiduct 1
 daphnad
 dentalia
 defectum
-dendroid
+dendroid 1
 detects
 depancreatize
 dowitch
