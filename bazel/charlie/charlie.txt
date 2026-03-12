@@ -7363,7 +7363,7 @@ cholent
 conehead
 chlorimetry
 chaperoned
-clamper
+clamper 1
 choroidoiritis
 cracker
 chlamys
