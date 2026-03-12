@@ -13179,7 +13179,7 @@ despin
 donar
 det
 diaphanometry
-duiker
+duiker 1
 disavowable
 discoverability
 dormant
