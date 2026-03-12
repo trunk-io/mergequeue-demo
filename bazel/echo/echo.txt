@@ -4456,7 +4456,7 @@ epimachinae
 exposes
 enregister
 embedded
-entom
+entom 1
 empennage
 epirogeny
 epicentrums
