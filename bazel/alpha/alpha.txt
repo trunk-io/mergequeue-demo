@@ -21967,7 +21967,7 @@ antiman
 atlee
 aker
 afflict
-allover
+allover 1
 aphorismos
 accentless
 ardeidae
