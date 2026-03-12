@@ -16460,7 +16460,7 @@ dactylitic
 diaphorite
 dozzle
 degradedness 1
-decarboxylation
+decarboxylation 1
 decerning
 disharmonies
 disoxygenate
