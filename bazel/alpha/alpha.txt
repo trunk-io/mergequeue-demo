@@ -1380,7 +1380,7 @@ apaesthetize
 absenters
 ancodont
 accretive
-actinostereoscopy
+actinostereoscopy 1
 agonizes 1
 accosted
 ancients
