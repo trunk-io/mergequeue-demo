@@ -9257,7 +9257,7 @@ artificer
 avshar
 adenophore
 axiomatize
-azole
+azole 1
 amulet 1
 alraun
 aerocyst
