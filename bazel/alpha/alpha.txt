@@ -6331,7 +6331,7 @@ advice
 archy
 arctos
 arthrodire
-autoclaves
+autoclaves 1
 animalculous
 addlebrain
 alkool
