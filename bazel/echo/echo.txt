@@ -8021,7 +8021,7 @@ editchar
 earscrew
 encephalothlipsis
 exultet
-eparchs
+eparchs 1
 exponentiate
 epees
 euktolite
