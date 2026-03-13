@@ -1266,7 +1266,7 @@ antidynastical
 allowableness
 acaulescence
 adelite
-acaulescent
+acaulescent 1
 agrimonia
 administered
 accelerable
