@@ -13602,7 +13602,7 @@ excavates
 exfetation
 epiglottic
 eyepieces 1
-exrx
+exrx 1
 engorging
 expectorant
 exocentric
