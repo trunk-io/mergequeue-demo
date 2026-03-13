@@ -7223,7 +7223,7 @@ daygoing
 declinometer
 derides
 deeryards
-desynchronizing
+desynchronizing 1
 destroy
 druggy
 disinheritable
