@@ -5371,7 +5371,7 @@ drowners
 didepside
 deafened
 delftware
-divots
+divots 1
 daiva
 dislocated
 disconanthae
