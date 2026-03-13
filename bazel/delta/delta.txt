@@ -6754,7 +6754,7 @@ desulphuration
 dockize
 displayer
 dovelet
-deportations
+deportations 1
 dunting
 dentello
 depreciate
