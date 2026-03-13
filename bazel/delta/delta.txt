@@ -11506,7 +11506,7 @@ dietician
 dooley
 distorted
 doweral
-disenchant
+disenchant 1
 diplomaed
 desired
 didler
