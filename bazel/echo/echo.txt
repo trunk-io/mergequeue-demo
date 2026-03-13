@@ -9404,7 +9404,7 @@ exodos
 euchromosome
 ecb
 equality
-ends
+ends 1
 elvet
 ensorceling
 entoil 1
