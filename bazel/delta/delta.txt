@@ -7720,7 +7720,7 @@ deadweight
 dumpy
 discatter
 dispossessory
-demons
+demons 1
 durandarte
 devalues
 detracter
