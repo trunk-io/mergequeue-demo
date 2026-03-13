@@ -992,7 +992,7 @@ dypnone
 darker
 dillis
 dhootis
-dimna
+dimna 1
 duplicando
 desulfured
 dicolic
