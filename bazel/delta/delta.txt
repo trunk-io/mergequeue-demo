@@ -9927,7 +9927,7 @@ diapiric
 defiler
 dochmiac
 dextrad
-diner
+diner 1
 daffodillies
 dcbname
 disadvising
