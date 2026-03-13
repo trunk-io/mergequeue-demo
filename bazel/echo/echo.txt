@@ -4857,7 +4857,7 @@ exuberantness
 epigonus
 edgeway
 erept
-excusatory
+excusatory 1
 exorbitantly
 encode
 ectogeneous 1
