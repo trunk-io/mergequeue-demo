@@ -7333,7 +7333,7 @@ enterprise
 electrofusion
 entrochite
 embryoplastic
-enlarge
+enlarge 1
 episcopable
 extolled
 economization
