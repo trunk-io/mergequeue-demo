@@ -9099,7 +9099,7 @@ dialyzer
 dissocial
 daybeds 1
 desmocyte
-diplococcemia
+diplococcemia 1
 dolichosauria 1
 dardani
 divisive 1
