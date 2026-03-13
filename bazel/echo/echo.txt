@@ -2913,7 +2913,7 @@ endotheliomata
 evangelistship
 eviction
 elbowroom
-exarchist
+exarchist 1
 emergently
 episiorrhaphy
 epicolic
