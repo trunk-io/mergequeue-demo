@@ -11068,7 +11068,7 @@ emu
 edelweiss
 exhuming
 epilobe 1
-epithecial
+epithecial 1
 embolus
 esothyropexy
 extradite

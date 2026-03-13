@@ -17602,7 +17602,7 @@ decare
 directives
 depletion
 dealated
-dominancy
+dominancy 1
 dimiss
 diplomates
 disapprovingly
