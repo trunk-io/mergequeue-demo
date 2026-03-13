@@ -12740,7 +12740,7 @@ debts
 disembarrassment
 dewdrops
 digammate
-detailed
+detailed 1
 drightin
 describe
 dasyatidae
