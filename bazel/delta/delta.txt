@@ -3342,7 +3342,7 @@ dhyana
 declinature
 deprostrate
 dicentras 1
-dumbfoundment
+dumbfoundment 1
 doggers
 dizygous
 dearsenicate
