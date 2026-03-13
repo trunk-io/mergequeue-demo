@@ -6320,7 +6320,7 @@ enquiry
 enchurch
 enwind
 european
-endosmometric
+endosmometric 1
 exogonium
 excentrical
 enterally
