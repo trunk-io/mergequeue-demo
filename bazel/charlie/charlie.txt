@@ -10653,7 +10653,7 @@ chicnesses
 chiles
 curries
 chyles
-crepine
+crepine 1
 chiliahedron
 converter
 compellably
