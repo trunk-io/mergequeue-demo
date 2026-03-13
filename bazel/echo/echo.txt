@@ -1186,7 +1186,7 @@ expungeable
 estancias
 extractibility
 encoronal
-eruptivity
+eruptivity 1
 electroplax
 ensheath
 endeavored
