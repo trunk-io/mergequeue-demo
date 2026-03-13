@@ -8083,7 +8083,7 @@ arfillite 1
 alchemies
 abstainment
 anthericum
-adorant
+adorant 1
 advisably
 aerosolization
 agammaglobulinemic
