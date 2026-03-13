@@ -3914,7 +3914,7 @@ disinvolve
 disocclude
 diiodid
 demagnetizable
-deuteranope
+deuteranope 1
 discontinuance
 divagations
 deicers

@@ -5583,7 +5583,7 @@ earflap
 earlships 1
 expansionist
 ensnarements
-ebulliently
+ebulliently 1
 eggwhisk
 eskimoic
 eudaimonism
