@@ -1022,7 +1022,7 @@ destandardize
 directive
 devolatilising
 dynamoscope 1
-dural
+dural 1
 dampproof
 discounting
 disrespectable
