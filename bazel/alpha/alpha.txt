@@ -5340,7 +5340,7 @@ appalachian
 agathodemon
 artless
 acquitment
-archaicness
+archaicness 1
 actinophore
 aftonian
 aneurine
