@@ -12679,7 +12679,7 @@ bonasus
 boreable
 bartram
 basaltine
-bumpsy
+bumpsy 1
 bachelorwise
 bulleting
 brasero
