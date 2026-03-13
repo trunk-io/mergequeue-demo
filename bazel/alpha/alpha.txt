@@ -15590,7 +15590,7 @@ ardea
 astromancer
 abound 1
 alas
-aranyaka
+aranyaka 1
 antagonisms
 ahypnia
 arf
