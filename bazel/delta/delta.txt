@@ -15668,7 +15668,7 @@ deboss
 doweries
 dasypodidae
 deconsecrate
-desertion
+desertion 1
 doubts
 dowl
 dagga
