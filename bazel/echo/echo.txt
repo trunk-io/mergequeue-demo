@@ -2699,7 +2699,7 @@ eight
 ecthyma
 enjambed
 eon
-ebcdic
+ebcdic 1
 ensnarling
 etiam
 extravagation 1
