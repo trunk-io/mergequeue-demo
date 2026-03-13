@@ -1682,7 +1682,7 @@ binomials
 blackbrush
 billeter
 beautyship
-bogie
+bogie 1
 barble
 branchiostege
 bryan
