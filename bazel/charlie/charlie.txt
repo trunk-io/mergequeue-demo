@@ -24653,7 +24653,7 @@ chrysalides
 cede
 coinherent
 cope
-cappers
+cappers 1
 coetaneously
 copelata
 chinners
