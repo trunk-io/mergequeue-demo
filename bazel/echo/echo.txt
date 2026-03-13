@@ -5044,7 +5044,7 @@ exemptions
 exsection
 eights
 eschaufe
-ethanim
+ethanim 1
 exsuscitate
 exophthalmic
 elfinwood
