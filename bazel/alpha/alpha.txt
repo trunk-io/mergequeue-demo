@@ -1659,7 +1659,7 @@ antitwilight
 asphyxies
 aromata
 acedias
-accustomize
+accustomize 1
 actionless
 autopathy
 antipathist
