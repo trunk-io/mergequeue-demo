@@ -15588,7 +15588,7 @@ adeps
 apiary
 ardea
 astromancer
-abound
+abound 1
 alas
 aranyaka
 antagonisms
