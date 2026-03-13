@@ -2193,7 +2193,7 @@ demiorbit
 dorsula 1
 dissatisfactory
 diagenetic
-doddypoll
+doddypoll 1
 dyserethisia
 diathermy
 dadaistically
