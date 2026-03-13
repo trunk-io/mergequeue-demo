@@ -9414,7 +9414,7 @@ demioctagonal
 divelled
 dialector
 dulat
-disaffiliate
+disaffiliate 1
 decalog
 discouraged
 dogmatised
