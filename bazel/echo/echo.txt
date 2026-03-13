@@ -3193,7 +3193,7 @@ errors
 exclusion
 emperize
 epitomizer
-ecclesiologic
+ecclesiologic 1
 extensimeter
 evertor
 euploeinae
