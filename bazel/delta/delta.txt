@@ -4171,7 +4171,7 @@ deliverance
 draughtsmen
 dodonian
 dispirem
-doorsill
+doorsill 1
 dipteros
 diadems
 dirian
@@ -7677,7 +7677,7 @@ dutiful
 dorsel
 dragonade
 dodecasemic
-didymus
+didymus 1
 disgarrison
 destinations
 diestrous
@@ -14857,7 +14857,7 @@ delicateness
 desertions
 distritbuted
 drafters
-descends 1
+descends 2
 druidisms
 devitalise
 dogie
@@ -17488,7 +17488,7 @@ discing
 decongestive
 diswarrening
 drumline
-diatomous
+diatomous 1
 daemonistic
 disquiets
 dehache

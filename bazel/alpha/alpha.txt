@@ -1224,7 +1224,7 @@ astraphobia
 aeromedicine
 atelocardia
 aethereal
-aphidozer
+aphidozer 1
 amylate
 antihemisphere
 antechambers
@@ -15525,7 +15525,7 @@ accordatura
 antiques
 antenniform
 antidotary
-acetaldehydrase
+acetaldehydrase 1
 antemetallic
 afront
 astrochemist
@@ -24802,7 +24802,7 @@ angioasthenia
 antihumanism
 acidometry
 adsignification
-attentate
+attentate 1
 assuages
 abler
 amphisbaenidae
