@@ -25256,7 +25256,7 @@ canonries
 cablelike
 castellate
 chlorophyllaceous
-countersigning
+countersigning 1
 chastise
 cantaloupe
 corge
