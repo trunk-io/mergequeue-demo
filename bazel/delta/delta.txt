@@ -15346,7 +15346,7 @@ defenestrate
 decilitre
 diphyes
 devance
-domains
+domains 1
 demal
 deinodon
 disanoint
