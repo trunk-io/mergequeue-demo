@@ -1249,7 +1249,7 @@ balander
 broomroot
 blockboard
 burrio
-byssine
+byssine 1
 benzopyranyl
 botryomycoma
 butyrinase
