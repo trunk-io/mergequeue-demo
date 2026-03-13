@@ -1321,7 +1321,7 @@ diencephalon
 doubles
 diploid
 devanagari
-dimity
+dimity 1
 debitrix
 dialecticism
 dichotomized
