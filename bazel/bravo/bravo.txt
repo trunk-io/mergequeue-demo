@@ -9726,7 +9726,7 @@ beguine
 bladderpod
 backslaps
 boldfacing
-bitmapped
+bitmapped 1
 bismuthal
 bedeafened
 bareback
