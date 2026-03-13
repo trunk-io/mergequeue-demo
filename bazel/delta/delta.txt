@@ -12299,7 +12299,7 @@ dataflow
 deactivated
 decastere
 diaristic
-disqualifies
+disqualifies 1
 downright
 dayroom
 donatio
