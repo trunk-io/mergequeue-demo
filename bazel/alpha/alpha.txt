@@ -21855,7 +21855,7 @@ acrologic
 analyse
 amylocellulose
 arisard
-amebas
+amebas 1
 asymptotes
 amulae
 apoapsis
