@@ -16623,7 +16623,7 @@ drate
 desiccated
 dowdy
 disclaims
-damnously
+damnously 1
 dissimilated
 diffrangible
 dinars
