@@ -11635,7 +11635,7 @@ dimetallic
 dodrantal
 deserves
 declinational
-dissatisfiedness
+dissatisfiedness 1
 deadlatch
 dambonite
 depulse
