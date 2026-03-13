@@ -14379,7 +14379,7 @@ antefixes
 antitypy
 auspicate
 antemask
-arraigning
+arraigning 1
 adenoviruses
 adhibits
 antonomastically
