@@ -2432,7 +2432,7 @@ blusher
 bankrolls
 blindfolded
 bursas
-besogne
+besogne 1
 beaverteen
 brigaded
 brassidic
