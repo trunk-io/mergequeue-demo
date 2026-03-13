@@ -4772,7 +4772,7 @@ enneads
 eliminability
 eleutherism
 eunuchal
-excite
+excite 1
 exulted
 etherifies
 etherealising
