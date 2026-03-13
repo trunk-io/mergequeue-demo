@@ -7104,7 +7104,7 @@ eigh
 exemplifies
 esloign
 econometric
-electrophoric
+electrophoric 1
 embue
 epimerite
 extramural
