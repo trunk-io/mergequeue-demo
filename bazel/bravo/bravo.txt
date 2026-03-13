@@ -14862,7 +14862,7 @@ bawdiness
 buzzwigs 1
 bullocky
 bockeret
-burlesks
+burlesks 1
 bonnetmen
 blitheness
 bartends
