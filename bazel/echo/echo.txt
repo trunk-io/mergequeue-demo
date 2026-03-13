@@ -1717,7 +1717,7 @@ earworm
 euclidean
 evg
 equitemporal 1
-evensong
+evensong 1
 enumerators
 enacting
 exercitorial
