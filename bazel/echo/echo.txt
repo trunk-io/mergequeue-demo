@@ -5988,7 +5988,7 @@ emforth
 endamagement
 extravaginal
 enneateric
-exadverso
+exadverso 1
 endamoebidae
 exanthema 1
 exigence
