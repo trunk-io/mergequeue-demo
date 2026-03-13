@@ -12815,7 +12815,7 @@ deponer 1
 deft 1
 drainageway
 diversifies
-dentagra
+dentagra 1
 dories 1
 decumana
 dowry
