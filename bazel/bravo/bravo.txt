@@ -7827,7 +7827,7 @@ brustling
 basilica
 birdling
 broadswords
-baltimorean
+baltimorean 1
 borazon
 behelp 1
 beclamors
