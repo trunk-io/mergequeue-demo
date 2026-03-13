@@ -13063,7 +13063,7 @@ discriminations
 disruptability
 daggletailed
 decelerators
-daphnephoria
+daphnephoria 1
 disroost
 deaccessioned
 dryopithecinae 1
