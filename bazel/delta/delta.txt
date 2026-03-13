@@ -11462,7 +11462,7 @@ demijohns 1
 disable
 documenters
 decadentism
-dastardy
+dastardy 1
 dahomey
 divulgence
 dually
