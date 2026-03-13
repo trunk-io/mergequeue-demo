@@ -18520,7 +18520,7 @@ disguiser
 deuterogenic
 demiseason
 detract
-durations
+durations 1
 downgrading
 durative
 dryopithecid
