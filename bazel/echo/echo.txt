@@ -3412,7 +3412,7 @@ envy
 electromeric
 eloquent
 edges
-expansibleness
+expansibleness 1
 equestriennes 1
 executing
 exteriors
