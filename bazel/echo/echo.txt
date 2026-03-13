@@ -12194,7 +12194,7 @@ erosive
 enforce
 epineurium
 encephalartos
-eledoisin
+eledoisin 1
 enticers
 everything
 elaphoglossum
