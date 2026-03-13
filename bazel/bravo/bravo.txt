@@ -10632,7 +10632,7 @@ bushwah
 balistarius
 bereft
 bugeyed
-bradykinetic
+bradykinetic 1
 brember
 blockhole
 bakshaish
