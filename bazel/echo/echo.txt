@@ -2703,7 +2703,7 @@ ebcdic 1
 ensnarling
 etiam
 extravagation 1
-ersh
+ersh 1
 etiquettical
 endosarc
 elytrocele
