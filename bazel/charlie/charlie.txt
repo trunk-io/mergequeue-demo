@@ -4909,7 +4909,7 @@ cartwheeler
 calash
 colophonist
 cohanims
-carucarius
+carucarius 1
 carucate
 cylices
 carunculae
