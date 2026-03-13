@@ -17025,7 +17025,7 @@ bordure 1
 bist
 bespeakable
 beshadows
-bulb
+bulb 1
 betanaphthol
 backboneless
 brindlish
