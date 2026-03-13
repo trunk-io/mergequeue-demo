@@ -416,7 +416,7 @@ dihydrated
 dendra
 daimyos
 drinkers
-degasify
+degasify 1
 dactylopterus
 deployable
 dowcote
