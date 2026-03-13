@@ -7323,7 +7323,7 @@ decomposite
 disillusionising
 dimmock
 doppio
-dispellable
+dispellable 1
 deadheads
 dottiest
 discomycetes
