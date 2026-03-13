@@ -2693,7 +2693,7 @@ empalers
 erosible
 endures
 ethnographic
-encores
+encores 1
 echeneididae
 eight
 ecthyma
