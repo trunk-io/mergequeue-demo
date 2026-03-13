@@ -25751,7 +25751,7 @@ closestool
 corpulentness
 crotalum
 corpuscularian
-caledonite
+caledonite 1
 confinedness
 concurring
 completed 1
