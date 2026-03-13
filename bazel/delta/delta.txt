@@ -1009,7 +1009,7 @@ divergence 1
 despumated
 discountenances
 decadent
-dreariness
+dreariness 1
 dozily
 disulfuret
 dynamos
