@@ -10312,7 +10312,7 @@ dripless
 dacryolin 1
 destalinization
 dimities
-desugar
+desugar 1
 disthrall
 diverts
 draperies

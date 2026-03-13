@@ -8733,7 +8733,7 @@ evaporativity
 essenhout
 exuberancy
 embroiderer
-explosible
+explosible 1
 ephemerality
 entrenched
 epidendrum 1
