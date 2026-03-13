@@ -17557,7 +17557,7 @@ couplers
 cosonant
 capiturlary
 choreas
-coca
+coca 1
 coempt
 crofts
 charismata
