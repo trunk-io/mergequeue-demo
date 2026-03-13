@@ -3243,7 +3243,7 @@ declinable
 dorsale
 declinograph
 discourteously
-derelinquendi
+derelinquendi 1
 dichasia
 diosmotic
 defencive
