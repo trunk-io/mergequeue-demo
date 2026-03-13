@@ -8351,7 +8351,7 @@ diadochy
 damasked
 detect 1
 disenthroning
-dislikable
+dislikable 1
 dealation
 diacritical
 dinks
