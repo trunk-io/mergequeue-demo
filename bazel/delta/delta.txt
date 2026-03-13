@@ -14437,7 +14437,7 @@ denizens 1
 dentural
 decentralist
 disminion
-deprecators
+deprecators 1
 dyslalia
 dragshoe
 desterilized
