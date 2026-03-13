@@ -2805,7 +2805,7 @@ emandibulate
 epilogistic 1
 eyehole
 edgemaking
-excerptive
+excerptive 1
 elderwort
 editorialization
 electrocardiographically
