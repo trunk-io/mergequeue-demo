@@ -13626,7 +13626,7 @@ breakout
 buncher
 bekisses
 balmonies
-bite
+bite 1
 beclouding
 byzant 1
 bullionist
