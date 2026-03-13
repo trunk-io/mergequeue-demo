@@ -13967,7 +13967,7 @@ endosteal
 elecampane
 exulcerated
 eradicated
-encapsuling
+encapsuling 1
 exactitude
 echinus
 effluvial 1
