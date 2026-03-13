@@ -31774,7 +31774,7 @@ cutaways
 conarium
 corrodent
 calorite
-cognatus
+cognatus 1
 cabal 1
 corrosivity
 chromosomally
