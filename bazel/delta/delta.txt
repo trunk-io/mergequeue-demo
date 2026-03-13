@@ -12427,7 +12427,7 @@ donjons
 diffusimeter
 deoxidizer
 decries
-diagnosticating
+diagnosticating 1
 demulceate
 dermonecrotic
 didymiums
