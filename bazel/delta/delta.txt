@@ -10703,7 +10703,7 @@ dirges
 duplexers
 deputationize
 destroyer
-dispensative
+dispensative 1
 doorplates
 devaul
 deselect
