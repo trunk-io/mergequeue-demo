@@ -23249,7 +23249,7 @@ capricorn
 chuddahs
 cynosures
 courtside
-colligative
+colligative 1
 conatural
 coetaneousness
 cibophobiafood
