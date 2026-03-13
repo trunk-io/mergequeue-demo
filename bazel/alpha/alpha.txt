@@ -21536,7 +21536,7 @@ attritus
 assonant
 articulars
 anathematical
-aspirates
+aspirates 1
 ambrosine
 aloeroot
 anguilloid
