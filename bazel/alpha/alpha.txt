@@ -2226,7 +2226,7 @@ apathistical
 anticardium
 acinic
 atocha
-adjurors
+adjurors 1
 appraisable
 aggrate
 aedes
