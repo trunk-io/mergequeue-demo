@@ -12626,7 +12626,7 @@ exceeds
 equivoque
 exdelicto
 epirot 1
-epidermis
+epidermis 1
 enharmonic
 equinoctial
 encrusting
