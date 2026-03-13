@@ -5429,7 +5429,7 @@ emulsin
 encomiendas
 expands
 ebulus
-eulogism
+eulogism 1
 extravertively
 extractant
 envisaged
