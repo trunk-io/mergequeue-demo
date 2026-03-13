@@ -10577,7 +10577,7 @@ ephods
 exploded
 enceint
 educator
-englify
+englify 1
 epithyme
 enhaloes
 epidotization
