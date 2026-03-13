@@ -17834,7 +17834,7 @@ donatist
 deathrate
 dysacousia
 diplomatology
-demurred
+demurred 1
 decapitating
 dipterology
 disfrocked
