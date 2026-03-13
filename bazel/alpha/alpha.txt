@@ -9450,7 +9450,7 @@ alphyls
 argots
 angoras
 autocamper
-antistrophic
+antistrophic 1
 assonance 1
 antiscorbutic
 archaeostoma
