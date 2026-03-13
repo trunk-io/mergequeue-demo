@@ -10787,7 +10787,7 @@ attaint 1
 arcadia
 apios
 africanthropus
-ayond
+ayond 1
 awide
 altaltissimo
 antisera
