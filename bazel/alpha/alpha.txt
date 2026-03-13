@@ -6265,7 +6265,7 @@ allylic
 acetylthymol
 amantadine 1
 anthocarp
-anticked
+anticked 1
 auryl
 accubitus
 anencephalotrophia
