@@ -18248,7 +18248,7 @@ corneas
 copeman
 coexpand
 coexpanded
-coextends
+coextends 1
 chessboards
 checkmate
 castrating
