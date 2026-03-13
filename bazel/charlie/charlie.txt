@@ -27678,7 +27678,7 @@ canteen
 cowmen
 carbonize
 clavately
-clepsydrae
+clepsydrae 1
 covey
 chugalugging
 covelline
