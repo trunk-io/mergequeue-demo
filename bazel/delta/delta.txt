@@ -10510,7 +10510,7 @@ dilapidator
 demurrers
 depressives
 diether
-dependencies
+dependencies 1
 densitometric
 depreciators
 dexies
