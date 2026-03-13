@@ -21711,7 +21711,7 @@ annotation
 applosive 1
 amusedly
 affluent 1
-aquanauts
+aquanauts 1
 anachronismatical
 alchemical
 arhythmic
