@@ -16242,7 +16242,7 @@ burgeons
 bacchiac
 burntweed
 boltstrake
-buckteeth
+buckteeth 1
 bullies
 behalves
 brothellike
