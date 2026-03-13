@@ -215,7 +215,7 @@ bonedry
 bandy 1
 brython
 bitt
-bayards
+bayards 1
 bubble
 bluffness
 basongo
