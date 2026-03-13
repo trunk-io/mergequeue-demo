@@ -11637,7 +11637,7 @@ deserves
 declinational
 dissatisfiedness 1
 deadlatch
-dambonite
+dambonite 1
 depulse
 dement
 diosgenin
