@@ -8623,7 +8623,7 @@ concinnously
 clithridiate
 cyclonically
 compositionally
-chance
+chance 1
 collateralize
 caplock 1
 concludently
