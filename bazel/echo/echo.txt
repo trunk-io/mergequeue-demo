@@ -940,7 +940,7 @@ electronegative 1
 eternals
 epanalepsis 1
 electroshock
-epinastically
+epinastically 1
 extraregular
 earnest
 equidist
