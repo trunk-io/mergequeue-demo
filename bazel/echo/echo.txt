@@ -12240,7 +12240,7 @@ eclosions 1
 exhumations
 eyer
 examinability
-electrizable
+electrizable 1
 elatery
 exemption
 extorsion
