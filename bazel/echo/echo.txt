@@ -12980,7 +12980,7 @@ evaded
 endamask
 ebenaceous
 envelopes
-efficiencies
+efficiencies 1
 elephant
 emetology
 ec
