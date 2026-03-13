@@ -10692,7 +10692,7 @@ derv 1
 debriefed
 dialogged
 disbalancement
-debellation
+debellation 1
 dopper
 disesteemed
 duler
