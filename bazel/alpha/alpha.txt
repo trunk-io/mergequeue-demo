@@ -5407,7 +5407,7 @@ aquapuncture
 abscision
 antennata
 anthracnose
-adjust
+adjust 1
 assoils
 aver
 anisate
