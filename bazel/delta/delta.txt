@@ -2781,7 +2781,7 @@ disinsectization
 draconitic
 difficultness
 disperge
-dechristianize
+dechristianize 1
 darwinism
 demythologize
 douse
