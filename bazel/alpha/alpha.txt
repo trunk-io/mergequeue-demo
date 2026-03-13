@@ -18728,7 +18728,7 @@ archisperm
 atatschite
 assassinating
 absorb
-across
+across 1
 algates
 automatizes
 aflagellar
