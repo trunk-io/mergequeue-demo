@@ -8860,6 +8860,7 @@ ebon
 exopterygota
 equational
 eightvo
+enwrap
 estivate
 enouncing
 epigonos
@@ -12061,7 +12062,6 @@ elicitors
 equimolal 1
 ephemerist
 eviternal
-enwrap
 ever
 exurbias
 emplaster
