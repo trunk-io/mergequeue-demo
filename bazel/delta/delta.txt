@@ -5053,7 +5053,7 @@ departs
 demonry
 dartingness
 depauperate
-defaming
+defaming 1
 dele
 delves
 delouses
