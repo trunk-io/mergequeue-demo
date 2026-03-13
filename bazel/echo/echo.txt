@@ -8664,7 +8664,7 @@ erianthus
 epilachna
 equipotential
 espacement
-efforts
+efforts 1
 elaborative
 engl
 equidistantial
