@@ -8671,7 +8671,7 @@ equidistantial
 epapillate
 ethnoflora
 exitus
-entiris
+entiris 1
 encephalomyelitic
 electros
 euorthoptera
