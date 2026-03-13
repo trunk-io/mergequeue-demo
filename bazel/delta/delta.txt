@@ -12137,7 +12137,7 @@ dargah 1
 downstroke
 disemplane
 detour
-disenshroud
+disenshroud 1
 disengaging
 diallelus
 dimera
