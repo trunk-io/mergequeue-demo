@@ -614,7 +614,7 @@ dracontine
 discommodities
 disinheritances
 deposes
-deprivement
+deprivement 1
 disrank
 discommoding
 devocalise
