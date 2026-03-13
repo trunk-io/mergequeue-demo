@@ -18225,7 +18225,7 @@ drypoints
 dungarees
 demioctangular
 deuteromorphic
-drinkableness
+drinkableness 1
 discriminatingly
 dipsomaniacal
 dactylioglyphic
