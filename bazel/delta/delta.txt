@@ -12586,7 +12586,7 @@ dognap
 domicil
 derma 1
 docken
-dubby
+dubby 1
 displeasingly
 dungier 1
 dolts
