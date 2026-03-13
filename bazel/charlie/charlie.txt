@@ -6132,7 +6132,7 @@ celiotomy
 coxswain
 clown
 centimos
-clathraceous
+clathraceous 1
 corrobori
 countercurrent
 ciboule
