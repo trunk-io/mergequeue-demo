@@ -14984,7 +14984,7 @@ deodand 1
 disfranchise
 dihexahedral
 disobediently
-disownable
+disownable 1
 dorsiflexor
 dipeptide 1
 discomposedly
