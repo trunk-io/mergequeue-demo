@@ -6472,7 +6472,7 @@ dephlegmatory
 decree
 deflagrability
 damner
-disboweled
+disboweled 1
 dissenter
 distributer
 disseminating
