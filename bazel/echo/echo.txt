@@ -1995,7 +1995,7 @@ eudaemony
 embroiling
 extensor
 eugenics
-emulousness
+emulousness 1
 endjunk
 elsewards
 embroil
