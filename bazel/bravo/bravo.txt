@@ -871,7 +871,7 @@ bakeout
 bushelbasket
 bedposts
 bantamize
-bannered
+bannered 1
 bumperette
 blobbed
 biaxially
