@@ -11406,7 +11406,7 @@ eponyms
 exacerbating
 enteroparalysis
 ensiferi
-exactable
+exactable 1
 etymological
 exactas
 encashes
