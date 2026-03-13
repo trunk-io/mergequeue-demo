@@ -10303,7 +10303,7 @@ antierosive
 antshrike 1
 ascidiozooid
 anchorets
-anathematise
+anathematise 1
 ametropia
 antony
 adventure
