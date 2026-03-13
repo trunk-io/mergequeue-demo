@@ -12468,7 +12468,7 @@ beggarlike
 baldric
 bawdier
 bless
-biophor
+biophor 1
 bechained
 bullsnake
 braids
