@@ -29431,7 +29431,7 @@ chanter
 chorographic
 contrails
 chaotically
-confineable
+confineable 1
 cryophoric
 confinedly
 crypturi
