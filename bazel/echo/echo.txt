@@ -8889,7 +8889,7 @@ envermeil
 emptier
 eremurus
 enspheres
-exclusivity
+exclusivity 1
 edaphology
 eelier
 evaginable
