@@ -11655,7 +11655,7 @@ borschts
 bodyplate
 bighorns
 boardings
-benefact
+benefact 1
 bismutosphaerite
 bubastite
 bodilessness
