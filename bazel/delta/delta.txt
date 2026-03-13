@@ -13731,7 +13731,7 @@ dashnaktzutiun
 demagnetiser
 decius
 defense
-depreciatory
+depreciatory 1
 desiderium
 dermatocoptic
 dressy
