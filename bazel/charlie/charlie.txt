@@ -22141,7 +22141,7 @@ cagy
 carpocephalum
 configure
 confine
-comports
+comports 1
 cerotin
 confined
 comradeliness
