@@ -7603,7 +7603,7 @@ equipendent
 expirers
 epidemiologic
 euthenist
-epistolizable
+epistolizable 1
 eggers
 eternisation
 entincture
