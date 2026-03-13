@@ -3818,7 +3818,7 @@ clods
 coreless
 conceded
 catatonias
-chuckrum
+chuckrum 1
 corolitic
 core
 carbuncular
