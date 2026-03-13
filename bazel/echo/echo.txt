@@ -9295,7 +9295,7 @@ encompasses
 eulamellibranchiata
 epiglottis
 equipondious
-endocondensation
+endocondensation 1
 electrothermal
 embellishments
 eelgrasses
