@@ -20777,7 +20777,7 @@ catenulate
 collut
 comm
 consistories
-cumulate
+cumulate 1
 clerkish 1
 cestode
 coalface
