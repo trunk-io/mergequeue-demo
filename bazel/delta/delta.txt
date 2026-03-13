@@ -13177,7 +13177,7 @@ dothideaceous
 dft
 despin
 donar
-det
+det 1
 diaphanometry
 duiker 1
 disavowable
