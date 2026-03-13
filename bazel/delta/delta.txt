@@ -11014,7 +11014,7 @@ douane
 distasting 1
 datiscosid
 depa
-diathermometer
+diathermometer 1
 desmotrope
 dogget
 defluvium
