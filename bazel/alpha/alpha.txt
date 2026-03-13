@@ -11379,7 +11379,7 @@ adagios
 almanac
 aphanitism
 admonitrix
-amsel
+amsel 1
 aglow
 absumption
 acuaesthesia
