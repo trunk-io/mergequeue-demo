@@ -4415,7 +4415,7 @@ aedeagi
 antimethod
 anaesthesiologist
 augurer
-absey
+absey 1
 argot
 adject
 aediles
