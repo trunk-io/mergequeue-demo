@@ -5394,7 +5394,7 @@ calculate
 corrupter
 contested
 cyclopedia
-conductances
+conductances 1
 clubbishness
 cathodoluminescence
 counterman
