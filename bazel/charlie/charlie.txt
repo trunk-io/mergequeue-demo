@@ -5295,7 +5295,7 @@ conforms
 capitalizer
 coactive
 cyanformic
-castellum
+castellum 1
 columellar
 cratered
 compositors
