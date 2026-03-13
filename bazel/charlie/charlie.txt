@@ -2680,7 +2680,7 @@ circumcission
 coenocytic
 canned
 cannellate
-curable
+curable 1
 chromochalcographic
 caducibranch
 connascency
