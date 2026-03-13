@@ -8752,7 +8752,7 @@ automower
 archdeacon
 alcoholizable
 abysses
-anastatus
+anastatus 1
 appestat
 aerator
 angerless
