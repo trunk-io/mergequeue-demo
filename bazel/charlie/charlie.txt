@@ -9318,7 +9318,7 @@ catso
 condition
 cruciality
 chassepots
-chiarooscurist
+chiarooscurist 1
 cururo
 clinometric
 czarism
