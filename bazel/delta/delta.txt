@@ -4710,7 +4710,7 @@ doorways
 diwans
 dah
 dependent
-dustyfoot 1
+dustyfoot 2
 demilitarization
 demand
 darbs
