@@ -27046,7 +27046,7 @@ congeries
 cesural
 cassoon
 counterguard
-counterguerilla
+counterguerilla 1
 coraciiformes
 commensurableness
 cruiserweight
