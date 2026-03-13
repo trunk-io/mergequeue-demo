@@ -6754,7 +6754,7 @@ elaterium
 eundem
 enemied
 ergon
-embryonic
+embryonic 1
 enjoys
 eats
 errants
