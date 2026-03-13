@@ -7240,7 +7240,7 @@ coenoecium
 catchup
 clar
 cosmetology
-cursory
+cursory 1
 clinoaxis
 convectively
 cyclohexatriene
