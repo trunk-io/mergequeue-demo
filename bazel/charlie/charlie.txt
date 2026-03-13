@@ -25343,7 +25343,7 @@ corinthes
 calchas
 cinerama
 copis
-corinthianize
+corinthianize 1
 curledly
 ceriman
 colorations
