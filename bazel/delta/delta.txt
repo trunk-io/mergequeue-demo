@@ -10743,7 +10743,7 @@ dishorse
 diazotizability
 drawfile
 demisangue
-difformity
+difformity 1
 domoid
 dwarf
 diplonts
