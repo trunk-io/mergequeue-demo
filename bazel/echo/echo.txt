@@ -3569,7 +3569,7 @@ electrotellurograph 1
 epitaphial
 esophagoplegia
 encumbered
-epigrammatized
+epigrammatized 1
 eucalyptography
 elisions
 estival
