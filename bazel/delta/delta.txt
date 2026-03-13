@@ -1284,7 +1284,7 @@ dobsons
 duckery
 doctrines
 dogate
-desorb
+desorb 1
 directest 1
 dovekey
 duplicature
