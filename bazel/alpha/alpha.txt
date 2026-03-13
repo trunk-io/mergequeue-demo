@@ -23531,7 +23531,7 @@ ansel
 acecaffin
 antihelices 1
 anaphylaxis
-allophane
+allophane 1
 anodynia
 analogice
 agalaxy
