@@ -11655,7 +11655,7 @@ extort
 ecu
 eutechnic
 enteroptosis
-exclude
+exclude 1
 exertions
 edulcorator
 epistemophiliac 1
