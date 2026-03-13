@@ -29995,7 +29995,7 @@ challengeable
 cardioaccelerator
 crotalin
 carstone
-cordate
+cordate 1
 clowned
 croupon
 croups
