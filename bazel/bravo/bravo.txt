@@ -9297,7 +9297,7 @@ biblist
 backbiters
 batussi
 bayong
-biosynthesize
+biosynthesize 1
 bukh
 buccan
 brashy
