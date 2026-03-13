@@ -2882,7 +2882,7 @@ dihysteria
 descartes
 diction
 djellaba
-delfs
+delfs 1
 descaled
 diaphanous
 dikaryophase
