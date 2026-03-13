@@ -18193,7 +18193,7 @@ clarifications
 calendry
 coercers
 coercible 1
-coercionary
+coercionary 1
 centurion
 coercitive
 coquinas
