@@ -6629,7 +6629,7 @@ enteroscope
 entasis
 enzymologies
 enterohydrocele 1
-epidermatoid
+epidermatoid 1
 eurhythmics 1
 evictee
 erosely
