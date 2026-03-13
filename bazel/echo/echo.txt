@@ -2719,7 +2719,7 @@ epifascial
 excern
 exacerbescence
 extraofficial
-extol
+extol 1
 entheate
 elsa
 exactive
