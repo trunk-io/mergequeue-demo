@@ -4726,7 +4726,7 @@ endosmotic
 elbowing
 exarch
 emmer
-eclipsareon
+eclipsareon 1
 ecuelling
 enjoyably 1
 exacerbations
