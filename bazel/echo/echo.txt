@@ -9331,7 +9331,7 @@ eventless
 eophyte
 ensepulcher
 eudiometer
-embolize
+embolize 1
 expatiatory
 esterifies
 endosmometer 1
