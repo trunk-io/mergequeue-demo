@@ -2680,7 +2680,7 @@ ensures
 endocentric
 engagedness
 escoted
-exceptiousness
+exceptiousness 1
 ephori
 episperm
 endosmosic
