@@ -10141,7 +10141,7 @@ deafnesses
 deuterotype
 dustour
 deoxidator 1
-deodorisation
+deodorisation 1
 dormitary
 discursus
 dairywoman
