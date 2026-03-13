@@ -13424,7 +13424,7 @@ engrafter 1
 evulgation 2
 exiles 1
 energiser
-expressiveness
+expressiveness 1
 effected
 equatoreal
 ensheathed
