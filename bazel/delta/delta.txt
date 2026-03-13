@@ -10052,7 +10052,7 @@ damyankee
 disedge 1
 detection
 disaccustomed
-disanimate
+disanimate 1
 dysergasia
 doek
 debilitated
