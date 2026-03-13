@@ -15274,7 +15274,7 @@ amnia
 asclepiadae
 anodize
 acerbating
-affluentness
+affluentness 1
 allocators
 armipotent
 accessional
