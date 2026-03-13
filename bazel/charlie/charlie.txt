@@ -964,7 +964,7 @@ centetid
 crawfoot
 cornices
 colpotomy
-calorically
+calorically 1
 cowbanes
 canelle
 cardmaking
@@ -4255,7 +4255,7 @@ cauterised
 caribed
 cydippe
 counterpuncture 1
-calyphyomy
+calyphyomy 1
 caribous
 cloragen
 cinchonisation
@@ -20076,7 +20076,7 @@ commeasure
 compartmentalized
 condole
 camper
-clubhaul
+clubhaul 1
 cottonseeds
 commemorated
 contributary
@@ -21463,7 +21463,7 @@ coussinet
 conchifera
 conchiferous
 cooperation
-caritas
+caritas 1
 conchometer
 chronisotherm
 campesino

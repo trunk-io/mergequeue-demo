@@ -2703,7 +2703,7 @@ ebcdic 1
 ensnarling
 etiam
 extravagation 1
-ersh
+ersh 1
 etiquettical
 endosarc
 elytrocele
@@ -2895,7 +2895,7 @@ eomecon
 extraversively
 exceeded
 equisufficiency 2
-emeril
+emeril 1
 essencing
 embind
 estimably

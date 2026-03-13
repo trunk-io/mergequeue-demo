@@ -4171,7 +4171,7 @@ deliverance
 draughtsmen
 dodonian
 dispirem
-doorsill
+doorsill 1
 dipteros
 diadems
 dirian
@@ -6762,7 +6762,7 @@ demythologizes
 determinantal
 direness
 dactylopteridae
-dryope
+dryope 1
 dancalite
 dipnoi
 dawdy
@@ -7677,7 +7677,7 @@ dutiful
 dorsel
 dragonade
 dodecasemic
-didymus
+didymus 1
 disgarrison
 destinations
 diestrous
@@ -13042,7 +13042,7 @@ dustoori
 disparageable
 diabolised
 delegate
-dolentissimo
+dolentissimo 1
 disloyalist
 defacement
 daphnias
@@ -14857,7 +14857,7 @@ delicateness
 desertions
 distritbuted
 drafters
-descends 1
+descends 2
 druidisms
 devitalise
 dogie
@@ -17488,7 +17488,7 @@ discing
 decongestive
 diswarrening
 drumline
-diatomous
+diatomous 1
 daemonistic
 disquiets
 dehache
