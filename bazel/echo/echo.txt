@@ -3726,7 +3726,7 @@ enjoying 1
 exuscitate
 encollar
 evasional
-exradius
+exradius 1
 evolutility
 encountering
 enrollments
