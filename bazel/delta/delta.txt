@@ -15754,7 +15754,7 @@ doability
 derivative
 danae
 disjointedly
-decapitate
+decapitate 1
 diallagic
 diazohydroxide
 depotentiate
