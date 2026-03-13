@@ -7052,7 +7052,7 @@ enols
 extratarsal
 embden
 educationese
-enwomb
+enwomb 1
 exsculp
 enclosers
 eyedness
