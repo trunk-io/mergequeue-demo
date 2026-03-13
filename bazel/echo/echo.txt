@@ -1460,7 +1460,7 @@ engrams
 electrolyzer
 emotionally
 extraocular
-extracapsular
+extracapsular 1
 enfever
 exhortations
 enjambment
