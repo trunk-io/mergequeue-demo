@@ -13964,7 +13964,7 @@ biduous
 bellypiece
 bang
 balewort
-bandos
+bandos 1
 bethwack
 breakwind
 berengelite
