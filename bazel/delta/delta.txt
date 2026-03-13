@@ -9572,7 +9572,7 @@ differentiability
 decrease
 desmine
 detenebrate
-deactivate
+deactivate 1
 depolarization
 droner
 delatorian
