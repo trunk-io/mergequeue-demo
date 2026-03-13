@@ -2616,7 +2616,7 @@ desiderate
 disulphuret
 drachms
 demulce
-decoloring
+decoloring 1
 depositional
 dicier
 devolatilise
