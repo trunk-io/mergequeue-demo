@@ -11735,7 +11735,7 @@ deforse
 despisers 1
 dreggiest
 deferrize
-downweigh
+downweigh 1
 diaconicon
 disintegrating
 dracontic
