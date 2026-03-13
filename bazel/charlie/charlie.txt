@@ -26431,7 +26431,7 @@ cabstand
 cinematize
 choreomania
 cashboxes
-cyanogens
+cyanogens 1
 cosuffer
 columnizing
 cabinetmake
