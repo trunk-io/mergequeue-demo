@@ -2599,7 +2599,7 @@ dromograph
 demiquaver
 dilemmic
 distastefully
-dimpsy
+dimpsy 1
 drudgery
 drch
 diorism
