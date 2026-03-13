@@ -4250,7 +4250,7 @@ enteropathogenic 1
 enfolding
 eery
 electrofuse
-epibolic
+epibolic 1
 eurodollars
 elogy
 enteroceptor
