@@ -9140,7 +9140,7 @@ exopt
 earthwork
 embroiler
 etrog
-ejicient
+ejicient 1
 excommunicative
 egromancy
 eremacausis
