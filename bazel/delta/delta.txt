@@ -15582,7 +15582,7 @@ depopularize
 diastereoisomerism
 decidement
 drivehead
-devoutly
+devoutly 1
 deformative
 disillude
 disordinated
