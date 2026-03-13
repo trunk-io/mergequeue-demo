@@ -8756,7 +8756,7 @@ excuses
 estimations 1
 ells
 ebriated
-extinguish
+extinguish 1
 engrainedly
 electrochronograph
 erases
