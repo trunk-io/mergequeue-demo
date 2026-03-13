@@ -2656,7 +2656,7 @@ electrocautery
 erythromelalgia
 eikonology
 errands
-explain
+explain 1
 eviscerate
 equator
 eyewashes
