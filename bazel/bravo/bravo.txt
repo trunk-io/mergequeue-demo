@@ -1681,7 +1681,7 @@ billion
 binomials
 blackbrush
 billeter
-beautyship
+beautyship 1
 bogie 1
 barble
 branchiostege
