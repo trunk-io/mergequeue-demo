@@ -2985,7 +2985,7 @@ ensnow
 envineyard
 extraterrestrial
 enantioses
-esau
+esau 1
 enantiobiosis
 endothermically 1
 errordump
