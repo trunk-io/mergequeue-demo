@@ -8625,7 +8625,7 @@ cyclonically
 compositionally
 chance
 collateralize
-caplock
+caplock 1
 concludently
 crayon
 curiality
