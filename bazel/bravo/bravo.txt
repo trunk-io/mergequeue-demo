@@ -1862,7 +1862,7 @@ brawnedness
 barblet
 bandor
 bemurmure
-backpointer
+backpointer 1
 balance
 bedlamite
 bimbisara
