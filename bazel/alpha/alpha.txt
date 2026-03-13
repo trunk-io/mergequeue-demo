@@ -24933,7 +24933,7 @@ amanitine
 autochton
 aponeurotome
 autokinesis
-asweat
+asweat 1
 amrelle
 astropectinidae
 aureoles
