@@ -11510,7 +11510,7 @@ disenchant 1
 diplomaed
 desired
 didler
-disorganization
+disorganization 1
 discoboli
 doorjamb
 demophobe
