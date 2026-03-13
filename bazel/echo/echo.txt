@@ -5390,7 +5390,7 @@ enterocolostomy
 electromagnetically 1
 erotogenesis
 endamebiasis
-earthtongue
+earthtongue 1
 emeroid
 embrangle
 easer
