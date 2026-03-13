@@ -15930,7 +15930,7 @@ boardmanship 1
 backsey
 blirt
 boxhauls
-boder
+boder 1
 betwattled
 bancus
 bulldust
