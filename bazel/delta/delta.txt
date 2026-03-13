@@ -7247,7 +7247,7 @@ doggrels
 draglines 1
 deprecating
 dodding
-debussyanize
+debussyanize 1
 debouchment
 despiting
 detrusion
