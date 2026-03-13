@@ -2963,7 +2963,7 @@ expire
 engraffing
 eyecup
 eremic
-executant
+executant 1
 essentialness
 exogamous
 entracte
