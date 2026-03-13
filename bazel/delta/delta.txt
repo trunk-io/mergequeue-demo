@@ -6028,7 +6028,7 @@ defaitisme
 derencephalocele
 draisene
 damage
-debite
+debite 1
 dentolingual
 dendrochirota
 dormantly
