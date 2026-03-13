@@ -1371,7 +1371,7 @@ bandleader
 bubblelike
 beyonds
 binnogue
-bioscope
+bioscope 1
 ball 2
 becrowds
 bragless
