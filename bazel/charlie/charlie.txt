@@ -29568,7 +29568,7 @@ contrabassist 1
 cosmic
 critling
 coadunating
-chime
+chime 1
 cand
 chloro
 chiauses
