@@ -12661,7 +12661,7 @@ expanses
 ethicalism 1
 eaglestone
 ectosarc
-exuberating
+exuberating 1
 epitaphist
 ensearcher
 enginery 1

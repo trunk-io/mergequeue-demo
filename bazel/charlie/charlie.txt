@@ -5391,7 +5391,7 @@ countermands
 caramelization
 cutaneal 1
 calculate
-corrupter
+corrupter 1
 contested
 cyclopedia
 conductances 1
