@@ -10034,7 +10034,7 @@ dearnesses
 dupioni
 didynamous
 drawdown
-disweapon
+disweapon 1
 dishclout
 dicyanid
 ducting
