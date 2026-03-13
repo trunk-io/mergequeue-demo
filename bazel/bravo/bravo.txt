@@ -1544,7 +1544,7 @@ blown
 briarroot
 backsword
 baryon
-bornite
+bornite 1
 brujas
 bituminize
 bacchanal
