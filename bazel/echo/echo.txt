@@ -11529,7 +11529,7 @@ extrahepatic
 ecraseur
 extramedullary
 extravagantes
-ensweep
+ensweep 1
 exsiccation
 equiprobability
 evanishes
