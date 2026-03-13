@@ -4713,7 +4713,7 @@ evangeliarium
 enchant 1
 extradoses
 exquisiteness
-extraverted
+extraverted 1
 extracurriculum
 eurymus
 emeerate
