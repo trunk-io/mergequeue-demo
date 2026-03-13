@@ -4793,7 +4793,7 @@ distintion
 dextrinous
 docking
 digressiveness
-discontinuously
+discontinuously 1
 drouthiest
 disaffirmance
 defibrillate
