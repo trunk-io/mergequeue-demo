@@ -10600,7 +10600,7 @@ discolith
 demogenic
 disaster
 deplete
-disobliging
+disobliging 1
 depraving
 demerited
 deckswabber
