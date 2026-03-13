@@ -1063,7 +1063,7 @@ editorship
 elevable
 elodeas
 eschews
-equipoises
+equipoises 1
 exclusivism
 eliquidate
 extemporalness
