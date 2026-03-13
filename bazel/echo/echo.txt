@@ -1539,7 +1539,7 @@ etherlike
 exeunt
 exosporous
 enneacontahedron
-euchlorine
+euchlorine 1
 electrolysis
 epidermatic
 embrutes
