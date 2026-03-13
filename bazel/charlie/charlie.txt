@@ -19318,7 +19318,7 @@ carshop
 caryatic
 chica
 cowbyre
-chromidial
+chromidial 1
 cordite
 craftless
 convect
