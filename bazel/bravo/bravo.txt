@@ -4312,7 +4312,7 @@ breakoff
 bivium 1
 bronchodilator 1
 blackrag
-bentonitic
+bentonitic 1
 blockheadism
 bewaring
 biomass
