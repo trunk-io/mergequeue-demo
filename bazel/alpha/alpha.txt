@@ -5357,7 +5357,7 @@ antiwarlike
 archilowe
 axebreaker
 albuminiferous
-archaize
+archaize 1
 amygdalae
 acalephoid
 atloidean
