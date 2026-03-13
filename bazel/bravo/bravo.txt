@@ -3130,7 +3130,7 @@ basidigital
 barotactic
 billhook
 bousoukis
-bioaccumulation
+bioaccumulation 1
 becircled
 burbler
 biquadratic
