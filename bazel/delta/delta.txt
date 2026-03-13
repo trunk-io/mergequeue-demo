@@ -18615,7 +18615,7 @@ disbend 1
 demihaque
 dessil
 digester
-dorsalis
+dorsalis 1
 dozer 1
 diabolizing
 disproportionable
