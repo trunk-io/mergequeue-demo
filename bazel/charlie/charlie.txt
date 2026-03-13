@@ -129,7 +129,7 @@ cardiolith
 carbure
 catachresti
 caducean
-cabled
+cabled 1
 curfewing
 cablegram
 consonantness
