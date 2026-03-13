@@ -14057,7 +14057,7 @@ ajonjoli 1
 aboveground
 antecourt
 apiin
-auxin
+auxin 1
 azoprotein
 aeacus 1
 amebian
