@@ -8286,7 +8286,7 @@ enrichment
 ergotin
 encrinoid
 electrothermally
-excitory
+excitory 1
 exaltate
 elucidation
 extravaganzas
