@@ -6644,7 +6644,7 @@ exoderm
 eligibility
 encharged
 epeirogenesis
-embalmed
+embalmed 1
 entrapper
 eskimoized 1
 ekphoria
