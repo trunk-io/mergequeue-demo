@@ -1017,7 +1017,7 @@ embole
 ensynopticity
 enchesoun
 eanling
-exopathic
+exopathic 1
 esd
 endoerythrocytic
 epanaphoral
