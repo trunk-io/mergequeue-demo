@@ -12244,7 +12244,7 @@ electrizable 1
 elatery
 exemption
 extorsion
-eisegeses
+eisegeses 1
 exsec
 ethmoidal
 epitomes
