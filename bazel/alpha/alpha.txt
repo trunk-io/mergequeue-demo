@@ -14410,7 +14410,7 @@ agnate
 anticonformity
 aequiculi
 ama
-aphesis
+aphesis 1
 acrosomes
 assign
 alerting
