@@ -26,3 +26,7 @@ tools:
   enabled:
     - bazel@8.2.1
     - jq@jq-1.7.1
+
+merge:
+  required_statuses:
+    - run tests to validate pr
