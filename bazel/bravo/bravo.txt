@@ -5284,7 +5284,7 @@ baluster
 blubbery 1
 baroclinicity
 bailment
-beauteousness
+beauteousness 1
 boleweed
 behemoths
 bygo
