@@ -1322,7 +1322,7 @@ basketing
 bluff
 blea
 bioplastic
-baned
+baned 1
 bandyball
 baryglossia
 beakful
