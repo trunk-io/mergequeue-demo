@@ -6310,7 +6310,7 @@ elne 1
 epikia
 extraspectral
 extramental
-enteromycosis
+enteromycosis 1
 erythroclastic 1
 epifocal
 euryclea
