@@ -3669,7 +3669,7 @@ effable
 epicenes
 enchantingly
 episcenium
-effusive
+effusive 1
 ethologic 1
 extrafine
 elegy
