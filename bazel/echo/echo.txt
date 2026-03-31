@@ -5426,7 +5426,7 @@ esthesiogen
 electronvolt
 exhilarator
 emulsin
-encomiendas
+encomiendas 1
 expands
 ebulus
 eulogism 1
