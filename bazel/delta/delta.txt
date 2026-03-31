@@ -6164,7 +6164,7 @@ dampproofing
 dip
 desulphuret
 disdiplomatize
-destructible
+destructible 1
 digest
 dogy
 dm
