@@ -1504,7 +1504,7 @@ baluba
 bakairi
 bovinity
 biparty
-bright
+bright 1
 blazoner
 bibi
 ballata
