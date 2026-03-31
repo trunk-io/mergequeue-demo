@@ -3336,7 +3336,7 @@ badly
 beshrouded 1
 babblative 1
 bouk
-bitterling
+bitterling 1
 blitz
 basalt
 belied
