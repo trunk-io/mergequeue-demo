@@ -2331,7 +2331,7 @@ ensouls
 exch
 etamin
 epitrope
-etruscology
+etruscology 1
 electroacoustically
 embryonate
 emphyteusis
