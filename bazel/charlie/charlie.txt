@@ -30186,7 +30186,7 @@ conditionally
 concentrators
 cains
 cheeker
-canonical
+canonical 1
 conspiracies 1
 chally
 crudle
