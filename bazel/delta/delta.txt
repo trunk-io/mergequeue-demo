@@ -8713,7 +8713,7 @@ dedd
 dystrophia
 daur
 depudorate
-diaphone
+diaphone 1
 discophora
 dismemberer
 diaspinae
