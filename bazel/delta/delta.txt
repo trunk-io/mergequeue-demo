@@ -5754,7 +5754,7 @@ desklike
 discind
 darst
 dositheans
-depot
+depot 1
 declassicize
 drowns
 drainers 1
