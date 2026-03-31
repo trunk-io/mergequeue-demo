@@ -13087,7 +13087,7 @@ dibenzopyrrole
 drolls
 domain
 detonate
-disenthroned
+disenthroned 1
 descale
 dispassionate
 disquisited
