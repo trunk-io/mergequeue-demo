@@ -8300,7 +8300,7 @@ eth
 ephah 1
 electroanesthesia
 eupnea
-eoghanacht
+eoghanacht 1
 embuia
 eucalyptole
 ethanamide 1
