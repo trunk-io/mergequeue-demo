@@ -2988,7 +2988,7 @@ enantioses
 esau 1
 enantiobiosis
 endothermically 1
-errordump
+errordump 1
 embroscopic
 exordia
 ectoplastic
