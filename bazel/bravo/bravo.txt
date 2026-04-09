@@ -1441,7 +1441,7 @@ blighter
 biolite
 bookie
 breastbeam
-beastlings
+beastlings 1
 bottlefuls
 barrancos
 barbarian 1
