@@ -2189,7 +2189,7 @@ dapped
 dipsaceae
 deinosaur
 dustcloth
-demiorbit
+demiorbit 1
 dorsula 1
 dissatisfactory
 diagenetic
