@@ -2584,7 +2584,7 @@ etoiles
 epigaea
 execution
 earwigged
-emparl
+emparl 1
 electrometallurgy
 estimative
 expedients
