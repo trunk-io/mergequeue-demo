@@ -2827,7 +2827,7 @@ enamorment 1
 extricating
 emblement
 emplace
-equitemporaneous
+equitemporaneous 1
 eternise
 entomophthora
 extensive
