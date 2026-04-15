@@ -7492,7 +7492,7 @@ discouragingly
 deluster
 dextrorsal 1
 disassembler
-deemphasizes
+deemphasizes 1
 dysthymic
 daneball
 discreated
