@@ -18629,7 +18629,7 @@ antineologian
 antonomasia
 antichrome
 amphioxi
-analepses
+analepses 1
 akinete
 anticyclonic
 acyls
