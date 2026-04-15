@@ -1217,7 +1217,7 @@ expositions
 ebcd
 epistyle
 endowing
-extraequilibrium
+extraequilibrium 1
 edaphosaurus
 endostracal
 effete
