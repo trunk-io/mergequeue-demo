@@ -7070,7 +7070,7 @@ bumpiest
 bls
 baptistery
 babblish
-bespend
+bespend 1
 bepuddle
 beneceptive
 boltonia
