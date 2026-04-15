@@ -17793,7 +17793,7 @@ barbarianized
 burnoosed
 blackarm
 burgherage
-bedebt
+bedebt 1
 belabour
 bellmouthed
 burghership
