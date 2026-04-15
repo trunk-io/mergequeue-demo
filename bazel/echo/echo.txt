@@ -4557,7 +4557,7 @@ exospherical
 exteriorized
 epode
 erotize
-enalid
+enalid 1
 epagoge
 exoculate
 elfish
