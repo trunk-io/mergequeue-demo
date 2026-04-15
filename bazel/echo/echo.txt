@@ -14037,7 +14037,7 @@ erugate
 enchain
 ecphonesis
 elocutionist
-exiguities
+exiguities 1
 esterase
 extendibility
 electrolysation
