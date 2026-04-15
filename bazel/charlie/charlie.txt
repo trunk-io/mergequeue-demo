@@ -11342,7 +11342,7 @@ cosmometry
 cardiaplegia
 chlorambucil 1
 closet
-clingers
+clingers 1
 crossover
 chloramin 1
 caperwort
