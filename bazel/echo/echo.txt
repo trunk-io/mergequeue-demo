@@ -12284,7 +12284,7 @@ embound
 electrocapillarity
 ethopoeia
 eldritch
-exanthems
+exanthems 1
 encephalotomy
 expostulator
 entourage
