@@ -828,7 +828,7 @@ eucyclic
 emplunge
 eremitic
 empyreumatize
-epiblemata
+epiblemata 1
 endophyllum
 epidote 1
 eyesore
