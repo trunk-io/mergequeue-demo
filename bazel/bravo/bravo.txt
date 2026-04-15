@@ -8802,7 +8802,7 @@ bagging
 barboy
 brecia
 brining
-bingos
+bingos 1
 bajarigar
 bandon
 balaustre
