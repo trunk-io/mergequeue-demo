@@ -4736,7 +4736,7 @@ demilitarizes
 demerits
 doveweed
 doughfoot 1
-deems
+deems 1
 deflectional
 dodgery
 despotical
