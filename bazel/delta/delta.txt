@@ -3029,7 +3029,7 @@ daggles
 deerfood
 drag
 dogless
-deucedly
+deucedly 1
 devall
 draconis
 detailist
