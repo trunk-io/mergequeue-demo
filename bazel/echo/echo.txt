@@ -3802,7 +3802,7 @@ epipubis
 electromotive
 epicardium
 epichirema
-excursionism
+excursionism 1
 elvanite
 einkanter
 educatee
