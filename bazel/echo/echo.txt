@@ -2668,7 +2668,7 @@ entamebas
 ensign
 emoluments
 exchangeably 1
-euthytatic
+euthytatic 1
 euryte
 eurithermophile
 electrothanatosis
