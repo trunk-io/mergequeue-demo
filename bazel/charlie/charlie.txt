@@ -26512,7 +26512,7 @@ chancel
 cotype
 clipei
 coxopodite
-cusparine
+cusparine 1
 concern
 calycophoran
 cotising

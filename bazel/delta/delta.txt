@@ -6383,7 +6383,7 @@ dermatoneurosis
 decker
 deportability
 discocarpium
-deflagrates
+deflagrates 1
 decator
 dain
 deputing
