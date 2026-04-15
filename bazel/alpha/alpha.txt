@@ -24234,7 +24234,7 @@ autoindexing 1
 autoalarm
 ambash
 autocephality
-alar
+alar 1
 attractant
 addleness
 approachable
