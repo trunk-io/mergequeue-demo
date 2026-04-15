@@ -15197,7 +15197,7 @@ dagger
 desolations
 damas
 demandant
-doff
+doff 1
 dakoit
 dinghies
 disagio
