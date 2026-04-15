@@ -1520,7 +1520,7 @@ cossid 1
 cenotaphic
 charactering
 cynanche
-camarillas
+camarillas 1
 chemostat
 cambists
 cesar
