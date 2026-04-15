@@ -11305,7 +11305,7 @@ cookbooks
 chlamydoselachidae
 carotic
 crawlspace
-clayey
+clayey 1
 calfish
 chlamyses
 csnet
