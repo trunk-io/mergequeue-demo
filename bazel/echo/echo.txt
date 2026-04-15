@@ -7290,7 +7290,7 @@ enstranged
 ectopy
 epicostal
 endoparasitic
-enlist
+enlist 1
 elephanticide
 electrologic 1
 eyries
