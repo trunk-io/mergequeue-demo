@@ -8547,7 +8547,7 @@ equiarticulate
 echocardiogram
 equiproportionality
 ensphere
-eastmost
+eastmost 1
 episiostenosis
 erythrine
 ergastic
