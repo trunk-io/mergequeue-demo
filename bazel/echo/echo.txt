@@ -10729,7 +10729,7 @@ esocyclic
 euproctis
 equerries
 endexine
-eclectic
+eclectic 1
 enforces
 estats
 enculturated
