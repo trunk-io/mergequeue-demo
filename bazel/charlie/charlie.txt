@@ -22581,7 +22581,7 @@ chessman
 cokneyfy
 countersink
 chuckram
-champlainic
+champlainic 1
 coleopter
 conidiophorous
 citigrade
