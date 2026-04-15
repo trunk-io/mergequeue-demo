@@ -7923,7 +7923,7 @@ delictual
 duelled 1
 dermatotropic
 deappetizing
-disbeliever
+disbeliever 1
 docious
 desirability
 deliquesce
