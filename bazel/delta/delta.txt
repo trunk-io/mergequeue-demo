@@ -8452,7 +8452,7 @@ demersion
 dehematize
 destigmatize
 dismarble
-declinate
+declinate 1
 decadic
 damndest
 ducklingship
