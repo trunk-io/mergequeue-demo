@@ -30975,7 +30975,7 @@ crake
 cappae
 checkwriter
 cerebrate
-colossuswise
+colossuswise 1
 contemplatively
 creashaks
 cartilaginous
