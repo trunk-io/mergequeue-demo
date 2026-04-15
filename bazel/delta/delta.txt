@@ -5627,7 +5627,7 @@ dragnet
 duotones
 diaphane
 depaints
-daubed
+daubed 1
 dacoited
 dihalid 1
 deoxyribonucleotide
