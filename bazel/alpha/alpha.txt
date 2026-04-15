@@ -9515,7 +9515,7 @@ anacahuita
 andean
 alerion
 anorganic
-antiferromagnet
+antiferromagnet 1
 acutiator
 anaerobe
 antherozoid
