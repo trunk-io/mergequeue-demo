@@ -8518,7 +8518,7 @@ detours
 decouple
 diagonality
 dovetailed
-despair
+despair 1
 dichotomization
 daunts 1
 deviate
