@@ -1365,7 +1365,7 @@ demotics
 diatomin
 daydawn
 deckhouse
-dujan
+dujan 1
 devilfish
 digressively
 drabbletail
