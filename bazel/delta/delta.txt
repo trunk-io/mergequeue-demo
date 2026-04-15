@@ -735,7 +735,7 @@ dodging
 diaheliotropic
 dermestoid
 dormancy
-dandiacally
+dandiacally 1
 dyophone 1
 demembre
 devouringness 1
