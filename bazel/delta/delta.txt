@@ -18676,7 +18676,7 @@ doeskins
 directoire
 disemburden
 doleritic
-dolomitized
+dolomitized 1
 downweed
 deruralize
 denaturalisation
