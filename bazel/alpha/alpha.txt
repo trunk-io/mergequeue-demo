@@ -2322,7 +2322,7 @@ attemperance
 anacreontic
 awoke
 anapestic
-awunctive
+awunctive 1
 amidone
 antidepressive
 ador
