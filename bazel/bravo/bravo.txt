@@ -3607,7 +3607,7 @@ brightest
 barotraumata
 busybody
 basale
-bisectional
+bisectional 1
 beggingly
 bootless
 bookstore
