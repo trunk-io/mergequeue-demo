@@ -3948,7 +3948,7 @@ disassembling
 deportation
 diplanar
 denuclearized
-detur
+detur 1
 detaining
 defaultant
 dangerfully
