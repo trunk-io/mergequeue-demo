@@ -6259,7 +6259,7 @@ clernly
 corticifugal
 clipt
 curses
-chiasm
+chiasm 1
 combustively
 crossties
 condottiere
