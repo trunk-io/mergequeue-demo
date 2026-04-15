@@ -18141,7 +18141,7 @@ delays
 dolphin
 demiadult
 deblocking
-dulotic
+dulotic 1
 depoliticize
 dalesman
 dodecanal
