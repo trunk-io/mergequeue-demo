@@ -5439,7 +5439,7 @@ disannulling
 dispersonalize 1
 drupelets
 deaness
-deviascope
+deviascope 1
 densimetric
 downslip
 datos
