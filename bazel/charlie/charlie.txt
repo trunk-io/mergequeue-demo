@@ -3297,7 +3297,7 @@ crustiness
 canonised
 consonantized
 coagulatory
-constrictive
+constrictive 1
 caprella
 crawly
 capreolary

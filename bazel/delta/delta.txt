@@ -5255,7 +5255,7 @@ declivitously
 divagated
 decoctive
 dessicate
-decorability
+decorability 1
 disenabling 1
 diapaused
 disterr
