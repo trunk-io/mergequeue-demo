@@ -18166,7 +18166,7 @@ defats
 deticks
 deputyship
 dismissive
-deanthropomorphization
+deanthropomorphization 1
 disbursal 1
 disfavor
 discommodiousness
