@@ -22768,7 +22768,7 @@ countersigns
 cortez
 connectable
 connected
-connectedly
+connectedly 1
 centavos
 confabbed
 calami
