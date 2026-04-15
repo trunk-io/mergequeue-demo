@@ -6687,7 +6687,7 @@ endophasia
 exstruct
 epistemonical
 eyebar
-embox
+embox 1
 eneid
 enamelling
 eaved
