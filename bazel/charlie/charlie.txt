@@ -12508,7 +12508,7 @@ curfs
 carsickness
 cubists
 creatinephosphoric
-cryopathy
+cryopathy 1
 conservable
 counteroffer
 calomels
