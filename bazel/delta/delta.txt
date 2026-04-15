@@ -449,7 +449,7 @@ deckle
 dispread 1
 daunder 1
 dayrooms
-diversiform
+diversiform 1
 disincrust
 dessert
 dome
