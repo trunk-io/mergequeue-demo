@@ -17058,7 +17058,7 @@ critters
 cylindroidal
 clutchy
 coevals
-clerestories
+clerestories 1
 commentated
 centai
 chaetosomatidae
