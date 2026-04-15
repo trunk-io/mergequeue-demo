@@ -3368,7 +3368,7 @@ etoffe
 euryalae 1
 enwreath
 empurpling
-exteroceptor
+exteroceptor 1
 exempts
 exsomatic
 eliminative
