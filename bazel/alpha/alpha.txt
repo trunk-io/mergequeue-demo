@@ -4416,7 +4416,7 @@ antimethod 1
 anaesthesiologist
 augurer
 absey 1
-argot
+argot 1
 adject
 aediles
 animateness
