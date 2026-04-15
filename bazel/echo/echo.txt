@@ -12230,7 +12230,7 @@ endarteteria
 edestosaurus
 embolic
 ekphore
-entour
+entour 1
 existlessness
 enigua
 expansum
