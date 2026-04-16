@@ -8701,7 +8701,7 @@ daimonion
 drabbet
 distrix 1
 diocesans
-dicranoid
+dicranoid 1
 diseasedness 1
 distalia
 disconformity
