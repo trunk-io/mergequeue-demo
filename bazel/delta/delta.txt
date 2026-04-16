@@ -5775,7 +5775,7 @@ disking
 disulfid
 depigmentate
 drummers
-dispenses
+dispenses 1
 dogberry
 dryfarm 1
 deemie
