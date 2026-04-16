@@ -21299,7 +21299,7 @@ compasses
 curculio
 copula
 coenzymatically
-canceleer
+canceleer 1
 crouchie
 concentrated
 clingfish
