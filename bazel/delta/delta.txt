@@ -14963,7 +14963,7 @@ decommissioned 1
 definiteness
 determinateness
 daun
-daekon
+daekon 1
 dovecote 1
 dogana
 dizziness
