@@ -10376,7 +10376,7 @@ antechinomys
 autecisms 1
 anguille
 antineutral
-antihelminthic
+antihelminthic 1
 amide
 antiphrastically
 avives
