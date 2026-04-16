@@ -1049,7 +1049,7 @@ demeanor
 dissociation
 dermol
 diencephalic
-dankishness
+dankishness 1
 dedecorate
 desiring
 dutifully
