@@ -5353,7 +5353,7 @@ entoptics
 ellops
 extensionist
 eponge
-enfeoff
+enfeoff 1
 evasiveness
 epicedia
 encydlopaedic
