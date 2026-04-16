@@ -24259,7 +24259,7 @@ airfreight
 abbeys
 asserters 1
 autokinetic
-advancers
+advancers 1
 articulability
 anosognosia
 autotriploidy
