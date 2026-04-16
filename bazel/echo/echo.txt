@@ -13954,7 +13954,7 @@ espanoles
 expiration 1
 entera
 ephemeromorph 1
-extratubal
+extratubal 1
 enomania
 extinguishable
 eccyclema
