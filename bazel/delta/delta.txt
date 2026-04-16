@@ -3046,7 +3046,7 @@ duka
 dicyanine
 delapse
 disgig
-diplumbic
+diplumbic 1
 demonetised
 descrial
 detuning
