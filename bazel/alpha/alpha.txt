@@ -20560,7 +20560,7 @@ antitropical
 anisole
 arctomys
 align
-archpretender
+archpretender 1
 animadvert
 adusk
 ambrotype
