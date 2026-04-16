@@ -10774,7 +10774,7 @@ barhal 2
 bedegar
 bandfish
 bristlebird 1
-brigandine
+brigandine 1
 backoff
 blattodea
 balaclava
