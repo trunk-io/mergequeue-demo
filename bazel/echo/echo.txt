@@ -12262,7 +12262,7 @@ eq
 eastbound
 expurgating
 epitomiser
-espiglerie
+espiglerie 1
 epeidia
 ecod
 ecumenistic
