@@ -4442,7 +4442,7 @@ abbreviators
 adipocellulose
 arbiters
 aquatones
-akinesic
+akinesic 1
 almury 1
 alliterational
 ambitioned
