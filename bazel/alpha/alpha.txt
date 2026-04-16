@@ -11380,7 +11380,7 @@ almanac
 aphanitism
 admonitrix
 amsel 1
-aglow
+aglow 1
 absumption
 acuaesthesia
 aboriginary
