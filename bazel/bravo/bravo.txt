@@ -12937,7 +12937,7 @@ beechen
 brachiated 1
 ballottable
 beekeeping
-brewer
+brewer 1
 bloodsucking
 bonfire
 bungles
