@@ -1478,7 +1478,7 @@ ethology
 epanthous
 enfuddle
 excusive 1
-epiplexis
+epiplexis 1
 elboic
 edgebone
 engroove
