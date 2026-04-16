@@ -275,7 +275,7 @@ bumblebomb 2
 bombardiers
 burdens 1
 bacilary
-bookrest
+bookrest 1
 bacile
 brarow 1
 bronchoscope 1
