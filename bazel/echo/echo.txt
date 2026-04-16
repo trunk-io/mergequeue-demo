@@ -1396,7 +1396,7 @@ emotion
 enchoric
 emulators
 enclitic 3
-eprise
+eprise 1
 electrochronometric
 eczematization
 erythrozincite
