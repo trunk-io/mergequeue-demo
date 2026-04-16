@@ -15710,7 +15710,7 @@ dismiss
 dairymen 1
 decylic
 dispeed
-devourment
+devourment 1
 db
 diplotene
 derivability
