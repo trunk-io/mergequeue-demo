@@ -4956,7 +4956,7 @@ doctrine
 dispair
 decodable 1
 druids
-duchess
+duchess 1
 daidlie
 donack
 dipnoans
