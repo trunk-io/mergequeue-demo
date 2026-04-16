@@ -1385,7 +1385,7 @@ bellwaver
 bemuslined
 bbl
 blastular 1
-barytes
+barytes 1
 bioassaying
 blennothorax
 baled
