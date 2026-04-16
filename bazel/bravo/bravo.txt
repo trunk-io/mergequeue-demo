@@ -6402,7 +6402,7 @@ baboodom
 brezhnev
 boled
 binormal
-buhrs
+buhrs 1
 bitnet
 bepress
 benami
