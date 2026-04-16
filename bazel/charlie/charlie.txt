@@ -29,7 +29,7 @@ chromas 1
 caballo 1
 collectibles
 candleberries
-comatula
+comatula 1
 churchreeve
 captain
 combings
