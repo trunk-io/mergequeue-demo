@@ -4187,7 +4187,7 @@ epiparodos 1
 electrotherapeutist
 ecospecific
 enclear
-eulogies
+eulogies 1
 endorsement
 epaulets 1
 erodes
