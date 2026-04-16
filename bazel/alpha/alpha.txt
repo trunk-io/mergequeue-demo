@@ -12125,7 +12125,7 @@ attrist
 antisepsin
 antiscale
 antidysenteric
-assemble
+assemble 1
 astrophotographer
 adiaphory
 allelotropy
