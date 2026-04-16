@@ -3790,7 +3790,7 @@ chemosensitive 1
 cobishop 1
 countertranslation
 cluck
-campshot
+campshot 1
 cenanthous
 clownship 1
 compensation
