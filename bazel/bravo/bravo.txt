@@ -10205,7 +10205,7 @@ bedstead
 begrime
 bankrupcy
 badgering
-brightsomeness
+brightsomeness 1
 bleach
 bondholders
 burriest
