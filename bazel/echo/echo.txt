@@ -6358,7 +6358,7 @@ ensile
 ethaldehyde
 ecgonine
 ethnically
-expertness
+expertness 1
 erthling
 eosins
 endorsee
