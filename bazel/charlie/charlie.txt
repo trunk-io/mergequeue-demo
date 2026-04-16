@@ -16627,7 +16627,7 @@ cloisterlike
 capsules
 clethraceous
 componed
-cloistral
+cloistral 1
 cuppen
 cambrian
 chamisos
