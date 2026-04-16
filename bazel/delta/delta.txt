@@ -14285,7 +14285,7 @@ decapitalize
 digraphic 1
 desireable
 destrudo
-deleted
+deleted 1
 disfavors
 dishevel
 dreng
