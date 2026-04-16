@@ -4819,7 +4819,7 @@ actionize
 ampul
 anaerobian
 afrikander
-adjuvant
+adjuvant 1
 asidehand
 antimonic
 antizealot 1
