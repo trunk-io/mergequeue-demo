@@ -7408,7 +7408,7 @@ circulus
 cephalocone
 cephalodia
 cephalodiscida
-chevelure
+chevelure 1
 congratulate
 coleseed
 chiloma
