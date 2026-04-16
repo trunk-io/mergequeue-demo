@@ -1136,7 +1136,7 @@ clepes
 conciliabulum
 clamworm
 countermaid
-conclusory
+conclusory 1
 catheptic 1
 calcioferrite
 cogitable
