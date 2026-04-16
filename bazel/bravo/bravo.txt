@@ -10492,7 +10492,7 @@ backwash
 bakestone
 breadwinner
 bedwarmer
-birostrate
+birostrate 1
 bepastured
 bepart
 biteless
