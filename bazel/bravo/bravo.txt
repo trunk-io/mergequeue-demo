@@ -6395,7 +6395,7 @@ balustraded
 bicycloheptane
 blighting 1
 beggarly
-begger
+begger 1
 buccolabial
 bradytrophic
 baboodom
