@@ -353,7 +353,7 @@ discepting
 dendrons 1
 destructivity
 distributaries
-diphthongising
+diphthongising 1
 dodecatylic
 dapson
 deflector
