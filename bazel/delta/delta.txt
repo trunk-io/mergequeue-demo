@@ -6281,7 +6281,7 @@ drumbler
 dolichosaur
 deratted
 defogger
-defatigation
+defatigation 1
 dorsals
 dactylus
 delabializing
