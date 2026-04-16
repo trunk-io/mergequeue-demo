@@ -896,7 +896,7 @@ disker
 danio
 domination
 deconcentrated
-dumble
+dumble 1
 defectors 1
 debitable
 distillmint
