@@ -4284,7 +4284,7 @@ dispel
 demishirt
 dolichocnemic
 disentanglement
-disgorger
+disgorger 1
 divertise
 dauntingly
 denumerably
