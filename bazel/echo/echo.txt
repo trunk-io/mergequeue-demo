@@ -2272,7 +2272,7 @@ excel
 eudaemonia
 endosteomata
 excoriator
-enfleurage
+enfleurage 1
 eikonogen
 empaistic
 extravehicular
