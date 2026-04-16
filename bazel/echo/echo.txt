@@ -7166,7 +7166,7 @@ entwist
 escapers
 entrant 1
 elephantous
-evenwise
+evenwise 1
 epidemicalness
 eskimoid
 enterograph
