@@ -1610,7 +1610,7 @@ army
 acculturize
 accumbent
 anomie
-accuses
+accuses 1
 acupunctuate
 agony
 artiest
