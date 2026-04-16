@@ -6588,7 +6588,7 @@ excluding
 emeraude
 eadios
 extispex
-evolate
+evolate 1
 enseam
 ectobronchium
 exhaustibility
