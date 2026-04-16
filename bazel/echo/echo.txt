@@ -7554,7 +7554,7 @@ exposer
 everylike 1
 ergometer
 endopeptidase
-echinital
+echinital 1
 enoughs
 entirely
 eurypyga
