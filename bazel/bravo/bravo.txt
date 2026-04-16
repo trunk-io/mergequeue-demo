@@ -11238,7 +11238,7 @@ beaufort
 bloodsuck
 bimodal
 bibless
-belabours
+belabours 1
 boltuprightness
 berkeleyite
 bronchoplasty
