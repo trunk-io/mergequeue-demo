@@ -11092,7 +11092,7 @@ disreport
 dissimilation
 drainpipes
 detin
-docentship
+docentship 1
 discongruity
 driest
 dialogist
