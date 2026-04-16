@@ -6163,7 +6163,7 @@ deflates
 dampproofing
 dip
 desulphuret
-disdiplomatize
+disdiplomatize 1
 destructible
 digest
 dogy
