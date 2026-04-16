@@ -17145,7 +17145,7 @@ drifters
 doppler
 disgorged
 duramen
-deuteropathic
+deuteropathic 1
 decasualising
 deacidified
 dieretic
