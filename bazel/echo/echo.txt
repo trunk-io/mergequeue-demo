@@ -8420,7 +8420,7 @@ electrostatic
 endocarp
 erase
 eurytopicity
-enamoredness
+enamoredness 1
 epidermous
 entheos
 exect
