@@ -1861,7 +1861,7 @@ collectorate 1
 coburghership
 craftmanship
 cartonnage 1
-cambricleaf
+cambricleaf 1
 curbstone
 colobus
 curs
