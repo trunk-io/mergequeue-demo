@@ -19800,7 +19800,7 @@ apospories
 acrid
 abutilon
 anticrisis
-autoluminescence
+autoluminescence 1
 angelican
 augurial
 amberous
