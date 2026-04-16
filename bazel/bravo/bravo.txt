@@ -14088,7 +14088,7 @@ bedsite 1
 boxroom
 bromatium
 begad
-balkingly
+balkingly 1
 brownian
 backstage
 becoming 1
