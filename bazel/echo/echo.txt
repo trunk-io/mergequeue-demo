@@ -13935,7 +13935,7 @@ eleve
 enverdure
 etheria
 escherichia
-entrust
+entrust 1
 enerve
 ermanaric
 educatable
