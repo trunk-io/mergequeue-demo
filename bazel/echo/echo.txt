@@ -1988,7 +1988,7 @@ exhalents
 ectoblast 1
 eaglet
 extrascriptural
-equidistribution
+equidistribution 1
 embain
 effecting
 eudaemony
