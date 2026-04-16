@@ -8852,7 +8852,7 @@ excretive
 elt 1
 epithesis
 enshrined
-exploders
+exploders 1
 elettaria
 elytroid
 electable
