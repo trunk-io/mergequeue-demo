@@ -6391,7 +6391,7 @@ exudatory 1
 execute
 ebonizes
 embark
-easylike
+easylike 1
 emigrational
 encryptions
 ensconces
