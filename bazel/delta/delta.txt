@@ -12980,7 +12980,7 @@ disfavourer 1
 decodings
 dandify
 disgusts
-disorderer
+disorderer 1
 disquieter
 deactivating
 dorsicolumn
