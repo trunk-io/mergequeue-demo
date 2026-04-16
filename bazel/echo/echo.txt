@@ -8732,7 +8732,7 @@ ergostat
 evaporativity
 essenhout
 exuberancy
-embroiderer
+embroiderer 1
 explosible
 ephemerality
 entrenched

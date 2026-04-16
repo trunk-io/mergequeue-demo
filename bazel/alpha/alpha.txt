@@ -4777,7 +4777,7 @@ aerophobic
 acinus
 aulostomid
 asgmt
-alutaceous
+alutaceous 1
 apron
 anhydrously
 apyrexial
