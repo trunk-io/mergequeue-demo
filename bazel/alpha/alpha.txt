@@ -19127,7 +19127,7 @@ autogenies
 attenuation
 anciennete
 allantoin
-astate
+astate 1
 archcharlatan
 asmoke
 antipolo
