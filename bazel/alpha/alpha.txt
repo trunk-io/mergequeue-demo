@@ -24233,7 +24233,7 @@ accrementitial
 autoindexing 1
 autoalarm
 ambash
-autocephality
+autocephality 1
 alar 1
 attractant
 addleness
