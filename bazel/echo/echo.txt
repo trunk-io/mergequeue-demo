@@ -3716,7 +3716,7 @@ eriophyes
 ecklein
 extrastomachal
 ephemeral
-exocyclic
+exocyclic 1
 elkhorn
 experimentalize
 epigrammatical
