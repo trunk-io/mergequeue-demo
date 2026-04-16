@@ -9319,7 +9319,7 @@ escritorial
 et
 escrowing
 expedition
-enfaces
+enfaces 1
 enroll
 explicate
 essences
