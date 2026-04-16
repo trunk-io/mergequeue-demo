@@ -14373,7 +14373,7 @@ discreditable
 disseverment
 disquisite
 diploidy
-demicadence
+demicadence 1
 digestiveness 1
 destitution
 dispositioned
