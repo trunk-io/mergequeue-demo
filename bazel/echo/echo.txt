@@ -1782,7 +1782,7 @@ emanate
 epurate 1
 epineuneuria
 evocation
-epilimnia
+epilimnia 1
 envisaging
 epimanikion
 enworthed
