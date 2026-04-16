@@ -16826,7 +16826,7 @@ allodialist
 aphrodite
 aberrate
 affidavy
-anaclastic
+anaclastic 1
 araneose
 aevia
 adenemphractic
