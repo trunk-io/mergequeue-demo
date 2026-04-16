@@ -2140,7 +2140,7 @@ centrifuge
 campylite
 campylometer
 calculi
-charterage
+charterage 1
 cynicist
 campylotropous
 corregidors
