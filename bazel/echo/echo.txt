@@ -9175,7 +9175,7 @@ electricize
 eigenfrequency 1
 evanescenrly
 elephas
-eophyton
+eophyton 1
 europa
 extrospective
 extralinguistically
