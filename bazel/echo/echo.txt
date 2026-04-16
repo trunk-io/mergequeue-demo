@@ -6591,7 +6591,7 @@ extispex
 evolate
 enseam
 ectobronchium
-exhaustibility
+exhaustibility 1
 exurbia
 epimorpha 1
 exedrae
