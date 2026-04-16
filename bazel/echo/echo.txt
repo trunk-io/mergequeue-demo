@@ -7364,7 +7364,7 @@ effusions
 encephalogram
 eozoic
 entires
-encrisp
+encrisp 1
 echoism 1
 epipolize
 encrypted
