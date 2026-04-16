@@ -9492,7 +9492,7 @@ deifications
 dodecylic
 depressant 1
 disseizes
-deindividualization
+deindividualization 1
 dornic
 devotionist
 dollface
