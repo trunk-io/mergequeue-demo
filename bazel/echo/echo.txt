@@ -13547,7 +13547,7 @@ epicentrum
 evaluates
 expected
 elizabethanize
-equianchorate
+equianchorate 1
 entomofauna
 extrafloral
 envire
