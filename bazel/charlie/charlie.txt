@@ -24652,7 +24652,7 @@ confirmor
 chrysalides
 cede
 coinherent
-cope
+cope 1
 cappers 1
 coetaneously
 copelata
