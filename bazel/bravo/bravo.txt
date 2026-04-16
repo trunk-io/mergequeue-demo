@@ -1253,7 +1253,7 @@ byssine 1
 benzopyranyl
 botryomycoma
 butyrinase
-bloomless
+bloomless 1
 bounderish
 bawdyhouses
 broderie
