@@ -16551,7 +16551,7 @@ bareges
 beetles
 borasque
 barksome
-bruskness
+bruskness 1
 bozal
 bemad
 becoiffed
