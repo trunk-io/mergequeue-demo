@@ -1585,7 +1585,7 @@ demanders
 decoic
 dextroaural
 determents
-dynamicity
+dynamicity 1
 deuterogamy
 deaconing
 duskingtide
