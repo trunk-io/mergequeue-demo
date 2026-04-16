@@ -1074,7 +1074,7 @@ blackfriars
 belittler
 bairdi
 bowerbird
-bescoundrel
+bescoundrel 1
 boomerang
 beneficency
 bismer
