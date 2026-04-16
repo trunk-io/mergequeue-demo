@@ -1505,7 +1505,7 @@ diazines
 decollating
 disaltern
 decenters
-decuples
+decuples 1
 drowsier
 disannuller
 diethylenediamine
