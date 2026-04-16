@@ -4706,7 +4706,7 @@ dentiroster
 descender
 devilize
 dungyard
-doorways
+doorways 1
 diwans
 dah
 dependent
