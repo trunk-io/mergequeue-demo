@@ -12356,7 +12356,7 @@ expressly
 endotrophi
 extraversion
 entete
-extract
+extract 1
 espave
 enfoil
 ecalcarate
