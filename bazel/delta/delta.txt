@@ -15585,7 +15585,7 @@ drivehead
 devoutly 1
 deformative
 disillude
-disordinated
+disordinated 1
 deuteromyosinose
 diatheses
 diplexer
