@@ -1860,7 +1860,7 @@ cuvy
 collectorate 1
 coburghership
 craftmanship
-cartonnage
+cartonnage 1
 cambricleaf
 curbstone
 colobus
