@@ -15511,7 +15511,7 @@ dinkeys 1
 denationalising
 dwight
 drumskin
-deplume
+deplume 1
 diplosome
 deposita
 dacryorrhea
