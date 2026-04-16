@@ -8892,7 +8892,7 @@ enspheres
 exclusivity
 edaphology
 eelier
-evaginable
+evaginable 1
 enneasyllabic
 emirates
 enhypostasis
