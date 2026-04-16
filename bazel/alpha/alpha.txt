@@ -9254,7 +9254,7 @@ andi
 accumulates
 astatine
 artificer
-avshar
+avshar 1
 adenophore
 axiomatize
 azole 1
