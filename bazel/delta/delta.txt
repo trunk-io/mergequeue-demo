@@ -11222,7 +11222,7 @@ disendowment 1
 distingue
 derk
 dismal
-dalliance
+dalliance 1
 deheathenize
 diplodocus
 disconsolacy
