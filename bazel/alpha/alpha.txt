@@ -7125,7 +7125,7 @@ autotoxicity
 acrospiring
 aclinic
 adaptor
-argol
+argol 1
 alkaid 1
 antiantitoxin
 antiopiumite
