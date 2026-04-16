@@ -11619,7 +11619,7 @@ brightness 1
 becroak
 besmoothing
 bonewood
-byordinar
+byordinar 1
 bedew
 brevet
 bezesteen
