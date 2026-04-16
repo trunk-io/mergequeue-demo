@@ -6735,7 +6735,7 @@ boatloader
 berthas
 bewinged
 bergfall
-boteler
+boteler 1
 bismuthinite
 bobsleds
 bookstand
