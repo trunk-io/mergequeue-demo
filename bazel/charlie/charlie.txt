@@ -9512,7 +9512,7 @@ chondroxiphoid
 control 1
 cytitis
 chawers
-climb
+climb 1
 crabeating
 colugo
 cyptozoic
