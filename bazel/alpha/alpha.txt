@@ -3398,7 +3398,7 @@ aural 1
 agrapha
 aleak
 ascendant
-akenbold
+akenbold 1
 adenylic
 alsike
 avichi
