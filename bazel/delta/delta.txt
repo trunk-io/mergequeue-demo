@@ -11898,7 +11898,7 @@ directional
 dour
 dentata
 diagenetically
-downsitting
+downsitting 1
 discussionist
 decurrence 1
 discussions
