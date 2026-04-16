@@ -14580,7 +14580,7 @@ counterappeal
 chelidosaurus
 congrue
 contestants
-convalescents
+convalescents 1
 covine
 chalcanthite
 cubbishness
