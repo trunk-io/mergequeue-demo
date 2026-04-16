@@ -10600,7 +10600,7 @@ evasible
 exoplasm
 eupittone
 ergastulum
-erichtoid
+erichtoid 1
 endoprocta 1
 epirogenic
 earnings
