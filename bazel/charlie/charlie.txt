@@ -10300,7 +10300,7 @@ categorizers
 causing
 claudent
 cheveret
-counterweights
+counterweights 1
 contaminates
 cooperancy
 circumfusing 1
