@@ -2648,7 +2648,7 @@ diadic
 dictagraph
 dogwatches
 deracinate
-determined
+determined 1
 dekares
 delubrum
 decompoundable
