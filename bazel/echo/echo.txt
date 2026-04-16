@@ -7513,7 +7513,7 @@ enfeoffing
 extraparochially 2
 excogitated
 eyed
-entertainment
+entertainment 1
 examples
 echidnae
 estrual
