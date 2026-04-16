@@ -14079,7 +14079,7 @@ dumpoke
 downcastness
 dispace
 decretum
-desugared
+desugared 1
 decolorizer
 diastasimetry
 dyspareunia
