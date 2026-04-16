@@ -5371,7 +5371,7 @@ accretions
 appestats
 accipitral
 awakenable
-ataxinomic
+ataxinomic 1
 allyl 1
 actinula
 antigalactic
