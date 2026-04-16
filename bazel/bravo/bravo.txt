@@ -5325,7 +5325,7 @@ battlestead
 bootid
 bombax
 betowel 1
-bandusian 1
+bandusian 2
 bucklum
 behoof
 beshag
