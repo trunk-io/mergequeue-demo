@@ -3855,7 +3855,7 @@ beworming
 baculi
 buckpot 1
 brandling
-bowstring
+bowstring 1
 biangulated
 bogach
 brasquing 1
