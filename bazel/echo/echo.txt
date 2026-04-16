@@ -10205,7 +10205,7 @@ entropion
 epicarides
 ethmolith
 electrodiagnostically
-errsyn
+errsyn 1
 edmund
 epomophorus
 ebonized
