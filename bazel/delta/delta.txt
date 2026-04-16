@@ -264,7 +264,7 @@ departmentalize
 dudish
 dayshine
 decameters
-deteriorates
+deteriorates 1
 disrepair 1
 dictums
 deleerit
