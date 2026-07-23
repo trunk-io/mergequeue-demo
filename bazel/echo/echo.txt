@@ -3610,7 +3610,7 @@ exorbitancy
 enlistment 1
 enguard
 entwisted
-eulerian
+eulerian 1
 eloigners
 electrocardiographs
 echiuroidea
