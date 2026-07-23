@@ -13650,7 +13650,7 @@ electroplate
 excrescence
 echis
 epitaph
-extending
+extending 1
 extensile
 evidence
 eastness
